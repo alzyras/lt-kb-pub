@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20184"></a>
 - t-001
-  global_id: t-20184
   teiginys: "1418 m. Vytauto į Konstancą siųstos G. Camblako delegacijos mišios Konstanco katedroje buvo išsamiai vaizduojamos to meto kronikose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,12 +87,11 @@ Nenurodyta
     imtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis
     prie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-
     lių bendriją vaizduojančią Strasbūro freską.
-  citata_rodoma: |
-    imtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis
+  citata_rodoma: "imtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20184
+    - t-001

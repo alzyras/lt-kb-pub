@@ -41,8 +41,7 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 ## Teiginiai
 
 <a id="claim-t-172016"></a>
-- t-001
-  global_id: t-172016
+- t-018
   teiginys: "1919 m. gegužės 24 d. gen. S. Žukauskas įsakė K. Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės–Daugpilio plentu ir užimti Uteną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
     - c-43946
 
 <a id="claim-t-172018"></a>
-- t-002
-  global_id: t-172018
+- t-017
   teiginys: "Generaliniame Lietuvos teritorijos vadavimo nuo bolševikų plane Ukmergės rinktinė turėjo veržtis Ukmergės–Utenos–Zarasų kryptimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,8 +81,7 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
     - c-156448
 
 <a id="claim-t-185169"></a>
-- t-003
-  global_id: t-185169
+- t-019
   teiginys: "Kojelavičiaus pasakojime Narimantas apgulė Uteną, nes ten buvo pasislėpęs svetimų žmonų viliotoju vadintas žmogus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -102,7 +99,6 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   semantiniai_rysiai: "Narimantas (Pinsko kunigaikštis) apgulė Utena (0.96)"
   pagrindžia:
     - c-168530
-    - c-003
 - susijęs iš [[objektai/asmenys/Bernard Lown.md#claim-t-18851|Bernard Lown]]: Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.
 - susijęs iš [[objektai/asmenys/K. Ladyga.md#claim-t-40248|K. Ladyga]]: K. Ladyga 1919 m. birželio 2 d. su raitininkais slinko į rytus paskui atsitraukiantį priešą.
 - susijęs iš Tauragnai: Dalis raitininkų buvo pasiųsta Tauragnų kryptimi, o likusieji vyko į Uteną.
@@ -178,8 +174,7 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185169
+
 ## Citatos
 
 - id: c-43946
@@ -195,19 +190,15 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
     karin. K. Ladygos vadovaujamai Ukmergės
     rinktinei žygiuoti Ukmergės- Daugpilio
     plentu ir užimti Uteną.
-  citata_rodoma: |
-    1919 m. gegužės 24 d. vyriausiasis
-    kariuomenės vadas gen. S. Žukauskas įsakė
-    karin. K. Ladygos vadovaujamai Ukmergės
-    rinktinei žygiuoti Ukmergės- Daugpilio
-    plentu ir užimti Uteną.
+  citata_rodoma: "1919 m. gegužės 24 d. vyriausiasis\nkariuomenės vadas gen. S. Žukauskas įsakė\nkarin. K. Ladygos vadovaujamai Ukmergės\nrinktinei žygiuoti Ukmergės- Daugpilio\nplentu ir užimti Uteną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172016
+    - t-018
+
 - id: c-156448
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -226,27 +217,15 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
     ## Puslapis 181
 
     | 1881 m. jstojo į Rusijos kariuomenę.
-  citata_rodoma: |
-    Buvo sukurtas
-    generalinis Lietuvos teritorijos nuo bolše-
-    vikų pajėgų išvadavimo planas. Ukmergės
-    rinktinė turėjo veržtis Ukmergės-Utenos-
-    Zarasų kryptimi, Panevėžio rinktinė -
-    Kėdainių-Panevėžio-Rokiškio kryptimi.
-
-    Atskirojo Joniškėlio partizanų, kitaip
-    vadinamojo mirties bataliono kariai
-
-    ## Puslapis 181
-
-    | 1881 m.
+  citata_rodoma: "Buvo sukurtas\ngeneralinis Lietuvos teritorijos nuo bolše-\nvikų pajėgų išvadavimo planas. Ukmergės\nrinktinė turėjo veržtis Ukmergės-Utenos-\nZarasų kryptimi, Panevėžio rinktinė -\nKėdainių-Panevėžio-Rokiškio kryptimi.\n\nAtskirojo Joniškėlio partizanų, kitaip\nvadinamojo mirties bataliono kariai\n\n## Puslapis 181\n\n| 1881 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172018
+    - t-017
+
 - id: c-168530
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -266,30 +245,15 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
     dėjęs greitai atvykti su kariuomene ir pralaužti ap­
     supimą, nakčia, išleistas iš pilies, paspruko per supan­
     čiųjų eiles.
-  citata_rodoma: |
-    Patyręs savo bei žmonos
-    skriaudą, Narimantas liūdėjo, niršo, grasino, tuo tar­
-    pu tas, kuris per aistrą buvo
-    U ž D a u m a n to  p ik ta -
-    praradęs protą, nusikaltimą
-    d a r y t ę
-    N a rim a n ta s
-    parėmė užsispyrimu: pamy-
-    k e ršiįa  karu
-    nęs dorovę, jis arba nematė
-    pavojų, arba jų nepaisė. To­
-    dėl valdovas buvo priverstas griebtis ginklo ir pradėti
-    karą su broliu. Jis apgulė Uteną, kadangi ten buvo
-    pasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk­
-    mės atvirame kovos lauke, nes labiau buvo linkęs prie
-    piktadarybių nei prie karo.
+  citata_rodoma: "Patyręs savo bei žmonos\nskriaudą, Narimantas liūdėjo, niršo, grasino, tuo tar­\npu tas, kuris per aistrą buvo\nU ž D a u m a n to  p ik ta -\npraradęs protą, nusikaltimą\nd a r y t ę\nN a rim a n ta s\nparėmė užsispyrimu: pamy-\nk e ršiįa  karu\nnęs dorovę, jis arba nematė\npavojų, arba jų nepaisė. To­\ndėl valdovas buvo priverstas griebtis ginklo ir pradėti\nkarą su broliu. Jis apgulė Uteną, kadangi ten buvo\npasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk­\nmės atvirame kovos lauke, nes labiau buvo linkęs prie\npiktadarybių nei prie karo."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185169
+    - t-019
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/K. Ladyga]]
 - Gimimo vieta: [[objektai/asmenys/Bernard Lown]]

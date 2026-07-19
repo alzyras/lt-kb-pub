@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189956"></a>
 - t-001
-  global_id: t-189956
   teiginys: "Narbutas žemaičių procesijų veiksmus aiškino kaip senųjų apeigų tąsą: nešant brolijų altorėlius žmonės suguldavo veidais į žemę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189956
+    - t-001

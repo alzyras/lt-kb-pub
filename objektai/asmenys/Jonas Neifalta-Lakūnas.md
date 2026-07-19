@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-79050"></a>
 - t-001
-  global_id: t-79050
   teiginys: "Jonas Neifalta-Lakūnas vadovavo partizanų koviniam vienetui."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ media_all_json: |-
     - c-76150
 
 <a id="claim-t-79051"></a>
-- t-002
-  global_id: t-79051
+- t-003
   teiginys: "Jonas Neifalta-Lakūnas vadovavo partizanų koviniam vienetui, kuriam talkino Aleksandras Podemanskas-Šarūnas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ media_all_json: |-
     - c-76150
 
 <a id="claim-t-79052"></a>
-- t-003
-  global_id: t-79052
+- t-002
   teiginys: "Jonas Neifalta-Lakūnas iki okupacijos tarnavo Alytaus ulonų pulke ir turėjo puskarininkio laipsnį."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -122,7 +119,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79052
+    - t-002
+
 - id: c-76150
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -139,20 +137,12 @@ media_all_json: |-
     Neifalto- Lakūno ir jam talkinančio
 
     Aleksandro Podemansko - Šarūno.
-  citata_rodoma: |
-    Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš
-    akis galimas partizanų negailestingas sankcijas.“
-
-    Partizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos
-    kariuomenės ulonų puskarininkio Jono
-    Neifalto- Lakūno ir jam talkinančio
-
-    Aleksandro Podemansko - Šarūno.
+  citata_rodoma: "Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš\nakis galimas partizanų negailestingas sankcijas.“\n\nPartizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos\nkariuomenės ulonų puskarininkio Jono\nNeifalto- Lakūno ir jam talkinančio\n\nAleksandro Podemansko - Šarūno."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79050
-    - t-79051
+    - t-001
+    - t-003

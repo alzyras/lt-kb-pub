@@ -33,7 +33,6 @@ Antra vertus, Vyslos baseine škutas buvo labai paplitęs laivas, dažniausiai n
 
 <a id="claim-t-201768"></a>
 - t-001
-  global_id: t-201768
   teiginys: "Antra vertus, Vyslos baseine škutas buvo labai paplitęs laivas, dažniausiai naudotas grūdams į Gdanską gabenti."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,6 @@ Antra vertus, Vyslos baseine škutas buvo labai paplitęs laivas, dažniausiai n
 
 <a id="claim-t-201769"></a>
 - t-002
-  global_id: t-201769
   teiginys: "Atsižvelgiant į nurodytas aplinkybes, numanu, kad škutas buvo tokios pat paskirties laivas kaip vytinė, tik didesnis ir prabangiau įrengtas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,7 @@ Antra vertus, Vyslos baseine škutas buvo labai paplitęs laivas, dažniausiai n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201768
+    - t-001
 
 - id: c-185116
   autorius: "Zigmantas Kiaupa"
@@ -93,4 +91,4 @@ Antra vertus, Vyslos baseine škutas buvo labai paplitęs laivas, dažniausiai n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201769
+    - t-002

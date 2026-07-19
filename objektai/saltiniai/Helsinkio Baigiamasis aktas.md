@@ -37,8 +37,7 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
 ## Teiginiai
 
 <a id="claim-t-75451"></a>
-- t-001
-  global_id: t-75451
+- t-003
   teiginys: "Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
     - c-23777
 
 <a id="claim-t-75452"></a>
-- t-002
-  global_id: t-75452
+- t-004
   teiginys: "Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
     - c-73230
 
 <a id="claim-t-75453"></a>
-- t-003
-  global_id: t-75453
+- t-002
   teiginys: "1975 m. Helsinkio Baigiamuoju aktu jo dalyvės įsipareigojo gerbti žmogaus teises."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
     - c-23776
 
 <a id="claim-t-75454"></a>
-- t-004
-  global_id: t-75454
+- t-001
   teiginys: "1975 m. rugpjūčio 1 d. Helsinkyje pasirašytas Baigiamasis aktas padėjo Lietuvos laisvės bylai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -133,18 +129,15 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
     okupacija arba toks įgijimas (teritorijos) nebus pripažįstamas teisėtu“, be
     to, ir SSRS, pasirašydama Baigiamąjį aktą, kitų valstybių akivaizdoje pa-
     tvirtino laisvo apsisprendimo principą visoms tautoms.
-  citata_rodoma: |
-    Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje
-    JAV, Kanados ir 33 Europos valstybių (tarp jų ir Sovietų Sąjungos) pasi-
-    rašytas Baigiamasis aktas – jį pasirašiusios valstybės įsipareigojo gerbti
-    žmogaus teises savo viduje.
+  citata_rodoma: "Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje\nJAV, Kanados ir 33 Europos valstybių (tarp jų ir Sovietų Sąjungos) pasi-\nrašytas Baigiamasis aktas – jį pasirašiusios valstybės įsipareigojo gerbti\nžmogaus teises savo viduje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75454
+    - t-001
+
 - id: c-23776
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -155,16 +148,15 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
     užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
     žurnalą „Sintaksis“, teikė informaciją iš Lietuvos. Tam padėjo 1975 m. Hel-
     sinkio Baigiamasis aktas, kuriuo dalyvės įsipareigojo gerbti žmogaus teises.
-  citata_rodoma: |
-    Hel-
-    sinkio Baigiamasis aktas, kuriuo dalyvės įsipareigojo gerbti žmogaus teises.
+  citata_rodoma: "Hel-\nsinkio Baigiamasis aktas, kuriuo dalyvės įsipareigojo gerbti žmogaus teises."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75453
+    - t-002
+
 - id: c-23777
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -179,17 +171,15 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
     poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
     ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
     tinėmis grupėmis.
-  citata_rodoma: |
-    Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
-    sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-
-    tas valstybes apie žmogaus teisių pažeidimus.
+  citata_rodoma: "Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-\nsios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-\ntas valstybes apie žmogaus teisių pažeidimus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75451
+    - t-003
+
 - id: c-73230
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -211,4 +201,4 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75452
+    - t-004

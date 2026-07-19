@@ -31,7 +31,6 @@ Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir En
 
 <a id="claim-t-190056"></a>
 - t-001
-  global_id: t-190056
   teiginys: "Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir Enėjo laivus iš Kibelei skirtų Idos kalno medžių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -52,9 +51,8 @@ Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir En
 
 <a id="claim-t-194727"></a>
 - t-002
-  global_id: t-194727
   teiginys: "Vergilijus praneša, kad Enėjo laikais virš karstų supildavo kalnus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -62,8 +60,8 @@ Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir En
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-177123
-    - c-002
+    - c-172939
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Vergilijus praneša, kad Enėjo laikais virš karstų supildavo kalnus.'
@@ -81,8 +79,7 @@ Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir En
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194727
+
 ## Citatos
 
 - id: c-172939
@@ -102,7 +99,9 @@ Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir En
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190056
+    - t-001
+    - t-002
+
 - id: c-177123
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -118,18 +117,9 @@ Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir En
     na pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų
     arba jūros bangų nutrintų akmenukų, kuriems dievobaimingi
     žmonės priskiria kažkokią šventumo ypatybe5.
-  citata_rodoma: |
-    371
-
-    ## Puslapis 371
-
-    kad sampilas būtų kuo aukščiausias“1. Vergilijus praneša, kad
-    Enėjo laikais virš karstų supildavo kalnus. Tą patį Ksenofon-
-    tas sako apie persus.
+  citata_rodoma: "371\n\n## Puslapis 371\n\nkad sampilas būtų kuo aukščiausias“1. Vergilijus praneša, kad\nEnėjo laikais virš karstų supildavo kalnus. Tą patį Ksenofon-\ntas sako apie persus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194727

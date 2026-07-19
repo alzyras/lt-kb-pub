@@ -39,8 +39,7 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
 ## Teiginiai
 
 <a id="claim-t-169957"></a>
-- t-001
-  global_id: t-169957
+- t-005
   teiginys: "Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
 
 <a id="claim-t-169958"></a>
 - t-002
-  global_id: t-169958
   teiginys: "Sovietų spaudimo akivaizdoje Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     - c-154638
 
 <a id="claim-t-169959"></a>
-- t-003
-  global_id: t-169959
+- t-001
   teiginys: "1939 m. lapkritį LVLS ir LKDP sutiko deleguoti po du atstovus į tautininko Antano Merkio vyriausybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +88,7 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     - c-154635
 
 <a id="claim-t-169961"></a>
-- t-004
-  global_id: t-169961
+- t-003
   teiginys: "1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietine veikla."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,8 +107,7 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     - c-154640
 
 <a id="claim-t-169962"></a>
-- t-005
-  global_id: t-169962
+- t-004
   teiginys: "Antanas Merkys psichologiškai palūžo nuo Viačeslavo Molotovo rėksmingų kaltinimų absurdiškumo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,18 +134,15 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Anta-
     no Merkio vyriausybę. Tokią taktiką galima įvardyti kaip buvimą „tarp
     valdžios ir opozicijos“, kaip „kompromisų politiką“.
-  citata_rodoma: |
-    LVLS ir LKDP neparei-
-    kalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du
-    savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Anta-
-    no Merkio vyriausybę.
+  citata_rodoma: "LVLS ir LKDP neparei-\nkalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du \nsavo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Anta-\nno Merkio vyriausybę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169959
+    - t-001
+
 - id: c-154637
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -162,18 +154,15 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
     sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
     į Maskvą ministrą J. Urbšį.
-  citata_rodoma: |
-    Nuo V. Molotovo rėksmingų kaltinimų
-    absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
-    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
-    į Maskvą ministrą J. Urbšį.
+  citata_rodoma: "Nuo V. Molotovo rėksmingų kaltinimų \nabsurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune \nsužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti \nį Maskvą ministrą J. Urbšį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169962
+    - t-004
+
 - id: c-154638
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -185,15 +174,15 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     Lietuvos ministrą pirmininką A. Merkį. Grėsmės akivaizdoje prezidentas
     A. Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų
     1939 m. spalio 10 d. sutarties.
-  citata_rodoma: |
-    A. Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų
+  citata_rodoma: "A. Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169958
+    - t-002
+
 - id: c-154639
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -206,17 +195,15 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     skaudžiai nubausta. Krikščionys demokratai ir liaudininkai, prieš tai su-
     sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
     krikščionims demokratams gen. S. Raštikį.
-  citata_rodoma: |
-    Krikščionys demokratai ir liaudininkai, prieš tai su-
-    sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
-    krikščionims demokratams gen. S. Raštikį.
+  citata_rodoma: "Krikščionys demokratai ir liaudininkai, prieš tai su-\nsitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą \nkrikščionims demokratams gen. S. Raštikį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169957
+    - t-005
+
 - id: c-154640
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -229,13 +216,11 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     1939 m. spalio 10 d. sutarties.
     Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas
     sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
-  citata_rodoma: |
-    Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas
-    sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
+  citata_rodoma: "Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas \nsukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169961
+    - t-003

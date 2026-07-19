@@ -31,7 +31,6 @@ Marcinkevičių ir dar vieną rusą karininką.
 
 <a id="claim-t-39596"></a>
 - t-001
-  global_id: t-39596
   teiginys: "Leitenantas Marcinkevičius buvo vienas iš trijų NKGB dalinio vadų, kuriuos nukovė Tigras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,6 +80,7 @@ Marcinkevičių ir dar vieną rusą karininką.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39596
+    - t-001
+
 ## Ryšiai
 - Puolė Marcinkevičių: [[objektai/asmenys/Tigras]]

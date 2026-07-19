@@ -36,7 +36,6 @@ Dusburgietis teigia, kad zajączkowski S.
 
 <a id="claim-t-61377"></a>
 - t-001
-  global_id: t-61377
   teiginys: "S. Zajączkowskio straipsnis „Jotvingių problema istoriografijoje“ paskelbtas 1941 m. leidinio „Lietuvos praeitis“ 1 tomo 2 sąsiuvinyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad zajączkowski S.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61377
+    - t-001

@@ -30,9 +30,8 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
 
 <a id="claim-t-186205"></a>
 - t-001
-  global_id: t-186205
   teiginys: "Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,7 +49,6 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
 
 <a id="claim-t-196466"></a>
 - t-002
-  global_id: t-196466
   teiginys: "Kojelavičiaus pasakojime Grigorijus iš Polonos prie Naugarduko pasistatė vienuolyną ir su bendraminčiais ėmė dievobaimingai gyventi."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -87,25 +85,12 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
     kad nenurimtų neatkeršijęs Treniotai už tiek daug pik­
     tadarybių, kad tėvui Mindaugui paaukotų jo žudiko
     kraują.
-  citata_rodoma: |
-    Vaišvilkas mat, pasipiktinęs savo tėvo Min­
-    daugo atsimetimu nuo krikščionių tikybos, pabėgo pas
-    rusus, kur kitados gyveno kaip įkaitas. Didžiai pasi­
-    keitus aplinkybėms, jo širdis ten palinko niekinti visa,
-    kas žemiška, todėl, išpažinęs griežtesnių regulų gyve­
-    nimą pagal Grigorijaus iš Polonos mokslą, gyveno Ga-
-    liče. Gal dėl kitos priežasties, o gal vildamasis atvers­
-    ti į krikščionių tikėjimą tėvą karalių bei savo tautą,
-    iš ten jis vėl persikraustė į Lietuvą; netoli Naugardu­
-    ko Nemuno pakrantėje pasistatęs vienuolyną, ten ėmė
-    su daugeliu tokio pat gyvenimo bendrininkų dievo­
-    baimingai ir pastoviai gyventi, kartkartėmis, tiesa,
-    kurstomas didikų.
+  citata_rodoma: "Vaišvilkas mat, pasipiktinęs savo tėvo Min­\ndaugo atsimetimu nuo krikščionių tikybos, pabėgo pas\nrusus, kur kitados gyveno kaip įkaitas. Didžiai pasi­\nkeitus aplinkybėms, jo širdis ten palinko niekinti visa,\nkas žemiška, todėl, išpažinęs griežtesnių regulų gyve­\nnimą pagal Grigorijaus iš Polonos mokslą, gyveno Ga-\nliče. Gal dėl kitos priežasties, o gal vildamasis atvers­\nti į krikščionių tikėjimą tėvą karalių bei savo tautą,\niš ten jis vėl persikraustė į Lietuvą; netoli Naugardu­\nko Nemuno pakrantėje pasistatęs vienuolyną, ten ėmė\nsu daugeliu tokio pat gyvenimo bendrininkų dievo­\nbaimingai ir pastoviai gyventi, kartkartėmis, tiesa,\nkurstomas didikų."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186205
-    - t-196466
+    - t-001
+    - t-002

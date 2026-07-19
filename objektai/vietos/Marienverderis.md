@@ -40,8 +40,7 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
 ## Teiginiai
 
 <a id="claim-t-184179"></a>
-- t-001
-  global_id: t-184179
+- t-005
   teiginys: "Antrosios atskalūnybės metais prūsai prie Marienverderio surengė pasalą, užėmė miestą, jį sudegino ir pasitraukė su grobiu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
     - c-167564
 
 <a id="claim-t-184180"></a>
-- t-002
-  global_id: t-184180
+- t-006
   teiginys: "Prūsai antrą kartą sugriovė atstatytą Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba nužudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -145,7 +143,8 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184179
+    - t-005
+
 - id: c-167565
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -167,6 +166,7 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184180
+    - t-006
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Hermanas (Ordino magistras)]], [[objektai/grupes/Kryžiuočių ordinas]]

@@ -32,43 +32,27 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
 
 <a id="claim-t-58436"></a>
 - t-001
-  global_id: t-58436
   teiginys: "Lietuvių kariuomenė Goliubo pilies apylinkėse apiplėšė penkis Kulmo žemės kaimus."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kulmas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Įsibrovimas į Kulmo žemę nurodo lietuvių puolimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59068
+
+<a id="claim-t-58437"></a>
+- t-003
+  teiginys: "Pareigų atsisakęs asmuo apsigyveno savo pasistatytoje Goliubo pilyje, ten mirė ir buvo palaidotas Kulmenzės katedros bažnyčioje."
+  atnaujinta: "2026-07-19 16:46"
+  sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59070
-    - c-003
-<a id="claim-t-58437"></a>
-- t-002
-  global_id: t-58437
-  teiginys: "Pareigų atsisakęs asmuo apsigyveno savo pasistatytoje Goliubo pilyje, ten mirė ir buvo palaidotas Kulmenzės katedros bažnyčioje."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kulmenzė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Goliubo pilis (pilis): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kulmenzė: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Goliubo pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Kulmenzė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59069
-    - c-002
+    - c-167540
+
 <a id="claim-t-58438"></a>
-- t-003
-  global_id: t-58438
+- t-002
   teiginys: "Goliubo pilis stovėjo prie Drevantos, į šiaurės rytus nuo Torunės."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Torunė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,10 +64,9 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59068
-    - c-001
+
 <a id="claim-t-184155"></a>
 - t-004
-  global_id: t-184155
   teiginys: "Lietuvių kariuomenė Goliubo pilies apylinkėse apiplėšė penkis kaimus ir paėmė į nelaisvę arba nužudė daug krikščionių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -100,7 +83,6 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167540
-    - c-004
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59879|Bertoldas, vadinamas Briuhavenu]]: 1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.
 - susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60020|Gotfridas Hohenlohė]]: 1298 m. Gotfridas Hohenlohė lankėsi Prūsijoje ir pasiuntė Bertoldą Briuhaveną su kariais į pagalbą Livonijos broliams.
 - susijęs iš [[objektai/ivykiai/Rygos apsiausties pralaužimas (1298 m. birželio 29 d.).md#claim-t-62913|Rygos apsiausties pralaužimas (1298 m. birželio 29 d.)]]: 1298 m. birželio 29 d. Prūsijos ir Livonijos ordino pajėgos nukovė per 4 tūkst. Rygos miestiečių ir lietuvių.
@@ -122,8 +104,6 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58438
 - c-002
   santrauka: 'Pareigų atsisakęs asmuo apsigyveno savo pasistatytoje Goliubo pilyje, ten mirė ir buvo palaidotas Kulmenzės katedros bažnyčioje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -138,8 +118,6 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58437
 - c-003
   santrauka: 'Lietuvių kariuomenė Goliubo pilies apylinkėse apiplėšė penkis Kulmo žemės kaimus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -155,8 +133,6 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58436
 - c-004
   santrauka: 'Lietuvių kariuomenė Goliubo pilies apylinkėse apiplėšė penkis kaimus ir paėmė į nelaisvę arba nužudė daug krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -177,8 +153,7 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184155
+
 ## Citatos
 
 - id: c-59068
@@ -195,20 +170,16 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
     Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar
     išžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
     turėjo didelių nuostolių sunkiai sužeistaisiais.
-  citata_rodoma: |
-    Šie,
-    susijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio
-    29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę
-
-      549 Goliubo pilis prie Drevantos,  į šiaurės rytus nuo Torunės (SZCh, p. 36), dab.
-    Golub-Dobrzyń.
+  citata_rodoma: "Šie,\nsusijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio\n29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę\n\n  549 Goliubo pilis prie Drevantos,  į šiaurės rytus nuo Torunės (SZCh, p. 36), dab.\nGolub-Dobrzyń."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58438
+    - t-001
+    - t-002
+
 - id: c-59069
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -220,22 +191,13 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
     „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave į tokią vietą, kur tu pelnysi
     didelį grobį“. Henrikas nudžiugo ir, užsėdęs savo žirgą, nusekė iš paskos visokiausiais
     keliais ir šunkeliais.
-  citata_rodoma: |
-    Pailsęs nuo rūpesčių ir palaužtas negalės,
-    ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia
-    pasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.
-
-
-
-
-             280 (273).
+  citata_rodoma: "Pailsęs nuo rūpesčių ir palaužtas negalės,\nilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia\npasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.\n\n\n\n\n         280 (273)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-58437
 - id: c-59070
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -248,23 +210,15 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
     Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas
     apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius
     ir keletą dienų jos ištykojo, tačiau, kai jam įkyrėjo laukti, paleido savo žmones.
-  citata_rodoma: |
-    268 (261) Apie penkių kaimų apiplėšimą
-
-      Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
-    penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
-
-
-
-
-       269 (262).
+  citata_rodoma: "268 (261) Apie penkių kaimų apiplėšimą\n\n  Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė\npenkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.\n\n\n\n\n   269 (262)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58436
+    - t-003
+
 - id: c-167540
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -284,28 +238,12 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
     Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas
     apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius
     ir keletą dienų jos ištykojo, tačiau, kai jam įkyrėjo laukti, paleido savo žmones.
-  citata_rodoma: |
-    Šis,
-    bemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino
-    pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,
-    kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.
-
-
-
-
-                       268 (261) Apie penkių kaimų apiplėšimą
-
-      Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
-    penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
-
-
-
-
-       269 (262).
+  citata_rodoma: "Šis,\nbemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino\npilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,\nkai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.\n\n\n\n\n                   268 (261) Apie penkių kaimų apiplėšimą\n\n  Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė\npenkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.\n\n\n\n\n   269 (262)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184155
+    - t-003
+    - t-004

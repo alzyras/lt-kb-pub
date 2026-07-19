@@ -31,8 +31,7 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
 ## Teiginiai
 
 <a id="claim-t-12593"></a>
-- t-001
-  global_id: t-12593
+- t-002
   teiginys: "Tėvūnai dvaruose prižiūrėjo visą tų dvarų ūkį."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     - c-14716
 
 <a id="claim-t-70370"></a>
-- t-002
-  global_id: t-70370
+- t-003
   teiginys: "Tėvūnais vadinti dvarų prievaizdai, per kuriuos kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,8 +64,7 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     - c-69407
 
 <a id="claim-t-182983"></a>
-- t-003
-  global_id: t-182983
+- t-004
   teiginys: "Tėvūnai iš valstiečių galėjo reikalauti tik kunigaikščio nustatytų prievolių."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -99,16 +96,15 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     tininkų. Jų prievolė buvo valdyti tuos kraštus d. kun. vardu:
     prižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d. kun.
     dvaruose sėdėjo ir tėvūnai, prižiūrintieji visą tų dvarų ūkį.
-  citata_rodoma: |
-    prižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d. kun.
-    dvaruose sėdėjo ir tėvūnai, prižiūrintieji visą tų dvarų ūkį.
+  citata_rodoma: "prižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d. kun.\ndvaruose sėdėjo ir tėvūnai, prižiūrintieji visą tų dvarų ūkį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12593
+    - t-002
+
 - id: c-69407
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -122,19 +118,15 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     ninkus ir dvarų prievaizdus, vadinamus tėvūnais; o šie
     iš valstiečių galėjo reikalauti tik tokių prievolių, kokios buvo
     kunigaikščio nustatytos.
-  citata_rodoma: |
-    Kunigaikščiai valdė
-    savo žemes ir teisė jose gyvenančius žmones per savo vieti-
-    ninkus ir dvarų prievaizdus, vadinamus tėvūnais; o šie
-    iš valstiečių galėjo reikalauti tik tokių prievolių, kokios buvo
-    kunigaikščio nustatytos.
+  citata_rodoma: "Kunigaikščiai valdė\nsavo žemes ir teisė jose gyvenančius žmones per savo vieti-\nninkus ir dvarų prievaizdus, vadinamus tėvūnais; o šie\niš valstiečių galėjo reikalauti tik tokių prievolių, kokios buvo\nkunigaikščio nustatytos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70370
+    - t-003
+
 - id: c-166381
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -153,4 +145,4 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182983
+    - t-004

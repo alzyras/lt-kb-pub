@@ -31,7 +31,6 @@ Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno
 
 <a id="claim-t-197878"></a>
 - t-002
-  global_id: t-197878
   teiginys: "Ant Rinavos kalno buvo tokia Gailgarbio, arba Galgarbeno1, pilis, kur, anot padavimų, savo rezidenciją įkūrė dar Vaidevučio sūnus Šamas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -41,18 +40,6 @@ Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179377
-
-<a id="claim-t-192837"></a>
-- t-001
-  global_id: t-192837
-  teiginys: 'Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno, kur Vaidevučio sūnus Šamas įkūrė rezidenciją.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Padavimo pobūdis paliktas su Narbuto atribucija, o vieta ir asmuo įvardyti aiškiai. Nepridėta vėlesnė informacija apie karo laužus.'
-  susije_objektai: 'mentioned_place: Rinava'
-  pagrindžia:
-    - c-001
 - susijęs iš [[objektai/paprociai/Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą.md#claim-t-192101|Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą]]: Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą.
 - susijęs iš [[objektai/paprociai/Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą.md#claim-t-192510|Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą]]: Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą.
 ## Reikšmingi paminėjimai
@@ -74,11 +61,9 @@ Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno
     vėliavomis, jei priešas išsilaipindavo pakrantėse.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192837
+  statusas: verified
 ## Citatos
 
 - id: c-179377
@@ -99,4 +84,4 @@ Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197878
+    - t-002

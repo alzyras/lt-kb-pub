@@ -31,7 +31,6 @@ Vien tik Vytauto privilegi­ jos Rygos, vokiečių ir rusų pirkliams, liudijan�
 
 <a id="claim-t-86822"></a>
 - t-001
-  global_id: t-86822
   teiginys: "Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudijo jo globą prekybai Vilniuje ir visoje šalyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,21 +64,11 @@ Vien tik Vytauto privilegi­ jos Rygos, vokiečių ir rusų pirkliams, liudijan�
     ministravimo atžvilgiu nedaug tesiskyrė nuo tos, kokią paliko
     Vladislovas Jogaila, kai po krikščionybės įvedimo krašto val­
     dymą buvo pavedęs Skirgailai.
-  citata_rodoma: |
-    Laikas nutrynė pėdsa­
-    kus raštuose: nežinia, kokių pokyčių miesto valdyme būta ir
-    kokių dar laisvių duota gyventojams tuo laikotarpiu, po pir­
-    mųjų Magdeburgo teisių suteikimo. Vien tik Vytauto privilegi­
-    jos Rygos, vokiečių ir rusų pirkliams, liudijančios, kaip uoliai
-    tas monarchas globojo prekybą savo sostinėje ir visoje šalyje,
-    išsilaikė iki mūsų dienų; tačiau, regis, kad miesto padėtis jo ad­
-    ministravimo atžvilgiu nedaug tesiskyrė nuo tos, kokią paliko
-    Vladislovas Jogaila, kai po krikščionybės įvedimo krašto val­
-    dymą buvo pavedęs Skirgailai.
+  citata_rodoma: "Laikas nutrynė pėdsa­\nkus raštuose: nežinia, kokių pokyčių miesto valdyme būta ir \nkokių dar laisvių duota gyventojams tuo laikotarpiu, po pir­\nmųjų Magdeburgo teisių suteikimo. Vien tik Vytauto privilegi­\njos Rygos, vokiečių ir rusų pirkliams, liudijančios, kaip uoliai \ntas monarchas globojo prekybą savo sostinėje ir visoje šalyje, \nišsilaikė iki mūsų dienų; tačiau, regis, kad miesto padėtis jo ad­\nministravimo atžvilgiu nedaug tesiskyrė nuo tos, kokią paliko \nVladislovas Jogaila, kai po krikščionybės įvedimo krašto val­\ndymą buvo pavedęs Skirgailai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86822
+    - t-001

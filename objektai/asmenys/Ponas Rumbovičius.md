@@ -30,7 +30,6 @@ Narbutas poną Rumbovičių įvardija kaip Vilniaus gimnazijos matematikos mokyt
 
 <a id="claim-t-190202"></a>
 - t-001
-  global_id: t-190202
   teiginys: "Narbutas poną Rumbovičių įvardija kaip Vilniaus gimnazijos matematikos mokytoją, pasakojusį apie Podčašinskio apžiūrėtus Vilniaus katedros varpinės ženklus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas poną Rumbovičių įvardija kaip Vilniaus gimnazijos matematikos mokyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190202
+    - t-001

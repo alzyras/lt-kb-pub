@@ -31,7 +31,6 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
 
 <a id="claim-t-20932"></a>
 - t-001
-  global_id: t-20932
   teiginys: "Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,6 +45,7 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
   pagrindžia:
     - c-23658
     - c-166894
+
 ## Citatos
 
 - id: c-23658
@@ -59,15 +59,15 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
     vo kone šimtatūkstantinę minią žmonių gauta žinia pravirkdė. Savo laiške
     prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei
     ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu.
-  citata_rodoma: |
-    prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei
+  citata_rodoma: "prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20932
+    - t-001
+
 - id: c-166894
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -84,3 +84,5 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

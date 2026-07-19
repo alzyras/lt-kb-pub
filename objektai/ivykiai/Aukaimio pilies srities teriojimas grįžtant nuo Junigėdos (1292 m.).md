@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-31405"></a>
 - t-001
-  global_id: t-31405
   teiginys: "1292 m. grįždami nuo Junigėdos kryžiuočiai teriojo 1291 m. sudegintos Aukaimio pilies sritį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,16 +87,11 @@ Nenurodyta
     1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­
     gindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies
     kalne^25.
-  citata_rodoma: |
-    Grįždami nuo Junigėdos 1292, kryžiuočiai
-    teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
-    1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­
-    gindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies
-    kalne^25.
+  citata_rodoma: "Grįždami nuo Junigėdos 1292, kryžiuočiai\nteriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.\n1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­\ngindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies\nkalne^25."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31405
+    - t-001

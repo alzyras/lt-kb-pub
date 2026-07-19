@@ -41,8 +41,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
 ## Teiginiai
 
 <a id="claim-t-152689"></a>
-- t-001
-  global_id: t-152689
+- t-003
   teiginys: "Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internaciolinius santykius ir pareikalavo pritaikyti pakto 11 str."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     - c-139021
 
 <a id="claim-t-152690"></a>
-- t-002
-  global_id: t-152690
+- t-004
   teiginys: "E. Galvanauskas manė, kad per Ambasadorių konferenciją Lietuva Klaipėdos negaus, todėl nusistatė kraštą užimti jėga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     - c-139021
 
 <a id="claim-t-152691"></a>
-- t-003
-  global_id: t-152691
+- t-002
   teiginys: "1923 m. kovo 15 d. Ambasadorių konferencija paliko Vilnių Lenkijai ir patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,8 +93,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     - c-139019
 
 <a id="claim-t-152692"></a>
-- t-004
-  global_id: t-152692
+- t-005
   teiginys: "1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,8 +112,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     - c-139020
 
 <a id="claim-t-182883"></a>
-- t-005
-  global_id: t-182883
+- t-001
   teiginys: "Ambasadorių Konferencija Klaipėdos konvencijos nuostatais siekė pralaužti Lietuvos nusistatymą Lenkijos atžvilgiu ir patenkinti Lenkijos laisvo tranzito reikalavimus."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -171,7 +166,8 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-152691
+    - t-002
+
 - id: c-139020
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -187,23 +183,15 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
     nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
     tine ir karine pergale, kokia ji iš tiesų ir buvo.
-  citata_rodoma: |
-    VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
-    teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    153
-    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
-    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
-    nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
-    tine ir karine pergale, kokia ji iš tiesų ir buvo.
+  citata_rodoma: "VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis \nteisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n153\nKilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino \nšį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-\nnias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-\ntine ir karine pergale, kokia ji iš tiesų ir buvo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-152692
+    - t-005
+
 - id: c-139021
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -216,24 +204,16 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot
     A. Smetonos, be faktinės kontrolės nebus juridinės), J. Pilsudskio pavyz-
     džiu pastatyti visus į fait accompli padėtį ir tada derėtis.
-  citata_rodoma: |
-    VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
-    teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    153
-    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
-    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
-    nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
-    tine ir karine pergale, kokia ji iš tiesų ir buvo.
+  citata_rodoma: "VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis \nteisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n153\nKilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino \nšį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-\nnias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-\ntine ir karine pergale, kokia ji iš tiesų ir buvo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-152689
-    - t-152690
+    - t-003
+    - t-004
+
 - id: c-166287
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -251,4 +231,4 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182883
+    - t-001

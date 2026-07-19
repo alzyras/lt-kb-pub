@@ -38,7 +38,6 @@ Matulis : Kun.
 
 <a id="claim-t-30997"></a>
 - t-001
-  global_id: t-30997
   teiginys: "St. Matulis 1961 m. LASD IV tome paskelbė darbą „Kun. prof. dr. Jonas Totoraitis“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,14 +66,11 @@ Matulis : Kun.
     (^81) **St. Matulis :** **_Kun. prof. dr. Jonas Totoraitis,_** **LASD, 1961, IV t.,
     275-277 p.
     81a Žr. P. Šležas :** **_Prof. kun. A. Alekna,_** **Athen, II, 1 nr., 37-88 p.**
-  citata_rodoma: |
-    **
-    (^81) **St. Matulis :** **_Kun. prof. dr. Jonas Totoraitis,_** **LASD, 1961, IV t.,
-    275-277 p.
+  citata_rodoma: "**\n(^81) **St. Matulis :** **_Kun. prof. dr. Jonas Totoraitis,_** **LASD, 1961, IV t.,\n275-277 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30997
+    - t-001

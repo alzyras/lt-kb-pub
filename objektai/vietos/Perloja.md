@@ -37,9 +37,8 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-50179"></a>
-- t-001
-  global_id: t-50179
+<a id="claim-t-50178"></a>
+- t-003
   teiginys: "Gruodžio 16 d. Marcinkonių bataliono vyrai puolė Perlojos stribų įgulą ir ją sunaikino."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ media_all_json: |-
 
 <a id="claim-t-50180"></a>
 - t-002
-  global_id: t-50180
   teiginys: "Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė 5 stribus, o partizanai nuostolių nepatyrė."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ media_all_json: |-
     - c-43738
 
 <a id="claim-t-50181"></a>
-- t-003
-  global_id: t-50181
+- t-004
   teiginys: "Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus ir patys nuostolių nepatyrė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,21 +106,15 @@ media_all_json: |-
     Mūšio padariniai
     Operacijos metu žuvo 4 partizanai ir 2 buvo
     sužeisti.
-  citata_rodoma: |
-    Marcinkonių bataliono vyrams buvo
-    nesmagu dėl savo pavėlavimo į kauty-
-    nes, todėl jie kitą, gruodžio 16 d. puolė
-    Perlojos stribų įgulą ir ją sunaikino.
-    Mūšio padariniai
-    Operacijos metu žuvo 4 partizanai ir 2 buvo
-    sužeisti.
+  citata_rodoma: "Marcinkonių bataliono vyrams buvo\nnesmagu dėl savo pavėlavimo į kauty-\nnes, todėl jie kitą, gruodžio 16 d. puolė\nPerlojos stribų įgulą ir ją sunaikino.\nMūšio padariniai\nOperacijos metu žuvo 4 partizanai ir 2 buvo\nsužeisti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50179
+    - t-003
+
 - id: c-43738
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -137,21 +128,15 @@ media_all_json: |-
     kosvaidžiai, keletas automatų bei šautuvų
     ir nemažas kiekis šaudmenų, sunaikin-
     tas valsčius, dalinai milicija ir paštas.
-  citata_rodoma: |
-    Dar 5 stribai nukauti kitą dieną
-    Perlojoje Marcinkonių bataliono vyrų
-    (partizanai nuostolių nepatyrė). Paimtos 2
-    rašomosios mašinėlės, taip pat 4 nauji kul-
-    kosvaidžiai, keletas automatų bei šautuvų
-    ir nemažas kiekis šaudmenų, sunaikin-
-    tas valsčius, dalinai milicija ir paštas.
+  citata_rodoma: "Dar 5 stribai nukauti kitą dieną\nPerlojoje Marcinkonių bataliono vyrų\n(partizanai nuostolių nepatyrė). Paimtos 2\nrašomosios mašinėlės, taip pat 4 nauji kul-\nkosvaidžiai, keletas automatų bei šautuvų\nir nemažas kiekis šaudmenų, sunaikin-\ntas valsčius, dalinai milicija ir paštas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50180
-    - t-50181
+    - t-002
+    - t-004
+
 ## Ryšiai
 - Puolė Perloją: [[objektai/grupes/Marcinkonių batalionas]]

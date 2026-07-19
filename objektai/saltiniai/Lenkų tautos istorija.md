@@ -32,7 +32,6 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
 
 <a id="claim-t-31786"></a>
 - t-001
-  global_id: t-31786
   teiginys: "Adomo Stanislovo Naruševičiaus šešių tomų veikalas „Lenkų tautos istorija“ plačiai apėmė ir Lietuvos istoriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
 
 <a id="claim-t-191926"></a>
 - t-002
-  global_id: t-191926
   teiginys: "Naruševičius „Lenkijos istorijos“ pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus, arba Maroszy, upės pakrantėje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -67,10 +65,9 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174808
-    - c-002
+
 <a id="claim-t-197680"></a>
 - t-003
-  global_id: t-197680
   teiginys: "Tuo remdamasis, Naruševičius savo Lenkijos istorijos pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje šios upės pakrantėje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -98,8 +95,7 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191926
+
 ## Citatos
 
 - id: c-33620
@@ -114,20 +110,15 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
     praeities studijas. Sudarydamas savo istorijos rašymo « mokyklą »,
     Naruševičius visokių negerovių šaltiniu telaikė monarcho valdžios
     aprėžimą.
-  citata_rodoma: |
-    Plačiai užgriebdamas ir Lietuvos istoriją,
-    vysk. Adomas Stanislovas Naruševičius (Naruszewicz) savo
-    6 tomų veikalu «Lenkų tautos istorija»^34 pradėjo kritiškas
-    praeities studijas. Sudarydamas savo istorijos rašymo « mokyklą »,
-    Naruševičius visokių negerovių šaltiniu telaikė monarcho valdžios
-    aprėžimą.
+  citata_rodoma: "Plačiai užgriebdamas ir Lietuvos istoriją,\nvysk. Adomas Stanislovas Naruševičius (Naruszewicz) savo\n6 tomų veikalu «Lenkų tautos istorija»^34 pradėjo kritiškas\npraeities studijas. Sudarydamas savo istorijos rašymo « mokyklą »,\nNaruševičius visokių negerovių šaltiniu telaikė monarcho valdžios\naprėžimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31786
+    - t-001
+
 - id: c-174808
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -151,5 +142,5 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191926
-    - t-197680
+    - t-002
+    - t-003

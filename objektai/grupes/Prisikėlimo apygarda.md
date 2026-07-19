@@ -37,8 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-41115"></a>
-- t-001
-  global_id: t-41115
+- t-004
   teiginys: "1949 m. rugpjūčio 13 d. Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ media_all_json: |-
     - c-42899
 
 <a id="claim-t-41116"></a>
-- t-002
-  global_id: t-41116
+- t-001
   teiginys: "1948 m. Jungtinė Kęstučio apygarda buvo padalinta į Kęstučio ir Prisikėlimo apygardas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ media_all_json: |-
     - c-44835
 
 <a id="claim-t-41117"></a>
-- t-003
-  global_id: t-41117
+- t-002
   teiginys: "Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta Maironio rinktine."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ media_all_json: |-
     - c-44834
 
 <a id="claim-t-41118"></a>
-- t-004
-  global_id: t-41118
+- t-003
   teiginys: "Prisikėlimo apygardos partizanė Aleksandra Atgailainytė pasakojo apie KGB-MGB provokaciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,7 +138,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41118
+    - t-003
+
 - id: c-42899
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -167,7 +164,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41115
+    - t-004
+
 - id: c-44834
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -184,23 +182,15 @@ media_all_json: |-
     zanų vadų susirinkimų vieta (čia
     1949 m. vasario 16 d. pasirašyta
     LLKS deklaracija).
-  citata_rodoma: |
-    Prisikėlimo apygardoje buvo
-    atkurta P. Lukšio rinktinė (netrukus pervadinta į
-    Maironio), joje J. Paliūnas užėmė svar-
-    bias pareigas. Naujoji Prisikėlimo
-    apygarda dėl savo geografinės pa-
-    dėties tapo visos Lietuvos parti-
-    zanų vadų susirinkimų vieta (čia
-    1949 m. vasario 16 d. pasirašyta
-    LLKS deklaracija).
+  citata_rodoma: "Prisikėlimo apygardoje buvo\natkurta P. Lukšio rinktinė (netrukus pervadinta į\nMaironio), joje J. Paliūnas užėmė svar-\nbias pareigas. Naujoji Prisikėlimo\napygarda dėl savo geografinės pa-\ndėties tapo visos Lietuvos parti-\nzanų vadų susirinkimų vieta (čia\n1949 m. vasario 16 d. pasirašyta\nLLKS deklaracija)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41117
+    - t-002
+
 - id: c-44835
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -211,14 +201,11 @@ media_all_json: |-
     rio rinktinę. 1948 m. Jungtinė Kęstučio apygarda (ku-
     riai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir
     Prisikėlimo apygardas.
-  citata_rodoma: |
-    1948 m. Jungtinė Kęstučio apygarda (ku-
-    riai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir
-    Prisikėlimo apygardas.
+  citata_rodoma: "1948 m. Jungtinė Kęstučio apygarda (ku-\nriai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir\nPrisikėlimo apygardas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41116
+    - t-001

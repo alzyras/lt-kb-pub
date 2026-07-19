@@ -60,10 +60,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187805"></a>
-- t-001
-  global_id: t-187805
+- t-004
   teiginys: "Dalyvaudamas 1808-1809 m. Rusijos-Švedijos kare, T. Narbutas buvo kontūzytas mūšyje prie Abo miesto ir vėliau apkurto."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Rusija: 0.85"
@@ -79,12 +78,11 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys jau sujungia karą, Abo mūšio kontūziją ir vėlesnį apkurtimą į pilną faktinį sakinį. Papildoma atribucija nereikalinga, nes nėra vertinamosios ar legendinės formuluotės."
   pagrindžia:
     - c-170757
-    - c-001
+
 <a id="claim-t-187806"></a>
-- t-002
-  global_id: t-187806
+- t-003
   teiginys: "T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Rusija: 0.85"
@@ -100,7 +98,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai nusako note objektą. Citata jį pakankamai pagrindžia be papildomų neparemtų detalių."
   pagrindžia:
     - c-170757
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -115,9 +113,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187805
-    - t-187806
+- t-187806
+
 ## Data ir vieta
 
 Data: 1808-1809 m.
@@ -142,17 +139,12 @@ Nenurodyta
     kus. Vilniaus šubravcų draugijos nariai, pasivadinę pagoniš­
     kais dievų ir dievybių vardais, rinko medžiagą apie lietuvių
     mitologiją.
-  citata_rodoma: |
-    Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
-    vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­
-    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
-    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
-    siliepė sveikatai -  jis apkurto.
+  citata_rodoma: "Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­\nvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.\nMūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­\nsiliepė sveikatai -  jis apkurto."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187805
-    - t-187806
+    - t-004
+    - t-003

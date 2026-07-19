@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-80764"></a>
 - t-001
-  global_id: t-80764
   teiginys: "Informacinio bloko „Lietuvos lengvoji ir vidutinė kavalerija“ autore nurodyta Lina Vidauskytė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,17 +67,11 @@ media_all_json: |-
     NUOPUOLIS IR KOVA DĖL LAISVĖS
 
     P. 138, „LIETUVOS LENGVOJI IR VIDUTINE KAVALERIJA“, Lina Vidauskytė.
-  citata_rodoma: |
-    sausio-rugpjūčio mėnesiais, Albertas Daugirdas,
-    Karolis Zikaras, Loreta Uzdraitė.
-
-    NUOPUOLIS IR KOVA DĖL LAISVĖS
-
-    P. 138, „LIETUVOS LENGVOJI IR VIDUTINE KAVALERIJA“, Lina Vidauskytė.
+  citata_rodoma: "sausio-rugpjūčio mėnesiais, Albertas Daugirdas,\nKarolis Zikaras, Loreta Uzdraitė.\n\nNUOPUOLIS IR KOVA DĖL LAISVĖS\n\nP. 138, „LIETUVOS LENGVOJI IR VIDUTINE KAVALERIJA“, Lina Vidauskytė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80764
+    - t-001

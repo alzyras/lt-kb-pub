@@ -31,7 +31,6 @@ Susirgęs Zebžidovskis perdavė pareigas Stanislovui Lesniovolskiui ir patarė 
 
 <a id="claim-t-186080"></a>
 - t-001
-  global_id: t-186080
   teiginys: "Susirgęs Zebžidovskis perdavė pareigas Stanislovui Lesniovolskiui ir patarė žvalgyti pakrantę bei sekti priešą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Susirgęs Zebžidovskis perdavė pareigas Stanislovui Lesniovolskiui ir patarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186080
+    - t-001

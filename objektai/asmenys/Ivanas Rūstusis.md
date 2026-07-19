@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-18932"></a>
 - t-001
-  global_id: t-18932
   teiginys: "Nuo Ivano Rūsčiojo laikų buvo žinoma nuostata pretenduoti į LDK žemes kaip tariamą Rusijai priklausantį paveldą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ media_all_json: |-
 
 <a id="claim-t-183533"></a>
 - t-002
-  global_id: t-183533
   teiginys: "Nuo Ivano Rūsčiojo laikų Rusijoje buvo žinoma nuostata pretenduoti į LDK žemes kaip į tariamą istorinį paveldą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18932
-    - t-183533
+    - t-001
+    - t-002
+
 ## Ryšiai
 - Ivanas Rūstusis apgulė [[objektai/vietos/Polockas]]

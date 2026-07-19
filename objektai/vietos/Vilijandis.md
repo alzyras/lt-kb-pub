@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-38668"></a>
 - t-001
-  global_id: t-38668
   teiginys: "1560 m. rusai užėmė Alūksnę, Vilijandį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,6 +77,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38668
+    - t-001
+
 ## Ryšiai
 - Užėmė Vilijandį: [[objektai/grupes/Rusai]]

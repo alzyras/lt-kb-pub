@@ -51,7 +51,6 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 
 <a id="claim-t-11077"></a>
 - t-001
-  global_id: t-11077
   teiginys: "Rėza buvo vienas iš lietuvių kalbos gynėjų per ginčą, kuriame lietuvių kalba buvo apginta."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -69,9 +68,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 
 <a id="claim-t-188470"></a>
 - t-002
-  global_id: t-188470
   teiginys: "Narbutas nurodo, kad Rėza „Dainose“ gynė Lietuvos kronikininkus nuo XVIII a. kritikų priekaištų dėl išgalvotų vardų."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -87,10 +85,9 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171360
-    - c-002
+
 <a id="claim-t-188471"></a>
 - t-003
-  global_id: t-188471
   teiginys: "Narbutas rašo, kad, Rėzos teigimu, lietuviai turėjo iš skandinavų perimtą laiko dalijimą į devynis periodus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -111,9 +108,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 
 <a id="claim-t-188472"></a>
 - t-004
-  global_id: t-188472
   teiginys: "Narbutas nurodo, kad Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų viršuje sukreivintų lazdų paprotį."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -129,23 +125,9 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171362
-    - c-004
-<a id="claim-t-194672"></a>
-- t-005
-  global_id: t-194672
-  teiginys: "Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10 10 Rėza."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-177069
-    - c-006
+
 <a id="claim-t-197336"></a>
-- t-006
-  global_id: t-197336
+- t-007
   teiginys: "Rėza sugrįžo jėzuitų pastangomis, valdant Zigmantui III."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -174,8 +156,6 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188470
 - c-004
   santrauka: 'Narbutas nurodo, kad Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų viršuje sukreivintų lazdų paprotį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -199,8 +179,6 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188472
 - c-006
   santrauka: 'Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10 10 Rėza.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -214,8 +192,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194672
+
 ## Citatos
 
 - id: c-13629
@@ -229,17 +206,15 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     gynėjų (prof. Rėza, kunigas Ostermejeris, mokytojas Gizevijas);
     laikraščiuose prasidėjo karštas ginčas, ir lietuvių kalba šį kartą
     buvo apginta.
-  citata_rodoma: |
-    Bet tuojau atsirado ir karštų lietuvių kalbos gynėjų (prof. Rėza, kunigas Ostermejeris, mokytojas Gizevijas);
-    laikraščiuose prasidėjo karštas ginčas, ir lietuvių kalba šį kartą
-    buvo apginta.
+  citata_rodoma: "Bet tuojau atsirado ir karštų lietuvių kalbos gynėjų (prof. Rėza, kunigas Ostermejeris, mokytojas Gizevijas);\nlaikraščiuose prasidėjo karštas ginčas, ir lietuvių kalba šį kartą\nbuvo apginta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11077
+    - t-001
+
 - id: c-171360
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -254,22 +229,15 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     sėjosi ant kranto ir, įsitaisę čia stovyklą, tarė: Czekiszkim zno-
     ka, čia kiškim vėliavas. Taip atsirado Čekiškės (Czekiszki) pa­
     vadinimas; dabar taip vadinamas miestelis.
-  citata_rodoma: |
-    Iškiliojoje pusėje panaši žymė kaip III
-    lentelės 9-ajame piešinyje, tik prie jos kitokie ženklai ir dau­
-    giau taškų. 9-ojo piešinio aprašymą skaityk straipsnyje „Sta­
-    8 Dabar visi Lietuvos senovės tyrėjai įsitikina, kad mūsų kroniki­
-    ninkai rašė teisybę, kaip tai teisingai pažymi ponas Rėza “Dainose”
-    ir mato klaidingumą XVIII amžiaus kritikų darytų jiems priekaištų,
-    esą patys sugalvoję daugelio dievų ir garsių žmonių vardus.
-    9 Karamzin.
+  citata_rodoma: "Iškiliojoje pusėje panaši žymė kaip III\nlentelės 9-ajame piešinyje, tik prie jos kitokie ženklai ir dau­\ngiau taškų. 9-ojo piešinio aprašymą skaityk straipsnyje „Sta­\n8 Dabar visi Lietuvos senovės tyrėjai įsitikina, kad mūsų kroniki­\nninkai rašė teisybę, kaip tai teisingai pažymi ponas Rėza “Dainose”\nir mato klaidingumą XVIII amžiaus kritikų darytų jiems priekaištų,\nesą patys sugalvoję daugelio dievų ir garsių žmonių vardus.\n9 Karamzin."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188470
+    - t-002
+
 - id: c-171361
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -289,7 +257,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188471
+    - t-003
+
 - id: c-171362
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -309,28 +278,15 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
     arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
     11 Sirvydo žodynas.
-  citata_rodoma: |
-    Jau ir šiaip žinome, ir anksčiau sakėme, kad
-    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
-    8
-    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
-    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
-    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
-    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
-    430
-
-    ## Puslapis 430
-
-    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
-    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
-    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
+  citata_rodoma: "Jau ir šiaip žinome, ir anksčiau sakėme, kad\nkažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8\n8\nBeje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie\ntai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­\nriuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­\nreigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.\n430\n\n## Puslapis 430\n\ntyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­\nnybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu\n, koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188472
+    - t-004
+
 - id: c-177069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -349,5 +305,4 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194672
-    - t-197336
+    - t-007

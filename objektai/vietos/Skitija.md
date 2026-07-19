@@ -32,7 +32,6 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 
 <a id="claim-t-185274"></a>
 - t-001
-  global_id: t-185274
   teiginys: "Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 
 <a id="claim-t-192761"></a>
 - t-002
-  global_id: t-192761
   teiginys: "Narbutas rašo, kad Herodotui keliaujant po Skitiją boristeniečiai gintarą siejo su šiaurės vakaruose esančia jūra."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 
 <a id="claim-t-197929"></a>
 - t-003
-  global_id: t-197929
   teiginys: "Taip Darijus buvo priverstas greitai pereiti visą Skitiją, persikelti per to kias dideles upes kaip Dnestras, Būgas, Dnepras ir Donecas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -178,7 +175,8 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185274
+    - t-001
+
 - id: c-175531
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -198,7 +196,8 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192761
+    - t-002
+
 - id: c-179405
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -224,7 +223,8 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197929
+    - t-003
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Herodotas]], [[objektai/asmenys/Jerim Berdis]]
 - Puolė Skitiją: [[objektai/grupes/Persai]]

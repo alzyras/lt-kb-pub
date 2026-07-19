@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-19053"></a>
 - t-001
-  global_id: t-19053
   teiginys: "Kazimieras Antanavičius viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ media_all_json: |-
 
 <a id="claim-t-183548"></a>
 - t-002
-  global_id: t-183548
   teiginys: "Kazimieras Antanavičius viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -80,15 +78,15 @@ media_all_json: |-
     Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už
     įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi būti mecha-
     ninė įmonių suma, kaip SSRS neturėtų būti mechaninė respublikų suma.
-  citata_rodoma: |
-    miera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti
+  citata_rodoma: "miera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19053
+    - t-001
+
 - id: c-166941
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -109,4 +107,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183548
+    - t-002

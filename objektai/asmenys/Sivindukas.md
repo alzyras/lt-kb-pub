@@ -31,7 +31,6 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
 
 <a id="claim-t-40423"></a>
 - t-001
-  global_id: t-40423
   teiginys: "Murza Sivindukas, kunigaikščio Madyko sūnus, vadovavo mūšyje dalyvavusiems totoriams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,21 +65,14 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
     neturėjo artilerijos ir reikšmingesnių
     pėstininkų pajėgų, kurios pasiliko prie
     Dorogobužo ir Smolensko.
-  citata_rodoma: |
-    Be Naugardo, Pskovo, Tverės bei kitų
-    sričių išrengtų raitelių ir Maskvos val-
-    dovo dvaro pulko, dalyvavo ir toto-
-    riai, vadovaujami murzos Sivinduko,
-    kunigaikščio Madyko sūnaus. Rusai
-    neturėjo artilerijos ir reikšmingesnių
-    pėstininkų pajėgų, kurios pasiliko prie
-    Dorogobužo ir Smolensko.
+  citata_rodoma: "Be Naugardo, Pskovo, Tverės bei kitų\nsričių išrengtų raitelių ir Maskvos val-\ndovo dvaro pulko, dalyvavo ir toto-\nriai, vadovaujami murzos Sivinduko,\nkunigaikščio Madyko sūnaus. Rusai\nneturėjo artilerijos ir reikšmingesnių\npėstininkų pajėgų, kurios pasiliko prie\nDorogobužo ir Smolensko."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40423
+    - t-001
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Madykas]]

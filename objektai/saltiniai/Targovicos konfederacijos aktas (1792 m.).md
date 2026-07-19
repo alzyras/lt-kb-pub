@@ -36,7 +36,6 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 
 <a id="claim-t-02290"></a>
 - t-001
-  global_id: t-02290
   teiginys: "Targovicos konfederacija taip vadinama dėl vietos, kurioje buvo paskelbtas jos aktas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 
 <a id="claim-t-02291"></a>
 - t-002
-  global_id: t-02291
   teiginys: "Opozicionieriai Targovicos miestelyje Ukrainoje paskelbė reformoms priešingos konfederacijos aktą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,16 +81,15 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     ganizavo reformų priešų konfederaciją ir, davusi jai savo ka-
     riuomenės, viską sugriovė. Ta konfederacija dėl jos akto pa-
     skelbimo vietos yra vadinama Targovicos konfederacija.
-  citata_rodoma: |
-    Ta konfederacija dėl jos akto pa-
-    skelbimo vietos yra vadinama Targovicos konfederacija.
+  citata_rodoma: "Ta konfederacija dėl jos akto pa-\nskelbimo vietos yra vadinama Targovicos konfederacija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02290
+    - t-001
+
 - id: c-02529
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -105,15 +102,11 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     miestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos
     aktą. Jie skelbėsi einą sugrąžinti seimo sulaužytų krašto laisvių;
     rusai esą jų sąjungininkai.
-  citata_rodoma: |
-    Opozicionieriai, atvykę į Targovicos
-    miestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos
-    aktą. Jie skelbėsi einą sugrąžinti seimo sulaužytų krašto laisvių;
-    rusai esą jų sąjungininkai.
+  citata_rodoma: "Opozicionieriai, atvykę į Targovicos\nmiestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos\naktą. Jie skelbėsi einą sugrąžinti seimo sulaužytų krašto laisvių;\nrusai esą jų sąjungininkai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02291
+    - t-002

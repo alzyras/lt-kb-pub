@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-200856"></a>
 - t-001
-  global_id: t-200856
   teiginys: "Mikalojus Vorobjovas Vilnių vaizdavo kaip miestą, susiformavusį didžiųjų Europos meno stilių epochose."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200856
+    - t-001

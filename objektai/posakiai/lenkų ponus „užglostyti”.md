@@ -31,7 +31,6 @@ Toks jo žygis lenką tarpe sukėlė didelį pasipriešinimą, nes jie Krėvės 
 
 <a id="claim-t-34400"></a>
 - t-001
-  global_id: t-34400
   teiginys: "Vytautas ėmėsi diplomatijos ir stengėsi lenkų ponus „užglostyti“, kai jo veiksmai dėl Podolijos ir Volynijos sukėlė jų pasipriešinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Toks jo žygis lenką tarpe sukėlė didelį pasipriešinimą, nes jie Krėvės 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34400
+    - t-001

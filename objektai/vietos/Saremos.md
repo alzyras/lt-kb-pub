@@ -41,7 +41,6 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 
 <a id="claim-t-43877"></a>
 - t-001
-  global_id: t-43877
   teiginys: "Danams atiteko Saremos, arba Eželio, vyskupystė."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 
 <a id="claim-t-43878"></a>
 - t-002
-  global_id: t-43878
   teiginys: "Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,19 +99,15 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
     Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
     tenę, ir Saremos (Eželio) vyskupystę. Bet didžiausioji Livonijos
     dalis teko Lietuvai.
-  citata_rodoma: |
-    Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vys-
-    kupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o
-    Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
-    tenę, ir Saremos (Eželio) vyskupystę. Bet didžiausioji Livonijos
-    dalis teko Lietuvai.
+  citata_rodoma: "Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vys-\nkupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o\nDanai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-\ntenę, ir Saremos (Eželio) vyskupystę. Bet didžiausioji Livonijos\ndalis teko Lietuvai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-43878
+    - t-002
+
 - id: c-47145
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -130,13 +124,11 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
     kupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o
     Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
     tenę, ir Saremos (Eželio) vyskupystę.
-  citata_rodoma: |
-    Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
-    tenę, ir Saremos (Eželio) vyskupystę.
+  citata_rodoma: "Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-\ntenę, ir Saremos (Eželio) vyskupystę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-43877
+    - t-001

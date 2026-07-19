@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-194808"></a>
 - t-001
-  global_id: t-194808
   teiginys: "Šios rūšies paminklai buvo labiausiai naikinami Lietuvai priimant krikščionių tikėjimą; ypač atvertėjai - kryžiuočių ir kalavijuočių riteriai griovė, naikino, skandino viską, kas tik nors kiek buvo susiję su stabmeldiškųjų dievų vaizdavimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194808
+    - t-001

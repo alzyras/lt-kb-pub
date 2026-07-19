@@ -48,8 +48,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 ## Teiginiai
 
 <a id="claim-t-113612"></a>
-- t-001
-  global_id: t-113612
+- t-008
   teiginys: "Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe ir apie 200 Ordino riterių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,9 +63,8 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   pagrindžia:
     - c-104813
 
-<a id="claim-t-113622"></a>
-- t-002
-  global_id: t-113622
+<a id="claim-t-113613"></a>
+- t-007
   teiginys: "Žalgirio mūšyje didysis magistras metė rezervą į mūšį, kai pamatė, kad kova krypsta ne jo naudai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     - c-44160
 
 <a id="claim-t-113614"></a>
-- t-003
-  global_id: t-113614
+- t-016
   teiginys: "Įvadiniame straipsnyje teigiama, kad didžiajam magistrui Verneriui kronika reikalinga Ordino reformai ir karo prieš Lietuvą pateisinimui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -100,10 +97,9 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-104814
-    - c-003
+
 <a id="claim-t-113615"></a>
-- t-004
-  global_id: t-113615
+- t-020
   teiginys: "Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas Ordino didžiuoju magistru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,8 +118,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     - c-104816
 
 <a id="claim-t-113616"></a>
-- t-005
-  global_id: t-113616
+- t-001
   teiginys: "Ordino priešakyje stovėjo didysis magistras (Hochmeister) su taryba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,8 +134,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     - c-104817
 
 <a id="claim-t-113618"></a>
-- t-006
-  global_id: t-113618
+- t-021
   teiginys: "Prieš 1392 m. žygį didysis magistras ir jo svita dėl pasitikėjimo Ordino kariuomenės galybe Lietuvą jau laikė nukariauta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -159,8 +153,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     - c-104815
 
 <a id="claim-t-113620"></a>
-- t-007
-  global_id: t-113620
+- t-006
   teiginys: "Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -176,8 +169,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     - c-104813
 
 <a id="claim-t-197034"></a>
-- t-008
-  global_id: t-197034
+- t-022
   teiginys: "Ordino viduje vykusią kovą 1324 m. laimėjo reformų šalininkai, tačiau tik laikinai (po 6 metų buvo nužudytas didysis magistras, reformų šalininkas ir organizatorius)."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -367,8 +359,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-113614
+
 ## Citatos
 
 - id: c-44160
@@ -383,19 +374,15 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     rezervą. Kryžiuočiai mėgino apeiti lenkų
 
     64 ŽALGIRIO (GRIUNVALDO) MŪŠIS 1410 m. liepos 15 d.
-  citata_rodoma: |
-    Matydamas, kad mūšio sėkmė krypsta ne
-    jo naudai, didysis magistras į mūšį metė
-    rezervą. Kryžiuočiai mėgino apeiti lenkų
-
-    64 ŽALGIRIO (GRIUNVALDO) MŪŠIS 1410 m.
+  citata_rodoma: "Matydamas, kad mūšio sėkmė krypsta ne\njo naudai, didysis magistras į mūšį metė\nrezervą. Kryžiuočiai mėgino apeiti lenkų\n\n64 ŽALGIRIO (GRIUNVALDO) MŪŠIS 1410 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113622
+    - t-007
+
 - id: c-104813
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -419,8 +406,9 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113612
-    - t-113620
+    - t-008
+    - t-006
+
 - id: c-104814
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -436,21 +424,15 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad
     ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios
     vienodos, kad šios tautos turėjusios bendrą priešą71.
-  citata_rodoma: |
-    Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,
-    didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
-    tik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,
-    Kryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą
-    prieš Lietuvą.
-      Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
-    feodalinių riterių žygių prieš musulmoniškąjį pasaulį.
+  citata_rodoma: "Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,\ndidžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne\ntik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,\nKryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą\nprieš Lietuvą.\n  Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų\nfeodalinių riterių žygių prieš musulmoniškąjį pasaulį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113614
+    - t-016
+
 - id: c-104815
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -497,7 +479,8 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113618
+    - t-021
+
 - id: c-104816
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -532,33 +515,15 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     mo, ir tik 1391 m. kovo 12 d. išrink­
     tas didž. magistru; mirė 1393 m.
     liepos 25 d.
-  citata_rodoma: |
-    22
-    Miechovita, Strijkovskis
-    ir K o j e 1 a v i č i u s klysta sakyda­
-    mi, esą žygio vadovavimas buvo pa­
-    vestas Konradui Valenrodui, kurį
-    jau tuo metu vadina didžiuoju ma­
-    gistru, kai Konradas Valenrodas
-    1382 metais, sekmadienį prieš Šv.
-    Mykolą paskirtas Ordino didžiuoju
-    maršalu, 1387 metais per Apreiški­
-    mo Marijai šventę tapo didžiuoju
-    komtūru arba arkikomtūru, 1390
-    rugpjūčio 15 d., po didžiojo magistro
-    Konrado Ciolnerio fon Rotenšteino
-    mirties, - ir didžiojo magistro vieti­
-    ninku, iki pat kapitulos suvažiavi­
-    mo, ir tik 1391 m. kovo 12 d. išrink­
-    tas didž. magistru; mirė 1393 m.
-    liepos 25 d.
+  citata_rodoma: "22\nMiechovita, Strijkovskis \nir K o j e 1 a v i č i u s klysta sakyda­\nmi, esą žygio vadovavimas buvo pa­\nvestas Konradui Valenrodui, kurį \njau tuo metu vadina didžiuoju ma­\ngistru, kai Konradas Valenrodas \n1382 metais, sekmadienį prieš Šv. \nMykolą paskirtas Ordino didžiuoju \nmaršalu, 1387 metais per Apreiški­\nmo Marijai šventę tapo didžiuoju \nkomtūru arba arkikomtūru, 1390 \nrugpjūčio 15 d., po didžiojo magistro \nKonrado Ciolnerio fon Rotenšteino \nmirties, - ir didžiojo magistro vieti­\nninku, iki pat kapitulos suvažiavi­\nmo, ir tik 1391 m. kovo 12 d. išrink­\ntas didž. magistru; mirė 1393 m. \nliepos 25 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113615
+    - t-020
+
 - id: c-104817
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -573,7 +538,8 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113616
+    - t-001
+
 - id: c-179012
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -594,4 +560,4 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197034
+    - t-022

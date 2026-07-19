@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-02044"></a>
 - t-001
-  global_id: t-02044
   teiginys: "1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo paskyrę dvarininkai, buvo atstatydinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02044
+    - t-001

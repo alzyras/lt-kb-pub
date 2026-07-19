@@ -36,7 +36,6 @@ Istachris Abu Izaokas al Farisi buvo arabų geografas, gyvenęs apie 907-912 m. 
 
 <a id="claim-t-191421"></a>
 - t-001
-  global_id: t-191421
   teiginys: "Istachris Abu Izaokas al Farisi buvo arabų geografas, gyvenęs apie 907-912 m. ir nubraižęs Gotos bibliotekoje aptiktus geografijos žemėlapius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Istachris Abu Izaokas al Farisi buvo arabų geografas, gyvenęs apie 907-912 m. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191421
+    - t-001

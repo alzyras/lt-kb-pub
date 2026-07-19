@@ -54,7 +54,6 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie 1899 m. pasiektą mok
 
 <a id="claim-t-195614"></a>
 - t-001
-  global_id: t-195614
   teiginys: "A. R. Niemi 1899 m. gavo fil. licenciato laipsnį."
   atnaujinta: "2026-07-12 08:45"
   sprendimo_priezastis: "gap::vocabulary"
@@ -80,12 +79,11 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie 1899 m. pasiektą mok
     magistro — 1894 m., fil. licenciato (tokia ten esą n^okslo laipsnių eilė)
     — 1899 m. ir tais pačiais metais buvo pakviestas Helsinkų universi­
     teto suomių liaudies poezijos docentu.
-  citata_rodoma: |
-    fil. magistro — 1894 m., fil. licenciato (tokia ten esą n^okslo laipsnių eilė) — 1899 m.
+  citata_rodoma: "fil. magistro — 1894 m., fil. licenciato (tokia ten esą n^okslo laipsnių eilė) — 1899 m."
   statusas: verified
   atnaujinta: "2026-07-12 08:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195614
+    - t-001

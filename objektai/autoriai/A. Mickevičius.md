@@ -45,7 +45,6 @@ Mickevičiaus, J.
 
 <a id="claim-t-19368"></a>
 - t-001
-  global_id: t-19368
   teiginys: "A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Mickevičiaus, J.
 
 <a id="claim-t-193581"></a>
 - t-002
-  global_id: t-193581
   teiginys: "Mickevičius, rašęs ir apie Tėvynę LietuAdomas Mickevičius."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Mickevičiaus, J.
 
 <a id="claim-t-200876"></a>
 - t-003
-  global_id: t-200876
   teiginys: "Basanavičiaus tekste Ad. Mickevičius priskirtas apie Lietuvą lenkiškai rašiusiems autoriams, vadintiems lietuviais, o ne lenkais."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -116,15 +113,15 @@ Mickevičiaus, J.
     monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
     pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos
     Žymantienės-Žemaitės sodri realistinė sociali proza.
-  citata_rodoma: |
-    liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,
+  citata_rodoma: "liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19368
+    - t-001
+
 - id: c-176256
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -144,7 +141,8 @@ Mickevičiaus, J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193581
+    - t-002
+
 - id: c-184221
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
@@ -161,4 +159,4 @@ Mickevičiaus, J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200876
+    - t-003

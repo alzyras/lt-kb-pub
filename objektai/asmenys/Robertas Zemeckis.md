@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-19204"></a>
 - t-001
-  global_id: t-19204
   teiginys: "Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,14 +75,14 @@ media_all_json: |-
     tas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje),
     o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
     (Karolis Bučinskis).
-  citata_rodoma: |
-    Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
+  citata_rodoma: "Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19204
+    - t-001
+
 ## Ryšiai
 - Robertas Zemeckis gimė [[objektai/vietos/Čikaga]]

@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-40703"></a>
 - t-001
-  global_id: t-40703
   teiginys: "Per Vilniaus gynybą dalis ginkluotų miesto gyventojų kovėsi specialiai kovai perdarytais dalgiais ir nukaltomis ietimis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,19 +98,11 @@ Nenurodyta
     ietimis. Iš viso liepos 19-20 dienomis
     Vilnių ir jo apylinkes gynė apie 4 tūkstan-
     čiai kovotojų su 13 artilerijos pabūklų.
-  citata_rodoma: |
-    Gynyboje
-    dalyvavo apie 1500 ginkluotų Vilniaus gy-
-    ventojų, iš kurių apie 500 turėjo šaunamuo-
-    sius ginklus, likę buvo ginkluoti specialiai
-    kovai perdarytais dalgiais ir nukaltomis
-    ietimis. Iš viso liepos 19-20 dienomis
-    Vilnių ir jo apylinkes gynė apie 4 tūkstan-
-    čiai kovotojų su 13 artilerijos pabūklų.
+  citata_rodoma: "Gynyboje\ndalyvavo apie 1500 ginkluotų Vilniaus gy-\nventojų, iš kurių apie 500 turėjo šaunamuo-\nsius ginklus, likę buvo ginkluoti specialiai\nkovai perdarytais dalgiais ir nukaltomis\nietimis. Iš viso liepos 19-20 dienomis\nVilnių ir jo apylinkes gynė apie 4 tūkstan-\nčiai kovotojų su 13 artilerijos pabūklų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40703
+    - t-001

@@ -40,7 +40,6 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
 
 <a id="claim-t-19634"></a>
 - t-001
-  global_id: t-19634
   teiginys: "Antantės šalys pareikalavo, kad Vokietija leistų panaudoti savo dalinius bolševizmui stabdyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     - c-22338
 
 <a id="claim-t-19635"></a>
-- t-002
-  global_id: t-19635
+- t-004
   teiginys: "1922 m. gruodžio 20 d. Prancūzija, Anglija, Italija ir Japonija kaip Antantės valstybės pripažino Lietuvą de jure."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
 
 <a id="claim-t-19636"></a>
 - t-003
-  global_id: t-19636
   teiginys: "Lietuvos delegacijos reikalavimu sudarytos karinės misijos sustiprino nepriklausomybės viltis ir suteikė Antantei žinių apie padėtį Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     - c-22340
 
 <a id="claim-t-19637"></a>
-- t-004
-  global_id: t-19637
+- t-002
   teiginys: "Antantė pripažino, kad Lietuvos Taryba iškėlė nepriklausomybės klausimą ir išsivadavo iš Vokietijos politikos diktato."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -163,15 +159,15 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     kur pasirašė 100 mln. markių paskolą ginklams įsigyti. Vokietija pateikė
     ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
     reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.
-  citata_rodoma: |
-    ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
+  citata_rodoma: "ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19634
+    - t-001
+
 - id: c-22339
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -191,15 +187,15 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
     delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
     jos ir veikė kuluaruose.
-  citata_rodoma: |
-    bėjo išlaviruoti ir iškelti Lietuvos nepriklausomybės klausimą, išsivaduoti
+  citata_rodoma: "bėjo išlaviruoti ir iškelti Lietuvos nepriklausomybės klausimą, išsivaduoti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19637
+    - t-002
+
 - id: c-22340
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -213,15 +209,15 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     tantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti
     nepriklausomybę, be to, misijos suteikė objektyvią informaciją Antantei
     apie padėtį Lietuvoje.
-  citata_rodoma: |
-    tantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti
+  citata_rodoma: "tantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19636
+    - t-003
+
 - id: c-22341
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -234,12 +230,11 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     Neilgai trukus Vatikanas, JAV, Ispanija, Olandija, Skandinavijos šalys, o
     1922 m. gruodžio 20 d. keturios Antantės valstybės (Prancūzija, Anglija,
     Italija, Japonija) pripažino Lietuvą de jure.
-  citata_rodoma: |
-    Neilgai trukus Vatikanas, JAV, Ispanija, Olandija, Skandinavijos šalys, o
+  citata_rodoma: "Neilgai trukus Vatikanas, JAV, Ispanija, Olandija, Skandinavijos šalys, o"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19635
+    - t-004

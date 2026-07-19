@@ -37,7 +37,6 @@ Pagalba atėjo iš Islandijos – 1991 m. vasario 11 d. Islandijos Altingas pirm
 
 <a id="claim-t-21443"></a>
 - t-001
-  global_id: t-21443
   teiginys: "1991 m. vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,12 +85,11 @@ Pagalba atėjo iš Islandijos – 1991 m. vasario 11 d. Islandijos Altingas pirm
     Lietuva Vakarams buvo nelengvas. Pagalba atėjo iš Islandijos – 1991 m.
     vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
     somybę.
-  citata_rodoma: |
-    vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
+  citata_rodoma: "vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21443
+    - t-001

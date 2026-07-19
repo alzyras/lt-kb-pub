@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-38605"></a>
 - t-001
-  global_id: t-38605
   teiginys: "1562 m. maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo ir Dubrovnos apylinkes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-40409
 
 <a id="claim-t-187575"></a>
-- t-002
-  global_id: t-187575
+- t-003
   teiginys: "Bychovco kronikoje pasakojama, kad Jogaila ir Vytautas su savo kariuomenėmis, perėję miškus, priėjo Dubrovnos laukus."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -116,7 +114,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38605
+    - t-001
+
 - id: c-170523
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -126,27 +125,17 @@ media_all_json: |-
     čiai, kad lenkai ir lietuviai su tokia daugybe kariuo­
     menės niekur kitur negalės išsirikiuoti, kaip tik šiame
     lauke, ir todėl prikasė duobių ir pridengė velėnomis,
-    kad žirgai ir žmonės į jas įgriūtų3 .
+    kad žirgai ir žmonės į jas įgriūtų3.
     Karalius Jogaila ir didysis kunigaikštis Vytautas, su
     savo kariuomenėmis perėję per miškus, priėjo tuos
     Dubrovnos laukus. Tuo metu Jogailos kariuomenėje
-    didžiuoju etmonu buvo ponas Sokolas Čekas \  o kiemo
-    etmonu 5  — ponas Spytka Spytkovičius 6 .
-  citata_rodoma: |
-    Numatė vokie­
-    čiai, kad lenkai ir lietuviai su tokia daugybe kariuo­
-    menės niekur kitur negalės išsirikiuoti, kaip tik šiame
-    lauke, ir todėl prikasė duobių ir pridengė velėnomis,
-    kad žirgai ir žmonės į jas įgriūtų3 .
-    Karalius Jogaila ir didysis kunigaikštis Vytautas, su
-    savo kariuomenėmis perėję per miškus, priėjo tuos
-    Dubrovnos laukus. Tuo metu Jogailos kariuomenėje
-    didžiuoju etmonu buvo ponas Sokolas Čekas \  o kiemo
-    etmonu 5  — ponas Spytka Spytkovičius 6 .
+    didžiuoju etmonu buvo ponas Sokolas Čekas \ o kiemo
+    etmonu 5 — ponas Spytka Spytkovičius 6.
+  citata_rodoma: "Numatė vokie­\nčiai, kad lenkai ir lietuviai su tokia daugybe kariuo­\nmenės niekur kitur negalės išsirikiuoti, kaip tik šiame \nlauke, ir todėl prikasė duobių ir pridengė velėnomis, \nkad žirgai ir žmonės į jas įgriūtų3 .\nKaralius Jogaila ir didysis kunigaikštis Vytautas, su \nsavo kariuomenėmis perėję per miškus, priėjo tuos \nDubrovnos laukus. Tuo metu Jogailos kariuomenėje \ndidžiuoju etmonu buvo ponas Sokolas Čekas \\  o kiemo \netmonu 5  — ponas Spytka Spytkovičius 6 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187575
+    - t-003

@@ -48,8 +48,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
 ## Teiginiai
 
 <a id="claim-t-55235"></a>
-- t-001
-  global_id: t-55235
+- t-002
   teiginys: "Wremiennik Sofijski nurodomas kaip šaltinis dėl Šv. Mikalojaus bažnyčios Vilniuje egzistavimo 1347 m."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::sources"
@@ -67,8 +66,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     - c-55650
 
 <a id="claim-t-55236"></a>
-- t-002
-  global_id: t-55236
+- t-003
   teiginys: "Sofijski Wremiennik minimas greta kitų šaltinių aiškinant Narimanto, Patriko ir Lengvenio valdžios seką Didžiajame Naugarde."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::sources"
@@ -86,8 +84,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     - c-55651
 
 <a id="claim-t-55237"></a>
-- t-003
-  global_id: t-55237
+- t-004
   teiginys: "Sofijski Wremiennik rašo, kad vokiečių pulkai atėjo prie Vilniaus prieš Vytautą, kovėsi prie miesto ir buvo Lietuvos nugalėti."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::sources"
@@ -103,8 +100,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     - c-55652
 
 <a id="claim-t-55238"></a>
-- t-004
-  global_id: t-55238
+- t-005
   teiginys: "Sofijski Wremiennik pateikia 1430 m. Trakų-Vilniaus suvažiavimo pas Vytautą dalyvių sąrašą."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::sources"
@@ -122,8 +118,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     - c-55653
 
 <a id="claim-t-82035"></a>
-- t-005
-  global_id: t-82035
+- t-006
   teiginys: "Wremiennik Sofijski nurodo, kad Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::sources"
@@ -160,7 +155,8 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55235
+    - t-002
+
 - id: c-55651
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -188,7 +184,8 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55236
+    - t-003
+
 - id: c-55652
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -224,7 +221,8 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55237
+    - t-004
+
 - id: c-55653
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -259,7 +257,8 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55238
+    - t-005
+
 - id: c-78541
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -277,19 +276,11 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     Kronika Ruška, Vilniuje, 1827 m. 1.170;
     užsimena apie tos bažnyčios Vilniu­
     je egzistavimą jau 1347 metais.
-  citata_rodoma: |
-    Tas galingas didikas, paėmęs už žmoną
-    Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir
-    18
-    Wremiennik Sofijski, p. 334. Žr.
-    Danilovičių: Latopisiec Litwy i
-    Kronika Ruška, Vilniuje, 1827 m. 1.170;
-    užsimena apie tos bažnyčios Vilniu­
-    je egzistavimą jau 1347 metais.
+  citata_rodoma: "Tas galingas didikas, paėmęs už žmoną \nBučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir\n18\nWremiennik Sofijski, p. 334. Žr. \nDanilovičių: Latopisiec Litwy i \nKronika Ruška, Vilniuje, 1827 m. 1.170; \nužsimena apie tos bažnyčios Vilniu­\nje egzistavimą jau 1347 metais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82035
+    - t-006

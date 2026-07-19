@@ -31,7 +31,6 @@ Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 
 <a id="claim-t-186111"></a>
 - t-001
-  global_id: t-186111
   teiginys: "Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186111
+    - t-001

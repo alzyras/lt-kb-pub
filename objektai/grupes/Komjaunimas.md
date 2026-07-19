@@ -30,8 +30,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 ## Teiginiai
 
 <a id="claim-t-65311"></a>
-- t-001
-  global_id: t-65311
+- t-002
   teiginys: "Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kampeliai, leisti sienlaikraščiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
     - c-65731
 
 <a id="claim-t-193540"></a>
-- t-002
-  global_id: t-193540
+- t-003
   teiginys: "Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -81,15 +79,15 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
     gą. Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose
     steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kam-
     peliai, leisti sienlaikraščiai.
-  citata_rodoma: |
-    Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose
+  citata_rodoma: "Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65311
+    - t-002
+
 - id: c-176220
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -106,4 +104,4 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193540
+    - t-003

@@ -26,36 +26,11 @@ media_all_json: |-
 
 Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis kolonomis, auksu ir sidabrine dvivėrių durų šviesa. Giwenimas Saulis buwa, auksztejspakieha stabejmis, Swiesu iybunti auksu, grazej lipsnoju ligu pyropu: Kieno Elefanto kauleis, auksztus wirszunis dengioja; Sidobranej dwejapi swiesi blizgojosi dunes.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189572"></a>
-- t-001
-  global_id: t-189572
-  teiginys: 'Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis kolonomis, auksu ir sidabrine dvivėrių durų šviesa.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citatos eilutės paverstos vienu sakiniu apie vertimo vaizdinį. Pašalinti puslapio ir priedo triukšmai, nepridėta platesnio konteksto apie Lietuvą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
-  pagrindžia:
-    - c-172460
-
-<a id="claim-t-194694"></a>
-- t-002
-  global_id: t-194694
-  teiginys: 'Giwenimas Saulis buwa, auksztejspakieha stabejmis, Swiesu iybunti auksu, grazej lipsnoju ligu pyropu: Kieno Elefanto kauleis, auksztus wirszunis dengioja; Sidobranej dwejapi swiesi blizgojosi dunes.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-177091
-
-## Citatos
-
-- id: c-172460
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis kolonomis, auksu ir sidabrine dvivėrių durų šviesa.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     (1. Sauliaus riimai aukšti su remiančiom dangų kolonom
     Žalvario degė liepsnom ir auksu žėrėjo iš tolo.
@@ -72,17 +47,14 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
     tas, ry’tuose prisišliejęs prie Lenkijos; kraštas pelkėtas ir miškin­
     gas; jo sostinė yra Vilnius -  Vyskupų miestas, toks pat didelis
     5.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189572
-- id: c-177091
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  statusas: verified
+- c-002
+  santrauka: 'Giwenimas Saulis buwa, auksztejspakieha stabejmis, Swiesu iybunti auksu, grazej lipsnoju ligu pyropu: Kieno Elefanto kauleis, auksztus wirszunis dengioja; Sidobranej dwejapi swiesi blizgojosi dunes.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     —
      u  u
@@ -101,10 +73,8 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
     Dubinimas preeja darbu: bet Mulciber tinaj.
     Marios paslėpė, widutinos abjostitas žiemes,
     Ir žiemini swietu, ir Dangas, nie abdeja pa sauli.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194694
+  statusas: verified

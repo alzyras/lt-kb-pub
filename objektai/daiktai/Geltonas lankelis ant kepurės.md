@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-78650"></a>
 - t-001
-  global_id: t-78650
   teiginys: "Besikuriančioje Lietuvos kariuomenėje geltonas lankelis ant kepurės buvo įvestas kaip skiriamasis ženklas kartu su tautinių spalvų rankovės antsiuvu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -67,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-78651"></a>
 - t-002
-  global_id: t-78651
   teiginys: "Pirmojo pavyzdžio uniformą gavę Lietuvos kariai dėvėjo kepures su geltonomis juostomis ir trispalvius kairės rankovės antsiuvus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,7 +109,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78650
+    - t-001
+
 - id: c-75867
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -139,26 +138,11 @@ Nenurodyta
 
     kepures su geltonomis juostomis ir trispal-
     vius trikampius kairės rankovės antsiuvus).
-  citata_rodoma: |
-    Raudonarmiečiai,
-    matydami, jog jų
-    artilerija lietuvių
-
-    Dar tą pačią vasario 7 d.
-    tarp bolševikų ir Šilginėlių
-    kaime buvusios lietuvių
-    sargybos įvyko smarkus
-
-    stūmė lietuvių sargybas, pri-
-
-    rengti pirmojo pavyzdžio uniforma (gavo
-
-    kepures su geltonomis juostomis ir trispal-
-    vius trikampius kairės rankovės antsiuvus).
+  citata_rodoma: "Raudonarmiečiai,\nmatydami, jog jų\nartilerija lietuvių\n\nDar tą pačią vasario 7 d.\ntarp bolševikų ir Šilginėlių\nkaime buvusios lietuvių\nsargybos įvyko smarkus\n\nstūmė lietuvių sargybas, pri-\n\nrengti pirmojo pavyzdžio uniforma (gavo\n\nkepures su geltonomis juostomis ir trispal-\nvius trikampius kairės rankovės antsiuvus)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78651
+    - t-002

@@ -3,21 +3,23 @@ tipas: asmuo
 pavadinimas: 'Ulrikas Hozijus'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1505 m.'
-  - '1536 m.'
+  - '1554 m.'
 date_start: '1505'
-date_end: '1536'
+date_end: '1554'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
+  - miestas
   - vyskupas
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +42,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 ## Teiginiai
 
 <a id="claim-t-87362"></a>
-- t-001
-  global_id: t-87362
+- t-004
   teiginys: "Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti viešą špitolę ir ją išlaikyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +58,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-83342
 
 <a id="claim-t-87363"></a>
-- t-002
-  global_id: t-87363
+- t-003
   teiginys: "Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +77,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-83346
 
 <a id="claim-t-87364"></a>
-- t-003
-  global_id: t-87364
+- t-006
   teiginys: "Ulrikas Hozijus ragino pastatyti tiltą per Vilijos upę ir gavo pavedimą jį nutiesti savo lėšomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,8 +93,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-83347
 
 <a id="claim-t-87365"></a>
-- t-004
-  global_id: t-87365
+- t-002
   teiginys: "1515 m. karalius leido Ulrikui Hozijui savo lėšomis statytis malūną ir iki gyvos galvos imti trečią grūdą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,7 +113,6 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 
 <a id="claim-t-87366"></a>
 - t-005
-  global_id: t-87366
   teiginys: "1536 m. rugpjūčio 6 d. Ulrikui Hozijui suteikta teisė rinkti muitą iš praeivių tiltu per Vilijos upę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,8 +131,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-83341
 
 <a id="claim-t-87367"></a>
-- t-006
-  global_id: t-87367
+- t-007
   teiginys: "Ulrikas Hozijus greitai ir rūpestingai pastatė tiltą per Vilijos upę prie Vilniaus savo didelėmis lėšomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -151,8 +147,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-83344
 
 <a id="claim-t-87368"></a>
-- t-007
-  global_id: t-87368
+- t-001
   teiginys: "Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemažai pajamų karaliaus iždui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -168,8 +163,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-83343
 
 <a id="claim-t-194242"></a>
-- t-008
-  global_id: t-194242
+- t-009
   teiginys: "Tas pats Ulrikas visą laiką iki pat mirties buvo Vil niaus monetų kalyklos prižiūrėtojas."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -179,6 +173,18 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83346
+
+<a id="claim-t-201546"></a>
+- t-010
+  teiginys: "1554 m. Žygimanto Augusto nurodymu Kauno muitinės laikytojai Ivanas Kuncevičius, Ulrichas Hozijus ir Mikalojus Šembelis tikrino kelius iš Žemaitijos į Prūsi ją ir įsitikino, kad pirkliai dažnai gabendavo kontrabandą."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184893
 - susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimanto Senojo tarėjai apžiūrėjo vietą prie Šv. Dvasios prieglaudos, kurią Ulrikas Hozijus buvo pradėjęs mūryti.
 - susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Vilijos upę, o iš tilto muito susigrąžino statybos išlaidas.
 - susijęs iš Ulriko Hozijaus tiltas per Viliją: Ulrikas Hozijus pradėjo mūryti tiltą per Viliją ir špitolę, o po jo mirties statybą užbaigė sūnus Jonas.
@@ -221,39 +227,15 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     LOTYNŲ KALBA
     (Išrašo iš magistrato knygų vertimas)
     Viešpaties vardu Amen.
-  citata_rodoma: |
-    Dalyvaujant
-    didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­
-    kupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­
-    niesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos
-    Didžiosios Kunigaikštystės rūmų bei kariuomenės maršal­
-    kai, taip pat vyriausiajam Gardino seniūnui Jurgiui Radvi­
-    lai, Naugarduko vaivadai Albertui Goštautui, Vitebsko vai­
-    vadai Motiejui Ochmistrovičiui, mūsų Lietuvos Didžiosios
-    Kunigaikštystės iždininkui Ivanui Homostajui ir daugeliui
-    kitų liudininkų.
-    Karalius ŽYGIMANTAS
-
-    ## Puslapis 402
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    ŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO
-    PRIVILEGIJA
-    DĖL TEISĖS RINKTI MUITĄ IŠ PRAEIVIŲ TILTU
-    PER VILIJOS UPĘ SUTEIKIMO PIRMIAUSIA
-    ULRIKUI HOZIJUI, PASKUI ŠVENČIAUSIOSIOS TREJYBĖS
-    PRIEGLAUDAI (ŠPITOLEI),
-    IŠLEISTA" 1536 METŲ RUGPJŪČIO 6 DIENĄ
-    LOTYNŲ KALBA
-    (Išrašo iš magistrato knygų vertimas)
-    Viešpaties vardu Amen.
+  citata_rodoma: "Dalyvaujant \ndidžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­\nkupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­\nniesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos \nDidžiosios Kunigaikštystės rūmų bei kariuomenės maršal­\nkai, taip pat vyriausiajam Gardino seniūnui Jurgiui Radvi­\nlai, Naugarduko vaivadai Albertui Goštautui, Vitebsko vai­\nvadai Motiejui Ochmistrovičiui, mūsų Lietuvos Didžiosios \nKunigaikštystės iždininkui Ivanui Homostajui ir daugeliui \nkitų liudininkų.\nKaralius ŽYGIMANTAS\n\n## Puslapis 402\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO \nPRIVILEGIJA\nDĖL TEISĖS RINKTI MUITĄ IŠ PRAEIVIŲ TILTU \nPER VILIJOS UPĘ SUTEIKIMO PIRMIAUSIA  \nULRIKUI HOZIJUI, PASKUI ŠVENČIAUSIOSIOS TREJYBĖS  \nPRIEGLAUDAI (ŠPITOLEI),\nIŠLEISTA\" 1536 METŲ RUGPJŪČIO 6 DIENĄ \nLOTYNŲ KALBA\n(Išrašo iš magistrato knygų vertimas)\nViešpaties vardu Amen."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87366
+    - t-005
+
 - id: c-83342
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -273,7 +255,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87362
+    - t-004
+
 - id: c-83343
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -295,7 +278,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87368
+    - t-001
+
 - id: c-83344
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -317,29 +301,15 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     kestį pagal mūsų aukščiau išdėstytą potvarkį nustatydamas,
     nuo jo pinigus, kuriuos jis išleido minėto tilto statybai, bė­
     gant laikui išskaičiavo ir susigrąžino.
-  citata_rodoma: |
-    Dvasios bažnyčios,
-    kur minėtame mūsų mieste Vilniuje galėtų būti apgyvendin­
-    ti ir pamaitinti bei prižiūrėti. Šis garbingasis Ulrikas Hozijus,
-    387
-
-    ## Puslapis 404
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą
-    Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir
-    išlaidomis labai greitai ir rūpestingai susiruošė, pastatė ilgam
-    amžiui, kiek buvo įmanoma, sutvirtino ir muitą arba tilto mo­
-    kestį pagal mūsų aukščiau išdėstytą potvarkį nustatydamas,
-    nuo jo pinigus, kuriuos jis išleido minėto tilto statybai, bė­
-    gant laikui išskaičiavo ir susigrąžino.
+  citata_rodoma: "Dvasios bažnyčios, \nkur minėtame mūsų mieste Vilniuje galėtų būti apgyvendin­\nti ir pamaitinti bei prižiūrėti. Šis garbingasis Ulrikas Hozijus,\n387\n\n## Puslapis 404\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\npatenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą \nVilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir \nišlaidomis labai greitai ir rūpestingai susiruošė, pastatė ilgam \namžiui, kiek buvo įmanoma, sutvirtino ir muitą arba tilto mo­\nkestį pagal mūsų aukščiau išdėstytą potvarkį nustatydamas, \nnuo jo pinigus, kuriuos jis išleido minėto tilto statybai, bė­\ngant laikui išskaičiavo ir susigrąžino."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87367
+    - t-007
+
 - id: c-83345
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -367,7 +337,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87365
+    - t-002
+
 - id: c-83346
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -433,8 +404,9 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87363
-    - t-194242
+    - t-003
+    - t-009
+
 - id: c-83347
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -476,46 +448,32 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     prekių, - penki denarai arba obolai; nuo kiekvieno jaučio ir
     karvės, kaip ir nuo viso to, kas už upės būtų vedamas ar
     varomas parduoti, - vienas denaras arba obolas.
-  citata_rodoma: |
-    Kai mes ankstesniais metais svarstėme mūsų LDK val­
-    dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus,
-    kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto
-    patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Ap­
-    mąstydami, kaip mūsų pavaldiniai galėtų išvengti šių nepa­
-    togumų, sumanėme per tą upę pastatydinti tvirtą tiltą, dėl ko
-    mus anksčiau ragino ir garbingasis Ulrikas Hozijus, mūsų Vii-
-    ----• ----
-    386
-
-    ## Puslapis 403
-
-    IV KNYGA
-    niaus pilies viršininkas, todėl mes nusprendėme, kad tai rei­
-    kalingas dalykas, ir trokšdami tai įgyvendinti, gerai pažin­
-    dami ir deramai įvertindami šio garbingo Ulriko Hozijaus
-    dorumą ir sąžiningumą, pavedėme jam, kad jis tą tiltą per
-    Vilijos upę prie mūsų Vilniaus miesto nutiestų ir pastatytų,
-    kiek įmanoma, ir kaip jam atrodytų, kuo tvirtesnį savo lėšo­
-    mis ir išlaidomis pagal žemiau aprašytas sąlygas ir taisykles,
-    būtent: kad pastačius ir atidarius žadėtąjį tiltą, per kurį va­
-    žiuojantys žmonės patogiai ten ir atgal galėtų vykti, tam pa­
-    čiam Ulrikui Hozijui, mūsų įstatymu ir leidimu, leista laisvai
-    ir teisėtai rinkti ir reikalauti muitų arba mokestį nuo praeivių
-    žemiau aprašytu būdu, tai yra, nuo vieno vežimo malkų ar
-    šiaudų, šieno ir bet kokios rūšies javų, kaip ir kitų produktų,
-    kuriuos kas nors vežtų parduoti vienu arkliu - denaras arba
-    obolas; nuo vieno saiko arba statinės druskos - vienas obo-
-    las, nuo vieno prikrauto prekių vežimo, traukiamo arklio, -
-    3 denarai arba obolai; nuo vieno dvikinkio briko, prikrauto
-    prekių, - penki denarai arba obolai; nuo kiekvieno jaučio ir
-    karvės, kaip ir nuo viso to, kas už upės būtų vedamas ar
-    varomas parduoti, - vienas denaras arba obolas.
+  citata_rodoma: "Kai mes ankstesniais metais svarstėme mūsų LDK val­\ndinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, \nkuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto \npatirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Ap­\nmąstydami, kaip mūsų pavaldiniai galėtų išvengti šių nepa­\ntogumų, sumanėme per tą upę pastatydinti tvirtą tiltą, dėl ko \nmus anksčiau ragino ir garbingasis Ulrikas Hozijus, mūsų Vii-\n----• ----\n386\n\n## Puslapis 403\n\nIV KNYGA\nniaus pilies viršininkas, todėl mes nusprendėme, kad tai rei­\nkalingas dalykas, ir trokšdami tai įgyvendinti, gerai pažin­\ndami ir deramai įvertindami šio garbingo Ulriko Hozijaus \ndorumą ir sąžiningumą, pavedėme jam, kad jis tą tiltą per \nVilijos upę prie mūsų Vilniaus miesto nutiestų ir pastatytų, \nkiek įmanoma, ir kaip jam atrodytų, kuo tvirtesnį savo lėšo­\nmis ir išlaidomis pagal žemiau aprašytas sąlygas ir taisykles, \nbūtent: kad pastačius ir atidarius žadėtąjį tiltą, per kurį va­\nžiuojantys žmonės patogiai ten ir atgal galėtų vykti, tam pa­\nčiam Ulrikui Hozijui, mūsų įstatymu ir leidimu, leista laisvai \nir teisėtai rinkti ir reikalauti muitų arba mokestį nuo praeivių \nžemiau aprašytu būdu, tai yra, nuo vieno vežimo malkų ar \nšiaudų, šieno ir bet kokios rūšies javų, kaip ir kitų produktų, \nkuriuos kas nors vežtų parduoti vienu arkliu - denaras arba \nobolas; nuo vieno saiko arba statinės druskos - vienas obo- \nlas, nuo vieno prikrauto prekių vežimo, traukiamo arklio, - \n3 denarai arba obolai; nuo vieno dvikinkio briko, prikrauto \nprekių, - penki denarai arba obolai; nuo kiekvieno jaučio ir \nkarvės, kaip ir nuo viso to, kas už upės būtų vedamas ar \nvaromas parduoti, - vienas denaras arba obolas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87364
+    - t-006
+
+- id: c-184893
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Vis dėlto Kauno svečių teisė ir ypač jos sudedamoji dalis - sankrovos teisė nuo-
+    lat buvo pažeidžiama, Prūsų ir kitų Lietuvos miestų pirkliai stengėsi apeiti Kauną.
+    1554 m. Žygimanto Augusto nurodymu Kauno muitinės laikytojai Ivanas Kunce-
+    vičius, Ulrichas Hozijus ir Mikalojus Šembelis tikrino kelius iš Žemaitijos į Prūsi­
+    ją ir įsitikino, kad pirkliai dažnai gabendavo kontrabandą.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
 ## Ryšiai
 - Ulrikas Hozijus pastatė [[objektai/vietos/Vilniaus tiltas per Viliją]]

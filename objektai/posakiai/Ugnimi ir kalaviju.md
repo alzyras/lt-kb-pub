@@ -37,7 +37,6 @@ Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusia
 
 <a id="claim-t-185464"></a>
 - t-001
-  global_id: t-185464
   teiginys: "Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusiaubė aplinkinius kaimus bei dvarus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusia
     - c-168825
 
 <a id="claim-t-185466"></a>
-- t-002
-  global_id: t-185466
+- t-003
   teiginys: "Skitams dviem voromis užpuolus Lenkiją ir siaubiant ją ugnimi bei kalaviju, karalius įsitraukė į karą dėl Podolės."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusia
     - c-168827
 
 <a id="claim-t-196399"></a>
-- t-003
-  global_id: t-196399
+- t-004
   teiginys: "Vytenis Sandomiro žemėje, nesutikęs pasipriešinimo, ugnimi ir kalaviju nusiaubė aplinkinius kaimus ir dvarus ir išsivarė šešis tūkstančius žmonių."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -149,34 +146,16 @@ Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusia
     dosi persekioti priešo su didikais ar bajorais, kurie jau
     buvo atvykę į Krokuvą arba kuriuos galėjo greitosio­
     mis sušaukti iš aplinkinių gyvenviečių.
-  citata_rodoma: |
-    Staigiai ir be var­
-    go iškilęs į valdžios viršūnes, Vytenis turėjo pamato
-    įtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa­
-    ma padėtis negali nekurstyti pavydo, neteikti progos
-    maištams, ypač dėl to, kad negalėjo stigti maištui nei
-    kurstytojų, nei dingsčių, pagaliau negalėjo trūkti nė
-    vado būsimam vidaus karui, kol, jam valdant, Trai-
-    verstas pradėti karą dėl visai kitų priežasčių, ypač pa­
-    brėždamas tą žinomiausią: būsią keršijama lenkams už
-    patirtą praėjusiais metais Jotvingijoje pralaimėjimą.
-    Sutelkęs didesnę nei paprastai kariuomenę, jis patrau­
-    kė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo
-    apygardas, nuvedė kariuomenę į Sandomiro žemę. Len­
-    kams pasitraukus į miestus ir neleidus savo turtą nio­
-    koti ir savintis, jis, vienur ir kitur nesutikęs pasiprie­
-    šinimo, ugnimi ir kalaviju smarkiai nusiaubė aplinki­
-    nius kaimus ir dvarus, išžudęs galybę silpnų senių bei
-    vaikų, be kito grobio, išsivarė šešis tūkstančius žmo­
-    nių.
+  citata_rodoma: "Staigiai ir be var­\ngo iškilęs į valdžios viršūnes, Vytenis turėjo pamato\nįtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa­\nma padėtis negali nekurstyti pavydo, neteikti progos\nmaištams, ypač dėl to, kad negalėjo stigti maištui nei\nkurstytojų, nei dingsčių, pagaliau negalėjo trūkti nė\nvado būsimam vidaus karui, kol, jam valdant, Trai-\nverstas pradėti karą dėl visai kitų priežasčių, ypač pa­\nbrėždamas tą žinomiausią: būsią keršijama lenkams už\npatirtą praėjusiais metais Jotvingijoje pralaimėjimą.\nSutelkęs didesnę nei paprastai kariuomenę, jis patrau­\nkė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo\napygardas, nuvedė kariuomenę į Sandomiro žemę. Len­\nkams pasitraukus į miestus ir neleidus savo turtą nio­\nkoti ir savintis, jis, vienur ir kitur nesutikęs pasiprie­\nšinimo, ugnimi ir kalaviju smarkiai nusiaubė aplinki­\nnius kaimus ir dvarus, išžudęs galybę silpnų senių bei\nvaikų, be kito grobio, išsivarė šešis tūkstančius žmo­\nnių."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185464
-    - t-196399
+    - t-001
+    - t-004
+
 - id: c-168827
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -212,4 +191,4 @@ Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185466
+    - t-003

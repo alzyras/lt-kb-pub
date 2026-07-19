@@ -38,7 +38,6 @@ Jurgis de Biufonas buvo prancūzų gamtininkas, Paryžiaus botanikos sodo direkt
 
 <a id="claim-t-191844"></a>
 - t-001
-  global_id: t-191844
   teiginys: "Jurgis de Biufonas buvo prancūzų gamtininkas, Paryžiaus botanikos sodo direktorius ir 1749–1788 m. leistos „Gamtos istorijos“ autorius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Jurgis de Biufonas buvo prancūzų gamtininkas, Paryžiaus botanikos sodo direkt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191844
+    - t-001

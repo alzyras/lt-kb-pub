@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-28870"></a>
 - t-001
-  global_id: t-28870
   teiginys: "1264 m. buvę Mindaugo dvariškiai arklininkai nužudė Treniotą, veikiausiai su Vaišvilko žinia ir pritarimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28870
+    - t-001

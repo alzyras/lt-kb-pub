@@ -37,7 +37,6 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 
 <a id="claim-t-32291"></a>
 - t-001
-  global_id: t-32291
   teiginys: "Eiliuotoje kronikoje Kvėdarna minima tarp pilių, kurias pilgrimai esą paėmė kartu su Medvėgaliu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,16 +69,11 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
     paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­
     kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­
     šui padegus pilį, turėję pasiduoti.
-  citata_rodoma: |
-    Poetas
-    išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar
-    paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­
-    kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­
-    šui padegus pilį, turėję pasiduoti.
+  citata_rodoma: "Poetas\nišskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar\npaėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­\nkaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­\nšui padegus pilį, turėję pasiduoti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32291
+    - t-001

@@ -44,7 +44,6 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
 
 <a id="claim-t-192199"></a>
 - t-001
-  global_id: t-192199
   teiginys: "Narbuto teigimu, skandinavai lietuvių žemes vadino bendriniais pavadinimais Ausiurland, Austarreich ir Austurmeg."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -60,12 +59,11 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175063
-    - c-001
+
 <a id="claim-t-192200"></a>
 - t-002
-  global_id: t-192200
   teiginys: "Narbutas aiškina, kad Ausiurland, Austarreich ir Austurmeg reiškia Rytų žemę, Rytų valstybę ir Rytų kelią."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Skandinavai: 0.83"
@@ -79,10 +77,9 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175063
-    - c-001
+
 <a id="claim-t-192554"></a>
 - t-003
-  global_id: t-192554
   teiginys: "Narbuto teigimu, Ausiurland buvo vienas iš skandinavų vartotų bendrinių lietuvių žemių pavadinimų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -100,7 +97,7 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175063
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -122,10 +119,9 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192199
-    - t-192200
+- t-192200
     - t-192554
+
 ## Citatos
 
 - id: c-175063
@@ -141,16 +137,13 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
     pakrantės ligi Dauguvos žemupio. Tokios nuomonės yra
     visi senovės tyrinėtojai, išskyrus Depingą, kuris be jokių
     pagrįstų įrodymų priskiria jam čia ir Pavyslę1 2.
-  citata_rodoma: |
-    Jie taip pat ¡savo kalba vadino šias žemes bendriniais
-    pavadinimais Ausiurland, Austarreich, Austurmeg, o tai
-    reiškia Rytų žemę, Rytų valstybę, Rytų kelią.
+  citata_rodoma: "Jie taip pat ¡savo kalba vadino šias žemes bendriniais\npavadinimais Ausiurland, Austarreich, Austurmeg, o tai\nreiškia Rytų žemę, Rytų valstybę, Rytų kelią."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192199
-    - t-192200
-    - t-192554
+    - t-001
+    - t-002
+    - t-003

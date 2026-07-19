@@ -40,9 +40,8 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
 
 <a id="claim-t-190191"></a>
 - t-001
-  global_id: t-190191
   teiginys: "Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęstučio motina."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -58,10 +57,9 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173074
-    - c-001
+
 <a id="claim-t-201018"></a>
 - t-002
-  global_id: t-201018
   teiginys: "Taip nukropusi Olga juodgirėnus, tapo jų viešpate."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
 
 <a id="claim-t-201019"></a>
 - t-003
-  global_id: t-201019
   teiginys: "Atgiežusi Olga taip apmaudą ant juodgirėnų per veizėjo visą savo ūkę važinėdamos, sūnui vienok liepusi Kijeve būti, paskaidžiusi kraštą į valsčius, rinkliavas padėjusi nuo žemės."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190191
+
 ## Citatos
 
 - id: c-173074
@@ -119,24 +115,19 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
     liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
     tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
     nugalėjo ir paėmė nesuskaičiuojamus turtus.
-  citata_rodoma: |
-    Iš jos sūnūs: Manvydas
-    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
-    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
-    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
-    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
-    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
-    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
+  citata_rodoma: "Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo\nSmolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,\ntai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-\nstut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190191
+    - t-001
+
 - id: c-184368
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paukščiai,
     mindami savo gultas, sugrįžo namo ir į pastoges
@@ -152,10 +143,12 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201018
+    - t-002
+
 - id: c-184369
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Atgiežusi Olga taip apmaudą ant juodgirėnų per­
     veizėjo visą savo ūkę važinėdamos, sūnui vienok
@@ -172,4 +165,4 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201019
+    - t-003

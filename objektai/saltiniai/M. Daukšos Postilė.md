@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-26662"></a>
 - t-001
-  global_id: t-26662
   teiginys: "1599 m. Mikalojus Daukša išleido „Postilę“, kurios pratarmėje ragino Lietuvos visuomenę kurti raštiją lietuvių kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26662
+    - t-001

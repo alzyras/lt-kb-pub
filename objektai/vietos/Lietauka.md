@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-46891"></a>
-- t-001
-  global_id: t-46891
+- t-010
   teiginys: "Lietaukos upelis, dešinysis Neries intakas, tekėjo Lietuvos žemės link, nebūtinai pačioje Lietuvoje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-16571
 
 <a id="claim-t-46892"></a>
-- t-002
-  global_id: t-46892
+- t-011
   teiginys: "Labiausiai paplitusi versija Lietuvos vardą kildino iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -85,8 +83,7 @@ Nenurodyta
     - c-49437
 
 <a id="claim-t-46893"></a>
-- t-003
-  global_id: t-46893
+- t-009
   teiginys: "Labiausiai paplitusi versija Lietuvos vardą kildino iš nedidelio Lietaukos upelio, įtekančio į Nerį netoli Kernavės."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -102,8 +99,7 @@ Nenurodyta
     - c-16570
 
 <a id="claim-t-46894"></a>
-- t-004
-  global_id: t-46894
+- t-008
   teiginys: "Paplitusi versija Lietuvos vardą kildino iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -132,18 +128,16 @@ Nenurodyta
     lietuviais, o savo žemę – Lietuva. Iki šiol labiausiai paplitusi versija buvo
     Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-
     toli Kernavės, vardo.
-  citata_rodoma: |
-    Iki šiol labiausiai paplitusi versija buvo
-    Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-
-    toli Kernavės, vardo.
+  citata_rodoma: "Iki šiol labiausiai paplitusi versija buvo\nLietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-\ntoli Kernavės, vardo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46893
-    - t-46894
+    - t-009
+    - t-008
+
 - id: c-16571
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -154,17 +148,15 @@ Nenurodyta
     buvo tarp Nemuno ir Neries upių. Taigi Lietaukos upelis, dešinysis Neries
     intakas, tekėjo Lietuvos žemės link, ir nebūtinai pačioje Lietuvoje. Tokiu
     atveju upelis pavadinimą turėjo gauti nuo žemės vardo, o ne atvirkščiai.
-  citata_rodoma: |
-    Taigi Lietaukos upelis, dešinysis Neries
-    intakas, tekėjo Lietuvos žemės link, ir nebūtinai pačioje Lietuvoje. Tokiu
-    atveju upelis pavadinimą turėjo gauti nuo žemės vardo, o ne atvirkščiai.
+  citata_rodoma: "Taigi Lietaukos upelis, dešinysis Neries\nintakas, tekėjo Lietuvos žemės link, ir nebūtinai pačioje Lietuvoje. Tokiu\natveju upelis pavadinimą turėjo gauti nuo žemės vardo, o ne atvirkščiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46891
+    - t-010
+
 - id: c-49437
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -176,16 +168,11 @@ Nenurodyta
     toli Kernavės, vardo. Tradiciškai manoma, kad Lietuvos valstybės bran-
     duolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais
     buvo tarp Nemuno ir Neries upių.
-  citata_rodoma: |
-    Iki šiol labiausiai paplitusi versija buvo
-    Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-
-    toli Kernavės, vardo. Tradiciškai manoma, kad Lietuvos valstybės bran-
-    duolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais
-    buvo tarp Nemuno ir Neries upių.
+  citata_rodoma: "Iki šiol labiausiai paplitusi versija buvo \nLietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-\ntoli Kernavės, vardo. Tradiciškai manoma, kad Lietuvos valstybės bran-\nduolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais \nbuvo tarp Nemuno ir Neries upių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46892
+    - t-011

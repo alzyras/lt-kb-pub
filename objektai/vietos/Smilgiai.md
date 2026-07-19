@@ -31,7 +31,6 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
 
 <a id="claim-t-38552"></a>
 - t-001
-  global_id: t-38552
   teiginys: "Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,8 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38552
+    - t-001
+
 - id: c-167195
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -97,3 +97,5 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

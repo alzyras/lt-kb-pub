@@ -30,7 +30,6 @@ Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karam
 
 <a id="claim-t-194897"></a>
 - t-001
-  global_id: t-194897
   teiginys: "Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karamzin."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -58,4 +57,4 @@ Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194897
+    - t-001

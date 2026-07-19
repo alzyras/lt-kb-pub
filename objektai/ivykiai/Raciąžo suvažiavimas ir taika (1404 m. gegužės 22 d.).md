@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-100056"></a>
 - t-001
-  global_id: t-100056
   teiginys: "1404 m. Raciąže Vytautas pažadėjo Ordinui pildyti Salyno taikos sąlygas, kad galėtų vėl veikti rytuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100056
+    - t-001

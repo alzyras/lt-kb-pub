@@ -33,7 +33,6 @@ Dusburgietis teigia, kad tuo metu, kai šitai vyko, Kulmo broliai, susirinkę dr
 
 <a id="claim-t-59147"></a>
 - t-001
-  global_id: t-59147
   teiginys: "Kulmo broliai, kilmingieji ir miestiečiai meldėsi žodžiais „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo tėvonijos paniekinti“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,10 +46,9 @@ Dusburgietis teigia, kad tuo metu, kai šitai vyko, Kulmo broliai, susirinkę dr
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59779
-    - c-001
+
 <a id="claim-t-197051"></a>
 - t-002
-  global_id: t-197051
   teiginys: "Ir viešpaties dvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su priešais, bet, pasikliaudami viešpačiu, jie narsiai bei ryžtingai užpuolė priešus, esančius prie Kulmo miesto, ir užvirė smarkios kautynės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Dusburgietis teigia, kad tuo metu, kai šitai vyko, Kulmo broliai, susirinkę dr
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59147
+
 ## Citatos
 
 - id: c-59779
@@ -98,21 +95,15 @@ Dusburgietis teigia, kad tuo metu, kai šitai vyko, Kulmo broliai, susirinkę dr
     kurias vėjas nuneša nuo žemės paviršiaus! Pakilo stiprus vėjas ir nunešė visus tuos
     laivus toli nuo kranto, ir nutiko jiems su tais laivais taip pat kaip ir tam netikėliui saracėnų
     karaliui, po pralaimėto mūšio bėgusiam nuo Karolio.
-  citata_rodoma: |
-    Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę
-    drauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes,
-    kurių pridarė Sventopelkas su savo kariauna,  ir, mušdamiesi  į krūtinę, su ašaromis
-    meldė dievą, sakydami: „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo
-    tėvonijos paniekinti“. Susirūpinę broliai manė, kad, dar kartą susikovę su šia kariuomene
-    ir pralaimėję mūšį, turėsią visai palikti Prūsijos žemę be vilties ją atgauti ir, suprantama,
-    Kristaus tikėjimas ten turėsiąs išnykti.
+  citata_rodoma: "Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę\ndrauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes,\nkurių pridarė Sventopelkas su savo kariauna,  ir, mušdamiesi  į krūtinę, su ašaromis\nmeldė dievą, sakydami: „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo\ntėvonijos paniekinti“. Susirūpinę broliai manė, kad, dar kartą susikovę su šia kariuomene\nir pralaimėję mūšį, turėsią visai palikti Prūsijos žemę be vilties ją atgauti ir, suprantama,\nKristaus tikėjimas ten turėsiąs išnykti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59147
+    - t-001
+
 - id: c-179019
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -133,4 +124,4 @@ Dusburgietis teigia, kad tuo metu, kai šitai vyko, Kulmo broliai, susirinkę dr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197051
+    - t-002

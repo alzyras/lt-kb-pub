@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-193685"></a>
 - t-001
-  global_id: t-193685
   teiginys: "1769 m. nugriuvo Vilniaus katedros bokštas, tuo pačiu metu pasviro ir Vilniaus rotušės bokštas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193685
+    - t-001

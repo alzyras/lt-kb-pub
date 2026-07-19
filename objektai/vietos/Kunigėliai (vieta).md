@@ -33,7 +33,6 @@ Gruodžio 25 d. LDK lauko etmono raitelių vėliava nakvojo Juodausiuose ir Kuni
 
 <a id="claim-t-202406"></a>
 - t-001
-  global_id: t-202406
   teiginys: "Gruodžio 25 d. LDK lauko etmono raitelių vėliava nakvojo Juodausiuose ir Kunigėliuose."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,5 @@ Gruodžio 25 d. LDK lauko etmono raitelių vėliava nakvojo Juodausiuose ir Kuni
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202406
+    - t-001

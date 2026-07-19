@@ -37,7 +37,6 @@ Stanislovas Bartoševičius tuo metu tikrino Uščižo karališkąjį dvarą. St
 
 <a id="claim-t-187376"></a>
 - t-001
-  global_id: t-187376
   teiginys: "Stanislovas Bartoševičius tuo metu tikrino Uščižo karališkąjį dvarą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -55,7 +54,6 @@ Stanislovas Bartoševičius tuo metu tikrino Uščižo karališkąjį dvarą. St
 
 <a id="claim-t-187377"></a>
 - t-002
-  global_id: t-187377
   teiginys: "Stanislovas Bartoševičius tikrino Uščižo karališkąjį dvarą, kai Maskvos vaivados Jakovo Zachariničiaus pajėgos priartėjo prie Briansko."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -74,7 +72,6 @@ Stanislovas Bartoševičius tuo metu tikrino Uščižo karališkąjį dvarą. St
 
 <a id="claim-t-187666"></a>
 - t-003
-  global_id: t-187666
   teiginys: "Stanislovas Bartoševičius tikrino Uščižo karališkąjį dvarą, kai Maskvos vaivados pajėgos slapta priartėjo prie Briansko."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -95,7 +92,6 @@ Stanislovas Bartoševičius tuo metu tikrino Uščižo karališkąjį dvarą. St
 
 <a id="claim-t-194041"></a>
 - t-004
-  global_id: t-194041
   teiginys: "Maskvos vaivadai artėjant prie Briansko, Briansko vaivada Stanislovas Bartoševičius tikrino Uščižo karališkąjį dvarą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -126,17 +122,14 @@ Stanislovas Bartoševičius tuo metu tikrino Uščižo karališkąjį dvarą. St
     ševičiui 7 nieko apie tai nebuvo žinoma, ir jis tuo metu
     tikrino Uščižo8 karališkąjį dvarą. Tą naktį9 dėl brians-
     kiečių išdavystės Briansko pilis buvo sudeginta.
-  citata_rodoma: |
-    o Briansko vaivadai ponui Stanislovui Barto­
-    ševičiui 7  nieko apie tai nebuvo žinoma, ir jis tuo metu
-    tikrino Uščižo8  karališkąjį dvarą.
+  citata_rodoma: "o Briansko vaivadai ponui Stanislovui Barto­\nševičiui 7  nieko apie tai nebuvo žinoma, ir jis tuo metu \ntikrino Uščižo8  karališkąjį dvarą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187376
-    - t-187377
-    - t-187666
-    - t-194041
+    - t-001
+    - t-002
+    - t-003
+    - t-004

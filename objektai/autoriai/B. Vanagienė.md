@@ -55,28 +55,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-187795"></a>
-- t-001
-  global_id: t-187795
-  teiginys: "B. Vanagienė parengė Simono Daukanto „Raštų“ pirmo tomo tekstą."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> S. Daukantas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "B. Vanagienė: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "S. Daukantas: mention_match, author, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"B. Vanagienė\" parinktas kaip owner_note_path. Targetas \"S. Daukantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-170738
-    - c-170737
-    - c-002
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -89,8 +67,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187795
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -102,8 +78,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187795
+
 ## Citatos
 
 - id: c-170737
@@ -122,17 +97,15 @@ Nenurodyta
     netiki Kauno Perkūno šventyklos buvimu, dievų Pramžimo,
     Kovo tikrumu, o pasakojimą apie Vytolfą laiko panašiu į tuos,
     „kurie yra veikale „Tūkstantis ir viena naktis“28 29.
-  citata_rodoma: |
-    21 Daukantas S. Raštai / Tekstą parengė B. Vanagienė. Sudarė,
-    įvadą ir paaiškinimus parašė V Merkys. -  V, 1976. -  T. 1. -  P. 488-
-    560.
+  citata_rodoma: "21 Daukantas S. Raštai / Tekstą parengė B. Vanagienė. Sudarė,\nįvadą ir paaiškinimus parašė V Merkys. -  V, 1976. -  T. 1. -  P. 488-\n560."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187795
+    - t-002
+
 - id: c-170738
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -146,14 +119,31 @@ Nenurodyta
     kovskio, Aleksandro Gvaninio, Jono Lasickio, Alberto Vijū-
     ko-Kojalavičiaus ir daugelio kitų, kurių darbai kartu yra reikš­
     mingi ir kaip lietuvių mitologijos šaltinis.
-  citata_rodoma: |
-    14 Daukantas S. Raštai. -  T. 1/ Tekstą parengė B. Vanagienė. Su­
-    darė, įvadą ir paaiškinimus parašė V. Merkys. -  V, 1976. -  P. 81-99,
-    488-560.
+  citata_rodoma: "14 Daukantas S. Raštai. -  T. 1/ Tekstą parengė B. Vanagienė. Su­\ndarė, įvadą ir paaiškinimus parašė V. Merkys. -  V, 1976. -  P. 81-99,\n488-560."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187795
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-187795"></a>
+- t-002
+  teiginys: "B. Vanagienė parengė Simono Daukanto „Raštų“ pirmo tomo tekstą."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> S. Daukantas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "B. Vanagienė: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "S. Daukantas: mention_match, author, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"B. Vanagienė\" parinktas kaip owner_note_path. Targetas \"S. Daukantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-170737
+    - c-170738

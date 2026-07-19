@@ -41,7 +41,6 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
 
 <a id="claim-t-186055"></a>
 - t-001
-  global_id: t-186055
   teiginys: "Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas tapti sosto įpėdiniu, pritarus karaliui Kazimierui ir lenkų senatui."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
 
 <a id="claim-t-193939"></a>
 - t-002
-  global_id: t-193939
   teiginys: "O didžiojo kunigaikščio Algirdo brolis Karijotas valdė Lietuvos Naugarduką, ir jis turėjo keturis4 sū nus: kunigaikštį Jurgį, kunigaikštį Aleksandrą, kuni gaikštį Konstantiną ir kunigaikštį Teodorą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -71,17 +69,6 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176564
-
-<a id="claim-t-193940"></a>
-- t-003
-  global_id: t-193940
-  teiginys: 'Komentare Lietuvos metraščių žinia apie Kazimiero ketinimą susigiminiuoti su Konstantinu Karijotaičiu laikoma patikima, išskyrus Lenkijos sosto perdavimo sumanymą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas Konstantino Karijotaičio kontekstas ir sutvarkytas OCR tekstas. Vertinimas paliktas kaip komentaro pozicija, nepridedant daugiau už citatą.'
-  pagrindžia:
-    - c-003
 - susijęs iš [[objektai/asmenys/Konstantinas (Karijotaitis).md#claim-t-29032|Konstantinas (Karijotaitis)]]: Konstantinas Karijotaitis palaikė Lietuvos ir Lenkijos sąjungą, nes jam rūpėjo apsaugoti Podolę nuo totorių.
 ## Reikšmingi paminėjimai
 - c-003
@@ -95,11 +82,9 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
     vieta pagal visus Lietuvos m etraščių PS nuorašus — Vengrija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193940
+  statusas: not_found
 ## Citatos
 
 - id: c-169416
@@ -119,25 +104,15 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
     lotyniškąsias, prarado viltį
     tapti sosto įpėdiniu. Neilgai
     trukus po to sugrįžęs į Podolę, jis čia ir mirė.
-  citata_rodoma: |
-    Beveik tuo pat metu karalius
-    Kazimieras bei lenkų senatas karalystės seime tarėsi
-    dėl sosto įpėdinio. Kurie ne kurie metraštininkai tei­
-    gia, jog į šį garbingą postą buvęs kviečiamas, suta­
-    riant ir karaliui, ir senatui, Konstantinas Karijotaitis,
-    Algirdo brolėnas. Jis nuvy­
-    ko į Krokuvą, tačiau, net dėl
-    sosto nepanorėjęs išsižadėti
-    rusiškųjų apeigų ir pereiti į
-    lotyniškąsias, prarado viltį
-    tapti sosto įpėdiniu.
+  citata_rodoma: "Beveik tuo pat metu karalius\nKazimieras bei lenkų senatas karalystės seime tarėsi\ndėl sosto įpėdinio. Kurie ne kurie metraštininkai tei­\ngia, jog į šį garbingą postą buvęs kviečiamas, suta­\nriant ir karaliui, ir senatui, Konstantinas Karijotaitis,\nAlgirdo brolėnas. Jis nuvy­\nko į Krokuvą, tačiau, net dėl\nsosto nepanorėjęs išsižadėti\nrusiškųjų apeigų ir pereiti į\nlotyniškąsias, prarado viltį\ntapti sosto įpėdiniu."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186055
+    - t-001
+
 - id: c-176564
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -160,24 +135,11 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
     menecą davė valdyti savo vardu Goštautui Goštautai-
     čiui M. Ir visuose tuose miestuose pastatęs savo seniū­
     nus, leidosi atgalios.
-  citata_rodoma: |
-    Podolėje veikė jų  paskirti atamanai, ku­
-    rie tvarkė visas pajamas, o pas juos atvykdavo totorių
-    baskakai ir, surinkę iš tų atamanų duoklę, išgabendavo
-    ją j Ordą.
-    O didžiojo kunigaikščio Algirdo brolis Karijotas
-    valdė Lietuvos Naugarduką, ir jis turėjo keturis4  sū­
-    nus: kunigaikštį Jurgį, kunigaikštį Aleksandrą, kuni­
-    gaikštį Konstantiną ir kunigaikštį Teodorą. Ir štai tie
-    kunigaikščiai — trys broliai Karijotaičiai, leidus jų dė­
-    dei, didžiajam kunigaikščiui Algirdui, ir su lietuvių
-    pagalba ištraukė į Podolės žemę5 , o tais laikais Podo­
-    lės žemėje nebuvo nė vienos pilies — nei medinės, nei
-    mūrinės.
+  citata_rodoma: "Podolėje veikė jų  paskirti atamanai, ku­\nrie tvarkė visas pajamas, o pas juos atvykdavo totorių \nbaskakai ir, surinkę iš tų atamanų duoklę, išgabendavo \nją j Ordą.\nO didžiojo kunigaikščio Algirdo brolis Karijotas \nvaldė Lietuvos Naugarduką, ir jis turėjo keturis4  sū­\nnus: kunigaikštį Jurgį, kunigaikštį Aleksandrą, kuni­\ngaikštį Konstantiną ir kunigaikštį Teodorą. Ir štai tie \nkunigaikščiai — trys broliai Karijotaičiai, leidus jų dė­\ndei, didžiajam kunigaikščiui Algirdui, ir su lietuvių \npagalba ištraukė į Podolės žemę5 , o tais laikais Podo­\nlės žemėje nebuvo nė vienos pilies — nei medinės, nei \nmūrinės."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193939
+    - t-002

@@ -36,7 +36,6 @@ Tai buvo 1350 metais iki Kristaus gimimo, 70 metų prieš 1 Skilakas, kilęs iš
 
 <a id="claim-t-194900"></a>
 - t-001
-  global_id: t-194900
   teiginys: "Tai buvo 1350 metais iki Kristaus gimimo, 70 metų prieš 1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux)."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Tai buvo 1350 metais iki Kristaus gimimo, 70 metų prieš 1 Skilakas, kilęs iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194900
+    - t-001

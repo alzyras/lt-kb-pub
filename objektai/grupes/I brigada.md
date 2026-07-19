@@ -37,7 +37,6 @@ Lietuvių pajėgos Veikiančioji Lietuvos kariuomenė buvo pertvarkyta į dvi br
 
 <a id="claim-t-40889"></a>
 - t-001
-  global_id: t-40889
   teiginys: "I brigada pradėjo puolimą ir turėjo pralaužti bolševikų gynybą Galminių-Bružų-Naujasodės linijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,17 +72,11 @@ Lietuvių pajėgos Veikiančioji Lietuvos kariuomenė buvo pertvarkyta į dvi br
     minių-Bružų- Naujasodės linijoje.
 
     Karin.
-  citata_rodoma: |
-    Puolimą pradėjo I brigada, jos
-    svarbiausias uždavinys buvo pralaužti
-    bolševikų gynybą gerai įtvirtintoje Gal-
-    minių-Bružų- Naujasodės linijoje.
-
-    Karin.
+  citata_rodoma: "Puolimą pradėjo I brigada, jos\nsvarbiausias uždavinys buvo pralaužti\nbolševikų gynybą gerai įtvirtintoje Gal-\nminių-Bružų- Naujasodės linijoje.\n\nKarin."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40889
+    - t-001

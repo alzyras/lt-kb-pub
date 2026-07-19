@@ -39,7 +39,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 
 <a id="claim-t-60323"></a>
 - t-001
-  global_id: t-60323
   teiginys: "1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   temporalinis_llm_pakomentavimas: "Teiginys pilnas ir remiasi citatoje pateikta informacija."
   pagrindžia:
     - c-60955
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją.'
@@ -74,8 +73,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60323
+
 ## Citatos
 
 - id: c-60955
@@ -98,20 +96,11 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
     dėl šitokių veiksmų pasmerkta ekskomunikai, o nuo to negalėsiąs atleisti niekas kitas,
     tik apaštališkasis sostas, prie kurio jie patys per tris mėnesius turėsią prisistatyti,
     kad atvykę deramai pataisytų tai, kas atsitiko.
-  citata_rodoma: |
-    1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,
-    iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei
-    ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė
-    prieš tikėjimo priešus, nes ledas buvo plonas.
-
-
-
-
-       349 (342).
+  citata_rodoma: "1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,\niš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei\nginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė\nprieš tikėjimo priešus, nes ledas buvo plonas.\n\n\n\n\n   349 (342)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60323
+    - t-001

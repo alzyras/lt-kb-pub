@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-201999"></a>
 - t-001
-  global_id: t-201999
   teiginys: "Rotušė buvo miesto viešojo gyvenimo centras, joje rinkdavosi miesto savivaldos institucijų žmonės, vykdavo teismai, į ją suplaukdavo mokesčiai, prie jos turėjusi būti nusikaltėlių bausmės vieta - gėdos stulpas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -53,6 +52,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185346
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -72,4 +74,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201999
+    - t-001

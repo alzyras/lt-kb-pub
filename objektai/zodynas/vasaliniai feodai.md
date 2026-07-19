@@ -31,7 +31,6 @@ Jų žemes ordinas priiminėjo vasaliniais feodais, vis rūpestingai aktuose pa�
 
 <a id="claim-t-28612"></a>
 - t-001
-  global_id: t-28612
   teiginys: "Prūsų ordinas perbėgėlių žemes priimdavo kaip vasalinius feodus ir žadėjo jas grąžinti po Lietuvos nukariavimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Jų žemes ordinas priiminėjo vasaliniais feodais, vis rūpestingai aktuose pa�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28612
+    - t-001

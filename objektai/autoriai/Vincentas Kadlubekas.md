@@ -37,7 +37,6 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
 
 <a id="claim-t-190344"></a>
 - t-001
-  global_id: t-190344
   teiginys: "Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyniškuoju variantu ir vertimu į lenkų kalbą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -58,9 +57,8 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
 
 <a id="claim-t-190817"></a>
 - t-002
-  global_id: t-190817
   teiginys: "Teodoro Narbuto cituotas Vincentas Kadlubekas aprašė Maslavo karą su Lenkijos karaliumi Kazimieru, kurio kariuomenėje kovojo jotvingiai, mozūrai ir prūsai."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -77,12 +75,11 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173699
-    - c-002
+
 <a id="claim-t-190818"></a>
 - t-003
-  global_id: t-190818
   teiginys: "Išnašoje teigiama, kad Teodoras Narbutas tikriausiai naudojo lotynišką Vincento Kadlubeko kronikos variantą ir jos vertimą į lenkų kalbą."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -98,7 +95,7 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173700
-    - c-003
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoro Narbuto cituotas Vincentas Kadlubekas aprašė Maslavo karą su Lenkijos karaliumi Kazimieru, kurio kariuomenėje kovojo jotvingiai, mozūrai ir prūsai.'
@@ -118,8 +115,6 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190817
 - c-003
   santrauka: 'Išnašoje teigiama, kad Teodoras Narbutas tikriausiai naudojo lotynišką Vincento Kadlubeko kronikos variantą ir jos vertimą į lenkų kalbą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -138,8 +133,7 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190818
+
 ## Citatos
 
 - id: c-173227
@@ -159,7 +153,8 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190344
+    - t-001
+
 - id: c-173699
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -177,23 +172,15 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
     Ekarto Jazygae Sylvicolae, be kita ko, visiškai sutampa
     su mūsų istorikų poleksėnais, o kartu neneigia, jog jie
     nuo seno gyvenę Polesėje.
-  citata_rodoma: |
-    Lais­
-    vų žemių buvo dar tuščioje, pelkėtoje ir miškingoje Po­
-    lesėje.
-    109
-    Tų įvykių senumą ir istorinį tikroviškumą patvirtina
-    mūsų lenkų istorikas, cituodamas Kadlubeką, kuris ap­
-    rašė, kaip Maslavas kariavo su lenkų karalium Kazimie­
-    ru; jo kariuomenėje jotvingiai kovojo šalia mozūrų ir
-    prūsų. Tą patį sako ir Bogufalas*.
+  citata_rodoma: "Lais­\nvų žemių buvo dar tuščioje, pelkėtoje ir miškingoje Po­\nlesėje.\n109\nTų įvykių senumą ir istorinį tikroviškumą patvirtina\nmūsų lenkų istorikas, cituodamas Kadlubeką, kuris ap­\nrašė, kaip Maslavas kariavo su lenkų karalium Kazimie­\nru; jo kariuomenėje jotvingiai kovojo šalia mozūrų ir\nprūsų. Tą patį sako ir Bogufalas*."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190817
+    - t-002
+
 - id: c-173700
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -206,20 +193,11 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
     tuo klausimu susirašinėjo su K. E. Naperskiu, bet tik 1842 metais
     rankraštis buvo galutinai sutvarkytas (pratarmė rašyta 1842 me­
     tų sausio 1 (13) dieną).
-  citata_rodoma: |
-    172 /P.
-    312,
-    (16)
-    išnaša/
-    T. Narbutas tikriausiai naudojo tiek lotyniškąjį lenkų vyskupo
-    Vincento Kadlubeko (apie 1150—1223) kronikos variantą (\Nar-
-    butt T.] Spisanie Muzeum w Szawrach. L. 21. Nr. 464), tiek ir
-    vertimą j lenkų kalbą (Wincenty Kadiubek. Historya polska. Skro-
-    cona (przez) P. F. C. Lowicz, 1803).
+  citata_rodoma: "172 /P.\n312,\n(16)\nišnaša/\nT. Narbutas tikriausiai naudojo tiek lotyniškąjį lenkų vyskupo\nVincento Kadlubeko (apie 1150—1223) kronikos variantą (\\Nar-\nbutt T.] Spisanie Muzeum w Szawrach. L. 21. Nr. 464), tiek ir\nvertimą j lenkų kalbą (Wincenty Kadiubek. Historya polska. Skro-\ncona (przez) P. F. C. Lowicz, 1803)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190818
+    - t-003

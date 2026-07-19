@@ -30,7 +30,6 @@ Pagaliau Raynoldo Bažny­ čios istorija ir paskesni vėliau Lietu­ voje vieš
 
 <a id="claim-t-88328"></a>
 - t-001
-  global_id: t-88328
   teiginys: "Raynaldo Bažnyčios istorija aiškino kai kuriuos Gedimino valdymo ir politikos aspektus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Pagaliau Raynoldo Bažny­ čios istorija ir paskesni vėliau Lietu­ voje vieš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88328
+    - t-001

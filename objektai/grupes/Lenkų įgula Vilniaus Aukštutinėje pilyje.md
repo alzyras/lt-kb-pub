@@ -40,8 +40,7 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
 ## Teiginiai
 
 <a id="claim-t-86717"></a>
-- t-001
-  global_id: t-86717
+- t-002
   teiginys: "Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula ir dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose bei aptvaruose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
     - c-82699
 
 <a id="claim-t-86718"></a>
-- t-002
-  global_id: t-86718
+- t-005
   teiginys: "Lenkų įgulai Aukštutinėje pilyje penkios Vilniaus apsupties savaitės praėjo sunkiomis kautynėmis ir ginčais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
 
 <a id="claim-t-86719"></a>
 - t-003
-  global_id: t-86719
   teiginys: "Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +91,6 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
 
 <a id="claim-t-86720"></a>
 - t-004
-  global_id: t-86720
   teiginys: "Nuolatinės atakos smarkiai kamavo įsitvirtinusią įgulą, bet nepalaužė lenkų narsos Moskoževskio gynybos linijose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,8 +106,7 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
     - c-82700
 
 <a id="claim-t-86721"></a>
-- t-005
-  global_id: t-86721
+- t-001
   teiginys: "Jogailos paliktas vadas su lenkų įgula Vilniaus Aukštutinėje pilyje tuo metu valdydavo ir kitus gyventojus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -174,7 +169,8 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86721
+    - t-001
+
 - id: c-82697
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -229,7 +225,8 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86719
+    - t-003
+
 - id: c-82698
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -251,7 +248,8 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86718
+    - t-005
+
 - id: c-82699
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -270,7 +268,8 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86717
+    - t-002
+
 - id: c-82700
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -295,4 +294,4 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86720
+    - t-004

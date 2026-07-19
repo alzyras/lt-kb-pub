@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-10213"></a>
 - t-001
-  global_id: t-10213
   teiginys: "Po Giedraičių kautynių atkirsta lenkų kavalerijos brigada lapkričio 24 d. ties Labanoru perėjo fronto liniją."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -99,4 +98,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10213
+    - t-001

@@ -38,8 +38,7 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
 ## Teiginiai
 
 <a id="claim-t-13508"></a>
-- t-001
-  global_id: t-13508
+- t-002
   teiginys: "Formulė susiejama su javais, religine tolerancija, bajoriškąja demokratija, teisine tradicija ir Vilniaus baroku."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -70,13 +69,11 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
     valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
     mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
     cija, demokratija, konstitucija, barokas.
-  citata_rodoma: |
-    duona, toleran-
-    cija, demokratija, konstitucija, barokas.
+  citata_rodoma: "duona, toleran-\ncija, demokratija, konstitucija, barokas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13508
+    - t-002

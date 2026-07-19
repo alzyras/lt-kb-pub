@@ -46,10 +46,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07798"></a>
-- t-001
-  global_id: t-07798
+- t-002
   teiginys: "Kiekviena pavietė turėjo karūžąjį, kuris laikė surašytus žemlionus, o kartą per metus tikrino jų ginklus ir arklius."
-  atnaujinta: "2026-06-10 12:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -61,7 +60,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09954
-    - c-09955
 
 ## Reikšmingi paminėjimai
 Nenurodyta
@@ -74,41 +72,31 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Kiekvienos pavietės buvo karūžasis, kurs turėjo visus žemlionis, arba vyčius, surašytus ir kas metą,
-    sujojus visiems į pavietę ant įsakytos dienos, paprastai rudenį, visus perskaitė ir perveizėjo kožno
-    žemlionies ginklą ir arklį, jei nerado kaip reikiant, tokį iš reistro išpaišė^1303.
-  citata_rodoma: |
-    Kiekvienos pavietės buvo karūžasis, kurs turėjo visus žemlionis, arba vyčius, surašytus ir kas metą,
-    sujojus visiems į pavietę ant įsakytos dienos, paprastai rudenį, visus perskaitė ir perveizėjo kožno
-    žemlionies ginklą ir arklį, jei nerado kaip reikiant, tokį iš reistro išpaišė^1303.
+        sujojus visiems į pavietę ant įsakytos dienos, paprastai rudenį, visus perskaitė ir perveizėjo kožno
+        žemlionies ginklą ir arklį, jei nerado kaip reikiant, tokį iš reistro išpaišė^1303.
+  citata_rodoma: "Kiekvienos pavietės buvo karūžasis, kurs turėjo visus žemlionis, arba vyčius, surašytus ir kas metą,\nsujojus visiems į pavietę ant įsakytos dienos, paprastai rudenį, visus perskaitė ir perveizėjo kožno\nžemlionies ginklą ir arklį, jei nerado kaip reikiant, tokį iš reistro išpaišė^1303."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07798
+    - t-002
+
 - id: c-09955
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Atlikusysis arba išmestasis
-    ir nevaidinusysis ant tos perveizos^1304 vėl duoklę turėjo duoti su kitais valsčionimis; prie jo buvo
-    laikoma karės vėliava tos apykartos; kėlė į tą godą^1305 ne dėl didelumo turtų, kaip paskesnėse
-    gadynėse kad darė, bet, kaip sakiau, visų narsųjį ir guvųjį vyrą tarp pačių žemlionų, ką gal regėti
-    reistre Lietuvos ūkės kareivių, surašytų metuose 1528, kuriame karūžieji yra minavojami tarp tų pačių
-    žemlionų, arba vyčių.
-  citata_rodoma: |
-    Atlikusysis arba išmestasis
-    ir nevaidinusysis ant tos perveizos^1304 vėl duoklę turėjo duoti su kitais valsčionimis; prie jo buvo
-    laikoma karės vėliava tos apykartos; kėlė į tą godą^1305 ne dėl didelumo turtų, kaip paskesnėse
-    gadynėse kad darė, bet, kaip sakiau, visų narsųjį ir guvųjį vyrą tarp pačių žemlionų, ką gal regėti
-    reistre Lietuvos ūkės kareivių, surašytų metuose 1528, kuriame karūžieji yra minavojami tarp tų pačių
-    žemlionų, arba vyčių.
+        ir nevaidinusysis ant tos perveizos^1304 vėl duoklę turėjo duoti su kitais valsčionimis; prie jo buvo
+        laikoma karės vėliava tos apykartos; kėlė į tą godą^1305 ne dėl didelumo turtų, kaip paskesnėse
+        gadynėse kad darė, bet, kaip sakiau, visų narsųjį ir guvųjį vyrą tarp pačių žemlionų, ką gal regėti
+        reistre Lietuvos ūkės kareivių, surašytų metuose 1528, kuriame karūžieji yra minavojami tarp tų pačių
+        žemlionų, arba vyčių.
+  citata_rodoma: "Atlikusysis arba išmestasis\nir nevaidinusysis ant tos perveizos^1304 vėl duoklę turėjo duoti su kitais valsčionimis; prie jo buvo\nlaikoma karės vėliava tos apykartos; kėlė į tą godą^1305 ne dėl didelumo turtų, kaip paskesnėse\ngadynėse kad darė, bet, kaip sakiau, visų narsųjį ir guvųjį vyrą tarp pačių žemlionų, ką gal regėti\nreistre Lietuvos ūkės kareivių, surašytų metuose 1528, kuriame karūžieji yra minavojami tarp tų pačių\nžemlionų, arba vyčių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-07798

@@ -35,31 +35,6 @@ media_all_json: |-
 
 Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris.
 
-## Teiginiai
-
-<a id="claim-t-190131"></a>
-- t-001
-  global_id: t-190131
-  teiginys: "Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Maskva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Arkidjakonas Povilas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Viešėjimas Maskvoje tiesiogiai rodo Povilo buvimą ar kelionę į Maskvą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Arkidjakonas Povilas keliavo į Maskva (0.88)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  pagrindžia:
-    - c-173014
-    - c-001
-- susijęs iš Maskva: Maskvoje viešėjęs arkidjakonas Povilas pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris.
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris.'
@@ -75,8 +50,7 @@ Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190131
+
 ## Citatos
 
 - id: c-173014
@@ -95,16 +69,35 @@ Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijo
     Saulės. Nakties karalius, laiko tarpsnių valdovas (laikas bu­
     vo skaičiuojamas mėnesiais), tačiau nepastoviai judantis ir
     keičiantis pavidalą.
-  citata_rodoma: |
-    24
-    Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-
-    kidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,
-    papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
-    dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
+  citata_rodoma: "24\nBiblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-\nkidjakonas Povilas, kartu su Sirijos patriarchu viešėdamas Maskvoje,\npapasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip\ndievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190131
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-190131"></a>
+- t-001
+  teiginys: "Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Maskva: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Arkidjakonas Povilas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Viešėjimas Maskvoje tiesiogiai rodo Povilo buvimą ar kelionę į Maskvą."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Arkidjakonas Povilas keliavo į Maskva (0.88)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-173014
+- susijęs iš Maskva: Maskvoje viešėjęs arkidjakonas Povilas pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris.

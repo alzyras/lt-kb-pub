@@ -39,7 +39,6 @@ Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaik
 
 <a id="claim-t-39507"></a>
 - t-001
-  global_id: t-39507
   teiginys: "Dimitrijus (Voluinietis Karijotaitis) buvo tarp mūšyje žuvusių žymių Lietuvos kunigaikščių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaik
 
 <a id="claim-t-183732"></a>
 - t-002
-  global_id: t-183732
   teiginys: "Dimitrijus (Voluinietis Karijotaitis) žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -108,5 +106,5 @@ Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39507
-    - t-183732
+    - t-001
+    - t-002

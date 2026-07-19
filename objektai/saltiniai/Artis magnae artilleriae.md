@@ -44,7 +44,6 @@ media_all_json: |-
 
 <a id="claim-t-23384"></a>
 - t-001
-  global_id: t-23384
   teiginys: "Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ datuojamas 1650 m."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ media_all_json: |-
 
 <a id="claim-t-23385"></a>
 - t-002
-  global_id: t-23385
   teiginys: "Kazimiero Semenavičiaus 1650 m. „Artis magnae artilleriae“ buvo reikšmingiausias Lietuvos karinės inžinerijos mokyklos darbas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,6 @@ media_all_json: |-
 
 <a id="claim-t-23386"></a>
 - t-003
-  global_id: t-23386
   teiginys: "Veikale išdėstyta daugiapakopių raketų teorija siejama su šiuolaikinės artilerijos ir kosmonautikos ištakomis."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ media_all_json: |-
     - c-16852
 
 <a id="claim-t-23388"></a>
-- t-004
-  global_id: t-23388
+- t-005
   teiginys: "Kazimiero Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas datuojamas 1650 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,17 +133,17 @@ media_all_json: |-
     („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
     ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
     orija.
-  citata_rodoma: |
-    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
+  citata_rodoma: "(„Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23384
-    - t-23385
-    - t-23386
+    - t-001
+    - t-002
+    - t-003
+
 - id: c-70334
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -161,12 +157,11 @@ media_all_json: |-
     Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
     teorijos  kūrėjo K. Semenavičiaus veikalo
     „Artis magnae artilleriae“  frontispisas, 1650 m.
-  citata_rodoma: |
-    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
+  citata_rodoma: "Žymiausio LDK karo inžinieriaus, daugiapakopių raketų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23388
+    - t-005

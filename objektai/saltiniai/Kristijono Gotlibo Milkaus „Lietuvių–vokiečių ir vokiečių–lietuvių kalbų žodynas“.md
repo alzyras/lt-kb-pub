@@ -37,9 +37,8 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-101547"></a>
-- t-001
-  global_id: t-101547
+<a id="claim-t-101544"></a>
+- t-002
   teiginys: "Lietuvių kalba apibūdinta kaip gavusi daugiausia aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-23800
 
 <a id="claim-t-101545"></a>
-- t-002
-  global_id: t-101545
+- t-003
   teiginys: "Kristijono Gotlibo Milkaus žodyno pratarmėje Immanuelis Kantas pabrėžė išskirtinius lietuvių kalbos pagyrimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ media_all_json: |-
     - c-23800
 
 <a id="claim-t-101546"></a>
-- t-003
-  global_id: t-101546
+- t-004
   teiginys: "Immanuelio Kanto mintys apie lietuvių kalbą pateiktos Kristijono Gotlibo Milkaus žodyno pratarmėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,21 +120,13 @@ media_all_json: |-
     priklausė autokratinei Rusijos imperijai (išskyrus pus-
     mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
     liudą“).
-  citata_rodoma: |
-    III s k y r i u s
-    Rusijos imperijos
-    valdoma Lietuva
-    (1795–1915)
-    „Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių
-    pagyrimų kaip lietuvių kalba. Lietuvių tautai priskirta didelė garbė
-    už tai, kad ji sukūrė, išdailino detales ir vartojimą aukščiausiai
-    išvystytos žmonių kalbos su savita gražia ir aiškia fonologija.
+  citata_rodoma: "III s k y r i u s\nRusijos imperijos  \nvaldoma Lietuva  \n(1795–1915)\n„Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių \npagyrimų kaip lietuvių kalba. Lietuvių tautai priskirta didelė garbė \nuž tai, kad ji sukūrė, išdailino detales ir vartojimą aukščiausiai \nišvystytos žmonių kalbos su savita gražia ir aiškia fonologija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101547
-    - t-101545
-    - t-101546
+    - t-002
+    - t-003
+    - t-004

@@ -28,7 +28,6 @@ media_all_json: |-
 
 <a id="claim-t-201444"></a>
 - t-001
-  global_id: t-201444
   teiginys: "Žmonomis tapusios, nereikalavo nei bobalių, nei momkų, nei auklių, pačios savo krūti mis žindė savo kūdikius, o vyrams į karę išjojus, pačios arė, šieną pjovė ir grėbė, o mažus jų vaikus 1 Statut Litewski, r., ar."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184794
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Naujų pramonių nesavinos, bet savo ūkės dobą se­
     kė, žmonos galvą baltais nuometais, o nuotakos auk­
@@ -67,4 +67,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201444
+    - t-001

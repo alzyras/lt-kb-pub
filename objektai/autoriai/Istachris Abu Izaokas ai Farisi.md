@@ -36,7 +36,6 @@ Kruzės nuomone, arabų geografas Istachris Abu Izaokas ai Farisi gyveno apie 90
 
 <a id="claim-t-191646"></a>
 - t-001
-  global_id: t-191646
   teiginys: "Kruzės nuomone, arabų geografas Istachris Abu Izaokas ai Farisi gyveno apie 907-912 m. ir nubraižė Gotos bibliotekoje rastus žemėlapius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Kruzės nuomone, arabų geografas Istachris Abu Izaokas ai Farisi gyveno apie 90
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191646
+    - t-001

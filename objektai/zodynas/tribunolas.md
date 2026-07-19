@@ -41,8 +41,7 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
 ## Teiginiai
 
 <a id="claim-t-82098"></a>
-- t-001
-  global_id: t-82098
+- t-005
   teiginys: "Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
     - c-78594
 
 <a id="claim-t-82100"></a>
-- t-002
-  global_id: t-82100
+- t-006
   teiginys: "Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,6 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
 
 <a id="claim-t-82101"></a>
 - t-003
-  global_id: t-82101
   teiginys: "Vyriausiasis Lietuvos tribunolas buvo įkurtas 1581 m. ir su mažais pakeitimais išliko iki valstybės nepriklausomybės pabaigos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +89,6 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
 
 <a id="claim-t-82102"></a>
 - t-004
-  global_id: t-82102
   teiginys: "Oginskis siūlė Lietuvos kunigaikštijoje palikti Lietuvos statutą be apribojimų ir įsteigti nuo Petrapilio nepriklausomą tribunolą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,8 +97,7 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
     - c-78593
 
 <a id="claim-t-182982"></a>
-- t-005
-  global_id: t-182982
+- t-001
   teiginys: "Oginskis siūlė numatomoje kunigaikštijoje palikti Lietuvos statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -121,8 +116,7 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
     - c-166380
 
 <a id="claim-t-193162"></a>
-- t-006
-  global_id: t-193162
+- t-007
   teiginys: "O bajorijos byloms su dvasininkais būdavo sudaromas mišrasis teismas, arba dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų kapitulų skiriami kunigai ir 6 tribunolo deputatai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -208,7 +202,7 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
     kurios nuo 1569 m. buvo
     Lenkijos ribose: mat, jose
     taip pat visą laiką veikė
-    [[Lietuvos Statutas|Lietuvos statutas]]). Ogins-
+    Lietuvos statutas). Ogins-
     kis nurodinėjo, kad tuo
     būdu kelias Nepoleono
     įtakai Lietuvoje būtų už-
@@ -220,21 +214,15 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
     klausomą tribunolą (mat,
     tada aukščiausioji instan-
     cija buvo Rusijos senatas).
-  citata_rodoma: |
-    Be to, jis siūlė pa-
-    likti toje kunigaikštijoje Lietuvos statutą be jokių
-    apribojimų ir įsteigti nuo
-    Petrapilio visiškai nepri-
-    klausomą tribunolą (mat,
-    tada aukščiausioji instan-
-    cija buvo Rusijos senatas).
+  citata_rodoma: "Be to, jis siūlė pa-\nlikti toje kunigaikštijoje Lietuvos statutą be jokių\napribojimų ir įsteigti nuo\nPetrapilio visiškai nepri-\nklausomą tribunolą (mat,\ntada aukščiausioji instan-\ncija buvo Rusijos senatas)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82102
+    - t-004
+
 - id: c-78594
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -249,19 +237,16 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
     svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
     tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
     pat išliko iki pat nepriklausomybės pabaigos.
-  citata_rodoma: |
-    Vyriausiojo Lietuvos tribunolo reikalas buvo
-    svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
-    tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
-    pat išliko iki pat nepriklausomybės pabaigos.
+  citata_rodoma: "Vyriausiojo Lietuvos tribunolo reikalas buvo\nsvarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-\ntinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks\npat išliko iki pat nepriklausomybės pabaigos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82098
-    - t-82101
+    - t-005
+    - t-003
+
 - id: c-78596
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -286,29 +271,15 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
     iš Albertrandžio rankraščių, rūpestin­
     gai profesoriaus Onacevičiaus
     išleistų Varšuvoje, 1823 m.
-  citata_rodoma: |
-    Protasevičiaus pėdomis sekė ir
-    jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­
-    liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­
-    kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą
-    dvasiškai jaunuomenei lavintis, vadinamą seminarija59.
-    Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­
-    kilmingai įvesdintas išlaisvino karalius nuo varginančio
-    57
-    Visas Vilniaus universiteto fundaci­
-    jos privilegijas kartu su atitinkama
-    popiežiaus bule galima perskaityti
-    veikale „Stepono Batoro valdymas",
-    iš Albertrandžio rankraščių, rūpestin­
-    gai profesoriaus Onacevičiaus
-    išleistų Varšuvoje, 1823 m.
+  citata_rodoma: "Protasevičiaus pėdomis sekė ir \njo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­\nliau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­\nkupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą \ndvasiškai jaunuomenei lavintis, vadinamą seminarija59.\nLietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­\nkilmingai įvesdintas išlaisvino karalius nuo varginančio\n57\nVisas Vilniaus universiteto fundaci­\njos privilegijas kartu su atitinkama \npopiežiaus bule galima perskaityti \nveikale „Stepono Batoro valdymas\", \niš Albertrandžio rankraščių, rūpestin­\ngai profesoriaus Onacevičiaus \nišleistų Varšuvoje, 1823 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82100
+    - t-006
+
 - id: c-166380
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -334,7 +305,8 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182982
+    - t-001
+
 - id: c-175913
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -354,4 +326,4 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193162
+    - t-007

@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189870"></a>
 - t-001
-  global_id: t-189870
   teiginys: "Narbutas Užsparinę laikė žemės ribų deive, globojusia kampinius kaupus ir sergėjusia sienų neliečiamumą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -67,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-194632"></a>
 - t-002
-  global_id: t-194632
   teiginys: "Lasickio, aišku, su klaida užrašyta Aspelenie (Užpelenė), nes tą vardą į lotynų kalbą jis verčia Angularis, taigi turėjo būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -102,7 +100,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189870
+    - t-001
+
 - id: c-177030
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -123,4 +122,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194632
+    - t-002

@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185807"></a>
 - t-001
-  global_id: t-185807
   teiginys: "Kazimieras, pasinaudojęs lietuvių karu su kryžiuočiais, atėmė iš lietuvių rusų valdas ir išvijo Liubartą iš Volynės."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -100,4 +99,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185807
+    - t-001

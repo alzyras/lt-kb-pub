@@ -51,7 +51,6 @@ Minios šūksnis, kai bematant sutvarko pastotą vežimą.
 
 <a id="claim-t-195419"></a>
 - t-001
-  global_id: t-195419
   teiginys: "Sutvarkant vežimą šaukiama „Krikštynos, prikeltuvės“."
   atnaujinta: "2026-07-12 02:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -76,13 +75,11 @@ Minios šūksnis, kai bematant sutvarko pastotą vežimą.
     ja ne vienos, paskui jas važiuoja kitų kiemų mergaitės su šienu. Tuo-
     jaus subėga kelios, dar atsiranda vienas vyras ir besijuokdami: „Krikš­
     tynos, prikeltuvės“ , berėkaud.ami, kaip bematai, vežimą pastato.
-  citata_rodoma: |
-    Tuojaus subėga kelios, dar atsiranda vienas vyras ir besijuokdami: „Krikš­
-    tynos, prikeltuvės“ , berėkaud.ami, kaip bematai, vežimą pastato.
+  citata_rodoma: "Tuojaus subėga kelios, dar atsiranda vienas vyras ir besijuokdami: „Krikš­\ntynos, prikeltuvės“ , berėkaud.ami, kaip bematai, vežimą pastato."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195419
+    - t-001

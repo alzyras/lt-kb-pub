@@ -39,7 +39,6 @@ Tarptautinis olimpinis komitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio o
 
 <a id="claim-t-20036"></a>
 - t-001
-  global_id: t-20036
   teiginys: "Tarptautinis olimpinis komitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,12 +72,11 @@ Tarptautinis olimpinis komitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio o
     mitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto
     tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių
     šakų sporto varžybose už savo šalį.
-  citata_rodoma: |
-    tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių
+  citata_rodoma: "tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20036
+    - t-001

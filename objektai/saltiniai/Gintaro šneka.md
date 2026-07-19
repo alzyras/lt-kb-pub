@@ -37,7 +37,6 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
 
 <a id="claim-t-97251"></a>
 - t-001
-  global_id: t-97251
   teiginys: "P. Būtėno „Gintaro šneka“ paskelbta „Karyje“ 1973 m., p. 110–115 ir 159–164."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
 
 <a id="claim-t-97252"></a>
 - t-002
-  global_id: t-97252
   teiginys: "P. Būtėno „Gintaro šneka“ paskelbta žurnale „Karys“ 1973 m., p. 110-115 ir 159-164."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,5 +93,5 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97251
-    - t-97252
+    - t-001
+    - t-002

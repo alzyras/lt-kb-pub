@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-39323"></a>
 - t-001
-  global_id: t-39323
   teiginys: "Prieš mūšį Vytautas tarsi reikalavo chano pavaldumo, kad visos Ordos pinigai būtų žymimi Vytauto ženklu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-183694"></a>
 - t-002
-  global_id: t-183694
   teiginys: "Prieš mūšį Vytautas iš Timūr-Kutluko tarsi reikalavo pavaldumo, prašydamas visus Ordos pinigus žymėti Vytauto ženklu."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -113,7 +111,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39323
+    - t-001
+
 - id: c-167084
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -137,4 +136,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183694
+    - t-002

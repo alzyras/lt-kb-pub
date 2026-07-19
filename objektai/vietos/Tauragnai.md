@@ -36,8 +36,7 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
 ## Teiginiai
 
 <a id="claim-t-42181"></a>
-- t-001
-  global_id: t-42181
+- t-002
   teiginys: "1919 m. birželio 3 d. lietuvių kariai, persekiodami bolševikus, užėmė Daugailius ir Tauragnus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
     - c-45353
 
 <a id="claim-t-42182"></a>
-- t-002
-  global_id: t-42182
+- t-001
   teiginys: "Dalis raitininkų buvo pasiųsta Tauragnų kryptimi, o likusieji vyko į Uteną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,16 +109,15 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
     tuvių kariais toliau persekiojo bolševi-
     kus. Birželio 3 d. buvo užimti Daugailiai,
     Tauragnai, birželio 4 d. Paberžė.
-  citata_rodoma: |
-    Birželio 3 d. buvo užimti Daugailiai,
-    Tauragnai, birželio 4 d. Paberžė.
+  citata_rodoma: "Birželio 3 d. buvo užimti Daugailiai,\nTauragnai, birželio 4 d. Paberžė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42181
+    - t-002
+
 - id: c-45354
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -135,20 +132,14 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
     Ten jis rado jau prieš pusvalandį
     Uteną pasiekusias Zechau ir Musteikio
     kolonos dalis.
-  citata_rodoma: |
-    Dalį raiti-
-    ninkų pasiuntęs Tauragnų kryptimi,
-    su likusiais vyko į Uteną.
-
-    Ten jis rado jau prieš pusvalandį
-    Uteną pasiekusias Zechau ir Musteikio
-    kolonos dalis.
+  citata_rodoma: "Dalį raiti-\nninkų pasiuntęs Tauragnų kryptimi,\nsu likusiais vyko į Uteną.\n\nTen jis rado jau prieš pusvalandį\nUteną pasiekusias Zechau ir Musteikio\nkolonos dalis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42182
+    - t-001
+
 ## Ryšiai
 - Užėmė Tauragnai: [[objektai/grupes/Lenkai]]

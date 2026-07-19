@@ -31,7 +31,6 @@ Antro LTI tomo parankiniame egzemplioriuje suskaičiuota apie tris šimtus patie
 
 <a id="claim-t-191701"></a>
 - t-001
-  global_id: t-191701
   teiginys: "Antro LTI tomo parankiniame egzemplioriuje suskaičiuota apie tris šimtus paties T. Narbuto ranka padarytų pataisų ir papildymų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Antro LTI tomo parankiniame egzemplioriuje suskaičiuota apie tris šimtus patie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191701
+    - t-001

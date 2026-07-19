@@ -9,16 +9,16 @@ datos:
   - '1191 m.'
 date_start: '1190'
 date_end: '1191'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - popiežius
-amziai:
-  - 'XII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,6 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 
 <a id="claim-t-63621"></a>
 - t-001
-  global_id: t-63621
   teiginys: "Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
     - c-64623
 
 <a id="claim-t-63622"></a>
-- t-002
-  global_id: t-63622
+- t-003
   teiginys: "Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -116,7 +114,31 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63621
+    - t-001
+
+- id: c-64624
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Vokiečių ordino pradžią jis
+    datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai
+    iŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos
+    kunigaikštis Fridrichas kreipėsi į savo brolį, Vokietijos karalių ir busimąjį imperatorių
+    (nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje. Popiežius patvirtino
+    Jeruzalės brolių ligoninę, suteikė jiems tokių pat privilegijų, kaip kitados buvo suteikęs
+    joanitams ir tamplieriams (dvasiškiams ir riteriams). Čia Dusburgietis pateikia oficialią
+    Ordino pradžios tradiciją (pagal Statutų prologą). Tuo tarpu „Narratio“ esama duomenų,
+    jog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos
+    kunigaikštis jau buvo miręs. Kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino
+    priklausomumą nuo joanitų141.
+  citata_rodoma: "Vokiečių ordino pradžią jis\ndatuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai\niŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos\nkunigaikštis Fridrichas kreipėsi  į savo brolį, Vokietijos karalių ir busimąjį imperatorių\n(nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-167469
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -153,4 +175,4 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63622
+    - t-003

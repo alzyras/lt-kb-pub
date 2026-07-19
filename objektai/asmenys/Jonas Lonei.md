@@ -41,7 +41,6 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
 
 <a id="claim-t-80718"></a>
 - t-001
-  global_id: t-80718
   teiginys: "Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80718
+    - t-001

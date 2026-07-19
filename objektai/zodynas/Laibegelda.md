@@ -31,7 +31,6 @@ Narbutas Laibegeldą apibūdino kaip deivę Žinią, skleidžiančią žinias, �
 
 <a id="claim-t-189307"></a>
 - t-001
-  global_id: t-189307
   teiginys: "Narbutas Laibegeldą apibūdino kaip deivę Žinią, skleidžiančią žinias, šlovę ir gandus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Narbutas Laibegeldą apibūdino kaip deivę Žinią, skleidžiančią žinias, �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189307
+    - t-001

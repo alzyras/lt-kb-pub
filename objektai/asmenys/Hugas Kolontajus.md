@@ -32,7 +32,6 @@ Kolontajus nebūtų parėmęs valdovo pozicijos.
 
 <a id="claim-t-18920"></a>
 - t-001
-  global_id: t-18920
   teiginys: "Hugas Kolontajus parėmė valdovo poziciją ir prisidėjo prie nedidelės balsų persvaros."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,12 +60,11 @@ Kolontajus nebūtų parėmęs valdovo pozicijos.
     kesnių sąlygų valstybei. Kiekybiškai tai – nepaprastai maža persvara, ir
     tokios nebūtų buvę, jei netikėtai vadinamosios Patriotų partijos vienas iš
     vadų H. Kolontajus nebūtų parėmęs valdovo pozicijos.
-  citata_rodoma: |
-    tokios nebūtų buvę, jei netikėtai vadinamosios Patriotų partijos vienas iš
+  citata_rodoma: "tokios nebūtų buvę, jei netikėtai vadinamosios Patriotų partijos vienas iš"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18920
+    - t-001

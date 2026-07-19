@@ -5,22 +5,18 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1697 m.'
-  - '1706 m.'
-date_start: '1697'
-date_end: '1706'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - valdovas
   - karalius
-amziai:
-  - 'XVII'
-  - 'XVIII'
-periodo_grupes:
-  - 'LDK'
+amziai: []
+periodo_grupes: []
 media_total_count: '2'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/August_II_%281670-1733%29.jpg/1920px-August_II_%281670-1733%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AAugust_II_%281670-1733%29.jpg'
@@ -44,8 +40,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 ## Teiginiai
 
 <a id="claim-t-78943"></a>
-- t-001
-  global_id: t-78943
+- t-009
   teiginys: "Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +57,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - c-76047
 
 <a id="claim-t-78945"></a>
-- t-002
-  global_id: t-78945
+- t-011
   teiginys: "Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +74,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - c-76045
 
 <a id="claim-t-78946"></a>
-- t-003
-  global_id: t-78946
+- t-008
   teiginys: "Žymesnieji bajorijos vadai Augusto II reikalautu raštu paskelbė jį paveldimai ir absoliučiai valdančiu Lietuvos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +90,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - c-76044
 
 <a id="claim-t-78947"></a>
-- t-004
-  global_id: t-78947
+- t-012
   teiginys: "Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,8 +106,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - c-41855
 
 <a id="claim-t-78949"></a>
-- t-005
-  global_id: t-78949
+- t-001
   teiginys: "Petro Didžiojo epocha, sutapusi su saksų laikų pradžia, atvėrė naują laikotarpį ir Augusto II valdymo kontekste."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -131,8 +122,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - c-04147
 
 <a id="claim-t-78950"></a>
-- t-006
-  global_id: t-78950
+- t-010
   teiginys: "1706 m. Augustas II Altrandštate sudarė taiką su Karoliu XII, atsisakė Respublikos sosto ir pripažino karaliumi Leščinskį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -152,8 +142,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - c-76043
 
 <a id="claim-t-78953"></a>
-- t-007
-  global_id: t-78953
+- t-002
   teiginys: "1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -171,6 +160,18 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Augusto II išrinkimą ir politinį siekį."
   pagrindžia:
     - c-76049
+
+<a id="claim-t-201516"></a>
+- t-013
+  teiginys: "1727 m. Kauno miestiečių prašymu ir Augusto II leidimu 1541 m. Žygimanto Senojo raštas, 1582 m. Stepono Batoro sprendimas, 1609 ir 1631 m. Zigmanto Vazos raštai buvo įrašyti į Lietuvos Metriką ir taip aktualizuoti."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184863
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184422|Petras I Didysis]]: Augustas II ir Petras I sudarė sutartį atimti iš Švedijos Baltijos pajūrį.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184425|Petras I Didysis]]: Petras I susitarė su Augustu II dėl Rusijos paramos prieš Švediją.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184425|Petras I Didysis]]: Petras I susitarė su Augustu II dėl Rusijos paramos prieš Švediją.
@@ -192,17 +193,15 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     Ir Rusijai ir lietuvių-lenkų respublikai Petro Didžiojo epocha,
     kuri sutapo su pradžia «saksų laikų» (Augustas II), atvėrė
     naują laikotarpį.
-  citata_rodoma: |
-    Ir Rusijai ir lietuvių-lenkų respublikai Petro Didžiojo epocha,
-    kuri sutapo su pradžia «saksų laikų» (Augustas II), atvėrė
-    naują laikotarpį.
+  citata_rodoma: "Ir Rusijai ir lietuvių-lenkų respublikai Petro Didžiojo epocha,\nkuri sutapo su pradžia «saksų laikų» (Augustas II), atvėrė\nnaują laikotarpį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78949
+    - t-001
+
 - id: c-41855
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -226,7 +225,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78947
+    - t-012
+
 - id: c-76043
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -239,17 +239,15 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
     atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
     (1706 m.).
-  citata_rodoma: |
-    Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
-      atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
-      (1706 m.).
+  citata_rodoma: "Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,\n  atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį\n  (1706 m.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78950
+    - t-010
+
 - id: c-76044
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -266,20 +264,15 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     tis valdovus ir paskelbė jį absoliutiškai val-
     dančiu didžiuoju Lietuvos kunigaikščiu su
     paveldėjamąja teise.
-  citata_rodoma: |
-    Norėdami tuo reikalu laimėti, žymesnieji bajorijos vadai net
-      buvo pasirašę Augusto reikalaujamą raštą, kuriuo jie visos
-      Lietuvos vardu atsižadėjo savo teisių rink-
-      tis valdovus ir paskelbė jį absoliutiškai val-
-      dančiu didžiuoju Lietuvos kunigaikščiu su
-      paveldėjamąja teise.
+  citata_rodoma: "Norėdami tuo reikalu laimėti, žymesnieji bajorijos vadai net\n  buvo pasirašę Augusto reikalaujamą raštą, kuriuo jie visos\n  Lietuvos vardu atsižadėjo savo teisių rink-\n  tis valdovus ir paskelbė jį absoliutiškai val-\n  dančiu didžiuoju Lietuvos kunigaikščiu su\n  paveldėjamąja teise."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78946
+    - t-008
+
 - id: c-76045
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -300,7 +293,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78945
+    - t-011
+
 - id: c-76047
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -311,19 +305,15 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-
     tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
     go kunigaikštį.
-  citata_rodoma: |
-    Kai Augustas II su Petru I padarė sutartį
-      atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo
-      jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-
-      tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
-      go kunigaikštį.
+  citata_rodoma: "Kai Augustas II su Petru I padarė sutartį\n  atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo\n  jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-\n  tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-\n  go kunigaikštį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78943
+    - t-009
+
 - id: c-76049
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -335,20 +325,31 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 
     bicingas Saksonijos kiurfiurstas Augustas 11 (Stiprusis). Jis
     siekė ATR paversti absoliutine monarchija.
-  citata_rodoma: |
-    buvo išrinktas am- Lietuvos, bet ir Lenkijos teritorijos. Dalis ATR aristokratijos reika-
-
-    netgi pasiekė pergalę prie Darsūniškio, tačiau labiau sekėsi Švedijos
-
-    bicingas Saksonijos kiurfiurstas Augustas 11 (Stiprusis). Jis
-    siekė ATR paversti absoliutine monarchija.
+  citata_rodoma: "buvo išrinktas am- Lietuvos, bet ir Lenkijos teritorijos. Dalis ATR aristokratijos reika-\n\nnetgi pasiekė pergalę prie Darsūniškio, tačiau labiau sekėsi Švedijos\n\nbicingas Saksonijos kiurfiurstas Augustas 11 (Stiprusis). Jis\nsiekė ATR paversti absoliutine monarchija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78953
+    - t-002
+
+- id: c-184863
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    1727 m. Kauno miestiečių prašymu ir Augusto II leidimu 1541 m. Žygimanto
+    Senojo raštas, 1582 m. Stepono Batoro sprendimas, 1609 ir 1631 m. Zigmanto Vazos
+    raštai buvo įrašyti į Lietuvos Metriką ir taip aktualizuoti.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Petras I Didysis]]
 - Augustas II sudarė sutartį su [[objektai/asmenys/Karolis XII]]

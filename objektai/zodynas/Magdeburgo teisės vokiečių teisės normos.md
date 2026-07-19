@@ -32,7 +32,6 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
 
 <a id="claim-t-86482"></a>
 - t-001
-  global_id: t-86482
   teiginys: "Po pirmųjų Magdeburgo teisių suteikimo nežinoma, kokių miesto valdymo pokyčių ar laisvių gyventojams buvo duota."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
 
 <a id="claim-t-194216"></a>
 - t-002
-  global_id: t-194216
   teiginys: "Šio veikalo kitame tome įdėsime Lentelę, rodančią, kokiais laikais Lietuvos miestams buvo suteiktos Magdeburgo teisės."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,8 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86482
+    - t-001
+
 - id: c-176818
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -114,4 +113,4 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194216
+    - t-002

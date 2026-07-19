@@ -30,7 +30,6 @@ Ksaveras Bogušas, Narbuto perteikimu, slavų kalbos priemaišas lietuvių kalbo
 
 <a id="claim-t-191756"></a>
 - t-001
-  global_id: t-191756
   teiginys: "Ksaveras Bogušas, Narbuto perteikimu, slavų kalbos priemaišas lietuvių kalboje laikė nereikalingomis, nes lietuvis galįs rasti lietuviškų atitikmenų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Ksaveras Bogušas, Narbuto perteikimu, slavų kalbos priemaišas lietuvių kalbo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191756
+    - t-001

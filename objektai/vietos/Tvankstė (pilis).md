@@ -31,7 +31,6 @@ Dusburgietis teigia, kad prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tu
 
 <a id="claim-t-58768"></a>
 - t-001
-  global_id: t-58768
   teiginys: "Prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tuwangste, Twangste), p. (žr."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,17 +72,11 @@ Dusburgietis teigia, kad prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tu
     Tvankstė, Tvanksta (Tuwangste, Twangste), p. (žr. ir Karaliaučius)
     Tverė, sritis
     Unzatrapis (D.— Unsatrapis, literatūroje — Instraupis), ž.
-  citata_rodoma: |
-    prie Upytės
-      Tvankstė, miškas
-      Tvankstė, Tvanksta (Tuwangste, Twangste), p. (žr. ir Karaliaučius)
-      Tverė, sritis
-
-      Unzatrapis (D.
+  citata_rodoma: "prie Upytės\n  Tvankstė, miškas\n  Tvankstė, Tvanksta (Tuwangste, Twangste), p. (žr. ir Karaliaučius)\n  Tverė, sritis\n\n  Unzatrapis (D."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58768
+    - t-001

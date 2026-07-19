@@ -31,7 +31,6 @@ Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­ žiuočiai grį�
 
 <a id="claim-t-28524"></a>
 - t-001
-  global_id: t-28524
   teiginys: "Jogailai įsiveržus į Dobrino žemę, kryžiuočiai grįžo atgal."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,6 +65,7 @@ Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­ žiuočiai grį�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28524
+    - t-001
+
 ## Ryšiai
 - Puolė Dobrino žemę: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

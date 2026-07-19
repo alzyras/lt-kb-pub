@@ -68,7 +68,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 
 <a id="claim-t-54964"></a>
 - t-001
-  global_id: t-54964
   teiginys: "Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -86,7 +85,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 
 <a id="claim-t-54965"></a>
 - t-002
-  global_id: t-54965
   teiginys: "Responsio per Procuratorem Ordinis kaltino Rygos arkivyskupą Fridrichą pasiuntus pasiuntinius pas lietuvių valdovą ir sudarius prieš Ordiną nukreiptą sąjungą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 
 <a id="claim-t-54966"></a>
 - t-003
-  global_id: t-54966
   teiginys: "Vytenis laišku prašė Rygos arkivyskupo Fridricho ir popiežiaus legato Pranciškaus atsiųsti jam minoritų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -119,8 +116,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     - c-55509
 
 <a id="claim-t-54967"></a>
-- t-004
-  global_id: t-54967
+- t-005
   teiginys: "Šaltinio pasakojime Rygos arkivyskupas kaltinamas Gedimino vardu parengęs ir išsiuntinėjęs laiškus prieš Kryžiuočių ordiną."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -137,8 +133,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     - c-55511
 
 <a id="claim-t-54968"></a>
-- t-005
-  global_id: t-54968
+- t-006
   teiginys: "1325 m. balandį po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -157,8 +152,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     - c-55512
 
 <a id="claim-t-54969"></a>
-- t-006
-  global_id: t-54969
+- t-007
   teiginys: "Dusburgo citatoje Jonas XXII pasiuntė du legatus į Livoniją Fridricho ir Rygos miestiečių prašymu."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -174,8 +168,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     - c-55513
 
 <a id="claim-t-89710"></a>
-- t-007
-  global_id: t-89710
+- t-009
   teiginys: "Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam minoritų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -191,26 +184,16 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     - c-55509
 
 <a id="claim-t-89711"></a>
-- t-008
-  global_id: t-89711
+- t-004
   teiginys: "Rygos arkivyskupą Fridrichą Ordino broliai klastingai išmetė iš bažnyčios."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Fridrichas (Rygos arkivyskupas): 0.61"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Fridrichas (Rygos arkivyskupas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje teigiama, kad teutonų namo broliai klastingai išmetė Fridrichą iš bažnyčios; tai artimiausia puolimo sąsaja."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Fridrichas (Rygos arkivyskupas) (0.61)"
   pagrindžia:
-    - c-55510
+    - c-85645
 
 <a id="claim-t-89712"></a>
-- t-009
-  global_id: t-89712
+- t-013
   teiginys: "Rygos arkivyskupas Fridrichas įkalbėjo popiežių Joną XXII pasiųsti į Livoniją du legatus pakrikštyti lietuvių ir rusų karaliaus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -226,8 +209,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     - c-85642
 
 <a id="claim-t-89713"></a>
-- t-010
-  global_id: t-89713
+- t-008
   teiginys: "Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -245,7 +227,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 
 <a id="claim-t-89714"></a>
 - t-011
-  global_id: t-89714
   teiginys: "Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonus į jau pastatytą bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -262,7 +243,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 
 <a id="claim-t-89716"></a>
 - t-012
-  global_id: t-89716
   teiginys: "Balińskis manė, kad Rygos arkivyskupas Fridrichas Gedimino vardu parengė ir išsiuntinėjo laiškus prieš Kryžiuočių ordiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -304,7 +284,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54964
+    - t-001
+
 - id: c-55508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -347,7 +328,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54965
+    - t-002
+
 - id: c-55509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -375,8 +357,9 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54966
-    - t-89710
+    - t-003
+    - t-009
+
 - id: c-55510
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -394,11 +377,10 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     chiepiscopo, quem fraudulenter de Ecclesia eiecerunt.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-89711
 - id: c-55511
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -425,8 +407,9 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54967
-    - t-89716
+    - t-005
+    - t-012
+
 - id: c-55512
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -448,7 +431,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54968
+    - t-006
+
 - id: c-55513
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -476,7 +460,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54969
+    - t-007
+
 - id: c-85642
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -503,7 +488,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89712
+    - t-013
+
 - id: c-85645
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -531,7 +517,9 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89714
+    - t-004
+    - t-011
+
 - id: c-85646
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -551,25 +539,11 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     atėjus žiniai apie naują kryžiuočių kariauną Čekijoje ir
     a
     D u s b. c.
-  citata_rodoma: |
-    Kol vokiečių kariau­
-    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
-    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
-    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
-    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
-    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
-    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
-    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
-    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
-    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
-    Kadangi grėsmingi buvo Gedimino nukariavimų planai,
-    atėjus žiniai apie naują kryžiuočių kariauną Čekijoje ir
-    a
-    D u s b.
+  citata_rodoma: "Kol vokiečių kariau­\nna dar delsė stovyklaudama Žemaitijoje, galingas lietuvių \npulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu \nnusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­\nčiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę \nišsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė \nnuomonė, esą kupinas senos neapykantos Rygos arkivys­\nkupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­\nnas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­\nvo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .\nKadangi grėsmingi buvo Gedimino nukariavimų planai, \natėjus žiniai apie naują kryžiuočių kariauną Čekijoje ir\na\nD u s b."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89713
+    - t-008

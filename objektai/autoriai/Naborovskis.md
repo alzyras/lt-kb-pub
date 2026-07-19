@@ -38,7 +38,6 @@ Narbutas nurodo, kad Naborovskis 1629 m. minėjo Lietuvoje žinotą Gedimino kap
 
 <a id="claim-t-190443"></a>
 - t-001
-  global_id: t-190443
   teiginys: "Narbutas nurodo, kad Naborovskis 1629 m. minėjo Lietuvoje žinotą Gedimino kapo tradiciją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Narbutas nurodo, kad Naborovskis 1629 m. minėjo Lietuvoje žinotą Gedimino kap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190443
+    - t-001

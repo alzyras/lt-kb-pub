@@ -8,13 +8,13 @@ datos:
   - '1934 m.'
 date_start: '1867'
 date_end: '1934'
-sukurta: ''
-atnaujinta: ''
+periodo_grupes:
+  - 'naujieji laikai'
 amziai:
   - 'XIX'
   - 'XX'
-periodo_grupes:
-  - 'naujieji laikai'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-202229"></a>
 - t-001
-  global_id: t-202229
   teiginys: "Štai rusų istorikas Mitrofanas Dovnar-Zapolskis (1867-1934) 1901 m. Kijeve paskelbtoje didžiulėje studijoje TocyJapcm8eHHoe X03Hikm80 BellUKOZO KHHJlCeCm8a JI um08CKOZO npu JIzelllloHax (Lietuvos Didžiosios Kunigaikštystės valstybinis ūkis valdant."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202229
+    - t-001

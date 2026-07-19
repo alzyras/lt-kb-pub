@@ -67,8 +67,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186916"></a>
-- t-001
-  global_id: t-186916
+- t-004
   teiginys: "Platesnysis Lietuvos metraščių sąvadas, vadinamas „Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kronika“, veikiausiai kilo XVI a. antrajame dešimtmetyje."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -83,10 +82,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170096
-    - c-003
+
 <a id="claim-t-186919"></a>
-- t-002
-  global_id: t-186919
+- t-003
   teiginys: "Trumpasis sąvadas, sudarytas apie 1446 m., nuosekliau ir išsamiau nušviečia 1377–1445 m. Lietuvos politinę istoriją."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -105,7 +103,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170095
-    - c-002
 - susijęs iš [[objektai/daiktai/Platesniojo sąvado nuorašai.md#claim-t-186812|Platesniojo sąvado nuorašai]]: Komentare nurodoma, kad Platesnysis sąvadas ir kiti Lietuvos metraštinės literatūros paminklai plito rankraštiniais nuorašais.
 - susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-187454|Palemonas]]: Platesnysis Lietuvos metraščių sąvadas Palemoną vaizduoja kaip Nerono giminaitį ir į šiaurę pabėgusių romėnų „bajorų“ vadovą.
 - susijęs iš [[objektai/zodynas/nuorašas.md#claim-t-186921|nuorašas]]: Plačiau buvo žinomi bent 222 šių tekstų nuorašai.
@@ -127,8 +124,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186919
 - c-003
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -143,8 +138,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186916
+
 ## Citatos
 
 - id: c-170095
@@ -165,18 +159,15 @@ Nenurodyta
     sūnų išvardijimu, Platesniajame sąvade dėstoma pagal
     Trumpojo sąvado antrąją, XV a. pabaigoje kilusią re­
     dakciją.
-  citata_rodoma: |
-    Trumpajame sąvade, sudarytame apie 1446 m., nuo­
-    sekliau ir išsamiau nušviečiama tiktai 1377—1445 m .
-    laikotarpio feodalinės Lietuvos valstybės politinė is­
-    torija.
+  citata_rodoma: "Trumpajame sąvade, sudarytame apie 1446 m., nuo­\nsekliau ir išsamiau nušviečiama tiktai 1377—1445 m . \nlaikotarpio feodalinės Lietuvos valstybės politinė is­\ntorija."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186919
+    - t-003
+
 - id: c-170096
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -194,14 +185,11 @@ Nenurodyta
     nės dalies — Vytauto laikus aprašančio „Didžiųjų Lie­
     tuvos kunigaikščių metraščio", buvo visiškai perdirbta
     ir šito šaltinio pradžia.
-  citata_rodoma: |
-    Platesnysis Lietuvos metraščių sąvadas, vadinamas
-    „Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kroni­
-    ka", kilo, veikiausiai, XVI a. antrajame dešimtmetyje.
+  citata_rodoma: "Platesnysis Lietuvos metraščių sąvadas, vadinamas \n„Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kroni­\nka\", kilo, veikiausiai, XVI a. antrajame dešimtmetyje."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186916
+    - t-004

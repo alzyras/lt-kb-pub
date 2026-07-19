@@ -31,7 +31,6 @@ Bogdanas iš Ivanicos naktį išžvalgė lenkų stovyklą ir patarė Vladimire a
 
 <a id="claim-t-186185"></a>
 - t-001
-  global_id: t-186185
   teiginys: "Bogdanas iš Ivanicos naktį išžvalgė lenkų stovyklą ir patarė Vladimire apsuptam Liubartui, kaip išvengti nelaisvės."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Bogdanas iš Ivanicos naktį išžvalgė lenkų stovyklą ir patarė Vladimire a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186185
+    - t-001

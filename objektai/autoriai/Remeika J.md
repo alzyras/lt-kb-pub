@@ -30,8 +30,7 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
 ## Teiginiai
 
 <a id="claim-t-91933"></a>
-- t-001
-  global_id: t-91933
+- t-002
   teiginys: "J. Remeikos darbas minimas tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
     - c-87574
 
 <a id="claim-t-91934"></a>
-- t-002
-  global_id: t-91934
+- t-001
   teiginys: "J. Remeikos darbe minima, kad Nemuno senvagė dešiniajame krante priešais Ragainę vadinama Merguva."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,7 +60,7 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-87575
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'J. Remeikos darbe minima, kad Nemuno senvagė dešiniajame krante priešais Ragainę vadinama Merguva.'
@@ -77,8 +75,7 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91934
+
 ## Citatos
 
 - id: c-87574
@@ -97,7 +94,8 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91933
+    - t-002
+
 - id: c-87575
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -110,15 +108,11 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
     tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose
     Nemuno pusėse, ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
     yra Ragainės pilis, ją užpuolė468.
-  citata_rodoma: |
-    99), liaudyje
-    žinomos aukos Ragiui, Ragei (Dovydaitis Pr., Biržiška M., Auka, p. 153—154). Nemuno
-    senvagė deš. krante priešais Ragainę vadinama Merguva, padavimuose — tai laumių
-    gyvenvietė (Remeika J., Ką kalneliai..., p. 15).
+  citata_rodoma: "99), liaudyje\nžinomos aukos Ragiui, Ragei (Dovydaitis Pr., Biržiška M., Auka, p. 153—154). Nemuno\nsenvagė deš. krante priešais Ragainę vadinama Merguva, padavimuose — tai laumių\ngyvenvietė (Remeika J., Ką kalneliai..., p. 15)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91934
+    - t-001

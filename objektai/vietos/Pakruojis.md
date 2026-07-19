@@ -31,7 +31,6 @@ Dienos pabaigoje, pasinaudoję tamsa dalis partizanų Jokubavo mišku sugebėjo 
 
 <a id="claim-t-42000"></a>
 - t-001
-  global_id: t-42000
   teiginys: "Dienos pabaigoje dalis partizanų, pasinaudoję tamsa, Jokubavo mišku prasiveržė Pakruojo link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,19 +61,11 @@ Dienos pabaigoje, pasinaudoję tamsa dalis partizanų Jokubavo mišku sugebėjo 
     tus 120-121, paimta į nelaisvę 18-19, iš kurių
     5 sužeisti; tačiau tokio skaičiaus nepatvir-
     tina paimti ginklai).
-  citata_rodoma: |
-    Dienos pabaigoje,
-    pasinaudoję tamsa dalis partizanų Jokubavo
-    mišku sugebėjo prasiveržti Pakruojo link.
-    Mūšio padariniai
-    Žuvo apie 76-80 partizanų (pagal okupan-
-    tus 120-121, paimta į nelaisvę 18-19, iš kurių
-    5 sužeisti; tačiau tokio skaičiaus nepatvir-
-    tina paimti ginklai).
+  citata_rodoma: "Dienos pabaigoje,\npasinaudoję tamsa dalis partizanų Jokubavo\nmišku sugebėjo prasiveržti Pakruojo link.\nMūšio padariniai\nŽuvo apie 76-80 partizanų (pagal okupan-\ntus 120-121, paimta į nelaisvę 18-19, iš kurių\n5 sužeisti; tačiau tokio skaičiaus nepatvir-\ntina paimti ginklai)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42000
+    - t-001

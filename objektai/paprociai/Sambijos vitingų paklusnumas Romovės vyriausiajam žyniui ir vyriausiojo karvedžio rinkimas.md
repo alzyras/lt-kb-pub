@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192102"></a>
-- t-001
-  global_id: t-192102
+- t-002
   teiginys: "Pasak Narbuto, prireikus Sambijos vitingai vadovavo ginkluotiems žmonėms, o iš jų buvo renkamas vyriausias karvedys, paskiausiai Glaudė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -84,14 +83,11 @@ Nenurodyta
     Salavija
     Vienuolikta Prūsijos provincija buvo Salavija, Scha-
     laueri.
-  citata_rodoma: |
-    Prireikus jie vadovavo ginkluotiems žmo­
-    nėms, be to, iš jų buvo renkamas vyriausias karvedys,
-    kuriuo pastaruoju laiku buvo vitingas Glaudė.
+  citata_rodoma: "Prireikus jie vadovavo ginkluotiems žmo­\nnėms, be to, iš jų buvo renkamas vyriausias karvedys,\nkuriuo pastaruoju laiku buvo vitingas Glaudė."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192102
+    - t-002

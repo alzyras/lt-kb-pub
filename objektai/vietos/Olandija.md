@@ -40,7 +40,6 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 
 <a id="claim-t-68837"></a>
 - t-001
-  global_id: t-68837
   teiginys: "XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 
 <a id="claim-t-68838"></a>
 - t-002
-  global_id: t-68838
   teiginys: "Olandija antrojoje XVI a. pusėje pradėjo kurti respublikinę santvarką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,18 +101,15 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
     pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
     Vidurio Europą.
-  citata_rodoma: |
-    Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-
-    ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
-    pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
-    Vidurio Europą.
+  citata_rodoma: "Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-\nropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-\npos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją \nVidurio Europą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68837
+    - t-001
+
 - id: c-24346
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -126,14 +121,11 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     LLV santvarka remiasi tik 7 proc. visuomenės (tiek buvo bajorų), rodo
     luominį jos pobūdį – valdovas, nors ir renkamas bajorų „tautos“, suve-
     renią valdžią gauna iš Dievo. Taigi 1566–1795 m.
-  citata_rodoma: |
-    LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradė-
-    jusiai kurti respublikinę santvarką antrojoje XVI a. pusėje) ir pralenkia
-    Anglijos konstitucinę monarchiją, įsigalėjusią 1689 m.
+  citata_rodoma: "LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradė-\njusiai kurti respublikinę santvarką antrojoje XVI a. pusėje) ir pralenkia \nAnglijos konstitucinę monarchiją, įsigalėjusią 1689 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68838
+    - t-002

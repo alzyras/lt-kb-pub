@@ -58,10 +58,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-193044"></a>
-- t-001
-  global_id: t-193044
+- t-003
   teiginys: "Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,21 +69,21 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-175814
+    - c-175816
 
 <a id="claim-t-193045"></a>
-- t-002
-  global_id: t-193045
+- t-006
   teiginys: "Universitete veikė studentų organizacijos, kurios rūpinosi kultūriniu ir doroviniu tobulėjimu bei ištikimybe tiesai, laisvei ir Tėvynei."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-175814
+    - c-175816
 
 <a id="claim-t-193046"></a>
-- t-003
-  global_id: t-193046
+- t-001
   teiginys: "Masonų ložės ir studentų organizacijos sąmokslų nerezgė, bet kūrė valdžiai nepaklusnią atmosferą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +96,7 @@ Nenurodyta
     - c-175815
 
 <a id="claim-t-193047"></a>
-- t-004
-  global_id: t-193047
+- t-008
   teiginys: "R. Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją, vėliau rašė ugdymo ir auklėjimo temomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -117,8 +115,7 @@ Nenurodyta
     - c-170777
 
 <a id="claim-t-193048"></a>
-- t-005
-  global_id: t-193048
+- t-002
   teiginys: "N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -143,32 +140,24 @@ Nenurodyta
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Masonų organizacijose kampainis simboli­
-    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
-    čiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
+    zavo sąžine, akacijos šakelė - nemirtingumą, skriestuvas - aukš­
+    čiausiąjį protą. Ant taurės išgraviruota data - „1817 m.“ R. Kli­
     mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
     organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
     mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
     Wilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­
     odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
     Marcinovskis taip pat priklausė masonų organizacijai.
-  citata_rodoma: |
-    Masonų organizacijose kampainis simboli­
-    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
-    čiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
-    mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
-    organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
-    mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
-    Wilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­
-    odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
-    Marcinovskis taip pat priklausė masonų organizacijai.
+  citata_rodoma: "Masonų organizacijose kampainis simboli­\nzavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­\nčiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­\nmavičiaus nuomone, tais metais T. Narbutas įstojo į masonų\norganizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­\nmo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik\nWilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­\nodinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas\nMarcinovskis taip pat priklausė masonų organizacijai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193047
-    - t-193048
+    - t-008
+    - t-002
+
 - id: c-175814
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -184,25 +173,16 @@ Nenurodyta
     versitete veikė nemažai studentų
     organizacijų, besirūpinusių kul-
     tūriniu ir doroviniu tobulėjimu, ištikimybe tiesai, laisvei ir Tėvynei.
-  citata_rodoma: |
-    Po
-    1812 m. Lietuvoje labai išpopulia-
-    rėjo masonų judėjimas. Masonų
-    ložėms priklausė diduma bent
-    kiek intelektualesnės publikos.
-    Garsiausioji ložė vadinosi „Uolusis
-    lietuvis“ („Gorliwy Litwin“). Uni-
-    versitete veikė nemažai studentų
-    organizacijų, besirūpinusių kul-
-    tūriniu ir doroviniu tobulėjimu, ištikimybe tiesai, laisvei ir Tėvynei.
+  citata_rodoma: "Po\n1812 m. Lietuvoje labai išpopulia-\nrėjo masonų judėjimas. Masonų\nložėms priklausė diduma bent\nkiek intelektualesnės publikos.\nGarsiausioji ložė vadinosi „Uolusis\nlietuvis“ („Gorliwy Litwin“). Uni-\nversitete veikė nemažai studentų\norganizacijų, besirūpinusių kul-\ntūriniu ir doroviniu tobulėjimu, ištikimybe tiesai, laisvei ir Tėvynei."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193044
-    - t-193045
+    - t-003
+    - t-006
+
 - id: c-175815
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -213,16 +193,36 @@ Nenurodyta
     kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-
     dentų ir moksleivių jaunimą. Apkaltinus per 100 asmenų, dvidešimt, tarp
     jų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus.
-  citata_rodoma: |
-    Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą,
-    neskatinančią paklusnumo valdžiai. Caro administracija ėmėsi tyrimo,
-    kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-
-    dentų ir moksleivių jaunimą. Apkaltinus per 100 asmenų, dvidešimt, tarp
-    jų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus.
+  citata_rodoma: "Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą,\nneskatinančią paklusnumo valdžiai. Caro administracija ėmėsi tyrimo,\nkuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-\ndentų ir moksleivių jaunimą. Apkaltinus per 100 asmenų, dvidešimt, tarp\njų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193046
+    - t-001
+
+- id: c-175816
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Po
+    1812 m. Lietuvoje labai išpopulia-
+    rėjo masonų judėjimas. Masonų
+    ložėms priklausė diduma bent
+    kiek intelektualesnės publikos.
+    Garsiausioji ložė vadinosi „Uolusis
+    lietuvis“ („Gorliwy Litwin“). Uni-
+    versitete veikė nemažai studentų
+    organizacijų, besirūpinusių kul-
+    tūriniu ir doroviniu tobulėjimu, ištikimybe tiesai, laisvei ir Tėvynei.
+  citata_rodoma: "Po\n1812 m. Lietuvoje labai išpopulia-\nrėjo masonų judėjimas. Masonų\nložėms priklausė diduma bent\nkiek intelektualesnės publikos.\nGarsiausioji ložė vadinosi „Uolusis\nlietuvis“ („Gorliwy Litwin“). Uni-\nversitete veikė nemažai studentų\norganizacijų, besirūpinusių kul-\ntūriniu ir doroviniu tobulėjimu, ištikimybe tiesai, laisvei ir Tėvynei."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+    - t-006

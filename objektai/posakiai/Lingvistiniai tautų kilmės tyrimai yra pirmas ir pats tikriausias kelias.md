@@ -31,7 +31,6 @@ Narbutas kalbotyrą pateikia kaip patikimiausią tautų kilmės tyrimo kelią ir
 
 <a id="claim-t-192121"></a>
 - t-001
-  global_id: t-192121
   teiginys: "Teodoras Narbutas kalbotyrą vadina pirmu ir patikimiausiu tautų kilmės tyrimo keliu, atveriančiu ir kitas senienas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -67,15 +66,11 @@ Narbutas kalbotyrą pateikia kaip patikimiausią tautų kilmės tyrimo kelią ir
     mazgas neapsakomai gerų galimybių. Tad ir mums tebus
     leista pagal mūsų gabumus ir galimybes pasekti šiuos
     pėdsakus.
-  citata_rodoma: |
-    Lingvistiniai tautų kilmės tyrimai yra pirmas ir pats tikriausias kelias, kuriame nepasiklysi ir kuris nuveda j
-      naujų atradimų kraštą, kur savo paslaptis atskleidžia visos kitos senienos. Sėkmingai išsivystęs ir vis labiau
-      besiplėtojantis mirusių ir gyvų, senovės ir šių laikų kalbų pažinimas teikia tyrinėjantiems tautų kilmę ir
-      pirmas užuomazgas neapsakomai gerų galimybių.
+  citata_rodoma: "Lingvistiniai tautų kilmės tyrimai yra pirmas ir pats tikriausias kelias, kuriame nepasiklysi ir kuris nuveda j\n  naujų atradimų kraštą, kur savo paslaptis atskleidžia visos kitos senienos. Sėkmingai išsivystęs ir vis labiau\n  besiplėtojantis mirusių ir gyvų, senovės ir šių laikų kalbų pažinimas teikia tyrinėjantiems tautų kilmę ir\n  pirmas užuomazgas neapsakomai gerų galimybių."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192121
+    - t-001

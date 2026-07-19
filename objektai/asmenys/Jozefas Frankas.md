@@ -32,7 +32,6 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 
 <a id="claim-t-19009"></a>
 - t-001
-  global_id: t-19009
   teiginys: "Jozefas Frankas buvo iš Austrijos į Vilniaus universitetą atvykęs mokslininkas, kurio darbai buvo žinomi tarptautiniu mastu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,12 +71,11 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     zefas Frankas (Joseph Frank) – jų
     darbai buvo žinomi tarptautiniu
     mastu.
-  citata_rodoma: |
-    tete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Le-
+  citata_rodoma: "tete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Le-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19009
+    - t-001

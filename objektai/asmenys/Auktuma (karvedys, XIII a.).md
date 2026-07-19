@@ -41,7 +41,6 @@ Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glap
 
 <a id="claim-t-201397"></a>
 - t-001
-  global_id: t-201397
   teiginys: "Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glapas Varmijoj, Divonis Partijoj o Auktuma Pagezonijoj."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glap
 
 <a id="claim-t-201398"></a>
 - t-002
-  global_id: t-201398
   teiginys: "Pagezonys vieni bedžiaugės liuosybe, kurią Auktuma, jų karvedys, mokėjo dar gy nioti ir antturėti, ketėdamos lig paskuojo dvėkterėjimo jos nepaleisti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -68,8 +66,9 @@ Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glap
 ## Citatos
 
 - id: c-184747
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ant didesnės laimos perkrikštų, pasitiko tarp jų
     sumanančių karvedžių ir gudrių vyrų, kurie mo­
@@ -91,11 +90,12 @@ Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201397
+    - t-001
 
 - id: c-184748
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     1273
     Taip galan tų metų visas tas dalykas Parusnio,
@@ -113,4 +113,4 @@ Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201398
+    - t-002

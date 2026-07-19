@@ -4,6 +4,13 @@ pavadinimas: 'Ragotinė'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+  - 'Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)'
+datos:
+  - '1567 m.'
+date_start: '1567'
+date_end: ''
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -51,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-64983"></a>
-- t-001
-  global_id: t-64983
+- t-004
   teiginys: "Iš žvėrių ragų ant kesčių galų darydavo ragotines kaip sau skirtą ginklą."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -61,8 +67,7 @@ Nenurodyta
     - c-10271
 
 <a id="claim-t-200942"></a>
-- t-002
-  global_id: t-200942
+- t-005
   teiginys: "Paskui meldžionys apgulė Bistenės pilį ir pradėjo tenai griautis su didžia nar sybe, bet ir įgulė gynės su neaprašoma kantrybe, šimtais kryžėjų ir meldžionų, ropojančių ant mūrų, grūdo žemyn kūlvertiniais kantrūs žemaičiai savo žardkartinėmis ragotinėmis, nes."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -72,6 +77,18 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184292
+
+<a id="claim-t-202343"></a>
+- t-001
+  teiginys: "1567 m. Lietuvos Didžiosios Kunigaikštystės kariuomenės surašyme šeši Vijūkai iš Romainių nurodyti kaip ginkluoti ragotinėmis, o šarvus turėjo tik vienas."
+  atnaujinta: "2026-07-19 12:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185690
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55086|Vilniaus miestiečių luomas]]: Vilniaus miestiečiai gaisro atveju privalėjo skubėti prie ugnies, o miesto gynybai turėti šarvus, muškietą ir ragotinę.
 ## Reikšmingi paminėjimai
 Nenurodyta
@@ -92,10 +109,12 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64983
+    - t-004
+
 - id: c-184292
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ryto metą meldžionys
     traukė į Raseinių apygardą ir tenai Ariogalos sritį
@@ -115,4 +134,14 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200942
+    - t-005
+
+- id: c-185690
+  šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
+  puslapiai: "PDF 5"
+  indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 5."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-19 12:22"
+  pagrindzia:
+    - t-001

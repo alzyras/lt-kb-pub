@@ -43,7 +43,6 @@ Generolas Silvestras Žukauskas (1861-1937) / Biografinė apybraiža, Vilnius, 2
 
 <a id="claim-t-39919"></a>
 - t-001
-  global_id: t-39919
   teiginys: "Jono Aničo biografinė apybraiža „Generolas Silvestras Žukauskas (1861–1937)“ išleista Vilniuje 2006 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Generolas Silvestras Žukauskas (1861-1937) / Biografinė apybraiža, Vilnius, 2
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39919
+    - t-001

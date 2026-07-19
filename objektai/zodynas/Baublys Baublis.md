@@ -30,7 +30,6 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
 
 <a id="claim-t-189218"></a>
 - t-001
-  global_id: t-189218
   teiginys: "Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį ąžuolo, laikyto pranašaujančiu, pavadinimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -51,9 +50,8 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
 
 <a id="claim-t-189219"></a>
 - t-002
-  global_id: t-189219
   teiginys: "Narbutas Baubliu vadino pasakojimų pranašišką ąžuolą, kuris esą kalbėdavęs ir atsakydavęs į klausimus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -61,8 +59,8 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172107
-    - c-002
+    - c-172106
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Baubliu vadino pasakojimų pranašišką ąžuolą, kuris esą kalbėdavęs ir atsakydavęs į klausimus.'
@@ -78,8 +76,7 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189219
+
 ## Citatos
 
 - id: c-172106
@@ -102,7 +99,9 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189218
+    - t-001
+    - t-002
+
 - id: c-172107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -117,16 +116,9 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
     ėjus fermentaciją, alus jau ir gatavas. Iš tikrųjų turime įrody­
     mų, kad mūsų šiaurės šalių gyventojai alaus darymo būdą ži­
     nojo nuo seniausių laikų.
-  citata_rodoma: |
-    Pasakojimuose yra net neatgyvenusių kalbų apie pranašiš­
-    kus ąžuolus: ąžuolai kalbėdavę balsu ir atsakinėdavę į klausi­
-    mus. Tikriausiai drevėje, kuri dažnai būna tokiuose senuose
-    medžiuose, sėdėdavęs koks apgavikas. Tokį ąžuolą vadindavo
-    Baubliu (Baublis)Ąi.
+  citata_rodoma: "Pasakojimuose yra net neatgyvenusių kalbų apie pranašiš­\nkus ąžuolus: ąžuolai kalbėdavę balsu ir atsakinėdavę į klausi­\nmus. Tikriausiai drevėje, kuri dažnai būna tokiuose senuose\nmedžiuose, sėdėdavęs koks apgavikas. Tokį ąžuolą vadindavo\nBaubliu (Baublis)Ąi."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189219

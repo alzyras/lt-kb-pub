@@ -30,7 +30,6 @@ Bendrųjų Informacinių blokų sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJ
 
 <a id="claim-t-39951"></a>
 - t-001
-  global_id: t-39951
   teiginys: "Karolis Zikaras parengė informacinį bloką „Leičiai - valdovo valios įgyvendintojai“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Bendrųjų Informacinių blokų sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJ
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39951
+    - t-001

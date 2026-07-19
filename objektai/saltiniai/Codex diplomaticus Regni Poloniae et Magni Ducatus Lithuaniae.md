@@ -38,7 +38,6 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
 
 <a id="claim-t-29668"></a>
 - t-001
-  global_id: t-29668
   teiginys: "„Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ pradėtas spausdinti Vilniuje 1758 m. iš Motiejaus Dogelio surinktos archyvinės medžiagos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
 
 <a id="claim-t-184352"></a>
 - t-002
-  global_id: t-184352
   teiginys: "„Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ 1758 m. pradėtas spausdinti Vilniuje iš Motiejaus Dogelio surinktos archyvinės medžiagos."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
 
 <a id="claim-t-184353"></a>
 - t-003
-  global_id: t-184353
   teiginys: "Iki 1764 m. iš suplanuotų aštuonių „Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ tomų buvo išspausdinti trys."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -114,7 +111,8 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29668
+    - t-001
+
 - id: c-167722
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -133,7 +131,8 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184352
+    - t-002
+
 - id: c-167723
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -152,4 +151,4 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184353
+    - t-003

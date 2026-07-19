@@ -30,7 +30,6 @@ Trumpojoje Lietuvos metraščių redakcijoje (xv a.
 
 <a id="claim-t-41581"></a>
 - t-001
-  global_id: t-41581
   teiginys: "Trumpojoje Lietuvos metraščių redakcijoje įrašytas „Pasakojimas apie Podolę“ yra plačiausias šaltinis apie Mėlynųjų Vandenų temą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,17 +64,11 @@ Trumpojoje Lietuvos metraščių redakcijoje (xv a.
     telkęs savo lietuvių pajėgas, žygiuoda-
     mas Padniepre pro Kanevą, Čerkasus, ties
     Mėlynaisiais Vandenimis sumušęs totorius.
-  citata_rodoma: |
-    Trumpojoje Lietuvos
-    metraščių redakcijoje (xv a. 4-5 de-
-    šimtmečiai) įrašytas „Pasakojimas apie
-    Podolę“ - plačiausiai kalbantis šaltinis
-    šia tema. Istorinė tradicija (jai atstovauja
-    M.
+  citata_rodoma: "Trumpojoje Lietuvos\nmetraščių redakcijoje (xv a. 4-5 de-\nšimtmečiai) įrašytas „Pasakojimas apie\nPodolę“ - plačiausiai kalbantis šaltinis\nšia tema. Istorinė tradicija (jai atstovauja\nM."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41581
+    - t-001

@@ -30,7 +30,6 @@ Narbuto išnašoje Boleno traktatas apie senovės prūsų kalbą nurodytas per V
 
 <a id="claim-t-191829"></a>
 - t-001
-  global_id: t-191829
   teiginys: "Narbuto išnašoje Boleno traktatas apie senovės prūsų kalbą nurodytas per Voigto „Geschichte Preussens“ pirmą tomą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbuto išnašoje Boleno traktatas apie senovės prūsų kalbą nurodytas per V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191829
+    - t-001

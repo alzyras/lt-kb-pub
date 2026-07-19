@@ -31,7 +31,6 @@ Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. 
 
 <a id="claim-t-191462"></a>
 - t-001
-  global_id: t-191462
   teiginys: "Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. Kr. pagarsėjo pergale prieš konsulą Scipioną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,6 +80,7 @@ Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191462
+    - t-001
+
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Kimbrai]]

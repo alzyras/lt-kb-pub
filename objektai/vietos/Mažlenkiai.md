@@ -31,7 +31,6 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 
 <a id="claim-t-02589"></a>
 - t-001
-  global_id: t-02589
   teiginys: "Liublino unijos metu Mažlenkiai buvo viena iš dviejų Lenkijos provincijų, rengusių atskirus generalinius seimelius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 
 <a id="claim-t-183051"></a>
 - t-002
-  global_id: t-183051
   teiginys: "Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -99,23 +97,15 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
     važiavimai, vadinami
     generaliniais sei-
     meliais.
-  citata_rodoma: |
-    Sudarant Liublino
-    uniją, Lenkijoje, be sei-
-    melių, dar būdavo daro-
-    mi dviejų jos provincijų
-    — Didlenkių ir Mažlen-
-    kių — atskiri astovų su-
-    važiavimai, vadinami
-    generaliniais sei-
-    meliais.
+  citata_rodoma: "Sudarant Liublino\nuniją, Lenkijoje, be sei-\nmelių, dar būdavo daro-\nmi dviejų jos provincijų\n— Didlenkių ir Mažlen-\nkių — atskiri astovų su-\nvažiavimai, vadinami\ngeneraliniais sei-\nmeliais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02589
+    - t-001
+
 - id: c-166442
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -141,6 +131,7 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183051
+    - t-002
+
 ## Ryšiai
 - Mažlenkiai priklausė [[objektai/vietos/Lenkija]]

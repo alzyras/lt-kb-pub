@@ -69,7 +69,6 @@ media_all_json: |-
 
 <a id="claim-t-23361"></a>
 - t-001
-  global_id: t-23361
   teiginys: "1989 m. rugpjūčio 23 d. apie du milijonai lietuvių, latvių ir estų Baltijos kelyje susikibo rankomis į daugiau kaip 650 km gyvą žmonių grandinę."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -90,7 +89,6 @@ media_all_json: |-
 
 <a id="claim-t-23362"></a>
 - t-002
-  global_id: t-23362
   teiginys: "Baltijos kelio komemoraciniai ženklai buvo juodi gedulo kaspinai ir žvakutės."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -129,13 +127,12 @@ Nenurodyta
     žmonių grandinę nuo Gedimino bokšto Vilniuje iki Hermano bokšto
     Taline. Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-
     rios priminė aukas ir didelių netekčių skausmą.
-  citata_rodoma: |
-    protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių
+  citata_rodoma: "protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23361
-    - t-23362
+    - t-001
+    - t-002

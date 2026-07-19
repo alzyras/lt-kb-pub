@@ -28,7 +28,6 @@ Kalvos į šiaurę nuo miesto stūkso plikos, jas rytiniame pakraštyje perrėž
 
 <a id="claim-t-201722"></a>
 - t-001
-  global_id: t-201722
   teiginys: "Kalvos į šiaurę nuo miesto stūkso plikos, jas rytiniame pakraštyje perrėžia kelias į Vilnių (Via versus Vilnam), o ant Antakalnio (Ąžuolų kalno?) matyti kartuvės."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -55,4 +54,4 @@ Kalvos į šiaurę nuo miesto stūkso plikos, jas rytiniame pakraštyje perrėž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201722
+    - t-001

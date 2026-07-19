@@ -40,7 +40,6 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
 
 <a id="claim-t-190034"></a>
 - t-001
-  global_id: t-190034
   teiginys: "Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbuto „Lietuvių mitologiją“, paskelbta „Tygodnik Petersburski“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -61,9 +60,8 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
 
 <a id="claim-t-190035"></a>
 - t-002
-  global_id: t-190035
   teiginys: "Anot Kraševskio, mirusįjį palietę žmonės lietuvių laidojimo papročiuose tapdavo „nešvarūs“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -79,10 +77,9 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172918
-    - c-002
+
 <a id="claim-t-197408"></a>
 - t-003
-  global_id: t-197408
   teiginys: "Juozapas Ignotas Kraševskis nori tvirtinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus Naruševičiaus, Bogušas ir kiti jau yra gana ženkliai atnaujinę jos pėdsakus, vis dėlto jo nuopelnas visuomet bus labai didelis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas, taip pat skambėjo įvairiuose to krašto padavimuose."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -110,8 +107,7 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190035
+
 ## Citatos
 
 - id: c-172917
@@ -140,8 +136,9 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190034
-    - t-197408
+    - t-001
+    - t-003
+
 - id: c-172918
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -159,18 +156,11 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
     niojo peties, prie motenį - varinės adatos, akmeniniai verpstukų
     smagračiai, kartais variniai lygintuvai rūbams lyginti (turiu to­
     kio lygintuvo liekanas, iškastas Obeliuose).
-  citata_rodoma: |
-    Tada aprengia drabužiais, pritinkančiais luomui ir ly­
-    čiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša
-    rankšluosčiu, į kurį įkiša pinigą, reikalingą kelionei, o mote­
-    riai duoda adatą, kamuoliuką siūlų, idant turėtų kuo taisyti
-    drabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot
-    pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­
-    rūs“. Mes gi apie tai nieko negalime pasakyti*.
+  citata_rodoma: "Tada aprengia drabužiais, pritinkančiais luomui ir ly­\nčiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša\nrankšluosčiu, į kurį įkiša pinigą, reikalingą kelionei, o mote­\nriai duoda adatą, kamuoliuką siūlų, idant turėtų kuo taisyti\ndrabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot\npono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­\nrūs“. Mes gi apie tai nieko negalime pasakyti*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190035
+    - t-002

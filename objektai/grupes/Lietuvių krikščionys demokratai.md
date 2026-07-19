@@ -37,7 +37,6 @@ Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą caro vald�
 
 <a id="claim-t-74627"></a>
 - t-001
-  global_id: t-74627
   teiginys: "Krikščionims demokratams padėjo demonstruotas lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nekėlė."
   atnaujinta: "2026-06-13 17:18"
   sprendimo_priezastis: "auto"
@@ -69,13 +68,11 @@ Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą caro vald�
     teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-
     nimu. Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą
     caro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė.
-  citata_rodoma: |
-    Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą
-    caro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė.
+  citata_rodoma: "Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą\ncaro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74627
+    - t-001

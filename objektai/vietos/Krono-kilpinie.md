@@ -31,7 +31,6 @@ Narbutas ties Prienais, kur Nemunas daro pusračio vingį, pastebėjo piliakaln�
 
 <a id="claim-t-189011"></a>
 - t-001
-  global_id: t-189011
   teiginys: "Narbutas ties Prienais, kur Nemunas daro pusračio vingį, pastebėjo piliakalnį Krono-kilpinie, aiškintą kaip Kruonio kilpa."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas ties Prienais, kur Nemunas daro pusračio vingį, pastebėjo piliakaln�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189011
+    - t-001

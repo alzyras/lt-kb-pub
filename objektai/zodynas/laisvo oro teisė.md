@@ -7,10 +7,10 @@ datos:
   - '1463 m.'
 date_start: '1463'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Lietuvoje, taip pat ir Kaune, laisvo oro teisė irgi galiojo, tik tiksliai neži
 
 <a id="claim-t-201777"></a>
 - t-001
-  global_id: t-201777
   teiginys: "Lietuvoje, taip pat ir Kaune, laisvo oro teisė irgi galiojo, tik tiksliai nežinomos jos ribos."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Lietuvoje, taip pat ir Kaune, laisvo oro teisė irgi galiojo, tik tiksliai neži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201777
+    - t-001

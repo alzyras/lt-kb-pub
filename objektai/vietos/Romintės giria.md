@@ -33,7 +33,6 @@ Dusburgietis teigia, kad nadruvos pietryčiuose, Pisos intako Romintės (dab.
 
 <a id="claim-t-58719"></a>
 - t-001
-  global_id: t-58719
   teiginys: "Nadruvos pietryčiuose, Pisos intako Romintės (dab."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Dusburgietis teigia, kad nadruvos pietryčiuose, Pisos intako Romintės (dab.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58719
+    - t-001

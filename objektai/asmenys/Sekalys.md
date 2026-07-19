@@ -39,7 +39,6 @@ Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais, pasak Koj
 
 <a id="claim-t-186251"></a>
 - t-001
-  global_id: t-186251
   teiginys: "Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais, pasak Kojelavičiaus, smarkiai nusiaubė visą Rusią."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -104,4 +103,4 @@ Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais, pasak Koj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186251
+    - t-001

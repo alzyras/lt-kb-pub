@@ -49,8 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185735"></a>
-- t-001
-  global_id: t-185735
+- t-002
   teiginys: "Mūšyje krito tūkstantis lietuvių, o kryžiuočiai neteko dvidešimt šešių kilmingųjų riterių ir ordino magistro Henriko."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -70,8 +69,7 @@ Nenurodyta
     - c-169096
 
 <a id="claim-t-196198"></a>
-- t-002
-  global_id: t-196198
+- t-003
   teiginys: "Kęstučiui be galo rūpėjo kuo greičiausiai pra dėti karą, kuriuo neseniai pagrasino ir kurį per neat sargumą pažadėjo pradėti."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -113,7 +111,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196198
+    - t-003
+
 - id: c-169096
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -143,4 +142,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185735
+    - t-002

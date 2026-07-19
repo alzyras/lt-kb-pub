@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-185542"></a>
 - t-001
-  global_id: t-185542
   teiginys: "Krėvoje vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir Jogailos siųsti budeliai jau atvyko."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-185543"></a>
 - t-002
-  global_id: t-185543
   teiginys: "Vytautui pasitraukus pas kryžiuočius, Jogaila nukreipė jėgas į Poleksiją, kurią Jonušas neseniai buvo atėmęs iš lietuvių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -92,7 +90,6 @@ Nenurodyta
 
 <a id="claim-t-196267"></a>
 - t-003
-  global_id: t-196267
   teiginys: "Vežamas iš Vilniaus į Krėvą Vytautas, pasak Kojelavičiaus, sulaukė karališkos pagarbos, bet buvo nuolat saugomas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -105,8 +102,7 @@ Nenurodyta
     - c-178603
 
 <a id="claim-t-196269"></a>
-- t-004
-  global_id: t-196269
+- t-005
   teiginys: "Pavakaryje Vytautas, apsivilkęs mergaitės drabužiais, praėjo pro sargybinius, nusileido nuo sienų, užsėdo ant žirgo ir paspruko į Mazoviją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -152,7 +148,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185542
+    - t-001
+
 - id: c-168904
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -186,7 +183,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185543
+    - t-002
+
 - id: c-178603
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -222,7 +220,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196267
+    - t-003
+
 - id: c-178604
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -258,4 +257,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196269
+    - t-005

@@ -31,7 +31,6 @@ T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI
 
 <a id="claim-t-192949"></a>
 - t-001
-  global_id: t-192949
   teiginys: "T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI
 
 <a id="claim-t-192950"></a>
 - t-002
-  global_id: t-192950
   teiginys: "Narbutas nurodo senovės tyrinėtojų teiginį, kad agatirai gyveno Marus, arba Maroszy, upės aukštupyje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI
 
 <a id="claim-t-197489"></a>
 - t-003
-  global_id: t-197489
   teiginys: "Laikui bėgant, kai pastarieji paju dėjo į Vakarus, ta pati revoliucija turėjo priversti ir agatirus išsikelti iš Uždneprės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -122,8 +119,9 @@ T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192949
-    - t-197489
+    - t-001
+    - t-003
+
 - id: c-175720
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -146,4 +144,4 @@ T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192950
+    - t-002

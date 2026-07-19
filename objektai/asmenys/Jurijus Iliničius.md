@@ -7,12 +7,12 @@ datos:
   - '1525 m.'
 date_start: '1525'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Vis dėlto šis, jau vieną kartą nustumtas Abraomo Jezofavičiaus, turėjo vė
 
 <a id="claim-t-202125"></a>
 - t-001
-  global_id: t-202125
   teiginys: "Vis dėlto šis, jau vieną kartą nustumtas Abraomo Jezofavičiaus, turėjo vėl trauktis, nes Kauno pilis ir seniūno pareigos buvo pavestos minėtam Jurijui Iliničiui."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Vis dėlto šis, jau vieną kartą nustumtas Abraomo Jezofavičiaus, turėjo vė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202125
+    - t-001

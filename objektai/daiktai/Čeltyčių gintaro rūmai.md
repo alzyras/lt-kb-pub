@@ -45,9 +45,8 @@ Nenurodyta
 
 <a id="claim-t-189756"></a>
 - t-001
-  global_id: t-189756
   teiginys: "Narbutas Čeltyčias vaizdavo kaip Baltijos jūros nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,7 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172639
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Čeltyčias vaizdavo kaip Baltijos jūros nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse.'
@@ -86,8 +85,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189756
+
 ## Citatos
 
 - id: c-172639
@@ -107,22 +105,11 @@ Nenurodyta
     kai pakenkti medžiui arba nukirsti ji, jos galėjusios atimti ran­
     kų ir kojų galią, sutraukti sąnarius arba tokį žmogų užkrėsti
     neišgydomomis ligomis.
-  citata_rodoma: |
-    Čeltyčios (Czeltice)
-    Tai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių
-    vaizduotėje jos įgaudavo dailių nuogiį merginų, gyvenančių gin­
-    152
-
-    ## Puslapis 152
-
-    taro rūmuose, jūros gelmėse, pavidalą. Jos sugundydavo, nusivi­
-    liodavo į savo slėptuves dailius jaunikaičius, kurie jau niekuo­
-    met iš ten nebesugrįždavo . Tų deivių karalienės vardas buvo
-    Jūratė .
+  citata_rodoma: "Čeltyčios (Czeltice)\nTai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių\nvaizduotėje jos įgaudavo dailių nuogiį merginų, gyvenančių gin­\n152\n\n## Puslapis 152\n\ntaro rūmuose, jūros gelmėse, pavidalą. Jos sugundydavo, nusivi­\nliodavo į savo slėptuves dailius jaunikaičius, kurie jau niekuo­\nmet iš ten nebesugrįždavo . Tų deivių karalienės vardas buvo\nJūratė ."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189756
+    - t-001

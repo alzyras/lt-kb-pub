@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-191016"></a>
 - t-001
-  global_id: t-191016
   teiginys: "Jordanes, Narbuto perteikimu, minėjo skirius kaip iš pradžių taikiai su gotų gentimis gyvenusius ir labiau į žemdirbystę linkusius žmones."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-191017"></a>
 - t-002
-  global_id: t-191017
   teiginys: "Skiriai sudarė sąjungą su sukilėliais, kartu puolė gotus ir po šio karo patyrė didelį pralaimėjimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,6 @@ Nenurodyta
 
 <a id="claim-t-191018"></a>
 - t-003
-  global_id: t-191018
   teiginys: "Po skirių pralaimėjimo Eduka vedė savo žmonių likučius iš Mezijos į dešiniąją Dunojaus pakrantę ir pasidavė romėnų globai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -116,7 +113,6 @@ Nenurodyta
 
 <a id="claim-t-191019"></a>
 - t-004
-  global_id: t-191019
   teiginys: "Apie 355 m. persikėlę atvykėliai ilgą laiką saugojo imperijos Padunojaus sienas nuo gotų, kuriuos Narbutas apibūdino kaip jų pačių priešus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -140,7 +136,6 @@ Nenurodyta
 
 <a id="claim-t-197554"></a>
 - t-005
-  global_id: t-197554
   teiginys: "Tas pats istorikas Jorda nas, pasakodamas apie gotų kivirčus, pirmiausia mini skirius, iš pradžių taikiai gyvenusius su kitomis gotų gentimis; jie labiau linko į žemdirbystę ir namų verslus negu į kariavimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -153,7 +148,6 @@ Nenurodyta
 
 <a id="claim-t-197555"></a>
 - t-006
-  global_id: t-197555
   teiginys: "Tačiau atsitiko taip, kad svebų kara liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių bendrininkai, kažin kokio pavydo šiai pagrindinei tautai paskatinti, ėmė maištauti ir sukėlė pilietinį karą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -166,7 +160,6 @@ Nenurodyta
 
 <a id="claim-t-197556"></a>
 - t-007
-  global_id: t-197556
   teiginys: "Šios vilties ir narsos, ku rią suteikia keršto troškimas, skatinami, skiri ai skubėjo su savo vadais Eduka ir Volfu pagelbėti svebams."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -199,6 +192,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-173898
@@ -220,26 +214,16 @@ Nenurodyta
     liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių
     bendrininkai, kažin kokio pavydo šiai pagrindinei tautai
     paskatinti, ėmė maištauti ir sukėlė pilietinį karą.
-  citata_rodoma: |
-    Šių karingų
-    plėšikų būriai, savaime suprantama, negalėjo ilgai gy­
-    venti taikiai ir, kai kaimynystėje nebuvo ko plėšti, ėmė
-    vaidytis ir kariauti tarpusavyje. Tas pats istorikas Jorda­
-    nas, pasakodamas apie gotų kivirčus, pirmiausia mini
-    skirius, iš pradžių taikiai gyvenusius su kitomis gotų
-    gentimis; jie labiau linko į žemdirbystę ir namų verslus
-    negu į kariavimą. Tačiau atsitiko taip, kad svebų kara­
-    liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių
-    bendrininkai, kažin kokio pavydo šiai pagrindinei tautai
-    paskatinti, ėmė maištauti ir sukėlė pilietinį karą.
+  citata_rodoma: "Šių karingų \nplėšikų būriai, savaime suprantama, negalėjo ilgai gy­\nventi taikiai ir, kai kaimynystėje nebuvo ko plėšti, ėmė \nvaidytis ir kariauti tarpusavyje. Tas pats istorikas Jorda­\nnas, pasakodamas apie gotų kivirčus, pirmiausia mini \nskirius, iš pradžių taikiai gyvenusius su kitomis gotų \ngentimis; jie labiau linko į žemdirbystę ir namų verslus \nnegu į kariavimą. Tačiau atsitiko taip, kad svebų kara­\nliukai Hunimundas ir Alarikas, gotų plėšikiškų žygių \nbendrininkai, kažin kokio pavydo šiai pagrindinei tautai \npaskatinti, ėmė maištauti ir sukėlė pilietinį karą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191016
-    - t-197554
+    - t-001
+    - t-005
+
 - id: c-173899
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -257,7 +241,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191017
+    - t-002
+
 - id: c-173900
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -277,7 +262,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191018
+    - t-003
+
 - id: c-173901
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -296,7 +282,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191019
+    - t-004
+
 - id: c-179241
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -320,7 +307,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197555
+    - t-006
+
 - id: c-179242
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -340,4 +328,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197556
+    - t-007

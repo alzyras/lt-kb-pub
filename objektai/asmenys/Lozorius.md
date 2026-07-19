@@ -31,7 +31,6 @@ Lozorius mūšio metu lūkuriavo rezerve su poloviečiais, kuriuos vėliau smark
 
 <a id="claim-t-191439"></a>
 - t-001
-  global_id: t-191439
   teiginys: "Lozorius mūšio metu lūkuriavo rezerve su poloviečiais, kuriuos vėliau smarkiai puolė jotvingiai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Lozorius mūšio metu lūkuriavo rezerve su poloviečiais, kuriuos vėliau smark
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191439
+    - t-001

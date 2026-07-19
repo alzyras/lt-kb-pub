@@ -42,7 +42,6 @@ media_all_json: |-
 
 <a id="claim-t-23418"></a>
 - t-001
-  global_id: t-23418
   teiginys: "„Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ media_all_json: |-
     - c-16862
 
 <a id="claim-t-23420"></a>
-- t-002
-  global_id: t-23420
+- t-003
   teiginys: "„Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių kartu su „Kurier Litewski“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,13 +93,12 @@ media_all_json: |-
     Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m.
     išleistas pirmasis lietuvių kalbos elementorius, o 1760 m. pradėjo eiti pir-
     mieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.
-  citata_rodoma: |
-    mieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.
+  citata_rodoma: "mieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23418
-    - t-23420
+    - t-001
+    - t-003

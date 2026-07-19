@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-201408"></a>
 - t-001
-  global_id: t-201408
   teiginys: "Šventaragis, didysis Lietuvos kunigaikštis, gražiame ąžuolyne ant santeklio Vyliaus ir Neries upių (šian dien Vilijos ir Vilenkos), kurioje vietoj dabar ka tedra Vilniaus riogso, padėjo pamatus garbingai žinyčiai, o sūnus jo Gereimantas metuose 1285 ją."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184758
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vilniaus žinyčia yra dar aiškesniai aprašyta.
     Šventaragis, didysis Lietuvos kunigaikštis, gražiame
@@ -74,4 +74,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201408
+    - t-001

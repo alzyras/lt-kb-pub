@@ -28,7 +28,6 @@ Rytinėje miesto dalyje matome dar 3 bažnyčias.
 
 <a id="claim-t-201723"></a>
 - t-001
-  global_id: t-201723
   teiginys: "Rytinėje miesto dalyje matome dar 3 bažnyčias."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -54,4 +53,4 @@ Rytinėje miesto dalyje matome dar 3 bažnyčias.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201723
+    - t-001

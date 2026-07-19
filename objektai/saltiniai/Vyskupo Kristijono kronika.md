@@ -30,7 +30,6 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
 
 <a id="claim-t-190503"></a>
 - t-002
-  global_id: t-190503
   teiginys: "Narbutas mano, kad Grunau žinią apie vyriausiuosius žynius veikiausiai paėmė iš vyskupo Kristijono kronikos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
 
 <a id="claim-t-190504"></a>
 - t-003
-  global_id: t-190504
   teiginys: "Narbutas spėja, kad prūsų tautinės vėliavos runų užrašas galėjo būti senovinis dingusios vyskupo Kristijono kronikos užrašo vertimas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,17 +69,6 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
   pagrindžia:
     - c-173387
 
-<a id="claim-t-190502"></a>
-- t-001
-  global_id: t-190502
-  teiginys: 'Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žynius galėjo būti paimta iš vyskupo Kristijono kronikos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Vertinamasis Grunau gynimas ir šaltinio kilmės aiškinimas palikti su Narbuto atribucija. Pašalinti poleminiai kreipiniai į Foigtą ir nepridėta daugiau įrodymų negu duoda citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]; mentioned_place: Lukas'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žynius galėjo būti paimta iš vyskupo Kristijono kronikos.'
@@ -103,11 +90,9 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
     dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190502
+  statusas: verified
 ## Citatos
 
 - id: c-173386
@@ -137,7 +122,8 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190503
+    - t-002
+
 - id: c-173387
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -154,4 +140,4 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190504
+    - t-003

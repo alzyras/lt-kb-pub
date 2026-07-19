@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-86421"></a>
-- t-001
-  global_id: t-86421
+- t-002
   teiginys: "Rašytas Vilniuje, sausio 13 dieną, Il indikte."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ media_all_json: |-
     - c-82402
 
 <a id="claim-t-86422"></a>
-- t-002
-  global_id: t-86422
+- t-003
   teiginys: "Vilniuje rašytas dokumentas datuotas 1533 m. spalio 23 d., 7 indiktu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ media_all_json: |-
     - c-82400
 
 <a id="claim-t-86423"></a>
-- t-003
-  global_id: t-86423
+- t-001
   teiginys: "Karaliaus Kazimiero sutartis su Pskovu Vilniuje datuota 1440 m. gruodžio 30 d., 4 indiktu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,29 +131,15 @@ media_all_json: |-
     (Iš Vilniaus kapitulos archyvo rankraščių)
     Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
     aniae, Russiae, totiusq.
-  citata_rodoma: |
-    Rašyta Vilniuje Viešpa­
-    ties gimimo metais 1533 spalio mėnesio 23 dieną, 7 indikte.
-    M.P. Valerijonas
-
-    ## Puslapis 394
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI,
-    RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU
-    1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO
-    J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES
-    1533 METAIS
-    (Iš Vilniaus kapitulos archyvo rankraščių)
-    Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
-    aniae, Russiae, totiusq.
+  citata_rodoma: "Rašyta Vilniuje Viešpa­\nties gimimo metais 1533 spalio mėnesio 23 dieną, 7 indikte.\nM.P. Valerijonas\n\n## Puslapis 394\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI, \nRAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU  \n1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO \nJ TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES \n1533 METAIS\n(Iš Vilniaus kapitulos archyvo rankraščių)\nSigismundus DEI gratia Rex Pol oniae Magnus Dux Litu- \naniae, Russiae, totiusq."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86422
+    - t-003
+
 - id: c-82401
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -176,7 +159,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86423
+    - t-001
+
 - id: c-82402
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -212,4 +196,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86421
+    - t-002

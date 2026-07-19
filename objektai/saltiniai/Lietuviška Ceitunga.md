@@ -30,7 +30,6 @@ Jų tarpe buvo ir tokių, kurie jau stojo ant grynai tautiško pagrindo, gynė t
 
 <a id="claim-t-67433"></a>
 - t-001
-  global_id: t-67433
   teiginys: "Kilus nepasitenkinimui „Lietuviškos Ceitungos“ tautiškumu, redaktorius pavertė ją informaciniu laikraščiu be ideologijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,15 +52,11 @@ Jų tarpe buvo ir tokių, kurie jau stojo ant grynai tautiško pagrindo, gynė t
     ir redaktorius vėl pavertė ją paprastu informaciniu laikraščiu be
     jokios ideologijos. Tokio pat likimo susilaukė ir kitų laikraš-
     čių panašūs bandymai.
-  citata_rodoma: |
-    Bet prieš radikalųjį jos tautiškumą kilo nepasitenkinimas,
-    ir redaktorius vėl pavertė ją paprastu informaciniu laikraščiu be
-    jokios ideologijos. Tokio pat likimo susilaukė ir kitų laikraš-
-    čių panašūs bandymai.
+  citata_rodoma: "Bet prieš radikalųjį jos tautiškumą kilo nepasitenkinimas,\nir redaktorius vėl pavertė ją paprastu informaciniu laikraščiu be\njokios ideologijos. Tokio pat likimo susilaukė ir kitų laikraš-\nčių panašūs bandymai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67433
+    - t-001

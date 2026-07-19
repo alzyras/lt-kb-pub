@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-189722"></a>
 - t-001
-  global_id: t-189722
   teiginys: "Narbutas 1805 m. Kalnėnų kaime matė gėlių vainikais papuoštą blindę, prie kurios kunigai buvo liepę prikalti kryžių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -97,4 +96,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189722
+    - t-001

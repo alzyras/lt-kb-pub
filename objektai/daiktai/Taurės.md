@@ -58,30 +58,25 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195333"></a>
-- t-001
-  global_id: t-195333
+- t-003
   teiginys: "Varinė taurelė minima prie bažnyčios vaišių ir kaip atlygio gėrimo indas."
-  atnaujinta: "2026-07-12 14:04"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177729
-    - c-177732
 
 <a id="claim-t-195334"></a>
-- t-002
-  global_id: t-195334
+- t-004
   teiginys: "Kitoje istorijoje taurė aprašoma kaip stora stiklinė, tyčia daužoma į duris ir aslos akmenį."
-  atnaujinta: "2026-07-12 14:04"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177730
     - c-177731
 
 <a id="claim-t-200943"></a>
-- t-003
-  global_id: t-200943
+- t-005
   teiginys: "Paskui vie ni siurbė midų bei alų iš tauragių, kiti iš kaušų, bū davo ir tokių, kurie gerdavo iš paauksytų kaukolių savo neprietelių, karėj pergalėtų 2."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -124,17 +119,15 @@ Nenurodyta
     terims, karčioji — vyrams.
     Prie to raguolis ragaišio, gabalas mėsos
     ir varinė taurelė.
-  citata_rodoma: |
-    Prie to raguolis ragaišio,
-    gabalas mėsos
-    ir varinė taurelė.
+  citata_rodoma: "Prie to raguolis ragaišio,\ngabalas mėsos\nir varinė taurelė."
   statusas: verified
   atnaujinta: "2026-07-12 14:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195333
+    - t-003
+
 - id: c-177730
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -150,15 +143,13 @@ Nenurodyta
     ir geria tą degtinę, vis ją keikdami.
     Kai visą išgėrė, sumanė su­
     daužyti taurelę.
-  citata_rodoma: |
-    Kai visą išgėrė, sumanė sudaužyti taurelę.
+  citata_rodoma: "Kai visą išgėrė, sumanė sudaužyti taurelę."
   statusas: verified
   atnaujinta: "2026-07-12 14:04"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195334
 - id: c-177731
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -168,15 +159,15 @@ Nenurodyta
     O taurė stora, kaip koks stiklo burbulas. Paskui ir su­
     manė duoti į aslos akmenį.
     Čia vargšei šonas nudužo.
-  citata_rodoma: |
-    O taurė stora, kaip koks stiklo burbulas. Paskui ir sumanė duoti į aslos akmenį. Čia vargšei šonas nudužo.
+  citata_rodoma: "O taurė stora, kaip koks stiklo burbulas. Paskui ir sumanė duoti į aslos akmenį. Čia vargšei šonas nudužo."
   statusas: verified
   atnaujinta: "2026-07-12 14:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195334
+    - t-004
+
 - id: c-177732
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -188,19 +179,17 @@ Nenurodyta
     Atėjus elgetai padėkoti už ragaišį, ji gaudavo iš­
     gerti po taurelę „ant abiejų kojų.“
     Taip užkandžiavo šventoriuje.
-  citata_rodoma: |
-    Atėjus elgetai padėkoti už ragaišį, ji gaudavo iš­
-    gerti po taurelę „ant abiejų kojų.“
+  citata_rodoma: "Atėjus elgetai padėkoti už ragaišį, ji gaudavo iš­\ngerti po taurelę „ant abiejų kojų.“"
   statusas: verified
   atnaujinta: "2026-07-12 14:04"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195333
 - id: c-184293
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Susirinkę į gėrynes, visų pirma savo dievus pa­
     garbino, kaipogi nė vienas pirma negėrė iki nenu-
@@ -220,4 +209,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200943
+    - t-005

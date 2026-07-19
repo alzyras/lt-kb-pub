@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-26650"></a>
 - t-001
-  global_id: t-26650
   teiginys: "1938 m. Lenkijos ultimatumo Lietuvai kontekste Lenkijos miestų gatvėse skanduota „Marsz na Kowno“."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ media_all_json: |-
 
 <a id="claim-t-26902"></a>
 - t-002
-  global_id: t-26902
   teiginys: "Lenkijos miestų gatvėse tūkstančiai žmonių skandavo „Marsz na Kowno“ („Marš į Kauną“), nors oficialiąją Varšuvą ultimatumo rezultatai tenkino."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ media_all_json: |-
 
 <a id="claim-t-104218"></a>
 - t-003
-  global_id: t-104218
   teiginys: "1938 m. kovo 19 d. Lietuvai priėmus Lenkijos ultimatumą, Lenkijos miestų gatvėse skanduota „Marsz na Kowno“ („Marš į Kauną“)."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -93,7 +90,6 @@ media_all_json: |-
 
 <a id="claim-t-104219"></a>
 - t-004
-  global_id: t-104219
   teiginys: "Po Lietuvos priimto Lenkijos ultimatumo tūkstančiai žmonių Lenkijos miestų gatvėse skandavo „Marsz na Kowno“ („Marš į Kauną“)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,7 +125,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26650
-    - t-26902
-    - t-104218
-    - t-104219
+    - t-001
+    - t-002
+    - t-003
+    - t-004

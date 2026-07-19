@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-41466"></a>
 - t-001
-  global_id: t-41466
   teiginys: "Posakis „Teisybė, jie niekada nesitraukia“ apibūdina raitelius kaip nesitraukiančius ir visu greičiu puolančius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,17 +56,12 @@ media_all_json: |-
     smeigia visus, pasimaišiusius jų kelyje.“
 
     ca Konseržas, kitaip končaras ar estokas (Estoc prancūzų kalba reiškia durti), kartais vadinamas kava-
-    lerijos špaga.
-  citata_rodoma: |
-    „Teisybė, jie niekada nesitraukia, varo žirgus visu greičiu, tarsi žaistų gaudynes ir per-
-    smeigia visus, pasimaišiusius jų kelyje.“
-
-    ca Konseržas, kitaip končaras ar estokas (Estoc prancūzų kalba reiškia durti), kartais vadinamas kava-
-    lerijos špaga.
+    lerijos špaga. XVI a. pabaiga-xVII a.
+  citata_rodoma: "„Teisybė, jie niekada nesitraukia, varo žirgus visu greičiu, tarsi žaistų gaudynes ir per-\nsmeigia visus, pasimaišiusius jų kelyje.“\n\nca Konseržas, kitaip končaras ar estokas (Estoc prancūzų kalba reiškia durti), kartais vadinamas kava-\nlerijos špaga."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41466
+    - t-001

@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-77895"></a>
 - t-001
-  global_id: t-77895
   teiginys: "1934 m. gen. Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves buvo pavojingiausias voldemarininkų bandymas puču grąžinti A. Voldemarą į valdžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,17 +90,11 @@ Nenurodyta
     ninkai vis bandė pučų keliu grąžinti į valdžią A. Voldemarą, o 1934 m. gen.
     Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pa-
     vojingiausias.
-  citata_rodoma: |
-    Autoritarinis ramaus publicisto ir kalbėtojo A. Smetonos režimas ne-
-    tenkino dešiniojo sparno tautininkų, kuriems imponavo Italijos fašizmas
-    ir energingesnis lyderis. Kariuomenėje įtakingi nacionalistai voldemari-
-    ninkai vis bandė pučų keliu grąžinti į valdžią A. Voldemarą, o 1934 m. gen.
-    Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pa-
-    vojingiausias.
+  citata_rodoma: "Autoritarinis ramaus publicisto ir kalbėtojo A. Smetonos režimas ne-\ntenkino dešiniojo sparno tautininkų, kuriems imponavo Italijos fašizmas \nir energingesnis lyderis. Kariuomenėje įtakingi nacionalistai voldemari-\nninkai vis bandė pučų keliu grąžinti į valdžią A. Voldemarą, o 1934 m. gen. \nPetro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pa-\nvojingiausias."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77895
+    - t-001

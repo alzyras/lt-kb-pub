@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-19534"></a>
-- t-001
-  global_id: t-19534
+- t-003
   teiginys: "Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų."
   atnaujinta: "2026-05-18 23:37"
   sprendimo_priezastis: "gap::items"
@@ -102,12 +101,11 @@ Nenurodyta
     tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti
     prieš antisemitizmą ir rasinį bei religinį nepakantumą, garantuoti žodžio,
     spaudos, rinkimų laisvę.
-  citata_rodoma: |
-    tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti
+  citata_rodoma: "tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19534
+    - t-003

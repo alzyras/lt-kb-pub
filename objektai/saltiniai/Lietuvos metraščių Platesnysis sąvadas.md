@@ -37,7 +37,6 @@ Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su
 
 <a id="claim-t-194153"></a>
 - t-001
-  global_id: t-194153
   teiginys: "Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su Alberto Goštauto iniciatyva XVI a. antrajame dešimtmetyje, prieš 1519 m."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -49,16 +48,6 @@ Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su
   pagrindžia:
     - c-176766
 
-<a id="claim-t-194154"></a>
-- t-002
-  global_id: t-194154
-  teiginys: 'Lietuvos metraščių Platesniojo sąvado pastaboje nurodoma, kad Lietuvos valstybė siekė Būgą, bet niekada nesiekė pačios Vislos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Numeruotas fragmentas paverstas sakiniu apie note objektą ir išlaikyta šaltinio-pastabos atribucija. Neplėsta į Jogailos vedybų ar Lietuvos krikšto pasakojimą.'
-  pagrindžia:
-    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Lietuvos metraščių Platesniojo sąvado pastaboje nurodoma, kad Lietuvos valstybė siekė Būgą, bet niekada nesiekė pačios Vislos.'
@@ -74,11 +63,9 @@ Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su
     nis pasakojimas apie Jogailos žygj j Lenkiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194154
+  statusas: verified
 ## Citatos
 
 - id: c-176766
@@ -90,27 +77,17 @@ Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su
     kronikos vertimą į lietuvių kalbą, patvirtina spėjimus,
     kad Platesnysis sąvadas turėjo būti sukurtas Alberto
     Goštauto iniciatyva XVI a. antrajame dešimtmetyje,
-    prieš 1519 m .5 0 . Antra, esame giliai įsitikinę, kad ne
+    prieš 1519 m .50. Antra, esame giliai įsitikinę, kad ne
     tik atskiri originalieji Bychovco kronikos pasakojimai,
     bet ir visa toji kronika buvo parašyta to paties Alber­
     to Goštauto iniciatyva, dar jam gyvam esant, netrukus
     po Platesniojo sąvado, antrojo ir trečiojo XVI a. de­
-    šimtmečių riboje, gal būt, tarp 1519—1521 ar 1525 m .
-  citata_rodoma: |
-    Mūsų išvados, susiklosčiusios ruošiant Bychovco
-    kronikos vertimą į lietuvių kalbą, patvirtina spėjimus,
-    kad Platesnysis sąvadas turėjo būti sukurtas Alberto
-    Goštauto iniciatyva XVI a. antrajame dešimtmetyje,
-    prieš 1519 m .5 0 . Antra, esame giliai įsitikinę, kad ne
-    tik atskiri originalieji Bychovco kronikos pasakojimai,
-    bet ir visa toji kronika buvo parašyta to paties Alber­
-    to Goštauto iniciatyva, dar jam gyvam esant, netrukus
-    po Platesniojo sąvado, antrojo ir trečiojo XVI a. de­
-    šimtmečių riboje, gal būt, tarp 1519—1521 ar 1525 m .
+    šimtmečių riboje, gal būt, tarp 1519—1521 ar 1525 m.
+  citata_rodoma: "Mūsų išvados, susiklosčiusios ruošiant Bychovco \nkronikos vertimą į lietuvių kalbą, patvirtina spėjimus, \nkad Platesnysis sąvadas turėjo būti sukurtas Alberto \nGoštauto iniciatyva XVI a. antrajame dešimtmetyje, \nprieš 1519 m .5 0 . Antra, esame giliai įsitikinę, kad ne \ntik atskiri originalieji Bychovco kronikos pasakojimai, \nbet ir visa toji kronika buvo parašyta to paties Alber­\nto Goštauto iniciatyva, dar jam gyvam esant, netrukus \npo Platesniojo sąvado, antrojo ir trečiojo XVI a. de­\nšimtmečių riboje, gal būt, tarp 1519—1521 ar 1525 m ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194153
+    - t-001

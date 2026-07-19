@@ -39,8 +39,7 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
 ## Teiginiai
 
 <a id="claim-t-58421"></a>
-- t-001
-  global_id: t-58421
+- t-003
   teiginys: "Vonsdorfas buvo suvokietintas Dusburgiečio minimo Unzatrapio pavadinimas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
     - c-59054
 
 <a id="claim-t-58422"></a>
-- t-002
-  global_id: t-58422
+- t-001
   teiginys: "Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -116,7 +114,8 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58422
+    - t-001
+
 - id: c-59054
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -132,4 +131,4 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58421
+    - t-003

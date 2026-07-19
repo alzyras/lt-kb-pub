@@ -30,7 +30,6 @@ Narbutas pasakoja legendą, kad Vitolfas po žirgo praradimo grįžo su kariuome
 
 <a id="claim-t-190119"></a>
 - t-001
-  global_id: t-190119
   teiginys: "Narbutas pasakoja legendą, kad Vitolfas po žirgo praradimo grįžo su kariuomene, nugalėjo slibiną Pukį ir susitaikė su karaliumi."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Narbutas pasakoja legendą, kad Vitolfas po žirgo praradimo grįžo su kariuome
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190119
+    - t-001

@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-59700"></a>
 - t-001
-  global_id: t-59700
   teiginys: "Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -107,4 +106,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59700
+    - t-001

@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-80628"></a>
 - t-001
-  global_id: t-80628
   teiginys: "Leidinyje gausios iliustracijos turėjo padėti skaitytojui susikurti įvairių laikotarpių Lietuvos kario įvaizdį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80628
+    - t-001

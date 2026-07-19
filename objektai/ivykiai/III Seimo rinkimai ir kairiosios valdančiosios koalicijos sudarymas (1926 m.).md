@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45334"></a>
-- t-001
-  global_id: t-45334
+- t-010
   teiginys: "1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-22939
 
 <a id="claim-t-45335"></a>
-- t-002
-  global_id: t-45335
+- t-011
   teiginys: "1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo po trejų metų valdymo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-48202
 
 <a id="claim-t-45336"></a>
-- t-003
-  global_id: t-45336
+- t-008
   teiginys: "1926 m. gegužės 8-9 d. rinkimuose į III Seimą pralaimėjo LKDP blokas."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -103,8 +100,7 @@ Nenurodyta
     - c-22939
 
 <a id="claim-t-45337"></a>
-- t-004
-  global_id: t-45337
+- t-009
   teiginys: "1926 m. birželį naują valdančiąją koaliciją pirmą kartą suformavo kairė: valstiečiai liaudininkai ir socialdemokratai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -132,22 +128,17 @@ Nenurodyta
     laimėjo. Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
     valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
     tinių mažumų atstovai Seime.
-  citata_rodoma: |
-    O čia dar po kie-
-    toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
-    8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
-    laimėjo. Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
-    valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
-    tinių mažumų atstovai Seime.
+  citata_rodoma: "O čia dar po kie-\ntoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės\n8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-\nlaimėjo. Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –\nvalstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-\ntinių mažumų atstovai Seime."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45334
-    - t-45336
-    - t-45337
+    - t-010
+    - t-008
+    - t-009
+
 - id: c-48202
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -166,4 +157,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45335
+    - t-011

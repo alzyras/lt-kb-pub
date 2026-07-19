@@ -41,8 +41,7 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 ## Teiginiai
 
 <a id="claim-t-63713"></a>
-- t-001
-  global_id: t-63713
+- t-002
   teiginys: "Vytautas, užėmęs Smolenską, paskyrė kunigaikštį Jomantą savo vietininku mieste."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     - c-42012
 
 <a id="claim-t-63714"></a>
-- t-002
-  global_id: t-63714
+- t-001
   teiginys: "Vytautas Lietuvai naujai prijungtose žemėse vietininkais paskyrė Jomantą ir Vosylių Boreikaičius."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -95,21 +93,15 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     Taip Vytautas sustiprino Lietuvos
     pozicijas saugodamasis galimos
     grėsmės iš pietryčių.
-  citata_rodoma: |
-    Sustojęs prie Smolensko,
-    vesdamas derybas su smolenskie-
-    čiais, jį užėmė, pasodino ten savo
-    vietininką kunigaikštį Jomantą.
-    Taip Vytautas sustiprino Lietuvos
-    pozicijas saugodamasis galimos
-    grėsmės iš pietryčių.
+  citata_rodoma: "Sustojęs prie Smolensko,\nvesdamas derybas su smolenskie-\nčiais, jį užėmė, pasodino ten savo\nvietininką kunigaikštį Jomantą.\nTaip Vytautas sustiprino Lietuvos\npozicijas saugodamasis galimos\ngrėsmės iš pietryčių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63713
+    - t-002
+
 - id: c-64667
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -130,6 +122,7 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63714
+    - t-001
+
 ## Ryšiai
 - Paskyrė Jomantą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

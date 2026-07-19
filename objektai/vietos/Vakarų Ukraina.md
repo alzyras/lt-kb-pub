@@ -39,7 +39,6 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
 
 <a id="claim-t-21854"></a>
 - t-001
-  global_id: t-21854
   teiginys: "Mindaugo, Vytenio ir Gedimino laikais prie Lietuvos prijungtos rusėnų žemės apėmė dalį dabartinės Vakarų Ukrainos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,12 +72,11 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
     prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
     kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-  citata_rodoma: |
-    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
+  citata_rodoma: "nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21854
+    - t-001

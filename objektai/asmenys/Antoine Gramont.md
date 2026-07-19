@@ -39,8 +39,7 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 ## Teiginiai
 
 <a id="claim-t-40034"></a>
-- t-001
-  global_id: t-40034
+- t-002
   teiginys: "Prancūzijos grafas Antoineas Gramont’as 1663-1664 m. pasakojo apie totorius Lietuvos kariuomenėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
     - c-41839
 
 <a id="claim-t-40035"></a>
-- t-002
-  global_id: t-40035
+- t-001
   teiginys: "Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,6 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 
 <a id="claim-t-193757"></a>
 - t-003
-  global_id: t-193757
   teiginys: "Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie totorius Lietuvos kariuomenėje."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -110,7 +107,8 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40034
+    - t-002
+
 - id: c-44285
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -131,25 +129,15 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
     nais įvirtinimais - lengvais žemės šancais,
     kuriuos sumaniai naudodavo tiek puldami,
     tiek ir besigindami.
-  citata_rodoma: |
-    LDK didysis etmonas pasiuntė ke-
-    letą lengvosios kavalerijos - „lisovčikų“
-
-    LIETUVOS LENGVOJI KAVALERIJA
-
-    Ištrauka iš Prancūzijos grafo Antoine Gramont (1663-1664 m.) pasakojimo apie ka-
-    zokus, tarnaujančius Lenkijos-Lietuvos kariuomenėse.
-
-    nais įvirtinimais - lengvais žemės šancais,
-    kuriuos sumaniai naudodavo tiek puldami,
-    tiek ir besigindami.
+  citata_rodoma: "LDK didysis etmonas pasiuntė ke-\nletą lengvosios kavalerijos - „lisovčikų“\n\nLIETUVOS LENGVOJI KAVALERIJA\n\nIštrauka iš Prancūzijos grafo Antoine Gramont (1663-1664 m.) pasakojimo apie ka-\nzokus, tarnaujančius Lenkijos-Lietuvos kariuomenėse.\n\nnais įvirtinimais - lengvais žemės šancais,\nkuriuos sumaniai naudodavo tiek puldami,\ntiek ir besigindami."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40035
+    - t-001
+
 - id: c-176416
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -170,4 +158,4 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193757
+    - t-003

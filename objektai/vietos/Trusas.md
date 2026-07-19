@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-192857"></a>
 - t-001
-  global_id: t-192857
   teiginys: "Narbuto pasakojime Trusas buvo prekybinis miestas prie Drūsinės ežero, galbūt ten, kur vėliau įkurtas Elbliongas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ media_all_json: |-
 
 <a id="claim-t-197934"></a>
 - t-002
-  global_id: t-197934
   teiginys: "Daugiausiai dėmesio vertas šios provincijos prekybinis miestas Trusas prie Drūsinės eže ro, buvęs, ko gero, ten, kur vėliau buvo įkurtas Elbliongas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -67,7 +65,6 @@ media_all_json: |-
 
 <a id="claim-t-201109"></a>
 - t-003
-  global_id: t-201109
   teiginys: "Juo į saulėtekį yra antra upis, Ilfing vadinama, taip pat tekanti į Žemaičių jūrą, ant jos skardžio yra preky bos vietovė, vadinama Trusas, į kurią atkeliavęs 7 naktimis irkluodamas dieną ir naktį."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -106,11 +103,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192857
-    - t-197934
+    - t-001
+    - t-002
+
 - id: c-184459
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ten, sa­
     ko jis, Vysla, arba Ysla, yra didelė upis, vienoj pu­
@@ -128,4 +127,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201109
+    - t-003

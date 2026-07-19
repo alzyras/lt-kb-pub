@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-26395"></a>
 - t-001
-  global_id: t-26395
   teiginys: "Rugsėjo 16 d. pradėtas leisti laikraštis „Atgimimas“, kurį redagavo Romualdas Ozolas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,17 +85,11 @@ Nenurodyta
     LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi
     iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-
     ciatyvinės grupės nariai.
-  citata_rodoma: |
-    LPS tapo dar populiaresnis,
-    kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti
-    laikraštis „Atgimimas“ (red. Romualdas Ozolas).
-    LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi
-    iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-
-    ciatyvinės grupės nariai.
+  citata_rodoma: "LPS tapo dar populiaresnis, \nkai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti \nlaikraštis „Atgimimas“ (red. Romualdas Ozolas).\nLPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi \niniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-\nciatyvinės grupės nariai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26395
+    - t-001

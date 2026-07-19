@@ -31,7 +31,6 @@ Musteikis. Musteikio vadovaujama 3-ioji divizija (3-iasis, 6-asis ir 9-asis pulk
 
 <a id="claim-t-40140"></a>
 - t-001
-  global_id: t-40140
   teiginys: "Mjr. I. Musteikio vadovaujama 3-ioji divizija saugojo Lietuvos rytinę ribą su bolševikais ir Latvija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,15 +58,11 @@ Musteikis. Musteikio vadovaujama 3-ioji divizija (3-iasis, 6-asis ir 9-asis pulk
     zija (3-iasis, 6-asis ir 9-asis pulkai) sau-
     gojo Lietuvos ribą rytuose su bolševikais ir
     Latvija.
-  citata_rodoma: |
-    Mir. I. Musteikio vadovaujama 3-ioji divi-
-    zija (3-iasis, 6-asis ir 9-asis pulkai) sau-
-    gojo Lietuvos ribą rytuose su bolševikais ir
-    Latvija.
+  citata_rodoma: "Mir. I. Musteikio vadovaujama 3-ioji divi-\nzija (3-iasis, 6-asis ir 9-asis pulkai) sau-\ngojo Lietuvos ribą rytuose su bolševikais ir\nLatvija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40140
+    - t-001

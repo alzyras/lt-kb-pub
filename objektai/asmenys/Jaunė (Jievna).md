@@ -42,7 +42,6 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
 
 <a id="claim-t-34795"></a>
 - t-001
-  global_id: t-34795
   teiginys: "Gedimino našlė Jaunė tikriausiai buvo jungiantis veiksnys, kai Vilniuje gyveno kartu su Jaunučiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,9 +59,8 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
 
 <a id="claim-t-188540"></a>
 - t-002
-  global_id: t-188540
   teiginys: "Jaunė, arba Ieva, Narbuto genealogijoje pateikiama kaip trečioji Gedimino žmona ir Polocko kunigaikščio duktė."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -79,7 +77,7 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171429
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Jaunė, arba Ieva, Narbuto genealogijoje pateikiama kaip trečioji Gedimino žmona ir Polocko kunigaikščio duktė.'
@@ -97,8 +95,7 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188540
+
 ## Citatos
 
 - id: c-36020
@@ -119,7 +116,8 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34795
+    - t-001
+
 - id: c-171429
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -133,21 +131,15 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
     Alcis (Airis)
     Nepaprastos jėgos milžinas, lietuvių pasakų didvyris. Taip
     pat žinomas iš liaudies padavimo. Tai buvo didvyris klajoklis,
-  citata_rodoma: |
-    Išjos sūnūs: Algirdas (Olgerd,
-    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
-    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais. Trečioji -
-    Jaunė, arba Ieva, taip pat rusė kunigaikštytė, Polocko kuni­
-    gaikščio, mirusios Gedimino žmonos brolio, duktė. Iš jos sū­
-    nūs: Liubartas, gimęs 1299 metais, Jaunutis, gimęs 1301 me­
-    tais, ir Kariotas, gimęs 1306 metais.
+  citata_rodoma: "Išjos sūnūs: Algirdas (Olgerd,\ntai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-\nstut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais. Trečioji -\nJaunė, arba Ieva, taip pat rusė kunigaikštytė, Polocko kuni­\ngaikščio, mirusios Gedimino žmonos brolio, duktė. Iš jos sū­\nnūs: Liubartas, gimęs 1299 metais, Jaunutis, gimęs 1301 me­\ntais, ir Kariotas, gimęs 1306 metais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188540
+    - t-002
+
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Jaunė (Jievna) gyveno [[objektai/vietos/Vilnius]]

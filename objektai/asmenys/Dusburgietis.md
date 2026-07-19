@@ -27,13 +27,52 @@ media_all_json: |-
 
 Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranašautoją, kurios pranašystėmis buvo tikima.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranašautoją, kurios pranašystėmis buvo tikima.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
+    sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
+    garsaus pranašo, kurio teirautasi apie tos šventyklos likimą.
+    Įvairiose vietose gyveno moterų pranašautojų, kurių pra­
+    našystėmis tikėta. Apie vieną iš jų tokį pasakojimą paliko Dus-
+    burgietis.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-173027
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
+    Stenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­
+    simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­
+    mo nekaltai nubaudė vieną žmogų“42.
+    Duomenų apie Antikos sibiles, kurių pranašavimo princi­
+    pai buvo panašūs, skaitytojas ras F. Noelio mitologijos žody­
+    ne43. Kunigas Osinskis išvertė jį pažodžiui į lenkų kalbą.
+  citata_rodoma: "Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­\nsią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta\ngarsaus pranašo, kurio teirautasi apie tos šventyklos likimą.\nĮvairiose vietose gyveno moterų pranašautojų, kurių pra­\nnašystėmis tikėta. Apie vieną iš jų tokį pasakojimą paliko Dus-\nburgietis."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-190144"></a>
 - t-001
-  global_id: t-190144
   teiginys: "Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranašautoją, kurios pranašystėmis buvo tikima."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,7 +88,6 @@ Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranaš
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173027
-    - c-001
 - susijęs iš [[objektai/asmenys/Petras Dusburgietis.md#claim-t-190022|Petras Dusburgietis]]: Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo leidžiama prieiti prie švarinančiais laikytų šaltinių.
 - susijęs iš [[objektai/asmenys/Petras Dusburgietis.md#claim-t-190024|Petras Dusburgietis]]: Narbutas svarsto, kad Petras Dusburgietis galėjo nežinoti, kaip apibūdinti krivį, arba kad jo tekstas apie krivį buvo nepilnas.
 - susijęs iš [[objektai/asmenys/Petras Dusburgietis.md#claim-t-190025|Petras Dusburgietis]]: Narbutas rašo, kad Petras Dusburgietis 1326 metais įteikė savo kroniką didžiajam magistrui, aprašęs prūsų papročius netrukus po Prūsijos užkariavimo.
@@ -80,49 +118,3 @@ Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranaš
 - susijęs iš [[objektai/paprociai/Vyriausiojo žynio pasiuntinių saugus keliavimas su lazda arba ženklu.md#claim-t-189880|Vyriausiojo žynio pasiuntinių saugus keliavimas su lazda arba ženklu]]: Narbutas, remdamasis Dusburgiečiu, vaizduoja vyriausiojo žynio pasiuntinius su krivūle ar ženklu saugiai keliaujančius per lietuvių genties tautų kraštus.
 - susijęs iš [[objektai/zodynas/Krieviai krivičiai gudai.md#claim-t-189226|Krieviai krivičiai gudai]]: Narbutas pateikia Faterio priekaištą, kad Dusburgiečio žinia apie krivį kilo iš rusinų, latviškai vadinamų krieviais, pavadinimo.
 - susijęs iš [[objektai/zodynas/Romovė Romuva Romow.md#claim-t-189140|Romovė Romuva Romow]]: Narbutas teigė, kad paskutiniais stabmeldystės amžiais Romovių būta keliose vietose ir jose gyveno atskiri kriviai.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranašautoją, kurios pranašystėmis buvo tikima.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
-    sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
-    garsaus pranašo, kurio teirautasi apie tos šventyklos likimą.
-    Įvairiose vietose gyveno moterų pranašautojų, kurių pra­
-    našystėmis tikėta. Apie vieną iš jų tokį pasakojimą paliko Dus-
-    burgietis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190144
-## Citatos
-
-- id: c-173027
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
-    Stenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­
-    simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­
-    mo nekaltai nubaudė vieną žmogų“42.
-    Duomenų apie Antikos sibiles, kurių pranašavimo princi­
-    pai buvo panašūs, skaitytojas ras F. Noelio mitologijos žody­
-    ne43. Kunigas Osinskis išvertė jį pažodžiui į lenkų kalbą.
-  citata_rodoma: |
-    Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
-    sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
-    garsaus pranašo, kurio teirautasi apie tos šventyklos likimą.
-    Įvairiose vietose gyveno moterų pranašautojų, kurių pra­
-    našystėmis tikėta. Apie vieną iš jų tokį pasakojimą paliko Dus-
-    burgietis.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190144

@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-31477"></a>
 - t-001
-  global_id: t-31477
   teiginys: "Apie 1263-1264 m. Treniota nužudė sosto varžovą Tautvilą, o Tautvilo sūnus pabėgo į Didįjį Naugardą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31477
+    - t-001

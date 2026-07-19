@@ -39,7 +39,6 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
 
 <a id="claim-t-23389"></a>
 - t-001
-  global_id: t-23389
   teiginys: "Po Mikalojaus Radvilos Juodojo 1553 m. Brastoje įkurtos spaustuvės po dešimtmečio pasirodė „Brastos Biblija“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
 
 <a id="claim-t-23390"></a>
 - t-002
-  global_id: t-23390
   teiginys: "Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų kalbą, nes ji būtų suprantama liaudžiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,7 +99,8 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23389
+    - t-001
+
 - id: c-75422
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -128,4 +127,4 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23390
+    - t-002

@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-193476"></a>
 - t-001
-  global_id: t-193476
   teiginys: "Sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-196224"></a>
 - t-002
-  global_id: t-196224
   teiginys: "Kojelavičiaus aiškinimu, Mindaugas po žygio į Prūsiją kurstė prūsus atsimesti nuo kryžiuočių ir, pasiuntęs žemaičių karių, vėl sukėlė karą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -75,40 +73,28 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    105
-
-    ## Puslapis 104
-
-    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
-    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
-    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
-    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
-    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
-    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
-    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
-    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
-    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
-  citata_rodoma: |
-    105
-
-    ## Puslapis 104
-
-    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
-    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
-    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
-    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
-    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
-    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
-    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
-    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
-    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
+    Ka­
+    dangi miestą gynė rinktinių karių įgula, apsuptis
+    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
+    rasta daug be galo narsių karių, kurie tiltu per Prieg­
+    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
+    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
+    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
+    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
+    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
+    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
+    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
+    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
+    kerštą.
+  citata_rodoma: "105\n\n## Puslapis 104\n\nbėgti; Saksonijos riteris Gebhardas, pavijęs to būrio\npaskutinę eilę, kalaviju nukirto vienam raiteliui gal­\nvą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­\nsusvyravęs daugelį varstų, nesitraukdamas iš bėgan­\nčiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus\npo to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė\nbuvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,\nnusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­\ntas, čekų karaliaus Otokaro visai neseniai įkurtas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193476
+    - t-001
+
 - id: c-178585
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -132,4 +118,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196224
+    - t-002

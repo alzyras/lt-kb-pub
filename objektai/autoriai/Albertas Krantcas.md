@@ -32,7 +32,6 @@ Narbutas rašė, kad Albertas Krantcas neneigė visą laiką žaliavusio švento
 
 <a id="claim-t-190380"></a>
 - t-001
-  global_id: t-190380
   teiginys: "Narbutas rašė, kad Albertas Krantcas neneigė visą laiką žaliavusio šventojo medžio, bet teigė, jog jo rūšies niekas negalėjo nustatyti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas rašė, kad Albertas Krantcas neneigė visą laiką žaliavusio švento
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190380
+    - t-001

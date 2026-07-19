@@ -32,7 +32,6 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
 
 <a id="claim-t-186161"></a>
 - t-001
-  global_id: t-186161
   teiginys: "Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų vežimų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -70,19 +69,11 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
     ku būdu negalįs kelti pasišlykštėjimo, anaiptol, busimo­
     sios kartos jį šlovinsiančios, nes šiuo veiksmu bus
     išgelbėti nekalti piliečiai ir išvaduota tėvynė.
-  citata_rodoma: |
-    Šven­
-    tės išvakarėse daugybė ginkluotų vyrų, pasislėpusių
-    trijuose šimtuose šieno pakrautų vežimų, atvažiavo
-    prietemoje į pilį. Paaiškinęs, jog netrukus visai sutems,
-    Skabeika jiems tą vakarą neleido išlipti iš vežimų. Ne­
-    norėdami, kad kiltų koks įtarimas, staiga visu būriu
-    jiems čia pasirodžius, sąmokslininkai, vieno kito savo
-    patikimo kario lydimi, sujojo į miestą skirtingais keliais.
+  citata_rodoma: "Šven­\ntės išvakarėse daugybė ginkluotų vyrų, pasislėpusių\ntrijuose šimtuose šieno pakrautų vežimų, atvažiavo\nprietemoje į pilį. Paaiškinęs, jog netrukus visai sutems,\nSkabeika jiems tą vakarą neleido išlipti iš vežimų. Ne­\nnorėdami, kad kiltų koks įtarimas, staiga visu būriu\njiems čia pasirodžius, sąmokslininkai, vieno kito savo\npatikimo kario lydimi, sujojo į miestą skirtingais keliais."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186161
+    - t-001

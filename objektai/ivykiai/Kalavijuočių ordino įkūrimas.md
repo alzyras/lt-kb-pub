@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-66584"></a>
 - t-001
-  global_id: t-66584
   teiginys: "Vyskupas Albertas 1202 m. įkūrė ordiną, kurį 1204 m. popiežius patvirtino ir kuriam suteikė templininkų įstatus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-66585"></a>
 - t-002
-  global_id: t-66585
   teiginys: "Kalavijuočių ordinas turėjo tapti nuolatine organizuota vokiečių ir krikštytų čiabuvių karine pajėga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,8 +65,7 @@ Nenurodyta
     - c-66788
 
 <a id="claim-t-66586"></a>
-- t-003
-  global_id: t-66586
+- t-004
   teiginys: "Vos įsikūręs Kalavijuočių ordinas pradėjo vaduotis iš vyskupo priklausomybės ir gavo trečdalį užimto krašto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +74,7 @@ Nenurodyta
     - c-66787
 
 <a id="claim-t-66587"></a>
-- t-004
-  global_id: t-66587
+- t-003
   teiginys: "Kalavijuočių ordinas turėjo ginti krikščionis, padėti atversti pagonis ir veikti kaip kraštą valdžiusio vyskupo įrankis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,17 +93,15 @@ Nenurodyta
     nas. Jo pareiga buvo ginti krikščionys ir padėti atversti pagonys.
     Jis buvo pavestas vyskupui, kurs turėjo valdyti kraštą; ordinas
     turėjo būti tiktai jo įrankis.
-  citata_rodoma: |
-    Jo pareiga buvo ginti krikščionys ir padėti atversti pagonys.
-    Jis buvo pavestas vyskupui, kurs turėjo valdyti kraštą; ordinas
-    turėjo būti tiktai jo įrankis.
+  citata_rodoma: "Jo pareiga buvo ginti krikščionys ir padėti atversti pagonys.\nJis buvo pavestas vyskupui, kurs turėjo valdyti kraštą; ordinas\nturėjo būti tiktai jo įrankis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66587
+    - t-003
+
 - id: c-66787
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -125,7 +119,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66586
+    - t-004
+
 - id: c-66788
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -142,7 +137,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66585
+    - t-002
+
 - id: c-66789
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -160,4 +156,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66584
+    - t-001

@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201305"></a>
 - t-001
-  global_id: t-201305
   teiginys: "Vieni vokyčiai paliko be žibą rindoj savo plieno ir vario šarvose, vildamies, jog žemaičiai, pamatę plienu žirgus ir pačius ap dengtus, nedrįs ant jų pulti, būdami patys viena meškena prisidengę."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184655
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vieni vokyčiai paliko be­
     žibą rindoj savo plieno ir vario šarvose, vildamies,
@@ -82,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201305
+    - t-001

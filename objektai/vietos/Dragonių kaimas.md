@@ -31,7 +31,6 @@ Pirmiausia buvo pulta viena vietinių vyrų, daugiausia iš Dragonių k.
 
 <a id="claim-t-41687"></a>
 - t-001
-  global_id: t-41687
   teiginys: "Pirmiausia buvo pulta vietinių vyrų stovykla, kurios dauguma buvo iš Dragonių kaimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,18 +60,11 @@ Pirmiausia buvo pulta viena vietinių vyrų, daugiausia iš Dragonių k.
     į kautynes įsitraukė ir Žaliosios rinktinės
     Aušros (vadas Ignas Gasčiūnas- Artojas)
     būrys.
-  citata_rodoma: |
-    Pirmiausia buvo pulta viena vietinių vyrų,
-    daugiausia iš Dragonių k. stovykla, o pasi-
-    girdus šūviams į pagalbą metėsi kaimynys-
-    tėje stovyklavę partizanų būriai. Tuojau pat
-    į kautynes įsitraukė ir Žaliosios rinktinės
-    Aušros (vadas Ignas Gasčiūnas- Artojas)
-    būrys.
+  citata_rodoma: "Pirmiausia buvo pulta viena vietinių vyrų,\ndaugiausia iš Dragonių k. stovykla, o pasi-\ngirdus šūviams į pagalbą metėsi kaimynys-\ntėje stovyklavę partizanų būriai. Tuojau pat\nį kautynes įsitraukė ir Žaliosios rinktinės\nAušros (vadas Ignas Gasčiūnas- Artojas)\nbūrys."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41687
+    - t-001

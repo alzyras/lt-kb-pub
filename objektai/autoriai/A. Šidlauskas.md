@@ -39,9 +39,8 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
 
 ## Teiginiai
 
-<a id="claim-t-97148"></a>
-- t-001
-  global_id: t-97148
+<a id="claim-t-97146"></a>
+- t-003
   teiginys: "A. Šidlauskas nagrinėjo mokyklų reformą Lietuvoje XVIII a. pabaigoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
 
 <a id="claim-t-97147"></a>
 - t-002
-  global_id: t-97147
   teiginys: "A. Šidlauskas kartu su J. Jurginiu parengė 1983 m. Vilniuje išleistą rinkinį „Kraštas ir žmonės“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus parengėjo vaidmenį ir leidinio duomenis."
   pagrindžia:
     - c-91657
-    - c-002
 - susijęs iš [[objektai/autoriai/S. Matulaitytė.md#claim-t-30970|S. Matulaitytė]]: S. Matulaitytė rašė apie astronomijos mokslo įvedimą Vilniaus universitete XVIII a. ir astronomijos observatorijos įsteigimą.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179533|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: A. Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje.
 ## Reikšmingi paminėjimai
@@ -90,8 +87,7 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-97147
+
 ## Citatos
 
 - id: c-30442
@@ -106,19 +102,15 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
     (AkMD, t. 13, 1962, 37-56 p.), į kovą dėl gamtos mokslų įvedimo
     (AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius
     (AkMD, t. 12, sąs. 2, 1972).
-  citata_rodoma: |
-    A. Šidlauskas
-    atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje
-    (AkMD, t. 13, 1962, 37-56 p.), į kovą dėl gamtos mokslų įvedimo
-    (AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius
-    (AkMD, t. 12, sąs. 2, 1972).
+  citata_rodoma: "A. Šidlauskas\natkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje\n(AkMD, t. 13, 1962, 37-56 p.), į kovą dėl gamtos mokslų įvedimo\n(AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius\n(AkMD, t. 12, sąs. 2, 1972)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97148
+    - t-003
+
 - id: c-91657
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -127,13 +119,11 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
     97—114.
     Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /
     Parengė J. Jurginis ir A. Šidlauskas.—V., 1983.
-  citata_rodoma: |
-    Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /
-    Parengė J. Jurginis ir A. Šidlauskas.—V., 1983.
+  citata_rodoma: "Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /\nParengė J. Jurginis ir A. Šidlauskas.—V., 1983."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97147
+    - t-002

@@ -39,7 +39,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 
 <a id="claim-t-60477"></a>
 - t-001
-  global_id: t-60477
   teiginys: "Živinbudo, kaip manoma, valdoma priešmindauginė Lietuva 1219 m. sudarė sutartį su Volyne."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 
 <a id="claim-t-184901"></a>
 - t-002
-  global_id: t-184901
   teiginys: "Živinbudas buvo įsūnytas kaip įpėdinis, vedė Pajautą ir kaip kraitį gavo Lietuvos kunigaikštystę."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -83,8 +81,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - c-168262
 
 <a id="claim-t-184904"></a>
-- t-003
-  global_id: t-184904
+- t-005
   teiginys: "Ligos kamuojamas Živinbudas, išgirdęs apie pergalę ir pamatęs sūnų Kukovaitį, perdavė jam valdžią."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -106,10 +103,9 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - c-168265
 
 <a id="claim-t-193415"></a>
-- t-004
-  global_id: t-193415
+- t-006
   teiginys: "Živinbudas susirgo ir pasimirė, vyras, kuris pelnytai priskirtinas prie žymiausių Lietuvos didvyrių."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -119,8 +115,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - c-176137
 
 <a id="claim-t-194022"></a>
-- t-005
-  global_id: t-194022
+- t-007
   teiginys: "Lietuvos metraštyje Živinbudas vadinamas Lietuvos ir Žemaičių didžiuoju kunigaikščiu, po kurio mirties sostą perėmė jo sūnus Kukovaitis."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -153,19 +148,15 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
     1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
     ir prūsų kraštą.
-  citata_rodoma: |
-    Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus
-    žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,
-    Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
-    1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
-    ir prūsų kraštą.
+  citata_rodoma: "Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus\nžygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,\nŽivinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)\n1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti\nir prūsų kraštą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60477
+    - t-001
+
 - id: c-168262
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -187,27 +178,15 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     džiulę spragą. Ją vis dėlto anie rašytojai nejučiomis
     apėjo, nepaisydami nė to, kad šis tarpsnis atskyrė tėvą
     nuo sūnų, o tiesioginį įpėdinį nuo jo protėvių.
-  citata_rodoma: |
-    Galbūt šitaip ir bū­
-    tų atsitikę, jeigu, jam mirus,
-    1089 m eta i
-    būtų prasidėjęs tarpuvaldis:
-    mat neturėjo jis sūnaus —
-    savo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs
-    jiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš
-    Julijono Dausprungo palikuonių, pajėgų valdyti jauni­
-    kaitį, netrukus jam į žmonas atidavė vienturtę dukterį
-    Pajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai
-    pasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­
-    tas (kaip tais laikais derėjo) ir ant aukštos kalvos prie
-    Deltuvos palaidotas.
+  citata_rodoma: "Galbūt šitaip ir bū­\ntų atsitikę, jeigu, jam mirus,\n1089 m eta i\nbūtų prasidėjęs tarpuvaldis:\nmat neturėjo jis sūnaus —\nsavo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs\njiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš\nJulijono Dausprungo palikuonių, pajėgų valdyti jauni­\nkaitį, netrukus jam į žmonas atidavė vienturtę dukterį\nPajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai\npasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­\ntas (kaip tais laikais derėjo) ir ant aukštos kalvos prie\nDeltuvos palaidotas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184901
+    - t-002
+
 - id: c-168265
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -245,28 +224,15 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     pjaustyti nosis bei ausis; šitaip sudarkyti, jie turėję
     pranešti kunigaikščiui: „Tegu galop liaujasi skitai lie­
     tuviams kalbėję apie duoklę.
-  citata_rodoma: |
-    Grėsminga tebuvo šiaurė, tačiau
-    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
-    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
-    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
-    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
-    Rusią. Karą prieš Skirmantą susimanė rengti Balakla-
-    jus, naujas Užvolgio skitų kunigaikštis, galimas daib-
-    tas, norėdamas išdildyti pri-
-    S k irm a n ta s su m u ša
-    siminimus apie pralaimėjimą,
-    sk itu s
-    patirtą prieš keletą metų;
-    teisėtos priežasties, jis išleido pasiuntinius, turėjusius
-    pareikalauti iš Rusios duoklės.
+  citata_rodoma: "Grėsminga tebuvo šiaurė, tačiau \ntos pusės saugumą laidavo tai, kad vokiečiai ir latviai, \nįsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti \nLietuvos. Todėl, būdamas ramus dėl vidaus reikalų, \nKukovaitis galėjo siųsti didesnę pagalbą Skirmantui į \nRusią. Karą prieš Skirmantą susimanė rengti Balakla- \njus, naujas Užvolgio skitų kunigaikštis, galimas daib-\ntas, norėdamas išdildyti pri- \nS k irm a n ta s su m u ša \nsiminimus apie pralaimėjimą,\nsk itu s \npatirtą prieš keletą metų;\nteisėtos priežasties, jis išleido pasiuntinius, turėjusius \npareikalauti iš Rusios duoklės."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184904
+    - t-005
+
 - id: c-176137
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -303,31 +269,15 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     apeigomis,
     ir
     valstybine santvarka.
-  citata_rodoma: |
-    Atleidęs
-    pasiuntinius, įsakė juos klyst-
-    82
-
-    ## Puslapis 81
-
-    itin reikšminga, nes rusai vėliau ėmė rodyti lietuvių
-    valdovui ne tik didesnę pagarbą bei palankumą, bet
-    ir pastovesnę ištikimybę. Tuo pat metu miręs Vykin­
-    tas, Žemaitijos kunigaikštis, paliko savo įpėdiniu bro­
-    lį Erdvilą, tačiau šis, manydamas, jog vieno valdovo
-    per maža skirtingoms valstybėms, kaip per maža vie­
-    nos sielos į dvi dalis padalytam kūnui, be to, norėda­
-    mas atsiteisti už pagalbą, kurios neseniai sulaukė, per­
-    leido Živinbudui visas teises į Žemaitiją. Tačiau neilgai
-    trukus jis susirgo ir pasimirė, vyras, kuris pelnytai
-    priskirtinas prie žymiausių Lietuvos didvyrių.
+  citata_rodoma: "Atleidęs\npasiuntinius, įsakė juos klyst-\n82\n\n## Puslapis 81\n\nitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių\nvaldovui ne tik didesnę pagarbą bei palankumą, bet\nir pastovesnę ištikimybę. Tuo pat metu miręs Vykin­\ntas, Žemaitijos kunigaikštis, paliko savo įpėdiniu bro­\nlį Erdvilą, tačiau šis, manydamas, jog vieno valdovo\nper maža skirtingoms valstybėms, kaip per maža vie­\nnos sielos į dvi dalis padalytam kūnui, be to, norėda­\nmas atsiteisti už pagalbą, kurios neseniai sulaukė, per­\nleido Živinbudui visas teises į Žemaitiją. Tačiau neilgai\ntrukus jis susirgo ir pasimirė, vyras, kuris pelnytai\npriskirtinas prie žymiausių Lietuvos didvyrių."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193415
+    - t-006
+
 - id: c-176647
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -354,7 +304,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194022
+    - t-007
+
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Pajauta]]
 - Sutuoktiniai: [[objektai/asmenys/Pajauta]]

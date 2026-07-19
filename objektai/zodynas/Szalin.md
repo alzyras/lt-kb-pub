@@ -44,13 +44,51 @@ vietovardžio etimologijoje vartotas lietuviškas žodis.
 
 tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti atsargiai.
 
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Salavija {Szalamonia). Pavadinimas kilęs iš lietuviško
+    žodžio Szalin, nes ji buvo laikoma toliausiai į šiaurę ply­
+    tinčia žeme. Salavija nebuvo tikra prūsų lygos provincija,
+    nes jai priklausė Rusia.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- t-192578
+
+## Citatos
+
+- id: c-175073
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Salavija nebuvo tikra prūsų lygos provincija,
+    nes jai priklausė Rusia. Tačiau, kai joje dar prieš bendrą
+    prūsų tautos žlugimą įvyko politinių pokyčių, ten apsi­
+    gyveno kryžiuočių, daugiausia iš Lietuvos atsikėlusių
+    žmonių, dėl to ją ligi šiol vadina prūsų Lietuva. Jos sos­
+    to arba svarbesnė pilis buvo Salava, be to, manoma,
+    kad Tilžės apylinkėse.
+  citata_rodoma: "Pavadinimas kilęs iš lietuviško\nžodžio Szalin, nes ji buvo laikoma toliausiai į šiaurę ply­\ntinčia žeme."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+    - t-003
+
 ## Teiginiai
 
 <a id="claim-t-192221"></a>
-- t-001
-  global_id: t-192221
+- t-002
   teiginys: "Narbuto aiškinimu, Szalin siejamas su Salavija, nes ši buvo laikoma toliausiai į šiaurę plytinčia žeme."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "priklause -> Salavija: 0.92"
@@ -65,12 +103,11 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175073
-    - c-001
+
 <a id="claim-t-192578"></a>
-- t-002
-  global_id: t-192578
+- t-003
   teiginys: "Narbuto aiškinimu, Salavijos pavadinimas kilo iš lietuviško žodžio Szalin, nes ji laikyta toliausiai į šiaurę plytinčia žeme."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -87,46 +124,3 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175073
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Salavija {Szalamonia). Pavadinimas kilęs iš lietuviško
-    žodžio Szalin, nes ji buvo laikoma toliausiai į šiaurę ply­
-    tinčia žeme. Salavija nebuvo tikra prūsų lygos provincija,
-    nes jai priklausė Rusia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192221
-    - t-192578
-## Citatos
-
-- id: c-175073
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Salavija nebuvo tikra prūsų lygos provincija,
-    nes jai priklausė Rusia. Tačiau, kai joje dar prieš bendrą
-    prūsų tautos žlugimą įvyko politinių pokyčių, ten apsi­
-    gyveno kryžiuočių, daugiausia iš Lietuvos atsikėlusių
-    žmonių, dėl to ją ligi šiol vadina prūsų Lietuva. Jos sos­
-    to arba svarbesnė pilis buvo Salava, be to, manoma,
-    kad Tilžės apylinkėse.
-  citata_rodoma: |
-    Pavadinimas kilęs iš lietuviško
-    žodžio Szalin, nes ji buvo laikoma toliausiai į šiaurę ply­
-    tinčia žeme.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192221
-    - t-192578

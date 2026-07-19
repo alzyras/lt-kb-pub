@@ -31,7 +31,6 @@ Dabar Lie­ tuvos totoriai praturtėję, iš tiesų visi tarnauja kariuomenėje,
 
 <a id="claim-t-86620"></a>
 - t-001
-  global_id: t-86620
   teiginys: "Lietuvos totoriai tarnavo specialiuose raitininkų pulkuose, vadinamuose totorių ulonų pulkais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Dabar Lie­ tuvos totoriai praturtėję, iš tiesų visi tarnauja kariuomenėje,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86620
+    - t-001

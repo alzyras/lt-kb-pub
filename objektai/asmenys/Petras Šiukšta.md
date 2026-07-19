@@ -8,13 +8,13 @@ datos:
   - '1668 m.'
 date_start: '1588'
 date_end: '1668'
-sukurta: ''
-atnaujinta: ''
+periodo_grupes:
+  - 'LDK'
 amziai:
   - 'XVI'
   - 'XVII'
-periodo_grupes:
-  - 'LDK'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-202197"></a>
 - t-001
-  global_id: t-202197
   teiginys: "1589 m. Zigmantas Vaza paskyrė Stanislovą Dziatkovskį Kauno pavieto stalininku, o Petrą Šiukštą - pastalininkiu."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202197
+    - t-001

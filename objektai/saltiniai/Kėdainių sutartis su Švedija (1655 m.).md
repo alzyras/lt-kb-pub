@@ -38,9 +38,8 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-101549"></a>
-- t-001
-  global_id: t-101549
+<a id="claim-t-101548"></a>
+- t-002
   teiginys: "Lietuvos magnatai 1655 m. sudarė Kėdainių sutartį su Švedija, tačiau švedams Lietuvoje įsitvirtinti nepavyko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,16 +73,11 @@ media_all_json: |-
     nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
     Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
     teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
-  citata_rodoma: |
-    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
-    87
-    1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
-    Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-
-    čiau švedams įsitvirtinti Lietuvoje nepavyko.
+  citata_rodoma: "2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S\n87\n1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o \nLietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-\nčiau švedams įsitvirtinti Lietuvoje nepavyko."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101549
+    - t-002

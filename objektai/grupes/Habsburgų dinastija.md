@@ -37,7 +37,6 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 
 <a id="claim-t-19699"></a>
 - t-001
-  global_id: t-19699
   teiginys: "XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija buvo pagrindinė Habsburgų dinastijos konkurentė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,12 +69,11 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
     je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus. Taigi,
     šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
     jogailaičių dinastija – pagrindine Habsburgų dinastijos konkurente.
-  citata_rodoma: |
-    je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus. Taigi,
+  citata_rodoma: "je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus. Taigi,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19699
+    - t-001

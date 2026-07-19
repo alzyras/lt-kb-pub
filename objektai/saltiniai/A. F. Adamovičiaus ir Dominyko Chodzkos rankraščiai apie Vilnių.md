@@ -31,7 +31,6 @@ Tačiau jaučiame pareigą pasakyti, kad, be žinomų ir labai mums brangių Kra
 
 <a id="claim-t-88404"></a>
 - t-001
-  global_id: t-88404
   teiginys: "Rengiant Vilniaus istoriją naudotasi A. F. Adamovičiaus ir Dominyko Chodzkos sukauptais rankraščiais, užrašais ir asmeninėmis pastabomis apie Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Tačiau jaučiame pareigą pasakyti, kad, be žinomų ir labai mums brangių Kra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88404
+    - t-001

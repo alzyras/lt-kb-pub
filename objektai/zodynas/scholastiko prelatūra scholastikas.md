@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-86617"></a>
 - t-001
-  global_id: t-86617
   teiginys: "1522 m. Vilniaus vyskupas Jonas prie katedros įkūrė penktąją scholastiko prelatūrą, nes scholastikas turėjo išlaikyti Katedros mokyklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86617
+    - t-001

@@ -40,8 +40,7 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
 ## Teiginiai
 
 <a id="claim-t-63883"></a>
-- t-001
-  global_id: t-63883
+- t-003
   teiginys: "Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,9 +57,8 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
 
 <a id="claim-t-63884"></a>
 - t-002
-  global_id: t-63884
   teiginys: "Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -75,8 +73,7 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
     - c-64806
 
 <a id="claim-t-196548"></a>
-- t-003
-  global_id: t-196548
+- t-004
   teiginys: "Liudvikas visas savo teises į Rusią buvo perleidęs Kazimierui ir lenkams."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -88,8 +85,7 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
     - c-178757
 
 <a id="claim-t-196550"></a>
-- t-004
-  global_id: t-196550
+- t-006
   teiginys: "Po karaliaus Liudviko mirties vengrai pardavė Liubartui Oleską, Kremenecą, Horodlę, Lopatiną ir Sniatiną."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -177,17 +173,15 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
     Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
     įpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
     kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai.
-  citata_rodoma: |
-    Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
-    įpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
-    kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai.
+  citata_rodoma: "Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno\nįpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­\nkijos — paskirti savo dviem dukterim: Jadvygai ir Marijai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63884
+    - t-002
+
 - id: c-36431
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -200,19 +194,15 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
     Liudvikas norėjo tą žemę prijungti prie Vengrijos, tai Vladis­
     lovą iš čia pavarė: jam už tai davė Valdyti Kujaviją, esančią
     kitame Vislos krante priešais Dobrynę.
-  citata_rodoma: |
-    Tas pats Vladislovas buvo paskirtas
-    Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją. Kadangi
-    Liudvikas norėjo tą žemę prijungti prie Vengrijos, tai Vladis­
-    lovą iš čia pavarė: jam už tai davė Valdyti Kujaviją, esančią
-    kitame Vislos krante priešais Dobrynę.
+  citata_rodoma: "Tas pats Vladislovas buvo paskirtas\nLenkų ir Vengrų karaliaus Liudviko valdyti Galiciją. Kadangi\nLiudvikas norėjo tą žemę prijungti prie Vengrijos, tai Vladis­\nlovą iš čia pavarė: jam už tai davė Valdyti Kujaviją, esančią\nkitame Vislos krante priešais Dobrynę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63883
+    - t-003
+
 - id: c-64806
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -225,16 +215,15 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
     niekam nereikėjo.
     Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
     įpėdinio.
-  citata_rodoma: |
-    Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
-    įpėdinio.
+  citata_rodoma: "Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno\nįpėdinio."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63884
+    - t-002
+
 - id: c-178757
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -264,7 +253,8 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196548
+    - t-004
+
 - id: c-178759
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -300,4 +290,4 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196550
+    - t-006

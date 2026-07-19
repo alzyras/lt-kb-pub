@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-86868"></a>
 - t-001
-  global_id: t-86868
   teiginys: "Formulė „oculi post dominicam“ 1380 m. paliaubų dokumente žymėjo artimiausią šiokiadienį, tai yra kovo 26-ąją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86868
+    - t-001

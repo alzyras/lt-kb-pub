@@ -31,7 +31,6 @@ Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvauj
 
 <a id="claim-t-193283"></a>
 - t-001
-  global_id: t-193283
   teiginys: "Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvaujant visiems abiejų valstybių bajorams."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvauj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193283
+    - t-001

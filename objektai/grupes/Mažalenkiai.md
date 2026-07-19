@@ -31,7 +31,6 @@ Bet iš kitos pusės, susitikimas su mažalenkiais galėjo jį įtikinti, kad Le
 
 <a id="claim-t-35743"></a>
 - t-001
-  global_id: t-35743
   teiginys: "Vytauto susitikimas su mažalenkiais, autoriaus vertinimu, galėjo įtikinti Vytautą, kad Lenkija neišsižadės naudos iš Lietuvos susilpnėjimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,17 +62,11 @@ Bet iš kitos pusės, susitikimas su mažalenkiais galėjo jį įtikinti, kad Le
     suardytų uniją, jų siekimų tikslą, nes netikėjo, kad Jogaila, bū­
     damas Lietuvoj d. kunigaikščiu, paklustų kokiam nors kitam jų
     karaliui.
-  citata_rodoma: |
-    Bet iš kitos pusės, susitikimas su mažalenkiais galėjo jį
-    įtikinti, kad Lenkija neišsižadės ir dabar tos naudos, kurią jai
-    galėjo suteikti Lietuvos susilpnėjimas. Todėl lenkai ir šį kartą
-    buvo gudrūs: jie gerai žinojo, kad Jogailos grįžimas į Lietuvą
-    suardytų uniją, jų siekimų tikslą, nes netikėjo, kad Jogaila, bū­
-    damas Lietuvoj d.
+  citata_rodoma: "Bet iš kitos pusės, susitikimas su mažalenkiais galėjo jį\nįtikinti, kad Lenkija neišsižadės ir dabar tos naudos, kurią jai\ngalėjo suteikti Lietuvos susilpnėjimas. Todėl lenkai ir šį kartą\nbuvo gudrūs: jie gerai žinojo, kad Jogailos grįžimas į Lietuvą\nsuardytų uniją, jų siekimų tikslą, nes netikėjo, kad Jogaila, bū­\ndamas Lietuvoj d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35743
+    - t-001

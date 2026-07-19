@@ -36,7 +36,6 @@ Brennanas Thomasas 1989 m. žurnale „Journal of Social History“ paskelbė st
 
 <a id="claim-t-200742"></a>
 - t-001
-  global_id: t-200742
   teiginys: "Brennanas Thomasas 1989 m. žurnale „Journal of Social History“ paskelbė straipsnį „Towards the Cultural History of Alcohol in France“."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,5 @@ Brennanas Thomasas 1989 m. žurnale „Journal of Social History“ paskelbė st
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200742
+    - t-001

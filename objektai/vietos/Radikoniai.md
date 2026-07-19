@@ -31,7 +31,6 @@ Kairioji vora puolimą pradėjo ## Puslapis 183 sėkmingai, tačiau ties Radikon
 
 <a id="claim-t-42075"></a>
 - t-001
-  global_id: t-42075
   teiginys: "Ties Radikonių dvaru kairioji vora sutiko stiprų bolševikų pasipriešinimą, per kurį žuvo kolonos vadas karininkas J. Nastopka."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,20 +63,11 @@ Kairioji vora puolimą pradėjo ## Puslapis 183 sėkmingai, tačiau ties Radikon
     kurio metu žuvo kolonos vadas karin.
 
     J. Nastopka.
-  citata_rodoma: |
-    Kairioji vora puolimą pradėjo
-
-    ## Puslapis 183
-
-    sėkmingai, tačiau ties Radikonių dvaru
-    sutiko stiprų bolševikų pasipriešinimą,
-    kurio metu žuvo kolonos vadas karin.
-
-    J.
+  citata_rodoma: "Kairioji vora puolimą pradėjo\n\n## Puslapis 183\n\nsėkmingai, tačiau ties Radikonių dvaru\nsutiko stiprų bolševikų pasipriešinimą,\nkurio metu žuvo kolonos vadas karin.\n\nJ."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42075
+    - t-001

@@ -38,8 +38,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 ## Teiginiai
 
 <a id="claim-t-69238"></a>
-- t-001
-  global_id: t-69238
+- t-004
   teiginys: "Dalis lietuvių inteligentijos iškeliavo į Vakarus arba į Sibirą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - c-68626
 
 <a id="claim-t-69239"></a>
-- t-002
-  global_id: t-69239
+- t-001
   teiginys: "Sovietų Sąjunga vykdė masines deportacijas iš Lietuvos į Sibirą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,28 +74,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   pagrindžia:
     - c-68627
 
-<a id="claim-t-69240"></a>
-- t-003
-  global_id: t-69240
-  teiginys: "Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sibiras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sibiras\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1941 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-68625
-
 <a id="claim-t-69241"></a>
-- t-004
-  global_id: t-69241
+- t-003
   teiginys: "Represinės institucijos trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -149,15 +127,15 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
     miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
     čia užkasdavo pelkėse ar šiukšlynuose.
-  citata_rodoma: |
-    zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių
+  citata_rodoma: "zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69241
+    - t-003
+
 - id: c-68625
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -170,15 +148,13 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     lumą) ir kiti. Suimtieji paskelbti už įstatymo ribų, jų turtas konfiskuotas.
     Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais
     nusikaltimais asmenys.
-  citata_rodoma: |
-    Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais
+  citata_rodoma: "Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-69240
 - id: c-68626
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -186,15 +162,15 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   citata_originali: |
     Tad lietuvių inteligentija
     iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...
-  citata_rodoma: |
-    iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...
+  citata_rodoma: "iškeliavo dviem kryptimis – į Vakarus ar į Sibirą..."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69238
+    - t-004
+
 - id: c-68627
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -207,15 +183,15 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
     nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
     o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
-  citata_rodoma: |
-    didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
+  citata_rodoma: "didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69239
+    - t-001
+
 - id: c-167027
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -240,3 +216,5 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

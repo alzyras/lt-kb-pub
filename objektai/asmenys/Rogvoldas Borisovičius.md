@@ -39,7 +39,6 @@ Kunigaikštis Rostislavas, kunigaikščio Rogvoldo Borisovičiaus sūnus.
 
 <a id="claim-t-87846"></a>
 - t-001
-  global_id: t-87846
   teiginys: "Rogvoldas Borisovičius buvo Polocko Riuriko giminės kunigaikščio Rostislavo tėvas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,16 +67,11 @@ Kunigaikštis Rostislavas, kunigaikščio Rogvoldo Borisovičiaus sūnus.
     niuje, Polocko dalinėje valdoje, buvo Riuriko giminės ku­
     nigaikščiai, Rodosłownik'e nurodyti: I. Kunigaikštis Rostis-
     lavas, kunigaikščio Rogvoldo Borisovičiaus sūnus. II.
-  citata_rodoma: |
-    C t.  FIeTep6yprb 1793 roAa 8vo)
-    tariamų Lietuvos kunigaikščių kilmė aiškinama taip: „Vil­
-    niuje, Polocko dalinėje valdoje, buvo Riuriko giminės ku­
-    nigaikščiai, Rodosłownik'e nurodyti: I. Kunigaikštis Rostis-
-    lavas, kunigaikščio Rogvoldo Borisovičiaus sūnus.
+  citata_rodoma: "C t.  FIeTep6yprb 1793 roAa 8vo) \ntariamų Lietuvos kunigaikščių kilmė aiškinama taip: „Vil­\nniuje, Polocko dalinėje valdoje, buvo Riuriko giminės ku­\nnigaikščiai, Rodosłownik'e nurodyti: I. Kunigaikštis Rostis- \nlavas, kunigaikščio Rogvoldo Borisovičiaus sūnus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87846
+    - t-001

@@ -38,10 +38,9 @@ Tiksli Naujųjų Trakų, kaip ir Senųjų Trakų, įkūrimo data nurodoma kaip n
 ## Teiginiai
 
 <a id="claim-t-187269"></a>
-- t-001
-  global_id: t-187269
+- t-002
   teiginys: "Tiksli Naujųjų Trakų, kaip ir Senųjų Trakų, įkūrimo data nurodoma kaip nežinoma."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Trakai: 0.85"
@@ -60,8 +59,7 @@ Tiksli Naujųjų Trakų, kaip ir Senųjų Trakų, įkūrimo data nurodoma kaip n
     - c-170322
 
 <a id="claim-t-188777"></a>
-- t-002
-  global_id: t-188777
+- t-003
   teiginys: "Narbutas pasakojo, kad Kęstutis Birutę prieš jos valią išsivežė į Naujuosius Trakus ir ten vedė kaip žmoną."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -95,15 +93,15 @@ Tiksli Naujųjų Trakų, kaip ir Senųjų Trakų, įkūrimo data nurodoma kaip n
     Goštautas Goštautaitis, toliau vadinamas Petru Goštautu ir lai­
     komas Podolės Kameneco valdytoju Algirdo laikais, iš kitų šalti­
     nių nežinomas.
-  citata_rodoma: |
-    Tiksli N aujųjų Trakų (kaip ir Senųjų) įkūrimo data nežinoma
+  citata_rodoma: "Tiksli N aujųjų Trakų (kaip ir Senųjų) įkūrimo data nežinoma"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187269
+    - t-002
+
 - id: c-171666
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -122,22 +120,11 @@ Tiksli Naujųjų Trakų, kaip ir Senųjų Trakų, įkūrimo data nurodoma kaip n
     beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
     tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
     minimo ir garbinimo apeigos.
-  citata_rodoma: |
-    Birutė (Biruta)
-    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
-    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
-    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
-    Sigailą, arba Žygimantą, bei dukterį Danutę.
+  citata_rodoma: "Birutė (Biruta)\nŽemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­\nte būryje mergelių, saugojančių šventą Praurimės aukuro ug­\nnį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją\nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį\nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip\nžmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,\nSigailą, arba Žygimantą, bei dukterį Danutę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188777
+    - t-003

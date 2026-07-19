@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-41026"></a>
 - t-001
-  global_id: t-41026
   teiginys: "1949 m. Adolfas Ramanauskas-Vanagas tapo Jono Žemaičio-Vytauto pavaduotoju ir vėliau LLKS gynybos pajėgų vadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ media_all_json: |-
 
 <a id="claim-t-41027"></a>
 - t-002
-  global_id: t-41027
   teiginys: "1949 m. vasarį Jonas Žemaitis-Vytautas buvo išrinktas LLKS tarybos prezidiumo pirmininku ir laikinai ėjo Lietuvos gynybos pajėgų vado pareigas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,18 +89,15 @@ media_all_json: |-
     1951 m. gruodį ištikus insultui atsisakė pareigų (jas vėl
     pradėjo eiti 1953 m. pavasarį) 1953 m. gegužės 30 d.
     jo bunkeris buvo išduotas, J. Žemaitis suimtas gyvas.
-  citata_rodoma: |
-    1949 m. vasarį partizanų vadų suvažiavime J. Že-
-    maitis išrinktas LLKS tarybos prezidiumo pirmininku,
-    taip pat laikinai ėjo Lietuvos gynybos pajėgų vado
-    pareigas. Jam suteiktas partizanų generolo laipsnis.
+  citata_rodoma: "1949 m. vasarį partizanų vadų suvažiavime J. Že-\nmaitis išrinktas LLKS tarybos prezidiumo pirmininku,\ntaip pat laikinai ėjo Lietuvos gynybos pajėgų vado\npareigas. Jam suteiktas partizanų generolo laipsnis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41027
+    - t-002
+
 - id: c-44793
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -116,16 +111,11 @@ media_all_json: |-
     Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo
     pirmininko J. Žemaičio-Vytauto pavaduotoju, kiek
     vėliau ir LLKS gynybos pajėgų vadu.
-  citata_rodoma: |
-    1949 m. dalyvavo kuriant
-    vieningą pasipriešinimo judėjimo vadovybę, tapo
-    Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo
-    pirmininko J. Žemaičio-Vytauto pavaduotoju, kiek
-    vėliau ir LLKS gynybos pajėgų vadu.
+  citata_rodoma: "1949 m. dalyvavo kuriant\nvieningą pasipriešinimo judėjimo vadovybę, tapo\nLietuvos laisvės kovos sąjūdžio tarybos prezidiumo\npirmininko J. Žemaičio-Vytauto pavaduotoju, kiek\nvėliau ir LLKS gynybos pajėgų vadu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41026
+    - t-001

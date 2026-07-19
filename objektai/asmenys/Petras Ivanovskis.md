@@ -38,7 +38,6 @@ Jį, dar būdama Stanislovienė Goštautienė, Trakų vaivadienė, našlė, išd
 
 <a id="claim-t-87826"></a>
 - t-001
-  global_id: t-87826
   teiginys: "1547 m. rugsėjo 10 d. Barbora Radvilaitė pasiskolino iš Petro Ivanovskio 128 kapas grašių ir 8 dubenis medaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Jį, dar būdama Stanislovienė Goštautienė, Trakų vaivadienė, našlė, išd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87826
+    - t-001

@@ -30,8 +30,7 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
 ## Teiginiai
 
 <a id="claim-t-02501"></a>
-- t-001
-  global_id: t-02501
+- t-003
   teiginys: "Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
     - c-166423
 
 <a id="claim-t-184989"></a>
-- t-002
-  global_id: t-184989
+- t-001
   teiginys: "Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį prie Nemuno pakrantės arčiausiai Prūsijos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -67,8 +65,7 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
     - c-168350
 
 <a id="claim-t-196696"></a>
-- t-003
-  global_id: t-196696
+- t-004
   teiginys: "Kojelavičiaus pasakojime, iš baimės išsibėgiojus gynėjams, Kolainių pilis buvo užimta ir sudeginta, o septyni šimtai žmonių išvaryti į vergiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -144,7 +141,8 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02501
+    - t-003
+
 - id: c-168350
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -168,25 +166,15 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
     vos dvylika jų liko nesužeistų, pilėnams iškilo baisus
     pavojus, tačiau netikėta priešų klaida pakeitė padėtį,
     tokią, rodos, beviltišką.
-  citata_rodoma: |
-    Už žalą, padarytą per šį niokojamą iš­
-    puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
-    kokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­
-    są laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu
-    kariaudami, smogė nemažai stiprių smūgių. Pirmiausia
-    ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
-    balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos
-    Nemuno pakrantėje esančią Lietuvos pilį. Penki šim­
-    tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
-    niokoti, o du tūkstančiai pėstininkų atkakliai puolė
-    apsuptą pilį.
+  citata_rodoma: "Už žalą, padarytą per šį niokojamą iš­\npuolį Sembai, lietuviams buvo atsilyginta kitais ir dar\nkokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­\nsą laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu\nkariaudami, smogė nemažai stiprių smūgių. Pirmiausia\nėmėsi kariauti Meinhardas, Prūsijos magistras, apie\nbalandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos\nNemuno pakrantėje esančią Lietuvos pilį. Penki šim­\ntai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų\nniokoti, o du tūkstančiai pėstininkų atkakliai puolė\napsuptą pilį."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184989
+    - t-001
+
 - id: c-178848
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -211,6 +199,7 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196696
+    - t-004
+
 ## Ryšiai
 - Gynė Kolainiai: [[objektai/asmenys/Surminas]]

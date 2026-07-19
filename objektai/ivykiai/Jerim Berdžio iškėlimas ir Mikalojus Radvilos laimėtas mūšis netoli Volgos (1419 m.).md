@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185572"></a>
 - t-001
-  global_id: t-185572
   teiginys: "Kojelavičiaus pasakojime žuvus Tochtamyšui Jerim Berdis pabėgo pas Vytautą, kuris jį paskelbė teisėtu valdovu ir žadėjo grąžinti į valdžią."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -69,24 +68,10 @@ Nenurodyta
   pagrindžia:
     - c-168933
 
-<a id="claim-t-185573"></a>
-- t-002
-  global_id: t-185573
-  teiginys: "Daugybė skitų iš visos šalies suplaukė į Jerim Berdžio stovyklą, nes nepakentė žiauraus Kerim Berdžio viešpatavimo."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168933
-    - c-168934
 <a id="claim-t-185574"></a>
 - t-003
-  global_id: t-185574
   teiginys: "Mūšiui ilgai nesikreipiant nė į vieną pusę, Mikalojus Radvila smogė priešams į sparną ir nulėmė pergalę."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -101,11 +86,11 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   semantiniai_rysiai: "Mikalojus Radvila dalyvavo mūšyje Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.) (0.85)"
   pagrindžia:
+    - c-168933
     - c-168935
 
 <a id="claim-t-196162"></a>
 - t-004
-  global_id: t-196162
   teiginys: "Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, o Kojelavičius šį žingsnį siejo su jo garbės troškimu."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -119,7 +104,6 @@ Nenurodyta
 
 <a id="claim-t-196163"></a>
 - t-005
-  global_id: t-196163
   teiginys: "Kojelavičiaus pasakojime Vytautas paskelbė Jerim Berdį teisėtu valdovu, pažadėjo jį remti ir įsakė Mikalojui Radvilai palydėti jį į Skitiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -158,9 +142,10 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185572
-    - t-185573
-    - t-196162
+    - t-001
+    - t-003
+    - t-004
+
 - id: c-168935
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -180,23 +165,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185574
-    - t-196163
-- id: c-168934
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 397"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
-  citata_originali: |
-    Nepakęsdami žiauraus Kerim Berdžio viešpatavimo,
-    daugybė skitų iš visos šalies suplaukė į Jerim Berdžio
-    stovyklą. Šio jėgos smarkiai išaugo. Tačiau Kerim Ber­
-    dis nė trupučio nesutriko, drąsos jam teikė prisimini­
-    mai apie ankstesnę pergalę. Jis ryžtingai užpuolė su
-    kariuomene brolį netoli Volgos.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185573
+    - t-003
+    - t-005

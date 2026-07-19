@@ -31,7 +31,6 @@ Be Rūdninkų, didieji Lietuvos kunigaikščiai prie pat Vil­ niaus, už Antaka
 
 <a id="claim-t-86267"></a>
 - t-001
-  global_id: t-86267
   teiginys: "Didieji Lietuvos kunigaikščiai prie Vilniaus, už Antakalnio priemiesčio, turėjo miesto dvarą, vadinamą Viršupiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Be Rūdninkų, didieji Lietuvos kunigaikščiai prie pat Vil­ niaus, už Antaka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86267
+    - t-001

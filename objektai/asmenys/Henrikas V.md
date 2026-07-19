@@ -31,7 +31,6 @@ Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos 
 
 <a id="claim-t-87908"></a>
 - t-001
-  global_id: t-87908
   teiginys: "Anglijos karalius Henrikas V pasitelkė teologą Tomą Waldeną į Vladislovo Jogailos derybas su kryžiuočiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,25 +67,11 @@ Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos 
     kęs jį krikščioniško tikėjimo tiesų.
     Žr. S m o 11 e t Story of England, t. IX,
     B. 4, p. 163.
-  citata_rodoma: |
-    86
-    Vytautui nebuvo svetimi ir moks­
-    lai, bent jau tokie, kokie XIV ir XV
-    amžiuje galėjo būti. Anglijos istori­
-    joje yra išlikusių pėdsakų, kad
-    anuomet žymus tos tautos teologas
-    Tomas YValdenas, garsus savo dis­
-    putais su Viklifo sekėjais ir husitais,
-    kurį Anglijos karalius Henrikas V
-    buvo pasitelkęs į Vladislovo Jogai­
-    los derybas su kryžiuočiais, kiek lai­
-    ko viešėjęs Vytauto rūmuose ir mo­
-    kęs jį krikščioniško tikėjimo tiesų.
-    Žr.
+  citata_rodoma: "86\nVytautui nebuvo svetimi ir moks­\nlai, bent jau tokie, kokie XIV ir XV \namžiuje galėjo būti. Anglijos istori­\njoje yra išlikusių pėdsakų, kad \nanuomet žymus tos tautos teologas \nTomas YValdenas, garsus savo dis­\nputais su Viklifo sekėjais ir husitais,\nkurį Anglijos karalius Henrikas V \nbuvo pasitelkęs į Vladislovo Jogai­\nlos derybas su kryžiuočiais, kiek lai­\nko viešėjęs Vytauto rūmuose ir mo­\nkęs jį krikščioniško tikėjimo tiesų. \nŽr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87908
+    - t-001

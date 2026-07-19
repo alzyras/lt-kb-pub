@@ -30,7 +30,6 @@ Nusigandę Fominos Berezujos kunigaikš­ čiai, patys geruoju prisidėjo prie V
 
 <a id="claim-t-36221"></a>
 - t-001
-  global_id: t-36221
   teiginys: "Vytautui užėmus Viazmą, Fominos Berezujos kunigaikščiai išsigando ir geruoju prisidėjo prie Vytauto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,14 +57,11 @@ Nusigandę Fominos Berezujos kunigaikš­ čiai, patys geruoju prisidėjo prie V
     čiai, patys geruoju prisidėjo prie Vytauto. Susirūpino dabar
     labiau ir Smolensko kun., Sviatoslavo sūnus Jurgis, kuris nu­
     bėgo į Maskvą prašyti pagalbos.
-  citata_rodoma: |
-    Nusigandę Fominos Berezujos kunigaikš­
-    čiai, patys geruoju prisidėjo prie Vytauto. Susirūpino dabar
-    labiau ir Smolensko kun.
+  citata_rodoma: "Nusigandę Fominos Berezujos kunigaikš­\nčiai, patys geruoju prisidėjo prie Vytauto. Susirūpino dabar\nlabiau ir Smolensko kun."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36221
+    - t-001

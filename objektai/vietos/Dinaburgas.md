@@ -31,8 +31,7 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 ## Teiginiai
 
 <a id="claim-t-86042"></a>
-- t-001
-  global_id: t-86042
+- t-003
   teiginys: "Dinaburgas nurodytas kaip viena iš Livonijos pilių tarp aprašytų vietovių pavadinimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,4 +112,4 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86042
+    - t-003

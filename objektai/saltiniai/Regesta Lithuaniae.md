@@ -42,28 +42,20 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
 ## Teiginiai
 
 <a id="claim-t-60925"></a>
-- t-001
-  global_id: t-60925
+- t-004
   teiginys: "Regesta Lithuaniae p. 147 siejama su 1294 m. puolimu, kurį Dusburgietis datavo 1292 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krikščionys: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Regesta Lithuaniae: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Regesta Lithuaniae\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1292 m.; įvykio data: 1294 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata pagrindžia aiškų datavimo pataisymą ir Regesta Lithuaniae nuorodą."
   pagrindžia:
-    - c-61557
-    - c-001
+    - c-61558
+    - c-61559
+
 <a id="claim-t-60926"></a>
-- t-002
-  global_id: t-60926
+- t-001
   teiginys: "Regesta Lithuaniae Nr. 393 siejamas su 1262 m. Mindaugo organizuotu žygiu, kuriam vadovavo Treniota."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,7 +75,6 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
 
 <a id="claim-t-60928"></a>
 - t-003
-  global_id: t-60928
   teiginys: "„Regesta Lithuaniae“ puslapis 144 nurodomas prie 1292 m. žygio ir pasakojimo apie nuostabų brolių išsigelbėjimą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -103,8 +94,7 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
     - c-61559
 
 <a id="claim-t-60929"></a>
-- t-004
-  global_id: t-60929
+- t-005
   teiginys: "„Regesta Lithuaniae“ pirmą tomą parengė H. Paszkiewiczius, jis išleistas Varšuvoje 1930 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -136,8 +126,7 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60925
+
 ## Citatos
 
 - id: c-61557
@@ -151,18 +140,13 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
     savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o
     kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei
     paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo.
-  citata_rodoma: |
-    Apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų
-
-      540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p.
-    156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162).
+  citata_rodoma: "Apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų\n\n  540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p.\n156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-60925
 - id: c-61558
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -187,7 +171,9 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60926
+    - t-004
+    - t-001
+
 - id: c-61559
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -201,7 +187,9 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60928
+    - t-004
+    - t-003
+
 - id: c-61561
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -214,4 +202,4 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60929
+    - t-005

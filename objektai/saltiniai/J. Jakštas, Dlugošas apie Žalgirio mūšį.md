@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-31722"></a>
 - t-001
-  global_id: t-31722
   teiginys: "J. Jakšto „Dlugošas apie Žalgirio mūšį“ 1960 m. išspausdintas TaPr I tomo 2 numeryje, p. 165–181."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,19 +70,11 @@ media_all_json: |-
     mūšį,_ TaPr, I, 2, 1960, 165-181 p. — (”) _Žalgirio mūšis,_ LE, t. 35,
     158-163 p. — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio
     mūšis,_ rinkiny : LKaKr, 1964.
-  citata_rodoma: |
-    **
-
-
-    (^344) III skyrius: valstybės suklestėjimas
-    _bibliografija,_ Athenaeum, nr. 1, 1931, 89-138 p. (nurodyta apie 200
-    darbų apie Žalgirio kautynes). — Jakštas, J. : _Dlugošas apie Žalgirio
-    mūšį,_ TaPr, I, 2, 1960, 165-181 p. — (”) _Žalgirio mūšis,_ LE, t. 35,
-    158-163 p.
+  citata_rodoma: "**\n\n\n(^344) III skyrius: valstybės suklestėjimas\n_bibliografija,_ Athenaeum, nr. 1, 1931, 89-138 p. (nurodyta apie 200\ndarbų apie Žalgirio kautynes). — Jakštas, J. : _Dlugošas apie Žalgirio\nmūšį,_ TaPr, I, 2, 1960, 165-181 p. — (”) _Žalgirio mūšis,_ LE, t. 35,\n158-163 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31722
+    - t-001

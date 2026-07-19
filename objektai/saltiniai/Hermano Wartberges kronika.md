@@ -36,7 +36,6 @@ Tos kronikos pamini taip pat mirtį « daugybės kryžininkų » (pilgrimų). He
 
 <a id="claim-t-31704"></a>
 - t-001
-  global_id: t-31704
   teiginys: "Hermano Wartberges kronikoje reikalaujamų žemių siena su Mozūrija turėjo prasidėti nuo Alnos aukštupio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,17 +68,11 @@ Tos kronikos pamini taip pat mirtį « daugybės kryžininkų » (pilgrimų). He
     paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės
     krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
     Aistmarių.
-  citata_rodoma: |
-    Hermano Wartberges kronikoje yra smulkiau
-    pažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija,
-    siena turėjo prasidėti nuo Alnos aukštupio. Per Prūsus, Lietuvai
-    paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės
-    krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
-    Aistmarių.
+  citata_rodoma: "Hermano Wartberges kronikoje yra smulkiau\npažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija,\nsiena turėjo prasidėti nuo Alnos aukštupio. Per Prūsus, Lietuvai\npaliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės\nkrantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki\nAistmarių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31704
+    - t-001

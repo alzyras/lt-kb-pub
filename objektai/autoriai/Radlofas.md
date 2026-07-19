@@ -31,7 +31,6 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
 
 <a id="claim-t-191617"></a>
 - t-001
-  global_id: t-191617
   teiginys: "Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų ar Žemės palydovų žuvimo fenomeną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -45,9 +44,8 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
 
 <a id="claim-t-191618"></a>
 - t-002
-  global_id: t-191618
   teiginys: "Narbutas rašė, kad Cigno mito turinys sutampa su Radlofo požiūriu ir iš padavimų pateko į graikų poetų kūrinius."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,7 +61,7 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174500
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašė, kad Cigno mito turinys sutampa su Radlofo požiūriu ir iš padavimų pateko į graikų poetų kūrinius.'
@@ -80,11 +78,9 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
     studijuoti Eridano upę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191618
+  statusas: verified
 - c-003
   santrauka: 'Narbutas mini Radlofo nuomonę, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -112,10 +108,10 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
     nodamas, kam gi vis dėlto atiduoti pirmenybę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+
 ## Citatos
 
 - id: c-174499
@@ -141,35 +137,27 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191617
+    - t-001
+
 - id: c-174500
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­
-    delis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­
-    kiodamas po Eridano ežerą, niūniavo gražias priešmirti­
-    nes giesmes.
-    157
-    Šio mito turinys sutampa su pono Radlofo požiūriu,
-    kurį anksčiau (§ 145) pateikėme; šios žinios pateko iš
-    padavimų į graikų poetų kūrinius. Dabar reikia tik pa­
-    studijuoti Eridano upę.
-  citata_rodoma: |
-    Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­
-    delis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­
-    kiodamas po Eridano ežerą, niūniavo gražias priešmirti­
-    nes giesmes.
-    157
-    Šio mito turinys sutampa su pono Radlofo požiūriu,
-    kurį anksčiau (§ 145) pateikėme; šios žinios pateko iš
-    padavimų į graikų poetų kūrinius. Dabar reikia tik pa­
-    studijuoti Eridano upę.
+    Iš tikrųjų žinome, jog grai­
+    kai taip vadino dvi upes: viena sruveno Atikoje ir buvo
+    Iliso intakas, antra yra italų upė, šiandien vadinama Pa­
+    du. Senovės astronomai tuo pačiu vardu pavadino dan­
+    gaus žvaigždynus. Eridano, susijusio su gintaru, būtina
+    ieškoti gintaringuose kraštuose, t. y. senovės prūsų žemių
+    kaimynystėje. Pats Plinijus, išdėstęs įvairiais prielaidas,
+    nurodo, kad Elektridų, arba Gintaringos, salos turėjusios
+    būti Germanų jūros šiaurinėje dalyje, prie Eridano žiočių3.
+  citata_rodoma: "Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­\ndelis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­\nkiodamas po Eridano ežerą, niūniavo gražias priešmirti­\nnes giesmes.\n157\nŠio mito turinys sutampa su pono Radlofo požiūriu,\nkurį anksčiau (§ 145) pateikėme; šios žinios pateko iš\npadavimų į graikų poetų kūrinius. Dabar reikia tik pa­\nstudijuoti Eridano upę."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191618
+    - t-002

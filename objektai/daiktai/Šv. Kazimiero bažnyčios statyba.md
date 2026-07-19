@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-200852"></a>
 - t-001
-  global_id: t-200852
   teiginys: "Šv. Kazimiero bažnyčia pradėta statyti 1604 metais, užbaigta 1615 metais ir pakartojo Romos pavyzdžio planą bei bendrą kompoziciją."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200852
+    - t-001

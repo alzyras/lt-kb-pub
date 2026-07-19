@@ -33,7 +33,6 @@ Tarp Lietuvos didikų buvo: Žemai­ čių seniūnas Mykolas Skirgaila ir Trakų
 
 <a id="claim-t-194309"></a>
 - t-001
-  global_id: t-194309
   teiginys: "Tarp Lietuvos didikų buvo: Žemai čių seniūnas Mykolas Skirgaila ir Trakų kaštelionas Jonas Švitrigaila, Šalčininkų seniūnas Mantautas."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Tarp Lietuvos didikų buvo: Žemai­ čių seniūnas Mykolas Skirgaila ir Trakų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194309
+    - t-001

@@ -37,7 +37,6 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 
 <a id="claim-t-02282"></a>
 - t-001
-  global_id: t-02282
   teiginys: "Spa protokolu Lenkija įsipareigojo atsitraukti už Kerzono linijos ir liepos 10 d. atiduoti Vilniaus sritį Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,18 +70,11 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     vadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-
     čiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-
     duoti Lietuvai (liepos 10 d.).
-  citata_rodoma: |
-    Tada Aukš-
-    čiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė So-
-    vietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa mies-
-    tely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už
-    vadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-
-    čiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-
-    duoti Lietuvai (liepos 10 d.).
+  citata_rodoma: "Tada Aukš-\nčiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė So-\nvietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa mies-\ntely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už\nvadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-\nčiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-\nduoti Lietuvai (liepos 10 d.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02282
+    - t-001

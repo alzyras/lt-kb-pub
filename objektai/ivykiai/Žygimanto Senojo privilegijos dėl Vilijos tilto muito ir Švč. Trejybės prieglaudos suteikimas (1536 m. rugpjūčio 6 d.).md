@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-86879"></a>
 - t-001
-  global_id: t-86879
   teiginys: "Žygimantas Senasis paskyrė Joną Hozijų rinkti Vilijos tilto muitą po Ulriko Hozijaus ir pripažino jo pastangas taisant tiltą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-86880"></a>
 - t-002
-  global_id: t-86880
   teiginys: "1536 m. privilegija uždraudė statyti kitą tiltą per Viliją tarp Bistryčios ir Kernavės, kad nebūtų mažinamos Vilniaus tilto muito pajamos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-82863
 
 <a id="claim-t-86881"></a>
-- t-003
-  global_id: t-86881
+- t-005
   teiginys: "Pastačius Švč. Trejybės prieglaudą, dalis Vilijos tilto mokesčio turėjo būti skiriama ligonių maistui, drabužiams, vaistams ir kitoms reikmėms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,8 +105,7 @@ Nenurodyta
     - c-82858
 
 <a id="claim-t-86882"></a>
-- t-004
-  global_id: t-86882
+- t-003
   teiginys: "1536 m. privilegija uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,8 +124,7 @@ Nenurodyta
     - c-82861
 
 <a id="claim-t-86883"></a>
-- t-005
-  global_id: t-86883
+- t-004
   teiginys: "Žygimantas Senasis visiems laikams paskyrė Vilijos tilto mokestį Švč. Trejybės prieglaudai ir joje gyvenantiems vargšams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -146,7 +141,6 @@ Nenurodyta
 
 <a id="claim-t-86884"></a>
 - t-006
-  global_id: t-86884
   teiginys: "Jonas Hozijus ir jo įpėdiniai kasmet turėjo atsiskaityti Vilniaus vyskupui ir kapitulai už tilto bei prieglaudos pajamas ir išlaidas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -192,7 +186,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86881
+    - t-005
+
 - id: c-82859
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -232,7 +227,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86879
+    - t-001
+
 - id: c-82860
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -266,7 +262,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86883
+    - t-004
+
 - id: c-82861
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -295,7 +292,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86882
+    - t-003
+
 - id: c-82862
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -317,32 +315,16 @@ Nenurodyta
     Prikabintas LDK antspaudas
     Šios privilegijos ištrauka iš garbingojo magistrato ir Vil­
     niaus miesto knygos, vykstant ribų komisijos teismams tarp
-    jo did.
-  citata_rodoma: |
-    Dėl to taip
-    pat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis
-    Jonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį
-    tiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­
-    nėtąjį Jo šv. atm. kun. Vilniaus vyskupą, du prelatus bei ka­
-    nauninkus, jo įpareigotus arba jam nesant, kapitulos išrink­
-    tus, kasmet kiekvienų metų pabaigoje visų ir atskirų minėtai
-    prieglaudai ir tiltui priklausančių pajamų ir išlaidų ataskaitą
-    duoti ir gauti iš jų patvirtinimą, įpareigojami dabartinio rašto
-    galia, kurio patvirtinimui ir tikrumui yra uždėtas mūsų ant­
-    spaudas. Tai įvyko ir duota Vilniuje Viešpaties gimimo 1536
-    metų rugpjūčio 6 dieną, mūsų karaliavimo 3-iaisiais metais.
-    Karalius ŽYGIMANTAS
-    Prikabintas LDK antspaudas
-    Šios privilegijos ištrauka iš garbingojo magistrato ir Vil­
-    niaus miesto knygos, vykstant ribų komisijos teismams tarp
-    jo did.
+    jo did. pono Goreckio, Lydos pav. iždininko, ir garb.
+  citata_rodoma: "Dėl to taip \npat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis \nJonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį \ntiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­\nnėtąjį Jo šv. atm. kun. Vilniaus vyskupą, du prelatus bei ka­\nnauninkus, jo įpareigotus arba jam nesant, kapitulos išrink­\ntus, kasmet kiekvienų metų pabaigoje visų ir atskirų minėtai \nprieglaudai ir tiltui priklausančių pajamų ir išlaidų ataskaitą \nduoti ir gauti iš jų patvirtinimą, įpareigojami dabartinio rašto \ngalia, kurio patvirtinimui ir tikrumui yra uždėtas mūsų ant­\nspaudas. Tai įvyko ir duota Vilniuje Viešpaties gimimo 1536 \nmetų rugpjūčio 6 dieną, mūsų karaliavimo 3-iaisiais metais.\nKaralius ŽYGIMANTAS\nPrikabintas LDK antspaudas\nŠios privilegijos ištrauka iš garbingojo magistrato ir Vil­\nniaus miesto knygos, vykstant ribų komisijos teismams tarp \njo did."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86884
+    - t-006
+
 - id: c-82863
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -380,4 +362,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86880
+    - t-002

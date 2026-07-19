@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-31878"></a>
 - t-001
-  global_id: t-31878
   teiginys: "P. Būtėno „Vilniaus pradžia“ paskelbta žurnalo „Karys“ 1973 m. 10 numeryje, p. 342-344."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,14 +71,11 @@ media_all_json: |-
     AP, t. 5, 1928, 239-268 p. — (”) _Die Bekehrung des Litauerkönigs Gedi-
     min. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu
     Königsberg i.
-  citata_rodoma: |
-    — (”) _Vilniaus pradžia,_ Karys, 1973, nr. 10, 342-344 p.
-    -— (”) _Karalius-kuniugas,_ Karys, 1971, 193-197, 227-230, 263-265, 306-
-    311 p.
+  citata_rodoma: "— (”) _Vilniaus pradžia,_ Karys, 1973, nr. 10, 342-344 p.\n-— (”) _Karalius-kuniugas,_ Karys, 1971, 193-197, 227-230, 263-265, 306-\n311 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31878
+    - t-001

@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-62179"></a>
 - t-001
-  global_id: t-62179
   teiginys: "Žiūrint kas kaip įsitikinęs galėsiąs įsiteikti savo dievams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-62180"></a>
 - t-002
-  global_id: t-62180
   teiginys: "Žiokos valsčiuje gyvenęs prūsas Dargis nepakentė baltų žirgų, o Sembos fogtas Ditrichas mėgino jį atpratinti nuo šio prietaro."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,6 @@ Nenurodyta
 
 <a id="claim-t-196994"></a>
 - t-003
-  global_id: t-196994
   teiginys: "Ketvirtą kartą fogtas nupirko jam ketvirtą baltą žirgą ir pareiškė, kad tiek sykių šitai kartosiąs, iki tą prūsą atpratinsiąs nuo prietarų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -107,22 +104,16 @@ Nenurodyta
     pirmųjų, Dargis įtikėjo, nuolankiai išpažino savo klaidą ir pasidarė uolus tikėjimo bei
     tikinčiųjų šalininkas, karštas dievo bei šventųjų gerbėjas, sutvirtinęs tikėjimu daugeliui
     klystančiųjų naujakrikščių širdis.
-  citata_rodoma: |
-    6. Apie vieną stebuklą
-
-      Sembos žemėje, Žiokos  valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris
-    nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo
-    prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį vienai nakčiai jo
-    tvarte; ryto metą žmogelis rado šį žirgą nudurtą, o visus savo gyvulius padvėsusius. Tris
-    kartus jis padarė šitokį bandymą ir kiekvieną kartą susilaukė tos pačios baigties.
+  citata_rodoma: "6. Apie vieną stebuklą\n\n  Sembos žemėje, Žiokos  valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris\nnepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo\nprietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį vienai nakčiai jo\ntvarte; ryto metą žmogelis rado šį žirgą nudurtą, o visus savo gyvulius padvėsusius. Tris\nkartus jis padarė šitokį bandymą ir kiekvieną kartą susilaukė tos pačios baigties."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62180
-    - t-196994
+    - t-002
+    - t-003
+
 - id: c-62636
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -131,18 +122,11 @@ Nenurodyta
     žiūrint kas kaip įsitikinęs galėsiąs įsiteikti savo dievams. Vieni iš pagarbos saviesiems
     dievams nedrįso jodinėti juodžiais, kiti — balčiais215, treti — kitokio plauko žirgais.
     6.
-  citata_rodoma: |
-    žiūrint kas kaip įsitikinęs galėsiąs įsiteikti savo dievams. Vieni iš pagarbos saviesiems
-    dievams nedrįso jodinėti juodžiais, kiti — balčiais215, treti — kitokio plauko žirgais.
-
-
-
-
-                                     6.
+  citata_rodoma: "žiūrint kas kaip įsitikinęs galėsiąs įsiteikti savo dievams. Vieni iš pagarbos saviesiems\ndievams nedrįso jodinėti juodžiais, kiti — balčiais215, treti — kitokio plauko žirgais.\n\n\n\n\n                                 6."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62179
+    - t-001

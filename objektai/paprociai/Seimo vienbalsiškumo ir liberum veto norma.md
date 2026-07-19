@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-193687"></a>
 - t-001
-  global_id: t-193687
   teiginys: "Pagal liberum veto teisę bajoriškojo parlamento – Seimo sprendimai turėjo būti priimami vienu balsu, o tai ypač kontrastavo su Vakarų Europos absoliutistinėmis santvarkomis ir trukdė stiprinti bei centralizuoti valstybę."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193687
+    - t-001

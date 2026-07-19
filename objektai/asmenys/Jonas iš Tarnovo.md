@@ -31,7 +31,6 @@ Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vyta
 
 <a id="claim-t-186113"></a>
 - t-001
-  global_id: t-186113
   teiginys: "Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vytautui dėl imperatoriaus siūlymų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,7 @@ Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169474
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vytautui dėl imperatoriaus siūlymų.'
@@ -72,8 +71,7 @@ Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186113
+
 ## Citatos
 
 - id: c-169474
@@ -101,24 +99,11 @@ Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vyta
     reta tokių kalbėtojų, kurie drąsiai kalba apkalbamo as­
     mens akivaizdoje, kaip reta ir tokių atkaklūnų, kurie ne-
     sudvejotų, regėdami apkalbamą žmogų įsižeidusį.
-  citata_rodoma: |
-    Tuo tarpu Krokuvos vyskupas Zbig­
-    nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
-    kokia įtartina imperatoriaus
-    S en ato įsp ė ta s
-    draugystė, ir, atskleidęs, ko­
-    kie pavojingi jo siūlymai,
-    rimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­
-    laukęs ir tokios didžios šlovės pasiekęs, paliautų puose­
-    lėjęs tuščias svajones apie tariamą didybę ir atsimintų
-    priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
-    kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
-    nas iš Tarnovo, Krokuvos vaivada. Visi sutartinai pri­
-    tarė vyskupui ir vaivadai.
+  citata_rodoma: "Tuo tarpu Krokuvos vyskupas Zbig­\nnevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,\nkokia įtartina imperatoriaus\nS en ato įsp ė ta s\ndraugystė, ir, atskleidęs, ko­\nkie pavojingi jo siūlymai,\nrimtai įspėjo Vytautą, kad šis, tokio gražaus amžiaus su­\nlaukęs ir tokios didžios šlovės pasiekęs, paliautų puose­\nlėjęs tuščias svajones apie tariamą didybę ir atsimintų\npriesaiką, kuria pažadėjęs paklusnumą karaliui bei len­\nkų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­\nnas iš Tarnovo, Krokuvos vaivada. Visi sutartinai pri­\ntarė vyskupui ir vaivadai."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186113
+    - t-001

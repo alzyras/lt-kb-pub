@@ -42,7 +42,6 @@ Liaškaus pieva šiame šaltinyje yra pieva.
 
 <a id="claim-t-195659"></a>
 - t-001
-  global_id: t-195659
   teiginys: "Pjovėjų pokalbyje giedojimo atgarsis buvo atpažintas kaip sklindantis iš Liaškaus pievos."
   atnaujinta: "2026-07-12 09:30"
   sprendimo_priezastis: "gap::places"
@@ -63,14 +62,11 @@ Liaškaus pieva šiame šaltinyje yra pieva.
     užgiedos, bet anie neužgiedojo, tik nusijuokė. Mūsiškiai girdėjo anuos
     nusijuokiant ir patys nusijuokė. Vienas pastebėjo: „Tai iš Liaškaus
     pievos“ .
-  citata_rodoma: |
-    Mūsiškiai girdėjo anuos
-    nusijuokiant ir patys nusijuokė. Vienas pastebėjo: „Tai iš Liaškaus
-    pievos“ .
+  citata_rodoma: "Mūsiškiai girdėjo anuos \nnusijuokiant ir patys nusijuokė. Vienas pastebėjo: „Tai iš Liaškaus \npievos“ ."
   statusas: verified
   atnaujinta: "2026-07-12 09:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195659
+    - t-001

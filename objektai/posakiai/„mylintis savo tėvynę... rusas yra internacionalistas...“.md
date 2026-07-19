@@ -31,7 +31,6 @@ Populiarus to meto posakis, kad mylintis savo tėvynę, kalbą, kultūrą rusas 
 
 <a id="claim-t-20919"></a>
 - t-001
-  global_id: t-20919
   teiginys: "Sovietmečio Lietuvoje posakis apie rusą internacionalistą, lietuvį nacionalistą ir žydą sionistą atspindėjo kompartijos ideologiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,12 +60,11 @@ Populiarus to meto posakis, kad mylintis savo tėvynę, kalbą, kultūrą rusas 
     tėvynę, kalbą, kultūrą rusas yra internacionalistas, mylintis savo kultūrą
     ir kalbą lietuvis – nacionalistas, o mylintis savo kultūrą ir kalbą žydas –
     sionistas, puikiai atspindėjo kompartijos ideologiją.
-  citata_rodoma: |
-    kalbas, sakomas rusiškai. Populiarus to meto posakis, kad mylintis savo
+  citata_rodoma: "kalbas, sakomas rusiškai. Populiarus to meto posakis, kad mylintis savo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20919
+    - t-001

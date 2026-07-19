@@ -38,8 +38,7 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
 ## Teiginiai
 
 <a id="claim-t-40401"></a>
-- t-001
-  global_id: t-40401
+- t-002
   teiginys: "1919 m. spalio 12 d. gen. R. von der Goltzą pakeitė gen. W. Eberhardtas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
     - c-44494
 
 <a id="claim-t-40402"></a>
-- t-002
-  global_id: t-40402
+- t-001
   teiginys: "1919 m. pradžioje gen. R. fon der Goltzas buvo paskirtas vokiečių pajėgų Baltijos šalyse vadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +93,8 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40402
+    - t-001
+
 - id: c-44494
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -106,14 +105,11 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
     čiau didesnė dalis įsiliejo į Bermonto pajėgas. Jiems buvo
     mokama gera alga, pergalės atveju žadama duoti žemės
     Latvijoje ar Lietuvoje.
-  citata_rodoma: |
-    1919 m. spalio 12 d. gen. R. von der Goltzas buvo pakeis-
-    tas gen. W. Eberhardtu. Dalis vokiečių grįžo į Vokietiją, ta-
-    čiau didesnė dalis įsiliejo į Bermonto pajėgas.
+  citata_rodoma: "1919 m. spalio 12 d. gen. R. von der Goltzas buvo pakeis-\ntas gen. W. Eberhardtu. Dalis vokiečių grįžo į Vokietiją, ta-\nčiau didesnė dalis įsiliejo į Bermonto pajėgas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40401
+    - t-002

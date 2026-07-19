@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185539"></a>
 - t-001
-  global_id: t-185539
   teiginys: "Prieš Vedrošos mūšį Aleksandras pasiuntė į Smolenską lengvuosius dalinius, vadovaujamus Konstantino Ostrogiškio."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Nenurodyta
     - c-168900
 
 <a id="claim-t-185541"></a>
-- t-002
-  global_id: t-185541
+- t-003
   teiginys: "Po Vedrošos mūšio Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius išvengė nelaisvės ar mirties."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Nenurodyta
     - c-168902
 
 <a id="claim-t-196263"></a>
-- t-003
-  global_id: t-196263
+- t-004
   teiginys: "Prieš Vedrošos mūšį žvalgai pranešė, kad didelės priešo jėgos įsitvirtino abiejuose Vedrošos krantuose."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -134,26 +131,15 @@ Nenurodyta
     stabtelėdamas iš
     pradžių Minske, o po to Bo­
     risove.
-  citata_rodoma: |
-    Šiek tiek pažygiavus, žvalgai pra­
-    nešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie­
-    juose Vedrošos krantuose, o dalis raitelių, atsiskyrusių
-    nuo kitų jėgų ir išsirikiavusių kautynių tvarka plyna­
-    me lauke, už dviejų mylių laukianti atvykstančių lietu­
-    vių. Pagrindinės priešų jėgos bei jų stovykla esančios
-    už upės, pulti trukdysią krūmai ir pelkės. Svarstant
-    susidariusią padėtį bei gautas žinias karvedžių pasita­
-    rime, pradėta aštriai ginčytis, kaip tokiu painiu atveju
-    elgtis. Daugelis manė, kad dabar, kai sulaužyti susita­
-    rimai, geriau parodyti narsą nei baimę, jeigu jau rei­
-    kia pasirinkti vieną iš dviejų.
+  citata_rodoma: "Šiek tiek pažygiavus, žvalgai pra­\nnešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie­\njuose Vedrošos krantuose, o dalis raitelių, atsiskyrusių\nnuo kitų jėgų ir išsirikiavusių kautynių tvarka plyna­\nme lauke, už dviejų mylių laukianti atvykstančių lietu­\nvių. Pagrindinės priešų jėgos bei jų stovykla esančios\nuž upės, pulti trukdysią krūmai ir pelkės. Svarstant\nsusidariusią padėtį bei gautas žinias karvedžių pasita­\nrime, pradėta aštriai ginčytis, kaip tokiu painiu atveju\nelgtis. Daugelis manė, kad dabar, kai sulaužyti susita­\nrimai, geriau parodyti narsą nei baimę, jeigu jau rei­\nkia pasirinkti vieną iš dviejų."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185539
+    - t-001
+
 - id: c-168902
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -178,7 +164,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185541
+    - t-003
+
 - id: c-178602
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -203,4 +190,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196263
+    - t-004

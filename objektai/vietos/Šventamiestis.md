@@ -31,7 +31,6 @@ Narbutas Šventamiestį Prūsuose apibūdina kaip didelę Kurko šventovę, kuri
 
 <a id="claim-t-189104"></a>
 - t-001
-  global_id: t-189104
   teiginys: "Narbutas Šventamiestį Prūsuose apibūdina kaip didelę Kurko šventovę, kurioje dievo garbei degė nuolat kurstoma ugnis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbutas Šventamiestį Prūsuose apibūdina kaip didelę Kurko šventovę, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189104
+    - t-001

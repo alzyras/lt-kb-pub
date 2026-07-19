@@ -3,20 +3,23 @@ tipas: asmuo
 pavadinimas: 'Albrechtas Radvila'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
+  - '1515 m.'
   - '1601 m.'
-date_start: '1601'
-date_end: ''
+date_start: '1515'
+date_end: '1601'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dvasininkas
   - didikas
   - asmuo
-amziai:
-  - 'XVII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +43,6 @@ Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kur
 
 <a id="claim-t-87613"></a>
 - t-001
-  global_id: t-87613
   teiginys: "Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,6 +59,18 @@ Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kur
   temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie Albrechto Radvilos laikus, o pradinis teiginys painioja jį su kardinolu Radvila."
   pagrindžia:
     - c-83592
+
+<a id="claim-t-201510"></a>
+- t-002
+  teiginys: "Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistratas, kuriam Nabienė suteikė patronavimo ir kunigo pristatymo teisę, prašė Vilniaus vyskupo Alberto Radvilos į Šv."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184857
 
 ## Citatos
 
@@ -84,4 +98,21 @@ Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87613
+    - t-001
+
+- id: c-184857
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kryžiaus medinė koplyčia buvusi greitai
+    pastatyta, mat 1515 m. Kauno magistratas, kuriam Nabienė suteikė patronavimo ir
+    kunigo pristatymo teisę, prašė Vilniaus vyskupo Alberto Radvilos į Šv. Kryžiaus ko-
+    plyčią skirti kunigą Baltramiejų.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

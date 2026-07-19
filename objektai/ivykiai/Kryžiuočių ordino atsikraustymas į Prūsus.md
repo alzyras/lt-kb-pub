@@ -49,8 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01676"></a>
-- t-001
-  global_id: t-01676
+- t-002
   teiginys: "Gavęs kvietimą atvykti į Prūsus, Vokiečių ordinas bylinėjosi su Vengrijos karaliumi dėl siekio atgauti prarastas žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Nenurodyta
     - c-01916
 
 <a id="claim-t-01677"></a>
-- t-002
-  global_id: t-01677
+- t-003
   teiginys: "1230 m. pirmieji Vokiečių ordino atstovai jau buvo pasiekę Prūsų pasienį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,8 +87,7 @@ Nenurodyta
     - c-01915
 
 <a id="claim-t-01678"></a>
-- t-003
-  global_id: t-01678
+- t-001
   teiginys: "Kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir rūpintis vietinių bei aplinkinių krikščionių apsauga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,20 +118,15 @@ Nenurodyta
     vadovybė ir daugumas brolių persikėlė į Europą ir neturėjo ko
     veikti. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir
     paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.
-  citata_rodoma: |
-    Jau Dobrinės ordiną steigdami, vyskupas ir kunigaikštis Kon-
-    radas susižinojo su vokiečių riterių ordinu, kurs kryžiaus karų
-    metu buvo įsteigtas Palestinoje; ten galutinai įsigalėjus turkams, jo
-    vadovybė ir daugumas brolių persikėlė į Europą ir neturėjo ko
-    veikti. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir
-    paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.
+  citata_rodoma: "Jau Dobrinės ordiną steigdami, vyskupas ir kunigaikštis Kon-\nradas susižinojo su vokiečių riterių ordinu, kurs kryžiaus karų\nmetu buvo įsteigtas Palestinoje; ten galutinai įsigalėjus turkams, jo\nvadovybė ir daugumas brolių persikėlė į Europą ir neturėjo ko\nveikti. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir\npaimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01678
+    - t-001
+
 - id: c-01915
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -149,19 +141,15 @@ Nenurodyta
     savo sodybų jie pradėjo
     nuolatinį karą su aisčių
     kiltimis.
-  citata_rodoma: |
-    1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
-    Čia jie gavo iš Konrado
-    žemių su Niešavos pi-
-    laite, o patys pasista-
-    tė Fogelzango pilį.
+  citata_rodoma: "1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.\nČia jie gavo iš Konrado\nžemių su Niešavos pi-\nlaite, o patys pasista-\ntė Fogelzango pilį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01677
+    - t-003
+
 - id: c-01916
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -179,4 +167,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01676
+    - t-002

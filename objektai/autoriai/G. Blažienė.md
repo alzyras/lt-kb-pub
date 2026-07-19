@@ -30,7 +30,6 @@ Dusburgietis teigia, kad blažienei, filol.
 
 <a id="claim-t-60701"></a>
 - t-001
-  global_id: t-60701
   teiginys: "G. Blažienė teikė dalykinių patarimų rengiant Petro Dusburgiečio kronikos leidimą spaudai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -44,7 +43,7 @@ Dusburgietis teigia, kad blažienei, filol.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61333
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'G. Blažienė teikė dalykinių patarimų rengiant Petro Dusburgiečio kronikos leidimą spaudai.'
@@ -58,8 +57,7 @@ Dusburgietis teigia, kad blažienei, filol.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60701
+
 ## Citatos
 
 - id: c-61333
@@ -80,14 +78,11 @@ Dusburgietis teigia, kad blažienei, filol.
     karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
     nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
     Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
-  citata_rodoma: |
-    Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
-    S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,
-    filol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai.
+  citata_rodoma: "Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.\nS. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,\nfilol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60701
+    - t-001

@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78672"></a>
-- t-001
-  global_id: t-78672
+- t-002
   teiginys: "Pirmųjų Lietuvos karių skiriamasis ženklas buvo trikampis tautinių spalvų rankovės antsiuvas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-75886
 
 <a id="claim-t-78673"></a>
-- t-002
-  global_id: t-78673
+- t-001
   teiginys: "Lietuvos kariuomenės savanorio rankovės antsiuvas buvo trikampis tautinių spalvų skiriamasis ženklas."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,6 @@ Nenurodyta
 
 <a id="claim-t-78674"></a>
 - t-003
-  global_id: t-78674
   teiginys: "Pirmojo pavyzdžio Lietuvos karių uniformoje buvo trispalviai trikampiai kairės rankovės antsiuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,8 +126,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78672
-    - t-78673
+    - t-002
+    - t-001
+
 - id: c-75887
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -158,26 +156,11 @@ Nenurodyta
 
     kepures su geltonomis juostomis ir trispal-
     vius trikampius kairės rankovės antsiuvus).
-  citata_rodoma: |
-    Raudonarmiečiai,
-    matydami, jog jų
-    artilerija lietuvių
-
-    Dar tą pačią vasario 7 d.
-    tarp bolševikų ir Šilginėlių
-    kaime buvusios lietuvių
-    sargybos įvyko smarkus
-
-    stūmė lietuvių sargybas, pri-
-
-    rengti pirmojo pavyzdžio uniforma (gavo
-
-    kepures su geltonomis juostomis ir trispal-
-    vius trikampius kairės rankovės antsiuvus).
+  citata_rodoma: "Raudonarmiečiai,\nmatydami, jog jų\nartilerija lietuvių\n\nDar tą pačią vasario 7 d.\ntarp bolševikų ir Šilginėlių\nkaime buvusios lietuvių\nsargybos įvyko smarkus\n\nstūmė lietuvių sargybas, pri-\n\nrengti pirmojo pavyzdžio uniforma (gavo\n\nkepures su geltonomis juostomis ir trispal-\nvius trikampius kairės rankovės antsiuvus)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78674
+    - t-003

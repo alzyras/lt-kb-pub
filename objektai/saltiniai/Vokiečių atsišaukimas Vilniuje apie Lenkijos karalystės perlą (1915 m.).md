@@ -37,7 +37,6 @@ Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuria
 
 <a id="claim-t-21317"></a>
 - t-001
-  global_id: t-21317
   teiginys: "Vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto jį nudraskė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuria
 
 <a id="claim-t-183388"></a>
 - t-002
-  global_id: t-183388
   teiginys: "1915 m. vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius vadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto atsišaukimai buvo nudraskyti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -95,15 +93,15 @@ Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuria
     niuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu
     Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišau-
     kimus nudraskė.
-  citata_rodoma: |
-    niuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu
+  citata_rodoma: "niuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21317
+    - t-001
+
 - id: c-166781
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -120,4 +118,4 @@ Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuria
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183388
+    - t-002

@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-59288"></a>
 - t-001
-  global_id: t-59288
   teiginys: "Per Brunsbergo pilies ir miesto apsiaustį prūsai visą dieną puolė, bet miestiečiai ir pilėnai pasipriešino, todėl užpuolikai pasitraukė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-59289"></a>
 - t-002
-  global_id: t-59289
   teiginys: "Per Brunsbergo pilies ir miesto apsiaustį priešai nukovė 40 vyrų, išėjusių pasišienauti ir pamalkauti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59921
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Per Brunsbergo pilies ir miesto apsiaustį priešai nukovė 40 vyrų, išėjusių pasišienauti ir pamalkauti.'
@@ -96,8 +94,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59289
+
 ## Citatos
 
 - id: c-59920
@@ -120,7 +117,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59288
+    - t-001
+
 - id: c-59921
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -140,18 +138,11 @@ Nenurodyta
     užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
     įsibrovė ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti į
     Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
-  citata_rodoma: |
-    Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,
-    kurie visi buvo priešo nukauti. Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,
-    manydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei
-    miestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos
-    reikmenų, kiek ant pečių galėjo pakelti. Jiems atsitraukiant, atskubėjo priešpriešiais 60
-    krikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas
-    sudeginti, visi drauge patraukė į Elbingą.
+  citata_rodoma: "Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,\nkurie visi buvo priešo nukauti. Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,\nmanydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei\nmiestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos\nreikmenų, kiek ant pečių galėjo pakelti. Jiems atsitraukiant, atskubėjo priešpriešiais 60\nkrikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas\nsudeginti, visi drauge patraukė į Elbingą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59289
+    - t-002

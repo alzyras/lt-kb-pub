@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-31104"></a>
 - t-001
-  global_id: t-31104
   teiginys: "Druska buvo vienas būtiniausių dalykų, kuriuos Lietuva per Rygą gabendavosi iš Vakarų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -108,15 +107,11 @@ Nenurodyta
     dalykus, būtent, druską, vilnones medžiagas, geležį (ginklus). O ji
     galėjo pasiūlyti Vakaruose gerą paklausą turinčių ir lengvai trans­
     portuojamų prekių (vaško ir kailių) neišsenkančius kiekius.
-  citata_rodoma: |
-    Per Rygą Lietuva traukėsi sau iš Vakarų būtiniausius
-    dalykus, būtent, druską, vilnones medžiagas, geležį (ginklus). O ji
-    galėjo pasiūlyti Vakaruose gerą paklausą turinčių ir lengvai trans­
-    portuojamų prekių (vaško ir kailių) neišsenkančius kiekius.
+  citata_rodoma: "Per Rygą Lietuva traukėsi sau iš Vakarų būtiniausius\ndalykus, būtent, druską, vilnones medžiagas, geležį (ginklus). O ji\ngalėjo pasiūlyti Vakaruose gerą paklausą turinčių ir lengvai trans­\nportuojamų prekių (vaško ir kailių) neišsenkančius kiekius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31104
+    - t-001

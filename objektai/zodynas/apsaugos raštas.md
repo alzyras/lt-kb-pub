@@ -41,8 +41,7 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
 ## Teiginiai
 
 <a id="claim-t-36761"></a>
-- t-001
-  global_id: t-36761
+- t-004
   teiginys: "Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Christmemelio salą ir ten sustojo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -58,8 +57,7 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
     - c-38717
 
 <a id="claim-t-36762"></a>
-- t-002
-  global_id: t-36762
+- t-003
   teiginys: "Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. laivu nuvyko iki Christmemelio salos."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -90,21 +88,15 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
     no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
     apsistojo su savo motina ir broliais sutartoje vietoje prie Duby­
     sos įtakos į Nemuną.
-  citata_rodoma: |
-    Gavęs Jogai­
-    los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
-    pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
-    los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
-    no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
-    apsistojo su savo motina ir broliais sutartoje vietoje prie Duby­
-    sos įtakos į Nemuną.
+  citata_rodoma: "Gavęs Jogai­\nlos apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­\npos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­\nlos ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­\nno seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu\napsistojo su savo motina ir broliais sutartoje vietoje prie Duby­\nsos įtakos į Nemuną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36761
+    - t-004
+
 - id: c-38718
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -119,16 +111,11 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
     pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
     los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
     no seklumo esą nebegalima toliau plaukti.
-  citata_rodoma: |
-    Gavęs Jogai­
-    los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
-    pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
-    los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
-    no seklumo esą nebegalima toliau plaukti.
+  citata_rodoma: "Gavęs Jogai­\nlos apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­\npos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­\nlos ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­\nno seklumo esą nebegalima toliau plaukti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36762
+    - t-003

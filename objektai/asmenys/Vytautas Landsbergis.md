@@ -41,8 +41,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 ## Teiginiai
 
 <a id="claim-t-170245"></a>
-- t-001
-  global_id: t-170245
+- t-010
   teiginys: "Vytautas Landsbergis ir B. Jelcinas 1991 m. liepos 29 d. buvo savo šalių parlamentų pirmininkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - c-154926
 
 <a id="claim-t-170246"></a>
-- t-002
-  global_id: t-170246
+- t-008
   teiginys: "1992 m. Vilniuje Seimo pirmininkas Vytautas Landsbergis prie Aušros vartų buvo su Prancūzijos prezidentu Fransua Miteranu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - c-154922
 
 <a id="claim-t-170247"></a>
-- t-003
-  global_id: t-170247
+- t-009
   teiginys: "Dauguma Lietuvos gyventojų dėl žemės reformos nesėkmių kaltino tuometinį Lietuvos Aukščiausiosios Tarybos pirmininką Vytautą Landsbergį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - c-154923
 
 <a id="claim-t-170248"></a>
-- t-004
-  global_id: t-170248
+- t-003
   teiginys: "Sausio 12 d. Vytautas Landsbergis vadovavo Aukščiausiajai Tarybai - Atkuriamajam Seimui, priėmusiam nutarimą „Dėl priemonių Lietuvos Respublikai ginti“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,8 +112,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - c-154921
 
 <a id="claim-t-170249"></a>
-- t-005
-  global_id: t-170249
+- t-002
   teiginys: "1991 m. sausio 13 d. Vytautas Landsbergis ragino prie parlamento susirinkusius žmones užslopinti pyktį, nepasiduoti provokacijoms ir dainuoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -136,8 +131,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - c-154919
 
 <a id="claim-t-170250"></a>
-- t-006
-  global_id: t-170250
+- t-007
   teiginys: "1996 m. Seimo rinkimuose sėkmė lydėjo Vytauto Landsbergio vadovaujamus konservatorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -156,8 +150,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - c-154924
 
 <a id="claim-t-170253"></a>
-- t-007
-  global_id: t-170253
+- t-004
   teiginys: "1991 m. sausio 13 d. Vytautas Landsbergis buvo Aukščiausiosios Tarybos pirmininkas ir šalies vadovas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -206,7 +199,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170253
+    - t-004
+
 - id: c-154919
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -227,7 +221,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170249
+    - t-002
+
 - id: c-154921
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -242,23 +237,15 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     zijos bokštą, Lietuvos radijo ir televizi-
     jos komitetą, o tankų ir šarvuočių vora
     pajudėjo Parlamento link.
-  citata_rodoma: |
-    Sausio 12 d. Aukščiausioji
-    Taryba - Atkuriamasis Seimas, vadovau-
-    jamas pirmininko Vytauto Landsbergio,
-    priėmė nutarimą „Dėl priemonių Lietuvos
-    Respublikai ginti“. Jau sausio 13-osios
-    naktį sovietai šturmavo Vilniaus televi-
-    zijos bokštą, Lietuvos radijo ir televizi-
-    jos komitetą, o tankų ir šarvuočių vora
-    pajudėjo Parlamento link.
+  citata_rodoma: "Sausio 12 d. Aukščiausioji\nTaryba - Atkuriamasis Seimas, vadovau-\njamas pirmininko Vytauto Landsbergio,\npriėmė nutarimą „Dėl priemonių Lietuvos\nRespublikai ginti“. Jau sausio 13-osios\nnaktį sovietai šturmavo Vilniaus televi-\nzijos bokštą, Lietuvos radijo ir televizi-\njos komitetą, o tankų ir šarvuočių vora\npajudėjo Parlamento link."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170248
+    - t-003
+
 - id: c-154922
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -277,7 +264,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170246
+    - t-008
+
 - id: c-154923
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -294,22 +282,15 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     Lietuvos privatizavimo įstatymuose liko galybė spragų, kurios leido
     privatizavimą vykdyti nesilaikant viešojo konkurso procedūrų, pusvelčiui
     į privačias rankas perleisti valstybės turtą.
-  citata_rodoma: |
-    Kadangi
-    esminiai pertvarkymai žemės ūkyje vyko valdžioje esant Sąjūdžiui, dau-
-    guma Lietuvos gyventojų dėl žemės reformos nesėkmių kaltino tuometi-
-    nį Lietuvos AS pirmininką V. Landsbergį, nors sunkumai buvo senosios
-    ekonomikos pasekmės.
-    Lietuvos privatizavimo įstatymuose liko galybė spragų, kurios leido
-    privatizavimą vykdyti nesilaikant viešojo konkurso procedūrų, pusvelčiui
-    į privačias rankas perleisti valstybės turtą.
+  citata_rodoma: "Kadangi \nesminiai pertvarkymai žemės ūkyje vyko valdžioje esant Sąjūdžiui, dau-\nguma Lietuvos gyventojų dėl žemės reformos nesėkmių kaltino tuometi-\nnį Lietuvos AS pirmininką V. Landsbergį, nors sunkumai buvo senosios \nekonomikos pasekmės. \nLietuvos privatizavimo įstatymuose liko galybė spragų, kurios leido \nprivatizavimą vykdyti nesilaikant viešojo konkurso procedūrų, pusvelčiui \nį privačias rankas perleisti valstybės turtą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170247
+    - t-009
+
 - id: c-154924
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -322,17 +303,15 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius. Net buvo
     sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „lands-
     bergininkus“.
-  citata_rodoma: |
-    Per 1992 m. rinkimus į Sei-
-    mą A. Brazausko vadovaujama LDDP gavo daugumą, o po ketverių metų
-    sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius.
+  citata_rodoma: "Per 1992 m. rinkimus į Sei-\nmą A. Brazausko vadovaujama LDDP gavo daugumą, o po ketverių metų \nsėkmė lydėjo V. Landsbergio vadovaujamus konservatorius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170250
+    - t-007
+
 - id: c-154926
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -346,16 +325,15 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
     Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją
     pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų).
-  citata_rodoma: |
-    Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją
-    pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų).
+  citata_rodoma: "Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją \npasirašė 1991 m. liepos 29 d. (įsigaliojo po metų)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170245
+    - t-010
+
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Borisas Jelcinas]]
 - Vytautas Landsbergis sudarė sutartį su [[objektai/asmenys/Borisas Jelcinas]]

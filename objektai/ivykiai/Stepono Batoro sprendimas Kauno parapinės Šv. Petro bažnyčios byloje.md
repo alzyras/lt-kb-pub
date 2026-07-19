@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201915"></a>
 - t-001
-  global_id: t-201915
   teiginys: "Petro bažnyčios Kaune bendruomenė ir brolijos, kaltin damos miesto tarybą bažnyčios nekilnojamojo turto mieste ir pajamų iš jo savinimusi, dėl to ieškovai esą patyrę kelis tūkstančius kapų lietuviškųjų grašių nuostolių."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -50,6 +49,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185262
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -70,4 +72,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201915
+    - t-001

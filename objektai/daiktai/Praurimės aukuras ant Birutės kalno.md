@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-194800"></a>
 - t-001
-  global_id: t-194800
   teiginys: "Mirusi buvo palaidota po Amžinosios ugnies aukuro griuvėsiais30."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194800
+    - t-001

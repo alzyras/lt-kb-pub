@@ -26,13 +26,48 @@ media_all_json: |-
 
 Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama kaip šaltinis sudargų genties pavadinimo kilmei aiškinti.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama kaip šaltinis sudargų genties pavadinimo kilmei aiškinti.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Pavadinimas kilęs iš lietuvių
+    sudargų genties1 2, kurios dauguma priklausė Rusiai ir
+    todėl nebuvo įskaičiuojama į Prūsiją sudarančių provin­
+    1 Praetorius. Schaubühne. B. III. C. 4.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-174677
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Tuo metu Sudi, terra Sudorum buvo suprantamas Užgirio
+    traktas, kur buvo senoji sudargų žemė (žr.: Cromer. Index Archivi
+    Cracoviensis. Nr. 541; ten yra tekstas taikos, kuri buvo pasirašyta
+    su kryžiuočiais prie Melno ežero)*.
+    ū*
+  citata_rodoma: "Pavadinimas kilęs iš lietuvių\nsudargų genties1 2, kurios dauguma priklausė Rusiai ir\ntodėl nebuvo įskaičiuojama į Prūsiją sudarančių provin­\n1 Praetorius. Schaubühne. B. III. C. 4."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-191795"></a>
 - t-001
-  global_id: t-191795
   teiginys: "Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama kaip šaltinis sudargų genties pavadinimo kilmei aiškinti."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,44 +83,3 @@ Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama ka
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174677
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama kaip šaltinis sudargų genties pavadinimo kilmei aiškinti.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pavadinimas kilęs iš lietuvių
-    sudargų genties1 2, kurios dauguma priklausė Rusiai ir
-    todėl nebuvo įskaičiuojama į Prūsiją sudarančių provin­
-    1 Praetorius. Schaubühne. B. III. C. 4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191795
-## Citatos
-
-- id: c-174677
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Tuo metu Sudi, terra Sudorum buvo suprantamas Užgirio
-    traktas, kur buvo senoji sudargų žemė (žr.: Cromer. Index Archivi
-    Cracoviensis. Nr. 541; ten yra tekstas taikos, kuri buvo pasirašyta
-    su kryžiuočiais prie Melno ežero)*.
-    ū*
-  citata_rodoma: |
-    Pavadinimas kilęs iš lietuvių
-    sudargų genties1 2, kurios dauguma priklausė Rusiai ir
-    todėl nebuvo įskaičiuojama į Prūsiją sudarančių provin­
-    1 Praetorius. Schaubühne. B. III. C. 4.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191795

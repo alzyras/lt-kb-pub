@@ -39,7 +39,6 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
 
 <a id="claim-t-30231"></a>
 - t-001
-  global_id: t-30231
   teiginys: "Galminas su Rumbaudu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,17 +68,11 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
     navos pradėjo užimti sukilusį kraštą. Įdomu tai, kad Raseinių
     bajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­
     gaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą.
-  citata_rodoma: |
-    Jo pareigū­
-    nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
-    sigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­
-    navos pradėjo užimti sukilusį kraštą. Įdomu tai, kad Raseinių
-    bajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­
-    gaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą.
+  citata_rodoma: "Jo pareigū­\nnas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­\nsigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­\nnavos pradėjo užimti sukilusį kraštą. Įdomu tai, kad Raseinių\nbajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­\ngaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30231
+    - t-001

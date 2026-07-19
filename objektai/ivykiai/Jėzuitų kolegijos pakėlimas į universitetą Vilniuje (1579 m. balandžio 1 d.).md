@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-54451"></a>
 - t-001
-  global_id: t-54451
   teiginys: "Balandžio 1-ąją išleisti dekretai patvirtino vyskupo Protasevičiaus funduotos jėzuitų kolegijos pakėlimą į universitetą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -93,16 +92,11 @@ Nenurodyta
     gė neturtingiems studentams bursą, pavadintą Valerijono
     vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos
     jėzuitų priežiūrai ir globai58.
-  citata_rodoma: |
-    Vyskupo Protasevičiaus
-    funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­
-    kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­
-    rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai
-    išleisti dekretai57.
+  citata_rodoma: "Vyskupo Protasevičiaus \nfunduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­\nkelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­\nrių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai \nišleisti dekretai57."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54451
+    - t-001

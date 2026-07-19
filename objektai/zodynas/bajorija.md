@@ -32,7 +32,6 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 
 <a id="claim-t-193290"></a>
 - t-001
-  global_id: t-193290
   teiginys: "Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių vadai—rikiai—tapo aukštesniuoju visuomenės sluoksniu, arba bajorija."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193290
+    - t-001

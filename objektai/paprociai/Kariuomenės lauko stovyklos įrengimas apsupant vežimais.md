@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78696"></a>
-- t-001
-  global_id: t-78696
+- t-004
   teiginys: "Kariuomenė stovykloje apsisupdavo amuniciją, proviantą ir kitus daiktus gabenusiais vežimais, palikdama tik kelis praėjimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +78,7 @@ Nenurodyta
     - c-75904
 
 <a id="claim-t-78697"></a>
-- t-002
-  global_id: t-78697
+- t-005
   teiginys: "Susibūrusi kariuomenė lauko stovyklą apsupdavo amunicijos ir provianto vežimais, palikdama tik kelis saugomus praėjimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +97,7 @@ Nenurodyta
     - c-43161
 
 <a id="claim-t-78698"></a>
-- t-003
-  global_id: t-78698
+- t-006
   teiginys: ") Lenkijos ir Lietuvos kariuomenių stovyklos aprašymo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,8 +115,7 @@ Nenurodyta
     - c-75904
 
 <a id="claim-t-78699"></a>
-- t-004
-  global_id: t-78699
+- t-003
   teiginys: "Vežimais apsuptoje kariuomenės lauko stovykloje prie kelių praėjimų statydavo artilerijos pabūklus, o už vežimų iškasdavo ilgą griovį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -150,29 +146,23 @@ Nenurodyta
     daug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys. Tokiu būdu
     kariai jaučiasi ne mažiau saugūs nei gerai įtvirtintame ir apsaugotame mieste.“
 
-    1564 m.
-  citata_rodoma: |
-    Susibūrusi į vieną vietą, visa kariuomenė ap-
-    sisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli
-    praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai
-    daug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys. Tokiu būdu
-    kariai jaučiasi ne mažiau saugūs nei gerai įtvirtintame ir apsaugotame mieste.“
-
-    1564 m.
+    1564 m. sausio 23 d. ULOS (CASNIKY) MŪŠIS 89
+  citata_rodoma: "Susibūrusi į vieną vietą, visa kariuomenė ap-\nsisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli\npraėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai\ndaug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys. Tokiu būdu\nkariai jaučiasi ne mažiau saugūs nei gerai įtvirtintame ir apsaugotame mieste.“\n\n1564 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78697
-    - t-78699
+    - t-005
+    - t-003
+
 - id: c-75904
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    ) Lenkijos ir Lietuvos
+    Ištrauka iš Venecijos pasiuntinio Girolamo Lippomano (1575 m.) Lenkijos ir Lietuvos
     kariuomenių stovyklos aprašymo.
 
     „Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas
@@ -180,20 +170,12 @@ Nenurodyta
     sisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli
     praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai
     daug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys.
-  citata_rodoma: |
-    ) Lenkijos ir Lietuvos
-    kariuomenių stovyklos aprašymo.
-
-    „Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas
-    labai skiriasi nuo kitų ir dėl to pažymėtinas. Susibūrusi į vieną vietą, visa kariuomenė ap-
-    sisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli
-    praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai
-    daug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys.
+  citata_rodoma: ") Lenkijos ir Lietuvos\nkariuomenių stovyklos aprašymo.\n\n„Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas\nlabai skiriasi nuo kitų ir dėl to pažymėtinas. Susibūrusi į vieną vietą, visa kariuomenė ap-\nsisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli\npraėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai\ndaug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78696
-    - t-78698
+    - t-004
+    - t-006

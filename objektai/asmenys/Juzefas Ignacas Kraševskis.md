@@ -41,8 +41,7 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
 ## Teiginiai
 
 <a id="claim-t-63788"></a>
-- t-001
-  global_id: t-63788
+- t-002
   teiginys: "Juzefas Ignacas Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
     - c-64728
 
 <a id="claim-t-190901"></a>
-- t-002
-  global_id: t-190901
+- t-003
   teiginys: "Šaltinio komentare spėjama, kad ši recenzija galėjo pradėti šaltus T. Narbuto ir J. I. Kraševskio santykius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
     - c-173783
 
 <a id="claim-t-197768"></a>
-- t-003
-  global_id: t-197768
+- t-004
   teiginys: "Juzefas Ignacas Kraševskis nevengė tuo pasidalyti su kitais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -106,15 +103,15 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
     Lietuvos istorijai iki Liublino unijos. Čia rašė produktyvusis lenkų rašyto-
     jas, Lietuvos (LDK) patriotas J. I. Kraševskis, 1841–1851 m. Vilniuje leidęs
     kultūrinio pobūdžio žurnalą „Atheneum“.
-  citata_rodoma: |
-    jas, Lietuvos (LDK) patriotas J. I. Kraševskis, 1841–1851 m. Vilniuje leidęs
+  citata_rodoma: "jas, Lietuvos (LDK) patriotas J. I. Kraševskis, 1841–1851 m. Vilniuje leidęs"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63788
+    - t-002
+
 - id: c-173783
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -134,7 +131,8 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190901
+    - t-003
+
 - id: c-179331
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -151,4 +149,4 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197768
+    - t-004

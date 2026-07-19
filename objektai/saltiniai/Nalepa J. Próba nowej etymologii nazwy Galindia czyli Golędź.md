@@ -36,7 +36,6 @@ Dusburgietis teigia, kad nalepa J.
 
 <a id="claim-t-61191"></a>
 - t-001
-  global_id: t-61191
   teiginys: "J. Nalepos darbas apie Galindijos, arba Golędź, vardo etimologiją paskelbtas 1976 m. ABS 9 tome, p. 191–209."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Dusburgietis teigia, kad nalepa J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61191
+    - t-001

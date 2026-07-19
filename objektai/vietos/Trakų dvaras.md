@@ -32,7 +32,6 @@ Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­ vo su kaimyninėmis 
 
 <a id="claim-t-36622"></a>
 - t-001
-  global_id: t-36622
   teiginys: "Trakų dvaras daug santykiavo su kaimyninėmis valstybėmis ir laikytas tinkama aplinka Vytautui išaugti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,16 +62,11 @@ Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­ vo su kaimyninėmis 
     tuvos įžymiausiam kunigaikščiui išaugti. Tikslesnių žinių apie
     Vytauto auklėjimą nėra, taigi sunku ir pasakyti, kurie kiti veik­
     sniai turėjo reikšmės jo būdui susidaryti.
-  citata_rodoma: |
-    Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­
-    vo su kaimyninėmis valstybėmis, buvo tinkamiausia dirva Lie­
-    tuvos įžymiausiam kunigaikščiui išaugti. Tikslesnių žinių apie
-    Vytauto auklėjimą nėra, taigi sunku ir pasakyti, kurie kiti veik­
-    sniai turėjo reikšmės jo būdui susidaryti.
+  citata_rodoma: "Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­\nvo su kaimyninėmis valstybėmis, buvo tinkamiausia dirva Lie­\ntuvos įžymiausiam kunigaikščiui išaugti. Tikslesnių žinių apie\nVytauto auklėjimą nėra, taigi sunku ir pasakyti, kurie kiti veik­\nsniai turėjo reikšmės jo būdui susidaryti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36622
+    - t-001

@@ -42,25 +42,11 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189928"></a>
-- t-001
-  global_id: t-189928
-  teiginys: 'Narbutas rašė, kad po lavono sudeginimo giminaičiai ir bičiuliai pelenus, nesudegusius kaulus ir velionio mėgtus daiktus sudėdavo į urną.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Subjektas ir veiksmas suformuluoti aiškiai, pašalintas puslapio triukšmas ir OCR lūžiai. Palikti tik citatoje nurodyti laidojimo veiksmai.'
-  pagrindžia:
-    - c-172811
-
-## Citatos
-
-- id: c-172811
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas rašė, kad po lavono sudeginimo giminaičiai ir bičiuliai pelenus, nesudegusius kaulus ir velionio mėgtus daiktus sudėdavo į urną.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     365
 
@@ -81,10 +67,8 @@ Nenurodyta
     netos ir metalai buvo perdegę ir pusiau susilydę, kitur visiškai
     sveiki; vadinasi, kai kada tie dalykai būdavo kartu metami į
     laužą, o kartais, sudeginus kūną, dedami tiesiai į urną.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189928
+  statusas: verified

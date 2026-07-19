@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-187410"></a>
 - t-001
-  global_id: t-187410
   teiginys: "Šventasis Kryžius yra 593 m aukščio viršūnė prie Opatovo."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -58,7 +57,6 @@ media_all_json: |-
 
 <a id="claim-t-187411"></a>
 - t-002
-  global_id: t-187411
   teiginys: "Šventajame Kryžiuje XII a. buvo įkurtas benediktinų vienuolynas ir bažnyčia."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -80,7 +78,6 @@ media_all_json: |-
 
 <a id="claim-t-187693"></a>
 - t-003
-  global_id: t-187693
   teiginys: "Šventasis Kryžius yra 593 m aukščio Lysa Gora viršūnė Lenkijos Kielcų vaivadijos Šventojo Kryžiaus kalnuose."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -104,7 +101,6 @@ media_all_json: |-
 
 <a id="claim-t-194043"></a>
 - t-004
-  global_id: t-194043
   teiginys: "Šventasis Kryžius yra 593 m aukščio Lysa Gora viršūnė apie 20 km į vakarus nuo Opatovo, Lenkijos Kielcų vaivadijos Šventojo Kryžiaus kalnuose."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -130,19 +126,14 @@ media_all_json: |-
     vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija — kryžius
     su tariamai stebuklingu Jėzaus Kristaus kryžiaus medžio gabalu
     sidabriniuose apsoduose.
-  citata_rodoma: |
-    Šventasis Kryžius — 593 m aukščio viršūnė ,.Lysa Gora” (apie
-    20 km I vakarus nuo Opatovo) Lenkijos Kielcų vaivadijos kalnų
-    keteroje, vadinamoje Lysogory arba G ėry Swigtokrzyskie (Švento
-    Kryžiaus kalnai). Ant šio kalno XII a, buvo įkurtas benediktinų
-    vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija.
+  citata_rodoma: "Šventasis Kryžius — 593 m aukščio viršūnė ,.Lysa Gora” (apie \n20 km I vakarus nuo Opatovo) Lenkijos Kielcų vaivadijos kalnų \nketeroje, vadinamoje Lysogory arba G ėry Swigtokrzyskie (Švento \nKryžiaus kalnai). Ant šio kalno XII a, buvo įkurtas benediktinų \nvienuolynas ir bažnyčia, kurioje buvo saugoma relikvija."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187410
-    - t-187411
-    - t-187693
-    - t-194043
+    - t-001
+    - t-002
+    - t-003
+    - t-004

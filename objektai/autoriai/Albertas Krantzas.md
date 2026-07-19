@@ -39,7 +39,6 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
 
 <a id="claim-t-54997"></a>
 - t-001
-  global_id: t-54997
   teiginys: "Albertas Krantzas priskirtas vėlesniems kronikininkams, kurie Gedimino laiškų klausimą siejo su arkivyskupu."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::authors"
@@ -56,7 +55,6 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
 
 <a id="claim-t-54998"></a>
 - t-002
-  global_id: t-54998
   teiginys: "Pasak Alberto Krantzo, Gediminas pareiškė, kad popiežiaus nei pažinojo, nei troško pažinti."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::authors"
@@ -73,7 +71,6 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
 
 <a id="claim-t-81884"></a>
 - t-003
-  global_id: t-81884
   teiginys: "Albertas Krantzas teigė, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -110,7 +107,8 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54997
+    - t-001
+
 - id: c-55563
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -129,7 +127,8 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54998
+    - t-002
+
 - id: c-78421
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -146,4 +145,4 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81884
+    - t-003

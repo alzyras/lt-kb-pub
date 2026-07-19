@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-66643"></a>
 - t-001
-  global_id: t-66643
   teiginys: "Be riterių, Kryžiuočių ordinas turėjo paprastų kareivių, o popiežiaus skelbiami kryžiaus karai pritraukdavo ordinui karių iš Vakarų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-66644"></a>
 - t-002
-  global_id: t-66644
   teiginys: "Kryžiuočių ordinas į aisčių kraštą atsinešė Palestinoje naudotą kariavimo būdą ir 1231 m. pradėjo pulti aisčių gentis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-66646"></a>
 - t-003
-  global_id: t-66646
   teiginys: "Kryžiuočių ordinas stūmėsi į rytus ir šiaurę, statė pilis kaip administracinius centrus ir apie jas kūrė iš Vokietijos atkviestus kolonistus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-66647"></a>
 - t-004
-  global_id: t-66647
   teiginys: "Kryžiuočių ordino nukariavimuose kartu su karine ekspansija plito krikščionybė: buvo statomos bažnyčios ir vienuolynai, o prūsai krikštijami per prievartą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +85,6 @@ Nenurodyta
 
 <a id="claim-t-66648"></a>
 - t-005
-  global_id: t-66648
   teiginys: "Vyskupui Kristijonui patekus į prūsų nelaisvę, ordinas pasirūpino, kad imperatorius ir popiežius pripažintų jam nukariaujamus Prūsų kraštus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +94,6 @@ Nenurodyta
 
 <a id="claim-t-66649"></a>
 - t-006
-  global_id: t-66649
   teiginys: "Vyskupui grįžus iš nelaisvės, Kryžiuočių ordinas jau valdė kraštą ir sutiko vyskupams užleisti trečdalį savo žemių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,7 +122,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66649
+    - t-006
+
 - id: c-66840
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -147,7 +142,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66644
+    - t-002
+
 - id: c-66841
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -167,7 +163,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66647
+    - t-004
+
 - id: c-66843
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -184,7 +181,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66646
+    - t-003
+
 - id: c-66844
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -196,19 +194,15 @@ Nenurodyta
     esant nelaisvėje, ordinas pasirūpino, kad ir imperatorius ir popie-
     žius pripažintų jam visus Prūsų ir kitų pagonių nukariaujamus
     kraštus.
-  citata_rodoma: |
-    Netrukus vyskupas Kristijonas pateko prūsams į nelaisvę,
-    iš kurios ordinas nesirūpino jo išvaduoti net 5 metus. Vyskupui
-    esant nelaisvėje, ordinas pasirūpino, kad ir imperatorius ir popie-
-    žius pripažintų jam visus Prūsų ir kitų pagonių nukariaujamus
-    kraštus.
+  citata_rodoma: "Netrukus vyskupas Kristijonas pateko prūsams į nelaisvę,\niš kurios ordinas nesirūpino jo išvaduoti net 5 metus. Vyskupui\nesant nelaisvėje, ordinas pasirūpino, kad ir imperatorius ir popie-\nžius pripažintų jam visus Prūsų ir kitų pagonių nukariaujamus\nkraštus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66648
+    - t-005
+
 - id: c-66845
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -219,15 +213,11 @@ Nenurodyta
     riterių, ordinas turėjo ir paprastų kareivių, vadinamų jų tarnais.
     Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus
     karus, ir ordinui į talką plaukdavo minios karių.
-  citata_rodoma: |
-    Be
-    riterių, ordinas turėjo ir paprastų kareivių, vadinamų jų tarnais.
-    Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus
-    karus, ir ordinui į talką plaukdavo minios karių.
+  citata_rodoma: "Be\nriterių, ordinas turėjo ir paprastų kareivių, vadinamų jų tarnais.\nBe to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus\nkarus, ir ordinui į talką plaukdavo minios karių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66643
+    - t-001

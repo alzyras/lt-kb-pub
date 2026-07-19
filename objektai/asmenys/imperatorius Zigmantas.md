@@ -40,7 +40,6 @@ Sumanymą iškėlė imperatorius Zigmantas. Atšaukimas buvo laišku praneštas 
 
 <a id="claim-t-64434"></a>
 - t-001
-  global_id: t-64434
   teiginys: "Imperatorius Zigmantas gavo Jogailos sutikimo dėl Vytauto karūnacijos atšaukimo laišką ir jo nuorašą nusiuntė Vytautui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,13 +75,11 @@ Sumanymą iškėlė imperatorius Zigmantas. Atšaukimas buvo laišku praneštas 
     Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-
     nacijos. Atšaukimas buvo laišku praneštas imperatoriui Zigman-
     tui, kurs laiško nuorašą tuojau nusiuntė Vytautui.
-  citata_rodoma: |
-    Atšaukimas buvo laišku praneštas imperatoriui Zigman-
-    tui, kurs laiško nuorašą tuojau nusiuntė Vytautui.
+  citata_rodoma: "Atšaukimas buvo laišku praneštas imperatoriui Zigman-\ntui, kurs laiško nuorašą tuojau nusiuntė Vytautui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64434
+    - t-001

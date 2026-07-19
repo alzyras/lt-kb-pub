@@ -40,7 +40,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 
 <a id="claim-t-168658"></a>
 - t-001
-  global_id: t-168658
   teiginys: "„Saulė“ buvo viena iš trijų ypatingos reikšmės švietimo draugijų greta Vilniaus „Ryto“ ir Marijampolės „Žiburio“."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 
 <a id="claim-t-168659"></a>
 - t-002
-  global_id: t-168659
   teiginys: "„Saulės“ draugija Kaune įsteigė buhalterijos kursus, rengusius prekybai ir vartotojų bendrovėms reikalingus žmones."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -99,5 +97,5 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-168658
-    - t-168659
+    - t-001
+    - t-002

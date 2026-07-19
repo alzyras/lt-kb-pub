@@ -31,7 +31,6 @@ Ksavero Bogušo veikaluose, Narbuto teigimu, esama įrodymų, kad herulai keliav
 
 <a id="claim-t-192895"></a>
 - t-001
-  global_id: t-192895
   teiginys: "Ksavero Bogušo veikaluose, Narbuto teigimu, esama įrodymų, kad herulai keliavo į Reitgotiją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,6 +74,7 @@ Ksavero Bogušo veikaluose, Narbuto teigimu, esama įrodymų, kad herulai keliav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192895
+    - t-001
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Herulai]]

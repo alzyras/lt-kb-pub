@@ -31,7 +31,6 @@ Kovoje buvo nukautas Livonijos magistras Ottonas Luterbergas, taip pat 52 Ordino
 
 <a id="claim-t-39398"></a>
 - t-001
-  global_id: t-39398
   teiginys: "Livonijos magistras Ottonas Luterbergas buvo nukautas kovoje, kurioje žuvo ir 52 Ordino broliai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Kovoje buvo nukautas Livonijos magistras Ottonas Luterbergas, taip pat 52 Ordino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39398
+    - t-001

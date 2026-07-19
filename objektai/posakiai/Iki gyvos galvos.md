@@ -30,7 +30,6 @@ Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio 
 
 <a id="claim-t-86851"></a>
 - t-001
-  global_id: t-86851
   teiginys: "Vilniaus vyskupui Andriui iki gyvos galvos buvo paskirta šimtas grivinų iš iždo ir kasmetinė medaus duoklė iš Vilniaus pilies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,4 +133,4 @@ Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86851
+    - t-001

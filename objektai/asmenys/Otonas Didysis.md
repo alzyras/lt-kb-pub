@@ -31,7 +31,6 @@ Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusik
 
 <a id="claim-t-87814"></a>
 - t-001
-  global_id: t-87814
   teiginys: "Otono Didžiojo laikais Italijos miestai nusikratė teutonų pareigūnų ir valdžios priekyje pastatė konsulus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87814
+    - t-001

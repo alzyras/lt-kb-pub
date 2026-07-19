@@ -31,7 +31,6 @@ LIETUVOS DIDŽIOJI KUNIGAIKŠTIJA KELYJE VAKARŲ LINK V ytautui valdant buvo pad
 
 <a id="claim-t-26351"></a>
 - t-001
-  global_id: t-26351
   teiginys: "Vytautui valdant buvo padėtas pagrindas Lietuvos visuomenės artėjimui prie Vidurio Europos, vadinamam „civilizaciniu šuoliu“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ LIETUVOS DIDŽIOJI KUNIGAIKŠTIJA KELYJE VAKARŲ LINK V ytautui valdant buvo pad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26351
+    - t-001

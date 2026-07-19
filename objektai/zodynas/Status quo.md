@@ -38,7 +38,6 @@ Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvo
 
 <a id="claim-t-22025"></a>
 - t-001
-  global_id: t-22025
   teiginys: "Klaipėdos klausimu Lietuva gynė status quo, nors Vilniaus klausimu reikalavo sienų revizijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvo
 
 <a id="claim-t-22026"></a>
 - t-002
-  global_id: t-22026
   teiginys: "1939 m. pradžioje britams ir prancūzams negarantuojant Klaipėdos status quo, Lietuva be pagalbos nebegalėjo jos išlaikyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvo
 
 <a id="claim-t-183465"></a>
 - t-003
-  global_id: t-183465
   teiginys: "Lietuva Vilniaus klausimu reikalavo sienų revizijos, o Klaipėdos klausimu gynė esamą padėtį – status quo."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -109,15 +106,15 @@ Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvo
     programuoti, nes du pagrindiniai Lietuvos tikslai akivaizdžiai pjovėsi tar-
     pusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos
     klausimu kovėsi už esamą padėtį – status quo.
-  citata_rodoma: |
-    pusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos
+  citata_rodoma: "pusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22025
+    - t-001
+
 - id: c-24709
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -127,15 +124,15 @@ Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvo
     pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
     (Klaipėdos konvencijos signatarai) pranešė, jog jie negarantuoja Klaipė-
     dai status quo, o be pagalbos išlaikyti Klaipėdą Lietuva nebegalėjo.
-  citata_rodoma: |
-    pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
+  citata_rodoma: "pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22026
+    - t-002
+
 - id: c-166860
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -155,4 +152,4 @@ Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183465
+    - t-003

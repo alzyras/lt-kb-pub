@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-20245"></a>
 - t-001
-  global_id: t-20245
   teiginys: "LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos santvarka."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,12 +94,11 @@ Nenurodyta
     suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
     demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
     sudarytą vyriausybę.
-  citata_rodoma: |
-    demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
+  citata_rodoma: "demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20245
+    - t-001

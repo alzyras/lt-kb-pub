@@ -42,8 +42,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-196233"></a>
-- t-001
-  global_id: t-196233
+- t-002
   teiginys: "Kojelavičius vaizduoja Glinskį visą naktį drąsinus maskvėnų vadus ir žadėjus lengvą pergalę, nes jis tikėjęs menkomis karaliaus jėgomis."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196233
+    - t-002

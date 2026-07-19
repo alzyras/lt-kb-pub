@@ -39,8 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-181977"></a>
-- t-001
-  global_id: t-181977
+- t-011
   teiginys: "Totoriai pasuko Kijevo link ir paėmė iš miesto 3000 rublių kontribucijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181977
+    - t-011

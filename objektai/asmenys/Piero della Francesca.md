@@ -28,7 +28,6 @@ Mikalojus Vorobjovas Piero della Francescą mini tarp italų tapytojų, sprendus
 
 <a id="claim-t-200872"></a>
 - t-001
-  global_id: t-200872
   teiginys: "Mikalojus Vorobjovas Piero della Francescą mini tarp italų tapytojų, sprendusių šviesos, šešėlių ir atmosferos problemas."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Mikalojus Vorobjovas Piero della Francescą mini tarp italų tapytojų, sprendus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200872
+    - t-001

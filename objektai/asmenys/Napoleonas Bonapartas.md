@@ -42,7 +42,6 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
 
 <a id="claim-t-19167"></a>
 - t-001
-  global_id: t-19167
   teiginys: "Napoleonas Bonapartas 1806 m. įkūrė Varšuvos kunigaikštiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
     - c-21912
 
 <a id="claim-t-19168"></a>
-- t-002
-  global_id: t-19168
+- t-003
   teiginys: "1812 m. birželį Napoleonas Bonapartas pradėjo karą su Rusija, po kurio didžioji dalis buvusių LDK žemių greitai atsidūrė jo valdžioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
     - c-21914
 
 <a id="claim-t-19169"></a>
-- t-003
-  global_id: t-19169
+- t-002
   teiginys: "Napoleonas Bonapartas įkūrė Varšuvos kunigaikštystę, kuriai 1807–1814 m. priklausė Užnemunė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,15 +111,15 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
     Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai
     ji priklausė iki 1806  m., kai Napoleonas įkūrė Varšuvos kunigaikštiją;
     1815 m.
-  citata_rodoma: |
-    Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai
+  citata_rodoma: "Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19167
+    - t-001
+
 - id: c-21913
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,15 +129,15 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
     valkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos teritorijos.
     Iki 1807 m. Užnemunė priklausė Prūsijai, 1807–1814 m. – Napoleono
     Bonaparto įkurtai Varšuvos kunigaikštystei.
-  citata_rodoma: |
-    Iki 1807 m. Užnemunė priklausė Prūsijai, 1807–1814 m. – Napoleono
+  citata_rodoma: "Iki 1807 m. Užnemunė priklausė Prūsijai, 1807–1814 m. – Napoleono"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19169
+    - t-002
+
 - id: c-21914
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -156,12 +153,11 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
     viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidė-
     siančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kuni-
     gaikštystės pulkai).
-  citata_rodoma: |
-    dalis buvusių LDK žemių atsidūrė jo valdžioje. Napoleonas leido Vilniuje
+  citata_rodoma: "dalis buvusių LDK žemių atsidūrė jo valdžioje. Napoleonas leido Vilniuje"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19168
+    - t-003

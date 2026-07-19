@@ -30,7 +30,6 @@ R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 , Fr. Benninghoven dav�
 
 <a id="claim-t-30608"></a>
 - t-001
-  global_id: t-30608
   teiginys: "F. Gause yra trijų tomų veikalo „Die Geschichte Königsbergs“ autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,19 +61,11 @@ R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 , Fr. Benninghoven dav�
     Herderio instituto Marburge leidžiama istorinių veikalų serija (Wis-
 
     (^153) **K. Forstreuter :** **_Das Preussische Staatsarchiv in Königsberg.
-  citata_rodoma: |
-    R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 ,
-    Fr. Benninghoven davė studiją apie kalavijuočių ordiną
-    (BeOSch); Lietuvos žilai senovei tyrinėti įdomus yra Fr. Mager
-    veikalas^16 °, o apie I pasaulinį karą W. Conze 161 , ir paskutiniu
-    metu išsp. F. G a u s e 3 tomų veikalas _Die Geschichte Königsbergs._
-    Herderio instituto Marburge leidžiama istorinių veikalų serija (Wis-
-
-    (^153) **K.
+  citata_rodoma: "R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 ,\nFr. Benninghoven davė studiją apie kalavijuočių ordiną\n(BeOSch); Lietuvos žilai senovei tyrinėti įdomus yra Fr. Mager\nveikalas^16 °, o apie I pasaulinį karą W. Conze 161 , ir paskutiniu\nmetu išsp. F. G a u s e 3 tomų veikalas _Die Geschichte Königsbergs._\nHerderio instituto Marburge leidžiama istorinių veikalų serija (Wis-\n\n(^153) **K."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30608
+    - t-001

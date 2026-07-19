@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-200908"></a>
 - t-001
-  global_id: t-200908
   teiginys: "Basanavičius pasakojo, kad vyskupas Paulius Straszynskis kunigui liepė lietuviškos parapijos žmones mokyti lenkiškai, kad jie pavirstų lenkais."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200908
+    - t-001

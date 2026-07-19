@@ -39,8 +39,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-88198"></a>
-- t-001
-  global_id: t-88198
+- t-003
   teiginys: "Po Stepono Batoro mirties Lietuvos ponų taryba prašė Kristupo Radvilos atvykti prie mirusio valdovo kūno arba skubiai atsiųsti savo nuomonę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Nenurodyta
     - c-84177
 
 <a id="claim-t-88199"></a>
-- t-002
-  global_id: t-88199
+- t-004
   teiginys: "Lietuvos ponų tarybos laiškas Kristupui Radvilai buvo sutvirtintas aštuoniais antspaudais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Nenurodyta
     - c-84179
 
 <a id="claim-t-88200"></a>
-- t-003
-  global_id: t-88200
+- t-001
   teiginys: "1586 m. gruodžio 13 d. Gardine rašytas Lietuvos ponų tarybos laiškas Kristupui Radvilai pranešė apie Stepono Batoro mirtį ir galimą maištą dėl neišmokėtos algos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,8 +90,7 @@ Nenurodyta
     - c-84178
 
 <a id="claim-t-88201"></a>
-- t-004
-  global_id: t-88201
+- t-002
   teiginys: "Lietuvos ponų taryba Kristupui Radvilai pranešė, kad gydytojai laiku neįspėjo apie pavojų Stepono Batoro sveikatai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -169,7 +165,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88198
+    - t-003
+
 - id: c-84178
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -201,37 +198,15 @@ Nenurodyta
     Pavesdami Jūsų Didenybės malonei nuolankią ir paklus­
     nią mūsų tarnystę, linkime Jūsų Malonybei geros sveikatos
     ir visokeriopos sėkmės.
-  citata_rodoma: |
-    Rašyta Varšuvoje gegužės mė­
-    nesio 6 dieną, Viešpaties metais tūkstantis penki šimtai sep­
-    tyniasdešimt pirmais, mūsų karaliavimo keturiasdešimt ant­
-    raisiais metais.
-
-    ## Puslapis 367
-
-    IV KNYGA
-    IX
-    A) LIETUVOS PONŲ TARYBOS LAIŠKAS,
-    RAŠYTAS IŠ GARDINO 1586 METŲ
-    GRUODŽIO MĖNESIO 13 DIENĄ
-    KUNIGAIKŠČIUI KRISTUPUI RADVILAI,
-    VILNIAUS VAIVADAI, LIETUVOS LAUKO ETMONUI,
-    PRANEŠANTIS APIE KARALIAUS STEPONO BATORO
-    MIRTĮ IR ĮSPĖJANTIS APIE GALIMĄ MAIŠTĄ
-    DĖL NEIŠMOKĖTOS ALGOS
-    KARALIAUS RŪMŲ KARIUOMENEI IR SARGYBAI
-    (Iš originalo)
-    Maloningasis Pone,
-    Pavesdami Jūsų Didenybės malonei nuolankią ir paklus­
-    nią mūsų tarnystę, linkime Jūsų Malonybei geros sveikatos
-    ir visokeriopos sėkmės.
+  citata_rodoma: "Rašyta Varšuvoje gegužės mė­\nnesio 6 dieną, Viešpaties metais tūkstantis penki šimtai sep­\ntyniasdešimt pirmais, mūsų karaliavimo keturiasdešimt ant­\nraisiais metais.\n\n## Puslapis 367\n\nIV KNYGA\nIX\nA) LIETUVOS PONŲ TARYBOS LAIŠKAS, \nRAŠYTAS IŠ GARDINO 1586 METŲ  \nGRUODŽIO MĖNESIO 13 DIENĄ  \nKUNIGAIKŠČIUI KRISTUPUI RADVILAI,  \nVILNIAUS VAIVADAI, LIETUVOS LAUKO ETMONUI,  \nPRANEŠANTIS APIE KARALIAUS STEPONO BATORO  \nMIRTĮ IR ĮSPĖJANTIS APIE GALIMĄ MAIŠTĄ \nDĖL NEIŠMOKĖTOS ALGOS  \nKARALIAUS RŪMŲ KARIUOMENEI IR SARGYBAI\n(Iš originalo)\nMaloningasis Pone,\nPavesdami Jūsų Didenybės malonei nuolankią ir paklus­\nnią mūsų tarnystę, linkime Jūsų Malonybei geros sveikatos \nir visokeriopos sėkmės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88200
+    - t-001
+
 - id: c-84179
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -275,7 +250,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88199
+    - t-004
+
 - id: c-84180
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -305,4 +281,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88201
+    - t-002

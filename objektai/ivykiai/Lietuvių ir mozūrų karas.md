@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201291"></a>
 - t-001
-  global_id: t-201291
   teiginys: "Nes, nujautęs tą, brolis nuverptojo kunigaikščio išsigrū do su didžiu būriu karėjų į Parusnį ir, atėjęs į Rū mus, sudegiho tenai patį viešpatį ir kunigus, nužudė slapstantis mozūrą, nuteriojęs visą kraštą, tuo kartu teatlyžo, kad visus ginklą pakeliančius."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184641
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nes,
     nujautęs tą, brolis nuverptojo kunigaikščio išsigrū­
@@ -77,4 +77,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201291
+    - t-001

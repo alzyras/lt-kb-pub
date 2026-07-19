@@ -38,8 +38,7 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
 ## Teiginiai
 
 <a id="claim-t-83237"></a>
-- t-001
-  global_id: t-83237
+- t-003
   teiginys: "Iš Braunsbergo atvykusiems jėzuitams iš pradžių buvo sunku įsitvirtinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
     - c-79608
 
 <a id="claim-t-83238"></a>
-- t-002
-  global_id: t-83238
+- t-006
   teiginys: "1564 m. jėzuitai buvo įkurdinti Varmijos vyskupystės centre Braunsberge ir iš ten paplito po Lenkiją."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
     - c-79611
 
 <a id="claim-t-83239"></a>
-- t-003
-  global_id: t-83239
+- t-002
   teiginys: "Gedimino skundą popiežiui ginčijo ir Mažesniųjų brolių Braunsbergo gvardijonas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +89,6 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
 
 <a id="claim-t-83240"></a>
 - t-004
-  global_id: t-83240
   teiginys: "Braunsbergo gvardijonas buvo tarp Mažesniųjų brolių atstovų, laiškais popiežiui gynusių kryžiuočius nuo Gedimino skundo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,7 +106,6 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
 
 <a id="claim-t-83241"></a>
 - t-005
-  global_id: t-83241
   teiginys: "Į Vilnių atvykusiems neturtingiems jėzuitams iš Braunsbergo buvo sunku įsitvirtinti Lietuvos sostinėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -168,29 +163,16 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
     Minus ergo decet militantes domino,
     genti peccatrici, populo nequam, filiis
     sceleratis aliqua pactione conjungi.
-  citata_rodoma: |
-    Kai maždaug tuo metu sužinota, jog Gedimino skundas
-    tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­
-    sijos kustodas, to paties ordino Torunės, Kulmo, Braunsber-
-    go ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­
-    tai: Paulius iš Olivos ir Jordanas iš Pelplino stojo ginti
-    kryžiuočių, tiesiogiai popiežiui dviejuose laiškuose pranešda­
-    mi, esą meilė tiesai ir pareiga jos laikytis verčianti juos pa­
-    reikšti Jo Šventenybei, kad Ordino brolių garbė tapo šmeiži­
-    kišku ir nedoru būdu suteršta, nes pavyduoliai jų priešai išdrįso
-    teigti, esą ordinas karštai priešinęsis Lietuvos karaliaus pa­
-    geidavimui priimti krikščionių tikėjimą*. Jie tad, esant tokiai
-    Minus ergo decet militantes domino,
-    genti peccatrici, populo nequam, filiis
-    sceleratis aliqua pactione conjungi.
+  citata_rodoma: "Kai maždaug tuo metu sužinota, jog Gedimino skundas\ntikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­\nsijos kustodas, to paties ordino Torunės, Kulmo, Braunsber-\ngo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­\ntai: Paulius iš Olivos ir Jordanas iš Pelplino stojo ginti\nkryžiuočių, tiesiogiai popiežiui dviejuose laiškuose pranešda­\nmi, esą meilė tiesai ir pareiga jos laikytis verčianti juos pa­\nreikšti Jo Šventenybei, kad Ordino brolių garbė tapo šmeiži­\nkišku ir nedoru būdu suteršta, nes pavyduoliai jų priešai išdrįso\nteigti, esą ordinas karštai priešinęsis Lietuvos karaliaus pa­\ngeidavimui priimti krikščionių tikėjimą*. Jie tad, esant tokiai\nMinus ergo decet militantes domino,\ngenti peccatrici, populo nequam, filiis\nsceleratis aliqua pactione conjungi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83239
-    - t-83240
+    - t-002
+    - t-004
+
 - id: c-79608
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -210,8 +192,9 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83237
-    - t-83241
+    - t-003
+    - t-005
+
 - id: c-79611
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -236,4 +219,4 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83238
+    - t-006

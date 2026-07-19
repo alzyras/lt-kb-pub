@@ -35,25 +35,11 @@ media_all_json: |-
 
 S. M. Kuczynskio nuomone, apie 85 procentai Bychovco kronikos pasakojimo faktų apie Žalgirio mūšį yra artimi tiesai.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194149"></a>
-- t-001
-  global_id: t-194149
-  teiginys: 'S. M. Kuczynskio nuomone, apie 85 procentai Bychovco kronikos pasakojimo faktų apie Žalgirio mūšį yra artimi tiesai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sutvarkytas nutrūkęs OCR tekstas ir išskleistas kontekstas – vertinimas siejamas su Žalgirio mūšio pasakojimu. Nuomonė palikta su atribucija S. M. Kuczynskiui.'
-  pagrindžia:
-    - c-176762
-
-## Citatos
-
-- id: c-176762
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'S. M. Kuczynskio nuomone, apie 85 procentai Bychovco kronikos pasakojimo faktų apie Žalgirio mūšį yra artimi tiesai.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     263
 
@@ -67,10 +53,8 @@ S. M. Kuczynskio nuomone, apie 85 procentai Bychovco kronikos pasakojimo faktų 
     Warszawa. 1965, p. 218) nuomone, apie 85% laktų BK pasakojime
     y ra artimi tiesai
     ’ Dubrovna (vok.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:45"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194149
+  statusas: not_found

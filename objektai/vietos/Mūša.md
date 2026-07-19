@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-32380"></a>
 - t-001
-  global_id: t-32380
   teiginys: "Salyno akte ordinui tenkančių žemių riba nuo Vaišvilčių kaimo buvo pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,19 +61,11 @@ media_all_json: |-
     Gaudamas Žemaičius iki Nevėžio, ordinas pirmą kartą išreika­
     lavo ir žymią dalį Sūduvos dykros, į kurią, kaip į jo paties XIII
     amž. gale nukariautą kraštą, vis reiškė pretenzijas.
-  citata_rodoma: |
-    Žemaičiuose jos
-    ėjo Nevėžio tėkme, o jo aukštupyje nuo Vaišvilčių kaimo buvo
-    pratęstos (Mūšos upe, Smardonės upeliu, Apaščios ežeru, netoli
-    dabartinių Biržų), paskui tiesiai į šiaurę iki Pskovo respublikos
-    valdų.
-    Gaudamas Žemaičius iki Nevėžio, ordinas pirmą kartą išreika­
-    lavo ir žymią dalį Sūduvos dykros, į kurią, kaip į jo paties XIII
-    amž.
+  citata_rodoma: "Žemaičiuose jos\nėjo Nevėžio tėkme, o jo aukštupyje nuo Vaišvilčių kaimo buvo\npratęstos (Mūšos upe, Smardonės upeliu, Apaščios ežeru, netoli\ndabartinių Biržų), paskui tiesiai į šiaurę iki Pskovo respublikos\nvaldų.\nGaudamas Žemaičius iki Nevėžio, ordinas pirmą kartą išreika­\nlavo ir žymią dalį Sūduvos dykros, į kurią, kaip į jo paties XIII\namž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32380
+    - t-001

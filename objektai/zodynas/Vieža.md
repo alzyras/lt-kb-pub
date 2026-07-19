@@ -39,8 +39,7 @@ Vartojamos formos: `viežą`, `viežos`.
 ## Teiginiai
 
 <a id="claim-t-07713"></a>
-- t-001
-  global_id: t-07713
+- t-004
   teiginys: "Vieža buvo bausmės duobė, iš kurios vėlesniais laikais buvo galima išsipirkti pinigais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -49,8 +48,7 @@ Vartojamos formos: `viežą`, `viežos`.
     - c-09641
 
 <a id="claim-t-07714"></a>
-- t-002
-  global_id: t-07714
+- t-003
   teiginys: "Vieža Daukanto tekste buvo žemėje iškasta, kartais išmūryta duobė kaltininkams nustatytą laiką kalinti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -79,13 +77,12 @@ Vartojamos formos: `viežą`, `viežos`.
         laikuose galėjo išsipirkti nuo tos viežos pinigais. Vadinos vieža nuo to, jog kaltininkas tenai kaip
         vėžys pakerėj turėjo lindoti. Tuos, kurie svetimas bites kieme ar girioj bartis^1130 išlaužė, prikalus
         bambą prie aulio ar drevės, varė apsukui pliekdami, lig žarnos neišėjo.
-  citata_rodoma: |
-    Kaltininkus taip kankino: vienus korė į sausą medį, kaip šiandien dar tariama yra į paiką žmogų: „Tas, – sako, – pašoks į sausą medį“ arba: „Tas sulauks sausos šakos“; kitus dybavojo^1126 , prie dybo^1127 pririšę, kitus į viežą^1128 sodino; vieža buvo duobė, per 3 ar 4 sieksnius žemėj iškasta, kartais išmūravota^1129 , kur kaltininkus sodino nuspręstą laiką išsėdėti, kurios didžiai nekentė ir paskesniuose laikuose galėjo išsipirkti nuo tos viežos pinigais. Vadinos vieža nuo to, jog kaltininkas tenai kaip vėžys pakerėj turėjo lindoti.
+  citata_rodoma: "Kaltininkus taip kankino: vienus korė į sausą medį, kaip šiandien dar tariama yra į paiką žmogų: „Tas, – sako, – pašoks į sausą medį“ arba: „Tas sulauks sausos šakos“; kitus dybavojo^1126 , prie dybo^1127 pririšę, kitus į viežą^1128 sodino; vieža buvo duobė, per 3 ar 4 sieksnius žemėj iškasta, kartais išmūravota^1129 , kur kaltininkus sodino nuspręstą laiką išsėdėti, kurios didžiai nekentė ir paskesniuose laikuose galėjo išsipirkti nuo tos viežos pinigais. Vadinos vieža nuo to, jog kaltininkas tenai kaip vėžys pakerėj turėjo lindoti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07713
-    - t-07714
+    - t-004
+    - t-003

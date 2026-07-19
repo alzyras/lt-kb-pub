@@ -31,9 +31,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 
 <a id="claim-t-189410"></a>
 - t-001
-  global_id: t-189410
   teiginys: "Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senuosius įstatymus, papročius ir visuomenės gyvenimo smulkmenas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -52,7 +51,6 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 
 <a id="claim-t-189411"></a>
 - t-002
-  global_id: t-189411
   teiginys: "Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų ir graikų padavimai mena palaimingą praeitį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,9 +71,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 
 <a id="claim-t-189412"></a>
 - t-003
-  global_id: t-189412
   teiginys: "Narbutas buvo įsitikinęs, kad aptariamas kultas kilo iš indų arba iš tautos prie Himalajų kalnų, iš kurios kilo indai."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -94,7 +91,6 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 
 <a id="claim-t-189413"></a>
 - t-004
-  global_id: t-189413
   teiginys: "Narbutas žalčių garbinimą vadino senovėje visuotiniu ir prie jo priskyrė indus, chaldėjus, egiptiečius, persus, finikiečius, graikus, romėnus ir gotus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -115,7 +111,6 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 
 <a id="claim-t-189414"></a>
 - t-005
-  global_id: t-189414
   teiginys: "Narbutas teigė, kad indai svarbia savo religingumo dalimi laikė šventomis pripažintų upių garbinimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -200,25 +195,15 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
     tė - romėnų, kurie parodė pasauliui didų būdą, didžias dory­
     bes, nepalyginamą tėvynės meilę, vyriškumą, ištvermę, gilia­
     mintę politiką, neišmatuojamą troškimą būti galingi.
-  citata_rodoma: |
-    Kad mums būtų lengviau išsemti visą naudą iš mitologijos
-    skaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius
-    mus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­
-    jimuose.
-    Seniausios žemės tautos -  indai ir kinai savo tautiškumo
-    svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
-    nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
-    nimo smulkmenų. Kaip tik tai yra priežastis amžino sąstingio,
-    dėl kurio tos tautos su savo geografine padėtimi ilgai buvo ir
-    dabar tebėra to paties apšvietos, politinių institucijų ir religi­
-    jos lygio.
+  citata_rodoma: "Kad mums būtų lengviau išsemti visą naudą iš mitologijos\nskaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius\nmus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­\njimuose.\nSeniausios žemės tautos -  indai ir kinai savo tautiškumo\nsvarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­\nnųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­\nnimo smulkmenų. Kaip tik tai yra priežastis amžino sąstingio,\ndėl kurio tos tautos su savo geografine padėtimi ilgai buvo ir\ndabar tebėra to paties apšvietos, politinių institucijų ir religi­\njos lygio."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189410
+    - t-001
+
 - id: c-172298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -237,7 +222,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189411
+    - t-002
+
 - id: c-172299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -255,25 +241,15 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
     Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­
     jai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir
     Saulė aptemdavo.
-  citata_rodoma: |
-    Be jo­
-    kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
-    džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
-    XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­
-    no, gyveno ši tauta, garbinusi dangaus kūnus .
-    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
-    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
-    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
-    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
-    Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
-    pagrindą ištisai sudaro indų padavimai.
+  citata_rodoma: "Be jo­\nkios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­\ndžiai Siaurės Europoje buvo samojedai: juk žinome, kad dar\nXVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­\nno, gyveno ši tauta, garbinusi dangaus kūnus .\nTegu mitologai sako ką nori apie senovės egiptiečių religi­\nją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,\nyra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­\nlio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.\nTaip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,\npagrindą ištisai sudaro indų padavimai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189412
+    - t-003
+
 - id: c-172300
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -290,7 +266,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189413
+    - t-004
+
 - id: c-172301
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -309,4 +286,4 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189414
+    - t-005

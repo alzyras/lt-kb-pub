@@ -31,7 +31,6 @@ Bailambero vadovaujamų hunų Europos užpuolimą Narbutas, remdamasis Naruševi
 
 <a id="claim-t-191372"></a>
 - t-001
-  global_id: t-191372
   teiginys: "Bailambero vadovaujamų hunų Europos užpuolimą Narbutas, remdamasis Naruševičiumi, datuoja 376 m."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Bailambero vadovaujamų hunų Europos užpuolimą Narbutas, remdamasis Naruševi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191372
+    - t-001

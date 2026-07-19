@@ -36,7 +36,6 @@ Dusburgietis teigia, kad kučinskas A.
 
 <a id="claim-t-61118"></a>
 - t-001
-  global_id: t-61118
   teiginys: "A. Kučinsko „Kęstutis lietuvių tautos gynėjas“ išleista Marijampolėje 1938 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,7 @@ Dusburgietis teigia, kad kučinskas A.
   temporalinis_llm_pakomentavimas: "Citata leidžia teigti leidimo vietą ir metus."
   pagrindžia:
     - c-61750
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Kučinsko „Kęstutis lietuvių tautos gynėjas“ išleista Marijampolėje 1938 m.'
@@ -65,8 +64,7 @@ Dusburgietis teigia, kad kučinskas A.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61118
+
 ## Citatos
 
 - id: c-61750
@@ -76,12 +74,11 @@ Dusburgietis teigia, kad kučinskas A.
   citata_originali: |
     257—311.
     Kučinskas A. Kęstutis lietuvių tautos gynėjas.—Marijampolė, 1938.
-  citata_rodoma: |
-    Kučinskas A. Kęstutis lietuvių tautos gynėjas.—Marijampolė, 1938.
+  citata_rodoma: "Kučinskas A. Kęstutis lietuvių tautos gynėjas.—Marijampolė, 1938."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61118
+    - t-001

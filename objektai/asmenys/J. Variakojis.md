@@ -39,8 +39,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 ## Teiginiai
 
 <a id="claim-t-40166"></a>
-- t-001
-  global_id: t-40166
+- t-004
   teiginys: "J. Variakojo vadovaujamas Panevėžio batalionas saugojo Klovainių-Rozalimo ruožą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
     - c-44366
 
 <a id="claim-t-40167"></a>
-- t-002
-  global_id: t-40167
+- t-001
   teiginys: "1918 m. gruodžio 29 d. Panevėžio srities apsaugos viršininku paskirtas J. Variakojis organizavo savanorių būrį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 
 <a id="claim-t-40168"></a>
 - t-003
-  global_id: t-40168
   teiginys: "Sužinojęs, kad mieste 2–3 dienas nebuvo ginkluotos jėgos, J. Variakojis pasiuntė pustrečios kuopos su dviem kulkosvaidžiais jį užimti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,8 +85,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
     - c-44365
 
 <a id="claim-t-40169"></a>
-- t-004
-  global_id: t-40169
+- t-002
   teiginys: "Iki 1919 m. kovo pabaigos J. Variakojo vadovaujamas Panevėžio srities apsaugos būrys išaugo ir sustiprėjo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,7 +126,8 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40169
+    - t-002
+
 - id: c-44365
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -141,18 +138,15 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
     sužinojęs, nedelsdamas pasiuntė pustrečios
     kuopos su dviem kulkosvaidžiais užimti
     miestą.
-  citata_rodoma: |
-    Karin. J. Variakojis, tai
-    sužinojęs, nedelsdamas pasiuntė pustrečios
-    kuopos su dviem kulkosvaidžiais užimti
-    miestą.
+  citata_rodoma: "Karin. J. Variakojis, tai\nsužinojęs, nedelsdamas pasiuntė pustrečios\nkuopos su dviem kulkosvaidžiais užimti\nmiestą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40168
+    - t-003
+
 - id: c-44366
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -162,18 +156,15 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
     vadovaujamas Panevėžio batalio-
     nas saugojo Klovainių-Rozalimo
     ruožą.
-  citata_rodoma: |
-    Kpt. J. Variakojo
-    vadovaujamas Panevėžio batalio-
-    nas saugojo Klovainių-Rozalimo
-    ruožą.
+  citata_rodoma: "Kpt. J. Variakojo\nvadovaujamas Panevėžio batalio-\nnas saugojo Klovainių-Rozalimo\nruožą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40166
+    - t-004
+
 - id: c-44367
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -192,22 +183,14 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
     goms užimant Panevėžį, J. Variakojis
     su pirmuoju savanorių būriu paliko
     miestą ir atvyko į Kėdainius.
-  citata_rodoma: |
-    ## Puslapis 173
-
-    —————
-
-    Dar 1918 m. gruodžio 29 d. paskir-
-    tas Panevėžio srities apsaugos viršininku
-    karin. J. Variakojis, nuvykęs į pasky-
-    rimo vietą, energingai ėmėsi organi-
-    zuoti savanorių būrį.
+  citata_rodoma: "## Puslapis 173\n\n—————\n\nDar 1918 m. gruodžio 29 d. paskir-\ntas Panevėžio srities apsaugos viršininku\nkarin. J. Variakojis, nuvykęs į pasky-\nrimo vietą, energingai ėmėsi organi-\nzuoti savanorių būrį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40167
+    - t-001
+
 ## Ryšiai
 - J. Variakojis keliavo į [[objektai/vietos/Kėdainiai]]

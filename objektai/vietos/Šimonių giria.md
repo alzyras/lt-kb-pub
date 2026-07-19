@@ -38,8 +38,7 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
 ## Teiginiai
 
 <a id="claim-t-42376"></a>
-- t-001
-  global_id: t-42376
+- t-002
   teiginys: "1949 m. lapkričio 1-2 d. MGB vidaus kariuomenė vykdė karines-čekistines operacijas Šimonių girioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
     - c-44090
 
 <a id="claim-t-42377"></a>
-- t-002
-  global_id: t-42377
+- t-003
   teiginys: "Šimonių girioje sovietų kariai susprogdino aštuonis partizanų bunkerius: žuvo 33 partizanai, 10 laisvės kovotojų pateko į nelaisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
     - c-45469
 
 <a id="claim-t-42378"></a>
-- t-003
-  global_id: t-42378
+- t-001
   teiginys: "Šimonių girioje bazavosi srities vadovybė ir buvo rengiami srities vadų sąskrydžiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +89,6 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
 
 <a id="claim-t-183819"></a>
 - t-004
-  global_id: t-183819
   teiginys: "Algimanto apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė ir buvo rengiami srities vadų sąskrydžiai."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -123,7 +119,8 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42376
+    - t-002
+
 - id: c-45469
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -138,18 +135,15 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
     zanai, 10 laisvės kovotojų pateko į nelaisvę.
     1949 m. rudenį buvo sunaikinti Algimanto
     apygardos ir Šarūno rinktinės štabai,
-  citata_rodoma: |
-    Šimonių girioje sovietų kariai susprogdino
-    aštuonis partizanų bunkerius: žuvo 33 parti-
-    zanai, 10 laisvės kovotojų pateko į nelaisvę.
-    1949 m.
+  citata_rodoma: "Šimonių girioje sovietų kariai susprogdino\naštuonis partizanų bunkerius: žuvo 33 parti-\nzanai, 10 laisvės kovotojų pateko į nelaisvę.\n1949 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42377
+    - t-003
+
 - id: c-45470
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -161,20 +155,15 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
     leido laikraštį „Partizanų kova“. Algimanto
     apygardai vadovavo Antanas Slučka-Ša-
     rūnas (1947 m. gegužė - 1948 m. spalis) ir
-  citata_rodoma: |
-    Apygardos teritorijoje, Šimonių girioje,
-    bazavosi srities vadovybė, būdavo ren-
-    giami srities vadų sąskrydžiai. Apygarda
-    leido laikraštį „Partizanų kova“. Algimanto
-    apygardai vadovavo Antanas Slučka-Ša-
-    rūnas (1947 m.
+  citata_rodoma: "Apygardos teritorijoje, Šimonių girioje,\nbazavosi srities vadovybė, būdavo ren-\ngiami srities vadų sąskrydžiai. Apygarda\nleido laikraštį „Partizanų kova“. Algimanto\napygardai vadovavo Antanas Slučka-Ša-\nrūnas (1947 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42378
+    - t-001
+
 - id: c-167204
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -192,4 +181,4 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183819
+    - t-004

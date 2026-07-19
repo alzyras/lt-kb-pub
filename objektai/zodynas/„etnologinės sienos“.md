@@ -38,7 +38,6 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
 
 <a id="claim-t-22358"></a>
 - t-001
-  global_id: t-22358
   teiginys: "Vasario 16 Aktas skelbė nepriklausomą Lietuvą su „etnologinėmis sienomis“, tikintis teritorijos padidėjimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,12 +68,11 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
     kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai
     tikriausiai turėjo reikšti, kad kiek atsitraukta vien nuo etnografinių sienų
     planų, turint viltį, kad teritorija padidės.
-  citata_rodoma: |
-    kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai
+  citata_rodoma: "kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22358
+    - t-001

@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-171480"></a>
 - t-001
-  global_id: t-171480
   teiginys: "Apgultos aukštos ir stiprios pilies mūrams griauti buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -67,9 +66,8 @@ Nenurodyta
   pagrindžia:
     - c-156007
 
-<a id="claim-t-171482"></a>
-- t-002
-  global_id: t-171482
+<a id="claim-t-171481"></a>
+- t-005
   teiginys: "Puldami Gotteswerderį lietuviai naudojo 15 mašinų ir 5 sienodaužius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Nenurodyta
     - c-156006
 
 <a id="claim-t-171483"></a>
-- t-003
-  global_id: t-171483
+- t-004
   teiginys: "Apgulimo metu pilies mūrams griauti buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,7 +109,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171482
+    - t-005
+
 - id: c-156007
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -131,5 +129,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171480
-    - t-171483
+    - t-001
+    - t-004

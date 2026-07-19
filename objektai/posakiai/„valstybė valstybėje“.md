@@ -37,7 +37,6 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
 
 <a id="claim-t-67326"></a>
 - t-001
-  global_id: t-67326
   teiginys: "Svarstant 1922 m. konstituciją, tautinėms mažumoms nesuteikta privilegijų, kad nesusidarytų „valstybė valstybėje“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67326
+    - t-001

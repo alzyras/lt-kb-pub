@@ -50,19 +50,6 @@ Blaivystė šiame šaltinyje reiškia religinį ir bendruomeninį susilaikymo nu
 
 Terminas vartojamas prisiekimo, išpažinties ir komunijos kontekste.
 
-## Teiginiai
-
-<a id="claim-t-195623"></a>
-- t-001
-  global_id: t-195623
-  teiginys: "Blaivystė šiame šaltinyje vaizduojama kaip padedanti atsisakyti girtavimo."
-  atnaujinta: "2026-07-12 08:46"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178025
-
 ## Citatos
 
 - id: c-178025
@@ -80,12 +67,9 @@ Terminas vartojamas prisiekimo, išpažinties ir komunijos kontekste.
     Blaivystė daug sugelbėjo svie­
     tui; ir mano štai vyras gėrė smarkiai, o dabar nustojo — ir šventas
     žmogus.
-  citata_rodoma: |
-    Blaivystė daug sugelbėjo svietui; ir mano štai vyras gėrė smarkiai, o dabar nustojo — ir šventas žmogus.
+  citata_rodoma: "Blaivystė daug sugelbėjo svietui; ir mano štai vyras gėrė smarkiai, o dabar nustojo — ir šventas žmogus."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195623

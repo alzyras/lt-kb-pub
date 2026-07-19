@@ -31,7 +31,6 @@ Aplink Polianų dvarą prie Ašmenos buvo rasta daug kartų.
 
 <a id="claim-t-86226"></a>
 - t-001
-  global_id: t-86226
   teiginys: "Aplink Polianų dvarą prie Ašmenos valstiečiai kelis kartus rado lietuviškų rublių, tai yra sidabrinių lazdelių arba liejinukų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Aplink Polianų dvarą prie Ašmenos buvo rasta daug kartų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86226
+    - t-001

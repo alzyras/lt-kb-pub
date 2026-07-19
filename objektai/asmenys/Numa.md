@@ -30,7 +30,6 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
 
 <a id="claim-t-60185"></a>
 - t-001
-  global_id: t-60185
   teiginys: "Numa ir Derska tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -44,10 +43,9 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60817
-    - c-001
+
 <a id="claim-t-60186"></a>
 - t-002
-  global_id: t-60186
   teiginys: "Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,7 +60,6 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   semantiniai_rysiai: "Numa gyveno Pagudė (0.86); Derska gyveno Pagudė (0.86)"
   pagrindžia:
     - c-60818
-    - c-002
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60100|Derska]]: Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60101|Derska]]: Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-184473|Bartai]]: Bartai Numa ir Derska, pabėgę iš Prūsijos į Lietuvą, išdavė lietuvių būrius, tikėdamiesi kryžiuočių atleidimo.
@@ -91,8 +88,6 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60185
 - c-002
   santrauka: 'Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -113,8 +108,7 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60186
+
 ## Citatos
 
 - id: c-60817
@@ -133,20 +127,15 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
     sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
     galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino. Minėtieji Numa ir
     520  D. — contra castrum Gartham, Jer — burc zu Gartin.
-  citata_rodoma: |
-    Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
-    nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai
-    taip įsiteikė broliams, kad šie jiems sugrąžino paimtas  į nelaisvę jų žmonas ir vaikus;
-    šitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai
-    sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
-    galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino.
+  citata_rodoma: "Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams\nnusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai\ntaip įsiteikė broliams, kad šie jiems sugrąžino paimtas  į nelaisvę jų žmonas ir vaikus;\nšitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai\nsužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]\ngalėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60185
+    - t-001
+
 - id: c-60818
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -163,22 +152,11 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
     juos ir nužudė 70 kunigaikščių drauge su namų šeimininku, neskaitant kitų žmonių, kurių
     ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
     žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
-  citata_rodoma: |
-    Minėtieji Numa ir
-      520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos
-    valstybės gynyboje XIII—XIV a. žr. LE, t. 8, p. 972—985; Воронин H. H., Древнее
-    Гродно, с. 149—195; Пашуто В. Т., Гродно..., с. 191—192; Batūra R., Karinė..., р.
-    105—107; to paties, Lietuva..., p. 98, 140, 161, 164; Ткачоу М. А., Замю..., c. 23—25;
-    to paties, Абарончыя..., c. 52—55.
-
-    Derska, įsiteikę broliams, nuskubėjo pasitikti lietuvių kariuomenės ir ten, papasakoję
-    savo tėvynainiams [bartams], kas dėjosi Gardino pilyje bei jo valsčiuje, be to, kaip jie
-    pelnė brolių palankumą, išžudė lietuvius, o visą grobį išsigabeno į Pagudę, kur ir gyvena,
-    kaip gyvenę.
+  citata_rodoma: "Minėtieji Numa ir\n  520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos\nvalstybės gynyboje XIII—XIV a. žr. LE, t. 8, p. 972—985; Воронин H. H., Древнее\nГродно, с. 149—195; Пашуто В. Т., Гродно..., с. 191—192; Batūra R., Karinė..., р.\n105—107; to paties, Lietuva..., p. 98, 140, 161, 164; Ткачоу М. А., Замю..., c. 23—25;\nto paties, Абарончыя..., c. 52—55.\n\nDerska, įsiteikę broliams, nuskubėjo pasitikti lietuvių kariuomenės ir ten, papasakoję\nsavo tėvynainiams [bartams], kas dėjosi Gardino pilyje bei jo valsčiuje, be to, kaip jie\npelnė brolių palankumą, išžudė lietuvius, o visą grobį išsigabeno į Pagudę, kur ir gyvena,\nkaip gyvenę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60186
+    - t-002

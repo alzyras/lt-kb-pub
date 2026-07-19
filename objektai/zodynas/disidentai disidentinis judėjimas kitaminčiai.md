@@ -41,7 +41,6 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 
 <a id="claim-t-104184"></a>
 - t-001
-  global_id: t-104184
   teiginys: "Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 
 <a id="claim-t-104186"></a>
 - t-002
-  global_id: t-104186
   teiginys: "Sovietinė valdžia žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus, tarp jų Balį Gajauską ir Viktorą Petkų, suimdavo ir nuteisdavo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
     - c-166809
 
 <a id="claim-t-104187"></a>
-- t-003
-  global_id: t-104187
+- t-004
   teiginys: "Valdžiai uždraudus svarbius klubus, dalis jaunuolių suartėjo su disidentais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,8 +97,7 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
     - c-97143
 
 <a id="claim-t-183415"></a>
-- t-004
-  global_id: t-183415
+- t-005
   teiginys: "Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -139,7 +135,8 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104187
+    - t-004
+
 - id: c-97144
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -150,15 +147,15 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
     užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
     žurnalą „Sintaksis“, teikė informaciją iš Lietuvos. Tam padėjo 1975 m. Hel-
     sinkio Baigiamasis aktas, kuriuo dalyvės įsipareigojo gerbti žmogaus teises.
-  citata_rodoma: |
-    sinkio Baigiamasis aktas, kuriuo dalyvės įsipareigojo gerbti žmogaus teises.
+  citata_rodoma: "sinkio Baigiamasis aktas, kuriuo dalyvės įsipareigojo gerbti žmogaus teises."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104184
+    - t-001
+
 - id: c-166809
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -179,5 +176,5 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104186
-    - t-183415
+    - t-002
+    - t-005

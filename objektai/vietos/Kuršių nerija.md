@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Kuršių nerija'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1283 m.'
 date_start: '1283'
@@ -37,7 +38,6 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 
 <a id="claim-t-58580"></a>
 - t-001
-  global_id: t-58580
   teiginys: "1283 m. žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė du valsčius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -54,10 +54,9 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiesiogiai paremtas citata apie 1283 m. žygį."
   pagrindžia:
     - c-59213
-    - c-002
+
 <a id="claim-t-58581"></a>
 - t-002
-  global_id: t-58581
   teiginys: "Ordino lotyniškuose dokumentuose vardu Neria iš pradžių vadinta tik Aismarių nerija."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,6 +70,18 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59212
+
+<a id="claim-t-201625"></a>
+- t-003
+  teiginys: "Nemuno žemupys nuo santakos su Nerimi patogus laivybai, išplaukti į jūrą taip pat patogu per pietinę Kuršių nerijos dalį kertantį sąsiaurį."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184972
 - susijęs iš [[objektai/autoriai/Mažiulis V.md#claim-t-60847|Mažiulis V]]: V. Mažiulis teigė, kad lietuvių kalboje Kuršių nerija vadinta Kopomis, Kalnais, Pajūriais ir Randavomis.
 ## Reikšmingi paminėjimai
 - c-002
@@ -91,8 +102,7 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58580
+
 ## Citatos
 
 - id: c-59212
@@ -109,7 +119,8 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58581
+    - t-002
+
 - id: c-59213
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -125,17 +136,30 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
     sužinojo, kad minėtieji Kimenavos pilėnai, nužudę vedlį, visai kitu keliu pasuko į Lietuvą.
     Vis dėlto brolis Liudvikas su savo palyda atžygiavo į Sembos žemę, kur visus krikštas
     prikėlė naujam gyvenimui.
-  citata_rodoma: |
-    Apie vienos Sembos dalies nusiaubimą
-
-      1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509
-    įsibrovė  į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent:
-    Abendą ir Pabečius510; nužudę 150 krikščionių, jie, niekur nesutikę pasipriešinimo, sveiki
-    ir gyvi sugrįžo atgal.
+  citata_rodoma: "Apie vienos Sembos dalies nusiaubimą\n\n  1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509\nįsibrovė  į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent:\nAbendą ir Pabečius510; nužudę 150 krikščionių, jie, niekur nesutikę pasipriešinimo, sveiki\nir gyvi sugrįžo atgal."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58580
+    - t-001
+
+- id: c-184972
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Jų
+    gyvenime Nemunas turėjo būti labai svarbus, mat vandens keliai patogiausi ir patiki-
+    miausi. Nemuno žemupys nuo santakos su Nerimi patogus laivybai, išplaukti į jūrą
+    taip pat patogu per pietinę Kuršių nerijos dalį kertantį sąsiaurį. Nemuno vidurupyje
+    ir didžiausiame jo intake Neryje daugybė esančių rėvų sunkino laivybą, tačiau neuž-
+    kirto jai kelio.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

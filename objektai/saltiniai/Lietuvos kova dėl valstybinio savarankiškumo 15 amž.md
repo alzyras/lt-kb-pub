@@ -32,25 +32,11 @@ media_all_json: |-
 
 Jono Goštauto vadovaujami Lietuvos atstovai priešinosi Lenkijos reikalavimui sulieti Lietuvą su Lenkija, todėl Kazimieras sutiko su personalinės unijos sąlygomis.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194159"></a>
-- t-001
-  global_id: t-194159
-  teiginys: 'Jono Goštauto vadovaujami Lietuvos atstovai priešinosi Lenkijos reikalavimui sulieti Lietuvą su Lenkija, todėl Kazimieras sutiko su personalinės unijos sąlygomis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalinti OCR lūžiai ir neužbaigta pabaiga, išlaikyta priežasties ir pasekmės grandinė. Nepridėta daugiau, nei leidžia citata apie Kazimiero sutikimą.'
-  pagrindžia:
-    - c-176772
-
-## Citatos
-
-- id: c-176772
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Jono Goštauto vadovaujami Lietuvos atstovai priešinosi Lenkijos reikalavimui sulieti Lietuvą su Lenkija, todėl Kazimieras sutiko su personalinės unijos sąlygomis.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Kadangi Lietuvos atstovai, LDK kanclerio Jono Goštauto va­
     dovaujami, griežtai priešinosi lenkams, reikalaujantiem s pilnutinai
@@ -60,10 +46,8 @@ Jono Goštauto vadovaujami Lietuvos atstovai priešinosi Lenkijos reikalavimui s
     dėl valstybinio savarankiškum o 15 amž., V., 1968, p. 226—236).
     BK Kazimiero išrinkimas Lenkijos karaliumi atvaizduotas supras­
     tintai.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:45"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194159
+  statusas: not_found

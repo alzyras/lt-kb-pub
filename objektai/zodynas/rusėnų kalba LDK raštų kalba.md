@@ -30,8 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-169928"></a>
-- t-001
-  global_id: t-169928
+- t-004
   teiginys: "Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ media_all_json: |-
     - c-24982
 
 <a id="claim-t-169930"></a>
-- t-002
-  global_id: t-169930
+- t-003
   teiginys: "Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ media_all_json: |-
     - c-154609
 
 <a id="claim-t-169931"></a>
-- t-003
-  global_id: t-169931
+- t-006
   teiginys: "Stačiatikių vienuolynuose rašto išmokę valdovo dvariškiai kūrė valdovo raštinę, kurioje pradėjo formuotis rusėnų kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +79,7 @@ media_all_json: |-
     - c-24980
 
 <a id="claim-t-169932"></a>
-- t-004
-  global_id: t-169932
+- t-001
   teiginys: "Besiformuojanti rusėnų raštija ankstyvojoje Lietuvos istorijoje virto oficialia LDK raštų kalba."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -111,15 +107,15 @@ media_all_json: |-
     kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos
     tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-
     tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
-  citata_rodoma: |
-    bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Šia
+  citata_rodoma: "bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Šia"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169931
+    - t-006
+
 - id: c-24982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -129,15 +125,15 @@ media_all_json: |-
     net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse
     vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba, o rusėnais – LDK ir
     Lenkijos valstybėse gyvenusius rytų slavus.
-  citata_rodoma: |
-    net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse
+  citata_rodoma: "net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169928
+    - t-004
+
 - id: c-154609
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -148,15 +144,15 @@ media_all_json: |-
     spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
     tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
     bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
-  citata_rodoma: |
-    spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
+  citata_rodoma: "spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169930
+    - t-003
+
 - id: c-154610
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -170,12 +166,11 @@ media_all_json: |-
     je Lietuvos istorijoje: tapę vietininkais senrusių žemėse sritiniai lietuvių
     kunigaikščiai priimdavo stačiatikybę, o besiformuojanti rusėnų raštija
     virto oficialia LDK raštų kalba.
-  citata_rodoma: |
-    je Lietuvos istorijoje: tapę vietininkais senrusių žemėse sritiniai lietuvių
+  citata_rodoma: "je Lietuvos istorijoje: tapę vietininkais senrusių žemėse sritiniai lietuvių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169932
+    - t-001

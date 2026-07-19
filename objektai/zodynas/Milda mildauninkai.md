@@ -32,9 +32,8 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
 
 <a id="claim-t-189203"></a>
 - t-001
-  global_id: t-189203
   teiginys: "Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti kaip „mildauninkas“ ir iš jo padaryti deivės Mildos vardą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -42,13 +41,12 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172091
-    - c-001
+    - c-172094
+
 <a id="claim-t-189204"></a>
 - t-002
-  global_id: t-189204
   teiginys: "Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų deivę, kuriai buvęs skirtas balandžio mėnuo."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,31 +62,22 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172092
-    - c-002
+
 <a id="claim-t-189205"></a>
 - t-003
-  global_id: t-189205
   teiginys: "Narbutas rašė, kad Kauno apylinkėse mildauninkais vadinti meilėje padedantys kerėtojai."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Milda mildauninkai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Milda mildauninkai\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172093
-    - c-003
+    - c-172094
+
 <a id="claim-t-189206"></a>
 - t-004
-  global_id: t-189206
   teiginys: "Narbutas mildauninkus aprašė kaip Kauno apylinkių pasakojimuose minimus kerėtojus arba meilės deivės žynius, padėdavusius meilės reikaluose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -124,8 +113,6 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189203
 - c-002
   santrauka: 'Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų deivę, kuriai buvęs skirtas balandžio mėnuo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -143,8 +130,6 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189204
 - c-003
   santrauka: 'Narbutas rašė, kad Kauno apylinkėse mildauninkais vadinti meilėje padedantys kerėtojai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -161,8 +146,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189205
+
 ## Citatos
 
 - id: c-172091
@@ -178,21 +162,13 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
     minėjo J. Dlugošas ir M. Strijkovskis), ir ola - „požeminis ur­
     vas“. Ar tik ši „etimologija“ nerodo, kaip vardas Nijolė buvo
     sukurtas?
-  citata_rodoma: |
-    O
-    šią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse
-    tam tikros rūšies kerėtojas ir kerėtojus, padedančius meilėje,
-    kauniečiai vadina mildauninkais“. Tokio lietuviško žodžio iš
-    viso nėra užfiksuota. Lietuvišką žodį maldauninkas T. Narbu­
-    tas bus nugirdęs kaip mildauninkas ir iš jo padaręs deivės var­
-    dą Milda.
+  citata_rodoma: "O\nšią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse\ntam tikros rūšies kerėtojas ir kerėtojus, padedančius meilėje,\nkauniečiai vadina mildauninkais“. Tokio lietuviško žodžio iš\nviso nėra užfiksuota. Lietuvišką žodį maldauninkas T. Narbu­\ntas bus nugirdęs kaip mildauninkas ir iš jo padaręs deivės var­\ndą Milda."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189203
 - id: c-172092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -207,22 +183,15 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
     Kaune buvo rastas tos deivės stabas. Šio atradimo smulkme­
     nas man papasakojo gerbiamas profesorius ponas Laurinavi­
     čius.
-  citata_rodoma: |
-    Milda (Milda)
-    Meilės ir piršlybų deivė, kitaip Aleksotą (Alexota). Kroni­
-    kose apie ją nėra nieko konkretaus, vien šiokie tokie spėlioji­
-    mai, tačiau padavimai, pasakojimai ir kai kurios liaudies dai­
-    nos paaiškina tą mitą. Straipsnyje „Kaunis“ bus nurodyti šalti­
-    niai ir įrodymai; čia suminėsime tai, kas tiesiogiai liečia šią
-    Lietuvos Venerą.
-    Jai buvo skirtas balandžio mėnuo.
+  citata_rodoma: "Milda (Milda)\nMeilės ir piršlybų deivė, kitaip Aleksotą (Alexota). Kroni­\nkose apie ją nėra nieko konkretaus, vien šiokie tokie spėlioji­\nmai, tačiau padavimai, pasakojimai ir kai kurios liaudies dai­\nnos paaiškina tą mitą. Straipsnyje „Kaunis“ bus nurodyti šalti­\nniai ir įrodymai; čia suminėsime tai, kas tiesiogiai liečia šią\nLietuvos Venerą.\nJai buvo skirtas balandžio mėnuo."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189204
+    - t-002
+
 - id: c-172093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -237,21 +206,13 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
     norėdamas savo bute, klebonijoje, pasidaryti sandėliuką, prieš
     išvykdamas į Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iš­
     kirsti angą ir ją sutvirtinti.
-  citata_rodoma: |
-    O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji
-    deivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­
-    to priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais
-    buvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3. Kaip
-    pastebėjau, Kauno apylinkėse tam tikros rūšies kerėtojas ar
-    kerėtojus, padedančius meilėje, kaimiečiai vadina mildaunin-
-    kais (Mildawnikas).
+  citata_rodoma: "O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji\ndeivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­\nto priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais\nbuvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3. Kaip\npastebėjau, Kauno apylinkėse tam tikros rūšies kerėtojas ar\nkerėtojus, padedančius meilėje, kaimiečiai vadina mildaunin-\nkais (Mildawnikas)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189205
 - id: c-172094
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -272,4 +233,6 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189206
+    - t-001
+    - t-003
+    - t-004

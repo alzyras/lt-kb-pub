@@ -42,30 +42,8 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
 
 ## Teiginiai
 
-<a id="claim-t-189598"></a>
-- t-001
-  global_id: t-189598
-  teiginys: "Posakis „Nors žuvo valstybė, bet neleiskime žūti tautai“ pateikiamas kaip svarbiausias to meto šviesuolių šūkis."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nors žuvo valstybė, bet neleiskime žūti tautai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nors žuvo valstybė, bet neleiskime žūti tautai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-171028
-
 <a id="claim-t-197385"></a>
 - t-002
-  global_id: t-197385
   teiginys: "O Lietuvoje, garsėjusioje kaip paskutinė pagoniškoji citadelė Europoje, ilgiausiai išlai kiusioje savo senąją religiją ir mitologiją, kuri jau nuo Rene sanso laikų turėjo turtingą tyrinėjimo istoriją, tautinės mito logijos svarba XIX a."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -98,6 +76,7 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-171028
@@ -118,23 +97,11 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
     nimas. Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towar-
     zystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais
     personažais.
-  citata_rodoma: |
-    O Lietuvoje, garsėjusioje
-    kaip paskutinė pagoniškoji citadelė Europoje, ilgiausiai išlai­
-    kiusioje savo senąją religiją ir mitologiją, kuri jau nuo Rene­
-    sanso laikų turėjo turtingą tyrinėjimo istoriją, tautinės mito­
-    logijos svarba XIX a. pradžios kultūriniame ir išsivaduojama­
-    jame judėjime buvo itin ryškiai suvokiama ir akcentuojama.
-    Lietuvių mitologija šiuo metu domėjosi ne tik mokslininkai,
-    rašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­
-    nimas. Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towar-
-    zystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais
-    personažais.
+  citata_rodoma: "O Lietuvoje, garsėjusioje \nkaip paskutinė pagoniškoji citadelė Europoje, ilgiausiai išlai­\nkiusioje savo senąją religiją ir mitologiją, kuri jau nuo Rene­\nsanso laikų turėjo turtingą tyrinėjimo istoriją, tautinės mito­\nlogijos svarba XIX a. pradžios kultūriniame ir išsivaduojama­\njame judėjime buvo itin ryškiai suvokiama ir akcentuojama. \nLietuvių mitologija šiuo metu domėjosi ne tik mokslininkai, \nrašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­\nnimas. Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towar- \nzystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais \npersonažais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189598
-    - t-197385
+    - t-002

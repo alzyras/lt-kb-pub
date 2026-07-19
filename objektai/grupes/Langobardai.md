@@ -37,7 +37,6 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
 
 <a id="claim-t-185424"></a>
 - t-001
-  global_id: t-185424
   teiginys: "Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -102,6 +101,7 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185424
+    - t-001
+
 ## Ryšiai
 - Langobardai sudarė sutartį su [[objektai/grupes/Romėnai]]

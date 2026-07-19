@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201303"></a>
 - t-001
-  global_id: t-201303
   teiginys: "Ateinantį metą 1277 Skomantas, sukėlęs daugiaus nei 4000 karėjų jotų, stiprindamos dar patelkė lietuvius ir žemaičius, su kuriais susinėręs, 21 die noj lapkričio pasirodė ant rubežiaus Kulmijos it būt apmaudo giežti ir grobio grieti norįs."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184653
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskui antras kryžėjas, įgijęs valdžią, kruvinai te­
     nai atvejų atvejais kovės su sūdau jais su įvairia
@@ -81,4 +81,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201303
+    - t-001

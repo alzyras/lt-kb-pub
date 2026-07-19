@@ -31,7 +31,6 @@ Popiežiaus legato pasiuntiniams apie savo ir Lietuvos valsty­ bės tikėjimo k
 
 <a id="claim-t-28749"></a>
 - t-001
-  global_id: t-28749
   teiginys: "Gediminas popiežiaus legato pasiuntiniams pareiškė, kad skirtingų apeigų žmonės Dievą garbina savaip, bet visi turi vieną Dievą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Popiežiaus legato pasiuntiniams apie savo ir Lietuvos valsty­ bės tikėjimo k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28749
+    - t-001

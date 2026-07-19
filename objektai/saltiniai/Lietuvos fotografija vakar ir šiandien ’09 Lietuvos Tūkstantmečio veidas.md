@@ -37,7 +37,6 @@ Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantm
 
 <a id="claim-t-193729"></a>
 - t-001
-  global_id: t-193729
   teiginys: "Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio veidas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193729
+    - t-001

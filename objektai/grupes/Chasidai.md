@@ -31,7 +31,6 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
 
 <a id="claim-t-169573"></a>
 - t-001
-  global_id: t-169573
   teiginys: "Chasidai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir nuoširdų tikėjimą bei sušvelninti buitį normuojančius įstatymus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
 
 <a id="claim-t-169575"></a>
 - t-002
-  global_id: t-169575
   teiginys: "Vilniaus Gaonas paskelbė chasidus eretikais ir savo autoritetu sustabdė chasidizmo plitimą Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,15 +81,15 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
     esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo
     plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
     jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
-  citata_rodoma: |
-    plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
+  citata_rodoma: "plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169575
+    - t-002
+
 - id: c-154281
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -106,12 +104,11 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
     Vilniaus išplitusio chasidizmo šalininkai siūlė reformuoti ortodoksinį rabi-
     nizmą – sureikšminti individą ir nuoširdų jo tikėjimą, sušvelninti griežtus
     buitį normuojančius įstatymus.
-  citata_rodoma: |
-    Vilniaus išplitusio chasidizmo šalininkai siūlė reformuoti ortodoksinį rabi-
+  citata_rodoma: "Vilniaus išplitusio chasidizmo šalininkai siūlė reformuoti ortodoksinį rabi-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169573
+    - t-001

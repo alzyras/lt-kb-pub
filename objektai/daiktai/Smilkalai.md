@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-08331"></a>
 - t-001
-  global_id: t-08331
   teiginys: "Vyriausias kunigas į šventą ugnį mėtydavo smilkalus."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -80,14 +79,12 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     kunigas turėjęs tris dienas pasninkauti, ant plikos žemės gulęs, ir į šventą ugnį smilkalus
-    mėčioti.
-  citata_rodoma: |
-    kunigas turėjęs tris dienas pasninkauti, ant plikos žemės gulęs, ir į šventą ugnį smilkalus
-    mėčioti.
+        mėčioti.
+  citata_rodoma: "kunigas turėjęs tris dienas pasninkauti, ant plikos žemės gulęs, ir į šventą ugnį smilkalus\nmėčioti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08331
+    - t-001

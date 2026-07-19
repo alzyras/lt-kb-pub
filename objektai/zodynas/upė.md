@@ -43,8 +43,7 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
 ## Teiginiai
 
 <a id="claim-t-192230"></a>
-- t-001
-  global_id: t-192230
+- t-004
   teiginys: "Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -60,10 +59,9 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175077
-    - c-001
+
 <a id="claim-t-192579"></a>
-- t-002
-  global_id: t-192579
+- t-005
   teiginys: "Teodoras Narbutas rašo, kad Leela-Uppe šiandien nežinoma, bet galėjo būti kuri nors į Engūrės ežerą įtekanti upė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,7 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175352
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme.'
@@ -102,8 +100,6 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192230
 - c-002
   santrauka: 'Teodoras Narbutas rašo, kad Leela-Uppe šiandien nežinoma, bet galėjo būti kuri nors į Engūrės ežerą įtekanti upė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -121,8 +117,7 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192579
+
 ## Citatos
 
 - id: c-175077
@@ -144,42 +139,33 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
     nome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti
     upė. Ant jos krantų, gal prie žiočių, buvo miestas Uppe-
     leela; iš čia svetimšaliai autoriai mini Apuliją.
-  citata_rodoma: |
-    Leela yra latvių kalbos būdvardis, Leela-Uppe reiš-
-    kia Didelę upę4.
+  citata_rodoma: "Leela yra latvių kalbos būdvardis, Leela-Uppe reiš-\nkia Didelę upę4."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192230
+    - t-004
+
 - id: c-175352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Žodis Upe lietu­
-    vių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių
-    būtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­
-    tys. Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­
+    Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­
     kia Didelę upę4. Tačiau, nepaisant latviško pavadinimo,
     ši upė, tiesą sakant, šiandien mums nežinoma, bet ma­
     nome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti
-    upė.
-  citata_rodoma: |
-    Žodis Upe lietu­
-    vių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių
-    būtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­
-    tys. Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­
-    kia Didelę upę4. Tačiau, nepaisant latviško pavadinimo,
-    ši upė, tiesą sakant, šiandien mums nežinoma, bet ma­
-    nome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti
-    upė.
+    upė. Ant jos krantų, gal prie žiočių, buvo miestas Uppe-
+    leela; iš čia svetimšaliai autoriai mini Apuliją. O Anger
+    upės žinomos dvi: viena įteka į Ventą iš jos dešiniosios
+    pakrantės, antra — į Engūrės ežerą.
+  citata_rodoma: "Žodis Upe lietu­\nvių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių\nbūtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­\ntys. Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­\nkia Didelę upę4. Tačiau, nepaisant latviško pavadinimo,\nši upė, tiesą sakant, šiandien mums nežinoma, bet ma­\nnome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti\nupė."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192579
+    - t-005

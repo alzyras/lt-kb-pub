@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189806"></a>
 - t-001
-  global_id: t-189806
   teiginys: "Narbutas Lietuvonį apibūdino kaip lietaus dievaitį, kuriam kaip auka būdavusios atnašaujamos įvairiaplunksnės baltai raibos vištos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-189807"></a>
 - t-002
-  global_id: t-189807
   teiginys: "Narbutas aiškino, kad Gulbis žemaičių tarme reiškia garbintiną, o Gulbintas - pagirtą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -107,7 +105,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189806
+    - t-001
+
 - id: c-172690
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -124,4 +123,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189807
+    - t-002

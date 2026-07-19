@@ -29,8 +29,7 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
 ## Teiginiai
 
 <a id="claim-t-34351"></a>
-- t-001
-  global_id: t-34351
+- t-002
   teiginys: "Vienos profesoriai aiškino, kad mokslininkai įvairiai atsako, kas gali konsekruoti: popiežius, arkivyskupas arba vyskupas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,8 +45,7 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
     - c-35577
 
 <a id="claim-t-34352"></a>
-- t-002
-  global_id: t-34352
+- t-001
   teiginys: "Zigmanto pakviesti Vienos universiteto profesoriai aiškino, kad popiežiaus patvirtintas Romos karalius gali karūnuoti kitus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +62,6 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
 
 <a id="claim-t-184226"></a>
 - t-003
-  global_id: t-184226
   teiginys: "Vienos universiteto profesoriai aiškino, kad mokslininkai nevienodai atsakė, kas turi teisę suteikti konsekraciją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -103,7 +100,8 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34352
+    - t-001
+
 - id: c-35577
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -122,7 +120,8 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34351
+    - t-002
+
 - id: c-167610
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -141,4 +140,4 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184226
+    - t-003

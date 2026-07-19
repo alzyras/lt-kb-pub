@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-194818"></a>
 - t-001
-  global_id: t-194818
   teiginys: "Rinkti krivį priklausė vaidiloms, o Krivių Krivaitis jam at siųsdavo lazdą su dviem užlenkimais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194818
+    - t-001

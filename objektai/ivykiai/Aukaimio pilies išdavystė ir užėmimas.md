@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201311"></a>
 - t-001
-  global_id: t-201311
   teiginys: "Ateinantį metą Lietuvoj rados zdroda: kaipogi Aukaimio pilės vyras, arba kamendotas, Draikis nusiuntė slapta savo sūnų Pinį pas kamendotą pi lės Ragainės Volradą, apreikšdamas jam, jog keta krikštytis ir lūgoja jo, idant ateitų pilį užimti ir jam pragumą."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184661
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ateinantį metą Lietuvoj rados zdroda: kaipogi
     Aukaimio pilės vyras, arba kamendotas, Draikis
@@ -76,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201311
+    - t-001

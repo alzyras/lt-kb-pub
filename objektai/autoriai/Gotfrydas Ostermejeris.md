@@ -41,7 +41,6 @@ Gotfrydas Ostermejeris buvo Karaliaučiaus universiteto profesorius ir veikalo �
 
 <a id="claim-t-191643"></a>
 - t-001
-  global_id: t-191643
   teiginys: "Gotfrydas Ostermejeris buvo Karaliaučiaus universiteto profesorius ir veikalo „Mintys apie senuosius Prūsų žemės gyventojus“ autorius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Gotfrydas Ostermejeris buvo Karaliaučiaus universiteto profesorius ir veikalo �
 
 <a id="claim-t-197296"></a>
 - t-002
-  global_id: t-197296
   teiginys: "Gotfrydas Ostermejeris reiškė vyrų garbinamą mėnulį, kaip romėnų Men arba Lunus; Mena, arba Luna, - tas pats šviesulys, kurio, kaip deivės, šaukiasi moterys."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,8 @@ Gotfrydas Ostermejeris buvo Karaliaučiaus universiteto profesorius ir veikalo �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191643
+    - t-001
+
 - id: c-179110
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -111,4 +110,4 @@ Gotfrydas Ostermejeris buvo Karaliaučiaus universiteto profesorius ir veikalo �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197296
+    - t-002

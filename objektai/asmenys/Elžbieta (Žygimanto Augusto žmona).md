@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-173147"></a>
 - t-001
-  global_id: t-173147
   teiginys: "1545 m. liepos 17 d. karalienės Elžbietos mirtis nuliūdino rūmus ir Vilniaus miesto gyventojus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ media_all_json: |-
 
 <a id="claim-t-173148"></a>
 - t-002
-  global_id: t-173148
   teiginys: "Elžbieta, Ferdinando duktė, 1543 m. ištekėjo už Žygimanto Augusto, 1545 m. mirė Vilniuje ir buvo palaidota katedroje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ media_all_json: |-
 
 <a id="claim-t-173150"></a>
 - t-003
-  global_id: t-173150
   teiginys: "Italų meistrai Šv. Stanislovo bažnyčioje pastatė marmurinį antkapį karaliaus žmonai Elžbietai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,7 +123,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173148
+    - t-002
+
 - id: c-157478
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -146,7 +144,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173147
+    - t-001
+
 - id: c-157480
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -171,6 +170,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173150
+    - t-003
+
 ## Ryšiai
 - Elžbieta (Žygimanto Augusto žmona) mirė [[objektai/vietos/Vilnius]]

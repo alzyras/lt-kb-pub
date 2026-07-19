@@ -39,7 +39,6 @@ Dusburgietis teigia, kad varakauskas R.
 
 <a id="claim-t-61346"></a>
 - t-001
-  global_id: t-61346
   teiginys: "R. Varakausko straipsnis apie lietuvių kovą su vokiškaisiais agresoriais Mindaugo laikotarpiu paskelbtas 1958 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Dusburgietis teigia, kad varakauskas R.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61346
+    - t-001

@@ -37,8 +37,7 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
 ## Teiginiai
 
 <a id="claim-t-88520"></a>
-- t-001
-  global_id: t-88520
+- t-003
   teiginys: "Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
     - c-84501
 
 <a id="claim-t-88521"></a>
-- t-002
-  global_id: t-88521
+- t-001
   teiginys: "LDK įsikūrė vokiečių, žydų ir armėnų bendruomenės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +70,7 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
     - c-84500
 
 <a id="claim-t-88522"></a>
-- t-003
-  global_id: t-88522
+- t-002
   teiginys: "LDK katalikai armėnai buvo laikomi viena iš „tarpininkaujančių mažumų“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,15 +108,15 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
     pininkaujančios mažumos“ – katalikai armėnai ir judėjai žydai. Aišku,
     šios mažumos į LDK persikėlė iš Lenkijos ir galbūt iš Vengrijos, todėl
     natūralu, kad čia jų būta mažiau.
-  citata_rodoma: |
-    šios mažumos į LDK persikėlė iš Lenkijos ir galbūt iš Vengrijos, todėl
+  citata_rodoma: "šios mažumos į LDK persikėlė iš Lenkijos ir galbūt iš Vengrijos, todėl"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88522
+    - t-002
+
 - id: c-84500
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -129,15 +126,15 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
     todėl valdovai kvietė pirklius ir amatininkus iš svetur. LDK įsikūrė vokie-
     čių, žydų ir armėnų. Beveik visos šios bendruomenės (išskyrus vokiečius)
     tapo kunigaikščių kolektyviniais vasalais, turinčiais savo konfesiją ir raštą.
-  citata_rodoma: |
-    čių, žydų ir armėnų. Beveik visos šios bendruomenės (išskyrus vokiečius)
+  citata_rodoma: "čių, žydų ir armėnų. Beveik visos šios bendruomenės (išskyrus vokiečius)"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88521
+    - t-001
+
 - id: c-84501
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -147,15 +144,11 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
 
        Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję
     sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235).
-  citata_rodoma: |
-    Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių
-
-       Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję
-    sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235).
+  citata_rodoma: "Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių\n\n   Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję\nsultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88520
+    - t-003

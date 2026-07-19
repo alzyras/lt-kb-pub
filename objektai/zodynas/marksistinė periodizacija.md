@@ -62,7 +62,6 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
 
 <a id="claim-t-05598"></a>
 - t-001
-  global_id: t-05598
   teiginys: "Sovietiniai istorikai Lietuvos istoriją skirstė pagal marksistinę periodizaciją."
   atnaujinta: "2026-05-30 12:01"
   sprendimo_priezastis: "auto"
@@ -84,7 +83,6 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
 
 <a id="claim-t-05599"></a>
 - t-002
-  global_id: t-05599
   teiginys: "Marksistinė Lietuvos istorijos periodizacija feodalizmo epochą skirstė į valstybės susidarymo ir baudžiavos įsigalėjimo laikotarpius."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -117,22 +115,16 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
     santykių įsigalėjimo šimtmečiai (iki XVIII amž. pirmos pusės).
     O toliau seka naujas laikotarpis, tai šimtmetis baudžiavinio ūkio
     irimo ir kapitalistinių santykių atsiradimo (iki XIX amž. pusės).
-  citata_rodoma: |
-    Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pa­
-    gal ją, I-sis Lietuvos TSR istorijos tomas apima feodalizmo epochą
-    (iki 1861 m.). Joje feodalinių santykių atsiradimo ir Lietuvos vals­
-    tybės susidarymo laikotarpį (IX-XV amž.) pakeičia baudžiavinių
-    santykių įsigalėjimo šimtmečiai (iki XVIII amž. pirmos pusės).
-    O toliau seka naujas laikotarpis, tai šimtmetis baudžiavinio ūkio
-    irimo ir kapitalistinių santykių atsiradimo (iki XIX amž. pusės).
+  citata_rodoma: "Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pa­\ngal ją, I-sis Lietuvos TSR istorijos tomas apima feodalizmo epochą\n(iki 1861 m.). Joje feodalinių santykių atsiradimo ir Lietuvos vals­\ntybės susidarymo laikotarpį (IX-XV amž.) pakeičia baudžiavinių\nsantykių įsigalėjimo šimtmečiai (iki XVIII amž. pirmos pusės).\nO toliau seka naujas laikotarpis, tai šimtmetis baudžiavinio ūkio\nirimo ir kapitalistinių santykių atsiradimo (iki XIX amž. pusės)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05598
-    - t-05599
+    - t-001
+    - t-002
+
 - id: c-06418
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -146,22 +138,15 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
     spaudą. Antrasis laikotarpis pradedamas naujo šimtmečio (XX)
     pačia pradžia, kada imperializmo ir buržuazinių bei demokratinių
     revoliucijų metais iš viso pakyla revoliucinis judėjimas.
-  citata_rodoma: |
-    Pritaikydami ir Lietuvos istorijos laukui komunistinės istorio­
-    grafijos nomenklatūrą, tarybiniai istorikai čia tematė du ryškius
-    laikotarpius. Pirmąjį jų (iki XIX amž. galo) atbaigia kapitalizmo
-    vystymasis po baudžiavos panaikinimo ir lietuvių nacijos susifor­
-    mavimas, kai lietuvių liaudis išėjo į kovą prieš nacionalinę prie­
-    spaudą. Antrasis laikotarpis pradedamas naujo šimtmečio (XX)
-    pačia pradžia, kada imperializmo ir buržuazinių bei demokratinių
-    revoliucijų metais iš viso pakyla revoliucinis judėjimas.
+  citata_rodoma: "Pritaikydami ir Lietuvos istorijos laukui komunistinės istorio­\ngrafijos nomenklatūrą, tarybiniai istorikai čia tematė du ryškius\nlaikotarpius. Pirmąjį jų (iki XIX amž. galo) atbaigia kapitalizmo\nvystymasis po baudžiavos panaikinimo ir lietuvių nacijos susifor­\nmavimas, kai lietuvių liaudis išėjo į kovą prieš nacionalinę prie­\nspaudą. Antrasis laikotarpis pradedamas naujo šimtmečio (XX)\npačia pradžia, kada imperializmo ir buržuazinių bei demokratinių\nrevoliucijų metais iš viso pakyla revoliucinis judėjimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05598
+    - t-001
+
 - id: c-06419
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -172,16 +157,11 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
     būti logiškai konsekventiški. Bet jų periodizacija yra svetima
     lietuvių tautos istorijos faktams. Ji net užtenkamai neatsižvelgia
     į pačios liaudies socialinius, kultūrinius bei ūkinius santykius.
-  citata_rodoma: |
-    Šitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo
-    marksistinėje teorijoje ir Lietuvos istorijos skirstymo atveju norėjo
-    būti logiškai konsekventiški. Bet jų periodizacija yra svetima
-    lietuvių tautos istorijos faktams. Ji net užtenkamai neatsižvelgia
-    į pačios liaudies socialinius, kultūrinius bei ūkinius santykius.
+  citata_rodoma: "Šitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo\nmarksistinėje teorijoje ir Lietuvos istorijos skirstymo atveju norėjo\nbūti logiškai konsekventiški. Bet jų periodizacija yra svetima\nlietuvių tautos istorijos faktams. Ji net užtenkamai neatsižvelgia\nį pačios liaudies socialinius, kultūrinius bei ūkinius santykius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05598
+    - t-001

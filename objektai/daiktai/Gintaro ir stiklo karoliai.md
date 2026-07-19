@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-71563"></a>
 - t-001
-  global_id: t-71563
   teiginys: "Buvo mėgiami gintaro ir stiklo karoliai."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -78,13 +77,11 @@ Nenurodyta
     audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
     Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­
     liai.
-  citata_rodoma: |
-    Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­
-    liai.
+  citata_rodoma: "Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­\nliai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71563
+    - t-001

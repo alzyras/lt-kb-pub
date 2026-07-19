@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201318"></a>
 - t-001
-  global_id: t-201318
   teiginys: "Albertui, kursai su mistru Volkvinu, sukėlęs visą savo galią ir susinėręs su meldžionimis, turėjo daugiaus nei 20 000 karėjų; su tokia kariauna trau kė per pašalusią jūros atsiautą į Eželio salą patrakėlių ramdyti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184668
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Albertui, kursai su mistru Volkvinu, sukėlęs
     visą savo galią ir susinėręs su meldžionimis, turėjo
@@ -76,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201318
+    - t-001

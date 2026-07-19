@@ -56,7 +56,6 @@ Mokslo akademija.
 
 <a id="claim-t-195504"></a>
 - t-001
-  global_id: t-195504
   teiginys: "Suomių mokslo akademija buvo pažadėjusi paskirti vieną savo leidinį likusiam lietuvių dainų rankraščiui ir anksčiau buvo išleidusi kitą su tuo darbu susijusią knygą."
   atnaujinta: "2026-07-12 04:52"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -89,12 +88,11 @@ Mokslo akademija.
     nes joms išleisti jų Mokslo Akademija buvo pažadėjusi paskirti vieną
     savo leidinį: ta pati Suomių mokslo akademija, kuri ir aną knygą iš­
     leido.
-  citata_rodoma: |
-    Nes joms išleisti jų Mokslo Akademija buvo pažadėjusi paskirti vieną savo leidinį: ta pati Suomių mokslo akademija, kuri ir aną knygą išleido.
+  citata_rodoma: "Nes joms išleisti jų Mokslo Akademija buvo pažadėjusi paskirti vieną savo leidinį: ta pati Suomių mokslo akademija, kuri ir aną knygą išleido."
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195504
+    - t-001

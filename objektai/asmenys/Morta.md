@@ -39,7 +39,6 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
 
 <a id="claim-t-19156"></a>
 - t-001
-  global_id: t-19156
   teiginys: "1251 m. pavasarį arba vasaros pradžioje Morta kartu su Mindaugu gavo krikštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,14 +85,14 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
     Livonijos ordino magistrą Andrių Štirlandą. Per jį 1251 m. pavasarį (ar
     vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
     sau – karaliaus karūną.
-  citata_rodoma: |
-    vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
+  citata_rodoma: "vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19156
+    - t-001
+
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

@@ -31,7 +31,6 @@ Tačiau skitų likučiai tikrąja šio pavadinimo prasme išliko Rytuose iki II 
 
 <a id="claim-t-194881"></a>
 - t-001
-  global_id: t-194881
   teiginys: "Tačiau skitų likučiai tikrąja šio pavadinimo prasme išliko Rytuose iki II amžiaus prieš Kristaus gimimą, nes iš istorijos žinome, kad 130 metais prieš mūsų erą skitų 1 Justin."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Tačiau skitų likučiai tikrąja šio pavadinimo prasme išliko Rytuose iki II 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194881
+    - t-001

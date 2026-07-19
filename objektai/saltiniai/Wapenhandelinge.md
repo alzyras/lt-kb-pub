@@ -36,7 +36,6 @@ Wapenhandelinge, 1607 (pirmasis leidimas).
 
 <a id="claim-t-39940"></a>
 - t-001
-  global_id: t-39940
   teiginys: "Jacobo de Gheyno „Wapenhandelinge“ pirmasis leidimas pasirodė 1607 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Wapenhandelinge, 1607 (pirmasis leidimas).
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39940
+    - t-001

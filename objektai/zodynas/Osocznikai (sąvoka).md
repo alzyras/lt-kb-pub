@@ -33,7 +33,6 @@ media_all_json: |-
 
 <a id="claim-t-201809"></a>
 - t-001
-  global_id: t-201809
   teiginys: "Šie valstiečiai Fredoje turėjo ruošti miestui statybinį mišką, prižiūrėti kelius, kai kurie iš jų turėjo eigulių ar miško sargų (osoczniki) pareigas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201809
+    - t-001

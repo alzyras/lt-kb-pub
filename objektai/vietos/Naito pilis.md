@@ -28,7 +28,6 @@ Vita vudas būk tuojau naują pilį, vadinamą Naito, tarp Nemuno ir Ailibo upė
 
 <a id="claim-t-201173"></a>
 - t-001
-  global_id: t-201173
   teiginys: "Vita vudas būk tuojau naują pilį, vadinamą Naito, tarp Nemuno ir Ailibo upės gret šios dienos Karaliau čiaus įkūręs1."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Vita vudas būk tuojau naują pilį, vadinamą Naito, tarp Nemuno ir Ailibo upė
 ## Citatos
 
 - id: c-184523
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vitavudas, pasimylavęs su Bruteniu,
     sutarė nuo šiol niekam duoklės nei dovenų neduoti,
@@ -63,4 +63,4 @@ Vita vudas būk tuojau naują pilį, vadinamą Naito, tarp Nemuno ir Ailibo upė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201173
+    - t-001

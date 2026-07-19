@@ -46,27 +46,8 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
 
 ## Teiginiai
 
-<a id="claim-t-192183"></a>
-- t-001
-  global_id: t-192183
-  teiginys: "Narbutas aiškina, kad Žiemos kinkinys čia pateikiamas kaip alternatyva mažai valčiai vasarą."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "žiemos kinkinys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žiemos kinkinys\" parinktas kaip owner_note_path. Targetas \"Upės (Oppen) kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-175054
-
 <a id="claim-t-192184"></a>
-- t-002
-  global_id: t-192184
+- t-001
   teiginys: "Žiemos kinkinys Narbuto pasakojime buvo priemonė keliauti užšalusiais vandens keliais pasroviui arba jų kryptimi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -85,7 +66,6 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
 
 <a id="claim-t-192582"></a>
 - t-003
-  global_id: t-192582
   teiginys: "Žiemos kinkinys Narbuto aprašyme leido žiemą keliauti didesnių upių ir kitų vandens kelių kryptimi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -127,19 +107,15 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
     ju — žiemos kinkinį, kad pasroviui arba tų vandens kelių
     kryptimi galima būtų keliauti, nes taip lengviausia pa­
     tenkinti gyvenimo poreikius.
-  citata_rodoma: |
-    pirmuoju atveju pakako turėti šiokią tokią valtį, o antruo-
-    ju — žiemos kinkinį, kad pasroviui arba tų vandens kelių
-    kryptimi galima būtų keliauti, nes taip lengviausia pa-
-    tenkinti gyvenimo poreikius.
+  citata_rodoma: "pirmuoju atveju pakako turėti šiokią tokią valtį, o antruo-\nju — žiemos kinkinį, kad pasroviui arba tų vandens kelių\nkryptimi galima būtų keliauti, nes taip lengviausia pa-\ntenkinti gyvenimo poreikius."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192183
-    - t-192184
+    - t-001
+
 - id: c-175353
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -163,4 +139,4 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192582
+    - t-003

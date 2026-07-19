@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-01914"></a>
 - t-001
-  global_id: t-01914
   teiginys: "Ankstyvesni karai Lietuvai baigdavosi nelaimingai, nes bajorija nenorėjo kariauti ir mokėti karui reikalingų mokesčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-01915"></a>
 - t-002
-  global_id: t-01915
   teiginys: "Bajorijai nenorint eiti į karą, jos vietoje buvo įvesta samdytinė kariuomenė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,19 +90,15 @@ Nenurodyta
     bajorija nenorėjo kariauti ir nenorėjo mokėti karui reikalingų
     mokesčių. Tad kol būdavo surenkama kariuomenė, Maskva
     suspėdavo užimti nemaža Lietuvos pilių.
-  citata_rodoma: |
-    Ankstyves-
-    nieji karai pasibaigdavo Lietuvai nelaimingai ypač dėl to, kad
-    bajorija nenorėjo kariauti ir nenorėjo mokėti karui reikalingų
-    mokesčių. Tad kol būdavo surenkama kariuomenė, Maskva
-    suspėdavo užimti nemaža Lietuvos pilių.
+  citata_rodoma: "Ankstyves-\nnieji karai pasibaigdavo Lietuvai nelaimingai ypač dėl to, kad\nbajorija nenorėjo kariauti ir nenorėjo mokėti karui reikalingų\nmokesčių. Tad kol būdavo surenkama kariuomenė, Maskva\nsuspėdavo užimti nemaža Lietuvos pilių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01914
+    - t-001
+
 - id: c-02153
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -115,14 +109,11 @@ Nenurodyta
     Kadangi bajorija nenorėjo eiti į karą, tai jos vietoje buvo įves-
     ta samdytinė kariuomenė. Tačiau bajorija nenorėjo
     mokėti net tos kariuomenės išlaikymui reikalingų mokesčių.
-  citata_rodoma: |
-    Kadangi bajorija nenorėjo eiti į karą, tai jos vietoje buvo įves-
-    ta samdytinė kariuomenė. Tačiau bajorija nenorėjo
-    mokėti net tos kariuomenės išlaikymui reikalingų mokesčių.
+  citata_rodoma: "Kadangi bajorija nenorėjo eiti į karą, tai jos vietoje buvo įves-\nta samdytinė kariuomenė. Tačiau bajorija nenorėjo\nmokėti net tos kariuomenės išlaikymui reikalingų mokesčių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01915
+    - t-002

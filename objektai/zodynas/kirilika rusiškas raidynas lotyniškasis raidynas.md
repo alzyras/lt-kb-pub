@@ -39,7 +39,6 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
 
 <a id="claim-t-70176"></a>
 - t-001
-  global_id: t-70176
   teiginys: "Iš dvikalbių elementorių kirilika sumanymo kilo siekis lietuvių raštijoje lotyniškąjį raidyną pakeisti rusiškuoju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
 
 <a id="claim-t-70177"></a>
 - t-002
-  global_id: t-70177
   teiginys: "Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, o lietuvių kalbos mokyti kaip disciplinos iš kirilika parašytų vadovėlių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
 
 <a id="claim-t-70178"></a>
 - t-003
-  global_id: t-70178
   teiginys: "1904 m. pavasarį atšaukus lietuvių spaudos lotyniškuoju raidynu draudimą, pačiame krašte greitai atsirado legali lietuvių spauda."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,15 +104,15 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
     Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
     atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus
     greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.
-  citata_rodoma: |
-    Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
+  citata_rodoma: "Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70178
+    - t-003
+
 - id: c-69261
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -129,15 +126,15 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
     turintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių
     paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir
     lietuvių „suartinimo“ su rusų kultūra gija.
-  citata_rodoma: |
-    turintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių
+  citata_rodoma: "turintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70177
+    - t-002
+
 - id: c-166824
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -159,4 +156,4 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70176
+    - t-001

@@ -30,7 +30,6 @@ Prancūzija Žoržo B.
 
 <a id="claim-t-78077"></a>
 - t-001
-  global_id: t-78077
   teiginys: "Žoržo B. Klemanso rašte vokiečiams Prancūzija aiškino sąjungininkų sprendimą dėl Klaipėdos krašto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,18 +59,11 @@ Prancūzija Žoržo B.
     nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada
     buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į
     jūrą.
-  citata_rodoma: |
-    Versalio
-    sutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir
-    perdavė laikinai sąjungininkų kontrolei. Prancūzija Žoržo B. Klemanso
-    (Georges B. Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai
-    nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada
-    buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į
-    jūrą.
+  citata_rodoma: "Versalio \nsutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir \nperdavė laikinai sąjungininkų kontrolei. Prancūzija Žoržo B. Klemanso \n(Georges B. Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai \nnepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada \nbuvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į \njūrą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78077
+    - t-001

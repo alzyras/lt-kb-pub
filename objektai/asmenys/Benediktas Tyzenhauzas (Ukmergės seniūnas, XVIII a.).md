@@ -38,7 +38,6 @@ Benediktas Tyzenhauzas buvo Ukmergės seniūnas. 1754 m. Benediktas Tyzenhauzas 
 
 <a id="claim-t-200523"></a>
 - t-001
-  global_id: t-200523
   teiginys: "Benediktas Tyzenhauzas buvo Ukmergės seniūnas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -56,7 +55,6 @@ Benediktas Tyzenhauzas buvo Ukmergės seniūnas. 1754 m. Benediktas Tyzenhauzas 
 
 <a id="claim-t-200524"></a>
 - t-002
-  global_id: t-200524
   teiginys: "1754 m. Benediktas Tyzenhauzas lankydavosi pas Antaną Davainį Solohubą, o šis būdavo pas jį Paplaujoje."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -90,28 +88,9 @@ Benediktas Tyzenhauzas buvo Ukmergės seniūnas. 1754 m. Benediktas Tyzenhauzas 
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 11"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
-  citata_originali: |
-    1756 m. jis rašė,
-    kad, pabuvęs seimelyje, mąstė, jog jau bus laiko užtektinai savo reikalams, bet atvyko
-    vyresnysis Mstislavlio vaivadaitis (greičiausiai Juozapas Sapiega – būsimasis LDK raiky-
-    tojas) ir dabar reikia su juo užsiimti [47]. 1754 m. dėl konkurencijos jis perspėjo tuometį
-    Anykščių seniūną Mykolą Ksaverą Sapiegą, esą jo politiniai konkurentai LDK artilerijos
-    generolas Antanas Davainis Solohubas (Antoni Dowojna Sołłohub) ir Ukmergės seniūnas
-    Benediktas Tyzenhauzas taip vienas kitą pamėgo, kad generolas nuolat būna pas seniūną
-    Paplaujoje arba B. Tyzenhauzas lankosi pas A. Davainį Solohubą, kuris apsistojęs pas
-    Hanyzą (Hanyz) prie Šv. Jono bažnyčios ir jiedu per naktį kortomis lošia faraoną [40].
-  citata_rodoma: |
-    1754 m. dėl konkurencijos jis perspėjo tuometį
-    Anykščių seniūną Mykolą Ksaverą Sapiegą, esą jo politiniai konkurentai LDK artilerijos
-    generolas Antanas Davainis Solohubas (Antoni Dowojna Sołłohub) ir Ukmergės seniūnas
-    Benediktas Tyzenhauzas taip vienas kitą pamėgo, kad generolas nuolat būna pas seniūną
-    Paplaujoje arba B. Tyzenhauzas lankosi pas A. Davainį Solohubą, kuris apsistojęs pas
-    Hanyzą (Hanyz) prie Šv. Jono bažnyčios ir jiedu per naktį kortomis lošia faraoną [40].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200523
-    - t-200524
+    - t-001
+    - t-002

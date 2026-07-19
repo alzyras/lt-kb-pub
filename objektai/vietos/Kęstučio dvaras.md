@@ -32,7 +32,6 @@ Taigi Kęstučio dvaras buvo vie­ ta, kur daugiausia turėta žinių apie visus
 
 <a id="claim-t-36346"></a>
 - t-001
-  global_id: t-36346
   teiginys: "Kęstučio dvare buvo sukaupta daug žinių apie Lietuvos kaimynus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,15 +61,11 @@ Taigi Kęstučio dvaras buvo vie­ ta, kur daugiausia turėta žinių apie visus
     ta, kur daugiausia turėta žinių apie visus kaimynus. Netenka
     abejoti, kad tokiose sąlygose beaugąs Vytautas galėjo anksti
     susipažinti su valstybės reikalais.
-  citata_rodoma: |
-    Taigi Kęstučio dvaras buvo vie­
-    ta, kur daugiausia turėta žinių apie visus kaimynus. Netenka
-    abejoti, kad tokiose sąlygose beaugąs Vytautas galėjo anksti
-    susipažinti su valstybės reikalais.
+  citata_rodoma: "Taigi Kęstučio dvaras buvo vie­\nta, kur daugiausia turėta žinių apie visus kaimynus. Netenka\nabejoti, kad tokiose sąlygose beaugąs Vytautas galėjo anksti\nsusipažinti su valstybės reikalais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36346
+    - t-001

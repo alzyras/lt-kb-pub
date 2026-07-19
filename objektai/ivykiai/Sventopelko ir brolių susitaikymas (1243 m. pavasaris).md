@@ -52,10 +52,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89403"></a>
-- t-001
-  global_id: t-89403
+- t-003
   teiginys: "Sventopelko ir brolių taika buvo sudaryta 1243 m. pavasarį."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Sventopelkas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -69,11 +68,11 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai palaiko datą, o pradinis teiginys turi bibliografinio triukšmo."
   pagrindžia:
+    - c-85363
     - c-85365
-    - c-003
+
 <a id="claim-t-89404"></a>
-- t-002
-  global_id: t-89404
+- t-004
   teiginys: "Sventopelkas kaip užstatą turėjo atiduoti broliams Sartovicų pilį ir įkaitais atsiųsti Mstivojų, Vimarą bei Vojaką."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,8 +88,7 @@ Nenurodyta
     - c-85362
 
 <a id="claim-t-89405"></a>
-- t-003
-  global_id: t-89405
+- t-002
   teiginys: "Po susitaikymo Sventopelkas grąžino brolius ir kitus rastus belaisvius, tarp jų 70 kilmingų matronų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -106,8 +104,7 @@ Nenurodyta
     - c-85362
 
 <a id="claim-t-89406"></a>
-- t-004
-  global_id: t-89406
+- t-001
   teiginys: "Sventopelkas atvyko pas legatą ir brolius, pripažino savo klaidą ir paprašė pasigailėjimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -134,8 +131,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89403
+
 ## Citatos
 
 - id: c-85362
@@ -156,24 +152,16 @@ Nenurodyta
     šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai
     palaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu.
     40.
-  citata_rodoma: |
-    Sitai padarius, sugrąžino brolius bei kitus belaisvius, kuriuos beįmanė
-    surasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų;
-    šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai
-    palaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu.
-
-
-
-
-                 40.
+  citata_rodoma: "Sitai padarius, sugrąžino brolius bei kitus belaisvius, kuriuos beįmanė\nsurasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų;\nšios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai\npalaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu.\n\n\n\n\n             40."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89404
-    - t-89405
+    - t-004
+    - t-002
+
 - id: c-85363
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -206,7 +194,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89406
+    - t-003
+    - t-001
+
 - id: c-85365
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -223,13 +213,11 @@ Nenurodyta
     pilis: Torunę, Kulmą ir Rudiną. Šitai padarę, pasuko su savo kariuomene prie Kulmo
     miesto bei pilies ir čia — išdidūs ir pasipūtę — apsistojo iki vakaro. Po to patraukė iki
     pelkės, vardu Renzenas279, kur naktį ilsėjosi.
-  citata_rodoma: |
-    277 Taika sudaryta 1243 m. pavasarį (Ewald A. L., Die Eroberung..., 2, p. 99; Kujot
-    S., Dzieje Prus..., 1, p. 713).
+  citata_rodoma: "277 Taika sudaryta 1243 m. pavasarį (Ewald A. L., Die Eroberung..., 2, p. 99; Kujot\nS., Dzieje Prus..., 1, p. 713)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89403
+    - t-003

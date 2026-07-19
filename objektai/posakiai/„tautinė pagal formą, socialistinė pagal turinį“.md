@@ -31,7 +31,6 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
 
 <a id="claim-t-26655"></a>
 - t-001
-  global_id: t-26655
   teiginys: "Kultūra Lietuvoje plėtota pagal sovietų principą „tautinė pagal formą, socialistinė pagal turinį“."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
 
 <a id="claim-t-26907"></a>
 - t-002
-  global_id: t-26907
   teiginys: "Formulė iliustruojama tautiniais drabužiais vilkinčiais choristais, dainavusiais apie V. Leniną."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
 
 <a id="claim-t-75622"></a>
 - t-003
-  global_id: t-75622
   teiginys: "Dainų šventėse principas „tautinė pagal formą, socialistinė pagal turinį“ ilgainiui liko privalomos socialistinės programos apvalkalu."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -76,7 +73,6 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
 
 <a id="claim-t-75623"></a>
 - t-004
-  global_id: t-75623
   teiginys: "Pagal principą „tautinė pagal formą, socialistinė pagal turinį“ choristai tautiniais drabužiais dainavo apie V. Leniną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,7 +110,7 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26655
-    - t-26907
-    - t-75622
-    - t-75623
+    - t-001
+    - t-002
+    - t-003
+    - t-004

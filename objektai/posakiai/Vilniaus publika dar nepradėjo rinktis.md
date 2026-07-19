@@ -53,7 +53,6 @@ Posakis nusako, kad bajoriškoji publika dar nesusirinko, nors jos atvykimo žen
 
 <a id="claim-t-200626"></a>
 - t-001
-  global_id: t-200626
   teiginys: "1747 m. Jonas Dominykas Lopacinskis rašė, kad Vilniaus publika dar nepradėjo rinktis, nors jos požymiai jau matėsi."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::sayings"
@@ -80,24 +79,8 @@ Posakis nusako, kad bajoriškoji publika dar nesusirinko, nors jos atvykimo žen
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 10"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 10."
-  citata_originali: |
-    Anot dvasininko, atvykęs Polocko vaivada Aleksandras Mykolas Sapiega visus
-    nustebino ir sujaukė [42].
-    Galima teigti, kad kanauninkas su nekantrumu laukdavo bajorų suvažiavimo į sos-
-    tinę, susitikimų ir derybų, kadangi siekė būti politinių ir visuomenės įvykių epicentre.
-    „Pas mus čia Vilniaus publika [rinktis] dar nepradėjo, nors jos požymiai jau matosi“,
-    minėjo jis laiške pakancleriui 1747 m., teigė, kad į tribunolo pradžią LDK etmonas My-
-    kolas Radvila Žuvelė neatvyks, nes neseniai sirgo [6].
-  citata_rodoma: |
-    Galima teigti, kad kanauninkas su nekantrumu laukdavo bajorų suvažiavimo į sos-
-    tinę, susitikimų ir derybų, kadangi siekė būti politinių ir visuomenės įvykių epicentre.
-    „Pas mus čia Vilniaus publika [rinktis] dar nepradėjo, nors jos požymiai jau matosi“,
-    minėjo jis laiške pakancleriui 1747 m., teigė, kad į tribunolo pradžią LDK etmonas My-
-    kolas Radvila Žuvelė neatvyks, nes neseniai sirgo [6].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200626
+    - t-001

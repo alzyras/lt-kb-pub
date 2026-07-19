@@ -34,7 +34,6 @@ Olauso Magnuso veikalas „Historia De Gentibus Septentrionalis“ bibliografijo
 
 <a id="claim-t-200750"></a>
 - t-001
-  global_id: t-200750
   teiginys: "Olauso Magnuso veikalas „Historia De Gentibus Septentrionalis“ bibliografijoje nurodomas kaip 1555 m. Plantino leidinys Antverpene."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,5 @@ Olauso Magnuso veikalas „Historia De Gentibus Septentrionalis“ bibliografijo
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200750
+    - t-001

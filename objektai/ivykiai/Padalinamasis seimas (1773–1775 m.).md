@@ -49,8 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01763"></a>
-- t-001
-  global_id: t-01763
+- t-002
   teiginys: "Padalinamasis seimas konstitucijomis skyrė milžiniškas pinigų sumas didikams, pasidarbavusiems rusams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Nenurodyta
     - c-02001
 
 <a id="claim-t-01764"></a>
-- t-002
-  global_id: t-01764
+- t-001
   teiginys: "Per 1773–1775 m. padalinamąjį seimą buvo sunaikintos valstybės pajamos, išgrobsčius daugumą valstybės dvarų ir iždo pinigus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,17 +107,15 @@ Nenurodyta
     ižde buvusius pinigus. Seimas priėmė eilę konstitucijų, kuriomis
     Rusams pasidarbavę didikai „už nuopelnus kraštui" buvo
     apdovanoti milžiniškomis sumomis pinigų.
-  citata_rodoma: |
-    Seimas priėmė eilę konstitucijų, kuriomis
-    Rusams pasidarbavę didikai „už nuopelnus kraštui" buvo
-    apdovanoti milžiniškomis sumomis pinigų.
+  citata_rodoma: "Seimas priėmė eilę konstitucijų, kuriomis\nRusams pasidarbavę didikai „už nuopelnus kraštui\" buvo\napdovanoti milžiniškomis sumomis pinigų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01763
+    - t-002
+
 - id: c-02002
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -139,16 +135,11 @@ Nenurodyta
     visiškai sunaikintos: daugumas valstybės dvarų buvo jų iš-
     grobstyta (seimas tą patvirtino), be to, jie išgrobstė ir visus
     ižde buvusius pinigus.
-  citata_rodoma: |
-    Valstybės pajamos per 1773—1775 m. padalinamąjį seimą,
-    kai krašte šeimininkavo visoki rusų parsidavėliai, taip pat buvo
-    visiškai sunaikintos: daugumas valstybės dvarų buvo jų iš-
-    grobstyta (seimas tą patvirtino), be to, jie išgrobstė ir visus
-    ižde buvusius pinigus.
+  citata_rodoma: "Valstybės pajamos per 1773—1775 m. padalinamąjį seimą,\nkai krašte šeimininkavo visoki rusų parsidavėliai, taip pat buvo\nvisiškai sunaikintos: daugumas valstybės dvarų buvo jų iš-\ngrobstyta (seimas tą patvirtino), be to, jie išgrobstė ir visus\nižde buvusius pinigus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01764
+    - t-001

@@ -3,17 +3,18 @@ tipas: vieta
 pavadinimas: 'Brestas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1393 m.'
 date_start: '1393'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,13 +32,12 @@ media_all_json: |-
 
 ## Santrauka
 
-Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir išžudyti žymiausius Lietuvos didikus. Šich Achmetas, Užvolgio skitų valdovas, būdamas tremtinys ir beveik belaisvis Breste ir Radome tarėsi su Aleksandru. Į Brestą atkeliavę Maskvos legatai turėjo patvirtinti paliaubas, bet karaliaus Lietuvoje neberado.
+— 99 — (1393) Dievo Apveizdos bažnyčias, o kiek vėliau pastatė ir šiose vietose bažnyčias: Švenčionyse, Perlojoje, Trakuose, Gardine, Breste ir kt. Kaune ir Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus pranciškonams; Breste įsteigė vienuolyną augustinijonams; juos taip pat gausiai apdovanojo Medininkuose (Viln.
 
 ## Teiginiai
 
 <a id="claim-t-185230"></a>
-- t-001
-  global_id: t-185230
+- t-003
   teiginys: "Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir išžudyti žymiausius Lietuvos didikus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -49,10 +49,9 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
     - c-168591
 
 <a id="claim-t-185231"></a>
-- t-002
-  global_id: t-185231
+- t-004
   teiginys: "Šich Achmetas, Užvolgio skitų valdovas, būdamas tremtinys ir beveik belaisvis Breste ir Radome tarėsi su Aleksandru."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -62,8 +61,7 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
     - c-168592
 
 <a id="claim-t-185233"></a>
-- t-003
-  global_id: t-185233
+- t-006
   teiginys: "Į Brestą atkeliavę Maskvos legatai turėjo patvirtinti paliaubas, bet karaliaus Lietuvoje neberado."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
     - c-168594
 
 <a id="claim-t-193439"></a>
-- t-004
-  global_id: t-193439
+- t-012
   teiginys: "Netru kus į Brestą atkeliavo Maskvos legatai, atsiųsti patvir tinti paliaubų, tačiau nebeM a sk v o s p a siu n tin ia i surado karaliaus Lietuvoje."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -88,8 +85,7 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
     - c-168594
 
 <a id="claim-t-196677"></a>
-- t-005
-  global_id: t-196677
+- t-013
   teiginys: "Gediminas atsiėmė Drohičiną ir Brestą, prijungė kraštą prie Lietuvos valdų ir paliko lietuvių įgulas bei vietininkus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -100,6 +96,18 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178835
+
+<a id="claim-t-201588"></a>
+- t-014
+  teiginys: "Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Brestas, Kijevas, Mogiliavas, Pinskas, Polockas, Vitebskas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184935
 
 ## Citatos
 
@@ -133,37 +141,15 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
     buvo paskalos, ar teisybė, bet daugelis tuo patikėjo:
     taip jau esti, kad apie visas žymiąsias šeimas daugiau­
     sia ir sklinda visokiausių šnekų.
-  citata_rodoma: |
-    Rodos, žiaurus patarimas, bet iš tiesų būtinas,
-    580
-
-    ## Puslapis 579
-
-    nes kitaip neapginsi nei valdovo orumo, nei valstybės
-    saugumo. Neatsispyręs kas dieną girdimiems Glinskio
-    klastingiems
-    raginimams,
-    Karalius
-    pasmerkia
-    Aleksandras pasmerkė mir-
-    mirčiai
-    žymiausius
-    čiai Žemaitijos seniūną Sta-
-    Lietuvos didikus
-    nislovą Žarnovskį, Smolens­
-    ko vietininką Stanislovą Kiš­
-    ką, Polocko vaivadą Stanislovą Glebavičių, Lietuvos
-    maršalą Joną Zaberezinskį ir kitus to paties luomo ir
-    tos pačios minties žmones. Jis sušaukė Breste seimą,
-    ketindamas kokia nors dingstimi sukviesti ten žymiau­
-    sius didikus į pilį, suimti ir išžudyti.
+  citata_rodoma: "Rodos, žiaurus patarimas, bet iš tiesų būtinas,\n580\n\n## Puslapis 579\n\nnes kitaip neapginsi nei valdovo orumo, nei valstybės\nsaugumo. Neatsispyręs kas dieną girdimiems Glinskio\nklastingiems\nraginimams,\nKaralius\npasmerkia\nAleksandras pasmerkė mir-\nmirčiai\nžymiausius\nčiai Žemaitijos seniūną Sta-\nLietuvos didikus\nnislovą Žarnovskį, Smolens­\nko vietininką Stanislovą Kiš­\nką, Polocko vaivadą Stanislovą Glebavičių, Lietuvos\nmaršalą Joną Zaberezinskį ir kitus to paties luomo ir\ntos pačios minties žmones. Jis sušaukė Breste seimą,\nketindamas kokia nors dingstimi sukviesti ten žymiau­\nsius didikus į pilį, suimti ir išžudyti."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185230
+    - t-003
+
 - id: c-168592
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -185,31 +171,15 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
     šiuo metu dar nėra išryškėjęs, bet netrukus išryškė-
     siąs ir, jeigu skubiai nebus užgniaužtas, atnešiąs vi­
     suomenei pražūtį.
-  citata_rodoma: |
-    Karalius, supratęs, kad jo sumanymai visiems žinomi,
-    sutiko parodyti malonę, patariamas to paties kancle­
-    rio, o labiausiai Jono iš Osvencimo, savo nuodėm­
-    klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi­
-    ją, o kitus išvijo iš senato.
-    Į seimą atvyko iš Vilniaus
-    Skitas Sich Achmetas
-    Šich Achmetas, Užvolgio ski-
-    tariasi su karaliumi
-    tų valdovas, o šiuo metu
-    Breste ir Radome
-    tremtinys ir beveik belaisvis.
-    Aleksandras jį pasitiko už
-    penkių mylių: pastačius plyname lauke puošnią pala­
-    pinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo
-    Sich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie
-    karaliaus.
+  citata_rodoma: "Karalius, supratęs, kad jo sumanymai visiems žinomi,\nsutiko parodyti malonę, patariamas to paties kancle­\nrio, o labiausiai Jono iš Osvencimo, savo nuodėm­\nklausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi­\nją, o kitus išvijo iš senato.\nĮ seimą atvyko iš Vilniaus\nSkitas Sich Achmetas\nŠich Achmetas, Užvolgio ski-\ntariasi su karaliumi\ntų valdovas, o šiuo metu\nBreste ir Radome\ntremtinys ir beveik belaisvis.\nAleksandras jį pasitiko už\npenkių mylių: pastačius plyname lauke puošnią pala­\npinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo\nSich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie\nkaraliaus."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185231
+    - t-004
+
 - id: c-168594
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -231,28 +201,16 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
     žemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po
     ilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­
     susitarus dėl taikos, išvykti iš Maskvos.
-  citata_rodoma: |
-    Tol luomai nenurimo, kol negavo iš karaliaus valstybės
-    antspaudais patvirtinto rašto, kuriuo šis savo bei sa-
-    650
-
-    ## Puslapis 649
-
-    vo įpėdinių vardu pasižadėjo niekada neleisti, kad į
-    senatą pakliūtų žmonės, neišpažįstantys Romos tikėji­
-    mo. Paleidęs seimą, karalius išvyko į Krokuvą. Netru­
-    kus į Brestą atkeliavo Maskvos legatai, atsiųsti patvir­
-    tinti paliaubų, tačiau nebe-
-    M a sk v o s p a siu n tin ia i
-    surado karaliaus Lietuvoje.
+  citata_rodoma: "Tol luomai nenurimo, kol negavo iš karaliaus valstybės\nantspaudais patvirtinto rašto, kuriuo šis savo bei sa-\n650\n\n## Puslapis 649\n\nvo įpėdinių vardu pasižadėjo niekada neleisti, kad į\nsenatą pakliūtų žmonės, neišpažįstantys Romos tikėji­\nmo. Paleidęs seimą, karalius išvyko į Krokuvą. Netru­\nkus į Brestą atkeliavo Maskvos legatai, atsiųsti patvir­\ntinti paliaubų, tačiau nebe-\nM a sk v o s p a siu n tin ia i\nsurado karaliaus Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185233
-    - t-193439
+    - t-006
+    - t-012
+
 - id: c-178835
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -277,4 +235,20 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196677
+    - t-013
+
+- id: c-184935
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Pagal jį Vilniui buvo skirta 500 kapų grašių norma. Kaunas šį kartą turėjo
+    mokėti mažiau - 100 kapų grašių. Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Bres-
+    tas, Kijevas, Mogiliavas, Pinskas, Polockas, Vitebskas.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014

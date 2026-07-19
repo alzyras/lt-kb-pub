@@ -37,8 +37,7 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
 ## Teiginiai
 
 <a id="claim-t-91387"></a>
-- t-001
-  global_id: t-91387
+- t-002
   teiginys: "Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie Skalvos upelio ties Paskalviais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,10 +54,9 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata."
   pagrindžia:
     - c-87100
-    - c-002
+
 <a id="claim-t-91388"></a>
-- t-002
-  global_id: t-91388
+- t-006
   teiginys: "Lietuviai pasitraukdami ištrypė ir sunaikino visus pasėlius Skalvių ir Ragainės pilių laukuose."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,10 +70,9 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-87101
-    - c-003
+
 <a id="claim-t-91389"></a>
 - t-003
-  global_id: t-91389
   teiginys: "Iš Ragainės pabėgęs ginklanešys pasisiūlė lietuvių karaliui perduoti Skalvių pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,12 +86,11 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-87103
-    - c-004
+
 <a id="claim-t-91390"></a>
-- t-004
-  global_id: t-91390
+- t-001
   teiginys: "Prie Nemuno pastatyta Skalvių pilis buvo skirta skalviams, atsivertusiems į krikščionybę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Skalvių pilis (pilis, XIII a.): 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -107,10 +103,10 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   semantiniai_rysiai: "Skalviai gyveno Skalvių pilis (pilis, XIII a.) (0.88); Skalvių pilis (pilis, XIII a.) priklausė Skalviai (0.78)"
   pagrindžia:
     - c-87099
-    - c-001
+    - c-87100
+
 <a id="claim-t-91391"></a>
 - t-005
-  global_id: t-91391
   teiginys: "Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -127,8 +123,7 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
     - c-87104
 
 <a id="claim-t-91392"></a>
-- t-006
-  global_id: t-91392
+- t-007
   teiginys: "1289 m. brolis Meinhardas prie Nemuno pastatė Ragainės pilį, o netrukus žemiau prie Nemuno pastatė Skalvių pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -146,10 +141,9 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   temporalinis_llm_pakomentavimas: "Citata leidžia susieti Skalvių pilies pastatymą su platesniu Ragainės ir Skalvių pilių statybos epizodu."
   pagrindžia:
     - c-87099
-    - c-001
+
 <a id="claim-t-194548"></a>
-- t-007
-  global_id: t-194548
+- t-009
   teiginys: "Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -181,9 +175,7 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91390
-    - t-91392
+- t-91392
 - c-002
   santrauka: 'Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie Skalvos upelio ties Paskalviais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -198,8 +190,6 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91387
 - c-003
   santrauka: 'Lietuviai pasitraukdami ištrypė ir sunaikino visus pasėlius Skalvių ir Ragainės pilių laukuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -217,8 +207,6 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91388
 - c-004
   santrauka: 'Iš Ragainės pabėgęs ginklanešys pasisiūlė lietuvių karaliui perduoti Skalvių pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -238,8 +226,7 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91389
+
 ## Citatos
 
 - id: c-87099
@@ -257,30 +244,16 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
     nuo ilgo budėjimo, patraukė atgal, keldami didelį šurmulį bei triukšmą, ir taip išgąsdino
     paprastus karius, kad šie nudūmė prie laivų, manydami, jog artėja priešai. Broliai nieku
     būdu jų negalėjo susišaukti, nors ne kartą bandė šitai padaryti.
-  citata_rodoma: |
-    Apie Ragainės ir Skalvių pilių pastatymą
-
-      1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
-    krikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio
-    kankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei
-    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
-    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
-    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
-    su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
-    pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
-
-
-
-
-     236 (229).
+  citata_rodoma: "Apie Ragainės ir Skalvių pilių pastatymą\n\n  1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti\nkrikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio\nkankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei\nant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai\nreiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,\npalikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,\nsu 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,\npastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.\n\n\n\n\n 236 (229)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91390
-    - t-91392
+    - t-001
+    - t-007
+
 - id: c-87100
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -297,19 +270,16 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
     karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė
     šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,
     apsirengęs moteriškais rūbais, atsisėdo ant upės kranto.
-  citata_rodoma: |
-    528 Žr. paaiškinimus D. III, 181, 1; Clasen-Sandt K., Zur Baugeschichte..., p. 197—
-    198. Skalvių pilis statyta 1293 m. (SRP, 1, 271, 280) kair. Nemuno krante žemiau
-    Ragainės, prie Skalvos upelio ties Paskalviais, dab. Dubki (Boetticher A., Die Bau..., 5,
-    p. 108; HE, p. 110; CV, t. 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung..., 2,
-    p. 97; plg. Тоерреn М., HCGP, p. 220).
+  citata_rodoma: "528 Žr. paaiškinimus D. III, 181, 1; Clasen-Sandt K., Zur Baugeschichte..., p. 197—\n198. Skalvių pilis statyta 1293 m. (SRP, 1, 271, 280) kair. Nemuno krante žemiau\nRagainės, prie Skalvos upelio ties Paskalviais, dab. Dubki (Boetticher A., Die Bau..., 5,\np. 108; HE, p. 110; CV, t. 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung..., 2,\np. 97; plg. Тоерреn М., HCGP, p. 220)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91387
+    - t-002
+    - t-001
+
 - id: c-87101
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -325,22 +295,15 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
     Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės
     ginklanešiais link Bisenės pilies irgi tuo laiku, kai lietuvių pamaininė sauga, išbudėjusi
     čia jiems skirtą laiką, turėjo iš pilies pasitraukti, ir nukovė šešis jų vyrus.
-  citata_rodoma: |
-    Galop lietuviai, nieko nepešę iš šio antpuolio,
-    pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus
-    pasėlius.
-
-
-
-
-         324 (317).
+  citata_rodoma: "Galop lietuviai, nieko nepešę iš šio antpuolio,\npasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus\npasėlius.\n\n\n\n\n     324 (317)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91388
+    - t-006
+
 - id: c-87103
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -359,24 +322,15 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
     259 (252). Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300
     Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei
     ginklanešiais jis daug kartų šlovingai kariavo su lietuviais.
-  citata_rodoma: |
-    Apie Skalvių pilies puolimą 1293
-
-      Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis
-    pabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva,
-    perduoti jam Skalvių pilį. Atidžiai ir patikliai  jį išklausęs, karalius tą pačią žiemą jam
-    davė karių. Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai
-    priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis
-    Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;
-    užvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems
-    pavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių.
+  citata_rodoma: "Apie Skalvių pilies puolimą 1293\n\n  Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis\npabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva,\nperduoti jam Skalvių pilį. Atidžiai ir patikliai  jį išklausęs, karalius tą pačią žiemą jam\ndavė karių. Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai\npriėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis\nKonradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;\nužvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems\npavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91389
+    - t-003
+
 - id: c-87104
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -394,5 +348,5 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91391
-    - t-194548
+    - t-005
+    - t-009

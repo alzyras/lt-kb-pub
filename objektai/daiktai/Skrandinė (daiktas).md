@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-202327"></a>
 - t-001
-  global_id: t-202327
   teiginys: "Vilniaus miestiečio Mato žmonai iš iždo buvo duota kiaunenos skrandinė."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -60,6 +59,9 @@ Nenurodyta
   pagrindžia:
     - c-185674
 
+## Reikšmingi paminėjimai
+Nenurodyta
+
 ## Citatos
 
 - id: c-185674
@@ -69,8 +71,5 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202327
+    - t-001

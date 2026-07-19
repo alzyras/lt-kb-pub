@@ -46,8 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59397"></a>
-- t-001
-  global_id: t-59397
+- t-002
   teiginys: "Kunigaikštis ir Teutonų ordino broliai užėmė Partigalos pilį ir kuorą, sudegino pastatus, o žmones išsivedė į nelaisvę arba išžudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Nenurodyta
     - c-60030
 
 <a id="claim-t-59398"></a>
-- t-002
-  global_id: t-59398
+- t-001
   teiginys: "Pomandas apsimetė tikėjimo priešu ir paskatino Varmės, Notangos bei Bartos karius apsupti Baigos pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -110,7 +108,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59398
+    - t-001
+
 - id: c-60030
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -128,4 +127,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59397
+    - t-002

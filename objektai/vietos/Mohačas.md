@@ -38,7 +38,6 @@ Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio p
 
 <a id="claim-t-21629"></a>
 - t-001
-  global_id: t-21629
   teiginys: "Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,12 +73,11 @@ Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio p
     čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
     patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
     lapio.
-  citata_rodoma: |
-    čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
+  citata_rodoma: "čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21629
+    - t-001

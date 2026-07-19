@@ -31,9 +31,8 @@ Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba paš
 
 <a id="claim-t-190426"></a>
 - t-001
-  global_id: t-190426
   teiginys: "Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba pašventinimo apeigas kalba Heziodas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba paš
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173309
-    - c-001
+
 <a id="claim-t-197299"></a>
 - t-002
-  global_id: t-197299
   teiginys: "Heziodas tuoj pat vykdavo pas tam tikrą signotą arba vaidilą, tai yra pas žynį, kuris paprastai būdavo beturtis neregys arba šlubis."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba paš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190426
+
 ## Citatos
 
 - id: c-173309
@@ -97,21 +94,15 @@ Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba paš
     vargšas, neregys arba šlubis, jis atsakydavo, kad tokia esanti
     dievų valia. Šis žynys pirmiausia melsdavo dangaus dievą Uka-
     pirmą ir žemės dievą Pušaitį, idant neleistų vagiui pabėgti.
-  citata_rodoma: |
-    Bet kol stabmeldystė tebebuvo
-    savo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo
-    nepalyginamai iškilmingiau. Antikos žmonės atlikdavo tas pa­
-    čias apeigas; apie jas kalba Heziodas*. Romėnai jas vadino
-    Ambervales arba Cum solemnia vota lustrare agros (iškilmin­
-    gomis aukomis apvalyti laukus) -  laukų apvalymu arba pa­
-    šventinimu atnašaujant iškilmingas aukas.
+  citata_rodoma: "Bet kol stabmeldystė tebebuvo\nsavo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo\nnepalyginamai iškilmingiau. Antikos žmonės atlikdavo tas pa­\nčias apeigas; apie jas kalba Heziodas*. Romėnai jas vadino\nAmbervales arba Cum solemnia vota lustrare agros (iškilmin­\ngomis aukomis apvalyti laukus) -  laukų apvalymu arba pa­\nšventinimu atnašaujant iškilmingas aukas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190426
+    - t-001
+
 - id: c-179112
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -131,4 +122,4 @@ Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba paš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197299
+    - t-002

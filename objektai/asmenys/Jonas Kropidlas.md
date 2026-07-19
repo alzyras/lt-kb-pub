@@ -67,31 +67,7 @@ Nenurodyta
     surengė Rastenburgo komtūras vienoje tam reikalui
     tinkamoje vietoje. Po to ir viena, ir kita šalis puldinėjo
     ir siaubė viską, kas pakliuvo po ranka.
-  citata_rodoma: |
-    Kadangi kryžiuočiai
-    atmetė vieną po kitos visas
-    1418 m e ta i
-    siūlomas taikos sąlygas, pasi-
-    S u sitik im a s d ė l tai-
-    pūtėliškai reikalaudami visos
-    k o s a tn eša k a rą
-    Žemaitijos, susitikimas neat­
-    nešė jokios naudos, ir netru­
-    kus kryžiuočiai iš pasalų pradėjo atvirą karą. Pasibai­
-    gus susitikimui, karalius kurį laiką pasiliko Veliuono­
-    je, norėdamas pailsėti, nes netoliese buvo vietų, tinka­
-    mų medžioklei ir poilsiui. Medžiodamas jis pats kartą
-    vos nepakliuvo į kryžiuočių
-    K araliu s
-    išv e n g ia
-    rankas, tik narsi jo palyda
-    k ry ž iu o č ių pasalų
-    vargais
-    negalais
-    išgelbėjo
-    valdovą nuo pasalų, kurias
-    surengė Rastenburgo komtūras vienoje tam reikalui
-    tinkamoje vietoje.
+  citata_rodoma: "Kadangi kryžiuočiai\natmetė vieną po kitos visas \n1418 m e ta i \nsiūlomas taikos sąlygas, pasi-\nS u sitik im a s d ė l tai- \npūtėliškai reikalaudami visos \nk o s a tn eša k a rą \nŽemaitijos, susitikimas neat­\nnešė jokios naudos, ir netru­\nkus kryžiuočiai iš pasalų pradėjo atvirą karą. Pasibai­\ngus susitikimui, karalius kurį laiką pasiliko Veliuono­\nje, norėdamas pailsėti, nes netoliese buvo vietų, tinka­\nmų medžioklei ir poilsiui. Medžiodamas jis pats kartą\nvos nepakliuvo į kryžiuočių \nK araliu s \nišv e n g ia \nrankas, tik narsi jo palyda \nk ry ž iu o č ių pasalų \nvargais \nnegalais \nišgelbėjo\nvaldovą nuo pasalų, kurias \nsurengė Rastenburgo komtūras vienoje tam reikalui \ntinkamoje vietoje."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
 

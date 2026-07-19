@@ -30,7 +30,6 @@ Pasak Narbuto, Fosas Austraviją, arba Glesariją, tapatino su fryzų sala Amela
 
 <a id="claim-t-192916"></a>
 - t-001
-  global_id: t-192916
   teiginys: "Pasak Narbuto, Fosas Austraviją, arba Glesariją, tapatino su fryzų sala Amelandu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Pasak Narbuto, Fosas Austraviją, arba Glesariją, tapatino su fryzų sala Amela
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192916
+    - t-001

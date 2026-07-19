@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201353"></a>
 - t-001
-  global_id: t-201353
   teiginys: "137.) Kitoj šaly žemaičiai, tuo pačiu laiku gavėnioj įsilaužę į Klaipėdos pilį, ne vien gyventojus iškir to, bet ir miestą patį su laivais sudegino, vos ne vos mūrinėj pilė j kryžėjai užsirakinę beišsiturėjo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184703
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     137.)
     Kitoj šaly žemaičiai, tuo pačiu laiku gavėnioj
@@ -72,4 +72,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201353
+    - t-001

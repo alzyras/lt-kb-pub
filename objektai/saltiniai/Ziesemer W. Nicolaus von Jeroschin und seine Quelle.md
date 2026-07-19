@@ -35,25 +35,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad ziesemer W.
 
-## Teiginiai
-
-<a id="claim-t-61383"></a>
-- t-001
-  global_id: t-61383
-  teiginys: "W. Ziesemerio veikalas „Nicolaus von Jeroschin und seine Quelle“ išleistas Berlyne 1906 metais."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ziesemer W. Nicolaus von Jeroschin und seine Quelle: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Berlynas: mention_match, place, gap=75"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ziesemer W. Nicolaus von Jeroschin und seine Quelle\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-62015
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'W. Ziesemerio veikalas „Nicolaus von Jeroschin und seine Quelle“ išleistas Berlyne 1906 metais.'
@@ -65,8 +46,7 @@ Dusburgietis teigia, kad ziesemer W.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61383
+
 ## Citatos
 
 - id: c-62015
@@ -76,12 +56,29 @@ Dusburgietis teigia, kad ziesemer W.
   citata_originali: |
     В. 2. — М 1955.
     Рыбаков Б. А. Киевская Русь и русские княжества XII— XIII вв.
-  citata_rodoma: |
-    Ziesemer W. Nicolaus von Jeroschin und seine Quelle.— Berlin, 1906.
+  citata_rodoma: "Ziesemer W. Nicolaus von Jeroschin und seine Quelle.— Berlin, 1906."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61383
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-61383"></a>
+- t-001
+  teiginys: "W. Ziesemerio veikalas „Nicolaus von Jeroschin und seine Quelle“ išleistas Berlyne 1906 metais."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ziesemer W. Nicolaus von Jeroschin und seine Quelle: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Berlynas: mention_match, place, gap=75"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ziesemer W. Nicolaus von Jeroschin und seine Quelle\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-62015

@@ -39,7 +39,6 @@ Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo au
 
 <a id="claim-t-191498"></a>
 - t-001
-  global_id: t-191498
   teiginys: "Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo autorius, kurio veikalai išliko fragmentais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,7 @@ Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo au
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174380
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo autorius, kurio veikalai išliko fragmentais.'
@@ -87,8 +86,7 @@ Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo au
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191498
+
 ## Citatos
 
 - id: c-174380
@@ -106,30 +104,11 @@ Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo au
     (Ephoros), garsus graikų istorikas, Izokrato
     mokinys, didžiulio 30 tomų istorinio veikalo
     autorius.
-  citata_rodoma: |
-    Eforas
-    (Ephoros), garsus graikų istorikas, Izokrato
-    mokinys, didžiulio 30 tomų istorinio veikalo
-    autorius. Jis pirmasis atskyrė mitologiją ir geo-
-    398
-
-    ## Puslapis 409
-
-    p. 49**
-    p. 50*
-    p. 51*
-    p. 51**
-    p. 52*
-    p. 52**
-    p, 53*
-    p. 53**
-    p. 54*
-    grafiją nuo grynos istorijos. Veikalai išliko tik
-    fragmentuose. Buvo išleisti 1815 metais.
+  citata_rodoma: "Eforas\n(Ephoros), garsus graikų istorikas, Izokrato\nmokinys, didžiulio 30 tomų istorinio veikalo\nautorius. Jis pirmasis atskyrė mitologiją ir geo-\n398\n\n## Puslapis 409\n\np. 49**\np. 50*\np. 51*\np. 51**\np. 52*\np. 52**\np, 53*\np. 53**\np. 54*\ngrafiją nuo grynos istorijos. Veikalai išliko tik\nfragmentuose. Buvo išleisti 1815 metais."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191498
+    - t-001

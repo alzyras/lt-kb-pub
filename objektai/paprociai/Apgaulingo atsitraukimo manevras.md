@@ -61,8 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71787"></a>
-- t-001
-  global_id: t-71787
+- t-005
   teiginys: "Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą ir juo versdavo priešininką suardyti savo rikiuotę."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-43151
 
 <a id="claim-t-71788"></a>
-- t-002
-  global_id: t-71788
+- t-006
   teiginys: "Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą, kurį su laiku vis įdomiau įgyvendindavo ir provokuodami suardyti priešo rikiuotę priversdavo jį pralaimėti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +93,7 @@ Nenurodyta
     - c-43151
 
 <a id="claim-t-71789"></a>
-- t-003
-  global_id: t-71789
+- t-007
   teiginys: "Švedijos kariuomenės vadovybė sureagavo į lietuvių imituotą atsitraukimą ir įsakė pulti „besitraukiančius“ lietuvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,7 +113,6 @@ Nenurodyta
 
 <a id="claim-t-71790"></a>
 - t-004
-  global_id: t-71790
   teiginys: "Karolis Chodkevičius įsakė Lietuvos kariuomenei imituoti atsitraukimą visu frontu."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -158,8 +154,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71789
-    - t-71790
+    - t-007
+    - t-004
+
 - id: c-43151
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -175,21 +172,12 @@ Nenurodyta
     Pirmoji puolimą pradėjo švedų kai-
     riojo, o netrukus ir dešiniojo sparno
     kavalerija.
-  citata_rodoma: |
-    Lietuvių karvedžiai nuo seno
-    mėgo apgaulingo atsitraukimo manevrą,
-    kurį su laiku vis įdomiau įgyvendindavo ir
-    provokuodami suardyti priešo rikiuotę pri-
-    versdavo jį pralaimėti.
-
-    Pirmoji puolimą pradėjo švedų kai-
-    riojo, o netrukus ir dešiniojo sparno
-    kavalerija.
+  citata_rodoma: "Lietuvių karvedžiai nuo seno\nmėgo apgaulingo atsitraukimo manevrą,\nkurį su laiku vis įdomiau įgyvendindavo ir\nprovokuodami suardyti priešo rikiuotę pri-\nversdavo jį pralaimėti.\n\nPirmoji puolimą pradėjo švedų kai-\nriojo, o netrukus ir dešiniojo sparno\nkavalerija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71787
-    - t-71788
+    - t-005
+    - t-006

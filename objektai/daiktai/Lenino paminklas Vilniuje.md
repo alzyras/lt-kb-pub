@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-24552"></a>
 - t-001
-  global_id: t-24552
   teiginys: "1991 m. rugpjūčio 23 d. Vilniuje pašalintas Lenino paminklas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -78,7 +77,6 @@ Nenurodyta
 
 <a id="claim-t-26769"></a>
 - t-002
-  global_id: t-26769
   teiginys: "1991 m. rugpjūčio 23 d. Vilniuje buvo pašalintas Lenino paminklas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,13 +112,12 @@ Nenurodyta
     Vakarų diplomatų epitetą „Baltic Kindergarten“…
     Vilniuje pašalinamas Lenino paminklas.
     1991 m. rugpjūčio 23 d. J. Juknevičiaus nuotrauka
-  citata_rodoma: |
-    1991 m. rugpjūčio 23 d. J. Juknevičiaus nuotrauka
+  citata_rodoma: "1991 m. rugpjūčio 23 d. J. Juknevičiaus nuotrauka"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-24552
-    - t-26769
+    - t-001
+    - t-002

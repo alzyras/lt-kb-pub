@@ -57,7 +57,6 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
 
 <a id="claim-t-195639"></a>
 - t-001
-  global_id: t-195639
   teiginys: "Plotkai šiame šaltinyje laužomi, dalijami ir dedami į barščius."
   atnaujinta: "2026-07-12 08:46"
   sprendimo_priezastis: "gap::vocabulary"
@@ -68,7 +67,6 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
 
 <a id="claim-t-195640"></a>
 - t-002
-  global_id: t-195640
   teiginys: "Plotkus dieną atneša bažnyčios maršalka, o atsiskaitoma už juos kalėdojant."
   atnaujinta: "2026-07-12 08:46"
   sprendimo_priezastis: "gap::vocabulary"
@@ -89,16 +87,15 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
     kai“ atėjo dieną, juos atnešė bažnyčios maršalka ir paliko be užmo­
     kesčio. Užmokėta bus kalėdojant. Zakristijonas gaus už tai kviečių
     gorčių.
-  citata_rodoma: |
-    „Plotkai“ atėjo dieną, juos atnešė bažnyčios maršalka ir paliko be užmokesčio.
-    Užmokėta bus kalėdojant. Zakristijonas gaus už tai kviečių gorčių.
+  citata_rodoma: "„Plotkai“ atėjo dieną, juos atnešė bažnyčios maršalka ir paliko be užmokesčio.\nUžmokėta bus kalėdojant. Zakristijonas gaus už tai kviečių gorčių."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195640
+    - t-002
+
 - id: c-178042
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -110,12 +107,11 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
     savo vietas, stati pašnibždomis sukalbėjo „Tėve mūsų“ , persižegno­
     jo ir susėdo. Šeimininkas laužia ir dalija „plotkus“ , kiekvienam po pu­
     sę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius.
-  citata_rodoma: |
-    Šeimininkas laužia ir dalija „plotkus“ , kiekvienam po pusę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius.
+  citata_rodoma: "Šeimininkas laužia ir dalija „plotkus“ , kiekvienam po pusę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195639
+    - t-001

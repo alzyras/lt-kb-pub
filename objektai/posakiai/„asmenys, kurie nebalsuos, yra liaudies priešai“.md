@@ -31,7 +31,6 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 
 <a id="claim-t-75603"></a>
 - t-001
-  global_id: t-75603
   teiginys: "Per rinkimų agitaciją valdžia grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 
 <a id="claim-t-75605"></a>
 - t-002
-  global_id: t-75605
   teiginys: "Sovietų valdžia daugiau kaip 30 ha turėjusius ūkininkus laikė buožėmis ir „liaudies priešais“."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -80,20 +78,15 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
     išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
     kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-
     tininkai ir aukštus postus turėję valdininkai.
-  citata_rodoma: |
-    Per rinkimų agitaciją valdžia daug dėmesio
-    skyrė A. Smetonos režimo kritikai ir niekinimui, propagandai, meluo-
-    ta, kad rinkimai vyks demokratiškai, Lietuva išliks nepriklausoma, bus
-    išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
-    kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-
-    tininkai ir aukštus postus turėję valdininkai.
+  citata_rodoma: "Per rinkimų agitaciją valdžia daug dėmesio\nskyrė A. Smetonos režimo kritikai ir niekinimui, propagandai, meluo-\nta, kad rinkimai vyks demokratiškai, Lietuva išliks nepriklausoma, bus\nišsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,\nkad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-\ntininkai ir aukštus postus turėję valdininkai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75603
+    - t-001
+
 - id: c-23607
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -105,14 +98,11 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
     Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūki-
     ninkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies
     priešais“. Juos stengtasi sunaikinti tris kartus padidinant mokesčius.
-  citata_rodoma: |
-    Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūki-
-    ninkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies
-    priešais“. Juos stengtasi sunaikinti tris kartus padidinant mokesčius.
+  citata_rodoma: "Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūki-\nninkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies\npriešais“. Juos stengtasi sunaikinti tris kartus padidinant mokesčius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75605
+    - t-002

@@ -39,7 +39,6 @@ Laskowski, O.
 
 <a id="claim-t-30882"></a>
 - t-001
-  global_id: t-30882
   teiginys: "O. Laskowski 1929 m. Varšuvoje paskelbė išsamų strateginį tyrinėjimą „Grunwald“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,21 +62,16 @@ Laskowski, O.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    — Laskowski,
+    Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,
     O. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas). —
     Majewski, W. : _Kilka uwag o bitwie pod Grunwaldem,_ Zapiski Historycz­
     ne, t. 25, zesz. 2, 1960, 9-33 p. — Oehler, M. : _Der Krieg zwischen den
     Deutschen und Polen-Litauen 1409-11_ , Elbing 1910.
-  citata_rodoma: |
-    — Laskowski,
-    O. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas). —
-    Majewski, W. : _Kilka uwag o bitwie pod Grunwaldem,_ Zapiski Historycz­
-    ne, t. 25, zesz. 2, 1960, 9-33 p. — Oehler, M. : _Der Krieg zwischen den
-    Deutschen und Polen-Litauen 1409-11_ , Elbing 1910.
+  citata_rodoma: "— Laskowski,\nO. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas). —\nMajewski, W. : _Kilka uwag o bitwie pod Grunwaldem,_ Zapiski Historycz­\nne, t. 25, zesz. 2, 1960, 9-33 p. — Oehler, M. : _Der Krieg zwischen den\nDeutschen und Polen-Litauen 1409-11_ , Elbing 1910."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30882
+    - t-001

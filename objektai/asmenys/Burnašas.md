@@ -31,7 +31,6 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.
 
 <a id="claim-t-80731"></a>
 - t-001
-  global_id: t-80731
   teiginys: "Mengli-Girėjaus jaunesnieji sūnūs Fatihas ir Burnašas vadovavo žygiui į LDK gilumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80731
+    - t-001

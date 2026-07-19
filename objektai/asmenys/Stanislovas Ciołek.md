@@ -32,7 +32,6 @@ Dėl jo energingos paramos Mozūrų kancleris Ziemovitas gavo Płocko vyskupo so
 
 <a id="claim-t-35286"></a>
 - t-001
-  global_id: t-35286
   teiginys: "Stanislovas Ciołek turėjo būti dėkingas Vytautui už Poznanės vyskupo mitrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,18 +68,11 @@ Dėl jo energingos paramos Mozūrų kancleris Ziemovitas gavo Płocko vyskupo so
     nos kanceliarijos globėjas, tose knygose mums pasirodo, kaip
     nuoširdus Vytauto valios pildytojas, įvairiausiuose jo reika­
     luose^3 ').
-  citata_rodoma: |
-    Dėl jo energingos paramos
-    Mozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­
-    rūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui
-    Vyt. dėkingas už Poznaniaus mitrą. Sis pastarasis, kaip karū­
-    nos kanceliarijos globėjas, tose knygose mums pasirodo, kaip
-    nuoširdus Vytauto valios pildytojas, įvairiausiuose jo reika­
-    luose^3 ').
+  citata_rodoma: "Dėl jo energingos paramos\nMozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­\nrūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui\nVyt. dėkingas už Poznaniaus mitrą. Sis pastarasis, kaip karū­\nnos kanceliarijos globėjas, tose knygose mums pasirodo, kaip\nnuoširdus Vytauto valios pildytojas, įvairiausiuose jo reika­\nluose^3 ')."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35286
+    - t-001

@@ -64,7 +64,6 @@ Nenurodyta
 
 <a id="claim-t-200605"></a>
 - t-001
-  global_id: t-200605
   teiginys: "1758 m. laiške minėta, kad įkaušę bajorai Antanas Lapa ir Weysenhofas susipyko ir Vilniuje kapojosi kardais."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::events"
@@ -86,7 +85,6 @@ Nenurodyta
 
 <a id="claim-t-200606"></a>
 - t-002
-  global_id: t-200606
   teiginys: "Per 1758 m. susirėmimą Antanui Lapai sužeista kakta ir ranka, o Weysenhofui - nosis, ranka ir kakta; jis prarado pirštą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::events"
@@ -118,24 +116,9 @@ Nenurodyta
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 6"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
-  citata_originali: |
-    Laiškuose būta ir kiek pikantiškesnių temų, susijusių su teisėsauga, pvz., informacija
-    apie Vilniaus bajorų nusikaltimus ir siautėjimus. 1751 m. kanauninkas broliui rašė, kad
-    Vilniuje nieko naujo, tik žinia apie tai, kad Savickį nužudė Reška, kadais tarnavęs pas
-    vyskupą [23]. 1758 m. laiške jis minėjo, kad susipyko ir kardais kapojosi įkaušę bajorai:
-    tribunolo deputatas (pasiuntinys) nuo Starodubo pavieto Antanas Lapa (Antoni Łapa) ir
-    Veisenhofas (Weysenhof); A. Lapai sužeista kakta ir ranka, kitam mušeikai nosis, ranka
-    (šis prarado pirštą) ir kakta [55].
-  citata_rodoma: |
-    1758 m. laiške jis minėjo, kad susipyko ir kardais kapojosi įkaušę bajorai:
-    tribunolo deputatas (pasiuntinys) nuo Starodubo pavieto Antanas Lapa (Antoni Łapa) ir
-    Veisenhofas (Weysenhof); A. Lapai sužeista kakta ir ranka, kitam mušeikai nosis, ranka
-    (šis prarado pirštą) ir kakta [55].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 07:10"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200605
-    - t-200606
+    - t-001
+    - t-002

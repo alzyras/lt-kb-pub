@@ -31,7 +31,6 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
 
 <a id="claim-t-72656"></a>
 - t-001
-  global_id: t-72656
   teiginys: "Vyriausiojoje Lietuvos Mokykloje buvo dėstomi visi to meto universitetiniai mokslai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
 
 <a id="claim-t-72658"></a>
 - t-002
-  global_id: t-72658
   teiginys: "Vyriausiajai Lietuvos Mokyklai priklausė visų kitų Lietuvos krašto mokyklų priežiūra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,8 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72656
+    - t-001
+
 - id: c-71052
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -100,4 +99,4 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72658
+    - t-002

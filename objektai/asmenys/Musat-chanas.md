@@ -31,7 +31,6 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
 
 <a id="claim-t-39610"></a>
 - t-001
-  global_id: t-39610
   teiginys: "Į Lietuvos pusę perėjęs totorių caraitis Musat-chanas buvo paskirtas valdyti Kafos apylinkes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
 
 <a id="claim-t-183755"></a>
 - t-002
-  global_id: t-183755
   teiginys: "Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių caraičiui Musat-chanui."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,8 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39610
-    - t-183755
+    - t-001
+    - t-002
+
 ## Ryšiai
 - Musat-chanas valdė [[objektai/vietos/Kafa]]

@@ -39,7 +39,6 @@ Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęs
 
 <a id="claim-t-86503"></a>
 - t-001
-  global_id: t-86503
   teiginys: "Jogailos pusė Rygoje sudarė paliaubas su Livonijos magistru, apeidama Kęstutį ir jo Žemaitijos kunigaikštystę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęs
 
 <a id="claim-t-86504"></a>
 - t-002
-  global_id: t-86504
   teiginys: "1382 metų lapkričio pradžioje Jogaila Dubysos saloje sudarė paliaubas su kryžiuočiais, paaukodamas jiems nemažą Žemaitijos dalį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86504
+    - t-002
+
 - id: c-82483
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -124,4 +123,4 @@ Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86503
+    - t-001

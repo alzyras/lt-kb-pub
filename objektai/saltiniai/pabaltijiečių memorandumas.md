@@ -31,7 +31,6 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
 
 <a id="claim-t-78124"></a>
 - t-001
-  global_id: t-78124
   teiginys: "45 pabaltijiečių memorandumas buvo adresuotas JT generaliniam sekretoriui Kurtui Waldheimui, Atlanto chartijos signatarėms ir abiejų Vokietijų vyriausybėms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78124
+    - t-001

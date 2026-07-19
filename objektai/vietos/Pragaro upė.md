@@ -28,7 +28,6 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
 
 <a id="claim-t-201149"></a>
 - t-001
-  global_id: t-201149
   teiginys: "Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių Pragaro ir Nemuno, kalavijonys nuo antros pusės, tai yra nuo Padaugavio, tuointimpos veržės per Žemgalius į Žemaičius, dykdami visuomet su kryžėjais susinerti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
 ## Citatos
 
 - id: c-184499
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Meldžionys, nė nuo
     ko nerasdami atsparo, kur užėjo, ten į tyrą vertė,
@@ -65,4 +65,4 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201149
+    - t-001

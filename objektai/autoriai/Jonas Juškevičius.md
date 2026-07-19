@@ -39,7 +39,6 @@ Kai Jonas Juškevičius 1864 m. pasiūlė kuratoriui Kornilovui išspausdinti sa
 
 <a id="claim-t-01069"></a>
 - t-001
-  global_id: t-01069
   teiginys: "Jonas Juškevičius 1864 m. gavo Kornilovo pasiūlymą lietuvišką gramatikos tekstą perrašyti rusiškomis raidėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,15 +71,11 @@ Kai Jonas Juškevičius 1864 m. pasiūlė kuratoriui Kornilovui išspausdinti sa
     ratoriui Kornilovui išspausdinti savo rusiškai parašytą lietuvišką
     gramatiką, jis gavo pasiūlymą lietuviškąjį tekstą perrašyti rusiš-
     komis raidėmis.
-  citata_rodoma: |
-    Kai Jonas Juškevičius 1864 m. pasiūlė ku-
-    ratoriui Kornilovui išspausdinti savo rusiškai parašytą lietuvišką
-    gramatiką, jis gavo pasiūlymą lietuviškąjį tekstą perrašyti rusiš-
-    komis raidėmis.
+  citata_rodoma: "Kai Jonas Juškevičius 1864 m. pasiūlė ku-\nratoriui Kornilovui išspausdinti savo rusiškai parašytą lietuvišką\ngramatiką, jis gavo pasiūlymą lietuviškąjį tekstą perrašyti rusiš-\nkomis raidėmis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01069
+    - t-001

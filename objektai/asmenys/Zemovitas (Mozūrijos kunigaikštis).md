@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-40545"></a>
 - t-001
-  global_id: t-40545
   teiginys: "1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,18 +70,15 @@ media_all_json: |-
     gaikštis Zemovitas sudarė eilinę dar ne-
     užgrobtos Sūduvos pasidalijimo sutartį,
     sustiprindami tarpusavio sąjungą.
-  citata_rodoma: |
-    1260 m. birželio 5 d. jis ir Mozūrijos kuni-
-    gaikštis Zemovitas sudarė eilinę dar ne-
-    užgrobtos Sūduvos pasidalijimo sutartį,
-    sustiprindami tarpusavio sąjungą.
+  citata_rodoma: "1260 m. birželio 5 d. jis ir Mozūrijos kuni-\ngaikštis Zemovitas sudarė eilinę dar ne-\nužgrobtos Sūduvos pasidalijimo sutartį,\nsustiprindami tarpusavio sąjungą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40545
+    - t-001
+
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]]
 - Zemovitas (Mozūrijos kunigaikštis) sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]

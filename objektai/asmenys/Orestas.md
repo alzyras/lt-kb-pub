@@ -31,8 +31,7 @@ Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sosti
 ## Teiginiai
 
 <a id="claim-t-190947"></a>
-- t-001
-  global_id: t-190947
+- t-002
   teiginys: "Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sostine, o Odoakro kariuomenei miestą užėmus žuvo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,7 @@ Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sosti
     - c-173829
 
 <a id="claim-t-197786"></a>
-- t-002
-  global_id: t-197786
+- t-003
   teiginys: "Orestas, nedrįsęs atvirai pasiprie šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo laikoma Italijos sostine."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -104,5 +102,5 @@ Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sosti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190947
-    - t-197786
+    - t-002
+    - t-003

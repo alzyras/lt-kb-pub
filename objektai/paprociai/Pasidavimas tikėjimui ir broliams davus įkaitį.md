@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-62705"></a>
 - t-001
-  global_id: t-62705
   teiginys: "Pagudėnai, negalėdami atlaikyti nuolatinių Ordino brolių antpuolių, davė įkaitį ir pasidavė tikėjimui bei broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,17 +72,11 @@ Nenurodyta
     priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais,
     matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,
     davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.
-  citata_rodoma: |
-    Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių
-    ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.
-    Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau
-    priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais,
-    matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,
-    davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.
+  citata_rodoma: "Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių\nir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.\nTą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau\npriėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais,\nmatydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,\ndavę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62705
+    - t-001

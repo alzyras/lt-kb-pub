@@ -31,7 +31,6 @@ Sensacingiausias kelionių romanas. Prie romano pridėta: 1.
 
 <a id="claim-t-36792"></a>
 - t-001
-  global_id: t-36792
   teiginys: "Prie kelionių romano buvo pridėtas geografinis ir istorinis paaiškinimas, žodynėlis ir kelionės žemėlapis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,16 +61,11 @@ Sensacingiausias kelionių romanas. Prie romano pridėta: 1.
     liestas tauteles; 2. nesuprantamu žodžiu žodynėlis ir 3. žemėlapis su
     pažymėjimu, kuriais kraštais autoriaus keliauta ir kuriuose miestuo­
     se būta.
-  citata_rodoma: |
-    Prie romano pridėta: 1. trumpas geografiškas ir istoriškas pa­
-    aiškinimas apie arabus, turkus, kurdus ir kitas šiame romane pa­
-    liestas tauteles; 2. nesuprantamu žodžiu žodynėlis ir 3. žemėlapis su
-    pažymėjimu, kuriais kraštais autoriaus keliauta ir kuriuose miestuo­
-    se būta.
+  citata_rodoma: "Prie romano pridėta: 1. trumpas geografiškas ir istoriškas pa­\naiškinimas apie arabus, turkus, kurdus ir kitas šiame romane pa­\nliestas tauteles; 2. nesuprantamu žodžiu žodynėlis ir 3. žemėlapis su\npažymėjimu, kuriais kraštais autoriaus keliauta ir kuriuose miestuo­\nse būta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36792
+    - t-001

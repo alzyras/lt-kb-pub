@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75252"></a>
-- t-001
-  global_id: t-75252
+- t-002
   teiginys: "Sąjūdininkai buvo pasiryžę skelbti Lietuvos valstybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-23145
 
 <a id="claim-t-75253"></a>
-- t-002
-  global_id: t-75253
+- t-001
   teiginys: "Per 1990 m. sausio 11–13 d. Michailo Gorbačiovo vizitą Vilniuje Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +90,6 @@ Nenurodyta
 
 <a id="claim-t-75254"></a>
 - t-003
-  global_id: t-75254
   teiginys: "Per spaudimą Lietuvai grasinta Klaipėdos kraštą prijungti prie RSSFR Kaliningrado srities, o Vilniaus regione sukurti autonomiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,16 +119,15 @@ Nenurodyta
     11–13 d. M. Gorbačiovo vizitas į Lietuvą neatbaidė LPS nuo šių planų.
     Nors M. Gorbačiovas aiškino, kad vienintelė Lietuva iš socializmo išsun-
     kė viską, kas geriausia, Lietuvai stigo esminio tikslo – nepriklausomybės.
-  citata_rodoma: |
-    Nors M. Gorbačiovas aiškino, kad vienintelė Lietuva iš socializmo išsun-
-    kė viską, kas geriausia, Lietuvai stigo esminio tikslo – nepriklausomybės.
+  citata_rodoma: "Nors M. Gorbačiovas aiškino, kad vienintelė Lietuva iš socializmo išsun-\nkė viską, kas geriausia, Lietuvai stigo esminio tikslo – nepriklausomybės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75252
+    - t-002
+
 - id: c-73098
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -149,23 +145,12 @@ Nenurodyta
     Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka
     Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d.
     Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos.
-  citata_rodoma: |
-    Griebtasi šantažo – grasinta
-    prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities,
-    o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomi-
-    ją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva
-
-    L I E T U V O S  I S T O R I J A
-    240
-    Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11–
-    13 d.). Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės.
-    Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka
-    Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m.
+  citata_rodoma: "Griebtasi šantažo – grasinta \nprijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, \no iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomi-\nją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva\n\nL I E T U V O S  I S T O R I J A\n240\nMichailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11–\n13 d.). Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės. \nVladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka\nPrie Aukščiausios Tarybos rūmų Vilniuje 1990 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75253
-    - t-75254
+    - t-001
+    - t-003

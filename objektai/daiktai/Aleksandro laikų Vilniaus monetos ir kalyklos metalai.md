@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87070"></a>
-- t-001
-  global_id: t-87070
+- t-002
   teiginys: "Aleksandro laikų Vilniaus kalyklos išlaidose buvo minimi sidabras, varis, darbas ir kiti kalyklai priklausę dalykai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-83050
 
 <a id="claim-t-87071"></a>
-- t-002
-  global_id: t-87071
+- t-001
   teiginys: "Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemaža pajamų karaliaus iždui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,7 +110,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87071
+    - t-001
+
 - id: c-83050
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -144,4 +143,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87070
+    - t-002

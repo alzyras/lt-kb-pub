@@ -30,8 +30,7 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
 ## Teiginiai
 
 <a id="claim-t-68832"></a>
-- t-001
-  global_id: t-68832
+- t-003
   teiginys: "Oberosto karinis kolonijinis režimas nusavindavo valstiečių maistą, apkrovė juos mokesčiais bei prievolėmis ir išvežė pramonės įmones į Vokietiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,12 +63,11 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
     rį). Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lie-
     tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis
     „Dabartis“.
-  citata_rodoma: |
-    tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis
+  citata_rodoma: "tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68832
+    - t-003

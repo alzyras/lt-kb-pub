@@ -36,7 +36,6 @@ Ta­ me laiške be kitų dalykų jisai rašo: „Kai aš atvykau pas didįjį ku
 
 <a id="claim-t-95941"></a>
 - t-001
-  global_id: t-95941
   teiginys: "Henne, keliavęs su Vytautu, atvykęs pas didįjį kunigaikštį rado Vytautą ketvirtą kartą ilsintis kelionėje iš Trakų į Smolenską."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Ta­ me laiške be kitų dalykų jisai rašo: „Kai aš atvykau pas didįjį ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95941
+    - t-001

@@ -31,7 +31,6 @@ Giedraičius gynęs 2-asis pulkas buvo priverstas atsitraukti į ŠešuolėsViri
 
 <a id="claim-t-183816"></a>
 - t-001
-  global_id: t-183816
   teiginys: "Giedraičius gynęs 2-asis pulkas buvo priverstas atsitraukti į ŠešuolėsVirintos upių liniją."
   atnaujinta: "2026-05-31 17:11"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Giedraičius gynęs 2-asis pulkas buvo priverstas atsitraukti į ŠešuolėsViri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183816
+    - t-001

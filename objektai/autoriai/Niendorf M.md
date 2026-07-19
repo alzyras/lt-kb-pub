@@ -31,7 +31,6 @@ Niendorf M.
 
 <a id="claim-t-19458"></a>
 - t-001
-  global_id: t-19458
   teiginys: "M. Niendorfas siejamas su veikalu „Das Großfürstentum Litauen“ apie Lietuvos Didžiąją Kunigaikštystę ankstyvaisiais naujaisiais laikais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,12 +56,11 @@ Niendorf M.
     2005.
     Niendorf M. Das Großfürstentum Litauen: Studien zur Nationsbildung in
     der Frühen Neuzeit (1569–1795).
-  citata_rodoma: |
-    Niendorf M. Das Großfürstentum Litauen: Studien zur Nationsbildung in
+  citata_rodoma: "Niendorf M. Das Großfürstentum Litauen: Studien zur Nationsbildung in"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19458
+    - t-001

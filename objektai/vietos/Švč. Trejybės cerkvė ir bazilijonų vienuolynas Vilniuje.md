@@ -31,7 +31,6 @@ Trejybės cerkvę ir prie jos įkur­ dino Šv.
 
 <a id="claim-t-86133"></a>
 - t-001
-  global_id: t-86133
   teiginys: "Kunigaikštis Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės įkurdino Šv. Bazilijaus ordino vienuolius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,6 +64,7 @@ Trejybės cerkvę ir prie jos įkur­ dino Šv.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86133
+    - t-001
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Konstantinas Ostrogiškis]]

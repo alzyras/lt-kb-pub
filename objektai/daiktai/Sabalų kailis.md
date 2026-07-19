@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202329"></a>
 - t-001
-  global_id: t-202329
   teiginys: "Lietuvoje sabalų kailiai buvo paklausūs ir dažnai dovanojami svetimšaliams kaip itin vertingos dovanos."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -55,6 +54,9 @@ Nenurodyta
   pagrindžia:
     - c-185676
 
+## Reikšmingi paminėjimai
+Nenurodyta
+
 ## Citatos
 
 - id: c-185676
@@ -64,8 +66,5 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202329
+    - t-001

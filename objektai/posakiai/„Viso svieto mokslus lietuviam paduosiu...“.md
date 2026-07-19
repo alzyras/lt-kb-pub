@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-26651"></a>
 - t-001
-  global_id: t-26651
   teiginys: "1859 m. Antanas Baranauskas parašė eilutes „Viso svieto mokslus lietuviam paduosiu“."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ media_all_json: |-
 
 <a id="claim-t-26903"></a>
 - t-002
-  global_id: t-26903
   teiginys: "1859 m. Antanas Baranauskas žadėjo lietuviams perduoti pasaulio mokslus ir lietuviškai versti pasaulio raštus bei knygas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ media_all_json: |-
 
 <a id="claim-t-67317"></a>
 - t-003
-  global_id: t-67317
   teiginys: "Antano Baranausko žodžiai apie pasaulio mokslus lietuviams vadinami civilizuotos, aukštąją kultūrą turinčios tautos vizija."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -121,6 +118,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26651
-    - t-26903
-    - t-67317
+    - t-001
+    - t-002
+    - t-003

@@ -38,7 +38,6 @@ Leidinio įvade anoniminė 1835 m. recenzija vadinama bene reikšmingiausia ir y
 
 <a id="claim-t-190309"></a>
 - t-001
-  global_id: t-190309
   teiginys: "Leidinio įvade anoniminė 1835 m. recenzija vadinama bene reikšmingiausia ir ypač didelės, 25 puslapių, apimties recenzija."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Leidinio įvade anoniminė 1835 m. recenzija vadinama bene reikšmingiausia ir y
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190309
+    - t-001

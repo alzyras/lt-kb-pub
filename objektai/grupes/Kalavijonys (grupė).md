@@ -33,7 +33,6 @@ Taip nugalavus Viną, pirmąjį mistrą kalavijonų, tuojau susirinkę kalavijon
 
 <a id="claim-t-201249"></a>
 - t-001
-  global_id: t-201249
   teiginys: "Taip nugalavus Viną, pirmąjį mistrą kalavijonų, tuojau susirinkę kalavijonys iš pilių, arba komtūrų, kuriose gyveno, pakėlė į jo vietą sau mistru brostvį Volkviną (Voląuin), vyrą kantrų, drąsų ir suma nantį, kursai, v."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Taip nugalavus Viną, pirmąjį mistrą kalavijonų, tuojau susirinkę kalavijon
 ## Citatos
 
 - id: c-184599
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip nugalavus Viną, pirmąjį mistrą kalavijonų,
     tuojau susirinkę kalavijonys iš pilių, arba komtūrų,
@@ -63,4 +63,4 @@ Taip nugalavus Viną, pirmąjį mistrą kalavijonų, tuojau susirinkę kalavijon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201249
+    - t-001

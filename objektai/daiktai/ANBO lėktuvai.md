@@ -69,7 +69,6 @@ Nenurodyta
 
 <a id="claim-t-13449"></a>
 - t-001
-  global_id: t-13449
   teiginys: "ANBO šaltinyje aiškinamas kaip lėktuvų projektavimo ir gamybos Kaune ženklas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -88,7 +87,6 @@ Nenurodyta
 
 <a id="claim-t-13450"></a>
 - t-002
-  global_id: t-13450
   teiginys: "Antanas Gustaitis sukonstravo ANBO seriją, o Kauno karo aviacijos dirbtuvėse pastatyti 66 tokie lėktuvai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -108,7 +106,6 @@ Nenurodyta
 
 <a id="claim-t-13451"></a>
 - t-003
-  global_id: t-13451
   teiginys: "ANBO VIII buvo Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse 1939 m. pagamintas lengvasis bombonešis."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -128,7 +125,6 @@ Nenurodyta
 
 <a id="claim-t-23269"></a>
 - t-004
-  global_id: t-23269
   teiginys: "ANBO siejamas su lėktuvų projektavimu ir gamyba Kaune kaip vienu iš Lietuvos Respublikos civilizacinių pasiekimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,7 +144,6 @@ Nenurodyta
 
 <a id="claim-t-23270"></a>
 - t-005
-  global_id: t-23270
   teiginys: "Antanas Gustaitis sukonstravo lėktuvų seriją ir pavadino ją ANBO pagal sakinio „Antanas nori būti ore“ žodžių pirmąsias raides."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -182,16 +177,16 @@ Nenurodyta
     galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir
     krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų
     titulai.
-  citata_rodoma: |
-    ANBO ir krepšinis.
+  citata_rodoma: "ANBO ir krepšinis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13449
-    - t-23269
+    - t-001
+    - t-004
+
 - id: c-16435
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -204,15 +199,15 @@ Nenurodyta
     padėti ir palaikyti ryšius su tėvyne sukurta Draugija užsienio lietuviams
     Gen. Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse
     pagamintas lengvasis bombonešis ANBO VIII (1939 m.)
-  citata_rodoma: |
-    pagamintas lengvasis bombonešis ANBO VIII (1939 m.)
+  citata_rodoma: "pagamintas lengvasis bombonešis ANBO VIII (1939 m.)"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13451
+    - t-003
+
 - id: c-16437
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -224,16 +219,15 @@ Nenurodyta
     tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
     pirmųjų raidžių). 66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
     jos dirbtuvėse.
-  citata_rodoma: |
-    66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
-    jos dirbtuvėse.
+  citata_rodoma: "66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-\njos dirbtuvėse."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13450
+    - t-002
+
 - id: c-65485
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -246,12 +240,11 @@ Nenurodyta
     buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėk-
     tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
     pirmųjų raidžių).
-  citata_rodoma: |
-    tu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,
+  citata_rodoma: "tu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23270
+    - t-005

@@ -28,7 +28,6 @@ Lažo, arba baudžiavos, ir vergybos nežinojo, at nešė tas nelaimas vokyčiai
 
 <a id="claim-t-201224"></a>
 - t-001
-  global_id: t-201224
   teiginys: "Lažo, arba baudžiavos, ir vergybos nežinojo, at nešė tas nelaimas vokyčiai, ateidami iš Teutonuos į tuos kraštus, kaip tuojau regėsim, kurios šiandien visą tautą Lietuvos ir Žemaičių žudo ant gėdos krikščionų tikybos, kuritaip mylėti artimą savo kaipo pats."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Lažo, arba baudžiavos, ir vergybos nežinojo, at nešė tas nelaimas vokyčiai
 ## Citatos
 
 - id: c-184574
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Šiandien liku­
     sieji vadinas bajorais taip pat be kokios šviesybės,
@@ -65,4 +65,4 @@ Lažo, arba baudžiavos, ir vergybos nežinojo, at nešė tas nelaimas vokyčiai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201224
+    - t-001

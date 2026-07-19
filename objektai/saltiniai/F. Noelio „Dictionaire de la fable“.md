@@ -26,22 +26,6 @@ media_all_json: |-
 
 Noelis straipsnyje Trigla sako, kad trijų pavidalų Dianą garbino tautos, gyvenusios prie Oderio, Vyslos, Dnepro ir pan.
 
-## Teiginiai
-
-<a id="claim-t-194849"></a>
-- t-001
-  global_id: t-194849
-  teiginys: "Noelis straipsnyje Trigla sako, kad trijų pavidalų Dianą garbino tautos, gyvenusios prie Oderio, Vyslos, Dnepro ir pan."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177245
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Noelis straipsnyje Trigla sako, kad trijų pavidalų Dianą garbino tautos, gyvenusios prie Oderio, Vyslos, Dnepro ir pan.'
@@ -59,8 +43,7 @@ Noelis straipsnyje Trigla sako, kad trijų pavidalų Dianą garbino tautos, gyve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194849
+
 ## Citatos
 
 - id: c-177245
@@ -79,18 +62,26 @@ Noelis straipsnyje Trigla sako, kad trijų pavidalų Dianą garbino tautos, gyve
     Saugotoja nuo gaisrų.
     Šiuo atžvilgiu ji visiškai atitinka romėnų deivę Statą, kurią
     mitologai tapatina su Vesta.
-  citata_rodoma: |
-    Tai mitas apie lietuvių Dianą, nusižiūrė­
-    tą iš graikų mitologijos. F. Noelis straipsnyje Trigla sako, kad
-    trijų pavidalų Dianą garbino tautos, gyvenusios prie Oderio,
-    Vyslos, Dnepro ir pan. Tuos tris Dianos pavidalus Servijus aiš­
-    kina taip: ši deivė valdė žmogaus gimimą, gyvenimą ir mirtį.
-    Visai taip pat, kaip Laimą suprato mūsų lietuviai. Šitaip su­
-    prantama ir vadinama, ji įėjo į Trejybę.
+  citata_rodoma: "Tai mitas apie lietuvių Dianą, nusižiūrė­\ntą iš graikų mitologijos. F. Noelis straipsnyje Trigla sako, kad\ntrijų pavidalų Dianą garbino tautos, gyvenusios prie Oderio,\nVyslos, Dnepro ir pan. Tuos tris Dianos pavidalus Servijus aiš­\nkina taip: ši deivė valdė žmogaus gimimą, gyvenimą ir mirtį.\nVisai taip pat, kaip Laimą suprato mūsų lietuviai. Šitaip su­\nprantama ir vadinama, ji įėjo į Trejybę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194849
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-194849"></a>
+- t-001
+  teiginys: "Noelis straipsnyje Trigla sako, kad trijų pavidalų Dianą garbino tautos, gyvenusios prie Oderio, Vyslos, Dnepro ir pan."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177245

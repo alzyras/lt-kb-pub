@@ -53,8 +53,7 @@ Laivas buvo paimtas ir sudegintas.
 ## Teiginiai
 
 <a id="claim-t-55707"></a>
-- t-001
-  global_id: t-55707
+- t-004
   teiginys: "Surmino vadovaujami lietuviai laivą paėmė, nužudė jo sargybą ir sudegino."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,10 +68,9 @@ Laivas buvo paimtas ir sudegintas.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56335
-    - c-003
+
 <a id="claim-t-55708"></a>
 - t-002
-  global_id: t-55708
   teiginys: "Kai laivą prie kranto nubloškė vėjas, Junigedos pilėnai jį užpuolė, bet pirmąjį susidūrimą broliai ir ginklanešiai atlaikė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,8 +87,7 @@ Laivas buvo paimtas ir sudegintas.
     - c-56333
 
 <a id="claim-t-55709"></a>
-- t-003
-  global_id: t-55709
+- t-001
   teiginys: "1313 m. Verneris, Ragainės komtūras, pasistatydino sienomis apsaugotą karo laivą ir su juo nuplaukė pulti Junigedos pilies."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -108,10 +105,9 @@ Laivas buvo paimtas ir sudegintas.
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-56334
-    - c-002
+
 <a id="claim-t-55710"></a>
-- t-004
-  global_id: t-55710
+- t-003
   teiginys: "Dusburgietis pasakoja, kad Surminas su gausia lietuvių jėga buvo pasiųstas sunaikinti karo laivo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -126,7 +122,7 @@ Laivas buvo paimtas ir sudegintas.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56335
-    - c-003
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -141,8 +137,6 @@ Laivas buvo paimtas ir sudegintas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55709
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -159,9 +153,8 @@ Laivas buvo paimtas ir sudegintas.
   teiginio_tipas: terminas_ar_titulas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-55707
-    - t-55710
+- t-55710
+
 ## Citatos
 
 - id: c-56333
@@ -172,17 +165,15 @@ Laivas buvo paimtas ir sudegintas.
     Šitai išvydę, pilėnai, pasičiupę
     ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
     mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista. Šitaip broliai ir išsigelbėjo.
-  citata_rodoma: |
-    Šitai išvydę, pilėnai, pasičiupę
-    ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
-    mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista. Šitaip broliai ir išsigelbėjo.
+  citata_rodoma: "Šitai išvydę, pilėnai, pasičiupę\nginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame\nmūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista. Šitaip broliai ir išsigelbėjo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55708
+    - t-002
+
 - id: c-56334
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -194,17 +185,15 @@ Laivas buvo paimtas ir sudegintas.
     laivą pagriebė smarkus vėjas ir nubloškė prie kranto. Šitai išvydę, pilėnai, pasičiupę
     ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
     mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista.
-  citata_rodoma: |
-    Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su
-    sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies,
-    laivą pagriebė smarkus vėjas ir nubloškė prie kranto.
+  citata_rodoma: "Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su\nsienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies,\nlaivą pagriebė smarkus vėjas ir nubloškė prie kranto."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55709
+    - t-001
+
 - id: c-56335
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -219,17 +208,12 @@ Laivas buvo paimtas ir sudegintas.
     pasroviui plaukiantį, lietuviai taip smarkiai užpuolė, kad, nors ir daug jų buvo sužeista,
     o Skaldonis, minėtojo Surmino brolis, užmuštas, paėmė laivą ir, nužudę 4 lankininkus,
     jį pavertė pelenais568.
-  citata_rodoma: |
-    Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa
-    Lietuva; ilgai taręsi  ir visaip svarstę, kaip  jį sunaikinti, galop pasiuntė kilmingą bei
-    karingą vyrą Surminą su šimtu laivų, kuriuose buvo šeši šimtai ar daugiau vyrų, ir šimtą
-    raitelių; kai jie užpuolė laivą, jame buvę 4 šauliai, palikti jo saugoti, pradėjo drąsiai
-    gintis.
+  citata_rodoma: "Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa\nLietuva; ilgai taręsi  ir visaip svarstę, kaip  jį sunaikinti, galop pasiuntė kilmingą bei\nkaringą vyrą Surminą su šimtu laivų, kuriuose buvo šeši šimtai ar daugiau vyrų, ir šimtą\nraitelių; kai jie užpuolė laivą, jame buvę 4 šauliai, palikti jo saugoti, pradėjo drąsiai\ngintis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55707
-    - t-55710
+    - t-004
+    - t-003

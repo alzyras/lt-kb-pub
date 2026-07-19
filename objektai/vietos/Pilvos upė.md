@@ -7,10 +7,10 @@ datos:
   - '1640 m.'
 date_start: '1640'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Pastarasis, gavęs iš valdovo pievą Kauno girioje prie Pilvos upės ir teisę 
 
 <a id="claim-t-201737"></a>
 - t-001
-  global_id: t-201737
   teiginys: "Pastarasis, gavęs iš valdovo pievą Kauno girioje prie Pilvos upės ir teisę ten statyti geležies liejyklą, vadinamąją rudnią (ruda), užgrobė didesnį pievos plotą, iškirto mišką ir suarė žemę."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Pastarasis, gavęs iš valdovo pievą Kauno girioje prie Pilvos upės ir teisę 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201737
+    - t-001

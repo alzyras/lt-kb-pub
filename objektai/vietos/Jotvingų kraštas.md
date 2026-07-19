@@ -37,7 +37,6 @@ Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų
 
 <a id="claim-t-74009"></a>
 - t-001
-  global_id: t-74009
   teiginys: "1009 m. vasario 14 d. jotvingų krašte buvo nužudytas aisčių krašte apaštalavęs asmuo ir jo palydovai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,15 +66,11 @@ Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų
     Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo
     jotvingų krašte. Jo ir palydovų lavonai taip pat buvo išpirkti
     to paties Boleslovo.
-  citata_rodoma: |
-    buvo suimtas ir su visais palydovais nužudytas.
-    Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo
-    jotvingų krašte. Jo ir palydovų lavonai taip pat buvo išpirkti
-    to paties Boleslovo.
+  citata_rodoma: "buvo suimtas ir su visais palydovais nužudytas.\nKuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo\njotvingų krašte. Jo ir palydovų lavonai taip pat buvo išpirkti\nto paties Boleslovo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74009
+    - t-001

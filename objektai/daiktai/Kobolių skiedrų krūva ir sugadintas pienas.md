@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-189726"></a>
 - t-001
-  global_id: t-189726
   teiginys: "Narbutas kobolių apsigyvenimo ženklu laikė naktį pirkios vidury sudėtą skiedrų krūvą ir išmatomis sugadintą pieną."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189726
+    - t-001

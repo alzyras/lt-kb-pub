@@ -30,8 +30,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 ## Teiginiai
 
 <a id="claim-t-85953"></a>
-- t-001
-  global_id: t-85953
+- t-004
   teiginys: "Nauji Vilniaus svečių namai buvo pastatyti miesto lėšomis toje vietoje, kurioje jie stovėjo šaltinio rašymo metu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 
 <a id="claim-t-85954"></a>
 - t-002
-  global_id: t-85954
   teiginys: "Balińskio vertinimu, Aleksandras, leisdamas statyti Svečių namus, siekė miesto ir muito pelno bei išorinio saugumo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 
 <a id="claim-t-85955"></a>
 - t-003
-  global_id: t-85955
   teiginys: "Aleksandras leido Vilniuje statyti svečių namus, nes rusų pirkliai mieste apsistodavo ir išvykdavo be prisistatymo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +79,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     - c-81934
 
 <a id="claim-t-85956"></a>
-- t-004
-  global_id: t-85956
+- t-001
   teiginys: "Karalius leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti, mokėti prekių muitą ir pranešti pilininkui apie atvykimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,36 +124,15 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     VILNIAUS MIESTO ISTORIJA II TOMAS
     norėjo išduoti Lietuvą, bet ir tai jam nepavyko, jis baigė sa­
     vo dienas kalėjime toje pačioje Lietuvoje.
-  citata_rodoma: |
-    Ją skaitant atro­
-    do, kad Aleksandras, leisdamas sta­
-    tyti tokius namus, turėjo omenyje ne
-    tik miesto ir muito pelną, bet ir iš­
-    orinį saugumą. Mat rašo, jog svečiai,
-    tai yra, rusų pirkliai, atvykstantys su
-    savo prekėmis į Vilnių, apsistoja
-    įvairiuose namuose mieste, kur no­
-    ri, be jokio prisistatymo, o paskui,
-    prekiaudami su vokiečiais ir kitais
-    svetimšaliais pirkliais, niekam ne­
-    pranešę, išvažiuoja iš miesto; ir kad
-    tarp jų gali būti nepatikimų ir no­
-    rinčių pakenkti, todėl įsako ir leidžia
-    miestui statyti užeigą ir t t.
-    231
-
-    ## Puslapis 248
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    norėjo išduoti Lietuvą, bet ir tai jam nepavyko, jis baigė sa­
-    vo dienas kalėjime toje pačioje Lietuvoje.
+  citata_rodoma: "Ją skaitant atro­\ndo, kad Aleksandras, leisdamas sta­\ntyti tokius namus, turėjo omenyje ne \ntik miesto ir muito pelną, bet ir iš­\norinį saugumą. Mat rašo, jog svečiai, \ntai yra, rusų pirkliai, atvykstantys su \nsavo prekėmis į Vilnių, apsistoja \nįvairiuose namuose mieste, kur no­\nri, be jokio prisistatymo, o paskui, \nprekiaudami su vokiečiais ir kitais \nsvetimšaliais pirkliais, niekam ne­\npranešę, išvažiuoja iš miesto; ir kad \ntarp jų gali būti nepatikimų ir no­\nrinčių pakenkti, todėl įsako ir leidžia \nmiestui statyti užeigą ir t t.\n231\n\n## Puslapis 248\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nnorėjo išduoti Lietuvą, bet ir tai jam nepavyko, jis baigė sa­\nvo dienas kalėjime toje pačioje Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85955
+    - t-003
+
 - id: c-81935
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -177,7 +152,8 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85956
+    - t-001
+
 - id: c-81936
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -200,7 +176,8 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85953
+    - t-004
+
 - id: c-81937
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -218,18 +195,11 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     tyti tokius namus, turėjo omenyje ne
     tik miesto ir muito pelną, bet ir iš­
     orinį saugumą.
-  citata_rodoma: |
-    44
-    Svečių namams skirta privilegija yra:
-    D u b i ń s k i, 1.18. Ją skaitant atro­
-    do, kad Aleksandras, leisdamas sta­
-    tyti tokius namus, turėjo omenyje ne
-    tik miesto ir muito pelną, bet ir iš­
-    orinį saugumą.
+  citata_rodoma: "44\nSvečių namams skirta privilegija yra: \nD u b i ń s k i, 1.18. Ją skaitant atro­\ndo, kad Aleksandras, leisdamas sta­\ntyti tokius namus, turėjo omenyje ne \ntik miesto ir muito pelną, bet ir iš­\norinį saugumą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85954
+    - t-002

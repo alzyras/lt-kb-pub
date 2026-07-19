@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-21971"></a>
 - t-001
-  global_id: t-21971
   teiginys: "1962–1969 m. Vilniuje pastatyti Žirmūnai buvo pirmasis stambiaplokščių daugiabučių mikrorajonas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,12 +71,11 @@ media_all_json: |-
     tokių namų mikrorajonas Vilniuje – Žirmūnai. Tokie vienodi, beveidžiai,
     sunaudojantys daug energijos šildymui daugiabučių gyvenamųjų namų
     rajonai tapo vienu ryškiausių sovietinės urbanizacijos ženklų.
-  citata_rodoma: |
-    tokių namų mikrorajonas Vilniuje – Žirmūnai. Tokie vienodi, beveidžiai,
+  citata_rodoma: "tokių namų mikrorajonas Vilniuje – Žirmūnai. Tokie vienodi, beveidžiai,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21971
+    - t-001

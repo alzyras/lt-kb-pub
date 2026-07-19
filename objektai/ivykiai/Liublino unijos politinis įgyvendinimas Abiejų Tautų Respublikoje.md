@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-20405"></a>
 - t-001
-  global_id: t-20405
   teiginys: "Abiejų Tautų Respublikos bendras Seimas buvo aukščiausia šalia valdovo valdžios institucija ir rinko karalių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,12 +74,11 @@ Nenurodyta
     mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva
     turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
     buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
-  citata_rodoma: |
-    mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva
+  citata_rodoma: "mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20405
+    - t-001

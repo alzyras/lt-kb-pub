@@ -30,7 +30,6 @@ Miechovita, Bielskis, o ypač Strijkovskis savo metraščiuose, su­ pykę už k
 
 <a id="claim-t-88452"></a>
 - t-001
-  global_id: t-88452
   teiginys: "Miechovita savo metraščiuose piktinosi Aleksandro Balinskio gydymu Vilniuje, per kurį karalius Aleksandras vos neužduso garo vonioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Miechovita, Bielskis, o ypač Strijkovskis savo metraščiuose, su­ pykę už k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88452
+    - t-001

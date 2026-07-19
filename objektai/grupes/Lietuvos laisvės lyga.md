@@ -37,8 +37,7 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
 ## Teiginiai
 
 <a id="claim-t-74752"></a>
-- t-001
-  global_id: t-74752
+- t-004
   teiginys: "Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šauklys“, o nuo 1978 m. – žurnalą „Vytis“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
 
 <a id="claim-t-74754"></a>
 - t-002
-  global_id: t-74754
   teiginys: "1978 m. įkurtos Lietuvos laisvės lygos tikslas buvo atkurti nepriklausomą Lietuvą ir kelti Lietuvos laisvės klausimą tarptautiniuose forumuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,6 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
 
 <a id="claim-t-74756"></a>
 - t-003
-  global_id: t-74756
   teiginys: "Lietuvos laisvės lyga siekė ne reformuoti SSRS, o taikiomis priemonėmis atkurti Lietuvos nepriklausomybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
     - c-72772
 
 <a id="claim-t-193554"></a>
-- t-004
-  global_id: t-193554
+- t-005
   teiginys: "Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga, atkūrusia Lietuvos nepriklausomybę."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -137,16 +133,15 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
     Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
     Petras Cidzikas. LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-
     klys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
-  citata_rodoma: |
-    LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-
-    klys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
+  citata_rodoma: "LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-\nklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74752
+    - t-004
+
 - id: c-72771
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -161,20 +156,15 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
     kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
     politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-
     niuose forumuose.
-  citata_rodoma: |
-    Skirtingai nei
-    katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
-    Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL),
-    kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
-    politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-
-    niuose forumuose.
+  citata_rodoma: "Skirtingai nei \nkatalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus. \nSavo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL), \nkurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir \npolitinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-\nniuose forumuose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74754
+    - t-002
+
 - id: c-72772
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -188,15 +178,15 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
     niuose forumuose. LLL įkūrėjas ir vadovas Antanas Terleckas save vadino
     rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos
     nepriklausomybę taikiomis priemonėmis.
-  citata_rodoma: |
-    rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos
+  citata_rodoma: "rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74756
+    - t-003
+
 - id: c-176234
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -214,4 +204,4 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193554
+    - t-005

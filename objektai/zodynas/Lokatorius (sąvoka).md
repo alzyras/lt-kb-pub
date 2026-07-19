@@ -33,7 +33,6 @@ Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, 
 
 <a id="claim-t-201778"></a>
 - t-001
-  global_id: t-201778
   teiginys: "Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, ant žalios šaknies pagal to meto suvokimą, jį kurti imdavosi vadinamasis lokatorius, kuris nurodytoje vietoje suplanuodavo būsimą miestą, rūpindavosi naujųjų miestiečių kvietimu ir jų."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,6 @@ Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, 
 
 <a id="claim-t-201779"></a>
 - t-002
-  global_id: t-201779
   teiginys: "Kauno miestas irgi kūrėsi praktiškai tuščioje vietoje ir tikėtina, kad čia lokatorius buvo reikalingas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -59,7 +57,6 @@ Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, 
 
 <a id="claim-t-201780"></a>
 - t-003
-  global_id: t-201780
   teiginys: "Nors, kaip sakyta, nieko nežinome apie lokatorių, miesto kūrimosi organizatorių, jo darbo pasekmės aiškiai matomos."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -89,7 +86,7 @@ Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201778
+    - t-001
 
 - id: c-185126
   autorius: "Zigmantas Kiaupa"
@@ -105,7 +102,7 @@ Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201779
+    - t-002
 
 - id: c-185127
   autorius: "Zigmantas Kiaupa"
@@ -122,4 +119,4 @@ Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201780
+    - t-003

@@ -30,8 +30,7 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
 ## Teiginiai
 
 <a id="claim-t-65084"></a>
-- t-001
-  global_id: t-65084
+- t-002
   teiginys: "Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,12 +75,11 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
     kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
     nopolizuoti Lietuvos užsienio prekybą. Sukurti Baltijos valstybių sąjungą
     pavėluota.
-  citata_rodoma: |
-    nopolizuoti Lietuvos užsienio prekybą. Sukurti Baltijos valstybių sąjungą
+  citata_rodoma: "nopolizuoti Lietuvos užsienio prekybą. Sukurti Baltijos valstybių sąjungą"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65084
+    - t-002

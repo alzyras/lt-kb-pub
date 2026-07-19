@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-80612"></a>
 - t-001
-  global_id: t-80612
   teiginys: "Tauro apygarda vienijo Suvalkijos regiono antisovietinio pasipriešinimo dalyvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,17 +78,14 @@ media_all_json: |-
     apygardos, vienijusios Suvalkijos re-
     giono antisovietino pasipriešinimo
     dalyvius, vadu.
-  citata_rodoma: |
-    1948 m. spalio 8 d. tapo Tauro
-    apygardos, vienijusios Suvalkijos re-
-    giono antisovietino pasipriešinimo
-    dalyvius, vadu.
+  citata_rodoma: "1948 m. spalio 8 d. tapo Tauro\napygardos, vienijusios Suvalkijos re-\ngiono antisovietino pasipriešinimo\ndalyvius, vadu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80612
+    - t-001
+
 ## Ryšiai
 - Suvalkija priklausė [[objektai/vietos/Lenkijos karalystė]]

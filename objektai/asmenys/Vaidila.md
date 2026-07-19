@@ -41,8 +41,7 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
 ## Teiginiai
 
 <a id="claim-t-87462"></a>
-- t-001
-  global_id: t-87462
+- t-003
   teiginys: "Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
     - c-83443
 
 <a id="claim-t-87463"></a>
-- t-002
-  global_id: t-87463
+- t-001
   teiginys: "Bajoras Vaidila patarimais rėmė Jogailos siekius ir savo įtaka juos skatino."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
     - c-83441
 
 <a id="claim-t-87464"></a>
-- t-003
-  global_id: t-87464
+- t-002
   teiginys: "Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +90,6 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
 
 <a id="claim-t-196874"></a>
 - t-005
-  global_id: t-196874
   teiginys: "Vaidila jau buvo iš Drohičino atvykęs į Gardiną."
   atnaujinta: "2026-07-12 22:29"
   sprendimo_priezastis: "auto"
@@ -103,17 +99,6 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-178954
-
-<a id="claim-t-194000"></a>
-- t-004
-  global_id: t-194000
-  teiginys: 'Lietuvos metraščio pasakojime Vaidila iš Algirdo tarno ir kepėjo buvo iškeltas valdyti Lydą, o Jogaila jį sutuokė su seserimi Marija.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Fragmentas sutrumpintas į aiškų sakinį apie Vaidilos kilimą ir santuoką. Vertinamoji socialinio iškėlimo kalba palikta metraščio pasakojimo rėmuose.'
-  pagrindžia:
-    - c-004
 - susijęs iš Dubrovno pavietas: Dubrovno pavietas atiteko Vilniaus katedrai ir kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182813|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila, siekdamas atgauti paveldą ir atkeršyti už Vaidilos mirtį, sutelkė pajėgas ir nusprendė užimti Vilnių bei Trakus.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179311|Lietuviai]]: Palei Vilnią gyvenę lietuviai ir Perkūną garbinę vaidilos citatoje laikomi būsimo Vilniaus užuomazga iki Gedimino.
@@ -174,11 +159,9 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
     kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194000
+  statusas: not_found
 ## Citatos
 
 - id: c-83441
@@ -202,7 +185,8 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87463
+    - t-001
+
 - id: c-83442
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -230,7 +214,8 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87464
+    - t-002
+
 - id: c-83443
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -257,7 +242,8 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87462
+    - t-003
+
 - id: c-178954
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -281,6 +267,7 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196874
+    - t-005
+
 ## Ryšiai
 - Vaidila keliavo į [[objektai/vietos/Prūsija]]

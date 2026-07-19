@@ -31,7 +31,6 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
 
 <a id="claim-t-40424"></a>
 - t-001
-  global_id: t-40424
   teiginys: "Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,24 +68,14 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
     kitais prūsais, „subūrę stiprią kariuomenę“,
     puolė Elbingą, paėmė papilį, sunaikino dvi
     pilis į rytus nuo Drūsinės ežero.
-  citata_rodoma: |
-    Kitais metais sūduvių ir
-    lietuvių vadas Skomantas (Didžiojo ma-
-    gistro kronikoje Skomantas vadinamas tie-
-    siog „lietuvių vadu“) su didele sūduvių ir
-    kitų Lietuvai pavaldžių žemių kariuomene
-    siaubė Kulmo teritoriją, puolė patį Kulmą,
-    sunaikino Eimsučio (Heimsoto) ir Cipelio
-    pilis. Kiek vėliau sūduviai su pagudėnais ir
-    kitais prūsais, „subūrę stiprią kariuomenę“,
-    puolė Elbingą, paėmė papilį, sunaikino dvi
-    pilis į rytus nuo Drūsinės ežero.
+  citata_rodoma: "Kitais metais sūduvių ir\nlietuvių vadas Skomantas (Didžiojo ma-\ngistro kronikoje Skomantas vadinamas tie-\nsiog „lietuvių vadu“) su didele sūduvių ir\nkitų Lietuvai pavaldžių žemių kariuomene\nsiaubė Kulmo teritoriją, puolė patį Kulmą,\nsunaikino Eimsučio (Heimsoto) ir Cipelio\npilis. Kiek vėliau sūduviai su pagudėnais ir\nkitais prūsais, „subūrę stiprią kariuomenę“,\npuolė Elbingą, paėmė papilį, sunaikino dvi\npilis į rytus nuo Drūsinės ežero."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40424
+    - t-001
+
 ## Ryšiai
 - Skomantas (lietuvių vadas) puolė [[objektai/vietos/Kulmas]]

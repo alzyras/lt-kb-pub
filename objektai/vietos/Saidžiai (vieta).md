@@ -12,10 +12,10 @@ datos:
   - '1643 m.'
 date_start: '1643'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-201744"></a>
 - t-001
-  global_id: t-201744
   teiginys: "Šis užpuolęs prie Saidžių kaimo Sudervės valdoje sustojusias 5 Kauno pirklių vytines ir kaip kranto mokestį pagrobęs iš jų kelias statines druskos ir silkių."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201744
+    - t-001

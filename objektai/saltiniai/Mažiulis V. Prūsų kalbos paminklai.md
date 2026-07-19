@@ -37,7 +37,6 @@ Dusburgietis teigia, kad mažiulis V.
 
 <a id="claim-t-61170"></a>
 - t-001
-  global_id: t-61170
   teiginys: "V. Mažiulio „Prūsų kalbos paminklai“ išėjo dviem tomais 1966 ir 1981 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad mažiulis V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61170
+    - t-001

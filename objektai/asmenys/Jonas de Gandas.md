@@ -39,7 +39,6 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
 
 <a id="claim-t-87524"></a>
 - t-001
-  global_id: t-87524
   teiginys: "Jonas de Gandas buvo Lankasterio kunigaikštis, Ričardo II dėdė ir Henriko Lankasterio tėvas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,26 +78,11 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
     Anglijos ir nukeliavo į Prūsiją ka­
     riauti su netikėliais, kur išgarsėjo
     savo riteriškais žygiais.
-  citata_rodoma: |
-    1,
-    pajėgomis įsibrovė į Lietuvą. Nebu­
-    vo apie 1390 metus jokio Henriko
-    Anglijos soste, o viešpatavo anuo
-    tarpu Ričardas II, ir prie Vilniaus bu­
-    vojo ne kas kitas, tik Henrikas Lan­
-    kasteris, pirm Derbio grafas, vėliau
-    žinomas kunigaikščio Herfordo var­
-    du, Jono de Gando, Lankasterio ku­
-    nigaikščio, Ričardo dėdės, sūnus.
-    Tas Derbio grafas, būdamas kara­
-    liaus priešininkų pusėje, išvyko iš
-    Anglijos ir nukeliavo į Prūsiją ka­
-    riauti su netikėliais, kur išgarsėjo
-    savo riteriškais žygiais.
+  citata_rodoma: "1, \npajėgomis įsibrovė į Lietuvą. Nebu­\nvo apie 1390 metus jokio Henriko \nAnglijos soste, o viešpatavo anuo \ntarpu Ričardas II, ir prie Vilniaus bu­\nvojo ne kas kitas, tik Henrikas Lan­\nkasteris, pirm Derbio grafas, vėliau \nžinomas kunigaikščio Herfordo var­\ndu, Jono de Gando, Lankasterio ku­\nnigaikščio, Ričardo dėdės, sūnus. \nTas Derbio grafas, būdamas kara­\nliaus priešininkų pusėje, išvyko iš \nAnglijos ir nukeliavo į Prūsiją ka­\nriauti su netikėliais, kur išgarsėjo \nsavo riteriškais žygiais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87524
+    - t-001

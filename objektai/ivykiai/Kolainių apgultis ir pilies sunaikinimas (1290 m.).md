@@ -49,27 +49,18 @@ Nenurodyta
 
 <a id="claim-t-185714"></a>
 - t-001
-  global_id: t-185714
   teiginys: "Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kolainių apgultis ir pilies sunaikinimas (1290 m.): owner_note_path, event"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kolainių apgultis ir pilies sunaikinimas (1290 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-169075
+    - c-169076
 
 <a id="claim-t-185715"></a>
 - t-002
-  global_id: t-185715
   teiginys: "Kojelavičiaus pasakojime Surminas per kryžiuočių atokvėpį išvedė Kolainių įgulą ir išgabeno vertingiausius daiktus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -94,7 +85,6 @@ Nenurodyta
 
 <a id="claim-t-196180"></a>
 - t-003
-  global_id: t-196180
   teiginys: "Kojelavičiaus pasakojime kryžiuočiai užėmė tuščią Kolainių pilį, sugriovė gynybinius įrenginius ir nebesiveržė toliau."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -139,32 +129,13 @@ Nenurodyta
     vėlesniais metais, kai kry­
     žiuočiai visomis savo jėgo­
     mis ėmė niokoti Lietuvą.
-  citata_rodoma: |
-    Pirmiausia
-    ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
-    balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos
-    Nemuno pakrantėje esančią Lietuvos pilį. Penki šim­
-    tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
-    niokoti, o du tūkstančiai pėstininkų atkakliai puolė
-    apsuptą pilį. Gynė ją šimtas dvidešimt raitelių, vado­
-    vaujamų Surmino, ryžtingo ir prityrusio vyro; narsiai
-    ir ilgai pilies įgula atmušinėjo priešų antpuolius, ne­
-    leisdama jiems be nuostolių supti tvirtovės, mat atvi­
-    rame lauke šie buvo nesunkiai sužeidžiami ietimis ir
-    strėlėmis; kadangi įgula buvo nedidelė, o priešas, pul­
-    damas iš visų pusių, nepaliauj amai sekino menkas jė­
-    gas, vos ne vos įstengiančias vienu metu užstoti visą
-    gynybinę sieną, lietuviai patyrė didelių nuostolių; kai
-    vos dvylika jų liko nesužeistų, pilėnams iškilo baisus
-    pavojus, tačiau netikėta priešų klaida pakeitė padėtį,
-    tokią, rodos, beviltišką.
+  citata_rodoma: "Pirmiausia\nėmėsi kariauti Meinhardas, Prūsijos magistras, apie\nbalandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos\nNemuno pakrantėje esančią Lietuvos pilį. Penki šim­\ntai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų\nniokoti, o du tūkstančiai pėstininkų atkakliai puolė\napsuptą pilį. Gynė ją šimtas dvidešimt raitelių, vado­\nvaujamų Surmino, ryžtingo ir prityrusio vyro; narsiai\nir ilgai pilies įgula atmušinėjo priešų antpuolius, ne­\nleisdama jiems be nuostolių supti tvirtovės, mat atvi­\nrame lauke šie buvo nesunkiai sužeidžiami ietimis ir\nstrėlėmis; kadangi įgula buvo nedidelė, o priešas, pul­\ndamas iš visų pusių, nepaliauj amai sekino menkas jė­\ngas, vos ne vos įstengiančias vienu metu užstoti visą\ngynybinę sieną, lietuviai patyrė didelių nuostolių; kai\nvos dvylika jų liko nesužeistų, pilėnams iškilo baisus\npavojus, tačiau netikėta priešų klaida pakeitė padėtį,\ntokią, rodos, beviltišką."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185714
 - id: c-169076
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -205,5 +176,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185715
-    - t-196180
+    - t-001
+    - t-002
+    - t-003

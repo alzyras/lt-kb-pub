@@ -4,13 +4,16 @@ pavadinimas: 'Pilininkas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1382 m.'
   - '1385 m.'
+  - '1511 m.'
 date_start: '1382'
-date_end: '1385'
+date_end: '1511'
 amziai:
   - 'XIV'
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -53,7 +56,6 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
 
 <a id="claim-t-55266"></a>
 - t-001
-  global_id: t-55266
   teiginys: "Lietuvoje pilininkai valdė miestą panašiai kaip Lenkijoje kaštelionai ir vykdė teisminę priežiūrą kartu su seniūnu."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -70,7 +72,6 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
 
 <a id="claim-t-55267"></a>
 - t-002
-  global_id: t-55267
   teiginys: "Vilniaus pilininkas su miestiečiais sumušė Kęstučio įgulą ir Žemutinę bei Aukštutinę pilis atidavė Jogailai."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -86,10 +87,9 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
     - c-55816
 
 <a id="claim-t-89572"></a>
-- t-003
-  global_id: t-89572
+- t-004
   teiginys: "Surminas, Kolainių pilininkas, sušaukė pilėnus tartis, kaip apgauti pro pilį plaukiančius Ordino brolius."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pilėnai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -101,7 +101,18 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85513
-    - c-003
+
+<a id="claim-t-201506"></a>
+- t-005
+  teiginys: "Svarbiausias pareigūnas buvo Kauno pilininkas (ZOpOOHU'1UU), kurį skirdavo pats valdovas, kaip liudija 1511 m. Žygimanto Senojo privilegija, kuria Vaskas Daškovičius buvo skiriamas į Kauno pilininko pareigas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184853
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-184058|Dovydas (Gardino pilininkas)]]: Dovydas, Gardino pilininkas, lapkričio 21 d. įsibrovė į Mazoviją ir nusiaubė Plocko vyskupo Pultuską.
 - susijęs iš [[objektai/asmenys/Sarkis.md#claim-t-60065|Sarkis]]: Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas Lietuvos žemės pasienyje.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55082|Vilniaus miestiečių luomas]]: Vilniaus pilininkas ir miestiečiai palaikė Jogailą prieš Kęstutį ir perdavė jam Žemutinę bei Aukštutinę pilis.
@@ -149,8 +160,7 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89572
+
 ## Citatos
 
 - id: c-55815
@@ -180,7 +190,8 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55266
+    - t-001
+
 - id: c-55816
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -202,7 +213,8 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55267
+    - t-002
+
 - id: c-85513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -218,21 +230,28 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
     Ragainės komtūro bei jo karių mirtį. Kai jie nuliūdę šnekučiavosi, atvyko žygūnas, kuris
     pranešė, kad Ragainės broliai nukovę 25 plėšikautojus. Nespėjus baigti kalbos, atvyko
     antras ir pranešė, jog brolių kariuomenė nugalėjo priešą ir sugrįžta.
-  citata_rodoma: |
-    75).
-
-    Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
-    išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias
-    naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau
-    minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,
-    kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,
-    galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,
-    atsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir
-    šitaip išvaduojamas iš netikėlių nelaisvės.
+  citata_rodoma: "75).\n\nTais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,\nišplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias\nnaujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau\nminėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,\nkaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,\ngalop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,\natsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir\nšitaip išvaduojamas iš netikėlių nelaisvės."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89572
+    - t-004
+
+- id: c-184853
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kauno seniūnai pavietą ir pilį tvarkė padedami savo administracijos. Svarbiausias pa-
+    reigūnas buvo Kauno pilininkas (ZOpOOHU'1UU), kurį skirdavo pats valdovas, kaip liudija
+    1511 m. Žygimanto Senojo privilegija, kuria Vaskas Daškovičius buvo skiriamas į Kauno
+    pilininko pareigas.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

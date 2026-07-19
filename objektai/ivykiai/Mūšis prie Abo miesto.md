@@ -57,10 +57,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187807"></a>
-- t-001
-  global_id: t-187807
+- t-004
   teiginys: "Po kontūzijos mūšyje prie Abo miesto Teodorui Narbutui netrukus pablogėjo sveikata ir jis apkurto."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
@@ -76,12 +75,11 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys gramatiškai ir dalykiškai išplečia citatos informaciją apie kontūzijos pasekmę. Nepridėta jokių biografinių versijų, kurios citatoje pateiktos kaip neaiškios."
   pagrindžia:
     - c-170758
-    - c-001
+
 <a id="claim-t-187808"></a>
-- t-002
-  global_id: t-187808
+- t-003
   teiginys: "Mūšyje prie Abo miesto Teodoras Narbutas buvo kontūzytas per 1808–1809 m. Rusijos ir Švedijos karą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "dalyvavo_musyje -> Mūšis prie Abo miesto (mūšis, XIX a.): 0.86"
@@ -98,7 +96,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie mūšį ir Teodoro Narbuto patirtą kontūziją. Citata tiesiogiai sieja šį įvykį su 1808–1809 m. Rusijos ir Švedijos karu."
   pagrindžia:
     - c-170758
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -115,9 +113,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187807
-    - t-187808
+- t-187808
+
 ## Data ir vieta
 
 Aiškus vartojimo laikas nenurodytas.
@@ -143,19 +140,12 @@ Nenurodyta
     auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
     Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
     Vilhelmo Gizo, Johano Miulerio - darbus.
-  citata_rodoma: |
-    T. Nar­
-    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
-    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
-    siliepė sveikatai -  jis apkurto. Napoleono žygio į Rusiją metu
-    T. Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi­
-    nys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo
-    prancūzų administracijoje.
+  citata_rodoma: "T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.\nMūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­\nsiliepė sveikatai -  jis apkurto. Napoleono žygio į Rusiją metu\nT. Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi­\nnys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo\nprancūzų administracijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187807
-    - t-187808
+    - t-004
+    - t-003

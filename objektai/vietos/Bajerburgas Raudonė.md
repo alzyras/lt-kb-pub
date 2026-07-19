@@ -38,8 +38,7 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
 ## Teiginiai
 
 <a id="claim-t-86002"></a>
-- t-001
-  global_id: t-86002
+- t-002
   teiginys: "Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
     - c-81981
 
 <a id="claim-t-86003"></a>
-- t-002
-  global_id: t-86003
+- t-001
   teiginys: "Bajerburgas vėliau vadintas Raudone, nes pilies sienos buvo sumūrytos iš raudonų plytų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
 
 <a id="claim-t-86004"></a>
 - t-003
-  global_id: t-86004
   teiginys: "Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,27 +112,15 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
     vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs
     jam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337
     metų birželio 15 d., sustojo ties Bajerburgu.
-  citata_rodoma: |
-    Į tą rūsį
-    landa buvo tokia, kad tik po vieną žmogų tegalėjo įeiti, vei­
-    kiausiai tai buvo pilies kalėjimas. Pasak Prūsijos metrašti­
-    ninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi
-    priešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai
-    102
-
-    ## Puslapis 119
-
-    I  KNYGA
-    vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs
-    jam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337
-    metų birželio 15 d., sustojo ties Bajerburgu.
+  citata_rodoma: "Į tą rūsį \nlanda buvo tokia, kad tik po vieną žmogų tegalėjo įeiti, vei­\nkiausiai tai buvo pilies kalėjimas. Pasak Prūsijos metrašti­\nninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi \npriešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai\n102\n\n## Puslapis 119\n\nI  KNYGA\nvienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs \njam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337 \nmetų birželio 15 d., sustojo ties Bajerburgu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86002
+    - t-002
+
 - id: c-81982
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -196,7 +181,8 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86004
+    - t-003
+
 - id: c-81983
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -218,4 +204,4 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86003
+    - t-001

@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-72890"></a>
 - t-001
-  global_id: t-72890
   teiginys: "1230 m. pirmieji ordino atstovai Prūsų pasienyje pasistatė Fogelzango pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ media_all_json: |-
 
 <a id="claim-t-72892"></a>
 - t-002
-  global_id: t-72892
   teiginys: "Pirmieji ordino atstovai Prūsų pasienyje gavo Konrado žemių su Niešavos pilaite ir pasistatė Fogelzango pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,16 +69,12 @@ media_all_json: |-
     savo sodybų jie pradėjo
     nuolatinį karą su aisčių
     kiltimis.
-  citata_rodoma: |
-    Čia jie gavo iš Konrado
-    žemių su Niešavos pi-
-    laite, o patys pasista-
-    tė Fogelzango pilį.
+  citata_rodoma: "Čia jie gavo iš Konrado\nžemių su Niešavos pi-\nlaite, o patys pasista-\ntė Fogelzango pilį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72890
-    - t-72892
+    - t-001
+    - t-002

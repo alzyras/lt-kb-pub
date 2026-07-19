@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-194300"></a>
 - t-001
-  global_id: t-194300
   teiginys: "2mo: kad tie namai būtų vadinami Valerijono bursomis."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ media_all_json: |-
 
 <a id="claim-t-194301"></a>
 - t-002
-  global_id: t-194301
   teiginys: "Valerijono bursai skiriamų metinių pajamų sąrašas Iš kahalo nuo 5 500 auksinų sumos komisijos sprendimo vigore [galia] - 165 auks."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194300
+    - t-001
+
 - id: c-176893
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -102,4 +101,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194301
+    - t-002

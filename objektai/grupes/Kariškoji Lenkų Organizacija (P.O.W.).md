@@ -32,7 +32,6 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
 
 <a id="claim-t-72110"></a>
 - t-001
-  global_id: t-72110
   teiginys: "P.O.W. sąmokslininkai tikėjosi kelioms valandoms paimti valdžią, kol ateis Lenkijos kariuomenė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -43,7 +42,6 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
 
 <a id="claim-t-72112"></a>
 - t-002
-  global_id: t-72112
   teiginys: "Kariškoji Lenkų Organizacija, instruktuojama ir finansuojama iš okupuoto Vilniaus, šnipinėjo Lietuvos kariuomenę ir verbavo narius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,8 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72112
+    - t-002
+
 - id: c-70527
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -108,4 +107,4 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72110
+    - t-001

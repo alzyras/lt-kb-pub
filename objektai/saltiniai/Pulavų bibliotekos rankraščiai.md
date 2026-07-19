@@ -41,7 +41,6 @@ Nenurodyta
 
 <a id="claim-t-88469"></a>
 - t-001
-  global_id: t-88469
   teiginys: "Pulavų bibliotekos rankraštis aprašė Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,28 +90,11 @@ Nenurodyta
     amuniciją, Žygimanto Augusto lėšomis gamintus Lietuvos
     Didžiojoje Kunigaikštystėje iki 1565 metų ir, dalį palikus Vil­
     niuje, išsiuntinėtus po kitas pilis".
-  citata_rodoma: |
-    Karalius ir didysis Lietuvos kunigaikštis ŽYGIMANTAS
-    AUGUSTAS savo ranka.
-
-    ## Puslapis 328
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    IV
-    GINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO
-    KARALIŠKOSIOS DIDENYBĖS LĖŠOMIS
-    PAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I
-    PASIENIO PILIS
-    1565 METŲ 39 LAPŲ RANKRAŠTIS
-    (Iš Pulavų bibliotekos rankraščių)
-    Taip šio rankraščio turinį jo pradžioje aprašė Pulavų bib­
-    liotekos prižiūrėtojas Lukašas Golembiovskis: „Šis ran­
-    kraštis, perrašytas iš originalo, esančio Stokholme, ten lan­
-    kantis V.
+  citata_rodoma: "Karalius ir didysis Lietuvos kunigaikštis ŽYGIMANTAS \nAUGUSTAS savo ranka.\n\n## Puslapis 328\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nIV\nGINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO \nKARALIŠKOSIOS DIDENYBĖS LĖŠOMIS \nPAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I \nPASIENIO PILIS\n1565 METŲ 39 LAPŲ RANKRAŠTIS \n(Iš Pulavų bibliotekos rankraščių)\nTaip šio rankraščio turinį jo pradžioje aprašė Pulavų bib­\nliotekos prižiūrėtojas Lukašas Golembiovskis: „Šis ran­\nkraštis, perrašytas iš originalo, esančio Stokholme, ten lan­\nkantis V."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88469
+    - t-001

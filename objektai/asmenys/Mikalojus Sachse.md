@@ -30,7 +30,6 @@ Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui i
 
 <a id="claim-t-87788"></a>
 - t-001
-  global_id: t-87788
   teiginys: "Švitrigaila laiške prašė garantijų Mikalojui Sachsei, vykstančiam su reikalais į Sileziją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,23 +63,14 @@ Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui i
     pat savo dvariškiams, su reikalais
     vykstantiems į Sileziją. Žr. K o t z e-
     b u e Sivitrigail, p. 58-59 ir 61.
-  citata_rodoma: |
-    Švit­
-    rigailos dvaro maršalka buvo Mzu-
-    sas, kuriam išduotas didžiojo kuni­
-    gaikščio garantinis raštas iki šiol
-    saugojamas Slaptajame archyve. Ki­
-    tame savo laiške Švitrigaila prašo
-    garantijų Hansui (Janui) Tscheizui ir
-    jo svainiui Mikalojui Sachsei, taip
-    pat savo dvariškiams, su reikalais
-    vykstantiems į Sileziją. Žr.
+  citata_rodoma: "Švit­\nrigailos dvaro maršalka buvo Mzu- \nsas, kuriam išduotas didžiojo kuni­\ngaikščio garantinis raštas iki šiol \nsaugojamas Slaptajame archyve. Ki­\ntame savo laiške Švitrigaila prašo \ngarantijų Hansui (Janui) Tscheizui ir \njo svainiui Mikalojui Sachsei, taip \npat savo dvariškiams, su reikalais \nvykstantiems į Sileziją. Žr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87788
+    - t-001
+
 ## Ryšiai
 - Mikalojus Sachse keliavo į [[objektai/vietos/Silezija]]

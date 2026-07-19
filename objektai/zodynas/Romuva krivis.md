@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-77804"></a>
 - t-001
-  global_id: t-77804
   teiginys: "Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ media_all_json: |-
 
 <a id="claim-t-77805"></a>
 - t-002
-  global_id: t-77805
   teiginys: "Romuvoje pagrindinis kulto objektas buvo ugnis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77804
+    - t-001
+
 - id: c-75130
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -102,14 +101,11 @@ media_all_json: |-
     Lietuvoje išplitusiais Aukuro kalnais ir akmenimis. XIII a. susiformavo
     Lietuvos giria iš A. Grottgerio piešinių ciklo
     „Litwa“, 1864–1866 m.
-  citata_rodoma: |
-    Ro-
-    muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
-    Lietuvoje išplitusiais Aukuro kalnais ir akmenimis. XIII a.
+  citata_rodoma: "Ro-\nmuvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su \nLietuvoje išplitusiais Aukuro kalnais ir akmenimis. XIII a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77805
+    - t-002

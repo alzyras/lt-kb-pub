@@ -42,7 +42,6 @@ media_all_json: |-
 
 <a id="claim-t-20052"></a>
 - t-001
-  global_id: t-20052
   teiginys: "1991 m. pabaigoje Lietuva buvo priimta į UNESCO ir kitas JT specializuotas įstaigas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,12 +76,11 @@ media_all_json: |-
     (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
     (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
     sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
-  citata_rodoma: |
-    (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
+  citata_rodoma: "(Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20052
+    - t-001

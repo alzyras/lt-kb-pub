@@ -38,7 +38,6 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
 
 <a id="claim-t-66288"></a>
 - t-001
-  global_id: t-66288
   teiginys: "Vilniaus mokslo bičiulių draugija telkė lenkiškai kalbančiuosius, kai nepavyko atkurti universiteto Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
 
 <a id="claim-t-66289"></a>
 - t-002
-  global_id: t-66289
   teiginys: "Vilniaus mokslo bičiulių draugija ir Lietuvių mokslo draugija daug dėmesio skyrė praeičiai ir LDK paveldui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,15 +92,15 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
     draugijos leido mokslinius tęsti-
     nius leidinius. Beje, abi jos buvo
     viena kitos kolektyviniai nariai.
-  citata_rodoma: |
-    nius leidinius. Beje, abi jos buvo
+  citata_rodoma: "nius leidinius. Beje, abi jos buvo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66289
+    - t-002
+
 - id: c-66589
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -117,12 +115,11 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
     jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
     plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
     telkusi lenkiškai kalbančiuosius.
-  citata_rodoma: |
-    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
+  citata_rodoma: "plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66288
+    - t-001

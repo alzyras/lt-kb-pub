@@ -47,8 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07827"></a>
-- t-001
-  global_id: t-07827
+- t-002
   teiginys: "Smulkesnėje prekyboje pilyse dar vertėsi krikščionys, o žydai negalėjo pirkti į pilį įvežamų prekių iki didžiosios pusrytės ar iki pietų."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -74,12 +73,11 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Nesgi žydai, iš Lenkų atėję į Lietuvą, noris plėtės tenai ir jau nuomojo jos muitus, vienok smulkmėmis vis dar krikščionys vertės, o žydams nevalna buvo pirkinėti už pilių įvežamas į pilį prekes, kaipogi ir pačioje pily pirm krikščionų, jau lig didžiosios pusrytės^1481 , jau lig pietų, žydai pirkti negalėjo.
-  citata_rodoma: |
-    Nesgi žydai, iš Lenkų atėję į Lietuvą, noris plėtės tenai ir jau nuomojo jos muitus, vienok smulkmėmis vis dar krikščionys vertės, o žydams nevalna buvo pirkinėti už pilių įvežamas į pilį prekes, kaipogi ir pačioje pily pirm krikščionų, jau lig didžiosios pusrytės^1481 , jau lig pietų, žydai pirkti negalėjo.
+  citata_rodoma: "Nesgi žydai, iš Lenkų atėję į Lietuvą, noris plėtės tenai ir jau nuomojo jos muitus, vienok smulkmėmis vis dar krikščionys vertės, o žydams nevalna buvo pirkinėti už pilių įvežamas į pilį prekes, kaipogi ir pačioje pily pirm krikščionų, jau lig didžiosios pusrytės^1481 , jau lig pietų, žydai pirkti negalėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07827
+    - t-002

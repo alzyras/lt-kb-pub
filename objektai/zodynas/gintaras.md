@@ -29,8 +29,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
 ## Teiginiai
 
 <a id="claim-t-192920"></a>
-- t-001
-  global_id: t-192920
+- t-002
   teiginys: "Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančiomis iškasenomis, vadina gintaro sandėliais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,8 +50,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
     - c-175690
 
 <a id="claim-t-192921"></a>
-- t-002
-  global_id: t-192921
+- t-003
   teiginys: "Narbutas gerą gintarą apibūdina kaip kietą, blizgų, skaidrų ir senovėje brangakmeniams prilygintą sakų klasės daiktą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,8 +70,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
     - c-175691
 
 <a id="claim-t-194902"></a>
-- t-003
-  global_id: t-194902
+- t-004
   teiginys: "Kocebus teisingai vadina gintarą saulės akmeniu, se novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią gaubia sunkiai atskleidžiamos uždangos4."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -83,7 +80,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-177298
-    - c-003
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Kocebus teisingai vadina gintarą saulės akmeniu, se novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią gaubia sunkiai atskleidžiamos uždangos4.'
@@ -108,8 +105,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194902
+
 ## Citatos
 
 - id: c-175690
@@ -143,7 +139,8 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192920
+    - t-002
+
 - id: c-175691
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -169,7 +166,8 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192921
+    - t-003
+
 - id: c-177298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -188,25 +186,11 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
     sukietėjo. Savo aprašymuose jie nenurodė tos vietos, kur
     ši medžiaga turi ¡gimti; Plinijus stengėsi nuodugniau iš­
     studijuoti šį dalyką.
-  citata_rodoma: |
-    148
-
-    ## Puslapis 146
-
-    prototipą atitinkanti prasmė išliko Pirėnų baskų ir Žemu­
-    tinės Bretanės kalbose1. Lietuvių kalboje jis išliko žodyje
-    Stiklas, kuris susideda iš s, si, sii, o tai išreiškia lotynų
-    reciprocum, se, sanskrito sieti2, lenkų się; be to, lietuviš­
-    kas žodis Stiklas reiškia spindintį daiktą, žodyje glūdi
-    G los s pradas.
-    150
-    Kocebus teisingai vadina gintarą saulės akmeniu, se­
-    novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią
-    gaubia sunkiai atskleidžiamos uždangos4.
+  citata_rodoma: "148\n\n## Puslapis 146\n\nprototipą atitinkanti prasmė išliko Pirėnų baskų ir Žemu­\ntinės Bretanės kalbose1. Lietuvių kalboje jis išliko žodyje\nStiklas, kuris susideda iš s, si, sii, o tai išreiškia lotynų\nreciprocum, se, sanskrito sieti2, lenkų się; be to, lietuviš­\nkas žodis Stiklas reiškia spindintį daiktą, žodyje glūdi\nG los s pradas.\n150\nKocebus teisingai vadina gintarą saulės akmeniu, se­\nnovėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią\ngaubia sunkiai atskleidžiamos uždangos4."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194902
+    - t-004

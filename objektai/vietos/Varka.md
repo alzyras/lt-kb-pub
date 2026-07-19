@@ -31,7 +31,6 @@ Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­ gailos elgesiu, su
 
 <a id="claim-t-86248"></a>
 - t-001
-  global_id: t-86248
   teiginys: "Lenkijos bajorai Varkoje nusprendė reikalauti paleisti karalių, o nesėkmės atveju rengti žygį į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,19 +62,11 @@ Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­ gailos elgesiu, su
     gingai reiškėsi popiežius Martynas V. Jis net imperatorių Zig­
     mantą paragino rūpintis Jogailos išlaisvinimu ir pats asme­
     niškai savo autoritetu didžiai prie to prisidėjo5.
-  citata_rodoma: |
-    Tačiau kai ši jo nelaisvė gana ilgai užsi­
-    tęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse
-    šalyse. Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­
-    gailos elgesiu, susirinkę Varkoje, nusprendė pirmiausia ofi­
-    cialiai nusiųsti pas jį pasiuntinius, kurie pareikalautų išlais­
-    vinti karalių, o jeigu tai nieko neduotų, - surengti žygį į
-    Lietuvą susirinkus ties Kijanų kaimu prie Viepšo4. Čia ener­
-    gingai reiškėsi popiežius Martynas V.
+  citata_rodoma: "Tačiau kai ši jo nelaisvė gana ilgai užsi­\ntęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse \nšalyse. Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­\ngailos elgesiu, susirinkę Varkoje, nusprendė pirmiausia ofi­\ncialiai nusiųsti pas jį pasiuntinius, kurie pareikalautų išlais­\nvinti karalių, o jeigu tai nieko neduotų, - surengti žygį į \nLietuvą susirinkus ties Kijanų kaimu prie Viepšo4. Čia ener­\ngingai reiškėsi popiežius Martynas V."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86248
+    - t-001

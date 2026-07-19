@@ -31,7 +31,6 @@ Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
 
 <a id="claim-t-195000"></a>
 - t-001
-  global_id: t-195000
   teiginys: "Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip Zbignievo Olesnickio."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195000
+    - t-001

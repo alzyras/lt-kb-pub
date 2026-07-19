@@ -31,7 +31,6 @@ Motiejus Mechovita, Zigmanto I laikų istorikas, rašė girdėjęs jotvingių ka
 
 <a id="claim-t-191896"></a>
 - t-001
-  global_id: t-191896
   teiginys: "Motiejus Mechovita, Zigmanto I laikų istorikas, rašė girdėjęs jotvingių kalbą Polesėje prie Drohičino ir jos nesupratęs."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Motiejus Mechovita, Zigmanto I laikų istorikas, rašė girdėjęs jotvingių ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191896
+    - t-001

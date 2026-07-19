@@ -37,7 +37,6 @@ Turime atvirai pasisa­ kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lie
 
 <a id="claim-t-35997"></a>
 - t-001
-  global_id: t-35997
   teiginys: "Knygos autorius 1401 m. aktą vertino kaip didelį Lietuvos atsipalaidavimo nuo Lenkijos žingsnį ir Krėvės unijos „remontą“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,16 +69,11 @@ Turime atvirai pasisa­ kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lie
     nuo Lenkijos atsipalaidavimo kely, ir didelis „remontas“ Krė­
     vės unijoj, vadinamoj Lietuvos inkorporacija ir net aneksija.
     Paskutinis aktas gavo jau personalinės unijos vardą.
-  citata_rodoma: |
-    Turime atvirai pasisa­
-    kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lietuvos
-    nuo Lenkijos atsipalaidavimo kely, ir didelis „remontas“ Krė­
-    vės unijoj, vadinamoj Lietuvos inkorporacija ir net aneksija.
-    Paskutinis aktas gavo jau personalinės unijos vardą.
+  citata_rodoma: "Turime atvirai pasisa­\nkyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lietuvos\nnuo Lenkijos atsipalaidavimo kely, ir didelis „remontas“ Krė­\nvės unijoj, vadinamoj Lietuvos inkorporacija ir net aneksija.\nPaskutinis aktas gavo jau personalinės unijos vardą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35997
+    - t-001

@@ -28,30 +28,6 @@ media_all_json: |-
 
 Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas.
 
-## Teiginiai
-
-<a id="claim-t-189059"></a>
-- t-001
-  global_id: t-189059
-  teiginys: "Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Rytų Sibiras: 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Nerčia: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Rytų Sibiras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nerčia tiesiogiai apibūdinta kaip Rytų Sibiro upė, todėl fiksuojamas geografinis priklausymas."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Nerčia priklausė Rytų Sibiras (0.73)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-171948
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas.'
@@ -71,8 +47,7 @@ Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miesta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189059
+
 ## Citatos
 
 - id: c-171948
@@ -96,20 +71,34 @@ Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miesta
     gal smulkmenas apie vienuolijų kūrimą, kadangi citatos pa­
     stabose, paraštėse iš šaltinių, kuriais autorius naudojosi, atro­
     do, nieko naujo nepasako.
-  citata_rodoma: |
-    II priedas
-    Apie N erčios upę
-    Papildymas apie ypatumą visų kraštų vandenų pavadini­
-    mo, kurio etimologiją išreiškia skiemuo N  ar, Nėr, Nor, Nur.
-    Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu­
-    je, reikia pridėti dar vieną, pastebėtą jau išspausdinus lanką:
-    lai Nerčia (Nercz), Rytų Sibiro upė, prie kurios yra Nerčinsko
-    miestas. Taigi dabar jau neliko nė vienos žinomo pasaulio da­
-    lies, kurioje nebūtų upėvardžio, turinčio panašią etimologiją.
+  citata_rodoma: "II priedas\nApie N erčios upę\nPapildymas apie ypatumą visų kraštų vandenų pavadini­\nmo, kurio etimologiją išreiškia skiemuo N  ar, Nėr, Nor, Nur.\nPrie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu­\nje, reikia pridėti dar vieną, pastebėtą jau išspausdinus lanką:\nlai Nerčia (Nercz), Rytų Sibiro upė, prie kurios yra Nerčinsko\nmiestas. Taigi dabar jau neliko nė vienos žinomo pasaulio da­\nlies, kurioje nebūtų upėvardžio, turinčio panašią etimologiją."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189059
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-189059"></a>
+- t-001
+  teiginys: "Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Rytų Sibiras: 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Nerčia: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Rytų Sibiras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Nerčia tiesiogiai apibūdinta kaip Rytų Sibiro upė, todėl fiksuojamas geografinis priklausymas."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Nerčia priklausė Rytų Sibiras (0.73)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171948

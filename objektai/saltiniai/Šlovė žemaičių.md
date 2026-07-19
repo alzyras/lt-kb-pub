@@ -39,8 +39,7 @@ poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo
 ## Teiginiai
 
 <a id="claim-t-75538"></a>
-- t-001
-  global_id: t-75538
+- t-002
   teiginys: "Simono Stanevičiaus poezijos knygoje išspausdintas eilėraštis „Šlovė žemaičių“ laikytas etninių lietuvių tautinio kultūrinio sąjūdžio poetiniu manifestu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo
     - c-73289
 
 <a id="claim-t-75539"></a>
-- t-002
-  global_id: t-75539
+- t-001
   teiginys: "Eilėraštis „Šlovė žemaičių“ laikytas kone šio sąjūdžio himnu ar poetiniu manifestu."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -96,22 +94,12 @@ poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo
     vyks. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
     parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų
     plito nuorašais.
-  citata_rodoma: |
-    Ši grupelė ir lai-
-    koma etninių lietuvių tautinio
-    kultūrinio sąjūdžio pradininkais.
-    Parašytas ir išleistas tiems lai-
-    kams novatoriškas elementorius
-    lietuvių kalba (žemaičių tarme),
-    poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje
-    buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis
-    manifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepa-
-    vyks. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
+  citata_rodoma: "Ši grupelė ir lai-\nkoma etninių lietuvių tautinio \nkultūrinio sąjūdžio pradininkais. \nParašytas ir išleistas tiems lai-\nkams novatoriškas elementorius \nlietuvių kalba (žemaičių tarme), \npoetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje \nbuvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis \nmanifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepa-\nvyks. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75538
-    - t-75539
+    - t-002
+    - t-001

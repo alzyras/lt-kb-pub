@@ -31,7 +31,6 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 
 <a id="claim-t-22127"></a>
 - t-001
-  global_id: t-22127
   teiginys: "Kai kurie žemaičiai save laikė vieno dvilypio lietuvių ir žemaičių etnoso dalimi, nors kiti juos laikė atskiru giminingu etnosu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 
 <a id="claim-t-183417"></a>
 - t-002
-  global_id: t-183417
   teiginys: "Vilniaus universiteto aplinkoje susibūrę iš Žemaitijos kilę inteligentai siekė plėtoti aukštąją kultūrą lietuvių arba žemaičių kalba."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -91,15 +89,15 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
     etnosu, bet jie patys save laikė
     vieno dvilypio lietuvių-žemaičių
     etnoso dalimi).
-  citata_rodoma: |
-    tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar
+  citata_rodoma: "tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22127
+    - t-001
+
 - id: c-166811
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -128,4 +126,4 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183417
+    - t-002

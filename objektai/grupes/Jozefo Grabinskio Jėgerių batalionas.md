@@ -39,7 +39,6 @@ Jozefo Grabinskio Jėgerių batalionas, LDK kariuomenės artileristai prasidėju
 
 <a id="claim-t-40903"></a>
 - t-001
-  global_id: t-40903
   teiginys: "Jozefo Grabinskio Jėgerių batalionas priklausė Vilnių nuo rusų puolimo gynusiai gen. mjr. Jono Mejeno divizijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,20 +75,11 @@ Jozefo Grabinskio Jėgerių batalionas, LDK kariuomenės artileristai prasidėju
     (2004 m. vykusi
     1794 m. sukilimo
     kovų inscenizacija)
-  citata_rodoma: |
-    Vėliau Vilnių nuo rusų puolimo gynė
-    gen. mjr. Jono Mejeno divizija, kurią sudarė
-    2-0ji ir 3-ioji Tautinės kavalerijos brigados,
-    mjr. Jozefo Grabinskio Jėgerių batalionas,
-
-    LDK kariuomenės
-    artileristai prasidėjus
-    sukilimui Vilniuje
-    (2004 m.
+  citata_rodoma: "Vėliau Vilnių nuo rusų puolimo gynė\ngen. mjr. Jono Mejeno divizija, kurią sudarė\n2-0ji ir 3-ioji Tautinės kavalerijos brigados,\nmjr. Jozefo Grabinskio Jėgerių batalionas,\n\nLDK kariuomenės\nartileristai prasidėjus\nsukilimui Vilniuje\n(2004 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40903
+    - t-001

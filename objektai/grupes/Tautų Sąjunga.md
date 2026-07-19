@@ -42,8 +42,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 ## Teiginiai
 
 <a id="claim-t-181335"></a>
-- t-001
-  global_id: t-181335
+- t-004
   teiginys: "Lietuvos delegacija siekė, kad Lietuva būtų priimta į Tautų Sąjungos bendriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
     - c-164892
 
 <a id="claim-t-181336"></a>
-- t-002
-  global_id: t-181336
+- t-006
   teiginys: "Įsileidusi sovietų bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 
 <a id="claim-t-181338"></a>
 - t-003
-  global_id: t-181338
   teiginys: "1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors didžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
     - c-22778
 
 <a id="claim-t-193564"></a>
-- t-004
-  global_id: t-193564
+- t-007
   teiginys: "1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją, pritariančią Himanso planui."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -131,16 +127,15 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
     riuomenę, apsigynė ir pradėjo tvarkyti vidaus ekonominius reikalus.
     1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors di-
     džiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.
-  citata_rodoma: |
-    1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors di-
-    džiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.
+  citata_rodoma: "1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors di-\ndžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181338
+    - t-003
+
 - id: c-164890
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -155,16 +150,15 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
     ta į Tautų Sąjungos Tarybą. Sovietams kariaujant su Suomija Baltijos vals-
     tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
     kaip agresorė.
-  citata_rodoma: |
-    1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors di-
-    džiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.
+  citata_rodoma: "1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors di-\ndžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181336
+    - t-006
+
 - id: c-164892
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -189,7 +183,8 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181335
+    - t-004
+
 - id: c-176243
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -205,6 +200,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193564
+    - t-007
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]

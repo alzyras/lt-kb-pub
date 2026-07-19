@@ -46,19 +46,6 @@ Pateikiama greta ankstesnės formulės apie pasninką.
 
 Patariamoji formulė apie susilaikymo ir atsistatymo kaitą.
 
-## Teiginiai
-
-<a id="claim-t-195447"></a>
-- t-001
-  global_id: t-195447
-  teiginys: "Susilaikymas vieną dieną pateisinamas atsigaunant kitą dieną."
-  atnaujinta: "2026-07-12 02:46"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177868
-
 ## Citatos
 
 - id: c-177868
@@ -70,12 +57,9 @@ Patariamoji formulė apie susilaikymo ir atsistatymo kaitą.
     Išverda kopūstų ar burokų be jokio užda­
     ro — ir srėbk duona užsikąsdamas. Sakoma: kokia diena, toks ir val­
     gis. Arba: šiandien susitrauksi, kitą dieną atsigausi.
-  citata_rodoma: |
-    Arba: šiandien susitrauksi, kitą dieną atsigausi.
+  citata_rodoma: "Arba: šiandien susitrauksi, kitą dieną atsigausi."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195447

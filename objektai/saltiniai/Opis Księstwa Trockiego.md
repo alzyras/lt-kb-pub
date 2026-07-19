@@ -39,7 +39,6 @@ Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist.
 
 <a id="claim-t-36091"></a>
 - t-001
-  global_id: t-36091
   teiginys: "J. Jakubowskio „Opis Księstwa Trockiego“ cituojamas kaip 1907 m. „Kwartalnink hist.“ publikacija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,13 +67,11 @@ Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist.
     (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
     Oblastnoe delenie L.R.Q. Moskva 1892, p. 321). 3
     ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist. 1907 m.).
-  citata_rodoma: |
-    3
-    ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist. 1907 m.).
+  citata_rodoma: "3\n) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist. 1907 m.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36091
+    - t-001

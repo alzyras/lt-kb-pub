@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-192910"></a>
 - t-001
-  global_id: t-192910
   teiginys: "Teodoras Narbutas rašė, kad netoli Veronos, slėnyje tarp Veronos ir Trento, dar turėtų gyventi senovės kimbrų ainiai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192910
+    - t-001

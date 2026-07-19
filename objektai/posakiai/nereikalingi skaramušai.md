@@ -53,7 +53,6 @@ Posakiu kandžiai nusakoma, kad į miestą suplūsta daug nereikalingų karnaval
 
 <a id="claim-t-200628"></a>
 - t-001
-  global_id: t-200628
   teiginys: "1751 m. Jonas Dominykas Lopacinskis artėjančias Užgavėnes Vilniuje apibūdino formule apie „nereikalingus skaramušus“."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::sayings"
@@ -79,20 +78,8 @@ Posakiu kandžiai nusakoma, kad į miestą suplūsta daug nereikalingų karnaval
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 12"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 12."
-  citata_originali: |
-    1757 m. kanauninkas pranešė, kad Vilniuje rengiamas karnavalas, kuriame ketinąs
-    dalyvauti Mykolas Kazimieras Radvila Žuvelė [49]. Beje, karnavalus jis kartais minėjo su
-    ironija. 1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių
-    pribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas
-    yra kanauninko mūriniame name [17].
-  citata_rodoma: |
-    1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių
-    pribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas
-    yra kanauninko mūriniame name [17].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 08:04"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200628
+    - t-001

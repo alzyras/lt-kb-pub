@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62686"></a>
-- t-001
-  global_id: t-62686
+- t-002
   teiginys: "Krivio pasiuntinys, keliaudamas su krivūle ar kitu žinomu ženklu, sulaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,17 +79,11 @@ Nenurodyta
     kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos
     iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
     senovėje, negęstančiąją ugnį.
-  citata_rodoma: |
-    tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet
-    ir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje. Toks didelis buvo jo autoritetas,
-    kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu
-    kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos
-    iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
-    senovėje, negęstančiąją ugnį.
+  citata_rodoma: "tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet\nir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje. Toks didelis buvo jo autoritetas,\nkad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu\nkitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos\niš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta\nsenovėje, negęstančiąją ugnį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62686
+    - t-002

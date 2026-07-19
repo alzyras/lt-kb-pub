@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-194942"></a>
 - t-001
-  global_id: t-194942
   teiginys: "Savo karaliukui, vardu Masos, kaip duoklę atneša gražiausius savo vaikus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194942
+    - t-001

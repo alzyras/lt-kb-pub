@@ -43,7 +43,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 
 <a id="claim-t-89626"></a>
 - t-001
-  global_id: t-89626
   teiginys: "Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - c-85564
 
 <a id="claim-t-89627"></a>
-- t-002
-  global_id: t-89627
+- t-004
   teiginys: "1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas ir jas nuniokojo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 
 <a id="claim-t-89628"></a>
 - t-003
-  global_id: t-89628
   teiginys: "Po Mykolo Glinskio pergalės žinia apie mūšį spėjo pasiekti mirštantį valdovą Aleksandrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,8 +97,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - c-85563
 
 <a id="claim-t-89629"></a>
-- t-004
-  global_id: t-89629
+- t-002
   teiginys: "Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -117,8 +113,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - c-85563
 
 <a id="claim-t-190842"></a>
-- t-005
-  global_id: t-190842
+- t-006
   teiginys: "Narbutas rašo, kad po susidūrimo su Pilypo sūnumi Aleksandru skitų kariuomenė neteko 30 000 karių ir prašė Aleksandro taikos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -138,8 +133,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - c-173724
 
 <a id="claim-t-196407"></a>
-- t-006
-  global_id: t-196407
+- t-007
   teiginys: "Apvalęs Podolę nuo totorių, Algirdas atidavė ją Karijoto sūnums Aleksandrui, Konstantinui, Teodorui ir Jurgiui už pagalbą kare."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -152,8 +146,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - c-178665
 
 <a id="claim-t-200964"></a>
-- t-007
-  global_id: t-200964
+- t-008
   teiginys: "Kunigą Aleksandrą nusiuntė į Medžiapolę, kursai visus te nai ūkėsus apkrikštijo ir bažnyčią jiems įkūrė."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -165,8 +158,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - c-184314
 
 <a id="claim-t-200965"></a>
-- t-008
-  global_id: t-200965
+- t-009
   teiginys: "Jau buvo lie tuviai į pilį įsigrūdą, bet tuo tarpu kunigaikštis Naugardo Aleksandras, vadinamas Nevskiu, atėjo ant pagalbos Polockui."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -178,8 +170,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - c-184315
 
 <a id="claim-t-200966"></a>
-- t-009
-  global_id: t-200966
+- t-010
   teiginys: "Tuo laiku Uzbekąs, chanas totorių, patvirtinęs tūlus maskolių kunigaikščius ypatingais valdymierais, liepė vaidintis savo rūmuose Tverės kunigaikš čiui Aleksandrui ir jį, Uzbeką, savo viešpačiu iš pažinti ir donį jam duoti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -311,18 +302,15 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     belaisvį (SRP, 2, 349); 1378 m., kai Kęstutis sunaikino Ekersbergo pilį, jo kariai norėję
     paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
     (SRP, 2, 596).
-  citata_rodoma: |
-    1365 m. Kęstutis,
-    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
-    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
-    belaisvį (SRP, 2, 349); 1378 m.
+  citata_rodoma: "1365 m. Kęstutis,\nAlgirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo\nžygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį\nbelaisvį (SRP, 2, 349); 1378 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89627
+    - t-004
+
 - id: c-85563
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -344,30 +332,16 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     pranešti, kad chanas labai noriai laikysis ge-
     gužės mėnesį suderėtos taikos. Pasiuntinys
     taip pat gabeno Kazanės chano Mahometo-
-  citata_rodoma: |
-    Mūšio
-    nugalėtojas Mykolas
-    Glinskis triumfuo-
-    damas grįžo į Vilnių
-
-    YD rugpjūčio 12 d. Džiugi
-
-    žinia dar spėjo pasiekti
-
-    mirštantį valdovą Aleksandrą.
-    Mengli-Girėjus, gavęs žinią apie toto-
-    riams fatališkai pasibaigusį mūšį, tuojau pat
-    išsiuntė savo pasiuntinį į Vilnių, kuris turėjo
-    pranešti, kad chanas labai noriai laikysis ge-
-    gužės mėnesį suderėtos taikos.
+  citata_rodoma: "Mūšio\nnugalėtojas Mykolas\nGlinskis triumfuo-\ndamas grįžo į Vilnių\n\nYD rugpjūčio 12 d. Džiugi\n\nžinia dar spėjo pasiekti\n\nmirštantį valdovą Aleksandrą.\nMengli-Girėjus, gavęs žinią apie toto-\nriams fatališkai pasibaigusį mūšį, tuojau pat\nišsiuntė savo pasiuntinį į Vilnių, kuris turėjo\npranešti, kad chanas labai noriai laikysis ge-\ngužės mėnesį suderėtos taikos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89628
-    - t-89629
+    - t-003
+    - t-002
+
 - id: c-85564
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -391,7 +365,8 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89626
+    - t-001
+
 - id: c-173724
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -423,7 +398,8 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190842
+    - t-006
+
 - id: c-178665
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -447,10 +423,12 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196407
+    - t-007
+
 - id: c-184314
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     To dėjęsis, Alobramdas kunigas nuėjo į Tu-
     raidą latvių mokyti ir krikštyti, kurį kraštą paskaidė
@@ -465,10 +443,12 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200964
+    - t-008
+
 - id: c-184315
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lietuviai prisiartinę uždegė miestą, gudai
     su kalavijonimis, apgobti dūmais ir liepsnomis, šim­
@@ -487,10 +467,12 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200965
+    - t-009
+
 - id: c-184316
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mina-
     vojau viršiaus, jog totoriai valdė gudus rytinius,
@@ -517,6 +499,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200966
+    - t-010
+
 ## Ryšiai
 - Aleksandras keliavo į [[objektai/vietos/Krokuva]]

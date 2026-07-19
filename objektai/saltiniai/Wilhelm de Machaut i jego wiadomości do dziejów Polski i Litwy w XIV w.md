@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-100224"></a>
 - t-001
-  global_id: t-100224
   teiginys: "„Wilhelm de Machaut i jego wiadomości do dziejów Polski i Litwy w XIV w.“ paskelbta KH 43 tome 1929 m., p. 217–228."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100224
+    - t-001

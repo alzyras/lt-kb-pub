@@ -35,8 +35,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 ## Teiginiai
 
 <a id="claim-t-97290"></a>
-- t-001
-  global_id: t-97290
+- t-003
   teiginys: "Zenonas Ivinskis Geležinio vilko legendą siejo su Romos vilke ir lietuvių kilmės iš romėnų samprata."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 
 <a id="claim-t-97291"></a>
 - t-002
-  global_id: t-97291
   teiginys: "Nuo XIX a. Vilniaus įkūrimo legenda siejo miesto pradžią su Gedimino medžiokle ant Taurakalnio ir geležinio vilko sapnu."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -71,8 +69,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - c-91784
 
 <a id="claim-t-97292"></a>
-- t-003
-  global_id: t-97292
+- t-001
   teiginys: "Vilniaus įkūrimo legendoje Gediminas po medžioklės Šventaragio slėnyje susapnavo geležinį vilką, o sapną išaiškino Lizdeika."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -113,7 +110,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97292
+    - t-001
+
 - id: c-91784
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -132,7 +130,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97291
+    - t-002
+
 - id: c-91785
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -147,17 +146,11 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be
     «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio
     vilko » sapno yra nebeįsivaizduojama.
-  citata_rodoma: |
-    Geležinio vilko legenda, be abejo, primena
-    Romos vilkę, kai jau lietuviai buvo įsisąmoninę apie savo kilmę
-    iš romėnų. Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo
-    į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be
-    «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio
-    vilko » sapno yra nebeįsivaizduojama.
+  citata_rodoma: "Geležinio vilko legenda, be abejo, primena\nRomos vilkę, kai jau lietuviai buvo įsisąmoninę apie savo kilmę\niš romėnų. Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo\nį savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be\n«Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio\nvilko » sapno yra nebeįsivaizduojama."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97290
+    - t-003

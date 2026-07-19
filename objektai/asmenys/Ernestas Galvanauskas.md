@@ -40,8 +40,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
 ## Teiginiai
 
 <a id="claim-t-169963"></a>
-- t-001
-  global_id: t-169963
+- t-005
   teiginys: "Ernestas Galvanauskas planavo paruošti Klaipėdos akcijos politinę apsaugą ir diplomatinę gynybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
     - c-154646
 
 <a id="claim-t-169964"></a>
-- t-002
-  global_id: t-169964
+- t-003
   teiginys: "Ernestas Galvanauskas nota pakvietė nustatyti Lenkijos rytines sienas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
     - c-154645
 
 <a id="claim-t-169965"></a>
-- t-003
-  global_id: t-169965
+- t-006
   teiginys: "Ernestas Galvanauskas ir Jonas Budrys nustebo, kad Lietuvos karininkai nenoriai rašėsi į Klaipėdos žygį, nelaikydami jo kova už tėvynę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
     - c-154644
 
 <a id="claim-t-169967"></a>
-- t-004
-  global_id: t-169967
+- t-001
   teiginys: "Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garantuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant gynybinę, kad tik pavyktų susigrąžinti Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,8 +110,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
     - c-154643
 
 <a id="claim-t-183530"></a>
-- t-005
-  global_id: t-183530
+- t-007
   teiginys: "1921 m. lapkričio 15 d. Kaune sprogus bombai Ernestas Galvanauskas buvo sužeistas, bet liko gyvas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -137,8 +132,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
     - c-21663
 
 <a id="claim-t-183531"></a>
-- t-006
-  global_id: t-183531
+- t-008
   teiginys: "Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, manydamas, kad Lietuva jo negaus per Tautų Sąjungą ar Ambasadorių konferenciją."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -179,7 +173,8 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183530
+    - t-007
+
 - id: c-154643
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -193,18 +188,15 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
     didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garan-
     tuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant
     gynybinę, kad tik pavyktų susigrąžinti Vilnių.
-  citata_rodoma: |
-    Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo
-    didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garan-
-    tuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant
-    gynybinę, kad tik pavyktų susigrąžinti Vilnių.
+  citata_rodoma: "Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo \ndidelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garan-\ntuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant \ngynybinę, kad tik pavyktų susigrąžinti Vilnių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169967
+    - t-001
+
 - id: c-154644
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -222,7 +214,8 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169965
+    - t-006
+
 - id: c-154645
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -236,15 +229,15 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
     Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
     pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
     su Rusija pagal 1921 m.
-  citata_rodoma: |
-    pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
+  citata_rodoma: "pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169964
+    - t-003
+
 - id: c-154646
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -256,16 +249,15 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
     24 valandų reikalu.
     Tik keli žmonės iš vyriausybės žinojo apie E. Galvanausko planą pa-
     ruošti akcijos Klaipėdoje politinę apsaugą ir diplomatinę gynybą.
-  citata_rodoma: |
-    Tik keli žmonės iš vyriausybės žinojo apie E. Galvanausko planą pa-
-    ruošti akcijos Klaipėdoje politinę apsaugą ir diplomatinę gynybą.
+  citata_rodoma: "Tik keli žmonės iš vyriausybės žinojo apie E. Galvanausko planą pa-\nruošti akcijos Klaipėdoje politinę apsaugą ir diplomatinę gynybą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169963
+    - t-005
+
 - id: c-166924
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -285,4 +277,4 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183531
+    - t-008

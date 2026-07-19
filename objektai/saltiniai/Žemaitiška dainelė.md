@@ -30,7 +30,6 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
 
 <a id="claim-t-80762"></a>
 - t-001
-  global_id: t-80762
   teiginys: "Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,19 +60,11 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
     ŽEMAITIŠKA DAINELĖ
 
     Antanas Klementas.
-  citata_rodoma: |
-    Po trumpo susišaudymo keli
-    muškietininkai buvo nukauti ir apsnū-
-
-    dęs generolas paimtas į nelaisvę. Vokiečių
-
-    ŽEMAITIŠKA DAINELĖ
-
-    Antanas Klementas.
+  citata_rodoma: "Po trumpo susišaudymo keli\nmuškietininkai buvo nukauti ir apsnū-\n\ndęs generolas paimtas į nelaisvę. Vokiečių\n\nŽEMAITIŠKA DAINELĖ\n\nAntanas Klementas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80762
+    - t-001

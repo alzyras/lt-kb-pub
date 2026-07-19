@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189924"></a>
 - t-001
-  global_id: t-189924
   teiginys: "Narbutas aiškina, kad Dusburgietis galėjo perdėti Nadruvos krivio valdžią, tačiau tai nepaneigia krivio institucijos buvimo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172807
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas aiškina, kad Dusburgietis galėjo perdėti Nadruvos krivio valdžią, tačiau tai nepaneigia krivio institucijos buvimo.'
@@ -86,8 +85,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189924
+
 ## Citatos
 
 - id: c-172807
@@ -107,22 +105,11 @@ Nenurodyta
     pat turi kelti nerimą ir abejonę dėl visos to dalyko esmės. Ta­
     čiau tam, kuriam žinoma, kokios reikšmės krivio pareigos tu­
     rėjo Prūsijoje gyvenant tiems kronikininkams, kaip dažnai jo
-  citata_rodoma: |
-    Sutikime trumpam
-    su šiuo priekaištu ir pripažinkime, kad Dusburgietis suklydo
-    ir per daug išplėtė vyriausiojo žynio valdžią. Tačiau ar klaida
-    kokiame nors dalyke arba jo nesupratimas paneigia dalyko tik­
-    rumą? O gal dėl to nebuvo jokio krivio, kad Dusburgietis per­
-    dėjo jo valdžią? Mes jau anksčiau parodėme, kad kronikinin­
-    kas kaip reikiant nežinojo, koks buvo krivio laipsnis, rangas,
-    valdžios ribos. Jau mes mūsų istorijos tyrimais įrodėme, kad
-    paskutiniais stabmeldystės amžiais Romovių būta ne vienoje
-    vietoje ir jose gyveno atskiri kriviai, taigi Dusburgietis apie
-    vieną Nadruvos krivį pasakė tai, kas tiko ir daugeliui kitų.
+  citata_rodoma: "Sutikime trumpam\nsu šiuo priekaištu ir pripažinkime, kad Dusburgietis suklydo\nir per daug išplėtė vyriausiojo žynio valdžią. Tačiau ar klaida\nkokiame nors dalyke arba jo nesupratimas paneigia dalyko tik­\nrumą? O gal dėl to nebuvo jokio krivio, kad Dusburgietis per­\ndėjo jo valdžią? Mes jau anksčiau parodėme, kad kronikinin­\nkas kaip reikiant nežinojo, koks buvo krivio laipsnis, rangas,\nvaldžios ribos. Jau mes mūsų istorijos tyrimais įrodėme, kad\npaskutiniais stabmeldystės amžiais Romovių būta ne vienoje\nvietoje ir jose gyveno atskiri kriviai, taigi Dusburgietis apie\nvieną Nadruvos krivį pasakė tai, kas tiko ir daugeliui kitų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189924
+    - t-001

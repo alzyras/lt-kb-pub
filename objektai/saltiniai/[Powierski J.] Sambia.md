@@ -36,7 +36,6 @@ Dusburgietis teigia, kad [Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kra
 
 <a id="claim-t-61253"></a>
 - t-001
-  global_id: t-61253
   teiginys: "J. Powierskio „Sambia“ nurodyta 1975 m. SSS 5 tomo 37-38 puslapiuose."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,7 @@ Dusburgietis teigia, kad [Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kra
   temporalinis_llm_pakomentavimas: "Citata pagrindžia leidinio ir puslapių duomenis."
   pagrindžia:
     - c-61885
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Powierskio „Sambia“ nurodyta 1975 m. SSS 5 tomo 37-38 puslapiuose.'
@@ -66,8 +65,7 @@ Dusburgietis teigia, kad [Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kra
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61253
+
 ## Citatos
 
 - id: c-61885
@@ -78,13 +76,11 @@ Dusburgietis teigia, kad [Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kra
     9—43.
     [Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kraków—Gdańsk, 1975, t. 5, s.
     37—38.
-  citata_rodoma: |
-    [Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kraków—Gdańsk, 1975, t. 5, s.
-    37—38.
+  citata_rodoma: "[Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kraków—Gdańsk, 1975, t. 5, s.\n37—38."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61253
+    - t-001

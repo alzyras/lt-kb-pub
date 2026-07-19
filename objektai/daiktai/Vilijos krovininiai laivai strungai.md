@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189753"></a>
 - t-001
-  global_id: t-189753
   teiginys: "Narbutas Vilijos krovininius laivus strungus vadino dideliais upiniais laivais, kuriems su jūrų laivais lyginti trūko tik stiebų ir kylio."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189753
+    - t-001

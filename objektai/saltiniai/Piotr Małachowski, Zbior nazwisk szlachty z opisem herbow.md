@@ -36,7 +36,6 @@ T. Narbutas turėjo omenyje Petro Malachovskio 1780 m. Lucke išleistą veikalą
 
 <a id="claim-t-191748"></a>
 - t-001
-  global_id: t-191748
   teiginys: "T. Narbutas turėjo omenyje Petro Malachovskio 1780 m. Lucke išleistą veikalą „Zbior nazwisk szlachty z opisem herbow“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ T. Narbutas turėjo omenyje Petro Malachovskio 1780 m. Lucke išleistą veikalą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191748
+    - t-001

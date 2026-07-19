@@ -31,7 +31,6 @@ Vytautas tai darė ne iš simpatijos pačiam husitizmui, bet iš pykčio ant cie
 
 <a id="claim-t-34391"></a>
 - t-001
-  global_id: t-34391
   teiginys: "Formulė „in odium Sigismundi“ aiškino Vytauto pagalbą husitams pykčiu Zigmantui, pripažinusiam Ordinui Žemaičius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Vytautas tai darė ne iš simpatijos pačiam husitizmui, bet iš pykčio ant cie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34391
+    - t-001

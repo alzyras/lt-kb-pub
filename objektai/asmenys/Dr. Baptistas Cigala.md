@@ -31,8 +31,7 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
 ## Teiginiai
 
 <a id="claim-t-35051"></a>
-- t-001
-  global_id: t-35051
+- t-002
   teiginys: "Dr. Baptistas Cigala antrame atsakyme teigė, kad karūnacijai atlikti nereikia popiežiaus patvirtinimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
     - c-38003
 
 <a id="claim-t-35052"></a>
-- t-002
-  global_id: t-35052
+- t-001
   teiginys: "Dr. Baptistas Cigala Zigmanto pavedimu atsakė į Krokuvos profesoriaus nuomonę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,17 +77,15 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
     rįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo
     Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
     nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
-  citata_rodoma: |
-    į tą Krokuvos profesorių, be abejo
-    Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
-    nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
+  citata_rodoma: "į tą Krokuvos profesorių, be abejo\nZb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­\nnę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35052
+    - t-001
+
 - id: c-38003
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -106,19 +102,11 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
     pats Cigala atsako, kad pastaroji, būdama bažnytiniu aktu, ne­
     priduoda daugiau valdžios, o tiktai pašventina, padaro kilnesnį
     karūnacijos aktą^2 ).
-  citata_rodoma: |
-    Cigala antrame savo atsakyme gina, kad
-    karūnacijai atlikti nereikalingas popiežiaus patvirtinimas. Ro­
-    mos karalius turįs teisę karūnuot ir kurti karalystes be popie­
-    žiaus, jis galįs atlikt viską, kas liečia išviršinę pusę — dekoraci­
-    ją. į klausimą, ar po karūnacijos turi įvykti ir konsekracija, tas
-    pats Cigala atsako, kad pastaroji, būdama bažnytiniu aktu, ne­
-    priduoda daugiau valdžios, o tiktai pašventina, padaro kilnesnį
-    karūnacijos aktą^2 ).
+  citata_rodoma: "Cigala antrame savo atsakyme gina, kad\nkarūnacijai atlikti nereikalingas popiežiaus patvirtinimas. Ro­\nmos karalius turįs teisę karūnuot ir kurti karalystes be popie­\nžiaus, jis galįs atlikt viską, kas liečia išviršinę pusę — dekoraci­\nją. į klausimą, ar po karūnacijos turi įvykti ir konsekracija, tas\npats Cigala atsako, kad pastaroji, būdama bažnytiniu aktu, ne­\npriduoda daugiau valdžios, o tiktai pašventina, padaro kilnesnį\nkarūnacijos aktą^2 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35051
+    - t-002

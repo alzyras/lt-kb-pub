@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89389"></a>
-- t-001
-  global_id: t-89389
+- t-004
   teiginys: "1243 m. pirmojo prūsų sukilimo pradžioje Lietuvos kariuomenė dalyvavo kovoje, kai buvo nusiaubta Kulmo žemė ir sutriuškintos Ordino pajėgos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-85349
 
 <a id="claim-t-89390"></a>
-- t-002
-  global_id: t-89390
+- t-005
   teiginys: "1243 m. Kulmo žemės nusiaubime ir Ordino pajėgų sutriuškinime dalyvavo Lietuvos kariuomenė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -100,7 +98,6 @@ Nenurodyta
 
 <a id="claim-t-89391"></a>
 - t-003
-  global_id: t-89391
   teiginys: "Dusburgietis rašė apie prūsų ir sūduvių kariuomenę, nors Henriko iš Hohenlohės pranešimas nurodė lietuvius ir prūsus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -114,10 +111,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85347
-    - c-001
+
 <a id="claim-t-89392"></a>
-- t-004
-  global_id: t-89392
+- t-002
   teiginys: "Dusburgietis nutylėjo Lietuvos kariuomenės dalyvavimą 1243 m. bendroje kovoje prieš Kryžiuočių ordiną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -137,8 +133,7 @@ Nenurodyta
     - c-85348
 
 <a id="claim-t-89393"></a>
-- t-005
-  global_id: t-89393
+- t-001
   teiginys: "1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino Kryžiuočių ordino pajėgas Renzeno mūšyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -155,7 +150,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, enciklopedinis ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-85351
-    - c-004
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis rašė apie prūsų ir sūduvių kariuomenę, nors Henriko iš Hohenlohės pranešimas nurodė lietuvius ir prūsus.'
@@ -171,8 +166,6 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89391
 - c-004
   santrauka: '1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino Kryžiuočių ordino pajėgas Renzeno mūšyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -188,8 +181,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89393
+
 ## Citatos
 
 - id: c-85347
@@ -203,19 +195,15 @@ Nenurodyta
     pats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas
     klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo
     pagrindą147.
-  citata_rodoma: |
-    Šia proga jis kalba apie didžiulę prūsų  ir
-    sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
-    — nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
-    prūsų kovą nuo Lietuvos, jos karinių pastangų.
-      Dusburgiečio kronikoje nepaisoma ir kitų faktų145.
+  citata_rodoma: "Šia proga jis kalba apie didžiulę prūsų  ir\nsūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas\n— nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti\nprūsų kovą nuo Lietuvos, jos karinių pastangų.\n  Dusburgiečio kronikoje nepaisoma ir kitų faktų145."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89391
+    - t-003
+
 - id: c-85348
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -233,8 +221,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89390
-    - t-89392
+    - t-005
+    - t-002
+
 - id: c-85349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -252,7 +241,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89389
+    - t-004
+
 - id: c-85351
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -268,17 +258,11 @@ Nenurodyta
     kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123).
-  citata_rodoma: |
-    Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
-    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir
-    sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui
-    (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
-    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat
-    atsikraustymo  į pavyslį tokio masto pralaimėjimą28.
+  citata_rodoma: "Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus\ntada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir\nsutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui\n(1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —\nKulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat\natsikraustymo  į pavyslį tokio masto pralaimėjimą28."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89393
+    - t-001

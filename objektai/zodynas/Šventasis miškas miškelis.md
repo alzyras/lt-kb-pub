@@ -31,9 +31,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
 
 <a id="claim-t-189210"></a>
 - t-001
-  global_id: t-189210
   teiginys: "Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo manymu, kilo visuomeninis gyvenimas ir religinės vizijos."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172098
-    - c-001
+
 <a id="claim-t-189211"></a>
 - t-002
-  global_id: t-189211
   teiginys: "Narbutas lietuvių mitologijoje šventais laiko ištisus miško plotus su aukurais ir šventyklomis prie upių, dažnai santakose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
 
 <a id="claim-t-189212"></a>
 - t-003
-  global_id: t-189212
   teiginys: "Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, o nelaimingiesiems tikriausiai ne."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -95,25 +92,17 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
 
 <a id="claim-t-189213"></a>
 - t-004
-  global_id: t-189213
   teiginys: "Narbutas nurodo, kad Vilniuje šventasis miškas buvęs prie Vilnios ir Neries santakos."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventasis miškas miškelis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventasis miškas miškelis\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172101
-    - c-004
+    - c-172100
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo manymu, kilo visuomeninis gyvenimas ir religinės vizijos.'
@@ -137,8 +126,6 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189210
 - c-004
   santrauka: 'Narbutas nurodo, kad Vilniuje šventasis miškas buvęs prie Vilnios ir Neries santakos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -152,8 +139,7 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189213
+
 ## Citatos
 
 - id: c-172098
@@ -179,27 +165,15 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
     Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
     pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
     riuose jie būdavo garbinami.
-  citata_rodoma: |
-    Seniausiais amžiais, kai miškai, dengiantys žemę, buvo
-    žmonių buveinė, kai kurios jų vietos, garsėjančios medžių gra­
-    žumu ir malonia aplinka, būdavo draugiškų sueigų vieta; tai
-    ten gyvendavo pirmieji tautų vadai ir drauge pirmieji žyniai.
-    Šiuose miškeliuose buvo padėti pirmieji visuomeninio gyveni- 2
-    2 Tuo tikrai lietuvišku pavadinimu kaimiečiai vadina miškelius
-    Trakų apskrityje apie Marcinkonis.
-    262
-
-    ## Puslapis 262
-
-    mo pamatai ir čia išgyventos pirmosios religinės vizijos: taigi
-    miškelis buvo pirmoji visų tautų šventykla.
+  citata_rodoma: "Seniausiais amžiais, kai miškai, dengiantys žemę, buvo\nžmonių buveinė, kai kurios jų vietos, garsėjančios medžių gra­\nžumu ir malonia aplinka, būdavo draugiškų sueigų vieta; tai\nten gyvendavo pirmieji tautų vadai ir drauge pirmieji žyniai.\nŠiuose miškeliuose buvo padėti pirmieji visuomeninio gyveni- 2\n2 Tuo tikrai lietuvišku pavadinimu kaimiečiai vadina miškelius\nTrakų apskrityje apie Marcinkonis.\n262\n\n## Puslapis 262\n\nmo pamatai ir čia išgyventos pirmosios religinės vizijos: taigi\nmiškelis buvo pirmoji visų tautų šventykla."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189210
+    - t-001
+
 - id: c-172099
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -224,7 +198,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189211
+    - t-002
+
 - id: c-172100
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -245,7 +220,9 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189212
+    - t-003
+    - t-004
+
 - id: c-172101
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -259,15 +236,9 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
     nokėjų šventyklos vietą nukeliame į Ukrainą, prie Psiolo upės, į
     dešinįjį jos krantą, prie Romnos upės žiočių, kur ir dabar yra
     miestelis, vadinamas Romnais (Romne).
-  citata_rodoma: |
-    Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­
-    takos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­
-    se ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo
-    šventi miškeliai, daugiau ar mažiau garsūs.
+  citata_rodoma: "Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­\ntakos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­\nse ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo\nšventi miškeliai, daugiau ar mažiau garsūs."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189213

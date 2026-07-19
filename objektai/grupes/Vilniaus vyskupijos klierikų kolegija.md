@@ -47,7 +47,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 
 <a id="claim-t-55100"></a>
 - t-001
-  global_id: t-55100
   teiginys: "Jurgis Radvila Vilniaus diecezijoje nusprendė steigti ir funduoti kolegiją dėl kunigų ir kitų patarnautojų trūkumo."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::groups"
@@ -65,7 +64,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 
 <a id="claim-t-55101"></a>
 - t-002
-  global_id: t-55101
   teiginys: "Kolegijoje turėjo būti išlaikomas ir dievobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuolių skaičius."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "gap::groups"
@@ -82,7 +80,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 
 <a id="claim-t-55102"></a>
 - t-003
-  global_id: t-55102
   teiginys: "Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti skyrė Vozgėliškių dvarelį Vilniaus paviete."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::groups"
@@ -100,7 +97,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 
 <a id="claim-t-55103"></a>
 - t-004
-  global_id: t-55103
   teiginys: "Vozgėliškių dvarelis su teisėmis, pajamomis, medžiokle, žūkle ir dominijos teise buvo neatšaukiamai perduotas klierikų kolegijai."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::groups"
@@ -117,7 +113,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 
 <a id="claim-t-55104"></a>
 - t-005
-  global_id: t-55104
   teiginys: "Karaliaus Stepono buvo prašoma priimti Vilniaus seminariją į savo globą ir gynybą."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::groups"
@@ -134,7 +129,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 
 <a id="claim-t-55105"></a>
 - t-006
-  global_id: t-55105
   teiginys: "Klierikų mokymas ir kolegijos vadovavimas buvo patikėti Vilniaus Jėzaus draugijos kolegijai."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::groups"
@@ -151,7 +145,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 
 <a id="claim-t-81748"></a>
 - t-007
-  global_id: t-81748
   teiginys: "Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
@@ -169,7 +162,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 
 <a id="claim-t-81749"></a>
 - t-008
-  global_id: t-81749
   teiginys: "Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti pridėjo Vozgėliškėmis vadintą dvarelį Vilniaus paviete."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
@@ -263,8 +255,9 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55102
-    - t-81749
+    - t-003
+    - t-008
+
 - id: c-55909
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -303,7 +296,8 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55103
+    - t-004
+
 - id: c-55910
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -332,8 +326,9 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55104
-    - t-55105
+    - t-005
+    - t-006
+
 - id: c-78323
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -368,6 +363,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55100
-    - t-55101
-    - t-81748
+    - t-001
+    - t-002
+    - t-007

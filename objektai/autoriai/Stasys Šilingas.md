@@ -42,7 +42,6 @@ Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gin
 
 <a id="claim-t-63316"></a>
 - t-001
-  global_id: t-63316
   teiginys: "Stasys Šilingas su Jonu Basanavičiumi ir Donatu Malinausku 1914 m. liepą Vilniuje surašė Gintarinę deklaraciją."
   atnaujinta: "2026-05-30 14:17"
   sprendimo_priezastis: "auto"
@@ -96,17 +95,11 @@ Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gin
     ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
     esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
     tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
-  citata_rodoma: |
-    Kai 1914 m.
-    liepą Vilniuje J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas sura-
-    šė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelb-
-    ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
-    esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
-    tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
+  citata_rodoma: "Kai 1914 m.\nliepą Vilniuje J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas sura-\nšė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelb-\nta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,\nesančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-\ntuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63316
+    - t-001

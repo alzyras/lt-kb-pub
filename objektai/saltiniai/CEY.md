@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-31644"></a>
 - t-001
-  global_id: t-31644
   teiginys: "CEY 117 numeris pateiktas kaip šaltinio nuoroda."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,14 +56,11 @@ media_all_json: |-
     laikais,_** **rink. : Jogaila, 226-227 p.**
     (^4) **CEY, nr. 117.**
     (^5) **A. Šapoka :** **_Valst.
-  citata_rodoma: |
-    **
-    (^4) **CEY, nr. 117.**
-    (^5) **A.
+  citata_rodoma: "**\n(^4) **CEY, nr. 117.**\n(^5) **A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31644
+    - t-001

@@ -39,7 +39,6 @@ Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir
 
 <a id="claim-t-185962"></a>
 - t-001
-  global_id: t-185962
   teiginys: "Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir gruodžio pabaigoje apsupo jos sostinę bei abi pilis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir
 
 <a id="claim-t-196476"></a>
 - t-002
-  global_id: t-196476
   teiginys: "Ivanas su džiaugsmu priėmė Augusto atsiųstus belaisvius Michailą Ivanovičių ir Ivaną Selechovskį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -136,7 +134,8 @@ Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185962
+    - t-001
+
 - id: c-178714
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -179,4 +178,4 @@ Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196476
+    - t-002

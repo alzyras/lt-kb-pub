@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20592"></a>
 - t-001
-  global_id: t-20592
   teiginys: "1923 m. buvo panaikintas žydų ministro be portfelio postas Lietuvos vyriausybėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,12 +87,11 @@ Nenurodyta
     dangi leidžiame tautinėms mažumoms gimtosios kalbos teisę, kultūros
     reikalais bendrauti su savaisiais, tai mažumos „už tai privalo būti mūsų
     žemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“.
-  citata_rodoma: |
-    žemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“.
+  citata_rodoma: "žemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20592
+    - t-001

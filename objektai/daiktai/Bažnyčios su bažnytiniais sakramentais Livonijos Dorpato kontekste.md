@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-87020"></a>
 - t-001
-  global_id: t-87020
   teiginys: "1323 m. per Užgavėnes lietuviai įsiveržė į Revelio žemę ir Dorpato vyskupiją, pagrobė 4000 žmonių ir sudegino 42 parapijų bažnyčias su sakramentais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +77,6 @@ Nenurodyta
 
 <a id="claim-t-87021"></a>
 - t-002
-  global_id: t-87021
   teiginys: "Kunigaikštystėje buvo apiplėšti ir sudeginti ištisi kaimai bei dešimtys bažnyčių, o paimtų į nelaisvę žmonių skaičius siekė apie 9000."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,7 +117,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87021
+    - t-002
+
 - id: c-83000
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -148,32 +147,11 @@ Nenurodyta
     niais sakramentais sudegino ir kt.],
     e
     D u s b. c.
-  citata_rodoma: |
-    : Idem gentiles Lytwini an­
-    no dom. MCCCXXIII, in carniprivio
-    intraverunt Revaliam terram regis Da­
-    cie in partibus Lyvonie ac eciam Epis­
-    copatum Tarbetensem, quas rapinis et
-    incendiis exsiccialiter? destruxerunt oc­
-    cidentes et capientes quatuor millia ho­
-    minum sexus promiscui et quingentas
-    duas parochiales ecclesias cum sacra­
-    mentis ecclesie comburentes etc. [Taip
-    pat pagonys lietuviai Viešpaties me­
-    tais 1323-iais per Užgavėnes įsiver­
-    žė į Danijos karalystės Revelio že­
-    mę Livonijos srityse ir net Dorpato
-    vyskupiją, kurias piešdami ir degin­
-    dami iki pamatų sugriovę sunaiki­
-    no ir pagrobė 4 000 vyrų ir moterų
-    ir 42 parapijų bažnyčias su bažnyti­
-    niais sakramentais sudegino ir kt.],
-    e
-    D u s b.
+  citata_rodoma: ": Idem gentiles Lytwini an­\nno dom. MCCCXXIII, in carniprivio \nintraverunt Revaliam terram regis Da­\ncie in partibus Lyvonie ac eciam Epis­\ncopatum Tarbetensem, quas rapinis et \nincendiis exsiccialiter? destruxerunt oc­\ncidentes et capientes quatuor millia ho­\nminum sexus promiscui et quingentas\nduas parochiales ecclesias cum sacra­\nmentis ecclesie comburentes etc. [Taip \npat pagonys lietuviai Viešpaties me­\ntais 1323-iais per Užgavėnes įsiver­\nžė į Danijos karalystės Revelio že­\nmę Livonijos srityse ir net Dorpato \nvyskupiją, kurias piešdami ir degin­\ndami iki pamatų sugriovę sunaiki­\nno ir pagrobė 4 000 vyrų ir moterų \nir 42 parapijų bažnyčias su bažnyti­\nniais sakramentais sudegino ir kt.], \ne\nD u s b."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87020
+    - t-001

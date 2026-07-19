@@ -37,7 +37,6 @@ Apie laidoseną Laivių kapinyne rašė ir E.
 
 <a id="claim-t-32298"></a>
 - t-001
-  global_id: t-32298
   teiginys: "E. Butėnienė rašė apie laidoseną Laivių kapinyne."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,15 +65,11 @@ Apie laidoseną Laivių kapinyne rašė ir E.
     (^101) **AkMD, t. 6, 1959, 59-69 p. ; t. 7, 1959, 57-75 p.; t. 14, 1963, 91-97 p.**
     (^102) **Be to, dar rašė apie emaliuotas juostas (AkMD, t. 27, 1968, 37-
     45 p.), apie Y m. e. a.
-  citata_rodoma: |
-    —Apie laidoseną
-    Laivių kapinyne rašė ir E. Butėnienė (AkMD, t. 16, 1964, 83-97 p.).**
-
-    (^101) **AkMD, t.
+  citata_rodoma: "—Apie laidoseną\nLaivių kapinyne rašė ir E. Butėnienė (AkMD, t. 16, 1964, 83-97 p.).**\n\n(^101) **AkMD, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32298
+    - t-001

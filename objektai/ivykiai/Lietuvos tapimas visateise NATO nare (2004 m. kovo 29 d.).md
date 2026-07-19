@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75197"></a>
-- t-001
-  global_id: t-75197
+- t-002
   teiginys: "1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ Nenurodyta
     - c-23091
 
 <a id="claim-t-75200"></a>
-- t-002
-  global_id: t-75200
+- t-004
   teiginys: "Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,17 +108,15 @@ Nenurodyta
     mui į NATO. 2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-
     garija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-
     tos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
-  citata_rodoma: |
-    2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-
-    garija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-
-    tos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
+  citata_rodoma: "2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-\ngarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-\ntos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75197
+    - t-002
+
 - id: c-73072
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -140,4 +136,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75200
+    - t-004

@@ -38,7 +38,6 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 
 <a id="claim-t-74133"></a>
 - t-001
-  global_id: t-74133
   teiginys: "1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     - c-22413
 
 <a id="claim-t-74135"></a>
-- t-002
-  global_id: t-74135
+- t-003
   teiginys: "1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai neskelbti, remiantis rengiamu plebiscitu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     - c-22415
 
 <a id="claim-t-74136"></a>
-- t-003
-  global_id: t-74136
+- t-004
   teiginys: "III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,18 +114,15 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
     8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
     laimėjo.
-  citata_rodoma: |
-    O čia dar po kie-
-    toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
-    8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
-    laimėjo.
+  citata_rodoma: "O čia dar po kie-\ntoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės \n8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-\nlaimėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74133
+    - t-001
+
 - id: c-22415
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -144,18 +138,15 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     cijai protestuojant prieš J. Pajaujo suėmimą, nepritarus vyriausybės de-
     klaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas,
     o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.
-  citata_rodoma: |
-    Opozi-
-    cijai protestuojant prieš J. Pajaujo suėmimą, nepritarus vyriausybės de-
-    klaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas,
-    o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.
+  citata_rodoma: "Opozi-\ncijai protestuojant prieš J. Pajaujo suėmimą, nepritarus vyriausybės de-\nklaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, \no nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74135
+    - t-003
+
 - id: c-72189
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -171,18 +162,11 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     mus, planavo įvesti civilinę metrikaciją (didelis finansinis smūgis kata-
     likų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų
     dvasininkams), ėmė mažinti karininkų skaičių.
-  citata_rodoma: |
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    155
-    III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę
-    demokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-
-    ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
-    naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
-    rengti susirinkimus.
+  citata_rodoma: "4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n155\nIII Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę \ndemokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-\nti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-\nnaikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai \nrengti susirinkimus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74136
+    - t-004

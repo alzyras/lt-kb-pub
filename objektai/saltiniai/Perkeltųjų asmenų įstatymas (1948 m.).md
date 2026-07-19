@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-78135"></a>
 - t-001
-  global_id: t-78135
   teiginys: "1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78135
+    - t-001

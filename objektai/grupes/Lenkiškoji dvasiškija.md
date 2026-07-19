@@ -28,7 +28,6 @@ Basanavičiaus aiškinimu, lenkiškoji dvasiškija Lietuvoje palaikė ir plėtė
 
 <a id="claim-t-200878"></a>
 - t-001
-  global_id: t-200878
   teiginys: "Basanavičiaus aiškinimu, lenkiškoji dvasiškija Lietuvoje palaikė ir plėtė lenkišką įtaką, o lietuvių švietimą vedė lenkiška dvasia."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Basanavičiaus aiškinimu, lenkiškoji dvasiškija Lietuvoje palaikė ir plėtė
 
 <a id="claim-t-200887"></a>
 - t-002
-  global_id: t-200887
   teiginys: "Basanavičiaus vertinimu, lenkiškoji dvasiškija, perėmusi lietuvių sąžinės reikalus, rūpinosi politiškai ir tautiškai naikinti Lietuvos savarankiškumą."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -95,7 +93,8 @@ Basanavičiaus aiškinimu, lenkiškoji dvasiškija Lietuvoje palaikė ir plėtė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200878
+    - t-001
+
 - id: c-184232
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
@@ -123,4 +122,4 @@ Basanavičiaus aiškinimu, lenkiškoji dvasiškija Lietuvoje palaikė ir plėtė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200887
+    - t-002

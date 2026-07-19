@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-41082"></a>
 - t-001
-  global_id: t-41082
   teiginys: "1946 m. buvo visiškai sunaikinta Daugų MVD įgula."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ media_all_json: |-
 
 <a id="claim-t-41083"></a>
 - t-002
-  global_id: t-41083
   teiginys: "Troškūnų ir Kauno MVD bei MGB įstaigose kai kurie pareigūnai buvo užverbuoti partizanų informatoriais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,16 +87,15 @@ media_all_json: |-
     apsupties Varčios miške. 1946 m. visiškas Daugų MVD įgulos sunaikinimas.
     1948 m. sunkvežimio netoli Onuškio susprogdinimas su 19 vietinės įgulos
     karių.
-  citata_rodoma: |
-    1946 m. visiškas Daugų MVD įgulos sunaikinimas.
-    1948 m.
+  citata_rodoma: "1946 m. visiškas Daugų MVD įgulos sunaikinimas.\n1948 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41082
+    - t-001
+
 - id: c-44813
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -113,17 +110,11 @@ media_all_json: |-
     liko iki 1949 m.). 1947 m. įkūrus
     Algimanto apygardą, jis tapo jos
     vadu, 1948 m.
-  citata_rodoma: |
-    Jam vadovaujant pa-
-    vyko Troškūnų ir Kauno MVD ir MGB
-    įstaigose kai kuriuos pareigūnus
-    užverbuoti partizanų informato-
-    riais (kai kurie jų nedemaskuoti
-    liko iki 1949 m.). 1947 m.
+  citata_rodoma: "Jam vadovaujant pa-\nvyko Troškūnų ir Kauno MVD ir MGB\nįstaigose kai kuriuos pareigūnus\nužverbuoti partizanų informato-\nriais (kai kurie jų nedemaskuoti\nliko iki 1949 m.). 1947 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41083
+    - t-002

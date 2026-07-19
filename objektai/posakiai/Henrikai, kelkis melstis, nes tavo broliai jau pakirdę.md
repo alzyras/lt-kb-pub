@@ -36,24 +36,15 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
 
 <a id="claim-t-59094"></a>
 - t-001
-  global_id: t-59094
   teiginys: "Dusburgiečio pasakojime balsas kiekvieną naktį ragino Henriką keltis melstis, nes jo broliai jau buvo pakirdę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henrikai, kelkis melstis, nes tavo broliai jau pakirdę: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikai, kelkis melstis, nes tavo broliai jau pakirdę\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59726
     - c-167413
+
 <a id="claim-t-197044"></a>
-- t-002
-  global_id: t-197044
+- t-003
   teiginys: "Tačiau brolių vėliava su savo sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis grafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti į riterius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,8 +80,8 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59094
-    - t-197044
+    - t-003
+
 - id: c-167413
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -108,3 +99,5 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

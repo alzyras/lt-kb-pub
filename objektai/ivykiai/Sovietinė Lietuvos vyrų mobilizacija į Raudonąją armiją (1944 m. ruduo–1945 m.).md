@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20498"></a>
 - t-001
-  global_id: t-20498
   teiginys: "Pradėjus mobilizaciją į SSRS kariuomenę, lietuviai vengė tarnybos Raudonojoje armijoje, nes Lietuvą laikė okupuota."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,12 +83,11 @@ Nenurodyta
     tojai laikė savo šalį okupuota, kurioje SSRS negalėjo vykdyti vyrų mobi-
     lizacijos į Raudonąją armiją ir pažeisti tarptautinę teisę (1907 m. priimtą
     Hagos konvenciją).
-  citata_rodoma: |
-    lizacijos į Raudonąją armiją ir pažeisti tarptautinę teisę (1907 m. priimtą
+  citata_rodoma: "lizacijos į Raudonąją armiją ir pažeisti tarptautinę teisę (1907 m. priimtą"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20498
+    - t-001

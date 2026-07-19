@@ -39,7 +39,6 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
 
 <a id="claim-t-60004"></a>
 - t-001
-  global_id: t-60004
   teiginys: "Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -54,30 +53,21 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   semantiniai_rysiai: "Albrechtas iš Hageno gynė Skalviai (0.63)"
   pagrindžia:
     - c-60638
-    - c-003
+
 <a id="claim-t-60005"></a>
-- t-002
-  global_id: t-60005
+- t-003
   teiginys: "1317 m. žygyje Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, kai vienas ginklanešys nukrito nuo žirgo."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Albrechtas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albrechtas iš Hageno: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Albrechtas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albrechtas iš Hageno\" parinktas kaip owner_note_path. Targetas \"Albrechtas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1317 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Albrechtą iš Hageno ir atitinka citatą."
   pagrindžia:
-    - c-60637
-    - c-002
+    - c-60636
+
 <a id="claim-t-60006"></a>
-- t-003
-  global_id: t-60006
+- t-002
   teiginys: "Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -128,8 +118,6 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60005
 - c-003
   santrauka: 'Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -147,8 +135,7 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60004
+
 ## Citatos
 
 - id: c-60636
@@ -165,19 +152,16 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
     kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
     nelaisvę, o daugybę vyrų nukovė. Ketvirta kariuomenės dalis žygiavo su brolių vėliava,
     bet taip pat nieko nepešė, nes jos vedliai pasiklydo.
-  citata_rodoma: |
-    Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo
-    ir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais
-    kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
-    nelaisvę, o daugybę vyrų nukovė. Ketvirta kariuomenės dalis žygiavo su brolių vėliava,
-    bet taip pat nieko nepešė, nes jos vedliai pasiklydo.
+  citata_rodoma: "Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo\nir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais\nkaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į\nnelaisvę, o daugybę vyrų nukovė. Ketvirta kariuomenės dalis žygiavo su brolių vėliava,\nbet taip pat nieko nepešė, nes jos vedliai pasiklydo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60006
+    - t-003
+    - t-002
+
 - id: c-60637
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -196,23 +180,13 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
     pasirengę kovai, narsiai užpuolė tuos, kurie buvo po vėliava; abiem šalims netekus
     daugybės [karių] užmuštaisiais, galop jie nukovė brolį Henriką, maršalą, 29 brolius bei
     daugybę paprastų žmonių.
-  citata_rodoma: |
-    Apie vieną įvykį 1317 metais
-
-      Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno
-    šuoliais leidosi  į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo. Kai
-    jis, smarkiai susitrenkęs, po kurio laiko atsigavo ir atsistojo, tai apsidairęs neišvydo nei
-    savo žirgo, nei brolių kariuomenės; be galo susikrimtęs, jis atsiduso, pakėlė akis į dangų
-    ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,
-    pavedė save dievo bei švenčiausiosios mergelės globai  ir tuo pat keliu, kuriuo buvo
-    atvykęs, patraukė  į Ragainę.
+  citata_rodoma: "Apie vieną įvykį 1317 metais\n\n  Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno\nšuoliais leidosi  į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo. Kai\njis, smarkiai susitrenkęs, po kurio laiko atsigavo ir atsistojo, tai apsidairęs neišvydo nei\nsavo žirgo, nei brolių kariuomenės; be galo susikrimtęs, jis atsiduso, pakėlė akis į dangų\nir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,\npavedė save dievo bei švenčiausiosios mergelės globai  ir tuo pat keliu, kuriuo buvo\natvykęs, patraukė  į Ragainę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-60005
 - id: c-60638
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -231,18 +205,14 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
     259 (252). Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300
     Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei
     ginklanešiais jis daug kartų šlovingai kariavo su lietuviais.
-  citata_rodoma: |
-    Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai
-    priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis
-    Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;
-    užvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems
-    pavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių.
+  citata_rodoma: "Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai\npriėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis\nKonradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;\nužvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems\npavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60004
+    - t-001
+
 ## Ryšiai
 - Albrechtas iš Hageno puolė [[objektai/asmenys/Sudargas]]

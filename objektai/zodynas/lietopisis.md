@@ -38,7 +38,6 @@ Nuo Mindaugo laiku iki XV amž. buvo išlikusi bendra rusų metraščių žymė:
 
 <a id="claim-t-32793"></a>
 - t-001
-  global_id: t-32793
   teiginys: "Rusų lietopisis Lietuvos valdovo pravardžiavimą siejo su jo didesniu pasižymėjimu lietuvių tautoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,15 +70,11 @@ Nuo Mindaugo laiku iki XV amž. buvo išlikusi bendra rusų metraščių žymė:
     metraščių žymė: jei kuris _lietopisis_ kurį nors Lietuvos valdovą
     labiau pravardžiavo, buvo aišku, kad šis lietuvių tautoje buvo labiau
     pasižymėjęs (pvz., Algirdas).
-  citata_rodoma: |
-    Nuo Mindaugo laiku iki XV amž. buvo išlikusi bendra rusų
-    metraščių žymė: jei kuris _lietopisis_ kurį nors Lietuvos valdovą
-    labiau pravardžiavo, buvo aišku, kad šis lietuvių tautoje buvo labiau
-    pasižymėjęs (pvz., Algirdas).
+  citata_rodoma: "Nuo Mindaugo laiku iki XV amž. buvo išlikusi bendra rusų\nmetraščių žymė: jei kuris _lietopisis_ kurį nors Lietuvos valdovą\nlabiau pravardžiavo, buvo aišku, kad šis lietuvių tautoje buvo labiau\npasižymėjęs (pvz., Algirdas)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32793
+    - t-001

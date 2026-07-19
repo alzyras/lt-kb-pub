@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-30988"></a>
 - t-001
-  global_id: t-30988
   teiginys: "Spycinas buvo proistorikas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,16 +78,11 @@ media_all_json: |-
     Spudas, Pūtvės lietuvis 219
     Spuler B. 317, 324
     Srokowski St.
-  citata_rodoma: |
-    249
-    Spycinas, proistorikas 159
-    Spytekas iš Melsztyno 283, 312,
-    317, 318
-    Spliet H.
+  citata_rodoma: "249\nSpycinas, proistorikas 159\nSpytekas iš Melsztyno 283, 312,\n317, 318\nSpliet H."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30988
+    - t-001

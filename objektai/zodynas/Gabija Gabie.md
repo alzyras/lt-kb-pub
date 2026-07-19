@@ -31,7 +31,6 @@ Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir varda
 
 <a id="claim-t-189294"></a>
 - t-001
-  global_id: t-189294
   teiginys: "Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir vardais Gabalus bei Heliogabalus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir varda
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172182
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir vardais Gabalus bei Heliogabalus.'
@@ -65,8 +64,7 @@ Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir varda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189294
+
 ## Citatos
 
 - id: c-172182
@@ -85,16 +83,11 @@ Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir varda
     naminių gyvulių auginimui; atsižvelgiant į tai, Santvaras (So­
     tuar), kaip piemenų dievas, gauna aukas, ir jį garbinti moka
     skurdžiausiose pirkelėse“16.
-  citata_rodoma: |
-    Reikia atminti, kad Antikos žmonės saulę laikė
-    ugnies šaltiniu ir garbino ją kaip to elemento dievybę, vadin­
-    dami taip pat Gabie, Gabalus, Heliogabalus. Pažiūrėk į mito­
-    logijos žodynus. Visose tautose ugnies ir saulės, arba Apolo­
-    no, garbinimas sutampa.
+  citata_rodoma: "Reikia atminti, kad Antikos žmonės saulę laikė\nugnies šaltiniu ir garbino ją kaip to elemento dievybę, vadin­\ndami taip pat Gabie, Gabalus, Heliogabalus. Pažiūrėk į mito­\nlogijos žodynus. Visose tautose ugnies ir saulės, arba Apolo­\nno, garbinimas sutampa."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189294
+    - t-001

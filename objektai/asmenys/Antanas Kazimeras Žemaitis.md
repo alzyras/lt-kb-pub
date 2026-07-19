@@ -30,7 +30,6 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
 
 <a id="claim-t-18813"></a>
 - t-001
-  global_id: t-18813
   teiginys: "Antanas Kazimeras Žemaitis sukūrė gitarą „Zemaitis“, kuria grojo Jimi Hendrixas, Ericas Claptonas, Bobas Dylanas ir kiti muzikantai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,14 +60,14 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
     Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
     Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
     ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-  citata_rodoma: |
-    Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
+  citata_rodoma: "Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18813
+    - t-001
+
 ## Ryšiai
 - Antanas Kazimeras Žemaitis gimė [[objektai/vietos/Londonas]]

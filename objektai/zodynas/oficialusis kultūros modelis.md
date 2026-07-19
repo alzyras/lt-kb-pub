@@ -37,8 +37,7 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 ## Teiginiai
 
 <a id="claim-t-70254"></a>
-- t-001
-  global_id: t-70254
+- t-002
   teiginys: "LDK oficialiajame kultūros modelyje lietuvių kalbą iš pradžių lenkė rusėnų, o vėliau lenkų kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
     - c-69311
 
 <a id="claim-t-183448"></a>
-- t-002
-  global_id: t-183448
+- t-003
   teiginys: "Mikalojui Daukšai rūpėjo ne kasdienis lietuvių kalbos vartojimas, o oficialiojo kultūros modelio kūrimas lietuvių kalba."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -89,15 +87,15 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
     pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų,
     tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
     žemėse priemone.
-  citata_rodoma: |
-    tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
+  citata_rodoma: "tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70254
+    - t-002
+
 - id: c-166843
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -119,4 +117,4 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183448
+    - t-003

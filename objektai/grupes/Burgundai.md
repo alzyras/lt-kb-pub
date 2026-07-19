@@ -31,7 +31,6 @@ Burgundai Narbuto pasakojime minimi tarp gausių naujų atvykėlių, įsimaišiu
 
 <a id="claim-t-192978"></a>
 - t-001
-  global_id: t-192978
   teiginys: "Burgundai Narbuto pasakojime minimi tarp gausių naujų atvykėlių, įsimaišiusių į po Odoakro mirties Italijoje vykusius susirėmimus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Burgundai Narbuto pasakojime minimi tarp gausių naujų atvykėlių, įsimaišiu
 
 <a id="claim-t-197495"></a>
 - t-002
-  global_id: t-197495
   teiginys: "Po Odo akro mirties dar ketverius metus truko susirėmimas prie šiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir nauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo burgundų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,5 +82,5 @@ Burgundai Narbuto pasakojime minimi tarp gausių naujų atvykėlių, įsimaišiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192978
-    - t-197495
+    - t-001
+    - t-002

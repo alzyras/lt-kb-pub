@@ -31,27 +31,17 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
 
 <a id="claim-t-58642"></a>
 - t-001
-  global_id: t-58642
   teiginys: "Pamedės žemėje buvusią Spitenbergo pilį broliai sudegino ir paliko per antrąją atskalūnybę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Pamedė: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Spitenbergas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Pamedė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai lokalizuoja Spitenbergą Pamedės žemėje; tai leidžia atsargiai žymėti priklausymą Pamedės teritorijai."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Spitenbergas priklausė Pamedė (0.72)"
   pagrindžia:
-    - c-59275
-    - c-002
+    - c-59274
+
 <a id="claim-t-58643"></a>
 - t-002
-  global_id: t-58643
   teiginys: "Spitenbergas buvo maža kryžiuočių pilis, kurios tikslesnė vieta Pamedėje nenustatyta."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.80"
   ryšio_patikimumo_lygis: "aukstas"
@@ -64,10 +54,10 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   semantiniai_rysiai: "Spitenbergas priklausė Kryžiuočių ordinas (0.80); Spitenbergas priklausė Pamedė (0.62)"
   pagrindžia:
     - c-59274
-    - c-001
+    - c-59275
+
 <a id="claim-t-194549"></a>
 - t-004
-  global_id: t-194549
   teiginys: "Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,7 +67,6 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59275
-    - c-002
 - susijęs iš [[objektai/ivykiai/Spitenbergo pilies palikimas.md#claim-t-183962|Spitenbergo pilies palikimas (pilis)]]: Antrosios atskalūnybės metais broliai sudegino Spitenbergo pilį Pamedės žemėje ir pasitraukė su savo ginklanešiais.
 - susijęs iš [[objektai/ivykiai/Spitenbergo pilies palikimas.md#claim-t-62483|Spitenbergo pilies palikimas (pilis)]]: Antrosios atskalūnybės metais broliai sudegino Spitenbergo pilį Pamedės žemėje ir pasitraukė su savo ginklanešiais.
 - susijęs iš [[objektai/paprociai/Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos.md#claim-t-62712|Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)]]: Antrosios atskalūnybės metais Ordino broliai sudegino Spitenbergo pilį Pamedėje ir pasitraukė, nes nebegalėjo joje priešintis prūsams.
@@ -100,8 +89,6 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58643
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -118,9 +105,8 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58642
-    - t-194549
+- t-194549
+
 ## Citatos
 
 - id: c-59274
@@ -134,17 +120,16 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
     šiomis vietomis prūsai nuolatos braudavosi į Kulmo žemę ir iš jos traukdavo atgal. Pasak
     kai kurių žmonių. Rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės
     arba paimti į nelaisvę, arba išžudyti.
-  citata_rodoma: |
-    431 D.— Spittenbergk, Jer.— Spittinberc. Šios mažos kryžiuočių pilies ieškota Osos
-    žemupio deš. krante (Voigt J., Geschichte.., 3, p. 293; VBK); pažymima, kad tikslesnė
-    pilies vieta Pamedėje nenustatoma (Ewald A.
+  citata_rodoma: "431 D.— Spittenbergk, Jer.— Spittinberc. Šios mažos kryžiuočių pilies ieškota Osos\nžemupio deš. krante (Voigt J., Geschichte.., 3, p. 293; VBK); pažymima, kad tikslesnė\npilies vieta Pamedėje nenustatoma (Ewald A."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58643
+    - t-001
+    - t-002
+
 - id: c-59275
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -158,25 +143,15 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
     miestą. Jį paėmus į nelaisvę, be galo susikrimto prūsų vadas, kuris pažadėjo pasitraukti
     nuo miesto ir nebeskriausti krikščionių, jeigu jiems būsiąs atiduotas šis sužeistasis, o
     šitaip abi šalys ir padarė.
-  citata_rodoma: |
-    Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis
-
-      Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai. Antrosios
-    atskalūnybės metais prūsai tiek kartų ją kamavo antpuoliais, kad negalima buvo joje
-    ilgiau priešintis; pritrūkę būtiniausių reikmenų ir sudeginę pilį, broliai pasitraukė su savo
-    ginklanešiais, ir ji po šiai dienai tebestovi apleista.
-
-
-
-
-     152 (147).
+  citata_rodoma: "Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis\n\n  Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai. Antrosios\natskalūnybės metais prūsai tiek kartų ją kamavo antpuoliais, kad negalima buvo joje\nilgiau priešintis; pritrūkę būtiniausių reikmenų ir sudeginę pilį, broliai pasitraukė su savo\nginklanešiais, ir ji po šiai dienai tebestovi apleista.\n\n\n\n\n 152 (147)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58642
-    - t-194549
+    - t-002
+    - t-004
+
 ## Ryšiai
 - Spitenbergas priklausė [[objektai/vietos/Pamedė]]

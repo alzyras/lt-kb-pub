@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-59704"></a>
 - t-001
-  global_id: t-59704
   teiginys: "M. Tepenas 1861 m. paskelbė kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra savarankiškas, faktinis ir paremtas citata."
   pagrindžia:
     - c-60336
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Tepenas 1861 m. paskelbė kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus.'
@@ -97,8 +96,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59704
+
 ## Citatos
 
 - id: c-60336
@@ -118,15 +116,11 @@ Nenurodyta
     vietoves (žr. ir schemą). Remiantis naujausiais istorijos, archeologijos, lingvistikos
     duomenimis bei savarankiškais tyrinėjimais, visų pirma norima atskleisti kronikos
     baltistinę, lituanistinę medžiagą.
-  citata_rodoma: |
-    Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius
-    Torunės, Karaliaučiaus, Berlyno  ir kt. nuorašus parengė  ir 1861 m. „Scriptores
-    rerum Prussicarum“ serijoje paskelbė M. Tepenas. Kronikos lietuviškas vertimas
-    publikuojamas pirmą kartą.
+  citata_rodoma: "Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius\nTorunės, Karaliaučiaus, Berlyno  ir kt. nuorašus parengė  ir 1861 m. „Scriptores\nrerum Prussicarum“ serijoje paskelbė M. Tepenas. Kronikos lietuviškas vertimas\npublikuojamas pirmą kartą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59704
+    - t-001

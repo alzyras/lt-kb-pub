@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-59701"></a>
 - t-001
-  global_id: t-59701
   teiginys: "Kaimiečiai pjūklais papjovė medžius miškuose, kad grįžtančius vengrus užgriūtų vienas kitą parbloškiantys medžiai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59701
+    - t-001

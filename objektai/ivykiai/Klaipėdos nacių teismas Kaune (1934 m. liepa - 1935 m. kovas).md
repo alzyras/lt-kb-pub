@@ -54,8 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75114"></a>
-- t-001
-  global_id: t-75114
+- t-005
   teiginys: "Po Klaipėdos nacių teismo Antanas Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-73027
 
 <a id="claim-t-75115"></a>
-- t-002
-  global_id: t-75115
+- t-001
   teiginys: "Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,8 +92,7 @@ Nenurodyta
     - c-73028
 
 <a id="claim-t-75116"></a>
-- t-003
-  global_id: t-75116
+- t-002
   teiginys: "Klaipėdos nacių teisme buvo surinkti 34 tomai kaltinamosios medžiagos ir 300 dėžių įrodymų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,17 +123,15 @@ Nenurodyta
     Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-
     kiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-
     momis, instrukcijomis, lapeliais, ginklais.
-  citata_rodoma: |
-    Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-
-    kiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-
-    momis, instrukcijomis, lapeliais, ginklais.
+  citata_rodoma: "Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-\nkiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-\nmomis, instrukcijomis, lapeliais, ginklais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75116
+    - t-002
+
 - id: c-73027
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -156,21 +151,15 @@ Nenurodyta
     181
     kus pakeitė kalėjimu iki gyvos galvos, o 1937 m. amnestavo kaltinamuo-
     sius.
-  citata_rodoma: |
-    Nacių Vokietija dėl proceso darė didžiulį politinį ir ekonominį spaudi-
-    mą mažai kaimynei, todėl prezidentas A. Smetona mirties bausmę netru-
-    Klaipėdos nacių teismas Kaune (1934 m. gruodis)
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    181
-    kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.
+  citata_rodoma: "Nacių Vokietija dėl proceso darė didžiulį politinį ir ekonominį spaudi-\nmą mažai kaimynei, todėl prezidentas A. Smetona mirties bausmę netru-\nKlaipėdos nacių teismas Kaune (1934 m. gruodis)\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n181\nkus pakeitė kalėjimu iki gyvos galvos, o 1937 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75114
+    - t-005
+
 - id: c-73028
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -182,12 +171,11 @@ Nenurodyta
     sis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos na-
     rių teismas už antivalstybinę veiklą. Procesą stebėjo daugybė žurnalistų
     iš Vakarų Europos.
-  citata_rodoma: |
-    rių teismas už antivalstybinę veiklą. Procesą stebėjo daugybė žurnalistų
+  citata_rodoma: "rių teismas už antivalstybinę veiklą. Procesą stebėjo daugybė žurnalistų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75115
+    - t-001

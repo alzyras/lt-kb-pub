@@ -45,7 +45,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 
 <a id="claim-t-193688"></a>
 - t-001
-  global_id: t-193688
   teiginys: "Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo europietiškos katalikiškos civilizacijos šalininkas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 
 <a id="claim-t-193689"></a>
 - t-002
-  global_id: t-193689
   teiginys: "Valančius niekur nepasisakė prieš caro valdžią, pagarbiai bendravo su jos atstovais, tačiau kietai ir atkakliai gynė Katalikų bažnyčios interesus."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -71,7 +69,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 
 <a id="claim-t-193690"></a>
 - t-003
-  global_id: t-193690
   teiginys: "Valančiaus pastangomis buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -84,7 +81,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 
 <a id="claim-t-193691"></a>
 - t-004
-  global_id: t-193691
   teiginys: "Valančius, perpratęs valdžios kėslus, per kunigus paskleidė mintį, kad skaityti tokias valdžios brukamas knygas katalikui yra nuodėmė."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -97,7 +93,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 
 <a id="claim-t-200891"></a>
 - t-005
-  global_id: t-200891
   teiginys: "1849 m. Žemaičių vyskupu paskirtas Motiejus Valančius Kauno vyskupystėje rado lenkų kalbą vyraujant bažnyčių pamoksluose ir giesmėse."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -139,7 +134,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193688
+    - t-001
+
 - id: c-176358
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -162,7 +158,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193689
+    - t-002
+
 - id: c-176359
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -182,7 +179,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193690
+    - t-003
+
 - id: c-176360
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -198,7 +196,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193691
+    - t-004
+
 - id: c-184234
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
@@ -225,4 +224,4 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200891
+    - t-005

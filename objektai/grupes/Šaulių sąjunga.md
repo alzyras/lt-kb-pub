@@ -37,7 +37,6 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
 
 <a id="claim-t-20098"></a>
 - t-001
-  global_id: t-20098
   teiginys: "Vokietijos ir Lenkijos karo metu Šaulių sąjunga kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,15 +85,15 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
     nedetalizavo. O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
     kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
     riausybę jėga atsiimti Vilnių.
-  citata_rodoma: |
-    kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
+  citata_rodoma: "kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20098
+    - t-001
+
 - id: c-166590
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -110,3 +109,5 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

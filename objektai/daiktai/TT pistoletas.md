@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-40773"></a>
 - t-001
-  global_id: t-40773
   teiginys: "Sausio įvykių metu TT pistoletu ginkluotas ATAS darbuotojas saugojo Aukščiausiosios Tarybos rūmus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,15 +86,11 @@ Nenurodyta
     iš inkasatorių, vėliau jų suteikė kai kurios vidaus reikalų struktūros (Dešiniojoje nuotraukoje — ATAS darbuotojas ginkluotas TT pistoletu, Sausio įvykių metu saugo AT rūmuose
 
     nuotraukose Mokomojo junginio kariai AT gynyboje 1991 m. rugpjūčio pučo metu, vienas jų ginkluotas AKSU automatiniu šautuvu (sutrumpinta „kalašnikovo“ versija)
-  citata_rodoma: |
-    Sausio įvykių metu iš medžiotojų būrelių bei specializuotų medžiotojų parduotuvių pavyko gauti medžioklinių šautuvų, šiek tiek kovinių ginklų gauta
-    iš inkasatorių, vėliau jų suteikė kai kurios vidaus reikalų struktūros (Dešiniojoje nuotraukoje — ATAS darbuotojas ginkluotas TT pistoletu, Sausio įvykių metu saugo AT rūmuose
-
-    nuotraukose Mokomojo junginio kariai AT gynyboje 1991 m.
+  citata_rodoma: "Sausio įvykių metu iš medžiotojų būrelių bei specializuotų medžiotojų parduotuvių pavyko gauti medžioklinių šautuvų, šiek tiek kovinių ginklų gauta\niš inkasatorių, vėliau jų suteikė kai kurios vidaus reikalų struktūros (Dešiniojoje nuotraukoje — ATAS darbuotojas ginkluotas TT pistoletu, Sausio įvykių metu saugo AT rūmuose\n\nnuotraukose Mokomojo junginio kariai AT gynyboje 1991 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40773
+    - t-001

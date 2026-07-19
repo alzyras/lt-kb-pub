@@ -30,7 +30,6 @@ Monografijoje yra 320 puslapiu.
 
 <a id="claim-t-34265"></a>
 - t-001
-  global_id: t-34265
   teiginys: "Monografijoje „Vytauto vieta mūsų istorijoje“ yra 320 puslapių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Monografijoje yra 320 puslapiu.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34265
+    - t-001

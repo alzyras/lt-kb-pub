@@ -31,7 +31,6 @@ Lietuva liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmė
 
 <a id="claim-t-20898"></a>
 - t-001
-  global_id: t-20898
   teiginys: "Gediminas žodžiais „ir mes turime vieną Dievą…“ bylojo apie vyriausiąjį pagonių Dievą, o ne būtinai apie pagonišką monoteizmą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,12 +68,11 @@ Lietuva liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmė
     kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
     Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
     išpranašaus Vilniaus įkūrimą ir šlovę.
-  citata_rodoma: |
-    laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir
+  citata_rodoma: "laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20898
+    - t-001

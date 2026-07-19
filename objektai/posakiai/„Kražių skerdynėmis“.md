@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-20847"></a>
 - t-001
-  global_id: t-20847
   teiginys: "Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis pavadino „Kražių skerdynėmis“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ media_all_json: |-
 
 <a id="claim-t-183494"></a>
 - t-002
-  global_id: t-183494
   teiginys: "1893 m. Kražių bažnyčios gynimą nuo uždarymo ir kazokų šturmą liaudis pavadino „Kražių skerdynėmis“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -101,5 +99,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20847
-    - t-183494
+    - t-001
+    - t-002

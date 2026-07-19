@@ -47,8 +47,7 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
 ## Teiginiai
 
 <a id="claim-t-68858"></a>
-- t-001
-  global_id: t-68858
+- t-005
   teiginys: "Broliai su kariuomene patraukė prieš Pabečių valsčių, nusiaubė Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,12 +62,11 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
   semantiniai_rysiai: "Pabečiai priklausė Dramenava (0.62)"
   pagrindžia:
     - c-68335
-    - c-001
+
 <a id="claim-t-68860"></a>
-- t-002
-  global_id: t-68860
+- t-001
   teiginys: "Pabečiai buvo gyvenvietė šiaurės Semboje, į pietryčius nuo buvusių Naujųjų Kuršių."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Semba: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -81,10 +79,9 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
   semantiniai_rysiai: "Pabečiai priklausė Semba (0.90)"
   pagrindžia:
     - c-68336
-    - c-002
+
 <a id="claim-t-68861"></a>
-- t-003
-  global_id: t-68861
+- t-002
   teiginys: "Po žygių prieš kaimyninius valsčius broliai patraukė su kariuomene prieš Pabečių valsčių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -98,7 +95,6 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-68335
-    - c-001
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179301|Lietuviai]]: 1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
 - susijęs iš [[objektai/ivykiai/1283 m. žiemos lietuvių antpuolis Sembos žemėje.md#claim-t-62736|1283 m. žiemos lietuvių antpuolis Sembos žemėje]]: 1283 m. žiemą 800 lietuvių raitelių per Kuršių neriją įsiveržė į Sembą, nusiaubė Abendos ir Pabečių valsčius, nužudė 150 krikščionių ir grįžo be pasipriešinimo.
 - susijęs iš [[objektai/asmenys/Bansas.md#claim-t-60089|Bansas]]: Bansas, Pabečių valsčiaus kamerarijus, buvo kaltinamas sukurstęs prūsus atsimesti nuo krikščionybės.
@@ -130,9 +126,7 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-68858
-    - t-68861
+- t-68861
 - c-002
   santrauka: 'Pabečiai buvo gyvenvietė šiaurės Semboje, į pietryčius nuo buvusių Naujųjų Kuršių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -145,8 +139,7 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-68860
+
 ## Citatos
 
 - id: c-68335
@@ -164,21 +157,16 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
     išsklaidė. Vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos
     ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir
     nukovė daugybę sembų.
-  citata_rodoma: |
-    Štai todėl,
-    palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei
-    kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę
-    vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių, jie išžygiavo
-    atgal su dideliu grobiu, tačiau priešai, sekdami įkandin, užpuolė juos ir beveik visus
-    išsklaidė.
+  citata_rodoma: "Štai todėl,\npalaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei\nkaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę\nvieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių, jie išžygiavo\natgal su dideliu grobiu, tačiau priešai, sekdami įkandin, užpuolė juos ir beveik visus\nišsklaidė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68858
-    - t-68861
+    - t-005
+    - t-002
+
 - id: c-68336
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -189,16 +177,14 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
     sukurstė  tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.
     Todėl jie, subūrę kariuomenę,  užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
     tebuvo du vyrai: vienas brolis bei jo tarnas.
-  citata_rodoma: |
-    379 D. — territorium Pubeten, Jer. — gebît Pobêtin; Pabečiai (dab. Romanovas),
-    gyvenvietė šiaurės Semboje  į pietryčius nuo buv. Naujųjų Kuršių, Neu-Kuhren (dab.
-    Pionierskas).
+  citata_rodoma: "379 D. — territorium Pubeten, Jer. — gebît Pobêtin; Pabečiai (dab. Romanovas),\ngyvenvietė šiaurės Semboje  į pietryčius nuo buv. Naujųjų Kuršių, Neu-Kuhren (dab.\nPionierskas)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68860
+    - t-001
+
 ## Ryšiai
 - Pabečiai priklausė [[objektai/vietos/Semba]]

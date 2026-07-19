@@ -30,7 +30,6 @@ Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir
 
 <a id="claim-t-88075"></a>
 - t-001
-  global_id: t-88075
   teiginys: "Golembiovskis, išvardijęs ginklus ir pilis, apibendrino Lietuvos provincijos artilerijos būklę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88075
+    - t-001

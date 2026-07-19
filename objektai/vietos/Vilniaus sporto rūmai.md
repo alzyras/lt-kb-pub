@@ -40,7 +40,6 @@ Kadangi Baltijos valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS d
 
 <a id="claim-t-26335"></a>
 - t-001
-  global_id: t-26335
   teiginys: "Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas vyko Vilniaus sporto rūmuose 1988 m. spalio 22–23 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,22 +81,11 @@ Kadangi Baltijos valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS d
     bos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Moloto-
     vo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą
     sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą.
-  citata_rodoma: |
-    Kadangi Baltijos
-    valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS deklaruojamiems
-    Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas
-    Vilniaus sporto rūmuose 1988 m. spalio 22–23 d.
-    Vladimiro Gulevičiaus nuotrauka
-
-    L I E T U V O S  I S T O R I J A
-    238
-    tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tary-
-    bos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Moloto-
-    vo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m.
+  citata_rodoma: "Kadangi Baltijos \nvalstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS deklaruojamiems \nLietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas  \nVilniaus sporto rūmuose 1988 m. spalio 22–23 d.  \nVladimiro Gulevičiaus nuotrauka\n\nL I E T U V O S  I S T O R I J A\n238\ntautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tary-\nbos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Moloto-\nvo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26335
+    - t-001

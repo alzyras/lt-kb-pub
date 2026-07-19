@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-186752"></a>
 - t-001
-  global_id: t-186752
   teiginys: "Redakcinė pastaba nurodo, kad padavimas apie Suchtą kaip vieną iš septynių sąmokslų prieš Kazimierą J. Dlugošo užrašytas su 1444 m. data."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -82,7 +81,6 @@ Nenurodyta
 
 <a id="claim-t-186753"></a>
 - t-002
-  global_id: t-186753
   teiginys: "Redakcinė pastaba nurodo, kad J. Dlugošo pasakojime neminimi nei Voložinas, nei Goštautų vaidmuo gelbstint Kazimierą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -102,10 +100,9 @@ Nenurodyta
     - c-169965
 
 <a id="claim-t-186754"></a>
-- t-003
-  global_id: t-186754
+- t-005
   teiginys: "Redakcinė pastaba nurodo, kad J. Dlugošo pasakojimas apie Suchtą laikomas tautosakinio pobūdžio."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
@@ -113,32 +110,8 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Interpretacinis vertinimas tinkamai priskirtas redakcinei pastabai."
   pagrindžia:
-    - c-169964
+    - c-169965
 
-<a id="claim-t-186755"></a>
-- t-004
-  global_id: t-186755
-  teiginys: 'J. Dlugošo komentatoriai, redakcinės pastabos teigimu, Suchtos sąmokslą datuoja pirmaisiais keturiais 1453 m. mėnesiais.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Citata remia tikslesnę datavimo formuluotę.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Olesnickio|Olesnickio]]; mentioned_place: Parčevas'
-  temporaliniai_duomenys: 'įvykio data: 1453 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata remia tikslesnę datavimo formuluotę.'
-  pagrindžia:
-    - c-001
-<a id="claim-t-186757"></a>
-- t-005
-  global_id: t-186757
-  teiginys: 'Redakcinė pastaba nurodo, kad J. Dlugošas antrąkart mini Suchtos sąmokslą perteikdamas Zbignevo Olesnickio kalbą 1453 m. Parčevo seime.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pašalintas perteklinis žodis ir sutrumpinta formuluotė.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Olesnickio|Olesnickio]]; mentioned_place: Parčevas; mentioned_author: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]'
-  temporaliniai_duomenys: 'įvykio data: 1453 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas perteklinis žodis ir sutrumpinta formuluotė.'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -161,12 +134,11 @@ Nenurodyta
     pirmaisiais 1453 m. mėnesiais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186755
-    - t-186757
+  statusas: not_found
+- t-004
+
 ## Citatos
 
 - id: c-169964
@@ -185,18 +157,13 @@ Nenurodyta
     susijęs (ar sutampa) su J. Dlugošo žodžiais Ač-Girėjaus nekrologe:
     „Su Lenkija ir Prūsija jis [Ač-Girėjusj visą savo valdymą laikėsi
     pagirtinos taikos”.
-  citata_rodoma: |
-    Tačiau J . Dlugošo pasakojimas apie
-    Suchtą y ra aiškia) tautosakinio pobūdžio. Todėl patikimesnis L. Ko-
-    llankovskio spėjimas |L  Kolankowski. Dzieje W. Księstwa Litewskie-
-    go, I, p. 240), kad kalbamasis sąmokslas buvo tuoj po 1444 m,
+  citata_rodoma: "Tačiau J . Dlugošo pasakojimas apie \nSuchtą y ra aiškia) tautosakinio pobūdžio. Todėl patikimesnis L. Ko- \nllankovskio spėjimas |L  Kolankowski. Dzieje W. Księstwa Litewskie- \ngo, I, p. 240), kad kalbamasis sąmokslas buvo tuoj po 1444 m,"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186754
 - id: c-169965
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -213,17 +180,13 @@ Nenurodyta
     J. Dlugošo su 1444 m. data (J. Diugosz, Dzieje, V, p. 27—28). Ta­
     čiau J. Dlugošo pasakojime neužsimenama, nei apie Voložiną, nei
     apie Goštautų vaidmenį, gelbstint Kazimierą nuo sąmokslininkų.
-  citata_rodoma: |
-    Padavimas apie vieną iš septynių sąmokslų prieš Kazimierą,
-    kurio pagrindiniu veikėju buvęs Suchta, y ra plačiai užrašytas
-    J. Dlugošo su 1444 m. data (J. Diugosz, Dzieje, V, p. 27—28). Ta­
-    čiau J . Dlugošo pasakojime neužsimenama, nei apie Voložiną, nei
-    apie Goštautų vaidmenį, gelbstint Kazimierą nuo sąmokslininkų.
+  citata_rodoma: "Padavimas apie vieną iš septynių sąmokslų prieš Kazimierą, \nkurio pagrindiniu veikėju buvęs Suchta, y ra plačiai užrašytas \nJ. Dlugošo su 1444 m. data (J. Diugosz, Dzieje, V, p. 27—28). Ta­\nčiau J . Dlugošo pasakojime neužsimenama, nei apie Voložiną, nei \napie Goštautų vaidmenį, gelbstint Kazimierą nuo sąmokslininkų."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186752
-    - t-186753
+    - t-001
+    - t-002
+    - t-005

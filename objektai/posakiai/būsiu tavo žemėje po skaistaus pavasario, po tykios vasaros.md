@@ -38,8 +38,7 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
 ## Teiginiai
 
 <a id="claim-t-09682"></a>
-- t-001
-  global_id: t-09682
+- t-002
   teiginys: "Maskvos didysis kunigaikštis per pasiuntinį perdavė Algirdui grasinimą būti jo žemėje po pavasario ir vasaros."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -65,15 +64,11 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
     kaip Maskvos didysis kunigaikštis Lietuvos valdovui Algirdui per pasiuntinį perduoda
     ugnies ir kardą, kas turėjo reikšti: „būsiu tavo žemėje po skaistaus pavasario, po ty-
     kios vasaros“.
-  citata_rodoma: |
-    „Lietuvos metraštis“ (Bychovco kronika) (rašytas xvI a. pirmojoje pusėje) pasakoja,
-    kaip Maskvos didysis kunigaikštis Lietuvos valdovui Algirdui per pasiuntinį perduoda
-    ugnies ir kardą, kas turėjo reikšti: „būsiu tavo žemėje po skaistaus pavasario, po ty-
-    kios vasaros“.
+  citata_rodoma: "„Lietuvos metraštis“ (Bychovco kronika) (rašytas xvI a. pirmojoje pusėje) pasakoja,\nkaip Maskvos didysis kunigaikštis Lietuvos valdovui Algirdui per pasiuntinį perduoda\nugnies ir kardą, kas turėjo reikšti: „būsiu tavo žemėje po skaistaus pavasario, po ty-\nkios vasaros“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09682
+    - t-002

@@ -31,8 +31,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-11668"></a>
-- t-001
-  global_id: t-11668
+- t-003
   teiginys: "Įsigalėjęs kardininkų ordinas virto paprasta militarine valstybe."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -61,15 +60,11 @@ media_all_json: |-
     lonijai (Rygoje ir apylinkėse) bei bažnyčiai saugumą ir pagel­
     bėti dvasiškijai varyti apaštalavimo darbą karingų pagonų tar­
     pe. Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
-  citata_rodoma: |
-    Jis turėjo tikslą garantuoti jaunutei krikščionių ko-
-    lonijai (Rygoje ir apylinkėse) bei bažnyčiai saugumą ir pagel-
-    bėti dvasiškijai varyti apaštalavimo darbą karingų pagonų tar-
-    pe. Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
+  citata_rodoma: "Jis turėjo tikslą garantuoti jaunutei krikščionių ko-\nlonijai (Rygoje ir apylinkėse) bei bažnyčiai saugumą ir pagel-\nbėti dvasiškijai varyti apaštalavimo darbą karingų pagonų tar-\npe. Bet įsigalėjęs Ordinas virto paprasta militarine valstybe."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11668
+    - t-003

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20209"></a>
 - t-001
-  global_id: t-20209
   teiginys: "Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabinetas, o premjeru tapo Vladas Mironas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,12 +84,11 @@ Nenurodyta
     netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
     Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
     valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.
-  citata_rodoma: |
-    Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
+  citata_rodoma: "Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20209
+    - t-001

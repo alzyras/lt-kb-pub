@@ -44,7 +44,6 @@ Vaitiekaus Jučo pareigoms nusakyti.
 
 <a id="claim-t-192327"></a>
 - t-001
-  global_id: t-192327
   teiginys: "Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -82,12 +81,11 @@ Vaitiekaus Jučo pareigoms nusakyti.
     figūrą.
     Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
     leidimą (PEĮ.
-  citata_rodoma: |
-    Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu aprašymu: „1840 metų rugsėjo mėnesį viešėdamas Platelių dvare, priklausančiame grafienei Choueseul, tą dievuką gavau iš kun/igo/ Kognovickio, Platelių klebonijos vikaro, kuris, būdamas kilimo iš Raseinių apskrities, 1836 metais gegužės mėnesį nuvyko aplankyti savo brolį.
+  citata_rodoma: "Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu aprašymu: „1840 metų rugsėjo mėnesį viešėdamas Platelių dvare, priklausančiame grafienei Choueseul, tą dievuką gavau iš kun/igo/ Kognovickio, Platelių klebonijos vikaro, kuris, būdamas kilimo iš Raseinių apskrities, 1836 metais gegužės mėnesį nuvyko aplankyti savo brolį."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192327
+    - t-001

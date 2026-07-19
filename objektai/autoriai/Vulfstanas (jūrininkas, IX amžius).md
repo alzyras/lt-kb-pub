@@ -37,7 +37,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 
 <a id="claim-t-63357"></a>
 - t-001
-  global_id: t-63357
   teiginys: "IX a. jūrininkas Vulfstanas, buvęs Prūsuose, smulkiai nupasakojo aisčių gyvenimo būdą ir papročius."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 
 <a id="claim-t-188485"></a>
 - t-002
-  global_id: t-188485
   teiginys: "Narbutas nurodo, kad pagal Vulfstano pasakojimą senovės prūsai kelis mėnesius namuose išlaikydavo mirusiųjų kūnus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 
 <a id="claim-t-188486"></a>
 - t-003
-  global_id: t-188486
   teiginys: "Narbutas pripažįsta, kad Vulfstanas ir kiti užsienio kronikininkai bei dokumentai nemini krivio."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -97,7 +94,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 
 <a id="claim-t-190819"></a>
 - t-004
-  global_id: t-190819
   teiginys: "Teodoras Narbutas Vulfstaną vadino skandinavų keliautoju ir nurodė, kad šis Estijoje apsilankė IX amžiaus antrojoje pusėje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -118,7 +114,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 
 <a id="claim-t-190820"></a>
 - t-005
-  global_id: t-190820
   teiginys: "Teodoro Narbuto vertinimu, be Vulfstano aprašymų apie prekybinį Truso miestą prie Drūsinės ežero galbūt nieko nebūtų žinoma."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -136,10 +131,9 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173702
-    - c-005
+
 <a id="claim-t-191911"></a>
 - t-006
-  global_id: t-191911
   teiginys: "Narbutas rašė, kad keliautojas Vulfstanas jau minėjo vietos ponus, turėjusius savarankiškas valdas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -150,10 +144,9 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174793
-    - c-006
+
 <a id="claim-t-197658"></a>
 - t-007
-  global_id: t-197658
   teiginys: "Jei netu rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis nieko nežinotume apie šį miestą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -166,7 +159,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 
 <a id="claim-t-197659"></a>
 - t-008
-  global_id: t-197659
   teiginys: "Apie juos jau rašė keliautojas Vulfstanas; jų karta išliko ligi šiol."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -179,7 +171,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 
 <a id="claim-t-200948"></a>
 - t-009
-  global_id: t-200948
   teiginys: "Buklus jūreivis Vulfstanas, išsiųstas Alfredo, di džiojo anglų viešpaties, arba karaliaus, į Žemaičius prekybos teirautis, nuo kur grįždamas tokias žinias būk pargabenęs."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -192,7 +183,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 
 <a id="claim-t-200949"></a>
 - t-010
-  global_id: t-200949
   teiginys: "Visa tą, ką čia dabar Vulfstanas pasakojo savo amžiuj, patvirtina paskesnieji Lietuvos tautos rašy tojai, ką tuojau alvienas skaitytojas regės."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -221,8 +211,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190820
 - c-006
   santrauka: 'Narbutas rašė, kad keliautojas Vulfstanas jau minėjo vietos ponus, turėjusius savarankiškas valdas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -237,8 +225,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191911
+
 ## Citatos
 
 - id: c-64412
@@ -252,20 +239,15 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
     taip pat šį tą sužinome apie aisčius. įdomiausiai minimi aisčiai
     IX amž. jūrininko Vulfstano pasakojime. Buvęs Prūsuose,
     jis gana smulkiai nupasakoja aisčių gyvenimo būdą ir papročius.
-  citata_rodoma: |
-    Tas prane-
-    šimas yra išlikęs iki mūsų laikų.
-    **Keliautojai** mums paliko savo kelionių aprašymų, iš kurių
-    taip pat šį tą sužinome apie aisčius. įdomiausiai minimi aisčiai
-    IX amž. jūrininko Vulfstano pasakojime. Buvęs Prūsuose,
-    jis gana smulkiai nupasakoja aisčių gyvenimo būdą ir papročius.
+  citata_rodoma: "Tas prane-\nšimas yra išlikęs iki mūsų laikų.\n**Keliautojai** mums paliko savo kelionių aprašymų, iš kurių\ntaip pat šį tą sužinome apie aisčius. įdomiausiai minimi aisčiai\nIX amž. jūrininko Vulfstano pasakojime. Buvęs Prūsuose,\njis gana smulkiai nupasakoja aisčių gyvenimo būdą ir papročius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63357
+    - t-001
+
 - id: c-171375
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -287,7 +269,8 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188485
+    - t-002
+
 - id: c-171376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -308,7 +291,8 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188486
+    - t-003
+
 - id: c-173701
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -329,7 +313,8 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190819
+    - t-004
+
 - id: c-173702
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -352,8 +337,9 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190820
-    - t-197658
+    - t-005
+    - t-007
+
 - id: c-174793
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -373,11 +359,13 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191911
-    - t-197659
+    - t-006
+    - t-008
+
 - id: c-184298
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pereidamas skaitytojas tas dabar minavotas šiau­
     rės pasakas, noris maž ką teranda tenai apie Lietu­
@@ -398,10 +386,12 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200948
+    - t-009
+
 - id: c-184299
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Žemaičiai mokėję šaltį padirbti, dėl ko gi jų
     lavonai taip ilgai laikomi negedę: kaipo 2 bački
@@ -418,4 +408,4 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200949
+    - t-010

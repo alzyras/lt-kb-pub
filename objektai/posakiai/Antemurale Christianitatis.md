@@ -46,8 +46,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78919"></a>
-- t-001
-  global_id: t-78919
+- t-004
   teiginys: "„Antemurale Christianitatis“ siejama su gilia Lietuvos kovos Vakarų civilizacijos vertybių pusėje tradicija."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -63,8 +62,7 @@ media_all_json: |-
     - c-76022
 
 <a id="claim-t-78920"></a>
-- t-002
-  global_id: t-78920
+- t-007
   teiginys: "Pirmieji krikščioniški Lietuvos valdovai organizavo kryžiaus žygius prieš totorius ir taip formavo „antemurale Christianitatis“ ideologiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -83,8 +81,7 @@ media_all_json: |-
     - c-76021
 
 <a id="claim-t-78921"></a>
-- t-003
-  global_id: t-78921
+- t-005
   teiginys: "Pirmieji krikščioniški Lietuvos valdovai organizavo kryžiaus žygius prieš totorius ir formavo „antemurale Christianitatis“ ideologiją."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -121,25 +118,16 @@ media_all_json: |-
     Lucko suvažiavime 1429 m. pas Vytautą rinkosi Vidurio ir Rytų
     Europos valdovai svarstyti jau nebe Kryžiuočių ordino, o Osmanų
     imperijos keliamo pavojaus.
-  citata_rodoma: |
-    Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti
-    žūtbūtinėje kovoje prieš kryžiuočių ekspansiją ir įsigyti vietą
-
-    Europoje, tai jau Žalgiryje (1410) kovota ne prieš Vakarų civili-
-    zaciją, o už teisę būti joje, nes vokiečių ordinai buvo jai palikę tik
-    barjero tarp Rytų ir Vakarų vaidmenį. Jau pirmieji krikščioniški
-    Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes chris-
-    tiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius,
-    formuodami „antemurale Christianitatis“ ideologiją. Garsiajame
-    Lucko suvažiavime 1429 m.
+  citata_rodoma: "Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti\nžūtbūtinėje kovoje prieš kryžiuočių ekspansiją ir įsigyti vietą\n\nEuropoje, tai jau Žalgiryje (1410) kovota ne prieš Vakarų civili-\nzaciją, o už teisę būti joje, nes vokiečių ordinai buvo jai palikę tik\nbarjero tarp Rytų ir Vakarų vaidmenį. Jau pirmieji krikščioniški\nLietuvos valdovai, siekdami įrodyti, kad jie yra „principes chris-\ntiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius,\nformuodami „antemurale Christianitatis“ ideologiją. Garsiajame\nLucko suvažiavime 1429 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78920
-    - t-78921
+    - t-007
+    - t-005
+
 - id: c-76022
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -158,4 +146,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78919
+    - t-004

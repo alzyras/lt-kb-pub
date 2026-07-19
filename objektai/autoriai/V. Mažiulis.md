@@ -30,8 +30,7 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
 ## Teiginiai
 
 <a id="claim-t-64859"></a>
-- t-001
-  global_id: t-64859
+- t-002
   teiginys: "V. Mažiulio tyrimai rodė, kad vakarų ir rytų baltų tarmių skirtingumo laipsnis mažesnis, nei anksčiau manyta."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,18 +46,16 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
     - c-65448
 
 <a id="claim-t-64860"></a>
-- t-002
-  global_id: t-64860
+- t-001
   teiginys: "V. Mažiulis pateikė didelę dalį prūsiškųjų ir kitų baltiškųjų vietovardžių bei asmenvardžių rekonstrukcijų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65450
-    - c-004
+
 <a id="claim-t-64861"></a>
-- t-003
-  global_id: t-64861
+- t-004
   teiginys: "V. Mažiulio darbe „Dėl Neringos“ remiamasi aiškinant Kuršių nerijos pavadinimus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,8 +71,7 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
     - c-65449
 
 <a id="claim-t-64862"></a>
-- t-004
-  global_id: t-64862
+- t-003
   teiginys: "V. Mažiulis parengė leidinį „Prūsų kalbos paminklai“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -104,8 +100,7 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-64860
+
 ## Citatos
 
 - id: c-65447
@@ -128,7 +123,8 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64862
+    - t-003
+
 - id: c-65448
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -142,20 +138,15 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
     lietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės
     už rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai
     rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.
-  citata_rodoma: |
-    Ilgainiui pavyko nustatyti prūsų kalbos
-    vietą baltų kalbų šeimoje: prigijo nuomonė, kad ji esanti artimiausia lietuvių bei latvių
-    kalbų giminaitė, artimesnė lietuvių negu latvių kalbai, išlaikiusi daugiau archaizmų negu
-    lietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės
-    už rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai
-    rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.
+  citata_rodoma: "Ilgainiui pavyko nustatyti prūsų kalbos\nvietą baltų kalbų šeimoje: prigijo nuomonė, kad ji esanti artimiausia lietuvių bei latvių\nkalbų giminaitė, artimesnė lietuvių negu latvių kalbai, išlaikiusi daugiau archaizmų negu\nlietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės\nuž rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai\nrodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64859
+    - t-002
+
 - id: c-65449
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -172,7 +163,8 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64861
+    - t-004
+
 - id: c-65450
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -191,14 +183,11 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
     karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
     nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
     Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
-  citata_rodoma: |
-    Didelę  dalį  prūsiškųjų   ir  kitų  baltiškųjų  vietovardžių  bei  asmenvardžių
-
-    rekonstrukcijų pateikė akad.
+  citata_rodoma: "Didelę  dalį  prūsiškųjų   ir  kitų  baltiškųjų  vietovardžių  bei  asmenvardžių\n\nrekonstrukcijų pateikė akad."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64860
+    - t-001

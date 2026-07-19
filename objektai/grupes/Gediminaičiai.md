@@ -31,7 +31,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 
 <a id="claim-t-19691"></a>
 - t-001
-  global_id: t-19691
   teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 
 <a id="claim-t-193536"></a>
 - t-002
-  global_id: t-193536
   teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -85,15 +83,15 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
     dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
     monarchijoms ir nuo to mes jaučiamės smagiau.
-  citata_rodoma: |
-    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
+  citata_rodoma: "dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19691
+    - t-001
+
 - id: c-176216
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -113,4 +111,4 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193536
+    - t-002

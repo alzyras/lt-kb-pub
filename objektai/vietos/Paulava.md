@@ -39,8 +39,7 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
 ## Teiginiai
 
 <a id="claim-t-68908"></a>
-- t-001
-  global_id: t-68908
+- t-002
   teiginys: "Povilas Ksaveras Bžostovskis įkūrė Paulavos respubliką kaip Apšvietos žingsnį Lietuvos ūkyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
     - c-68366
 
 <a id="claim-t-68909"></a>
-- t-002
-  global_id: t-68909
+- t-003
   teiginys: "Paulava visuomenėje laikyta tokia reikšminga, kad buvo sakoma apie tris respublikas: Lenkijos, Lietuvos ir Paulavos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
     - c-68367
 
 <a id="claim-t-68910"></a>
-- t-003
-  global_id: t-68910
+- t-001
   teiginys: "Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma Apšvietos epochos pradžios ženklu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,15 +125,15 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
     kartais laikomi Apšvietos epochos pradžia.
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
     sąjunga, sukurta Liublino unijos.
-  citata_rodoma: |
-    panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
+  citata_rodoma: "panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68910
+    - t-001
+
 - id: c-68366
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -148,15 +145,15 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
     patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam
     „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvense-
     ną.
-  citata_rodoma: |
-    laikytina P. K. Bžostovskio įkurta Paulavos respublika. Jos įstatus 1791 m.
+  citata_rodoma: "laikytina P. K. Bžostovskio įkurta Paulavos respublika. Jos įstatus 1791 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68908
+    - t-002
+
 - id: c-68367
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -167,14 +164,14 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
     teikė Paulavai. Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
     viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
     ir Lietuvos Valstybėje.
-  citata_rodoma: |
-    viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
+  citata_rodoma: "viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68909
+    - t-003
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]

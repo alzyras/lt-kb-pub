@@ -36,8 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75455"></a>
-- t-001
-  global_id: t-75455
+- t-002
   teiginys: "1808 m. Varšuvoje išleistoje Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą teigta, kad lietuvių kalba tinkama aukštajai kultūrai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ media_all_json: |-
     - c-73231
 
 <a id="claim-t-75456"></a>
-- t-002
-  global_id: t-75456
+- t-001
   teiginys: "Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą nuskambėjo mintis, kad lietuvių kalba tinka aukštajai kultūrai."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -87,18 +85,15 @@ media_all_json: |-
     kultūros kalba. Ši mintis paskatino kai kuriuos inteligentus, gyvenusius
     Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
     Poška, Silvestras Valiūnas). Įspūdį padarė 1818 m.
-  citata_rodoma: |
-    gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę
-    „Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą kartą nuskambėjo
-    mintis, kad lietuvių kalba yra visiškai tinkama būti atskiros aukštosios
-    kultūros kalba.
+  citata_rodoma: "gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę\n„Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą kartą nuskambėjo\nmintis, kad lietuvių kalba yra visiškai tinkama būti atskiros aukštosios\nkultūros kalba."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75456
+    - t-001
+
 - id: c-73231
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -121,4 +116,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75455
+    - t-002

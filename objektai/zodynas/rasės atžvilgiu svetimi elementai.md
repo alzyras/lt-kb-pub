@@ -31,7 +31,6 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
 
 <a id="claim-t-22261"></a>
 - t-001
-  global_id: t-22261
   teiginys: "Naciai manė, kad „rasės atžvilgiu svetimus elementus“ būtina pašalinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,12 +63,11 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
     savo rasinio ir kultūrinio pranašumo vokiečių tauta turinti būti „viešpa-
     taujanti“ arba „ponų tauta“, o „rasės atžvilgiu svetimus elementus“ bū-
     tina pašalinti.
-  citata_rodoma: |
-    likusiomis tautomis, kurios turėjo paklusti vokiečių viešpatavimui, dėl
+  citata_rodoma: "likusiomis tautomis, kurios turėjo paklusti vokiečių viešpatavimui, dėl"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22261
+    - t-001

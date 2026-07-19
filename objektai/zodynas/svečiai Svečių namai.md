@@ -36,8 +36,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 ## Teiginiai
 
 <a id="claim-t-86552"></a>
-- t-001
-  global_id: t-86552
+- t-002
   teiginys: "Aleksandras leido Vilniui statyti Svečių namus, siekdamas miesto bei muito pelno ir išorinio saugumo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     - c-82531
 
 <a id="claim-t-86553"></a>
-- t-002
-  global_id: t-86553
+- t-001
   teiginys: "Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, sumokėti muitą ir pranešti pilininkui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86552
+    - t-002
+
 - id: c-82532
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -118,19 +117,11 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
-  citata_rodoma: |
-    ) anoji sutartis su caru
-    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
-    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
-    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
-    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
-    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
-    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
-    savo atvykimą iškart pranešti pilininkui4 3  44.
+  citata_rodoma: ") anoji sutartis su caru \nbuvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės. \nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų \npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie \nsavo atvykimą iškart pranešti pilininkui4 3  44."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86553
+    - t-001

@@ -33,29 +33,6 @@ media_all_json: |-
 
 Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo deivę, siejamą su lietuviais, latviais ir estais. Narbutas 1483 m. Kazimiero privilegiją Rimvydui laikė įrodymu, kad katinas lietuviams buvo stabmeldiškosios laisvės, arba Lietwii, ženklas. Narbutas, remdamasis Rusovu, rašė, kad latvių jaunimas deivę Dahkla garbino kaip laisvės ir vyriškumo globėją.
 
-## Teiginiai
-
-<a id="claim-t-189118"></a>
-- t-003
-  global_id: t-189118
-  teiginys: "Narbutas, remdamasis Rusovu, rašė, kad latvių jaunimas deivę Dahkla garbino kaip laisvės ir vyriškumo globėją."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Latviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva Lietwii kaip laisvės ženklas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva Lietwii kaip laisvės ženklas\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172006
-    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo deivę, siejamą su lietuviais, latviais ir estais.'
@@ -75,10 +52,9 @@ Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo de
     tina *.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-002
   santrauka: 'Narbutas 1483 m. Kazimiero privilegiją Rimvydui laikė įrodymu, kad katinas lietuviams buvo stabmeldiškosios laisvės, arba Lietwii, ženklas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -103,10 +79,9 @@ Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo de
     dodavo laisvės deivės simboliu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-003
   santrauka: 'Narbutas, remdamasis Rusovu, rašė, kad latvių jaunimas deivę Dahkla garbino kaip laisvės ir vyriškumo globėją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -119,11 +94,10 @@ Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo de
     pakenčiančio jaunimo deivė, tai painioja ją su Laima.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189118
+  statusas: verified
+
 ## Citatos
 
 - id: c-172006
@@ -141,17 +115,33 @@ Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo de
     tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
     cino tikėjimą, ir toji bažnyčia ilgai priklausė evangelikams re-
     iormatams.
-  citata_rodoma: |
-    Rusovas sako, kad latvių jaunimas garbino tą deivę, va­
-    dindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį
-    mitą pastebi Stenderis, bet dėl savo keistos etimologizacijos
-    sudvejina: vienur vadinaDekkla, kitur -  Tikla. Taip pat priski­
-    ria jai nebūdingas ypatybes: kadangi ji buvusi prievartos ne-
-    pakenčiančio jaunimo deivė, tai painioja ją su Laima.
+  citata_rodoma: "Rusovas sako, kad latvių jaunimas garbino tą deivę, va­\ndindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį\nmitą pastebi Stenderis, bet dėl savo keistos etimologizacijos\nsudvejina: vienur vadinaDekkla, kitur -  Tikla. Taip pat priski­\nria jai nebūdingas ypatybes: kadangi ji buvusi prievartos ne-\npakenčiančio jaunimo deivė, tai painioja ją su Laima."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189118
+    - t-003
+
+## Teiginiai
+
+<a id="claim-t-189118"></a>
+- t-003
+  teiginys: "Narbutas, remdamasis Rusovu, rašė, kad latvių jaunimas deivę Dahkla garbino kaip laisvės ir vyriškumo globėją."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuva Lietwii kaip laisvės ženklas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva Lietwii kaip laisvės ženklas\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172006

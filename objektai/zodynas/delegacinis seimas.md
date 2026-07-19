@@ -39,7 +39,6 @@ Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m.
 
 <a id="claim-t-42440"></a>
 - t-001
-  global_id: t-42440
   teiginys: "1773–1775 m. delegacinis seimas Varšuvoje patvirtino 1772 m. Sankt Peterburge pasirašytas padalinimo sutartis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,17 +63,14 @@ Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m.
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Padalinimo sutartys buvo pasirašytos 1772 m.
+    ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.
     Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
     seimas Varšuvoje.
-  citata_rodoma: |
-    Padalinimo sutartys buvo pasirašytos 1772 m.
-    Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
-    seimas Varšuvoje.
+  citata_rodoma: "Padalinimo sutartys buvo pasirašytos 1772 m.\nSankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis\nseimas Varšuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42440
+    - t-001

@@ -31,7 +31,6 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
 
 <a id="claim-t-190378"></a>
 - t-001
-  global_id: t-190378
   teiginys: "Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, lietuviai paskutines penkias dievaičių rūšis perėmė iš skandinavų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,12 +48,11 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173261
-    - c-001
+
 <a id="claim-t-190379"></a>
 - t-002
-  global_id: t-190379
   teiginys: "Prūsijos kronikininkai kartojo, kad stabmeldžiai slėpė tam tikras religines apeigas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,7 +68,6 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173262
-    - c-002
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188318|Prūsai]]: Narbutas rašo, kad Prūsijos kronikininkai aprašo tautinį senovės prūsų herbą, kurio kilmę sieja su Vaidevučio laikais.
 - susijęs iš Prūsija: Narbutas rašo, kad Prūsijos kronikininkai šiuo vardu siejo dievintą senovės kunigaikštį Vaidevutį.
 - susijęs iš Prūsija: Narbutas rašo, kad Prūsijos kronikininkai burtininkams priskyrė ateities pranašavimą liejant ištirpintą vašką į šaltą vandenį.
@@ -92,8 +89,6 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190378
 - c-002
   santrauka: 'Prūsijos kronikininkai kartojo, kad stabmeldžiai slėpė tam tikras religines apeigas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -116,8 +111,7 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190379
+
 ## Citatos
 
 - id: c-173261
@@ -138,19 +132,15 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
     ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
     yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
     lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
-  citata_rodoma: |
-    Šie dievaičiai atitinka Antikos Paną.
-    Prūsijos kronikininkų, besivadovaujančių Olafo Didžiojo
-    „Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­
-    viai perėmę iš skandinavų.
-    30 Stenden Lettische Grammatik.
+  citata_rodoma: "Šie dievaičiai atitinka Antikos Paną.\nPrūsijos kronikininkų, besivadovaujančių Olafo Didžiojo\n„Istorija“ , manymu, paskutines penkias dievaičių rūšis lietu­\nviai perėmę iš skandinavų.\n30 Stenden Lettische Grammatik."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190378
+    - t-001
+
 - id: c-173262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -167,24 +157,11 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
     Atlaibas (Atlajhos)
     Būdvardis Lajbas reiškia plonas, dailus, nežinomu menu
     sukurtas, paslaptingas .
-  citata_rodoma: |
-    Iš čia slap­
-    tos sueigos, slaptos reikšmės dievybės, kurių mūsų mitologas
-    197
-
-    ## Puslapis 197
-
-    išvardija net aštuonetą. Prūsijos kronikininkai be perstojo kar­
-    toja, kad stabmeldžiai slepią tam tikras religines apeigas.
-    Negaliu paneigti nuomonės, kad lietuviai yra turėję religi­
-    nių paslapčių; priešingai, manau, kad lietuviai nebūtų galėję
-    be jų apsieiti, kadangi kiekviena daugiadieviška religija, pa­
-    siekusi tam tikrą vystymosi pakopą, net iki juokingumo apau­
-    ga prietarais, keistenybėmis.
+  citata_rodoma: "Iš čia slap­\ntos sueigos, slaptos reikšmės dievybės, kurių mūsų mitologas\n197\n\n## Puslapis 197\n\nišvardija net aštuonetą. Prūsijos kronikininkai be perstojo kar­\ntoja, kad stabmeldžiai slepią tam tikras religines apeigas.\nNegaliu paneigti nuomonės, kad lietuviai yra turėję religi­\nnių paslapčių; priešingai, manau, kad lietuviai nebūtų galėję\nbe jų apsieiti, kadangi kiekviena daugiadieviška religija, pa­\nsiekusi tam tikrą vystymosi pakopą, net iki juokingumo apau­\nga prietarais, keistenybėmis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190379
+    - t-002

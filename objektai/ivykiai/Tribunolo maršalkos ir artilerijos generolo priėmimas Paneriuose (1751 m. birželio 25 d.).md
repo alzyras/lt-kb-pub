@@ -62,8 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-200603"></a>
-- t-001
-  global_id: t-200603
+- t-002
   teiginys: "Juozapas Antanas Solohubas ir Antanas Solohubas 1751 m. be ceremonijų pakvietė Lopacinskį prie mažojo staliuko."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::events"
@@ -84,8 +83,7 @@ Nenurodyta
     - c-184000
 
 <a id="claim-t-200604"></a>
-- t-002
-  global_id: t-200604
+- t-001
   teiginys: "1751 m. birželio 25 d. Lopacinskis vyko į Panerius priimti tribunolo maršalo Juozapo Antano Solohubo ir artilerijos generolo Antano Solohubo."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::events"
@@ -116,23 +114,9 @@ Nenurodyta
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 6"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
-  citata_originali: |
-    Būdamas politinių ir visuomeninių įvykių centre, kanauninkas nuolat
-    turėjo dalyvauti pobūviuose su tribunolo vadovais, kitais bajorų grupuočių lyderiais.
-    Pvz., 1751 m. kanauninkas broliui pasakojo, kad jam skauda galvą, tačiau turintis vykti
-    į Panerius, nes reikia priimti tribunolo maršalą Juozapą Antaną Solohubą (Józef Antoni
-    Sołłohub) ir LDK artilerijos generolą Antaną Solohubą (Antoni Sołłohub), kurie be cere-
-    monijų jį pakvietė prie mažojo staliuko [lošti kortomis?] [22].
-  citata_rodoma: |
-    Pvz., 1751 m. kanauninkas broliui pasakojo, kad jam skauda galvą, tačiau turintis vykti
-    į Panerius, nes reikia priimti tribunolo maršalą Juozapą Antaną Solohubą (Józef Antoni
-    Sołłohub) ir LDK artilerijos generolą Antaną Solohubą (Antoni Sołłohub), kurie be cere-
-    monijų jį pakvietė prie mažojo staliuko [lošti kortomis?] [22].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 07:10"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200603
-    - t-200604
+    - t-002
+    - t-001

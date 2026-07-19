@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-193796"></a>
 - t-001
-  global_id: t-193796
   teiginys: "Šilainiai, Raudonė, Kejėnai, vDKM, Artūro Užgalio nuotr."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -55,4 +54,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193796
+    - t-001

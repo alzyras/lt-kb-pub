@@ -32,7 +32,6 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
 
 <a id="claim-t-189097"></a>
 - t-001
-  global_id: t-189097
   teiginys: "Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą iš ten kadaise gyvenusių lietuvių genties tautų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
 
 <a id="claim-t-192744"></a>
 - t-002
-  global_id: t-192744
   teiginys: "Karamzinas Jurjevą siejo su Rosės upe prie Belaja Cerkovės Kijevo gubernijoje ir Nestoro žodžius taikė dešiniajam Dnepro krantui."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,10 +70,9 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175514
-    - c-002
+
 <a id="claim-t-197919"></a>
 - t-003
-  global_id: t-197919
   teiginys: "Ka ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes toro žodžius priskiria poloviečių veiksmams dešiniojoje Dnepro pakrantėje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -107,8 +104,7 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192744
+
 ## Citatos
 
 - id: c-171985
@@ -136,7 +132,8 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189097
+    - t-001
+
 - id: c-175514
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -159,25 +156,15 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
     riuos anksčiau kalbėjome (§ 51), minimas kraštas, kurį
     aprašome: nuo Oskolo miestelio, esančio prie to paties
     1 Tą patį reiškia ir senovės lenkų kalba (Siownik Synvida.
-  citata_rodoma: |
-    Ne­
-    storas teigia, kad poloviečiai atėjo prie G i urge v o tvirto­
-    vės, laikė ją apgulę visą vasarą, bet, negalėdami jos
-    įveikti, nesikėlė per Rosés upę, sudarę taiką su Sventopel-
-    ku2. Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
-    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
-    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
-    toro žodžius priskiria poloviečių veiksmams dešiniojoje
-    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
-    statytas XII amžiaus pradžioje po to, kai jį sunaikino
-    poloviečiai.
+  citata_rodoma: "Ne­\nstoras teigia, kad poloviečiai atėjo prie G i urge v o tvirto­\nvės, laikė ją apgulę visą vasarą, bet, negalėdami jos\nįveikti, nesikėlė per Rosés upę, sudarę taiką su Sventopel-\nku2. Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­\nramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­\nčios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­\ntoro žodžius priskiria poloviečių veiksmams dešiniojoje\nDnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­\nstatytas XII amžiaus pradžioje po to, kai jį sunaikino\npoloviečiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192744
+    - t-002
+
 - id: c-179397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -204,4 +191,4 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197919
+    - t-003

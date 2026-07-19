@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-200734"></a>
 - t-001
-  global_id: t-200734
   teiginys: "Rimvydas Laužikas europinio gėrimo iš vienos taurės papročio formavimą sieja su antikos kultūra, krikščionybe ir Šiaurės barbarikumu."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,6 @@ Nenurodyta
 
 <a id="claim-t-200735"></a>
 - t-002
-  global_id: t-200735
   teiginys: "Rimvydas Laužikas mano, kad XVI–XVII a. Lietuvoje gėrimas iš vienos taurės galėjo plisti kopijuojant lenkų bajorus kaip sarmatizmo madą."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -104,11 +102,8 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200734
+    - t-001
 
 - id: c-184080
   autorius: "Rimvydas Laužikas"
@@ -118,8 +113,5 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200735
+    - t-002

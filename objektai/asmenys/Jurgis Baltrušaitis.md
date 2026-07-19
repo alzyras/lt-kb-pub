@@ -31,7 +31,6 @@ Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Ma
 
 <a id="claim-t-19032"></a>
 - t-001
-  global_id: t-19032
   teiginys: "Po J. Stalino mirties „atšilimo“ laikotarpiu buvo išspausdinta Jurgio Baltrušaičio kūrinių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,12 +64,11 @@ Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Ma
     Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: |
-    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
+  citata_rodoma: "tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19032
+    - t-001

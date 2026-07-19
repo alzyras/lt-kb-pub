@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20533"></a>
 - t-001
-  global_id: t-20533
   teiginys: "1938 m. gegužę priimtoje naujoje konstitucijoje Lietuva vėl įrašė, kad Vilnius yra jos sostinė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,12 +85,11 @@ Nenurodyta
     Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
     traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
     Vilnius yra Lietuvos sostinė.
-  citata_rodoma: |
-    Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
+  citata_rodoma: "Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20533
+    - t-001

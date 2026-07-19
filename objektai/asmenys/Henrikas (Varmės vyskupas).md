@@ -40,7 +40,6 @@ Dusburgietis teigia, kad valdovas Henrikas, Varmės vyskupas, vėliau, 1279 vie�
 
 <a id="claim-t-60310"></a>
 - t-001
-  global_id: t-60310
   teiginys: "1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur kronikos metu jie tebestovėjo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,6 +76,7 @@ Dusburgietis teigia, kad valdovas Henrikas, Varmės vyskupas, vėliau, 1279 vie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60310
+    - t-001
+
 ## Ryšiai
 - Henrikas (Varmės vyskupas) pastatė [[objektai/vietos/Brunsbergas]]

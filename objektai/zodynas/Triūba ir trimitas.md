@@ -54,7 +54,6 @@ Terminas vartojamas kerdžiaus darbo ir kaimo signalų perdavimo kontekste.
 
 <a id="claim-t-195454"></a>
 - t-001
-  global_id: t-195454
   teiginys: "Triūba šiame šaltinyje yra ilgo trimito pavadinimas."
   atnaujinta: "2026-07-12 03:27"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -79,13 +78,11 @@ Terminas vartojamas kerdžiaus darbo ir kaimo signalų perdavimo kontekste.
     kaimiečių gerbiamas, pabaigė savo amželį.
     Kerdžiaus pabūklas buvo ilgas rimbas (botagas) ir ilgas trimitas,
     vadinamas triūba.
-  citata_rodoma: |
-    Kerdžiaus pabūklas buvo ilgas rimbas (botagas) ir ilgas trimitas,
-    vadinamas triūba
+  citata_rodoma: "Kerdžiaus pabūklas buvo ilgas rimbas (botagas) ir ilgas trimitas, \nvadinamas triūba"
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195454
+    - t-001

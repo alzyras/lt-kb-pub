@@ -38,7 +38,6 @@ Narbutas nurodo, kad temos pagrindą sudarė ištraukos iš Tilemano, Muratoriau
 
 <a id="claim-t-191909"></a>
 - t-001
-  global_id: t-191909
   teiginys: "Narbutas nurodo, kad temos pagrindą sudarė ištraukos iš Tilemano, Muratoriaus ir kitų autorių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas nurodo, kad temos pagrindą sudarė ištraukos iš Tilemano, Muratoriau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191909
+    - t-001

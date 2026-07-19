@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-18916"></a>
 - t-001
-  global_id: t-18916
   teiginys: "Gertrude Ellion 1988 m. gavo medicinos ir fiziologijos srities Nobelio premiją, o jos tėvas vaikystėje emigravo iš Lietuvos į JAV."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,12 +83,11 @@ media_all_json: |-
     damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
     siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
     premija).
-  citata_rodoma: |
-    rensonas (Bernhard Valvrojenski, g. 1865 m.), Gertrude Ellion (Geltrūda
+  citata_rodoma: "rensonas (Bernhard Valvrojenski, g. 1865 m.), Gertrude Ellion (Geltrūda"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18916
+    - t-001

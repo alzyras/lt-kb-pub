@@ -31,7 +31,6 @@ Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero v
 
 <a id="claim-t-186183"></a>
 - t-001
-  global_id: t-186183
   teiginys: "Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,7 @@ Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero v
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiesiogiai remiasi citata."
   pagrindžia:
     - c-169544
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba.'
@@ -72,8 +71,7 @@ Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero v
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186183
+
 ## Citatos
 
 - id: c-169544
@@ -101,21 +99,11 @@ Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero v
     nybę: ir daugelis buvusių
     arijonų (šią sektą buvo priglaudę Germanijoje ir Pa-
     nonijoje), ir žmonės, ligi tol buvę stabmeldžiais.
-  citata_rodoma: |
-    Tačiau didelė herulų da­
-    lis persikėlė iš Italijos į Grai-
-    493 m e ta i
-    kiją, mat sutartys leido Bi­
-    zantijos imperatoriui kvies­
-    tis tą gentį į karo sąjungininkus. Štai, Justinianui vieš­
-    pataujant, herulų, vadovaujamų Getero, pagalba pasi­
-    naudojo Belizarijus, nugalėjęs persus. Kita jų dalis,
-    pasikvietusi iš tėvynės kunigaikštį Datą, įsikūrė prie
-    Dunojaus Noriko pasienyje.
+  citata_rodoma: "Tačiau didelė herulų da­\nlis persikėlė iš Italijos į Grai-\n493 m e ta i\nkiją, mat sutartys leido Bi­\nzantijos imperatoriui kvies­\ntis tą gentį į karo sąjungininkus. Štai, Justinianui vieš­\npataujant, herulų, vadovaujamų Getero, pagalba pasi­\nnaudojo Belizarijus, nugalėjęs persus. Kita jų dalis,\npasikvietusi iš tėvynės kunigaikštį Datą, įsikūrė prie\nDunojaus Noriko pasienyje."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186183
+    - t-001

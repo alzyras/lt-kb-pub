@@ -31,7 +31,6 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
 
 <a id="claim-t-197370"></a>
 - t-002
-  global_id: t-197370
   teiginys: "Pirmasis primena jau žinomą pragaro dievą, antrasis užra šas susideda iš dviejų žodžių: Nija reiškė slavų Cereros arba lietuvių Krūminės vardą; Ola lietuviškai - katakomba, pože minis urvas16."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -42,16 +41,6 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
   pagrindžia:
     - c-179152
 
-<a id="claim-t-189155"></a>
-- t-001
-  global_id: t-189155
-  teiginys: 'Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir išradėją, dar vadintą Pradžių Warpu arba Brandžiu-Warpu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys paverstas pilnu sakiniu apie Krūminę ir jos alternatyvius vardus. Mitologinė funkcija išlaikyta su Narbuto atribucija, be papildomų etimologinių išvadų.'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir išradėją, dar vadintą Pradžių Warpu arba Brandžiu-Warpu.'
@@ -70,11 +59,9 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
     kovskis, o deivei.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189155
+  statusas: verified
 ## Citatos
 
 - id: c-179152
@@ -100,4 +87,4 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197370
+    - t-002

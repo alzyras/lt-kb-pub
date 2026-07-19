@@ -32,7 +32,6 @@ Atrodo, kad anoji liejykla buvusi toje vieto­ je, kur dabar stovi Medicinos Chi
 
 <a id="claim-t-86172"></a>
 - t-001
-  global_id: t-86172
   teiginys: "Belvederiu vadintas Juzefo Mianovskio užmiesčio namas stovėjo spėjamoje senosios liejyklos vietoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Atrodo, kad anoji liejykla buvusi toje vieto­ je, kur dabar stovi Medicinos Chi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86172
+    - t-001

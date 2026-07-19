@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1377 m.'
   - '1458 m.'
@@ -45,7 +46,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 
 <a id="claim-t-12581"></a>
 - t-001
-  global_id: t-12581
   teiginys: "Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje."
   atnaujinta: "2026-07-12 23:05"
   sprendimo_priezastis: "auto"
@@ -56,8 +56,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     - c-14711
 
 <a id="claim-t-12582"></a>
-- t-002
-  global_id: t-12582
+- t-003
   teiginys: "Seniūnas turėjo teismo valdžią ir vietininko teises."
   atnaujinta: "2026-07-12 23:05"
   sprendimo_priezastis: "auto"
@@ -69,10 +68,9 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     - c-14712
 
 <a id="claim-t-187529"></a>
-- t-004
-  global_id: t-187529
+- t-008
   teiginys: "Algirdo valdymo laikotarpiu Vilniaus ir Trakų vaivadų pareigybių dar nebuvo; iki 1413 m. panašias funkcijas vykdė seniūnai."
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-07-19 17:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,12 +89,11 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
   pagrindžia:
     - c-183732
-    - c-003
+
 <a id="claim-t-193157"></a>
-- t-003
-  global_id: t-193157
+- t-009
   teiginys: "Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete."
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -104,10 +101,10 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175909
+    - c-183731
 
 <a id="claim-t-200400"></a>
-- t-005
-  global_id: t-200400
+- t-002
   teiginys: "1411 m. Vytautas pats paskyrė seniūną iš Ordino atgautai Žemaitijai."
   atnaujinta: "2026-07-12 23:05"
   sprendimo_priezastis: "auto"
@@ -119,6 +116,18 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14712
+
+<a id="claim-t-201507"></a>
+- t-010
+  teiginys: "Jį administravo įvairiai vadinami valdovo skirti pareigūnai - vietininkai, seniūnai."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184854
 - susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200523|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: Benediktas Tyzenhauzas buvo Ukmergės seniūnas.
 - susijęs iš [[objektai/asmenys/Hanulas, arba Hanka.md#claim-t-87511|Hanulas, arba Hanka]]: Hanulas autentiškame 1385 m. Vladislovo Jogailos laiške vadinamas Hanka, Vilniaus seniūnu.
 - susijęs iš [[objektai/asmenys/Kinsgaila.md#claim-t-30330|Kinsgaila]]: Kinsgaila buvo Ukmergės seniūnas ir vienas iš sąjungininkų pusės vadų.
@@ -236,8 +245,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187529
+
 ## Citatos
 
 - id: c-14711
@@ -255,7 +263,8 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12581
+    - t-001
+
 - id: c-14712
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -274,8 +283,9 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12582
-    - t-200400
+    - t-003
+    - t-002
+
 - id: c-175909
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -296,7 +306,8 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193157
+    - t-009
+
 - id: c-183731
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -313,10 +324,12 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     vadinami laikytojais (tenutarii).
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
 - id: c-183732
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -332,17 +345,28 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     iš Lenkijos ir daugiausia iš Krokuvos, nes vilniškio pranciškonų
     vienuolyno, kaip ir krokuviškio, pavadinimas turėjo tų patį prie-
     vardj — „in Arena" arba „na Piaskach".
-  citata_rodoma: |
-    4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
-    kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias
-    j vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas
-    iš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus
-    vaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­
-    tautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458).
+  citata_rodoma: "4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­\nkotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias \nj vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas \niš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus \nvaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­\ntautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458)."
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187529
+    - t-008
+
+- id: c-184854
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Tenka aptarti šio administracinio vieneto pavadinimą. Jį administravo įvairiai va-
+    dinami valdovo skirti pareigūnai - vietininkai, seniūnai. Jų galias ir santykį su Kauno
+    miestu aptarsime toliau, dabar galima pasakyti, kad atsižvelgiant į pareigūnų įvardi­
+    jimus administracinį vienetą galima būtų vadinti vietininkyste ar seniūnija.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010

@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-87277"></a>
 - t-001
-  global_id: t-87277
   teiginys: "1430 m. spalio 30 d. Trakuose mirusio Vytauto palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,4 +97,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87277
+    - t-001

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20167"></a>
 - t-001
-  global_id: t-20167
   teiginys: "1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė buvo Baltijos valstybių politinė ir diplomatinė sąjunga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,12 +86,11 @@ Nenurodyta
     12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-
     ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,
     socialinį, teisinį ir administracinį bendradarbiavimą.
-  citata_rodoma: |
-    ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,
+  citata_rodoma: "ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20167
+    - t-001

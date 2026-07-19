@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87041"></a>
-- t-001
-  global_id: t-87041
+- t-002
   teiginys: "Žygimanto Augusto pradėti Šv. Onos bažnyčios pilyje pastatai jam gyvam esant nebuvo užbaigti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-83020
 
 <a id="claim-t-87042"></a>
-- t-002
-  global_id: t-87042
+- t-001
   teiginys: "Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos atminimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,7 +126,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87041
+    - t-002
+
 - id: c-83021
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -153,4 +152,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87042
+    - t-001

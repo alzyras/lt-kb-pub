@@ -47,19 +47,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195329"></a>
-- t-001
-  global_id: t-195329
-  teiginys: "Trumpas spragilo dalies paminėjimas su regioniniu pavadinimo variantu."
-  atnaujinta: "2026-07-12 01:47"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177722
-- susijęs iš [[objektai/paprociai/Klojime pasakojamos pasakos ir juokai.md#claim-t-195371|Klojime pasakojamos pasakos ir juokai]]: Klojimo juokai ir vienas juokingas žodis galėjo išlaikyti gerą nuotaiką keliems rytams.
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -77,12 +64,13 @@ Nenurodyta
     Pramogos užtekdavo keliems rytams.
     Kitą
     sykį mergaitė pasakė, kad spragilo siautuvė kitur vadinasi „keltuve“ .
-  citata_rodoma: |
-    Kitą sykį mergaitė pasakė, kad spragilo siautuvė kitur vadinasi „keltuve“ .
+  citata_rodoma: "Kitą sykį mergaitė pasakė, kad spragilo siautuvė kitur vadinasi „keltuve“ ."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195329
+## Teiginiai
+
+- susijęs iš [[objektai/paprociai/Klojime pasakojamos pasakos ir juokai.md#claim-t-195371|Klojime pasakojamos pasakos ir juokai]]: Klojimo juokai ir vienas juokingas žodis galėjo išlaikyti gerą nuotaiką keliems rytams.

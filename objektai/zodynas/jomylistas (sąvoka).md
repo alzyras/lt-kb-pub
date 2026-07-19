@@ -33,7 +33,6 @@ Tenai mistras bruko karaliui savo bendrą Gedunę, arba Gadunę, senį, jomylist
 
 <a id="claim-t-201219"></a>
 - t-001
-  global_id: t-201219
   teiginys: "Tenai mistras bruko karaliui savo bendrą Gedunę, arba Gadunę, senį, jomylistą samionų, sūnų Visgaudžio, kurio karalius klausė, kaip jam regis, ar gal jis su tokia galybe nuveikti samioms."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Tenai mistras bruko karaliui savo bendrą Gedunę, arba Gadunę, senį, jomylist
 ## Citatos
 
 - id: c-184569
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mistras pats kryžėjų su didžia iškilme
     priėmė Otokarą karalių, su kurio kariauna susinė­
@@ -66,4 +66,4 @@ Tenai mistras bruko karaliui savo bendrą Gedunę, arba Gadunę, senį, jomylist
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201219
+    - t-001

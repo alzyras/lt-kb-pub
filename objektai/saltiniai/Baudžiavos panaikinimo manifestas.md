@@ -37,7 +37,6 @@ Baudžiavos panaikinimo manifestas buvo paruoštas Petrapily ir paskelbtas 1861 
 
 <a id="claim-t-02139"></a>
 - t-001
-  global_id: t-02139
   teiginys: "1861 m. vasario 19 d. paskelbtu Baudžiavos panaikinimo manifestu Rusijos imperijoje panaikinta baudžiava."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,15 +69,11 @@ Baudžiavos panaikinimo manifestas buvo paruoštas Petrapily ir paskelbtas 1861 
     pily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos impe-
     rijoje buvo panaikinta baudžiava, o valstiečiams
     duota teisė per 49 metus išsipirkti žemę.
-  citata_rodoma: |
-    **Baudžiavos panaikinimo manifestas** buvo paruoštas Petra-
-    pily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos impe-
-    rijoje buvo panaikinta baudžiava, o valstiečiams
-    duota teisė per 49 metus išsipirkti žemę.
+  citata_rodoma: "**Baudžiavos panaikinimo manifestas** buvo paruoštas Petra-\npily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos impe-\nrijoje buvo panaikinta baudžiava, o valstiečiams\nduota teisė per 49 metus išsipirkti žemę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02139
+    - t-001

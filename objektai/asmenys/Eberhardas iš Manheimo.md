@@ -40,7 +40,6 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 
 <a id="claim-t-60270"></a>
 - t-001
-  global_id: t-60270
   teiginys: "1330 m. Rygos miestiečiai patikėjo miestą, šeimas, laisves ir privilegijas Livonijos magistrui Eberhardui iš Manheimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,7 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Rygos miesto sugriovimą
+    16. Apie Rygos miesto sugriovimą
 
       Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos
     miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė)
@@ -76,22 +75,11 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
     magistrui, bei broliams tam, kad jie viską tvarkytų ir rikiuotų, kaip jiems rodysis tinkama.
     Magistras tol nekėlė kojos  į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
     spraga.
-  citata_rodoma: |
-    Apie Rygos miesto sugriovimą
-
-      Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos
-    miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė)
-    Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė laikinai aprimo; didėjant
-    nepritekliui ir stiprėjant nesantaikai, kurios su baime laukta kilsiant tarp miesto valdytojų
-    ir paprastų žmonių, miestiečiai turėjo ir save, ir savo šeimas, ir miestą, ir savo laisves
-    bei visas teises ir privilegijas patikėti broliui Eberhardui iš Manheimo, Livonijos žemės
-    magistrui, bei broliams tam, kad jie viską tvarkytų ir rikiuotų, kaip jiems rodysis tinkama.
-    Magistras tol nekėlė kojos  į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
-    spraga.
+  citata_rodoma: "Apie Rygos miesto sugriovimą\n\n  Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos\nmiestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė)\nRygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė laikinai aprimo; didėjant\nnepritekliui ir stiprėjant nesantaikai, kurios su baime laukta kilsiant tarp miesto valdytojų\nir paprastų žmonių, miestiečiai turėjo ir save, ir savo šeimas, ir miestą, ir savo laisves\nbei visas teises ir privilegijas patikėti broliui Eberhardui iš Manheimo, Livonijos žemės\nmagistrui, bei broliams tam, kad jie viską tvarkytų ir rikiuotų, kaip jiems rodysis tinkama.\nMagistras tol nekėlė kojos  į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio\nspraga."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60270
+    - t-001

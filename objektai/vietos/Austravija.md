@@ -30,7 +30,6 @@ Narbutas rašo, kad Fosas Austraviją, arba Glesariją, tapatino su fryzų Amela
 
 <a id="claim-t-192917"></a>
 - t-001
-  global_id: t-192917
   teiginys: "Narbutas rašo, kad Fosas Austraviją, arba Glesariją, tapatino su fryzų Amelando sala, nors pats tokį aiškinimą vadino nepatikimu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Narbutas rašo, kad Fosas Austraviją, arba Glesariją, tapatino su fryzų Amela
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192917
+    - t-001

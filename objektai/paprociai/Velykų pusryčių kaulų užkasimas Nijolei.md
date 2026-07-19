@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189949"></a>
 - t-001
-  global_id: t-189949
   teiginys: "Narbutas rašė, kad Lietuvoje ūkininkai Velykų pusryčių kaulus surinkdavo ir užkasdavo į žemę, vadindami juos Nijolės palaikais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189949
+    - t-001

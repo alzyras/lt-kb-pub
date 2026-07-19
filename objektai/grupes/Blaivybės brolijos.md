@@ -44,7 +44,6 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
 
 <a id="claim-t-19661"></a>
 - t-001
-  global_id: t-19661
   teiginys: "Blaivybės brolijoms priklausė per 80 proc. vyskupijos gyventojų katalikų."
   atnaujinta: "2026-07-12 05:44"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
 
 <a id="claim-t-195529"></a>
 - t-002
-  global_id: t-195529
   teiginys: "Vyskupas Valančius 1858 m. įvedė Blaivybės Broliją kaip priemonę įsisiautėjusiam girtuokliavimui nutraukti."
   atnaujinta: "2026-07-12 05:44"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
 
 <a id="claim-t-195530"></a>
 - t-003
-  global_id: t-195530
   teiginys: "Norintieji pristoti prie blaivybės brolijos turėjo prisiekti iki mirties neragauti degtinės."
   atnaujinta: "2026-07-12 05:44"
   sprendimo_priezastis: "auto"
@@ -87,18 +84,16 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
 
 <a id="claim-t-195531"></a>
 - t-004
-  global_id: t-195531
   teiginys: "Blaivybės brolijų plitimas siejamas su bravarų užgesimu ir gertuvių ištuštėjimu."
-  atnaujinta: "2026-07-12 05:59"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177949
+    - c-177947
 
 <a id="claim-t-195533"></a>
 - t-005
-  global_id: t-195533
   teiginys: "Aprašyta blaivybės būklė tęsėsi iki 1863 m. sukilimo."
   atnaujinta: "2026-07-12 05:59"
   sprendimo_priezastis: "auto"
@@ -123,23 +118,15 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-
     Motiejus Valančius iš J. K. Vilčinskio
     „Vilniaus albumo“.
-  citata_rodoma: |
-    Ne-
-    gana to, 1858 m. M.  Valančius,
-    remdamasis kituose katalikiškuo-
-    se kraštuose platinamomis blai-
-    vybės idėjomis, inicijavo blaivybės sąjūdį. Po poros metų šių blaivybės
-    brolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi
-    lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-
-    Motiejus Valančius iš J. K. Vilčinskio
-    „Vilniaus albumo“.
+  citata_rodoma: "Ne-\ngana to, 1858 m. M.  Valančius, \nremdamasis kituose katalikiškuo-\nse kraštuose platinamomis blai-\nvybės idėjomis, inicijavo blaivybės sąjūdį. Po poros metų šių blaivybės \nbrolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi \nlietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-\nMotiejus Valančius iš J. K. Vilčinskio  \n„Vilniaus albumo“."
   statusas: verified
   atnaujinta: "2026-07-12 05:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19661
+    - t-001
+
 - id: c-177947
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -157,15 +144,16 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     į degtinę.
     Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžu­
     siam girtuokliavimui, įvesdamas „Blaivybės Broliją“ .
-  citata_rodoma: |
-    Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžusiam girtuokliavimui, įvesdamas „Blaivybės Broliją“.
+  citata_rodoma: "Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžusiam girtuokliavimui, įvesdamas „Blaivybės Broliją“."
   statusas: verified
   atnaujinta: "2026-07-12 05:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195529
+    - t-002
+    - t-004
+
 - id: c-177948
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -177,15 +165,15 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     ne degtinė, bet vynas; žmonės, išsiilgę stiprumo, buvo linkę tikėti, kad
     tai teisybė, — ir vienas kitas ėmė gerti likerį. Tokia dalykų būklė tę­
     sėsi ligi 1863 metų, ligi sukilimo.
-  citata_rodoma: |
-    Tokia dalykų būklė tęsėsi ligi 1863 metų, ligi sukilimo.
+  citata_rodoma: "Tokia dalykų būklė tęsėsi ligi 1863 metų, ligi sukilimo."
   statusas: verified
   atnaujinta: "2026-07-12 05:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195533
+    - t-005
+
 - id: c-177949
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -198,15 +186,13 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     Buvo ir tokių, kurie sakė: „Nei aš1: sieksiu, nei aš gersiu.“ Svie­
     tas siekė ir pildė priesaiką, ir bravarai užgeso, gertuvės patuštėjo, lan­
     gai jų išdaužyti, gyvenusieji jose žydai išsidangino.
-  citata_rodoma: |
-    Svietas siekė ir pildė priesaiką, ir bravarai užgeso, gertuvės patuštėjo, langai jų išdaužyti, gyvenusieji jose žydai išsidangino.
+  citata_rodoma: "Svietas siekė ir pildė priesaiką, ir bravarai užgeso, gertuvės patuštėjo, langai jų išdaužyti, gyvenusieji jose žydai išsidangino."
   statusas: verified
   atnaujinta: "2026-07-12 05:44"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195531
 - id: c-177950
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -219,12 +205,11 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     skelbti blaivybę su dideliais atlaidais.
     Norintieji pristoti prie brolijos,
     turėjo prisiekti iki mirties neragauti degtinės.
-  citata_rodoma: |
-    Norintieji pristoti prie brolijos, turėjo prisiekti iki mirties neragauti degtinės.
+  citata_rodoma: "Norintieji pristoti prie brolijos, turėjo prisiekti iki mirties neragauti degtinės."
   statusas: verified
   atnaujinta: "2026-07-12 05:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195530
+    - t-003

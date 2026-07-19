@@ -31,7 +31,6 @@ Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negę
 
 <a id="claim-t-59137"></a>
 - t-001
-  global_id: t-59137
   teiginys: "Be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,14 +64,11 @@ Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negę
     iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
     senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet,
     žinoma, [tikėjo] ne taip, kaip dera.
-  citata_rodoma: |
-    Be to, jie garbino, kaip buvo įprasta
-    senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet,
-    žinoma, [tikėjo] ne taip, kaip dera.
+  citata_rodoma: "Be to, jie garbino, kaip buvo įprasta\nsenovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet,\nžinoma, [tikėjo] ne taip, kaip dera."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59137
+    - t-001

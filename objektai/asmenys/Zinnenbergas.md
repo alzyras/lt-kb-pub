@@ -39,7 +39,6 @@ Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas 
 
 <a id="claim-t-87893"></a>
 - t-001
-  global_id: t-87893
   teiginys: "1323 metų pradžioje riteriai Zinnenbergas ir Egerbergas atvyko su stipriu kilmingų karių ir vasalų pulku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87893
+    - t-001

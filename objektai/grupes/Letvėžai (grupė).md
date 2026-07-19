@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-201247"></a>
 - t-001
-  global_id: t-201247
   teiginys: "7-oji dalis Lietuvos iros . I Žinios grekonų apie lietuvių bei žemaičių tautą Gilioj senovėj visi tie kraštai, kuriuose šiandien gyvena lietuviai žemaičiai, vadinami prūsais, žem galiais, letvėžais, yra amžina nakčia nežinios apgob ti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184597
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Sigismuntas III Augustas 1540—1572.
     7-oji dalis
@@ -75,4 +75,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201247
+    - t-001

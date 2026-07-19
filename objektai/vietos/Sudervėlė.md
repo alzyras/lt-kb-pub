@@ -32,7 +32,6 @@ To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuoči
 
 <a id="claim-t-86240"></a>
 - t-001
-  global_id: t-86240
   teiginys: "Prie Sudervėlės upelio buvo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuoči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86240
+    - t-001

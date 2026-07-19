@@ -39,7 +39,6 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 
 <a id="claim-t-181244"></a>
 - t-001
-  global_id: t-181244
   teiginys: "Po Barboros Radvilaitės mirties Zigmantas Augustas vedė Habsburgaitę, bet su ja negyveno, o ji išvyko į Vieną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 
 <a id="claim-t-182891"></a>
 - t-002
-  global_id: t-182891
   teiginys: "Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytų Vengrijos ir Čekijos."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 
 <a id="claim-t-193091"></a>
 - t-003
-  global_id: t-193091
   teiginys: "Visi kaimynai valdovai ruošėsi po jo mirties įžengti į Lietuvos ir Lenkijos sostus, o ypač tuo rūpinosi Austrų Habsburgai ir caras Jonas IV."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -116,17 +113,15 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
     Barborai mirus, jis vedė pirmosios žmonos seserį Habsburgaitę, ta-
     čiau su ja negyveno; ji išvažiavo į Vieną. Negaudamas persisky-
     rimo, jis nebegalėjo vesti.
-  citata_rodoma: |
-    Visi laukė anksti pasenusio Zigmanto Au-
-    gusto mirties. Visi kaimynai valdovai ruošėsi po jo mirties įžengti į Lietuvos ir Lenkijos sostus, o ypač tuo rūpinosi Aus-
-    trų Habsburgai ir caras Jonas IV.
+  citata_rodoma: "Visi laukė anksti pasenusio Zigmanto Au-\ngusto mirties. Visi kaimynai valdovai ruošėsi po jo mirties įžengti į Lietuvos ir Lenkijos sostus, o ypač tuo rūpinosi Aus-\ntrų Habsburgai ir caras Jonas IV."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181244
+    - t-001
+
 - id: c-166295
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -144,7 +139,8 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182891
+    - t-002
+
 - id: c-175855
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -161,4 +157,4 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193091
+    - t-003

@@ -40,7 +40,6 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
 
 <a id="claim-t-175145"></a>
 - t-001
-  global_id: t-175145
   teiginys: "M. Perlbachas teigė, kad nuo 1289 metų Petras Dusburgietis jau gyveno Prūsijoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,10 +56,9 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai sieja šią nuomonę su M. Perlbachu."
   pagrindžia:
     - c-159300
-    - c-002
+
 <a id="claim-t-175146"></a>
-- t-002
-  global_id: t-175146
+- t-003
   teiginys: "M. Perlbachas nagrinėtas aiškinant Dusburgiečio pasakojimo ryšį su 1230 ir 1232 metų popiežiaus bulėmis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,23 +72,6 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159299
-
-<a id="claim-t-175148"></a>
-- t-003
-  global_id: t-175148
-  teiginys: "M. Perlbachas rašė apie senesniąją Olivos kroniką."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Oliva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "M. Perlbachas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Oliva: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Perlbachas\" parinktas kaip owner_note_path. Targetas \"Oliva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-159302
 - susijęs iš 1230 m. Krušvicos falsifikatas: M. Perlbachas nurodė, kad Dusburgietis Konrado ir Ordino sutartis nušvietė pagal Ordino 1230 m. Krušvicos falsifikatą.
 - susijęs iš 1230 m. Krušvicos falsifikatas: M. Perlbachas nurodė, kad Dusburgietis Konrado ir Ordino sutartis nušvietė pagal Ordino 1230 m. Krušvicos falsifikatą.
 - susijęs iš 1230 m. rugsėjo 12 d. popiežiaus bulė: M. Perlbachas nurodė, kad Dusburgietis panaudojo 1230 m. rugsėjo 12 d. popiežiaus bulę, patvirtinusią Konrado ir Ordino sutartį.
@@ -110,8 +91,7 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175145
+
 ## Citatos
 
 - id: c-159299
@@ -150,7 +130,8 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175146
+    - t-003
+
 - id: c-159300
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -162,17 +143,15 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
     didžiojo magistro rezidencijoje, naudodamasis ten saugomu Ordinu archyvu, kad galėjęs
     pasirodyti Prūsijoje ir kiek vėliau, kai Ordino sostinė buvusi perkelta į Marienburgą
     (1309 m.) (M. Poliakuvna).
-  citata_rodoma: |
-    Iš kronikos faktologinės medžiagos matyti, kad nuo 1289 m. veikale randasi daugiau
-    detalių, tikslesnių datų, todėl kartais tvirtinama (M. Perlbachas), jog nuo tada Dusburgietis
-    jau gyvenęs Prūsijoje.
+  citata_rodoma: "Iš kronikos faktologinės medžiagos matyti, kad nuo 1289 m. veikale randasi daugiau\ndetalių, tikslesnių datų, todėl kartais tvirtinama (M. Perlbachas), jog nuo tada Dusburgietis\njau gyvenęs Prūsijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175145
+    - t-001
+
 - id: c-159302
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -184,16 +163,9 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
     143  PD, III, 7, 66; SRP, B. 5, S. 597; Perlbach M. Die Aeltere Chronik von Oliva, S.
     60; PKD, s. 101.
     144  SRP, B. 5, S. 162.
-  citata_rodoma: |
-    Petras iš Dusburgo akcentuoja, kad Prūsijoje kariaujama prieš „tikybos ir bažnyčios
-    priešus“ (II, 7), todėl kryžiaus žygių dalyviai eina į karą prieš prūsus ir lietuvius keršyti
-    „už nukryžiuotojo viešpaties kančias“ (III, 8, 71, 296), Prūsijoje kritusių krikščionių
-      143 PD, III, 7, 66; SRP, B. 5, S. 597; Perlbach M. Die Aeltere Chronik von Oliva, S.
-    60; PKD, s. 101.
+  citata_rodoma: "Petras iš Dusburgo akcentuoja, kad Prūsijoje kariaujama prieš „tikybos ir bažnyčios\npriešus“ (II, 7), todėl kryžiaus žygių dalyviai eina į karą prieš prūsus ir lietuvius keršyti\n„už nukryžiuotojo viešpaties kančias“ (III, 8, 71, 296), Prūsijoje kritusių krikščionių\n  143 PD, III, 7, 66; SRP, B. 5, S. 597; Perlbach M. Die Aeltere Chronik von Oliva, S.\n60; PKD, s. 101."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-175148

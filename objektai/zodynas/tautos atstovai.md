@@ -36,8 +36,7 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
 ## Teiginiai
 
 <a id="claim-t-70357"></a>
-- t-001
-  global_id: t-70357
+- t-002
   teiginys: "1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70357
+    - t-002

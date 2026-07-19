@@ -45,8 +45,7 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
 ## Teiginiai
 
 <a id="claim-t-117306"></a>
-- t-001
-  global_id: t-117306
+- t-011
   teiginys: "Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-36964
 
 <a id="claim-t-117307"></a>
-- t-002
-  global_id: t-117307
+- t-007
   teiginys: "Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrrevoliucijos sėkmei."
   atnaujinta: "2026-05-31 12:53"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-36959
 
 <a id="claim-t-117308"></a>
-- t-003
-  global_id: t-117308
+- t-021
   teiginys: "Nutraukęs gerus santykius su vokiečiais, Vytautas turėjo gintis nuo vis smarkesnių jų puldinėjimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,9 +95,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   pagrindžia:
     - c-108019
 
-<a id="claim-t-117313"></a>
-- t-004
-  global_id: t-117313
+<a id="claim-t-117309"></a>
+- t-018
   teiginys: "Vytautui tarnavo daug nelietuvių, tarp jų lenkų ir vokiečių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,8 +112,7 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-36962
 
 <a id="claim-t-117310"></a>
-- t-005
-  global_id: t-117310
+- t-006
   teiginys: "Vokiečiai, sužinoję apie lietuvių įsiveržimą, antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -133,9 +128,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   pagrindžia:
     - c-36958
     - c-167611
+
 <a id="claim-t-117311"></a>
-- t-006
-  global_id: t-117311
+- t-008
   teiginys: "Naugardiečiai teigė su vokiečiais sudarę atskirą taikos sutartį."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -152,8 +147,7 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-36960
 
 <a id="claim-t-117314"></a>
-- t-007
-  global_id: t-117314
+- t-016
   teiginys: "Naugardiečiai teigė turėję atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -170,8 +164,7 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-36960
 
 <a id="claim-t-117315"></a>
-- t-008
-  global_id: t-117315
+- t-010
   teiginys: "Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -186,9 +179,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   pagrindžia:
     - c-36963
     - c-108024
+
 <a id="claim-t-117317"></a>
-- t-009
-  global_id: t-117317
+- t-015
   teiginys: "Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų bendruomenės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -205,8 +198,7 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-108020
 
 <a id="claim-t-117318"></a>
-- t-010
-  global_id: t-117318
+- t-019
   teiginys: "Vytauto tarnyboje buvo įvairių svetimšalių, ypač lenkų ir vokiečių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -223,8 +215,7 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-36964
 
 <a id="claim-t-117319"></a>
-- t-011
-  global_id: t-117319
+- t-014
   teiginys: "Gediminas kvietė vokiečių riterius, pirklius, amatininkus ir valstiečius atvykti į Lietuvą bei čia įsikurti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -243,8 +234,7 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-108018
 
 <a id="claim-t-183197"></a>
-- t-012
-  global_id: t-183197
+- t-022
   teiginys: "Valdovams kviečiant pirklius ir amatininkus iš svetur, Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -264,8 +254,7 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-166584
 
 <a id="claim-t-184587"></a>
-- t-013
-  global_id: t-184587
+- t-024
   teiginys: "Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos iš šiaurės."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -287,8 +276,7 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-167948
 
 <a id="claim-t-184588"></a>
-- t-014
-  global_id: t-184588
+- t-025
   teiginys: "Kojelavičius 1225 m. mini kaip metus, kai Livonijos vokiečiai pirmą kartą patyrė stambų pralaimėjimą nuo lietuvių ir žemaičių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -312,10 +300,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-167949
 
 <a id="claim-t-188358"></a>
-- t-015
-  global_id: t-188358
+- t-001
   teiginys: "Narbutas rašė, kad senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“ ir „Belewitt“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -332,10 +319,9 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     - c-171251
 
 <a id="claim-t-188359"></a>
-- t-016
-  global_id: t-188359
+- t-002
   teiginys: "Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai rašiusį apie kryžiuočius ir vokiečių tautą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1689,7 +1675,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117310
+    - t-006
+
 - id: c-36959
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1709,7 +1696,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117307
+    - t-007
+
 - id: c-36960
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1725,22 +1713,16 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     koaliciją nuginkluoti rytų koalicijos planu, nukreiptu prieš kar­
     dininkus ir kryžiuočius. Šitą koaliciją rėmė ir Jogaila su Pa­
     mario kunigaikščių sąjunga.
-  citata_rodoma: |
-    Naugardiečiai atsakė,
-    kad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais
-    yra padarę atskiras taikos sutartis, čia nieko nelaimėjęs, Vy­
-    tautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą
-    koaliciją nuginkluoti rytų koalicijos planu, nukreiptu prieš kar­
-    dininkus ir kryžiuočius. Šitą koaliciją rėmė ir Jogaila su Pa­
-    mario kunigaikščių sąjunga.
+  citata_rodoma: "Naugardiečiai atsakė,\nkad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais\nyra padarę atskiras taikos sutartis, čia nieko nelaimėjęs, Vy­\ntautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą\nkoaliciją nuginkluoti rytų koalicijos planu, nukreiptu prieš kar­\ndininkus ir kryžiuočius. Šitą koaliciją rėmė ir Jogaila su Pa­\nmario kunigaikščių sąjunga."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117311
-    - t-117314
+    - t-008
+    - t-016
+
 - id: c-36962
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1752,18 +1734,15 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     jai ir buvo lietuviai, bet jam tarnavo daug ir nelietuvių: lenkų,
     vokiečių. Visi jie, kaip ir pats kunigaikštis, buvo praktiškai nu­
     siteikę žmonės: juristai, diplomatai, technikai, vertėjai.
-  citata_rodoma: |
-    Nors vyriausieji jo padėjė­
-    jai ir buvo lietuviai, bet jam tarnavo daug ir nelietuvių: lenkų,
-    vokiečių. Visi jie, kaip ir pats kunigaikštis, buvo praktiškai nu­
-    siteikę žmonės: juristai, diplomatai, technikai, vertėjai.
+  citata_rodoma: "Nors vyriausieji jo padėjė­\njai ir buvo lietuviai, bet jam tarnavo daug ir nelietuvių: lenkų,\nvokiečių. Visi jie, kaip ir pats kunigaikštis, buvo praktiškai nu­\nsiteikę žmonės: juristai, diplomatai, technikai, vertėjai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117313
+    - t-018
+
 - id: c-36963
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1783,7 +1762,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117315
+    - t-010
+
 - id: c-36964
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1798,22 +1778,16 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     gaikštis įsigijo labai daug, nes jo tiesioginėn žinion perėjo buvu­
     siųjų sričių kunigaikščių dvarai, bet apie tą tiesioginių žinių mes
     veik neturime.
-  citata_rodoma: |
-    Jo tarnyboje mes ga­
-    lime užtikti įvairių svetimšalių, o labiausiai lenkų ir vokiečių.
-    Aiškus dalykas, kad nemažą įtaką Vytautas bus padaręs že­
-    mės eksploatacijai per savo dvarus, o jų jo laikais didysis kuni­
-    gaikštis įsigijo labai daug, nes jo tiesioginėn žinion perėjo buvu­
-    siųjų sričių kunigaikščių dvarai, bet apie tą tiesioginių žinių mes
-    veik neturime.
+  citata_rodoma: "Jo tarnyboje mes ga­\nlime užtikti įvairių svetimšalių, o labiausiai lenkų ir vokiečių.\nAiškus dalykas, kad nemažą įtaką Vytautas bus padaręs že­\nmės eksploatacijai per savo dvarus, o jų jo laikais didysis kuni­\ngaikštis įsigijo labai daug, nes jo tiesioginėn žinion perėjo buvu­\nsiųjų sričių kunigaikščių dvarai, bet apie tą tiesioginių žinių mes\nveik neturime."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117306
-    - t-117318
+    - t-011
+    - t-019
+
 - id: c-108018
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1824,17 +1798,15 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     tinių tartis dėl krikšto. Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių
     riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias vei-
     klos sąlygas kaip Europoje. Tačiau 1323–1324 m.
-  citata_rodoma: |
-    Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių
-    riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias vei-
-    klos sąlygas kaip Europoje. Tačiau 1323–1324 m.
+  citata_rodoma: "Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių \nriterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias vei-\nklos sąlygas kaip Europoje. Tačiau 1323–1324 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117319
+    - t-014
+
 - id: c-108019
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1851,7 +1823,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117308
+    - t-021
+
 - id: c-108020
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1868,7 +1841,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117317
+    - t-015
+
 - id: c-108024
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1884,10 +1858,12 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     kams, į pietų Rusiją totoriams, į miestus vokiečiams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
 - id: c-166584
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1903,7 +1879,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183197
+    - t-022
+
 - id: c-167611
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1918,10 +1895,12 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     zuota daug Prūsų krašto gyventojų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-167948
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1946,35 +1925,15 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     pjaustyti nosis bei ausis; šitaip sudarkyti, jie turėję
     pranešti kunigaikščiui: „Tegu galop liaujasi skitai lie­
     tuviams kalbėję apie duoklę.
-  citata_rodoma: |
-    Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-
-    93
-
-    ## Puslapis 84
-
-    1221 m e ta i
-    K u k o v a itis — L ietu ­
-    v o s  ir Ž e m a itijo s k u ­
-    n ig a ik štis
-    gojo taiką, būdamas beveik
-    iš visų pusių apsuptas bičiu­
-    lių; vakaruose—prūsų- rytuo­
-    se — brolio Ginvilos, Poloc­
-    ko kunigaikščio, pietuose
-    jotvingių ir Skirmanto, Nau­
-    garduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau
-    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
-    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
-    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
-    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
-    Rusią.
+  citata_rodoma: "Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-\n93\n\n## Puslapis 84\n\n1221 m e ta i\nK u k o v a itis — L ietu ­\nv o s  ir Ž e m a itijo s k u ­\nn ig a ik štis\ngojo taiką, būdamas beveik\niš visų pusių apsuptas bičiu­\nlių; vakaruose—prūsų- rytuo­\nse — brolio Ginvilos, Poloc­\nko kunigaikščio, pietuose\njotvingių ir Skirmanto, Nau­\ngarduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau\ntos pusės saugumą laidavo tai, kad vokiečiai ir latviai,\nįsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti\nLietuvos. Todėl, būdamas ramus dėl vidaus reikalų,\nKukovaitis galėjo siųsti didesnę pagalbą Skirmantui į\nRusią."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184587
+    - t-024
+
 - id: c-167949
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2015,7 +1974,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184588
+    - t-025
+
 - id: c-171251
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2030,23 +1990,15 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     buvo deivė, kaip vadinosi vyriausiasis dievas. Deivės vardas
     buvo IJetuva, jos vyro - Trinetas (Trinytis? - R.J.), dukters -
     Dalia (Dala) arba Dahla.
-  citata_rodoma: |
-    Lietuvos rusinai savo pasakojimuose taip pat mini
-    Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
-    tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
-    bloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,
-    „Belewitt“**.
-    9
-    Gera lietuvių kalba mundus reiškia pasaulį apskritai, todėl Na-
-    rvmund -  pasaulio pakraštys, Giarymund -  gerasis pasaulis, Zyg-
-    mund -  kitoniškas (skirtingas) pasaulis*.
+  citata_rodoma: "Lietuvos rusinai savo pasakojimuose taip pat mini\nDolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­\ntūna, būdama permaininga, vieniems būdavo gera, o kitiems -\nbloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,\n„Belewitt“**.\n9\nGera lietuvių kalba mundus reiškia pasaulį apskritai, todėl Na-\nrvmund -  pasaulio pakraštys, Giarymund -  gerasis pasaulis, Zyg-\nmund -  kitoniškas (skirtingas) pasaulis*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188358
+    - t-001
+
 - id: c-171252
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2073,24 +2025,15 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
     skolintas iš Hartknocho, kuris nerūpestingai prikaišiojo jų į
     savo Prūsijos istorijos aprašymus ' ir šiandien tikrai atšauktų,
     jeigu perskaitytų, ką mes čia tuo klausimu išdėstėme.
-  citata_rodoma: |
-    1.
-    Seniausias žinomas šito šaltinis yra Simonas Grunau,
-    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
-    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
-    šantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug
-    užsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais
-    nekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­
-    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
-    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
-    11 Sirvydo žodynas.
+  citata_rodoma: "1.\nSeniausias žinomas šito šaltinis yra Simonas Grunau,\nnaujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš\ntikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­\nšantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug\nužsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais\nnekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­\nma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų\narba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­\n11 Sirvydo žodynas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188359
+    - t-002
+
 ## Ryšiai
 - Puolė Vokiečiai: [[objektai/asmenys/Jonas Olesnickis]], [[objektai/grupes/Lietuviai]]
 - Kariavo prieš: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Parusėnai]]

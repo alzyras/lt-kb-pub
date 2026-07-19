@@ -36,8 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78383"></a>
-- t-001
-  global_id: t-78383
+- t-002
   teiginys: "Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ media_all_json: |-
     - c-75667
 
 <a id="claim-t-78384"></a>
-- t-002
-  global_id: t-78384
+- t-001
   teiginys: "1561 m. Livonijos konfederacijai nustojus egzistuoti, likusi jos dalis padalyta į Kuršo ir Livonijos kunigaikštystes, atitekusias Lietuvai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,6 @@ media_all_json: |-
 
 <a id="claim-t-78385"></a>
 - t-003
-  global_id: t-78385
   teiginys: "Steponas Batoras ir Mikalojus Radvila Rudasis laikė būtina atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,7 +111,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78384
+    - t-001
+
 - id: c-75667
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -139,28 +137,12 @@ media_all_json: |-
     problemų kėlusius Krymo totorius
     ir tuomet jie vėl suaktyvino savo
     veiksmus Livonijoje.
-  citata_rodoma: |
-    Karalius Steponas Batoras ir LDK
-    didysis etmonas Mikalojus Radvila
-    Rudasis suvokė, kad
-    siekiant nutraukti rusų
-    veržimąsi į Livoniją rei-
-    kia atkirsti Livonijos teritoriją nuo
-    Rusijos ir perkelti karo veiksmus
-
-    Vengriškasis-lenkiškasis kardas. Tokie
-    kardai kilo iš Vengrijos, kur jie formavosi turkų
-
-    Po Liublino unijos Livonijos ir Kuršo
-    kunigaikštystės pripažintos bend-
-    romis Lenkijos ir LDK valdomis.
-
-    1572 m.
+  citata_rodoma: "Karalius Steponas Batoras ir LDK\ndidysis etmonas Mikalojus Radvila\nRudasis suvokė, kad\nsiekiant nutraukti rusų\nveržimąsi į Livoniją rei-\nkia atkirsti Livonijos teritoriją nuo\nRusijos ir perkelti karo veiksmus\n\nVengriškasis-lenkiškasis kardas. Tokie\nkardai kilo iš Vengrijos, kur jie formavosi turkų\n\nPo Liublino unijos Livonijos ir Kuršo\nkunigaikštystės pripažintos bend-\nromis Lenkijos ir LDK valdomis.\n\n1572 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78383
-    - t-78385
+    - t-002
+    - t-003

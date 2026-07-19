@@ -12,10 +12,10 @@ datos:
   - '1555 m.'
 date_start: '1551'
 date_end: '1555'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-202285"></a>
 - t-001
-  global_id: t-202285
   teiginys: "1555 m. įrašas Kauno miesto vaito aktų knygoje su miestiečių žymenimis."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202285
+    - t-001

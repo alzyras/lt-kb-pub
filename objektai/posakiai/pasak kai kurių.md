@@ -37,7 +37,6 @@ Dusburgietis teigia, kad kai kuriose vietose Dusburgietis kartais prasitaria ra�
 
 <a id="claim-t-59145"></a>
 - t-001
-  global_id: t-59145
   teiginys: "Dusburgietis kai kuriose vietose nurodė rašantis pagal kitų pasakojimus formule „pasak kai kurių“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,15 +69,11 @@ Dusburgietis teigia, kad kai kuriose vietose Dusburgietis kartais prasitaria ra�
     kryžiuočių pilis Varmės žemėje, Rudino miesto užkariavimus ir kt. (III, 27, 155).
     Minėdamas apie Torunę, Kulmą, Kvediną, jis ne kartą nurodo, kur anksčiau tose vietose
     būta pilių bei miestų (III, 1, 8—9).
-  citata_rodoma: |
-    Kai kuriose vietose Dusburgietis kartais prasitaria rašąs taip, kaip kiti jam kalbėję:
-    „pasak kai kurių“. Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,
-    apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias
-    kryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt.  (III, 27, 155).
+  citata_rodoma: "Kai kuriose vietose Dusburgietis kartais prasitaria rašąs taip, kaip kiti jam kalbėję:\n„pasak kai kurių“. Sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės,\napie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias\nkryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt.  (III, 27, 155)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59145
+    - t-001

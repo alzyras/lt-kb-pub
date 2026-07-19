@@ -33,29 +33,6 @@ media_all_json: |-
 
 Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi žmonės priesaikos metu „dėjo kepures“.
 
-## Teiginiai
-
-<a id="claim-t-190560"></a>
-- t-001
-  global_id: t-190560
-  teiginys: "Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi žmonės priesaikos metu „dėjo kepures“."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senųjų Lietuvos teismų sprendimai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senųjų Lietuvos teismų sprendimai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-173443
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi žmonės priesaikos metu „dėjo kepures“.'
@@ -75,8 +52,7 @@ Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190560
+
 ## Citatos
 
 - id: c-173443
@@ -95,20 +71,33 @@ Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi
     tarimuose nustatytą dienų skaičių pažymėdavo įpjovomis ar­
     ba mazgeliais3 4. Tą patį patvirtina liaudies padavimai ir archy­
     vuose išlikę duomenys iš XIII amžiaus.
-  citata_rodoma: |
-    Arntas (Arndt) 17 pa-
-    teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­
-    miečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,
-    subyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis
-    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
-    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
-    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
-    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
-    17 Lieflandische Geschichte (1757 metų leidimas.
+  citata_rodoma: "Arntas (Arndt) 17 pa-\nteilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­\nmiečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,\nsubyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis\nyra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­\nsiremiantys skrutinijomis, arba tardymais, kurių metu liudy­\ntojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­\nkėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17\n17 Lieflandische Geschichte (1757 metų leidimas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190560
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-190560"></a>
+- t-001
+  teiginys: "Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi žmonės priesaikos metu „dėjo kepures“."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senųjų Lietuvos teismų sprendimai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senųjų Lietuvos teismų sprendimai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-173443

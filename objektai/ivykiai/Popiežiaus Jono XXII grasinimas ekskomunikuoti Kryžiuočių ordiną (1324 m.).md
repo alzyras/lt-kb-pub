@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-62900"></a>
 - t-001
-  global_id: t-62900
   teiginys: "1324 m. popiežius Jonas XXII pagrasino ekskomunikuoti Teutonų ordiną dėl Ordino priešų veiklos ir kryžiuočiams keltų kaltinimų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,15 +82,11 @@ Nenurodyta
     padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
     Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo
     Teutonų ordinas.
-  citata_rodoma: |
-    Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
-    padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
-    Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo
-    Teutonų ordinas.
+  citata_rodoma: "Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų\npadarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai\nPrancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo\nTeutonų ordinas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62900
+    - t-001

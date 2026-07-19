@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66821"></a>
-- t-001
-  global_id: t-66821
+- t-002
   teiginys: "Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,8 +69,7 @@ Nenurodyta
     - c-66941
 
 <a id="claim-t-66822"></a>
-- t-002
-  global_id: t-66822
+- t-001
   teiginys: "Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir niokojo juos gaisrais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,6 @@ Nenurodyta
 
 <a id="claim-t-196964"></a>
 - t-003
-  global_id: t-196964
   teiginys: "Apie Lenkijos žemės apiplėšimą Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -116,22 +113,16 @@ Nenurodyta
     neturėdami jėgų atsispirti tokiai daugybei priešų, irgi pasitraukė, tiesa, patyrę nemažų
     nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
     pavyko garbingai išvengti kovos.
-  citata_rodoma: |
-    Apie Paštuvos ir Gaižuvos valsčių apiplėšimą
-
-      Tuo metu  brolis Meinhardas, magistras, nesitenkindamas lietuviams  pridarytais
-    nuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius,
-    viską čia didžiausiais gaisrais niokodamas, tiesa,  į nelaisvę paėmė ir nužudė nedaug
-    žmonių, o grobio irgi mažai išsigabeno. Begrįžtantį jį persekiojo lietuviai ir kelis kartus
-    kapo esantis Pilies (Ramybės) kalnas (atrodo, XV a.
+  citata_rodoma: "Apie Paštuvos ir Gaižuvos valsčių apiplėšimą\n\n  Tuo metu  brolis Meinhardas, magistras, nesitenkindamas lietuviams  pridarytais\nnuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius,\nviską čia didžiausiais gaisrais niokodamas, tiesa,  į nelaisvę paėmė ir nužudė nedaug\nžmonių, o grobio irgi mažai išsigabeno. Begrįžtantį jį persekiojo lietuviai ir kelis kartus\nkapo esantis Pilies (Ramybės) kalnas (atrodo, XV a."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66822
-    - t-196964
+    - t-001
+    - t-003
+
 - id: c-66941
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -166,4 +157,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66821
+    - t-002

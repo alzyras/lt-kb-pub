@@ -42,7 +42,6 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 
 <a id="claim-t-195218"></a>
 - t-001
-  global_id: t-195218
   teiginys: "A. Sabaliauskas rašo, kad „Kalevala“ ir jos kūrėjas Lonnrotas nulėmė A. R. Niemio liaudies dainų tyrimo krypties pasirinkimą."
   atnaujinta: "2026-07-11 22:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -64,14 +63,11 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Matyt, „Kalevala“ ir jos
     kūrėjas Lonnrotas nulėmė Niemiui pasirinkti liaudies dainų tyrimo
     mokslo šaką.
-  citata_rodoma: |
-    Matyt, „Kalevala“ ir jos
-    kūrėjas Lonnrotas nulėmė Niemiui pasirinkti liaudies dainų tyrimo
-    mokslo šaką.
+  citata_rodoma: "Matyt, „Kalevala“ ir jos \nkūrėjas Lonnrotas nulėmė Niemiui pasirinkti liaudies dainų tyrimo \nmokslo šaką."
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195218
+    - t-001

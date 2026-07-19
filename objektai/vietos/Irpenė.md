@@ -37,7 +37,6 @@ Istorinė rusų tradicija keliuose variantuose mini, kad Gediminas paėmė Rusij
 
 <a id="claim-t-41739"></a>
 - t-001
-  global_id: t-41739
   teiginys: "Istorinė rusų tradicija Gediminą prie Irpenės siejo su Kijevo paėmimu ir Kijevo kunigaikštystės prijungimu prie Lietuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,18 +77,11 @@ Istorinė rusų tradicija keliuose variantuose mini, kad Gediminas paėmė Rusij
     tystę prie Lietuvos; Gediminas prie Irpenės
 
     34 AIZKRAUKLĖS MUSIS 1279 m. kovo 5 d.
-  citata_rodoma: |
-    Istorinė
-    rusų tradicija keliuose variantuose mini,
-    kad Gediminas paėmė Rusijos sostinės
-    miestą Kijevą ir prijungė Kijevo kunigaikš-
-    tystę prie Lietuvos; Gediminas prie Irpenės
-
-    34 AIZKRAUKLĖS MUSIS 1279 m.
+  citata_rodoma: "Istorinė\nrusų tradicija keliuose variantuose mini,\nkad Gediminas paėmė Rusijos sostinės\nmiestą Kijevą ir prijungė Kijevo kunigaikš-\ntystę prie Lietuvos; Gediminas prie Irpenės\n\n34 AIZKRAUKLĖS MUSIS 1279 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41739
+    - t-001

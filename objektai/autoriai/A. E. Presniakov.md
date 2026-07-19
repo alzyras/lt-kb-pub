@@ -40,7 +40,6 @@ Lietuvos istorijos klausimus nuo XIII a. vidurio iki Liublino unijos savo paskai
 
 <a id="claim-t-30504"></a>
 - t-001
-  global_id: t-30504
   teiginys: "A. E. Presniakov 1908-1910 m. Peterburgo universiteto paskaitose lietė Lietuvos istorijos klausimus nuo XIII a. vidurio iki Liublino unijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,15 +69,11 @@ Lietuvos istorijos klausimus nuo XIII a. vidurio iki Liublino unijos savo paskai
     nuo XIII a. vidurio iki Liublino unijos savo paskaitose Peter­
     burgo universitete 1908-1910 m. lietė ir A. E. Presniako­
     vas 145.
-  citata_rodoma: |
-    Lietuvos istorijos klausimus
-    nuo XIII a. vidurio iki Liublino unijos savo paskaitose Peter­
-    burgo universitete 1908-1910 m. lietė ir A. E. Presniako­
-    vas 145.
+  citata_rodoma: "Lietuvos istorijos klausimus\nnuo XIII a. vidurio iki Liublino unijos savo paskaitose Peter­\nburgo universitete 1908-1910 m. lietė ir A. E. Presniako­\nvas 145."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30504
+    - t-001

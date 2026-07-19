@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-191021"></a>
 - t-001
-  global_id: t-191021
   teiginys: "340 m. pr. Kr. Masilijos astronomas ir jūrų keliautojas Pitėjas išplaukė į Atlanto vandenyną ir pasiekė Britanijos salas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -67,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-191022"></a>
 - t-002
-  global_id: t-191022
   teiginys: "Teodoras Narbutas Abalo salą siejo su Semba, aiškindamas, kad senoviniai jos krantai galėjo suklaidinti jūros keliautoją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,6 @@ Nenurodyta
 
 <a id="claim-t-191023"></a>
 - t-003
-  global_id: t-191023
   teiginys: "Pasak Narbuto minimų autorių, gintaringos pakrantės buvo pažįstamos dėl IV a. pr. Kr. išsiplėtusios masiliečių prekybos alavu ir gintaru."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -128,7 +125,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191021
+    - t-001
+
 - id: c-173904
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -157,7 +155,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191022
+    - t-002
+
 - id: c-173905
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -184,4 +183,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191023
+    - t-003

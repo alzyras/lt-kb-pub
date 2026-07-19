@@ -32,7 +32,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 
 <a id="claim-t-60235"></a>
 - t-001
-  global_id: t-60235
   teiginys: "Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją ir paskelbė karą nukryžiuotąjį gerbiantiems žmonėms."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,8 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60235
+    - t-001
+
 ## Ryšiai
 - Almimolinas buvo valdovas [[objektai/grupes/Saracėnai]]
 - Almimolinas keliavo į [[objektai/vietos/Ispanija]]

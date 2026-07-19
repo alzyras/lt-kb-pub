@@ -31,7 +31,6 @@ Dusburgietis teigia, kad kodėl šitaip yra, nežinau, težino vienas dievas, ku
 
 <a id="claim-t-59160"></a>
 - t-001
-  global_id: t-59160
   teiginys: "Petras Dusburgietis skalvių tvenkinio pokytį aiškino kaip vienam Dievui žinomą dalyką."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Dusburgietis teigia, kad kodėl šitaip yra, nežinau, težino vienas dievas, ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59160
+    - t-001

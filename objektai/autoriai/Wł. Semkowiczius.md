@@ -31,7 +31,6 @@ Semkowiczius, kuris su lenkų Bažnyčios istoriku J.
 
 <a id="claim-t-29646"></a>
 - t-001
-  global_id: t-29646
   teiginys: "Wł. Semkowiczius su J. Fijałeku išleido Vilniaus vyskupijos šaltinių tomą, o su St. Kutrzeba - Lenkijos ir Lietuvos unijos aktus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Semkowiczius, kuris su lenkų Bažnyčios istoriku J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29646
+    - t-001

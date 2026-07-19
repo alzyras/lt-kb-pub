@@ -8,10 +8,10 @@ datos:
   - '1594 m.'
 date_start: '1576'
 date_end: '1594'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,7 +35,6 @@ Tai sakoma 1576 m. Stepono Batoro leidime, apie tai kalbama ir 1584 m. Kauno mie
 
 <a id="claim-t-202295"></a>
 - t-001
-  global_id: t-202295
   teiginys: "Tai sakoma 1576 m. Stepono Batoro leidime, apie tai kalbama ir 1584 m. Kauno miesto tarybos nutarime, 1594 m. Zigmanto Vazos leidime."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Tai sakoma 1576 m. Stepono Batoro leidime, apie tai kalbama ir 1584 m. Kauno mie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202295
+    - t-001

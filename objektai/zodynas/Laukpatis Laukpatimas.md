@@ -31,7 +31,6 @@ Narbutas Laukpatį (Laukpatimą) apibūdino kaip žemdirbių dievaitį, kuriam m
 
 <a id="claim-t-189308"></a>
 - t-001
-  global_id: t-189308
   teiginys: "Narbutas Laukpatį (Laukpatimą) apibūdino kaip žemdirbių dievaitį, kuriam melstasi einant arti ar sėti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Narbutas Laukpatį (Laukpatimą) apibūdino kaip žemdirbių dievaitį, kuriam m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189308
+    - t-001

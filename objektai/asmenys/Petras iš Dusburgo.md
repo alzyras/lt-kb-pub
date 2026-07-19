@@ -32,7 +32,6 @@ Kojelavičius rašė, kad Petras iš Dusburgo tvirtino Palemoną paskyrus Romano
 
 <a id="claim-t-186246"></a>
 - t-001
-  global_id: t-186246
   teiginys: "Kojelavičius rašė, kad Petras iš Dusburgo tvirtino Palemoną paskyrus Romanovą vyriausiajam žyniui tikėjimui saugoti."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -126,4 +125,4 @@ Kojelavičius rašė, kad Petras iš Dusburgo tvirtino Palemoną paskyrus Romano
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186246
+    - t-001

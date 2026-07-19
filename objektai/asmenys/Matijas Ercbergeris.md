@@ -39,7 +39,6 @@ Lietuvos Tarybos konservatoriai ir monarchistai 1918 m. liepos 13 d., blokuodami
 
 <a id="claim-t-26455"></a>
 - t-001
-  global_id: t-26455
   teiginys: "Matijas Ercbergeris rėmė Lietuvos Tarybos monarchistus, kai 1918 m. liepos 13 d. Vilhelmas fon Urachas buvo pakviestas į Lietuvos sostą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,22 +82,11 @@ Lietuvos Tarybos konservatoriai ir monarchistai 1918 m. liepos 13 d., blokuodami
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     137
     raliumi Mindaugu II.
-  citata_rodoma: |
-    Lietuvos Ta-
-    rybos konservatoriai ir monarchistai 1918 m. liepos 13 d., blokuodami
-    tokias idėjas, remiami katalikų centro Reichstage vadovo Matijo Ercber-
-    gerio (Matthias Erzberger), pakvietė Viurtembergo kunigaikštį Vilhelmą
-    fon Urachą (Wilhelm von Urach) užimti Lietuvos sostą ir paskelbė jį ka-
-    Lietuvos Taryba 1918 m., penktas iš kairės pirmoje eilėje
-    dr. J. Basanavičius, šeštas – A. Smetona
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    137
-    raliumi Mindaugu II.
+  citata_rodoma: "Lietuvos Ta-\nrybos konservatoriai ir monarchistai 1918 m. liepos 13 d., blokuodami \ntokias idėjas, remiami katalikų centro Reichstage vadovo Matijo Ercber-\ngerio (Matthias Erzberger), pakvietė Viurtembergo kunigaikštį Vilhelmą \nfon Urachą (Wilhelm von Urach) užimti Lietuvos sostą ir paskelbė jį ka-\nLietuvos Taryba 1918 m., penktas iš kairės pirmoje eilėje  \ndr. J. Basanavičius, šeštas – A. Smetona\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n137\nraliumi Mindaugu II."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26455
+    - t-001

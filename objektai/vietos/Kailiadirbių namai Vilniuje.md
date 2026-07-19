@@ -31,7 +31,6 @@ Tačiau savo kai­ lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje
 
 <a id="claim-t-86192"></a>
 - t-001
-  global_id: t-86192
   teiginys: "Kailiadirbių namai Vilniaus turguje buvo pastatyti miesto lėšomis prie mūrinių krautuvių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Tačiau savo kai­ lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86192
+    - t-001

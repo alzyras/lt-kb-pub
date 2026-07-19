@@ -38,8 +38,7 @@ Papée). Papée, Pr. i Papée, Fr.
 ## Teiginiai
 
 <a id="claim-t-30928"></a>
-- t-001
-  global_id: t-30928
+- t-002
   teiginys: "Pr. Papée 1904 m. Krokuvoje paskelbė darbą Polska i Litwa na przełomie wieków średnich."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Papée). Papée, Pr. i Papée, Fr.
     - c-33107
 
 <a id="claim-t-30929"></a>
-- t-002
-  global_id: t-30929
+- t-001
   teiginys: "Fr. Papée priklausė senajai istorikų kartai, vaizdavusiai lietuvius vargšais ir skurdžiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Papée). Papée, Pr. i Papée, Fr.
 
 <a id="claim-t-30930"></a>
 - t-003
-  global_id: t-30930
   teiginys: "Fr. Papée kartu su St. Smolka parengė darbą Władysław Jagiełło Encyklopedja Polska leidiniui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,16 +106,15 @@ Papée). Papée, Pr. i Papée, Fr.
     gyventojai_ , Aidai, nr. 3, 1957, 97-107 p. — Papée, Pr. : _Polska i Litwa
     na przełomie wieków średnich_ , I, Krokuva 1904. — Pašuto, V. : _Cho-
     ziajstvo i technika srednevekovoj Litvy_ , VIst, nr. 8, 1947, 74 sqq.
-  citata_rodoma: |
-    — Papée, Pr. : _Polska i Litwa
-    na przełomie wieków średnich_ , I, Krokuva 1904. — Pašuto, V.
+  citata_rodoma: "— Papée, Pr. : _Polska i Litwa\nna przełomie wieków średnich_ , I, Krokuva 1904. — Pašuto, V."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30928
+    - t-002
+
 - id: c-33108
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -128,17 +124,15 @@ Papée). Papée, Pr. i Papée, Fr.
     St. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1). —
     Sruogienė, V. : _Sofija Vytautaitė,_ LE, t. 28, 271-273 p. — _Vytautas,_
     MLTE, III, 811-813 p.
-  citata_rodoma: |
-    — Smolka,
-    St. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1). —
-    Sruogienė, V.
+  citata_rodoma: "— Smolka,\nSt. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1). —\nSruogienė, V."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30930
+    - t-003
+
 - id: c-33109
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -147,14 +141,11 @@ Papée). Papée, Pr. i Papée, Fr.
     XIII amž. pradžioje lietuviai nebuvo tokie vargšai ir skurdžiai,
     kokiais juos prieš pusę šimtmečio yra pristačiusi dalis senosios
     istorikų kartos (Al. Brückner, Fr. Papée).
-  citata_rodoma: |
-    pradžioje lietuviai nebuvo tokie vargšai ir skurdžiai,
-    kokiais juos prieš pusę šimtmečio yra pristačiusi dalis senosios
-    istorikų kartos (Al. Brückner, Fr. Papée).
+  citata_rodoma: "pradžioje lietuviai nebuvo tokie vargšai ir skurdžiai,\nkokiais juos prieš pusę šimtmečio yra pristačiusi dalis senosios\nistorikų kartos (Al. Brückner, Fr. Papée)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30929
+    - t-001

@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-19594"></a>
 - t-001
-  global_id: t-19594
   teiginys: "Rytprūsiuose slapta spausdinta tradicinio raidyno lietuviška spauda buvo nelegaliai platinama Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-19595"></a>
 - t-002
-  global_id: t-19595
   teiginys: "Spaudos draudimo laikotarpiu Rytprūsiuose išleista daugiau kaip 1 800 lietuviškų knygų pavadinimų Didžiajai Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,6 @@ Nenurodyta
 
 <a id="claim-t-183300"></a>
 - t-003
-  global_id: t-183300
   teiginys: "Valdžios ir žandarų bausmės knygnešiams nesustabdė lietuviškos spaudos srauto į Lietuvą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -127,15 +124,15 @@ Nenurodyta
     Paraginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorga-
     nizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose
     ir nelegalų jos platinimą Lietuvoje.
-  citata_rodoma: |
-    nizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose
+  citata_rodoma: "nizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19594
+    - t-001
+
 - id: c-166690
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -159,5 +156,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19595
-    - t-183300
+    - t-002
+    - t-003

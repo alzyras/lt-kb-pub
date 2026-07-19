@@ -37,7 +37,6 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
 
 <a id="claim-t-21756"></a>
 - t-001
-  global_id: t-21756
   teiginys: "Prie Rainių buvo surengtos masinės kalinių žudynės, per kurias nužudyti 76 prieš tai ypač žiauriai nukankinti asmenys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
 
 <a id="claim-t-183624"></a>
 - t-002
-  global_id: t-183624
   teiginys: "Prie Rainių buvo surengtos masinės kalinių žudynės, per kurias po žiaurių kankinimų nužudyti 76 asmenys."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -93,15 +91,15 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
     kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš
     tai ypač žiauriai nukankinus), mažesnio masto – keliose kitose apskrityse,
     o iš viso nužudyta apie 700 asmenų.
-  citata_rodoma: |
-    kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš
+  citata_rodoma: "kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21756
+    - t-001
+
 - id: c-167016
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -119,4 +117,4 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183624
+    - t-002

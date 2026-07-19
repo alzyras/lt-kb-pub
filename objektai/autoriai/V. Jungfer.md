@@ -41,7 +41,6 @@ Jungfer : Alt-Litauen , 1926).
 
 <a id="claim-t-31030"></a>
 - t-001
-  global_id: t-31030
   teiginys: "V. Jungfer parengė vokišką santrauką „Alt-Litauen“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,14 +75,11 @@ Jungfer : Alt-Litauen , 1926).
     Karys, 1971, 193-197, 227-230, 263-265, 306-311 p. — Daukantas, S.:
     _Būdas senovės lietuvių Kalnėnų ir Žemaičių_ , red. J. Talmantas, Kaunas
     1935 (vokišką santrauką gerai paruošė V. Jungfer : _Alt-Litauen_ , 1926).
-  citata_rodoma: |
-    — Daukantas, S.:
-    _Būdas senovės lietuvių Kalnėnų ir Žemaičių_ , red. J. Talmantas, Kaunas
-    1935 (vokišką santrauką gerai paruošė V. Jungfer : _Alt-Litauen_ , 1926).
+  citata_rodoma: "— Daukantas, S.:\n_Būdas senovės lietuvių Kalnėnų ir Žemaičių_ , red. J. Talmantas, Kaunas\n1935 (vokišką santrauką gerai paruošė V. Jungfer : _Alt-Litauen_ , 1926)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31030
+    - t-001

@@ -31,7 +31,6 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
 
 <a id="claim-t-19638"></a>
 - t-001
-  global_id: t-19638
   teiginys: "Vilnijoje lietuvių Vietinės rinktinės daliniai susidūrė su ginkluotais lenkų Armijos Krajovos daliniais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,15 +66,15 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
     Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į
     Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais
     lenkų Armija Krajova daliniais.
-  citata_rodoma: |
-    Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais
+  citata_rodoma: "Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19638
+    - t-001
+
 - id: c-166503
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -93,3 +92,5 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

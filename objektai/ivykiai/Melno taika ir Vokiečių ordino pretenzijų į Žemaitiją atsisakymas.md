@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20413"></a>
 - t-001
-  global_id: t-20413
   teiginys: "Po Melno taikos Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,12 +81,11 @@ Nenurodyta
     tetą – 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją
     ir grėsmės Lietuvai nebekėlė. Atėjo metas Lietuvos ir Lenkijos santykių
     problemai.
-  citata_rodoma: |
-    ir grėsmės Lietuvai nebekėlė. Atėjo metas Lietuvos ir Lenkijos santykių
+  citata_rodoma: "ir grėsmės Lietuvai nebekėlė. Atėjo metas Lietuvos ir Lenkijos santykių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20413
+    - t-001

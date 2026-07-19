@@ -44,8 +44,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 ## Teiginiai
 
 <a id="claim-t-12172"></a>
-- t-001
-  global_id: t-12172
+- t-006
   teiginys: "Jadvyga laišku priminė Vytautui, kad Jogailos valdytos Lietuvos ir Rusijos žemės buvo jai užrašytos kraičiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-160434
 
 <a id="claim-t-12173"></a>
-- t-002
-  global_id: t-12173
+- t-007
   teiginys: "Lenkų karalaitė Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-160444
 
 <a id="claim-t-176413"></a>
-- t-003
-  global_id: t-176413
+- t-017
   teiginys: "Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino didįjį magistrą 1385 m. rugpjūtį pulti Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-160446
 
 <a id="claim-t-176414"></a>
-- t-004
-  global_id: t-176414
+- t-010
   teiginys: "Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,8 +115,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-15945
 
 <a id="claim-t-176415"></a>
-- t-005
-  global_id: t-176415
+- t-028
   teiginys: "Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota Lenkijos karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -140,8 +135,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-15945
 
 <a id="claim-t-176416"></a>
-- t-006
-  global_id: t-176416
+- t-022
   teiginys: "Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -158,8 +152,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-160431
 
 <a id="claim-t-176417"></a>
-- t-007
-  global_id: t-176417
+- t-023
   teiginys: "Karalienė Jadvyga Vilniaus Šv. Stanislovo katedrą apdovanojo brangiais rykais ir kita manta iš savo lobyno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -175,8 +168,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-160441
 
 <a id="claim-t-176420"></a>
-- t-008
-  global_id: t-176420
+- t-021
   teiginys: "Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino Konradą Ciolnerį Rotenšteiną 1385 metais pulti Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -192,8 +184,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-160446
 
 <a id="claim-t-176422"></a>
-- t-009
-  global_id: t-176422
+- t-025
   teiginys: "Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -209,8 +200,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-36338
 
 <a id="claim-t-176425"></a>
-- t-010
-  global_id: t-176425
+- t-012
   teiginys: "Jadvyga laišku priminė Vytautui, kad Jogailos prieš vedybas valdytos Lietuvos ir Rusijos žemės jai užrašytos kraičiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -227,8 +217,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-36340
 
 <a id="claim-t-176427"></a>
-- t-011
-  global_id: t-176427
+- t-013
   teiginys: "Netikėta Jadvygos Jogailienės mirtis, įvykusi pora savaičių prieš Vorsklos mūšį, pagreitino naują susiartinimą po 1398 m. susitarimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -247,8 +236,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-160432
 
 <a id="claim-t-176428"></a>
-- t-012
-  global_id: t-176428
+- t-015
   teiginys: "Krėvos sutarties sąlygomis Jogaila turėjo vesti Lenkijos karalaitę Jadvygą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -267,8 +255,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-160438
 
 <a id="claim-t-176429"></a>
-- t-013
-  global_id: t-176429
+- t-026
   teiginys: "Jadvyga reikalavo, kad Vytautas mokėtų jai metinį činšą už Lietuvos ir Rusijos žemes, užrašytas jai kraičiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -285,8 +272,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-36340
 
 <a id="claim-t-176430"></a>
-- t-014
-  global_id: t-176430
+- t-009
   teiginys: "Jadvyga buvo viena iš dviejų dukterų, kurioms tėvas paskyrė Vengrijos ir Lenkijos karalystes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -302,8 +288,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-36338
 
 <a id="claim-t-176431"></a>
-- t-015
-  global_id: t-176431
+- t-024
   teiginys: "Jadvyga Jogailienė buvo Vengrų karalienės Elžbietos duktė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -322,8 +307,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-160442
 
 <a id="claim-t-176433"></a>
-- t-016
-  global_id: t-176433
+- t-001
   teiginys: "1386 m. vasario 18 d. Jogaila susituokė su Jadvyga, o kovo 4 d. buvo karūnuotas Lenkijos karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -341,8 +325,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-160436
 
 <a id="claim-t-176434"></a>
-- t-017
-  global_id: t-176434
+- t-019
   teiginys: "Karalienė Jadvyga iš savo lobyno apdovanojo pašventintą Vilniaus bažnyčią brangiais rykais ir kita manta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -358,8 +341,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-160441
 
 <a id="claim-t-184263"></a>
-- t-018
-  global_id: t-184263
+- t-029
   teiginys: "Dlugošas rašė, kad Jadvyga Jogailienė buvo atvykusi į Lietuvą, bet šaltinyje nurodoma, jog tai nėra tikra."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -378,8 +360,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - c-167647
 
 <a id="claim-t-193624"></a>
-- t-019
-  global_id: t-193624
+- t-030
   teiginys: "ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -429,20 +410,16 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­
     gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­
     jos karalium“.
-  citata_rodoma: |
-    Ka­
-    ralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­
-    riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­
-    gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­
-    jos karalium“.
+  citata_rodoma: "Ka­\nralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­\nriolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­\ngai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­\njos karalium“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176414
-    - t-176415
+    - t-010
+    - t-028
+
 - id: c-36338
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -455,20 +432,16 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su
     Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
     go markagrafu, vėliau tapusiu ciesorium Zigmantu.
-  citata_rodoma: |
-    Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
-    kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi
-    jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su
-    Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
-    go markagrafu, vėliau tapusiu ciesorium Zigmantu.
+  citata_rodoma: "Bet jam pavyko dvi savo karalystes — Vengrų ir Len­\nkijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi\njos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su\nAustrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­\ngo markagrafu, vėliau tapusiu ciesorium Zigmantu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176422
-    - t-176430
+    - t-025
+    - t-009
+
 - id: c-36340
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -484,23 +457,16 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     Kiek toks reikalavimas buvo teisingas, sunku pasakyti, bet
     tokių mokesčių mokėjimas būtų buvęs lenkams įrodymu, kad
     tos žemės priklauso Lenkijai.
-  citata_rodoma: |
-    Tada Jadvyga „mylimam
-    broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir
-    Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­
-    tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį
-    činšą^3 ).
-    Kiek toks reikalavimas buvo teisingas, sunku pasakyti, bet
-    tokių mokesčių mokėjimas būtų buvęs lenkams įrodymu, kad
-    tos žemės priklauso Lenkijai.
+  citata_rodoma: "Tada Jadvyga „mylimam\nbroliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir\nRusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­\ntos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį\nčinšą^3 ).\nKiek toks reikalavimas buvo teisingas, sunku pasakyti, bet\ntokių mokesčių mokėjimas būtų buvęs lenkams įrodymu, kad\ntos žemės priklauso Lenkijai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176425
-    - t-176429
+    - t-012
+    - t-026
+
 - id: c-160431
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -521,29 +487,15 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     arkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­
     čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­
     krikštytieji Krokuvoje.
-  citata_rodoma: |
-    vfa1 ft I' W Ji,\V,|<jr iv try.,
-    106
-
-    ## Puslapis 123
-
-    Il KNYGA
-    Galop išsižadėjęs jau apnykusių pagonybės prietarų, kaip
-    naujas Kristaus tikėjimo išpažinėjas ir uolus savo tautos
-    apaštalas, 1387 metų sausį lietuvių žemėje Gedimino sostinė­
-    je atsirado Vladislovas Jogaila. Kartu su juo atvyko žavesiu ir
-    tauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­
-    čionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno
-    arkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­
-    čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­
-    krikštytieji Krokuvoje.
+  citata_rodoma: "vfa1 ft I' W Ji,\\V,|<jr iv try.,\n106\n\n## Puslapis 123\n\nIl KNYGA\nGalop išsižadėjęs jau apnykusių pagonybės prietarų, kaip \nnaujas Kristaus tikėjimo išpažinėjas ir uolus savo tautos \napaštalas, 1387 metų sausį lietuvių žemėje Gedimino sostinė­\nje atsirado Vladislovas Jogaila. Kartu su juo atvyko žavesiu ir \ntauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­\nčionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno \narkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­\nčiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­\nkrikštytieji Krokuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176416
+    - t-022
+
 - id: c-160432
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -555,18 +507,15 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     Jadvygos mirtis, ištikusi pora savaičių prieš Vorsklos mūšį.
     Tada Jogailos padėtis, kuri rėmėsi Lenkijoj tiktai žmona, su­
     svyravo.
-  citata_rodoma: |
-    Pastarąjį susiartinimą pagreitino labai netikėta
-    Jadvygos mirtis, ištikusi pora savaičių prieš Vorsklos mūšį.
-    Tada Jogailos padėtis, kuri rėmėsi Lenkijoj tiktai žmona, su­
-    svyravo.
+  citata_rodoma: "Pastarąjį susiartinimą pagreitino labai netikėta\nJadvygos mirtis, ištikusi pora savaičių prieš Vorsklos mūšį.\nTada Jogailos padėtis, kuri rėmėsi Lenkijoj tiktai žmona, su­\nsvyravo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176427
+    - t-013
+
 - id: c-160434
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -582,19 +531,15 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­
     tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį
     činšą^3 ).
-  citata_rodoma: |
-    Tada Jadvyga „mylimam
-    broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir
-    Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­
-    tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį
-    činšą^3 ).
+  citata_rodoma: "Tada Jadvyga „mylimam\nbroliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir\nRusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­\ntos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį\nčinšą^3 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12172
+    - t-006
+
 - id: c-160436
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -605,17 +550,15 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     krikšto gavo Vladislovo vardą. Po krikšto įvyko jo jung-
     tuvės su Jadvyga ir karūnacija Lenkijos karalium (krikštas buvo
     1386 m. vasario 15, jungtuvės — 18 d., o karūnacija — kovo 4 d.).
-  citata_rodoma: |
-    Po krikšto įvyko jo jung-
-    tuvės su Jadvyga ir karūnacija Lenkijos karalium (krikštas buvo
-    1386 m. vasario 15, jungtuvės — 18 d., o karūnacija — kovo 4 d.).
+  citata_rodoma: "Po krikšto įvyko jo jung-\ntuvės su Jadvyga ir karūnacija Lenkijos karalium (krikštas buvo\n1386 m. vasario 15, jungtuvės — 18 d., o karūnacija — kovo 4 d.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176433
+    - t-001
+
 - id: c-160438
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -634,7 +577,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176428
+    - t-015
+
 - id: c-160441
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -657,8 +601,9 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176417
-    - t-176434
+    - t-023
+    - t-019
+
 - id: c-160442
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -673,21 +618,15 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
     ralienės Elžbietos, Jadvygos motinos. 1377 m. buvo paskirtas
     Cereteno vyskupu.
-  citata_rodoma: |
-    Andrius Vosylius Jas­
-    trzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­
-    vo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams
-    nebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­
-    nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­
-    niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
-    ralienės Elžbietos, Jadvygos motinos. 1377 m.
+  citata_rodoma: "Andrius Vosylius Jas­\ntrzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­\nvo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams\nnebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­\nnigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­\nniuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­\nralienės Elžbietos, Jadvygos motinos. 1377 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176431
+    - t-024
+
 - id: c-160444
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -702,22 +641,15 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
     pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
     kunigaikščio Algirdo.
-  citata_rodoma: |
-    Tuo reikalu pas popiežių buvo
-    siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­
-    joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs
-    Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą. Tad
-    kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­
-    niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
-    pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
-    kunigaikščio Algirdo.
+  citata_rodoma: "Tuo reikalu pas popiežių buvo\nsiunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­\njoje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs\nVilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą. Tad\nkiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­\nniai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­\npininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos\nkunigaikščio Algirdo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12173
+    - t-007
+
 - id: c-160446
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -744,8 +676,9 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176413
-    - t-176420
+    - t-017
+    - t-021
+
 - id: c-167647
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -765,7 +698,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184263
+    - t-029
+
 - id: c-176295
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -785,7 +719,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193624
+    - t-030
+
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Jadvyga Jogailienė keliavo į [[objektai/vietos/Krokuva]]

@@ -37,7 +37,6 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 
 <a id="claim-t-21097"></a>
 - t-001
-  global_id: t-21097
   teiginys: "1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per radiją paskelbė apie laisvos ir nepriklausomos Lietuvos valstybės atkūrimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,12 +75,11 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
     negailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir
     civilizaciją“ nuo raudonojo teroro, lietuviai pakviesti imtis ginklo ir padė-
     ti vokiečių kariuomenei.
-  citata_rodoma: |
-    negailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir
+  citata_rodoma: "negailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21097
+    - t-001

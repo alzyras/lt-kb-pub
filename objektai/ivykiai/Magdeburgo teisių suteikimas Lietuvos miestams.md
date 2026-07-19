@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66766"></a>
-- t-001
-  global_id: t-66766
+- t-002
   teiginys: "Kaune Vytautas suteikė Magdeburgo teises (1408 m.) vokiečių pirkliams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-37032
 
 <a id="claim-t-66767"></a>
-- t-002
-  global_id: t-66767
+- t-003
   teiginys: "Vytautas palaikė Lietuvos miestus ir suteikė jiems daugiau laisvės Magdeburgo miesto pavyzdžiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,7 +110,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66766
+    - t-002
+
 - id: c-37033
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -130,4 +129,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66767
+    - t-003

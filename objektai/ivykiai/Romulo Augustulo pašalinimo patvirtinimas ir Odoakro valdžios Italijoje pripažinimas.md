@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-191033"></a>
 - t-001
-  global_id: t-191033
   teiginys: "Narbuto vaizdavimu, išsigandusiems italams nesipriešinant Odoakrui, Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-191034"></a>
 - t-002
-  global_id: t-191034
   teiginys: "Romos senatas pasiuntė į Konstantinopolį delegaciją pranešti Zenonui, kad Romoje nereikia skelbti imperatoriaus, o Odoakrui galima patikėti Italijos valdžią."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,6 @@ Nenurodyta
 
 <a id="claim-t-191035"></a>
 - t-003
-  global_id: t-191035
   teiginys: "Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje po tenykščio imperatoriaus mirties."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -107,7 +104,6 @@ Nenurodyta
 
 <a id="claim-t-197550"></a>
 - t-004
-  global_id: t-197550
   teiginys: "Romos senatas patvirtino Ro mulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro mulo karališkoji ir pirmojo Augusto įsteigtos karūnos, pašalinimą iš imperatoriaus posto."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -120,7 +116,6 @@ Nenurodyta
 
 <a id="claim-t-197551"></a>
 - t-005
-  global_id: t-197551
   teiginys: "Dėl to Romos se natas nusiuntė į Konstantinopolį pasiuntinius, pranešda mas, jog nereikia skelbti imperatorių Romoje, nes aukš čiausio rango pareigūnas yra Rytų imperijoje; imperato rius gali drąsiai pasikliauti dora ir karingumu Odoakro kaip patricijaus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -133,7 +128,6 @@ Nenurodyta
 
 <a id="claim-t-197552"></a>
 - t-006
-  global_id: t-197552
   teiginys: "Tuo metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą Italijos vietininku, pavesdami jam visą valdžią ir Dal matijoje, kurios imperatorius buvo miręs."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -192,6 +186,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-173915
@@ -216,8 +211,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191033
-    - t-197550
+    - t-001
+    - t-004
+
 - id: c-173916
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -239,28 +235,16 @@ Nenurodyta
     tas jų imperatoriaus titulas. Tačiau, nepaisant viso to,
     Odoakras gavo tai, ko geidė, nors italai nelabai buvo
     linkę jį remti.
-  citata_rodoma: |
-    Dėl to Romos se­
-    natas nusiuntė į Konstantinopolį pasiuntinius, pranešda­
-    mas, jog nereikia skelbti imperatorių Romoje, nes aukš­
-    čiausio rango pareigūnas yra Rytų imperijoje; imperato­
-    rius gali drąsiai pasikliauti dora ir karingumu Odoakro
-    kaip patricijaus, kuriam jis teikiasi patikėti valdžią italų
-    diecezijoje. Su šia delegacija Odoakras nusiuntė savo pa­
-    siuntinius, kurie, demonstruodami nuolankumą, turėjo
-    prašyti patvirtinti senato reikalavimus. Taip pat atvyko
-    ir Nepo pasiuntiniai, kurie reikalavo, kad būtų patvirtin­
-    tas jų imperatoriaus titulas. Tačiau, nepaisant viso to,
-    Odoakras gavo tai, ko geidė, nors italai nelabai buvo
-    linkę jį remti.
+  citata_rodoma: "Dėl to Romos se­\nnatas nusiuntė į Konstantinopolį pasiuntinius, pranešda­\nmas, jog nereikia skelbti imperatorių Romoje, nes aukš­\nčiausio rango pareigūnas yra Rytų imperijoje; imperato­\nrius gali drąsiai pasikliauti dora ir karingumu Odoakro \nkaip patricijaus, kuriam jis teikiasi patikėti valdžią italų \ndiecezijoje. Su šia delegacija Odoakras nusiuntė savo pa­\nsiuntinius, kurie, demonstruodami nuolankumą, turėjo \nprašyti patvirtinti senato reikalavimus. Taip pat atvyko \nir Nepo pasiuntiniai, kurie reikalavo, kad būtų patvirtin­\ntas jų imperatoriaus titulas. Tačiau, nepaisant viso to, \nOdoakras gavo tai, ko geidė, nors italai nelabai buvo \nlinkę jį remti."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191034
-    - t-197551
+    - t-002
+    - t-005
+
 - id: c-173917
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -282,26 +266,12 @@ Nenurodyta
     berijaus remiamas, sutelkė visą dėmesį į Italijos vidaus
     problemas; samdyta kariuomenė, kaip buvo žadėta, gavo
     trečdalį žemės valdų1.
-  citata_rodoma: |
-    Tuo
-    metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą
-    Italijos vietininku, pavesdami jam visą valdžią ir Dal­
-    matijoje, kurios imperatorius buvo miręs. Odoakras ne­
-    trukus perleido šią provinciją visigotų karaliui Evarikui,
-    norėdamas taip pelnyti jo palankumą, o kiek anksčiau
-    jis užmezgė draugiškus santykius su galingu Afrikos
-    vandalų karaliumi Genseriku, iš kurio tam tikromis są­
-    lygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių
-    vadovų Zenono, Evariko ir Genseriko, kurie galėjo jam
-    pakenkti, palankumą, jis, dorybingo ministro romėno Li-
-    berijaus remiamas, sutelkė visą dėmesį į Italijos vidaus
-    problemas; samdyta kariuomenė, kaip buvo žadėta, gavo
-    trečdalį žemės valdų1.
+  citata_rodoma: "Tuo \nmetu Rytų rūmai nedviprasmiškai patvirtino Odoakrą \nItalijos vietininku, pavesdami jam visą valdžią ir Dal­\nmatijoje, kurios imperatorius buvo miręs. Odoakras ne­\ntrukus perleido šią provinciją visigotų karaliui Evarikui, \nnorėdamas taip pelnyti jo palankumą, o kiek anksčiau \njis užmezgė draugiškus santykius su galingu Afrikos \nvandalų karaliumi Genseriku, iš kurio tam tikromis są­\nlygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių \nvadovų Zenono, Evariko ir Genseriko, kurie galėjo jam \npakenkti, palankumą, jis, dorybingo ministro romėno Li- \nberijaus remiamas, sutelkė visą dėmesį į Italijos vidaus \nproblemas; samdyta kariuomenė, kaip buvo žadėta, gavo \ntrečdalį žemės valdų1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191035
-    - t-197552
+    - t-003
+    - t-006

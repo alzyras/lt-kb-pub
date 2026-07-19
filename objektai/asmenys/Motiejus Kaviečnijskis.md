@@ -30,7 +30,6 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 
 <a id="claim-t-87796"></a>
 - t-001
-  global_id: t-87796
   teiginys: "Motiejus Kaviečnijskis birželio 1 d. į Varšuvą atsiuntė talerių, už kuriuos Lietuvoje mokėjo po 25 lietuviškus grašius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,6 +74,7 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87796
+    - t-001
+
 ## Ryšiai
 - Motiejus Kaviečnijskis siuntė į [[objektai/vietos/Varšuva]]

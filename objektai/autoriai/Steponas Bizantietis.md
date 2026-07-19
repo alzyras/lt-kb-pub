@@ -31,7 +31,6 @@ Teodoras Narbutas nurodo, kad Steponas Bizantietis, Eustatijas, scholastai ir v�
 
 <a id="claim-t-191582"></a>
 - t-001
-  global_id: t-191582
   teiginys: "Teodoras Narbutas nurodo, kad Steponas Bizantietis, Eustatijas, scholastai ir vėlesni Bizantijos tyrinėtojai vartojo formą ’Iv8ixvję."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Teodoras Narbutas nurodo, kad Steponas Bizantietis, Eustatijas, scholastai ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191582
+    - t-001

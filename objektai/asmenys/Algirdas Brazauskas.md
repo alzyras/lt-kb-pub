@@ -42,8 +42,7 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
 ## Teiginiai
 
 <a id="claim-t-75681"></a>
-- t-001
-  global_id: t-75681
+- t-004
   teiginys: "1994 m. sausį Algirdas Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui laišką dėl Lietuvos noro tapti NATO nare."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     - c-21570
 
 <a id="claim-t-75682"></a>
-- t-002
-  global_id: t-75682
+- t-001
   teiginys: "Spalio 21 d. Algirdas Brazauskas tapo LKP CK pirmuoju sekretoriumi ir įgijo didelį visuomenės pasitikėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
 
 <a id="claim-t-75683"></a>
 - t-003
-  global_id: t-75683
   teiginys: "Pirmojo Jono Pauliaus II vizito į Lietuvą metu popiežių lydėjo prezidentas Algirdas Brazauskas ir arkivyskupas Audrys Juozas Bačkis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     - c-21569
 
 <a id="claim-t-75684"></a>
-- t-004
-  global_id: t-75684
+- t-006
   teiginys: "2003 m. Atėnuose Algirdas Brazauskas pasirašė Lietuvos stojimo į Europos Sąjungą sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,8 +115,7 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     - c-73404
 
 <a id="claim-t-75685"></a>
-- t-005
-  global_id: t-75685
+- t-002
   teiginys: "Per 1992 m. Seimo rinkimus Algirdo Brazausko vadovaujama LDDP gavo daugumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -165,18 +160,15 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
     ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
     arkikatedrą.
-  citata_rodoma: |
-    Spalio 21 dieną LKP CK pirmuoju sekre-
-    toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
-    ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
-    arkikatedrą.
+  citata_rodoma: "Spalio 21 dieną LKP CK pirmuoju sekre-\ntoriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą, \nypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus \narkikatedrą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75682
+    - t-001
+
 - id: c-21569
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -195,20 +187,15 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos
     Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas
     metropolitas Audrys Juozas Bačkis.
-  citata_rodoma: |
-    Pir-
-    minė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo
-    sėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d.
-    Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos
-    Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas
-    metropolitas Audrys Juozas Bačkis.
+  citata_rodoma: "Pir-\nminė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo \nsėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d.\nPopiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos \nRespublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas \nmetropolitas Audrys Juozas Bačkis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75683
+    - t-003
+
 - id: c-21570
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -220,18 +207,15 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
     dauja tapti šios organizacijos nare. Tų pačių metų sausį Lietuva prisijungė
     prie Partnerystės taikos labui iniciatyvos.
-  citata_rodoma: |
-    1994 m. sausį Lietuvos Res-
-    publikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-
-    toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
-    dauja tapti šios organizacijos nare.
+  citata_rodoma: "1994 m. sausį Lietuvos Res-\npublikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-\ntoriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-\ndauja tapti šios organizacijos nare."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75681
+    - t-004
+
 - id: c-73404
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -255,7 +239,8 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75684
+    - t-006
+
 - id: c-166914
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -275,4 +260,4 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75685
+    - t-002

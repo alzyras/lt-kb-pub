@@ -43,25 +43,16 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
 ## Teiginiai
 
 <a id="claim-t-179756"></a>
-- t-001
-  global_id: t-179756
+- t-005
   teiginys: "Vytautas Žemaitijoje pastatė bažnyčią Betygaloje."
-  atnaujinta: "2026-05-31 14:17"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dubysa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Betygala: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dubysa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Betygala\" parinktas kaip owner_note_path. Targetas \"Dubysa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-163418
+    - c-163415
 
 <a id="claim-t-179758"></a>
-- t-002
-  global_id: t-179758
+- t-004
   teiginys: "Aukokalnis buvo ties dabartine Betygala, o nuo jo pradėtas apaštalavimo darbas Žemaitijoje."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -78,8 +69,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     - c-163416
 
 <a id="claim-t-179759"></a>
-- t-003
-  global_id: t-179759
+- t-008
   teiginys: "1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +89,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     - c-163416
 
 <a id="claim-t-179760"></a>
-- t-004
-  global_id: t-179760
+- t-009
   teiginys: "Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,8 +106,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     - c-163415
 
 <a id="claim-t-179762"></a>
-- t-005
-  global_id: t-179762
+- t-006
   teiginys: "1945 m. vasario 15 d. NKVD Betygalos stribai prie Šilainių miško pateko į Vlado Pabarčiaus partizanų būrio pasalą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,8 +127,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     - c-43341
 
 <a id="claim-t-188676"></a>
-- t-006
-  global_id: t-188676
+- t-001
   teiginys: "Narbutas Betygalos pavadinimą kildino iš keliautojų dainos žodžių „Bet ir galas, bet yra galas“, esą išreiškusių kelionės pabaigos džiaugsmą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -203,7 +190,8 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179762
+    - t-006
+
 - id: c-163415
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -221,23 +209,16 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     varniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto
     statytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,
     esančius toliau nuo Lietuvos.
-  citata_rodoma: |
-    Brastoje (pirmos
-    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
-    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
-    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
-    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
-    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
-    varniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto
-    statytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,
-    esančius toliau nuo Lietuvos.
+  citata_rodoma: "Brastoje (pirmos\nžmonos Marijos Praksėdos atminimui), Volkoviske, Visoko\nLitevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,\nPinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­\nniuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,\nKražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­\nvarniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto\nstatytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,\nesančius toliau nuo Lietuvos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179760
+    - t-005
+    - t-009
+
 - id: c-163416
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -251,19 +232,16 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
     ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
     vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
-  citata_rodoma: |
-    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
-    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
-    ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
-    vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
+  citata_rodoma: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­\ngijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir\nja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios\nvietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179758
-    - t-179759
+    - t-004
+    - t-008
+
 - id: c-163418
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -277,17 +255,13 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
     gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
     ja iki Aukokalnio, buvusio ties dabartine Betygala.
-  citata_rodoma: |
-    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
-    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
-    ja iki Aukokalnio, buvusio ties dabartine Betygala.
+  citata_rodoma: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­\ngijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir\nja iki Aukokalnio, buvusio ties dabartine Betygala."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179756
 - id: c-171565
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -309,4 +283,4 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188676
+    - t-001

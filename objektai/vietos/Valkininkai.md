@@ -38,8 +38,7 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
 ## Teiginiai
 
 <a id="claim-t-181533"></a>
-- t-001
-  global_id: t-181533
+- t-017
   teiginys: "1700 m. lapkričio 19–24 d. Valkininkuose vykęs respublikonų bajorijos suvažiavimas priėmė Valkininkų nutarimą ir įkūrė LDK bajorijos generalinę konfederaciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
     - c-43959
 
 <a id="claim-t-181535"></a>
-- t-002
-  global_id: t-181535
+- t-016
   teiginys: "Nugalėtojai su belaisviais, 8 patrankomis ir apie šimtu gurguolės vežimų vakare grįžo į Valkininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,7 +119,8 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181533
+    - t-017
+
 - id: c-165069
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -148,4 +147,4 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181535
+    - t-016

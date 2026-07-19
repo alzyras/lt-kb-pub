@@ -31,7 +31,6 @@ Pasak Kojelavičiaus cituojamo Petro Skargos, nuo krikščionybės atsimetę ar 
 
 <a id="claim-t-193446"></a>
 - t-001
-  global_id: t-901194828
   teiginys: "Pasak Kojelavičiaus cituojamo Petro Skargos, nuo krikščionybės atsimetę ar prie erezijų prisidėję asmenys silpnino monarcho valdžią ir griovė Žečpospolitą."
   pagrindžia:
     - c-001
@@ -57,5 +56,3 @@ Pasak Kojelavičiaus cituojamo Petro Skargos, nuo krikščionybės atsimetę ar 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001

@@ -61,8 +61,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-05395"></a>
-- t-001
-  global_id: t-05395
+- t-005
   teiginys: "Visas veikalo dėstymas sutelkiamas apie lietuvių tautos valstybingumo idėją."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ media_all_json: |-
     - c-03588
 
 <a id="claim-t-05396"></a>
-- t-002
-  global_id: t-05396
+- t-006
   teiginys: "Zenono Ivinskio veikale Lietuvos istorija pradedama XII a. pabaiga, kai lietuvių žygiai jau grindžiami rašytiniais šaltiniais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -95,8 +93,7 @@ media_all_json: |-
     - c-03589
 
 <a id="claim-t-05397"></a>
-- t-003
-  global_id: t-05397
+- t-007
   teiginys: "Zenonas Ivinskis mirė 1971 m. gruodžio 24 d., nebaigęs numatyto plano, o tomą redagavo ir spragas užpildė Paulius Jatulis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -115,8 +112,7 @@ media_all_json: |-
     - c-03483
 
 <a id="claim-t-05398"></a>
-- t-004
-  global_id: t-05398
+- t-008
   teiginys: "Redakcinė pastaba pasirašyta Romoje 1975 m. spalio 15 d."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -127,8 +123,7 @@ media_all_json: |-
     - c-03591
 
 <a id="claim-t-05399"></a>
-- t-005
-  global_id: t-05399
+- t-009
   teiginys: "Autoriaus pratarmė pasirašyta Bonoje 1970 m. spalio 15 d."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -146,8 +141,7 @@ media_all_json: |-
     - c-03484
 
 <a id="claim-t-05400"></a>
-- t-006
-  global_id: t-05400
+- t-010
   teiginys: "Pratarmėje aiškiai teigiama, kad pragmatiškai didaktinį istorijos rašymo būdą turi pakeisti genetinis, priežastinis metodas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -156,8 +150,7 @@ media_all_json: |-
     - c-03587
 
 <a id="claim-t-05401"></a>
-- t-007
-  global_id: t-05401
+- t-011
   teiginys: "Redakcinėje pastaboje nurodoma, kad iš trijų sumanytų Lietuvos istorijos tomų pirmasis tesiekia Vytauto Didžiojo laikus, nors buvo planuotas iki 1492 m., o įvadas liko nebaigtas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -193,8 +186,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05397
-    - t-05401
+    - t-007
+    - t-011
+
 - id: c-03484
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -204,16 +198,15 @@ media_all_json: |-
     jiems padėkos išraiška.
     **Zenonas Ivinskis**
     Bonn, 1970 m. spalių mėn. 15 d.
-  citata_rodoma: |
-    **Zenonas Ivinskis**
-    Bonn, 1970 m. spalių mėn. 15 d.
+  citata_rodoma: "**Zenonas Ivinskis**\nBonn, 1970 m. spalių mėn. 15 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05399
+    - t-009
+
 - id: c-03587
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -230,22 +223,15 @@ media_all_json: |-
     reikštis genetiniam metodui, kuris pirmoje vietoje stato visuome­
     ninės reikšmės turinčių įvykių psichofizinį _priežastingumą_ (Ernst
     Bernheim).
-  citata_rodoma: |
-    Ir pas mus toji labiau _praktiško_ tikslo siekusi istorija, buvusi
-    gyvenimo mokytoja, kuri praeityje labiau teieškojo gerų moralinių,
-    pamokinančių ir patriotiškai nuteikiančių pavyzdžių, turi užleisti
-    pirmaujančią vietą _genetinei_ (priežastinei) istorijai. Pragmatiškai-
-    -didaktinis istorijos rašymo būdas turi trauktis ir labiau leisti
-    reikštis genetiniam metodui, kuris pirmoje vietoje stato visuome­
-    ninės reikšmės turinčių įvykių psichofizinį _priežastingumą_ (Ernst
-    Bernheim).
+  citata_rodoma: "Ir pas mus toji labiau _praktiško_ tikslo siekusi istorija, buvusi\ngyvenimo mokytoja, kuri praeityje labiau teieškojo gerų moralinių,\npamokinančių ir patriotiškai nuteikiančių pavyzdžių, turi užleisti\npirmaujančią vietą _genetinei_ (priežastinei) istorijai. Pragmatiškai-\n-didaktinis istorijos rašymo būdas turi trauktis ir labiau leisti\nreikštis genetiniam metodui, kuris pirmoje vietoje stato visuome­\nninės reikšmės turinčių įvykių psichofizinį _priežastingumą_ (Ernst\nBernheim)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05400
+    - t-010
+
 - id: c-03588
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -264,7 +250,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05395
+    - t-005
+
 - id: c-03589
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -279,19 +266,15 @@ media_all_json: |-
     giau autentiškumo įgyjančiais _rašytais šaltiniais._
     Šitoje _apžvalginėje_ Lietuvos istorijoje yra stengiamasi panaudoti
     ikišiolinės tyrinėjimų išdavos ištisų laikotarpių ir atskirų temų.
-  citata_rodoma: |
-    Reziumuotai ir probėgomis tepatiekdami kitų proistorinius duome­
-    nis, tikrąją Lietuvos istoriją pradedame sąvartoje istorinių laikų,
-    būtent, XII amžiaus gale, kai lietuvių tautos žygiai ir jos «įėji­
-    mas » Europos istorijon jau gali būti nuosekliai pagrįsti vis dau­
-    giau autentiškumo įgyjančiais _rašytais šaltiniais._
+  citata_rodoma: "Reziumuotai ir probėgomis tepatiekdami kitų proistorinius duome­\nnis, tikrąją Lietuvos istoriją pradedame sąvartoje istorinių laikų,\nbūtent, XII amžiaus gale, kai lietuvių tautos žygiai ir jos «įėji­\nmas » Europos istorijon jau gali būti nuosekliai pagrįsti vis dau­\ngiau autentiškumo įgyjančiais _rašytais šaltiniais._"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05396
+    - t-006
+
 - id: c-03591
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -304,4 +287,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05398
+    - t-008

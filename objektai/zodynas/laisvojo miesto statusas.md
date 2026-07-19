@@ -31,7 +31,6 @@ Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti
 
 <a id="claim-t-22205"></a>
 - t-001
-  global_id: t-22205
   teiginys: "Britai siūlė Lietuvai už prarastą Vilnių gauti Klaipėdą, bet vėliau palaikė Klaipėdos „laisvojo miesto“ statusą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti
 
 <a id="claim-t-183441"></a>
 - t-002
-  global_id: t-183441
   teiginys: "Britai iš pradžių siūlė Lietuvai už prarastą Vilnių gauti Klaipėdą, bet vėliau pasisakė už Klaipėdos laisvojo miesto statusą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -83,15 +81,15 @@ Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti
     kada pretendavo Vytautas Didysis. Netekusi Vilniaus, Lietuva atsisuko į
     Mažąją Lietuvą. Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
     nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
-  citata_rodoma: |
-    nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
+  citata_rodoma: "nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22205
+    - t-001
+
 - id: c-166836
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -108,4 +106,4 @@ Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183441
+    - t-002

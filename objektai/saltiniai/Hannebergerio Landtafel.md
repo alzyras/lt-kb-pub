@@ -31,7 +31,6 @@ Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadinta
 
 <a id="claim-t-191837"></a>
 - t-001
-  global_id: t-191837
   teiginys: "Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadintas krašto kunigaikštis gyveno ežero viduryje netoli Loetzen."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -45,7 +44,6 @@ Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadinta
 
 <a id="claim-t-197671"></a>
 - t-002
-  global_id: t-197671
   teiginys: "Šio krašto kunigaikštis, kurį vėlesnis kronikininkas vadina .Jesugubu, gyveno netoli Loetzen, vieno ežero viduryje (Hanneberger."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,5 +76,5 @@ Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadinta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191837
-    - t-197671
+    - t-001
+    - t-002

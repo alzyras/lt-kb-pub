@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-87299"></a>
 - t-001
-  global_id: t-87299
   teiginys: "Balińskio aiškinimu, Germantas Šventaragio slėnyje vertė miškus lydimais ir plėtė senovinę Vilniaus gyvenvietę Vilnios pakrantėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,4 +114,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87299
+    - t-001

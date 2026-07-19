@@ -8,10 +8,10 @@ datos:
   - '1629 m.'
 date_start: '1613'
 date_end: '1629'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-202332"></a>
 - t-001
-  global_id: t-202332
   teiginys: "Kadangi drabužiai išreikšdavo žmogaus socialinį statusą, jie būdavo reglamentuojami specialiais įstatais, tiesa, Lietuvoje ne tokiais smulkmeniškais, kaip kitose Vakarų Europos šalyse."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -61,6 +60,9 @@ Nenurodyta
   pagrindžia:
     - c-185679
 
+## Reikšmingi paminėjimai
+Nenurodyta
+
 ## Citatos
 
 - id: c-185679
@@ -70,8 +72,5 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202332
+    - t-001

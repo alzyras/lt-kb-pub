@@ -63,8 +63,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195607"></a>
-- t-001
-  global_id: t-195607
+- t-002
   teiginys: "Iš pradžių degtukus vartojo tik miestiečiai ir jie juos naudojo atsargiai."
   atnaujinta: "2026-07-12 07:26"
   sprendimo_priezastis: "gap::events"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-178013
 
 <a id="claim-t-195608"></a>
-- t-002
-  global_id: t-195608
+- t-001
   teiginys: "1862 m. degtukai pasirodė krautuvėse."
   atnaujinta: "2026-07-12 07:26"
   sprendimo_priezastis: "gap::events"
@@ -86,7 +84,6 @@ Nenurodyta
 
 <a id="claim-t-195609"></a>
 - t-003
-  global_id: t-195609
   teiginys: "Vėliau degtukai ėmė skverbtis į kaimo grįčias."
   atnaujinta: "2026-07-12 07:26"
   sprendimo_priezastis: "gap::events"
@@ -97,7 +94,6 @@ Nenurodyta
 
 <a id="claim-t-195610"></a>
 - t-004
-  global_id: t-195610
   teiginys: "Kaime degtukų nekentė dėl to, kad jie perkami, ir bijojo dėl gaisro pavojaus."
   atnaujinta: "2026-07-12 07:26"
   sprendimo_priezastis: "gap::events"
@@ -124,16 +120,16 @@ Nenurodyta
     Jų nekentė
     ir bijojo: nekentė dėl to,, kad jie perkami, bijojo dėl to, kad iš jų gali
     kilti gaisras.
-  citata_rodoma: |
-    Toliau degtukai ėmė skverbtis į kaimo grįčias. Jų nekentė ir bijojo: nekentė dėl to,, kad jie perkami, bijojo dėl to, kad iš jų gali kilti gaisras.
+  citata_rodoma: "Toliau degtukai ėmė skverbtis į kaimo grįčias. Jų nekentė ir bijojo: nekentė dėl to,, kad jie perkami, bijojo dėl to, kad iš jų gali kilti gaisras."
   statusas: verified
   atnaujinta: "2026-07-12 07:26"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195609
-    - t-195610
+    - t-003
+    - t-004
+
 - id: c-178013
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -146,13 +142,12 @@ Nenurodyta
     žių nežinojo.
     Aprašomais 1862 metais degtukai pasirodė krautu­
     vėse, ir vartojo juos tik miestiečiai, bet ir tie vartojo atsargiai.
-  citata_rodoma: |
-    Aprašomais 1862 metais degtukai pasirodė krautu- vėse, ir vartojo juos tik miestiečiai, bet ir tie vartojo atsargiai.
+  citata_rodoma: "Aprašomais 1862 metais degtukai pasirodė krautu- vėse, ir vartojo juos tik miestiečiai, bet ir tie vartojo atsargiai."
   statusas: verified
   atnaujinta: "2026-07-12 07:26"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195607
-    - t-195608
+    - t-002
+    - t-001

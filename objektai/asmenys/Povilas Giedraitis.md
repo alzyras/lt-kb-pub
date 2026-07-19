@@ -39,7 +39,6 @@ Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilij
 
 <a id="claim-t-87836"></a>
 - t-001
-  global_id: t-87836
   teiginys: "Vilniaus gorodničius Povilas Giedraitis 1547 m. gegužės 22 d. karaliaus valia perdavė Paleckio žiniai sklypą fabrikui statyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87836
+    - t-001

@@ -32,7 +32,6 @@ Narbutas Užsparinę (Usparinia) apibūdino kaip žemės ribų deivę, globojusi
 
 <a id="claim-t-189253"></a>
 - t-001
-  global_id: t-189253
   teiginys: "Narbutas Užsparinę (Usparinia) apibūdino kaip žemės ribų deivę, globojusią kampinius kaupus ir sienų neliečiamumą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Narbutas Užsparinę (Usparinia) apibūdino kaip žemės ribų deivę, globojusi
 
 <a id="claim-t-189254"></a>
 - t-002
-  global_id: t-189254
   teiginys: "Narbutas nurodė turįs Vytauto laikų sienų nustatymo dokumentą, kuriame riboženklių neliečiamybė siejama su Užsparos prakeikimu ir Kristaus šventenybe."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -95,7 +93,8 @@ Narbutas Užsparinę (Usparinia) apibūdino kaip žemės ribų deivę, globojusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189253
+    - t-001
+
 - id: c-172142
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -117,4 +116,4 @@ Narbutas Užsparinę (Usparinia) apibūdino kaip žemės ribų deivę, globojusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189254
+    - t-002

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-26374"></a>
 - t-001
-  global_id: t-26374
   teiginys: "1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26374
+    - t-001

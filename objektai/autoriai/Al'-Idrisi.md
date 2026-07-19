@@ -40,8 +40,7 @@ Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-
 ## Teiginiai
 
 <a id="claim-t-30556"></a>
-- t-002
-  global_id: t-30556
+- t-001
   teiginys: "Al''-Idrisi, remdamasis pirklių, keliautojų ir piligrimų žiniomis, „Rogero knygoje“ minėjo rytų Pabaltijį ir galimai Kauną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,15 +57,6 @@ Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-
   pagrindžia:
     - c-32898
 
-<a id="claim-t-30556"></a>
-- t-001
-  global_id: t-901908787
-  teiginys: 'Al''''-Idrisi, remdamasis pirklių, keliautojų ir piligrimų žiniomis, „Rogero knygoje“ minėjo rytų Pabaltijį ir galimai Kauną.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Ispanija; mentioned_place: Lietuva; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1100-1166'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  pagrindžia:
-    - c-32898
 ## Citatos
 
 - id: c-32898
@@ -83,18 +73,11 @@ Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-
     kale (« Rogero knygoje »), skyriuje apie rytų Pabaltijį, jau pami­
     nėjęs Kauną. Iš arabų kalbos verčiant tekstą, jis yra įvairiai tran­
     skribuojamas : Qanya (Kaniya), Qaynu (Kaynu), ar net Kabnu.
-  citata_rodoma: |
-    Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'-
-    Idrisi (1100-66 m.), kuris, gyvendamas Sicilijos Rogero II dvare,
-    susirankiojęs žinių iš pirklių, keliautojų ir piligrimų, esąs savo vei­
-    kale (« Rogero knygoje »), skyriuje apie rytų Pabaltijį, jau pami­
-    nėjęs Kauną. Iš arabų kalbos verčiant tekstą, jis yra įvairiai tran­
-    skribuojamas : Qanya (Kaniya), Qaynu (Kaynu), ar net Kabnu.
+  citata_rodoma: "Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'-\nIdrisi (1100-66 m.), kuris, gyvendamas Sicilijos Rogero II dvare,\nsusirankiojęs žinių iš pirklių, keliautojų ir piligrimų, esąs savo vei­\nkale (« Rogero knygoje »), skyriuje apie rytų Pabaltijį, jau pami­\nnėjęs Kauną. Iš arabų kalbos verčiant tekstą, jis yra įvairiai tran­\nskribuojamas : Qanya (Kaniya), Qaynu (Kaynu), ar net Kabnu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30556
     - t-001

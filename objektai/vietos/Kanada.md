@@ -39,8 +39,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 ## Teiginiai
 
 <a id="claim-t-68041"></a>
-- t-001
-  global_id: t-68041
+- t-002
   teiginys: "Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Kanadoje ir kitose SSRS aneksijos nepripažinusiose šalyse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     - c-67726
 
 <a id="claim-t-183598"></a>
-- t-002
-  global_id: t-183598
+- t-003
   teiginys: "Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Kanadą, Didžiąją Britaniją ir Australiją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -79,10 +77,9 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     - c-166990
 
 <a id="claim-t-188704"></a>
-- t-003
-  global_id: t-188704
+- t-001
   teiginys: "Narbutas Kanadoje gyvenančių huronų laidotuvių apeigas lygino su aptariamu laidojimo papročių kontekstu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -98,7 +95,6 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   semantiniai_rysiai: "Huronai gyveno Kanada (0.91)"
   pagrindžia:
     - c-171593
-    - c-003
 - susijęs iš [[objektai/grupes/Huronai.md#claim-t-189489|Huronai]]: Narbutas huronų, Šiaurės Amerikoje ir Kanadoje gyvenančios tautos, laidotuvių apeigas laikė labai panašiomis į aptariamas apeigas.
 - susijęs iš Australija: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
 - susijęs iš [[objektai/grupes/Huronai.md#claim-t-189489|Huronai]]: Narbutas huronų, Šiaurės Amerikoje ir Kanadoje gyvenančios tautos, laidotuvių apeigas laikė labai panašiomis į aptariamas apeigas.
@@ -127,8 +123,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188704
+
 ## Citatos
 
 - id: c-67726
@@ -144,15 +139,15 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     vartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.),
     Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
     Šveicarijoje, Vatikane.
-  citata_rodoma: |
-    Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
+  citata_rodoma: "Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68041
+    - t-002
+
 - id: c-166990
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -168,7 +163,8 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183598
+    - t-003
+
 - id: c-171593
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -185,25 +181,15 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     kio lygintuvo liekanas, iškastas Obeliuose). Pas vyrus dažnai ras­
     davo titnagą ugniai skelti arba skiltuvo likučių, taip pat galąstu­
     vų skiltuvams su skylute, skirta pakabinti ant dirželio.
-  citata_rodoma: |
-    Mes gi apie tai nieko negalime pasakyti*.
-    362
-
-    ## Puslapis 362
-
-    Huronų -  Šiaurės Amerikoje, Kanadoje, gyvenančios tau­
-    tos -  yra labai panašios laidotuvių apeigos. Kam nors mirus,
-    šeima ir kaimynai susirenka atsisveikinti: aprengia mirusiuo­
-    sius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad
-    būtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­
-    je; verkia, priekaištauja, kam juos paliko.
+  citata_rodoma: "Mes gi apie tai nieko negalime pasakyti*.\n362\n\n## Puslapis 362\n\nHuronų -  Šiaurės Amerikoje, Kanadoje, gyvenančios tau­\ntos -  yra labai panašios laidotuvių apeigos. Kam nors mirus,\nšeima ir kaimynai susirenka atsisveikinti: aprengia mirusiuo­\nsius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad\nbūtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­\nje; verkia, priekaištauja, kam juos paliko."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188704
+    - t-001
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
 - Gyvenamoji vieta: [[objektai/grupes/Huronai]]

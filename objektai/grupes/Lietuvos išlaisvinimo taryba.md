@@ -31,7 +31,6 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
 
 <a id="claim-t-41028"></a>
 - t-001
-  global_id: t-41028
   teiginys: "Po antrosios sovietų okupacijos Lietuvos išlaisvinimo taryba veikė pogrindyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
 
 <a id="claim-t-193734"></a>
 - t-002
-  global_id: t-193734
   teiginys: "Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tarybai."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -72,19 +70,15 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
     Sovietų specialiosioms tarnyboms išaiškinus dalį or-
     ganizacijos narių J. Lukšai teko pasitraukti iš legalaus
     gyvenimo.
-  citata_rodoma: |
-    Po antros sovietų okupacijos priklausė pogrindžio
-    Lietuvos išlaisvinimo tarybai. Vėliau buvo Lietuvos
-    partizanų sąjūdžio organizacinio skyriaus viršininkas.
-    Sovietų specialiosioms tarnyboms išaiškinus dalį or-
-    ganizacijos narių J.
+  citata_rodoma: "Po antros sovietų okupacijos priklausė pogrindžio\nLietuvos išlaisvinimo tarybai. Vėliau buvo Lietuvos\npartizanų sąjūdžio organizacinio skyriaus viršininkas.\nSovietų specialiosioms tarnyboms išaiškinus dalį or-\nganizacijos narių J."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41028
+    - t-001
+
 - id: c-176401
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -100,4 +94,4 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193734
+    - t-002

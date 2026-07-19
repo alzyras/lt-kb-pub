@@ -30,8 +30,7 @@ Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų 
 ## Teiginiai
 
 <a id="claim-t-187231"></a>
-- t-001
-  global_id: t-187231
+- t-003
   teiginys: "Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -50,8 +49,7 @@ Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų 
     - c-170297
 
 <a id="claim-t-187580"></a>
-- t-002
-  global_id: t-187580
+- t-004
   teiginys: "Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -72,8 +70,7 @@ Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų 
     - c-170297
 
 <a id="claim-t-194027"></a>
-- t-003
-  global_id: t-194027
+- t-005
   teiginys: "Lietuvos metraštis pasakoja, kad Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -112,20 +109,17 @@ Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų 
     jęs pergalę, be nuostolių pargrįžo atgalios.
     Turėjo didysis kunigaikštis Skirmantas tris sūnus:
     vieną Treniotą IS, antrą Liubartą l6, trečią Pisimantą l7.
-  citata_rodoma: |
-    Su didžios pergalės
-    šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
-    Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
-    jęs pergalę, be nuostolių pargrįžo atgalios.
+  citata_rodoma: "Su didžios pergalės \nšlove nužygiavo Rusų žemėn ir paėmė Mozyriaus \nČernigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­\njęs pergalę, be nuostolių pargrįžo atgalios."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187231
-    - t-187580
-    - t-194027
+    - t-003
+    - t-004
+    - t-005
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Liubartas]]
 - Užėmė Karačevą: [[objektai/asmenys/Skirmantas]]

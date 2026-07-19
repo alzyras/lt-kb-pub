@@ -31,7 +31,6 @@ Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip
 
 <a id="claim-t-189027"></a>
 - t-001
-  global_id: t-189027
   teiginys: "Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189027
+    - t-001

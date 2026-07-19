@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-34470"></a>
 - t-001
-  global_id: t-34470
   teiginys: "1424 m. Didysis Machmetas Vytauto padedamas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34470
+    - t-001

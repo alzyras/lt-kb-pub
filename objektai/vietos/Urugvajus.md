@@ -38,8 +38,7 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
 ## Teiginiai
 
 <a id="claim-t-23520"></a>
-- t-001
-  global_id: t-23520
+- t-002
   teiginys: "Urugvajus iki 1977 m. buvo tarp valstybių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
     - c-25128
 
 <a id="claim-t-23521"></a>
-- t-002
-  global_id: t-23521
+- t-001
   teiginys: "Urugvajus buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,16 +99,15 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
     šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
     vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į
     Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).
-  citata_rodoma: |
-    Lietuviai vyko daugiausia į
-    Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).
+  citata_rodoma: "Lietuviai vyko daugiausia į \nPietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23521
+    - t-001
+
 - id: c-25128
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -124,18 +121,14 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
     vartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.),
     Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
     Šveicarijoje, Vatikane.
-  citata_rodoma: |
-    Ji siekė išlaikyti Lietuvos vals-
-    tybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prie-
-    vartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.),
-    Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
-    Šveicarijoje, Vatikane.
+  citata_rodoma: "Ji siekė išlaikyti Lietuvos vals-\ntybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prie-\nvartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), \nKolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje, \nŠveicarijoje, Vatikane."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23520
+    - t-002
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

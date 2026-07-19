@@ -32,7 +32,6 @@ S. Podobaila išsirinko vietą tarp Dniepro ir Sožos žiočių, apsuptą neprae
 
 <a id="claim-t-42163"></a>
 - t-001
-  global_id: t-42163
   teiginys: "S. Podobaila pasirinko gynybinę vietą tarp Dniepro ir Sožos žiočių, apsuptą pelkių, griovių ir pylimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ S. Podobaila išsirinko vietą tarp Dniepro ir Sožos žiočių, apsuptą neprae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42163
+    - t-001

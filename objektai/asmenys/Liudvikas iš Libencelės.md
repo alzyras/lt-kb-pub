@@ -40,8 +40,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
 ## Teiginiai
 
 <a id="claim-t-59882"></a>
-- t-001
-  global_id: t-59882
+- t-005
   teiginys: "1294–1300 m. Liudvikas iš Libencelės buvo Ragainės komtūras ir daug kartų kariavo su lietuviais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     - c-60514
 
 <a id="claim-t-59883"></a>
-- t-002
-  global_id: t-59883
+- t-001
   teiginys: "Liudvikas iš Libencelės buvo kilmingas ir nuo jaunų dienų įgudęs kariauti, o paimtą į nelaisvę jį atidavė Skomantui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     - c-60519
 
 <a id="claim-t-59884"></a>
-- t-003
-  global_id: t-59884
+- t-004
   teiginys: "Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė plėšikautojus ir 25 jų nukovė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,8 +91,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     - c-60516
 
 <a id="claim-t-59885"></a>
-- t-004
-  global_id: t-59885
+- t-002
   teiginys: "Antrą kartą patekęs į nelaisvę Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -111,8 +107,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     - c-60517
 
 <a id="claim-t-59886"></a>
-- t-005
-  global_id: t-59886
+- t-003
   teiginys: "Liudvikas iš Libencelės, būdamas nelaisvėje, į Kristaus tikėjimą atvertė tūkstantį šešis šimtus abiejų lyčių sūduvių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -129,27 +124,18 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
 
 <a id="claim-t-59887"></a>
 - t-006
-  global_id: t-59887
   teiginys: "1296 m. Liudvikas iš Libencelės su kitais broliais ir 200 vyrų dalyvavo žygyje, per kurį buvo sudeginta Kimelio pilis."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kimelis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liudvikas iš Libencelės: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kimelis: mention_match, place, gap=96"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudvikas iš Libencelės\" parinktas kaip owner_note_path. Targetas \"Kimelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1296 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata leidžia suformuluoti aiškų žygio rezultatą."
   pagrindžia:
-    - c-60518
-    - c-004
+    - c-60514
+
 <a id="claim-t-197127"></a>
 - t-008
-  global_id: t-197127
   teiginys: "Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -200,8 +186,6 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59887
 - c-005
   santrauka: 'Liudvikas iš Libencelės buvo kilmingas ir nuo jaunų dienų įgudęs kariauti, o paimtą į nelaisvę jį atidavė Skomantui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -218,6 +202,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-60514
@@ -230,20 +215,16 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     ginklanešiais jis daug kartų šlovingai kariavo su lietuviais. Ne sykį jis traukė į karą
     laivais, o kartą — prieš Lietuvos karaliaus žemę Aukštaičius542, čia sudegino kaimą, vardu
     542  D.— versus Austechiam terram regis Lethowie, Jer.
-  citata_rodoma: |
-    Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300
-
-      Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei
-    ginklanešiais jis daug kartų šlovingai kariavo su lietuviais. Ne sykį jis traukė  į karą
-    laivais, o kartą — prieš Lietuvos karaliaus žemę Aukštaičius542, čia sudegino kaimą, vardu
-      542 D.
+  citata_rodoma: "Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300\n\n  Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei\nginklanešiais jis daug kartų šlovingai kariavo su lietuviais. Ne sykį jis traukė  į karą\nlaivais, o kartą — prieš Lietuvos karaliaus žemę Aukštaičius542, čia sudegino kaimą, vardu\n  542 D."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59882
+    - t-005
+    - t-006
+
 - id: c-60516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -256,22 +237,15 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė
     viename lauke ir 25 iš jų nukovė.
     241 (234).
-  citata_rodoma: |
-    Todėl brolis Liudvikas iš Libencelės ir brolis
-    Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė
-    viename lauke ir 25 iš jų nukovė.
-
-
-
-
-                   241 (234).
+  citata_rodoma: "Todėl brolis Liudvikas iš Libencelės ir brolis\nMarkvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė\nviename lauke ir 25 iš jų nukovė.\n\n\n\n\n               241 (234)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59884
+    - t-004
+
 - id: c-60517
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -283,21 +257,15 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     teisingai sakė. Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną
     kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
     213 (208).
-  citata_rodoma: |
-    Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną
-    kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
-
-
-
-
-        213 (208).
+  citata_rodoma: "Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną\nkilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.\n\n\n\n\n    213 (208)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59885
+    - t-002
+
 - id: c-60518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -315,26 +283,13 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     upės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis
     šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
     1500 krikščionių.
-  citata_rodoma: |
-    Apie Kimelio pilies sunaikinimą 1296 metais
-
-       Neilgai trukus po to brolis Liudvikas iš Libencelės patraukė į žygį su kitais broliais ir
-    200 vyrų, ketindamas užpulti vieną pilį, tačiau vedlys išklydo iš kelio ir kariuomenė ją
-    praėjo; kai begrįždami atitiko tikrąjį kelią ir įėjo  į pilį, nieko joje nerado, nes žmonės,
-    kurie joje gyveno, pamatę brolių kariuomenę, išsislapstė miškuose, nei galėdami, nei
-    norėdami priešintis jų antpuoliams. Sudeginę pilį, broliai įniršę pasitraukė. Vis dėlto
-    dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,
-    taip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir
-    patys broliai ne kartą bandė, ir savo žmonių rankomis dažnai mėgino, negailėdami nei
-    išlaidų, nei triūso, tačiau nesėkmingai. Narsiai įsiveržę į pilį, jie išžudė jos gyventojus, o
-    ją pačią, pakišę ugnį, ligi pamatu sudegino.
+  citata_rodoma: "Apie Kimelio pilies sunaikinimą 1296 metais\n\n   Neilgai trukus po to brolis Liudvikas iš Libencelės patraukė į žygį su kitais broliais ir\n200 vyrų, ketindamas užpulti vieną pilį, tačiau vedlys išklydo iš kelio ir kariuomenė ją\npraėjo; kai begrįždami atitiko tikrąjį kelią ir įėjo  į pilį, nieko joje nerado, nes žmonės,\nkurie joje gyveno, pamatę brolių kariuomenę, išsislapstė miškuose, nei galėdami, nei\nnorėdami priešintis jų antpuoliams. Sudeginę pilį, broliai įniršę pasitraukė. Vis dėlto\ndievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,\ntaip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir\npatys broliai ne kartą bandė, ir savo žmonių rankomis dažnai mėgino, negailėdami nei\nišlaidų, nei triūso, tačiau nesėkmingai. Narsiai įsiveržę į pilį, jie išžudė jos gyventojus, o\nją pačią, pakišę ugnį, ligi pamatu sudegino."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-59887
 - id: c-60519
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -348,22 +303,16 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     Samborą, Vartislavą bei dar vieną507. Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
     minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
     ordino broliams Prūsijoje.
-  citata_rodoma: |
-    Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę
-
-       Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo
-    gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių.  Jį, paimtą  į nelaisvę,
-    atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
-    todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę
-    puotauti.
+  citata_rodoma: "Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę\n\n   Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo\ngyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių.  Jį, paimtą  į nelaisvę,\natidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,\ntodėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę\npuotauti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59883
-    - t-197127
+    - t-001
+    - t-008
+
 - id: c-167495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -384,6 +333,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59886
+    - t-003
+
 ## Ryšiai
 - Liudvikas iš Libencelės puolė [[objektai/grupes/Lietuviai]]

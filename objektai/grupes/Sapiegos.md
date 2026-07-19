@@ -5,6 +5,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
+  - 'Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)'
   - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
 datos:
   - '1791 m.'
@@ -42,8 +43,7 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
 ## Teiginiai
 
 <a id="claim-t-184581"></a>
-- t-001
-  global_id: t-184581
+- t-024
   teiginys: "A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenzoriai šių dedikacijų neskaitė."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -63,8 +63,7 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
     - c-167942
 
 <a id="claim-t-193338"></a>
-- t-002
-  global_id: t-193338
+- t-025
   teiginys: "Kojelavičius Sapiegų šeimos šlovę siejo su valstybės tarnyba, Jono Sapiegos žygiais ir adresato tėvo dešimtmečio darbais Dievui bei valstybei."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
     - c-176066
 
 <a id="claim-t-200690"></a>
-- t-003
-  global_id: t-200690
+- t-026
   teiginys: "Jonas Dominykas Lopacinskis nenutraukė ryšių su Sapiegų gimine net tapęs vyskupu."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "auto"
@@ -98,8 +96,7 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
     - c-184039
 
 <a id="claim-t-200760"></a>
-- t-004
-  global_id: t-200760
+- t-027
   teiginys: "Sapiegos kartu su Pacais ir Radvilomis minimi kaip vietiniai lietuvių didikai, suvaidinę žymų vaidmenį Vilniaus baroko plėtotėje."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -117,6 +114,19 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184105
+
+<a id="claim-t-202313"></a>
+- t-028
+  teiginys: "Sapiegos Kodenyje organizavo gelumbės, lininių ir šilkinių audinių, kontušų juostų bei šilkinių apmušalų gamybą."
+  atnaujinta: "2026-07-19 11:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Marija Matušakaitė"
+  vertinimo_atnaujinta: "2026-07-19T08:47:37Z"
+  pagrindžia:
+    - c-185660
 - susijęs iš [[objektai/zodynas/dvarų milicija.md#claim-t-182942|dvarų milicija]]: Sapiegų priešininkai atsivedė samdytos kariuomenės, vadintos savo dvarų milicija.
 - susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200461|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius.
 - susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200471|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. Antanas Davainis Solohubas minėtas kaip Mykolo Ksavero Sapiegos politinis konkurentas.
@@ -189,7 +199,8 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184581
+    - t-024
+
 - id: c-176066
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -234,41 +245,15 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
     bėju ir kartu su manimi meldžiasi bei įžadus daro už
     Tavo sveikatą ir laimę, kad vėliau tuo globėju džiaug­
     tųsi ir didžiuotųsi.
-  citata_rodoma: |
-    Šiuos ir kitus garsiuosius Tavo Tėvo nuopelnus valsty­
-    bei, taip pat Tavo senelio Jono Sapiegos, pelniusio
-    trisdešimtkarčio Maskvos nugalėtojo vardą, jų žygius
-    plačiau išdėstys trečioji Istorijos dalis, vis dėlto ir tuo
-    tarpu, kai Tu ėmeisi rūpintis valstybe, kuri buvo sus-
-    2 9 8
-
-    ## Puslapis 297
-
-    tiprinta ir padidinta dėl puikių Tavo protėvių sumany­
-    mų ir žygių, norėjau Sapiegų šeimos šlovę trumpai,
-    bet ryškiai iškelti, paminėdamas, ką Tavo Tėvas nuvei­
-    kė per dešimt metų, skirtų dievui bei valstybei, kad
-    turinčiam didelių užmojų protėvių praminti takai būtų
-    prieš akis. Todėl, vedamas Tėvo, sek protėviais, Sapie­
-    gų pėdomis ženk į aukščiausią šlovę, įgyvendink visų
-    viltis, o pirmiausia išgarsink Sapiegos vardą, kuris vi­
-    sada buvo priešams nelyginant žaibas, nelyginant sky­
-    das, saugantis Tėvynę. Šito aš, paprastas žmogus, Tau
-    linkiu, remdamasis visuotiniu geros valios žmonių pri­
-    tarimu, o ypatingai prijaučiant mano motinai, nuolan­
-    kiausiajai Jėzaus draugijai, kuri, dar negalėdama savo
-    patarnavimais pareikšti deramos pagarbos Tavo var­
-    dui, iš anksto Tave, kaip Sapiegą, pripažįsta savo glo­
-    bėju ir kartu su manimi meldžiasi bei įžadus daro už
-    Tavo sveikatą ir laimę, kad vėliau tuo globėju džiaug­
-    tųsi ir didžiuotųsi.
+  citata_rodoma: "Šiuos ir kitus garsiuosius Tavo Tėvo nuopelnus valsty­\nbei, taip pat Tavo senelio Jono Sapiegos, pelniusio\ntrisdešimtkarčio Maskvos nugalėtojo vardą, jų žygius\nplačiau išdėstys trečioji Istorijos dalis, vis dėlto ir tuo\ntarpu, kai Tu ėmeisi rūpintis valstybe, kuri buvo sus-\n2 9 8\n\n## Puslapis 297\n\ntiprinta ir padidinta dėl puikių Tavo protėvių sumany­\nmų ir žygių, norėjau Sapiegų šeimos šlovę trumpai,\nbet ryškiai iškelti, paminėdamas, ką Tavo Tėvas nuvei­\nkė per dešimt metų, skirtų dievui bei valstybei, kad\nturinčiam didelių užmojų protėvių praminti takai būtų\nprieš akis. Todėl, vedamas Tėvo, sek protėviais, Sapie­\ngų pėdomis ženk į aukščiausią šlovę, įgyvendink visų\nviltis, o pirmiausia išgarsink Sapiegos vardą, kuris vi­\nsada buvo priešams nelyginant žaibas, nelyginant sky­\ndas, saugantis Tėvynę. Šito aš, paprastas žmogus, Tau\nlinkiu, remdamasis visuotiniu geros valios žmonių pri­\ntarimu, o ypatingai prijaučiant mano motinai, nuolan­\nkiausiajai Jėzaus draugijai, kuri, dar negalėdama savo\npatarnavimais pareikšti deramos pagarbos Tavo var­\ndui, iš anksto Tave, kaip Sapiegą, pripažįsta savo glo­\nbėju ir kartu su manimi meldžiasi bei įžadus daro už\nTavo sveikatą ir laimę, kad vėliau tuo globėju džiaug­\ntųsi ir didžiuotųsi."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193338
+    - t-025
+
 - id: c-184039
   autorius: "Domininkas Burba"
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
@@ -277,11 +262,9 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200690
+    - t-026
+
 - id: c-184105
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -308,6 +291,17 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200760
+    - t-027
+
+- id: c-185660
+  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
+  puslapiai: "p. 61 (PDF 4)"
+  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 61 (PDF 4)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-19 11:47"
+  pagrindzia:
+    - t-028
+
 ## Ryšiai
 - Priešai: [[objektai/grupes/Lietuvos bajorija]]

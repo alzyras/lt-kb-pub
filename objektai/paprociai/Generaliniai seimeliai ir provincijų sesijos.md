@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-01948"></a>
 - t-001
-  global_id: t-01948
   teiginys: "Generaliniai seimeliai neišnyko įvedus bendrą seimą su lietuviais, o Lietuvoje prieš bendruosius seimus pradėti rengti panašūs suvažiavimai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,15 +74,11 @@ Nenurodyta
     rą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį
     seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
     tančių atstovų ir senatorių suvažiavimai.
-  citata_rodoma: |
-    Tie generaliniai seimeliai neišnyko nė įvedus bend-
-    rą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį
-    seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
-    tančių atstovų ir senatorių suvažiavimai.
+  citata_rodoma: "Tie generaliniai seimeliai neišnyko nė įvedus bend-\nrą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį\nseimą taip pat buvo pradėti daryti tokie pat į seimą vyks-\ntančių atstovų ir senatorių suvažiavimai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01948
+    - t-001

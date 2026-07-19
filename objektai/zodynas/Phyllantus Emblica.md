@@ -47,8 +47,7 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
 ## Teiginiai
 
 <a id="claim-t-192252"></a>
-- t-001
-  global_id: t-192252
+- t-004
   teiginys: "Narbutas rašo, kad Phyllantus Emblica kaip karšto klimato medis neturėtų stebinti Prūsijoje tik jei minėtas vaisius neišaugo Emblikoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -64,10 +63,9 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175089
-    - c-001
+
 <a id="claim-t-192253"></a>
-- t-002
-  global_id: t-192253
+- t-001
   teiginys: "Narbuto pasakojimu, Halės botanikas Sprengelis pagal vaisiaus išvaizdą priskyrė gintarą prie Phyllantus Emblica."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -83,10 +81,9 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175090
-    - c-002
+
 <a id="claim-t-192254"></a>
-- t-003
-  global_id: t-192254
+- t-002
   teiginys: "Narbuto cituojamas Sprengelis svarstė, kad su Phyllantus Emblica sietas prūsų vaisius galėjo būti susijęs su palme."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -102,10 +99,9 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175090
-    - c-002
+
 <a id="claim-t-192255"></a>
-- t-004
-  global_id: t-192255
+- t-003
   teiginys: "Narbutas Phyllantus Emblica vadina karšto klimato medžiu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -120,10 +116,9 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175089
-    - c-001
+
 <a id="claim-t-197698"></a>
 - t-005
-  global_id: t-197698
   teiginys: "Galima būtų stebėtis, jei karšto klimato medis Phyllantus Emblica būtų atsidū ręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą ,,De fructibus et seminibus plantarum\", kad įsitikintume, jog minėtas vaisius neišaugo jokioje Emblikoje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -153,9 +148,7 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192252
-    - t-192255
+- t-192255
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -172,9 +165,8 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192253
-    - t-192254
+- t-192254
+
 ## Citatos
 
 - id: c-175089
@@ -192,20 +184,16 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
     jog minėtas vaisius neišaugo jokioje Emblikoje. Prie to
     dar reikia pridurti, kad šis medis užauga vos 40 pėdų
     aukščio, o prūsiška palmė buvo du kartus aukštesnė.
-  citata_rodoma: |
-    Tokia yra tikroji padėtis. Galima būtų stebėtis, jei
-    karšto klimato medis Phyllantus Emblica būtų atsidū-
-    ręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą
-    ,,De fructibus et seminibus plantarum", kad įsitikintume,
-    jog minėtas vaisius neišaugo jokioje Emblikoje.
+  citata_rodoma: "Tokia yra tikroji padėtis. Galima būtų stebėtis, jei\nkaršto klimato medis Phyllantus Emblica būtų atsidū-\nręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą\n,,De fructibus et seminibus plantarum\", kad įsitikintume,\njog minėtas vaisius neišaugo jokioje Emblikoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192252
-    - t-192255
+    - t-004
+    - t-003
+
 - id: c-175090
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -224,23 +212,16 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
     ręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą
     ,,De fructibus et seminibus plantarum", kad įsitikintume,
     jog minėtas vaisius neišaugo jokioje Emblikoje.
-  citata_rodoma: |
-    Iš tikrųjų įžymus botanikas Sprengelis iš Halės,
-    remdamasis vaisiaus išvaizda, parašė man savo- nuomo-
-    nę: jis priskyrė gintarą prie Phyllantus Emblica, be to,
-    pridūrė: „Aš galiu klysti. Senovės pasaulis paliko mums
-    žemėje ir akmens anglyse augalų, kurių archetipų vos
-    begalima pastebėti. Tad visiškai gali būti, jog šis prūsų
-    vaisius susijęs su viena palme, kai netoli Paryžiaus ir
-    Kolonijos buvo rasta įvairių palmių vaisių“.
+  citata_rodoma: "Iš tikrųjų įžymus botanikas Sprengelis iš Halės,\nremdamasis vaisiaus išvaizda, parašė man savo- nuomo-\nnę: jis priskyrė gintarą prie Phyllantus Emblica, be to,\npridūrė: „Aš galiu klysti. Senovės pasaulis paliko mums\nžemėje ir akmens anglyse augalų, kurių archetipų vos\nbegalima pastebėti. Tad visiškai gali būti, jog šis prūsų\nvaisius susijęs su viena palme, kai netoli Paryžiaus ir\nKolonijos buvo rasta įvairių palmių vaisių“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192253
-    - t-192254
+    - t-001
+    - t-002
+
 - id: c-179297
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -259,4 +240,4 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197698
+    - t-005

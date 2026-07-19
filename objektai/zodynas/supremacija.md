@@ -31,7 +31,6 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
 
 <a id="claim-t-36838"></a>
 - t-001
-  global_id: t-36838
   teiginys: "Teisiškai Lietuva buvo susieta su Lenkija ir buvo visiškoje jos supremacijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,9 +45,9 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
   pagrindžia:
     - c-37957
     - c-167633
+
 <a id="claim-t-36839"></a>
 - t-002
-  global_id: t-36839
   teiginys: "Sudarytuose unijos aktuose kontragentai nebuvo laikomi lygiais, o supremacija visada buvo paliekama lenkams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,7 +83,8 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36838
+    - t-001
+
 - id: c-38763
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -100,20 +100,15 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
     supremacija paliekama lenkams. Ir jam mirus, kai nebuvo kam
     taip vikriai laviruoti tarp tų susipynusių santykių tinklo, Lie­
     tuva susilaukė nemaža bėdų.
-  citata_rodoma: |
-    Svarbesniuose atsitikimuose jis darydavo naują
-    unijos aktą, visai mažai tebūdamas, kad kiekvienam atvejy
-    uniją darą kontragentai nestoja į lygią platformą ir visuomet
-    supremacija paliekama lenkams. Ir jam mirus, kai nebuvo kam
-    taip vikriai laviruoti tarp tų susipynusių santykių tinklo, Lie­
-    tuva susilaukė nemaža bėdų.
+  citata_rodoma: "Svarbesniuose atsitikimuose jis darydavo naują\nunijos aktą, visai mažai tebūdamas, kad kiekvienam atvejy\nuniją darą kontragentai nestoja į lygią platformą ir visuomet\nsupremacija paliekama lenkams. Ir jam mirus, kai nebuvo kam\ntaip vikriai laviruoti tarp tų susipynusių santykių tinklo, Lie­\ntuva susilaukė nemaža bėdų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36839
+    - t-002
+
 - id: c-167633
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -130,3 +125,5 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

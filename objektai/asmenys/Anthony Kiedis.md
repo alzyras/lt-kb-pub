@@ -39,7 +39,6 @@ O juk iš tokių emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimus
 
 <a id="claim-t-78044"></a>
 - t-001
-  global_id: t-78044
   teiginys: "Anthony Kiedis iš grupės „Red Hot Chili Peppers“ kildinamas iš Lietuvos emigrantų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,17 +76,11 @@ O juk iš tokių emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimus
     je, 1902 m. su šeima emigravusi į JAV), o šalia jo ir Leonard Cohen (jo
     mama – iš Lietuvos emigrantų) ar Anthony Kiedis iš „Red Hot Chilli Pep-
     pers“… Visų neišvardysi.
-  citata_rodoma: |
-    Londone 1935) sukurta gita-
-    ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka. O juk iš tokių
-    emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimusi Lietuvo-
-    je, 1902 m. su šeima emigravusi į JAV), o šalia jo ir Leonard Cohen (jo
-    mama – iš Lietuvos emigrantų) ar Anthony Kiedis iš „Red Hot Chilli Pep-
-    pers“… Visų neišvardysi.
+  citata_rodoma: "Londone 1935) sukurta gita-\nra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka. O juk iš tokių \nemigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimusi Lietuvo-\nje, 1902 m. su šeima emigravusi į JAV), o šalia jo ir Leonard Cohen (jo \nmama – iš Lietuvos emigrantų) ar Anthony Kiedis iš „Red Hot Chilli Pep-\npers“… Visų neišvardysi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78044
+    - t-001

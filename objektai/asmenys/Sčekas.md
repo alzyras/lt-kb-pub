@@ -30,7 +30,6 @@ Pasak padavimo, Sčekas su Kijumi ir Choryvu buvo laikomi Kijevo įkūrėjais ar
 
 <a id="claim-t-191984"></a>
 - t-001
-  global_id: t-191984
   teiginys: "Pasak padavimo, Sčekas su Kijumi ir Choryvu buvo laikomi Kijevo įkūrėjais arba atnaujintojais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Pasak padavimo, Sčekas su Kijumi ir Choryvu buvo laikomi Kijevo įkūrėjais ar
 
 <a id="claim-t-197819"></a>
 - t-002
-  global_id: t-197819
   teiginys: "Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko ir Choryvo miestų atnaujinimo epocha."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -87,5 +85,5 @@ Pasak padavimo, Sčekas su Kijumi ir Choryvu buvo laikomi Kijevo įkūrėjais ar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191984
-    - t-197819
+    - t-001
+    - t-002

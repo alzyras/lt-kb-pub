@@ -31,7 +31,6 @@ Narbutas rašo, kad Aurelijus Antoninas Romos Kapitolijuje pastatė Luno Helioga
 
 <a id="claim-t-190083"></a>
 - t-001
-  global_id: t-190083
   teiginys: "Narbutas rašo, kad Aurelijus Antoninas Romos Kapitolijuje pastatė Luno Heliogabalo stabą - didžiulį juodą akmenį, laikytą nukritusiu iš dangaus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -45,25 +44,16 @@ Narbutas rašo, kad Aurelijus Antoninas Romos Kapitolijuje pastatė Luno Helioga
 
 <a id="claim-t-190084"></a>
 - t-002
-  global_id: t-190084
   teiginys: "Narbutas imperatoriaus Aurelijaus Antonino Heliogabalą lygina su Santvaro, vadinto Gabija, arba ugnies dievo stabu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Perkūno stabai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aurelijus Antoninas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Perkūno stabai: mention_match, thing, gap=86"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aurelijus Antoninas\" parinktas kaip owner_note_path. Targetas \"Perkūno stabai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
-    - c-172967
-    - c-002
+    - c-172966
 - susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-188380|Dievų stabai]]: Luno Heliogabalo stabas, Aurelijus Antonino pastatytas Romos Kapitolijuje, buvo didžiulis juodas akmuo, laikytas iš dangaus nukritusiu meteoritu.
 - susijęs iš [[objektai/asmenys/Jokūbas (vėliau Urbonas IV).md#claim-t-188548|Jokūbas (vėliau Urbonas IV)]]: Jokūbas nukritęs iš dangaus (akmuo - meteoritas).
 ## Reikšmingi paminėjimai
@@ -86,8 +76,7 @@ Narbutas rašo, kad Aurelijus Antoninas Romos Kapitolijuje pastatė Luno Helioga
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190084
+
 ## Citatos
 
 - id: c-172966
@@ -110,7 +99,9 @@ Narbutas rašo, kad Aurelijus Antoninas Romos Kapitolijuje pastatė Luno Helioga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190083
+    - t-001
+    - t-002
+
 - id: c-172967
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -124,21 +115,9 @@ Narbutas rašo, kad Aurelijus Antoninas Romos Kapitolijuje pastatė Luno Helioga
     talistinis. Tai turėjo būti vienas iš penatų; šios rūšies dievai vi­
     suomet būdavo vaizduojami sėdintys rytietiškai, nes jie buvo kilę
     iš Rytų.
-  citata_rodoma: |
-    Ta­
-    čiau mūsų istorikas šito dalyko nuodugniau neišlukštena. Man
-    atrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies
-    dievo, visiškai toks pat stabas, kaip imperatoriaus Aurelijaus
-    Antonino Heliogabalas, apie kurį kalbėjome straipsnyje „San­
-    tvaras“.
-    Perkūno stabai iš karto turėjo būti tokie, apie kokius kal­
-    ba Maksimas Tirėjietis, nusakydamas senovinius Jupiterio sta­
-    bus, tai yra didžiulis ąžuolas arba neapdorotas ąžuolo gaba­
-    las.
+  citata_rodoma: "Ta­\nčiau mūsų istorikas šito dalyko nuodugniau neišlukštena. Man\natrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies\ndievo, visiškai toks pat stabas, kaip imperatoriaus Aurelijaus\nAntonino Heliogabalas, apie kurį kalbėjome straipsnyje „San­\ntvaras“.\nPerkūno stabai iš karto turėjo būti tokie, apie kokius kal­\nba Maksimas Tirėjietis, nusakydamas senovinius Jupiterio sta­\nbus, tai yra didžiulis ąžuolas arba neapdorotas ąžuolo gaba­\nlas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190084

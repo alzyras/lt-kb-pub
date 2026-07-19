@@ -50,8 +50,7 @@ Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“
 ## Teiginiai
 
 <a id="claim-t-41554"></a>
-- t-001
-  global_id: t-41554
+- t-002
   teiginys: "Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas yra 1575 m. Venecijos pasiuntinio Girolamo Lippomano teksto ištrauka."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -70,8 +69,7 @@ Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“
     - c-45005
 
 <a id="claim-t-41555"></a>
-- t-002
-  global_id: t-41555
+- t-003
   teiginys: "Lenkijos ir Lietuvos kariuomenė stovyklose apsisupdavo amunicijos, provianto ir kitų reikmenų vežimais, palikdama tik kelis praėjimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -111,28 +109,12 @@ Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“
     kariai jaučiasi ne mažiau saugūs nei gerai įtvirtintame ir apsaugotame mieste.“
 
     1564 m. sausio 23 d. ULOS (CASNIKY) MŪŠIS 89
-  citata_rodoma: |
-    Žinoma, šie, bent jau žuvusių skai-
-    čiai, yra gerokai pamažinti, tačiau galima
-
-    LAUKO STOVYKLA
-
-    Ištrauka iš Venecijos pasiuntinio Girolamo Lippomano (1575 m.) Lenkijos ir Lietuvos
-    kariuomenių stovyklos aprašymo.
-
-    „Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas
-    labai skiriasi nuo kitų ir dėl to pažymėtinas. Susibūrusi į vieną vietą, visa kariuomenė ap-
-    sisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli
-    praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai
-    daug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys. Tokiu būdu
-    kariai jaučiasi ne mažiau saugūs nei gerai įtvirtintame ir apsaugotame mieste.“
-
-    1564 m.
+  citata_rodoma: "Žinoma, šie, bent jau žuvusių skai-\nčiai, yra gerokai pamažinti, tačiau galima\n\nLAUKO STOVYKLA\n\nIštrauka iš Venecijos pasiuntinio Girolamo Lippomano (1575 m.) Lenkijos ir Lietuvos\nkariuomenių stovyklos aprašymo.\n\n„Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas\nlabai skiriasi nuo kitų ir dėl to pažymėtinas. Susibūrusi į vieną vietą, visa kariuomenė ap-\nsisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli\npraėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai\ndaug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys. Tokiu būdu\nkariai jaučiasi ne mažiau saugūs nei gerai įtvirtintame ir apsaugotame mieste.“\n\n1564 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41554
-    - t-41555
+    - t-002
+    - t-003

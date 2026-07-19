@@ -38,7 +38,6 @@ Mūrinius namus, kurie buvo skirti tos koplyčios paja­ moms, privilegijomis nu
 
 <a id="claim-t-88435"></a>
 - t-001
-  global_id: t-88435
   teiginys: "Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,15 +76,11 @@ Mūrinius namus, kurie buvo skirti tos koplyčios paja­ moms, privilegijomis nu
     moms, privilegijomis nuo mokesčių atleido Lenkijos kara­
     liai: Žygimantas III - 1601 m.; Vladislovas IV - 1633 m.; Jo­
     nas Kazimieras -1664 m.
-  citata_rodoma: |
-    Mūrinius namus, kurie buvo skirti tos koplyčios paja­
-    moms, privilegijomis nuo mokesčių atleido Lenkijos kara­
-    liai: Žygimantas III - 1601 m.; Vladislovas IV - 1633 m.; Jo­
-    nas Kazimieras -1664 m.
+  citata_rodoma: "Mūrinius namus, kurie buvo skirti tos koplyčios paja­\nmoms, privilegijomis nuo mokesčių atleido Lenkijos kara­\nliai: Žygimantas III - 1601 m.; Vladislovas IV - 1633 m.; Jo­\nnas Kazimieras -1664 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88435
+    - t-001

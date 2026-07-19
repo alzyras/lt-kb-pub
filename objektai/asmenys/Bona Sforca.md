@@ -40,8 +40,7 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
 ## Teiginiai
 
 <a id="claim-t-173124"></a>
-- t-001
-  global_id: t-173124
+- t-004
   teiginys: "Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
 
 <a id="claim-t-173126"></a>
 - t-002
-  global_id: t-173126
   teiginys: "1536 m. rugsėjo 9 d. nauji Vilniaus miesto įstatymai buvo paskelbti pritariant karalienei Bonai Sforcai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
     - c-157464
 
 <a id="claim-t-173127"></a>
-- t-003
-  global_id: t-173127
+- t-001
   teiginys: "Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, o Žygimantą Augustą išugdė Renesanso dvasia."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -117,7 +114,8 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173127
+    - t-001
+
 - id: c-157464
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -136,5 +134,5 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173124
-    - t-173126
+    - t-004
+    - t-002

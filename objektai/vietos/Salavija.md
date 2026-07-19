@@ -31,7 +31,6 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
 
 <a id="claim-t-192801"></a>
 - t-001
-  global_id: t-192801
   teiginys: "Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma Skalvos arba Rusios vardu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
 
 <a id="claim-t-192802"></a>
 - t-002
-  global_id: t-192802
   teiginys: "Narbutas Salaviją vadino vienuolikta Prūsijos provincija ir pažymėjo, kad jos sienas sunku nustatyti."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,10 +69,9 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175572
-    - c-002
+
 <a id="claim-t-197921"></a>
 - t-003
-  global_id: t-197921
   teiginys: "Ptolemėjas žinojo Salavijos gyvento jus slavinu vardu; iš to galima spręsti, kad Rusios egzis tavimo laikais didelė dalis šios žemės II krikščioniškosios eros amžiuje buvo žinoma Skalvos arba Rusios vardu, kuriuo ją ir vadino svetimšaliai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -116,8 +113,7 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192802
+
 ## Citatos
 
 - id: c-175571
@@ -140,7 +136,8 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192801
+    - t-001
+
 - id: c-175572
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -155,20 +152,15 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
     nais pagonių laikais ji nebuvo žinoma šiuo pavadinimu,
     bet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­
     tas, t. y. Pusnė.
-  citata_rodoma: |
-    Salavija
-    Vienuolikta Prūsijos provincija buvo Salavija, Scha-
-    laueri. Jos sienas pažymėti yra labai sunku. Kadangi se­
-    nais pagonių laikais ji nebuvo žinoma šiuo pavadinimu,
-    bet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­
-    tas, t. y. Pusnė.
+  citata_rodoma: "Salavija\nVienuolikta Prūsijos provincija buvo Salavija, Scha-\nlaueri. Jos sienas pažymėti yra labai sunku. Kadangi se­\nnais pagonių laikais ji nebuvo žinoma šiuo pavadinimu,\nbet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­\ntas, t. y. Pusnė."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192802
+    - t-002
+
 - id: c-179398
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -192,7 +184,8 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197921
+    - t-003
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Rusia]]
 - Salavija priklausė [[objektai/vietos/Prūsija]]

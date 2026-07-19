@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-87562"></a>
 - t-001
-  global_id: t-87562
   teiginys: "1631 m. kunigas Pilypas Frizijus prie Vilniaus kapitulos 4000 auksinų pridėjo 1500 savų ir 5500 auksinų perdavė Vilniaus kahalo žydams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ media_all_json: |-
 
 <a id="claim-t-87563"></a>
 - t-002
-  global_id: t-87563
   teiginys: "1632 m. sausio 2 d. Akademijos rektorius Pilypas Frizijus nupirko mūrinį namą ir Valerijono bursai mokėjo 400 auksinų činšo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,24 +96,15 @@ media_all_json: |-
     auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo
     žydams; nuo šios sumos kahalas iki 1763 metų Valerijono
     konvikto gyventojams 8 nuošimčius mokėjo.
-  citata_rodoma: |
-    186
-
-    ## Puslapis 203
-
-    Il KNYGA
-    1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą
-    davė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500
-    auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo
-    žydams; nuo šios sumos kahalas iki 1763 metų Valerijono
-    konvikto gyventojams 8 nuošimčius mokėjo.
+  citata_rodoma: "186\n\n## Puslapis 203\n\nIl KNYGA\n1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą \ndavė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500 \nauksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo \nžydams; nuo šios sumos kahalas iki 1763 metų Valerijono \nkonvikto gyventojams 8 nuošimčius mokėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87562
+    - t-001
+
 - id: c-83542
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -140,4 +129,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87563
+    - t-002

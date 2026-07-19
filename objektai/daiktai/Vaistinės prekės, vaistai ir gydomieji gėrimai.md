@@ -65,7 +65,6 @@ Nenurodyta
 
 <a id="claim-t-55055"></a>
 - t-001
-  global_id: t-55055
   teiginys: "Vaistinėje buvo žaliavų, užjūrio ir vietinių preparatų, medikamentų bei medžiagų atsargų, kurios buvo surašytos, persvertos ir įvertintos."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "gap::items"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-55056"></a>
 - t-002
-  global_id: t-55056
   teiginys: "Kol vaistinėje buvo leidžiama laikyti ir pardavinėti degtinę, metinės pajamos galėjo siekti 30 000 auksinų, o po draudimo jos sumažėjo."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "gap::items"
@@ -85,7 +83,6 @@ Nenurodyta
 
 <a id="claim-t-55057"></a>
 - t-003
-  global_id: t-55057
   teiginys: "Dalis medikamentų buvo skiriama kolegijoje sergantiems asmenims, kuriems vaistininkai turėjo be užmokesčio duoti vaistų."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "gap::items"
@@ -94,8 +91,7 @@ Nenurodyta
     - c-55723
 
 <a id="claim-t-172859"></a>
-- t-004
-  global_id: t-172859
+- t-008
   teiginys: "Didžioji iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::items"
@@ -111,8 +107,7 @@ Nenurodyta
     - c-157228
 
 <a id="claim-t-172862"></a>
-- t-005
-  global_id: t-172862
+- t-004
   teiginys: "1780 m. vaistinė kelių vaistininkų dėka buvo išsiplėtusi ir pasiekusi klestintį būvį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::items"
@@ -124,8 +119,7 @@ Nenurodyta
     - c-157226
 
 <a id="claim-t-172863"></a>
-- t-006
-  global_id: t-172863
+- t-007
   teiginys: "Aleksandro laikais Vilniuje pirmą kartą minimi gydytojas ir vaistinė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::items"
@@ -197,7 +191,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55055
+    - t-001
+
 - id: c-55723
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -214,7 +209,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55057
+    - t-003
+
 - id: c-157226
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -244,8 +240,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55056
-    - t-172862
+    - t-002
+    - t-004
+
 - id: c-157227
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -273,32 +270,15 @@ Nenurodyta
     wien i 6 sot hrywien i 50 i osm hryzvien
     i dwa skotcy [Vilniuje, birželio 9-ta
     diena, 2 indiktas.
-  citata_rodoma: |
-    A liteho
-    236
-
-    ## Puslapis 253
-
-    III KNYGA
-    galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­
-    toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­
-    me vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­
-    jos istorija mums išsaugojo įdomią žinią apie tai, kad
-    Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos
-    liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­
-    ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro
-    Pauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.
-    serebra do mina/ pryszlo 20 tysiacz hry-
-    wien i 6 sot hrywien i 50 i osm hryzvien
-    i dwa skotcy [Vilniuje, birželio 9-ta
-    diena, 2 indiktas.
+  citata_rodoma: "A liteho\n236\n\n## Puslapis 253\n\nIII KNYGA\ngaliau Aleksandro laikais Vilnius pirmą kartą pažino gydy­\ntoją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­\nme vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­\njos istorija mums išsaugojo įdomią žinią apie tai, kad \nVytautas 1426 metais, susirūpinęs savo žmonos Julijonos \nliga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­\nti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro \nPauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.\nserebra do mina/ pryszlo 20 tysiacz hry- \nwien i 6 sot hrywien i 50 i osm hryzvien \ni dwa skotcy [Vilniuje, birželio 9-ta \ndiena, 2 indiktas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172863
+    - t-007
+
 - id: c-157228
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -323,4 +303,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172859
+    - t-008

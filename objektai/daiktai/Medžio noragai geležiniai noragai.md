@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-92024"></a>
 - t-001
-  global_id: t-92024
   teiginys: "Mediniai noragai buvo dirbami tada, kai dėl užimtų pajūrio pilių nebegauta geležies žambių noragams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,6 +91,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-87633
@@ -120,4 +120,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92024
+    - t-001

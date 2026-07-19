@@ -48,8 +48,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 ## Teiginiai
 
 <a id="claim-t-90747"></a>
-- t-001
-  global_id: t-90747
+- t-004
   teiginys: "Kryžiuočių pirmąsias bazes sudarė Tornas, įkurtas 1232 m., ir Kulmas, įkurtas 1235 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     - c-32163
 
 <a id="claim-t-90748"></a>
-- t-002
-  global_id: t-90748
+- t-010
   teiginys: "Po mūšio Kulmo vyskupas įpareigojo Kulmo našles tekėti už savo tarnų, nes miestas buvo likęs be vyrų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     - c-86531
 
 <a id="claim-t-90749"></a>
-- t-003
-  global_id: t-90749
+- t-005
   teiginys: "Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -95,9 +92,9 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   pagrindžia:
     - c-86532
     - c-167555
+
 <a id="claim-t-90751"></a>
-- t-004
-  global_id: t-90751
+- t-013
   teiginys: "Vasario 1 d. Lenkijos karalius Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -114,8 +111,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     - c-86527
 
 <a id="claim-t-90752"></a>
-- t-005
-  global_id: t-90752
+- t-016
   teiginys: "Mozūrų kunigaikštis Konradas vyskupą Kristijoną įkurdino Mozūrams priklausiusio Kulmo žemės pakraštyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,9 +126,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   pagrindžia:
     - c-46553
 
-<a id="claim-t-90757"></a>
-- t-006
-  global_id: t-90757
+<a id="claim-t-90753"></a>
+- t-015
   teiginys: "1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -149,12 +144,11 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys sutampa su citatos informacija apie 1243 m. įvykius Kulmo žemėje."
   pagrindžia:
-    - c-86525
     - c-86533
-    - c-005
+    - c-86525
+
 <a id="claim-t-90754"></a>
-- t-007
-  global_id: t-90754
+- t-001
   teiginys: "Kryžiuočių riteriams pirmąją bazę sudarė Tornas 1232 m. ir Kulmas 1235 m."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -172,28 +166,18 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     - c-32163
 
 <a id="claim-t-90755"></a>
-- t-008
-  global_id: t-90755
+- t-011
   teiginys: "Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sventopelkas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kulmas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Sventopelkas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kulmas\" parinktas kaip owner_note_path. Targetas \"Sventopelkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-86523
-    - c-003
     - c-167556
+
 <a id="claim-t-90756"></a>
-- t-009
-  global_id: t-90756
+- t-012
   teiginys: "Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -204,11 +188,11 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kulmas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-86526
     - c-86534
-    - c-013
+
 <a id="claim-t-90758"></a>
-- t-010
-  global_id: t-90758
+- t-009
   teiginys: "Po mūšio viena moteris su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -224,8 +208,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     - c-86528
 
 <a id="claim-t-90759"></a>
-- t-011
-  global_id: t-90759
+- t-006
   teiginys: "Kulmo ir Lubavo srityse gyveno mišrūs lenkų ir prūsų gyventojai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -242,8 +225,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     - c-86524
 
 <a id="claim-t-90760"></a>
-- t-012
-  global_id: t-90760
+- t-008
   teiginys: "Kulmo pilis ir miestas buvo Vyslos dešiniajame krante, o dabartinis jų atitikmuo yra Chełmno."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -262,8 +244,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     - c-86529
 
 <a id="claim-t-192680"></a>
-- t-013
-  global_id: t-192680
+- t-018
   teiginys: "Narbutas rašė, kad Kulmas į rytus tuomet tęsėsi tik iki Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -283,8 +264,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     - c-175450
 
 <a id="claim-t-197175"></a>
-- t-014
-  global_id: t-197175
+- t-020
   teiginys: "Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -296,8 +276,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     - c-179048
 
 <a id="claim-t-197885"></a>
-- t-015
-  global_id: t-197885
+- t-021
   teiginys: "Į rytus Kulmas tuomet tęsėsi tik ligi Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -829,8 +808,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-90755
 - c-005
   santrauka: '1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -846,8 +823,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-90757
 - c-013
   santrauka: 'Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -863,8 +838,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-90756
+
 ## Citatos
 
 - id: c-32163
@@ -878,20 +852,16 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     1231 m. pavasarį atvyko prie Vislos Hermano Balke's vadovaujamas
     būrelis riterių. Jiems pirmąją bazę sudarė Tornas (1232 m.) ir Kul-
     mas (1235 m.).
-  citata_rodoma: |
-    Krikščionims
-    ginti ir naujakrikštams apsaugoti nuo fanatiškų pagonių puolimų,
-    1231 m. pavasarį atvyko prie Vislos Hermano Balke's vadovaujamas
-    būrelis riterių. Jiems pirmąją bazę sudarė Tornas (1232 m.) ir Kul-
-    mas (1235 m.).
+  citata_rodoma: "Krikščionims\nginti ir naujakrikštams apsaugoti nuo fanatiškų pagonių puolimų,\n1231 m. pavasarį atvyko prie Vislos Hermano Balke's vadovaujamas\nbūrelis riterių. Jiems pirmąją bazę sudarė Tornas (1232 m.) ir Kul-\nmas (1235 m.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90747
-    - t-90754
+    - t-004
+    - t-001
+
 - id: c-46553
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -904,19 +874,15 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
     mės pakraštėj. Naujosios sodybos ir dovanotieji turtai turėjo
     būti veikimo bazė vyskupui.
-  citata_rodoma: |
-    Tada Mozūrų kunigaikš-
-    tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-
-    kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
-    mės pakraštėj. Naujosios sodybos ir dovanotieji turtai turėjo
-    būti veikimo bazė vyskupui.
+  citata_rodoma: "Tada Mozūrų kunigaikš-\ntis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-\nkupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-\nmės pakraštėj. Naujosios sodybos ir dovanotieji turtai turėjo\nbūti veikimo bazė vyskupui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90752
+    - t-016
+
 - id: c-86523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -934,23 +900,13 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     kaip įkaitą ir Prūsijos žemės bei brolių likimą patikėti Vokietijos, Čekijos, Krokuvos ir
     Lenkijos kraštams, nes matė, kad tikėjimo ir brolių reikalai bematant čia žūsią, jeigu
     nepaskubėsianti ateiti ir dieviškoji, ir jų pagalba.
-  citata_rodoma: |
-    Kulmo kilmingieji ir miestiečiai tvirtino, kad jiems
-    verčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti. Ir viešpaties
-    dvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su
-    priešais, bet, pasikliaudami viešpačiu, jie narsiai bei ryžtingai užpuolė priešus, esančius
-    prie Kulmo miesto, ir užvirė smarkios kautynės, pareikalavusios iš abiejų pusių didžiulių
-    aukų. Galop gailestingumo tėvas ir visokeriopos paguodos dievas, guodžiąs savuosius
-    visose nelaimėse, suteikė broliams tokių jėgų, kad išgąsdintas Sventopelkas pasileido
-    bėgti su visais savo žmonėmis ir pasuko į tą vietą, kur buvo palikęs laivus, tikėdamasis
-    jais pasprukti.
+  citata_rodoma: "Kulmo kilmingieji ir miestiečiai tvirtino, kad jiems\nverčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti. Ir viešpaties\ndvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su\npriešais, bet, pasikliaudami viešpačiu, jie narsiai bei ryžtingai užpuolė priešus, esančius\nprie Kulmo miesto, ir užvirė smarkios kautynės, pareikalavusios iš abiejų pusių didžiulių\naukų. Galop gailestingumo tėvas ir visokeriopos paguodos dievas, guodžiąs savuosius\nvisose nelaimėse, suteikė broliams tokių jėgų, kad išgąsdintas Sventopelkas pasileido\nbėgti su visais savo žmonėmis ir pasuko į tą vietą, kur buvo palikęs laivus, tikėdamasis\njais pasprukti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-90755
 - id: c-86524
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -967,7 +923,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90759
+    - t-006
+
 - id: c-86525
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -983,16 +940,42 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123).
-  citata_rodoma: |
-    ), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
-    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat
-    atsikraustymo  į pavyslį tokio masto pralaimėjimą28.
+  citata_rodoma: "), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —\nKulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat\natsikraustymo  į pavyslį tokio masto pralaimėjimą28."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+
+- id: c-86526
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Apie Kulmo žemės nusiaubimą 1330 metais
+
+      Tų pat metų rudenį Lokietka, Lenkijos karalius, užgriuvo Kulmo žemę604 su visais savo
+      604 D. nutyli, kad Ordino valdų puolimas buvo numatytas bendromis Lokietkos ir
+    Gedimino jėgomis susitinkant Ordino teritorijoje rugsėjo 8 d. Lietuvos kariuomenė
+    rugsėjo pradžioje pasirodė prie Bartenšteino  ir kovodama žygiavo tolyn pro Lubavą,
+    palei Drevantą, pasiekė Straisbergo apylinkes, kur kryžiuočiai sutelkė jėgas, siekdami
+    atremti lietuvius. Iš čia Gediminas patraukė į pietus ir atvyko prie Dobrynės pilies, kurią
+    nesėkmingai šturmavo Lokietkos pajėgos. Čia įvyko derybos tarp Gedimino ir Lokietkos.
+
+    karalystės raiteliais, su daugybe samdininkų ir 8 tūkstančiais karių, kuriuos jam iš savo
+    žemės atsiuntė į pagalbą Vengrijos karalius, ir apgulė Šenenzės miestą bei pilį, o paskui
+    patraukė prie Lypos pilies, tačiau nė vienos jų nepaėmė, tik 10 dienų užgulė šią žemę,
+    viską grobdamas bei degindamas.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
 - id: c-86527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1005,21 +988,15 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     buvo sudaręs su Čekijos karaliumi  ir magistru, jis su 6 tūkstančiais karių klastingai
     įsibrovė  į Kulmo žemę ir ją siaubė 5 dienas ir 5 naktis, degindamas bei plėšdamas.
     Šit kokia stulbinanti ir siaubinga piktadarybė!
-  citata_rodoma: |
-    Apie Kulmo žemės nusiaubimą
-
-      Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius,
-    padarė piktadarystę, kurią seniai buvo sumanęs: nepaisydamas taikos susitarimo, kurį
-    buvo sudaręs su Čekijos karaliumi  ir magistru, jis su 6 tūkstančiais karių klastingai
-    įsibrovė  į Kulmo žemę ir ją siaubė 5 dienas ir 5 naktis, degindamas bei plėšdamas.
-    Šit kokia stulbinanti ir siaubinga piktadarybė!
+  citata_rodoma: "Apie Kulmo žemės nusiaubimą\n\n  Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius,\npadarė piktadarystę, kurią seniai buvo sumanęs: nepaisydamas taikos susitarimo, kurį\nbuvo sudaręs su Čekijos karaliumi  ir magistru, jis su 6 tūkstančiais karių klastingai\nįsibrovė  į Kulmo žemę ir ją siaubė 5 dienas ir 5 naktis, degindamas bei plėšdamas.\nŠit kokia stulbinanti ir siaubinga piktadarybė!"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90751
+    - t-013
+
 - id: c-86528
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1040,29 +1017,15 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 
 
                          42.
-  citata_rodoma: |
-    Apie vieną stebuklą
-
-      Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti
-    žuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino;
-    paklaustas, kodėl nenorįs ten mirti, atsakė, kad tą pačią dieną švenčiausioji mergelė Marija,
-    eidama paskui dvi mergeles su degančiomis žvakėmis, smilkinusi visus žuvusiuosius
-    smilkytuvu, o priėjusi prie jo ir pastebėjusi  jį dar gyvą, tarusi: „Trečią dieną mirsi ir
-    džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris  į amžinas linksmybes“;
-    drauge su kitais parvestas į Kulmo miestą, jis trečią dieną, kaip buvo sakęs, pasimirė, o
-    visi žmonės patikėjo jos žodžiais.
-
-
-
-
-                         42.
+  citata_rodoma: "Apie vieną stebuklą\n\n  Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti\nžuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino;\npaklaustas, kodėl nenorįs ten mirti, atsakė, kad tą pačią dieną švenčiausioji mergelė Marija,\neidama paskui dvi mergeles su degančiomis žvakėmis, smilkinusi visus žuvusiuosius\nsmilkytuvu, o priėjusi prie jo ir pastebėjusi  jį dar gyvą, tarusi: „Trečią dieną mirsi ir\ndžiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris  į amžinas linksmybes“;\ndrauge su kitais parvestas į Kulmo miestą, jis trečią dieną, kaip buvo sakęs, pasimirė, o\nvisi žmonės patikėjo jos žodžiais.\n\n\n\n\n                     42."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90758
+    - t-009
+
 - id: c-86529
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1081,7 +1044,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90760
+    - t-008
+
 - id: c-86531
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1094,21 +1058,15 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų baisiame pavojuje. Nutiko
     taip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant
     kauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį.
-  citata_rodoma: |
-    Apie dviejų našlių ginčą dėl vieno vyro
-
-      Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi
-    tame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą,
-    tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų baisiame pavojuje. Nutiko
-    taip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant
-    kauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį.
+  citata_rodoma: "Apie dviejų našlių ginčą dėl vieno vyro\n\n  Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi\ntame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą,\ntekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų baisiame pavojuje. Nutiko\ntaip, kad dvi moterys, eidamos  į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant\nkauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90748
+    - t-010
+
 - id: c-86532
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1122,19 +1080,15 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
     vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
     iki Nemuno.
-  citata_rodoma: |
-    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+  citata_rodoma: "Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90749
+    - t-005
+
 - id: c-86533
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1147,17 +1101,15 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui
     (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
     Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.
-  citata_rodoma: |
-    ), praėjus totorių—mongolų pavojui
-    (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
-    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.
+  citata_rodoma: "), praėjus totorių—mongolų pavojui\n(1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —\nKulmo žemę ir sutriuškino priešą Renzeno mūšyje."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90757
+    - t-015
+
 - id: c-86534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1180,23 +1132,15 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     ką girdėjo; pro ausis nuleidęs jam pasakytus žodžius, jis sveiką ir gyvą išleido minėtąjį
     valdovą Henriką į Kulmo miestą, kur šis atpasakojo magistrui bei broliams visa, ką buvo
     girdėjęs.
-  citata_rodoma: |
-    Tuo metu į Prūsijos žemę atvyko kilnusis ir šviesusis Anlanto300 kunigaikštis su didele
-    kariuomene; be daugybės kitų gerų darbų, kuriuos čia nuveikė, stiprindamas tikėjimą
-    bei krikščionis, jis perkėlė Kulmo miestą nuo senosios pilies į kalvą, kur ir dabar tebėra301,
-    šiuo perkėlimu darydamas Kulmo žemę saugesnę.
-
-
-
-
-                  60 (59).
+  citata_rodoma: "Tuo metu į Prūsijos žemę atvyko kilnusis ir šviesusis Anlanto300 kunigaikštis su didele\nkariuomene; be daugybės kitų gerų darbų, kuriuos čia nuveikė, stiprindamas tikėjimą\nbei krikščionis, jis perkėlė Kulmo miestą nuo senosios pilies į kalvą, kur ir dabar tebėra301,\nšiuo perkėlimu darydamas Kulmo žemę saugesnę.\n\n\n\n\n              60 (59)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90756
+    - t-012
+
 - id: c-167555
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1213,10 +1157,12 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-167556
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1232,10 +1178,12 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     aukų.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
 - id: c-175450
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1256,7 +1204,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192680
+    - t-018
+
 - id: c-179048
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1277,7 +1226,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197175
+    - t-020
+
 - id: c-179380
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1298,7 +1248,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197885
+    - t-021
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Prūsai]]
 - Buvo pastatyta: [[objektai/asmenys/Hermanas (Ordino magistras)]], [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]

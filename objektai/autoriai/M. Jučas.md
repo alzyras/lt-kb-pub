@@ -16,9 +16,6 @@ amziai:
   - 'XXI'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
-  - istorikas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,6 +28,9 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+tags:
+  - autorius
+  - istorikas
 ---
 # M. Jučas
 
@@ -42,7 +42,6 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
 
 <a id="claim-t-179549"></a>
 - t-001
-  global_id: t-179549
   teiginys: "M. Jučas parašė veikalą „Vytautas Didysis“, išleistą Čikagoje 2010 m."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
     - c-22159
 
 <a id="claim-t-179550"></a>
-- t-002
-  global_id: t-179550
+- t-004
   teiginys: "M. Jučas Petro Dusburgiečio kronikos faktais rėmė koncepcijų apie prūsus kritiką."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-163225
-    - c-002
 - susijęs iš [[objektai/autoriai/Jučas, M.md#claim-t-30718|Jučas, M]]: M. Jučas parašė 1959 m. Vilniuje išleistą darbą „Žalgirio mūšis“.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179536|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.
 - susijęs iš Krikščionybės kelias Lietuvon: Z. Ivinskio „Krikščionybės kelias Lietuvon“ paskelbtas 1938 m. TK 5-ajame numeryje, p. 273–311.
@@ -100,8 +97,7 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179550
+
 ## Citatos
 
 - id: c-22159
@@ -117,7 +113,8 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179549
+    - t-001
+
 - id: c-163225
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -130,19 +127,11 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
     istorijos šaltinis, kuriame užfiksuota daug svarbios baltistikai bei lituanistikai medžiagos.
     Čia pateikta ryškių faktų, charakterizuojančių ekonominę, visuomeninę ir politinę prūsų
     bei lietuvių nobiliteto padėtį, XIII—XIV a. susiformavusius klasinius skirtumus.
-  citata_rodoma: |
-    Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro
-
-      149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование...,
-    с. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24—
-    30 (M. Jučas); Labuda G. Rec.: M. Hellman. Über die Grundlagen..., s. 68— 70; Jasiński
-    J. Zachodnioniemieckie monografie..., s. 105—125; Тихвинский C: Л., Тишков В. А. XV
-
-    iš Dusburgo kronikos faktai.
+  citata_rodoma: "Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro\n\n  149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование...,\nс. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24—\n30 (M. Jučas); Labuda G. Rec.: M. Hellman. Über die Grundlagen..., s. 68— 70; Jasiński\nJ. Zachodnioniemieckie monografie..., s. 105—125; Тихвинский C: Л., Тишков В. А. XV\n\niš Dusburgo kronikos faktai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179550
+    - t-004

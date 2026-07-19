@@ -31,8 +31,7 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
 ## Teiginiai
 
 <a id="claim-t-12588"></a>
-- t-001
-  global_id: t-12588
+- t-002
   teiginys: "Sidabrinė duoklė šiame tekste reiškia mokestį pinigais."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
     - c-14713
 
 <a id="claim-t-12589"></a>
-- t-002
-  global_id: t-12589
+- t-003
   teiginys: "Piniginis paklusnybės mokestis, lotyniškai vadintas tributum, dažniausiai buvo žinomas sidabrinės, arba serebsčinos, vardu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -84,5 +82,5 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12588
-    - t-12589
+    - t-002
+    - t-003

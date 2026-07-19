@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-19583"></a>
 - t-001
-  global_id: t-19583
   teiginys: "XVI a. pradžioje Vilniuje dviejų pranciškonų palaidojimo vietoje pradėta statyti koplyčia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,12 +79,11 @@ Nenurodyta
     nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
     palaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-
     trų vienuolynas).
-  citata_rodoma: |
-    nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
+  citata_rodoma: "nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19583
+    - t-001

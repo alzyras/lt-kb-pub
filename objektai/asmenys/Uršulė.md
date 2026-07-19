@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-87930"></a>
 - t-001
-  global_id: t-87930
   teiginys: "1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ media_all_json: |-
 
 <a id="claim-t-193998"></a>
 - t-002
-  global_id: t-193998
   teiginys: "Lietuvos metraščio pasakojime Britanijos karalaitę Uršulę, lydimą už Anglijos karaliaus sūnaus, nužudė Atila."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -98,27 +96,23 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87930
+    - t-001
+
 - id: c-176623
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo
-    lydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­
+    lydima karalaitė, vardu Uršulė10, Įišleidžiama] už Ang­
     lijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan-
     čiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas
     vienuolika tūkstančių mergelių, buvusių su ja.
-  citata_rodoma: |
-    O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo
-    lydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­
-    lijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan-
-    čiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas
-    vienuolika tūkstančių mergelių, buvusių su ja.
+  citata_rodoma: "O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo \nlydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­\nlijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan- \nčiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas \nvienuolika tūkstančių mergelių, buvusių su ja."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193998
+    - t-002

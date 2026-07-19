@@ -31,7 +31,6 @@ Starodubo kunigaikštis Andrius Vygandas raštiškai pasižadėjo po Vytauto mir
 
 <a id="claim-t-186328"></a>
 - t-001
-  global_id: t-186328
   teiginys: "Starodubo kunigaikštis Andrius Vygandas raštiškai pasižadėjo po Vytauto mirties su kitais Lietuvos kunigaikščiais pripažinti Jogailos valdžią."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Starodubo kunigaikštis Andrius Vygandas raštiškai pasižadėjo po Vytauto mir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186328
+    - t-001

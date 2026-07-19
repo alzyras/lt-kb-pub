@@ -32,7 +32,6 @@ Povilas Višenskis buvo šviesiausiojo valdovo pono Žygi­ manto, didžiojo Lie
 
 <a id="claim-t-87839"></a>
 - t-001
-  global_id: t-87839
   teiginys: "Povilui Višenskiui, Vilniaus kustodui, buvo pavesta ištirti Pabaisko bažnyčios pelną, pajamas ir su jos įkūrimu susijusius dalykus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Povilas Višenskis buvo šviesiausiojo valdovo pono Žygi­ manto, didžiojo Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87839
+    - t-001

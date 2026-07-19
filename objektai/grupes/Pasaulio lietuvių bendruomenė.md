@@ -39,7 +39,6 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
 
 <a id="claim-t-19960"></a>
 - t-001
-  global_id: t-19960
   teiginys: "Pasaulio lietuvių bendruomenė buvo viena svarbiausių ir stipriausių JAV lietuvių išeivijos organizacijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,12 +71,11 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
     lio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vy-
     riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien
     ir pasitarnauti Lietuvos laisvės bylai tarptautiniu mastu.
-  citata_rodoma: |
-    riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien
+  citata_rodoma: "riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19960
+    - t-001

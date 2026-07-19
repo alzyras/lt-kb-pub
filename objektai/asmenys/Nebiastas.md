@@ -31,7 +31,6 @@ Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu praš�
 
 <a id="claim-t-191446"></a>
 - t-001
-  global_id: t-191446
   teiginys: "Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu prašė Danielių taikiai išeiti iš jų žemės ir nebendradarbiauti su lenkais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu praš�
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174328
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu prašė Danielių taikiai išeiti iš jų žemės ir nebendradarbiauti su lenkais.'
@@ -66,8 +65,7 @@ Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu praš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191446
+
 ## Citatos
 
 - id: c-174328
@@ -82,17 +80,11 @@ Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu praš�
     visą naktį. Kitą rytą jotvingiai padegė savo vežimus (t. y.
     taborus), o patys ir pėsti, ir važiuoti išsislapstė savo miš­
     kuose.
-  citata_rodoma: |
-    Taip buvo pradėtas
-    mūšis, kuris visą dieną užpuolikams buvo labai sėkmin­
-    gas. Vakarop atvyko pasiuntiniai, vadovaujami tokio Ne-
-    biasto, kuris visos jotvingių tautos vardu prašė Danie­
-    liaus, kad šis taikiai išeitų iŠ jų žemės ir atsisakytų bend­
-    radarbiauti su lenkais. Danielius nesutiko.
+  citata_rodoma: "Taip buvo pradėtas\nmūšis, kuris visą dieną užpuolikams buvo labai sėkmin­\ngas. Vakarop atvyko pasiuntiniai, vadovaujami tokio Ne-\nbiasto, kuris visos jotvingių tautos vardu prašė Danie­\nliaus, kad šis taikiai išeitų iŠ jų žemės ir atsisakytų bend­\nradarbiauti su lenkais. Danielius nesutiko."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191446
+    - t-001

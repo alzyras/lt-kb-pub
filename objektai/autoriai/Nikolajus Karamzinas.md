@@ -40,7 +40,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 
 <a id="claim-t-190307"></a>
 - t-001
-  global_id: t-190307
   teiginys: "Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams ir pagal juos suskirstė „Lietuvių tautos istorijos“ turinį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 
 <a id="claim-t-190308"></a>
 - t-002
-  global_id: t-190308
   teiginys: "Narbutas rašo, kad Nikolajus Karamzinas Perkūno vardą kildino iš indų kalbos žodžio „Penui“, reiškiančio didelį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 
 <a id="claim-t-190770"></a>
 - t-003
-  global_id: t-190770
   teiginys: "Karamzinas, Narbuto perteikimu, rašė apie vitbionų sostinę Witsby prie Dauguvos, siejamą su Vitebsku."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -106,7 +103,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 
 <a id="claim-t-190771"></a>
 - t-004
-  global_id: t-190771
   teiginys: "Narbutas Karamzinu rėmė teiginį, kad poloviečiai patys save vadino Kipczak."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -124,10 +120,9 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173653
-    - c-004
+
 <a id="claim-t-190772"></a>
 - t-005
-  global_id: t-190772
   teiginys: "Narbutas rašė, kad Karamzinas Serkel, Biala wieza, Biata wies ir Bieloserkal laikė to paties „balto“ vietovardžio formomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -148,7 +143,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 
 <a id="claim-t-191898"></a>
 - t-006
-  global_id: t-191898
   teiginys: "Narbutas rašė, kad Karamzinas žodį Ross ar Russ Ezechielio tekste suprato perkeltine galvos arba svarbiausio dalyko prasme."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -169,7 +163,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 
 <a id="claim-t-194886"></a>
 - t-007
-  global_id: t-194886
   teiginys: "Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karamzin."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -183,7 +176,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 
 <a id="claim-t-197626"></a>
 - t-008
-  global_id: t-197626
   teiginys: "N. Karamzinas nebuvo sunaikinta ir todėl netrukus turėjo būti atstatyta."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -196,7 +188,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 
 <a id="claim-t-197627"></a>
 - t-009
-  global_id: t-197627
   teiginys: "N. Karamzinas anaiptol nepriskiria jų prie ramių žemdirbių, bet atvirkščiai — laiko juos karinga gentimi, turinčia rinktinę raitąją armiją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -221,8 +212,7 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190771
+
 ## Citatos
 
 - id: c-173190
@@ -240,19 +230,15 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
     veikla bandė parodyti LDK žemių istoriją, joje gyvenančių tau­
     tybių kultūrinę įvairovę ir paliudyti neginčijamą teisę bent į
     6 Jonynas I. Istorijos baruose.
-  citata_rodoma: |
-    LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
-    dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai
-    savarankiškos LDK egzistavimo pabaiga. T. Narbutas, sekda­
-    mas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­
-    litiniams įvykiams ir pagal juos suskirstė veikalo turinį6.
+  citata_rodoma: "LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­\ndą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai\nsavarankiškos LDK egzistavimo pabaiga. T. Narbutas, sekda­\nmas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­\nlitiniams įvykiams ir pagal juos suskirstė veikalo turinį6."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190307
+    - t-001
+
 - id: c-173191
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -270,7 +256,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190308
+    - t-002
+
 - id: c-173652
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -291,7 +278,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190770
+    - t-003
+
 - id: c-173653
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -305,18 +293,15 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
     ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
     kart priėmė net ir svetimšaliai, nes gerai jas pažinoję
     vengrai vadino šias gentis kumanais.
-  citata_rodoma: |
-    Dešiniojoje Dnep-
-    1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas
-    (t. II, priedas 112). Tad jų likučių turėtų būti pas Kapčiako toto­
-    rius Ir, ko gero, jie bus pasivadinę nuo Kapčiako krašto.
+  citata_rodoma: "Dešiniojoje Dnep-\n1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas\n(t. II, priedas 112). Tad jų likučių turėtų būti pas Kapčiako toto­\nrius Ir, ko gero, jie bus pasivadinę nuo Kapčiako krašto."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190771
+    - t-004
+
 - id: c-173654
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -336,7 +321,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190772
+    - t-005
+
 - id: c-174780
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -360,7 +346,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191898
+    - t-006
+
 - id: c-177282
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -375,7 +362,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194886
+    - t-007
+
 - id: c-179266
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -397,7 +385,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197626
+    - t-008
+
 - id: c-179267
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -416,4 +405,4 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197627
+    - t-009

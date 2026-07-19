@@ -31,7 +31,6 @@ Volteris).
 
 <a id="claim-t-29323"></a>
 - t-001
-  global_id: t-29323
   teiginys: "Edv. Volteris Lietuvos vardą kildino iš šiaurės rytų Aukštaičiuose ieškotų „Lietuvos“ upės pėdsakų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Volteris).
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29323
+    - t-001

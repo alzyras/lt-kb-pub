@@ -41,7 +41,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 
 <a id="claim-t-59864"></a>
 - t-001
-  global_id: t-59864
   teiginys: "Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 
 <a id="claim-t-59865"></a>
 - t-002
-  global_id: t-59865
   teiginys: "1314 m. Henrikas iš Plockės su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,30 +75,22 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citatoje nurodytais dalyviais bei kryptimi."
   pagrindžia:
     - c-60501
-    - c-006
+
 <a id="claim-t-59866"></a>
-- t-003
-  global_id: t-59866
+- t-004
   teiginys: "1316 m. žiemą Henrikas iš Plockės su daugybe raitelių įsiveržė į Paštuvos valsčių ir jį nusiaubė."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Henrikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas iš Plockės\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1316 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą žygį ir jo rezultatą."
   pagrindžia:
-    - c-60496
-    - c-001
+    - c-60500
+    - c-60502
+
 <a id="claim-t-59867"></a>
-- t-004
-  global_id: t-59867
+- t-007
   teiginys: "1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -121,28 +111,18 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 
 <a id="claim-t-59868"></a>
 - t-005
-  global_id: t-59868
   teiginys: "1316 m. Henrikas iš Plockės su Reino krašto maldininkais nusiaubė Medininkų valsčių."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Medininkai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Henrikas su kariuomene patraukė į Medininkų valsčių ir jį nusiaubė."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Henrikas iš Plockės puolė Medininkai (0.88)"
   temporaliniai_duomenys: "įvykio data: 1316 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys išvardija šalutinius asmenis, o citata palaiko glaustesnį faktą apie veiksmą."
   pagrindžia:
-    - c-60497
+    - c-60500
 
 <a id="claim-t-59869"></a>
 - t-006
-  global_id: t-59869
   teiginys: "1317 m. žiemą Henrikui iš Plockės žygiuojant prieš Vaikių valsčių, audra išblaškė daugiau kaip 500 arklių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -160,10 +140,9 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   temporalinis_llm_pakomentavimas: "Pašalintas religinis antraštės triukšmas ir suformuluotas konkretus įvykis."
   pagrindžia:
     - c-60498
-    - c-003
+
 <a id="claim-t-59870"></a>
-- t-007
-  global_id: t-59870
+- t-003
   teiginys: "1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -184,7 +163,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 
 <a id="claim-t-197096"></a>
 - t-008
-  global_id: t-197096
   teiginys: "Dusburgietis teigia, kad henrikas iš Plockės atsiduso, pakėlė akis į dangų ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą, pavedė save dievo bei švenčiausiosios mergelės globai ir tuo pat keliu, kuriuo buvo atvykęs, patraukė į Ragainę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -213,8 +191,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59866
 - c-002
   santrauka: '1316 m. Henrikas iš Plockės su Reino krašto maldininkais nusiaubė Medininkų valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -253,8 +229,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59869
 - c-006
   santrauka: '1314 m. Henrikas iš Plockės su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -271,8 +245,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59865
+
 ## Citatos
 
 - id: c-60496
@@ -286,24 +259,13 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     nelaisvę, o daugybę vyrų nukovė. Ketvirta kariuomenės dalis žygiavo su brolių vėliava,
     bet taip pat nieko nepešė, nes jos vedliai pasiklydo. Galop visa kariuomenė susirinko į
     vieną daiktą ir patraukė namo.
-  citata_rodoma: |
-    Apie Paštuvos valsčiaus nusiaubimą
-
-      1316 viešpaties metais, žiemą, brolis Henrikas, maršalas, su daugybe raitelių netikėtai
-    įsiveržė  į Paštuvos valsčių ir jį nusiaubė, degindamas bei plėšdamas, o penkis šimtus
-    žmonių paėmė į nelaisvę ar nukovė.
-
-
-
-
-               327 (320).
+  citata_rodoma: "Apie Paštuvos valsčiaus nusiaubimą\n\n  1316 viešpaties metais, žiemą, brolis Henrikas, maršalas, su daugybe raitelių netikėtai\nįsiveržė  į Paštuvos valsčių ir jį nusiaubė, degindamas bei plėšdamas, o penkis šimtus\nžmonių paėmė į nelaisvę ar nukovė.\n\n\n\n\n           327 (320)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-59866
 - id: c-60497
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -320,22 +282,15 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,
     pavedė save dievo bei švenčiausiosios mergelės globai ir tuo pat keliu, kuriuo buvo
     atvykęs, patraukė į Ragainę.
-  citata_rodoma: |
-    Apie Medininkų valsčiaus apiplėšimą 1316 metais
-
-      Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių
-    iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš
-    Elnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,
-    į Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į
-    nelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais.
+  citata_rodoma: "Apie Medininkų valsčiaus apiplėšimą 1316 metais\n\n  Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių\niš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš\nElnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,\nį Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į\nnelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59868
-    - t-197096
+    - t-008
+
 - id: c-60498
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -356,23 +311,15 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     1318 viešpaties metais, rudenį, brolis Henrikas, maršalas, atžygiavo su didele
     kariuomene prie Junigedos ir Pieštvės pilių ir iki pamatų sudegino abiejų papilius,
     kuriuose tuo metu buvo apsčiai supilta naujo derliaus grūdų.
-  citata_rodoma: |
-    Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
-                                    kariuomenę
-
-      1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir
-    Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus,
-    atūžė tokia siaubinga, tokia nematyta negirdėta audra, kad vėjai taip klaikiai daužėsi,
-    jog rodėsi, kad tranko griaustinis; nekalbant jau apie baimę, apėmusią žmones, daugiau
-    nei penki šimtai arklių, sutraukę kamanas ir pančius, išlakstė po mišką. Todėl, vargais
-    negalais sugaudę arklius, tiesa, ne visus, brolių kariuomenė patraukė atgal.
+  citata_rodoma: "Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę\n                                kariuomenę\n\n  1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir\nNotangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus,\natūžė tokia siaubinga, tokia nematyta negirdėta audra, kad vėjai taip klaikiai daužėsi,\njog rodėsi, kad tranko griaustinis; nekalbant jau apie baimę, apėmusią žmones, daugiau\nnei penki šimtai arklių, sutraukę kamanas ir pančius, išlakstė po mišką. Todėl, vargais\nnegalais sugaudę arklius, tiesa, ne visus, brolių kariuomenė patraukė atgal."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59869
+    - t-006
+
 - id: c-60499
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -387,24 +334,15 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
     ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
     jas nusiaubė, degindami ir piešdami.
-  citata_rodoma: |
-    Dar apie tą patį
-
-       Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
-    maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė
-    pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje, ilgokai užtrukusioje,
-    lietuviai neteko Masiaus brolio bei 18 kitų [vyrų], kurie krito nukauti, o broliai — trijų
-    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno  ir brolio Rebodo iš
-    Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
-    ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
-    jas nusiaubė, degindami ir piešdami.
+  citata_rodoma: "Dar apie tą patį\n\n   Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,\nmaršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė\npilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje, ilgokai užtrukusioje,\nlietuviai neteko Masiaus brolio bei 18 kitų [vyrų], kurie krito nukauti, o broliai — trijų\nbrolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno  ir brolio Rebodo iš\nIzenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo\nir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą\njas nusiaubė, degindami ir piešdami."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59870
+    - t-003
+
 - id: c-60500
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -419,24 +357,17 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     daugybės [karių] užmuštaisiais, galop jie nukovė brolį Henriką, maršalą, 29 brolius bei
     daugybę paprastų žmonių. Kiti, nemaža dienų bei naktų klaidžioję be duonos kąsnio
     dykrose, sugrįžo šiaip ne taip namo.
-  citata_rodoma: |
-    Apie maršalo, 29 brolių ir daugybės sembų žūtį
-
-      1320 viešpaties metų liepos 27 dieną, tai yra trečią dieną po švento Jokūbo, apaštalo,
-    dienos, brolis Henrikas, maršalas, atžygiavo su 40 brolių bei Sembos  ir Klaipėdos
-    raiteliais į Medininkų valsčių; kai priekiniai būriai perėjo, kaip reikalauja karo papročiai,
-    per šią žemę ir ją nusiaubė, degindami ir piešdami, šio valsčiaus stabmeldžiai, iš anksto
-    pasirengę kovai, narsiai užpuolė tuos, kurie buvo po vėliava; abiem šalims netekus
-    daugybės [karių] užmuštaisiais, galop jie nukovė brolį Henriką, maršalą, 29 brolius bei
-    daugybę paprastų žmonių. Kiti, nemaža dienų bei naktų klaidžioję be duonos kąsnio
-    dykrose, sugrįžo šiaip ne taip namo.
+  citata_rodoma: "Apie maršalo, 29 brolių ir daugybės sembų žūtį\n\n  1320 viešpaties metų liepos 27 dieną, tai yra trečią dieną po švento Jokūbo, apaštalo,\ndienos, brolis Henrikas, maršalas, atžygiavo su 40 brolių bei Sembos  ir Klaipėdos\nraiteliais į Medininkų valsčių; kai priekiniai būriai perėjo, kaip reikalauja karo papročiai,\nper šią žemę ir ją nusiaubė, degindami ir piešdami, šio valsčiaus stabmeldžiai, iš anksto\npasirengę kovai, narsiai užpuolė tuos, kurie buvo po vėliava; abiem šalims netekus\ndaugybės [karių] užmuštaisiais, galop jie nukovė brolį Henriką, maršalą, 29 brolius bei\ndaugybę paprastų žmonių. Kiti, nemaža dienų bei naktų klaidžioję be duonos kąsnio\ndykrose, sugrįžo šiaip ne taip namo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59867
+    - t-004
+    - t-007
+    - t-005
+
 - id: c-60501
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -454,21 +385,15 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
     savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
     puldinėjo su dviem apgulos mašinomis ir daugybe šaulių.
-  citata_rodoma: |
-    1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
-    brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
-    valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,
-    todėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino
-    brolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami
-    karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi
-    mūsų dievo Jėzaus Kristaus garbei.
+  citata_rodoma: "1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats\nbrolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų\nvalsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,\ntodėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino\nbrolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami\nkaršto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi\nmūsų dievo Jėzaus Kristaus garbei."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59865
+    - t-002
+
 - id: c-60502
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -486,7 +411,9 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59864
+    - t-001
+    - t-004
+
 ## Ryšiai
 - Henrikas iš Plockės puolė [[objektai/vietos/Bisenė]], [[objektai/vietos/Sizditė]]
 - Henrikas iš Plockės apgulė [[objektai/vietos/Bisenė]]

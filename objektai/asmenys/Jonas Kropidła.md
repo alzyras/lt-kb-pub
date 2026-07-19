@@ -33,7 +33,6 @@ Dėl to savo laikų Europos visuomenės viršūnes gerai pažįstąs Kujavų vys
 
 <a id="claim-t-35150"></a>
 - t-001
-  global_id: t-35150
   teiginys: "Kujavų vyskupas Jonas Kropidła Breslave imperatoriui Zigmantui pareiškė, kad karaliaus vardo vertas tik Vytautas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,18 +64,11 @@ Dėl to savo laikų Europos visuomenės viršūnes gerai pažįstąs Kujavų vys
     mone, karaliaus vardo vertas tik vienas Vytautas ir kad, jeigu
     jis galėtų, kurtų pačius Vytautus^1 ). Europoje gi tais laikais bu­
     vo visuotina suirutė.
-  citata_rodoma: |
-    Dėl to savo laikų Europos visuomenės viršūnes
-    gerai pažįstąs Kujavų vyskupas, kunigaikštis Jonas Kropidła,
-    Breslave per puotą prie daugybės kunigaikščių ir atstovų drą­
-    siai galėjo pasakyti imperatoriui Zigmantui į akis, kad, jo nuo­
-    mone, karaliaus vardo vertas tik vienas Vytautas ir kad, jeigu
-    jis galėtų, kurtų pačius Vytautus^1 ). Europoje gi tais laikais bu­
-    vo visuotina suirutė.
+  citata_rodoma: "Dėl to savo laikų Europos visuomenės viršūnes\ngerai pažįstąs Kujavų vyskupas, kunigaikštis Jonas Kropidła,\nBreslave per puotą prie daugybės kunigaikščių ir atstovų drą­\nsiai galėjo pasakyti imperatoriui Zigmantui į akis, kad, jo nuo­\nmone, karaliaus vardo vertas tik vienas Vytautas ir kad, jeigu\njis galėtų, kurtų pačius Vytautus^1 ). Europoje gi tais laikais bu­\nvo visuotina suirutė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35150
+    - t-001

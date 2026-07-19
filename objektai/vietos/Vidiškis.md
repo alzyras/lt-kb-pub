@@ -31,7 +31,6 @@ Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraiči
 
 <a id="claim-t-42266"></a>
 - t-001
-  global_id: t-42266
   teiginys: "Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,20 +66,14 @@ Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraiči
     jinga padėtis, lenkams pasiekus savo puo-
     limo tikslą, Lietuvai būtų iškilęs pavojus
     prarasti nepriklausomybę.
-  citata_rodoma: |
-    Spalio 26-27 d. lenkai apėjo kai-
-
-    rįjį lietuvių sparną ir užėmė Giedraičius,
-    Želvą, Dubingius, Vidiškį. Susidarė pavo-
-    jinga padėtis, lenkams pasiekus savo puo-
-    limo tikslą, Lietuvai būtų iškilęs pavojus
-    prarasti nepriklausomybę.
+  citata_rodoma: "Spalio 26-27 d. lenkai apėjo kai-\n\nrįjį lietuvių sparną ir užėmė Giedraičius,\nŽelvą, Dubingius, Vidiškį. Susidarė pavo-\njinga padėtis, lenkams pasiekus savo puo-\nlimo tikslą, Lietuvai būtų iškilęs pavojus\nprarasti nepriklausomybę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42266
+    - t-001
+
 ## Ryšiai
 - Užėmė Vidiškį: [[objektai/grupes/Lenkai]]

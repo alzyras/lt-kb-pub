@@ -31,7 +31,6 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
 
 <a id="claim-t-199545"></a>
 - t-001
-  global_id: t-199545
   teiginys: "Vytauto pasakojime Jogaila Liublino pilyje Skirgailai raštu užrašė visą Vytauto tėviškę jo akivaizdoje."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -43,10 +42,9 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182302
-    - c-170640
+
 <a id="claim-t-201080"></a>
 - t-002
-  global_id: t-201080
   teiginys: "Tą metą lenkai, nenubengę dar su visu karės su lietuviais, ėmė gudus kariauti, vildamos atimsią nuo jų Liublino pilį, pirm 57 metų užimtą."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -70,26 +68,21 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
     kėjimą.
     Jau metai laiko nūnai, kai kunigaikštis [Jogailai
     Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
-    visą mano tėviškę mano akivaizdoje6 . Man tai buvo
+    visą mano tėviškę mano akivaizdoje6. Man tai buvo
     labai skaudu.
-  citata_rodoma: |
-    Tai buvo iš jų pusės daroma man didelė neteisybė, kad
-    jie prieš mano valią spyrė, kad aš priimčiau rusų ti­
-    kėjimą.
-    Jau metai laiko nūnai, kai kunigaikštis [Jogailai
-    Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
-    visą mano tėviškę mano akivaizdoje6 . Man tai buvo
-    labai skaudu.
+  citata_rodoma: "Tai buvo iš jų pusės daroma man didelė neteisybė, kad \njie prieš mano valią spyrė, kad aš priimčiau rusų ti­\nkėjimą.\nJau metai laiko nūnai, kai kunigaikštis [Jogailai \nLiublino pilyje užrašė kunigaikščiui Skirgailai raštais \nvisą mano tėviškę mano akivaizdoje6 . Man tai buvo \nlabai skaudu."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199545
+    - t-001
+
 - id: c-184430
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą metą lenkai, nenubengę dar su visu karės su
     lietuviais, ėmė gudus kariauti, vildamos atimsią
@@ -109,22 +102,4 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201080
-- id: c-170640
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Tai buvo iš jų pusės daroma man didelė neteisybė, kad
-    jie prieš mano valią spyrė, kad aš priimčiau rusų ti­
-    kėjimą.
-    Jau metai laiko nūnai, kai kunigaikštis [Jogailai
-    Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
-    visą mano tėviškę mano akivaizdoje6 . Man tai buvo
-    labai skaudu.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-199545
+    - t-002

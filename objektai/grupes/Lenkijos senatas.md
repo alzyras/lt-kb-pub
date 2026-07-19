@@ -33,8 +33,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 ## Teiginiai
 
 <a id="claim-t-86758"></a>
-- t-001
-  global_id: t-86758
+- t-002
   teiginys: "Be Vladislovo Jogailos ir Lenkijos senato valios Vytautui nebuvo galima uždėti Lietuvos karaliaus karūnos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - c-82738
 
 <a id="claim-t-86759"></a>
-- t-002
-  global_id: t-86759
+- t-001
   teiginys: "Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +67,6 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 
 <a id="claim-t-184537"></a>
 - t-003
-  global_id: t-184537
   teiginys: "Lenkijos senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperatoriaus sumanymams jis nusileistų Lietuvos ir Lenkijos priešui."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -90,7 +87,6 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 
 <a id="claim-t-184538"></a>
 - t-004
-  global_id: t-184538
   teiginys: "Žygimanto pasiuntiniai turėjo pranešti senatui įvykius ir reikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -110,7 +106,6 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 
 <a id="claim-t-184539"></a>
 - t-005
-  global_id: t-184539
   teiginys: "Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -130,8 +125,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - c-167900
 
 <a id="claim-t-196096"></a>
-- t-006
-  global_id: t-196096
+- t-007
   teiginys: "Kojelavičiaus pasakojime Gnezno arkivyskupas, kaip senato pirmininkas, kalbėjo iškalbingai, bet varžėsi, bijodamas įžeisti Vytautą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -144,8 +138,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - c-167898
 
 <a id="claim-t-196097"></a>
-- t-007
-  global_id: t-196097
+- t-008
   teiginys: "Žygimanto pasiuntiniai turėjo senatui papasakoti įvykius Lietuvoje ir pareikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -158,8 +151,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - c-178527
 
 <a id="claim-t-196098"></a>
-- t-008
-  global_id: t-196098
+- t-009
   teiginys: "Susitarime numatyta laikytis Lietuvos unijos su Lenkija ir riboti Žygimanto siekį gauti karaliaus titulą ar karališkąsias insignijas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -193,7 +185,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86759
+    - t-001
+
 - id: c-82738
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -216,7 +209,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86758
+    - t-002
+
 - id: c-167898
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -246,8 +240,9 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184537
-    - t-196096
+    - t-003
+    - t-007
+
 - id: c-167899
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -272,7 +267,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184538
+    - t-004
+
 - id: c-167900
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -301,7 +297,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184539
+    - t-005
+
 - id: c-167901
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -339,7 +336,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196098
+    - t-009
+
 - id: c-178527
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -364,6 +362,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196097
+    - t-008
+
 ## Ryšiai
 - Lenkijos senatas siuntė į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

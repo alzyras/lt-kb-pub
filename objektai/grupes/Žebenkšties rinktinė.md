@@ -38,7 +38,6 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
 
 <a id="claim-t-38912"></a>
 - t-001
-  global_id: t-38912
   teiginys: "1945 m. vasarą apie 60 Juozo Čeponio-Budrio vadovaujamų Žebenkšties rinktinės kovotojų persikėlė iš Bedančių miško į Virtukų pušyną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
 
 <a id="claim-t-193739"></a>
 - t-002
-  global_id: t-193739
   teiginys: "1945 m. įstojo į partizanų Žebenkšties rinktinę Raseinių rajone."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,8 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38912
+    - t-001
+
 - id: c-176404
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -108,4 +107,4 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193739
+    - t-002

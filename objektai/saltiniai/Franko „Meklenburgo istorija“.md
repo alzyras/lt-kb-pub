@@ -30,7 +30,6 @@ Narbutas teigia, kad matydamas, jog ta tauta meldžiasi kažkokia nesuprantama j
 
 <a id="claim-t-194851"></a>
 - t-001
-  global_id: t-194851
   teiginys: "Narbutas teigia, kad matydamas, jog ta tauta meldžiasi kažkokia nesuprantama jiems kalba, atminimui, dėl originalumo perrašė jų Dievo maldą ir įdėjo į savo „Meklenburgo istoriją “, parašytą XVamžiuje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Narbutas teigia, kad matydamas, jog ta tauta meldžiasi kažkokia nesuprantama j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194851
+    - t-001

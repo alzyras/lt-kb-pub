@@ -31,7 +31,6 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
 
 <a id="claim-t-36818"></a>
 - t-001
-  global_id: t-36818
   teiginys: "Vytauto vietininkai plėtė dvarų ūkį neapgyventose žemėse, įkurdindami jose dvaro žmones arba nuomininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
 
 <a id="claim-t-36819"></a>
 - t-002
-  global_id: t-36819
   teiginys: "Vytautas įkurdindavo darbininkus savo neužimtose žemėse, atleisdavo juos nuo lažo ir padarydavo laisvus nuomininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
 
 <a id="claim-t-184246"></a>
 - t-003
-  global_id: t-184246
   teiginys: "Vytauto vietininkai plėtė dvarus neapgyventose žemėse, įkurdindami dvaro žmones arba nuomininkus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -97,7 +94,8 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36818
+    - t-001
+
 - id: c-38752
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -114,21 +112,15 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
     duodamos turtingesniems, nes iš jų tikėtasi geresnės karinės
     prievolės atlikimo. Taip buvo kolonizuojama ir Žemaitija ir ki­
     ti kraštai.
-  citata_rodoma: |
-    Taip pat ir kitais sumetimais Vytautas stengdavosi įkur­
-    dinti neužimtose, bet jam priklausomose žemėse, plėsdamas jose
-    dvarų ūkį ir įkurdamas darbininkus, kuriuos atleisdavo nuo lažo
-    ir padarydavo laisvus nuomininkus, arba tos žemės būdavo
-    duodamos turtingesniems, nes iš jų tikėtasi geresnės karinės
-    prievolės atlikimo. Taip buvo kolonizuojama ir Žemaitija ir ki­
-    ti kraštai.
+  citata_rodoma: "Taip pat ir kitais sumetimais Vytautas stengdavosi įkur­\ndinti neužimtose, bet jam priklausomose žemėse, plėsdamas jose\ndvarų ūkį ir įkurdamas darbininkus, kuriuos atleisdavo nuo lažo\nir padarydavo laisvus nuomininkus, arba tos žemės būdavo\nduodamos turtingesniems, nes iš jų tikėtasi geresnės karinės\nprievolės atlikimo. Taip buvo kolonizuojama ir Žemaitija ir ki­\nti kraštai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36819
+    - t-002
+
 - id: c-167630
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -148,4 +140,4 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184246
+    - t-003

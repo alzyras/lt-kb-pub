@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189699"></a>
 - t-001
-  global_id: t-189699
   teiginys: "Narbutas pasakoja, kad prie Pokliaus stabo būdavo dedama nurodyto žmogaus galva kaip dievams skirta permaldavimo auka."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -67,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-197242"></a>
 - t-002
-  global_id: t-197242
   teiginys: "Jeigu kraujas plūsdavo srove, tai būda vo geras ir sėkmingas ženklas, priešingai, jeigu vos lašėdavo, tuomet nebuvo ko tikėtis sėkmės kare; puolamąjį karą sustab dydavo, kol dievai parodys geresnį ženklą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189699
+    - t-001
+
 - id: c-179082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -124,4 +123,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197242
+    - t-002

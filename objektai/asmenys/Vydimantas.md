@@ -32,7 +32,6 @@ Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 
 
 <a id="claim-t-35338"></a>
 - t-001
-  global_id: t-35338
   teiginys: "Vydimantas buvo žinomas Žemaičių bajoras, kurio dukterį Birutę vedė Kęstutis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,19 +64,14 @@ Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 
     buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
     giems valdovams buvę nepatogu susirišti giminystės ryšiais su
     savo pavaldiniais.
-  citata_rodoma: |
-    Jo tėvas Kęstutis, nuolatinis
-    Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo
-    Žemaičių bajoro Vydimanto dukterį Birutę. Anuo laiku, tiesa,
-    buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
-    giems valdovams buvę nepatogu susirišti giminystės ryšiais su
-    savo pavaldiniais.
+  citata_rodoma: "Jo tėvas Kęstutis, nuolatinis\nŽemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo\nŽemaičių bajoro Vydimanto dukterį Birutę. Anuo laiku, tiesa,\nbuvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­\ngiems valdovams buvę nepatogu susirišti giminystės ryšiais su\nsavo pavaldiniais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35338
+    - t-001
+
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Birutė]]

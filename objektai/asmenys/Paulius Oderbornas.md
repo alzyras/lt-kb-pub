@@ -28,7 +28,6 @@ Kauno liuteronų bendruomenei šitame pasitarime atstovavo kunigas Paulius Oderb
 
 <a id="claim-t-202107"></a>
 - t-001
-  global_id: t-202107
   teiginys: "Kauno liuteronų bendruomenei šitame pasitarime atstovavo kunigas Paulius Oderbornas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Kauno liuteronų bendruomenei šitame pasitarime atstovavo kunigas Paulius Oderb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202107
+    - t-001

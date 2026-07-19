@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-62238"></a>
 - t-001
-  global_id: t-62238
   teiginys: "1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako asmenį, datą, veiksmą ir yra paremtas citata."
   pagrindžia:
     - c-62739
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais.'
@@ -88,8 +87,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62238
+
 ## Citatos
 
 - id: c-62739
@@ -108,20 +106,11 @@ Nenurodyta
     1297 viešpaties metais kilo begaliniai Rygos miestiečių ir Teutonų ordino brolių
     kivirčai, kurie vienu metu taip įsiliepsnojo, kad broliai per pusantrų metų, neišvengiamos
     būtinybės verčiami, devynis kartus su jais stojo į kovą.
-  citata_rodoma: |
-    Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į
-    Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras,  ir,
-    išvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir
-    paguodė juos išmintingais žodžiais ir pamokymais.
-
-
-
-
-                 265 (258). Apie Kimelio pilies sunaikinimą 1296 metais
+  citata_rodoma: "Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į\nPrūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras,  ir,\nišvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir\npaguodė juos išmintingais žodžiais ir pamokymais.\n\n\n\n\n             265 (258). Apie Kimelio pilies sunaikinimą 1296 metais"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62238
+    - t-001

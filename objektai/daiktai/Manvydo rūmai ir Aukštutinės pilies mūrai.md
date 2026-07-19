@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-87083"></a>
 - t-001
-  global_id: t-87083
   teiginys: "1396 metais pilies kalno nuošliaužos užslinko ant Manvydo rūmų, o Aukštutinės pilies mūrai nuostolių nepatyrė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,16 +84,11 @@ Nenurodyta
     bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
     Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
     turtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
-  citata_rodoma: |
-    1396-ieji me­
-    tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
-    bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
-    Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
-    turtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
+  citata_rodoma: "1396-ieji me­\ntai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties \nbei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados \nManvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir \nturtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87083
+    - t-001

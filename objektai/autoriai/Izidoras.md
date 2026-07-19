@@ -29,30 +29,8 @@ Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygu
 
 ## Teiginiai
 
-<a id="claim-t-190429"></a>
-- t-001
-  global_id: t-190429
-  teiginys: "Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygumose matė ąžuolą, žmonių laikytą šventu."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Abraomas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Izidoras: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Abraomas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Izidoras\" parinktas kaip owner_note_path. Targetas \"Abraomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173312
-
 <a id="claim-t-197300"></a>
 - t-002
-  global_id: t-197300
   teiginys: "Izidoras lošė tuo metu, kai atlėkė bitė su pranešimu; užuot paklausęs paslaugios pasiuntinės, jis vos neužmušė jos už įkyrų zvimbimą paausy."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -89,5 +67,4 @@ Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190429
-    - t-197300
+    - t-002

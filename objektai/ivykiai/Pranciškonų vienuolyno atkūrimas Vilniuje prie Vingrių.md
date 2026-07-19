@@ -54,10 +54,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186572"></a>
-- t-001
-  global_id: t-186572
+- t-003
   teiginys: "Lietuvos metraštis šį vienuolyną pateikia kaip pirmą krikščionišką Romos tikėjimo vienuolyną Vilniuje."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-169882
 
 <a id="claim-t-196787"></a>
-- t-002
-  global_id: t-196787
+- t-004
   teiginys: "Lietuvos metraštis pasakoja, kad po Algirdo mirties Kęstutis pripažino Jogailą didžiuoju kunigaikščiu Vilniuje ir važinėjo pas jį tartis."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -105,20 +103,12 @@ Nenurodyta
     davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
     gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
     dą34 ir išvedė į žmones.
-  citata_rodoma: |
-    O paskui Petras Goštautas atsivedė kitus vienuo-
-    lius-pranciškonus, bet nebedrįso jau statyti jiems vie­
-    nuolyno toje vietoje, kur pirmieji nužudyti, įkūrė jiems
-    vienuolyną toje vietoje, kur smėlynėje prie Vingrių
-    turėjo pasistatęs namą, kur dabar stovi dievo motinos
-    vienuolynas \  Ir nuo tų laikų Vilniuje stovi pirmas
-    krikščioniškas Romos tikėjimo dievo motinos vienuo­
-    lių vienuolynas 5 .
+  citata_rodoma: "O paskui Petras Goštautas atsivedė kitus vienuo- \nlius-pranciškonus, bet nebedrįso jau statyti jiems vie­\nnuolyno toje vietoje, kur pirmieji nužudyti, įkūrė jiems \nvienuolyną toje vietoje, kur smėlynėje prie Vingrių \nturėjo pasistatęs namą, kur dabar stovi dievo motinos \nvienuolynas \\  Ir nuo tų laikų Vilniuje stovi pirmas \nkrikščioniškas Romos tikėjimo dievo motinos vienuo­\nlių vienuolynas 5 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186572
-    - t-196787
+    - t-003
+    - t-004

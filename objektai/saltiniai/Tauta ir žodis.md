@@ -8,15 +8,15 @@ datos:
   - '1972 m.'
 date_start: '1408'
 date_end: '1972'
+amziai:
+  - 'XV'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - saltinis
   - tauta
-amziai:
-  - 'XV'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-202297"></a>
 - t-001
-  global_id: t-202297
   teiginys: "Artėjant Vytauto mirties metinėms Jonas Remeika (1891-1972) 1928 m. Kaune prie leidinyje Tauta ir žodis paskelbtos savo studijos Der Handel auf der Memel von Anfang der 14."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202297
+    - t-001

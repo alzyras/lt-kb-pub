@@ -39,7 +39,6 @@ Narbutas rašo, kad danų mokslininkas Rasmusas Raskas 1817 m. lietuvius kildino
 
 <a id="claim-t-191354"></a>
 - t-001
-  global_id: t-191354
   teiginys: "Narbutas rašo, kad danų mokslininkas Rasmusas Raskas 1817 m. lietuvius kildino iš to paties „lizdo“ kaip ir Narbutas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Narbutas rašo, kad danų mokslininkas Rasmusas Raskas 1817 m. lietuvius kildino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191354
+    - t-001

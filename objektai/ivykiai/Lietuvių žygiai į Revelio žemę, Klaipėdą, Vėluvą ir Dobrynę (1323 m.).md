@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-59554"></a>
 - t-001
-  global_id: t-59554
   teiginys: "M. Tepenas manė, kad Dusburgietis 1323 m. lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę aprašė remdamasis Varmės dokumentu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-59555"></a>
 - t-002
-  global_id: t-59555
   teiginys: "G. Liabuda atmetė nuomonę, kad 1323 m. lietuvių žygių ir Gedimino krikšto bei taikos pasakojimai paremti dokumentais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -119,7 +117,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59554
+    - t-001
+
 - id: c-60187
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -135,4 +134,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59555
+    - t-002

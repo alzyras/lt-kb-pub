@@ -38,7 +38,6 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
 
 <a id="claim-t-60444"></a>
 - t-001
-  global_id: t-60444
   teiginys: "1321 m. brolis Tame iš Meiseno penkiasdešimt šeštus metus gyveno Baigoje ir tiek pat metų buvo išbuvęs Teutonų ordine."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,6 +76,7 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60444
+    - t-001
+
 ## Ryšiai
 - Tame (Baigos brolis) gyveno [[objektai/vietos/Baiga]]

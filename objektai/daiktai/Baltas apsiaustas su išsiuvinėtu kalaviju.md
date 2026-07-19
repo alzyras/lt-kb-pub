@@ -61,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-47800"></a>
 - t-001
-  global_id: t-47800
   teiginys: "Kalavijuočių ordino nariai ant balto apsiausto, be raudono kryžiaus, nešiojo išsiuvinėtą kalaviją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -93,15 +92,11 @@ Nenurodyta
     raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją. Popiežiaus privi­
     legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
     ordino prieauglių.
-  citata_rodoma: |
-    Jojo nariai ( _Schwertbrueder_ ) ant savo balto apsiausto, be
-    raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją. Popiežiaus privi­
-    legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
-    ordino prieauglių.
+  citata_rodoma: "Jojo nariai ( _Schwertbrueder_ ) ant savo balto apsiausto, be\nraudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją. Popiežiaus privi­\nlegijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo\nordino prieauglių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47800
+    - t-001

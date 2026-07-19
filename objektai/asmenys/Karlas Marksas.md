@@ -30,7 +30,6 @@ Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją
 
 <a id="claim-t-78061"></a>
 - t-001
-  global_id: t-78061
   teiginys: "Sovietinėje švietimo sistemoje mokytojai buvo verčiami studijuoti Karlo Markso veikalus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,15 +57,11 @@ Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją
     V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
     partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
     gą.
-  citata_rodoma: |
-    Mokytojai verčiami studijuoti
-    V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
-    partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
-    gą.
+  citata_rodoma: "Mokytojai verčiami studijuoti \nV. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų \npartijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-\ngą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78061
+    - t-001

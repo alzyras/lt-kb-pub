@@ -31,7 +31,6 @@ Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, 
 
 <a id="claim-t-87895"></a>
 - t-001
-  global_id: t-87895
   teiginys: "Kunigaikštis Zubovas pradėjo tvarkyti Raudonę, siekdamas grąžinti jai senovinį gotikinį vaizdą, bet mirė nebaigęs darbų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87895
+    - t-001

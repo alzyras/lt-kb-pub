@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87191"></a>
-- t-001
-  global_id: t-87191
+- t-002
   teiginys: "1584 m. Gardine Steponas Batoras paskelbė Vilniaus vyskupijos jurisdikcijos pavaldinius laisvus nuo miesto pasaulietinės jurisdikcijos ir cechų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -151,4 +150,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87191
+    - t-002

@@ -33,7 +33,6 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 
 <a id="claim-t-18754"></a>
 - t-001
-  global_id: t-18754
   teiginys: "Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,14 +90,14 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
     imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
     jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
-  citata_rodoma: |
-    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
+  citata_rodoma: "jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18754
+    - t-001
+
 ## Ryšiai
 - Puolė Adalbertą: [[objektai/grupes/Prūsai]]

@@ -33,7 +33,6 @@ Kaipogi pats Tyras, jų buveinė ir žilos senovės pilė, visų gar siausia sav
 
 <a id="claim-t-201178"></a>
 - t-001
-  global_id: t-201178
   teiginys: "Kaipogi pats Tyras, jų buveinė ir žilos senovės pilė, visų gar siausia savo turtais ir savo prekyba visoj pasaulėj, buvo įduota globti dievui, taip vadinamam Tyro bo čiui, arba viešpačiui, kursai glemžė jį nuo pavoju mo ir laimino jo prekybą, kurį penicijonys."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Kaipogi pats Tyras, jų buveinė ir žilos senovės pilė, visų gar siausia sav
 ## Citatos
 
 - id: c-184528
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Regis, jog tą vaisių žemaičių žemės gavo saulė­
     tekio tautos nuo penicijonų, kurie, pagirti senovėj
@@ -78,4 +78,4 @@ Kaipogi pats Tyras, jų buveinė ir žilos senovės pilė, visų gar siausia sav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201178
+    - t-001

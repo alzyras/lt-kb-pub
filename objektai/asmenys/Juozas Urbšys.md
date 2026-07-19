@@ -39,8 +39,7 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
 ## Teiginiai
 
 <a id="claim-t-19026"></a>
-- t-001
-  global_id: t-19026
+- t-003
   teiginys: "Juozui Urbšiui prireikė skristi į Kauną konsultuotis, nes sovietai reikalavo įsileisti į Lietuvą savo karines bazes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
     - c-21787
 
 <a id="claim-t-19027"></a>
-- t-002
-  global_id: t-19027
+- t-004
   teiginys: "Birželio 10 d. Kaune nutarta pasiųsti ministrą Juozą Urbšį į Maskvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
     - c-21788
 
 <a id="claim-t-19028"></a>
-- t-003
-  global_id: t-19028
+- t-002
   teiginys: "1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir teritorijos perdavimo Vokietijai sutartis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,8 +93,7 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
     - c-21786
 
 <a id="claim-t-19029"></a>
-- t-004
-  global_id: t-19029
+- t-001
   teiginys: "Viačeslavui Molotovui pakvietus Juozą Urbšį atvykti į Maskvą, Juozas Urbšys išvyko spalio 2 dieną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,7 +111,6 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
 
 <a id="claim-t-19030"></a>
 - t-005
-  global_id: t-19030
   teiginys: "Birželio 14 d. vakare Juozas Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai kelti sovietų reikalavimai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -145,16 +140,15 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
     spaudimą Lietuvai kaip ranka nuėmė.
     Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
     kvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną.
-  citata_rodoma: |
-    Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
-    kvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną.
+  citata_rodoma: "Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-\nkvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19029
+    - t-001
+
 - id: c-21786
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -166,15 +160,15 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
     Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
     pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
     dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
-  citata_rodoma: |
-    pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
+  citata_rodoma: "pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19028
+    - t-002
+
 - id: c-21787
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -187,15 +181,15 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
     nai etnines lietuvių žemes ir 150 000 gyventojų. Derybos vyko sunkiai,
     J. Urbšiui prireikė skristi į Kauną konsultuotis, nes sovietai reikalavo įsi-
     leisti į Lietuvą savo karines bazes.
-  citata_rodoma: |
-    J. Urbšiui prireikė skristi į Kauną konsultuotis, nes sovietai reikalavo įsi-
+  citata_rodoma: "J. Urbšiui prireikė skristi į Kauną konsultuotis, nes sovietai reikalavo įsi-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19026
+    - t-003
+
 - id: c-21788
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -207,15 +201,15 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
     absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
     sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
     į Maskvą ministrą J. Urbšį.
-  citata_rodoma: |
-    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
+  citata_rodoma: "sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19027
+    - t-004
+
 - id: c-21789
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -232,15 +226,15 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
     timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto.
-  citata_rodoma: |
-    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
+  citata_rodoma: "laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19030
+    - t-005
+
 ## Ryšiai
 - Juozas Urbšys keliavo į [[objektai/vietos/Kaunas]], [[objektai/vietos/Maskva]]
 - Juozas Urbšys siuntė į [[objektai/vietos/Maskva]]

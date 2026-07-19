@@ -37,7 +37,6 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
 
 <a id="claim-t-02077"></a>
 - t-001
-  global_id: t-02077
   teiginys: "Draugija statuto 1 paragrafe įrašė tikslą mokslui surinkti ir išsaugoti kalbos, istorijos, tautosakos ir panašius duomenis apie Lietuvą ir lietuvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
 
 <a id="claim-t-02078"></a>
 - t-002
-  global_id: t-02078
   teiginys: "Draugija nesirūpino kelti lietuvybės, o rinko ir saugojo mokslo reikalams lietuviškosios kultūros palaikus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,17 +84,15 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
     duomenis, liečiančius Lietuvą ir lietuvius". Taigi ji nesirūpino
     kelti lietuvybės, o vien tik rinkti ir saugoti mokslo reikalui lie-
     tuviškosios kultūros palaikus.
-  citata_rodoma: |
-    Taigi ji nesirūpino
-    kelti lietuvybės, o vien tik rinkti ir saugoti mokslo reikalui lie-
-    tuviškosios kultūros palaikus.
+  citata_rodoma: "Taigi ji nesirūpino\nkelti lietuvybės, o vien tik rinkti ir saugoti mokslo reikalui lie-\ntuviškosios kultūros palaikus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02078
+    - t-002
+
 - id: c-02316
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -110,15 +106,11 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
     tuto § 1 įsirašė šitokį darbo tikslą: „Surinkti ir išsaugo-
     ti mokslui visus kalbos, istorijos, tautosakos ir panašius
     duomenis, liečiančius Lietuvą ir lietuvius".
-  citata_rodoma: |
-    Draugija savo sta-
-    tuto § 1 įsirašė šitokį darbo tikslą: „Surinkti ir išsaugo-
-    ti mokslui visus kalbos, istorijos, tautosakos ir panašius
-    duomenis, liečiančius Lietuvą ir lietuvius".
+  citata_rodoma: "Draugija savo sta-\ntuto § 1 įsirašė šitokį darbo tikslą: „Surinkti ir išsaugo-\nti mokslui visus kalbos, istorijos, tautosakos ir panašius\nduomenis, liečiančius Lietuvą ir lietuvius\"."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02077
+    - t-001

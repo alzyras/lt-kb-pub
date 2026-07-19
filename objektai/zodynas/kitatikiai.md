@@ -39,7 +39,6 @@ Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII am
 
 <a id="claim-t-193287"></a>
 - t-001
-  global_id: t-193287
   teiginys: "Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII amžiuje."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII am
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193287
+    - t-001

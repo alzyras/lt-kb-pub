@@ -44,7 +44,6 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 
 <a id="claim-t-18955"></a>
 - t-001
-  global_id: t-18955
   teiginys: "Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,28 +64,19 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 
 <a id="claim-t-190883"></a>
 - t-002
-  global_id: t-190883
   teiginys: "Plocko katedros klebonas Jaroslavas siejamas su kronika, kurioje vyskupas Kristijonas galėjo rasti Divonio kelionės aprašymą."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Divonis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jaroslavas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Divonis: mention_match, person, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jaroslavas\" parinktas kaip owner_note_path. Targetas \"Divonis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173765
+    - c-179326
 
 <a id="claim-t-190884"></a>
 - t-003
-  global_id: t-190884
   teiginys: "Teodoras Narbutas Jaroslavo ir Kristijono pasakojimus apie ulmigerus laikė paremtais tikrove."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -107,7 +97,6 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 
 <a id="claim-t-197755"></a>
 - t-005
-  global_id: t-197755
   teiginys: "Tas pats Jaroslavas 1041 metais puolė ir Lietuvą, tačiau nėra žinių, kad jis būtų lietuvių belaisvius perkėlęs į Ukrainą, taiip pat niekur negalima matyti ukrainiečių tautybės žmonių susimai šymo su lietuviais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -120,7 +109,6 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 
 <a id="claim-t-200998"></a>
 - t-006
-  global_id: t-200998
   teiginys: "Višislavas įgavęs Naugardą į valdžią, Iziaslavas Polocką, Jaroslavas Rostovą, kuriam nustipus, kliuvo jis Bo risui, Glėbas gavo Muromą, Sviatoslavas Pajuodgirę, Viršuj: g eia i."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -130,22 +118,6 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184348
-
-<a id="claim-t-190885"></a>
-- t-004
-  global_id: t-190885
-  teiginys: 'Narbuto pasakojimu, didysis kunigaikštis Jaroslavas 1031 m. iš Lenkijos išsivedė belaisvių ir arčiau Kijevo steigė jų kolonijas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie didžiojo kunigaikščio Jaroslavo veiksmus Narbuto pasakojime. Palikta valdovo titulo atribucija, o papildomos pastabos apie pečenegus ir Lietuvą neįtrauktos.'
-  susije_objektai: 'llm_object: Lenkija; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Pečenegai|Pečenegai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Ukraina'
-  semantiniai_rysiai: '[[objektai/asmenys/Jaroslavas|Jaroslavas]] surengė žygį į Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1031 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jaroslavas surengė žygį į Lenkija“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie didžiojo kunigaikščio Jaroslavo veiksmus Narbuto pasakojime. Palikta valdovo titulo atribucija, o papildomos pastabos apie pečenegus ir Lietuvą neįtrauktos.'
-  pagrindžia:
-    - c-004
 - susijęs iš [[objektai/asmenys/Jaroslavas (Kijevo valdovas).md#claim-t-39556|Jaroslavas (Kijevo valdovas)]]: 1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.).md#claim-t-40177|Jaroslavas (rusų kunigaikštis, 1234 m.)]]: 1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.
 - susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.).md#claim-t-47770|Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]: Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą, bet jo eiga metraštyje neaprašyta.
@@ -181,11 +153,9 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
     šymo su lietuviais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190885
+  statusas: verified
 ## Citatos
 
 - id: c-21716
@@ -199,15 +169,15 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
     mybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai XI a. vidu-
     ryje (XII a. pradžioje lietuviai minimi tarp genčių, kurios moka Kijevo
     Rusiai duoklę).
-  citata_rodoma: |
-    ryje (XII a. pradžioje lietuviai minimi tarp genčių, kurios moka Kijevo
+  citata_rodoma: "ryje (XII a. pradžioje lietuviai minimi tarp genčių, kurios moka Kijevo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18955
+    - t-001
+
 - id: c-173765
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -221,21 +191,13 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
     liovos net iki dešimtojo Augusto Oktaviano konsulato, t. y.
     iki 24 metų prieš Kristaus gimimą. Tiems topografams
     vadovavo kažkoks Teodoras, Teodatas ar Tironas5.
-  citata_rodoma: |
-    Tačiau Tidemanas rašo, kad
-    jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės
-    aprašymas išliko rankraštyje, kuris atiteko Plocko kated­
-    ros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­
-    no rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi
-    būti knyga, parašyta slavų kalba, bet graikiškomis raidė­
-    mis2.
+  citata_rodoma: "Tačiau Tidemanas rašo, kad\njis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės\naprašymas išliko rankraštyje, kuris atiteko Plocko kated­\nros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­\nno rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi\nbūti knyga, parašyta slavų kalba, bet graikiškomis raidė­\nmis2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190883
 - id: c-173766
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -257,7 +219,8 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190884
+    - t-003
+
 - id: c-179326
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -280,10 +243,13 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197755
+    - t-002
+    - t-005
+
 - id: c-184348
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu radimičiai, apkyrėjus donį bemokėti
     Vladimirui, patrakę, kuriuos vienok jis sudraudęs
@@ -307,7 +273,8 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200998
+    - t-006
+
 ## Ryšiai
 - Jaroslavas buvo valdovas [[objektai/vietos/Kijevo Rusia]]
 - Jaroslavas surengė žygį į [[objektai/vietos/Lenkija]]

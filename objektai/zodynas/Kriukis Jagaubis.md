@@ -31,7 +31,6 @@ Narbutas Kriukį (Krugį) apibūdina kaip kalvių dievą ar Vulkano liekaną ir 
 
 <a id="claim-t-189227"></a>
 - t-001
-  global_id: t-189227
   teiginys: "Narbutas Kriukį (Krugį) apibūdina kaip kalvių dievą ar Vulkano liekaną ir jo vardą kildina iš „kriugos“ – kriukio, kablio."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -50,16 +49,6 @@ Narbutas Kriukį (Krugį) apibūdina kaip kalvių dievą ar Vulkano liekaną ir 
   pagrindžia:
     - c-172115
 
-<a id="claim-t-189228"></a>
-- t-002
-  global_id: t-189228
-  teiginys: 'Narbutas rašo, kad Ksaveras Bogušas Vulkaną lietuviškai vadino Jagaubiu, ir spėja šį vardą buvus paimtą iš dainos ar padavimo.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sujungtas Bogušo vartojamas vardas ir Narbuto spėjimas. Motyvuojanti kilmės prielaida neperteikta kaip neutralus faktas.'
-  pagrindžia:
-    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašo, kad Ksaveras Bogušas Vulkaną lietuviškai vadino Jagaubiu, ir spėja šį vardą buvus paimtą iš dainos ar padavimo.'
@@ -77,11 +66,9 @@ Narbutas Kriukį (Krugį) apibūdina kaip kalvių dievą ar Vulkano liekaną ir 
     vardais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189228
+  statusas: verified
 ## Citatos
 
 - id: c-172115
@@ -102,4 +89,4 @@ Narbutas Kriukį (Krugį) apibūdina kaip kalvių dievą ar Vulkano liekaną ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189227
+    - t-001

@@ -49,9 +49,8 @@ Nenurodyta
 
 <a id="claim-t-185612"></a>
 - t-001
-  global_id: t-185612
   teiginys: "1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-196213"></a>
 - t-002
-  global_id: t-196213
   teiginys: "Kojelavičius Lietuvos žygių į Mazoviją kontekste vaizdavo lenkus ir mozūrus kaip dažnų lietuvių antpuolių varginamus krikščionis."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -103,25 +101,12 @@ Nenurodyta
     nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū­
     mus atvyko pakviesta Daumanto, Nalšios kunigaikš­
     čio, žmona, karalienės sesuo.
-  citata_rodoma: |
-    Ki­
-    tais metais Mindaugas žiemą nusiaubė Livoniją: vasa­
-    rio 2 dieną užėmė bei su-
-    1263 m e ta i
-    griovė Pernu, prie Daugav-
-    gryvos susikovė su priešu.
-    Po to kitą vasarą vėl kariuomenę nusiuntė į Mazovi­
-    ją: kadangi čia negalėjo priešo įvilioti į mūšį, o po
-    ankstesnių nuniokojimų šalyje nebuvo nieko dora li­
-    kę, jis persikėlė per Vyslą. Iki tol išliko nepaliestos
-    Lovičiaus apygardos, todėl iš ten buvo išgabentas di­
-    džiulis grobis, o visa kita sunaikinta ugnimi ir kalavi­
-    ju.
+  citata_rodoma: "Ki­\ntais metais Mindaugas žiemą nusiaubė Livoniją: vasa­\nrio 2 dieną užėmė bei su-\n1263 m e ta i\ngriovė Pernu, prie Daugav-\ngryvos susikovė su priešu.\nPo to kitą vasarą vėl kariuomenę nusiuntė į Mazovi­\nją: kadangi čia negalėjo priešo įvilioti į mūšį, o po\nankstesnių nuniokojimų šalyje nebuvo nieko dora li­\nkę, jis persikėlė per Vyslą. Iki tol išliko nepaliestos\nLovičiaus apygardos, todėl iš ten buvo išgabentas di­\ndžiulis grobis, o visa kita sunaikinta ugnimi ir kalavi­\nju."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185612
-    - t-196213
+    - t-001
+    - t-002

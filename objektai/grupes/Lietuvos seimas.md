@@ -39,7 +39,6 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 
 <a id="claim-t-72534"></a>
 - t-001
-  global_id: t-72534
   teiginys: "Lietuvos seimas liepos 30 d. ratifikavo konvenciją."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 
 <a id="claim-t-72535"></a>
 - t-002
-  global_id: t-72535
   teiginys: "Lietuvos seimas konvenciją ratifikavo liepos 30 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,15 +106,12 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
     Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 
     **4.
-  citata_rodoma: |
-    Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
-
-    **4.
+  citata_rodoma: "Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.\n\n**4."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72534
-    - t-72535
+    - t-001
+    - t-002

@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67248"></a>
-- t-001
-  global_id: t-67248
+- t-004
   teiginys: "Kalnėnai ir žemaičiai tuos paukščius gerbia ne dėl kito priežasties, o dėl jų teikiamos linksmybės ir apsaugos."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67248
+    - t-004

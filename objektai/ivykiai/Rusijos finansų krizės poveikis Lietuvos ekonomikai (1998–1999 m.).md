@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20466"></a>
 - t-001
-  global_id: t-20466
   teiginys: "1998–1999 m. Rusijos finansų krizė Lietuvai sukėlė biudžeto sunkumų, nes iki krizės daug lietuviškų prekių buvo eksportuojama į NVS, pirmiausia Rusiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-20467"></a>
 - t-002
-  global_id: t-20467
   teiginys: "Po Rusijos finansų krizės pagrindinėmis Lietuvos užsienio prekybos partnerėmis tapo Vokietija ir Lenkija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,6 @@ Nenurodyta
 
 <a id="claim-t-183270"></a>
 - t-003
-  global_id: t-183270
   teiginys: "1998–1999 m. Rusijos finansų krizė sukėlė Lietuvai biudžeto sunkumų, nes eksportas į NVS 1999 m. sumažėjo 59 proc."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -117,7 +114,6 @@ Nenurodyta
 
 <a id="claim-t-183271"></a>
 - t-004
-  global_id: t-183271
   teiginys: "Rusijos finansų krizė privertė Lietuvos eksportą persiorientuoti iš nestabilių Rytų rinkų į reiklesnes Vakarų rinkas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -150,15 +146,15 @@ Nenurodyta
     jos finansų krizei. Kadangi iki krizės dauguma lietuviškų prekių keliavo
     į Nepriklausomų Valstybių Sandraugą (NVS), pirmiausia Rusiją, krizės
     metais Lietuva susidūrė su biudžeto sunkumais: 1998 m.
-  citata_rodoma: |
-    jos finansų krizei. Kadangi iki krizės dauguma lietuviškų prekių keliavo
+  citata_rodoma: "jos finansų krizei. Kadangi iki krizės dauguma lietuviškų prekių keliavo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20466
+    - t-001
+
 - id: c-23191
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -169,15 +165,15 @@ Nenurodyta
     nestabilių Rytų rinkų į reiklesnes Vakarų rinkas. Lietuvos pagrindinėmis
     užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija
     (antroje vietoje).
-  citata_rodoma: |
-    užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija
+  citata_rodoma: "užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20467
+    - t-002
+
 - id: c-166659
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -195,7 +191,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183270
+    - t-003
+
 - id: c-166660
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -212,4 +209,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183271
+    - t-004

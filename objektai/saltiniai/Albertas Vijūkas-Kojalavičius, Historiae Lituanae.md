@@ -30,7 +30,6 @@ Narbutas rašo, kad Ksaveras Bogušas poloviečius priskyrė lietuvių genties t
 
 <a id="claim-t-191752"></a>
 - t-001
-  global_id: t-191752
   teiginys: "Narbutas rašo, kad Ksaveras Bogušas poloviečius priskyrė lietuvių genties tautoms, remdamasis Kojalavičiaus prielaidomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Narbutas rašo, kad Ksaveras Bogušas poloviečius priskyrė lietuvių genties t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191752
+    - t-001

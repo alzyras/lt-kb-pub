@@ -32,7 +32,6 @@ Jokūbą, vėl išsiruošė ana­ pus Nemuno ir, dar nesulaukęs savo raitelių,
 
 <a id="claim-t-86230"></a>
 - t-001
-  global_id: t-86230
   teiginys: "Didysis magistras vasarą per Šv. Jokūbą išsiruošė anapus Nemuno ir pradėjo statydinti bei stiprinti Rittersverderio pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Jokūbą, vėl išsiruošė ana­ pus Nemuno ir, dar nesulaukęs savo raitelių,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86230
+    - t-001

@@ -32,7 +32,6 @@ Dusburgietis teigia, kad po derybų Fridrichas II pripažino popiežiaus valdži
 
 <a id="claim-t-60770"></a>
 - t-001
-  global_id: t-60770
   teiginys: "E. Potkowski cituojamas aiškinant Fridricho II ir popiežiaus ginčą dėl dvasinės bei pasaulietinės valdžios ribų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Dusburgietis teigia, kad po derybų Fridrichas II pripažino popiežiaus valdži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60770
+    - t-001

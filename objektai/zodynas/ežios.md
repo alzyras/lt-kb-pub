@@ -31,7 +31,6 @@ Visa žemė buvo išmatuota ir nustatytos aiškios ežios. ežios: tik bylos dė
 
 <a id="claim-t-193293"></a>
 - t-001
-  global_id: t-193293
   teiginys: "Visa žemė buvo išmatuota ir nustatytos aiškios ežios."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Visa žemė buvo išmatuota ir nustatytos aiškios ežios. ežios: tik bylos dė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193293
+    - t-001

@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-31493"></a>
 - t-001
-  global_id: t-31493
   teiginys: "Nuo Vytauto Didžiojo jubiliejinių metų 1930 m. Lietuvos istorijoje ėmė reikštis vadinamasis jaunųjų istorikų būrelis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-31494"></a>
 - t-002
-  global_id: t-31494
   teiginys: "Vytauto Didžiojo jubiliejiniai metai 1930 m. rodė, kad Gediminaičių Lietuva vis dar traukė Lietuvos istorikų dėmesį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,19 +106,15 @@ Nenurodyta
     dalis tu istorikų išėjo į vieno, ar antro fakulteto dėstytojus (K.
     Avižonis, Z. Ivinskis, J. Jakštas, J. Matusas, S. Sužiedėlis, Ad.
     Šapoka).
-  citata_rodoma: |
-    Nuo Vytauto D. jubiliejinių metų (1930) Lietuvos istorijos
-    dirvonuose ėmė pasirodyti vad. «jaunųjų istorikų būrelis », pirmieji
-    Kauno universiteto auklėtiniai, pirmiausia išdrįsę duoti kolektyvi­
-    nes monografijas apie Vytautą D. (red. P. Šležas, 1930), Jogailą
-    (1935) ir stambią Lietuvos istoriją (red. A. Šapoka, 1936).
+  citata_rodoma: "Nuo Vytauto D. jubiliejinių metų (1930) Lietuvos istorijos\ndirvonuose ėmė pasirodyti vad. «jaunųjų istorikų būrelis », pirmieji\nKauno universiteto auklėtiniai, pirmiausia išdrįsę duoti kolektyvi­\nnes monografijas apie Vytautą D. (red. P. Šležas, 1930), Jogailą\n(1935) ir stambią Lietuvos istoriją (red. A. Šapoka, 1936)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31493
+    - t-001
+
 - id: c-33442
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -132,16 +126,11 @@ Nenurodyta
     traukė Lietuvos istorikų dėmesį. Ne tik Vytautas, bet ir jo pirma­
     takai Mindaugas, Vytenis, Gediminas ir Kęstutis susilaukė specia­
     lesnių monografijų.
-  citata_rodoma: |
-    Tad Gediminaičių Lietuva, kaip rodė reikšmingos
-    istorinės sukaktys ir Vytauto D. jubiliejiniai metai (1930), vis dar
-    traukė Lietuvos istorikų dėmesį. Ne tik Vytautas, bet ir jo pirma­
-    takai Mindaugas, Vytenis, Gediminas ir Kęstutis susilaukė specia­
-    lesnių monografijų.
+  citata_rodoma: "Tad Gediminaičių Lietuva, kaip rodė reikšmingos\nistorinės sukaktys ir Vytauto D. jubiliejiniai metai (1930), vis dar\ntraukė Lietuvos istorikų dėmesį. Ne tik Vytautas, bet ir jo pirma­\ntakai Mindaugas, Vytenis, Gediminas ir Kęstutis susilaukė specia­\nlesnių monografijų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31494
+    - t-002

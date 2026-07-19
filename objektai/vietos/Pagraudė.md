@@ -39,8 +39,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 ## Teiginiai
 
 <a id="claim-t-58391"></a>
-- t-001
-  global_id: t-58391
+- t-004
   teiginys: "1317 m. vasarą apie birželio 24 d. maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 
 <a id="claim-t-58392"></a>
 - t-002
-  global_id: t-58392
   teiginys: "Pagraudės ieškota ir labiau į rytus, nors ji siejama su valsčiumi Žemaičių pietvakariuose ties Jūros upe."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - c-59023
 
 <a id="claim-t-58393"></a>
-- t-003
-  global_id: t-58393
+- t-001
   teiginys: "Per žygį į Žemaitijos Pagraudės valsčių užpuolikas pasalomis nukovė beveik visus jį besivijusius raitelius, išskyrus šešis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -88,8 +85,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - c-59024
 
 <a id="claim-t-58394"></a>
-- t-004
-  global_id: t-58394
+- t-003
   teiginys: "Brolis Eberhardas su kariuomene staiga įsiveržė į Lietuvos Pagraudės valsčių ir degindamas bei plėšdamas nusiaubė didžiąją jo dalį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -107,7 +103,6 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 
 <a id="claim-t-184189"></a>
 - t-005
-  global_id: t-184189
   teiginys: "Karas taip palaužė Pagraudės žmones, kad jie ilgus metus nebepajėgė suburti tiek raitelių, kiek galėjo anksčiau."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -120,7 +115,6 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 
 <a id="claim-t-185076"></a>
 - t-006
-  global_id: t-185076
   teiginys: "Sunaikinus Christmemelio įgulą, kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -191,7 +185,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58392
+    - t-002
+
 - id: c-59024
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -209,7 +204,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58393
+    - t-001
+
 - id: c-59025
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -224,19 +220,15 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     ir nusiaubė didžiąją jo dalį, degindamas ir plėšdamas. Tačiau brolių vėliava su savo
     sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis
     grafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti į riterius.
-  citata_rodoma: |
-    Trečią dieną po to tas pat brolis Eberhardas su savo kariuomene staiga įsiveržė,
-    kaip, beje, magistro  ir buvo iš anksto nurodyta,  į Lietuvos valsčių, vardu Pagraudė,
-    ir nusiaubė didžiąją jo dalį, degindamas  ir plėšdamas. Tačiau brolių vėliava su savo
-    sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis
-    grafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti  į riterius.
+  citata_rodoma: "Trečią dieną po to tas pat brolis Eberhardas su savo kariuomene staiga įsiveržė,\nkaip, beje, magistro  ir buvo iš anksto nurodyta,  į Lietuvos valsčių, vardu Pagraudė,\nir nusiaubė didžiąją jo dalį, degindamas  ir plėšdamas. Tačiau brolių vėliava su savo\nsąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis\ngrafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti  į riterius."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58394
+    - t-003
+
 - id: c-59026
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -250,23 +242,15 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150
     vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
     apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
-  citata_rodoma: |
-    Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
-
-      Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
-    broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę
-    į keturias dalis; brolis Hartmanas ir brolis Fridrichas Kvicas su 60 vyrų turėjo užpulti
-    kai kuriuos šio valsčiaus kaimus, bet žygiuodami pasiklydo ir nieko nenuveikė. Antra
-    kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150
-    vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
-    apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
+  citata_rodoma: "Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais\n\n  Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su\nbroliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę\nį keturias dalis; brolis Hartmanas ir brolis Fridrichas Kvicas su 60 vyrų turėjo užpulti\nkai kuriuos šio valsčiaus kaimus, bet žygiuodami pasiklydo ir nieko nenuveikė. Antra\nkariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150\nvyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu\napie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58391
+    - t-004
+
 - id: c-167574
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -283,7 +267,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184189
+    - t-005
+
 - id: c-168437
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -307,7 +292,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185076
+    - t-006
+
 ## Ryšiai
 - Puolė Pagraudę: [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
 - Buvo žygio kryptis: [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]

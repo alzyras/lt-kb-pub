@@ -31,7 +31,6 @@ Narbutas, atmesdamas mitinius gintaro kilmės aiškinimus, mini formulę apie Mu
 
 <a id="claim-t-193003"></a>
 - t-001
-  global_id: t-193003
   teiginys: "Narbutas pasakojimą, kad „gintaru verkė Muleaigrido paukščiai arba hiperborėjų Apolonas“, mini kaip senovės spėlionę apie gintaro kilmę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Narbutas, atmesdamas mitinius gintaro kilmės aiškinimus, mini formulę apie Mu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193003
+    - t-001

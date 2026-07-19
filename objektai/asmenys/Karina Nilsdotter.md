@@ -41,7 +41,6 @@ ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhielmas (Carl Carlson Gyllen
 
 <a id="claim-t-40260"></a>
 - t-001
-  global_id: t-40260
   teiginys: "Karina Nilsdotter buvo Karolio Carlsono Gyllenhielmo motina."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,24 +78,11 @@ ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhielmas (Carl Carlson Gyllen
     švedų kariuomenei,
     veikusiai prieš lietu-
     vius Livonijoje. 1616 m.
-  citata_rodoma: |
-    ee Kuoknesės pilis
-
-    Baronas Karolis Karl-
-    sonas Gyllenhielmas
-    (Carl Carlson Gyllen-
-    hielm, 1574-1650 m.)
-    Švedijos karaliaus
-    Karolio 1x ir Karinos
-    Nilsdotter nesantuo-
-    kinis sūnus. Vadovavo
-    švedų kariuomenei,
-    veikusiai prieš lietu-
-    vius Livonijoje.
+  citata_rodoma: "ee Kuoknesės pilis\n\nBaronas Karolis Karl-\nsonas Gyllenhielmas\n(Carl Carlson Gyllen-\nhielm, 1574-1650 m.)\nŠvedijos karaliaus\nKarolio 1x ir Karinos\nNilsdotter nesantuo-\nkinis sūnus. Vadovavo\nšvedų kariuomenei,\nveikusiai prieš lietu-\nvius Livonijoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40260
+    - t-001

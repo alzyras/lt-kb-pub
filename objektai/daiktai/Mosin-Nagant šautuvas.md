@@ -62,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-39209"></a>
 - t-001
-  global_id: t-39209
   teiginys: "Po 1877-1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +81,6 @@ Nenurodyta
 
 <a id="claim-t-183687"></a>
 - t-002
-  global_id: t-183687
   teiginys: "Mosin-Nagant šautuvas buvo naudotas įvairių pajėgų kovose buvusioje Rusijos imperijos teritorijoje."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -128,7 +126,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39209
+    - t-001
+
 - id: c-167078
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -144,4 +143,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183687
+    - t-002

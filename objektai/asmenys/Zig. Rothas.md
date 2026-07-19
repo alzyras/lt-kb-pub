@@ -31,7 +31,6 @@ Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­ mantas siuntė Vytautu
 
 <a id="claim-t-35395"></a>
 - t-001
-  global_id: t-35395
   teiginys: "Zigmantas siuntė Zig. Rothą pas Vytautą kaip imperatoriaus atstovą aiškinti karūnacijos klausimų ir sklaidyti abejonių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,15 +59,11 @@ Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­ mantas siuntė Vytautu
     Zig. Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­
     mantas siuntė Vytautui supažindinti su įvairiais klausimais dėl
     karūnacijos ir išsklaidyt jo abejones^3 ).
-  citata_rodoma: |
-    Pirma jos važiavo kaip ciesoriaus reprezentantai
-    Zig. Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­
-    mantas siuntė Vytautui supažindinti su įvairiais klausimais dėl
-    karūnacijos ir išsklaidyt jo abejones^3 ).
+  citata_rodoma: "Pirma jos važiavo kaip ciesoriaus reprezentantai\nZig. Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­\nmantas siuntė Vytautui supažindinti su įvairiais klausimais dėl\nkarūnacijos ir išsklaidyt jo abejones^3 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35395
+    - t-001

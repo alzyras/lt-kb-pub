@@ -62,8 +62,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 ## Teiginiai
 
 <a id="claim-t-186824"></a>
-- t-003
-  global_id: t-186824
+- t-007
   teiginys: "Iki mūsų laikų iš šio vėliavų rinkinio liko tik XV a. pabaigoje padaryti piešiniai."
   atnaujinta: "2026-06-16 11:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -80,8 +79,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     - c-170006
 
 <a id="claim-t-186825"></a>
-- t-004
-  global_id: t-186825
+- t-005
   teiginys: "Jogaila paimtas vėliavas nugabeno į Krokuvą, į Vavelio pilį."
   atnaujinta: "2026-06-16 11:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -99,8 +97,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     - c-170008
 
 <a id="claim-t-186826"></a>
-- t-005
-  global_id: t-186826
+- t-006
   teiginys: "Prie šio rinkinio vėliau buvo pridėtos dar penkios kituose mūšiuose paimtos vėliavos."
   atnaujinta: "2026-06-16 11:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -116,30 +113,6 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   pagrindžia:
     - c-170009
 
-<a id="claim-t-186822"></a>
-- t-001
-  global_id: t-186822
-  teiginys: 'Bychovco kronikoje teigiama, kad Žalgirio mūšyje laimėtos kryžiuočių vėliavos buvo pakabintos Vilniaus katedroje.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys išlaiko būtąją atribuciją Bychovco kronikai, nes kalbama apie kronikos liudijimą dėl trofėjinių vėliavų. Nepridėta, kad vėliavos tikrai išliko ar buvo fiziškai patikrintos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Miechovita|Miechovita]]; mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]'
-  temporaliniai_duomenys: 'įvykio data: 1454 m.; įvykio data: 1529 m.; įvykio data: 1550 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys išlaiko būtąją atribuciją Bychovco kronikai, nes kalbama apie kronikos liudijimą dėl trofėjinių vėliavų. Nepridėta, kad vėliavos tikrai išliko ar buvo fiziškai patikrintos.'
-  pagrindžia:
-    - c-005
-<a id="claim-t-186823"></a>
-- t-002
-  global_id: t-186823
-  teiginys: '1411 m. rudenį Vavelio katedroje buvo pakabinta 51 kryžiuočių ir jų talkininkų vėliava, paimta 1409–1411 m. kare.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys, tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1409-1411; įvykio data: 1411 m.; įvykio data: 1529 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys, tiesiogiai paremtas citata.'
-  pagrindžia:
-    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1411 m. rudenį Vavelio katedroje buvo pakabinta 51 kryžiuočių ir jų talkininkų vėliava, paimta 1409–1411 m. kare.'
@@ -152,11 +125,9 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     (Apie totorių, lietuvių ir maskvėnų papročius. V. 1966. p. t> 0).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186823
+  statusas: verified
 - c-005
   santrauka: 'Bychovco kronikoje teigiama, kad Žalgirio mūšyje laimėtos kryžiuočių vėliavos buvo pakabintos Vilniaus katedroje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -173,11 +144,9 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     Vilniaus katedroje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186822
+  statusas: verified
 ## Citatos
 
 - id: c-170006
@@ -190,19 +159,15 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     šiuose. Dabar jos jau yra žuvusios. Iki mūsų laikų yra likę tik XV amž.
     gale daryti jų piešiniai, kuriuos parūpino lenkų istorikas Dlugošas, rašy-
     damas apie Tanenbergo mūšį.
-  citata_rodoma: |
-    Prie
-    to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
-    šiuose. Dabar jos jau yra žuvusios. Iki mūsų laikų yra likę tik XV amž.
-    gale daryti jų piešiniai, kuriuos parūpino lenkų istorikas Dlugošas, rašy-
-    damas apie Tanenbergo mūšį.
+  citata_rodoma: "Prie\nto rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-\nšiuose. Dabar jos jau yra žuvusios. Iki mūsų laikų yra likę tik XV amž.\ngale daryti jų piešiniai, kuriuos parūpino lenkų istorikas Dlugošas, rašy-\ndamas apie Tanenbergo mūšį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186824
+    - t-007
+
 - id: c-170008
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -212,18 +177,15 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     **I Kryžiuočių kariuomenės dalių vėliavos (128—129 psl.).**
     Tanenbergo mūšy lietuviams ir lenkams teko 51 kryžiuočių kariuome-
     nės vėliava. Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį.
-  citata_rodoma: |
-    PRIEDĖLIŲ PAAIŠKINIMAI
-    **I Kryžiuočių kariuomenės dalių vėliavos (128—129 psl.).**
-    Tanenbergo mūšy lietuviams ir lenkams teko 51 kryžiuočių kariuome-
-    nės vėliava. Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį.
+  citata_rodoma: "PRIEDĖLIŲ PAAIŠKINIMAI\n**I Kryžiuočių kariuomenės dalių vėliavos (128—129 psl.).**\nTanenbergo mūšy lietuviams ir lenkams teko 51 kryžiuočių kariuome-\nnės vėliava. Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186825
+    - t-005
+
 - id: c-170009
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -232,14 +194,11 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį. Prie
     to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
     šiuose. Dabar jos jau yra žuvusios.
-  citata_rodoma: |
-    Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį. Prie
-    to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
-    šiuose. Dabar jos jau yra žuvusios.
+  citata_rodoma: "Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį. Prie\nto rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-\nšiuose. Dabar jos jau yra žuvusios."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186826
+    - t-006

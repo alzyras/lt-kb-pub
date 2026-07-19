@@ -31,7 +31,6 @@ Narbutas šį mitologinį vaizdinį pateikia kaip artėjantį prie tiesos, kalb�
 
 <a id="claim-t-192120"></a>
 - t-001
-  global_id: t-192120
   teiginys: "Narbutas šį mitologinį vaizdinį pateikia kaip artėjantį prie tiesos, kalbėdamas apie gintaro kilmę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -63,13 +62,11 @@ Narbutas šį mitologinį vaizdinį pateikia kaip artėjantį prie tiesos, kalb�
     gana tikslių žinių. Bet ¡poetinis pasakojimas apie tuopomis
     paverstus heliadus, iš kurių akių srūva gintaro lašai, ar­
     tėja prie tiesos.
-  citata_rodoma: |
-    Bet ¡poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai, ar­
-      tėja prie tiesos.
+  citata_rodoma: "Bet ¡poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai, ar­\n  tėja prie tiesos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192120
+    - t-001

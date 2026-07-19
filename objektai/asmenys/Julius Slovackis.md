@@ -39,7 +39,6 @@ Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, k
 
 <a id="claim-t-19011"></a>
 - t-001
-  global_id: t-19011
   teiginys: "Julius Slovackis buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,12 +91,11 @@ Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, k
     LDK herbas Vytis iš herbyno
     „Stemmata Polonica“ (saugomo
     Paryžiuje), XVI a. vid.
-  citata_rodoma: |
-    o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų
+  citata_rodoma: "o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19011
+    - t-001

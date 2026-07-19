@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-54275"></a>
 - t-001
-  global_id: t-54275
   teiginys: "1841 m. valdžia davė leidimą steigti mokyklas prie Telšių (Žemaičių) vyskupijos bažnyčių, jose leista mokyti skaityti ir rašyti lietuviškai, tikybos tiesų, nurodyta supažindinti mokinius su rusų abėcėle."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-54276"></a>
 - t-002
-  global_id: t-54276
   teiginys: "Telšių vyskupijos bažnytinės mokyklos nukonkuravo valdiškas mokyklas, kuriose mokyta rusų kalba."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Nenurodyta
     - c-166710
 
 <a id="claim-t-183320"></a>
-- t-003
-  global_id: t-183320
+- t-005
   teiginys: "Motiejus Valančius nurodė kunigams prie bažnyčių steigti lietuviškas mokyklas ir sakyti pamokslus lietuviškai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -132,7 +129,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54275
+    - t-001
+
 - id: c-166710
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -159,5 +157,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54276
-    - t-183320
+    - t-002
+    - t-005

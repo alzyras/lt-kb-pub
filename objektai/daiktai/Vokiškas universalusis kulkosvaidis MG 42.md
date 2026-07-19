@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-39303"></a>
 - t-001
-  global_id: t-39303
   teiginys: "Vokiškas universalusis kulkosvaidis MG 42 buvo sukurtas Antrojo pasaulinio karo metu kaip MG 34 pakaitalas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-183689"></a>
 - t-002
-  global_id: t-183689
   teiginys: "Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę."
   atnaujinta: "2026-06-13 17:20"
   sprendimo_priezastis: "auto"
@@ -118,7 +116,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39303
+    - t-001
+
 - id: c-167080
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -150,4 +149,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183689
+    - t-002

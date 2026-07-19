@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-59692"></a>
 - t-001
-  global_id: t-59692
   teiginys: "Septyni Teutonų ordino broliai su keliais ginklanešiais Kulmo žemėje įsirengė kuorą aukštai ąžuole."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,22 +81,11 @@ Nenurodyta
     kuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris
     šlovinamas per amžius, amen.
     4.
-  citata_rodoma: |
-    Septyni Teutonų ordino broliai su keliais
-    ginklanešiais, įsirengę Kulmo žemėje, kaip jau esame sakę, kuorą aukštai ąžuole, ne tik
-    iš karto išdrįso užpulti tokią turtingą, tokią nesuskaitomą gausybę pagonių [gentium],
-    bet ilgainiui, per penkiasdešimt trejus metus, taip juos palaužė, kad nebeliko nė vieno,
-    kuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris
-    šlovinamas per amžius, amen.
-
-
-
-
-                              4.
+  citata_rodoma: "Septyni Teutonų ordino broliai su keliais\nginklanešiais, įsirengę Kulmo žemėje, kaip jau esame sakę, kuorą aukštai ąžuole, ne tik\niš karto išdrįso užpulti tokią turtingą, tokią nesuskaitomą gausybę pagonių [gentium],\nbet ilgainiui, per penkiasdešimt trejus metus, taip juos palaužė, kad nebeliko nė vieno,\nkuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris\nšlovinamas per amžius, amen.\n\n\n\n\n                          4."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59692
+    - t-001

@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-36826"></a>
 - t-001
-  global_id: t-36826
   teiginys: "Vaidyla iš dvaro duonkepio padėjėjo buvo pakeltas didžiojo kunigaikščio rūmininku, o vėliau tapo vyno pilstytoju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,17 +62,11 @@ media_all_json: |-
     pilstytoju. Yra žinių, kad Vaidyla keletą kartų slaptai kelia­
     vęs į Marienburgą ir iš Vokiečių Ordino magistro gavęs suti­
     kimą sudaryti naują sutartį.
-  citata_rodoma: |
-    Į šitą luomą jis pateko vesdamas Jogailos seserį
-    Mariją; iš dvaro duonkepio padėjėjo buvo pakeltas didžiojo
-    kunigaikščio rūmininku, o vėliau Julijonos malone— ir vyno
-    pilstytoju. Yra žinių, kad Vaidyla keletą kartų slaptai kelia­
-    vęs į Marienburgą ir iš Vokiečių Ordino magistro gavęs suti­
-    kimą sudaryti naują sutartį.
+  citata_rodoma: "Į šitą luomą jis pateko vesdamas Jogailos seserį\nMariją; iš dvaro duonkepio padėjėjo buvo pakeltas didžiojo\nkunigaikščio rūmininku, o vėliau Julijonos malone— ir vyno\npilstytoju. Yra žinių, kad Vaidyla keletą kartų slaptai kelia­\nvęs į Marienburgą ir iš Vokiečių Ordino magistro gavęs suti­\nkimą sudaryti naują sutartį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36826
+    - t-001

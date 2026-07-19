@@ -40,7 +40,6 @@ Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo �
 
 <a id="claim-t-44102"></a>
 - t-001
-  global_id: t-44102
   teiginys: "„Žvaigždė“ ir „Draugas“ anksčiau buvo organai, o nuo 1917 m. organu tapo „Garsas“."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -72,13 +71,11 @@ Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo �
 
 
     gas", nuo 1917 metų tapo „Garsas".
-  citata_rodoma: |
-    Jo organas anksčiau buvo „Žvaigždė" ir „Drau-
-    gas", nuo 1917 metų tapo „Garsas".
+  citata_rodoma: "Jo organas anksčiau buvo „Žvaigždė\" ir „Drau-\ngas\", nuo 1917 metų tapo „Garsas\"."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-44102
+    - t-001

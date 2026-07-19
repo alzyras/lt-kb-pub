@@ -40,8 +40,7 @@ Dusburgietis teigia, kad regulos ir prologo redaktoriumi greičiausiai buvo Vilh
 ## Teiginiai
 
 <a id="claim-t-60221"></a>
-- t-001
-  global_id: t-60221
+- t-002
   teiginys: "Kronikininkas klaidingai tapatino popiežiaus pasiuntinį Prūsijoje Vilhelmą su vėlesniu popiežiumi Aleksandru IV."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,7 @@ Dusburgietis teigia, kad regulos ir prologo redaktoriumi greičiausiai buvo Vilh
   temporalinis_llm_pakomentavimas: "Teiginys apie kronikininko klaidą reikalauja atribucijos, bet pradinė formuluotė yra nutrūkusi."
   pagrindžia:
     - c-60852
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kronikininkas klaidingai tapatino popiežiaus pasiuntinį Prūsijoje Vilhelmą su vėlesniu popiežiumi Aleksandru IV.'
@@ -75,8 +74,7 @@ Dusburgietis teigia, kad regulos ir prologo redaktoriumi greičiausiai buvo Vilh
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60221
+
 ## Citatos
 
 - id: c-60852
@@ -91,16 +89,11 @@ Dusburgietis teigia, kad regulos ir prologo redaktoriumi greičiausiai buvo Vilh
     (nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje. Popiežius patvirtino
     Jeruzalės brolių ligoninę, suteikė jiems tokių pat privilegijų, kaip kitados buvo suteikęs
     joanitams ir tamplieriams (dvasiškiams ir riteriams).
-  citata_rodoma: |
-    Kronikininko teigimu, popiežiaus pasiuntinys Prūsijoje
-    Vilhelmas — tai vėlesnis popiežius Aleksandras IV (III, 33), tuo tarpu šis, 1244 m. tapęs
-    Sabinos kardinolu (miręs 1251 m.), tebuvo kurijos atstovas, rėmęs Vokiečių ordiną, kai
-    pastarasis sprendė ginčijamus klausimus su Rygos arkivyskupu ir tuometiniu popiežiaus
-    legatu140.
+  citata_rodoma: "Kronikininko teigimu, popiežiaus pasiuntinys Prūsijoje\nVilhelmas — tai vėlesnis popiežius Aleksandras IV (III, 33), tuo tarpu šis, 1244 m. tapęs\nSabinos kardinolu (miręs 1251 m.), tebuvo kurijos atstovas, rėmęs Vokiečių ordiną, kai\npastarasis sprendė ginčijamus klausimus su Rygos arkivyskupu ir tuometiniu popiežiaus\nlegatu140."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60221
+    - t-002

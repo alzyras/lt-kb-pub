@@ -36,7 +36,6 @@ Jonas Kazimieras Rudamina buvo Breslaujos pavieto žemės raštininkas.
 
 <a id="claim-t-202415"></a>
 - t-001
-  global_id: t-202415
   teiginys: "Jonas Kazimieras Rudamina buvo Breslaujos pavieto žemės raštininkas."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,5 @@ Jonas Kazimieras Rudamina buvo Breslaujos pavieto žemės raštininkas.
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202415
+    - t-001

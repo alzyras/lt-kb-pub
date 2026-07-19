@@ -36,7 +36,6 @@ Dusburgietis teigia, kad labuda G.
 
 <a id="claim-t-61121"></a>
 - t-001
-  global_id: t-61121
   teiginys: "G. Labudos recenzija apie M. Hellmanno „Über die Grundlagen und die Entstehung des Ordensstaates in Preussen“ paskelbta 1964 m. Torunėje, ZHP 29 tome."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Dusburgietis teigia, kad labuda G.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61121
+    - t-001

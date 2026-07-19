@@ -31,7 +31,6 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
 
 <a id="claim-t-91895"></a>
 - t-001
-  global_id: t-91895
   teiginys: "Žirgupė Žydai Žuvintas, ež."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
 
 <a id="claim-t-91896"></a>
 - t-002
-  global_id: t-91896
   teiginys: ", p. Žirgupė Žydai Žuvintas, ež."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -107,20 +105,16 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    , p.
-      Žirgupė
-      Žydai
-      Žuvintas, ež.
-  citata_rodoma: |
-    , p.
-      Žirgupė
-      Žydai
-      Žuvintas, ež.
+    Nekrasovas), v., p.
+    Žirgupė
+    Žydai
+    Žuvintas, ež.
+  citata_rodoma: ", p.\n  Žirgupė\n  Žydai\n  Žuvintas, ež."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91895
-    - t-91896
+    - t-001
+    - t-002

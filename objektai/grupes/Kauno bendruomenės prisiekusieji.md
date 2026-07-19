@@ -7,10 +7,10 @@ datos:
   - '1579 m.'
 date_start: '1579'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ O Vilniuje tarybos metinėse ataskaitose turėjo dalyvauti miestiečių bendruom
 
 <a id="claim-t-201863"></a>
 - t-001
-  global_id: t-201863
   teiginys: "O Vilniuje tarybos metinėse ataskaitose turėjo dalyvauti miestiečių bendruomenės atstovai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ O Vilniuje tarybos metinėse ataskaitose turėjo dalyvauti miestiečių bendruom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201863
+    - t-001

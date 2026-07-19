@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-64922"></a>
 - t-001
-  global_id: t-64922
   teiginys: "Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis: net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias angas – Vytauto laikais daugiausia statyta būtent gynybinių statinių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-64923"></a>
 - t-002
-  global_id: t-64923
   teiginys: "Vytauto laikų gotikinę gynybinę architektūrą liudijo mūrinės pilys Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,13 +94,12 @@ Nenurodyta
     gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių. Vytautas
     perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
     Naugarduke ir Lucke.
-  citata_rodoma: |
-    perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
+  citata_rodoma: "perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64922
-    - t-64923
+    - t-001
+    - t-002

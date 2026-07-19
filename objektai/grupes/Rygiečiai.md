@@ -37,8 +37,7 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
 ## Teiginiai
 
 <a id="claim-t-179438"></a>
-- t-001
-  global_id: t-179438
+- t-003
   teiginys: "Gedimino laiškų kaltinimai ordinui leido kelti prielaidą, kad juos Gedimino vardu sufabrikavo Livonijos ordino priešai rygiečiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,10 +54,9 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     - c-163137
 
 <a id="claim-t-179439"></a>
-- t-002
-  global_id: t-179439
+- t-001
   teiginys: "Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sajungininkas_su -> Gediminas: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -71,13 +69,9 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   semantiniai_rysiai: "Rygiečiai buvo sąjungininkas su Gediminas (0.93); Rygiečiai kariavo prieš Kryžiuočių ordinas (0.86); Rygiečiai puolė Daugavgryva (0.78)"
   pagrindžia:
     - c-163133
-    - c-163134
-    - c-163137
-    - c-163141
 
 <a id="claim-t-179441"></a>
-- t-003
-  global_id: t-179441
+- t-005
   teiginys: "1253 m., Mindaugui susitaikius su Livonijos ordinu, rygiečiai išsirūpino prekybos teisę Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -143,7 +137,8 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179439
+    - t-001
+
 - id: c-163134
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -156,11 +151,10 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     persekiojimų»^2.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179439
 - id: c-163137
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -172,20 +166,15 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     ordino priešai — rygiečiai. Tą prielaidą palaikė ir faktas, jog patys
     kryžiuočiai, norėdami rygiečius suniekinti Vakarų krikščionių akyse,
     skelbė, jog Gedimino laiškai esą rygiečių darbas.
-  citata_rodoma: |
-    Toks kaltinimų ordinui kartojimas yra davęs
-    progos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos
-    ordino priešai — rygiečiai. Tą prielaidą palaikė ir faktas, jog patys
-    kryžiuočiai, norėdami rygiečius suniekinti Vakarų krikščionių akyse,
-    skelbė, jog Gedimino laiškai esą rygiečių darbas.
+  citata_rodoma: "Toks kaltinimų ordinui kartojimas yra davęs\nprogos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos\nordino priešai — rygiečiai. Tą prielaidą palaikė ir faktas, jog patys\nkryžiuočiai, norėdami rygiečius suniekinti Vakarų krikščionių akyse,\nskelbė, jog Gedimino laiškai esą rygiečių darbas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179438
-    - t-179439
+    - t-003
+
 - id: c-163141
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -195,18 +184,14 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
     Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
     išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
-  citata_rodoma: |
-    Rygai
-    rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
-    Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
-    išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
+  citata_rodoma: "Rygai\nrūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.\nTaigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai\nišsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179439
-    - t-179441
+    - t-005
+
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Lietuviai]]

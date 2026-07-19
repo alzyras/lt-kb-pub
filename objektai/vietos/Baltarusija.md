@@ -45,8 +45,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 ## Teiginiai
 
 <a id="claim-t-76165"></a>
-- t-001
-  global_id: t-76165
+- t-003
   teiginys: "Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,8 +65,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - c-24060
 
 <a id="claim-t-76166"></a>
-- t-002
-  global_id: t-76166
+- t-006
   teiginys: "1991 m. spalį Lietuva ir Baltarusija pasirašė deklaraciją dėl geros kaimynystės santykių principų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,8 +84,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - c-73806
 
 <a id="claim-t-76167"></a>
-- t-003
-  global_id: t-76167
+- t-001
   teiginys: "Lietuvos Didžiosios Kunigaikštijos teritorija, apėmusi ir dabartinę Baltarusiją, ilgainiui pradėta vadinti Lietuva."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,7 +101,6 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 
 <a id="claim-t-76168"></a>
 - t-004
-  global_id: t-76168
   teiginys: "Lietuvos ir Baltarusijos politinius santykius komplikavo Baltarusijos prezidento Aleksandro Lukašenkos diktatūrinis valdymas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,8 +119,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - c-24061
 
 <a id="claim-t-76169"></a>
-- t-005
-  global_id: t-76169
+- t-002
   teiginys: "ATR ir LDK erdvėje susiformavo keturios moderniosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija ir Ukraina."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -140,8 +135,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - c-73805
 
 <a id="claim-t-76170"></a>
-- t-006
-  global_id: t-76170
+- t-005
   teiginys: "LDK erdvė apėmė Lietuvos, Baltarusijos, Ukrainos ir Lenkijos žydus, vadintus „Rusijos žydais“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -157,8 +151,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - c-73805
 
 <a id="claim-t-184926"></a>
-- t-007
-  global_id: t-184926
+- t-008
   teiginys: "Kojelavičius Baltarusiją apibūdino kaip kraštą, iki tol savo jėgomis rėmusį maištininkus prieš teisėtus valdovus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -177,8 +170,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - c-168287
 
 <a id="claim-t-192611"></a>
-- t-008
-  global_id: t-192611
+- t-010
   teiginys: "Narbutas nurodo, kad pilkapių pasitaiko visoje Baltarusijoje, bet daugiausia jų telkiasi Dnepro vidurupyje nuo Sklovo iki Pripetės žiočių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -198,8 +190,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - c-175381
 
 <a id="claim-t-194923"></a>
-- t-009
-  global_id: t-194923
+- t-011
   teiginys: "Pilkapiams nenaudojo jokios kitos medžiagos, iš skyrus netoliese iškastą žemę, nes niekur Baltarusijoje esančiuose pilkapiuose nerasta medžių, akmenų, plytų ar panašių daiktų pėdsakų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -212,8 +203,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - c-177319
 
 <a id="claim-t-197853"></a>
-- t-010
-  global_id: t-197853
+- t-012
   teiginys: "Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti palei senas Rusijos sienas su Lietuvos valstybe, de šiniojoje driekiasi už Borisovo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -290,17 +280,15 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     rytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-
     rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
     Lietuva, o šiandien ją vadiname istorine Lietuva.
-  citata_rodoma: |
-    Būtent visa šios valstybės terito-
-    rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
-    Lietuva, o šiandien ją vadiname istorine Lietuva.
+  citata_rodoma: "Būtent visa šios valstybės terito-\nrija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti \nLietuva, o šiandien ją vadiname istorine Lietuva."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76167
+    - t-001
+
 - id: c-24060
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -315,18 +303,15 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
     kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-  citata_rodoma: |
-    Mindaugo laikais
-    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
-    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
-    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
+  citata_rodoma: "Mindaugo laikais \nprie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-\nkais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-\nnė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76165
+    - t-003
+
 - id: c-24061
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -336,17 +321,15 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
     kašenkos diktatūrinis valdymas. 1990 m. gegužės 12 d. Lietuva, Latvija ir
     Estija atnaujino 1934 m.
-  citata_rodoma: |
-    Gerai klostėsi ekonominiai san-
-    tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
-    kašenkos diktatūrinis valdymas.
+  citata_rodoma: "Gerai klostėsi ekonominiai san-\ntykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-\nkašenkos diktatūrinis valdymas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76168
+    - t-004
+
 - id: c-73805
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -368,8 +351,9 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76169
-    - t-76170
+    - t-002
+    - t-005
+
 - id: c-73806
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -392,7 +376,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76166
+    - t-006
+
 - id: c-168287
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -414,7 +399,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184926
+    - t-008
+
 - id: c-175381
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -436,25 +422,15 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     žūnos upių žemupio uždarame plote, o kairiojoje Dnepro
     pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­
     čių.
-  citata_rodoma: |
-    Paprastai jos būva netoli gyvenviečių
-    arba joms tinkamose vietose.
-    Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
-    daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
-    Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti
-    palei senas Rusijos sienas su Lietuvos valstybe, de­
-    šiniojoje driekiasi už Borisovo apskrities net iki tikrosios
-    Lietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-
-    žūnos upių žemupio uždarame plote, o kairiojoje Dnepro
-    pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­
-    čių.
+  citata_rodoma: "Paprastai jos būva netoli gyvenviečių\narba joms tinkamose vietose.\nNors pilkapių pasitaiko visoje Baltarusijoje, tačiau\ndaugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau\nSklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti\npalei senas Rusijos sienas su Lietuvos valstybe, de­\nšiniojoje driekiasi už Borisovo apskrities net iki tikrosios\nLietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-\nžūnos upių žemupio uždarame plote, o kairiojoje Dnepro\npakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­\nčių."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192611
+    - t-010
+
 - id: c-177319
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -473,7 +449,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194923
+    - t-011
+
 - id: c-179363
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -498,6 +475,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197853
+    - t-012
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/asmenys/Heneris]]

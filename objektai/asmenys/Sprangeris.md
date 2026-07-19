@@ -31,7 +31,6 @@ Sprangerio vadovaujamas dalinys, veikiantis pagal atskirą įsakymą, turėjo u�
 
 <a id="claim-t-40425"></a>
 - t-001
-  global_id: t-40425
   teiginys: "Saksų karininko Sprangerio vadovaujamas dalinys turėjo užimti Šimonių-Kupiškio liniją ir apsaugoti Ukmergės rinktinės kairįjį sparną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,23 +66,11 @@ Sprangerio vadovaujamas dalinys, veikiantis pagal atskirą įsakymą, turėjo u�
 
     Puolimo eiga . a ;
     raudonosios armijos kario
-  citata_rodoma: |
-    Be šių pajėgų, saksų karin.
-    Sprangerio vadovaujamas
-    dalinys, veikiantis
-    pagal atskirą įsa-
-    kymą, turėjo užimti
-    Šimonių- Kupiškio liniją
-    ir apsaugoti Ukmergės
-    rinktinės kairįjį sparną.
-
-    Darbininkų ir valstiečių
-
-    Puolimo eiga .
+  citata_rodoma: "Be šių pajėgų, saksų karin.\nSprangerio vadovaujamas\ndalinys, veikiantis\npagal atskirą įsa-\nkymą, turėjo užimti\nŠimonių- Kupiškio liniją\nir apsaugoti Ukmergės\nrinktinės kairįjį sparną.\n\nDarbininkų ir valstiečių\n\nPuolimo eiga ."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40425
+    - t-001

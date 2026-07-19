@@ -26,29 +26,6 @@ media_all_json: |-
 
 Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė, Francua Noelio ir Edvardo Mėjerio mitologinių žodynų.
 
-## Teiginiai
-
-<a id="claim-t-190401"></a>
-- t-001
-  global_id: t-190401
-  teiginys: "Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė, Francua Noelio ir Edvardo Mėjerio mitologinių žodynų."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pjeras Šomprė: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pjeras Šomprė\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173284
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė, Francua Noelio ir Edvardo Mėjerio mitologinių žodynų.'
@@ -63,8 +40,7 @@ Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190401
+
 ## Citatos
 
 - id: c-173284
@@ -88,15 +64,33 @@ Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė
     kuriuos M. Strijkovskis ir K. Hartknochas laiko prūsų dievais,
     ir pagaliau priskiria Kriukį, kurį J. Lasickis laiko žemaičių die­
     vu.
-  citata_rodoma: |
-    Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­
-    ginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­
-    puliarių Pjero Šomprė (Dominyko Šybinskio išversto į lenkų
-    kalbą), Francua Noelio, Edvardo Mėjerio mitologinių žodynų.
+  citata_rodoma: "Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­\nginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­\npuliarių Pjero Šomprė (Dominyko Šybinskio išversto į lenkų\nkalbą), Francua Noelio, Edvardo Mėjerio mitologinių žodynų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190401
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-190401"></a>
+- t-001
+  teiginys: "Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė, Francua Noelio ir Edvardo Mėjerio mitologinių žodynų."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pjeras Šomprė: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pjeras Šomprė\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173284

@@ -32,7 +32,6 @@ Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasev
 
 <a id="claim-t-186263"></a>
 - t-001
-  global_id: t-186263
   teiginys: "Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasevičius."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasev
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186263
+    - t-001

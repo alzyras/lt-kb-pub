@@ -30,7 +30,6 @@ Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir
 
 <a id="claim-t-192839"></a>
 - t-001
-  global_id: t-192839
   teiginys: "Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir Heraklio stulpus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,7 @@ Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175609
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir Heraklio stulpus.'
@@ -61,11 +60,9 @@ Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir
     kuris ėjo pro šv. Vincento kyšulį ir Heraklio stulpus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192839
+  statusas: verified
 - c-002
   santrauka: 'Romėnai, sužinoję apie pūnų laivus už Heraklio stulpų keliaujant į šiaurines jūras, pasiuntė jūrų keliautoją sekti vieną tokį laivą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -90,10 +87,10 @@ Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir
     sekti plaukusį į tuos kraštus pūnų laivą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+
 ## Citatos
 
 - id: c-175609
@@ -115,16 +112,11 @@ Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir
     Comolijano, iš ten į Carnuntum, žinomą romėnų karinę
     poziciją prie Dunojaus. Pagaliau ten šiaurinės prekės iš
     barbarų rankų patekdavo pas romėnus5.
-  citata_rodoma: |
-    Taip mūsų kraštų prekės lengvai patekdavo arba
-    į Tartesą, arba prie Galijos krantų, o per Galiją arkliais
-    50 dienų būdavo gabenamos į Masiliją2. Gal šis kelias,
-    kaip įgalima numanyti, buvo patogesnis už jūros kelią,
-    kuris ėjo pro šv. Vincento kyšulį ir Heraklio stulpus.
+  citata_rodoma: "Taip mūsų kraštų prekės lengvai patekdavo arba\nį Tartesą, arba prie Galijos krantų, o per Galiją arkliais\n50 dienų būdavo gabenamos į Masiliją2. Gal šis kelias,\nkaip įgalima numanyti, buvo patogesnis už jūros kelią,\nkuris ėjo pro šv. Vincento kyšulį ir Heraklio stulpus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192839
+    - t-001

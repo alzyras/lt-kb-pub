@@ -31,7 +31,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 
 <a id="claim-t-02392"></a>
 - t-001
-  global_id: t-02392
   teiginys: "Per karūnacinį seimą Maksimilijonas ties Byčina pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir turėjo atsisakyti sosto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,15 +59,11 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties
     Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
     priverstas atsisakyti nuo sosto.
-  citata_rodoma: |
-    Maksimilijonas
-    dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties
-    Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
-    priverstas atsisakyti nuo sosto.
+  citata_rodoma: "Maksimilijonas\ndar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties\nByčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo\npriverstas atsisakyti nuo sosto."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02392
+    - t-001

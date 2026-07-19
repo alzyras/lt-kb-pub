@@ -30,7 +30,6 @@ Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų (neto
 
 <a id="claim-t-193659"></a>
 - t-001
-  global_id: t-193659
   teiginys: "Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų (netoli Kauno) radijo stotis."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų (neto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193659
+    - t-001

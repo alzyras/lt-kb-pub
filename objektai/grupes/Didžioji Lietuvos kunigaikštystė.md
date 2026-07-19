@@ -31,11 +31,10 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-96095"></a>
-- t-001
-  global_id: t-96095
+<a id="claim-t-96094"></a>
+- t-004
   teiginys: "Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -46,12 +45,11 @@ media_all_json: |-
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžioji Lietuvos kunigaikštystė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-90810
-    - c-90813
     - c-90814
+    - c-90810
+
 <a id="claim-t-96096"></a>
 - t-002
-  global_id: t-96096
   teiginys: "Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +66,7 @@ media_all_json: |-
     - c-90816
 
 <a id="claim-t-193088"></a>
-- t-003
-  global_id: t-193088
+- t-005
   teiginys: "Lietuviams reikalaujant, Lietuvai buvo paliktas nepaliestas visas valdžios aparatas (.. 10 ir 17)."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -94,15 +91,15 @@ media_all_json: |-
     ryškėti, jog reikia ieškoti naujų ir tikrų būdų, kurie leistų priimti
     krikščionybę. Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti
     pagonio valdoma.
-  citata_rodoma: |
-    Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti
-    pagonio valdoma.
+  citata_rodoma: "Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti\npagonio valdoma."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-90813
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -116,11 +113,7 @@ media_all_json: |-
     rūpinosi ir budėjo, kad jo pavaldiniai ortodoksai nebūtų _priklau­
     somi_ nuo priešo žemėje sėdinčio metropolito. Pagaliau jam pasi­
     sekė atstatyti Vytenio ir Gedimino laikų padėtį.
-  citata_rodoma: |
-    Vesdamas didžiosios Lietuvos kunigaikštijos interesų apspręs­
-    tą bažnytinę politiką, Algirdas, nors pats ir būdamas pagonis,
-    rūpinosi ir budėjo, kad jo pavaldiniai ortodoksai nebūtų _priklau­
-    somi_ nuo priešo žemėje sėdinčio metropolito.
+  citata_rodoma: "Vesdamas didžiosios Lietuvos kunigaikštijos interesų apspręs­\ntą bažnytinę politiką, Algirdas, nors pats ir būdamas pagonis,\nrūpinosi ir budėjo, kad jo pavaldiniai ortodoksai nebūtų _priklau­\nsomi_ nuo priešo žemėje sėdinčio metropolito."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -146,7 +139,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96095
+    - t-004
+
 - id: c-90816
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -166,7 +160,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96096
+    - t-002
+
 - id: c-175853
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -189,4 +184,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193088
+    - t-005

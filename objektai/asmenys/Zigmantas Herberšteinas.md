@@ -31,7 +31,6 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
 
 <a id="claim-t-40546"></a>
 - t-001
-  global_id: t-40546
   teiginys: "Mūšio liudininkas Zigmantas Herberšteinas citavo Čeliadnino žodžius apie Lietuvos kariuomenės kėlimąsi per Dniepro upę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
 
 <a id="claim-t-40547"></a>
 - t-002
-  global_id: t-40547
   teiginys: "Diplomatas Zigmantas Herberšteinas vėliau aprašė mūšį ir perteikė Čeliadnino žodžius apie Lietuvos kariuomenės persikėlimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,23 +83,15 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
     stojo viena prieš kitą, Ostrogiškis savo re-
     zervą išdėstė už miško taip, kad priešas jo
     nepastebėtų.
-  citata_rodoma: |
-    Apie tai ga-
-    lima spręsti iš arogantiškų Čeliadnino žo-
-    džių, kuriuos perteikia vėliau mūšį aprašęs
-    diplomatas Zigmantas Herberšteinas, pa-
-    sakytų, kai rusų vadas įsakė leisti persikelti
-    visai Lietuvos kariuomenei. Kariuomenės
-    stojo viena prieš kitą, Ostrogiškis savo re-
-    zervą išdėstė už miško taip, kad priešas jo
-    nepastebėtų.
+  citata_rodoma: "Apie tai ga-\nlima spręsti iš arogantiškų Čeliadnino žo-\ndžių, kuriuos perteikia vėliau mūšį aprašęs\ndiplomatas Zigmantas Herberšteinas, pa-\nsakytų, kai rusų vadas įsakė leisti persikelti\nvisai Lietuvos kariuomenei. Kariuomenės\nstojo viena prieš kitą, Ostrogiškis savo re-\nzervą išdėstė už miško taip, kad priešas jo\nnepastebėtų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40547
+    - t-002
+
 - id: c-44582
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -116,18 +106,11 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
     galėtų pulti ir sutriuškinti šią kariuomenės dalį. O anas atsakė: „Jei šią dalį kariuomenės
     sunaikinsime, išliks kita dalis, prie kurios galbūt galės prisijungti kitos pajėgos, ir dėl to
     mums grės didesnis pavojus. Palaukime tol, kol persikels visa kariuomenė.
-  citata_rodoma: |
-    Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado
-    Čeliadnino žodžius, kuriuos jis pasakė sužinoję apie tai, kad Lietuvos kariuo-
-    menė jau keliasi per Dniepro upę:
-
-    „Greitai, kai pusė [lietuvių] kariuomenės buvo persikėlusi per Dnieprą, Ivanui Andrejevičiui
-    Čeliadninui, kuriam Maskvėnas buvo pavedęs aukščiausią vadovavimą, pranešama, kad
-    galėtų pulti ir sutriuškinti šią kariuomenės dalį.
+  citata_rodoma: "Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado\nČeliadnino žodžius, kuriuos jis pasakė sužinoję apie tai, kad Lietuvos kariuo-\nmenė jau keliasi per Dniepro upę:\n\n„Greitai, kai pusė [lietuvių] kariuomenės buvo persikėlusi per Dnieprą, Ivanui Andrejevičiui\nČeliadninui, kuriam Maskvėnas buvo pavedęs aukščiausią vadovavimą, pranešama, kad\ngalėtų pulti ir sutriuškinti šią kariuomenės dalį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40546
+    - t-001

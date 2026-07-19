@@ -30,7 +30,6 @@ Narbutas Rudbeką minėjo tarp autorių nuo Jordano iki Basės, rašiusių apie 
 
 <a id="claim-t-191656"></a>
 - t-001
-  global_id: t-191656
   teiginys: "Narbutas Rudbeką minėjo tarp autorių nuo Jordano iki Basės, rašiusių apie Šiaurės tautų lopšį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas Rudbeką minėjo tarp autorių nuo Jordano iki Basės, rašiusių apie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191656
+    - t-001

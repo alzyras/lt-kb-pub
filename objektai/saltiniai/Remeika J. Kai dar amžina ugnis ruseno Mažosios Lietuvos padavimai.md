@@ -32,13 +32,43 @@ media_all_json: |-
 
 Dusburgietis teigia, kad remeika J.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'J. Remeikos „Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai“ išleista Kaune 1940 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Remeika J. Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-61902
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    3, 1828.
+    Voigt J. Namen-Codex der Deutschen Ordens-Beamten — Königsberg, 1843.
+    Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13.
+  citata_rodoma: "Remeika J. Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-61270"></a>
 - t-001
-  global_id: t-61270
   teiginys: "J. Remeikos „Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai“ išleista Kaune 1940 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,36 +83,3 @@ Dusburgietis teigia, kad remeika J.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61902
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'J. Remeikos „Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai“ išleista Kaune 1940 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Remeika J. Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61270
-## Citatos
-
-- id: c-61902
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    3, 1828.
-    Voigt J. Namen-Codex der Deutschen Ordens-Beamten — Königsberg, 1843.
-    Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13.
-  citata_rodoma: |
-    Remeika J. Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-61270

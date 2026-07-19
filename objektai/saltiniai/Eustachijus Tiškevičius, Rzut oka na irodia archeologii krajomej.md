@@ -30,7 +30,6 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
 
 <a id="claim-t-191773"></a>
 - t-001
-  global_id: t-191773
   teiginys: "Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,10 +47,9 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174655
-    - c-001
+
 <a id="claim-t-197669"></a>
 - t-002
-  global_id: t-197669
   teiginys: "Kurše, Infliantuose ir Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi čius3."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191773
+
 ## Citatos
 
 - id: c-174655
@@ -100,21 +97,15 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
     Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­
     sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
     čius3.
-  citata_rodoma: |
-    Ant­
-    ra vertus, beveik visoje Siaurės Europoje tai šen, tai ten
-    randami tokių kapaviečių pėdsakai. Kurše, Infliantuose ir
-    Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­
-    sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
-    čius3. Visiškai gali būti, jog tokie paminklai Lietuvoje yra
-    retenybė.
+  citata_rodoma: "Ant­\nra vertus, beveik visoje Siaurės Europoje tai šen, tai ten\nrandami tokių kapaviečių pėdsakai. Kurše, Infliantuose ir\nEstijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­\nsioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­\nčius3. Visiškai gali būti, jog tokie paminklai Lietuvoje yra\nretenybė."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191773
+    - t-001
+
 - id: c-179289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -133,4 +124,4 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197669
+    - t-002

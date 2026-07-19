@@ -50,9 +50,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-54263"></a>
-- t-001
-  global_id: t-54263
+<a id="claim-t-54262"></a>
+- t-003
   teiginys: "Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -81,18 +80,11 @@ Nenurodyta
     bendruomenės ir religija toleruojamos nuo XIV a. pabaigos. Vėliau tiek
     Lenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko
     lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a.
-  citata_rodoma: |
-    Jau Pirmasis Lietuvos Statutas (1529), dar neži-
-    nant reformacijos, skiriamas ne tiktai katalikų, bet ir ortodoksų bajorijai.
-    Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-
-    čioniškų konfesijų (judėjų, karaimų ir musulmonų totorių), jų etninės
-    bendruomenės ir religija toleruojamos nuo XIV a. pabaigos. Vėliau tiek
-    Lenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko
-    lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a.
+  citata_rodoma: "Jau Pirmasis Lietuvos Statutas (1529), dar neži-\nnant reformacijos, skiriamas ne tiktai katalikų, bet ir ortodoksų bajorijai. \nNors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-\nčioniškų konfesijų (judėjų, karaimų ir musulmonų totorių), jų etninės \nbendruomenės ir religija toleruojamos nuo XIV a. pabaigos. Vėliau tiek \nLenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko \nlėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54263
+    - t-003

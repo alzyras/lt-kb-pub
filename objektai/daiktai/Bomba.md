@@ -63,8 +63,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45472"></a>
-- t-001
-  global_id: t-45472
+- t-008
   teiginys: "Lapkričio 15 d. Kaune sprogusi bomba sužeidė E. Galvanauską, bet jis liko gyvas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -79,9 +78,8 @@ Nenurodyta
   pagrindžia:
     - c-16402
 
-<a id="claim-t-45475"></a>
-- t-002
-  global_id: t-45475
+<a id="claim-t-45473"></a>
+- t-009
   teiginys: "Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -130,5 +128,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45472
-    - t-45475
+    - t-008
+    - t-009

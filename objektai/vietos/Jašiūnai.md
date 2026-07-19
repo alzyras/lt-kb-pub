@@ -40,7 +40,6 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 
 <a id="claim-t-85928"></a>
 - t-001
-  global_id: t-85928
   teiginys: "1811 m. I. Balinskis perėmė Dominyko Radvilos valdytus Jašiūnus ir vėliau įsigijo juos kaip nuosavybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 
 <a id="claim-t-85929"></a>
 - t-002
-  global_id: t-85929
   teiginys: "1848 m. Michałas Balinskis sugrįžo į Lietuvą ir apsigyveno savo Jašiūnų dvare."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,6 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 
 <a id="claim-t-85930"></a>
 - t-003
-  global_id: t-85930
   teiginys: "1864 m. sausio 1 d. Michałas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +100,6 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 
 <a id="claim-t-85931"></a>
 - t-004
-  global_id: t-85931
   teiginys: "Jašiūnų miškuose kur ne kur stūksojo pilkapiai, laikomi seniausių žmonių gyvenimo pėdsakais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -140,7 +136,8 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85928
+    - t-001
+
 - id: c-81910
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -151,16 +148,15 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     jis matė naujai paskirto Vilniaus generalgubernatoriaus Michai­
     lo Muravjovo - Koriko represijas krašte. 1864 m. sausio 1 d.
     M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
-  citata_rodoma: |
-    1864 m. sausio 1 d.
-    M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
+  citata_rodoma: "1864 m. sausio 1 d. \nM. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85930
+    - t-003
+
 - id: c-81911
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -175,7 +171,8 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85929
+    - t-002
+
 - id: c-81912
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -198,4 +195,4 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85931
+    - t-004

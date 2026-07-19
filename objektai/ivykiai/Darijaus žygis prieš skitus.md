@@ -43,32 +43,22 @@ Nenurodyta
 
 <a id="claim-t-191007"></a>
 - t-001
-  global_id: t-191007
   teiginys: "Narbuto pasakojimu, 514 m. pr. Kr. Darijus patraukė prieš Indatirą, kai skitai neketino žemintis."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "surenge_zygi_i -> Darijaus žygis prieš skitus: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Darijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Darijaus žygis prieš skitus: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Darijus tiesiogiai nurodytas kaip pradėjęs žygį prieš Indatirą, o įvykio objektas yra Darijaus žygis."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Darijus surengė žygį į Darijaus žygis prieš skitus (0.90)"
   temporaliniai_duomenys: "įvykio data: 514 m; kelionės data: 514 m"
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Darijus surengė žygį į Darijaus žygis prieš skitus“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Persai keliavo į Europa“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys paliktas su atribucija, nes skitų nenoras žemintis yra interpretacinė formuluotė. Nepridėta daugiau žygio eigos detalių."
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-173889
+    - c-173892
 
 <a id="claim-t-191008"></a>
 - t-002
-  global_id: t-191008
   teiginys: "Darijaus žygio metu persų kariuomenė, skitams traukiantis, perėjo Skitiją ir persikėlė per Dnestrą, Būgą, Dneprą bei Donecą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -89,8 +79,7 @@ Nenurodyta
     - c-173890
 
 <a id="claim-t-191010"></a>
-- t-003
-  global_id: t-191010
+- t-004
   teiginys: "Narbutas vertino, kad Darijui nepavykęs žygis prieš skitus paveikė Skitijos vidaus sąlygas ir artino ją prie žlugimo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -109,10 +98,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173892
-    - c-003
+
 <a id="claim-t-191011"></a>
-- t-004
-  global_id: t-191011
+- t-005
   teiginys: "Narbutas spėja, kad persai, remdami Skitijos graikų kolonistus, palaikė jų siekį sunaikinti seną krašto tvarką."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -133,8 +121,7 @@ Nenurodyta
     - c-173893
 
 <a id="claim-t-197532"></a>
-- t-005
-  global_id: t-197532
+- t-007
   teiginys: "Kadangi priešo būriai buvo narsūs ir puikiai gink luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi galvoję ir išvengdami lemtingų kovų bei puldinėdami iš šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa jo nesuskaičiuojamų atsargų našta."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -162,11 +149,9 @@ Nenurodyta
     tent nuo to laiko ji aiškiai ėmė artėti prie žlugimo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191010
+  statusas: verified
 - c-005
   santrauka: 'Narbuto pasakojimu, Darijus siekė pasiekti tolimiausias Skitijos sritis, bet jo kariuomenė patyrė didelių nuostolių ir traukėsi tuo pačiu keliu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -188,10 +173,10 @@ Nenurodyta
     atėjusi.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+
 ## Citatos
 
 - id: c-173889
@@ -219,8 +204,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191007
-    - t-197532
+    - t-007
+
 - id: c-173890
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -242,7 +227,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191008
+    - t-002
+
 - id: c-173892
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -267,24 +253,16 @@ Nenurodyta
     ro krantu į šiaurę, į venedų ir finų genties žemes, t. y. iki šiandienių
     Voluinės, Minsko ir Lietuvos gubernijų, o atgal grįžo dešiniąja Dnest-
     ro pakrante.
-  citata_rodoma: |
-    Dėl įvairių trūkumų
-    reikėjo trauktis tuo pat keliu, kuriuo kariuomenė buvo
-    atėjusi. Galop išdidžiam monarchui buvo laimė persikelti
-    su likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats
-    pastatė ir kuris dėl laimingo atsitiktinumo išliko, nes ki­
-    taip persai būtų jį neišvengiamai visiškai sutriuškinę1.
-    40
-    Darijui nepavyko įveikti skitų, bet šis žygis turėjo
-    didelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­
-    tent nuo to laiko ji aiškiai ėmė artėti prie žlugimo.
+  citata_rodoma: "Dėl įvairių trūkumų\nreikėjo trauktis tuo pat keliu, kuriuo kariuomenė buvo\natėjusi. Galop išdidžiam monarchui buvo laimė persikelti\nsu likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats\npastatė ir kuris dėl laimingo atsitiktinumo išliko, nes ki­\ntaip persai būtų jį neišvengiamai visiškai sutriuškinę1.\n40\nDarijui nepavyko įveikti skitų, bet šis žygis turėjo\ndidelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­\ntent nuo to laiko ji aiškiai ėmė artėti prie žlugimo."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191010
+    - t-001
+    - t-004
+
 - id: c-173893
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -317,6 +295,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191011
+    - t-005
+
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Darijus]]

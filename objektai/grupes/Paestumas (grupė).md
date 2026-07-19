@@ -33,7 +33,6 @@ Vorobjovo aprašyme klasicizmo skonį ugdė žavėjimasis graikų ir romėnų ar
 
 <a id="claim-t-200835"></a>
 - t-001
-  global_id: t-200835
   teiginys: "Vorobjovo aprašyme klasicizmo skonį ugdė žavėjimasis graikų ir romėnų architektūros paminklais, tarp jų dorėniškomis Paestumo šventyklomis."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Vorobjovo aprašyme klasicizmo skonį ugdė žavėjimasis graikų ir romėnų ar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200835
+    - t-001

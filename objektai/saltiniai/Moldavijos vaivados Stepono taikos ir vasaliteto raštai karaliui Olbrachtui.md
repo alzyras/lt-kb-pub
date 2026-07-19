@@ -31,7 +31,6 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
 
 <a id="claim-t-196803"></a>
 - t-002
-  global_id: t-196803
   teiginys: "Lietuvos metraštis pasakoja, kad po Briansko pilies sudegimo maskvėnai užėmė Briansko miestą ir visą kraštą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -45,7 +44,6 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
 
 <a id="claim-t-196804"></a>
 - t-003
-  global_id: t-196804
   teiginys: "Lietuvos metraštis pasakoja, kad Semionas Ivanovičius ir Vasilijus Semiačičius prie Kontovto upės prisiekė tarnauti Maskvos didžiajam kunigaikščiui."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -57,16 +55,6 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
   pagrindžia:
     - c-178921
 
-<a id="claim-t-194156"></a>
-- t-001
-  global_id: t-194156
-  teiginys: 'Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kalnus ir sunkiai pereinamus miškus Lenkijos sienos link.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sutvarkytas nutrūkęs sakinys ir aiškiai įvardytas Olbrachto judėjimas po sutarties. Nepakartotas citatos moralinis Stepono vertinimas, nes šiam teiginiui jo nereikia.'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kalnus ir sunkiai pereinamus miškus Lenkijos sienos link.'
@@ -95,11 +83,9 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
     savo žmonėmis — raiteliais ir pėstininkais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194156
+  statusas: not_found
 ## Citatos
 
 - id: c-178920
@@ -129,7 +115,8 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196803
+    - t-002
+
 - id: c-178921
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -168,4 +155,4 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196804
+    - t-003

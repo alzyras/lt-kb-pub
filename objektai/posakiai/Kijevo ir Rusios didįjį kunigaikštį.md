@@ -31,7 +31,6 @@ Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusi
 
 <a id="claim-t-185478"></a>
 - t-001
-  global_id: t-185478
   teiginys: "Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusi
 
 <a id="claim-t-196396"></a>
 - t-002
-  global_id: t-196396
   teiginys: "Visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -93,5 +91,5 @@ Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185478
-    - t-196396
+    - t-001
+    - t-002

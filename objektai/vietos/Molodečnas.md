@@ -36,10 +36,9 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187264"></a>
-- t-001
-  global_id: t-187264
+- t-003
   teiginys: "1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė nežygiavo link Molodečno ir surengė reidą po šiaurės rytų Lietuvą."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -59,9 +58,8 @@ media_all_json: |-
 
 <a id="claim-t-187265"></a>
 - t-002
-  global_id: t-187265
   teiginys: "Kurenecas lokalizuojamas į šiaurę nuo Molodečno kaip planuota Livonijos kariuomenės ir Švitrigailos susijungimo vieta."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
@@ -97,17 +95,12 @@ media_all_json: |-
     raportas didžiajam magistrui, kuriame minima, kad (Smolensko vie­
     tininkas] Jurgis Butrimas pasitraukė nuo Švitrigailos, pripažindamas
     2ygimanto Kęstutaičio valdžią (LUB, VIII, Nr. 999, p. 611).
-  citata_rodoma: |
-    Ir vasario 15 d. su­
-    sijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­
-    nių. Tačiau susitarim as nebuvo jgyvendintas. Livonijos kariuome­
-    nė, nežygiuodama link Molodečno, pasitenkino 1433.L30—II.9 rei­
-    du po šiaurės rytų Lietuvą
+  citata_rodoma: "Ir vasario 15 d. su­\nsijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­\nnių. Tačiau susitarim as nebuvo jgyvendintas. Livonijos kariuome­\nnė, nežygiuodama link Molodečno, pasitenkino 1433.L30—II.9 rei­\ndu po šiaurės rytų Lietuvą"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187264
-    - t-187265
+    - t-003
+    - t-002

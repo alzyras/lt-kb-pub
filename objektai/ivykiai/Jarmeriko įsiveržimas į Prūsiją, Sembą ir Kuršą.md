@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-191063"></a>
 - t-001
-  global_id: t-191063
   teiginys: "Narbutas vaizduoja Jarmeriką po slavų krašto pavergimo įsiveržusį į Prūsiją, užgrobusį Sembą ir Kuršą bei žiauriai engusį žmones."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173945
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas vaizduoja Jarmeriką po slavų krašto pavergimo įsiveržusį į Prūsiją, užgrobusį Sembą ir Kuršą bei žiauriai engusį žmones.'
@@ -80,8 +79,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191063
+
 ## Citatos
 
 - id: c-173945
@@ -102,20 +100,14 @@ Nenurodyta
     vėliau, kai Jarmerikas sunkiais karais vargino Pabaltijo
     rusus, juos sėkmingai rėmė pašauktas pagalbon Danijos
     karalius Halfanask
-  citata_rodoma: |
-    Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
-    40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
-    ką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog
-    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
-    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
-    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
-    galo juos engdamas.
+  citata_rodoma: "Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti\n40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­\nką baisiai mirčiai. Pavergęs slavų kraštą ir pamanęs, jog\nįtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė\nį Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus\nplytinčius kraštus, žiauriai liedamas žmonių kraują ir be\ngalo juos engdamas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191063
+    - t-001
+
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Jarmerikas]]

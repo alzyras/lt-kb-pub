@@ -50,27 +50,18 @@ Nenurodyta
 
 <a id="claim-t-185794"></a>
 - t-001
-  global_id: t-185794
   teiginys: "Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.)\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-169155
+    - c-169156
 
 <a id="claim-t-185795"></a>
 - t-002
-  global_id: t-185795
   teiginys: "Po Švitrigailos smūgio Vytauto kariai sunkiai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -90,7 +81,6 @@ Nenurodyta
 
 <a id="claim-t-196299"></a>
 - t-003
-  global_id: t-196299
   teiginys: "Vytautas įsakė kavalerijos pulkų vadams ieškoti neužkirstų properšų miškuose bei pelkėse ir per jas siaubti Vasilijaus valdas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -104,7 +94,6 @@ Nenurodyta
 
 <a id="claim-t-196300"></a>
 - t-004
-  global_id: t-196300
   teiginys: "Po susitarimo su Vasilijumi Vytautas paskyrė vadus išvesti kariuomenę iš priešo šalies ir pats skubiai išvyko į Vilnių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -148,8 +137,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185794
-    - t-196299
+    - t-003
+
 - id: c-169156
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -179,5 +168,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185795
-    - t-196300
+    - t-001
+    - t-002
+    - t-004

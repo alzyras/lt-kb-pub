@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20296"></a>
 - t-001
-  global_id: t-20296
   teiginys: "Lietuvos diplomatinės tarnybos diplomatai atstovaujamose valstybėse simboliškai atstovavo Lietuvai ir palaikė ryšius su Baltijos šalių atstovais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-183240"></a>
 - t-002
-  global_id: t-183240
   teiginys: "Atkūrus Lietuvos nepriklausomybę, 1991 m. rugsėjo 6 d. Lietuvos diplomatinė tarnyba baigė darbą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -105,15 +103,15 @@ Nenurodyta
     stovybių ir personalo išlaikymą. Diplomatai savo atstovaujamose valstybėse
     simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais,
     dalyvavo įvairių šalių ambasadų, oficialių įstaigų priėmimuose.
-  citata_rodoma: |
-    simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais,
+  citata_rodoma: "simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20296
+    - t-001
+
 - id: c-166628
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -131,4 +129,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183240
+    - t-002

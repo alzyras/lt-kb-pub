@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-24535"></a>
 - t-001
-  global_id: t-24535
   teiginys: "A. Varno paveikslas „Mindaugo karūnacija“ vaizduoja Mindaugo vainikavimą ir buvo sukurtas 1952–1953 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,14 +84,11 @@ Nenurodyta
     Mindaugo vainikavimas
     Mindaugo karūnacija.
     Dail. A. Varnas, 1952–1953 m.
-  citata_rodoma: |
-    Mindaugo vainikavimas
-    Mindaugo karūnacija.
-    Dail. A. Varnas, 1952–1953 m.
+  citata_rodoma: "Mindaugo vainikavimas \nMindaugo karūnacija.  \nDail. A. Varnas, 1952–1953 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-24535
+    - t-001

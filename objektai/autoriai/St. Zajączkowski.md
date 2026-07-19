@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-100100"></a>
 - t-001
-  global_id: t-100100
   teiginys: "St. Zajączkowski rašė apie jotvingių vardus ir Jotvos problemą istoriografijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100100
+    - t-001

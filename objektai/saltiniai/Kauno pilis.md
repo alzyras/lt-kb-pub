@@ -8,10 +8,10 @@ datos:
   - '1971 m.'
 date_start: '1960'
 date_end: '1971'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,7 +35,6 @@ Kauno pilis.
 
 <a id="claim-t-202263"></a>
 - t-001
-  global_id: t-202263
   teiginys: "Kauno pilis."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Kauno pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202263
+    - t-001

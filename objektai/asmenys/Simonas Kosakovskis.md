@@ -39,7 +39,6 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
 
 <a id="claim-t-19229"></a>
 - t-001
-  global_id: t-19229
   teiginys: "Simonas Kosakovskis 1792 m. vadovavo Vilniaus konfederacijai, pritarusiai Targovicos konfederacijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,12 +74,11 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
     Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
     Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
     ir Vilniaus vyskupas I. Masalskis.
-  citata_rodoma: |
-    Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
+  citata_rodoma: "Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19229
+    - t-001

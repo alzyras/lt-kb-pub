@@ -31,7 +31,6 @@ Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo n
 
 <a id="claim-t-87676"></a>
 - t-001
-  global_id: t-87676
   teiginys: "Lietuviai prie Vėluvos nužudė įtakingą kryžiuotį Fridrichą fon Quitzą ir trisdešimt šešis jo karius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87676
+    - t-001

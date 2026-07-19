@@ -31,7 +31,6 @@ Teodoro Narbuto aiškinimu, kujavais vadinosi tie, kurie apsigyveno Chue, slavi�
 
 <a id="claim-t-192986"></a>
 - t-001
-  global_id: t-192986
   teiginys: "Teodoro Narbuto aiškinimu, kujavais vadinosi tie, kurie apsigyveno Chue, slaviškai vadinamo Kuje, miesto apylinkėse."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Teodoro Narbuto aiškinimu, kujavais vadinosi tie, kurie apsigyveno Chue, slavi�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175756
-    - c-001
 - susijęs iš Kujavija: Teodoro Narbuto pasakojime kujavai vėliau persikėlė prie Vyslos žemupio ir įsikūrė jos kairiajame krante, Kujavijoje.
 ## Reikšmingi paminėjimai
 - c-001
@@ -75,8 +73,7 @@ Teodoro Narbuto aiškinimu, kujavais vadinosi tie, kurie apsigyveno Chue, slavi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192986
+
 ## Citatos
 
 - id: c-175756
@@ -100,24 +97,11 @@ Teodoro Narbuto aiškinimu, kujavais vadinosi tie, kurie apsigyveno Chue, slavi�
     liavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran­
     tėje, dar ir šiandien, žinomoje Kujavijoje, nepalikdami
     prie Dnepro net savo pavadinimo pėdsakų.
-  citata_rodoma: |
-    Vėliau, laikui bėgant, slavų gentys, vienos i*š labiau­
-    siai civilizuotų, nes gyveno Dnestro žemupyje ir nuo se­
-    no turėjo ryšių su graikais, Juodosios jūros pakrančių
-    kolonistais, vadinamais tiritais, vadintos Antae, o Nesto­
-    ro pavadintos tiverais, tiverėnais, be to, gausios gyven­
-    tojų skaičiumi, išplėtė savo gyvenvietes prie Dnepro, ypač
-    jo vidurupyje; iš čia kilo įvairiai pavadintos slavų, po-
-    lianų, suličių, severianų ir kitų gentys. Tie, kurie apsi­
-    gyveno Chue, slaviškai vadinamo Kuje, miesto apylinkė­
-    se, vadinosi kujavais1. Iš tiesų truputį vėliau jie iške­
-    liavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran­
-    tėje, dar ir šiandien, žinomoje Kujavijoje, nepalikdami
-    prie Dnepro net savo pavadinimo pėdsakų.
+  citata_rodoma: "Vėliau, laikui bėgant, slavų gentys, vienos i*š labiau­\nsiai civilizuotų, nes gyveno Dnestro žemupyje ir nuo se­\nno turėjo ryšių su graikais, Juodosios jūros pakrančių\nkolonistais, vadinamais tiritais, vadintos Antae, o Nesto­\nro pavadintos tiverais, tiverėnais, be to, gausios gyven­\ntojų skaičiumi, išplėtė savo gyvenvietes prie Dnepro, ypač\njo vidurupyje; iš čia kilo įvairiai pavadintos slavų, po-\nlianų, suličių, severianų ir kitų gentys. Tie, kurie apsi­\ngyveno Chue, slaviškai vadinamo Kuje, miesto apylinkė­\nse, vadinosi kujavais1. Iš tiesų truputį vėliau jie iške­\nliavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran­\ntėje, dar ir šiandien, žinomoje Kujavijoje, nepalikdami\nprie Dnepro net savo pavadinimo pėdsakų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192986
+    - t-001

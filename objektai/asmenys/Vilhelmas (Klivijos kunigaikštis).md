@@ -31,7 +31,6 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
 
 <a id="claim-t-34766"></a>
 - t-001
-  global_id: t-34766
   teiginys: "Klivijos kunigaikštis Vilhelmas Konstancijos bažnyčios sinode viešai pabrėžė Vytauto vaidmenį ginant Europą nuo turkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
 
 <a id="claim-t-184290"></a>
 - t-002
-  global_id: t-184290
   teiginys: "Klivijos kunigaikštis Vilhelmas Konstancijos bažnyčios sinode viešai pabrėžė Vytauto reikšmę Europai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34766
+    - t-001
+
 - id: c-167666
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -108,4 +107,4 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184290
+    - t-002

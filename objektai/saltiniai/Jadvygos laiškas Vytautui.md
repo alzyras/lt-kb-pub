@@ -38,7 +38,6 @@ Gana grėsmingai įsiliepsnojo pirmieji nesuta­ rimai tarp abiejų tautų (1398
 
 <a id="claim-t-88429"></a>
 - t-001
-  global_id: t-88429
   teiginys: "1398 m. karalienė Jadvyga laišku prašė Vytauto mokėti činšą, priklausantį jai iš Lietuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,4 +132,4 @@ Gana grėsmingai įsiliepsnojo pirmieji nesuta­ rimai tarp abiejų tautų (1398
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88429
+    - t-001

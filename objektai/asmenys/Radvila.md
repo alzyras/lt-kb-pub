@@ -32,7 +32,6 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
 
 <a id="claim-t-186171"></a>
 - t-001
-  global_id: t-186171
   teiginys: "Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas imperatorių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
 
 <a id="claim-t-196586"></a>
 - t-003
-  global_id: t-196586
   teiginys: "Radvila, raitelių būrio vadas, patarė kariams persikelti per patvinusią Vyslą prie Zavichosto pilies."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -63,16 +61,6 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178780
-
-<a id="claim-t-193973"></a>
-- t-002
-  global_id: t-193973
-  teiginys: 'Jo įkėli mui į chano sostą drauge su juo pasiuntė krašto mar šalą Radvilą 3 2 .'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-002
 - susijęs iš [[objektai/asmenys/Albrechtas Radvila.md#claim-t-87613|Albrechtas Radvila]]: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
 - susijęs iš [[objektai/asmenys/Dominykas Radvila.md#claim-t-87655|Dominykas Radvila]]: Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis.
 - susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200531|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo kunigaikštis vėliavininkas.
@@ -187,11 +175,9 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
     chanų sostą M .
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193973
+  statusas: not_found
 ## Citatos
 
 - id: c-169532
@@ -228,28 +214,15 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
     valdovų ir Lenkijos bei Lie­
     tuvos, pagal kurią jie neturėjo teikti kryžiuočiams pa­
     galbos.
-  citata_rodoma: |
-    Vis dėlto buvo pamato būgštauti, kad jie gali
-    nepaisyti teisėto susitarimo iš palankumo žmonėms, su
-    kuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio
-    uždavinio: pasikvietęs į palydovus didikus Goštautą,
-    Rumbaudą bei Radvilą, jis išvyko pas imperatorių.
-    Prieš tai susitarė slaptai su karaliumi (apie tai žinojo
-    tiktai karalystės pakancleris Trombą), kad, Vytautui
-    376
-
-    ## Puslapis 375
-
-    išsiaiškinus, jog imperatorius bei jo brolis neabejingi
-    jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
-    mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
+  citata_rodoma: "Vis dėlto buvo pamato būgštauti, kad jie gali\nnepaisyti teisėto susitarimo iš palankumo žmonėms, su\nkuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio\nuždavinio: pasikvietęs į palydovus didikus Goštautą,\nRumbaudą bei Radvilą, jis išvyko pas imperatorių.\nPrieš tai susitarė slaptai su karaliumi (apie tai žinojo\ntiktai karalystės pakancleris Trombą), kad, Vytautui\n376\n\n## Puslapis 375\n\nišsiaiškinus, jog imperatorius bei jo brolis neabejingi\njų reikalui, kuo greičiausiai, niekam nieko nesakyda­\nmas, ten išvyks ir Jogaila patvirtinti naujo susitarimo."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186171
+    - t-001
+
 - id: c-178780
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -281,4 +254,4 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196586
+    - t-003

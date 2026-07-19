@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-194821"></a>
 - t-001
-  global_id: t-194821
   teiginys: "Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai, panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma kitame šio veikalo tome."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -66,7 +65,6 @@ Nenurodyta
 
 <a id="claim-t-194822"></a>
 - t-002
-  global_id: t-194822
   teiginys: "Kai kuriuos žymius žmones Lietuvoje kartais laidodavo prie didelių akmenų, esančių laukuose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -99,7 +97,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194821
+    - t-001
+
 - id: c-177218
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -118,4 +117,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194822
+    - t-002

@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-86831"></a>
 - t-001
-  global_id: t-86831
   teiginys: "1424 m. Vytauto Vilniui suteiktomis duoklių lengvatomis naudojosi tik Romos katalikų tikėjimą išpažinę miestiečiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86831
+    - t-001

@@ -31,7 +31,6 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
 
 <a id="claim-t-22262"></a>
 - t-001
-  global_id: t-22262
   teiginys: "Raštinių kultūros plėtrą XIV–XV a. sandūroje skatino augantis LDK rašto poreikis ir vienuolijų trūkumas Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
 
 <a id="claim-t-193613"></a>
 - t-002
-  global_id: t-193613
   teiginys: "Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -77,15 +75,15 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
     reikė rašto. Šio visuomenės raidos etapo rašto poreikius Vakarų Europoje
     tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai
     didėjo.
-  citata_rodoma: |
-    tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai
+  citata_rodoma: "tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22262
+    - t-001
+
 - id: c-176286
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -106,4 +104,4 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193613
+    - t-002

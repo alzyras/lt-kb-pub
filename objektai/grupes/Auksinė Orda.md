@@ -44,8 +44,7 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
 ## Teiginiai
 
 <a id="claim-t-05238"></a>
-- t-001
-  global_id: t-05238
+- t-002
   teiginys: "Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale silpnėjusi totorių valstybė."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     - c-05786
 
 <a id="claim-t-05239"></a>
-- t-002
-  global_id: t-05239
+- t-003
   teiginys: "Vytautas žadėjo Tochtamišą pasodinti Aukso ordoje ir tikėjosi už tai įtakos Maskvoje."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     - c-05787
 
 <a id="claim-t-05240"></a>
-- t-003
-  global_id: t-05240
+- t-004
   teiginys: "Lemiamasis Vytauto žygis, siekęs pasodinti Tochtamišą Aukso ordoje, baigėsi nesėkme."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     - c-05788
 
 <a id="claim-t-12353"></a>
-- t-004
-  global_id: t-12353
+- t-005
   teiginys: "Aukso Orda šiame šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi totorių valstybė."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -114,8 +110,7 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     - c-14960
 
 <a id="claim-t-12354"></a>
-- t-005
-  global_id: t-12354
+- t-006
   teiginys: "Tamerlano smūgis išvijo Tochtamyšą, o Auksinėje Ordoje buvo pasodintas naujas valdovas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -131,25 +126,16 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     - c-14961
 
 <a id="claim-t-12355"></a>
-- t-006
-  global_id: t-12355
+- t-007
   teiginys: "Vytauto įtaka šiame pasakojime siejama ir su Aukso Orda."
-  atnaujinta: "2026-05-31 12:01"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukso orda: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Auksinė Orda: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Aukso orda: mention_match, group, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinė Orda\" parinktas kaip owner_note_path. Targetas \"Aukso orda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-14962
+    - c-14960
 
 <a id="claim-t-92025"></a>
-- t-007
-  global_id: t-92025
+- t-010
   teiginys: "Jonas III sudarė sąjungą su Perekopo chanu ir sunaikino Auksinę Ordą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -169,8 +155,7 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     - c-87638
 
 <a id="claim-t-92026"></a>
-- t-008
-  global_id: t-92026
+- t-009
   teiginys: "Po Tamerlano žygių Auksinėje Ordoje buvo pasodintas Koiridžakas-Aglenas, o po jo - Kotlogas-Timuras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -186,8 +171,7 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     - c-87634
 
 <a id="claim-t-92027"></a>
-- t-009
-  global_id: t-92027
+- t-008
   teiginys: "Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -201,21 +185,6 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-87636
-
-<a id="claim-t-187705"></a>
-- t-010
-  global_id: t-187705
-  teiginys: 'Komentare Achmatas apibūdinamas kaip Aukso ordos chanas 1459–1481 m., Kazimiero Jogailaičio sąjungininkas ir 1480 m. žygio prie Ugros dalyvis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Valdovo titulas ir politinis apibūdinimas palikti su komentaro atribucija. Sąmoningai neperimtas motyvinis teiginys apie siekį pajungti Maskvą kaip neutralus faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
-  temporaliniai_duomenys: 'įvykio data: 1459-1481; įvykio data: 1480 m.; įvykio data: 1481 m.; įvykio data: 1503 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Valdovo titulas ir politinis apibūdinimas palikti su komentaro atribucija. Sąmoningai neperimtas motyvinis teiginys apie siekį pajungti Maskvą kaip neutralus faktas.'
-  pagrindžia:
-    - c-010
 - susijęs iš Volynė: 1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę.
 - susijęs iš Kijevas: Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdytą Kijevą ir atėmė jį iš Aukso ordos.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176380|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).
@@ -351,11 +320,9 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     Achmetų ir sujungti savo valdžioje visas totorių ordas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187705
+  statusas: not_found
 ## Citatos
 
 - id: c-05786
@@ -369,17 +336,15 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     jėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.
     Bet tos audros debesys pamažu išsiskirstė, nepadarydami Maskvai
     didesnių nuostolių.
-  citata_rodoma: |
-    Kai nuo XIV amž. galo totorių valstybė (Aukso
-    Orda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji
-    jėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.
+  citata_rodoma: "Kai nuo XIV amž. galo totorių valstybė (Aukso\nOrda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji\njėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05238
+    - t-002
+
 - id: c-05787
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -397,7 +362,8 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05239
+    - t-003
+
 - id: c-05788
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -411,16 +377,15 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį
     Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
     sutriuškino švedų galybę (1709).
-  citata_rodoma: |
-    Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos
-    (Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.
+  citata_rodoma: "Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos\n(Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05240
+    - t-004
+
 - id: c-14960
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -432,17 +397,16 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     Ši puslaukinė tauta atkeliavo iš Azijos į Europą apie XIII
     amž. pradžią. Iš karto ji apsistojo paliai Kaspijos jūrą ir įstei­
     gė Aukso Ordą.
-  citata_rodoma: |
-    Ši puslaukinė tauta atkeliavo iš Azijos į Europą apie XIII
-    amž. pradžią. Iš karto ji apsistojo paliai Kaspijos jūrą ir įstei­
-    gė Aukso Ordą.
+  citata_rodoma: "Ši puslaukinė tauta atkeliavo iš Azijos į Europą apie XIII\namž. pradžią. Iš karto ji apsistojo paliai Kaspijos jūrą ir įstei­\ngė Aukso Ordą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12353
+    - t-005
+    - t-007
+
 - id: c-14961
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -463,7 +427,8 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12354
+    - t-006
+
 - id: c-14962
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -477,19 +442,13 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     Aukso Ordoje. Bet Žalgirio mūšis, kuriame jis palaužė Vokie­
     čių Ordino galybę, Vytauto valdžią dar labiau sutvirtino ir pra­
     skynė kelią į tikruosius jo didybės laikus.
-  citata_rodoma: |
-    Vytautas Didysis, kaipo žymus ir galingas Lietuvos val­
-    dovas, pasireiškė jau prieš Žalgirio mūšį. Per aštuonioliką sa­
-    vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir
-    paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net
-    Aukso Ordoje.
+  citata_rodoma: "Vytautas Didysis, kaipo žymus ir galingas Lietuvos val­\ndovas, pasireiškė jau prieš Žalgirio mūšį. Per aštuonioliką sa­\nvo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir\npaskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net\nAukso Ordoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-12355
 - id: c-87634
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -502,19 +461,15 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
 
     - Aglenas ir jo įpėdinis Kotlogas-Timuras.
-  citata_rodoma: |
-    Šis padarė
-    tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
-    buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
-
-    - Aglenas ir jo įpėdinis Kotlogas-Timuras.
+  citata_rodoma: "Šis padarė\ntris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos\nbuvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas\n\n- Aglenas ir jo įpėdinis Kotlogas-Timuras."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92026
+    - t-009
+
 - id: c-87636
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -534,7 +489,8 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92027
+    - t-008
+
 - id: c-87638
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -546,18 +502,15 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     naikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo
     totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
     Lietuva.
-  citata_rodoma: |
-    Jonas III su naujuoju chanu padarė sąjungą ir su-
-    naikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo
-    totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
-    Lietuva.
+  citata_rodoma: "Jonas III su naujuoju chanu padarė sąjungą ir su-\nnaikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo\ntotorių (1480 m.), ir vienintelis galingas jos konkurentas liko\nLietuva."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92025
+    - t-010
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Volynė]]
 - Auksinė Orda priklausė [[objektai/grupes/Mongolų imperija]]

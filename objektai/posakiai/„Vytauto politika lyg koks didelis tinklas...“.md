@@ -31,7 +31,6 @@ Jo veiksmuose dažnai pasireikšdavo didelis atsargu­ mas, kuris tačiau nevirs
 
 <a id="claim-t-194953"></a>
 - t-001
-  global_id: t-194953
   teiginys: "Vytauto politika lyg koks didelis tinklas: jis jo akis tai suveda, tai paleidžia, tai naujai sumezga."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Jo veiksmuose dažnai pasireikšdavo didelis atsargu­ mas, kuris tačiau nevirs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194953
+    - t-001

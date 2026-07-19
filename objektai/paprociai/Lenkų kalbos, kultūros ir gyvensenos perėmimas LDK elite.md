@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-54271"></a>
 - t-001
-  global_id: t-54271
   teiginys: "1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio kronika tapo parankine Lietuvos bajorijos knyga."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-54272"></a>
 - t-002
-  global_id: t-54272
   teiginys: "Nors Lietuvoje ir toliau bandyta rašyti lotyniškai ir lietuviškai, lenkėjimas pamažu apėmė visą jos politinį ir kultūrinį elitą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -95,7 +93,6 @@ Nenurodyta
 
 <a id="claim-t-183318"></a>
 - t-003
-  global_id: t-183318
   teiginys: "Integraciniai procesai viešajame gyvenime skatino lenkiškojo kalbinio kultūros modelio plitimą LDK elite."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -131,22 +128,15 @@ Nenurodyta
     žemėse priemone.
     Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai,
     lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.
-  citata_rodoma: |
-    Gyveni-
-    mas reikalavo vis daugiau lietuviškų žodžių, bet, užuot juos kūrus, buvo
-    pasisavinami lenkiški. Taigi lietuvių kalbą, nesuspėjant kurti naujadarų
-    pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų,
-    tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
-    žemėse priemone.
-    Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai,
-    lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.
+  citata_rodoma: "Gyveni-\nmas reikalavo vis daugiau lietuviškų žodžių, bet, užuot juos kūrus, buvo \npasisavinami lenkiški. Taigi lietuvių kalbą, nesuspėjant kurti naujadarų \npagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų, \ntapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų \nžemėse priemone. \nNors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, \nlenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54272
+    - t-002
+
 - id: c-166708
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -169,5 +159,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54271
-    - t-183318
+    - t-001
+    - t-003

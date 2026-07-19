@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-06181"></a>
-- t-001
-  global_id: t-06181
+- t-004
   teiginys: "Žodis „vaisbūnas“ reiškia pirklį."
   atnaujinta: "2026-06-14 10:15"
   sprendimo_priezastis: "auto"
@@ -67,8 +66,7 @@ Nenurodyta
     - c-00296
 
 <a id="claim-t-06182"></a>
-- t-002
-  global_id: t-06182
+- t-003
   teiginys: "Žodis „vaisba“ reiškia prekybą."
   atnaujinta: "2026-06-14 10:15"
   sprendimo_priezastis: "auto"
@@ -94,16 +92,12 @@ Nenurodyta
     vienareikšmės sąvokos. Kitokių pirklių jie, matyt, nė nepažino. To-
     dėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia pre-
     kybą, vaisbūnas — pirklį.
-  citata_rodoma: |
-    Pažymėtina, kad „visbiečiai" ir „pirkliai" senovės lietuviams buvo
-    vienareikšmės sąvokos. Kitokių pirklių jie, matyt, nė nepažino. To-
-    dėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia pre-
-    kybą, vaisbūnas — pirklį.
+  citata_rodoma: "Pažymėtina, kad „visbiečiai\" ir „pirkliai\" senovės lietuviams buvo\nvienareikšmės sąvokos. Kitokių pirklių jie, matyt, nė nepažino. To-\ndėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia pre-\nkybą, vaisbūnas — pirklį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-06181
-    - t-06182
+    - t-004
+    - t-003

@@ -41,7 +41,6 @@ Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O 
 
 <a id="claim-t-26325"></a>
 - t-001
-  global_id: t-26325
   teiginys: "Transilvanijos kunigaikštis Steponas Batoras, tapęs Lenkijos ir Lietuvos valdovu, Livonijos kare pasiekė lemiamų pergalių prieš Maskvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,18 +86,11 @@ Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O 
     Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
     Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
     žiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą).
-  citata_rodoma: |
-    Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui
-
-    L I E T U V O S  I S T O R I J A
-    66
-    Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
-    Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
-    žiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą).
+  citata_rodoma: "Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui\n\nL I E T U V O S  I S T O R I J A\n66\nSteponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės \nLivonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-\nžiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26325
+    - t-001

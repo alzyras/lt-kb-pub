@@ -69,8 +69,7 @@ Sovietmečiu Kryžių kalnas tapo tikėjimo laisvės simboliu: valdžiai draudž
 ## Teiginiai
 
 <a id="claim-t-20811"></a>
-- t-001
-  global_id: t-20811
+- t-003
   teiginys: "Kryžių kalnas tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::customs"
@@ -107,12 +106,11 @@ Nenurodyta
     Kryžių kalne žmonės statė jų vis daugiau. Taip Kryžių kalnas (jį 1993 m.
     aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
     Golgota.
-  citata_rodoma: |
-    aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
+  citata_rodoma: "aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20811
+    - t-003

@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-87667"></a>
 - t-001
-  global_id: t-87667
   teiginys: "Fabijonas buvo paskirtas Varmės vyskupu be valdovo pritarimo, bet jo paskyrimą vėliau sutikta pripažinti galiojančiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,6 +93,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87667
+    - t-001
+
 ## Ryšiai
 - Paskyrė Fabijoną (Varmės vyskupas): [[objektai/grupes/Varmės kapitula]]

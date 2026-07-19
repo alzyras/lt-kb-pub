@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-193805"></a>
 - t-001
-  global_id: t-193805
   teiginys: "Okupacinėms pajėgoms pradėjus dominuoti vietovėje, žaliukams teko įsirengti gerai užmaskuotas slėptuves."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193805
+    - t-001

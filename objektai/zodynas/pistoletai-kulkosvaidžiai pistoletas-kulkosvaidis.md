@@ -31,7 +31,6 @@ Jis pradėtas kurti siekiant apginkluoti Raudonąją armiją dar paprastesniu, p
 
 <a id="claim-t-38696"></a>
 - t-001
-  global_id: t-38696
   teiginys: "Pistoletas-kulkosvaidis PPS Antrojo pasaulinio karo metu rusų pradėtas kurti ir gaminti kaip paprastesnė PPS-41 alternatyva."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ Jis pradėtas kurti siekiant apginkluoti Raudonąją armiją dar paprastesniu, p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38696
+    - t-001

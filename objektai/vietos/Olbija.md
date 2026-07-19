@@ -31,7 +31,6 @@ Narbutas Olbiją mini tarp graikų prekyviečių, kurios po VII a. pr. Kr. Juodo
 
 <a id="claim-t-192846"></a>
 - t-001
-  global_id: t-192846
   teiginys: "Narbutas Olbiją mini tarp graikų prekyviečių, kurios po VII a. pr. Kr. Juodosios jūros pakrantėse virto turtingais centrais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas Olbiją mini tarp graikų prekyviečių, kurios po VII a. pr. Kr. Juodo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192846
+    - t-001

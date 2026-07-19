@@ -31,7 +31,6 @@ Ant Volokolamsko tilto buvo mirtinai (lietuvio ietimi) sužeistas kunigaikštis 
 
 <a id="claim-t-39663"></a>
 - t-001
-  global_id: t-39663
   teiginys: "Kunigaikštis Vasilijus Berezuiskis buvo mirtinai sužeistas lietuvio ietimi ant Volokolamsko tilto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Ant Volokolamsko tilto buvo mirtinai (lietuvio ietimi) sužeistas kunigaikštis 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39663
+    - t-001

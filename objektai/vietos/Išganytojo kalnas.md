@@ -28,7 +28,6 @@ Misionierių bažnyčios du bokštai Vorobjovo aprašyme buvo matomi virš Išga
 
 <a id="claim-t-200803"></a>
 - t-001
-  global_id: t-200803
   teiginys: "Misionierių bažnyčios du bokštai Vorobjovo aprašyme buvo matomi virš Išganytojo kalno."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Misionierių bažnyčios du bokštai Vorobjovo aprašyme buvo matomi virš Išga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200803
+    - t-001

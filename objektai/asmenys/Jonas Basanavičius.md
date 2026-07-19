@@ -44,7 +44,6 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
 
 <a id="claim-t-78004"></a>
 - t-001
-  global_id: t-78004
   teiginys: "Jonas Basanavičius buvo pirmasis 1883 m. Rytprūsiuose pradėto leisti lietuviško mėnraščio „Aušra“ redaktorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
 
 <a id="claim-t-78005"></a>
 - t-002
-  global_id: t-78005
   teiginys: "Jonas Basanavičius buvo Lietuvių mokslo draugijos pirmininkas ir jau tuo laikotarpiu lietuvių visuomenės laikytas tautos patriarchu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,6 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
 
 <a id="claim-t-78006"></a>
 - t-003
-  global_id: t-78006
   teiginys: "1914 m. liepą Vilniuje Jonas Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė Gintarinę deklaraciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +102,6 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
 
 <a id="claim-t-200890"></a>
 - t-004
-  global_id: t-200890
   teiginys: "Dr. Basanavičius, susipažinęs su lenkiškų laikraščių atsiliepimais, parašė straipsnį „Polaki v Litvie“, išspausdintą „Nov. Vrēmia“."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -179,7 +175,8 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78004
+    - t-001
+
 - id: c-75320
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -202,20 +199,15 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
     ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
     esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
     tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
-  citata_rodoma: |
-    Kai 1914 m.
-    liepą Vilniuje J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas sura-
-    šė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelb-
-    ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
-    esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
-    tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
+  citata_rodoma: "Kai 1914 m. \nliepą Vilniuje J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas sura-\nšė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelb-\nta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, \nesančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-\ntuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78006
+    - t-003
+
 - id: c-75321
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -236,26 +228,15 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
     pirmininkas buvo J. Basanavičius,
     jau šiuo laikotarpiu lietuvių visuo-
     menės laikytas tautos patriarchu.
-  citata_rodoma: |
-    dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
-    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
-    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
-    telkusi lenkiškai kalbančiuosius. Lietuvių mokslo draugijos iniciatorius ir
-    Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.
-    Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja
-    Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius,
-    Liudvika Didžiulienė-Žmona ir kt. (A. Jurašaičio nuotrauka)
-
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    127
-    pirmininkas buvo J.
+  citata_rodoma: "dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad \njame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija, \nplėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija, \ntelkusi lenkiškai kalbančiuosius. Lietuvių mokslo draugijos iniciatorius ir \nLietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. \nPirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja \nJulija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, \nLiudvika Didžiulienė-Žmona ir kt. (A. Jurašaičio nuotrauka)\n\n3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )\n127\npirmininkas buvo J."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78005
+    - t-002
+
 - id: c-184233
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
@@ -281,6 +262,7 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200890
+    - t-004
+
 ## Ryšiai
 - Jonas Basanavičius gyveno [[objektai/vietos/Praha]]

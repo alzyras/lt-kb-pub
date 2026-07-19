@@ -33,7 +33,6 @@ Pas valstietį Byką Ažėnuose buvo vestuvės.
 
 <a id="claim-t-202400"></a>
 - t-001
-  global_id: t-202400
   teiginys: "Pas valstietį Byką Ažėnuose buvo vestuvės."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,5 @@ Pas valstietį Byką Ažėnuose buvo vestuvės.
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202400
+    - t-001

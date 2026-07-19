@@ -31,7 +31,6 @@ Tarp Palangos ir Liepojos minima Šventoji (Šwięta) yra upė, įtekanti į jū
 
 <a id="claim-t-189092"></a>
 - t-001
-  global_id: t-189092
   teiginys: "Tarp Palangos ir Liepojos minima Šventoji (Šwięta) yra upė, įtekanti į jūrą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Tarp Palangos ir Liepojos minima Šventoji (Šwięta) yra upė, įtekanti į jū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189092
+    - t-001

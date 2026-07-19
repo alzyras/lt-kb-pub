@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-01691"></a>
 - t-001
-  global_id: t-01691
   teiginys: "Kėdainių lietuviškų knygų spaustuvė veikė vos porą metų ir greičiausiai sudegė 1654 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,15 +82,11 @@ Nenurodyta
     veikė vos porą metų: greičiausiai, ji sudegė (1654 m.). Netrukus
     Maskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų
     galybę, ir nebebuvo kas įtaisytų spaustuvę.
-  citata_rodoma: |
-    Spaustuvė te-
-    veikė vos porą metų: greičiausiai, ji sudegė (1654 m.). Netrukus
-    Maskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų
-    galybę, ir nebebuvo kas įtaisytų spaustuvę.
+  citata_rodoma: "Spaustuvė te-\nveikė vos porą metų: greičiausiai, ji sudegė (1654 m.). Netrukus\nMaskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų\ngalybę, ir nebebuvo kas įtaisytų spaustuvę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01691
+    - t-001

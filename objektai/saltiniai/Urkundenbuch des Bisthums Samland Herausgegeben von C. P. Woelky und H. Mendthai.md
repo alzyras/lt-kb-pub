@@ -35,13 +35,46 @@ media_all_json: |-
 
 Dusburgietis teigia, kad urkundenbuch des Bisthums Samland / Herausgegeben von C.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '„Urkundenbuch des Bisthums Samland“ parengė C. P. Woelky ir H. Mendthai, o leidinys išėjo Leipcige 1891 ir 1898 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Urkundenbuch des Bisthums Samland / Herausgegeben von C. P. Woelky und H.
+    Mendthai.—Leipzig.—H. 1, 1891; H. 2, 1898 (Neues Preussisches Urkundenbuch.
+    Ostpreussischer Theil. II Abtheilung, Bd. 2).
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-61963
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Кушнер (Кнышев) П. И. Этнические территории и этнические границы. — М.,
+    1951.
+    Лаучюте Ю. А. Древняя и древнейшая территория расселения балтских племен:
+    Сопоставление результатов лингвистических и археологических исследований.
+  citata_rodoma: "Urkundenbuch des Bisthums Samland / Herausgegeben von C. P. Woelky und H.\nMendthai.—Leipzig.—H. 1, 1891; H. 2, 1898 (Neues Preussisches Urkundenbuch.\nOstpreussischer Theil. II Abtheilung, Bd. 2)."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-61331"></a>
 - t-001
-  global_id: t-61331
   teiginys: "„Urkundenbuch des Bisthums Samland“ parengė C. P. Woelky ir H. Mendthai, o leidinys išėjo Leipcige 1891 ir 1898 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> C. P. Woelky: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -56,41 +89,3 @@ Dusburgietis teigia, kad urkundenbuch des Bisthums Samland / Herausgegeben von C
   temporalinis_llm_pakomentavimas: "Citata pagrindžia rengėjus ir leidimo metus."
   pagrindžia:
     - c-61963
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '„Urkundenbuch des Bisthums Samland“ parengė C. P. Woelky ir H. Mendthai, o leidinys išėjo Leipcige 1891 ir 1898 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Urkundenbuch des Bisthums Samland / Herausgegeben von C. P. Woelky und H.
-    Mendthai.—Leipzig.—H. 1, 1891; H. 2, 1898 (Neues Preussisches Urkundenbuch.
-    Ostpreussischer Theil. II Abtheilung, Bd. 2).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61331
-## Citatos
-
-- id: c-61963
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Кушнер (Кнышев) П. И. Этнические территории и этнические границы. — М.,
-    1951.
-    Лаучюте Ю. А. Древняя и древнейшая территория расселения балтских племен:
-    Сопоставление результатов лингвистических и археологических исследований.
-  citata_rodoma: |
-    Urkundenbuch des Bisthums Samland / Herausgegeben von C. P. Woelky und H.
-    Mendthai.—Leipzig.—H. 1, 1891; H. 2, 1898 (Neues Preussisches Urkundenbuch.
-    Ostpreussischer Theil. II Abtheilung, Bd. 2).
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-61331

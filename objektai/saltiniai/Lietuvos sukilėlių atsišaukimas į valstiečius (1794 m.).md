@@ -36,8 +36,7 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
 ## Teiginiai
 
 <a id="claim-t-45724"></a>
-- t-001
-  global_id: t-45724
+- t-003
   teiginys: "1794 m. sukilėliai kreipėsi į valstiečius, ragino pradėti partizaninį karą prieš Rusijos kariuomenę ir žadėjo asmens laisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
     - c-48431
 
 <a id="claim-t-45725"></a>
-- t-002
-  global_id: t-45725
+- t-001
   teiginys: "Lietuvos sukilėlių atsišaukimas į valstiečius buvo pirmas atsišaukimas lietuvių kalba, raginęs pradėti partizaninį karą prieš Rusijos kariuomenę."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
     - c-23888
 
 <a id="claim-t-45726"></a>
-- t-003
-  global_id: t-45726
+- t-002
   teiginys: "Lietuvos sukilėlių atsišaukimas į valstiečius žadėjo valstiečiams suteikti asmens laisvę."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -96,25 +93,21 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    lėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė
+    sudaryta sukilėlių vyriausybė – Lietuvos tautinė aukščiausioji taryba. Su-
+    kilėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė
     žymesnius targovitėnus. Kreiptasi į valstiečius (tai pirmas atsišaukimas
     lietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-
     nę, žadėta suteikti jiems asmens laisvę.
-    Suk
-  citata_rodoma: |
-    lėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė
-    žymesnius targovitėnus. Kreiptasi į valstiečius (tai pirmas atsišaukimas
-    lietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-
-    nę, žadėta suteikti jiems asmens laisvę.
-    Suk
+  citata_rodoma: "Su-\nkilėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė\nžymesnius targovitėnus. Kreiptasi į valstiečius (tai pirmas atsišaukimas\nlietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-\nnę, žadėta suteikti jiems asmens laisvę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45725
-    - t-45726
+    - t-001
+    - t-002
+
 - id: c-48431
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -129,18 +122,11 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
     konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
     vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
     lio 28 dieną.
-  citata_rodoma: |
-    Su-
-    kilėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė
-    žymesnius targovitėnus. Kreiptasi į valstiečius (tai pirmas atsišaukimas
-    lietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-
-    nę, žadėta suteikti jiems asmens laisvę.
-    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
-    konfederatų, tarp kurių buvo Vilniaus vyskupas I.
+  citata_rodoma: "Su-\nkilėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė \nžymesnius targovitėnus. Kreiptasi į valstiečius (tai pirmas atsišaukimas \nlietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-\nnę, žadėta suteikti jiems asmens laisvę. \nSukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos \nkonfederatų, tarp kurių buvo Vilniaus vyskupas I."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45724
+    - t-003

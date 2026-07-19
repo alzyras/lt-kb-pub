@@ -30,8 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-173012"></a>
-- t-001
-  global_id: t-173012
+- t-002
   teiginys: "Ordino santykiuose su lenkų vyskupais kilo ginčų dėl dešimtinės ir šv. Petro skatiko rinkliavų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ media_all_json: |-
     - c-157351
 
 <a id="claim-t-173013"></a>
-- t-002
-  global_id: t-173013
+- t-001
   teiginys: "Po dešimties metų atleidimo nuo mokesčių atvykę žemdirbiai turėjo mokėti pagal žemės rūšį nustatomą dešimtinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173013
+    - t-001
+
 - id: c-157351
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -135,4 +134,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173012
+    - t-002

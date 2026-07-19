@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-26373"></a>
 - t-001
-  global_id: t-26373
   teiginys: "1413 m. sausio 28 d. Salyne Vytautas atmetė Vokiečių ordino pretenzijas į Žemaitiją istoriniais ir etniniais argumentais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,4 +103,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26373
+    - t-001

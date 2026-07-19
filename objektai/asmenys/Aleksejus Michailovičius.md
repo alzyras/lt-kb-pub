@@ -38,8 +38,7 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
 ## Teiginiai
 
 <a id="claim-t-78940"></a>
-- t-001
-  global_id: t-78940
+- t-002
   teiginys: "1655 m. Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
     - c-76041
 
 <a id="claim-t-78941"></a>
-- t-002
-  global_id: t-78941
+- t-001
   teiginys: "Smolenske caras Aleksejus Michailovičius paskelbė vyriausiąjį vadą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,8 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78940
-    - t-78941
+    - t-002
+    - t-001
+
 ## Ryšiai
 - Aleksejus Michailovičius buvo valdovas [[objektai/vietos/Rusija]]

@@ -41,8 +41,7 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
 ## Teiginiai
 
 <a id="claim-t-185965"></a>
-- t-001
-  global_id: t-185965
+- t-003
   teiginys: "Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galvojęs apie sostą, nors Kazimieras skatino jį pradėti karą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -63,10 +62,9 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
     - c-169326
 
 <a id="claim-t-185966"></a>
-- t-002
-  global_id: t-185966
+- t-004
   teiginys: "Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -83,8 +81,7 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
     - c-169327
 
 <a id="claim-t-196498"></a>
-- t-003
-  global_id: t-196498
+- t-005
   teiginys: "Kojelavičiaus pasakojime Jonas Olbrachtas, nepasiekęs didesnių laimėjimų Prūsijoje, iš karo stovyklos leidosi į Krokuvą po žinios apie antrąjį sūnų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -99,10 +96,12 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto išrinkimas Lenkijos karaliumi.md#claim-t-186771|Jono Olbrachto išrinkimas Lenkijos karaliumi]]: Jonas Olbrachtas buvo vainikuotas Krokuvoje 1492 m. rugsėjo 23 d.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.).md#claim-t-185523|Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.)]]: Jonas Olbrachtas Rusioje ir Lietuvoje sutelkė kariuomenę ir prie Savranės upės stojo į atvirą kovą su skitais.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.).md#claim-t-185577|Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]: Karaliaus ginkluotosios jėgos pasuko į Vengriją, o Jonas Olbrachtas nenoromis sutiko dalyvauti žygyje prieš brolį.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti lenkų palankumą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-169324
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     To­
     dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­
@@ -128,15 +127,17 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
     žalos. Vasiljevičius tvirtino, kad nei jis pats, nei jo
     brolis nepadarę skriaudos ir nepažeidę susitarimo, gal
     5 3 4
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  citata_rodoma: "Karalius, jausdamas, jog\n1488 m e ta i\ndiena nuo dienos vis labiau\nsilpsta, žinojo, kad artėja pa­\nskutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­\nsokias progas, iškelti sūnus į deramas aukštybes. Štai\ntodėl pasirūpino, kad popiežius Inocentas paskelbtų\nFridrichą Krokuvos arkivyskupu ir įtrauktų į šventąją\nkardinolų tarybą, be to, visomis priemonėmis stengė­\nsi pelnyti lenkų palankumą Jonui Olbrachtui, kurį ke­\ntino palikti savo įpėdiniu. Todėl, sužinojęs, jog skitai\ndviem žygio voromis užpuolė Lenkiją, siaubdami ją ug­\nnimi ir kalaviju, jis ryžtingiau nei bet kada anksčiau\npradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą\ndėl Podolės, o sūnui karštai nurodė kuo apdairiausiai\npavaduoti karalių karo stovykloje."
+  statusas: verified
+  atnaujinta: "2026-07-13 01:17"
+
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
-- c-002
-  santrauka: '1489 m. Jonas Olbrachtas sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su skitais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+- id: c-169325
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Vasiljevičius tvirtino, kad nei jis pats, nei jo
     brolis nepadarę skriaudos ir nepažeidę susitarimo, gal
@@ -147,14 +148,12 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
     jam visai nerūpi keisti esamos padėties, pasiūlė visą
     reikalą patikėti spręsti abiejų šalių atstovams. Tada
     karalius ir liovėsi kėlęs bet kokius reikalavimus.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  atnaujinta: "2026-07-13 01:17"
+
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
-## Citatos
-
 - id: c-169326
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -169,19 +168,15 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
     pradėti karą. Šitokie rūpesčiai taip jam paėdė širdį,
     kad, trokšdamas gauti sūnui sostą, beveik nematė nie­
     ko kito ir nejautė, kokių patiria nuostolių.
-  citata_rodoma: |
-    Jonas beturėjo vos keturis tūkstančius karių, kai susi­
-    dūrė su stipria vengrų kariuomene. Jam stigo jėgų, bet
-    ne drąsos, štai todėl ir su tokia maža kariauna jis sto­
-    jo į lemtingą mūšį. Sumuštas vos ne vos paspruko iš
-    nugalėtojo rankų.
+  citata_rodoma: "Jonas beturėjo vos keturis tūkstančius karių, kai susi­\ndūrė su stipria vengrų kariuomene. Jam stigo jėgų, bet\nne drąsos, štai todėl ir su tokia maža kariauna jis sto­\njo į lemtingą mūšį. Sumuštas vos ne vos paspruko iš\nnugalėtojo rankų."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185965
+    - t-003
+
 - id: c-169327
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -205,24 +200,15 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
     ir skitai, paskatinti Ivano dovanų ir pažadų, užpuolė
     Volynę, vedami Achmat Girėjaus, Krymo valdovo sū­
     naus.
-  citata_rodoma: |
-    Poznanėje netrukus
-    svetimšalių kariams iš tiesų sumokėjo algą, tačiau sam­
-    dytinė kariuomenė neatvyko laiku į stovyklą, nes už-
-    gaišo pakelėje beplėšikaudama. Broliai karaliai visaip
-    stengėsi padėti Aleksandrui, Vladislovas — per Motie­
-    jų Cezelickį, o Jonas — per Aleksandrą Skorutą ragin­
-    dami Ivaną sutikti su teisingomis taikos sąlygomis.
-    Pats Aleksandras, norėdamas parodyti, jog ir jis ne­
-    prieštarauja taikai, nusiuntė į Maskvą Stanislovą Nar­
-    butą.
+  citata_rodoma: "Poznanėje netrukus\nsvetimšalių kariams iš tiesų sumokėjo algą, tačiau sam­\ndytinė kariuomenė neatvyko laiku į stovyklą, nes už-\ngaišo pakelėje beplėšikaudama. Broliai karaliai visaip\nstengėsi padėti Aleksandrui, Vladislovas — per Motie­\njų Cezelickį, o Jonas — per Aleksandrą Skorutą ragin­\ndami Ivaną sutikti su teisingomis taikos sąlygomis.\nPats Aleksandras, norėdamas parodyti, jog ir jis ne­\nprieštarauja taikai, nusiuntė į Maskvą Stanislovą Nar­\nbutą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185966
+    - t-004
+
 - id: c-178731
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -243,6 +229,7 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196498
+    - t-005
+
 ## Ryšiai
 - Jonas Olbrachtas kariavo prieš [[objektai/grupes/Vengrai]]

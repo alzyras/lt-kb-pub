@@ -31,7 +31,6 @@ Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją, 
 
 <a id="claim-t-22230"></a>
 - t-001
-  global_id: t-22230
   teiginys: "Po Žalgirio mūšio Lietuvoje bandyta steigti atskirą katalikų bažnytinę provinciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,12 +60,11 @@ Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją, 
     Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
     ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
     Katalikų bažnyčia.
-  citata_rodoma: |
-    ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
+  citata_rodoma: "ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22230
+    - t-001

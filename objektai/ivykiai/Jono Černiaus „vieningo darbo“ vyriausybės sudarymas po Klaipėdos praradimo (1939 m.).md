@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20212"></a>
 - t-001
-  global_id: t-20212
   teiginys: "Jono Černiaus „vieningo darbo“ vyriausybėje krikščionys demokratai ir liaudininkai gavo po dvi ministrų vietas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,12 +81,11 @@ Nenurodyta
     ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
     Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
     tijos gavo po dvi ministrų vietas.
-  citata_rodoma: |
-    ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
+  citata_rodoma: "ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20212
+    - t-001

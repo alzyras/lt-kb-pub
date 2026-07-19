@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-08336"></a>
 - t-001
-  global_id: t-08336
   teiginys: "Per išeiginių aukų apeigą viršaitis nešė duonos šmotelį ant torieliaus ir midaus kaušą arba taurę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -82,20 +81,15 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Išeiginėse aukose, beje, ant metinių viešių, arba švenčių, aukavo viršaitis ar viršininkas
-    vaideliotų, arba žynių, susirinkus taip pat svietui vienos apygardos į pašėtrį po visų dideliuoju
-    ąžuolu, kame šventa ugnis kūrinos. Viršaitis, paėmęs duonos šmotelį ant torieliaus^949 ir midaus
-    kaušą ar taurę ir tuo nešinas, tris kartus apėjo apie stalą ir tenai padėjo duoną ir taurę. Tad prie
-    aukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom.
-  citata_rodoma: |
-    Išeiginėse aukose, beje, ant metinių viešių, arba švenčių, aukavo viršaitis ar viršininkas
-    vaideliotų, arba žynių, susirinkus taip pat svietui vienos apygardos į pašėtrį po visų dideliuoju
-    ąžuolu, kame šventa ugnis kūrinos. Viršaitis, paėmęs duonos šmotelį ant torieliaus^949 ir midaus
-    kaušą ar taurę ir tuo nešinas, tris kartus apėjo apie stalą ir tenai padėjo duoną ir taurę. Tad prie
-    aukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom.
+        vaideliotų, arba žynių, susirinkus taip pat svietui vienos apygardos į pašėtrį po visų dideliuoju
+        ąžuolu, kame šventa ugnis kūrinos. Viršaitis, paėmęs duonos šmotelį ant torieliaus^949 ir midaus
+        kaušą ar taurę ir tuo nešinas, tris kartus apėjo apie stalą ir tenai padėjo duoną ir taurę. Tad prie
+        aukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom.
+  citata_rodoma: "Išeiginėse aukose, beje, ant metinių viešių, arba švenčių, aukavo viršaitis ar viršininkas\nvaideliotų, arba žynių, susirinkus taip pat svietui vienos apygardos į pašėtrį po visų dideliuoju\nąžuolu, kame šventa ugnis kūrinos. Viršaitis, paėmęs duonos šmotelį ant torieliaus^949 ir midaus\nkaušą ar taurę ir tuo nešinas, tris kartus apėjo apie stalą ir tenai padėjo duoną ir taurę. Tad prie\naukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08336
+    - t-001

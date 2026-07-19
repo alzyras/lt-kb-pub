@@ -43,7 +43,6 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 
 <a id="claim-t-170874"></a>
 - t-001
-  global_id: t-170874
   teiginys: "Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 
 <a id="claim-t-170876"></a>
 - t-002
-  global_id: t-170876
   teiginys: "Vakarų Europos XVI a. religinį nepakantumą simbolizavo 1572 m. Baltramiejaus naktis Paryžiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 
 <a id="claim-t-192768"></a>
 - t-003
-  global_id: t-192768
   teiginys: "Teodoras Narbutas siejo Vakarų Europą su kimbrų persikėlimu netrukus po 650 metų prieš Kristų ir jų giminyste su senovės germanais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -102,7 +99,6 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 
 <a id="claim-t-193654"></a>
 - t-004
-  global_id: t-193654
   teiginys: "Įvairiais duomenimis, 1945 m. Vakarų Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -115,7 +111,6 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 
 <a id="claim-t-200717"></a>
 - t-005
-  global_id: t-200717
   teiginys: "Laužikas spėja, kad dokumentuose minimas „kumelių pienas“ buvo Vakarų Europoje nežinomas alkoholinis gėrimas, keliautojams panašus į pieną."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -136,7 +131,6 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 
 <a id="claim-t-200718"></a>
 - t-006
-  global_id: t-200718
   teiginys: "Laužiko aiškinimu, gėrimas iš vienos taurės Vakarų Europoje buvo korporatyvinės bendrystės aktas, o LDK bajorijoje įgijo savitų reikšmių."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -191,7 +185,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170876
+    - t-002
 
 - id: c-155483
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -213,7 +207,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170874
+    - t-001
 
 - id: c-175538
   autorius: "Teodoras Narbutas"
@@ -237,7 +231,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192768
+    - t-003
 
 - id: c-176323
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -253,7 +247,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193654
+    - t-004
 
 - id: c-184062
   autorius: "Rimvydas Laužikas"
@@ -263,11 +257,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200717
+    - t-005
 
 - id: c-184063
   autorius: "Rimvydas Laužikas"
@@ -277,11 +268,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200718
+    - t-006
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Kimbrai]]

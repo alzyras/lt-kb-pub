@@ -30,7 +30,6 @@ Narbutas rašo, kad Kadmas ir Inachas pas graikus įvedė jau susiklosčiusias s
 
 <a id="claim-t-190169"></a>
 - t-001
-  global_id: t-190169
   teiginys: "Narbutas rašo, kad Kadmas ir Inachas pas graikus įvedė jau susiklosčiusias slaptas apeigas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Narbutas rašo, kad Kadmas ir Inachas pas graikus įvedė jau susiklosčiusias s
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173052
-    - c-001
 - susijęs iš [[objektai/asmenys/Inachas.md#claim-t-190158|Inachas]]: Narbutas rašo, kad Inachas, kaip ir Kadmas, pas graikus įvedė jau susiklosčiusias slaptas apeigas.
 - susijęs iš [[objektai/asmenys/Minas.md#claim-t-190185|Minas]]: Narbutas rašo, kad Minas Kretoje įvedė jau susiklosčiusias slaptas religines apeigas.
 - susijęs iš [[objektai/asmenys/Orfėjas.md#claim-t-190192|Orfėjas]]: Narbutas Orfėją mini tarp veikėjų, kurie skirtingose tautose įvedė jau susiklosčiusias slaptas religines apeigas.
@@ -72,8 +70,7 @@ Narbutas rašo, kad Kadmas ir Inachas pas graikus įvedė jau susiklosčiusias s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190169
+
 ## Citatos
 
 - id: c-173052
@@ -91,17 +88,11 @@ Narbutas rašo, kad Kadmas ir Inachas pas graikus įvedė jau susiklosčiusias s
     Lietuviai turėjo savo slaptas apeigas, kurias joms pasišven-
     tusieji ne kiekvienam atskleisdavo, todėl išsamesnės žinios apie
     jas dingo kartu su jų netektimi.
-  citata_rodoma: |
-    Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
-    tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,
-    kad jos atsirado senų senovėje. Egiptiečiai visiškai nesivadina
-    jų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­
-    kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­
-    sias slaptas apeigas.
+  citata_rodoma: "Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri\ntauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,\nkad jos atsirado senų senovėje. Egiptiečiai visiškai nesivadina\njų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­\nkus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­\nsias slaptas apeigas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190169
+    - t-001

@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-02129"></a>
 - t-001
-  global_id: t-02129
   teiginys: "1629 m. sudarytos Altmarko paliaubos baigėsi 1635 m., todėl reikėjo ruoštis naujam karui arba rūpintis jų pratęsimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,16 +69,11 @@ media_all_json: |-
     1635 m., tad reikėjo arba ruoš-
     tis naujam karui arba rūpintis
     pratęsti paliaubas.
-  citata_rodoma: |
-    1629 m. padarytos
-    Altmarko paliaubos baigėsi
-    1635 m., tad reikėjo arba ruoš-
-    tis naujam karui arba rūpintis
-    pratęsti paliaubas.
+  citata_rodoma: "1629 m. padarytos\nAltmarko paliaubos baigėsi\n1635 m., tad reikėjo arba ruoš-\ntis naujam karui arba rūpintis\npratęsti paliaubas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02129
+    - t-001

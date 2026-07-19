@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-66563"></a>
 - t-001
-  global_id: t-66563
   teiginys: "Lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją, išsivarė daug žmonių ir išsivežė daug daiktų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,21 +72,13 @@ Nenurodyta
 
 <a id="claim-t-66564"></a>
 - t-002
-  global_id: t-66564
   teiginys: "Grįžtančią lietuvių kariuomenę tarp Luko ir Narevo užpuolė broliai, nukovę 350 žmonių; kiti žuvo dykroje."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-66770
-    - c-001
+    - c-66771
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Grįžtančią lietuvių kariuomenę tarp Luko ir Narevo užpuolė broliai, nukovę 350 žmonių; kiti žuvo dykroje.'
@@ -109,8 +100,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-66564
+
 ## Citatos
 
 - id: c-66770
@@ -133,25 +123,13 @@ Nenurodyta
     neabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo
     būdo; kad šitai būtų akivaizdu, jie jį užklojo balta marška, kaip paprastai užklojami
     numirėliai.
-  citata_rodoma: |
-    Šie, nužygiavę  į dykras, plytinčias tarp dviejų
-    upių, tai yra tarp Luko530 ir Narevo, jų ten tykojo aštuonetą dienų, smarkiai piktindamiesi
-    ir didžiai trūkdami maisto. Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,
-    voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia
-      530 D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok. Lyck, dab. Elkas (Elk),
-    deš. Bebro intakas.
-
-    nesėkmė“. Vadas sušuko, kad jis nutiltų. Tačiau jis nesiliovė šaukęs, kol broliai, iššokę
-    su savo kariais iš pasalų, neužpuolė jų ir nenukovė 350 jų žmonių. Kiti išbėgiojo, ir kurie
-    ne kurie dykroje iš sielvarto pasikorė, o kiti ten išmirė, negaudami nei atsigerti, nei
-    pavalgyti, tik vienas kitas išsigelbėjo nuo žūties.
+  citata_rodoma: "Šie, nužygiavę  į dykras, plytinčias tarp dviejų\nupių, tai yra tarp Luko530 ir Narevo, jų ten tykojo aštuonetą dienų, smarkiai piktindamiesi\nir didžiai trūkdami maisto. Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,\nvoros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia\n  530 D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok. Lyck, dab. Elkas (Elk),\ndeš. Bebro intakas.\n\nnesėkmė“. Vadas sušuko, kad jis nutiltų. Tačiau jis nesiliovė šaukęs, kol broliai, iššokę\nsu savo kariais iš pasalų, neužpuolė jų ir nenukovė 350 jų žmonių. Kiti išbėgiojo, ir kurie\nne kurie dykroje iš sielvarto pasikorė, o kiti ten išmirė, negaudami nei atsigerti, nei\npavalgyti, tik vienas kitas išsigelbėjo nuo žūties."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-66564
 - id: c-66771
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -170,4 +148,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66563
+    - t-001
+    - t-002

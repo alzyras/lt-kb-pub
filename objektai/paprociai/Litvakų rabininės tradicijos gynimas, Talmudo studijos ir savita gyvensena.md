@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-54306"></a>
 - t-001
-  global_id: t-54306
   teiginys: "Vilniaus Gaonas gynė rabininę tradiciją, inicijavo akcijas prieš chasidizmą ir sustabdė jo plitimą Lietuvoje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-54307"></a>
 - t-002
-  global_id: t-54307
   teiginys: "Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -97,21 +95,15 @@ Nenurodyta
     esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo
     plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
     jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
-  citata_rodoma: |
-    Nors chasidizmas buvo liberalesnė ir de-
-    mokratiškesnė judaizmo atšaka, atsisakydamas griežtų religijos, dorovės ir
-    apskritai gyvensenos normų, kėlė pavojų pačiam žydiškumui išlaikyti. Vil-
-    niaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus
-    esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo
-    plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
-    jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
+  citata_rodoma: "Nors chasidizmas buvo liberalesnė ir de-\nmokratiškesnė judaizmo atšaka, atsisakydamas griežtų religijos, dorovės ir \napskritai gyvensenos normų, kėlė pavojų pačiam žydiškumui išlaikyti. Vil-\nniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus \nesant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo \nplitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį \njo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54306
+    - t-001
+
 - id: c-166714
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,4 +124,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54307
+    - t-002

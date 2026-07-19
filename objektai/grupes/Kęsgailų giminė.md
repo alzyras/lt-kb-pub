@@ -38,9 +38,8 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
 
 <a id="claim-t-187780"></a>
 - t-001
-  global_id: t-187780
   teiginys: "Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi bent 12 kartų."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170719
-    - c-001
+
 <a id="claim-t-188220"></a>
 - t-002
-  global_id: t-188220
   teiginys: "Jonas Lenartaitis Kęsgailą prie 1490 m. Trakų pavieto bajorų sutarties prispaudė antspaudą su bėgančio ietį laikančio žmogaus atvaizdu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187780
+
 ## Citatos
 
 - id: c-170719
@@ -110,21 +107,15 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
     rija. bet teikiamais jos pavyzdžiais siekė kovoti su sa­
     vo gyvenamojo laikotarpio visuomenės ir santvarkos
     ydomis.
-  citata_rodoma: |
-    Trys iš jų priklau­
-    so Bychovco kronikos autoriui. Žemaitijos istorijai pri­
-    skirtina taip pat tai, kas joje pasakojama apie Žemaiti­
-    jos seniūnų Kęsgailų giminės atstovus (jie minimi bent
-    12 atvejų). Tačiau iš viso Žemaitijos ir karų su kry­
-    žiuočiais istorijai pažinti Bychovco kronika yra men­
-    kas informatorius.
+  citata_rodoma: "Trys iš jų priklau­\nso Bychovco kronikos autoriui. Žemaitijos istorijai pri­\nskirtina taip pat tai, kas joje pasakojama apie Žemaiti­\njos seniūnų Kęsgailų giminės atstovus (jie minimi bent \n12 atvejų). Tačiau iš viso Žemaitijos ir karų su kry­\nžiuočiais istorijai pažinti Bychovco kronika yra men­\nkas informatorius."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187780
+    - t-001
+
 - id: c-171114
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -144,4 +135,4 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188220
+    - t-002

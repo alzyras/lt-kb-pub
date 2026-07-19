@@ -39,8 +39,7 @@ Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pra
 ## Teiginiai
 
 <a id="claim-t-173195"></a>
-- t-001
-  global_id: t-173195
+- t-003
   teiginys: "1585 m. Varšuvos seime išduotą privilegiją pasirašė Lietuvos Didžiosios Kunigaikštystės pakancleris Leonas Sapiega."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173195
+    - t-003

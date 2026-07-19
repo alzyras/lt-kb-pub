@@ -33,7 +33,6 @@ Turėjo vienok žinyčias, kuriose teiravos, kaip rištis didžiose notyse ir re
 
 <a id="claim-t-201213"></a>
 - t-001
-  global_id: t-201213
   teiginys: "Turėjo vienok žinyčias, kuriose teiravos, kaip rištis didžiose notyse ir reikaluose namų ir ūkės1."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Turėjo vienok žinyčias, kuriose teiravos, kaip rištis didžiose notyse ir re
 ## Citatos
 
 - id: c-184563
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Senieji lietuviai ir žemaičiai negebėjo bažnyčio­
     se melstis ir nekentė stuomenų bei rodveidžių pa-
@@ -68,4 +68,4 @@ Turėjo vienok žinyčias, kuriose teiravos, kaip rištis didžiose notyse ir re
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201213
+    - t-001

@@ -39,8 +39,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 ## Teiginiai
 
 <a id="claim-t-59905"></a>
-- t-001
-  global_id: t-59905
+- t-005
   teiginys: "Prie Renzeno pelkės Ditrichas iš Bernheimo siūlė pulti tą priešo kariuomenės dalį, kuri dar nebuvo perėjusi pelkės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -54,10 +53,9 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60539
-    - c-002
+
 <a id="claim-t-59906"></a>
-- t-002
-  global_id: t-59906
+- t-003
   teiginys: "Ditrichas iš Bernheimo, palikęs dalį brolių ir ginklanešių saugoti pilies, nugabeno šventas relikvijas į Kulmą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     - c-167438
 
 <a id="claim-t-59907"></a>
-- t-003
-  global_id: t-59907
+- t-004
   teiginys: "1243 m. Ditrichas iš Bernheimo su nedidele kariuomene stojo į kovą, nukovė 900 priešų ir paėmė 400 arklių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -85,11 +82,10 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   temporalinis_llm_pakomentavimas: "Citata remia kovos rezultatą; pašalintas religinis ir neaiškus kontekstas."
   pagrindžia:
     - c-60540
-    - c-003
-    - c-006
+    - c-167439
+
 <a id="claim-t-59908"></a>
-- t-004
-  global_id: t-59908
+- t-001
   teiginys: "Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -104,10 +100,9 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   semantiniai_rysiai: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) paskyrė Ditrichas iš Bernheimo (0.90); Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siuntė į Prūsija (0.70)"
   pagrindžia:
     - c-60541
-    - c-004
+
 <a id="claim-t-59909"></a>
-- t-005
-  global_id: t-59909
+- t-002
   teiginys: "1242 m. gruodžio 3 d. Ditrichas iš Bernheimo su keturiais broliais ir 24 ginklanešiais slapta įsigavo į Sartovicų pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -124,7 +119,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatą."
   pagrindžia:
     - c-60538
-    - c-001
 - susijęs iš [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.).md#claim-t-89398|Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]: 1242 m. gruodžio 3 d. Ditrichas iš Bernheimo su keturiais broliais ir dvidešimt keturiais ginklanešiais slapta įsigavo į Sartovicų pilį.
 ## Reikšmingi paminėjimai
 - c-001
@@ -145,8 +139,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59909
 - c-002
   santrauka: 'Prie Renzeno pelkės Ditrichas iš Bernheimo siūlė pulti tą priešo kariuomenės dalį, kuri dar nebuvo perėjusi pelkės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -164,8 +156,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59905
 - c-003
   santrauka: '1243 m. Ditrichas iš Bernheimo su nedidele kariuomene stojo į kovą, nukovė 900 priešų ir paėmė 400 arklių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -182,8 +172,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59907
 - c-004
   santrauka: 'Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -204,8 +192,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59908
 - c-006
   santrauka: '1243 m. Ditrichas iš Bernheimo su nedidele kariuomene stojo į kovą, nukovė 900 priešų ir paėmė 400 arklių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -222,8 +208,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59907
+
 ## Citatos
 
 - id: c-60538
@@ -241,22 +226,15 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     išėjo iš rūsio. Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,
     tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros
     palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.
-  citata_rodoma: |
-    Vienas jų, būtent
-    brolis Ditrichas iš Bernheimo, buvęs maršalas ir narsus vyras (jo krūtinėje plakė Ulikso
-    širdis, o ranka buvo ne silpnesnė nei Hektoro), bei dar keturi broliai ir dvidešimt keturi
-    ginklanešiai naktį (1242 gruodžio 3), šventos mergelės bei kankinės Barboros išvakarėse,
-    priėjo prie Sventopelko pilies Sartovicų272 ir, apstatę sienas kopėčiomis, slapta įsigavo
-    į vidų ir ten surado penkiasdešimt vyrų, paliktų jos saugoti; šių būta stiprių ir įgudusių
-    kovoti, tačiau broliai drauge su dvidešimt keturiais ginklanešiais juos drąsiai užpuolė.
-    Užpultieji narsiai priešinosi, gindami pilį.
+  citata_rodoma: "Vienas jų, būtent\nbrolis Ditrichas iš Bernheimo, buvęs maršalas ir narsus vyras (jo krūtinėje plakė Ulikso\nširdis, o ranka buvo ne silpnesnė nei Hektoro), bei dar keturi broliai ir dvidešimt keturi\nginklanešiai naktį (1242 gruodžio 3), šventos mergelės bei kankinės Barboros išvakarėse,\npriėjo prie Sventopelko pilies Sartovicų272 ir, apstatę sienas kopėčiomis, slapta įsigavo\nį vidų ir ten surado penkiasdešimt vyrų, paliktų jos saugoti; šių būta stiprių ir įgudusių\nkovoti, tačiau broliai drauge su dvidešimt keturiais ginklanešiais juos drąsiai užpuolė.\nUžpultieji narsiai priešinosi, gindami pilį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59909
+    - t-002
+
 - id: c-60539
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -271,21 +249,15 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
     negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
     į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.
-  citata_rodoma: |
-    Apie tai sužinoję, Kulmo pilies broliai pasekė
-    juos su 400 vyrų, ir, kai pusė netikėlių kariuomenės buvo perėjusi minėtąją pelkę, brolis
-    Ditrichas, buvęs maršalas, pasiūlė užpulti likusiąją jų dalį, tikindamas, kad ji būsianti
-    išžudyta anksčiau, nei kiti suskubs grįžti jai  į pagalbą. Šiam sumanymui pasipriešino
-    brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes
-    jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo
-    ir, drąsiai užgriuvę jų priekinius būrius, bematant privertė bėgti.
+  citata_rodoma: "Apie tai sužinoję, Kulmo pilies broliai pasekė\njuos su 400 vyrų, ir, kai pusė netikėlių kariuomenės buvo perėjusi minėtąją pelkę, brolis\nDitrichas, buvęs maršalas, pasiūlė užpulti likusiąją jų dalį, tikindamas, kad ji būsianti\nišžudyta anksčiau, nei kiti suskubs grįžti jai  į pagalbą. Šiam sumanymui pasipriešino\nbrolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes\njiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo\nir, drąsiai užgriuvę jų priekinius būrius, bematant privertė bėgti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59905
+    - t-005
+
 - id: c-60540
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -300,21 +272,15 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     jis, prisibijodamas kunigaikščio klastos, kuri nelyginant vylinga lapė dažnai prigauna
     sumanų medžiotoją, nedrįso persekioti bėgančiųjų, bet per visą dieną išlaikė savo
     kariuomenę sutelktą, užtaisydamas pilies sienoje išlaužas, padarytas puolant.
-  citata_rodoma: |
-    Jį
-    pasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu
-    dievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo
-    į kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;
-    be kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių. Sumuštas
-    kunigaikštis su būreliu kitų vyrų taip slaptai sugrįžo pas savo karius, paliktus siausti pilies,
-    kad apsuptieji nė negalėjo suprasti, kuo baigėsi mūšis.
+  citata_rodoma: "Jį\npasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu\ndievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo\nį kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;\nbe kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių. Sumuštas\nkunigaikštis su būreliu kitų vyrų taip slaptai sugrįžo pas savo karius, paliktus siausti pilies,\nkad apsuptieji nė negalėjo suprasti, kuo baigėsi mūšis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59907
+    - t-004
+
 - id: c-60541
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -333,18 +299,15 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     pasiuntė brolį Ditrichą iš Bernheimo, o į pagalbininkus jam paskyrė brolį Konradą iš
     Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos
     ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir daugybe žirgų.
-  citata_rodoma: |
-    Be to, maršalu
-    pasiuntė brolį Ditrichą iš Bernheimo, o  į pagalbininkus jam paskyrė brolį Konradą iš
-    Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos
-    ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir daugybe žirgų.
+  citata_rodoma: "Be to, maršalu\npasiuntė brolį Ditrichą iš Bernheimo, o  į pagalbininkus jam paskyrė brolį Konradą iš\nTuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos\nir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir daugybe žirgų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59908
+    - t-001
+
 - id: c-167438
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -362,7 +325,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59906
+    - t-003
+
 - id: c-167439
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -379,20 +343,14 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     dievas yra didžiai ant jo užsirūstinęs, ir neabejodamas, jog dieviškosios globos skydas
     jo nebedengsiąs, be galo išsigando ir taip ištižo, kad nei jis pats, nei dauguma karių
     nedrįso bent šiek tiek palaukti nedidelės kariuomenės, o gėdingai pasileido bėgti.
-  citata_rodoma: |
-    Galop jo nedorybė užrūstino
-    dievą, kai, pasiėmęs didesnę savo kariuomenės dalį, o kitą palikęs kamuoti apsiaustimi
-    pilį, nakties metu slaptai perėjo ledu Vyslą ir daugelyje vietų apiplėšė Kulmo žemę. Jį
-    pasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu
-    dievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo
-    į kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;
-    be kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių.
+  citata_rodoma: "Galop jo nedorybė užrūstino\ndievą, kai, pasiėmęs didesnę savo kariuomenės dalį, o kitą palikęs kamuoti apsiaustimi\npilį, nakties metu slaptai perėjo ledu Vyslą ir daugelyje vietų apiplėšė Kulmo žemę. Jį\npasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu\ndievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo\nį kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;\nbe kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Paskyrė Ditrichas iš Bernheimo: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]

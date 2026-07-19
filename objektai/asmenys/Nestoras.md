@@ -38,9 +38,8 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
 
 <a id="claim-t-190190"></a>
 - t-001
-  global_id: t-190190
   teiginys: "Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš“, bet jį esą reikia skaityti kaip „Kurs“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,7 +58,6 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
 
 <a id="claim-t-190931"></a>
 - t-002
-  global_id: t-190931
   teiginys: "Teodoras Narbutas rašo, kad Nestoras perėmė pasakojimą apie Kijų, Ščeką, Choryvą ir senovės Kijevą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
 
 <a id="claim-t-190932"></a>
 - t-003
-  global_id: t-190932
   teiginys: "Teodoras Narbutas Nestoro pateiktomis žiniomis grindė teiginį, kad skandinavams priklausė daug kraštų ir tautų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -101,7 +98,6 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
 
 <a id="claim-t-190933"></a>
 - t-004
-  global_id: t-190933
   teiginys: "Teodoro Narbuto teigimu, Nestoras apie 860 m. pirmasis iš žinomų originalių istorikų paminėjo Lietuvą ir išvardijo rusų variagams priklausiusias gentis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -124,8 +120,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     - c-173815
 
 <a id="claim-t-190936"></a>
-- t-005
-  global_id: t-190936
+- t-007
   teiginys: "Teodoras Narbutas rašo, kad Nestoras išsaugojo nepilną krivičių gyvenimo paveikslą: jie degino mirusiuosius ir pelenus rinko į urnas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -145,8 +140,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     - c-173818
 
 <a id="claim-t-190937"></a>
-- t-006
-  global_id: t-190937
+- t-008
   teiginys: "Teodoro Narbuto perteikimu, Nestoras pasakojo, kad 859 m. variagai paskyrė kailių duoklę ir krivičiams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -169,8 +163,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     - c-173819
 
 <a id="claim-t-190938"></a>
-- t-008
-  global_id: t-190938
+- t-009
   teiginys: "Teodoro Narbuto vertinimu, Nestoras, vadinamas rusų istorijos tėvu, rado mažai medžiagos ir užrašė tik sutrumpintas senų padavimų liekanas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -188,10 +181,9 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173820
-    - c-008
+
 <a id="claim-t-192598"></a>
-- t-009
-  global_id: t-192598
+- t-010
   teiginys: "Teodoro Narbuto teigimu, Nestoras IX amžiuje žinojo šį kraštą ir jo gyventojus priskirdavo prie rusų variagų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -211,8 +203,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     - c-175369
 
 <a id="claim-t-197780"></a>
-- t-007
-  global_id: t-197780
+- t-011
   teiginys: "Tačiau jis prieštarauja sau ir savo tiksliai išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai riojoje Dnepro pakrantėje, į rytus nuo jo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -224,8 +215,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     - c-179337
 
 <a id="claim-t-197781"></a>
-- t-011
-  global_id: t-197781
+- t-012
   teiginys: "Nestoras turėjo būti X amžiuje parašyta kopija5."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -237,8 +227,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     - c-175369
 
 <a id="claim-t-197782"></a>
-- t-010
-  global_id: t-197782
+- t-013
   teiginys: "Be to, reikia pridurti nors ir nepilną, tačiau Nestoro išsaugotą jų gyvenimo paveikslą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -271,8 +260,6 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190938
 - c-009
   santrauka: 'Teodoro Narbuto teigimu, Nestoras IX amžiuje žinojo šį kraštą ir jo gyventojus priskirdavo prie rusų variagų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -290,6 +277,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-173073
@@ -304,19 +292,15 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     Komovės šventykloje.
     Prūsijos kronikininkai spėja, kad tai buvo sudievintas Pru-
     lenis, taip pat sudievinto Vaidevučio brolis, vadintas Viršai­
-  citata_rodoma: |
-    Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­
-    mę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-
-    ronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va­
-    dina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali­
-    nis pavadinimas.
+  citata_rodoma: "Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­\nmę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-\nronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va­\ndina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali­\nnis pavadinimas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190190
+    - t-001
+
 - id: c-173813
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -336,7 +320,8 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190931
+    - t-002
+
 - id: c-173814
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -356,7 +341,8 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190932
+    - t-003
+
 - id: c-173815
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -379,7 +365,8 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190933
+    - t-004
+
 - id: c-173818
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -401,8 +388,9 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190936
-    - t-197782
+    - t-007
+    - t-013
+
 - id: c-173819
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -425,7 +413,8 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190937
+    - t-008
+
 - id: c-173820
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -444,25 +433,15 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     užrašyti padavimus. Pats Nestoras, rusų istorijos tėvas,
     jau aptiko nedaug medžiagos savo aprašymams ir pajėgė
     užrašyti tik senų padavimų sutrumpintas liekanas.
-  citata_rodoma: |
-    Iš tikrųjų sla­
-    vai, išsibarstę po didžiulius Europos plotus, nors ir yra
-    broliai pagal kalbą ir papročius, be to, mėgsta palaimin­
-    tos praeities bendroje protėvių žemėje prisiminimus, ne­
-    apdairiai prarado savo protėvių istoriją, prabylančią iš
-    religinių politinių padavimų, kanklininkų giesmių ir ty­
-    lių pasakojimų susibūrus šeimai. Priėmus krikščionybę,
-    pražuvo senovės paminklai pirma, negu buvo susivokta
-    užrašyti padavimus. Pats Nestoras, rusų istorijos tėvas,
-    jau aptiko nedaug medžiagos savo aprašymams ir pajėgė
-    užrašyti tik senų padavimų sutrumpintas liekanas.
+  citata_rodoma: "Iš tikrųjų sla­\nvai, išsibarstę po didžiulius Europos plotus, nors ir yra\nbroliai pagal kalbą ir papročius, be to, mėgsta palaimin­\ntos praeities bendroje protėvių žemėje prisiminimus, ne­\napdairiai prarado savo protėvių istoriją, prabylančią iš\nreliginių politinių padavimų, kanklininkų giesmių ir ty­\nlių pasakojimų susibūrus šeimai. Priėmus krikščionybę,\npražuvo senovės paminklai pirma, negu buvo susivokta\nužrašyti padavimus. Pats Nestoras, rusų istorijos tėvas,\njau aptiko nedaug medžiagos savo aprašymams ir pajėgė\nužrašyti tik senų padavimų sutrumpintas liekanas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190938
+    - t-009
+
 - id: c-175369
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -477,22 +456,16 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     čių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra
     Nerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­
     namoje Bruzes.
-  citata_rodoma: |
-    Buvo rasta geografijos ištrauka, laikoma
-    labai sena ir saugoma Milano bibliotekoje; ji turėjo būti
-    X amžiuje parašyta kopija5. Joje išvardijamos Siaurės
-    Europos tautos ir jų gyvenamosios vietos. Ten tarp gen­
-    čių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra
-    Nerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­
-    namoje Bruzes.
+  citata_rodoma: "Buvo rasta geografijos ištrauka, laikoma \nlabai sena ir saugoma Milano bibliotekoje; ji turėjo būti \nX amžiuje parašyta kopija5. Joje išvardijamos Siaurės \nEuropos tautos ir jų gyvenamosios vietos. Ten tarp gen­\nčių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra \nNerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­\nnamoje Bruzes."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192598
-    - t-197781
+    - t-010
+    - t-012
+
 - id: c-179337
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -515,4 +488,4 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197780
+    - t-011

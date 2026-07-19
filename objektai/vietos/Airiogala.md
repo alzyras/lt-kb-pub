@@ -37,8 +37,7 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
 ## Teiginiai
 
 <a id="claim-t-36139"></a>
-- t-001
-  global_id: t-36139
+- t-003
   teiginys: "Vytautas Žemaitijoje pastatė bažnyčią Airiogaloje kartu su bažnyčiomis Betygaloje, Kelmėje, Kražiuose ir kitose vietose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
     - c-38448
 
 <a id="claim-t-36140"></a>
-- t-002
-  global_id: t-36140
+- t-001
   teiginys: "1416 m. Vytautas pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių Airiogaloje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
     - c-38449
 
 <a id="claim-t-36141"></a>
-- t-003
-  global_id: t-36141
+- t-002
   teiginys: "Žemaičių sukilimas, prasidėjęs Raseinių apskrityje, atsiliepė Airiogaloje, Kražiuose, Medininkuose ir kitose Žemaitijos vietose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,19 +101,15 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
     žiuose, pasiekė net Medininkus, kur gyveno vyskupas, ir kitas
     Žemaičių vietas. Daugiausia sukilėliai degino dvarus ir žudė
     jų savininkus; buvo užpuolę Klaipėdą ir sudegino Liepoją.
-  citata_rodoma: |
-    Sukilimas prasidėjo Raseinių apskrityje, kur
-    buvo sudegintas Sudeikių dvaras, atsiliepė Airiogaloje, Kra­
-    žiuose, pasiekė net Medininkus, kur gyveno vyskupas, ir kitas
-    Žemaičių vietas. Daugiausia sukilėliai degino dvarus ir žudė
-    jų savininkus; buvo užpuolę Klaipėdą ir sudegino Liepoją.
+  citata_rodoma: "Sukilimas prasidėjo Raseinių apskrityje, kur\nbuvo sudegintas Sudeikių dvaras, atsiliepė Airiogaloje, Kra­\nžiuose, pasiekė net Medininkus, kur gyveno vyskupas, ir kitas\nŽemaičių vietas. Daugiausia sukilėliai degino dvarus ir žudė\njų savininkus; buvo užpuolę Klaipėdą ir sudegino Liepoją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36141
+    - t-002
+
 - id: c-38448
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -134,23 +127,15 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
     varniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto
     statytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,
     esančius toliau nuo Lietuvos.
-  citata_rodoma: |
-    Brastoje (pirmos
-    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
-    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
-    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
-    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
-    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
-    varniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto
-    statytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,
-    esančius toliau nuo Lietuvos.
+  citata_rodoma: "Brastoje (pirmos\nžmonos Marijos Praksėdos atminimui), Volkoviske, Visoko\nLitevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,\nPinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­\nniuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,\nKražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­\nvarniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto\nstatytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,\nesančius toliau nuo Lietuvos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36139
+    - t-003
+
 - id: c-38449
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -164,16 +149,11 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
     žiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­
     kimo pasiuntiniai—Lvovo vysk. Jonas ir Vilniaus vysk. Petras
     — buvo Vytauto sutikti ir su dideliu didikų būriu nulydėti į Že-
-  citata_rodoma: |
-    Kaip jau matėme, 1416 metais Vytautas
-    Varniuose pastatė katedrą ir aštuonias parapijines bažnyčias:
-    Viduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­
-    žiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­
-    kimo pasiuntiniai—Lvovo vysk.
+  citata_rodoma: "Kaip jau matėme, 1416 metais Vytautas\nVarniuose pastatė katedrą ir aštuonias parapijines bažnyčias:\nViduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­\nžiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­\nkimo pasiuntiniai—Lvovo vysk."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36140
+    - t-001

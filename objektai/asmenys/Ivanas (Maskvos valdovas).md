@@ -32,7 +32,6 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
 
 <a id="claim-t-185944"></a>
 - t-001
-  global_id: t-185944
   teiginys: "Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų nuskriausti jo globon paimti asmenys ar jų tėvonijos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -51,8 +50,7 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     - c-169305
 
 <a id="claim-t-185947"></a>
-- t-002
-  global_id: t-185947
+- t-004
   teiginys: "Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,8 +69,7 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     - c-169308
 
 <a id="claim-t-185948"></a>
-- t-003
-  global_id: t-185948
+- t-005
   teiginys: "Karalius žadėjo atiduoti Andrejų tik tada, jei Ivanas grąžintų kunigaikščius su jų šeimomis ir tėvonijomis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -91,10 +88,9 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     - c-169309
 
 <a id="claim-t-193391"></a>
-- t-004
-  global_id: t-193391
+- t-006
   teiginys: "Ivano maskvėnų atstovus Lietuvoje sutiko Mikalojus Kiška, o derybas vedė Mikalojus Radvila ir kiti Lietuvos pareigūnai."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -102,12 +98,10 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
-    - c-176115
     - c-169309
 
 <a id="claim-t-196477"></a>
-- t-005
-  global_id: t-196477
+- t-007
   teiginys: "Ivano maskvėnų raiteliai neatlaikė antpuolio ir mūšiui prasidėjus pasitraukė iš atviro lauko į stovyklą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -153,7 +147,8 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185944
+    - t-001
+
 - id: c-169306
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -171,7 +166,8 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196477
+    - t-007
+
 - id: c-169308
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -192,7 +188,8 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185947
+    - t-004
+
 - id: c-169309
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -214,36 +211,16 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     siškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,
     Jezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį
     su visais palydovais.
-  citata_rodoma: |
-    Karalius
-    taip paskirstė senatorių
-    pareigas, kad vieni turėjo
-    pasiuntinius sutikti, priimti ir
-    T a ria m a si d ė l ta ik o s,
-    dosniai pavaišinti, o kiti —
-    b e t su sip y k sta m o
-    kalbėtis su jais apie valstybės
-    reikalus. Sutiko ir priėmė
-    maskvėnus pataurininkis Mikalojus Kiška, stalininkas
-    Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir
-    Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To-
-    činskis ir Mikalojus Konča, o vedė derybas tokie orūs
-    vyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų
-    kaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis
-    Tiškevičius, maršalai Eustachijus Valavičius ir Jonas
-    Simkovičius, iždininkas Mikalojus Naruševičius, Lietu­
-    vos raštininkas Mykolas Garaburda. Kai prieita prie
-    pagrindinio derybų klausimo, maskvėnai atkakliausiai
-    pareikalavo amžinam Maskvos valdymui perduoti tai,
-    ką didysis kunigaikštis esąs užėmęs.
+  citata_rodoma: "Karalius \ntaip paskirstė senatorių \npareigas, kad vieni turėjo\npasiuntinius sutikti, priimti ir \nT a ria m a si d ė l ta ik o s, \ndosniai pavaišinti, o kiti —\nb e t su sip y k sta m o \nkalbėtis su jais apie valstybės\nreikalus. Sutiko ir priėmė \nmaskvėnus pataurininkis Mikalojus Kiška, stalininkas \nMikalojus Dorogostaiskis, maršalai Jonas Valavičius ir \nJonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To- \nčinskis ir Mikalojus Konča, o vedė derybas tokie orūs \nvyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų \nkaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis \nTiškevičius, maršalai Eustachijus Valavičius ir Jonas \nSimkovičius, iždininkas Mikalojus Naruševičius, Lietu­\nvos raštininkas Mykolas Garaburda. Kai prieita prie \npagrindinio derybų klausimo, maskvėnai atkakliausiai \npareikalavo amžinam Maskvos valdymui perduoti tai, \nką didysis kunigaikštis esąs užėmęs."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185948
-    - t-193391
+    - t-005
+    - t-006
+
 - id: c-176115
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -268,27 +245,9 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     rau k ė į žygį S tanislovas Pacas, lauko etm onas; su len ­
     gvaisiais V itebsko žem ės raiteliais jis n u siau b ė ap lin ­
     kinius m ask v ėn ų kaim us.
-  citata_rodoma: |
-    Sutiko ir priėmė
-    maskvėnus pataurininkis Mikalojus Kiška, stalininkas
-    Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir
-    Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To-
-    činskis ir Mikalojus Konča, o vedė derybas tokie orūs
-    vyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų
-    kaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis
-    Tiškevičius, maršalai Eustachijus Valavičius ir Jonas
-    Simkovičius, iždininkas Mikalojus Naruševičius, Lietu­
-    vos raštininkas Mykolas Garaburda. Kai prieita prie
-    pagrindinio derybų klausimo, maskvėnai atkakliausiai
-    pareikalavo amžinam Maskvos valdymui perduoti tai,
-    ką didysis kunigaikštis esąs užėmęs. Karalius turįs vi­
-    siškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,
-    Jezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį
-    su visais palydovais.
+  citata_rodoma: "Sutiko ir priėmė\nmaskvėnus pataurininkis Mikalojus Kiška, stalininkas\nMikalojus Dorogostaiskis, maršalai Jonas Valavičius ir\nJonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To-\nčinskis ir Mikalojus Konča, o vedė derybas tokie orūs\nvyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų\nkaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis\nTiškevičius, maršalai Eustachijus Valavičius ir Jonas\nSimkovičius, iždininkas Mikalojus Naruševičius, Lietu­\nvos raštininkas Mykolas Garaburda. Kai prieita prie\npagrindinio derybų klausimo, maskvėnai atkakliausiai\npareikalavo amžinam Maskvos valdymui perduoti tai,\nką didysis kunigaikštis esąs užėmęs. Karalius turįs vi­\nsiškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,\nJezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį\nsu visais palydovais."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193391

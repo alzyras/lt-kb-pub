@@ -32,7 +32,6 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
 
 <a id="claim-t-87616"></a>
 - t-001
-  global_id: t-87616
   teiginys: "Aleksandras Jurgėvičius 1501 metais Gardine minėtas kaip Vilniaus kaštelionas ir Gardino seniūnas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,22 +65,11 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
     Glinsko kunigaikščiui ir mūsų rūmų maršalkai Mykolui, mū­
     sų virtuvininkui Petrui Aleknavičiui ir daugeliui kitų, pasi­
     tikėjimo vertų.
-  citata_rodoma: |
-    Baltramiejaus šventės, tūkstan­
-    tis penki šimtai pirmaisiais Viešpaties metais. Ten pat daly­
-    vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­
-    siems vyskupui Albertui, Vilniaus kaštelionui ir Gardino
-    seniūnui Aleksandrui Jurgėvičiui, Trakų vaivadai ir LDK
-    didžiajam maršalkai Jonui iš Zabrežjės, LDK pataurininkiui
-    ir Bełsko seniūnui Mikalojui Mikolajevičiui, mūsų raikyto-
-    jui ir Slonimo tenuto laikytojui Jonušui Aleksandravičiui,
-    Glinsko kunigaikščiui ir mūsų rūmų maršalkai Mykolui, mū­
-    sų virtuvininkui Petrui Aleknavičiui ir daugeliui kitų, pasi­
-    tikėjimo vertų.
+  citata_rodoma: "Baltramiejaus šventės, tūkstan­\ntis penki šimtai pirmaisiais Viešpaties metais. Ten pat daly­\nvaujant didžiai gerbiamiems, didingiesiems ir prakilnie­\nsiems vyskupui Albertui, Vilniaus kaštelionui ir Gardino \nseniūnui Aleksandrui Jurgėvičiui, Trakų vaivadai ir LDK \ndidžiajam maršalkai Jonui iš Zabrežjės, LDK pataurininkiui \nir Bełsko seniūnui Mikalojui Mikolajevičiui, mūsų raikyto- \njui ir Slonimo tenuto laikytojui Jonušui Aleksandravičiui, \nGlinsko kunigaikščiui ir mūsų rūmų maršalkai Mykolui, mū­\nsų virtuvininkui Petrui Aleknavičiui ir daugeliui kitų, pasi­\ntikėjimo vertų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87616
+    - t-001

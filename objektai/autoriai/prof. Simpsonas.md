@@ -38,7 +38,6 @@ Smetona), kurios savo konferencijose, tarpininkaujant škotui prof. Simpsonui, i
 
 <a id="claim-t-01171"></a>
 - t-001
-  global_id: t-01171
   teiginys: "Škotas prof. Simpsonas tarpininkavo komisijų konferencijose, kurios išvedė sieną nedaug nutoldamos nuo buvusios gubernijos sienos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,15 +73,11 @@ Smetona), kurios savo konferencijose, tarpininkaujant škotui prof. Simpsonui, i
     Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos
     pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno
     gubernijos kaimai.
-  citata_rodoma: |
-    (lietuvių komisijai pirmininkavo pirmasis ir dabartinis prezi-
-    dentas A. Smetona), kurios savo konferencijose, tarpininkaujant
-    škotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo
-    buvusios gubernijos sienos.
+  citata_rodoma: "(lietuvių komisijai pirmininkavo pirmasis ir dabartinis prezi-\ndentas A. Smetona), kurios savo konferencijose, tarpininkaujant\nškotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo\nbuvusios gubernijos sienos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01171
+    - t-001

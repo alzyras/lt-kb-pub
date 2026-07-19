@@ -67,8 +67,7 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 ## Teiginiai
 
 <a id="claim-t-66527"></a>
-- t-001
-  global_id: t-66527
+- t-013
   teiginys: "Durbės mūšyje 1260 m. liepos 13 d. žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 brolių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -88,8 +87,7 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
     - c-66740
 
 <a id="claim-t-66528"></a>
-- t-002
-  global_id: t-66528
+- t-011
   teiginys: "Prieš Durbės mūšį kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -106,8 +104,7 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
     - c-66742
 
 <a id="claim-t-66529"></a>
-- t-003
-  global_id: t-66529
+- t-010
   teiginys: "1260 m. Livonijos ir Prūsijos broliai su stipriomis kariuomenėmis susirinko nugabenti maisto Švento Jurgio pilies broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -126,8 +123,7 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
     - c-66739
 
 <a id="claim-t-66530"></a>
-- t-004
-  global_id: t-66530
+- t-012
   teiginys: "Durbės mūšyje lietuviai puolė krikščionis iš priekio, o kuršiai juos užgriuvo iš užpakalio."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -182,7 +178,8 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66529
+    - t-010
+
 - id: c-66740
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -218,7 +215,8 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66527
+    - t-013
+
 - id: c-66741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -242,7 +240,8 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66530
+    - t-012
+
 - id: c-66742
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -263,4 +262,4 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66528
+    - t-011

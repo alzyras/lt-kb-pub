@@ -58,8 +58,7 @@ Sovietmečio kasdienybėje deficitas reiškė apytuštes parduotuves, maisto ir 
 ## Teiginiai
 
 <a id="claim-t-20819"></a>
-- t-001
-  global_id: t-20819
+- t-003
   teiginys: "Sovietmečiu parduotuvės buvo apytuštės, trūko maisto produktų, o žmonės ilgose eilėse laukdavo talonų vartojimo prekėms įsigyti."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::customs"
@@ -94,12 +93,11 @@ Nenurodyta
     ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, tele-
     vizorius, be to, katastrofiškai trūko butų, medicinos reikmenų, vaistų – fak-
     tiškai viskas buvo deficitas.
-  citata_rodoma: |
-    ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,
+  citata_rodoma: "ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20819
+    - t-003

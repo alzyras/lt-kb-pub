@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-35867"></a>
 - t-001
-  global_id: t-35867
   teiginys: "1263 m. Mindaugas žuvo dėl giminės nesantaikos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,14 +81,11 @@ Nenurodyta
     koji lietuvių partija. Dėl tos giminės nesantaikos 1263 met. ir
     padėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas
     nežuvo.
-  citata_rodoma: |
-    Dėl tos giminės nesantaikos 1263 met. ir
-    padėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas
-    nežuvo.
+  citata_rodoma: "Dėl tos giminės nesantaikos 1263 met. ir\npadėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas\nnežuvo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35867
+    - t-001

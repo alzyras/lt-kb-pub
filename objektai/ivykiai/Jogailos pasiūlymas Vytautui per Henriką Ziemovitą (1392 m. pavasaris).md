@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-31419"></a>
 - t-001
-  global_id: t-31419
   teiginys: "Ieškodamas taikos su Vytautu, Jogaila veikė drauge su Skirgaila, kuris buvo didelis Kęstutaičio priešas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,15 +83,11 @@ Nenurodyta
     veikė drauge su didžiuoju Kęstutaičio priešu — Skirgaila^21.
     Vytautni buvo naudingiau tapti Karūnos ir pusbrolio, o ne
     ordino vasalu.
-  citata_rodoma: |
-    Ieškodamas taikos su sau pavojingu Vytautu, karalius
-    veikė drauge su didžiuoju Kęstutaičio priešu — Skirgaila^21.
-    Vytautni buvo naudingiau tapti Karūnos ir pusbrolio, o ne
-    ordino vasalu.
+  citata_rodoma: "Ieškodamas taikos su sau pavojingu Vytautu, karalius\nveikė drauge su didžiuoju Kęstutaičio priešu — Skirgaila^21.\nVytautni buvo naudingiau tapti Karūnos ir pusbrolio, o ne\nordino vasalu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31419
+    - t-001

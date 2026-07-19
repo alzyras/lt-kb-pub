@@ -39,7 +39,6 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
 
 <a id="claim-t-74068"></a>
 - t-001
-  global_id: t-74068
   teiginys: "Alšėnų kunigaikščiai, turėję tėvonijų valstybės branduolyje ir nepriklausę Gediminaičių dinastijai, priėmė stačiatikybę."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
 
 <a id="claim-t-74069"></a>
 - t-002
-  global_id: t-74069
   teiginys: "Alšėnų kunigaikščiai priėmė stačiatikybę, nors turėjo tėvonijų valstybės branduolyje ir nebuvo kilę iš Gediminaičių dinastijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,21 +68,6 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-72148
-
-<a id="claim-t-187703"></a>
-- t-003
-  global_id: t-187703
-  teiginys: 'Alšėnų kunigaikščio Jono Algimantaičio sūnus Andrius Algimantaitis po Skirgailos mirties buvo Vytauto vietininkas Kijeve.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Alšėnų kunigaikščių giminės narį ir jo pareigas Kijeve. Nepridėta mirties ar pirmojo paminėjimo informacija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Alšėnai; mentioned_place: Kijevas; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
-  temporaliniai_duomenys: 'įvykio data: 1401 m.; įvykio data: 1433 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Alšėnų kunigaikščių giminės narį ir jo pareigas Kijeve. Nepridėta mirties ar pirmojo paminėjimo informacija.'
-  pagrindžia:
-    - c-003
 - susijęs iš [[objektai/grupes/Sanguškos.md#claim-t-183181|Sanguškos]]: Sanguškos kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
 - susijęs iš [[objektai/grupes/Sanguškos.md#claim-t-20002|Sanguškos]]: Sanguškos kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
 - susijęs iš [[objektai/grupes/Sluckiai.md#claim-t-183182|Sluckiai]]: Sluckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
@@ -106,11 +89,9 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
     tauto broli Žygimantą KąstulaitĮ.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187703
+  statusas: verified
 ## Citatos
 
 - id: c-22329
@@ -126,18 +107,15 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
     stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
     gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
     Alšėnų kunigaikščiai.
-  citata_rodoma: |
-    Be to,
-    stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
-    gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
-    Alšėnų kunigaikščiai.
+  citata_rodoma: "Be to,\nstačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-\ngaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,\nAlšėnų kunigaikščiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74068
+    - t-001
+
 - id: c-72148
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -157,4 +135,4 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74069
+    - t-002

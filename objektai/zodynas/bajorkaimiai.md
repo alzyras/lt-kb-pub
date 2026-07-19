@@ -31,7 +31,6 @@ Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicos
 
 <a id="claim-t-28571"></a>
 - t-001
-  global_id: t-28571
   teiginys: "Essenas normanų įtakos pėdsakų siūlė ieškoti Lietuvos bajorkaimiuose, bet tam reikėjo gilesnio moksliško pagrindimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28571
+    - t-001

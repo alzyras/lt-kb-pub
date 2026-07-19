@@ -31,7 +31,6 @@ Tačiau ir tos sutar­ ties, kaip ir visų kitų, galia parėjo ne nuo pergament
 
 <a id="claim-t-35999"></a>
 - t-001
-  global_id: t-35999
   teiginys: "Ostrovos akto galia priklausė ne nuo pergamento, o nuo faktinių jėgų santykių ir diplomatinių sugebėjimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,19 +64,11 @@ Tačiau ir tos sutar­ ties, kaip ir visų kitų, galia parėjo ne nuo pergament
     negu Ostrovos aktas pripažino; jis ne kartą ir pačiai Lenkijai
     pagrūmodavo, kas turėjo reikšti jo galybę, turinčią savarankiš­
     ką pamatą.
-  citata_rodoma: |
-    Tačiau ir tos sutar­
-    ties, kaip ir visų kitų, galia parėjo ne nuo pergamento, kuriame
-    buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavi­
-    mo ir nuo diplomatinių sugebėjimų^1 ). Vėlybesni įvykiai parodė,
-    kad Vytautas naudojasi daug didesnėmis laisvėmis ir teisėmis,
-    negu Ostrovos aktas pripažino; jis ne kartą ir pačiai Lenkijai
-    pagrūmodavo, kas turėjo reikšti jo galybę, turinčią savarankiš­
-    ką pamatą.
+  citata_rodoma: "Tačiau ir tos sutar­\nties, kaip ir visų kitų, galia parėjo ne nuo pergamento, kuriame\nbuvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavi­\nmo ir nuo diplomatinių sugebėjimų^1 ). Vėlybesni įvykiai parodė,\nkad Vytautas naudojasi daug didesnėmis laisvėmis ir teisėmis,\nnegu Ostrovos aktas pripažino; jis ne kartą ir pačiai Lenkijai\npagrūmodavo, kas turėjo reikšti jo galybę, turinčią savarankiš­\nką pamatą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35999
+    - t-001

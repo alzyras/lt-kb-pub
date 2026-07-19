@@ -32,13 +32,45 @@ media_all_json: |-
 
 Dusburgietis teigia, kad stepinš P.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'P. Stepinšo „Durbės kauja“ išleista Rygoje 1967 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Stepinš P. Durbės kauja.— Rīga, 1967.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-61930
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    — Балто-
+    славянские этноязыковые отношения в историческом и ареальном плане: Тезисы
+    докладов, М, 1983 с. 69.
+    Валиконите И. Социально-экономическое и правовое положение женщин в ВКЛ
+    (конец XV — первая пол.
+  citata_rodoma: "Stepinš P. Durbės kauja.— Rīga, 1967."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-61298"></a>
 - t-001
-  global_id: t-61298
   teiginys: "P. Stepinšo „Durbės kauja“ išleista Rygoje 1967 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Durbė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,38 +85,3 @@ Dusburgietis teigia, kad stepinš P.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61930
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'P. Stepinšo „Durbės kauja“ išleista Rygoje 1967 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Stepinš P. Durbės kauja.— Rīga, 1967.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61298
-## Citatos
-
-- id: c-61930
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    — Балто-
-    славянские этноязыковые отношения в историческом и ареальном плане: Тезисы
-    докладов, М, 1983 с. 69.
-    Валиконите И. Социально-экономическое и правовое положение женщин в ВКЛ
-    (конец XV — первая пол.
-  citata_rodoma: |
-    Stepinš P. Durbės kauja.— Rīga, 1967.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-61298

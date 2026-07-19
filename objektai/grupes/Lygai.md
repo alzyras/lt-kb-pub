@@ -30,7 +30,6 @@ Teodoras Narbutas lygus siejo su senovės Baltijos jūros pietryčių pakranči�
 
 <a id="claim-t-192955"></a>
 - t-001
-  global_id: t-192955
   teiginys: "Teodoras Narbutas lygus siejo su senovės Baltijos jūros pietryčių pakrančių gyventojais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Teodoras Narbutas lygus siejo su senovės Baltijos jūros pietryčių pakranči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192955
+    - t-001

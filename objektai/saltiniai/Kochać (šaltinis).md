@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-200752"></a>
 - t-001
-  global_id: t-200752
   teiginys: "„Kochać“ yra Krystynos Dlugosz-Kurczabowos tekstas, 2008 m. paskelbtas leidinyje „Wielki słownik etymologiczno-historyczny języka polskiego“."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,5 @@ media_all_json: |-
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200752
+    - t-001

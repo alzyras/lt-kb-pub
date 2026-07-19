@@ -36,7 +36,6 @@ suvažiavimas Gnievkove, kur dalyvavo ir Martyno V legatas, Milano arkiv.
 
 <a id="claim-t-32177"></a>
 - t-001
-  global_id: t-32177
   teiginys: "1419 m. gegužę Gnievkove vykęs suvažiavimas, kuriame dalyvavo Martyno V legatas Baltramiejus Capri, baigėsi nesėkmingai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,14 +63,11 @@ suvažiavimas Gnievkove, kur dalyvavo ir Martyno V legatas, Milano arkiv.
     tarpininkavimą. 1419 m. gegužės mėn. suvažiavimas Gnievkove,
     kur dalyvavo ir Martyno V legatas, Milano arkiv. Baltramiejus
     Capri, praėjo vėl nesėkmingai.
-  citata_rodoma: |
-    1419 m. gegužės mėn. suvažiavimas Gnievkove,
-    kur dalyvavo ir Martyno V legatas, Milano arkiv. Baltramiejus
-    Capri, praėjo vėl nesėkmingai.
+  citata_rodoma: "1419 m. gegužės mėn. suvažiavimas Gnievkove,\nkur dalyvavo ir Martyno V legatas, Milano arkiv. Baltramiejus\nCapri, praėjo vėl nesėkmingai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32177
+    - t-001

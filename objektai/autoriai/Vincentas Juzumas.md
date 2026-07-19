@@ -42,8 +42,7 @@ Vincentas Juzumas aptariamą vyskupą laikė tinkamu pareigoms ir palikusiu pavy
 ## Teiginiai
 
 <a id="claim-t-200693"></a>
-- t-001
-  global_id: t-200693
+- t-002
   teiginys: "Vincentas Juzumas aptariamą vyskupą laikė tinkamu pareigoms ir palikusiu pavyzdinio gyvenimo bei pagirtinos veiklos atminimą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,5 @@ Vincentas Juzumas aptariamą vyskupą laikė tinkamu pareigoms ir palikusiu pavy
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200693
+    - t-002

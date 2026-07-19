@@ -31,7 +31,6 @@ Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys 
 
 <a id="claim-t-17466"></a>
 - t-001
-  global_id: t-17466
   teiginys: "Bronislovo Komorovskio tėvo šaknys buvo Lietuvoje, jo dvare Rokiškio apskrityje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys 
 
 <a id="claim-t-183527"></a>
 - t-002
-  global_id: t-183527
   teiginys: "Bronislovo Komorovskio tėvo šaknys siejamos su Lietuva ir dvaru Rokiškio apskrityje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -80,17 +78,15 @@ Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys 
     ninkų, audėjų, auklių, inžinierių. Lenkijos prezidento Bronislovo Komo-
     rovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiš-
     kio apskrityje.
-  citata_rodoma: |
-    Lenkijos prezidento Bronislovo Komo-
-    rovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiš-
-    kio apskrityje.
+  citata_rodoma: "Lenkijos prezidento Bronislovo Komo-\nrovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiš-\nkio apskrityje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-17466
+    - t-001
+
 - id: c-166921
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -109,4 +105,4 @@ Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183527
+    - t-002

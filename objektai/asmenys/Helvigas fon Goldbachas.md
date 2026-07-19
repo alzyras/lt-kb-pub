@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-186208"></a>
 - t-001
-  global_id: t-186208
   teiginys: "Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186208
+    - t-001

@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-02042"></a>
 - t-001
-  global_id: t-02042
   teiginys: "Valstiečiai galėjo skųstis, jei seniūnas nesilaikė nustatytų prievolių ir reikalavo daugiau."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,17 +75,11 @@ Nenurodyta
     ar giminėms buvo gana sunku, ir dažniausiai jie nieko nelai-
     mėdavo; priešingai, kartais būdavo net jie patys apkaltinami
     maišto kėlimu ir, pakvietus kariuomenę, skaudžiai nubaudžiami.
-  citata_rodoma: |
-    Jei kartais koks seniūnas nenorė-
-    davo to laikytis, reikalaudavo daugiau, tai valstiečiai galėjo
-    skųstis. Žinoma, valstiečiams skųsti poną jo paties draugams
-    ar giminėms buvo gana sunku, ir dažniausiai jie nieko nelai-
-    mėdavo; priešingai, kartais būdavo net jie patys apkaltinami
-    maišto kėlimu ir, pakvietus kariuomenę, skaudžiai nubaudžiami.
+  citata_rodoma: "Jei kartais koks seniūnas nenorė-\ndavo to laikytis, reikalaudavo daugiau, tai valstiečiai galėjo\nskųstis. Žinoma, valstiečiams skųsti poną jo paties draugams\nar giminėms buvo gana sunku, ir dažniausiai jie nieko nelai-\nmėdavo; priešingai, kartais būdavo net jie patys apkaltinami\nmaišto kėlimu ir, pakvietus kariuomenę, skaudžiai nubaudžiami."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02042
+    - t-001

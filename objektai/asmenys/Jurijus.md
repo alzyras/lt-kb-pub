@@ -30,7 +30,6 @@ Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų 
 
 <a id="claim-t-186226"></a>
 - t-001
-  global_id: t-186226
   teiginys: "Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų rankas, o vėliau prisiekęs atgavo tėvoniją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų 
 
 <a id="claim-t-196509"></a>
 - t-002
-  global_id: t-196509
   teiginys: "Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų rankas, o prisiekęs ištikimybę Jogailai ir Lietuvos didiesiems kunigaikščiams atgavo tėvoniją."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -85,23 +83,15 @@ Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų 
     lėtojų rankas; vėliau, prisiekęs ir įsipareigojęs visada
     būti ištikimas ir klusnus Jogailai bei Lietuvos didie­
     siems kunigaikščiams, jis atgavo tėvoniją.
-  citata_rodoma: |
-    Žuvus vadui, visa kariuomenė pasileido į arti­
-    miausius miškus. Priešų palikta stovykla atiteko nu­
-    galėtojams; Sviatoslavo sūnus Jurijus po atkaklios ko­
-    vos, kurią kėlė apie save, sužeistas pakliuvo į nuga­
-    lėtojų rankas; vėliau, prisiekęs ir įsipareigojęs visada
-    būti ištikimas ir klusnus Jogailai bei Lietuvos didie­
-    siems kunigaikščiams, jis atgavo tėvoniją. Po šios per­
-    to karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir
-    nusiųstas pas Jogailą, o visa Rusia sutramdyta.
+  citata_rodoma: "Žuvus vadui, visa kariuomenė pasileido į arti­\nmiausius miškus. Priešų palikta stovykla atiteko nu­\ngalėtojams; Sviatoslavo sūnus Jurijus po atkaklios ko­\nvos, kurią kėlė apie save, sužeistas pakliuvo į nuga­\nlėtojų rankas; vėliau, prisiekęs ir įsipareigojęs visada\nbūti ištikimas ir klusnus Jogailai bei Lietuvos didie­\nsiems kunigaikščiams, jis atgavo tėvoniją. Po šios per­\nto karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir\nnusiųstas pas Jogailą, o visa Rusia sutramdyta."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186226
-    - t-196509
+    - t-001
+    - t-002
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sviatoslavas]]

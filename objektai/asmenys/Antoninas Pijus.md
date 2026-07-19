@@ -28,7 +28,6 @@ Rimvydas Laužikas nurodo, kad šv. Justinas Antoninui Pijui (138–161) rašė 
 
 <a id="claim-t-200737"></a>
 - t-001
-  global_id: t-200737
   teiginys: "Rimvydas Laužikas nurodo, kad šv. Justinas Antoninui Pijui (138–161) rašė apie Saulės dieną vykusius miestų ir kaimų gyventojų susirinkimus."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,5 @@ Rimvydas Laužikas nurodo, kad šv. Justinas Antoninui Pijui (138–161) rašė 
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200737
+    - t-001

@@ -37,7 +37,6 @@ Nuo tada prasidėjo kruvina kryžiaus žygių prie Baltijos jūros epocha, kurio
 
 <a id="claim-t-42475"></a>
 - t-001
-  global_id: t-42475
   teiginys: "Kryžiaus žygių prie Baltijos jūros epocha prasidėjo 1202 m., dabartinėje Latvijos teritorijoje įsikūrus Kalavijuočių ordinui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,17 +70,11 @@ Nuo tada prasidėjo kruvina kryžiaus žygių prie Baltijos jūros epocha, kurio
     pakrikštyti pagonis baltus bei pajungti juos naujai vokiečių valsty-
     bei. Nuo tada prasidėjo kruvina kryžiaus žygių prie Baltijos jūros
     epocha, kurios pabaigoje daugelis baltų tautų nustojo egzistuoti.
-  citata_rodoma: |
-    Tačiau šis proce-
-    sas buvo pertrauktas 1202 m., dabartinėje Latvijos teritorijoje įsi-
-    kūrus vokiečių Kalavijuočių ordinui, kuris siekė nukariauti ir jėga
-    pakrikštyti pagonis baltus bei pajungti juos naujai vokiečių valsty-
-    bei. Nuo tada prasidėjo kruvina kryžiaus žygių prie Baltijos jūros
-    epocha, kurios pabaigoje daugelis baltų tautų nustojo egzistuoti.
+  citata_rodoma: "Tačiau šis proce-\nsas buvo pertrauktas 1202 m., dabartinėje Latvijos teritorijoje įsi-\nkūrus vokiečių Kalavijuočių ordinui, kuris siekė nukariauti ir jėga\npakrikštyti pagonis baltus bei pajungti juos naujai vokiečių valsty-\nbei. Nuo tada prasidėjo kruvina kryžiaus žygių prie Baltijos jūros\nepocha, kurios pabaigoje daugelis baltų tautų nustojo egzistuoti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42475
+    - t-001

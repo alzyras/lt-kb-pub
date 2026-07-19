@@ -31,7 +31,6 @@ Padaręs sąjungą su Aleksandru Nevskiu (Didž. Naugarde)^183 , drauge su Treni
 
 <a id="claim-t-32101"></a>
 - t-001
-  global_id: t-32101
   teiginys: "Mindaugas su Treniota nesėkmingai puolė Cesio, arba Wendeno, pilį Livonijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,6 +64,7 @@ Padaręs sąjungą su Aleksandru Nevskiu (Didž. Naugarde)^183 , drauge su Treni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32101
+    - t-001
+
 ## Ryšiai
 - Puolė Cesį: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

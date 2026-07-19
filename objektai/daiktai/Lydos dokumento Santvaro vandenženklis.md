@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-194802"></a>
 - t-001
-  global_id: t-194802
   teiginys: "Apklausinėjus žydą ir kaimietį, paaiškėjo, kad dau giausia buvo plonų monetų, visos vienodo antspaudo; dviejų rūšių storosios sudarė pusę viso radinio svorio; sidabras aukš- 31 Dėl Santvaro atvaizdo buvo įvairiausių nuomonių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194802
+    - t-001

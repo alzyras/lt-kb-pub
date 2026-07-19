@@ -8,12 +8,12 @@ datos:
   - '1560 m.'
 date_start: '1554'
 date_end: '1560'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-202181"></a>
 - t-001
-  global_id: t-202181
   teiginys: "Štai 1554 m. Karaliaučiuje studijavo kaunietis Jurgis Burna, o 1560 m. Krokuvoje - taip pat kaunietis Jurgis Burnonius."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202181
+    - t-001

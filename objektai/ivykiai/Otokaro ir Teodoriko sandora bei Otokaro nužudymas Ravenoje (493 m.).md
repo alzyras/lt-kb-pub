@@ -43,9 +43,8 @@ Nenurodyta
 
 <a id="claim-t-185758"></a>
 - t-001
-  global_id: t-185758
   teiginys: "Teodorikas pasikvietė Otokarą į puotą Ravenoje, pasiuntė žudikus ir atėmė iš jo gyvybę bei sostą."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,7 +62,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo apie bendrą vertinimą; citata remia konkretesnį faktą apie nužudymą."
   pagrindžia:
     - c-169119
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodorikas pasikvietė Otokarą į puotą Ravenoje, pasiuntė žudikus ir atėmė iš jo gyvybę bei sostą.'
@@ -90,8 +89,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185758
+
 ## Citatos
 
 - id: c-169119
@@ -120,27 +118,11 @@ Nenurodyta
     pasak
     Prokopijaus, dalyvavo visuose herulų žygiuose), įsi­
     veržė su didžiule kariuomene į Italiją.
-  citata_rodoma: |
-    Sąlygos buvo priimtos,
-    tačiau neilgai tvėrė taika ir valdymo sandora: jie bu­
-    vo ne tiek bendrininkai, kiek varžovai. Mat Teodori-
-    kas, Otokarą dėl akių meiliai į puotą pasikvietęs, pa­
-    siuntė žudikus ir menėje atėmė gyvybę bei sostą; po
-    55
-
-    ## Puslapis 54
-
-    to, pasistengęs į savo pusę patraukti herulų kariuome­
-    nę, lengvai juos perkalbėjo. Tačiau didelė herulų da­
-    lis persikėlė iš Italijos į Grai-
-    493 m e ta i
-    kiją, mat sutartys leido Bi­
-    zantijos imperatoriui kvies­
-    tis tą gentį į karo sąjungininkus.
+  citata_rodoma: "Sąlygos buvo priimtos,\ntačiau neilgai tvėrė taika ir valdymo sandora: jie bu­\nvo ne tiek bendrininkai, kiek varžovai. Mat Teodori-\nkas, Otokarą dėl akių meiliai į puotą pasikvietęs, pa­\nsiuntė žudikus ir menėje atėmė gyvybę bei sostą; po\n55\n\n## Puslapis 54\n\nto, pasistengęs į savo pusę patraukti herulų kariuome­\nnę, lengvai juos perkalbėjo. Tačiau didelė herulų da­\nlis persikėlė iš Italijos į Grai-\n493 m e ta i\nkiją, mat sutartys leido Bi­\nzantijos imperatoriui kvies­\ntis tą gentį į karo sąjungininkus."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185758
+    - t-001

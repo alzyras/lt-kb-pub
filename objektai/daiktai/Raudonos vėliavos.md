@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-19584"></a>
 - t-001
-  global_id: t-19584
   teiginys: "1926 m. rudenį po komunistų mitingų chuliganai su raudonomis vėliavomis gatvėse užkabinėjo uniformuotus kariškius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,12 +93,11 @@ Nenurodyta
     opozicijoje esantis krikščionių demokratų blokas, tautininkai, karininkai
     ir juos palaikantieji (lapkritį raitoji policija brutaliai išvaikė patriotinę
     studentų demonstraciją).
-  citata_rodoma: |
-    ir juos palaikantieji (lapkritį raitoji policija brutaliai išvaikė patriotinę
+  citata_rodoma: "ir juos palaikantieji (lapkritį raitoji policija brutaliai išvaikė patriotinę"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19584
+    - t-001

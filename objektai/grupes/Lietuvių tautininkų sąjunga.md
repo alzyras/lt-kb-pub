@@ -39,8 +39,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 ## Teiginiai
 
 <a id="claim-t-44993"></a>
-- t-001
-  global_id: t-44993
+- t-003
   teiginys: "Juozas Tūbelis 1931–1938 m. pirmininkavo ir Lietuvos vyriausybei, ir Lietuvių tautininkų sąjungai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     - c-22542
 
 <a id="claim-t-44994"></a>
-- t-002
-  global_id: t-44994
+- t-001
   teiginys: "LKDP bloko balsais tautininkų lyderis Antanas Smetona buvo išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     - c-22540
 
 <a id="claim-t-44995"></a>
-- t-003
-  global_id: t-44995
+- t-005
   teiginys: "Kandidatus į Seimą siūlė apskričių tarybos, o Kaune – miesto taryba, tačiau juos kelti galėjo tik tautininkų kontroliuojamos savivaldybės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +92,6 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 
 <a id="claim-t-44996"></a>
 - t-004
-  global_id: t-44996
   teiginys: "Kandidatus į Seimą galėjo kelti tik tautininkų kontroliuojamos savivaldybės, o ne visuomeninės organizacijos ar piliečių grupės."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -111,8 +107,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     - c-22543
 
 <a id="claim-t-44997"></a>
-- t-005
-  global_id: t-44997
+- t-002
   teiginys: "Tautininkai ir krikščionys demokratai gruodžio įvykius teisino skelbdami, kad išgelbėjo Lietuvą nuo komunistų perversmo."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -143,17 +138,15 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     džio 19 dieną sušaukė III Seimo nepaprastąjį posėdį. Jame LKDP bloko
     balsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona,
     kuris prisiekė laikytis šalies konstitucijos.
-  citata_rodoma: |
-    Jame LKDP bloko
-    balsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona,
-    kuris prisiekė laikytis šalies konstitucijos.
+  citata_rodoma: "Jame LKDP bloko\nbalsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona,\nkuris prisiekė laikytis šalies konstitucijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-44994
+    - t-001
+
 - id: c-22541
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -166,17 +159,15 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-
     kratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruo-
     džio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę).
-  citata_rodoma: |
-    Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-
-    kratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruo-
-    džio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę).
+  citata_rodoma: "Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-\nkratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruo-\ndžio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-44997
+    - t-002
+
 - id: c-22542
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -193,19 +184,15 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     J. Tūbelis pasirodė visiška priešingybė ekscentriškam A. Voldemarui, jis
     ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–
     1938 m.
-  citata_rodoma: |
-    A. Smetonos ir J. Tūbelio tandemas
-    Ūkinių ir kooperatinių organizacijų kūrėjas ir vadovas
-    J. Tūbelis pasirodė visiška priešingybė ekscentriškam A. Voldemarui, jis
-    ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–
-    1938 m.
+  citata_rodoma: "A. Smetonos ir J. Tūbelio tandemas\nŪkinių ir kooperatinių organizacijų kūrėjas ir vadovas\nJ. Tūbelis pasirodė visiška priešingybė ekscentriškam A. Voldemarui, jis\nramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–\n1938 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-44993
+    - t-003
+
 - id: c-22543
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -219,17 +206,15 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet
     kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
     grupės, o tik tautininkų kontroliuojamos savivaldybės.
-  citata_rodoma: |
-    Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet
-    kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
-    grupės, o tik tautininkų kontroliuojamos savivaldybės.
+  citata_rodoma: "Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet\nkandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių\ngrupės, o tik tautininkų kontroliuojamos savivaldybės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-44996
+    - t-004
+
 - id: c-47941
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -240,15 +225,11 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
     grupės, o tik tautininkų kontroliuojamos savivaldybės. Taip opozicijos
     atstovams neleista dalyvauti Seimo rinkimuose.
-  citata_rodoma: |
-    Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet
-    kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
-    grupės, o tik tautininkų kontroliuojamos savivaldybės. Taip opozicijos
-    atstovams neleista dalyvauti Seimo rinkimuose.
+  citata_rodoma: "Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet \nkandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių \ngrupės, o tik tautininkų kontroliuojamos savivaldybės. Taip opozicijos \natstovams neleista dalyvauti Seimo rinkimuose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-44995
+    - t-005

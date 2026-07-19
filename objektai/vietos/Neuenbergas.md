@@ -30,7 +30,6 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 
 <a id="claim-t-86218"></a>
 - t-001
-  global_id: t-86218
   teiginys: "Neuenbergo gvardijonas kartu su kitais dvasininkais laiškuose popiežiui stojo ginti kryžiuočių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86218
+    - t-001

@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201276"></a>
 - t-001
-  global_id: t-201276
   teiginys: "Įžagę lietuviai žemaičiai į taip naudingą grobį Brandenburgijos atentį metą sukėlė vėl karėjus ir 1327 paskyrę sau karvedžiu Algirdą, vyriausią sūnų Ge dimino, kursai buvo jau garsus ne vien Lietuvoj, bet ir už rubežiaus savo kantrybe ir narsybe, trau kė vėl."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184626
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Įžagę lietuviai žemaičiai į taip naudingą grobį
     Brandenburgijos atentį metą sukėlė vėl karėjus ir 1327
@@ -86,4 +86,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201276
+    - t-001

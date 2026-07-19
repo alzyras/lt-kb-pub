@@ -27,35 +27,6 @@ media_all_json: |-
 
 Teodoras Narbutas Skalką vadino venedų karaliumi ir rašė, kad po Jarmeriko įsiveržimo Skalka žuvo mūšyje, o jo kraštas atiteko priešams.
 
-## Teiginiai
-
-<a id="claim-t-191465"></a>
-- t-001
-  global_id: t-191465
-  teiginys: "Teodoras Narbutas Skalką vadino venedų karaliumi ir rašė, kad po Jarmeriko įsiveržimo Skalka žuvo mūšyje, o jo kraštas atiteko priešams."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Jarmerikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skalka: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jarmerikas: mention_match, person, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalka\" parinktas kaip owner_note_path. Targetas \"Jarmerikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-174347
-    - c-001
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192473|Slavai]]: Narbutas rašė, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką ir perėmė jo kraštą.
-- susijęs iš [[objektai/grupes/Venedai.md#claim-t-192481|Venedai]]: Narbutas rašo, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalkos kraštas pateko priešams.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192473|Slavai]]: Narbutas rašė, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką ir perėmė jo kraštą.
-- susijęs iš [[objektai/grupes/Venedai.md#claim-t-192481|Venedai]]: Narbutas rašo, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalkos kraštas pateko priešams.
-- susijęs iš [[objektai/ivykiai/Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis.md#claim-t-191064|Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis]]: Narbutas pasakoja, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalka krito mūšio lauke.
-- susijęs iš [[objektai/ivykiai/Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis.md#claim-t-191064|Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis]]: Narbutas pasakoja, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalka krito mūšio lauke.
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas Skalką vadino venedų karaliumi ir rašė, kad po Jarmeriko įsiveržimo Skalka žuvo mūšyje, o jo kraštas atiteko priešams.'
@@ -72,8 +43,7 @@ Teodoras Narbutas Skalką vadino venedų karaliumi ir rašė, kad po Jarmeriko �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191465
+
 ## Citatos
 
 - id: c-174347
@@ -88,19 +58,42 @@ Teodoras Narbutas Skalką vadino venedų karaliumi ir rašė, kad po Jarmeriko �
     į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
     plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
     galo juos engdamas.
-  citata_rodoma: |
-    Pakviestas į pagal­
-    bą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti
-    už savo nelaisvę ar norėdamas turėti naudos. Jis įsiveržė
-    į slavų kraštą; venedų karalius Skalka buvo sumuštas ir
-    krito mūšio lauke, o jo kraštas pateko į priešų rankas.
-    Tačiau Jarmeriko įniršiui to nepakako.
+  citata_rodoma: "Pakviestas į pagal­\nbą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti\nuž savo nelaisvę ar norėdamas turėti naudos. Jis įsiveržė\nį slavų kraštą; venedų karalius Skalka buvo sumuštas ir\nkrito mūšio lauke, o jo kraštas pateko į priešų rankas.\nTačiau Jarmeriko įniršiui to nepakako."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191465
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-191465"></a>
+- t-001
+  teiginys: "Teodoras Narbutas Skalką vadino venedų karaliumi ir rašė, kad po Jarmeriko įsiveržimo Skalka žuvo mūšyje, o jo kraštas atiteko priešams."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Jarmerikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skalka: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jarmerikas: mention_match, person, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalka\" parinktas kaip owner_note_path. Targetas \"Jarmerikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-174347
+- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192473|Slavai]]: Narbutas rašė, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką ir perėmė jo kraštą.
+- susijęs iš [[objektai/grupes/Venedai.md#claim-t-192481|Venedai]]: Narbutas rašo, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalkos kraštas pateko priešams.
+- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192473|Slavai]]: Narbutas rašė, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką ir perėmė jo kraštą.
+- susijęs iš [[objektai/grupes/Venedai.md#claim-t-192481|Venedai]]: Narbutas rašo, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalkos kraštas pateko priešams.
+- susijęs iš [[objektai/ivykiai/Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis.md#claim-t-191064|Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis]]: Narbutas pasakoja, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalka krito mūšio lauke.
+- susijęs iš [[objektai/ivykiai/Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis.md#claim-t-191064|Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis]]: Narbutas pasakoja, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalka krito mūšio lauke.
+
 ## Ryšiai
 - Skalka buvo valdovas [[objektai/grupes/Venedai]]

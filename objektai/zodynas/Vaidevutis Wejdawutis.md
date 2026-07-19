@@ -31,7 +31,6 @@ Narbutas Vaidevučio (Wejdawutis) vardą kildino iš Wejdas ir Wujtis, aiškinda
 
 <a id="claim-t-189255"></a>
 - t-001
-  global_id: t-189255
   teiginys: "Narbutas Vaidevučio (Wejdawutis) vardą kildino iš Wejdas ir Wujtis, aiškindamas jį kaip stabų viršininko arba pirmojo jų saugotojo vardą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ Narbutas Vaidevučio (Wejdawutis) vardą kildino iš Wejdas ir Wujtis, aiškinda
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172143
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Vaidevučio (Wejdawutis) vardą kildino iš Wejdas ir Wujtis, aiškindamas jį kaip stabų viršininko arba pirmojo jų saugotojo vardą.'
@@ -66,8 +65,7 @@ Narbutas Vaidevučio (Wejdawutis) vardą kildino iš Wejdas ir Wujtis, aiškinda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189255
+
 ## Citatos
 
 - id: c-172143
@@ -86,17 +84,11 @@ Narbutas Vaidevučio (Wejdawutis) vardą kildino iš Wejdas ir Wujtis, aiškinda
     išrinkdavo naują; kitą dieną po išrinkimo pristatydavo jį žmo­
     nėms, aiškindami, kad patys dievai pasirinkę šį šventą žmogų
     iš labiausiai nusipelniusių: privalu gerbti jį ir klausyti jo.
-  citata_rodoma: |
-    10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir
-    Pruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius. Dėl Vai­
-    devučio (Wejdawutis) šiek tiek klysta kildindami jį tiesiai iš Wujtis.
-    Sis vardas susideda iš Wejdas (stabas arba veidas, atvaizdas) ir Wujtis
-    (viršininkas). Tad išeitų, kad tai stabų viršininkas, pirmasis jų saugo­
-    tojas.
+  citata_rodoma: "10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir\nPruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius. Dėl Vai­\ndevučio (Wejdawutis) šiek tiek klysta kildindami jį tiesiai iš Wujtis.\nSis vardas susideda iš Wejdas (stabas arba veidas, atvaizdas) ir Wujtis\n(viršininkas). Tad išeitų, kad tai stabų viršininkas, pirmasis jų saugo­\ntojas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189255
+    - t-001

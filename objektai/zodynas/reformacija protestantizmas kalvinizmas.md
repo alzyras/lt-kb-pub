@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-22263"></a>
 - t-001
-  global_id: t-22263
   teiginys: "Lietuvoje reformacija, palyginti su Vakarų Europa, vėlavo 22 metus ir siejama su 1539 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-24952
 
 <a id="claim-t-22264"></a>
-- t-002
-  global_id: t-22264
+- t-003
   teiginys: "Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ media_all_json: |-
     - c-24954
 
 <a id="claim-t-22265"></a>
-- t-003
-  global_id: t-22265
+- t-002
   teiginys: "Abraomas Kulvietis reformacijos idėjomis grindė programą, turėjusią lietuvių kalbą padaryti švietimo sistemos pagrindu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,15 +106,15 @@ media_all_json: |-
     tį – protestantizmą. Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų
     Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradė-
     jo liuteronas Abraomas Kulvietis.
-  citata_rodoma: |
-    tį – protestantizmą. Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų
+  citata_rodoma: "tį – protestantizmą. Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22263
+    - t-001
+
 - id: c-24953
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -133,15 +130,15 @@ media_all_json: |-
     su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
     padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės in-
     teresų lygį ir taip išugdyti lietuvių inteligentiją.
-  citata_rodoma: |
-    su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
+  citata_rodoma: "su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22265
+    - t-002
+
 - id: c-24954
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -160,12 +157,11 @@ media_all_json: |-
     protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti
     Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pa-
     čios Katalikų bažnyčios įtaką.
-  citata_rodoma: |
-    Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą
+  citata_rodoma: "Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22264
+    - t-003

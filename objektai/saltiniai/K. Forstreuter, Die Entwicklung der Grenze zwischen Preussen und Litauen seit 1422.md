@@ -39,7 +39,6 @@ Forstreuter, K.
 
 <a id="claim-t-31753"></a>
 - t-001
-  global_id: t-31753
   teiginys: "K. Forstreuterio „Die Entwicklung der Grenze zwischen Preussen und Litauen seit 1422“ 1941 m. paskelbtas AF 18 tome, 50–70 puslapiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,15 +72,11 @@ Forstreuter, K.
     — (”) _Melno taika_ , LE, t. 18, 172-175 p. — (”) _Russdorf Paul von,_ LE,
     t. 26, 170-171 p. — Krochnert, E.: _Die deutsch-russische Grenze von
     Eydtkuhnen bis Soldau.
-  citata_rodoma: |
-    — Forstreuter, K. : _Die Entwicklung der Grenze zwischen
-    Preussen und Litauen seit 1422_ , AF, t. 18, 1941, 50-70 p. (daug bibliogr.
-    ir Karaliaučiaus archyvo duomenys). — Ivinskis, Z. : _Driežų sąjunga,_
-    LE, t.
+  citata_rodoma: "— Forstreuter, K. : _Die Entwicklung der Grenze zwischen\nPreussen und Litauen seit 1422_ , AF, t. 18, 1941, 50-70 p. (daug bibliogr.\nir Karaliaučiaus archyvo duomenys). — Ivinskis, Z. : _Driežų sąjunga,_\nLE, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31753
+    - t-001

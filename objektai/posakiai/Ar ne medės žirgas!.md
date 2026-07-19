@@ -28,7 +28,6 @@ Nėra senų dienų dai nos, kurioje žirgas nebūt garbinamas, kaipogi jis buvo 
 
 <a id="claim-t-201257"></a>
 - t-001
-  global_id: t-201257
   teiginys: "Nėra senų dienų dai nos, kurioje žirgas nebūt garbinamas, kaipogi jis buvo jo sandraugų vargų ir linksmybės bei tarnu ne vien ūkė j, bet ir karėj."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Nėra senų dienų dai nos, kurioje žirgas nebūt garbinamas, kaipogi jis buvo 
 ## Citatos
 
 - id: c-184607
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nėra senų dienų dai­
     nos, kurioje žirgas nebūt garbinamas, kaipogi jis
@@ -64,4 +64,4 @@ Nėra senų dienų dai nos, kurioje žirgas nebūt garbinamas, kaipogi jis buvo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201257
+    - t-001

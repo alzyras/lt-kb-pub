@@ -32,7 +32,6 @@ Kelias suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs 
 
 <a id="claim-t-86109"></a>
 - t-001
-  global_id: t-86109
   teiginys: "Iš Vilniaus Žemutinės pilies vakarinių vartų kelias per tiltus ir keltą per Viliją vedė į Kernavę ir Ukmergės pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Kelias suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86109
+    - t-001

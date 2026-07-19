@@ -49,8 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67068"></a>
-- t-001
-  global_id: t-67068
+- t-004
   teiginys: "Miesto atstovai išėję pasitikdavo valdovą ir atverdavo jam miesto vartus."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67068
+    - t-004

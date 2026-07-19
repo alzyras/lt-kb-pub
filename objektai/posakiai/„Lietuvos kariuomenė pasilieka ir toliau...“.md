@@ -31,7 +31,6 @@ Skelbta, kad sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos s
 
 <a id="claim-t-77850"></a>
 - t-001
-  global_id: t-77850
   teiginys: "Sovietų kariuomenei įžengus skelbta, kad tai tik sustiprins Lietuvos saugumą ir kad „Lietuvos kariuomenė pasilieka ir toliau“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Skelbta, kad sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77850
+    - t-001

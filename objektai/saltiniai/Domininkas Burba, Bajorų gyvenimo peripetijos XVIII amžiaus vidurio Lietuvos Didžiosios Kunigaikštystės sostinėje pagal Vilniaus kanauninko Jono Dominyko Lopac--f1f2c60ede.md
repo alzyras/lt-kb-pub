@@ -47,7 +47,6 @@ Straipsnyje Jono Dominyko Lopacinskio korespondencija nagrinėjama kaip šaltini
 
 <a id="claim-t-200427"></a>
 - t-001
-  global_id: t-200427
   teiginys: "Straipsnyje Jono Dominyko Lopacinskio korespondencija nagrinėjama kaip šaltinis apie jo ankstyvą karjerą ir XVIII a. vidurio Vilniaus bajorų gyvenimą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -66,7 +65,6 @@ Straipsnyje Jono Dominyko Lopacinskio korespondencija nagrinėjama kaip šaltini
 
 <a id="claim-t-200428"></a>
 - t-002
-  global_id: t-200428
   teiginys: "Straipsnis paskelbtas 2015 m. leidinio „Istorija / History“ 97 tome, 1 numeryje, 26–46 puslapiuose."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -89,73 +87,19 @@ Straipsnyje Jono Dominyko Lopacinskio korespondencija nagrinėjama kaip šaltini
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 1"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 1."
-  citata_originali: |
-    26–46, 2015
-    Bajorų gyvenimo peripetijos XVIII amžiaus
-    vidurio Lietuvos Didžiosios Kunigaikštystės
-    sostinėje pagal Vilniaus kanauninko
-    Jono Dominyko Lopacinskio asmeninę
-    korespondenciją
-    Burba Domininkas
-    Lietuvos edukologijos universitetas, Istorijos fakultetas, Lietuvos istorijos katedra, T. Ševčenkos g. 31, Vilnius,
-    el. p.: domininkasb@gmail.com
-    Anotacija. Straipsnis skirtas ankstyvajam būsimojo Žemaičių vyskupo Jono Dominyko
-    Lopacinskio gyvenimo ir karjeros etapui – tarnybos Vilniaus katedros kapituloje laikams.
-    Tuometis Vilniaus kanauninkas susirašinėjo su daugeliu galingiausių giminių atstovų. Jo
-    gausiai išlikusiuose korespondencijos rinkiniuose išsamiai pristatoma XVIII amžiaus vidu-
-    rio Vilniaus panorama, parodomi bajorų (visų pirma didikų) interesai Lietuvos Didžiosios
-    Kunigaikštystės sostinėje, jų buitis, kasdienybė, aspiracijos, konfliktai, laisvalaikis. Laiškuose
-    atsiskleidžia būsimojo hierarcho charakterio bruožai, bendravimo būdas, požiūris į daugelį
-    to meto problemų.
-  citata_rodoma: |
-    Anotacija. Straipsnis skirtas ankstyvajam būsimojo Žemaičių vyskupo Jono Dominyko
-    Lopacinskio gyvenimo ir karjeros etapui – tarnybos Vilniaus katedros kapituloje laikams.
-    Tuometis Vilniaus kanauninkas susirašinėjo su daugeliu galingiausių giminių atstovų. Jo
-    gausiai išlikusiuose korespondencijos rinkiniuose išsamiai pristatoma XVIII amžiaus vidu-
-    rio Vilniaus panorama, parodomi bajorų (visų pirma didikų) interesai Lietuvos Didžiosios
-    Kunigaikštystės sostinėje, jų buitis, kasdienybė, aspiracijos, konfliktai, laisvalaikis. Laiškuose
-    atsiskleidžia būsimojo hierarcho charakterio bruožai, bendravimo būdas, požiūris į daugelį
-    to meto problemų.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200427
+    - t-001
+
 - id: c-183813
   autorius: "Domininkas Burba"
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 1"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 1."
-  citata_originali: |
-    Istorija / 2015, t. 97, Nr. 1
-    ISSN 1392-0456
-    E-ISSN 2029-7181
-    Istorija / History
-    2015, t. 97, Nr. 1, p. 26–46 / Vol. 97, No. 1, pp. 26–46, 2015
-    Bajorų gyvenimo peripetijos XVIII amžiaus
-    vidurio Lietuvos Didžiosios Kunigaikštystės
-    sostinėje pagal Vilniaus kanauninko
-    Jono Dominyko Lopacinskio asmeninę
-    korespondenciją
-    Burba Domininkas
-    Lietuvos edukologijos universitetas, Istorijos fakultetas, Lietuvos istorijos katedra, T. Ševčenkos g. 31, Vilnius,
-    el. p.: domininkasb@gmail.com
-    Anotacija.
-  citata_rodoma: |
-    Istorija / History
-    2015, t. 97, Nr. 1, p. 26–46 / Vol. 97, No. 1, pp. 26–46, 2015
-    Bajorų gyvenimo peripetijos XVIII amžiaus
-    vidurio Lietuvos Didžiosios Kunigaikštystės
-    sostinėje pagal Vilniaus kanauninko
-    Jono Dominyko Lopacinskio asmeninę
-    korespondenciją
-    Burba Domininkas
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 02:08"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200428
+    - t-002

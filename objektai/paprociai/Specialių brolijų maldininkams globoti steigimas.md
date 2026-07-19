@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-06864"></a>
-- t-001
-  global_id: t-06864
+- t-004
   teiginys: "Naujos karinės grėsmės sąlygomis globos brolijos virto kariaujančiais riterių ordinais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Nenurodyta
     - c-00236
 
 <a id="claim-t-06865"></a>
-- t-002
-  global_id: t-06865
+- t-003
   teiginys: "Po Jeruzalės išvadavimo didesniosios valstybės steigė brolijas maldininkams globoti kelionėse."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -102,21 +100,15 @@ Nenurodyta
     cialias brolijas savo maldininkams globoti. Iš pradžių tokios brolijos
     globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
     kelyje.
-  citata_rodoma: |
-    Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo
-    traukti minios maldininkų. Bet netrukus naujajai Jeruzalės valstybei
-    vėl ėmė grėsti turkų pavojus, ir maldininkams darėsi labai pavojinga
-    ten keliauti. Todėl visos didesniosios valstybės ten ėmė steigti spe-
-    cialias brolijas savo maldininkams globoti. Iš pradžių tokios brolijos
-    globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
-    kelyje.
+  citata_rodoma: "Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo\ntraukti minios maldininkų. Bet netrukus naujajai Jeruzalės valstybei\nvėl ėmė grėsti turkų pavojus, ir maldininkams darėsi labai pavojinga\nten keliauti. Todėl visos didesniosios valstybės ten ėmė steigti spe-\ncialias brolijas savo maldininkams globoti. Iš pradžių tokios brolijos\nglobojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų\nkelyje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-06865
+    - t-003
+
 - id: c-00236
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -128,14 +120,11 @@ Nenurodyta
     kelyje. Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
     turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
     virto kariaujančiųjų riterių ordinais.
-  citata_rodoma: |
-    Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
-    turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
-    virto kariaujančiųjų riterių ordinais.
+  citata_rodoma: "Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė\nturkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos\nvirto kariaujančiųjų riterių ordinais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-06864
+    - t-004

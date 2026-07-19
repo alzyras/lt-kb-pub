@@ -35,29 +35,11 @@ media_all_json: |-
 
 Magistrato valdininkas Pulokolovskis 1818 m. Kaune, valydamas Perkūno namais vadintus griuvėsius, rado įmūrytą bronzinę statulėlę.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-190205"></a>
-- t-001
-  global_id: t-190205
-  teiginys: 'Magistrato valdininkas Pulokolovskis 1818 m. Kaune, valydamas Perkūno namais vadintus griuvėsius, rado įmūrytą bronzinę statulėlę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir nutrūkusi aprašymo pabaiga, paliekant veikėją, laiką, vietą ir radinį. Nepridėta interpretacija apie nežinomą dievą.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1818 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir nutrūkusi aprašymo pabaiga, paliekant veikėją, laiką, vietą ir radinį. Nepridėta interpretacija apie nežinomą dievą.'
-  pagrindžia:
-    - c-173088
-
-## Citatos
-
-- id: c-173088
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Magistrato valdininkas Pulokolovskis 1818 m. Kaune, valydamas Perkūno namais vadintus griuvėsius, rado įmūrytą bronzinę statulėlę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     244
 
@@ -71,10 +53,8 @@ Magistrato valdininkas Pulokolovskis 1818 m. Kaune, valydamas Perkūno namais va
     duojančią sukryžiuotomis kojomis būtybę, kuri ant galvos laikė
     miesto vaizdą, tai yra bokštus, namus ir bažnyčias, o vienoje ran­
     koje -  tris žuvis.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190205
+  statusas: verified

@@ -35,7 +35,6 @@ Narbutas IV lentelėje mini Mickaus Pocaičio antspaudą su žalčiais, datuojam
 
 <a id="claim-t-190234"></a>
 - t-001
-  global_id: t-190234
   teiginys: "Narbutas IV lentelėje mini Mickaus Pocaičio antspaudą su žalčiais, datuojamą maždaug XV amžiaus viduriu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Narbutas IV lentelėje mini Mickaus Pocaičio antspaudą su žalčiais, datuojam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190234
+    - t-001

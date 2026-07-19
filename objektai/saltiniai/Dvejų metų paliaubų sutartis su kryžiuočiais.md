@@ -31,7 +31,6 @@ Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą s
 
 <a id="claim-t-186309"></a>
 - t-001
-  global_id: t-186309
   teiginys: "Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą sutiko sudaryti dvejų metų paliaubas su kryžiuočiais."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą s
 
 <a id="claim-t-186310"></a>
 - t-002
-  global_id: t-186310
   teiginys: "Danijos karalius ir Pomeranijos kunigaikštis perėjo į Jogailos ir Vytauto pusę ir pasižadėjo padėti kovoti prieš kryžiuočius, jei šie nepaisytų paliaubų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą s
 
 <a id="claim-t-196346"></a>
 - t-003
-  global_id: t-196346
   teiginys: "Kojelavičiaus pasakojime Jogaila ir Vytautas per karą su Prūsija siekė, kad kryžiuočiai po pergalės liktų ramūs, klusnūs arba draugiški."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -115,8 +112,9 @@ Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186309
-    - t-196346
+    - t-001
+    - t-003
+
 - id: c-169671
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -147,24 +145,11 @@ Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą s
     neseniai priėmę krikščionių
     tikėjimą ir nė trupučio jam neatšalę, karštai gerbė po­
     piežiaus žodį.
-  citata_rodoma: |
-    397
-
-    ## Puslapis 396
-
-    Danijos karalius ir Pomeranijos kunigaikštis, atvykę
-    kryžiuočiams į pagalbą ir supratę, kas teisus ir netei­
-    sus, pasipiktino ir, atvirai atsisakę remti kryžiuočius,
-    perėjo į Jogailos ir Vytauto pusę, pasirašydami sutartį,
-    kuria pasižadėjo padėti kovoti prieš kryžiuočius, jeigu
-    šie susimanytų nepaisyti ką tik sudarytų paliaubų. Pa­
-    sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o
-    karalius į Didžiąją Lenkiją. Keliaudamas iš Poznanės į
-    Srodą, vos neprarado gyvybės.
+  citata_rodoma: "397\n\n## Puslapis 396\n\nDanijos karalius ir Pomeranijos kunigaikštis, atvykę\nkryžiuočiams į pagalbą ir supratę, kas teisus ir netei­\nsus, pasipiktino ir, atvirai atsisakę remti kryžiuočius,\nperėjo į Jogailos ir Vytauto pusę, pasirašydami sutartį,\nkuria pasižadėjo padėti kovoti prieš kryžiuočius, jeigu\nšie susimanytų nepaisyti ką tik sudarytų paliaubų. Pa­\nsirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o\nkaralius į Didžiąją Lenkiją. Keliaudamas iš Poznanės į\nSrodą, vos neprarado gyvybės."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186310
+    - t-002

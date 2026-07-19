@@ -51,9 +51,8 @@ Nenurodyta
 
 <a id="claim-t-195348"></a>
 - t-001
-  global_id: t-195348
   teiginys: "Elgetos religinis atributas, aprašytas kaip medinių rutuliukų vėrinys."
-  atnaujinta: "2026-07-12 01:47"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -76,15 +75,15 @@ Nenurodyta
     rų, medinių rutuliukų ražončių, kuris apkabinėtas dideliais ir ma­
     žais agnasais, ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs
     nunešiotais miestiečio užvalkčiais.
-  citata_rodoma: |
-    Užsikabinęs ilgą, sto- rų, medinių rutuliukų ražončių, kuris apkabinėtas dideliais ir ma- žais agnasais, ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais.
+  citata_rodoma: "Užsikabinęs ilgą, sto- rų, medinių rutuliukų ražončių, kuris apkabinėtas dideliais ir ma- žais agnasais, ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195348
+    - t-001
+
 - id: c-177754
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -95,11 +94,9 @@ Nenurodyta
     tiška“ ir „aukso altorius“ . Žvakė perkama už cibavus pinigus, vadi­
     nas, už tuos pinigus, kur surenkami iš grįtelninkų ir kampininkų už
     jų ožkų ganymą. Visi renkasi giedoti ražončių ir „adynas“ .
-  citata_rodoma: |
-    Visi renkasi giedoti ražončių ir „adynas“ .
+  citata_rodoma: "Visi renkasi giedoti ražončių ir „adynas“ ."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:

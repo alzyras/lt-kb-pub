@@ -35,8 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-21028"></a>
-- t-001
-  global_id: t-21028
+- t-002
   teiginys: "1918 m. lapkričio 13 d. Bresto taikos sąlygos su Vokietija buvo anuliuotos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ media_all_json: |-
     - c-23750
 
 <a id="claim-t-21029"></a>
-- t-002
-  global_id: t-21029
+- t-001
   teiginys: "Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ media_all_json: |-
 
 <a id="claim-t-183358"></a>
 - t-003
-  global_id: t-183358
   teiginys: "Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, bet Lietuvos Tarybos delegacija į derybas nebuvo pakviesta."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -106,15 +103,15 @@ media_all_json: |-
     nė žodžio apie Steigiamąjį Seimą. Žinoma, Vokietijai ši rezoliucija praver-
     tė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias
     Lietuvos Tarybos delegacija net nebuvo pakviesta.
-  citata_rodoma: |
-    tė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias
+  citata_rodoma: "tė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21029
+    - t-001
+
 - id: c-23750
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,15 +129,15 @@ media_all_json: |-
     kariuomenę. 1918 m. lapkričio 13 d. jie anulia­vo Bresto taikos sąlygas su
     Vokietija ir pra­dėjo atvirą karinę ir politinę kovą „dėl Estijos, Latvijos, Lie-
     tuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“.
-  citata_rodoma: |
-    Vokietija ir pra­dėjo atvirą karinę ir politinę kovą „dėl Estijos, Latvijos, Lie-
+  citata_rodoma: "Vokietija ir pra­dėjo atvirą karinę ir politinę kovą „dėl Estijos, Latvijos, Lie-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21028
+    - t-002
+
 - id: c-166750
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -159,4 +156,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183358
+    - t-003

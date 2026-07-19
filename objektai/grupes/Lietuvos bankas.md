@@ -39,7 +39,6 @@ Nuo 1993 m. vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl naciona
 
 <a id="claim-t-19858"></a>
 - t-001
-  global_id: t-19858
   teiginys: "Nuo 1993 m. vidurio infliacija mažėjo dėl Lietuvos banko sugriežtintos pinigų politikos ir 1994 m. pradėto valiutų valdybos modelio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,12 +68,11 @@ Nuo 1993 m. vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl naciona
     tos – lito įvedimo laikotarpiu Lietuvos banko vykdytos sugriežtintos pi-
     nigų politikos ir 1994 m. kovo 1 d. pradėto taikyti valiutų valdybos mo-
     delio (pagal jį litas susietas su JAV doleriu santykiu 4 litai – 1 doleris).
-  citata_rodoma: |
-    delio (pagal jį litas susietas su JAV doleriu santykiu 4 litai – 1 doleris).
+  citata_rodoma: "delio (pagal jį litas susietas su JAV doleriu santykiu 4 litai – 1 doleris)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19858
+    - t-001

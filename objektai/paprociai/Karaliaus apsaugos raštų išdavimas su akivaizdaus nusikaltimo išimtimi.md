@@ -48,29 +48,11 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189920"></a>
-- t-001
-  global_id: t-189920
-  teiginys: '1568 m. Lietuvos seimas Gardine sutiko, kad karalius išduotų apsaugos raštus, išskyrus akivaizdaus nusikaltimo atvejį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas teisinis veiksmas ir jo išimtis, pašalinus archyvinį kontekstą bei OCR triukšmą. Nepridėta platesnių teisinių pasekmių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos seimas|Lietuvos seimas]]; mentioned_group: [[objektai/grupes/Lietuvos seimas Gardine|Lietuvos seimas Gardine]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1568 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Išskleistas teisinis veiksmas ir jo išimtis, pašalinus archyvinį kontekstą bei OCR triukšmą. Nepridėta platesnių teisinių pasekmių.'
-  pagrindžia:
-    - c-172803
-
-## Citatos
-
-- id: c-172803
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: '1568 m. Lietuvos seimas Gardine sutiko, kad karalius išduotų apsaugos raštus, išskyrus akivaizdaus nusikaltimo atvejį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Čia ap­
     rašomas seimas pradėjo posėdžiauti 1568 metų pa­
@@ -87,10 +69,8 @@ Nenurodyta
     ## Puslapis 515
 
     O prawach.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189920
+  statusas: verified

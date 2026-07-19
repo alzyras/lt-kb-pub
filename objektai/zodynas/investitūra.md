@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-36783"></a>
 - t-001
-  global_id: t-36783
   teiginys: "Buvo teigiama, kad ir nekarūnuotas ciesorius turi teisę teikti karališkąsias investitūras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,17 +61,11 @@ media_all_json: |-
     cijos fakto, bet iš elektorių rinkimo. Po jo atsiliepė ir Vienos
     universiteto profesoriai, pakviesti Zigmanto pareiškti savo
     nuomonę.
-  citata_rodoma: |
-    Šis įro­
-    dinėjo, kad ir neapkarūnuotas ciesorius turįs teisę teikti inves­
-    titūras į karalius; o Zigmanto valdžia paeinanti ne iš karūna­
-    cijos fakto, bet iš elektorių rinkimo. Po jo atsiliepė ir Vienos
-    universiteto profesoriai, pakviesti Zigmanto pareiškti savo
-    nuomonę.
+  citata_rodoma: "Šis įro­\ndinėjo, kad ir neapkarūnuotas ciesorius turįs teisę teikti inves­\ntitūras į karalius; o Zigmanto valdžia paeinanti ne iš karūna­\ncijos fakto, bet iš elektorių rinkimo. Po jo atsiliepė ir Vienos\nuniversiteto profesoriai, pakviesti Zigmanto pareiškti savo\nnuomonę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36783
+    - t-001

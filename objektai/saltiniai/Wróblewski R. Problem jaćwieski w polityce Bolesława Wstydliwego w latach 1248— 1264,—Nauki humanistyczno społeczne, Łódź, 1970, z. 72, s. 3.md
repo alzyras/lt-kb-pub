@@ -35,21 +35,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad wróblewski R.
 
-## Teiginiai
-
-<a id="claim-t-61371"></a>
-- t-001
-  global_id: t-61371
-  teiginys: "R. Wróblewskio straipsnis apie jotvingių klausimą Boleslovo Droviojo politikoje 1248-1264 m. paskelbtas Lodzėje 1970 m."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1248-1264; įvykio data: 1264 m.; įvykio data: 1970 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia straipsnio autorių, temą, chronologiją, leidimo vietą ir metus."
-  pagrindžia:
-    - c-62003
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'R. Wróblewskio straipsnis apie jotvingių klausimą Boleslovo Droviojo politikoje 1248-1264 m. paskelbtas Lodzėje 1970 m.'
@@ -62,8 +47,7 @@ Dusburgietis teigia, kad wróblewski R.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61371
+
 ## Citatos
 
 - id: c-62003
@@ -75,13 +59,25 @@ Dusburgietis teigia, kad wróblewski R.
     Пашуто В. Т.  Образование Литовского государства — М., 1959.
     Пашуто В. Т.  Гродно в Хронике Петра Дусбурга. — Культура древней Руси/
     Посвящается 40-летию научной деятельности H. Н. Воронина, М., 1966, с.
-  citata_rodoma: |
-    Wróblewski R. Problem jaćwieski w polityce Bolesława Wstydliwego w latach 1248—
-    1264,—Nauki humanistyczno społeczne, Łódź, 1970, z. 72, s. 3—18.
+  citata_rodoma: "Wróblewski R. Problem jaćwieski w polityce Bolesława Wstydliwego w latach 1248—\n1264,—Nauki humanistyczno społeczne, Łódź, 1970, z. 72, s. 3—18."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61371
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-61371"></a>
+- t-001
+  teiginys: "R. Wróblewskio straipsnis apie jotvingių klausimą Boleslovo Droviojo politikoje 1248-1264 m. paskelbtas Lodzėje 1970 m."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1248-1264; įvykio data: 1264 m.; įvykio data: 1970 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia straipsnio autorių, temą, chronologiją, leidimo vietą ir metus."
+  pagrindžia:
+    - c-62003

@@ -52,8 +52,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-10441"></a>
-- t-001
-  global_id: t-10441
+- t-002
   teiginys: "1411 m. Torunės taikoje Žemaitija Vytautui ir Jogailai atiteko „iki gyvos galvos“."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ media_all_json: |-
     - c-12476
 
 <a id="claim-t-67269"></a>
-- t-002
-  global_id: t-67269
+- t-003
   teiginys: "Formulė „iki gyvos Vytauto ir Jogailos galvos“ reiškė Žemaičių atsisakymą iki Vytauto ir Jogailos mirties."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -102,16 +100,15 @@ media_all_json: |-
     jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
     lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
     mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
-  citata_rodoma: |
-    Tuo būdu Lietuvos savarankišku-
-    mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
+  citata_rodoma: "Tuo būdu Lietuvos savarankišku-\nmas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67269
+    - t-003
+
 - id: c-12476
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -123,16 +120,11 @@ media_all_json: |-
     taika ir Žemaitija Vytautui ir Jogailai atiteko „iki gyvos
     galvos“, Vytautas siekė susigrąžinti ją visam laikui kartu su
     Klaipėda ir visa Užnemune.
-  citata_rodoma: |
-    Po
-    Žalgirio pergalės 1410 m., 1411 m. buvo pasirašyta Torunės
-    taika ir Žemaitija Vytautui ir Jogailai atiteko „iki gyvos
-    galvos“, Vytautas siekė susigrąžinti ją visam laikui kartu su
-    Klaipėda ir visa Užnemune.
+  citata_rodoma: "Po\nŽalgirio pergalės 1410 m., 1411 m. buvo pasirašyta Torunės\ntaika ir Žemaitija Vytautui ir Jogailai atiteko „iki gyvos\ngalvos“, Vytautas siekė susigrąžinti ją visam laikui kartu su\nKlaipėda ir visa Užnemune."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10441
+    - t-002

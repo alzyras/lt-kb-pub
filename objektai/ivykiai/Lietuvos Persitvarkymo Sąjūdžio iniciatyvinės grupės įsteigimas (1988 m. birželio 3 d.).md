@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-77899"></a>
 - t-001
-  global_id: t-77899
   teiginys: "1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje lietuvių inteligentų būrys įsteigė Lietuvos Persitvarkymo Sąjūdžio iniciatyvinę grupę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-77900"></a>
 - t-002
-  global_id: t-77900
   teiginys: "Ją sudarė 35 visoje Lietuvoje žinomi inteligentai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,7 +107,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77900
+    - t-002
+
 - id: c-75216
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -129,4 +128,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77899
+    - t-001

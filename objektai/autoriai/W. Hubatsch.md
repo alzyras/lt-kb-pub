@@ -41,7 +41,6 @@ Hubatsch^158.
 
 <a id="claim-t-64883"></a>
 - t-001
-  global_id: t-64883
   teiginys: "Bonnos universiteto profesorius W. Hubatschas parašė išsamią monografiją apie Prūsų hercogą Albrechtą."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Hubatsch^158.
 
 <a id="claim-t-64884"></a>
 - t-002
-  global_id: t-64884
   teiginys: "W. Hubatschas 1948 m. Getingene išleido „Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum“ antrąją dalį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ Hubatsch^158.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64883
+    - t-001
+
 - id: c-65468
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -103,4 +102,4 @@ Hubatsch^158.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64884
+    - t-002

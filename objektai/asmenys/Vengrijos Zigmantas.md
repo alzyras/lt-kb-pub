@@ -31,7 +31,6 @@ Vaclovas tačiau gąsdino, jog ordino pusėje stosiąs jis pats ir jo brolis Ven
 
 <a id="claim-t-30408"></a>
 - t-001
-  global_id: t-30408
   teiginys: "Vengrijos Zigmantas siūlėsi tarpininkauti ir galėjo tapti rimtu kryžiuočių sąjungininku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,16 +58,11 @@ Vaclovas tačiau gąsdino, jog ordino pusėje stosiąs jis pats ir jo brolis Ven
     tarpininkauti.
     Zigmantas galėjo tapti rimtu kryžiuočių sąjungininku ir pavo­
     jingu pusbrolių priešų.
-  citata_rodoma: |
-    Vaclovas tačiau gąsdino, jog ordino
-    pusėje stosiąs jis pats ir jo brolis Vengrijos Zigmantas, kuris siūlėsi
-    tarpininkauti.
-    Zigmantas galėjo tapti rimtu kryžiuočių sąjungininku ir pavo­
-    jingu pusbrolių priešų.
+  citata_rodoma: "Vaclovas tačiau gąsdino, jog ordino\npusėje stosiąs jis pats ir jo brolis Vengrijos Zigmantas, kuris siūlėsi\ntarpininkauti.\nZigmantas galėjo tapti rimtu kryžiuočių sąjungininku ir pavo­\njingu pusbrolių priešų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30408
+    - t-001

@@ -57,8 +57,7 @@ Tekstas liko nespausdintas ir, pagal įvadinį tekstą, negalėjo paveikti vieš
 ## Teiginiai
 
 <a id="claim-t-187975"></a>
-- t-001
-  global_id: t-187975
+- t-002
   teiginys: "S. Stanevičiaus „Lietuvių mitologijos aiškinimas“ liko nespausdintas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::events"
@@ -92,15 +91,11 @@ Datavimas pateiktas kaip J. Lebedžio nuomonė: ne anksčiau kaip 1838 m.
     Šleicheris, pasišovęs išaiškinti, kurie įvairiuose šaltiniuose mi­
     nimi lietuvių dievų vardai yra patikimi, iš liaudies užrašyti ir
     kurie pramanyti arba iškraipyti.
-  citata_rodoma: |
-    Tačiau S. Stanevičiaus „Lietuvių mitologijos
-    aiškinimas“ liko nespausdintas ir negalėjo paveikti viešosios
-    nuomonės apie T. Narbuto veikalą, pradėti formuoti kritiško
-    požiūrio į jį.
+  citata_rodoma: "Tačiau S. Stanevičiaus „Lietuvių mitologijos\naiškinimas“ liko nespausdintas ir negalėjo paveikti viešosios\nnuomonės apie T. Narbuto veikalą, pradėti formuoti kritiško\npožiūrio į jį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187975
+    - t-002

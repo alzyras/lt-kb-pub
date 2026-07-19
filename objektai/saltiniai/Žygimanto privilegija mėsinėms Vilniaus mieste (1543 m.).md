@@ -37,7 +37,6 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
 
 <a id="claim-t-88221"></a>
 - t-001
-  global_id: t-88221
   teiginys: "Žygimanto privilegija mėsinėms Vilniaus mieste datuojama 1543 metais ir buvo saugoma Vilniaus kapitulos archyve."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
 
 <a id="claim-t-88222"></a>
 - t-002
-  global_id: t-88222
   teiginys: "1543 m. privilegijoje minimas ginčas tarp Vilniaus vyskupo Povilo ir Vilniaus vaito, tarėjų bei miestiečių dėl mėsinių turguje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
     - c-84201
 
 <a id="claim-t-88223"></a>
-- t-003
-  global_id: t-88223
+- t-004
   teiginys: "Žygimanto privilegija leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes, kurių mokesčiai turėjo būti mokami bažnyčios muzikantams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,7 +113,8 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88221
+    - t-001
+
 - id: c-84201
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -145,7 +143,8 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88222
+    - t-002
+
 - id: c-84202
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -178,4 +177,4 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88223
+    - t-004

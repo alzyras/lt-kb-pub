@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187792"></a>
-- t-001
-  global_id: t-187792
+- t-002
   teiginys: "Leidinio įvado autorius Adomą Fergusoną priskiria žymiausiems XVIII-XIX a. Europos istorikams, kurių darbus vertė Vilniaus universiteto auklėtiniai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -79,15 +78,11 @@ Nenurodyta
     auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
     Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
     Vilhelmo Gizo, Johano Miulerio - darbus.
-  citata_rodoma: |
-    Vilniaus universiteto
-    auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
-    Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
-    Vilhelmo Gizo, Johano Miulerio -  darbus.
+  citata_rodoma: "Vilniaus universiteto\nauklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -\nVilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro\nVilhelmo Gizo, Johano Miulerio -  darbus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187792
+    - t-002

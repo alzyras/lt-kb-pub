@@ -39,7 +39,6 @@ Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu sa
 
 <a id="claim-t-191568"></a>
 - t-001
-  global_id: t-191568
   teiginys: "Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu saulės akmens vardu ir tikra gamtos mįsle."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu sa
 
 <a id="claim-t-192520"></a>
 - t-002
-  global_id: t-192520
   teiginys: "Kocebaus darbe Narbutas nurodė 1246 m. sutartį kaip seniausią jam žinomą liudijimą apie dingusios Sambijos dalies egzistavimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,6 @@ Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu sa
 
 <a id="claim-t-197582"></a>
 - t-003
-  global_id: t-197582
   teiginys: "Ligi šiol žinoma seniausia sutartis, primenanti dingu sios Sambijos dalies egzistavimą senovėje; ji esanti 1246 metų Kocebaus darbe (t."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -121,7 +118,8 @@ Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191568
+    - t-001
+
 - id: c-175308
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -140,5 +138,5 @@ Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192520
-    - t-197582
+    - t-002
+    - t-003

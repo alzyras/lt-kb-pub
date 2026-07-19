@@ -31,7 +31,6 @@ Pats Traidenis, kaip in Mindaugas, Eiliuotinėje Livonijos kronikoje yra vadinam
 
 <a id="claim-t-32786"></a>
 - t-001
-  global_id: t-32786
   teiginys: "Eiliuotinėje Livonijos kronikoje Traidenis, kaip ir Mindaugas, vadinamas kunic."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,15 +57,11 @@ Pats Traidenis, kaip in Mindaugas, Eiliuotinėje Livonijos kronikoje yra vadinam
     in Mindaugas, Eiliuotinėje Livonijos kronikoje yra vadinamas _kunic_^257.
 
     (^253) **Apie visus tuos sūduvių kilminguosius žiūr.
-  citata_rodoma: |
-    Pats Traidenis, kaip
-    in Mindaugas, Eiliuotinėje Livonijos kronikoje yra vadinamas _kunic_^257.
-
-    (^253) **Apie visus tuos sūduvių kilminguosius žiūr.
+  citata_rodoma: "Pats Traidenis, kaip\nin Mindaugas, Eiliuotinėje Livonijos kronikoje yra vadinamas _kunic_^257.\n\n(^253) **Apie visus tuos sūduvių kilminguosius žiūr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32786
+    - t-001

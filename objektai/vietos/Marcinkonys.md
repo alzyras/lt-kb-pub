@@ -31,7 +31,6 @@ Rugsėjo 24 d. lenkai užima Marcinkonis ir atkerta atsitraukimo kelią į šiau
 
 <a id="claim-t-41896"></a>
 - t-001
-  global_id: t-41896
   teiginys: "Rugsėjo 24 d. lenkai užėmė Marcinkonis ir atkirtо atsitraukimo kelią į šiaurę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,17 +60,14 @@ Rugsėjo 24 d. lenkai užima Marcinkonis ir atkerta atsitraukimo kelią į šiau
     Už Lydos pavyksta aplenkti lenkų pajėgas ir
     spalio 1 d. sugrįžti į Lietuvos kariuomenės kon-
     troliuojamą Lietuvos teritoriją iš rytų.
-  citata_rodoma: |
-    Rugsėjo 24 d. lenkai užima Marcinkonis ir at-
-    kerta atsitraukimo kelią į šiaurę.
-
-    7-asis ir 2-asis pėst.
+  citata_rodoma: "Rugsėjo 24 d. lenkai užima Marcinkonis ir at-\nkerta atsitraukimo kelią į šiaurę.\n\n7-asis ir 2-asis pėst."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41896
+    - t-001
+
 ## Ryšiai
 - Užėmė Marcinkonį: [[objektai/grupes/Lenkai]]

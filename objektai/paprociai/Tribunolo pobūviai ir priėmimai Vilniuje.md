@@ -66,8 +66,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-200555"></a>
-- t-001
-  global_id: t-200555
+- t-003
   teiginys: "1752 m. Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis pietavo pas Lopacinskį Antakalnyje prieš kelionę į Panerius."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -88,7 +87,6 @@ Nenurodyta
 
 <a id="claim-t-200556"></a>
 - t-002
-  global_id: t-200556
   teiginys: "1751 m. tribunolo maršalas Juozapas Antanas Solohubas ir Antanas Solohubas pakvietė Lopacinskį prie mažojo staliuko Paneriuose."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -114,25 +112,9 @@ Nenurodyta
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 6"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
-  citata_originali: |
-    Pvz., 1751 m. kanauninkas broliui pasakojo, kad jam skauda galvą, tačiau turintis vykti
-    į Panerius, nes reikia priimti tribunolo maršalą Juozapą Antaną Solohubą (Józef Antoni
-    Sołłohub) ir LDK artilerijos generolą Antaną Solohubą (Antoni Sołłohub), kurie be cere-
-    monijų jį pakvietė prie mažojo staliuko [lošti kortomis?] [22]. 1752 m. J. D. Lopacinskis
-    rašė, esą Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis „valgęs pietus pas
-    mus“ Antakalnyje, turėjo išvykti į kelionę nakvynei Paneriuose [30].
-  citata_rodoma: |
-    Pvz., 1751 m. kanauninkas broliui pasakojo, kad jam skauda galvą, tačiau turintis vykti
-    į Panerius, nes reikia priimti tribunolo maršalą Juozapą Antaną Solohubą (Józef Antoni
-    Sołłohub) ir LDK artilerijos generolą Antaną Solohubą (Antoni Sołłohub), kurie be cere-
-    monijų jį pakvietė prie mažojo staliuko [lošti kortomis?] [22]. 1752 m. J. D. Lopacinskis
-    rašė, esą Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis „valgęs pietus pas
-    mus“ Antakalnyje, turėjo išvykti į kelionę nakvynei Paneriuose [30].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 04:19"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200555
-    - t-200556
+    - t-003
+    - t-002

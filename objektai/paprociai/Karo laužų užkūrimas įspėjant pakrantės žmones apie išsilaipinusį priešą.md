@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-192101"></a>
 - t-001
-  global_id: t-192101
   teiginys: "Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -68,7 +67,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174968
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą.'
@@ -89,11 +88,9 @@ Nenurodyta
     skritimi.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192101
+  statusas: verified
 ## Citatos
 
 - id: c-174968
@@ -109,14 +106,11 @@ Nenurodyta
     skritimi. Ir Medraboje buvo panaši pilis, priklausiusi ba­
     jorų Kandeimų giminei, kurios vardas vėliau pelnė kraš­
     to istorijoje didelę šlovę.
-  citata_rodoma: |
-    Natangijoje, būdavo užkuriami karo laužai, kai prireik­
-    davo įspėti žmones, kurie stodavo po garsių karvedžių
-    vėliavomis, jei priešas išsilaipindavo pakrantėse.
+  citata_rodoma: "Natangijoje, būdavo užkuriami karo laužai, kai prireik­\ndavo įspėti žmones, kurie stodavo po garsių karvedžių\nvėliavomis, jei priešas išsilaipindavo pakrantėse."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192101
+    - t-001

@@ -28,7 +28,6 @@ Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Seredžiaus palikimo
 
 <a id="claim-t-201761"></a>
 - t-001
-  global_id: t-201761
   teiginys: "Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Seredžiaus palikimo, kurio dalis buvusi užrašyta parapinei bažnyčiai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Seredžiaus palikimo
 
 <a id="claim-t-201762"></a>
 - t-002
-  global_id: t-201762
   teiginys: "Kitas būdas, kuriuo Kauno miestiečių nekilnojamasis turtas atitekdavo valdovui, buvo vadinamoji išmaros teisė (ius caducum)."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,7 @@ Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Seredžiaus palikimo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201761
+    - t-001
 
 - id: c-185109
   autorius: "Zigmantas Kiaupa"
@@ -91,4 +89,4 @@ Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Seredžiaus palikimo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201762
+    - t-002

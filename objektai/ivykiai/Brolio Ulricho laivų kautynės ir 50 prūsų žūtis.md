@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-91911"></a>
 - t-001
-  global_id: t-91911
   teiginys: "Brolis Ulrichas laivų kautynėse stiebu daužė prūsų laivus ir nuskandino jų tiek, kad kartu su laivais žuvo 50 prūsų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -104,4 +103,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91911
+    - t-001

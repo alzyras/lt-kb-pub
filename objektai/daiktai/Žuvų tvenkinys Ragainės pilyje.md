@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-59718"></a>
 - t-001
-  global_id: t-59718
   teiginys: "Ragainės pilies viduryje buvo maždaug 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinys."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59718
+    - t-001

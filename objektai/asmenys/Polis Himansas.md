@@ -38,8 +38,7 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
 ## Teiginiai
 
 <a id="claim-t-64039"></a>
-- t-001
-  global_id: t-64039
+- t-002
   teiginys: "Polis Himansas per tris savaites parengė Lietuvos federacinės valstybės iš Kauno ir Vilniaus kantonų projektą pagal Šveicarijos pavyzdį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
     - c-166955
 
 <a id="claim-t-193629"></a>
-- t-002
-  global_id: t-193629
+- t-004
   teiginys: "Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministras Polis Himansas (Paul Hymans)."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,8 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64039
+    - t-002
+
 - id: c-176300
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -111,4 +110,4 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193629
+    - t-004

@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-54231"></a>
 - t-001
-  global_id: t-54231
   teiginys: "Nuo 1573 m. pacta conventa vadinti elekcinių valdovų įsipareigojimai LLV bajorijai, kuriems turėjo prisiekti būsimi valdovai ir jų įpėdiniai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54231
+    - t-001

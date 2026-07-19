@@ -46,18 +46,28 @@ Nenurodyta
 
 Nenurodyta
 
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Pagal komentare minimą J. Dlugošą, mirusio Algirdo palaikai Kukovaičio miške prie Maišiagalos buvo sudeginti ant laužo.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    ’*  Legenda apie Kukovaičio mišką, tapatinamą su Ročkalniu
+    prie Šventosios ties Deltuva, yra. veikiausiai, patekusi | Lietuvos
+    metraščių PS per Kęsgailas, Žemaičių senitinus ir Trakų kaštelionus,
+    kadangi Deltuva XV ir XVI a. pirm ojoje pusėje buvo Kęsgailų
+    tėviškė. Pagal J . Dlugošą Kukovaičio („Kokivvejtos'') m iške prie
+    Maišiagalos buvę sudeginti an t laužo mirusio Algirdo palaikai
+    (Jana Dlugosza, kanonika krakowsklcgo. dzlejów polsklch kslęg
+    dwanascie (toliau — Dzieje), t. HI, Kraków. 1868, p. 444).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_vaizdinys
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Teiginiai
 
-<a id="claim-t-186856"></a>
-- t-001
-  global_id: t-186856
-  teiginys: 'Pagal komentare minimą J. Dlugošą, mirusio Algirdo palaikai Kukovaičio miške prie Maišiagalos buvo sudeginti ant laužo.'
-  teiginio_tipas: 'saltinio_vaizdinys'
-  sudarymo_pagrindimas: 'Pradinis teiginys kartoja formuluotę ir turi perteklinę interpretacinę dalį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Deltuva; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Trakai; llm_object: Maišiagala; llm_object: [[objektai/daiktai/Laužas|Laužas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] buvo palaidotas [[objektai/daiktai/Laužas|Laužas]]'
-  pagrindžia:
-    - c-170039
 - susijęs iš [[objektai/daiktai/Karinė apranga, ginklai ir grandinės padėkos aukoje.md#claim-t-189684|Karinė apranga, ginklai ir grandinės padėkos aukoje]]: Narbutas padėkos auką aprašė kaip apeigą, per kurią ant laužo sudegindavo žymų belaisvį su žirgu, karine apranga ir ginklais.
 - susijęs iš [[objektai/ivykiai/Algirdo palaikų sudeginimas Kukovaičio miške.md#claim-t-186691|Algirdo palaikų sudeginimas Kukovaičio miške]]: Redakcinė pastaba teigia, kad pagal J. Dlugošą Kukovaičio miške prie Maišiagalos ant laužo buvo sudeginti mirusio Algirdo palaikai.
 - susijęs iš [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo.md#claim-t-01622|Herasimo sąmokslas ir sudeginimas ant laužo]]: Herasimas rengė sąmokslą perduoti Smolensko žemę Zigmantui, bet buvo susektas ir Švitrigailos įsakymu sudegintas ant laužo.
@@ -101,26 +111,3 @@ Nenurodyta
 - susijęs iš Prienai: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
 - susijęs iš [[objektai/zodynas/prastuomenė.md#claim-t-185408|prastuomenė]]: Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, kai apsiaustoje pilyje baigėsi maistas ir pilis atiteko Vytautui.
 - susijęs iš [[objektai/zodynas/Traknienius.md#claim-t-195461|Traknienius]]: Traknieniai šiame šaltinyje reiškia darbą, susijusį su pėdų laužymu ir trynimu.
-## Citatos
-
-- id: c-170039
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    ’*  Legenda apie Kukovaičio mišką, tapatinamą su Ročkalniu
-    prie Šventosios ties Deltuva, yra. veikiausiai, patekusi | Lietuvos
-    metraščių PS per Kęsgailas, Žemaičių senitinus ir Trakų kaštelionus,
-    kadangi Deltuva XV ir XVI a. pirm ojoje pusėje buvo Kęsgailų
-    tėviškė. Pagal J . Dlugošą Kukovaičio („Kokivvejtos'') m iške prie
-    Maišiagalos buvę sudeginti an t laužo mirusio Algirdo palaikai
-    (Jana Dlugosza, kanonika krakowsklcgo. dzlejów polsklch kslęg
-    dwanascie (toliau — Dzieje), t. HI, Kraków. 1868, p. 444).
-  citata_rodoma: "Legenda apie Kukovaičio mišką, tapatinamą su Ročkalniu \nprie Šventosios ties Deltuva, yra. veikiausiai, patekusi | Lietuvos \nmetraščių PS per Kęsgailas, Žemaičių senitinus ir Trakų kaštelionus, \nkadangi Deltuva XV ir XVI a. pirm ojoje pusėje buvo Kęsgailų \ntėviškė. Pagal J . Dlugošą Kukovaičio („Kokivvejtos'') m iške prie \nMaišiagalos buvę sudeginti an t laužo mirusio Algirdo palaikai \n(Jana Dlugosza, kanonika krakowsklcgo. dzlejów polsklch kslęg \ndwanascie (toliau — Dzieje), t. HI, Kraków. 1868, p. 444)."
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:29"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186856

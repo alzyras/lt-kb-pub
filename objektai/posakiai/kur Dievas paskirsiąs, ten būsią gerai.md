@@ -31,7 +31,6 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
 
 <a id="claim-t-34398"></a>
 - t-001
-  global_id: t-34398
   teiginys: "Jogaila, priėmęs kardus, sakė pagalbos laukiąs tik iš Dievo ir kautynių vietos nesirinksiąs."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
 
 <a id="claim-t-184252"></a>
 - t-002
-  global_id: t-184252
   teiginys: "Priėmęs Ordino pasiuntinių atneštus kardus Jogaila atsakė, kad kautynių vieta bus gera ten, kur ją paskirs Dievas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,8 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34398
+    - t-001
+
 - id: c-167636
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -97,4 +96,4 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184252
+    - t-002

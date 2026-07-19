@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-59708"></a>
 - t-001
-  global_id: t-59708
   teiginys: "Prūsai pastatė tiltą per Prieglių su tvirtais kuorais abiejuose galuose, siekdami trukdyti broliams plukdyti reikmenis į Karaliaučiaus pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59708
+    - t-001

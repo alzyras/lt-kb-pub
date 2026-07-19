@@ -60,8 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195392"></a>
-- t-001
-  global_id: t-195392
+- t-002
   teiginys: "Vakarinis giedojimas buvo patogus šventvakario užsiėmimas."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-177811
 
 <a id="claim-t-195393"></a>
-- t-002
-  global_id: t-195393
+- t-001
   teiginys: "Žiemos šventadieniais sutemus kaimo jaunimas ir nejaunimas rinkdavosi į vieną grįčią giedoti."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -83,7 +81,6 @@ Nenurodyta
 
 <a id="claim-t-195394"></a>
 - t-003
-  global_id: t-195394
   teiginys: "Neatėjęs rytą ražončiaus giedoti galėjo būti apkaltintas tinginyste ir išstumtas iš grįčios."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -106,15 +103,15 @@ Nenurodyta
     Arba: šiandien susitrauksi, kitą dieną atsigausi.
     Ką gi žmonės veikdavo žiemos šventadieniais? Kai temsta, kaimo
     jaunimas ir nejaunimas rinkdavosi į vieną grįčią karunkos giedoti.
-  citata_rodoma: |
-    Ką gi žmonės veikdavo žiemos šventadieniais? Kai temsta, kaimo jaunimas ir nejaunimas rinkdavosi į vieną grįčią karunkos giedoti.
+  citata_rodoma: "Ką gi žmonės veikdavo žiemos šventadieniais? Kai temsta, kaimo jaunimas ir nejaunimas rinkdavosi į vieną grįčią karunkos giedoti."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195393
+    - t-001
+
 - id: c-177810
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -126,15 +123,15 @@ Nenurodyta
     kaišioja jam tinginystę, o jei jis yra dar augąs, tai kiti jo amžininkai,
     pusberniukai išstumia jį iš grįčios. Tai pabauda už nekėlimą, už ne­
     atėjimą rytą ražončiaus giedoti.
-  citata_rodoma: |
-    Čia jį pastebi ir prikaišioja jam tinginystę, o jei jis yra dar augąs, tai kiti jo amžininkai, pusberniukai išstumia jį iš grįčios. Tai pabauda už nekėlimą, už neatėjimą rytą ražončiaus giedoti.
+  citata_rodoma: "Čia jį pastebi ir prikaišioja jam tinginystę, o jei jis yra dar augąs, tai kiti jo amžininkai, pusberniukai išstumia jį iš grįčios. Tai pabauda už nekėlimą, už neatėjimą rytą ražončiaus giedoti."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195394
+    - t-003
+
 - id: c-177811
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -150,12 +147,11 @@ Nenurodyta
     anksti kelti nereikia,
     ir
     šventvakarį nėr kur dėtis, namie sėdint nėr kas veikti.
-  citata_rodoma: |
-    Vakarinį giedojimą lankyti nesunku: anksti kelti nereikia, ir šventvakarį nėr kur dėtis, namie sėdint nėr kas veikti.
+  citata_rodoma: "Vakarinį giedojimą lankyti nesunku: anksti kelti nereikia, ir šventvakarį nėr kur dėtis, namie sėdint nėr kas veikti."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195392
+    - t-002

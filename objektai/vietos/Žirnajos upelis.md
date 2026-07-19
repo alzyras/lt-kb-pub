@@ -33,7 +33,6 @@ Priešingos kariuomenės viena kitą pastebėjo šiauriau Žirnajų ežero, ties
 
 <a id="claim-t-80621"></a>
 - t-001
-  global_id: t-80621
   teiginys: "Priešingos kariuomenės viena kitą pastebėjo šiauriau Žirnajų ežero, ties vieta, kur išteka Žirnajos upelis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Priešingos kariuomenės viena kitą pastebėjo šiauriau Žirnajų ežero, ties
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80621
+    - t-001

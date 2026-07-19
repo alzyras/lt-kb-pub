@@ -37,7 +37,6 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 
 <a id="claim-t-195670"></a>
 - t-001
-  global_id: t-195670
   teiginys: "„Uusi Suomi“ šiame šaltinyje apibūdinamas kaip vienas didžiausių ir įtakingiausių suomių dienraščių."
   atnaujinta: "2026-07-12 11:56"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -48,7 +47,6 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 
 <a id="claim-t-195671"></a>
 - t-002
-  global_id: t-195671
   teiginys: "„Uusi Suomi“ spausdino prof. Niemio raštus, tarp jų ir apie Vilnių."
   atnaujinta: "2026-07-12 11:56"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -70,13 +68,12 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     tyje. „Uusi Suomi“ (Naujoji Suomija) vienas didžiausių ir įtakingiau­
     sių suomių dienraščių mielai dėdavo prof. Niemio raštus; ten taip pat
     yra raštų apie Vilnių.
-  citata_rodoma: |
-    Ir ne vien tame laikraštyje. „Uusi Suomi“ (Naujoji Suomija) vienas didžiausių ir įtakingiausių suomių dienraščių mielai dėdavo prof. Niemio raštus; ten taip pat yra raštų apie Vilnių.
+  citata_rodoma: "Ir ne vien tame laikraštyje. „Uusi Suomi“ (Naujoji Suomija) vienas didžiausių ir įtakingiausių suomių dienraščių mielai dėdavo prof. Niemio raštus; ten taip pat yra raštų apie Vilnių."
   statusas: verified
   atnaujinta: "2026-07-12 11:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195670
-    - t-195671
+    - t-001
+    - t-002

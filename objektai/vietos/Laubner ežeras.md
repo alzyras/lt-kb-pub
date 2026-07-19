@@ -31,7 +31,6 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
 
 <a id="claim-t-36349"></a>
 - t-001
-  global_id: t-36349
   teiginys: "Sąjungininkai sustojo ties Laubner ežeru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,6 +45,7 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
   pagrindžia:
     - c-37491
     - c-167680
+
 ## Citatos
 
 - id: c-37491
@@ -65,7 +65,8 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36349
+    - t-001
+
 - id: c-167680
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -80,3 +81,5 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

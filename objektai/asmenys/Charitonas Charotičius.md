@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-87644"></a>
 - t-001
-  global_id: t-87644
   teiginys: "Vilniaus burmistras Charitonas Charotičius gavo patvirtinimą žemei Maišiagalos ir Rudaminos paviete pagal karaliaus Aleksandro jo broliui duotą privilegiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,17 +60,11 @@ media_all_json: |-
     šiagalos ir Rudaminos pav. pagal Jo
     Malonybės karaliaus Aleksandro jo
     broliui duotą privilegiją - fol. 127.
-  citata_rodoma: |
-    21
-    Patvirtinimas Vilniaus burmistrui
-    Charitonui Charotičiui žeanės Mai­
-    šiagalos ir Rudaminos pav. pagal Jo
-    Malonybės karaliaus Aleksandro jo
-    broliui duotą privilegiją - fol. 127.
+  citata_rodoma: "21\nPatvirtinimas Vilniaus burmistrui \nCharitonui Charotičiui žeanės Mai­\nšiagalos ir Rudaminos pav. pagal Jo \nMalonybės karaliaus Aleksandro jo \nbroliui duotą privilegiją - fol. 127."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87644
+    - t-001

@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-01998"></a>
 - t-001
-  global_id: t-01998
   teiginys: "Susidūrę su lietuviais, svetimieji pastebėdavo šventuosius miškus, amžinąsias ugnis, dievų vardus ir tikybines apeigas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,14 +76,11 @@ Nenurodyta
     Be to, susidurdami su lietuviais, jie čia pastebėdavo daug to, kas
     jiems būdavo nesuprantama ir nepaprasta: šventuosius miškus, amži-
     nąsias ugnis, keistus dievų vardus, keistas tikybines apeigas.
-  citata_rodoma: |
-    Be to, susidurdami su lietuviais, jie čia pastebėdavo daug to, kas
-    jiems būdavo nesuprantama ir nepaprasta: šventuosius miškus, amži-
-    nąsias ugnis, keistus dievų vardus, keistas tikybines apeigas.
+  citata_rodoma: "Be to, susidurdami su lietuviais, jie čia pastebėdavo daug to, kas\njiems būdavo nesuprantama ir nepaprasta: šventuosius miškus, amži-\nnąsias ugnis, keistus dievų vardus, keistas tikybines apeigas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01998
+    - t-001

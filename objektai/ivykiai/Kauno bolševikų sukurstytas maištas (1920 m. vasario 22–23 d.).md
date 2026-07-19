@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41277"></a>
-- t-001
-  global_id: t-41277
+- t-002
   teiginys: "Lietuvos vyriausybė numalšino Kauno maištą, todėl lenkai prarado pretekstą atviram Kauno puolimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-44899
 
 <a id="claim-t-41278"></a>
-- t-002
-  global_id: t-41278
+- t-001
   teiginys: "1920 m. vasario 22–23 d. Kaune kilusio bolševikų sukurstyto maišto pergalė būtų suteikusi Lenkijai pretekstą pulti Lietuvą atvira karine jėga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,19 +104,15 @@ Nenurodyta
     provokacijos ir smulkūs susirėmimai tarp lenkų ir lietuvių, nepaisant
     to, vyko iki pat 1920 m. balandžio, kai lenkai pradėjo stambų puolimą
     rytuose prieš bolševikus, sutelkdami visas kovingas pajėgas prieš rusus.
-  citata_rodoma: |
-    Tačiau Lietuvos vyriausybė maištą numal-
-    Sino ir lenkai prarado pretekstą atviram Kauno puolimui. Įvairios
-    provokacijos ir smulkūs susirėmimai tarp lenkų ir lietuvių, nepaisant
-    to, vyko iki pat 1920 m. balandžio, kai lenkai pradėjo stambų puolimą
-    rytuose prieš bolševikus, sutelkdami visas kovingas pajėgas prieš rusus.
+  citata_rodoma: "Tačiau Lietuvos vyriausybė maištą numal-\nSino ir lenkai prarado pretekstą atviram Kauno puolimui. Įvairios\nprovokacijos ir smulkūs susirėmimai tarp lenkų ir lietuvių, nepaisant\nto, vyko iki pat 1920 m. balandžio, kai lenkai pradėjo stambų puolimą\nrytuose prieš bolševikus, sutelkdami visas kovingas pajėgas prieš rusus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41277
+    - t-002
+
 - id: c-44900
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -130,16 +124,11 @@ Nenurodyta
     poziciją, kad Lietuvos vyriausybė yra prokomunistinė ir leidusi pulti
     Lietuvą atvira karine jėga. Tačiau Lietuvos vyriausybė maištą numal-
     Sino ir lenkai prarado pretekstą atviram Kauno puolimui.
-  citata_rodoma: |
-    1920 m. pradžioje lenkai pradėjo telkti dideles pajėgas palei de-
-    markacijos liniją su Lietuva. 1920 m. vasario 22-23 d. Kaune kilo bolše-
-    vikų sukurstytas maištas, jo pergalė būtų įrodžiusi Lenkijos tarptautinę
-    poziciją, kad Lietuvos vyriausybė yra prokomunistinė ir leidusi pulti
-    Lietuvą atvira karine jėga.
+  citata_rodoma: "1920 m. pradžioje lenkai pradėjo telkti dideles pajėgas palei de-\nmarkacijos liniją su Lietuva. 1920 m. vasario 22-23 d. Kaune kilo bolše-\nvikų sukurstytas maištas, jo pergalė būtų įrodžiusi Lenkijos tarptautinę\npoziciją, kad Lietuvos vyriausybė yra prokomunistinė ir leidusi pulti\nLietuvą atvira karine jėga."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41278
+    - t-001

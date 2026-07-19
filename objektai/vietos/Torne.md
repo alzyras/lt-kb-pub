@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-193280"></a>
 - t-001
-  global_id: t-193280
   teiginys: "1466 m. Torne buvo pasirašyta taika, kuria ordinas pasidarė Lenkijos vasalu ir perleido jai daug žemių."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193280
+    - t-001

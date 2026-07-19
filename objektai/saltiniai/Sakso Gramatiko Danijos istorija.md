@@ -36,7 +36,6 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
 
 <a id="claim-t-61278"></a>
 - t-001
-  global_id: t-61278
   teiginys: "Sakso Gramatiko Danijos istorijoje minimi Rutheni greičiausiai buvo venedai, apie kuriuos rašė Dusburgietis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61278
+    - t-001

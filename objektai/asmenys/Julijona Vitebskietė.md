@@ -35,33 +35,6 @@ media_all_json: |-
 
 Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaikinta Ragučio maldykla Didžiojoje gatvėje.
 
-## Teiginiai
-
-<a id="claim-t-190105"></a>
-- t-001
-  global_id: t-190105
-  teiginys: "Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaikinta Ragučio maldykla Didžiojoje gatvėje."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_zmona -> Algirdas (Lietuvos valdovas): 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Julijona Vitebskietė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Julijoną kaip Algirdo žmoną."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Julijona Vitebskietė buvo žmona Algirdas (Lietuvos valdovas) (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1331 m.; įvykio data: apie 1331 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Julijona Vitebskietė buvo žmona Algirdas (Lietuvos valdovas)“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Subjektas ir objektas išskleisti iš platesnio konteksto, o vieta sutrumpinta. Religinės interpretacijos ir pagiriamojo titulo neperimta kaip neutralios faktinės kalbos."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172988
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaikinta Ragučio maldykla Didžiojoje gatvėje.'
@@ -81,8 +54,7 @@ Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaiki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190105
+
 ## Citatos
 
 - id: c-172988
@@ -101,22 +73,40 @@ Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaiki
     ir laisvai gyvendami, ilgai džiaugėsi palaiminga būtimi; šito
     liudytojai buvo miestas, pilis ir šventyklos, garsėjusios labai
     gražiais ir nuostabą keliančiais pastatais.
-  citata_rodoma: |
-    Viena tokia buvo Didžiojoje
-    gatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių
-    kunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.
-    Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
-    ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­
-    vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.
-    Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­
-    tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
-    dyklos vietoje įkūrė cerkvę su šventiku.
+  citata_rodoma: "Viena tokia buvo Didžiojoje\ngatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių\nkunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.\nMaldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­\nko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­\nvei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.\nŠi pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­\ntos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­\ndyklos vietoje įkūrė cerkvę su šventiku."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190105
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-190105"></a>
+- t-001
+  teiginys: "Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaikinta Ragučio maldykla Didžiojoje gatvėje."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_zmona -> Algirdas (Lietuvos valdovas): 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Julijona Vitebskietė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Julijoną kaip Algirdo žmoną."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Julijona Vitebskietė buvo žmona Algirdas (Lietuvos valdovas) (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1331 m.; įvykio data: apie 1331 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Julijona Vitebskietė buvo žmona Algirdas (Lietuvos valdovas)“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Subjektas ir objektas išskleisti iš platesnio konteksto, o vieta sutrumpinta. Religinės interpretacijos ir pagiriamojo titulo neperimta kaip neutralios faktinės kalbos."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172988
+
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

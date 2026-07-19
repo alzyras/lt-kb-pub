@@ -38,7 +38,6 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
 
 <a id="claim-t-30684"></a>
 - t-001
-  global_id: t-30684
   teiginys: "S. Stanevičius kritikavo J. Lasickio knygutę apie žemaičių dievus, nes joje paprasti kalbos žodžiai esą paversti dievų vardais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,51 +52,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   pagrindžia:
     - c-32971
 
-<a id="claim-t-188415"></a>
-- t-002
-  global_id: t-188415
-  teiginys: "Narbutas nurodo, kad pavadinimas „Burtininkė“ yra Lasickio mitologijoje."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lasickis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Lasickis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickis\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171305
-    - c-002
-<a id="claim-t-188418"></a>
-- t-003
-  global_id: t-188418
-  teiginys: "Narbutas nurodo, kad Lasickis trumpai paminėjo paprotį parsinešti pirmąjį rugių pėdelį prieš rugiapjūtę."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lasickis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Lasickis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickis\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171308
-    - c-005
 <a id="claim-t-188419"></a>
-- t-004
-  global_id: t-188419
+- t-006
   teiginys: "Narbutas rašo, kad Lasickis paliko žinią apie sūduvių bendrą derliaus nuėmimo šventę su aukomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -115,52 +71,22 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171309
-    - c-006
-<a id="claim-t-188420"></a>
-- t-005
-  global_id: t-188420
-  teiginys: "Narbutas Lasickį vadina šių apeigų liudytoju ir teigia, kad Lasickis pridūrė apie atpildą už tikėjimą."
-  atnaujinta: "2026-07-12 22:33"
+
+<a id="claim-t-188421"></a>
+- t-008
+  teiginys: "Narbutas rašo, kad Lasickis pateikė po Ilgių šventės atliekamų mirusiųjų pagerbimo apeigų aprašymą."
+  atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lasickis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Lasickis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickis\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171310
-    - c-007
-<a id="claim-t-188421"></a>
-- t-006
-  global_id: t-188421
-  teiginys: "Narbutas rašo, kad Lasickis pateikė po Ilgių šventės atliekamų mirusiųjų pagerbimo apeigų aprašymą."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lasickis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Lasickis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickis\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171311
-    - c-008
+
 <a id="claim-t-188423"></a>
-- t-007
-  global_id: t-188423
+- t-010
   teiginys: "Narbutas naudojosi 1823 m. Vilniaus periodikoje išspausdintu lenkišku Jono Lasickio mitologijos vertimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -183,8 +109,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - c-171313
 
 <a id="claim-t-197305"></a>
-- t-008
-  global_id: t-197305
+- t-011
   teiginys: "Jonas Lasickis atsistodavo ant kėdutės veidu į duris, o visi dalyvaujantys nukreipdavo veidus į ją."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -196,8 +121,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - c-179117
 
 <a id="claim-t-197306"></a>
-- t-009
-  global_id: t-197306
+- t-012
   teiginys: "Jonas Lasickis atsistodavo ant kėdutės veidu į duris, o visi dalyviai pakeldavo veidus į ją."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -223,8 +147,6 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188415
 - c-005
   santrauka: 'Narbutas nurodo, kad Lasickis trumpai paminėjo paprotį parsinešti pirmąjį rugių pėdelį prieš rugiapjūtę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -240,8 +162,6 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188418
 - c-006
   santrauka: 'Narbutas rašo, kad Lasickis paliko žinią apie sūduvių bendrą derliaus nuėmimo šventę su aukomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -262,8 +182,6 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188419
 - c-007
   santrauka: 'Narbutas Lasickį vadina šių apeigų liudytoju ir teigia, kad Lasickis pridūrė apie atpildą už tikėjimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -278,8 +196,6 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188420
 - c-008
   santrauka: 'Narbutas rašo, kad Lasickis pateikė po Ilgių šventės atliekamų mirusiųjų pagerbimo apeigų aprašymą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -297,8 +213,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188421
+
 ## Citatos
 
 - id: c-32971
@@ -313,20 +228,15 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     prieš 20 metų, metodiškai tyrinėjant^42 , buvo akivaizdžiai matyti,
     kad Stanevičius buvo pradėjęs moksliniu atžvilgiu teisingai statyti
     klausimus.
-  citata_rodoma: |
-    , Stanevičius
-    su pagrindu kritikavo J. Lasickio knygutę « apie Žemaičių dievus »,
-    kurioje paprasti kalbos žodžiai esą padaryti dievų vardais^41. Tik
-    prieš 20 metų, metodiškai tyrinėjant^42 , buvo akivaizdžiai matyti,
-    kad Stanevičius buvo pradėjęs moksliniu atžvilgiu teisingai statyti
-    klausimus.
+  citata_rodoma: ", Stanevičius\nsu pagrindu kritikavo J. Lasickio knygutę « apie Žemaičių dievus »,\nkurioje paprasti kalbos žodžiai esą padaryti dievų vardais^41. Tik\nprieš 20 metų, metodiškai tyrinėjant^42 , buvo akivaizdžiai matyti,\nkad Stanevičius buvo pradėjęs moksliniu atžvilgiu teisingai statyti\nklausimus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30684
+    - t-001
+
 - id: c-171305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -347,18 +257,13 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
     si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
     kaip tai pamatysime toliau.
-  citata_rodoma: |
-    Burtininkė (Burte)
-    Lietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­
-    vo įvairias dainas, taip pat pranašaudavo (burdavo). Tas pava­
-    dinimas yra Lasickio mitologijoje.
+  citata_rodoma: "Burtininkė (Burte)\nLietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­\nvo įvairias dainas, taip pat pranašaudavo (burdavo). Tas pava­\ndinimas yra Lasickio mitologijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188415
 - id: c-171308
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -374,20 +279,13 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     Įėjus į namą, pjovėja, stovėdama priešais šeimininką, linki ge­
     ros sveikatos, kad laimingai suvartotų šį derlių, sulauktų nau­
     jo.
-  citata_rodoma: |
-    Papjumenė (Papiumene)
-    Pjūties šventė. Ji švenčiama liepos mėnesį, pradėjus rugiap­
-    jūte, kai saulė įžengia į dangiškojo Liūto ženklą. Lasickis trum­
-    pai pamini, kad šeimininkas, nupjovęs patį pirmąjį pėdelį ru­
-    gių, parsinešdavo jį namo ir rytojaus dieną prasidėdavo ru­
-    giapjūtė.
+  citata_rodoma: "Papjumenė (Papiumene)\nPjūties šventė. Ji švenčiama liepos mėnesį, pradėjus rugiap­\njūte, kai saulė įžengia į dangiškojo Liūto ženklą. Lasickis trum­\npai pamini, kad šeimininkas, nupjovęs patį pirmąjį pėdelį ru­\ngių, parsinešdavo jį namo ir rytojaus dieną prasidėdavo ru­\ngiapjūtė."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188418
 - id: c-171309
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -402,25 +300,15 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     žąsiną ir žąsį ir 1.1., tai yra po porą visų naminių paukščių ir
     gyvulių, auginamų maistui; patinus aukodavo dievams, pate­
     les - deivėms.
-  citata_rodoma: |
-    Žemdirbių šventė baigiasi vėly­
-    vą naktį vaišėmis, muzika, dainomis. Tačiau senovėje, be šito
-    privataus, kiekvienam šeimininkui įprasto šventimo, būdavo
-    viso kaimo arba valsčiaus bendra šventė, visiems ūkininkams
-    333
-
-    ## Puslapis 333
-
-    visiškai nuėmus derlių; tuo metu būdavo atnašaujamos au­
-    kos. Tokią žinią Lasickis paliko mums iš savo duomenų apie
-    tai, ką buvo pastebėjęs prūsų tautoje sūduviuose.
+  citata_rodoma: "Žemdirbių šventė baigiasi vėly­\nvą naktį vaišėmis, muzika, dainomis. Tačiau senovėje, be šito\nprivataus, kiekvienam šeimininkui įprasto šventimo, būdavo\nviso kaimo arba valsčiaus bendra šventė, visiems ūkininkams\n333\n\n## Puslapis 333\n\nvisiškai nuėmus derlių; tuo metu būdavo atnašaujamos au­\nkos. Tokią žinią Lasickis paliko mums iš savo duomenų apie\ntai, ką buvo pastebėjęs prūsų tautoje sūduviuose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188419
+    - t-006
+
 - id: c-171310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -436,19 +324,15 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     surinkę smulkesnes žinias, kokios galėjo pasitaikyti tyrinėjant,
     be abejo, liko dar daug neatskleistų, žinomų pavienėms lietu­
     vių genties tautoms arba visoms bendrai.
-  citata_rodoma: |
-    Vaižgantas mums bus maloningas, nes Baniutė, mū­
-    sų kaimo gražiausia mergelė, be rikto išstovėjo ant vienos ko­
-    jos“. Lasickis, šių apeigų liudytojas, priduria, kad už tikėjimą
-    sulaukdavę atpildo. Yra ir kitokių padavimų, kuriais pasinau­
-    dojome šiame aprašyme.
+  citata_rodoma: "Vaižgantas mums bus maloningas, nes Baniutė, mū­\nsų kaimo gražiausia mergelė, be rikto išstovėjo ant vienos ko­\njos“. Lasickis, šių apeigų liudytojas, priduria, kad už tikėjimą\nsulaukdavę atpildo. Yra ir kitokių padavimų, kuriais pasinau­\ndojome šiame aprašyme."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188420
+    - t-008
+
 - id: c-171311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -470,22 +354,13 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     kotoruiuž horu tmdno budėt vzoyty, bez tych nohtey rysich, abo
     medvežych, y dla toho tyle nohty podle nich kladyvali, na koto-
     22 Lucas David.
-  citata_rodoma: |
-    Tai visiškai primena Antikos žmonių
-    Circumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-
-    lonas bandė išnaikinti Atėnuose, o decemvirai -  Romoje. Be
-    šitų iškilmių, kiekviena šventė, išskyrus Rasos šventę, baigda­
-    vosi minėjimu mirusiųjų garbei: Lasickis iš savo žinių pateikia
-    apeigų mirusiųjų garbei, atliekamų po Ilgių šventės, aprašymą.
-    Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai­
-    mas visiems savo mirusiesiems pagerbti.
+  citata_rodoma: "Tai visiškai primena Antikos žmonių\nCircumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-\nlonas bandė išnaikinti Atėnuose, o decemvirai -  Romoje. Be\nšitų iškilmių, kiekviena šventė, išskyrus Rasos šventę, baigda­\nvosi minėjimu mirusiųjų garbei: Lasickis iš savo žinių pateikia\napeigų mirusiųjų garbei, atliekamų po Ilgių šventės, aprašymą.\nTa diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai­\nmas visiems savo mirusiesiems pagerbti."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188421
 - id: c-171313
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -503,7 +378,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188423
+    - t-010
+
 - id: c-179117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -525,7 +401,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197305
+    - t-011
+
 - id: c-179118
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -547,4 +424,4 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197306
+    - t-012

@@ -61,8 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09926"></a>
-- t-001
-  global_id: t-09926
+- t-002
   teiginys: "Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/02_clean_quotes.md"
@@ -100,15 +99,11 @@ Nenurodyta
     išaugęs pavojus vertė sudaryti Liublino
     uniją (1569 m.) su Lenkija Lietuvai
     nepalankiomis sąlygomis.
-  citata_rodoma: |
-    Lietuvos ir Lenkijos valdovo Stepono Batoro pa-
-    radinis kalavijas, pagamintas pergalingoms Lietuvių ir jų
-    sąjungininkų kampanijoms Maskvos žemėse Livonijos karo
-    metu (1558-1582) atminti.
+  citata_rodoma: "Lietuvos ir Lenkijos valdovo Stepono Batoro pa-\nradinis kalavijas, pagamintas pergalingoms Lietuvių ir jų\nsąjungininkų kampanijoms Maskvos žemėse Livonijos karo\nmetu (1558-1582) atminti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09926
+    - t-002

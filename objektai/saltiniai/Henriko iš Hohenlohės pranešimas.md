@@ -43,7 +43,6 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
 
 <a id="claim-t-175155"></a>
 - t-001
-  global_id: t-175155
   teiginys: "Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino pajėgų sutriuškinimas siejamas su lietuviais ir prūsais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     - c-159312
 
 <a id="claim-t-175157"></a>
-- t-002
-  global_id: t-175157
+- t-003
   teiginys: "Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,44 +81,25 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     - c-159310
 
 <a id="claim-t-175158"></a>
-- t-003
-  global_id: t-175158
+- t-006
   teiginys: "Henriko iš Hohenlohės pranešime minimi Liubeko pirkliai, padėję maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Elbingas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Elbingas tiesiogiai įvardytas kaip Ordino pilis."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Baiga priklausė Kryžiuočių ordinas (0.87); Elbingas priklausė Kryžiuočių ordinas (0.87)"
   pagrindžia:
-    - c-159316
-    - c-007
+    - c-159311
+
 <a id="claim-t-175159"></a>
-- t-004
-  global_id: t-175159
+- t-008
   teiginys: "Henriko iš Hohenlohės pranešime kryžiuočių pilių statybos seka pateikiama taip: po Marienverderio statytas Cristhborgk, vėliau Elbingas ir Honeda-Baiga."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Elbingas: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Elbingas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje pateikiama kryžiuočių pilių statybos seka, kurioje Elbingas minimas kaip vėliau statyta pilis."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Elbingas (0.74); Kryžiuočių ordinas pastatė Baiga (0.72); Kryžiuočių ordinas pastatė Marienverderis (0.63)"
   pagrindžia:
-    - c-159314
-    - c-006
+    - c-159312
+
 <a id="claim-t-175160"></a>
-- t-005
-  global_id: t-175160
+- t-002
   teiginys: "Henriko iš Hohenlohės pranešime prūsų pasiuntinių vardai pateikti kaip Petraten, Preroch ir Thorandt."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -136,8 +115,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     - c-159311
 
 <a id="claim-t-175161"></a>
-- t-006
-  global_id: t-175161
+- t-004
   teiginys: "Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -155,12 +133,11 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   temporalinis_llm_pakomentavimas: "Citata palaiko teiginį apie Hohenlohės reliacijoje priskiriamą Konrado dovanojimą."
   pagrindžia:
     - c-159313
-    - c-005
+
 <a id="claim-t-175162"></a>
 - t-007
-  global_id: t-175162
   teiginys: "Vidurio Henriko iš Hohenlohės pranešimas — tik 500 vyrų (SRP, 5, p. 166)."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1244 m.; įvykio data: 1245 m."
@@ -168,8 +145,8 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-159309
-    - c-001
+    - c-159312
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vidurio Henriko iš Hohenlohės pranešimas — tik 500 vyrų (SRP, 5, p. 166).'
@@ -182,8 +159,6 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175162
 - c-005
   santrauka: 'Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -197,8 +172,6 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175161
 - c-006
   santrauka: 'Henriko iš Hohenlohės pranešime kryžiuočių pilių statybos seka pateikiama taip: po Marienverderio statytas Cristhborgk, vėliau Elbingas ir Honeda-Baiga.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -212,8 +185,6 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175159
 - c-007
   santrauka: 'Henriko iš Hohenlohės pranešime minimi Liubeko pirkliai, padėję maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -228,8 +199,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175158
+
 ## Citatos
 
 - id: c-159309
@@ -244,16 +214,13 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     kančios sujaudino Vokietijos kunigaikščius bei kilminguosius, o Austrijos kunigaikštis294
     pasiuntė jiems talkinti savo stalininką Druzigerį su didele kariuomene ir su įgudusiais
     kariauti vyrais, be to, atvyko riteris Henrikas iš Lichtenšteino, o su juo daug maldininkų.
-  citata_rodoma: |
-    292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas
-    — tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje.
+  citata_rodoma: "292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas\n— tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-175162
 - id: c-159310
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -268,7 +235,8 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175157
+    - t-003
+
 - id: c-159311
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -284,18 +252,16 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
       165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
     įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten. Preroch, Thorandt (SRP,
     5, p. 159).
-  citata_rodoma: |
-    Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
-      165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
-    įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten. Preroch, Thorandt (SRP,
-    5, p. 159).
+  citata_rodoma: "Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems\n  165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis\nįvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten. Preroch, Thorandt (SRP,\n5, p. 159)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175160
+    - t-006
+    - t-002
+
 - id: c-159312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -307,19 +273,17 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     sūduvių kariuomenę  (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
     — nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
     prūsų kovą nuo Lietuvos, jos karinių pastangų.
-  citata_rodoma: |
-    Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
-    jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė  ir
-    Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų  ir
-    sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
-    — nurodo „lietuvius ir prūsus“144.
+  citata_rodoma: "Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną\njau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė  ir\nOrdino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų  ir\nsūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas\n— nurodo „lietuvius ir prūsus“144."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175155
+    - t-001
+    - t-008
+    - t-007
+
 - id: c-159313
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -332,18 +296,15 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     dokumentas, kurio aprašas išlikęs 1234 m. popiežiaus kanceliarijos registre; manoma,
     kad jis kryžiuočių sufalsifikuotas 1234 m.,— PUB, 1, 1, Nr. 78) bei juo paremta 1234 m.
     popiežiaus bulė (PUB, 1, 1, Nr. 108).
-  citata_rodoma: |
-    172  Dusburgietis kaip ir Hohenlohės reliacija (SRP, 5, p. 160) teigia, kad Konradas
-    dovanojęs Ordinui Kulmo bei Lubavos žemes, suteikdamas visas teises, taip pat žemes,
-    kurias ateityje Ordinas atkovosiąs iš pagonių. Tačiau pirmasis Konrado užrašymas Ordinui
-    1228 m.
+  citata_rodoma: "172  Dusburgietis kaip ir Hohenlohės reliacija (SRP, 5, p. 160) teigia, kad Konradas\ndovanojęs Ordinui Kulmo bei Lubavos žemes, suteikdamas visas teises, taip pat žemes,\nkurias ateityje Ordinas atkovosiąs iš pagonių. Tačiau pirmasis Konrado užrašymas Ordinui\n1228 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175161
+    - t-004
+
 - id: c-159314
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -361,18 +322,13 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     tikėjimą, kurį per begalinį vargą ir per garbingas įstangas krikščionys įdiegė, išrovei,
     vienus krikščionis negailestingai išžudydamas, kitus išsivarydamas į amžiną vergovę,
     todėl ne teisingumo ieškoki, bet pasigailėjimo“.
-  citata_rodoma: |
-    Dusburgiečio šaltinis
-    — Henriko iš Hohenlohės pranešimas — pateikia kiek kitokią kryžiuočių pilių statybos
-    seką: po Marienverderio buvęs statytas Cristhborgk, o tik po to — Elbingas, Honeda —
-    Baiga (SRP, 5, p. 160; PKD, p. 37).
+  citata_rodoma: "Dusburgiečio šaltinis\n— Henriko iš Hohenlohės pranešimas — pateikia kiek kitokią kryžiuočių pilių statybos\nseką: po Marienverderio buvęs statytas Cristhborgk, o tik po to — Elbingas, Honeda —\nBaiga (SRP, 5, p. 160; PKD, p. 37)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-175159
 - id: c-159316
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -387,16 +343,9 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
     Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie
     Višogrudo pilies291 ir ten įsikūrė stovyklą.
-  citata_rodoma: |
-    Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną
-
-      288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
-    5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
-    pilis — Elbingą ir Baigą. Visą operaciją jis priskiria išimtinai Ordino broliams.
+  citata_rodoma: "Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną\n\n  288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,\n5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino\npilis — Elbingą ir Baigą. Visą operaciją jis priskiria išimtinai Ordino broliams."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-175158

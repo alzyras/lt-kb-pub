@@ -47,7 +47,6 @@ Vilniuje veikusi masonų ložė.
 
 <a id="claim-t-54829"></a>
 - t-001
-  global_id: t-54829
   teiginys: "1816 m. ložės Uolusis Lietuvis sąraše buvo 114 narių, tarp jų nemažai Vilniaus universiteto profesorių."
   atnaujinta: "2026-06-13 17:21"
   sprendimo_priezastis: "gap::groups"
@@ -67,7 +66,6 @@ Vilniuje veikusi masonų ložė.
 
 <a id="claim-t-54830"></a>
 - t-002
-  global_id: t-54830
   teiginys: "Michał Baliński 1819 m. įstojo į ložę Uolusis Lietuvis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::groups"
@@ -101,17 +99,12 @@ Vilniuje veikusi masonų ložė.
     ## Puslapis 8
 
     1819 m. pats įstojo į šią ložę.
-  citata_rodoma: |
-    Tuo metu
-    Vilniuje veikė kelios masonų ložės. 1816 m. ložės Uolusis Lietu-
-    vis sąraše buvo 114 narių, tarp kurių nemažai Vilniaus universi-
-    teto profesorių. M. Balinskis daugelį iš jų asmeniškai pažinojo,
-    1819 m. pats įstojo į šią ložę.
+  citata_rodoma: "Tuo metu \nVilniuje veikė kelios masonų ložės. 1816 m. ložės Uolusis Lietu-\nvis sąraše buvo 114 narių, tarp kurių nemažai Vilniaus universi-\nteto profesorių. M. Balinskis daugelį iš jų asmeniškai pažinojo,\n1819 m. pats įstojo į šią ložę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54829
-    - t-54830
+    - t-001
+    - t-002

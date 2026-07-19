@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-193008"></a>
 - t-001
-  global_id: t-193008
   teiginys: "Odoakras, kariuomenės paskelbtas karaliumi, galėjo priimti imperatoriaus ženklus, purpurus ir sosto papuošalus, bet to nepadarė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175778
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Odoakras, kariuomenės paskelbtas karaliumi, galėjo priimti imperatoriaus ženklus, purpurus ir sosto papuošalus, bet to nepadarė.'
@@ -85,8 +84,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193008
+
 ## Citatos
 
 - id: c-175778
@@ -109,22 +107,11 @@ Nenurodyta
     prieglaudos Dalmatijoje, tuojau po Odoakro pergalės at­
     siuntė iškilmingą sveikinimą ir paskyrė jį patricijumi,
     t. y. imperatoriaus vietininku.
-  citata_rodoma: |
-    Romos senatas patvirtino Ro­
-    mulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro­
-    mulo karališkoji ir pirmojo Augusto įsteigtos karūnos,
-    pašalinimą iš imperatoriaus posto. Tarsi pats likimas pa­
-    noro, kad šis jaunuolis sujungtų anų įžymių Romos im­
-    perijos įkūrėjų vardus ir būtų paskutinis jų vadų ir ti­
-    tulų paveldėtojas. Savo kariuomenės paskelbtas karaliu­
-    mi, Odoakras galėjo priimti titulus ir sosto papuošalus,
-    bet iš kuklumo ar politinių sumetimų skatinamas, o gal
-    vengdamas įžeisti senatą, neliepė vadinti save nei im­
-    peratoriumi, nei Italijos karaliumi.
+  citata_rodoma: "Romos senatas patvirtino Ro­\nmulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro­\nmulo karališkoji ir pirmojo Augusto įsteigtos karūnos,\npašalinimą iš imperatoriaus posto. Tarsi pats likimas pa­\nnoro, kad šis jaunuolis sujungtų anų įžymių Romos im­\nperijos įkūrėjų vardus ir būtų paskutinis jų vadų ir ti­\ntulų paveldėtojas. Savo kariuomenės paskelbtas karaliu­\nmi, Odoakras galėjo priimti titulus ir sosto papuošalus,\nbet iš kuklumo ar politinių sumetimų skatinamas, o gal\nvengdamas įžeisti senatą, neliepė vadinti save nei im­\nperatoriumi, nei Italijos karaliumi."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193008
+    - t-001

@@ -39,7 +39,6 @@ Dusburgietis teigia, kad liz- ‘pailsėti’ — MPKP, 2, p. 31), kurios ieško
 
 <a id="claim-t-60719"></a>
 - t-001
-  global_id: t-60719
   teiginys: "T. Jasińskis Lisske lokalizavo saloje prie Senosios Torunės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Dusburgietis teigia, kad liz- ‘pailsėti’ — MPKP, 2, p. 31), kurios ieško
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60719
+    - t-001

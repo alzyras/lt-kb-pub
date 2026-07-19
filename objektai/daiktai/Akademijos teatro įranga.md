@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-55027"></a>
 - t-001
-  global_id: t-55027
   teiginys: "Akademijos teatre buvo lentomis išklota nuožulni aktorių pakyla, ant audinio pieštos dekoracijos, paravanai, kėdės, suolai ir balkonai."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -66,7 +65,6 @@ Nenurodyta
 
 <a id="claim-t-55028"></a>
 - t-002
-  global_id: t-55028
   teiginys: "Prie teatro buvo podėlis scenos rykams laikyti su užrakinamomis durimis, pakopomis, plytelių grindimis, dūmtraukiu ir švino rėmų langu."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -83,7 +81,6 @@ Nenurodyta
 
 <a id="claim-t-81839"></a>
 - t-003
-  global_id: t-81839
   teiginys: "Akademijos teatro įrangoje buvo mediniai laipteliai, mūriniai lentomis apkalti laiptai ir podėlis scenos rykams laikyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -100,7 +97,6 @@ Nenurodyta
 
 <a id="claim-t-194180"></a>
 - t-004
-  global_id: t-194180
   teiginys: "Iš teatro leistis - mediniai laipteliai, o nuo jų po kaire ranka - laiptai žemyn, mūro, lentomis apkalti; prie jų durys su vidiniu užraktu ir raktu, ant vyrių įtaisytu, į podėlį scenos rykams laikyti, į jį įeiti - 4 pakopų laipteliai, grindys plytelių."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -146,7 +142,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55027
+    - t-001
+
 - id: c-55374
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -176,6 +173,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55028
-    - t-81839
-    - t-194180
+    - t-002
+    - t-003
+    - t-004

@@ -39,7 +39,6 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
 
 <a id="claim-t-26300"></a>
 - t-001
-  global_id: t-26300
   teiginys: "1948 m. Šeinfeldo stovykloje Vokietijoje Lietuvos pabėgėliai rinkosi dalijamus drabužius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,20 +74,14 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
     F. Ruzvelto išleistas įsakymas, kuriuo įšaldy-
     tos JAV bankuose laikytos Baltijos valstybių
     lėšos.
-  citata_rodoma: |
-    JAV prezidento
-    Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde)
-    renkasi dalijamus drabužius, 1948 m.
-
-    L I E T U V O S  I S T O R I J A
-    226
-    F.
+  citata_rodoma: "JAV prezidento \nLietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde)  \nrenkasi dalijamus drabužius, 1948 m.\n\nL I E T U V O S  I S T O R I J A\n226\nF."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26300
+    - t-001
+
 ## Ryšiai
 - Šeinfeldas priklausė [[objektai/vietos/Vokietija]]

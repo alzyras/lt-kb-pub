@@ -36,7 +36,6 @@ Dusburgietis teigia, kad kulikauskas P.
 
 <a id="claim-t-61110"></a>
 - t-001
-  global_id: t-61110
   teiginys: "P. Kulikausko veikalas „Užnemunės piliakalniai I—XIII amžiuje“ išleistas Vilniuje 1982 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Dusburgietis teigia, kad kulikauskas P.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61110
+    - t-001

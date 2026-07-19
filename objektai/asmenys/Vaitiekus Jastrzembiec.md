@@ -31,7 +31,6 @@ Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai 
 
 <a id="claim-t-35309"></a>
 - t-001
-  global_id: t-35309
   teiginys: "Vaitiekus Jastrzembiec buvo Poznaniaus vyskupas ir Lenkijos kancleris, aiškiai atsidavęs Vytauto reikalams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai 
 
 <a id="claim-t-184289"></a>
 - t-002
-  global_id: t-184289
   teiginys: "Poznaniaus vyskupas ir Lenkijos kancleris Vaitiekus Jastrzembiec buvo atsidavęs Vytauto reikalams."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -82,21 +80,15 @@ Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai 
     žant lenkų papročius ir tradicijas. Pagalbos reikalas iš Lietu­
     vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L. tapo
     Romos imperatorium, nes jis buvo sąjungoj su Ordinu.
-  citata_rodoma: |
-    Kaip tik tuo laiku
-    Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos
-    valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­
-    trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ). Pašauktas jis
-    buvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­
-    žant lenkų papročius ir tradicijas. Pagalbos reikalas iš Lietu­
-    vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L.
+  citata_rodoma: "Kaip tik tuo laiku\nVytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos\nvaldžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­\ntrzembiec, buvo aiškiai jo reikalams atsidavęs^3 ). Pašauktas jis\nbuvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­\nžant lenkų papročius ir tradicijas. Pagalbos reikalas iš Lietu­\nvos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35309
+    - t-001
+
 - id: c-167665
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -120,4 +112,4 @@ Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184289
+    - t-002

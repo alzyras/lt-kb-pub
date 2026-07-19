@@ -36,8 +36,7 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 ## Teiginiai
 
 <a id="claim-t-75514"></a>
-- t-001
-  global_id: t-75514
+- t-002
   teiginys: "Po 1918 m. gruodžio 16 d. manifesto Sovietų Rusija Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
     - c-73279
 
 <a id="claim-t-75515"></a>
-- t-002
-  global_id: t-75515
+- t-001
   teiginys: "Vladimiro Lenino pasirašytu dekretu Sovietų Rusija pripažino Sovietų Lietuvą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -88,16 +86,15 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
     damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
     16 dienos manifestu deklaravo Sovietų Lietuvą. Po savaitės ją Vladimiro
     Lenino pasirašytu dekretu pripažino Sovietų Rusija.
-  citata_rodoma: |
-    Po savaitės ją Vladimiro
-    Lenino pasirašytu dekretu pripažino Sovietų Rusija.
+  citata_rodoma: "Po savaitės ją Vladimiro\nLenino pasirašytu dekretu pripažino Sovietų Rusija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75515
+    - t-001
+
 - id: c-73279
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -114,4 +111,4 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75514
+    - t-002

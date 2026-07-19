@@ -34,13 +34,51 @@ media_all_json: |-
 
 Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta 1494 m. vasario 5 d. Maskvoje.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta 1494 m. vasario 5 d. Maskvoje.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Is Talkos sutartis tarp  LDK ir Maskvos Didžiosios Kunigaikš­
+    tystės buvo surašyta 1494.11.5 Maskvoje, Ivano Ilt-ojo prisiekta
+    1494.11.7. A leksandras prisiekė jai 1494.1V.22.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-170510
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Mirė apie 1505 m.
+    17 Vasilijus Ivanovičius Semiačičius — Haličo kunigaikščio Di-
+    mitro Jurjevičiaus Semiakos, laikinai buvusio Maskvos didžiuoju
+    kunigaikščiu, vaikaitis, Ivano Dlmitrijevičiaus Semiačičiaus (mirė
+    po 1471 m.) sūnus. Jo tėvas I454.V.1 persikėlė į Lietuvos valstybę
+    ir valdė Seversko-Naugardą ir Rylską, palikdamas juos sūnui Vasi­
+    lijui. 1500 m. balandžio mėn., kaip ir jo kaimynas Možaiskis, Vasi­
+    lijus Ivanovičius Semiačičius pasidavė su savo valdomis Maskvos
+    didžiajam kunigaikščiui.
+  citata_rodoma: "Is Talkos sutartis tarp  LDK ir Maskvos Didžiosios Kunigaikš­\ntystės buvo surašyta 1494.11.5 Maskvoje, Ivano Ilt-ojo prisiekta \n1494.11.7. A leksandras prisiekė jai 1494.1V.22."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-187560"></a>
 - t-001
-  global_id: t-187560
   teiginys: "Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta 1494 m. vasario 5 d. Maskvoje."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,46 +97,3 @@ Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta
   vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
   pagrindžia:
     - c-170510
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta 1494 m. vasario 5 d. Maskvoje.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Is Talkos sutartis tarp  LDK ir Maskvos Didžiosios Kunigaikš­
-    tystės buvo surašyta 1494.11.5 Maskvoje, Ivano Ilt-ojo prisiekta
-    1494.11.7. A leksandras prisiekė jai 1494.1V.22.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187560
-## Citatos
-
-- id: c-170510
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Mirė apie 1505 m.
-    17 Vasilijus Ivanovičius Semiačičius — Haličo kunigaikščio Di-
-    mitro Jurjevičiaus Semiakos, laikinai buvusio Maskvos didžiuoju
-    kunigaikščiu, vaikaitis, Ivano Dlmitrijevičiaus Semiačičiaus (mirė
-    po 1471 m.) sūnus. Jo tėvas I454.V.1 persikėlė į Lietuvos valstybę
-    ir valdė Seversko-Naugardą ir Rylską, palikdamas juos sūnui Vasi­
-    lijui. 1500 m. balandžio mėn., kaip ir jo kaimynas Možaiskis, Vasi­
-    lijus Ivanovičius Semiačičius pasidavė su savo valdomis Maskvos
-    didžiajam kunigaikščiui.
-  citata_rodoma: |
-    Is Talkos sutartis tarp  LDK ir Maskvos Didžiosios Kunigaikš­
-    tystės buvo surašyta 1494.11.5 Maskvoje, Ivano Ilt-ojo prisiekta
-    1494.11.7. A leksandras prisiekė jai 1494.1V.22.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187560

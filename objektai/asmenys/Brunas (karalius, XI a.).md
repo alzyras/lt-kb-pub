@@ -41,7 +41,6 @@ Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užside
 
 <a id="claim-t-201394"></a>
 - t-001
-  global_id: t-201394
   teiginys: "Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užsidegė meile žodžio Dievo ir gailesiu savo bendro Vaitiekaus vėl eiti netikėlių mokyti; to dėjęsis, leidos į Parusnį metuo se 1008 su 18 savo tarnų, tarp kurių du buvusiu zokanyku."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užside
 
 <a id="claim-t-201395"></a>
 - t-002
-  global_id: t-201395
   teiginys: "Kristijonas, apmo vęs abitu, vieną tarp jų, vardu Bruną, pakėlė rėdy toju, arba mistru."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -67,7 +65,6 @@ Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užside
 
 <a id="claim-t-201396"></a>
 - t-003
-  global_id: t-201396
   teiginys: "Būt rasi ir tą patį metą kryžėjai į Samiją trau kę, jei nebūt atkeliavęs į Parusnį Brunas, vyskupas Oknico, garsus ne vien kilčia ir grakštybe, bet pa girtas savo išminčia, gudryba ir mandagumu, kurs į vardą savo viešpaties Otokaro, karaliaus Čekų, kaipo jo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -81,8 +78,9 @@ Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užside
 ## Citatos
 
 - id: c-184744
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskesniai Bo­
     leslovas, didindamas jo godą kaipo savo tarno, už
@@ -107,11 +105,12 @@ Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užside
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201394
+    - t-001
 
 - id: c-184745
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Rados tuojau karėjų, kurie tuojau no­
     1 V o i g t, Preus. Geschich., ,T. I, K. VII, S. 460.
@@ -126,11 +125,12 @@ Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užside
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201395
+    - t-002
 
 - id: c-184746
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tarp diduomių samionų rado sau bendrą
     kryžėjai jomylistą ponaitį vadinamą, kurį mistras
@@ -156,4 +156,4 @@ Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užside
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201396
+    - t-003

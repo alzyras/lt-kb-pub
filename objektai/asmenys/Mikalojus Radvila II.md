@@ -30,8 +30,7 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
 ## Teiginiai
 
 <a id="claim-t-87555"></a>
-- t-001
-  global_id: t-87555
+- t-002
   teiginys: "Mikalojus Radvila II savo lėšomis naujai pamūrijo Šv. Pranciškaus ir Bernardo vardu pavadintą bernardinų bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
     - c-83535
 
 <a id="claim-t-87556"></a>
-- t-002
-  global_id: t-87556
+- t-001
   teiginys: "Vilniaus vaivada Mikalojus Radvila II dosniai prisidėjo prie Bernardinų bažnyčios perstatymo, kai dėl silpnų pamatų jai grėsė griūtis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,8 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87556
+    - t-001
+
 - id: c-83535
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -103,4 +102,4 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87555
+    - t-002

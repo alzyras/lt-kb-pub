@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185580"></a>
 - t-001
-  global_id: t-185580
   teiginys: "Kameneco gynėjų Podolės ir Valachijos kariai susipyko, todėl buvo pasiųsti žygūnai tartis dėl pilies perdavimo sąlygų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-185581"></a>
 - t-002
-  global_id: t-185581
   teiginys: "Perdavus Kameneco pilį ir Podolę vėl prijungus prie Lietuvos, Vytautas pilyse ir miestuose paliko lietuvių įgulas bei vietininkus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -83,7 +81,6 @@ Nenurodyta
 
 <a id="claim-t-196172"></a>
 - t-003
-  global_id: t-196172
   teiginys: "Kojelavičiaus pasakojime Kameneco kapituliacijai kelią atvėrė Podolės ir Valachijos karių nesutarimai, galėję kilti dėl Vytauto klastingumo ar kitos priežasties."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -121,7 +118,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185580
+    - t-001
+
 - id: c-168942
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -149,5 +147,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185581
-    - t-196172
+    - t-002
+    - t-003

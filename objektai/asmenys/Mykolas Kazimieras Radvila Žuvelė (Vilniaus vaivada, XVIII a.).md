@@ -37,8 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200534"></a>
-- t-001
-  global_id: t-200534
+- t-004
   teiginys: "1752 m. Jonas Dominykas Lopacinskis tikėjosi per seimelį pasiderėti su Vilniaus vaivada Mykolu Kazimieru Radvila Žuvele dėl brolio interesų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md::validation_repair"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-183920
 
 <a id="claim-t-200701"></a>
-- t-002
-  global_id: t-200701
+- t-005
   teiginys: "1752 m. Jonas Dominykas Lopacinskis minėjo Mykolo Kazimiero Radvilos Žuvelės atvykimą ir galimas derybas dėl brolio interesų per seimelį."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "auto"
@@ -121,23 +119,12 @@ media_all_json: |-
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede"
   puslapiai: "PDF 5"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
-  citata_originali: |
-    J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-
-    ninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /
-    Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
-    Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
-    Karolis Piotrovskis (Karol Piotrowski) [9]. 1752 m. J. D. Lopacinskis minėjo, kad atvyks
-    Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
-    per seimelį dėl brolio interesų.
-  citata_rodoma: |
-    1752 m. J. D. Lopacinskis minėjo, kad atvyks Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti per seimelį dėl brolio interesų.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200534
+    - t-004
+
 - id: c-184047
   autorius: "Domininkas Burba"
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
@@ -146,8 +133,5 @@ media_all_json: |-
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200701
+    - t-005

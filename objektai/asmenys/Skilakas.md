@@ -31,7 +31,6 @@ Narbutas rašė, kad Skilakas spėjo apie prie Kaspijos gyvenusius gelonus, kuri
 
 <a id="claim-t-191356"></a>
 - t-001
-  global_id: t-191356
   teiginys: "Narbutas rašė, kad Skilakas spėjo apie prie Kaspijos gyvenusius gelonus, kurių pats šiame skyriuje toliau nenagrinėjo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Narbutas rašė, kad Skilakas spėjo apie prie Kaspijos gyvenusius gelonus, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191356
+    - t-001

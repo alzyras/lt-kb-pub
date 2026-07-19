@@ -47,8 +47,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
 ## Teiginiai
 
 <a id="claim-t-64500"></a>
-- t-001
-  global_id: t-64500
+- t-010
   teiginys: "Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patarimais ir buvo numatytas įžangos žodžio autorius."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-13902
 
 <a id="claim-t-64501"></a>
-- t-002
-  global_id: t-64501
+- t-014
   teiginys: "Zenonas Ivinskis vertino, kad A. Aleknos „Katalikų Bažnyčia Lietuvoje“ parodė jo gebėjimą kritiškai ir objektyviai vertinti šaltinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-30385
 
 <a id="claim-t-64502"></a>
-- t-003
-  global_id: t-64502
+- t-015
   teiginys: "A. Alekna, remdamasis Kauno vyskupijos kurijos archyvine medžiaga, 1923 m. išleido veikalą „Žemaičių vysk. M. Valančius“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-30385
 
 <a id="claim-t-64503"></a>
-- t-004
-  global_id: t-64503
+- t-009
   teiginys: "A. Aleknos „Lietuvos istorijos“ antras leidimas buvo išleistas Tilžėje 1923 m."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -116,8 +112,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-13903
 
 <a id="claim-t-64504"></a>
-- t-005
-  global_id: t-64504
+- t-013
   teiginys: "Antanas Alekna 1922–1930 m. dėstė Lietuvos istoriją, jos šaltinius ir istorinę geografiją Teologijos-Filosofijos fakulteto Filosofijos skyriuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -136,8 +131,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-30385
 
 <a id="claim-t-64505"></a>
-- t-006
-  global_id: t-64505
+- t-011
   teiginys: "Prof. A. Alekna peržiūrėjo ir patikrino apie Vytautą Didįjį išleistą plačią monografiją."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -153,8 +147,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-13904
 
 <a id="claim-t-64506"></a>
-- t-007
-  global_id: t-64506
+- t-012
   teiginys: "A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -197,16 +190,15 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     1970.
     AlBL = Alekna, A. : Katalikų Bažnyčia Lietuvoje, Kaunas 1936
     (spaudai paruošė kim. J. Stakauskas).
-  citata_rodoma: |
-    AlBL = Alekna, A. : Katalikų Bažnyčia Lietuvoje, Kaunas 1936
-    (spaudai paruošė kim. J. Stakauskas).
+  citata_rodoma: "AlBL = Alekna, A. : Katalikų Bažnyčia Lietuvoje, Kaunas 1936\n(spaudai paruošė kim. J. Stakauskas)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64506
+    - t-012
+
 - id: c-13902
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -221,19 +213,15 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     siam naudingais patarimais šią monografiją rašant bei reda­
     guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
     ligos negalėjo parašyti šiai knygai įžangos žodžio.
-  citata_rodoma: |
-    Pagaliau nieku būdu negalime praeiti pro šalį nepareiškę
-    didelio dėkingumo gerb. prof. A. Aleknai mielai padėju­
-    siam naudingais patarimais šią monografiją rašant bei reda­
-    guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
-    ligos negalėjo parašyti šiai knygai įžangos žodžio.
+  citata_rodoma: "Pagaliau nieku būdu negalime praeiti pro šalį nepareiškę\ndidelio dėkingumo gerb. prof. A. Aleknai mielai padėju­\nsiam naudingais patarimais šią monografiją rašant bei reda­\nguojant, ir kartu apgailestaujam, kad gerb, profesorius dėl\nligos negalėjo parašyti šiai knygai įžangos žodžio."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64500
+    - t-010
+
 - id: c-13903
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -247,7 +235,8 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64503
+    - t-009
+
 - id: c-13904
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -264,7 +253,8 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64505
+    - t-011
+
 - id: c-30385
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -286,6 +276,6 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64501
-    - t-64502
-    - t-64504
+    - t-014
+    - t-015
+    - t-013

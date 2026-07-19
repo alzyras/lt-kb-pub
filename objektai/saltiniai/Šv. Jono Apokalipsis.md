@@ -34,7 +34,6 @@ Jono Apokalipsis, 1000 metų sukakus, bus pabanga šio svieto.
 
 <a id="claim-t-201454"></a>
 - t-001
-  global_id: t-201454
   teiginys: "Jono Apokalipsis, 1000 metų sukakus, bus pabanga šio svieto."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,9 @@ Jono Apokalipsis, 1000 metų sukakus, bus pabanga šio svieto.
 ## Citatos
 
 - id: c-184804
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kiekvienas gal numanyti, jog keleiviai tokioj toli­
     moj kelionėj viso prityrę, tai yra: vargų, rūpesnių
@@ -65,4 +65,4 @@ Jono Apokalipsis, 1000 metų sukakus, bus pabanga šio svieto.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201454
+    - t-001

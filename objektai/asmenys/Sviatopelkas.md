@@ -40,7 +40,6 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
 
 <a id="claim-t-190213"></a>
 - t-001
-  global_id: t-190213
   teiginys: "Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų Prūsijos provincijų gyventojų kovas su kryžiuočiais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
 
 <a id="claim-t-201029"></a>
 - t-002
-  global_id: t-201029
   teiginys: "Kaip drąsiai Sviatopelkas kalbėjo, taip smurtai darė, kaipogi kariavo kryžėjus ant vandens ir že mės, grobį griedamas ir jų turtus drevėdamas."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
 
 <a id="claim-t-201030"></a>
 - t-003
-  global_id: t-201030
   teiginys: "Tok sai darbas Sviatopelko drąsino dar didesniai lietu vius, kurie, norėdami būtinai nuveikti kryžeivius vokyčius, Sviatopelką paskyrė sau už karvedį."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -88,7 +85,6 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
 
 <a id="claim-t-201031"></a>
 - t-004
-  global_id: t-201031
   teiginys: "Sviatopelkas, gailėdamos savo pilės, bet užvis didesniai savo šventenybės, per daug užsirūstino ir ketėjo pilę Cartovicą kaip įmanąs vėl atimti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -101,7 +97,6 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
 
 <a id="claim-t-201032"></a>
 - t-005
-  global_id: t-201032
   teiginys: "Lygia dalia patsai didysis mistras kaip įmanąs steigė pašalpą kryžeiviams, bet, iki nesu traukiant jiems tas galybes, Sviatopelkas su didžia kariauna, persikėlęs per Yslą, ties Toninę antpuolė pasalu kryžėjų kariauną ties Golubu padrevency."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -134,10 +129,12 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190213
+    - t-001
+
 - id: c-184379
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kaip drąsiai Sviatopelkas kalbėjo, taip smurtai
     darė, kaipogi kariavo kryžėjus ant vandens ir že­
@@ -155,10 +152,12 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201029
+    - t-002
+
 - id: c-184380
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tok­
     sai darbas Sviatopelko drąsino dar didesniai lietu­
@@ -177,10 +176,12 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201030
+    - t-003
+
 - id: c-184381
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Barboros, sidabru aptaisytą,
     į Kulmiją parvirdė.
@@ -197,10 +198,12 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201031
+    - t-004
+
 - id: c-184382
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Patsai rėdytojas
     kryžėjų ir kalavijonų Griuningenas iškeliavo į Teu-
@@ -220,4 +223,4 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201032
+    - t-005

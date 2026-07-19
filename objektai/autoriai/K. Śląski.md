@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-30753"></a>
 - t-001
-  global_id: t-30753
   teiginys: "K. Śląski 1963 m. paskelbė darbą apie prūsų santykius su kitomis Pabaltijo tautomis VII–XII amžiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,14 +66,11 @@ media_all_json: |-
     ludami nadbałtyckimi w V1I-XII wieku,_ Rocznik Olsztyński, V, 1963,
     9-27 p. —Švābe, A. : _Senās Latvijas vestures avoti,_ I, Riga 1937 (senųjų
     tekstų ištraukos).
-  citata_rodoma: |
-    — Śląski, K. : _Stosunki Prusów z innymi
-    ludami nadbałtyckimi w V1I-XII wieku,_ Rocznik Olsztyński, V, 1963,
-    9-27 p. —Švābe, A.
+  citata_rodoma: "— Śląski, K. : _Stosunki Prusów z innymi\nludami nadbałtyckimi w V1I-XII wieku,_ Rocznik Olsztyński, V, 1963,\n9-27 p. —Švābe, A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30753
+    - t-001

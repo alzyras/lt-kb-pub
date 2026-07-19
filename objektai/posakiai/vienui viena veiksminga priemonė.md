@@ -31,7 +31,6 @@ Lenkai teigė, kad vienui viena veiksminga priemonė ginčui dėl Podolės baigt
 
 <a id="claim-t-185472"></a>
 - t-001
-  global_id: t-185472
   teiginys: "Lenkai teigė, kad vienui viena veiksminga priemonė ginčui dėl Podolės baigti yra bendra lenkų ir lietuvių teisė į Podolę."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Lenkai teigė, kad vienui viena veiksminga priemonė ginčui dėl Podolės baigt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185472
+    - t-001

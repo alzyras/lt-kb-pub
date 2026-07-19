@@ -31,7 +31,6 @@ Kalibras - 17,4 mm. Pagamintas Potsdame.
 
 <a id="claim-t-38531"></a>
 - t-001
-  global_id: t-38531
   teiginys: "Potsdame buvo pagamintas prūsiškas 17,4 mm kalibro karabinas su titnagine spyna."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Kalibras - 17,4 mm. Pagamintas Potsdame.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38531
+    - t-001

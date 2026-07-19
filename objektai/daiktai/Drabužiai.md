@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-71558"></a>
 - t-001
-  global_id: t-71558
   teiginys: "Prūsų kryžiuočiai padovanojo daug drabužių Žemaičių galingiesiems."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -162,4 +161,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71558
+    - t-001

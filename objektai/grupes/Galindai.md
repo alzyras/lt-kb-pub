@@ -44,8 +44,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 ## Teiginiai
 
 <a id="claim-t-65156"></a>
-- t-001
-  global_id: t-65156
+- t-003
   teiginys: "Dusburgiečio pasakojime galindų pagausėjo tiek, kad jų žemė nebegalėjo jų išmaitinti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 
 <a id="claim-t-65157"></a>
 - t-002
-  global_id: t-65157
   teiginys: "Galindų žemė driekėsi į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - c-65626
 
 <a id="claim-t-183881"></a>
-- t-003
-  global_id: t-183881
+- t-004
   teiginys: "Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -98,8 +95,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - c-65625
 
 <a id="claim-t-188184"></a>
-- t-004
-  global_id: t-188184
+- t-001
   teiginys: "Narbutas Galindams priskyrė Rosės vardu vadintas šventas upes ir siejo jas su lietuvių genčių papročiu šventinti upes."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -119,7 +115,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 
 <a id="claim-t-188185"></a>
 - t-005
-  global_id: t-188185
   teiginys: "Narbutas pasakojo, kad ilgai taikiai gyvenusiame Galindų krašte žmonių padaugėjo tiek, jog seniūnai nutarė žudyti moteriškos lyties kūdikius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -133,9 +128,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 
 <a id="claim-t-188186"></a>
 - t-006
-  global_id: t-188186
   teiginys: "Narbutas pasakojo, kad po galindų žygio krikščionys juos išmušė, o supykdyti kaimynai nuniokojo Galindą beveik iki negyvenamos šalies."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -155,7 +149,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 
 <a id="claim-t-192382"></a>
 - t-007
-  global_id: t-192382
   teiginys: "Narbutas Galindą vadina viena seniausių provincijų ir rašo, kad ji kadaise driekėsi plačiau Mazovijos bei Polesės link."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -174,10 +167,9 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175176
-    - c-006
+
 <a id="claim-t-192383"></a>
 - t-008
-  global_id: t-192383
   teiginys: "Narbutas rašo, kad galindai iš pradžių nedalyvavo prūsų karuose su kryžiuočiais, o vėliau kryžiuočiai užpuolė Galindą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -199,7 +191,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 
 <a id="claim-t-194325"></a>
 - t-009
-  global_id: t-194325
   teiginys: "Apie Galindos žemės nuniokojimą Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -212,7 +203,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 
 <a id="claim-t-197496"></a>
 - t-010
-  global_id: t-197496
   teiginys: "Būtina atsižvelgti į tai, jog galindai prūsų karuose su kryžiuočiais iš pradžių nedalyvavo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -225,7 +215,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 
 <a id="claim-t-200918"></a>
 - t-011
-  global_id: t-200918
   teiginys: "Tautos ant tų upių, pasakoja, tos gyvenusios: venedai, galindai, sudenai, kareotai, saliai, osai, veltai, penai."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -238,7 +227,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 
 <a id="claim-t-200919"></a>
 - t-012
-  global_id: t-200919
   teiginys: "Lygia dalia kiti Vitevudo sūnūs: Šalavo, Natango, Barto, Galindo, Varmo, Ogo, Pomezo, Kulmo, visi įgijo kraštus, kuriuos nuo savo vardo praminė."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -311,8 +299,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192382
+
 ## Citatos
 
 - id: c-65625
@@ -335,9 +322,10 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65156
-    - t-183881
-    - t-194325
+    - t-003
+    - t-004
+    - t-009
+
 - id: c-65626
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -356,7 +344,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65157
+    - t-002
+
 - id: c-171078
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -378,7 +367,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188184
+    - t-001
+
 - id: c-171079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -397,7 +387,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188185
+    - t-005
+
 - id: c-171080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -412,21 +403,15 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,
     ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per­
     ėjus fermentaciją, alus jau ir gatavas.
-  citata_rodoma: |
-    Šie, patikėję žynės žodžiu, tuojau sutelkė
-    vyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,
-    baisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.
-    Tačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­
-    sus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­
-    niokojo, kad Galinda daugeliui metų paliko beveik negyve­
-    nama.
+  citata_rodoma: "Šie, patikėję žynės žodžiu, tuojau sutelkė\nvyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,\nbaisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.\nTačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­\nsus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­\nniokojo, kad Galinda daugeliui metų paliko beveik negyve­\nnama."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188186
+    - t-006
+
 - id: c-175176
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -447,28 +432,15 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     kildinti iš senovės prūsų žodžio Galintuvojt, tai reiškė
     triukšmauti, niekšeli, nes šios gentys buvusios plėšikiškos
     ir agresyvios.
-  citata_rodoma: |
-    Rytuose ji
-    ribojosi su Sūduva, pietuose — su Mazovija, vakaruo­
-    se — su Hokerlandija ir Varmija, o šiaurėje — su Barta.
-    Galinda buvo viena seniausių provincijų, kitados nepa­
-    254
-
-    ## Puslapis 265
-
-    lyginti plačiau driekėsi į Mazovijos ir Polesės pusę; ji
-    nusipelnė detalių senovės geografų tyrinėjimų. Galindų
-    gentys nuo seno buvo gausios ir karingos, plačiai žino­
-    mos, kai kurių žinių apie jas pateikėme šio veikalo pir­
-    mame tome, skyriuje „Pranašystės“; čia ¡papasakosime
-    apie kitus žinomus dalykus.
+  citata_rodoma: "Rytuose ji\nribojosi su Sūduva, pietuose — su Mazovija, vakaruo­\nse — su Hokerlandija ir Varmija, o šiaurėje — su Barta.\nGalinda buvo viena seniausių provincijų, kitados nepa­\n254\n\n## Puslapis 265\n\nlyginti plačiau driekėsi į Mazovijos ir Polesės pusę; ji\nnusipelnė detalių senovės geografų tyrinėjimų. Galindų\ngentys nuo seno buvo gausios ir karingos, plačiai žino­\nmos, kai kurių žinių apie jas pateikėme šio veikalo pir­\nmame tome, skyriuje „Pranašystės“; čia ¡papasakosime\napie kitus žinomus dalykus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192382
+    - t-007
+
 - id: c-175177
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -490,11 +462,13 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192383
-    - t-197496
+    - t-008
+    - t-010
+
 - id: c-184268
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Upis tenai didesniąsias minavoja,
     Ysla (Vistula), Nemunu (Kronas), Venta (Rubonas),
@@ -510,10 +484,12 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200918
+    - t-011
+
 - id: c-184269
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ketvirtajam sūnui teko kraštas tarp upių Ska­
     ros, Boiko ir Kurteno, kursai įkūręs tenai pilį Stain-
@@ -529,7 +505,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200919
+    - t-012
+
 ## Ryšiai
 - Puolė Galindai: [[objektai/grupes/Krikščionys]], [[objektai/grupes/Kryžiuočių ordinas]]
 - Galindai dalyvavo mūšyje [[objektai/ivykiai/Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m]]

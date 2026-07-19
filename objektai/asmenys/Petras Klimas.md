@@ -39,8 +39,7 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 ## Teiginiai
 
 <a id="claim-t-46282"></a>
-- t-001
-  global_id: t-46282
+- t-002
   teiginys: "Petras Klimas buvo 1917 m. Vilniuje leistos surengti lietuvių konferencijos organizacinio komiteto narys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
     - c-48884
 
 <a id="claim-t-46283"></a>
-- t-002
-  global_id: t-46283
+- t-001
   teiginys: "Petras Klimas 1926 m. dalyvavo Lietuvos delegacijoje Tautų Sąjungoje Ženevoje kaip pasiuntinys."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -107,23 +105,15 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
     160
     išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
     nėra.
-  citata_rodoma: |
-    Voldemaras, neturėdamas
-    Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės:
-    Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir
-    pasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)
-
-    L I E T U V O S  I S T O R I J A
-    160
-    išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
-    nėra.
+  citata_rodoma: "Voldemaras, neturėdamas\nLietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės:\nDovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir\npasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)\n\nL I E T U V O S  I S T O R I J A\n160\nišeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos\nnėra."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46283
+    - t-001
+
 - id: c-48884
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -140,18 +130,11 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
     Juozas Stankevičius ir Jurgis Šaulys) į konferencijos dalyvių sąrašą atrinko
     iš kiekvienos apskrities po 5–8 aktyviausius įvairių socialinių ir politinių
     grupių atstovus.
-  citata_rodoma: |
-    Vokiečiams modernizuojant anek-
-    sijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso,
-    1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje. Jos orga-
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    133
-    nizacinis komitetas (Mykolas Biržiška, Petras Klimas, A.
+  citata_rodoma: "Vokiečiams modernizuojant anek-\nsijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso, \n1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje. Jos orga-\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n133\nnizacinis komitetas (Mykolas Biržiška, Petras Klimas, A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46282
+    - t-002

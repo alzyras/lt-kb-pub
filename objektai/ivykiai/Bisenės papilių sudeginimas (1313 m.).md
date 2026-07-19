@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-62207"></a>
 - t-001
-  global_id: t-62207
   teiginys: "1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenę, o po ilgų kovų sudegė abu jos papiliai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai atitinka citatos turinį."
   pagrindžia:
     - c-62686
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenę, o po ilgų kovų sudegė abu jos papiliai.'
@@ -89,8 +88,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62207
+
 ## Citatos
 
 - id: c-62686
@@ -110,21 +108,11 @@ Nenurodyta
     arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
     alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
     išvykimo dienos.
-  citata_rodoma: |
-    319 (312). Apie Bisenės papilių sudeginimą 1313 metais
-
-      Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais
-    užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,
-    abu jos papiliai supleškėjo ugnyje.
-
-
-
-
-                    320 (313).
+  citata_rodoma: "319 (312). Apie Bisenės papilių sudeginimą 1313 metais\n\n  Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais\nužpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,\nabu jos papiliai supleškėjo ugnyje.\n\n\n\n\n                320 (313)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62207
+    - t-001

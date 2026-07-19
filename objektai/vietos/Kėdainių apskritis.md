@@ -37,7 +37,6 @@ LENČIŲ KAUTYNES \ aa 5 1unai > =) A 5 < o DAINAVOS j as e Fai pati He) 3 1949 
 
 <a id="claim-t-38500"></a>
 - t-001
-  global_id: t-38500
   teiginys: "1949 m. sausio 26 d. Kėdainių apskrities Krakių valsčiaus Lenčių miške MGB vidaus kariuomenės 298-asis šaulių pulkas puolė partizanų stovyklavietę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ LENČIŲ KAUTYNES \ aa 5 1unai > =) A 5 < o DAINAVOS j as e Fai pati He) 3 1949 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38500
+    - t-001

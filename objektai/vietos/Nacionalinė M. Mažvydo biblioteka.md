@@ -37,7 +37,6 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
 
 <a id="claim-t-41953"></a>
 - t-001
-  global_id: t-41953
   teiginys: "Dalis A. Pociaus vadovaujamų ginkluotų vyrų išsidėstė ant Nacionalinės M. Mažvydo bibliotekos stogo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
 
 <a id="claim-t-41954"></a>
 - t-002
-  global_id: t-41954
   teiginys: "Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios medicinos pagalbos ir medicininio vadovavimo punktą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +95,8 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41954
+    - t-002
+
 - id: c-45231
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -117,17 +116,11 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
     stogo. Gynėjai išsikėlė nerašytą misiją - pa-
     sipriešinti bet kokiu atveju ir nepakartoti
     1940 m. klaidos!
-  citata_rodoma: |
-    Tuo tikslu
-    dalis ginkluotų A. Pociaus vadovaujamų
-    vyrų buvo išdėstyti ties Žvėryno tiltu ki-
-    toje Neries pusėje, dalis kovotojų išsidėstė
-    ant Nacionalinės M. Mažvydo bibliotekos
-    stogo.
+  citata_rodoma: "Tuo tikslu\ndalis ginkluotų A. Pociaus vadovaujamų\nvyrų buvo išdėstyti ties Žvėryno tiltu ki-\ntoje Neries pusėje, dalis kovotojų išsidėstė\nant Nacionalinės M. Mažvydo bibliotekos\nstogo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41953
+    - t-001

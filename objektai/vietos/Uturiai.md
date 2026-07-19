@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-32626"></a>
 - t-001
-  global_id: t-32626
   teiginys: "Uturiai buvo prie Betygalos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,21 +100,11 @@ media_all_json: |-
     Valančius M., vysk. 51-53, 60, 66,
     70, 71, 74, 81
     Valdemaras IV, Danijos karalius
-  citata_rodoma: |
-    148
-    Uturiai, prie Betygalos 177
-    Uzbekas, chanas 183, 241, 242
-    Užnemunė 61, 78, 95, 96, 105, 108,
-    254, 326
-    Užpaliai 118**
-    **_Užsienio Lietuvių Spaudos Metraštis_**
-    **17
-    Vaclovas, Čekijos karalius 336, 356,
-    žr.
+  citata_rodoma: "148\nUturiai, prie Betygalos 177\nUzbekas, chanas 183, 241, 242\nUžnemunė 61, 78, 95, 96, 105, 108,\n254, 326\nUžpaliai 118**\n**_Užsienio Lietuvių Spaudos Metraštis_**\n**17\nVaclovas, Čekijos karalius 336, 356,\nžr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32626
+    - t-001

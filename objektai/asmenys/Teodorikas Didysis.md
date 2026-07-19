@@ -31,7 +31,6 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
 
 <a id="claim-t-191152"></a>
 - t-001
-  global_id: t-191152
   teiginys: "Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą ir Italiją bei, jo pasakojimu, sudrebinusį Vakarų Europą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
 
 <a id="claim-t-191153"></a>
 - t-002
-  global_id: t-191153
   teiginys: "Narbutas rašo, kad po Tacito laikų žinios apie estus vėl pasirodo pasakojant apie Teodoriko Didžiojo ryšius su gintaro prekeiviais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,10 +69,9 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174035
-    - c-002
+
 <a id="claim-t-191154"></a>
 - t-003
-  global_id: t-191154
   teiginys: "Narbutas rašo, kad Teodorikas ir visi gotai buvo krikščionys, kaip ir Odoakras bei jo herulai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -92,10 +89,9 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174036
-    - c-003
+
 <a id="claim-t-191155"></a>
 - t-004
-  global_id: t-191155
   teiginys: "Narbutas Teodoriką apibūdino kaip ostrogotų valdovą, gudrų, godų ir sumanų žmogų, ištroškusį valdžios bei turtų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -116,7 +112,6 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
 
 <a id="claim-t-191156"></a>
 - t-005
-  global_id: t-191156
   teiginys: "Narbutas rašo, kad Zenonas slapta susitarė su Teodoriku ir, vildamasis barbarų valdovų tarpusavio karo, leido ostrogotams grobti Romą ir Italiją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -136,8 +131,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
     - c-174038
 
 <a id="claim-t-191158"></a>
-- t-006
-  global_id: t-191158
+- t-007
   teiginys: "Narbutas rašo, kad Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus bei paliko jam dalį valdžios ar valdų Italijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -158,8 +152,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
     - c-174040
 
 <a id="claim-t-197831"></a>
-- t-007
-  global_id: t-197831
+- t-008
   teiginys: "Galop jis slapta susitarė su Teodoriku, pasikliaudamas pažadais, o gal vildamasis sukelti barbarų valdovų tarpusavio karą; abiem šalims nusilpus, atsirastų proga pašalinti juos abu, be to, jis leido ostrogotams grobti ir Romą, ir Italiją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -171,8 +164,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
     - c-174038
 
 <a id="claim-t-197832"></a>
-- t-008
-  global_id: t-197832
+- t-009
   teiginys: "Tik žinoma tai, kad Teodorikas paža dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam net tam tikrą valdžios dalį Italijoje arba patikėjo jam tam tikras valdas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -200,8 +192,6 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191153
 - c-003
   santrauka: 'Narbutas rašo, kad Teodorikas ir visi gotai buvo krikščionys, kaip ir Odoakras bei jo herulai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -223,8 +213,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191154
+
 ## Citatos
 
 - id: c-174034
@@ -249,7 +238,8 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191152
+    - t-001
+
 - id: c-174035
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -266,21 +256,15 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
     kuriuos mes vadiname normanais, jos turi šiaurinę dalį
     ir visas ten esančias salas; į pietus yra slavai ir estai
     (Aisti vietoj Aesti), o už jų gyvena kitos tautos“6.
-  citata_rodoma: |
-    80
-    Vėlesni padavimai. Apie estus nėra žinių nuo Tacito
-    laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
-    tijos jūros pakrančių gyventojais, kurie prekiavo gintaru
-    ir buvo vadinami estais2. Vėliau Jordanas, gotų istorikas,
-    daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­
-    jęs, mini estus, kurie taip pat gyveną jūros pakrantėje3.
+  citata_rodoma: "80\nVėlesni padavimai. Apie estus nėra žinių nuo Tacito\nlaikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­\ntijos jūros pakrančių gyventojais, kurie prekiavo gintaru\nir buvo vadinami estais2. Vėliau Jordanas, gotų istorikas,\ndaugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­\njęs, mini estus, kurie taip pat gyveną jūros pakrantėje3."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191153
+    - t-002
+
 - id: c-174036
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -311,26 +295,15 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
     nagrinėti
     dar ne laikas, vėliau kalbėsime apie herulus ir tvir­
     čiau pagrįsime mūsų prielaidas.
-  citata_rodoma: |
-    202
-
-    ## Puslapis 200
-
-    niekas Europoje negarbino Kapitolijaus Jupiterio, o ro­
-    mėniška pagonybe bjaurėjosi patys stabmeldžiai, jei tokių
-    kur dar buvo užsilikę pietinėje Europoje, nes net ir romė­
-    nų, kaip išnaudotojų ir tautų naikintojų, vardas buvo ne­
-    apkenčiamas. Odoakras buvo krikščionis, ir jo herulams
-    buvo skelbiamas Kristaus mokslas, Teodorikas ir visi go­
-    ta i— taip pat. Tad iš kur tie herulai galėjo prisirinkti tiek
-    graikų, romėnų, indų dievų?
+  citata_rodoma: "202\n\n## Puslapis 200\n\nniekas Europoje negarbino Kapitolijaus Jupiterio, o ro­\nmėniška pagonybe bjaurėjosi patys stabmeldžiai, jei tokių\nkur dar buvo užsilikę pietinėje Europoje, nes net ir romė­\nnų, kaip išnaudotojų ir tautų naikintojų, vardas buvo ne­\napkenčiamas. Odoakras buvo krikščionis, ir jo herulams\nbuvo skelbiamas Kristaus mokslas, Teodorikas ir visi go­\nta i— taip pat. Tad iš kur tie herulai galėjo prisirinkti tiek\ngraikų, romėnų, indų dievų?"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191154
+    - t-003
+
 - id: c-174037
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -351,7 +324,8 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191155
+    - t-004
+
 - id: c-174038
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -382,8 +356,9 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191156
-    - t-197831
+    - t-005
+    - t-008
+
 - id: c-174040
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -406,7 +381,8 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191158
-    - t-197832
+    - t-007
+    - t-009
+
 ## Ryšiai
 - Teodorikas Didysis užkariavo [[objektai/vietos/Italija]]

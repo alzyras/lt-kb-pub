@@ -39,7 +39,6 @@ Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potocki
 
 <a id="claim-t-188977"></a>
 - t-001
-  global_id: t-188977
   teiginys: "Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potockio straipsnį apie kelionę į Astrachaną ir jo apylinkes."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potocki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188977
+    - t-001

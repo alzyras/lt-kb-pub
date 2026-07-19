@@ -53,8 +53,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
 ## Teiginiai
 
 <a id="claim-t-55211"></a>
-- t-001
-  global_id: t-55211
+- t-007
   teiginys: "Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumentas buvo Karaliaučiaus Slaptajame archyve, o Kotzebue juos paskelbė „Prūsijos istorijoje“."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-55634
 
 <a id="claim-t-55212"></a>
-- t-002
-  global_id: t-55212
+- t-008
   teiginys: "Kai kurie Gedimino laiškai rašyti Vilniuje 1323 m. gegužės 26 d. ir Vilnių vadina karališkuoju miestu."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-55640
 
 <a id="claim-t-55213"></a>
-- t-003
-  global_id: t-55213
+- t-009
   teiginys: "Foigtas ginčijo Gedimino laiškų autentiškumą ir jų parengimą priskyrė Rygos arkivyskupui."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -112,8 +109,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-55642
 
 <a id="claim-t-55214"></a>
-- t-004
-  global_id: t-55214
+- t-010
   teiginys: "Abejonės dėl Gedimino laiškų autentiškumo, Balińskio vertinimu, nepaneigia, kad Vilnius jau buvo miestas ir Gedimino sostinė."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -129,8 +125,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-55637
 
 <a id="claim-t-55215"></a>
-- t-005
-  global_id: t-55215
+- t-011
   teiginys: "Balińskis Gedimino laiškus dėjo į papildymus kartu su lenkišku vertimu ir Foigto pastabomis."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -146,8 +141,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-55638
 
 <a id="claim-t-55216"></a>
-- t-006
-  global_id: t-55216
+- t-012
   teiginys: "Gedimino laiškai buvo adresuoti dominikonų ordino vyresniesiems, Mažesniųjų brolių ordinui ir pajūrio miestams."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -163,8 +157,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-55639
 
 <a id="claim-t-55217"></a>
-- t-007
-  global_id: t-55217
+- t-013
   teiginys: "Trijuose Gedimino laiškuose buvo įrašytas antspaudo tikrumą ginantis prakeiksmas tiems, kurie juo nepatikėtų."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -180,8 +173,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-55643
 
 <a id="claim-t-171537"></a>
-- t-008
-  global_id: t-171537
+- t-024
   teiginys: "„Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -200,8 +192,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-156042
 
 <a id="claim-t-171538"></a>
-- t-009
-  global_id: t-171538
+- t-016
   teiginys: "Gediminas laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -217,8 +208,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-156041
 
 <a id="claim-t-171539"></a>
-- t-010
-  global_id: t-171539
+- t-014
   teiginys: "Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -237,8 +227,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-156044
 
 <a id="claim-t-171541"></a>
-- t-011
-  global_id: t-171541
+- t-022
   teiginys: "Laiškų autorius Mazovijos kunigaikštį vadino Bonislavu, todėl, pasak kritikos, prastai žinojo to meto Mazovijos valdovą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -254,8 +243,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-156040
 
 <a id="claim-t-171542"></a>
-- t-012
-  global_id: t-171542
+- t-015
   teiginys: "Gediminas laiškuose Vakarams vadinosi karaliumi, vartodamas titulą rex."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -272,8 +260,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-156046
 
 <a id="claim-t-171544"></a>
-- t-013
-  global_id: t-171544
+- t-023
   teiginys: "Balińskis laikėsi nuomonės, kad Gedimino laiškai buvo Rygos arkivyskupo prasimanyti iš neapykantos kryžiuočiams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -292,8 +279,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-156045
 
 <a id="claim-t-171545"></a>
-- t-014
-  global_id: t-171545
+- t-019
   teiginys: "Balińskis laiškų netikrumą grindė jų turiniu ir posakiais, kurie esą nebūdingi dar tik krikščioniu norinčiam tapti žmogui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -302,8 +288,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-156043
 
 <a id="claim-t-171546"></a>
-- t-015
-  global_id: t-171546
+- t-021
   teiginys: "Gedimino laiškų netikrumo įrodymu laikyta užuomina apie Mazoviją kaip laisvą ir saugų kelią svetimšaliams į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -319,8 +304,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-156048
 
 <a id="claim-t-171547"></a>
-- t-016
-  global_id: t-171547
+- t-020
   teiginys: "Gediminas laiške žadėjo saugoti bažnytines teises, gerbti dvasininkiją ir gausinti Dievo šlovinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -380,7 +364,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55211
+    - t-007
+
 - id: c-55635
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -408,7 +393,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55212
+    - t-008
+
 - id: c-55636
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -431,7 +417,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55213
+    - t-009
+
 - id: c-55637
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -460,7 +447,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55214
+    - t-010
+
 - id: c-55638
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -484,7 +472,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55215
+    - t-011
+
 - id: c-55639
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -513,7 +502,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55216
+    - t-012
+
 - id: c-55640
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -539,7 +529,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55212
+    - t-008
+
 - id: c-55641
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -561,7 +552,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55213
+    - t-009
+
 - id: c-55642
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -588,7 +580,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55213
+    - t-009
+
 - id: c-55643
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -607,7 +600,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55217
+    - t-013
+
 - id: c-156040
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -626,7 +620,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171541
+    - t-022
+
 - id: c-156041
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -646,7 +641,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171538
+    - t-016
+
 - id: c-156042
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -659,7 +655,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171537
+    - t-024
+
 - id: c-156043
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -685,7 +682,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171545
+    - t-019
+
 - id: c-156044
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -713,7 +711,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171539
+    - t-014
+
 - id: c-156045
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -729,23 +728,15 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     apykantos kryžiuočiams.
     Baigiant šiuos svarstymus, mums dar viena pastaba ding­
     teli.
-  citata_rodoma: |
-    aptinkame, o kitose to kraš­
-    to žemėse 1325 metais viešpatavo kunigaikščiai - Ziemovi­
-    tas ir Traidenis.
-    Nebūtų sunku surinkti daugiau laiškų netikrumo įrody­
-    mų, bet ir šių pakaks patvirtinti nuomonei, kad tie laiškai iš
-    tiesų buvo prasimanyti, ir būtent Rygos arkivyskupo, iš ne­
-    apykantos kryžiuočiams.
-    Baigiant šiuos svarstymus, mums dar viena pastaba ding­
-    teli.
+  citata_rodoma: "aptinkame, o kitose to kraš­\nto žemėse 1325 metais viešpatavo kunigaikščiai - Ziemovi­\ntas ir Traidenis.\nNebūtų sunku surinkti daugiau laiškų netikrumo įrody­\nmų, bet ir šių pakaks patvirtinti nuomonei, kad tie laiškai iš \ntiesų buvo prasimanyti, ir būtent Rygos arkivyskupo, iš ne­\napykantos kryžiuočiams.\nBaigiant šiuos svarstymus, mums dar viena pastaba ding­\nteli."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171544
+    - t-023
+
 - id: c-156046
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -770,7 +761,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171542
+    - t-015
+
 - id: c-156047
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -799,7 +791,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171547
+    - t-020
+
 - id: c-156048
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -821,4 +814,4 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171546
+    - t-021

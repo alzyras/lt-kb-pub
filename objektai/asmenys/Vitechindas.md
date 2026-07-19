@@ -31,7 +31,6 @@ Narbutas Vitechindą aprašo kaip kronikininką, kuris padavimus apie prūsų i�
 
 <a id="claim-t-191483"></a>
 - t-001
-  global_id: t-191483
   teiginys: "Narbutas Vitechindą aprašo kaip kronikininką, kuris padavimus apie prūsų ištakas mėgino nuspalvinti tariamu istoriškumu, siedamas juos su makedonais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Narbutas Vitechindą aprašo kaip kronikininką, kuris padavimus apie prūsų i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191483
+    - t-001

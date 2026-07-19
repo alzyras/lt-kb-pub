@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-193020"></a>
 - t-001
-  global_id: t-193020
   teiginys: "Narbutas rašo, kad seniau skystas gintaras, eteriniai aliejai ir balzamai buvo dedami į vaistus, o jo laikais gintaras naudotas lakuose."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193020
+    - t-001

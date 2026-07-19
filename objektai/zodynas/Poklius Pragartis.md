@@ -31,7 +31,6 @@ Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų v
 
 <a id="claim-t-189173"></a>
 - t-001
-  global_id: t-189173
   teiginys: "Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų valdovą ir nepermaldaujamą mirusių nusikaltėlių vėlių keršytoją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -42,7 +41,7 @@ Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų v
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172061
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų valdovą ir nepermaldaujamą mirusių nusikaltėlių vėlių keršytoją.'
@@ -61,8 +60,7 @@ Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189173
+
 ## Citatos
 
 - id: c-172061
@@ -82,19 +80,11 @@ Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų v
     žyniui, kuris pats save sužeisdavo ir išperkamąją auką atiduo­
     davo savo krauju, taip pat būdavo paaukojama kokio nors gy­
     vulio galva.
-  citata_rodoma: |
-    Juos laukinių žmonių rankos nužudžiusios kaip juodus
-    gyvulius, kurie aukojami audroms, tai yra kuriuos buvo įpras­
-    ta atnašauti audrų dievui.
-    Poklius (Poklus)
-    Požemio dievas, numirėlių neštuvų valdovas, varginantis
-    mirusių nusikaltėlių vėles pragariškomis kančiomis, nepermal­
-    daujamas keršytojas. Būta įvairių jo vardų: Pokolus, Pokole,
-    Pikol, Pikole, Pragartis -  nuo žodžio Pragaras, pekla.
+  citata_rodoma: "Juos laukinių žmonių rankos nužudžiusios kaip juodus\ngyvulius, kurie aukojami audroms, tai yra kuriuos buvo įpras­\nta atnašauti audrų dievui.\nPoklius (Poklus)\nPožemio dievas, numirėlių neštuvų valdovas, varginantis\nmirusių nusikaltėlių vėles pragariškomis kančiomis, nepermal­\ndaujamas keršytojas. Būta įvairių jo vardų: Pokolus, Pokole,\nPikol, Pikole, Pragartis -  nuo žodžio Pragaras, pekla."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189173
+    - t-001

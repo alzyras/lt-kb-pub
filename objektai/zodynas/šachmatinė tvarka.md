@@ -31,7 +31,6 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
 
 <a id="claim-t-38786"></a>
 - t-001
-  global_id: t-38786
   teiginys: "Šachmatine tvarka šaudant vienu metu šaudydavo kas antras karys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
 
 <a id="claim-t-183720"></a>
 - t-002
-  global_id: t-183720
   teiginys: "Šachmatine tvarka šaudant vienu metu šaudydavo kas antras karys arba padalinys."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38786
+    - t-001
+
 - id: c-167108
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -115,4 +114,4 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183720
+    - t-002

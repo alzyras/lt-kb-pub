@@ -31,7 +31,6 @@ Pomponijus Mela, pasak Narbuto, nedviprasmiškai tvirtino, kad Konstanco ežeras
 
 <a id="claim-t-191508"></a>
 - t-001
-  global_id: t-191508
   teiginys: "Pomponijus Mela, pasak Narbuto, nedviprasmiškai tvirtino, kad Konstanco ežeras buvo vadinamas Venedų ežeru."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Pomponijus Mela, pasak Narbuto, nedviprasmiškai tvirtino, kad Konstanco ežeras
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191508
+    - t-001

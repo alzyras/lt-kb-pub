@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-28850"></a>
 - t-001
-  global_id: t-28850
   teiginys: "1237–1240 m. mongolų invazija smarkiai paveikė rusų politinį ir kultūrinį gyvenimą Riurikaičių susiskaldymo laikotarpiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-184340"></a>
 - t-002
-  global_id: t-184340
   teiginys: "Mongolų invazija 1237-1240 m. smarkiai paveikė rusų politinį ir kultūrinį gyvenimą Riurikaičių susiskaldymo laikotarpiu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -116,7 +114,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28850
+    - t-001
+
 - id: c-167710
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -136,4 +135,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184340
+    - t-002

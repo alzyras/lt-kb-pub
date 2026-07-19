@@ -31,7 +31,6 @@ Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
 
 <a id="claim-t-186041"></a>
 - t-001
-  global_id: t-186041
   teiginys: "Giliginui mirė sūnus ir sosto įpėdinis Romuntas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -81,27 +80,15 @@ Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
     kariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo­
     menės jis nusiaubė Mazoviją, o su likusiais dviem treč­
     daliais— Kulmo žemę.
-  citata_rodoma: |
-    Kaip tei­
-    giama įvairių rašytojų, Ro­
-    muntas paliko penketą sūnų,
-    tačiau artesnis tiesai vos ke­
-    lių šaltinių minimas pasakojimas, jog jis mirė bevai­
-    kis. Mat tie, kurie vadinami jo sūnumis, buvo jau to­
-    kio amžiaus, kad jauniausias iš jų, Traidenis, Romun-
-    tui dar gyvam esant, vadovavo kariuomenei kaip
-    vyriausiasis vadas. Vargu ar galima patikėti, kad per
-    tokį trumpą laiką po Šventaragio mirties (tai yra vos
-    per dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­
-    džiais jaunikaičiais, bet ir vyrais, galinčiais valstybę
-    valdyti.
+  citata_rodoma: "Kaip tei­\ngiama įvairių rašytojų, Ro­\nmuntas paliko penketą sūnų, \ntačiau artesnis tiesai vos ke­\nlių šaltinių minimas pasakojimas, jog jis mirė bevai­\nkis. Mat tie, kurie vadinami jo sūnumis, buvo jau to­\nkio amžiaus, kad jauniausias iš jų, Traidenis, Romun- \ntui dar gyvam esant, vadovavo kariuomenei kaip \nvyriausiasis vadas. Vargu ar galima patikėti, kad per \ntokį trumpą laiką po Šventaragio mirties (tai yra vos \nper dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­\ndžiais jaunikaičiais, bet ir vyrais, galinčiais valstybę \nvaldyti."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186041
+    - t-001
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Romuntas]]
 - Tėvai: [[objektai/asmenys/Germantas]]

@@ -31,7 +31,6 @@ Pasiuntiniai įteikė susirinkimui raštą (Proposicio Samay­ tarum), kuriame s
 
 <a id="claim-t-34984"></a>
 - t-001
-  global_id: t-34984
   teiginys: "Žemaičių pasiuntiniai „Proposicio Samaytarum“ skundėsi, kad Ordinas trukdė žemaičiams priimti katalikybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Pasiuntiniai įteikė susirinkimui raštą (Proposicio Samay­ tarum), kuriame s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34984
+    - t-001

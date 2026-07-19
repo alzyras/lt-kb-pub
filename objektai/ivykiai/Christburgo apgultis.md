@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201279"></a>
 - t-001
-  global_id: t-201279
   teiginys: "Kryžėjai ta pergale nepalengvino įgulės Christburgo, kaipogi kita nauja kariauna apgulė pilį, ku rioje dėl didžios daugybės svieto, tenai sulindusio, rados baisus badas, kurie po truputėlį tegaudami mitalo per Draudžiu ežerą maitinos, tuo tarpu lie tuviai."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184629
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Panokę jį ties upe Gurbe miegantį
     be sargties, antpuolę staiga išmušė mažne lig pas-
@@ -76,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201279
+    - t-001

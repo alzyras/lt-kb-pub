@@ -43,8 +43,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 ## Teiginiai
 
 <a id="claim-t-45103"></a>
-- t-001
-  global_id: t-45103
+- t-003
   teiginys: "Holokausto metu buvo sunaikinta pasaulinę šlovę Lietuvai suteikusi litvakų bendruomenė, nors jos gyvosios šaknys išliko Lietuvoje, JAV ir Izraelyje."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     - c-22659
 
 <a id="claim-t-45104"></a>
-- t-002
-  global_id: t-45104
+- t-001
   teiginys: "Vilniaus Gaono autoritetas galėjo lemti, kad litvakai imti laikyti iškiliais žydais, išsiskyrusiais religine tradicija, racionalumu ir pagarba išsimokslinimui."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     - c-166557
 
 <a id="claim-t-45105"></a>
-- t-003
-  global_id: t-45105
+- t-005
   teiginys: "Christiaanas Barnardas knygoje minimas kaip litvakų palikuonis, 1967 m. Pietų Afrikos Respublikoje atlikęs pirmąją pasaulyje žmogaus širdies persodinimo operaciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     - c-48012
 
 <a id="claim-t-45106"></a>
-- t-004
-  global_id: t-45106
+- t-002
   teiginys: "Litvakas reiškė žydą iš istorinės Lietuvos, tačiau šiuo vardu imta vadinti ir savita gyvensena pasižymėjusius žydus."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -115,8 +111,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     - c-22658
 
 <a id="claim-t-45107"></a>
-- t-005
-  global_id: t-45107
+- t-004
   teiginys: "Christiaanas Barnardas knygoje minimas kaip litvakų palikuonis, 1967 m. Pietų Afrikos Respublikoje atlikęs pirmąją žmogaus širdies persodinimo operaciją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -136,7 +131,6 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 
 <a id="claim-t-183170"></a>
 - t-006
-  global_id: t-183170
   teiginys: "Vilniaus Gaono autoritetui priskiriama įtaka litvakų reputacijai kaip griežtos religinės tradicijos ir pagarbaus požiūrio į mokslą žydų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -184,19 +178,15 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     dinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK
     po Liublino unijos). Tačiau kartu litvakais imta vadinti žydus, kuriems
     būdinga savita gyvensena, išlikusi ir po LDK sunaikinimo.
-  citata_rodoma: |
-    Ir šian-
-    dien vartojama sąvoka „litvakas“ susijusi su gyvenamosios vietos pava-
-    dinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK
-    po Liublino unijos). Tačiau kartu litvakais imta vadinti žydus, kuriems
-    būdinga savita gyvensena, išlikusi ir po LDK sunaikinimo.
+  citata_rodoma: "Ir šian-\ndien vartojama sąvoka „litvakas“ susijusi su gyvenamosios vietos pava-\ndinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK\npo Liublino unijos). Tačiau kartu litvakais imta vadinti žydus, kuriems\nbūdinga savita gyvensena, išlikusi ir po LDK sunaikinimo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45106
+    - t-002
+
 - id: c-22659
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -212,18 +202,15 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
     dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
     monarchijoms ir nuo to mes jaučiamės smagiau.
-  citata_rodoma: |
-    Okupacijos ir aneksijos, tremtys, genocidai ir
-    Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-
-    kusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje,
-    JAV ir Palestinoje (vėliau Izraelio valstybėje).
+  citata_rodoma: "Okupacijos ir aneksijos, tremtys, genocidai ir\nHolokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-\nkusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje,\nJAV ir Palestinoje (vėliau Izraelio valstybėje)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45103
+    - t-003
+
 - id: c-22660
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -239,19 +226,15 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
     kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
     buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)).
-  citata_rodoma: |
-    O juk reikėtų prisiminti, kad
-    pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko
-    litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
-    kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
-    buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)).
+  citata_rodoma: "O juk reikėtų prisiminti, kad\npirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko\nlitvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-\nkos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas\nbuvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis))."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45107
+    - t-004
+
 - id: c-48012
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -272,21 +255,15 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
     siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
     premija).
-  citata_rodoma: |
-    O juk reikėtų prisiminti, kad
-    pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko
-    litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
-    kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
-    buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)). O juk
-    reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai
-    susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m.
+  citata_rodoma: "O juk reikėtų prisiminti, kad \npirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko \nlitvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-\nkos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas \nbuvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)). O juk \nreikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai \nsusijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45105
+    - t-005
+
 - id: c-166557
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -305,5 +282,5 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45104
-    - t-183170
+    - t-001
+    - t-006

@@ -41,8 +41,7 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
 ## Teiginiai
 
 <a id="claim-t-58634"></a>
-- t-001
-  global_id: t-58634
+- t-002
   teiginys: "Senojoje Torunėje minimi septyni broliai veikiausiai buvo ne įgula, o 1231 m. Kulmo žemės puolime dalyvavę riteriai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
     - c-59266
 
 <a id="claim-t-58635"></a>
-- t-002
-  global_id: t-58635
+- t-001
   teiginys: "Senojoje Torunėje greta pilies augo miestas, 1233 m. gavęs privilegiją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,9 +80,8 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
 
 <a id="claim-t-188833"></a>
 - t-003
-  global_id: t-188833
   teiginys: "Narbutas nurodo Hartknocho spėjimą, kad ten, kur stovėjo Senoji Torunė, anksčiau taip pat buvusi šventykla."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -100,12 +97,11 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171722
-    - c-003
+
 <a id="claim-t-194753"></a>
 - t-004
-  global_id: t-194753
   teiginys: "Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo las arba šventykla, savo viduryje turėjusi neapsakomo didumo ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -114,7 +110,7 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177149
-    - c-004
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas nurodo Hartknocho spėjimą, kad ten, kur stovėjo Senoji Torunė, anksčiau taip pat buvusi šventykla.'
@@ -132,8 +128,6 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188833
 - c-004
   santrauka: 'Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo las arba šventykla, savo viduryje turėjusi neapsakomo didumo ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -149,8 +143,7 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194753
+
 ## Citatos
 
 - id: c-59266
@@ -162,17 +155,15 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
     dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
     rankose, ji naudota kaip gyvulininkystės dvaras.
     Kaip rodo archeologiniai tyrimai, dab.
-  citata_rodoma: |
-    Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
-    dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
-    rankose, ji naudota kaip gyvulininkystės dvaras.
+  citata_rodoma: "Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,\ndalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino\nrankose, ji naudota kaip gyvulininkystės dvaras."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58634
+    - t-002
+
 - id: c-59267
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -189,7 +180,8 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58635
+    - t-001
+
 - id: c-171722
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -204,21 +196,15 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
     pajūrio miestas, atkištas priešų puolimams, netrukus turėjo
     būti sugriautas, kadangi mūsų istorikai tuojau pastebi kitą Lie­
     tuvos Romovę prie Dubysos ir Nemuno santakos12.
-  citata_rodoma: |
-    Šventyklos aptvaro vi­
-    duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
-    bai, -  anot Enėjo Silvijaus liudijimo.
-    Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
-    taip pat buvusi šventykla.
-    Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot
-    to paties istoriko, priklausė šventyklos liekanoms.
+  citata_rodoma: "Šventyklos aptvaro vi­\nduje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­\nbai, -  anot Enėjo Silvijaus liudijimo.\nTen, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,\ntaip pat buvusi šventykla.\nUpės (Oppen) kaime augo storiausias ąžuolas, kuris, anot\nto paties istoriko, priklausė šventyklos liekanoms."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188833
+    - t-003
+
 - id: c-177149
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -232,17 +218,11 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
     Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
     jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame
     išrėždavo savo vardą ir metus, elgdavosi kaip norėdavo“.
-  citata_rodoma: |
-    Tai buvo 1258 metais“ .
-    Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
-    las arba šventykla, savo viduryje turėjusi neapsakomo didumo
-    ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai
-    paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,
-    toje vietoje įkūrė Senąją Torunę.
+  citata_rodoma: "Tai buvo 1258 metais“ .\nDybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­\nlas arba šventykla, savo viduryje turėjusi neapsakomo didumo\nąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai\npaėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,\ntoje vietoje įkūrė Senąją Torunę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194753
+    - t-004

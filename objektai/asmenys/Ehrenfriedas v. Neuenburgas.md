@@ -28,7 +28,6 @@ Tą matančiam mistrui kryžeivių rodės tarimas mistro kalavijonų, arba Krist
 
 <a id="claim-t-201418"></a>
 - t-001
-  global_id: t-201418
   teiginys: "Tą matančiam mistrui kryžeivių rodės tarimas mistro kalavijonų, arba Kristaus karėjų, dar reika lingesnių nekaip pirma, kursai, norėdamas dar ži noti kraštą, kunigus, įsakymus, apsiėjimus ir būdą kalavijonų, nusiuntė du išmintingu vyru kryžeiviu Ehrenfriedą v."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Tą matančiam mistrui kryžeivių rodės tarimas mistro kalavijonų, arba Krist
 ## Citatos
 
 - id: c-184768
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą matančiam mistrui kryžeivių rodės tarimas
     mistro kalavijonų, arba Kristaus karėjų, dar reika­
@@ -62,4 +62,4 @@ Tą matančiam mistrui kryžeivių rodės tarimas mistro kalavijonų, arba Krist
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201418
+    - t-001

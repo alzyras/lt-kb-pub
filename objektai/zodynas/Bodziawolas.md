@@ -30,7 +30,6 @@ Narbutas vandens laikrodžius, kuriais lietuviai esą matuodavo valandų trukmę
 
 <a id="claim-t-189282"></a>
 - t-001
-  global_id: t-189282
   teiginys: "Narbutas vandens laikrodžius, kuriais lietuviai esą matuodavo valandų trukmę, vadino Bodziawolas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbutas vandens laikrodžius, kuriais lietuviai esą matuodavo valandų trukmę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189282
+    - t-001

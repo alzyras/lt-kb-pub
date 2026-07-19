@@ -38,8 +38,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
 ## Teiginiai
 
 <a id="claim-t-74667"></a>
-- t-001
-  global_id: t-74667
+- t-004
   teiginys: "Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvės klausimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,9 +53,9 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   pagrindžia:
     - c-22601
     - c-72706
+
 <a id="claim-t-74668"></a>
 - t-002
-  global_id: t-74668
   teiginys: "Lietuvos disidentai siekė išsaugoti tautos savastį, iš dalies neutralizuoti priešiškų jėgų veiklą ir ginti žmogaus teises."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     - c-22599
 
 <a id="claim-t-74669"></a>
-- t-003
-  global_id: t-74669
+- t-001
   teiginys: "Lietuvos disidentai siekė priversti okupacinę valdžią gerbti žmogaus teises ir 1948 m. Visuotinę žmogaus teisių deklaraciją."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     - c-22598
 
 <a id="claim-t-74670"></a>
-- t-004
-  global_id: t-74670
+- t-006
   teiginys: "Sovietinė valdžia žinomus Lietuvos disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,8 +110,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     - c-72706
 
 <a id="claim-t-74671"></a>
-- t-005
-  global_id: t-74671
+- t-003
   teiginys: "Lietuvos disidentinio judėjimo pradžia laikoma 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -149,19 +145,15 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m.
     patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
     jos nepaisė.
-  citata_rodoma: |
-    Disidentinis judėjimas sten-
-    gėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų
-    žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m.
-    patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
-    jos nepaisė.
+  citata_rodoma: "Disidentinis judėjimas sten-\ngėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų\nžmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m.\npatvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai\njos nepaisė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74669
+    - t-001
+
 - id: c-22599
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -175,16 +167,15 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
     jos nepaisė. Lietuvos disidentų siekis buvo tautos savasties išsaugojimas,
     priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.
-  citata_rodoma: |
-    Lietuvos disidentų siekis buvo tautos savasties išsaugojimas,
-    priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.
+  citata_rodoma: "Lietuvos disidentų siekis buvo tautos savasties išsaugojimas,\npriešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74668
+    - t-002
+
 - id: c-22600
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -200,18 +191,15 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus
     užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
     žurnalą „Sintaksis“, teikė informaciją iš Lietuvos.
-  citata_rodoma: |
-    Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji
-    lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus
-    užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
-    žurnalą „Sintaksis“, teikė informaciją iš Lietuvos.
+  citata_rodoma: "Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji\nlietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus\nužmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti\nžurnalą „Sintaksis“, teikė informaciją iš Lietuvos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74671
+    - t-003
+
 - id: c-22601
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -224,16 +212,15 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     nomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nu-
     teisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras Petkus). Skirtingai nei
     katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
-  citata_rodoma: |
-    Skirtingai nei
-    katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
+  citata_rodoma: "Skirtingai nei\nkatalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74667
+    - t-004
+
 - id: c-72706
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -248,15 +235,12 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
     politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-
     niuose forumuose.
-  citata_rodoma: |
-    Skirtingai nei
-    katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
-    Savo aktyvumu išsiskyrė 1978 m.
+  citata_rodoma: "Skirtingai nei \nkatalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus. \nSavo aktyvumu išsiskyrė 1978 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74667
-    - t-74670
+    - t-004
+    - t-006

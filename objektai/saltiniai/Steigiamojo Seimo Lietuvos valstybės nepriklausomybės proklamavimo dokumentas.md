@@ -37,7 +37,6 @@ Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.
 
 <a id="claim-t-78139"></a>
 - t-001
-  global_id: t-78139
   teiginys: "Steigiamojo Seimo priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokumentas skelbė Lietuvą nepriklausoma valstybe."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78139
+    - t-001

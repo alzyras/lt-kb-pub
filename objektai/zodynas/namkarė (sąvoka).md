@@ -39,7 +39,6 @@ Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė. Tuojau
 
 <a id="claim-t-201211"></a>
 - t-001
-  global_id: t-201211
   teiginys: "Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė. Tuojau
 
 <a id="claim-t-201212"></a>
 - t-002
-  global_id: t-201212
   teiginys: "Tuojau kėlės namuose baisus ermyderis ir prasidėjo rūsta namkarė: kaipogi Vasilkas vienus niekuo ne kaltus nužudė, kitus slapta nusmaugino, kitiems aki vaizdoj makaules nurentė, karojo lygia giltine kal tą ir nekaltą, jei tiktai rados skaugis, juos kaltinąs."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -66,8 +64,9 @@ Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė. Tuojau
 ## Citatos
 
 - id: c-184561
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vla­
     dislovo žmona buvo lyčium tų kerštų, kuri, gobė-
@@ -82,11 +81,12 @@ Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė. Tuojau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201211
+    - t-001
 
 - id: c-184562
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip tarės lietuviai ir žemaičiai, jei ne karėją,
     tačiaus vyrą gudrų, mokytą, svieto regėjusį, valdy-
@@ -119,4 +119,4 @@ Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė. Tuojau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201212
+    - t-002

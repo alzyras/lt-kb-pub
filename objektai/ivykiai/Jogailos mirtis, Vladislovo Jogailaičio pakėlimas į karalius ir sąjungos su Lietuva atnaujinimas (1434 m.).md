@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-185522"></a>
 - t-001
-  global_id: t-185522
   teiginys: "Prieš mirtį Jogaila pasikvietė karalystės didikus ir paprašė, kad rinkdami sosto įpėdinį jie neaplenktų jo sūnaus Vladislovo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168883
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prieš mirtį Jogaila pasikvietė karalystės didikus ir paprašė, kad rinkdami sosto įpėdinį jie neaplenktų jo sūnaus Vladislovo.'
@@ -86,8 +85,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185522
+
 ## Citatos
 
 - id: c-168883
@@ -120,21 +118,11 @@ Nenurodyta
     Korčino seime, o iš ten leido­
     si į Krokuvą bei Lvovą, kur ketino pakelti į valdžią Ste­
     poną, Moldavijos valdovą.
-  citata_rodoma: |
-    Ga­
-    lop, pajutęs, kad jam visai užėmė kvapą, paliepė nu­
-    nešti į lovą supratęs, jog ateiną paskutinioji. Pasikvie­
-    tęs karalystės didikus, jis paprašė, kad, rinkdami sosto
-    įpėdinį, neaplenktų sūnaus Vladislovo. Vienam ir ki­
-    tam didikui pažadėjus užtarti sūnų, karalius nuolan­
-    kiai paprašė palaikyti Vladislovą Zbignevą Olesnickį
-    ir, nusimovęs nuo piršto žiedą, jam atidavė, maldauda­
-    mas atleisti, jeigu kada su juo nesutaręs, reikšdamas
-    priešingą nuomonę.
+  citata_rodoma: "Ga­\nlop, pajutęs, kad jam visai užėmė kvapą, paliepė nu­\nnešti į lovą supratęs, jog ateiną paskutinioji. Pasikvie­\ntęs karalystės didikus, jis paprašė, kad, rinkdami sosto\nįpėdinį, neaplenktų sūnaus Vladislovo. Vienam ir ki­\ntam didikui pažadėjus užtarti sūnų, karalius nuolan­\nkiai paprašė palaikyti Vladislovą Zbignevą Olesnickį\nir, nusimovęs nuo piršto žiedą, jam atidavė, maldauda­\nmas atleisti, jeigu kada su juo nesutaręs, reikšdamas\npriešingą nuomonę."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185522
+    - t-001

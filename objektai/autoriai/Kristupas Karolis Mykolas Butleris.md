@@ -37,7 +37,6 @@ Kristupo Karolio Mykolo Butlerio dienoraštis buvo išsamesnis: įrašai jame da
 
 <a id="claim-t-202420"></a>
 - t-001
-  global_id: t-202420
   teiginys: "Kristupo Karolio Mykolo Butlerio dienoraštis buvo išsamesnis: įrašai jame daryti maždaug 24–25 kartus per mėnesį, juose pateikta daugiau visuomeninės informacijos."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -65,8 +64,5 @@ Kristupo Karolio Mykolo Butlerio dienoraštis buvo išsamesnis: įrašai jame da
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:11"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202420
+    - t-001

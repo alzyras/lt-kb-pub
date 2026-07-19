@@ -34,8 +34,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
 ## Teiginiai
 
 <a id="claim-t-179639"></a>
-- t-001
-  global_id: t-179639
+- t-002
   teiginys: "Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
     - c-30227
 
 <a id="claim-t-183748"></a>
-- t-002
-  global_id: t-183748
+- t-003
   teiginys: "Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
     - c-167136
 
 <a id="claim-t-196512"></a>
-- t-003
-  global_id: t-196512
+- t-004
   teiginys: "Algirdas, apvalęs Podolę nuo totorių, atidavė kraštą brolio Karijoto sūnums Aleksandrui, Konstantinui, Teodorui ir Jurgiui už pagalbą kare."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -131,7 +128,8 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179639
+    - t-002
+
 - id: c-167136
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -166,7 +164,8 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183748
+    - t-003
+
 - id: c-178740
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -190,7 +189,8 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196512
+    - t-004
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
 - Broliai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

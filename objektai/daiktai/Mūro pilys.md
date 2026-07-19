@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-19571"></a>
 - t-001
-  global_id: t-19571
   teiginys: "Gedimino ar Algirdo valdymo laikais aplink valstybės branduolį buvo sukurta mūro pilių sistema: Medininkai, Krėva, Lyda, Trakai, Gardinas ir Kaunas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,12 +80,11 @@ Nenurodyta
     civilizacijos ištakos. Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
     visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
     Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.
-  citata_rodoma: |
-    civilizacijos ištakos. Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
+  citata_rodoma: "civilizacijos ištakos. Valdant Gediminui ar jo sūnui Algirdui buvo sukurta"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19571
+    - t-001

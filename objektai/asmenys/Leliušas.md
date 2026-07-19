@@ -28,25 +28,11 @@ media_all_json: |-
 
 Lietuvos metraštyje Daugirdas kaltina Trakų vaivadą Leliušą, kad Žygimantas Trakų pilyje buvo nužudytas greičiausiai jo nurodymu.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-193953"></a>
-- t-001
-  global_id: t-193953
-  teiginys: 'Lietuvos metraštyje Daugirdas kaltina Trakų vaivadą Leliušą, kad Žygimantas Trakų pilyje buvo nužudytas greičiausiai jo nurodymu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Kaltinimas suformuluotas kaip Daugirdo pozicija metraštyje, o ne neutralus faktas. Paliktas Leliušo vaidmuo ir nepridėta papildomų sąmokslo detalių.'
-  pagrindžia:
-    - c-176578
-
-## Citatos
-
-- id: c-176578
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Lietuvos metraštyje Daugirdas kaltina Trakų vaivadą Leliušą, kad Žygimantas Trakų pilyje buvo nužudytas greičiausiai jo nurodymu.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ir, sugrąžinęs visus tuos miestus,
     Goštautas parvyko j Vilnių pas didįjį kunigaikštį.
@@ -66,10 +52,8 @@ Lietuvos metraštyje Daugirdas kaltina Trakų vaivadą Leliušą, kad Žygimanta
     palaikė Mykoliuko Zygimantaičio pusę 1 2 , seniūno Kęs-
     gailos vietininkus išvarė ir išsirinko seniūnu Dauman­
     tą, Kantauto giminaitįI S .
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:45"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193953
+  statusas: not_found

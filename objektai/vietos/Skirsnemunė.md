@@ -43,8 +43,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 ## Teiginiai
 
 <a id="claim-t-80132"></a>
-- t-001
-  global_id: t-80132
+- t-005
   teiginys: "1431 m. birželio 19 d. Skirsnemunėje Švitrigaila pasirašė sutartį su Ordino kryžiuočių ir Livonijos šakomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,9 +62,8 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   pagrindžia:
     - c-43853
 
-<a id="claim-t-80139"></a>
-- t-002
-  global_id: t-80139
+<a id="claim-t-80134"></a>
+- t-008
   teiginys: "1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     - c-77001
 
 <a id="claim-t-80135"></a>
-- t-003
-  global_id: t-80135
+- t-004
   teiginys: "Dėl vandens seklumo kryžiuočiai su Vytautu nuo Skirsnemunės nebegalėjo toliau plaukti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,9 +98,9 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   pagrindžia:
     - c-32422
     - c-167766
+
 <a id="claim-t-80138"></a>
-- t-004
-  global_id: t-80138
+- t-001
   teiginys: "1409 m. nuo Skirsnemunės pradėtos deginti kryžiuočių pilys, o kryžiuočiai buvo išvyti iš Žemaičių."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -121,8 +118,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     - c-77004
 
 <a id="claim-t-201106"></a>
-- t-005
-  global_id: t-201106
+- t-010
   teiginys: "Tatai dar pradžia tebuvo baisesnės karės, kuri atentį mėnesį ties pilė Skirsnemunės prasidėjo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -171,7 +167,8 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80135
+    - t-004
+
 - id: c-43853
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -187,19 +184,15 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     žiuočių ir Livonijos šakomis), „Romos
     karaliaus garbei“ 1431 m. birželio 19 d.,
     Skirsnemunėje.
-  citata_rodoma: |
-    Šis vedė
-    derybas ir pasirašė sutartį su Ordinu (kry-
-    žiuočių ir Livonijos šakomis), „Romos
-    karaliaus garbei“ 1431 m. birželio 19 d.,
-    Skirsnemunėje.
+  citata_rodoma: "Šis vedė\nderybas ir pasirašė sutartį su Ordinu (kry-\nžiuočių ir Livonijos šakomis), „Romos\nkaraliaus garbei“ 1431 m. birželio 19 d.,\nSkirsnemunėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80132
+    - t-005
+
 - id: c-77001
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -216,21 +209,15 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     Naugardu, Pskovu, Mozūrija, Odojevo ir
     Tverės kunigaikščiais. Tuo tarpu Jogailos
     Lenkijos santykiai su Ordinu aštrėjo.
-  citata_rodoma: |
-    Gegužės 15 d.
-
-    Skirsnemunėje Švitrigaila ir Ordinas
-    patvirtino prieš metus pasirašytą sutartį,
-    taip pat Švitrigaila sustiprino ryšius su
-    Naugardu, Pskovu, Mozūrija, Odojevo ir
-    Tverės kunigaikščiais.
+  citata_rodoma: "Gegužės 15 d.\n\nSkirsnemunėje Švitrigaila ir Ordinas\npatvirtino prieš metus pasirašytą sutartį,\ntaip pat Švitrigaila sustiprino ryšius su\nNaugardu, Pskovu, Mozūrija, Odojevo ir\nTverės kunigaikščiais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80139
+    - t-008
+
 - id: c-77004
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -243,18 +230,15 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pra-
     dėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys,
     o jie patys buvo išvyti iš Žemaičių.
-  citata_rodoma: |
-    Vytautas pats dar laikėsi nuošaliai,
-    bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pra-
-    dėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys,
-    o jie patys buvo išvyti iš Žemaičių.
+  citata_rodoma: "Vytautas pats dar laikėsi nuošaliai,\nbet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pra-\ndėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys,\no jie patys buvo išvyti iš Žemaičių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80138
+    - t-001
+
 - id: c-167766
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -269,13 +253,16 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     nesijudinti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-184456
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Žemaičiai, nuterioję baisiai bai-
     sesniai apygardas Ragainės ir Šalaujų, sugrįžo na­
@@ -294,6 +281,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201106
+    - t-010
+
 ## Ryšiai
 - Puolė Skirsnemunę: [[objektai/grupes/Žemaičiai]]

@@ -31,7 +31,6 @@ Dusburgietis teigia, kad istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo
 
 <a id="claim-t-60846"></a>
 - t-001
-  global_id: t-60846
   teiginys: "T. Manteuffelio „Papiestwo“ cituojamas prie teiginio, kad rutėnais dažnai vadinti pietinės Baltijos pakrantės ir Riugeno gyventojai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Dusburgietis teigia, kad istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60846
+    - t-001

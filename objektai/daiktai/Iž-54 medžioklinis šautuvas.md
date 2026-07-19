@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-40720"></a>
 - t-001
-  global_id: t-40720
   teiginys: "Iž-54 buvo SSRS gamybos lygiavamzdis 12 kalibro dvivamzdis medžioklinis šautuvas, naudotas 1991 m. parlamento rūmų gynybos savanorio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +81,7 @@ Nenurodyta
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Aukščiausiosios Tarybos rūmuose
+    1991 m. Aukščiausiosios Tarybos rūmuose
     budėjusių savanorių ginklas
 
     SSRS gamybos lygiavamzdis 12-to kalibro medžioklinis
@@ -90,19 +89,11 @@ Nenurodyta
     gynybos savanorio ginklas
 
     1991 m.
-  citata_rodoma: |
-    Aukščiausiosios Tarybos rūmuose
-    budėjusių savanorių ginklas
-
-    SSRS gamybos lygiavamzdis 12-to kalibro medžioklinis
-    dvivamzdis šautuvas Iž-54. 1991 m. parlamento rūmų
-    gynybos savanorio ginklas
-
-    1991 m.
+  citata_rodoma: "Aukščiausiosios Tarybos rūmuose\nbudėjusių savanorių ginklas\n\nSSRS gamybos lygiavamzdis 12-to kalibro medžioklinis\ndvivamzdis šautuvas Iž-54. 1991 m. parlamento rūmų\ngynybos savanorio ginklas\n\n1991 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40720
+    - t-001

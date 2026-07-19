@@ -36,7 +36,6 @@ Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kroniko
 
 <a id="claim-t-32373"></a>
 - t-001
-  global_id: t-32373
   teiginys: "Antroji Lietuvos metraščio redakcija pasakoja, kad 1234 m. Mindaugo tėvas prie Mohilnos kovojo prieš totorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,17 +67,11 @@ Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kroniko
     Mohilnos (Nemuno aukštupio dabartinėje Gudijoje). Lietuvos val­
     dovas, pagal Lietuvos metraštį, totorius ir jų sąjungininkus rusų
     kunigaikščius galutinai sutriuškinęs (« na golovu poraził »)^142.
-  citata_rodoma: |
-    Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas
-    (Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo
-    prieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie
-    Mohilnos (Nemuno aukštupio dabartinėje Gudijoje). Lietuvos val­
-    dovas, pagal Lietuvos metraštį, totorius ir jų sąjungininkus rusų
-    kunigaikščius galutinai sutriuškinęs (« na golovu poraził »)^142.
+  citata_rodoma: "Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas\n(Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo\nprieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie\nMohilnos (Nemuno aukštupio dabartinėje Gudijoje). Lietuvos val­\ndovas, pagal Lietuvos metraštį, totorius ir jų sąjungininkus rusų\nkunigaikščius galutinai sutriuškinęs (« na golovu poraził »)^142."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32373
+    - t-001

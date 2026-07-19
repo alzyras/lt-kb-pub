@@ -39,7 +39,6 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
 
 <a id="claim-t-201197"></a>
 - t-001
-  global_id: t-201197
   teiginys: "Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio kariauna susinė ręs, turėjo daugiaus nei ©0 000 karėjų; su ta galy be įgulęs į Parusnį, užėmė Onedos, arba Baigos, pilį su visa ąpykarta."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
 
 <a id="claim-t-201198"></a>
 - t-002
-  global_id: t-201198
   teiginys: "Mistras kalavijonų Zangerhauzenas, nujautęs tą ermyderį samionų, ketino juos sudrausti, kaipogi, skubiniai sukėlęs stiprią kariauną ir susinėręs su Klaipėdos įgulė, traukė į Samiją kopomis."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
 
 <a id="claim-t-201199"></a>
 - t-003
-  global_id: t-201199
   teiginys: "Naujasis mistras kalavijonų Andriejus Vestfalenas, norėdamas ant žemaičių apmaudą nugiežti už praėjusį nuopuolį, sukėlęs vėl Padaugavy kariauną, traukė žemaičių kariauti, kurį antpuolę žemaičiai staiga abaze stovintį, patį mistrą, 20 brostviu ir daugybę."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -79,8 +76,9 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
 ## Citatos
 
 - id: c-184547
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ateinantį metą, kaip buvo sakyta, Otokaras, ka­
     ralius Čekų, atkeliavo į Parusnį netikėlių lietuvių
@@ -100,11 +98,12 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201197
+    - t-001
 
 - id: c-184548
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuojau irklavo didi daugė sami anų lai­
     vų pajūriais, gandindami įgulę Klaipėdos ir dan­
@@ -133,11 +132,12 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201198
+    - t-002
 
 - id: c-184549
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lietuviai ne vien toj mūšoj savo grobį
     paturėjo, bet dar visą abažą kalavijonų įgiję pa­
@@ -155,4 +155,4 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201199
+    - t-003

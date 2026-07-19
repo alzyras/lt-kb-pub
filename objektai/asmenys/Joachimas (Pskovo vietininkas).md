@@ -39,7 +39,6 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
 
 <a id="claim-t-87706"></a>
 - t-001
-  global_id: t-87706
   teiginys: "1432 m. Pskovo vietininkas Joachimas su Aleksu Jefremovičiumi ir Pskovo bajorais sudarė sutartį su Švitrigaila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,6 +100,7 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87706
+    - t-001
+
 ## Ryšiai
 - Joachimas (Pskovo vietininkas) sudarė sutartį su [[objektai/asmenys/Švitrigaila]]

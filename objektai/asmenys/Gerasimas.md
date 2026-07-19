@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-87678"></a>
 - t-001
-  global_id: t-87678
   teiginys: "Švitrigaila įsakė sudeginti metropolitą Gerasimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87678
+    - t-001

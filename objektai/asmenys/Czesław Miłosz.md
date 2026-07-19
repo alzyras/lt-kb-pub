@@ -38,9 +38,8 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 
 ## Teiginiai
 
-<a id="claim-t-75795"></a>
-- t-001
-  global_id: t-75795
+<a id="claim-t-75793"></a>
+- t-003
   teiginys: "Czesławas Miłoszas buvo 1980 m. Nobelio literatūros premijos laureatas ir šlovino Vilnių už čia išeitą mokslą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     - c-73471
 
 <a id="claim-t-75794"></a>
-- t-002
-  global_id: t-75794
+- t-001
   teiginys: "Nobelio premijos laureatas Czesławas Miłoszas save laikė paskutiniu LDK piliečiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,17 +86,15 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
     viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
     po poros dešimtmečių sukūrę Lietuvos Respubliką.
-  citata_rodoma: |
-    Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-
-    tas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu
-    save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz).
+  citata_rodoma: "Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-\ntas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu \nsave laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75794
+    - t-001
+
 - id: c-73471
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -118,18 +114,11 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     266
     nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
     Gordimer (Nadina Gordimer) (g. 1923), kurios tėvas kilęs iš Lietuvos.
-  citata_rodoma: |
-    Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laurea-
-    to, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius
-
-    L I E T U V O S  I S T O R I J A
-    266
-    nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
-    Gordimer (Nadina Gordimer) (g.
+  citata_rodoma: "Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laurea-\nto, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius\n\nL I E T U V O S  I S T O R I J A\n266\nnuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine \nGordimer (Nadina Gordimer) (g."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75795
+    - t-003

@@ -31,7 +31,6 @@ Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį b
 
 <a id="claim-t-186092"></a>
 - t-001
-  global_id: t-186092
   teiginys: "Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį b
 
 <a id="claim-t-196402"></a>
 - t-002
-  global_id: t-196402
   teiginys: "Konradas įsakė Albertui Hagenui staiga užpulti Gardino pilį ir miestą, manydamas, kad jie likę be gynėjų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -96,5 +94,5 @@ Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186092
-    - t-196402
+    - t-001
+    - t-002

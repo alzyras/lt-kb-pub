@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-194810"></a>
 - t-001
-  global_id: t-194810
   teiginys: "Prūsijos kronikininkai išvardija tokias vaidilų pareigas : atnašauti dievams aukas, mokyti liaudį tikėjimo ir priklausan čių jam dalykų; šviesti žmones, mokant, kaip jie pagal dievų įsakymus privalo elgtis laikinajame gyvenime; melstis, idant permaldautų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194810
+    - t-001

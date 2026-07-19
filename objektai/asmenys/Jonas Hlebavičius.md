@@ -41,8 +41,7 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 ## Teiginiai
 
 <a id="claim-t-87391"></a>
-- t-001
-  global_id: t-87391
+- t-002
   teiginys: "Polocko vaivada Jonas Hlebavičius 1542 m. Vilniuje dalyvavo tarp karaliaus Žygimanto rašto liudininkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
     - c-83371
 
 <a id="claim-t-87393"></a>
-- t-002
-  global_id: t-87393
+- t-004
   teiginys: "Jonas Hlebavičius 1581 m. vasario 13 d. dokumente nurodytas kaip Minsko kaštelionas, krašto paiždininkis ir raštininkas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
     - c-83372
 
 <a id="claim-t-87394"></a>
-- t-003
-  global_id: t-87394
+- t-001
   teiginys: "Minsko kaštelionas Jonas Hlebavičius apie 1580 m. globojo Danieliaus iš Lenčicos evangelikų reformatų spaustuvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,7 +123,8 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87394
+    - t-001
+
 - id: c-83371
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -165,7 +163,8 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87391
+    - t-002
+
 - id: c-83372
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -202,41 +201,11 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 
     VILNIAUS MIESTO ISTORIJA// TOMAS
     In Ckristi nomine Amen.
-  citata_rodoma: |
-    — • —
-    423
-
-    ## Puslapis 440
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    Dievo sūnaus Jėzaus Kristaus tūkstantis penki šimtai aš­
-    tuoniasdešimt pirmaisiais gimimo metais, vasario mėnesio
-    tryliktą dieną.
-    (pasirašyta) Stephanus Rex
-    [Karalius Steponas]
-    (prikabintas antspaudas) Jonas Hlebavičius
-    - Dubrovnoje Minsko
-    kaštelionas, krašto
-    paiždininkis ir raštininkas
-    424
-
-    ## Puslapis 441
-
-    IV KNYGA
-    VYSKUPO SEMINARIJOS JSTEIGIMAS
-    IŠ VYSKUPŲ STALO DVARO,
-    VADINAMO VOZGĖLIŠKĖMIS
-    1582 METAI
-    (Kapitulos archyvas)
-
-    ## Puslapis 442
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    In Ckristi nomine Amen.
+  citata_rodoma: "— • —\n423\n\n## Puslapis 440\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nDievo sūnaus Jėzaus Kristaus tūkstantis penki šimtai aš­\ntuoniasdešimt pirmaisiais gimimo metais, vasario mėnesio \ntryliktą dieną.\n(pasirašyta) Stephanus Rex\n[Karalius Steponas]\n(prikabintas antspaudas) Jonas Hlebavičius\n- Dubrovnoje Minsko\nkaštelionas, krašto \npaiždininkis ir raštininkas\n424\n\n## Puslapis 441\n\nIV KNYGA\nVYSKUPO SEMINARIJOS JSTEIGIMAS \nIŠ VYSKUPŲ STALO DVARO, \nVADINAMO VOZGĖLIŠKĖMIS\n1582 METAI\n(Kapitulos archyvas)\n\n## Puslapis 442\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nIn Ckristi nomine Amen."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87393
+    - t-004

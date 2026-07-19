@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-34564"></a>
 - t-001
-  global_id: t-34564
   teiginys: "1401 m. Vytautas apskundė Ordiną imperijos kunigaikščiams, kad šis Žemaitijos suvereno padėtį išnaudoja Lietuvos ir krikščionybės nenaudai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,4 +95,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34564
+    - t-001

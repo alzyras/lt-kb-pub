@@ -43,8 +43,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 ## Teiginiai
 
 <a id="claim-t-102179"></a>
-- t-001
-  global_id: t-102179
+- t-006
   teiginys: "1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 
 <a id="claim-t-102181"></a>
 - t-002
-  global_id: t-102181
   teiginys: "Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -78,9 +76,9 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   pagrindžia:
     - c-43362
     - c-167169
+
 <a id="claim-t-102182"></a>
-- t-003
-  global_id: t-102182
+- t-004
   teiginys: "1673 m. turkai prie Chotino įrengė stiprius lauko įtvirtinimus."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -99,8 +97,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - c-43364
 
 <a id="claim-t-102183"></a>
-- t-004
-  global_id: t-102183
+- t-003
   teiginys: "Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,8 +116,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - c-43363
 
 <a id="claim-t-102185"></a>
-- t-005
-  global_id: t-102185
+- t-001
   teiginys: "Mūšyje prie Chotino didysis etmonas, vadovaudamas jungtinei Lietuvos ir Lenkijos kariuomenei prieš turkus, pasiekė paskutinę pergalę."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -182,7 +178,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102181
+    - t-002
+
 - id: c-43363
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -223,44 +220,15 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     vartais į Rusiją, todėl ne kartą tapo kari-
     nės konfrontacijos tarp Lietuvos ir Rusijos
     objektu.
-  citata_rodoma: |
-    1621 m. rugsėjo 22-spalio 10 d. CHOTINO MŪŠIS 117
-
-    ## Puslapis 120
-
-    E _-KURSO KUNIGAIKŠTYSTĖ S
-    res Livontios KUNIGAIKŠTYSTĖ ||
-    PES
-    Sen
-
-    PRŪSIJOS
-    KUNIGAIKSTYSTE-
-
-    “yf
-
-    LIETUVOS
-
-    14 DIDŽIOJI
-    “KUNIGAIKŠTYSTĖ
-    >
-
-    PA |
-    7
-
-    a
-
-    LENKUOS | 3
-    | KARALYSTĖ | ) uae
-
-    Mūšio priešistorė
-    1514 m.
+  citata_rodoma: "1621 m. rugsėjo 22-spalio 10 d. CHOTINO MŪŠIS 117\n\n## Puslapis 120\n\nE _-KURSO KUNIGAIKŠTYSTĖ S\nres Livontios KUNIGAIKŠTYSTĖ ||\nPES\nSen\n\nPRŪSIJOS\nKUNIGAIKSTYSTE-\n\n“yf\n\nLIETUVOS\n\n14 DIDŽIOJI\n“KUNIGAIKŠTYSTĖ\n>\n\nPA |\n7\n\na\n\nLENKUOS | 3\n| KARALYSTĖ | ) uae\n\nMūšio priešistorė\n1514 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102183
+    - t-003
+
 - id: c-43364
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -280,7 +248,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102182
+    - t-004
+
 - id: c-43365
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -316,7 +285,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102179
+    - t-006
+
 - id: c-95519
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -335,7 +305,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102185
+    - t-001
+
 - id: c-167169
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -359,3 +330,5 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -37,7 +37,6 @@ Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus krašto lenkų kom
 
 <a id="claim-t-22028"></a>
 - t-001
-  global_id: t-22028
   teiginys: "Nepriklausomybės pradžioje Vilniaus krašto lenkų komunistiniai funkcionieriai planavo teritorinę autonomiją su Vilniaus apskritimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,12 +71,11 @@ Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus krašto lenkų kom
     balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir
     Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbia-
     vimo sutartis.
-  citata_rodoma: |
-    Lietuvos valdžiai terminuotai įvedus juose tiesioginį valdymą, santykiai
+  citata_rodoma: "Lietuvos valdžiai terminuotai įvedus juose tiesioginį valdymą, santykiai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22028
+    - t-001

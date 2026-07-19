@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185567"></a>
 - t-001
-  global_id: t-185567
   teiginys: "Fiurstenbergas po Kuoknesės kapituliacijos įkalino Rygos arkivyskupą Vilhelmą ir jėga užėmė kitas jo pilis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168928
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Fiurstenbergas po Kuoknesės kapituliacijos įkalino Rygos arkivyskupą Vilhelmą ir jėga užėmė kitas jo pilis.'
@@ -87,8 +86,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185567
+
 ## Citatos
 
 - id: c-168928
@@ -110,27 +108,11 @@ Nenurodyta
     lininkai, įsakė, visaip iš jo pasityčiojęs, įmesti į kalė­
     jimą ir jėga užėmė kitas jo pilis, nors žadėjo to neda­
     ryti.
-  citata_rodoma: |
-    Daugybė bajorų stojo už teisybę bei arki­
-    vyskupą, tačiau šis, nesitikėdamas pergalės kovos lau­
-    ke, patraukė su rinktinių vyrų kariauna į Kuoknesę.
-    Ilgai gynėsi apsuptieji tvirtovėje, pastatytoje ant išti­
-    sinės uolos, atremdami vieną po kito visus antpuolius,
-    69 7
-
-    ## Puslapis 696
-
-    vis dėlto galop badas privertė pasiduoti tuos, kurių
-    nepalaužė ginklas. Kapituliacijos sąlygos nebuvo sun­
-    kios, bet Fiurstenbergas nei duoto žodžio laikėsi, nei
-    Vilhelmo kilmingumo paisė: kai šį atvilko magistro ša­
-    lininkai, įsakė, visaip iš jo pasityčiojęs, įmesti į kalė­
-    jimą ir jėga užėmė kitas jo pilis, nors žadėjo to neda­
-    ryti.
+  citata_rodoma: "Daugybė bajorų stojo už teisybę bei arki­\nvyskupą, tačiau šis, nesitikėdamas pergalės kovos lau­\nke, patraukė su rinktinių vyrų kariauna į Kuoknesę.\nIlgai gynėsi apsuptieji tvirtovėje, pastatytoje ant išti­\nsinės uolos, atremdami vieną po kito visus antpuolius,\n69 7\n\n## Puslapis 696\n\nvis dėlto galop badas privertė pasiduoti tuos, kurių\nnepalaužė ginklas. Kapituliacijos sąlygos nebuvo sun­\nkios, bet Fiurstenbergas nei duoto žodžio laikėsi, nei\nVilhelmo kilmingumo paisė: kai šį atvilko magistro ša­\nlininkai, įsakė, visaip iš jo pasityčiojęs, įmesti į kalė­\njimą ir jėga užėmė kitas jo pilis, nors žadėjo to neda­\nryti."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185567
+    - t-001

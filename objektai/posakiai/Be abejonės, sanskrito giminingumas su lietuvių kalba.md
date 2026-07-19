@@ -30,8 +30,7 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
 ## Teiginiai
 
 <a id="claim-t-13491"></a>
-- t-001
-  global_id: t-13491
+- t-005
   teiginys: "Posakyje sanskrito giminingumas su lietuvių kalba laikomas didesniu negu su bet kuria kita kalba žemėje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -47,8 +46,7 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
     - c-16503
 
 <a id="claim-t-13492"></a>
-- t-002
-  global_id: t-13492
+- t-006
   teiginys: "Posakis apie sanskrito giminingumą su lietuvių kalba priskiriamas Robertui Gordonui Lathamui."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -85,13 +83,12 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
     cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-
     gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
     25 km į šiaurę nuo Lietuvos sostinės Vilniaus.
-  citata_rodoma: |
-    „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
+  citata_rodoma: "„Be abejonės, sanskrito giminingumas su lietuvių kalba yra"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13491
-    - t-13492
+    - t-005
+    - t-006

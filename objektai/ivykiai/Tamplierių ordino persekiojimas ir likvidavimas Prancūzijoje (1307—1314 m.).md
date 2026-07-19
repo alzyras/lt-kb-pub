@@ -61,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-62933"></a>
 - t-001
-  global_id: t-62933
   teiginys: "Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir veikė Teutonų ordinas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,9 +81,8 @@ Nenurodyta
 
 <a id="claim-t-62934"></a>
 - t-002
-  global_id: t-62934
   teiginys: "1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "gyveno -> Prancūzija: 0.74"
@@ -104,7 +102,6 @@ Nenurodyta
 
 <a id="claim-t-196974"></a>
 - t-003
-  global_id: t-196974
   teiginys: "Jo statute padaryta atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos, apribojama pasaulietiniai brolių poreikiai, aprangos ir ginklų puošnumas, finansiniai ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -126,18 +123,15 @@ Nenurodyta
     padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
     Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo
     Teutonų ordinas.
-  citata_rodoma: |
-    Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
-    padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
-    Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo
-    Teutonų ordinas.
+  citata_rodoma: "Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų\npadarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai\nPrancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo\nTeutonų ordinas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62933
+    - t-001
+
 - id: c-63810
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -149,19 +143,12 @@ Nenurodyta
     ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
     vienuolių bendruomenės gyvenimo dėsniai. Vernerio prierašuose pabrėžiama, jog jie
     skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
-  citata_rodoma: |
-    1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
-    m.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310
-    m. vyskupų sinodas pasmerkė 54 tamplierius sudeginti. Apkaltintas erezija Tamplierių
-    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
-    Paryžiuje 1314 m.69
-      Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
-    argumentacijos.
+  citata_rodoma: "1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291\nm.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310\nm. vyskupų sinodas pasmerkė 54 tamplierius sudeginti. Apkaltintas erezija Tamplierių\nordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo\nParyžiuje 1314 m.69\n  Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis\nargumentacijos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62934
-    - t-196974
+    - t-002
+    - t-003

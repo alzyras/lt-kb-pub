@@ -45,8 +45,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-179764"></a>
-- t-001
-  global_id: t-179764
+- t-008
   teiginys: "Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,8 +65,7 @@ media_all_json: |-
     - c-163423
 
 <a id="claim-t-179765"></a>
-- t-002
-  global_id: t-179765
+- t-009
   teiginys: "1393 m. pavasarį Briansko ir Naugardo-Sieversko kunigaikštis Dimitras Kaributas buvo nugalėtas kautynėse ir neteko valdos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,8 +84,7 @@ media_all_json: |-
     - c-163424
 
 <a id="claim-t-184937"></a>
-- t-003
-  global_id: t-184937
+- t-010
   teiginys: "Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -104,7 +101,6 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168298
-    - c-003
 - susijęs iš [[objektai/zodynas/monarchas monarchija.md#claim-t-185388|monarchas monarchija]]: Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185495|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
 - susijęs iš Rževas: Algirdas dar 1356 m. tvirtinosi Volgos aukštupyje, Rževe, ir atakavo Brianską bei Smolenską.
@@ -166,8 +162,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184937
+
 ## Citatos
 
 - id: c-163423
@@ -180,18 +175,15 @@ media_all_json: |-
     į ordino valdas, 8 — į Lenkiją ir 20 — į rusų žemes140 141. Apie
     1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių
     prie Dniepro — Černigovo ir Briansko kunigaikštijose.
-  citata_rodoma: |
-    ) iš 33 lietuvių karo žygių į kaimynus tik 5 tėra buvę
-    į ordino valdas, 8 — į Lenkiją ir 20 — į rusų žemes140 141. Apie
-    1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių
-    prie Dniepro — Černigovo ir Briansko kunigaikštijose.
+  citata_rodoma: ") iš 33 lietuvių karo žygių į kaimynus tik 5 tėra buvę\nį ordino valdas, 8 — į Lenkiją ir 20 — į rusų žemes140 141. Apie\n1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių\nprie Dniepro — Černigovo ir Briansko kunigaikštijose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179764
+    - t-008
+
 - id: c-163424
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -202,18 +194,15 @@ media_all_json: |-
     laikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­
     versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse
     buvo nugalėtas. Jis nebeteko ir savo valdos.
-  citata_rodoma: |
-    paėmė Vitebską. Dėl neaiškios
-    laikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­
-    versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse
-    buvo nugalėtas. Jis nebeteko ir savo valdos.
+  citata_rodoma: "paėmė Vitebską. Dėl neaiškios\nlaikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­\nversko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse\nbuvo nugalėtas. Jis nebeteko ir savo valdos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179765
+    - t-009
+
 - id: c-168298
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -230,24 +219,15 @@ media_all_json: |-
     kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
     senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
     minystės ryšiais.
-  citata_rodoma: |
-    Gediminas, pasilsėjęs čia, kol artimiausios pi­
-    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
-    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
-    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
-    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
-    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
-    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
-    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
-    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
-    džioje.
+  citata_rodoma: "Gediminas, pasilsėjęs čia, kol artimiausios pi­\nlys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­\nvė nugalėtojui, patraukė į Severską. Užėmęs Brianską\nir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­\nkariavęs Kijevą, Volynę ir didelę Seversko dalį, jis\nišplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­\nniui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi\nKijevo monarchija, patyrusi visokių sėkmių ir nesėk­\nmių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­\ndžioje."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184937
+    - t-010
+
 ## Ryšiai
 - Puolė Brianską: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Užėmė Brianską: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

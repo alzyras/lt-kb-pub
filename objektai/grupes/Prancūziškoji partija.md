@@ -31,7 +31,6 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
 
 <a id="claim-t-66038"></a>
 - t-001
-  global_id: t-66038
   teiginys: "Prancūzų partija atrodė stipriausia po to, kai Jokūbą silpnino nepopuliarumas ir šeimos kivirčai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
 
 <a id="claim-t-193123"></a>
 - t-002
-  global_id: t-193123
   teiginys: "Todėl stipriausia atrodė Prancūzų partija."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -61,7 +59,6 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
 
 <a id="claim-t-193124"></a>
 - t-003
-  global_id: t-193124
   teiginys: "Prancūziškoji partija tačiau atskirai paskelbė išrinktu princą Kontį."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -87,16 +84,15 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
     prieš jį veikė net pati
     motina. Todėl stipriausia
     atrodė Prancūzų partija.
-  citata_rodoma: |
-    Todėl stipriausia
-    atrodė Prancūzų partija.
+  citata_rodoma: "Todėl stipriausia\natrodė Prancūzų partija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66038
+    - t-001
+
 - id: c-175882
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -118,7 +114,8 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193123
+    - t-002
+
 - id: c-175883
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -135,4 +132,4 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193124
+    - t-003

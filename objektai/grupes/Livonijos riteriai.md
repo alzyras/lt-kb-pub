@@ -39,7 +39,6 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
 
 <a id="claim-t-189478"></a>
 - t-001
-  global_id: t-189478
   teiginys: "Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai puolė lietuvius šaukdami tikrojo Dievo vardą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -63,9 +62,8 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
 
 <a id="claim-t-189479"></a>
 - t-002
-  global_id: t-189479
   teiginys: "Narbutas pasakoja, kad Livonijos riteriai Dangerutį sugavo klasta arba pasaloje ir laikė surakintą Vendeno pilyje."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -81,10 +79,9 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172366
-    - c-002
+
 <a id="claim-t-189480"></a>
 - t-003
-  global_id: t-189480
   teiginys: "Narbutas Gediminą vaizduoja kaip Ariogaloje iškilusį kovotoją su kryžiuočiais ir Livonijos riteriais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -130,8 +127,7 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189479
+
 ## Citatos
 
 - id: c-172365
@@ -153,7 +149,8 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189478
+    - t-001
+
 - id: c-172366
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -173,25 +170,15 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
     nes žmonių polinkiai visur panašūs, piktnaudžiaujančių svai­
     ginamaisiais gėrimais ištvirkimas visur dangstomas dievobai­
     mingumo skraiste.
-  citata_rodoma: |
-    Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
-    sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
-    kalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­
-    ją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­
-    sų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo
-    Gercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis
-    Daugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;
-    kiek kartų jį turėję su savimi kovodami su livoniečiais, tiek
-    kartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės
-    keršydamas už nužudymą Dangeručio, kuris, kaip jie manė,
-    nelaisvėje buvo nužudytas tuo kalaviju.
+  citata_rodoma: "Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje\nsugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties\nkalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­\nją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­\nsų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo\nGercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis\nDaugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;\nkiek kartų jį turėję su savimi kovodami su livoniečiais, tiek\nkartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės\nkeršydamas už nužudymą Dangeručio, kuris, kaip jie manė,\nnelaisvėje buvo nužudytas tuo kalaviju."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189479
+    - t-002
+
 - id: c-172367
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -210,4 +197,4 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189480
+    - t-003

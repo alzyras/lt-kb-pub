@@ -66,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-23302"></a>
 - t-001
-  global_id: t-23302
   teiginys: "1991 m. sausio 12 d. vakare aplink AT-AS pastatą buvo statomos betoninės sienos ir spygliuotų vielų užtvaros."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -85,8 +84,7 @@ Nenurodyta
     - c-16939
 
 <a id="claim-t-23303"></a>
-- t-002
-  global_id: t-23303
+- t-003
   teiginys: "1991 m. sausio 12 d. vakare prie parlamento budint žmonėms aplink AT-AS pastatą buvo statomos betoninės sienos ir spygliuotų vielų užtvaros."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,13 +131,12 @@ Nenurodyta
     12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei
     Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė
     daugiatūkstantinė taikių Lietuvos gyventojų minia.
-  citata_rodoma: |
-    nios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie
+  citata_rodoma: "nios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23302
-    - t-23303
+    - t-001
+    - t-003

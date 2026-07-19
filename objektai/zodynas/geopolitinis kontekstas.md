@@ -31,7 +31,6 @@ Stengtasi pateikti daug kontekstinės informacijos, nupasakojančios kiekvieno l
 
 <a id="claim-t-193806"></a>
 - t-001
-  global_id: t-193806
   teiginys: "Stengtasi pateikti daug kontekstinės informacijos, nupasakojančios kiekvieno laikotarpio karybos, ginkluotės raidos tendencijas bei regiono geopolitinį kontekstą."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Stengtasi pateikti daug kontekstinės informacijos, nupasakojančios kiekvieno l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193806
+    - t-001

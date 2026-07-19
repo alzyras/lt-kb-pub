@@ -31,7 +31,6 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
 
 <a id="claim-t-190089"></a>
 - t-001
-  global_id: t-190089
   teiginys: "Narbutas polemikoje teigia, kad kronikose Brutenio vardas rašytas netiksliai ir turėjo tokią pačią galūnę kaip Vaidevučio vardas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
 
 <a id="claim-t-200973"></a>
 - t-002
-  global_id: t-200973
   teiginys: "Nes jei Brutenis buvo jau viešpačiu ir tarnu dievų ir visų vyriausiu valdymieru ūkės dar pirm Vitevudo, kaip pati pasaka byloja, tai turėjo pirmesniai būti žinyčia įkurta ir kunigai paskirti, kurie ūkės dievus pirm to jau godojo, ką ne vien Pitėjas, kurs tą."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -95,10 +93,12 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190089
+    - t-001
+
 - id: c-184323
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mėklinantis į visą tą pasaką, gal regėti ją sutin­
     kančią daugioj vietoj su pasakomis viršiaus mina-
@@ -124,4 +124,4 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200973
+    - t-002

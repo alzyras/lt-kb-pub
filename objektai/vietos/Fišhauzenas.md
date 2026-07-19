@@ -32,8 +32,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 ## Teiginiai
 
 <a id="claim-t-58548"></a>
-- t-001
-  global_id: t-58548
+- t-002
   teiginys: "Fišhauzenas, dabartinis Primorskas, buvo gyvenvietė pietvakarių Semboje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     - c-59180
 
 <a id="claim-t-58549"></a>
-- t-002
-  global_id: t-58549
+- t-001
   teiginys: "Rinavos valsčiaus sembai užpuolė Sembos vyskupo pilį Fišhauzeną, kurioje tuo metu buvo tik vienas brolis ir jo tarnas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,9 +67,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 
 <a id="claim-t-194731"></a>
 - t-004
-  global_id: t-194731
   teiginys: "Iš šventojo Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab meldžių žynys Siggo, kuris buvo pats pirmasis žudikas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -80,7 +77,6 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177127
-    - c-003
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175079|Sembai]]: Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-183894|Sembai]]: Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį.
 - susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89394|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Rinavos valsčiaus sembai atkrito nuo tikėjimo, subūrė kariuomenę ir užpuolė Sembos vyskupo Fišhauzeno pilį.
@@ -125,8 +121,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194731
+
 ## Citatos
 
 - id: c-59180
@@ -142,7 +137,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58548
+    - t-002
+
 - id: c-167538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -159,7 +155,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58549
+    - t-001
+
 - id: c-177127
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -181,22 +178,14 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     išsigimstant lietuvių mitologijai, burtininkų profesija nusmu­
     ko iki paprastų dainių lygio; jų klausydavosi pasilinksminimui
     ir pramogai.
-  citata_rodoma: |
-    Signotai (Sigonottaį
-    Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos
-    senovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką
-    arba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba
-    Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo
-    Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
-    ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­
-    tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
-    meldžių žynys Siggo, kuris buvo pats pirmasis žudikas.
+  citata_rodoma: "Signotai (Sigonottaį\nTai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos\nsenovės prūsų kalba, pasak Hartknocho, turėjo reikšti tvarką\narba vienuoliją. Tie žyniai buvo išskirtinai dievo Atrimpo arba\nGardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo\nAdalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­\nja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­\ntėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­\nmeldžių žynys Siggo, kuris buvo pats pirmasis žudikas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194731
+    - t-004
+
 ## Ryšiai
 - Puolė Fišhauzeną: [[objektai/grupes/Sembai]]

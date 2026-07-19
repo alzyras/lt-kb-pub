@@ -31,7 +31,6 @@ Bendoraitis apsisuko kelis kartus ore ir nukrito.
 
 <a id="claim-t-40067"></a>
 - t-001
-  global_id: t-40067
   teiginys: "Po sviedinio sprogimo skyrininkas Bendoraitis buvo išmestas aukščiau telefono stulpų ir nukrito."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,20 +59,12 @@ Bendoraitis apsisuko kelis kartus ore ir nukrito.
     Bermontininkas —
 
     AB 1 Aap ee iš vokiečių karys
-    pamatė už kokių penkiolikos metrų gulintį savo šautuvą.
-  citata_rodoma: |
-    Vienas sviedinys sprogo po
-    skyrininku Bendoraičiu ir išmetė jį aukščiau telefono stulpų.
-    Bendoraitis apsisuko kelis kartus ore ir nukrito. Atrodė, kad
-
-    Bermontininkas —
-
-    AB 1 Aap ee iš vokiečių karys
-    pamatė už kokių penkiolikos metrų gulintį savo šautuvą.
+    pamatė už kokių penkiolikos metrų gulintį savo šautuvą. ai
+  citata_rodoma: "Vienas sviedinys sprogo po\nskyrininku Bendoraičiu ir išmetė jį aukščiau telefono stulpų.\nBendoraitis apsisuko kelis kartus ore ir nukrito. Atrodė, kad\n\nBermontininkas —\n\nAB 1 Aap ee iš vokiečių karys\npamatė už kokių penkiolikos metrų gulintį savo šautuvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40067
+    - t-001

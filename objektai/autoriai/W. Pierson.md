@@ -39,7 +39,6 @@ Dusburgietis teigia, kad pierson.— Berlin, 1871.
 
 <a id="claim-t-60850"></a>
 - t-001
-  global_id: t-60850
   teiginys: "W. Piersonas 1871 m. Berlyne išleido M. Prätoriaus „Deliciae Prussicae oder Preussische Schaubühne“ rankraščio ištrauką."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Dusburgietis teigia, kad pierson.— Berlin, 1871.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60850
+    - t-001

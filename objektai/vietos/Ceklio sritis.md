@@ -31,7 +31,6 @@ Vadinamoji Ceklio sritis, kuri priskiriama Kuršiams, siekė ir dešinįjį Vent
 
 <a id="claim-t-32098"></a>
 - t-001
-  global_id: t-32098
   teiginys: "Kuršiams priskiriama Ceklio sritis istorinių laikų pradžioje siekė dešinįjį Ventos krantą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,15 +59,11 @@ Vadinamoji Ceklio sritis, kuri priskiriama Kuršiams, siekė ir dešinįjį Vent
     kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir
     Klaipėdos apylinkę. Vadinamoji Ceklio sritis, kuri priskiriama
     Kuršiams, siekė ir dešinįjį Ventos krantą (A. Salys).
-  citata_rodoma: |
-    Istorinių laikų angoje
-    kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir
-    Klaipėdos apylinkę. Vadinamoji Ceklio sritis, kuri priskiriama
-    Kuršiams, siekė ir dešinįjį Ventos krantą (A. Salys).
+  citata_rodoma: "Istorinių laikų angoje\nkuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir\nKlaipėdos apylinkę. Vadinamoji Ceklio sritis, kuri priskiriama\nKuršiams, siekė ir dešinįjį Ventos krantą (A. Salys)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32098
+    - t-001

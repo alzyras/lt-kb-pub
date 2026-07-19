@@ -32,7 +32,6 @@ Tiesa, pastarojoj sutarty nerandame jokio teoretinio santykių apibrėžimo, kok
 
 <a id="claim-t-36823"></a>
 - t-001
-  global_id: t-36823
   teiginys: "Vytauto santykiai su Lenkija buvo apibrėžti kaip valdomojo su aukštesniu perdėtiniu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,16 +61,11 @@ Tiesa, pastarojoj sutarty nerandame jokio teoretinio santykių apibrėžimo, kok
     brėžti, kaip valdomojo su aukštesniu perdėtiniu^1 ). Lenkų ponų
     taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
     kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija.
-  citata_rodoma: |
-    Tiesa, pastarojoj sutarty nerandame jokio teoretinio
-    santykių apibrėžimo, kokie nuo to laiko turėjo susidaryt tarp
-    Lietuvos ir Lenkijos; Vytauto gi santykiai su Lenkija buvo api­
-    brėžti, kaip valdomojo su aukštesniu perdėtiniu^1 ). Lenkų ponų
-    taryba Radome davė garantiją, kaip lietuv.
+  citata_rodoma: "Tiesa, pastarojoj sutarty nerandame jokio teoretinio\nsantykių apibrėžimo, kokie nuo to laiko turėjo susidaryt tarp\nLietuvos ir Lenkijos; Vytauto gi santykiai su Lenkija buvo api­\nbrėžti, kaip valdomojo su aukštesniu perdėtiniu^1 ). Lenkų ponų\ntaryba Radome davė garantiją, kaip lietuv."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36823
+    - t-001

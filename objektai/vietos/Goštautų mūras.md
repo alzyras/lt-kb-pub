@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-86071"></a>
 - t-001
-  global_id: t-86071
   teiginys: "Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo Goštautų vardu vadintą mūrinį namą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ media_all_json: |-
 
 <a id="claim-t-86072"></a>
 - t-002
-  global_id: t-86072
   teiginys: "Kardinolas Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią, kurioje ilgai buvo laikomos pamaldos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86071
+    - t-001
+
 - id: c-82051
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -116,4 +115,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86072
+    - t-002

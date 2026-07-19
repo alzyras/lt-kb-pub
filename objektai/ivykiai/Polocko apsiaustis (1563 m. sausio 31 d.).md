@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41344"></a>
-- t-001
-  global_id: t-41344
+- t-002
   teiginys: "Polocko praradimas buvo skaudi netektis Lietuvai, nes miestas buvo svarbus prekybos centras ir stipriausia rytinių žemių tvirtovė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Nenurodyta
     - c-43106
 
 <a id="claim-t-41345"></a>
-- t-002
-  global_id: t-41345
+- t-001
   teiginys: "1563 m. sausio 31 d. Ivanas Rūstusis su 60 tūkst. karių pradėjo Polocko apsiaustį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,13 +108,14 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41344
+    - t-002
+
 - id: c-44925
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Tačiau 1563 m. pra-
+    nių rezultatų nepasiekė. Tačiau 1563 m. pra-
 
     džioje caras Ivanas Rūstusis, asmeniškai
     vadovaudamas 60 tūkstančių karių, įsi-
@@ -125,20 +124,11 @@ Nenurodyta
     Nors miestas didvyriškai gynėsi, po dviejų
     savaičių kovos įgula, nebegalėdama prie-
     šintis, pasidavė.
-  citata_rodoma: |
-    Tačiau 1563 m. pra-
-
-    džioje caras Ivanas Rūstusis, asmeniškai
-    vadovaudamas 60 tūkstančių karių, įsi-
-    veržė į Lietuvos Didžiąją Kunigaikštystę
-    ir sausio 31 d. pradėjo Polocko apsiaustį.
-    Nors miestas didvyriškai gynėsi, po dviejų
-    savaičių kovos įgula, nebegalėdama prie-
-    šintis, pasidavė.
+  citata_rodoma: "Tačiau 1563 m. pra-\n\ndžioje caras Ivanas Rūstusis, asmeniškai\nvadovaudamas 60 tūkstančių karių, įsi-\nveržė į Lietuvos Didžiąją Kunigaikštystę\nir sausio 31 d. pradėjo Polocko apsiaustį.\nNors miestas didvyriškai gynėsi, po dviejų\nsavaičių kovos įgula, nebegalėdama prie-\nšintis, pasidavė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41345
+    - t-001

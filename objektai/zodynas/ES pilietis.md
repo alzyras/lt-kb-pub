@@ -31,7 +31,6 @@ Kiek­ vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių 
 
 <a id="claim-t-193665"></a>
 - t-001
-  global_id: t-193665
   teiginys: "Kiek vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių narių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos rinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir konsulinių kiekvienos šalies."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Kiek­ vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193665
+    - t-001

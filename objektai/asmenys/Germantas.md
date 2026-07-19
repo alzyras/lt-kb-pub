@@ -39,8 +39,7 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 ## Teiginiai
 
 <a id="claim-t-87425"></a>
-- t-001
-  global_id: t-87425
+- t-002
   teiginys: "Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėjo pirmasis įkurdinti vaidilą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
     - c-83406
 
 <a id="claim-t-87426"></a>
-- t-002
-  global_id: t-87426
+- t-003
   teiginys: "Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
     - c-83404
 
 <a id="claim-t-87427"></a>
-- t-003
-  global_id: t-87427
+- t-001
   teiginys: "Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +93,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 
 <a id="claim-t-184703"></a>
 - t-004
-  global_id: t-184703
   teiginys: "Kojelavičiaus pasakojime Šventaragis, norėdamas ramybės tėvynėje, paskyrė beveik šešiasdešimtmetį sūnų Germantą įpėdiniu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -118,7 +114,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 
 <a id="claim-t-184704"></a>
 - t-005
-  global_id: t-184704
   teiginys: "Germantas apvalė valdovų laidojimo aikštę, paskelbė ją laidotuvių vieta ir įsteigė žynių tarnybas amžinajai ugniai prižiūrėti."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -131,7 +126,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 
 <a id="claim-t-184705"></a>
 - t-006
-  global_id: t-184705
   teiginys: "Kojelavičiaus pasakojime Germantas su lenkais sudarė sąjungą ne tiek taikai, kiek siekdamas visomis jėgomis pulti rusus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -152,7 +146,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 
 <a id="claim-t-184706"></a>
 - t-007
-  global_id: t-184706
   teiginys: "Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -173,7 +166,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 
 <a id="claim-t-196459"></a>
 - t-008
-  global_id: t-196459
   teiginys: "Germantas ėmėsi taikiai tvarkytis ir kurdinti šalyje nausėdijas: tuo metu buvo padėti pamatai Gervėčių miesteliui."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -186,7 +178,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 
 <a id="claim-t-196460"></a>
 - t-009
-  global_id: t-196460
   teiginys: "Kojelavičiaus pasakojime po Germanto Kernavėje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu, o Trobiui patikėta Žemaitija."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -241,7 +232,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87426
+    - t-003
+
 - id: c-83405
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -268,34 +260,15 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
     vietovė kokios nors mažos kunigaikščio dalinės valdos Lie­
     tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
     okratinio valdymo centrų tikrai galėjo būti8.
-  citata_rodoma: |
-    I. Esą
-    pirmasis toje vietovėje įkurdinęs gy­
-    venvietę Germantas, vykdydamas
-    savo tėvo, kunigaikščio Šventaragio,
-    pasak jų, viešpatavusio Lietuvoje
-    apie 1268 m., valią, tam slėny pir­
-    masis miškus išnaikinęs ir savo tė­
-    vo bei savo paties įpėdinių kapavie­
-    tėms skyręs; pavadino ją vardu tėvo,
-    Šventaragio, kas reikštų Šventą al-
-    18
-
-    ## Puslapis 35
-
-    I  KNYGA
-    Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų
-    nebuvo Europai žinomas kaip miestas, nebuvo pirmapradė
-    vietovė kokios nors mažos kunigaikščio dalinės valdos Lie­
-    tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
-    okratinio valdymo centrų tikrai galėjo būti8.
+  citata_rodoma: "I. Esą \npirmasis toje vietovėje įkurdinęs gy­\nvenvietę Germantas, vykdydamas \nsavo tėvo, kunigaikščio Šventaragio, \npasak jų, viešpatavusio Lietuvoje \napie 1268 m., valią, tam slėny pir­\nmasis miškus išnaikinęs ir savo tė­\nvo bei savo paties įpėdinių kapavie­\ntėms skyręs; pavadino ją vardu tėvo, \nŠventaragio, kas reikštų Šventą al-\n18\n\n## Puslapis 35\n\nI  KNYGA\nUrna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų \nnebuvo Europai žinomas kaip miestas, nebuvo pirmapradė \nvietovė kokios nors mažos kunigaikščio dalinės valdos Lie­\ntuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­\nokratinio valdymo centrų tikrai galėjo būti8."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87427
+    - t-001
+
 - id: c-83406
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -321,7 +294,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87425
+    - t-002
+
 - id: c-168064
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -342,7 +316,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184703
+    - t-004
+
 - id: c-168065
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -371,7 +346,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184704
+    - t-005
+
 - id: c-168066
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -398,7 +374,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184705
+    - t-006
+
 - id: c-168067
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -415,24 +392,15 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
     įsidėmėtina tais laikais neįvyko, išskyrus kelis nioko­
     jamus žygius į Lenkiją, tiesa, ir juos ne visus sumini
     rašytojai.
-  citata_rodoma: |
-    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
-    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
-    ir žuvo. Netrukus po to Lietuvoje baigė dienas ir Ger­
-    mantas. Sukvietus Kernavėje didikų sueigą, Germanto
-    vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
-    valdovu, jo broliui Trobiui
-    patikėta Žemaitija su ta są­
-    lyga, kad jis bus pavaldus
-    Lietuvos didžiajam kunigaik­
-    ščiui.
+  citata_rodoma: "Tokio pat likimo susilaukė jo įpėdinis Andrius fon\nVestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas\nir žuvo. Netrukus po to Lietuvoje baigė dienas ir Ger­\nmantas. Sukvietus Kernavėje didikų sueigą, Germanto\nvyresnysis sūnus Giliginas buvo paskelbtas Lietuvos\nvaldovu, jo broliui Trobiui\npatikėta Žemaitija su ta są­\nlyga, kad jis bus pavaldus\nLietuvos didžiajam kunigaik­\nščiui."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184706
+    - t-007
+
 - id: c-178702
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -453,7 +421,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196459
+    - t-008
+
 - id: c-178703
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -478,7 +447,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196460
+    - t-009
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Giliginas]]
 - Tėvai: [[objektai/asmenys/Šventaragis]]

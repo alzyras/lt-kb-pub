@@ -32,21 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z.
 
-## Teiginiai
-
-<a id="claim-t-61202"></a>
-- t-001
-  global_id: t-61202
-  teiginys: "R. Odoj straipsnis „Dorobek archeologii na Warmii i Mazurach“ paskelbtas 1965 m. žurnalo „Z otchłani wieków“ 2 sąsiuvinyje, p. 95–105."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1965 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinius duomenis, o pradinis teiginys neturi predikato."
-  pagrindžia:
-    - c-61834
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'R. Odoj straipsnis „Dorobek archeologii na Warmii i Mazurach“ paskelbtas 1965 m. žurnalo „Z otchłani wieków“ 2 sąsiuvinyje, p. 95–105.'
@@ -59,8 +44,7 @@ Dusburgietis teigia, kad dorobek archeologii na Warmii i Mazurach —Z otchłani
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61202
+
 ## Citatos
 
 - id: c-61834
@@ -77,13 +61,25 @@ Dusburgietis teigia, kad dorobek archeologii na Warmii i Mazurach —Z otchłani
     (D.— Jonis, Jer.— Jon), Sarginio s.
 
     Krikštytojas, šv.
-  citata_rodoma: |
-    Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z. 2, s.
-    95—105.
+  citata_rodoma: "Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z. 2, s.\n95—105."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61202
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-61202"></a>
+- t-001
+  teiginys: "R. Odoj straipsnis „Dorobek archeologii na Warmii i Mazurach“ paskelbtas 1965 m. žurnalo „Z otchłani wieków“ 2 sąsiuvinyje, p. 95–105."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1965 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinius duomenis, o pradinis teiginys neturi predikato."
+  pagrindžia:
+    - c-61834

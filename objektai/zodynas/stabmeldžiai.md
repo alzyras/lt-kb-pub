@@ -31,7 +31,6 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
 
 <a id="claim-t-185392"></a>
 - t-001
-  global_id: t-185392
   teiginys: "Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisinti karą jų žemėse."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -102,4 +101,4 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185392
+    - t-001

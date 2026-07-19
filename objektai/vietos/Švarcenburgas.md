@@ -31,7 +31,6 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
 
 <a id="claim-t-86320"></a>
 - t-001
-  global_id: t-86320
   teiginys: "Švarcenburgas nurodytas tarp Livonijos pilių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86320
+    - t-001

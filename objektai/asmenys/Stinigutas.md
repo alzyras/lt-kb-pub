@@ -31,7 +31,6 @@ Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš ku
 
 <a id="claim-t-191470"></a>
 - t-001
-  global_id: t-191470
   teiginys: "Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš kurių buvo renkami vyriausieji vadai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -45,7 +44,6 @@ Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš ku
 
 <a id="claim-t-197816"></a>
 - t-002
-  global_id: t-197816
   teiginys: "Iš šių galingų žmonių buvo renkami vyriausieji vadai, kurių vienas buvo Stinigutas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,5 +79,5 @@ Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191470
-    - t-197816
+    - t-001
+    - t-002

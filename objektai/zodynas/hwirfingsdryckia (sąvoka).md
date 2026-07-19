@@ -41,7 +41,6 @@ Kai kurių autorių teigimu, vikingų visuomenėje hwirfingsdryckia reiškė gė
 
 <a id="claim-t-200724"></a>
 - t-001
-  global_id: t-200724
   teiginys: "Kai kurių autorių teigimu, vikingų visuomenėje hwirfingsdryckia reiškė gėrimą iš vienos taurės, leidžiant ją ratu."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -70,8 +69,5 @@ Kai kurių autorių teigimu, vikingų visuomenėje hwirfingsdryckia reiškė gė
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200724
+    - t-001

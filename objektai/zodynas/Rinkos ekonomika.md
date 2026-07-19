@@ -31,7 +31,6 @@ Sukūrusi laisvą demokratinę visuomenę ir rinkos ekonomiką Lietuva tapo prik
 
 <a id="claim-t-22022"></a>
 - t-001
-  global_id: t-22022
   teiginys: "Sukūrusi rinkos ekonomiką Lietuva tapo jautresnė pasaulinėms ir regioninėms ekonomikos krizėms bei globalizacijos poveikiui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,12 +62,11 @@ Sukūrusi laisvą demokratinę visuomenę ir rinkos ekonomiką Lietuva tapo prik
     XXI a. ieško ir ieškos atsakymų į visus svarbiausius savo, visos Europos
     ir pasaulio reiškinių metamus iššūkius jau kaip demokratinės Europos ir
     transatlantinio saugumo sistemos sudedamoji dalis.
-  citata_rodoma: |
-    cijos grėsmių, tad ir tauta, ir Lietuvos vyriausybės moderniame pasaulyje
+  citata_rodoma: "cijos grėsmių, tad ir tauta, ir Lietuvos vyriausybės moderniame pasaulyje"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22022
+    - t-001

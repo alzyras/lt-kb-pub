@@ -39,7 +39,6 @@ Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la la
 
 <a id="claim-t-191642"></a>
 - t-001
-  global_id: t-191642
   teiginys: "Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la lanąue russe“, išleistą Sankt Peterburge 1811 metais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,7 @@ Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la la
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174524
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la lanąue russe“, išleistą Sankt Peterburge 1811 metais.'
@@ -76,8 +75,7 @@ Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la la
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191642
+
 ## Citatos
 
 - id: c-174524
@@ -94,19 +92,11 @@ Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la la
     sakėčios „Balandėliai“ pakartojimas*. Ieškojau to, kuris
     man paaiškintų prasmę žodžio Russ, turėjusio iš pirmo
     žvilgsnio reikšti kaimą.
-  citata_rodoma: |
-    Sanskrite yra panašus ir panašią reikšmę
-    turintis žodis1; jis nesvetimas ir lietuvių kalbai, kurioje
-    1
-    Rapport entre la lanąue sanscrite et la lanąue russe par Frid.
-    Adelung.
-    S.
-    Petersb.,
-    1811.
+  citata_rodoma: "Sanskrite yra panašus ir panašią reikšmę\nturintis žodis1; jis nesvetimas ir lietuvių kalbai, kurioje\n1\nRapport entre la lanąue sanscrite et la lanąue russe par Frid.\nAdelung.\nS.\nPetersb.,\n1811."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191642
+    - t-001

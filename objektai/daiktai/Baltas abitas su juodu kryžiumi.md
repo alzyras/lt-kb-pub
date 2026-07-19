@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-201356"></a>
 - t-001
-  global_id: t-201356
   teiginys: "Nuo to laiko mažne visi Baltieji Gudai ir Juodgirėnai paliko lietuvių valdžioj."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184706
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Norėjo dar Vsevolodas, ku­
     nigaikštis Naugardo, lietuviams atmonyti tas nelai­
@@ -79,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201356
+    - t-001

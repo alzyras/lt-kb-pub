@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-189657"></a>
 - t-001
-  global_id: t-189657
   teiginys: "Narbutas 1805 m. Kidulių pilies bokštelio sienoje matė seną Dangaus karalienės bareljefinę figūrą iš patvaraus gipso."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172540
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas 1805 m. Kidulių pilies bokštelio sienoje matė seną Dangaus karalienės bareljefinę figūrą iš patvaraus gipso.'
@@ -95,8 +94,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189657
+
 ## Citatos
 
 - id: c-172540
@@ -104,31 +102,21 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
-    me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
-    125
-
-    ## Puslapis 125
-
-    ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
-    nedailaus, bet labai patvaraus gipso. Nors ir patirti per ilgus
-    amžius dideli jos sužalojimai, vis dėlto galima suprasti skulp­
-    toriaus mintį.
-  citata_rodoma: |
-    Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
-    me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
-    125
-
-    ## Puslapis 125
-
-    ko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš
-    nedailaus, bet labai patvaraus gipso. Nors ir patirti per ilgus
-    amžius dideli jos sužalojimai, vis dėlto galima suprasti skulp­
-    toriaus mintį.
+    Malone brangiu del žmonių:
+    Ture auxin kajb irplite,
+    Ture pilnu rugiu kloniu,
+    Garbe ture manip mundu9.
+    Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
+    rųjų reiškia storulį, perkeltine prasme - turčių. Iš čia Pilwitos,
+    kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę. Šioje
+    lietuvių deivėje susiliejo Plutono ir Fortūnos bruožai, todėl ji
+    galėjo vadintis ir vyriškos giminės Pilvyčiu (Pilwitos), ir mote­
+    riškos giminės Pilvyte (Pilwite).
+  citata_rodoma: "Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­\nme, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­\n125\n\n## Puslapis 125\n\nko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš\nnedailaus, bet labai patvaraus gipso. Nors ir patirti per ilgus\namžius dideli jos sužalojimai, vis dėlto galima suprasti skulp­\ntoriaus mintį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189657
+    - t-001

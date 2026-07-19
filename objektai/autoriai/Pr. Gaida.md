@@ -31,7 +31,6 @@ Gaida, Arkiv.
 
 <a id="claim-t-29394"></a>
 - t-001
-  global_id: t-29394
   teiginys: "Pr. Gaida rengė spaudai Arkivyskupo T. Matulionio gyvenimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,4 +53,4 @@ Gaida, Arkiv.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29394
+    - t-001

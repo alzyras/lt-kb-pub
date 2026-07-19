@@ -32,7 +32,6 @@ Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­ nių dar nebuvo n
 
 <a id="claim-t-86589"></a>
 - t-001
-  global_id: t-86589
   teiginys: "Vitas laikytas Lietuvos vyskupu in partibus infidelium, o ne Vilniaus vyskupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­ nių dar nebuvo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86589
+    - t-001

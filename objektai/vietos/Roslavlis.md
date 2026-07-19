@@ -27,27 +27,6 @@ media_all_json: |-
 
 Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
 
-## Teiginiai
-
-<a id="claim-t-187311"></a>
-- t-001
-  global_id: t-187311
-  teiginys: "Vytautas davė Roslavlio miestą kunigaikščiui Jurgiui Svetoslavovičiui."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Smolenskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Roslavlis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Roslavlis\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-170346
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytautas davė Roslavlio miestą kunigaikščiui Jurgiui Svetoslavovičiui.'
@@ -66,8 +45,7 @@ Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187311
+
 ## Citatos
 
 - id: c-170346
@@ -86,15 +64,31 @@ Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
     Tuo metu chanas Temir-Kutlujus suskubo atvykti su
     daugeliu pulkų, su visomis savo ordos pajėgomis, susi­
     tiko20 su Vytautu lauke prie Vorkslos upės51 ir antra-
-  citata_rodoma: |
-    paleido savo uošvį
-    kunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­
-    ju kunigaikščiu, o kunigaikščiui Jurgiui Svetoslavo-
-    vičiui davė Roslavlio2  miestą.
+  citata_rodoma: "paleido savo uošvį \nkunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­\nju kunigaikščiu, o kunigaikščiui Jurgiui Svetoslavo- \nvičiui davė Roslavlio2  miestą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187311
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-187311"></a>
+- t-001
+  teiginys: "Vytautas davė Roslavlio miestą kunigaikščiui Jurgiui Svetoslavovičiui."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Smolenskas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Roslavlis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Roslavlis\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170346

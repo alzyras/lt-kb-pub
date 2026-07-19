@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185752"></a>
 - t-001
-  global_id: t-185752
   teiginys: "Mechmet Girėjus, Mengli Girėjaus sūnus, smarkiai ir plačiai nusiaubė Lietuvą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-185753"></a>
 - t-002
-  global_id: t-185753
   teiginys: "Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,6 @@ Nenurodyta
 
 <a id="claim-t-196222"></a>
 - t-003
-  global_id: t-196222
   teiginys: "Mengli Girėjaus kariai, vedami jo sūnų, nusiaubė Lietuvą ir pridarė daug žalos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -126,8 +123,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185752
-    - t-196222
+    - t-001
+    - t-003
+
 - id: c-169114
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -150,4 +148,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185753
+    - t-002

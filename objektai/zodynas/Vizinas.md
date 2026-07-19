@@ -44,7 +44,6 @@ Vartojamas kaip vardo „Vizinas“ aiškinimas ir kaip liaudiškas, dialektinis
 
 <a id="claim-t-192198"></a>
 - t-001
-  global_id: t-192198
   teiginys: "Teodoro Narbuto aiškinimu, Wizin arba Vizinas Lydos apskrities lietuvių dialekte reiškė šliužą, bjaurų šliaužiojantį padarą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -79,13 +78,11 @@ Vartojamas kaip vardo „Vizinas“ aiškinimas ir kaip liaudiškas, dialektinis
     Kadlubeko
     lenkų
     istorijos nagrinėjimuose.
-  citata_rodoma: |
-    1 Wizin, Vizinas lietuvių kalba, Lydos apskrityje vartojamu dia­
-    lektu, reiškia šliužą, bjaurų, šliaužiojantį padarą.
+  citata_rodoma: "1 Wizin, Vizinas lietuvių kalba, Lydos apskrityje vartojamu dia­\nlektu, reiškia šliužą, bjaurų, šliaužiojantį padarą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192198
+    - t-001

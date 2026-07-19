@@ -37,7 +37,6 @@ Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d
 
 <a id="claim-t-87823"></a>
 - t-001
-  global_id: t-87823
   teiginys: "1253 m. Petras, išrinktas Poznanės vyskupu, Gniezno arkivyskupo Pelkos buvo įšventintas vyskupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,18 +75,11 @@ Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d
     vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­
     tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
     kupais. (Žr. 1.
-  citata_rodoma: |
-    Apie tai mini Kroni­
-    ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s -
-    lavo Baško (vert. į lenkų kalbą 1822 m., Varšuva), nuro­
-    dydama, kad „1253 metais Petras, išrinktas Poznanės
-    vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­
-    tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
-    kupais.
+  citata_rodoma: "Apie tai mini Kroni­\nka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s - \nlavo Baško (vert. į lenkų kalbą 1822 m., Varšuva), nuro­\ndydama, kad „1253 metais Petras, išrinktas Poznanės \nvyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­\ntuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­\nkupais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87823
+    - t-001

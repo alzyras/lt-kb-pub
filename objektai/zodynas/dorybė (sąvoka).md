@@ -33,7 +33,6 @@ Dorybė ir nedorybė, liuosybė ir vergybė — tai gėrio ir blogio supriešini
 
 <a id="claim-t-201215"></a>
 - t-001
-  global_id: t-201215
   teiginys: "Dorybė ir nedorybė, liuosybė ir vergybė — tai gėrio ir blogio supriešinimas, per kurį tuomet popu liarioje didaktinėje literatūroje buvo einama prie pamokomų išvadų."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Dorybė ir nedorybė, liuosybė ir vergybė — tai gėrio ir blogio supriešini
 ## Citatos
 
 - id: c-184565
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Be­
     je, kaip pastebėjo Vytautas Kavolis, laisvė šiam
@@ -66,4 +66,4 @@ Dorybė ir nedorybė, liuosybė ir vergybė — tai gėrio ir blogio supriešini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201215
+    - t-001

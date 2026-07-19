@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-28885"></a>
 - t-001
-  global_id: t-28885
   teiginys: "1409 m. rugpjūčio 6 d., kryžiuočiams prarandant Žemaičius ir neatskyrus Jogailos nuo Vytauto, Ordinas paskelbė karą Lenkijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28885
+    - t-001

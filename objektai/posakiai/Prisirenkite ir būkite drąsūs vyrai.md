@@ -38,7 +38,6 @@ Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, b�
 
 <a id="claim-t-59068"></a>
 - t-001
-  global_id: t-59068
   teiginys: "Popiežius Grigalius IX ragino brolius į kovą žodžiais „Prisirenkite ir būkite drąsūs vyrai“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, b�
 
 <a id="claim-t-197053"></a>
 - t-002
-  global_id: t-197053
   teiginys: "3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų širdis, nebijokite, nesitraukite ir nepabūkite jųjų, nes viešpats, jūsų dievas, yra jūsų tarpe, jis kovos už jus prieš visus priešus, kad jus išgelbėtų iš pavojaus“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,8 @@ Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, b�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59068
+    - t-001
+
 - id: c-179020
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -113,4 +112,4 @@ Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, b�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197053
+    - t-002

@@ -33,7 +33,6 @@ To negalima pasakyti apie kelią paneriu į krašto gilumą - Karmėlavą, Ukmer
 
 <a id="claim-t-201719"></a>
 - t-001
-  global_id: t-201719
   teiginys: "To negalima pasakyti apie kelią paneriu į krašto gilumą - Karmėlavą, Ukmergę, Anykščius, kuris galėjo įsilieti į Vilniaus-Rygos kelią."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ To negalima pasakyti apie kelią paneriu į krašto gilumą - Karmėlavą, Ukmer
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201719
+    - t-001

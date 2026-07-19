@@ -39,7 +39,6 @@ Berlynas ir Maskva susitarė kol kas pietvakarinių lietuvių žemių klausimo n
 
 <a id="claim-t-21248"></a>
 - t-001
-  global_id: t-21248
   teiginys: "1941 m. sausio 10 d. slaptuoju protokolu SSRS iš Vokietijos už 7,5 mln. aukso dolerių nusipirko pietvakarines lietuvių žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,12 +72,11 @@ Berlynas ir Maskva susitarė kol kas pietvakarinių lietuvių žemių klausimo n
     kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,
     1941 m. sausio 10 d. SSRS pagal dar vieną slaptą protokolą jas nusipirks iš
     Vokietijos už 7,5 mln. aukso dolerių).
-  citata_rodoma: |
-    kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,
+  citata_rodoma: "kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21248
+    - t-001

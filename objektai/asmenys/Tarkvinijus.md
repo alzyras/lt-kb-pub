@@ -30,7 +30,6 @@ Dusburgietis teigia, kad netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs vis
 
 <a id="claim-t-60445"></a>
 - t-001
-  global_id: t-60445
   teiginys: "Petras Dusburgietis Tarkvinijų mini kaip žiaurų daugelio kankinimo būdų sumanytoją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Dusburgietis teigia, kad netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs vis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60445
+    - t-001

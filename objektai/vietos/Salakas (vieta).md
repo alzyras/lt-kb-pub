@@ -33,7 +33,6 @@ Gegužės 20 d. autoriaus žmona vyko į Salaką į bažnyčią, o įraše palin
 
 <a id="claim-t-202401"></a>
 - t-001
-  global_id: t-202401
   teiginys: "Gegužės 20 d. autoriaus žmona vyko į Salaką į bažnyčią, o įraše palinkėta jai laimingai sugrįžti."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,5 @@ Gegužės 20 d. autoriaus žmona vyko į Salaką į bažnyčią, o įraše palin
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202401
+    - t-001

@@ -30,7 +30,6 @@ Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui de Wartb
 
 <a id="claim-t-100156"></a>
 - t-001
-  global_id: t-100156
   teiginys: "„Chronicon Olivense“ nurodė tokį pat Saulės mūšyje kritusių riterių skaičių kaip Grigaliaus IX bulė: 50."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui de Wartb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100156
+    - t-001

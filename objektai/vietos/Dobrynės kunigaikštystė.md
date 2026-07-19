@@ -31,7 +31,6 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 
 <a id="claim-t-86142"></a>
 - t-001
-  global_id: t-86142
   teiginys: "Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 
 <a id="claim-t-86143"></a>
 - t-002
-  global_id: t-86143
   teiginys: "Užimtame Dobrynės mieste žuvo apie du tūkstančius gyventojų, o kunigaikštystėje buvo plėšiami ir deginami kaimai bei bažnyčios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86143
+    - t-002
+
 - id: c-82122
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -109,4 +108,4 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86142
+    - t-001

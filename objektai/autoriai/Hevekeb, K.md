@@ -41,7 +41,6 @@ Hevekeb, K.
 
 <a id="claim-t-54120"></a>
 - t-001
-  global_id: t-54120
   teiginys: "K. Hevekebas 1906 m. Berlyne parengė disertaciją „Die Schlacht bei Tannenberg“."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -72,18 +71,11 @@ Hevekeb, K.
 
     (^37) **DlugO, XIII, 119 p.**
     (^38) **DlugO, XIII, 29, 119 p.**
-  citata_rodoma: |
-    — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.
-    Berlin 1906. — Horn, A. : _Tannenberg,_ AM, t. 22, 1885, 637-648 ; t. 23,
-    1886, 142-150 p. — Ivinskis, Z. : _Kovos bruožai dėl Žemaičių ir jų
-    sienų,_ Athenaeum, VI, 1935, 54-117 p. — (”) _Vytauto Didžiojo perijodo_
-
-    (^37) **DlugO, XIII, 119 p.**
-    (^38) **DlugO, XIII, 29, 119 p.**
+  citata_rodoma: "— Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.\nBerlin 1906. — Horn, A. : _Tannenberg,_ AM, t. 22, 1885, 637-648 ; t. 23,\n1886, 142-150 p. — Ivinskis, Z. : _Kovos bruožai dėl Žemaičių ir jų\nsienų,_ Athenaeum, VI, 1935, 54-117 p. — (”) _Vytauto Didžiojo perijodo_\n\n(^37) **DlugO, XIII, 119 p.**\n(^38) **DlugO, XIII, 29, 119 p.**"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54120
+    - t-001

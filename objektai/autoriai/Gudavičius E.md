@@ -41,7 +41,6 @@ Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūt
 
 <a id="claim-t-91931"></a>
 - t-001
-  global_id: t-91931
   teiginys: "Edvardas Gudavičius plačiau aptarė formulę, taikytą 1324 m. Rygoje derybas vedusiam Lietuvos vyriausybės atstovui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūt
 
 <a id="claim-t-196996"></a>
 - t-002
-  global_id: t-196996
   teiginys: "Gudavičius E kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,8 @@ Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91931
+    - t-001
+
 - id: c-178996
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -115,4 +114,4 @@ Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196996
+    - t-002

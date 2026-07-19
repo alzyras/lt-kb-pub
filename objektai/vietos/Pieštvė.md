@@ -39,8 +39,7 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
 ## Teiginiai
 
 <a id="claim-t-58400"></a>
-- t-001
-  global_id: t-58400
+- t-004
   teiginys: "Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir iki pamatų sudegino jų papilius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,26 +55,17 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
     - c-59033
 
 <a id="claim-t-58401"></a>
-- t-002
-  global_id: t-58401
+- t-003
   teiginys: "Pieštvės pilis buvo deš."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pieštvė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pieštvė\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-59032
+    - c-59034
 
 <a id="claim-t-58402"></a>
-- t-003
-  global_id: t-58402
+- t-001
   teiginys: "Švento Jokūbo apaštalo dieną Meinhardas užpuolė Junigedą ir Pieštvę ir iki pamatų sudegino abiejų pilių papilius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,8 +81,7 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
     - c-59034
 
 <a id="claim-t-185084"></a>
-- t-004
-  global_id: t-185084
+- t-005
   teiginys: "Kryžiuočiai per vieną žygį sugriovė Pieštvės ir Veliuonos pilis, o Pieštvės gynėjai pilį atidavė be kovos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -112,8 +101,7 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
     - c-168445
 
 <a id="claim-t-196725"></a>
-- t-005
-  global_id: t-196725
+- t-006
   teiginys: "1299 m. Brandenburgo komtūras Kanonas įsibrovė į Lietuvą ir sudegino namus Junigedos bei Pieštvės papiliuose."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -126,8 +114,7 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
     - c-178870
 
 <a id="claim-t-196726"></a>
-- t-006
-  global_id: t-196726
+- t-007
   teiginys: "Tuo pačiu žygiu kryžiuočiai sugriovė Pieštvės pilį, kuri buvo atiduota be kovos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -187,17 +174,13 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
     keletą vyrų pasiuntęs plėšti apylinkės, nukovė visus jį besivejančius raitelius, išskyrus
     šešis. Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
     tiek raitelių, kiek galėjo anksčiau.
-  citata_rodoma: |
-    541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto
-    kyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio
-    (Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664).
+  citata_rodoma: "541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto\nkyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio\n(Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-58401
 - id: c-59033
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -214,22 +197,15 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
     ir užsimušė. Kai kitą dieną pranešė broliui Heinemanui apie šio mirtį, jis tarė: „Tikrai
     nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge
     turėjome keliauti ten, kur amžinos linksmybės“.
-  citata_rodoma: |
-    Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
-
-      Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
-    Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės
-    pilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu
-    atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
-    privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
-    lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
+  citata_rodoma: "Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais\n\n  Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis\nKunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės\npilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu\natplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,\nprivertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus\nlietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58400
+    - t-004
+
 - id: c-59034
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -247,26 +223,16 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
 
 
                 255 (248).
-  citata_rodoma: |
-    Apie Junigedos ir Pieštvės pilių papilių sudeginimą
-
-    Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,
-    magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei
-    gyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:
-    Junigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki
-    pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
-
-
-
-
-                255 (248).
+  citata_rodoma: "Apie Junigedos ir Pieštvės pilių papilių sudeginimą\n\nTais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,\nmagistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei\ngyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:\nJunigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki\npamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.\n\n\n\n\n            255 (248)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58402
+    - t-003
+    - t-001
+
 - id: c-168445
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -293,25 +259,16 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
     gi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl nuo­
     latinių priešo antpuolių iš baimės niekas nebedirbo
     žemės ar iš viso nebuvo kam ją dirbti.
-  citata_rodoma: |
-    Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­
-    tučio sūnumi, gyvi pakliuvo į nelaisvę. Pagerbdami
-    didelę šventę,, kitą dieną kryžiuočiai praleido ramiai,
-    tačiau trečią dieną iki pat pamatų sugriovė kur ne
-    kur tarp sudegintos pilies išlikusius gynybinius įren­
-    ginius: išvertė sienų likučius, nukasė pylimus, išlygino
-    griovius. Tuo pačiu žygiu sugriovė Pieštvės ir Veliuo­
-    nos pilis: pirmąją išsigandę gynėjai atidavė be kovos,
-    antrąją paėmė po keturias dienas užtrukusios apgul-
-    ties.
+  citata_rodoma: "Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­\ntučio sūnumi, gyvi pakliuvo į nelaisvę. Pagerbdami \ndidelę šventę,, kitą dieną kryžiuočiai praleido ramiai, \ntačiau trečią dieną iki pat pamatų sugriovė kur ne \nkur tarp sudegintos pilies išlikusius gynybinius įren­\nginius: išvertė sienų likučius, nukasė pylimus, išlygino \ngriovius. Tuo pačiu žygiu sugriovė Pieštvės ir Veliuo­\nnos pilis: pirmąją išsigandę gynėjai atidavė be kovos, \nantrąją paėmė po keturias dienas užtrukusios apgul- \nties."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185084
-    - t-196726
+    - t-005
+    - t-007
+
 - id: c-178870
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -337,6 +294,7 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196725
+    - t-006
+
 ## Ryšiai
 - Puolė Pieštvę: [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]

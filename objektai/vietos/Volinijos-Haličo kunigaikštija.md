@@ -37,8 +37,7 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
 ## Teiginiai
 
 <a id="claim-t-32693"></a>
-- t-001
-  global_id: t-32693
+- t-002
   teiginys: "Vaišvilko bandymas sujungti Lietuvos valstybę su Volinijos-Haličo kunigaikštija buvo labai trumpas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
     - c-34101
 
 <a id="claim-t-32694"></a>
-- t-002
-  global_id: t-32694
+- t-001
   teiginys: "Volinijos-Haličo kunigaikštis Levas, keršydamas už valdžios Lietuvoje atidavimą Švarnui, pasikvietė Vaišvilką į svečius ir jį nužudė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,20 +85,15 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
     _Švarno_ valdymas (1267/68 -1269) Lietuvoje, užtrukęs ne
     «keletą metų », bet gal tik metus su viršum — nes jis mirė apie
     1269223 — praėjo be žymėtinų pėdsakų.
-  citata_rodoma: |
-    Keršydamas už valdžios Lietu­
-    voje atidavimą Švarnui, kitas Volinijos-Haličo kunigaikštis, Levas
-    (Danieliaus sūnus), pasikvietęs į svečius, Vaišvilką nužudė.
-    _Švarno_ valdymas (1267/68 -1269) Lietuvoje, užtrukęs ne
-    «keletą metų », bet gal tik metus su viršum — nes jis mirė apie
-    1269223 — praėjo be žymėtinų pėdsakų.
+  citata_rodoma: "Keršydamas už valdžios Lietu­\nvoje atidavimą Švarnui, kitas Volinijos-Haličo kunigaikštis, Levas\n(Danieliaus sūnus), pasikvietęs į svečius, Vaišvilką nužudė.\n_Švarno_ valdymas (1267/68 -1269) Lietuvoje, užtrukęs ne\n«keletą metų », bet gal tik metus su viršum — nes jis mirė apie\n1269223 — praėjo be žymėtinų pėdsakų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32694
+    - t-001
+
 - id: c-34101
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -113,15 +106,11 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
     kunigaikštija tebuvo labai trumpas. Berods, galima spręsti, kad
     Švarnas iš Lietuvos jėga buvo išvarytas Traidenio^224 , kuris jau 1269 m.
     turėjo įsiviešpatauti.
-  citata_rodoma: |
-    Tas Vaišvilko bandy­
-    mas sujungti jauną Lietuvos valstybę su jo pamėgta Volinijos-Haličo
-    kunigaikštija tebuvo labai trumpas. Berods, galima spręsti, kad
-    Švarnas iš Lietuvos jėga buvo išvarytas Traidenio^224 , kuris jau 1269 m.
+  citata_rodoma: "Tas Vaišvilko bandy­\nmas sujungti jauną Lietuvos valstybę su jo pamėgta Volinijos-Haličo\nkunigaikštija tebuvo labai trumpas. Berods, galima spręsti, kad\nŠvarnas iš Lietuvos jėga buvo išvarytas Traidenio^224 , kuris jau 1269 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32693
+    - t-002

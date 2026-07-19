@@ -36,7 +36,6 @@ Dusburgietis teigia, kad lietuvos TSR urbanistikos paminklai.— Kn.
 
 <a id="claim-t-61146"></a>
 - t-001
-  global_id: t-61146
   teiginys: "Ketvirtoji „Lietuvos TSR urbanistikos paminklų“ knyga, parengta A. Miškinio ir A. Tylos, išleista Vilniuje 1981 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Dusburgietis teigia, kad lietuvos TSR urbanistikos paminklai.— Kn.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61146
+    - t-001

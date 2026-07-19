@@ -32,7 +32,6 @@ Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisv
 
 <a id="claim-t-86621"></a>
 - t-001
-  global_id: t-86621
   teiginys: "Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisvę ir suteikė žemės valdų bei laisvių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86621
+    - t-001

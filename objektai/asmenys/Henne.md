@@ -29,8 +29,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 ## Teiginiai
 
 <a id="claim-t-35087"></a>
-- t-001
-  global_id: t-35087
+- t-002
   teiginys: "Henne buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     - c-36313
 
 <a id="claim-t-35088"></a>
-- t-002
-  global_id: t-35088
+- t-001
   teiginys: "Henne keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 
 <a id="claim-t-184259"></a>
 - t-003
-  global_id: t-184259
   teiginys: "Henne buvo laikomas žymiausiu Vytauto juokdariu ir kartu vokiečių agentu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -105,7 +102,8 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35087
+    - t-002
+
 - id: c-38024
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -121,17 +119,15 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­
     dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu
     su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ).
-  citata_rodoma: |
-    Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­
-    dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu
-    su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ).
+  citata_rodoma: "Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­\ndovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu\nsu Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35088
+    - t-001
+
 - id: c-167643
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -150,4 +146,4 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184259
+    - t-003

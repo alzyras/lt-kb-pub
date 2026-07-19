@@ -62,8 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-12333"></a>
-- t-001
-  global_id: t-12333
+- t-002
   teiginys: "Vytauto laikams baigiantis daugelyje Lietuvos vietų jau skambėjo bažnyčių varpai."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -79,10 +78,9 @@ Nenurodyta
     - c-14341
 
 <a id="claim-t-89438"></a>
-- t-002
-  global_id: t-89438
+- t-006
   teiginys: "Pilyje paliktas iškaršęs ir aklas Ordino brolis kas valandą kaip paprastai skambino varpu."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Elbingas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -94,10 +92,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85396
-    - c-003
+
 <a id="claim-t-89439"></a>
 - t-003
-  global_id: t-89439
   teiginys: "1958 m. pasibaigus „atšilimui“, sovietų valdžia draudė skambinti bažnyčių varpais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,8 +113,7 @@ Nenurodyta
     - c-85397
 
 <a id="claim-t-89440"></a>
-- t-004
-  global_id: t-89440
+- t-001
   teiginys: "Nuo Vytauto laikų Lietuvoje buvo liejami varpai."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -136,7 +132,6 @@ Nenurodyta
 
 <a id="claim-t-89442"></a>
 - t-005
-  global_id: t-89442
   teiginys: "Po 1958 m. sovietų valdžia Lietuvoje draudė bažnyčiose skambinti varpais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -192,8 +187,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89438
+
 ## Citatos
 
 - id: c-14341
@@ -212,19 +206,15 @@ Nenurodyta
     būklę bent oficialiai pakeitė nauja, kurioje viso religinio gyveni­
     mo centras buvo jau ne senojo lietuvių tikėjimo garbinama gam­
     ta, bet pats jos Kūrėjas.
-  citata_rodoma: |
-    Jeigu prasidedant Vytauto Didžiojo laikams Lietuva buvo
-    dar pagonių šalis ir tebebuvo garbinami jos šventi miškai ir
-    tebekūrenama amžinoji ugnis, tai jau jo laikams baigiantis Lie­
-    tuva buvo gerokai sukatalikinta ir daugelyje jos vietų skambėjo
-    bažnyčių varpai.
+  citata_rodoma: "Jeigu prasidedant Vytauto Didžiojo laikams Lietuva buvo\ndar pagonių šalis ir tebebuvo garbinami jos šventi miškai ir\ntebekūrenama amžinoji ugnis, tai jau jo laikams baigiantis Lie­\ntuva buvo gerokai sukatalikinta ir daugelyje jos vietų skambėjo\nbažnyčių varpai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12333
+    - t-002
+
 - id: c-22310
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -241,19 +231,15 @@ Nenurodyta
     daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
     (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
     netos, liejami pabūklai, varpai.
-  citata_rodoma: |
-    Pagaliau pasibaigus karams su kryžiuo­
-    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­
-    daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
-    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
-    netos, liejami pabūklai, varpai.
+  citata_rodoma: "Pagaliau pasibaigus karams su kryžiuo­\nčiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­\ndaus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais\n(Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­\nnetos, liejami pabūklai, varpai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89440
+    - t-001
+
 - id: c-85396
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -266,21 +252,15 @@ Nenurodyta
     [sienų], o visą šią žemę užliejo raudonu krikščionių krauju. Kai apie tai išgirdo magistras
     brolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos
     žemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė.
-  citata_rodoma: |
-    Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
-    pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų
-    relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.
-      392  Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D. III,
-    123; žr. Ewald A. L., Die Eroberung.., 4, p. 59; Jasas R., Didysis..., p. 49).
-
-    Vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.
+  citata_rodoma: "Šitai išgirdę, broliai ir jų šeimyna, kitą dieną\npasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų\nrelikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.\n  392  Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D. III,\n123; žr. Ewald A. L., Die Eroberung.., 4, p. 59; Jasas R., Didysis..., p. 49).\n\nVis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89438
+    - t-006
+
 - id: c-85397
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -297,13 +277,12 @@ Nenurodyta
     blokuodavo atlaidų metu, paskelbdama neva „kiaulių marą“), tikintieji
     pajuokiami, įžeidinėjami, uždrausta statyti kryžius, šiurkščiais metodais
     sustabdyta naujos bažnyčios statyba Klaipėdoje.
-  citata_rodoma: |
-    Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia
+  citata_rodoma: "Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89439
-    - t-89442
+    - t-003
+    - t-005

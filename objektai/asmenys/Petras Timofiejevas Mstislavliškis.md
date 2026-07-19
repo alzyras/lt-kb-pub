@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-87831"></a>
 - t-001
-  global_id: t-87831
   teiginys: "1575 m. Vilniuje Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino leidinį „Cztėry Ewangelje“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87831
+    - t-001

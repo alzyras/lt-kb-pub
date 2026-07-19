@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-104181"></a>
-- t-001
-  global_id: t-104181
+- t-002
   teiginys: "Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo titulą rex, o Algirdas laiškuose Bizantijai - bazileus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-97141
 
 <a id="claim-t-104182"></a>
-- t-002
-  global_id: t-104182
+- t-001
   teiginys: "1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ media_all_json: |-
     - c-97140
 
 <a id="claim-t-183398"></a>
-- t-003
-  global_id: t-183398
+- t-004
   teiginys: "Iki 1386 m. Lietuva, autorių vertinimu, gali būti vadinama savotiška arba nesistemine karalyste."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -118,7 +115,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104182
+    - t-001
+
 - id: c-97141
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,15 +130,15 @@ media_all_json: |-
     rex; Algirdas laiškuose Bizantijos imperijai – bazileus). Taip juos vadino
     Vokiečių ordinų šaltiniai, skirtingai nei kitų genčių, neturinčių valstybių,
     vadus ar net rusų žemių kunigaikščius.
-  citata_rodoma: |
-    Vokiečių ordinų šaltiniai, skirtingai nei kitų genčių, neturinčių valstybių,
+  citata_rodoma: "Vokiečių ordinų šaltiniai, skirtingai nei kitų genčių, neturinčių valstybių,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104181
+    - t-002
+
 - id: c-166792
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -160,4 +158,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183398
+    - t-004

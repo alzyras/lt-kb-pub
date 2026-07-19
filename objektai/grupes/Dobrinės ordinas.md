@@ -37,7 +37,6 @@ Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal s
 
 <a id="claim-t-01302"></a>
 - t-001
-  global_id: t-01302
   teiginys: "Dobrinės ordinas buvo 1228 m. įkurtas vyskupui priklausęs riterių ordinas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,16 +70,11 @@ Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal s
     buvo vadinamas Dobrinės ordinu. Bet riterių buvo ne-
     daug, todėl ir jų pagalba buvo nedidelė: jie vos įstengdavo ap-
     ginti savo pilį.
-  citata_rodoma: |
-    Taigi buvo įkurtas (1228 m.) vyskupo
-    priklausąs riterių ordinas, kurs pagal savo gyvenamąją vietą
-    buvo vadinamas Dobrinės ordinu. Bet riterių buvo ne-
-    daug, todėl ir jų pagalba buvo nedidelė: jie vos įstengdavo ap-
-    ginti savo pilį.
+  citata_rodoma: "Taigi buvo įkurtas (1228 m.) vyskupo\npriklausąs riterių ordinas, kurs pagal savo gyvenamąją vietą\nbuvo vadinamas Dobrinės ordinu. Bet riterių buvo ne-\ndaug, todėl ir jų pagalba buvo nedidelė: jie vos įstengdavo ap-\nginti savo pilį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01302
+    - t-001

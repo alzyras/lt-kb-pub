@@ -40,7 +40,6 @@ Prekybos sutartis su Pskovu, kaip ir prieš metus sudarytoji su Naugardu, buvo p
 
 <a id="claim-t-87675"></a>
 - t-001
-  global_id: t-87675
   teiginys: "Didysis kunigaikštis Švitrigaila pranešė priėmęs Fridrichą fon Bebirsteyną į savo dvariškių būrį kaip patikėtinį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,4 +95,4 @@ Prekybos sutartis su Pskovu, kaip ir prieš metus sudarytoji su Naugardu, buvo p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87675
+    - t-001

@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-31291"></a>
 - t-001
-  global_id: t-31291
   teiginys: "Tarybiniai istorikai teigė, kad Lietuvos Tarybų respublikos suverenumas po kliūčių esą buvęs įvykdytas 1940 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,17 +73,11 @@ media_all_json: |-
     Šitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo
     marksistinėje teorijoje ir Lietuvos istorijos skirstymo atveju norėjo
     būti logiškai konsekventiški.
-  citata_rodoma: |
-    Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių
-    tautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­
-    žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.
-    Šitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo
-    marksistinėje teorijoje ir Lietuvos istorijos skirstymo atveju norėjo
-    būti logiškai konsekventiški.
+  citata_rodoma: "Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių\ntautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­\nžuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.\nŠitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo\nmarksistinėje teorijoje ir Lietuvos istorijos skirstymo atveju norėjo\nbūti logiškai konsekventiški."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31291
+    - t-001

@@ -27,26 +27,11 @@ media_all_json: |-
 
 Narbutas, remdamasis Lasickiu, Alabatį apibūdina kaip deivę, kurios šauktasi dirbant linininkystės darbus.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189272"></a>
-- t-001
-  global_id: t-189272
-  teiginys: 'Narbutas, remdamasis Lasickiu, Alabatį apibūdina kaip deivę, kurios šauktasi dirbant linininkystės darbus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Mitologinis aiškinimas ir Lasickio šaltinis palikti su atribucija. Nepridėta platesnė Narbuto paralelė su Izide.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lininiai dirbiniai|Lininiai dirbiniai]]; mentioned_object: [[objektai/zodynas/Antikos žmonės|Antikos žmonės]]'
-  pagrindžia:
-    - c-172160
-- susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188556|Janas Lasickis]]: Pasak Narbuto perteikiamų Lasickio tyrimų, Alabatės buvo šaukiamasi dirbant linininkystės darbus.
-## Citatos
-
-- id: c-172160
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas, remdamasis Lasickiu, Alabatį apibūdina kaip deivę, kurios šauktasi dirbant linininkystės darbus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     138
 
@@ -62,10 +47,12 @@ Narbutas, remdamasis Lasickiu, Alabatį apibūdina kaip deivę, kurios šauktasi
     galas, todėl pirmieji lininiai dirbiniai turėjo pasirodyti šiame
     krašte; apdoroti juos išmokė karalienė Izidė, Hermio žmona,
     todėl Antikos žmonės ją praminė Isis linigem.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189272
+  statusas: verified
+
+## Teiginiai
+
+- susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188556|Janas Lasickis]]: Pasak Narbuto perteikiamų Lasickio tyrimų, Alabatės buvo šaukiamasi dirbant linininkystės darbus.

@@ -30,7 +30,6 @@ Dusburgietis teigia, kad sembos kanauninko rinkinio105, turinčio ryšio su Dusb
 
 <a id="claim-t-61066"></a>
 - t-001
-  global_id: t-61066
   teiginys: "Dusburgietis galėjo žinoti Diunamiundės metraštį, susijusį su Seniausio Prūsijos metraščio tradicija."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -44,7 +43,7 @@ Dusburgietis teigia, kad sembos kanauninko rinkinio105, turinčio ryšio su Dusb
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61698
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis galėjo žinoti Diunamiundės metraštį, susijusį su Seniausio Prūsijos metraščio tradicija.'
@@ -61,8 +60,7 @@ Dusburgietis teigia, kad sembos kanauninko rinkinio105, turinčio ryšio su Dusb
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61066
+
 ## Citatos
 
 - id: c-61698
@@ -80,17 +78,11 @@ Dusburgietis teigia, kad sembos kanauninko rinkinio105, turinčio ryšio su Dusb
     ir Dusburgiečio teksto analizė rodo, kad Dusburgietis naudojosi Seniausiu Prūsijos
     metraščiu, kuriame buvo kur kas daugiau žinių, negu išliko jo nuorašuose iki mūsų
     dienų108.
-  citata_rodoma: |
-    Sembos kanauninko rinkinio105, turinčio ryšio su Dusburgiečio tekstu, tyrinėjimai106
-    rodo, kad čia taip pat esama žinių, išrašytų iš neišlikusio Seniausio Prūsijos metraščio,
-    kad Dusburgietis galėjęs žinoti ir Diunamiundės metraštį107. Apskritai visų šių šaltinių
-    ir Dusburgiečio teksto analizė rodo, kad Dusburgietis naudojosi Seniausiu Prūsijos
-    metraščiu, kuriame buvo kur kas daugiau žinių, negu išliko jo nuorašuose iki mūsų
-    dienų108.
+  citata_rodoma: "Sembos kanauninko rinkinio105, turinčio ryšio su Dusburgiečio tekstu, tyrinėjimai106\nrodo, kad čia taip pat esama žinių, išrašytų iš neišlikusio Seniausio Prūsijos metraščio,\nkad Dusburgietis galėjęs žinoti ir Diunamiundės metraštį107. Apskritai visų šių šaltinių\nir Dusburgiečio teksto analizė rodo, kad Dusburgietis naudojosi Seniausiu Prūsijos\nmetraščiu, kuriame buvo kur kas daugiau žinių, negu išliko jo nuorašuose iki mūsų\ndienų108."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61066
+    - t-001

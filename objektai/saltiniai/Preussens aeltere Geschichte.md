@@ -38,7 +38,6 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
 
 <a id="claim-t-88162"></a>
 - t-001
-  global_id: t-88162
   teiginys: "Augustas Kotzebue veikale „Preussens aeltere Geschichte“ išspausdino Gedimino laiškus dominikonams, pranciškonams ir Hanzos miestams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
 
 <a id="claim-t-88163"></a>
 - t-002
-  global_id: t-88163
   teiginys: "Augustas Kotzebue į „Preussens aeltere Geschichte“ įdėjo tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,19 +85,15 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
     jo veikalą, vad.: Preuszens aeltere Geschichte von August von
     Kotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu.
     Foigto vertimas į len kųk ir teksto lotynų k. pataisymai.
-  citata_rodoma: |
-    Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve
-    Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į
-    jo veikalą, vad.: Preuszens aeltere Geschichte von August von
-    Kotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu.
-    Foigto vertimas į len kųk ir teksto lotynų k. pataisymai.
+  citata_rodoma: "Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve \nKaraliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į \njo veikalą, vad.: Preuszens aeltere Geschichte von August von \nKotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu. \nFoigto vertimas į len kųk ir teksto lotynų k. pataisymai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88163
+    - t-002
+
 - id: c-84142
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -137,37 +131,11 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
     tur įvairiais verslais besiverčiančius
     amatininkus, žemdirbius ir dvasi­
     ninkus.
-  citata_rodoma: |
-    Il
-    Gedimino laiškuose, rašytuose do­
-    minikonų ir Mažesniųjų brolių, ar­
-    ba pranciškonų, ordinams bei Han­
-    zos miestams, kurių autentiškas
-    1323 metais notaro parengtas doku­
-    mentas yra Karaliaučiaus Slaptaja-
-    -  •  -
-    20
-
-    ## Puslapis 37
-
-    I  KNYGA
-    gumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­
-    nių pasirinko jo valdomų visų kraštų sostine tikriausiai
-    todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
-    me archyve ir kuriuos Kotzebue
-    išspausdino savo Prūsijos istorijoje.
-    (Žr. Preussens aeltere Geschichte, Band
-    II, p. 353) - atsiskleidžia šio išskirti­
-    nio valdovo pastangų ženklai pada­
-    ryti Lietuvą gausesne gyventojų ir
-    pakelti jos gerovę atkviečiant iš sve­
-    tur įvairiais verslais besiverčiančius
-    amatininkus, žemdirbius ir dvasi­
-    ninkus.
+  citata_rodoma: "Il\nGedimino laiškuose, rašytuose do­\nminikonų ir Mažesniųjų brolių, ar­\nba pranciškonų, ordinams bei Han­\nzos miestams, kurių autentiškas \n1323 metais notaro parengtas doku­\nmentas yra Karaliaučiaus Slaptaja-\n-  •  -\n20\n\n## Puslapis 37\n\nI  KNYGA\ngumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­\nnių pasirinko jo valdomų visų kraštų sostine tikriausiai \ntodėl, kad būdamas arčiau sienų su kryžiuočiais turėjo\nme archyve ir kuriuos Kotzebue \nišspausdino savo Prūsijos istorijoje. \n(Žr. Preussens aeltere Geschichte, Band \nII, p. 353) - atsiskleidžia šio išskirti­\nnio valdovo pastangų ženklai pada­\nryti Lietuvą gausesne gyventojų ir \npakelti jos gerovę atkviečiant iš sve­\ntur įvairiais verslais besiverčiančius \namatininkus, žemdirbius ir dvasi­\nninkus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88162
+    - t-001

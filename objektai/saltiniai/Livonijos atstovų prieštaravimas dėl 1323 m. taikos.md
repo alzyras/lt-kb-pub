@@ -38,7 +38,6 @@ Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų p
 
 <a id="claim-t-60990"></a>
 - t-001
-  global_id: t-60990
   teiginys: "J. Otrembskis nekritiškai pasirėmė Livonijos atstovų prieštaravimo lotyniškojo vertimo fraze apie Lietuvos karaliaus pusę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų p
 
 <a id="claim-t-60991"></a>
 - t-002
-  global_id: t-60991
   teiginys: "Livonijos atstovų prieštaravimo originale minimas Lietuvos karalius ir Aukštaičių, Žemaičių, Pskovo bei rusų kraštai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -106,7 +104,8 @@ Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60991
+    - t-002
+
 - id: c-61623
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -127,4 +126,4 @@ Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60990
+    - t-001

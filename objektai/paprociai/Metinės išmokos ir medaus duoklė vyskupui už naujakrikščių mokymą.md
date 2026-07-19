@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-87217"></a>
 - t-001
-  global_id: t-87217
   teiginys: "1397 m. Vladislovas Jogaila ir Vytautas laidavo Vilniaus vyskupui Andriui 200 markių metines pajamas už krikščioniškojo mokymo skleidimą Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,4 +102,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87217
+    - t-001

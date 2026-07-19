@@ -37,8 +37,7 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 ## Teiginiai
 
 <a id="claim-t-31842"></a>
-- t-002
-  global_id: t-31842
+- t-001
   teiginys: "M. Priselkovo „Troickaja letopis''“ minima kaip 1950 m. leidinys, cituojamas 457 puslapyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,15 +54,6 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
   pagrindžia:
     - c-33660
 
-<a id="claim-t-31842"></a>
-- t-001
-  global_id: t-902033783
-  teiginys: 'M. Priselkovo „Troickaja letopis''''“ minima kaip 1950 m. leidinys, cituojamas 457 puslapyje.'
-  susije_objektai: 'mentioned_place: Maskva'
-  temporaliniai_duomenys: 'įvykio data: 1406 m.; įvykio data: 1950 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  pagrindžia:
-    - c-33660
 ## Citatos
 
 - id: c-33660
@@ -84,16 +74,11 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
     **1950, 457 p.**
     (^48) **PSRL, 23, 139 p.**
     (^49) **PSRL, 11, 193-194.
-  citata_rodoma: |
-    vasarą su lietuviu, lenku ir kryžiuočiu būriais (ordinas atsiuntė
-    (^47) **A. Nasonov :** **_Novogrodskaja pervaja letopis' staršego i mladšego izvo-
-    dov_** **, Moskva-Leningrad 1950, 398 p.—M. Priselkov :** **_Troickaja letopis',_**
-    **1950, 457 p.
+  citata_rodoma: "vasarą su lietuviu, lenku ir kryžiuočiu būriais (ordinas atsiuntė\n(^47) **A. Nasonov :** **_Novogrodskaja pervaja letopis' staršego i mladšego izvo-\ndov_** **, Moskva-Leningrad 1950, 398 p.—M. Priselkov :** **_Troickaja letopis',_**\n**1950, 457 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31842
     - t-001

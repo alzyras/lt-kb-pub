@@ -31,7 +31,6 @@ Narbutas mini Polesėje paplitusį posakį apie bjauraus veido, apdriskusiais ir
 
 <a id="claim-t-192119"></a>
 - t-001
-  global_id: t-192119
   teiginys: "Narbutas mini Polesėje paplitusį posakį „Atrodo kaip jotvingis“, taikytą bjauraus veido ir apdriskusiais rūbais vilkinčiam žmogui."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -50,7 +49,6 @@ Narbutas mini Polesėje paplitusį posakį apie bjauraus veido, apdriskusiais ir
 
 <a id="claim-t-197701"></a>
 - t-002
-  global_id: t-197701
   teiginys: "Nei inazovietėms, nei lenkėms, nei rusėms, nei lietuvėms ar kitoms europietėms moterims nebūdingi tie bruožai, kurie puošia dailias senovės jotvingių dukras, kažkada gal iš tekintas už slavų jaunuolių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -75,20 +73,12 @@ Narbutas mini Polesėje paplitusį posakį apie bjauraus veido, apdriskusiais ir
     kitoms europietėms moterims nebūdingi tie bruožai, kurie
     puošia dailias senovės jotvingių dukras, kažkada gal iš­
     tekintas už slavų jaunuolių.
-  citata_rodoma: |
-    Apie jotvingių veido bruožus liko apčiuopiamų pėdsakų Polesėje.
-      Jie turėtų būti antipatiški, nes ten yra paplitęs toks posakis: jeigu
-      sutinka bjauraus veido žmogų, be to, vilkintį apdriskusius ir ne-
-      švarius rūbus, tai sakoma:
-      „Atrodo
-      kaip
-      jotvingis" (Biblioteka
-      Warszawska. R. 1842. T. IV)***.
+  citata_rodoma: "Apie jotvingių veido bruožus liko apčiuopiamų pėdsakų Polesėje.\n  Jie turėtų būti antipatiški, nes ten yra paplitęs toks posakis: jeigu\n  sutinka bjauraus veido žmogų, be to, vilkintį apdriskusius ir ne-\n  švarius rūbus, tai sakoma:\n  „Atrodo\n  kaip\n  jotvingis\" (Biblioteka\n  Warszawska. R. 1842. T. IV)***."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192119
-    - t-197701
+    - t-001
+    - t-002

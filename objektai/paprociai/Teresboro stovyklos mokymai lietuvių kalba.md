@@ -58,9 +58,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-78720"></a>
-- t-001
-  global_id: t-78720
+<a id="claim-t-78718"></a>
+- t-005
   teiginys: "Teresboro stovykloje mokymai vyko lietuviškai, o komandos buvo duodamos lietuvių kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -74,11 +73,11 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
-    - c-43175
     - c-43176
+    - c-43175
+
 <a id="claim-t-78721"></a>
-- t-002
-  global_id: t-78721
+- t-003
   teiginys: "Teresboro stovykloje mokymai vyko lietuviškai."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -113,8 +112,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78720
-    - t-78721
+    - t-005
+    - t-003
+
 - id: c-43176
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -127,16 +127,11 @@ Nenurodyta
     komandos buvo duodamos lietuvių kalba.
     Netrukus nenumatyti įvykiai pri-
     vertė koreguoti planus.
-  citata_rodoma: |
-    Stovykloje veikė karo
-    lauko ligoninė, mokymai vyko lietuviškai,
-    komandos buvo duodamos lietuvių kalba.
-    Netrukus nenumatyti įvykiai pri-
-    vertė koreguoti planus.
+  citata_rodoma: "Stovykloje veikė karo\nlauko ligoninė, mokymai vyko lietuviškai,\nkomandos buvo duodamos lietuvių kalba.\nNetrukus nenumatyti įvykiai pri-\nvertė koreguoti planus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78720
+    - t-005

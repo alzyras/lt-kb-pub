@@ -49,8 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-196176"></a>
-- t-001
-  global_id: t-196176
+- t-002
   teiginys: "Pavasario pradžioje jis ir išvedė abi kariuo menes į Lietuvą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196176
+    - t-002

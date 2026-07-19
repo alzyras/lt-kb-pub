@@ -30,7 +30,6 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
 
 <a id="claim-t-61050"></a>
 - t-001
-  global_id: t-61050
   teiginys: "Barzdaitis Vytenio epizodą aiškino kaip raginimą lietuviams ir pavergtiesiems prūsams laikytis senosios religijos ir kovoti prieš Ordiną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
 
 <a id="claim-t-197016"></a>
 - t-002
-  global_id: t-197016
   teiginys: "Ten suplaukė tokia galybė laivų, kad iš jų pasidarė tiltas per Nemuną, kuriuo kiekvienas galėjo saugiai pereiti į netikėlių krantą; šiuo tiltu lietuviai kur kas daugiau stebėjosi nei visais kitais krikščionių darbais, kuriuos gyvenime kada buvo matę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,5 +76,5 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61050
-    - t-197016
+    - t-001
+    - t-002

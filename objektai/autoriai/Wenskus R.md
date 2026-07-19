@@ -31,7 +31,6 @@ Dusburgietis teigia, kad hP, 1, 1, p. 284; Wenskus R.
 
 <a id="claim-t-60816"></a>
 - t-001
-  global_id: t-60816
   teiginys: "R. Wenskaus veikalas „Kleinverbände“ cituojamas aiškinant Prūsijos žemių mažesnius teritorinius vienetus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Dusburgietis teigia, kad hP, 1, 1, p. 284; Wenskus R.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60816
+    - t-001

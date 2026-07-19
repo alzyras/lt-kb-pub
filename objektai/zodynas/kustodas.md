@@ -31,7 +31,6 @@ Janas Filipovičius cituojamoje Lietuvos Metrikos archyvo sąrašo ištraukoje v
 
 <a id="claim-t-86532"></a>
 - t-001
-  global_id: t-86532
   teiginys: "Janas Filipovičius buvo daktaras, kustodas ir Vilniaus kanauninkas, pardavęs karalienei Elenai paveldėtą sklypą Vilniaus pilyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Janas Filipovičius cituojamoje Lietuvos Metrikos archyvo sąrašo ištraukoje v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86532
+    - t-001

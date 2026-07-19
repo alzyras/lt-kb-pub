@@ -30,7 +30,6 @@ Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiu
 
 <a id="claim-t-186339"></a>
 - t-001
-  global_id: t-186339
   teiginys: "Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiui prisiimti naujo titulo, bet atsakymo nesulaukė."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiu
 
 <a id="claim-t-196355"></a>
 - t-002
-  global_id: t-196355
   teiginys: "Kojelavičius Ivaną Vasiljevičių vaizduoja kaip nesiekusį taikos su Lietuva ir svajojusį apie viešpatavimą visoje Rusioje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -88,5 +86,5 @@ Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186339
-    - t-196355
+    - t-001
+    - t-002

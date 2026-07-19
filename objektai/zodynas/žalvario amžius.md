@@ -31,7 +31,6 @@ Tik apie vidurį antrojo tūkstantmečio prieš Kristų į Lietuvą patenka paty
 
 <a id="claim-t-03235"></a>
 - t-001
-  global_id: t-03235
   teiginys: "Žalvario amžius Lietuvoje prasidėjo apie antrojo tūkstantmečio pr. Kr. vidurį, kai pasirodė pirmieji žalvario dirbiniai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Tik apie vidurį antrojo tūkstantmečio prieš Kristų į Lietuvą patenka paty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03235
+    - t-001

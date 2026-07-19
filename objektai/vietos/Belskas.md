@@ -2,19 +2,19 @@
 tipas: vieta
 pavadinimas: 'Belskas'
 saltiniai:
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1379 m.'
 date_start: '1379'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,13 +32,12 @@ media_all_json: |-
 
 ## Santrauka
 
-Belskas buvo tarp krikščioniškų Trakų kunigaikštijos sričių, kurių abu magistrai pasižadėjo nepulti.
+Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko, Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių Ordino.
 
 ## Teiginiai
 
 <a id="claim-t-36155"></a>
 - t-001
-  global_id: t-36155
   teiginys: "Belskas buvo tarp krikščioniškų Trakų kunigaikštijos sričių, kurių abu magistrai pasižadėjo nepulti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,6 +54,19 @@ Belskas buvo tarp krikščioniškų Trakų kunigaikštijos sričių, kurių abu 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-38454
+
+<a id="claim-t-201587"></a>
+- t-002
+  teiginys: "Po Kauno ėjo 100 kapų grašių mokėti turėję Belskas, Drohičinas, Gardinas, Pinskas, Polockas, kiti - dar mažiau."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-184934
 - susijęs iš [[objektai/ivykiai/Vilniaus seimas ir Belsko žemės atskyrimo aktas.md#claim-t-185832|Vilniaus seimas ir Belsko žemės atskyrimo aktas (seimas, XVI a.)]]: 1548 m. Vilniaus seime Lietuvos luomai pasirašė aktą, kuriuo Belsko žemė Palenkėje atskirta nuo Lietuvos ir atiduota lenkams.
 - susijęs iš [[objektai/zodynas/pataurininkas.md#claim-t-86636|pataurininkas]]: 1501 metais Gardine tarp dalyvavusių pareigūnų minimas LDK pataurininkas ir Belsko seniūnas Mikalojus Mikolajevičius.
 - susijęs iš [[objektai/asmenys/Baturlinas.md#claim-t-191255|Baturlinas]]: Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Narbuto vertinimu naujausius Herodoto geografijos paaiškinimus.
@@ -82,20 +94,33 @@ Belskas buvo tarp krikščioniškų Trakų kunigaikštijos sričių, kurių abu 
     Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
     Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
     Varmijos)^1 ).
-  citata_rodoma: |
-    Abu
-    magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­
-    jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,
-    Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su
-    Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
-    Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
-    Varmijos)^1 ).
+  citata_rodoma: "Abu\nmagistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­\njos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,\nBrastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su\nKęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių\nOrdino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir\nVarmijos)^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36155
+    - t-001
+
+- id: c-184934
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Tai
+    antra pagal dydį suma, daugiau turėjo mokėti Vilnius - 500 kapų grašių ir dar iš-
+    rengti 300 raitelių. Po Kauno ėjo 100 kapų grašių mokėti turėję Belskas, Drohičinas,
+    Gardinas, Pinskas, Polockas, kiti - dar mažiau. Iš valstybės lietuviškųjų žemių miestų
+    sąraše dar yra Trakai, kurių miestiečiai krikščionys ir karaimai kartu turėjo mokėti 60
+    kapų grašių, ir Merkinė, turėjusi mokėti 30 kapų grašių.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 ## Ryšiai
 - Užėmė Belską: [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]]

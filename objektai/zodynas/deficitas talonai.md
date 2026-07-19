@@ -32,7 +32,6 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
 
 <a id="claim-t-70104"></a>
 - t-001
-  global_id: t-70104
   teiginys: "Sovietmečio Lietuvoje trūko maisto produktų, butų, medicinos reikmenų ir vaistų, o baldams, indams ir televizoriams įsigyti reikėjo talonų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
 
 <a id="claim-t-183407"></a>
 - t-002
-  global_id: t-183407
   teiginys: "Komandinės planinės ekonomikos neefektyvumas pašieptas juoku, kad socializmas Sacharoje sukeltų smėlio deficitą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -76,15 +74,15 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
     ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, tele-
     vizorius, be to, katastrofiškai trūko butų, medicinos reikmenų, vaistų – fak-
     tiškai viskas buvo deficitas.
-  citata_rodoma: |
-    ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,
+  citata_rodoma: "ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70104
+    - t-001
+
 - id: c-166801
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -99,4 +97,4 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183407
+    - t-002

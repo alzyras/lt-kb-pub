@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-194643"></a>
 - t-002
-  global_id: t-194643
   teiginys: "Lietuviai teikė jam garbę, laikydami žalčius ir maitindami juos pienu; su juo buvo susiję šiurkštūs ir tamsūs prietarai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -59,16 +58,6 @@ Nenurodyta
   pagrindžia:
     - c-177041
 
-<a id="claim-t-189815"></a>
-- t-001
-  global_id: t-189815
-  teiginys: 'Narbutas rašo, kad kasmet Didžiosios šventės išvakarėse šios dievybės stabas būdavo sudaužomas ir padaromas naujas.'
-  teiginio_tipas: 'saltinio_teiginys'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Religinis teiginys apie dievybės stabą paliktas su Narbuto atribucija. Nepridėta vietos ar platesnio ritualo, nes ši citata jų aiškiai neišskleidžia.'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad kasmet Didžiosios šventės išvakarėse šios dievybės stabas būdavo sudaužomas ir padaromas naujas.'
@@ -86,11 +75,9 @@ Nenurodyta
     kė prietaringą tikėjimą šia dievybe*.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189815
+  statusas: verified
 ## Citatos
 
 - id: c-177041
@@ -113,4 +100,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194643
+    - t-002

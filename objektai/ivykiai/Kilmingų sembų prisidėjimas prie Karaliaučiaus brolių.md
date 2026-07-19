@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-62825"></a>
 - t-001
-  global_id: t-62825
   teiginys: "Kai kurie kilmingi sembai su šeimomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -67,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-196948"></a>
 - t-002
-  global_id: t-196948
   teiginys: "Šis pabėgo į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo namų šeimyna bei visi turtai buvo brolių išsklaidyti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -93,29 +91,12 @@ Nenurodyta
     Prūsai, užkietėję piktadariai, ilgai suko galvą, kaip sunaikinti Karaliaučiaus pilį.
     Viešpats tą vietą buvo pasirinkęs savo vardui garbinti ir šlovinti373, todėl, bausdamas juos
     už piktus sumanymus bei klastingas užmačias, niekais vertė viską, ko šie griebdavosi.
-  citata_rodoma: |
-    Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių
-
-      Nė  šis smarkus sukrėtimas neįvarė sembams proto  ir nepaskatino jų sugrįžti  į
-    šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš
-    viešpaties rykštę ir pradėjo kuo atkakliausiai kariauti su broliais, išskyrus kai kuriuos
-    garsios giminės bei kilmingus vyrus, kurie, palikę gimtuosius namus, vienas po kito su
-    šeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių372.
-
-
-
-
-     101 (96). Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
-                            pirmiausia — prieš Kvedenavos valsčių
-
-      Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,
-    be to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai
-    paklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu.
+  citata_rodoma: "Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių\n\n  Nė  šis smarkus sukrėtimas neįvarė sembams proto  ir nepaskatino jų sugrįžti  į\nšventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš\nviešpaties rykštę ir pradėjo kuo atkakliausiai kariauti su broliais, išskyrus kai kuriuos\ngarsios giminės bei kilmingus vyrus, kurie, palikę gimtuosius namus, vienas po kito su\nšeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių372.\n\n\n\n\n 101 (96). Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o\n                        pirmiausia — prieš Kvedenavos valsčių\n\n  Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,\nbe to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai\npaklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62825
-    - t-196948
+    - t-001
+    - t-002

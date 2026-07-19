@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-26390"></a>
 - t-001
-  global_id: t-26390
   teiginys: "1988 m. spalio 21 d. Algirdas Brazauskas tapo LKP CK pirmuoju sekretoriumi ir po LPS steigiamojo suvažiavimo grąžino tikintiesiems Vilniaus arkikatedrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,6 +70,7 @@ Nenurodyta
   pagrindžia:
     - c-26615
     - c-166603
+
 ## Citatos
 
 - id: c-26615
@@ -87,21 +87,15 @@ Nenurodyta
     V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
     ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
     demonstracijas įsakus.
-  citata_rodoma: |
-    Per keletą mėnesių LPS pa-
-    siekė akivaizdžių laimėjimų. Spalio 21 dieną LKP CK pirmuoju sekre-
-    toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
-    ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
-    arkikatedrą. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė
-    lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,
-    V.
+  citata_rodoma: "Per keletą mėnesių LPS pa-\nsiekė akivaizdžių laimėjimų. Spalio 21 dieną LKP CK pirmuoju sekre-\ntoriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą, \nypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus \narkikatedrą. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė \nlietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę, \nV."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26390
+    - t-001
+
 - id: c-166603
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -118,3 +112,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

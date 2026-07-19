@@ -31,7 +31,6 @@ Vytautas kartu su karū­ nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo
 
 <a id="claim-t-35226"></a>
 - t-001
-  global_id: t-35226
   teiginys: "Vytauto sekretorius Mikalojus Cebulka buvo pasiųstas kaip jo atstovas ir Zigmantui pareiškė Vytauto nepasitenkinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,15 +61,11 @@ Vytautas kartu su karū­ nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo
     nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,
     sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
     nepasitenkinimą^3 ).
-  citata_rodoma: |
-    Vytautas kartu su karū­
-    nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,
-    sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
-    nepasitenkinimą^3 ).
+  citata_rodoma: "Vytautas kartu su karū­\nnos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,\nsekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui\nnepasitenkinimą^3 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35226
+    - t-001

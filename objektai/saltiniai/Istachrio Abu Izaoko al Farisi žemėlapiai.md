@@ -37,7 +37,6 @@ Kruzė Gotos bibliotekoje aptiko arabų geografo Istachrio Abu Izaoko al Farisi 
 
 <a id="claim-t-191842"></a>
 - t-001
-  global_id: t-191842
   teiginys: "Kruzė Gotos bibliotekoje aptiko arabų geografo Istachrio Abu Izaoko al Farisi žemėlapių, tarp jų Armėnijos žemėlapį su Araksu, vadinamu Nahr-Russ."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Kruzė Gotos bibliotekoje aptiko arabų geografo Istachrio Abu Izaoko al Farisi 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191842
+    - t-001

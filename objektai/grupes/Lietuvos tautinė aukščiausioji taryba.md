@@ -38,7 +38,6 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 
 <a id="claim-t-77828"></a>
 - t-001
-  global_id: t-77828
   teiginys: "1794 m. balandį Vilniuje paskelbtu Lietuvos sukilimo aktu buvo sudaryta Lietuvos tautinė aukščiausioji taryba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77828
+    - t-001

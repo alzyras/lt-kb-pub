@@ -38,7 +38,6 @@ Teodoras Narbutas Jasono vadovaujamą kelionę datuoja 1350 m. pr. Kr. ir apraš
 
 <a id="claim-t-191280"></a>
 - t-001
-  global_id: t-191280
   teiginys: "Teodoras Narbutas Jasono vadovaujamą kelionę datuoja 1350 m. pr. Kr. ir aprašo kaip vykusią Argo laivu su argonautais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Teodoras Narbutas Jasono vadovaujamą kelionę datuoja 1350 m. pr. Kr. ir apraš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191280
+    - t-001

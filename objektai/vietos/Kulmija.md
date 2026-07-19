@@ -43,7 +43,6 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
 
 <a id="claim-t-99929"></a>
 - t-001
-  global_id: t-99929
   teiginys: "1230 m. Mozūrijos kunigaikštis Konradas kryžiuočiams užrašė Kulmiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
 
 <a id="claim-t-201071"></a>
 - t-002
-  global_id: t-201071
   teiginys: "Taip išnaikinę pamezonys, sūdaujai, parusnėnai visą Boleslovo kariauną nuteriojo dar baisiai, įkan din jį vydami, Kulmiją ir Mozūriją."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
 
 <a id="claim-t-201072"></a>
 - t-003
-  global_id: t-201072
   teiginys: "Tasai zokanykas, persikėlęs per Yslą, arba Vyslą, atkeliavo į Kulmiją, apygar das Lubavos, į parubežių Pamezonijos, kur buvo ne tikėliai jau apjunkę krikščionys; visų pirma nuėjo tenai pas Sudreikį kunigaikštį."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -90,7 +87,6 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
 
 <a id="claim-t-201073"></a>
 - t-004
-  global_id: t-201073
   teiginys: "Kristijonas išliuosavimu nuo jų pačios Kulmijos ir Lubavos apy gardų terūpinos, kaipogi tose apygardose buvo jau krikščionys."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -103,7 +99,6 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
 
 <a id="claim-t-201074"></a>
 - t-005
-  global_id: t-201074
   teiginys: "Tuo jau lietuviai ir žemaičiai įsigrūdę su didžia kariau na į Pamezoniją ir Kulmiją, kurgi ir Sviatopelkas persikėlęs su savo kariauna taikinėjo lietuviams terioti ir deginti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -116,7 +111,6 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
 
 <a id="claim-t-201075"></a>
 - t-006
-  global_id: t-201075
   teiginys: "Už visus kraštus tame patrakime lietuvių per krikštų daugesniai prityrė Kulmija, kuri karts po karto buvo nuteriota, užvis jog tenai visi buvo prašaleičiai ir krikščionys, kurių netikėliai lietuviai neapvežėdami kuo didesniai giežė apmaudą."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -129,7 +123,6 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
 
 <a id="claim-t-201076"></a>
 - t-007
-  global_id: t-201076
   teiginys: "Seniai bebuvo lietuviai taip nuterioję kraštus Kulmijos ir Pamezonijos kaip šiuo žy giu, kaipogi, siaubiant tai audrai, kryžėjai nusimi nę tenkinos pilėse belindą, todėl pavyko lietuviams laimingai su visu pelnu namo pagrįžti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -163,21 +156,19 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
     kunigaikščio titulu, buvo suteiktos visos teisės būti pilnu krašto savi­
     ninku užkariausimoje prūsų žemėje. Tada Salza priėmė kvietimą
     Konrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją.
-  citata_rodoma: |
-    Jos dėka ordinui, su Reicho
-    kunigaikščio titulu, buvo suteiktos visos teisės būti pilnu krašto savi­
-    ninku užkariausimoje prūsų žemėje. Tada Salza priėmė kvietimą
-    Konrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją.
+  citata_rodoma: "Jos dėka ordinui, su Reicho\nkunigaikščio titulu, buvo suteiktos visos teisės būti pilnu krašto savi­\nninku užkariausimoje prūsų žemėje. Tada Salza priėmė kvietimą\nKonrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99929
+    - t-001
+
 - id: c-184421
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lenkai negalėjo per amžius to nuopuolio užmiršti, o
     lietuviai, įgiję tą pergalę, dievus savo maldė, dėka-
@@ -196,10 +187,12 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201071
+    - t-002
+
 - id: c-184422
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskesniai rados taip pat zokanykas cisternas, var­
     du Kristijonas, iš klioštoriaus Olivos, vyras buklus,
@@ -221,10 +214,12 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201072
+    - t-003
+
 - id: c-184423
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vienoj gromatoj, rašyto j me­
     tuose 1222 perkrikštams, kuriuos ragina tėvyga mei­
@@ -243,10 +238,12 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201073
+    - t-004
+
 - id: c-184424
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tok­
     sai darbas Sviatopelko drąsino dar didesniai lietu­
@@ -265,10 +262,12 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201074
+    - t-005
+
 - id: c-184425
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip lie­
     tuviai griovė vieną po kito ramčius vokyčių galy­
@@ -287,10 +286,12 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201075
+    - t-006
+
 - id: c-184426
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Neaprašomas yra gro­
     bis, kokį tenai lietuviai sugrieję, su nesuskaitomais
@@ -311,6 +312,7 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201076
+    - t-007
+
 ## Ryšiai
 - Kulmija priklausė [[objektai/grupes/Kryžiuočių ordinas]]

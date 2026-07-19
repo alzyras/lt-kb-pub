@@ -32,7 +32,6 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
 
 <a id="claim-t-192798"></a>
 - t-001
-  global_id: t-192798
   teiginys: "Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo būti atmatuotas nuo Lemptenburgo Lipzos ir Natangijos link."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -50,10 +49,9 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175568
-    - c-001
+
 <a id="claim-t-192799"></a>
 - t-002
-  global_id: t-192799
   teiginys: "Kitų Natangijos įtvirtintų vie tų pavadinimai neišliko."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,10 +68,9 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175569
-    - c-002
+
 <a id="claim-t-201087"></a>
 - t-003
-  global_id: t-201087
   teiginys: "Ateinantį metą, gieždamas ant kryžėjų apmau dą, kamendotas Kartinos Dovydas, įpuolęs su 800 rimtos joties į Natangiją ir jos kraštą baisiai baisesniai nuteriojęs, daug gyventojų iškirto, daug į vergus išvarė, kurį grįžtantį namon kryžėjai apnikę didumą grobio."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -116,8 +113,6 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192798
 - c-002
   santrauka: 'Kitų Natangijos įtvirtintų vie tų pavadinimai neišliko.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -132,8 +127,7 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192799
+
 ## Citatos
 
 - id: c-175568
@@ -157,23 +151,15 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
     dedant nuo Varmijos, priklauso Natangijai, o pakrantėje
     matavimui stinga žemės, kuri taip pat nepriklausytų Na-
     tangijai.
-  citata_rodoma: |
-    Be to, vienuoliai riteriai tu­
-    rėjo tą žemę padalyti perpus, o piliečiai privalėjo pasi­
-    rinkti iš jų vieną dalį. Antra vertus, tie patys piliečiai
-    turėjo gauti Varmijoje 2500 margų žemės; iš vienos pu­
-    sės šis plotas turėjo būti atmatuotas nuo Lemptenburgo
-    Lipza link ir palei jos krantą, o iš antros pusės — Natan-
-    gijos link tiek toli, kol margų skaičius susidarys prie pat
-    Varmijos. Bet toks matavimas pagal dabartinę vietovės
-    padėtį yra neįmanomas.
+  citata_rodoma: "Be to, vienuoliai riteriai tu­\nrėjo tą žemę padalyti perpus, o piliečiai privalėjo pasi­\nrinkti iš jų vieną dalį. Antra vertus, tie patys piliečiai\nturėjo gauti Varmijoje 2500 margų žemės; iš vienos pu­\nsės šis plotas turėjo būti atmatuotas nuo Lemptenburgo\nLipza link ir palei jos krantą, o iš antros pusės — Natan-\ngijos link tiek toli, kol margų skaičius susidarys prie pat\nVarmijos. Bet toks matavimas pagal dabartinę vietovės\npadėtį yra neįmanomas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192798
+    - t-001
+
 - id: c-175569
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -186,22 +172,19 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
     toliau nuo Prusos upės net iki Baigos tęsėsi garsi Hone-
     dos, arba Hcmedau, sritis. Kitų Natangijos įtvirtintų vie­
     tų pavadinimai neišliko.
-  citata_rodoma: |
-    Antra tokia Sklumeno valda buvo netoli Bar-
-    tenšteino. Salia Brandenburgo buvo Pakarvės valda, o
-    toliau nuo Prusos upės net iki Baigos tęsėsi garsi Hone-
-    dos, arba Hcmedau, sritis. Kitų Natangijos įtvirtintų vie­
-    tų pavadinimai neišliko.
+  citata_rodoma: "Antra tokia Sklumeno valda buvo netoli Bar-\ntenšteino. Salia Brandenburgo buvo Pakarvės valda, o\ntoliau nuo Prusos upės net iki Baigos tęsėsi garsi Hone-\ndos, arba Hcmedau, sritis. Kitų Natangijos įtvirtintų vie­\ntų pavadinimai neišliko."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192799
+    - t-002
+
 - id: c-184437
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nevyko marčelgai nė
     trečiasis žygis, kursai norėjo į pilį Gondingeną įsi­
@@ -225,4 +208,4 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201087
+    - t-003

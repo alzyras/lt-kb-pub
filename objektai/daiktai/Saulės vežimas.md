@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189745"></a>
 - t-001
-  global_id: t-189745
   teiginys: "Narbutas lietuvių mitologijoje Saulės vežimą sieja su rytų Saulės rūmais, iš kurių tekanti Saulė išvažiuodavo nuostabiu vežimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189745
+    - t-001

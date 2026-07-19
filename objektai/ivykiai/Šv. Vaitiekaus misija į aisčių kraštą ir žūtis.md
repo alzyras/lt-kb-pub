@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-01893"></a>
 - t-001
-  global_id: t-01893
   teiginys: "Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Nenurodyta
     - c-02134
 
 <a id="claim-t-01894"></a>
-- t-002
-  global_id: t-01894
+- t-003
   teiginys: "Kunigaikštis Boleslovas išpirko nužudytų misijonierių lavonus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Nenurodyta
     - c-02132
 
 <a id="claim-t-01895"></a>
-- t-003
-  global_id: t-01895
+- t-002
   teiginys: "Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,16 +105,15 @@ Nenurodyta
     vykusius labai neskersuotų, jis atleido visus savo palydovus ir
     liko tik su dviem kunigais. Tačiau tas nieko nepadėjo: misijo-
     nieriams čia nesisekė platinti krikščionybės.
-  citata_rodoma: |
-    Tačiau tas nieko nepadėjo: misijo-
-    nieriams čia nesisekė platinti krikščionybės.
+  citata_rodoma: "Tačiau tas nieko nepadėjo: misijo-\nnieriams čia nesisekė platinti krikščionybės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01895
+    - t-002
+
 - id: c-02132
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -127,17 +123,15 @@ Nenurodyta
     įžeidimą. Tas atsitiko 997 m. balandžio 23 d. Misijonierių la-
     vonus išpirko kunigaikštis Boleslovas. Vyskupas Vaitiekus buvo
     paskelbtas šventuoju, krikščionybės kankiniu.
-  citata_rodoma: |
-    Misijonierių la-
-    vonus išpirko kunigaikštis Boleslovas. Vyskupas Vaitiekus buvo
-    paskelbtas šventuoju, krikščionybės kankiniu.
+  citata_rodoma: "Misijonierių la-\nvonus išpirko kunigaikštis Boleslovas. Vyskupas Vaitiekus buvo\npaskelbtas šventuoju, krikščionybės kankiniu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01894
+    - t-003
+
 - id: c-02134
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -154,4 +148,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01893
+    - t-001

@@ -36,7 +36,6 @@ Dusburgietis teigia, kad [Ruigys] Ruhig P.
 
 <a id="claim-t-61275"></a>
 - t-001
-  global_id: t-61275
   teiginys: "P. Ruhigo „Littauisch-deutsches und deutsch-littauisches Lexicon“ išleistas Karaliaučiuje 1747 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Dusburgietis teigia, kad [Ruigys] Ruhig P.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61275
+    - t-001

@@ -39,7 +39,6 @@ Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi 
 
 <a id="claim-t-60730"></a>
 - t-001
-  global_id: t-60730
   teiginys: "Komestorius rašė, kad panašūs ženklai rodėsi mirštant Julijui Cezariui, o po jo mirties suskilo senatas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60730
+    - t-001

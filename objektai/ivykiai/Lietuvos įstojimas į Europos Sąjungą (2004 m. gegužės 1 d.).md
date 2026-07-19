@@ -46,8 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75222"></a>
-- t-001
-  global_id: t-75222
+- t-003
   teiginys: "Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Nenurodyta
     - c-23111
 
 <a id="claim-t-75223"></a>
-- t-002
-  global_id: t-75223
+- t-004
   teiginys: "Po Lietuvos įstojimo į ES padidėjo šalies prekybos ir eksportuojamų prekių gamybos apimtys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,20 +91,15 @@ Nenurodyta
     rinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir
     konsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-
     mo) Europos parlamentui teisę.
-  citata_rodoma: |
-    Kiek­
-    vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių na-
-    rių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos
-    rinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir
-    konsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-
-    mo) Europos parlamentui teisę.
+  citata_rodoma: "Kiek­\nvienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių na-\nrių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos \nrinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir \nkonsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-\nmo) Europos parlamentui teisę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75222
+    - t-003
+
 - id: c-73084
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -127,4 +120,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75223
+    - t-004

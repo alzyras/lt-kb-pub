@@ -40,8 +40,7 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 ## Teiginiai
 
 <a id="claim-t-182781"></a>
-- t-001
-  global_id: t-182781
+- t-023
   teiginys: "1656 m. spalio 22 d. švedai ir brandenburgiečiai pasivijo lietuvius ties Pilypavu netoli Suvalkų ir juos sumušė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
     - c-43888
 
 <a id="claim-t-183091"></a>
-- t-002
-  global_id: t-183091
+- t-004
   teiginys: "Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
     - c-166479
 
 <a id="claim-t-183638"></a>
-- t-003
-  global_id: t-183638
+- t-025
   teiginys: "Lietuvos politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Suvalkų gubernijoje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -230,7 +227,8 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182781
+    - t-023
+
 - id: c-166479
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -247,7 +245,8 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183091
+    - t-004
+
 - id: c-167030
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -270,4 +269,4 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183638
+    - t-025

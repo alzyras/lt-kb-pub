@@ -42,8 +42,7 @@ V. Visockas nurodytas „Lietuvių tautos istorijos“ leidinio redaktorių kole
 ## Teiginiai
 
 <a id="claim-t-187944"></a>
-- t-001
-  global_id: t-187944
+- t-002
   teiginys: "V. Visockas buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::authors"
@@ -58,7 +57,6 @@ V. Visockas nurodytas „Lietuvių tautos istorijos“ leidinio redaktorių kole
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170929
-    - c-001
 - susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188050|Norbertas Vėlius]]: Norbertas Vėlius nurodytas kaip vieno šio leidinio įvedamojo straipsnio autorius.
 - susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188052|Norbertas Vėlius]]: Norbertas Vėlius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
 - susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais.
@@ -90,8 +88,7 @@ V. Visockas nurodytas „Lietuvių tautos istorijos“ leidinio redaktorių kole
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187944
+
 ## Citatos
 
 - id: c-170929
@@ -111,14 +108,11 @@ V. Visockas nurodytas „Lietuvių tautos istorijos“ leidinio redaktorių kole
     Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
     lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
     tūrinio paveldo arealas.
-  citata_rodoma: |
-    R edaktorių kolegija:
-    E. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,
-    A. TYLA] N. VĖLIUS,! V. VISOCKAS
+  citata_rodoma: "R edaktorių kolegija:\nE. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,\nA. TYLA] N. VĖLIUS,! V. VISOCKAS"
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187944
+    - t-002

@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-66763"></a>
 - t-001
-  global_id: t-66763
   teiginys: "1639 m. Liubomirskis nesutiko pratęsti seimo darbo laiko, todėl seimas išsiskirstė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66763
+    - t-001

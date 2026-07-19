@@ -12,14 +12,14 @@ datos:
   - '1393 m.'
 date_start: '1200'
 date_end: '1393'
-amziai:
-  - 'XII'
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - tauta
+amziai:
+  - 'XII'
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 ## Teiginiai
 
 <a id="claim-t-81588"></a>
-- t-001
-  global_id: t-81588
+- t-005
   teiginys: "1390 m. žygyje prancūzams ir kitiems kariams vadovavo riteris Boucicaut."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     - c-78179
 
 <a id="claim-t-81591"></a>
-- t-003
-  global_id: t-81591
+- t-006
   teiginys: "Prancūzai, vadovaujami Boucicaut'o, per kautynes pridarė nemažai žalos apgultiesiems."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     - c-78180
 
 <a id="claim-t-81592"></a>
-- t-004
-  global_id: t-81592
+- t-007
   teiginys: "Prancūzai priėmė lenkų kvietimą į dvikovą ir kautynių vieta pasirinko Prahą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,8 +95,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     - c-78187
 
 <a id="claim-t-81593"></a>
-- t-005
-  global_id: t-81593
+- t-004
   teiginys: "Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,8 +112,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     - c-78185
 
 <a id="claim-t-183891"></a>
-- t-006
-  global_id: t-183891
+- t-008
   teiginys: "1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -138,12 +133,6 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata apie prancūzų dalyvavimą užimant Konstantinopolį."
   pagrindžia:
     - c-167276
-
-- t-002
-  global_id: t-906884275
-  teiginys: 'Prancūzai, vadovaujami Boucicaut''o, per kautynes pridarė nemažai žalos apgultiesiems.'
-  pagrindžia:
-    - c-78180
 - susijęs iš [[objektai/grupes/Flandrai.md#claim-t-62997|Flandrai]]: Prancūzų ir flandrų kautynėse abi šalys prarado daug užmuštųjų.
 - susijęs iš Klaipėda: Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63416|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.
@@ -319,29 +308,15 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     raliaus Henriko sūnus, su didžiulė­
     mis anglų, škotų bei prancūzų ir 1.1,
     pajėgomis įsibrovė į Lietuvą.
-  citata_rodoma: |
-    119
-
-    ## Puslapis 136
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    lankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­
-    bio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­
-    no sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos
-    sostą23. Prancūzams ir kitiems kariams vadovavo narsusis
-    riteris Boucicaut24. Prie Kauno su jais susijungė, be Žemai-
-    23
-    Strijkovskis apsirinka nurody­
-    damas, esą Lankasteris, Anglijos ka­
-    raliaus Henriko sūnus, su didžiulė­
-    mis anglų, škotų bei prancūzų ir 1.
+  citata_rodoma: "119\n\n## Puslapis 136\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nlankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­\nbio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­\nno sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos \nsostą23. Prancūzams ir kitiems kariams vadovavo narsusis \nriteris Boucicaut24. Prie Kauno su jais susijungė, be Žemai-\n23\nStrijkovskis apsirinka nurody­\ndamas, esą Lankasteris, Anglijos ka­\nraliaus Henriko sūnus, su didžiulė­\nmis anglų, škotų bei prancūzų ir 1."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81588
+    - t-005
+
 - id: c-78180
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -368,8 +343,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81591
-    - t-002
+    - t-006
+
 - id: c-78185
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -393,7 +368,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81593
+    - t-004
+
 - id: c-78187
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -414,7 +390,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81592
+    - t-007
+
 - id: c-167276
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -433,7 +410,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183891
+    - t-008
+
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Flandrai]]
 - Prancūzai keliavo į [[objektai/vietos/Prūsija]]

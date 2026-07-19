@@ -32,7 +32,6 @@ Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. P
 
 <a id="claim-t-30755"></a>
 - t-001
-  global_id: t-30755
   teiginys: "Kassiodoras, ostgotų karaliaus Teodoriko aukštas valdininkas, savo raštuose pateikė Teodoriko padėkos laišką aisčiams už gintaro dovanas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. P
 
 <a id="claim-t-30756"></a>
 - t-002
-  global_id: t-30756
   teiginys: "Kassiodoro vėliau dingusi gotų istorija buvo Jordaneso 551 m. parengtos santraukos pagrindas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,21 +83,15 @@ Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. P
     pajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­
     nes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs
     375 m.) buvęs savo valstybei pajungęs ir aisčius.
-  citata_rodoma: |
-    Padarydamas santrauką vėliau dingusios
-    Kassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine
-    actibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą
-    tautą («pacatum hominum genus omnino »), užėmusią labai ilgą
-    pajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­
-    nes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs
-    375 m.
+  citata_rodoma: "Padarydamas santrauką vėliau dingusios\nKassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine\nactibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą\ntautą («pacatum hominum genus omnino »), užėmusią labai ilgą\npajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­\nnes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs\n375 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30756
+    - t-002
+
 - id: c-33004
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -111,15 +103,11 @@ Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. P
     (Cassiodorus, a. 490-585) savo raštuose (Variae, V, 12, parašytuose
     535-526 po Kr.) padavė tekstą Teodoriko padėkos laiško aisčiams
     («Hestis ») už gintaro dovanas.
-  citata_rodoma: |
-    Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras
-    (Cassiodorus, a. 490-585) savo raštuose (Variae, V, 12, parašytuose
-    535-526 po Kr.) padavė tekstą Teodoriko padėkos laiško aisčiams
-    («Hestis ») už gintaro dovanas.
+  citata_rodoma: "Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras\n(Cassiodorus, a. 490-585) savo raštuose (Variae, V, 12, parašytuose\n535-526 po Kr.) padavė tekstą Teodoriko padėkos laiško aisčiams\n(«Hestis ») už gintaro dovanas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30755
+    - t-001

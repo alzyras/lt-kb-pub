@@ -48,8 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59381"></a>
-- t-001
-  global_id: t-59381
+- t-002
   teiginys: "Per susidūrimą prūsai nužudė naująjį maršalą Berleviną, visus brolius ir 400 vyrų, išskyrus 10 pabėgusiųjų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,8 +64,7 @@ Nenurodyta
     - c-60014
 
 <a id="claim-t-196962"></a>
-- t-002
-  global_id: t-196962
+- t-003
   teiginys: "Šiam sumanymui pasipriešino brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo ir, drąsiai užgriuvę jų priekinius būrius, bematant."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196962
+    - t-003
+
 - id: c-60014
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -129,4 +128,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59381
+    - t-002

@@ -39,9 +39,8 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
 
 <a id="claim-t-191209"></a>
 - t-001
-  global_id: t-191209
   teiginys: "Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip išpuikusį, žiaurų ir nelabai išmintingą monarchą."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -60,10 +59,9 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174091
-    - c-001
+
 <a id="claim-t-191210"></a>
 - t-002
-  global_id: t-191210
   teiginys: "514 m. pr. Kr. Darijus patraukė prieš Indatirą, o persų būriai, remiami graikų sąjungininkų, brovėsi Dunojaus link."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,6 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
 
 <a id="claim-t-191211"></a>
 - t-003
-  global_id: t-191211
   teiginys: "Narbuto pasakojime skitų karalius Indatiras vadovavo kariuomenei, kuri karo metu kovojo su Darijumi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -128,8 +125,7 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191209
+
 ## Citatos
 
 - id: c-174091
@@ -149,25 +145,15 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
     bę Padnestrės apylinkes, paliko šias vietas puolantiems
     persams ir taip darė be paliovos traukdamiesi nuo jų
     kariuomenės.
-  citata_rodoma: |
-    37
-    Darijaus puolimai prieš skitus. Apie 520 metus prieš
-    Kristaus gimimą skitus valdė išpuikęs, žiaurus ir nela­
-    bai išmintingas monarchas Indatiras. Jis niekino grai­
-    kus ir persus, nes jie buvo svetimi žmonės, o šie savo
-    ruožtu niekino skitus kaip barbarus. Tačiau skitų galybė
-    ir reikšmė politinėje arenoje dar buvo nemažos, nes per­
-    sų karalius Darijus siekė sąjungos su Indatiru ir norėjo
-    vesti jo dukrą. Bet persų pasiuntiniai buvo išsiųsti atgal
-    su panieka; į prašymą karalaitės rankos atsakyta nei­
-    giamai.
+  citata_rodoma: "37\nDarijaus puolimai prieš skitus. Apie 520 metus prieš\nKristaus gimimą skitus valdė išpuikęs, žiaurus ir nela­\nbai išmintingas monarchas Indatiras. Jis niekino grai­\nkus ir persus, nes jie buvo svetimi žmonės, o šie savo\nruožtu niekino skitus kaip barbarus. Tačiau skitų galybė\nir reikšmė politinėje arenoje dar buvo nemažos, nes per­\nsų karalius Darijus siekė sąjungos su Indatiru ir norėjo\nvesti jo dukrą. Bet persų pasiuntiniai buvo išsiųsti atgal\nsu panieka; į prašymą karalaitės rankos atsakyta nei­\ngiamai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191209
+    - t-001
+
 - id: c-174092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -187,7 +173,8 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191210
+    - t-002
+
 - id: c-174093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -206,6 +193,7 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191211
+    - t-003
+
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Darijus]]

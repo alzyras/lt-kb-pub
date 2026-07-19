@@ -34,8 +34,7 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
 ## Teiginiai
 
 <a id="claim-t-93754"></a>
-- t-001
-  global_id: t-93754
+- t-003
   teiginys: "Augusto laikai Lietuvoje buvo labai reikšmingi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -44,8 +43,7 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
     - c-89071
 
 <a id="claim-t-93758"></a>
-- t-002
-  global_id: t-93758
+- t-009
   teiginys: "Kai kurių nuomone, naujų žemių suskirstymas ir žmonių įkurdinimas sodžiais padėjo susidaryti vėlesnei Zigmanto Augusto valakų sistemai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,8 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93758
+    - t-009
+
 - id: c-89071
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -105,4 +104,4 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93754
+    - t-003

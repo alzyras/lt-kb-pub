@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-22059"></a>
 - t-001
-  global_id: t-22059
   teiginys: "1958 m. „atšilimas“ baigėsi, o valdžia pradėjo kovą su religija mokymo įstaigose, draudė skambinti varpais ir ribojo atlaidų lankymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,12 +73,11 @@ media_all_json: |-
     blokuodavo atlaidų metu, paskelbdama neva „kiaulių marą“), tikintieji
     pajuokiami, įžeidinėjami, uždrausta statyti kryžius, šiurkščiais metodais
     sustabdyta naujos bažnyčios statyba Klaipėdoje.
-  citata_rodoma: |
-    Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia
+  citata_rodoma: "Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22059
+    - t-001

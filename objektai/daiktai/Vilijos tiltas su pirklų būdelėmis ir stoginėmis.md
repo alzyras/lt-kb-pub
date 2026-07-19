@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-87096"></a>
 - t-001
-  global_id: t-87096
   teiginys: "1529 m. Albertas Goštautas gavo karaliaus leidimą per Viliją nutiesti akmeninį arba plytinį tiltą su pirklių būdelėmis ar stoginėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-87097"></a>
 - t-002
-  global_id: t-87097
   teiginys: "Karalius leido Hozijui pastatyti tiltą per Viliją vietoje nepatogios perkėlos ir imti nustatytą mokestį iš pravažiuojančiųjų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +111,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87096
+    - t-001
+
 - id: c-83076
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -137,4 +136,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87097
+    - t-002

@@ -36,8 +36,7 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
 ## Teiginiai
 
 <a id="claim-t-38711"></a>
-- t-001
-  global_id: t-38711
+- t-002
   teiginys: "Dragūnus buvo galima naudoti kaip kavaleriją, tačiau šiame vaidmenyje jie buvo mažiau efektyvūs."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
     - c-40516
 
 <a id="claim-t-38712"></a>
-- t-002
-  global_id: t-38712
+- t-001
   teiginys: "Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,8 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38712
+    - t-001
+
 - id: c-40516
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -105,7 +104,8 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38711
+    - t-002
+
 - id: c-167095
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -123,3 +123,5 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

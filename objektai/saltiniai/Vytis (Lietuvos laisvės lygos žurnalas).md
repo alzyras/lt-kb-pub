@@ -37,7 +37,6 @@ LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m
 
 <a id="claim-t-18008"></a>
 - t-001
-  global_id: t-18008
   teiginys: "Lietuvos laisvės lyga pogrindyje nuo 1978 m. leido žurnalą „Vytis“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,13 +68,11 @@ LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m
     Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
     Petras Cidzikas. LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-
     klys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
-  citata_rodoma: |
-    LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-
-    klys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
+  citata_rodoma: "LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-\nklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18008
+    - t-001

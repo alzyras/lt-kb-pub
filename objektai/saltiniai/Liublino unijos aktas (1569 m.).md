@@ -43,8 +43,7 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
 ## Teiginiai
 
 <a id="claim-t-169903"></a>
-- t-001
-  global_id: t-169903
+- t-007
   teiginys: "LDK atstovai priėmė Liublino unijos kompromisą, nors lenkai ir Žygimantas Augustas spaudė naikinti Lietuvos valstybingumą ir atplėšti teritorijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
 
 <a id="claim-t-169905"></a>
 - t-002
-  global_id: t-169905
   teiginys: "1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
     - c-154593
 
 <a id="claim-t-169906"></a>
-- t-003
-  global_id: t-169906
+- t-005
   teiginys: "1569 m. birželio 28 d. Jonas Jeronimaitis Chodkevičius Liublino seime priėmė unijos ir vieno antspaudo idėją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,8 +102,7 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
     - c-154590
 
 <a id="claim-t-169907"></a>
-- t-004
-  global_id: t-169907
+- t-003
   teiginys: "1569 m. sudaryta Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,8 +122,7 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
     - c-154588
 
 <a id="claim-t-169908"></a>
-- t-005
-  global_id: t-169908
+- t-004
   teiginys: "1562 m. Vitebsko karo lauko seimas pasiuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -146,8 +141,7 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
     - c-154589
 
 <a id="claim-t-193597"></a>
-- t-006
-  global_id: t-193597
+- t-008
   teiginys: "Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS IR LIETUVOS VALSTYBIŲ JUNGTUVĖS 63 ABIEJŲ TAUTŲ RESPUBLIKA 64 Liublino unija 64; LDK Baroko epochos Europoje."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -181,7 +175,8 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169907
+    - t-003
+
 - id: c-154589
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -210,7 +205,8 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169908
+    - t-004
+
 - id: c-154590
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -234,7 +230,8 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169906
+    - t-005
+
 - id: c-154591
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -261,7 +258,8 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169903
+    - t-007
+
 - id: c-154593
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -279,7 +277,8 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169905
+    - t-002
+
 - id: c-176272
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -298,4 +297,4 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193597
+    - t-008

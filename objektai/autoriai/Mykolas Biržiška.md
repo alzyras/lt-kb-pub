@@ -7,12 +7,12 @@ datos:
   - '1987 m.'
 date_start: '1987'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XX'
 periodo_grupes:
   - 'XX a.'
+amziai:
+  - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Redagavo ir papildė Mykolas Biržiška su Adolfo Šapokos įvadu.
 
 <a id="claim-t-202218"></a>
 - t-001
-  global_id: t-202218
   teiginys: "Redagavo ir papildė Mykolas Biržiška su Adolfo Šapokos įvadu."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Redagavo ir papildė Mykolas Biržiška su Adolfo Šapokos įvadu.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202218
+    - t-001

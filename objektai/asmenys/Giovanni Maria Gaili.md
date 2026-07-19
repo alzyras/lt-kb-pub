@@ -28,7 +28,6 @@ Romėnas Giovanni Maria Gaili su Pietro Peretti paskirstė Antakalnio bažnyčio
 
 <a id="claim-t-200866"></a>
 - t-001
-  global_id: t-200866
   teiginys: "Romėnas Giovanni Maria Gaili su Pietro Peretti paskirstė Antakalnio bažnyčios skulptūras ir apie aštuonerius metus prižiūrėjo amatininkų darbą."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Romėnas Giovanni Maria Gaili su Pietro Peretti paskirstė Antakalnio bažnyčio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200866
+    - t-001

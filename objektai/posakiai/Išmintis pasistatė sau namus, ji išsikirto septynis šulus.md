@@ -39,8 +39,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
 ## Teiginiai
 
 <a id="claim-t-89583"></a>
-- t-001
-  global_id: t-89583
+- t-003
   teiginys: "Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
 
 <a id="claim-t-89584"></a>
 - t-002
-  global_id: t-89584
   teiginys: "Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
     - c-85527
 
 <a id="claim-t-89585"></a>
-- t-003
-  global_id: t-89585
+- t-004
   teiginys: "Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
     - c-85526
 
 <a id="claim-t-197045"></a>
-- t-004
-  global_id: t-197045
+- t-006
   teiginys: "Nors šie žodžiai pasakyti Saliamono, kuris dievo sūnų vadina „tėvo išmintimi“ kaip ir tas apaštalas, taręs (1 Kor 1,24): „Bet pašauktiesiems — tiek žydams, tiek graikams — mes skelbiame Kristų, kuris yra dievo galybė ir dievo išmintis“, kaip ir psalmėje, kur."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -108,8 +104,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
     - c-179017
 
 <a id="claim-t-197046"></a>
-- t-005
-  global_id: t-197046
+- t-007
   teiginys: "Štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -138,25 +133,15 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
     pastatyti ant tvirtos uolos, o toji uola — Kristus.
     151  Popiežius Celestinas III (1191—1198) 1196 m. patvirtino Vokiečių namų Jeruzalėje
     ligoninės šventosios Marijos broliją.
-  citata_rodoma: |
-    Šitokie dvasiniai
-    šulai iškirsti išminties ranka to šventojo tikėjimo namuose, kuriuos taip pastatydino jo
-    šventenybė popiežius, kad, pasipylus ant jų godumo liūčiai ir užplūdus juos prabangos
-    potvyniui, puikybės vėjui juos užgriuvus ir įsibrovus į vidų, jie negalėtų sugriūti: mat jie
-    pastatyti ant tvirtos uolos, o toji uola — Kristus.
-
-
-
-
-
-      151 Popiežius Celestinas III (1191—1198) 1196 m.
+  citata_rodoma: "Šitokie dvasiniai\nšulai iškirsti išminties ranka to šventojo tikėjimo namuose, kuriuos taip pastatydino jo\nšventenybė popiežius, kad, pasipylus ant jų godumo liūčiai ir užplūdus juos prabangos\npotvyniui, puikybės vėjui juos užgriuvus ir įsibrovus į vidų, jie negalėtų sugriūti: mat jie\npastatyti ant tvirtos uolos, o toji uola — Kristus.\n\n\n\n\n\n  151 Popiežius Celestinas III (1191—1198) 1196 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89583
+    - t-003
+
 - id: c-85526
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -186,8 +171,9 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89585
-    - t-197046
+    - t-004
+    - t-007
+
 - id: c-85527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -213,7 +199,8 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89584
+    - t-002
+
 - id: c-179017
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -243,4 +230,4 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197045
+    - t-006

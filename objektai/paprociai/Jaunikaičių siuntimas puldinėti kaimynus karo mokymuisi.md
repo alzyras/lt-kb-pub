@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-185916"></a>
 - t-001
-  global_id: t-185916
   teiginys: "Erdivydas, Vykintas ir Tautvilas buvo išsiųsti į kariuomenę, kad puldinėdami kaimynus pratintųsi kariauti."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -66,7 +65,6 @@ Nenurodyta
 
 <a id="claim-t-196310"></a>
 - t-002
-  global_id: t-196310
   teiginys: "Erdivydas, Vykintas ir Tautvilas, rengdamiesi pulti Mindaugą, prašė kaimynų pagalbos ir, pasak Kojelavičiaus, vos neprarado tėvonijos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -102,7 +100,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185916
+    - t-001
+
 - id: c-178622
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -125,4 +124,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196310
+    - t-002

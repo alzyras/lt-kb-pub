@@ -31,7 +31,6 @@ Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi me vedybų papro�
 
 <a id="claim-t-194787"></a>
 - t-001
-  global_id: t-194787
   teiginys: "Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi me vedybų papročius, bendrus lietuviams ir skandinavams, tai yra kad tik viena, pirmoji, žmona buvo iš tikrųjų laikoma tei sėta žmona ir namų šeimininke, o vėliau paimtos į namus mo terys neturėjo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi me vedybų papro�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194787
+    - t-001

@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-65014"></a>
-- t-001
-  global_id: t-65014
+- t-002
   teiginys: "Krokuvos katedroje esančiame Zigmanto II antkapyje Zigmantas II Senasis pavaizduotas kaip Lietuvos didysis kunigaikštis ir Lenkijos karalius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Nenurodyta
     - c-65533
 
 <a id="claim-t-65015"></a>
-- t-002
-  global_id: t-65015
+- t-001
   teiginys: "Zigmanto II antkapis buvo Krokuvos katedroje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65014
+    - t-002
+
 - id: c-65534
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -97,12 +96,11 @@ Nenurodyta
     sako jį galėdavus perlaužti pasagą ir pertraukti storoką kanapinę
     virvę. Jo sveikata pairo tik į gyvenimo pabaigą. Jaunystę praleido
     Zigmanto II antkapis Krokuvos katedroje.
-  citata_rodoma: |
-    Zigmanto II antkapis Krokuvos katedroje.
+  citata_rodoma: "Zigmanto II antkapis Krokuvos katedroje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65015
+    - t-001

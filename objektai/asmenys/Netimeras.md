@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-19170"></a>
-- t-001
-  global_id: t-19170
+- t-002
   teiginys: "Netimeras buvo Lietuvos „karalius“, kuris, Brunonui Bonifacijui atvykus į Lietuvą, įtikėjo ir krikštijosi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-21916
 
 <a id="claim-t-19171"></a>
-- t-002
-  global_id: t-19171
+- t-001
   teiginys: "Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,6 @@ media_all_json: |-
 
 <a id="claim-t-19172"></a>
 - t-003
-  global_id: t-19172
   teiginys: "Lietuvos „karaliaus“ Netimero krikštas datuojamas 1009 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,7 +99,6 @@ media_all_json: |-
 
 <a id="claim-t-183561"></a>
 - t-004
-  global_id: t-183561
   teiginys: "Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -160,15 +156,15 @@ media_all_json: |-
     1009-ieji Lietuvai praneša ne tik apie kriminalą, bet ir kur kas dau-
     giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,
     kuris įtikėjo ir krikštijosi.
-  citata_rodoma: |
-    giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,
+  citata_rodoma: "giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19170
+    - t-002
+
 - id: c-21917
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -181,15 +177,15 @@ media_all_json: |-
     imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
     jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
-  citata_rodoma: |
-    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
+  citata_rodoma: "jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19172
+    - t-003
+
 - id: c-166954
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -207,7 +203,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19171
-    - t-183561
+    - t-001
+    - t-004
+
 ## Ryšiai
 - Netimeras buvo valdovas [[objektai/vietos/Lietuva]]

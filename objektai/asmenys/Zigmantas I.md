@@ -44,8 +44,7 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
 ## Teiginiai
 
 <a id="claim-t-114074"></a>
-- t-001
-  global_id: t-114074
+- t-003
   teiginys: "Karalius Zigmantas I buvo Jono II, 1519 m. paskelbto Vilniaus vyskupu, tėvas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
     - c-105234
 
 <a id="claim-t-114075"></a>
-- t-002
-  global_id: t-114075
+- t-001
   teiginys: "1429 m. sausio 9–29 d. Lucko suvažiavime Zigmantas I susitiko su Vytautu ir Jogaila aptarti Vidurio ir Rytų Europos politikos."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -84,8 +82,7 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
     - c-22084
 
 <a id="claim-t-114076"></a>
-- t-003
-  global_id: t-114076
+- t-002
   teiginys: "Zigmantas I rėmė Vytauto vainikavimo planą, kuriuo siekta regione sukurti atsvarą Lenkijai."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -133,16 +130,16 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
     mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
     įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
     ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
-  citata_rodoma: |
-    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
+  citata_rodoma: "gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114075
-    - t-114076
+    - t-001
+    - t-002
+
 - id: c-105234
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -156,17 +153,14 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
     1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40
     metų, 1538 m.
     13.
-  citata_rodoma: |
-    12. Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto
-    I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o
-    1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40
-    metų, 1538 m.
+  citata_rodoma: "12. Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto \nI tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o \n1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40 \nmetų, 1538 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114074
+    - t-003
+
 ## Ryšiai
 - Zigmantas I rėmė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

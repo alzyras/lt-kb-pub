@@ -39,7 +39,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 
 <a id="claim-t-87897"></a>
 - t-001
-  global_id: t-87897
   teiginys: "1396 m. Vilniuje Čupurva minėtas kaip viena iš dvaro maršalkų, dalyvavusių akto sudaryme."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87897
+    - t-001

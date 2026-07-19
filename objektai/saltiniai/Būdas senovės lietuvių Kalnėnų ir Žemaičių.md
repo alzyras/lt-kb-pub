@@ -36,8 +36,7 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
 ## Teiginiai
 
 <a id="claim-t-31637"></a>
-- t-001
-  global_id: t-31637
+- t-002
   teiginys: "S. Daukanto „Būdas senovės lietuvių Kalnėnų ir Žemaičių“ buvo išleistas Kaune 1935 m., redaguotas J. Talmanto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
     - c-33544
 
 <a id="claim-t-31638"></a>
-- t-002
-  global_id: t-31638
+- t-001
   teiginys: "S. Daukantas „Būde senovės lietuvių Kalnėnų ir Žemaičių“ vaizdingai aprašė, kaip iš miško buvo gaunama visokeriopa nauda."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,17 +84,15 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
     Karys, 1971, 193-197, 227-230, 263-265, 306-311 p. — Daukantas, S.:
     _Būdas senovės lietuvių Kalnėnų ir Žemaičių_ , red. J. Talmantas, Kaunas
     1935 (vokišką santrauką gerai paruošė V. Jungfer : _Alt-Litauen_ , 1926).
-  citata_rodoma: |
-    — Daukantas, S.:
-    _Būdas senovės lietuvių Kalnėnų ir Žemaičių_ , red. J. Talmantas, Kaunas
-    1935 (vokišką santrauką gerai paruošė V. Jungfer : _Alt-Litauen_ , 1926).
+  citata_rodoma: "— Daukantas, S.:\n_Būdas senovės lietuvių Kalnėnų ir Žemaičių_ , red. J. Talmantas, Kaunas\n1935 (vokišką santrauką gerai paruošė V. Jungfer : _Alt-Litauen_ , 1926)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31637
+    - t-002
+
 - id: c-33545
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -112,15 +108,11 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
     užsiėmimo, ir iš miško, kaip vaizdingai nupiešė XIX amž. pirmos
     pusės lietuvių istorikas S. Daukantas, buvo traukiama visokeriopa
     nauda.
-  citata_rodoma: |
-    Dideli girių masyvai teikė jų pakraščių gyventojams visokio
-    užsiėmimo, ir iš miško, kaip vaizdingai nupiešė XIX amž. pirmos
-    pusės lietuvių istorikas S. Daukantas, buvo traukiama visokeriopa
-    nauda.
+  citata_rodoma: "Dideli girių masyvai teikė jų pakraščių gyventojams visokio\nužsiėmimo, ir iš miško, kaip vaizdingai nupiešė XIX amž. pirmos\npusės lietuvių istorikas S. Daukantas, buvo traukiama visokeriopa\nnauda."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31638
+    - t-001

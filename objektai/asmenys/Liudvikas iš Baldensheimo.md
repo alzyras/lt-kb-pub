@@ -39,7 +39,6 @@ Dusburgietis teigia, kad apie brolį Liudviką, septintą Prūsijos žemės magi
 
 <a id="claim-t-60378"></a>
 - t-001
-  global_id: t-60378
   teiginys: "Liudvikas iš Baldensheimo nuo 1265 m. šešerius metus vadovavo kaip septintasis Prūsijos magistras."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,16 +67,11 @@ Dusburgietis teigia, kad apie brolį Liudviką, septintą Prūsijos žemės magi
     Brolis Liudvikas iš Baldensheimo, septintas Prūsijos magistras, vadovavo nuo
     1265 viešpaties metų šešerius metus396. Tuo metu maršalu buvo brolis Fridrichas iš
     Holdenštetės397.
-  citata_rodoma: |
-    Apie brolį Liudviką, septintą Prūsijos žemės magistrą
-
-       Brolis  Liudvikas  iš Baldensheimo,  septintas  Prūsijos  magistras, vadovavo nuo
-    1265 viešpaties metų šešerius metus396. Tuo metu maršalu buvo brolis Fridrichas iš
-    Holdenštetės397.
+  citata_rodoma: "Apie brolį Liudviką, septintą Prūsijos žemės magistrą\n\n   Brolis  Liudvikas  iš Baldensheimo,  septintas  Prūsijos  magistras, vadovavo nuo\n1265 viešpaties metų šešerius metus396. Tuo metu maršalu buvo brolis Fridrichas iš\nHoldenštetės397."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60378
+    - t-001

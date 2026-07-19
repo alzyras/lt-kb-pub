@@ -32,8 +32,7 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos aut
 ## Teiginiai
 
 <a id="claim-t-58861"></a>
-- t-001
-  global_id: t-58861
+- t-002
   teiginys: "Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos aut
     - c-59493
 
 <a id="claim-t-184631"></a>
-- t-002
-  global_id: t-184631
+- t-003
   teiginys: "Livonijos kariuomenės sutriuškinimo mūšyje žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir 150 ordino riterių, vadintų broliais."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -124,16 +122,15 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos aut
     Dovilai
     Dramenava (Dramenow, vėliau Drebnau)
     Drava, u.
-  citata_rodoma: |
-    )
-        iš Dusburgo, Dusburgietis (D.— Petrus de Dusburgk, Jer.— P. von Dûsburc), Or. br.
+  citata_rodoma: ")\n    iš Dusburgo, Dusburgietis (D.— Petrus de Dusburgk, Jer.— P. von Dûsburc), Or. br."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58861
+    - t-002
+
 - id: c-167992
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -157,4 +154,4 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos aut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184631
+    - t-003

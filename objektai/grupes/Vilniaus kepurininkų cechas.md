@@ -28,7 +28,6 @@ Vilniaus kepurininkų cechas turėjo teisę gaminius parduoti pirkliams ir indiv
 
 <a id="claim-t-202320"></a>
 - t-001
-  global_id: t-202320
   teiginys: "Vilniaus kepurininkų cechas turėjo teisę gaminius parduoti pirkliams ir individualiems klientams turguje, privačiai, namie bei pro langą, tačiau ta teise naudojosi tik meistrai."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,5 @@ Vilniaus kepurininkų cechas turėjo teisę gaminius parduoti pirkliams ir indiv
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202320
+    - t-001

@@ -38,7 +38,6 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
 
 <a id="claim-t-191193"></a>
 - t-001
-  global_id: t-191193
   teiginys: "Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais ir osetinais, kurių palikuonys gyvena Kaukaze."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -58,10 +57,9 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
     - c-174075
 
 <a id="claim-t-191196"></a>
-- t-002
-  global_id: t-191196
+- t-004
   teiginys: "Narbutas rašo, kad Safaržykas mini Vienos Imperatoriškajame Senienų kabinete saugomą paminklą kaip seniausią istorinį jazigų pėdsaką."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -77,10 +75,9 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174078
-    - c-002
+
 <a id="claim-t-191980"></a>
-- t-003
-  global_id: t-191980
+- t-006
   teiginys: "Narbutas rašo, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais, jų skirtumus aiškindamas germanų ir finų valdžia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -100,8 +97,7 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
     - c-174862
 
 <a id="claim-t-194920"></a>
-- t-004
-  global_id: t-194920
+- t-007
   teiginys: "Safaržykas iškelia hipotezę, iš kuries verta tik pasijuok ti, — tas kalnas turėtų būti Minsko gubernijojell!"
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -131,8 +127,7 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191196
+
 ## Citatos
 
 - id: c-174075
@@ -155,7 +150,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191193
+    - t-001
+
 - id: c-174078
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -170,22 +166,15 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
     giu, daugio, daugiel, daugiaus; lenkų kalboje mielce ar­
     ba dlugo. Antroje eilutėje pirmas žodis Т01ГН, tojge,
     reiškia šiandien taigi, lenkiškai a zatem, więc.
-  citata_rodoma: |
-    Pats se­
-    niausias ir tikrai istorinis pėdsakas, bylojantis, jog jazi­
-    gai egzistavo dar prieš Kristų, yra istorinis paminklas, da­
-    bar saugomas Imperatoriškajame Senienų kabinete Vie­
-    noje; jį mini Safaržykas2. Tai auksinė taurė, kuri kartu
-    su kitomis brangenybėmis 1799 metais buvo rasta Toron-
-    talo komitate, netoli Šv. Mikalojaus piiesto, kasant vy­
-    nuogyną pono Nako dvare.
+  citata_rodoma: "Pats se­\nniausias ir tikrai istorinis pėdsakas, bylojantis, jog jazi­\ngai egzistavo dar prieš Kristų, yra istorinis paminklas, da­\nbar saugomas Imperatoriškajame Senienų kabinete Vie­\nnoje; jį mini Safaržykas2. Tai auksinė taurė, kuri kartu\nsu kitomis brangenybėmis 1799 metais buvo rasta Toron-\ntalo komitate, netoli Šv. Mikalojaus piiesto, kasant vy­\nnuogyną pono Nako dvare."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191196
+    - t-004
+
 - id: c-174862
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -211,7 +200,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191980
+    - t-006
+
 - id: c-177316
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -229,4 +219,4 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194920
+    - t-007

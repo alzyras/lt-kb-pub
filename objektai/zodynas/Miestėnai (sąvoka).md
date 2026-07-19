@@ -33,7 +33,6 @@ media_all_json: |-
 
 <a id="claim-t-201781"></a>
 - t-001
-  global_id: t-201781
   teiginys: "Šiaip amatininkai kartu su smulkesniais prekiautojais buvo kito gausaus miestiečių bendruomenės sluoksnio - miestėnų - pagrindas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201781
+    - t-001

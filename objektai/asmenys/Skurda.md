@@ -31,7 +31,6 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
 
 <a id="claim-t-60436"></a>
 - t-001
-  global_id: t-60436
   teiginys: "Skurda, kitos Sūduvos dalies vadas, su savo žmonėmis pasitraukė į Lietuvos žemę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -45,7 +44,6 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61068
-    - c-001
 - susijęs iš [[objektai/ivykiai/Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą.md#claim-t-89366|Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą]]: Kitos Sūduvos dalies vadas Skurda su savo žmonėmis pasitraukė į Lietuvos žemę.
 - susijęs iš [[objektai/ivykiai/Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą.md#claim-t-89367|Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą]]: Gedetas su savo namais, šeimyna ir 1500 sūduvių pasitraukė pas brolius ir priėmė krikštą, o Skurda su žmonėmis išvyko į Lietuvą.
 ## Reikšmingi paminėjimai
@@ -65,8 +63,7 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60436
+
 ## Citatos
 
 - id: c-61068
@@ -84,14 +81,11 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
     nebeliko nė vieno, kuris nebūtų nuolankiai paklusęs šventajai Romos bažnyčiai, Teutonų
     ordino broliai šitaip pradėjo karą su ta galinga, kietasprande ir kariauti pratusia tauta,
     kuri gyveno Prūsijos žemės kaimynystėje, anapus Nemuno, Lietuvos žemėje.
-  citata_rodoma: |
-    Tačiau Skurdą516,
-    kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į
-    Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.
+  citata_rodoma: "Tačiau Skurdą516,\nkitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į\nLietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60436
+    - t-001

@@ -31,7 +31,6 @@ Vytautui reikėjo padaryti kompromisą su viena jų, kad galėtų kovoti su kita
 
 <a id="claim-t-95923"></a>
 - t-001
-  global_id: t-95923
   teiginys: "Vytautui reikėjo sudaryti kompromisą su viena iš dviejų Lietuvos nepriklausomybei grėsusių valstybių, kad galėtų kovoti su kita."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Vytautui reikėjo padaryti kompromisą su viena jų, kad galėtų kovoti su kita
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95923
+    - t-001

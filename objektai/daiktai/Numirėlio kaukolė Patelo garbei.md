@@ -45,9 +45,8 @@ Nenurodyta
 
 <a id="claim-t-189735"></a>
 - t-001
-  global_id: t-189735
   teiginys: "Narbutas Patelo garbei laikomą numirėlio kaukolę sieja su Patelu, skraidančių oro dvasių dievu, kurio stabas buvęs Romovėje Perkūno dešinėje."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,7 +62,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172618
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Patelo garbei laikomą numirėlio kaukolę sieja su Patelu, skraidančių oro dvasių dievu, kurio stabas buvęs Romovėje Perkūno dešinėje.'
@@ -79,8 +78,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189735
+
 ## Citatos
 
 - id: c-172618
@@ -96,16 +94,11 @@ Nenurodyta
     Kabirai (Kabiiy)
     Tai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel­
     džių trejybė.
-  citata_rodoma: |
-    Patelas (Patelo)
-    Skraidančių oro dvasių dievas, savitas aukščiausiosios ka­
-    tegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą
-    jis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje.
-    Jo garbei kiekvienas namuose laikydavo numirėlio kaukolę.
+  citata_rodoma: "Patelas (Patelo)\nSkraidančių oro dvasių dievas, savitas aukščiausiosios ka­\ntegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą\njis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje.\nJo garbei kiekvienas namuose laikydavo numirėlio kaukolę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189735
+    - t-001

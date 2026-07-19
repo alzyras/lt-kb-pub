@@ -37,10 +37,9 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
 ## Teiginiai
 
 <a id="claim-t-68845"></a>
-- t-001
-  global_id: t-68845
+- t-002
   teiginys: "Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą prūsų gyvenamą teritoriją pietvakariuose riboja Osa ir Vysla."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vysla: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -52,10 +51,9 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-68327
-    - c-002
+
 <a id="claim-t-68846"></a>
-- t-002
-  global_id: t-68846
+- t-001
   teiginys: "Osa buvo dešinysis Vyslos intakas, iki kurio driekėsi beveik visos prūsų žemės, vadintos tėvonija."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -87,8 +85,7 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-68845
+
 ## Citatos
 
 - id: c-24347
@@ -102,17 +99,15 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
     intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų ku-
     nigaikščių dovanota vokiečiams. Čia Vytautas pakartoja ankstesnių Lie-
     tuvos valdovų nuostatą plėsti valstybę visoje baltų erdvėje.
-  citata_rodoma: |
-    Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos
-    intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų ku-
-    nigaikščių dovanota vokiečiams.
+  citata_rodoma: "Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos\nintako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų ku-\nnigaikščių dovanota vokiečiams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68846
+    - t-001
+
 - id: c-68327
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -126,14 +121,11 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
     Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
     J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Savo indėlį įnešė ir
     lietuvių lingvistai, ypač tarybiniu laikotarpiu6.
-  citata_rodoma: |
-    Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,
-    pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina
-    kaip prūsų gyvenamą3.
+  citata_rodoma: "Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,\npietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina\nkaip prūsų gyvenamą3."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68845
+    - t-002

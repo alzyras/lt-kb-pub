@@ -36,7 +36,6 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
 
 <a id="claim-t-86220"></a>
 - t-001
-  global_id: t-86220
   teiginys: "1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą iš magistrato ir perdavė jį Akademijos kolegijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86220
+    - t-001

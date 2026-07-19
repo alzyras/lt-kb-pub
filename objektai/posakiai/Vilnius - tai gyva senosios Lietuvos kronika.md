@@ -52,8 +52,7 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 ## Teiginiai
 
 <a id="claim-t-54488"></a>
-- t-001
-  global_id: t-54488
+- t-002
   teiginys: "Adomas Honorijus Kirkoras Vilnių apibūdino kaip senosios Lietuvos buvusios šlovės ir nuosmukių liudytoją."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -72,8 +71,7 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
     - c-55392
 
 <a id="claim-t-54489"></a>
-- t-002
-  global_id: t-54489
+- t-001
   teiginys: "Adomas Honorijus Kirkoras Vilnių vadino gyva senosios Lietuvos kronika."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -105,19 +103,12 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
     šlovingus lietuvių žygius, atvers dorybių ir nuopelnų, ydų ir
     aistrų kupiną jų gyvenimo knygą. Vilnius - tai gyva senosios
     Lietuvos kronika, jos buvusios šlovės ir nuosmukių liudytojas.
-  citata_rodoma: |
-    1859 m. išleistame vadove po Vilnių autorius Adomas Ho­
-    norijus Kirkoras su pasitenkinimu pastebėjo, kad jo mylimas
-    miestas jau turi savo istorikus. „Vilniuje sulig kiekvienu žings­
-    niu užtiksite ką nors įdomaus, pamokomo, kas primins jums
-    šlovingus lietuvių žygius, atvers dorybių ir nuopelnų, ydų ir
-    aistrų kupiną jų gyvenimo knygą. Vilnius - tai gyva senosios
-    Lietuvos kronika, jos buvusios šlovės ir nuosmukių liudytojas.
+  citata_rodoma: "1859 m. išleistame vadove po Vilnių autorius Adomas Ho­\nnorijus Kirkoras su pasitenkinimu pastebėjo, kad jo mylimas \nmiestas jau turi savo istorikus. „Vilniuje sulig kiekvienu žings­\nniu užtiksite ką nors įdomaus, pamokomo, kas primins jums \nšlovingus lietuvių žygius, atvers dorybių ir nuopelnų, ydų ir \naistrų kupiną jų gyvenimo knygą. Vilnius - tai gyva senosios \nLietuvos kronika, jos buvusios šlovės ir nuosmukių liudytojas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54488
-    - t-54489
+    - t-002
+    - t-001

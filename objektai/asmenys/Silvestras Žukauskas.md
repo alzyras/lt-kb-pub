@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-80722"></a>
 - t-001
-  global_id: t-80722
   teiginys: "1894 m. Silvestras Žukauskas vedė liuteronę Zozefing Hasdorfaitę ir perėjo į evangelikų reformatų tikėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80722
+    - t-001

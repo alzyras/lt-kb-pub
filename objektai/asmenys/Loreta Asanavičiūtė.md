@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-19113"></a>
 - t-001
-  global_id: t-19113
   teiginys: "Loreta Asanavičiūtė žuvo 1991 m. sausio 13-ąją per sovietų kariuomenės televizijos bokšto šturmą, patekusi po tanko vikšrais ir mirusi ligoninėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,12 +71,11 @@ media_all_json: |-
     sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-
     vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
     pateko po tanko vikšrais ir mirė ligoninėje.
-  citata_rodoma: |
-    vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
+  citata_rodoma: "vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19113
+    - t-001

@@ -28,7 +28,6 @@ Aukštosios pilies bokštas citatoje lokalizuojamas ant Gedimino kalno kaip Kate
 
 <a id="claim-t-200800"></a>
 - t-001
-  global_id: t-200800
   teiginys: "Aukštosios pilies bokštas citatoje lokalizuojamas ant Gedimino kalno kaip Katedros varpinės architektūrinis antrininkas."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Aukštosios pilies bokštas citatoje lokalizuojamas ant Gedimino kalno kaip Kate
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200800
+    - t-001

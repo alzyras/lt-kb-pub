@@ -32,7 +32,6 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
 
 <a id="claim-t-70102"></a>
 - t-001
-  global_id: t-70102
   teiginys: "Šeštąjį–septintąjį dešimtmetį kai kuriems į Lietuvą grįžusiems tremtiniams ir politiniams kaliniams prikaišiodavo „buržuazinį nacionalizmą“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
 
 <a id="claim-t-70103"></a>
 - t-002
-  global_id: t-70103
   teiginys: "Nuo šeštojo dešimtmečio pabaigos Vilniaus universiteto Lietuvių literatūros katedros darbuotojai ir kai kurie kultūros veikėjai kaltinti „buržuaziniu nacionalizmu“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,15 +78,15 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
     gyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti aukštosiose moky-
     klose, jie ignoruojami, sekami, jiems prikaišiojama „antisovietinė veikla“
     ir „buržuazinis nacionalizmas“.
-  citata_rodoma: |
-    klose, jie ignoruojami, sekami, jiems prikaišiojama „antisovietinė veikla“
+  citata_rodoma: "klose, jie ignoruojami, sekami, jiems prikaišiojama „antisovietinė veikla“"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70102
+    - t-001
+
 - id: c-166800
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -107,4 +105,4 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70103
+    - t-002

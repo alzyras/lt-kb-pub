@@ -42,7 +42,6 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 
 <a id="claim-t-67659"></a>
 - t-001
-  global_id: t-67659
   teiginys: "Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Aukaimį bei dar tris pilis."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 
 <a id="claim-t-67660"></a>
 - t-002
-  global_id: t-67660
   teiginys: "Ragainės broliai užpuolė miegančius Aukaimio papilio pilėnus ir sudegino papilį iki pamatų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,9 +77,8 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 
 <a id="claim-t-184923"></a>
 - t-003
-  global_id: t-184923
   teiginys: "Aukaimio pilis tais pačiais metais buvo prarasta per išdavystę."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -96,10 +93,9 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168284
-    - c-003
+
 <a id="claim-t-188669"></a>
 - t-004
-  global_id: t-188669
   teiginys: "Narbutas rašo, kad Aukaimio kaime slapstėsi vyriausiasis žynys Gintautas, miręs 1414 m. liepos 28 d., ir su juo baigėsi lietuvių stabmeldystė."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -218,8 +214,7 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184923
+
 ## Citatos
 
 - id: c-67480
@@ -241,7 +236,8 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67659
+    - t-001
+
 - id: c-67481
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -258,25 +254,15 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 
 
                                    9.
-  citata_rodoma: |
-    Apie Aukaimio papilio sudeginimą
-
-       Neilgai trukus po to tie patys Ragainės broliai užpuolė su savo valdiniais, pilėnams
-    bemiegant, Aukaimio papilį ir jį iki pamatų sudegino; neskaitant 4 vyrų, buvusių pilyje, ir
-    saujelės pabėgusių, visi kiti žuvo arba nuo ugnies, arba nuo kalavijo drauge su žmonomis,
-    vaikais, galvijais ir gyvuliais.
-
-
-
-
-                                   9.
+  citata_rodoma: "Apie Aukaimio papilio sudeginimą\n\n   Neilgai trukus po to tie patys Ragainės broliai užpuolė su savo valdiniais, pilėnams\nbemiegant, Aukaimio papilį ir jį iki pamatų sudegino; neskaitant 4 vyrų, buvusių pilyje, ir\nsaujelės pabėgusių, visi kiti žuvo arba nuo ugnies, arba nuo kalavijo drauge su žmonomis,\nvaikais, galvijais ir gyvuliais.\n\n\n\n\n                               9."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67660
+    - t-002
+
 - id: c-168284
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -294,21 +280,15 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
     rius vartus, buvo įleistas į pilį, karius ir visą kariauti
     pajėgiantį jaunimą jis skerste išskerdė, o vaikus ir
     moteris išsivarė į vergovę.
-  citata_rodoma: |
-    Vis dėlto žmonių ne­
-    daug žuvo, nes gyventojai,
-    palikę namus priešų valiai, patys su visais brangesniais
-    daiktais išsislapstė miškų tankmėse. Tais pačiais me­
-    tais per išdavystę buvo prarasta Aukaimio pilis. Pilies
-    viršininkas Draika pradėjo linkti į krikščionių tikėji­
-    mą.
+  citata_rodoma: "Vis dėlto žmonių ne­\ndaug žuvo, nes gyventojai,\npalikę namus priešų valiai, patys su visais brangesniais\ndaiktais išsislapstė miškų tankmėse. Tais pačiais me­\ntais per išdavystę buvo prarasta Aukaimio pilis. Pilies\nviršininkas Draika pradėjo linkti į krikščionių tikėji­\nmą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184923
+    - t-003
+
 - id: c-171558
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -335,7 +315,8 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188669
+    - t-004
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Girdila]]
 - Puolė Aukaimį: [[objektai/asmenys/Folradas]], [[objektai/grupes/Kryžiuočių ordinas]]

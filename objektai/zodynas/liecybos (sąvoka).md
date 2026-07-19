@@ -33,7 +33,6 @@ Tas visas dovenas ir liecybas patvirtino dar Kristijonui pats popiežius.
 
 <a id="claim-t-201210"></a>
 - t-001
-  global_id: t-201210
   teiginys: "Tas visas dovenas ir liecybas patvirtino dar Kristijonui pats popiežius."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Tas visas dovenas ir liecybas patvirtino dar Kristijonui pats popiežius.
 ## Citatos
 
 - id: c-184560
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Plocko
     perleido jam tenai dešimtines, sau renkamas. Tas
@@ -63,4 +63,4 @@ Tas visas dovenas ir liecybas patvirtino dar Kristijonui pats popiežius.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201210
+    - t-001

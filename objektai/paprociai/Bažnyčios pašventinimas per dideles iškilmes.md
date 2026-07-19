@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-87262"></a>
 - t-001
-  global_id: t-87262
   teiginys: "1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,22 +92,11 @@ Nenurodyta
     lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
     mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
     Stanislovas82.
-  citata_rodoma: |
-    k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza
-    metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika
-    155
-
-    ## Puslapis 172
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    pačiais 1386 metais Šv. Jono bažnyčią, Vladislovo Jogailos
-    lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
-    mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
-    Stanislovas82.
+  citata_rodoma: "k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza \nmetraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika\n155\n\n## Puslapis 172\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\npačiais 1386 metais Šv. Jono bažnyčią, Vladislovo Jogailos \nlėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­\nmes pašventino vyskupai: Kijevo - Mykolas ir Plocko - \nStanislovas82."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87262
+    - t-001

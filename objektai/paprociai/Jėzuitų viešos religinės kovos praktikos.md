@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67104"></a>
-- t-001
-  global_id: t-67104
+- t-002
   teiginys: "Vilniaus vyskupas Protasevičius kovai su protestantais atsikvietė į Vilnių jėzuitus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Nenurodyta
     - c-67143
 
 <a id="claim-t-67106"></a>
-- t-002
-  global_id: t-67106
+- t-001
   teiginys: "Jėzuitai kovoje su protestantais rengdavo tikybinius disputus, o protestantams jų vengiant patys inscenizuodavo abiejų pusių argumentų ginčą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,21 +85,15 @@ Nenurodyta
     jie tokiuos disputus rengdavo vieni; vienas jų narys stodavo
     ginti protestantizmo, išdėstydamas protestantų argumentus, o
     kitas, ginąs katalikybę, sugriaudavo tuos argumentus.
-  citata_rodoma: |
-    Be mokyklų, katalikiškai auklėjančių jaunąją kartą, jėzuitai
-    dar kovojo su protestantais ir kitokiais būdais. Jie ruošdavo
-    tikybinius disputus, kuriuose savo moksliškumu nugalėdavo
-    protestantų teologus. Kai protestantai pradėjo vengti disputų,
-    jie tokiuos disputus rengdavo vieni; vienas jų narys stodavo
-    ginti protestantizmo, išdėstydamas protestantų argumentus, o
-    kitas, ginąs katalikybę, sugriaudavo tuos argumentus.
+  citata_rodoma: "Be mokyklų, katalikiškai auklėjančių jaunąją kartą, jėzuitai\ndar kovojo su protestantais ir kitokiais būdais. Jie ruošdavo\ntikybinius disputus, kuriuose savo moksliškumu nugalėdavo\nprotestantų teologus. Kai protestantai pradėjo vengti disputų,\njie tokiuos disputus rengdavo vieni; vienas jų narys stodavo\nginti protestantizmo, išdėstydamas protestantų argumentus, o\nkitas, ginąs katalikybę, sugriaudavo tuos argumentus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67106
+    - t-001
+
 - id: c-67143
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -120,4 +112,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67104
+    - t-002

@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-191073"></a>
 - t-001
-  global_id: t-191073
   teiginys: "Narbuto pasakojime romėnai slapta kreipėsi į Zenoną, prašydami išvaduoti juos iš barbarų, o Frederikas Teodoriko rūmuose prašė pagalbos prieš berilius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173955
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto pasakojime romėnai slapta kreipėsi į Zenoną, prašydami išvaduoti juos iš barbarų, o Frederikas Teodoriko rūmuose prašė pagalbos prieš berilius.'
@@ -81,8 +80,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191073
+
 ## Citatos
 
 - id: c-173955
@@ -97,20 +95,11 @@ Nenurodyta
     teiktųsi išvaduoti juos iš barbarų. Tuo pat metu ir Fre­
     derikas Teodoriko rūmuose nesiliovė prašęs pagalbos prie­
     šams beriliams nugalėti.
-  citata_rodoma: |
-    Visa tai lėmė,
-    jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis
-    1 Ennodius. In lib. dicto Theodorici reg. P. 298.
-
-    ## Puslapis 320
-
-    teiktųsi išvaduoti juos iš barbarų. Tuo pat metu ir Fre­
-    derikas Teodoriko rūmuose nesiliovė prašęs pagalbos prie­
-    šams beriliams nugalėti.
+  citata_rodoma: "Visa tai lėmė,\njog romėnai slapta nuvyko pas Zenoną prašyli, kad jis\n1 Ennodius. In lib. dicto Theodorici reg. P. 298.\n\n## Puslapis 320\n\nteiktųsi išvaduoti juos iš barbarų. Tuo pat metu ir Fre­\nderikas Teodoriko rūmuose nesiliovė prašęs pagalbos prie­\nšams beriliams nugalėti."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191073
+    - t-001

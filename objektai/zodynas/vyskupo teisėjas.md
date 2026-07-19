@@ -37,7 +37,6 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
 
 <a id="claim-t-42523"></a>
 - t-001
-  global_id: t-42523
   teiginys: "Sembos vyskupo teisėjas žuvo kartu su daugeliu Ordino brolių ir Gdansko komtūru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
 
 <a id="claim-t-42524"></a>
 - t-002
-  global_id: t-42524
   teiginys: "Sembos vyskupo teisėjui Jonui Lonei buvo atimta gyvybė kartu su Gdansko komtūru ir penkiomis dešimtimis prie vėliavos nukautųjų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,19 +87,15 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
     vos penkios dešimtys nukauta.
 
     Spaudžiami krikščionių stabmeldžiai bandė gelbėtis pabėgdami.
-  citata_rodoma: |
-    O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent
-    Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėlia-
-    vos penkios dešimtys nukauta.
-
-    Spaudžiami krikščionių stabmeldžiai bandė gelbėtis pabėgdami.
+  citata_rodoma: "O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent\nGdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėlia-\nvos penkios dešimtys nukauta.\n\nSpaudžiami krikščionių stabmeldžiai bandė gelbėtis pabėgdami."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42524
+    - t-002
+
 - id: c-45557
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -119,18 +113,11 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
     nikos rodo fantastiškus skaičius: 10, 18 ir
     pan. tūkstančių, tuo tarpu kryžiuočių -
     8 broliai ir 42 gerieji vyrai - Vartbergė).
-  citata_rodoma: |
-    Daug ordino brolių žuvo, tarp jų Gdan-
-    sko komtūras, Sembos vyskupo teisėjas.
-    Kronikininko Vygando liudijimu, kry-
-    žiuočių spaudžiami lietuviai traukėsi per
-    Strėvos upę ir daug jų krito (Ordino kro-
-    nikos rodo fantastiškus skaičius: 10, 18 ir
-    pan.
+  citata_rodoma: "Daug ordino brolių žuvo, tarp jų Gdan-\nsko komtūras, Sembos vyskupo teisėjas.\nKronikininko Vygando liudijimu, kry-\nžiuočių spaudžiami lietuviai traukėsi per\nStrėvos upę ir daug jų krito (Ordino kro-\nnikos rodo fantastiškus skaičius: 10, 18 ir\npan."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42523
+    - t-001

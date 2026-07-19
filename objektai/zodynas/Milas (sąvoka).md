@@ -33,7 +33,6 @@ Milas būdavo audžiamas tiek kaimuose, tiek dvaruose.
 
 <a id="claim-t-202318"></a>
 - t-001
-  global_id: t-202318
   teiginys: "Milas būdavo audžiamas tiek kaimuose, tiek dvaruose."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,5 @@ Milas būdavo audžiamas tiek kaimuose, tiek dvaruose.
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202318
+    - t-001

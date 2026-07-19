@@ -30,8 +30,7 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
 ## Teiginiai
 
 <a id="claim-t-34135"></a>
-- t-001
-  global_id: t-34135
+- t-002
   teiginys: "Kryžiuočių kariuomenė kelią nuo Löbau iki Grünvaldo turėjo įveikti audringą naktį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
     - c-35361
 
 <a id="claim-t-34136"></a>
-- t-002
-  global_id: t-34136
+- t-001
   teiginys: "Įspėtas kai kurių riterių, Ordino vadas įsakė kariuomenei iš Kanerniko eiti šiaurėn į Löbau."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
 
 <a id="claim-t-184308"></a>
 - t-003
-  global_id: t-184308
   teiginys: "Įspėtas kai kurių riterių, Ordino vadas įsakė kariuomenei iš Kanerniko žygiuoti į šiaurę, į Löbau."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -103,8 +100,9 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34136
-    - t-184308
+    - t-001
+    - t-003
+
 - id: c-35361
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -120,4 +118,4 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34135
+    - t-002

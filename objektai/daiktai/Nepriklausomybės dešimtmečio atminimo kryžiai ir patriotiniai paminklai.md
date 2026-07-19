@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-19573"></a>
 - t-001
-  global_id: t-19573
   teiginys: "Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atminimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas, imta rūpintis žuvusių už Lietuvos laisvę karių kapais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,12 +79,11 @@ Nenurodyta
     tik XXI a.). Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atmi-
     nimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas,
     imta rūpintis žuvusių už Lietuvos laisvę karių kapais.
-  citata_rodoma: |
-    nimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas,
+  citata_rodoma: "nimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19573
+    - t-001

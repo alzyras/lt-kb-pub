@@ -32,7 +32,6 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
 
 <a id="claim-t-60389"></a>
 - t-001
-  global_id: t-60389
   teiginys: "Mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); kai liaudavęsis melstis, Izraelis būdavęs įveikiamas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
 
 <a id="claim-t-188598"></a>
 - t-002
-  global_id: t-188598
   teiginys: "Narbutas mini Florencijos tapybos paminkluose pavaizduotą varinį žaltį, kurį Mozė dykumoje įsakė išliedinti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,7 +69,6 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
 
 <a id="claim-t-197134"></a>
 - t-003
-  global_id: t-197134
   teiginys: "Mozė nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą, kai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai kovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio kariuomenė turėjo bėgti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -98,19 +95,16 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
     kai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai
     kovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio kariuomenė turėjo
     bėgti.
-  citata_rodoma: |
-    (Iš 17, 11) Štai skaitome apie Mozę, kad Izraelis, kai jis meldėsi, nugalėdavęs
-    Amalechą (Išm 11, 3); kai liaudavęsis melstis, Izraelis būdavęs įveikiamas. Be to, ir
-    Išminties knygoje apie tą patį Mozę rašoma, kad jis nugalėdavęs priešų minias ne kūno
-    stiprybe ir ne ginklo galybe, bet žodžiu, vadinasi, malda.
+  citata_rodoma: "(Iš 17, 11) Štai skaitome apie Mozę, kad Izraelis, kai jis meldėsi, nugalėdavęs\nAmalechą (Išm 11, 3); kai liaudavęsis melstis, Izraelis būdavęs įveikiamas. Be to, ir\nIšminties knygoje apie tą patį Mozę rašoma, kad jis nugalėdavęs priešų minias ne kūno\nstiprybe ir ne ginklo galybe, bet žodžiu, vadinasi, malda."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60389
-    - t-197134
+    - t-001
+    - t-003
+
 - id: c-171487
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -132,4 +126,4 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188598
+    - t-002

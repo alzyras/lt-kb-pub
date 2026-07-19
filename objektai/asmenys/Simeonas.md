@@ -31,7 +31,6 @@ Dusburgietis teigia, kad sis, atkeliavęs į šventąjį miestą, pamatė, jog n
 
 <a id="claim-t-60432"></a>
 - t-001
-  global_id: t-60432
   teiginys: "Simeonas buvo šventojo miesto patriarchas, kuris kartu su savo valdiniais kentė didelę priespaudą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -67,17 +66,11 @@ Dusburgietis teigia, kad sis, atkeliavęs į šventąjį miestą, pamatė, jog n
     begalinę priespaudą; būdamas doras žmogus, didžiai užjausdamas kitus ir iš visos širdies
     mylėdamas prispaustuosius, jis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai
     svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems.
-  citata_rodoma: |
-    Sis, atkeliavęs  į šventąjį miestą, pamatė, jog nedorėliai
-    nepagarbiai elgiasi šventose vietose, jog godotinas vyras Simeonas, miesto patriarchas,
-    kartu su savo valdiniais nelyginant niekingas vergas, puolęs  į visišką neviltį, kenčia
-    begalinę priespaudą; būdamas doras žmogus, didžiai užjausdamas kitus ir iš visos širdies
-    mylėdamas prispaustuosius, jis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai
-    svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems.
+  citata_rodoma: "Sis, atkeliavęs  į šventąjį miestą, pamatė, jog nedorėliai\nnepagarbiai elgiasi šventose vietose, jog godotinas vyras Simeonas, miesto patriarchas,\nkartu su savo valdiniais nelyginant niekingas vergas, puolęs  į visišką neviltį, kenčia\nbegalinę priespaudą; būdamas doras žmogus, didžiai užjausdamas kitus ir iš visos širdies\nmylėdamas prispaustuosius, jis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai\nsvarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60432
+    - t-001

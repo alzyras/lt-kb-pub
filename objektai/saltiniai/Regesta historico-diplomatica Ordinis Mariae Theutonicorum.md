@@ -38,7 +38,6 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
 
 <a id="claim-t-60962"></a>
 - t-001
-  global_id: t-60962
   teiginys: "Regesta historico-diplomatica Ordinis Nr. 4 siejamas su 1211 m. Andriaus II kryžiuočiams suteikta vieta Transilvanijos Burcos žemėje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,10 +57,9 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
     - c-61596
 
 <a id="claim-t-60963"></a>
-- t-002
-  global_id: t-60963
+- t-003
   teiginys: "1235 m. Dobrynės ordinas susijungė su kryžiuočiais."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -77,7 +75,7 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-61594
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1235 m. Dobrynės ordinas susijungė su kryžiuočiais.'
@@ -91,8 +89,7 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60963
+
 ## Citatos
 
 - id: c-61594
@@ -106,17 +103,15 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
     padedami, ateityje pajungsią savo valdžiai. Kai apie tai sužinojo prūsai, jie, smarkiai
     suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
     ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170.
-  citata_rodoma: |
-    1235 m. Dobrynės ordinas susijungė su kryžiuočiais. Prūsijos pasienyje bandė kurdintis
-    ir joanitai (XII a. pabaigoje —Regesta historico-diplomatica Ordinis..., Nr. 2), taip pat
-    riterių ordinas iš Kalatravos (Ispanija; Szacherska S. M., Opactwo..., p. 31—35).
+  citata_rodoma: "1235 m. Dobrynės ordinas susijungė su kryžiuočiais. Prūsijos pasienyje bandė kurdintis\nir joanitai (XII a. pabaigoje —Regesta historico-diplomatica Ordinis..., Nr. 2), taip pat\nriterių ordinas iš Kalatravos (Ispanija; Szacherska S. M., Opactwo..., p. 31—35)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60963
+    - t-003
+
 - id: c-61596
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -131,4 +126,4 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60962
+    - t-001

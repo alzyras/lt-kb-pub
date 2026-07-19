@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-20563"></a>
 - t-001
-  global_id: t-20563
   teiginys: "Liepos 23-iosios naktį naciai per gestapui paklususius voldemarininkus įvykdė pučą ir perėmė batalionų bei policijos vadovybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-20564"></a>
 - t-002
-  global_id: t-20564
   teiginys: "Po Laikinosios vyriausybės veiklos sustabdymo naciai 1941 m. rugsėjo 26 d. uždarė LAF, kai dauguma ministrų atsisakė tapti tarėjais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,15 +110,15 @@ Nenurodyta
     kas. Dabar naciai jau be kliūčių tiesiai davė įsakymus savivaldybėms ir
     policijai bei pagalbinės policijos daliniams, mielai perėmė sovietų nacio-
     nalizuotą turtą, o rugpjūčio 5 dieną uždraudė LV veiklą.
-  citata_rodoma: |
-    kas. Dabar naciai jau be kliūčių tiesiai davė įsakymus savivaldybėms ir
+  citata_rodoma: "kas. Dabar naciai jau be kliūčių tiesiai davė įsakymus savivaldybėms ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20563
+    - t-001
+
 - id: c-23288
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,12 +130,11 @@ Nenurodyta
     tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-
     sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
     baigėsi legalių lietuvių organizacijų veikla.
-  citata_rodoma: |
-    sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
+  citata_rodoma: "sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20564
+    - t-002

@@ -31,7 +31,6 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
 
 <a id="claim-t-02988"></a>
 - t-001
-  global_id: t-02988
   teiginys: "Brandenburgo elektorius su imperatoriumi piršo Neuburgo princą, o jo ministeris Radvila oficialiai rėmė šią kandidatūrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
 
 <a id="claim-t-182944"></a>
 - t-002
-  global_id: t-182944
   teiginys: "Radvila buvo Brandenburgo elektoriaus ministeris ir oficialiai rėmė imperatoriaus bei elektoriaus siūlomą Neuburgo princą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -94,19 +92,15 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
     elektoriaus peršamą Neuburgo
     princą, bet kartu statė ir savo
     kandidatūrą.
-  citata_rodoma: |
-    Radvila, kaip Branden-
-    burgo elektoriaus ministeris, oficialiai rėmė imperatoriaus ir
-    elektoriaus peršamą Neuburgo
-    princą, bet kartu statė ir savo
-    kandidatūrą.
+  citata_rodoma: "Radvila, kaip Branden-\nburgo elektoriaus ministeris, oficialiai rėmė imperatoriaus ir\nelektoriaus peršamą Neuburgo\nprincą, bet kartu statė ir savo\nkandidatūrą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02988
+    - t-001
+
 - id: c-166344
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -129,4 +123,4 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182944
+    - t-002

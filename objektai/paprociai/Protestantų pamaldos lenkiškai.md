@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-67191"></a>
 - t-001
-  global_id: t-67191
   teiginys: "Lenkiškoji protestantų akcija Lietuvoje greitai nustelbė silpną ir trumpą lietuvišką protestantizmo skelbimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,13 +72,11 @@ Nenurodyta
     lenkiškoji protestantų akcija. Lietuvos protestantai suskato
     lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus
     tik tada, kai to griebėsi atsigavę katalikai.
-  citata_rodoma: |
-    Lietuvos protestantai suskato lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus
-    tik tada, kai to griebėsi atsigavę katalikai.
+  citata_rodoma: "Lietuvos protestantai suskato lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus\ntik tada, kai to griebėsi atsigavę katalikai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67191
+    - t-001

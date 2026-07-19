@@ -45,7 +45,6 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
 
 <a id="claim-t-78071"></a>
 - t-001
-  global_id: t-78071
   teiginys: "Nuo Tacito aisčių paminėjimo iki Lietuvos vardo pasirodymo praėjo beveik tūkstantis metų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
 
 <a id="claim-t-190975"></a>
 - t-002
-  global_id: t-190975
   teiginys: "Tacitas rašė, kad roksolanai, sarmatų gentis, nugalėję dvi romėnų kohortas, dideliu būriu įsiveržė į Meziją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,6 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
 
 <a id="claim-t-190976"></a>
 - t-003
-  global_id: t-190976
   teiginys: "Narbutas nurodo, kad Tacitas I a. pabaigoje, aprašęs germanus ir svebus, perėjo prie Prūsijos pakrančių ir paminėjo estus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -105,30 +102,21 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
 
 <a id="claim-t-190977"></a>
 - t-004
-  global_id: t-190977
   teiginys: "Narbutas rašo, kad Tacitas 46 skyriuje venedus laikė nepriklausančiais nei sarmatams, nei germanams ir turėjusiais daug žemių."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Germanai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tacitas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Germanai: mention_match, group, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tacitas\" parinktas kaip owner_note_path. Targetas \"Germanai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-173859
-    - c-004
+    - c-173857
+
 <a id="claim-t-190978"></a>
 - t-005
-  global_id: t-190978
   teiginys: "Narbutas rašo, kad Tacitas jazigus laikė ne ramiais žemdirbiais, o karinga gentimi, turėjusia rinktinę raitąją armiją."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -145,10 +133,9 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173860
-    - c-005
+
 <a id="claim-t-194722"></a>
 - t-006
-  global_id: t-194722
   teiginys: "Tacitas žinojo apie šią žynių klasę, kadangi juos vadina miesto žyniais ."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -158,10 +145,9 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-177118
-    - c-006
+
 <a id="claim-t-197820"></a>
 - t-007
-  global_id: t-197820
   teiginys: "Tacitas niekam nerūpimas gulėjo kartu su kitomis jūros išmetamomis šiukšlėmis, kol mūsų supratimas nepakėlė jo reikšmės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -192,8 +178,6 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190977
 - c-005
   santrauka: 'Narbutas rašo, kad Tacitas jazigus laikė ne ramiais žemdirbiais, o karinga gentimi, turėjusia rinktinę raitąją armiją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -210,8 +194,6 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190978
 - c-006
   santrauka: 'Tacitas žinojo apie šią žynių klasę, kadangi juos vadina miesto žyniais .'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -226,8 +208,7 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194722
+
 ## Citatos
 
 - id: c-75376
@@ -246,7 +227,8 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78071
+    - t-001
+
 - id: c-173857
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -265,7 +247,9 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190975
+    - t-002
+    - t-004
+
 - id: c-173858
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -287,7 +271,8 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190976
+    - t-003
+
 - id: c-173859
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -308,24 +293,13 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
     Voluinės, per Dnestro aukštupį net ligi Tatrų ir Vyslos,
     kuri nuo tada buvo vakarų siena, skirianti juos nuo ger­
     1 De Mor.
-  citata_rodoma: |
-    Tad atleiskime
-    senovės autoriams, kurių geografinių žinių gavimo gali­
-    mybės buvo labiau ribotos negu mūsų; jos pražuvo, mums
-    liko vien spausdintos Plinijaus ištraukos arba kitų geog­
-    rafų traktatų fragmentai. Siek tiek labiau venedų reika­
-    lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­
-    klauso nei sarmatams, nei germanams, turi daug žemių,
-    vakaruose teka Vysla; jų kaimynai — estai bei gitonai
-    (§§ 66—80), šiaurėje — finai, pietuose — peucinai, o
-    rytuose yra nežinomos sritys.
+  citata_rodoma: "Tad atleiskime\nsenovės autoriams, kurių geografinių žinių gavimo gali­\nmybės buvo labiau ribotos negu mūsų; jos pražuvo, mums\nliko vien spausdintos Plinijaus ištraukos arba kitų geog­\nrafų traktatų fragmentai. Siek tiek labiau venedų reika­\nlus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­\nklauso nei sarmatams, nei germanams, turi daug žemių,\nvakaruose teka Vysla; jų kaimynai — estai bei gitonai\n(§§ 66—80), šiaurėje — finai, pietuose — peucinai, o\nrytuose yra nežinomos sritys."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190977
 - id: c-173860
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -343,21 +317,15 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
     čiuojamą daugybę dievų, religinių tradicijų; slavai šia
     prasme taip nedarė, nes, nors slavų mitologijoje buvo
     nemažai dievų, jiems lenkėsi ne visos gentys.
-  citata_rodoma: |
-    Plinijus teigia, kad jazigai gyveno prie Tisos
-    upės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria
-    jų prie ramių žemdirbių, bet atvirkščiai — laiko juos ka­
-    ringa gentimi, turinčia rinktinę raitąją armiją. Jis nuro­
-    do, kad jie kariavo su svevų karaliaus Vanijaus Vanino
-    vėliavomis, o pilietinio karo tarp Vespasiano ir Vitelijaus
-    metu kovėsi romėnų gretose.
+  citata_rodoma: "Plinijus teigia, kad jazigai gyveno prie Tisos\nupės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria\njų prie ramių žemdirbių, bet atvirkščiai — laiko juos ka­\nringa gentimi, turinčia rinktinę raitąją armiją. Jis nuro­\ndo, kad jie kariavo su svevų karaliaus Vanijaus Vanino\nvėliavomis, o pilietinio karo tarp Vespasiano ir Vitelijaus\nmetu kovėsi romėnų gretose."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190978
+    - t-005
+
 - id: c-177118
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -379,19 +347,15 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
     suskirstyti metų laikus pagal žemės darbus ir iš anksto praneš-
     ti juos ateinant ; šaukti ir suburti į krūvą žmones, jeigu jam
     reikėdavo paskelbti kokius nors dalykus dievų vardu.
-  citata_rodoma: |
-    Tacitas žinojo apie šią žynių klasę, kadangi juos vadina
-    miesto žyniais . Bet jo laikais dar nebuvo bendrų vyriausiųjų
-    žynių, kurie prasideda nuo Vaidevučio, tai yra nuo krikščio­
-    niškos eros šeštojo amžiaus pradžios. 15
-    15 Czacki.
+  citata_rodoma: "Tacitas žinojo apie šią žynių klasę, kadangi juos vadina\nmiesto žyniais . Bet jo laikais dar nebuvo bendrų vyriausiųjų\nžynių, kurie prasideda nuo Vaidevučio, tai yra nuo krikščio­\nniškos eros šeštojo amžiaus pradžios. 15\n15 Czacki."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194722
+    - t-006
+
 - id: c-179353
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -417,4 +381,4 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197820
+    - t-007

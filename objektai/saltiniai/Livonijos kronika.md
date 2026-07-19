@@ -36,7 +36,6 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
 
 <a id="claim-t-186294"></a>
 - t-001
-  global_id: t-186294
   teiginys: "Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam kraštui, smarkiai sumušė riterių magistras."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -59,9 +58,8 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
 
 <a id="claim-t-186295"></a>
 - t-002
-  global_id: t-186295
   teiginys: "Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -75,8 +73,9 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos kronika\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
+    - c-169655
     - c-169656
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.'
@@ -97,8 +96,7 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186295
+
 ## Citatos
 
 - id: c-169655
@@ -129,7 +127,9 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186294
+    - t-001
+    - t-002
+
 - id: c-169656
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -149,21 +149,11 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
     karo, ir taikos metu tokios pat santarvės bei šlovės,
     kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
     bei lazdą.
-  citata_rodoma: |
-    Vis dėl­
-    to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
-    tui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­
-    nai vadinamas Brandenburgu. Tais pačiais metais, kaip
-    sako Livonijos metraštis, žemaičiai ir lietuviai prie
-    Eželio ant ledo kovojo su Livonijos magistru Otonu,
-    magistras žuvo su penkiasdešimčia šio ordino brolių.
-    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
-    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
-    ir žuvo.
+  citata_rodoma: "Vis dėl­\nto markgrafas, nenorėdamas, kad atrodytų, jog jis vel­\ntui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­\nnai vadinamas Brandenburgu. Tais pačiais metais, kaip\nsako Livonijos metraštis, žemaičiai ir lietuviai prie\nEželio ant ledo kovojo su Livonijos magistru Otonu,\nmagistras žuvo su penkiasdešimčia šio ordino brolių.\nTokio pat likimo susilaukė jo įpėdinis Andrius fon\nVestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas\nir žuvo."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186295
+    - t-002

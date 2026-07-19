@@ -3,11 +3,14 @@ tipas: zodyno_irasas
 pavadinimas: 'vaitas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pareigybė
+  - miestas
   - sąvoka
+  - valdovas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,8 +33,7 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 ## Teiginiai
 
 <a id="claim-t-86556"></a>
-- t-001
-  global_id: t-86556
+- t-002
   teiginys: "Vaitas, tarybos nariai ir Vilniaus miestiečiai skundė Bogdaną Kievlą, kad jis perkėloje ties Vilniumi ėmė po grašį nuo krovinio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +49,7 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
     - c-82536
 
 <a id="claim-t-86557"></a>
-- t-002
-  global_id: t-86557
+- t-001
   teiginys: "Vilniaus vaitui suteikta teisė spręsti ir bausti už miestiečių padarytus kriminalinius nusikaltimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,6 +63,18 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82535
+
+<a id="claim-t-201508"></a>
+- t-003
+  teiginys: "Teisėjo pareigos nebuvo vienintelės ir svarbiausios vaito pareigos."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184855
 - susijęs iš [[objektai/asmenys/Eustachijus Sidorovičius.md#claim-t-87664|Eustachijus Sidorovičius]]: Eustachijus Sidorovičius buvo vienas iš graikų tikėjimo Vilniaus pirklių įgaliotinių byloje prieš vaitą Stanislovą Sabiną.
 - susijęs iš [[objektai/asmenys/Feliksas Liangurga.md#claim-t-87500|Feliksas Liangurga]]: 1548 m. Feliksas Liangurga buvo iš Krokuvos kilęs Vilniaus vaitas ir uolus katalikas.
 - susijęs iš [[objektai/asmenys/Jachna Laurinavičius.md#claim-t-87599|Jachna Laurinavičius]]: Jachna Laurinavičius jau 1435 metais buvo Vilniaus vaitas ir 1492 metais dar ėjo šias pareigas.
@@ -130,13 +143,14 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86557
+    - t-001
+
 - id: c-82536
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    10.
+    D u b i ń s k i, 1.10.
     41
     Miesto archyve yra Aleksandro Jogai-
     laičio, Lietuvos didžiojo kunigaikš­
@@ -159,34 +173,28 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
     sio karaliaus Kazimiero kanclerio,
     velionio pono Olechnos Sudiman-
     taičio, vietininkai.
-  citata_rodoma: |
-    10.
-    41
-    Miesto archyve yra Aleksandro Jogai-
-    laičio, Lietuvos didžiojo kunigaikš­
-    čio, tokio turinio laiškas: „Vaitas, ta­
-    rybos nariai ir Vilniaus miestiečiai
-    skundė Bogdaną Kievlą, Vilniaus
-    vaivados ir valstybės kanclerio Mi­
-    kalojaus Radvilos vietininką, kad tas
-    Kievla perkėloje ties Vilniumi imąs
-    po grašį nuo krovinio, ko Vytauto ir
-    Žygimanto laikais nebūdavo. Tad
-    kunigaikščio Aleksandro nurody­
-    mu, vaivada Mikalojus išsiklausinė-
-    jo ir sužinojo, kad nuo seno nemo­
-    kėję to mokesčio vietininkui, tik po
-    grašį nuo krovinio keltininkams, ku­
-    rie krovinius praleidžia, ir kad tą
-    naują mokestį buvę įvedę Tomas ir
-    Zdanas, Vilniaus vaivados ir miru­
-    sio karaliaus Kazimiero kanclerio,
-    velionio pono Olechnos Sudiman-
-    taičio, vietininkai.
+  citata_rodoma: "10.\n41\nMiesto archyve yra Aleksandro Jogai- \nlaičio, Lietuvos didžiojo kunigaikš­\nčio, tokio turinio laiškas: „Vaitas, ta­\nrybos nariai ir Vilniaus miestiečiai \nskundė Bogdaną Kievlą, Vilniaus \nvaivados ir valstybės kanclerio Mi­\nkalojaus Radvilos vietininką, kad tas \nKievla perkėloje ties Vilniumi imąs \npo grašį nuo krovinio, ko Vytauto ir \nŽygimanto laikais nebūdavo. Tad \nkunigaikščio Aleksandro nurody­\nmu, vaivada Mikalojus išsiklausinė- \njo ir sužinojo, kad nuo seno nemo­\nkėję to mokesčio vietininkui, tik po \ngrašį nuo krovinio keltininkams, ku­\nrie krovinius praleidžia, ir kad tą \nnaują mokestį buvę įvedę Tomas ir \nZdanas, Vilniaus vaivados ir miru­\nsio karaliaus Kazimiero kanclerio, \nvelionio pono Olechnos Sudiman- \ntaičio, vietininkai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86556
+    - t-002
+
+- id: c-184855
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Teisėjo pareigos nebuvo vienintelės ir svarbiausios vaito pareigos. Lietuvos mies-
+    tuose nusistovėjo tvarka, kad vaitas (advocatus, Vogt, aoum) buvo didžiojo kunigaikš-
+    čio skiriamas pareigūnas. Jis buvo tarsi miesto galva, atstovaudavo miestui valdovo
+    akivaizdoje ar įvairiuose teismuose, bet savivaldos struktūrai jo įtaka nebuvo didelė.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

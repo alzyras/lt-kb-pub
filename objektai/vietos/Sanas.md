@@ -30,8 +30,7 @@ Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe. Sanas apibūdi
 ## Teiginiai
 
 <a id="claim-t-187323"></a>
-- t-001
-  global_id: t-187323
+- t-002
   teiginys: "Sanas apibūdinamas kaip į Vislą iš dešinės įtekanti upė, esanti apie 15 km aukščiau Zavichosto."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -49,8 +48,7 @@ Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe. Sanas apibūdi
     - c-170354
 
 <a id="claim-t-187324"></a>
-- t-002
-  global_id: t-187324
+- t-001
   teiginys: "Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -95,15 +93,12 @@ Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe. Sanas apibūdi
     kėlimą ne per Vistą, o per Sano upę, kuri (teka j Vislą iš dešinės,
     apie 15 km aukščiau Zavichosto, taip pat apie nuniokojimą vie­
     tovių dešiniajame Vislos krante.
-  citata_rodoma: |
-    Lenkų šaltiniuose (žr. past. 4) kalbama apie lietuvių persi­
-    kėlimą ne per Vistą, o per Sano upę, kuri (teka j Vislą iš dešinės,
-    apie 15 km aukščiau Zavichosto.
+  citata_rodoma: "Lenkų šaltiniuose (žr. past. 4) kalbama apie lietuvių persi­\nkėlimą ne per Vistą, o per Sano upę, kuri (teka j Vislą iš dešinės, \napie 15 km aukščiau Zavichosto."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187323
-    - t-187324
+    - t-002
+    - t-001

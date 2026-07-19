@@ -31,7 +31,6 @@ Po kelių mėnesių Ramanauskas-Vanagas buvo pakeltas į Merkio rinktinės vado 
 
 <a id="claim-t-193812"></a>
 - t-001
-  global_id: t-193812
   teiginys: "Rugpjūtį jo vadovaujama kuopa buvo performuota į Merkinės batalioną."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Po kelių mėnesių Ramanauskas-Vanagas buvo pakeltas į Merkio rinktinės vado 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193812
+    - t-001

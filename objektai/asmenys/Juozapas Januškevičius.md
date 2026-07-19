@@ -40,7 +40,6 @@ Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo
 
 <a id="claim-t-190164"></a>
 - t-001
-  global_id: t-190164
   teiginys: "Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo Januškevičiaus sode rastą lobį žinojo visi to krašto gyventojai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo
 
 <a id="claim-t-197409"></a>
 - t-002
-  global_id: t-197409
   teiginys: "Juozapas Januškevičius buvęs garbinamas kaip dievas ir turėjęs savo šventyklą Nemunaityje, ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų apskrityje yra taip besivadinąs miestelis su pylimų žymėmis ir keliais milžinkapiais."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -97,5 +95,5 @@ Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190164
-    - t-197409
+    - t-001
+    - t-002

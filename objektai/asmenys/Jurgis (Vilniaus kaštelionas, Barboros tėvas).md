@@ -41,7 +41,6 @@ VILNIAUS MIESTO ISTORIJA I I TOMAS 29 to Augusto 1543 metais, numirė VilElžbie
 
 <a id="claim-t-87739"></a>
 - t-001
-  global_id: t-87739
   teiginys: "Jurgis buvo Vilniaus kaštelionas ir Barboros Radvilaitės tėvas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ VILNIAUS MIESTO ISTORIJA I I TOMAS 29 to Augusto 1543 metais, numirė VilElžbie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87739
+    - t-001

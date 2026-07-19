@@ -50,20 +50,8 @@ Barbora pasakotojo namuose buvo augintinė ir auklė, iš piemenių paimta pusme
 
 ## Teiginiai
 
-<a id="claim-t-195274"></a>
-- t-001
-  global_id: t-195274
-  teiginys: "Barbora pasakojime veikia kaip savarankiška vestuvių ir buities scenų dalyvė."
-  atnaujinta: "2026-07-12 01:06"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177641
-
 <a id="claim-t-195275"></a>
-- t-002
-  global_id: t-195275
+- t-001
   teiginys: "Barbora buvo paimta pusmerge ir augintine, kad nešiotų vaikus, o algos jai nemokėjo."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -73,8 +61,7 @@ Barbora pasakotojo namuose buvo augintinė ir auklė, iš piemenių paimta pusme
     - c-177640
 
 <a id="claim-t-195276"></a>
-- t-003
-  global_id: t-195276
+- t-002
   teiginys: "Barbora, augindama vaikus, pati išaugo į padorią kaimo mergelę ir išmoko verpti bei austi."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -108,16 +95,16 @@ Barbora pasakotojo namuose buvo augintinė ir auklė, iš piemenių paimta pusme
     mergele, išmoko verpti, austi ir kitų darbų,
     savo kuklumu nesiskyrė
     nuo tėvainių mergaičių — ūkininkų dukterų.
-  citata_rodoma: |
-    Tais metais buvo keliamos mūsų namuose vestuvės, kurias bandysiu aprašyti. Mums mažiems esant, tėvai paėmė pusmergėlę, ką tik iš piemenių išėjusią, kuri buvo mažiems nešiotoja. Algos jai nemokėjo, ji, vadinasi, paimta už augintinę. Šeimininkai privalėjo sukrauti jai kraitį, atsitikus išleisti už vyro, duoti karvę ir dar šį tą. Barbora (taip vadinosi mūsų auklė), augindama mus per kiek metų, pati paaugo padoria kaimo mergele, išmoko verpti, austi ir kitų darbų, savo kuklumu nesiskyrė nuo tėvainių mergaičių — ūkininkų dukterų.
+  citata_rodoma: "Tais metais buvo keliamos mūsų namuose vestuvės, kurias bandysiu aprašyti. Mums mažiems esant, tėvai paėmė pusmergėlę, ką tik iš piemenių išėjusią, kuri buvo mažiems nešiotoja. Algos jai nemokėjo, ji, vadinasi, paimta už augintinę. Šeimininkai privalėjo sukrauti jai kraitį, atsitikus išleisti už vyro, duoti karvę ir dar šį tą. Barbora (taip vadinosi mūsų auklė), augindama mus per kiek metų, pati paaugo padoria kaimo mergele, išmoko verpti, austi ir kitų darbų, savo kuklumu nesiskyrė nuo tėvainių mergaičių — ūkininkų dukterų."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195275
-    - t-195276
+    - t-001
+    - t-002
+
 - id: c-177641
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -128,12 +115,9 @@ Barbora pasakotojo namuose buvo augintinė ir auklė, iš piemenių paimta pusme
     Kai jis nueidavo į
     javus ar į pievą, jokiu būdu negalima buvo jo išvaryti, visi jo bijojo.
     Barbora nusineša pančiuką — ir veste parveda bulių.
-  citata_rodoma: |
-    Barbora nusineša pančiuką — ir veste parveda bulių.
+  citata_rodoma: "Barbora nusineša pančiuką — ir veste parveda bulių."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195274

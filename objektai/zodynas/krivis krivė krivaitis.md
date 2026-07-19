@@ -31,7 +31,6 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
 
 <a id="claim-t-58814"></a>
 - t-001
-  global_id: t-58814
   teiginys: "Krivis arba krivaitis aiškinamas kaip luominis vyriausiojo žynio vardas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
     - c-59446
 
 <a id="claim-t-58815"></a>
-- t-002
-  global_id: t-58815
+- t-003
   teiginys: "Krivio pasiuntinys su krivūle ar kitu žinomu ženklu susilaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,8 +62,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
     - c-59447
 
 <a id="claim-t-58816"></a>
-- t-003
-  global_id: t-58816
+- t-002
   teiginys: "A. Mežinskio nuomone, krivis buvo tikrinis paskutinio Nadruvos žynio vardas, o ne pareigybė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,7 +79,6 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
 
 <a id="claim-t-58817"></a>
 - t-004
-  global_id: t-58817
   teiginys: "Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -96,7 +92,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59448
-    - c-003
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas.'
@@ -109,8 +105,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58817
+
 ## Citatos
 
 - id: c-59446
@@ -129,7 +124,8 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58814
+    - t-001
+
 - id: c-59447
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -141,19 +137,15 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
     kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos
     iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
     senovėje, negęstančiąją ugnį.
-  citata_rodoma: |
-    Toks didelis buvo jo autoritetas,
-    kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu
-    kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos
-    iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
-    senovėje, negęstančiąją ugnį.
+  citata_rodoma: "Toks didelis buvo jo autoritetas,\nkad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu\nkitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos\niš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta\nsenovėje, negęstančiąją ugnį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58815
+    - t-003
+
 - id: c-59448
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -163,16 +155,15 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
     genere — III, 100) terminu D. apibūdina to meto prūsų ir lietuvių visuomenės socialines
     viršūnes (III, 7, 21, 122, 220, 259, 318, 332 ir kt.); taip pat vadinami ir Lenkijos (II, 3;
     III, 357), Vokietijos, Anglijos (III, 327, 348; IV, 52; Papildymai, 9) feodalai.
-  citata_rodoma: |
-    Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis
-    J., Pagonybės..., p. 107).
+  citata_rodoma: "Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis\nJ., Pagonybės..., p. 107)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58817
+    - t-004
+
 - id: c-59449
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -190,4 +181,4 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58816
+    - t-002

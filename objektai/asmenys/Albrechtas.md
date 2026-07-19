@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-18766"></a>
 - t-001
-  global_id: t-18766
   teiginys: "Kunigaikštis Albrechtas Prūsijoje priglobė 1542 m. iš Vilniaus emigravusį A. Kulvietį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,12 +100,11 @@ media_all_json: |-
     60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė
     į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo
     1525 m.) Prūsiją, kur jį priglobė kunigaikštis Albrechtas.
-  citata_rodoma: |
-    1525 m.) Prūsiją, kur jį priglobė kunigaikštis Albrechtas.
+  citata_rodoma: "1525 m.) Prūsiją, kur jį priglobė kunigaikštis Albrechtas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18766
+    - t-001

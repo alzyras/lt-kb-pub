@@ -49,9 +49,8 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 
 <a id="claim-t-05457"></a>
 - t-001
-  global_id: t-05457
   teiginys: "Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -63,11 +62,9 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-05587
-    - c-69344
 
 <a id="claim-t-05458"></a>
 - t-002
-  global_id: t-05458
   teiginys: "Lietuvos proistorė remiasi archeologiniais duomenimis ir yra tyrinėjama kitais metodais nei rašytinė istorija."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -83,8 +80,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     - c-05587
 
 <a id="claim-t-05608"></a>
-- t-003
-  global_id: t-05608
+- t-005
   teiginys: "Lietuvos proistorė apima seniausius laikus, paremtus archeologiniais duomenimis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -100,8 +96,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     - c-05587
 
 <a id="claim-t-70294"></a>
-- t-004
-  global_id: t-70294
+- t-007
   teiginys: "Lietuvos proistorei geriau pažinti padėjo gausūs archeologiniai kasinėjimai ir tyrinėjimai."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -141,9 +136,10 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05457
-    - t-05458
-    - t-05608
+    - t-001
+    - t-002
+    - t-005
+
 - id: c-69344
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -155,11 +151,10 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     ten daromi gausus archeologiniai kasinėjimai bei tyrinėjimai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-05457
 - id: c-69345
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -177,4 +172,4 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70294
+    - t-007

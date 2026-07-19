@@ -33,7 +33,6 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
 
 <a id="claim-t-86069"></a>
 - t-001
-  global_id: t-86069
   teiginys: "Į rytus nuo Veliuonos Pilies kalno dunkso Gedimino kalnu vadinamas kalnas su pilkapiu vakarinėje viršūnės pusėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
 
 <a id="claim-t-86070"></a>
 - t-002
-  global_id: t-86070
   teiginys: "Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno Veliuonoje šlaitus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,8 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86070
+    - t-002
+
 - id: c-82049
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -110,4 +109,4 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86069
+    - t-001

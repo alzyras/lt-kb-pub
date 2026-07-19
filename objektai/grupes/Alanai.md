@@ -34,9 +34,8 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
 
 <a id="claim-t-189465"></a>
 - t-001
-  global_id: t-189465
   teiginys: "Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kildino ją iš žodžio, reiškiančio mūšį."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -55,7 +54,6 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
 
 <a id="claim-t-189466"></a>
 - t-002
-  global_id: t-189466
   teiginys: "Narbutas rašė, kad alanai, jo laikyti senaisiais kai kurių Lietuvos sričių klajokliais, burdavo iš karklo šakų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
 
 <a id="claim-t-192363"></a>
 - t-003
-  global_id: t-192363
   teiginys: "Narbuto pasakojime alanai pasitraukė į Dono aukštupį ir pavergė arba išstūmė galonus, antropofagus, melanchlenus bei neurus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -98,7 +95,6 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
 
 <a id="claim-t-192364"></a>
 - t-004
-  global_id: t-192364
   teiginys: "Pasak Narbuto cituojamo Amiano Marcelino, dalis alanų apsigyveno Vyslos ir Nemuno tarpupyje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -120,7 +116,6 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
 
 <a id="claim-t-192365"></a>
 - t-005
-  global_id: t-192365
   teiginys: "Narbuto perpasakotoje keliautojų istorijoje kelias į Livoniją ėjo per venedų ir alanų žemes."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -141,7 +136,6 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
 
 <a id="claim-t-192366"></a>
 - t-006
-  global_id: t-192366
   teiginys: "Narbuto pasakojime 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -163,7 +157,6 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
 
 <a id="claim-t-193311"></a>
 - t-007
-  global_id: t-193311
   teiginys: "Kojelavičius spėjo, kad alanai arba herulai, ilgėdamiesi taikos, pasitraukė iš tėvynės į karų neniokojamas žemes."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -193,19 +186,15 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
     11 colių diametro“.
     To žiedo puošyba, kurią aš kuo tiksliausiai perpiešiau, pa­
     rodyta I lentelės 1-ajame piešinyje.
-  citata_rodoma: |
-    Taip galima paaiškinti tą mitologinį terminą, ir jis reikš
-    „kaulinis arės“. Be abejo, senovės tautos, dar menkai išmany-
-    damos apie metalus, vietoj kertamųjų karo ginklų vartojo ašt­
-    rius kaulus. O graikų ir alanų arės reikšmė sutampa su Marsu,
-    nuo žodžio arės -  mūšis.
+  citata_rodoma: "Taip galima paaiškinti tą mitologinį terminą, ir jis reikš\n„kaulinis arės“. Be abejo, senovės tautos, dar menkai išmany-\ndamos apie metalus, vietoj kertamųjų karo ginklų vartojo ašt­\nrius kaulus. O graikų ir alanų arės reikšmė sutampa su Marsu,\nnuo žodžio arės -  mūšis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189465
+    - t-001
+
 - id: c-172353
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -232,7 +221,8 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189466
+    - t-002
+
 - id: c-175158
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -258,7 +248,8 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192363
+    - t-003
+
 - id: c-175159
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -289,7 +280,8 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192364
+    - t-004
+
 - id: c-175160
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -311,7 +303,8 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192365
+    - t-005
+
 - id: c-175161
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -327,27 +320,15 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
     laikoma Italijos sostine. Odoakro kariuomenės apgultas
     miestas netrukus buvo užimtas, apiplėštas ir sunaikin­
     tas; Orestas žuvo.
-  citata_rodoma: |
-    1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro
-    šios temos pagrindą.
-    303
-
-    ## Puslapis 314
-
-    317
-    Karingoms, nesvetingų italų pavydo ir Oresto griež­
-    tumo išgąsdintoms gentims nieko daugiau nereikėjo; 476
-    metų pradžioje visi alanai, turcilingai, gepidai, skiriai,
-    herulai paskelbė Odoakrą savo vadu jr karaliumi. Sis
-    naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
-    mas gausius būrius.
+  citata_rodoma: "1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro\nšios temos pagrindą.\n303\n\n## Puslapis 314\n\n317\nKaringoms, nesvetingų italų pavydo ir Oresto griež­\ntumo išgąsdintoms gentims nieko daugiau nereikėjo; 476\nmetų pradžioje visi alanai, turcilingai, gepidai, skiriai,\nherulai paskelbė Odoakrą savo vadu jr karaliumi. Sis\nnaujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­\nmas gausius būrius."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192366
+    - t-006
+
 - id: c-176039
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -372,4 +353,4 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193311
+    - t-007

@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202016"></a>
 - t-001
-  global_id: t-202016
   teiginys: "Žinoma, valdovas neprivalėjo atsižvelgti į Kauno miestiečių siūlymus, bet atsižvelgdavo."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-202017"></a>
 - t-002
-  global_id: t-202017
   teiginys: "Steponas Batoras, Kauno burmistrų ir tarėjų prašomas, atsižvelgė į senovinius papročius ir paskelbtoje privilegijoje pareiškė skelbsiantis Kauno miesto vaitu vieną iš keturių Kauno burmistrų, tarėjų ir miestiečių bendruomenės pasiūlytų kandidatų į tas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -66,6 +64,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185364
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -86,7 +87,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202016
+    - t-001
 
 - id: c-185364
   autorius: "Zigmantas Kiaupa"
@@ -105,4 +106,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202017
+    - t-002

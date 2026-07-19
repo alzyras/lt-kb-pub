@@ -30,7 +30,6 @@ Putino - Mykolaičio, VALDOVAS...
 
 <a id="claim-t-34993"></a>
 - t-001
-  global_id: t-34993
   teiginys: "V. Putino-Mykolaičio „Valdovas“ yra istorinė šešių veiksmų drama."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,4 +52,4 @@ Putino - Mykolaičio, VALDOVAS...
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34993
+    - t-001

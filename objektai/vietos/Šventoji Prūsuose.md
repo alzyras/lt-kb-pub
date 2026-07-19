@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-189091"></a>
 - t-001
-  global_id: t-189091
   teiginys: "Šventoji (Szwentoja) Prūsuose minima kaip upė, įtekanti į Elksnės kairįjį krantą arba į Timbrą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171979
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šventoji (Szwentoja) Prūsuose minima kaip upė, įtekanti į Elksnės kairįjį krantą arba į Timbrą.'
@@ -65,8 +64,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189091
+
 ## Citatos
 
 - id: c-171979
@@ -85,16 +83,11 @@ media_all_json: |-
     tančio permainų jie paprastai nesikeičia, ir upės, tekėdamos
     įprasta vaga, išsaugo atminimą apie gentis ir tautas, kurios vie­
     na po kitos išnyksta arba atsiranda jų pakrantėse.
-  citata_rodoma: |
-    Tai labai įdomus sutapimas, o galbūt ir
-    pamėgdžiojimas reiškinio, apie kurį kalbame*.
-    5. Prūsuose dar yra Šventoji upė (Szwentoja), įtekanti į
-    Elksnės (Ebcne) upę jos kairiajame krante arba į Timbrą, kuri
-    įteka į Nemunyną, arba į pietinę Nemuno atšaką.
+  citata_rodoma: "Tai labai įdomus sutapimas, o galbūt ir\npamėgdžiojimas reiškinio, apie kurį kalbame*.\n5. Prūsuose dar yra Šventoji upė (Szwentoja), įtekanti į\nElksnės (Ebcne) upę jos kairiajame krante arba į Timbrą, kuri\nįteka į Nemunyną, arba į pietinę Nemuno atšaką."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189091
+    - t-001

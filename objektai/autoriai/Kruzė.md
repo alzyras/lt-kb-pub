@@ -39,7 +39,6 @@ Narbutas rėmėsi Dorpato universiteto profesoriaus Kruzės nuomone apie Gotos b
 
 <a id="claim-t-191678"></a>
 - t-001
-  global_id: t-191678
   teiginys: "Narbutas rėmėsi Dorpato universiteto profesoriaus Kruzės nuomone apie Gotos bibliotekoje aptiktus Istachrio geografijos žemėlapius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Narbutas rėmėsi Dorpato universiteto profesoriaus Kruzės nuomone apie Gotos b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191678
+    - t-001

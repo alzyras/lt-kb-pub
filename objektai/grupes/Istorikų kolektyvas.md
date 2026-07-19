@@ -31,7 +31,6 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
 
 <a id="claim-t-31193"></a>
 - t-001
-  global_id: t-31193
   teiginys: "Istorikų kolektyvas parengė bendrą lietuvių kovų su kryžiuočiais istoriją „Lietuvių karas su kryžiuočiais“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,15 +58,11 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
     _Lietuviu karas su kryžiuočiais,_ red. J. Jurginis (LKaKr). Lietuvių
     santykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja
     B. Dundulis 108.
-  citata_rodoma: |
-    Bendrą tų kovų istoriją paruošė istorikų kolektyvas :
-    _Lietuviu karas su kryžiuočiais,_ red. J. Jurginis (LKaKr). Lietuvių
-    santykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja
-    B. Dundulis 108.
+  citata_rodoma: "Bendrą tų kovų istoriją paruošė istorikų kolektyvas :\n_Lietuviu karas su kryžiuočiais,_ red. J. Jurginis (LKaKr). Lietuvių\nsantykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja\nB. Dundulis 108."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31193
+    - t-001

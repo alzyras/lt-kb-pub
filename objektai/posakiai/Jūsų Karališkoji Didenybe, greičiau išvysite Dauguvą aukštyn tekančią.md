@@ -30,7 +30,6 @@ Vienas iš jų pasakė: „Jūsų Karališkoji Didenybe, greičiau išvysite Dau
 
 <a id="claim-t-41452"></a>
 - t-001
-  global_id: t-41452
   teiginys: "Posakiu teigta, kad karalius greičiau išvys Dauguvą aukštyn tekančią, negu lietuvius ir jų etmoną bėgančius iš kovos lauko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,18 +62,11 @@ Vienas iš jų pasakė: „Jūsų Karališkoji Didenybe, greičiau išvysite Dau
 
     Švedų kariuomenės pės-
     tininkų batalionas.
-  citata_rodoma: |
-    Vienas iš jų pasakė: „Jūsų
-    Karališkoji Didenybe, greičiau išvysite
-    Dauguvą aukštyn tekančią, negu lietuvius
-    ir jų etmoną iš kovos lauko bėgančius“
-
-    Švedų kariuomenės pės-
-    tininkų batalionas.
+  citata_rodoma: "Vienas iš jų pasakė: „Jūsų\nKarališkoji Didenybe, greičiau išvysite\nDauguvą aukštyn tekančią, negu lietuvius\nir jų etmoną iš kovos lauko bėgančius“\n\nŠvedų kariuomenės pės-\ntininkų batalionas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41452
+    - t-001

@@ -32,21 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad tautavičius A.
 
-## Teiginiai
-
-<a id="claim-t-61313"></a>
-- t-001
-  global_id: t-61313
-  teiginys: "A. Tautavičiaus „Mūsų giminaičiai prūsai“ paskelbtas 1968 m. žurnalo MG 6 numeryje, 17–22 puslapiuose."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1968 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinius publikacijos duomenis."
-  pagrindžia:
-    - c-61945
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Tautavičiaus „Mūsų giminaičiai prūsai“ paskelbtas 1968 m. žurnalo MG 6 numeryje, 17–22 puslapiuose.'
@@ -58,8 +43,7 @@ Dusburgietis teigia, kad tautavičius A.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61313
+
 ## Citatos
 
 - id: c-61945
@@ -69,12 +53,25 @@ Dusburgietis teigia, kad tautavičius A.
   citata_originali: |
     Г уревич Ф. Д. Древности белорусского Понеманья. — М.— Л., 1962.
     Г уревич Ф. Д. Древний Новогрудок.
-  citata_rodoma: |
-    Tautavičius A. Mūsų giminaičiai prūsai.— MG, 1968, Nr. 6, p. 17—22.
+  citata_rodoma: "Tautavičius A. Mūsų giminaičiai prūsai.— MG, 1968, Nr. 6, p. 17—22."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61313
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-61313"></a>
+- t-001
+  teiginys: "A. Tautavičiaus „Mūsų giminaičiai prūsai“ paskelbtas 1968 m. žurnalo MG 6 numeryje, 17–22 puslapiuose."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1968 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinius publikacijos duomenis."
+  pagrindžia:
+    - c-61945

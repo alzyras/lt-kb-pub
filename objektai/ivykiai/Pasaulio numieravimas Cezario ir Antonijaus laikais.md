@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201341"></a>
 - t-001
-  global_id: t-201341
   teiginys: "Rėdant rymionų ūkę Cezariui bei Antonijui, tė vūnai, arba senatoriai, liepė visą pasaulį numieruoti trims matematikams Ksenodokui, Teodotui ir Poliklitui."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184691
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Rėdant rymionų ūkę Cezariui bei Antonijui, tė­
     vūnai, arba senatoriai, liepė visą pasaulį numieruoti
@@ -70,4 +70,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201341
+    - t-001

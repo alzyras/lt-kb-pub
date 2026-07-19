@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-65004"></a>
 - t-001
-  global_id: t-65004
   teiginys: "1930 m. Pasvalyje ypatinga ceremonija buvo pagerbtas po Lietuvą keliavęs Vytauto Didžiojo paveikslas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,9 +78,9 @@ Nenurodyta
   pagrindžia:
     - c-22320
     - c-65528
+
 <a id="claim-t-65005"></a>
 - t-002
-  global_id: t-65005
   teiginys: "Vytauto paveikslas buvo nešiotas po Lietuvą, o šias apeigas lydėjo renginiai Lietuvos miestuose ir miesteliuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +97,6 @@ Nenurodyta
 
 <a id="claim-t-65007"></a>
 - t-003
-  global_id: t-65007
   teiginys: "Vytauto Didžiojo kulto kūrimo momentas: 1930 m. Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikščio paveikslas Vytauto Didžiojo karo muziejus, atidarytas 1935 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,18 +125,15 @@ Nenurodyta
     kunigaikščio paveikslas
      Vytauto Didžiojo karo muziejus, atidarytas 1935 m.
     Architektas Vladimiras Dubeneckis (V. Augustino nuotrauka)
-  citata_rodoma: |
-    Pasvalyje
-    ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą
-    kunigaikščio paveikslas
-     Vytauto Didžiojo karo muziejus, atidarytas 1935 m.
+  citata_rodoma: "Pasvalyje  \nypatinga ceremonija pagerbiamas keliaujantis po Lietuvą \nkunigaikščio paveikslas\n Vytauto Didžiojo karo muziejus, atidarytas 1935 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65004
+    - t-001
+
 - id: c-22321
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -153,20 +148,16 @@ Nenurodyta
     muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
     veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
     vos miestuose ir miesteliuose, jam pastatyti paminklai.
-  citata_rodoma: |
-    Vytauto Didžiojo mirties
-    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
-    muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
-    veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
-    vos miestuose ir miesteliuose, jam pastatyti paminklai.
+  citata_rodoma: "Vytauto Didžiojo mirties \n500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo \nmuziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-\nveikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-\nvos miestuose ir miesteliuose, jam pastatyti paminklai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65005
-    - t-65007
+    - t-002
+    - t-003
+
 - id: c-65528
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -188,3 +179,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

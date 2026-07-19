@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-41639"></a>
 - t-001
-  global_id: t-41639
   teiginys: "1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,6 +55,7 @@ media_all_json: |-
   pagrindžia:
     - c-45051
     - c-167168
+
 ## Citatos
 
 - id: c-45051
@@ -69,22 +69,16 @@ media_all_json: |-
     riuomenės. Lenkijos kariuomenė buvo
     sunaikinta, žuvo pats didysis karū-
     nos etmonas, kadaise užėmęs
-    Maskvą, S.
-  citata_rodoma: |
-    1620 m. Lenkijos kariuomenė įžengė
-    į Valakiją ir mūšyje prie Cecoro ne-
-    toli Jasų buvo sutriuškinta Turkijos ka-
-    riuomenės. Lenkijos kariuomenė buvo
-    sunaikinta, žuvo pats didysis karū-
-    nos etmonas, kadaise užėmęs
-    Maskvą, S.
+    Maskvą, S. Žolkievskis.
+  citata_rodoma: "1620 m. Lenkijos kariuomenė įžengė\nį Valakiją ir mūšyje prie Cecoro ne-\ntoli Jasų buvo sutriuškinta Turkijos ka-\nriuomenės. Lenkijos kariuomenė buvo\nsunaikinta, žuvo pats didysis karū-\nnos etmonas, kadaise užėmęs\nMaskvą, S."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41639
+    - t-001
+
 - id: c-167168
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -104,3 +98,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

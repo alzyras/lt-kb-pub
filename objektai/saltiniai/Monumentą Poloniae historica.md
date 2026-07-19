@@ -42,7 +42,6 @@ Dusburgietis teigia, kad monumentą Poloniae historica.—T.
 
 <a id="claim-t-61184"></a>
 - t-001
-  global_id: t-61184
   teiginys: "„Monumenta Poloniae historica“ 2, 4 ir 5 tomai išleisti Lvove 1872, 1884 ir 1888 m., o 1961 m. nurodytas Varšuvos leidimas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Dusburgietis teigia, kad monumentą Poloniae historica.—T.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61184
+    - t-001

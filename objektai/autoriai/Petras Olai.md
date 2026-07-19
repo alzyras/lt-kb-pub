@@ -31,7 +31,6 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
 
 <a id="claim-t-88039"></a>
 - t-001
-  global_id: t-88039
   teiginys: "Petras Olai „Danų kronikoje“ aprašė įvykį, siejamą su Riuriko variagų kelione į Rusiją ir Palemono draugų atvykimu į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88039
+    - t-001

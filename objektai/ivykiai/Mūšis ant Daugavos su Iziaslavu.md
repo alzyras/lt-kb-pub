@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201336"></a>
 - t-001
-  global_id: t-201336
   teiginys: "Abi šąli su visų didžiausia aitra ir narsybe susigrūmė ant skardžių Daugavos."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184686
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Abi šąli su visų didžiausia aitra
     ir narsybe susigrūmė ant skardžių Daugavos. Izias­
@@ -69,4 +69,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201336
+    - t-001

@@ -31,7 +31,6 @@ Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
 
 <a id="claim-t-58714"></a>
 - t-001
-  global_id: t-58714
   teiginys: "Panemunėje esama Rambyno (žr."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58714
+    - t-001

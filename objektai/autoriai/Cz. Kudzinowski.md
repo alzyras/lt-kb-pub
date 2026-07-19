@@ -36,7 +36,6 @@ Kudzinowski, Cz.
 
 <a id="claim-t-97149"></a>
 - t-001
-  global_id: t-97149
   teiginys: "Cz. Kudzinowski 1964 m. paskelbė darbą „Jaćwingowie w języku“ leidinyje ABaSl."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Kudzinowski, Cz.
 
 <a id="claim-t-97150"></a>
 - t-002
-  global_id: t-97150
   teiginys: "Cz. Kudzinowski parašė straipsnį „Jaćwingome w języku“, paskelbtą ABaSl I tome 1964 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,5 +90,5 @@ Kudzinowski, Cz.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97149
-    - t-97150
+    - t-001
+    - t-002

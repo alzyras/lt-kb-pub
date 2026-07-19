@@ -51,10 +51,9 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-180762"></a>
-- t-001
-  global_id: t-180762
+- t-014
   teiginys: "Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną bei Henriką ir nuniokojo tas šalis."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lenkija: 0.98"
   ryšio_patikimumo_lygis: "aukstas"
@@ -68,8 +67,7 @@ media_all_json: |-
     - c-164347
 
 <a id="claim-t-180763"></a>
-- t-002
-  global_id: t-180763
+- t-020
   teiginys: "1579 m. žygiui prieš caro kariuomenę buvo pasamdyta kareivių Vengrijoje ir Vokietijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,8 +87,7 @@ media_all_json: |-
     - c-164351
 
 <a id="claim-t-180764"></a>
-- t-003
-  global_id: t-180764
+- t-006
   teiginys: "Karalius Kazimieras Vilniuje gavo žinią apie sūnaus Jono Albrechto sutriuškinimą Vengrijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,8 +103,7 @@ media_all_json: |-
     - c-164356
 
 <a id="claim-t-180765"></a>
-- t-004
-  global_id: t-180765
+- t-015
   teiginys: "1326 metais Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -123,8 +119,7 @@ media_all_json: |-
     - c-164348
 
 <a id="claim-t-180766"></a>
-- t-005
-  global_id: t-180766
+- t-018
   teiginys: "1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad šis ruošiasi kurti savo valstybę, o ne jam tarnauti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,10 +137,9 @@ media_all_json: |-
     - c-164349
 
 <a id="claim-t-180767"></a>
-- t-006
-  global_id: t-180767
+- t-013
   teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -162,8 +156,7 @@ media_all_json: |-
     - c-164354
 
 <a id="claim-t-180768"></a>
-- t-007
-  global_id: t-180768
+- t-017
   teiginys: "1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad jis siekia kurti savo valstybę, o ne tarnauti karaliui."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -182,8 +175,7 @@ media_all_json: |-
     - c-164349
 
 <a id="claim-t-180770"></a>
-- t-008
-  global_id: t-180770
+- t-019
   teiginys: "Rengiantis 1579 m. žygiui, kareivių buvo samdoma Vengrijoje ir Vokietijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -202,8 +194,7 @@ media_all_json: |-
     - c-164351
 
 <a id="claim-t-180772"></a>
-- t-009
-  global_id: t-180772
+- t-007
   teiginys: "Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o iš ten superkami į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -220,29 +211,20 @@ media_all_json: |-
     - c-164355
 
 <a id="claim-t-180773"></a>
-- t-010
-  global_id: t-180773
+- t-012
   teiginys: "Joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų)."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=96"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "valdymo laikotarpis: 1211 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-164348
+    - c-164347
 
 <a id="claim-t-180774"></a>
-- t-011
-  global_id: t-180774
+- t-010
   teiginys: "Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o ten superkami Vilniui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -259,8 +241,7 @@ media_all_json: |-
     - c-164355
 
 <a id="claim-t-180775"></a>
-- t-012
-  global_id: t-180775
+- t-016
   teiginys: "1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -279,8 +260,7 @@ media_all_json: |-
     - c-164352
 
 <a id="claim-t-185173"></a>
-- t-013
-  global_id: t-185173
+- t-001
   teiginys: "Imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, iš Volynės patraukė tiesiai į Vengriją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -299,8 +279,7 @@ media_all_json: |-
     - c-168534
 
 <a id="claim-t-192769"></a>
-- t-014
-  global_id: t-192769
+- t-021
   teiginys: "Teodoras Narbutas Vengriją arba jos gretimus kraštus laikė vieta, kur jazigai dar gyveno XV amžiuje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -321,8 +300,7 @@ media_all_json: |-
     - c-175539
 
 <a id="claim-t-193244"></a>
-- t-015
-  global_id: t-193244
+- t-022
   teiginys: "Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -334,8 +312,7 @@ media_all_json: |-
     - c-175980
 
 <a id="claim-t-200719"></a>
-- t-016
-  global_id: t-200719
+- t-023
   teiginys: "1738 m. Marcijonas Mykolas Oginskis tiesiai iš Vengrijos pirko 25 statines seno ir jauno vyno už 274 raudonuosius auksinus."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -631,7 +608,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180762
+    - t-014
+    - t-012
 
 - id: c-164348
   autorius: "Petras Dusburgietis"
@@ -653,8 +631,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180765
-    - t-180773
+    - t-015
 
 - id: c-164349
   redaktorius: "A. Šapoka"
@@ -673,8 +650,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180766
-    - t-180768
+    - t-018
+    - t-017
 
 - id: c-164351
   redaktorius: "A. Šapoka"
@@ -696,8 +673,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180763
-    - t-180770
+    - t-020
+    - t-019
 
 - id: c-164352
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -719,7 +696,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180775
+    - t-016
 
 - id: c-164354
   autorius: "Petras Dusburgietis"
@@ -739,7 +716,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180767
+    - t-013
 
 - id: c-164355
   autorius: "Michał Baliński"
@@ -758,8 +735,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180772
-    - t-180774
+    - t-007
+    - t-010
 
 - id: c-164356
   autorius: "Michał Baliński"
@@ -785,7 +762,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180764
+    - t-006
 
 - id: c-168534
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -823,7 +800,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185173
+    - t-001
 
 - id: c-175539
   autorius: "Teodoras Narbutas"
@@ -844,7 +821,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192769
+    - t-021
 
 - id: c-175980
   redaktorius: "A. Šapoka"
@@ -862,7 +839,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193244
+    - t-022
 
 - id: c-184064
   autorius: "Rimvydas Laužikas"
@@ -872,11 +849,8 @@ media_all_json: |-
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200719
+    - t-023
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Motiejus Huniadis]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]

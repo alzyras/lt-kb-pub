@@ -39,8 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-42479"></a>
-- t-001
-  global_id: t-42479
+- t-002
   teiginys: "1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ media_all_json: |-
     - c-45532
 
 <a id="claim-t-42480"></a>
-- t-002
-  global_id: t-42480
+- t-001
   teiginys: "1348 m. Ordino maršalas Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje kartu su didžiuoju komtūru Vinrichu iš Kniprodės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ media_all_json: |-
 
 <a id="claim-t-183717"></a>
 - t-003
-  global_id: t-183717
   teiginys: "1348 m. Ordino maršalas brolis Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje ir narsiai kovėsi."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -104,7 +101,6 @@ media_all_json: |-
 
 <a id="claim-t-184627"></a>
 - t-004
-  global_id: t-184627
   teiginys: "Kernavėje rūmų maršalas įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -126,7 +122,6 @@ media_all_json: |-
 
 <a id="claim-t-184628"></a>
 - t-005
-  global_id: t-184628
   teiginys: "Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -147,7 +142,6 @@ media_all_json: |-
 
 <a id="claim-t-184629"></a>
 - t-006
-  global_id: t-184629
   teiginys: "Vytautas į Korčino seimą nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -370,43 +364,15 @@ media_all_json: |-
     tines žemes veržėsi Lenkijos ir Vengrijos
     jėgos, nuo 1356 m. santykiai su tomis šali-
     mis kuriam laikui normalizavosi.
-  citata_rodoma: |
-    BAU
-    =
-    S 8
-    S
-    m
-    e-+
-    >
-    os
-    2%
-
-    ## Puslapis 40
-
-    SUS os
-
-    : i Paha
-    “| KARALYS'
-
-    Mūšio priešistorė
-
-    Tesiantis Lietuvos karui su Vokiečių or-
-    dinu, 1355 m. pradžioje didelė Kryžiuočių
-    kariuomenė, vadovaujama maršalo, įsi-
-    veržusi penketą dienų niokojo centri-
-
-    nę Žemaitijos Medininkų žemę, po to
-    Vaikius (vakariau Raseinių), Ariogalą
-    prie Dubysos. Tais metais į Lietuvos pie-
-    tines žemes veržėsi Lenkijos ir Vengrijos
-    jėgos, nuo 1356 m.
+  citata_rodoma: "BAU\n=\nS 8\nS\nm\ne-+\n>\nos\n2%\n\n## Puslapis 40\n\nSUS os\n\n: i Paha\n“| KARALYS'\n\nMūšio priešistorė\n\nTesiantis Lietuvos karui su Vokiečių or-\ndinu, 1355 m. pradžioje didelė Kryžiuočių\nkariuomenė, vadovaujama maršalo, įsi-\nveržusi penketą dienų niokojo centri-\n\nnę Žemaitijos Medininkų žemę, po to\nVaikius (vakariau Raseinių), Ariogalą\nprie Dubysos. Tais metais į Lietuvos pie-\ntines žemes veržėsi Lenkijos ir Vengrijos\njėgos, nuo 1356 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42479
+    - t-002
+
 - id: c-45533
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -417,18 +383,16 @@ media_all_json: |-
     [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur
     pagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-
     tas ugnimi išdegintas.
-  citata_rodoma: |
-    „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
-    Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš
-    [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.
+  citata_rodoma: "„[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis\nVinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš\n[Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42480
-    - t-183717
+    - t-001
+    - t-003
+
 - id: c-167988
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -453,7 +417,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184627
+    - t-004
+
 - id: c-167989
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -479,7 +444,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184628
+    - t-005
+
 - id: c-167990
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -500,22 +466,11 @@ media_all_json: |-
     kad karalystės luomai nu­
     spręstų, kaip dera priešintis
     nesaikingiems Vytauto potroškiams.
-  citata_rodoma: |
-    Po to prasidėjo ilgos tarpusavio rietenos, kurias
-    nuolat kurstė ir Vytautas, ir
-    lenkai, siuntinėdami žygūnus:
-    Lietuvos didysis kunigaikštis
-    stengėsi iš lenkų išgauti suti­
-    kimą, o šie — priversti Vy­
-    tautą atsisakyti savo sumany­
-    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
-    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
-    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
-    dovo reikalavimus.
+  citata_rodoma: "Po to prasidėjo ilgos tarpusavio rietenos, kurias\nnuolat kurstė ir Vytautas, ir\nlenkai, siuntinėdami žygūnus:\nLietuvos didysis kunigaikštis\nstengėsi iš lenkų išgauti suti­\nkimą, o šie — priversti Vy­\ntautą atsisakyti savo sumany­\nmo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­\nniaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.\nLuomų susirinkime jie trumpai, bet aiškiai išdėstė val­\ndovo reikalavimus."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184629
+    - t-006

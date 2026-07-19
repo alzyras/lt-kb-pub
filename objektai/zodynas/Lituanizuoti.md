@@ -32,7 +32,6 @@ Lenkų įtaka ribota, nes valdžia siekė juos lituanizuoti, laikydama esant nut
 
 <a id="claim-t-22007"></a>
 - t-001
-  global_id: t-22007
   teiginys: "Valdžia siekė lituanizuoti lenkus, laikydama juos nutautėjusiais lietuviais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,12 +58,11 @@ Lenkų įtaka ribota, nes valdžia siekė juos lituanizuoti, laikydama esant nut
     mokyklą. Lenkų įtaka ribota, nes valdžia siekė juos lituanizuoti, laiky-
     dama esant nutautėjusiais lietuviais. Prezidentas A. Smetona manė, kad
     jeigu lietuvis kažkada virto lenku, tai kodėl jis negali vėl atvirsti lietuviu?
-  citata_rodoma: |
-    jeigu lietuvis kažkada virto lenku, tai kodėl jis negali vėl atvirsti lietuviu?
+  citata_rodoma: "jeigu lietuvis kažkada virto lenku, tai kodėl jis negali vėl atvirsti lietuviu?"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22007
+    - t-001

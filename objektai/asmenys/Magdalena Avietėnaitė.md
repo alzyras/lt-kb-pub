@@ -39,7 +39,6 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 
 <a id="claim-t-19122"></a>
 - t-001
-  global_id: t-19122
   teiginys: "Magdalena Avietėnaitė vadovavo rengiant specialų Lietuvos skyrių 1939 m. pasaulinei parodai Niujorke."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,12 +73,11 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     dailininkų drobėse. Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
     menininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-
     toriją visam pasauliui.
-  citata_rodoma: |
-    kos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo
+  citata_rodoma: "kos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19122
+    - t-001

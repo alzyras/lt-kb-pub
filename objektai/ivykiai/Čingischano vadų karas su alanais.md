@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-191078"></a>
 - t-001
-  global_id: t-191078
   teiginys: "Narbutas rašo, kad 1223 m. Čingischano vadai kariavo toje pačioje pusėje su alanais, kuriems su poloviečiais priklausė Dagestanas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -96,4 +95,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191078
+    - t-001

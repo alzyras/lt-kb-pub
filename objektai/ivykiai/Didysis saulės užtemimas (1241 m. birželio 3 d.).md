@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-62237"></a>
 - t-001
-  global_id: t-62237
   teiginys: "1241 m. birželio 3 d. per pietus įvykęs didysis saulės užtemimas buvo toks smarkus, kad matėsi žvaigždės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,8 +64,7 @@ Nenurodyta
     - c-62737
 
 <a id="claim-t-194382"></a>
-- t-002
-  global_id: t-194382
+- t-003
   teiginys: "Apie didįjį saulės užtemimą Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net žvaigždes galima buvo matyti nelyginant sutemus (Ptol."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -90,18 +88,12 @@ Nenurodyta
     žvaigždes galima buvo matyti nelyginant sutemus (Ptol. 21,37).
 
     29.
-  citata_rodoma: |
-    Apie didįjį saulės užtemimą
-
-      Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net
-    žvaigždes galima buvo matyti nelyginant sutemus (Ptol. 21,37).
-
-    29.
+  citata_rodoma: "Apie didįjį saulės užtemimą\n\n  Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net\nžvaigždes galima buvo matyti nelyginant sutemus (Ptol. 21,37).\n\n29."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62237
-    - t-194382
+    - t-001
+    - t-003

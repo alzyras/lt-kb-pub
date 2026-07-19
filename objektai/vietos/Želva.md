@@ -49,8 +49,7 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
 ## Teiginiai
 
 <a id="claim-t-172063"></a>
-- t-001
-  global_id: t-172063
+- t-003
   teiginys: "Spalio 26–27 d. lenkų pajėgos, apėjusios kairįjį lietuvių sparną, užėmė Želvą, Giedraičius, Dubingius ir Vidiškį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     - c-156490
 
 <a id="claim-t-172064"></a>
-- t-002
-  global_id: t-172064
+- t-004
   teiginys: "1919 m. lapkričio 19 d. 2-ajam pulkui nurodyta susitelkti Želvoje, pulti Giedraičių kryptimi ir užėmus Giedraičius stumtis kuo toliau."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,8 +86,7 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     - c-156492
 
 <a id="claim-t-172065"></a>
-- t-003
-  global_id: t-172065
+- t-005
   teiginys: "1946 m. sausio 22 d. Želvos valsčiaus Gursčių kaimo apylinkėse Plieno būrio partizanai kovėsi su NKVD kariuomene."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,8 +105,7 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     - c-44110
 
 <a id="claim-t-172066"></a>
-- t-004
-  global_id: t-172066
+- t-001
   teiginys: "Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -161,7 +157,8 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172065
+    - t-005
+
 - id: c-156489
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -183,15 +180,15 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     ginklo neplatinimo 1985 m. tapo kardiologas Bernard Lown (Bernardas
     Lounas), gimęs Utenoje (kaip Boruchas Lacas 1921 m.), 1935 m. su šeima
     emigravęs į JAV.
-  citata_rodoma: |
-    ją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio
+  citata_rodoma: "ją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172066
+    - t-001
+
 - id: c-156490
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -206,21 +203,15 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     jinga padėtis, lenkams pasiekus savo puo-
     limo tikslą, Lietuvai būtų iškilęs pavojus
     prarasti nepriklausomybę.
-  citata_rodoma: |
-    Spalio 26-27 d. lenkai apėjo kai-
-
-    rįjį lietuvių sparną ir užėmė Giedraičius,
-    Želvą, Dubingius, Vidiškį. Susidarė pavo-
-    jinga padėtis, lenkams pasiekus savo puo-
-    limo tikslą, Lietuvai būtų iškilęs pavojus
-    prarasti nepriklausomybę.
+  citata_rodoma: "Spalio 26-27 d. lenkai apėjo kai-\n\nrįjį lietuvių sparną ir užėmė Giedraičius,\nŽelvą, Dubingius, Vidiškį. Susidarė pavo-\njinga padėtis, lenkams pasiekus savo puo-\nlimo tikslą, Lietuvai būtų iškilęs pavojus\nprarasti nepriklausomybę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172063
+    - t-003
+
 - id: c-156492
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -237,21 +228,15 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     įmanoma toliau (tuomet į frontą tu-
     rėjo atvykti Tautų Sąjungos kontrolės
     komisija sustabdyti kovos veiksmų).
-  citata_rodoma: |
-    2-ajam pulkui buvo nurodyta su-
-    sitelkti Želvoje ir iš ten pulti Giedraičių
-    kryptimi ir užėmus Giedraičius, pa-
-    sistūmėti iki lapkričio 21 d. 9 val. kiek
-    įmanoma toliau (tuomet į frontą tu-
-    rėjo atvykti Tautų Sąjungos kontrolės
-    komisija sustabdyti kovos veiksmų).
+  citata_rodoma: "2-ajam pulkui buvo nurodyta su-\nsitelkti Želvoje ir iš ten pulti Giedraičių\nkryptimi ir užėmus Giedraičius, pa-\nsistūmėti iki lapkričio 21 d. 9 val. kiek\nįmanoma toliau (tuomet į frontą tu-\nrėjo atvykti Tautų Sąjungos kontrolės\nkomisija sustabdyti kovos veiksmų)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172064
+    - t-004
+
 ## Ryšiai
 - Gimimo vieta: [[objektai/asmenys/Aaron Klug]]
 - Užėmė Želvą: [[objektai/grupes/Lenkai]]

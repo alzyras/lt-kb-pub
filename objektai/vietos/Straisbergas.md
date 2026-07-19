@@ -38,7 +38,6 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
 
 <a id="claim-t-58731"></a>
 - t-001
-  global_id: t-58731
   teiginys: "1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
 
 <a id="claim-t-185157"></a>
 - t-002
-  global_id: t-185157
   teiginys: "Rugsėjo pabaigoje per šventą Mykolą lietuviai apiplėšė Straisbergą, kur bažnyčiose žuvo daugybė susirinkusių žmonių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -104,20 +102,15 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
     dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo
     krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė,
     palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie šį įvykį.
-  citata_rodoma: |
-    Apie Straisbergo miesto sugriovimą 1298 metais
-
-       Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo
-    29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus
-    gyventojus ir vieną kunigą, o moteris bei vaikus paėmė į nelaisvę; visaip išniekinę kitus
-    sakramentus, vienas dar suteršė indą krikšto vandeniui laikyti, pridergdamas į jį.
+  citata_rodoma: "Apie Straisbergo miesto sugriovimą 1298 metais\n\n   Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo\n29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus\ngyventojus ir vieną kunigą, o moteris bei vaikus paėmė į nelaisvę; visaip išniekinę kitus\nsakramentus, vienas dar suteršė indą krikšto vandeniui laikyti, pridergdamas į jį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58731
+    - t-001
+
 - id: c-168518
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -139,6 +132,7 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185157
+    - t-002
+
 ## Ryšiai
 - Puolė Straisbergą: [[objektai/grupes/Lietuviai]]

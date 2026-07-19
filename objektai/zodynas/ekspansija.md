@@ -30,10 +30,9 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
 ## Teiginiai
 
 <a id="claim-t-70130"></a>
-- t-001
-  global_id: t-70130
+- t-003
   teiginys: "Ekspansija čia reiškia Lietuvos plėtimąsi į rytus."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -45,11 +44,9 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14689
-    - c-14690
 
 <a id="claim-t-70131"></a>
-- t-002
-  global_id: t-70131
+- t-004
   teiginys: "Lietuvos ekspansija rytuose prasidėjo dar Mindaugo valdymo laikais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -93,16 +90,16 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
     tik glaudžiai sujungė bei sutvirtino valstybę, bet ir įvedė ją į
     rytų politiškų galybių tarpą, kaip pirmaeilės reikšmės narį.
     Lietuvos ekspansija rytuose prasidėjo dar prie Mindaugo.
-  citata_rodoma: |
-    Lietuvos ekspansija rytuose prasidėjo dar prie Mindaugo.
+  citata_rodoma: "Lietuvos ekspansija rytuose prasidėjo dar prie Mindaugo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70130
-    - t-70131
+    - t-003
+    - t-004
+
 - id: c-14690
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -116,5 +113,3 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-70130

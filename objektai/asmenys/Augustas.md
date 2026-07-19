@@ -39,9 +39,8 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 
 <a id="claim-t-185940"></a>
 - t-001
-  global_id: t-185940
   teiginys: "Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl metų ir ligų perdavė jam valdymą, o luomai tam pritarė."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -56,10 +55,10 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169301
+    - c-178676
 
 <a id="claim-t-196421"></a>
-- t-002
-  global_id: t-196421
+- t-005
   teiginys: "1543 m. Krokuvoje Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
     - c-169301
 
 <a id="claim-t-196422"></a>
-- t-003
-  global_id: t-196422
+- t-006
   teiginys: "Karalius B resto se im a s atvyko su sūnumi Augustu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
     - c-178676
 
 <a id="claim-t-196423"></a>
-- t-004
-  global_id: t-196423
+- t-007
   teiginys: "Ginče dėl caro titulo Augustui atsakyta, kad ciesoriumi iš pagarbos tituluojamas tik Romos imperatorius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -436,31 +433,16 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
     jant su Vladislovu bei Liudviku. Balandžio 15 d. Kro­
     kuvoje iškėlė vestuves, labai iškilmingas, kaip ir dera
     šitokiems sutuoktiniams.
-  citata_rodoma: |
-    1543 m e ta i
-    Ž y g im a n ta s
-    A u g u s­
-    ta s v e d a a u strų k u ­
-    n ig a ik š ty tę E lžb ietą
-    Sugrįžęs į Lenkiją, kara­
-    lius suskato apvesdinti sūnų
-    Augustą. Nutarta susigimi­
-    niuoti su Austrijos valdovų
-    šeima ir paprašyti Augustui
-    Romos karaliaus Ferdinando
-    dukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­
-    torius Karolis V didžiai pritarė šiai santuokai, įsitikinę,
-    kad ji dar labiau sustiprins santarvę ir gerus santy­
-    kius, kuriems padėta pamatai anksčiau, susigiminiuo­
-    jant su Vladislovu bei Liudviku.
+  citata_rodoma: "1543 m e ta i \nŽ y g im a n ta s \nA u g u s­\nta s v e d a a u strų k u ­\nn ig a ik š ty tę E lžb ietą\nSugrįžęs į Lenkiją, kara­\nlius suskato apvesdinti sūnų \nAugustą. Nutarta susigimi­\nniuoti su Austrijos valdovų \nšeima ir paprašyti Augustui \nRomos karaliaus Ferdinando \ndukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­\ntorius Karolis V didžiai pritarė šiai santuokai, įsitikinę, \nkad ji dar labiau sustiprins santarvę ir gerus santy­\nkius, kuriems padėta pamatai anksčiau, susigiminiuo­\njant su Vladislovu bei Liudviku."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185940
-    - t-196421
+    - t-001
+    - t-005
+
 - id: c-169302
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -493,7 +475,8 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196423
+    - t-007
+
 - id: c-178676
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -523,7 +506,9 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196422
+    - t-001
+    - t-006
+
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Barbora Radvilaitė]]
 - Augustas siuntė į [[objektai/vietos/Polockas]]

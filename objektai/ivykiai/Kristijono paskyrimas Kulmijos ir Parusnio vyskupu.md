@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201325"></a>
 - t-001
-  global_id: t-201325
   teiginys: "Pasakojant Kristijonui, popiežius, matydamas skaitlių perkrikštų gausų esant, užvis jog tuodu kunigaikščiu, dėkavodamu už moks lą savo mokytojui Kristijonui, kunigaikštystas savo jam padovenojo, todėl Inocentas III pakėlė jį vys kupu Kulmijos ir visų tų."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184675
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kristijonas, ap­
     krikštijęs dar didžias daugybes netikėlių, rūpinos
@@ -88,4 +88,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201325
+    - t-001

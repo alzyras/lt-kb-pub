@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-01892"></a>
 - t-001
-  global_id: t-01892
   teiginys: "Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų Štumdorfo paliaubas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,13 +82,11 @@ Nenurodyta
     duoti savo ūkio produktus. Karalių palaikė tik Lietuva, kuriai
     rūpėjo atgauti Livoniją. Po ilgų derybų Lenkijos ponai prieš
     karaliaus valią padarė 26 m. paliaubas.
-  citata_rodoma: |
-    Po ilgų derybų Lenkijos ponai prieš
-    karaliaus valią padarė 26 m. paliaubas.
+  citata_rodoma: "Po ilgų derybų Lenkijos ponai prieš\nkaraliaus valią padarė 26 m. paliaubas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01892
+    - t-001

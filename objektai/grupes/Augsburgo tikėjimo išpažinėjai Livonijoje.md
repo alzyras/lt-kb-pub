@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-86752"></a>
 - t-001
-  global_id: t-86752
   teiginys: "Ketlerio perduodamų Livonijos apskričių žmonėms buvo siūlyta leisti laisvai naudotis apeigomis, papročiais ir religija, išpažįstančia Augsburgo tikėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86752
+    - t-001

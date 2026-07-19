@@ -31,7 +31,6 @@ Sondeckis išvertė lietuviškai^141.
 
 <a id="claim-t-30700"></a>
 - t-001
-  global_id: t-30700
   teiginys: "J. Sondeckis lietuviškai išvertė žymią dalį paskaitų Lietuvos istorijos temomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,15 +60,11 @@ Sondeckis išvertė lietuviškai^141.
     rinių duomenų surinko M. Dovnar-Zapolskis; ypač svar­
     bus jo veikalai « Valstybinis Lietuvos Didžiosios Kunigaikštystės
     ūkis Jogailaičiu laikais » (DoZGos) ir dokumentu rinkinys (ALRG)^142.
-  citata_rodoma: |
-    Savo paskaitas Lietuvos istorijos temomis išleido jis atskira kny­
-    ga140a, kurios žymią dalį J. Sondeckis išvertė lietuviškai^141. Lie­
-    tuvos valstybės ekonomikos klausimus nagrinėdamas, daug isto­
-    rinių duomenų surinko M.
+  citata_rodoma: "Savo paskaitas Lietuvos istorijos temomis išleido jis atskira kny­\nga140a, kurios žymią dalį J. Sondeckis išvertė lietuviškai^141. Lie­\ntuvos valstybės ekonomikos klausimus nagrinėdamas, daug isto­\nrinių duomenų surinko M."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30700
+    - t-001

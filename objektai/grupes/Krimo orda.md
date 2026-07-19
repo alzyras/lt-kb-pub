@@ -31,7 +31,6 @@ Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po t
 
 <a id="claim-t-65321"></a>
 - t-001
-  global_id: t-65321
   teiginys: "Krimo totoriai pradėjo smarkius puolimus, ypač prieš Kijevo, Podolės ir Galicijos sritis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,12 +52,11 @@ Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po t
     nas III buvo taip pat Achmeto priešas, o be to, apsiėmė jam daugiau
     mokėti už sąjungą. Po to prasidėjo baisūs Krimo totorių puolimai;
     ypač jie puolė Kijevo, Podolės ir Galicijos sritis.
-  citata_rodoma: |
-    Po to prasidėjo baisūs Krimo totorių puolimai; ypač jie puolė Kijevo, Podolės ir Galicijos sritis.
+  citata_rodoma: "Po to prasidėjo baisūs Krimo totorių puolimai; ypač jie puolė Kijevo, Podolės ir Galicijos sritis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65321
+    - t-001

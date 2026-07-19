@@ -36,8 +36,7 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
 ## Teiginiai
 
 <a id="claim-t-90366"></a>
-- t-001
-  global_id: t-90366
+- t-003
   teiginys: "1294 m. žiemą viena Ordino kariuomenės dalis patraukė į Gaižuvos valsčių ir kartu su kita dalimi nusiaubė Gaižuvą bei Paštuvą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
     - c-86227
 
 <a id="claim-t-90367"></a>
-- t-002
-  global_id: t-90367
+- t-001
   teiginys: "Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir juos niokojo gaisrais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,10 +69,9 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86228
-    - c-002
+
 <a id="claim-t-90368"></a>
-- t-003
-  global_id: t-90368
+- t-004
   teiginys: "1294 m. žiemą magistras, atsisakęs žygio į Ariogalos valsčių, nukreipė dalį kariuomenės į Gaižuvos valsčių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -112,8 +109,7 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-90367
+
 ## Citatos
 
 - id: c-86227
@@ -134,8 +130,9 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90366
-    - t-90368
+    - t-003
+    - t-004
+
 - id: c-86228
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -151,18 +148,11 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
     neturėdami jėgų atsispirti tokiai daugybei priešų, irgi pasitraukė, tiesa, patyrę nemažų
     nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
     pavyko garbingai išvengti kovos.
-  citata_rodoma: |
-    Apie Paštuvos ir Gaižuvos valsčių apiplėšimą
-
-      Tuo metu  brolis Meinhardas, magistras, nesitenkindamas lietuviams  pridarytais
-    nuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius,
-    viską čia didžiausiais gaisrais niokodamas, tiesa,  į nelaisvę paėmė ir nužudė nedaug
-    žmonių, o grobio irgi mažai išsigabeno. Begrįžtantį jį persekiojo lietuviai ir kelis kartus
-    kapo esantis Pilies (Ramybės) kalnas (atrodo, XV a.
+  citata_rodoma: "Apie Paštuvos ir Gaižuvos valsčių apiplėšimą\n\n  Tuo metu  brolis Meinhardas, magistras, nesitenkindamas lietuviams  pridarytais\nnuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius,\nviską čia didžiausiais gaisrais niokodamas, tiesa,  į nelaisvę paėmė ir nužudė nedaug\nžmonių, o grobio irgi mažai išsigabeno. Begrįžtantį jį persekiojo lietuviai ir kelis kartus\nkapo esantis Pilies (Ramybės) kalnas (atrodo, XV a."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90367
+    - t-001

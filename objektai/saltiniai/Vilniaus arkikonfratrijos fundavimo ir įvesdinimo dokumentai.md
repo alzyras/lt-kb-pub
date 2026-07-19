@@ -40,7 +40,6 @@ Išlikę dokumentai, iš įvairių rankų gauti, tai patikina.
 
 <a id="claim-t-88486"></a>
 - t-001
-  global_id: t-88486
   teiginys: "Vilniaus arkikonfratrija buvo funduota 1573 m. vasario 3 d., o iškilmingai įvesdinta tų pačių metų lapkričio 27 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Išlikę dokumentai, iš įvairių rankų gauti, tai patikina.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88486
+    - t-001

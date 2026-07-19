@@ -31,7 +31,6 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 
 <a id="claim-t-87867"></a>
 - t-001
-  global_id: t-87867
   teiginys: "Tadas Lipinskis kartu su Michału Balińskiu parengė tris „Senovės Lenkijos“ tomus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,25 +52,18 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    Balinskis pa­
+    M. Balinskis pa­
     liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­
     čiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos
     istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys
     tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­
     rašymui. Šiame darbe suregistruoti LDK miestai ir miesteliai,
     jų geografinė padėtis, trumpa istorinė apžvalga.
-  citata_rodoma: |
-    Balinskis pa­
-    liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­
-    čiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos
-    istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys
-    tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­
-    rašymui. Šiame darbe suregistruoti LDK miestai ir miesteliai,
-    jų geografinė padėtis, trumpa istorinė apžvalga.
+  citata_rodoma: "Balinskis pa­\nliko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­\nčiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos \nistorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys \ntomai, kurių vienas skirtas LDK istoriniam topografiniam ap­\nrašymui. Šiame darbe suregistruoti LDK miestai ir miesteliai, \njų geografinė padėtis, trumpa istorinė apžvalga."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87867
+    - t-001

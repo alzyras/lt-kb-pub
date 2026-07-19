@@ -41,8 +41,7 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
 ## Teiginiai
 
 <a id="claim-t-54651"></a>
-- t-001
-  global_id: t-54651
+- t-002
   teiginys: "Vytauto Berenio „Provincialų dialogai apie žemaičių tautą“ nurodyti žurnalo „Metai“ 1995 m. 4 numeryje, p. 128."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::authors"
@@ -61,8 +60,7 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
     - c-55557
 
 <a id="claim-t-54652"></a>
-- t-002
-  global_id: t-54652
+- t-001
   teiginys: "Vytautas Berenis yra teksto „Mykolas Balinskis - Vilniaus miesto istorikas“ autorius."
   atnaujinta: "2026-05-27 05:25"
   sprendimo_priezastis: "gap::authors"
@@ -76,18 +74,6 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55558
-
-<a id="claim-t-188487"></a>
-- t-003
-  global_id: t-188487
-  teiginys: 'Vytautas Berenis Teodorą Narbutą pavadino lietuvių mitologijos tėvu ir nepagydomu svajotoju bei romantiku.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas subjektas Vytautas Berenis ir jo vertinamasis apibūdinimas apie Teodorą Narbutą. Vertinimas paliktas kaip Berenio formuluotė, nepridedant platesnio konteksto.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_place: Viena'
-  pagrindžia:
-    - c-003
 - susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais.
 - susijęs iš Vytauto Berenio ir Norberto Vėliaus įvadiniai straipsniai Teodoro Narbuto LTI leidinyje: Įvadiniuose straipsniuose Vytautas Berenis ir Norbertas Vėlius išsamiai aptarė „Lietuvių mitologijai“ tekusią mokslinę kritiką.
 - susijęs iš [[objektai/asmenys/Tadas Kosciuška.md#claim-t-82740|Tadas Kosciuška]]: Tadas Kosciuška mėgino gelbėti Lenkijos-Lietuvos valstybę jos žlugimo išvakarėse.
@@ -121,11 +107,9 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
     tikas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188487
+  statusas: verified
 ## Citatos
 
 - id: c-55557
@@ -137,16 +121,15 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
     12 Kirkoras A. H. Pasivaikščiojimai po Vilnių ir jo apylinkes, V., 1991, p. 17.
     13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,
     p. 128.
-  citata_rodoma: |
-    13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,
-    p. 128.
+  citata_rodoma: "13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,\np. 128."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54651
+    - t-002
+
 - id: c-55558
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -163,14 +146,11 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
     lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų
     bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
     gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
-  citata_rodoma: |
-    Vytautas Berenis
-    Mykolas Balinskis -
-    Vilniaus miesto istorikas
+  citata_rodoma: "Vytautas Berenis\nMykolas Balinskis - \nVilniaus miesto istorikas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54652
+    - t-001

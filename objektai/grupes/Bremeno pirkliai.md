@@ -46,7 +46,6 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
 
 <a id="claim-t-55060"></a>
 - t-001
-  global_id: t-55060
   teiginys: "Bremeno pirkliai 1158 m. atrado Dauguvos žiotis ir užmezgė vokiečių prekybinius ryšius su tenykščiu pamariu."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::groups"
@@ -67,7 +66,6 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
 
 <a id="claim-t-55061"></a>
 - t-002
-  global_id: t-55061
   teiginys: "Apie 1192 m. kolonija iš Bremeno, regis, įkūrė Rygą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::groups"
@@ -87,7 +85,6 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
 
 <a id="claim-t-80802"></a>
 - t-003
-  global_id: t-80802
   teiginys: "Bremeno pirkliai 1158 metais atrado Dauguvos žiotis ir užmezgė vokiečių prekybinius ryšius su tenykščiu pamariu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
@@ -147,8 +144,9 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55060
-    - t-55061
-    - t-80802
+    - t-001
+    - t-002
+    - t-003
+
 ## Ryšiai
 - Bremeno pirkliai prekiavo su [[objektai/vietos/Pamaris]]

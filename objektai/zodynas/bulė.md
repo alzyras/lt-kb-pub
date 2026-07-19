@@ -38,7 +38,6 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos kar
 
 <a id="claim-t-58897"></a>
 - t-001
-  global_id: t-58897
   teiginys: "Popiežius Bonifacas pasiuntė Prancūzijos karaliui Pilypui priklausomybės reskriptą su bule."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos kar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58897
+    - t-001

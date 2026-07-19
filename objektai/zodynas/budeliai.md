@@ -31,7 +31,6 @@ Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime
 
 <a id="claim-t-185380"></a>
 - t-001
-  global_id: t-185380
   teiginys: "Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime
 
 <a id="claim-t-185381"></a>
 - t-002
-  global_id: t-185381
   teiginys: "Vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir kad Jogailos siųsti budeliai jau atvyko į Krėvą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -71,7 +69,6 @@ Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime
 
 <a id="claim-t-196366"></a>
 - t-003
-  global_id: t-196366
   teiginys: "Kojelavičius Kęstučio mirtį sieja su Jogailos kalte ir rašo, kad penktą naktį Jogailos pasiųsti budeliai jį pasmaugė Krėvos kalėjime."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -119,35 +116,16 @@ Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime
     miegamojo prižiūrėtojai Pro-
     kša, Bilgenis, Lisica ir kiti)
     Krėvos kalėjime jį pasmaugė.
-  citata_rodoma: |
-    Mat nei geros savijautos,
-    nei pasitikėjimo duotu žodžiu negali būti tada, kai,
-    susitarus dėl ko su priešu, šis nepaliauja galvojęs apie
-    naudą. Tą pačią naktį Jogaila, pamynęs draugystės bei
-    giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
-    tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį
-    liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­
-    taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­
-    gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o
-    dėl narsumo — Achilas, žuvo gimtajame krašte per
-    brolėno kaltę: penktą naktį
-    Jogailos
-    pasiųsti
-    budeliai
-    (žymiausi
-    iš
-    jų — valdovo
-    miegamojo prižiūrėtojai Pro-
-    kša, Bilgenis, Lisica ir kiti)
-    Krėvos kalėjime jį pasmaugė.
+  citata_rodoma: "Mat nei geros savijautos, \nnei pasitikėjimo duotu žodžiu negali būti tada, kai, \nsusitarus dėl ko su priešu, šis nepaliauja galvojęs apie \nnaudą. Tą pačią naktį Jogaila, pamynęs draugystės bei \ngiminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­\ntingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį \nliepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­\ntaip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­\ngų, dėl savo sumanumo tikras Lietuvos Odisėjas, o \ndėl narsumo — Achilas, žuvo gimtajame krašte per\nbrolėno kaltę: penktą naktį \nJogailos \npasiųsti \nbudeliai \n(žymiausi \niš \njų — valdovo \nmiegamojo prižiūrėtojai Pro- \nkša, Bilgenis, Lisica ir kiti) \nKrėvos kalėjime jį pasmaugė."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185380
-    - t-196366
+    - t-001
+    - t-003
+
 - id: c-168742
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -168,24 +146,11 @@ Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime
     gresianti mirtis, pridurdamas,
     kad Jogailos siųsti budeliai
     jau atvyko į Krėvą.
-  citata_rodoma: |
-    Ši
-    aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­
-    vę: dažnai juk likimą lemia menkų menkiausios prie­
-    žastys. Vienas sargybinis kar­
-    tą įspėjo Oną, jog Vytautui
-    gresianti mirtis, pridurdamas,
-    kad Jogailos siųsti budeliai
-    jau atvyko į Krėvą. Žmona
-    apie viską pranešė vyrui ir
-    patarė apsirengus merginos drabužiais apgauti sargy­
-    binius ir pasprukti iš priešo rankų ir nuo tikros mir­
-    ties: draugai jau, girdi, parūpinę visko, kas reikalinga
-    bėgliui.
+  citata_rodoma: "Ši\naplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­\nvę: dažnai juk likimą lemia menkų menkiausios prie­\nžastys. Vienas sargybinis kar­\ntą įspėjo Oną, jog Vytautui\ngresianti mirtis, pridurdamas,\nkad Jogailos siųsti budeliai\njau atvyko į Krėvą. Žmona\napie viską pranešė vyrui ir\npatarė apsirengus merginos drabužiais apgauti sargy­\nbinius ir pasprukti iš priešo rankų ir nuo tikros mir­\nties: draugai jau, girdi, parūpinę visko, kas reikalinga\nbėgliui."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185381
+    - t-002

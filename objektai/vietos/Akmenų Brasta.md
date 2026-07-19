@@ -31,7 +31,6 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
 
 <a id="claim-t-32037"></a>
 - t-001
-  global_id: t-32037
   teiginys: "Melno sutarties siena senojoje jotvingių žemėje prasidėjo nuo Akmenų Brastos Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,15 +60,11 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
     Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau
     Grajevo ir Točilovo ežerų. Šiauriau ji kilo stačiai per tyrus į pu­
     siau dalinamą Raigardo ežerą.
-  citata_rodoma: |
-    Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų
-    Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau
-    Grajevo ir Točilovo ežerų. Šiauriau ji kilo stačiai per tyrus į pu­
-    siau dalinamą Raigardo ežerą.
+  citata_rodoma: "Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų\nBrastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau\nGrajevo ir Točilovo ežerų. Šiauriau ji kilo stačiai per tyrus į pu­\nsiau dalinamą Raigardo ežerą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32037
+    - t-001

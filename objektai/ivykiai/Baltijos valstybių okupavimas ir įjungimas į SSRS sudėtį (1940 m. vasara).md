@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20168"></a>
 - t-001
-  global_id: t-20168
   teiginys: "1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją ir per kelias savaites įjungė jas į SSRS sudėtį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,12 +93,11 @@ Nenurodyta
     vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
     tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
     ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
-  citata_rodoma: |
-    vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
+  citata_rodoma: "vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20168
+    - t-001

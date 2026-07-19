@@ -27,29 +27,6 @@ media_all_json: |-
 
 Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas neprieinamas kalnas, į kurį turėjo kopti vėlės.
 
-## Teiginiai
-
-<a id="claim-t-189274"></a>
-- t-001
-  global_id: t-189274
-  teiginys: "Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas neprieinamas kalnas, į kurį turėjo kopti vėlės."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Žirgai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Anapilis Anafielas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Žirgai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Anapilis Anafielas\" parinktas kaip owner_note_path. Targetas \"Žirgai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172162
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas neprieinamas kalnas, į kurį turėjo kopti vėlės.'
@@ -65,8 +42,7 @@ Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas nepriei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189274
+
 ## Citatos
 
 - id: c-172162
@@ -89,16 +65,33 @@ Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas nepriei
     išplatintų šventąjį tikėjimą per krikščionis, persekiojamus trė­
     mimo bausmės ir savo noru bėgančius į tolimas ir nežinomas
     šalis, kad išvengtų persekiojimo“.
-  citata_rodoma: |
-    Padavimų apie pobūvio vietą po mirties būta tokių . Yra
-    labai aukštas kalnas, stati neprieinama uola, vadinama Ana­
-    piliu (Anafielas), į kurią vėlės turėjo kopti. Todėl reikėjo ilgų
-    žmonių, žvėrių nagų, ginklų, žirgų ir 1.1., kad būtų galima grei­
-    čiau į ją įkopti.
+  citata_rodoma: "Padavimų apie pobūvio vietą po mirties būta tokių . Yra\nlabai aukštas kalnas, stati neprieinama uola, vadinama Ana­\npiliu (Anafielas), į kurią vėlės turėjo kopti. Todėl reikėjo ilgų\nžmonių, žvėrių nagų, ginklų, žirgų ir 1.1., kad būtų galima grei­\nčiau į ją įkopti."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189274
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-189274"></a>
+- t-001
+  teiginys: "Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas neprieinamas kalnas, į kurį turėjo kopti vėlės."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Žirgai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Anapilis Anafielas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Žirgai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Anapilis Anafielas\" parinktas kaip owner_note_path. Targetas \"Žirgai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172162

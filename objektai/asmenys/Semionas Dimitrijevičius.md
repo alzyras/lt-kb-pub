@@ -27,21 +27,6 @@ media_all_json: |-
 
 KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas su Jogailai užsuko į Drucką2 ir pietavo pas Drucko kunigaikštį Semioną Dimitrijevičių3 .
 
-## Teiginiai
-
-<a id="claim-t-194103"></a>
-- t-001
-  global_id: t-194103
-  teiginys: "KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas su Jogailai užsuko į Drucką2 ir pietavo pas Drucko kunigaikštį Semioną Dimitrijevičių3 ."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176716
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal '', |Vytautas su Jogailai užsuko į Drucką2 ir pietavo pas Drucko kunigaikštį Semioną Dimitrijevičių3 .'
@@ -58,8 +43,7 @@ KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194103
+
 ## Citatos
 
 - id: c-176716
@@ -67,23 +51,31 @@ KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    APIE TAI. KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ
-    ŽMONĄ
-    Grįždami atgal ', |Vytautas su Jogailai užsuko į
-    Drucką2  ir pietavo pas Drucko kunigaikštį Semioną
-    Dimitrijevičių3 . O karaliui Jogailai jau trečia žmona
-    buvo mirusi, nepalikdama įpėdinio4 .
-  citata_rodoma: |
-    APIE TAI. KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ
-    ŽMONĄ
-    Grįždami atgal ', |Vytautas su Jogailai užsuko į
-    Drucką2  ir pietavo pas Drucko kunigaikštį Semioną
-    Dimitrijevičių3 . O karaliui Jogailai jau trečia žmona
-    buvo mirusi, nepalikdama įpėdinio4 .
+    Maskvos didysis kunigaikštis, išgirdęs apie tai, pa­
+    siuntė pas savo uošvį, didįjį kunigaikštį Vytautą, pa­
+    siuntinius, sakydamas jam: „Valdove, didysis kuni­
+    gaikšti Vytautai! Tu man — kaip tėvas, ir nepyk ant
+    manęs. Aš nekaltas dėl to, ką blogi žmonės padarė be
+    mano žinios.
+  citata_rodoma: "APIE TAI. KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ \nŽMONĄ\nGrįždami atgal ', |Vytautas su Jogailai užsuko į \nDrucką2  ir pietavo pas Drucko kunigaikštį Semioną \nDimitrijevičių3 . O karaliui Jogailai jau trečia žmona \nbuvo mirusi, nepalikdama įpėdinio4 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194103
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-194103"></a>
+- t-001
+  teiginys: "KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas su Jogailai užsuko į Drucką2 ir pietavo pas Drucko kunigaikštį Semioną Dimitrijevičių3 ."
+  atnaujinta: "2026-07-19 17:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-176716

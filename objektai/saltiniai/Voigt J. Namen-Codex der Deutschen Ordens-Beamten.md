@@ -34,21 +34,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad voigt J.
 
-## Teiginiai
-
-<a id="claim-t-61354"></a>
-- t-001
-  global_id: t-61354
-  teiginys: "J. Voigto „Namen-Codex der Deutschen Ordens-Beamten“ išleistas Karaliaučiuje 1843 m."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1843 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia leidinio pavadinimą, vietą ir metus."
-  pagrindžia:
-    - c-61986
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Voigto „Namen-Codex der Deutschen Ordens-Beamten“ išleistas Karaliaučiuje 1843 m.'
@@ -62,8 +47,7 @@ Dusburgietis teigia, kad voigt J.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61354
+
 ## Citatos
 
 - id: c-61986
@@ -76,13 +60,25 @@ Dusburgietis teigia, kad voigt J.
     Baltistica, 1980, 16(1), р. 19—24.
     Пашуто В. Т. Помезания: «Помезанская правда» как исторический источник
     изучения общественного и политического строя Помезании XIII—XIV вв.
-  citata_rodoma: |
-    Voigt J. Namen-Codex der Deutschen Ordens-Beamten — Königsberg, 1843.
-      Wojtecki D.
+  citata_rodoma: "Voigt J. Namen-Codex der Deutschen Ordens-Beamten — Königsberg, 1843.\n  Wojtecki D."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61354
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-61354"></a>
+- t-001
+  teiginys: "J. Voigto „Namen-Codex der Deutschen Ordens-Beamten“ išleistas Karaliaučiuje 1843 m."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1843 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia leidinio pavadinimą, vietą ir metus."
+  pagrindžia:
+    - c-61986

@@ -32,7 +32,6 @@ Tokiai didelei Vytauto valstybei anais laikais galėjo prilygti tik Vokiečiu im
 
 <a id="claim-t-35715"></a>
 - t-001
-  global_id: t-35715
   teiginys: "Liuksemburgiečių dinastija valdė Vokiečių imperiją, kuri dydžiu galėjo prilygti Vytauto valstybei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,17 +62,11 @@ Tokiai didelei Vytauto valstybei anais laikais galėjo prilygti tik Vokiečiu im
     kaip Lietuva. Taigi Vytauto laiką didžiajai Lietuvos kunigaikšti­
     jai galėjo visai tikti imperijos, o jos valdovui Vytautui — impe­
     ratoriaus vardas.
-  citata_rodoma: |
-    Tokiai didelei Vytauto valstybei anais laikais
-    galėjo prilygti tik Vokiečiu imperija, Liuksemburgiečiu di­
-    nastijos valdoma, bet ji valdžios atžvilgiu nebuvo tiek vieninga,
-    kaip Lietuva. Taigi Vytauto laiką didžiajai Lietuvos kunigaikšti­
-    jai galėjo visai tikti imperijos, o jos valdovui Vytautui — impe­
-    ratoriaus vardas.
+  citata_rodoma: "Tokiai didelei Vytauto valstybei anais laikais\ngalėjo prilygti tik Vokiečiu imperija, Liuksemburgiečiu di­\nnastijos valdoma, bet ji valdžios atžvilgiu nebuvo tiek vieninga,\nkaip Lietuva. Taigi Vytauto laiką didžiajai Lietuvos kunigaikšti­\njai galėjo visai tikti imperijos, o jos valdovui Vytautui — impe­\nratoriaus vardas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35715
+    - t-001

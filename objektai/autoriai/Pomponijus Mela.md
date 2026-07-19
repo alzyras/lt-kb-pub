@@ -30,7 +30,6 @@ Teodoro Narbuto pasakojime Pomponijus Mela tvirtino, kad Konstanco ežeras buvo 
 
 <a id="claim-t-191551"></a>
 - t-001
-  global_id: t-191551
   teiginys: "Teodoro Narbuto pasakojime Pomponijus Mela tvirtino, kad Konstanco ežeras buvo vadinamas Venedų ežeru."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Teodoro Narbuto pasakojime Pomponijus Mela tvirtino, kad Konstanco ežeras buvo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191551
+    - t-001

@@ -32,7 +32,6 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
 
 <a id="claim-t-192964"></a>
 - t-001
-  global_id: t-192964
   teiginys: "Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio ir šiauresnių kraštų į pietus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
 
 <a id="claim-t-197525"></a>
 - t-002
-  global_id: t-197525
   teiginys: "Kaip tik tuo metu vyko didelis germanų genčių kraustymasis: vandalai, tiuringiai, gepidai, longobarda!"
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192964
+    - t-001
+
 - id: c-179231
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -123,6 +122,7 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197525
+    - t-002
+
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Gotai]]

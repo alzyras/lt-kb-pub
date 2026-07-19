@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-22357"></a>
 - t-001
-  global_id: t-22357
   teiginys: "Žyniai, vaidilos ir raganos turėjo sergėti „pirmines“ šventvietes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ media_all_json: |-
 
 <a id="claim-t-183487"></a>
 - t-002
-  global_id: t-183487
   teiginys: "„Pirmines“ šventvietes turėjo sergėti žyniai, vaidilos arba raganos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -78,15 +76,15 @@ media_all_json: |-
     pilna Laumės ar Laimės vardų. Šias „pirmines“ šventvietes turėjo sergėti
     žyniai (manoma, pavadinimas kilęs nuo žodžio „žinoti“), vaidilos ar ra-
     ganos („regėti“).
-  citata_rodoma: |
-    žyniai (manoma, pavadinimas kilęs nuo žodžio „žinoti“), vaidilos ar ra-
+  citata_rodoma: "žyniai (manoma, pavadinimas kilęs nuo žodžio „žinoti“), vaidilos ar ra-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22357
+    - t-001
+
 - id: c-166881
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -106,4 +104,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183487
+    - t-002

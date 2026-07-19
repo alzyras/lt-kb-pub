@@ -32,7 +32,6 @@ Narbuto perteikiamose šiaurinėse sagose Heiraudo dukra Heiridė ištekėjo už
 
 <a id="claim-t-191411"></a>
 - t-001
-  global_id: t-191411
   teiginys: "Narbuto perteikiamose šiaurinėse sagose Heiraudo dukra Heiridė ištekėjo už norvego Augmundo ir kraičiu gavo nemažą Rusios valdą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,8 @@ Narbuto perteikiamose šiaurinėse sagose Heiraudo dukra Heiridė ištekėjo už
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191411
+    - t-001
+
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Augmundas]]
 - Sutuoktiniai: [[objektai/asmenys/Augmundas]]

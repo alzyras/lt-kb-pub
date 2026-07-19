@@ -39,8 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-97270"></a>
-- t-001
-  global_id: t-97270
+- t-002
   teiginys: "Augustinas Janulaitis „Napoleono teisyną“ paskelbė 1930 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-91754
 
 <a id="claim-t-97271"></a>
-- t-002
-  global_id: t-97271
+- t-001
   teiginys: "„Napoleono teisynas“ buvo išleistas 1930 m."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -99,5 +97,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97270
-    - t-97271
+    - t-002
+    - t-001

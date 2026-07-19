@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-88513"></a>
 - t-001
-  global_id: t-88513
   teiginys: "Švitrigailos dvaro maršalka buvo Mzusas, kuriam išduotas didžiojo kunigaikščio garantinis raštas saugotas Slaptajame archyve."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88513
+    - t-001

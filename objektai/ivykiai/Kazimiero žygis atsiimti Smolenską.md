@@ -45,8 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-199214"></a>
-- t-001
-  global_id: t-199214
+- t-002
   teiginys: "Lietuvos metraščio pasakojime Kazimiero Tarybos ponai su kariuomene tris savaites stovėjo prie Smolensko, bet miesto neįveikė."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -59,8 +58,7 @@ Nenurodyta
     - c-181703
 
 <a id="claim-t-199215"></a>
-- t-002
-  global_id: t-199215
+- t-003
   teiginys: "Lietuvos metraščio pasakojime Kazimiero Tarybos ponai prie Smolensko neįveikė miesto, sudegino priemiesčius bei vienuolynus ir išsivedė belaisvių."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -73,8 +71,7 @@ Nenurodyta
     - c-181703
 
 <a id="claim-t-199216"></a>
-- t-003
-  global_id: t-199216
+- t-005
   teiginys: "Lietuvos metraščio pasakojime Kazimieras vėl perdavė Smolensko valdymą Andriui Sakavičiui ir išvyko į Vilnių."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -85,10 +82,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181702
-    - c-169907
+
 <a id="claim-t-199217"></a>
 - t-004
-  global_id: t-199217
   teiginys: "Lietuvos metraščio pasakojime Kazimieras tą patį rudenį atsiėmė Smolenską, o Jurgis Lengvenaitis pabėgo į Didįjį Naugardą."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -99,10 +95,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181702
-    - c-169907
+
 <a id="claim-t-199218"></a>
-- t-005
-  global_id: t-199218
+- t-001
   teiginys: "Lietuvos metraščio pasakojime Kazimieras, pats vadovaudamas Lietuvos pajėgoms, atsiėmė Smolenską."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -113,10 +108,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181702
-    - c-169907
+
 <a id="claim-t-199219"></a>
 - t-006
-  global_id: t-199219
   teiginys: "Lietuvos metraščio pasakojime Kazimieras tą patį rudenį sutelkė Lietuvos pajėgas, pats vadovavo žygiui prie Smolensko ir miestą atsiėmė."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -127,7 +121,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181702
-    - c-169907
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -152,30 +146,18 @@ Nenurodyta
     Ir didysis kunigaikštis vėl perduoda Smolensko val­
     dymą Andriui Sakavičiui ir išvyksta atgal į Vilnių, sa­
     vo sostinę.
-  citata_rodoma: |
-    Tarybos ponai su kariuomene prastovėjo prie
-    Smolensko tris savaites8  ir miesto niekaip neįveikė,
-    o priemiesčius bei vienuolynus sudegino, daug žmonių
-    išsivedė į nelaisvę ir, pralieję nemaža krikščionių krau­
-    jo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą.
-    Didysis kunigaikštis Kazimieras, sutelkęs visas savo
-    Lietuvos pajėgas, tą patį rudenį atėjo prie Smolensko,
-    pats vadovaudamas, ir atsiėmė Smolenską9 , o kuni­
-    gaikštis Jurgis Lengvenaitis, bijodamas Kazimiero rūs­
-    tybės, su kunigaikštiene pabėgo į Didįjį Naugardą l0 .
-    Ir didysis kunigaikštis vėl perduoda Smolensko val­
-    dymą Andriui Sakavičiui ir išvyksta atgal į Vilnių, sa­
-    vo sostinę.
+  citata_rodoma: "Tarybos ponai su kariuomene prastovėjo prie \nSmolensko tris savaites8  ir miesto niekaip neįveikė, \no priemiesčius bei vienuolynus sudegino, daug žmonių \nišsivedė į nelaisvę ir, pralieję nemaža krikščionių krau­\njo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą.\nDidysis kunigaikštis Kazimieras, sutelkęs visas savo \nLietuvos pajėgas, tą patį rudenį atėjo prie Smolensko, \npats vadovaudamas, ir atsiėmė Smolenską9 , o kuni­\ngaikštis Jurgis Lengvenaitis, bijodamas Kazimiero rūs­\ntybės, su kunigaikštiene pabėgo į Didįjį Naugardą l0 .\nIr didysis kunigaikštis vėl perduoda Smolensko val­\ndymą Andriui Sakavičiui ir išvyksta atgal į Vilnių, sa­\nvo sostinę."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199216
-    - t-199217
-    - t-199218
-    - t-199219
+    - t-005
+    - t-004
+    - t-001
+    - t-006
+
 - id: c-181703
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -194,52 +176,12 @@ Nenurodyta
     o priemiesčius bei vienuolynus sudegino, daug žmonių
     išsivedė į nelaisvę ir, pralieję nemaža krikščionių krau­
     jo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą.
-  citata_rodoma: |
-    Ir tuomet pargrįžo bajorai nuo
-    kunigaikščio Kazimiero; o jisai vieniems iš jų nukirto
-    galvas, kitus suėmęs sukaustė, visus jų turtus atėmė ir
-    išdalijo savo bajorams, ir panūdo būti nepriklausamas
-    nuo didžiojo kunigaikščio Kazimiero.
-    Kunigaikščiui Kazimierui to buvo labai gaila, ir jis
-    siunčia prieš Smolenską savo Tarybos ponus su kariuo­
-    mene. Tarybos ponai su kariuomene prastovėjo prie
-    Smolensko tris savaites8  ir miesto niekaip neįveikė,
-    o priemiesčius bei vienuolynus sudegino, daug žmonių
-    išsivedė į nelaisvę ir, pralieję nemaža krikščionių krau­
-    jo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą.
+  citata_rodoma: "Ir tuomet pargrįžo bajorai nuo \nkunigaikščio Kazimiero; o jisai vieniems iš jų nukirto \ngalvas, kitus suėmęs sukaustė, visus jų turtus atėmė ir \nišdalijo savo bajorams, ir panūdo būti nepriklausamas \nnuo didžiojo kunigaikščio Kazimiero.\nKunigaikščiui Kazimierui to buvo labai gaila, ir jis \nsiunčia prieš Smolenską savo Tarybos ponus su kariuo­\nmene. Tarybos ponai su kariuomene prastovėjo prie \nSmolensko tris savaites8  ir miesto niekaip neįveikė, \no priemiesčius bei vienuolynus sudegino, daug žmonių \nišsivedė į nelaisvę ir, pralieję nemaža krikščionių krau­\njo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199214
-    - t-199215
-- id: c-169907
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Tarybos ponai su kariuomene prastovėjo prie
-    Smolensko tris savaites8  ir miesto niekaip neįveikė,
-    o priemiesčius bei vienuolynus sudegino, daug žmonių
-    išsivedė į nelaisvę ir, pralieję nemaža krikščionių krau­
-    jo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą.
-    Didysis kunigaikštis Kazimieras, sutelkęs visas savo
-    Lietuvos pajėgas, tą patį rudenį atėjo prie Smolensko,
-    pats vadovaudamas, ir atsiėmė Smolenską9 , o kuni­
-    gaikštis Jurgis Lengvenaitis, bijodamas Kazimiero rūs­
-    tybės, su kunigaikštiene pabėgo į Didįjį Naugardą l0 .
-    Ir didysis kunigaikštis vėl perduoda Smolensko val­
-    dymą Andriui Sakavičiui ir išvyksta atgal į Vilnių, sa­
-    vo sostinę.
-  citata_rodoma: "Didysis kunigaikštis Kazimieras, sutelkęs visas savo\nLietuvos pajėgas, tą patį rudenį atėjo prie Smolensko,\npats vadovaudamas, ir atsiėmė Smolenską9 , o kuni­\ngaikštis Jurgis Lengvenaitis, bijodamas Kazimiero rūs­\ntybės, su kunigaikštiene pabėgo į Didįjį Naugardą l0 .\nIr didysis kunigaikštis vėl perduoda Smolensko val­\ndymą Andriui Sakavičiui ir išvyksta atgal į Vilnių, sa­\nvo sostinę."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-199216
-    - t-199217
-    - t-199218
-    - t-199219
+    - t-002
+    - t-003

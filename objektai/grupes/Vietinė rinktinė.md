@@ -39,8 +39,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
 ## Teiginiai
 
 <a id="claim-t-66256"></a>
-- t-001
-  global_id: t-66256
+- t-005
   teiginys: "1944 m. kovo mėn. Vietinėje rinktinėje buvo paskirtas 310-ojo bataliono vadas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     - c-66563
 
 <a id="claim-t-66257"></a>
-- t-002
-  global_id: t-66257
+- t-003
   teiginys: "Vietinės rinktinės daliniai Vilnijoje susidūrė su ginkluotais lenkų Armijos Krajovos daliniais."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     - c-22801
 
 <a id="claim-t-66258"></a>
-- t-003
-  global_id: t-66258
+- t-002
   teiginys: "Vietinės rinktinės kariai neketino kariauti Vokietijos pusėje ir ėmė skirstytis su ginklais bei amunicija."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -94,8 +91,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     - c-22800
 
 <a id="claim-t-66259"></a>
-- t-004
-  global_id: t-66259
+- t-001
   teiginys: "Vokiečių valdžia pritarė lietuvių siūlymui sukurti Vietinę rinktinę, vadovaujamą lietuvių karininkų ir veikiančią tik Lietuvoje."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -111,8 +107,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     - c-22799
 
 <a id="claim-t-66260"></a>
-- t-005
-  global_id: t-66260
+- t-004
   teiginys: "Vokiečiams pamėginus priversti Vietinės rinktinės karius vykti į Rytų frontą, šie ginkluoti skirstėsi namo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,7 +125,6 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
 
 <a id="claim-t-183193"></a>
 - t-006
-  global_id: t-183193
   teiginys: "Vokiečiai pareikalavo, kad Vietinė rinktinė taptų jiems pavaldi."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -150,7 +144,6 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
 
 <a id="claim-t-193565"></a>
 - t-007
-  global_id: t-193565
   teiginys: "Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -181,7 +174,8 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66259
+    - t-001
+
 - id: c-22800
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -191,16 +185,15 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     kvietimą atsiliepė 20 tūkst. savanorių, į dalinius priimta 10 tūkst. vyrų. Vo-
     kiečiai pareikalavo, kad rinktinė taptų jiems pavaldi. Lietuvių kariai neke-
     tino kariauti Vokietijos pusėje ir su ginklais bei amunicija ėmė skirstytis.
-  citata_rodoma: |
-    Lietuvių kariai neke-
-    tino kariauti Vokietijos pusėje ir su ginklais bei amunicija ėmė skirstytis.
+  citata_rodoma: "Lietuvių kariai neke-\ntino kariauti Vokietijos pusėje ir su ginklais bei amunicija ėmė skirstytis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66258
+    - t-002
+
 - id: c-22801
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -213,17 +206,15 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į
     Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais
     lenkų Armija Krajova daliniais.
-  citata_rodoma: |
-    Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į
-    Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais
-    lenkų Armija Krajova daliniais.
+  citata_rodoma: "Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į\nVilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais\nlenkų Armija Krajova daliniais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66257
+    - t-003
+
 - id: c-42976
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -238,20 +229,15 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     skirstėsi namo. Traukiantis, vieno
     susišaudymo metu, A. Slučka buvo “
     vokiečių sužeistas.
-  citata_rodoma: |
-    Vokiečiams pamėginus
-    priversti Vietinės rinktinės karius
-    vykti į Rytų frontą, šie apsiginklavę
-    skirstėsi namo. Traukiantis, vieno
-    susišaudymo metu, A. Slučka buvo “
-    vokiečių sužeistas.
+  citata_rodoma: "Vokiečiams pamėginus\npriversti Vietinės rinktinės karius\nvykti į Rytų frontą, šie apsiginklavę\nskirstėsi namo. Traukiantis, vieno\nsusišaudymo metu, A. Slučka buvo “\nvokiečių sužeistas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66260
+    - t-004
+
 - id: c-66563
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -268,7 +254,8 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66256
+    - t-005
+
 - id: c-166580
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -285,7 +272,8 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183193
+    - t-006
+
 - id: c-176244
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -304,4 +292,4 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193565
+    - t-007

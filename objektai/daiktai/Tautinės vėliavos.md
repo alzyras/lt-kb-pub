@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-19602"></a>
 - t-001
-  global_id: t-19602
   teiginys: "Nuo septintojo dešimtmečio iki okupacijos pabaigos neformalių jaunimo grupių nariai keldavo tautines vėliavas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,12 +81,11 @@ Nenurodyta
     santvarką nukreiptus atsišaukimus, keldavo tautines vėliavas, minėdavo
     tautines šventes, viešose vietose piešdavo tautinio valstybingumo simbo-
     lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės.
-  citata_rodoma: |
-    lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės.
+  citata_rodoma: "lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19602
+    - t-001

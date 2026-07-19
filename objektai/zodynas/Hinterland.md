@@ -47,7 +47,6 @@ geografinė sąvoka / paaiškinamasis vokiškas terminas.
 
 <a id="claim-t-192219"></a>
 - t-001
-  global_id: t-192219
   teiginys: "Narbutas Natangijos pavadinimą aiškina vartodamas terminą `Hinterland`."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -64,8 +63,7 @@ geografinė sąvoka / paaiškinamasis vokiškas terminas.
     - c-175072
 
 <a id="claim-t-192561"></a>
-- t-002
-  global_id: t-192561
+- t-003
   teiginys: "Narbutas nurodo nuomonę, kad Natangija galėjo reikšti užpakalinį arba galinį kraštą, Hinterland."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -96,16 +94,12 @@ geografinė sąvoka / paaiškinamasis vokiškas terminas.
     kia užpakalinį, galinį kraštą, Hinterland, nes jis plyti už
     anksčiau aprašytų2. Panašiau į tikrovę tai, jog buvusi
     atskirą kartą sudaranti gentis, vadinama natangais.
-  citata_rodoma: |
-    Mokslininkai tyrinėtojai nesu­
-    taria dėl šio pavadinimo kilmės; manoma, kad tai reiš­
-    kia užpakalinį, galinį kraštą, Hinterland, nes jis plyti už
-    anksčiau aprašytų2.
+  citata_rodoma: "Mokslininkai tyrinėtojai nesu­\ntaria dėl šio pavadinimo kilmės; manoma, kad tai reiš­\nkia užpakalinį, galinį kraštą, Hinterland, nes jis plyti už\nanksčiau aprašytų2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192219
-    - t-192561
+    - t-001
+    - t-003

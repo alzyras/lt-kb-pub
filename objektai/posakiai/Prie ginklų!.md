@@ -41,8 +41,7 @@ Tai Vilniaus puolimo pradžią ženklinantis ir miestiečius mobilizuojantis ša
 ## Teiginiai
 
 <a id="claim-t-171566"></a>
-- t-001
-  global_id: t-171566
+- t-002
   teiginys: "Šūksnis „Prie ginklų!“ nuskambėjo Vilniuje kaip vilniečių raginimas pradėti puolimą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Tai Vilniaus puolimo pradžią ženklinantis ir miestiečius mobilizuojantis ša
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171566
+    - t-002

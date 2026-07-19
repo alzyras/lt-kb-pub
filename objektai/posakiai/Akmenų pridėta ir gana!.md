@@ -51,7 +51,6 @@ Juokaujanti formulė apie tariamai akmenimis prikrautą daiktą.
 
 <a id="claim-t-195433"></a>
 - t-001
-  global_id: t-195433
   teiginys: "Skrynios sunkumas aiškinamas formule apie pridėtus akmenis."
   atnaujinta: "2026-07-12 02:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -73,12 +72,11 @@ Juokaujanti formulė apie tariamai akmenimis prikrautą daiktą.
     „Niekaip
     kitaip,
     akmenų pridėta ir gana!“ dejuoja broliai.
-  citata_rodoma: |
-    „Niekaip kitaip, akmenų pridėta ir gana!“ dejuoja broliai.
+  citata_rodoma: "„Niekaip kitaip, akmenų pridėta ir gana!“ dejuoja broliai."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195433
+    - t-001

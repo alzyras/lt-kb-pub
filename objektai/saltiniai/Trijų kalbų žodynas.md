@@ -38,7 +38,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 
 <a id="claim-t-21286"></a>
 - t-001
-  global_id: t-21286
   teiginys: "„Trijų kalbų žodynas“ buvo Konstantino Sirvydo veikalas, pasirodęs 1620 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 
 <a id="claim-t-183385"></a>
 - t-002
-  global_id: t-183385
   teiginys: "Konstantino Sirvydo „Trijų kalbų žodynas“ (1620) lenkų kalbos žodžius aiškino lotyniškai, paskui lietuviškai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -82,15 +80,15 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     roko epochą, jų būta gerokai mažiau nei lenkiškų ar lotyniškų. Iškalbin-
     gas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“
     (1620).
-  citata_rodoma: |
-    gas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“
+  citata_rodoma: "gas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21286
+    - t-001
+
 - id: c-166778
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -110,4 +108,4 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183385
+    - t-002

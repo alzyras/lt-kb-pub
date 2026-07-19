@@ -39,7 +39,6 @@ Dorpato universiteto profesorius Kruzė Gotos bibliotekoje aptiko arabų geograf
 
 <a id="claim-t-191436"></a>
 - t-001
-  global_id: t-191436
   teiginys: "Dorpato universiteto profesorius Kruzė Gotos bibliotekoje aptiko arabų geografo Istachrio Abu Izaoko ai Farisi nubraižytų geografijos žemėlapių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Dorpato universiteto profesorius Kruzė Gotos bibliotekoje aptiko arabų geograf
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191436
+    - t-001

@@ -31,7 +31,6 @@ Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Nie�
 
 <a id="claim-t-32420"></a>
 - t-001
-  global_id: t-32420
   teiginys: "Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,17 +59,14 @@ Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Nie�
     Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
     Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos
     ėjo daugiausia per dykras bei miškų plotus be gyvenviečių.
-  citata_rodoma: |
-    Lietuvai atiteko žymi dalis
-    Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
-    Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos
-    ėjo daugiausia per dykras bei miškų plotus be gyvenviečių.
+  citata_rodoma: "Lietuvai atiteko žymi dalis\nŽemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.\nMelno dokumente sienų nebuvo galima tiksliai išvesti, nes jos\nėjo daugiausia per dykras bei miškų plotus be gyvenviečių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32420
+    - t-001
+
 ## Ryšiai
 - Niešavos kraštas (kraštas) priklausė [[objektai/vietos/Lenkija]]

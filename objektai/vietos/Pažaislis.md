@@ -31,7 +31,6 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 
 <a id="claim-t-193277"></a>
 - t-001
-  global_id: t-193277
   teiginys: "Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gražųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas Mykolas pastatė taip pat gražiausią Vilniuje barokinę šv."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193277
+    - t-001

@@ -37,8 +37,7 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 ## Teiginiai
 
 <a id="claim-t-74805"></a>
-- t-001
-  global_id: t-74805
+- t-003
   teiginys: "1940 m. liepos 11 d. Lietuvos šaulių sąjungos veikla buvo sustabdyta, o pati sąjunga nuginkluota."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
     - c-72814
 
 <a id="claim-t-74806"></a>
-- t-002
-  global_id: t-74806
+- t-001
   teiginys: "Lietuvos šaulių sąjunga priešinosi deryboms dėl Himanso plano, kuris Lietuvoje vertintas kaip lenkų Trojos arklys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
     - c-72813
 
 <a id="claim-t-74807"></a>
-- t-003
-  global_id: t-74807
+- t-004
   teiginys: "1940 m. liepos 6 d. buvo patvirtintas Lietuvos politinių partijų ir šaulių vadovybės operatyvinės likvidacijos planas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
     - c-72815
 
 <a id="claim-t-74808"></a>
-- t-004
-  global_id: t-74808
+- t-005
   teiginys: "Vokietijos ir Lenkijos karo metu Šaulių sąjunga ragino Lietuvos vyriausybę jėga atsiimti Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,8 +108,7 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
     - c-72811
 
 <a id="claim-t-74809"></a>
-- t-005
-  global_id: t-74809
+- t-002
   teiginys: "Vokietijos ir Lenkijos karo metu Šaulių sąjunga, voldemarininkai ir jaunieji tautininkai ragino vyriausybę jėga atsiimti Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,7 +128,6 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 
 <a id="claim-t-183169"></a>
 - t-006
-  global_id: t-183169
   teiginys: "Lietuvos šaulių sąjunga priešinosi deryboms dėl Himanso plano, kurį Lietuvoje ragino atmesti ir Vokietijos bei Rusijos diplomatai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -169,7 +163,8 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74808
+    - t-005
+
 - id: c-72812
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -183,15 +178,15 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
     nedetalizavo. O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
     kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
     riausybę jėga atsiimti Vilnių.
-  citata_rodoma: |
-    kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
+  citata_rodoma: "kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74809
+    - t-002
+
 - id: c-72813
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -205,15 +200,15 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
     matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
     vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
     Trojos arklys.
-  citata_rodoma: |
-    vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
+  citata_rodoma: "vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74806
+    - t-001
+
 - id: c-72814
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -224,15 +219,15 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
     kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
     liau – Raudonosios armijos 29-uoju šaulių korpusu). Liepos 11 dieną su-
     stabdyta Lietuvos šaulių sąjungos veikla, ji nuginkluota.
-  citata_rodoma: |
-    stabdyta Lietuvos šaulių sąjungos veikla, ji nuginkluota.
+  citata_rodoma: "stabdyta Lietuvos šaulių sąjungos veikla, ji nuginkluota."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74805
+    - t-003
+
 - id: c-72815
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -248,15 +243,15 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
     agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
     nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
     numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
-  citata_rodoma: |
-    departamento direktorius A. Sniečkus išleido įsakymą, leidžiantį suimti
+  citata_rodoma: "departamento direktorius A. Sniečkus išleido įsakymą, leidžiantį suimti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74807
+    - t-004
+
 - id: c-166556
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -274,4 +269,4 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183169
+    - t-006

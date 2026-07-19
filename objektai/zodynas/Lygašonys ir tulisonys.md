@@ -31,7 +31,6 @@ Lygašonis ir tulisonis Narbutas apibūdina kaip laidotuvių žynius, atlikdavus
 
 <a id="claim-t-189123"></a>
 - t-001
-  global_id: t-189123
   teiginys: "Lygašonis ir tulisonis Narbutas apibūdina kaip laidotuvių žynius, atlikdavusius apeigas ir pranašaudavusius mirusiojo sielos likimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Lygašonis ir tulisonis Narbutas apibūdina kaip laidotuvių žynius, atlikdavus
 
 <a id="claim-t-197373"></a>
 - t-002
-  global_id: t-197373
   teiginys: "Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lygašonys per laidotuves sakydavo kalbas, garbstydami mirusiojo žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai tą ant."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,8 @@ Lygašonis ir tulisonis Narbutas apibūdina kaip laidotuvių žynius, atlikdavus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189123
+    - t-001
+
 - id: c-179154
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -110,4 +109,4 @@ Lygašonis ir tulisonis Narbutas apibūdina kaip laidotuvių žynius, atlikdavus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197373
+    - t-002

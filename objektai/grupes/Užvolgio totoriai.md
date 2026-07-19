@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-34369"></a>
 - t-001
-  global_id: t-34369
   teiginys: "1424 m. Vytauto pasiųsta kariuomenė smarkiai sumušė Užvolgio totorius, vadovaujamus chano Chudandacho."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34369
+    - t-001

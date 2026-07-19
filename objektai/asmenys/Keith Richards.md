@@ -30,7 +30,6 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 
 <a id="claim-t-19063"></a>
 - t-001
-  global_id: t-19063
   teiginys: "Keith Richards grojo Tony’o Zemaicio sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,12 +76,11 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
     Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
     Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
     ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-  citata_rodoma: |
-    Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
+  citata_rodoma: "Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19063
+    - t-001

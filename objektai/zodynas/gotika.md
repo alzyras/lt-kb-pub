@@ -31,7 +31,6 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
 
 <a id="claim-t-22154"></a>
 - t-001
-  global_id: t-22154
   teiginys: "XIV a. pabaigoje Lietuvoje pradėjusi rastis gotika Europoje jau turėjo pusantro šimto metų tradiciją ir buvo pasiekusi brandųjį etapą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
 
 <a id="claim-t-22155"></a>
 - t-002
-  global_id: t-22155
   teiginys: "Gotikinės architektūros plitimą Lietuvoje pirmiausia paskatino valstybės krikštas ir Vytauto mūrinių bažnyčių statybos programa."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,15 +89,15 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
     veikė visas žmogaus kūrybinės veiklos sritis. Susiklostė atskirų Europos
     regionų gotikinio meno ypatumai, bene ryškiausiai matomi sakralinių
     pastatų architektūroje.
-  citata_rodoma: |
-    veikė visas žmogaus kūrybinės veiklos sritis. Susiklostė atskirų Europos
+  citata_rodoma: "veikė visas žmogaus kūrybinės veiklos sritis. Susiklostė atskirų Europos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22154
+    - t-001
+
 - id: c-24841
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -111,12 +109,11 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
     Gotikinės architektūros plitimą pirmiausia paskatino valstybės krikštas
     ir po jo pradėta įgyvendinti Vytauto mūrinių bažnyčių statybos programa
     (Vilniuje katedra, Šv.
-  citata_rodoma: |
-    Gotikinės architektūros plitimą pirmiausia paskatino valstybės krikštas
+  citata_rodoma: "Gotikinės architektūros plitimą pirmiausia paskatino valstybės krikštas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22155
+    - t-002

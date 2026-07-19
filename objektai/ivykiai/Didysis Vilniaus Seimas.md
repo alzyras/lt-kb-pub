@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-77881"></a>
 - t-001
-  global_id: t-77881
   teiginys: "Gavus valdžios sutikimą, Didysis Vilniaus Seimas vyko Vilniaus Miesto salėje gruodžio 4–5 dienomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +65,6 @@ Nenurodyta
 
 <a id="claim-t-77882"></a>
 - t-002
-  global_id: t-77882
   teiginys: "Didžiojo Vilniaus Seimo rezoliucijoje reikalauta suteikti Lietuvai autonomiją ir leisti Vilniuje turėti visuotiniu balsavimu renkamą Seimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,7 +105,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77881
+    - t-001
+
 - id: c-75199
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -125,4 +124,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77882
+    - t-002

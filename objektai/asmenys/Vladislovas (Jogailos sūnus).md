@@ -42,7 +42,6 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 
 <a id="claim-t-35320"></a>
 - t-001
-  global_id: t-35320
   teiginys: "1425 m. šlėkta pasirinko Jogailos sūnų Vladislovą būsimu valdovu ir karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 
 <a id="claim-t-35321"></a>
 - t-002
-  global_id: t-35321
   teiginys: "1425 m. Bresto seime lenkų didikai pripažino Jogailos sūnų Vladislovą sosto įpėdiniu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,8 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35321
+    - t-002
+
 - id: c-38140
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -112,15 +111,11 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
     tį Vladislovą, Jogailos sūnų, kaip būsimą savo valdovą, karalių
     „de speciali consilio et voluntate Vitoldi ipsiusque praelatorum,
     baronum ac militum“^2 ).
-  citata_rodoma: |
-    Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­
-    tį Vladislovą, Jogailos sūnų, kaip būsimą savo valdovą, karalių
-    „de speciali consilio et voluntate Vitoldi ipsiusque praelatorum,
-    baronum ac militum“^2 ).
+  citata_rodoma: "Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­\ntį Vladislovą, Jogailos sūnų, kaip būsimą savo valdovą, karalių\n„de speciali consilio et voluntate Vitoldi ipsiusque praelatorum,\nbaronum ac militum“^2 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35320
+    - t-001

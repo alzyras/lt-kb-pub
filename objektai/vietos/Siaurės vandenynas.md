@@ -30,7 +30,6 @@ Be jo kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel džiai S
 
 <a id="claim-t-194772"></a>
 - t-001
-  global_id: t-194772
   teiginys: "Be jo kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny no, gyveno ši tauta, garbinusi dangaus kūnus ."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Be jo kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel džiai S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194772
+    - t-001

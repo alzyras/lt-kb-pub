@@ -31,7 +31,6 @@ Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytp
 
 <a id="claim-t-193275"></a>
 - t-001
-  global_id: t-193275
   teiginys: "Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytprūsiais."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytp
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193275
+    - t-001

@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-87291"></a>
 - t-001
-  global_id: t-87291
   teiginys: "Apgultos tvirtovės gynėjai iškėlė vėliavas su kryžiais, rodydami, kad kovoja su pagonimis Vytauto gretose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,4 +96,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87291
+    - t-001

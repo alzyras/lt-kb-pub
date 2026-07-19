@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71784"></a>
-- t-001
-  global_id: t-71784
+- t-005
   teiginys: "Karūnos armija priklausė Lenkijos karalystei, o Lietuvos kariuomenė priklausė Lietuvos Didžiajai Kunigaikštystei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ Nenurodyta
     - c-43148
 
 <a id="claim-t-71785"></a>
-- t-002
-  global_id: t-71785
+- t-006
   teiginys: "Karūnos armija priklausė Lenkijos Karalystei, o Lietuvos kariuomenė – Lietuvos Didžiajai Kunigaikštystei, kuri nebuvo pavaldi provincija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +93,7 @@ Nenurodyta
     - c-43148
 
 <a id="claim-t-71786"></a>
-- t-003
-  global_id: t-71786
+- t-004
   teiginys: "Lietuvos kariuomenė buvo laikoma Karūnos armijos pagalbininke ir sąjungininke, o ne pavaldžia provincija."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -128,6 +125,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71784
-    - t-71785
-    - t-71786
+    - t-005
+    - t-006
+    - t-004

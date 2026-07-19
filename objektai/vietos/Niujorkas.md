@@ -36,8 +36,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 ## Teiginiai
 
 <a id="claim-t-68825"></a>
-- t-001
-  global_id: t-68825
+- t-002
   teiginys: "Lėktuvėliu „Lituanica“ buvo atliktas tiesioginis skrydis iš Niujorko į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     - c-68310
 
 <a id="claim-t-68826"></a>
-- t-002
-  global_id: t-68826
+- t-001
   teiginys: "1917 m. JAV įstojimas į karą suaktyvino daugiau kaip 300 000 lietuvių imigrantų, gyvenusių daugiausia Čikagoje, Niujorke ir Pensilvanijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,15 +114,15 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     skridę be nusileidimo 37 val. 11 minučių ir įveikę 6 411 km, antrą tuo
     metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katas-
     trofą tuometinėje Rytų Prūsijoje.
-  citata_rodoma: |
-    lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą. Nu-
+  citata_rodoma: "lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą. Nu-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68825
+    - t-002
+
 - id: c-68311
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -145,14 +143,14 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
     (Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos
     klausimą.
-  citata_rodoma: |
-    į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
+  citata_rodoma: "į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68826
+    - t-001
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

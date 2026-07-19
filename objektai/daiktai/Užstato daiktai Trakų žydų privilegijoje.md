@@ -66,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-55051"></a>
 - t-001
-  global_id: t-55051
   teiginys: "Privilegijoje žydui leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::items"
@@ -83,7 +82,6 @@ Nenurodyta
 
 <a id="claim-t-55052"></a>
 - t-002
-  global_id: t-55052
   teiginys: "Užstatų praradimo per gaisrą, vagystę ar jėgą atveju žydas galėjo išsiteisinti asmenine priesaika."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::items"
@@ -93,7 +91,6 @@ Nenurodyta
 
 <a id="claim-t-55053"></a>
 - t-003
-  global_id: t-55053
   teiginys: "Po metų laikymo užstatą reikėjo parodyti teisėjui, o netinkamą užstatą buvo leidžiama parduoti."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::items"
@@ -110,7 +107,6 @@ Nenurodyta
 
 <a id="claim-t-55054"></a>
 - t-004
-  global_id: t-55054
   teiginys: "Žirgus privilegijoje leista priimti užstatu tik dienai."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::items"
@@ -127,7 +123,6 @@ Nenurodyta
 
 <a id="claim-t-81859"></a>
 - t-005
-  global_id: t-81859
   teiginys: "Trakų žydų privilegijoje leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::items"
@@ -186,7 +181,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55051
+    - t-001
+
 - id: c-55718
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -206,7 +202,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55052
+    - t-002
+
 - id: c-55719
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -234,7 +231,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55053
+    - t-003
+
 - id: c-55720
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -254,7 +252,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55054
+    - t-004
+
 - id: c-78401
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -279,4 +278,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81859
+    - t-005

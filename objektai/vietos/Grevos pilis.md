@@ -28,7 +28,6 @@ Su lygia narsybe įpuolė Sviatopelkas į Pamezoniją, ketėdamas Grevos pilę (
 
 <a id="claim-t-201144"></a>
 - t-001
-  global_id: t-201144
   teiginys: "Su lygia narsybe įpuolė Sviatopelkas į Pamezoniją, ketėdamas Grevos pilę (Christburgą) apent vokyčiams atimti; todėl, perskiedęs savo kariauną į dvi dali, apniko pilį nuo dviejų pusių."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Su lygia narsybe įpuolė Sviatopelkas į Pamezoniją, ketėdamas Grevos pilę (
 ## Citatos
 
 - id: c-184494
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tas jo
     antpuolis taip staigus buvo, jog niekas jo nedrįso
@@ -60,4 +60,4 @@ Su lygia narsybe įpuolė Sviatopelkas į Pamezoniją, ketėdamas Grevos pilę (
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201144
+    - t-001

@@ -38,7 +38,6 @@ p. 208, Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikšč
 
 <a id="claim-t-41041"></a>
 - t-001
-  global_id: t-41041
   teiginys: "1920 m. lapkričio 22 d. 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa buvo Giedraičių apylinkėse po mūšio su lenkais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,13 +67,11 @@ p. 208, Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikšč
     mokomoji kuopa. 1920 m. lapkričio 22 d. Giedraičių apylinkėse, pasibaigus mūšiui su lenkais, vDKM.
     p. 209, 1917 m. modelio lenkiškas kardas, skirtas ulonų, artilerijos ir gurguolės
     puskarininkiams, VDKM, Artūro Užgalio nuotr.
-  citata_rodoma: |
-    p. 208, Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko
-    mokomoji kuopa. 1920 m. lapkričio 22 d. Giedraičių apylinkėse, pasibaigus mūšiui su lenkais, vDKM.
+  citata_rodoma: "p. 208, Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko\nmokomoji kuopa. 1920 m. lapkričio 22 d. Giedraičių apylinkėse, pasibaigus mūšiui su lenkais, vDKM."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41041
+    - t-001

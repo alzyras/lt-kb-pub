@@ -38,9 +38,8 @@ Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su r
 
 ## Teiginiai
 
-<a id="claim-t-187899"></a>
-- t-001
-  global_id: t-187899
+<a id="claim-t-187898"></a>
+- t-002
   teiginys: "Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::people"
@@ -75,22 +74,11 @@ Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su r
     Kauno gubernijoje vienas pirmųjų su-
     kilimo organizatorių buvo kunigas An-
     tanas Mackevičius.
-  citata_rodoma: |
-    Žuvo apie
-
-    30 sukilėlių ir pats būrio vadas. Vilniaus
-    apskrityje veikę Liudviko Narbuto vado-
-    vaujami sukilėliai kovėsi su rusų kariuo-
-    mene prie Rūdninkų ir Dubičių, kur žuvo
-    pats Narbutas, o sukilėliai buvo išblaškyti.
-
-    Kauno gubernijoje vienas pirmųjų su-
-    kilimo organizatorių buvo kunigas An-
-    tanas Mackevičius.
+  citata_rodoma: "Žuvo apie\n\n30 sukilėlių ir pats būrio vadas. Vilniaus\napskrityje veikę Liudviko Narbuto vado-\nvaujami sukilėliai kovėsi su rusų kariuo-\nmene prie Rūdninkų ir Dubičių, kur žuvo\npats Narbutas, o sukilėliai buvo išblaškyti.\n\nKauno gubernijoje vienas pirmųjų su-\nkilimo organizatorių buvo kunigas An-\ntanas Mackevičius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187899
+    - t-002

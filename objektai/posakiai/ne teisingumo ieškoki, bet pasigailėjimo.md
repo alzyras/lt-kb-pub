@@ -31,7 +31,6 @@ Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas p
 
 <a id="claim-t-89597"></a>
 - t-001
-  global_id: t-89597
   teiginys: "Henrikas iš Lichtenšteino Sventopelkui pareiškė, kad šis turįs ieškoti ne teisingumo, bet pasigailėjimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas p
 
 <a id="claim-t-89598"></a>
 - t-002
-  global_id: t-89598
   teiginys: "Sventopelkui prašant grąžinti įkaitu duotą sūnų, Henrikas iš Lichtenšteino atsakė: „ne teisingumo ieškoki, bet pasigailėjimo“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -95,5 +93,5 @@ Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89597
-    - t-89598
+    - t-001
+    - t-002

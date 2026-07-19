@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-28845"></a>
 - t-001
-  global_id: t-28845
   teiginys: "1322 m. lietuviai įsiveržė į Estiją, o kryžiuočiai per lietuvių puolimą Livonijoje įsiveržė į Žemaitijos gilumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28845
+    - t-001

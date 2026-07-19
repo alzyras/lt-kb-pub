@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202024"></a>
 - t-001
-  global_id: t-202024
   teiginys: "Dovanojimai bažnyčiai buvo tam tikra dvasingumo ir tikėjimo išraiška, arti mesnio santykio su bažnyčia užsitikrinimas, geresnio pomirtinio gyvenimo laidas, apdovanojami dvasininkai buvo prašomi aukoti mišias, melsti už fundatoriLĮ ir dona torių sielas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -53,6 +52,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185371
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -73,4 +75,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202024
+    - t-001

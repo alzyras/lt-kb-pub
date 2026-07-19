@@ -31,7 +31,6 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
 
 <a id="claim-t-03184"></a>
 - t-001
-  global_id: t-03184
   teiginys: "Amerikoje lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje atsirado tautinių bažnyčių, nepriklausomų nuo katalikų hierarchijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
 
 <a id="claim-t-193159"></a>
 - t-002
-  global_id: t-193159
   teiginys: "Apskaičiuojama, kad bažnyčių ir klebonijų pastatymas lietuviams yra atsėjęs apie 60 milijonų dolerių."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -72,18 +70,15 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
     jų tautininkų įtakoje Amerikoje yra atsiradusių katalikų hierar-
     chijos (vyskupų) nepriklausomų bažnyčių, vadinamųjų tautinių
     bažnyčių. Bet jų nedaug tėra — vos 6.
-  citata_rodoma: |
-    Taip antai, kai kur lietuvių laisvamanių ir griežtesnių-
-    jų tautininkų įtakoje Amerikoje yra atsiradusių katalikų hierar-
-    chijos (vyskupų) nepriklausomų bažnyčių, vadinamųjų tautinių
-    bažnyčių. Bet jų nedaug tėra — vos 6.
+  citata_rodoma: "Taip antai, kai kur lietuvių laisvamanių ir griežtesnių-\njų tautininkų įtakoje Amerikoje yra atsiradusių katalikų hierar-\nchijos (vyskupų) nepriklausomų bažnyčių, vadinamųjų tautinių\nbažnyčių. Bet jų nedaug tėra — vos 6."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03184
+    - t-001
+
 - id: c-175911
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -100,4 +95,4 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193159
+    - t-002

@@ -31,7 +31,6 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
 
 <a id="claim-t-59079"></a>
 - t-001
-  global_id: t-59079
   teiginys: "Pasakojime apie Višogrudo pilies sugriovimą cituojamas Matatijo raginimas sūnums atsiminti tėvų darbus ir laimėti garbę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
 
 <a id="claim-t-197041"></a>
 - t-002
-  global_id: t-197041
   teiginys: "Ar kas kada girdėjo apie tokią baisybę, tu padarei tokią piktadarystę, kurios nėra buvę nuo pat Ordino įsikūrimo pradžios."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,26 +64,21 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Višogrudo pilies sugriovimą
+    12. Apie Višogrudo pilies sugriovimą
 
       Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”,
     tačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite
     jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir
     amžiną vardą”. Siek tiek toliau jis priduria (1 Mak 2.
-  citata_rodoma: |
-    Apie Višogrudo pilies sugriovimą
-
-      Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”,
-    tačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite
-    jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir
-    amžiną vardą”. Siek tiek toliau jis priduria (1 Mak 2.
+  citata_rodoma: "Apie Višogrudo pilies sugriovimą\n\n  Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”,\ntačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite\njūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir\namžiną vardą”. Siek tiek toliau jis priduria (1 Mak 2."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59079
+    - t-001
+
 - id: c-179014
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -101,4 +94,4 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197041
+    - t-002

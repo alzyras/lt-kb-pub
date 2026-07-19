@@ -39,7 +39,6 @@ Dusburgietis teigia, kad prätorius M.
 
 <a id="claim-t-61258"></a>
 - t-001
-  global_id: t-61258
   teiginys: "M. Prätoriaus „Deliciae Prussicae oder Preussische Schaubühne“ rankraščio ištraukas 1871 m. Berlyne išleido W. Piersonas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Dusburgietis teigia, kad prätorius M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61258
+    - t-001

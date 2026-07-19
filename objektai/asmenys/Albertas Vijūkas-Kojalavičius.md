@@ -42,7 +42,6 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
 
 <a id="claim-t-18765"></a>
 - t-001
-  global_id: t-18765
   teiginys: "Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių įtakos sklaidos Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,9 +61,8 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
 
 <a id="claim-t-188506"></a>
 - t-002
-  global_id: t-188506
   teiginys: "Narbutas nurodo, kad Kojalavičius mini XV a. lenkiškus grašius piorunkas ir skiria juos nuo Lietuvoje žinotų perunų arba perkūnų."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -80,10 +78,9 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-171396
-    - c-002
+
 <a id="claim-t-188507"></a>
 - t-003
-  global_id: t-188507
   teiginys: "Narbutas kaltina Kojalavičių ir kitus autorius apšmeižus senovės lietuvius dėl esą įprasto ligonių, bejėgių ir mirštančiųjų žudymo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -104,7 +101,6 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
 
 <a id="claim-t-190838"></a>
 - t-004
-  global_id: t-190838
   teiginys: "Narbutas vertina, kad Albertas Vijūkas-Kojalavičius lotyniškoje lietuvių istorijoje tik sudėjo Strijkovskio veikalą į istorinius rėmus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -122,10 +118,9 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-173720
-    - c-004
+
 <a id="claim-t-190839"></a>
 - t-005
-  global_id: t-190839
   teiginys: "Ksaveras Bogušas poloviečius priskyrė lietuvių genties tautoms, remdamasis panašiomis Kojalavičiaus prielaidomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -146,7 +141,6 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
 
 <a id="claim-t-190840"></a>
 - t-006
-  global_id: t-190840
   teiginys: "Narbutas rašo, kad Kojalavičius poloviečius laikė turinčiais lietuvių kalbą ir siejo juos su Mamajaus sugriauta Beloserkos sostine."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -164,10 +158,9 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-173722
-    - c-006
+
 <a id="claim-t-191935"></a>
 - t-007
-  global_id: t-191935
   teiginys: "Narbutas priekaištauja, kad per 400 metų krašto praeitimi pasirūpino tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -202,8 +195,6 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188506
 - c-004
   santrauka: 'Narbutas vertina, kad Albertas Vijūkas-Kojalavičius lotyniškoje lietuvių istorijoje tik sudėjo Strijkovskio veikalą į istorinius rėmus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -222,8 +213,6 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190838
 - c-006
   santrauka: 'Narbutas rašo, kad Kojalavičius poloviečius laikė turinčiais lietuvių kalbą ir siejo juos su Mamajaus sugriauta Beloserkos sostine.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -242,8 +231,7 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190840
+
 ## Citatos
 
 - id: c-21550
@@ -263,15 +251,15 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
     Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m.
     buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
     vietoje įprasto Horacijaus.
-  citata_rodoma: |
-    do ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Lietuvos
+  citata_rodoma: "do ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Lietuvos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18765
+    - t-001
+
 - id: c-171396
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -283,20 +271,15 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
     Jis sako (7 lapas, antroji pusė): „Prūsijoje ir gretimuose kraš­
     tuose kapuose ir žemėje buvo randamos auksinės bei sidabri­
     nės monetos su nežinomais atvaizdais, herbais ir užrašais.
-  citata_rodoma: |
-    Vadinasi, bu­
-    vo tik Jupiteris, turėjęs antrąją ypatybę*.
-    Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
-    piorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos
-    nuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­
-    se buvo žinomi Lietuvoje.
+  citata_rodoma: "Vadinasi, bu­\nvo tik Jupiteris, turėjęs antrąją ypatybę*.\nŽinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti\npiorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos\nnuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­\nse buvo žinomi Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188506
+    - t-002
+
 - id: c-171397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -319,7 +302,8 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188507
+    - t-003
+
 - id: c-173720
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -342,23 +326,15 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
     skleidė jų turtingumą ir parodė retą jų panaudojimo pa­
     vyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų
     ir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.
-  citata_rodoma: |
-    Latvių, arba
-    Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
-    randa nemažai vertingų tautos istorijos perlų. Jėzuitas
-    Kojai avičius*** parašė lietuvių istoriją lotynų kalba; jis
-    apsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius
-    rėmus, ne visuomet taikliai taisydamas jo spragas.
-    6
-    Nuo to meto nieko iš šio dalyko neišėjo ištisai: mė­
-    ginimai, nedidelės žinutės, studijos, prielaidų fragmentai.
+  citata_rodoma: "Latvių, arba\nLivonijos, autoriai pas naujesnius senovės tyrinėtojus at­\nranda nemažai vertingų tautos istorijos perlų. Jėzuitas\nKojai avičius*** parašė lietuvių istoriją lotynų kalba; jis\napsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius\nrėmus, ne visuomet taikliai taisydamas jo spragas.\n6\nNuo to meto nieko iš šio dalyko neišėjo ištisai: mė­\nginimai, nedidelės žinutės, studijos, prielaidų fragmentai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190838
+    - t-004
+
 - id: c-173721
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -378,7 +354,8 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190839
+    - t-005
+
 - id: c-173722
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -393,23 +370,15 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
     Iš ko atsirado Beloserka? Ar tai nebuvo tas pats miestas,
     kurį sugriovė Mamajus? Netikėtą atsakymą į šiuos klau­
     simus pateiks kiti tyrinėjimai.
-  citata_rodoma: |
-    Taigi nėra įrodymų paneigti prielaidai, jog Charoboe or­
-    da XII amžiuje išsivedė su savimi lietuvių genčių kolo­
-    nistus, nuo seno gyvenusius prie Rosės upės.
-    101
-    Si nuomonė darosi vis panašesnė į tiesą, kai Kojala-
-    vičius2, teigęs, kad polovieciai turi lietuvių kalbą, nuro­
-    do istoriją, aprašančią pagalbą totorių vado Mamajaus,
-    kuris sugriovė tų poloviečių-lietuvių sostinę, vadinamą
-    Beloserka. Mamajus puldinėjo XIV amžiaus viduryje.
+  citata_rodoma: "Taigi nėra įrodymų paneigti prielaidai, jog Charoboe or­\nda XII amžiuje išsivedė su savimi lietuvių genčių kolo­\nnistus, nuo seno gyvenusius prie Rosės upės.\n101\nSi nuomonė darosi vis panašesnė į tiesą, kai Kojala-\nvičius2, teigęs, kad polovieciai turi lietuvių kalbą, nuro­\ndo istoriją, aprašančią pagalbą totorių vado Mamajaus,\nkuris sugriovė tų poloviečių-lietuvių sostinę, vadinamą\nBeloserka. Mamajus puldinėjo XIV amžiaus viduryje."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190840
+    - t-006
+
 - id: c-174817
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -426,4 +395,4 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191935
+    - t-007

@@ -30,7 +30,6 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
 
 <a id="claim-t-02263"></a>
 - t-001
-  global_id: t-02263
   teiginys: "„Pakeleivingą“ buvo sumanyta leisti kaip specialų laikraštį, bet leidimas jam nebuvo gautas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,14 +50,11 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
     savo viešaisiais laiškais ir blaivybės skatinamaisiais raštais. Jis
     net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pake-
     leivingą", bet negavo leidimo.
-  citata_rodoma: |
-    Jis
-    net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pake-
-    leivingą", bet negavo leidimo.
+  citata_rodoma: "Jis\nnet buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pake-\nleivingą\", bet negavo leidimo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02263
+    - t-001

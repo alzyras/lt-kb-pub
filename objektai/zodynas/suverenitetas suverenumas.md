@@ -38,8 +38,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
 ## Teiginiai
 
 <a id="claim-t-104204"></a>
-- t-001
-  global_id: t-104204
+- t-002
   teiginys: "Pirmuoju sutarties straipsniu Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę bei suverenumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,9 +53,9 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   pagrindžia:
     - c-97157
     - c-166864
+
 <a id="claim-t-104205"></a>
-- t-002
-  global_id: t-104205
+- t-006
   teiginys: "Maskva patvirtino, kad Lietuva turi suverenias teises į Vilnių, kol neatsisakys suverenumo Lenkijos naudai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     - c-97158
 
 <a id="claim-t-104206"></a>
-- t-003
-  global_id: t-104206
+- t-005
   teiginys: "LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,8 +94,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     - c-97162
 
 <a id="claim-t-104207"></a>
-- t-004
-  global_id: t-104207
+- t-001
   teiginys: "Vasario 16 Aktas tapo lietuvių nacijos laisvės ir suverenumo simboliu ir davė pradžią tikrai Lietuvos nepriklausomybei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,8 +110,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     - c-97159
 
 <a id="claim-t-104208"></a>
-- t-005
-  global_id: t-104208
+- t-004
   teiginys: "Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,9 +125,9 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   pagrindžia:
     - c-97161
     - c-166866
+
 <a id="claim-t-183470"></a>
-- t-006
-  global_id: t-183470
+- t-008
   teiginys: "Pradiniame Sąjūdžio etape pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -164,16 +160,15 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     mo dokumentu.
     Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
     atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
-  citata_rodoma: |
-    Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
-    atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
+  citata_rodoma: "Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams \natsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104204
+    - t-002
+
 - id: c-97158
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -193,7 +188,8 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104205
+    - t-006
+
 - id: c-97159
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -207,18 +203,15 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
     davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant,
     kur Taryba veda Lietuvą.
-  citata_rodoma: |
-    Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
-    cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
-    davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant,
-    kur Taryba veda Lietuvą.
+  citata_rodoma: "Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-\ncijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena, \ndavė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant, \nkur Taryba veda Lietuvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104207
+    - t-001
+
 - id: c-97161
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -233,17 +226,15 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     „Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sis-
     temos keitimą, o tautiniu klausimu
     pasisakyta atsargiai.
-  citata_rodoma: |
-    „Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sis-
-    temos keitimą, o tautiniu klausimu
-    pasisakyta atsargiai.
+  citata_rodoma: "„Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sis-\ntemos keitimą, o tautiniu klausimu \npasisakyta atsargiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104208
+    - t-004
+
 - id: c-97162
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -258,18 +249,15 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     laujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbian-
     čios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija
     dėl Lietuvos SSR valstybinio suvereniteto.
-  citata_rodoma: |
-    LPS reika-
-    laujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbian-
-    čios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija
-    dėl Lietuvos SSR valstybinio suvereniteto.
+  citata_rodoma: "LPS reika-\nlaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbian-\nčios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija \ndėl Lietuvos SSR valstybinio suvereniteto."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104206
+    - t-005
+
 - id: c-166864
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -284,10 +272,12 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     Teritoriniai klausimai taip pat buvo sprendžiami palankiai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-166865
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -307,7 +297,8 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183470
+    - t-008
+
 - id: c-166866
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -329,3 +320,5 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

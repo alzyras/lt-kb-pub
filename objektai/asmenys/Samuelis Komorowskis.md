@@ -41,7 +41,6 @@ Samuelis Komorowskis buvo pirmasis Kotrynos vyras; šaltinyje jis apibūdinamas 
 
 <a id="claim-t-202418"></a>
 - t-001
-  global_id: t-202418
   teiginys: "Samuelis Komorowskis buvo pirmasis Kotrynos vyras; šaltinyje jis apibūdinamas kaip garsus karvedys XVII a. vidurio karų metu."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -70,8 +69,5 @@ Samuelis Komorowskis buvo pirmasis Kotrynos vyras; šaltinyje jis apibūdinamas 
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202418
+    - t-001

@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31895"></a>
 - t-001
-  global_id: t-31895
   teiginys: "„Prie lietuviškų spaudinių uždraudimo istorijos“ 1969 m. paskelbta BBK 7 tome, 223-235 puslapiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,14 +71,11 @@ media_all_json: |-
     kyklos Lietuvoje XIX a. antrojoje pusėje_** **(Pedagogika ir psichologija, t. 9,
     sąs. 2, 1969).**
     (^124) **Žurnale : Pedagogika ir psichologija, t. 8, 1966.
-  citata_rodoma: |
-    );** **_Prie lietuviškų spaudinių
-    uždraudimo istorijos_** **(BBK, t. 7, 1969, 223-235 p.) ;** **_Vileišio laiškai lietuviškų
-    knygų spausdinimo klausimu_** **(BBK, t.
+  citata_rodoma: ");** **_Prie lietuviškų spaudinių\nuždraudimo istorijos_** **(BBK, t. 7, 1969, 223-235 p.) ;** **_Vileišio laiškai lietuviškų\nknygų spausdinimo klausimu_** **(BBK, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31895
+    - t-001

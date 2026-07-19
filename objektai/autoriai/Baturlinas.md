@@ -31,7 +31,6 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė nau
 
 <a id="claim-t-191579"></a>
 - t-001
-  global_id: t-191579
   teiginys: "Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė naujesnius Herodoto geografijos paaiškinimus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė nau
 
 <a id="claim-t-197584"></a>
 - t-002
-  global_id: t-197584
   teiginys: "Baturlinas net teigia, kad Jurjevas buvo atstatytas XII amžiaus pradžioje po to, kai jį sunaikino poloviečiai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,8 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė nau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191579
+    - t-001
+
 - id: c-179253
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -110,4 +109,4 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė nau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197584
+    - t-002

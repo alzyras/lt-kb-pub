@@ -39,7 +39,6 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 
 <a id="claim-t-200796"></a>
 - t-001
-  global_id: t-200796
   teiginys: "Šv. Kazimiero bažnyčia, pradėta 1604 m. ir užbaigta 1615 m., pakartojo Romos II Gesu bažnyčios planą ir bendrą kompoziciją."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200796
+    - t-001

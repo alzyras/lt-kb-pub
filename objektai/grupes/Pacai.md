@@ -32,7 +32,6 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
 
 <a id="claim-t-65967"></a>
 - t-001
-  global_id: t-65967
   teiginys: "Pacai iškilo pirmiau už Sapiegas ir Jono Kazimiero atsisakymo nuo sosto metu vadovavo Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -42,7 +41,6 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
 
 <a id="claim-t-65968"></a>
 - t-002
-  global_id: t-65968
   teiginys: "Tarpuvaldžio pradžioje Pacai, bijodami hetmono Sobieskio kandidatūros, pradėjo prieš jį veikti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,7 +50,6 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
 
 <a id="claim-t-182914"></a>
 - t-003
-  global_id: t-182914
   teiginys: "Pacai iškilo prieš Sapiegas ir vadovavo Lietuvoje Jonui Kazimierui atsisakant sosto."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -72,7 +69,6 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
 
 <a id="claim-t-182915"></a>
 - t-004
-  global_id: t-182915
   teiginys: "Tarpuvaldžio pradžioje Pacai veikė prieš Lenkijos gynėjo nuo turkų kandidatūrą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -92,7 +88,6 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
 
 <a id="claim-t-200758"></a>
 - t-005
-  global_id: t-200758
   teiginys: "Vorobjovo vertinimu, Pacai kartu su Sapiegomis ir Radvilomis buvo vietiniai lietuvių didikai, suvaidinę žymų vaidmenį Vilniaus baroko plėtotėje."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -143,18 +138,15 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
     kandidatūros, buvo pra-
     dėję prieš jį veikti dar
     tarpuvaldžio pradžioje.
-  citata_rodoma: |
-    Pacai, bijodami jo
-    kandidatūros, buvo pra-
-    dėję prieš jį veikti dar
-    tarpuvaldžio pradžioje.
+  citata_rodoma: "Pacai, bijodami jo\nkandidatūros, buvo pra-\ndėję prieš jį veikti dar\ntarpuvaldžio pradžioje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65968
+    - t-002
+
 - id: c-166317
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -172,8 +164,9 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65967
-    - t-182914
+    - t-001
+    - t-003
+
 - id: c-166318
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -203,7 +196,8 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182915
+    - t-004
+
 - id: c-184103
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -230,4 +224,4 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200758
+    - t-005

@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-202323"></a>
 - t-001
-  global_id: t-202323
   teiginys: "Penktajame dešimtmetyje pagal sutartį su Žygimantu Senuoju Krymo chanas Sagapas Girėjus per pasiuntinį Aligačį laidavo lenkų ir lietuvių pirklių prekybos laisvę Kafoje ir Perekope, už tai gaudamas gelumbės už 50 000 auksinų per metus."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -52,6 +51,9 @@ Nenurodyta
   pagrindžia:
     - c-185670
 
+## Reikšmingi paminėjimai
+Nenurodyta
+
 ## Citatos
 
 - id: c-185670
@@ -61,8 +63,5 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202323
+    - t-001

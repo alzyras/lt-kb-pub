@@ -37,7 +37,6 @@ Su juo tartis į Vengrijos pasienio miestą Kezmarką nuvyko pats Vytautas.
 
 <a id="claim-t-32241"></a>
 - t-001
-  global_id: t-32241
   teiginys: "Vytautas nuvyko tartis į Vengrijos pasienio miestą Kezmarką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,17 +67,14 @@ Su juo tartis į Vengrijos pasienio miestą Kezmarką nuvyko pats Vytautas.
 
     (^1) **CEV, 205 p.**
     (^2) **Raczyński, E.: RaCD, 104-107 p.**
-  citata_rodoma: |
-    Su juo tartis į Vengrijos pasienio miestą
-    Kezmarką nuvyko pats Vytautas. Kaip 1409 vasarą ordinas buvo
-
-    (^1) **CEV, 205 p.
+  citata_rodoma: "Su juo tartis į Vengrijos pasienio miestą\nKezmarką nuvyko pats Vytautas. Kaip 1409 vasarą ordinas buvo\n\n(^1) **CEV, 205 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32241
+    - t-001
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

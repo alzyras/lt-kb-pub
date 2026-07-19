@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-22188"></a>
 - t-001
-  global_id: t-22188
   teiginys: "Lietuva klaipėdiečius laikė lietuviais ir skaičiavo, kad Klaipėdos krašte lietuviai sudaro 50,8 procento gyventojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22188
+    - t-001

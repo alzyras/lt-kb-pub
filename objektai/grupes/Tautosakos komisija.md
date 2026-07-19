@@ -56,8 +56,7 @@ Tautosakos rinkimo ir dainų tvarkymo komisija.
 ## Teiginiai
 
 <a id="claim-t-195517"></a>
-- t-001
-  global_id: t-195517
+- t-002
   teiginys: "Iki tų pačių metų gruodžio 1 d. Tautosakos komisija perrašinėjo ir tvarkė dainas."
   atnaujinta: "2026-07-12 04:52"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -75,12 +74,11 @@ Tautosakos rinkimo ir dainų tvarkymo komisija.
   citata_originali: |
     Tautosakos Komisijos perrašytos (iki š. m. XII. 1)
     ir tvarkomos dainos.
-  citata_rodoma: |
-    Tautosakos Komisijos perrašytos (iki š. m. XII. 1) ir tvarkomos dainos.
+  citata_rodoma: "Tautosakos Komisijos perrašytos (iki š. m. XII. 1) ir tvarkomos dainos."
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195517
+    - t-002

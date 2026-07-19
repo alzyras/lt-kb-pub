@@ -32,7 +32,6 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 
 <a id="claim-t-186134"></a>
 - t-001
-  global_id: t-186134
   teiginys: "Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dubysa, Nevėžis ir Neris."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 
 <a id="claim-t-186135"></a>
 - t-002
-  global_id: t-186135
   teiginys: "Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -72,7 +70,6 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 
 <a id="claim-t-193951"></a>
 - t-003
-  global_id: t-193951
   teiginys: "Lietuvos metraštis pasakoja, kad Kūnas prie Nevėžio žiočių įkūrė miestą ir pagal savo vardą pavadino jį Kaunu."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -86,7 +83,6 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 
 <a id="claim-t-193952"></a>
 - t-004
-  global_id: t-193952
   teiginys: "Lietuvos metraštis pasakoja, kad po bevaikio brolio Barkaus mirties Kūnas perėmė jo dalį ir Jurbarko miestą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -100,7 +96,6 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 
 <a id="claim-t-196854"></a>
 - t-005
-  global_id: t-196854
   teiginys: "Lietuvos metraštis pasakoja, kad po Kūno mirties Užnerio kraštą iki Latgalos, Breslaujos ir Dauguvos valdė jo sūnus Kernius."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -286,7 +281,8 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186134
+    - t-001
+
 - id: c-169496
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -305,21 +301,15 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
     kelias į Lietuvą būtų užkirstas. Todėl, norėdamas su­
     rišti priešui rankas, įkūrė pirmą nausėdiją ant upės
     kranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos
-  citata_rodoma: |
-    Kokius jis nuveikė paminėtinus darbus,
-    vėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­
-    palikti po mirties sūnums paveldimo neapykantos šal­
-    tinio, todėl pasistengė laiku padalyti valdžią. Kernu-
-    sijui, arba Kerniui, atidavė valdyti Lietuvos žemes
-    tarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu­
-    tui paskyrė Žemaitiją.
+  citata_rodoma: "Kokius jis nuveikė paminėtinus darbus,\nvėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­\npalikti po mirties sūnums paveldimo neapykantos šal­\ntinio, todėl pasistengė laiku padalyti valdžią. Kernu-\nsijui, arba Kerniui, atidavė valdyti Lietuvos žemes\ntarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu­\ntui paskyrė Žemaitiją."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186135
+    - t-002
+
 - id: c-176576
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -338,29 +328,15 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
     per trečią upę — Širvintą, aptiko ežerą, dabinamą pie­
     vų ir Įvairių medžių, pamėgo tą vietą, apsigyveno prie
     to ežero ir tą ežerą pavadino savo vardu — Spera6.
-  citata_rodoma: |
-    Vyriausias sūnus Barkus įkūrė mies­
-    tą prie Jūros upės, ir to kunigaikščio vardas susijungė
-    su upės vardu, kuri vadinosi Jūra, o kunigaikščio var­
-    das - —  Barkus, tai tas miestas imta vadinti Jurbarku 4 .
-    Vidurinis sūnus Kūnas atsikėlė prie Nevėžio upės
-    žiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino
-    jį pagal savo vardą Kauno miestu5 .
-    O trečias sūnus Spera keliavo tolyn per girias į ry­
-    tus, kur saulė teka, ir persikėlė per Nevėžio upę, ir
-
-    ## Puslapis 41
-
-    per trečią upę — Širvintą, aptiko ežerą, dabinamą pie­
-    vų ir Įvairių medžių, pamėgo tą vietą, apsigyveno prie
-    to ežero ir tą ežerą pavadino savo vardu — Spera6 .
+  citata_rodoma: "Vyriausias sūnus Barkus įkūrė mies­\ntą prie Jūros upės, ir to kunigaikščio vardas susijungė \nsu upės vardu, kuri vadinosi Jūra, o kunigaikščio var­\ndas - —  Barkus, tai tas miestas imta vadinti Jurbarku 4 .\nVidurinis sūnus Kūnas atsikėlė prie Nevėžio upės \nžiočių, kur Įteka į Nemuną, ir įkūrė miestą, pavadino \njį pagal savo vardą Kauno miestu5 .\nO trečias sūnus Spera keliavo tolyn per girias į ry­\ntus, kur saulė teka, ir persikėlė per Nevėžio upę, ir\n\n## Puslapis 41\n\nper trečią upę — Širvintą, aptiko ežerą, dabinamą pie­\nvų ir Įvairių medžių, pamėgo tą vietą, apsigyveno prie \nto ežero ir tą ežerą pavadino savo vardu — Spera6 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193951
+    - t-003
+
 - id: c-176577
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -374,22 +350,15 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
     Kernių, o kitą Gimbutą8. Beviešpataudamas Žemaičių
     žemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries
     upę į Užnerio kraštą 9.
-  citata_rodoma: |
-    Neilgai trukus, mirė jo brolis Barkus, kuris gyveno
-    Jurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė
-    ir tą savo brolio Barkaus dalį, ir Jurbarko miestą, ir
-    ėmė viešpatauti toje jo dalyje.
-    O tasai kunigaikštis Kūnas turėjo du sūnus: vieną
-    Kernių, o kitą Gimbutą8 . Beviešpataudamas Žemaičių
-    žemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries
-    upę į Užnerio kraštą 9 .
+  citata_rodoma: "Neilgai trukus, mirė jo brolis Barkus, kuris gyveno \nJurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė \nir tą savo brolio Barkaus dalį, ir Jurbarko miestą, ir \nėmė viešpatauti toje jo dalyje.\nO tasai kunigaikštis Kūnas turėjo du sūnus: vieną \nKernių, o kitą Gimbutą8 . Beviešpataudamas Žemaičių \nžemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries \nupę į Užnerio kraštą 9 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193952
+    - t-004
+
 - id: c-178946
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -410,4 +379,4 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196854
+    - t-005

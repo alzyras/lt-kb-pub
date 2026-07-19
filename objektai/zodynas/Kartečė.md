@@ -38,8 +38,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 ## Teiginiai
 
 <a id="claim-t-78896"></a>
-- t-001
-  global_id: t-78896
+- t-002
   teiginys: "Iš pradžių kartečė naudota ginant arba šturmuojant tvirtoves, o nuo Trisdešimtmečio karo plačiai taikyta ir lauko kautynėse."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     - c-76008
 
 <a id="claim-t-78898"></a>
-- t-002
-  global_id: t-78898
+- t-005
   teiginys: "Ankstyvieji kartečės užtaisai buvo dedami į virvėmis aprišamus maišelius, o vėliau atsirado cilindro formos metalinėse dėžutėse laikoma kartečė."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -60,8 +58,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     - c-44137
 
 <a id="claim-t-78900"></a>
-- t-003
-  global_id: t-78900
+- t-006
   teiginys: "Kartečė buvo skirta žeisti priešo karius nedideliu atstumu, nes didelė kulkų sklaida ribojo jos efektyvumą toliau."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,8 +67,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     - c-44136
 
 <a id="claim-t-78901"></a>
-- t-004
-  global_id: t-78901
+- t-003
   teiginys: "Pagal kulkų svorį kartečė buvo skirstoma į artimojo ir tolimojo nuotolio kartečę."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -80,8 +76,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     - c-44135
 
 <a id="claim-t-78902"></a>
-- t-005
-  global_id: t-78902
+- t-004
   teiginys: "Kartečė buvo skirta žeisti priešo karius nedideliu atstumu, nes didelė kulkų sklaida neleido jos efektyviai naudoti toliau."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -90,8 +85,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     - c-44136
 
 <a id="claim-t-193753"></a>
-- t-006
-  global_id: t-193753
+- t-007
   teiginys: "Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudojama muškietų kulkų kartečė."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -121,7 +115,8 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78901
+    - t-003
+
 - id: c-44136
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -135,21 +130,16 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     pradžioje jos trūkumas buvo ilgas pabūklų užtaisymas pavienėmis
     kulkomis, vėliau ši problema buvo išspręsta panaudojant kulkų
     ryšulius.
-  citata_rodoma: |
-    Tačiau apskritai kartečė buvo skirta žeisti priešo karius
-    gan nedideliu atstumu, nemaža kartečės kulkų sklaida neleido jos
-    efektyviai naudoti tolimesniais atstumais. Kartečės naudojimo
-    pradžioje jos trūkumas buvo ilgas pabūklų užtaisymas pavienėmis
-    kulkomis, vėliau ši problema buvo išspręsta panaudojant kulkų
-    ryšulius.
+  citata_rodoma: "Tačiau apskritai kartečė buvo skirta žeisti priešo karius\ngan nedideliu atstumu, nemaža kartečės kulkų sklaida neleido jos\nefektyviai naudoti tolimesniais atstumais. Kartečės naudojimo\npradžioje jos trūkumas buvo ilgas pabūklų užtaisymas pavienėmis\nkulkomis, vėliau ši problema buvo išspręsta panaudojant kulkų\nryšulius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78900
-    - t-78902
+    - t-006
+    - t-004
+
 - id: c-44137
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -172,28 +162,15 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     geliai, taip pat ir karkasai - ovalo formos
     sviediniai su padegamuoju mišiniu, su-
     daryti iš geležinių žiedų).
-  citata_rodoma: |
-    Ankstyvesnių laikų kartečės užtaisai buvo maišeliuose,
-
-    aprišamuose virvėmis, vėliau atsirado kartečė cilindro formos
-    metalinėse dėžutėse.
-
-    Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir
-    apšviečiamaisiais bei skirtingų konstrukcijų padegamaisiais svie-
-    diniais (iki raudonumo įkaitinti metali-
-    niai sviediniai arba iš ketaus pagaminti
-    tuščiaviduriai sviediniai, užpildyti pade-
-    gamuoju mišiniu - vadinamieji brandsku-
-    geliai, taip pat ir karkasai - ovalo formos
-    sviediniai su padegamuoju mišiniu, su-
-    daryti iš geležinių žiedų).
+  citata_rodoma: "Ankstyvesnių laikų kartečės užtaisai buvo maišeliuose,\n\naprišamuose virvėmis, vėliau atsirado kartečė cilindro formos\nmetalinėse dėžutėse.\n\nBe kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir\napšviečiamaisiais bei skirtingų konstrukcijų padegamaisiais svie-\ndiniais (iki raudonumo įkaitinti metali-\nniai sviediniai arba iš ketaus pagaminti\ntuščiaviduriai sviediniai, užpildyti pade-\ngamuoju mišiniu - vadinamieji brandsku-\ngeliai, taip pat ir karkasai - ovalo formos\nsviediniai su padegamuoju mišiniu, su-\ndaryti iš geležinių žiedų)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78898
+    - t-005
+
 - id: c-76008
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -212,7 +189,8 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78896
+    - t-002
+
 - id: c-176413
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -229,4 +207,4 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193753
+    - t-007

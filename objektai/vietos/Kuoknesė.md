@@ -43,8 +43,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 ## Teiginiai
 
 <a id="claim-t-79512"></a>
-- t-001
-  global_id: t-79512
+- t-006
   teiginys: "Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m. rudenį Jonas Karolis Chodkevičius ją išvadavo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - c-76498
 
 <a id="claim-t-79513"></a>
-- t-002
-  global_id: t-79513
+- t-001
   teiginys: "Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - c-76495
 
 <a id="claim-t-79515"></a>
-- t-003
-  global_id: t-79515
+- t-004
   teiginys: "1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -106,8 +103,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - c-76499
 
 <a id="claim-t-79516"></a>
-- t-004
-  global_id: t-79516
+- t-003
   teiginys: "Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,8 +123,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - c-76498
 
 <a id="claim-t-183788"></a>
-- t-005
-  global_id: t-183788
+- t-007
   teiginys: "Prieš Kuoknesės mūšį Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus Dauguva plukdytus laivus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -151,8 +146,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - c-167176
 
 <a id="claim-t-201077"></a>
-- t-006
-  global_id: t-201077
+- t-008
   teiginys: "Tuo pačiu laiku Veisekė, kunigaikštis Kuoknesės, matydamas ūkinykus krikštijantis, atėjo, gerin damos vokyčiams, v."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -223,7 +217,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79513
+    - t-001
+
 - id: c-76498
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -242,25 +237,16 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     kijos karalystėje, Jonas Karolis Chodke-
     vičius grįžo į Livoniją ir per trumpą laiką
     išvadavo Kuoknesę ir Viljandį.
-  citata_rodoma: |
-    Maža to,
-
-    ms
-
-    laivams iplaukti j Rygos uosta. Per trumpa
-    “| laiką Švedijos kariuomenė užėmė Paidę
-    (Weisenstein), Kuoknesę (Kokenhausen) ir
-    Viljandį (Fellin).
-
-    1608 m.
+  citata_rodoma: "Maža to,\n\nms\n\nlaivams iplaukti j Rygos uosta. Per trumpa\n“| laiką Švedijos kariuomenė užėmė Paidę\n(Weisenstein), Kuoknesę (Kokenhausen) ir\nViljandį (Fellin).\n\n1608 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79512
-    - t-79516
+    - t-006
+    - t-003
+
 - id: c-76499
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -283,7 +269,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79515
+    - t-004
+
 - id: c-167176
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -310,10 +297,12 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183788
+    - t-007
+
 - id: c-184427
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo atėjus pirmasis darbas tų mel­
     džionų buvo, iki nepradėjus kariauti, mūrus Rygos
@@ -329,7 +318,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201077
+    - t-008
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vilhelmas (Rygos arkivyskupas)]]
 - Užėmė Kuoknesę: [[objektai/grupes/Švedijos kariuomenė]]

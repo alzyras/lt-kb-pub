@@ -31,7 +31,6 @@ Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams
 
 <a id="claim-t-192972"></a>
 - t-001
-  global_id: t-192972
   teiginys: "Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams žinomus Tolimosios Šiaurės gyventojus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192972
+    - t-001

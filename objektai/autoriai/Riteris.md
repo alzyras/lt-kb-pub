@@ -31,7 +31,6 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
 
 <a id="claim-t-190403"></a>
 - t-001
-  global_id: t-190403
   teiginys: "Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai aptarė padavimą apie saulės garbinimą prie Baltijos jūros."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -52,9 +51,8 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
 
 <a id="claim-t-190790"></a>
 - t-002
-  global_id: t-190790
   teiginys: "Riteris Narbuto nurodomas kaip autorius, kurio dėstymu ir paaiškinimais remtasi aiškinant Herodoto ketvirtąją knygą."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,7 +61,7 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173672
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Riteris Narbuto nurodomas kaip autorius, kurio dėstymu ir paaiškinimais remtasi aiškinant Herodoto ketvirtąją knygą.'
@@ -76,8 +74,7 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190790
+
 ## Citatos
 
 - id: c-173286
@@ -101,7 +98,8 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190403
+    - t-001
+
 - id: c-173672
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -116,13 +114,11 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
     produktą nuo masagetų ir tisagetų gyvavimo laikų vi­
     suomet labai vertino ir dabar tebevertina šiaurės rytų
     gyventojai.
-  citata_rodoma: |
-    3 Herodot. Lib. IV, Pagal pono Riterio dėstymą ir paaiškinimus
-    (Vorhalle der europäischer Völkergesch. S. 153, 154, 266).
+  citata_rodoma: "3 Herodot. Lib. IV, Pagal pono Riterio dėstymą ir paaiškinimus\n(Vorhalle der europäischer Völkergesch. S. 153, 154, 266)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190790
+    - t-002

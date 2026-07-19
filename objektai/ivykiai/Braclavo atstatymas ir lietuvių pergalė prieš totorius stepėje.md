@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-186663"></a>
 - t-001
-  global_id: t-186663
   teiginys: "Lietuvos metraštis Aleksandrą vadina didžiuoju kunigaikščiu ir pasakoja, kad jis nemažai laiko praleido Braclave bei atstatė miestą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -77,8 +76,7 @@ Nenurodyta
     - c-169917
 
 <a id="claim-t-193849"></a>
-- t-002
-  global_id: t-193849
+- t-004
   teiginys: "Didysis kunigaikštis Aleksandras išstovėjo Braclave nemaža laiko ir atstatė Braclavo miestą; visi žmonės, kurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo į Braciavą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -108,19 +106,12 @@ Nenurodyta
     nia 25 ir Peremišlio kunigaikštis Ivanas Michailovičius26
     su daugeliu kitų vaivadų ir žmonių, ir jie visi jau stovi
     vienoje vietoje prie Dorohobužo.
-  citata_rodoma: |
-    Didysis kunigaikštis Aleksandras išstovėjo Braclave
-    nemaža laiko ir atstatė Braclavo miestą; visi žmonės,
-    kurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo
-    į Braciavą. Tuo pačiu metu stepėje, dvylika mylių nuo
-    Braclavo, lietuviai sumušė kelis šimtus totorių. O pas­
-    kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
-    vą 3 9 .
+  citata_rodoma: "Didysis kunigaikštis Aleksandras išstovėjo Braclave \nnemaža laiko ir atstatė Braclavo miestą; visi žmonės, \nkurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo \nį Braciavą. Tuo pačiu metu stepėje, dvylika mylių nuo \nBraclavo, lietuviai sumušė kelis šimtus totorių. O pas­\nkui didysis kunigaikštis Aleksandras sugrįžo į Lietu­\nvą 3 9 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186663
-    - t-193849
+    - t-001
+    - t-004

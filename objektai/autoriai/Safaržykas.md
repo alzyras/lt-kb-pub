@@ -38,7 +38,6 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
 
 <a id="claim-t-191555"></a>
 - t-001
-  global_id: t-191555
   teiginys: "Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais ir jų skirtumus aiškino germanų bei finų valdžia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
 
 <a id="claim-t-191556"></a>
 - t-002
-  global_id: t-191556
   teiginys: "Narbutas nurodė, kad Safaržykas minėjo Vienoje saugotą auksinę taurę kaip jazigų egzistavimo prieš Kristų pėdsaką."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
 
 <a id="claim-t-191557"></a>
 - t-003
-  global_id: t-191557
   teiginys: "Narbutas pažymėjo, kad Safaržykas slavų senienų tyrinėjimuose žemdirbius skitus laikė skitų nukariautais slavais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -98,10 +95,9 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174439
-    - c-003
+
 <a id="claim-t-197642"></a>
 - t-004
-  global_id: t-197642
   teiginys: "1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus mano buvus slavus, kuriuos kadaise nukariavo skitai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -129,8 +125,7 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191557
+
 ## Citatos
 
 - id: c-174437
@@ -158,7 +153,8 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191555
+    - t-001
+
 - id: c-174438
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -179,7 +175,8 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191556
+    - t-002
+
 - id: c-174439
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -194,21 +191,15 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
     2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my­
     lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai
     (Zeller.
-  citata_rodoma: |
-    Vadi­
-    nasi, čia gyventa jau iki IV amžiaus.
-    1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus
-    mano buvus slavus, kuriuos kadaise nukariavo skitai*.
-    2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my­
-    lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai
-    (Zeller.
+  citata_rodoma: "Vadi­\nnasi, čia gyventa jau iki IV amžiaus.\n1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus\nmano buvus slavus, kuriuos kadaise nukariavo skitai*.\n2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my­\nlių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai\n(Zeller."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191557
+    - t-003
+
 - id: c-179276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -226,4 +217,4 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197642
+    - t-004

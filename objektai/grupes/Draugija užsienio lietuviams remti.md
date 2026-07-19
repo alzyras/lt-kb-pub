@@ -37,7 +37,6 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
 
 <a id="claim-t-77822"></a>
 - t-001
-  global_id: t-77822
   teiginys: "Draugija užsienio lietuviams remti buvo sukurta padėti užsienio lietuviams ir palaikyti jų ryšius su tėvyne."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,6 +84,7 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77822
+    - t-001
+
 ## Ryšiai
 - Draugija užsienio lietuviams remti rėmė [[objektai/grupes/Lietuviai]]

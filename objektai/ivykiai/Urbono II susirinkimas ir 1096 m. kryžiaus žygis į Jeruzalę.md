@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-89409"></a>
 - t-001
-  global_id: t-89409
   teiginys: "Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-89410"></a>
 - t-002
-  global_id: t-89410
   teiginys: "1096 m. Petras su kryžininkais ir daugybe vokiečių persikėlė per Helespontą ir užėmė Švento Jurgio ranką, Antiochiją ir Jeruzalę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -92,7 +90,6 @@ Nenurodyta
 
 <a id="claim-t-89411"></a>
 - t-003
-  global_id: t-89411
   teiginys: "Po Urbono II susirinkimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -132,23 +129,16 @@ Nenurodyta
     šventajame Jeruzalės mieste buvo paskirtas patriarchas, kuriam buvo pavaldūs keturi
     arkivyskupai, būtent: Tyro su keturiais sufraganais, Cezarėjos — su vienu, Nazareto —
     su vienu ir Petros — su vienu sufraganu.
-  citata_rodoma: |
-    Taigi 1096 viešpaties metais anksčiau
-    minėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir
-    užėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą
-    bei šventąjį Jeruzalės miestą, o ilgainiui kiti ten patraukę maldininkai užėmė galybę
-    kitų, rodėsi, neįveikiamų miestų bei pilių, išvaduodami juos iš netikėlių rankų; šitaip
-    šventajame Jeruzalės mieste buvo paskirtas patriarchas, kuriam buvo pavaldūs keturi
-    arkivyskupai, būtent: Tyro su keturiais sufraganais, Cezarėjos — su vienu, Nazareto —
-    su vienu ir Petros — su vienu sufraganu.
+  citata_rodoma: "Taigi 1096 viešpaties metais anksčiau\nminėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir\nužėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą\nbei šventąjį Jeruzalės miestą, o ilgainiui kiti ten patraukę maldininkai užėmė galybę\nkitų, rodėsi, neįveikiamų miestų bei pilių, išvaduodami juos iš netikėlių rankų; šitaip\nšventajame Jeruzalės mieste buvo paskirtas patriarchas, kuriam buvo pavaldūs keturi\narkivyskupai, būtent: Tyro su keturiais sufraganais, Cezarėjos — su vienu, Nazareto —\nsu vienu ir Petros — su vienu sufraganu."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89410
-    - t-89411
+    - t-002
+    - t-003
+
 - id: c-85369
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -178,4 +168,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89409
+    - t-001

@@ -54,9 +54,8 @@ Nenurodyta
 
 <a id="claim-t-62330"></a>
 - t-001
-  global_id: t-62330
   teiginys: "1285 m. Vokietijos kunigas Konradas persikėlė į Lietuvą atversti stabmeldžių, o po dvejų metų lietuviai jį nužudė."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -72,7 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiesiogiai atitinka citatą."
   pagrindžia:
     - c-62892
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1285 m. Vokietijos kunigas Konradas persikėlė į Lietuvą atversti stabmeldžių, o po dvejų metų lietuviai jį nužudė.'
@@ -89,8 +88,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62330
+
 ## Citatos
 
 - id: c-62892
@@ -107,17 +105,11 @@ Nenurodyta
     nepalieka be bausmės. Todėl, pasvėręs nuodėmes nedorųjų žmonių, kurie visokeriopai
     teršė piktadarystėmis šventąją žemę, pavirto, jų sukurstytas, žiauruoliu jis, tas, kuris iš
     prigimties yra meilus ir švelnus.
-  citata_rodoma: |
-    Apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių
-                                              atversti
-
-      1285 viešpaties metais Konradas, Vokietijos kunigas, persikėlė  į Lietuvos kraštą
-    atversti stabmeldžių. Kai jis čia nugyveno dvejus metus, lietuviai jį nužudė. Toje vietoje,
-    kur jį nužudė, vėliau dažnai galėjai išvysti degant žvakes.
+  citata_rodoma: "Apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių\n                                          atversti\n\n  1285 viešpaties metais Konradas, Vokietijos kunigas, persikėlė  į Lietuvos kraštą\natversti stabmeldžių. Kai jis čia nugyveno dvejus metus, lietuviai jį nužudė. Toje vietoje,\nkur jį nužudė, vėliau dažnai galėjai išvysti degant žvakes."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62330
+    - t-001

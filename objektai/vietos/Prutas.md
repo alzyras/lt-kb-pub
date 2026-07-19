@@ -31,8 +31,7 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
 ## Teiginiai
 
 <a id="claim-t-84558"></a>
-- t-001
-  global_id: t-84558
+- t-003
   teiginys: "Prie Pruto upės buvę kaimai buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
 
 <a id="claim-t-84559"></a>
 - t-002
-  global_id: t-84559
   teiginys: "Kaimai greta Pruto upės buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,5 +127,5 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84558
-    - t-84559
+    - t-003
+    - t-002

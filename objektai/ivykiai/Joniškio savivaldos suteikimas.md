@@ -8,10 +8,10 @@ datos:
   - '1650 m.'
 date_start: '1635'
 date_end: '1650'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-201897"></a>
 - t-001
-  global_id: t-201897
   teiginys: "1635 m. Vladislovas Vaza pažodžiui patvirtino savo pirmtako privilegiją ir papildomai skelbė, kad leidžia, kadangi mums buvo praneštas jų (Joniškio miestiečių - ZK) prašymas, geresnei miesto tvarkai Kauno miesto pavyzdžiu naudotis vilkieru arba plebiscitu."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-201898"></a>
 - t-002
-  global_id: t-201898
   teiginys: "Valdovai palaikė Joniškio miestiečių siekius, 1636 m. Vladislovas Vaza siuntė į Joniškį komisarus spręsti minėtų ginčų, 1639 m. patvirtino komisarų parengtą miestiečių ir vaito susitarimą, pagal kurį Kauno vilkieras liko galioti Joniškyje, 1650 m. Jonas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -70,6 +68,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185245
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -90,7 +91,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201897
+    - t-001
 
 - id: c-185245
   autorius: "Zigmantas Kiaupa"
@@ -108,4 +109,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201898
+    - t-002

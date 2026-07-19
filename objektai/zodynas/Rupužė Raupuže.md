@@ -31,7 +31,6 @@ Narbutas Rupužę vadino sausumos varle ir rašė, kad rupūžės buvo gerbiamos
 
 <a id="claim-t-189248"></a>
 - t-001
-  global_id: t-189248
   teiginys: "Narbutas Rupužę vadino sausumos varle ir rašė, kad rupūžės buvo gerbiamos prie šventyklų bei kai kuriuose namuose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Narbutas Rupužę vadino sausumos varle ir rašė, kad rupūžės buvo gerbiamos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189248
+    - t-001

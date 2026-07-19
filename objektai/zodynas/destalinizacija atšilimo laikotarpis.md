@@ -31,8 +31,7 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
 ## Teiginiai
 
 <a id="claim-t-22112"></a>
-- t-001
-  global_id: t-22112
+- t-002
   teiginys: "Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
     - c-24798
 
 <a id="claim-t-193602"></a>
-- t-002
-  global_id: t-193602
+- t-003
   teiginys: "Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -81,15 +79,15 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
     Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: |
-    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
+  citata_rodoma: "tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22112
+    - t-002
+
 - id: c-176275
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -104,4 +102,4 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193602
+    - t-003

@@ -31,7 +31,6 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 
 <a id="claim-t-02670"></a>
 - t-001
-  global_id: t-02670
   teiginys: "Persijos atstovai buvo tarp penkių valstybių atstovų, gynusių Pabaltijo valstybių priėmimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,15 +63,11 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
     atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portu-
     galijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais
     iš to einančiais padariniais.
-  citata_rodoma: |
-    Tik penkių valstybių
-    atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portu-
-    galijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais
-    iš to einančiais padariniais.
+  citata_rodoma: "Tik penkių valstybių\natstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portu-\ngalijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais\niš to einančiais padariniais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02670
+    - t-001

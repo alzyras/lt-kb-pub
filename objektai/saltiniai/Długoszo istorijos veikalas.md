@@ -30,7 +30,6 @@ Išėjus jo tarnams, Zigmantas taip prabilo į Jogailą: „Uwaž, najmilszy bra
 
 <a id="claim-t-36043"></a>
 - t-001
-  global_id: t-36043
   teiginys: "Długoszo istorijos veikale aprašytas Zigmanto raginimas Jogailai sutikti, kad Vytautas būtų paskirtas nauju karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Išėjus jo tarnams, Zigmantas taip prabilo į Jogailą: „Uwaž, najmilszy bra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36043
+    - t-001

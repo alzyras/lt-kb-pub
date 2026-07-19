@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31663"></a>
 - t-001
-  global_id: t-31663
   teiginys: "Chr. Stango „Die westrussische Kanzleisprache des Grossfurstentums Litauen“ išleista Osle 1935 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,13 +65,11 @@ media_all_json: |-
     furstentums Litauen,_ Oslo 1935. — Wielhorski, W. : _Litwini, Biatoru-
     sini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego_ , Prace
     Alma Mater Vilnensis, London 1951, 21-157 p.
-  citata_rodoma: |
-    — Stang, Chr. : _Die westrussische Kanzleisprache des Gross-
-    furstentums Litauen,_ Oslo 1935. — Wielhorski, W.
+  citata_rodoma: "— Stang, Chr. : _Die westrussische Kanzleisprache des Gross-\nfurstentums Litauen,_ Oslo 1935. — Wielhorski, W."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31663
+    - t-001

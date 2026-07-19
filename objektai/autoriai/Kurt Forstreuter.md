@@ -31,7 +31,6 @@ Forstreuter ir kt.) tuos laiškus tarė esant rygiečių falsifikatais, arba ben
 
 <a id="claim-t-100101"></a>
 - t-001
-  global_id: t-100101
   teiginys: "Kurtas Forstreuteris Gedimino laiškus laikė rygiečių falsifikatais arba bent stipriai įtartinais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Forstreuter ir kt.) tuos laiškus tarė esant rygiečių falsifikatais, arba ben
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100101
+    - t-001

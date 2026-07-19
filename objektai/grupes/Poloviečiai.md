@@ -39,7 +39,6 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
 
 <a id="claim-t-187773"></a>
 - t-001
-  global_id: t-187773
   teiginys: "Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
     - c-170712
 
 <a id="claim-t-192441"></a>
-- t-002
-  global_id: t-192441
+- t-003
   teiginys: "Pasak Nestoro, poloviečiai visą vasarą laikė apgulę Giurgevo tvirtovę, bet jos neįveikė ir, sudarę taiką su Sventopelku, nesikėlė per Rosės upę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
     - c-175235
 
 <a id="claim-t-192442"></a>
-- t-003
-  global_id: t-192442
+- t-004
   teiginys: "Karamzinas Nestoro žodžius apie poloviečius siejo su jų veiksmais dešiniajame Dnepro krante prie Jurjevo ir Rosės upės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
     - c-175236
 
 <a id="claim-t-192443"></a>
-- t-004
-  global_id: t-192443
+- t-005
   teiginys: "Teodoras Narbutas rašo, kad Ksaveras Bogušas, remdamasis Kojalavičiaus prielaidomis, poloviečius priskyrė lietuvių genties tautoms."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -123,8 +119,7 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
     - c-175237
 
 <a id="claim-t-197512"></a>
-- t-005
-  global_id: t-197512
+- t-006
   teiginys: "Tačiau jis prieštarauja sau ir savo tiksliai išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai riojoje Dnepro pakrantėje, į rytus nuo jo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -136,8 +131,7 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
     - c-175235
 
 <a id="claim-t-197513"></a>
-- t-006
-  global_id: t-197513
+- t-007
   teiginys: "Nuo tų laikų sėkmės paskatintos poloviečių ordos, visuomet būdamos stipresnės ir pridarydamos daug žalos, nesiliovė puldinėjusios pietinius Rusios kraštus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -208,19 +202,15 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
     vokiečiai norį stoti Tautvilai į pagalbą. Danielius iš­
     siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-
     čius, ir jie ilgai kariavo vieni su kitais.
-  citata_rodoma: |
-    Paėmė jie daug miestų ir pargrįžo namo l3 .
-    O paskui atsiuntė žinią Vykintas, pranešdamas, kad
-    vokiečiai norį stoti Tautvilai į pagalbą. Danielius iš­
-    siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-
-    čius, ir jie ilgai kariavo vieni su kitais.
+  citata_rodoma: "Paėmė jie daug miestų ir pargrįžo namo l3 .\nO paskui atsiuntė žinią Vykintas, pranešdamas, kad \nvokiečiai norį stoti Tautvilai į pagalbą. Danielius iš­\nsiuntė Tautvilą \", ir jam į pagalbą— rusus bei polovie- \nčius, ir jie ilgai kariavo vieni su kitais."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187773
+    - t-001
+
 - id: c-175235
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -243,8 +233,9 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192441
-    - t-197512
+    - t-003
+    - t-006
+
 - id: c-175236
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -262,25 +253,15 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
     1 Tą patį reiškia ir senovės lenkų kalba (Siownik Synvida. S.
     231). Oskolok, oskoloczok dar rusiškai reiškia drožlę, skiedrą, pliaus­
     ką, medžio atplaišą (Slownik Ross.
-  citata_rodoma: |
-    Ka­
-    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
-    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
-    toro žodžius priskiria poloviečių veiksmams dešiniojoje
-    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
-    statytas XII amžiaus pradžioje po to, kai jį sunaikino
-    poloviečiai. Tačiau jis prieštarauja sau ir savo tiksliai
-    išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­
-    mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­
-    imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­
-    riojoje Dnepro pakrantėje, į rytus nuo jo.
+  citata_rodoma: "Ka­\nramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­\nčios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­\ntoro žodžius priskiria poloviečių veiksmams dešiniojoje\nDnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­\nstatytas XII amžiaus pradžioje po to, kai jį sunaikino\npoloviečiai. Tačiau jis prieštarauja sau ir savo tiksliai\nišdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­\nmai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­\nimti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­\nriojoje Dnepro pakrantėje, į rytus nuo jo."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192442
+    - t-004
+
 - id: c-175237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -303,7 +284,8 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192443
+    - t-005
+
 - id: c-179225
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -327,6 +309,7 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197513
+    - t-007
+
 ## Ryšiai
 - Poloviečiai apgulė [[objektai/vietos/Giurgevo tvirtovė]]

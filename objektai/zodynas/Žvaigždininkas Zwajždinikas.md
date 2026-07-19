@@ -31,7 +31,6 @@ Narbutas žvaigždininką (Zwajždinikas) sieja su pranašavimu iš žvaigždži
 
 <a id="claim-t-189352"></a>
 - t-001
-  global_id: t-189352
   teiginys: "Narbutas žvaigždininką (Zwajždinikas) sieja su pranašavimu iš žvaigždžių ir liaudies padavimuose prilygina juodaknygininkui."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Narbutas žvaigždininką (Zwajždinikas) sieja su pranašavimu iš žvaigždži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189352
+    - t-001

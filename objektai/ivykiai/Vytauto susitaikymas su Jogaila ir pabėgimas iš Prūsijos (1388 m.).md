@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185663"></a>
 - t-001
-  global_id: t-185663
   teiginys: "Išjojęs iš Marienburgo, Vytautas pasiėmė žmoną su turtais ir skubiai paspruko link Žemaitijos, o iš ten pasuko į Palenkę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,6 @@ Nenurodyta
 
 <a id="claim-t-196274"></a>
 - t-002
-  global_id: t-196274
   teiginys: "Kojelavičiaus pasakojime Jogaila, baimindamasis, kad Lietuva ir Rusia pripažins Vytauto valdžią, skubėjo stabdyti karo veiksmus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,6 @@ Nenurodyta
 
 <a id="claim-t-196275"></a>
 - t-003
-  global_id: t-196275
   teiginys: "Kojelavičius vaizduoja Ordino magistrą sutikusį su Vytauto siūlymu, kad naujos Lietuvos skriaudos apsunkintų Vytauto suartėjimą su Jogaila."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -127,32 +124,16 @@ Nenurodyta
     los, Jurbarke, Noigardene, Marienburge, sutinkamas
     tarsi draugas, išžudė vokiečių eilinius karius, apiplėšė
     ir sudegino pilis, išsivedė įgulų viršininkus.
-  citata_rodoma: |
-    Magistras lengvai sutiko su tuo siūlymu, jis ir
-    pats trokšte troško naujomis Lietuvos skriaudomis ai­
-    trinti senąsias žaizdas, tada Vytautui būtų sunkiau su­
-    artėti su karaliumi Jogaila, jis būtų priverstas stipriau
-    laikytis draugystės su kryžiuočiais. Vytautas įsakė sa­
-    vo kariams parengti ginklus, pasiimti maisto daugeliui
-    dienų ir gerai pasiruošti skubiam žygiui: pats taip vis­
-    ką tvarkė, kad jo žmonės neapsikrautų per daug nešu­
-    liais ir kad kryžiuočiams nekiltų įtarimas, jog jie bėga.
-    Išjojęs iš Marienburgo visai kitu keliu, ne tuo, kuris
-    vedė į dvarą, netrukus pasuko ir iš dvaro pasiėmė žmo­
-    ną, kuri, kaip ir buvo sutarta, susiruošusi jo laukė su
-    turtais, ir skubiai paspruko link Žemaitijos, o iš ten,
-    pasukęs Prūsijos pasieniu į Palenkę, kurią gynė jo įgu­
-    los, Jurbarke, Noigardene, Marienburge, sutinkamas
-    tarsi draugas, išžudė vokiečių eilinius karius, apiplėšė
-    ir sudegino pilis, išsivedė įgulų viršininkus.
+  citata_rodoma: "Magistras lengvai sutiko su tuo siūlymu, jis ir \npats trokšte troško naujomis Lietuvos skriaudomis ai­\ntrinti senąsias žaizdas, tada Vytautui būtų sunkiau su­\nartėti su karaliumi Jogaila, jis būtų priverstas stipriau \nlaikytis draugystės su kryžiuočiais. Vytautas įsakė sa­\nvo kariams parengti ginklus, pasiimti maisto daugeliui \ndienų ir gerai pasiruošti skubiam žygiui: pats taip vis­\nką tvarkė, kad jo žmonės neapsikrautų per daug nešu­\nliais ir kad kryžiuočiams nekiltų įtarimas, jog jie bėga. \nIšjojęs iš Marienburgo visai kitu keliu, ne tuo, kuris \nvedė į dvarą, netrukus pasuko ir iš dvaro pasiėmė žmo­\nną, kuri, kaip ir buvo sutarta, susiruošusi jo laukė su \nturtais, ir skubiai paspruko link Žemaitijos, o iš ten, \npasukęs Prūsijos pasieniu į Palenkę, kurią gynė jo įgu­\nlos, Jurbarke, Noigardene, Marienburge, sutinkamas \ntarsi draugas, išžudė vokiečių eilinius karius, apiplėšė \nir sudegino pilis, išsivedė įgulų viršininkus."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185663
-    - t-196275
+    - t-001
+    - t-003
+
 - id: c-178608
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -180,4 +161,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196274
+    - t-002

@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-30546"></a>
 - t-001
-  global_id: t-30546
   teiginys: "A. Tyla svarstė 1905 m. revoliucijos klausimus ir teikė pastabų dėl lietuviškos knygos istorijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,17 +72,11 @@ media_all_json: |-
     dėl lietuviškos knygos istorijos (BBK, t. 7, 1969, 191-199 p.) ir
     liet. spaudinių gotiškomis raidėmis uždraudimo (BBK, t. 6, 1967,
     **_1812 m._** **(IstV, t. 4, 1963, 89-103 p.) ;** **_Projektas atkurti Lietuvos Did.
-  citata_rodoma: |
-    1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzijaus­
-    kienė: _1905-1907 metų revoliucija Lietuvoje_ (1955). A. Tyla
-    taip pat svarstė tos revoliucijos klausimus^122 ; jis davė pastabų ir
-    dėl lietuviškos knygos istorijos (BBK, t. 7, 1969, 191-199 p.) ir
-    liet. spaudinių gotiškomis raidėmis uždraudimo (BBK, t. 6, 1967,
-    **_1812 m.
+  citata_rodoma: "1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzijaus­\nkienė: _1905-1907 metų revoliucija Lietuvoje_ (1955). A. Tyla\ntaip pat svarstė tos revoliucijos klausimus^122 ; jis davė pastabų ir\ndėl lietuviškos knygos istorijos (BBK, t. 7, 1969, 191-199 p.) ir\nliet. spaudinių gotiškomis raidėmis uždraudimo (BBK, t. 6, 1967,\n**_1812 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30546
+    - t-001

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20298"></a>
 - t-001
-  global_id: t-20298
   teiginys: "1950 m. sovietai uždraudė Lietuvos himną – Vinco Kudirkos „Tautišką giesmę“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,12 +83,11 @@ Nenurodyta
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
     pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
     kabinėta komunistinių šūkių.
-  citata_rodoma: |
-    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
+  citata_rodoma: "vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20298
+    - t-001

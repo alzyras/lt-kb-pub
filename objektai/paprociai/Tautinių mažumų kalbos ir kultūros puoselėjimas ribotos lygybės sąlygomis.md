@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-77961"></a>
 - t-001
-  global_id: t-77961
   teiginys: "Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės politinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,25 +99,11 @@ Nenurodyta
     savo – lietuvių jaunimo dešinėje stiprėjo radikalus, nacionalistinis spar-
     nas, kairėje – žydų ir lietuvių jaunimo dalis reiškė aiškias simpatijas SSRS,
     bolševizmui.
-  citata_rodoma: |
-    Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-
-    tinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai. Apskritai
-    tautinės mažumos, tarp jų rusai ir vokiečiai, galėjusios laisvai puoselėti
-    savo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lie-
-    tuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė
-    valstybinės tarnybos. Vokiečių ir lenkų mažumos darė žygių gauti tautinę
-    autonomiją žydų pavyzdžiu, tik rusų mažuma tokių reikalavimų nekėlė.
-    Keliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti. Giminės
-    iš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.)
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    171
-    Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms
-    po 1939 m.
+  citata_rodoma: "Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-\ntinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai. Apskritai \ntautinės mažumos, tarp jų rusai ir vokiečiai, galėjusios laisvai puoselėti \nsavo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lie-\ntuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė \nvalstybinės tarnybos. Vokiečių ir lenkų mažumos darė žygių gauti tautinę \nautonomiją žydų pavyzdžiu, tik rusų mažuma tokių reikalavimų nekėlė. \nKeliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti. Giminės  \niš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.)\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n171\nTarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms \npo 1939 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77961
+    - t-001

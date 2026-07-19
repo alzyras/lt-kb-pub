@@ -31,7 +31,6 @@ Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl 
 
 <a id="claim-t-189584"></a>
 - t-001
-  global_id: t-189584
   teiginys: "Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl lietuvių senovės nagrinėjimą baigia kalbos tema."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl 
 
 <a id="claim-t-197383"></a>
 - t-002
-  global_id: t-197383
   teiginys: "Skaitytojui gali pasirodyti keista, kad lietuvių tautos seno vės nagrinėjimą šiame tome baigiame tuo, nuo ko reikėjo pra dėti, nes kalba yra pirmutinis tautų istorijos paminklas."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189584
+    - t-001
+
 - id: c-179160
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -113,4 +112,4 @@ Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197383
+    - t-002

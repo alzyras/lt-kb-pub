@@ -47,8 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07816"></a>
-- t-001
-  global_id: t-07816
+- t-004
   teiginys: "Kai kur Žemaičiuose lazda buvo minima kaip vyresnybės įsakymo ir paklusimo ženklas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -64,8 +63,7 @@ Nenurodyta
     - c-09975
 
 <a id="claim-t-07817"></a>
-- t-002
-  global_id: t-07817
+- t-003
   teiginys: "Kūrėjų kūrėjas per žygovus skelbė įsakymus svietui lazda, vadinama krivūle."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -90,40 +88,33 @@ Nenurodyta
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
-    tūlose
-    vietose pas žemaičius šiandien tebėra sakoma: „Karūžasis^880 , – sako, – lazdą parnešė“ arba: „Kaip
-    aš neklausysiu lazdos savo vyresnybės.“ Šiandien lenkai tyčiodamies senu įpročiu vadina lietuvį
-    skurczypalka^881 , nuo to, jog jis ne rašto, bet lazdos savo vyresnybės arba kūrėjų kūrėjo klausąs
-  citata_rodoma: |
-    tūlose
-    vietose pas žemaičius šiandien tebėra sakoma: „Karūžasis^880 , – sako, – lazdą parnešė“ arba: „Kaip
-    aš neklausysiu lazdos savo vyresnybės.“ Šiandien lenkai tyčiodamies senu įpročiu vadina lietuvį
-    skurczypalka^881 , nuo to, jog jis ne rašto, bet lazdos savo vyresnybės arba kūrėjų kūrėjo klausąs
+    tūlose vietose pas žemaičius šiandien tebėra sakoma: „Karūžasis^880 , – sako, – lazdą parnešė“
+        arba: „Kaip aš neklausysiu lazdos savo vyresnybės.“ Šiandien lenkai tyčiodamies senu įpročiu
+        vadina lietuvį skurczypalka^881 , nuo to, jog jis ne rašto, bet lazdos savo vyresnybės arba
+        kūrėjų kūrėjo klausąs.
+  citata_rodoma: "tūlose vietose pas žemaičius šiandien tebėra sakoma: „Karūžasis^880 , – sako, – lazdą parnešė“\narba: „Kaip aš neklausysiu lazdos savo vyresnybės.“ Šiandien lenkai tyčiodamies senu įpročiu\nvadina lietuvį skurczypalka^881 , nuo to, jog jis ne rašto, bet lazdos savo vyresnybės arba\nkūrėjų kūrėjo klausąs."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07816
+    - t-004
+
 - id: c-09976
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Jis pats retai, o rasi ir niekados nedavė įsakymų svietui, bet siuntė per savo kunigus,
-    žygovais^877 vadinamus, kuriems pavedė savo valdžią, įduodamas lietos, arba ūkės^878 , lazdą,
-    krivūle būk vadinamą, ir liepė ta lazda savo įsakymus svietui skelbti, kursai būdas skelbimo
-    įsakymų vyresnybės lazda iki šios dienos užsiturėjo^879 kaip Kalne, taip ir Žemaičiuose
-  citata_rodoma: |
-    Jis pats retai, o rasi ir niekados nedavė įsakymų svietui, bet siuntė per savo kunigus,
-    žygovais^877 vadinamus, kuriems pavedė savo valdžią, įduodamas lietos, arba ūkės^878 , lazdą,
-    krivūle būk vadinamą, ir liepė ta lazda savo įsakymus svietui skelbti, kursai būdas skelbimo
-    įsakymų vyresnybės lazda iki šios dienos užsiturėjo^879 kaip Kalne, taip ir Žemaičiuose
+        žygovais^877 vadinamus, kuriems pavedė savo valdžią, įduodamas lietos, arba ūkės^878 , lazdą,
+        krivūle būk vadinamą, ir liepė ta lazda savo įsakymus svietui skelbti, kursai būdas skelbimo
+        įsakymų vyresnybės lazda iki šios dienos užsiturėjo^879 kaip Kalne, taip ir Žemaičiuose.
+  citata_rodoma: "Jis pats retai, o rasi ir niekados nedavė įsakymų svietui, bet siuntė per savo kunigus,\nžygovais^877 vadinamus, kuriems pavedė savo valdžią, įduodamas lietos, arba ūkės^878 , lazdą,\nkrivūle būk vadinamą, ir liepė ta lazda savo įsakymus svietui skelbti, kursai būdas skelbimo\nįsakymų vyresnybės lazda iki šios dienos užsiturėjo^879 kaip Kalne, taip ir Žemaičiuose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07817
+    - t-003

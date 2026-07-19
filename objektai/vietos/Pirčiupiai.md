@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-21706"></a>
 - t-001
-  global_id: t-21706
   teiginys: "Nacių valdžios laikotarpiu kartais buvo sudeginami ištisi kaimai, tarp jų Pirčiupiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,12 +59,11 @@ media_all_json: |-
     sugebėjusius pristatyti reikiamo kiekio žemės ūkio produktų. Įtariami
     pasikėsinimu į vokiečių kareivius žudyti be teismo, kartais sudeginami
     ištisi kaimai (Pirčiupiai).
-  citata_rodoma: |
-    sugebėjusius pristatyti reikiamo kiekio žemės ūkio produktų. Įtariami
+  citata_rodoma: "sugebėjusius pristatyti reikiamo kiekio žemės ūkio produktų. Įtariami"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21706
+    - t-001

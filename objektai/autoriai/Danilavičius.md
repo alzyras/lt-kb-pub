@@ -31,7 +31,6 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
 
 <a id="claim-t-35432"></a>
 - t-001
-  global_id: t-35432
   teiginys: "Danilavičius ir Koneczny šią sutartį laikė falsifikatu, nors Prochaska ją priėmė kaip autentišką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,15 +73,11 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
     torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;
     tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip
     autentišką.
-  citata_rodoma: |
-    Dėl šitos sutarties autentiškumo keliama abejonių. Is­
-    torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;
-    tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip
-    autentišką.
+  citata_rodoma: "Dėl šitos sutarties autentiškumo keliama abejonių. Is­\ntorikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;\ntačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip\nautentišką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35432
+    - t-001

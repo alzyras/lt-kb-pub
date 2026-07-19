@@ -31,7 +31,6 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
 
 <a id="claim-t-39979"></a>
 - t-001
-  global_id: t-39979
   teiginys: "A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,28 +73,14 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
     "bei kitus miestus ir priartėjo prie Senojo
     Bychovo. Tuo pat metu priešiškai nusi-
     teikusi Švedija lūkuriavo (su ja Lenkija
-  citata_rodoma: |
-    Rusų karvedys V. B. Seremetjevas (apie
-
-    15000 karių) užėmė Polocką ir Dysną,
-
-    A. N. Trubeckojaus kariuomenė (apie
-
-    15000 karių) užėmė Mstislavlį (liepos 22 d.
-
-    užėmus miestą visi miestiečiai buvo iš-
-
-    žudyti) ir žygiavo į
-
-    Lietuvos gilumą,
-
-    Minsko link.
+  citata_rodoma: "Rusų karvedys V. B. Seremetjevas (apie\n\n15000 karių) užėmė Polocką ir Dysną,\n\nA. N. Trubeckojaus kariuomenė (apie\n\n15000 karių) užėmė Mstislavlį (liepos 22 d.\n\nužėmus miestą visi miestiečiai buvo iš-\n\nžudyti) ir žygiavo į\n\nLietuvos gilumą,\n\nMinsko link."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39979
+    - t-001
+
 ## Ryšiai
 - A. N. Trubeckojus užėmė [[objektai/vietos/Mstislavlis]]

@@ -36,8 +36,7 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
 ## Teiginiai
 
 <a id="claim-t-19797"></a>
-- t-001
-  global_id: t-19797
+- t-002
   teiginys: "Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir nuo pirmųjų dienų keitė administraciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
     - c-22521
 
 <a id="claim-t-19798"></a>
-- t-002
-  global_id: t-19798
+- t-001
   teiginys: "1940 m. birželio 17 d. sudaryta marionetinė Liaudies vyriausybė, į kurią įėjo A. Smetonos valdymą kritikavę inteligentai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,15 +94,15 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
     kas žurnalistas Justas Paleckis, o jo pavaduotoju ir užsienio reikalų minis-
     tru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas
     Galvanauskas, krašto apsaugos – gen. Vincas Vitkauskas.
-  citata_rodoma: |
-    tru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas
+  citata_rodoma: "tru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19798
+    - t-001
+
 - id: c-22521
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -121,12 +119,11 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
     LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
     toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
     žurnalai.
-  citata_rodoma: |
-    toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
+  citata_rodoma: "toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19797
+    - t-002

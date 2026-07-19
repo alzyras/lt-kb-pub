@@ -30,7 +30,6 @@ VANDENS IR VĖJO GALYBE.
 
 <a id="claim-t-96067"></a>
 - t-001
-  global_id: t-96067
   teiginys: "„Vandens ir vėjo galybę“ sudarė A. Vireliūnas ir P. Šinkūnas, o leidinys buvo iliustruotas daugybe paveikslėlių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ VANDENS IR VĖJO GALYBE.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96067
+    - t-001

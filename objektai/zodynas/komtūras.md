@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-182848"></a>
-- t-001
-  global_id: t-182848
+- t-033
   teiginys: "Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-14694
 
 <a id="claim-t-183715"></a>
-- t-002
-  global_id: t-183715
+- t-034
   teiginys: "1348 m. didysis komtūras Vinrichas iš Kniprodės dalyvavo Strėvos mūšyje ir narsiai kovėsi."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ media_all_json: |-
     - c-167103
 
 <a id="claim-t-183834"></a>
-- t-003
-  global_id: t-183834
+- t-035
   teiginys: "Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -327,7 +324,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182848
+    - t-033
+
 - id: c-167103
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -342,7 +340,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183715
+    - t-034
+
 - id: c-167219
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -364,4 +363,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183834
+    - t-035

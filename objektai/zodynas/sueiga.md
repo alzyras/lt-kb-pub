@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-185413"></a>
 - t-001
-  global_id: t-185413
   teiginys: "Žmonės buvo kviečiami varinio varpo dūžiais į sueigas aikštėje svarstyti svarbiausių reikalų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185413
+    - t-001

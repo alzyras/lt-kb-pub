@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-08361"></a>
 - t-001
-  global_id: t-08361
   teiginys: "Lazda buvo naudojama kaip vyresnybės įsakymų skelbimo ženklas."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -69,7 +68,6 @@ Nenurodyta
 
 <a id="claim-t-08362"></a>
 - t-002
-  global_id: t-08362
   teiginys: "Lazda siejama su krive krivaičiu ir kreiva lazda."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-55773"></a>
 - t-003
-  global_id: t-55773
   teiginys: "Kūrėjų kūrėjas paėmė ūkės lazdą ir vienas pats valdė tautą kaip anksčiau."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -111,34 +108,30 @@ Nenurodyta
         savo vyresnybės įsakymą lazda tebvadina ir taip sako: „Karūžasis parnešė lazdą“ arba „Kaip aš
         neklausysiu savo dvaro lazdos“, tai yra įsakymo, nuo ko lenkai paskui tyčiodamies lietuvius vadino
         skurczypałka, tai yra sukurčiaus lazda, jog jie it būt lazdos jo bijantys, ne įsakymo.
-  citata_rodoma: |
-    Jo įsakymai buvo svietui kaip dievo žodžiais, kuriuos skelbė jam savo lazda, kurią kožnas pamatęs jo siuntinio rankoje tuojau klausė, kas
-    buvo įsakyta, it būt gromatą, jo ranka rašytą, perskaitęs. Nuo ko kalnėnai ir žemaičiai iki šiai dienai
-    savo vyresnybės įsakymą lazda tebvadina ir taip sako: „Karūžasis parnešė lazdą“ arba „Kaip aš
-    neklausysiu savo dvaro lazdos“, tai yra įsakymo, nuo ko lenkai paskui tyčiodamies lietuvius vadino
-    skurczypałka, tai yra sukurčiaus lazda, jog jie it būt lazdos jo bijantys, ne įsakymo.
+  citata_rodoma: "Jo įsakymai buvo svietui kaip dievo žodžiais, kuriuos skelbė jam savo lazda, kurią kožnas pamatęs jo siuntinio rankoje tuojau klausė, kas\nbuvo įsakyta, it būt gromatą, jo ranka rašytą, perskaitęs. Nuo ko kalnėnai ir žemaičiai iki šiai dienai\nsavo vyresnybės įsakymą lazda tebvadina ir taip sako: „Karūžasis parnešė lazdą“ arba „Kaip aš\nneklausysiu savo dvaro lazdos“, tai yra įsakymo, nuo ko lenkai paskui tyčiodamies lietuvius vadino\nskurczypałka, tai yra sukurčiaus lazda, jog jie it būt lazdos jo bijantys, ne įsakymo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08361
+    - t-001
+
 - id: c-10315
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Prašaleičiai vadino jį krive krivaičiu, būk nuo jo kreivos lazdos, kuria jis svietui įsakymus davęs.
-  citata_rodoma: |
-    Prašaleičiai vadino jį krive krivaičiu, būk nuo jo kreivos lazdos, kuria jis svietui įsakymus davęs.
+  citata_rodoma: "Prašaleičiai vadino jį krive krivaičiu, būk nuo jo kreivos lazdos, kuria jis svietui įsakymus davęs."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08362
+    - t-002
+
 - id: c-56406
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -146,13 +139,11 @@ Nenurodyta
   citata_originali: |
     o kūrėjų kūrėjas paėmė vėl ūkės lazdą ir vienas pats valdė tautą, kaip jei
         pirm.
-  citata_rodoma: |
-    o kūrėjų kūrėjas paėmė vėl ūkės lazdą ir vienas pats valdė tautą, kaip jei
-    pirm.
+  citata_rodoma: "o kūrėjų kūrėjas paėmė vėl ūkės lazdą ir vienas pats valdė tautą, kaip jei\npirm."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55773
+    - t-003

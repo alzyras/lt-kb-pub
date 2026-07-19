@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-185915"></a>
 - t-001
-  global_id: t-185915
   teiginys: "Vytautas išvykstančiam imperatoriui davė daug dovanų, tarp jų auksu ir brangakmeniais papuoštą Gedimino nukauto tauro ragą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169276
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytautas išvykstančiam imperatoriui davė daug dovanų, tarp jų auksu ir brangakmeniais papuoštą Gedimino nukauto tauro ragą.'
@@ -89,8 +88,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185915
+
 ## Citatos
 
 - id: c-169276
@@ -117,26 +115,11 @@ Nenurodyta
     gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
     priešas, nes šitai esąs parodęs praeityje ne vieną kar­
     tą.
-  citata_rodoma: |
-    Karaliui išvykus, ir
-    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
-    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
-    iš Volynės į Vengriją. Išvykstančiam Vytautas davė
-    galybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino
-    nukauto tauro garsųjį ragą, išmoningai papuoštą auksu
-    bei brangakmeniais.
-    Po to prasidėjo ilgos tarpusavio rietenos, kurias
-    nuolat kurstė ir Vytautas, ir
-    lenkai, siuntinėdami žygūnus:
-    Lietuvos didysis kunigaikštis
-    stengėsi iš lenkų išgauti suti­
-    kimą, o šie — priversti Vy­
-    tautą atsisakyti savo sumany­
-    mo.
+  citata_rodoma: "Karaliui išvykus, ir\nimperatorius, apsvarstęs su Vytautu svarbiausius klau­\nsimus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai\niš Volynės į Vengriją. Išvykstančiam Vytautas davė\ngalybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino\nnukauto tauro garsųjį ragą, išmoningai papuoštą auksu\nbei brangakmeniais.\nPo to prasidėjo ilgos tarpusavio rietenos, kurias\nnuolat kurstė ir Vytautas, ir\nlenkai, siuntinėdami žygūnus:\nLietuvos didysis kunigaikštis\nstengėsi iš lenkų išgauti suti­\nkimą, o šie — priversti Vy­\ntautą atsisakyti savo sumany­\nmo."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185915
+    - t-001

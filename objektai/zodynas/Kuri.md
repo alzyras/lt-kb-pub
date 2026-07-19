@@ -31,7 +31,6 @@ Apskritimo ženklą, virš kurio styro kryžius, indai vadina Kuri; jis priklaus
 
 <a id="claim-t-194785"></a>
 - t-001
-  global_id: t-194785
   teiginys: "Apskritimo ženklą, virš kurio styro kryžius, indai vadina Kuri; jis priklauso^ prie dievo Višnaus paslapčių, išreiškia tei kiamą jam garbę '."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ Apskritimo ženklą, virš kurio styro kryžius, indai vadina Kuri; jis priklaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194785
+    - t-001

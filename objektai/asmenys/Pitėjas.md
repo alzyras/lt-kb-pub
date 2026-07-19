@@ -32,7 +32,6 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
 
 <a id="claim-t-191220"></a>
 - t-001
-  global_id: t-191220
   teiginys: "Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Britaniją, antrą kartą į šiaurės rytus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
 
 <a id="claim-t-191222"></a>
 - t-003
-  global_id: t-191222
   teiginys: "Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
 
 <a id="claim-t-191223"></a>
 - t-004
-  global_id: t-191223
   teiginys: "Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -96,7 +93,6 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
 
 <a id="claim-t-197793"></a>
 - t-005
-  global_id: t-197793
   teiginys: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -109,7 +105,6 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
 
 <a id="claim-t-197794"></a>
 - t-006
-  global_id: t-197794
   teiginys: "Aes tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias, seklias vietas, kurios kartais būva apsemtos, o kartais — sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -122,7 +117,6 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
 
 <a id="claim-t-197795"></a>
 - t-007
-  global_id: t-197795
   teiginys: "Argi tuo būdu negalima buvo patekti j Baltiją, Plinijaus vadinamą gintaringa sala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos ir Sambijos sausumos mažėjimo proporcijas, plytėjo maž daug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už šiandienės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -135,7 +129,6 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
 
 <a id="claim-t-201023"></a>
 - t-008
-  global_id: t-201023
   teiginys: "Nes jei Brutenis buvo jau viešpačiu ir tarnu dievų ir visų vyriausiu valdymieru ūkės dar pirm Vitevudo, kaip pati pasaka byloja, tai turėjo pirmesniai būti žinyčia įkurta ir kunigai paskirti, kurie ūkės dievus pirm to jau godojo, ką ne vien Pitėjas, kurs tą."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -146,17 +139,6 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   pagrindžia:
     - c-184373
 
-<a id="claim-t-191221"></a>
-- t-002
-  global_id: t-191221
-  teiginys: 'Narbutas pažymėjo, kad Pitėjas gutonus vadino germanų gentimi, o Tacitas šį pavadinimą laikė neseniai pradėtu vartoti.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai sieja Pitėją su gutonų įvardijimu ir Tacito pastaba. Atribucija Narbutui tinka šaltinių aiškinimui, o prielaida apie Plinijų neįtraukta.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_place: Kinija'
-  pagrindžia:
-    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas pažymėjo, kad Pitėjas gutonus vadino germanų gentimi, o Tacitas šį pavadinimą laikė neseniai pradėtu vartoti.'
@@ -179,11 +161,9 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
     Plinijus bus pridūręs1.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191221
+  statusas: verified
 ## Citatos
 
 - id: c-174102
@@ -206,8 +186,9 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191220
-    - t-197793
+    - t-001
+    - t-005
+
 - id: c-174104
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -227,8 +208,9 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191222
-    - t-197794
+    - t-003
+    - t-006
+
 - id: c-174105
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -253,30 +235,15 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
     nardo žuvys ir iš paslaptingų jūros gelmių išgaunama
     labai daug gintaro, — ten seniau buvo daugelį mylių
     besitęsianti sausuma.
-  citata_rodoma: |
-    Kopija iš Karaliau­
-    čiaus archyvo kopijos, sub titulo Pommeraniae pertinen­
-    do, yra be pradžios ir pabaigos. Argi tuo būdu negalima
-    buvo patekti j Baltiją, Plinijaus vadinamą gintaringa
-    sala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos
-    ir Sambijos sausumos mažėjimo proporcijas, plytėjo maž­
-    daug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už
-    šiandienės nerijos, be to, ir gintaro čia galėjo būti ne ma­
-    žiau kaip šiandien Sambijoje.
-    Laikui bėgant, čia marių vandenys visiškai pakeitė
-    pakrančių vaizdą, taip pat dėl smarkių jūros štormų ge­
-    rokai pakito ir vakarinė Sambijos pakrantė, nes anksčiau
-    ji plytėjo gerokai toliau į jūros pusę, ten, kur šiandien
-    nardo žuvys ir iš paslaptingų jūros gelmių išgaunama
-    labai daug gintaro, — ten seniau buvo daugelį mylių
-    besitęsianti sausuma.
+  citata_rodoma: "Kopija iš Karaliau­\nčiaus archyvo kopijos, sub titulo Pommeraniae pertinen­\ndo, yra be pradžios ir pabaigos. Argi tuo būdu negalima\nbuvo patekti j Baltiją, Plinijaus vadinamą gintaringa\nsala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos\nir Sambijos sausumos mažėjimo proporcijas, plytėjo maž­\ndaug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už\nšiandienės nerijos, be to, ir gintaro čia galėjo būti ne ma­\nžiau kaip šiandien Sambijoje.\nLaikui bėgant, čia marių vandenys visiškai pakeitė\npakrančių vaizdą, taip pat dėl smarkių jūros štormų ge­\nrokai pakito ir vakarinė Sambijos pakrantė, nes anksčiau\nji plytėjo gerokai toliau į jūros pusę, ten, kur šiandien\nnardo žuvys ir iš paslaptingų jūros gelmių išgaunama\nlabai daug gintaro, — ten seniau buvo daugelį mylių\nbesitęsianti sausuma."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191223
+    - t-004
+
 - id: c-179343
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -305,10 +272,12 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197795
+    - t-007
+
 - id: c-184373
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nuo to gi gal lemti, jog ta pasaka galėjo bū­
     ti pradžioj yna, bet paskui yra pertaisyta nuo kokio
@@ -336,4 +305,4 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201023
+    - t-008

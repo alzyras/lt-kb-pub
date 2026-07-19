@@ -31,7 +31,6 @@ Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padali
 
 <a id="claim-t-193273"></a>
 - t-001
-  global_id: t-193273
   teiginys: "Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padalintos į dvi gubernijas — Vilniaus ir Slanimo."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193273
+    - t-001

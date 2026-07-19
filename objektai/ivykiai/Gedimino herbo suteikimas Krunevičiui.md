@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192031"></a>
-- t-001
-  global_id: t-192031
+- t-002
   teiginys: "Narbuto aiškinimu, 1302 m. Gedimino Krunevičiui duotas herbas siejamas su lietuviams nebūdingu herbų suteikimo papročiu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-174908
 
 <a id="claim-t-192032"></a>
-- t-002
-  global_id: t-192032
+- t-001
   teiginys: "Narbutas pateikia 1302 m. Gedimino Krunevičiui duotą herbą kaip pavyzdį, kad didieji kunigaikščiai kartais suteikdavo herbus slavų giminėms."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -108,13 +106,12 @@ Nenurodyta
     lėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Len­
     kijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
     Lietuvoje šeimos herbai egzistavo70.
-  citata_rodoma: |
-    Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302 metais Gediminas davė Krunevičiui. Sis paprotys lietuviams nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Lenkijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų, Lietuvoje šeimos herbai egzistavo70.
+  citata_rodoma: "Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302 metais Gediminas davė Krunevičiui. Sis paprotys lietuviams nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Lenkijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų, Lietuvoje šeimos herbai egzistavo70."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192031
-    - t-192032
+    - t-002
+    - t-001

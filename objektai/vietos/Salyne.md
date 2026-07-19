@@ -37,7 +37,6 @@ Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magist
 
 <a id="claim-t-42118"></a>
 - t-001
-  global_id: t-42118
   teiginys: "1398 m. spalio 12 d. Salyne Vytauto ir didžiojo magistro Konrado delegacijos patvirtino kryžiuočiams užleistą Žemaitiją iki Nevėžio ir Sūduvą iki Šešupės aukštupio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,18 +86,11 @@ Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magist
     iki Nevėžio ir Sūduva iki Šešupės aukštu-
     pio. Kryžiuočiai turėjo remti LDK veiksmus
     rytuose.
-  citata_rodoma: |
-    Nemuno saloje „Salyne“ (kiek žemiau
-    Kulautuvos) Vytauto ir didžiojo magistro
-    Konrado delegacijų susitikime buvo pa-
-    tvirtinta kryžiuočiams užleista Žemaitija
-    iki Nevėžio ir Sūduva iki Šešupės aukštu-
-    pio. Kryžiuočiai turėjo remti LDK veiksmus
-    rytuose.
+  citata_rodoma: "Nemuno saloje „Salyne“ (kiek žemiau\nKulautuvos) Vytauto ir didžiojo magistro\nKonrado delegacijų susitikime buvo pa-\ntvirtinta kryžiuočiams užleista Žemaitija\niki Nevėžio ir Sūduva iki Šešupės aukštu-\npio. Kryžiuočiai turėjo remti LDK veiksmus\nrytuose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42118
+    - t-001

@@ -39,7 +39,6 @@ Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo men
 
 <a id="claim-t-55021"></a>
 - t-001
-  global_id: t-55021
   teiginys: "Romas Dubonis buvo 2007 m. „Vilniaus miesto istorijos“ leidimo meninis redaktorius."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::authors"
@@ -58,7 +57,6 @@ Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo men
 
 <a id="claim-t-81963"></a>
 - t-002
-  global_id: t-81963
   teiginys: "Romas Dubonis buvo 2007 m. išleistos Mykolo Balinskio knygos „Vilniaus miesto istorija“ meninis redaktorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -117,7 +115,8 @@ Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo men
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55021
+    - t-001
+
 - id: c-78480
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -143,26 +142,11 @@ Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo men
     Maketuotoja Danutė Navickienė
     Užsakymas
     „Minties" leidykla, Z. Sierakausko g. 15, LT-03105 Vilnius.
-  citata_rodoma: |
-    UDK 947.45
-
-    ## Puslapis 494
-
-    Mykolas Balinskis
-    VILNIAUS MIESTO ISTORIJA
-    Iš lenkų kalbos vertė
-    Ona Slavėnaitė, Irena Katilienė
-    Iš lotynų kalbos vertė
-    Jūratė Dalia Baronienė
-    Redaktorė Skirmantė Ramanauskaitė
-    Meninis redaktorius Romas Dubonis
-    Maketuotoja Danutė Navickienė
-    Užsakymas
-    „Minties" leidykla, Z.
+  citata_rodoma: "UDK 947.45\n\n## Puslapis 494\n\nMykolas Balinskis \nVILNIAUS MIESTO ISTORIJA\nIš lenkų kalbos vertė \nOna Slavėnaitė, Irena Katilienė \nIš lotynų kalbos vertė \nJūratė Dalia Baronienė\nRedaktorė Skirmantė Ramanauskaitė \nMeninis redaktorius Romas Dubonis \nMaketuotoja Danutė Navickienė\nUžsakymas\n„Minties\" leidykla, Z."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81963
+    - t-002

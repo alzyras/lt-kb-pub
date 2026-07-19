@@ -31,7 +31,6 @@ Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III vald
 
 <a id="claim-t-191578"></a>
 - t-001
-  global_id: t-191578
   teiginys: "Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III valdymą siejo su III krikščioniškosios eros amžiumi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191578
+    - t-001

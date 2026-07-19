@@ -39,7 +39,6 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
 
 <a id="claim-t-18803"></a>
 - t-001
-  global_id: t-18803
   teiginys: "1990 m. kovo 11 d. Aloyzas Sakalas buvo Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo narys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,12 +83,11 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
     ir Bronislovas Kuzmickas, dešinėje – pirmininko pavaduotojas
     Česlovas Stankevičius, Lietuvos Respublikos AT Prezidiumo narys
     Aloyzas Sakalas.
-  citata_rodoma: |
-    Vytautas Landsbergis, kairėje – jo pavaduotojai – Kazimieras Motieka
+  citata_rodoma: "Vytautas Landsbergis, kairėje – jo pavaduotojai – Kazimieras Motieka"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18803
+    - t-001

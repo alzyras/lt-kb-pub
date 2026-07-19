@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20313"></a>
 - t-001
-  global_id: t-20313
   teiginys: "1940 m. liepos 3 d. priimtas Lietuvos kariuomenės pertvarkymo įstatymas, po kurio Lietuvos kariuomenė tapo Liaudies kariuomene."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-183245"></a>
 - t-002
-  global_id: t-183245
   teiginys: "1940 m. liepą Maskva diegė SSRS valdymo modelį Lietuvos administracijoje, policijoje ir teismuose, pradėta kurti liaudies milicija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -107,15 +105,15 @@ Nenurodyta
     muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
     kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
     liau – Raudonosios armijos 29-uoju šaulių korpusu).
-  citata_rodoma: |
-    muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
+  citata_rodoma: "muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20313
+    - t-001
+
 - id: c-166633
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,4 +130,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183245
+    - t-002

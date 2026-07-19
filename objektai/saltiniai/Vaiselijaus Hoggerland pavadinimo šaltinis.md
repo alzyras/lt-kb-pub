@@ -30,7 +30,6 @@ Narbutas nurodo, kad, remiantis Vaiselijumi, Hokerlando sritis vadinta Hoggerlan
 
 <a id="claim-t-191862"></a>
 - t-001
-  global_id: t-191862
   teiginys: "Narbutas nurodo, kad, remiantis Vaiselijumi, Hokerlando sritis vadinta Hoggerlandu pagal mitinio kunigaikščio Hogo vardą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,7 @@ Narbutas nurodo, kad, remiantis Vaiselijumi, Hokerlando sritis vadinta Hoggerlan
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174744
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad, remiantis Vaiselijumi, Hokerlando sritis vadinta Hoggerlandu pagal mitinio kunigaikščio Hogo vardą.'
@@ -66,8 +65,7 @@ Narbutas nurodo, kad, remiantis Vaiselijumi, Hokerlando sritis vadinta Hoggerlan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191862
+
 ## Citatos
 
 - id: c-174744
@@ -83,18 +81,11 @@ Narbutas nurodo, kad, remiantis Vaiselijumi, Hokerlando sritis vadinta Hoggerlan
     ti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal
     mitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-
     gezanijos tėvo, vardą.
-  citata_rodoma: |
-    Pamaryje buvo ne tiek daug gyventojų, nes ten plytėjo
-    didžiuliai miškai. Čia gyveno stiprūs ir karingi žmonės,
-    ypač tokie gyveno pietinėse aukštumose arba kalvose,
-    kur šios provincijos dalis buvo vadinama Hokerland. Ki­
-    ti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal
-    mitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-
-    gezanijos tėvo, vardą.
+  citata_rodoma: "Pamaryje buvo ne tiek daug gyventojų, nes ten plytėjo\ndidžiuliai miškai. Čia gyveno stiprūs ir karingi žmonės,\nypač tokie gyveno pietinėse aukštumose arba kalvose,\nkur šios provincijos dalis buvo vadinama Hokerland. Ki­\nti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal\nmitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-\ngezanijos tėvo, vardą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191862
+    - t-001

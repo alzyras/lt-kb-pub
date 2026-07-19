@@ -29,8 +29,7 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
 ## Teiginiai
 
 <a id="claim-t-89576"></a>
-- t-001
-  global_id: t-89576
+- t-004
   teiginys: "Dusburgietis aiškino, kad žodžius „Aukščiausias dievas padarė manyje ženklų ir stebuklų“ ištarė Babilonijos karalius Nabuchodonosaras."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,8 +45,7 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
     - c-85519
 
 <a id="claim-t-89577"></a>
-- t-002
-  global_id: t-89577
+- t-003
   teiginys: "Dusburgietis posakį „Aukščiausias dievas padarė manyje ženklų ir stebuklų“ pritaikė savo sumanymui skelbti Dievo ženklus ir stebuklus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -93,17 +91,36 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
     ir stebuklų“ ir t. t. Kadangi yra parašyta (Mt 5, 16): „...kad jie matytų jūsų gerus darbus
     ir šlovintų jūsų Tėvą danguje“, todėl Jėzaus Kristaus vardo garbei bei šlovei jis ir nutarė
     skelbti dievo ženklus, nes jie dideli, ir jo stebuklus, nes jie galingi.
-  citata_rodoma: |
-    Kadangi yra parašyta (Mt 5, 16): „...kad jie matytų jūsų gerus darbus
-    ir šlovintų jūsų Tėvą danguje“, todėl Jėzaus Kristaus vardo garbei bei šlovei jis ir nutarė
-    skelbti dievo ženklus, nes jie dideli, ir jo stebuklus, nes jie galingi.
+  citata_rodoma: "Kadangi yra parašyta (Mt 5, 16): „...kad jie matytų jūsų gerus darbus\nir šlovintų jūsų Tėvą danguje“, todėl Jėzaus Kristaus vardo garbei bei šlovei jis ir nutarė\nskelbti dievo ženklus, nes jie dideli, ir jo stebuklus, nes jie galingi."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89577
+    - t-003
+
+- id: c-85518
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Taigi man patiko paskelbti jo
+    ženklus, nes jie dideli, ir jo stebuklus, nes galingi“ (Dan 3. 99—100), (Danielius III).
+     Šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė
+    nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei
+    įmesti į septynis kartus daugiau nei paprastai pakūrentą krosnį, nes atidavė savo kūnus,
+    nenorėdami tarnauti nė vienam dievui nei jo garbinti, išskyrus tą, kurį patys tikėjo, nors
+    ugnies liežuviai kilo per 49 uolektis virš krosnies ir sudegino kūrikus, o Danieliaus ir jo
+    bičiulių nė neužgavo ir nieko blogo jiems nepadarė, štai tada jis ir tarė: „Aukščiausias
+    dievas padarė manyje ženklų ir stebuklų“.
+  citata_rodoma: "Pratarmė\n\n  „Aukščiausias dievas padarė manyje ženklų ir stebuklų. Taigi man patiko paskelbti jo\nženklus, nes jie dideli, ir jo stebuklus, nes galingi“ (Dan 3. 99—100), (Danielius III)."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-85519
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -128,4 +145,4 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89576
+    - t-004

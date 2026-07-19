@@ -37,8 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78379"></a>
-- t-001
-  global_id: t-78379
+- t-003
   teiginys: "Lietuvos totoriai naudodavo rytietiškas strėlines ir buvo ginkluoti lanku, kardu bei skydu."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ media_all_json: |-
 
 <a id="claim-t-78380"></a>
 - t-002
-  global_id: t-78380
   teiginys: "Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -72,8 +70,7 @@ media_all_json: |-
     - c-75665
 
 <a id="claim-t-78381"></a>
-- t-003
-  global_id: t-78381
+- t-004
   teiginys: "Lietuvos totoriai naudodavo rytietiškas strėlines, kaip ir kita Lietuvos lengvoji kariuomenė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +89,7 @@ media_all_json: |-
     - c-75662
 
 <a id="claim-t-78382"></a>
-- t-004
-  global_id: t-78382
+- t-001
   teiginys: "Lietuvos totoriai šiame sparne buvo vertinami dėl manevringumo persekiojant bėgantį priešą."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -107,18 +103,6 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-75663
-
-<a id="claim-t-188287"></a>
-- t-005
-  global_id: t-188287
-  teiginys: 'Narbutas rašo, kad Lietuvos totoriai mitines būtybes vadino fereikomis ir džinais, o jų religinė raštija joms priskyrė kenksmingumą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Mitologinis ir religinis aiškinimas paliktas su Narbuto atribucija. Pašalinta nutrūkusi OCR nuoroda ir nepridėta daugiau, nei leidžia citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Barstukai|Barstukai]]'
-  pagrindžia:
-    - c-005
 - susijęs iš [[objektai/asmenys/Kurovičius.md#claim-t-39772|Kurovičius]]: Kurovičius buvo „vengrų“ pėstininkų rotmistras, kurį paryčiais girti bajorai nužudė kartu su kitais žymesniais belaisviais.
 - susijęs iš [[objektai/asmenys/M. Vaina.md#claim-t-39781|M. Vaina]]: Breslaujos seniūnas M. Vaina buvo nužudytas kartu su M. P. Sapiega ir rotmistru Kurovičiumi.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65305|Kazokai]]: Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.
@@ -150,11 +134,9 @@ media_all_json: |-
     kas pasakas su mūsų vietinėmis fantazijomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188287
+  statusas: verified
 ## Citatos
 
 - id: c-75662
@@ -175,27 +157,15 @@ media_all_json: |-
 
     „Rengiasi jie beveik taip pat kaip totoriai, ir ginkluoti taip pat - lanku,
     kardu ir skydu.
-  citata_rodoma: |
-    ) aprašymo apie
-    kazokų ginkluotę bei kariavimo būdą, kuriems už pagalbą Lenkijos-Lietuvos
-
-    valdovas moka atlygį.
-
-    Rytietiška strėlinė.
-    Tokias strėlines naudo-
-    davo Lietuvos totoriai
-
-    ir kita Lietuvos lengvoji
-
-    „Rengiasi jie beveik taip pat kaip totoriai, ir ginkluoti taip pat - lanku,
-    kardu ir skydu.
+  citata_rodoma: ") aprašymo apie\nkazokų ginkluotę bei kariavimo būdą, kuriems už pagalbą Lenkijos-Lietuvos\n\nvaldovas moka atlygį.\n\nRytietiška strėlinė.\nTokias strėlines naudo-\ndavo Lietuvos totoriai\n\nir kita Lietuvos lengvoji\n\n„Rengiasi jie beveik taip pat kaip totoriai, ir ginkluoti taip pat - lanku,\nkardu ir skydu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78381
+    - t-004
+
 - id: c-75663
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -217,7 +187,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78382
+    - t-001
+
 - id: c-75664
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -237,7 +208,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78379
+    - t-003
+
 - id: c-75665
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -258,4 +230,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78380
+    - t-002

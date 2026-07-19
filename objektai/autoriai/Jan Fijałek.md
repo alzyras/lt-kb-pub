@@ -39,7 +39,6 @@ Jan Fijałek 1415 mt.
 
 <a id="claim-t-35446"></a>
 - t-001
-  global_id: t-35446
   teiginys: "Kunigas prof. dr. J. Fijałek teigė, kad žemaičių skundo „Propositio Samaytarum“ dar negalima skaityti sausomis akimis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,17 +72,11 @@ Jan Fijałek 1415 mt.
     sitio Samaytarum” kurio dėl graudingumo, kaip sako prof.
     kunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis
     skaityti^3 ).
-  citata_rodoma: |
-    Jis 1415 mt. gruodžio 15 d. į visuotinį Bažnyčios
-    sinodą Konstancijoje nusiuntė net 60 apkrikštytu žemaičių ba­
-    joru, kurie įteikė sinodui ilgą memorialą — skundą „Propo­
-    sitio Samaytarum” kurio dėl graudingumo, kaip sako prof.
-    kunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis
-    skaityti^3 ).
+  citata_rodoma: "Jis 1415 mt. gruodžio 15 d. į visuotinį Bažnyčios\nsinodą Konstancijoje nusiuntė net 60 apkrikštytu žemaičių ba­\njoru, kurie įteikė sinodui ilgą memorialą — skundą „Propo­\nsitio Samaytarum” kurio dėl graudingumo, kaip sako prof.\nkunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis\nskaityti^3 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35446
+    - t-001

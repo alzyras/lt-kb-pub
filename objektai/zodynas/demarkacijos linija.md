@@ -40,8 +40,7 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
 ## Teiginiai
 
 <a id="claim-t-181355"></a>
-- t-001
-  global_id: t-181355
+- t-027
   teiginys: "Ambasadorių konferencija patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją, pagal kurią Vilnius liko Lenkijos pusėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -61,8 +60,7 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
     - c-164910
 
 <a id="claim-t-181357"></a>
-- t-002
-  global_id: t-181357
+- t-028
   teiginys: "Lietuvos ir Lenkijos demarkacijos linija keliolikai metų nutraukė traukinių ir pašto judėjimą tarp abiejų pusių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -97,7 +95,8 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181355
+    - t-027
+
 - id: c-164911
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -113,4 +112,4 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181357
+    - t-028

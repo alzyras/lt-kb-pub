@@ -37,7 +37,6 @@ Anot vieno budelio – „buvo baisu šaudyti, bet maniau, kad tai reikalinga Li
 
 <a id="claim-t-20887"></a>
 - t-001
-  global_id: t-20887
   teiginys: "Vienas budelis sakė manęs, kad šaudymas buvo reikalingas Lietuvos nepriklausomybei, nes okupantai tai įsakė ir skatino."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,12 +67,11 @@ Anot vieno budelio – „buvo baisu šaudyti, bet maniau, kad tai reikalinga Li
     daryti.
     Po pirmųjų SD einzatskomandų akcijų 1941 m. rugpjūčio pradžioje
     95 proc.
-  citata_rodoma: |
-    Lietuvos nepriklausomybei“, juoba kad okupantai įsakinėjo ir skatino tai
+  citata_rodoma: "Lietuvos nepriklausomybei“, juoba kad okupantai įsakinėjo ir skatino tai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20887
+    - t-001

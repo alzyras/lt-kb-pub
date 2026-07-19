@@ -38,7 +38,6 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
 
 <a id="claim-t-20836"></a>
 - t-001
-  global_id: t-20836
   teiginys: "Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,12 +76,11 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
     buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėk-
     tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
     pirmųjų raidžių).
-  citata_rodoma: |
-    Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,
+  citata_rodoma: "Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20836
+    - t-001

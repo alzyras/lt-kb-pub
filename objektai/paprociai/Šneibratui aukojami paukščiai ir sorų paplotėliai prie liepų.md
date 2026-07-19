@@ -47,9 +47,8 @@ Nenurodyta
 
 <a id="claim-t-189885"></a>
 - t-001
-  global_id: t-189885
   teiginys: "Narbutas Šneibratą apibūdina kaip paukščių ūkio ir medžioklės dievą, kuriam daugiausia aukotos vištos, antys, balandžiai ir povai."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -58,10 +57,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172768
-    - c-001
+
 <a id="claim-t-189886"></a>
 - t-002
-  global_id: t-189886
   teiginys: "Narbutas aiškina, kad Šneibrato mitas galėjo virsti nusipelniusio tautai dievinamo vyro simboliu, o jam aukoti prie liepų kepti sorų paplotėliai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -95,8 +93,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189885
+
 ## Citatos
 
 - id: c-172768
@@ -110,19 +107,15 @@ Nenurodyta
     siausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais.
     Šiek tiek vėliau tų dievybių garbinimas iš Atikos paplito visoje
     Graikijoje ir toliau.
-  citata_rodoma: |
-    Šneibratas (Sznejbrato)
-    Paukščių ūkio ir medžioklės dievas. Jam daugiausia buvo
-    aukojamos vištos, antys, balandžiai, povai. Kitaip vadinosi Is-
-    zwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų
-    Komovės šventykloje.
+  citata_rodoma: "Šneibratas (Sznejbrato)\nPaukščių ūkio ir medžioklės dievas. Jam daugiausia buvo\naukojamos vištos, antys, balandžiai, povai. Kitaip vadinosi Is-\nzwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų\nKomovės šventykloje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189885
+    - t-001
+
 - id: c-172769
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -144,4 +137,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189886
+    - t-002

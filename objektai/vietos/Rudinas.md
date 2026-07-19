@@ -31,10 +31,9 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
 ## Teiginiai
 
 <a id="claim-t-91359"></a>
-- t-001
-  global_id: t-91359
+- t-002
   teiginys: "Sargybinis rado sužeistą Martyną kovos vietoje ir nuvežė jį į Rudino pilį."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Rudinas: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -47,12 +46,12 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   semantiniai_rysiai: "Martynas iš Golino keliavo į Rudinas (0.78)"
   pagrindžia:
     - c-87075
+    - c-87076
 
 <a id="claim-t-91360"></a>
-- t-002
-  global_id: t-91360
+- t-003
   teiginys: "Antrosios atskalūnybės metais Rudino broliai ir miestiečiai gynė krikščionių tikėjimą nuo prūsų."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -64,12 +63,11 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-87074
-    - c-001
+
 <a id="claim-t-91361"></a>
-- t-003
-  global_id: t-91361
+- t-001
   teiginys: "Pasak kai kurių žmonių, Rudino miestas buvo du kartus užkariautas, o jo gyventojai paimti į nelaisvę arba išžudyti."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> pasak kai kurių: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -81,7 +79,6 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-87076
-    - c-003
 - susijęs iš [[objektai/ivykiai/Rudino brolių susidūrimas su trimis ir penkiais prūsais.md#claim-t-59596|Rudino brolių susidūrimas su trimis ir penkiais prūsais]]: Vienas Rudino brolis ir Martynas iš Golino, pasiklydę dykrose, susidūrė su prūsais, juos įveikė ir grįžo į Rudino pilį.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63910|Martynas iš Golino]]: Martynas iš Golino šiame šaltinyje dalyvauja žvalgyboje su vienu Rudino broliu ir išsigelbsti iš nelaisvės.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63912|Martynas iš Golino]]: Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais.
@@ -120,8 +117,6 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91360
 - c-003
   santrauka: 'Pasak kai kurių žmonių, Rudino miestas buvo du kartus užkariautas, o jo gyventojai paimti į nelaisvę arba išžudyti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -136,8 +131,7 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91361
+
 ## Citatos
 
 - id: c-87074
@@ -155,21 +149,15 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
     medžio, sutraukė raiščius, nuėjo į kovos vietą, surado čia Martyną, smarkiai sužeistą,
     bet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge prūsų arklius ir
     gabendamasis jų ginklus bei kitus daiktus.
-  citata_rodoma: |
-    Apie Rudino brolių kovą ir tenykščio miesto sugriovimą
-
-      Vargu ar kas stengtų išsamiai aprašyti bei papasakoti, kiek vargų antrosios atskalūnybės
-    metais patyrė Rudino broliai bei miestiečiai, gindami krikščionių tikėjimą nuo prūsų, nes
-    šiomis vietomis prūsai nuolatos braudavosi į Kulmo žemę ir iš jos traukdavo atgal. Pasak
-    kai kurių žmonių. Rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės
-    arba paimti į nelaisvę, arba išžudyti.
+  citata_rodoma: "Apie Rudino brolių kovą ir tenykščio miesto sugriovimą\n\n  Vargu ar kas stengtų išsamiai aprašyti bei papasakoti, kiek vargų antrosios atskalūnybės\nmetais patyrė Rudino broliai bei miestiečiai, gindami krikščionių tikėjimą nuo prūsų, nes\nšiomis vietomis prūsai nuolatos braudavosi į Kulmo žemę ir iš jos traukdavo atgal. Pasak\nkai kurių žmonių. Rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės\narba paimti į nelaisvę, arba išžudyti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91360
+    - t-003
+
 - id: c-87075
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -183,19 +171,15 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
     medžio, sutraukė raiščius, nuėjo į kovos vietą, surado čia Martyną, smarkiai sužeistą,
     bet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge prūsų arklius ir
     gabendamasis jų ginklus bei kitus daiktus.
-  citata_rodoma: |
-    Kai
-    galop visi krikščionys ir prūsai jau gulėjo nukauti, sargybinis, kuris buvo pririštas prie
-    medžio, sutraukė raiščius, nuėjo  į kovos vietą, surado čia Martyną, smarkiai sužeistą,
-    bet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge prūsų arklius ir
-    gabendamasis jų ginklus bei kitus daiktus.
+  citata_rodoma: "Kai\ngalop visi krikščionys ir prūsai jau gulėjo nukauti, sargybinis, kuris buvo pririštas prie\nmedžio, sutraukė raiščius, nuėjo  į kovos vietą, surado čia Martyną, smarkiai sužeistą,\nbet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge prūsų arklius ir\ngabendamasis jų ginklus bei kitus daiktus."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91359
+    - t-002
+
 - id: c-87076
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -209,21 +193,15 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
     medžio, sutraukė raiščius, nuėjo į kovos vietą, surado čia Martyną, smarkiai sužeistą,
     bet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge prūsų arklius ir
     gabendamasis jų ginklus bei kitus daiktus.
-  citata_rodoma: |
-    Pasak
-    kai kurių žmonių. Rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės
-    arba paimti į nelaisvę, arba išžudyti.
-
-
-
-
-                     156 (151).
+  citata_rodoma: "Pasak\nkai kurių žmonių. Rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės\narba paimti į nelaisvę, arba išžudyti.\n\n\n\n\n                 156 (151)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91361
+    - t-002
+    - t-001
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Martynas iš Golino]]

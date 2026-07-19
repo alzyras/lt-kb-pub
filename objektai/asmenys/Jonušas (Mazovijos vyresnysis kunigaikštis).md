@@ -32,7 +32,6 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
 
 <a id="claim-t-87735"></a>
 - t-001
-  global_id: t-87735
   teiginys: "Jonušas, vyresnysis Mazovijos kunigaikštis, vedė Vytauto seserį Oną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87735
+    - t-001

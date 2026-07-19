@@ -37,13 +37,47 @@ media_all_json: |-
 
 Feliksas Bernatovičius 1826 m. Vilniuje išleido kūrinį „Pojata corka Lezdejki, albo Litwini w XIV wieku“.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Feliksas Bernatovičius 1826 m. Vilniuje išleido kūrinį „Pojata corka Lezdejki, albo Litwini w XIV wieku“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    -  Felikso Bernatovičiaus (1786-1836) kūrinys (Ber-
+    natowiczF. Pojata corka Lezdejki, albo Litwini w
+    XIV wieku. -  Wilno, 1826. -  T. I-IV).
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-173270
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    P. 351* - Žodis, kuriuo T. Narbutas papildė sakinį, rengda­
+    mas antrąjį leidimą (orig.: szlachetnego stanu)
+    (PE .-L . 219).
+    P. 351** - Tekstas, kuriuo autorius papildė išnašą, rengdamas
+    antrąjį LTI leidimą (PEĮ.
+  citata_rodoma: "-  Felikso Bernatovičiaus (1786-1836) kūrinys (Ber-\nnatowiczF. Pojata corka Lezdejki, albo Litwini w\nXIV wieku. -  Wilno, 1826. -  T. I-IV)."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-190387"></a>
 - t-001
-  global_id: t-190387
   teiginys: "Feliksas Bernatovičius 1826 m. Vilniuje išleido kūrinį „Pojata corka Lezdejki, albo Litwini w XIV wieku“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -62,44 +96,5 @@ Feliksas Bernatovičius 1826 m. Vilniuje išleido kūrinį „Pojata corka Lezde
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173270
-    - c-001
 - susijęs iš [[objektai/autoriai/Feliksas Bernatovičius.md#claim-t-190386|Feliksas Bernatovičius]]: Feliksas Bernatovičius 1826 m. Vilniuje išleido kūrinį „Pojata corka Lezdejki, albo Litwini w XIV wieku“.
 - susijęs iš Bernatowicz F., Pojata corka Lezdejki, albo Litwini w XIV wieku: Felikso Bernatovičiaus „Pojata corka Lezdejki, albo Litwini w XIV wieku“ buvo išleista Vilniuje 1826 m. keturiais tomais.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Feliksas Bernatovičius 1826 m. Vilniuje išleido kūrinį „Pojata corka Lezdejki, albo Litwini w XIV wieku“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    -  Felikso Bernatovičiaus (1786-1836) kūrinys (Ber-
-    natowiczF. Pojata corka Lezdejki, albo Litwini w
-    XIV wieku. -  Wilno, 1826. -  T. I-IV).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190387
-## Citatos
-
-- id: c-173270
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    P. 351* - Žodis, kuriuo T. Narbutas papildė sakinį, rengda­
-    mas antrąjį leidimą (orig.: szlachetnego stanu)
-    (PE .-L . 219).
-    P. 351** - Tekstas, kuriuo autorius papildė išnašą, rengdamas
-    antrąjį LTI leidimą (PEĮ.
-  citata_rodoma: |
-    -  Felikso Bernatovičiaus (1786-1836) kūrinys (Ber-
-    natowiczF. Pojata corka Lezdejki, albo Litwini w
-    XIV wieku. -  Wilno, 1826. -  T. I-IV).
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190387

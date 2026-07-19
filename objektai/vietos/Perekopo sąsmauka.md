@@ -31,7 +31,6 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
 
 <a id="claim-t-42021"></a>
 - t-001
-  global_id: t-42021
   teiginys: "Įtvirtinta Perekopo sąsmauka saugojo sunkiai pasiekiamą totorių bazę, iš kurios jie galėjo leistis į tolimus žygius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
 
 <a id="claim-t-183799"></a>
 - t-002
-  global_id: t-183799
   teiginys: "Įtvirtinta Perekopo sąsmauka saugojo Krymą ir didino totorių pagrindinės buveinės strateginį pranašumą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -94,5 +92,5 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42021
-    - t-183799
+    - t-001
+    - t-002

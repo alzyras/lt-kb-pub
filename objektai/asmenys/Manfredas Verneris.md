@@ -40,7 +40,6 @@ Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui (Manfred 
 
 <a id="claim-t-17579"></a>
 - t-001
-  global_id: t-17579
   teiginys: "1994 m. sausį Manfredas Verneris gavo A. Brazausko laišką dėl Lietuvos pageidavimo tapti NATO nare."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,15 +70,11 @@ Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui (Manfred 
     toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
     dauja tapti šios organizacijos nare. Tų pačių metų sausį Lietuva prisijungė
     prie Partnerystės taikos labui iniciatyvos.
-  citata_rodoma: |
-    1994 m. sausį Lietuvos Res-
-    publikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-
-    toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
-    dauja tapti šios organizacijos nare.
+  citata_rodoma: "1994 m. sausį Lietuvos Res-\npublikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-\ntoriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-\ndauja tapti šios organizacijos nare."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-17579
+    - t-001

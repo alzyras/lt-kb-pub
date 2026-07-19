@@ -40,21 +40,19 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 ## Teiginiai
 
 <a id="claim-t-97209"></a>
-- t-001
-  global_id: t-97209
+- t-002
   teiginys: "Romas BATŪRA международный конгресс."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-91695
-    - c-002
+    - c-91696
+
 <a id="claim-t-97211"></a>
-- t-002
-  global_id: t-97211
+- t-006
   teiginys: "191—192; Batūra R., Karinė..., р."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,10 +65,9 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-91699
-    - c-005
+
 <a id="claim-t-97212"></a>
-- t-003
-  global_id: t-97212
+- t-005
   teiginys: "Romas Batūra minimas tarp autorių, siejusių 1262 m. žygio organizavimą su Mindaugu ir vadovavimą kariuomenei su Treniota."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,8 +86,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     - c-91696
 
 <a id="claim-t-97213"></a>
-- t-004
-  global_id: t-97213
+- t-007
   teiginys: "Romas Batūra 1966 m. rašė XIII a. Lietuvos sostinės klausimu ir nagrinėjo lietuvių kovas su totoriais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,10 +106,9 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     - c-30822
 
 <a id="claim-t-97214"></a>
-- t-005
-  global_id: t-97214
+- t-004
   teiginys: "Romas Batūra cituojamas aiškinant 1236 m. rugsėjo 22 d. Saulės mūšį, kuriame lietuviai sutriuškino kalavijuočius."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Kalavijuočių ordinas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -129,7 +124,6 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   temporalinis_llm_pakomentavimas: "Citata palaiko autoriaus ryšį su Saulės mūšio aiškinimu."
   pagrindžia:
     - c-91697
-    - c-004
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78783|Loreta Uzdraitė]]: Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kryžininkų pajėgų telkimas prieš Lietuvą 1236 m.“ autoriai.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78784|Loreta Uzdraitė]]: Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę“ autoriai.
 - susijęs iš GEDIMINO UŽSIENIO POLITIKA: P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
@@ -149,8 +143,6 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-97209
 - c-004
   santrauka: 'Romas Batūra cituojamas aiškinant 1236 m. rugsėjo 22 d. Saulės mūšį, kuriame lietuviai sutriuškino kalavijuočius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -168,8 +160,6 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-97214
 - c-005
   santrauka: '191—192; Batūra R., Karinė..., р.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -185,8 +175,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-97211
+
 ## Citatos
 
 - id: c-30822
@@ -199,17 +188,15 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     B. Dundulis 108. R. Batūra rašė : _XIII a. Lietuvos sostinės
     klausimu_ (AkMD, t. 20, 1966, 141-163 p.) ir apie lietuvių kovas su
     totoriais^109.
-  citata_rodoma: |
-    R. Batūra rašė : _XIII a. Lietuvos sostinės
-    klausimu_ (AkMD, t. 20, 1966, 141-163 p.) ir apie lietuvių kovas su
-    totoriais^109.
+  citata_rodoma: "R. Batūra rašė : _XIII a. Lietuvos sostinės\nklausimu_ (AkMD, t. 20, 1966, 141-163 p.) ir apie lietuvių kovas su\ntotoriais^109."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97213
+    - t-007
+
 - id: c-91695
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -223,21 +210,13 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
     būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
     apreikšti dievo darbus yra šlovinga.
-  citata_rodoma: |
-    ROMAS BATŪRA
-
-
-
-
-
-    международный конгресс.
+  citata_rodoma: "ROMAS BATŪRA\n\n\n\n\n\nмеждународный конгресс."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-97209
 - id: c-91696
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -263,7 +242,9 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97212
+    - t-002
+    - t-005
+
 - id: c-91697
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -285,23 +266,15 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     ir griebtis įvairiausių gudrybių, trokšdamas paslapčiomis suleisti savo nuodingą geluonį,
     sutrypti viešpaties vynuogyną ir viešpaties lauke prisėti raugių. Galop štai šiuo būdu jis
     sukėlė žiauriausią tikėjimo ir tikinčiųjų persekiojimą.
-  citata_rodoma: |
-    Apie Sventopelko karą su Teutonų ordino broliais
-     1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo
-                                              plitimo
-
-
-      262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino
-    kalavijuočius (Ivinskis Z., Saulės—Šiaulių kautynės...; Pakarklis P., Lietuvių kova...;
-    Lietuvių karas.., p. 109—119; Benninghoven F., Der Orden...; Urban W., The Baltic.., p.
-    158—159; Batūra R., Šiaulių.., p. 22—24).
+  citata_rodoma: "Apie Sventopelko karą su Teutonų ordino broliais\n 1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo\n                                          plitimo\n\n\n  262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino\nkalavijuočius (Ivinskis Z., Saulės—Šiaulių kautynės...; Pakarklis P., Lietuvių kova...;\nLietuvių karas.., p. 109—119; Benninghoven F., Der Orden...; Urban W., The Baltic.., p.\n158—159; Batūra R., Šiaulių.., p. 22—24)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97214
+    - t-004
+
 - id: c-91699
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -318,17 +291,11 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     juos ir nužudė 70 kunigaikščių drauge su namų šeimininku, neskaitant kitų žmonių, kurių
     ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
     žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
-  citata_rodoma: |
-    Minėtieji Numa ir
-      520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos
-    valstybės gynyboje XIII—XIV a. žr. LE, t. 8, p. 972—985; Воронин H. H., Древнее
-    Гродно, с. 149—195; Пашуто В. Т., Гродно..., с. 191—192; Batūra R., Karinė..., р.
-    105—107; to paties, Lietuva..., p. 98, 140, 161, 164; Ткачоу М. А., Замю..., c. 23—25;
-    to paties, Абарончыя..., c. 52—55.
+  citata_rodoma: "Minėtieji Numa ir\n  520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos\nvalstybės gynyboje XIII—XIV a. žr. LE, t. 8, p. 972—985; Воронин H. H., Древнее\nГродно, с. 149—195; Пашуто В. Т., Гродно..., с. 191—192; Batūra R., Karinė..., р.\n105—107; to paties, Lietuva..., p. 98, 140, 161, 164; Ткачоу М. А., Замю..., c. 23—25;\nto paties, Абарончыя..., c. 52—55."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97211
+    - t-006

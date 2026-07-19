@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200677"></a>
-- t-001
-  global_id: t-200677
+- t-200536
   teiginys: "1755 m. Mykolas Antanas Sapiega pasiliko po Tribunolo dėl miesto bylos su žydais."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-183908
 
 <a id="claim-t-200679"></a>
-- t-002
-  global_id: t-200679
+- t-003
   teiginys: "Mykolas Antanas Sapiega Gimė 1711 m. ir mirė 1760 m."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -77,8 +75,7 @@ media_all_json: |-
     - c-183908
 
 <a id="claim-t-200680"></a>
-- t-003
-  global_id: t-200680
+- t-002
   teiginys: "Mykolas Antanas Sapiega buvo LDK pakancleris."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -96,7 +93,6 @@ media_all_json: |-
 
 <a id="claim-t-200681"></a>
 - t-004
-  global_id: t-200681
   teiginys: "1755 m. laiške Jonas Dominykas Lopacinskis teigė, kad LDK pakancleris Mykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -149,23 +145,14 @@ media_all_json: |-
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede"
   puslapiai: "PDF 6"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
-  citata_originali: |
-    Istorija / 2015, t. 97, Nr. 1
-    namus [t. y. giminę] [26]. Taip pat 1755 m. laiške kanauninkas teigė, kad LDK pakancleris
-    Mykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais [43]. 1759 m. jis
-    pranešė, kaip Antanas Tovianskis (Antoni Gieralt Towiański) siekė tribunolo vicemaršalo
-    posto [57].
-  citata_rodoma: |
-    Taip pat 1755 m. laiške kanauninkas teigė, kad LDK pakancleris\nMykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais [43].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 12:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200677
-    - t-200679
-    - t-200680
-    - t-200681
+    - t-200536
+    - t-003
+    - t-002
+    - t-004
+
 ## Ryšiai
 - Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760) mirė [[objektai/vietos/Slonimas]]

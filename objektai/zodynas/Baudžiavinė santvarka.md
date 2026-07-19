@@ -40,7 +40,6 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
 
 <a id="claim-t-38746"></a>
 - t-001
-  global_id: t-38746
   teiginys: "Per 1853-1856 m. karą su Turkija Rusijos carinė vyriausybė baudžiavinę santvarką laikė didžiausia kliūtimi šalies ūkiui ir nusprendė ją panaikinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
 
 <a id="claim-t-183706"></a>
 - t-002
-  global_id: t-183706
   teiginys: "Per 1853-1856 m. karą su Turkija Rusijos carinė vyriausybė baudžiavinę santvarką laikė didžiausia kliūtimi šalies ūkiui."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -106,7 +104,8 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38746
+    - t-001
+
 - id: c-167094
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -132,4 +131,4 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183706
+    - t-002

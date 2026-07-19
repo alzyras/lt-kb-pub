@@ -40,7 +40,6 @@ Jai vadovauti buvo pakviestas iš šalies 1764 m. išvarytas buvęs respublikona
 
 <a id="claim-t-40273"></a>
 - t-001
-  global_id: t-40273
   teiginys: "Karolis Stanislovas Radvila buvo pakviestas vadovauti konfederatams po to, kai 1764 m. buvo išvarytas iš šalies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,20 +73,11 @@ Jai vadovauti buvo pakviestas iš šalies 1764 m. išvarytas buvęs respublikona
     senąją tvarką, kurios globėja oficialiai
 
     tapo Jakaterina rr.
-  citata_rodoma: |
-    Jai vado-
-    vauti buvo pakviestas iš šalies 1764 m.
-    išvarytas buvęs respublikonas Karolis Sta-
-    nislovas Radvila (Ponas Mielasis). Šie kon-
-    federatai surengė seimą Varšuvoje, kuriame
-    sustabdė Čartoriskių reformas ir atkūrė
-    senąją tvarką, kurios globėja oficialiai
-
-    tapo Jakaterina rr.
+  citata_rodoma: "Jai vado-\nvauti buvo pakviestas iš šalies 1764 m.\nišvarytas buvęs respublikonas Karolis Sta-\nnislovas Radvila (Ponas Mielasis). Šie kon-\nfederatai surengė seimą Varšuvoje, kuriame\nsustabdė Čartoriskių reformas ir atkūrė\nsenąją tvarką, kurios globėja oficialiai\n\ntapo Jakaterina rr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40273
+    - t-001

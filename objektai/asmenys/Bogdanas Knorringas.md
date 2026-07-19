@@ -38,8 +38,7 @@ Rusijos kariuomenės korpusui, puolusiam Vilnių, vadovavo generolas leitenantas
 ## Teiginiai
 
 <a id="claim-t-40069"></a>
-- t-001
-  global_id: t-40069
+- t-002
   teiginys: "1794 m. liepos 19 d. Bogdano Knorringo vadovaujamas Rusijos kariuomenės korpusas pasiekė Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,20 +74,11 @@ Rusijos kariuomenės korpusui, puolusiam Vilnių, vadovavo generolas leitenantas
     menės korpusas, padalintas į tris
     kolonas, pasiekė Vilnių. Pirmajai va-
     dovavo gen. mjr.
-  citata_rodoma: |
-    Antroji kovų fazė:
-
-    Vilniaus gynyba
-
-    Liepos 19 d. gen. ltn. B. Knorrin-
-
-    go vadovaujamas Rusijos kariuo-
-    menės korpusas, padalintas į tris
-    kolonas, pasiekė Vilnių.
+  citata_rodoma: "Antroji kovų fazė:\n\nVilniaus gynyba\n\nLiepos 19 d. gen. ltn. B. Knorrin-\n\ngo vadovaujamas Rusijos kariuo-\nmenės korpusas, padalintas į tris\nkolonas, pasiekė Vilnių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40069
+    - t-002

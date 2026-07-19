@@ -30,7 +30,6 @@ Pats miestas tiesiog visai sunai­ kintas, Kreivoji, arba Žemutinė, pilis, iš
 
 <a id="claim-t-194320"></a>
 - t-001
-  global_id: t-194320
   teiginys: "Pats miestas tiesiog visai sunai kintas, Kreivoji, arba Žemutinė, pilis, išskyrus mūrinę da lį, sudeginta; Aukštutinė tvirtovė pagaliau per daugybę išardų susilpninta; tiktai neįveikiamas Moskoževskis su dar ir Onacevičiaus pastabą, prie Hlebovičiaus Vytauto."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Pats miestas tiesiog visai sunai­ kintas, Kreivoji, arba Žemutinė, pilis, iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194320
+    - t-001

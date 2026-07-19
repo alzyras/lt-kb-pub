@@ -35,8 +35,7 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
 ## Teiginiai
 
 <a id="claim-t-199852"></a>
-- t-001
-  global_id: t-199852
+- t-002
   teiginys: "Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras."
   atnaujinta: "2026-07-12 23:04"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -48,10 +47,9 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182786
-    - c-170362
+
 <a id="claim-t-199853"></a>
-- t-002
-  global_id: t-199853
+- t-001
   teiginys: "Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos."
   atnaujinta: "2026-07-12 23:04"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -63,7 +61,6 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-182786
-    - c-170362
 - susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
 ## Citatos
 
@@ -92,63 +89,12 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
     kad didysis kunigaikštis Aleksandras žygiuos j Molda­
     vijos žemę per Braclavą. link Sorokos “, o karalius
     Olbrachtas — iš kito šono.
-  citata_rodoma: |
-    Paskui abi šalys su visais
-    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
-    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
-    tais sumanė ir nutarė — visa tai paliko didelė paslap­
-    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
-    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
-    Septyni tūkstančiai penktaisiais metais nuo pasaulio
-    sutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­
-    tai devyniasdešimt septintųjų metų vasarą Lenkijos ka­
-    ralius Olbrachas sutelkė galybę savo kariuomenės ir
-    su visomis Lenkijos karalystės jėgomis, su paruoštais
-    žirgais ir ginklais išžygiavo prieš Moldavijos vaivadą
-    Steponą l0 .
-    O didysis kunigaikštis Aleksandras tame Parčevo
-    seime buvo kalbėjęs su savo broliu karaliumi Olbrach-
-    tu ir slapta nuo visų savo Tarybų ponų buvo nutarę,
-    kad didysis kunigaikštis Aleksandras žygiuos j Molda­
-    vijos žemę per Braclavą. link Sorokos “ , o karalius
-    Olbrachtas — iš kito šono.
+  citata_rodoma: "Paskui abi šalys su visais \nsavo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­\nme, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­\ntais sumanė ir nutarė — visa tai paliko didelė paslap­\ntis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­\nvą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .\nSeptyni tūkstančiai penktaisiais metais nuo pasaulio \nsutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­\ntai devyniasdešimt septintųjų metų vasarą Lenkijos ka­\nralius Olbrachas sutelkė galybę savo kariuomenės ir \nsu visomis Lenkijos karalystės jėgomis, su paruoštais \nžirgais ir ginklais išžygiavo prieš Moldavijos vaivadą \nSteponą l0 .\nO didysis kunigaikštis Aleksandras tame Parčevo \nseime buvo kalbėjęs su savo broliu karaliumi Olbrach- \ntu ir slapta nuo visų savo Tarybų ponų buvo nutarę, \nkad didysis kunigaikštis Aleksandras žygiuos j Molda­\nvijos žemę per Braclavą. link Sorokos “ , o karalius \nOlbrachtas — iš kito šono."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199852
-    - t-199853
-- id: c-170362
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Paskui abi šalys su visais
-    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
-    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
-    tais sumanė ir nutarė — visa tai paliko didelė paslap­
-    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
-    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
-    Septyni tūkstančiai penktaisiais metais nuo pasaulio
-    sutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­
-    tai devyniasdešimt septintųjų metų vasarą Lenkijos ka­
-    ralius Olbrachas sutelkė galybę savo kariuomenės ir
-    su visomis Lenkijos karalystės jėgomis, su paruoštais
-    žirgais ir ginklais išžygiavo prieš Moldavijos vaivadą
-    Steponą l0 .
-    O didysis kunigaikštis Aleksandras tame Parčevo
-    seime buvo kalbėjęs su savo broliu karaliumi Olbrach-
-    tu ir slapta nuo visų savo Tarybų ponų buvo nutarę,
-    kad didysis kunigaikštis Aleksandras žygiuos j Molda­
-    vijos žemę per Braclavą. link Sorokos “ , o karalius
-    Olbrachtas — iš kito šono.
-  citata_rodoma: "kad didysis kunigaikštis Aleksandras žygiuos j Molda­\nvijos žemę per Braclavą. link Sorokos “"
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-199852
-    - t-199853
+    - t-002
+    - t-001

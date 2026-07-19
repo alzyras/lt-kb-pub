@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-194951"></a>
 - t-001
-  global_id: t-194951
   teiginys: "(^4) ) — Išeidamas iš susirinkimo Vytautas kalbėjo: „kiedy tak, užyję ja innych środków do dopięcia celu“."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -58,4 +57,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194951
+    - t-001

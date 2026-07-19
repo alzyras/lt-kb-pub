@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-187495"></a>
 - t-001
-  global_id: t-187495
   teiginys: "Lietuvos metraščio pasakojimu, Tautvilas su Danieliui skirtais belaisviais nuvyko į Rygą, kur rygiečiai jį iškilmingai priėmė ir pakrikštijo."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -77,14 +76,11 @@ Nenurodyta
     Iš ten Tautvilą su Danieliui skirtais belaisviais nu­
     vyko į Rygą. Rygiečiai jį priėmė su didžiausia iškilme,
     ir jis buvo pakrikštytas.
-  citata_rodoma: |
-    Iš ten Tautvilą su Danieliui skirtais belaisviais nu-
-    vyko į Rygą. Rygiečiai jį priėmė su didžiausia iškilme,
-    ir jis buvo pakrikštytas.
+  citata_rodoma: "Iš ten Tautvilą su Danieliui skirtais belaisviais nu-\nvyko į Rygą. Rygiečiai jį priėmė su didžiausia iškilme, \nir jis buvo pakrikštytas."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187495
+    - t-001

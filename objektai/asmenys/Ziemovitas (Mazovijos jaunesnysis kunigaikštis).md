@@ -32,7 +32,6 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
 
 <a id="claim-t-87892"></a>
 - t-001
-  global_id: t-87892
   teiginys: "Mazovijos jaunesnysis kunigaikštis Ziemovitas vedė Jogailos seserį Aleksandrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87892
+    - t-001

@@ -33,7 +33,6 @@ Vaitas turėjo teisę skirti savo pavaduotoją, lentvaitį (viceadvocatus, Landv
 
 <a id="claim-t-201789"></a>
 - t-001
-  global_id: t-201789
   teiginys: "Vaitas turėjo teisę skirti savo pavaduotoją, lentvaitį (viceadvocatus, Landvoigt, JleHmaOUm, lentw6jt)."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Vaitas turėjo teisę skirti savo pavaduotoją, lentvaitį (viceadvocatus, Landv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201789
+    - t-001

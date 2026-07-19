@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-62127"></a>
 - t-001
-  global_id: t-62127
   teiginys: "Didysis magistras Verneris nustatė, kad kunigai kasdien po sumos skaitytų evangeliją „Pradžioje buvo žodis“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,7 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie evangeliją: pradžioje buvo žodis
+    1. Apie evangeliją: pradžioje buvo žodis
 
        Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė,
     kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos
@@ -87,24 +86,11 @@ Nenurodyta
 
 
                               2.
-  citata_rodoma: |
-    Apie evangeliją: pradžioje buvo žodis
-
-       Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė,
-    kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos
-    kiekvieną dieną turį skaityti evangeliją: „Pradžioje buvo žodis” su eilute: „Parodyk mums,
-    viešpatie, savo gailestingumą”  ir kolektą: „Visagalis amžinasis dieve, nukreipk mūsų
-    veiksmus, kaip tau patinka”, o tardami „Ir žodis tapo kūnu”, broliai turį pulti ant kelių ir
-    klūpoti iki kolektos galo.
-
-
-
-
-                              2.
+  citata_rodoma: "1. Apie evangeliją: pradžioje buvo žodis\n\n   Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė,\nkad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos\nkiekvieną dieną turį skaityti evangeliją: „Pradžioje buvo žodis” su eilute: „Parodyk mums,\nviešpatie, savo gailestingumą”  ir kolektą: „Visagalis amžinasis dieve, nukreipk mūsų\nveiksmus, kaip tau patinka”, o tardami „Ir žodis tapo kūnu”, broliai turį pulti ant kelių ir\nklūpoti iki kolektos galo.\n\n\n\n\n                          2."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62127
+    - t-001

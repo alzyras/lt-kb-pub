@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-40782"></a>
 - t-001
-  global_id: t-40782
   teiginys: "Vokiškas kulkosvaidis Maxim MG08 buvo aušinamas vandeniu ir šaudė 7,92 x 57 mm šoviniais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,21 +87,11 @@ Nenurodyta
     dar labiau pakėlė juostomis, šaudymo tempas - 450 šūvių/min.
     savanorių nuotaiką svoris (su vandeniu) - apie 69 kg, efektyvaus
     ir ryžtą kautis. šaudymo nuotolis - 2 000 m
-  citata_rodoma: |
-    Nors kulkosvaidžių įgula dar ne-
-    turėjo, visų savanorių apgin-
-    klavimas bent šautuvais ir
-    aprūpinimas šoviniais
-
-    Vokiškas kulkosvaidis Maxim MGo8.
-    Šovinys — 7,92x57 mm. Kulkosvaidis
-    aušinamas vandeniu, užtaisomas šovinių
-
-    dar labiau pakėlė juostomis, šaudymo tempas - 450 šūvių/min.
+  citata_rodoma: "Nors kulkosvaidžių įgula dar ne-\nturėjo, visų savanorių apgin-\nklavimas bent šautuvais ir\naprūpinimas šoviniais\n\nVokiškas kulkosvaidis Maxim MGo8.\nŠovinys — 7,92x57 mm. Kulkosvaidis\naušinamas vandeniu, užtaisomas šovinių\n\ndar labiau pakėlė juostomis, šaudymo tempas - 450 šūvių/min."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40782
+    - t-001

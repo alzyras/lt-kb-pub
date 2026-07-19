@@ -64,20 +64,17 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195300"></a>
-- t-001
-  global_id: t-195300
+- t-003
   teiginys: "Piemens terboje laikomas maistas, kiaušiniai ir kitos įdėtos gėrybės."
-  atnaujinta: "2026-07-12 01:46"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177668
     - c-177667
 
 <a id="claim-t-195301"></a>
-- t-002
-  global_id: t-195301
+- t-001
   teiginys: "Terba minima kaip fizinis nešimo daiktas vėžiams parnešti."
   atnaujinta: "2026-07-12 01:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -87,8 +84,7 @@ Nenurodyta
     - c-177671
 
 <a id="claim-t-195302"></a>
-- t-003
-  global_id: t-195302
+- t-005
   teiginys: "ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais."
   atnaujinta: "2026-07-12 01:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -98,8 +94,7 @@ Nenurodyta
     - c-177670
 
 <a id="claim-t-195303"></a>
-- t-004
-  global_id: t-195303
+- t-002
   teiginys: "Šienapjūtėje terbos vartojamos maistui vežti į pievas."
   atnaujinta: "2026-07-12 01:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -109,18 +104,14 @@ Nenurodyta
     - c-177673
 
 <a id="claim-t-195304"></a>
-- t-005
-  global_id: t-195304
+- t-004
   teiginys: "Elgetavimo pasakojimuose terba ir terbelė yra nešulys maistui rinkti; vienu atveju išskiriama šikšninė terba su pasaitu."
-  atnaujinta: "2026-07-12 01:46"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177672
-    - c-177666
-    - c-177669
-    - c-177674
+    - c-177670
 - susijęs iš [[objektai/paprociai/Moterų vėžiavimas.md#claim-t-195357|Moterų vėžiavimas]]: Vėžiavimas buvo moterų žvejybos būdas, kai į Šešupę eidavusios moterys parnešdavo terbą vėžių.
 - susijęs iš [[objektai/daiktai/Naginės.md#claim-t-195349|Naginės]]: Elgetos apavas.
 - susijęs iš [[objektai/daiktai/Ražončius.md#claim-t-195348|Ražončius]]: Elgetos religinis atributas, aprašytas kaip medinių rutuliukų vėrinys.
@@ -159,16 +150,13 @@ Nenurodyta
     Oho, bakanai tokie, kad boba vos suvaldo.
     Atriekia griežinį, yra ko į terbą dėti. Kelis kiemus pereini — jau ter-
     ba pilna.
-  citata_rodoma: |
-    Kelis kiemus pereini — jau ter­
-    ba pilna.
+  citata_rodoma: "Kelis kiemus pereini — jau ter­\nba pilna."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195304
 - id: c-177667
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -180,15 +168,15 @@ Nenurodyta
     Piemuo, su­
     valgęs be duonos ir be druskos kiaušinį, apsičiaupstė ir, atsigręžęs į
     mane pasakė: „Jau kiaušinis man nerūpės ir terboje nekrutės“ .
-  citata_rodoma: |
-    Piemuo, suvalgęs be duonos ir be druskos kiaušinį, apsičiaupstė ir, atsigręžęs į mane pasakė: „Jau kiaušinis man nerūpės ir terboje nekrutės“.
+  citata_rodoma: "Piemuo, suvalgęs be duonos ir be druskos kiaušinį, apsičiaupstė ir, atsigręžęs į mane pasakė: „Jau kiaušinis man nerūpės ir terboje nekrutės“."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195300
+    - t-003
+
 - id: c-177668
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -200,15 +188,13 @@ Nenurodyta
     piemuo užlipo ant kalno.
     Jam parūpo pakratyti savo terbą, pažiūrėti
     ką ten šeimininkė įdėjo.
-  citata_rodoma: |
-    Iš kaimo į mažąją Duburio lanką išgintos kiaulės kriukė. Vienas piemuo užlipo ant kalno. Jam parūpo pakratyti savo terbą, pažiūrėti ką ten šeimininkė įdėjo.
+  citata_rodoma: "Iš kaimo į mažąją Duburio lanką išgintos kiaulės kriukė. Vienas piemuo užlipo ant kalno. Jam parūpo pakratyti savo terbą, pažiūrėti ką ten šeimininkė įdėjo."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195300
 - id: c-177669
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -219,16 +205,13 @@ Nenurodyta
     laimės, kad kurpius susirgo ir numirė. Liko žmona ir auganti duktė,
     —— kurios buvo pratusios gerai gyventi ir nieko neveikti. Taigi pamė­
     gino verstis poterėliais ir terbele.
-  citata_rodoma: |
-    Taigi pamė­
-    gino verstis poterėliais ir terbele.
+  citata_rodoma: "Taigi pamė­\ngino verstis poterėliais ir terbele."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195304
 - id: c-177670
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -240,15 +223,16 @@ Nenurodyta
     rų, medinių rutuliukų ražončių, kuris apkabinėtas dideliais ir ma­
     žais agnasais, ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs
     nunešiotais miestiečio užvalkčiais.
-  citata_rodoma: |
-    ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais.
+  citata_rodoma: "ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195302
+    - t-005
+    - t-004
+
 - id: c-177671
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -260,17 +244,15 @@ Nenurodyta
     Vėžiavimas
     būdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šil­
     tą vandenį ir parnešdavo terbą vėžių. Dabar ir tokių bobų nėra.
-  citata_rodoma: |
-    Vėžiavimas
-    būdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šil­
-    tą vandenį ir parnešdavo terbą vėžių. Dabar ir tokių bobų nėra.
+  citata_rodoma: "Vėžiavimas \nbūdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šil­\ntą vandenį ir parnešdavo terbą vėžių. Dabar ir tokių bobų nėra."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195301
+    - t-001
+
 - id: c-177672
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -280,16 +262,13 @@ Nenurodyta
     Kad atriekia griežinį — tik tik griežinėlis. Pereini kaimą — turi pri­
     dėjęs terbos galiuką. Ta duonelė bėralinė, terboje susitrina, į trupi­
     nius pavirsta.
-  citata_rodoma: |
-    Ta duonelė bėralinė, terboje susitrina, į trupi­
-    nius pavirsta.
+  citata_rodoma: "Ta duonelė bėralinė, terboje susitrina, į trupi­\nnius pavirsta."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195304
 - id: c-177673
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -304,15 +283,15 @@ Nenurodyta
     dalgę.
     Pusryčių metu atvažiuoja mergaitės su pusberniu ir piemeniuku ir
     atveža valgyti pusryčių ir pietų ąsočiuose ir terbose.
-  citata_rodoma: |
-    Pusryčių metu atvažiuoja mergaitės su pusberniu ir piemeniuku ir atveža valgyti pusryčių ir pietų ąsočiuose ir terbose.
+  citata_rodoma: "Pusryčių metu atvažiuoja mergaitės su pusberniu ir piemeniuku ir atveža valgyti pusryčių ir pietų ąsočiuose ir terbose."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195303
+    - t-002
+
 - id: c-177674
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -323,13 +302,9 @@ Nenurodyta
     paskutinųjų; toliau ir eina pati per žmones, prašydama pasigailėti.
     Terbelė ne ant pečių, kaip elgetų, bet rankose; vedasi su savimi dve­
     jetą didesnių vaikų.
-  citata_rodoma: |
-    Terbelė ne ant pečių, kaip elgetų, bet rankose; vedasi su savimi dve­
-    jetą didesnių vaikų.
+  citata_rodoma: "Terbelė ne ant pečių, kaip elgetų, bet rankose; vedasi su savimi dve­\njetą didesnių vaikų."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195304

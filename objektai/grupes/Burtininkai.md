@@ -31,9 +31,8 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
 
 <a id="claim-t-189450"></a>
 - t-001
-  global_id: t-189450
   teiginys: "Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo sukurtų giesmių giedotojus, panašius į senovės bardus ir skaldus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -42,10 +41,9 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172337
-    - c-001
+
 <a id="claim-t-189451"></a>
 - t-002
-  global_id: t-189451
   teiginys: "Narbutas rašė, kad Prūsijos kronikininkai burtininkams priskyrė ateities spėjimą liejant ištirpintą vašką į šaltą vandenį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -103,8 +101,7 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189450
+
 ## Citatos
 
 - id: c-172337
@@ -124,30 +121,15 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
     ninkams visus triukus, kuriuos demonografai ir kerų apraši­
     nėtojai priskiria panašiai grupei apgavikų, veikiančių su vaško
     figūrėlėmis' .
-  citata_rodoma: |
-    Tad
-    sutampa su pareigomis, kurių priedermė tirti sunkiai išaiški­
-    namus dalykus.
-    Burtininkas (Burtinikas)
-    Pirmykšte reikšme tai buvo eilių kūrėjai, savo pačių sudė­
-    tų giesmių giedotojai, panašūs į senovės bardus ir skaldus. Vi-
-    296
-
-    ## Puslapis 296
-
-    sose antikinėse tautose jų pašaukimas buvo labai kilnus ir ger­
-    biamas; mat jie, pranašesni savo protu ir turintys nuostabią
-    dovaną kurti eiles, pranokdavo kitus žmones, pateikdavo įsta­
-    tymus, kūrė mokslą ir skatindavo karo žygius arba puoselėda­
-    vo pilietines dorybes, tramdydavo nusikaltimus ir diegdavo ap-
-    švietą kerinčia poezijos ir muzikos meno galia.
+  citata_rodoma: "Tad\nsutampa su pareigomis, kurių priedermė tirti sunkiai išaiški­\nnamus dalykus.\nBurtininkas (Burtinikas)\nPirmykšte reikšme tai buvo eilių kūrėjai, savo pačių sudė­\ntų giesmių giedotojai, panašūs į senovės bardus ir skaldus. Vi-\n296\n\n## Puslapis 296\n\nsose antikinėse tautose jų pašaukimas buvo labai kilnus ir ger­\nbiamas; mat jie, pranašesni savo protu ir turintys nuostabią\ndovaną kurti eiles, pranokdavo kitus žmones, pateikdavo įsta­\ntymus, kūrė mokslą ir skatindavo karo žygius arba puoselėda­\nvo pilietines dorybes, tramdydavo nusikaltimus ir diegdavo ap-\nšvietą kerinčia poezijos ir muzikos meno galia."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189450
+    - t-001
+
 - id: c-172338
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -168,4 +150,4 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189451
+    - t-002

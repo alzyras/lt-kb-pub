@@ -55,7 +55,6 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
 
 <a id="claim-t-55178"></a>
 - t-001
-  global_id: t-55178
   teiginys: "Prūsijos vyskupų laiške taikos sutarties grėsmė lyginama su pele krepšyje arba angimi užantyje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::sayings"
@@ -72,7 +71,6 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
 
 <a id="claim-t-55179"></a>
 - t-002
-  global_id: t-55179
   teiginys: "Prūsijos vyskupų laiške sutarties grėsmė buvo lyginama su pele krepšyje arba angimi užantyje."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "gap::sayings"
@@ -89,7 +87,6 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
 
 <a id="claim-t-82140"></a>
 - t-003
-  global_id: t-82140
   teiginys: "Vyskupų laiške perspėta, kad priešai kaip pelė krepšyje arba angis užantyje sunaikins jų žemes ir užtrauks pražūtį krikščionybei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::sayings"
@@ -165,6 +162,6 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55178
-    - t-55179
-    - t-82140
+    - t-001
+    - t-002
+    - t-003

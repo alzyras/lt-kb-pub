@@ -54,8 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75146"></a>
-- t-001
-  global_id: t-75146
+- t-003
   teiginys: "Lietuva pripažino Rusiją nepriklausoma valstybe."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-75147"></a>
 - t-002
-  global_id: t-75147
   teiginys: "Spalio pradžioje Lietuva ir Rusijos Federacija užmezgė diplomatinius santykius."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Nenurodyta
     - c-23035
 
 <a id="claim-t-75148"></a>
-- t-003
-  global_id: t-75148
+- t-001
   teiginys: "Draugiški Lietuvos ir Rusijos vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -114,7 +111,6 @@ Nenurodyta
 
 <a id="claim-t-183243"></a>
 - t-004
-  global_id: t-183243
   teiginys: "Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -151,16 +147,15 @@ Nenurodyta
     jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
     apie Rusijos ir jos tautų ateitį. Draugiški valstybių vadovų santykiai leido
     parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-  citata_rodoma: |
-    Draugiški valstybių vadovų santykiai leido
-    parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
+  citata_rodoma: "Draugiški valstybių vadovų santykiai leido\nparengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75148
+    - t-001
+
 - id: c-23035
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -171,16 +166,15 @@ Nenurodyta
     gos įvykdytos Lietuvos aneksijos pasekmių pašalinimą, o Lietuva pripaži-
     no Rusiją nepriklausoma valstybe. Spalio pradžioje tarp abiejų valstybių
     buvo užmegzti diplomatiniai santykiai.
-  citata_rodoma: |
-    Spalio pradžioje tarp abiejų valstybių
-    buvo užmegzti diplomatiniai santykiai.
+  citata_rodoma: "Spalio pradžioje tarp abiejų valstybių\nbuvo užmegzti diplomatiniai santykiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75147
+    - t-002
+
 - id: c-73047
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -192,19 +186,15 @@ Nenurodyta
     buvo užmegzti diplomatiniai santykiai.
     1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės
     sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū-
-  citata_rodoma: |
-    Sovietų Sąjun-
-    gos įvykdytos Lietuvos aneksijos pasekmių pašalinimą, o Lietuva pripaži-
-    no Rusiją nepriklausoma valstybe. Spalio pradžioje tarp abiejų valstybių
-    buvo užmegzti diplomatiniai santykiai.
-    1997 m.
+  citata_rodoma: "Sovietų Sąjun-\ngos įvykdytos Lietuvos aneksijos pasekmių pašalinimą, o Lietuva pripaži-\nno Rusiją nepriklausoma valstybe. Spalio pradžioje tarp abiejų valstybių \nbuvo užmegzti diplomatiniai santykiai. \n1997 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75146
+    - t-003
+
 - id: c-166631
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -223,4 +213,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183243
+    - t-004

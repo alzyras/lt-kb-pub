@@ -42,8 +42,7 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
 ## Teiginiai
 
 <a id="claim-t-41578"></a>
-- t-001
-  global_id: t-41578
+- t-002
   teiginys: "Salaspilio mūšio schemų viršus orientuotas į pietus, kad jos sutaptų su P. Snayerso paveikslu „Salaspilio mūšis“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
     - c-167093
 
 <a id="claim-t-41579"></a>
-- t-002
-  global_id: t-41579
+- t-001
   teiginys: "Apie 1619 m. Pieterio Snayerso paveiksle „Salaspilio mūšis“ Lietuvos husarai vaizduojami naikinantys švedų pėstininkų batalioną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
 
 <a id="claim-t-183705"></a>
 - t-003
-  global_id: t-183705
   teiginys: "Salaspilio mūšyje Karolio IX vadovaujami švedai tuoj pat pradėjo puolimą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -122,26 +119,15 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
     1605-1621 m., vienas žymiausių Europos
     karvedžių. 1595-1596 m. dalyvavo kari-
     niuose veiksmuose prieš Ukrainos kazokus.
-  citata_rodoma: |
-    Apie 1619 m. nutapyto Pieterio
-    Snayerso paveikslo „Salaspilio
-    mūšis“ fragmentas. Lietuvos
-
-    kariuomenės husarai sunaikina
-    švedų pėstininkų batalioną
-
-    Jonas Karolis Chodkevičius
-
-    Jonas Karolis Chodkevičius (1560-
-
-    1621 m.
+  citata_rodoma: "Apie 1619 m. nutapyto Pieterio\nSnayerso paveikslo „Salaspilio\nmūšis“ fragmentas. Lietuvos\n\nkariuomenės husarai sunaikina\nšvedų pėstininkų batalioną\n\nJonas Karolis Chodkevičius\n\nJonas Karolis Chodkevičius (1560-\n\n1621 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41579
+    - t-001
+
 - id: c-167093
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -174,5 +160,5 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41578
-    - t-183705
+    - t-002
+    - t-003

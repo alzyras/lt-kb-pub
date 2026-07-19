@@ -28,7 +28,6 @@ Didžiosios Pranciškonų bažnyčios prie Trakų gatvės architektūra siejama 
 
 <a id="claim-t-200830"></a>
 - t-001
-  global_id: t-200830
   teiginys: "Didžiosios Pranciškonų bažnyčios prie Trakų gatvės architektūra siejama su seniausiomis iki šiol išlikusiomis Vilniaus bažnyčiomis."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Didžiosios Pranciškonų bažnyčios prie Trakų gatvės architektūra siejama 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200830
+    - t-001

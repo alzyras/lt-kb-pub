@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-193011"></a>
 - t-001
-  global_id: t-193011
   teiginys: "Herulai, negalėdami vieni atremti romėnų galerų antpuolių, kreipdavosi pagalbos į kaimyninius gotus grutingus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -67,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-197564"></a>
 - t-002
-  global_id: t-197564
   teiginys: "Tad, kai herulai negalėjo vieni priešintis romėnų galerų antpuo liams, jie kreipdavosi į tuos kaimynus ir išliko jų pade dami2."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -96,6 +94,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-175781
@@ -112,19 +111,12 @@ Nenurodyta
     pabodo ši svetima valdžia3. Jie įsivėlė į kruvinus susi­
     rėmimus su grutingais; iš to kilo konfliktas su visa go­
     tų tauta.
-  citata_rodoma: |
-    Tad, kai he-
-    rulai negalėjo vieni priešintis romėnų galerų antpuo­
-    liams, jie kreipdavosi į tuos kaimynus ir išliko jų pade­
-    dami2. Visa tai lėmė gotų valdžios įtaką kitų kolonistų
-    atžvilgiu. Dėl savo karingumo išpuikusiai herulų genčiai,
-    pasipūtusiai ir nepratusiai varžyti savo polinkių, greitai
-    pabodo ši svetima valdžia3.
+  citata_rodoma: "Tad, kai he- \nrulai negalėjo vieni priešintis romėnų galerų antpuo­\nliams, jie kreipdavosi į tuos kaimynus ir išliko jų pade­\ndami2. Visa tai lėmė gotų valdžios įtaką kitų kolonistų \natžvilgiu. Dėl savo karingumo išpuikusiai herulų genčiai, \npasipūtusiai ir nepratusiai varžyti savo polinkių, greitai \npabodo ši svetima valdžia3."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193011
-    - t-197564
+    - t-001
+    - t-002

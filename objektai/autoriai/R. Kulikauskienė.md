@@ -38,8 +38,7 @@ Dusburgietis teigia, kad kulikauskienė, A.
 ## Teiginiai
 
 <a id="claim-t-97215"></a>
-- t-001
-  global_id: t-97215
+- t-002
   teiginys: "R. Kulikauskienė-Volkaitė parengė 1958 m. Vilniuje išleistą straipsnių rinkinį „Lietuvos archeologiniai paminklai ir jų tyrinėjimai“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Dusburgietis teigia, kad kulikauskienė, A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97215
+    - t-002

@@ -30,7 +30,6 @@ Anot Teodoro Narbuto minimų Korano aiškintojų, Ashabir-Ross buvo tauta prie R
 
 <a id="claim-t-191788"></a>
 - t-001
-  global_id: t-191788
   teiginys: "Anot Teodoro Narbuto minimų Korano aiškintojų, Ashabir-Ross buvo tauta prie Ross upės, išsisklaidžiusi žiloje senovėje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Anot Teodoro Narbuto minimų Korano aiškintojų, Ashabir-Ross buvo tauta prie R
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191788
+    - t-001

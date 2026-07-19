@@ -37,7 +37,6 @@ Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtin�
 
 <a id="claim-t-185383"></a>
 - t-001
-  global_id: t-185383
   teiginys: "Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtinės valstybės suverenu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -57,6 +56,7 @@ Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtin�
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie jungtinės valstybės suvereną."
   pagrindžia:
     - c-168744
+    - c-178650
 
 ## Citatos
 
@@ -86,7 +86,8 @@ Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtin�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185383
+    - t-001
+
 - id: c-178650
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -111,3 +112,5 @@ Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtin�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

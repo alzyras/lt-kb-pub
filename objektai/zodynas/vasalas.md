@@ -43,8 +43,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
 ## Teiginiai
 
 <a id="claim-t-111382"></a>
-- t-001
-  global_id: t-111382
+- t-013
   teiginys: "Vokiečių Prūsija tapo Lenkijos karūnos vasale."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - c-102994
 
 <a id="claim-t-111383"></a>
-- t-002
-  global_id: t-111383
+- t-009
   teiginys: "Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir priimtų įvesdinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - c-102993
 
 <a id="claim-t-111384"></a>
-- t-003
-  global_id: t-111384
+- t-004
   teiginys: "1384 m. sausio 30 d. Karaliaučiuje Vytautas išdavė magistrui raštą, pasižadėdamas būti jo vasalu."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -98,8 +95,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - c-14723
 
 <a id="claim-t-111385"></a>
-- t-004
-  global_id: t-111385
+- t-010
   teiginys: "Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir iš Lietuvos valdovo priimtų įvesdinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,8 +111,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - c-102992
 
 <a id="claim-t-111386"></a>
-- t-005
-  global_id: t-111386
+- t-012
   teiginys: "Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,8 +129,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - c-102995
 
 <a id="claim-t-182988"></a>
-- t-006
-  global_id: t-182988
+- t-007
   teiginys: "Vytautas žodžiais dėjosi esąs Jogailos ir Lenkijos vasalas, bet Lietuvą valdė pats vienas."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -176,7 +170,8 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111384
+    - t-004
+
 - id: c-102992
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -203,7 +198,8 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111385
+    - t-010
+
 - id: c-102993
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -227,7 +223,8 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111383
+    - t-009
+
 - id: c-102994
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -245,7 +242,8 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111382
+    - t-013
+
 - id: c-102995
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -264,7 +262,8 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111386
+    - t-012
+
 - id: c-166385
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -283,4 +282,4 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182988
+    - t-007

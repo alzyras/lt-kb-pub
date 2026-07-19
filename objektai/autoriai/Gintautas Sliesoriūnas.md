@@ -35,8 +35,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 ## Teiginiai
 
 <a id="claim-t-80746"></a>
-- t-001
-  global_id: t-80746
+- t-002
   teiginys: "Gintautas Sliesoriūnas gimė 1964 m. ir 1989 m. baigė Vilniaus universiteto Istorijos fakulteto istorijos specialybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80746
+    - t-002

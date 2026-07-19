@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-87293"></a>
 - t-001
-  global_id: t-87293
   teiginys: "Bylose dėl žydo pinigų, turto ar kriminalinio kaltinimo krikščionis prieš žydą galėjo liudyti tik kartu su krikščioniu ir žydu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87293
+    - t-001

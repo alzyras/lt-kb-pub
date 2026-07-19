@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-18757"></a>
 - t-001
-  global_id: t-18757
   teiginys: "1902 m. Adomas Jakštas-Dambrauskas lenkiškai išleido knygelę apie jaunosios lietuvių kartos siekius ir programą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,12 +75,11 @@ media_all_json: |-
     Adomas Jakštas-Dambrauskas išleido lenkiškai knygelę, kurioje išdėstė
     jaunosios lietuvių kartos siekius ir programą, pageidaudamas, kad ir jau-
     noji Lietuvos bajorų karta aiškiai pasisakytų, kas ji – lietuviai ar lenkai.
-  citata_rodoma: |
-    noji Lietuvos bajorų karta aiškiai pasisakytų, kas ji – lietuviai ar lenkai.
+  citata_rodoma: "noji Lietuvos bajorų karta aiškiai pasisakytų, kas ji – lietuviai ar lenkai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18757
+    - t-001

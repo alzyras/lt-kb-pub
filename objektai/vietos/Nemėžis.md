@@ -38,8 +38,7 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
 ## Teiginiai
 
 <a id="claim-t-86090"></a>
-- t-001
-  global_id: t-86090
+- t-002
   teiginys: "1495 m. sužadėtinę Eleną Aleksandras sutiko kelyje į Nemėžį, per pusę mylios nuo Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
     - c-82070
 
 <a id="claim-t-86091"></a>
-- t-002
-  global_id: t-86091
+- t-001
   teiginys: "Vytauto įkurdinti totoriai gyveno ir Nemėžiu vadintoje vietovėje, esančioje per mylią į rytus nuo Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,37 +114,15 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
     būtų išlikę totorių buveinių pėdsakų
     pavadinimuose: Totoriškės, Totorių
     kapinės ir 1.1.
-  citata_rodoma: |
-    ]* -
-    Šitas, nepalankus lietuvių atžvilgiu
-    palyginimas su totoriais gal persū­
-    dytas, tačiau negalima būtų nugin­
-    čyti, kad totoriai, Vytauto Lietuvoje
-    įkurdinti, net iki mūsų laikų garsūs
-    nepriekaištinga dora, narsa ir prie­
-    raišumu savo naujai tėvynei. Jų dau­
-    gybę su visomis šeimomis į šiuos
-    kraštus turėjo būti atkėlęs šaunus
-    pergalingas karys Vytautas; be jų pa­
-    grindinės gyvenvietės prie Vokės
-    upės, be tų, kurie įsikūrė mieste ir
-    kurie apsigyveno vietovėje, vadinto­
-    je Nemėžiu, per mylią nuo Vilniaus į
-    rytus, daug jų įsikūrė pavietuose:
-    Lydos, Ašmenos ir Naugarduko ir
-    iš tiesų nėra valdos, ypač pasakyti­
-    na tai apie Vilniaus, Trakų ir Nau­
-    garduko pavietus, kur iki šiolei ne­
-    būtų išlikę totorių buveinių pėdsakų
-    pavadinimuose: Totoriškės, Totorių
-    kapinės ir 1.
+  citata_rodoma: "]* - \nŠitas, nepalankus lietuvių atžvilgiu \npalyginimas su totoriais gal persū­\ndytas, tačiau negalima būtų nugin­\nčyti, kad totoriai, Vytauto Lietuvoje \nįkurdinti, net iki mūsų laikų garsūs \nnepriekaištinga dora, narsa ir prie­\nraišumu savo naujai tėvynei. Jų dau­\ngybę su visomis šeimomis į šiuos \nkraštus turėjo būti atkėlęs šaunus \npergalingas karys Vytautas; be jų pa­\ngrindinės gyvenvietės prie Vokės \nupės, be tų, kurie įsikūrė mieste ir \nkurie apsigyveno vietovėje, vadinto­\nje Nemėžiu, per mylią nuo Vilniaus į \nrytus, daug jų įsikūrė pavietuose: \nLydos, Ašmenos ir Naugarduko ir \niš tiesų nėra valdos, ypač pasakyti­\nna tai apie Vilniaus, Trakų ir Nau­\ngarduko pavietus, kur iki šiolei ne­\nbūtų išlikę totorių buveinių pėdsakų \npavadinimuose: Totoriškės, Totorių \nkapinės ir 1."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86091
+    - t-001
+
 - id: c-82070
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -166,26 +142,14 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
     čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi
     mišias graikų apeigų cerkvėje, buvo iškilmingai nuvesta į
     Šv.
-  citata_rodoma: |
-    ), sužadėtoji didžioji kunigaikštytė Elena, ki­
-    tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­
-    sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio,
-    Mykolo Rusalkos ir Prokopo Zinovjevičiaus, jų žmonų bei
-    daugybės kitų dvariškių, kambarinių, arklininkų ir boja­
-    rinų vaikų. Ją sutiko pats Aleksandras per pusę mylios nuo
-    miesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos
-    ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­
-    tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­
-    bėjo. Tada Aleksandras šalia prašmatniose rogėse sėdin­
-    čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi
-    mišias graikų apeigų cerkvėje, buvo iškilmingai nuvesta į
-    Šv.
+  citata_rodoma: "), sužadėtoji didžioji kunigaikštytė Elena, ki­\ntų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­\nsarį, lydima bojarinų: kunigaikščio Simono Rapolovskio, \nMykolo Rusalkos ir Prokopo Zinovjevičiaus, jų žmonų bei \ndaugybės kitų dvariškių, kambarinių, arklininkų ir boja­\nrinų vaikų. Ją sutiko pats Aleksandras per pusę mylios nuo \nmiesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos \nponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­\ntiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­\nbėjo. Tada Aleksandras šalia prašmatniose rogėse sėdin­\nčios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi \nmišias graikų apeigų cerkvėje, buvo iškilmingai nuvesta į \nŠv."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86090
+    - t-002
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Totoriai]]

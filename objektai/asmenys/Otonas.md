@@ -41,7 +41,6 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
 
 <a id="claim-t-60400"></a>
 - t-001
-  global_id: t-60400
   teiginys: "Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
     - c-61032
 
 <a id="claim-t-197139"></a>
-- t-002
-  global_id: t-197139
+- t-003
   teiginys: "Otonas buvo iškalbingas, mandagus, išmintingas, apdairus, atsargus, o visi jo darbai rodo jį buvus garbingą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,23 +89,15 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
     magistru, jis, matydamas, koks silpnas esąs Ordinas, pareiškė pokalbyje su kai kuriais
     broliais, jog nepagailėtų ir vienos akies, kad tik Ordinas jo vadovavimo metais taip
     sustiprėtų, kad stengtų išlaikyti nors dešimt ginkluotų brolių riterių.
-  citata_rodoma: |
-    Apie brolį Otoną, antrą magistrą
-
-      Antras magistras brolis Otonas vadovavo daug metų, o mirė birželio 2 dieną  ir
-    palaidotas Akone156.
-
-
-
-
-                             4.
+  citata_rodoma: "Apie brolį Otoną, antrą magistrą\n\n  Antras magistras brolis Otonas vadovavo daug metų, o mirė birželio 2 dieną  ir\npalaidotas Akone156.\n\n\n\n\n                         4."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60400
-    - t-197139
+    - t-001
+    - t-003
+
 ## Ryšiai
 - Otonas buvo palaidotas [[objektai/vietos/Akonas]]

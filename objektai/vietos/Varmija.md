@@ -38,8 +38,7 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
 ## Teiginiai
 
 <a id="claim-t-192795"></a>
-- t-001
-  global_id: t-192795
+- t-002
   teiginys: "Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaruose besiribojusi su Pagude per Pasargės, arba Sargos, upę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
     - c-175565
 
 <a id="claim-t-192796"></a>
-- t-002
-  global_id: t-192796
+- t-003
   teiginys: "Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Giniau miestų iki Alnos upės, už kurios prasidėjo Barta."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
     - c-175566
 
 <a id="claim-t-192797"></a>
-- t-003
-  global_id: t-192797
+- t-004
   teiginys: "Varmija užėmė didelį plotą ir turėjo daugiau dirbamos bei tankiau apgyvendintos žemės negu anksčiau minėtos provincijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -101,8 +98,7 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
     - c-175567
 
 <a id="claim-t-197936"></a>
-- t-004
-  global_id: t-197936
+- t-005
   teiginys: "Varmija Ketvirta provincija — Varmija, taip vadinama nuo senų laikų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -114,8 +110,7 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
     - c-175565
 
 <a id="claim-t-197937"></a>
-- t-005
-  global_id: t-197937
+- t-006
   teiginys: "Iš čia Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Gin iau miestų net ligi Alnos upės, kur baigėsi senoji Var mijos siena, o kitapus upės prasidėjo Barta."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -127,8 +122,7 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
     - c-175566
 
 <a id="claim-t-197938"></a>
-- t-006
-  global_id: t-197938
+- t-007
   teiginys: "Dar mažiau žinomos pietinės Varmijos sienos su Galinda."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -183,8 +177,9 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192795
-    - t-197936
+    - t-002
+    - t-005
+
 - id: c-175566
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -207,8 +202,9 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192796
-    - t-197937
+    - t-003
+    - t-006
+
 - id: c-175567
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -223,21 +219,15 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
     minėtos provincijos. Nėra abejonių, kad ir ji dalijosi į
     plačius valsčius, nes ir čia gyveno bajorų šeimos, kurioms
     taip pat priklausė didelės valdos.
-  citata_rodoma: |
-    Dar mažiau
-    žinomos pietinės Varmijos sienos su Galinda. Atrodo, jog
-    vienas šios sienos punktas buvo prie Morungeno, kur ir
-    šiandien yra Galindų kaimas. Vadinasi, Varmijai priklau­
-    santis krašto plotas buvo didelis, be to, ji turėjo daugiau
-    dirbamos ir tankiau apgyvendintos žemės negu anksčiau
-    minėtos provincijos.
+  citata_rodoma: "Dar mažiau \nžinomos pietinės Varmijos sienos su Galinda. Atrodo, jog \nvienas šios sienos punktas buvo prie Morungeno, kur ir \nšiandien yra Galindų kaimas. Vadinasi, Varmijai priklau­\nsantis krašto plotas buvo didelis, be to, ji turėjo daugiau \ndirbamos ir tankiau apgyvendintos žemės negu anksčiau \nminėtos provincijos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192797
-    - t-197938
+    - t-004
+    - t-007
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Vitlandija]]

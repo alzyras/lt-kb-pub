@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-54348"></a>
 - t-001
-  global_id: t-54348
   teiginys: "Feodaliniuose santykiuose senjoras buvo laikomas atsakingu už pavaldinio išganymą ir nurodydavo jam išpažintiną tikėjimą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-166725
 
 <a id="claim-t-183335"></a>
-- t-002
-  global_id: t-183335
+- t-003
   teiginys: "Feodaliniuose senjoro ir pavaldinio santykiuose senjorui priskirta atsakomybė už pavaldinio išganymą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -113,5 +111,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54348
-    - t-183335
+    - t-001
+    - t-003

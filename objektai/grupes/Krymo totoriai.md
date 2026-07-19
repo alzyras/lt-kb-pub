@@ -44,7 +44,6 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
 
 <a id="claim-t-71638"></a>
 - t-001
-  global_id: t-71638
   teiginys: "Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikęs chanas Devletberdi."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
 
 <a id="claim-t-71639"></a>
 - t-002
-  global_id: t-71639
   teiginys: "1427 m. pabaigoje Vytauto remiamas Machmetas pavaldė Pavolgio, Juodmarių pakraščio ir Krymo totorius."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-36807
 
 <a id="claim-t-71640"></a>
-- t-003
-  global_id: t-71640
+- t-005
   teiginys: "Po pergalės ties Prostkais samdiniai totoriai dėl konflikto su lietuviais dėl belaisvių pasitraukė iš Lietuvos pajėgų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,8 +98,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-42714
 
 <a id="claim-t-71641"></a>
-- t-004
-  global_id: t-71641
+- t-006
   teiginys: "1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo tarp Pavolgio, Juodmarių pakraščio ir Krymo totorių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,8 +117,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-36807
 
 <a id="claim-t-71642"></a>
-- t-005
-  global_id: t-71642
+- t-003
   teiginys: "Lietuvos pajėgas sudarė apie 10 tūkst. lietuvių ir 2 tūkst. Krymo totorių samdinių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,8 +134,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-42713
 
 <a id="claim-t-71643"></a>
-- t-006
-  global_id: t-71643
+- t-004
   teiginys: "Šiauriau Prostkų per upę besikeliantiems totoriams sulaikyti G. Valdekas pasiuntė B. Radvilos kavaleriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -157,8 +151,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-70190
 
 <a id="claim-t-184487"></a>
-- t-007
-  global_id: t-184487
+- t-009
   teiginys: "Krymo skitai netikėtai įsiveržė Dyklaukiais, apiplėšė dideles apygardas ir išsivežė grobį, kai lietuviai neturėjo sutelktos kariuomenės."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -203,8 +196,9 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71639
-    - t-71641
+    - t-002
+    - t-006
+
 - id: c-42713
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -215,17 +209,15 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     su Švedija. Lietuvos pajėgas sudarė apie
     10 tūkst. lietuvių ir 2 tūkst. Krymo to-
     torių - samdinių.
-  citata_rodoma: |
-    Lietuvos pajėgas sudarė apie
-    10 tūkst. lietuvių ir 2 tūkst. Krymo to-
-    torių - samdinių.
+  citata_rodoma: "Lietuvos pajėgas sudarė apie\n10 tūkst. lietuvių ir 2 tūkst. Krymo to-\ntorių - samdinių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71642
+    - t-003
+
 - id: c-42714
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -233,16 +225,15 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   citata_originali: |
     Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-
     vių pajėgų. Pasinaudodami tuo švedai ir brandendburgiečiai, surinkę papildomas pajėgas, pasivijo lietuvius ties Pilypavu (netoli Suvalkų) ir juos sumušė.
-  citata_rodoma: |
-    Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-
-    vių pajėgų.
+  citata_rodoma: "Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-\nvių pajėgų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71640
+    - t-005
+
 - id: c-70190
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -254,18 +245,15 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     kad šiauriau Prostkų per upę keliasi toto-
     riai. Juos sulaikyti jis pasiuntė B. Radvilos
     kavaleriją.
-  citata_rodoma: |
-    Tuo tarpu G. Valdekas gavo žinią,
-    kad šiauriau Prostkų per upę keliasi toto-
-    riai. Juos sulaikyti jis pasiuntė B. Radvilos
-    kavaleriją.
+  citata_rodoma: "Tuo tarpu G. Valdekas gavo žinią,\nkad šiauriau Prostkų per upę keliasi toto-\nriai. Juos sulaikyti jis pasiuntė B. Radvilos\nkavaleriją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71643
+    - t-004
+
 - id: c-70192
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -285,7 +273,8 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71638
+    - t-001
+
 - id: c-167848
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -307,7 +296,8 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184487
+    - t-009
+
 ## Ryšiai
 - Krymo totoriai keliavo į [[objektai/vietos/Vilniaus vaivadija]]
 - Krymo totoriai puolė [[objektai/vietos/Rusija]]

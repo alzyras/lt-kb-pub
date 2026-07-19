@@ -30,7 +30,6 @@ Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios 
 
 <a id="claim-t-186331"></a>
 - t-001
-  global_id: t-186331
   teiginys: "Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios caru."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,7 @@ Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169692
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios caru.'
@@ -68,8 +67,7 @@ Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186331
+
 ## Citatos
 
 - id: c-169692
@@ -95,21 +93,11 @@ Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios 
     bei kuo greičiausiai sudaryti taiką, be to, sužinoti, ką
     atsakytų Vasiljevičius, jeigu Aleksandras paprašytų jo
     dukters Elenos rankos.
-  citata_rodoma: |
-    Pastatęs Li-
-    p a siv a d in a  v is o s  Ru-
-    vonijos pasienyje prie Nar­
-    sios caru
-    vos garsią pilį, nuo jo vardo
-    jusią būti savotišku raktu į Livoniją bei suomių žemes,
-    jis pradėjo svajoti apie viešpatavimą visoje Rusioje. Jo
-    slaptus sumanymus išdavė neįprastinis titulas laiške
-    Aleksandrui. Jame jis pirmą kartą pasivadino visos Ru­
-    sios caru.
+  citata_rodoma: "Pastatęs Li-\np a siv a d in a  v is o s  Ru-\nvonijos pasienyje prie Nar­\nsios caru\nvos garsią pilį, nuo jo vardo\njusią būti savotišku raktu į Livoniją bei suomių žemes,\njis pradėjo svajoti apie viešpatavimą visoje Rusioje. Jo\nslaptus sumanymus išdavė neįprastinis titulas laiške\nAleksandrui. Jame jis pirmą kartą pasivadino visos Ru­\nsios caru."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186331
+    - t-001

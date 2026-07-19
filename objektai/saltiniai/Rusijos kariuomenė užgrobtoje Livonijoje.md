@@ -37,7 +37,6 @@ L XL Rusijos kariuomenė užgrobtoje Livonijoje.
 
 <a id="claim-t-41577"></a>
 - t-001
-  global_id: t-41577
   teiginys: "„Rusijos kariuomenė užgrobtoje Livonijoje“ yra vokiško informacinio leidinio fragmentas apie Maskvos kariuomenės sukeltas baisybes Livonijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,25 +62,18 @@ L XL Rusijos kariuomenė užgrobtoje Livonijoje.
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    L XL
+    SuLinGerg Sey Georg Bveytein, AM, D. L XL
     Rusijos kariuomenė užgrobtoje Livonijoje. Vokiško
     informacinio leidinio fragmentas, kuriame aprašomos
     baisybės, kurias teko patirti Livonijos gyventojams nuo
     įsiveržusios Maskvos kariuomenės
 
-    88 ULOS (ČAŠNIKŲ) MŪŠIS 1564 m.
-  citata_rodoma: |
-    L XL
-    Rusijos kariuomenė užgrobtoje Livonijoje. Vokiško
-    informacinio leidinio fragmentas, kuriame aprašomos
-    baisybės, kurias teko patirti Livonijos gyventojams nuo
-    įsiveržusios Maskvos kariuomenės
-
-    88 ULOS (ČAŠNIKŲ) MŪŠIS 1564 m.
+    88 ULOS (ČAŠNIKŲ) MŪŠIS 1564 m. sausio 23 d.
+  citata_rodoma: "L XL\nRusijos kariuomenė užgrobtoje Livonijoje. Vokiško\ninformacinio leidinio fragmentas, kuriame aprašomos\nbaisybės, kurias teko patirti Livonijos gyventojams nuo\nįsiveržusios Maskvos kariuomenės\n\n88 ULOS (ČAŠNIKŲ) MŪŠIS 1564 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41577
+    - t-001

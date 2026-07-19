@@ -32,13 +32,44 @@ media_all_json: |-
 
 Dusburgietis teigia, kad valančius M.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'M. Valančiaus „Raštų“ pirmasis tomas išleistas Vilniuje 1972 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Valančius M. Raštai. T. 1.— V., 1972.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-61968
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Лаучюте Ю. А. Древняя и древнейшая территория расселения балтских племен:
+    Сопоставление результатов лингвистических и археологических исследований. —
+    Проблемы этногенеза и этнической истории балтов: Тезисы докладов, В., 1981, с.
+    99—101.
+  citata_rodoma: "Valančius M. Raštai. T. 1.— V., 1972."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-61336"></a>
 - t-001
-  global_id: t-61336
   teiginys: "M. Valančiaus „Raštų“ pirmasis tomas išleistas Vilniuje 1972 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Motiejus Valančius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,37 +84,3 @@ Dusburgietis teigia, kad valančius M.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia leidinio tomą, vietą ir metus."
   pagrindžia:
     - c-61968
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'M. Valančiaus „Raštų“ pirmasis tomas išleistas Vilniuje 1972 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Valančius M. Raštai. T. 1.— V., 1972.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61336
-## Citatos
-
-- id: c-61968
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Лаучюте Ю. А. Древняя и древнейшая территория расселения балтских племен:
-    Сопоставление результатов лингвистических и археологических исследований. —
-    Проблемы этногенеза и этнической истории балтов: Тезисы докладов, В., 1981, с.
-    99—101.
-  citata_rodoma: |
-    Valančius M. Raštai. T. 1.— V., 1972.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-61336

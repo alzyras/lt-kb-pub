@@ -33,13 +33,49 @@ media_all_json: |-
 
 Dusburgietis teigia, kad 421 D.— territorium dictum Algent, Jer.— gebit Algemin; Pamedės valsčius Aliamas (Alyem— 1250 m.) prie Nogato ir to pat valsčiaus centras; manoma, vėliau bei dabar — Štumas (PUB, 1, Nr.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Pamedės valsčius Aliamas 1250 m. minėtas forma Alyem prie Nogato ir siejamas su vėlesniu Štumu.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    421 D.— territorium dictum Algent, Jer.— gebit Algemin; Pamedės valsčius Aliamas
+    (Alyem— 1250 m.) prie Nogato ir to pat valsčiaus centras; manoma, vėliau bei dabar —
+    Štumas (PUB, 1, Nr.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-59310
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Po to vienas brolis strėle nukovė
+    vieną prūsą, kuriam buvo pavesta saugoti 40 paimtų į nelaisvę ir surištų krikščionių
+    vaikų, šie vaikai subėgo į pilį ir išvengė amžinos vergovės.
+    144 (139). Apie daugybės prūsų žūtį
+    Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią
+    kariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad
+    ir dabar jam taip seksis kaip anksčiau.
+  citata_rodoma: "421 D.— territorium dictum Algent, Jer.— gebit Algemin; Pamedės valsčius Aliamas\n(Alyem— 1250 m.) prie Nogato ir to pat valsčiaus centras; manoma, vėliau bei dabar —\nŠtumas (PUB, 1, Nr."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-58678"></a>
 - t-001
-  global_id: t-58678
   teiginys: "Pamedės valsčius Aliamas 1250 m. minėtas forma Alyem prie Nogato ir siejamas su vėlesniu Štumu."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Pamedė: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -55,47 +91,6 @@ Dusburgietis teigia, kad 421 D.— territorium dictum Algent, Jer.— gebit Alge
   temporalinis_llm_pakomentavimas: "Citata remia glaustą identifikacinį teiginį, pašalinus santrumpas ir nutrūkusią nuorodą."
   pagrindžia:
     - c-59310
-    - c-001
 - susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66520|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Divano ir Linko puolimas Kulmo žemėje datuojamas 1271 m.
 - susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66522|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Divanas Klokinis ir Linkas su didele kariuomene įsibrovė į Kulmo žemę, o jų pajėgos patraukė prie Traupeino pilies.
 - susijęs iš [[objektai/ivykiai/Kristburgo brolių smūgis Divanui prie Gubros upės.md#claim-t-91915|Kristburgo brolių smūgis Divanui prie Gubros upės]]: Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pamedės valsčius Aliamas 1250 m. minėtas forma Alyem prie Nogato ir siejamas su vėlesniu Štumu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    421 D.— territorium dictum Algent, Jer.— gebit Algemin; Pamedės valsčius Aliamas
-    (Alyem— 1250 m.) prie Nogato ir to pat valsčiaus centras; manoma, vėliau bei dabar —
-    Štumas (PUB, 1, Nr.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58678
-## Citatos
-
-- id: c-59310
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Po to vienas brolis strėle nukovė
-    vieną prūsą, kuriam buvo pavesta saugoti 40 paimtų į nelaisvę ir surištų krikščionių
-    vaikų, šie vaikai subėgo į pilį ir išvengė amžinos vergovės.
-    144 (139). Apie daugybės prūsų žūtį
-    Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią
-    kariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad
-    ir dabar jam taip seksis kaip anksčiau.
-  citata_rodoma: |
-    421 D.— territorium dictum Algent, Jer.— gebit Algemin; Pamedės valsčius Aliamas
-    (Alyem— 1250 m.) prie Nogato ir to pat valsčiaus centras; manoma, vėliau bei dabar —
-    Štumas (PUB, 1, Nr.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-58678

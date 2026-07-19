@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-185848"></a>
 - t-001
-  global_id: t-185848
   teiginys: "Kojelavičiaus pasakojime Julijono Dausprungo giminės herbas buvo Kentauras, kitados laikytas Lietuvos kunigaikštystės herbu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169209
-    - c-001
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-187706|Gediminaičių dinastija]]: Lietuvos metraščio pasakojime Vytenis vaizduojamas kaip pirmasis Gediminaičių dinastijos valdovas po Palemono ir Kentauro herbo dinastijų.
 - susijęs iš [[objektai/grupes/Kentauro herbo dinastija.md#claim-t-198583|Kentauro herbo dinastija]]: Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiams, Lietuvos sostas atiteko Vyteniui.
 - susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186809|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraščio spraga leidime buvo užpildyta tekstu iš Lietuvos metraščių PS antrosios redakcijos Račinskių nuorašo.
@@ -97,8 +95,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185848
+
 ## Citatos
 
 - id: c-169209
@@ -123,27 +120,11 @@ Nenurodyta
     įlanką, palei krantą nusigavo į Nemuno, arba Chrono,
     žiotis, kur upė, ilgai tekėdama per Rusią, Lietuvą ir
     Prūsiją, išsilieja sutelkusi vandenis dvylika atšakų.
-  citata_rodoma: |
-    Pagal kilmę bei karinius nuopelnus
-    buvo vardijami vadai: Palemonas, arba Publijus Libo-
-    nas, herbo Stulpai,
-    Julijonas
-    Dausprungas;,
-    kurio
-    59
-
-    ## Puslapis 58
-
-    giminės herbas Kentauras, Prosperas Cezarinas — her­
-    bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba
-    Rožynas. Štai dėl to kitados Lietuvos kunigaikštystės her­
-    bas buvo Kentauras, o dabar — Stulpai. Iš tiesų ne be
-    pagrindo spėjama, kad jie atvykę iš Insubrijos bei Li-
-    gurijos.
+  citata_rodoma: "Pagal kilmę bei karinius nuopelnus\nbuvo vardijami vadai: Palemonas, arba Publijus Libo-\nnas, herbo Stulpai,\nJulijonas\nDausprungas;,\nkurio\n59\n\n## Puslapis 58\n\ngiminės herbas Kentauras, Prosperas Cezarinas — her­\nbo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba\nRožynas. Štai dėl to kitados Lietuvos kunigaikštystės her­\nbas buvo Kentauras, o dabar — Stulpai. Iš tiesų ne be\npagrindo spėjama, kad jie atvykę iš Insubrijos bei Li-\ngurijos."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185848
+    - t-001

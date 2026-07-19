@@ -37,8 +37,7 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
 ## Teiginiai
 
 <a id="claim-t-104189"></a>
-- t-001
-  global_id: t-104189
+- t-005
   teiginys: "Lietuviams sutikus derėtis tik dėl Lietuvos su sostine Vilniumi, P. Himansas parengė Kauno ir Vilniaus kantonų projektą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
 
 <a id="claim-t-104192"></a>
 - t-002
-  global_id: t-104192
   teiginys: "1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas nebebuvo kantonas, o atitiko autonominio rajono statusą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
     - c-97148
 
 <a id="claim-t-193606"></a>
-- t-003
-  global_id: t-193606
+- t-006
   teiginys: "Ar Lietuva nepralaimėjo neišnaudojusi visų federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdiegtas Šveicarijoje pasiteisinęs kantonų principas?"
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -99,17 +96,15 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
     pritariančią Himanso planui. Rugsėjį Himansas dar pataisė planą lietuvių
     naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-
     nio rajono statusą.
-  citata_rodoma: |
-    Rugsėjį Himansas dar pataisė planą lietuvių
-    naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-
-    nio rajono statusą.
+  citata_rodoma: "Rugsėjį Himansas dar pataisė planą lietuvių \nnaudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-\nnio rajono statusą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104192
+    - t-002
+
 - id: c-97150
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -130,7 +125,8 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104189
+    - t-005
+
 - id: c-176279
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -149,4 +145,4 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193606
+    - t-006

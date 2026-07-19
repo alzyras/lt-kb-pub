@@ -43,7 +43,6 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
 
 <a id="claim-t-60014"></a>
 - t-001
-  global_id: t-60014
   teiginys: "Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį Henriką, kad šis tarpininkautų popiežiaus kurijoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,10 +59,9 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, faktinis ir paremtas pateikta ištrauka."
   pagrindžia:
     - c-60645
-    - c-001
+
 <a id="claim-t-60015"></a>
-- t-002
-  global_id: t-60015
+- t-003
   teiginys: "Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -98,42 +96,6 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60014
-- c-003
-  santrauka: 'Švabijos kunigaikštis Fridrichas turėjo pasiųsti oficialius legatus pas Henriką VI dėl ligoninės patvirtinimo popiežiaus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nors
-    apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai
-    aišku, kad „nieko nereiškia sodintojas nei laistytojas, bet tik augintojas dievas“, tačiau
-    stropus žmogus negali nesirūpinti augalais, kurie, dar jaunučiai tebebūdami, jau duoda
-    gausiai vaisių, o ateityje duos dar gausiau. Kai jo šventenybė Jeruzalės patriarchas
-    Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir
-    Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras  ir tamplierių ordino
-    magistras, daugelis abiejų ordinų brolių ir daugybė šventosios žemės baronų, būtent:
-    Radolfas, Tiberiados valdovas,  ir jo brolis valdovas Hugonas,  ir Reinoldas, Sidono
-    valdovas, ir valdovas Eimaras iš Cezarėjos, ir valdovas Jonas iš Hibelino, ir daugybė kitų
-    iš Jeruzalės karalystės  ir  iš Vokietijos: Mainco arkivyskupas Konradas, Viurcburgo
-    vyskupas bei Romos imperijos kancleris Konradas, Pasau vyskupas Volfgeris, Halberštato
-    vyskupas Gardolfas ir Ceico vyskupas, Švabijos kunigaikštis Fridrichas, Henrikas, [Pfalco
-    prie] Reino pfalcgrafas  ir Braunšveigo kunigaikštis, Austrijos kunigaikštis Fridrichas,
-    Brabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei, Saksonijos
-    hercogas ir Tiuringijos landgrafas grafas Hermanas, Brandenburgo markgrafas Albertas
-    ir imperijos maršalas Henrikas iš Kalendino, Landsbergo markgrafas Konradas, Meiseno
-    markgrafas Ditrichas, kai šie ir kiti grafai bei didikai ir daugelis jų kariuomenėje buvusių
-    kilmingųjų iš visos širdies džiaugėsi, matydami, kad ką tik įsteigta ligoninė neilgai trukus
-    ima nešti šiokios tokios naudos, teikiančios garbės bei šlovės, be to, tvirtai tikėjo, kad,
-    viešpačiui dievui laiminant šį daigelį, jis sušakosiąs ir ateityje duosiąs gausybę vaisių,
-    štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas,
-    Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą
-    Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę
-    popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 
 ## Citatos
 
@@ -153,19 +115,15 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
     jog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos
     kunigaikštis jau buvo miręs. Kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino
     priklausomumą nuo joanitų141.
-  citata_rodoma: |
-    Vokiečių ordino pradžią jis
-    datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai
-    iŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos
-    kunigaikštis Fridrichas kreipėsi  į savo brolį, Vokietijos karalių ir busimąjį imperatorių
-    (nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje.
+  citata_rodoma: "Vokiečių ordino pradžią jis\ndatuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai\niŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos\nkunigaikštis Fridrichas kreipėsi  į savo brolį, Vokietijos karalių ir busimąjį imperatorių\n(nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60014
+    - t-001
+
 - id: c-60646
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -185,22 +143,47 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
       154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų
     — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a. 2-oje
     pusėje, o prancūziškasis Tamplierių ordinas — XII a. 2-ame dešimtmetyje).
-  citata_rodoma: |
-    Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
-    kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti
-    į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos
-    kilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis
-    gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su
-    broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga. Paėmus Akoną, tas pats brolis
-    Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,
-    kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais
-
-      154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų
-    — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a.
+  citata_rodoma: "Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,\nkurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti\nį namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos\nkilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis\ngausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su\nbroliais nuolankiai tarnavo ir rūpino visa, kas reikalinga. Paėmus Akoną, tas pats brolis\nHenrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,\nkur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais\n\n  154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų\n— Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60015
+    - t-003
+
+- id: c-167448
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Nors
+    apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai
+    aišku, kad „nieko nereiškia sodintojas nei laistytojas, bet tik augintojas dievas“, tačiau
+    stropus žmogus negali nesirūpinti augalais, kurie, dar jaunučiai tebebūdami, jau duoda
+    gausiai vaisių, o ateityje duos dar gausiau. Kai jo šventenybė Jeruzalės patriarchas
+    Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir
+    Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras ir tamplierių ordino
+    magistras, daugelis abiejų ordinų brolių ir daugybė šventosios žemės baronų, būtent:
+    Radolfas, Tiberiados valdovas, ir jo brolis valdovas Hugonas, ir Reinoldas, Sidono
+    valdovas, ir valdovas Eimaras iš Cezarėjos, ir valdovas Jonas iš Hibelino, ir daugybė kitų
+    iš Jeruzalės karalystės ir iš Vokietijos: Mainco arkivyskupas Konradas, Viurcburgo
+    vyskupas bei Romos imperijos kancleris Konradas, Pasau vyskupas Volfgeris, Halberštato
+    vyskupas Gardolfas ir Ceico vyskupas, Švabijos kunigaikštis Fridrichas, Henrikas, [Pfalco
+    prie] Reino pfalcgrafas ir Braunšveigo kunigaikštis, Austrijos kunigaikštis Fridrichas,
+    Brabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei, Saksonijos
+    hercogas ir Tiuringijos landgrafas grafas Hermanas, Brandenburgo markgrafas Albertas
+    ir imperijos maršalas Henrikas iš Kalendino, Landsbergo markgrafas Konradas, Meiseno
+    markgrafas Ditrichas, kai šie ir kiti grafai bei didikai ir daugelis jų kariuomenėje buvusių
+    kilmingųjų iš visos širdies džiaugėsi, matydami, kad ką tik įsteigta ligoninė neilgai trukus
+    ima nešti šiokios tokios naudos, teikiančios garbės bei šlovės, be to, tvirtai tikėjo, kad,
+    viešpačiui dievui laiminant šį daigelį, jis sušakosiąs ir ateityje duosiąs gausybę vaisių,
+    štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas,
+    Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą
+    Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę
+    popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

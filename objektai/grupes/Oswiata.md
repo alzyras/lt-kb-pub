@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-19959"></a>
 - t-001
-  global_id: t-19959
   teiginys: "Oswiata („Apšvieta“) buvo lenkų kultūros organizacija, padėjusi švietimui ir gavusi pinigų iš Lenkijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,12 +74,11 @@ media_all_json: |-
     1935 m. priskaičiuota apie 40. Švietimui padėjo lenkų kultūros organiza-
     cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),
     gaudavusios pinigų iš Lenkijos.
-  citata_rodoma: |
-    cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),
+  citata_rodoma: "cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19959
+    - t-001

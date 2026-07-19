@@ -27,26 +27,11 @@ media_all_json: |-
 
 Narbutas aprašė privačioje bibliotekoje saugotą rankraštinę Bažnyčios istoriją, sukompiliuotą iš kronikų ir įvairių raštų išrašų.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-190520"></a>
-- t-001
-  global_id: t-190520
-  teiginys: 'Narbutas aprašė privačioje bibliotekoje saugotą rankraštinę Bažnyčios istoriją, sukompiliuotą iš kronikų ir įvairių raštų išrašų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Iš turinio fragmento padarytas vientisas sakinys apie rankraštį. Nepridėta dingusios dalies reikšmės lietuvių mitologijai, nes tam reikėtų atskiros interpretacijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]; mentioned_place: Estija'
-  pagrindžia:
-    - c-173403
-
-## Citatos
-
-- id: c-173403
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas aprašė privačioje bibliotekoje saugotą rankraštinę Bažnyčios istoriją, sukompiliuotą iš kronikų ir įvairių raštų išrašų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     IV priedas
     Apie aukštųjų žynių ženklus
@@ -72,10 +57,8 @@ Narbutas aprašė privačioje bibliotekoje saugotą rankraštinę Bažnyčios is
     gijai, paimtos iš dabar nežinomų šaltinių, kaip galima spręsti
     iš to, kas išliko 21-ajame puslapyje, kuris yra paskutinis pir­
     mojoje knygoje.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190520
+  statusas: verified

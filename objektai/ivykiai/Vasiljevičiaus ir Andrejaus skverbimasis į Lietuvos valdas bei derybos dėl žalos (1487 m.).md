@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185652"></a>
 - t-001
-  global_id: t-185652
   teiginys: "1487 m. Vasiljevičius iš Krošino kunigaikščių atėmė geroką krašto dalį ir stengėsi nuslėpti brolio Andrejaus įsibrovimą į Viazmos žemę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -101,4 +100,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185652
+    - t-001

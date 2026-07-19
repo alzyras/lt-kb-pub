@@ -32,7 +32,6 @@ Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
 
 <a id="claim-t-86228"></a>
 - t-001
-  global_id: t-86228
   teiginys: "Pranciškonų bažnyčios ir vienuolyno vietoje seniau buvo Goštauto dvaras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
 
 <a id="claim-t-200781"></a>
 - t-002
-  global_id: t-200781
   teiginys: "Didžioji Pranciškonų bažnyčia prie Trakų gatvės minima tarp dviejų seniausių iki šiol išlikusių Vilniaus bažnyčių."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -83,7 +81,8 @@ Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86228
+    - t-001
+
 - id: c-184126
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -101,4 +100,4 @@ Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200781
+    - t-002

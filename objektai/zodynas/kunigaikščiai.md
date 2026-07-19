@@ -32,7 +32,6 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 
 <a id="claim-t-03055"></a>
 - t-001
-  global_id: t-03055
   teiginys: "Laikinos apylinkių sąjungos ilgainiui sustiprėjo, o jų karo vadai tapo nuolatiniais valdovais – kunigaikščiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -334,17 +333,11 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
     tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai
     tarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais
     valdovais — kunigaikščiais.
-  citata_rodoma: |
-    Bet šitoki
-    susijungę smulkūs vienetai, savo rikių vadovaujami, atlikdami
-    bendrus žygius turėdavo, žinoma, ir bendrą vadą. Iš pradžių
-    tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai
-    tarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais
-    valdovais — kunigaikščiais.
+  citata_rodoma: "Bet šitoki\nsusijungę smulkūs vienetai, savo rikių vadovaujami, atlikdami\nbendrus žygius turėdavo, žinoma, ir bendrą vadą. Iš pradžių\ntokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai\ntarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais\nvaldovais — kunigaikščiais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03055
+    - t-001

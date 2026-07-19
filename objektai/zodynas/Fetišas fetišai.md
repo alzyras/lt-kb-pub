@@ -31,7 +31,6 @@ Narbutas į senosios lietuvių religijos vaizdą įtraukė 22 „paslaptingąsia
 
 <a id="claim-t-189262"></a>
 - t-001
-  global_id: t-189262
   teiginys: "Narbutas į senosios lietuvių religijos vaizdą įtraukė 22 „paslaptingąsias dievybes“ ir fetišus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Narbutas į senosios lietuvių religijos vaizdą įtraukė 22 „paslaptingąsia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189262
+    - t-001

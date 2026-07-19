@@ -40,7 +40,6 @@ Dusburgietis teigia, kad rimantienė.
 
 <a id="claim-t-60773"></a>
 - t-001
-  global_id: t-60773
   teiginys: "R. Rimantienė redagavo 1977 m. Vilniuje išleistą „Lietuvos TSR archeologijos atlaso“ trečią tomą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Dusburgietis teigia, kad rimantienė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60773
+    - t-001

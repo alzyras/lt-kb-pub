@@ -37,8 +37,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
 ## Teiginiai
 
 <a id="claim-t-74876"></a>
-- t-001
-  global_id: t-74876
+- t-003
   teiginys: "1941 m. liepos 17 d. Nacių Vokietija iš Lietuvos, Latvijos, Estijos ir Gudijos sudarė Ostlando reicho komisariatą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     - c-22685
 
 <a id="claim-t-74877"></a>
-- t-002
-  global_id: t-74877
+- t-005
   teiginys: "Nacių Vokietijos civilinė valdžia rūpinosi policine priežiūra ir darbo jėgos naudojimu Vokietijos kariuomenei bei karo ūkiui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     - c-72860
 
 <a id="claim-t-74878"></a>
-- t-003
-  global_id: t-74878
+- t-001
   teiginys: "Nacių Vokietijos vyriausybė uždraudė lietuviams karo atveju be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -121,18 +118,15 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     vyriausybė uždraudė lietuviams kilus karui sudaryti bet kokią Lietuvos
     vyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompe-
     tentingų Vokietijos įstaigų sutikimo“.
-  citata_rodoma: |
-    Tačiau Vokietijos
-    vyriausybė uždraudė lietuviams kilus karui sudaryti bet kokią Lietuvos
-    vyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompe-
-    tentingų Vokietijos įstaigų sutikimo“.
+  citata_rodoma: "Tačiau Vokietijos\nvyriausybė uždraudė lietuviams kilus karui sudaryti bet kokią Lietuvos\nvyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompe-\ntentingų Vokietijos įstaigų sutikimo“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74878
+    - t-001
+
 - id: c-22685
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -145,17 +139,15 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     okupacinis valdymas. Liepos 17-osios nutarimu iš „buvusių laisvų
     Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
     (Ostlando) reicho komisariatas.
-  citata_rodoma: |
-    Liepos 17-osios nutarimu iš „buvusių laisvų
-    Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
-    (Ostlando) reicho komisariatas.
+  citata_rodoma: "Liepos 17-osios nutarimu iš „buvusių laisvų\nLietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto\n(Ostlando) reicho komisariatas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74876
+    - t-003
+
 - id: c-72860
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -170,19 +162,11 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     jų nevykdymą buvo skiriamos didelės nuobaudos), į Lietuvą siunčiami
     vokiečių kolonistai (apie 30 tūkst. žmonių, daugiausia iki karo čia gy-
     venę vokiečiai).
-  citata_rodoma: |
-    Kiekvienai jų vadovavo generalinis
-    komisaras, kurie su svarbiausiomis civilinės valdžios įstaigomis rūpi-
-    nosi policine priežiūra, racionaliu darbo jėgos naudojimu aprūpinant
-    Vokietijos kariuomenę ir vokiečių karo ūkį. Vokiečių valdžia Lietuvoje
-    pajungė jos išteklius ir ūkį Vokietijos reikmėms, nepaisydama vietos gy-
-    ventojų poreikių. Lietuvos ūkininkai turėjo mokėti dideles prievoles (už
-    jų nevykdymą buvo skiriamos didelės nuobaudos), į Lietuvą siunčiami
-    vokiečių kolonistai (apie 30 tūkst.
+  citata_rodoma: "Kiekvienai jų vadovavo generalinis \nkomisaras, kurie su svarbiausiomis civilinės valdžios įstaigomis rūpi-\nnosi policine priežiūra, racionaliu darbo jėgos naudojimu aprūpinant \nVokietijos kariuomenę ir vokiečių karo ūkį. Vokiečių valdžia Lietuvoje \npajungė jos išteklius ir ūkį Vokietijos reikmėms, nepaisydama vietos gy-\nventojų poreikių. Lietuvos ūkininkai turėjo mokėti dideles prievoles (už \njų nevykdymą buvo skiriamos didelės nuobaudos), į Lietuvą siunčiami \nvokiečių kolonistai (apie 30 tūkst."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74877
+    - t-005

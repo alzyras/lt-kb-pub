@@ -4,20 +4,21 @@ pavadinimas: 'Panemunė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
 date_start: '1936'
 date_end: '2026'
+amziai:
+  - 'XX'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - miestas
   - vieta
-amziai:
-  - 'XX'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +41,7 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
 ## Teiginiai
 
 <a id="claim-t-68891"></a>
-- t-001
-  global_id: t-68891
+- t-002
   teiginys: "Vytautas, išvykęs į žvalgybą Panemunėje, pranešė Kęstučiui apie kryžiuočius Bajerburgo pilyje prie Veliuonos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +57,7 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
     - c-37619
 
 <a id="claim-t-68892"></a>
-- t-002
-  global_id: t-68892
+- t-001
   teiginys: "Panemunė ir Vilniaus miestas buvo pirmasis pabėgėlių ir tremtinių etapas Vilniaus krašte."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -72,6 +71,18 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-68355
+
+<a id="claim-t-201652"></a>
+- t-003
+  teiginys: "Šie energingai ėmėsi girilĮ eksploatavimo, didžiausias jėgas suteIkdami į panemunilĮ girias žemiau Kauno."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184999
 - susijęs iš Veliuona: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos yra susimetę kryžiuočiai.
 - susijęs iš Veliuona: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai.
 - susijęs iš Galinda: 1253 m. kryžiuočiai, siekdami lengviau užimti Sembą, pirmiausia turėjo užkariauti Galindą ir atskirti jotvingius nuo Panemunės kraštų.
@@ -109,18 +120,15 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
     nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
     susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
     dėlto atsiuntė savo brolį Kaributą pagalbon.
-  citata_rodoma: |
-    Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­
-    nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
-    susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
-    dėlto atsiuntė savo brolį Kaributą pagalbon.
+  citata_rodoma: "Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­\nnešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra\nsusimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis\ndėlto atsiuntė savo brolį Kaributą pagalbon."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68891
+    - t-002
+
 - id: c-68355
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -132,16 +140,32 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
     karas užtruktų ilgiau, kaip kelis mėnesius. Pirmasis tų pabė-
     gėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė ir
     patsai Vilniaus miestas.
-  citata_rodoma: |
-    karas užtruktų ilgiau, kaip kelis mėnesius. Pirmasis tų pabė-
-    gėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė ir
-    patsai Vilniaus miestas.
+  citata_rodoma: "karas užtruktų ilgiau, kaip kelis mėnesius. Pirmasis tų pabė-\ngėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė ir\npatsai Vilniaus miestas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68892
+    - t-001
+
+- id: c-184999
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Šie ener-
+    gingai ėmėsi girilĮ eksploatavimo, didžiausias jėgas suteIkdami į panemunilĮ girias
+    žemiau Kauno. Čia pralobę miško verslovininkai statėsi rezidentines pilis ir kartu
+    verslo atraminius punktus Raudondvaryje, Raudonėje, Panemunėje. Kauno miško
+    verslovininko veiklos arealas siaurėjo, jie beveik nesilankė šiose giriose.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

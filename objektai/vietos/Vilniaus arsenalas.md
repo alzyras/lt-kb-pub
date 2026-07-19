@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-194287"></a>
 - t-001
-  global_id: t-194287
   teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194287
+    - t-001

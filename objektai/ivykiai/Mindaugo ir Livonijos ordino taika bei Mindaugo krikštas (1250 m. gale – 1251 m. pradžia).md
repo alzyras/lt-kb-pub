@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-71756"></a>
 - t-001
-  global_id: t-71756
   teiginys: "Mindaugas susitaikė su Livonijos ordino magistru Andriumi von Stirland, kuris su juo padarė taiką ir skatino krikštytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,8 +69,7 @@ Nenurodyta
     - c-04909
 
 <a id="claim-t-71757"></a>
-- t-002
-  global_id: t-71757
+- t-003
   teiginys: "Mindaugas krikštijosi su sūnumis, žmona, gavusia Mortos vardą, ir būriu jam priklausančių žemių gyventojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,10 +85,9 @@ Nenurodyta
     - c-31354
 
 <a id="claim-t-71758"></a>
-- t-003
-  global_id: t-71758
+- t-002
   teiginys: "1250 m. gale ar 1251 m. pradžioje Mindaugas priėmė krikštą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -105,8 +102,6 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra glaustas, gramatiškas ir tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-04910
-    - c-70280
-    - c-70281
 
 ## Citatos
 
@@ -130,7 +125,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71756
+    - t-001
+
 - id: c-04910
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -141,17 +137,15 @@ Nenurodyta
     1250 m. gale ar 1251 pradžioje Mindaugas priėmė krikštą. Jis
     nebuvo pirmasis lietuvių kunigas, kuris jieškojo Livonijos ordino
     pagalbos ir krikštijosi.
-  citata_rodoma: |
-    1250 m. gale ar 1251 pradžioje Mindaugas priėmė krikštą. Jis
-    nebuvo pirmasis lietuvių kunigas, kuris jieškojo Livonijos ordino
-    pagalbos ir krikštijosi.
+  citata_rodoma: "1250 m. gale ar 1251 pradžioje Mindaugas priėmė krikštą. Jis\nnebuvo pirmasis lietuvių kunigas, kuris jieškojo Livonijos ordino\npagalbos ir krikštijosi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71758
+    - t-002
+
 - id: c-31354
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -167,21 +161,15 @@ Nenurodyta
     krikštijosi « su didele daugybe pagonių »^92 ; o kitoje bulėje popie­
     žius dar aiškiau pažymėjo, kad krikštą priėmė « didelė daugybė pa­
     gonių, kurie buvo jam (Mindaugui) pasidavę»^93.
-  citata_rodoma: |
-    Mindaugas krikštijosi
-    ne tik su sūnumis ir žmona, kuri gavo Mortos vardą, bet ir su būriu
-    jam priklausančių žemių gyventojų. Tad Inocentas IV, apie tai iš
-    Mindaugo pasiuntinių sužinojęs, galėjo rašyti, jog Lietuvos valdovas
-    krikštijosi « su didele daugybe pagonių »^92 ; o kitoje bulėje popie­
-    žius dar aiškiau pažymėjo, kad krikštą priėmė « didelė daugybė pa­
-    gonių, kurie buvo jam (Mindaugui) pasidavę»^93.
+  citata_rodoma: "Mindaugas krikštijosi\nne tik su sūnumis ir žmona, kuri gavo Mortos vardą, bet ir su būriu\njam priklausančių žemių gyventojų. Tad Inocentas IV, apie tai iš\nMindaugo pasiuntinių sužinojęs, galėjo rašyti, jog Lietuvos valdovas\nkrikštijosi « su didele daugybe pagonių »^92 ; o kitoje bulėje popie­\nžius dar aiškiau pažymėjo, kad krikštą priėmė « didelė daugybė pa­\ngonių, kurie buvo jam (Mindaugui) pasidavę»^93."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71757
+    - t-003
+
 - id: c-70280
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -196,21 +184,13 @@ Nenurodyta
     kartą buvo iškelti po II-jo pasaulinio karo^3 , kai dėmesingai, ypač
     J. A. V. lietuvių kolonijose, buvo švenčiama Mindaugo krikšto 700
     m. sukaktis (1951 m.).
-  citata_rodoma: |
-    Ne mažiau reikšmingas yra kitas klausimas, būtent, ar Min­
-    daugo ir jo šalininkų pasikrikštijimo datą (1251 m.) jau reikia
-    skaityti oficialiuoju visos lietuvių tautos krikštu. Ir tuo klausimu
-    nauji skambus revizionistiniai reikalavimai lietuvių spaudoje pirmą
-    kartą buvo iškelti po II-jo pasaulinio karo^3 , kai dėmesingai, ypač
-    J. A. V. lietuvių kolonijose, buvo švenčiama Mindaugo krikšto 700
-    m. sukaktis (1951 m.).
+  citata_rodoma: "Ne mažiau reikšmingas yra kitas klausimas, būtent, ar Min­\ndaugo ir jo šalininkų pasikrikštijimo datą (1251 m.) jau reikia\nskaityti oficialiuoju visos lietuvių tautos krikštu. Ir tuo klausimu\nnauji skambus revizionistiniai reikalavimai lietuvių spaudoje pirmą\nkartą buvo iškelti po II-jo pasaulinio karo^3 , kai dėmesingai, ypač\nJ. A. V. lietuvių kolonijose, buvo švenčiama Mindaugo krikšto 700\nm. sukaktis (1951 m.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-71758
 - id: c-70281
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -232,5 +212,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-71758

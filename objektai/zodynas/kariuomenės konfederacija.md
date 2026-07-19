@@ -31,7 +31,6 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfeder
 
 <a id="claim-t-70169"></a>
 - t-001
-  global_id: t-70169
   teiginys: "Kai kariuomenei nemokėdavo algos, jos atsisakymas klausyti vadų ir plėšikavimas iki algos gavimo vadinosi kariuomenės konfederacija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfeder
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70169
+    - t-001

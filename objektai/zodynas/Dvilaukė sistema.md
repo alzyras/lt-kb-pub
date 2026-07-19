@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-32749"></a>
 - t-001
-  global_id: t-32749
   teiginys: "Dvilaukė sistema atsirado, kai apžėlęs lydimas virsdavo ganykla, o naujas lydimas buvo daromas kitoje miško ar pamiškės vietoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ media_all_json: |-
     - c-32618
 
 <a id="claim-t-184355"></a>
-- t-002
-  global_id: t-184355
+- t-003
   teiginys: "Dvilaukė sistema atsirado iš lydiminės žemdirbystės, kai nulaisintas lydimas ilgai turėjo pūdymauti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32749
+    - t-001
+
 - id: c-167725
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -108,4 +107,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184355
+    - t-003

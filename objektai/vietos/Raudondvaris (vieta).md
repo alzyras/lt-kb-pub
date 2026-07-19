@@ -33,7 +33,6 @@ media_all_json: |-
 
 <a id="claim-t-201742"></a>
 - t-001
-  global_id: t-201742
   teiginys: "Čia pralobę miško verslovininkai statėsi rezidentines pilis ir kartu verslo atraminius punktus Raudondvaryje, Raudonėje, Panemunėje."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201742
+    - t-001

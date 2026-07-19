@@ -34,13 +34,52 @@ media_all_json: |-
 
 Per 1808–1809 m. Rusijos–Švedijos karą Teodoras Narbutas buvo kontūzytas mūšyje prie Abo miesto.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Per 1808–1809 m. Rusijos–Švedijos karą Teodoras Narbutas buvo kontūzytas mūšyje prie Abo miesto.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    T. Nar­
+    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
+    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
+    siliepė sveikatai -  jis apkurto.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-171863
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Tuo me­
+    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
+    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
+    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
+    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
+    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
+    kus. Vilniaus šubravcų draugijos nariai, pasivadinę pagoniš­
+    kais dievų ir dievybių vardais, rinko medžiagą apie lietuvių
+    mitologiją.
+  citata_rodoma: "T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.\nMūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­\nsiliepė sveikatai -  jis apkurto."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-188974"></a>
 - t-001
-  global_id: t-188974
   teiginys: "Per 1808–1809 m. Rusijos–Švedijos karą Teodoras Narbutas buvo kontūzytas mūšyje prie Abo miesto."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,48 +98,3 @@ Per 1808–1809 m. Rusijos–Švedijos karą Teodoras Narbutas buvo kontūzytas 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171863
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Per 1808–1809 m. Rusijos–Švedijos karą Teodoras Narbutas buvo kontūzytas mūšyje prie Abo miesto.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    T. Nar­
-    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
-    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
-    siliepė sveikatai -  jis apkurto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188974
-## Citatos
-
-- id: c-171863
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Tuo me­
-    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
-    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
-    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
-    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
-    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
-    kus. Vilniaus šubravcų draugijos nariai, pasivadinę pagoniš­
-    kais dievų ir dievybių vardais, rinko medžiagą apie lietuvių
-    mitologiją.
-  citata_rodoma: |
-    T. Nar­
-    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
-    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
-    siliepė sveikatai -  jis apkurto.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188974

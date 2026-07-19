@@ -31,8 +31,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 ## Teiginiai
 
 <a id="claim-t-95214"></a>
-- t-001
-  global_id: t-95214
+- t-008
   teiginys: "Užnemunėje, citatoje tapatinamoje su Suvalkų kraštu, kaimai XIX a. išsiskirstė vienkiemiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     - c-46739
 
 <a id="claim-t-95216"></a>
-- t-002
-  global_id: t-95216
+- t-006
   teiginys: "Dabartinis Suvalkų kraštas buvo kryžiuočių pasienio didžiulės girios dalis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +56,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     - c-90172
 
 <a id="claim-t-95217"></a>
-- t-003
-  global_id: t-95217
+- t-007
   teiginys: "Lietuviškoji Užnemunė, apimanti Suvalkų kraštą, Prūsijos valdžioje priklausė Balstogės departamentui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +65,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     - c-90175
 
 <a id="claim-t-95219"></a>
-- t-004
-  global_id: t-95219
+- t-009
   teiginys: "Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais, o į Prūsiją per jį ėjo tik du keliai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +82,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 
 <a id="claim-t-95220"></a>
 - t-005
-  global_id: t-95220
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ svarstoma, kad Vytautas tikėjosi gauti Žemaičius ir Užnemunę (Suvalkų kraštą)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +90,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     - c-90171
 
 <a id="claim-t-193234"></a>
-- t-006
-  global_id: t-193234
+- t-010
   teiginys: "Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -122,22 +116,15 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki
     mūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė
     vienkiemiais XIX amž., o kitur jie dar nebaigė skirstytis nė dabar.
-  citata_rodoma: |
-    Pati
-    reforma iš pradžių buvo padaryta tik vakarinėje valstybės da-
-    lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose
-    srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien
-    savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž.
-    vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki
-    mūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė
-    vienkiemiais XIX amž.
+  citata_rodoma: "Pati\nreforma iš pradžių buvo padaryta tik vakarinėje valstybės da-\nlyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose\nsrityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien\nsavo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž.\nvidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki\nmūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė\nvienkiemiais XIX amž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95214
+    - t-008
+
 - id: c-90170
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -155,7 +142,8 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95219
+    - t-009
+
 - id: c-90171
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -170,17 +158,15 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     Jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko
     daugiau nesitikėjo gauti.
-  citata_rodoma: |
-    Jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
-    nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko
-    daugiau nesitikėjo gauti.
+  citata_rodoma: "Jis greičiausiai nenorėjo leisti per daug laimėti lenkams,\nnes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko\ndaugiau nesitikėjo gauti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95220
+    - t-005
+
 - id: c-90172
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -194,17 +180,15 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     riomis. Antai ištisa didžiulė giria buvo kryžiuočių pasienis, t. y.
     visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre-
     tingos ir Telšių apskričių dalys.
-  citata_rodoma: |
-    Antai ištisa didžiulė giria buvo kryžiuočių pasienis, t. y.
-    visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre-
-    tingos ir Telšių apskričių dalys.
+  citata_rodoma: "Antai ištisa didžiulė giria buvo kryžiuočių pasienis, t. y.\nvisas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre-\ntingos ir Telšių apskričių dalys."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95216
+    - t-006
+
 - id: c-90175
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -220,7 +204,8 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95217
+    - t-007
+
 - id: c-175971
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -241,4 +226,4 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193234
+    - t-010

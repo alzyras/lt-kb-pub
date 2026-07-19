@@ -39,8 +39,7 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
 ## Teiginiai
 
 <a id="claim-t-60935"></a>
-- t-001
-  global_id: t-60935
+- t-002
   teiginys: "Basanavičiaus veikalo puslapiai 178–181 nurodomi kaip pasakojimų apie piliakalnį į pietryčius nuo Ragainės šaltinis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
     - c-61570
 
 <a id="claim-t-60936"></a>
-- t-002
-  global_id: t-60936
+- t-003
   teiginys: "Basanavičiaus veikalo puslapiai 181–182 nurodomi tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -76,10 +74,9 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
     - c-61568
 
 <a id="claim-t-60937"></a>
-- t-003
-  global_id: t-60937
+- t-004
   teiginys: "Basanavičiaus veikalo puslapis 182 nurodomas prie Šereitlaukio apylinkėse lokalizuojamos Sareibe pilies aptarimo."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jonas Basanavičius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -94,10 +91,9 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   temporalinis_llm_pakomentavimas: "Teiginys pašalina puslapio triukšmą ir tiksliai nusako, kur citatoje nurodomas Basanavičiaus veikalas."
   pagrindžia:
     - c-61567
-    - c-001
+
 <a id="claim-t-60938"></a>
-- t-004
-  global_id: t-60938
+- t-001
   teiginys: "Basanavičiaus veikalo puslapiai 190–191 nurodomi prie Kampsvykalnio piliakalnio Vangrapės krante, į pietus nuo Tamoviškių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -130,8 +126,7 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60937
+
 ## Citatos
 
 - id: c-61567
@@ -149,19 +144,15 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
     broliai ilsėjosi savo palapinėse, Sarkis, be galo stiprus vyras, sutraukė pančius, kuriais
     buvo pririštas prie medžio, ir, nutvėręs kalaviją, nužudė vieną brolį bei tris ginklanešius,
     o kitam nukirto ranką, tačiau ir pats šioje kovoje padėjo galvą.
-  citata_rodoma: |
-    1344 m. čia minima  pilis — huse Sareibe
-    (Mortensen G., Beiträge..., p. 33; HGAPW). Per 2 km  į vakarus nuo Šereitlaukio yra
-    apskrita kalva, kurioje kartais lokalizuojama minėta pilis, tačiau, iš paviršiaus žiūrint,
-    ryškesnių įtvirtinimų pėdsakų kalvoje nepastebima (Basanavičius J., Iš gyvenimo vėlių...,
-    p. 182; SZM, p. 288—289; Remeika J., Ką kalneliai..., p. 13—14, 88; LAA, 2, p. 162).
+  citata_rodoma: "1344 m. čia minima  pilis — huse Sareibe\n(Mortensen G., Beiträge..., p. 33; HGAPW). Per 2 km  į vakarus nuo Šereitlaukio yra\napskrita kalva, kurioje kartais lokalizuojama minėta pilis, tačiau, iš paviršiaus žiūrint,\nryškesnių įtvirtinimų pėdsakų kalvoje nepastebima (Basanavičius J., Iš gyvenimo vėlių...,\np. 182; SZM, p. 288—289; Remeika J., Ką kalneliai..., p. 13—14, 88; LAA, 2, p. 162)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60937
+    - t-004
+
 - id: c-61568
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -179,7 +170,8 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60936
+    - t-003
+
 - id: c-61569
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -194,7 +186,8 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60938
+    - t-001
+
 - id: c-61570
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -209,4 +202,4 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60935
+    - t-002

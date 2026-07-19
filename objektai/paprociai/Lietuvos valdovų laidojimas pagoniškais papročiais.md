@@ -61,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-31525"></a>
 - t-001
-  global_id: t-31525
   teiginys: "Iki 1385 m. pagonys Lietuvos valdovai, tarp jų Algirdas 1377 m. ir Kęstutis 1382 m., veikiausiai buvo laidojami pagoniškais papročiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,16 +93,11 @@ Nenurodyta
     pročiais palaidojami (paskutinieji jų, Algirdas 1377 m. ir Kęstutis
     1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­
     niška.
-  citata_rodoma: |
-    Matomai Lietuvos valdo­
-    vai, kurie iki 1385 m. dar buvo pagonys, ar buvo pagoniškais pa­
-    pročiais palaidojami (paskutinieji jų, Algirdas 1377 m. ir Kęstutis
-    1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­
-    niška.
+  citata_rodoma: "Matomai Lietuvos valdo­\nvai, kurie iki 1385 m. dar buvo pagonys, ar buvo pagoniškais pa­\npročiais palaidojami (paskutinieji jų, Algirdas 1377 m. ir Kęstutis\n1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­\nniška."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31525
+    - t-001

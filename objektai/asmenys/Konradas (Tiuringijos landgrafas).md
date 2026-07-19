@@ -32,8 +32,7 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
 ## Teiginiai
 
 <a id="claim-t-59988"></a>
-- t-001
-  global_id: t-59988
+- t-002
   teiginys: "Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
     - c-60623
 
 <a id="claim-t-59990"></a>
-- t-002
-  global_id: t-59990
+- t-004
   teiginys: "Dusburgietis vaizduoja Konradą kaip šventosios dvasios apšviestą magistrą, permanydavusį žmonių paslaptis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -67,7 +65,6 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
 
 <a id="claim-t-59991"></a>
 - t-003
-  global_id: t-59991
   teiginys: "Konradas (Tiuringijos landgrafas) kreipėsi į jo šventenybę popiežių, kuriam ir išpažino visas savo nuodėmes."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -102,7 +99,8 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59991
+    - t-003
+
 - id: c-60622
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -119,19 +117,15 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
     buvo susitepęs paleistuvystės nuodėme. Vienas abatas, šitai sužinojęs, panoro ištirti, ar
     taip yra iš tikrųjų, todėl nusivedė du jaunus pasileidėlius pas magistrą, tačiau šis, vos
     išvydęs tuos tarnus, liepė jiems išsinešdinti.
-  citata_rodoma: |
-    Šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis
-    ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas
-    buvo susitepęs paleistuvystės nuodėme. Vienas abatas, šitai sužinojęs, panoro ištirti, ar
-    taip yra iš tikrųjų, todėl nusivedė du jaunus pasileidėlius pas magistrą, tačiau šis, vos
-    išvydęs tuos tarnus, liepė jiems išsinešdinti.
+  citata_rodoma: "Šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis\nėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas\nbuvo susitepęs paleistuvystės nuodėme. Vienas abatas, šitai sužinojęs, panoro ištirti, ar\ntaip yra iš tikrųjų, todėl nusivedė du jaunus pasileidėlius pas magistrą, tačiau šis, vos\nišvydęs tuos tarnus, liepė jiems išsinešdinti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59990
+    - t-004
+
 - id: c-60623
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -146,20 +140,11 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
     atgailą ir rodė nusižeminimą, atsiteisdamas už šitokią piktadarybę, taigi ėjo minėtajame
     mieste su procesija basomis ir plika galva, puolė kniūpsčias prieš bažnyčios duris, o
     rykštę, kurią laikė rankoje, davė žmonėms, kad tiek jį plaktų, kiek kam širdis leidžia.
-  citata_rodoma: |
-    Apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino
-                                                  didįjį magistrą
-
-       Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis
-    magistras, mirė liepos 24 dieną, o palaidotas Markburge. Kai dar buvo pasaulietis, jis
-    kartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti  į vienuolius, darė
-    atgailą ir rodė nusižeminimą, atsiteisdamas už šitokią piktadarybę, taigi ėjo minėtajame
-    mieste su procesija basomis ir plika galva, puolė kniūpsčias prieš bažnyčios duris, o
-    rykštę, kurią laikė rankoje, davė žmonėms, kad tiek jį plaktų, kiek kam širdis leidžia.
+  citata_rodoma: "Apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino\n                                              didįjį magistrą\n\n   Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis\nmagistras, mirė liepos 24 dieną, o palaidotas Markburge. Kai dar buvo pasaulietis, jis\nkartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti  į vienuolius, darė\natgailą ir rodė nusižeminimą, atsiteisdamas už šitokią piktadarybę, taigi ėjo minėtajame\nmieste su procesija basomis ir plika galva, puolė kniūpsčias prieš bažnyčios duris, o\nrykštę, kurią laikė rankoje, davė žmonėms, kad tiek jį plaktų, kiek kam širdis leidžia."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59988
+    - t-002

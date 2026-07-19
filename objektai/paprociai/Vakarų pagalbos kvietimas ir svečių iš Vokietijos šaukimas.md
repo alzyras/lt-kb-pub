@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05368"></a>
-- t-001
-  global_id: t-05368
+- t-004
   teiginys: "Kalavijuočių ordiną stiprino Popiežiaus privilegijų skatinami iš Vokietijos atvykstantys kryžininkai."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ Nenurodyta
     - c-05451
 
 <a id="claim-t-10819"></a>
-- t-002
-  global_id: t-10819
+- t-005
   teiginys: "Livonijos ordino aplinkoje buvo įprasta kviesti svečius iš Vokietijos ir skelbti specialius kryžiaus žygius."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -94,8 +92,7 @@ Nenurodyta
     - c-00237
 
 <a id="claim-t-10820"></a>
-- t-003
-  global_id: t-10820
+- t-006
   teiginys: "Ordinui prašant popiežius Vakaruose skelbdavo kryžiaus karus, kad į pagalbą plauktų minios karių."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -111,8 +108,7 @@ Nenurodyta
     - c-00238
 
 <a id="claim-t-10821"></a>
-- t-004
-  global_id: t-10821
+- t-007
   teiginys: "Vakarų pagalbos kvietimas tapo ordino gynimosi ir puolimo praktika."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -145,7 +141,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10819
+    - t-005
+
 - id: c-00238
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -156,17 +153,15 @@ Nenurodyta
     Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus
     karus, ir ordinui į talką plaukdavo minios karių. Iš Palestinos or-
     dinas atsinešė į aisčių kraštą ir kariavimo būdą.
-  citata_rodoma: |
-    Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus karus,
-    ir ordinui į talką plaukdavo minios karių. Iš Palestinos or-
-    dinas atsinešė į aisčių kraštą ir kariavimo būdą.
+  citata_rodoma: "Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus karus,\nir ordinui į talką plaukdavo minios karių. Iš Palestinos or-\ndinas atsinešė į aisčių kraštą ir kariavimo būdą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10820
+    - t-006
+
 - id: c-00239
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -177,18 +172,15 @@ Nenurodyta
     galbos. Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet
     iš to nieko neišėjo, nes atvykę kryžeiviai miškuose prūsų negalė-
     davo surasti.
-  citata_rodoma: |
-    Livonijos vyskupų pavyzdžiu, ir čia pradėta šauktis Vakarų pa-
-    galbos. Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet
-    iš to nieko neišėjo, nes atvykę kryžeiviai miškuose prūsų negalė-
-    davo surasti.
+  citata_rodoma: "Livonijos vyskupų pavyzdžiu, ir čia pradėta šauktis Vakarų pa-\ngalbos. Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet\niš to nieko neišėjo, nes atvykę kryžeiviai miškuose prūsų negalė-\ndavo surasti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10821
+    - t-007
+
 - id: c-05451
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -201,14 +193,11 @@ Nenurodyta
     raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją. Popiežiaus privi­
     legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
     ordino prieauglių.
-  citata_rodoma: |
-    Popiežiaus privi­
-    legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
-    ordino prieauglių.
+  citata_rodoma: "Popiežiaus privi­\nlegijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo\nordino prieauglių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05368
+    - t-004

@@ -40,8 +40,7 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
 ## Teiginiai
 
 <a id="claim-t-60968"></a>
-- t-001
-  global_id: t-60968
+- t-003
   teiginys: "Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai Akono apgulos metu vyrai iš Bremeno ir Liubeko įrengė ligoninę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
 
 <a id="claim-t-60969"></a>
 - t-002
-  global_id: t-60969
   teiginys: "Dusburgietis panaudojo Vokiečių ordino statutų prologą, pateikdamas vokiškąją ir tendencingą Ordino įsikūrimo versiją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
     - c-61602
 
 <a id="claim-t-60970"></a>
-- t-003
-  global_id: t-60970
+- t-001
   teiginys: "Vokiečių ordino statutų prologas buvo pirmoji ir viena svarbiausių statutų dalių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -117,7 +114,8 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60968
+    - t-003
+
 - id: c-61601
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -127,17 +125,15 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
     2. regula (taisyklės), 3. teisė, 4. papročiai). Šios dalys buvo galutinai sujungtos prieš
     1264 m. ir pradėjo plisti rankraštiniais nuorašais. Prieš tai, apie 1245 m., parengta nauja
     regulos redakcija, kurios įvadu tapo prologas.
-  citata_rodoma: |
-    Prologas — pirmoji, viena iš svarbiausių Vokiečių ordino statutų dalis (1. prologas,
-    2. regula (taisyklės), 3. teisė, 4. papročiai). Šios dalys buvo galutinai sujungtos prieš
-    1264 m. ir pradėjo plisti rankraštiniais nuorašais.
+  citata_rodoma: "Prologas — pirmoji, viena iš svarbiausių Vokiečių ordino statutų dalis (1. prologas,\n2. regula (taisyklės), 3. teisė, 4. papročiai). Šios dalys buvo galutinai sujungtos prieš\n1264 m. ir pradėjo plisti rankraštiniais nuorašais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60970
+    - t-001
+
 - id: c-61602
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -151,4 +147,4 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60969
+    - t-002

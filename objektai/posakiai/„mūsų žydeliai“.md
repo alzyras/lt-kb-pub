@@ -31,7 +31,6 @@ Malonybiškai ir kartu pašaipiai lietuvių vadinami „mūsų žydeliai“ (dė
 
 <a id="claim-t-20920"></a>
 - t-001
-  global_id: t-20920
   teiginys: "Lietuvoje žydai, lietuvių malonybiškai ir pašaipiai vadinti „mūsų žydeliais“, garsėjo visuotiniu raštingumu ir pomėgiu knygai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,12 +67,11 @@ Malonybiškai ir kartu pašaipiai lietuvių vadinami „mūsų žydeliai“ (dė
     „kitokie“. Žydai lietuvių valstiečius matė kaip mažai civilizuotus kaimie-
     čius, iš kurių jie tik pirko produkciją, o vos prasibrėžianti lietuvių kultūra
     jiems, kaip ir lenkams, visiškai neimponavo.
-  citata_rodoma: |
-    sių žydų pirklių ir derliaus supirkėjų ir atvirkščiai. Malonybiškai ir kartu
+  citata_rodoma: "sių žydų pirklių ir derliaus supirkėjų ir atvirkščiai. Malonybiškai ir kartu"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20920
+    - t-001

@@ -38,7 +38,6 @@ Dusburgietis teigia, kad zweck A.
 
 <a id="claim-t-61389"></a>
 - t-001
-  global_id: t-61389
   teiginys: "A. Zwecko straipsnis apie Deimės upės vagos susidarymą publikuotas 1896 m. AM 33 tome."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Dusburgietis teigia, kad zweck A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61389
+    - t-001

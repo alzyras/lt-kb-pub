@@ -40,7 +40,6 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
 
 <a id="claim-t-194114"></a>
 - t-002
-  global_id: t-194114
   teiginys: "Lietuvos metraštis pasakoja, kad Mantvila, sužinojęs apie ištuštėjusią Rusų šalį, pavedė kariuomenę savo sūnui Erdvilai."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
 
 <a id="claim-t-201012"></a>
 - t-003
-  global_id: t-201012
   teiginys: "Neilgai buvus Mantvila, kunigaikštis Žemaičių, sukėlęs kareivius žemaičių ir lietuvių, traukė vėl į Baltuosius Gudus."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -65,16 +63,6 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   pagrindžia:
     - c-184362
 
-<a id="claim-t-194113"></a>
-- t-001
-  global_id: t-194113
-  teiginys: 'Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės valdymo paliko ją valdyti savo sūnui Mantvilai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas skyriaus pavadinimo triukšmas ir OCR klaidos. Valdovo titulas bei genealoginis kronikos pasakojimas palikti su atribucija.'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės valdymo paliko ją valdyti savo sūnui Mantvilai.'
@@ -95,11 +83,9 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
     miestas sudegintas ir visa Rusų žemė nusiaubta.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194113
+  statusas: verified
 ## Citatos
 
 - id: c-176727
@@ -115,31 +101,22 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
     sužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­
     gaikščiai išvaikyti. Ir pavedęs kariuomenę savo sūnui
     Erdvilai, pasiuntė su juo savo tarybos ponus — pirmą
-    Stulpų herbo poną, vardu Grumbįl0 , o antrą Meškos
+    Stulpų herbo poną, vardu Grumbįl0, o antrą Meškos
     herbo, vardu Eikšį, o trečią Rožės herbo, vardu Griau-
-    ž įl2 .
-  citata_rodoma: |
-    Ir jis sušaukė ka­
-    rius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­
-    no Drucko miestą ir pasivadino Drucko didžiuoju ku­
-    nigaikščiu s.
-    O tuo laiku Žemaičių didysis kunigaikštis Mantvila
-    sužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­
-    gaikščiai išvaikyti. Ir pavedęs kariuomenę savo sūnui
-    Erdvilai, pasiuntė su juo savo tarybos ponus — pirmą
-    Stulpų herbo poną, vardu Grumbįl0 , o antrą Meškos
-    herbo, vardu Eikšį, o trečią Rožės herbo, vardu Griau-
-    ž įl2 .
+    ž įl2.
+  citata_rodoma: "Ir jis sušaukė ka­\nrius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­\nno Drucko miestą ir pasivadino Drucko didžiuoju ku­\nnigaikščiu s.\nO tuo laiku Žemaičių didysis kunigaikštis Mantvila \nsužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­\ngaikščiai išvaikyti. Ir pavedęs kariuomenę savo sūnui \nErdvilai, pasiuntė su juo savo tarybos ponus — pirmą \nStulpų herbo poną, vardu Grumbįl0 , o antrą Meškos \nherbo, vardu Eikšį, o trečią Rožės herbo, vardu Griau- \nž įl2 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194114
+    - t-002
+
 - id: c-184362
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lietuviai ir žemaičiai vėl, norėdami atmonyti H98
     Jaroslavui teriones žemgalių, patelkę dar Polocko
@@ -165,4 +142,4 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201012
+    - t-003

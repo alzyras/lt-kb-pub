@@ -33,7 +33,6 @@ Vi sų pirma kaipo vėdliai jojo lenkai, jomylistos, pilių vyrai, urėdai, arba
 
 <a id="claim-t-201223"></a>
 - t-001
-  global_id: t-201223
   teiginys: "Vi sų pirma kaipo vėdliai jojo lenkai, jomylistos, pilių vyrai, urėdai, arba vojevodos, nuo aukso ir sidabro žibantys."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Vi sų pirma kaipo vėdliai jojo lenkai, jomylistos, pilių vyrai, urėdai, arba
 ## Citatos
 
 - id: c-184573
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Atėjus svodbai, kas gal tą iškilmę aprašyti, su
     kuria Aldona, didžioji kunigaikštaitė Lietuvos, ap­
@@ -64,4 +64,4 @@ Vi sų pirma kaipo vėdliai jojo lenkai, jomylistos, pilių vyrai, urėdai, arba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201223
+    - t-001

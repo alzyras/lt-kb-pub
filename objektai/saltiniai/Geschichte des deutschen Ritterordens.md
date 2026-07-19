@@ -41,7 +41,6 @@ Voigt 9 tomų veikale Geschichte Preusseus (1827-1838) nagrinėja kryžiuočių 
 
 <a id="claim-t-31689"></a>
 - t-001
-  global_id: t-31689
   teiginys: "Voigt atskirai išleido „Geschichte des deutschen Ritterordens“ 1857–1859 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,16 +71,11 @@ Voigt 9 tomų veikale Geschichte Preusseus (1827-1838) nagrinėja kryžiuočių 
     iki vokiečių ordino žlugimo (1525); atskirai išleido dar _Geschichte
     des deutschen Ritterordens_ (1857-1859) ir CDPr. Anksčiau buvęs
     Tartu archyvo direktorius, vėliau Berlyno univ.
-  citata_rodoma: |
-    Voigt 9 tomų veikale _Geschichte
-    Preusseus_ (1827-1838) nagrinėja kryžiuočių santykius su Lietuva
-    iki vokiečių ordino žlugimo (1525); atskirai išleido dar _Geschichte
-    des deutschen Ritterordens_ (1857-1859) ir CDPr. Anksčiau buvęs
-    Tartu archyvo direktorius, vėliau Berlyno univ.
+  citata_rodoma: "Voigt 9 tomų veikale _Geschichte\nPreusseus_ (1827-1838) nagrinėja kryžiuočių santykius su Lietuva\niki vokiečių ordino žlugimo (1525); atskirai išleido dar _Geschichte\ndes deutschen Ritterordens_ (1857-1859) ir CDPr. Anksčiau buvęs\nTartu archyvo direktorius, vėliau Berlyno univ."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31689
+    - t-001

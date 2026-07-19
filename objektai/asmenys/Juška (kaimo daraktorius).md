@@ -53,7 +53,6 @@ Juška aprašomas kaip kaimo daraktorius ir nuomininkas, žiemomis mokęs vaikus
 
 <a id="claim-t-195258"></a>
 - t-001
-  global_id: t-195258
   teiginys: "Juška gyveno geresnėje ir atidirbdavo dvidešimt keturias dienas per metus."
   atnaujinta: "2026-07-12 01:05"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -64,7 +63,6 @@ Juška aprašomas kaip kaimo daraktorius ir nuomininkas, žiemomis mokęs vaikus
 
 <a id="claim-t-195259"></a>
 - t-002
-  global_id: t-195259
   teiginys: "Juškos tikrasis darbas buvo žiemomis mokyti vaikus, už kiekvieną vaiką imant po griviną per savaitę ir gaunant maistą."
   atnaujinta: "2026-07-12 01:05"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -89,15 +87,15 @@ Juška aprašomas kaip kaimo daraktorius ir nuomininkas, žiemomis mokęs vaikus
     Jo tikrasis darbas buvo žie­
     momis mokyti vaikus: kas savaitę nuo kiekvieno vaiko imdavo po gri­
     viną, be to, gaudavo visą maistą.
-  citata_rodoma: |
-    Jo tikrasis darbas buvo žie­momis mokyti vaikus: kas savaitė nuo kiekvieno vaiko imdavo po gri­viną, be to, gaudavo visą maistą.
+  citata_rodoma: "Jo tikrasis darbas buvo žie­momis mokyti vaikus: kas savaitė nuo kiekvieno vaiko imdavo po gri­viną, be to, gaudavo visą maistą."
   statusas: verified
   atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195259
+    - t-002
+
 - id: c-177624
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -110,12 +108,11 @@ Juška aprašomas kaip kaimo daraktorius ir nuomininkas, žiemomis mokęs vaikus
     atskirą kambarį ir
     prieangį, vadinasi, buvo du kambariu su dviem nuomininkais. Geres­
     nėje gyveno Juška, atidirbdamas dvidešimt keturias dienas per metus.
-  citata_rodoma: |
-    Geres­nėje gyveno Juška, atidirbdamas dvidešimt keturias dienas per metus.
+  citata_rodoma: "Geres­nėje gyveno Juška, atidirbdamas dvidešimt keturias dienas per metus."
   statusas: verified
   atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195258
+    - t-001

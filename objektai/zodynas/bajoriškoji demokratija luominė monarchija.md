@@ -37,8 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-22068"></a>
-- t-001
-  global_id: t-22068
+- t-002
   teiginys: "Abiejų Tautų Respublikoje atstovai rinkdavo valdovą, todėl santvarka galėjo atrodyti kaip respublika, o ne monarchija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ media_all_json: |-
     - c-24754
 
 <a id="claim-t-22069"></a>
-- t-002
-  global_id: t-22069
+- t-001
   teiginys: "Abiejų Tautų Respublika sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,15 +98,15 @@ media_all_json: |-
     • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
     teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-  citata_rodoma: |
-    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
+  citata_rodoma: "•\t sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22069
+    - t-001
+
 - id: c-24754
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -122,12 +120,11 @@ media_all_json: |-
     Vienas didingiausių ir puošniausių LDK baroko
     interjerų – Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios
     interjeras (XVII a. antra p.).
-  citata_rodoma: |
-    blika (juo labiau kad oficialiai valstybė taip ir vadinosi). Tai reikštų, kad
+  citata_rodoma: "blika (juo labiau kad oficialiai valstybė taip ir vadinosi). Tai reikštų, kad"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22068
+    - t-002

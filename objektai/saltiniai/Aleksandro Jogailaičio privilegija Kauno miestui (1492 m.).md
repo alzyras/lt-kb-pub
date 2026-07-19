@@ -11,10 +11,10 @@ datos:
   - '1492 m.'
 date_start: '1492'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-202248"></a>
 - t-001
-  global_id: t-202248
   teiginys: "1492 m. Aleksandro Jogailaičio privilegija Kauno miestui."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202248
+    - t-001

@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-189943"></a>
 - t-001
-  global_id: t-189943
   teiginys: "Narbutas, remdamasis Strijkovskiu, Birutę vaizduoja kaip vaidilutę, saugojusią šventą Praurimės aukuro ugnį netoli Palangos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-189944"></a>
 - t-002
-  global_id: t-189944
   teiginys: "Narbutas nurodo, kad Birutė Praurimės aukurą prižiūrėjo beveik 18 metų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,6 @@ Nenurodyta
 
 <a id="claim-t-197268"></a>
 - t-003
-  global_id: t-197268
   teiginys: "Mirusi buvo palaidota po Amžinosios ugnies aukuro griuvėsiais30."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -130,8 +127,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189943
-    - t-197268
+    - t-001
+    - t-003
+
 - id: c-172827
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -155,4 +153,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189944
+    - t-002

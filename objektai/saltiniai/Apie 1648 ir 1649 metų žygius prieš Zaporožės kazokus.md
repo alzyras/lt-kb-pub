@@ -49,8 +49,7 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
 ## Teiginiai
 
 <a id="claim-t-111338"></a>
-- t-001
-  global_id: t-111338
+- t-006
   teiginys: "„Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ pasakoja, kad 1649 m. priešai staiga užpuolė prie stovyklos buvusius pašarininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
     - c-43232
 
 <a id="claim-t-111339"></a>
-- t-002
-  global_id: t-111339
+- t-003
   teiginys: "A. Vijūkas-Kojalavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ rašė apie Lojevo mūšį."
   atnaujinta: "2026-06-13 17:36"
   sprendimo_priezastis: "auto"
@@ -90,8 +88,7 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
     - c-102971
 
 <a id="claim-t-111340"></a>
-- t-003
-  global_id: t-111340
+- t-007
   teiginys: "A. Vijūko-Kojalavičiaus 1651 m. veikalo „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištrauka yra apie Lojevo mūšį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,20 +109,12 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
 
 <a id="claim-t-111341"></a>
 - t-004
-  global_id: t-111341
   teiginys: "„Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ šiame veikale cituojamas kaip atskiras šaltinis."
-  atnaujinta: "2026-06-01 14:44"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-43232
+    - c-102971
 
 ## Citatos
 
@@ -165,8 +154,8 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111338
-    - t-111341
+    - t-006
+
 - id: c-102971
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -186,5 +175,6 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111339
-    - t-111340
+    - t-003
+    - t-007
+    - t-004

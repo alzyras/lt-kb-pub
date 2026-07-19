@@ -31,7 +31,6 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 
 <a id="claim-t-75568"></a>
 - t-001
-  global_id: t-75568
   teiginys: "Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
     - c-73306
 
 <a id="claim-t-75569"></a>
-- t-002
-  global_id: t-75569
+- t-003
   teiginys: "Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo politiką, vadintą „lenkų pradų naikinimo“ politika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +62,7 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
     - c-73306
 
 <a id="claim-t-75570"></a>
-- t-003
-  global_id: t-75570
+- t-002
   teiginys: "Po sukilimo buvusiose LDK žemėse caro valdžia ėmėsi politikos, vadintos „lenkų pradų naikinimo“ politika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,6 +105,6 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75568
-    - t-75569
-    - t-75570
+    - t-001
+    - t-003
+    - t-002

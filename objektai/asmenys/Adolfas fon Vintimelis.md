@@ -31,7 +31,6 @@ Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prie
 
 <a id="claim-t-186172"></a>
 - t-001
-  global_id: t-186172
   teiginys: "Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -74,6 +73,7 @@ Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186172
+    - t-001
+
 ## Ryšiai
 - Adolfas fon Vintimelis (didikas) keliavo į [[objektai/vietos/Prūsija]]

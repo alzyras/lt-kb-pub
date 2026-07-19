@@ -35,8 +35,7 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
 ## Teiginiai
 
 <a id="claim-t-69731"></a>
-- t-001
-  global_id: t-69731
+- t-002
   teiginys: "Po Aleksandro Jakovlevo apsilankymo Lietuvoje valdžia pirmą kartą leido Vingio parke viešai paminėti Molotovo–Ribentropo paktą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,7 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
     - c-68982
 
 <a id="claim-t-183642"></a>
-- t-002
-  global_id: t-183642
+- t-003
   teiginys: "1988 m. liepos 9 d. Vingio parke vykusiame LPS mitinge dalyvavo apie 100 tūkst. žmonių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -90,15 +88,15 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
     aliai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio
     parke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę
     leisti laikraštį ir nuolatinę televizijos laidą.
-  citata_rodoma: |
-    dras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, –
+  citata_rodoma: "dras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, –"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69731
+    - t-002
+
 - id: c-167034
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -115,4 +113,4 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183642
+    - t-003

@@ -43,10 +43,9 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
 ## Teiginiai
 
 <a id="claim-t-192176"></a>
-- t-001
-  global_id: t-192176
+- t-003
   teiginys: "Narbutas nurodė: Lotyniškoje pastaboje 600 romėniškų mylių nurodomos kaip atstumas nuo Karnunto Panonijoje iki Germanijos pakrantės."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Panonija: 0.85"
@@ -60,10 +59,9 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175050
-    - c-001
+
 <a id="claim-t-192177"></a>
-- t-002
-  global_id: t-192177
+- t-001
   teiginys: "Teodoras Narbutas kelio ilgį pagal Plinijų nusako kaip 600 romėnų miliarijų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -81,8 +79,7 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
     - c-175051
 
 <a id="claim-t-192178"></a>
-- t-003
-  global_id: t-192178
+- t-002
   teiginys: "Teodoras Narbutas 600 romėnų miliarijų prilygina 120—125 vokiečių mylioms ir sieja su Ptolemėjo nurodytu nuotoliu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -101,7 +98,6 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
 
 <a id="claim-t-192574"></a>
 - t-004
-  global_id: t-192574
   teiginys: "Teodoras Narbutas rašo, kad kelio ilgis sutampa su Plinijaus skaičiavimu — 600 romėnų miliarijų, arba 120—125 vokiečių mylių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -122,9 +118,8 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
 
 <a id="claim-t-192575"></a>
 - t-005
-  global_id: t-192575
   teiginys: "Pastaboje Germanijos pakrantė apibūdinama kaip maždaug 600 romėniškų mylių nutolusi nuo Karnunto Panonijoje."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -140,7 +135,7 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175050
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -157,9 +152,8 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192176
-    - t-192575
+- t-192575
+
 ## Citatos
 
 - id: c-175050
@@ -177,22 +171,16 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
     žemėje, kuri neturėjo jokio nuolatinio pavadinimo, nes ją
     vadino tai Sargatia arba Sargaga, tai Getida arba Vatinla
     ir dar kitaip.
-  citata_rodoma: |
-    D C fere M. passum, a Carnunto Pannoniae
-    abest littus Germaniae, ex quo invehitur (succinum) per cognitum
-    nuper. (Maždaug 600 romėniškų mylių nuo Karnunto Panonijoje yra
-    nutolusi Germanuos pakrantė, iš kur gabenamas (gintaras) per ką
-    tik
-    minėtą
-    [miestą].)
+  citata_rodoma: "D C fere M. passum, a Carnunto Pannoniae\nabest littus Germaniae, ex quo invehitur (succinum) per cognitum\nnuper. (Maždaug 600 romėniškų mylių nuo Karnunto Panonijoje yra\nnutolusi Germanuos pakrantė, iš kur gabenamas (gintaras) per ką\ntik\nminėtą\n[miestą].)"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192176
-    - t-192575
+    - t-003
+    - t-005
+
 - id: c-175051
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -203,16 +191,13 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
     Plinijaus skaičiavimais1 — 600 romėnų miliarijų, o tai
     lygu 120—125 vokiečių mylioms. Tokį pat nuotolį nuo Vys­
     los žiočių į Panoniją suskaičiuoja ir Ptolemėjas.
-  citata_rodoma: |
-    Kelio ilgis sutampa su Plinijaus skaičiavimais1 — 600 romėnų miliarijų, o tai
-    lygu 120—125 vokiečių mylioms. Tokį pat nuotolį nuo Vys­
-    los žiočių į Panoniją suskaičiuoja ir Ptolemėjas.
+  citata_rodoma: "Kelio ilgis sutampa su Plinijaus skaičiavimais1 — 600 romėnų miliarijų, o tai\nlygu 120—125 vokiečių mylioms. Tokį pat nuotolį nuo Vys­\nlos žiočių į Panoniją suskaičiuoja ir Ptolemėjas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192177
-    - t-192178
-    - t-192574
+    - t-001
+    - t-002
+    - t-004

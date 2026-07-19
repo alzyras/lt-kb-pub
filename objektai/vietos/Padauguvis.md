@@ -53,8 +53,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
 ## Teiginiai
 
 <a id="claim-t-73355"></a>
-- t-001
-  global_id: t-73355
+- t-006
   teiginys: "Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     - c-46658
 
 <a id="claim-t-73356"></a>
-- t-002
-  global_id: t-73356
+- t-007
   teiginys: "Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     - c-46659
 
 <a id="claim-t-201093"></a>
-- t-003
-  global_id: t-201093
+- t-008
   teiginys: "Visų pirma susibi čiuliavo su gyventojais salos Gotlando, kurioje 500 kareivių sutelkęs ir kryžių paženklinęs, išleido į Padaugavį."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -104,8 +101,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     - c-184443
 
 <a id="claim-t-201094"></a>
-- t-004
-  global_id: t-201094
+- t-009
   teiginys: "Ne vien Paysly, bet ir Padaugavy vyko vokyčiams lietuvius kariauti ir vergti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -117,8 +113,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     - c-184444
 
 <a id="claim-t-201095"></a>
-- t-005
-  global_id: t-201095
+- t-010
   teiginys: "Padaugavy naujasis mistras kalavijonų tuo pa čiu laiku, stiprindamos pagal savo būdą, naujas pi lis Trikotę, Burtinikę, Rožytę ir Heiligenburgą įkū rė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -130,8 +125,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     - c-184445
 
 <a id="claim-t-201096"></a>
-- t-006
-  global_id: t-201096
+- t-011
   teiginys: "Užkariavę kryžėjai Parusnį ir Padaugavį ne vien tikybos nemokė, bet dar užgynė tokius darbus kne binėti, nuo kurių žmogus gal kokį tokį akylumą įgyti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -166,18 +160,15 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo
     lankytis vokiečių pirkliai. Jie prekiavo su lybiais ir aisčiais arba
     čia tik sustodavo, vykdami prekiauti į rusų kraštus.
-  citata_rodoma: |
-    ,
-    kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo
-    lankytis vokiečių pirkliai. Jie prekiavo su lybiais ir aisčiais arba
-    čia tik sustodavo, vykdami prekiauti į rusų kraštus.
+  citata_rodoma: ",\nkai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo\nlankytis vokiečių pirkliai. Jie prekiavo su lybiais ir aisčiais arba\nčia tik sustodavo, vykdami prekiauti į rusų kraštus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-73355
+    - t-006
+
 - id: c-46659
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -191,21 +182,19 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     jų sodybas ir bažnyčias sudegindavo. Todėl trečiasis Livonijos
     vyskupas, Albertas (1199—1229 m.), ėmė organizuoti gin-
     kluotą savo tikinčiųjų apsaugą.
-  citata_rodoma: |
-    Bet pirmoji krikščionių bendruomenė Padauguvy buvo silpna,
-    ir pagonys labai dažnai ją išnaikindavo, gyventojus išžudydavo,
-    jų sodybas ir bažnyčias sudegindavo. Todėl trečiasis Livonijos
-    vyskupas, Albertas (1199—1229 m.
+  citata_rodoma: "Bet pirmoji krikščionių bendruomenė Padauguvy buvo silpna,\nir pagonys labai dažnai ją išnaikindavo, gyventojus išžudydavo,\njų sodybas ir bažnyčias sudegindavo. Todėl trečiasis Livonijos\nvyskupas, Albertas (1199—1229 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-73356
+    - t-007
+
 - id: c-184443
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mokėjo dar pasigerinti
     diduomenei, kunigaikščiams ir viešpačiams, kurie
@@ -221,10 +210,12 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201093
+    - t-008
+
 - id: c-184444
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ir taip noris vokyčiai pakajų tarės įkūrę, vienok
     rusėjo širdy užslėpta karė, ir pats paviršius, ne šir­
@@ -241,10 +232,12 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201094
+    - t-009
+
 - id: c-184445
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Padaugavy naujasis mistras kalavijonų tuo pa­
     čiu laiku, stiprindamos pagal savo būdą, naujas pi­
@@ -261,10 +254,12 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201095
+    - t-010
+
 - id: c-184446
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nemintąs Erikas, viešpats danų, re­
     gėdamas tokias neteisybes, vokyčių daromas per­
@@ -286,6 +281,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201096
+    - t-011
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Vokiečiai]]

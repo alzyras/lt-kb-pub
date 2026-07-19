@@ -28,7 +28,6 @@ Basanavičius Bartoszewiczių ir Rogalskį kaltino šalininkiškumu vertinant li
 
 <a id="claim-t-200913"></a>
 - t-001
-  global_id: t-200913
   teiginys: "Basanavičius Bartoszewiczių ir Rogalskį kaltino šalininkiškumu vertinant lietuvišką literatūrą."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Basanavičius Bartoszewiczių ir Rogalskį kaltino šalininkiškumu vertinant li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200913
+    - t-001

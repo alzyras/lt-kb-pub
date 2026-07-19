@@ -30,7 +30,6 @@ Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių praneš
 
 <a id="claim-t-64598"></a>
 - t-001
-  global_id: t-64598
   teiginys: "H. Koeppenas su K. Forstreuteriu leido svarbius Vokiečių ordino generalinių prokuratorių pranešimus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių praneš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64598
+    - t-001

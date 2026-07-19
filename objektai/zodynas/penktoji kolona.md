@@ -32,7 +32,6 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 
 <a id="claim-t-22241"></a>
 - t-001
-  global_id: t-22241
   teiginys: "Prosovietinė organizacija „Jedinstvo“ veikė kaip sovietų penktoji kolona Lietuvoje ir priešinosi nepriklausomybės atkūrimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 
 <a id="claim-t-183450"></a>
 - t-002
-  global_id: t-183450
   teiginys: "„Jedinstvo“ veikė kaip sovietų penktoji kolona Lietuvoje, Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -82,15 +80,15 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,
     Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūri-
     mui, rimtesnės įtakos neturėjo.
-  citata_rodoma: |
-    organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,
+  citata_rodoma: "organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22241
+    - t-001
+
 - id: c-166845
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -109,4 +107,4 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183450
+    - t-002

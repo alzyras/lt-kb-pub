@@ -5,12 +5,16 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos: []
 date_start: ''
 date_end: ''
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,8 +22,6 @@ tags:
   - kunigaikštis
   - karalius
   - kunigas
-amziai:
-  - 'XVI'
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -38,13 +40,12 @@ media_all_json: |-
 
 ## Santrauka
 
-Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją (rankraštis vėliau dingo).
+Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį. Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas.
 
 ## Teiginiai
 
 <a id="claim-t-182749"></a>
-- t-001
-  global_id: t-182749
+- t-062
   teiginys: "Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +61,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-166162
 
 <a id="claim-t-183581"></a>
-- t-002
-  global_id: t-183581
+- t-063
   teiginys: "Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -81,8 +81,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-166974
 
 <a id="claim-t-183582"></a>
-- t-003
-  global_id: t-183582
+- t-064
   teiginys: "Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -101,8 +100,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-166975
 
 <a id="claim-t-183845"></a>
-- t-004
-  global_id: t-183845
+- t-065
   teiginys: "1555 m. Žygimantas Augustas patvirtino Radvilos dovanojimą gydytojui Cimermanui."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -124,8 +122,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-167230
 
 <a id="claim-t-183846"></a>
-- t-005
-  global_id: t-183846
+- t-066
   teiginys: "1546 m. Žygimanto Augusto laikais būsimos vaistinės vietoje stovėjo medinis namas su dideliu sklypu."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -147,8 +144,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-167231
 
 <a id="claim-t-183847"></a>
-- t-006
-  global_id: t-183847
+- t-067
   teiginys: "Kotryna Jogailaitė, Žygimanto Augusto sesuo, Vilniuje susituokė su Suomijos kunigaikščiu Jonu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -167,8 +163,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-167232
 
 <a id="claim-t-183848"></a>
-- t-007
-  global_id: t-183848
+- t-068
   teiginys: "Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -188,8 +183,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-167233
 
 <a id="claim-t-183849"></a>
-- t-008
-  global_id: t-183849
+- t-069
   teiginys: "1547 m. Žygimantas Augustas paskelbė potvarkį dėl supirkinėtojų, už miesto branginusių iš kaimų atvežamus produktus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -211,8 +205,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-167234
 
 <a id="claim-t-183850"></a>
-- t-009
-  global_id: t-183850
+- t-070
   teiginys: "Žygimantas Augustas po kelerių metų patvirtino Paleckiui suteiktą stiklo gamybos privilegiją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -231,8 +224,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-167235
 
 <a id="claim-t-183851"></a>
-- t-010
-  global_id: t-183851
+- t-071
   teiginys: "Žygimantas Augustas nemažomis lėšomis pastatydino Šv. Barboros bažnyčią žmonos Barboros Radvilaitės atminimui."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -251,8 +243,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-167236
 
 <a id="claim-t-183852"></a>
-- t-011
-  global_id: t-183852
+- t-072
   teiginys: "1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -274,8 +265,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-167237
 
 <a id="claim-t-183853"></a>
-- t-012
-  global_id: t-183853
+- t-073
   teiginys: "1564 m. liepos 7 d. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Statuto galios."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -297,8 +287,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-167238
 
 <a id="claim-t-183854"></a>
-- t-013
-  global_id: t-183854
+- t-074
   teiginys: "Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -318,10 +307,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-167239
 
 <a id="claim-t-184910"></a>
-- t-014
-  global_id: t-184910
+- t-075
   teiginys: "1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -339,10 +327,10 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   temporalinis_llm_pakomentavimas: "Citata pagrindžia santuoką, datą ir Elžbietos kilmę."
   pagrindžia:
     - c-168271
+    - c-168272
 
 <a id="claim-t-184911"></a>
-- t-015
-  global_id: t-184911
+- t-076
   teiginys: "Karalius Augustas, gindamas arkivyskupą Vilhelmą, išsiuntė pas magistrą kilmingą bajorą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -355,8 +343,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-168272
 
 <a id="claim-t-188657"></a>
-- t-016
-  global_id: t-188657
+- t-018
   teiginys: "Narbutas Žygimantą Augustą vadino paskutiniu savarankišku Lietuvos valdovu ir paskutiniu vyriškuoju Jogailos palikuoniu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -375,8 +362,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-171546
 
 <a id="claim-t-188658"></a>
-- t-017
-  global_id: t-188658
+- t-019
   teiginys: "Valdant Žygimantui Augustui Veliuonos klebonas Ragauskas priėmė Socino tikėjimą, o vietos bažnyčia ilgai priklausė evangelikams reformatams."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -395,10 +381,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-171547
 
 <a id="claim-t-194728"></a>
-- t-018
-  global_id: t-194728
+- t-079
   teiginys: "1185) pasakoja, kad tik valdant Žygimantui Augustui karališkoji kanceliarija nustojo ma žesnes rusų cerkves vadinti sinagogomis."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -406,11 +391,10 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171546
+    - c-171547
 
 <a id="claim-t-196668"></a>
-- t-019
-  global_id: t-196668
+- t-080
   teiginys: "Kadangi švedų valdovas atsisakė siūlomos sąjungos, būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud ros, Augustas laiškais stengėsi sutaikyti švedus bei maskvėnus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -423,8 +407,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-178828
 
 <a id="claim-t-197460"></a>
-- t-020
-  global_id: t-197460
+- t-083
   teiginys: "Žygimantas Augustas buvusi 4 uolekčių ilgio, 3 uolekčių pločio."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -436,8 +419,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-177124
 
 <a id="claim-t-200770"></a>
-- t-021
-  global_id: t-200770
+- t-084
   teiginys: "Mikalojus Vorobjovas rašė, kad italų menininkai Vilniuje dirbo pakviesti Žygimanto Augusto, kuris, sakoma, buvo Šv. Onos fundatorius."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -455,6 +437,43 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184115
+
+<a id="claim-t-201565"></a>
+- t-085
+  teiginys: "1547 m. Žygimantas Augustas pakartojo tėvo nurodymus."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184912
+
+<a id="claim-t-201566"></a>
+- t-086
+  teiginys: "1560 m. Žygimantas Augustas, reaguodamas į vilniečių skundą, esą jiems trukdoma Kaune prekiauti, iš jų imamas vadinamasis atvykimo mokestis (Jl8Ka, mokestis, kurį turėjo sumokėti į miestą su prekėmis atvykęs pirklys) kaip iš maskvėnų, nurodė kauniečiams."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184913
+
+<a id="claim-t-202316"></a>
+- t-087
+  teiginys: "Žygimanto Augusto laikais dalis mokesčių iždui buvo mokama bebrų, kiaunių ir lapių kailiais, o valstybinių žemių nuomininkai atsiskaitydavo lino audiniais."
+  atnaujinta: "2026-07-19 11:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Marija Matušakaitė"
+  vertinimo_atnaujinta: "2026-07-19T08:47:37Z"
+  pagrindžia:
+    - c-185663
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54953|Barbora Radvilaitė]]: Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos Barboros Radvilaitės atminimui.
 - susijęs iš Karalių koplyčia Vilniuje: 1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54948|Barbora Radvilaitė]]: Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.
@@ -531,27 +550,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 - susijęs iš [[objektai/zodynas/sufraganas kleras arkipresbiteris.md#claim-t-86551|sufraganas kleras arkipresbiteris]]: Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.
 - susijęs iš Malburgas: 1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.
 - susijęs iš [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai.md#claim-t-87130|Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]: Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.
-## Reikšmingi paminėjimai
-- c-020
-  santrauka: 'Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Visi vieningai nutarė, kad karalius, paėmęs Livoniją į
-    savo globą, sudarytų savo nuožiūra su šiuo kraštu to­
-    kį susitarimą, koks, jo galva, naudingiausias valstybei.
-    Be to, išskyrė pinigų dvejų metų karo išlaidoms pa­
-    dengti. Seimo darbe dalyvavo ir ordino magistras Ket-
-    leris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus
-    kunigaikščio Mikalojaus Radvilos paraginti, nusprendė,
-    kad Livonija sudaranti su Lietuva sąjungą ir pereinanti
-    į Žygimanto Augusto, Lietuvos didžiojo kunigaikš­
-    čio, globą šitokiomis sąlygomis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-
 ## Citatos
 
 - id: c-166162
@@ -572,7 +570,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182749
+    - t-062
+
 - id: c-166974
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -589,7 +588,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183581
+    - t-063
+
 - id: c-166975
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -607,7 +607,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183582
+    - t-064
+
 - id: c-167230
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -624,7 +625,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183845
+    - t-065
+
 - id: c-167231
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -645,7 +647,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183846
+    - t-066
+
 - id: c-167232
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -664,7 +667,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183847
+    - t-067
+
 - id: c-167233
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -688,7 +692,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183848
+    - t-068
+
 - id: c-167234
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -711,7 +716,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183849
+    - t-069
+
 - id: c-167235
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -737,7 +743,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183850
+    - t-070
+
 - id: c-167236
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -762,7 +769,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183851
+    - t-071
+
 - id: c-167237
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -785,7 +793,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183852
+    - t-072
+
 - id: c-167238
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -812,7 +821,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183853
+    - t-073
+
 - id: c-167239
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -831,7 +841,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183854
+    - t-074
+
 - id: c-168271
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -857,30 +868,15 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     lavimus, maskvėnams pažadėta, kad neilgai trukus prie
     Sebežo atvyks karaliaus taikytojai; ištyrę vietoje rei­
     kalą, jie ir atsilygins tiems, kurie neteko žemių.
-  citata_rodoma: |
-    1543 m e ta i
-    Ž y g im a n ta s
-    A u g u s­
-    ta s v e d a  a u strų  k u ­
-    n ig a ik š ty tę  E lžb ietą
-    Sugrįžęs į Lenkiją, kara­
-    lius suskato apvesdinti sūnų
-    Augustą. Nutarta susigimi­
-    niuoti su Austrijos valdovų
-    šeima ir paprašyti Augustui
-    Romos karaliaus Ferdinando
-    dukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­
-    torius Karolis V didžiai pritarė šiai santuokai, įsitikinę,
-    kad ji dar labiau sustiprins santarvę ir gerus santy­
-    kius, kuriems padėta pamatai anksčiau, susigiminiuo­
-    jant su Vladislovu bei Liudviku.
+  citata_rodoma: "1543 m e ta i\nŽ y g im a n ta s\nA u g u s­\nta s v e d a  a u strų  k u ­\nn ig a ik š ty tę  E lžb ietą\nSugrįžęs į Lenkiją, kara­\nlius suskato apvesdinti sūnų\nAugustą. Nutarta susigimi­\nniuoti su Austrijos valdovų\nšeima ir paprašyti Augustui\nRomos karaliaus Ferdinando\ndukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­\ntorius Karolis V didžiai pritarė šiai santuokai, įsitikinę,\nkad ji dar labiau sustiprins santarvę ir gerus santy­\nkius, kuriems padėta pamatai anksčiau, susigiminiuo­\njant su Vladislovu bei Liudviku."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184910
+    - t-075
+
 - id: c-168272
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -902,7 +898,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184911
+    - t-075
+    - t-076
+
 - id: c-171546
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -920,8 +918,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188657
-    - t-194728
+    - t-018
+
 - id: c-171547
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -941,7 +939,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188658
+    - t-019
+    - t-079
+
 - id: c-177124
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -963,7 +963,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197460
+    - t-083
+
 - id: c-178828
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -993,7 +994,29 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196668
+    - t-080
+
+- id: c-178829
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Visi vieningai nutarė, kad karalius, paėmęs Livoniją į
+    savo globą, sudarytų savo nuožiūra su šiuo kraštu to­
+    kį susitarimą, koks, jo galva, naudingiausias valstybei.
+    Be to, išskyrė pinigų dvejų metų karo išlaidoms pa­
+    dengti. Seimo darbe dalyvavo ir ordino magistras Ket-
+    leris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus
+    kunigaikščio Mikalojaus Radvilos paraginti, nusprendė,
+    kad Livonija sudaranti su Lietuva sąjungą ir pereinanti
+    į Žygimanto Augusto, Lietuvos didžiojo kunigaikš­
+    čio, globą šitokiomis sąlygomis.
+  statusas: verified
+  atnaujinta: "2026-07-13 01:17"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-184115
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -1011,7 +1034,51 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200770
+    - t-084
+
+- id: c-184912
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Valdovui tekę neseniai spręsti kauniečių ginčus su Dancigo ir
+    Karaliaučiaus pirkliais ir jis įsakęs neleisti svetimšaliams pirkliams prekiauti krašte.
+    1547 m. Žygimantas Augustas pakartojo tėvo nurodymus.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-085
+
+- id: c-184913
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    1560 m. Žygimantas Augustas, reaguodamas į vilniečių skundą, esą jiems trukdo-
+    ma Kaune prekiauti, iš jų imamas vadinamasis atvykimo mokestis (Jl8Ka, mokestis,
+    kurį turėjo sumokėti į miestą su prekėmis atvykęs pirklys) kaip iš maskvėnų, nurodė
+    kauniečiams laikytis 1536 m. Žygimanto Senojo sprendimo.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-086
+
+- id: c-185663
+  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
+  puslapiai: "p. 59 (PDF 2)"
+  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 59 (PDF 2)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-19 11:47"
+  pagrindzia:
+    - t-087
+
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Barbora Radvilaitė]]
 - Žygimantas Augustas (arkivyskupas, XVI a.) keliavo į [[objektai/vietos/Vilnius]]

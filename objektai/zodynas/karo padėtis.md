@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-42464"></a>
 - t-001
-  global_id: t-42464
   teiginys: "1919 m. spalio 9 d. Lietuvos vyriausybė paskelbė visoje šalyje karo padėtį, spalio 16 d. buvo priimtas sprendimas jėga išvaryti bermontininkus iš Lietuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,16 +75,11 @@ media_all_json: |-
     santykius su Vokietija, nes didelę dalį
     Bermonto pajėgų sudarė vokiečių sa-
     vanoriai.
-  citata_rodoma: |
-    1919 m. spalio 9 d.
-    Lietuvos vyriausybė paskelbė visoje
-    šalyje karo padėtį, spalio 16 d. buvo pri-
-    imtas sprendimas jėga išvaryti bermon-
-    tininkus iš Lietuvos.
+  citata_rodoma: "1919 m. spalio 9 d.\nLietuvos vyriausybė paskelbė visoje\nšalyje karo padėtį, spalio 16 d. buvo pri-\nimtas sprendimas jėga išvaryti bermon-\ntininkus iš Lietuvos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42464
+    - t-001

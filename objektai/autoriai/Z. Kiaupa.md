@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187794"></a>
-- t-001
-  global_id: t-187794
+- t-002
   teiginys: "Z. Kiaupa buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -74,7 +73,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170736
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -101,8 +100,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187794
+
 ## Citatos
 
 - id: c-170736
@@ -122,14 +120,11 @@ Nenurodyta
     Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
     lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
     tūrinio paveldo arealas.
-  citata_rodoma: |
-    R edaktorių kolegija:
-    E. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,
-    A. TYLA] N. VĖLIUS,! V. VISOCKAS
+  citata_rodoma: "R edaktorių kolegija:\nE. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,\nA. TYLA] N. VĖLIUS,! V. VISOCKAS"
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187794
+    - t-002

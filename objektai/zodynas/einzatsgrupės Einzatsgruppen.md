@@ -38,7 +38,6 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 
 <a id="claim-t-22130"></a>
 - t-001
-  global_id: t-22130
   teiginys: "Pirmą nacių okupacijos savaitę SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 
 <a id="claim-t-22131"></a>
 - t-002
-  global_id: t-22131
   teiginys: "Einzatsgrupės terorą organizavo taip, kad pirmieji pogromai ir „apsivalymo“ akcijos atrodytų vykdomi vietinių gyventojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 
 <a id="claim-t-183419"></a>
 - t-003
-  global_id: t-183419
   teiginys: "Pirmą nacių okupacijos savaitę atvykusios SD Einzatsgruppen pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -117,15 +114,15 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
     ventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir
     keli tūkstančiai jų sunaikinti per vadinamąsias „valymo operacijas“, ku-
     rias pradėjo atvykusios SD Einzatsgruppen – operatyviniai būriai.
-  citata_rodoma: |
-    ventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir
+  citata_rodoma: "ventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22130
+    - t-001
+
 - id: c-24817
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -142,15 +139,15 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
     inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
     27 – Kauno „Lietūkio“ garaže, nors SD einzatsgrupių vadų raportuose
     sakoma, kad surengti pogromus buvo nelengva.
-  citata_rodoma: |
-    inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
+  citata_rodoma: "inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22131
+    - t-002
+
 - id: c-166813
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -174,4 +171,4 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183419
+    - t-003

@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189784"></a>
 - t-001
-  global_id: t-189784
   teiginys: "Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis išsivežė vaidilutę Birutę į Naujuosius Trakus ir ten ją vedė."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-189785"></a>
 - t-002
-  global_id: t-189785
   teiginys: "Narbutas rašo, kad kiekvienas žynys ar vaidilutė privalėjo likti viengungiai, laikytis skaistybės ir būti nepapeikiamų papročių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -89,9 +87,8 @@ Nenurodyta
 
 <a id="claim-t-194636"></a>
 - t-005
-  global_id: t-194636
   teiginys: "Apskritai visa, kas religijos dalykuose tiesiogiai susiję su moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie josi su gražiąja lytimi, buvo vaidilučių sritis."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -100,10 +97,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177034
-    - c-005
+
 <a id="claim-t-197267"></a>
-- t-004
-  global_id: t-197267
+- t-006
   teiginys: "Mirusi buvo palaidota po Amžinosios ugnies aukuro griuvėsiais30."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -136,10 +132,9 @@ Nenurodyta
     su katinu, šunimi bei nuodinga gyvate.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-004
   santrauka: 'Žmonės ją vadina skaisčiausiąja mergele, ugnies saugotoja, gyvybės davėja.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -160,10 +155,9 @@ Nenurodyta
     praradusias šalies įstatymai baudžia žiauria mirtimi“.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-005
   santrauka: 'Apskritai visa, kas religijos dalykuose tiesiogiai susiję su moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie josi su gražiąja lytimi, buvo vaidilučių sritis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -177,11 +171,10 @@ Nenurodyta
     josi su gražiąja lytimi, buvo vaidilučių sritis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194636
+  statusas: verified
+
 ## Citatos
 
 - id: c-172667
@@ -205,8 +198,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189784
-    - t-197267
+    - t-001
+    - t-006
+
 - id: c-172668
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -227,7 +221,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189785
+    - t-002
+
 - id: c-177034
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -242,18 +237,11 @@ Nenurodyta
     dinimas yra Lasickio mitologijoje.
     Anksčiau, straipsnyje „Deivės“, matėme savitą moterų die­
     vybę, arba hamadriadę, vadintą ragana.
-  citata_rodoma: |
-    Jas rink­
-    davo iš garsėjančių grožiu aukštos kilmės merginų, jos gyven­
-    davo prie didžiųjų šventyklų ir deivės Praurimės žymiausių au­
-    kurų. Buvo ypatingos aukos, kurias atnašauti privalėjo vaidi­
-    lutės. Apskritai visa, kas religijos dalykuose tiesiogiai susiję su
-    moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie­
-    josi su gražiąja lytimi, buvo vaidilučių sritis.
+  citata_rodoma: "Jas rink­\ndavo iš garsėjančių grožiu aukštos kilmės merginų, jos gyven­\ndavo prie didžiųjų šventyklų ir deivės Praurimės žymiausių au­\nkurų. Buvo ypatingos aukos, kurias atnašauti privalėjo vaidi­\nlutės. Apskritai visa, kas religijos dalykuose tiesiogiai susiję su\nmoterimis arba kas iš pasakojimų, pranašavimų ir maldų sie­\njosi su gražiąja lytimi, buvo vaidilučių sritis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194636
+    - t-005

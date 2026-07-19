@@ -40,10 +40,9 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 ## Teiginiai
 
 <a id="claim-t-68718"></a>
-- t-001
-  global_id: t-68718
+- t-005
   teiginys: "Maišto vadui pavyko užimti tik Mozyrių ir Turovą, o Sluckas ir Minskas jam nepasidavė."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Minskas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -58,12 +57,12 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-68225
+    - c-182415
 
 <a id="claim-t-68719"></a>
-- t-002
-  global_id: t-68719
+- t-006
   teiginys: "Maišto vadui pavyko užimti Mozyrių ir Turovą, bet Sluckas ir Minskas jam nepasidavė."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Minskas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -77,10 +76,10 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-68225
+    - c-182415
 
 <a id="claim-t-185052"></a>
-- t-003
-  global_id: t-185052
+- t-004
   teiginys: "Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -104,8 +103,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     - c-168413
 
 <a id="claim-t-199615"></a>
-- t-004
-  global_id: t-199615
+- t-001
   teiginys: "Ties Lojevu žygio dalyviai persikėlė į dešinįjį Dniepro krantą ir pasuko vakarų kryptimi Mozyriaus bei Slucko link."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -116,8 +114,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     - c-182414
 
 <a id="claim-t-199617"></a>
-- t-005
-  global_id: t-199617
+- t-002
   teiginys: "Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -196,18 +193,16 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     (1505—1535 m.). Tačiau jis kiek apsivylė: Maskvos pasienio
     sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
     zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
-  citata_rodoma: |
-    Maskvos pasienio
-    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
-    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
+  citata_rodoma: "Maskvos pasienio\nsritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-\nzyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68718
-    - t-68719
+    - t-005
+    - t-006
+
 - id: c-168413
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -238,7 +233,8 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185052
+    - t-004
+
 - id: c-182412
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -263,7 +259,8 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199617
+    - t-002
+
 - id: c-182414
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -277,19 +274,15 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     spartinę žygio tempą pasileido tiesiai va-
     karų kryptimi Mozyriaus ir Slucko link.
     Galiausiai apie liepos 20-22 d. jie sustojo.
-  citata_rodoma: |
-    Ties Lojevu jie
-    persikėlė į dešinįjį Dniepro krantą ir pa-
-    spartinę žygio tempą pasileido tiesiai va-
-    karų kryptimi Mozyriaus ir Slucko link.
-    Galiausiai apie liepos 20-22 d.
+  citata_rodoma: "Ties Lojevu jie\npersikėlė į dešinįjį Dniepro krantą ir pa-\nspartinę žygio tempą pasileido tiesiai va-\nkarų kryptimi Mozyriaus ir Slucko link.\nGaliausiai apie liepos 20-22 d."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199615
+    - t-001
+
 - id: c-182415
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -306,15 +299,15 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     (1505—1535 m.). Tačiau jis kiek apsivylė: Maskvos pasienio
     sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
     zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
-  citata_rodoma: |
-    Maskvos pasienio
-    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
-    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
+  citata_rodoma: "Maskvos pasienio\nsritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-\nzyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+    - t-006
 
 ## Ryšiai
 - Užėmė Mozyrių: [[objektai/asmenys/Skirmantas]]

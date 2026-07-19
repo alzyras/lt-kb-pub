@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-96027"></a>
-- t-001
-  global_id: t-96027
+- t-002
   teiginys: "Machmetas pasiuntė savo sūnų auklėtis į Vytauto Didžiojo dvarą ir rėmė Vytauto žygius į Pskovą bei Naugardą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ media_all_json: |-
     - c-90781
 
 <a id="claim-t-96028"></a>
-- t-002
-  global_id: t-96028
+- t-004
   teiginys: "1424 m. Didysis Machmetas Vytauto pagalba atsisėdo į Kipčako sostą ir išsilaikė iki 1437 ar 1438 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ media_all_json: |-
     - c-90779
 
 <a id="claim-t-96029"></a>
-- t-003
-  global_id: t-96029
+- t-001
   teiginys: "1424 m. Aukso Ordos chanu tapo Vytauto palaikomas Machmetas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,20 +123,15 @@ media_all_json: |-
     sibaigė 1424 met., kai Kipčako sostan Vytauto pagalba atsisėdo
     Didysis Machmetas, kuris išsilaikė net iki 1437 ar 1438 metų,
     nors Timur Kotlogo ainiai jį pašalinti visaip dar vis stengėsi.
-  citata_rodoma: |
-    iš Konstantinopolio jis rašė Vytautui at­
-    gailaudamas, kad „prie nesantaikos su kunigaikščiu jį prikal­
-    bėję tik blogi žmonės“^5 ). Pagaliau valdovų kaitaliojimasis pa­
-    sibaigė 1424 met., kai Kipčako sostan Vytauto pagalba atsisėdo
-    Didysis Machmetas, kuris išsilaikė net iki 1437 ar 1438 metų,
-    nors Timur Kotlogo ainiai jį pašalinti visaip dar vis stengėsi.
+  citata_rodoma: "iš Konstantinopolio jis rašė Vytautui at­\ngailaudamas, kad „prie nesantaikos su kunigaikščiu jį prikal­\nbėję tik blogi žmonės“^5 ). Pagaliau valdovų kaitaliojimasis pa­\nsibaigė 1424 met., kai Kipčako sostan Vytauto pagalba atsisėdo\nDidysis Machmetas, kuris išsilaikė net iki 1437 ar 1438 metų,\nnors Timur Kotlogo ainiai jį pašalinti visaip dar vis stengėsi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96028
+    - t-004
+
 - id: c-90781
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -155,23 +147,15 @@ media_all_json: |-
     gaikščiui davė paramos jo žygiams į Pskovą bei Naugardą, ir
     per savo pasiuntinius teikė jam dovanų Smolenske ir Lucko su­
     važiavime1 2).
-  citata_rodoma: |
-    Vytauto pa­
-    siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie,
-    vedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­
-    jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu
-    tapo Vytauto palaikomas Machmetas. Jis savo sūnų pasiuntė
-    auklėtis į Vytauto Didžiojo dvarą, o pačiam didžiajam kuni­
-    gaikščiui davė paramos jo žygiams į Pskovą bei Naugardą, ir
-    per savo pasiuntinius teikė jam dovanų Smolenske ir Lucko su­
-    važiavime1 2).
+  citata_rodoma: "Vytauto pa­\nsiųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie,\nvedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­\njevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu\ntapo Vytauto palaikomas Machmetas. Jis savo sūnų pasiuntė\nauklėtis į Vytauto Didžiojo dvarą, o pačiam didžiajam kuni­\ngaikščiui davė paramos jo žygiams į Pskovą bei Naugardą, ir\nper savo pasiuntinius teikė jam dovanų Smolenske ir Lucko su­\nvažiavime1 2)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96027
+    - t-002
+
 - id: c-90782
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -185,19 +169,14 @@ media_all_json: |-
     vedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­
     jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu
     tapo Vytauto palaikomas Machmetas.
-  citata_rodoma: |
-    kovą ir galėjo drąsiai atsidėti Rytų politikai, tai Vytauto įsi­
-    galėjimas pas totorius buvo užtikrintas. 1424 m. Vytauto pa­
-    siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie,
-    vedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­
-    jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu
-    tapo Vytauto palaikomas Machmetas.
+  citata_rodoma: "kovą ir galėjo drąsiai atsidėti Rytų politikai, tai Vytauto įsi­\ngalėjimas pas totorius buvo užtikrintas. 1424 m. Vytauto pa­\nsiųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie,\nvedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­\njevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu\ntapo Vytauto palaikomas Machmetas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96029
+    - t-001
+
 ## Ryšiai
 - Rėmė Machmetą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

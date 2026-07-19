@@ -45,9 +45,8 @@ Nenurodyta
 
 <a id="claim-t-189740"></a>
 - t-001
-  global_id: t-189740
   teiginys: "Narbutas Potalą aiškina kaip mirties patalą, mirusiųjų neštuvus arba katafalką ir spėja, kad šis dievas globojo mirusiųjų deginimo laužus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -63,7 +62,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172623
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Potalą aiškina kaip mirties patalą, mirusiųjų neštuvus arba katafalką ir spėja, kad šis dievas globojo mirusiųjų deginimo laužus.'
@@ -79,8 +78,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189740
+
 ## Citatos
 
 - id: c-172623
@@ -97,16 +95,11 @@ Nenurodyta
     giau ar mažiau paslaptingą dievų Kabirų ritualą.
     Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
     kiančio galią.
-  citata_rodoma: |
-    Lasickis jį žino kaip Algį (Algis).
-    Lietuvių kalboje Potalas reiškia mirties patalą, neštuvus,
-    ant kurių neša mirusiuosius, katafalką, antikinį Bustum. Tik­
-    riausiai šio dievo globojami buvo laužai, ant kurių degindavo
-    numirėlius, o jų vėles dievas pernešdavo į amžiną buveinę.
+  citata_rodoma: "Lasickis jį žino kaip Algį (Algis).\nLietuvių kalboje Potalas reiškia mirties patalą, neštuvus,\nant kurių neša mirusiuosius, katafalką, antikinį Bustum. Tik­\nriausiai šio dievo globojami buvo laužai, ant kurių degindavo\nnumirėlius, o jų vėles dievas pernešdavo į amžiną buveinę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189740
+    - t-001

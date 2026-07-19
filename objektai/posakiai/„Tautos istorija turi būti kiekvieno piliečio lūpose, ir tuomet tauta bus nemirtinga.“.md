@@ -39,7 +39,6 @@ Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas, nesu
 
 <a id="claim-t-26361"></a>
 - t-001
-  global_id: t-26361
   teiginys: "1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui teigė, kad tautos istorija turi būti kiekvieno piliečio lūpose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas, nesu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26361
+    - t-001

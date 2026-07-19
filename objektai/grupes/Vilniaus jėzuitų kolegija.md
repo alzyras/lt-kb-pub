@@ -39,8 +39,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 ## Teiginiai
 
 <a id="claim-t-86704"></a>
-- t-001
-  global_id: t-86704
+- t-005
   teiginys: "Mirdamas Knišine Žygimantas Augustas savo turtingą biblioteką atidavė Vilniaus jėzuitų kolegijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - c-82684
 
 <a id="claim-t-86705"></a>
-- t-002
-  global_id: t-86705
+- t-003
   teiginys: "1581 m. birželio 9 d. Vilniaus kapitula teisę siūlyti Šv. Jono bažnyčios vikarus perleido Akademijos kolegijos rektoriams jėzuitams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - c-82686
 
 <a id="claim-t-86706"></a>
-- t-003
-  global_id: t-86706
+- t-008
   teiginys: "Vilniaus Jėzaus draugijos kolegijai buvo patikėtas klierikų mokymas ir seminarijos valdymas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,8 +91,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - c-82690
 
 <a id="claim-t-86707"></a>
-- t-004
-  global_id: t-86707
+- t-007
   teiginys: "Jėzuitams perduotos knygos buvo apibūdintos kaip nemažas ir neprastas rinkinys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,8 +107,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - c-82685
 
 <a id="claim-t-86708"></a>
-- t-005
-  global_id: t-86708
+- t-004
   teiginys: "Šv. Jono bažnyčios arkipresbiteris ir miesto magistratas priešinosi jėzuitų siekiui pastatą prijungti prie kolegijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,8 +123,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - c-82689
 
 <a id="claim-t-86709"></a>
-- t-006
-  global_id: t-86709
+- t-002
   teiginys: "1571 m. gruodžio 22 d. Apaštališkasis Sostas patvirtino parapijinės Šv. Jono bažnyčios inkorporavimą į Vilniaus jėzuitų kolegiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,8 +142,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - c-82688
 
 <a id="claim-t-86710"></a>
-- t-007
-  global_id: t-86710
+- t-006
   teiginys: "Karalius balandžio 1 d. dekretais vyskupo Protasevičiaus funduotą Vilniaus jėzuitų kolegiją pakėlė iki universiteto laipsnio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -165,8 +158,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - c-82687
 
 <a id="claim-t-86711"></a>
-- t-008
-  global_id: t-86711
+- t-001
   teiginys: "1571 m. Žygimantas Augustas Šv. Jono bažnyčią su visu turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -206,24 +198,15 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 
     Il KNYGA
     jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.
-  citata_rodoma: |
-    Tasai karalius 1571 metų
-    kovo 10 dieną Šv. Jono bažnyčią atidavė kun. Valerijono Pro-
-    tasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­
-    toriaus instancijai su visu turtu ir arkipresbiterio namais pri-
-    172
-
-    ## Puslapis 189
-
-    Il KNYGA
-    jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.
+  citata_rodoma: "Tasai karalius 1571 metų \nkovo 10 dieną Šv. Jono bažnyčią atidavė kun. Valerijono Pro- \ntasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­\ntoriaus instancijai su visu turtu ir arkipresbiterio namais pri-\n172\n\n## Puslapis 189\n\nIl KNYGA\njungė prie Societatis JESU [Jėzaus Draugijos] kolegijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86711
+    - t-001
+
 - id: c-82684
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -242,7 +225,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86704
+    - t-005
+
 - id: c-82685
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -261,7 +245,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86707
+    - t-007
+
 - id: c-82686
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -281,7 +266,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86705
+    - t-003
+
 - id: c-82687
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -308,7 +294,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86710
+    - t-006
+
 - id: c-82688
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -324,7 +311,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86709
+    - t-002
+
 - id: c-82689
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -350,7 +338,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86708
+    - t-004
+
 - id: c-82690
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -374,4 +363,4 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86706
+    - t-008

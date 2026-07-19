@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-31991"></a>
 - t-001
-  global_id: t-31991
   teiginys: "J. Fijałeko „Wnuk Kiejstuta, Jan książę drohiczyński“ išspausdintas KH 28 tome 1914 m., p. 181-197."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,13 +67,11 @@ media_all_json: |-
     1914, 181-197 p. — Gersdorf, H. : _Der Deutsche Orden im Zeitalter der
     polnisch-litauischen Union. Die Regierung des Hochmeisters Konrad Zöll­
     ner_ (1382-90), Marburg a. L. 1956.
-  citata_rodoma: |
-    Fijałek, J. : _Wnuk Kiejstuta, Jan książę drohiczyński_ , KH, t. 28,
-    1914, 181-197 p.
+  citata_rodoma: "Fijałek, J. : _Wnuk Kiejstuta, Jan książę drohiczyński_ , KH, t. 28,\n1914, 181-197 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31991
+    - t-001

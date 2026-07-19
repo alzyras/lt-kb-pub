@@ -2,10 +2,10 @@
 tipas: vieta
 pavadinimas: 'Gdanskas'
 saltiniai:
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1605 m.'
   - '1655 m.'
@@ -14,15 +14,15 @@ datos:
   - '1919 m.'
 date_start: '1605'
 date_end: '1919'
+amziai:
+  - 'XVII'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
   - valstybė
-amziai:
-  - 'XVII'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,13 +40,12 @@ media_all_json: |-
 
 ## Santrauka
 
-Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą. Kai kurie klaipėdiškiai lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko, statusą. Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
+Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas)). Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs L I E T U V O S I S T O R I J A 40 grūdais pagrindinį Europos duonos uostą – Gdanską. Kova dėl Livonijos daugiausia buvo suinteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko uostą.
 
 ## Teiginiai
 
-<a id="claim-t-114282"></a>
-- t-001
-  global_id: t-114282
+<a id="claim-t-114280"></a>
+- t-006
   teiginys: "Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,8 +66,7 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
     - c-105403
 
 <a id="claim-t-114281"></a>
-- t-002
-  global_id: t-114281
+- t-001
   teiginys: "Kai kurie klaipėdiškiai lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko, statusą."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -84,8 +82,7 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
     - c-24129
 
 <a id="claim-t-114283"></a>
-- t-003
-  global_id: t-114283
+- t-008
   teiginys: "Vytauto laikais Vilniaus prekybiniai ryšiai jau siekė Gdanską ir Sileziją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
     - c-105407
 
 <a id="claim-t-114284"></a>
-- t-004
-  global_id: t-114284
+- t-007
   teiginys: "XVI a. antroje pusėje Gdanske buvo saugotos kelios Dusburgiečio kronikos rankraštinės ištraukos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -119,8 +115,7 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
     - c-105404
 
 <a id="claim-t-114285"></a>
-- t-005
-  global_id: t-114285
+- t-002
   teiginys: "Kova dėl Livonijos labiausiai domino didesnio uosto neturėjusią Lietuvą, nes Lenkija turėjo Gdansko uostą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -139,8 +134,7 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
     - c-24130
 
 <a id="claim-t-183591"></a>
-- t-006
-  global_id: t-183591
+- t-009
   teiginys: "Kai kurie Klaipėdos krašto lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -157,6 +151,44 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166983
+
+<a id="claim-t-201599"></a>
+- t-011
+  teiginys: "Antra vertus, Vyslos baseine škutas buvo labai paplitęs laivas, dažniausiai naudotas grūdams į Gdanską gabenti."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-184946
+
+<a id="claim-t-201600"></a>
+- t-012
+  teiginys: "Dar svarbesni buvo upeiviai, žmonės, susiję su prekių gabenimu Nemunu, Nerimi, Prūsijos vandens keliais iki Karaliaučiaus ir Gdansko ar iš ten."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-184947
+
+<a id="claim-t-201601"></a>
+- t-013
+  teiginys: "Kauno miestiečiai, ypač pirkliai, pasklisdavo po visą regioną, į kurį įėjo Lietuva, Lenkija, Prūsija, Livonija, bet dažniausiai ir gausiausiai lankėsi Prūsų miestuose: Gdanske, Karaliaučiuje, Torunėje."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184948
 - susijęs iš [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.).md#claim-t-20527|Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]: Dalis klaipėdiškių lietuvininkų nenorėjo jungtis prie Lietuvos ir siekė laisvojo miesto statuso.
 - susijęs iš Klaipėdos kraštas: 1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo neatidavė Lietuvai.
 - susijęs iš Vokietija: 1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo Lietuvai neatidavė.
@@ -174,17 +206,15 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
     vos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai. Beje, ne visi klaipė-
     diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
     statuso (panašaus į Dancigo (dabar Gdanskas)).
-  citata_rodoma: |
-    Beje, ne visi klaipė-
-    diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
-    statuso (panašaus į Dancigo (dabar Gdanskas)).
+  citata_rodoma: "Beje, ne visi klaipė-\ndiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ \nstatuso (panašaus į Dancigo (dabar Gdanskas))."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114281
+    - t-001
+
 - id: c-24130
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -195,17 +225,15 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
     kė pretenzijas į Švedijos sostą. Kova dėl Livonijos daugiausia buvo suin-
     teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
     uostą.
-  citata_rodoma: |
-    Kova dėl Livonijos daugiausia buvo suin-
-    teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
-    uostą.
+  citata_rodoma: "Kova dėl Livonijos daugiausia buvo suin-\nteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko \nuostą."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114285
+    - t-002
+
 - id: c-105403
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -231,29 +259,15 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
     • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
     teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-  citata_rodoma: |
-    Taigi Abiejų Tautų Respublika:
-    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
-    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
-    bajoriškosios demokratijos tradiciją,
-    •	 Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių
-    ribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-
-    sauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,
-    •	 iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-
-    poje Vilniaus universitetą, turintį savitas misionierių, kankinių ir
-    šventųjų, poetų, retorikų ir logikų tradicijas,
-    •	 išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-
-    tūros mokyklą,
-    • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
-    teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
-    konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
+  citata_rodoma: "Taigi Abiejų Tautų Respublika:\n•\t aprūpino Vakarus (per Gdanską į Amsterdamą) javais, \n•\t sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir \nbajoriškosios demokratijos tradiciją, \n•\t Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių \nribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-\nsauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,\n•\t iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-\npoje Vilniaus universitetą, turintį savitas misionierių, kankinių ir \nšventųjų, poetų, retorikų ir logikų tradicijas,\n•\t išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-\ntūros mokyklą,\n• sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje \nteisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija – \nkonstituciją, tapusią ankstyviausia rašytine konstitucija Europoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114282
+    - t-006
+
 - id: c-105404
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -262,16 +276,15 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
     Išliko keletas kronikos rankraštinių ištraukų, saugotų Gdanske (XVI a. II-oji pusė) bei
     Elbinge (XVII a.)77.
     Dusburgiečio kronika rankraštiniais nuorašais plito ir žymiai vėliau, jau ją paskelbus.
-  citata_rodoma: |
-    Išliko keletas kronikos rankraštinių ištraukų, saugotų Gdanske (XVI a. II-oji pusė) bei
-    Elbinge (XVII a.)77.
+  citata_rodoma: "Išliko keletas kronikos rankraštinių ištraukų, saugotų Gdanske (XVI a. II-oji pusė) bei\nElbinge (XVII a.)77."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114284
+    - t-007
+
 - id: c-105407
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -293,7 +306,8 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114283
+    - t-008
+
 - id: c-166983
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -315,6 +329,64 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183591
+    - t-009
+
+- id: c-184946
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Lietuvos muitinių knygose škutas neminimas, vyrauja vytinė ir tik
+    retkarčiais pasitaiko strugas, botas ar perga. Antra vertus, Vyslos baseine škutas buvo
+    labai paplitęs laivas, dažniausiai naudotas grūdams į Gdanską gabenti.
+    Atsižvelgiant į nurodytas aplinkybes, numanu, kad škutas buvo tokios pat pa-
+    skirties laivas kaip vytinė, tik didesnis ir prabangiau įrengtas.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
+- id: c-184947
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Todėl
+    laivų statyklos reikšmė kalbamo laikotarpio Kauno miesto gyvenime buvo išskirtinė.
+    Dar svarbesni buvo upeiviai, žmonės, susiję su prekių gabenimu Nemunu, Nerimi,
+    Prūsijos vandens keliais iki Karaliaučiaus ir Gdansko ar iš ten. Laivavedžiai ir laivų
+    įgulų nariai išsiskyrė Kauno miestiečių bendruomenėje ir dėl darbo pobūdžio, mat
+    nuolat buvo kelyje, ir dėl darbo santykių - jie buvo samdiniai, ir dėl dažnai jungiamų
+    upeivių pareigų ir prekybos operacijų.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
+- id: c-184948
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Savaime suprantama, kad ėmę masiškai statydintis mūrnamius kauniečiai
+    sekė matytais pavyzdžiais. Kauno miestiečiai, ypač pirkliai, pasklisdavo po visą regi-
+    oną, į kurį įėjo Lietuva, Lenkija, Prūsija, Livonija, bet dažniausiai ir gausiausiai lan-
+    kėsi Prūsų miestuose: Gdanske, Karaliaučiuje, Torunėje. Šie miestai dar iš viduram-
+    žių paveldėjo tvirtas raudonų plytų gotikos architektūrinio stiliaus tradicijas, kurios
+    klestėjo ir XVI a.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
 ## Ryšiai
 - Prekiavo su: [[objektai/vietos/Vilnius]]

@@ -42,8 +42,7 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
 ## Teiginiai
 
 <a id="claim-t-183633"></a>
-- t-001
-  global_id: t-183633
+- t-013
   teiginys: "Kirchholmas, dabartinis Salaspilis, minimas tarp LDK karinių pergalių vietų, kur lietuviai kovojo kartu su rusėnais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
     - c-167025
 
 <a id="claim-t-193650"></a>
-- t-002
-  global_id: t-193650
+- t-014
   teiginys: "1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
     - c-176319
 
 <a id="claim-t-193782"></a>
-- t-003
-  global_id: t-193782
+- t-015
   teiginys: "104-105, Salaspilio mūšis 1605 m. rugsėjo 27 d. Pirmasis etapas; antrasis etapas, Arvydas Pociūnas, Karolis Zikaras, Loreta Uzdraitė."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -109,7 +106,8 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183633
+    - t-013
+
 - id: c-176319
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -126,7 +124,8 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193650
+    - t-014
+
 - id: c-176433
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -140,4 +139,4 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193782
+    - t-015

@@ -39,7 +39,6 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
 
 <a id="claim-t-78076"></a>
 - t-001
-  global_id: t-78076
   teiginys: "Ėrichas Liudendorfas formaliai vadovavo Oberostui kartu su Pauliumi fon Hindenburgu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,18 +76,11 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
     generolai Paulius fon Hindenburgas (Paul von Hindenburg) ir Ėrichas
     Liudendorfas (Erich Ludendorff) ir naudojo visus krašto išteklius Vokie-
     tijos kariuomenės reikalams.
-  citata_rodoma: |
-    Vokiečiai Lietuvą laikė
-    Rusijos okupuota teritorija, tad, 1915 m. frontui stabilizavusis, sudarė
-    karinę administraciją ir pavadino ją Oberostu (nuo Oberbefehlshaber
-    Ost – Vyriausioji Rytų kariuomenės vadovybė). Jai formaliai vadovavo
-    generolai Paulius fon Hindenburgas (Paul von Hindenburg) ir Ėrichas
-    Liudendorfas (Erich Ludendorff) ir naudojo visus krašto išteklius Vokie-
-    tijos kariuomenės reikalams.
+  citata_rodoma: "Vokiečiai Lietuvą laikė \nRusijos okupuota teritorija, tad, 1915 m. frontui stabilizavusis, sudarė \nkarinę administraciją ir pavadino ją Oberostu (nuo Oberbefehlshaber \nOst – Vyriausioji Rytų kariuomenės vadovybė). Jai formaliai vadovavo \ngenerolai Paulius fon Hindenburgas (Paul von Hindenburg) ir Ėrichas \nLiudendorfas (Erich Ludendorff) ir naudojo visus krašto išteklius Vokie-\ntijos kariuomenės reikalams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78076
+    - t-001

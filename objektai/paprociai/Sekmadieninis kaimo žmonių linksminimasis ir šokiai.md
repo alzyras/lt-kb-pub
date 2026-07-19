@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-62715"></a>
 - t-001
-  global_id: t-62715
   teiginys: "Vieną sekmadienį aplinkinių Vartenbergo kaimų žmonės linksminosi ir šoko, kai juos netikėtai užpuolė kariuomenė iš Sūduvos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,7 +65,7 @@ Nenurodyta
   semantiniai_rysiai: "Sūduviai puolė Vartenbergas (0.67)"
   pagrindžia:
     - c-63474
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vieną sekmadienį aplinkinių Vartenbergo kaimų žmonės linksminosi ir šoko, kai juos netikėtai užpuolė kariuomenė iš Sūduvos.'
@@ -86,8 +85,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62715
+
 ## Citatos
 
 - id: c-63474
@@ -104,20 +102,11 @@ Nenurodyta
     435 Vartenbergo pilies, sūduvių sudegintos ir iki pat kronikos rašymo metų
     neatstatytos (III, 159), ieškoma Kulmo žemės šiaurės rytuose, kur XIII a. 2-oje pusėje
     tebuvo žinomas vienas kryžiuočių centras Vonė (Wonne) Osos aukštupyje (dab.
-  citata_rodoma: |
-    Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,
-    pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių. Vieną
-    sekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai
-    užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į
-    nelaisvę.
-
-      435  Vartenbergo  pilies,  sūduvių  sudegintos  ir  iki  pat  kronikos rašymo metų
-    neatstatytos (III, 159), ieškoma Kulmo žemės šiaurės rytuose, kur XIII a. 2-oje pusėje
-    tebuvo žinomas vienas kryžiuočių centras Vonė (Wonne) Osos aukštupyje (dab.
+  citata_rodoma: "Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,\npavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių. Vieną\nsekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai\nužgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į\nnelaisvę.\n\n  435  Vartenbergo  pilies,  sūduvių  sudegintos  ir  iki  pat  kronikos rašymo metų\nneatstatytos (III, 159), ieškoma Kulmo žemės šiaurės rytuose, kur XIII a. 2-oje pusėje\ntebuvo žinomas vienas kryžiuočių centras Vonė (Wonne) Osos aukštupyje (dab."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62715
+    - t-001

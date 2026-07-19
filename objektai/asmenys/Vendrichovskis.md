@@ -39,7 +39,6 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
 
 <a id="claim-t-87881"></a>
 - t-001
-  global_id: t-87881
   teiginys: "Pastorius Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas Vilniuje netoli Žuvų turgaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87881
+    - t-001

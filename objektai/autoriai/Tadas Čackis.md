@@ -32,28 +32,19 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
 
 <a id="claim-t-190300"></a>
 - t-001
-  global_id: t-190300
   teiginys: "Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randama daugiausia raganų."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tadas Čackis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadas Čackis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173183
+    - c-173184
 
 <a id="claim-t-190301"></a>
 - t-002
-  global_id: t-190301
   teiginys: "Narbutas klaidinga vadino Čackio nuomonę, kad lietuviai germanų pavyzdžiu laiką skaičiavę naktimis, o ne dienomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,7 +65,6 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
 
 <a id="claim-t-190303"></a>
 - t-003
-  global_id: t-190303
   teiginys: "Narbutas Čackio veikalą „Apie teises“ nurodė kaip šaltinį istorijos duomenims apie kitų tautų antspaudus ir herbus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -95,9 +85,8 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
 
 <a id="claim-t-194673"></a>
 - t-004
-  global_id: t-194673
   teiginys: "Šis dalykas plačiai išdėstytas Čackio veikale (O prawach."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -105,11 +94,10 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-177070
+    - c-173186
 
 <a id="claim-t-197339"></a>
 - t-005
-  global_id: t-197339
   teiginys: "Tadas Čackis buvo aukų, kurias atnašaujant, moterims buvo draudžiama dalyvauti."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -122,7 +110,6 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
 
 <a id="claim-t-197340"></a>
 - t-006
-  global_id: t-197340
   teiginys: "Tadas Čackis buvusi 4 uolekčių ilgio, 3 uolekčių pločio."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -135,7 +122,6 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
 
 <a id="claim-t-197648"></a>
 - t-007
-  global_id: t-197648
   teiginys: "Tadas Čackis įsitikino, jog lietuvių padavimai susiję su skandinaviškais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -169,21 +155,13 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
     matyti, kad, vadovaujant tokiam išmintingam, veikliam ir ka­
     ringam monarchui, augančios galingos valstybės sostinė bū- 38 39
     38 Noël F. Dictionnaire mythologique (Divination).
-  citata_rodoma: |
-    Kuo daugiau tikėta jų buvimu, tuo labiau
-    artėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų
-    prietarų perimdavo žmonės. O XVI amžiuje, kaip moksliškai
-    įrodo Čackis36, kai tamsumas ėmė vyrauti tautos švietime, dau­
-    giausia raganų būdavo randama Lietuvoje. Tačiau senieji liau­
-    dies padavimai tas senes paprastai kildina iš Lietuvos Rusios,
-    o vietinių nepripažįsta, jog šitiek daug moka.
+  citata_rodoma: "Kuo daugiau tikėta jų buvimu, tuo labiau\nartėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų\nprietarų perimdavo žmonės. O XVI amžiuje, kaip moksliškai\nįrodo Čackis36, kai tamsumas ėmė vyrauti tautos švietime, dau­\ngiausia raganų būdavo randama Lietuvoje. Tačiau senieji liau­\ndies padavimai tas senes paprastai kildina iš Lietuvos Rusios,\no vietinių nepripažįsta, jog šitiek daug moka."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190300
 - id: c-173184
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -204,7 +182,9 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190301
+    - t-001
+    - t-002
+
 - id: c-173186
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -220,7 +200,9 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190303
+    - t-003
+    - t-004
+
 - id: c-177070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -232,16 +214,13 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
     pakirptuvėmis buvo pažymimas kiekvienas žmogaus gyveni­
     mo laikotarpis, pradedant jaunyste, kai pasikeisdavo padėtis,
     pareigos ir 1.1.
-  citata_rodoma: |
-    10 Šis dalykas plačiai išdėstytas Čackio veikale (O prawach. -  T. I. -
-    S. 61-62. - Nota nr. 331).
+  citata_rodoma: "10 Šis dalykas plačiai išdėstytas Čackio veikale (O prawach. -  T. I. -\nS. 61-62. - Nota nr. 331)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194673
 - id: c-179137
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -259,7 +238,8 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197339
+    - t-005
+
 - id: c-179138
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -281,7 +261,8 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197340
+    - t-006
+
 - id: c-179279
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -303,4 +284,4 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197648
+    - t-007

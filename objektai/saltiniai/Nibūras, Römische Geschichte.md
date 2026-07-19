@@ -30,7 +30,6 @@ Narbutas cituoja Nibūrą, kad pelazgų kolonijų pasklidimas esąs ne prielaida
 
 <a id="claim-t-191802"></a>
 - t-001
-  global_id: t-191802
   teiginys: "Narbutas cituoja Nibūrą, kad pelazgų kolonijų pasklidimas esąs ne prielaida, o tvirtas istorinis įsitikinimas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas cituoja Nibūrą, kad pelazgų kolonijų pasklidimas esąs ne prielaida
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191802
+    - t-001

@@ -49,27 +49,18 @@ Nenurodyta
 
 <a id="claim-t-185531"></a>
 - t-001
-  global_id: t-185531
   teiginys: "Žiemos pabaigoje į Lietuvą pas karalių atvyko popiežiaus pasiuntinys Liudvikas, Antiochijos patriarchas."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Popiežiaus ir imperatoriaus mėginimas per Liudviką įtraukti skitus į karą su turkais (1465 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=2"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Popiežiaus ir imperatoriaus mėginimas per Liudviką įtraukti skitus į karą su turkais (1465 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168892
+    - c-178593
 
 <a id="claim-t-185533"></a>
-- t-002
-  global_id: t-185533
+- t-003
   teiginys: "Liudvikas ragino skubėti prieš Mechmedą, nes, jo teigimu, turkų valdovas rengėsi karui prieš krikščionių pasaulį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -92,8 +83,7 @@ Nenurodyta
     - c-168894
 
 <a id="claim-t-196243"></a>
-- t-003
-  global_id: t-196243
+- t-004
   teiginys: "Žiemos pabaigoje atvyko Lietuvon pas karalių Liud vikas, Antiochijos patriar chas, popiežiaus pasiuntinys."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -128,26 +118,13 @@ Nenurodyta
     nei iš tikrųjų (paprastai šitokį atgarsį sukelia pirmi
     gandai), nes žmogus be galo linkęs viską perdėti arba
     visko prisigalvoti, kaip jam šauna į galvą.
-  citata_rodoma: |
-    Iš ten karalius nuvyko į Lietuvą
-    ir likusius žiemos mėnesius praleido Kaune, nes Vil­
-    niuje ir Gardine siautė maras.
-    Žiemos pabaigoje atvyko Lietuvon pas karalių Liud­
-    vikas, Antiochijos
-    patriar­
-    chas, popiežiaus pasiuntinys.
-    Rytų imperijos gyventojai,
-    pavergti turkų, maldavo Va­
-    karų šalis, o ypač popiežių
-    bei imperatorių padėti be-
-    žlungančiai krikščionybei.
+  citata_rodoma: "Iš ten karalius nuvyko į Lietuvą\nir likusius žiemos mėnesius praleido Kaune, nes Vil­\nniuje ir Gardine siautė maras.\nŽiemos pabaigoje atvyko Lietuvon pas karalių Liud­\nvikas, Antiochijos\npatriar­\nchas, popiežiaus pasiuntinys.\nRytų imperijos gyventojai,\npavergti turkų, maldavo Va­\nkarų šalis, o ypač popiežių\nbei imperatorių padėti be-\nžlungančiai krikščionybei."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185531
 - id: c-168894
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -168,7 +145,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185533
+    - t-003
+
 - id: c-178593
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -193,4 +171,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196243
+    - t-001
+    - t-004

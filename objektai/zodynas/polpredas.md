@@ -31,7 +31,6 @@ Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju atstovu (polpredu)
 
 <a id="claim-t-22253"></a>
 - t-001
-  global_id: t-22253
   teiginys: "Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija (LKP)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,12 +58,11 @@ Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju atstovu (polpredu)
     atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrin-
     dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota
     daugiatūkstantinė SSRS kariuomenė nulėmė prasidėjusius įvykius.
-  citata_rodoma: |
-    dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota
+  citata_rodoma: "dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22253
+    - t-001

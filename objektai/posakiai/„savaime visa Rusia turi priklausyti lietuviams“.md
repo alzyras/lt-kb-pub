@@ -37,7 +37,6 @@ Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Ru
 
 <a id="claim-t-20938"></a>
 - t-001
-  global_id: t-20938
   teiginys: "Algirdo pretenzija, kad „savaime visa Rusia turi priklausyti lietuviams“, liko neįgyvendinta po nesėkmingų žygių į Maskvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,12 +70,11 @@ Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Ru
     tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
     kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
     Vilnius nevirto „antruoju Kijevu“.
-  citata_rodoma: |
-    kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
+  citata_rodoma: "kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20938
+    - t-001

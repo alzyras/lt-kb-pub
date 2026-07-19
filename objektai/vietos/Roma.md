@@ -38,8 +38,7 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
 ## Teiginiai
 
 <a id="claim-t-180499"></a>
-- t-001
-  global_id: t-180499
+- t-004
   teiginys: "Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
 
 <a id="claim-t-180501"></a>
 - t-002
-  global_id: t-180501
   teiginys: "1595 m. Hipatas Pociejus ir Kirilas Terleckis Romoje gavo popiežiaus Klemenso VIII pritarimą bažnytinei unijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,17 +99,15 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
     Pociejus su Terleckiu, 1595 m. nuvykę į Romą ir gavę popie-
     žiaus Klemenso VIII visišką pritarimą, visų Lietuvos ir Lenkijos
     pravoslavų vardu padarė bažnytinę uniją.
-  citata_rodoma: |
-    Pociejus su Terleckiu, 1595 m. nuvykę į Romą ir gavę popie-
-    žiaus Klemenso VIII visišką pritarimą, visų Lietuvos ir Lenkijos
-    pravoslavų vardu padarė bažnytinę uniją.
+  citata_rodoma: "Pociejus su Terleckiu, 1595 m. nuvykę į Romą ir gavę popie-\nžiaus Klemenso VIII visišką pritarimą, visų Lietuvos ir Lenkijos\npravoslavų vardu padarė bažnytinę uniją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180501
+    - t-002
+
 - id: c-164108
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -125,16 +121,11 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
     abu lietuviai, t. y. Vytautas ir Jogaila kaip reikiant galės iš­
     spręsti šį husitų klausimą, dėl kurio tiek daug nerangumo ir ne­
     pajėgumo parodė imperatorius Zigmantas L.^3 ).
-  citata_rodoma: |
-    Neapsirikta ir šį kartą.
-    Ypatingai sekė jo užsimojimus Romos kurija, teisingai iš
-    anksto numatydama jį veiksiant Lucke prieš Martyno V planus
-    dėl Čekų husitų reikalo. Roma buvo tvirtai įsitikinusi, kad tik
-    abu lietuviai, t.
+  citata_rodoma: "Neapsirikta ir šį kartą.\nYpatingai sekė jo užsimojimus Romos kurija, teisingai iš\nanksto numatydama jį veiksiant Lucke prieš Martyno V planus\ndėl Čekų husitų reikalo. Roma buvo tvirtai įsitikinusi, kad tik\nabu lietuviai, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180499
+    - t-004

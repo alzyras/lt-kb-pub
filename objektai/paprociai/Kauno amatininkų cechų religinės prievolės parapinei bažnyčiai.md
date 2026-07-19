@@ -8,10 +8,10 @@ datos:
   - '1643 m.'
 date_start: '1640'
 date_end: '1643'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-202046"></a>
 - t-001
-  global_id: t-202046
   teiginys: "Daugelis Kauno amatininkų cechų buvo katalikiški, jų nariai turėjo atlikti numatytas prievoles parapinei bažnyčiai, išlaikyti cecho altorių kurioje nors Kauno bažnyčioje, dalyvauti pamaldose."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -60,6 +59,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185393
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -80,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202046
+    - t-001

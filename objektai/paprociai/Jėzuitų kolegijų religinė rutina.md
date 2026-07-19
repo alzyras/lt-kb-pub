@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67100"></a>
-- t-001
-  global_id: t-67100
+- t-002
   teiginys: "Jėzuitų kolegijose buvo ypač prižiūrima, kad mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Nenurodyta
     - c-67136
 
 <a id="claim-t-67103"></a>
-- t-002
-  global_id: t-67103
+- t-001
   teiginys: "Jėzuitų kolegijose buvo prižiūrima, kad mokiniai atliktų religinę praktiką ir lankytų mišias."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67100
+    - t-002
+
 - id: c-67138
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -100,13 +99,11 @@ Nenurodyta
     kursą. Daugumas mokinių gyveno kolegijose ir ištisą dieną iš-
     būdavo mokytojų priežiūroje. Ypatingai buvo žiūrima, kad
     mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa-
-  citata_rodoma: |
-    Ypatingai buvo žiūrima, kad
-    mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa-
+  citata_rodoma: "Ypatingai buvo žiūrima, kad\nmokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67103
+    - t-001

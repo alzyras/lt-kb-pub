@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-40972"></a>
 - t-001
-  global_id: t-40972
   teiginys: "1948 m. Jungtinė Kęstučio apygarda buvo padalinta į Kęstučio ir Prisikėlimo apygardas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ media_all_json: |-
 
 <a id="claim-t-193733"></a>
 - t-002
-  global_id: t-193733
   teiginys: "1947 m. tapo Kęstučio apygardos partizanu, netrukus paskirtas Vaidoto rinktinės vadu, o 1949 m. Kęstučio apygardos vadu, 1951 m. Vakarų Lietuvos (Jūros) srities vadu."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -87,17 +85,15 @@ media_all_json: |-
     rio rinktinę. 1948 m. Jungtinė Kęstučio apygarda (ku-
     riai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir
     Prisikėlimo apygardas.
-  citata_rodoma: |
-    1948 m. Jungtinė Kęstučio apygarda (ku-
-    riai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir
-    Prisikėlimo apygardas.
+  citata_rodoma: "1948 m. Jungtinė Kęstučio apygarda (ku-\nriai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir\nPrisikėlimo apygardas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40972
+    - t-001
+
 - id: c-176400
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -114,4 +110,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193733
+    - t-002

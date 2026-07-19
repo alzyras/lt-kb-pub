@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-86942"></a>
 - t-001
-  global_id: t-86942
   teiginys: "1841 m. Michałas Balińskis tapo vienu iš enciklopedinio leidinio „Biblioteka Warszawska“ steigėjų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86942
+    - t-001

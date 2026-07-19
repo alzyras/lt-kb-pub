@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20452"></a>
 - t-001
-  global_id: t-20452
   teiginys: "Lietuvių plėšiamieji žygiai rodė didėjančią lietuvių jėgą ir prisidėjo prie būsimos Lietuvos valstybės pagrindų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,12 +80,11 @@ Nenurodyta
     gausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo
     pagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-
     bei.
-  citata_rodoma: |
-    gausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo
+  citata_rodoma: "gausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20452
+    - t-001

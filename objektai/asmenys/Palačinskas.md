@@ -31,7 +31,6 @@ Iš antros pusės stovėjęs eilinis Palačinskas nudūrė kitą.
 
 <a id="claim-t-80742"></a>
 - t-001
-  global_id: t-80742
   teiginys: "Eilinis Palačinskas bolševikų štabe nudūrė vieną komisarą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Iš antros pusės stovėjęs eilinis Palačinskas nudūrė kitą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80742
+    - t-001

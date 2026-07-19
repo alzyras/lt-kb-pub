@@ -39,7 +39,6 @@ Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui prisky
 
 <a id="claim-t-186009"></a>
 - t-001
-  global_id: t-186009
   teiginys: "Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui priskyrė ankstesnį Lietuvos didžiojo kunigaikščio nužudymą per vaišes."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui prisky
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186009
+    - t-001

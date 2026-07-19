@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202012"></a>
 - t-001
-  global_id: t-202012
   teiginys: "Visi šie miestai nurodo maršrutus kelionių, į kurias Kauno miestiečiai leisdavosi tvarkyti miesto ar asmeninių reikalų."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-202013"></a>
 - t-002
-  global_id: t-202013
   teiginys: "Kauno miestiečių pasiuntiniai turėdavo susirasti užtarėjų tarp aukštų valstybės pareigūnų ar valdovo dvaro žmonių."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -66,6 +64,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185360
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -86,7 +87,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202012
+    - t-001
 
 - id: c-185360
   autorius: "Zigmantas Kiaupa"
@@ -104,4 +105,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202013
+    - t-002

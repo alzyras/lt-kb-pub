@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-100065"></a>
 - t-001
-  global_id: t-100065
   teiginys: "1393 m. gegužės 20 d. Tochtamišas siuntė Jogailai jarlyką, kviesdamas sąjungai prieš bendrus priešus ir siūlydamas pagalbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100065
+    - t-001

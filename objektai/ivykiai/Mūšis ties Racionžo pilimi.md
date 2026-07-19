@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201337"></a>
 - t-001
-  global_id: t-201337
   teiginys: "Susigrūmė šalys 15 dienoj rugpjūčio mėnesio Į dangų Marijos ėmimo ties Racionžo pilė netoli nuo pilės Nakelio."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184687
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pamarionys, mažėdamos
     savo galybe, patelkė lietuvių gimines. Susigrūmė
@@ -72,4 +72,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201337
+    - t-001

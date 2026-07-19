@@ -39,7 +39,6 @@ Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudes
 
 <a id="claim-t-30404"></a>
 - t-001
-  global_id: t-30404
   teiginys: "Totorių chanas Uzbekas kėlė Teodorui baimę, todėl šis negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,15 +73,11 @@ Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudes
     palaikyti glaudesnių ryšių su Gedimino Lietuva. Apskritai Teog­
     nosto užrašai (1330-31) su savo charakteringa pinigine apyskaita
     yra autentiškas šaltinis nustatyti Gedimino ekspansijai į rytus.
-  citata_rodoma: |
-    Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo
-    palaikyti glaudesnių ryšių su Gedimino Lietuva. Apskritai Teog­
-    nosto užrašai (1330-31) su savo charakteringa pinigine apyskaita
-    yra autentiškas šaltinis nustatyti Gedimino ekspansijai į rytus.
+  citata_rodoma: "Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo\npalaikyti glaudesnių ryšių su Gedimino Lietuva. Apskritai Teog­\nnosto užrašai (1330-31) su savo charakteringa pinigine apyskaita\nyra autentiškas šaltinis nustatyti Gedimino ekspansijai į rytus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30404
+    - t-001

@@ -30,7 +30,6 @@ Stepono bažnyčios ir Poguliankos rajonų.
 
 <a id="claim-t-38529"></a>
 - t-001
-  global_id: t-38529
   teiginys: "Leontijus Bennigsenas su kavalerijos ir kazokų pajėgomis puolė lietuvių įtvirtinimus ties Pogulianka."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Stepono bažnyčios ir Poguliankos rajonų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38529
+    - t-001

@@ -31,7 +31,6 @@ Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario
 
 <a id="claim-t-80614"></a>
 - t-001
-  global_id: t-80614
   teiginys: "Vasario 7 d. bolševikai kelis kartus puolė Šilginėlių kaime buvusią lietuvių sargybą, mėgindami pralaužti jos gynybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,29 +78,11 @@ Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario
 
     kepures su geltonomis juostomis ir trispal-
     vius trikampius kairės rankovės antsiuvus).
-  citata_rodoma: |
-    Toks buvo
-    pirmasis Kėdainių įgulos sava-
-    norių kovos krikštas.
-    Raudonarmiečiai,
-    matydami, jog jų
-    artilerija lietuvių
-
-    Dar tą pačią vasario 7 d.
-    tarp bolševikų ir Šilginėlių
-    kaime buvusios lietuvių
-    sargybos įvyko smarkus
-
-    stūmė lietuvių sargybas, pri-
-
-    rengti pirmojo pavyzdžio uniforma (gavo
-
-    kepures su geltonomis juostomis ir trispal-
-    vius trikampius kairės rankovės antsiuvus).
+  citata_rodoma: "Toks buvo\npirmasis Kėdainių įgulos sava-\nnorių kovos krikštas.\nRaudonarmiečiai,\nmatydami, jog jų\nartilerija lietuvių\n\nDar tą pačią vasario 7 d.\ntarp bolševikų ir Šilginėlių\nkaime buvusios lietuvių\nsargybos įvyko smarkus\n\nstūmė lietuvių sargybas, pri-\n\nrengti pirmojo pavyzdžio uniforma (gavo\n\nkepures su geltonomis juostomis ir trispal-\nvius trikampius kairės rankovės antsiuvus)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80614
+    - t-001

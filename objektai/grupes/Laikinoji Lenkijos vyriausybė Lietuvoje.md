@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-23481"></a>
 - t-001
-  global_id: t-23481
   teiginys: "1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė Lietuvoje kūrė Laikinąją Lenkijos vyriausybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,13 +67,11 @@ media_all_json: |-
     guliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai
     vadovavo generolas Antanas Gelgaudas. Ji lengvai užėmė Kauną, bet Vil-
     niaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje.
-  citata_rodoma: |
-    Ji lengvai užėmė Kauną, bet Vil-
-    niaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje.
+  citata_rodoma: "Ji lengvai užėmė Kauną, bet Vil-\nniaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23481
+    - t-001

@@ -30,7 +30,6 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
 
 <a id="claim-t-192793"></a>
 - t-001
-  global_id: t-192793
   teiginys: "Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios žemės kartais atrodydavo kaip salos, o kartais kaip žemynas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
 
 <a id="claim-t-192794"></a>
 - t-002
-  global_id: t-192794
   teiginys: "Narbutas svarstė, kad Melos laikais priešais Sarmatiją plytėjusios žemės galėjo būti užliejamos ir kartais laikomos salomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -69,7 +67,6 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175564
-    - c-002
 - susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191109|Adomas Stanislovas Naruševičius]]: Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru kėlėsi iš Germanijos į Sarmatiją per Vyslos žemupį.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-192398|Gotai]]: Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 metais gotai su karaliumi Filimeru per Vyslos žemupį kėlėsi iš Germanijos į Sarmatiją.
 - susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191109|Adomas Stanislovas Naruševičius]]: Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru kėlėsi iš Germanijos į Sarmatiją per Vyslos žemupį.
@@ -100,8 +97,7 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192794
+
 ## Citatos
 
 - id: c-175563
@@ -125,7 +121,8 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192793
+    - t-001
+
 - id: c-175564
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -144,24 +141,14 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
     vandens lygio kritimas. Tačiau neketinu dabar įrodinėti
     šito nepatikimo dalyko, dėl kurio tiek amžių mokslininkai
     bergždžiai laužė galvas.
-  citata_rodoma: |
-    Palyginus vienus įrodymus su kitais, atrodo, jog
-    gintaringą prūsų pakrantę kažkada išties sudarė salos.
-    Jei Slėcėris nebūtų Įrodęs, kad Melą apie Baltijos jurą
-    nieko tikro nežinojo, o tai, ką skelbė apie Prūsiją, Livo^-
-    niją, Rusią, išmanė tik iš nuogirdų,, savo prielaidą pa­
-    grįsčiau Meios pasakojimais, jog priešais Sarmatiją ply­
-    tinčios žemės buvo užliejamos, vadinasi, kartais galėjo
-    būti laikomos salomis, o kartais buvo tarsi sausuma. Ka­
-    dangi Baltijos jūroje potvynių ir atoslūgių nebūna, tai
-    galėjo būti, jog Melos laikais vis dėlto buvęs staigus
-    vandens lygio kritimas.
+  citata_rodoma: "Palyginus vienus įrodymus su kitais, atrodo, jog\ngintaringą prūsų pakrantę kažkada išties sudarė salos.\nJei Slėcėris nebūtų Įrodęs, kad Melą apie Baltijos jurą\nnieko tikro nežinojo, o tai, ką skelbė apie Prūsiją, Livo^-\nniją, Rusią, išmanė tik iš nuogirdų,, savo prielaidą pa­\ngrįsčiau Meios pasakojimais, jog priešais Sarmatiją ply­\ntinčios žemės buvo užliejamos, vadinasi, kartais galėjo\nbūti laikomos salomis, o kartais buvo tarsi sausuma. Ka­\ndangi Baltijos jūroje potvynių ir atoslūgių nebūna, tai\ngalėjo būti, jog Melos laikais vis dėlto buvęs staigus\nvandens lygio kritimas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192794
+    - t-002
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Gotai]]

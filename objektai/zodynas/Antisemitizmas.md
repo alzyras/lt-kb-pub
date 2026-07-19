@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-75540"></a>
 - t-001
-  global_id: t-75540
   teiginys: "Šimtmečius Lietuvoje aršaus antisemitizmo nebuvo dėl abipusės lietuvių valstiečių ir žydų pirklių ekonominės priklausomybės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ media_all_json: |-
     - c-24654
 
 <a id="claim-t-75541"></a>
-- t-002
-  global_id: t-75541
+- t-003
   teiginys: "Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,8 +69,7 @@ media_all_json: |-
     - c-73291
 
 <a id="claim-t-75542"></a>
-- t-003
-  global_id: t-75542
+- t-002
   teiginys: "Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o Paryžiaus taikos konferencijoje žydams žadėjo plačią kultūrinę autonomiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,18 +105,15 @@ media_all_json: |-
     „kitokie“. Žydai lietuvių valstiečius matė kaip mažai civilizuotus kaimie-
     čius, iš kurių jie tik pirko produkciją, o vos prasibrėžianti lietuvių kultūra
     jiems, kaip ir lenkams, visiškai neimponavo.
-  citata_rodoma: |
-    Lietuvos piliečiai žydai ir lenkai
-    Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes
-    lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavu-
-    sių žydų pirklių ir derliaus supirkėjų ir atvirkščiai.
+  citata_rodoma: "Lietuvos piliečiai žydai ir lenkai\nŠimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes \nlietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavu-\nsių žydų pirklių ir derliaus supirkėjų ir atvirkščiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75540
+    - t-001
+
 - id: c-24655
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -133,17 +127,15 @@ media_all_json: |-
     ceministras. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
     planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
     tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
-  citata_rodoma: |
-    Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
-    planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
-    tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
+  citata_rodoma: "Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos \nplanų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie \ntiktai prašė, visų pirma plačiausią kultūrinę autonomiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75542
+    - t-002
+
 - id: c-73291
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -168,4 +160,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75541
+    - t-003

@@ -36,7 +36,6 @@ Klimo, LIETUVIŲ KALBOS SINTAKSĖ.
 
 <a id="claim-t-96070"></a>
 - t-001
-  global_id: t-96070
   teiginys: "P. Klimo „Lietuvių kalbos sintaksės“ septintasis leidimas išleistas 1928 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Klimo, LIETUVIŲ KALBOS SINTAKSĖ.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96070
+    - t-001

@@ -30,7 +30,6 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
 
 <a id="claim-t-190118"></a>
 - t-001
-  global_id: t-190118
   teiginys: "Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūnumi, buvo galingas žmogus ir kaldino auksinius medalius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173001
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūnumi, buvo galingas žmogus ir kaldino auksinius medalius.'
@@ -69,8 +68,7 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190118
+
 ## Citatos
 
 - id: c-173001
@@ -88,22 +86,14 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
     ir uždainavo dainą, išreiškiančią džiaugsmą, kad jau kelio­
     nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
     (Betygola) pavadinimas.
-  citata_rodoma: |
-    219
-
-    ## Puslapis 219
-
-    bai“. Šitas neįkainojamas mūsų senovės paminklas -  tai įrody­
-    mas, kad Spera Palemonaitis, arba Palemono sūnus, buvo ga­
-    lingas žmogus, nes kaldino auksinius medalius. Tiktai kyla klau­
-    simas: ar XI amžiuje, kuriame gyveno Spera, egzistavo biar-
-    miškasis raidynas?
+  citata_rodoma: "219\n\n## Puslapis 219\n\nbai“. Šitas neįkainojamas mūsų senovės paminklas -  tai įrody­\nmas, kad Spera Palemonaitis, arba Palemono sūnus, buvo ga­\nlingas žmogus, nes kaldino auksinius medalius. Tiktai kyla klau­\nsimas: ar XI amžiuje, kuriame gyveno Spera, egzistavo biar-\nmiškasis raidynas?"
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190118
+    - t-001
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Palemonas]]

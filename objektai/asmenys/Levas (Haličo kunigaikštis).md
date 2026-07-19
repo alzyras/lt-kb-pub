@@ -31,7 +31,6 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
 
 <a id="claim-t-40306"></a>
 - t-001
-  global_id: t-40306
   teiginys: "Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,20 +66,14 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
     paėmę Naugarduką, eiti toliau į „Lietuvos žemę“.
 
     Tačiau pati Naugarduko pilis nebuvo paimta.
-  citata_rodoma: |
-    Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą
-    dieną atžygiavę rusėnų kunigaikščiai tūžo ant Haličo kunigaikščio
-
-    Levo, kad šis „pats su totoriais paėmė miestą“, nes ketino, drauge
-    paėmę Naugarduką, eiti toliau į „Lietuvos žemę“.
-
-    Tačiau pati Naugarduko pilis nebuvo paimta.
+  citata_rodoma: "Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą\ndieną atžygiavę rusėnų kunigaikščiai tūžo ant Haličo kunigaikščio\n\nLevo, kad šis „pats su totoriais paėmė miestą“, nes ketino, drauge\npaėmę Naugarduką, eiti toliau į „Lietuvos žemę“.\n\nTačiau pati Naugarduko pilis nebuvo paimta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40306
+    - t-001
+
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Totoriai]]

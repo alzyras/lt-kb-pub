@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-185923"></a>
 - t-001
-  global_id: t-185923
   teiginys: "Valachų valdovas atsisakė išduoti priglaustą Mykolą, nes jo orumas ir duotas žodis neleido perduoti svečio lenkams."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,7 +62,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169284
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Valachų valdovas atsisakė išduoti priglaustą Mykolą, nes jo orumas ir duotas žodis neleido perduoti svečio lenkams.'
@@ -83,8 +82,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185923
+
 ## Citatos
 
 - id: c-169284
@@ -113,20 +111,11 @@ Nenurodyta
     prie karaliaus kelių, įniko karščiausiai maldauti, pa­
     keitus nuosprendį, sugrąžinti jam tėvoniją bei tėvo
     turtus.
-  citata_rodoma: |
-    Šitaip pasielgus, iš tiesų jį pradėta
-    įtarinėti, ir karalius pareikalavo perduoti jį lenkams.
-    Valachų valdovas atsakė, kad nei jo paties orumas, nei
-    duotas žodis neleidžią šito padaryti, tai yra išduoti pri­
-    glaustą svečią, pažadėjęs vis dėlto taip viską patvarky­
-    ti, kad Mykolas kuo greičiausiai apleistų Valachiją. Va-
-    lachijos vaivados atstumtas, Mykolas pabėgo pas Kry­
-    mo skitus ir juos pakurstė surengti į Podolę niokojamą
-    antpuolį.
+  citata_rodoma: "Šitaip pasielgus, iš tiesų jį pradėta\nįtarinėti, ir karalius pareikalavo perduoti jį lenkams.\nValachų valdovas atsakė, kad nei jo paties orumas, nei\nduotas žodis neleidžią šito padaryti, tai yra išduoti pri­\nglaustą svečią, pažadėjęs vis dėlto taip viską patvarky­\nti, kad Mykolas kuo greičiausiai apleistų Valachiją. Va-\nlachijos vaivados atstumtas, Mykolas pabėgo pas Kry­\nmo skitus ir juos pakurstė surengti į Podolę niokojamą\nantpuolį."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185923
+    - t-001

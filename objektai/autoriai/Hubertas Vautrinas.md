@@ -38,7 +38,6 @@ Hubertas Vautrinas (1742–1822), apie 1770 m. keliavęs po Abiejų Tautų Respu
 
 <a id="claim-t-200743"></a>
 - t-001
-  global_id: t-200743
   teiginys: "Hubertas Vautrinas (1742–1822), apie 1770 m. keliavęs po Abiejų Tautų Respubliką, aprašė vengriško vyno gėrimą iš vienos taurės."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -67,8 +66,5 @@ Hubertas Vautrinas (1742–1822), apie 1770 m. keliavęs po Abiejų Tautų Respu
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200743
+    - t-001

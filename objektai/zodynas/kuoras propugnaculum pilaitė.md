@@ -36,8 +36,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
 ## Teiginiai
 
 <a id="claim-t-58785"></a>
-- t-001
-  global_id: t-58785
+- t-003
   teiginys: "Braunšveigo kunigaikštis ir Ordino broliai paėmė Partigalos pilį bei kuorą, sudegino juos, o žmones išsivedė į nelaisvę arba išžudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     - c-59420
 
 <a id="claim-t-58786"></a>
-- t-002
-  global_id: t-58786
+- t-001
   teiginys: "Prūsų pilaitė prie Wildenbergo aiškinama kaip buvusi greta vėlesnės Marienburgo pilies arba jos vietoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,8 +68,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     - c-59419
 
 <a id="claim-t-58787"></a>
-- t-003
-  global_id: t-58787
+- t-007
   teiginys: "Broliai užgrobė prūsų apeiginį katilą ir iš pamatų sugriovė visus tris Bartenšteino pilį supusius kuorus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -87,8 +84,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     - c-59422
 
 <a id="claim-t-58788"></a>
-- t-004
-  global_id: t-58788
+- t-006
   teiginys: "Prūsai aplink Bartenšteino pilį įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -102,10 +98,9 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59417
-    - c-001
+
 <a id="claim-t-58789"></a>
 - t-005
-  global_id: t-58789
   teiginys: "Prūsai abiejuose per Prieglių pastatyto tilto galuose įrengė tvirtus kuorus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -121,8 +116,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     - c-59423
 
 <a id="claim-t-58790"></a>
-- t-006
-  global_id: t-58790
+- t-004
   teiginys: "Karaliaučiaus, Kroicburgo ir Bartenšteino pilys buvo apsuptos trimis stipriais kuorais, kad apsuptieji negalėtų įeiti ar išeiti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -136,10 +130,9 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59418
-    - c-002
+
 <a id="claim-t-184006"></a>
-- t-007
-  global_id: t-184006
+- t-008
   teiginys: "Gubučiai Varmės žemėje pastatė Partigalos pilį ir kuorą Skrando kalne, sustiprindami jį įvairiais kariais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -159,8 +152,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     - c-167391
 
 <a id="claim-t-194455"></a>
-- t-009
-  global_id: t-194455
+- t-010
   teiginys: "Apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -170,7 +162,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59417
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -187,9 +179,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58788
-    - t-194455
+- t-194455
 - c-002
   santrauka: 'Karaliaučiaus, Kroicburgo ir Bartenšteino pilys buvo apsuptos trimis stipriais kuorais, kad apsuptieji negalėtų įeiti ar išeiti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -205,8 +195,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58790
+
 ## Citatos
 
 - id: c-59417
@@ -223,22 +212,16 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo,
     kurį šiems reikėjo perkelti iš vieno kuoro į kitą ir kuriame prūsai buvo pratę virti savo
     šventenybes, kaip reikalauja jų apeigos [secundum ritum ipsorum].
-  citata_rodoma: |
-    Apie Bartenšteino pilies puolimą
-
-      Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai
-    įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Be to, turėjo ir tris
-    apgulos mašinas, kuriomis puldinėjo pilį. Kol pilis buvo galutinai sunaikinta, ten buvę
-
-    MGP, p.
+  citata_rodoma: "Apie Bartenšteino pilies puolimą\n\n  Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai\nįrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Be to, turėjo ir tris\napgulos mašinas, kuriomis puldinėjo pilį. Kol pilis buvo galutinai sunaikinta, ten buvę\n\nMGP, p."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58788
-    - t-194455
+    - t-006
+    - t-010
+
 - id: c-59418
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -254,19 +237,15 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria
     kariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie
     pavakarę, jie atvyko į Karaliaučiaus pilį.
-  citata_rodoma: |
-    Kiekvieną pilį apsupo trimis
-    stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl
-    apsuptieji negalėjo nei įeiti, nei išeiti iš pilies. Vargu ar kas stengtų apsakyti, kiek atrėmė
-    antpuolių, kokių patyrė pavojų, kokį nepakeliamą alkį ir šiaip stygių kentė apsuptieji
-    broliai ir kiti žmonės šiose pilyse.
+  citata_rodoma: "Kiekvieną pilį apsupo trimis\nstipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl\napsuptieji negalėjo nei įeiti, nei išeiti iš pilies. Vargu ar kas stengtų apsakyti, kiek atrėmė\nantpuolių, kokių patyrė pavojų, kokį nepakeliamą alkį ir šiaip stygių kentė apsuptieji\nbroliai ir kiti žmonės šiose pilyse."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58790
+    - t-004
+
 - id: c-59419
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -284,7 +263,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58786
+    - t-001
+
 - id: c-59420
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -299,19 +279,15 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     pelenais, o žmones išsivesdami į nelaisvę arba išžudydami. Toliau būdamas Baigos
     pilyje, kunigaikštis tais metais ne sykį grūmėsi kovos lauke su prūsais ir daug kartų
     taip kamavo prusus, kad tie nė atsikvėpti negalėjo.
-  citata_rodoma: |
-    Sitai padarę, kunigaikštis bei broliai su savo
-    kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami
-    pelenais, o žmones išsivesdami  į nelaisvę arba išžudydami. Toliau būdamas Baigos
-    pilyje, kunigaikštis tais metais ne sykį grūmėsi kovos lauke su prūsais ir daug kartų
-    taip kamavo prusus, kad tie nė atsikvėpti negalėjo.
+  citata_rodoma: "Sitai padarę, kunigaikštis bei broliai su savo\nkariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami\npelenais, o žmones išsivesdami  į nelaisvę arba išžudydami. Toliau būdamas Baigos\npilyje, kunigaikštis tais metais ne sykį grūmėsi kovos lauke su prūsais ir daug kartų\ntaip kamavo prusus, kad tie nė atsikvėpti negalėjo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58785
+    - t-003
+
 - id: c-59422
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -331,7 +307,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58787
+    - t-007
+
 - id: c-59423
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -349,27 +326,15 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     vyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,
     kiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo
     matęs vedant nedidelį karių būrį.
-  citata_rodoma: |
-    Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
-
-      Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko  ir, apsvarstę visas
-    priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop  visi  it vienas sutarė
-    pastatyti  tiltą per Priegliaus upę, o abiejuose  tilto galuose įrengti tvirtus kuorus,
-    manydami galėsią šitaip trukdyti broliams plukdyti į Karaliaučiaus pilį visokius reikmenis.
-    Kai broliai minėtoje pilyje atsidūrė bado akivaizdoje, jie ryžosi verčiau žūti kovoje, nei
-    laukti negailestingos bado mirties, todėl apsiginklavo ir susėdo į laivus, o kai priplaukė
-    netoli tilto, nuleido inkarus, tačiau pakilo smarkus vėjas ir nubloškė juos prie pat tilto,
-    Žinoma, šitai įvyko dėl dievo apvaizdos; kopdami ant tilto, jie užtiko daugybę ginkluotų
-    vyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,
-    kiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo
-    matęs vedant nedidelį karių būrį.
+  citata_rodoma: "Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374\n\n  Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko  ir, apsvarstę visas\npriemones, kuriomis galėtų siekti savo niekšiško tikslo, galop  visi  it vienas sutarė\npastatyti  tiltą per Priegliaus upę, o abiejuose  tilto galuose įrengti tvirtus kuorus,\nmanydami galėsią šitaip trukdyti broliams plukdyti į Karaliaučiaus pilį visokius reikmenis.\nKai broliai minėtoje pilyje atsidūrė bado akivaizdoje, jie ryžosi verčiau žūti kovoje, nei\nlaukti negailestingos bado mirties, todėl apsiginklavo ir susėdo į laivus, o kai priplaukė\nnetoli tilto, nuleido inkarus, tačiau pakilo smarkus vėjas ir nubloškė juos prie pat tilto,\nŽinoma, šitai įvyko dėl dievo apvaizdos; kopdami ant tilto, jie užtiko daugybę ginkluotų\nvyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,\nkiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo\nmatęs vedant nedidelį karių būrį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58789
+    - t-005
+
 - id: c-167391
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -387,4 +352,4 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184006
+    - t-008

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20354"></a>
 - t-001
-  global_id: t-20354
   teiginys: "Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama sukurti bendrą Europos aukštojo mokslo erdvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,12 +83,11 @@ Nenurodyta
     lies tapo mokamas. Siekdama savo švietimo sistemą integruoti į Europą,
     Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-
     kurti bendrą Europos aukštojo mokslo erdvę.
-  citata_rodoma: |
-    Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-
+  citata_rodoma: "Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20354
+    - t-001

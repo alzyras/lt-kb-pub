@@ -36,7 +36,6 @@ Dusburgietis teigia, kad pakarklis P.
 
 <a id="claim-t-61212"></a>
 - t-001
-  global_id: t-61212
   teiginys: "P. Pakarklio „Lietuvių kova prieš kalavijuočius“ išleistas Panevėžyje 1945 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,15 +62,12 @@ Dusburgietis teigia, kad pakarklis P.
   citata_originali: |
     Pakarklis P. Lietuvių kova prieš kalavijuočius — Panevėžys, 1945.
 
-    Pakarklis P.
-  citata_rodoma: |
-    Pakarklis P. Lietuvių kova prieš kalavijuočius — Panevėžys, 1945.
-
-    Pakarklis P.
+    Pakarklis P. Kryžiuočių valstybės santvarkos bruožai.— K., 1948.
+  citata_rodoma: "Pakarklis P. Lietuvių kova prieš kalavijuočius — Panevėžys, 1945.\n\nPakarklis P."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61212
+    - t-001

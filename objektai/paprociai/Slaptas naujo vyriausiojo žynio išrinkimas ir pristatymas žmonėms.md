@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189941"></a>
 - t-001
-  global_id: t-189941
   teiginys: "Narbutas aprašo paprotį, kai po vyriausiojo žynio mirties vaidilos slapta išrinkdavę įpėdinį ir žmonėms skelbdavę jį dievų pasirinktu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189941
+    - t-001

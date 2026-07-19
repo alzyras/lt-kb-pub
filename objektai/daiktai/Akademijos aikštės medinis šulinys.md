@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-54479"></a>
 - t-001
-  global_id: t-54479
   teiginys: "Akademijos aikštėje buvo medinis keturių šulų šulinys su stogeliu ir volu vandeniui traukti."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -88,15 +87,11 @@ Nenurodyta
     kairėje durys su vyriais į kamarėlę malkoms laikyti, o Aka­
     demijos aikštės dešinėje pusėje - medinis šulinys, 4 šulų, su
     stogeliu ir volu vandeniui traukti.
-  citata_rodoma: |
-    Nulipus laiptais žemyn į Akademijos aikštės kitą pusę:
-    kairėje durys su vyriais į kamarėlę malkoms laikyti, o Aka­
-    demijos aikštės dešinėje pusėje - medinis šulinys, 4 šulų, su
-    stogeliu ir volu vandeniui traukti.
+  citata_rodoma: "Nulipus laiptais žemyn į Akademijos aikštės kitą pusę: \nkairėje durys su vyriais į kamarėlę malkoms laikyti, o Aka­\ndemijos aikštės dešinėje pusėje - medinis šulinys, 4 šulų, su \nstogeliu ir volu vandeniui traukti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54479
+    - t-001

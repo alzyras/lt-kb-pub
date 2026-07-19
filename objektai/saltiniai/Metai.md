@@ -43,8 +43,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-45739"></a>
-- t-001
-  global_id: t-45739
+- t-014
   teiginys: "1818 m. Karaliaučiuje Liudvikas Rėza išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ media_all_json: |-
     - c-48444
 
 <a id="claim-t-45740"></a>
-- t-002
-  global_id: t-45740
+- t-010
   teiginys: "Kristijono Donelaičio poema „Metai“ apibūdinama kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys Mažojoje Lietuvoje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ media_all_json: |-
     - c-23907
 
 <a id="claim-t-45741"></a>
-- t-003
-  global_id: t-45741
+- t-012
   teiginys: "Karaliaučiuje Liudvikas Rėza išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -100,8 +97,7 @@ media_all_json: |-
     - c-23908
 
 <a id="claim-t-45742"></a>
-- t-004
-  global_id: t-45742
+- t-011
   teiginys: "Apie 1750 m. sukurta Kristijono Donelaičio poema „Metai“ laikoma pirmuoju reikšmingu lietuviakalbės literatūros kūriniu Mažojoje Lietuvoje."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -120,8 +116,7 @@ media_all_json: |-
     - c-23907
 
 <a id="claim-t-45743"></a>
-- t-005
-  global_id: t-45743
+- t-013
   teiginys: "Kristijono Donelaičio poema „Metai“ apie 1750 m. Mažojoje Lietuvoje iškilo kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -140,8 +135,7 @@ media_all_json: |-
     - c-23907
 
 <a id="claim-t-45744"></a>
-- t-006
-  global_id: t-45744
+- t-009
   teiginys: "Kristijono Donelaičio poema „Metai“ datuojama apie 1750 m."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -173,21 +167,18 @@ media_all_json: |-
     kas daugiau nei pačioje Lietuvoje. Mažojoje Lietuvoje iškilo ir pirmasis
     reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
     laičio poema „Metai“ (apie 1750).
-  citata_rodoma: |
-    Paradoksas – svetima valstybė, o lietuviškos raštijos kur
-    kas daugiau nei pačioje Lietuvoje. Mažojoje Lietuvoje iškilo ir pirmasis
-    reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
-    laičio poema „Metai“ (apie 1750).
+  citata_rodoma: "Paradoksas – svetima valstybė, o lietuviškos raštijos kur\nkas daugiau nei pačioje Lietuvoje. Mažojoje Lietuvoje iškilo ir pirmasis\nreikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-\nlaičio poema „Metai“ (apie 1750)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45740
-    - t-45742
-    - t-45743
-    - t-45744
+    - t-010
+    - t-011
+    - t-013
+    - t-009
+
 - id: c-23908
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -199,18 +190,15 @@ media_all_json: |-
     mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
     Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
     poe­ma „Metai“ (su vertimu į vokiečių kalbą).
-  citata_rodoma: |
-    Karaliaučiuje žymaus
-    mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
-    Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
-    poe­ma „Metai“ (su vertimu į vokiečių kalbą).
+  citata_rodoma: "Karaliaučiuje žymaus\nmokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio\nMažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta\npoe­ma „Metai“ (su vertimu į vokiečių kalbą)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45741
+    - t-012
+
 - id: c-48444
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -227,4 +215,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45739
+    - t-014

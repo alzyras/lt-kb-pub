@@ -31,9 +31,8 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
 
 <a id="claim-t-191121"></a>
 - t-001
-  global_id: t-191121
   teiginys: "Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnams dar buvo visiškai nežinomas."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174003
-    - c-001
+
 <a id="claim-t-191122"></a>
 - t-002
-  global_id: t-191122
   teiginys: "Narbutas mini spėjimą, kad Strabonas, kaip šališkas Pitėjo aiškintojas, daug ką jam priskyrė svetimo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,10 +68,9 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174004
-    - c-002
+
 <a id="claim-t-191123"></a>
 - t-003
-  global_id: t-191123
   teiginys: "Narbutas nurodo Straboną tarp autorių, kurie kalbėjo apie vandens lygio kritimą ir pateikė akivaizdžių įrodymų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -91,10 +88,9 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174005
-    - c-003
+
 <a id="claim-t-197817"></a>
 - t-004
-  global_id: t-197817
   teiginys: "Spėjama, kad šališkas jo aiškin tojas Strabonas daug ką jam priskyrė svetimo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -123,8 +119,6 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191121
 - c-002
   santrauka: 'Narbutas mini spėjimą, kad Strabonas, kaip šališkas Pitėjo aiškintojas, daug ką jam priskyrė svetimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -139,8 +133,6 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191122
 - c-003
   santrauka: 'Narbutas nurodo Straboną tarp autorių, kurie kalbėjo apie vandens lygio kritimą ir pateikė akivaizdžių įrodymų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -166,8 +158,7 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191123
+
 ## Citatos
 
 - id: c-174003
@@ -186,22 +177,15 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
     ir vadina ją Baltija3, t. y. tą pačią, kurią anksčiau minėti
     autoriai vadino Basilia. Mitridatas Eupatoras* ją dar va­
     dina Osericta.
-  citata_rodoma: |
-    Iš
-    to Bazilija, arba šiandienė Semba, buvo vaizduojama čia
-    pat, virš Galijos. Tai, ką čia pateikėme, įrodė ir parašė
-    Diodoro amžininkas Strabonas: „Visas žemynas, esąs už
-    Elbės upės, aukštyn net iki didelės jūros yra dar visiškai
-    nežinomas, nes romėnai niekad nenuplaukė toliau Elbės
-    ir niekas dar neapvažiavo sausuma tų tolimų plotų“1. Ki­
-    tur jis visiškai pasitiki Pitėjo aprašymais2.
+  citata_rodoma: "Iš\nto Bazilija, arba šiandienė Semba, buvo vaizduojama čia\npat, virš Galijos. Tai, ką čia pateikėme, įrodė ir parašė\nDiodoro amžininkas Strabonas: „Visas žemynas, esąs už\nElbės upės, aukštyn net iki didelės jūros yra dar visiškai\nnežinomas, nes romėnai niekad nenuplaukė toliau Elbės\nir niekas dar neapvažiavo sausuma tų tolimų plotų“1. Ki­\ntur jis visiškai pasitiki Pitėjo aprašymais2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191121
+    - t-001
+
 - id: c-174004
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -216,19 +200,15 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
     ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
     jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
     vintais jėzuitų aprašymais.
-  citata_rodoma: |
-    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
-    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
-    Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
-    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
-    tojas Strabonas daug ką jam priskyrė svetimo.
+  citata_rodoma: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir­\nmą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado\nBaltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar\ntoliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­\ntojas Strabonas daug ką jam priskyrė svetimo."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191122
+    - t-002
+
 - id: c-174005
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -251,30 +231,15 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
     mėse, kurios tarsi įrodo jos mažėjimą. Tačiau esama dar
     1 Tacitas kildina iš lotyniško žodžio germanus, gimtas.
-  citata_rodoma: |
-    Tačiau Kelsijus ir Dalinas per­
-    nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
-    Kristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po
-    keturių tūkstančių metų jos neliks nė pėdsako. Antra
-    vertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,
-    Ovidijus kalba apie vandens lygio kritimą, pateikdami
-    akivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis
-    apie
-    Baltijos
-    jūrą“).
-    Seni
-    venecijiečių
-    žemėlapiai
-    šiai jūrai skiria gerokai didesnį plotą, negu ji užima
-    šiandien, be to, matoma daug pavyzdžių ir gretimose že­
-    mėse, kurios tarsi įrodo jos mažėjimą.
+  citata_rodoma: "Tačiau Kelsijus ir Dalinas per­\nnelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo\nKristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po\nketurių tūkstančių metų jos neliks nė pėdsako. Antra\nvertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,\nOvidijus kalba apie vandens lygio kritimą, pateikdami\nakivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis\napie\nBaltijos\njūrą“).\nSeni\nvenecijiečių\nžemėlapiai\nšiai jūrai skiria gerokai didesnį plotą, negu ji užima\nšiandien, be to, matoma daug pavyzdžių ir gretimose že­\nmėse, kurios tarsi įrodo jos mažėjimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191123
+    - t-003
+
 - id: c-179352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -293,4 +258,4 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197817
+    - t-004

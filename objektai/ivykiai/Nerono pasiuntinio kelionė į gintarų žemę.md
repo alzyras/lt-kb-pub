@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201297"></a>
 - t-001
-  global_id: t-201297
   teiginys: "Neronas, rymionų viešpats, paskendęs lepume ir goslume, geisdamąs dar didžiuotis Rymo akivaizdoj įvairia puikybe bei turtais, liepė eržilui savo rūmų, arba kavalieriui, keliauti į gintarų žemę ir jų tenai pirkti kiek gaunant."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184647
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Daug aiškesnę žinią turi tie patys rymionys apie
     tuos kraštus antroj pradžioj pirmojo amžiaus. Nero-
@@ -77,4 +77,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201297
+    - t-001

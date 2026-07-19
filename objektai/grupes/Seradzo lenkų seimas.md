@@ -30,7 +30,6 @@ Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją 
 
 <a id="claim-t-185455"></a>
 - t-001
-  global_id: t-185455
   teiginys: "Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją ir sušaukė Seradzo lenkų seimą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185455
+    - t-001

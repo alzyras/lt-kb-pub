@@ -7,10 +7,10 @@ datos:
   - '1555 m.'
 date_start: '1555'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-201992"></a>
 - t-001
-  global_id: t-201992
   teiginys: "Mikalojaus Popinigio antspaudas, kurį jis kaip liudytojas prispaudė prie vieno sandorio akto."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -59,6 +58,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185339
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -78,4 +80,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201992
+    - t-001

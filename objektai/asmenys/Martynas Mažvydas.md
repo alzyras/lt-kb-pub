@@ -39,8 +39,7 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
 ## Teiginiai
 
 <a id="claim-t-19125"></a>
-- t-001
-  global_id: t-19125
+- t-003
   teiginys: "Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa pateikė pirmą lietuvišką knygą ir pradėjo lietuviakalbės raštijos tradiciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
 
 <a id="claim-t-19126"></a>
 - t-002
-  global_id: t-19126
   teiginys: "1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas Abraomo Kulviečio ir Stanislovo Rapolionio programos dalimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
     - c-21875
 
 <a id="claim-t-19127"></a>
-- t-003
-  global_id: t-19127
+- t-001
   teiginys: "Martynas Mažvydas siejamas su 1547 m. Karaliaučiuje išspausdintu „Katekizmu“, pirmąja knyga lietuvių kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,17 +106,15 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
     Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai kny-
     gai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-
     dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai.
-  citata_rodoma: |
-    Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai kny-
-    gai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-
-    dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai.
+  citata_rodoma: "Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai kny-\ngai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-\ndintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19127
+    - t-001
+
 - id: c-21875
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -137,15 +132,15 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
     maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų
     programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Ka-
     tekizmą“.
-  citata_rodoma: |
-    maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų
+  citata_rodoma: "maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19126
+    - t-002
+
 - id: c-21876
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -159,12 +154,11 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
     Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi
     pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau
     ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.
-  citata_rodoma: |
-    pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau
+  citata_rodoma: "pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19125
+    - t-003

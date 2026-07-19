@@ -30,8 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187945"></a>
-- t-001
-  global_id: t-187945
+- t-002
   teiginys: "Įvadinis tekstas Vilhelmą Robertsoną vadina vienu žymiausių XVIII-XIX a. Europos istorikų, kurių darbus vertė Vilniaus universiteto auklėtiniai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::authors"
@@ -59,15 +58,11 @@ media_all_json: |-
     auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
     Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
     Vilhelmo Gizo, Johano Miulerio - darbus.
-  citata_rodoma: |
-    Vilniaus universiteto
-    auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
-    Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
-    Vilhelmo Gizo, Johano Miulerio -  darbus.
+  citata_rodoma: "Vilniaus universiteto\nauklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -\nVilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro\nVilhelmo Gizo, Johano Miulerio -  darbus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187945
+    - t-002

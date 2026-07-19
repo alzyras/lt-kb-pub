@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185577"></a>
 - t-001
-  global_id: t-185577
   teiginys: "Karaliaus ginkluotosios jėgos pasuko į Vengriją, o Jonas Olbrachtas nenoromis sutiko dalyvauti žygyje prieš brolį."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -68,23 +67,8 @@ Nenurodyta
   pagrindžia:
     - c-168938
 
-<a id="claim-t-196168"></a>
-- t-002
-  global_id: t-196168
-  teiginys: "Kojelavičiaus pasakojime Jonas Olbrachtas prisiminė brolio Kazimiero patirtį ir vengrų elgesį laikė apgavyste."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178566
-
 <a id="claim-t-196169"></a>
-- t-003
-  global_id: t-196169
+- t-005
   teiginys: "Tėvo raginamas ir gavęs iš jo karių, Jonas Olbrachtas leidosi į Vengriją, tačiau vengrams nuo jo nusigręžus grįžo į Lenkiją nieko nelaimėjęs."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -126,7 +110,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185577
+    - t-001
+
 - id: c-168939
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -146,26 +131,15 @@ Nenurodyta
     tuo tarpu pastarasis piktinosi ir puoselėjo širdyje kerštą
     sūnui Vladislovui, Čekijos karaliui, skatindamas Joną
     pradėti karą.
-  citata_rodoma: |
-    Kadangi tėvas karštai
-    reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis,
-    gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė­
-    damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa­
-    grįstas. Mat vengrai nuo jo nusigręžė, ir jis, nieko ne­
-    pešęs, turėjo grįžti į Lenkiją. Sį laimės ar žmonių ne­
-    pastovumą kur kas nuosaikiau sutiko jaunikaitis nei
-    jo iškaršęs tėvas. Mat pirmasis, vos išvykęs iš Veng­
-    rijos, liovėsi kvaršinęs sau galvą mintimis apie sostą,
-    tuo tarpu pastarasis piktinosi ir puoselėjo širdyje kerštą
-    sūnui Vladislovui, Čekijos karaliui, skatindamas Joną
-    pradėti karą.
+  citata_rodoma: "Kadangi tėvas karštai \nreikalavo, kad jis pasinaudotų pasitaikiusia proga, jis, \ngavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė­\ndamas šiokias tokias viltis, bet, kaip paaiškėjo, nepa­\ngrįstas. Mat vengrai nuo jo nusigręžė, ir jis, nieko ne­\npešęs, turėjo grįžti į Lenkiją. Sį laimės ar žmonių ne­\npastovumą kur kas nuosaikiau sutiko jaunikaitis nei \njo iškaršęs tėvas. Mat pirmasis, vos išvykęs iš Veng­\nrijos, liovėsi kvaršinęs sau galvą mintimis apie sostą, \ntuo tarpu pastarasis piktinosi ir puoselėjo širdyje kerštą \nsūnui Vladislovui, Čekijos karaliui, skatindamas Joną \npradėti karą."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196169
+    - t-005
+
 - id: c-178566
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -185,5 +159,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-196168

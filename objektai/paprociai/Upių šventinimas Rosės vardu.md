@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-192091"></a>
 - t-001
-  global_id: t-192091
   teiginys: "Narbutas upių šventinimą Rosės vardu aiškina kaip vieną iš lietuvių tautos religinių skolinių iš indų budistų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-192092"></a>
 - t-002
-  global_id: t-192092
   teiginys: "Pasak Narbuto, Volkovysko apylinkių upė buvo pavadinta religiniu vardu Ros, kuris išliko nepakitęs."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -87,11 +85,10 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174960
-    - c-001
-    - c-003
+    - c-175304
+
 <a id="claim-t-192516"></a>
-- t-003
-  global_id: t-192516
+- t-004
   teiginys: "Narbutas Rosės pavadinimo kilmę sieja su upių šventinimu Rosės vardu ir lietuvių religijos skoliniais iš indų budistų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -132,8 +129,6 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192092
 - c-003
   santrauka: 'Pasak Narbuto, Volkovysko apylinkių upė buvo pavadinta religiniu vardu Ros, kuris išliko nepakitęs.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -152,8 +147,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192092
+
 ## Citatos
 
 - id: c-174960
@@ -176,16 +170,15 @@ Nenurodyta
     abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
     tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
     nės sutampa.
-  citata_rodoma: |
-    Si upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar
-    išliko visiškai nepakitęs.
+  citata_rodoma: "Si upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar\nišliko visiškai nepakitęs."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192092
+    - t-002
+
 - id: c-174961
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -202,23 +195,16 @@ Nenurodyta
     tojai prisimena anksčiau šia tema sakytus dalykus (§55),
     ir norėdami geriau suprasti visą dalyką, turime papildomai
     aiškinti.
-  citata_rodoma: |
-    Nekartosime to, ką jau sa­
-    kėme daugelyje šio veikalo vietų, — kad lietuvių tauta
-    pasiskolino daugelį religijos dalykų iš indų budistų, o
-    ypač apie upių šventinimą Rosės vardu; dabar priėjome
-    tą mūsų veikalo vietą, kur kalbėsime apie svarbiausią
-    šiuo vardu pavadintą upę, arba Nemuno žemupio dešinią­
-    ją šaką, kuri vadinama ir Rusia, nes prie jos yra ir kraš­
-    tas, turintis Rusios vardą.
+  citata_rodoma: "Nekartosime to, ką jau sa­\nkėme daugelyje šio veikalo vietų, — kad lietuvių tauta\npasiskolino daugelį religijos dalykų iš indų budistų, o\nypač apie upių šventinimą Rosės vardu; dabar priėjome\ntą mūsų veikalo vietą, kur kalbėsime apie svarbiausią\nšiuo vardu pavadintą upę, arba Nemuno žemupio dešinią­\nją šaką, kuri vadinama ir Rusia, nes prie jos yra ir kraš­\ntas, turintis Rusios vardą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192091
-    - t-192516
+    - t-001
+    - t-004
+
 - id: c-175304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -234,18 +220,11 @@ Nenurodyta
     abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
     tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
     nės sutampa.
-  citata_rodoma: |
-    Čia
-    atsivėrė vietovė, kur galima buvo saugiai įsikurti prie
-    upės, plukdančios savo vandenis per gražias apylinkes;
-    ji dar ir šiandien bėga per tankiausiai gyvenamas, gra­
-    žiausias ir derlingiausias Volkovysko apskrities apylinkes.
-    Si upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar
-    išliko visiškai nepakitęs. Be šių įrodymų, turime ir seno­
-    vės autorių paliktų, ir naujų laikų tyrimais patvirtintų
-    paminklų.
+  citata_rodoma: "Čia\natsivėrė vietovė, kur galima buvo saugiai įsikurti prie\nupės, plukdančios savo vandenis per gražias apylinkes;\nji dar ir šiandien bėga per tankiausiai gyvenamas, gra­\nžiausias ir derlingiausias Volkovysko apskrities apylinkes.\nSi upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar\nišliko visiškai nepakitęs. Be šių įrodymų, turime ir seno­\nvės autorių paliktų, ir naujų laikų tyrimais patvirtintų\npaminklų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

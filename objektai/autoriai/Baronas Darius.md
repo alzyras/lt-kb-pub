@@ -7,12 +7,12 @@ datos:
   - '2006 m.'
 date_start: '2006'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XXI'
 periodo_grupes:
   - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XXI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Sud. Darius Baronas, Vilnius, 2006, p. 117-138; Prikockienė Asta.
 
 <a id="claim-t-202223"></a>
 - t-001
-  global_id: t-202223
   teiginys: "Sud. Darius Baronas, Vilnius, 2006, p. 117-138; Prikockienė Asta."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Sud. Darius Baronas, Vilnius, 2006, p. 117-138; Prikockienė Asta.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202223
+    - t-001

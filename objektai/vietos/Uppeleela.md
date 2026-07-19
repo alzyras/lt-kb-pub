@@ -32,7 +32,6 @@ Teodoras Narbutas spėjo, kad Uppeleela buvo miestas prie nežinomos upės, galb
 
 <a id="claim-t-192858"></a>
 - t-001
-  global_id: t-192858
   teiginys: "Teodoras Narbutas spėjo, kad Uppeleela buvo miestas prie nežinomos upės, galbūt įtekančios į Engūrės ežerą, krantų ar žiočių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Teodoras Narbutas spėjo, kad Uppeleela buvo miestas prie nežinomos upės, galb
 
 <a id="claim-t-197935"></a>
 - t-002
-  global_id: t-197935
   teiginys: "Ant jos krantų, gal prie žiočių, buvo miestas Uppeleela; iš čia svetimšaliai autoriai mini Apuliją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -83,5 +81,5 @@ Teodoras Narbutas spėjo, kad Uppeleela buvo miestas prie nežinomos upės, galb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192858
-    - t-197935
+    - t-001
+    - t-002

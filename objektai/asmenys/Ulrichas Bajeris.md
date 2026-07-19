@@ -30,8 +30,7 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
 ## Teiginiai
 
 <a id="claim-t-60070"></a>
-- t-001
-  global_id: t-60070
+- t-003
   teiginys: "Ulrichas Bajeris, Tepliavos komtūras, žuvo mūšyje, kuriame taip pat krito keturi vyrai, o Liudvikas iš Libencelės pateko į nelaisvę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -45,10 +44,9 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60702
-    - c-001
+
 <a id="claim-t-60071"></a>
 - t-002
-  global_id: t-60071
   teiginys: "Dusburgietis Ulrichą Bajerį apibūdina kaip narsų brolį, ryždavusįsi sunkiems žygiams ir dariusį sūduviams didelių nuostolių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,10 +60,9 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60704
-    - c-003
+
 <a id="claim-t-60072"></a>
-- t-003
-  global_id: t-60072
+- t-001
   teiginys: "Ulrichas Bajeris, Tepliavos komtūras, su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, žudė ir ėmė belaisvius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,7 +76,6 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60703
-    - c-002
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175122|Sūduviai-jotvingiai]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.
 - susijęs iš [[objektai/ivykiai/Ulricho Bajerio žygis į Sūduvą.md#claim-t-62515|Ulricho Bajerio žygis į Sūduvą]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino, grobė, paėmė ir nužudė 150 žmonių.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89239|Sūduviai]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.
@@ -98,8 +94,6 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60070
 - c-002
   santrauka: 'Ulrichas Bajeris, Tepliavos komtūras, su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, žudė ir ėmė belaisvius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -116,8 +110,6 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60072
 - c-003
   santrauka: 'Dusburgietis Ulrichą Bajerį apibūdina kaip narsų brolį, ryždavusįsi sunkiems žygiams ir dariusį sūduviams didelių nuostolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -131,8 +123,7 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60071
+
 ## Citatos
 
 - id: c-60702
@@ -147,22 +138,15 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
     žaizdų vėl smarkiai paplūdo kraujas, o šitai ir išgelbėjo sužeistąjį, kaip jis pats vėliau
     teisingai sakė. Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną
     kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
-  citata_rodoma: |
-    Šiame kare krito nukauti
-    brolis Ulrichas Bajeris, Tepliavos komtūras, bei 4 vyrai, o brolis Liudvikas iš Libencelės
-    pakliuvo į nelaisvę.
-
-
-
-
-     210 (205).
+  citata_rodoma: "Šiame kare krito nukauti\nbrolis Ulrichas Bajeris, Tepliavos komtūras, bei 4 vyrai, o brolis Liudvikas iš Libencelės\npakliuvo į nelaisvę.\n\n\n\n\n 210 (205)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60070
+    - t-003
+
 - id: c-60703
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -179,21 +163,15 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
     pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo
     kariuomenę ir grabnyčių dieną (vasario 2) įsiveržė į Sūduvos valsčių, vardu Kresmena501,
     kurį niokojo, degindamas ir grobdamas.
-  citata_rodoma: |
-    Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį
-
-      Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris,
-    Tepliavos komtūras, su 12 brolių  ir 250 raitelių įsiveržė  į Sūduvą  ir, neskaitant kitų
-    nuostolių, kurių pridarė šiai žemei, degindamas ir grobdamas, paėmė ir nužudė 150
-    žmonių, išsivarė į nelaisvę kilmingųjų žmonas, sūnus, dukteris ir šeimyną; šitaip sūduviai
-    čia kur kas daugiau prarado, nei buvo pelnę Semboje.
+  citata_rodoma: "Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį\n\n  Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris,\nTepliavos komtūras, su 12 brolių  ir 250 raitelių įsiveržė  į Sūduvą  ir, neskaitant kitų\nnuostolių, kurių pridarė šiai žemei, degindamas ir grobdamas, paėmė ir nužudė 150\nžmonių, išsivarė į nelaisvę kilmingųjų žmonas, sūnus, dukteris ir šeimyną; šitaip sūduviai\nčia kur kas daugiau prarado, nei buvo pelnę Semboje."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60072
+    - t-001
+
 - id: c-60704
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -206,18 +184,15 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
     kurį niokojo, degindamas ir grobdamas. Be kita ko, sudegino Skomanto, galingo vyro bei
     šio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu
     grobiu sugrįžo namo.
-  citata_rodoma: |
-    Apie brolio Ulricho kovas su sūduviais
-
-      Tas brolis Ulrichas garsėjo narsa. Jis mat ryždavosi tokiems sunkiems žygiams, apie
-    kuriuos bailys nedrįsdavo nė pagalvoti. Jis pridarė suduyiams nesuskaičiuojamų nuostolių.
+  citata_rodoma: "Apie brolio Ulricho kovas su sūduviais\n\n  Tas brolis Ulrichas garsėjo narsa. Jis mat ryždavosi tokiems sunkiems žygiams, apie\nkuriuos bailys nedrįsdavo nė pagalvoti. Jis pridarė suduyiams nesuskaičiuojamų nuostolių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60071
+    - t-002
+
 ## Ryšiai
 - Ulrichas Bajeris puolė [[objektai/vietos/Sūduva]]
 - Ulrichas Bajeris surengė žygį į [[objektai/vietos/Sūduva]]

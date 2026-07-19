@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-39286"></a>
 - t-001
-  global_id: t-39286
   teiginys: "Sovietų lengvasis kulkosvaidis DP naudojo 7,62x54 mm R šovinius, 47 šovinių diską ir svėrė 9,12 kg."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,4 +99,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39286
+    - t-001

@@ -46,8 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07763"></a>
-- t-001
-  global_id: t-07763
+- t-004
   teiginys: "Senieji kalnėnai ir žemaičiai girias taupė ir laikė šventomis, todėl be girių kunigo žinios į jas nebuvo galima nei įžengti, nei žalio virbelio išlaužti."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -63,8 +62,7 @@ Nenurodyta
     - c-09920
 
 <a id="claim-t-07764"></a>
-- t-002
-  global_id: t-07764
+- t-005
   teiginys: "Ąžuolus ir ąžuolynus kalnėnai bei žemaičiai garbino ypač stipriai, juos kirsti galėjo tik kunigai, o ąžuolynai ir lieknai veikė kaip šventos garbinimo vietos."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -93,18 +91,15 @@ Nenurodyta
         pasauses tiktai namų medžiagai ir padarynei tekirto, o sankritomis ir sausšakėmis namuose šildės; ir taip, juo naudingesnis medis žmogaus gyvenimui buvo, juo didžiau jį saugojo, ne vien
         tūlus medžius, bet ir cielas girias taupė ir už šventas turėjo, iš kurių be žinios girių kunigo
         niekšai ne vien žalio virbelio išlaužti, bet įžengti tenai negalėjo, negut, galą daromas, kaipo šventoj vietoj globos sau veizėjo.
-  citata_rodoma: |
-    Regėdami senieji tokią naudą iš tų girių didžiai jas gerbė ir augino, žalius medžius laikė, o
-    pasauses tiktai namų medžiagai ir padarynei tekirto, o sankritomis ir sausšakėmis namuose šildės; ir taip, juo naudingesnis medis žmogaus gyvenimui buvo, juo didžiau jį saugojo, ne vien
-    tūlus medžius, bet ir cielas girias taupė ir už šventas turėjo, iš kurių be žinios girių kunigo
-    niekšai ne vien žalio virbelio išlaužti, bet įžengti tenai negalėjo, negut, galą daromas, kaipo šventoj vietoj globos sau veizėjo.
+  citata_rodoma: "Regėdami senieji tokią naudą iš tų girių didžiai jas gerbė ir augino, žalius medžius laikė, o\npasauses tiktai namų medžiagai ir padarynei tekirto, o sankritomis ir sausšakėmis namuose šildės; ir taip, juo naudingesnis medis žmogaus gyvenimui buvo, juo didžiau jį saugojo, ne vien\ntūlus medžius, bet ir cielas girias taupė ir už šventas turėjo, iš kurių be žinios girių kunigo\nniekšai ne vien žalio virbelio išlaužti, bet įžengti tenai negalėjo, negut, galą daromas, kaipo šventoj vietoj globos sau veizėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07763
+    - t-004
+
 - id: c-09921
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -115,16 +110,11 @@ Nenurodyta
         uoksuose, šėtra^171 uždengtus, savo dievų stabus laikė ir tenai meldės, šventą ugnį kūrindami,
         nesgi, kaip tuojau regėsim, bažnyčių neturėjo, bet jų vietoj buvo ąžuolynai ir lieknai, kuriuose
         dievą šio pasaulio Perūną garbino, todėl ir tas girias it šventas vietas gerbė ir godojo.
-  citata_rodoma: |
-    Ąžuolus ir ąžuolynus pervis didžiau gerbė, kurių malka pagal jų nuomonę reikėjo šventą ugnį tuoįtimpos^168 ant dievo garbės kūrinti iki pabangos^169 šio pasaulio, todėl ąžuolus kirsti, kaipo šventus medžius, patys kunigai šventais kirviais tegalėjo. Ne vien buvo
-    perdėti^170 ant tų girių kunigai, kurie jas saugojo, bet ant didesnio jų orumo visų dideliojo ąžuolo
-    uoksuose, šėtra^171 uždengtus, savo dievų stabus laikė ir tenai meldės, šventą ugnį kūrindami,
-    nesgi, kaip tuojau regėsim, bažnyčių neturėjo, bet jų vietoj buvo ąžuolynai ir lieknai, kuriuose
-    dievą šio pasaulio Perūną garbino, todėl ir tas girias it šventas vietas gerbė ir godojo.
+  citata_rodoma: "Ąžuolus ir ąžuolynus pervis didžiau gerbė, kurių malka pagal jų nuomonę reikėjo šventą ugnį tuoįtimpos^168 ant dievo garbės kūrinti iki pabangos^169 šio pasaulio, todėl ąžuolus kirsti, kaipo šventus medžius, patys kunigai šventais kirviais tegalėjo. Ne vien buvo\nperdėti^170 ant tų girių kunigai, kurie jas saugojo, bet ant didesnio jų orumo visų dideliojo ąžuolo\nuoksuose, šėtra^171 uždengtus, savo dievų stabus laikė ir tenai meldės, šventą ugnį kūrindami,\nnesgi, kaip tuojau regėsim, bažnyčių neturėjo, bet jų vietoj buvo ąžuolynai ir lieknai, kuriuose\ndievą šio pasaulio Perūną garbino, todėl ir tas girias it šventas vietas gerbė ir godojo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07764
+    - t-005

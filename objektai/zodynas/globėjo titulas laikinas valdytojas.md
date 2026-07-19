@@ -31,7 +31,6 @@ Kojelavičius svarstė, kodėl Trobiui reikėjo globėjo titulu valdyti Lietuvą
 
 <a id="claim-t-185404"></a>
 - t-001
-  global_id: t-185404
   teiginys: "Kojelavičius svarstė, kodėl Trobiui reikėjo globėjo titulu valdyti Lietuvą, kai buvo tinkamų Romunto sūnų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Kojelavičius svarstė, kodėl Trobiui reikėjo globėjo titulu valdyti Lietuvą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185404
+    - t-001

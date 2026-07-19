@@ -31,7 +31,6 @@ Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbos žodyną, kuria
 
 <a id="claim-t-191503"></a>
 - t-001
-  global_id: t-191503
   teiginys: "Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbos žodyną, kuriame Narbutas nerado reikšmingo panašumo į lietuvių kalbą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbos žodyną, kuria
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191503
+    - t-001

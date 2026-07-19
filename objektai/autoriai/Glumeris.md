@@ -39,7 +39,6 @@ Narbutas rašė, kad XVII a. kunigas Glumeris Henriko Latvio kronikos pastabose 
 
 <a id="claim-t-190424"></a>
 - t-001
-  global_id: t-190424
   teiginys: "Narbutas rašė, kad XVII a. kunigas Glumeris Henriko Latvio kronikos pastabose 1243 m. lietuvių karo šūkį aiškino kaip kreipinį į karo dievą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Narbutas rašė, kad XVII a. kunigas Glumeris Henriko Latvio kronikos pastabose 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190424
+    - t-001

@@ -32,7 +32,6 @@ Kariška monarchija, jeigu taip trum­ pai galima išsireikšti.
 
 <a id="claim-t-36787"></a>
 - t-001
-  global_id: t-36787
   teiginys: "Kariškoje monarchijoje valstybės priešakyje stovėjo nevaržomas didysis kunigaikštis, valdęs monarcho teisėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,17 +54,11 @@ Kariška monarchija, jeigu taip trum­ pai galima išsireikšti.
     tininkų. Jų prievolė buvo valdyti tuos kraštus d. kun. vardu:
     prižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d. kun.
     dvaruose sėdėjo ir tėvūnai, prižiūrintieji visą tų dvarų ūkį.
-  citata_rodoma: |
-    — Kariška monarchija, jeigu taip trum­
-    pai galima išsireikšti. Valstybės priešaky stovėjo niekuo nevar­
-    žomas, monarcho teisėmis, did. kunigaikštis; sritys, su mažo­
-    mis išimtimis, buvo valdomos visai did. kun. priklausomų vie­
-    tininkų. Jų prievolė buvo valdyti tuos kraštus d. kun. vardu:
-    prižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d.
+  citata_rodoma: "— Kariška monarchija, jeigu taip trum­\npai galima išsireikšti. Valstybės priešaky stovėjo niekuo nevar­\nžomas, monarcho teisėmis, did. kunigaikštis; sritys, su mažo­\nmis išimtimis, buvo valdomos visai did. kun. priklausomų vie­\ntininkų. Jų prievolė buvo valdyti tuos kraštus d. kun. vardu:\nprižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36787
+    - t-001

@@ -31,7 +31,6 @@ Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, a
 
 <a id="claim-t-60411"></a>
 - t-001
-  global_id: t-60411
   teiginys: "Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,18 +63,14 @@ Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, a
     Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams
     skriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,
     (SRP, 1, p. 737); Volynės metraštis — Злиньци, Злина (ПСРЛ, 2, стб.
-  citata_rodoma: |
-    Galop atvyko jo šventenybė Pilypas, Fermo
-    vyskupas, apaštališkojo sosto legatas, atsiųstas  į Lenkijos žemę, ir brolis Konradas iš
-    Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams
-    skriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,
-    (SRP, 1, p.
+  citata_rodoma: "Galop atvyko jo šventenybė Pilypas, Fermo\nvyskupas, apaštališkojo sosto legatas, atsiųstas  į Lenkijos žemę, ir brolis Konradas iš\nTirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams\nskriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,\n(SRP, 1, p."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60411
+    - t-001
+
 ## Ryšiai
 - Pilypas (Fermo vyskupas) keliavo į [[objektai/vietos/Lenkija]]

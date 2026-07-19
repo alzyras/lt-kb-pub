@@ -42,7 +42,6 @@ Nenurodyta
 
 <a id="claim-t-86737"></a>
 - t-001
-  global_id: t-86737
   teiginys: "Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-86738"></a>
 - t-002
-  global_id: t-86738
   teiginys: "Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,7 +114,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86737
+    - t-001
+
 - id: c-82717
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -149,6 +148,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86738
+    - t-002
+
 ## Ryšiai
 - Varmės kapitula paskyrė [[objektai/asmenys/Fabijonas (Varmės vyskupas)]]

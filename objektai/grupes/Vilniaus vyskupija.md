@@ -31,7 +31,6 @@ Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas J
 
 <a id="claim-t-194302"></a>
 - t-001
-  global_id: t-194302
   teiginys: "Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie nuolį, Cereto vyskupą, kadaise Vengrijos karalienės."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -44,7 +43,6 @@ Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas J
 
 <a id="claim-t-194303"></a>
 - t-002
-  global_id: t-194303
   teiginys: "Tas lėšas Vladislovas Jogaila dar padidino skirdamas katedrai ir vyskupams nemažą Vilniaus miesto dalį - visą plotą nuo pilies iki pat Šv."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,8 @@ Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194302
+    - t-001
+
 - id: c-176895
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -101,4 +100,4 @@ Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194303
+    - t-002

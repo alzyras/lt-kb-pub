@@ -38,7 +38,6 @@ Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška 
 
 <a id="claim-t-58700"></a>
 - t-001
-  global_id: t-58700
   teiginys: "Privilegijos dokumente prie Torunės minima prūsiška Lisske (pr."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58700
+    - t-001

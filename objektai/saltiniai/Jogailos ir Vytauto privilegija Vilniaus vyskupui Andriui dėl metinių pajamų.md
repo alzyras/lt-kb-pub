@@ -36,7 +36,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 
 <a id="claim-t-88253"></a>
 - t-001
-  global_id: t-88253
   teiginys: "1396 m. Jogailos ir Vytauto privilegijoje Vilniaus vyskupui Andriui tarp liudytojų minėtas Vilniaus vaivada Manvydas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,29 +80,11 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
     VILNIAUS MIESTO ISTORIJA I TOMAS
     geradarybė, didinant mieste gyvenančių dvasininkų turtus,
     nemažai prisidėta ir prie kitų miestiečių gerovės.
-  citata_rodoma: |
-    Dalyvaujant garbingiems
-    ir narsiems vyrams Mingailai, Goš­
-    tautui; Vilniaus vaivadai Manvydui
-    bei mūsų dvaro maršalkoms Čupur-
-    vai ir Milonui bei daugeliui kitų, ver­
-    tų pasitikėjimo].
-    59
-    Vilniaus kapitulos archy­
-    vas, pažymėta data: in Lida die Do­
-    minico, quo in Ecclesia Dei, Cantate de­
-    cantatur [Lydoje, sekmadienį, kai
-    1 4 1
-
-    ## Puslapis 158
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    geradarybė, didinant mieste gyvenančių dvasininkų turtus,
-    nemažai prisidėta ir prie kitų miestiečių gerovės.
+  citata_rodoma: "Dalyvaujant garbingiems \nir narsiems vyrams Mingailai, Goš­\ntautui; Vilniaus vaivadai Manvydui \nbei mūsų dvaro maršalkoms Čupur- \nvai ir Milonui bei daugeliui kitų, ver­\ntų pasitikėjimo].\n59\nVilniaus kapitulos archy­\nvas, pažymėta data: in Lida die Do­\nminico, quo in Ecclesia Dei, Cantate de­\ncantatur [Lydoje, sekmadienį, kai\n1 4 1\n\n## Puslapis 158\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\ngeradarybė, didinant mieste gyvenančių dvasininkų turtus, \nnemažai prisidėta ir prie kitų miestiečių gerovės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88253
+    - t-001

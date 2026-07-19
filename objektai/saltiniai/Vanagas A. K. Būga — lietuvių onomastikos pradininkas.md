@@ -32,13 +32,45 @@ media_all_json: |-
 
 Dusburgietis teigia, kad vanagas A.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'A. Vanago straipsnis apie K. Būgą kaip lietuvių onomastikos pradininką paskelbtas 1980 m. leidinyje „Iš lietuvių kalbotyros istorijos“.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vanagas A. K. Būga — lietuvių onomastikos pradininkas.— Iš lietuvių kalbotyros
+    istorijos. V., 1980, p. 7—35.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-61975
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    — Проблемы этногенеза и этнической истории балтов: Тезисы докладов,
+    В., 1981, с. 102— 103.
+    Матузова В. И. Археографические принципы издания «Хроники земли прусской»
+    Петра из Дусбурга.
+  citata_rodoma: "Vanagas A. K. Būga — lietuvių onomastikos pradininkas.— Iš lietuvių kalbotyros\nistorijos. V., 1980, p. 7—35."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-61343"></a>
 - t-001
-  global_id: t-61343
   teiginys: "A. Vanago straipsnis apie K. Būgą kaip lietuvių onomastikos pradininką paskelbtas 1980 m. leidinyje „Iš lietuvių kalbotyros istorijos“."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Būgas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,39 +85,3 @@ Dusburgietis teigia, kad vanagas A.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, temą, leidinį ir metus."
   pagrindžia:
     - c-61975
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'A. Vanago straipsnis apie K. Būgą kaip lietuvių onomastikos pradininką paskelbtas 1980 m. leidinyje „Iš lietuvių kalbotyros istorijos“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vanagas A. K. Būga — lietuvių onomastikos pradininkas.— Iš lietuvių kalbotyros
-    istorijos. V., 1980, p. 7—35.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61343
-## Citatos
-
-- id: c-61975
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    — Проблемы этногенеза и этнической истории балтов: Тезисы докладов,
-    В., 1981, с. 102— 103.
-    Матузова В. И. Археографические принципы издания «Хроники земли прусской»
-    Петра из Дусбурга.
-  citata_rodoma: |
-    Vanagas A. K. Būga — lietuvių onomastikos pradininkas.— Iš lietuvių kalbotyros
-    istorijos. V., 1980, p. 7—35.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-61343

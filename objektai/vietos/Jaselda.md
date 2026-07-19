@@ -32,8 +32,7 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
 ## Teiginiai
 
 <a id="claim-t-184963"></a>
-- t-001
-  global_id: t-184963
+- t-002
   teiginys: "Prie Jaseldos upės Skirmanto pajėgos sumušė Mstislavą, kuris praradęs kariuomenę paspruko į Lucką."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
     - c-168324
 
 <a id="claim-t-201062"></a>
-- t-002
-  global_id: t-201062
+- t-003
   teiginys: "Susirėmė abi pusi paupy Jaseldos ir grūmės iš visos galios, ragotinės traškėjo, o kardos tviskėjo abiem pusėm; ilgai didžiai varžės pergale, vienok lietuviai perlaužė gudus ir šalin skriejančius vienus kely išklojo, kitus Jaseldoj išskandino."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -107,10 +105,12 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184963
+    - t-002
+
 - id: c-184412
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tėvūnai, pasi­
     teiravę su Erdvilu kunigaikščiu, išleido jį patį su
@@ -132,4 +132,4 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201062
+    - t-003

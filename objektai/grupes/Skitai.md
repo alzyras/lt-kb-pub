@@ -40,7 +40,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 
 <a id="claim-t-189481"></a>
 - t-001
-  global_id: t-189481
   teiginys: "Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmušdavo jų mylimiausius tarnus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -61,9 +60,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 
 <a id="claim-t-189482"></a>
 - t-002
-  global_id: t-189482
   teiginys: "Narbutas Dnepro pakrančių milžinkapių pylėjus tapatina su skitais, kurie virš mirusiųjų supildavo kalnelius."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -82,9 +80,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 
 <a id="claim-t-189483"></a>
 - t-003
-  global_id: t-189483
   teiginys: "Narbutas rašo, kad senovės Graikijos geografai žinias apie Biarmijos gyventojus gavo iš skitų."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -103,7 +100,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 
 <a id="claim-t-192461"></a>
 - t-004
-  global_id: t-192461
   teiginys: "Narbutas rašė, kad Šiaurės tautų sagos skandinavų protėvių atvykimą siejo su Skitijos puse ir Odino vadovavimu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -123,29 +119,20 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-175255
 
 <a id="claim-t-192464"></a>
-- t-005
-  global_id: t-192464
+- t-007
   teiginys: "514 metais prieš Kristų Darijus patraukė prieš Indatirą, kai skitai, Narbuto žodžiais, neketino žemintis."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Europa: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Persai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Europa: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Persų būriai tiesiogiai aprašyti kaip įžengę į Europą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175258
+    - c-177263
 
 <a id="claim-t-192465"></a>
-- t-006
-  global_id: t-192465
+- t-008
   teiginys: "Narbutas manė, kad skitai gintarą gaudavo keliu palei Baltijos jūrą ir tinkamiausia šio kelio upe laikė Nemuną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -165,8 +152,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-175259
 
 <a id="claim-t-193340"></a>
-- t-007
-  global_id: t-193340
+- t-009
   teiginys: "Kojelavičiaus pasakojime valdovas rusams žadėjo išvesti lietuvių pajėgas prieš skitus ir derybose tai pateikė kaip savo pažado įrodymą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -179,8 +165,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-176068
 
 <a id="claim-t-193341"></a>
-- t-008
-  global_id: t-193341
+- t-010
   teiginys: "Kojelavičius rašo, kad Užvolgio skitų kunigaikštis Balaklajus rengė karą prieš Skirmantą ir pasiuntiniais reikalavo Rusios duoklės."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -193,8 +178,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-176069
 
 <a id="claim-t-193342"></a>
-- t-009
-  global_id: t-193342
+- t-011
   teiginys: "Kojelavičiaus pasakojime lietuviams pralaužus skitų rikiuotę, skitų būriai sutriko ir ėmė bėgti iš ilgų bei žiaurių kautynių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -207,8 +191,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-176070
 
 <a id="claim-t-193343"></a>
-- t-010
-  global_id: t-193343
+- t-012
   teiginys: "1419 m. Užvolgio skitai po chano Saladino mirties suskilo į grupes, kurios skirtingus jo sūnus siūlė sosto įpėdiniais."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -221,8 +204,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-176072
 
 <a id="claim-t-193345"></a>
-- t-011
-  global_id: t-193345
+- t-014
   teiginys: "Vytautas įsakė Lietuvos maršalui Mikalojui Radvilai sutelkti kariuomenę Lietuvos žemėse ir palydėti Jerim Berdį į Skitiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -235,8 +217,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-176073
 
 <a id="claim-t-193348"></a>
-- t-012
-  global_id: t-193348
+- t-017
   teiginys: "Vargais negalais per pasiuntinius išsaugojus taiką didelę metų dali, rudens pradžioje karalius sužinojo, kad Krymo skitai, pasirodę apie Pripetę, siautėja Lie tuvos valdose."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -248,8 +229,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-176076
 
 <a id="claim-t-194866"></a>
-- t-013
-  global_id: t-194866
+- t-021
   teiginys: "Skitų gentys dalijosi į įvairias kartas arba klases, bet dvi svarbiausios buvo šios: žemdirbių ir klajoklių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -261,8 +241,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-177262
 
 <a id="claim-t-194867"></a>
-- t-014
-  global_id: t-194867
+- t-022
   teiginys: "Jau labai senais laikais graikai užmezgė santykius su Juodosios jūros pakrančių skitais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -274,8 +253,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-177263
 
 <a id="claim-t-196124"></a>
-- t-015
-  global_id: t-196124
+- t-023
   teiginys: "Kojelavičiaus pasakojime Skirmantas po pergalės prieš skitus iš jų valdžios išvadavo Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -288,8 +266,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-178544
 
 <a id="claim-t-196125"></a>
-- t-016
-  global_id: t-196125
+- t-024
   teiginys: "Lietuviai derybose reikalavo grąžinti Podolę, kuri, jų teigimu, Lietuvos kunigaikščių ginklu buvo išvaduota iš skitų valdžios."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -302,8 +279,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-178545
 
 <a id="claim-t-197519"></a>
-- t-017
-  global_id: t-197519
+- t-026
   teiginys: "Kadangi priešo būriai buvo narsūs ir puikiai gink luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi galvoję ir išvengdami lemtingų kovų bei puldinėdami iš šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa jo nesuskaičiuojamų atsargų našta."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -333,7 +309,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189481
+    - t-001
+
 - id: c-172369
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -350,20 +327,15 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     4 Žr. Klimaševskio 1831 metų NoworocznikLitewski (p. 206)**.
     5 Slaptajame kryžiuočių archyve Karaliaučiuje, krašto retenybių
     rinkinyje, yra nemažai tokių akmenų.
-  citata_rodoma: |
-    Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
-    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
-    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
-    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
-    jų, neužkąsdami jų žemėje, supildavo kalnelius. Tuo pats tir­
-    damas įsitikinau1 2.
+  citata_rodoma: "Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,\nesama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų\nbuvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­\njo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­\njų, neužkąsdami jų žemėje, supildavo kalnelius. Tuo pats tir­\ndamas įsitikinau1 2."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189482
+    - t-002
+
 - id: c-172370
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -390,25 +362,15 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     rios negali būti nuginčytos iš pirmo žvilgsnio ir dėl jų akivaiz­
     daus sutapimo ir kurių palyginimui pakanka paprasto pasvars­
     tymo.
-  citata_rodoma: |
-    Matoma, kad jie apsigyveno toli­
-    muose Siaurės Europos rytuose seniausiai, kai tik slavų gen­
-    ties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­
-    kios varginančios ir ilgos žiemos. Apie juos senovės Graikijos
-    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
-    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
-    ir paties Herodoto išvardytų.
-    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
-    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
-    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
-    atskirą valstybę.
+  citata_rodoma: "Matoma, kad jie apsigyveno toli­\nmuose Siaurės Europos rytuose seniausiai, kai tik slavų gen­\nties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­\nkios varginančios ir ilgos žiemos. Apie juos senovės Graikijos\ngeografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­\nnius pavadinimus iš daugelio Siaurės Europos gyventojų, kad\nir paties Herodoto išvardytų.\nIš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža\nką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-\ndo slavais ir palaikydama su jais santykius, vis dėlto sudarė\natskirą valstybę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189483
+    - t-003
+
 - id: c-175255
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -433,7 +395,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192461
+    - t-004
+
 - id: c-175258
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -459,8 +422,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192464
-    - t-197519
+    - t-026
+
 - id: c-175259
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -486,7 +449,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192465
+    - t-008
+
 - id: c-176068
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -510,7 +474,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193340
+    - t-009
+
 - id: c-176069
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -541,7 +506,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193341
+    - t-010
+
 - id: c-176070
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -563,7 +529,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193342
+    - t-011
+
 - id: c-176072
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -586,29 +553,15 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     sosto įpėdiniu. Kerim Berdis,
     galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
     pasiekti geruoju.
-  citata_rodoma: |
-    Mat juodi debesys ap­
-    traukė dangų, pakilo nepaprasta audra, sugriaudėjo
-    perkūnas, ir žaibas nutrenkė du karaliaus kinkinio pa­
-    lydovus, keturis arklius iš šešių ir penktą ginklanešio
-    žirgą.
-    Sugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek
-    pailsėjo ir patraukė iš vakarų į rytus. Užvolgio skitai,
-    netekę mirusio chano Saladi-
-    1419 m eta i
-    no, suskilo atskiromis grupė-
-    S k itų ta u to m s V y ta u -
-    mis: vieni vieną, kiti kitą
-    tas p a s k y r ė v a ld o v u s
-    mirusio valdovo sūnų siūlė
-    sosto įpėdiniu.
+  citata_rodoma: "Mat juodi debesys ap­\ntraukė dangų, pakilo nepaprasta audra, sugriaudėjo \nperkūnas, ir žaibas nutrenkė du karaliaus kinkinio pa­\nlydovus, keturis arklius iš šešių ir penktą ginklanešio \nžirgą.\nSugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek \npailsėjo ir patraukė iš vakarų į rytus. Užvolgio skitai,\nnetekę mirusio chano Saladi- \n1419 m eta i \nno, suskilo atskiromis grupė-\nS k itų ta u to m s V y ta u - \nmis: vieni vieną, kiti kitą \ntas p a s k y r ė v a ld o v u s \nmirusio valdovo sūnų siūlė\nsosto įpėdiniu."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193343
+    - t-012
+
 - id: c-176073
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -630,7 +583,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193345
+    - t-014
+
 - id: c-176076
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -657,25 +611,15 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     visai neteisėtai Aleksandras valdąs Smolensko bei Ki­
     jevo žemes; jeigu norima, girdi, sukurti amžinąją tai­
     ką, būtina, kad Aleksandras užleistų ir šias žemes.
-  citata_rodoma: |
-    Mat paliaubų susitarimas,
-    pasak Ivano, apimąs tik kaimiečius ir nusikaltėlius, bet
-    neliečiąs nei laisvųjų žmonių, nei vyrų, išgarsėjusių
-    karo žygiais ar valstybiniais darbais.
-    Vargais negalais per pasiuntinius išsaugojus taiką
-    didelę metų dali, rudens pradžioje karalius sužinojo,
-    kad Krymo skitai, pasirodę apie Pripetę, siautėja Lie­
-    tuvos valdose. Bematant jis
-    įsakė kunigaikščiams Simonui
-    Olelkaičiui ir Jurgiui Dubro-
-    vickiui sustabdyti priešą.
+  citata_rodoma: "Mat paliaubų susitarimas,\npasak Ivano, apimąs tik kaimiečius ir nusikaltėlius, bet\nneliečiąs nei laisvųjų žmonių, nei vyrų, išgarsėjusių\nkaro žygiais ar valstybiniais darbais.\nVargais negalais per pasiuntinius išsaugojus taiką\ndidelę metų dali, rudens pradžioje karalius sužinojo,\nkad Krymo skitai, pasirodę apie Pripetę, siautėja Lie­\ntuvos valdose. Bematant jis\nįsakė kunigaikščiams Simonui\nOlelkaičiui ir Jurgiui Dubro-\nvickiui sustabdyti priešą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193348
+    - t-017
+
 - id: c-177262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -698,7 +642,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194866
+    - t-021
+
 - id: c-177263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -724,7 +669,9 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194867
+    - t-007
+    - t-022
+
 - id: c-178544
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -744,7 +691,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196124
+    - t-023
+
 - id: c-178545
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -772,4 +720,4 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196125
+    - t-024

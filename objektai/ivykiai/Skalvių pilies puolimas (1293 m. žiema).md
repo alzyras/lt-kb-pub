@@ -53,9 +53,8 @@ Nenurodyta
 
 <a id="claim-t-62921"></a>
 - t-001
-  global_id: t-62921
   teiginys: "1293 m. žiemą lietuvių karaliaus kariai puolė Skalvių pilį, nužudė brolį Liudviką Okse, bet pilies neužėmė."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Skalviai: 0.85"
@@ -72,8 +71,7 @@ Nenurodyta
   pagrindžia:
     - c-63791
     - c-63792
-    - c-001
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1293 m. žiemą lietuvių karaliaus kariai puolė Skalvių pilį, nužudė brolį Liudviką Okse, bet pilies neužėmė.'
@@ -94,8 +92,6 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62921
 - c-002
   santrauka: '1293 m. žiemą lietuvių karaliaus kariai puolė Skalvių pilį, nužudė brolį Liudviką Okse, bet pilies neužėmė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -112,8 +108,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62921
+
 ## Citatos
 
 - id: c-63791
@@ -134,24 +129,15 @@ Nenurodyta
     259 (252). Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300
     Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei
     ginklanešiais jis daug kartų šlovingai kariavo su lietuviais.
-  citata_rodoma: |
-    Apie Skalvių pilies puolimą 1293
-
-      Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis
-    pabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva,
-    perduoti jam Skalvių pilį. Atidžiai ir patikliai  jį išklausęs, karalius tą pačią žiemą jam
-    davė karių. Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai
-    priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis
-    Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;
-    užvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems
-    pavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių.
+  citata_rodoma: "Apie Skalvių pilies puolimą 1293\n\n  Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis\npabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva,\nperduoti jam Skalvių pilį. Atidžiai ir patikliai  jį išklausęs, karalius tą pačią žiemą jam\ndavė karių. Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai\npriėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis\nKonradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;\nužvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems\npavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62921
+    - t-001
+
 - id: c-63792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -170,18 +156,11 @@ Nenurodyta
     259 (252). Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300
     Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei
     ginklanešiais jis daug kartų šlovingai kariavo su lietuviais.
-  citata_rodoma: |
-    Atidžiai ir patikliai  jį išklausęs, karalius tą pačią žiemą jam
-    davė karių. Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai
-    priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis
-    Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;
-    užvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems
-    pavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių.
-    Lietuviai, matydami, jog daugiau nieko nepeš, sudegino papilį ir pasitraukė.
+  citata_rodoma: "Atidžiai ir patikliai  jį išklausęs, karalius tą pačią žiemą jam\ndavė karių. Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai\npriėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis\nKonradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;\nužvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems\npavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių.\nLietuviai, matydami, jog daugiau nieko nepeš, sudegino papilį ir pasitraukė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62921
+    - t-001

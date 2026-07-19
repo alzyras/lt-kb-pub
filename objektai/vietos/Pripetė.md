@@ -40,8 +40,7 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
 ## Teiginiai
 
 <a id="claim-t-183082"></a>
-- t-001
-  global_id: t-183082
+- t-004
   teiginys: "Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -60,10 +59,9 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
     - c-166471
 
 <a id="claim-t-185100"></a>
-- t-002
-  global_id: t-185100
+- t-001
   teiginys: "Kaidanas Pripetės žiotyse įrengė karo stovyklą ir išsiuntė būrius niokoti krašto."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -80,8 +78,7 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
     - c-168461
 
 <a id="claim-t-192724"></a>
-- t-003
-  global_id: t-192724
+- t-006
   teiginys: "Teodoras Narbutas Pantikapą tapatina su Pripete, jungiančia Baltijos ir Juodosios jūros vandens baseinus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -101,8 +98,7 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
     - c-175494
 
 <a id="claim-t-192725"></a>
-- t-004
-  global_id: t-192725
+- t-007
   teiginys: "Teodoras Narbutas aiškina, kad Pripetė Padneprės slėnyje kadaise tekėjo lygiagrečiai Dneprui ir sudarė jo dešiniąją vagą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -122,8 +118,7 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
     - c-175495
 
 <a id="claim-t-192726"></a>
-- t-005
-  global_id: t-192726
+- t-008
   teiginys: "Narbutas nurodo, kad Dnepro vidurupyje pilkapių ypač daug nuo Sklovo aukštupio iki Pripetės žiočių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -143,8 +138,7 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
     - c-175496
 
 <a id="claim-t-197907"></a>
-- t-006
-  global_id: t-197907
+- t-009
   teiginys: "Pagaliau Pripetė ten, kur ji dabar įteka į Padneprės slėnį, plaukė maždaug varsto atstumu savo slė niu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de šiniąją, senų geografų vadinamą Borysthenis occidentale latus vagą, kuri įsiliejo priešais Desnos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -156,8 +150,7 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
     - c-175495
 
 <a id="claim-t-197908"></a>
-- t-007
-  global_id: t-197908
+- t-010
   teiginys: "Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti palei senas Rusijos sienas su Lietuvos valstybe, de šiniojoje driekiasi už Borisovo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -236,7 +229,8 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183082
+    - t-004
+
 - id: c-168461
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -252,21 +246,15 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
     krito nespėję nė ginklo pakelti. Tiesa, kai buvę toliau
     nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­
     vina kova.
-  citata_rodoma: |
-    Valdingai pasi-
-    keliais nuvesti iki sienos. Kaidanas, pasiuntiniams per
-    ilgai užsibuvus, įtarė, jog nesumani pasiuntinybė ap­
-    gaudinėjama atidėliojant reikalą ir persikėlė per Dnep-
-    rą, norėdamas savo siekius paremti ginklu ir jėga pri­
-    versti paklusti jo valdžiai. Pripetės žiotyse įrengęs ka­
-    ro stovyklą, jis išsiuntė galybę būrių krašto niokoti.
+  citata_rodoma: "Valdingai pasi-\nkeliais nuvesti iki sienos. Kaidanas, pasiuntiniams per\nilgai užsibuvus, įtarė, jog nesumani pasiuntinybė ap­\ngaudinėjama atidėliojant reikalą ir persikėlė per Dnep-\nrą, norėdamas savo siekius paremti ginklu ir jėga pri­\nversti paklusti jo valdžiai. Pripetės žiotyse įrengęs ka­\nro stovyklą, jis išsiuntė galybę būrių krašto niokoti."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185100
+    - t-001
+
 - id: c-175494
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -286,7 +274,8 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192724
+    - t-006
+
 - id: c-175495
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -311,30 +300,16 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
     arba vidinės priežasties; tai turėjo sukelti didelius šių
     1 Iš Nestoro žinoma, kad Kijevo slėnis seniau buvo užlietas
     vandens, Dnepras tekėjo kita kryptimi (Karamzin.
-  citata_rodoma: |
-    Tų įdubų juos­
-    tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­
-    grindinės upės vandens lygis buvo gerokai aukštesnis,
-    tekėdavo visais metų laikais. Plytėjo ilga įlanka, arba
-    kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­
-    lios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­
-    je, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai
-    ežerėliai1. Pagaliau Pripetė ten, kur ji dabar įteka į Pa-
-    dneprės slėnį, plaukė maždaug varsto atstumu savo slė­
-    niu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de­
-    šiniąją, senų geografų vadinamą Borysthenis occidentale
-    latus vagą, kuri įsiliejo priešais Desnos žiotis į kairiąją
-    šaką ar kiek žemiau ir sudarė pagrindinę Dnepro vagą,
-    žemiau Kijevo virstančią didele upe — tikruoju senovės
-    Boristeniu.
+  citata_rodoma: "Tų įdubų juos­\ntos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­\ngrindinės upės vandens lygis buvo gerokai aukštesnis, \ntekėdavo visais metų laikais. Plytėjo ilga įlanka, arba \nkairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­\nlios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­\nje, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai \nežerėliai1. Pagaliau Pripetė ten, kur ji dabar įteka į Pa- \ndneprės slėnį, plaukė maždaug varsto atstumu savo slė­\nniu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de­\nšiniąją, senų geografų vadinamą Borysthenis occidentale \nlatus vagą, kuri įsiliejo priešais Desnos žiotis į kairiąją \nšaką ar kiek žemiau ir sudarė pagrindinę Dnepro vagą, \nžemiau Kijevo virstančią didele upe — tikruoju senovės \nBoristeniu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192725
-    - t-197907
+    - t-007
+    - t-009
+
 - id: c-175496
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -356,25 +331,15 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
     žūnos upių žemupio uždarame plote, o kairiojoje Dnepro
     pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­
     čių.
-  citata_rodoma: |
-    Paprastai jos būva netoli gyvenviečių
-    arba joms tinkamose vietose.
-    Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
-    daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
-    Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti
-    palei senas Rusijos sienas su Lietuvos valstybe, de­
-    šiniojoje driekiasi už Borisovo apskrities net iki tikrosios
-    Lietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-
-    žūnos upių žemupio uždarame plote, o kairiojoje Dnepro
-    pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­
-    čių.
+  citata_rodoma: "Paprastai jos būva netoli gyvenviečių\narba joms tinkamose vietose.\nNors pilkapių pasitaiko visoje Baltarusijoje, tačiau\ndaugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau\nSklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti\npalei senas Rusijos sienas su Lietuvos valstybe, de­\nšiniojoje driekiasi už Borisovo apskrities net iki tikrosios\nLietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-\nžūnos upių žemupio uždarame plote, o kairiojoje Dnepro\npakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­\nčių."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192726
+    - t-008
+
 - id: c-179390
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -399,4 +364,4 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197908
+    - t-010

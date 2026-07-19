@@ -26,26 +26,11 @@ media_all_json: |-
 
 Narbutas skaitytojui, norėjusiam išsamiau sužinoti herulų istoriją, rekomendavo veikalą „Apie herulus, lietuvių giminaičius“.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-191827"></a>
-- t-001
-  global_id: t-191827
-  teiginys: 'Narbutas skaitytojui, norėjusiam išsamiau sužinoti herulų istoriją, rekomendavo veikalą „Apie herulus, lietuvių giminaičius“.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sutvarkyta formuluotė ir paliktas aiškus subjektas Narbutas, nes teiginys kalba apie jo rekomendaciją. Nepridėta duomenų apie patį veikalo turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Isteris'
-  pagrindžia:
-    - c-174709
-
-## Citatos
-
-- id: c-174709
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'Narbutas skaitytojui, norėjusiam išsamiau sužinoti herulų istoriją, rekomendavo veikalą „Apie herulus, lietuvių giminaičius“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Būrys, eidamas priešinga kryptimi,
     dar syki susidūrė su kitu longobardų būriu, ketinusiu
@@ -60,10 +45,8 @@ Narbutas skaitytojui, norėjusiam išsamiau sužinoti herulų istoriją, rekomen
 
     vų gyvenamą kraštą; slavai juos, sakiusius, jog eina į
     Tūlą1, ramiai praleido.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191827
+  statusas: verified

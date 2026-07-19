@@ -31,7 +31,6 @@ Nors Pauli savo Prūsijos valsty­ bės istorijoje, T.
 
 <a id="claim-t-88078"></a>
 - t-001
-  global_id: t-88078
   teiginys: "Pauli savo „Prūsijos valstybės istorijos“ IV tome pateikė vertinimą, kurio Balinskis nelaikė patikimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,15 +59,11 @@ Nors Pauli savo Prūsijos valsty­ bės istorijoje, T.
     bės istorijoje, T. IV, p. 164 f. f. taip jį
     vertina, nesame linkę pripažinti
     esant tai tikra.
-  citata_rodoma: |
-    Nors Pauli  savo Prūsijos valsty­
-    bės istorijoje, T. IV, p. 164 f. f. taip jį
-    vertina, nesame linkę pripažinti
-    esant tai tikra.
+  citata_rodoma: "Nors Pauli  savo Prūsijos valsty­\nbės istorijoje, T. IV, p. 164 f. f. taip jį \nvertina, nesame linkę pripažinti \nesant tai tikra."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88078
+    - t-001

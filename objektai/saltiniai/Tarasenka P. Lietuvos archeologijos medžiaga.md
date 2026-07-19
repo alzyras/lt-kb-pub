@@ -38,31 +38,10 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
 
 ## Teiginiai
 
-<a id="claim-t-61010"></a>
-- t-001
-  global_id: t-61010
-  teiginys: "P. Tarasenkos užfiksuota kartografinė medžiaga naudota D. Skronaitei tapatinti su vietove prie Mituvos aukštupio, Skeršpile."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mituva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tarasenka P. Lietuvos archeologijos medžiaga: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Mituva: mention_match, place, gap=95"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tarasenka P. Lietuvos archeologijos medžiaga\" parinktas kaip owner_note_path. Targetas \"Mituva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1915 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, bet citata pagrindžia konkretų faktą apie šaltinio panaudojimą."
-  pagrindžia:
-    - c-61642
-
 <a id="claim-t-61011"></a>
 - t-002
-  global_id: t-61011
   teiginys: "P. Tarasenkos „Lietuvos archeologijos medžiaga“ išleista 1928 m.; leidimo vieta citatoje nurodyta santrumpa „K.“."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -77,10 +56,9 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
   temporalinis_llm_pakomentavimas: "Citata pagrindžia bibliografinį leidimo faktą."
   pagrindžia:
     - c-61643
-    - c-002
+
 <a id="claim-t-197028"></a>
 - t-003
-  global_id: t-197028
   teiginys: "Kai šitaip paklaidžiojo dvi dienas ir kai lietuviai sugrįžo namo, broliai įsibrovė į Gardino valsčių, kur nužudė ir paėmė į nelaisvę daug žmonių; kai su dideliu grobiu traukė namo, susidūrė su būreliu lietuvių, kurie pavargę atsiliko nuo ne vieną kartą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -102,8 +80,7 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61011
+
 ## Citatos
 
 - id: c-61642
@@ -126,8 +103,8 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61010
-    - t-197028
+    - t-003
+
 - id: c-61643
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -135,12 +112,11 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
   citata_originali: |
     С. А. Аннинский. — М.—Л., 1938.
     Грушевский М. Хронольопя подïй Галицько-волинськоï лïтописи.
-  citata_rodoma: |
-    Tarasenka P. Lietuvos archeologijos medžiaga.— K., 1928.
+  citata_rodoma: "Tarasenka P. Lietuvos archeologijos medžiaga.— K., 1928."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61011
+    - t-002

@@ -66,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-195581"></a>
 - t-001
-  global_id: t-195581
   teiginys: "1855 m. rekrutų gaudymas siautėjo ypač smarkiai."
   atnaujinta: "2026-07-12 07:26"
   sprendimo_priezastis: "gap::events"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-177989
 
 <a id="claim-t-195582"></a>
-- t-002
-  global_id: t-195582
+- t-003
   teiginys: "Po Sevastopolio karo trejus metus visai neėmė rekrutų."
   atnaujinta: "2026-07-12 07:26"
   sprendimo_priezastis: "gap::events"
@@ -87,8 +85,7 @@ Nenurodyta
     - c-177990
 
 <a id="claim-t-195583"></a>
-- t-003
-  global_id: t-195583
+- t-002
   teiginys: "1855 m. rekrutai buvo gaudomi ištisus metus, nežiūrint nei į amžių, nei į sveikatos trūkumus."
   atnaujinta: "2026-07-12 07:26"
   sprendimo_priezastis: "gap::events"
@@ -98,8 +95,7 @@ Nenurodyta
     - c-177989
 
 <a id="claim-t-195584"></a>
-- t-004
-  global_id: t-195584
+- t-005
   teiginys: "Vėliau rekrutų rinkimas tapo žmoniškesnis, valstiečius surašius į vieną valsčių, valdomą taikos tarpininko."
   atnaujinta: "2026-07-12 07:26"
   sprendimo_priezastis: "gap::events"
@@ -109,8 +105,7 @@ Nenurodyta
     - c-177990
 
 <a id="claim-t-195585"></a>
-- t-005
-  global_id: t-195585
+- t-004
   teiginys: "Atėjus 1863 m. sukilimui, dvejus metus pagrečiui vėl neėmė rekrutų."
   atnaujinta: "2026-07-12 07:26"
   sprendimo_priezastis: "gap::events"
@@ -136,16 +131,16 @@ Nenurodyta
     Rusų kariuomenei pa­
     pildyti rekrutai buvo gaudomi ištisus metus: nežiūrint nei į amžių nei
     sveikatos trūkumų.
-  citata_rodoma: |
-    Žymiausias rekrutų gaudymas siautė 1855 metais. Tais metais prancūzai, anglai ir turkai apgulė Sevastopolį. Rusų kariuomenei papildyti rekrutai buvo gaudomi ištisus metus: nežiūrint nei į amžių nei sveikatos trūkumų.
+  citata_rodoma: "Žymiausias rekrutų gaudymas siautė 1855 metais. Tais metais prancūzai, anglai ir turkai apgulė Sevastopolį. Rusų kariuomenei papildyti rekrutai buvo gaudomi ištisus metus: nežiūrint nei į amžių nei sveikatos trūkumų."
   statusas: verified
   atnaujinta: "2026-07-12 07:26"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195581
-    - t-195583
+    - t-001
+    - t-002
+
 - id: c-177990
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -161,14 +156,13 @@ Nenurodyta
     rinkimas
     buvo
     žmoniškesnis.
-  citata_rodoma: |
-    Po Sevastopolio karo trejis metus visai neėmė rekrutų. Paskiau, kad ir ėmė, bet ne po daug, o atėjus 1863 metų sukilimui, dvejis metus pagrečiui vėl neėmė. Vėliau visi valstiečiai „krestjanai“, poniškiai ir karališkiai tapo surašyti į vieną valsčių, valdomą „taikos tarpininko“, ir jau rekrutų rinkimas buvo žmoniškesnis.
+  citata_rodoma: "Po Sevastopolio karo trejis metus visai neėmė rekrutų. Paskiau, kad ir ėmė, bet ne po daug, o atėjus 1863 metų sukilimui, dvejis metus pagrečiui vėl neėmė. Vėliau visi valstiečiai „krestjanai“, poniškiai ir karališkiai tapo surašyti į vieną valsčių, valdomą „taikos tarpininko“, ir jau rekrutų rinkimas buvo žmoniškesnis."
   statusas: verified
   atnaujinta: "2026-07-12 07:26"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195582
-    - t-195584
-    - t-195585
+    - t-003
+    - t-005
+    - t-004

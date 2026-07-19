@@ -31,7 +31,6 @@ Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, 
 
 <a id="claim-t-185287"></a>
 - t-001
-  global_id: t-185287
   teiginys: "Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168648
-    - c-001
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78789|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Lietuvos teritoriją iki 1341 m.
 - susijęs iš [[objektai/autoriai/M. Hruševskis.md#claim-t-30833|M. Hruševskis]]: M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų ir Lietuvos kunigaikščių valdžią joje.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47898|Rusų ir ukrainiečių istorikai]]: M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją ir jos užvaldymą Lietuvos kunigaikščių.
@@ -81,8 +79,7 @@ Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185287
+
 ## Citatos
 
 - id: c-168648
@@ -108,26 +105,14 @@ Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, 
     nius, o jo pusbrolį Mikalojų
     Juodąjį paskyrė Lietuvos maršalu bei didžiuoju kanc­
     leriu.
-  citata_rodoma: |
-    Rugsėjo pabaigoje luomai susirinko Vilniuje į
-    seimą, kuriame karalius pareikalavo, kad liautųsi pa­
-    vojingai kivirčijęsi Trakų vaivada Mikalojus Radvila
-    ir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad
-    niekas taip nekenkia visuomenės reikalams, kaip as­
-    meniniai atskirų didikų nesutarimai. Į seimą atvyko ir
-    lenkų atstovai, kurie senato bei bajorų akivaizdoje rim­
-    čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­
-    ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­
-    tų vieną kartą sudaryta galutinė lenkų ir lietuvių są­
-    junga, vadinamoji unija. Jie vis dėlto nieko nepešė,
-    nes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių
-    teisių į tas žemes.
+  citata_rodoma: "Rugsėjo pabaigoje luomai susirinko Vilniuje į\nseimą, kuriame karalius pareikalavo, kad liautųsi pa­\nvojingai kivirčijęsi Trakų vaivada Mikalojus Radvila\nir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad\nniekas taip nekenkia visuomenės reikalams, kaip as­\nmeniniai atskirų didikų nesutarimai. Į seimą atvyko ir\nlenkų atstovai, kurie senato bei bajorų akivaizdoje rim­\nčių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­\nralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­\ntų vieną kartą sudaryta galutinė lenkų ir lietuvių są­\njunga, vadinamoji unija. Jie vis dėlto nieko nepešė,\nnes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių\nteisių į tas žemes."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185287
+    - t-001
+
 ## Ryšiai
 - Užėmė Kijevo žemės: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

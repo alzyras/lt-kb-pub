@@ -33,7 +33,6 @@ Fluminibus quoque circa illud flu­ entibus, Villia et Vilna, ex ejusdem du­ ci
 
 <a id="claim-t-86254"></a>
 - t-001
-  global_id: t-86254
   teiginys: "Pasakojime Vilnios ir Vilijos vardai kildinami iš kunigaikščio Viliaus vardo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Fluminibus quoque circa illud flu­ entibus, Villia et Vilna, ex ejusdem du­ ci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86254
+    - t-001

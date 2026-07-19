@@ -31,7 +31,6 @@ To­ kia Lietuvos padėtis negalėjo trukti ilgai; diduomenė, įbau­ ginta Man
 
 <a id="claim-t-87809"></a>
 - t-001
-  global_id: t-87809
   teiginys: "Kopylę valdęs Olelka, Algirdo palikuonis, buvo įkalintas prieš diduomenei nutariant gelbėtis Žygimanto gyvybės kaina."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ To­ kia Lietuvos padėtis negalėjo trukti ilgai; diduomenė, įbau­ ginta Man
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87809
+    - t-001

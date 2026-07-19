@@ -41,7 +41,6 @@ Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
 
 <a id="claim-t-30784"></a>
 - t-001
-  global_id: t-30784
   teiginys: "L. Truska parašė studiją „Emigracija iš Lietuvos 1868-1914 m.“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,14 +78,11 @@ Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
     Emigracija iš Lietuvos 1868-1914 m. (AkMD, t. 10, 1961, 71-84 p. ;
     P. Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­
     mas jam 1848-1914 m. (AkMD, t. 26, 1968, 59-72 p.).
-  citata_rodoma: |
-    Pažymėtinos ir šios studijos: L. Truska:
-    Emigracija iš Lietuvos 1868-1914 m. (AkMD, t. 10, 1961, 71-84 p. ;
-    P.
+  citata_rodoma: "Pažymėtinos ir šios studijos: L. Truska:\nEmigracija iš Lietuvos 1868-1914 m. (AkMD, t. 10, 1961, 71-84 p. ;\nP."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30784
+    - t-001

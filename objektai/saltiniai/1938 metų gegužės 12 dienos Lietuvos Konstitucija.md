@@ -37,7 +37,6 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
 
 <a id="claim-t-20990"></a>
 - t-001
-  global_id: t-20990
   teiginys: "Atkuriant valstybę reikėjo atkurti paskutinės nepriklausomos Lietuvos konstitucijos galiojimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
 
 <a id="claim-t-183351"></a>
 - t-002
-  global_id: t-183351
   teiginys: "Atkuriant Lietuvos valstybę buvo priimtas įstatymas dėl 1938 metų gegužės 12 dienos Lietuvos Konstitucijos galiojimo atstatymo."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -93,15 +91,15 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
     jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
     ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
     nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.
-  citata_rodoma: |
-    jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
+  citata_rodoma: "jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20990
+    - t-001
+
 - id: c-166743
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -124,4 +122,4 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183351
+    - t-002

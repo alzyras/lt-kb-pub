@@ -37,26 +37,16 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 ## Teiginiai
 
 <a id="claim-t-58564"></a>
-- t-001
-  global_id: t-58564
-  teiginys: "Karkuso, arba Karksio, pilis buvo Livonijoje, pietinėje Estijoje, į pietus nuo dabartinio Viljandžio."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Livonija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karkuso pilis (pilis, XIII a.): llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai lokalizuoja Karkuso pilį Livonijoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Karkuso pilis (pilis, XIII a.) priklausė Livonija (0.95)"
-  pagrindžia:
-    - c-59196
-    - c-001
-<a id="claim-t-58565"></a>
 - t-002
-  global_id: t-58565
+  teiginys: "Karkuso, arba Karksio, pilis buvo Livonijoje, pietinėje Estijoje, į pietus nuo dabartinio Viljandžio."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59197
+
+<a id="claim-t-58565"></a>
+- t-001
   teiginys: "1298 m. Vytenis, Rygos miestiečių pakviestas, užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,7 +63,7 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veikėją, veiksmą ir Karkuso pilį."
   pagrindžia:
     - c-59197
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karkuso, arba Karksio, pilis buvo Livonijoje, pietinėje Estijoje, į pietus nuo dabartinio Viljandžio.'
@@ -87,8 +77,6 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58564
 - c-002
   santrauka: '1298 m. Vytenis, Rygos miestiečių pakviestas, užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -109,8 +97,7 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58565
+
 ## Citatos
 
 - id: c-59196
@@ -122,17 +109,13 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     turėjo didelių nuostolių sunkiai sužeistaisiais.
     277 (270). Apie Dobrynės žemės apiplėšimą ir 70 lietuvių žūtį 1300 metais
     Tais metais Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.
-  citata_rodoma: |
-    550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis
-    Livonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.
-    79).
+  citata_rodoma: "550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis\nLivonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.\n79)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-58564
 - id: c-59197
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -150,18 +133,15 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     upės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis
     šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
     1500 krikščionių.
-  citata_rodoma: |
-    1298 viešpaties
-    metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur
-    paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei
-    plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas, Livonijos žemės magistras,
-    leidęsis pavymui su nedidele kariuomene, jį užpuolė birželio 1 d.
+  citata_rodoma: "1298 viešpaties\nmetais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur\npaėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei\nplėšdamas; kai jau susirengė grįžti namo, brolis Brunonas, Livonijos žemės magistras,\nleidęsis pavymui su nedidele kariuomene, jį užpuolė birželio 1 d."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58565
+    - t-002
+    - t-001
+
 ## Ryšiai
 - Karkuso pilis (pilis, XIII a.) priklausė [[objektai/vietos/Livonija]]

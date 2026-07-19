@@ -31,7 +31,6 @@ Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną 
 
 <a id="claim-t-65648"></a>
 - t-001
-  global_id: t-65648
   teiginys: "Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,12 +58,11 @@ Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną 
     buvusios LDK teritorijoje. Baimindamasi Lietuvos „raudonųjų“ radika-
     lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
     „baltiesiems“.
-  citata_rodoma: |
-    lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
+  citata_rodoma: "lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65648
+    - t-001

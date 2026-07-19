@@ -47,7 +47,6 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
 
 <a id="claim-t-55174"></a>
 - t-001
-  global_id: t-55174
   teiginys: "Žygimanto Augusto testamento tekste frazė „Ab alio expectes alteri quod feceris“ aiškiai pristatoma kaip lotyniškas posakis."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
 
 <a id="claim-t-55175"></a>
 - t-002
-  global_id: t-55175
   teiginys: "Posakis „Ab alio expectes alteri quod feceris“ reiškė: tai, ką padarei vienam, sulauksi iš kito."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
 
 <a id="claim-t-67253"></a>
 - t-003
-  global_id: t-67253
   teiginys: "Posakis „Ab alio expectes alteri quod feceris“ cituojamas paskutinės valios, testamento ar kodicilo galios aptarime."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -127,6 +124,6 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55174
-    - t-55175
-    - t-67253
+    - t-001
+    - t-002
+    - t-003

@@ -67,8 +67,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-46783"></a>
-- t-001
-  global_id: t-46783
+- t-002
   teiginys: "Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -127,17 +126,11 @@ Nenurodyta
     tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
     kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
     Vilnius nevirto „antruoju Kijevu“.
-  citata_rodoma: |
-    Rem-
-    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
-    bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
-    tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
-    kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
-    Vilnius nevirto „antruoju Kijevu“.
+  citata_rodoma: "Rem-\ndamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-\nbę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, \ntačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-\nkytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o \nVilnius nevirto „antruoju Kijevu“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46783
+    - t-002

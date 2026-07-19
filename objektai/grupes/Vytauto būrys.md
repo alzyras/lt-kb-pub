@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-39019"></a>
 - t-001
-  global_id: t-39019
   teiginys: "14-ame kvartale stovėjęs Vytauto būrys nebuvo apsuptas ir smogė rusams į nugarą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,6 +65,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39019
+    - t-001
+
 ## Ryšiai
 - Vytauto būrys puolė [[objektai/grupes/Rusai]]

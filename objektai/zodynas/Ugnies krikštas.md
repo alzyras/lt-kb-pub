@@ -27,22 +27,6 @@ media_all_json: |-
 
 Vyskupo Petro rankrašty je yra pasakyta: Habuerunt autem baptismum per ignem, scilicet purificationem (O krikštas jiems buvo ugnis, tai yra ele mentarusis apsivalymas).
 
-## Teiginiai
-
-<a id="claim-t-194786"></a>
-- t-001
-  global_id: t-194786
-  teiginys: "Vyskupo Petro rankrašty je yra pasakyta: Habuerunt autem baptismum per ignem, scilicet purificationem (O krikštas jiems buvo ugnis, tai yra ele mentarusis apsivalymas)."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177182
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vyskupo Petro rankrašty je yra pasakyta: Habuerunt autem baptismum per ignem, scilicet purificationem (O krikštas jiems buvo ugnis, tai yra ele mentarusis apsivalymas).'
@@ -61,8 +45,7 @@ Vyskupo Petro rankrašty je yra pasakyta: Habuerunt autem baptismum per ignem, s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194786
+
 ## Citatos
 
 - id: c-177182
@@ -82,19 +65,26 @@ Vyskupo Petro rankrašty je yra pasakyta: Habuerunt autem baptismum per ignem, s
     šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode­
     rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau
     gyveno herulai.
-  citata_rodoma: |
-    Švenčiant Rasos šventę, šokinėta per degantį laužą, sukrautą
-    pusračiu, kaip tai mini Strijkovskis. Vyskupo Petro rankrašty­
-    je yra pasakyta: Habuerunt autem baptismum per ignem, scili-
-    cet purificationem (O krikštas jiems buvo ugnis, tai yra ele­
-    mentarusis apsivalymas). Šis ugnies krikštas, arba apsivalymas
-    panaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­
-    sakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­
-    gas nuo apsivalomojo šokinėjimo per ugnį.
+  citata_rodoma: "Švenčiant Rasos šventę, šokinėta per degantį laužą, sukrautą\npusračiu, kaip tai mini Strijkovskis. Vyskupo Petro rankrašty­\nje yra pasakyta: Habuerunt autem baptismum per ignem, scili-\ncet purificationem (O krikštas jiems buvo ugnis, tai yra ele­\nmentarusis apsivalymas). Šis ugnies krikštas, arba apsivalymas\npanaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­\nsakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­\ngas nuo apsivalomojo šokinėjimo per ugnį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194786
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-194786"></a>
+- t-001
+  teiginys: "Vyskupo Petro rankrašty je yra pasakyta: Habuerunt autem baptismum per ignem, scilicet purificationem (O krikštas jiems buvo ugnis, tai yra ele mentarusis apsivalymas)."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177182

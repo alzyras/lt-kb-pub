@@ -29,8 +29,7 @@ Dar prieš Kaributo iš­ siuntimą pranešė Martynui V, kad tai daro įsitikin
 ## Teiginiai
 
 <a id="claim-t-36129"></a>
-- t-001
-  global_id: t-36129
+- t-002
   teiginys: "Vėlesniame laiške popiežiui Martynui V Vytautas teigė nenutraukiantis ryšių su Bažnyčia ir prašė sustabdyti kryžiaus karus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,8 +45,7 @@ Dar prieš Kaributo iš­ siuntimą pranešė Martynui V, kad tai daro įsitikin
     - c-38440
 
 <a id="claim-t-36130"></a>
-- t-002
-  global_id: t-36130
+- t-001
   teiginys: "Vytautas laiške popiežiui Martynui V teigė, kad Kaributo siuntimas yra kelias husitams grąžinti į katalikų Bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,21 +78,12 @@ Dar prieš Kaributo iš­ siuntimą pranešė Martynui V, kad tai daro įsitikin
     nuimti ekskomuniką, nes griežtos priemonės gali nepasiekti sa­
     vo tikslo; čekai yra pažadėję grįžti iš klaidos ir tuo reikalu pa­
     siuntė pas popiežių savo pasiuntinius.
-  citata_rodoma: |
-    Dar prieš Kaributo iš­
-    siuntimą pranešė Martynui V, kad tai daro įsitikinęs, jog tai
-    vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų
-    Bažnyčią. Vėliau Vytautas popiežiui dar rašė, kad jis nenu­
-    traukia ryšių su Bažnyčia, tik nori geruoju atversti husitus, iš­
-    vengiant kraujo praliejimo; prašė sustabdyti kryžiaus karus ir
-    nuimti ekskomuniką, nes griežtos priemonės gali nepasiekti sa­
-    vo tikslo; čekai yra pažadėję grįžti iš klaidos ir tuo reikalu pa­
-    siuntė pas popiežių savo pasiuntinius.
+  citata_rodoma: "Dar prieš Kaributo iš­\nsiuntimą pranešė Martynui V, kad tai daro įsitikinęs, jog tai\nvienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų\nBažnyčią. Vėliau Vytautas popiežiui dar rašė, kad jis nenu­\ntraukia ryšių su Bažnyčia, tik nori geruoju atversti husitus, iš­\nvengiant kraujo praliejimo; prašė sustabdyti kryžiaus karus ir\nnuimti ekskomuniką, nes griežtos priemonės gali nepasiekti sa­\nvo tikslo; čekai yra pažadėję grįžti iš klaidos ir tuo reikalu pa­\nsiuntė pas popiežių savo pasiuntinius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36129
-    - t-36130
+    - t-002
+    - t-001

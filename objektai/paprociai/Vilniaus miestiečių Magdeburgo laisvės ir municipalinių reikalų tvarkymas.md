@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-87288"></a>
 - t-001
-  global_id: t-87288
   teiginys: "Vilniaus klestėjimas ir Magdeburgo teisių suformuota miestiečių padėtis įtikino Vytautą leisti miestiečiams dalyvauti tautos pasitarimuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,4 +98,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87288
+    - t-001

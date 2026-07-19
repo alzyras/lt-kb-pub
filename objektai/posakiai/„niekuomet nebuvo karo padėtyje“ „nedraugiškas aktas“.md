@@ -39,7 +39,6 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
 
 <a id="claim-t-20927"></a>
 - t-001
-  global_id: t-20927
   teiginys: "Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
 
 <a id="claim-t-20928"></a>
 - t-002
-  global_id: t-20928
   teiginys: "Prie 1920 m. liepos 12 d. taikos sutarties 2 straipsnio sovietai įbruko slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,15 +93,15 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
     Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo
     karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos
     sutartimi“).
-  citata_rodoma: |
-    karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos
+  citata_rodoma: "karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20927
+    - t-001
+
 - id: c-23654
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -117,12 +115,11 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
     slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su
     Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedrau-
     giškas aktas“ prieš Lietuvą.
-  citata_rodoma: |
-    slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su
+  citata_rodoma: "slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20928
+    - t-002

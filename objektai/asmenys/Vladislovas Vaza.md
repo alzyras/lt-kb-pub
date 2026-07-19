@@ -4,21 +4,23 @@ pavadinimas: 'Vladislovas Vaza'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1610 m.'
-  - '1634 m.'
-date_start: '1610'
-date_end: '1634'
+  - '1576 m.'
+  - '1649 m.'
+date_start: '1576'
+date_end: '1649'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - valdovas
-amziai:
-  - 'XVII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '63'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Portrait_of_Crown_Prince_Ladislaus_Sigismund_Vasa_-_MNK_XII-353_%28257112%29.jpg/1920px-Portrait_of_Crown_Prince_Ladislaus_Sigismund_Vasa_-_MNK_XII-353_%28257112%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3APortrait_of_Crown_Prince_Ladislaus_Sigismund_Vasa_-_MNK_XII-353_%28257112%29.jpg'
@@ -42,8 +44,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 ## Teiginiai
 
 <a id="claim-t-79221"></a>
-- t-001
-  global_id: t-79221
+- t-011
   teiginys: "Vladislovas Vaza buvo bendrai išrinktas lietuvių ir lenkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,8 +53,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-76290
 
 <a id="claim-t-79222"></a>
-- t-002
-  global_id: t-79222
+- t-010
   teiginys: "Vladislovo Vazos laikais karų buvo kiek mažiau negu kitais Vazų valdymo periodo tarpsniais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +69,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-76289
 
 <a id="claim-t-79223"></a>
-- t-003
-  global_id: t-79223
+- t-007
   teiginys: "Dalis Rusijos bojarinų naujuoju caru išrinko Zigmanto Vazos sūnų Vladislovą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,8 +89,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-76292
 
 <a id="claim-t-79225"></a>
-- t-004
-  global_id: t-79225
+- t-008
   teiginys: "1633 m. rugsėjį Vladislovas Vaza atvyko į frontą su 15 tūkst. kariuomene."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,8 +109,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-76291
 
 <a id="claim-t-79226"></a>
-- t-005
-  global_id: t-79226
+- t-001
   teiginys: "1632 m. Vladislovas Vaza ėmė reformuoti Lietuvos ir Lenkijos kariuomenes, siekdamas padidinti jų ugnies galią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,8 +128,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-76287
 
 <a id="claim-t-79227"></a>
-- t-006
-  global_id: t-79227
+- t-009
   teiginys: "1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė kapituliuoti rusų pajėgas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -152,8 +148,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-42319
 
 <a id="claim-t-79229"></a>
-- t-007
-  global_id: t-79229
+- t-002
   teiginys: "Vladislovo Vazos valdymo laikai datuojami 1632–1648 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -169,8 +164,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-76284
 
 <a id="claim-t-79230"></a>
-- t-008
-  global_id: t-79230
+- t-003
   teiginys: "Nuo Vladislovo Vazos lietuviai XVII a. ėmė rinkti karalius bendrai su lenkais, todėl atskiri Lietuvos seimai nyko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -184,6 +178,66 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-76288
+
+<a id="claim-t-201548"></a>
+- t-012
+  teiginys: "Yra išlikusios 1576 m. Stepono Batoro, 1633 m. Vladislovo Vazos ir 1649 m. Jono Kazimiero, taip pat vėlesnių Abiejų Tautų Respublikos valdovų Kauno miesto konfirmacinės privilegijos."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184895
+
+<a id="claim-t-201549"></a>
+- t-013
+  teiginys: "Vėliau 1643 m. Vladislovas Vaza sprendė Kauno miestiečių bylą su Gegužinės dvaro prie Neries savininku Motiejumi Voderackiu."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184896
+
+<a id="claim-t-201550"></a>
+- t-014
+  teiginys: "Štai 1640 m. Vladislovas Vaza sprendė Lietuvos instigatoriaus ir Kauno girininko Jurgio Čarlinskio bylą su Kauno vaitu Jonu Baniškiu."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184897
+
+<a id="claim-t-201551"></a>
+- t-015
+  teiginys: "1644 m. Vladislovo Vazos rašte teigiama, kad jie jau anksčiau turėjo savo nuostatus, valdovas juos atnaujinąs ir prie laivavedžių į vieną cechą įjungiąs dar vežėjus ir linininkus."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184898
+
+<a id="claim-t-201552"></a>
+- t-016
+  teiginys: "1635 m. Vladislovas Vaza pažodžiui patvirtino savo pirmtako privilegiją ir papildomai skelbė, kad leidžia, kadangi mums buvo praneštas jų (Joniškio miestiečių - ZK) prašymas, geresnei miesto tvarkai Kauno miesto pavyzdžiu naudotis vilkieru arba plebiscitu."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184899
 - susijęs iš [[objektai/asmenys/Mykolas Borisovičius Šeina.md#claim-t-40355|Mykolas Borisovičius Šeina]]: Rusų kariuomenės vado Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai.
 - susijęs iš [[objektai/asmenys/Kristupas II Radvila.md#claim-t-49421|Kristupas II Radvila]]: 1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.
 - susijęs iš [[objektai/asmenys/Kristupas II Radvila.md#claim-t-49422|Kristupas II Radvila]]: 1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.
@@ -205,20 +259,15 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     susirėmimų nustūmė rusus nuo miesto,
     apsupo sumenkusias priešo pajėgas ir
     1634 m. sausio 24 d. privertė kapituliuoti.
-  citata_rodoma: |
-    ATR valdovo
-    Vladislovo Vazos vadovaujama jungtinė
-    lietuvių ir lenkų kariuomenė po atkaklių
-    susirėmimų nustūmė rusus nuo miesto,
-    apsupo sumenkusias priešo pajėgas ir
-    1634 m. sausio 24 d. privertė kapituliuoti.
+  citata_rodoma: "ATR valdovo\nVladislovo Vazos vadovaujama jungtinė\nlietuvių ir lenkų kariuomenė po atkaklių\nsusirėmimų nustūmė rusus nuo miesto,\napsupo sumenkusias priešo pajėgas ir\n1634 m. sausio 24 d. privertė kapituliuoti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79227
+    - t-009
+
 - id: c-76284
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -227,15 +276,15 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     b. Vladislovo Vazoslaikai (1632—1648 m.)
     9. Vladislovo asmuo ir elekcija 315
     10.
-  citata_rodoma: |
-    9. Vladislovo asmuo ir elekcija 315
+  citata_rodoma: "9. Vladislovo asmuo ir elekcija 315"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79229
+    - t-002
+
 - id: c-76287
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -251,19 +300,15 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     menės jėgą vėl suintensyvėjusiame kare, po kurio, ATR valdovas
     Vladislovas Vaza 1632 m. ėmė reformuoti Lietuvos ir Lenkijos
     kariuomenes, siekdamas didinti ugnies galią.
-  citata_rodoma: |
-    1626-1629 m. Lietuvos
-    ir Lenkijos kariuomenėms teko patirti naujosios Švedijos kariuo-
-    menės jėgą vėl suintensyvėjusiame kare, po kurio, ATR valdovas
-    Vladislovas Vaza 1632 m. ėmė reformuoti Lietuvos ir Lenkijos
-    kariuomenes, siekdamas didinti ugnies galią.
+  citata_rodoma: "1626-1629 m. Lietuvos\nir Lenkijos kariuomenėms teko patirti naujosios Švedijos kariuo-\nmenės jėgą vėl suintensyvėjusiame kare, po kurio, ATR valdovas\nVladislovas Vaza 1632 m. ėmė reformuoti Lietuvos ir Lenkijos\nkariuomenes, siekdamas didinti ugnies galią."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79226
+    - t-001
+
 - id: c-76288
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -276,17 +321,15 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     jais tik per delegatus. Bet XVII amžiuje, kai, pradedant Vladis-
     lovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie
     atskiri Lietuvos seimai ėmė nykti.
-  citata_rodoma: |
-    Bet XVII amžiuje, kai, pradedant Vladis-
-      lovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie
-      atskiri Lietuvos seimai ėmė nykti.
+  citata_rodoma: "Bet XVII amžiuje, kai, pradedant Vladis-\n  lovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie\n  atskiri Lietuvos seimai ėmė nykti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79230
+    - t-003
+
 - id: c-76289
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -296,16 +339,15 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     dymo periodas buvo pilnas sunkių karų. Kiek mažiau jų buvo
     tik Vladislovo laikais, bet Jono Kazimiero laikais visa Lietuva
     buvo nuteriota Maskvos ir Švedų kariuomenių.
-  citata_rodoma: |
-    Kiek mažiau jų buvo tik Vladislovo laikais, bet Jono Kazimiero
-      laikais visa Lietuva buvo nuteriota Maskvos ir Švedų kariuomenių.
+  citata_rodoma: "Kiek mažiau jų buvo tik Vladislovo laikais, bet Jono Kazimiero\n  laikais visa Lietuva buvo nuteriota Maskvos ir Švedų kariuomenių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79222
+    - t-010
+
 - id: c-76290
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -314,15 +356,15 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     Stp. Batoro ir Zigmanto Vazos lietuviai iš pradžių
     net nepripažino savo didžiaisiais kunigaikščiais. Bet Vladislovas
     Vaza jau buvo bendrai išrinktas.
-  citata_rodoma: |
-    Bet Vladislovas Vaza jau buvo bendrai išrinktas.
+  citata_rodoma: "Bet Vladislovas Vaza jau buvo bendrai išrinktas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79221
+    - t-011
+
 - id: c-76291
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -334,20 +376,15 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     naujasis Abiejų Tautų Respublikos val-
     dovas Vladislovas Vaza su 15 tūkst. ka-
     riuomene. Rusų pajėgų padėtis ėmė
-  citata_rodoma: |
-    žiemą į pagalbą atskubėjo tuo-
-    metinis Lietuvos lauko etmonas Kristupas
-    Radvila 11. Rugsėjį į frontą atvyko ir
-    naujasis Abiejų Tautų Respublikos val-
-    dovas Vladislovas Vaza su 15 tūkst. ka-
-    riuomene.
+  citata_rodoma: "žiemą į pagalbą atskubėjo tuo-\nmetinis Lietuvos lauko etmonas Kristupas\nRadvila 11. Rugsėjį į frontą atvyko ir\nnaujasis Abiejų Tautų Respublikos val-\ndovas Vladislovas Vaza su 15 tūkst. ka-\nriuomene."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79225
+    - t-008
+
 - id: c-76292
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -363,20 +400,95 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     Tačiau galiausiai Rusijoje kilo didelis suki-
     limas, Maskvoje įsitvirtinę lenkai ir lietu-
     viai buvo apsupti ir priversti kapituliuoti.
-  citata_rodoma: |
-    su-
-
-    mušusi rusus prie Klušino, užėmė Maskvą.
-
-    Dalis Rusijos bojarinų naujuoju caru iš-
-    rinko Zigmanto Vazos sūnų Vladislovą.
-    Tačiau galiausiai Rusijoje kilo didelis suki-
-    limas, Maskvoje įsitvirtinę lenkai ir lietu-
-    viai buvo apsupti ir priversti kapituliuoti.
+  citata_rodoma: "su-\n\nmušusi rusus prie Klušino, užėmė Maskvą.\n\nDalis Rusijos bojarinų naujuoju caru iš-\nrinko Zigmanto Vazos sūnų Vladislovą.\nTačiau galiausiai Rusijoje kilo didelis suki-\nlimas, Maskvoje įsitvirtinę lenkai ir lietu-\nviai buvo apsupti ir priversti kapituliuoti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79223
+    - t-007
+
+- id: c-184895
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Yra išlikusios 1576 m. Stepono Batoro, 1633 m. Vladislovo Vazos ir
+    1649 m. Jono Kazimiero, taip pat vėlesnių Abiejų Tautų Respublikos valdovų Kauno
+    miesto konfirmacinės privilegijos.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
+- id: c-184896
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Šis užpuolęs prie Saidžių kaimo Suder-
+    vės valdoje sustojusias 5 Kauno pirklių vytines ir kaip kranto mokestį pagrobęs iš
+    jų kelias statines druskos ir silkių. Vėliau 1643 m. Vladislovas Vaza sprendė Kauno
+    miestiečių bylą su Gegužinės dvaro prie Neries savininku Motiejumi Voderackiu.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
+- id: c-184897
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Mažėjant tradicinio miško verslo apimtims, Kauno miestiečiai ieškojo kitų
+    verslo galimybių giriose. Štai 1640 m. Vladislovas Vaza sprendė Lietuvos instiga-
+    toriaus ir Kauno girininko Jurgio Čarlinskio bylą su Kauno vaitu Jonu Baniškiu.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
+- id: c-184898
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Ne viskas aišku dėl laivavedžių cecho. 1644 m. Vladislovo Vazos rašte teigiama,
+    kad jie jau anksčiau turėjo savo nuostatus, valdovas juos atnaujinąs ir prie laivavedžių
+    į vieną cechą įjungiąs dar vežėjus ir linininkus.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+
+- id: c-184899
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Zigmantas Vaza priminė vaitui, kad šis neskriaus tų miestiečių, nes šie
+    turintys tokias pačias teises, kaip kiti privilegijuoti magdeburginiai miestai, o ypač
+    Kaunas. 1635 m. Vladislovas Vaza pažodžiui patvirtino savo pirmtako privilegiją ir
+    papildomai skelbė, kad
+    leidžia, kadangi mums buvo praneštas jų (Joniškio miestiečių - ZK) prašymas, geresnei
+    miesto tvarkai Kauno miesto pavyzdžiu naudotis vilkieru arba plebiscitu.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016

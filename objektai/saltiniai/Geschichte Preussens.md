@@ -39,7 +39,6 @@ Voigt 9 tomų veikale Geschichte Preusseus (1827-1838) nagrinėja kryžiuočių 
 
 <a id="claim-t-67397"></a>
 - t-001
-  global_id: t-67397
   teiginys: "J. Voigtas 9 tomų veikale „Geschichte Preussens“ nagrinėjo kryžiuočių santykius su Lietuva iki Vokiečių ordino žlugimo 1525 m."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Voigt 9 tomų veikale Geschichte Preusseus (1827-1838) nagrinėja kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67397
+    - t-001

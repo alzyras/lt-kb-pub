@@ -31,7 +31,6 @@ Kadangi Viešpats Dievas vakar, prieš pirmą valandą nakties, paėmė mums iš
 
 <a id="claim-t-86579"></a>
 - t-001
-  global_id: t-86579
   teiginys: "Valdovas mirė penktąją ligos, medikų akte įvardytos febri sincopi interna, dieną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Kadangi Viešpats Dievas vakar, prieš pirmą valandą nakties, paėmė mums iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86579
+    - t-001

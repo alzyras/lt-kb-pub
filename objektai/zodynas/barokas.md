@@ -42,8 +42,7 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
 ## Teiginiai
 
 <a id="claim-t-45786"></a>
-- t-001
-  global_id: t-45786
+- t-003
   teiginys: "Lietuvos barokas perėjo nuo kuklaus, Renesanso veikiamo baroko prie vėlyvojo baroko, rokoko ir savitos Vilniaus baroko mokyklos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
     - c-48467
 
 <a id="claim-t-45787"></a>
-- t-002
-  global_id: t-45787
+- t-004
   teiginys: "Žodis „barokas“ siejamas su ispanišku barrueco ir portugališku barroco, reiškiančiais netaisyklingos formos perlą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
     - c-48467
 
 <a id="claim-t-45788"></a>
-- t-003
-  global_id: t-45788
+- t-001
   teiginys: "Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -129,6 +126,6 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45786
-    - t-45787
-    - t-45788
+    - t-003
+    - t-004
+    - t-001

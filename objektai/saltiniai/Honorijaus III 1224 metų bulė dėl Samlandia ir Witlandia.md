@@ -36,7 +36,6 @@ Teodoras Narbutas 1224 m. popiežiaus Honorijaus III bulėje skyrė Samlandia ir
 
 <a id="claim-t-191840"></a>
 - t-001
-  global_id: t-191840
   teiginys: "Teodoras Narbutas 1224 m. popiežiaus Honorijaus III bulėje skyrė Samlandia ir Witlandia, pabrėždamas, kad vietoj Wirlandia reikia skaityti Witlandia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Teodoras Narbutas 1224 m. popiežiaus Honorijaus III bulėje skyrė Samlandia ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191840
+    - t-001

@@ -30,7 +30,6 @@ Dusburgietis teigia, kad kartais tvirtinama, kad žynių luomo apskritai nėra b
 
 <a id="claim-t-60731"></a>
 - t-001
-  global_id: t-60731
   teiginys: "M. Kosmanas teigė, kad žynių luomo apskritai nėra buvę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Dusburgietis teigia, kad kartais tvirtinama, kad žynių luomo apskritai nėra b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60731
+    - t-001

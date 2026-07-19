@@ -32,7 +32,6 @@ Ordino ir Vytauto santykiams buvo reikšminga, kai abi pusi pasižadėjo iš kit
 
 <a id="claim-t-99977"></a>
 - t-001
-  global_id: t-99977
   teiginys: "Ordinas ir Vytautas pasižadėjo iš kito krašto nepriimti činšą mokančių ir nelaisvų valstiečių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Ordino ir Vytauto santykiams buvo reikšminga, kai abi pusi pasižadėjo iš kit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99977
+    - t-001

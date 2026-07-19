@@ -36,7 +36,6 @@ Dusburgietis teigia, kad otrębski J.
 
 <a id="claim-t-61208"></a>
 - t-001
-  global_id: t-61208
   teiginys: "J. Otrębskio „Udział Jaćwingów w ukształtowaniu języka polskiego“ 1964 m. publikuotas Balstogėje leidinyje „ABS“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad otrębski J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61208
+    - t-001

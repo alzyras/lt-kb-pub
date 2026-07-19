@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-39872"></a>
 - t-001
-  global_id: t-39872
   teiginys: "A. Skučas parašė dokumentinį romaną „Pėstininko užrašai“, išleistą Vilniuje 2012 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39872
+    - t-001

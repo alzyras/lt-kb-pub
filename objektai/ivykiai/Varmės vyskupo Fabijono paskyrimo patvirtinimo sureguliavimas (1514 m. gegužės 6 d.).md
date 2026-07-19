@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-86961"></a>
 - t-001
-  global_id: t-86961
   teiginys: "1514 m. gegužės 6 d. Vilniuje nuspręsta siekti Šventojo Tėvo patvirtinimo dėl Varmės vyskupo rinkimo artikulų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,4 +130,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86961
+    - t-001

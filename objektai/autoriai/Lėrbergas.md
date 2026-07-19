@@ -31,9 +31,8 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
 
 <a id="claim-t-190368"></a>
 - t-001
-  global_id: t-190368
   teiginys: "Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti abejonę dėl jo aptariamo padavimo."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -45,7 +44,6 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
 
 <a id="claim-t-190369"></a>
 - t-002
-  global_id: t-190369
   teiginys: "Narbutas rašo, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popiežių“ kėlė abejones dėl vyriausiojo žynio egzistavimo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -66,7 +64,6 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
 
 <a id="claim-t-197320"></a>
 - t-003
-  global_id: t-197320
   teiginys: "Lėrbergas išspręsdavo privačių asmenų ir žemių arba vienos genties atskirų kaimų ginčus."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -99,7 +96,8 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197320
+    - t-003
+
 - id: c-173252
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -120,5 +118,5 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190368
-    - t-190369
+    - t-001
+    - t-002

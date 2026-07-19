@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185800"></a>
 - t-001
-  global_id: t-185800
   teiginys: "Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185800
+    - t-001

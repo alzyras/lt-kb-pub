@@ -32,9 +32,8 @@ media_all_json: |-
 
 <a id="claim-t-186142"></a>
 - t-001
-  global_id: t-186142
   teiginys: "Žiemos pabaigoje į Lietuvą pas karalių atvyko Liudvikas, Antiochijos patriarchas ir popiežiaus pasiuntinys."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -74,23 +73,11 @@ media_all_json: |-
     nei iš tikrųjų (paprastai šitokį atgarsį sukelia pirmi
     gandai), nes žmogus be galo linkęs viską perdėti arba
     visko prisigalvoti, kaip jam šauna į galvą.
-  citata_rodoma: |
-    Iš ten karalius nuvyko į Lietuvą
-    ir likusius žiemos mėnesius praleido Kaune, nes Vil­
-    niuje ir Gardine siautė maras.
-    Žiemos pabaigoje atvyko Lietuvon pas karalių Liud­
-    vikas, Antiochijos
-    patriar­
-    chas, popiežiaus pasiuntinys.
-    Rytų imperijos gyventojai,
-    pavergti turkų, maldavo Va­
-    karų šalis, o ypač popiežių
-    bei imperatorių padėti be-
-    žlungančiai krikščionybei.
+  citata_rodoma: "Iš ten karalius nuvyko į Lietuvą\nir likusius žiemos mėnesius praleido Kaune, nes Vil­\nniuje ir Gardine siautė maras.\nŽiemos pabaigoje atvyko Lietuvon pas karalių Liud­\nvikas, Antiochijos\npatriar­\nchas, popiežiaus pasiuntinys.\nRytų imperijos gyventojai,\npavergti turkų, maldavo Va­\nkarų šalis, o ypač popiežių\nbei imperatorių padėti be-\nžlungančiai krikščionybei."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186142
+    - t-001

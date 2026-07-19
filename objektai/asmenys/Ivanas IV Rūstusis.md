@@ -40,8 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-40147"></a>
-- t-001
-  global_id: t-40147
+- t-002
   teiginys: "Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,22 +78,11 @@ media_all_json: |-
     pretendentai į Rusijos sostą ir kai kurių
     rusų bojarinų giminių atstovai. Lenkų ka-
     riuomenė šios sumaišties metu 1610 m. su-
-  citata_rodoma: |
-    Proga atsiimti Smolenską atsirado
-    XVII a. pradžioje, kai mirus abiems Iva-
-    no IV (Rūsčiojo) palikuonims Fiodorui
-    ir mažamečiui Dmitrijui, nutrūko Rusiją
-
-    valdžiusių Riurikaičių dinastija ir šią šalį
-    ištiko gili krizė. Dėl valdžios ėmė kovoti
-    Abiejų Tautų valdovo Zigmanto Vazos re-
-    miami išgyvenusiu Dmitrijumi apsimetę
-    pretendentai į Rusijos sostą ir kai kurių
-    rusų bojarinų giminių atstovai.
+  citata_rodoma: "Proga atsiimti Smolenską atsirado\nXVII a. pradžioje, kai mirus abiems Iva-\nno IV (Rūsčiojo) palikuonims Fiodorui\nir mažamečiui Dmitrijui, nutrūko Rusiją\n\nvaldžiusių Riurikaičių dinastija ir šią šalį\ništiko gili krizė. Dėl valdžios ėmė kovoti\nAbiejų Tautų valdovo Zigmanto Vazos re-\nmiami išgyvenusiu Dmitrijumi apsimetę\npretendentai į Rusijos sostą ir kai kurių\nrusų bojarinų giminių atstovai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40147
+    - t-002

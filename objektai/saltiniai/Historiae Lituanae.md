@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-31705"></a>
 - t-001
-  global_id: t-31705
   teiginys: "Albertas Vijūkas Kojalavičius parašė dviejų tomų veikalą „Historiae Lituanae“, išgarsinusį jį kaip žymų Lietuvos istoriką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,19 +60,11 @@ media_all_json: |-
     Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų
     kalba vis daugiau praplito Lietuvos kilmingųjų sluoksniuose, Koja­
     lavičius parašė savo Historiae Lituanae.
-  citata_rodoma: |
-    Šis iš Kauno kilęs gausių religinių-pasto­
-    racinių, asketinių, poleminių ir filosofinių raštų autorius, Lietuvos
-    heraldikas, Vilniaus Akademijos profesorius, vėlesnėse kartose
-    išryškėjo su savo dviejų tomų « Historiae Lituanae » kaip žymus
-    Lietuvos istorikas.
-    Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų
-    kalba vis daugiau praplito Lietuvos kilmingųjų sluoksniuose, Koja­
-    lavičius parašė savo Historiae Lituanae.
+  citata_rodoma: "Šis iš Kauno kilęs gausių religinių-pasto­\nracinių, asketinių, poleminių ir filosofinių raštų autorius, Lietuvos\nheraldikas, Vilniaus Akademijos profesorius, vėlesnėse kartose\nišryškėjo su savo dviejų tomų « Historiae Lituanae » kaip žymus\nLietuvos istorikas.\nKai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų\nkalba vis daugiau praplito Lietuvos kilmingųjų sluoksniuose, Koja­\nlavičius parašė savo Historiae Lituanae."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31705
+    - t-001

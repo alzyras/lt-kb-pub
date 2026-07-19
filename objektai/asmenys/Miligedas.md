@@ -30,10 +30,9 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
 ## Teiginiai
 
 <a id="claim-t-60173"></a>
-- t-001
-  global_id: t-60173
+- t-002
   teiginys: "Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais sugrįžo į Bartenšteino pilį."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Bartenšteinas: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -46,10 +45,9 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
   semantiniai_rysiai: "Miligedas keliavo į Bartenšteinas (0.93)"
   pagrindžia:
     - c-60805
-    - c-001
+
 <a id="claim-t-60174"></a>
-- t-002
-  global_id: t-60174
+- t-001
   teiginys: "Miligedas buvo Bartenšteino pilies vyras, kurį prūsai laikė itin svarbiu pilies įgulai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,7 +61,7 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60806
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais sugrįžo į Bartenšteino pilį.'
@@ -79,8 +77,6 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60173
 - c-002
   santrauka: 'Miligedas buvo Bartenšteino pilies vyras, kurį prūsai laikė itin svarbiu pilies įgulai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -94,8 +90,7 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60174
+
 ## Citatos
 
 - id: c-60805
@@ -111,19 +106,15 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
     kaip elgtis, kai tyko tokios nelaimės. Jam atsakė iš dangaus pasigirdęs balsas: „Judėja
     ir Jeruzale, nesibaiminkite, rytoj išeisite, o viešpats bus su jumis; būkite patvarios ir
     regėsite viešpaties jums siunčiamą pagal bą“.
-  citata_rodoma: |
-    Sitai girdėdamas,
-    Miligedas, paprašęs brolių leidimo ir jį gavęs, išėjo ir pradėjo šį bėgantį vytis. Pastebėjęs
-    didelį priešų būrį, staiga iššokusį iš pasalų, jis nukovė savo iššaukėją, paspruko į mišką
-    ir slaptais keliais sugrįžo į Bartenšteino pilį. Šitokiais bei panašiais būdais [prūsai] jį ilgai
-    viliojo  į dvikovą, kol galop, nutykoję progą, nužudė.
+  citata_rodoma: "Sitai girdėdamas,\nMiligedas, paprašęs brolių leidimo ir jį gavęs, išėjo ir pradėjo šį bėgantį vytis. Pastebėjęs\ndidelį priešų būrį, staiga iššokusį iš pasalų, jis nukovė savo iššaukėją, paspruko į mišką\nir slaptais keliais sugrįžo į Bartenšteino pilį. Šitokiais bei panašiais būdais [prūsai] jį ilgai\nviliojo  į dvikovą, kol galop, nutykoję progą, nužudė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60173
+    - t-002
+
 - id: c-60806
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -137,17 +128,14 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
     Prūsams atstačius kuorus, ketvirtaisiais [apsupimo] metais, taigi 1264 viešpaties
     metais, broliai, trūkdami maisto ir negalėdami ilgiau prūsams priešintis, tris kartus vis
     dėlto juos apgavo štai kokiu būdu.
-  citata_rodoma: |
-    Mat Bartenšteino pilyje buvo vienas vyras, vardu
-    Miligedas, toks drąsus, kad prūsams rodėsi, jog,  jį nukovus, pusė pilies įgulos būtų
-    buvusi sunaikinta. Dėl to jie nutarė klasta jį išvilioti ir nužudyti; išmėginę daug visokių
-    priemonių, galop ėmėsi štai šio būdo.
+  citata_rodoma: "Mat Bartenšteino pilyje buvo vienas vyras, vardu\nMiligedas, toks drąsus, kad prūsams rodėsi, jog,  jį nukovus, pusė pilies įgulos būtų\nbuvusi sunaikinta. Dėl to jie nutarė klasta jį išvilioti ir nužudyti; išmėginę daug visokių\npriemonių, galop ėmėsi štai šio būdo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60174
+    - t-001
+
 ## Ryšiai
 - Miligedas keliavo į [[objektai/vietos/Bartenšteinas]]

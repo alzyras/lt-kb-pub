@@ -39,7 +39,6 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 
 <a id="claim-t-101620"></a>
 - t-001
-  global_id: t-101620
   teiginys: "XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lietuvą, Čekiją ir Vengriją, todėl rytinė Vidurio Europa vadinta „jogailaičių Europa“."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 
 <a id="claim-t-101621"></a>
 - t-002
-  global_id: t-101621
   teiginys: "Krikščionybės forposto idėja buvo nukreipta prieš stačiatikišką Maskvą ir siejosi su krikščioniškojo mentaliteto įsigalėjimu visuomenės elite."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 
 <a id="claim-t-101622"></a>
 - t-003
-  global_id: t-101622
   teiginys: "LDK visuomenei europėjant susiformavo leno teisė, feodai, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +91,6 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 
 <a id="claim-t-183493"></a>
 - t-004
-  global_id: t-183493
   teiginys: "Jogailaičių dinastija Lenkijos ir Lietuvos sostuose valdė iki 1572 m., o XV a. pabaigoje–XVI a. pradžioje užėmė ir Čekijos bei Vengrijos sostus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -118,7 +114,6 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 
 <a id="claim-t-193615"></a>
 - t-005
-  global_id: t-193615
   teiginys: "Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -143,15 +138,15 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
     je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus. Taigi,
     šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
     jogailaičių dinastija – pagrindine Habsburgų dinastijos konkurente.
-  citata_rodoma: |
-    je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus. Taigi,
+  citata_rodoma: "je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus. Taigi,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101620
+    - t-001
+
 - id: c-23627
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -166,17 +161,17 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
     talitetas įsigali bent jau tarp visuomenės elito (antemurale christianita-
     tis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą),
     susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
-  citata_rodoma: |
-    tis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą),
+  citata_rodoma: "tis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą),"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101621
-    - t-101622
-    - t-193615
+    - t-002
+    - t-003
+    - t-005
+
 - id: c-166887
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -198,4 +193,4 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183493
+    - t-004

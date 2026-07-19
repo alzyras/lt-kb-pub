@@ -40,7 +40,6 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
 
 <a id="claim-t-194297"></a>
 - t-001
-  global_id: t-194297
   teiginys: "Jono Kolegijos Vaistinės kronika 1546."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
 
 <a id="claim-t-194298"></a>
 - t-002
-  global_id: t-194298
   teiginys: "Tėvai jėzuitai, tą mūrinį namą suremontavę, vaisti nei atidavė, taip pat onus [mokesčius] pavedė vaistininkui mokėti kasmet po 140 auksinų bažnyčios labui."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -66,7 +64,6 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
 
 <a id="claim-t-194299"></a>
 - t-003
-  global_id: t-194299
   teiginys: "Be aukščiau išvardintų pajamų ir išlaidų notandum [pa žymėtina], kad nemaža medikamentų dalis buvo išleista in Collegio sergantiems asmenims, kuriuos vaistininkams rei kia tenebantur be užmokesčio gydyti ir duoti vaistų."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -105,7 +102,8 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194297
+    - t-001
+
 - id: c-176890
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -125,7 +123,8 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194298
+    - t-002
+
 - id: c-176891
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -143,4 +142,4 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194299
+    - t-003

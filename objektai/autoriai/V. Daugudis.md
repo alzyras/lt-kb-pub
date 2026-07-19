@@ -39,8 +39,7 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
 ## Teiginiai
 
 <a id="claim-t-31023"></a>
-- t-001
-  global_id: t-31023
+- t-002
   teiginys: "V. Daugudis 1961 m. paskelbė darbą apie Mažulonių piliakalnį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
     - c-33167
 
 <a id="claim-t-31024"></a>
-- t-002
-  global_id: t-31024
+- t-001
   teiginys: "V. Daugudis 1966 m. paskelbė darbą apie grublėtosios keramikos Lietuvoje kilmę ir chronologiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,16 +86,15 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
     keramikos Lietuvoje kilmę ir chronologiją_ , AkMD, t. 22, 1966, 55-66 p.
     (rus. k., su liet. santr.). — (”) _Seniausieji mediniai pastatai ir įrengimai
     Lietuvoje_ (1.
-  citata_rodoma: |
-    — Daugudis, V. : _Kai kurie duomenys apie grublėtosios
-    keramikos Lietuvoje kilmę ir chronologiją_ , AkMD, t. 22, 1966, 55-66 p.
+  citata_rodoma: "— Daugudis, V. : _Kai kurie duomenys apie grublėtosios\nkeramikos Lietuvoje kilmę ir chronologiją_ , AkMD, t. 22, 1966, 55-66 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31024
+    - t-001
+
 - id: c-33167
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -110,13 +107,11 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
     Vakarų Lietuvos priešistorinės kultūros apžvalga_ , Mažoji Lietuva - Studia
     Lituanica, I, 1958, 9-121 p. — (”) _Vėlyvasis geležies amžius_ , LE, t. 15, 285-
     291 p. — Hoffmann, J. : _Die spätheidnische Kultur des Memellandes,_
-  citata_rodoma: |
-    —Daugudis, V.: _Mažulonių
-    piliakalnis_ , ILKI, t. 3, 1961, 16-40 p.
+  citata_rodoma: "—Daugudis, V.: _Mažulonių\npiliakalnis_ , ILKI, t. 3, 1961, 16-40 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31023
+    - t-002

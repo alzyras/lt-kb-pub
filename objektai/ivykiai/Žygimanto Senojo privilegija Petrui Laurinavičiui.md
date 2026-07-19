@@ -49,9 +49,8 @@ Nenurodyta
 
 <a id="claim-t-192009"></a>
 - t-001
-  global_id: t-192009
   teiginys: "1538 m. sausio 25 d. Piotrkove Žygimantas Senasis suteikė Petrui Laurinavičiui privilegiją, patvirtinusią įvairius pirkimus."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,7 +69,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174891
-    - c-001
 - susijęs iš 1538 m. Žygimanto Senojo privilegija Petrui Laurinavičiui: 1538 m. sausio 25 d. Piotrkove Žygimanto Senojo privilegija Petrui Laurinavičiui patvirtino įvairius Vilniaus piliečio pirkimus.
 - susijęs iš [[objektai/asmenys/Petras Laurinavičius.md#claim-t-191454|Petras Laurinavičius]]: 1538 m. sausio 25 d. Piotrkove Žygimanto Senojo privilegija Petrui Laurinavičiui patvirtino įvairius jo pirkimus.
 ## Reikšmingi paminėjimai
@@ -87,8 +85,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192009
+
 ## Citatos
 
 - id: c-174891
@@ -115,15 +112,11 @@ Nenurodyta
     architektūros profesorius, apžiūrinėdamas Vilniaus Katedros var­
     pinę, pastebėjo ant plytų ten, kur baigiasi jos netaisyklingoji da­
     lis, kažkokius atspaudus ir ženklus, kuriuos parodė Leleveliui.
-  citata_rodoma: |
-    17a Žygimanto Senojo privilegija, duota Petrui Laurinavičiui,
-    Viln/iaus/ piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrko-
-    vas. 1538.1.25. Iš Lietuvos Metrikos. Išspausdino Kraševskis (Wil-
-    no. T. IV).
+  citata_rodoma: "17a Žygimanto Senojo privilegija, duota Petrui Laurinavičiui,\nViln/iaus/ piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrko-\nvas. 1538.1.25. Iš Lietuvos Metrikos. Išspausdino Kraševskis (Wil-\nno. T. IV)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192009
+    - t-001

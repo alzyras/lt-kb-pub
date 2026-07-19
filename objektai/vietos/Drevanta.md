@@ -43,8 +43,7 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
 ## Teiginiai
 
 <a id="claim-t-58431"></a>
-- t-001
-  global_id: t-58431
+- t-002
   teiginys: "Drevanta skyrė lenkiškąją Dobrynės žemę nuo upių ir ežerų supamo ploto, o jos vardas laikomas baltišku."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
     - c-59062
 
 <a id="claim-t-184944"></a>
-- t-002
-  global_id: t-184944
+- t-003
   teiginys: "Smarkiai patvinusi Drevanta sutrukdė grobiu apkrautiems kariams persikelti į Kulmo žemę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,6 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Drevantos poveikį žygiui."
   pagrindžia:
     - c-168305
-    - c-002
 - susijęs iš [[objektai/asmenys/Luterbergas.md#claim-t-60167|Luterbergas]]: Kulmo landkomtūras Luterbergas Drevantos upės pakrantėje pastatė miestą, vardu Noimarkas.
 - susijęs iš Kulmas: Narbutas rašė, kad Kulmas į rytus tuomet tęsėsi tik iki Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą.
 - susijęs iš Lubava: Lubava buvo gyvenvietė į rytus nuo Drevantos aukštupio.
@@ -140,8 +137,7 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184944
+
 ## Citatos
 
 - id: c-59062
@@ -152,19 +148,16 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
     Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo
     lenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Drvenca). Upės vardas baltiškas
     (1222 m. dokumentuose — Drevanza, Dreuanza; 1230 m.— Drvancha, PUB, 1, 1, Nr.
-    41, p. 30; Nr. 75, p. 55; Drewancz, 1243 m.— Drawanta; plg.
-  citata_rodoma: |
-    Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo
-    lenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Drvenca). Upės vardas baltiškas
-    (1222 m. dokumentuose — Drevanza, Dreuanza; 1230 m.— Drvancha, PUB, 1, 1, Nr.
-    41, p. 30; Nr. 75, p. 55; Drewancz, 1243 m.— Drawanta; plg.
+    41, p. 30; Nr. 75, p. 55; Drewancz, 1243 m.— Drawanta; plg. lie. drevėti, žr. GAO, p.
+  citata_rodoma: "Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo\nlenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Drvenca). Upės vardas baltiškas\n(1222 m. dokumentuose — Drevanza, Dreuanza; 1230 m.— Drvancha, PUB, 1, 1, Nr.\n41, p. 30; Nr. 75, p. 55; Drewancz, 1243 m.— Drawanta; plg."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58431
+    - t-002
+
 - id: c-168305
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -192,32 +185,11 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
     žygio ėmėsi kunigaikščių pa­
     raginti ryžtingiausi ir nar­
     siausi raiteliai.
-  citata_rodoma: |
-    Iš L iv o n ijo s lie tu v ia i
-    Taigi šeši tūkstančiai karių,
-    ž y g iu o ja
-    Į
-    L en k iją ,
-    staigiai įsiveržusių Į Dobry-
-    n io k o ja  D o b ryn ę
-    nę, nuniokojo visą kraštą.
-    Bendras sąjungininkų pralai­
-    mėjimas būtų palietęs ir Kulmo žemę, jeigu smarkiai
-    patvinusi Drevanta nebūtų sutrukdžiusi grobiu apsikro­
-    vusiems kariams persikelti. Greitosiomis sutelktas len­
-    kų būrys pasivijo besitrau-
-    1301 m e ta i
-    kiančius lietuvius ir, tikėda­
-    masis atsiimti grobį, smarkiai
-    užpuolė ariergardą, nedelsdamas nė valandėlės; ka­
-    dangi ten susidūrė su geriausiais kariuomenės daliniais,
-    o visos gurguolės buvo nuvarytos į priekį, jie nedrįso
-    bandyti laimės tikrose kautynėse ir davė trimitu ženk­
-    lą trauktis.
+  citata_rodoma: "Iš L iv o n ijo s lie tu v ia i\nTaigi šeši tūkstančiai karių,\nž y g iu o ja\nĮ\nL en k iją ,\nstaigiai įsiveržusių Į Dobry-\nn io k o ja  D o b ryn ę\nnę, nuniokojo visą kraštą.\nBendras sąjungininkų pralai­\nmėjimas būtų palietęs ir Kulmo žemę, jeigu smarkiai\npatvinusi Drevanta nebūtų sutrukdžiusi grobiu apsikro­\nvusiems kariams persikelti. Greitosiomis sutelktas len­\nkų būrys pasivijo besitrau-\n1301 m e ta i\nkiančius lietuvius ir, tikėda­\nmasis atsiimti grobį, smarkiai\nužpuolė ariergardą, nedelsdamas nė valandėlės; ka­\ndangi ten susidūrė su geriausiais kariuomenės daliniais,\no visos gurguolės buvo nuvarytos į priekį, jie nedrįso\nbandyti laimės tikrose kautynėse ir davė trimitu ženk­\nlą trauktis."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184944
+    - t-003

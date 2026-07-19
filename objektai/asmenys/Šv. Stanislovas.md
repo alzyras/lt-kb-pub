@@ -39,7 +39,6 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 
 <a id="claim-t-64437"></a>
 - t-001
-  global_id: t-64437
   teiginys: "Jogailos pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
     - c-65191
 
 <a id="claim-t-64438"></a>
-- t-002
-  global_id: t-64438
+- t-003
   teiginys: "Šv. Stanislovo skulptūra stovėjo ant katedros frontono kartu su šv. Kazimiero ir šv. Elenos skulptūromis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
     - c-166973
 
 <a id="claim-t-183579"></a>
-- t-003
-  global_id: t-183579
+- t-004
   teiginys: "XVI a. pradžioje šv. Kazimiero kultas ėmė išstumti Lenkijos globėjo šv. Stanislovo kultą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
     - c-166972
 
 <a id="claim-t-183580"></a>
-- t-004
-  global_id: t-183580
+- t-005
   teiginys: "1792 m. buvo baigta Lenkijos globėjo šv. Stanislovo skulptūra ant katedros frontono."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -129,15 +125,15 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
     švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos
     turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje,
     kur anksčiau degė pagonių amžinoji ugnis.
-  citata_rodoma: |
-    švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos
+  citata_rodoma: "švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64437
+    - t-001
+
 - id: c-166972
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -152,7 +148,8 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183579
+    - t-004
+
 - id: c-166973
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -166,5 +163,5 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64438
-    - t-183580
+    - t-003
+    - t-005

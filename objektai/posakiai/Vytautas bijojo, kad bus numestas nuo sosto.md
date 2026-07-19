@@ -31,7 +31,6 @@ Kronikininko žodžiais, «Vytautas ėmė smarkiai bijoti, kad karaliui (Jogaila
 
 <a id="claim-t-31553"></a>
 - t-001
-  global_id: t-31553
   teiginys: "Kronikininkas teigė, kad Vytautas bijojo būti nuverstas nuo sosto, jei Jogaila paimtų visą Prūsiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,17 +60,11 @@ Kronikininko žodžiais, «Vytautas ėmė smarkiai bijoti, kad karaliui (Jogaila
     pasiųstas prieš Livonijos kariuomenę^32 , Vytautas padaręs taiką, nes
     iš Livonijos ordino gavęs pažadą, kad jam bus pripažinta Sūduva
     ir Žemaičiai.
-  citata_rodoma: |
-    Kronikininko žodžiais, «Vytautas
-    ėmė smarkiai bijoti, kad karaliui (Jogailai) visą Prūsiją paėmus,
-    jis (Vytautas) gali būti numestas nuo sosto»^31. Tad, Jogailos
-    pasiųstas prieš Livonijos kariuomenę^32 , Vytautas padaręs taiką, nes
-    iš Livonijos ordino gavęs pažadą, kad jam bus pripažinta Sūduva
-    ir Žemaičiai.
+  citata_rodoma: "Kronikininko žodžiais, «Vytautas\nėmė smarkiai bijoti, kad karaliui (Jogailai) visą Prūsiją paėmus,\njis (Vytautas) gali būti numestas nuo sosto»^31. Tad, Jogailos\npasiųstas prieš Livonijos kariuomenę^32 , Vytautas padaręs taiką, nes\niš Livonijos ordino gavęs pažadą, kad jam bus pripažinta Sūduva\nir Žemaičiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31553
+    - t-001

@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-39292"></a>
 - t-001
-  global_id: t-39292
   teiginys: "Vidutinis austriškas kulkosvaidis Shwarzlose, modelis 07/12, buvo naudotas Lenkijos kariuomenės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,4 +103,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39292
+    - t-001

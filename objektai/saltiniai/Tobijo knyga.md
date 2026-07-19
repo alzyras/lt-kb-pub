@@ -30,9 +30,8 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
 
 <a id="claim-t-61316"></a>
 - t-001
-  global_id: t-61316
   teiginys: "Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Petras Dusburgietis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -44,7 +43,8 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61948
-    - c-002
+    - c-167382
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.'
@@ -68,8 +68,7 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61316
+
 ## Citatos
 
 - id: c-61948
@@ -95,7 +94,8 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61316
+    - t-001
+
 - id: c-167382
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -113,23 +113,11 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
     negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
     kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
     atminimas.
-  citata_rodoma: |
-    PRŪSIJOS ŽEMĖS
-       KRONIKA
-
-    Dedikacija
-
-
-         Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,
-    Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą
-    sveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.
-    Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
-    šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
-    nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
-    būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
-    apreikšti dievo darbus yra šlovinga.
+  citata_rodoma: "PRŪSIJOS ŽEMĖS\n   KRONIKA\n\nDedikacija\n\n\n     Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,\nŠventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą\nsveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.\nKiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje\nšventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi\nnuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei\nbūsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad\napreikšti dievo darbus yra šlovinga."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

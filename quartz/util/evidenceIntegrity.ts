@@ -360,11 +360,30 @@ export function collectCorpusEvidenceIntegrityIssues(
   const globalIds = new Map<string, string>()
 
   for (const { filePath, markdown } of documents) {
-    const claims = (parseEvidenceSections(markdown).get("Teiginiai") ?? []).filter((entry) =>
-      entry.id.startsWith("t-"),
-    )
-    for (const claim of claims) {
-      const globalId = claim.fields.get("global_id")?.trim()
+    const sections = parseEvidenceSections(markdown)
+    const claims = (sections.get("Teiginiai") ?? []).filter((entry) => entry.id.startsWith("t-"))
+    // Public projection hides the raw global_id field, but retains the same
+    // identity in the preceding stable HTML anchor for client-side links.
+    const hiddenGlobalIds: string[] = []
+    const claimHeading = markdown.search(/^##\s+Teiginiai\s*$/m)
+    const claimBodyStart = claimHeading >= 0 ? markdown.indexOf("\n", claimHeading) + 1 : -1
+    const claimBody = claimBodyStart > 0 ? markdown.slice(claimBodyStart) : ""
+    const nextHeading = claimBody.search(/^##\s+/m)
+    const claimSection = nextHeading >= 0 ? claimBody.slice(0, nextHeading) : claimBody
+    let pendingGlobalId = ""
+    for (const line of claimSection.split("\n")) {
+      const anchor = line.match(/^\s*<a\s+id=["']claim-(t-\d+)["']\s*><\/a>\s*$/i)
+      if (anchor) {
+        pendingGlobalId = anchor[1]
+        continue
+      }
+      if (/^\s*-\s+t-\d+\s*$/i.test(line)) {
+        hiddenGlobalIds.push(pendingGlobalId)
+        pendingGlobalId = ""
+      }
+    }
+    claims.forEach((claim, index) => {
+      const globalId = claim.fields.get("global_id")?.trim() || hiddenGlobalIds[index] || ""
       if (!globalId) {
         issues.push({
           code: "missing_claim_global_id",
@@ -373,7 +392,7 @@ export function collectCorpusEvidenceIntegrityIssues(
           filePath,
           message: `Claim ${claim.id} has no global_id`,
         })
-        continue
+        return
       }
       const previousFile = globalIds.get(globalId)
       if (previousFile && previousFile !== filePath) {
@@ -388,7 +407,7 @@ export function collectCorpusEvidenceIntegrityIssues(
       } else {
         globalIds.set(globalId, filePath)
       }
-    }
+    })
   }
   return issues
 }

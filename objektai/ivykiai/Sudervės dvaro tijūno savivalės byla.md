@@ -7,10 +7,10 @@ datos:
   - '1601 m.'
 date_start: '1601'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201961"></a>
 - t-001
-  global_id: t-201961
   teiginys: "1601 m. Vilniaus pilies teisme Kauno miestietis ir pirklys Mikalojus Bartkevičius su kitais kauniečiais pirkliais prašė įrašyti į teismo aktų knygas savo pareiškimą dėl Jurui Volmenskiui priklausančio Sudervės dvaro tijūno savivalės."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -56,6 +55,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185308
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -76,4 +78,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201961
+    - t-001

@@ -30,7 +30,6 @@ Narbutas Ksaverui Bogušui priskiria Ovidijaus „Metamorfozių“ II knygos 1�
 
 <a id="claim-t-190501"></a>
 - t-001
-  global_id: t-190501
   teiginys: "Narbutas Ksaverui Bogušui priskiria Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių vertimą gryna lietuvių kalba, perteikiant originalo metrą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Narbutas Ksaverui Bogušui priskiria Ovidijaus „Metamorfozių“ II knygos 1�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190501
+    - t-001

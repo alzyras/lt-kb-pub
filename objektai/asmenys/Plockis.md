@@ -38,7 +38,6 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
 
 <a id="claim-t-87834"></a>
 - t-001
-  global_id: t-87834
   teiginys: "Ponui Plockiui turėjo būti sumokėta skola iš lietuviškų monetų, jas keičiant į lenkiškas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87834
+    - t-001

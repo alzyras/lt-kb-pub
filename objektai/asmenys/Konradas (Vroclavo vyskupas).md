@@ -40,7 +40,6 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
 
 <a id="claim-t-87758"></a>
 - t-001
-  global_id: t-87758
   teiginys: "1432 m. Švitrigaila pasiuntė Vroclavo vyskupą Konradą į Kistriną pasiteirauti dėl galimos grėsmės iš Štolpensko kunigaikščio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87758
+    - t-001

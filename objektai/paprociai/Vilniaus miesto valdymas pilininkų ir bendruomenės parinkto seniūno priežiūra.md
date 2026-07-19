@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-55161"></a>
 - t-001
-  global_id: t-55161
   teiginys: "Gedimino laikais Vilniaus miesto tvarka turėjo atitikti kitur taikytus leninio valdymo principus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::customs"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-55162"></a>
 - t-002
-  global_id: t-55162
   teiginys: "Pilininkai valdė miestą, vykdydami teisminę priežiūrą kartu su bendruomenės parinktu seniūnu."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::customs"
@@ -91,7 +89,6 @@ Nenurodyta
 
 <a id="claim-t-55163"></a>
 - t-003
-  global_id: t-55163
   teiginys: "Vilniaus kilimo pradžioje pilininkai valdė miestą ir teisminę priežiūrą vykdė su bendruomenės parinktu seniūnu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::customs"
@@ -108,7 +105,6 @@ Nenurodyta
 
 <a id="claim-t-81870"></a>
 - t-004
-  global_id: t-81870
   teiginys: "Gedimino laikais Vilniaus miesto valdymas buvo siejamas su pilininkų ir bendruomenės parinkto seniūno priežiūra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::customs"
@@ -149,7 +145,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55161
+    - t-001
+
 - id: c-55749
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -177,8 +174,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55162
-    - t-55163
+    - t-002
+    - t-003
+
 - id: c-78412
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -205,4 +203,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81870
+    - t-004

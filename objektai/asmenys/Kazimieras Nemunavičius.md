@@ -30,7 +30,6 @@ Narbutas mini turėjęs pereito amžiaus viduryje rašytą laišką su Kazimiero
 
 <a id="claim-t-190172"></a>
 - t-001
-  global_id: t-190172
   teiginys: "Narbutas mini turėjęs pereito amžiaus viduryje rašytą laišką su Kazimiero Nemunavičiaus parašu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Narbutas mini turėjęs pereito amžiaus viduryje rašytą laišką su Kazimiero
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190172
+    - t-001

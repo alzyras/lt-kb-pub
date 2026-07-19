@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-87264"></a>
 - t-001
-  global_id: t-87264
   teiginys: "1579 m. Valerijonas Protasevičius Akademijai užrašė tris mūrinius namus, kad keli neturtingi studentai gautų maistą ir melstųsi už fundatorių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -149,4 +148,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87264
+    - t-001

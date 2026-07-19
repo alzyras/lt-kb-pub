@@ -36,8 +36,7 @@ Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griov�
 ## Teiginiai
 
 <a id="claim-t-101607"></a>
-- t-001
-  global_id: t-101607
+- t-002
   teiginys: "Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griov�
     - c-95106
 
 <a id="claim-t-101608"></a>
-- t-002
-  global_id: t-101608
+- t-001
   teiginys: "Sovietizacija Lietuvoje prasidėjo Liaudies vyriausybei vykdant sovietų valią, griaunant valstybingumą ir keičiant administraciją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -87,15 +85,15 @@ Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griov�
     LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
     toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
     žurnalai.
-  citata_rodoma: |
-    toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
+  citata_rodoma: "toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101608
+    - t-001
+
 - id: c-95106
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -115,4 +113,4 @@ Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101607
+    - t-002

@@ -33,7 +33,6 @@ Pasak J. Basanavičiaus, J. Miklašis buvo sulaikytas pasienyje grįždamas į M
 
 <a id="claim-t-200900"></a>
 - t-001
-  global_id: t-200900
   teiginys: "Pasak J. Basanavičiaus, J. Miklašis buvo sulaikytas pasienyje grįždamas į Maskoliją dėl melagingo skundo."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Pasak J. Basanavičiaus, J. Miklašis buvo sulaikytas pasienyje grįždamas į M
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200900
+    - t-001

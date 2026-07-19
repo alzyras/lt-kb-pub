@@ -33,7 +33,6 @@ Triglifas dorėniškame frize yra stačiakampė plokštė, dviem grioveliais pad
 
 <a id="claim-t-200820"></a>
 - t-001
-  global_id: t-200820
   teiginys: "Triglifas dorėniškame frize yra stačiakampė plokštė, dviem grioveliais padalyta į tris statmeninius ruožus ir kaitaliojama su metopomis."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Triglifas dorėniškame frize yra stačiakampė plokštė, dviem grioveliais pad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200820
+    - t-001

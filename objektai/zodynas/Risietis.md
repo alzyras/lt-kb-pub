@@ -31,7 +31,6 @@ Narbutas „Risietis“ laikė lietuvišku diržų pavadinimu ir tuo grindė min
 
 <a id="claim-t-189327"></a>
 - t-001
-  global_id: t-189327
   teiginys: "Narbutas „Risietis“ laikė lietuvišku diržų pavadinimu ir tuo grindė mintį, kad šio žodžio nereikėjo skolintis iš svetimos kalbos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Narbutas „Risietis“ laikė lietuvišku diržų pavadinimu ir tuo grindė min
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189327
+    - t-001

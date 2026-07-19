@@ -30,7 +30,6 @@ Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.
 
 <a id="claim-t-88073"></a>
 - t-001
-  global_id: t-88073
   teiginys: "Kownackis nenorėjo tikėti, kad miestai patys vieni galėjo pristatyti tokią daugybę ginkluotų žmonių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88073
+    - t-001

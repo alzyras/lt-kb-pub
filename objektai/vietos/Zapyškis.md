@@ -33,7 +33,6 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
 
 <a id="claim-t-21933"></a>
 - t-001
-  global_id: t-21933
   teiginys: "XV a. pabaigoje–XVI a. pirmame trečdalyje gotika pasiekė provinciją, įskaitant Kėdainius ir Zapyškį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,9 +49,8 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
 
 <a id="claim-t-188874"></a>
 - t-002
-  global_id: t-188874
   teiginys: "Narbutas Zapyškį apibūdina kaip mažą miestelį kairiajame Nemuno krante tarp Kauno ir Vilkijos, prie upelio, kadaise vadinto Upinės, o jo metu - Išganytojo vardu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -92,15 +90,15 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
     ypač Vilniuje, gotika pradėjo plisti gyvenamųjų namų statyboje, pasie-
     kė provinciją (Kėdainiai, Zapyškis), įsivyravo net stačiatikių sakralinių
     pastatų architektūroje.
-  citata_rodoma: |
-    kė provinciją (Kėdainiai, Zapyškis), įsivyravo net stačiatikių sakralinių
+  citata_rodoma: "kė provinciją (Kėdainiai, Zapyškis), įsivyravo net stačiatikių sakralinių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21933
+    - t-001
+
 - id: c-171763
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -112,16 +110,11 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
     kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
     šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
     ris dėl to iki šiol neprarado gydomojo poveikio.
-  citata_rodoma: |
-    Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
-    tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
-    žiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise
-    vadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­
-    vieną šventę, ypač per šv.
+  citata_rodoma: "Man pasisekė toks tyrimas. Kairiajame Nemuno krante,\ntarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­\nžiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise\nvadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­\nvieną šventę, ypač per šv."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188874
+    - t-002

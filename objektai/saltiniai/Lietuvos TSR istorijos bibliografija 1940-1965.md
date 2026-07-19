@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-31808"></a>
 - t-001
-  global_id: t-31808
   teiginys: "Lietuvos TSR istorijos bibliografiją 1940-1965 sudarė septynių asmenų kolektyvas, ji išleista Vilniuje 1969 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,17 +71,11 @@ media_all_json: |-
     Šitoje bibliografijoje, deja, vienašališkai tesužymėta, nepamirštant net
     gana smulkių lietuvių tarybinės periodikos straipsinų, kas iš Lietuvos isto­
     rijos srities yra paskelbta Lietuvoje ir Sovietų Sąjungoje.
-  citata_rodoma: |
-    Čia reikia tik pridėti 7 asmenų kolektyvo sudarytą :** **_Lietuvos TSR
-    istorijos bibliografija 1940-1965_** **(LTMA Centrinės bibliotekos ir Istorijos
-    instituto leidinys), Vilnius 1969 (5456 bibliogr. numeriai).
-    Šitoje bibliografijoje, deja, vienašališkai tesužymėta, nepamirštant net
-    gana smulkių lietuvių tarybinės periodikos straipsinų, kas iš Lietuvos isto­
-    rijos srities yra paskelbta Lietuvoje ir Sovietų Sąjungoje.
+  citata_rodoma: "Čia reikia tik pridėti 7 asmenų kolektyvo sudarytą :** **_Lietuvos TSR\nistorijos bibliografija 1940-1965_** **(LTMA Centrinės bibliotekos ir Istorijos\ninstituto leidinys), Vilnius 1969 (5456 bibliogr. numeriai).\nŠitoje bibliografijoje, deja, vienašališkai tesužymėta, nepamirštant net\ngana smulkių lietuvių tarybinės periodikos straipsinų, kas iš Lietuvos isto­\nrijos srities yra paskelbta Lietuvoje ir Sovietų Sąjungoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31808
+    - t-001

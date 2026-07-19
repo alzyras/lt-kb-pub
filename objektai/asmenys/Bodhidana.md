@@ -31,7 +31,6 @@ Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį
 
 <a id="claim-t-190135"></a>
 - t-001
-  global_id: t-190135
   teiginys: "Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį, persikėlusį į Tibetą ir mirusį prie Sungo kalno 495 m."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190135
+    - t-001

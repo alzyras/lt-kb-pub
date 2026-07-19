@@ -28,7 +28,6 @@ Matydamas tą, rėdytojas kryžėjų Vida pasakė didžiajam mistrui Konradui Tu
 
 <a id="claim-t-201420"></a>
 - t-001
-  global_id: t-201420
   teiginys: "Matydamas tą, rėdytojas kryžėjų Vida pasakė didžiajam mistrui Konradui Turingenui, kas nutiko tarp zokano ir Sviatopelko; tame daikte kryžėjai rados didžiame pavojuj, kaipogi pats popiežius buvo ant jų įbingęs, jog jie daugiaus ciesoriaus nei jo klausė."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Matydamas tą, rėdytojas kryžėjų Vida pasakė didžiajam mistrui Konradui Tu
 ## Citatos
 
 - id: c-184770
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Urėdas kry­
     žėjų, supykęs ant jo, išvadino jį paikintoju per­
@@ -73,4 +73,4 @@ Matydamas tą, rėdytojas kryžėjų Vida pasakė didžiajam mistrui Konradui Tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201420
+    - t-001

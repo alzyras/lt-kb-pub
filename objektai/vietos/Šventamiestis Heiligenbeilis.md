@@ -31,7 +31,6 @@ Narbutas Šventamiestyje, vėliau Heiligenbeilyje, mini žiemą ir vasarą žali
 
 <a id="claim-t-189089"></a>
 - t-001
-  global_id: t-189089
   teiginys: "Narbutas Šventamiestyje, vėliau Heiligenbeilyje, mini žiemą ir vasarą žaliavusį nepaprasto storumo ąžuolą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas Šventamiestyje, vėliau Heiligenbeilyje, mini žiemą ir vasarą žali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189089
+    - t-001

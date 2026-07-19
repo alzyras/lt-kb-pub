@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-50802"></a>
 - t-001
-  global_id: t-50802
   teiginys: "1414 m. Konstancijos susirinkimas suteikė Lietuvai progą Vakarų Europai parodyti vykdomą krikšto darbą."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-37010
 
 <a id="claim-t-50803"></a>
-- t-002
-  global_id: t-50803
+- t-003
   teiginys: "Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-37013
 
 <a id="claim-t-50804"></a>
-- t-003
-  global_id: t-50804
+- t-002
   teiginys: "Vytautas į Konstancijos susirinkimą pasiuntė 60 žemaičių bajorų katalikų delegaciją kaip Lietuvos apsikrikštijimo įrodymą."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -142,7 +139,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50802
+    - t-001
+
 - id: c-37012
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -168,7 +166,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50804
+    - t-002
+
 - id: c-37013
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -196,4 +195,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50803
+    - t-003

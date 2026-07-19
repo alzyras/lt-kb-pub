@@ -33,7 +33,6 @@ Valachų dalyvavimas Vytauto būriuose leidžia spręsti, kad Vytautas Dniepro �
 
 <a id="claim-t-28672"></a>
 - t-001
-  global_id: t-28672
   teiginys: "Valachų dalyvavimas Vytauto būriuose leidžia spręsti, kad Vytautas Dniepro žemupyje turėjo plačių planų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Valachų dalyvavimas Vytauto būriuose leidžia spręsti, kad Vytautas Dniepro �
 
 <a id="claim-t-196127"></a>
 - t-002
-  global_id: t-196127
   teiginys: "Ivanui remiant Valachiją, pasiuntiniai nesėkmingai prašė jo padėti Jonui ir Aleksandrui kare prieš turkus bei paremti Steponą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,8 @@ Valachų dalyvavimas Vytauto būriuose leidžia spręsti, kad Vytautas Dniepro �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28672
+    - t-001
+
 - id: c-178546
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -121,6 +120,7 @@ Valachų dalyvavimas Vytauto būriuose leidžia spręsti, kad Vytautas Dniepro �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196127
+    - t-002
+
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/grupes/Lenkai]]

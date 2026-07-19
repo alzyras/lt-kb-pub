@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-19546"></a>
-- t-001
-  global_id: t-19546
+- t-003
   teiginys: "Į Maskvą keliaudavo kyšiai, apibūdinti kaip lagaminai rūkytų dešrų ir kumpių."
   atnaujinta: "2026-05-18 23:37"
   sprendimo_priezastis: "gap::items"
@@ -86,12 +85,11 @@ Nenurodyta
     kalaudavo nesibaigiančio finansavimo), statybinės medžiagos nebūdavo
     visiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau
     laiku.
-  citata_rodoma: |
-    kvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog
+  citata_rodoma: "kvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19546
+    - t-003

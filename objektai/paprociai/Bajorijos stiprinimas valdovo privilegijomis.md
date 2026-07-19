@@ -62,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-28917"></a>
 - t-001
-  global_id: t-28917
   teiginys: "Bajorija valdovo privilegijomis 1387, 1413, 1434 ir 1447 m. buvo palaikoma ir stiprinama kaip atskiras galingas visuomenės sluoksnis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-184345"></a>
 - t-002
-  global_id: t-184345
   teiginys: "Valdovo privilegijos 1387, 1413, 1434 ir 1447 m. palaikė bajoriją kaip atskirą ir stiprėjantį visuomenės sluoksnį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -117,7 +115,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28917
+    - t-001
+
 - id: c-167715
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -140,4 +139,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184345
+    - t-002

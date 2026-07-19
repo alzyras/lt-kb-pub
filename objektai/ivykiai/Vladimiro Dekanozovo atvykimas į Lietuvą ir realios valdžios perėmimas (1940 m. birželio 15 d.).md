@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20554"></a>
 - t-001
-  global_id: t-20554
   teiginys: "1940 m. birželio 15 d. pavakare iš Maskvos į Lietuvą atvykusiam sovietų emisarui Vladimirui Dekanozovui atiteko reali aukščiausioji valdžia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-20555"></a>
 - t-002
-  global_id: t-20555
   teiginys: "Vladimirui Dekanozovui talkino sovietų pasiuntinybė su Nikolajumi Pozdniakovu priešakyje ir pogrindyje veikusi Lietuvos komunistų partija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,6 @@ Nenurodyta
 
 <a id="claim-t-183285"></a>
 - t-003
-  global_id: t-183285
   teiginys: "1940 m. birželio 15 d. į Lietuvą iš Maskvos atvykusiam Vladimirui Dekanozovui atiteko reali aukščiausioji valdžia."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -128,15 +125,15 @@ Nenurodyta
     atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-
     tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis
     pavaduotojas Vsevolodas Merkulovas, vadinęsis „drg.
-  citata_rodoma: |
-    tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis
+  citata_rodoma: "tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20554
+    - t-001
+
 - id: c-23279
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -148,15 +145,15 @@ Nenurodyta
     atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrin-
     dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota
     daugiatūkstantinė SSRS kariuomenė nulėmė prasidėjusius įvykius.
-  citata_rodoma: |
-    dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota
+  citata_rodoma: "dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20555
+    - t-002
+
 - id: c-166674
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -176,4 +173,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183285
+    - t-003

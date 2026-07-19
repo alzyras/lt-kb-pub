@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-28484"></a>
 - t-001
-  global_id: t-28484
   teiginys: "1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,6 +74,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28484
+    - t-001
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Kryžiuočių ordinas]]

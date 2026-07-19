@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-86182"></a>
 - t-001
-  global_id: t-86182
   teiginys: "Švitrigaila įsakė Vitebske nuo aukšto skardžio įmesti Alšėnų kunigaikštį į Dviną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,4 +117,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86182
+    - t-001

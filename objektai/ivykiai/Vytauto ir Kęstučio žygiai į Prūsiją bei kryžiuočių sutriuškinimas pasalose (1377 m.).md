@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185655"></a>
 - t-001
-  global_id: t-185655
   teiginys: "Po reikalų Rusioje sutvarkymo lietuviai pradėjo keršyti kryžiuočiams už ankstesnių metų skriaudas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-169016
 
 <a id="claim-t-185657"></a>
-- t-002
-  global_id: t-185657
+- t-003
   teiginys: "Lietuvių pasaloje kryžiuočiai sugriuvo į šakomis ir velėnomis pridengtus griovius, prarado vadus ir dalį karių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -88,8 +86,7 @@ Nenurodyta
     - c-169018
 
 <a id="claim-t-196265"></a>
-- t-003
-  global_id: t-196265
+- t-004
   teiginys: "Pasak Kojelavičiaus, sutvarkę reikalus Rusioje lietuviai pasijuto saugiau ir ėmė keršyti kryžiuočiams už praėjusių metų skriaudas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Nenurodyta
     - c-169016
 
 <a id="claim-t-196266"></a>
-- t-004
-  global_id: t-196266
+- t-005
   teiginys: "Lietuviai miškuose įrengė šakomis ir velėnomis pridengtus griovius, į kuriuos per pasalą sugriuvo dalis kryžiuočių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -149,8 +145,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185655
-    - t-196265
+    - t-001
+    - t-004
+
 - id: c-169018
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -172,24 +169,12 @@ Nenurodyta
     bei velėnomis padengtus griovius, prarado čia vadus
     bei dalį karių, tuo tarpu kiti, palikę grobį, vos ne vos
     prasiveržė į saugesnes vietas ir sveiki paspruko.
-  citata_rodoma: |
-    Niekas nedrįso atviroje kovoje pa­
-    sipriešinti įsisiautėjusiems pulkams, tačiau dėl kelių
-    žmonių sumanumo priešas buvo smarkiai sumuštas iš
-    pasalų. Mat miškuose (kuriais kryžiuočiai turėjo trauk-
-    tyti grioviai labai trukdė judėti. Kai kryžiuočiai pri­
-    artėjo prie šios vietos, iš miškų iššokę lietuviai, kel­
-    dami baisų triukšmą, veikiau dėjosi puolą, nei iš tik­
-    rųjų puolė. Šitaip priešai, nenujausdami pasalų, veržte
-    verždamiesi atviromis perėjomis, sugriuvo į šakomis
-    bei velėnomis padengtus griovius, prarado čia vadus
-    bei dalį karių, tuo tarpu kiti, palikę grobį, vos ne vos
-    prasiveržė į saugesnes vietas ir sveiki paspruko.
+  citata_rodoma: "Niekas nedrįso atviroje kovoje pa­\nsipriešinti įsisiautėjusiems pulkams, tačiau dėl kelių \nžmonių sumanumo priešas buvo smarkiai sumuštas iš \npasalų. Mat miškuose (kuriais kryžiuočiai turėjo trauk-\ntyti grioviai labai trukdė judėti. Kai kryžiuočiai pri­\nartėjo prie šios vietos, iš miškų iššokę lietuviai, kel­\ndami baisų triukšmą, veikiau dėjosi puolą, nei iš tik­\nrųjų puolė. Šitaip priešai, nenujausdami pasalų, veržte \nverždamiesi atviromis perėjomis, sugriuvo į šakomis \nbei velėnomis padengtus griovius, prarado čia vadus \nbei dalį karių, tuo tarpu kiti, palikę grobį, vos ne vos \nprasiveržė į saugesnes vietas ir sveiki paspruko."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185657
-    - t-196266
+    - t-003
+    - t-005

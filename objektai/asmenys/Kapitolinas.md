@@ -30,7 +30,6 @@ Teodoras Narbutas rašė, kad Naruševičius, remdamasis Kapitolinu, šią taut�
 
 <a id="claim-t-191501"></a>
 - t-001
-  global_id: t-191501
   teiginys: "Teodoras Narbutas rašė, kad Naruševičius, remdamasis Kapitolinu, šią tautą vadino Cestobochy."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Teodoras Narbutas rašė, kad Naruševičius, remdamasis Kapitolinu, šią taut�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191501
+    - t-001

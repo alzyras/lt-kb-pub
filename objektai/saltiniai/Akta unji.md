@@ -44,8 +44,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67348"></a>
-- t-001
-  global_id: t-67348
+- t-002
   teiginys: "„Akta unii Polski z Litwą 1385-1791“ yra St. Kutrzebos ir Wl. Semkowicziaus parengtas 1385-1791 m. Lenkijos ir Lietuvos unijų aktų rinkinys, išleistas Krokuvoje 1932 m."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67348
+    - t-002

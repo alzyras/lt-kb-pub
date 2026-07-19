@@ -31,7 +31,6 @@ Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams.
 
 <a id="claim-t-185321"></a>
 - t-001
-  global_id: t-185321
   teiginys: "Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185321
+    - t-001

@@ -33,7 +33,6 @@ Krašto viduje jis tapo absoliutišku valdovu, kurio supykinti bijodami valdinia
 
 <a id="claim-t-35060"></a>
 - t-001
-  global_id: t-35060
   teiginys: "Enejas Silvijus Picolomini pasakojo, kad Vytauto valdiniai, bijodami jį supykinti, net patys ėjo kartis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,17 +63,11 @@ Krašto viduje jis tapo absoliutišku valdovu, kurio supykinti bijodami valdinia
     taip pat buvo didžiausia. Prieš jį drebėjo visi Europos rytai,
     Maskvos kunigaikštis titulavo jį savo globėju ir protektoriumi,
     o vakarai su pagarba jį vadino čekų viešpačiu ir karaliumi.
-  citata_rodoma: |
-    Krašto viduje jis tapo absoliutišku
-    valdovu, kurio supykinti bijodami valdiniai net patys ėjo kartis,
-    kaip pasakoja Enejas Silvijus Picolomini, o užsieny jo įtaka
-    taip pat buvo didžiausia. Prieš jį drebėjo visi Europos rytai,
-    Maskvos kunigaikštis titulavo jį savo globėju ir protektoriumi,
-    o vakarai su pagarba jį vadino čekų viešpačiu ir karaliumi.
+  citata_rodoma: "Krašto viduje jis tapo absoliutišku\nvaldovu, kurio supykinti bijodami valdiniai net patys ėjo kartis,\nkaip pasakoja Enejas Silvijus Picolomini, o užsieny jo įtaka\ntaip pat buvo didžiausia. Prieš jį drebėjo visi Europos rytai,\nMaskvos kunigaikštis titulavo jį savo globėju ir protektoriumi,\no vakarai su pagarba jį vadino čekų viešpačiu ir karaliumi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35060
+    - t-001

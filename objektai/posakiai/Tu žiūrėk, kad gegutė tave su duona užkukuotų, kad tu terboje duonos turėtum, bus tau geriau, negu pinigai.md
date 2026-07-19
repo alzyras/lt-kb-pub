@@ -49,7 +49,6 @@ Pamokomoji formulė, iškelianti duoną aukščiau už pinigus.
 
 <a id="claim-t-195427"></a>
 - t-001
-  global_id: t-195427
   teiginys: "Šeimininkas linki, kad gegutė užkukuotų su duona, nes ji geresnė už pinigus."
   atnaujinta: "2026-07-12 02:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -72,15 +71,11 @@ Pamokomoji formulė, iškelianti duoną aukščiau už pinigus.
     šiojaus kišenėje pinigų, kad mane su pinigais gegutė užkukuotų“ . Šei­
     mininkas į tai: „Tu žiūrėk, kad gegutė tave su duona užkukuotų, kad
     tu terboje duonos turėtum, bus tau geriau, negu pinigai“ .
-  citata_rodoma: |
-    Pavasariais aš visada ne­
-    šiojaus kišenėje pinigų, kad mane su pinigais gegutė užkukuotų“ . Šei­
-    mininkas į tai: „Tu žiūrėk, kad gegutė tave su duona užkukuotų, kad
-    tu terboje duonos turėtum, bus tau geriau, negu pinigai“ .
+  citata_rodoma: "Pavasariais aš visada ne­\nšiojaus kišenėje pinigų, kad mane su pinigais gegutė užkukuotų“ . Šei­\nmininkas į tai: „Tu žiūrėk, kad gegutė tave su duona užkukuotų, kad\ntu terboje duonos turėtum, bus tau geriau, negu pinigai“ ."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195427
+    - t-001

@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-200911"></a>
 - t-001
-  global_id: t-200911
   teiginys: "J. Miklašis, techninę chemiją mokęsis Vokietijoje, Prancūzijoje ir Anglijoje, grįžo į Lietuvą ketindamas imtis kraštui naudingo fabrikinio veiklumo."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -99,4 +98,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200911
+    - t-001

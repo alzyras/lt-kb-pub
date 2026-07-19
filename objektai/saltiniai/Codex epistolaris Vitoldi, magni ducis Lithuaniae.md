@@ -43,8 +43,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-12448"></a>
-- t-001
-  global_id: t-12448
+- t-004
   teiginys: "Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -62,34 +61,22 @@ media_all_json: |-
   pagrindžia:
     - c-37190
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+## Citatos
+
+- id: c-06522
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     CeV = Codex epistolaris Vitoldi, magni ducis Lithuaniae (1376-
     1430), išl. A. Prochaska (rink. MoMP, t. 6) 1882.
-  citata_rodoma: ''
+  citata_rodoma: "CeV = Codex epistolaris Vitoldi, magni ducis Lithuaniae (1376-\n1430), išl. A. Prochaska (rink. MoMP, t. 6) 1882."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^10) **CEV, 18 (nr. 53).**
-    (^11) **SRP, II, 713 p.**
-    (^12) **L. Kolankowski : KolLJ, I, 47 p. — K. Heinl :** **_Fürst Witold von
-    Litauen_** **1382-1401, 1925, 61 p.**
-    (^13) **KolLJ, I, 51 p.**
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-
-## Citatos
-
 - id: c-37190
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -100,15 +87,28 @@ media_all_json: |-
     1376—1430 Collec. opera A. Prochaska. Cracoviae,
     1882 (VI tom. iš „Monumentą medii aevi historica res
     gestas Poloniae illustrantia“).
-  citata_rodoma: |
-    C. ep. V. = Codex epistolaris Vitoldi Magni Ducis Lithvan.
-    1376—1430 Collec. opera A. Prochaska. Cracoviae,
-    1882 (VI tom. iš „Monumentą medii aevi historica res
-    gestas Poloniae illustrantia“).
+  citata_rodoma: "C. ep. V. = Codex epistolaris Vitoldi Magni Ducis Lithvan.\n1376—1430 Collec. opera A. Prochaska. Cracoviae,\n1882 (VI tom. iš „Monumentą medii aevi historica res\ngestas Poloniae illustrantia"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12448
+    - t-004
+
+- id: c-56391
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    (^10) **CEV, 18 (nr. 53).**
+    (^11) **SRP, II, 713 p.**
+    (^12) **L. Kolankowski : KolLJ, I, 47 p. — K. Heinl :** **_Fürst Witold von
+    Litauen_** **1382-1401, 1925, 61 p.**
+    (^13) **KolLJ, I, 51 p.**
+  citata_rodoma: "(^10) **CEV, 18 (nr. 53).**"
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

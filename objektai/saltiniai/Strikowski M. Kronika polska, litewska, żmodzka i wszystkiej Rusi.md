@@ -32,21 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad strikowski M.
 
-## Teiginiai
-
-<a id="claim-t-61301"></a>
-- t-001
-  global_id: t-61301
-  teiginys: "M. Strikowskio „Kronika polska, litewska, żmodzka i wszystkiej Rusi“ išleista Karaliaučiuje 1582 m."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1582 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidimo vietą ir metus."
-  pagrindžia:
-    - c-61933
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Strikowskio „Kronika polska, litewska, żmodzka i wszystkiej Rusi“ išleista Karaliaučiuje 1582 m.'
@@ -59,8 +44,7 @@ Dusburgietis teigia, kad strikowski M.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61301
+
 ## Citatos
 
 - id: c-61933
@@ -73,12 +57,25 @@ Dusburgietis teigia, kad strikowski M.
     71—79.
     Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
     происхождения балтов.
-  citata_rodoma: |
-    Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.
+  citata_rodoma: "Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61301
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-61301"></a>
+- t-001
+  teiginys: "M. Strikowskio „Kronika polska, litewska, żmodzka i wszystkiej Rusi“ išleista Karaliaučiuje 1582 m."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1582 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidimo vietą ir metus."
+  pagrindžia:
+    - c-61933

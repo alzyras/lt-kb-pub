@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-54331"></a>
 - t-001
-  global_id: t-54331
   teiginys: "Lietuvių genties iškilimą lėmė vyrų gausumas karo žygiuose, o šis iškilimas padėjo pagrindus būsimai Lietuvos valstybei."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -79,16 +78,11 @@ Nenurodyta
     gausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo
     pagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-
     bei.
-  citata_rodoma: |
-    Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi
-    pralenkė turtingus prūsus ar karingus kuršius. Matyt, lėmė genties vyrų
-    gausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo
-    pagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-
-    bei.
+  citata_rodoma: "Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi \npralenkė turtingus prūsus ar karingus kuršius. Matyt, lėmė genties vyrų \ngausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo \npagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-\nbei."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54331
+    - t-001

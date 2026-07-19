@@ -32,13 +32,43 @@ media_all_json: |-
 
 Dusburgietis teigia, kad pollakówna M.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'M. Pollakównos straipsnis „Galindia“ paskelbtas SSS 2 tomo 1 dalyje, 1964 m. Vroclave, Varšuvoje ir Krokuvoje, p. 78–79.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.
+    78—79.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-61862
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    — Monumenta Germaniae historica: Scriptores rerum
+    Germanicarum. Nova series. Tomus VIII.— Berolini, 1930, p. 1—242.
+  citata_rodoma: "Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.\n78—79."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-61230"></a>
 - t-001
-  global_id: t-61230
   teiginys: "M. Pollakównos straipsnis „Galindia“ paskelbtas SSS 2 tomo 1 dalyje, 1964 m. Vroclave, Varšuvoje ir Krokuvoje, p. 78–79."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,37 +83,3 @@ Dusburgietis teigia, kad pollakówna M.
   temporalinis_llm_pakomentavimas: "Citata palaiko bibliografinį faktą, o pradinis teiginys yra nebaigtas."
   pagrindžia:
     - c-61862
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'M. Pollakównos straipsnis „Galindia“ paskelbtas SSS 2 tomo 1 dalyje, 1964 m. Vroclave, Varšuvoje ir Krokuvoje, p. 78–79.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.
-    78—79.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61230
-## Citatos
-
-- id: c-61862
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.
-    78—79.
-  citata_rodoma: |
-    Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.
-    78—79.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-61230

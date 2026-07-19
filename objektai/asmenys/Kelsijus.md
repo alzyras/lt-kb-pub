@@ -30,7 +30,6 @@ Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos 
 
 <a id="claim-t-191431"></a>
 - t-001
-  global_id: t-191431
   teiginys: "Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos jūra nuo Kristaus gimimo nuseko 13 sieksnių ir po 4000 metų išnyks."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,7 @@ Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174313
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos jūra nuo Kristaus gimimo nuseko 13 sieksnių ir po 4000 metų išnyks.'
@@ -71,8 +70,7 @@ Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191431
+
 ## Citatos
 
 - id: c-174313
@@ -98,23 +96,11 @@ Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos 
     šiai jūrai skiria gerokai didesnį plotą, negu ji užima
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
     mėse, kurios tarsi įrodo jos mažėjimą.
-  citata_rodoma: |
-    Iš tikrųjų kai ku­
-    rias sausumas galima laikyti buvusiomis salomis po to,
-    kai iš ten pasitraukė jūra. Tačiau Kelsijus ir Dalinas per­
-    nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
-    Kristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po
-    keturių tūkstančių metų jos neliks nė pėdsako. Antra
-    vertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,
-    Ovidijus kalba apie vandens lygio kritimą, pateikdami
-    akivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis
-    apie
-    Baltijos
-    jūrą“).
+  citata_rodoma: "Iš tikrųjų kai ku­\nrias sausumas galima laikyti buvusiomis salomis po to,\nkai iš ten pasitraukė jūra. Tačiau Kelsijus ir Dalinas per­\nnelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo\nKristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po\nketurių tūkstančių metų jos neliks nė pėdsako. Antra\nvertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,\nOvidijus kalba apie vandens lygio kritimą, pateikdami\nakivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis\napie\nBaltijos\njūrą“)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191431
+    - t-001

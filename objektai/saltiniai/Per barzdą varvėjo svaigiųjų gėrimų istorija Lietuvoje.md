@@ -36,7 +36,6 @@ Antano Astrausko knyga „Per barzdą varvėjo: svaigiųjų gėrimų istorija Li
 
 <a id="claim-t-200753"></a>
 - t-001
-  global_id: t-200753
   teiginys: "Antano Astrausko knyga „Per barzdą varvėjo: svaigiųjų gėrimų istorija Lietuvoje“ 2008 m. išleista Vilniuje leidykloje „Baltos lankos“."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -65,8 +64,5 @@ Antano Astrausko knyga „Per barzdą varvėjo: svaigiųjų gėrimų istorija Li
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200753
+    - t-001

@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-200431"></a>
 - t-001
-  global_id: t-200431
   teiginys: "1751 m. kovo 5 d. Jono Dominyko Lopacinskio laiškas Adomui Chmarai nurodytas Biblioteka Jagiellońska rankraštyje Rkp. 6636 II."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "receipt_recovery_current"
@@ -61,15 +60,8 @@ media_all_json: |-
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede"
   puslapiai: "PDF 15"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 15."
-  citata_originali: |
-    19.	 1751 03 05. Vilnius. J. D. Lopacinskio laiškas Minsko pavieto medžiokliui Adomui Chmarai.
-    Biblioteka Jagiellońska, Oddział Rękopisów (toliau – BJ), Rkp. 6636 II, t. 5, l. 22–22v.
-  citata_rodoma: |
-    19. 1751 03 05. Vilnius. J. D. Lopacinskio laiškas Minsko pavieto medžiokliui Adomui Chmarai. Biblioteka Jagiellońska, Oddział Rękopisów (toliau – BJ), Rkp. 6636 II, t. 5, l. 22–22v.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200431
+    - t-001

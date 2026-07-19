@@ -40,35 +40,10 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
 
 ## Teiginiai
 
-<a id="claim-t-190045"></a>
-- t-001
-  global_id: t-190045
-  teiginys: "Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jurgis Plioteris turėjo keletą Švėkšnoje rastų auksinių monetų."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Jurgis Plioteris: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simonas Stanevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jurgis Plioteris: mention_match, person, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simonas Stanevičius\" parinktas kaip owner_note_path. Targetas \"Jurgis Plioteris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1836 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas laiško autorius, data ir pranešta žinia. Palikti tik citatoje esantys asmenys bei lobio kontekstas."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172928
-
 <a id="claim-t-190970"></a>
 - t-002
-  global_id: t-190970
   teiginys: "T. Narbuto papildymo komentare spėjama, kad Raseinių korespondentu galėjo būti Simonas Stanevičius (1799-1848)."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -84,10 +59,9 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173852
-    - c-002
+
 <a id="claim-t-197442"></a>
 - t-003
-  global_id: t-197442
   teiginys: "Simonas Stanevičius buvęs garbinamas kaip dievas ir turėjęs savo šventyklą Nemunaityje, ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų apskrityje yra taip besivadinąs miestelis su pylimų žymėmis ir keliais milžinkapiais."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -113,8 +87,7 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190970
+
 ## Citatos
 
 - id: c-172928
@@ -140,8 +113,8 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190045
-    - t-197442
+    - t-003
+
 - id: c-173852
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -152,16 +125,11 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
     nukristų ant žemės, tai savo nuolaužomis užgriozdytų beveik ket­
     virtadalį jos paviršiaus. Mėnulis yra rutulio formos kūnas, kaip
     obuolys; ant jo yra dėmės, juoduliai, t. y. kaip ant obuolių būva.
-  citata_rodoma: |
-    Paragrafas, kuriuo T. Narbutas papildė skyrių, rengdamas antrąjį
-    LTI leidimą (PEĮ. L. 104—105). Galima spėti, jog šio laiško au­
-    torius, t. y. Raseinių korespondentas, galėjo būti ir Simonas Sta­
-    nevičius
-    (1799—1848).
+  citata_rodoma: "Paragrafas, kuriuo T. Narbutas papildė skyrių, rengdamas antrąjį\nLTI leidimą (PEĮ. L. 104—105). Galima spėti, jog šio laiško au­\ntorius, t. y. Raseinių korespondentas, galėjo būti ir Simonas Sta­\nnevičius\n(1799—1848)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190970
+    - t-002

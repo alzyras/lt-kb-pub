@@ -46,7 +46,6 @@ Vilniaus miesto amatų cechų visuma.
 
 <a id="claim-t-54846"></a>
 - t-001
-  global_id: t-54846
   teiginys: "1584 m. Steponas Batoras paskelbė Steponą Genserį ir kitus Vilniaus vyskupijos jurisdikcijai priklausančius asmenis laisvus nuo Vilniaus miesto cechų."
   atnaujinta: "2026-05-27 07:57"
   sprendimo_priezastis: "gap::groups"
@@ -91,27 +90,11 @@ Vilniaus miesto amatų cechų visuma.
     šimtai aštuoniasdešimt ketvirtaisiais Viešpaties metais, mū­
     sų karaliavimo devintaisiais.
     Karalius Steponas
-  citata_rodoma: |
-    Mes su
-    savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­
-    jų pusių ginčus, pamatę atneštas abiejų pusių privilegijas,
-    mūsų pirmtako šv. atminties karaliaus Vladislovo duotas ir
-    leistas Vilniaus katedros bažnyčiai ir tuometiniam vysku­
-    pui, ir minėtą Bełsko suvažiavimo sprendimą savo galioje
-    paliekame ir patį apskųstąjį auksakalį Steponą Genserį ir ki­
-    tus, priklausančius Vilniaus vyskupijos jurisdikcijai, nuo bet
-    kokios pasaulietinės mūsų Vilniaus miesto jurisdikcijos ir
-    Vilniaus miesto cechų skelbiame esančius laisvus pagal mū­
-    sų dekretą amžiniems laikams. Šio dalyko patvirtinimui mū­
-    sų antspaudas rašto apačioje yra įspaustas. Duota Gardine
-    artimiausią penktadienį prieš Sekmines, tūkstantis penki
-    šimtai aštuoniasdešimt ketvirtaisiais Viešpaties metais, mū­
-    sų karaliavimo devintaisiais.
-    Karalius Steponas
+  citata_rodoma: "Mes su \nsavo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie-\njų pusių ginčus, pamatę atneštas abiejų pusių privilegijas, \nmūsų pirmtako šv. atminties karaliaus Vladislovo duotas ir \nleistas Vilniaus katedros bažnyčiai ir tuometiniam vysku-\npui, ir minėtą Bełsko suvažiavimo sprendimą savo galioje \npaliekame ir patį apskųstąjį auksakalį Steponą Genserį ir ki-\ntus, priklausančius Vilniaus vyskupijos jurisdikcijai, nuo bet \nkokios pasaulietinės mūsų Vilniaus miesto jurisdikcijos ir \nVilniaus miesto cechų skelbiame esančius laisvus pagal mū-\nsų dekretą amžiniems laikams. Šio dalyko patvirtinimui mū-\nsų antspaudas rašto apačioje yra įspaustas. Duota Gardine \nartimiausią penktadienį prieš Sekmines, tūkstantis penki \nšimtai aštuoniasdešimt ketvirtaisiais Viešpaties metais, mū-\nsų karaliavimo devintaisiais.\nKaralius Steponas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54846
+    - t-001

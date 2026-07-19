@@ -37,7 +37,6 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
 
 <a id="claim-t-22218"></a>
 - t-001
-  global_id: t-22218
   teiginys: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
 
 <a id="claim-t-22219"></a>
 - t-002
-  global_id: t-22219
   teiginys: "Nepriklausomos Lietuvos laikotarpiu litas išlaikė stabilų kursą ir buvo pagrįstas vertybiniais popieriais bei 12 tonų aukso atsargomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
 
 <a id="claim-t-183444"></a>
 - t-003
-  global_id: t-183444
   teiginys: "Litas Lietuvoje įvestas 1922 m. spalio 1 d.; jo aukso turinys buvo 0,150462 g gryno aukso, o santykis su JAV doleriu buvo 10:1."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -119,15 +116,15 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
     ieškoti sprendimo. Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
     niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
     auksu paremtas litas, kurį sudaro 100 centų.
-  citata_rodoma: |
-    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
+  citata_rodoma: "niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22218
+    - t-001
+
 - id: c-24908
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -139,15 +136,15 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
     tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais
     popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose už-
     sienio valstybėse.
-  citata_rodoma: |
-    tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais
+  citata_rodoma: "tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22219
+    - t-002
+
 - id: c-166839
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -164,4 +161,4 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183444
+    - t-003

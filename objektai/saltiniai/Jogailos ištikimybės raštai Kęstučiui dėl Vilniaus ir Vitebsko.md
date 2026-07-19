@@ -31,7 +31,6 @@ Jogailos ištikimybės raštuose Kęstučiui kunigaikštis Jogaila vaizduojamas 
 
 <a id="claim-t-194166"></a>
 - t-001
-  global_id: t-194166
   teiginys: "Jogailos ištikimybės raštuose Kęstučiui kunigaikštis Jogaila vaizduojamas atėmęs tėviškes iš laiško autoriaus draugų, Tautvilos ir Jono."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -45,7 +44,6 @@ Jogailos ištikimybės raštuose Kęstučiui kunigaikštis Jogaila vaizduojamas 
 
 <a id="claim-t-196802"></a>
 - t-002
-  global_id: t-196802
   teiginys: "Jogailos ištikimybės raštuose Kęstučiui teigiama, kad kunigaikštis Jogaila atėmė tėviškes iš dar likusių laiško autoriaus draugų."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -80,5 +78,5 @@ Jogailos ištikimybės raštuose Kęstučiui kunigaikštis Jogaila vaizduojamas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194166
-    - t-196802
+    - t-001
+    - t-002

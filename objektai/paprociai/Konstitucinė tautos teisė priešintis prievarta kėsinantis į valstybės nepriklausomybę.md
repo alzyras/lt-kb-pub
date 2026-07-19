@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41421"></a>
-- t-001
-  global_id: t-41421
+- t-007
   teiginys: "Lietuvos Respublikos Konstitucija numato Tautos ir kiekvieno piliečio teisę priešintis prievartiniam kėsinimuisi į valstybės nepriklausomybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-44945
 
 <a id="claim-t-41423"></a>
-- t-002
-  global_id: t-41423
+- t-004
   teiginys: "Konstitucinė teisė priešintis numato, kad Tauta ir kiekvienas pilietis gali priešintis kėsinimuisi į Lietuvos valstybės nepriklausomybę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -93,8 +91,7 @@ Nenurodyta
     - c-44945
 
 <a id="claim-t-41424"></a>
-- t-003
-  global_id: t-41424
+- t-006
   teiginys: "Tautos suvereniteto negalima varžyti ar riboti."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -129,25 +126,13 @@ Nenurodyta
     priešintis bet kam, kas prievarta kėsinasi į
     Lietuvos valstybės nepriklausomybę, terito-
     rijos vientisumą, konstitucinę santvarką.
-  citata_rodoma: |
-    (1 skirsnis,
-
-    3 straipsnis):
-
-    Niekas negali varžyti ar riboti Tautos suve-
-    reniteto, savintis visai Tautai priklausančių
-    suverenių galių.
-
-    Tauta ir kiekvienas pilietis turi teisę
-    priešintis bet kam, kas prievarta kėsinasi į
-    Lietuvos valstybės nepriklausomybę, terito-
-    rijos vientisumą, konstitucinę santvarką.
+  citata_rodoma: "(1 skirsnis,\n\n3 straipsnis):\n\nNiekas negali varžyti ar riboti Tautos suve-\nreniteto, savintis visai Tautai priklausančių\nsuverenių galių.\n\nTauta ir kiekvienas pilietis turi teisę\npriešintis bet kam, kas prievarta kėsinasi į\nLietuvos valstybės nepriklausomybę, terito-\nrijos vientisumą, konstitucinę santvarką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41421
-    - t-41423
-    - t-41424
+    - t-007
+    - t-004
+    - t-006

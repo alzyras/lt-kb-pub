@@ -26,31 +26,6 @@ media_all_json: |-
 
 Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, buvo skitų protėvio Skito motina.
 
-## Teiginiai
-
-<a id="claim-t-191339"></a>
-- t-001
-  global_id: t-191339
-  teiginys: "Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, buvo skitų protėvio Skito motina."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Araksas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Berosijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Araksas: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Berosijus\" parinktas kaip owner_note_path. Targetas \"Araksas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  pagrindžia:
-    - c-174221
-    - c-001
-- susijęs iš [[objektai/asmenys/Araksa.md#claim-t-191366|Araksa]]: Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo dukra ir Skito, skitų genties protėvio, motina.
-- susijęs iš [[objektai/asmenys/Skitas.md#claim-t-191468|Skitas]]: Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir skitų genties protėviu.
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, buvo skitų protėvio Skito motina.'
@@ -71,8 +46,7 @@ Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191339
+
 ## Citatos
 
 - id: c-174221
@@ -80,31 +54,45 @@ Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, b
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Bu­
-    dinai, kaip jau sakėme, yra senovės Azijos skitų kasta,
-    gyvenusi prie Arakso upės, kuri prasideda kartu su Euf­
-    ratu viename kalne4. Iš senovinių Berosijaus5 padavi­
-    mų žinome, kad Araksa, Jonušo duktė, buvo motina Ski­
-    to, skitų genties protėvio6, todėl ir pirmykštė jų gyvena'-
-    moji vieta nurodoma prie armėnų Arakso. Ir iš tiesų
-    budinai kilę būtent iš ten: geografas Nubenskis*** (5
-    Klimate, 6 dalyje) rašo: „Armėnijoje yra dvi didelės
-    upės: viena Ros, kita Kor, arba Cyrus.
-  citata_rodoma: |
-    Bu­
-    dinai, kaip jau sakėme, yra senovės Azijos skitų kasta,
-    gyvenusi prie Arakso upės, kuri prasideda kartu su Euf­
-    ratu viename kalne4. Iš senovinių Berosijaus5 padavi­
-    mų žinome, kad Araksa, Jonušo duktė, buvo motina Ski­
-    to, skitų genties protėvio6, todėl ir pirmykštė jų gyvena'-
-    moji vieta nurodoma prie armėnų Arakso. Ir iš tiesų
-    budinai kilę būtent iš ten: geografas Nubenskis*** (5
-    Klimate, 6 dalyje) rašo: „Armėnijoje yra dvi didelės
-    upės: viena Ros, kita Kor, arba Cyrus.
+    ir tinkama laivybai, prasideda netoli Kaukazo kalno, su­
+    silieja su upe Ros, arba Araksu, ir įteka į Chazarų, arba
+    KaspijOiS, jūrą1. Iš pono Hamerio tyrimų ir ištraukų apie
+    Rytus2 matome, jog arabai Rass, arba Ross3, vadino Arak-
+    so upę, ištekančią iš Kiliklo kalnų, esančių prie 67 laips­
+    nių ilgumos ir 41 laipsnio šiaurės platumos, sruvenančią
+    per Varnamo žemę ir susiliejančią su Kūra4. Anot Korano
+    aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie
+    Ross upės; Korane ji vadinama Ashabir-Ross; ji išsisklai­
+    dė žiloje senovėje.
+  citata_rodoma: "Bu­\ndinai, kaip jau sakėme, yra senovės Azijos skitų kasta,\ngyvenusi prie Arakso upės, kuri prasideda kartu su Euf­\nratu viename kalne4. Iš senovinių Berosijaus5 padavi­\nmų žinome, kad Araksa, Jonušo duktė, buvo motina Ski­\nto, skitų genties protėvio6, todėl ir pirmykštė jų gyvena'-\nmoji vieta nurodoma prie armėnų Arakso. Ir iš tiesų\nbudinai kilę būtent iš ten: geografas Nubenskis*** (5\nKlimate, 6 dalyje) rašo: „Armėnijoje yra dvi didelės\nupės: viena Ros, kita Kor, arba Cyrus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191339
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-191339"></a>
+- t-001
+  teiginys: "Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, buvo skitų protėvio Skito motina."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Araksas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Berosijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Araksas: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Berosijus\" parinktas kaip owner_note_path. Targetas \"Araksas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
+  pagrindžia:
+    - c-174221
+- susijęs iš [[objektai/asmenys/Araksa.md#claim-t-191366|Araksa]]: Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo dukra ir Skito, skitų genties protėvio, motina.
+- susijęs iš [[objektai/asmenys/Skitas.md#claim-t-191468|Skitas]]: Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir skitų genties protėviu.

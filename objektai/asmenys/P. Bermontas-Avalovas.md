@@ -38,8 +38,7 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
 ## Teiginiai
 
 <a id="claim-t-40379"></a>
-- t-001
-  global_id: t-40379
+- t-002
   teiginys: "Vokiečių remiamas buvęs carinės Rusijos kariuomenės pulkininkas P. Bermontas-Avalovas vadovavo Rusijos vakarų armijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
     - c-44482
 
 <a id="claim-t-40381"></a>
-- t-002
-  global_id: t-40381
+- t-001
   teiginys: "P. Bermontas-Avalovas siekė nuversti bolševikus Rusijoje ir atkurti Rusijos imperiją, o jo pajėgos 1919 m. telkėsi Mintaujoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,8 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40381
+    - t-001
+
 - id: c-44482
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -111,17 +110,14 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
     dinusiems Rusijos vakarų armija, vadovavo
     vokiečių remiamas buvęs carinės Rusijos
     kariuomenės plk. P. Bermontas-Avalovas.
-  citata_rodoma: |
-    Bermontininkams, oficialiai pasiva-
-    dinusiems Rusijos vakarų armija, vadovavo
-    vokiečių remiamas buvęs carinės Rusijos
-    kariuomenės plk. P. Bermontas-Avalovas.
+  citata_rodoma: "Bermontininkams, oficialiai pasiva-\ndinusiems Rusijos vakarų armija, vadovavo\nvokiečių remiamas buvęs carinės Rusijos\nkariuomenės plk. P. Bermontas-Avalovas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40379
+    - t-002
+
 ## Ryšiai
 - Rėmė P. Bermontas-Avalovą: [[objektai/grupes/Vokiečiai]]

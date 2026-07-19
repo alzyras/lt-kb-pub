@@ -39,20 +39,9 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-07723"></a>
-- t-001
-  global_id: t-07723
+- t-003
   teiginys: "Gaspadorius vaizduojamas kaip ūkio šeimininkas, raginantis pjovėjus baigti pievos kertę."
   atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09646
-
-<a id="claim-t-07724"></a>
-- t-002
-  global_id: t-07724
-  teiginys: "Gaspadorius gali raginti ir organizuoti ūkio darbus."
-  atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
@@ -69,13 +58,11 @@ Papildomos aiškios formos neišskirtos.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj duosiu arklius į bažnyčią joti.“ Šie, tais žodžiais pagaivinti, tarsi sylos atsigėrę, nubengia dainuodami noris pusnakty.
-  citata_rodoma: |
-    Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj duosiu arklius į bažnyčią joti.“ Šie, tais žodžiais pagaivinti, tarsi sylos atsigėrę, nubengia dainuodami noris pusnakty.
+  citata_rodoma: "Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj duosiu arklius į bažnyčią joti.“ Šie, tais žodžiais pagaivinti, tarsi sylos atsigėrę, nubengia dainuodami noris pusnakty."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07723
-    - t-07724
+    - t-003

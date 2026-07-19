@@ -31,7 +31,6 @@ Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būda
 
 <a id="claim-t-192871"></a>
 - t-001
-  global_id: t-192871
   teiginys: "Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būdavo gabenamos į Masiliją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būda
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175641
-    - c-001
 - susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192958|Masiliečiai]]: Teodoro Narbuto teigimu, masiliečiai prekes gabeno keliu, kuriuo jos patekdavo į Tartesą arba prie Galijos krantų.
 - susijęs iš Ammianus Marcellinus, Res gestae: Narbutas Ammianu Marcellinu rėmė nuomonę, kad Lety, arba Lity, prieš Kristaus gimimą gyveno Galijoje ir skyrėsi kilme.
 - susijęs iš Tartesas: Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Galijos krantų, o iš ten per Galiją gabentos į Masiliją.
@@ -77,8 +75,7 @@ Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192871
+
 ## Citatos
 
 - id: c-175641
@@ -100,18 +97,11 @@ Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būda
     Comolijano, iš ten į Carnuntum, žinomą romėnų karinę
     poziciją prie Dunojaus. Pagaliau ten šiaurinės prekės iš
     barbarų rankų patekdavo pas romėnus5.
-  citata_rodoma: |
-    Siaurės sagose daug žinių apie
-    jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais
-    žygiais. Taip mūsų kraštų prekės lengvai patekdavo arba
-    į Tartesą, arba prie Galijos krantų, o per Galiją arkliais
-    50 dienų būdavo gabenamos į Masiliją2. Gal šis kelias,
-    kaip įgalima numanyti, buvo patogesnis už jūros kelią,
-    kuris ėjo pro šv.
+  citata_rodoma: "Siaurės sagose daug žinių apie\njurų keliautojus, nuo senų amžių garsėjusius savo drąsiais\nžygiais. Taip mūsų kraštų prekės lengvai patekdavo arba\nį Tartesą, arba prie Galijos krantų, o per Galiją arkliais\n50 dienų būdavo gabenamos į Masiliją2. Gal šis kelias,\nkaip įgalima numanyti, buvo patogesnis už jūros kelią,\nkuris ėjo pro šv."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192871
+    - t-001

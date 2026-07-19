@@ -31,7 +31,6 @@ Narbutas pripažįsta, kad Ditmaras Merzeburgiškis, kaip ir kiti užsienio kron
 
 <a id="claim-t-190420"></a>
 - t-001
-  global_id: t-190420
   teiginys: "Narbutas pripažįsta, kad Ditmaras Merzeburgiškis, kaip ir kiti užsienio kronikininkai, nė vienu žodžiu neužsiminė apie krivį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas pripažįsta, kad Ditmaras Merzeburgiškis, kaip ir kiti užsienio kron
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190420
+    - t-001

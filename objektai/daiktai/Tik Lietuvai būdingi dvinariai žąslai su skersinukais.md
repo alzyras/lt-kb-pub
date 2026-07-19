@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-40776"></a>
 - t-001
-  global_id: t-40776
   teiginys: "Dvinariai žąslai su skersinukais buvo būdingi tik Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,12 +75,11 @@ Nenurodyta
     p. 23, Tik Lietuvai būdingi dvinariai žąslai su skersinukais. Rusiai. vDKM, Artūro Užgalio nuotr.
     p. 23, X-xI a. Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“
     rekonstrukcija, Giedrės Maksimovicz nuotr.
-  citata_rodoma: |
-    p. 23, Tik Lietuvai būdingi dvinariai žąslai su skersinukais. Rusiai. vDKM, Artūro Užgalio nuotr.
+  citata_rodoma: "p. 23, Tik Lietuvai būdingi dvinariai žąslai su skersinukais. Rusiai. vDKM, Artūro Užgalio nuotr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40776
+    - t-001

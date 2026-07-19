@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-41104"></a>
 - t-001
-  global_id: t-41104
   teiginys: "A. Ramanauskas 1945 m. balandį įstojo į Nemunaičio apylinkių partizanų būrį ir iš karto buvo išrinktas jo vadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,17 +68,11 @@ media_all_json: |-
     balandį pasitraukė iš legalaus gyvenimo ir įstojo į
     Nemunaičio apylinkių partizanų būrį, iš karto buvo
     išrinktas jo vadu.
-  citata_rodoma: |
-    Prasidėjus antra-
-    jai bolševikinei okupacijai, matydamas, kaip oku-
-    pantai naikina tautą, A. Ramanauskas. 1945 m.
-    balandį pasitraukė iš legalaus gyvenimo ir įstojo į
-    Nemunaičio apylinkių partizanų būrį, iš karto buvo
-    išrinktas jo vadu.
+  citata_rodoma: "Prasidėjus antra-\njai bolševikinei okupacijai, matydamas, kaip oku-\npantai naikina tautą, A. Ramanauskas. 1945 m.\nbalandį pasitraukė iš legalaus gyvenimo ir įstojo į\nNemunaičio apylinkių partizanų būrį, iš karto buvo\nišrinktas jo vadu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41104
+    - t-001

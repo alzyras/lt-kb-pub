@@ -36,7 +36,6 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
 
 <a id="claim-t-31853"></a>
 - t-001
-  global_id: t-31853
   teiginys: "XVI a. antroje pusėje, remiantis Lietuvos Metraščiu ir Motiejaus Stryjkovskio kronika, Lietuvos istorija buvo pradedama nuo Nerono laikų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,18 +68,11 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
     istoriškos atramos neturinčia, vardų geneologija, kuria buvo užpil­
     doma lietuvių tautos praeitis iki pat pirmojo Lietuvos karaliaus
     Mindaugo pasirodymo istorijoje.
-  citata_rodoma: |
-    Akmens amžiaus laikai iki indoeuropiečiu pasirodymo**^1
-
-    Pasiremiant plačiausia « Lietuvos Metraščio » redakcija ir Mo­
-    tiejaus Stryjkovskio kronika (1582), XVI amž. antroje pusėje
-    Lietuvos istorija buvo pradedama nuo Romos imperatoriaus Ne­
-    rono laikų, kai, nuo jo persekiojimų ištrukę, pabėgėliai po ilgos
-    kelionės esą atsidūrę Nemuno krantuose.
+  citata_rodoma: "Akmens amžiaus laikai iki indoeuropiečiu pasirodymo**^1\n\nPasiremiant plačiausia « Lietuvos Metraščio » redakcija ir Mo­\ntiejaus Stryjkovskio kronika (1582), XVI amž. antroje pusėje\nLietuvos istorija buvo pradedama nuo Romos imperatoriaus Ne­\nrono laikų, kai, nuo jo persekiojimų ištrukę, pabėgėliai po ilgos\nkelionės esą atsidūrę Nemuno krantuose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31853
+    - t-001

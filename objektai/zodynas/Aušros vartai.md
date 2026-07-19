@@ -34,7 +34,6 @@ Vorobjovo teigimu, Gedimino sostinės stabmeldiškosios šventyklos stovėjo šv
 
 <a id="claim-t-200825"></a>
 - t-001
-  global_id: t-200825
   teiginys: "Vorobjovo teigimu, Gedimino sostinės stabmeldiškosios šventyklos stovėjo šventuose alkuose, tarp jų ir netoli Aušros Vartų."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Vorobjovo teigimu, Gedimino sostinės stabmeldiškosios šventyklos stovėjo šv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200825
+    - t-001

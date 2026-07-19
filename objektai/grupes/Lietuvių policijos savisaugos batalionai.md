@@ -30,8 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-19813"></a>
-- t-001
-  global_id: t-19813
+- t-002
   teiginys: "Dalis lietuvių policijos savisaugos batalionų buvo panaudota akcijose prieš civilius Baltarusijoje, Lenkijoje ir Ukrainoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ media_all_json: |-
     - c-22539
 
 <a id="claim-t-19814"></a>
-- t-002
-  global_id: t-19814
+- t-001
   teiginys: "Lietuvių savisaugos policijos grupės, tarp jų policijos batalionai, buvo įtrauktos į žudynių parengimą, aukų konvojavimą ir šaudymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,15 +78,15 @@ media_all_json: |-
     tos lietuvių savisaugos policijos grupės (policijos batalionai (vadinami
     TDA) – Zarasų, Kupiškio, Jonavos ir kt.), pagalbinės policijos ir policijos
     nuovadų policininkai, jau davę priesaiką A. Hitleriui.
-  citata_rodoma: |
-    TDA) – Zarasų, Kupiškio, Jonavos ir kt.), pagalbinės policijos ir policijos
+  citata_rodoma: "TDA) – Zarasų, Kupiškio, Jonavos ir kt.), pagalbinės policijos ir policijos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19814
+    - t-001
+
 - id: c-22539
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -100,12 +98,11 @@ media_all_json: |-
     žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos. Dalis
     lietuvių policijos savisaugos batalionų panaudoti akcijose prieš civilius
     Baltarusijoje, Lenkijoje, Ukrainoje.
-  citata_rodoma: |
-    lietuvių policijos savisaugos batalionų panaudoti akcijose prieš civilius
+  citata_rodoma: "lietuvių policijos savisaugos batalionų panaudoti akcijose prieš civilius"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19813
+    - t-002

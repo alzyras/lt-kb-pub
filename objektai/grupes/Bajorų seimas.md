@@ -32,7 +32,6 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 
 <a id="claim-t-19651"></a>
 - t-001
-  global_id: t-19651
   teiginys: "Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 
 <a id="claim-t-183121"></a>
 - t-002
-  global_id: t-183121
   teiginys: "Lenkijoje greta monarcho valstybingumą įkūnijo valstybės taryba ir pradėjęs veikti bajorų seimas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -84,15 +82,15 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
     taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo
     kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-
     lią, nebūta.
-  citata_rodoma: |
-    Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės
+  citata_rodoma: "Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19651
+    - t-001
+
 - id: c-166506
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -111,4 +109,4 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183121
+    - t-002

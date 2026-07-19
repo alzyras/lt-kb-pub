@@ -31,7 +31,6 @@ Narbutas Jakimavičiaus žodžius laikė pagrindu įtraukti naują objektą į s
 
 <a id="claim-t-190062"></a>
 - t-001
-  global_id: t-190062
   teiginys: "Narbutas Jakimavičiaus žodžius laikė pagrindu įtraukti naują objektą į savo deivių rinkinį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbutas Jakimavičiaus žodžius laikė pagrindu įtraukti naują objektą į s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190062
+    - t-001

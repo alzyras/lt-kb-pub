@@ -31,7 +31,6 @@ Si maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra šyta runo
 
 <a id="claim-t-194769"></a>
 - t-001
-  global_id: t-194769
   teiginys: "Si maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau gyveno herulai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Si maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra šyta runo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194769
+    - t-001

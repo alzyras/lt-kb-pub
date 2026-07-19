@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-31890"></a>
 - t-001
-  global_id: t-31890
   teiginys: "Pr. Papée veikalo „Polska i Litwa na przełomie wieków średnich“ pirmoji dalis išleista Krokuvoje 1904 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,13 +75,11 @@ media_all_json: |-
     gyventojai_ , Aidai, nr. 3, 1957, 97-107 p. — Papée, Pr. : _Polska i Litwa
     na przełomie wieków średnich_ , I, Krokuva 1904. — Pašuto, V. : _Cho-
     ziajstvo i technika srednevekovoj Litvy_ , VIst, nr. 8, 1947, 74 sqq.
-  citata_rodoma: |
-    — Papée, Pr. : _Polska i Litwa
-    na przełomie wieków średnich_ , I, Krokuva 1904. — Pašuto, V.
+  citata_rodoma: "— Papée, Pr. : _Polska i Litwa\nna przełomie wieków średnich_ , I, Krokuva 1904. — Pašuto, V."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31890
+    - t-001

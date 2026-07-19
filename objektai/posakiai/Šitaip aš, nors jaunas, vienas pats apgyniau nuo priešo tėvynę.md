@@ -46,7 +46,6 @@ Savęs išaukštinimo ir politinio nuopelno deklaracija.
 
 <a id="claim-t-199234"></a>
 - t-001
-  global_id: t-199234
   teiginys: "A. Goštauto memoriale Albertas Goštautas save vaizduoja kaip jauną Lietuvos tėvynės gynėją nuo M. Glinskio."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -57,7 +56,7 @@ Savęs išaukštinimo ir politinio nuopelno deklaracija.
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181752
-    - c-170076
+
 ## Citatos
 
 - id: c-181752
@@ -78,47 +77,11 @@ Savęs išaukštinimo ir politinio nuopelno deklaracija.
     chovco kronika rodo toji memorialo vieta, kur A. Goš­
     tautas trumpai išdėsto savo protėvių nuopelnus Lietu­
     vos valstybei.
-  citata_rodoma: |
-    Kaip Bychovco kronikoje Jonas Goštau­
-    tas vaizduojamas Kazimiero Jogailaičio gelbėtoju, taip
-    memoriale Albertas Goštautas iškyla kaip Lietuvos
-    valstybės gelbėtojas, valdant Kazimiero sūnui Žygi­
-    mantui II. („Šitaip aš, nors jaunas, vienas pats apgy­
-    niau nuo priešo [M. Glinskio] tėvynę, nesant ne tik
-    valdovo, mano šviesiausiojo karaliaus, bet ir visų jį
-    pavaduojančių pareigūnų.")6 0
-    Neabejotiną A. Goštauto memorialo ryšį su By­
-    chovco kronika rodo toji memorialo vieta, kur A. Goš­
-    tautas trumpai išdėsto savo protėvių nuopelnus Lietu­
-    vos valstybei.
+  citata_rodoma: "Kaip Bychovco kronikoje Jonas Goštau­\ntas vaizduojamas Kazimiero Jogailaičio gelbėtoju, taip \nmemoriale Albertas Goštautas iškyla kaip Lietuvos \nvalstybės gelbėtojas, valdant Kazimiero sūnui Žygi­\nmantui II. („Šitaip aš, nors jaunas, vienas pats apgy­\nniau nuo priešo [M. Glinskio] tėvynę, nesant ne tik \nvaldovo, mano šviesiausiojo karaliaus, bet ir visų jį \npavaduojančių pareigūnų.\")6 0\nNeabejotiną A. Goštauto memorialo ryšį su By­\nchovco kronika rodo toji memorialo vieta, kur A. Goš­\ntautas trumpai išdėsto savo protėvių nuopelnus Lietu­\nvos valstybei."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199234
-- id: c-170076
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Kaip Bychovco kronikoje Jonas Goštau­
-    tas vaizduojamas Kazimiero Jogailaičio gelbėtoju, taip
-    memoriale Albertas Goštautas iškyla kaip Lietuvos
-    valstybės gelbėtojas, valdant Kazimiero sūnui Žygi­
-    mantui II. („Šitaip aš, nors jaunas, vienas pats apgy­
-    niau nuo priešo [M. Glinskio] tėvynę, nesant ne tik
-    valdovo, mano šviesiausiojo karaliaus, bet ir visų jį
-    pavaduojančių pareigūnų.")6 0
-    Neabejotiną A. Goštauto memorialo ryšį su By­
-    chovco kronika rodo toji memorialo vieta, kur A. Goš­
-    tautas trumpai išdėsto savo protėvių nuopelnus Lietu­
-    vos valstybei.
-  citata_rodoma: "Kaip Bychovco kronikoje Jonas Goštau­\ntas vaizduojamas Kazimiero Jogailaičio gelbėtoju, taip \nmemoriale Albertas Goštautas iškyla kaip Lietuvos \nvalstybės gelbėtojas, valdant Kazimiero sūnui Žygi­\nmantui II. („Šitaip aš, nors jaunas, vienas pats apgy­\nniau nuo priešo [M. Glinskio] tėvynę, nesant ne tik \nvaldovo, mano šviesiausiojo karaliaus, bet ir visų jį \npavaduojančių pareigūnų.\")6 0"
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-199234
+    - t-001

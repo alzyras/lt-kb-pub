@@ -11,11 +11,17 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1352 m.'
   - '1430 m.'
 date_start: '1352'
 date_end: '1430'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,11 +29,6 @@ tags:
   - karalius
   - kunigaikštis
   - valdovas
-amziai:
-  - 'XIV'
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '15'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg'
@@ -51,8 +52,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 ## Teiginiai
 
 <a id="claim-t-182803"></a>
-- t-001
-  global_id: t-182803
+- t-194
   teiginys: "Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +68,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166218
 
 <a id="claim-t-182804"></a>
-- t-002
-  global_id: t-182804
+- t-188
   teiginys: "Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėdės Kęstučio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,8 +85,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166217
 
 <a id="claim-t-182807"></a>
-- t-003
-  global_id: t-182807
+- t-192
   teiginys: "Vladislovo Jogailos lėšomis pradėtą statyti Šv. Jono bažnyčią užbaigė Vytautas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,8 +101,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166210
 
 <a id="claim-t-182809"></a>
-- t-004
-  global_id: t-182809
+- t-186
   teiginys: "Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija neleido Vilniaus miestiečiams įgyti daugiau laisvių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,8 +117,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166216
 
 <a id="claim-t-182810"></a>
-- t-005
-  global_id: t-182810
+- t-193
   teiginys: "Beginklis Jogaila su visa savo palyda buvo įkalintas pilyje ir daugybės kareivių saugojamas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,8 +133,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166215
 
 <a id="claim-t-182811"></a>
-- t-006
-  global_id: t-182811
+- t-191
   teiginys: "Jogaila siekė Lenkijos sosto ir ketino sukurti naują galingą valstybę Šiaurės Europoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,8 +149,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166212
 
 <a id="claim-t-182812"></a>
-- t-007
-  global_id: t-182812
+- t-187
   teiginys: "Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -172,8 +166,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166223
 
 <a id="claim-t-182813"></a>
-- t-008
-  global_id: t-182813
+- t-190
   teiginys: "Jogaila, siekdamas atgauti paveldą ir atkeršyti už Vaidilos mirtį, sutelkė pajėgas ir nusprendė užimti Vilnių bei Trakus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -189,8 +182,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166209
 
 <a id="claim-t-182815"></a>
-- t-009
-  global_id: t-182815
+- t-189
   teiginys: "Jogailos siekius patarimais rėmė ir savo įtaka skatino bajoras Vaidila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -206,8 +198,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166222
 
 <a id="claim-t-183536"></a>
-- t-010
-  global_id: t-183536
+- t-195
   teiginys: "Pagal 1385 m. Krėvos sutartį su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -230,8 +221,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166929
 
 <a id="claim-t-183537"></a>
-- t-011
-  global_id: t-183537
+- t-196
   teiginys: "1385 m. rugpjūčio 14 d. Jogaila sutiko su Krėvos sutarties dokumento turiniu."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -253,8 +243,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166930
 
 <a id="claim-t-183538"></a>
-- t-012
-  global_id: t-183538
+- t-197
   teiginys: "Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis Jogailos elgesį sudarant Krėvos sutartį aiškina ankstyvojo monarcho valstybės kaip nuosavybės samprata."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -274,8 +263,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166931
 
 <a id="claim-t-183539"></a>
-- t-013
-  global_id: t-183539
+- t-198
   teiginys: "1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -297,8 +285,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166932
 
 <a id="claim-t-183540"></a>
-- t-014
-  global_id: t-183540
+- t-199
   teiginys: "Žalgirio mūšio rytą Jogaila delsė laukdamas Ordino pasiūlymo derėtis, o Vytautas troško lemiamo mūšio."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -317,8 +304,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166933
 
 <a id="claim-t-183541"></a>
-- t-015
-  global_id: t-183541
+- t-200
   teiginys: "Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi netikra, nes jie rėmėsi pagonimis ir totoriais musulmonais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -340,8 +326,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166934
 
 <a id="claim-t-183542"></a>
-- t-016
-  global_id: t-183542
+- t-201
   teiginys: "Jogailos ir Jadvygos vedybomis 1386 m. prasidėjo Lietuvos ir Lenkijos suartėjimas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -363,8 +348,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-166935
 
 <a id="claim-t-184264"></a>
-- t-017
-  global_id: t-184264
+- t-202
   teiginys: "Pasimeldęs Jogaila Vytauto ir lenkų riterių raginimu užsidėjo šarvus ir nuvyko prie kariuomenės."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -383,8 +367,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-36349
 
 <a id="claim-t-184265"></a>
-- t-018
-  global_id: t-184265
+- t-203
   teiginys: "Jogaila netrukus įsakė duoti ženklą mūšiui."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -403,8 +386,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-36350
 
 <a id="claim-t-184266"></a>
-- t-019
-  global_id: t-184266
+- t-204
   teiginys: "1386 m. Jogaila su savo broliais, Vytautu, kaipo Gardino kunigaikščiu, ir būriu dvaro didikų išvyko į Krokuvą priimti krikšto, vesti lenkų karalaitę Jadvygą ir karūnuotis Lenkijos karaliumi."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -427,8 +409,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-36351
 
 <a id="claim-t-184267"></a>
-- t-020
-  global_id: t-184267
+- t-205
   teiginys: "1413 m. Kauno saloje vykusiame Žemaitijos sienų suvažiavime dalyvavo Jogaila."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -450,8 +431,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-167648
 
 <a id="claim-t-184268"></a>
-- t-021
-  global_id: t-184268
+- t-206
   teiginys: "1392 m. rugpjūčio 5 d. Ostrovoje Jogaila sudarė taiką su Vytautu ir grąžino jam tėviškę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -473,8 +453,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-36360
 
 <a id="claim-t-184269"></a>
-- t-022
-  global_id: t-184269
+- t-207
   teiginys: "Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -496,8 +475,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-36362
 
 <a id="claim-t-184270"></a>
-- t-023
-  global_id: t-184270
+- t-208
   teiginys: "Po Jadvygos mirties lenkai pažadėjo Jogailai, kad Lenkijos sostą galės užimti jo vaikai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -516,8 +494,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-167649
 
 <a id="claim-t-184271"></a>
-- t-024
-  global_id: t-184271
+- t-209
   teiginys: "1417 m. Jogaila vedė trečią žmoną."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -539,8 +516,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-36364
 
 <a id="claim-t-184272"></a>
-- t-025
-  global_id: t-184272
+- t-210
   teiginys: "Jogaila nebuvo visiškai nutraukęs santykių su Vytautu ir Lietuva, nes dažnai čia viešėdavo."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -559,8 +535,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-36365
 
 <a id="claim-t-184273"></a>
-- t-026
-  global_id: t-184273
+- t-211
   teiginys: "Lucke Zigmantas pasiūlė Jogailai karūnuoti Vytautą, kuris buvo suvažiavimo šeimininkas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -579,8 +554,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-167650
 
 <a id="claim-t-184274"></a>
-- t-027
-  global_id: t-184274
+- t-212
   teiginys: "Laiške Jogaila atkalbinėjo Zigmantą nuo sumanymo karūnuoti Vytautą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -599,8 +573,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-167651
 
 <a id="claim-t-184275"></a>
-- t-028
-  global_id: t-184275
+- t-213
   teiginys: "Jogaila atsakyme Vytautui teisinosi, kad laiškas Zigmantui buvo parašytas be jo žinios."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -619,8 +592,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-167652
 
 <a id="claim-t-184276"></a>
-- t-029
-  global_id: t-184276
+- t-214
   teiginys: "Jogaila suprato, kad laisva paveldima Lietuvos karalija padėtų jam tvirtai laikytis Lenkijoje ir išlaikyti dinastijos teises."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -639,8 +611,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-167653
 
 <a id="claim-t-184277"></a>
-- t-030
-  global_id: t-184277
+- t-215
   teiginys: "Jogailos ir Vytauto rūmuose kartais buvo mokama rubliais, patekusiais iš slavų kraštų."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -659,8 +630,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-167654
 
 <a id="claim-t-184278"></a>
-- t-031
-  global_id: t-184278
+- t-216
   teiginys: "Istoriškai reikšmingas Vytauto veikimas prasidėjo Kęstučio kovos su Jogaila metu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -680,8 +650,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-167655
 
 <a id="claim-t-184279"></a>
-- t-032
-  global_id: t-184279
+- t-217
   teiginys: "Autoriaus vertinimu, Vytauto pasitikėjimas Jogaila buvo per didelis ir tapo Kęstučio mirties priežastimi."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -700,8 +669,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-167656
 
 <a id="claim-t-184280"></a>
-- t-033
-  global_id: t-184280
+- t-218
   teiginys: "1392 m. Jogaila susitaikė su Vytautu, kai šis atsisakė sąjungos su Ordinu ir gavo valdyti visą Lietuvą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -723,8 +691,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-167657
 
 <a id="claim-t-184373"></a>
-- t-034
-  global_id: t-184373
+- t-219
   teiginys: "Jogaila su Olesnickiu atvyko į Vilnių ir, aiškėjant Vytauto įpėdinystei, linko nesipriešinti vainikavimui."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -744,8 +711,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-34193
 
 <a id="claim-t-184721"></a>
-- t-035
-  global_id: t-184721
+- t-222
   teiginys: "Sulaukęs paramos iš Livonijos ir Prūsijos, Jogaila su kariuomene traukė iš Vilniaus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -764,8 +730,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-168082
 
 <a id="claim-t-184722"></a>
-- t-036
-  global_id: t-184722
+- t-223
   teiginys: "Kojelavičiaus pasakojime Jogaila, stodamas prieš Kęstučį, numanė dideles kovos aukas ir pirmiau bandė veikti žodžiais."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -786,8 +751,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-168083
 
 <a id="claim-t-184723"></a>
-- t-037
-  global_id: t-184723
+- t-224
   teiginys: "Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -807,8 +771,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-168084
 
 <a id="claim-t-184725"></a>
-- t-038
-  global_id: t-184725
+- t-226
   teiginys: "Jogaila asmeniškai pasveikino karalienę ir per Skirgailą bei Vytautą pasiuntė jai gausių dovanų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -827,8 +790,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-168086
 
 <a id="claim-t-184726"></a>
-- t-039
-  global_id: t-184726
+- t-227
   teiginys: "Sužinojęs apie Švitrigailos veiksmus Vitebske, Jogaila paliepė Vytautui kariauti, kol šis atsiims žemes ir sutriuškins Švitrigailą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -847,28 +809,19 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-168087
 
 <a id="claim-t-184727"></a>
-- t-040
-  global_id: t-184727
+- t-228
   teiginys: "Įspėtas dėl gresiančio karo, Jogaila susitarė su Vytautu ir atvyko į Kauną, apsimesdamas turįs kitų ketinimų."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168088
+    - c-168084
 
 <a id="claim-t-184728"></a>
-- t-041
-  global_id: t-184728
+- t-229
   teiginys: "Norėdamas palengvinti maisto stokos kamuojamos Lietuvos dalią, Jogaila įsakė į Lietuvą gabenti dvidešimt laivų grūdų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -888,8 +841,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-168089
 
 <a id="claim-t-184731"></a>
-- t-042
-  global_id: t-184731
+- t-232
   teiginys: "Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Austrijos erchercogas Leopoldas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -909,10 +861,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-168092
 
 <a id="claim-t-184732"></a>
-- t-043
-  global_id: t-184732
+- t-233
   teiginys: "Aptaręs pasiūlymus su senatu ir Vytautu, Jogaila sutiko jungtis į karą su turkais tik susitarus visiems krikščionių valdovams."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -927,30 +878,10 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168093
-
-<a id="claim-t-184733"></a>
-- t-044
-  global_id: t-184733
-  teiginys: "Iš Lucko grįžęs į Lenkiją, Jogaila Korčine sukvietė seimą, kad luomai nuspręstų, kaip priešintis Vytauto siekiams."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Korčinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Korčinas: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Korčinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168094
+    - c-176117
 
 <a id="claim-t-184734"></a>
-- t-045
-  global_id: t-184734
+- t-235
   teiginys: "Sužinojęs apie Vytauto vainikavimo reikalą, karalius Jogaila ieškojo užtarėjų ir apie viską pranešė Romos popiežiui."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -969,8 +900,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-168095
 
 <a id="claim-t-184736"></a>
-- t-046
-  global_id: t-184736
+- t-237
   teiginys: "Raginamas imtis veiksmų prieš Boleslovą, Jogaila neilgai priešinosi ir pasiuntė žygūnus pas Žygimantą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -989,8 +919,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-168097
 
 <a id="claim-t-188542"></a>
-- t-047
-  global_id: t-188542
+- t-053
   teiginys: "Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Žemaitijoje ilgiau išlikusį aukurą ir apeigas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1009,8 +938,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-171431
 
 <a id="claim-t-188543"></a>
-- t-048
-  global_id: t-188543
+- t-054
   teiginys: "Narbutas atmeta nuomonę, kad Šventosios vardas kilo iš lietuvių krikštijimo jos vandeniu Jogailai atvertus tautą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1029,8 +957,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-171432
 
 <a id="claim-t-188544"></a>
-- t-049
-  global_id: t-188544
+- t-055
   teiginys: "Narbutas aprašo autorių, giriantį Vladislovą Jogailą, jo brolius ir jų nuolankumą bažnyčiai dėl lietuvių atvertimo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1049,8 +976,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-171433
 
 <a id="claim-t-188545"></a>
-- t-050
-  global_id: t-188545
+- t-056
   teiginys: "Narbutas rašo, kad Vladislovas Jogaila į Konstancos susirinkimą pasiuntė Teodorą Lenką skųsti kryžiuočių žiaurumų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1070,28 +996,19 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-171434
 
 <a id="claim-t-188546"></a>
-- t-051
-  global_id: t-188546
+- t-057
   teiginys: "Narbutas rašo, kad 1392 metais Vladislovas Jogaila pasiuntė Jeronimą Prahiškį pas Vytautą skelbti Lietuvoje krikščionių tikėjimo."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Vladislovas Jogaila 1392 metais nusiuntė Jeronimą skelbti tikėjimo Lietuvoje."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171435
+    - c-171434
 
 <a id="claim-t-193393"></a>
-- t-052
-  global_id: t-193393
+- t-238
   teiginys: "Dėl Jogailos, troškusio ka raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta nuo Lietuvos ir prijungta prie Lenkijos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -1104,8 +1021,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-176117
 
 <a id="claim-t-193917"></a>
-- t-054
-  global_id: t-193917
+- t-241
   teiginys: "Lietuvos metraštis pasakoja, kad Kęstutis Vilniuje suėmė Jogailą su broliais ir motina ir rado jų sutartis su vokiečiais."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -1118,10 +1034,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-176542
 
 <a id="claim-t-193918"></a>
-- t-055
-  global_id: t-193918
+- t-242
   teiginys: "Lietuvos metraštyje Kęstutis sako nieko nepadaręs Jogailai ir nepalietęs jo iždo bei kaimenių."
-  atnaujinta: "2026-07-12 22:45"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1129,11 +1044,10 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
-    - c-176543
+    - c-176542
 
 <a id="claim-t-193922"></a>
-- t-058
-  global_id: t-193922
+- t-246
   teiginys: "O kunigaikštis Jogaila pažado neišpildė, atstojo nuo tiesos ir mano tėviškės man neatidavė, o davė mano tėviškę savo broliui kunigaikščiui Skirgailai."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -1145,8 +1059,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-176547
 
 <a id="claim-t-193923"></a>
-- t-059
-  global_id: t-193923
+- t-247
   teiginys: "Lietuvos metraštis Jogailą, vadinamą Vladislovu, vaizduoja tuo metu sėdėjusį Krokuvos karalystės soste ir gyvenusį su Vytautu meilėje."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -1159,8 +1072,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-176548
 
 <a id="claim-t-193925"></a>
-- t-060
-  global_id: t-193925
+- t-249
   teiginys: "Vytauto skunde buvo dėstomos jo konflikto su pusbroliu Jogaila priežastys."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -1173,8 +1085,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-176550
 
 <a id="claim-t-194228"></a>
-- t-061
-  global_id: t-194228
+- t-250
   teiginys: "Mažai težinoma mums patiems, o Europai visai negirdė ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios pagonybės."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -1186,8 +1097,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-176827
 
 <a id="claim-t-194709"></a>
-- t-062
-  global_id: t-194709
+- t-251
   teiginys: "Si epocha baigėsi 1386 metais, tai yra visiškai įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat daryti visą tautą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1199,8 +1109,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-177105
 
 <a id="claim-t-196485"></a>
-- t-063
-  global_id: t-196485
+- t-253
   teiginys: "Kojelavičius rašo, kad vėliau Lenkijos karaliumi paskelbtas Jogaila Petro Pšonkos ir Otono Čecharovičiaus turtus perdavė karalystės iždui."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -1213,8 +1122,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-178722
 
 <a id="claim-t-196486"></a>
-- t-064
-  global_id: t-196486
+- t-254
   teiginys: "Jogaila, sulaukęs paramos iš Livonijos ir Prūsijos, su kariuomene traukė iš Vilniaus."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1227,8 +1135,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-168082
 
 <a id="claim-t-196487"></a>
-- t-065
-  global_id: t-196487
+- t-255
   teiginys: "Kojelavičiaus pasakojime Jogaila prieš Kęstučio kariuomenę numanė dideles kovos aukas ir pirmiau mėgino veikti žodžiais."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1241,8 +1148,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-168083
 
 <a id="claim-t-196488"></a>
-- t-066
-  global_id: t-196488
+- t-256
   teiginys: "Jogaila su karaliene, lydimi lenkų didikų, išvyko į Lietuvą, nes nenorėjo, kad dėl delsimo kiltų naujas pavojus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -1255,8 +1161,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-178725
 
 <a id="claim-t-196490"></a>
-- t-067
-  global_id: t-196490
+- t-258
   teiginys: "Kojelavičius perteikia kryžiuočių nuostatą, kad Jogaila ir Vytautas, neseniai atidavę Žemaitiją, spaudžiami galėtų užleisti ir Lietuvą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -1269,8 +1174,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-168088
 
 <a id="claim-t-196491"></a>
-- t-068
-  global_id: t-196491
+- t-259
   teiginys: "Imperatorius su imperatoriene aplankė Jogailą ir vėliau svarstė Vytauto paskelbimo karaliumi klausimą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -1283,8 +1187,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-178727
 
 <a id="claim-t-196494"></a>
-- t-069
-  global_id: t-196494
+- t-262
   teiginys: "Netekęs vilties pasiekti taiką, Jogaila ėmėsi kitų priemonių prieš Boleslovą, kurį laikė savo karališkųjų teisių pažeidėju."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -1297,8 +1200,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-168097
 
 <a id="claim-t-196829"></a>
-- t-070
-  global_id: t-196829
+- t-263
   teiginys: "Lietuvos metraštis pasakoja, kad Kęstutis suėmė Jogailą, jo brolius ir motiną Vilniuje po to, kai rado jų sutartis su vokiečiais."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -1311,8 +1213,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-176542
 
 <a id="claim-t-196830"></a>
-- t-071
-  global_id: t-196830
+- t-264
   teiginys: "Lietuvos metraštyje Kęstutis sako, kad Jogailai nieko nepadarė ir nepalietė jo iždo bei kaimenių."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -1325,8 +1226,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-176543
 
 <a id="claim-t-196831"></a>
-- t-072
-  global_id: t-196831
+- t-265
   teiginys: "Lietuvos metraštis Jogailą, vadinamą Vladislovu, vaizduoja Krokuvos soste ir santarvėje su Vytautu."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -1339,8 +1239,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-176547
 
 <a id="claim-t-197403"></a>
-- t-073
-  global_id: t-197403
+- t-266
   teiginys: "Jogaila įkalbėjęs išnaikinti šventą dievų prieglobstį, ir jau nebeliko nė vieno, kuris būtų išdrįsęs imtis kirvio."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -1352,8 +1251,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - c-171435
 
 <a id="claim-t-201000"></a>
-- t-074
-  global_id: t-201000
+- t-267
   teiginys: "Tą teisybę paskesniuose dar laikuose randam: kaipogi Jogaila, didysis Lietuvos kunigaikštis ir Lenkų karalius, dar metuose 1420 kailinius avikai lius dėvėjo, valdydamas kraštą nuo Baltijos, arba Žemaičių, jūros iki Juodajai, nuo Možaisko ir upės Dono lig upei."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -1365,36 +1263,29 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   pagrindžia:
     - c-184350
 
-<a id="claim-t-193916"></a>
-- t-053
-  global_id: t-193916
-  teiginys: 'Lietuvos metraštis Jogailą Vladislovą mini kaip vyriausią Algirdo ir Julijonos Oljevnos sūnų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sąrašo fragmentas perrašytas į sakinį apie Jogailą. Palikta šaltinio atribucija, nes remiamasi kronikos giminystės išvardijimu.'
+<a id="claim-t-201522"></a>
+- t-268
+  teiginys: "Vienas iš svarbiausių tos kovos dalyvių Vytautas, neatlaikydamas varžovo Jogailos spaudimo ir ieškodamas paramos, 1382 m. pasitraukė į Vokiečių ordiną."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
-    - c-053
-<a id="claim-t-193919"></a>
-- t-056
-  global_id: t-193919
-  teiginys: 'Lietuvos metraštis Jogailą vadina karaliumi ir pasakoja, kad jis pasiuntė ponus pargabenti kunigaikštytę Sofiją į Krokuvą, ją vedė ir vainikavo.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas Sofijos pargabenimo, vedybų ir vainikavimo veiksmas. Karaliaus titulas ir kronikos pasakojimas palikti su atribucija.'
+    - c-184869
+
+<a id="claim-t-201523"></a>
+- t-269
+  teiginys: "1391 m. Jogailos ir Ordino įgaliotiniams tariantis dėl suvažiavimo buvo kalbama apie paliaubas jo metu, kad pirkliai galėtų laisvai prekiauti."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
-    - c-056
-<a id="claim-t-193920"></a>
-- t-057
-  global_id: t-193920
-  teiginys: 'Lietuvos metraštis 1412 m. datuoja Vladislovo Jogailos ir Vytauto karo su Prūsijos vokiečiais pradžią.'
-  teiginio_tipas: 'saltinio_teiginys'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas antraštės ir OCR triukšmas, paliekant datą, veikėjus ir karo objektą. Kadangi tai kronikos datavimas ir priešų įvardijimas, teiginys atribuuotas.'
-  pagrindžia:
-    - c-057
+    - c-184870
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51025|Jadvyga (Jogailos duktė)]]: Horodlėje karalaitė Jadvyga buvo pripažinta Lenkijos sosto įpėdine, o Vytautas paskirtas jos globėju.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179655|Skirgaila]]: Jogaila pasiuntė brolį Skirgailą su slaptais įgaliojimais į Vakarų Europą, o Marienburge Skirgaila buvo draugiškai priimtas.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179662|Skirgaila]]: Jogaila pavedė Lietuvą savo broliui Skirgailai, todėl Vytautui labiau parūpo Lietuvos ateitis negu jos krikštas.
@@ -2068,76 +1959,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97461|Kaributas]]: Karalių Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179652|Skirgaila]]: Skirgaila su Jogaila pasižadėjo per ketverius metus pasikrikštyti su visu kraštu.
 - susijęs iš Luckas: Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
-## Reikšmingi paminėjimai
-- c-053
-  santrauka: 'Lietuvos metraštis Jogailą Vladislovą mini kaip vyriausią Algirdo ir Julijonos Oljevnos sūnų.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Penktas— Konstantinas l0 , jo da­
-    lis— Černigovas ir Cartoryskas Šeštas—Teodoras 1 2
-    Sanguška l3 , jo dalis — Liubomlis M .
-    Didžiajai kunigaikštienei Onai 1 5  mirus, didysis ku­
-    nigaikštis Algirdas vedė Tverės didžiojo kunigaikščio
-    dukterį, kunigaikštytę Julijoną Oljevną ia, ir su ja tu­
-    rėjo šešis sūnus1 7 . Vyriausias—Jogaila Vladislovas1 8 ;
-    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
-    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
-    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: not_found
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193916
-- c-056
-  santrauka: 'Lietuvos metraštis Jogailą vadina karaliumi ir pasakoja, kad jis pasiuntė ponus pargabenti kunigaikštytę Sofiją į Krokuvą, ją vedė ir vainikavo.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Vėliau karalius Jogaila atsiuntė iš Lenkijos žymiau­
-    sius ponus, kurie paėmę kunigaikštytę Sofiją parvežė
-    pas jį į Krokuvą. O jis iškėlė šaunias vestuves, paėmė
-    ją sau žmona ir vainikavo ją 5 . Ir susilaukė su ja dvie­
-    jų sūnų — Vladislovo, kuris vėliau buvo Vengrijos ii
-    Lenkijos karaliumi1 0 , ir antro — Kazimiero, kuris vė­
-    liau buvo Lenkijos karaliumi ir Lietuvos didžiuoju ku­
-    nigaikščiu 1 1 .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193919
-- c-057
-  santrauka: 'Lietuvos metraštis 1412 m. datuoja Vladislovo Jogailos ir Vytauto karo su Prūsijos vokiečiais pradžią.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    108
-
-    ## Puslapis 104
-
-    37. APIE JOGAILOS IR VYTAUTO KARĄ SU PROSUOS
-    VOKIEČIAIS IR APIE JŲ NUGALĖJIMĄ MOSYJE PRIE
-    DUBROVNOS
-    Sesi tūkstančiai devyni šimtai dvidešimt pirmaisiais
-    metais nuo pasaulio sutvėrimo, o nuo dievo gimimo
-    tūkstantis keturi šimtai dvyliktaisiais metais 1  prasidė­
-    jo Lenkijos karaliaus Vladislovo Jogailos ir jo brolio
-    Lietuvos kunigaikščio Vytauto karas su Prūsijos vo­
-    kiečiais.
-    Ir sutelkė abi pusės didžiulę kariuomenę: karalius
-    Jogaila su visa Lenkų karalystės jėga, o didysis kuni­
-    gaikštis Vytautas su visomis Lietuvių ir Rusų pajėgo­
-    mis ir su daugeliu Ordos totorių, o Prūsijos magistras
-    taip pat su savo pajėgomis ir su visa Vokiečių imperija.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193920
 ## Citatos
 
 - id: c-34193
@@ -2155,7 +1976,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184373
+    - t-219
+
 - id: c-36349
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2175,7 +1997,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184264
+    - t-202
+
 - id: c-36350
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2193,7 +2016,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184265
+    - t-203
+
 - id: c-36351
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2212,7 +2036,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184266
+    - t-204
+
 - id: c-36360
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2231,7 +2056,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184268
+    - t-206
+
 - id: c-36362
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2257,7 +2083,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184269
+    - t-207
+
 - id: c-36364
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2278,7 +2105,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184271
+    - t-209
+
 - id: c-36365
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2296,7 +2124,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184272
+    - t-210
+
 - id: c-166209
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2316,7 +2145,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182813
+    - t-190
+
 - id: c-166210
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2342,7 +2172,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182807
+    - t-192
+
 - id: c-166212
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2375,7 +2206,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182811
+    - t-191
+
 - id: c-166215
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2395,7 +2227,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182810
+    - t-193
+
 - id: c-166216
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2415,7 +2248,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182809
+    - t-186
+
 - id: c-166217
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2442,7 +2276,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182804
+    - t-188
+
 - id: c-166218
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2467,7 +2302,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182803
+    - t-194
+
 - id: c-166222
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2489,7 +2325,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182815
+    - t-189
+
 - id: c-166223
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2525,7 +2362,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182812
+    - t-187
+
 - id: c-166929
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2543,7 +2381,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183536
+    - t-195
+
 - id: c-166930
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2561,7 +2400,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183537
+    - t-196
+
 - id: c-166931
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2584,7 +2424,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183538
+    - t-197
+
 - id: c-166932
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2602,7 +2443,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183539
+    - t-198
+
 - id: c-166933
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2619,7 +2461,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183540
+    - t-199
+
 - id: c-166934
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2635,7 +2478,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183541
+    - t-200
+
 - id: c-166935
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2655,7 +2499,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183542
+    - t-201
+
 - id: c-167648
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2678,7 +2523,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184267
+    - t-205
+
 - id: c-167649
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2702,7 +2548,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184270
+    - t-208
+
 - id: c-167650
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2724,7 +2571,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184273
+    - t-211
+
 - id: c-167651
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2742,7 +2590,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184274
+    - t-212
+
 - id: c-167652
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2764,7 +2613,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184275
+    - t-213
+
 - id: c-167653
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2785,7 +2635,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184276
+    - t-214
+
 - id: c-167654
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2805,7 +2656,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184277
+    - t-215
+
 - id: c-167655
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2826,7 +2678,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184278
+    - t-216
+
 - id: c-167656
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2845,7 +2698,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184279
+    - t-217
+
 - id: c-167657
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2866,7 +2720,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184280
+    - t-218
+
 - id: c-168082
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2889,28 +2744,16 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 
     Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
     jos, jau traukė su kariuomene iš Vilniaus.
-  citata_rodoma: |
-    Mat tuo metu
-    paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,
-    nutaręs, jog dabar tinkama proga nebaudžiamam su­
-    laužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver­
-    žęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
-    2 7 0
-
-    ## Puslapis 269
-
-    Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
-    jos, jau traukė su kariuomene iš Vilniaus. Kęstutis ži­
-    nojo, kad priešas vedasi didžiulę kariuomenę, kuriai
-    jie neprilygsta nei ginkluote, nei karių skaičiumi.
+  citata_rodoma: "Mat tuo metu\npaaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,\nnutaręs, jog dabar tinkama proga nebaudžiamam su­\nlaužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver­\nžęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.\n2 7 0\n\n## Puslapis 269\n\nBe to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­\njos, jau traukė su kariuomene iš Vilniaus. Kęstutis ži­\nnojo, kad priešas vedasi didžiulę kariuomenę, kuriai\njie neprilygsta nei ginkluote, nei karių skaičiumi."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184721
-    - t-196486
+    - t-222
+    - t-254
+
 - id: c-168083
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2932,29 +2775,16 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     ir todėl nutarė pirmiau pabandyti vilioti patiklias šir­
     dis klastingais žodžiais nei pulti kovų užgrūdintus vy-
     monėmis.
-  citata_rodoma: |
-    Ta­
-    čiau šis senas karys ir vadas, pasikliaudamas savo rei­
-    kalo teisumu ir žinodamas, jog atsitraukimas neatneš
-    išsigelbėjimo, tik gėdą, ryžtingai patraukė prieš Jo­
-    gailą ir atvirame lauke išrikiavo savo pulkus. Abi ka­
-    riuomenės kovos tvarka stovėjo priešais viena kitą:
-    šiapus — nevilties į priekį varomi Kęstučio kariai, pa­
-    siryžę atkakliai žingsnis po žingsnio veržtis į kovą ir
-    mirtį, anapus — Jogaila, kuris nors neabejojo savųjų
-    pergale, numanė, jog kova pareikalaus didelių aukų,
-    ir todėl nutarė pirmiau pabandyti vilioti patiklias šir­
-    dis klastingais žodžiais nei pulti kovų užgrūdintus vy-
-    monėmis. Tegu jie atsimeną, jog viena prieš kitą sto­
-    vinčios ne priešų, bet giminaičių rikiuotės.
+  citata_rodoma: "Ta­\nčiau šis senas karys ir vadas, pasikliaudamas savo rei­\nkalo teisumu ir žinodamas, jog atsitraukimas neatneš\nišsigelbėjimo, tik gėdą, ryžtingai patraukė prieš Jo­\ngailą ir atvirame lauke išrikiavo savo pulkus. Abi ka­\nriuomenės kovos tvarka stovėjo priešais viena kitą:\nšiapus — nevilties į priekį varomi Kęstučio kariai, pa­\nsiryžę atkakliai žingsnis po žingsnio veržtis į kovą ir\nmirtį, anapus — Jogaila, kuris nors neabejojo savųjų\npergale, numanė, jog kova pareikalaus didelių aukų,\nir todėl nutarė pirmiau pabandyti vilioti patiklias šir­\ndis klastingais žodžiais nei pulti kovų užgrūdintus vy-\nmonėmis. Tegu jie atsimeną, jog viena prieš kitą sto­\nvinčios ne priešų, bet giminaičių rikiuotės."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184722
-    - t-196487
+    - t-223
+    - t-255
+
 - id: c-168084
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2986,34 +2816,16 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     miegamojo prižiūrėtojai Pro-
     kša, Bilgenis, Lisica ir kiti)
     Krėvos kalėjime jį pasmaugė.
-  citata_rodoma: |
-    Mat nei geros savijautos,
-    nei pasitikėjimo duotu žodžiu negali būti tada, kai,
-    susitarus dėl ko su priešu, šis nepaliauja galvojęs apie
-    naudą. Tą pačią naktį Jogaila, pamynęs draugystės bei
-    giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
-    tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį
-    liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­
-    taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­
-    gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o
-    dėl narsumo — Achilas, žuvo gimtajame krašte per
-    brolėno kaltę: penktą naktį
-    Jogailos
-    pasiųsti
-    budeliai
-    (žymiausi
-    iš
-    jų — valdovo
-    miegamojo prižiūrėtojai Pro-
-    kša, Bilgenis, Lisica ir kiti)
-    Krėvos kalėjime jį pasmaugė.
+  citata_rodoma: "Mat nei geros savijautos,\nnei pasitikėjimo duotu žodžiu negali būti tada, kai,\nsusitarus dėl ko su priešu, šis nepaliauja galvojęs apie\nnaudą. Tą pačią naktį Jogaila, pamynęs draugystės bei\ngiminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­\ntingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį\nliepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­\ntaip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­\ngų, dėl savo sumanumo tikras Lietuvos Odisėjas, o\ndėl narsumo — Achilas, žuvo gimtajame krašte per\nbrolėno kaltę: penktą naktį\nJogailos\npasiųsti\nbudeliai\n(žymiausi\niš\njų — valdovo\nmiegamojo prižiūrėtojai Pro-\nkša, Bilgenis, Lisica ir kiti)\nKrėvos kalėjime jį pasmaugė."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184723
+    - t-224
+    - t-228
+
 - id: c-168086
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3033,25 +2845,15 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     pagarbos pareikšti su rinktinių raitelių būriu keletą
     mylių priešais, o vasario 12 dieną įjojo į Krokuvą, su­
     teikdamas didingą reginį miestiečiams.
-  citata_rodoma: |
-    Tą pačią dieną
-    jis asmeniškai pasveikino karalienę, kitą dieną per
-    brolius Skirgailą bei Vytautą
-    pasiuntė jai gausių dovanų.
-    Po to vasario 16 dieną, kuri
-    paskirta šv. Valentinui, Gnez-
-    no
-    arkivyskupo
-    Bodzantos
-    apkrikštytas, gavo Vladislo­
-    vo vardą.
+  citata_rodoma: "Tą pačią dieną\njis asmeniškai pasveikino karalienę, kitą dieną per\nbrolius Skirgailą bei Vytautą\npasiuntė jai gausių dovanų.\nPo to vasario 16 dieną, kuri\npaskirta šv. Valentinui, Gnez-\nno\narkivyskupo\nBodzantos\napkrikštytas, gavo Vladislo­\nvo vardą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184725
+    - t-226
+
 - id: c-168087
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3081,37 +2883,15 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     mų, bet ir dėl neprieinamos vietos, rusams be kovos
     pasiduodant, o po to į savo rankas paėmė Oršą ir visą
     kraštą tarp Dnepro ir Dauguvos.
-  citata_rodoma: |
-    Tad Švitrigaila, būdamas tikras, jog ru­
-    sai jam pasiduos, tyliai pa-
-    U žim a  V ite b s k o  že-
-    traukė žinomais keliais per
-    puolė Vitebską, be didelio vargo užėmė Vitebsko miestą
-    ir dvi pilis, šiaip sunkiai įveikiamas ne tik dėl įtvirtini­
-    mų, bet ir dėl neprieinamos vietos, rusams be kovos
-    pasiduodant, o po to į savo rankas paėmė Oršą ir visą
-    kraštą tarp Dnepro ir Dauguvos. Jogaila, neilgai tru­
-    kus gavęs žinią apie tuos įvykius, ne tiek pykdamas
-    dėl žemės netekimo, kiek dėl nešlovės (mat jam pra­
-    nešė, kad jo vietininkas Vesna Švitrigailos įsakymu bu­
-    vęs nustumtas nuo sienos ir šitaip gavęs galą), paliepė
-    dėti karą prieš Vytautą. Ne-
-    mę
-    Polocko girias su keliais tūks­
-    tančiais Livonijos karių, už-
-    348
-
-    ## Puslapis 347
-
-    Vytautui tol kariauti, kol neatsiims žemės ir nesutriuš­
-    kins Švitrigailos.
+  citata_rodoma: "Tad Švitrigaila, būdamas tikras, jog ru­\nsai jam pasiduos, tyliai pa-\nU žim a  V ite b s k o  že-\ntraukė žinomais keliais per\npuolė Vitebską, be didelio vargo užėmė Vitebsko miestą\nir dvi pilis, šiaip sunkiai įveikiamas ne tik dėl įtvirtini­\nmų, bet ir dėl neprieinamos vietos, rusams be kovos\npasiduodant, o po to į savo rankas paėmė Oršą ir visą\nkraštą tarp Dnepro ir Dauguvos. Jogaila, neilgai tru­\nkus gavęs žinią apie tuos įvykius, ne tiek pykdamas\ndėl žemės netekimo, kiek dėl nešlovės (mat jam pra­\nnešė, kad jo vietininkas Vesna Švitrigailos įsakymu bu­\nvęs nustumtas nuo sienos ir šitaip gavęs galą), paliepė\ndėti karą prieš Vytautą. Ne-\nmę\nPolocko girias su keliais tūks­\ntančiais Livonijos karių, už-\n348\n\n## Puslapis 347\n\nVytautui tol kariauti, kol neatsiims žemės ir nesutriuš­\nkins Švitrigailos."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184726
+    - t-227
+
 - id: c-168088
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3127,24 +2907,15 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     kovą, be abejonės, Jogaila ir Vytautas, kurie visai ne­
     seniai, bijodami karo, atidavė Žemaitiją, greitosiomis
     užleisią ir visą Lietuvą.
-  citata_rodoma: |
-    Su tokiu įniršiu daugybę metų kovoję,
-    kol lietuvių padėtis buvusi tvirta, negi jie dabar sėdės
-    sudėję rankas, kai Lietuva beveik jau užkariauta? Kaip
-    jie išsaugos Europoje riterių vardą, jeigu, čia sudarę
-    taiką su lenkais, o ten — su lietuviais, leis rūdyti ka­
-    lavijams? Tegu tik parodo ryžtą, tegu tik pašaukia į
-    kovą, be abejonės, Jogaila ir Vytautas, kurie visai ne­
-    seniai, bijodami karo, atidavė Žemaitiją, greitosiomis
-    užleisią ir visą Lietuvą.
+  citata_rodoma: "Su tokiu įniršiu daugybę metų kovoję, \nkol lietuvių padėtis buvusi tvirta, negi jie dabar sėdės \nsudėję rankas, kai Lietuva beveik jau užkariauta? Kaip \njie išsaugos Europoje riterių vardą, jeigu, čia sudarę \ntaiką su lenkais, o ten — su lietuviais, leis rūdyti ka­\nlavijams? Tegu tik parodo ryžtą, tegu tik pašaukia į \nkovą, be abejonės, Jogaila ir Vytautas, kurie visai ne­\nseniai, bijodami karo, atidavė Žemaitiją, greitosiomis \nužleisią ir visą Lietuvą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184727
-    - t-196490
+    - t-258
+
 - id: c-168089
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3166,7 +2937,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184728
+    - t-229
+
 - id: c-168092
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3188,7 +2960,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184731
+    - t-232
+
 - id: c-168093
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3209,34 +2982,15 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     peratorius su Jogaila, kitaip
     1429 m eta i
     akis į akį su Vytautu.
-  citata_rodoma: |
-    Iš tiesų didingi su­
-    manymai, ir daugelis jiems
-    J o g a ila  atsisako
-    nuoširdžiai
-    pritarė,
-    tačiau
-    kur kas lengviau juos pa-
-    416
-
-    ## Puslapis 415
-
-    siūlyti, nei įgyvendinti. Jogaila, aptaręs su senatu ir
-    Vytautu šiuos pasiūlymus, atsakė: jeigu visi krikščio­
-    niškųjų šalių valdovai susitarsią ne tik narsiai paskelb­
-    ti turkams karą, bet visomis jėgomis kuo atkakliausiai
-    jį tęsti sausumoje bei jūroje, jis neatsisakysiąs šito­
-    kios ginklų sąjungos. Tuo tarpu, raginamas vien tik
-    imperatoriaus, du kartus Vengrijoje turkų sumušto, jis
-    negalįs nepaisyti sudarytų susitarimų, kuriuos lengva
-    sulaužyti, bet sunku atnaujinti.
+  citata_rodoma: "Iš tiesų didingi su­\nmanymai, ir daugelis jiems\nJ o g a ila  atsisako\nnuoširdžiai\npritarė,\ntačiau\nkur kas lengviau juos pa-\n416\n\n## Puslapis 415\n\nsiūlyti, nei įgyvendinti. Jogaila, aptaręs su senatu ir\nVytautu šiuos pasiūlymus, atsakė: jeigu visi krikščio­\nniškųjų šalių valdovai susitarsią ne tik narsiai paskelb­\nti turkams karą, bet visomis jėgomis kuo atkakliausiai\njį tęsti sausumoje bei jūroje, jis neatsisakysiąs šito­\nkios ginklų sąjungos. Tuo tarpu, raginamas vien tik\nimperatoriaus, du kartus Vengrijoje turkų sumušto, jis\nnegalįs nepaisyti sudarytų susitarimų, kuriuos lengva\nsulaužyti, bet sunku atnaujinti."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184732
+    - t-233
+
 - id: c-168094
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3258,28 +3012,13 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
     kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
     nas iš Tarnovo, Krokuvos vaivada.
-  citata_rodoma: |
-    Vytautui išėjus, senatas kuo rimčiau­
-    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
-    suktiems imperatoriaus sumanymams, nusileistų žmo­
-    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
-    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
-    tą. Štai todėl karalius po senato posėdžio, net neatsi­
-    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
-    Atvykęs į Lenkiją, jis sukvie-
-    Išsiskiisto Lucko su-
-    tė Korčine seimą, norėdamas,
-    važiavimo dalyviai
-    kad karalystės luomai nu­
-    spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams.
+  citata_rodoma: "Vytautui išėjus, senatas kuo rimčiau­\nsiai paaiškino karaliui, kad, pritardamas pavojingiems ir\nsuktiems imperatoriaus sumanymams, nusileistų žmo­\ngui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos\npriešas, nes šitai esąs parodęs praeityje ne vieną kar­\ntą. Štai todėl karalius po senato posėdžio, net neatsi­\nsveikinęs su imperatoriumi, skubiai išvyko iš Lucko.\nAtvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184733
 - id: c-168095
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3312,7 +3051,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184734
+    - t-235
+
 - id: c-168097
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3338,8 +3078,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184736
-    - t-196494
+    - t-237
+    - t-262
+
 - id: c-171431
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3360,7 +3101,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188542
+    - t-053
+
 - id: c-171432
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3377,7 +3119,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188543
+    - t-054
+
 - id: c-171433
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3402,26 +3145,15 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     dalį Voluinės, susidarė glaudesni ryšiai su Rusia; kitame pa­
     kraštyje glaudžiau su Lietuva susijo Polockas ir Padauguvio
     Rusia.
-  citata_rodoma: |
-    Pasakiau „stebuklingu būdu“, kadangi apaš­
-    tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
-    kinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių
-    riterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus
-    patrauklumas. Lenkijos karalienės Jadvygos ranka, paduota
-    Vladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­
-    rius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija
-    jo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­
-    nyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie
-    didžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri
-    jų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­
-    džių.
+  citata_rodoma: "Pasakiau „stebuklingu būdu“, kadangi apaš­\ntališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­\nkinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių\nriterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus\npatrauklumas. Lenkijos karalienės Jadvygos ranka, paduota\nVladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­\nrius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija\njo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­\nnyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie\ndidžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri\njų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­\ndžių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188544
+    - t-055
+
 - id: c-171434
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3442,7 +3174,9 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188545
+    - t-056
+    - t-057
+
 - id: c-171435
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3461,27 +3195,15 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     kaištauti Jeronimui, kam jis įkalbėjęs išnaikinti šventą dievų
     prieglobstį, ir jau nebeliko nė vieno, kuris būtų išdrįsęs imtis
     kirvio.
-  citata_rodoma: |
-    Tuomet žmonės, sekdami jo pavyzdžiu,
-    kas ką turėjo ir kuo galėjo, ėmė lenktyniaudami naikinti miš­
-    ką. Pasistūmėta iki miško vidurio; ten kurį laiką niekas nedrį­
-    so paliesti seniausio ir už visus medžius labiau garbinamo me­
-    džio, kurį ypač laikė dievų buveine. Pagaliau, kaip vienas už
-    kitus būna narsesnis, taip kažkuris iš jų, skatindamas draugus,
-    bijančius sužeisti nejautrų medį, pakėlęs kirvį, norėjo stipriai
-    smogti juo į medį, bet įsikirto į blauzdą ir vos gyvas pargriuvo
-    ant žemės32. Visa žmonių minia sunerimo, imta verkti ir prie­
-    kaištauti Jeronimui, kam jis įkalbėjęs išnaikinti šventą dievų
-    prieglobstį, ir jau nebeliko nė vieno, kuris būtų išdrįsęs imtis
-    kirvio.
+  citata_rodoma: "Tuomet žmonės, sekdami jo pavyzdžiu, \nkas ką turėjo ir kuo galėjo, ėmė lenktyniaudami naikinti miš­\nką. Pasistūmėta iki miško vidurio; ten kurį laiką niekas nedrį­\nso paliesti seniausio ir už visus medžius labiau garbinamo me­\ndžio, kurį ypač laikė dievų buveine. Pagaliau, kaip vienas už \nkitus būna narsesnis, taip kažkuris iš jų, skatindamas draugus, \nbijančius sužeisti nejautrų medį, pakėlęs kirvį, norėjo stipriai \nsmogti juo į medį, bet įsikirto į blauzdą ir vos gyvas pargriuvo \nant žemės32. Visa žmonių minia sunerimo, imta verkti ir prie­\nkaištauti Jeronimui, kam jis įkalbėjęs išnaikinti šventą dievų \nprieglobstį, ir jau nebeliko nė vieno, kuris būtų išdrįsęs imtis \nkirvio."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188546
-    - t-197403
+    - t-266
+
 - id: c-176117
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3501,22 +3223,16 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     kitas pilis
     ir jas sutvirtinę, nesigailėdami didelių iš­
     laidų.
-  citata_rodoma: |
-    Vėliau, susi­
-    kivirčiję su lenkais dėl Rusios, lietuviai visada ginklu
-    gynę savo teises į šią žemę. Dėl Jogailos, troškusio ka­
-    raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta
-    nuo Lietuvos ir prijungta prie Lenkijos. Žinoma, jis pa­
-    daręs klaidą, kai, siekdamas sosto, davęs neapgalvotų
-    pažadų, antra vertus, jų reikalas neleisti, kad valstybė
-    dėl anų susitarimų patirtų kokių nuostolių.
+  citata_rodoma: "Vėliau, susi­\nkivirčiję su lenkais dėl Rusios, lietuviai visada ginklu\ngynę savo teises į šią žemę. Dėl Jogailos, troškusio ka­\nraliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta\nnuo Lietuvos ir prijungta prie Lenkijos. Žinoma, jis pa­\ndaręs klaidą, kai, siekdamas sosto, davęs neapgalvotų\npažadų, antra vertus, jų reikalas neleisti, kad valstybė\ndėl anų susitarimų patirtų kokių nuostolių."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193393
+    - t-233
+    - t-238
+
 - id: c-176542
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3540,8 +3256,10 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193917
-    - t-196829
+    - t-241
+    - t-242
+    - t-263
+
 - id: c-176543
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3558,8 +3276,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193918
-    - t-196830
+    - t-264
+
 - id: c-176547
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3574,21 +3292,16 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     Tais laikais jo brolis Jogaila, lenkiškai Vladislovu
     vadinamas, sėdėjo Krokuvos karalystės soste. Ir tasai
     gyveno su juo didelėje meilėje.
-  citata_rodoma: |
-    Taip pat ir Čekų karalystė
-    didžią garbę teikė šlovingajam valdovui. Ir Danijos
-    karalius didžiai šlovino ir daugeliu dovanų apdovanojo
-    šlovingąjį valdovą, didį kunigaikštį Vytautą.
-    Tais laikais jo brolis Jogaila, lenkiškai Vladislovu
-    vadinamas, sėdėjo Krokuvos karalystės soste.
+  citata_rodoma: "Taip pat ir Čekų karalystė \ndidžią garbę teikė šlovingajam valdovui. Ir Danijos \nkaralius didžiai šlovino ir daugeliu dovanų apdovanojo \nšlovingąjį valdovą, didį kunigaikštį Vytautą.\nTais laikais jo brolis Jogaila, lenkiškai Vladislovu \nvadinamas, sėdėjo Krokuvos karalystės soste."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193922
-    - t-196831
+    - t-246
+    - t-265
+
 - id: c-176548
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3606,7 +3319,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193923
+    - t-247
+
 - id: c-176550
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3626,7 +3340,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193925
+    - t-249
+
 - id: c-176827
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3670,7 +3385,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194228
+    - t-250
+
 - id: c-177105
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3691,7 +3407,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194709
+    - t-251
+
 - id: c-178722
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3718,7 +3435,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196485
+    - t-253
+
 - id: c-178725
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3739,7 +3457,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196488
+    - t-256
+
 - id: c-178727
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3773,10 +3492,12 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196491
+    - t-259
+
 - id: c-184350
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Di­
     duomenė pati kitą kartą tą patį valgė, ką kiti žmo­
@@ -3805,7 +3526,40 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201000
+    - t-267
+
+- id: c-184869
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Po Algirdo mirties 1377 m. Lietuvoje įsiliepsnojo vidaus kovos dėl valdžios. Vienas
+    iš svarbiausių tos kovos dalyvių Vytautas, neatlaikydamas varžovo Jogailos spaudimo
+    ir ieškodamas paramos, 1382 m. pasitraukė į Vokiečių ordiną.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-268
+
+- id: c-184870
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Žemaičių ir Ordino sutartyse.
+    1391 m. Jogailos ir Ordino įgaliotiniams tariantis dėl suvažiavimo buvo kalbama apie
+    paliaubas jo metu, kad pirkliai galėtų laisvai prekiauti.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-269
+
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Elžbieta Granauskaitė]], [[objektai/asmenys/Jadvyga]], [[objektai/asmenys/Jadvyga Jogailienė]]
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

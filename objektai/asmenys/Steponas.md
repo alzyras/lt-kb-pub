@@ -41,8 +41,7 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 ## Teiginiai
 
 <a id="claim-t-64124"></a>
-- t-001
-  global_id: t-64124
+- t-002
   teiginys: "Apaštalų darbuose rašoma, kad Steponas, pilnas malonės ir galios, darė didžių stebuklingų ženklų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
     - c-64968
 
 <a id="claim-t-64125"></a>
-- t-002
-  global_id: t-64125
+- t-001
   teiginys: "Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -131,19 +129,15 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
     imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
     jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
-  citata_rodoma: |
-    Adalberto misija Prūsijoje (997), Norvegijos
-    valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo pri-
-    imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
-    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
-    krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
+  citata_rodoma: "Adalberto misija Prūsijoje (997), Norvegijos\nvaldovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo pri-\nimtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-\njos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo\nkrikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64125
+    - t-001
+
 - id: c-64968
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -161,4 +155,4 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64124
+    - t-002

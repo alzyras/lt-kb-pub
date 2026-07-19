@@ -30,7 +30,6 @@ Narbuto pasakojime Masilijos keliautojas Kitėjas laikomas seniausio išlikusio 
 
 <a id="claim-t-191958"></a>
 - t-001
-  global_id: t-191958
   teiginys: "Narbuto pasakojime Masilijos keliautojas Kitėjas laikomas seniausio išlikusio istorinio padavimo apie Estiją autoriumi, šalia gotonų minėjusiu estus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Narbuto pasakojime Masilijos keliautojas Kitėjas laikomas seniausio išlikusio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191958
+    - t-001

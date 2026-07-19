@@ -37,7 +37,6 @@ Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių
 
 <a id="claim-t-38638"></a>
 - t-001
-  global_id: t-38638
   teiginys: "1656 m. spalio 22 d. ties Pilypavu švedai ir brandenburgiečiai pasivijo lietuvius ir juos sumušė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38638
+    - t-001

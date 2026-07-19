@@ -32,7 +32,6 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 
 <a id="claim-t-20093"></a>
 - t-001
-  global_id: t-20093
   teiginys: "Ypatingasis SD būrys Vilniuje (Paneriuose) buvo iš lietuvių sudaryta speciali zonderkomanda, vykdžiusi šaudymus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,12 +69,11 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vieto-
     ves ir ten šaudęs (jo pagrindą ir sudarė 3-ioji TDA Kauno bataliono kuo-
     pa).
-  citata_rodoma: |
-    iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD
+  citata_rodoma: "iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20093
+    - t-001

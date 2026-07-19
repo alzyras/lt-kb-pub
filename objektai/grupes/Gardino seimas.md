@@ -37,8 +37,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
 ## Teiginiai
 
 <a id="claim-t-72073"></a>
-- t-001
-  global_id: t-72073
+- t-004
   teiginys: "Gardino seimas buvo sušauktas padalinimui patvirtinti ir naujai taikos sutarčiai su apkarpyta Respublika sudaryti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     - c-46280
 
 <a id="claim-t-72074"></a>
-- t-002
-  global_id: t-72074
+- t-003
   teiginys: "Gardino seime buvo atgaivinta Nuolatinė Taryba ir po pirmojo padalijimo veikusios karo bei iždo komisijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,8 +65,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     - c-46281
 
 <a id="claim-t-72075"></a>
-- t-003
-  global_id: t-72075
+- t-002
   teiginys: "1793 m. Gardino seime Rusija siekė sugrąžinti tvarką, buvusią po pirmojo Respublikos padalijimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +74,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     - c-70499
 
 <a id="claim-t-72076"></a>
-- t-004
-  global_id: t-72076
+- t-005
   teiginys: "1793 m. Gardino seime Rusija siekė sugrąžinti po pirmojo padalijimo buvusią valstybės tvarką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +93,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     - c-70499
 
 <a id="claim-t-72077"></a>
-- t-005
-  global_id: t-72077
+- t-001
   teiginys: "Gardino seimas buvo sušauktas patvirtinti Respublikos padalijimą ir sudaryti naują taikos sutartį su apkarpyta valstybe."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,17 +129,16 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą;
     su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
     Tam tikslui Gardine buvo sušauktas seimas.
-  citata_rodoma: |
-    su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
-    Tam tikslui Gardine buvo sušauktas seimas.
+  citata_rodoma: "su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.\nTam tikslui Gardine buvo sušauktas seimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72073
-    - t-72077
+    - t-004
+    - t-001
+
 - id: c-46281
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -155,16 +149,15 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     naujoji valstybės konstitucija, kuria buvo grąžinta santvarka,
     buvusi po I padalinimo. Buvo atgaivinta Nuolatinė Taryba ir
     tada veikusios karo ir iždo komisijos.
-  citata_rodoma: |
-    Buvo atgaivinta Nuolatinė Taryba ir
-    tada veikusios karo ir iždo komisijos.
+  citata_rodoma: "Buvo atgaivinta Nuolatinė Taryba ir\ntada veikusios karo ir iždo komisijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72074
+    - t-003
+
 - id: c-70499
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -177,14 +170,12 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     Rusija norėjo sugrąžinti tokią tvarką, kokia buvo po I padali-
     nimo. Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai
     padaryti.
-  citata_rodoma: |
-    Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai
-    padaryti.
+  citata_rodoma: "Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai\npadaryti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72075
-    - t-72076
+    - t-002
+    - t-005

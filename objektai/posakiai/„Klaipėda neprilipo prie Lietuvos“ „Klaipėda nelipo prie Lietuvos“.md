@@ -31,7 +31,6 @@ Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svar
 
 <a id="claim-t-77835"></a>
 - t-001
-  global_id: t-77835
   teiginys: "Klaipėda „neprilipo“ prie Lietuvos dėl nesėkmingos integracijos ir vokiškosios Klaipėdos krašto direktorijos orientacijos į Vokietiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77835
+    - t-001

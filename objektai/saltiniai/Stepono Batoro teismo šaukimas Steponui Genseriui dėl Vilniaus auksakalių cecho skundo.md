@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-88338"></a>
 - t-001
-  global_id: t-88338
   teiginys: "Steponas Genseris Vilniaus auksakalių cecho reikalavimu buvo raštiškai pakviestas į valdovo teismą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ media_all_json: |-
 
 <a id="claim-t-88339"></a>
 - t-002
-  global_id: t-88339
   teiginys: "Steponas Genseris kaltintas atskirai nuo Vilniaus auksakalių cecho gaminęs ir pardavinėjęs auksakalystės dirbinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88339
+    - t-002
+
 - id: c-84318
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -120,4 +119,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88338
+    - t-001

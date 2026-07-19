@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-34360"></a>
 - t-001
-  global_id: t-34360
   teiginys: "Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34360
+    - t-001
+
 - id: c-167608
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -92,3 +92,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

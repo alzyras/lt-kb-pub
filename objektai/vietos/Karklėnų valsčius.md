@@ -7,10 +7,10 @@ datos:
   - '1626 m.'
 date_start: '1626'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Kai 1626 m. Karklėnų valsčiaus vaitas Povilas Juozapavičius sugrąžino sula
 
 <a id="claim-t-201731"></a>
 - t-001
-  global_id: t-201731
   teiginys: "Kai 1626 m. Karklėnų valsčiaus vaitas Povilas Juozapavičius sugrąžino sulaikytus Kauno miestiečio Andriaus Steponavičiaus būdos įnagius, tarp jų buvo 40 kirvių, 2 drožtuvai, 1 pjūklas, kelios būdos geležys, 1 kubilas, taip pat 1laštas pelenų."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Kai 1626 m. Karklėnų valsčiaus vaitas Povilas Juozapavičius sugrąžino sula
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201731
+    - t-001

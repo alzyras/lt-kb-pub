@@ -31,7 +31,6 @@ Porai mėnesių praslinkus, būtent spalių 1 d. įvyko antras susivažiavimas K
 
 <a id="claim-t-36320"></a>
 - t-001
-  global_id: t-36320
   teiginys: "Spalio 1 d. Kolomnoje įvyko antras susivažiavimas, kuriame Vytautas siekė Smolensko paėmimo aprobavimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,15 +65,11 @@ Porai mėnesių praslinkus, būtent spalių 1 d. įvyko antras susivažiavimas K
     įvyko antras susivažiavimas Kolomnoj. Čia Vytautas rūpinosi
     išgauti Smolensko paėmimo aprobaciją, bet iš tikro čia buvo
     aptarti ir kitokie reikalai.
-  citata_rodoma: |
-    Porai mėnesių praslinkus, būtent spalių 1 d.
-    įvyko antras susivažiavimas Kolomnoj. Čia Vytautas rūpinosi
-    išgauti Smolensko paėmimo aprobaciją, bet iš tikro čia buvo
-    aptarti ir kitokie reikalai.
+  citata_rodoma: "Porai mėnesių praslinkus, būtent spalių 1 d.\nįvyko antras susivažiavimas Kolomnoj. Čia Vytautas rūpinosi\nišgauti Smolensko paėmimo aprobaciją, bet iš tikro čia buvo\naptarti ir kitokie reikalai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36320
+    - t-001

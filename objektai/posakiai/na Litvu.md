@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-31562"></a>
 - t-001
-  global_id: t-31562
   teiginys: "„Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą („na Litvu“), bet jo eigos neaprašė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ media_all_json: |-
 
 <a id="claim-t-31563"></a>
 - t-002
-  global_id: t-31563
   teiginys: "1131-1132 m. Kijevo Mstislavas esą dvejus metus iš eilės rengė žygius į Lietuvą („na Litvu“)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +98,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31562
+    - t-001
+
 - id: c-33489
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -113,17 +112,11 @@ media_all_json: |-
     o 1132 m. padarytas jo žygis baigėsi nelaimingai: jis išsiruošęs su
     didele kariuomene, kraštą gaisrais naikinęs, bet pats buvęs lietuvių
     sumuštas.
-  citata_rodoma: |
-    Lietuvos vardas vėl minimas po 87 metų, kai esą
-    dveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į
-    Lietuvą («na Litvu»). 1131 m. jis esąs grįžęs su daug belaisvių,
-    o 1132 m. padarytas jo žygis baigėsi nelaimingai: jis išsiruošęs su
-    didele kariuomene, kraštą gaisrais naikinęs, bet pats buvęs lietuvių
-    sumuštas.
+  citata_rodoma: "Lietuvos vardas vėl minimas po 87 metų, kai esą\ndveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į\nLietuvą («na Litvu»). 1131 m. jis esąs grįžęs su daug belaisvių,\no 1132 m. padarytas jo žygis baigėsi nelaimingai: jis išsiruošęs su\ndidele kariuomene, kraštą gaisrais naikinęs, bet pats buvęs lietuvių\nsumuštas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31563
+    - t-002

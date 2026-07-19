@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-59613"></a>
 - t-001
-  global_id: t-59613
   teiginys: "Torunės pilis buvo sugriauta 1454 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59613
+    - t-001

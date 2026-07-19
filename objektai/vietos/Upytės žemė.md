@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-42229"></a>
 - t-001
-  global_id: t-42229
   teiginys: "1363 m. pradžioje buvo siaubiama Upytės žemė Nevėžio aukštupyje ir gretimos apylinkės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,14 +70,11 @@ media_all_json: |-
     metu buvo stipriai puolama abiejų Prūsijos
     ir Livonijos kariuomenių iš pietvakarių ir
     šiaurės.
-  citata_rodoma: |
-    1363 m. pradžioje buvo siaubiama Upytės
-    žemė Nevėžio aukštupyje ir gretimos apy-
-    linkės. 1364 m.
+  citata_rodoma: "1363 m. pradžioje buvo siaubiama Upytės\nžemė Nevėžio aukštupyje ir gretimos apy-\nlinkės. 1364 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42229
+    - t-001

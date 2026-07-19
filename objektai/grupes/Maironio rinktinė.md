@@ -37,7 +37,6 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
 
 <a id="claim-t-41084"></a>
 - t-001
-  global_id: t-41084
   teiginys: "Prisikėlimo apygardoje atkurta P. Lukšio rinktinė netrukus buvo pervadinta Maironio rinktine."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
 
 <a id="claim-t-41085"></a>
 - t-002
-  global_id: t-41085
   teiginys: "Prisikėlimo apygardos reorganizacijos metu Maironio rinktinės vadas Juozas Paliūnas-Rytas tapo apygardos vado pavaduotoju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,23 +91,15 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
     zanų vadų susirinkimų vieta (čia
     1949 m. vasario 16 d. pasirašyta
     LLKS deklaracija).
-  citata_rodoma: |
-    Prisikėlimo apygardoje buvo
-    atkurta P. Lukšio rinktinė (netrukus pervadinta į
-    Maironio), joje J. Paliūnas užėmė svar-
-    bias pareigas. Naujoji Prisikėlimo
-    apygarda dėl savo geografinės pa-
-    dėties tapo visos Lietuvos parti-
-    zanų vadų susirinkimų vieta (čia
-    1949 m. vasario 16 d. pasirašyta
-    LLKS deklaracija).
+  citata_rodoma: "Prisikėlimo apygardoje buvo\natkurta P. Lukšio rinktinė (netrukus pervadinta į\nMaironio), joje J. Paliūnas užėmė svar-\nbias pareigas. Naujoji Prisikėlimo\napygarda dėl savo geografinės pa-\ndėties tapo visos Lietuvos parti-\nzanų vadų susirinkimų vieta (čia\n1949 m. vasario 16 d. pasirašyta\nLLKS deklaracija)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41084
+    - t-001
+
 - id: c-44815
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -122,18 +112,11 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
     nės vadas Juozas Paliūnas-Rytas.
 
     242  UŽPELKIŲ KAUTYNĖS 1949 m. rugpjūčio 13 d.
-  citata_rodoma: |
-    Apygradoje
-    prasidėjo reorganizacija: Prisikėlimo
-    apygardos vadu tapo Povilas Morkūnas-
-    Rimantas, pavaduotoju - Maironio rinkti-
-    nės vadas Juozas Paliūnas-Rytas.
-
-    242  UŽPELKIŲ KAUTYNĖS 1949 m.
+  citata_rodoma: "Apygradoje\nprasidėjo reorganizacija: Prisikėlimo\napygardos vadu tapo Povilas Morkūnas-\nRimantas, pavaduotoju - Maironio rinkti-\nnės vadas Juozas Paliūnas-Rytas.\n\n242  UŽPELKIŲ KAUTYNĖS 1949 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41085
+    - t-002

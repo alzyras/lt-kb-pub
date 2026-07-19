@@ -38,22 +38,15 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 ## Teiginiai
 
 <a id="claim-t-58869"></a>
-- t-001
-  global_id: t-58869
+- t-002
   teiginys: "Stalininkas Druzigeris pabėgo iš mūšio ir Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Druzigeris: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "stalininkas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Druzigeris: mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"stalininkas\" parinktas kaip owner_note_path. Targetas \"Druzigeris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59501
+    - c-59500
 - susijęs iš [[objektai/asmenys/Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.).md#claim-t-200519|Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.)]]: Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas.
+- susijęs iš [[objektai/asmenys/Juozapas Ozienblovskis.md#claim-t-202416|Juozapas Ozienblovskis]]: Tikėtina, kad Juozapas Ozienblovskis buvo Vilkmergės stalininkas nuo 1693 m. spalio 25 d. ir mirė apie 1725 m.
 - susijęs iš [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas.md#claim-t-185389|pataurininkis stalininkas rūmininkas iždininkas]]: Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.
 - susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200498|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis buvo Ukmergės pavieto stalininkas.
 - susijęs iš [[objektai/asmenys/Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.).md#claim-t-200519|Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.)]]: Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas.
@@ -68,10 +61,12 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 - susijęs iš [[objektai/asmenys/Liudvikas Chelchovskis (Kauno pavieto stalininkas, XVIII a.).md#claim-t-200500|Liudvikas Chelchovskis (Kauno pavieto stalininkas, XVIII a.)]]: 1754 m. karnavalo metu Jonas Dominykas Lopacinskis derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu dėl Balbieriškio valdų.
 - susijęs iš [[objektai/asmenys/Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.).md#claim-t-200502|Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.)]]: Tomas Ignotas Zenkovičius buvo Baltarusijos sufraganas.
 - susijęs iš [[objektai/asmenys/Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.).md#claim-t-200503|Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.)]]: 1755 m. į Tomo Ignoto Zenkovičiaus konsekraciją atvyko Mikalojus Lopacinskis, Tadas Oginskis, Stanislovas Bužinskis ir Antanas Dominykas Tiškevičius.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1246 m. Austrijos kunigaikštis pasiuntė stalininką Druzigerį su didele kariuomene talkinti Prūsijoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+## Citatos
+
+- id: c-59500
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Tuo metu, kai šitai dėjosi, Sventopelkas
     sutelkė didelę kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui
@@ -84,13 +79,14 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
     vyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
     koks bailys pamatęs daugybę nukautųjų.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  citata_rodoma: "Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­\n                                        jos [vyrų]\n\n  Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą  ir kai įsakė kitiems\njį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės\nkančios sujaudino Vokietijos kunigaikščius bei kilminguosius, o Austrijos kunigaikštis294\npasiuntė jiems talkinti savo stalininką Druzigerį su didele kariuomene ir su įgudusiais\nkariauti vyrais, be to, atvyko riteris Henrikas iš Lichtenšteino, o su juo daug maldininkų."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
-## Citatos
+  pagrindzia:
+    - t-002
 
 - id: c-59501
   autorius: "Petras Dusburgietis"
@@ -110,18 +106,9 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     ją puoselėja, tai yra Jėzus Kristus, todėl po ilgų derybų, kryžininkų patariami, jie atnaujino
     pagal pirmykštę formulę senąją sutartį, jų sudarytą su minėtuoju kunigaikščiu295.
     57 (56). Apie brolį Henriką, trečią magistrą.
-  citata_rodoma: |
-    Tuo tarpu stalininkas Druzigeris,
-    su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad
-    ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo
-    žemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo
-    girdėta. Tačiau kitos dienos pavakaryje, kai broliai su kariuomene sugrįžo po pergalingo
-    mūšio, toks didelis džiaugsmas apėmė krikščionių širdis, kad pranoko vakarykštės dienos
-    raudas.
+  citata_rodoma: "Tuo tarpu stalininkas Druzigeris,\nsu saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad\nir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo\nžemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo\ngirdėta. Tačiau kitos dienos pavakaryje, kai broliai su kariuomene sugrįžo po pergalingo\nmūšio, toks didelis džiaugsmas apėmė krikščionių širdis, kad pranoko vakarykštės dienos\nraudas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-58869

@@ -37,7 +37,6 @@ Dusburgietis teigia, kad petras iš Dusburgo akcentuoja, kad Prūsijoje kariauja
 
 <a id="claim-t-58938"></a>
 - t-001
-  global_id: t-58938
   teiginys: "Petras Dusburgietis Prūsijoje vykusį karą vaizdavo kaip kovą prieš „tikybos ir bažnyčios priešus“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Dusburgietis teigia, kad petras iš Dusburgo akcentuoja, kad Prūsijoje kariauja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58938
+    - t-001

@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-62377"></a>
 - t-001
-  global_id: t-62377
   teiginys: "1245 m. popiežius Lione sušaukė suvažiavimą, kuriame nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-62966
 
 <a id="claim-t-194401"></a>
-- t-002
-  global_id: t-194401
+- t-003
   teiginys: "Apie švenčiausiosios Marijos gimimo oktavos įsteigimą 1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė švęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -101,20 +99,12 @@ Nenurodyta
 
 
                 31.
-  citata_rodoma: |
-    Apie švenčiausiosios Marijos gimimo oktavos įsteigimą
-
-      1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė
-    švęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol. 22,3).
-
-
-
-                31.
+  citata_rodoma: "Apie švenčiausiosios Marijos gimimo oktavos įsteigimą\n\n  1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė\nšvęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol. 22,3).\n\n\n\n            31."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62377
-    - t-194401
+    - t-001
+    - t-003

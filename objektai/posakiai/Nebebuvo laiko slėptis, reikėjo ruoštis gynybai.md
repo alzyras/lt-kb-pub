@@ -31,7 +31,6 @@ Nebebuvo laiko slėptis, reikėjo ruoštis gynybai.
 
 <a id="claim-t-41457"></a>
 - t-001
-  global_id: t-41457
   teiginys: "Artėjant tanketėms, sunkvežimiams ir gurguolėms, nebebuvo laiko slėptis ir reikėjo ruoštis gynybai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,14 +58,11 @@ Nebebuvo laiko slėptis, reikėjo ruoštis gynybai.
     skraidyti virš miško. Nebebuvo laiko slėp-
     tis, reikėjo ruoštis gynybai. Mūšis prasi-
     dėjo ankstų rytą.
-  citata_rodoma: |
-    Nebebuvo laiko slėp-
-    tis, reikėjo ruoštis gynybai. Mūšis prasi-
-    dėjo ankstų rytą.
+  citata_rodoma: "Nebebuvo laiko slėp-\ntis, reikėjo ruoštis gynybai. Mūšis prasi-\ndėjo ankstų rytą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41457
+    - t-001

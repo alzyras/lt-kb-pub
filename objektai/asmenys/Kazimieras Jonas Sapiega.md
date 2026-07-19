@@ -7,12 +7,12 @@ datos:
   - '1688 m.'
 date_start: '1688'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-202337"></a>
 - t-001
-  global_id: t-202337
   teiginys: "1688 m. į Gardino seimą vykstantis Mogiliavo vaitas ir suolininkas LDK rūmų iždininkui Kazimierui Jonui Sapiegai padovanojo geresnių lapių kailių ir tris poras lapės pakaklės kailių."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,5 @@ media_all_json: |-
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202337
+    - t-001

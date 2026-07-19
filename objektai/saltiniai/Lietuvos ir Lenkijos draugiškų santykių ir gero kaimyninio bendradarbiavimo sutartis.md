@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-21153"></a>
 - t-001
-  global_id: t-21153
   teiginys: "Lietuvos ir Lenkijos sutarties preambulėje pasmerktas smurtas tarpusavio santykiuose ir patvirtintas abiejų šalių teritorijų vientisumas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ media_all_json: |-
 
 <a id="claim-t-183365"></a>
 - t-002
-  global_id: t-183365
   teiginys: "Lietuva ir Lenkija 1994 m. balandžio 26 d. po ilgų derybų pasirašė draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -98,15 +96,15 @@ media_all_json: |-
     smurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių
     iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir
     Varšuva vientisumą[as] dabar ir ateityje“.
-  citata_rodoma: |
-    iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir
+  citata_rodoma: "iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21153
+    - t-001
+
 - id: c-166758
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -128,4 +126,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183365
+    - t-002

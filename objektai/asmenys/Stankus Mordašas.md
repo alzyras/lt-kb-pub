@@ -8,12 +8,12 @@ datos:
   - '1467 m.'
 date_start: '1463'
 date_end: '1467'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XV'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-202134"></a>
 - t-001
-  global_id: t-202134
   teiginys: "Štai 1463-1467 m. Kauno seniūnu buvęs bajoras Stankus Mordašas dovanojo parapinės bažnyčios altoriui Biliariškių dvarą Kauno paviete."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202134
+    - t-001

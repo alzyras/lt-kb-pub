@@ -37,7 +37,6 @@ Vytautas tad stojo vidury tarp husitų ir popiežiaus. Tad Vytautas įsakė grį
 
 <a id="claim-t-34408"></a>
 - t-001
-  global_id: t-34408
   teiginys: "Vytautas manė, kad Kaributo siuntimas buvo vienintelis kelias atvesti husitus atgal į katalikų Bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Vytautas tad stojo vidury tarp husitų ir popiežiaus. Tad Vytautas įsakė grį
 
 <a id="claim-t-34409"></a>
 - t-002
-  global_id: t-34409
   teiginys: "Vytautas čekams husitams rašė, kad norėjo juos grąžinti Bažnyčiai ir galėtų tarpininkauti tarp jų ir Zigmanto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,8 @@ Vytautas tad stojo vidury tarp husitų ir popiežiaus. Tad Vytautas įsakė grį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34409
+    - t-002
+
 - id: c-35634
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -115,4 +114,4 @@ Vytautas tad stojo vidury tarp husitų ir popiežiaus. Tad Vytautas įsakė grį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34408
+    - t-001

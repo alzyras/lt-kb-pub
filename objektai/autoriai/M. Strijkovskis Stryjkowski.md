@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-172913"></a>
-- t-001
-  global_id: t-172913
+- t-009
   teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-157285
 
 <a id="claim-t-172914"></a>
-- t-002
-  global_id: t-172914
+- t-018
   teiginys: "Strijkovskis neužsiminė apie tariamą Goštauto vienuolystę ir vyskupystę, todėl ši aplinkybė tekste atmetama."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ media_all_json: |-
     - c-157281
 
 <a id="claim-t-172916"></a>
-- t-003
-  global_id: t-172916
+- t-016
   teiginys: "Stryjkowskis nurodė, kad Švitrigaila piliai užimti pasinaudojo rusų vienuolių, vadintų čiornais, išdavyste."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +89,7 @@ media_all_json: |-
     - c-157275
 
 <a id="claim-t-172920"></a>
-- t-004
-  global_id: t-172920
+- t-011
   teiginys: "Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,8 +108,7 @@ media_all_json: |-
     - c-157276
 
 <a id="claim-t-172922"></a>
-- t-005
-  global_id: t-172922
+- t-008
   teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,8 +124,7 @@ media_all_json: |-
     - c-157272
 
 <a id="claim-t-172927"></a>
-- t-006
-  global_id: t-172927
+- t-002
   teiginys: "Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimą, Goštautas pastatydino Šv. Petro bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -146,8 +140,7 @@ media_all_json: |-
     - c-157279
 
 <a id="claim-t-172928"></a>
-- t-007
-  global_id: t-172928
+- t-001
   teiginys: "Stryjkowskis savo kronikoje aiškino Šventaragio vardo kilmę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -163,8 +156,7 @@ media_all_json: |-
     - c-157286
 
 <a id="claim-t-172930"></a>
-- t-008
-  global_id: t-172930
+- t-010
   teiginys: "Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -180,8 +172,7 @@ media_all_json: |-
     - c-157273
 
 <a id="claim-t-172931"></a>
-- t-009
-  global_id: t-172931
+- t-005
   teiginys: "Strijkovskis užsiminė apie mūšį, po kurio prie Sudervėlės upelio liko lietuvių sumuštų kryžiuočių kapavietė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -198,8 +189,7 @@ media_all_json: |-
     - c-157278
 
 <a id="claim-t-172932"></a>
-- t-010
-  global_id: t-172932
+- t-003
   teiginys: "Strijkovskis plačiai aprašė gudrybes, kurių Kęstutis ėmėsi puldamas Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -216,8 +206,7 @@ media_all_json: |-
     - c-157288
 
 <a id="claim-t-172933"></a>
-- t-011
-  global_id: t-172933
+- t-004
   teiginys: "Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -234,8 +223,7 @@ media_all_json: |-
     - c-157287
 
 <a id="claim-t-172935"></a>
-- t-012
-  global_id: t-172935
+- t-006
   teiginys: "Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -252,7 +240,6 @@ media_all_json: |-
 
 <a id="claim-t-172936"></a>
 - t-013
-  global_id: t-172936
   teiginys: "Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors šis tapatinimas laikomas klaidingu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -269,8 +256,7 @@ media_all_json: |-
     - c-157271
 
 <a id="claim-t-172937"></a>
-- t-014
-  global_id: t-172937
+- t-012
   teiginys: "Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -286,8 +272,7 @@ media_all_json: |-
     - c-157274
 
 <a id="claim-t-172940"></a>
-- t-015
-  global_id: t-172940
+- t-007
   teiginys: "Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -303,8 +288,7 @@ media_all_json: |-
     - c-157280
 
 <a id="claim-t-172941"></a>
-- t-016
-  global_id: t-172941
+- t-015
   teiginys: "Strijkovskis, aprašydamas Vilniaus apgultį, teigė, kad Mikalojus Moskorovskis su lenkais narsiai gynė Aukštutinę pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -320,8 +304,7 @@ media_all_json: |-
     - c-157277
 
 <a id="claim-t-172942"></a>
-- t-017
-  global_id: t-172942
+- t-014
   teiginys: "Strijkovskis prie Vilniaus apsupties metu nukautųjų priskyrė Narimantą ir pateikė Długoszo pasakojimą apie jo mirtį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -372,7 +355,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172936
+    - t-013
+
 - id: c-157272
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -390,22 +374,15 @@ media_all_json: |-
     nio vakarais dvasininkai visada
     statydavo ir degindavo vaško žva­
     kes/' Strijkovskis, Sk. IV, p. 400.
-  citata_rodoma: |
-    6
-    „Buvo dar didžiulė menė, arba
-    šventovė, Antakalnyje, visų dievų,
-    kuriuos Lietuva, apgauta šėtoniš­
-    kų kerų, garbino; ten ketvirtadie­
-    nio vakarais dvasininkai visada
-    statydavo ir degindavo vaško žva­
-    kes/' Strijkovskis, Sk. IV, p. 400.
+  citata_rodoma: "6\n„Buvo dar didžiulė menė, arba \nšventovė, Antakalnyje, visų dievų, \nkuriuos Lietuva, apgauta šėtoniš­\nkų kerų, garbino; ten ketvirtadie­\nnio vakarais dvasininkai visada \nstatydavo ir degindavo vaško žva­\nkes/' Strijkovskis, Sk. IV, p. 400."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172922
+    - t-008
+
 - id: c-157273
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -442,7 +419,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172930
+    - t-010
+
 - id: c-157274
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -464,29 +442,15 @@ media_all_json: |-
     žinomas kunigaikščio Herfordo var­
     du, Jono de Gando, Lankasterio ku­
     nigaikščio, Ričardo dėdės, sūnus.
-  citata_rodoma: |
-    Prie Kauno su jais susijungė, be Žemai-
-    23
-    Strijkovskis apsirinka nurody­
-    damas, esą Lankasteris, Anglijos ka­
-    raliaus Henriko sūnus, su didžiulė­
-    mis anglų, škotų bei prancūzų ir 1.1,
-    pajėgomis įsibrovė į Lietuvą. Nebu­
-    vo apie 1390 metus jokio Henriko
-    Anglijos soste, o viešpatavo anuo
-    tarpu Ričardas II, ir prie Vilniaus bu­
-    vojo ne kas kitas, tik Henrikas Lan­
-    kasteris, pirm Derbio grafas, vėliau
-    žinomas kunigaikščio Herfordo var­
-    du, Jono de Gando, Lankasterio ku­
-    nigaikščio, Ričardo dėdės, sūnus.
+  citata_rodoma: "Prie Kauno su jais susijungė, be Žemai-\n23\nStrijkovskis apsirinka nurody­\ndamas, esą Lankasteris, Anglijos ka­\nraliaus Henriko sūnus, su didžiulė­\nmis anglų, škotų bei prancūzų ir 1.1, \npajėgomis įsibrovė į Lietuvą. Nebu­\nvo apie 1390 metus jokio Henriko \nAnglijos soste, o viešpatavo anuo \ntarpu Ričardas II, ir prie Vilniaus bu­\nvojo ne kas kitas, tik Henrikas Lan­\nkasteris, pirm Derbio grafas, vėliau \nžinomas kunigaikščio Herfordo var­\ndu, Jono de Gando, Lankasterio ku­\nnigaikščio, Ričardo dėdės, sūnus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172937
+    - t-012
+
 - id: c-157275
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -511,30 +475,15 @@ media_all_json: |-
     vardu buvo vadinama ir rusų gyven­
     tojų prastuomenė, kurių nemažai
     anuomet buvo Vilniuje.
-  citata_rodoma: |
-    Vilniaus apylinkės, ke­
-    turių mylių nuotoliu buvo priešo ligi paskutiniųjų nunio­
-    kotos, ir tik tada didysis magistras įsakė trauktis. Tačiau
-    atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­
-    siartinus prie Strėvos upės Trakų paviete, tankiame miške
-    iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių,
-    54
-    Stryjkowski, p. 464, aiškiai
-    nurodo, kad Švitrigaila pilies užėmi­
-    mo dėlei turėjo būti pasinaudojęs ru­
-    sų vienuolių, vadintų „čiornais", iš­
-    davyste; tačiau čia ateina į galvą
-    mintis, kad „čiornų" (prasčiokai)
-    vardu buvo vadinama ir rusų gyven­
-    tojų prastuomenė, kurių nemažai
-    anuomet buvo Vilniuje.
+  citata_rodoma: "Vilniaus apylinkės, ke­\nturių mylių nuotoliu buvo priešo ligi paskutiniųjų nunio­\nkotos, ir tik tada didysis magistras įsakė trauktis. Tačiau \natsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­\nsiartinus prie Strėvos upės Trakų paviete, tankiame miške \niš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių,\n54\nStryjkowski, p. 464, aiškiai \nnurodo, kad Švitrigaila pilies užėmi­\nmo dėlei turėjo būti pasinaudojęs ru­\nsų vienuolių, vadintų „čiornais\", iš­\ndavyste; tačiau čia ateina į galvą \nmintis, kad „čiornų\" (prasčiokai) \nvardu buvo vadinama ir rusų gyven­\ntojų prastuomenė, kurių nemažai \nanuomet buvo Vilniuje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172916
+    - t-016
+
 - id: c-157276
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -569,33 +518,15 @@ media_all_json: |-
     mo, ir tik 1391 m. kovo 12 d. išrink­
     tas didž. magistru; mirė 1393 m.
     liepos 25 d.
-  citata_rodoma: |
-    22
-    Miechovita, Strijkovskis
-    ir K o j e 1 a v i č i u s klysta sakyda­
-    mi, esą žygio vadovavimas buvo pa­
-    vestas Konradui Valenrodui, kurį
-    jau tuo metu vadina didžiuoju ma­
-    gistru, kai Konradas Valenrodas
-    1382 metais, sekmadienį prieš Šv.
-    Mykolą paskirtas Ordino didžiuoju
-    maršalu, 1387 metais per Apreiški­
-    mo Marijai šventę tapo didžiuoju
-    komtūru arba arkikomtūru, 1390
-    rugpjūčio 15 d., po didžiojo magistro
-    Konrado Ciolnerio fon Rotenšteino
-    mirties, - ir didžiojo magistro vieti­
-    ninku, iki pat kapitulos suvažiavi­
-    mo, ir tik 1391 m. kovo 12 d. išrink­
-    tas didž. magistru; mirė 1393 m.
-    liepos 25 d.
+  citata_rodoma: "22\nMiechovita, Strijkovskis \nir K o j e 1 a v i č i u s klysta sakyda­\nmi, esą žygio vadovavimas buvo pa­\nvestas Konradui Valenrodui, kurį \njau tuo metu vadina didžiuoju ma­\ngistru, kai Konradas Valenrodas \n1382 metais, sekmadienį prieš Šv. \nMykolą paskirtas Ordino didžiuoju \nmaršalu, 1387 metais per Apreiški­\nmo Marijai šventę tapo didžiuoju \nkomtūru arba arkikomtūru, 1390 \nrugpjūčio 15 d., po didžiojo magistro \nKonrado Ciolnerio fon Rotenšteino \nmirties, - ir didžiojo magistro vieti­\nninku, iki pat kapitulos suvažiavi­\nmo, ir tik 1391 m. kovo 12 d. išrink­\ntas didž. magistru; mirė 1393 m. \nliepos 25 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172920
+    - t-011
+
 - id: c-157277
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -645,7 +576,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172941
+    - t-015
+
 - id: c-157278
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -666,7 +598,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172931
+    - t-005
+
 - id: c-157279
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -684,7 +617,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172927
+    - t-002
+
 - id: c-157280
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -698,21 +632,15 @@ media_all_json: |-
     tindamas, esą miškas lietuviškai va­
     dinamas laukas ir nuo to žodžio
     paėjęs Lukiškių pavadinimas.
-  citata_rodoma: |
-    Petro bažnyčia, buvo iš­
-    kilusi medinė šventovė, visiems lietuvių dievams pašvęsta6.
-    tovė Laukai-kišas-upys, vėliau išvir­
-    to į Lukiškes. Strijkovskis klysta tvir­
-    tindamas, esą miškas lietuviškai va­
-    dinamas laukas ir nuo to žodžio
-    paėjęs Lukiškių pavadinimas.
+  citata_rodoma: "Petro bažnyčia, buvo iš­\nkilusi medinė šventovė, visiems lietuvių dievams pašvęsta6.\ntovė Laukai-kišas-upys, vėliau išvir­\nto į Lukiškes. Strijkovskis klysta tvir­\ntindamas, esą miškas lietuviškai va­\ndinamas laukas ir nuo to žodžio \npaėjęs Lukiškių pavadinimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172940
+    - t-007
+
 - id: c-157281
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -741,7 +669,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172914
+    - t-018
+
 - id: c-157282
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -764,7 +693,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172935
+    - t-006
+
 - id: c-157284
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -802,7 +732,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172942
+    - t-014
+
 - id: c-157285
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -823,24 +754,15 @@ media_all_json: |-
     griuvusių skliautų žymės dunkso/'
     14
     Ne tik Šv.
-  citata_rodoma: |
-    13
-    Šv. Martyno bažnyčia jau XVI am­
-    žiuje buvo apleista ir sugriauta: mi­
-    ni apie tai ir pats Strijkovskįs savo
-    kronikoje, p. 479: „Dabar, kaip ma­
-    tome, sunyko ir sugriuvo, tiktai prie
-    Plikojo kalno puikaus pastato ir su­
-    griuvusių skliautų žymės dunkso/'
-    14
-    Ne tik Šv.
+  citata_rodoma: "13\nŠv. Martyno bažnyčia jau XVI am­\nžiuje buvo apleista ir sugriauta: mi­\nni apie tai ir pats Strijkovskįs savo \nkronikoje, p. 479: „Dabar, kaip ma­\ntome, sunyko ir sugriuvo, tiktai prie \nPlikojo kalno puikaus pastato ir su­\ngriuvusių skliautų žymės dunkso/'\n14\nNe tik Šv."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172913
+    - t-009
+
 - id: c-157286
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -860,7 +782,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172928
+    - t-001
+
 - id: c-157287
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -917,7 +840,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172933
+    - t-004
+
 - id: c-157288
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -937,17 +861,11 @@ media_all_json: |-
     plačiai aprašo, kokių gudrybių tą­
     kart ėmėsi Kęstutis, puldamas Vil-
     nių.
-  citata_rodoma: |
-    31
-    Strijkovskis, 1.465, o juo sekda­
-    mas ir K o j e 1  a v i č i u s, p. 361,
-    plačiai aprašo, kokių gudrybių tą­
-    kart ėmėsi Kęstutis, puldamas Vil-
-    nių.
+  citata_rodoma: "31\nStrijkovskis, 1.465, o juo sekda­\nmas ir K o j e 1  a v i č i u s, p. 361, \nplačiai aprašo, kokių gudrybių tą­\nkart ėmėsi Kęstutis, puldamas Vil- \nnių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172932
+    - t-003

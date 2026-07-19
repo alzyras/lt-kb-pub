@@ -30,8 +30,7 @@ Vytautas išleido kunigaikštytę Sofiją iš Marienburgo, o jos palyda iš Gdan
 ## Teiginiai
 
 <a id="claim-t-187632"></a>
-- t-001
-  global_id: t-187632
+- t-002
   teiginys: "Vytautas išleido kunigaikštytę Sofiją iš Marienburgo, o jos palyda iš Gdansko laivais pasiekė Pernu ir Pskovą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -72,25 +71,14 @@ Vytautas išleido kunigaikštytę Sofiją iš Marienburgo, o jos palyda iš Gdan
     Karalius Jogaila pasiuntė pas jį savo pasiunti­
     nius M, šitaip kreipdamasis: „Nebeniokok daugiau tos
     Lietuvos žemės, savo ir mūsų tėviškės.
-  citata_rodoma: |
-    Tais pačiais metais, Vytautui būnant Vokiečių že­
-    mėje, į Marienburgą atvyko pasiuntiniai iš Maskvos,
-    nuo didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus,
-    prašydami didįjį kunigaikštį Vytautą, kad [leistų] duk­
-    terį už didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus.
-    Didysis kunigaikštis Vytautas atidavė savo dukterį ku­
-    nigaikštytę Sofiją ir išleido ją iš Marienburgo, o su
-    ja pasiuntė kunigaikštį Joną Algimantaitį, ir jie iš
-    Gdansko miesto išplaukė laivais2 3 , per jūrą pasiekda­
-    mi Pernu2 1  ir Pskovo miestą. Pskoviečiai sutiko juos
-    labai svetingai ir palydėjo pagarbiai ligi Didžiojo Nau-
-    gardo.
+  citata_rodoma: "Tais pačiais metais, Vytautui būnant Vokiečių že­\nmėje, į Marienburgą atvyko pasiuntiniai iš Maskvos, \nnuo didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus, \nprašydami didįjį kunigaikštį Vytautą, kad [leistų] duk­\nterį už didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus. \nDidysis kunigaikštis Vytautas atidavė savo dukterį ku­\nnigaikštytę Sofiją ir išleido ją iš Marienburgo, o su \nja pasiuntė kunigaikštį Joną Algimantaitį, ir jie iš \nGdansko miesto išplaukė laivais2 3 , per jūrą pasiekda­\nmi Pernu2 1  ir Pskovo miestą. Pskoviečiai sutiko juos \nlabai svetingai ir palydėjo pagarbiai ligi Didžiojo Nau- \ngardo."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187632
+    - t-002
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Sofija]]

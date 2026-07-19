@@ -31,7 +31,6 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 
 <a id="claim-t-19349"></a>
 - t-001
-  global_id: t-19349
   teiginys: "Nobelio premijos laureatas Česlovas Milošas save laikė paskutiniu LDK piliečiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,12 +65,11 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
     viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
     po poros dešimtmečių sukūrę Lietuvos Respubliką.
-  citata_rodoma: |
-    save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz).
+  citata_rodoma: "save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19349
+    - t-001

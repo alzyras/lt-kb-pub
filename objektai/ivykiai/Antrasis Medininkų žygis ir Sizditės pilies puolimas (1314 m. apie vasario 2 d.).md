@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-59272"></a>
 - t-001
-  global_id: t-59272
   teiginys: "1314 m. apie vasario 2 d. maršalas brolis Henrikas su kariuomene puolė Sizditės pilį Medininkų valsčiuje, bet pilėnai priešinosi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-183911"></a>
 - t-002
-  global_id: t-183911
   teiginys: "Po nesėkmingo Sizditės pilies puolimo brolio Henriko kariuomenė patraukė į pilies apylinkes ir jas nusiaubė degindama bei plėšdama."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,6 @@ Nenurodyta
 
 <a id="claim-t-194376"></a>
 - t-003
-  global_id: t-194376
   teiginys: "Dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -107,7 +104,6 @@ Nenurodyta
 
 <a id="claim-t-196930"></a>
 - t-004
-  global_id: t-196930
   teiginys: "Todėl broliai, šitai matydami, sudegino savo pilies papilį, norėdami išvengti galimų pavojų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -141,9 +137,10 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59272
-    - t-183911
-    - t-194376
+    - t-001
+    - t-002
+    - t-003
+
 - id: c-178986
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -161,4 +158,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196930
+    - t-004

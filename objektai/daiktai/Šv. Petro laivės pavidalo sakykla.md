@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-200848"></a>
 - t-001
-  global_id: t-200848
   teiginys: "Praeitojo šimtmečio pradžioje iš Milano pakviesti du skulptoriai pastatė burinės šv. Petro laivės pavidalo sakyklą."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200848
+    - t-001

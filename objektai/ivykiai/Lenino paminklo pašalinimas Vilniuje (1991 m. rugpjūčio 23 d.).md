@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-24531"></a>
 - t-001
-  global_id: t-24531
   teiginys: "Vilniuje buvo pašalintas Lenino paminklas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,18 +84,11 @@ Nenurodyta
     entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus
     Vakarų diplomatų epitetą „Baltic Kindergarten“…
     Vilniuje pašalinamas Lenino paminklas.
-  citata_rodoma: |
-    Pakviesti
-    į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug
-    ambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio
-    entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus
-    Vakarų diplomatų epitetą „Baltic Kindergarten“…
-    Vilniuje pašalinamas Lenino paminklas.
-    1991 m. rugpjūčio 23 d. J. Juknevičiaus nuotrauka
+  citata_rodoma: "Pakviesti \nį tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug \nambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio \nentuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus \nVakarų diplomatų epitetą „Baltic Kindergarten“… \nVilniuje pašalinamas Lenino paminklas.  \n1991 m. rugpjūčio 23 d. J. Juknevičiaus nuotrauka"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-24531
+    - t-001

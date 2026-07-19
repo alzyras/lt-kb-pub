@@ -30,7 +30,6 @@ Teodoras Narbutas kritikavo Kelsijų ir Olafą Daliną dėl teiginio, kad nuo Kr
 
 <a id="claim-t-191507"></a>
 - t-001
-  global_id: t-191507
   teiginys: "Teodoras Narbutas kritikavo Kelsijų ir Olafą Daliną dėl teiginio, kad nuo Kristaus gimimo Baltijos jūra nuseko 13 sieksnių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,7 @@ Teodoras Narbutas kritikavo Kelsijų ir Olafą Daliną dėl teiginio, kad nuo Kr
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174389
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas kritikavo Kelsijų ir Olafą Daliną dėl teiginio, kad nuo Kristaus gimimo Baltijos jūra nuseko 13 sieksnių.'
@@ -71,8 +70,7 @@ Teodoras Narbutas kritikavo Kelsijų ir Olafą Daliną dėl teiginio, kad nuo Kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191507
+
 ## Citatos
 
 - id: c-174389
@@ -98,23 +96,11 @@ Teodoras Narbutas kritikavo Kelsijų ir Olafą Daliną dėl teiginio, kad nuo Kr
     šiai jūrai skiria gerokai didesnį plotą, negu ji užima
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
     mėse, kurios tarsi įrodo jos mažėjimą.
-  citata_rodoma: |
-    Iš tikrųjų kai ku­
-    rias sausumas galima laikyti buvusiomis salomis po to,
-    kai iš ten pasitraukė jūra. Tačiau Kelsijus ir Dalinas per­
-    nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
-    Kristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po
-    keturių tūkstančių metų jos neliks nė pėdsako. Antra
-    vertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,
-    Ovidijus kalba apie vandens lygio kritimą, pateikdami
-    akivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis
-    apie
-    Baltijos
-    jūrą“).
+  citata_rodoma: "Iš tikrųjų kai ku­\nrias sausumas galima laikyti buvusiomis salomis po to,\nkai iš ten pasitraukė jūra. Tačiau Kelsijus ir Dalinas per­\nnelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo\nKristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po\nketurių tūkstančių metų jos neliks nė pėdsako. Antra\nvertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,\nOvidijus kalba apie vandens lygio kritimą, pateikdami\nakivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis\napie\nBaltijos\njūrą“)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191507
+    - t-001

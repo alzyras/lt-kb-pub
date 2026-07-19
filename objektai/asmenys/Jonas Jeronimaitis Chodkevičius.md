@@ -39,8 +39,7 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
 ## Teiginiai
 
 <a id="claim-t-101648"></a>
-- t-001
-  global_id: t-101648
+- t-002
   teiginys: "Jonas Jeronimaitis Chodkevičius pasirinko Lietuvos susisaistymą su Lenkija ir 1569 m. Liublino seime priėmė unijos idėją."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
     - c-25096
 
 <a id="claim-t-101649"></a>
-- t-002
-  global_id: t-101649
+- t-005
   teiginys: "Jonas Jeronimaitis Chodkevičius apgynė LDK antspaudus ir nukėlė konkrečių Lenkijos bei Lietuvos ryšių ar unijos klausimų sprendimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
     - c-21737
 
 <a id="claim-t-101650"></a>
-- t-003
-  global_id: t-101650
+- t-001
   teiginys: "1562 m. Vitebsko karo lauko seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -96,8 +93,7 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
     - c-21734
 
 <a id="claim-t-101651"></a>
-- t-004
-  global_id: t-101651
+- t-003
   teiginys: "Jonas Jeronimaitis Chodkevičius, kreipdamasis į Žygimantą Augustą, teigė buvęs priverstas nusileisti su didžiu skausmu ir širdgėla."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -115,8 +111,7 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
     - c-21736
 
 <a id="claim-t-101652"></a>
-- t-005
-  global_id: t-101652
+- t-004
   teiginys: "Jonas Jeronimaitis Chodkevičius pasiekė, kad Lenkijos ir Lietuvos ryšių ar unijos klausimai būtų sprendžiami po Liublino seimo."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -133,7 +128,6 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
 
 <a id="claim-t-183543"></a>
 - t-006
-  global_id: t-183543
   teiginys: "Jonas Jeronimaitis Chodkevičius kreipdamasis į Žygimantą Augustą teigė, kad lietuviai priversti nusileisti su didžiu skausmu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -164,17 +158,15 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
     vonijos kare. Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas
     siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti
     karinės pagalbos, kartu unijos.
-  citata_rodoma: |
-    Vitebsko „karo lauko“ seimas
-    siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti
-    karinės pagalbos, kartu unijos.
+  citata_rodoma: "Vitebsko „karo lauko“ seimas \nsiuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti \nkarinės pagalbos, kartu unijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101650
+    - t-001
+
 - id: c-21736
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -185,17 +177,15 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
     prijungimo prie Lenkijos – idėją. Tai buvo žiaurus kompromisas. Kreipda-
     masis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu
     skausmu ir širdgėla buvome priversti nusileisti.
-  citata_rodoma: |
-    Kreipda-
-    masis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu
-    skausmu ir širdgėla buvome priversti nusileisti.
+  citata_rodoma: "Kreipda-\nmasis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu \nskausmu ir širdgėla buvome priversti nusileisti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101651
+    - t-003
+
 - id: c-21737
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -208,20 +198,16 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
     vos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami
     ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos vals-
     tybingumą.
-  citata_rodoma: |
-    Apgindamas LDK
-    antspaudus, J. J. Chodkevičius pasiekė, kad konkretūs Lenkijos ir Lietu-
-    vos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami
-    ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos vals-
-    tybingumą.
+  citata_rodoma: "Apgindamas LDK \nantspaudus, J. J. Chodkevičius pasiekė, kad konkretūs Lenkijos ir Lietu-\nvos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami \nne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos vals-\ntybingumą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101649
-    - t-101652
+    - t-005
+    - t-004
+
 - id: c-25096
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -232,18 +218,15 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
     gėsi išsiderėti kuo palankesnes sąlygas. J. J. Chodkevičius Liublino seime
     1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos
     prijungimo prie Lenkijos – idėją.
-  citata_rodoma: |
-    Jis pasirinko pirmąjį kelią, tačiau sten-
-    gėsi išsiderėti kuo palankesnes sąlygas. J. J. Chodkevičius Liublino seime
-    1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos
-    prijungimo prie Lenkijos – idėją.
+  citata_rodoma: "Jis pasirinko pirmąjį kelią, tačiau sten-\ngėsi išsiderėti kuo palankesnes sąlygas. J. J. Chodkevičius Liublino seime \n1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos \nprijungimo prie Lenkijos – idėją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101648
+    - t-002
+
 - id: c-166936
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -263,4 +246,4 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183543
+    - t-006

@@ -28,7 +28,6 @@ media_all_json: |-
 
 <a id="claim-t-201884"></a>
 - t-001
-  global_id: t-201884
   teiginys: "Čia paminėtų kolegų ir daugelio nepaminėtų Istorijos katedros darbuotojų, taip pat Kauno istorijos draugijos (vadovai Linas Saldukas ir Kastytis Antanaitis) narių kuriama intelektuali aplinka buvo nepaprastai vertinga paspirtis rašant Kauno istorijos I tomą."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201884
+    - t-001

@@ -45,8 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-02002"></a>
-- t-001
-  global_id: t-02002
+- t-002
   teiginys: "Vėliau seimeliai buvo šaukiami atskiriems reikalams ir turėjo skirtingus vardus pagal atliekamą funkciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Nenurodyta
     - c-02240
 
 <a id="claim-t-02003"></a>
-- t-002
-  global_id: t-02003
+- t-001
   teiginys: "Seimeliuose bajorija svarstydavo savo reikalus, rinkdavo teismą, kitus urėdus ir atstovus į seimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,21 +86,15 @@ Nenurodyta
     elekciniuose būdavo renkami pavieto arba vaivadijos urė-
     dai, ir t. t.
     **3.
-  citata_rodoma: |
-    Vėliau seimeliai
-    buvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo
-    atskirus vardus: priešseiminiuose seimeliuose bū-
-    davo renkami atstovai į seimą; reliaciniuose atstovai,
-    grįžę iš seimo, padarydavo pranešimus apie seimo darbus;
-    elekciniuose būdavo renkami pavieto arba vaivadijos urė-
-    dai, ir t. t.
+  citata_rodoma: "Vėliau seimeliai\nbuvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo\natskirus vardus: priešseiminiuose seimeliuose bū-\ndavo renkami atstovai į seimą; reliaciniuose atstovai,\ngrįžę iš seimo, padarydavo pranešimus apie seimo darbus;\nelekciniuose būdavo renkami pavieto arba vaivadijos urė-\ndai, ir t. t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02002
+    - t-002
+
 - id: c-02241
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -119,4 +111,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02003
+    - t-001

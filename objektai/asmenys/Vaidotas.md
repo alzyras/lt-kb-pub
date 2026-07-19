@@ -42,7 +42,6 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 
 <a id="claim-t-64202"></a>
 - t-001
-  global_id: t-64202
   teiginys: "Vaidotas, Kęstučio anūkas, po studijų Pragos universitete nuo 1401 m. tapo antruoju Krokuvos universiteto rektoriumi."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64202
+    - t-001

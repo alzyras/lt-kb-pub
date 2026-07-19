@@ -38,7 +38,6 @@ Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Ja
 
 <a id="claim-t-200744"></a>
 - t-001
-  global_id: t-200744
   teiginys: "Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józefas Kauschas (1751–1825)."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -66,8 +65,5 @@ Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Ja
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:13"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200744
+    - t-001

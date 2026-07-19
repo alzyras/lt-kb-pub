@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185802"></a>
 - t-001
-  global_id: t-185802
   teiginys: "Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-196173"></a>
 - t-002
-  global_id: t-196173
   teiginys: "Nodamas prie kranto apgaule prisiviliojo kryžiuočių laivą, sukvietė iš pasalų karius ir užėmė laivą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -104,5 +102,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185802
-    - t-196173
+    - t-001
+    - t-002

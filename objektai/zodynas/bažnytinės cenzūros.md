@@ -32,7 +32,6 @@ O [vaitas ir tarėjai] nesi­ laikydami įstatymų pasisavina iš bažnyčios va
 
 <a id="claim-t-86516"></a>
 - t-001
-  global_id: t-86516
   teiginys: "Vilniaus vyskupo Motiejaus raštu Vilniaus kapitulai suteikta jurisdikcija ir leidimas taikyti bažnytines cenzūras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ O [vaitas ir tarėjai] nesi­ laikydami įstatymų pasisavina iš bažnyčios va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86516
+    - t-001

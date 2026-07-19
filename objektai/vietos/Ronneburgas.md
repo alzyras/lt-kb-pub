@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-32511"></a>
 - t-001
-  global_id: t-32511
   teiginys: "Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,15 +57,11 @@ media_all_json: |-
     Livonijos Ronneburgo analai ir necrologium14 15. Bet toji akyla
     lotyniška restauracija parodė, kad analų originalo tekstu skubotas
     Stryjko vskis nesinaudojo tiksliai.
-  citata_rodoma: |
-    Šitaip pagal Stryjkovskį buvo restauruoti
-    Livonijos Ronneburgo analai ir necrologium14 15. Bet toji akyla
-    lotyniška restauracija parodė, kad analų originalo tekstu skubotas
-    Stryjko vskis nesinaudojo tiksliai.
+  citata_rodoma: "Šitaip pagal Stryjkovskį buvo restauruoti\nLivonijos Ronneburgo analai ir necrologium14 15. Bet toji akyla\nlotyniška restauracija parodė, kad analų originalo tekstu skubotas\nStryjko vskis nesinaudojo tiksliai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32511
+    - t-001

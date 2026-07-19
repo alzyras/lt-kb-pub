@@ -30,7 +30,6 @@ Goštauto sodas.
 
 <a id="claim-t-194284"></a>
 - t-001
-  global_id: t-194284
   teiginys: "Goštauto sodas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -56,4 +55,4 @@ Goštauto sodas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194284
+    - t-001

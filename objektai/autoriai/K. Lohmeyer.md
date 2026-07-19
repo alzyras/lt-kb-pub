@@ -44,8 +44,7 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
 ## Teiginiai
 
 <a id="claim-t-64678"></a>
-- t-001
-  global_id: t-64678
+- t-005
   teiginys: "K. Lohmeyer buvo 1907 m. Gotoje išleisto veikalo „Zur Altpreussischen Geschichte, Aufsätze und Vorträge“ autorius."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
     - c-13913
 
 <a id="claim-t-64679"></a>
-- t-002
-  global_id: t-64679
+- t-007
   teiginys: "K. Lohmeyer priskiriamas autoriams, kurie Vytauto pasitraukimą aiškino kariuomenės susilpnėjimu ir Livonijos Ordino pavojumi."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
     - c-13915
 
 <a id="claim-t-64680"></a>
-- t-003
-  global_id: t-64680
+- t-006
   teiginys: "Karl Lohmeyer Brockhauzo enciklopedijos straipsnyje „Litauen“ Vytautą vadino vienu žymiausių vyrų pasaulio istorijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +102,8 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64678
+    - t-005
+
 - id: c-13914
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -116,17 +114,15 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
     Europoje. Vienas vokiečiu istorikas (K. Lohmeyer, Brockhau­
     zo enciklop., Litauen) sako, kad jis buvo ir vienas žymiausiųjų
     vyrų viso pasaulio istorijoje.
-  citata_rodoma: |
-    Europoje. Vienas vokiečiu istorikas (K. Lohmeyer, Brockhau­
-    zo enciklop., Litauen) sako, kad jis buvo ir vienas žymiausiųjų
-    vyrų viso pasaulio istorijoje.
+  citata_rodoma: "Europoje. Vienas vokiečiu istorikas (K. Lohmeyer, Brockhau­\nzo enciklop., Litauen) sako, kad jis buvo ir vienas žymiausiųjų\nvyrų viso pasaulio istorijoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64680
+    - t-006
+
 - id: c-13915
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -142,4 +138,4 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64679
+    - t-007

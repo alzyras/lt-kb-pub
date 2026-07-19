@@ -38,8 +38,7 @@ Eretas, Kazys Pakštas. Eretas, Valančiaus šviesa už marių.
 ## Teiginiai
 
 <a id="claim-t-30667"></a>
-- t-001
-  global_id: t-30667
+- t-002
   teiginys: "J. Eretas parengė spaudai veikalą „Valančiaus šviesa už marių“ apie Pranciškaus Juro ir jo bendrininkų gyvenimą bei veiklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Eretas, Kazys Pakštas. Eretas, Valančiaus šviesa už marių.
     - c-32960
 
 <a id="claim-t-30668"></a>
-- t-002
-  global_id: t-30668
+- t-001
   teiginys: "J. Eretas parašė veikalą „Kazys Pakštas. Tautinio šauklio odisėja“, išleistą Romoje 1970 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,8 @@ Eretas, Kazys Pakštas. Eretas, Valančiaus šviesa už marių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30668
+    - t-001
+
 - id: c-32960
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -97,13 +96,11 @@ Eretas, Kazys Pakštas. Eretas, Valančiaus šviesa už marių.
     8 dol.
     J. Eretas, Valančiaus šviesa už marių. Pranciškaus Juro
     ir jo bendrininkų gyvenimas bei veikla, paruošta spaudai.
-  citata_rodoma: |
-    J. Eretas, Valančiaus šviesa už marių. Pranciškaus Juro
-    ir jo bendrininkų gyvenimas bei veikla, paruošta spaudai.
+  citata_rodoma: "J. Eretas, Valančiaus šviesa už marių. Pranciškaus Juro\nir jo bendrininkų gyvenimas bei veikla, paruošta spaudai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30667
+    - t-002

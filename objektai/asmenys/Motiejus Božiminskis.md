@@ -32,7 +32,6 @@ Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Va
 
 <a id="claim-t-87920"></a>
 - t-001
-  global_id: t-87920
   teiginys: "Motiejus Božiminskis buvo bajoras, paskirtas karaliaus Zigmanto Vazos raštu, spalio 30 d. rašytu Varšuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,16 +59,11 @@ Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Va
     rašytu spalio 30 d. iš Varšuvos -
     Burmistras Kuzma Mamoničius -
     10.
-  citata_rodoma: |
-    9. Motiejus (arba Matas) Božiminskis, iš bajorų,
-    paskirtas karaliaus Zigmanto Vazos raštu,
-    rašytu spalio 30 d. iš Varšuvos -
-    Burmistras Kuzma Mamoničius -
-    10.
+  citata_rodoma: "9. Motiejus (arba Matas) Božiminskis, iš bajorų, \npaskirtas karaliaus Zigmanto Vazos raštu, \nrašytu spalio 30 d. iš Varšuvos - \nBurmistras Kuzma Mamoničius -\n10."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87920
+    - t-001

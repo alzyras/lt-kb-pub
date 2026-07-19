@@ -47,8 +47,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
 ## Teiginiai
 
 <a id="claim-t-192208"></a>
-- t-001
-  global_id: t-192208
+- t-006
   teiginys: "Narbutas žodį „galinduoti“ aiškina kaip reiškiantį elgtis kaip galindas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -63,10 +62,10 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-002
+    - c-175069
+
 <a id="claim-t-192209"></a>
 - t-002
-  global_id: t-192209
   teiginys: "Narbutas siūlo galindų pavadinimo kilmę grįsti žodžiu „galinduoti“, reiškiančiu elgtis kaip galindas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -81,10 +80,10 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-002
+    - c-175069
+
 <a id="claim-t-192210"></a>
-- t-003
-  global_id: t-192210
+- t-005
   teiginys: "Narbutas mini „galinduoti“ kaip žodį, kuriuo aiškina galindų pavadinimo kilmę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -99,10 +98,10 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-002
+    - c-175069
+
 <a id="claim-t-192211"></a>
 - t-004
-  global_id: t-192211
   teiginys: "Narbutas žodžiui „galinduoti“ teikia pirmenybę prieš Galintuvojt kildinimą iš senovės prūsų žodžio."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -118,10 +117,9 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175068
-    - c-175069
+
 <a id="claim-t-192212"></a>
-- t-005
-  global_id: t-192212
+- t-001
   teiginys: "Narbutas nurodo, kad kiti autoriai Galintuvojt kildino iš senovės prūsų žodžio, reiškusio triukšmauti arba niekšėti."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -136,7 +134,8 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-002
+    - c-175069
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -158,11 +157,10 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192208
-    - t-192209
+- t-192209
     - t-192210
     - t-192212
+
 ## Citatos
 
 - id: c-175068
@@ -195,21 +193,15 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
     tų upių tyrinėjimas, nes randame Rosės upę, įtekančią į
     Narevą iš dešiniosios pakrantės, kurią galindai turėjo
     pašventinti išsikėlę iš AMlkovysko Rosės.
-  citata_rodoma: |
-    Bet teisingiausia
-    palyginti su abejotinais ir dirbtiniais spėjimais, o gal tu­
-    rėtų būti prielaida šio pavadinimo kilmės iš gelonų, t. y.
-    visos lietuvių tautos protėvių, kurie, persiikraustę į šiuos
-    kraštus, nors ir buvo susijungę su budinais, galėjo įam­
-    žinti pavadinimą savo palikuonių igelonų gentyje; apie
-    jų koloniją jau rašėme (§ 216).
+  citata_rodoma: "Bet teisingiausia\npalyginti su abejotinais ir dirbtiniais spėjimais, o gal tu­\nrėtų būti prielaida šio pavadinimo kilmės iš gelonų, t. y.\nvisos lietuvių tautos protėvių, kurie, persiikraustę į šiuos\nkraštus, nors ir buvo susijungę su budinais, galėjo įam­\nžinti pavadinimą savo palikuonių igelonų gentyje; apie\njų koloniją jau rašėme (§ 216)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192211
+    - t-004
+
 - id: c-175069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -231,17 +223,14 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
     kraštus, nors ir buvo susijungę su budinais, galėjo įam­
     žinti pavadinimą savo palikuonių igelonų gentyje; apie
     jų koloniją jau rašėme (§ 216).
-  citata_rodoma: |
-    Kiti autoriai, gal kiek arčiau tiesos, mėgina pavadinimų
-    kildinti iš senovės prūsų žodžio Galintuvojt, tai reiškė
-    triukšmauti, niekšeli, nes šios gentys buvusios plėšikiškos
-    ir agresyvios. Mūsų nuomone, šio žodžio kilmę veikiau
-    reikėtų pagrįsti šių genčių pavadinimu, remtis žodžiu
-    „galinduoti“, t. y. elgtis kaip galindas.
+  citata_rodoma: "Kiti autoriai, gal kiek arčiau tiesos, mėgina pavadinimų\nkildinti iš senovės prūsų žodžio Galintuvojt, tai reiškė\ntriukšmauti, niekšeli, nes šios gentys buvusios plėšikiškos\nir agresyvios. Mūsų nuomone, šio žodžio kilmę veikiau\nreikėtų pagrįsti šių genčių pavadinimu, remtis žodžiu\n„galinduoti“, t. y. elgtis kaip galindas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192211
+    - t-006
+    - t-002
+    - t-005
+    - t-001

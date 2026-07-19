@@ -31,7 +31,6 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
 
 <a id="claim-t-191242"></a>
 - t-001
-  global_id: t-191242
   teiginys: "Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Žemės rutulys buvo karštas tarsi raudonai įkaitinta geležis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
 
 <a id="claim-t-191244"></a>
 - t-003
-  global_id: t-191244
   teiginys: "Narbutas Humboltui priskiria aiškinimą, kad tropikų augalija ir gyvūnija senovės Šiaurėje atsirado dėl ten išsiskyrusios šilumos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,7 +68,7 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174126
-    - c-003
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Aleksandro Humbolto veikalus apie Žemės temperatūros kitimą siejo su prielaida, kad Šiaurėje labai seniai būta gyventojų.'
@@ -99,10 +97,9 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
     šalis paplito žmonių giminė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-003
   santrauka: 'Narbutas Humboltui priskiria aiškinimą, kad tropikų augalija ir gyvūnija senovės Šiaurėje atsirado dėl ten išsiskyrusios šilumos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -119,11 +116,10 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
     juostas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191244
+  statusas: verified
+
 ## Citatos
 
 - id: c-174124
@@ -142,7 +138,8 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191242
+    - t-001
+
 - id: c-174126
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -160,21 +157,11 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
     juostas.
     Apsiribokime spėlionėmis apie senovės kūrinį, kuris
     leidžia mums pažinti tik savo žaismo fragmentus.
-  citata_rodoma: |
-    Todėl viskas prasidėjo nuo Siaurės, nes prie
-    pusiaujo dėl karščio niekas negalėjo augti. Tai taip pat
-    sutampa su žymiojo tyrinėtojo pono Humbolto aiškini­
-    mais; jis teigia, kad tropikų augalija vėsėjusi senovės
-    Šiaurėje, kuri turėjo tuomet gana daug išsiskyrusios ši­
-    lumos, kai kieta sausumos dalis atsiskyrė nuo skystos, o
-    lai pirmiausia įvyko Šiaurėje: taip tropinė šiluma pagim­
-    dė augaliją ir gyvūniją. Iš tikrųjų tai truko neilgai, o
-    tik tol, kol susikaupusi šiluma išsisklaidė ir po kitas oro
-    juostas.
+  citata_rodoma: "Todėl viskas prasidėjo nuo Siaurės, nes prie\npusiaujo dėl karščio niekas negalėjo augti. Tai taip pat\nsutampa su žymiojo tyrinėtojo pono Humbolto aiškini­\nmais; jis teigia, kad tropikų augalija vėsėjusi senovės\nŠiaurėje, kuri turėjo tuomet gana daug išsiskyrusios ši­\nlumos, kai kieta sausumos dalis atsiskyrė nuo skystos, o\nlai pirmiausia įvyko Šiaurėje: taip tropinė šiluma pagim­\ndė augaliją ir gyvūniją. Iš tikrųjų tai truko neilgai, o\ntik tol, kol susikaupusi šiluma išsisklaidė ir po kitas oro\njuostas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191244
+    - t-003

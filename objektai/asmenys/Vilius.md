@@ -31,7 +31,6 @@ Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių
 
 <a id="claim-t-87933"></a>
 - t-001
-  global_id: t-87933
   teiginys: "Pasak Dlugošo, Vilnius vardą gavo nuo vado Viliaus, kuris lietuvių protėvius atvedęs iš Italijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87933
+    - t-001

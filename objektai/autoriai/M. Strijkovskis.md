@@ -46,9 +46,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 
 ## Teiginiai
 
-<a id="claim-t-172895"></a>
-- t-001
-  global_id: t-172895
+<a id="claim-t-172880"></a>
+- t-032
   teiginys: "Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157242
 
 <a id="claim-t-172882"></a>
-- t-002
-  global_id: t-172882
+- t-008
   teiginys: "Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė visų Lietuvos garbintų dievų šventovė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157250
 
 <a id="claim-t-172883"></a>
-- t-003
-  global_id: t-172883
+- t-018
   teiginys: "Motiejus Strijkovskis teigė, kad Algirdas prie Mėlynųjų Vandenų sumušė totorius, žygiuodamas Padniepre pro Kanevą ir Čerkasus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-42445
 
 <a id="claim-t-172884"></a>
-- t-004
-  global_id: t-172884
+- t-014
   teiginys: "Motiejus Strijkovskis Dusburgiečio nuorašą panaudojo 1582 m. Karaliaučiuje išspausdintoje Kronikoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -119,27 +115,16 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157243
 
 <a id="claim-t-172886"></a>
-- t-005
-  global_id: t-172886
+- t-004
   teiginys: "Motiejus Strijkovskis pateikė istorine tradicija grindžiamų detalių apie Algirdo pergalę prieš totorius prie Mėlynųjų Vandenų."
-  atnaujinta: "2026-05-31 14:13"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Pergalė prieš totorius tiesiogiai rodo Algirdo karinę priešpriešą totoriams."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) kariavo prieš Totoriai (0.90); Algirdas (Lietuvos valdovas) dalyvavo mūšyje Mėlynųjų Vandenų mūšis (1362 m.) (0.86)"
   pagrindžia:
-    - c-42445
     - c-42446
 
 <a id="claim-t-172887"></a>
-- t-006
-  global_id: t-172887
+- t-012
   teiginys: "Motiejus Strijkovskis apsiriko rašydamas, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su kariuomene įsibrovė į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,9 +139,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   pagrindžia:
     - c-157240
 
-<a id="claim-t-172898"></a>
-- t-007
-  global_id: t-172898
+<a id="claim-t-172888"></a>
+- t-033
   teiginys: "Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -172,8 +156,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157250
 
 <a id="claim-t-172891"></a>
-- t-008
-  global_id: t-172891
+- t-013
   teiginys: "Motiejus Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, perimdamas Dlugošo pasakojimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -189,8 +172,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157267
 
 <a id="claim-t-172892"></a>
-- t-009
-  global_id: t-172892
+- t-005
   teiginys: "Motiejus Strijkovskis teigė, kad Algirdas, sutelkęs lietuvių pajėgas ir žygiuodamas Padniepre, prie Mėlynųjų Vandenų sumušė totorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -207,8 +189,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157268
 
 <a id="claim-t-172893"></a>
-- t-010
-  global_id: t-172893
+- t-019
   teiginys: "Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -224,8 +205,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157245
 
 <a id="claim-t-172899"></a>
-- t-011
-  global_id: t-172899
+- t-022
   teiginys: "Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -244,8 +224,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157248
 
 <a id="claim-t-172900"></a>
-- t-012
-  global_id: t-172900
+- t-009
   teiginys: "Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. buvo sunykusi ir sugriuvusi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -261,27 +240,16 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157242
 
 <a id="claim-t-172902"></a>
-- t-013
-  global_id: t-172902
+- t-003
   teiginys: "Motiejus Strijkovskis XVI a. antrojoje pusėje rašė, kad Gediminas mūšyje prie Irpenės smogė rusams iš šono ir juos sumušė."
-  atnaujinta: "2026-06-14 10:59"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Rusai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai aprašo Gedimino smūgį rusams mūšyje."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Gediminas puolė Rusai (0.90)"
   pagrindžia:
-    - c-42443
     - c-42444
 
 <a id="claim-t-172903"></a>
-- t-014
-  global_id: t-172903
+- t-023
   teiginys: "Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -297,28 +265,19 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157240
 
 <a id="claim-t-172904"></a>
-- t-015
-  global_id: t-172904
+- t-017
   teiginys: "Motiejaus Strijkovskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ 1846 m. išleista Varšuvoje."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Varšuva: mention_match, place, gap=94"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip owner_note_path. Targetas \"Varšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1846 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata pagrindžia leidinio pavadinimą, tomą, vietą ir metus."
   pagrindžia:
-    - c-157259
+    - c-157243
 
 <a id="claim-t-172905"></a>
-- t-016
-  global_id: t-172905
+- t-006
   teiginys: "Motiejus Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -334,8 +293,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157245
 
 <a id="claim-t-172907"></a>
-- t-017
-  global_id: t-172907
+- t-028
   teiginys: "Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -351,8 +309,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157241
 
 <a id="claim-t-172908"></a>
-- t-018
-  global_id: t-172908
+- t-011
   teiginys: "Motiejus Strijkovskis klydo žygio vadovavimą priskirdamas Konradui Valenrodui ir tuo metu vadindamas jį didžiuoju magistru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -370,28 +327,19 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157248
 
 <a id="claim-t-172909"></a>
-- t-019
-  global_id: t-172909
+- t-016
   teiginys: "Motiejus Strijkovskis 1582 m. Karaliaučiuje išleido „Kronika polska, litewska, żmodzka i wszystkiej Rusi“."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Motiejus Strijkovskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Motiejus Strijkovskis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip owner_note_path. Targetas \"Motiejus Strijkovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1582 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Bibliografinė citata pakankamai pagrindžia kūrinio pavadinimą, vietą ir metus."
   pagrindžia:
-    - c-157244
+    - c-157243
 
 <a id="claim-t-172912"></a>
-- t-020
-  global_id: t-172912
+- t-007
   teiginys: "Motiejus Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -407,8 +355,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157250
 
 <a id="claim-t-188443"></a>
-- t-021
-  global_id: t-188443
+- t-001
   teiginys: "Narbutas, remdamasis Strijkovskiu, rašo, kad Vilniaus Antakalnyje buvusi stogu dengta šventykla visiems dievams."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -428,28 +375,27 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171333
 
 <a id="claim-t-188444"></a>
-- t-022
-  global_id: t-188444
+- t-034
   teiginys: "Narbutas rašo, kad Strijkovskis Lietuvos stabmeldystės istorijoje nuolat mini vyriausiojo žynio pareigas, o paskutiniu laiko Lizdeiką."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171334
+    - c-173521
+    - c-173522
 
 <a id="claim-t-188445"></a>
-- t-023
-  global_id: t-188445
+- t-035
   teiginys: "Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki ninkų pranešimais ir savo paties duomenimis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -468,8 +414,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171335
 
 <a id="claim-t-188446"></a>
-- t-024
-  global_id: t-188446
+- t-036
   teiginys: "Narbutas rašo, kad Strijkovskis pats matė nykstančią šventę ir pateikė senovinių apeigų vaizdą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -489,7 +434,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 
 <a id="claim-t-188447"></a>
 - t-037
-  global_id: t-188447
   teiginys: "Narbutas rašo, kad Strijkovskis rugsėjo šventę Žemininko garbei vadino žymiausia metine švente."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -507,10 +451,9 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171337
-    - c-020
+
 <a id="claim-t-188448"></a>
-- t-026
-  global_id: t-188448
+- t-038
   teiginys: "Narbutas rašo, kad Strijkovskis sakėsi buvęs liaudyje išlikusių aukojimų liudytojas, bet neminėjo gyvulių dalių deginimo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -531,7 +474,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 
 <a id="claim-t-188449"></a>
 - t-039
-  global_id: t-188449
   teiginys: "Narbutas rašo, kad Strijkovskis Ilgių šventę laikė visai neseniai pradėta žemaičių švente."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -548,10 +490,9 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171339
-    - c-022
+
 <a id="claim-t-188451"></a>
-- t-028
-  global_id: t-188451
+- t-040
   teiginys: "Narbutas rašo, kad Strijkovskis Viršaitį laikė namų, turto ir namų gyvulių globėju."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -572,28 +513,19 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 
 <a id="claim-t-188452"></a>
 - t-041
-  global_id: t-188452
   teiginys: "Narbutas nurodo, kad Strijkovskis karo dievą vadino Chaurirari, bet šį vardą laikė galimu kronikos riktu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Strijkovskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Strijkovskis: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip owner_note_path. Targetas \"Strijkovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171342
-    - c-024
+    - c-173516
+
 <a id="claim-t-188453"></a>
-- t-030
-  global_id: t-188453
+- t-042
   teiginys: "Narbutas rašo, kad Strijkovskio vartotas vardas Pilwitos reiškia turto deivę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -613,8 +545,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171343
 
 <a id="claim-t-188454"></a>
-- t-031
-  global_id: t-188454
+- t-043
   teiginys: "Narbutas rašo, kad Strijkovskis patvirtino pasakojimą, jog žmonės Birutę dar gyvą ėmė garbinti kaip deivę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -636,7 +567,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 
 <a id="claim-t-188455"></a>
 - t-044
-  global_id: t-188455
   teiginys: "Pasak Strijkovskio, senovėje kelių dievaičiui aukodavo baltas vištas ir prašydavo laimingos kelionės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -647,10 +577,9 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171345
-    - c-027
+
 <a id="claim-t-190633"></a>
 - t-045
-  global_id: t-190633
   teiginys: "Narbutas rašo, kad Strijkovskis paukščių dievaitį vadino Swieczpunscynis, bet šį vardą laikė rašybos ar spaudos riktu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -668,10 +597,9 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173516
-    - c-028
+
 <a id="claim-t-190634"></a>
-- t-034
-  global_id: t-190634
+- t-046
   teiginys: "Narbutas rašo, kad Strijkovskis ir kiti autoriai Markopolius trumpai mini kaip požemio dievaičius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -692,49 +620,33 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 
 <a id="claim-t-190635"></a>
 - t-047
-  global_id: t-190635
   teiginys: "Narbutas rašo, kad Strijkovskis pursčius vadino pigmėjais, siedamas juos su panašiais romėnų mitologijos dievaičiais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173518
-    - c-030
+    - c-173516
+
 <a id="claim-t-190637"></a>
-- t-036
-  global_id: t-190637
+- t-049
   teiginys: "Narbutas rašo, kad Strijkovskis Vilniuje prie Perkūno šventyklos mini atskiroje koplyčioje laikytus šliužus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173520
+    - c-171338
+    - c-171341
 
 <a id="claim-t-190638"></a>
-- t-025
-  global_id: t-190638
+- t-050
   teiginys: "Narbutas vertina Strijkovskį kaip nekritiškai naudojusį jam žinomų kronikų ištraukas ir vietos padavimus apie Palemoną."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -754,8 +666,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-173521
 
 <a id="claim-t-190639"></a>
-- t-038
-  global_id: t-190639
+- t-051
   teiginys: "Narbutas rašo, kad Strijkovskis senojoje Lietuvos istorijoje tarp lietuvių didikų mini Montvilos sūnų Nemuną."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -775,92 +686,61 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-173522
 
 <a id="claim-t-190640"></a>
-- t-027
-  global_id: t-190640
-  teiginys: "Narbutas rašo, kad Strijkovskis alyvą laikė svarbiausiu iš šventųjų medžių, siejamų su Pušaičiu ir barstukais."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Barstukai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Barstukai: mention_match, group, gap=80"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip owner_note_path. Targetas \"Barstukai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173523
-    - c-035
-<a id="claim-t-190641"></a>
 - t-052
-  global_id: t-190641
-  teiginys: "Narbutas rašo, kad Strijkovskis mini Vilniaus Perkūno šventykloje buvusį didžiulį juodą akmenį, iš kurio buvo įskeliama ugnis."
-  atnaujinta: "2026-07-12 22:33"
+  teiginys: "Narbutas rašo, kad Strijkovskis alyvą laikė svarbiausiu iš šventųjų medžių, siejamų su Pušaičiu ir barstukais."
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Strijkovskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Strijkovskis: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip owner_note_path. Targetas \"Strijkovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173524
-    - c-036
-<a id="claim-t-190642"></a>
+    - c-171335
+
+<a id="claim-t-190641"></a>
 - t-053
-  global_id: t-190642
-  teiginys: "Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį, milžino išvaizdos Kukovaičio stabą."
-  atnaujinta: "2026-07-12 22:33"
+  teiginys: "Narbutas rašo, kad Strijkovskis mini Vilniaus Perkūno šventykloje buvusį didžiulį juodą akmenį, iš kurio buvo įskeliama ugnis."
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Deltuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Deltuva: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip owner_note_path. Targetas \"Deltuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173525
-    - c-037
-<a id="claim-t-190643"></a>
+    - c-171333
+
+<a id="claim-t-190642"></a>
 - t-054
-  global_id: t-190643
-  teiginys: "Narbutas rašo, kad pagal Strijkovskio suskaičiuotus šešis šventyklos kampus šventąjį ąžuolą supo šešiakampis mūrinis aptvaras."
-  atnaujinta: "2026-07-12 22:33"
+  teiginys: "Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį, milžino išvaizdos Kukovaičio stabą."
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Strijkovskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Strijkovskis: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip owner_note_path. Targetas \"Strijkovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173526
-    - c-038
-<a id="claim-t-190644"></a>
+    - c-179131
+
+<a id="claim-t-190643"></a>
 - t-055
-  global_id: t-190644
+  teiginys: "Narbutas rašo, kad pagal Strijkovskio suskaičiuotus šešis šventyklos kampus šventąjį ąžuolą supo šešiakampis mūrinis aptvaras."
+  atnaujinta: "2026-07-19 16:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171338
+    - c-171341
+    - c-173523
+
+<a id="claim-t-190644"></a>
+- t-056
   teiginys: "Narbutas rašo, kad Strijkovskio teigimu kai kurios lietuvių giminės turėjo tikrus herbus: Hipokentaurą, Stulpus, Rožę ir Vytį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -878,10 +758,9 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173527
-    - c-039
+
 <a id="claim-t-190645"></a>
-- t-056
-  global_id: t-190645
+- t-057
   teiginys: "Narbutas rašo, kad Strijkovskis apie aukštas lietuvių pareigas pateikė daugiau žinių nei Prūsijos ir Livonijos kronikininkai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -899,10 +778,9 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173528
-    - c-040
+
 <a id="claim-t-190763"></a>
-- t-057
-  global_id: t-190763
+- t-058
   teiginys: "Teodoro Narbuto vertinimu, iš spausdintų šaltinių verčiausias buvo Motiejus Strijkovskis, po jo – prūsų ir Livonijos kronikininkai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -922,8 +800,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-173645
 
 <a id="claim-t-190764"></a>
-- t-046
-  global_id: t-190764
+- t-059
   teiginys: "Teodoro Narbuto vertinimu, Motiejus Strijkovskis nesuskubo įgyvendinti visų savo istorinio veikalo ketinimų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -942,53 +819,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   pagrindžia:
     - c-173646
 
-<a id="claim-t-190765"></a>
-- t-029
-  global_id: t-190765
-  teiginys: "Teodoro Narbuto teigimu, Motiejus Strijkovskis dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo, Insterburgo, Kuršo ir Livonijos."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Kuršas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kuršas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata teigia, kad išsklaidytų jotvingių likučiai buvo apgyvendinti Kurše ir Livonijoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Jotvingiai gyveno Kuršas (0.72); Jotvingiai gyveno Livonija (0.72)"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-173647
-    - c-043
-<a id="claim-t-190767"></a>
-- t-060
-  global_id: t-190767
-  teiginys: "Teodoro Narbuto spėjimu, Strijkovskio prie Raigardo ir Insterburgo pastebėti žmonės galėjo būti išvestų jotvingių palikuonys."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Insterburgas: 0.69"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Insterburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo jotvingių palikuonis prie Insterburgo, todėl galima pažymėti ryšį su šia vieta."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Jotvingiai gyveno Raigardas (0.69); Jotvingiai gyveno Insterburgas (0.69)"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-173649
-    - c-045
 <a id="claim-t-193586"></a>
-- t-049
-  global_id: t-193586
+- t-063
   teiginys: "Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajorijos knyga."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -1000,8 +832,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-176261
 
 <a id="claim-t-197321"></a>
-- t-062
-  global_id: t-197321
+- t-065
   teiginys: "M. Strijkovskis mokėjo prūsų ir žemaičių kalbą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -1013,8 +844,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171334
 
 <a id="claim-t-197324"></a>
-- t-051
-  global_id: t-197324
+- t-066
   teiginys: "Lietuvos ir Prūsijos archeologų surinkti duomenys patiks lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Praurimės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi lučių."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -1026,8 +856,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-179131
 
 <a id="claim-t-197325"></a>
-- t-032
-  global_id: t-197325
+- t-067
   teiginys: "Motiejus Strijkovskis tuoj pat nežinia kur dingo."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -1087,8 +916,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188447
 - c-022
   santrauka: 'Narbutas rašo, kad Strijkovskis Ilgių šventę laikė visai neseniai pradėta žemaičių švente.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1109,8 +936,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188449
 - c-024
   santrauka: 'Narbutas nurodo, kad Strijkovskis karo dievą vadino Chaurirari, bet šį vardą laikė galimu kronikos riktu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1129,8 +954,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188452
 - c-027
   santrauka: 'Pasak Strijkovskio, senovėje kelių dievaičiui aukodavo baltas vištas ir prašydavo laimingos kelionės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1145,8 +968,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188455
 - c-028
   santrauka: 'Narbutas rašo, kad Strijkovskis paukščių dievaitį vadino Swieczpunscynis, bet šį vardą laikė rašybos ar spaudos riktu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1161,8 +982,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190633
 - c-030
   santrauka: 'Narbutas rašo, kad Strijkovskis pursčius vadino pigmėjais, siedamas juos su panašiais romėnų mitologijos dievaičiais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1176,8 +995,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190635
 - c-035
   santrauka: 'Narbutas rašo, kad Strijkovskis alyvą laikė svarbiausiu iš šventųjų medžių, siejamų su Pušaičiu ir barstukais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1190,8 +1007,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190640
 - c-036
   santrauka: 'Narbutas rašo, kad Strijkovskis mini Vilniaus Perkūno šventykloje buvusį didžiulį juodą akmenį, iš kurio buvo įskeliama ugnis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1209,8 +1024,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190641
 - c-037
   santrauka: 'Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį, milžino išvaizdos Kukovaičio stabą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1224,8 +1037,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190642
 - c-038
   santrauka: 'Narbutas rašo, kad pagal Strijkovskio suskaičiuotus šešis šventyklos kampus šventąjį ąžuolą supo šešiakampis mūrinis aptvaras.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1240,8 +1051,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190643
 - c-039
   santrauka: 'Narbutas rašo, kad Strijkovskio teigimu kai kurios lietuvių giminės turėjo tikrus herbus: Hipokentaurą, Stulpus, Rožę ir Vytį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1263,8 +1072,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190644
 - c-040
   santrauka: 'Narbutas rašo, kad Strijkovskis apie aukštas lietuvių pareigas pateikė daugiau žinių nei Prūsijos ir Livonijos kronikininkai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1288,8 +1095,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190645
 - c-043
   santrauka: 'Teodoro Narbuto teigimu, Motiejus Strijkovskis dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo, Insterburgo, Kuršo ir Livonijos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1311,8 +1116,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190765
 - c-045
   santrauka: 'Teodoro Narbuto spėjimu, Strijkovskio prie Raigardo ir Insterburgo pastebėti žmonės galėjo būti išvestų jotvingių palikuonys.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1332,8 +1135,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190767
+
 ## Citatos
 
 - id: c-42443
@@ -1351,11 +1153,10 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     jimai. Vienalaikių šaltinių duomenų nėra.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-172902
 - id: c-42444
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1374,7 +1175,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172902
+    - t-003
+
 - id: c-42445
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1392,23 +1194,15 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     telkęs savo lietuvių pajėgas, žygiuoda-
     mas Padniepre pro Kanevą, Čerkasus, ties
     Mėlynaisiais Vandenimis sumušęs totorius.
-  citata_rodoma: |
-    4-5 de-
-    šimtmečiai) įrašytas „Pasakojimas apie
-    Podolę“ - plačiausiai kalbantis šaltinis
-    šia tema. Istorinė tradicija (jai atstovauja
-    M. Strijkovskis) teigia, kad Algirdas, su-
-    telkęs savo lietuvių pajėgas, žygiuoda-
-    mas Padniepre pro Kanevą, Čerkasus, ties
-    Mėlynaisiais Vandenimis sumušęs totorius.
+  citata_rodoma: "4-5 de-\nšimtmečiai) įrašytas „Pasakojimas apie\nPodolę“ - plačiausiai kalbantis šaltinis\nšia tema. Istorinė tradicija (jai atstovauja\nM. Strijkovskis) teigia, kad Algirdas, su-\ntelkęs savo lietuvių pajėgas, žygiuoda-\nmas Padniepre pro Kanevą, Čerkasus, ties\nMėlynaisiais Vandenimis sumušęs totorius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172883
-    - t-172886
+    - t-018
+
 - id: c-42446
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1428,7 +1222,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172886
+    - t-004
+
 - id: c-157240
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1450,30 +1245,16 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     žinomas kunigaikščio Herfordo var­
     du, Jono de Gando, Lankasterio ku­
     nigaikščio, Ričardo dėdės, sūnus.
-  citata_rodoma: |
-    Prie Kauno su jais susijungė, be Žemai-
-    23
-    Strijkovskis apsirinka nurody­
-    damas, esą Lankasteris, Anglijos ka­
-    raliaus Henriko sūnus, su didžiulė­
-    mis anglų, škotų bei prancūzų ir 1.1,
-    pajėgomis įsibrovė į Lietuvą. Nebu­
-    vo apie 1390 metus jokio Henriko
-    Anglijos soste, o viešpatavo anuo
-    tarpu Ričardas II, ir prie Vilniaus bu­
-    vojo ne kas kitas, tik Henrikas Lan­
-    kasteris, pirm Derbio grafas, vėliau
-    žinomas kunigaikščio Herfordo var­
-    du, Jono de Gando, Lankasterio ku­
-    nigaikščio, Ričardo dėdės, sūnus.
+  citata_rodoma: "Prie Kauno su jais susijungė, be Žemai-\n23\nStrijkovskis apsirinka nurody­\ndamas, esą Lankasteris, Anglijos ka­\nraliaus Henriko sūnus, su didžiulė­\nmis anglų, škotų bei prancūzų ir 1.1, \npajėgomis įsibrovė į Lietuvą. Nebu­\nvo apie 1390 metus jokio Henriko \nAnglijos soste, o viešpatavo anuo \ntarpu Ričardas II, ir prie Vilniaus bu­\nvojo ne kas kitas, tik Henrikas Lan­\nkasteris, pirm Derbio grafas, vėliau \nžinomas kunigaikščio Herfordo var­\ndu, Jono de Gando, Lankasterio ku­\nnigaikščio, Ričardo dėdės, sūnus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172887
-    - t-172903
+    - t-012
+    - t-023
+
 - id: c-157241
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1510,7 +1291,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172907
+    - t-028
+
 - id: c-157242
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1531,25 +1313,16 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     griuvusių skliautų žymės dunkso/'
     14
     Ne tik Šv.
-  citata_rodoma: |
-    13
-    Šv. Martyno bažnyčia jau XVI am­
-    žiuje buvo apleista ir sugriauta: mi­
-    ni apie tai ir pats Strijkovskįs savo
-    kronikoje, p. 479: „Dabar, kaip ma­
-    tome, sunyko ir sugriuvo, tiktai prie
-    Plikojo kalno puikaus pastato ir su­
-    griuvusių skliautų žymės dunkso/'
-    14
-    Ne tik Šv.
+  citata_rodoma: "13\nŠv. Martyno bažnyčia jau XVI am­\nžiuje buvo apleista ir sugriauta: mi­\nni apie tai ir pats Strijkovskįs savo \nkronikoje, p. 479: „Dabar, kaip ma­\ntome, sunyko ir sugriuvo, tiktai prie \nPlikojo kalno puikaus pastato ir su­\ngriuvusių skliautų žymės dunkso/'\n14\nNe tik Šv."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172895
-    - t-172900
+    - t-032
+    - t-009
+
 - id: c-157243
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1567,7 +1340,10 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172884
+    - t-014
+    - t-017
+    - t-016
+
 - id: c-157244
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1578,15 +1354,13 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     71—79.
     Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
     происхождения балтов.
-  citata_rodoma: |
-    Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.
+  citata_rodoma: "Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-172909
 - id: c-157245
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1603,22 +1377,16 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
     Kai dėl rūšies ginklo, nuo kurio žuvo
     Gediminas: Dlugošas Lib.
-  citata_rodoma: |
-    Nors Strijkovskis yra pasakęs, kad Gedimino pa­
-    laikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi,
-    žinodami apie Veliuonoje iki šiol esančią kapavietę Gedi­
-    mino kalne, manytume greičiau jį esant čia palaidotą. Rau­
-    donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
-    Kai dėl rūšies ginklo, nuo kurio žuvo
-    Gediminas: Dlugošas Lib.
+  citata_rodoma: "Nors Strijkovskis yra pasakęs, kad Gedimino pa­\nlaikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi,\nžinodami apie Veliuonoje iki šiol esančią kapavietę Gedi­\nmino kalne, manytume greičiau jį esant čia palaidotą. Rau­\ndonė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot\nKai dėl rūšies ginklo, nuo kurio žuvo\nGediminas: Dlugošas Lib."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172893
-    - t-172905
+    - t-019
+    - t-006
+
 - id: c-157248
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1653,34 +1421,16 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     mo, ir tik 1391 m. kovo 12 d. išrink­
     tas didž. magistru; mirė 1393 m.
     liepos 25 d.
-  citata_rodoma: |
-    22
-    Miechovita, Strijkovskis
-    ir K o j e 1 a v i č i u s klysta sakyda­
-    mi, esą žygio vadovavimas buvo pa­
-    vestas Konradui Valenrodui, kurį
-    jau tuo metu vadina didžiuoju ma­
-    gistru, kai Konradas Valenrodas
-    1382 metais, sekmadienį prieš Šv.
-    Mykolą paskirtas Ordino didžiuoju
-    maršalu, 1387 metais per Apreiški­
-    mo Marijai šventę tapo didžiuoju
-    komtūru arba arkikomtūru, 1390
-    rugpjūčio 15 d., po didžiojo magistro
-    Konrado Ciolnerio fon Rotenšteino
-    mirties, - ir didžiojo magistro vieti­
-    ninku, iki pat kapitulos suvažiavi­
-    mo, ir tik 1391 m. kovo 12 d. išrink­
-    tas didž. magistru; mirė 1393 m.
-    liepos 25 d.
+  citata_rodoma: "22\nMiechovita, Strijkovskis \nir K o j e 1 a v i č i u s klysta sakyda­\nmi, esą žygio vadovavimas buvo pa­\nvestas Konradui Valenrodui, kurį \njau tuo metu vadina didžiuoju ma­\ngistru, kai Konradas Valenrodas \n1382 metais, sekmadienį prieš Šv. \nMykolą paskirtas Ordino didžiuoju \nmaršalu, 1387 metais per Apreiški­\nmo Marijai šventę tapo didžiuoju \nkomtūru arba arkikomtūru, 1390 \nrugpjūčio 15 d., po didžiojo magistro \nKonrado Ciolnerio fon Rotenšteino \nmirties, - ir didžiojo magistro vieti­\nninku, iki pat kapitulos suvažiavi­\nmo, ir tik 1391 m. kovo 12 d. išrink­\ntas didž. magistru; mirė 1393 m. \nliepos 25 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172899
-    - t-172908
+    - t-022
+    - t-011
+
 - id: c-157250
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1701,29 +1451,17 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     nio vakarais dvasininkai visada
     statydavo ir degindavo vaško žva­
     kes/' Strijkovskis, Sk.
-  citata_rodoma: |
-    tovė Laukai-kišas-upys, vėliau išvir­
-    to į Lukiškes. Strijkovskis klysta tvir­
-    tindamas, esą miškas lietuviškai va­
-    dinamas laukas ir nuo to žodžio
-    paėjęs Lukiškių pavadinimas.
-    6
-    „Buvo dar didžiulė menė, arba
-    šventovė, Antakalnyje, visų dievų,
-    kuriuos Lietuva, apgauta šėtoniš­
-    kų kerų, garbino; ten ketvirtadie­
-    nio vakarais dvasininkai visada
-    statydavo ir degindavo vaško žva­
-    kes/' Strijkovskis, Sk.
+  citata_rodoma: "tovė Laukai-kišas-upys, vėliau išvir­\nto į Lukiškes. Strijkovskis klysta tvir­\ntindamas, esą miškas lietuviškai va­\ndinamas laukas ir nuo to žodžio\npaėjęs Lukiškių pavadinimas.\n6\n„Buvo dar didžiulė menė, arba\nšventovė, Antakalnyje, visų dievų,\nkuriuos Lietuva, apgauta šėtoniš­\nkų kerų, garbino; ten ketvirtadie­\nnio vakarais dvasininkai visada\nstatydavo ir degindavo vaško žva­\nkes/' Strijkovskis, Sk."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172882
-    - t-172898
-    - t-172912
+    - t-008
+    - t-033
+    - t-007
+
 - id: c-157259
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1733,16 +1471,13 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     71—79.
     Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
     происхождения балтов.
-  citata_rodoma: |
-    Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,
-    1846.
+  citata_rodoma: "Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,\n1846."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-172904
 - id: c-157267
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1780,7 +1515,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172891
+    - t-013
+
 - id: c-157268
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1800,24 +1536,15 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     iš Lietuvos valdovo Algirdo ir jo brolio
     Karijoto trijų sūnų - Karijotaičių vado-
     vaujamų karių.
-  citata_rodoma: |
-    Istorinė tradicija (jai atstovauja
-    M. Strijkovskis) teigia, kad Algirdas, su-
-    telkęs savo lietuvių pajėgas, žygiuoda-
-    mas Padniepre pro Kanevą, Čerkasus, ties
-    Mėlynaisiais Vandenimis sumušęs totorius.
-
-    Lietuvos kariuomenė buvo sudaryta
-    iš Lietuvos valdovo Algirdo ir jo brolio
-    Karijoto trijų sūnų - Karijotaičių vado-
-    vaujamų karių.
+  citata_rodoma: "Istorinė tradicija (jai atstovauja\nM. Strijkovskis) teigia, kad Algirdas, su-\ntelkęs savo lietuvių pajėgas, žygiuoda-\nmas Padniepre pro Kanevą, Čerkasus, ties\nMėlynaisiais Vandenimis sumušęs totorius.\n\nLietuvos kariuomenė buvo sudaryta\niš Lietuvos valdovo Algirdo ir jo brolio\nKarijoto trijų sūnų - Karijotaičių vado-\nvaujamų karių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172892
+    - t-005
+
 - id: c-171333
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1835,7 +1562,9 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188443
+    - t-001
+    - t-053
+
 - id: c-171334
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1856,8 +1585,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188444
-    - t-197321
+    - t-065
+
 - id: c-171335
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1876,7 +1605,9 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188445
+    - t-035
+    - t-052
+
 - id: c-171336
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1894,7 +1625,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188446
+    - t-036
+
 - id: c-171337
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1912,28 +1644,15 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     laikais per tas iškilmes vykdavo apeigos tos deivės garbei;
     per jas būdavo atgaivinamos mintys apie pomirtinį gyveni­
     mą ir sunkią kelione į amžinybę.
-  citata_rodoma: |
-    Šitie pastebėjimai rodo, kad ši šventė su šiek tiek skirtin­
-    gomis apeigomis ir aukomis buvo švenčiama ne tik visoje Lie­
-    tuvoje, bet ir Lietuvos Rusioje.
-    334
-
-    ## Puslapis 334
-
-    Didžioji šventė
-    Rugsėjo mėnesį, visai pabaigus laukų darbus, dievo Žemi­
-    ninko garbei buvo švenčiama ši šventė, kurią Strijkovskis va­
-    dina žymiausia. Jos metu būdavo aukojama daugybė naminių
-    gyvulių, patinų ir patelių, todėl reikia spėti, kad aukas gauda­
-    vo visi dievai ir deivės, o tai reiškia, kad aukų ir vaišių turtin­
-    gumu viršydavo visas kitas metines šventes.
+  citata_rodoma: "Šitie pastebėjimai rodo, kad ši šventė su šiek tiek skirtin­\ngomis apeigomis ir aukomis buvo švenčiama ne tik visoje Lie­\ntuvoje, bet ir Lietuvos Rusioje.\n334\n\n## Puslapis 334\n\nDidžioji šventė\nRugsėjo mėnesį, visai pabaigus laukų darbus, dievo Žemi­\nninko garbei buvo švenčiama ši šventė, kurią Strijkovskis va­\ndina žymiausia. Jos metu būdavo aukojama daugybė naminių\ngyvulių, patinų ir patelių, todėl reikia spėti, kad aukas gauda­\nvo visi dievai ir deivės, o tai reiškia, kad aukų ir vaišių turtin­\ngumu viršydavo visas kitas metines šventes."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188447
+    - t-037
+
 - id: c-171338
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1954,7 +1673,10 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188448
+    - t-038
+    - t-049
+    - t-055
+
 - id: c-171339
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1971,25 +1693,15 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     vo iš kaimo į kaimą, padėtą ant rogių, pakinkytų keršais jau­
     čiais, paskui jas grūsdavosi būriai girtų moterų, vadinamų ra-
     gutienėmis, popų puotininkų ir daugybė įvairiausių kaukių.
-  citata_rodoma: |
-    13
-    13 Džami -  persiškai -  paveikslėliai.
-    337
-
-    ## Puslapis 337
-
-    Strijkovskis apibūdina šios šventės pradžią -  kad ji pradė­
-    ta švęsti visai neseniai; tai gali būti tikras dalykas, nes Prūsijos
-    ir Livonijos kronikose apie ją neradome jokios užuominos.
-    Mūsų istorikas pasakoja, kad žemaičiai pradėję švęsti Ilges dėl
-    tokios priežasties.
+  citata_rodoma: "13\n13 Džami -  persiškai -  paveikslėliai.\n337\n\n## Puslapis 337\n\nStrijkovskis apibūdina šios šventės pradžią -  kad ji pradė­\nta švęsti visai neseniai; tai gali būti tikras dalykas, nes Prūsijos\nir Livonijos kronikose apie ją neradome jokios užuominos.\nMūsų istorikas pasakoja, kad žemaičiai pradėję švęsti Ilges dėl\ntokios priežasties."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188449
+    - t-039
+
 - id: c-171341
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2010,7 +1722,10 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188451
+    - t-040
+    - t-049
+    - t-055
+
 - id: c-171342
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2028,23 +1743,13 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     žiniško ąžuolo kelmu rado daugybę įvairių ginklų nuolaužų:
     lai buvo rūdžių suėsti kalavijai, kardai, berdyšiai, skydai, ant­
     veidžiai, kai kurie variniai ir sidabriniai daiktai.
-  citata_rodoma: |
-    Kovas (Kawas)
-    Karo dievas. Lietuviai kovu (Kawas) vadina mėnesį, kurį
-    ir romėnai buvo paskyrę dievui Marsui. Norint apibūdinti ka­
-    riškos laikysenos ir išvaizdos žmogų, lietuviškai sakoma: Ka-
-    winga Kartu -  kariškas veidas. Žodis Kawa reiškia mūšįs arba
-    karišką kovą. Strijkovskis tą dievą vadina Chaurirari; kai ku­
-    riose tarmėse Chaulas, tiksliau Kaulas, reiškia kaulą, todėl kro­
-    nikoje gali būti klaida -  turėjo būti Chauiyrari arba Chaufya-
-    res.
+  citata_rodoma: "Kovas (Kawas)\nKaro dievas. Lietuviai kovu (Kawas) vadina mėnesį, kurį\nir romėnai buvo paskyrę dievui Marsui. Norint apibūdinti ka­\nriškos laikysenos ir išvaizdos žmogų, lietuviškai sakoma: Ka-\nwinga Kartu -  kariškas veidas. Žodis Kawa reiškia mūšįs arba\nkarišką kovą. Strijkovskis tą dievą vadina Chaurirari; kai ku­\nriose tarmėse Chaulas, tiksliau Kaulas, reiškia kaulą, todėl kro­\nnikoje gali būti klaida -  turėjo būti Chauiyrari arba Chaufya-\nres."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188452
 - id: c-171343
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2059,7 +1764,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188453
+    - t-042
+
 - id: c-171344
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2079,7 +1785,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188454
+    - t-043
+
 - id: c-171345
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2097,19 +1804,15 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     je, vienuolis, nėščia moteris, lapė, nėščia kalė arba vilkė pra­
     našauja bloga: priešingai, sutiktas kiškis, vilkas, vaikas, burti­
     ninkas, čigonas žada laimingą kelionę.
-  citata_rodoma: |
-    Pasak Strijkovskio, senovės laikais kelių dievaičiui auko­
-    davo baltas vištas. Aukoj antys ir besimeldžiantys būdavo tary­
-    tum pasirengę į kelią: laikydavo rankoje lazdas, susijuosdavo,
-    apsiaudavo ir apsirengdavo kaip į kelionę. Prašydavo dievai­
-    čio laimingos kelionės ir sugrįžti į namus.
+  citata_rodoma: "Pasak Strijkovskio, senovės laikais kelių dievaičiui auko­\ndavo baltas vištas. Aukoj antys ir besimeldžiantys būdavo tary­\ntum pasirengę į kelią: laikydavo rankoje lazdas, susijuosdavo,\napsiaudavo ir apsirengdavo kaip į kelionę. Prašydavo dievai­\nčio laimingos kelionės ir sugrįžti į namus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188455
+    - t-044
+
 - id: c-173516
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2124,19 +1827,17 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     Hennilus. Strijkovskis jį lygina su Antikos satyrais ir faunais,
     nes sako: „Jam atnašaudavo arklių, jaučių, ožių ir kitų gyvulių
     pautus, kai juos išromydavo.
-  citata_rodoma: |
-    Paukštinis (Swieczpa uksztynis)
-    Dievaitis -  visų rūšių paukščių, naminių ir laukinių, valdo­
-    vas. Nuolat aukų jam neaukota, nes jį patį laikė skraidančiu
-    dievaičiu. Strijkovskis jį vadina Swieczpunscynis; tai tikriausiai
-    yra rašybos ar spaudos riktas.
+  citata_rodoma: "Paukštinis (Swieczpa uksztynis)\nDievaitis -  visų rūšių paukščių, naminių ir laukinių, valdo­\nvas. Nuolat aukų jam neaukota, nes jį patį laikė skraidančiu\ndievaičiu. Strijkovskis jį vadina Swieczpunscynis; tai tikriausiai\nyra rašybos ar spaudos riktas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190633
+    - t-041
+    - t-045
+    - t-047
+
 - id: c-173517
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2154,7 +1855,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190634
+    - t-046
+
 - id: c-173518
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2169,18 +1871,13 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     jų religinė raštija tikina, kad tos būtybės esančios blogesnės
     už šėtonus, be galo kenksmingos, atsiunčiančios žmonėms 70
     18 Šiame žodyne vietoj B klaidingai parašyta P.
-  citata_rodoma: |
-    Kitose vietose
-    vadinosi pursčiai (Puršcie). Netoli Lydos yra taip vadinamas
-    palivarkas. Romėnų mitologijoje panašūs dievaičiai buvo va­
-    dinami Purs; Strijkovskis juos vadina taip pat pigmėjais17.
+  citata_rodoma: "Kitose vietose\nvadinosi pursčiai (Puršcie). Netoli Lydos yra taip vadinamas\npalivarkas. Romėnų mitologijoje panašūs dievaičiai buvo va­\ndinami Purs; Strijkovskis juos vadina taip pat pigmėjais17."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190635
 - id: c-173520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2199,8 +1896,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190637
-    - t-197325
+    - t-067
+
 - id: c-173521
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2221,7 +1918,9 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190638
+    - t-034
+    - t-050
+
 - id: c-173522
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2241,7 +1940,9 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190639
+    - t-034
+    - t-051
+
 - id: c-173523
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2254,17 +1955,15 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     Ąžuolas su amalu iki šiol yra ne tik retenybė, bet ir pri­
     klauso senovės prietarams. F. Noelis straipsnyje „Gutheil“ sa­
     10 Sirvydo žodynas.
-  citata_rodoma: |
-    ALYVA, Sambe . Anot aiškaus Strijkovskio liudijimo, tas
-    medis pirmavo tarp kitų šventųjų. Mat po jo kelmu gyvenąs
-    dievaitis Pušaitis su savo barstukų kariuomene.
+  citata_rodoma: "ALYVA, Sambe . Anot aiškaus Strijkovskio liudijimo, tas\nmedis pirmavo tarp kitų šventųjų. Mat po jo kelmu gyvenąs\ndievaitis Pušaitis su savo barstukų kariuomene."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190640
+    - t-055
+
 - id: c-173524
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2275,22 +1974,13 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     rėlė yra indiškos kilmės: tokią išvadą padarė remdamiesi tik pa­
     našumu. 1831 metais tas senovės paminklas kartu su visu drau­
     gijos muziejumi buvo išvežtas į Sankt Peterburgą.
-  citata_rodoma: |
-    Skulptorių ir dailininkų stoką atstojo vaiz­
-    243
-
-    ## Puslapis 243
-
-    duotė. Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno
-    šventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­
-    čiau mūsų istorikas šito dalyko nuodugniau neišlukštena.
+  citata_rodoma: "Skulptorių ir dailininkų stoką atstojo vaiz­\n243\n\n## Puslapis 243\n\nduotė. Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno\nšventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­\nčiau mūsų istorikas šito dalyko nuodugniau neišlukštena."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190641
 - id: c-173525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2302,18 +1992,13 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
     nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
     šventykla.
-  citata_rodoma: |
-    Lietuviams buvo žinomas dievinamų asmenų stabų staty­
-    mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
-    čio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,
-    milžino išvaizdos.
+  citata_rodoma: "Lietuviams buvo žinomas dievinamų asmenų stabų staty­\nmas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-\nčio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,\nmilžino išvaizdos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190642
 - id: c-173526
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2325,19 +2010,13 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     Senprūsių kalbojeR/Uv, arbaRyks, reiškė valstybę, Rikaus-
     na - valdžią, Rikys - valdovą, Rykyans - viešpatavimą, Ryeki -
     karalystę, Rikint - valdyti.
-  citata_rodoma: |
-    Plačios lygumos, užliejamos dvie­
-    jų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,
-    neišmatuojamo storio ir aukščio ąžuolas. Medį supo šešiakam­
-    pis mūrinis aptvaras, kadangi Strijkovskis suskaičiuoja šešis
-    šventyklos kampus7. Arčiausia ąžuolo buvo užpakalinė siena.
+  citata_rodoma: "Plačios lygumos, užliejamos dvie­\njų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,\nneišmatuojamo storio ir aukščio ąžuolas. Medį supo šešiakam­\npis mūrinis aptvaras, kadangi Strijkovskis suskaičiuoja šešis\nšventyklos kampus7. Arčiausia ąžuolo buvo užpakalinė siena."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190643
 - id: c-173527
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2355,26 +2034,15 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
     XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
     dalo ir seno graviravimo signečių pėdsakas.
-  citata_rodoma: |
-    402
-
-    ## Puslapis 402
-
-    tuviai juos nešiodavosi kaip signetes; mirus tėvui, ta pačia Sig­
-    nete dažnai naudodavosi sūnus ir jo įpėdiniai, jeigu kuriam
-    nors neateidavo į galvą savo signetėje išraižyti ką nors kita.
-    Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
-    jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
-    Hipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­
-    nigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302
-    metais Gediminas davė Krunevičiui10.
+  citata_rodoma: "402\n\n## Puslapis 402\n\ntuviai juos nešiodavosi kaip signetes; mirus tėvui, ta pačia Sig­\nnete dažnai naudodavosi sūnus ir jo įpėdiniai, jeigu kuriam\nnors neateidavo į galvą savo signetėje išraižyti ką nors kita.\nVis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­\njo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi\nHipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­\nnigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302\nmetais Gediminas davė Krunevičiui10."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190644
+    - t-056
+
 - id: c-173528
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2394,28 +2062,15 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
     arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
     11 Sirvydo žodynas.
-  citata_rodoma: |
-    Jau ir šiaip žinome, ir anksčiau sakėme, kad
-    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
-    8
-    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
-    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
-    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
-    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
-    430
-
-    ## Puslapis 430
-
-    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
-    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
-    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
+  citata_rodoma: "Jau ir šiaip žinome, ir anksčiau sakėme, kad\nkažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8\n8\nBeje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie\ntai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­\nriuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­\nreigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.\n430\n\n## Puslapis 430\n\ntyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­\nnybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu\n, koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190645
+    - t-057
+
 - id: c-173645
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2438,7 +2093,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190763
+    - t-058
+
 - id: c-173646
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2457,7 +2113,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190764
+    - t-059
+
 - id: c-173647
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2473,26 +2130,13 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     manto I laikais gyvenęs istorikas, rašo girdėjęs jotvingių
     kalbą Polesėje, šalia Drohičino; jos nei jis, nei lietuvis,
     nei žemaitis negalėję suprasti.
-  citata_rodoma: |
-    115
-    Strijkovskis savo amžiuje dar girdėjo apie likučius
-    išsklaidytų jotvingių1, veikiausiai paimtų į nelaisvę ir
-    apgyvendintų prie Lietuvos Naugarduko, Raigardo, Ins-
-    1 Stryjkomski.
-    S. 181.
-    121
-
-    ## Puslapis 119
-
-    terburgo, Kurše, Livonijoje, net Didžiojo Naugardo kraš­
-    tuose, kur juos vadino igovėnais.
+  citata_rodoma: "115\nStrijkovskis savo amžiuje dar girdėjo apie likučius\nišsklaidytų jotvingių1, veikiausiai paimtų į nelaisvę ir\napgyvendintų prie Lietuvos Naugarduko, Raigardo, Ins-\n1 Stryjkomski.\nS. 181.\n121\n\n## Puslapis 119\n\nterburgo, Kurše, Livonijoje, net Didžiojo Naugardo kraš­\ntuose, kur juos vadino igovėnais."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190765
 - id: c-173649
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2510,24 +2154,13 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     vingių kalba ir lietuviai negalėdavo nė žodžio suprasti.
     Kromeriui2 buvo žinomi jotvingių likučiai (reliquiae),
     savo kalba visiškai besiskiriantys nuo slavų ir lietuvių.
-  citata_rodoma: |
-    Kruvina šio Ordino
-    politika numatė padaryti Sūduvą visiškai negyvenamą,
-    tad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į
-    kitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­
-    vingių, kurių palikuonis Strijkovskis pastebėdavo prie
-    Raigardo ir Insterburgo Prūsijoje. Tačiau negalime su­
-    tikti su mokslininku Heningu, kuris daro prielaidą, kad
-    visi sūduviai yra buvę jotvingiai, nes kitur esama negin­
-    čijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri
-    vadinosi sudinais ir buvo visiškai ne jotvingių kilmės.
+  citata_rodoma: "Kruvina šio Ordino\npolitika numatė padaryti Sūduvą visiškai negyvenamą,\ntad jos gyventojai ¡buvo arba iškapoti, arba išgabenti į\nkitas Prūsijos dalis. Galbūt jie ir buvo likučiai išvestų jot­\nvingių, kurių palikuonis Strijkovskis pastebėdavo prie\nRaigardo ir Insterburgo Prūsijoje. Tačiau negalime su­\ntikti su mokslininku Heningu, kuris daro prielaidą, kad\nvisi sūduviai yra buvę jotvingiai, nes kitur esama negin­\nčijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri\nvadinosi sudinais ir buvo visiškai ne jotvingių kilmės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190767
 - id: c-176261
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2550,7 +2183,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193586
+    - t-063
+
 - id: c-179131
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2572,4 +2206,5 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197324
+    - t-054
+    - t-066

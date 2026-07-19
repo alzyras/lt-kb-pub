@@ -39,7 +39,6 @@ Apie 1520 m. Boguslavas Bousevičius, Rodūnios vėliavininkas, buvo Bouseviči�
 
 <a id="claim-t-190136"></a>
 - t-001
-  global_id: t-190136
   teiginys: "Apie 1520 m. Boguslavas Bousevičius, Rodūnios vėliavininkas, buvo Bousevičių giminei priklausiusios žemės tėvonis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Apie 1520 m. Boguslavas Bousevičius, Rodūnios vėliavininkas, buvo Bouseviči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190136
+    - t-001

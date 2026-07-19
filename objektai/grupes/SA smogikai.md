@@ -37,7 +37,6 @@ Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas
 
 <a id="claim-t-26345"></a>
 - t-001
-  global_id: t-26345
   teiginys: "1939 m. kovo 23 d. Klaipėdoje Adolfą Hitlerį sveikino vietos vokiečių nacių simpatikai ir SA smogikai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,18 +75,11 @@ Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     183
     deleguotas ministras turėjo vykdyti jo užduotis.
-  citata_rodoma: |
-    Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos
-    Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. –
-    jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    183
-    deleguotas ministras turėjo vykdyti jo užduotis.
+  citata_rodoma: "Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos \nAdolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – \njį sveikina vietos vokiečių nacių simpatikai ir SA smogikai\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n183\ndeleguotas ministras turėjo vykdyti jo užduotis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26345
+    - t-001

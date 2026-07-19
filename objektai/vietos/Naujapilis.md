@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-33800"></a>
 - t-001
-  global_id: t-33800
   teiginys: "Per 1380-1381 m. susirėmimus kariuomenės dalis paėmė Naujapilį su 3000 žmonių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ media_all_json: |-
 
 <a id="claim-t-201088"></a>
 - t-002
-  global_id: t-201088
   teiginys: "Likusieji, regėda mi netversią, palikini iras ir plėnis savo namų rūs tiems kraugeriams išsidangino į Lietuvą ir Naujapilio apygardose apsigyveno."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -90,10 +88,12 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-33800
+    - t-001
+
 - id: c-184438
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     To­
     dėl tą patį rudenį su stipresne kariauna įėjęs antrą
@@ -111,4 +111,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201088
+    - t-002

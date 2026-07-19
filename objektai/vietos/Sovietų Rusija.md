@@ -40,8 +40,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 ## Teiginiai
 
 <a id="claim-t-77321"></a>
-- t-001
-  global_id: t-77321
+- t-005
   teiginys: "Rusija pretendavo į LDK palikimą ir Lietuvą laikė jo sudedamąja dalimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
     - c-24492
 
 <a id="claim-t-77322"></a>
-- t-002
-  global_id: t-77322
+- t-001
   teiginys: "1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
     - c-24492
 
 <a id="claim-t-77324"></a>
-- t-003
-  global_id: t-77324
+- t-002
   teiginys: "1920 m. liepos 12 d. Taikos sutartis su Sovietų Rusija buvo laikoma dideliu Lietuvos diplomatijos laimėjimu."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
     - c-24493
 
 <a id="claim-t-193784"></a>
-- t-004
-  global_id: t-193784
+- t-006
   teiginys: "Pralaimėjusi kovas dėl Zarasų ir patyrusi didelių nuostolių, Sovietų Rusija po kurio laiko pasiūlė taikos derybas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -113,8 +109,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
     - c-176435
 
 <a id="claim-t-193785"></a>
-- t-005
-  global_id: t-193785
+- t-007
   teiginys: "PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -162,20 +157,16 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
     1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai
     pradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-
     prindama jų pozicijas.
-  citata_rodoma: |
-    Tačiau pi-
-    lietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija
-    1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai
-    pradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-
-    prindama jų pozicijas.
+  citata_rodoma: "Tačiau pi-\nlietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija\n1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai\npradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-\nprindama jų pozicijas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77321
-    - t-77322
+    - t-005
+    - t-001
+
 - id: c-24493
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -188,18 +179,15 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
     pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplo-
     matijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su
     Lenkija.
-  citata_rodoma: |
-    Apskritai 1920 m. liepos 12 d.
-    pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplo-
-    matijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su
-    Lenkija.
+  citata_rodoma: "Apskritai 1920 m. liepos 12 d.\npasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplo-\nmatijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su\nLenkija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77324
+    - t-002
+
 - id: c-43877
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -216,7 +204,8 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193785
+    - t-007
+
 - id: c-176435
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -239,4 +228,4 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193784
+    - t-006

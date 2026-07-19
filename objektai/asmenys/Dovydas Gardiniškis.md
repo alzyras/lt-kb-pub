@@ -39,7 +39,6 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
 
 <a id="claim-t-30225"></a>
 - t-001
-  global_id: t-30225
   teiginys: "Pagal M. Stryjkovskio kroniką, Dovydo Gardiniškio žmona buvo Gediminaitė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,16 +69,14 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
     Pagal M. Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado
     Dovydo Gardiniškio žmona buvusi taip pat Gediminaite. Politiškai
     dar reikšmingesnės buvo sūnų vedybos.
-  citata_rodoma: |
-    Pagal M. Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado
-    Dovydo Gardiniškio žmona buvusi taip pat Gediminaite. Politiškai
-    dar reikšmingesnės buvo sūnų vedybos.
+  citata_rodoma: "Pagal M. Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado\nDovydo Gardiniškio žmona buvusi taip pat Gediminaite. Politiškai\ndar reikšmingesnės buvo sūnų vedybos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30225
+    - t-001
+
 ## Ryšiai
 - Dovydas Gardiniškis gynė [[objektai/vietos/Pskovas]]

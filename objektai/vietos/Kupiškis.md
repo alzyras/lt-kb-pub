@@ -30,7 +30,6 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 
 <a id="claim-t-41824"></a>
 - t-001
-  global_id: t-41824
   teiginys: "Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pasitraukė Subačiaus kryptimi ir įsitvirtino Kupiškyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 
 <a id="claim-t-41825"></a>
 - t-002
-  global_id: t-41825
   teiginys: "Galiausiai bolševikai gegužės 30-31 d. atsitraukė ir iš Kupiškio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,17 +81,15 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
     Galiausiai bolševikai gegužės 30-31 d. at-
     sitraukė ir iš Kupiškio. Šie laimėjimai su-
     teikė galimybę toliau vystyti puolimą.
-  citata_rodoma: |
-    Galiausiai bolševikai gegužės 30-31 d. at-
-    sitraukė ir iš Kupiškio. Šie laimėjimai su-
-    teikė galimybę toliau vystyti puolimą.
+  citata_rodoma: "Galiausiai bolševikai gegužės 30-31 d. at-\nsitraukė ir iš Kupiškio. Šie laimėjimai su-\nteikė galimybę toliau vystyti puolimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41825
+    - t-002
+
 - id: c-45163
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -110,19 +106,11 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
     traukė Subačiaus
     kryptimi ir įsi-
     tvirtino Kupiškyje.
-  citata_rodoma: |
-    Naktį iš
-    gegužės 22 d. į
-    23 d. bolševikai
-    paliko Panevėžio
-    apylinkes, pasi-
-    traukė Subačiaus
-    kryptimi ir įsi-
-    tvirtino Kupiškyje.
+  citata_rodoma: "Naktį iš\ngegužės 22 d. į\n23 d. bolševikai\npaliko Panevėžio\napylinkes, pasi-\ntraukė Subačiaus\nkryptimi ir įsi-\ntvirtino Kupiškyje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41824
+    - t-001

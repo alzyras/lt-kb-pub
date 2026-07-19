@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-62481"></a>
 - t-001
-  global_id: t-62481
   teiginys: "Sūduvių vadas Skomantas, neatsilaikydamas prieš nuolatinius brolių antpuolius, su šeimyna ir bičiuliais pasitraukė į Rusios žemę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63141
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sūduvių vadas Skomantas, neatsilaikydamas prieš nuolatinius brolių antpuolius, su šeimyna ir bičiuliais pasitraukė į Rusios žemę.'
@@ -81,8 +80,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62481
+
 ## Citatos
 
 - id: c-63141
@@ -100,19 +98,11 @@ Nenurodyta
     Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams
     skriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,
     (SRP, 1, p. 737); Volynės metraštis — Злиньци, Злина (ПСРЛ, 2, стб.
-  citata_rodoma: |
-    Apie Skomanto, sūduvių vado, atsivertimą
-
-      Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia  ir turtais, vis dėlto,
-    negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios
-    žemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas
-    tremties,  į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti  ir taip
-    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
-    tikėjimui ir broliams.
+  citata_rodoma: "Apie Skomanto, sūduvių vado, atsivertimą\n\n  Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia  ir turtais, vis dėlto,\nnegalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios\nžemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas\ntremties,  į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti  ir taip\ndažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė\ntikėjimui ir broliams."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62481
+    - t-001

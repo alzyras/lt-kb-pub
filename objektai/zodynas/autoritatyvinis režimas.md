@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-28570"></a>
 - t-001
-  global_id: t-28570
   teiginys: "1926 m. gruodžio 17 d. perversmas pradėjo Lietuvos autoritatyvinio režimo eksperimentą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28570
+    - t-001

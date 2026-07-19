@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-201357"></a>
 - t-001
-  global_id: t-201357
   teiginys: "Susirėmusios šalys pirma vylyčiomis vars tės, paskui baisesniai dar kardomis skardės, kausena buvo didžiai smarki ir maringa."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-201358"></a>
 - t-002
-  global_id: t-201358
   teiginys: "Nes, ant nelaimos lietuvių, Gediminui, sau kelią skinant per rindas neprietelių, pečius vylyčia pervėrė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184707
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip apdrąsinąs karėjus, Gediminas liepė ženg­
     ti toliaus, vienok saugodamos, idant neprieteliai
@@ -97,11 +96,12 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201357
+    - t-001
 
 - id: c-184708
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet įgulė, jutusi ateinant sau pa­
     galbon marčelgą Dusenerį, paliaubas sulaužė: kai­
@@ -120,4 +120,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201358
+    - t-002

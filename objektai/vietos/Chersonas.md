@@ -33,7 +33,6 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
 
 <a id="claim-t-192869"></a>
 - t-001
-  global_id: t-192869
   teiginys: "Narbutas Chersoną mini tarp graikų Juodosios jūros prekyviečių, kurios nuo VII a. pr. Kr. klestėjo ir vėliau tapo turtingos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
 
 <a id="claim-t-201053"></a>
 - t-002
-  global_id: t-201053
   teiginys: "Paskui pergalėjęs bulgarus pavolgy ir su jais būk pakajų suderėjęs, žadėdami bendring ai su vieni antrais gy venti, paskiaus dar užėmęs miestą Chersoną, kurio iros šiandien dar tebėra regimos Kryme."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -95,10 +93,12 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192869
+    - t-001
+
 - id: c-184403
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu radimičiai, apkyrėjus donį bemokėti
     Vladimirui, patrakę, kuriuos vienok jis sudraudęs
@@ -117,4 +117,4 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201053
+    - t-002

@@ -28,7 +28,6 @@ Bendruomenės prisiekusieji dažnai buvo kviečiami į tarybos posėdžius ir į
 
 <a id="claim-t-201873"></a>
 - t-001
-  global_id: t-201873
   teiginys: "Bendruomenės prisiekusieji dažnai buvo kviečiami į tarybos posėdžius ir į jų nuomonę buvo atsižvelgiama."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -58,4 +57,4 @@ Bendruomenės prisiekusieji dažnai buvo kviečiami į tarybos posėdžius ir į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201873
+    - t-001

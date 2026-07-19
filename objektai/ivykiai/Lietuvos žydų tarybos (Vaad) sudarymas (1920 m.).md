@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20390"></a>
 - t-001
-  global_id: t-20390
   teiginys: "1920 m. sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,12 +85,11 @@ Nenurodyta
     nėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų kon-
     ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
     spręsti visus socialinius ir kultūrinius žydų reikalus.
-  citata_rodoma: |
-    ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
+  citata_rodoma: "ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20390
+    - t-001

@@ -37,7 +37,6 @@ Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos atgaivin
 
 <a id="claim-t-77861"></a>
 - t-001
-  global_id: t-77861
   teiginys: "Gegužės trečiosios konstitucija vadinta „Šlovinga Lenkijos ir Lietuvos Konstitucija“ ir laikyta Lietuvos „būsimos didybės viltimi“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos atgaivin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77861
+    - t-001

@@ -36,7 +36,6 @@ Rygiškių Jono redaguotos „PASAKĖČIOS”.
 
 <a id="claim-t-96064"></a>
 - t-001
-  global_id: t-96064
   teiginys: "Rygiškių Jono redaguotos „Pasakėčios“ 1927 m. išleistos trečiu papildytu ir pataisytu leidimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Rygiškių Jono redaguotos „PASAKĖČIOS”.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96064
+    - t-001

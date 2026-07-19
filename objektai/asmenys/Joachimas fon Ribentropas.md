@@ -31,7 +31,6 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 
 <a id="claim-t-18965"></a>
 - t-001
-  global_id: t-18965
   teiginys: "Joachimas fon Ribentropas rugsėjo 28 d. su Viačeslavu Molotovu pasirašė Reicho ir SSRS sienų bei draugystės sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,12 +61,11 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
     SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
     spaudimą Lietuvai kaip ranka nuėmė.
-  citata_rodoma: |
-    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
+  citata_rodoma: "Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18965
+    - t-001

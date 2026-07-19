@@ -54,8 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66454"></a>
-- t-001
-  global_id: t-66454
+- t-002
   teiginys: "Prūsų vadai paskyrė dieną krikščionims Prūsijoje išžudyti, o nepaslėptus už įtvirtinimų nužudė arba išsivarė į vergovę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-66684
 
 <a id="claim-t-66455"></a>
-- t-002
-  global_id: t-66455
+- t-001
   teiginys: "1260 m. prūsai vėl atkrito nuo krikščionių tikėjimo, o sembai, notangai, varmiai, pagudėnai ir bartai išsirinko savo vadus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,6 @@ Nenurodyta
 
 <a id="claim-t-183912"></a>
 - t-003
-  global_id: t-183912
   teiginys: "Prūsų sukilėliai degino bažnyčias, koplyčias ir kitus maldos namus, niekino šventenybes ir žudė kunigus bei bažnyčios tarnus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -113,7 +110,6 @@ Nenurodyta
 
 <a id="claim-t-194377"></a>
 - t-004
-  global_id: t-194377
   teiginys: "Apie didelį krikščionių kraujo praliejimą Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -148,9 +144,10 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66454
-    - t-183912
-    - t-194377
+    - t-002
+    - t-003
+    - t-004
+
 - id: c-66685
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -178,4 +175,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66455
+    - t-001

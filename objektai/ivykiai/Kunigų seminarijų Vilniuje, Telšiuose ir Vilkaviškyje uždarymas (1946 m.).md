@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20241"></a>
 - t-001
-  global_id: t-20241
   teiginys: "1946 m. buvo uždarytos kunigų seminarijos Vilniuje, Telšiuose ir Vilkaviškyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-183232"></a>
 - t-002
-  global_id: t-183232
   teiginys: "Sovietų valdžia sekė kunigus, aprašinėjo pamokslus ir registravo, kas pas kunigus užeina."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -114,5 +112,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20241
-    - t-183232
+    - t-001
+    - t-002

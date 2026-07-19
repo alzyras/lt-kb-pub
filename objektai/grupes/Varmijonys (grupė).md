@@ -33,7 +33,6 @@ Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys,
 
 <a id="claim-t-201234"></a>
 - t-001
-  global_id: t-201234
   teiginys: "Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys, kaipogi paskydus žiniai, jog Bai ga, visų stiprioji pilis, kliuvo į nagą kryžėjų, visi gyventojai užsirūstino ir tuojau kas ginklą pake liąs ėmė rinktis nuo visų pusių į būrį."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,6 @@ Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys,
 
 <a id="claim-t-201235"></a>
 - t-002
-  global_id: t-201235
   teiginys: "Tuo pačiu laiku varmijonys nustojo taip pat sa vo karvedžio Glapo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +58,9 @@ Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys,
 ## Citatos
 
 - id: c-184584
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kryžėjai, įgiję Baigos pilį, ne vien apgalėjo vi­
     są apygardą, bet dar vylės netrukdami visą Var­
@@ -92,11 +91,12 @@ Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201234
+    - t-001
 
 - id: c-184585
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Daug
     kartų jo smurtą karda gandino meldžionis, ant di­
@@ -113,4 +113,4 @@ Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201235
+    - t-002

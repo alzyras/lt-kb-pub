@@ -32,7 +32,6 @@ Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červi
 
 <a id="claim-t-95922"></a>
 - t-001
-  global_id: t-95922
   teiginys: "Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červinską."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,14 +61,11 @@ Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červi
     Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­
     ską išvyko birželio mėn. 26 d. Birželio m. 30 d. jau buvo atvy­
     kusi vieton ir ruošėsi keltis per Vislą.
-  citata_rodoma: |
-    Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­
-    ską išvyko birželio mėn. 26 d. Birželio m. 30 d. jau buvo atvy­
-    kusi vieton ir ruošėsi keltis per Vislą.
+  citata_rodoma: "Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­\nską išvyko birželio mėn. 26 d. Birželio m. 30 d. jau buvo atvy­\nkusi vieton ir ruošėsi keltis per Vislą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95922
+    - t-001

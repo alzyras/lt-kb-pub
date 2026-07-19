@@ -32,28 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija, apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi — pietuose; viena sukosi kaip įprasta, kita—.
 
-## Teiginiai
-
-<a id="claim-t-58696"></a>
-- t-001
-  global_id: t-58696
-  teiginys: "1314 m. kovo 1 d. prie Karpantros, kur buvo Romos kurija, apie aštuntą valandą pasirodė trys saulės."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karpantra: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karpantra\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1314 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiksliai perteikia citatos faktą apie Karpantrą."
-  pagrindžia:
-    - c-59328
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1314 m. kovo 1 d. prie Karpantros, kur buvo Romos kurija, apie aštuntą valandą pasirodė trys saulės.'
@@ -71,8 +49,7 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58696
+
 ## Citatos
 
 - id: c-59328
@@ -90,18 +67,32 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
     pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo viešpaties vardu
     pakrikštyti, tačiau neilgai trukus jie atkrito nuo krikščionybės.
     10.
-  citata_rodoma: |
-    Apie tris saulės spindulius ir kolegijos suskilimą
-
-      1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,
-    apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi —
-    pietuose; viena sukosi kaip įprasta, kita— priešingai, nei gamtos patvarkyta; jos ilgai
-    stovėjo danguje, o kiekviena skleidė savo spindulius. Sitai ir buvo ženklas bei požymis,
-    rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija.
+  citata_rodoma: "Apie tris saulės spindulius ir kolegijos suskilimą\n\n  1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,\napie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi —\npietuose; viena sukosi kaip įprasta, kita— priešingai, nei gamtos patvarkyta; jos ilgai\nstovėjo danguje, o kiekviena skleidė savo spindulius. Sitai ir buvo ženklas bei požymis,\nrodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58696
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-58696"></a>
+- t-001
+  teiginys: "1314 m. kovo 1 d. prie Karpantros, kur buvo Romos kurija, apie aštuntą valandą pasirodė trys saulės."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karpantra: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karpantra\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1314 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiksliai perteikia citatos faktą apie Karpantrą."
+  pagrindžia:
+    - c-59328

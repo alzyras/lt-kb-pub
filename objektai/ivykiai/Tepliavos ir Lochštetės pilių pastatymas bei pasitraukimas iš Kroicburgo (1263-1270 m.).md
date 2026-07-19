@@ -55,9 +55,8 @@ Nenurodyta
 
 <a id="claim-t-62501"></a>
 - t-001
-  global_id: t-62501
   teiginys: "Petro Dusburgiečio kronikoje Tepliavos ir Lochštetės pilių pastatymas aprašytas prieš pasitraukimą iš Kroicburgo, nors šis datuojamas 1263 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Kroicburgas: 0.85"
@@ -73,7 +72,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra apie kronikos chronologinį išdėstymą, todėl reikalinga autoriaus atribucija."
   pagrindžia:
     - c-63173
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Petro Dusburgiečio kronikoje Tepliavos ir Lochštetės pilių pastatymas aprašytas prieš pasitraukimą iš Kroicburgo, nors šis datuojamas 1263 m.'
@@ -91,8 +90,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62501
+
 ## Citatos
 
 - id: c-63173
@@ -108,18 +106,11 @@ Nenurodyta
     Sabinos kardinolu (miręs 1251 m.), tebuvo kurijos atstovas, rėmęs Vokiečių ordiną, kai
     pastarasis sprendė ginčijamus klausimus su Rygos arkivyskupu ir tuometiniu popiežiaus
     legatu140.
-  citata_rodoma: |
-    Netikslumai, tendencija
-
-      Petro  iš Dusburgo kronikoje ne viskas išdėstyta chronologine tvarka, pvz.,  pilių
-    statyba. Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama
-    apie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji
-    pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
-    iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).
+  citata_rodoma: "Netikslumai, tendencija\n\n  Petro  iš Dusburgo kronikoje ne viskas išdėstyta chronologine tvarka, pvz.,  pilių\nstatyba. Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama\napie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji\npastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė\niš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62501
+    - t-001

@@ -31,7 +31,6 @@ Vorotinskių kunigaikščiai su didžiulėmis tėvonijomis perėjo į Maskvos pu
 
 <a id="claim-t-185462"></a>
 - t-001
-  global_id: t-185462
   teiginys: "Vorotinskių kunigaikščiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę ir pradėjo puldinėti karaliaus valdas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Vorotinskių kunigaikščiai su didžiulėmis tėvonijomis perėjo į Maskvos pu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185462
+    - t-001

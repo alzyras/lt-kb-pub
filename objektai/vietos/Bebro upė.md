@@ -37,7 +37,6 @@ Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseni
 
 <a id="claim-t-194925"></a>
 - t-001
-  global_id: t-194925
   teiginys: "Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseniai Mazovijos Ziemovito suda rytos taikos sutarties su kryžiuočiais atgrasinti jotvingiai pasitraukė prie Bebro upės ir Bugo žemupio, iš kur, pa dvigubinę savo jėgas, puldinėdavo kitapus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194925
+    - t-001

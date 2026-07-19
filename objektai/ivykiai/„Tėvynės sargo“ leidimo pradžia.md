@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-26406"></a>
 - t-001
-  global_id: t-26406
   teiginys: "Nuo 1896 m. leistas „Tėvynės sargas“ tapo populiariausiu katalikiškos pakraipos leidiniu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,17 +87,11 @@ Nenurodyta
     1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jau-
     nas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-
     jos ir geranoriškumo įsikūnijimas.
-  citata_rodoma: |
-    Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimui-
-    si rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos,
-    užėmė lojalias pozicijas caro valdžios atžvilgiu. Populiariausiu tapo nuo
-    1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jau-
-    nas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-
-    jos ir geranoriškumo įsikūnijimas.
+  citata_rodoma: "Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimui-\nsi rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos, \nužėmė lojalias pozicijas caro valdžios atžvilgiu. Populiariausiu tapo nuo \n1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jau-\nnas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-\njos ir geranoriškumo įsikūnijimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26406
+    - t-001

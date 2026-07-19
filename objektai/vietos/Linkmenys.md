@@ -36,7 +36,6 @@ Livonijos kariuomenės 1433.I.30—II.9 reidas ėjo per Linkmenų valsčių.
 
 <a id="claim-t-199528"></a>
 - t-001
-  global_id: t-199528
   teiginys: "1433 m. sausio 30–vasario 9 d. Livonijos kariuomenės reidas per šiaurės rytų Lietuvą ėjo ir per Linkmenų valsčių."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -64,16 +63,11 @@ Livonijos kariuomenės 1433.I.30—II.9 reidas ėjo per Linkmenų valsčių.
     du po šiaurės rytų Lietuvą (per Linkmenų, Tauragnų, Utenos, Už­
     palių vaisčiusi, o Švitrigaila pasiliko Lukomlyje. arti Vitebsko, to­
     liau telkti kariuomenės.
-  citata_rodoma: |
-    Livonijos kariuome­
-    nė, nežygiuodama link Molodečno, pasitenkino 1433.L30—II.9 rei­
-    du po šiaurės rytų Lietuvą (per Linkmenų, Tauragnų, Utenos, Už­
-    palių vaisčiusi, o  Švitrigaila pasiliko Lukomlyje. arti Vitebsko, to­
-    liau telkti kariuomenės.
+  citata_rodoma: "Livonijos kariuome­\nnė, nežygiuodama link Molodečno, pasitenkino 1433.L30—II.9 rei­\ndu po šiaurės rytų Lietuvą (per Linkmenų, Tauragnų, Utenos, Už­\npalių vaisčiusi, o  Švitrigaila pasiliko Lukomlyje. arti Vitebsko, to­\nliau telkti kariuomenės."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199528
+    - t-001

@@ -41,7 +41,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui 
 
 <a id="claim-t-87715"></a>
 - t-001
-  global_id: t-87715
   teiginys: "Pšemislio vyskupas Jonas Chojevskis 1533 m. liepos 26 d. Vilniuje dalyvavo kaip karaliaus Žygimanto rašto liudininkas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,4 +98,4 @@ Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87715
+    - t-001

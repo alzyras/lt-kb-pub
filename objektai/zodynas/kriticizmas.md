@@ -49,8 +49,7 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
 ## Teiginiai
 
 <a id="claim-t-188002"></a>
-- t-001
-  global_id: t-188002
+- t-002
   teiginys: "Narbutas pabrėžė laikęsis „griežto kriticizmo“ ir apsiribojęs „kritikos patvirtinta medžiaga“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::vocabulary"
@@ -65,7 +64,7 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171036
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas pabrėžė laikęsis „griežto kriticizmo“ ir apsiribojęs „kritikos patvirtinta medžiaga“.'
@@ -94,8 +93,7 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188002
+
 ## Citatos
 
 - id: c-171036
@@ -121,16 +119,11 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
     doti rašytiniai šaltiniai yra ne visai patikimi. Patikrinti ir įver­
     tinti tautosakinius ir etnografinius šaltinius jam buvo dar sun­
     kiau nemokant lietuvių kalbos.
-  citata_rodoma: |
-    Tačiau, nežiūrint didelės pagarbos autoritetams, senuosius
-    šaltinius ir tyrinėtojus T. Narbutas vertino kritiškai, ne kartą
-    pabrėždamas, kad laikosi „griežto kriticizmo“, apsiriboja „kri-
-    tikos patvirtinta medžiaga“, kad tikrinęs ir taisęs kur pastebė-
-    jęs „aiškias klaidas“.
+  citata_rodoma: "Tačiau, nežiūrint didelės pagarbos autoritetams, senuosius\nšaltinius ir tyrinėtojus T. Narbutas vertino kritiškai, ne kartą\npabrėždamas, kad laikosi „griežto kriticizmo“, apsiriboja „kri-\ntikos patvirtinta medžiaga“, kad tikrinęs ir taisęs kur pastebė-\njęs „aiškias klaidas“."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188002
+    - t-002

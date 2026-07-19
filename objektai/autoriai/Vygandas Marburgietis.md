@@ -46,8 +46,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
 ## Teiginiai
 
 <a id="claim-t-172965"></a>
-- t-001
-  global_id: t-172965
+- t-005
   teiginys: "Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,8 +66,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-42463
 
 <a id="claim-t-172967"></a>
-- t-002
-  global_id: t-172967
+- t-012
   teiginys: "Vygandas Marburgietis „Naujojoje Prūsijos kronikoje“ aprašė lietuvių karaliaus dezinformaciją 1345 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,8 +85,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-42463
 
 <a id="claim-t-172968"></a>
-- t-003
-  global_id: t-172968
+- t-006
   teiginys: "Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištrauka pateikta apie 1348 m. Strėvos mūšį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,8 +104,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-157309
 
 <a id="claim-t-172969"></a>
-- t-004
-  global_id: t-172969
+- t-016
   teiginys: "Vygandas Marburgietis pasakojo, kad Karolis Tryrietis popiežiaus rūmuose buvo priimtas pagarbiai ir draugiškai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,28 +123,18 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-157308
 
 <a id="claim-t-172970"></a>
-- t-005
-  global_id: t-172970
+- t-004
   teiginys: "Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų."
-  atnaujinta: "2026-06-10 12:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Strėva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vygandas Marburgietis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Strėva: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vygandas Marburgietis\" parinktas kaip owner_note_path. Targetas \"Strėva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1348 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-42467
     - c-157309
 
 <a id="claim-t-172971"></a>
-- t-006
-  global_id: t-172971
+- t-007
   teiginys: "Vygando Marburgiečio „Naujosios Prūsijos kronikos“ ištraukoje aprašomas pilies šturmas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -164,8 +150,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-42467
 
 <a id="claim-t-172972"></a>
-- t-007
-  global_id: t-172972
+- t-010
   teiginys: "Vygandas Marburgietis pasakojo apie asmens atvykimą pas popiežių ir pagarbų priėmimą popiežiaus rūmuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -182,9 +167,8 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   pagrindžia:
     - c-157308
 
-<a id="claim-t-172975"></a>
-- t-008
-  global_id: t-172975
+<a id="claim-t-172974"></a>
+- t-014
   teiginys: "Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -201,7 +185,6 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
 
 <a id="claim-t-172976"></a>
 - t-009
-  global_id: t-172976
   teiginys: "Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad per deginimą atsivėrusi kiaurymė įtraukė jo pelenus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -218,8 +201,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-157314
 
 <a id="claim-t-172977"></a>
-- t-010
-  global_id: t-172977
+- t-015
   teiginys: "Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad deginant palaikus atsivėrusi kiaurymė įtraukė pelenus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -236,8 +218,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-157310
 
 <a id="claim-t-172978"></a>
-- t-011
-  global_id: t-172978
+- t-003
   teiginys: "Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -257,8 +238,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-157309
 
 <a id="claim-t-193881"></a>
-- t-012
-  global_id: t-193881
+- t-017
   teiginys: "Kryžiuočių Vygando Marburgiškio duomenimis, Kaributas Dimitras sumušė Kęstučio kariuomenę."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -294,9 +274,10 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172965
-    - t-172967
-    - t-172978
+    - t-005
+    - t-012
+    - t-003
+
 - id: c-42467
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -319,8 +300,8 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172970
-    - t-172971
+    - t-007
+
 - id: c-157308
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -340,22 +321,16 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     z
     Tokius skundo punktus randame
     įdėtus R a y n a 1  d, an.
-  citata_rodoma: |
-    Apie jo priėmimą popiežiaus
-    rūmuose pasakoja Vygandas
-    M a r b u r g a s, p. 279; Adiit papam,
-    u quo honorifice et amicabiliter suscep­
-    tus est [Atvyko pas popiežių, kurio
-    buvo pagarbiai ir draugiškai priim­
-    tas]. Žr.
+  citata_rodoma: "Apie jo priėmimą popiežiaus\nrūmuose pasakoja Vygandas\nM a r b u r g a s, p. 279; Adiit papam,\nu quo honorifice et amicabiliter suscep­\ntus est [Atvyko pas popiežių, kurio\nbuvo pagarbiai ir draugiškai priim­\ntas]. Žr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172969
-    - t-172972
+    - t-016
+    - t-010
+
 - id: c-157309
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -376,9 +351,10 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172968
-    - t-172970
-    - t-172978
+    - t-006
+    - t-004
+    - t-003
+
 - id: c-157310
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -411,37 +387,15 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     žmogus galėjęs tilpti, ir įtraukė Kęs­
     tučio pelenus, ką regėjusi daugybė
     žmonių.
-  citata_rodoma: |
-    Tačiau ir tai negalėjo pasotinti go­
-    duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­
-    36
-    Klausimas, ar Kęstutis pats pasirin­
-    kęs mirtį, - juk Skirgaila, važiavęs
-    jo aplankyti, netikėtai rado negyvą,
-    ar nužudytas, o jo žmona kunigaikš­
-    tienė Birutė paskandinta, - nėra iki
-    šiol aiškus ir rašantiesiems Lietuvos
-    istoriją dera jo imtis.
-    37
-    Vygandas  savo kronikoje, p. 298,
-    apud V o i g t, V, 372, aprašinėda­
-    mas Kęstučio laidotuves Vilniuje,
-    kur kartu su palaikais buvo sudegin­
-    ti jo rūbai, ginklai, žirgai, medžiok­
-    liniai šunys ir paukščiai, prietarin­
-    gai priduria, kad to deginimo metu
-    stebuklingu būdu žemėje atsivėrusi
-    tokio gylio kiaurymė, jog vienas
-    žmogus galėjęs tilpti, ir įtraukė Kęs­
-    tučio pelenus, ką regėjusi daugybė
-    žmonių.
+  citata_rodoma: "Tačiau ir tai negalėjo pasotinti go­\nduolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­\n36\nKlausimas, ar Kęstutis pats pasirin­\nkęs mirtį, - juk Skirgaila, važiavęs \njo aplankyti, netikėtai rado negyvą, \nar nužudytas, o jo žmona kunigaikš­\ntienė Birutė paskandinta, - nėra iki \nšiol aiškus ir rašantiesiems Lietuvos \nistoriją dera jo imtis.\n37\nVygandas  savo kronikoje, p. 298, \napud V o i g t, V, 372, aprašinėda­\nmas Kęstučio laidotuves Vilniuje, \nkur kartu su palaikais buvo sudegin­\nti jo rūbai, ginklai, žirgai, medžiok­\nliniai šunys ir paukščiai, prietarin­\ngai priduria, kad to deginimo metu \nstebuklingu būdu žemėje atsivėrusi \ntokio gylio kiaurymė, jog vienas \nžmogus galėjęs tilpti, ir įtraukė Kęs­\ntučio pelenus, ką regėjusi daugybė\nžmonių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172977
+    - t-015
+
 - id: c-157311
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -456,20 +410,15 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     rye ir Neria. Jau 1398 metais, po
     krikščionių tikėjimo Vilniuje priėmi­
     mo, Vilija taip buvo vadinama.
-  citata_rodoma: |
-    Vygandas ir
-    Lindenblattas, kronikininkai,
-    ją taip pat vadina - Nerga, Nerge, Ne-
-    rye ir Neria. Jau 1398 metais, po
-    krikščionių tikėjimo Vilniuje priėmi­
-    mo, Vilija taip buvo vadinama.
+  citata_rodoma: "Vygandas ir\nLindenblattas, kronikininkai,\nją taip pat vadina - Nerga, Nerge, Ne-\nrye ir Neria. Jau 1398 metais, po\nkrikščionių tikėjimo Vilniuje priėmi­\nmo, Vilija taip buvo vadinama."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172975
+    - t-014
+
 - id: c-157314
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -497,29 +446,15 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     žmonių. Et duxit (Skirgajłło) eum (Kej-
     stuta) in Wiliam ubi in cinerem est re­
     dactus.
-  citata_rodoma: |
-    37
-    Vygandas  savo kronikoje, p. 298,
-    apud V o i g t, V, 372, aprašinėda­
-    mas Kęstučio laidotuves Vilniuje,
-    kur kartu su palaikais buvo sudegin­
-    ti jo rūbai, ginklai, žirgai, medžiok­
-    liniai šunys ir paukščiai, prietarin­
-    gai priduria, kad to deginimo metu
-    stebuklingu būdu žemėje atsivėrusi
-    tokio gylio kiaurymė, jog vienas
-    žmogus galėjęs tilpti, ir įtraukė Kęs­
-    tučio pelenus, ką regėjusi daugybė
-    žmonių. Et duxit (Skirgajłło) eum (Kej-
-    stuta) in Wiliam ubi in cinerem est re­
-    dactus.
+  citata_rodoma: "37\nVygandas  savo kronikoje, p. 298,\napud V o i g t, V, 372, aprašinėda­\nmas Kęstučio laidotuves Vilniuje,\nkur kartu su palaikais buvo sudegin­\nti jo rūbai, ginklai, žirgai, medžiok­\nliniai šunys ir paukščiai, prietarin­\ngai priduria, kad to deginimo metu\nstebuklingu būdu žemėje atsivėrusi\ntokio gylio kiaurymė, jog vienas\nžmogus galėjęs tilpti, ir įtraukė Kęs­\ntučio pelenus, ką regėjusi daugybė\nžmonių. Et duxit (Skirgajłło) eum (Kej-\nstuta) in Wiliam ubi in cinerem est re­\ndactus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172976
+    - t-009
+
 - id: c-176508
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -540,4 +475,4 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193881
+    - t-017

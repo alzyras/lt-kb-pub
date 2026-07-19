@@ -33,7 +33,6 @@ Matyt, vienoje būdoje dirbančių būdininkų optimalus skaičius buvo apie 40.
 
 <a id="claim-t-201788"></a>
 - t-001
-  global_id: t-201788
   teiginys: "Matyt, vienoje būdoje dirbančių būdininkų optimalus skaičius buvo apie 40."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Matyt, vienoje būdoje dirbančių būdininkų optimalus skaičius buvo apie 40.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201788
+    - t-001

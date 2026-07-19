@@ -38,7 +38,6 @@ Smolka, St„ Szkice historyczne.
 
 <a id="claim-t-36112"></a>
 - t-001
-  global_id: t-36112
   teiginys: "St. Smolkos „Szkice historyczne“ pirmoji serija buvo išleista Varšuvoje 1882 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,12 +64,11 @@ Smolka, St„ Szkice historyczne.
   citata_originali: |
     Smolka, St„ Szkice historyczne. Warszawa, 1882, ser. I.
     Sokolovski, Dr. Pr.
-  citata_rodoma: |
-    Smolka, St„ Szkice historyczne. Warszawa, 1882, ser. I.
+  citata_rodoma: "Smolka, St„ Szkice historyczne. Warszawa, 1882, ser. I."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36112
+    - t-001

@@ -49,27 +49,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 ## Teiginiai
 
 <a id="claim-t-175076"></a>
-- t-001
-  global_id: t-175076
+- t-009
   teiginys: "Semba apibūdinta kaip turtingiausia ir tankiausiai gyvenama žemė, galėjusi sutelkti 4000 raitelių ir 40000 karių."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Semba: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Semba: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Semba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-159222
-    - c-159234
-    - c-013
-    - c-020
+    - c-159235
+
 <a id="claim-t-175077"></a>
-- t-002
-  global_id: t-175077
+- t-010
   teiginys: "Prieš sembų gentį buvo kariauta daug karų, o viename žygyje Kristburgo komtūras Henrikas Stange įsiveržė į Sembą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,8 +75,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159212
 
 <a id="claim-t-175078"></a>
-- t-003
-  global_id: t-175078
+- t-018
   teiginys: "Vienas prūsas Karaliaučiaus broliams išpranašavo, kad švento Vincento dieną sembai bus išžudyti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -96,8 +84,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159248
 
 <a id="claim-t-175079"></a>
-- t-004
-  global_id: t-175079
+- t-022
   teiginys: "Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -114,26 +101,17 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159214
 
 <a id="claim-t-175080"></a>
-- t-005
-  global_id: t-175080
+- t-020
   teiginys: "Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Arbaletai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Arbaletai: mention_match, thing, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Arbaletai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-159236
-    - c-022
+    - c-159212
+
 <a id="claim-t-175081"></a>
-- t-006
-  global_id: t-175081
+- t-014
   teiginys: "Sembai nukankino Teutonų ordino kunigą, atsiųstą jų krikštyti, suspaudę jam kaklą dviem kartimis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -149,27 +127,18 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159241
 
 <a id="claim-t-175082"></a>
-- t-007
-  global_id: t-175082
+- t-005
   teiginys: "Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Notangai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Notangai: mention_match, group, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Notangai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-159211
-    - c-003
+    - c-159249
+
 <a id="claim-t-175083"></a>
-- t-008
-  global_id: t-175083
+- t-027
   teiginys: "Brolis Bertoldas su tūkstančiu Sembos vyrų sudegino Medrabos pilį iki pamatų, jos žmones išžudė arba paėmė į nelaisvę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Medraba: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -180,11 +149,11 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   ryšio_paaiskinimas: "Bertoldas su Sembos vyrais pasuko į Medrabos pilį ir po antpuolio ją sudegino, todėl puolimas tiesiogiai pagrįstas."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-159217
     - c-159228
-    - c-017
+
 <a id="claim-t-175084"></a>
-- t-009
-  global_id: t-175084
+- t-028
   teiginys: "1313 m. rudenį maršalas Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį, o abu jos papiliai sudegė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -202,23 +171,20 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata."
   pagrindžia:
     - c-159217
-    - c-008
+
 <a id="claim-t-175085"></a>
-- t-010
-  global_id: t-175085
+- t-007
   teiginys: "Šešta — Semba196, kurioje [gyveno] sembai."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-159223
-    - c-159229
-    - c-014
-    - c-018
+    - c-159215
+    - c-178981
+
 <a id="claim-t-175086"></a>
-- t-011
-  global_id: t-175086
+- t-001
   teiginys: "Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -235,28 +201,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159220
 
 <a id="claim-t-175088"></a>
-- t-012
-  global_id: t-175088
+- t-021
   teiginys: "Sembai, nebepajėgdami priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė krikščionių tikėjimui."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159213
-    - c-159215
-    - c-159218
-    - c-159235
-    - c-159243
-    - c-159246
-    - c-159248
-    - c-159249
-    - c-007
-    - c-009
-    - c-028
-    - c-030
+
 <a id="claim-t-175089"></a>
-- t-013
-  global_id: t-175089
+- t-002
   teiginys: "XI-XII a. danų šaltiniai rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -274,8 +228,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159224
 
 <a id="claim-t-175090"></a>
-- t-014
-  global_id: t-175090
+- t-029
   teiginys: "1314 m. maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -293,10 +246,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-159242
-    - c-025
+
 <a id="claim-t-175091"></a>
-- t-015
-  global_id: t-175091
+- t-025
   teiginys: "1274 m. sembai kartu su pagudėnais, varmiais, notangais ir bartais grįžo į Bažnyčios visuotinybę ir davė įkaitų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -316,7 +268,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 
 <a id="claim-t-175092"></a>
 - t-016
-  global_id: t-175092
   teiginys: "Sembai paliko kuorus prie Karaliaučiaus, pasitraukė ir pastojo kelią maldininkų kariuomenei."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -330,10 +281,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159219
-    - c-010
+
 <a id="claim-t-175093"></a>
-- t-017
-  global_id: t-175093
+- t-012
   teiginys: "Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčių sembai davė karaliui įkaitus ir prisiekė paklusti tikėjimui bei broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -349,8 +299,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159243
 
 <a id="claim-t-175094"></a>
-- t-018
-  global_id: t-175094
+- t-003
   teiginys: "1260 m. Klaipėdoje sembai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -369,8 +318,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-42928
 
 <a id="claim-t-175095"></a>
-- t-019
-  global_id: t-175095
+- t-030
   teiginys: "1317 m. žiemą maršalas Henrikas, broliai ir Sembos bei Notangos kariai žygiavo prieš Vaikių valsčių, bet dėl audros grįžo atgal."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -390,8 +338,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159231
 
 <a id="claim-t-175096"></a>
-- t-020
-  global_id: t-175096
+- t-004
   teiginys: "Po mūšio išlikę sembai kartu su kitais krikščionių kariais bėgo, nebegalėdami kovoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -400,10 +347,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-42929
 
 <a id="claim-t-175097"></a>
-- t-021
-  global_id: t-175097
+- t-015
   teiginys: "Grafui iš Barbio įsiveržus į Sembos žemę ir ją nusiaubus, sembai jį užpuolė sausio 21 d. ir sunkiai sužeidė."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Semba: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -415,10 +361,10 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159246
-    - c-028
+    - c-178981
+
 <a id="claim-t-175098"></a>
-- t-022
-  global_id: t-175098
+- t-024
   teiginys: "Po antrosios atskalūnybės Sembos žemėje pastatytos Tepliavos ir Viklandsorto pilys buvo sustiprintos sembams tramdyti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -437,8 +383,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159245
 
 <a id="claim-t-175099"></a>
-- t-023
-  global_id: t-175099
+- t-019
   teiginys: "Kai kurie kilmingi sembai su šeimynomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -447,8 +392,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159235
 
 <a id="claim-t-175100"></a>
-- t-024
-  global_id: t-175100
+- t-008
   teiginys: "Sembos vardas šaltiniuose minimas formomis Semland, Samblandia, Zambia, Samia, Samplandia, Samlandia ir Sambia."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -467,10 +411,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159226
 
 <a id="claim-t-175101"></a>
-- t-025
-  global_id: t-175101
+- t-006
   teiginys: "Sembų ir lietuvių bendrų veiksmų galima įžiūrėti XIII a. šeštojo dešimtmečio Klaipėdos pilies apgultyje."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sajungininkas_su -> Lietuviai: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -484,28 +427,20 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko bendrų sembų ir lietuvių veiksmų teiginį."
   pagrindžia:
+    - c-159242
     - c-159250
-    - c-031
+
 <a id="claim-t-175103"></a>
-- t-026
-  global_id: t-175103
+- t-017
   teiginys: "Per kautynes krito daugiau kaip trys tūkstančiai sembų ir kitų prūsų tą pačią dieną, kai prieš metus vyko Pokarvių kautynės."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-159215
-    - c-007
+    - c-159218
+
 <a id="claim-t-175104"></a>
-- t-027
-  global_id: t-175104
+- t-013
   teiginys: "Prūsams vėl atkritus nuo tikėjimo, sembai savo kariuomenės vadu ir vyresniuoju išsirinko Glandą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -520,10 +455,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   semantiniai_rysiai: "Sembai paskyrė Glanda (0.93)"
   pagrindžia:
     - c-159249
-    - c-030
+
 <a id="claim-t-175105"></a>
-- t-028
-  global_id: t-175105
+- t-026
   teiginys: "Sembų fogtas Ditrichas iš Lidelau, grįžęs iš Vokietijos, atkalbėjo jį gerbusius sembus nuo paklydimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -539,34 +473,31 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159221
 
 <a id="claim-t-194357"></a>
-- t-029
-  global_id: t-194357
+- t-036
   teiginys: "Apie daugybės maldininkų žūtį Tais pačiais metais į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368 ir įsibrovė į Sembos žemę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-159246
-    - c-028
+    - c-159231
+
 <a id="claim-t-194358"></a>
-- t-030
-  global_id: t-194358
+- t-037
   teiginys: "Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš metus įvyko Pokarvių kautynės."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-159215
-    - c-007
+    - c-159218
+
 <a id="claim-t-194359"></a>
-- t-031
-  global_id: t-194359
+- t-038
   teiginys: "Apie Rinavos valsčiaus sembų naują atskalūnybę Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės, sukurstė tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -578,8 +509,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159214
 
 <a id="claim-t-194360"></a>
-- t-032
-  global_id: t-194360
+- t-039
   teiginys: "Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo vieno ten."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -591,8 +521,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159245
 
 <a id="claim-t-194361"></a>
-- t-033
-  global_id: t-194361
+- t-040
   teiginys: "Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -604,8 +533,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159231
 
 <a id="claim-t-196921"></a>
-- t-034
-  global_id: t-196921
+- t-041
   teiginys: "Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai broliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -617,8 +545,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159236
 
 <a id="claim-t-196922"></a>
-- t-035
-  global_id: t-196922
+- t-042
   teiginys: "Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė kariuomenę ir, įsibrovę į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su visu jų turtu išsivarė su."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -786,8 +713,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175082
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -801,9 +726,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175088
-    - t-175103
+- t-175103
     - t-194358
 - c-008
   santrauka: '1313 m. rudenį maršalas Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį, o abu jos papiliai sudegė.'
@@ -821,8 +744,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175084
 - c-009
   santrauka: 'Sembai, nebepajėgdami priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė krikščionių tikėjimui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -838,8 +759,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175088
 - c-010
   santrauka: 'Sembai paliko kuorus prie Karaliaučiaus, pasitraukė ir pastojo kelią maldininkų kariuomenei.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -856,8 +775,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175092
 - c-013
   santrauka: 'Semba apibūdinta kaip turtingiausia ir tankiausiai gyvenama žemė, galėjusi sutelkti 4000 raitelių ir 40000 karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -871,8 +788,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175076
 - c-014
   santrauka: 'Šešta — Semba196, kurioje [gyveno] sembai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -883,8 +798,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175085
 - c-017
   santrauka: 'Brolis Bertoldas su tūkstančiu Sembos vyrų sudegino Medrabos pilį iki pamatų, jos žmones išžudė arba paėmė į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -899,8 +812,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175083
 - c-018
   santrauka: 'Šešta — Semba196, kurioje [gyveno] sembai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -914,8 +825,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175085
 - c-020
   santrauka: 'Semba apibūdinta kaip turtingiausia ir tankiausiai gyvenama žemė, galėjusi sutelkti 4000 raitelių ir 40000 karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -930,8 +839,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175076
 - c-022
   santrauka: 'Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -946,8 +853,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175080
 - c-025
   santrauka: '1314 m. maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -964,8 +869,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175090
 - c-028
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -982,9 +885,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175088
-    - t-175097
+- t-175097
     - t-194357
 - c-030
   santrauka: 'Prūsams vėl atkritus nuo tikėjimo, sembai savo kariuomenės vadu ir vyresniuoju išsirinko Glandą.'
@@ -1003,9 +904,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175088
-    - t-175104
+- t-175104
 - c-031
   santrauka: 'Sembų ir lietuvių bendrų veiksmų galima įžiūrėti XIII a. šeštojo dešimtmečio Klaipėdos pilies apgultyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1020,8 +919,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175101
+
 ## Citatos
 
 - id: c-42928
@@ -1044,25 +942,15 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     žiaus karo akciją buvo įtraukti ir prieš tuo
     metu Rytų Europą užplūdusius totorius
     gausiai suverbuoti kryžininkai.
-  citata_rodoma: |
-    Klaipėdoje prieš Lietuvą buvo
-    sutelktos Livonijos ir Prūsijos kryžiuočių
-    ordinų pajėgos, broliai riteriai ir
-    i 4 jiems pavaldžių užgrobtų žemių
-    “prievarta buriami kariai (prūsai -
-    pamedėnai, notangai, varmiai, sem-
-    bai, o taip pat kuršiai, estai ir kt.), iš
-    Vokietijos žemių 30 naujai įstojusių Ordino
-    brolių būrys, Revelio (Talino) danų kariuo-
-    menė, vadovaujama švedų kunigaikščio
-    Karolio, turėjusio dar savo būrį.
+  citata_rodoma: "Klaipėdoje prieš Lietuvą buvo\nsutelktos Livonijos ir Prūsijos kryžiuočių\nordinų pajėgos, broliai riteriai ir\ni 4 jiems pavaldžių užgrobtų žemių\n“prievarta buriami kariai (prūsai -\npamedėnai, notangai, varmiai, sem-\nbai, o taip pat kuršiai, estai ir kt.), iš\nVokietijos žemių 30 naujai įstojusių Ordino\nbrolių būrys, Revelio (Talino) danų kariuo-\nmenė, vadovaujama švedų kunigaikščio\nKarolio, turėjusio dar savo būrį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175094
+    - t-003
+
 - id: c-42929
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1082,7 +970,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175096
+    - t-004
+
 - id: c-159211
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1096,20 +985,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
     baltų, kuriais laikytini ir kuršiai. Išlikusi po Ordino siautėjimo dalis kuršių, nadruvių,
     skalvių ir kitų vakarinių baltų XIV—XVI a. sulietuvėjo14.
-  citata_rodoma: |
-    Archeologijos, kalbos ir kitokie duomenys leidžia išskirti sembų—notangų kultūrinę
-    grupę, o joje — sembų, varmių, notangų, pagudėnų, pamedėnų gentines teritorijas.
-    Kalbos požiūriu šiame plote (t. y. prūsų kalboje) randami du pagrindiniai dialektai:
-    pamedėnų ir—artimesnis lietuviams — sembų; tam tikrų skirtybių turi notangų dialektas.
-    Kultūros  ir kalbos požiūriu bartų teritorija laikoma pereinamąja tarp tikrųjų prūsų  ir
-    jotvingių arba priskiriama prūsams.
+  citata_rodoma: "Archeologijos, kalbos ir kitokie duomenys leidžia išskirti sembų—notangų kultūrinę\ngrupę, o joje — sembų, varmių, notangų, pagudėnų, pamedėnų gentines teritorijas.\nKalbos požiūriu šiame plote (t. y. prūsų kalboje) randami du pagrindiniai dialektai:\npamedėnų ir—artimesnis lietuviams — sembų; tam tikrų skirtybių turi notangų dialektas.\nKultūros  ir kalbos požiūriu bartų teritorija laikoma pereinamąja tarp tikrųjų prūsų  ir\njotvingių arba priskiriama prūsams."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-175082
 - id: c-159212
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1136,7 +1018,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175077
+    - t-010
+    - t-020
+
 - id: c-159213
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1153,7 +1037,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175088
+    - t-021
+
 - id: c-159214
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1170,8 +1055,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175079
-    - t-194359
+    - t-022
+    - t-038
+
 - id: c-159215
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1185,21 +1071,15 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis
     šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis
     p. 54), kelio iš Kaliningrado į Laduškiną pradžioje.
-  citata_rodoma: |
-    Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų
-    ginklanešius. Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje
-    pusėje daugybės sužeistųjų ir nukautųjų, visus išžudė. Šitaip iš dievo malonės tą dieną
-    krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš
-    metus įvyko Pokarvių kautynės.
+  citata_rodoma: "Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų\nginklanešius. Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje\npusėje daugybės sužeistųjų ir nukautųjų, visus išžudė. Šitaip iš dievo malonės tą dieną\nkrito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš\nmetus įvyko Pokarvių kautynės."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175088
-    - t-175103
-    - t-194358
+    - t-007
+
 - id: c-159217
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1217,24 +1097,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     arklius, kiti prasimaitino žolėmis bei jų šaknimis, kiti išmirė badu, daug pastipusių nuo
     alkio nusigalavo, kai sugrįžo namo, o likusieji ten parvyko, kai baigėsi šešta savaitė nuo
     išvykimo dienos.
-  citata_rodoma: |
-    319 (312). Apie Bisenės papilių sudeginimą 1313 metais
-
-      Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais
-    užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,
-    abu jos papiliai supleškėjo ugnyje.
-
-
-
-
-                    320 (313).
+  citata_rodoma: "319 (312). Apie Bisenės papilių sudeginimą 1313 metais\n\n  Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais\nužpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,\nabu jos papiliai supleškėjo ugnyje.\n\n\n\n\n                320 (313)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175084
+    - t-027
+    - t-028
+
 - id: c-159218
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1248,20 +1120,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     Šį sembų sutriuškinimą išpranašavo vienas prūsas, taip tvirtai nusakydamas
     Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą
     už šiuos jo žodžius: švento Vincento dieną sembai būsią išžudyti.
-  citata_rodoma: |
-    Tą pačią dieną jie norėjo užkariauti sembų kuorus
-    [propugnacula], kuriais buvo apsupta Karaliaučiaus pilis, tačiau broliai juos atkalbėjo,
-    nes vargu ar per likusias valandas tą dieną būtų baigę šias smarkias kautynes. Išaušus,
-    kai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo,
-    nes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią. Šitai sužinojęs, Julicho
-    grafas irgi pasitraukė su savo kariuomene, nė nenujausdamas, jog jam paspęsti spąstai.
+  citata_rodoma: "Tą pačią dieną jie norėjo užkariauti sembų kuorus\n[propugnacula], kuriais buvo apsupta Karaliaučiaus pilis, tačiau broliai juos atkalbėjo,\nnes vargu ar per likusias valandas tą dieną būtų baigę šias smarkias kautynes. Išaušus,\nkai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo,\nnes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią. Šitai sužinojęs, Julicho\ngrafas irgi pasitraukė su savo kariuomene, nė nenujausdamas, jog jam paspęsti spąstai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175088
+    - t-017
+    - t-037
+
 - id: c-159219
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1274,21 +1142,15 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     kariuomenė pradėjo trauktis, jis, apkaltintas melu, dar atkakliau laikėsi savo nuomonės
     ir tarė: „Dar šiandien sembai bus išžudyti arba žemė pravers savo žiotis ir juos gyvus
     praris nelyginant Dataną ir Abironą“.
-  citata_rodoma: |
-    Išaušus,
-    kai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo,
-    nes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią. Šitai sužinojęs, Julicho
-    grafas irgi pasitraukė su savo kariuomene, nė nenujausdamas, jog jam paspęsti spąstai.
-    Brolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;
-    vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,
-    atbėgo su kruvinu kalaviju rankose pranešti apie pasalą.
+  citata_rodoma: "Išaušus,\nkai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo,\nnes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią. Šitai sužinojęs, Julicho\ngrafas irgi pasitraukė su savo kariuomene, nė nenujausdamas, jog jam paspęsti spąstai.\nBrolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;\nvienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,\natbėgo su kruvinu kalaviju rankose pranešti apie pasalą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175092
+    - t-016
+
 - id: c-159220
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1310,7 +1172,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175086
+    - t-001
+
 - id: c-159221
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1326,7 +1189,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175105
+    - t-026
+
 - id: c-159222
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1340,18 +1204,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     bet ilgainiui, per penkiasdešimt trejus metus, taip juos palaužė, kad nebeliko nė vieno,
     kuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris
     šlovinamas per amžius, amen.
-  citata_rodoma: |
-    Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai. Vargu ar kuri šių giminių
-    buvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug
-    tūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti
-    keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių.
+  citata_rodoma: "Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai. Vargu ar kuri šių giminių\nbuvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug\ntūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti\nketuris tūkstančius raitelių ir keturiasdešimt tūkstančių karių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-175076
 - id: c-159223
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1360,15 +1219,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     Pietuose maždaug iki dab. Bartošicės). Siaurės rytuose priėjo
     Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais
     priskiriama Notangai).
-  citata_rodoma: |
-    Notanga195, kurioje [gyveno] notangai. Šešta — Semba196, kurioje [gyveno] sembai.
+  citata_rodoma: "Notanga195, kurioje [gyveno] notangai. Šešta — Semba196, kurioje [gyveno] sembai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-175085
 - id: c-159224
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1388,7 +1245,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175089
+    - t-002
+
 - id: c-159226
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1405,7 +1263,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175100
+    - t-008
+
 - id: c-159228
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1421,19 +1280,15 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     ginklanešiais iškėlė vėliavą ir patraukė prie šios pilies, o joje tuo metu buvo daug svečių,
     kurie, smarkiai įniršę dėl šio žygio, pasileido ginkluoti jų persekioti; broliai būtų juos
     tikriausiai smarkiai sumušę, jeigu nebūtų per anksti išpuolę iš pasalų.
-  citata_rodoma: |
-    pavadino tuo pačiu vardu. Minėtas  brolis Bertoldas,  šitai sužinojęs, atžygiavo su
-    tūkstančiu Sembos vyrų  ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai
-    stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link
-    Medrabos pilies534, per kurią krikščionys patyrė daug bėdų, ir ją po stipraus antpuolio iki
-    pamatų sudegino, o visus žmones išžudė ar paėmė į nelaisvę.
+  citata_rodoma: "pavadino tuo pačiu vardu. Minėtas  brolis Bertoldas,  šitai sužinojęs, atžygiavo su\ntūkstančiu Sembos vyrų  ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai\nstipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link\nMedrabos pilies534, per kurią krikščionys patyrė daug bėdų, ir ją po stipraus antpuolio iki\npamatų sudegino, o visus žmones išžudė ar paėmė į nelaisvę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175083
+    - t-027
+
 - id: c-159229
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1443,18 +1298,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais
     priskiriama Notangai). Manoma, kad vardas yra upėvardinės kilmės, plg. lie. Not-a ir Al-
     ang-a (MPKP, 1, p. 17).
-  citata_rodoma: |
-    Šešta — Semba196, kurioje [gyveno] sembai.
-
-    iki Priegliaus žiočių (jai priklausė kiek  į vakarus nuo Priegliaus žiočių vėliau kryžiuočių
-    pastatyta Lencenbergo pilis).
+  citata_rodoma: "Šešta — Semba196, kurioje [gyveno] sembai.\n\niki Priegliaus žiočių (jai priklausė kiek  į vakarus nuo Priegliaus žiočių vėliau kryžiuočių\npastatyta Lencenbergo pilis)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-175085
 - id: c-159231
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1479,8 +1329,10 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175095
-    - t-194361
+    - t-030
+    - t-036
+    - t-040
+
 - id: c-159234
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1494,19 +1346,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     bet ilgainiui, per penkiasdešimt trejus metus, taip juos palaužė, kad nebeliko nė vieno,
     kuris nebūtų nulenkęs savo sprando tikėjimui, padedant viešpačiui Jėzui Kristui, kuris
     šlovinamas per amžius, amen.
-  citata_rodoma: |
-    Vargu ar kuri šių giminių
-    buvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug
-    tūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti
-    keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių. Sūduviai, patys tauriausieji,
-    pranokdavo kitus ne tik papročių kilnumu, bet turtais bei galybe.
+  citata_rodoma: "Vargu ar kuri šių giminių\nbuvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug\ntūkstančių karių. Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti\nketuris tūkstančius raitelių ir keturiasdešimt tūkstančių karių. Sūduviai, patys tauriausieji,\npranokdavo kitus ne tik papročių kilnumu, bet turtais bei galybe."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-175076
 - id: c-159235
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1525,8 +1371,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175088
-    - t-175099
+    - t-009
+    - t-019
+
 - id: c-159236
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1548,8 +1395,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175080
-    - t-196921
+    - t-041
+
 - id: c-159238
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1571,7 +1418,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175091
+    - t-025
+
 - id: c-159241
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1594,7 +1442,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175081
+    - t-014
+
 - id: c-159242
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1612,21 +1461,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
     savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
     puldinėjo su dviem apgulos mašinomis ir daugybe šaulių.
-  citata_rodoma: |
-    1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
-    brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
-    valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,
-    todėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino
-    brolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami
-    karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi
-    mūsų dievo Jėzaus Kristaus garbei.
+  citata_rodoma: "1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats\nbrolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų\nvalsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du arklius,\ntodėl krikščionių kariuomenė kiaurą naktį nematė ramybės. Vis dėlto šitai neįbaugino\nbrolių taip smarkiai, kad jie nors kiek būtų uždelsę pradėtąjį viešpaties darbą. Skatinami\nkaršto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi\nmūsų dievo Jėzaus Kristaus garbei."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175090
+    - t-029
+    - t-006
+
 - id: c-159243
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1645,8 +1489,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175088
-    - t-175093
+    - t-012
+
 - id: c-159245
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1664,8 +1508,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175098
-    - t-194360
+    - t-024
+    - t-039
+
 - id: c-159246
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1677,27 +1522,15 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     jaučių, nei kiaulių, nei karvių bei arklių, jie turėjo misti jų odomis. Šis neįprastas maistas
     buvo toks kietas, kad daug brolių bei kitų žmonių, jį bevalgydami, išsilaužė dantis.
     368  Grafų iš Barbio valdos buvo žinomos prie Magdeburgo.
-  citata_rodoma: |
-    Apie daugybės maldininkų žūtį
-
-       Tais pačiais metais  į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368  ir
-    įsibrovė  į Sembos žemę. Kai ją nusiaubė, sembai susibūrė, užpuolė  jį palaimintos
-    mergelės Agnetės dieną (sausio 21) ir sunkiai jį sužeidė, o kiti buvo priversti sprukti, kai
-    kurie pateko į nelaisvę arba buvo nužudyti.
-
-
-
-
-                  94 (89).
+  citata_rodoma: "Apie daugybės maldininkų žūtį\n\n   Tais pačiais metais  į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368  ir\nįsibrovė  į Sembos žemę. Kai ją nusiaubė, sembai susibūrė, užpuolė  jį palaimintos\nmergelės Agnetės dieną (sausio 21) ir sunkiai jį sužeidė, o kiti buvo priversti sprukti, kai\nkurie pateko į nelaisvę arba buvo nužudyti.\n\n\n\n\n              94 (89)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175088
-    - t-175097
-    - t-194357
+    - t-015
+
 - id: c-159248
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1716,8 +1549,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175078
-    - t-175088
+    - t-018
+
 - id: c-159249
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1732,26 +1565,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     90 (85). Apie didelį krikščionių kraujo praliejimą
     Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
     išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.
-  citata_rodoma: |
-    [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
-    netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
-    sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie
-    pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
-    Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
-    bartai — Divaną361.
-
-
-
-
-                   90 (85). Apie didelį krikščionių kraujo praliejimą
+  citata_rodoma: "[dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,\nnetekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug\nsunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie\npirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko\nGlandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,\nbartai — Divaną361.\n\n\n\n\n               90 (85). Apie didelį krikščionių kraujo praliejimą"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175088
-    - t-175104
+    - t-005
+    - t-013
+
 - id: c-159250
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1765,19 +1588,15 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     aktyviai rėmė, kiek leido sąlygos, prūsų ir jotvingių—sūduvių kovą. Ypač glaudžiai
     lietuviai bendradarbiavo su kaimynystėje gyvenusiais jotvingiais — dalis jų žemių
     įėjo į Mindaugo valstybės sudėtį31.
-  citata_rodoma: |
-    Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios
-    Klaipėdos pilies apgulties eigoje (XIII a. 6-asis dešimtmetis)30. Priešiškuose lietuviams
-    šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
-    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
-    Ordino užnugarį pavyslyje (III, 160).
+  citata_rodoma: "Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios\nKlaipėdos pilies apgulties eigoje (XIII a. 6-asis dešimtmetis)30. Priešiškuose lietuviams\nšaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo\nmetu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė\nOrdino užnugarį pavyslyje (III, 160)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175101
+    - t-006
+
 - id: c-178981
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1796,7 +1615,10 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196922
+    - t-007
+    - t-015
+    - t-042
+
 ## Ryšiai
 - Sembai puolė [[objektai/vietos/Fišhauzenas]]
 - Sembai užėmė [[objektai/vietos/Kapsteta]]

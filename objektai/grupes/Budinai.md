@@ -32,8 +32,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
 ## Teiginiai
 
 <a id="claim-t-192357"></a>
-- t-001
-  global_id: t-192357
+- t-006
   teiginys: "T. Narbutas, remdamasis Herodotu, rašo, kad budinai turėjo medines tvirtoves, tarp jų Gelonos, ir buvo apibūdinami kaip rusvaplaukių, šviesiaakių žmonių giminė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -51,7 +50,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
 
 <a id="claim-t-192358"></a>
 - t-002
-  global_id: t-192358
   teiginys: "Narbutas rašė, kad budinai gyveno prie senovės Armėnijos Arakso, o vėliau persikėlė prie Volgos žemupio Arakso."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -75,7 +73,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
 
 <a id="claim-t-192359"></a>
 - t-003
-  global_id: t-192359
   teiginys: "Narbutas pasakojo, kad gelonai ir budinai apsigyveno prie Nemuno vidurupio ir Volkovysko apskrityje upę pavadino Rose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -99,7 +96,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
 
 <a id="claim-t-192360"></a>
 - t-004
-  global_id: t-192360
   teiginys: "T. Narbutas budinus laiko viena iš dviejų tautų, sudariusių lietuvių tautos pradžią, ir priskiria jiems indų-skitų kilmę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -116,8 +112,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     - c-175153
 
 <a id="claim-t-192361"></a>
-- t-005
-  global_id: t-192361
+- t-001
   teiginys: "Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios paprotys buvo garbinti upių šventumą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -140,8 +135,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     - c-175155
 
 <a id="claim-t-192368"></a>
-- t-006
-  global_id: t-192368
+- t-007
   teiginys: "P. J. Safaržykas Herodoto budinus laikė venedų tauta ir seniausia Herodoto minima slavų šaka."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -162,8 +156,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     - c-175163
 
 <a id="claim-t-192369"></a>
-- t-007
-  global_id: t-192369
+- t-008
   teiginys: "Narbuto pasakojime kolchai dar Azijoje davė pradžią budinų genčiai, kuri vėliau įsikūrė prie Dono."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -184,8 +177,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     - c-175164
 
 <a id="claim-t-192370"></a>
-- t-008
-  global_id: t-192370
+- t-009
   teiginys: "Pasak Narbuto minimo Baturlino, budinai gyveno greta gelonų, Voluikos ir Bogončavo miestų apylinkėse."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -206,8 +198,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     - c-175165
 
 <a id="claim-t-192371"></a>
-- t-009
-  global_id: t-192371
+- t-010
   teiginys: "Pasak Narbuto cituojamo Herodoto, budinai savo žemėje turėjo medinių tvirtovių, tarp jų Gelonos tvirtovę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -227,8 +218,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     - c-175152
 
 <a id="claim-t-192372"></a>
-- t-010
-  global_id: t-192372
+- t-011
   teiginys: "T. Narbutas lietuvių tautos pradžią siejo su dviejų senovės tautų, gelonų ir budinų, lydiniu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -248,8 +238,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     - c-175166
 
 <a id="claim-t-192373"></a>
-- t-011
-  global_id: t-192373
+- t-012
   teiginys: "Narbuto teigimu, budinai įsiterpė tarp venedų ir slavų gyvenamųjų vietovių ir įsikūrė prie Nemuno."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -269,8 +258,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     - c-175167
 
 <a id="claim-t-192374"></a>
-- t-012
-  global_id: t-192374
+- t-013
   teiginys: "Narbuto pasakojime lietuvių protėviams atėjus į Prūsijos kraštus, Sambijoje įsikūrė daugiausia senovės budinų gyventojai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -290,8 +278,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     - c-175168
 
 <a id="claim-t-197493"></a>
-- t-013
-  global_id: t-197493
+- t-014
   teiginys: "Senovės tyrinėtojai ne abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos, Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie jūros."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -303,8 +290,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     - c-175167
 
 <a id="claim-t-197494"></a>
-- t-014
-  global_id: t-197494
+- t-015
   teiginys: "Hugas Grocijus, tyręs budinu ko lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs tyrimai paaiškina istorinę tiesą; tas autorius buvo Geropijus Bekanas3."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -408,26 +394,16 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     chanalijos. Pasak to paties istoriko, budinu giminei bū­
     dingi šie bruožai: „Budinai labai gražūs, rusvaplaukiai
     žmonės, turi šviesiai mėlynas akis“1.
-  citata_rodoma: |
-    Iš Herodoto žinome, kad budinai savo žemėje turėjo
-     pastatę medines tvirtoves. Viena jų buvo kvadratinė, kiek­
-     vienas jos šonas turėjo 30 stadijų, t. y. buvo 3000 rusiš­
-     kų sieksnių ilgio, ir vadinosi Gelonos. Jų tvirtovės buvo
-     labai didingos, jose taip pat stovėdavo medinės šventyk­
-     los, kuriose buvo helenų dievai, garbinami heleniškai,
-     altoriai ir koplytėlės irgi buvo iš medžio. Ten kasmet bū­
-     davo minimos Dioniso (Bacho) šventės ir vykdavo bak­
-     chanalijos. Pasak to paties istoriko, budinu giminei bū­
-     dingi šie bruožai: „Budinai labai gražūs, rusvaplaukiai
-     žmonės, turi šviesiai mėlynas akis“1.
+  citata_rodoma: "Iš Herodoto žinome, kad budinai savo žemėje turėjo\n pastatę medines tvirtoves. Viena jų buvo kvadratinė, kiek­\n vienas jos šonas turėjo 30 stadijų, t. y. buvo 3000 rusiš­\n kų sieksnių ilgio, ir vadinosi Gelonos. Jų tvirtovės buvo\n labai didingos, jose taip pat stovėdavo medinės šventyk­\n los, kuriose buvo helenų dievai, garbinami heleniškai,\n altoriai ir koplytėlės irgi buvo iš medžio. Ten kasmet bū­\n davo minimos Dioniso (Bacho) šventės ir vykdavo bak­\n chanalijos. Pasak to paties istoriko, budinu giminei bū­\n dingi šie bruožai: „Budinai labai gražūs, rusvaplaukiai\n žmonės, turi šviesiai mėlynas akis“1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192357
-    - t-192371
+    - t-006
+    - t-010
+
 - id: c-175153
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -438,17 +414,15 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     mums lietuvių tautos pradžia atrodo kaip lydi­
     nys dviejų tautų — gelonų ir budinu. Pirmieji buvo pelaz-
     gų-helenų, antrieji — indų-skitų kilmės.
-  citata_rodoma: |
-    mums lietuvių tautos pradžia atrodo kaip lydi­
-     nys dviejų tautų — gelonų ir budinu. Pirmieji buvo pelaz-
-     gų-helenų, antrieji — indų-skitų kilmės.
+  citata_rodoma: "mums lietuvių tautos pradžia atrodo kaip lydi­\n nys dviejų tautų — gelonų ir budinu. Pirmieji buvo pelaz-\n gų-helenų, antrieji — indų-skitų kilmės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192360
+    - t-004
+
 - id: c-175154
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -468,23 +442,15 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
     ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
     liaudies padavimų.
-  citata_rodoma: |
-    Pas­
-    kui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­
-    nusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­
-    čią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­
-    sivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo
-    tos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo
-    kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­
-    kančią per jų sodybų vidurį, jie pavadino Rose (Ross). Si ket­
-    virta šventoji upė iki šiol išlaikė nepakitusį savo vardą.
+  citata_rodoma: "Pas­\nkui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­\nnusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­\nčią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­\nsivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo\ntos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo\nkairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­\nkančią per jų sodybų vidurį, jie pavadino Rose (Ross). Si ket­\nvirta šventoji upė iki šiol išlaikė nepakitusį savo vardą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192359
+    - t-003
+
 - id: c-175155
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -498,18 +464,15 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     arba šaltinis, kurio vanduo tiek pat padeda gauti išganymą arba apsi­
     valymą nuodėmių kaip ir šventieji Indo vandenys.
     H*
-  citata_rodoma: |
-    Indai svarbiu savo religingumo dalyku laiko
-    tų upių garbinimą. Garbinti tokį upių šventumą buvo lietuvių
-    protėvių, konkrečiai budinu , indų-skitų tautos, paprotys .
-    2 Rostovskis.
+  citata_rodoma: "Indai svarbiu savo religingumo dalyku laiko\ntų upių garbinimą. Garbinti tokį upių šventumą buvo lietuvių\nprotėvių, konkrečiai budinu , indų-skitų tautos, paprotys .\n2 Rostovskis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192361
+    - t-001
+
 - id: c-175156
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -531,25 +494,15 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
     venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
     arba šiek tiek vėliau.
-  citata_rodoma: |
-    Tikras dalykas yra tik tai, kad Arak-
-    so upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip
-    tik tada, kai prie jos gyveno budinai. Jie, kokios nors revoliu­
-    cijos nustumti nuo Armėnijos Arakso, leidosi į vakarus ir ap­
-    sigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-
-    sas. Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
-    Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­
-    kui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­
-    nusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­
-    čią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­
-    sivadinanti Oskolas.
+  citata_rodoma: "Tikras dalykas yra tik tai, kad Arak-\nso upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip\ntik tada, kai prie jos gyveno budinai. Jie, kokios nors revoliu­\ncijos nustumti nuo Armėnijos Arakso, leidosi į vakarus ir ap­\nsigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-\nsas. Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir\nRoksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­\nkui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­\nnusiais tarp Dono ir Doneco; tad šioje tėvynėje pastebime tre­\nčią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­\nsivadinanti Oskolas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192358
+    - t-002
+
 - id: c-175163
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -572,7 +525,8 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192368
+    - t-007
+
 - id: c-175164
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -594,7 +548,8 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192369
+    - t-008
+
 - id: c-175165
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -620,7 +575,8 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192370
+    - t-009
+
 - id: c-175166
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -646,7 +602,8 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192372
+    - t-011
+
 - id: c-175167
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -670,8 +627,9 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192373
-    - t-197493
+    - t-012
+    - t-014
+
 - id: c-175168
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -693,8 +651,9 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192374
-    - t-197494
+    - t-013
+    - t-015
+
 ## Ryšiai
 - Budinai gyveno [[objektai/vietos/Araksas]], [[objektai/vietos/Bogončavas]], [[objektai/vietos/Volgos žemupys]], [[objektai/vietos/Volkovysko apskritis]], [[objektai/vietos/Voluika]]
 - Budinai priklausė [[objektai/grupes/Venedai]]

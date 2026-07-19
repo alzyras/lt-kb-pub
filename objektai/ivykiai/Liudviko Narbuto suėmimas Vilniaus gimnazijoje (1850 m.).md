@@ -57,8 +57,7 @@ Viešai nuplaktas Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaz
 ## Teiginiai
 
 <a id="claim-t-187967"></a>
-- t-001
-  global_id: t-187967
+- t-004
   teiginys: "1850 m. Vilniaus gimnazijoje buvo suimtas Teodoro Narbuto sūnus Liudvikas Narbutas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::events"
@@ -76,12 +75,11 @@ Viešai nuplaktas Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaz
   temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas lietuviškas sakinys su aiškiu subjektu, data ir vieta. Citata tiesiogiai patvirtina Liudviko Narbuto suėmimą Vilniaus gimnazijoje."
   pagrindžia:
     - c-170971
-    - c-001
+
 <a id="claim-t-187968"></a>
-- t-002
-  global_id: t-187968
+- t-005
   teiginys: "Liudvikas Narbutas buvo kaltinamas priešvalstybine agitacija ir siekiu sukurti slaptą organizaciją."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Liudvikas Narbutas: 0.85"
@@ -97,12 +95,11 @@ Viešai nuplaktas Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaz
   temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir tiesiogiai paremtas citata apie kaltinimus. Papildomų aplinkybių nepridėta."
   pagrindžia:
     - c-170971
-    - c-001
+
 <a id="claim-t-187969"></a>
-- t-003
-  global_id: t-187969
+- t-006
   teiginys: "Po tardymo, kalinimo ir viešo nuplakimo Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaze veikusią Rusijos armiją."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "siunte_i -> Kaukazas: 0.88"
@@ -119,7 +116,7 @@ Viešai nuplaktas Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaz
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Liudviko Narbuto bausmės eigą ir rezultatą. Citata patvirtina tardymą, kalinimą, viešą nuplakimą ir išsiuntimą į Kaukazą."
   pagrindžia:
     - c-170971
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -134,10 +131,9 @@ Viešai nuplaktas Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187967
-    - t-187968
+- t-187968
     - t-187969
+
 ## Data ir vieta
 
 Data: 1850 m. Vieta: Vilniaus gimnazija.
@@ -159,18 +155,13 @@ Data: 1850 m. Vieta: Vilniaus gimnazija.
     gimtoje „motinos“ kalboje, vienok pagarbino ir pakėlė savo
     tėvynę ir atnešė jai nemažą naudą, nors ir ne taip gausią, kaip
     tai būtų padarę rašydami savotiškoje kalboje“15.
-  citata_rodoma: |
-    1850 m. Vilniaus gimnazijoje suėmė T. Narbuto sūnų Liud­
-    viką. Apkaltintas už priešvalstybinę agitaciją ir siekimą sukur­
-    ti slaptą organizaciją, jis tardomas ir kalinamas. Viešai išplak­
-    tą rykštėmis, sūnų išsiunčia eiliniu kareiviu į Kaukaze veikian­
-    čią rusų armiją. Tai buvo didelis smūgis tėvui.
+  citata_rodoma: "1850 m. Vilniaus gimnazijoje suėmė T. Narbuto sūnų Liud­\nviką. Apkaltintas už priešvalstybinę agitaciją ir siekimą sukur­\nti slaptą organizaciją, jis tardomas ir kalinamas. Viešai išplak­\ntą rykštėmis, sūnų išsiunčia eiliniu kareiviu į Kaukaze veikian­\nčią rusų armiją. Tai buvo didelis smūgis tėvui."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187967
-    - t-187968
-    - t-187969
+    - t-004
+    - t-005
+    - t-006

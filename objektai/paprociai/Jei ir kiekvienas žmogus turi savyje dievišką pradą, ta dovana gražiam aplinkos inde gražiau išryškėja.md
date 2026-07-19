@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-200855"></a>
 - t-001
-  global_id: t-200855
   teiginys: "Mikalojus Vorobjovas Igno Šeiniaus posakį pateikė aiškindamas, kaip architektūrinė aplinka veikia žmogaus gyvenimą."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200855
+    - t-001

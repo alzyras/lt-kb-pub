@@ -32,7 +32,6 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 
 <a id="claim-t-60418"></a>
 - t-001
-  global_id: t-60418
   teiginys: "Dusburgiečio pasakojime sapne regėtas šventasis Pranciškus su kitais šventaisiais atsisakė priimti maldaujantįjį į savo bendrininkus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -42,7 +41,6 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 
 <a id="claim-t-197151"></a>
 - t-002
-  global_id: t-197151
   teiginys: "Pranciškus nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,5 +73,5 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60418
-    - t-197151
+    - t-001
+    - t-002

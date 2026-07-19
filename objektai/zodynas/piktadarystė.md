@@ -32,7 +32,6 @@ A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad d
 
 <a id="claim-t-185390"></a>
 - t-001
-  global_id: t-185390
   teiginys: "A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad dėl jos valstybė likusi našlaitė."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad d
 
 <a id="claim-t-196385"></a>
 - t-002
-  global_id: t-196385
   teiginys: "Kojelavičiaus tekste tariama Traidenio brolžudystė vadinama piktadaryste, o valstybė po jos vaizduojama likusi našlaitė."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,8 @@ A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185390
+    - t-001
+
 - id: c-178658
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -109,4 +108,4 @@ A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196385
+    - t-002

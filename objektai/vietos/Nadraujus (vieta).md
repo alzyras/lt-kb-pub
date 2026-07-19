@@ -33,7 +33,6 @@ Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Š
 
 <a id="claim-t-201172"></a>
 - t-001
-  global_id: t-201172
   teiginys: "Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Šalaujus ir Nadraujus, antras ėjo nuo Klaipėdos kopomis tarp jūros ir marės, arba Klaipėdos atsiautos."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Š
 ## Citatos
 
 - id: c-184522
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Visų pavoj ausiu daiktu buvo dėl nukariavimo
     Sami jos pažinės ir gentysta samionų su kitais že­
@@ -73,4 +73,4 @@ Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201172
+    - t-001

@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-59689"></a>
 - t-001
-  global_id: t-59689
   teiginys: "Prūsai katile buvo pratę virti savo šventenybes, kaip reikalavo jų apeigos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,17 +80,11 @@ Nenurodyta
     kurį šiems reikėjo perkelti iš vieno kuoro į kitą ir kuriame prūsai buvo pratę virti savo
     šventenybes, kaip reikalauja jų apeigos [secundum ritum ipsorum]. Į šią kovą broliai
     stojo su 150 vyrų, o tada ir užvirė didelis mūšis.
-  citata_rodoma: |
-    Apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį
-
-      Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo,
-    kurį šiems reikėjo perkelti iš vieno kuoro  į kitą ir kuriame prūsai buvo pratę virti savo
-    šventenybes, kaip reikalauja jų apeigos [secundum ritum ipsorum]. Į šią kovą broliai
-    stojo su 150 vyrų, o tada ir užvirė didelis mūšis.
+  citata_rodoma: "Apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį\n\n  Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo,\nkurį šiems reikėjo perkelti iš vieno kuoro  į kitą ir kuriame prūsai buvo pratę virti savo\nšventenybes, kaip reikalauja jų apeigos [secundum ritum ipsorum]. Į šią kovą broliai\nstojo su 150 vyrų, o tada ir užvirė didelis mūšis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59689
+    - t-001

@@ -31,7 +31,6 @@ Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbatio
 
 <a id="claim-t-86587"></a>
 - t-001
-  global_id: t-86587
   teiginys: "Bažnyčia galėjo būti nukelta arba tapti Pabaisko bažnyčiai priklausančia filija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbatio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86587
+    - t-001

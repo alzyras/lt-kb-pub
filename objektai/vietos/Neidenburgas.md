@@ -37,7 +37,6 @@ Kitame žygyje iš Neidenburgo Kęstutis parsigabeno 800 vyrų, kurie, anot Wiga
 
 <a id="claim-t-32399"></a>
 - t-001
-  global_id: t-32399
   teiginys: "Kęstutis per kitą žygį iš Neidenburgo parsigabeno 800 vyrų, kurie labiau troško mirti negu būti lietuvių nelaisvėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,16 +67,11 @@ Kitame žygyje iš Neidenburgo Kęstutis parsigabeno 800 vyrų, kurie, anot Wiga
     labiau troškę mirti negu būti lietuvių nelaisvėje^24.
     Tuo tarpu smulkūs ordino žygiai buvo žymiai gausesni negu
     lietuvių.
-  citata_rodoma: |
-    Kitame žygyje iš
-    Neidenburgo Kęstutis parsigabeno 800 vyrų, kurie, anot Wigando,
-    labiau troškę mirti negu būti lietuvių nelaisvėje^24.
-    Tuo tarpu smulkūs ordino žygiai buvo žymiai gausesni negu
-    lietuvių.
+  citata_rodoma: "Kitame žygyje iš\nNeidenburgo Kęstutis parsigabeno 800 vyrų, kurie, anot Wigando,\nlabiau troškę mirti negu būti lietuvių nelaisvėje^24.\nTuo tarpu smulkūs ordino žygiai buvo žymiai gausesni negu\nlietuvių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32399
+    - t-001

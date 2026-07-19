@@ -40,7 +40,6 @@ Tada net buvo kilusi mintis įkurti Šventosios uostą.
 
 <a id="claim-t-74019"></a>
 - t-001
-  global_id: t-74019
   teiginys: "1629–1635 m. suvaržius prekybą Klaipėdoje, buvo kilusi mintis įkurti Šventosios uostą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,16 +71,11 @@ Tada net buvo kilusi mintis įkurti Šventosios uostą.
     Nemunu dar labiau pasunkėjo, nes Prūsų kunigaikštis, atsipa-
     laidavęs nuo leninės priklausomybės (1660 m.), muitų tvarkyme
     jau nebepriklausė karaliaus.
-  citata_rodoma: |
-    , kai Prūsų pakrantės
-    miestus, o jų tarpe ir Klaipėdą, valdė švedai. Tada net
-    buvo kilusi mintis įkurti Šventosios uostą. Po karų prekyba
-    Nemunu dar labiau pasunkėjo, nes Prūsų kunigaikštis, atsipa-
-    laidavęs nuo leninės priklausomybės (1660 m.
+  citata_rodoma: ", kai Prūsų pakrantės\nmiestus, o jų tarpe ir Klaipėdą, valdė švedai. Tada net\nbuvo kilusi mintis įkurti Šventosios uostą. Po karų prekyba\nNemunu dar labiau pasunkėjo, nes Prūsų kunigaikštis, atsipa-\nlaidavęs nuo leninės priklausomybės (1660 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74019
+    - t-001

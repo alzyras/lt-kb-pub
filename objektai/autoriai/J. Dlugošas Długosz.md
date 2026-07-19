@@ -31,8 +31,7 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
 ## Teiginiai
 
 <a id="claim-t-87984"></a>
-- t-001
-  global_id: t-87984
+- t-003
   teiginys: "J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
     - c-83964
 
 <a id="claim-t-87985"></a>
-- t-002
-  global_id: t-87985
+- t-001
   teiginys: "J. Dlugošas rašė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,8 +64,7 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
     - c-83963
 
 <a id="claim-t-87986"></a>
-- t-003
-  global_id: t-87986
+- t-004
   teiginys: "Dlugošas ir Kojelavičius tvirtino, kad Vilniaus pilių gaisrą sukėlė papirkti išdavikai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,7 +105,8 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87985
+    - t-001
+
 - id: c-83964
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -123,20 +121,15 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
     Gediminas: Dlugošas Lib. IX,
     p. 923, nurodo, kad buvo ugninės
     strėlės pervertas.
-  citata_rodoma: |
-    Rau­
-    donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
-    Kai dėl rūšies ginklo, nuo kurio žuvo
-    Gediminas: Dlugošas Lib. IX,
-    p. 923, nurodo, kad buvo ugninės
-    strėlės pervertas.
+  citata_rodoma: "Rau­\ndonė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot\nKai dėl rūšies ginklo, nuo kurio žuvo \nGediminas: Dlugošas Lib. IX, \np. 923, nurodo, kad buvo ugninės \nstrėlės pervertas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87984
+    - t-003
+
 - id: c-83966
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -157,4 +150,4 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87986
+    - t-004

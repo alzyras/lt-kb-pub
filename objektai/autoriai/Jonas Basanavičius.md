@@ -51,7 +51,6 @@ Jonas Basanavičius rodomas kaip vienas svarbiausių lietuvių tautinio sąjūd�
 
 <a id="claim-t-193700"></a>
 - t-001
-  global_id: t-193700
   teiginys: "Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indoeuropiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavičius (1851–1927)."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -106,4 +105,4 @@ Jonas Basanavičius rodomas kaip vienas svarbiausių lietuvių tautinio sąjūd�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193700
+    - t-001

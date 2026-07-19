@@ -36,7 +36,6 @@ Dusburgietis teigia, kad joachim; Herausgegeben von W.
 
 <a id="claim-t-60694"></a>
 - t-001
-  global_id: t-60694
   teiginys: "E. Joachimas prisidėjo rengiant Vokiečių ordino 1198-1525 m. privilegijų regestų antrąją dalį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Dusburgietis teigia, kad joachim; Herausgegeben von W.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60694
+    - t-001

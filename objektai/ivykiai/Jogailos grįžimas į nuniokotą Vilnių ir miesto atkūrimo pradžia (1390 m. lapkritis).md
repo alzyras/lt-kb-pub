@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54707"></a>
-- t-001
-  global_id: t-54707
+- t-003
   teiginys: "Moskoževskiui grąžinus Vilniaus seniūno pareigas, Jogaila jas pavedė Jonui Olesnickiui."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::events"
@@ -76,7 +75,6 @@ Nenurodyta
 
 <a id="claim-t-54708"></a>
 - t-002
-  global_id: t-54708
   teiginys: "Po Jogailos grįžimo išsisklaidę gyventojai pradėjo telktis ir statytis namus ant degėsių."
   atnaujinta: "2026-05-27 06:05"
   sprendimo_priezastis: "gap::events"
@@ -92,8 +90,7 @@ Nenurodyta
     - c-55670
 
 <a id="claim-t-54709"></a>
-- t-003
-  global_id: t-54709
+- t-001
   teiginys: "1390 m. lapkritį Jogaila su kariuomene grįžo iš Lenkijos į griuvėsiais virtusį Vilnių ir dalijo gyventojams atgabentas atsargas."
   atnaujinta: "2026-05-27 06:05"
   sprendimo_priezastis: "gap::events"
@@ -128,25 +125,16 @@ Nenurodyta
     radusiems gyventojams, o karaliaus buvimas stiprino tie­
     kos negandų nualintą jų dvasią. Pamažu ėmė telktis išsisklaidę
     gyventojai ir statytis namus ant degėsių.
-  citata_rodoma: |
-    Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390
-    metų pabaigoje, kai karalius Vladislovas Jogaila, nors jau
-    pavėluotai, pagaliau susiruošė gelbėti sielvarto prislėgtos
-    tėvynės ir su gausia kariuomene lapkričio mėnesį iš Lenki­
-    jos parvyko į griuvėsiais virtusį gimtąjį miestą. Nemažos
-    maisto ir drabužių atsargos, karaliaus atsigabentos iš Len­
-    kijos ir dosniai dalijamos liaudžiai, pravertė visą turtą pra-
-    radusiems gyventojams, o karaliaus buvimas stiprino tie­
-    kos negandų nualintą jų dvasią. Pamažu ėmė telktis išsisklaidę
-    gyventojai ir statytis namus ant degėsių.
+  citata_rodoma: "Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390 \nmetų pabaigoje, kai karalius Vladislovas Jogaila, nors jau \npavėluotai, pagaliau susiruošė gelbėti sielvarto prislėgtos \ntėvynės ir su gausia kariuomene lapkričio mėnesį iš Lenki­\njos parvyko į griuvėsiais virtusį gimtąjį miestą. Nemažos \nmaisto ir drabužių atsargos, karaliaus atsigabentos iš Len­\nkijos ir dosniai dalijamos liaudžiai, pravertė visą turtą pra- \nradusiems gyventojams, o karaliaus buvimas stiprino tie­\nkos negandų nualintą jų dvasią. Pamažu ėmė telktis išsisklaidę \ngyventojai ir statytis namus ant degėsių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54708
-    - t-54709
+    - t-002
+    - t-001
+
 - id: c-55671
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -163,17 +151,11 @@ Nenurodyta
     Vilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė
     Jonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­
     las37.
-  citata_rodoma: |
-    Tačiau Moskožev-
-    skis, iškamuotas nesibaigiančių karo rūpesčių ir nebenorėda­
-    mas taikstytis su Skirgailos paikais įnoriais, grąžino karaliui
-    Vilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė
-    Jonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­
-    las37.
+  citata_rodoma: "Tačiau Moskožev- \nskis, iškamuotas nesibaigiančių karo rūpesčių ir nebenorėda­\nmas taikstytis su Skirgailos paikais įnoriais, grąžino karaliui \nVilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė \nJonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­\nlas37."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54707
+    - t-003

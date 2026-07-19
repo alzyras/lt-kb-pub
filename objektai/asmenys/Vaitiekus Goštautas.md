@@ -28,7 +28,6 @@ Vaitiekaus Goštauto, Lietuvos kanclerio, antkapio autoriumi laikomas Sienos sku
 
 <a id="claim-t-200874"></a>
 - t-001
-  global_id: t-200874
   teiginys: "Vaitiekaus Goštauto, Lietuvos kanclerio, antkapio autoriumi laikomas Sienos skulptorius Giovanni Cini."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Vaitiekaus Goštauto, Lietuvos kanclerio, antkapio autoriumi laikomas Sienos sku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200874
+    - t-001

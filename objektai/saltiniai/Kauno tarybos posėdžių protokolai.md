@@ -7,10 +7,10 @@ datos:
   - '1609 m.'
 date_start: '1609'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Taryba kasmet iš miesto piliečių rinkdavo 2 turgaus prižiūrėtojus (inspekt
 
 <a id="claim-t-202284"></a>
 - t-001
-  global_id: t-202284
   teiginys: "Taryba kasmet iš miesto piliečių rinkdavo 2 turgaus prižiūrėtojus (inspektores Jori), tvarką turguje prižiūrėti jiems padėdavo samdyti miesto tarnai."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Taryba kasmet iš miesto piliečių rinkdavo 2 turgaus prižiūrėtojus (inspekt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202284
+    - t-001

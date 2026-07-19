@@ -31,7 +31,6 @@ Benninghoven davė studiją apie kalavijuočių ordiną (BeOSch); Lietuvos žila
 
 <a id="claim-t-30615"></a>
 - t-001
-  global_id: t-30615
   teiginys: "Fr. Benninghovenas parašė studiją apie Kalavijuočių ordiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,16 +61,11 @@ Benninghoven davė studiją apie kalavijuočių ordiną (BeOSch); Lietuvos žila
     (BeOSch); Lietuvos žilai senovei tyrinėti įdomus yra Fr. Mager
     veikalas^16 °, o apie I pasaulinį karą W. Conze 161 , ir paskutiniu
     metu išsp.
-  citata_rodoma: |
-    R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 ,
-    Fr. Benninghoven davė studiją apie kalavijuočių ordiną
-    (BeOSch); Lietuvos žilai senovei tyrinėti įdomus yra Fr. Mager
-    veikalas^16 °, o apie I pasaulinį karą W. Conze 161 , ir paskutiniu
-    metu išsp.
+  citata_rodoma: "R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 ,\nFr. Benninghoven davė studiją apie kalavijuočių ordiną\n(BeOSch); Lietuvos žilai senovei tyrinėti įdomus yra Fr. Mager\nveikalas^16 °, o apie I pasaulinį karą W. Conze 161 , ir paskutiniu\nmetu išsp."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30615
+    - t-001

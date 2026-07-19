@@ -33,7 +33,6 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
 
 <a id="claim-t-40366"></a>
 - t-001
-  global_id: t-40366
   teiginys: "Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis buvo Traidenio karvedys ir vadovavo jo kariuomenei Ordino vakarų fronte."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
 
 <a id="claim-t-40367"></a>
 - t-002
-  global_id: t-40367
   teiginys: "Nameisio vadovaujami ir lietuvių remiami žiemgaliai po Livonijos ordino sutriuškinimo atsiėmė Tervetės pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +67,6 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
 
 <a id="claim-t-183756"></a>
 - t-003
-  global_id: t-183756
   teiginys: "Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis vadovavo Traidenio kariuomenei Ordino vakarų fronte."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -104,22 +101,15 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
     brolių žemgaliai pasiuntė lietuviams.
     Lietuviai taip pat toliau rėmė jotvingius jų
     kovoje su Ordinu.
-  citata_rodoma: |
-    Po šio
-    Livonijos ordino sutriuškinimo žiemgaliai
-    vėl sukilo prieš Ordiną, jų kunigaikščio
-    Nameisio vadovaujami ir remiami lietuvių,
-    atsiėmė Tervetės pilį, dalį belaisvių Ordino
-    brolių žemgaliai pasiuntė lietuviams.
-    Lietuviai taip pat toliau rėmė jotvingius jų
-    kovoje su Ordinu.
+  citata_rodoma: "Po šio\nLivonijos ordino sutriuškinimo žiemgaliai\nvėl sukilo prieš Ordiną, jų kunigaikščio\nNameisio vadovaujami ir remiami lietuvių,\natsiėmė Tervetės pilį, dalį belaisvių Ordino\nbrolių žemgaliai pasiuntė lietuviams.\nLietuviai taip pat toliau rėmė jotvingius jų\nkovoje su Ordinu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40367
+    - t-002
+
 - id: c-167144
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -142,5 +132,5 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40366
-    - t-183756
+    - t-001
+    - t-003

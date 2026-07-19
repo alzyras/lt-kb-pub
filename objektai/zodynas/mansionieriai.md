@@ -31,7 +31,6 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 
 <a id="claim-t-86537"></a>
 - t-001
-  global_id: t-86537
   teiginys: "Žygimantas Augustas prie Šv. Onos bažnyčios ketino funduoti kleboniją ir namus mansionieriams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 
 <a id="claim-t-86538"></a>
 - t-002
-  global_id: t-86538
   teiginys: "Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje ir du mansionierius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +95,8 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86538
+    - t-002
+
 - id: c-82517
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -117,4 +116,4 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86537
+    - t-001

@@ -31,7 +31,6 @@ Dusburgietis teigia, kad vėlesnė Romehnen Semboje (jos vak.
 
 <a id="claim-t-58718"></a>
 - t-001
-  global_id: t-58718
   teiginys: "Vėlesnė Romehnen Semboje (jos vak."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,6 +65,7 @@ Dusburgietis teigia, kad vėlesnė Romehnen Semboje (jos vak.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58718
+    - t-001
+
 ## Ryšiai
 - Romehnen priklausė [[objektai/vietos/Semba]]

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-62896"></a>
 - t-001
-  global_id: t-62896
   teiginys: "1259 m. Burchardas iš Hornhauzeno patvarkė pastatyti pilį Karšuvoje ant švento Jurgio kalno."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-63750
 
 <a id="claim-t-183955"></a>
-- t-002
-  global_id: t-183955
+- t-003
   teiginys: "Karšuvos pilis ant švento Jurgio kalno buvo pastatyta Livonijos ir Prūsijos brolių lėšomis bei darbu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,8 +92,7 @@ Nenurodyta
     - c-63750
 
 <a id="claim-t-194415"></a>
-- t-003
-  global_id: t-194415
+- t-004
   teiginys: "Apie pilies pastatymą Karšuvoje ant švento Jurgio kalno Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas ten Livonijos broliams iš Prūsijos žemės kaip magistras."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -107,8 +104,7 @@ Nenurodyta
     - c-63750
 
 <a id="claim-t-194416"></a>
-- t-004
-  global_id: t-194416
+- t-005
   teiginys: "Turėdamas kuo tiksliausių žinių apie vieną ir kitą žemę, be to, dėl lipšnaus būdo vienodai vieniems ir kitiems malonus, jis patvarkė, kad, lygiomis dalimis panaudojant Livonijos ir Prūsijos brolių lėšas ir darbą, Karšuvos žemėje343, ant švento Jurgio."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -135,24 +131,14 @@ Nenurodyta
     pilis, kuri tada buvo itin reikalinga krikščionių tikėjimui plėsti. Pastačius šią pilį, jai
     saugoti ten buvo palikta Prūsijos ir Livonijos brolių bei ginklanešių įgula, sudaryta iš
     vyrų, tinkamai parinktų ir įgudusių kovoti.
-  citata_rodoma: |
-    Apie pilies pastatymą Karšuvoje ant švento Jurgio kalno
-
-      Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas
-    ten Livonijos broliams iš Prūsijos žemės kaip magistras. Turėdamas kuo tiksliausių žinių
-    apie vieną ir kitą žemę, be to, dėl lipšnaus būdo vienodai vieniems ir kitiems malonus,
-    jis patvarkė, kad, lygiomis dalimis panaudojant Livonijos ir Prūsijos brolių lėšas ir darbą,
-    Karšuvos žemėje343, ant švento Jurgio kalno344, 1259 viešpaties metais būtų pastatyta
-    pilis, kuri tada buvo itin reikalinga krikščionių tikėjimui plėsti. Pastačius šią  pilį, jai
-    saugoti ten buvo palikta Prūsijos ir Livonijos brolių bei ginklanešių įgula, sudaryta iš
-    vyrų, tinkamai parinktų ir įgudusių kovoti.
+  citata_rodoma: "Apie pilies pastatymą Karšuvoje ant švento Jurgio kalno\n\n  Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas\nten Livonijos broliams iš Prūsijos žemės kaip magistras. Turėdamas kuo tiksliausių žinių\napie vieną ir kitą žemę, be to, dėl lipšnaus būdo vienodai vieniems ir kitiems malonus,\njis patvarkė, kad, lygiomis dalimis panaudojant Livonijos ir Prūsijos brolių lėšas ir darbą,\nKaršuvos žemėje343, ant švento Jurgio kalno344, 1259 viešpaties metais būtų pastatyta\npilis, kuri tada buvo itin reikalinga krikščionių tikėjimui plėsti. Pastačius šią  pilį, jai\nsaugoti ten buvo palikta Prūsijos ir Livonijos brolių bei ginklanešių įgula, sudaryta iš\nvyrų, tinkamai parinktų ir įgudusių kovoti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62896
-    - t-183955
-    - t-194415
-    - t-194416
+    - t-001
+    - t-003
+    - t-004
+    - t-005

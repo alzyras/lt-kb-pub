@@ -46,8 +46,7 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
 ## Teiginiai
 
 <a id="claim-t-188013"></a>
-- t-001
-  global_id: t-188013
+- t-002
   teiginys: "Narbutai įvadiniame straipsnyje vadinami sena lietuvių bajorų gimine, dokumentuose minima nuo Horodlės unijos laikų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::groups"
@@ -67,8 +66,7 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
     - c-170860
 
 <a id="claim-t-197215"></a>
-- t-002
-  global_id: t-197215
+- t-003
   teiginys: "Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi nys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo prancūzų administracijoje."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -98,18 +96,12 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
     Pirmieji T. Narbuto spausdinti darbai - tai užsienietiškų
     leidinių apžvalgos, eilėraščiai, vertimai Vilniaus laikraščiuo­
     se.
-  citata_rodoma: |
-    Vi­
-    suomenės akyse jis tapo LTI autoriumi.
-    Teodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos pa­
-    viete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje3. Nar­
-    butai -  sena lietuvių bajorų giminė, istoriniuose dokumentuose
-    minima nuo Horodlės unijos laikų.
+  citata_rodoma: "Vi­\nsuomenės akyse jis tapo LTI autoriumi.\nTeodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos pa­\nviete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje3. Nar­\nbutai -  sena lietuvių bajorų giminė, istoriniuose dokumentuose\nminima nuo Horodlės unijos laikų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188013
-    - t-197215
+    - t-002
+    - t-003

@@ -31,7 +31,6 @@ Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri kla
 
 <a id="claim-t-194790"></a>
 - t-001
-  global_id: t-194790
   teiginys: "Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri klausė kažkokios moteriškos šmėklos, kankinančios žmones ir gyvulius ."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri kla
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194790
+    - t-001

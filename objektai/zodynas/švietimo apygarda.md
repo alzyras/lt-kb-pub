@@ -38,7 +38,6 @@ Naujasis caras Aleksandras I (1801—1825 m) 1802 m. Rusijoje įsteigė švietim
 
 <a id="claim-t-03234"></a>
 - t-001
-  global_id: t-03234
   teiginys: "1802 m. Aleksandras I Rusijos imperiją padalijo į šešias švietimo apygardas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Naujasis caras Aleksandras I (1801—1825 m) 1802 m. Rusijoje įsteigė švietim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03234
+    - t-001

@@ -43,7 +43,6 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 
 <a id="claim-t-69146"></a>
 - t-001
-  global_id: t-69146
   teiginys: "1323 m. Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę šiaurinėje Estijoje."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 
 <a id="claim-t-188822"></a>
 - t-002
-  global_id: t-188822
   teiginys: "Narbutas Revelio šv. Olafo bažnyčioje matė vėliavos liekaną su žalvariniu gaidžiu, laikytą pagonybės laikų vėliava iš Latvijos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,6 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 
 <a id="claim-t-188823"></a>
 - t-003
-  global_id: t-188823
   teiginys: "Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje, vadinamojo Suomijos karo metu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -110,7 +107,6 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 
 <a id="claim-t-201100"></a>
 - t-004
-  global_id: t-201100
   teiginys: "Tuojau susirinkę 10 000 igumių pakėlė sau karvedį ir danų pilį, arba Revelį, apgulė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -221,10 +217,12 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 - susijęs iš Varmė: Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl gautos žinios apie taikos sutartį.
 - susijęs iš Vėluva: 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą.
 - susijęs iš Vėluva: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Karalius Henrikas Revelyje, Livonijos žemėje, pastatė cistersų ordino vienuolyną.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+## Citatos
+
+- id: c-68559
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs
     už jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų
@@ -237,14 +235,13 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 
 
       36.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
+  citata_rodoma: "Šitai karaliui išpranašavo\nšventas Vaclovas, čekų kunigaikštis, kuris prieš 300 metų irgi taip buvo savo brolio\nnugalabytas, ir pasiūlė minėtajam karaliui Henrikui, kad savo vardui pagerbti pasirūpintų\npastatydinti bažnyčią, o tas šitaip ir padarė, būtent: pastatė cistersų ordino vienuolyną\nRevelyje, kuris yra Livonijos žemėje.\n\n\n\n  36."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
 
-## Citatos
-
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-68560
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -261,7 +258,8 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69146
+    - t-001
+
 - id: c-171711
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -279,7 +277,8 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188822
+    - t-002
+
 - id: c-171712
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -298,10 +297,12 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188823
+    - t-003
+
 - id: c-184450
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Igumiai džiaugdamies
     nešiojo kruvinas kardas nuo namų lig namų, jog
@@ -319,7 +320,8 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201100
+    - t-004
+
 ## Ryšiai
 - Puolė Revelį: [[objektai/asmenys/Dovydas (Gardino pilininkas)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Pskoviečiai]]
 - Buvo žygio kryptis: [[objektai/grupes/Lietuviai]]

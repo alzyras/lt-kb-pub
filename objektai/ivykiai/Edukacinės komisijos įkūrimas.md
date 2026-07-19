@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-66535"></a>
 - t-001
-  global_id: t-66535
   teiginys: "Edukacinės komisijos sukūrimas 1773 m. kartais laikomas vienu iš Apšvietos epochos pradžios įvykių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-66536"></a>
 - t-002
-  global_id: t-66536
   teiginys: "1773 m. įkurta Edukacinė komisija buvo pirmoji Europoje švietimo ministerijos tipo įstaiga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +93,6 @@ Nenurodyta
 
 <a id="claim-t-183221"></a>
 - t-003
-  global_id: t-183221
   teiginys: "Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -130,15 +127,15 @@ Nenurodyta
     kartais laikomi Apšvietos epochos pradžia.
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
     sąjunga, sukurta Liublino unijos.
-  citata_rodoma: |
-    Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje
+  citata_rodoma: "Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66535
+    - t-001
+
 - id: c-166608
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -157,5 +154,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66536
-    - t-183221
+    - t-002
+    - t-003

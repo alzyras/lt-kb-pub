@@ -57,7 +57,6 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 
 <a id="claim-t-55109"></a>
 - t-001
-  global_id: t-55109
   teiginys: "Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
@@ -78,7 +77,6 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 
 <a id="claim-t-55110"></a>
 - t-002
-  global_id: t-55110
   teiginys: "Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
@@ -99,7 +97,6 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 
 <a id="claim-t-55111"></a>
 - t-003
-  global_id: t-55111
   teiginys: "Šubravcų draugijos kodekse buvo suformuluotos nuo įprastų aukštuomenės normų besiskyrusios narių elgesio ir veiklos normos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
@@ -119,7 +116,6 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 
 <a id="claim-t-55112"></a>
 - t-004
-  global_id: t-55112
   teiginys: "Šubravcų draugijos humoristinis laikraštis Wiadomości brukowe išgarsino draugiją net už Lietuvos ribų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
@@ -132,7 +128,6 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 
 <a id="claim-t-188020"></a>
 - t-005
-  global_id: t-188020
   teiginys: "Vilniuje veikusiai Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
@@ -145,8 +140,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     - c-55460
 
 <a id="claim-t-188109"></a>
-- t-006
-  global_id: t-188109
+- t-007
   teiginys: "Šubravcų tradicijų tęsėju sumanytame leidinyje „Wizerunki i Roztrząsania Naukowe“ rašė buvę Vilniaus universiteto profesoriai, mokslininkai ir literatai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -165,8 +159,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     - c-171253
 
 <a id="claim-t-192485"></a>
-- t-007
-  global_id: t-192485
+- t-008
   teiginys: "„Wizerunki i Roztrząsania Naukowe“ buvo sumanytas kaip šubravcų tradicijų tęsėjas, o leidinyje rašė 18 buvusių Vilniaus universiteto profesorių, 8 kiti mokslininkai ir 19 literatų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -184,7 +177,6 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175279
-    - c-005
 - susijęs iš [[objektai/asmenys/Janas Chodzka.md#claim-t-87698|Janas Chodzka]]: Janas Chodzka priklausė Vilniaus šubravcų draugijai ir joje pasivadino Vaižgantu.
 - susijęs iš [[objektai/asmenys/Jokūbas Šimkevičius.md#claim-t-87709|Jokūbas Šimkevičius]]: Jokūbas Šimkevičius, Vilniaus šubravcų draugijos narys, pasivadino Perkūnu.
 - susijęs iš [[objektai/asmenys/Kazimieras Kontrimas.md#claim-t-87751|Kazimieras Kontrimas]]: Kazimieras Kontrimas, priklausęs Vilniaus šubravcų draugijai, pasirinko senovės lietuvių dievybės Pokliaus vardą.
@@ -225,8 +217,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192485
+
 ## Citatos
 
 - id: c-55460
@@ -246,28 +237,17 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
     gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
     viu.
-  citata_rodoma: |
-    Legaliai veikė įvai­
-    rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­
-    tardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­
-    spektyvoje numatomų įgyvendinti tikslų. Ypač pagarsėjo
-    Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė
-    universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
-    ventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­
-    matą bei netikrų krikščionių dievus, draugijos nariai pasivadino
-    senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­
-    kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
-    gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
-    viu.
+  citata_rodoma: "Legaliai veikė įvai­\nrios filantropinės organizacijos ir susivienijimai, kurių nariai ap­\ntardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­\nspektyvoje numatomų įgyvendinti tikslų. Ypač pagarsėjo \nVilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė \nuniversiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­\nventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­\nmatą bei netikrų krikščionių dievus, draugijos nariai pasivadino \nsenovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­\nkūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­\ngantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla- \nviu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55109
-    - t-55110
-    - t-188020
+    - t-001
+    - t-002
+    - t-005
+
 - id: c-55461
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -282,23 +262,15 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     lioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­
     jos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­
     suotinumą ir universalumą3.
-  citata_rodoma: |
-    Šubravcų draugijos kodekse suformuluotos narių elgesio
-    ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­
-    mų. Girtavimo, azartinių žaidimų smerkimas, kova prieš asme­
-    nines bei visuomenines ydas rodė ryškų šios organizacijos švie­
-    tėjiškos veiklos pobūdį. Pavyzdžiui, XII šubravcų kodekso
-    straipsnis reikalavo, kad draugijos narys kauptų nuosavą bib­
-    lioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­
-    jos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­
-    suotinumą ir universalumą3.
+  citata_rodoma: "Šubravcų draugijos kodekse suformuluotos narių elgesio \nir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­\nmų. Girtavimo, azartinių žaidimų smerkimas, kova prieš asme­\nnines bei visuomenines ydas rodė ryškų šios organizacijos švie­\ntėjiškos veiklos pobūdį. Pavyzdžiui, XII šubravcų kodekso \nstraipsnis reikalavo, kad draugijos narys kauptų nuosavą bib­\nlioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­\njos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­\nsuotinumą ir universalumą3."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55111
+    - t-003
+
 - id: c-55462
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -311,21 +283,15 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     mingųjų kasdienio gyvenimo vaizdai, negailestinga baudžia­
     vos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­
     lizmo išgarsino draugiją net už Lietuvos ribų.
-  citata_rodoma: |
-    Draugijos narių leidžiamas
-    humoristinis laikraštis Wiadomości brukowe (Grindinio žinios),
-    kuriame aktyviai bendradarbiavo ir M. Balinskis, tęsė XVIII a.
-    Anglijoje leidžiamo žurnalo Spectator tradicijas. Satyriniai kil­
-    mingųjų kasdienio gyvenimo vaizdai, negailestinga baudžia­
-    vos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­
-    lizmo išgarsino draugiją net už Lietuvos ribų.
+  citata_rodoma: "Draugijos narių leidžiamas \nhumoristinis laikraštis Wiadomości brukowe (Grindinio žinios), \nkuriame aktyviai bendradarbiavo ir M. Balinskis, tęsė XVIII a. \nAnglijoje leidžiamo žurnalo Spectator tradicijas. Satyriniai kil­\nmingųjų kasdienio gyvenimo vaizdai, negailestinga baudžia­\nvos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­\nlizmo išgarsino draugiją net už Lietuvos ribų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55112
+    - t-004
+
 - id: c-171253
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -345,7 +311,8 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188109
+    - t-007
+
 - id: c-175279
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -360,18 +327,11 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     monė (taip pat labiau hipotetinė), jog A. Marcinovskis
     buvo J. Zavadskio proteguojamas ir, būtent jo padedamas,
     tapo garsiu Vilniaus leidėju.
-  citata_rodoma: |
-    Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i
-    Roztrząsania Naukowe“ puslapiuose anonimiškumas buvo
-    įprastas reiškinys. Šio leidinio, kuris buvo sumanytas kaip
-    šubravcų tradicijų tęsėjas, autoriai buvo aštuoniolika
-    buvusių Vilniaus universiteto profesorių, astuoni su šia
-    įstaiga nesusiję mokslininkai ir devyniolika literatų, kurių
-    dauguma buvo to universiteto absolventai.
+  citata_rodoma: "Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i\nRoztrząsania Naukowe“ puslapiuose anonimiškumas buvo\nįprastas reiškinys. Šio leidinio, kuris buvo sumanytas kaip\nšubravcų tradicijų tęsėjas, autoriai buvo aštuoniolika\nbuvusių Vilniaus universiteto profesorių, astuoni su šia\nįstaiga nesusiję mokslininkai ir devyniolika literatų, kurių\ndauguma buvo to universiteto absolventai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192485
+    - t-008

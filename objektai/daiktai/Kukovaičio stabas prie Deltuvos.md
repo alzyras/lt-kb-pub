@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-189765"></a>
 - t-001
-  global_id: t-189765
   teiginys: "Narbutas, remdamasis Strijkovskiu, rašo, kad Kukovaičio stabas prie Deltuvos stovėjo ant kalno, buvo medinis ir milžino išvaizdos."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,7 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172648
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis Strijkovskiu, rašo, kad Kukovaičio stabas prie Deltuvos stovėjo ant kalno, buvo medinis ir milžino išvaizdos.'
@@ -79,8 +78,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189765
+
 ## Citatos
 
 - id: c-172648
@@ -94,15 +92,11 @@ Nenurodyta
     siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
     nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
     šventykla.
-  citata_rodoma: |
-    Lietuviams buvo žinomas dievinamų asmenų stabų staty­
-    mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
-    čio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,
-    milžino išvaizdos.
+  citata_rodoma: "Lietuviams buvo žinomas dievinamų asmenų stabų staty­\nmas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-\nčio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,\nmilžino išvaizdos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189765
+    - t-001

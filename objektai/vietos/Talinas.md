@@ -46,8 +46,7 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 ## Teiginiai
 
 <a id="claim-t-136207"></a>
-- t-001
-  global_id: t-136207
+- t-006
   teiginys: "Balińskis Revelio, dabartinio Talino, atsiradimą siejo su danais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -66,8 +65,7 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     - c-124187
 
 <a id="claim-t-136208"></a>
-- t-002
-  global_id: t-136208
+- t-008
   teiginys: "1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sujungė Vilnių, Rygą ir Taliną rankomis susikibusių žmonių grandine."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,8 +84,7 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     - c-124186
 
 <a id="claim-t-136209"></a>
-- t-003
-  global_id: t-136209
+- t-007
   teiginys: "Rusų tautybės gyventojams buvo lengviau keltis į Taliną, nes jame vyravo jiems sava rusakalbė aplinka."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,8 +103,7 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     - c-124188
 
 <a id="claim-t-136210"></a>
-- t-004
-  global_id: t-136210
+- t-010
   teiginys: "Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,8 +119,7 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     - c-124189
 
 <a id="claim-t-136212"></a>
-- t-005
-  global_id: t-136212
+- t-009
   teiginys: "1609 m. kovo 16 d. Jonas Karolis Chodkevičius sužinojo, kad iš Talino išsiųstas švedų pastiprinimas buvo 50 km nuo Piarnu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -184,26 +179,15 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     tas pastiprinimas jau 50 km nuo Piarnu,
     kovo 16 d. naktį Jonas Karolis Chodkevičius
     įsakė nedelsiant pulti Piarnu įtvirtinimus.
-  citata_rodoma: |
-    LDK
-    etmono Jono Karolio Chodkevičiaus vado-
-    vaujama kariuomenė pasiekė Piarnu, tačiau
-
-    ## Puslapis 113
-
-    nepaisant įdėtų pastangų, jie buvo pastebėti
-    ir netikėtas antpuolis nepavyko. Sužinojęs,
-    kad iš Talino švedams į pagalbą išsiųs-
-
-    tas pastiprinimas jau 50 km nuo Piarnu,
-    kovo 16 d.
+  citata_rodoma: "LDK\netmono Jono Karolio Chodkevičiaus vado-\nvaujama kariuomenė pasiekė Piarnu, tačiau\n\n## Puslapis 113\n\nnepaisant įdėtų pastangų, jie buvo pastebėti\nir netikėtas antpuolis nepavyko. Sužinojęs,\nkad iš Talino švedams į pagalbą išsiųs-\n\ntas pastiprinimas jau 50 km nuo Piarnu,\nkovo 16 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-136212
+    - t-009
+
 - id: c-124186
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -226,26 +210,15 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     priimti Lietuvai palankius sprendimus, parodė didelį Lietuvos gyventojų
     sąmoningumą ir apsisprendimą reikalauti dar didesnių nuolaidų iš Mas-
     kvos.
-  citata_rodoma: |
-    LPS staigus populiarumas ir masiškumas
-    (Lietuvoje nebuvo kampelio, kuriame nebūtų įsikūręs Sąjūdžio skyrius ar
-    Gyvasis Baltijos kelias – rankomis susikibusių žmonių
-    grandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d.
-    A. Petrovo nuotrauka
-
-    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
-    239
-    iniciatyvinė grupė), jo pasiekti rezultatai pirmiausia priverčiant LSSR AT
-    priimti Lietuvai palankius sprendimus, parodė didelį Lietuvos gyventojų
-    sąmoningumą ir apsisprendimą reikalauti dar didesnių nuolaidų iš Mas-
-    kvos.
+  citata_rodoma: "LPS staigus populiarumas ir masiškumas \n(Lietuvoje nebuvo kampelio, kuriame nebūtų įsikūręs Sąjūdžio skyrius ar \nGyvasis Baltijos kelias – rankomis susikibusių žmonių  \ngrandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d.  \nA. Petrovo nuotrauka\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n239\niniciatyvinė grupė), jo pasiekti rezultatai pirmiausia priverčiant LSSR AT \npriimti Lietuvai palankius sprendimus, parodė didelį Lietuvos gyventojų \nsąmoningumą ir apsisprendimą reikalauti dar didesnių nuolaidų iš Mas-\nkvos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-136208
+    - t-008
+
 - id: c-124187
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -258,18 +231,15 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     atsiradimą dar anksčiau turi būti dėkingas danams. Teutonų
     ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
     gonybę, Baltijos pakrantėse pagausino miestų ir pilių.
-  citata_rodoma: |
-    Revelis [Talinas] už savo
-    atsiradimą dar anksčiau turi būti dėkingas danams. Teutonų
-    ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
-    gonybę, Baltijos pakrantėse pagausino miestų ir pilių.
+  citata_rodoma: "Revelis [Talinas] už savo\natsiradimą dar anksčiau turi būti dėkingas danams. Teutonų\nordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­\ngonybę, Baltijos pakrantėse pagausino miestų ir pilių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-136207
+    - t-006
+
 - id: c-124188
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -286,24 +256,15 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     218
     Lietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m. lietu-
     viai sudarė apie 80 proc. visų gyventojų.
-  citata_rodoma: |
-    – atvykėliai iš SSRS. Rusų tautybės gyventojams keltis į
-    naujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas
-    dalykas keltis gyventi į Rygą, Taliną, Vilnių, kur vyravo sava, rusakalbė
-    aplinka („svoji“), visai kas kita – važiuoti į niekada negirdėtus miestelius,
-    kur vyresnieji net nekalba rusiškai. Nors sovietmečiu daug rusakalbių apsi-
-    gyveno Vilniuje, Klaipėdoje ir Sniečkuje (dabar Visaginas), suindustrintoje
-
-    L I E T U V O S  I S T O R I J A
-    218
-    Lietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m.
+  citata_rodoma: "– atvykėliai iš SSRS. Rusų tautybės gyventojams keltis į \nnaujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas \ndalykas keltis gyventi į Rygą, Taliną, Vilnių, kur vyravo sava, rusakalbė \naplinka („svoji“), visai kas kita – važiuoti į niekada negirdėtus miestelius, \nkur vyresnieji net nekalba rusiškai. Nors sovietmečiu daug rusakalbių apsi-\ngyveno Vilniuje, Klaipėdoje ir Sniečkuje (dabar Visaginas), suindustrintoje\n\nL I E T U V O S  I S T O R I J A\n218\nLietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-136209
+    - t-007
+
 - id: c-124189
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -318,4 +279,4 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-136210
+    - t-010

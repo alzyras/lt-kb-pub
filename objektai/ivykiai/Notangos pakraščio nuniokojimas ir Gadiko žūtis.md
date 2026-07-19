@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-62418"></a>
 - t-001
-  global_id: t-62418
   teiginys: "Komtūras su Vonsdorfo vyrais nuniokojo taikos sutartims nepritarusį Notangos pakraštį ir nužudė vadą Gadiką su dviem sūnumis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Nenurodyta
     - c-63034
 
 <a id="claim-t-194412"></a>
-- t-002
-  global_id: t-194412
+- t-003
   teiginys: "Apie vienos Notangos dalies nuniokojimą Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais], kurie jam buvo paklusnūs, ir įsibrovė į vieną Notangos žemės pakraštį [confinium], nenorėjusį pritarti taikos sutartims."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,25 +89,12 @@ Nenurodyta
     drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su
     moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.
     77 (76).
-  citata_rodoma: |
-    Apie vienos Notangos dalies nuniokojimą
-
-      Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],
-    kurie jam buvo paklusnūs,  ir įsibrovė  į vieną Notangos žemės pakraštį [confinium],
-    nenorėjusį pritarti taikos sutartims, pastaruoju metu sudarytoms su kitomis [žemėmis],
-    ir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė
-    drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su
-    moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.
-
-
-
-
-                   77 (76).
+  citata_rodoma: "Apie vienos Notangos dalies nuniokojimą\n\n  Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],\nkurie jam buvo paklusnūs,  ir įsibrovė  į vieną Notangos žemės pakraštį [confinium],\nnenorėjusį pritarti taikos sutartims, pastaruoju metu sudarytoms su kitomis [žemėmis],\nir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė\ndrauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su\nmoterimis ir mažais vaikais išsivarė kartu su kitu grobiu.\n\n\n\n\n               77 (76)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62418
-    - t-194412
+    - t-001
+    - t-003

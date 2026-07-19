@@ -32,7 +32,6 @@ Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikšči
 
 <a id="claim-t-186196"></a>
 - t-001
-  global_id: t-186196
   teiginys: "Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikščių, vadovavusių padalytai priešo kariuomenei."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikšči
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169557
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikščių, vadovavusių padalytai priešo kariuomenei.'
@@ -67,8 +66,7 @@ Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikšči
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186196
+
 ## Citatos
 
 - id: c-169557
@@ -85,18 +83,11 @@ Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikšči
     rai pasirengę mūšiui ir negaišdami stos į kovą. Todėl
     Algirdas įsakė kariuomenei sustoti ir pasirengti kau­
     tynėms.
-  citata_rodoma: |
-    Pražygiavęs Kanevą ir Čerka­
-    sus, jis priėjo vietą, kurią žmonės vadina Mėlynaisiais
-    Vandenimis, čia bekraštėje lygumoje pasirodė ir prie­
-    šas. Didžiulę į tris dalis padalytą kariuomenę vedė
-    trys kunigaikščiai: Kutlubugas sultanas, Chadžibėjus
-    Girėjus ir Dimitras sultanas. Buvo aišku, jog jie ge­
-    rai pasirengę mūšiui ir negaišdami stos į kovą.
+  citata_rodoma: "Pražygiavęs Kanevą ir Čerka­\nsus, jis priėjo vietą, kurią žmonės vadina Mėlynaisiais\nVandenimis, čia bekraštėje lygumoje pasirodė ir prie­\nšas. Didžiulę į tris dalis padalytą kariuomenę vedė\ntrys kunigaikščiai: Kutlubugas sultanas, Chadžibėjus\nGirėjus ir Dimitras sultanas. Buvo aišku, jog jie ge­\nrai pasirengę mūšiui ir negaišdami stos į kovą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186196
+    - t-001

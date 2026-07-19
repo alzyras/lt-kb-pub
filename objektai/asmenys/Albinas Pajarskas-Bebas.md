@@ -39,7 +39,6 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
 
 <a id="claim-t-39473"></a>
 - t-001
-  global_id: t-39473
   teiginys: "1949 m. Albinas Pajarskas-Bebas buvo Algimanto apygardos štabo viršininkas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39473
+    - t-001

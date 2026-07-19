@@ -32,7 +32,6 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
 
 <a id="claim-t-87712"></a>
 - t-001
-  global_id: t-87712
   teiginys: "Suomijos kunigaikštis Jonas Vilniuje sudarė santuoką su Kotryna Jogailaite ir vėliau tapo Švedijos karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87712
+    - t-001

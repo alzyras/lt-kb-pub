@@ -39,8 +39,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 ## Teiginiai
 
 <a id="claim-t-64236"></a>
-- t-001
-  global_id: t-64236
+- t-003
   teiginys: "Agresyviai spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, 1939 m. spalio 10 d. pasirašyta Vilniaus perdavimo ir SSRS bei Lietuvos savitarpio pagalbos sutartis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 
 <a id="claim-t-64237"></a>
 - t-002
-  global_id: t-64237
   teiginys: "Viačeslavas Molotovas pakvietė Lietuvos ministrą Juozą Urbšį atvykti į Maskvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-22051
 
 <a id="claim-t-64238"></a>
-- t-003
-  global_id: t-64238
+- t-005
   teiginys: "1940 m. birželio 14 d. Juozas Urbšys iš Viačeslavo Molotovo gavo ultimatumą, kuriuo reikalauta įsileisti papildomus sovietų karinius dalinius ir pakeisti vyriausybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +96,6 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 
 <a id="claim-t-64239"></a>
 - t-004
-  global_id: t-64239
   teiginys: "Viačeslavas Molotovas 1940 m. birželio 7 d. Maskvoje brutaliu elgesiu sukrėtė Antaną Merkį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,8 +114,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-65044
 
 <a id="claim-t-64240"></a>
-- t-005
-  global_id: t-64240
+- t-001
   teiginys: "1939 m. rugsėjo 28 d. Viačeslavas Molotovas ir Joachimas von Ribbentropas pasirašė sutartį, kurios slaptasis protokolas Lietuvą priskyrė SSRS įtakos sferai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -156,16 +151,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     spaudimą Lietuvai kaip ranka nuėmė.
     Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
     kvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną.
-  citata_rodoma: |
-    Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
-    kvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną.
+  citata_rodoma: "Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-\nkvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64237
+    - t-002
+
 - id: c-65044
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -178,15 +172,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     1939 m. spalio 10 d. sutarties.
     Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas
     sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
-  citata_rodoma: |
-    sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
+  citata_rodoma: "sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64239
+    - t-004
+
 - id: c-65045
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -201,15 +195,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
     SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
     spaudimą Lietuvai kaip ranka nuėmė.
-  citata_rodoma: |
-    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
+  citata_rodoma: "Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64240
+    - t-001
+
 - id: c-65046
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -226,15 +220,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto.
-  citata_rodoma: |
-    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
+  citata_rodoma: "laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64238
+    - t-005
+
 - id: c-65047
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -248,12 +242,11 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
     V. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir
     SSRS ir Lietuvos savitarpio pagalbos sutartis.
-  citata_rodoma: |
-    jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
+  citata_rodoma: "jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64236
+    - t-003

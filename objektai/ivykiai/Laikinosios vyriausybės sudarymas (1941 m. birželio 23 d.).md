@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20252"></a>
 - t-001
-  global_id: t-20252
   teiginys: "1941 m. birželio 23 d. sudarytos Laikinosios vyriausybės vadovu tapo literatūros dėstytojas Juozas Ambrazevičius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,12 +84,11 @@ Nenurodyta
     arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu
     tapo literatūros dėstytojas Juozas Ambrazevičius. LV vyravo krikščionių
     demokratų pakraipos asmenys.
-  citata_rodoma: |
-    tapo literatūros dėstytojas Juozas Ambrazevičius. LV vyravo krikščionių
+  citata_rodoma: "tapo literatūros dėstytojas Juozas Ambrazevičius. LV vyravo krikščionių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20252
+    - t-001

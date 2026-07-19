@@ -37,7 +37,6 @@ p. 234, Dainų ir eilėraščių rinkinys „Kovos keliu žengiant“ 1949 m. Le
 
 <a id="claim-t-41546"></a>
 - t-001
-  global_id: t-41546
   teiginys: "Dainų ir eilėraščių rinkinį „Kovos keliu žengiant“ 1949 m. leido Prisikėlimo apygardos Maironio rinktinės štabas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,13 +64,11 @@ p. 234, Dainų ir eilėraščių rinkinys „Kovos keliu žengiant“ 1949 m. Le
     p. 234, „Partizanų šuvių aidas“ 1956 m. Nr. 1 (20) Prisikėlimo apygardos partizanų leidinys, GAM.
     p. 234, Dainų ir eilėraščių rinkinys „Kovos keliu žengiant“ 1949 m. Leidinį leido Prisikėlimo
     apygardos Maironio rinktinės štabas, GAM.
-  citata_rodoma: |
-    p. 234, Dainų ir eilėraščių rinkinys „Kovos keliu žengiant“ 1949 m. Leidinį leido Prisikėlimo
-    apygardos Maironio rinktinės štabas, GAM.
+  citata_rodoma: "p. 234, Dainų ir eilėraščių rinkinys „Kovos keliu žengiant“ 1949 m. Leidinį leido Prisikėlimo\napygardos Maironio rinktinės štabas, GAM."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41546
+    - t-001

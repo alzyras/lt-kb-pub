@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-67058"></a>
 - t-001
-  global_id: t-67058
   teiginys: "Vykdant baudžiavos panaikinimo reformą valstiečiai bijojo naujų prievolių, bruzdėjo ir atsisakinėjo sudaryti sutartis su ponais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-67059"></a>
 - t-002
-  global_id: t-67059
   teiginys: "Baudžiavos panaikinimo reformoje su valstiečiais turėjo būti sudarytos specialios sutartys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,17 +80,15 @@ Nenurodyta
     valstiečiais turėjo būti sudarytos specialios sutartys. Tačiau
     praėjo paskirtasis laikas (2 metai), o tokių sutarčių teatsirado
     vos tiktai keletas.
-  citata_rodoma: |
-    Su valstiečiais turėjo būti sudarytos specialios sutartys. Tačiau
-    praėjo paskirtasis laikas (2 metai), o tokių sutarčių teatsirado
-    vos tiktai keletas.
+  citata_rodoma: "Su valstiečiais turėjo būti sudarytos specialios sutartys. Tačiau\npraėjo paskirtasis laikas (2 metai), o tokių sutarčių teatsirado\nvos tiktai keletas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67059
+    - t-002
+
 - id: c-67108
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -108,15 +104,11 @@ Nenurodyta
     sios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais
     gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo
     daryti sutartis.
-  citata_rodoma: |
-    Valstiečiai tuo tarpu pradėjo būkštauti, kad iš skelbiamo-
-    sios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais
-    gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo
-    daryti sutartis.
+  citata_rodoma: "Valstiečiai tuo tarpu pradėjo būkštauti, kad iš skelbiamo-\nsios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais\ngali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo\ndaryti sutartis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67058
+    - t-001

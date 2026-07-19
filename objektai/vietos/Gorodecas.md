@@ -38,7 +38,6 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 
 <a id="claim-t-28339"></a>
 - t-001
-  global_id: t-28339
   teiginys: "Gorodecas buvo viena iš paskutinių rytinių slavų pilių į rytus nuo lietuvių etnografinės ribos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,6 +80,7 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-28243
@@ -100,4 +100,4 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28339
+    - t-001

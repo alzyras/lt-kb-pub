@@ -4,22 +4,26 @@ pavadinimas: 'Vokiečių ordinas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
+  - '1387 m.'
+  - '1404 m.'
   - '1413 m.'
   - '1417 m.'
   - '1418 m.'
   - '1422 m.'
+  - '1655 m.'
   - '2026 m.'
-date_start: '1413'
+date_start: '1387'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - ordinas
-amziai:
-  - 'XV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +46,7 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
 ## Teiginiai
 
 <a id="claim-t-182835"></a>
-- t-001
-  global_id: t-182835
+- t-005
   teiginys: "Vokiečių ordino magistrui uždraudus į Lietuvą įvežti druską, Vytautas liepė vokiečių pirkliams iki Sekminių išvykti iš Lietuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +62,7 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
     - c-166242
 
 <a id="claim-t-182837"></a>
-- t-002
-  global_id: t-182837
+- t-004
   teiginys: "Vokiečių ordinas turėjo didelę įtaką Vytauto laikų prekybai, nes per jo žemes ėjo svarbūs keliai į Vakarų Europą ir Dancigą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +79,7 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
     - c-36968
 
 <a id="claim-t-182838"></a>
-- t-003
-  global_id: t-182838
+- t-017
   teiginys: "Vokiečių ordinui draudžiant į Lietuvą įvežti ginklus ir arklius, Vytautas jų gaudavo iš Rygos ir Krokuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,8 +95,7 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
     - c-166243
 
 <a id="claim-t-182839"></a>
-- t-004
-  global_id: t-182839
+- t-020
   teiginys: "Grabovo suvažiavime Vytautas pareikalavo, kad Ordinas atlygintų už paimtas prekes ir nužudytų pirklių šeimoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,8 +111,7 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
     - c-166242
 
 <a id="claim-t-183198"></a>
-- t-005
-  global_id: t-183198
+- t-021
   teiginys: "Vokiečių ordinas trukdė Vytautui siekti, kad Lietuva būtų pripažinta Europos katalikiškųjų šalių dalimi."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -131,8 +130,7 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
     - c-166585
 
 <a id="claim-t-183199"></a>
-- t-006
-  global_id: t-183199
+- t-022
   teiginys: "Net po Žalgirio mūšio pagrindinė Vytauto konflikto su Vokiečių ordinu priežastis buvo Žemaitija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -151,8 +149,7 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
     - c-166586
 
 <a id="claim-t-183200"></a>
-- t-007
-  global_id: t-183200
+- t-023
   teiginys: "1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -173,6 +170,54 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
   vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
   pagrindžia:
     - c-166587
+
+<a id="claim-t-201486"></a>
+- t-024
+  teiginys: "Vokiečių ordinas, nukariaudamas prūsus, skalvius ir nadruvius, pasiekė ir peržengė Nemuno žemupį."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184833
+
+<a id="claim-t-201487"></a>
+- t-025
+  teiginys: "1404 m. Jogaila ir Vytautas su Vokiečių ordinu sudarė vadinamąją Racionžo taikos sutartį."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184834
+
+<a id="claim-t-201488"></a>
+- t-026
+  teiginys: "Po Lietuvos krikšto 1387 m. pradėjo rastis naujų Lietuvos ir Vokiečių ordino santykių pavidalų."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184835
+
+<a id="claim-t-201489"></a>
+- t-027
+  teiginys: "Vokiečių ordino valstybėje įsikūrę dideli miestai, stambūs prekybos centrai, kaip antai Dancigas (Gdanskas), Torunė, Elbingas, prekiavo su Vakarų Europa."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184836
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176738|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Lucko suvažiavimas Lietuvos istorijoje siejamas su Vytauto vainikavimo planu, kurį rėmė Zigmantas I ir Vokiečių ordinas.
 - susijęs iš [[objektai/autoriai/Jakštas, J.md#claim-t-71518|Jakštas, J]]: J. Jakštas yra veikalo Vokiečių Ordinas ir Lietuva Vytenio ir Gedimino metu autorius.
 - susijęs iš [[objektai/daiktai/Vytauto ir Julijonos karūnos.md#claim-t-19614|Vytauto ir Julijonos karūnos]]: Lucko suvažiavimas į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas.
@@ -235,7 +280,8 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182837
+    - t-004
+
 - id: c-166242
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -256,8 +302,9 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182835
-    - t-182839
+    - t-005
+    - t-020
+
 - id: c-166243
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -279,7 +326,8 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182838
+    - t-017
+
 - id: c-166585
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -298,7 +346,8 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183198
+    - t-021
+
 - id: c-166586
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -317,7 +366,8 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183199
+    - t-022
+
 - id: c-166587
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -333,7 +383,77 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183200
+    - t-023
+
+- id: c-184833
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Vokiečių ordinas, nukariaudamas prūsus,
+    skalvius ir nadruvius, pasiekė ir peržengė Nemuno žemupį. Nemuno prekybos kelias
+    buvo ilgam uždarytas, nes Ordino vadovybė irgi griežtai draudė prekybą su Lietuva.
+    Ordinas, talkinamas gausių kryžeivių iš visos katalikiškos Europos, veržėsi į Lietu-
+    vą.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-024
+
+- id: c-184834
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    1404 m. Jogaila ir Vytautas su
+    Vokiečių ordinu sudarė vadinamąją Racionžo taikos sutartį. Nors karai dar nesibaigė,
+    bet prie Kauno ilgą laiką, iki pat 1655 m., nebuvo kaunamasi.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-025
+
+- id: c-184835
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Po Lietuvos krikšto 1387 m. pradėjo ras-
+    tis naujų Lietuvos ir Vokiečių ordino santykių pavidalų. Kovas pertraukdavo derybos,
+    paliaubos ir kitokios sutartys. Derybose ir sutartyse buvo nuolat minimi Lietuvos ir
+    Vokiečių ordino prekybos reikalai.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-026
+
+- id: c-184836
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Racionžo sutarties čia atsirado palankios sąlygos pirkliams ir amatinin-
+    kams kurtis. Vokiečių ordino valstybėje įsikūrę dideli miestai, stambūs prekybos cen-
+    trai, kaip antai Dancigas (Gdanskas), Torunė, Elbingas, prekiavo su Vakarų Europa.
+    Kalbamų miestų pirklius masino prekybai atsiveriančios Lietuvos tiekiamos prekės,
+    ir jie nedelsdami ėmė skverbtis į Lietuvą.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-027
+
 ## Ryšiai
 - Vokiečių ordinas valdė [[objektai/vietos/Pamaris]], [[objektai/vietos/Žemaitija]]
 - Vokiečių ordinas rėmė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

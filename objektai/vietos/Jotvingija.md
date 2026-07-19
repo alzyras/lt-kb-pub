@@ -39,8 +39,7 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
 ## Teiginiai
 
 <a id="claim-t-68020"></a>
-- t-001
-  global_id: t-68020
+- t-002
   teiginys: "Vytautas rašte Zigmantui teigė, kad Sūdavija su Jotvingija, arba Dzūkija, yra lietuvių kraštai, dėl kurių ginčo negali kilti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
     - c-37401
 
 <a id="claim-t-68021"></a>
-- t-002
-  global_id: t-68021
+- t-001
   teiginys: "1279 m. per badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -123,21 +121,15 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
     ja su Jotvingija (Dzūkija) yra tokie lietuvių kraštai, dėl ku­
     rių ir ginčo negali kilti; tad jei sprendimas nebus atmainytas,
     kol gyvas bus, nepalaikys su Zigmantu taikos^3 ).
-  citata_rodoma: |
-    Po to parašė jam dar kitą raš­
-    tą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija
-    — tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­
-    mos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­
-    ja su Jotvingija (Dzūkija) yra tokie lietuvių kraštai, dėl ku­
-    rių ir ginčo negali kilti; tad jei sprendimas nebus atmainytas,
-    kol gyvas bus, nepalaikys su Zigmantu taikos^3 ).
+  citata_rodoma: "Po to parašė jam dar kitą raš­\ntą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija\n— tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­\nmos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­\nja su Jotvingija (Dzūkija) yra tokie lietuvių kraštai, dėl ku­\nrių ir ginčo negali kilti; tad jei sprendimas nebus atmainytas,\nkol gyvas bus, nepalaikys su Zigmantu taikos^3 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68020
+    - t-002
+
 - id: c-67714
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -158,6 +150,7 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68021
+    - t-001
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

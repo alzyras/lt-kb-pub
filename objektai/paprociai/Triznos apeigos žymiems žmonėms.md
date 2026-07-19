@@ -47,23 +47,8 @@ Nenurodyta
 
 <a id="claim-t-189899"></a>
 - t-001
-  global_id: t-189899
   teiginys: "Narbutas trizną apibūdina kaip kai kurioms lietuvių genties tautoms žinotas apeigas, atliekamas laidojant labai žymius žmones."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172782
-    - c-001
-<a id="claim-t-194634"></a>
-- t-002
-  global_id: t-194634
-  teiginys: "Lietuvoje gyveno garsi Triznų giminė22."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -72,7 +57,20 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177032
-    - c-002
+
+<a id="claim-t-194634"></a>
+- t-002
+  teiginys: "Lietuvoje gyveno garsi Triznų giminė22."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177032
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas trizną apibūdina kaip kai kurioms lietuvių genties tautoms žinotas apeigas, atliekamas laidojant labai žymius žmones.'
@@ -88,8 +86,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189899
 - c-002
   santrauka: 'Lietuvoje gyveno garsi Triznų giminė22.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -106,8 +102,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194634
+
 ## Citatos
 
 - id: c-172782
@@ -122,19 +117,13 @@ Nenurodyta
     niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
     kai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir
     kunigas Jeronimas Kninskis.
-  citata_rodoma: |
-    Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­
-    tuvių genties tautos žinojo trizną. Tai buvo apeigos, atlieka­
-    mos laidojant labai žymius žmones. 21
-    21
-    Rusioje tai buvo vadinama “Wyt’po mertwom”.
+  citata_rodoma: "Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­\ntuvių genties tautos žinojo trizną. Tai buvo apeigos, atlieka­\nmos laidojant labai žymius žmones. 21\n21\nRusioje tai buvo vadinama “Wyt’po mertwom”."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189899
 - id: c-177032
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -148,18 +137,12 @@ Nenurodyta
     lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
     joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
     tiečių, tarp kurių buvo ir nemažai šimtamečių senolių.
-  citata_rodoma: |
-    Lietuvoje gyveno garsi
-    Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
-    gardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos
-    apeigų paprotį, kiekviena tauta kitonišką.
-    Žmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­
-    lėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai
-    kuriose vietose žmonos apverkdavo vyrus prie pačių kapų.
+  citata_rodoma: "Lietuvoje gyveno garsi\nTriznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-\ngardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos\napeigų paprotį, kiekviena tauta kitonišką.\nŽmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­\nlėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai\nkuriose vietose žmonos apverkdavo vyrus prie pačių kapų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194634
+    - t-001
+    - t-002

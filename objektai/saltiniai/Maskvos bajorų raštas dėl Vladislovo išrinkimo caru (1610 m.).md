@@ -37,7 +37,6 @@ Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą, kuriuo (1610 m
 
 <a id="claim-t-02240"></a>
 - t-001
-  global_id: t-02240
   teiginys: "1610 m. Maskvos bajorų raštu buvo patvirtintas Vladislovo išrinkimas caru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,13 +67,11 @@ Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą, kuriuo (1610 m
     tai pripažino jį caru ir atsisakė nuo visų pretenzijų į Maskvos
     sostą. Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą,
     kuriuo (1610 m.) buvo patvirtintas jo išrinkimas caru.
-  citata_rodoma: |
-    Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą,
-    kuriuo (1610 m.) buvo patvirtintas jo išrinkimas caru.
+  citata_rodoma: "Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą,\nkuriuo (1610 m.) buvo patvirtintas jo išrinkimas caru."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02240
+    - t-001

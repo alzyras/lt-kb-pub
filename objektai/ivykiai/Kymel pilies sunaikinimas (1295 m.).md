@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-31436"></a>
 - t-001
-  global_id: t-31436
   teiginys: "1295 m. kryžiuočiai prie Nemuno sunaikino stiprią Kymel pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,16 +87,11 @@ Nenurodyta
     Šitas kelerių metų ordino žygių Lietuvon inventoriškas išskai­
     čiavimas yra maža išpiova apie pradedančius išsivystyti ordino ir
     lietuvių santykius.
-  citata_rodoma: |
-    0 1295 kryžiuočiai sunaikino prie Nemuno stiprią
-    pilį « Kymel »^28.
-    Šitas kelerių metų ordino žygių Lietuvon inventoriškas išskai­
-    čiavimas yra maža išpiova apie pradedančius išsivystyti ordino ir
-    lietuvių santykius.
+  citata_rodoma: "0 1295 kryžiuočiai sunaikino prie Nemuno stiprią\npilį « Kymel »^28.\nŠitas kelerių metų ordino žygių Lietuvon inventoriškas išskai­\nčiavimas yra maža išpiova apie pradedančius išsivystyti ordino ir\nlietuvių santykius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31436
+    - t-001

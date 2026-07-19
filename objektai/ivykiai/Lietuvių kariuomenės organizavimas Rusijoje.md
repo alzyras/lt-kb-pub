@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-66678"></a>
 - t-001
-  global_id: t-66678
   teiginys: "Po revoliucijos Rusijoje lietuviai pradėjo telkti lietuvius karininkus ir kareivius į atskiras kariuomenės dalis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-66679"></a>
 - t-002
-  global_id: t-66679
   teiginys: "Lietuvių karininkams pavyko suorganizuoti kelis lietuviškus batalionus Vitebske, Smolenske, Rovnoje, Sibire ir kitur."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66679
+    - t-002
+
 - id: c-66876
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -105,4 +104,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66678
+    - t-001

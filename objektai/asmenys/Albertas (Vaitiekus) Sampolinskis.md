@@ -32,7 +32,6 @@ Juos papildė Lenkijos karalystės pinigais suverbuoti žmonės ir lenkų riteri
 
 <a id="claim-t-39991"></a>
 - t-001
-  global_id: t-39991
   teiginys: "Albertas (Vaitiekus) Sampolinskis vadovavo karaliaus dvarionims jungtinėje lietuvių ir lenkų kariuomenėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,21 +65,11 @@ Juos papildė Lenkijos karalystės pinigais suverbuoti žmonės ir lenkų riteri
     vių ir lenkų kariuomenę, senųjų šaltinių
     duomenimis, sudarė 30000 (ar 35000)
     karių.
-  citata_rodoma: |
-    Juos papildė Lenkijos karalystės pini-
-    gais suverbuoti žmonės ir lenkų riteriai
-    savanoriai (10 vėliavų), vadovaujami
-    Jono Tarnovskio (būsimo Lenkijos di-
-    džiojo etmono), visų pirma - karaliaus
-    dvarionys, kuriems vadovavo Albertas
-    (Vaitiekus) Sampolinskis. Jungtinę lietu-
-    vių ir lenkų kariuomenę, senųjų šaltinių
-    duomenimis, sudarė 30000 (ar 35000)
-    karių.
+  citata_rodoma: "Juos papildė Lenkijos karalystės pini-\ngais suverbuoti žmonės ir lenkų riteriai\nsavanoriai (10 vėliavų), vadovaujami\nJono Tarnovskio (būsimo Lenkijos di-\ndžiojo etmono), visų pirma - karaliaus\ndvarionys, kuriems vadovavo Albertas\n(Vaitiekus) Sampolinskis. Jungtinę lietu-\nvių ir lenkų kariuomenę, senųjų šaltinių\nduomenimis, sudarė 30000 (ar 35000)\nkarių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39991
+    - t-001

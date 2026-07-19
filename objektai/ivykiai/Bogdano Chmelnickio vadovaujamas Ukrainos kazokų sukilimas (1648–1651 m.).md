@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-39099"></a>
 - t-001
-  global_id: t-39099
   teiginys: "1648 m. vasarą sukilę kazokai veržėsi į LDK pietrytines sritis ir siautėjo Pinsko, Starodubo bei Mozyriaus apylinkėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-39100"></a>
 - t-002
-  global_id: t-39100
   teiginys: "Prie Lojevo priartėjusios Kijevo, Černobylio ir Ovručo kazokų pajėgos buvo triskart gausesnės už LDK kariuomenę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +111,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39099
+    - t-001
+
 - id: c-40904
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -140,4 +139,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39100
+    - t-002

@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-185701"></a>
 - t-001
-  global_id: t-185701
   teiginys: "1321 m. Gediminas Kernavėje atšventė pergalę prieš Rusią, pagerbė dievus ir paleido apmokėtą bei apdovanotą kariuomenę."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-196146"></a>
 - t-002
-  global_id: t-196146
   teiginys: "Nugalėjęs ir apmalšinęs Rusią, Gedi minas Kernavėje atšventė 1321 m e ta i pergalę: tėvų papročiu pa gerbęs dievus, paleido ka riuomenę sumokėjęs atlyginimą ir apdovanojęs dova nomis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,6 @@ Nenurodyta
 
 <a id="claim-t-196147"></a>
 - t-003
-  global_id: t-196147
   teiginys: "Kojelavičiaus pasakojime Gediminas, sėkmingą medžioklę palaikęs ženklu, netoli Kernavės įkūrė Trakus ir perkėlė ten Lietuvos sostinę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -129,43 +126,15 @@ Nenurodyta
     dėtų miestui augti, čia per­
     kėlė iš Kernavės Lietuvos
     sostinę.
-  citata_rodoma: |
-    Mat, kol
-    G e d im in a s n u g a lė tų ­
-    jų  tusu s v e ik in a m a s
-    k a ip
-    R usios
-    d id y sis
-    k u n ig a ik štis
-    2 04
-
-    ## Puslapis 203
-
-    nesustiprėja nugalėtųjų ir nugalėjusiųjų, turinčių vie­
-    ną valdovą, santarvė, kol nuolatinis bendravimas ne-
-    ištrina iš atminties nugalėtųjų ir nugalėjusiųjų sąvo­
-    kos, tol bet kokia menkiausia proga gali sukelti dide­
-    lių neramumų. Nugalėjęs ir apmalšinęs Rusią, Gedi­
-    minas
-    Kernavėje
-    atšventė
-    1321 m e ta i
-    pergalę: tėvų papročiu pa­
-    gerbęs dievus, paleido ka­
-    riuomenę sumokėjęs atlyginimą ir apdovanojęs dova­
-    nomis. Po to ėmėsi taikos meto darbų; kadangi dar
-    nebuvo praėjęs paliaubų su kryžiuočiais laikas, me­
-    džioklėse stengėsi
-    užmiršti karo rūpesčius; tokiomis
-    valandomis galvojo, kaip tvarkyti valstybę, kaip kurti
-    miestus.
+  citata_rodoma: "Mat, kol\nG e d im in a s n u g a lė tų ­\njų  tusu s v e ik in a m a s\nk a ip\nR usios\nd id y sis\nk u n ig a ik štis\n2 04\n\n## Puslapis 203\n\nnesustiprėja nugalėtųjų ir nugalėjusiųjų, turinčių vie­\nną valdovą, santarvė, kol nuolatinis bendravimas ne-\ništrina iš atminties nugalėtųjų ir nugalėjusiųjų sąvo­\nkos, tol bet kokia menkiausia proga gali sukelti dide­\nlių neramumų. Nugalėjęs ir apmalšinęs Rusią, Gedi­\nminas\nKernavėje\natšventė\n1321 m e ta i\npergalę: tėvų papročiu pa­\ngerbęs dievus, paleido ka­\nriuomenę sumokėjęs atlyginimą ir apdovanojęs dova­\nnomis. Po to ėmėsi taikos meto darbų; kadangi dar\nnebuvo praėjęs paliaubų su kryžiuočiais laikas, me­\ndžioklėse stengėsi\nužmiršti karo rūpesčius; tokiomis\nvalandomis galvojo, kaip tvarkyti valstybę, kaip kurti\nmiestus."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185701
+    - t-001
+
 - id: c-178555
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -204,7 +173,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196146
+    - t-002
+
 - id: c-178556
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -236,4 +206,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196147
+    - t-003

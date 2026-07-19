@@ -37,7 +37,6 @@ Radvila, jausdamas, kad priešas didelėmis pajėgomis vis tiek tęs puolimą, �
 
 <a id="claim-t-42357"></a>
 - t-001
-  global_id: t-42357
   teiginys: "1654 m. rugpjūčio 24 d. J. Radvila patyrė pirmąjį savo pralaimėjimą prie Šepelievičių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,17 +70,11 @@ Radvila, jausdamas, kad priešas didelėmis pajėgomis vis tiek tęs puolimą, �
     laimėjimą prie Šepelievičių. Pergalė Šklovo
     mūšyje nesustabdė gausių priešo pajėgų
     veržimosi į LDK.
-  citata_rodoma: |
-    Po mūšio J. Radvila, jaus-
-    damas, kad priešas didelėmis pajėgomis
-
-    vis tiek tęs puolimą, ėmė trauktis ir 1654 m.
-    rugpjūčio 24 dieną patyrė pirmąjį savo pra-
-    laimėjimą prie Šepelievičių.
+  citata_rodoma: "Po mūšio J. Radvila, jaus-\ndamas, kad priešas didelėmis pajėgomis\n\nvis tiek tęs puolimą, ėmė trauktis ir 1654 m.\nrugpjūčio 24 dieną patyrė pirmąjį savo pra-\nlaimėjimą prie Šepelievičių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42357
+    - t-001

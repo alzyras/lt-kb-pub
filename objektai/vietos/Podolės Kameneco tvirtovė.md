@@ -38,7 +38,6 @@ Turkai, nujausdami lenkų ir lietuvių ir privertė ją Atėjo žinia, kad Turki
 
 <a id="claim-t-38639"></a>
 - t-001
-  global_id: t-38639
   teiginys: "Turkai stiprino įtvirtinimus prie Podolės Kameneco tvirtovės, numatydami lenkų ir lietuvių puolimo kryptį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Turkai, nujausdami lenkų ir lietuvių ir privertė ją Atėjo žinia, kad Turki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38639
+    - t-001

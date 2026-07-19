@@ -38,7 +38,6 @@ Lietuvos gyventojų trėmimai 1941, 1944–1953 metais.
 
 <a id="claim-t-21152"></a>
 - t-001
-  global_id: t-21152
   teiginys: "Eugenijaus Grunskio „Lietuvos gyventojų trėmimai 1941, 1944–1953 metais“ išleista Vilniuje 1995 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,12 +65,11 @@ Lietuvos gyventojų trėmimai 1941, 1944–1953 metais.
     Vilnius, 2006.
     Grunskis E. Lietuvos gyventojų trėmimai 1941, 1944–1953 metais. Vilnius,
     1995.
-  citata_rodoma: |
-    Grunskis E. Lietuvos gyventojų trėmimai 1941, 1944–1953 metais. Vilnius,
+  citata_rodoma: "Grunskis E. Lietuvos gyventojų trėmimai 1941, 1944–1953 metais. Vilnius,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21152
+    - t-001

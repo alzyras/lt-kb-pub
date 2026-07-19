@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-66736"></a>
 - t-001
-  global_id: t-66736
   teiginys: "Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir keitė administraciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-66737"></a>
 - t-002
-  global_id: t-66737
   teiginys: "1940 m. liepos 12 d., spaudžiant V. Dekanozovui, nutarta Sovietų Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,15 +105,15 @@ Nenurodyta
     no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
     Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
     Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
-  citata_rodoma: |
-    Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
+  citata_rodoma: "Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66737
+    - t-002
+
 - id: c-66898
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,12 +130,11 @@ Nenurodyta
     LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
     toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
     žurnalai.
-  citata_rodoma: |
-    toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
+  citata_rodoma: "toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66736
+    - t-001

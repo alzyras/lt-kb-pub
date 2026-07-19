@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189940"></a>
 - t-001
-  global_id: t-189940
   teiginys: "Narbutas indus ir kinus laikė tautomis, kurių tautiškumo bruožas buvo senųjų įstatymų, papročių ir visuomenės smulkmenų saugojimas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172823
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas indus ir kinus laikė tautomis, kurių tautiškumo bruožas buvo senųjų įstatymų, papročių ir visuomenės smulkmenų saugojimas.'
@@ -88,8 +87,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189940
+
 ## Citatos
 
 - id: c-172823
@@ -117,24 +115,11 @@ Nenurodyta
     saulio paviršiaus vien todėl, kad jos moralė skyrėsi nuo religi­
     jos vaizdinių, kad dievų žyniai nebuvo filosofai nei filosofijos
     žyniai.
-  citata_rodoma: |
-    Seniausios žemės tautos -  indai ir kinai savo tautiškumo
-    svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
-    nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
-    nimo smulkmenų. Kaip tik tai yra priežastis amžino sąstingio,
-    dėl kurio tos tautos su savo geografine padėtimi ilgai buvo ir
-    dabar tebėra to paties apšvietos, politinių institucijų ir religi­
-    jos lygio. Jokia laiko pažanga, jokia civilizuoto pasaulio per­
-    maina nesutrikdo jų stabilios padėties: amžiais jos stovi ant
-    tos pačios pakopos; niekas jų neskatina ieškoti gerovės žen­
-    giant aukščiau; iš kitų tautų, pasisavinusių svetimus daiktus ir
-    atradimus, jie su panieka tyčiojasi. Jie įnirtę persekioja net
-    norą kaip nors pakeisti senovę. Tokia pat dvasia gyveno dau­
-    gybė senųjų Azijos tautų.
+  citata_rodoma: "Seniausios žemės tautos -  indai ir kinai savo tautiškumo\nsvarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­\nnųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­\nnimo smulkmenų. Kaip tik tai yra priežastis amžino sąstingio,\ndėl kurio tos tautos su savo geografine padėtimi ilgai buvo ir\ndabar tebėra to paties apšvietos, politinių institucijų ir religi­\njos lygio. Jokia laiko pažanga, jokia civilizuoto pasaulio per­\nmaina nesutrikdo jų stabilios padėties: amžiais jos stovi ant\ntos pačios pakopos; niekas jų neskatina ieškoti gerovės žen­\ngiant aukščiau; iš kitų tautų, pasisavinusių svetimus daiktus ir\natradimus, jie su panieka tyčiojasi. Jie įnirtę persekioja net\nnorą kaip nors pakeisti senovę. Tokia pat dvasia gyveno dau­\ngybė senųjų Azijos tautų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189940
+    - t-001

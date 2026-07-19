@@ -36,8 +36,7 @@ Frazė istorijos atmintį sieja su piliečių kalbėjimu ir tautos gyvybingumu; 
 ## Teiginiai
 
 <a id="claim-t-13503"></a>
-- t-001
-  global_id: t-13503
+- t-005
   teiginys: "1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui teigė, kad tautos istorija turi būti kiekvieno piliečio lūpose."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -56,8 +55,7 @@ Frazė istorijos atmintį sieja su piliečių kalbėjimu ir tautos gyvybingumu; 
     - c-23553
 
 <a id="claim-t-13504"></a>
-- t-002
-  global_id: t-13504
+- t-006
   teiginys: "Frazė siejama su tautos atminties ir tautos ateities ryšiu."
   atnaujinta: "2026-05-18 23:37"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -89,13 +87,12 @@ Frazė istorijos atmintį sieja su piliečių kalbėjimu ir tautos gyvybingumu; 
     turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
     Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
     Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
-  citata_rodoma: |
-    turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
+  citata_rodoma: "turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13503
-    - t-13504
+    - t-005
+    - t-006

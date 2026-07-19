@@ -31,7 +31,6 @@ Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo nėms medžių sa
 
 <a id="claim-t-194781"></a>
 - t-001
-  global_id: t-194781
   teiginys: "Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek malonumo mūsų žemiškajam gyvenimui, sukūrė giliamintę milologinę pasaką: esą hamadriadės gyvendavusios medžiuose, kartu su jais augdavusios."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo nėms medžių sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194781
+    - t-001

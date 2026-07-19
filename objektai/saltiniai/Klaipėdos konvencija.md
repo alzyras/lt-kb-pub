@@ -40,8 +40,7 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
 ## Teiginiai
 
 <a id="claim-t-125066"></a>
-- t-001
-  global_id: t-125066
+- t-004
   teiginys: "Vasario 16 d. Santarvės šalių atstovai po ilgų derybų pripažino Klaipėdos kraštą Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
     - c-114287
 
 <a id="claim-t-125067"></a>
-- t-002
-  global_id: t-125067
+- t-005
   teiginys: "1939 m. pradžioje Klaipėdos konvencijos signatarai britai ir prancūzai pranešė negarantuosiantys Klaipėdos status quo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
     - c-114287
 
 <a id="claim-t-183702"></a>
-- t-003
-  global_id: t-183702
+- t-006
   teiginys: "1924 m. Paryžiuje pasirašyta Klaipėdos konvencija oficialiai pavertė Klaipėdos kraštą Lietuvos Respublikos autonomine dalimi."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -122,7 +119,8 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183702
+    - t-006
+
 - id: c-114287
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -139,5 +137,5 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-125066
-    - t-125067
+    - t-004
+    - t-005

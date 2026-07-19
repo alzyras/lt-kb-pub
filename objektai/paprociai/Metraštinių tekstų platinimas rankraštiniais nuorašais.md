@@ -41,25 +41,11 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194070"></a>
-- t-001
-  global_id: t-194070
-  teiginys: 'Lietuvos Didžiojoje Kunigaikštystėje kilę metraštiniai sąvadai savo laiku nebuvo išspausdinti ir plito rankraštiniais nuorašais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Antraštinis ir puslapio triukšmas pašalintas, o faktas suformuluotas apie metraštinių tekstų plitimą. Nepridėta daugiau nei citatoje nurodyta apie sąvadų spausdinimą ir nuorašus.'
-  pagrindžia:
-    - c-176683
-
-## Citatos
-
-- id: c-176683
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Lietuvos Didžiojoje Kunigaikštystėje kilę metraštiniai sąvadai savo laiku nebuvo išspausdinti ir plito rankraštiniais nuorašais.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     RIMANTAS JASAS
 
@@ -78,10 +64,8 @@ Nenurodyta
     tų nuorašų ir susijusių su jais atskirų fragmentų yra
     paskelbti Rusijos Archeografinės Komisijos leidinyje,
     pavadintame „Pilnuoju rusų metraščių rinkiniu" 3 .
-  statusas: verified
-  atnaujinta: "2026-07-12 22:45"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194070
+  statusas: verified

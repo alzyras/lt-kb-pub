@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-189921"></a>
 - t-001
-  global_id: t-189921
   teiginys: "Narbutas aprašė, kad į karą žygiuojanti kariuomenė klaupdavosi prieš vaidilų nešamą Krivių Krivaitį."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,7 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172804
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas aprašė, kad į karą žygiuojanti kariuomenė klaupdavosi prieš vaidilų nešamą Krivių Krivaitį.'
@@ -80,8 +79,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189921
+
 ## Citatos
 
 - id: c-172804
@@ -99,16 +97,11 @@ Nenurodyta
     klaidą, cituodamas tą maldelę, kurią grynai lietuviškai reiktų
     taip rašyti: Perkūne Dewajte, ne muszk und mana: Tiewe, mel-
     dzio tawipaltu messu.
-  citata_rodoma: |
-    Kai su­
-    šaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;
-    vaidilos atnešdavo Krivių Krivaitį su dengtais neštuvais arba
-    pinta būda; žmonės parpuldavo ant kelių veidais žemyn, o jis
-    mosikuodavo raudona vėliavėle ir kažką į juos numesdavo...
+  citata_rodoma: "Kai su­\nšaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;\nvaidilos atnešdavo Krivių Krivaitį su dengtais neštuvais arba\npinta būda; žmonės parpuldavo ant kelių veidais žemyn, o jis\nmosikuodavo raudona vėliavėle ir kažką į juos numesdavo..."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189921
+    - t-001

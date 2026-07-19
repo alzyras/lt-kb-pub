@@ -33,7 +33,6 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
 
 <a id="claim-t-99994"></a>
 - t-001
-  global_id: t-99994
   teiginys: "Ukrainiečiai, kaip ir rusai, XVII-XVIII a. vertė Stryjkovskio kroniką ar jos dalis ir juo domėjosi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
 
 <a id="claim-t-188356"></a>
 - t-002
-  global_id: t-188356
   teiginys: "Narbutas aiškino, kad ukrainiečių Rosės upės vardas kilo iš kadaise ten gyvenusių lietuvių genties tautų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -151,19 +149,15 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
     (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu. Dėda-
 
     (^11) **_Epitome principam Lithuaniae_****.
-  citata_rodoma: |
-    Bet ir rusai, kurie Kroniką ar
-    jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
-    (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu. Dėda-
-
-    (^11) **_Epitome principam Lithuaniae_****.
+  citata_rodoma: "Bet ir rusai, kurie Kroniką ar\njos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą\n(nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu. Dėda-\n\n(^11) **_Epitome principam Lithuaniae_****."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99994
+    - t-001
+
 - id: c-171249
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -189,4 +183,4 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188356
+    - t-002

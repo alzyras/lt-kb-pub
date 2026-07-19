@@ -30,7 +30,6 @@ Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja
 
 <a id="claim-t-191261"></a>
 - t-001
-  global_id: t-191261
   teiginys: "Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja su Kijevo įkūrimu arba atnaujinimu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja
 
 <a id="claim-t-197719"></a>
 - t-002
-  global_id: t-197719
   teiginys: "Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko ir Choryvo miestų atnaujinimo epocha."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -91,5 +89,5 @@ Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191261
-    - t-197719
+    - t-001
+    - t-002

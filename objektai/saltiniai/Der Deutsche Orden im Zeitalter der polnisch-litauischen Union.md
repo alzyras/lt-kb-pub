@@ -42,7 +42,6 @@ Oersdorf : Der Deutsche Orden im Zeitalter der 'polnisch-litauischen Union.
 
 <a id="claim-t-31657"></a>
 - t-001
-  global_id: t-31657
   teiginys: "H. Oersdorfo Der Deutsche Orden im Zeitalter der polnisch-litauischen Union apėmė didžiojo magistro Konrado Zöllnerio 1382–1390 m. tarnybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,15 +72,11 @@ Oersdorf : Der Deutsche Orden im Zeitalter der 'polnisch-litauischen Union.
     **_Bibliographie der Geschichte von Ost- und Westpreussen._** **— Žymėtinas vei­
     kalas : J. Jacoby :** **_Boguslaus Radziwiłł, der Statthalter des Grossen Kurfür­
     sten in Ostpreussen_** **(1959).
-  citata_rodoma: |
-    Stammler :** **_Preussen und Livland in ihrem Verhältnis
-    zur Krone Polens 1561-1386_** **(1953); H. Oersdorf :** **_Der Deutsche Orden im
-    Zeitalter der 'polnisch-litauischen Union. Die Amtszeit des Hochmeisters Kon­
-    rad Zöllner von Rotenstein, 1382-1390_** **(1958); čia tęsiama E.
+  citata_rodoma: "Stammler :** **_Preussen und Livland in ihrem Verhältnis\nzur Krone Polens 1561-1386_** **(1953); H. Oersdorf :** **_Der Deutsche Orden im\nZeitalter der 'polnisch-litauischen Union. Die Amtszeit des Hochmeisters Kon­\nrad Zöllner von Rotenstein, 1382-1390_** **(1958); čia tęsiama E."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31657
+    - t-001

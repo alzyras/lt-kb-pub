@@ -31,8 +31,7 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
 ## Teiginiai
 
 <a id="claim-t-192304"></a>
-- t-001
-  global_id: t-192304
+- t-005
   teiginys: "Narbutas nurodė: Jucevičius tvirtino, kad spirališkai susivijusio žalčio stabas buvo ne Atrimpo, o Žalčių karaliaus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -50,10 +49,9 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
     - c-175116
 
 <a id="claim-t-192305"></a>
-- t-002
-  global_id: t-192305
+- t-001
   teiginys: "Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą, kuriame buvo laikomas vandens žaltys."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Atrimpo vandens indas arba urna su žalčiu: 0.85"
@@ -67,10 +65,9 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-175115
-    - c-001
+
 <a id="claim-t-192306"></a>
-- t-003
-  global_id: t-192306
+- t-004
   teiginys: "Narbutas nurodė: Jucevičiaus nuomone, prie Palangos gyvenantys lietuvių žvejai Atrimpą vadino Dzivsvifs."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -104,8 +101,7 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192305
+
 ## Citatos
 
 - id: c-175115
@@ -124,22 +120,15 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
     tai yra tik tarminė vardo atmaina.
     Jūros pavojai, ypač tokios audringos kaip Baltija, gali įva­
     ryt i baimės net drąsiausiems jūreiviams.
-  citata_rodoma: |
-    Šitoks lietuvių supratimas galėjo apdovanoti
-    amžinos jaunystės savybe tą elementarųjį dievą, valdantį kil­
-    nųjį ir pirmykštį pradą, kad parodytų nepaliaujamą gyvųjų bū­
-    tybių ir augalų atsinaujinimą.
-    Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
-    na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
-    go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
-    prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“.
+  citata_rodoma: "Šitoks lietuvių supratimas galėjo apdovanoti\namžinos jaunystės savybe tą elementarųjį dievą, valdantį kil­\nnųjį ir pirmykštį pradą, kad parodytų nepaliaujamą gyvųjų bū­\ntybių ir augalų atsinaujinimą.\nAtrimpo ženklas buvo javų pėdu uždengtas indas arba ur­\nna, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­\ngo Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,\nprie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192305
+    - t-001
+
 - id: c-175116
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -156,19 +145,12 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
     vo (Ukapirmo) broliu“. Visa tai galima suderinti, padarius prie­
     laidą, jog Atrimpo simbolis buvo žaltys, tūnantis vandens pilnoje
     vonioje.
-  citata_rodoma: |
-    Kunigo L. A. Jucevičiaus nuomone1, lietuviai, gyvenantys prie Pa­
-    langos, prie jūros, t. y. žvejai, Atrimpą vadina Dzivsvifs. Tas
-    žymusis lietuviškų dalykų tyrinėtojas tvirtina ir tai, jog spirališ-
-    kai susivijusio žalčio stabas, apie kurį bus pasakojama kituose
-    straipsniuose, nebuvo Atrimpo, bet Žalčių karaliaus, „kurį dar ir
-    šiandien kai kuriose srityse lietuviai laiko tikru aukščiausiojo die­
-    vo (Ukapirmo) broliu“.
+  citata_rodoma: "Kunigo L. A. Jucevičiaus nuomone1, lietuviai, gyvenantys prie Pa­\nlangos, prie jūros, t. y. žvejai, Atrimpą vadina Dzivsvifs. Tas\nžymusis lietuviškų dalykų tyrinėtojas tvirtina ir tai, jog spirališ-\nkai susivijusio žalčio stabas, apie kurį bus pasakojama kituose\nstraipsniuose, nebuvo Atrimpo, bet Žalčių karaliaus, „kurį dar ir\nšiandien kai kuriose srityse lietuviai laiko tikru aukščiausiojo die­\nvo (Ukapirmo) broliu“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192304
-    - t-192306
+    - t-005
+    - t-004

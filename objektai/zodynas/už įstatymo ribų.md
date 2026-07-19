@@ -31,7 +31,6 @@ Kojelavičius spėjo, kad iš Italijos galėjo pasitraukti žmonės, nugalėjusi
 
 <a id="claim-t-185414"></a>
 - t-001
-  global_id: t-185414
   teiginys: "Kojelavičius spėjo, kad iš Italijos galėjo pasitraukti žmonės, nugalėjusių priešų paskelbti už įstatymo ribų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Kojelavičius spėjo, kad iš Italijos galėjo pasitraukti žmonės, nugalėjusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185414
+    - t-001

@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-28617"></a>
 - t-001
-  global_id: t-28617
   teiginys: "Terminas „žirgų kapai“ kilo iš papročio šalia sudegintų žmonių lavonų su įkapėmis užkasti nedegintus žirgus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28617
+    - t-001

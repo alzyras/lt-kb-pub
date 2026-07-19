@@ -40,8 +40,7 @@ Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lietuvos pripažinimu de 
 ## Teiginiai
 
 <a id="claim-t-70250"></a>
-- t-001
-  global_id: t-70250
+- t-002
   teiginys: "Svarstant Nemuno neutralizaciją, Lietuvos vyriausybė Paryžiaus Ambasadorių Konferencijai pabrėžė Lietuvos teises ir interesus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lietuvos pripažinimu de 
     - c-46915
 
 <a id="claim-t-70251"></a>
-- t-002
-  global_id: t-70251
+- t-001
   teiginys: "Nemuno neutralizacijos klausimas kilo ryšium su Lietuvos pripažinimu de jure."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -96,16 +94,12 @@ Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lietuvos pripažinimu de 
     vo pabrėžta, kad, nustatant sienas, reikėtų atsižvelgti į Lenkijos
     pasižadėjimus Lietuvos atžvilgiu ir į Lietuvos teises bei gyvybės
     interesus.
-  citata_rodoma: |
-    Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lie-
-    tuvos pripažinimu de jure, Lietuvos vyriausybė vienoj iš savo
-    notų Ambasadorių Konferencijai Paryžiuje atkreipė dėmesį į tai,
-    kad dėl to nebūtų sunkenybės, jei didžiosios valstybės, remdamosi
+  citata_rodoma: "Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lie-\ntuvos pripažinimu de jure, Lietuvos vyriausybė vienoj iš savo\nnotų Ambasadorių Konferencijai Paryžiuje atkreipė dėmesį į tai,\nkad dėl to nebūtų sunkenybės, jei didžiosios valstybės, remdamosi"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70250
-    - t-70251
+    - t-002
+    - t-001

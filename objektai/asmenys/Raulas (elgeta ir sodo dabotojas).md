@@ -51,8 +51,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
 ## Teiginiai
 
 <a id="claim-t-195271"></a>
-- t-001
-  global_id: t-195271
+- t-002
   teiginys: "Užaugęs Raulas bernavo pas ūkininkus, o šeimą laikė ūkininko grįtelėje."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -62,8 +61,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
     - c-177637
 
 <a id="claim-t-195272"></a>
-- t-002
-  global_id: t-195272
+- t-003
   teiginys: "Raulas kasmet dviem mėnesiams eidavo į dvarą sodo daboti ir už tai gaudavo valgymą bei tris rublius."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -73,8 +71,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
     - c-177638
 
 <a id="claim-t-195273"></a>
-- t-003
-  global_id: t-195273
+- t-001
   teiginys: "Raulas nuo mažens rinko žmonėse maistą sergančiai motinai ir tuo pačiu pats miso."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -101,15 +98,15 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
     jai maistą, tuo pačiu ir
     pats misdamas. Užaugęs bernavo pas ūkininkus, o pačią ir vaikus lai­
     kė čia pat ūkininko grįtelėje.
-  citata_rodoma: |
-    Užaugęs bernavo pas ūkininkus, o pačią ir vaikus laikė čia pat ūkininko grįtelėje.
+  citata_rodoma: "Užaugęs bernavo pas ūkininkus, o pačią ir vaikus laikė čia pat ūkininko grįtelėje."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195271
+    - t-002
+
 - id: c-177638
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -123,15 +120,15 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
     ei­
     na vasarą į dvarą sodo daboti. Ten gauna valgymą ir tris rublius per
     du mėnesiu.
-  citata_rodoma: |
-    Elgeta Raulas kasmet duoda sau du mėnesiu atostogų: jis eina vasarą į dvarą sodo daboti. Ten gauna valgymą ir tris rublius per du mėnesiu.
+  citata_rodoma: "Elgeta Raulas kasmet duoda sau du mėnesiu atostogų: jis eina vasarą į dvarą sodo daboti. Ten gauna valgymą ir tris rublius per du mėnesiu."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195272
+    - t-003
+
 - id: c-177639
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -149,12 +146,11 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
     vo sergančią motiną, rinkdamas pas žmones
     jai maistą, tuo pačiu ir
     pats misdamas.
-  citata_rodoma: |
-    Raulas (tokia vaizduojamo elgetos pavardė) iš mažo sargino savo sergančią motiną, rinkdamas pas žmones jai maistą, tuo pačiu ir pats misdamas.
+  citata_rodoma: "Raulas (tokia vaizduojamo elgetos pavardė) iš mažo sargino savo sergančią motiną, rinkdamas pas žmones jai maistą, tuo pačiu ir pats misdamas."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195273
+    - t-001

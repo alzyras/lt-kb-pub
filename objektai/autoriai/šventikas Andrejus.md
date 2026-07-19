@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-190410"></a>
 - t-001
-  global_id: t-190410
   teiginys: "Šventikas Andrejus apie 1560-1563 m. metropolito Makarijaus iniciatyva parašė rusų istorijos ir literatūros paminklą „Степенная книга“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173293
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šventikas Andrejus apie 1560-1563 m. metropolito Makarijaus iniciatyva parašė rusų istorijos ir literatūros paminklą „Степенная книга“.'
@@ -76,8 +75,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190410
+
 ## Citatos
 
 - id: c-173293
@@ -97,15 +95,11 @@ media_all_json: |-
     fui Pranciškui Potockiui į jo įdomų numizmatikos
     ir senovės daiktų kabinetą; taip pat nusiunčiau į
     Lvovą, į Osolinskių muziejų.
-  citata_rodoma: |
-    Tai rusų istorijos ir literatūros paminklas (orig.:
-    „Степенная книга“). Knygą metropolito Maka­
-    rų aus iniciatyva parašė šventikas Andrejus (apie
-    1560-1563 metus).
+  citata_rodoma: "Tai rusų istorijos ir literatūros paminklas (orig.:\n„Степенная книга“). Knygą metropolito Maka­\nrų aus iniciatyva parašė šventikas Andrejus (apie\n1560-1563 metus)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190410
+    - t-001

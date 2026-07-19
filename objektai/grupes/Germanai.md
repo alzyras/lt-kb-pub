@@ -32,7 +32,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 <a id="claim-t-01324"></a>
 - t-001
-  global_id: t-01324
   teiginys: "Germanai priskiriami tai pačiai indoeuropiečių, arba arijų, tautų grupei kaip aisčiai, slavai ir romanai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,9 +48,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 <a id="claim-t-192393"></a>
 - t-002
-  global_id: t-192393
   teiginys: "Narbutas aiškina, kad prekybos kelias per germanų žemes galėjo veikti dėl svetingumo papročių arba tam tikrų susitarimų."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,10 +65,9 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175187
-    - c-002
+
 <a id="claim-t-192394"></a>
 - t-003
-  global_id: t-192394
   teiginys: "Narbutas mini, bet atmeta nuomonę, kad lietuvių tauta susidarė IV ar V amžiuje Vyslos žemupyje iš daugelio, ypač germanų, tautų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -204,8 +201,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192393
+
 ## Citatos
 
 - id: c-01562
@@ -219,17 +215,15 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     gerai žinomais, laikais. Aisčiai, kaip ir beveik visi Europos gy-
     ventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-
     čios indoeuropiečių, arba arijų, tautų grupės.
-  citata_rodoma: |
-    Aisčiai, kaip ir beveik visi Europos gy-
-    ventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-
-    čios indoeuropiečių, arba arijų, tautų grupės.
+  citata_rodoma: "Aisčiai, kaip ir beveik visi Europos gy-\nventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-\nčios indoeuropiečių, arba arijų, tautų grupės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01324
+    - t-001
+
 - id: c-175187
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -245,25 +239,15 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     ir Lukas Davidas, — ¡pasakoja Bitinijos keliautojo Divonio,
     neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
     te, vėliau pavadintame Prūsija, stebėjimus.
-  citata_rodoma: |
-    Tokį pat nuotolį nuo Vys­
-    los žiočių į Panoniją suskaičiuoja ir Ptolemėjas. O kad
-    prekybos kelias nekliudomas ¡galėjo eiti per karingų ir gro­
-    bikiškų germanų ¡genčių žemes, galima ¡paaiškinti senovės
-    religijos pašventintais svetingumo papročiais ar tam tik­
-    rais šiuo pagrindu sudarytais susitarimais.
-    *  ¥  *
-    III skyrius
-    S E N O V Ė S  Ž I N I Ų  T Ę S I N Y S
-    171
-    Sausumos atradimai.
+  citata_rodoma: "Tokį pat nuotolį nuo Vys­\nlos žiočių į Panoniją suskaičiuoja ir Ptolemėjas. O kad\nprekybos kelias nekliudomas ¡galėjo eiti per karingų ir gro­\nbikiškų germanų ¡genčių žemes, galima ¡paaiškinti senovės\nreligijos pašventintais svetingumo papročiais ar tam tik­\nrais šiuo pagrindu sudarytais susitarimais.\n*  ¥  *\nIII skyrius\nS E N O V Ė S  Ž I N I Ų  T Ę S I N Y S\n171\nSausumos atradimai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192393
+    - t-002
+
 - id: c-175188
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -286,4 +270,4 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192394
+    - t-003

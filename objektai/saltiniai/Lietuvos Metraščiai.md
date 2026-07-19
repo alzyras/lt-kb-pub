@@ -35,8 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75478"></a>
-- t-001
-  global_id: t-75478
+- t-005
   teiginys: "Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -54,7 +53,6 @@ media_all_json: |-
 
 <a id="claim-t-75480"></a>
 - t-002
-  global_id: t-75480
   teiginys: "Lietuvos metraščiuose užrašyti Gedimino sapno, Algirdo žygių į Maskvą ir Birutės bei Kęstučio meilės istorijos siužetai laikomi epiniais pasakojimais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -72,7 +70,6 @@ media_all_json: |-
 
 <a id="claim-t-75481"></a>
 - t-003
-  global_id: t-75481
   teiginys: "Rusėnų kalba buvo surašyti Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -113,7 +110,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75480
+    - t-002
+
 - id: c-73248
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -126,20 +124,15 @@ media_all_json: |-
     vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
     dinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
     nacijos“ ponų sluoksnį.
-  citata_rodoma: |
-    , kai Lietuvos bajorija bendrai pradėjo save kildinti
-    iš romėnų. Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
-    ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
-    vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
-    dinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
-    nacijos“ ponų sluoksnį.
+  citata_rodoma: ", kai Lietuvos bajorija bendrai pradėjo save kildinti \niš romėnų. Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono \nir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai \nvesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių \ndinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių \nnacijos“ ponų sluoksnį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75478
+    - t-005
+
 - id: c-73250
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -165,4 +158,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75481
+    - t-003

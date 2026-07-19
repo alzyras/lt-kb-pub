@@ -31,7 +31,6 @@ Vygan­ das tačiau byloja: Steterunt V septi­ manis in continuo agone nocte di
 
 <a id="claim-t-86871"></a>
 - t-001
-  global_id: t-86871
   teiginys: "Posakis „Steterunt V septimanis in continuo agone nocte dieque“ reiškia, kad penkias savaites dieną ir naktį vyko nuolatinės kautynės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Vygan­ das tačiau byloja: Steterunt V septi­ manis in continuo agone nocte di
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86871
+    - t-001

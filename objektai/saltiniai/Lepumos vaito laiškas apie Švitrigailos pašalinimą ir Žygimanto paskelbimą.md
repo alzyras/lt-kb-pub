@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-88442"></a>
 - t-001
-  global_id: t-88442
   teiginys: "Slaptajame Karaliaučiaus archyve buvo keli laiškų originalai, aprašantys Švitrigailos pabėgimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88442
+    - t-001

@@ -30,8 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-36709"></a>
-- t-001
-  global_id: t-36709
+- t-002
   teiginys: "Vorotinsko kunigaikščiai prisiekė Vytautui ištikimybę ir pažadėjo karo paramą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ media_all_json: |-
     - c-38688
 
 <a id="claim-t-36710"></a>
-- t-002
-  global_id: t-36710
+- t-001
   teiginys: "Vorotinsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštystėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,19 +76,15 @@ media_all_json: |-
     monijoj buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kit.
     kunigaikščiai. Jie pasižadėjo duoti karo paramos net prieš bu­
     vusį savo protektorių Didž.
-  citata_rodoma: |
-    Tos ke­
-    lionės metu jam prisiekė ištikimybę bei pagalbą Maskvos hege­
-    monijoj buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kit.
-    kunigaikščiai. Jie pasižadėjo duoti karo paramos net prieš bu­
-    vusį savo protektorių Didž.
+  citata_rodoma: "Tos ke­\nlionės metu jam prisiekė ištikimybę bei pagalbą Maskvos hege­\nmonijoj buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kit.\nkunigaikščiai. Jie pasižadėjo duoti karo paramos net prieš bu­\nvusį savo protektorių Didž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36709
+    - t-002
+
 - id: c-38689
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -102,15 +96,11 @@ media_all_json: |-
     aukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,
     Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.
     kunigaikštijos^2 ).
-  citata_rodoma: |
-    Tuo pat metu jis praplėtė savo valdžią Okos
-    aukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,
-    Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.
-    kunigaikštijos^2 ).
+  citata_rodoma: "Tuo pat metu jis praplėtė savo valdžią Okos\naukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,\nMcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.\nkunigaikštijos^2 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36710
+    - t-001

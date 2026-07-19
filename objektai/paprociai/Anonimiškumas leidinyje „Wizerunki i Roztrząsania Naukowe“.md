@@ -46,9 +46,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-Nenurodyta
-
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -86,10 +83,7 @@ Nenurodyta
     nų, jog Juozapas Zavadskis buvo nepatenkintas ir įžeistas
     dėl to, kad autorius savo „Istoriją“ atidavė ne jam, bet
     A. Marcinovskiui.
-  citata_rodoma: |
-    Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i
-    Roztrząsania Naukowe“ puslapiuose anonimiškumas buvo
-    įprastas reiškinys.
+  citata_rodoma: "Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i\nRoztrząsania Naukowe“ puslapiuose anonimiškumas buvo\nįprastas reiškinys."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

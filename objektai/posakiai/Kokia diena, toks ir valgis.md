@@ -46,19 +46,6 @@ Aiškinama, kaip žmonės valgo advento dienomis.
 
 Taisyklės formos formulė apie dienos ir valgio atitikmenį.
 
-## Teiginiai
-
-<a id="claim-t-195446"></a>
-- t-001
-  global_id: t-195446
-  teiginys: "Pasninko diena nusako ir atitinkamą valgį."
-  atnaujinta: "2026-07-12 02:46"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177867
-
 ## Citatos
 
 - id: c-177867
@@ -71,12 +58,9 @@ Taisyklės formos formulė apie dienos ir valgio atitikmenį.
     nį, penktadienį, šeštadienį. Išverda kopūstų ar burokų be jokio užda­
     ro — ir srėbk duona užsikąsdamas. Sakoma: kokia diena, toks ir val­
     gis.
-  citata_rodoma: |
-    Sakoma: kokia diena, toks ir valgis.
+  citata_rodoma: "Sakoma: kokia diena, toks ir valgis."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195446

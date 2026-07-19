@@ -29,8 +29,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 ## Teiginiai
 
 <a id="claim-t-63905"></a>
-- t-001
-  global_id: t-63905
+- t-005
   teiginys: "Dusburgietis pasakoja, kad Martynas su 17 draugų kovėsi prieš 20 prūsų ir liko gyvas sunkiai sužeistas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,8 +45,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - c-64827
 
 <a id="claim-t-63906"></a>
-- t-002
-  global_id: t-63906
+- t-015
   teiginys: "Martynas iš Golino su būreliu vyrų vakaro prietemoje užpuolė vieną Sūduvos žemės kaimą ir išžudė visus jo žmones."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 
 <a id="claim-t-63907"></a>
 - t-003
-  global_id: t-63907
   teiginys: "Dusburgietis pasakoja, kad sesers nužudymas sukėlė Martynui neapykantą netikėliams ir vėlesnį kerštą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,8 +78,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - c-56152
 
 <a id="claim-t-63908"></a>
-- t-004
-  global_id: t-63908
+- t-002
   teiginys: "Martynas iš Golino pateko tarp belaisvių, kuriuos prūsai išsivarė po persekiojimo ir grobio surinkimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -98,8 +94,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - c-56151
 
 <a id="claim-t-63909"></a>
-- t-005
-  global_id: t-63909
+- t-012
   teiginys: "Rudino brolių įsakymu Martynas iš Golino su 17 kovos draugų leidosi vytis 20 Lenkijoje plėšikavusių prūsų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -115,8 +110,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - c-64827
 
 <a id="claim-t-63910"></a>
-- t-006
-  global_id: t-63910
+- t-004
   teiginys: "Martynas iš Golino šiame šaltinyje dalyvauja žvalgyboje su vienu Rudino broliu ir išsigelbsti iš nelaisvės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -132,26 +126,16 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - c-56153
 
 <a id="claim-t-63911"></a>
-- t-007
-  global_id: t-63911
+- t-017
   teiginys: "Martynas iš Golino prie Bugo upės užpuolė prekių laivo upeivius, juos išžudė ir laivą nuplukdė į Torunę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Torunė: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Torunė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Martynas su bendrais nuplukdė laivą į Torunę, tad judėjimo kryptis aiški."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Martynas iš Golino keliavo į Torunė (0.84)"
   pagrindžia:
-    - c-64823
+    - c-56151
 
 <a id="claim-t-63912"></a>
-- t-008
-  global_id: t-63912
+- t-001
   teiginys: "Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -168,8 +152,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - c-56150
 
 <a id="claim-t-63913"></a>
-- t-009
-  global_id: t-63913
+- t-016
   teiginys: "Karaliaučiaus komtūras paskyrė Martyną iš Golino į Pelužio būrį, traukusį keršyti lietuvių kunigaikščiui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -186,25 +169,16 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - c-64825
 
 <a id="claim-t-63914"></a>
-- t-010
-  global_id: t-63914
+- t-011
   teiginys: "Martynas iš Golino su vienu Rudino broliu žvalgydamasis dykrose pasiklydo, susidūrė su trimis prūsais ir du jų nukovė."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=94"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas iš Golino\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-56153
+    - c-56150
 
 <a id="claim-t-63915"></a>
-- t-011
-  global_id: t-63915
+- t-008
   teiginys: "Martynas iš Golino žygiuodavo su Rudino broliais, o vėliau su Karaliaučiaus broliais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -221,46 +195,27 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - c-56150
 
 <a id="claim-t-63916"></a>
-- t-012
-  global_id: t-63916
+- t-013
   teiginys: "Petras Dusburgietis Martyną iš Golino priskyrė prie krikščionių plėšikautojų, garsėjusių nuostabiais ir nepaprastais žygiais."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Kaimas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaimas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Martynas užgrobė kaimą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Martynas iš Golino užėmė Kaimas (0.90)"
   pagrindžia:
-    - c-56155
+    - c-64827
 
 <a id="claim-t-63917"></a>
-- t-013
-  global_id: t-63917
+- t-006
   teiginys: "Dusburgietis Martyną iš Golino rodo kaip vieną svarbiausių krikščionių plėšikautojų."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Kaimas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaimas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Martynas užgrobė kaimą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Martynas iš Golino užėmė Kaimas (0.90)"
   pagrindžia:
-    - c-56155
+    - c-56150
 
 <a id="claim-t-63918"></a>
 - t-014
-  global_id: t-63918
   teiginys: "Martynas iš Golino su 4 vokiečiais ir 11 prūsų užgrobė vieną Sūduvos kaimą, žudydamas arba išsivarydamas žmones į nelaisvę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Kaimas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -273,10 +228,10 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   semantiniai_rysiai: "Martynas iš Golino užėmė Kaimas (0.90)"
   pagrindžia:
     - c-56155
+    - c-64828
 
 <a id="claim-t-63919"></a>
-- t-015
-  global_id: t-63919
+- t-009
   teiginys: "Martynas iš Golino pateko į nelaisvę kartu su nėščia seserimi, kurią ją paėmęs prūsas nužudė žygio metu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -292,8 +247,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - c-56152
 
 <a id="claim-t-63920"></a>
-- t-016
-  global_id: t-63920
+- t-010
   teiginys: "Po sesers nužudymo Martynas iš Golino ėmė nekęsti netikėlių ir, išsivadavęs iš nelaisvės, smarkiai jiems smogė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -309,8 +263,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - c-64828
 
 <a id="claim-t-63921"></a>
-- t-017
-  global_id: t-63921
+- t-007
   teiginys: "Martynas iš Golino su kitais vyrais užpuolė Sūduvos kaimą, nukovė 10 vyrų pirtyje ir paėmė grobio bei belaisvių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -327,7 +280,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 
 <a id="claim-t-184111"></a>
 - t-018
-  global_id: t-184111
   teiginys: "Martynas iš Golino Sūduvos kaime nukovė 10 vyrų pirtyje, pagrobė arklių bei gyvulių ir išsivarė į nelaisvę moteris bei vaikus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -348,7 +300,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 
 <a id="claim-t-194504"></a>
 - t-019
-  global_id: t-194504
   teiginys: "Apie tą patį Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias tarnybas, jį užpuolė, o visus žmones išžudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -361,7 +312,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 
 <a id="claim-t-197128"></a>
 - t-020
-  global_id: t-197128
   teiginys: "Martynas iš Golino šiek tiek nuo kitų ir, susijaudinęs bei ašarodamas, pasakė: „O viešpatie Jėzau Kristau, jeigu dabar būčiau namie, priimčiau, sukalbėjęs daug maldų, tavo kūną“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -639,8 +589,11 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63912
-    - t-63915
+    - t-001
+    - t-011
+    - t-008
+    - t-006
+
 - id: c-56151
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -657,7 +610,9 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63908
+    - t-002
+    - t-017
+
 - id: c-56152
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -677,8 +632,9 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63907
-    - t-63919
+    - t-003
+    - t-009
+
 - id: c-56153
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -693,21 +649,15 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     435 Vartenbergo pilies, sūduvių sudegintos ir iki pat kronikos rašymo metų
     neatstatytos (III, 159), ieškoma Kulmo žemės šiaurės rytuose, kur XIII a. 2-oje pusėje
     tebuvo žinomas vienas kryžiuočių centras Vonė (Wonne) Osos aukštupyje (dab.
-  citata_rodoma: |
-    Vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais
-    neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais,
-    du iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau tas juos
-    nuvedė į priešo žemę. Pastebėję šią klastą, nužudė jį; paskubomis traukdamiesi, buvo
-    pagauti ir surišti penkių jiems pavymui pasileidusių prūsų raitelių, kurių dviem patikėjo
-    juodu saugoti. Trys  kiti prūsai nusivijo pabėgusį brolio arklį.
+  citata_rodoma: "Vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais\nneužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais,\ndu iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau tas juos\nnuvedė į priešo žemę. Pastebėję šią klastą, nužudė jį; paskubomis traukdamiesi, buvo\npagauti ir surišti penkių jiems pavymui pasileidusių prūsų raitelių, kurių dviem patikėjo\njuodu saugoti. Trys  kiti prūsai nusivijo pabėgusį brolio arklį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63910
-    - t-63914
+    - t-004
+
 - id: c-56155
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -726,24 +676,15 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą,
     kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o
     grįždamas namo, kelyje ir pasimirė.
-  citata_rodoma: |
-    Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
-    krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],
-    vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas
-    Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas
-    ar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,
-    nekreipdamas dėmesio  į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių
-    ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o
-    kiti išbėgiojo palikę visus turimus ginklus bei visą maistą.
+  citata_rodoma: "Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai\nkrikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],\nvadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas\nMartynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas\nar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,\nnekreipdamas dėmesio  į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių\nramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o\nkiti išbėgiojo palikę visus turimus ginklus bei visą maistą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63916
-    - t-63917
-    - t-63918
+    - t-014
+
 - id: c-64823
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -763,22 +704,13 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus
     Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas
     jam šios laimės, ėmė regzti visokiausių pinklių, norėdamas jam sukliudyti.
-  citata_rodoma: |
-    Apie tą patį
-
-      Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs
-    per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui
-    ir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė
-    pokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į
-    laivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo
-    po 20 markių dalies.
+  citata_rodoma: "Apie tą patį\n\n  Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs\nper patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui\nir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė\npokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į\nlaivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo\npo 20 markių dalies."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-63911
 - id: c-64824
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -796,10 +728,11 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63906
-    - t-63921
-    - t-184111
-    - t-194504
+    - t-015
+    - t-007
+    - t-018
+    - t-019
+
 - id: c-64825
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -816,20 +749,15 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     juos ir nužudė 70 kunigaikščių drauge su namų šeimininku, neskaitant kitų žmonių, kurių
     ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
     žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
-  citata_rodoma: |
-    Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
-    vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
-    karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras
-    paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],
-    vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge
-    su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas.
+  citata_rodoma: "Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],\nvieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos\nkaraliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras\npaskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],\nvardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge\nsu juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63913
+    - t-016
+
 - id: c-64827
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -846,8 +774,10 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63905
-    - t-63909
+    - t-005
+    - t-012
+    - t-013
+
 - id: c-64828
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -860,18 +790,16 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir
     bus papasakota vėliau. Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas
     žmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums?
-  citata_rodoma: |
-    Martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš
-    netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir
-    bus papasakota vėliau. Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas
-    žmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums?
+  citata_rodoma: "Martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš\nnetikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir\nbus papasakota vėliau. Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas\nžmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums?"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63920
+    - t-014
+    - t-010
+
 - id: c-179035
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -893,7 +821,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197128
+    - t-020
+
 ## Ryšiai
 - Martynas iš Golino keliavo į [[objektai/vietos/Rudinas]]
 - Martynas iš Golino puolė [[objektai/vietos/Kaimas]], [[objektai/grupes/Sūduviai]]

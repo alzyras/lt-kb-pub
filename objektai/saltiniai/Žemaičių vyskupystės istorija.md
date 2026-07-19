@@ -45,8 +45,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-45776"></a>
-- t-001
-  global_id: t-45776
+- t-003
   teiginys: "Simonas Daukantas įkalbino Motiejų Valančių Sankt Peterburge rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45776
+    - t-003

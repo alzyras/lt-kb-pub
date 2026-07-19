@@ -38,8 +38,7 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
 ## Teiginiai
 
 <a id="claim-t-85932"></a>
-- t-001
-  global_id: t-85932
+- t-003
   teiginys: "Dabartinį Kardinalijos sparną nuo Didžiosios gatvės užėmė Filipovo namai, kurių savininku tapo Mikalojus Kristupas Radvila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
     - c-81914
 
 <a id="claim-t-85933"></a>
-- t-002
-  global_id: t-85933
+- t-004
   teiginys: "Apie 1601 metus Goštautų ir Filipovo namai, sujungti Albrechto Radvilos laikais, gavo bendrą Kardinalijos pavadinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +70,7 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
     - c-81916
 
 <a id="claim-t-85934"></a>
-- t-003
-  global_id: t-85934
+- t-002
   teiginys: "Kardinalija buvo vienas didžiausių Vilniaus namų, statytas kardinolo Jurgio Radvilos lėšomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,8 +87,7 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
     - c-81913
 
 <a id="claim-t-85935"></a>
-- t-004
-  global_id: t-85935
+- t-001
   teiginys: "Radvilų archyve Kardinalijoje buvo saugomi vertingi istorijos šaltiniai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -159,7 +155,8 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85934
+    - t-002
+
 - id: c-81914
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -188,7 +185,8 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85932
+    - t-003
+
 - id: c-81915
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -214,7 +212,8 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85935
+    - t-001
+
 - id: c-81916
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -239,4 +238,4 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85933
+    - t-004

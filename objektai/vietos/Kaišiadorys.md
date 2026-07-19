@@ -40,8 +40,7 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
 ## Teiginiai
 
 <a id="claim-t-68034"></a>
-- t-001
-  global_id: t-68034
+- t-002
   teiginys: "Jonas Misiūnas vokiečių okupacijos metais buvo geležinkelių apsaugos policininkas Kaišiadoryse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
     - c-43473
 
 <a id="claim-t-193187"></a>
-- t-002
-  global_id: t-193187
+- t-003
   teiginys: "Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą Kaišiadorių ir Alytaus kryptimis."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -89,7 +87,8 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68034
+    - t-002
+
 - id: c-175931
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -107,4 +106,4 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193187
+    - t-003

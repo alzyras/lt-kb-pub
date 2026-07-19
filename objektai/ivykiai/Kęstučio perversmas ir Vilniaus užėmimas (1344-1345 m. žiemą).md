@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-31438"></a>
 - t-001
-  global_id: t-31438
   teiginys: "1344-1345 m. žiemą Kęstutis, susitaręs su broliu, užėmė Vilnių ir suėmė Jaunutį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31438
+    - t-001

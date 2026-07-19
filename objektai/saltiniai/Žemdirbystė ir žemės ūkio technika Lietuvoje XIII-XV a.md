@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-32028"></a>
 - t-001
-  global_id: t-32028
   teiginys: "„Žemdirbystė ir žemės ūkio technika Lietuvoje XIII-XV a.“ paskelbta rusų kalba su lietuviška santrauka AkMD 1 tome 1955 m., p. 57-73."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,14 +70,11 @@ media_all_json: |-
     bajorais, XVIII a._** **(AkMD, t. 7, 1959, 91-103 p.) ;** **_Patriarchaliniai vergai
     Lietuvoje_** **(AkMD, t. 8, 1960, 75-91 p.) ; parašė knygą** **_Renesansas ir huma­
     nizmas Lietuvoje_** **(1965)** **_; Istorija ir poezija_** **(1969) ; apie baudžiavą (JurB) ;**
-  citata_rodoma: |
-    ) ;** **_Žemdirbystė ir žemės ūkio tech­
-    nika Lietuvoje XIII-XV a._** **(rus. k. su liet. santr., AkMD, t. 1, 1955, 57-
-    73 p.) ;** **_Valstiečiai_** **«** **_veldamai_** **»** **_Lietuvoje XV-XVI a.
+  citata_rodoma: ") ;** **_Žemdirbystė ir žemės ūkio tech­\nnika Lietuvoje XIII-XV a._** **(rus. k. su liet. santr., AkMD, t. 1, 1955, 57-\n73 p.) ;** **_Valstiečiai_** **«** **_veldamai_** **»** **_Lietuvoje XV-XVI a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32028
+    - t-001

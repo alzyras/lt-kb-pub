@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20210"></a>
 - t-001
-  global_id: t-20210
   teiginys: "Jekaterina II 1791 m. nubrėžė sėslumo ribą, išvardydama gubernijas, kuriose galėjo gyventi žydai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-183226"></a>
 - t-002
-  global_id: t-183226
   teiginys: "Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo sėslumo ribos, sutapusios su buvusios LDK arba ATR rytine riba."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -119,5 +117,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20210
-    - t-183226
+    - t-001
+    - t-002

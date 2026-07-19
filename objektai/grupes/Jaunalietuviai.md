@@ -31,7 +31,6 @@ sandūroje pradėjo oponuoti „jaunalietuviai“, po poros dešimtmečių sukū
 
 <a id="claim-t-19718"></a>
 - t-001
-  global_id: t-19718
   teiginys: "Jaunalietuviai XIX–XX a. sandūroje pradėjo oponuoti senalietuviams ir po poros dešimtmečių sukūrė Lietuvos Respubliką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,12 +58,11 @@ sandūroje pradėjo oponuoti „jaunalietuviai“, po poros dešimtmečių sukū
     Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
     viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
     po poros dešimtmečių sukūrę Lietuvos Respubliką.
-  citata_rodoma: |
-    viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
+  citata_rodoma: "viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19718
+    - t-001

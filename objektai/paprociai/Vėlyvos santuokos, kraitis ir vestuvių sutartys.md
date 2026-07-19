@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67234"></a>
-- t-001
-  global_id: t-67234
+- t-003
   teiginys: "Mergaitės iki ištekėjimo dirbo ir krovė kraitį, o nuotakos ieškojo ne turtingų, bet narsių vyrų."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -100,4 +99,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67234
+    - t-003

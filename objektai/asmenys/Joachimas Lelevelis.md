@@ -43,8 +43,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 ## Teiginiai
 
 <a id="claim-t-78033"></a>
-- t-001
-  global_id: t-78033
+- t-002
   teiginys: "Po caro administracijos tyrimo politiškai nepatikimu laikytas Joachimas Lelevelis buvo pašalintas iš profesorių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     - c-21725
 
 <a id="claim-t-78034"></a>
-- t-002
-  global_id: t-78034
+- t-001
   teiginys: "Istorikas Joachimas Lelevelis dirbo universitete jo klestėjimo laikotarpiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 
 <a id="claim-t-188541"></a>
 - t-003
-  global_id: t-188541
   teiginys: "Joachimas Lelevelis Narbuto jaunystės laikotarpiu dėstė Vilniaus universitete kartu su Ignotu Danilavičiumi ir Ignotu Onacevičiumi."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -99,7 +96,6 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 
 <a id="claim-t-192591"></a>
 - t-004
-  global_id: t-192591
   teiginys: "Joachimas Lelevelis gelonus ir budinus laikė išgalvotomis tautomis ir priekaištavo senovės geografų kompiliatoriams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -117,7 +113,6 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-175362
-    - c-004
 - susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-188409|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas istorija.
 - susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-63305|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis buvo tarp politiškai nepatikimų profesorių, išvarytų iš universiteto.
 - susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-63306|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis dirbo universitete kaip vienas iš garsių mokslininkų.
@@ -148,8 +143,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192591
+
 ## Citatos
 
 - id: c-21725
@@ -165,19 +159,15 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
     dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
     policiją.
-  citata_rodoma: |
-    Išvaryti ir politiš-
-    kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
-    iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
-    dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
-    policiją.
+  citata_rodoma: "Išvaryti ir politiš-\nkai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino \niš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-\ndos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją \npoliciją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78033
+    - t-002
+
 - id: c-75345
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -204,7 +194,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78034
+    - t-001
+
 - id: c-171430
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -225,7 +216,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188541
+    - t-003
+
 - id: c-175362
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -243,20 +235,11 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     žosi verčiau pelnyti žodis į žodį atkartojančių Mariną*
     ir Ptolemėją priekaištų negu vadinti pasakų išmone var­
     dus tautų, kurių gyvenamųjų vietovių nepasisekė nustatyti.
-  citata_rodoma: |
-    Prieš ¡pradedant toliau tyri­
-    nėt i, ne pro šalį bus paneigti kai kuriuos priekaištus mū­
-    sų ką tik išdėstytiems faktams. Lelevelis2 linkęs gelonus
-    ir budinus pastatyti į išgalvotų tautų gretą, griežtai prie­
-    kaištaudamas, kad senovės geografų kompiliatoriai net
-    ligi XIX amžiaus nepastebėjo šio tariamo atradimo. Sis
-    drąsus nuosprendis, paskelbtas daugelio veikalų išgarsin­
-    to istoriko, nusipelno atsakymo, nors šiaip jau jo nereikė­
-    tų dėl to, kad aptarta tiek daug šios temos dalykų.
+  citata_rodoma: "Prieš ¡pradedant toliau tyri­\nnėt i, ne pro šalį bus paneigti kai kuriuos priekaištus mū­\nsų ką tik išdėstytiems faktams. Lelevelis2 linkęs gelonus\nir budinus pastatyti į išgalvotų tautų gretą, griežtai prie­\nkaištaudamas, kad senovės geografų kompiliatoriai net\nligi XIX amžiaus nepastebėjo šio tariamo atradimo. Sis\ndrąsus nuosprendis, paskelbtas daugelio veikalų išgarsin­\nto istoriko, nusipelno atsakymo, nors šiaip jau jo nereikė­\ntų dėl to, kad aptarta tiek daug šios temos dalykų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192591
+    - t-004

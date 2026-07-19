@@ -31,7 +31,6 @@ pabaigoje Prancūzijos didžioji revoliucija pagimdė naują šiuolaikinę tauto
 
 <a id="claim-t-22349"></a>
 - t-001
-  global_id: t-22349
   teiginys: "Pagal šiuolaikinę tautos sampratą tautą sudaro ne tik aukštuomenė ir išsilavinusieji, bet ir visi valstybės piliečiai ar valdiniai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,12 +62,11 @@ pabaigoje Prancūzijos didžioji revoliucija pagimdė naują šiuolaikinę tauto
     eiti prie aukštosios kultūros. Iškilo klausimas, kokia kalba šviesti liaudį,
     siekiant, kad ji taptų tautos dalimi – tos tautos gimtąja ar aukštuomenės
     kalba.
-  citata_rodoma: |
-    eiti prie aukštosios kultūros. Iškilo klausimas, kokia kalba šviesti liaudį,
+  citata_rodoma: "eiti prie aukštosios kultūros. Iškilo klausimas, kokia kalba šviesti liaudį,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22349
+    - t-001

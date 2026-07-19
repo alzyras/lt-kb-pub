@@ -49,7 +49,6 @@ Trumpa elgetavimo ir maldavimo formulė.
 
 <a id="claim-t-195442"></a>
 - t-001
-  global_id: t-195442
   teiginys: "Elgetaujanti moteris prašo „susimylėti ant lozoriaus“."
   atnaujinta: "2026-07-12 02:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -72,12 +71,11 @@ Trumpa elgetavimo ir maldavimo formulė.
     tas paršas. Būdoje čirška vaikai, matyti iš būdos iškištos basos vyro
     kojos. Boba įeina į grįčią ir prašo „susimylėti ant lozoriaus“ ; šeimi­
     ninkė ir tai nedrįsta priešintis, nes „ubagė“ visada ją nukalba.
-  citata_rodoma: |
-    Boba įeina į grįčią ir prašo „susimylėti ant lozoriaus“ ; šeimininkė ir tai nedrįsta priešintis, nes „ubagė“ visada ją nukalba.
+  citata_rodoma: "Boba įeina į grįčią ir prašo „susimylėti ant lozoriaus“ ; šeimininkė ir tai nedrįsta priešintis, nes „ubagė“ visada ją nukalba."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195442
+    - t-001

@@ -61,8 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195378"></a>
-- t-001
-  global_id: t-195378
+- t-004
   teiginys: "Atvažiavę giminės būdavo atskirai pavalgydinami seklyčioje ir paskui sodinami prie besėdos."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-195379"></a>
 - t-002
-  global_id: t-195379
   teiginys: "Atvykę giminės atsiveždavo mėsų ir ragaišių."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -83,8 +81,7 @@ Nenurodyta
     - c-177794
 
 <a id="claim-t-195380"></a>
-- t-003
-  global_id: t-195380
+- t-001
   teiginys: "Giminės būdavo kviečiamos antradieniui."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -109,15 +106,15 @@ Nenurodyta
     102
 
     geroką maišelį mėsų ir ragaišių. Yra ko nešti, teta nepaneštų.
-  citata_rodoma: |
-    Atvažiavęs dėdė neša geroką maišelį mėsų ir ragaišių. Yra ko nešti, teta nepaneštų.
+  citata_rodoma: "Atvažiavęs dėdė neša geroką maišelį mėsų ir ragaišių. Yra ko nešti, teta nepaneštų."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195379
+    - t-002
+
 - id: c-177795
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -129,15 +126,15 @@ Nenurodyta
     Šeimininkai nulikdami sto­
     jo čia prie vieno, čia prie kito būrelio.
     Giminės prašyti antradieniui.
-  citata_rodoma: |
-    Giminės prašyti antradieniui.
+  citata_rodoma: "Giminės prašyti antradieniui."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195380
+    - t-001
+
 - id: c-177796
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -153,12 +150,11 @@ Nenurodyta
     ir sotūs,
     paskui veda į grįčią prie besėdos, sodina už stalo: moterį sodina ker­
     tėje, vyras pats sau randa vietą prie vyrų.
-  citata_rodoma: |
-    Atvažiavusius gimines valgydina seklyčioje, atskirai, dėl tikrump, kad būtų pavalgę ir sotūs, paskui veda į grįčią prie besėdos, sodina už stalo: moterį sodina kertėje, vyras pats sau randa vietą prie vyrų.
+  citata_rodoma: "Atvažiavusius gimines valgydina seklyčioje, atskirai, dėl tikrump, kad būtų pavalgę ir sotūs, paskui veda į grįčią prie besėdos, sodina už stalo: moterį sodina kertėje, vyras pats sau randa vietą prie vyrų."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195378
+    - t-004

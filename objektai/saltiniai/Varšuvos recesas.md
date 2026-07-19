@@ -29,8 +29,7 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
 ## Teiginiai
 
 <a id="claim-t-67557"></a>
-- t-001
-  global_id: t-67557
+- t-002
   teiginys: "Po ilgų derybų Varšuvos recesu buvo sutarta tik dėl kai kurių klausimų, o neišspręsti klausimai atidėti vėlesniam laikui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -39,8 +38,7 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
     - c-67420
 
 <a id="claim-t-67558"></a>
-- t-002
-  global_id: t-67558
+- t-001
   teiginys: "Varšuvos recesas buvo Varšuvoje sudarytas aktas, kuriame išspręsti klausimai atskirti nuo vėlesniam seimui paliktų klausimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +67,8 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67557
+    - t-002
+
 - id: c-67421
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -88,4 +87,4 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67558
+    - t-001

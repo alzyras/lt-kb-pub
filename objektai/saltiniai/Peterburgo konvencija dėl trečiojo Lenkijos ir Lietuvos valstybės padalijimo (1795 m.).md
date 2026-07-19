@@ -40,7 +40,6 @@ Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge R
 
 <a id="claim-t-21225"></a>
 - t-001
-  global_id: t-21225
   teiginys: "1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge R
 
 <a id="claim-t-183379"></a>
 - t-002
-  global_id: t-183379
   teiginys: "Po 1795 m. Peterburgo konvencijos LDK etninės lietuvių žemės atiteko Rusijai, Užnemunė Prūsijai, o pietvakarinis LDK kampas Austrijai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -96,15 +94,15 @@ Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge R
     Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
     burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
     ir Lietuvos valstybės padalijimo.
-  citata_rodoma: |
-    burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
+  citata_rodoma: "burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21225
+    - t-001
+
 - id: c-166772
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -125,4 +123,4 @@ Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge R
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183379
+    - t-002

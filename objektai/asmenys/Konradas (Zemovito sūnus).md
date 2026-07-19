@@ -31,7 +31,6 @@ Mindaugas Jazdovo dvare užklupo Zemovito sūnų Konradą, paėmė jį į nelais
 
 <a id="claim-t-186128"></a>
 - t-001
-  global_id: t-186128
   teiginys: "Mindaugas Jazdovo dvare užklupo Zemovito sūnų Konradą, paėmė jį į nelaisvę ir vėliau grąžino į tėvo valdas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Mindaugas Jazdovo dvare užklupo Zemovito sūnų Konradą, paėmė jį į nelais
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186128
+    - t-001

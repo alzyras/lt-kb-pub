@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-200857"></a>
 - t-001
-  global_id: t-200857
   teiginys: "Mikalojus Vorobjovas Vilnių vadino lobiu meno istorijos studijoms, nes miesto paminklai rodo Europos stilių raidą nuo gotikos iki empiro."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200857
+    - t-001

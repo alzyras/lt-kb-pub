@@ -31,7 +31,6 @@ Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaik
 
 <a id="claim-t-186063"></a>
 - t-001
-  global_id: t-186063
   teiginys: "Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaiką ir žadėdamas pagalbą skatino Švitrigailą nebijoti karo su lenkais."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -51,8 +50,7 @@ Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaik
     - c-169424
 
 <a id="claim-t-186065"></a>
-- t-002
-  global_id: t-186065
+- t-003
   teiginys: "Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos kaip priešams."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -97,7 +95,8 @@ Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186063
+    - t-001
+
 - id: c-169426
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -116,16 +115,11 @@ Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaik
     su trimis savo draugais, kryžiuočių ordino riteriais, gy­
     veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš
     tikrųjų uoliai eidamas žvalgo pareigas.
-  citata_rodoma: |
-    Vis dėlto lėmė ne jo, o blaiviau galvojan­
-    čių žmonių nuomonė. Valstybės ištarme buvo įsakyta
-    Liudvikui kaip priešui kartu su savo draugais kuo
-    greičiausiai išsinešdinti iš Lietuvos. Turėjo tylėti ir
-    Jurgis, nenorėdamas patirti didesnių nemalonumų.
+  citata_rodoma: "Vis dėlto lėmė ne jo, o blaiviau galvojan­\nčių žmonių nuomonė. Valstybės ištarme buvo įsakyta\nLiudvikui kaip priešui kartu su savo draugais kuo\ngreičiausiai išsinešdinti iš Lietuvos. Turėjo tylėti ir\nJurgis, nenorėdamas patirti didesnių nemalonumų."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186065
+    - t-003

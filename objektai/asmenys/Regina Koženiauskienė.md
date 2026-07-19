@@ -26,25 +26,11 @@ media_all_json: |-
 
 Regina Koženiauskienė vertė šiame leidime pateiktus eiliuotus tekstus.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-191457"></a>
-- t-001
-  global_id: t-191457
-  teiginys: 'Regina Koženiauskienė vertė šiame leidime pateiktus eiliuotus tekstus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys tiesiogiai nusako Reginos Koženiauskienės vertėjos vaidmenį šiame leidime. Pašalinis puslapio ir įklijos triukšmas į teiginį neperkeltas.'
-  pagrindžia:
-    - c-174339
-
-## Citatos
-
-- id: c-174339
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'Regina Koženiauskienė vertė šiame leidime pateiktus eiliuotus tekstus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Norint jas ištaisyti, ir
     pridedami
@@ -70,10 +56,8 @@ Regina Koženiauskienė vertė šiame leidime pateiktus eiliuotus tekstus.
     Negaliu apglėbti viso:
     Vien pirkia tėvų menkutė
     Turtas mano pats didysis.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191457
+  statusas: verified

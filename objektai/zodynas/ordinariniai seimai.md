@@ -31,8 +31,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 ## Teiginiai
 
 <a id="claim-t-72706"></a>
-- t-001
-  global_id: t-72706
+- t-003
   teiginys: "Seime atstovai išsirinkdavo maršalką arba direktorių, o jų išrinkimo teisėtumo tikrinimas vadintas rugomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -40,9 +39,8 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   pagrindžia:
     - c-71086
 
-<a id="claim-t-72708"></a>
-- t-002
-  global_id: t-72708
+<a id="claim-t-72707"></a>
+- t-004
   teiginys: "Ordinariniai seimai turėjo rinktis kas dveji metai, o jų darbas trukdavo šešias savaites."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,8 +49,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     - c-71089
 
 <a id="claim-t-72710"></a>
-- t-003
-  global_id: t-72710
+- t-002
   teiginys: "Po seimo ginčytinus mokesčių klausimus turėdavo spręsti reliaciniai seimeliai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +58,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     - c-71088
 
 <a id="claim-t-182962"></a>
-- t-004
-  global_id: t-182962
+- t-005
   teiginys: "Ordinariniai seimai paprastai dirbdavo šešias savaites, tačiau seimui sutikus jų laikas galėjo būti pratęstas."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -90,7 +86,8 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72706
+    - t-003
+
 - id: c-71088
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -104,15 +101,15 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     vaivadijų atstovai pareikšdavo, jog jie klausimą palieką spręsti
     „broliams", t. y. savo seimeliui. Tą dalyką turėdavo išspręsti
     tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai.
-  citata_rodoma: |
-    Tą dalyką turėdavo išspręsti tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai.
+  citata_rodoma: "Tą dalyką turėdavo išspręsti tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72710
+    - t-002
+
 - id: c-71089
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -127,7 +124,8 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72708
+    - t-004
+
 - id: c-166361
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -145,4 +143,4 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182962
+    - t-005

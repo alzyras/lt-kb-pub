@@ -51,8 +51,7 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
 ## Teiginiai
 
 <a id="claim-t-192147"></a>
-- t-001
-  global_id: t-192147
+- t-002
   teiginys: "Teodoras Narbutas piemenis, pecuarii arba nomadus lokalizuoja už Pantikapo, Arklių Vandenų, į šiaurę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -70,8 +69,7 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
     - c-175032
 
 <a id="claim-t-192148"></a>
-- t-002
-  global_id: t-192148
+- t-003
   teiginys: "Teodoras Narbutas skitus apibendrina kaip daugiausia nomadus, išstumtus iš Azijos į lygumas į vakarus nuo Juodosios jūros."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -89,8 +87,7 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
     - c-175033
 
 <a id="claim-t-192149"></a>
-- t-003
-  global_id: t-192149
+- t-004
   teiginys: "Teodoras Narbutas vieną skitų nomadų gentį sieja su Budos religija, Arakso arba Ross ir Volgos vardais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -108,8 +105,7 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
     - c-175033
 
 <a id="claim-t-192150"></a>
-- t-004
-  global_id: t-192150
+- t-001
   teiginys: "Narbutas aiškina, kad Skitų klasės skirstomos į žemdirbius ir į piemenis / pecuarii / nomadus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -144,24 +140,16 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
     Kalančiako upių, taip pat negalima būtų parinkti visiems
     metų laikams tinkamesnių, ypač gyvulių augintojams,
     vietų už Kalančiako.
-  citata_rodoma: |
-    Bet tarp Hipakyrio ir Pantikapo, Pripetės, arba ant abiejų Dnep-
-    ro krantų, t. y. tarp Baturino ir Mozyrio, gyveno skitai
-    žemdirbiai, o už kito Pantikapo, Arklių Vandenų, į šiau-
-    rę — piemenys, pecuarii, arba nomadai. Taigi pagal pa-
-    našumų ir žemės gamtą galima geriau išdėstyti tas skitų
-    klases, negu perkeliant jas kitapus Mėlynųjų Vandenų ir
-    Kalančiako upių, taip pat negalima būtų parinkti visiems
-    metų laikams tinkamesnių, ypač gyvulių augintojams,
-    vietų už Kalančiako.
+  citata_rodoma: "Bet tarp Hipakyrio ir Pantikapo, Pripetės, arba ant abiejų Dnep-\nro krantų, t. y. tarp Baturino ir Mozyrio, gyveno skitai\nžemdirbiai, o už kito Pantikapo, Arklių Vandenų, į šiau-\nrę — piemenys, pecuarii, arba nomadai. Taigi pagal pa-\nnašumų ir žemės gamtą galima geriau išdėstyti tas skitų\nklases, negu perkeliant jas kitapus Mėlynųjų Vandenų ir\nKalančiako upių, taip pat negalima būtų parinkti visiems\nmetų laikams tinkamesnių, ypač gyvulių augintojams,\nvietų už Kalančiako."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192147
-    - t-192150
+    - t-002
+    - t-001
+
 - id: c-175033
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -184,19 +172,12 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
     minės motinos vardu Arakso upę, arba Ross, suteikė šį
     vardą kitai didelei upei arba vienai jos vagų (§ 51), t. y.
     Volgai, ir pagaliau pažįstami Europoje budinu vardu.
-  citata_rodoma: |
-    Čia tik priminsime, jog skitai daugiau-
-    sia buvo tokie patys nomadai, išstumti iš Azijos į plačias
-    lygumas, esančias į vakarus nuo Juodosios jūros; vie-
-    na jų gentis priėmė Budos religiją, pakrikštijo savo gi-
-    minės motinos vardu Arakso upę, arba Ross, suteikė šį
-    vardą kitai didelei upei arba vienai jos vagų (§ 51), t. y.
-    Volgai, ir pagaliau pažįstami Europoje budinu vardu.
+  citata_rodoma: "Čia tik priminsime, jog skitai daugiau-\nsia buvo tokie patys nomadai, išstumti iš Azijos į plačias\nlygumas, esančias į vakarus nuo Juodosios jūros; vie-\nna jų gentis priėmė Budos religiją, pakrikštijo savo gi-\nminės motinos vardu Arakso upę, arba Ross, suteikė šį\nvardą kitai didelei upei arba vienai jos vagų (§ 51), t. y.\nVolgai, ir pagaliau pažįstami Europoje budinu vardu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192148
-    - t-192149
+    - t-003
+    - t-004

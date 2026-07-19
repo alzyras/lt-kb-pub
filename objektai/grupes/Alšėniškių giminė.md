@@ -31,7 +31,6 @@ Fedoras Ivanovičius Jaroslavičius LDK buvo susigiminiavęs su Goštautais, Ole
 
 <a id="claim-t-187770"></a>
 - t-001
-  global_id: t-187770
   teiginys: "Fedoras Ivanovičius Jaroslavičius LDK buvo susigiminiavęs su Goštautais, Olelkaičiais ir Alšėniškiais."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Fedoras Ivanovičius Jaroslavičius LDK buvo susigiminiavęs su Goštautais, Ole
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187770
+    - t-001

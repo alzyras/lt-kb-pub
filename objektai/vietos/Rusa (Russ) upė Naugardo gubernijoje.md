@@ -31,7 +31,6 @@ Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upei vardą davė var
 
 <a id="claim-t-189057"></a>
 - t-001
-  global_id: t-189057
   teiginys: "Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upei vardą davė variagų atgabenta lietuvių tautos kolonija."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upei vardą davė var
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189057
+    - t-001

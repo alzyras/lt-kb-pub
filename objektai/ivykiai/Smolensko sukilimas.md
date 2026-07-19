@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-66899"></a>
 - t-001
-  global_id: t-66899
   teiginys: "Po Smolensko atsiėmimo tuo metu buvo išvengta karo su Maskva ir Pskovu, kuris taip pat rengėsi karui dėl Smolensko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66899
+    - t-001

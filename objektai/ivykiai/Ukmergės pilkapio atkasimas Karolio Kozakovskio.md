@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-192044"></a>
 - t-001
-  global_id: t-192044
   teiginys: "1838 m. Karolis Kozakovskis atkasė Ukmergės pilkapį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-192489"></a>
 - t-002
-  global_id: t-192489
   teiginys: "Ukmergės pilkapį, ilgai užlietą greta esančio ežero, 1838 m. atkasė Karolis Kozakovskis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -106,16 +104,15 @@ Nenurodyta
     tami laužaviečių likučiai. Per daugelį metų taip išaugdavo pilka­
     piai. Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Koza-
     kovskis, duoda pagrindo tuo tikėti.
-  citata_rodoma: |
-    Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Koza-
-    kovskis, duoda pagrindo tuo tikėti.
+  citata_rodoma: "Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Koza-\nkovskis, duoda pagrindo tuo tikėti."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192044
+    - t-001
+
 - id: c-175280
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -134,4 +131,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192489
+    - t-002

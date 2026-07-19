@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20358"></a>
 - t-001
-  global_id: t-20358
   teiginys: "1939 m. pasaulinei parodai Niujorke Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialaus Lietuvos skyriaus parengimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,12 +87,11 @@ Nenurodyta
     dailininkų drobėse. Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
     menininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-
     toriją visam pasauliui.
-  citata_rodoma: |
-    dailininkų drobėse. Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
+  citata_rodoma: "dailininkų drobėse. Šiuo ir kitais atvejais mūsų intelektualai, akademikai,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20358
+    - t-001

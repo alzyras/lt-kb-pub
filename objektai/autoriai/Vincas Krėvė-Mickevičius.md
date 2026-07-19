@@ -31,7 +31,6 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
 
 <a id="claim-t-193701"></a>
 - t-001
-  global_id: t-193701
   teiginys: "Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad žydai tarpusavyje dažnai vartojo rusų kalbą."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -44,7 +43,6 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
 
 <a id="claim-t-193702"></a>
 - t-002
-  global_id: t-193702
   teiginys: "Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis liaudininkas žurnalistas Justas Paleckis, o jo pavaduotoju ir užsienio reikalų ministru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas Galvanauskas, krašto."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -83,7 +81,8 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193701
+    - t-001
+
 - id: c-176371
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -104,4 +103,4 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193702
+    - t-002

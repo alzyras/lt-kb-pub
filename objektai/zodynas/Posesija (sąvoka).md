@@ -33,7 +33,6 @@ Miesto branduolio kvartalai buvo padalyti į sklypus arba posesijas. Vienuolynui
 
 <a id="claim-t-201774"></a>
 - t-001
-  global_id: t-201774
   teiginys: "Miesto branduolio kvartalai buvo padalyti į sklypus arba posesijas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,6 @@ Miesto branduolio kvartalai buvo padalyti į sklypus arba posesijas. Vienuolynui
 
 <a id="claim-t-201775"></a>
 - t-002
-  global_id: t-201775
   teiginys: "Vienuolynui buvo iš Kauno miestiečių nupirkti ar kitaip įsigyti Turgaus aikštės šiaurės vakarų kampe 2 kvartalai su 8 sklypais (posesijomis), kuriuose stovėjo gyvenamieji ir ūkiniai miestiečių pastatai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -59,7 +57,6 @@ Miesto branduolio kvartalai buvo padalyti į sklypus arba posesijas. Vienuolynui
 
 <a id="claim-t-201776"></a>
 - t-003
-  global_id: t-201776
   teiginys: "Kaune plintant mūro statybai keitėsi miestiečių sklypų (posesijų) ir, svarbiausia, gyvenamųjų būstų išvaizda ir kokybė."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -87,7 +84,7 @@ Miesto branduolio kvartalai buvo padalyti į sklypus arba posesijas. Vienuolynui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201774
+    - t-001
 
 - id: c-185122
   autorius: "Zigmantas Kiaupa"
@@ -105,7 +102,7 @@ Miesto branduolio kvartalai buvo padalyti į sklypus arba posesijas. Vienuolynui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201775
+    - t-002
 
 - id: c-185123
   autorius: "Zigmantas Kiaupa"
@@ -123,4 +120,4 @@ Miesto branduolio kvartalai buvo padalyti į sklypus arba posesijas. Vienuolynui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201776
+    - t-003

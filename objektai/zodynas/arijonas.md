@@ -44,7 +44,6 @@ Religinė Odoakro charakteristika šaltinyje.
 
 <a id="claim-t-192243"></a>
 - t-001
-  global_id: t-192243
   teiginys: "Narbutas Odoakrą apibūdina kaip arijoną, kuris rėmė katalikus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -63,7 +62,6 @@ Religinė Odoakro charakteristika šaltinyje.
 
 <a id="claim-t-192244"></a>
 - t-002
-  global_id: t-192244
   teiginys: "Narbutas rašo, kad Odoakras, nors pats buvo arijonas, rėmė katalikus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -82,7 +80,6 @@ Religinė Odoakro charakteristika šaltinyje.
 
 <a id="claim-t-192553"></a>
 - t-003
-  global_id: t-192553
   teiginys: "Narbutas rašo, kad Odoakras saugojo gyventojus, atgaivino meną ir mokslus, nors buvo arijonas ir rėmė katalikus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -114,17 +111,16 @@ Religinė Odoakro charakteristika šaltinyje.
     mo, juo labiau kad ir šiaip nepajėgė vieni įdirbti visą že­
     mę. Odoakras saugojo juos nuo nelaimių, atgaivino me­
     ną ir mokslus, nors pats buvo arijonas, rėmė katalikus.
-  citata_rodoma: |
-    Odoakras saugojo juos nuo nelaimių, atgaivino me-
-    ną ir mokslus, nors pats buvo arijonas, rėmė katalikus.
+  citata_rodoma: "Odoakras saugojo juos nuo nelaimių, atgaivino me-\nną ir mokslus, nors pats buvo arijonas, rėmė katalikus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192243
-    - t-192244
+    - t-001
+    - t-002
+
 - id: c-175341
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -143,4 +139,4 @@ Religinė Odoakro charakteristika šaltinyje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192553
+    - t-003

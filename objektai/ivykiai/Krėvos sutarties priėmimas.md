@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20234"></a>
 - t-001
-  global_id: t-20234
   teiginys: "1385 m. sudaryta Krėvos sutartis su Lenkija lėmė, kad Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-22969
 
 <a id="claim-t-20235"></a>
-- t-002
-  global_id: t-20235
+- t-003
   teiginys: "Krėvos sutartį skatino įnirtingi vokiečių puolimai, o silpstančiai Lietuvai lenkai tapo sąjungininkais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-22971
 
 <a id="claim-t-20236"></a>
-- t-003
-  global_id: t-20236
+- t-002
   teiginys: "Krėvos sutartimi Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikybę ir prišlieti Lietuvą prie Lenkijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,7 +109,6 @@ Nenurodyta
 
 <a id="claim-t-183230"></a>
 - t-004
-  global_id: t-183230
   teiginys: "1385 m. rugpjūčio 14 d. į Krėvos pilį atvykus lenkų delegacijai buvo priimtas dokumentas, į istoriją įėjęs Krėvos sutarties vardu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -146,15 +142,15 @@ Nenurodyta
     išseko ir vertė ieškoti sąjungininko. Išeitis buvo 1385 m. sudaryta Krėvos
     sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo
     Lenkijos karaliumi.
-  citata_rodoma: |
-    sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo
+  citata_rodoma: "sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20234
+    - t-001
+
 - id: c-22971
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -166,15 +162,15 @@ Nenurodyta
     Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokie-
     čių puolimai. Krėvos sutarties sudarymo išvakarėse Lietuvos jėgos seko,
     todėl lenkai tapo jos sąjungininkais.
-  citata_rodoma: |
-    čių puolimai. Krėvos sutarties sudarymo išvakarėse Lietuvos jėgos seko,
+  citata_rodoma: "čių puolimai. Krėvos sutarties sudarymo išvakarėse Lietuvos jėgos seko,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20235
+    - t-003
+
 - id: c-166618
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -193,5 +189,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20236
-    - t-183230
+    - t-002
+    - t-004

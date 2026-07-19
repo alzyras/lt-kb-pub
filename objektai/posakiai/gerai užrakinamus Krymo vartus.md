@@ -30,8 +30,7 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
 ## Teiginiai
 
 <a id="claim-t-78923"></a>
-- t-001
-  global_id: t-78923
+- t-002
   teiginys: "Totoriams strateginį pranašumą teikė Krymo pusiasalio nuošalumas ir įtvirtinta Perekopo sąsmauka, vadinta „gerai užrakinamais Krymo vartais“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
     - c-76024
 
 <a id="claim-t-78924"></a>
-- t-002
-  global_id: t-78924
+- t-001
   teiginys: "Totoriai turėjo „gerai užrakinamus Krymo vartus“ – įtvirtintą Perekopo sąsmauką, saugojusią sunkiai pasiekiamą jų bazę."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -91,5 +89,5 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78923
-    - t-78924
+    - t-002
+    - t-001

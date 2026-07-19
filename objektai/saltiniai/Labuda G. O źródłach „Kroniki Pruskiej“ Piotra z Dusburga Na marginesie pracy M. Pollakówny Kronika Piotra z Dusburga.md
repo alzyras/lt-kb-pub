@@ -36,7 +36,6 @@ Dusburgietis teigia, kad labuda G.
 
 <a id="claim-t-61120"></a>
 - t-001
-  global_id: t-61120
   teiginys: "G. Labudos „O źródłach „Kroniki Pruskiej“ Piotra z Dusburga“ paskelbta 1971 m. Olsztyne, „Komunikaty Mazursko-Warmińskie“ Nr. 2–3, p. 217–243."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Dusburgietis teigia, kad labuda G.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61120
+    - t-001

@@ -39,8 +39,7 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 ## Teiginiai
 
 <a id="claim-t-63766"></a>
-- t-001
-  global_id: t-63766
+- t-002
   teiginys: "Juozas Tumas-Vaižgantas tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
     - c-64709
 
 <a id="claim-t-63767"></a>
-- t-002
-  global_id: t-63767
+- t-001
   teiginys: "Jaunas kunigas Juozas Tumas-Vaižgantas buvo svarbiausias nuo 1896 m. leisto katalikiško laikraščio „Tėvynės sargas“ veikėjas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,15 +90,15 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
     1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jau-
     nas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-
     jos ir geranoriškumo įsikūnijimas.
-  citata_rodoma: |
-    nas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-
+  citata_rodoma: "nas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63767
+    - t-001
+
 - id: c-64709
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -119,12 +117,11 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
     dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos
     pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
     žydai tarpusavyje dažnai vartojo rusų kalbą.
-  citata_rodoma: |
-    kultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius
+  citata_rodoma: "kultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63766
+    - t-002

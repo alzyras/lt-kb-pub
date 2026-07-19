@@ -31,7 +31,6 @@ Narbutas, remdamasis Hartknochu, Romuniškius mini Žemaitijoje, už sienos nuo 
 
 <a id="claim-t-189055"></a>
 - t-001
-  global_id: t-189055
   teiginys: "Narbutas, remdamasis Hartknochu, Romuniškius mini Žemaitijoje, už sienos nuo Prūsijos Romučių kaimo prie Tenenio upės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Narbutas, remdamasis Hartknochu, Romuniškius mini Žemaitijoje, už sienos nuo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189055
+    - t-001

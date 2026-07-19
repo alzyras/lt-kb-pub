@@ -33,7 +33,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 
 <a id="claim-t-186014"></a>
 - t-001
-  global_id: t-186014
   teiginys: "Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 
 <a id="claim-t-186015"></a>
 - t-002
-  global_id: t-186015
   teiginys: "Artėjant Skirmantui, Mstislavas buvo priverstas sutraukti savo pulkus iš Bresto apylinkių kaimų į stovyklą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - c-169376
 
 <a id="claim-t-193983"></a>
-- t-004
-  global_id: t-193983
+- t-006
   teiginys: "Lietuvos metraštis pasakoja, kad Skirmantas atsisakė Balaklajaus reikalautos duoklės ir liepė sužaloti chano pasiuntinius."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -88,8 +85,7 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - c-176608
 
 <a id="claim-t-193985"></a>
-- t-006
-  global_id: t-193985
+- t-008
   teiginys: "Lietuvos metraštis nurodo, kad Skirmantas turėjo tris sūnus: Treniotą, Liubartą ir Pisimantą, o paskui mirė."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -102,8 +98,7 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - c-176610
 
 <a id="claim-t-201027"></a>
-- t-007
-  global_id: t-201027
+- t-009
   teiginys: "Ne trukus Mingaila kunigaikštis nustipo, palikdamas du sūnų karšinčiais — Ginvilą rėdytoju Polocko, o Skirmantą Naujapilio."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -114,27 +109,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-184377
-
-<a id="claim-t-193982"></a>
-- t-003
-  global_id: t-193982
-  teiginys: 'Lietuvos metraštis pasakoja, kad Skirmantas prašė Živinbudo pagalbos prieš rusus ir su Kukovaičiu išžygiavo prieš Lucko ir Pinsko kunigaikštį Mstislavą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas Skirmanto veiksmas ir pagalbos kontekstas; priešiškas žygis prieš rusus paliktas kaip metraščio pasakojimas. Nepridėta datų ar rezultatų, kurių citata nepateikia.'
-  pagrindžia:
-    - c-003
-<a id="claim-t-193984"></a>
-- t-005
-  global_id: t-193984
-  teiginys: 'Lietuvos metraštis Skirmantui priskiria pergalę prieš chaną prie Kaidanovo ir Mozyriaus, Černigovo, Starodubo bei Karačevo paėmimą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas Skirmanto veiksmas, vieta ir rezultatas; pergalės bei titulavimo kalba palikta su metraščio atribucija. Nepridėta datų.'
-  pagrindžia:
-    - c-005
 - susijęs iš Kijevo Rusia: Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.
 - susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-184791|Mingaila]]: Po pergalės prie Polocko Mingaila netrukus mirė, įpėdiniais palikdamas Skirmantą ir Ginvilą.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187488|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraščio pasakojime Skirmantas liepė sužaloti Balaklajaus pasiuntinius, o kitais metais chanas patraukė į Rusų žemę.
@@ -178,11 +152,9 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     Lucko ir Pinsko kunigaikštį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193982
+  statusas: verified
 - c-005
   santrauka: 'Lietuvos metraštis Skirmantui priskiria pergalę prieš chaną prie Kaidanovo ir Mozyriaus, Černigovo, Starodubo bei Karačevo paėmimą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -203,11 +175,9 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     jęs pergalę, be nuostolių pargrįžo atgalios.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193984
+  statusas: not_found
 ## Citatos
 
 - id: c-169375
@@ -230,7 +200,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186014
+    - t-001
+
 - id: c-169376
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -269,7 +240,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186015
+    - t-002
+
 - id: c-176608
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -294,7 +266,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193983
+    - t-006
+
 - id: c-176610
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -303,30 +276,24 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
     galybę, ir nukovė patį chaną ", Su didžios pergalės
     šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
-    Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
+    Černigovo, Starodubo l3, Karačevo M miestus, ir, laimė­
     jęs pergalę, be nuostolių pargrįžo atgalios.
     Turėjo didysis kunigaikštis Skirmantas tris sūnus:
-    vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
+    vieną Treniotą IS, antrą Liubartą l6, trečią Pisimantą l7.
     O paskui didysis kunigaikštis Skirmantas pasimirė.
-  citata_rodoma: |
-    Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
-    galybę, ir nukovė patį chaną ", Su didžios pergalės
-    šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
-    Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
-    jęs pergalę, be nuostolių pargrįžo atgalios.
-    Turėjo didysis kunigaikštis Skirmantas tris sūnus:
-    vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
-    O paskui didysis kunigaikštis Skirmantas pasimirė.
+  citata_rodoma: "Nugalėjo tą chaną, ir sumušė visą jo totoriškąją \ngalybę, ir nukovė patį chaną \", Su didžios pergalės \nšlove nužygiavo Rusų žemėn ir paėmė Mozyriaus \nČernigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­\njęs pergalę, be nuostolių pargrįžo atgalios.\nTurėjo didysis kunigaikštis Skirmantas tris sūnus: \nvieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .  \nO paskui didysis kunigaikštis Skirmantas pasimirė."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193985
+    - t-008
+
 - id: c-184377
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip pasibengė rėdą ūkės polockionų,
     vienok lyčiaus tos karės raštuose nėra randama. Ne­
@@ -342,7 +309,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201027
+    - t-009
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Pisimantas]]
 - Rėmė Skirmantą: [[objektai/asmenys/Kukovaitis]]

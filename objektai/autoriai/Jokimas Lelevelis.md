@@ -36,7 +36,6 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
 
 <a id="claim-t-29204"></a>
 - t-001
-  global_id: t-29204
   teiginys: "Jokimas Lelevelis savo gausiuose veikaluose nemažai rašė apie Didžiosios Lietuvos Kunigaikštystės istoriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,23 +55,15 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
 
 <a id="claim-t-184351"></a>
 - t-002
-  global_id: t-184351
   teiginys: "Jokimas Lelevelis parašė Aug."
-  atnaujinta: "2026-05-31 17:12"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lelevelis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jokimas Lelevelis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lelevelis: mention_match, author, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jokimas Lelevelis\" parinktas kaip owner_note_path. Targetas \"Lelevelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-167721
+    - c-29110
 
 ## Citatos
 
@@ -94,7 +85,9 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29204
+    - t-001
+    - t-002
+
 - id: c-167721
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -109,5 +102,3 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184351

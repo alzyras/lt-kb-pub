@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-21006"></a>
 - t-001
-  global_id: t-21006
   teiginys: "Millenniumo idėja kildinama iš Šventojo Rašto Apreiškimo Jonui, arba Apokalipsės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ media_all_json: |-
 
 <a id="claim-t-183356"></a>
 - t-002
-  global_id: t-183356
   teiginys: "Pirmasis krikštas Lietuvoje siejamas su krikščioniškosios Europos Millenniumo idėja, kildinama iš Apreiškimo Jonui."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -78,15 +76,15 @@ media_all_json: |-
     su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri
     kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės. Iš čia
     motyvų pasitelkė misionieriai.
-  citata_rodoma: |
-    kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės. Iš čia
+  citata_rodoma: "kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės. Iš čia"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21006
+    - t-001
+
 - id: c-166748
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -103,4 +101,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183356
+    - t-002

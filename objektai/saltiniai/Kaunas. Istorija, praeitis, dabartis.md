@@ -7,10 +7,10 @@ datos:
   - '2006 m.'
 date_start: '2006'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XXI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Atskirai reikia paminėti Rimanto Viedrynaičio sudarytą leidinį Kaunas.
 
 <a id="claim-t-202249"></a>
 - t-001
-  global_id: t-202249
   teiginys: "Atskirai reikia paminėti Rimanto Viedrynaičio sudarytą leidinį Kaunas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Atskirai reikia paminėti Rimanto Viedrynaičio sudarytą leidinį Kaunas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202249
+    - t-001

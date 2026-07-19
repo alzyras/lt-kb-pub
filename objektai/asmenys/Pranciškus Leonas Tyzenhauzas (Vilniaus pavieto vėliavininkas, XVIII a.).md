@@ -37,8 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200490"></a>
-- t-001
-  global_id: t-200490
+- t-002
   teiginys: "1760 m. Pranciškus Leonas Tyzenhauzas tribunole buvo nuteistas kalėti 1 metus ir 6 savaites bokšto kalėjime."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-183857
 
 <a id="claim-t-200491"></a>
-- t-002
-  global_id: t-200491
+- t-001
   teiginys: "Pranciškus Leonas Tyzenhauzas buvo Vilniaus pavieto vėliavininkas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -83,20 +81,9 @@ media_all_json: |-
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 6"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
-  citata_originali: |
-    Taip pat 1755 m. laiške kanauninkas teigė, kad LDK pakancleris
-    Mykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais [43]. 1759 m. jis
-    pranešė, kaip Antanas Tovianskis (Antoni Gieralt Towiański) siekė tribunolo vicemaršalo
-    posto [57]. O 1760 m. kanauninkas rašė, kaip Vilniaus pavieto vėliavininką Pranciškų
-    Leoną Tyzenhauzą tribunole nuteisė kalėti 1 metus ir 6 savaites bokšto kalėjime [62].
-  citata_rodoma: |
-    O 1760 m. kanauninkas rašė, kaip Vilniaus pavieto vėliavininką Pranciškų
-    Leoną Tyzenhauzą tribunole nuteisė kalėti 1 metus ir 6 savaites bokšto kalėjime [62].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200490
-    - t-200491
+    - t-002
+    - t-001

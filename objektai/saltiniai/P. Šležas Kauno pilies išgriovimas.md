@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31881"></a>
 - t-001
-  global_id: t-31881
   teiginys: "P. Šležo „Kauno pilies išgriovimas“ paskelbtas „Židinyje“ 1932 m. Nr. 10, p. 271 ir toliau."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,13 +65,11 @@ media_all_json: |-
     — Šležas, P. : _Kauno pilies išgriovimas,_ Židinys, 1932, nr. 10, 271 ir
     sek. p. — (”) _Ko bėgo Kęstučio sūnus iš Lietuvos,_ Židinys, 1932, nr. 12,
     449-457 p. — (”) _Kęstučio šeima,_ Mūsų Žinynas, 1933, nr. 98-99.
-  citata_rodoma: |
-    — Šležas, P. : _Kauno pilies išgriovimas,_ Židinys, 1932, nr. 10, 271 ir
-    sek. p.
+  citata_rodoma: "— Šležas, P. : _Kauno pilies išgriovimas,_ Židinys, 1932, nr. 10, 271 ir\nsek. p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31881
+    - t-001

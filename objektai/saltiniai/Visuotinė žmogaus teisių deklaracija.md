@@ -37,7 +37,6 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
 
 <a id="claim-t-21316"></a>
 - t-001
-  global_id: t-21316
   teiginys: "Disidentinis judėjimas ragino okupacinę valdžią laikytis 1948 m. JT Generalinės Asamblėjos patvirtintos Visuotinės žmogaus teisių deklaracijos, kurios SSRS faktiškai nepaisė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,12 +71,11 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m.
     patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
     jos nepaisė.
-  citata_rodoma: |
-    patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai
+  citata_rodoma: "patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21316
+    - t-001

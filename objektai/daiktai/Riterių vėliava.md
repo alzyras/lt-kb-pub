@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-179491"></a>
-- t-001
-  global_id: t-179491
+- t-002
   teiginys: "Viduriniais amžiais riterių vėliavos netekimas kovoje laikytas didele nelaime."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -67,8 +66,7 @@ Nenurodyta
     - c-163190
 
 <a id="claim-t-179493"></a>
-- t-002
-  global_id: t-179493
+- t-001
   teiginys: "Po Aizkrauklės kautynių riterių vėliava atiteko pagonims."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -97,18 +95,15 @@ Nenurodyta
     kronistas pasakė, matyti, jog tos kautynės Livonijoje buvo pergy­
     ventos, kaip «didelis smūgis krikščionybei», ypač kai «krito » ir
     pagonims atiteko riterių vėliava 240 *.
-  citata_rodoma: |
-    Iš to, ką
-    kronistas pasakė, matyti, jog tos kautynės Livonijoje buvo pergy­
-    ventos, kaip «didelis smūgis krikščionybei», ypač kai «krito » ir
-    pagonims atiteko riterių vėliava 240 *.
+  citata_rodoma: "Iš to, ką\nkronistas pasakė, matyti, jog tos kautynės Livonijoje buvo pergy­\nventos, kaip «didelis smūgis krikščionybei», ypač kai «krito » ir\npagonims atiteko riterių vėliava 240 *."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179493
+    - t-001
+
 - id: c-163190
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -121,14 +116,11 @@ Nenurodyta
     pagonims atiteko riterių vėliava 240 *. O jos netekimas kovoje, prie
     viduriniais amžiais perdėtai vertinamos įvairių ženklų simbolikos,
     skaitėsi didelė nelaimė.
-  citata_rodoma: |
-    O jos netekimas kovoje, prie
-    viduriniais amžiais perdėtai vertinamos įvairių ženklų simbolikos,
-    skaitėsi didelė nelaimė.
+  citata_rodoma: "O jos netekimas kovoje, prie\nviduriniais amžiais perdėtai vertinamos įvairių ženklų simbolikos,\nskaitėsi didelė nelaimė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179491
+    - t-002

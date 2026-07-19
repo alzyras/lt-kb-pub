@@ -31,7 +31,6 @@ Dusburgietis teigia, kad prie Didžiojo Selmento ežero (Selmęt Wielki) išliko
 
 <a id="claim-t-60673"></a>
 - t-001
-  global_id: t-60673
   teiginys: "T. Baranowskio darbu remiamasi teigiant, kad prie Didžiojo Selmento ežero išliko apie 60 m skersmens jotvingių piliakalnis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Dusburgietis teigia, kad prie Didžiojo Selmento ežero (Selmęt Wielki) išliko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60673
+    - t-001

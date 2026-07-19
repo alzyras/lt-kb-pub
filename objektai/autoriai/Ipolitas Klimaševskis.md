@@ -35,7 +35,6 @@ Bychovco kronikos rankraštį prieš 1830 m. Alek sandro Bychovco Mogiliovcų dv
 
 <a id="claim-t-194148"></a>
 - t-001
-  global_id: t-194148
   teiginys: "Bychovco kronikos rankraštį prieš 1830 m. Alek sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil niaus gimnazijos mokytojas Ipolitas Klimaševskis."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Bychovco kronikos rankraštį prieš 1830 m. Alek sandro Bychovco Mogiliovcų dv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194148
+    - t-001

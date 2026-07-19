@@ -31,7 +31,6 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 
 <a id="claim-t-41638"></a>
 - t-001
-  global_id: t-41638
   teiginys: "Etmonas, iždininkas ir maršalas paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, tačiau iš tikrųjų traukėsi į Kuršą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 
 <a id="claim-t-183779"></a>
 - t-002
-  global_id: t-183779
   teiginys: "Sapiegų etmonas, iždininkas ir maršalas paskleidė gandą, kad vyksta į Drują bei Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -94,5 +92,5 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41638
-    - t-183779
+    - t-001
+    - t-002

@@ -42,7 +42,6 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 
 <a id="claim-t-71978"></a>
 - t-001
-  global_id: t-71978
   teiginys: "Valkavisko apskritis buvo įtraukta į Lietuvos teritorijos projektą, grindžiamą „Lithuania Propria“ ribomis."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
     - c-70440
 
 <a id="claim-t-71979"></a>
-- t-002
-  global_id: t-71979
+- t-003
   teiginys: "1917 m. Berno konferencijoje Valkavisko apskritis buvo priskirta planuotos Lietuvos teritorijai „Lithuania Propria“ ribose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
     - c-70440
 
 <a id="claim-t-71980"></a>
-- t-003
-  global_id: t-71980
+- t-002
   teiginys: "Budikidas ir jo brolis Budivydas 1289 m. taikai palaikyti perleido Valkaviską Haličo-Volinijos kunigaikščiams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,19 +124,15 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
     leido Valkaviską^19. Vargu tos nuolaidos turėjo kokį ryšį su Prūsų
     ordino agresija, nes tuo pat laiku lietuviai puldinėjo kitų kaimynų
     žemes, ypač Lenkiją.
-  citata_rodoma: |
-    Taikai
-    palaikyti, « Budikidas » ir jo brolis « Budivydas » jiems 1289 per­
-    leido Valkaviską^19. Vargu tos nuolaidos turėjo kokį ryšį su Prūsų
-    ordino agresija, nes tuo pat laiku lietuviai puldinėjo kitų kaimynų
-    žemes, ypač Lenkiją.
+  citata_rodoma: "Taikai\npalaikyti, « Budikidas » ir jo brolis « Budivydas » jiems 1289 per­\nleido Valkaviską^19. Vargu tos nuolaidos turėjo kokį ryšį su Prūsų\nordino agresija, nes tuo pat laiku lietuviai puldinėjo kitų kaimynų\nžemes, ypač Lenkiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71980
+    - t-002
+
 - id: c-70440
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -156,22 +149,15 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
     ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
     Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
     tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
-  citata_rodoma: |
-    Šaulys) bei užsienio lietuvių atstovai, pasisakyta
-    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
-    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
-    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
-    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
-    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
-    Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
-    tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
+  citata_rodoma: "Šaulys) bei užsienio lietuvių atstovai, pasisakyta \nuž etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: \nKauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko \napskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), \nbe to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti \nir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais). \nApskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-\ntuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71978
-    - t-71979
+    - t-001
+    - t-003
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

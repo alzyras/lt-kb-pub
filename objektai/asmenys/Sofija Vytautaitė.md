@@ -31,7 +31,6 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
 
 <a id="claim-t-79159"></a>
 - t-001
-  global_id: t-79159
   teiginys: "Sofijos Vytautaitės lankymasis su vaikais pas Vytautą Smolenske garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,10 +73,12 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
     dovanų“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-76238
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -103,6 +104,7 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79159
+    - t-001
+
 ## Ryšiai
 - Sofija Vytautaitė keliavo į [[objektai/vietos/Smolenskas]]

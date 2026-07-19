@@ -41,7 +41,6 @@ Dusburgietis teigia, kad laikinąja, būtent tol skaistykloje kentėti, kol tas 
 
 <a id="claim-t-58924"></a>
 - t-001
-  global_id: t-58924
   teiginys: "Pasakojime mirusiajam amžinoji bausmė pakeista laikinomis kančiomis skaistykloje, kol giminaitis grąžins neteisėtai pasisavintą lauką."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ Dusburgietis teigia, kad laikinąja, būtent tol skaistykloje kentėti, kol tas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58924
+    - t-001

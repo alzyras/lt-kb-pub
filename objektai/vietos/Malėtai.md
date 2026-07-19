@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-34201"></a>
 - t-001
-  global_id: t-34201
   teiginys: "1387 m. vasario 17 d. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Malėtus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34201
+    - t-001

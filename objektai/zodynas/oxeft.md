@@ -37,7 +37,6 @@ Notandum [pa­ žymėtina], kurios pro contigenti lucro [iš gaunamo pelno] skir
 
 <a id="claim-t-86603"></a>
 - t-001
-  global_id: t-86603
   teiginys: "Oxeftas šaltinyje minimas kaip alaus statinė, kurią kas savaitę privalėta duoti kolegijos prefektui ir jo padėjėjui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,22 +76,11 @@ Notandum [pa­ žymėtina], kurios pro contigenti lucro [iš gaunamo pelno] skir
     skiriamos kolegijos prefekto ir padėjėjo maitinimui, et insu­
     per [ir priedo] kas savaitę statinę alaus, alias oxeft ir silpnes­
     nio alaus oxeftą duoti tenebatur [privalėjo].
-  citata_rodoma: |
-    Spaustuvės lėšas sudaro pajamos, gautos už parduotas
-    joje spausdintas knygas, ir a demptis expensis [iš gautų išlai­
-    doms] - spaudmenims, popieriui, atlyginimams, rinkėjams
-    ir spausdintojams, prefekto ir padėjėjo išlaikymui, daugiau
-    kaip 20 žmonių maitinimui, item pro sartis et tectis [remon­
-    tui], to paties mūrinio namo remontui, per metus vos tegau­
-    na habitualiter [išskirtinai] 2000 lenk. auksinų. Notandum [pa­
-    žymėtina], kurios pro contigenti lucro [iš gaunamo pelno]
-    skiriamos kolegijos prefekto ir padėjėjo maitinimui, et insu­
-    per [ir priedo] kas savaitę statinę alaus, alias oxeft ir silpnes­
-    nio alaus oxeftą duoti tenebatur [privalėjo].
+  citata_rodoma: "Spaustuvės lėšas sudaro pajamos, gautos už parduotas \njoje spausdintas knygas, ir a demptis expensis [iš gautų išlai­\ndoms] - spaudmenims, popieriui, atlyginimams, rinkėjams \nir spausdintojams, prefekto ir padėjėjo išlaikymui, daugiau \nkaip 20 žmonių maitinimui, item pro sartis et tectis [remon­\ntui], to paties mūrinio namo remontui, per metus vos tegau­\nna habitualiter [išskirtinai] 2000 lenk. auksinų. Notandum [pa­\nžymėtina], kurios pro contigenti lucro [iš gaunamo pelno] \nskiriamos kolegijos prefekto ir padėjėjo maitinimui, et insu­\nper [ir priedo] kas savaitę statinę alaus, alias oxeft ir silpnes­\nnio alaus oxeftą duoti tenebatur [privalėjo]."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86603
+    - t-001

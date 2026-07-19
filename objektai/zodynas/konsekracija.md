@@ -30,8 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-93088"></a>
-- t-001
-  global_id: t-93088
+- t-002
   teiginys: "Dėl būtinos konsekracijos kilo klausimas, kas turi teisę ją suteikti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ media_all_json: |-
     - c-88492
 
 <a id="claim-t-93089"></a>
-- t-002
-  global_id: t-93089
+- t-001
   teiginys: "Konsekracija po karūnacijos buvo laikoma bažnytiniu aktu, kuris ne suteikia daugiau valdžios, o pašventina karūnaciją."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93088
+    - t-002
+
 - id: c-88493
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -109,4 +108,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93089
+    - t-001

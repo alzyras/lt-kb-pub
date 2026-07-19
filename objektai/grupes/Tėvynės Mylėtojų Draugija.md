@@ -37,8 +37,7 @@ Bet ypatingai pagyvėjo lietuviškoji spauda, kai 1896 m. buvo įsteigta Tėvyn�
 ## Teiginiai
 
 <a id="claim-t-01507"></a>
-- t-001
-  global_id: t-01507
+- t-002
   teiginys: "Tėvynės Mylėtojų Draugija tuo metu dar gyvavo, tačiau jos veikla buvo apmirusi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Bet ypatingai pagyvėjo lietuviškoji spauda, kai 1896 m. buvo įsteigta Tėvyn�
     - c-01745
 
 <a id="claim-t-01508"></a>
-- t-002
-  global_id: t-01508
+- t-001
   teiginys: "Tėvynės Mylėtojų Draugija buvo įsteigta 1896 m. lietuviškiems raštams leisti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,8 @@ Bet ypatingai pagyvėjo lietuviškoji spauda, kai 1896 m. buvo įsteigta Tėvyn�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01507
+    - t-002
+
 - id: c-01746
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -102,4 +101,4 @@ Bet ypatingai pagyvėjo lietuviškoji spauda, kai 1896 m. buvo įsteigta Tėvyn�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01508
+    - t-001

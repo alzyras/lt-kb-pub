@@ -39,7 +39,6 @@ Kryžėjai, eidami tenai su stipresne kariauna, sugavo lietuvių rubežiaus sarg
 
 <a id="claim-t-201152"></a>
 - t-001
-  global_id: t-201152
   teiginys: "Kryžėjai, eidami tenai su stipresne kariauna, sugavo lietuvių rubežiaus sargą, nuo kurio išsiteiravo lietuvius nežinant apie jų artinimos, daran persikėlę per Nemuną į apygar dą Salsenikę, kurioje dar krikščionies pėda niekuo met nebuvo buvusi, visą kraštą."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,9 @@ Kryžėjai, eidami tenai su stipresne kariauna, sugavo lietuvių rubežiaus sarg
 ## Citatos
 
 - id: c-184502
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą patį metą liepos mėnesy laimingesnis bu­
     vo antras jų žygis į Gardiną. Kryžėjai, eidami tenai
@@ -73,4 +73,4 @@ Kryžėjai, eidami tenai su stipresne kariauna, sugavo lietuvių rubežiaus sarg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201152
+    - t-001

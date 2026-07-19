@@ -31,7 +31,6 @@ V. O. Ključevskis šitą faktą laiko ir svarbiausiu visos rusų istorijos peri
 
 <a id="claim-t-97230"></a>
 - t-001
-  global_id: t-97230
   teiginys: "V. O. Ključevskis platų rytinių slavų kolonizavimąsi laikė svarbiausiu rusų istorijos periodizacijos rodikliu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ V. O. Ključevskis šitą faktą laiko ir svarbiausiu visos rusų istorijos peri
 
 <a id="claim-t-97231"></a>
 - t-002
-  global_id: t-97231
   teiginys: "V. O. Ključevskis platų rytinių slavų kolonizavimąsi laikė viena būdingiausių jų istorijos raidos žymių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,5 +84,5 @@ V. O. Ključevskis šitą faktą laiko ir svarbiausiu visos rusų istorijos peri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97230
-    - t-97231
+    - t-001
+    - t-002

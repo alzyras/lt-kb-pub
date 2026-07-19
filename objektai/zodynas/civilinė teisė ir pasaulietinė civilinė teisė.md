@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-86519"></a>
 - t-001
-  global_id: t-86519
   teiginys: "Auksakalys Steponas Genseris buvo kaltintas vertęsis amatu nesilaikydamas civilinės teisės ir Vilniaus auksakalių cecho tvarkos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86519
+    - t-001

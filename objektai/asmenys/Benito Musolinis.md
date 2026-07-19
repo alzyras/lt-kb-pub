@@ -39,7 +39,6 @@ Bolševikų diktatūra SSRS, Benito Musolinio (Benito Mussolini) atėjimas į va
 
 <a id="claim-t-18850"></a>
 - t-001
-  global_id: t-18850
   teiginys: "Benito Musolinio atėjimas į valdžią Italijoje buvo vienas Europos procesų, skatinusių Seimo valdymu Lietuvoje nepatenkintas jėgas veikti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,12 +72,11 @@ Bolševikų diktatūra SSRS, Benito Musolinio (Benito Mussolini) atėjimas į va
     perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m.
     gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
     visus, nepatenkintus Seimo valdymu („seimokratija“).
-  citata_rodoma: |
-    gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
+  citata_rodoma: "gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18850
+    - t-001

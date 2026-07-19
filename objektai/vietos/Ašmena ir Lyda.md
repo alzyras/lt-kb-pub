@@ -31,7 +31,6 @@ Seniau Rūdninkų girios išties buvo ne­ peržengiamos ir žmonių neištirtos
 
 <a id="claim-t-86170"></a>
 - t-001
-  global_id: t-86170
   teiginys: "Miškuose nuo Rūdninkų link Ašmenos ir Lydos buvo pilkapių, laikytų seniausiais žmonių gyvenimo pėdsakais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Seniau Rūdninkų girios išties buvo ne­ peržengiamos ir žmonių neištirtos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86170
+    - t-001

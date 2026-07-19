@@ -31,7 +31,6 @@ Baniulio, ltn.
 
 <a id="claim-t-39493"></a>
 - t-001
-  global_id: t-39493
   teiginys: "Pulko vadas pasigedo leitenanto Baniulio ir kitų 1-ojo bataliono karininkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,4 +53,4 @@ Baniulio, ltn.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39493
+    - t-001

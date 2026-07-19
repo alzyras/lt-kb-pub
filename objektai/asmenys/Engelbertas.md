@@ -32,7 +32,6 @@ Po to, kai Kuršo vyskupas Engelbertas ir tos bažnyčios dvasininkai su visa ti
 
 <a id="claim-t-80713"></a>
 - t-001
-  global_id: t-80713
   teiginys: "Kuršo vyskupas Engelbertas buvo išnaikintas kartu su tos bažnyčios dvasininkais ir tikinčiųjų tauta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Po to, kai Kuršo vyskupas Engelbertas ir tos bažnyčios dvasininkai su visa ti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80713
+    - t-001

@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-77942"></a>
-- t-001
-  global_id: t-77942
+- t-002
   teiginys: "Žydai Lietuvoje gyveno atskirą bendruomeninį gyvenimą, menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas skatino keltis į Palestiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Nenurodyta
     - c-75260
 
 <a id="claim-t-77943"></a>
-- t-002
-  global_id: t-77943
+- t-001
   teiginys: "Žydai Lietuvoje išlaikė atskirą kultūrinį gyvenimą, o jų mokyklose pamokos vyko hebrajų arba jidiš kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,7 +110,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77943
+    - t-001
+
 - id: c-75260
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -130,4 +129,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77942
+    - t-002

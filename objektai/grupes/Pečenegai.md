@@ -38,7 +38,6 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
 
 <a id="claim-t-192989"></a>
 - t-001
-  global_id: t-192989
   teiginys: "Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų palikuonys ar dalis, susiformavusi iš hunams giminingų genčių likučių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
 
 <a id="claim-t-200927"></a>
 - t-002
-  global_id: t-200927
   teiginys: "Viešpataujant Igoriui Guduose, būk radęsi kiti jų neprieteliai, vadinami pečenegai, kurie, atkeliavę iš gilumo Azijos nuo rytų, Gudijoj apsistojo, vienok, nedrįsdami su Igoriu kariauti, suderėję su juomi ir ilgą laiką taikiai gyvenę."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -108,10 +106,12 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192989
+    - t-001
+
 - id: c-184277
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo
     tarpu įkyrėjus juodgirėnams (Drewier) ir baltiesiems
@@ -133,7 +133,8 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200927
+    - t-002
+
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Jonas Komninas]]
 - Pečenegai valdė [[objektai/vietos/Padneprė]]

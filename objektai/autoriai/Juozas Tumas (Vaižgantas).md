@@ -39,8 +39,7 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 ## Teiginiai
 
 <a id="claim-t-19412"></a>
-- t-001
-  global_id: t-19412
+- t-002
   teiginys: "Vaižgantas buvo vienas iš lietuvių literatūros klasikų, tarpukariu dar gyvenusių Kaune."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
     - c-22148
 
 <a id="claim-t-19413"></a>
-- t-002
-  global_id: t-19413
+- t-001
   teiginys: "Juozas Tumas (Vaižgantas) buvo 1896 m. pradėto leisti „Tėvynės sargo“ spiritus movens."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 
 <a id="claim-t-183344"></a>
 - t-003
-  global_id: t-183344
   teiginys: "Juozas Tumas (Vaižgantas) buvo nuo 1896 m. leisto katalikiško laikraščio „Tėvynės sargas“ spiritus movens."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -119,15 +116,15 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
     1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jau-
     nas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-
     jos ir geranoriškumo įsikūnijimas.
-  citata_rodoma: |
-    užėmė lojalias pozicijas caro valdžios atžvilgiu. Populiariausiu tapo nuo
+  citata_rodoma: "užėmė lojalias pozicijas caro valdžios atžvilgiu. Populiariausiu tapo nuo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19413
+    - t-001
+
 - id: c-22148
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -146,15 +143,15 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
     dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos
     pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
     žydai tarpusavyje dažnai vartojo rusų kalbą.
-  citata_rodoma: |
-    biais žydų kultūros centrais). Jauna ir dar niekuo neimponuojanti lietuvių
+  citata_rodoma: "biais žydų kultūros centrais). Jauna ir dar niekuo neimponuojanti lietuvių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19412
+    - t-002
+
 - id: c-166735
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -175,4 +172,4 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183344
+    - t-003

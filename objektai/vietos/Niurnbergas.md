@@ -4,19 +4,20 @@ pavadinimas: 'Niurnbergas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1741 m.'
   - '1934 m.'
 date_start: '1741'
 date_end: '1934'
+amziai:
+  - 'XVIII'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XVIII'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,8 +40,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 ## Teiginiai
 
 <a id="claim-t-47037"></a>
-- t-001
-  global_id: t-47037
+- t-002
   teiginys: "Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +59,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - c-49573
 
 <a id="claim-t-193221"></a>
-- t-002
-  global_id: t-193221
+- t-003
   teiginys: "Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino imperatorių, kad Lietuva tikrai krikštysis."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -70,6 +69,19 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175963
+
+<a id="claim-t-201651"></a>
+- t-004
+  teiginys: "Jo net į Niurnbergą pasiųstą žiedą, kad ten įdėtų brangakmenį, tenykščiai auksakaliai išbrokavo, esą falsifikatas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-184998
 - susijęs iš [[objektai/asmenys/Kunzas Lochneris.md#claim-t-80737|Kunzas Lochneris]]: Kunzas Lochneris XVI a. 6 dešimtmetyje Niurnberge pagamino Žygimanto Augusto paradinius šarvus.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113879|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka; jo šarvų viršutinė dalis apie 1555 m. pagaminta Niurnberge.
 - susijęs iš [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.).md#claim-t-66817|Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]: 1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko.
@@ -107,7 +119,8 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47037
+    - t-002
+
 - id: c-175963
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -126,4 +139,21 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193221
+    - t-003
+
+- id: c-184998
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kryžiaus bažnyčios klebono užsakymą iš 4 raudonųjų auksinų pagaminti žiedą
+    (signetą). Jo net į Niurnbergą pasiųstą žiedą, kad ten įdėtų brangakmenį, tenykščiai
+    auksakaliai išbrokavo, esą falsifikatas. Kaune atlikęs ekspertizę kitas Kauno auksakalys
+    Rolandas Balceris irgi pripažino, kad žiedas yra falsifikuotas.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

@@ -31,7 +31,6 @@ Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuo
 
 <a id="claim-t-186239"></a>
 - t-001
-  global_id: t-186239
   teiginys: "Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius skatinti magistrą taikiai baigti ginčą su Vytautu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186239
+    - t-001

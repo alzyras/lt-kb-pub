@@ -31,7 +31,6 @@ Taip pat buvo įtvirtinta karinė teritorinė pasipriešinimo judėjimo struktū
 
 <a id="claim-t-38754"></a>
 - t-001
-  global_id: t-38754
   teiginys: "Karinėje teritorinėje pasipriešinimo judėjimo struktūroje partizanų skyriai jungėsi į būrius, būriai - į rinktines, o rinktinės - į apygardas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Taip pat buvo įtvirtinta karinė teritorinė pasipriešinimo judėjimo struktū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38754
+    - t-001

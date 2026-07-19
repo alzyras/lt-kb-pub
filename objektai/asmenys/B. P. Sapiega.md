@@ -31,7 +31,6 @@ Sapiega ir maršalas A.
 
 <a id="claim-t-40057"></a>
 - t-001
-  global_id: t-40057
   teiginys: "Iždininkas B. P. Sapiega pasitraukė kartu su maršalu A. P. Sapiega ir totorių vėliavomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,14 +65,11 @@ Sapiega ir maršalas A.
     Vilnių. Kartu su juo pasitraukė
     iždininkas B. P. Sapiega ir marša-
     las A. P. Sapiega bei totorių vėliavos.
-  citata_rodoma: |
-    Kartu su juo pasitraukė
-    iždininkas B. P. Sapiega ir marša-
-    las A. P. Sapiega bei totorių vėliavos.
+  citata_rodoma: "Kartu su juo pasitraukė\niždininkas B. P. Sapiega ir marša-\nlas A. P. Sapiega bei totorių vėliavos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40057
+    - t-001

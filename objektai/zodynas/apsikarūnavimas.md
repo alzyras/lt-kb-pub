@@ -41,8 +41,7 @@ Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnav
 ## Teiginiai
 
 <a id="claim-t-36766"></a>
-- t-001
-  global_id: t-36766
+- t-004
   teiginys: "Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnavimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -60,8 +59,7 @@ Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnav
     - c-38721
 
 <a id="claim-t-36767"></a>
-- t-002
-  global_id: t-36767
+- t-003
   teiginys: "Vytauto nepasisekęs apsikarūnavimas siejamas su 1398 m. jo ir Jogailos pastangomis gauti sutikimą Romoje."
   atnaujinta: "2026-05-20 21:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -92,17 +90,15 @@ Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnav
     lietuviškais kraštais. Vieni ieško to priežasčių jo nepasiseku­
     siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi
     gauti sutikimą Romoj.
-  citata_rodoma: |
-    Vieni ieško to priežasčių jo nepasiseku­
-    siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi
-    gauti sutikimą Romoj.
+  citata_rodoma: "Vieni ieško to priežasčių jo nepasiseku­\nsiame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi\ngauti sutikimą Romoj."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36767
+    - t-003
+
 - id: c-38721
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -117,17 +113,11 @@ Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnav
     kią galybę, kuria atsirėmęs, niekeno nevaržomas, galėtų laisvai
     valdyti Lietuvą ir, progai pasitaikius, galutinai suvesti sąskai­
     tas tiek su Ordinu, tiek ir su lenkais.
-  citata_rodoma: |
-    Vieni ieško to priežasčių jo nepasiseku­
-    siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi
-    gauti sutikimą Romoj. Kita priežastis, tai jo noras sukurti to­
-    kią galybę, kuria atsirėmęs, niekeno nevaržomas, galėtų laisvai
-    valdyti Lietuvą ir, progai pasitaikius, galutinai suvesti sąskai­
-    tas tiek su Ordinu, tiek ir su lenkais.
+  citata_rodoma: "Vieni ieško to priežasčių jo nepasiseku­\nsiame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi\ngauti sutikimą Romoj. Kita priežastis, tai jo noras sukurti to­\nkią galybę, kuria atsirėmęs, niekeno nevaržomas, galėtų laisvai\nvaldyti Lietuvą ir, progai pasitaikius, galutinai suvesti sąskai­\ntas tiek su Ordinu, tiek ir su lenkais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36766
+    - t-004

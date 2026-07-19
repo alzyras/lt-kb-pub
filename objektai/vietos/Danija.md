@@ -40,9 +40,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 
 <a id="claim-t-188945"></a>
 - t-001
-  global_id: t-188945
   teiginys: "Narbutas Daniją mini kaip kraštą, kuriame prie didžiųjų šventyklų susirinkdavo minios žmonių."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -58,10 +57,9 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171834
-    - c-001
+
 <a id="claim-t-192629"></a>
 - t-002
-  global_id: t-192629
   teiginys: "Narbutas Danijos pakrantes mini tarp vietų, kur randama pavienių gintaro gabalų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 
 <a id="claim-t-192630"></a>
 - t-003
-  global_id: t-192630
   teiginys: "Narbutas pasakoja, kad Frotono III sūnus Fridleifas, auklėtas Rusioje, padedamas rusnėnų karaliuko susigrąžino Danijos sostą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -100,10 +97,9 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175400
-    - c-003
+
 <a id="claim-t-192631"></a>
 - t-004
-  global_id: t-192631
   teiginys: "Skandinavų padavimuose Starkateras vaizduojamas kaip auklėtas Danijos karaliaus Haroldo rūmuose kartu su karalaičiu Vikaru."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -125,7 +121,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 
 <a id="claim-t-192632"></a>
 - t-005
-  global_id: t-192632
   teiginys: "Narbutas pasakoja, kad slavai, pasinaudoję Jarmeriko nebuvimu, sunaikino jo paliktas sargybas ir plėšdami įsiveržė į Daniją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -220,8 +215,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188945
 - c-003
   santrauka: 'Narbutas pasakoja, kad Frotono III sūnus Fridleifas, auklėtas Rusioje, padedamas rusnėnų karaliuko susigrąžino Danijos sostą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -242,8 +235,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192630
+
 ## Citatos
 
 - id: c-171834
@@ -266,26 +258,15 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     jų pusių ženklu teisėjas išsiųsdavo skirtingą atskiriems terito­
     rijos gyventojams, kad žinia apie įvykį ir kartu įspėjimas būti
     pasiruošusiems pasklistų aplinkui.
-  citata_rodoma: |
-    416
-
-    ## Puslapis 416
-
-    giminių vadai buvo pirmieji žyniai; vykdydami šį pašaukimą,
-    jie teisėjaudavo ir atlikdavo sprendimus; tai ši aplinkybė, at­
-    rodo, paaiškina Tacito prielaidą, kad tik žyniai turėjo baudi­
-    mo teisę. Kai kuriose tautose tie santykiai buvo labiau išryš­
-    kėję, ypač ten, kur į didžiąsias šventyklas susirinkdavo minios
-    žmonių, kaip antai Švedijoje ir Danijoje. Čia žymiai daugiau
-    bendraudavo vieni su kitais, beveik nesikeičiant savitarpio san­
-    tykiui.
+  citata_rodoma: "416\n\n## Puslapis 416\n\ngiminių vadai buvo pirmieji žyniai; vykdydami šį pašaukimą,\njie teisėjaudavo ir atlikdavo sprendimus; tai ši aplinkybė, at­\nrodo, paaiškina Tacito prielaidą, kad tik žyniai turėjo baudi­\nmo teisę. Kai kuriose tautose tie santykiai buvo labiau išryš­\nkėję, ypač ten, kur į didžiąsias šventyklas susirinkdavo minios\nžmonių, kaip antai Švedijoje ir Danijoje. Čia žymiai daugiau\nbendraudavo vieni su kitais, beveik nesikeičiant savitarpio san­\ntykiui."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188945
+    - t-001
+
 - id: c-175399
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -309,7 +290,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192629
+    - t-002
+
 - id: c-175400
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -329,25 +311,15 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
     jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
     nijos karalystei.
-  citata_rodoma: |
-    Visi Šie įvykiai siejami su III amžiumi.
-    235
-    Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
-    pas motinos, karalaitės Chunigardijos, gimines; vieno iš
-    giminaičių — rusnėnų karaliuko — padedamas, jis susi­
-    grąžino iš jo tėvo atimtą Danijos sostą1.
-    236
-    Sklinda garsūs senoviniai skandinavų padavimai apie
-    didvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­
-    niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
-    ringumo žmogus.
+  citata_rodoma: "Visi Šie įvykiai siejami su III amžiumi.\n235\nFrotono III sūnus Fridleifas buvo auklėjamas Rusioje,\npas motinos, karalaitės Chunigardijos, gimines; vieno iš\ngiminaičių — rusnėnų karaliuko — padedamas, jis susi­\ngrąžino iš jo tėvo atimtą Danijos sostą1.\n236\nSklinda garsūs senoviniai skandinavų padavimai apie\ndidvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­\nniojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­\nringumo žmogus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192630
+    - t-003
+
 - id: c-175401
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -374,7 +346,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192631
+    - t-004
+
 - id: c-175402
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -403,7 +376,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192632
+    - t-005
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Frotonas III]], [[objektai/asmenys/Hadingas]]
 - Puolė Daniją: [[objektai/grupes/Slavai]]

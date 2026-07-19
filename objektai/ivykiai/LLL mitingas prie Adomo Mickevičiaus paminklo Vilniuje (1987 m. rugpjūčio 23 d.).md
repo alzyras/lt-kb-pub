@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20246"></a>
 - t-001
-  global_id: t-20246
   teiginys: "1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-20247"></a>
 - t-002
-  global_id: t-20247
   teiginys: "Lietuvos laisvės lyga Vilniuje surengė pirmąjį sovietmečiu viešą nesankcionuotą mitingą Molotovo–Ribentropo paktui paminėti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,15 +103,15 @@ Nenurodyta
     siai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-
     tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
     paminklo Vilniuje surengtas protesto mitingas.
-  citata_rodoma: |
-    tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
+  citata_rodoma: "tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20246
+    - t-001
+
 - id: c-22982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -128,12 +126,11 @@ Nenurodyta
     Lietuvos laisvės lygos surengtas pirmasis sovietmečiu
     viešas nesankcionuotas mitingas Vilniuje, skirtas Molotovo–
     Ribentropo paktui paminėti.
-  citata_rodoma: |
-    viešas nesankcionuotas mitingas Vilniuje, skirtas Molotovo–
+  citata_rodoma: "viešas nesankcionuotas mitingas Vilniuje, skirtas Molotovo–"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20247
+    - t-002

@@ -41,7 +41,6 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
 
 <a id="claim-t-87631"></a>
 - t-001
-  global_id: t-87631
   teiginys: "1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,20 +78,11 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
     rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą
     Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,
     su kuriais turėjo daugiausia darbo.
-  citata_rodoma: |
-    Būdamas arčiausiai karo židinio, Stepono Batoro laikais
-    Vilnius virto pagrindine kariuomenių susibūrimo vieta; la­
-    bai dažnai čia būdavo ir pats karalius. Iš šio miesto 1579
-    metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų
-    Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos-
-    lickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­
-    rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą
-    Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,
-    su kuriais turėjo daugiausia darbo.
+  citata_rodoma: "Būdamas arčiausiai karo židinio, Stepono Batoro laikais \nVilnius virto pagrindine kariuomenių susibūrimo vieta; la­\nbai dažnai čia būdavo ir pats karalius. Iš šio miesto 1579 \nmetais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų \nLopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos- \nlickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­\nrių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą \nKetlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius, \nsu kuriais turėjo daugiausia darbo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87631
+    - t-001

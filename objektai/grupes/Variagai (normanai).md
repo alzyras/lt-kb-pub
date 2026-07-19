@@ -33,7 +33,6 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
 
 <a id="claim-t-31364"></a>
 - t-001
-  global_id: t-31364
   teiginys: "Variagų laikotarpiu Dniepro baseine lietuviai išplėtojo prekybinius santykius rytų kryptimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
 
 <a id="claim-t-192477"></a>
 - t-002
-  global_id: t-192477
   teiginys: "Narbutas rašo, kad Rimuko variagai buvo vadinti rus-variagais arba rusais ir laikyti karinga skandinavų gentimi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,25 +70,17 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
 
 <a id="claim-t-192478"></a>
 - t-003
-  global_id: t-192478
   teiginys: "Narbutas variagų-lietuvių giminę apibūdina kaip karingą ir sumanią, vėliau išgarsėjusią rusų variagų vardu."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Variagai (normanai): owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=79"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Variagai (normanai)\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175272
-    - c-003
+    - c-175271
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas variagų-lietuvių giminę apibūdina kaip karingą ir sumanią, vėliau išgarsėjusią rusų variagų vardu.'
@@ -108,8 +98,7 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192478
+
 ## Citatos
 
 - id: c-33361
@@ -123,18 +112,15 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
     kariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius
     santykius. Šitaip per Gudijos plotus Lietuvon dar IX amž.
     pirmoje pusėje yra atėję eilė žodžių.
-  citata_rodoma: |
-    Kai Dniepro baseine
-    prasidėjo variagų (normanų) laikotarpis, —atvykus iš Skandinavijos
-    kariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius
-    santykius. Šitaip per Gudijos plotus Lietuvon dar IX amž.
+  citata_rodoma: "Kai Dniepro baseine\nprasidėjo variagų (normanų) laikotarpis, —atvykus iš Skandinavijos\nkariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius\nsantykius. Šitaip per Gudijos plotus Lietuvon dar IX amž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31364
+    - t-001
+
 - id: c-175271
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -155,7 +141,9 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192477
+    - t-002
+    - t-003
+
 - id: c-175272
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -171,18 +159,9 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
     Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku­
     ria visiems laikams buvo nustatyta minėtų valstybių sie­
     na, o Rusia buvo padalyta į dvi nelygias dalis2.
-  citata_rodoma: |
-    Tai jų ka­
-    ringa ir sumani giminė vėlesniaisiais amžiais išgarsėjo
-    rusų variagų vardu. Apie juos mes dar kalbėsime chro­
-    nologine mūsų pasakojimo tvarka. Čia tik pateikiame
-    anksčiau mūsų Surovieckio padarytą ir labai teisingą pa­
-    stabą, jog senovės geografai šią variagų-lietuvių tautą
-    žinojo gitonų vardu1.
+  citata_rodoma: "Tai jų ka­\nringa ir sumani giminė vėlesniaisiais amžiais išgarsėjo\nrusų variagų vardu. Apie juos mes dar kalbėsime chro­\nnologine mūsų pasakojimo tvarka. Čia tik pateikiame\nanksčiau mūsų Surovieckio padarytą ir labai teisingą pa­\nstabą, jog senovės geografai šią variagų-lietuvių tautą\nžinojo gitonų vardu1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192478

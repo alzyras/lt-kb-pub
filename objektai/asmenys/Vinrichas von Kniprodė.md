@@ -39,8 +39,7 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
 ## Teiginiai
 
 <a id="claim-t-117889"></a>
-- t-001
-  global_id: t-117889
+- t-003
   teiginys: "Vinrichas von Kniprodė 1351–1382 m. buvo Vokiečių ordino magistras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     - c-108470
 
 <a id="claim-t-117890"></a>
-- t-002
-  global_id: t-117890
+- t-004
   teiginys: "Vinricho von Kniprodės valdymo laikais Prūsų ordino valstybė Europoje kėlė nusistebėjimą ir pasigėrėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     - c-108471
 
 <a id="claim-t-117891"></a>
-- t-003
-  global_id: t-117891
+- t-001
   teiginys: "Vinrichas von Kniprodė 1351–1382 m. turėjo Ordino magistro valdžią ir buvo laikomas veikliu bei energingu vokiečiu."
   atnaujinta: "2026-05-31 12:53"
   sprendimo_priezastis: "auto"
@@ -115,7 +112,8 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117891
+    - t-001
+
 - id: c-108470
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -141,7 +139,8 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117889
+    - t-003
+
 - id: c-108471
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -156,18 +155,11 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     jo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino
     valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo
     objektas.
-  citata_rodoma: |
-    abu Ordinai buvo susijungę į vieną, veikė vienos va­
-    dovybės valdžioje. Keturioliktas amžius, ypač jo antroji pusė
-    —Ordino (labiausiai kryžiuočių, kuris iš tikrųjų ir buvo svar­
-    biausioji jėga) klestėjimo laikotarpis. Jo hochmeisterio^1 ) didžio­
-    jo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino
-    valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo
-    objektas.
+  citata_rodoma: "abu Ordinai buvo susijungę į vieną, veikė vienos va­\ndovybės valdžioje. Keturioliktas amžius, ypač jo antroji pusė\n—Ordino (labiausiai kryžiuočių, kuris iš tikrųjų ir buvo svar­\nbiausioji jėga) klestėjimo laikotarpis. Jo hochmeisterio^1 ) didžio­\njo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino\nvalstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo\nobjektas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117890
+    - t-004

@@ -49,8 +49,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 ## Teiginiai
 
 <a id="claim-t-78932"></a>
-- t-001
-  global_id: t-78932
+- t-004
   teiginys: "Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,8 +69,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-76034
 
 <a id="claim-t-78933"></a>
-- t-002
-  global_id: t-78933
+- t-003
   teiginys: "Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-76033
 
 <a id="claim-t-78934"></a>
-- t-003
-  global_id: t-78934
+- t-002
   teiginys: "Vyskupas Albertas 1202 m. savo vyskupijoje įkūrė ordiną, kurį 1204 m. patvirtino popiežius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,8 +87,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-76031
 
 <a id="claim-t-190837"></a>
-- t-004
-  global_id: t-190837
+- t-005
   teiginys: "Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -110,10 +106,9 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-173719
-    - c-004
+
 <a id="claim-t-200960"></a>
-- t-005
-  global_id: t-200960
+- t-006
   teiginys: "To dėl gi Albertas, dangstydamas savo tikyba, veizėjo kito pragumo, kuriuo galėtų netikėliams žemę už imti ir pačius nuvergti; atmindamas, jog karės brostviai Žemėj Šventoj daug gero darė krikščionims, užsikėto jis tokį pat karės zokaną Padaugavy įkur ti."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -125,8 +120,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-184310
 
 <a id="claim-t-200961"></a>
-- t-006
-  global_id: t-200961
+- t-007
   teiginys: "Taip randantis kas kartą pavojesniai dėl voky čių, Hermanas, urėdas lybiešų, suvadinęs perkrikš tus ir vokyčius, teiravos, ar kariauti ilgiaus su ne tikėliais, ar laukti Alberto iš Teutonijos pagrįžtančio, kur buvo neseniai iškeliavęs; nes, jausdami save."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -138,8 +132,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-184311
 
 <a id="claim-t-200962"></a>
-- t-007
-  global_id: t-200962
+- t-008
   teiginys: "Albertas sukėlė kalavijonis, perkrikštus ir meldžionis ant žemgalių ir, paėmęs karės padarynes pilės griaunamąsias, ėjo daugiaus nei su 10 000 kareivių į Mežotės pilį, baužęs visą naktį, ryto metą kariauną skurdino pamūšy, paskui sukos į papilį, kurį."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -151,8 +144,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-184312
 
 <a id="claim-t-200963"></a>
-- t-008
-  global_id: t-200963
+- t-009
   teiginys: "Atkeliavęs vyskupas Rygos Albertas su kita dva siška diduomene į Lotaviją, Mintauto pilį, jį patį, jo žmoną ir 60 tėvūnų, arba senatorių, apkrikštijo metuose 1252, 7 dienoj rugpjūčio mėnesio."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -223,8 +215,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190837
+
 ## Citatos
 
 - id: c-76031
@@ -239,17 +230,15 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vysku-
     pijoje. Jo 1202 m. įkurtą ordiną 1204 m. popiežius patvirtino ir
     jam suteikė templininkų įstatus.
-  citata_rodoma: |
-    Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vysku-
-      pijoje. Jo 1202 m. įkurtą ordiną 1204 m. popiežius patvirtino ir
-      jam suteikė templininkų įstatus.
+  citata_rodoma: "Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vysku-\n  pijoje. Jo 1202 m. įkurtą ordiną 1204 m. popiežius patvirtino ir\n  jam suteikė templininkų įstatus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78934
+    - t-002
+
 - id: c-76033
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -261,16 +250,15 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     kariauta.
     Kol buvo gyvas vysk. Albertas († 1229 m.), Livonijoje nau-
     jos vokiečių valstybės valdovas buvo jis.
-  citata_rodoma: |
-    Kol buvo gyvas vysk. Albertas († 1229 m.), Livonijoje nau-
-      jos vokiečių valstybės valdovas buvo jis.
+  citata_rodoma: "Kol buvo gyvas vysk. Albertas († 1229 m.), Livonijoje nau-\n  jos vokiečių valstybės valdovas buvo jis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78933
+    - t-003
+
 - id: c-76034
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -297,32 +285,15 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     pakvietė Mozūrijos kunigaikš-
     tis Konradas ir padovanojo
     jiems Kulmo žemę.
-  citata_rodoma: |
-    Jersikos karalius
-
-    2 Dauguva
-    Žiemgaliai ;
-    Sėliai
-    X Saulė (Šiauliai) 1236 m.
-
-    Nes Lietuviai
-
-    Vilnius
-
-    0
-
-    Jotvingiai aw MI Visvaldis buvo nugalėtas
-    NY Rygos vyskupo Alberto.
-    Teutonų ordiną padėti kar- Europos rytuose didelius
-
-    jauti su prūsais 1226-1228 m.
+  citata_rodoma: "Jersikos karalius\n\n2 Dauguva\nŽiemgaliai ;\nSėliai\nX Saulė (Šiauliai) 1236 m.\n\nNes Lietuviai\n\nVilnius\n\n0\n\nJotvingiai aw MI Visvaldis buvo nugalėtas\nNY Rygos vyskupo Alberto.\nTeutonų ordiną padėti kar- Europos rytuose didelius\n\njauti su prūsais 1226-1228 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78932
+    - t-004
+
 - id: c-173719
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -340,28 +311,19 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     mas savo apeliaciją j anksčiau, t. y. 1253 metais, išleistą
     popiežiaus Inocento bulę, apaštališkasis legatas abatas
     Opicas atskyrė jį nuo bažnyčios2.
-  citata_rodoma: |
-    Si
-    vyskupija turėjo apimti Rusią, plytinčią kairiojoje Pele­
-    sos pakrantėje ir Gardino link, kur dominikonai jau nuo
-    seno turėjo savo misijas, o Rytų apeigų krikščioniškasis
-    tikėjimas buvo gana paplitęs. To įrodymų matome popie­
-    žiaus bulėje1, išleistoje dėl Prūsijos ir Livonijos arkivys­
-    kupo Alberto kivirčo su kryžiuočiais ir sutaikančioje abi
-    šalis. Be kitų dalykų, joje apibrėžta arkivyskupo jurisdik­
-    cija Eželio, Dorpato, Virlando (Reveiio), Kuršo, Ruimo,
-    Varmės, Parnedės, Sembos, Rusios (Gardino), Varšuvos
-    (Lenkijos) vyskupijose.
+  citata_rodoma: "Si\nvyskupija turėjo apimti Rusią, plytinčią kairiojoje Pele­\nsos pakrantėje ir Gardino link, kur dominikonai jau nuo\nseno turėjo savo misijas, o Rytų apeigų krikščioniškasis\ntikėjimas buvo gana paplitęs. To įrodymų matome popie­\nžiaus bulėje1, išleistoje dėl Prūsijos ir Livonijos arkivys­\nkupo Alberto kivirčo su kryžiuočiais ir sutaikančioje abi\nšalis. Be kitų dalykų, joje apibrėžta arkivyskupo jurisdik­\ncija Eželio, Dorpato, Virlando (Reveiio), Kuršo, Ruimo,\nVarmės, Parnedės, Sembos, Rusios (Gardino), Varšuvos\n(Lenkijos) vyskupijose."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190837
+    - t-005
+
 - id: c-184310
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     To­
     dėl gi Albertas, dangstydamas savo tikyba, veizėjo
@@ -388,10 +350,12 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200960
+    - t-006
+
 - id: c-184311
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip randantis kas kartą pavojesniai dėl voky­
     čių, Hermanas, urėdas lybiešų, suvadinęs perkrikš­
@@ -423,10 +387,12 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200961
+    - t-007
+
 - id: c-184312
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Žemgaliai, kurie buvo persikrikš­
     tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su­
@@ -445,10 +411,12 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200962
+    - t-008
+
 - id: c-184313
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mintautas nuo vienos pu­
     sės gorinamas pavojum, nuo antros masinamas
@@ -466,4 +434,4 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200963
+    - t-009

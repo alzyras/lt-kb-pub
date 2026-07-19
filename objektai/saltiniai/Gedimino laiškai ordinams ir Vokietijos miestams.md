@@ -35,8 +35,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
 ## Teiginiai
 
 <a id="claim-t-88153"></a>
-- t-001
-  global_id: t-88153
+- t-002
   teiginys: "1323 metų gegužės 26 dieną Vilniuje rašytuose Gedimino laiškuose nurodyta juos skaityti, siųsti toliau ir viešai skelbti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
     - c-84134
 
 <a id="claim-t-88154"></a>
-- t-002
-  global_id: t-88154
+- t-003
   teiginys: "Pasak cituojamos nuomonės, Rygos arkivyskupas slapta parašė laiškus Gedimino vardu ir išsiuntė juos popiežiui, miestams bei vienuoliams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +67,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
     - c-84135
 
 <a id="claim-t-88155"></a>
-- t-003
-  global_id: t-88155
+- t-005
   teiginys: "Trijuose Gedimino laiškuose po antspaudo paaiškinimų pateiktas prakeiksmas tiems, kurie nepatikėtų antspaudo tikrumu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +84,6 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
 
 <a id="claim-t-88156"></a>
 - t-004
-  global_id: t-88156
   teiginys: "Balińskis laikėsi nuomonės, kad laiškas popiežiui ir laiškai ordinams bei Vokietijos miestams nebuvo parašyti Gedimino valia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,23 +122,15 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
     monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
     nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
     dimino, bet nei su jo žinia, nei jo valia parašyti.
-  citata_rodoma: |
-    87
-
-    ## Puslapis 104
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­
-    monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
-    nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
-    dimino, bet nei su jo žinia, nei jo valia parašyti.
+  citata_rodoma: "87\n\n## Puslapis 104\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nMūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­\nmonę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­\nnams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­\ndimino, bet nei su jo žinia, nei jo valia parašyti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88156
+    - t-004
+
 - id: c-84134
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -166,7 +154,8 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88153
+    - t-002
+
 - id: c-84135
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -189,7 +178,8 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88154
+    - t-003
+
 - id: c-84136
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -208,4 +198,4 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88155
+    - t-005

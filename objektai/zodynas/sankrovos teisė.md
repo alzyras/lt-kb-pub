@@ -8,11 +8,11 @@ datos:
   - '1554 m.'
 date_start: '1498'
 date_end: '1554'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
 
 <a id="claim-t-201754"></a>
 - t-001
-  global_id: t-201754
   teiginys: "Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo, kai reikalai imdavo suktis apie jo sankrovos teisę."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
 
 <a id="claim-t-201755"></a>
 - t-002
-  global_id: t-201755
   teiginys: "Iš naujų svečių teisės nuostatų bene svarbiausia buvo sankrovos teisė (ius stapulae, Stapelrecht)."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -62,7 +60,6 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
 
 <a id="claim-t-201756"></a>
 - t-003
-  global_id: t-201756
   teiginys: "Aleksandro Jogailaičio suteikta sankrovos teisė svariai papildė Kauno svečių teisės nuostatų kompleksą ir kėlė daug rūpesčių pagrindiniams Kauno prekybos partneriams hanziečiams."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -75,7 +72,6 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
 
 <a id="claim-t-201757"></a>
 - t-004
-  global_id: t-201757
   teiginys: "Kauno prekybos teisinis reglamentavimas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -88,7 +84,6 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
 
 <a id="claim-t-201758"></a>
 - t-005
-  global_id: t-201758
   teiginys: "Vis dėlto Kauno svečių teisė ir ypač jos sudedamoji dalis - sankrovos teisė nuolat buvo pažeidžiama, Prūsų ir kitų Lietuvos miestų pirkliai stengėsi apeiti Kauną."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -116,7 +111,7 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201754
+    - t-001
 
 - id: c-185102
   autorius: "Zigmantas Kiaupa"
@@ -133,7 +128,7 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201755
+    - t-002
 
 - id: c-185103
   autorius: "Zigmantas Kiaupa"
@@ -151,7 +146,7 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201756
+    - t-003
 
 - id: c-185104
   autorius: "Zigmantas Kiaupa"
@@ -168,7 +163,7 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201757
+    - t-004
 
 - id: c-185105
   autorius: "Zigmantas Kiaupa"
@@ -185,4 +180,4 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201758
+    - t-005

@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-40692"></a>
 - t-001
-  global_id: t-40692
   teiginys: "Dagtinės spynos arkebuza buvo XVI a. antrosios pusės 15,5 mm kalibro ginklas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40692
+    - t-001

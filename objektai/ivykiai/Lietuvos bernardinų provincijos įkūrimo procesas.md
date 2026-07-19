@@ -7,10 +7,10 @@ datos:
   - '1527 m.'
 date_start: '1527'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201893"></a>
 - t-001
-  global_id: t-201893
   teiginys: "Lietuvos bernardinų provincijos sukūrimą palaikė Lietuvos atskirumą nuo Lenkijos pabrėžiantys ir stiprinantys Lietuvos didikai, ypač Albertas Goštautas, taip pat Vilniaus vyskupas Jonas iš Lietuvos kunigaikščių."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-201894"></a>
 - t-002
-  global_id: t-201894
   teiginys: "Lietuvos bernardinų atsiskyrimo siekius ėmė remti ir Žygimantas Senasis."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -69,6 +67,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185241
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -87,7 +88,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201893
+    - t-001
 
 - id: c-185241
   autorius: "Zigmantas Kiaupa"
@@ -107,4 +108,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201894
+    - t-002

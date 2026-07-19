@@ -30,7 +30,6 @@ Narbutas Malte-Brunui priskiria pastabą, kad Styrės upė išsaugojo stūmių, 
 
 <a id="claim-t-191770"></a>
 - t-001
-  global_id: t-191770
   teiginys: "Narbutas Malte-Brunui priskiria pastabą, kad Styrės upė išsaugojo stūmių, jo taisomų į Stirnii, gyvenamųjų vietų pavadinimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas Malte-Brunui priskiria pastabą, kad Styrės upė išsaugojo stūmių, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191770
+    - t-001

@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-62442"></a>
 - t-001
-  global_id: t-62442
   teiginys: "Poponas iš Osternos septynerius metus buvo antrasis Prūsijos žemės magistras, 1241 m. atsisakė pareigų ir vėliau tapo didžiuoju magistru."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,7 +77,7 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie brolį Poponą, antrą Prūsijos žemės magistrą
+    29. Apie brolį Poponą, antrą Prūsijos žemės magistrą
 
        Brolis Poponas iš Osternos, antras Prūsų žemės magistras, išbuvo vadovu septynerius
     metus, o atsisakęs pareigų 1241, sugrįžo  į Vokietijos kraštą, kur vėliau buvo išrinktas
@@ -88,21 +87,11 @@ Nenurodyta
 
 
                 30.
-  citata_rodoma: |
-    Apie brolį Poponą, antrą Prūsijos žemės magistrą
-
-       Brolis Poponas iš Osternos, antras Prūsų žemės magistras, išbuvo vadovu septynerius
-    metus, o atsisakęs pareigų 1241, sugrįžo  į Vokietijos kraštą, kur vėliau buvo išrinktas
-    didžiuoju magistru265.
-
-
-
-
-                30.
+  citata_rodoma: "29. Apie brolį Poponą, antrą Prūsijos žemės magistrą\n\n   Brolis Poponas iš Osternos, antras Prūsų žemės magistras, išbuvo vadovu septynerius\nmetus, o atsisakęs pareigų 1241, sugrįžo  į Vokietijos kraštą, kur vėliau buvo išrinktas\ndidžiuoju magistru265.\n\n\n\n\n            30."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62442
+    - t-001

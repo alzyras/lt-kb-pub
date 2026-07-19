@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-40784"></a>
 - t-001
-  global_id: t-40784
   teiginys: "Vokiškojo tipo alebarda datuojama XVI a. antrąja puse-XVII a."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,16 +87,11 @@ Nenurodyta
     p. 88, Vokiškojo tipo alebarda xvi a.; Alebarda. xvi a. antroji pusė=xvII a., VR,
 
     Vytauto Abramausko nuotr.
-  citata_rodoma: |
-    uselang=ru
-
-    p. 88, Vokiškojo tipo alebarda xvi a.; Alebarda. xvi a. antroji pusė=xvII a., VR,
-
-    Vytauto Abramausko nuotr.
+  citata_rodoma: "uselang=ru\n\np. 88, Vokiškojo tipo alebarda xvi a.; Alebarda. xvi a. antroji pusė=xvII a., VR,\n\nVytauto Abramausko nuotr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40784
+    - t-001

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-10308"></a>
 - t-001
-  global_id: t-10308
   teiginys: "1949 m. rugpjūčio 13 d. Užpelkių miške sunaikintas Prisikėlimo apygardos štabas; žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadgaila, Bronius Liesis-Naktis, Vytautas Šniuolis-Svajūnas ir dar trys neatpažinti partizanai."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -98,4 +97,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10308
+    - t-001

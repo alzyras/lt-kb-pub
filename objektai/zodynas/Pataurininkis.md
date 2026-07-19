@@ -39,7 +39,6 @@ Algirdas dėl didelių gabumų iškėlė Vaidilą iš kepėjo sūnaus iki rūmų
 
 <a id="claim-t-86637"></a>
 - t-001
-  global_id: t-86637
   teiginys: "Algirdas dėl didelių gabumų iškėlė Vaidilą iš kepėjo sūnaus iki rūmų pataurininkio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Algirdas dėl didelių gabumų iškėlė Vaidilą iš kepėjo sūnaus iki rūmų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86637
+    - t-001

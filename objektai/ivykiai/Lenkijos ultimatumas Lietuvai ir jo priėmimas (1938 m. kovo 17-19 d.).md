@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-75117"></a>
 - t-001
-  global_id: t-75117
   teiginys: "Kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius ir be išlygų atsakyti teigiamai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-22990
 
 <a id="claim-t-75118"></a>
-- t-002
-  global_id: t-75118
+- t-004
   teiginys: "Priėmus Lenkijos ultimatumą Lietuva turėjo atkurti diplomatinius santykius, apsikeisti pasiuntinybėmis ir nutraukti „Vilniui vaduoti sąjungos“ veiklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +90,6 @@ Nenurodyta
 
 <a id="claim-t-75119"></a>
 - t-003
-  global_id: t-75119
   teiginys: "Po Lenkijos ultimatumo Lietuva turėjo apsikeisti pasiuntinybėmis, įsteigti konsulatą Vilniuje ir paleisti „Vilniui vaduoti sąjungą“."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -108,8 +105,7 @@ Nenurodyta
     - c-22992
 
 <a id="claim-t-75120"></a>
-- t-004
-  global_id: t-75120
+- t-002
   teiginys: "Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -124,6 +120,7 @@ Nenurodyta
   pagrindžia:
     - c-22991
     - c-166621
+
 ## Citatos
 
 - id: c-22990
@@ -139,19 +136,15 @@ Nenurodyta
     triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,
     reikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą
     atsakymą, nes kitaip bus blogai – suprask – kils karas.
-  citata_rodoma: |
-    Nors per panašius incidentus lenkai buvo nu-
-    šovę 7 lietuvių pasienio policininkus, Varšuva, Vokietijai absorbuojant Aus-
-    triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,
-    reikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą
-    atsakymą, nes kitaip bus blogai – suprask – kils karas.
+  citata_rodoma: "Nors per panašius incidentus lenkai buvo nu-\nšovę 7 lietuvių pasienio policininkus, Varšuva, Vokietijai absorbuojant Aus-\ntriją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,\nreikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą\natsakymą, nes kitaip bus blogai – suprask – kils karas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75117
+    - t-001
+
 - id: c-22991
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -165,17 +158,15 @@ Nenurodyta
     Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
     santykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
     Kaunui sakė Maskva ir Berlynas.
-  citata_rodoma: |
-    Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
-    santykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
-    Kaunui sakė Maskva ir Berlynas.
+  citata_rodoma: "Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti\nsantykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį\nKaunui sakė Maskva ir Berlynas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75120
+    - t-002
+
 - id: c-22992
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -190,21 +181,16 @@ Nenurodyta
     turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų
     Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
     Lietuvos bendradarbiavimas nesusiklostė.
-  citata_rodoma: |
-    Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko
-    liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun-
-    tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių
-    turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų
-    Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
-    Lietuvos bendradarbiavimas nesusiklostė.
+  citata_rodoma: "Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko\nliautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun-\ntinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių\nturėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų\nVilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir\nLietuvos bendradarbiavimas nesusiklostė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75118
-    - t-75119
+    - t-004
+    - t-003
+
 - id: c-166621
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -220,3 +206,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

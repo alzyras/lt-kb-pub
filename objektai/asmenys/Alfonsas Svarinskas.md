@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-18781"></a>
 - t-001
-  global_id: t-18781
   teiginys: "Alfonsas Svarinskas 1978 m. lapkričio 22 d. Maskvoje pranešė užsienio žurnalistams apie Tikinčiųjų teisių gynimo komiteto įkūrimą Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,12 +80,11 @@ media_all_json: |-
     kuriomis valstybėje naudojasi
     ateistai, o kulto laisvė praktikoje
     varžoma.
-  citata_rodoma: |
-    kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio
+  citata_rodoma: "kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18781
+    - t-001

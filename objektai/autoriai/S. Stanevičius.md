@@ -31,7 +31,6 @@ Stanevičius — lietuviškų dainų rinkinį.
 
 <a id="claim-t-01132"></a>
 - t-001
-  global_id: t-01132
   teiginys: "S. Stanevičius išleido lietuviškų dainų rinkinį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,18 +60,11 @@ Stanevičius — lietuviškų dainų rinkinį.
     bliografiją, S. Stanevi-
     čius — lietuviškų dainų rin-
     kinį.
-  citata_rodoma: |
-    D. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui
-    rinko senas knygas. K. Za-
-    bitis Nezabitauskas
-    išleido lietuviškųjų knygų bi-
-    bliografiją, S. Stanevi-
-    čius — lietuviškų dainų rin-
-    kinį.
+  citata_rodoma: "D. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui\nrinko senas knygas. K. Za-\nbitis Nezabitauskas\nišleido lietuviškųjų knygų bi-\nbliografiją, S. Stanevi-\nčius — lietuviškų dainų rin-\nkinį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01132
+    - t-001

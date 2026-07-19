@@ -30,8 +30,7 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
 ## Teiginiai
 
 <a id="claim-t-86114"></a>
-- t-001
-  global_id: t-86114
+- t-002
   teiginys: "Vilniaus katedros bažnyčios kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
     - c-82093
 
 <a id="claim-t-86115"></a>
-- t-002
-  global_id: t-86115
+- t-001
   teiginys: "Vilniaus miesto taryba ginčijo Vilniaus katedros bažnyčios kapitulos jurisdikciją miesto gyventojų atžvilgiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,7 +100,8 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86114
+    - t-002
+
 - id: c-82094
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -134,4 +133,4 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86115
+    - t-001

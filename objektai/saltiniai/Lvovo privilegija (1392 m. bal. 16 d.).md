@@ -36,7 +36,6 @@ Vygunto mirtis privertė kviestis ir Vytautą į Lietuvą. Dar 1392 m. pavasarį
 
 <a id="claim-t-36084"></a>
 - t-001
-  global_id: t-36084
   teiginys: "Jogaila 1392 m. balandžio 16 d. Lvove išdavė privilegiją, kuri kliudė Vytauto siekiams Lietuvoje ir jo pretenzijoms į Lucką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Vygunto mirtis privertė kviestis ir Vytautą į Lietuvą. Dar 1392 m. pavasarį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36084
+    - t-001

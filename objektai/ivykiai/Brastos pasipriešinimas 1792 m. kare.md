@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20173"></a>
 - t-001
-  global_id: t-20173
   teiginys: "1792 m. liepos pabaigoje gynyba telkėsi prie Brastos, bet liepos 24 d. atėjo žinia apie Stanislovo Augusto kapituliaciją ir prisijungimą prie Targovicos konfederacijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-20174"></a>
 - t-002
-  global_id: t-20174
   teiginys: "LDK kariuomenė, stokodama pasirengimo ir patirdama vadovavimo sunkumų, pasipriešino prie Myro ir Brastoje, o paskui atsitraukė prie Varšuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,15 +102,15 @@ Nenurodyta
     gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-
     ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
     prie Targovicos konfederacijos.
-  citata_rodoma: |
-    ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
+  citata_rodoma: "ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20173
+    - t-001
+
 - id: c-22915
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -123,12 +121,11 @@ Nenurodyta
     fas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino
     prie Myro, Brastoje ir be didesnių nuostolių atsitraukė prie Varšuvos. Iš
     72 pabūklų ji prarado tik septynis.
-  citata_rodoma: |
-    fas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino
+  citata_rodoma: "fas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20174
+    - t-002

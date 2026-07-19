@@ -30,7 +30,6 @@ Fosas, Narbuto teigimu, neigė Pitėjo lankymąsi Baltijos jūroje ir Austravij�
 
 <a id="claim-t-191671"></a>
 - t-001
-  global_id: t-191671
   teiginys: "Fosas, Narbuto teigimu, neigė Pitėjo lankymąsi Baltijos jūroje ir Austraviją, arba Glesariją, laikė fryzų sala Amelandu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Fosas, Narbuto teigimu, neigė Pitėjo lankymąsi Baltijos jūroje ir Austravij�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191671
+    - t-001

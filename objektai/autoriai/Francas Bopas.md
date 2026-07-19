@@ -30,8 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187951"></a>
-- t-001
-  global_id: t-187951
+- t-002
   teiginys: "Francas Bopas buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::authors"
@@ -78,16 +77,11 @@ media_all_json: |-
     elio Lindės, Peterio Boleno, Franco Bopo ir daugelio kitų dar­
     bais, archeologų radiniais, savo ir kitų kraštotyrininkų surink­
     ta tautosaka, etnografine medžiaga.
-  citata_rodoma: |
-    savo meto istorikų Johano Foigto, Nikolajaus Karamzi-
-    no, Adomo Naruševičiaus, Tado Cackio, Joachimo Lelevelio,
-    Ksavero Bogušo, kalbininkų Johano Severino Faterio, Samu­
-    elio Lindės, Peterio Boleno, Franco Bopo ir daugelio kitų dar­
-    bais,
+  citata_rodoma: "savo meto istorikų Johano Foigto, Nikolajaus Karamzi-\nno, Adomo Naruševičiaus, Tado Cackio, Joachimo Lelevelio,\nKsavero Bogušo, kalbininkų Johano Severino Faterio, Samu­\nelio Lindės, Peterio Boleno, Franco Bopo ir daugelio kitų dar­\nbais,"
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187951
+    - t-002

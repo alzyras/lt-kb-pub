@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-31538"></a>
 - t-001
-  global_id: t-31538
   teiginys: "1253 m. Mindaugo dokumente Livonijos ordinui frazė „Datum in Lettowia in curia nostra“ galėjo nurodyti Lietuvą kaip vietovę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ media_all_json: |-
 
 <a id="claim-t-31539"></a>
 - t-002
-  global_id: t-31539
   teiginys: "Dėl „Lettowia“ reikšmės neaišku, ar ji žymėjo sritį prie Mindaugo pilies, ar vieną iš jo pilių Lietuvos valstybėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,19 +89,15 @@ media_all_json: |-
     jonių, « Lietuva » gali būti nurodoma kaip vietovė. 1253 m. užra­
     šyta _«_ Datum in Le _tt_ owia in curia nostra », panašiai ir 1260 m. :
     « Datum Le _tt_ owie in curia nostra ».
-  citata_rodoma: |
-    Dviejuose Mindaugo dokumentuose Livonijos ordinui (1253,
-    1260), dėl kurių pirmojo tikrumo, kaip jau minėta, nekeliama abe­
-    jonių, « Lietuva » gali būti nurodoma kaip vietovė. 1253 m. užra­
-    šyta _«_ Datum in Le _tt_ owia in curia nostra », panašiai ir 1260 m. :
-    « Datum Le _tt_ owie in curia nostra ».
+  citata_rodoma: "Dviejuose Mindaugo dokumentuose Livonijos ordinui (1253,\n1260), dėl kurių pirmojo tikrumo, kaip jau minėta, nekeliama abe­\njonių, « Lietuva » gali būti nurodoma kaip vietovė. 1253 m. užra­\nšyta _«_ Datum in Le _tt_ owia in curia nostra », panašiai ir 1260 m. :\n« Datum Le _tt_ owie in curia nostra »."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31538
+    - t-001
+
 - id: c-33469
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -119,16 +113,11 @@ media_all_json: |-
     susirankiojęs žinių iš pirklių, keliautojų ir piligrimų, esąs savo vei­
     kale (« Rogero knygoje »), skyriuje apie rytų Pabaltijį, jau pami­
     nėjęs Kauną.
-  citata_rodoma: |
-    Čia tačiau iškyla neaiškumas,
-    ar « Lettowia » Čia tereiškia kokią sritį, kur buvo Mindaugo pilis,
-    ar vieną iš jo pilių Lietuvos valstybėje.
-    Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'-
-    Idrisi (1100-66 m.
+  citata_rodoma: "Čia tačiau iškyla neaiškumas,\nar « Lettowia » Čia tereiškia kokią sritį, kur buvo Mindaugo pilis,\nar vieną iš jo pilių Lietuvos valstybėje.\nNeaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'-\nIdrisi (1100-66 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31539
+    - t-002

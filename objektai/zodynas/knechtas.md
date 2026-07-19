@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-03034"></a>
 - t-001
-  global_id: t-03034
   teiginys: "Knechtai buvo riterių tarnai, gyvenę dvaruose kaip laisvi ūkininkai, mokėję mokesčius, padėję statyti pilis ir ėję į karą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,15 +64,11 @@ media_all_json: |-
     tai)._ Didžiausią krašto gyventojų masę sudarė senieji krašto
     gyventojai, ordino vadinami vienu bendru vardu — prūsais
     valstiečiais.
-  citata_rodoma: |
-    Šie gyveno ordino, vyskupų arba riterių bajorų dva-
-    ruose, kaip laisvi ūkininkai, ir turėjo tik mokėti tam tikrus mo-
-    kesčius, padėti statyti pilis ir eiti į karą, kaip riterių tarnai _(knech-
-    tai)._
+  citata_rodoma: "Šie gyveno ordino, vyskupų arba riterių bajorų dva-\nruose, kaip laisvi ūkininkai, ir turėjo tik mokėti tam tikrus mo-\nkesčius, padėti statyti pilis ir eiti į karą, kaip riterių tarnai _(knech-\ntai)._"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03034
+    - t-001

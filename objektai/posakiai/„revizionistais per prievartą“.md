@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-77855"></a>
 - t-001
-  global_id: t-77855
   teiginys: "Lietuvos siekis atgauti Vilnių vedė ją į revizionistinių valstybių draugiją, todėl lietuviai vadinami „revizionistais per prievartą“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,17 +62,11 @@ media_all_json: |-
     „revizionistais per prievartą“. Pradžioje (ypač užsienio reikalų ministras
     A. Voldemaras) prieš Varšuvą bandė atsilaikyti Vokietijos ar Sovietų Ru-
     sijos padedami, tačiau pastarųjų tai neviliojo.
-  citata_rodoma: |
-    Ta-
-    čiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti
-    Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis
-    netgi grėsė nepriklausomybės praradimu. Žinoma, kad lietuviai tapo
-    „revizionistais per prievartą“. Pradžioje (ypač užsienio reikalų ministras
-    A.
+  citata_rodoma: "Ta-\nčiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti \nVilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis \nnetgi grėsė nepriklausomybės praradimu. Žinoma, kad lietuviai tapo \n„revizionistais per prievartą“. Pradžioje (ypač užsienio reikalų ministras \nA."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77855
+    - t-001

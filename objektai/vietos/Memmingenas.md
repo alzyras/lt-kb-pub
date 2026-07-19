@@ -39,7 +39,6 @@ leisto Lietuvių Bibliografinės Tarnybos Biu­ letenio Knygų Lentyna (pradėta
 
 <a id="claim-t-32359"></a>
 - t-001
-  global_id: t-32359
   teiginys: "Lietuvių Bibliografinės Tarnybos biuletenis „Knygų lentyna“ buvo pradėtas leisti Vokietijos Memmingene."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,14 +67,11 @@ leisto Lietuvių Bibliografinės Tarnybos Biu­ letenio Knygų Lentyna (pradėta
     niec-Ružancovo 1948-1965 m. leisto Lietuvių Bibliografinės Tarnybos Biu­
     letenio** **_Knygų Lentyna_** **(pradėtas Vokietijos Memmingene, nuo 1949 m.
     Danville, III., JAV).
-  citata_rodoma: |
-    leisto Lietuvių Bibliografinės Tarnybos Biu­
-    letenio** **_Knygų Lentyna_** **(pradėtas Vokietijos Memmingene, nuo 1949 m.
-    Danville, III., JAV).
+  citata_rodoma: "leisto Lietuvių Bibliografinės Tarnybos Biu­\nletenio** **_Knygų Lentyna_** **(pradėtas Vokietijos Memmingene, nuo 1949 m.\nDanville, III., JAV)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32359
+    - t-001

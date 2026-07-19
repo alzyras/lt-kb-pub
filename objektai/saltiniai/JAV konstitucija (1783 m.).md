@@ -37,7 +37,6 @@ Lenkijos ir Lietuvos konstitucijos konstruojama santvarka turėjo lygiuotis į A
 
 <a id="claim-t-78128"></a>
 - t-001
-  global_id: t-78128
   teiginys: "1783 m. JAV konstitucija citatoje įvardijama kaip pirmoji pasaulyje rašytinė konstitucija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Lenkijos ir Lietuvos konstitucijos konstruojama santvarka turėjo lygiuotis į A
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78128
+    - t-001

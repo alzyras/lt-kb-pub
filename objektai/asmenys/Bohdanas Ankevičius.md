@@ -31,7 +31,6 @@ List Radzcy Wileńskomu Bohdanu Onkieiviczu, na wybranie jemu winnych peneźy z 
 
 <a id="claim-t-87635"></a>
 - t-001
-  global_id: t-87635
   teiginys: "Vilniaus tarėjas Bohdanas Ankevičius gavo leidimą surinkti jam priklausančius pinigus iš Bobruisko ir Svisločės smuklių už devynerius metus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ List Radzcy Wileńskomu Bohdanu Onkieiviczu, na wybranie jemu winnych peneźy z 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87635
+    - t-001

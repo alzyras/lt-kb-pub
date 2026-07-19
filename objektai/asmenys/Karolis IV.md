@@ -41,8 +41,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
 ## Teiginiai
 
 <a id="claim-t-10089"></a>
-- t-001
-  global_id: t-10089
+- t-002
   teiginys: "Karolis IV šiame šaltinyje įvardijamas Šv. Romos imperatoriumi."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     - c-11538
 
 <a id="claim-t-89884"></a>
-- t-002
-  global_id: t-89884
+- t-005
   teiginys: "Karolis IV buvo imperatorius, kurį Kazimieras siekė įtraukti į pasiūlymą Lietuvai krikštytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     - c-85799
 
 <a id="claim-t-89885"></a>
-- t-003
-  global_id: t-89885
+- t-007
   teiginys: "1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     - c-85800
 
 <a id="claim-t-89888"></a>
-- t-004
-  global_id: t-89888
+- t-006
   teiginys: "1358 m. Šv. Romos imperatorius Karolis IV derėjosi su Algirdu, kuris reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -140,18 +136,15 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     vai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos.
     Kryžiuočiai į tai atsakė 1360 m. prasidėjusiomis intensyviomis
     puolamosiomis operacijomis.
-  citata_rodoma: |
-    Pasiekęs neregėtą galybę rytuose, Algirdas 1358 m. derybose su
-    Šv. Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti
-    kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietu-
-    vai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos.
+  citata_rodoma: "Pasiekęs neregėtą galybę rytuose, Algirdas 1358 m. derybose su\nŠv. Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti\nkryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietu-\nvai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10089
+    - t-002
+
 - id: c-42063
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -163,20 +156,15 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     Šv. Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti
     kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietu-
     vai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos.
-  citata_rodoma: |
-    Lietuvos galybės maksimumas
-
-    Pasiekęs neregėtą galybę rytuose, Algirdas 1358 m. derybose su
-    Šv. Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti
-    kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietu-
-    vai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos.
+  citata_rodoma: "Lietuvos galybės maksimumas\n\nPasiekęs neregėtą galybę rytuose, Algirdas 1358 m. derybose su\nŠv. Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti\nkryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietu-\nvai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89888
+    - t-006
+
 - id: c-85799
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -189,17 +177,15 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     lių, ir vėl prasidėjo karas. Tada Kazimieras ėmė rūpintis, kad
     Lietuvai pasiūlytų krikštytis patsai popiežius ir imperatorius Ka-
     rolis IV.
-  citata_rodoma: |
-    Tada Kazimieras ėmė rūpintis, kad
-    Lietuvai pasiūlytų krikštytis patsai popiežius ir imperatorius Ka-
-    rolis IV.
+  citata_rodoma: "Tada Kazimieras ėmė rūpintis, kad\nLietuvai pasiūlytų krikštytis patsai popiežius ir imperatorius Ka-\nrolis IV."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89884
+    - t-005
+
 - id: c-85800
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -210,14 +196,11 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
     grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t. y.
     Sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.
-  citata_rodoma: |
-    1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
-    grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t. y.
-    Sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.
+  citata_rodoma: "1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo\ngrąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t. y.\nSembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89885
+    - t-007

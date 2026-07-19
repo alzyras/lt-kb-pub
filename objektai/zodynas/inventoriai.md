@@ -31,8 +31,7 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 ## Teiginiai
 
 <a id="claim-t-72696"></a>
-- t-001
-  global_id: t-72696
+- t-002
   teiginys: "Inventoriai negalėjo daug padėti valstiečiams, nes jie liko beteisiai ir neturėjo kam skųstis ponui didinant prievoles."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -41,8 +40,7 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
     - c-71075
 
 <a id="claim-t-72699"></a>
-- t-002
-  global_id: t-72699
+- t-001
   teiginys: "Inventoriai buvo rengiami valstiečių prievolėms suvienodinti, juose nuo seno buvo surašomos visos valstiečių pareigos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,7 +50,6 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 
 <a id="claim-t-193145"></a>
 - t-003
-  global_id: t-193145
   teiginys: "Inventoriams suvienodinti visose gubernijose buvo įsteigti specialūs komitetai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -82,17 +79,15 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 
 
     ponas didino prievoles, jie neturėjo kam pasiskųsti.
-  citata_rodoma: |
-    Tačiau tie inventoriai nega-
-    lėjo daug padėti, nes valstiečiai vis tiek pasiliko beteisiai: jei
-    ponas didino prievoles, jie neturėjo kam pasiskųsti.
+  citata_rodoma: "Tačiau tie inventoriai nega-\nlėjo daug padėti, nes valstiečiai vis tiek pasiliko beteisiai: jei\nponas didino prievoles, jie neturėjo kam pasiskųsti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72696
+    - t-002
+
 - id: c-71079
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -109,7 +104,8 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72699
+    - t-001
+
 - id: c-175899
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -130,4 +126,4 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193145
+    - t-003

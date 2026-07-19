@@ -33,7 +33,6 @@ media_all_json: |-
 
 <a id="claim-t-201141"></a>
 - t-001
-  global_id: t-201141
   teiginys: "(Čia skaitytojas tenedūmoja, jog Kuršas, tai yra Kuresarai, taip didis buvo kaip šiandien; Kuršu tuo kartu vadinos apykaitos Ventspilio (Goldingen), Tukumo ir įtakos Ventos, kur kuresarai gyveno, kiti visi kraštai šios dienos Kuršo vadinos Žemgaliais, tai yra."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184491
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bengiantis paliauboms, kunigaikštis Žemaičių už­
     sakė sueimą, į kurį susirinkę sutarė tenai,, kaip ra­
@@ -68,4 +68,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201141
+    - t-001

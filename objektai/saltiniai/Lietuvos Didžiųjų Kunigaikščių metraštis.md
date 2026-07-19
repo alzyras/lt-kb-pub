@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-31801"></a>
 - t-001
-  global_id: t-31801
   teiginys: "„Lietuvos Didžiųjų Kunigaikščių metraštis“ paskelbtas AkMD 3 tome 1957 m., p. 111-120."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,15 +78,11 @@ media_all_json: |-
     **_Bandymai išlaisvinti valstiečius Lietuvoje XVIII a. pabaigoje - XIX a. pra­
     džioje_** **(AkMD, t. 34, 1970, 85-96 p.);** **_Slaptos studentų draugijos Vilniaus
     Medicinos-Chirurgijos Akademijoje 1832-1841 m._** **(AkMD, t. 4, 1958, 135-**
-  citata_rodoma: |
-    **
-    (^106) **Jis dar parašė :** **_Lietuvos Didžiųjų Kunigaikščių metraštis_** **(AkMD,
-    t. 3, 1957, 111-120 p.) ;** **_Naujausi Lenkijos liaudies respublikos istoriku darbai
-    apie Lietuvos Didžiąją Kunigaikštystę_** **(AkMD, t.
+  citata_rodoma: "**\n(^106) **Jis dar parašė :** **_Lietuvos Didžiųjų Kunigaikščių metraštis_** **(AkMD,\nt. 3, 1957, 111-120 p.) ;** **_Naujausi Lenkijos liaudies respublikos istoriku darbai\napie Lietuvos Didžiąją Kunigaikštystę_** **(AkMD, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31801
+    - t-001

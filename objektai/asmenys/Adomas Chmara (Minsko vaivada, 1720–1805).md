@@ -39,8 +39,7 @@ Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius. 1751 m. Pale
 ## Teiginiai
 
 <a id="claim-t-200461"></a>
-- t-001
-  global_id: t-200461
+- t-002
   teiginys: "Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -57,8 +56,7 @@ Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius. 1751 m. Pale
     - c-183843
 
 <a id="claim-t-200462"></a>
-- t-002
-  global_id: t-200462
+- t-001
   teiginys: "1751 m. Palenkės vaivada Mykolas Antanas Sapiega pasiuntė Minsko pavieto iždininką Adomą Chmarą į Vilnių su pinigais už Jedžiotus."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -78,24 +76,6 @@ Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius. 1751 m. Pale
   pagrindžia:
     - c-183843
 
-<a id="claim-t-200463"></a>
-- t-003
-  global_id: t-200463
-  teiginys: "Adomo Chmaros gyvenimo datos nurodytos kaip 1720–1805."
-  atnaujinta: "2026-07-14 11:41"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Belzas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Chmara (Minsko vaivada, 1720–1805): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Belzas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Chmara (Minsko vaivada, 1720–1805)\" parinktas kaip owner_note_path. Targetas \"Belzas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
-  pagrindžia:
-    - c-183843
-
 ## Citatos
 
 - id: c-183843
@@ -103,26 +83,9 @@ Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius. 1751 m. Pale
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 7"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 7."
-  citata_originali: |
-    J. D. Lopacinskis Belzo
-    vaivadienei Liudvikai Sapiegaitei Potockai rašė, kad turįs garbės pareikšti, kad Kauno
-    pavieto vėliavininkas Jonas Vladislovas Korfas (Jan Wladysław Korf) perėmė nenuro-
-    dytą sumą į savo rankas, o vėliau pinigus turėjo perduoti minėtai didikei [7]. 1751 m.
-    J. D. Lopacinskis pasakojo, kad sužinojo, jog Palenkės vaivada Mykolas Antanas Sapiega
-    pasiuntė Minsko pavieto iždininką Adomą Chmarą (Adam Chmara) į Vilnių su pinigais
-    už Jedžiotus (dabartiniame Skuodo rajone) [20], vėlesniame laiške jis aiškino, kad atvyko
-    tas pats A. Chmara ir sumokėjo skolą kanauninko broliui [24].
-  citata_rodoma: |
-    1751 m. J. D. Lopacinskis pasakojo, kad sužinojo, jog Palenkės vaivada Mykolas Antanas Sapiega
-    pasiuntė Minsko pavieto iždininką Adomą Chmarą (Adam Chmara) į Vilnių su pinigais
-    už Jedžiotus (dabartiniame Skuodo rajone) [20], vėlesniame laiške jis aiškino, kad atvyko
-    tas pats A. Chmara ir sumokėjo skolą kanauninko broliui [24].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:25"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200461
-    - t-200462
-    - t-200463
+    - t-002
+    - t-001

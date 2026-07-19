@@ -59,8 +59,7 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 ## Teiginiai
 
 <a id="claim-t-49286"></a>
-- t-001
-  global_id: t-49286
+- t-007
   teiginys: "J. P. Sapiegos husarų ir petihorų vėliavos atlaikė pagrindinį Švedijos kariuomenės smūgį prie lietuvių dešiniojo sparno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -76,8 +75,7 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
     - c-12591
 
 <a id="claim-t-49287"></a>
-- t-002
-  global_id: t-49287
+- t-006
   teiginys: "Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -93,8 +91,7 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
     - c-51283
 
 <a id="claim-t-49288"></a>
-- t-003
-  global_id: t-49288
+- t-004
   teiginys: "Petihorai buvo Lietuvos kariuomenės raitininkai, Lenkijoje vadinti pancernais."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -110,8 +107,7 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
     - c-12590
 
 <a id="claim-t-49289"></a>
-- t-004
-  global_id: t-49289
+- t-008
   teiginys: "Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -128,9 +124,8 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 
 <a id="claim-t-49290"></a>
 - t-005
-  global_id: t-49290
   teiginys: "Petihorai sudarydavo vidutinę kavaleriją ir mūšyje manevruodavo flanguose, remdami husarų ataką."
-  atnaujinta: "2026-06-01 14:44"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -142,7 +137,6 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12590
-    - c-12591
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70311|rotmistras]]: Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.
 - susijęs iš [[objektai/zodynas/sunkioji kavalerija.md#claim-t-42513|sunkioji kavalerija]]: Tautinio autoramento pagrindu formuota sunkioji kavalerija buvo husarai.
 - susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200531|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo kunigaikštis vėliavininkas.
@@ -175,8 +169,9 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49288
-    - t-49290
+    - t-004
+    - t-005
+
 - id: c-12591
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -192,20 +187,15 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
     M. Giedraičio vėliavos sugebėjo sumušti
     generolo H. Branto kavaleriją, kuri pradėjo
     trauktis.
-  citata_rodoma: |
-    Ar su-
-    gebės rotmistro J. P. Sapiegos husarų ir pe-
-    tihorų vėliavos atlaikyti pagrindinį Švedijos
-    kariuomenės smūgį ir sužlugdyti Karolio
-    Ix planą apeiti Lietuvos kariuomenę.
+  citata_rodoma: "Ar su-\ngebės rotmistro J. P. Sapiegos husarų ir pe-\ntihorų vėliavos atlaikyti pagrindinį Švedijos\nkariuomenės smūgį ir sužlugdyti Karolio\nIx planą apeiti Lietuvos kariuomenę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49286
-    - t-49290
+    - t-007
+
 - id: c-51283
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -237,5 +227,5 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49287
-    - t-49289
+    - t-006
+    - t-008

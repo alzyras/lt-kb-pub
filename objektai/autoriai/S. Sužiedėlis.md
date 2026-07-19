@@ -45,8 +45,7 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 ## Teiginiai
 
 <a id="claim-t-97219"></a>
-- t-001
-  global_id: t-97219
+- t-005
   teiginys: "Sužiedėlis, S.: Apuolė , EnL, I, 112-113 p. 5."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
     - c-30860
 
 <a id="claim-t-97222"></a>
-- t-002
-  global_id: t-97222
+- t-008
   teiginys: "34, 1970, 57-74 p. — Sužiedėlis, S.: Apuolė , EnL, I, 112-113 p."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
     - c-30860
 
 <a id="claim-t-97223"></a>
-- t-003
-  global_id: t-97223
+- t-007
   teiginys: "S. Sužiedėlis 1930 m. paskelbė darbą „Vytautas Didysis ir Lietuvos christianizacija“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,18 +116,16 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
     t. 34, 1970, 57-74 p. — Sužiedėlis, S.: _Apuolė_ , EnL, I, 112-113 p.
 
     **5.
-  citata_rodoma: |
-    — Sužiedėlis, S.: _Apuolė_ , EnL, I, 112-113 p.
-
-    **5.
+  citata_rodoma: "— Sužiedėlis, S.: _Apuolė_ , EnL, I, 112-113 p.\n\n**5."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97219
-    - t-97222
+    - t-005
+    - t-008
+
 - id: c-30862
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -141,15 +136,11 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
     483 p. — (”) Veidu į Katalikų Bažnyčią , Židinys, nr. 4, 1937, 441-453 p.
     — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­
     ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f.
-  citata_rodoma: |
-    — Sužiedėlis, S. :
-    Vytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-
-    483 p. — (”) Veidu į Katalikų Bažnyčią , Židinys, nr. 4, 1937, 441-453 p.
-    — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p.
+  citata_rodoma: "— Sužiedėlis, S. :\nVytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-\n483 p. — (”) Veidu į Katalikų Bažnyčią , Židinys, nr. 4, 1937, 441-453 p.\n— Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97223
+    - t-007

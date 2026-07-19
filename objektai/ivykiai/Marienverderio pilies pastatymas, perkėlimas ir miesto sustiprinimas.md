@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66768"></a>
-- t-001
-  global_id: t-66768
+- t-003
   teiginys: "Lenkijos ir Pomeranijos kunigaikščiai bei kiti didikai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ Nenurodyta
     - c-66908
 
 <a id="claim-t-66769"></a>
-- t-002
-  global_id: t-66769
+- t-001
   teiginys: "1233 m. magistras ir broliai Kvedino saloje pastatė Marienverderio pilį, vėliau perkeltą į Pamedės valsčiaus Reisių vietovę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -97,8 +95,7 @@ Nenurodyta
     - c-66909
 
 <a id="claim-t-66770"></a>
-- t-003
-  global_id: t-66770
+- t-002
   teiginys: "1233 m. pastatyta Marienverderio pilis vėliau buvo perkelta iš Kvedino salos į Pamedės valsčių, vadintą Reisiais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -163,13 +160,14 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66768
+    - t-003
+
 - id: c-66909
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae
+    9. Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae
                                     Mariae] pastatymą
 
       Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo
@@ -183,26 +181,12 @@ Nenurodyta
     vienus metus, kuriuos ten praleido, atplaukė čia  ir perkėlė su magistru bei broliais
     Marienverderio salos pilį iš Kvedino salos  į tą vietą, kur ji dabar tebestovi225, būtent  į
     Pamedės valsčių, vardu Reisiai226, pakeisdamas pilies vietą, bet ne pavadinimą.
-  citata_rodoma: |
-    Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae
-                                    Mariae] pastatymą
-
-      Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo
-    įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir broliai, norėdami, kad
-    mūsų išganymo dievas palaimintų mums kelią į kaimynines netikėlių žemes (pasak kai
-    kurių, šitai tikriausia tiesa), paruošę visa, kas reikalinga pilims statyti, slapta nuplaukė
-    į Kvedino salą, buvusią prieš šiandieninę šventos Marijos salą, ir ten viešpaties dievo
-    1233 metais ant vienos kalvos pastatė pilį, pavadinę ją Marienverderiu. Tačiau kąi  į
-    Kulmo pilį atvyko nemažos kariuomenės ir ginklanešių lydimas kilnusis vyras ir kariauti
-    įgudęs Saksonijos karys Magdeburgo burggrafas224, pravarde Trumparankis,  jis per
-    vienus metus, kuriuos ten praleido, atplaukė čia  ir perkėlė su magistru bei broliais
-    Marienverderio salos pilį iš Kvedino salos  į tą vietą, kur ji dabar tebestovi225, būtent  į
-    Pamedės valsčių, vardu Reisiai226, pakeisdamas pilies vietą, bet ne pavadinimą.
+  citata_rodoma: "Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae\n                                Mariae] pastatymą\n\n  Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo\nįsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir broliai, norėdami, kad\nmūsų išganymo dievas palaimintų mums kelią į kaimynines netikėlių žemes (pasak kai\nkurių, šitai tikriausia tiesa), paruošę visa, kas reikalinga pilims statyti, slapta nuplaukė\nį Kvedino salą, buvusią prieš šiandieninę šventos Marijos salą, ir ten viešpaties dievo\n1233 metais ant vienos kalvos pastatė pilį, pavadinę ją Marienverderiu. Tačiau kąi  į\nKulmo pilį atvyko nemažos kariuomenės ir ginklanešių lydimas kilnusis vyras ir kariauti\nįgudęs Saksonijos karys Magdeburgo burggrafas224, pravarde Trumparankis,  jis per\nvienus metus, kuriuos ten praleido, atplaukė čia  ir perkėlė su magistru bei broliais\nMarienverderio salos pilį iš Kvedino salos  į tą vietą, kur ji dabar tebestovi225, būtent  į\nPamedės valsčių, vardu Reisiai226, pakeisdamas pilies vietą, bet ne pavadinimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66769
-    - t-66770
+    - t-001
+    - t-002

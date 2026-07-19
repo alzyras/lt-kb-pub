@@ -31,7 +31,6 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
 
 <a id="claim-t-86842"></a>
 - t-001
-  global_id: t-86842
   teiginys: "Gediminas laiške dominikonams titulavosi dievo malone lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
 
 <a id="claim-t-86843"></a>
 - t-002
-  global_id: t-86843
   teiginys: "Gediminas laiške pranciškonams save vadino dieviškąja apvaizda lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +97,8 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86842
+    - t-001
+
 - id: c-82822
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -128,4 +127,4 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86843
+    - t-002

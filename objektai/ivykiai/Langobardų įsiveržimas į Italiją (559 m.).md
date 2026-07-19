@@ -44,7 +44,6 @@ Nenurodyta
 
 <a id="claim-t-185810"></a>
 - t-001
-  global_id: t-185810
   teiginys: "Apie 559 metus Albojino vedami langobardai iškeliavo iš Panonijos ir su didžiule kariuomene įsiveržė į Italiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -98,4 +97,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185810
+    - t-001

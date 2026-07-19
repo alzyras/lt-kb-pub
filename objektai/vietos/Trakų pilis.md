@@ -42,8 +42,7 @@ Trakų pilis.
 ## Teiginiai
 
 <a id="claim-t-95314"></a>
-- t-001
-  global_id: t-95314
+- t-008
   teiginys: "Skirgaila pasirinko Trakų pilį nuolatine buveine ir iš jos vykdavo į mūšius ar malšinti maištaujančių kunigaikščių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Trakų pilis.
     - c-90245
 
 <a id="claim-t-95316"></a>
-- t-002
-  global_id: t-95316
+- t-003
   teiginys: "Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Trakų pilis.
     - c-90247
 
 <a id="claim-t-95317"></a>
-- t-003
-  global_id: t-95317
+- t-005
   teiginys: "Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo tik į karo žygius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Trakų pilis.
     - c-90250
 
 <a id="claim-t-95318"></a>
-- t-004
-  global_id: t-95318
+- t-006
   teiginys: "Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,8 +108,7 @@ Trakų pilis.
     - c-90247
 
 <a id="claim-t-95319"></a>
-- t-005
-  global_id: t-95319
+- t-009
   teiginys: "Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,8 +128,7 @@ Trakų pilis.
     - c-90244
 
 <a id="claim-t-95320"></a>
-- t-006
-  global_id: t-95320
+- t-001
   teiginys: "Ordino patrankos buvo išmėgintos imant Trakų pilį, o 1384 m. Jogaila jas panaudojo prieš Ordiną prie Marienverderio."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -154,8 +148,7 @@ Trakų pilis.
     - c-37767
 
 <a id="claim-t-95321"></a>
-- t-007
-  global_id: t-95321
+- t-002
   teiginys: "Jogaila gavo iš Ordino maršalkos Kuno von Hattenšteino patrankų, anksčiau vokiečių išmėgintų imant Trakų pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -174,10 +167,9 @@ Trakų pilis.
     - c-37767
 
 <a id="claim-t-188843"></a>
-- t-008
-  global_id: t-188843
+- t-004
   teiginys: "Senojoje Trakų pilyje virš didžiųjų vartų anksčiau buvo akmenyje iškaltas kryžius skyde."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -193,7 +185,6 @@ Trakų pilis.
   semantiniai_rysiai: "Kryžius priklausė Trakų pilis (pilis) (0.82)"
   pagrindžia:
     - c-171732
-    - c-006
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179020|Kryžiuočių ordinas]]: Mūšis ties Rudamina ir Vilniaus pilių atsilaikymas pastūmėjo kryžiuočius derėtis su Algirdu ir Kęstučiu.
 - susijęs iš [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.).md#claim-t-54706|Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]: Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies.
 - susijęs iš [[objektai/paprociai/Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje.md#claim-t-87249|Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje]]: Po taikos sutarties maršalas, arkikomtūras ir aukštesnieji vokiečių riteriai buvo pakviesti į Vilniaus ir Trakų pilis, pavaišinti ir apdovanoti.
@@ -220,8 +211,7 @@ Trakų pilis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188843
+
 ## Citatos
 
 - id: c-37767
@@ -237,21 +227,16 @@ Trakų pilis.
     čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie
     Marienverderio nukreipė jas prieš patį Ordiną. Vytautas savo
     karuose taip pat naudojo parako ginklus ir patrankas.
-  citata_rodoma: |
-    Tuo pat
-    laiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­
-    šteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­
-    čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie
-    Marienverderio nukreipė jas prieš patį Ordiną. Vytautas savo
-    karuose taip pat naudojo parako ginklus ir patrankas.
+  citata_rodoma: "Tuo pat\nlaiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­\nšteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­\nčių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie\nMarienverderio nukreipė jas prieš patį Ordiną. Vytautas savo\nkaruose taip pat naudojo parako ginklus ir patrankas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95320
-    - t-95321
+    - t-001
+    - t-002
+
 - id: c-90244
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -265,20 +250,15 @@ Trakų pilis.
     šteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­
     čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie
     Marienverderio nukreipė jas prieš patį Ordiną.
-  citata_rodoma: |
-    per Velykų šventes ataka­
-    vęs Jurbarko pilį, pasinaudodamas patrankų baterija. Tuo pat
-    laiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­
-    šteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­
-    čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie
-    Marienverderio nukreipė jas prieš patį Ordiną.
+  citata_rodoma: "per Velykų šventes ataka­\nvęs Jurbarko pilį, pasinaudodamas patrankų baterija. Tuo pat\nlaiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­\nšteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­\nčių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie\nMarienverderio nukreipė jas prieš patį Ordiną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95319
+    - t-009
+
 - id: c-90245
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -298,7 +278,8 @@ Trakų pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95314
+    - t-008
+
 - id: c-90247
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -332,8 +313,9 @@ Trakų pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95316
-    - t-95318
+    - t-003
+    - t-006
+
 - id: c-90250
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -358,7 +340,8 @@ Trakų pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95317
+    - t-005
+
 - id: c-171732
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -392,20 +375,14 @@ Trakų pilis.
     jo pasiuntinius, nešinus jo lazda arba kokiu nors ženklu, jo
     siųstu, net kunigaikščiai ir prastuomenė priimdavo su didžiau­
     sia pagarba ir griežtai vykdydavo visus jo nurodymus).
-  citata_rodoma: |
-    MITOLOGIJOS PABAIGA. 13
-    13
-    Seniau tokio vaizdo kryžius skyde, iškaltas iš akmens, buvo
-    senojoje Trakų pilyje, viršum didžiųjų vartų. Tai žinios iš Trakų pilies
-    tyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­
-    niaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,
-    suteikęs mums tą žinią.
+  citata_rodoma: "MITOLOGIJOS PABAIGA. 13\n13\nSeniau tokio vaizdo kryžius skyde, iškaltas iš akmens, buvo\nsenojoje Trakų pilyje, viršum didžiųjų vartų. Tai žinios iš Trakų pilies\ntyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­\nniaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,\nsuteikęs mums tą žinią."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188843
+    - t-004
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/asmenys/Skirgaila]]

@@ -38,7 +38,6 @@ Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemi
 
 <a id="claim-t-88304"></a>
 - t-001
-  global_id: t-88304
   teiginys: "Hartknochas Dusburgo kronikos pastabose Castrum Gedemini tapatino su Vilniumi ir manė, kad miestas įkurtas 1322 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemi
 
 <a id="claim-t-88305"></a>
 - t-002
-  global_id: t-88305
   teiginys: "Balińskis Hartknocho prielaidą, kad Vilnius buvo vadinamoji Castrum Gedemini, laikė visiškai atmestina."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,24 +90,15 @@ Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemi
     manytume buvus.
     g
     Post haec XI Kalendas Junii Fr.
-  citata_rodoma: |
-    Jeigu mes net tarsime, kad ta pilis Vilniuje
-    gerokai anksčiau pastatyta, tai Dusburgas, Gedimino
-    amžininkas būdamas, 1324 metais nevadintų jos Castrum Ge­
-    demini, juk pats Gediminas, arba rygiečiai, dar prieš metus
-    viešuose laiškuose ir dokumentuose aiškiai ją vadina Vil­
-    niaus ir sutartis tuo vardu vadinamame mieste pasirašo. Tai­
-    gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs
-    būti ta vadinama Castrum Gedemini, yra visiškai atmestina.
-    Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį
-    manytume buvus.
+  citata_rodoma: "Jeigu mes net tarsime, kad ta pilis Vilniuje \ngerokai anksčiau pastatyta, tai Dusburgas, Gedimino \namžininkas būdamas, 1324 metais nevadintų jos Castrum Ge­\ndemini, juk pats Gediminas, arba rygiečiai, dar prieš metus \nviešuose laiškuose ir dokumentuose aiškiai ją vadina Vil­\nniaus ir sutartis tuo vardu vadinamame mieste pasirašo. Tai­\ngi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs \nbūti ta vadinama Castrum Gedemini, yra visiškai atmestina. \nMes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį \nmanytume buvus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88305
+    - t-002
+
 - id: c-84284
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -133,4 +122,4 @@ Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88304
+    - t-001

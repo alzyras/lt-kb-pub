@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-31462"></a>
 - t-001
-  global_id: t-31462
   teiginys: "1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkes, žudė žmones, ėmė belaisvius ir naikino ugnimi bei plėšimais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-31463"></a>
 - t-002
-  global_id: t-31463
   teiginys: "1311 m. didysis Ordino komtūras pasiekė Šalčininkus, sunaikino tris pilis ir grįžo su dideliu grobiu bei 700 belaisvių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,7 +112,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31462
+    - t-001
+
 - id: c-33421
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -129,17 +128,11 @@ Nenurodyta
     grobiu, vesdamasis 700 belaisvių, «neskaitant užmuštųjų, kurių
     skaičius buvo labai didelis »^16. 1314 m. kryžiuočiai du kartu teriojo
     Medininkus, o 1315 — net Naugarduką^17.
-  citata_rodoma: |
-    O didysis ordino komtūras «su 150
-    riterių, stipria kariuomene ir su 2000 pėstininkų » pasiekė Šalčinin­
-    kus (į pietus nuo Vilniaus), « kur niekada dar nebuvo matyta krikš­
-    čionių kariuomenė », esą sunaikinęs tris pilis ir grįžęs su dideliu
-    grobiu, vesdamasis 700 belaisvių, «neskaitant užmuštųjų, kurių
-    skaičius buvo labai didelis »^16. 1314 m.
+  citata_rodoma: "O didysis ordino komtūras «su 150\nriterių, stipria kariuomene ir su 2000 pėstininkų » pasiekė Šalčinin­\nkus (į pietus nuo Vilniaus), « kur niekada dar nebuvo matyta krikš­\nčionių kariuomenė », esą sunaikinęs tris pilis ir grįžęs su dideliu\ngrobiu, vesdamasis 700 belaisvių, «neskaitant užmuštųjų, kurių\nskaičius buvo labai didelis »^16. 1314 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31463
+    - t-002

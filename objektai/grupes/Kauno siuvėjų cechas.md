@@ -9,10 +9,10 @@ datos:
   - '1560 m.'
 date_start: '1553'
 date_end: '1560'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-201866"></a>
 - t-001
-  global_id: t-201866
   teiginys: "Štai 1553 m. magistratas nurodė siuvėjų pameistriams klausyti savųjų meistrų."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ media_all_json: |-
 
 <a id="claim-t-201867"></a>
 - t-002
-  global_id: t-201867
   teiginys: "Štai 1560 m. Kauno siuvėjai pasirūpino gauti iš Vilniaus siuvėjų cecho laišką su išdėstytais pastarųjų cecho nuostatais."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201866
+    - t-001
 
 - id: c-185214
   autorius: "Zigmantas Kiaupa"
@@ -94,4 +92,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201867
+    - t-002

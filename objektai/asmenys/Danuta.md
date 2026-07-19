@@ -39,8 +39,7 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
 ## Teiginiai
 
 <a id="claim-t-35045"></a>
-- t-001
-  global_id: t-35045
+- t-002
   teiginys: "Danuta buvo Vytauto sesuo, nutekėjusi į Mozūriją, iš kurios katalikų svečiai lankydavosi Kęstučio dvare Trakuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     - c-37997
 
 <a id="claim-t-35046"></a>
-- t-002
-  global_id: t-35046
+- t-001
   teiginys: "Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama taip pat Marijos vardu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,17 +87,15 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     kunigaikščio Jono ir apsikrikštijo Marijos vardu. Danuta 1380
     m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama
     taip pat Marijos vardu. 1392 m.
-  citata_rodoma: |
-    Danuta 1380
-    m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama
-    taip pat Marijos vardu. 1392 m.
+  citata_rodoma: "Danuta 1380\nm. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama\ntaip pat Marijos vardu. 1392 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35046
+    - t-001
+
 - id: c-37997
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -116,20 +112,14 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     ropos kraštų, o per abi savo žmonas stačiatikes suartėjo su jų
     tikėjimu, nes mirus pirmajai žmonai Marijai, Vytautas vedė
     Smolensko kunigaikštytę Oną, taip pat stačiatikę.
-  citata_rodoma: |
-    Jis turėjo tada 33 metus, ir krikščionybė jam
-    nebuvo svetima, nes savo tėvo Kęstučio dvare Trakuose susi­
-    tikdavo su svečiais katalikais iš Mozūrijos, kur buvo nutekė­
-    jusi jo sesuo Danuta, iš Malburgo ir kartais iš kitų Vakarų Eu­
-    ropos kraštų, o per abi savo žmonas stačiatikes suartėjo su jų
-    tikėjimu, nes mirus pirmajai žmonai Marijai, Vytautas vedė
-    Smolensko kunigaikštytę Oną, taip pat stačiatikę.
+  citata_rodoma: "Jis turėjo tada 33 metus, ir krikščionybė jam\nnebuvo svetima, nes savo tėvo Kęstučio dvare Trakuose susi­\ntikdavo su svečiais katalikais iš Mozūrijos, kur buvo nutekė­\njusi jo sesuo Danuta, iš Malburgo ir kartais iš kitų Vakarų Eu­\nropos kraštų, o per abi savo žmonas stačiatikes suartėjo su jų\ntikėjimu, nes mirus pirmajai žmonai Marijai, Vytautas vedė\nSmolensko kunigaikštytę Oną, taip pat stačiatikę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35045
+    - t-002
+
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]]

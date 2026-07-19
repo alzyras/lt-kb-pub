@@ -53,7 +53,6 @@ Kerdžius prie lango rėkauja reikalaudamas piemens.
 
 <a id="claim-t-195424"></a>
 - t-001
-  global_id: t-195424
   teiginys: "Kerdžius taip reikalauja piemens ir grasina parvaryti karves atgal."
   atnaujinta: "2026-07-12 02:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -75,16 +74,11 @@ Kerdžius prie lango rėkauja reikalaudamas piemens.
     Jei neleidi pie­
     mens — gink pati, man vistiek, imu ir parvarau karves į kiemą, tai ir
     pamatysi“ . . .
-  citata_rodoma: |
-    Atsistoja gatvėje prieš langą ir rėkauja: „Aš neturiu
-    šunies kojų lakstyti aplink bandą, kad piemenų nėra.
-    Jei neleidi pie­
-    mens — gink pati, man vistiek, imu ir parvarau karves į kiemą, tai ir
-    pamatysi“ . . .
+  citata_rodoma: "Atsistoja gatvėje prieš langą ir rėkauja: „Aš neturiu \nšunies kojų lakstyti aplink bandą, kad piemenų nėra. \nJei neleidi pie­\nmens — gink pati, man vistiek, imu ir parvarau karves į kiemą, tai ir\npamatysi“ . . ."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195424
+    - t-001

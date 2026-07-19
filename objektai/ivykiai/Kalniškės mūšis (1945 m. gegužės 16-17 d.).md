@@ -55,8 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71746"></a>
-- t-001
-  global_id: t-71746
+- t-006
   teiginys: "Kalniškės mūšyje partizanai, naudodami granatas ir sutelktą ugnį, su nuostoliais prasiveržė link Sūsninkų."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -65,8 +64,7 @@ Nenurodyta
     - c-43049
 
 <a id="claim-t-71747"></a>
-- t-002
-  global_id: t-71747
+- t-005
   teiginys: "Kalniškės mūšyje žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu Pušelė."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Nenurodyta
     - c-43050
 
 <a id="claim-t-71748"></a>
-- t-003
-  global_id: t-71748
+- t-007
   teiginys: "Neifalta-Lakūnas per Kalniškės mūšį nežuvo; citatoje nurodoma, kad jis žuvo apie 1946 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,8 +102,7 @@ Nenurodyta
     - c-43050
 
 <a id="claim-t-71749"></a>
-- t-004
-  global_id: t-71749
+- t-008
   teiginys: "Liudytojas teigė Neifaltą-Lakūną po Kalniškės mūšio matęs ne kartą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -146,7 +142,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71746
+    - t-006
+
 - id: c-43050
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -168,6 +165,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71747
-    - t-71748
-    - t-71749
+    - t-005
+    - t-007
+    - t-008

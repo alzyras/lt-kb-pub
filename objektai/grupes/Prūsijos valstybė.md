@@ -37,8 +37,7 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
 ## Teiginiai
 
 <a id="claim-t-19968"></a>
-- t-001
-  global_id: t-19968
+- t-002
   teiginys: "Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
     - c-22704
 
 <a id="claim-t-19969"></a>
-- t-002
-  global_id: t-19969
+- t-001
   teiginys: "Vokiečių ordino valstybė vėliau pasivadino Prūsijos hercogija, o dar vėliau – Prūsijos karalija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,15 +88,15 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
     ta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietu-
     va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios
     Lietuvos vardu).
-  citata_rodoma: |
-    va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios
+  citata_rodoma: "va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19969
+    - t-001
+
 - id: c-22704
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -110,12 +108,11 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
     sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
     tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
     vėliau įkūrė Prūsijos valstybę.
-  citata_rodoma: |
-    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
+  citata_rodoma: "sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19968
+    - t-002

@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192071"></a>
-- t-001
-  global_id: t-192071
+- t-003
   teiginys: "Narbuto pasakojime šauliai žygiavo kariuomenės šonuose su lankais, paruoštais smūgiui."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-174943
 
 <a id="claim-t-192073"></a>
-- t-002
-  global_id: t-192073
+- t-001
   teiginys: "LDK karių perkėlų statybą per upę dengė dviejų patrankų, šautuvų ir lankų ugnis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -90,8 +88,7 @@ Nenurodyta
     - c-174941
 
 <a id="claim-t-192503"></a>
-- t-003
-  global_id: t-192503
+- t-004
   teiginys: "Narbuto aprašyme vadas išvedė visiškai apsiginklavusius riterius, o kariuomenės šonuose žygiavo šauliai su lankais, paruoštais smūgiui."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -139,21 +136,15 @@ Nenurodyta
     Savo ruožtu totoriai šaudė iš lankų aukšta
     trajektorija ir apipylė tankiai sustojusias
     LDK kariuomenės vėliavas strėlių kruša.
-  citata_rodoma: |
-    Tuo
-    tarpu kiti LDK kariai dviejose vietose rentė
-    perkėlas per upę. Priedangą jų darbui teikė
-    dviejų patrankų, šautuvų ir lankų ugnis.
-    Savo ruožtu totoriai šaudė iš lankų aukšta
-    trajektorija ir apipylė tankiai sustojusias
-    LDK kariuomenės vėliavas strėlių kruša.
+  citata_rodoma: "Tuo\ntarpu kiti LDK kariai dviejose vietose rentė\nperkėlas per upę. Priedangą jų darbui teikė\ndviejų patrankų, šautuvų ir lankų ugnis.\nSavo ruožtu totoriai šaudė iš lankų aukšta\ntrajektorija ir apipylė tankiai sustojusias\nLDK kariuomenės vėliavas strėlių kruša."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192073
+    - t-001
+
 - id: c-174943
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -166,15 +157,15 @@ Nenurodyta
     žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
     ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
     liai su lankais, paruoštais smūgiui.
-  citata_rodoma: |
-    Vadas visiems riteriams įsakė išeiti iš stovyklos visiškai apsiginklavus: skydai spindėjo kaip žvaigždės, o šalmai — kaip tekančios saulės spinduliai, ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šauliai su lankais, paruoštais smūgiui.
+  citata_rodoma: "Vadas visiems riteriams įsakė išeiti iš stovyklos visiškai apsiginklavus: skydai spindėjo kaip žvaigždės, o šalmai — kaip tekančios saulės spinduliai, ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šauliai su lankais, paruoštais smūgiui."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192071
+    - t-003
+
 - id: c-175293
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -193,4 +184,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192503
+    - t-004

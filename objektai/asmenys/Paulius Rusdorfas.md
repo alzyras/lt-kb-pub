@@ -38,8 +38,7 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 ## Teiginiai
 
 <a id="claim-t-87452"></a>
-- t-001
-  global_id: t-87452
+- t-002
   teiginys: "Didysis magistras Paulius Rusdorfas atsiuntė kunigaikštienei Julijonai gydomųjų gėrimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
     - c-83431
 
 <a id="claim-t-87453"></a>
-- t-002
-  global_id: t-87453
+- t-001
   teiginys: "Paulius Rusdorfas kaip kryžiuočių magistras dalyvavo taikos sutartyje su Vytautu ir Mazovijos kunigaikščiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 
 <a id="claim-t-87454"></a>
 - t-003
-  global_id: t-87454
   teiginys: "Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už jai atsiųstus gėrimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +91,6 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 
 <a id="claim-t-190960"></a>
 - t-004
-  global_id: t-190960
   teiginys: "Narbutas Paulių Rusdorfą vadino kryžiuočių magistru, 1436 m. su Vladislovu Varniečiu sudariusiu pasienio konvenciją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -119,7 +115,6 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 
 <a id="claim-t-197805"></a>
 - t-005
-  global_id: t-197805
   teiginys: "Tik 1436 metais Lenkijos karalius Vladis lovas Varnietis iš vienos ir kryžiuočių magistras Povilas Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku ria visiems laikams buvo nustatyta minėtų valstybių sie na, o Rusia buvo padalyta į dvi nelygias dalis2."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -159,32 +154,15 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
     wien i 6 sot hrywien i 50 i osm hryzvien
     i dwa skotcy [Vilniuje, birželio 9-ta
     diena, 2 indiktas.
-  citata_rodoma: |
-    A liteho
-    236
-
-    ## Puslapis 253
-
-    III KNYGA
-    galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­
-    toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­
-    me vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­
-    jos istorija mums išsaugojo įdomią žinią apie tai, kad
-    Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos
-    liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­
-    ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro
-    Pauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.
-    serebra do mina/ pryszlo 20 tysiacz hry-
-    wien i 6 sot hrywien i 50 i osm hryzvien
-    i dwa skotcy [Vilniuje, birželio 9-ta
-    diena, 2 indiktas.
+  citata_rodoma: "A liteho\n236\n\n## Puslapis 253\n\nIII KNYGA\ngaliau Aleksandro laikais Vilnius pirmą kartą pažino gydy­\ntoją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­\nme vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­\njos istorija mums išsaugojo įdomią žinią apie tai, kad \nVytautas 1426 metais, susirūpinęs savo žmonos Julijonos \nliga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­\nti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro \nPauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.\nserebra do mina/ pryszlo 20 tysiacz hry- \nwien i 6 sot hrywien i 50 i osm hryzvien \ni dwa skotcy [Vilniuje, birželio 9-ta \ndiena, 2 indiktas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87452
+    - t-002
+
 - id: c-83432
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -233,7 +211,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87454
+    - t-003
+
 - id: c-83433
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -265,7 +244,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87453
+    - t-001
+
 - id: c-173842
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -291,7 +271,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190960
+    - t-004
+
 - id: c-179348
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -315,4 +296,4 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197805
+    - t-005

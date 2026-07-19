@@ -28,25 +28,11 @@ media_all_json: |-
 
 Teodoro Narbuto pasakojime L. G. Rėza priekaištavo kritikams skeptikams ir įrodinėjo, kad kronikininkų teiginiai pasitvirtina senovės paminklais.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-191505"></a>
-- t-001
-  global_id: t-191505
-  teiginys: 'Teodoro Narbuto pasakojime L. G. Rėza priekaištavo kritikams skeptikams ir įrodinėjo, kad kronikininkų teiginiai pasitvirtina senovės paminklais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Rėzos poziciją Narbuto pasakojime. Kritikai ir kronikininkų patikimumas palikti kaip šaltinyje priskiriama interpretacija.'
-  pagrindžia:
-    - c-174387
-
-## Citatos
-
-- id: c-174387
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'Teodoro Narbuto pasakojime L. G. Rėza priekaištavo kritikams skeptikams ir įrodinėjo, kad kronikininkų teiginiai pasitvirtina senovės paminklais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     O tai, kad jose būta ne vien pasakų, kas dieną įti­
     kina vis nauji atradimai; pats puikus lietuvių kalbos ži­
@@ -62,10 +48,8 @@ Teodoro Narbuto pasakojime L. G. Rėza priekaištavo kritikams skeptikams ir įr
     tiems kritikams, skeptikams; įrodinėja, kad kronikininkai
     sakė tiesą, pasitvirtinančią juo labiau tam, kuris arti­
     miau susipažįsta su esamais senovės paminklais.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191505
+  statusas: verified

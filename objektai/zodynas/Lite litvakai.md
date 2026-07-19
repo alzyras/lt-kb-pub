@@ -31,7 +31,6 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 
 <a id="claim-t-22004"></a>
 - t-001
-  global_id: t-22004
   teiginys: "Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 
 <a id="claim-t-22005"></a>
 - t-002
-  global_id: t-22005
   teiginys: "Kuriant Izraelį reikšmingus vaidmenis suvaidino iš istorinės Lietuvos erdvės kilę žydai, vadinęsi litvakais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +64,6 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 
 <a id="claim-t-183445"></a>
 - t-003
-  global_id: t-183445
   teiginys: "Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK erdvės kilę žydai litvakai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -95,15 +92,15 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
     Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
     nigaikštija.
-  citata_rodoma: |
-    tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
+  citata_rodoma: "tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22004
+    - t-001
+
 - id: c-166840
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -125,5 +122,5 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22005
-    - t-183445
+    - t-002
+    - t-003

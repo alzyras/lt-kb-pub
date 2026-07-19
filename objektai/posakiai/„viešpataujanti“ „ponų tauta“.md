@@ -31,7 +31,6 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
 
 <a id="claim-t-20961"></a>
 - t-001
-  global_id: t-20961
   teiginys: "Naciai manė, kad dėl rasinio ir kultūrinio pranašumo vokiečių tauta turi būti „viešpataujanti“ arba „ponų tauta“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,12 +63,11 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
     taujanti“ arba „ponų tauta“, o „rasės atžvilgiu svetimus elementus“ bū-
     tina pašalinti. Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių
     „gynybine erdve“, kuri palaipsniui turėjo susilieti su Trečiuoju Reichu.
-  citata_rodoma: |
-    tina pašalinti. Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių
+  citata_rodoma: "tina pašalinti. Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20961
+    - t-001

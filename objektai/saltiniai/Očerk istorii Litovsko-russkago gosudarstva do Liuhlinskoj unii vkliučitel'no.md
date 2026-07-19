@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-31874"></a>
-- t-002
-  global_id: t-31874
+- t-001
   teiginys: "„Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliučitel''no“ išleistas Maskvoje 1910 m., o antrasis leidimas pasirodė 1915 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,15 +58,6 @@ media_all_json: |-
   pagrindžia:
     - c-33680
 
-<a id="claim-t-31874"></a>
-- t-001
-  global_id: t-902933884
-  teiginys: '„Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliučitel''''no“ išleistas Maskvoje 1910 m., o antrasis leidimas pasirodė 1915 m.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Liublinas'
-  temporaliniai_duomenys: 'įvykio data: 1910 m.; įvykio data: 1915 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  pagrindžia:
-    - c-33680
 ## Citatos
 
 - id: c-33680
@@ -82,15 +72,11 @@ media_all_json: |-
     140a** **_Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliu-
     čitel'no_** **, Maskva 1910,**^2 **1915.**
     (^141) **_Lietuvos istorija ligi Liublino unijos_** **(1920, 1922).
-  citata_rodoma: |
-    140a** **_Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliu-
-    čitel'no_** **, Maskva 1910,**^2 **1915.**
-    (^141) **_Lietuvos istorija ligi Liublino unijos_** **(1920, 1922).
+  citata_rodoma: "140a** **_Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliu-\nčitel'no_** **, Maskva 1910,**^2 **1915.**\n(^141) **_Lietuvos istorija ligi Liublino unijos_** **(1920, 1922)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31874
     - t-001

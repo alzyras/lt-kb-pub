@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-86963"></a>
 - t-001
-  global_id: t-86963
   teiginys: "1401 m. Vilniaus suvažiavime Lietuvos ir Rusios didikai prisiekė, kad po Vytauto mirties Lietuva grįš Jogailai ir Lenkijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,4 +115,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86963
+    - t-001

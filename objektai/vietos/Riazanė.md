@@ -46,8 +46,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
 ## Teiginiai
 
 <a id="claim-t-99062"></a>
-- t-001
-  global_id: t-99062
+- t-012
   teiginys: "Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėti joms didelę įtaką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-37695
 
 <a id="claim-t-99064"></a>
-- t-002
-  global_id: t-99064
+- t-011
   teiginys: "1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,8 +82,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-93193
 
 <a id="claim-t-99065"></a>
-- t-003
-  global_id: t-99065
+- t-004
   teiginys: "Iš Smolensko puldamas Riazanę Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-32383
 
 <a id="claim-t-99066"></a>
-- t-004
-  global_id: t-99066
+- t-008
   teiginys: "Riazanės kunigaikštis Olegas atkakliai prašė paleisti Vilniaus Aukštutinėje pilyje kalintą savo žentą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,8 +115,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-93189
 
 <a id="claim-t-99067"></a>
-- t-005
-  global_id: t-99067
+- t-007
   teiginys: "Vytautas siekė Riazanę ir kitas rytų žemes paimti savo valdžion arba turėti joms didelę įtaką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,7 +132,6 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
 
 <a id="claim-t-99069"></a>
 - t-006
-  global_id: t-99069
   teiginys: "Jurgis pabėgo į Riazanę pas savo uošvį kunigaikštį Olegą, kuris jį priėmė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -153,8 +147,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-37694
 
 <a id="claim-t-99070"></a>
-- t-007
-  global_id: t-99070
+- t-010
   teiginys: "Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -170,8 +163,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-93189
 
 <a id="claim-t-99072"></a>
-- t-008
-  global_id: t-99072
+- t-009
   teiginys: "1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -191,8 +183,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-93193
 
 <a id="claim-t-99073"></a>
-- t-009
-  global_id: t-99073
+- t-005
   teiginys: "Vytautas ties Niekudavu sutriuškino Riazanės kunigaikščio eiles."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -208,8 +199,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-32384
 
 <a id="claim-t-99074"></a>
-- t-010
-  global_id: t-99074
+- t-013
   teiginys: "Maskvos valdovas į slaptą sąjungą prieš Vytautą buvo įtraukęs Riazanę ir Tverės kunigaikštį Mykolą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -226,8 +216,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-93192
 
 <a id="claim-t-183088"></a>
-- t-011
-  global_id: t-183088
+- t-014
   teiginys: "Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -246,8 +235,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-166476
 
 <a id="claim-t-185123"></a>
-- t-012
-  global_id: t-185123
+- t-015
   teiginys: "Stanislovas, kijeviečiams ginantis nuo Gedimino, pabėgo į Riazanę ir ten išsižadėjo bet kokių vilčių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -266,8 +254,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-168484
 
 <a id="claim-t-187646"></a>
-- t-013
-  global_id: t-187646
+- t-001
   teiginys: "Jurgis Svetoslavovičius tuo metu viešėjo Riazanėje pas savo uošvį Olegą Ivanovičių."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -287,8 +274,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-170592
 
 <a id="claim-t-196889"></a>
-- t-014
-  global_id: t-196889
+- t-016
   teiginys: "Lietuvos metraštis Olegą vadina Riazanės kunigaikščiu ir nurodo, kad 6909 metais jis su Jurijumi Svetoslavovičiumi atėjo prie Smolensko."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -378,19 +364,15 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     (1389-1425), su kuriuo oficialiai laikėsi taikos. Maskvos valdovas
     tačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar
     Tverės kunigaikštį Mykolą10 11.
-  citata_rodoma: |
-    Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį
-    Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I
-    (1389-1425), su kuriuo oficialiai laikėsi taikos. Maskvos valdovas
-    tačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar
-    Tverės kunigaikštį Mykolą10 11.
+  citata_rodoma: "Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį\nSviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I\n(1389-1425), su kuriuo oficialiai laikėsi taikos. Maskvos valdovas\ntačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar\nTverės kunigaikštį Mykolą10 11."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99065
+    - t-004
+
 - id: c-32384
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -407,7 +389,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99073
+    - t-005
+
 - id: c-37694
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -422,18 +405,15 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     savo išdavų, nes Jurgis, bijodamas, kad ir jo nesulauktų Hle­
     bo likimas, pabėgo į Riazanių pas savo uošvį kun. Olegą, kuris
     jį priėmė. Už tai Vytautas pavedė Olegą Lengveniui nubausti.
-  citata_rodoma: |
-    Šis įvykis, smarkiai sustiprinęs Lietuvos galybę, turėjo ir
-    savo išdavų, nes Jurgis, bijodamas, kad ir jo nesulauktų Hle­
-    bo likimas, pabėgo į Riazanių pas savo uošvį kun. Olegą, kuris
-    jį priėmė. Už tai Vytautas pavedė Olegą Lengveniui nubausti.
+  citata_rodoma: "Šis įvykis, smarkiai sustiprinęs Lietuvos galybę, turėjo ir\nsavo išdavų, nes Jurgis, bijodamas, kad ir jo nesulauktų Hle­\nbo likimas, pabėgo į Riazanių pas savo uošvį kun. Olegą, kuris\njį priėmė. Už tai Vytautas pavedė Olegą Lengveniui nubausti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99069
+    - t-006
+
 - id: c-37695
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -448,21 +428,16 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
     čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
     ar bent turėti jiems didelę įtaką.
-  citata_rodoma: |
-    Per metų metus rytų reikalai jam vyrauja;
-    jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas
-    rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­
-    gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
-    čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
-    ar bent turėti jiems didelę įtaką.
+  citata_rodoma: "Per metų metus rytų reikalai jam vyrauja;\njis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas\nrytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­\ngardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­\nčiai, totoriai. Vytautas nori visus juos paimti savo valdžion\nar bent turėti jiems didelę įtaką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99062
-    - t-99067
+    - t-012
+    - t-007
+
 - id: c-93189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -487,32 +462,16 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     VILNIAUS MIESTO ISTORIJA / TOMAS
     paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
     tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
-  citata_rodoma: |
-    Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­
-    ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri-
-    jaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam
-    nepanorus mokėti nuo Seversko duoklės kaipo viršesniam
-    valdovui, sumušęs pradinėse kautynėse prie Nedokudo-
-    vo, paskui apsupo Seversko Naugarde ir tą miestą užėmęs
-    patį Kaributą sučiupo. Paimtas su žmona ir vaikais, kuni­
-    gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur
-    gana ilgai buvo saugomas sargybos, kol, atkakliai prašant
-    ir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo
-    139
-
-    ## Puslapis 156
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
-    tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
+  citata_rodoma: "Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­\nventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri- \njaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam \nnepanorus mokėti nuo Seversko duoklės kaipo viršesniam \nvaldovui, sumušęs pradinėse kautynėse prie Nedokudo- \nvo, paskui apsupo Seversko Naugarde ir tą miestą užėmęs \npatį Kaributą sučiupo. Paimtas su žmona ir vaikais, kuni­\ngaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur \ngana ilgai buvo saugomas sargybos, kol, atkakliai prašant \nir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo\n139\n\n## Puslapis 156\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\npaleistas ir iš Seversko valstybės, jau prijungtos prie Lie­\ntuvos, perkeltas į Volumes ir Podolės didžiules vaidas55."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99066
-    - t-99070
+    - t-008
+    - t-010
+
 - id: c-93192
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -529,7 +488,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99074
+    - t-013
+
 - id: c-93193
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -548,26 +508,16 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
     nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
     magistras, Mazovijos kunigaikščiai ir totorių chanai84.
-  citata_rodoma: |
-    Vytautas, vienintelio
-    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
-    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
-    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
-    metais), kur didysis kunigaikštis paprastai gyvendavo di­
-    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
-    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
-    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
-    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
-    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
-    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
+  citata_rodoma: "Vytautas, vienintelio \ntroškimo apimtas, sukviečia pas save įžymiausius šiaurės \nšalių kunigaikščius arba jų pasiuntinius, ketindamas jiems \ndalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 \nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir \nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos \nmagistras, Mazovijos kunigaikščiai ir totorių chanai84."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99064
-    - t-99072
+    - t-011
+    - t-009
+
 - id: c-166476
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -584,7 +534,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183088
+    - t-014
+
 - id: c-168484
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -607,7 +558,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185123
+    - t-015
+
 - id: c-170592
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -626,7 +578,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187646
-    - t-196889
+    - t-001
+    - t-016
+
 ## Ryšiai
 - Puolė Riazanę: [[objektai/asmenys/Chudandachas]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]

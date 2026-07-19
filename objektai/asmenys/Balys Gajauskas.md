@@ -31,7 +31,6 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
 
 <a id="claim-t-18846"></a>
 - t-001
-  global_id: t-18846
   teiginys: "Sovietinė valdžia Balį Gajauską teisė kaip vieną iš disidentų, prieš kuriuos taikė represijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
 
 <a id="claim-t-183526"></a>
 - t-002
-  global_id: t-183526
   teiginys: "Sovietinė valdžia suėmė ir nuteisė disidentus Balį Gajauską ir Viktorą Petkų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -81,15 +79,15 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
     nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, ži-
     nomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nu-
     teisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras Petkus).
-  citata_rodoma: |
-    Sovietinė valdžia represijas prieš disidentus derino su dalinių
+  citata_rodoma: "Sovietinė valdžia represijas prieš disidentus derino su dalinių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18846
+    - t-001
+
 - id: c-166920
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -108,4 +106,4 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183526
+    - t-002

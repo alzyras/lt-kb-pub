@@ -44,8 +44,7 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
 ## Teiginiai
 
 <a id="claim-t-56965"></a>
-- t-001
-  global_id: t-56965
+- t-002
   teiginys: "Agotos valia Ordino broliai pasitelkė daug Lenkijos vyrų ir stojo į kovą su Prūsijos kariuomene."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
     - c-57666
 
 <a id="claim-t-56966"></a>
-- t-002
-  global_id: t-56966
+- t-001
   teiginys: "Valdovė Agota po mūšio įsakė surinkti kovos lauke likusius pusgyvius Ordino brolius ir patikėti juos gydytojams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,6 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
 
 <a id="claim-t-56967"></a>
 - t-003
-  global_id: t-56967
   teiginys: "Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -142,7 +139,8 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-56967
+    - t-003
+
 - id: c-57666
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -161,7 +159,8 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-56965
+    - t-002
+
 - id: c-57667
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -180,4 +179,4 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-56966
+    - t-001

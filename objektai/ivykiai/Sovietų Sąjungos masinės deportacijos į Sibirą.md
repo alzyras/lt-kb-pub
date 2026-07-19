@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-26385"></a>
 - t-001
-  global_id: t-26385
   teiginys: "Sovietų Sąjungos vykdytos masinės deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-26386"></a>
 - t-002
-  global_id: t-26386
   teiginys: "1944–1953 m. Lietuvoje vyko Sovietų Sąjungos organizuotos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,21 +109,15 @@ Nenurodyta
     nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
     o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
     Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m.
-  citata_rodoma: |
-    Tačiau pergyvenusi
-    didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
-    vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-
-    gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
-    nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
-    o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
-    Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m.
+  citata_rodoma: "Tačiau pergyvenusi \ndidžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos \nvykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-\ngebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-\nnimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953), \no tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a. \nVis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26385
+    - t-001
+
 - id: c-26611
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -138,16 +130,11 @@ Nenurodyta
     vizacijos ir Lietuvos ginkluotos rezistencijos laikotarpis.
     1976
     susikuria Helsinkio grupė.
-  citata_rodoma: |
-    1944–1953
-    Sovietų Sąjungos organizuotų represijų, deportacijų, masinės kolekty-
-    vizacijos ir Lietuvos ginkluotos rezistencijos laikotarpis.
-    1976
-    susikuria Helsinkio grupė.
+  citata_rodoma: "1944–1953\t\nSovietų Sąjungos organizuotų represijų, deportacijų, masinės kolekty-\nvizacijos ir Lietuvos ginkluotos rezistencijos laikotarpis.\n1976\t\nsusikuria Helsinkio grupė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26386
+    - t-002

@@ -30,8 +30,7 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 ## Teiginiai
 
 <a id="claim-t-67280"></a>
-- t-001
-  global_id: t-67280
+- t-002
   teiginys: "Krokuvoje išleista brošiūra „Niekad, niekados“ griežtai atmetė lietuvių kvietimą bajorijai prisidėti prie tautinio darbo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -40,8 +39,7 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
     - c-67250
 
 <a id="claim-t-67281"></a>
-- t-002
-  global_id: t-67281
+- t-001
   teiginys: "Bajorija į raginimus prisidėti prie Lietuvos atgaivinimo darbo atsakė posakiu „Niekad, niekados“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,18 +61,15 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 
     kados" (Przenigdy"). Apskritai mūsų bajorijos nusistatymas buvo
     laikytis Lenkijos ir remti lenkų kalbos įsigalėjimą Lietuvoje.
-  citata_rodoma: |
-    Griežčiausiai neigiamai at-
-    sakė Krokuvoje išleista brošiūra, pavadinta „Niekad, nie-
-    kados" (Przenigdy"). Apskritai mūsų bajorijos nusistatymas buvo
-    laikytis Lenkijos ir remti lenkų kalbos įsigalėjimą Lietuvoje.
+  citata_rodoma: "Griežčiausiai neigiamai at-\nsakė Krokuvoje išleista brošiūra, pavadinta „Niekad, nie-\nkados\" (Przenigdy\"). Apskritai mūsų bajorijos nusistatymas buvo\nlaikytis Lenkijos ir remti lenkų kalbos įsigalėjimą Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67280
+    - t-002
+
 - id: c-67251
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -87,16 +82,11 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
     jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivi-
     nimo darbą. Tačiau mūsų bajorija daugybe straipsnių ir spe-
     cialia brošiūra atsakė: „Niekad, niekados".
-  citata_rodoma: |
-    Tam tikslui buvo išleista net atskira A. Jakšto lenkiškai
-    parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur
-    jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivi-
-    nimo darbą. Tačiau mūsų bajorija daugybe straipsnių ir spe-
-    cialia brošiūra atsakė: „Niekad, niekados".
+  citata_rodoma: "Tam tikslui buvo išleista net atskira A. Jakšto lenkiškai\nparašyta brošiūra — „Lietuvių Balsas\" (1902 m.), kur\njaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivi-\nnimo darbą. Tačiau mūsų bajorija daugybe straipsnių ir spe-\ncialia brošiūra atsakė: „Niekad, niekados\"."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67281
+    - t-001

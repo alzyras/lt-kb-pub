@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-191029"></a>
 - t-001
-  global_id: t-191029
   teiginys: "1826 m. Antakriaunio dvare tiesiant naują kelią buvo atkastas senovinis pilkapis su skeletu ir variniais papuošalais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191029
+    - t-001

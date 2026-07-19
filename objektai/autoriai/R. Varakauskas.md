@@ -39,7 +39,6 @@ Varakauskas, R. Varakauskas, R.: Lietuvos vals­ tybės susidarymo klausimu, Ist
 
 <a id="claim-t-30944"></a>
 - t-001
-  global_id: t-30944
   teiginys: "R. Varakauskas 1969 m. paskelbė darbą „Lietuvos valstybės susidarymo klausimu“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,13 +68,11 @@ Varakauskas, R. Varakauskas, R.: Lietuvos vals­ tybės susidarymo klausimu, Ist
     _Lietuvos istorikų darbai ir dienos,_ Aidai, 1960, nr. 6, 258-263 p. — Trum­
     pa, V. : _Istoriniai laikai,_ LE, t. 9, 124-125 p. — Varakauskas, R. :
     _Lietuvos valstybės susidarymo klausimu_ (IstV, t. 10, 1969, 169-180 p.).
-  citata_rodoma: |
-    — Varakauskas, R. :
-    _Lietuvos valstybės susidarymo klausimu_ (IstV, t. 10, 1969, 169-180 p.).
+  citata_rodoma: "— Varakauskas, R. :\n_Lietuvos valstybės susidarymo klausimu_ (IstV, t. 10, 1969, 169-180 p.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30944
+    - t-001

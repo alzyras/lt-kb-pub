@@ -5,17 +5,20 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1411 m.'
+  - '1466 m.'
 date_start: '1411'
-date_end: ''
+date_end: '1466'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - karas
-amziai:
-  - 'XV'
+  - ordinas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -54,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-92944"></a>
-- t-001
-  global_id: t-92944
+- t-004
   teiginys: "1411 m. Torno taika užbaigė Žalgirio kovą, tačiau nugalėtojai šio laimėjimo visiškai neišnaudojo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +77,6 @@ Nenurodyta
 
 <a id="claim-t-92945"></a>
 - t-002
-  global_id: t-92945
   teiginys: "1411 m. vasario 1 d. Jogaila ir Vytautas prie Torno pilies sudarė taiką su didžiuoju magistru."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -95,7 +96,6 @@ Nenurodyta
 
 <a id="claim-t-92946"></a>
 - t-003
-  global_id: t-92946
   teiginys: "Torno taika Žemaičius Lietuvai pripažino tik iki Vytauto ir Jogailos gyvos galvos, o ordinas turėjo sumokėti 100000 kapų čekų grašių."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -112,8 +112,7 @@ Nenurodyta
     - c-88386
 
 <a id="claim-t-92947"></a>
-- t-004
-  global_id: t-92947
+- t-001
   teiginys: "Po kurį laiką trukusio Ordino ir Lenkų karo 1411 m. buvo pasirašyta Torno taika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,6 +130,18 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys turi kontekstinę pradžią ir neįvardija Torno taikos."
   pagrindžia:
     - c-88385
+
+<a id="claim-t-201490"></a>
+- t-005
+  teiginys: "Po 1466 m. Tomo taikos vakarinei Vokiečių ordino valstybės daliai, pradėtai vadinti Karališkaisiais Prūsais, su Dancigu ir Tomu tapus Lenkijos karalystės dalimi, čia išliko Prūsų luomų susivienijimas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184837
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178805|Kryžiuočių ordinas]]: Vytautas 1410 m. Žalgirio mūšyje palaužė Ordino galybę ir grąžino Žemaitijai laisvę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178861|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
 - susijęs iš [[objektai/grupes/Vokietijos kunigaikščiai.md#claim-t-31373|Vokietijos kunigaikščiai]]: Vokietijos kunigaikščiai galėjo paremti ordiną.
@@ -142,6 +153,9 @@ Nenurodyta
 - susijęs iš Merkinė: Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.
 - susijęs iš Varmijos vyskupystė: 1466 m. Torno taika Varmijos vyskupystę perleido Lenkijai.
 - susijęs iš Veliuona: Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos.
+## Reikšmingi paminėjimai
+Nenurodyta
+
 ## Citatos
 
 - id: c-88383
@@ -162,7 +176,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92945
+    - t-002
+
 - id: c-88384
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -179,7 +194,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92944
+    - t-004
+
 - id: c-88385
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -199,7 +215,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92947
+    - t-001
+
 - id: c-88386
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -219,4 +236,22 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92946
+    - t-003
+
+- id: c-184837
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Dancigas sugebėdavo įtraukti į prekybos su Kaunu ir su Lietuva
+    problemų sprendimą ar bent svarstymą ir kitas regiono politines ir prekybines jėgas
+    ar jos, vedamos savų interesų, pačios įsitraukdavo. Po 1466 m. Tomo taikos vakarinei
+    Vokiečių ordino valstybės daliai, pradėtai vadinti Karališkaisiais Prūsais, su Dancigu
+    ir Tomu tapus Lenkijos karalystės dalimi, čia išliko Prūsų luomų susivienijimas.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

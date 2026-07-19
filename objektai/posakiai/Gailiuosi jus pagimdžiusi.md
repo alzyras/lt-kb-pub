@@ -30,7 +30,6 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 
 <a id="claim-t-59092"></a>
 - t-001
-  global_id: t-59092
   teiginys: "Nameda savo sūnums pasakė, kad gailisi juos pagimdžiusi, nes jie nenori ginti nei savo gyvybės, nei genties."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 
 <a id="claim-t-59093"></a>
 - t-002
-  global_id: t-59093
   teiginys: "Namedos žodžiai „Gailiuosi jus pagimdžiusi“ paskatino jos sūnus ir kitus pilėnus stoti į mūšį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -76,18 +74,15 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
     tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
     gyvybės, nei savo genties”. Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
     ir nukovė daugiau nei du tūkstančius priešo karių.
-  citata_rodoma: |
-    Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
-    tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
-    gyvybės, nei savo genties”. Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
-    ir nukovė daugiau nei du tūkstančius priešo karių.
+  citata_rodoma: "Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,\ntarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo\ngyvybės, nei savo genties”. Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį\nir nukovė daugiau nei du tūkstančius priešo karių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59092
+    - t-001
+
 - id: c-59725
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -98,14 +93,11 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
     gyvybės, nei savo genties”. Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
     ir nukovė daugiau nei du tūkstančius priešo karių. Po to broliai atstatė Bartenšteino pilį,
     kur gyvena po šiai dienai.
-  citata_rodoma: |
-    Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
-    ir nukovė daugiau nei du tūkstančius priešo karių. Po to broliai atstatė Bartenšteino pilį,
-    kur gyvena po šiai dienai.
+  citata_rodoma: "Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį\nir nukovė daugiau nei du tūkstančius priešo karių. Po to broliai atstatė Bartenšteino pilį,\nkur gyvena po šiai dienai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59093
+    - t-002

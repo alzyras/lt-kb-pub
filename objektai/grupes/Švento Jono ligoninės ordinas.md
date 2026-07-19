@@ -40,7 +40,6 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
 
 <a id="claim-t-59049"></a>
 - t-001
-  global_id: t-59049
   teiginys: "Švento Jono ligoninės ordinas siejamas su 1104 m. popiežiaus Urbono II laikais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,16 +77,11 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
     sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
     Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
     Henriko VI laikais (Dusb.
-  citata_rodoma: |
-    Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
-      Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
-    popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
-    pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
-    sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
+  citata_rodoma: "Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.\n  Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino\npopiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo\npontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis\nsprendimas, bet apaštališkojo sosto parengiamasis veiksmas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59049
+    - t-001

@@ -36,8 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78114"></a>
-- t-001
-  global_id: t-78114
+- t-002
   teiginys: "A. Šapokos redaguota 1936 m. Lietuvos istorija vadinama bene žinomiausia tautine Lietuvos valstybės ir lietuvių tautos istorija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ media_all_json: |-
     - c-75417
 
 <a id="claim-t-78115"></a>
-- t-002
-  global_id: t-78115
+- t-001
   teiginys: "1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,25 +96,15 @@ media_all_json: |-
     rių, atskleidusį meno, tautodailės, ekonomikos pasiekimus ir parodžiusį
     svarbiausius Lietuvos istorijos įvykius monumentaliose žymiausių mūsų
     dailininkų drobėse.
-  citata_rodoma: |
-    Tai bene žinomiausia tautinė Lietuvos valstybės ir lietuvių
-    tautos istorija, padariusi ir tebedaranti įtaką ir dabartinėms kartoms.
-    Neramiu laikotarpiu parašyto veikalo tikslas buvo ieškoti įkvėpimo lie-
-    tuvių tautai tūkstantmetėje senovės Lietuvos istorijoje, plačiose senovės
-    karžygių užkariautose erdvėse, autentiškoje baltų kultūroje, Europos
-
-    L I E T U V O S  I S T O R I J A
-    10
-    archajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-
-    saulį pasklidusių išeivių veikloje.
-    Ruošiantis 1939 m.
+  citata_rodoma: "Tai bene žinomiausia tautinė Lietuvos valstybės ir lietuvių \ntautos istorija, padariusi ir tebedaranti įtaką ir dabartinėms kartoms. \nNeramiu laikotarpiu parašyto veikalo tikslas buvo ieškoti įkvėpimo lie-\ntuvių tautai tūkstantmetėje senovės Lietuvos istorijoje, plačiose senovės \nkaržygių užkariautose erdvėse, autentiškoje baltų kultūroje, Europos\n\nL I E T U V O S  I S T O R I J A\n10\narchajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-\nsaulį pasklidusių išeivių veikloje.\nRuošiantis 1939 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78114
+    - t-002
+
 - id: c-75418
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -133,4 +121,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78115
+    - t-001

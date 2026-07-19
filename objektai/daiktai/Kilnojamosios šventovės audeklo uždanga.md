@@ -45,9 +45,8 @@ Nenurodyta
 
 <a id="claim-t-189685"></a>
 - t-001
-  global_id: t-189685
   teiginys: "Narbutas kilnojamosios šventovės audeklo uždangą aprašė kaip šešių dalių ir aštuonių uolekčių aukščio aptvarą aplink dievams malonų medį."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,7 +62,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172568
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas kilnojamosios šventovės audeklo uždangą aprašė kaip šešių dalių ir aštuonių uolekčių aukščio aptvarą aplink dievams malonų medį.'
@@ -80,8 +79,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189685
+
 ## Citatos
 
 - id: c-172568
@@ -99,17 +97,11 @@ Nenurodyta
     davo žymesnius žmones arba garsesnius atnašautojus, gero­
     kai pagyvenusius, kurių ilgas gyvenimas buvo visiškai nepa­
     peikiamas.
-  citata_rodoma: |
-    Lietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­
-    vių, kurios priklausė ugnies šventovėms piratėjoms. Apie to­
-    kią turime istorinę žinią, išlikusią Prūsijos kronikose21 2 23. Jos ap­
-    rašymas būtų toks. Parinkus kokį nors dievams malonų medį,
-    aplink jį būdavo išvyniojama astuonių uolekčių aukščio au­
-    deklo uždanga iš šešių atskirų gabalų.
+  citata_rodoma: "Lietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­\nvių, kurios priklausė ugnies šventovėms piratėjoms. Apie to­\nkią turime istorinę žinią, išlikusią Prūsijos kronikose21 2 23. Jos ap­\nrašymas būtų toks. Parinkus kokį nors dievams malonų medį,\naplink jį būdavo išvyniojama astuonių uolekčių aukščio au­\ndeklo uždanga iš šešių atskirų gabalų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189685
+    - t-001

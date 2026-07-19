@@ -39,9 +39,8 @@ Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nuk
 
 <a id="claim-t-60264"></a>
 - t-001
-  global_id: t-60264
   teiginys: "1295 m. negalės kamuojamas Velzaco pilies brolis mirties akivaizdoje puolė kunigui Ditrichui ant krūtinės."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> MIRTIES AKIVAIZDOJE: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -56,7 +55,7 @@ Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nuk
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai susijęs su kunigu Ditrichu."
   pagrindžia:
     - c-60896
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1295 m. negalės kamuojamas Velzaco pilies brolis mirties akivaizdoje puolė kunigui Ditrichui ant krūtinės.'
@@ -73,8 +72,7 @@ Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nuk
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60264
+
 ## Citatos
 
 - id: c-60896
@@ -89,17 +87,11 @@ Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nuk
     kai karalius bus iškeliavęs iš savo žemės, ir ten nusigauti su brolių kariuomene; jis
     subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir
     įsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes.
-  citata_rodoma: |
-    Apie vieną brolį
-
-       Tais 1295 metais vienas negalės nukamuotas Velzaco pilies brolis, mirties akivaizdoje
-    puolęs broliui kunigui Ditrichui ant krūtinės, ilgokai išbuvo ekstazėje ir pamatė daug
-    nuostabių dalykų. Galop, atgavęs sąmonę, jis pasakė: „Kunige Ditrichai, sakykite pirma
-    manęs: „Jėzau Kristau, dievo sūnau“.
+  citata_rodoma: "Apie vieną brolį\n\n   Tais 1295 metais vienas negalės nukamuotas Velzaco pilies brolis, mirties akivaizdoje\npuolęs broliui kunigui Ditrichui ant krūtinės, ilgokai išbuvo ekstazėje ir pamatė daug\nnuostabių dalykų. Galop, atgavęs sąmonę, jis pasakė: „Kunige Ditrichai, sakykite pirma\nmanęs: „Jėzau Kristau, dievo sūnau“."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60264
+    - t-001

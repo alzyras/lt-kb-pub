@@ -30,7 +30,6 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
 
 <a id="claim-t-191174"></a>
 - t-001
-  global_id: t-191174
   teiginys: "Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gaubiama sunkiai atskleidžiamų uždangų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
 
 <a id="claim-t-191175"></a>
 - t-002
-  global_id: t-191175
   teiginys: "Narbutas taiso Kocebu vietovardį Cemptenbece į Lemptenburgą ir pabrėžia, kad šios vietos padėtį sunku tiksliai nustatyti."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -69,7 +67,7 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174057
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas taiso Kocebu vietovardį Cemptenbece į Lemptenburgą ir pabrėžia, kad šios vietos padėtį sunku tiksliai nustatyti.'
@@ -93,8 +91,7 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191175
+
 ## Citatos
 
 - id: c-174056
@@ -121,7 +118,8 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191174
+    - t-001
+
 - id: c-174057
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -139,25 +137,12 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
     pleatur. Norint deramai suprasti šią vietą, labai svarbu
     tiksliai nustatyti Lemptenburgo padėtį (ne Cemptenbece,
     kaip pasakė Kocebus); tiksliai tai padaryti sunku. Viena­
-    me Varmijos vyskupo Anzelmo rašte (Bacho.
-  citata_rodoma: |
-    Tam, kad naujiems šio pajūrio miesto
-    kolonistams būtų garantuotos pastovios valdos, teisėjų
-    valia sutartyje minimos šios sąlygos: Habebunt etiam
-    cives sepedicti medietatem unius tercie partis Sambie,
-    que fratres contingit, quam fratribus dividentibus elege­
-    rint ipsi cives et in Warmia mansas duo milia et quin­
-    gentos a Lemptemburc contra Lipzam mensurandos in
-    litor e in une parte et in altera contra Nat augiam donec
-    in ipsa Warmia contique ipsorum mansorum numerus im­
-    pleatur. Norint deramai suprasti šią vietą, labai svarbu
-    tiksliai nustatyti Lemptenburgo padėtį (ne Cemptenbece,
-    kaip pasakė Kocebus); tiksliai tai padaryti sunku. Viena­
-    me Varmijos vyskupo Anzelmo rašte (Bacho.
+    me Varmijos vyskupo Anzelmo rašte (Bacho. T. 1.
+  citata_rodoma: "Tam, kad naujiems šio pajūrio miesto\nkolonistams būtų garantuotos pastovios valdos, teisėjų\nvalia sutartyje minimos šios sąlygos: Habebunt etiam\ncives sepedicti medietatem unius tercie partis Sambie,\nque fratres contingit, quam fratribus dividentibus elege­\nrint ipsi cives et in Warmia mansas duo milia et quin­\ngentos a Lemptemburc contra Lipzam mensurandos in\nlitor e in une parte et in altera contra Nat augiam donec\nin ipsa Warmia contique ipsorum mansorum numerus im­\npleatur. Norint deramai suprasti šią vietą, labai svarbu\ntiksliai nustatyti Lemptenburgo padėtį (ne Cemptenbece,\nkaip pasakė Kocebus); tiksliai tai padaryti sunku. Viena­\nme Varmijos vyskupo Anzelmo rašte (Bacho."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191175
+    - t-002

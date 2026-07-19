@@ -39,7 +39,6 @@ Narbuto aprašytame eiliuotame pasakojime antrasis Vilniaus gaisras prasidėjo G
 
 <a id="claim-t-190095"></a>
 - t-001
-  global_id: t-190095
   teiginys: "Narbuto aprašytame eiliuotame pasakojime antrasis Vilniaus gaisras prasidėjo Gregoravičiaus dvarelyje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Narbuto aprašytame eiliuotame pasakojime antrasis Vilniaus gaisras prasidėjo G
 
 <a id="claim-t-190096"></a>
 - t-002
-  global_id: t-190096
   teiginys: "Narbuto cituojamame kūrinio pavadinime 1749 m. birželio 8 d. Vilniaus gaisras kildinamas iš pono Gregoravičiaus dvarelio Subačiaus priemiestyje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -101,7 +99,8 @@ Narbuto aprašytame eiliuotame pasakojime antrasis Vilniaus gaisras prasidėjo G
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190095
+    - t-001
+
 - id: c-172979
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -126,4 +125,4 @@ Narbuto aprašytame eiliuotame pasakojime antrasis Vilniaus gaisras prasidėjo G
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190096
+    - t-002

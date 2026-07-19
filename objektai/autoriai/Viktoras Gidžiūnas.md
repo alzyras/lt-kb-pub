@@ -7,12 +7,12 @@ datos:
   - '1987 m.'
 date_start: '1987'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XX'
 periodo_grupes:
   - 'XX a.'
+amziai:
+  - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Chicago, 1987; Gidžiūnas Viktoras.
 
 <a id="claim-t-202208"></a>
 - t-001
-  global_id: t-202208
   teiginys: "Chicago, 1987; Gidžiūnas Viktoras."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Chicago, 1987; Gidžiūnas Viktoras.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202208
+    - t-001

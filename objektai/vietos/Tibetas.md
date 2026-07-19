@@ -32,7 +32,6 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
 
 <a id="claim-t-36597"></a>
 - t-001
-  global_id: t-36597
   teiginys: "Sveno Hedino kelionė į Tibetą buvo aprašyta kaip kelionė į Azijos širdį ir kovos su vietos tautomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -42,9 +41,8 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
 
 <a id="claim-t-192765"></a>
 - t-002
-  global_id: t-192765
   teiginys: "Teodoro Narbuto dėstyme pelazgai laikomi žmonių karta, atklydusia nuo Tibeto prie Viduržemio jūros pakrančių."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -61,7 +59,6 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175535
-    - c-002
 - susijęs iš [[objektai/asmenys/Bodhidana.md#claim-t-190135|Bodhidana]]: Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį, persikėlusį į Tibetą ir mirusį prie Sungo kalno 495 m.
 - susijęs iš [[objektai/grupes/Pelazgai.md#claim-t-192437|Pelazgai]]: Teodoro Narbuto teigimu, pelazgai buvo žmonės, atklydę nuo Tibeto prie Viduržemio jūros pakrančių.
 - susijęs iš Lhasa: Lhasa aprašyta kaip šventasis Tibeto miestas, į kurį vietos tautelės neįsileisdavo europiečių.
@@ -86,8 +83,7 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192765
+
 ## Citatos
 
 - id: c-38653
@@ -96,28 +92,22 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    Sven Hedin'o KELIONE PO TIBETĄ, versta J. Kazėno. Kalbą
-    taisė St. Dabušis. Gausiai iliustruota, spalvotu viršeliu. Kaina Lt. 4. —
+    4. —
     Čia nepaprastai įdomiai aprašoma didžiojo keliautojo Sven He-
     dino kelionė i Azijos širdį — Tibetą, įvairūs nuotykiai, kovos su vie­
     tos tautelėmis, kurios žūt būt neįsileidžia nė vieno europiečio, nė vie­
     no ne savo krašto žmogaus į savo krašto gilumą, į jų šventąjį mies­
     tą — Lhasą.
-  citata_rodoma: |
-    Sven Hedin'o KELIONE PO TIBETĄ, versta J. Kazėno. Kalbą
-    taisė St. Dabušis. Gausiai iliustruota, spalvotu viršeliu. Kaina Lt. 4. —
-    Čia nepaprastai įdomiai aprašoma didžiojo keliautojo Sven He-
-    dino kelionė i Azijos širdį — Tibetą, įvairūs nuotykiai, kovos su vie­
-    tos tautelėmis, kurios žūt būt neįsileidžia nė vieno europiečio, nė vie­
-    no ne savo krašto žmogaus į savo krašto gilumą, į jų šventąjį mies­
-    tą — Lhasą.
+    6.
+  citata_rodoma: "—\nČia nepaprastai įdomiai aprašoma didžiojo keliautojo Sven He-\ndino kelionė i Azijos širdį — Tibetą, įvairūs nuotykiai, kovos su vie­\ntos tautelėmis, kurios žūt būt neįsileidžia nė vieno europiečio, nė vie­\nno ne savo krašto žmogaus į savo krašto gilumą, į jų šventąjį mies­\ntą — Lhasą.\n6."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36597
+    - t-001
+
 - id: c-175535
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -133,19 +123,11 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
     brangino; tai rodo pavyzdžiai tautų, išlikusių bendruo­
     meninio gyvenimo kūdikystės lygio ir atrastų mūsų am­
     žiais.
-  citata_rodoma: |
-    Nibūras, kurio darbus paėmėme, taip sa­
-    ko apie juos: „Tai ne prielaida, kalbu kuo tvirčiausiai isto­
-    riškai įsitikinęs“.
-    18
-    Neginčijamas dalykas yra ir tai, kad pelazgai buvo tos
-    kartos žmonės, kuriuos laikėme atklydusiais nuo Tibeto
-    prie Viduržemio jūros pakrančių (§ 15). Tikra ir tai, kad
-    jonėnai ir trojėnai kilę iš pelazgų.
+  citata_rodoma: "Nibūras, kurio darbus paėmėme, taip sa­\nko apie juos: „Tai ne prielaida, kalbu kuo tvirčiausiai isto­\nriškai įsitikinęs“.\n18\nNeginčijamas dalykas yra ir tai, kad pelazgai buvo tos\nkartos žmonės, kuriuos laikėme atklydusiais nuo Tibeto\nprie Viduržemio jūros pakrančių (§ 15). Tikra ir tai, kad\njonėnai ir trojėnai kilę iš pelazgų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192765
+    - t-002

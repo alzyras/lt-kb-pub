@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67168"></a>
-- t-001
-  global_id: t-67168
+- t-004
   teiginys: "Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos."
   atnaujinta: "2026-05-31 12:44"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-10020
 
 <a id="claim-t-67170"></a>
-- t-002
-  global_id: t-67170
+- t-003
   teiginys: "Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -90,8 +88,7 @@ Nenurodyta
     - c-10019
 
 <a id="claim-t-194561"></a>
-- t-003
-  global_id: t-194561
+- t-005
   teiginys: "Taip besitiekiant jaunasis siuntė jaunajai dovanas (taip nuotaką mergaitę po ūkvaizdžių pradeda vadinti) per savo bendrus savo karės žirgą, ragotinę ir kardą ar kalaviją, rodydamas tuo, jog yra karės vyru, jog, ištekėjusi už jo, ras sau gaspadorių, užtarytoją."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -130,7 +127,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67170
+    - t-003
+
 - id: c-10020
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -145,7 +143,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67168
+    - t-004
+
 - id: c-176961
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -176,4 +175,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194561
+    - t-005

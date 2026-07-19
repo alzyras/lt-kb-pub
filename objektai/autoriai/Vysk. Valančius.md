@@ -34,7 +34,6 @@ Valančiaus, VAIKŲ KNYGELĖ.
 
 <a id="claim-t-96060"></a>
 - t-001
-  global_id: t-96060
   teiginys: "Vyskupas Valančius parašė „Vaikų knygelę“, kuri išleista su K. Šimonio iliustracijomis ir spalvotu viršeliu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,7 @@ Valančiaus, VAIKŲ KNYGELĖ.
     - c-36702
 
 <a id="claim-t-195672"></a>
-- t-002
-  global_id: t-195672
+- t-003
   teiginys: "Per vakarojimus būdavo skaitoma iš vyskupo Valančiaus knygelių."
   atnaujinta: "2026-07-12 14:54"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -78,7 +76,8 @@ Valančiaus, VAIKŲ KNYGELĖ.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96060
+    - t-001
+
 - id: c-178071
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -92,12 +91,11 @@ Valančiaus, VAIKŲ KNYGELĖ.
     skaitymai kalendoriaus
     „Vilniaus Zavackio drukarnės“ (taip vadino kalendorių) arba skaity­
     mas iš vyskupo Valančiaus knygelių.
-  citata_rodoma: |
-    skaitymas iš vyskupo Valančiaus knygelių
+  citata_rodoma: "skaitymas iš vyskupo Valančiaus knygelių"
   statusas: verified
   atnaujinta: "2026-07-12 11:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195672
+    - t-003

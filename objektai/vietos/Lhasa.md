@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-36359"></a>
 - t-001
-  global_id: t-36359
   teiginys: "Lhasa aprašyta kaip šventasis Tibeto miestas, į kurį vietos tautelės neįsileisdavo europiečių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,18 +61,11 @@ media_all_json: |-
     no ne savo krašto žmogaus į savo krašto gilumą, į jų šventąjį mies­
     tą — Lhasą.
     6.
-  citata_rodoma: |
-    —
-    Čia nepaprastai įdomiai aprašoma didžiojo keliautojo Sven He-
-    dino kelionė i Azijos širdį — Tibetą, įvairūs nuotykiai, kovos su vie­
-    tos tautelėmis, kurios žūt būt neįsileidžia nė vieno europiečio, nė vie­
-    no ne savo krašto žmogaus į savo krašto gilumą, į jų šventąjį mies­
-    tą — Lhasą.
-    6.
+  citata_rodoma: "—\nČia nepaprastai įdomiai aprašoma didžiojo keliautojo Sven He-\ndino kelionė i Azijos širdį — Tibetą, įvairūs nuotykiai, kovos su vie­\ntos tautelėmis, kurios žūt būt neįsileidžia nė vieno europiečio, nė vie­\nno ne savo krašto žmogaus į savo krašto gilumą, į jų šventąjį mies­\ntą — Lhasą.\n6."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36359
+    - t-001

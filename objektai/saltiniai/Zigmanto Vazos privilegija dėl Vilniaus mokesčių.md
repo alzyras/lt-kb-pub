@@ -7,10 +7,10 @@ datos:
   - '1605 m.'
 date_start: '1605'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Nesutarimai dėl judėjimo keliais laisvės buvo kilę ir tarp dviejų didžiųj
 
 <a id="claim-t-202304"></a>
 - t-001
-  global_id: t-202304
   teiginys: "Nesutarimai dėl judėjimo keliais laisvės buvo kilę ir tarp dviejų didžiųjų Lietuvos miestų Vilniaus ir Kauno."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Nesutarimai dėl judėjimo keliais laisvės buvo kilę ir tarp dviejų didžiųj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202304
+    - t-001

@@ -11,10 +11,10 @@ datos:
   - '1468 m.'
 date_start: '1468'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ Tai buvo vienos iš pranciškonų šakos, pranciškonų observantų, paprastai v
 
 <a id="claim-t-201870"></a>
 - t-001
-  global_id: t-201870
   teiginys: "Tai buvo vienos iš pranciškonų šakos, pranciškonų observantų, paprastai vadinamų bernardinais, vienuoliai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Tai buvo vienos iš pranciškonų šakos, pranciškonų observantų, paprastai v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201870
+    - t-001

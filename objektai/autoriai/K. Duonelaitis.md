@@ -43,8 +43,7 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
 ## Teiginiai
 
 <a id="claim-t-00045"></a>
-- t-001
-  global_id: t-00045
+- t-004
   teiginys: "K. Duonelaitis vadintas didžiuoju Mažosios Lietuvos poetu ir skundėsi, kad kolonistai kraštą užkrėtė nedorybėmis."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
     - c-00109
 
 <a id="claim-t-00047"></a>
-- t-002
-  global_id: t-00047
+- t-005
   teiginys: "Spaudos draudimo metu Amerikoje buvo išleisti K. Duonelaičio ir kitų žymesniųjų lietuvių autorių raštai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -94,19 +92,15 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
     išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,
     Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
     raštų.
-  citata_rodoma: |
-    Tuo
-    būdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo
-    išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,
-    Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
-    raštų.
+  citata_rodoma: "Tuo\nbūdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo\nišleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,\nStrazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)\nraštų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-00047
+    - t-005
+
 - id: c-00109
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -118,14 +112,11 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
     Mažosios Lietuvos poetas, Duonelaitis (1714—1780 m.), skun-
     džiasi, kad kolonistai užkrėtę kraštą visokiomis nedorybėmis, ir
     ragina lietuvius su jais nesusidėti.
-  citata_rodoma: |
-    Užtat ir didysis
-    Mažosios Lietuvos poetas, Duonelaitis (1714—1780 m.), skun-
-    džiasi, kad kolonistai užkrėtę kraštą visokiomis nedorybėmis, ir
+  citata_rodoma: "Užtat ir didysis\nMažosios Lietuvos poetas, Duonelaitis (1714—1780 m.), skun-\ndžiasi, kad kolonistai užkrėtę kraštą visokiomis nedorybėmis, ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-00045
+    - t-004

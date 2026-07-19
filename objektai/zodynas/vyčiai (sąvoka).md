@@ -33,7 +33,6 @@ Tie, kurie į karę traukė ūkę nuo neprietelių ginti, vadinos vyčiais, nuo 
 
 <a id="claim-t-201214"></a>
 - t-001
-  global_id: t-201214
   teiginys: "Tie, kurie į karę traukė ūkę nuo neprietelių ginti, vadinos vyčiais, nuo žodžio vyti, tai yra gin ti, kurie neprietelius ujo iš savo ūkės laukan."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Tie, kurie į karę traukė ūkę nuo neprietelių ginti, vadinos vyčiais, nuo 
 ## Citatos
 
 - id: c-184564
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet, rei­
     kiant kariauti su kokia tauta, pakeltas nuo kareivių
@@ -69,4 +69,4 @@ Tie, kurie į karę traukė ūkę nuo neprietelių ginti, vadinos vyčiais, nuo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201214
+    - t-001

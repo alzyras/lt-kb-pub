@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-66803"></a>
 - t-001
-  global_id: t-66803
   teiginys: "1946 ir 1947 m. Lietuvoje pirmą kartą po karo vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-66804"></a>
 - t-002
-  global_id: t-66804
   teiginys: "Pokario okupacinės valdžios rinkimuose kandidatus galėjo siūlyti tik komunistų partija, o rezultatai buvo klastojami skelbiant per 90 proc. dalyvavimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,15 +112,15 @@ Nenurodyta
     per 90 proc. rinkėjų, kurių absoliuti dauguma balsavo už iškeltus kandida-
     tus. LSSR institucijos neturėjo jokios realios valdžios – net LKP (bolševikų)
     centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises.
-  citata_rodoma: |
-    centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises.
+  citata_rodoma: "centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66804
+    - t-002
+
 - id: c-66931
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -140,12 +138,11 @@ Nenurodyta
     tucijas – SSRS Aukščiausiąją Tarybą, Lietuvos SSR Aukščiausiąją Tarybą
     (pirmą kartą po karo į šias institucijas rinkimai vyko 1946 m. ir 1947 m.), į
     vietines tarybas – juk formaliai SSRS buvo tarybų, arba sovietų, valdžia.
-  citata_rodoma: |
-    velt) atsiklausti Baltijos valstybių gyventojų, todėl ir Lietuvoje rengti (tačiau
+  citata_rodoma: "velt) atsiklausti Baltijos valstybių gyventojų, todėl ir Lietuvoje rengti (tačiau"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66803
+    - t-001

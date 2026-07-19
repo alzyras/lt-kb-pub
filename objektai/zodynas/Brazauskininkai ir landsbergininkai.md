@@ -39,7 +39,6 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
 
 <a id="claim-t-21986"></a>
 - t-001
-  global_id: t-21986
   teiginys: "Po 1992 m. ir 1996 m. rinkimų buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,12 +70,11 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
     sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius. Net buvo
     sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „lands-
     bergininkus“.
-  citata_rodoma: |
-    sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius. Net buvo
+  citata_rodoma: "sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius. Net buvo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21986
+    - t-001

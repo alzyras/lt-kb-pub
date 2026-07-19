@@ -55,8 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-39143"></a>
-- t-001
-  global_id: t-39143
+- t-002
   teiginys: "Per Šiaurės karą 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,7 @@ Nenurodyta
     - c-40948
 
 <a id="claim-t-193742"></a>
-- t-002
-  global_id: t-193742
+- t-003
   teiginys: "Šiaurės karo nusiaubtoje Lietuvoje kilo didelis badas ir maras, mirė apie trečdalis Lietuvos gyventojų."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -108,7 +106,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39143
+    - t-002
+
 - id: c-176407
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -132,4 +131,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193742
+    - t-003

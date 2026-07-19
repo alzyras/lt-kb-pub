@@ -39,8 +39,7 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
 ## Teiginiai
 
 <a id="claim-t-63519"></a>
-- t-001
-  global_id: t-63519
+- t-002
   teiginys: "1991 m. liepos 29 d. Borisas Jelcinas ir Vytautas Landsbergis pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
     - c-21630
 
 <a id="claim-t-63520"></a>
-- t-002
-  global_id: t-63520
+- t-003
   teiginys: "Borisas Jelcinas vadovavo kovai prieš komunistinius perversmininkus ir privertė kapituliuoti Maskvos pučistus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
     - c-41877
 
 <a id="claim-t-63521"></a>
-- t-003
-  global_id: t-63521
+- t-001
   teiginys: "Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nepasiduoti reakcijos jėgoms."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -129,19 +126,15 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
     Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos
     jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
     apie Rusijos ir jos tautų ateitį.
-  citata_rodoma: |
-    Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių
-    Vilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir
-    Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos
-    jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
-    apie Rusijos ir jos tautų ateitį.
+  citata_rodoma: "Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių\nVilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir\nEstijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos\njėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti\napie Rusijos ir jos tautų ateitį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63521
+    - t-001
+
 - id: c-21630
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -155,16 +148,15 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
     parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
     Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją
     pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų).
-  citata_rodoma: |
-    Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją
-    pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų).
+  citata_rodoma: "Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją\npasirašė 1991 m. liepos 29 d. (įsigaliojo po metų)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63519
+    - t-002
+
 - id: c-41877
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -185,7 +177,8 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63520
+    - t-003
+
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Vytautas Landsbergis]]
 - Borisas Jelcinas sudarė sutartį su [[objektai/asmenys/Vytautas Landsbergis]]

@@ -27,18 +27,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad 67—68): „...atkeršykite priešams už savo tautą.
 
-## Teiginiai
-
-<a id="claim-t-59078"></a>
-- t-001
-  global_id: t-59078
-  teiginys: "Makabiejų knygos citatoje raginama atkeršyti priešams už savo tautą ir atsilyginti jiems pagal nuopelnus."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59710
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Makabiejų knygos citatoje raginama atkeršyti priešams už savo tautą ir atsilyginti jiems pagal nuopelnus.'
@@ -51,8 +39,7 @@ Dusburgietis teigia, kad 67—68): „...atkeršykite priešams už savo tautą.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59078
+
 ## Citatos
 
 - id: c-59710
@@ -66,13 +53,22 @@ Dusburgietis teigia, kad 67—68): „...atkeršykite priešams už savo tautą.
     kuriam suteikta malonė. Deja, tavyje nesirado nė kruopelytės malonės, nes tuo metu,
     kai magistras tave bardavo už tavo nusikaltimus, tu, jeigu būtum buvęs protingas, turėjai
     jį gerbti nelyginant savo tėvą.
-  citata_rodoma: |
-    Siek tiek toliau jis priduria (1 Mak 2. 67—68): „...atkeršykite priešams
-    už savo tautą. Atsilyginkite savo priešams, ką jie užsipelnė”.
+  citata_rodoma: "Siek tiek toliau jis priduria (1 Mak 2. 67—68): „...atkeršykite priešams\nuž savo tautą. Atsilyginkite savo priešams, ką jie užsipelnė”."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59078
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-59078"></a>
+- t-001
+  teiginys: "Makabiejų knygos citatoje raginama atkeršyti priešams už savo tautą ir atsilyginti jiems pagal nuopelnus."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59710

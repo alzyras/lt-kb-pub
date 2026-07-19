@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-193681"></a>
 - t-001
-  global_id: t-193681
   teiginys: "Atkūrus Lietuvą, beveik visi jos sportininkai atsisakė dalyvauti SSRS rinktinėse ir čempionatuose."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193681
+    - t-001

@@ -31,7 +31,6 @@ Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno Įgulos bažnyčioj
 
 <a id="claim-t-21691"></a>
 - t-001
-  global_id: t-21691
   teiginys: "Pažaislio vienuolyne veikė M. K. Čiurlionio muziejaus senojo meno ekspozicija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,12 +58,11 @@ Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno Įgulos bažnyčioj
     mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
     Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
     M. K. Čiurlionio muziejaus senojo meno ekspozicija.
-  citata_rodoma: |
-    Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
+  citata_rodoma: "Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21691
+    - t-001

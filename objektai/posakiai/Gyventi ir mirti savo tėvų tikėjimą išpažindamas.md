@@ -36,7 +36,6 @@ Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreik�
 
 <a id="claim-t-86856"></a>
 - t-001
-  global_id: t-86856
   teiginys: "Gediminui priskirtas pareiškimas teigė, kad jis nori gyventi ir mirti išpažindamas savo tėvų tikėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86856
+    - t-001

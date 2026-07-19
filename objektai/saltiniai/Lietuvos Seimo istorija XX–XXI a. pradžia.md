@@ -36,7 +36,6 @@ Lietuvos Seimo istorija: XX–XXI a.
 
 <a id="claim-t-78154"></a>
 - t-001
-  global_id: t-78154
   teiginys: "Veikalas „Lietuvos Seimo istorija: XX–XXI a. pradžia“ 2009 m. išleistas Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,13 +65,11 @@ Lietuvos Seimo istorija: XX–XXI a.
     nius, 2005.
     Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:
     XX–XXI a. pradžia. Vilnius, 2009.
-  citata_rodoma: |
-    Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:
-    XX–XXI a. pradžia. Vilnius, 2009.
+  citata_rodoma: "Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija: \nXX–XXI a. pradžia. Vilnius, 2009."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78154
+    - t-001

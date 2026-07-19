@@ -31,7 +31,6 @@ Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo išteklia
 
 <a id="claim-t-21707"></a>
 - t-001
-  global_id: t-21707
   teiginys: "XX a. septintajame dešimtmetyje Plungės gamyklose 50-70 proc. darbininkų buvo to paties miesto ar rajono gyventojai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,12 +63,11 @@ Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo išteklia
     panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose
     nuo 50 iki 70 proc. darbininkų buvo to paties miesto ar rajono gyventojai
     ir tik 3–5 proc.
-  citata_rodoma: |
-    panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose
+  citata_rodoma: "panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21707
+    - t-001

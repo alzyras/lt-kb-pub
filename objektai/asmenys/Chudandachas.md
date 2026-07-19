@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-34713"></a>
 - t-001
-  global_id: t-34713
   teiginys: "Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,6 +80,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34713
+    - t-001
+
 ## Ryšiai
 - Chudandachas puolė [[objektai/vietos/Odojevas]], [[objektai/vietos/Riazanė]]

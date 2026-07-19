@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-26329"></a>
 - t-001
-  global_id: t-26329
   teiginys: "1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,15 +68,11 @@ media_all_json: |-
     tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
     pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
     lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
-  citata_rodoma: |
-    1972 m. gegužės 14 d. devyniolikme-
-    tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
-    pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
-    lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
+  citata_rodoma: "1972 m. gegužės 14 d. devyniolikme-\ntis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, \npats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-\nlė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26329
+    - t-001

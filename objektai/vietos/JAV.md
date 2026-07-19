@@ -42,8 +42,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 ## Teiginiai
 
 <a id="claim-t-109254"></a>
-- t-001
-  global_id: t-109254
+- t-004
   teiginys: "1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numačiusį įsileisti 205 tūkst. dipukų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     - c-101300
 
 <a id="claim-t-109255"></a>
-- t-002
-  global_id: t-109255
+- t-009
   teiginys: "Per trejus–ketverius metus į JAV atvyko apie 30 tūkst. norėjusių lietuvių tremtinių ir pabėgėlių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     - c-101297
 
 <a id="claim-t-109256"></a>
-- t-003
-  global_id: t-109256
+- t-006
   teiginys: "JAV buvo viena iš šalių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,8 +100,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     - c-101298
 
 <a id="claim-t-109257"></a>
-- t-004
-  global_id: t-109257
+- t-008
   teiginys: "1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -124,8 +120,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     - c-101300
 
 <a id="claim-t-109258"></a>
-- t-005
-  global_id: t-109258
+- t-001
   teiginys: "1937 m. Lietuvos krepšininkams padėjo JAV lietuvių treneriai ir keli žaidėjai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -144,8 +139,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     - c-101303
 
 <a id="claim-t-109259"></a>
-- t-006
-  global_id: t-109259
+- t-002
   teiginys: "JAV įvestos imigracijos kvotos skatino neprasigyvenusius smulkius mažažemius valstiečius emigruoti daugiausia į Pietų Amerikos šalis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -165,7 +159,6 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 
 <a id="claim-t-109260"></a>
 - t-007
-  global_id: t-109260
   teiginys: "JAV veikė didžiausia lietuvių išeivijos dalis ir svarbiausios organizacijos: ALT, PLB bei iš Europos persikėlęs VLIK."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -200,7 +193,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109255
+    - t-009
+
 - id: c-101298
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -214,15 +208,15 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     vartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.),
     Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
     Šveicarijoje, Vatikane.
-  citata_rodoma: |
-    Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
+  citata_rodoma: "Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109256
+    - t-006
+
 - id: c-101299
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -234,17 +228,15 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy-
     venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
     Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.
-  citata_rodoma: |
-    Neprasigy-
-    venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
-    Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.
+  citata_rodoma: "Neprasigy-\nvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į \nPietų Amerikos šalis, nes JAV įvedė imigracijos kvotas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109259
+    - t-002
+
 - id: c-101300
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -263,8 +255,9 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109254
-    - t-109257
+    - t-004
+    - t-008
+
 - id: c-101302
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -278,18 +271,15 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasau-
     lio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vy-
     riausiasis Lietuvos išlaisvinimo komitetas (VLIK).
-  citata_rodoma: |
-    JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios
-    organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasau-
-    lio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vy-
-    riausiasis Lietuvos išlaisvinimo komitetas (VLIK).
+  citata_rodoma: "JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios \norganizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasau-\nlio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vy-\nriausiasis Lietuvos išlaisvinimo komitetas (VLIK)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109260
+    - t-007
+
 - id: c-101303
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -302,12 +292,11 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     reikalams.
     Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lie-
     tuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m.
-  citata_rodoma: |
-    tuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m.
+  citata_rodoma: "tuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109258
+    - t-001

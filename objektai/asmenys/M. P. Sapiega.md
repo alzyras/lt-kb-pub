@@ -32,7 +32,6 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
 
 <a id="claim-t-40316"></a>
 - t-001
-  global_id: t-40316
   teiginys: "LDK arklidininkas M. P. Sapiega vadovavo mūšio lauke likusiems pėstininkams, dragūnams ir raitarams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
 
 <a id="claim-t-40317"></a>
 - t-002
-  global_id: t-40317
   teiginys: "LDK arklidininkas M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su likusia kariuomene."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,17 +80,15 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
     Mūšio lauke liko pėstininkai, dragū-
     nai ir raitarai, vadovaujami LDK arkli-
     dininko M. P. Sapiegos.
-  citata_rodoma: |
-    Mūšio lauke liko pėstininkai, dragū-
-    nai ir raitarai, vadovaujami LDK arkli-
-    dininko M. P. Sapiegos.
+  citata_rodoma: "Mūšio lauke liko pėstininkai, dragū-\nnai ir raitarai, vadovaujami LDK arkli-\ndininko M. P. Sapiegos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40316
+    - t-001
+
 - id: c-44443
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -108,16 +104,11 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
     saugumo garantijas, pasidavė kartu
     su visa likusia kariuomene respubli-
     konams.
-  citata_rodoma: |
-    Po kurio laiko
-    M. P. Sapiega, gavęs iš Višnioveckių
-    saugumo garantijas, pasidavė kartu
-    su visa likusia kariuomene respubli-
-    konams.
+  citata_rodoma: "Po kurio laiko\nM. P. Sapiega, gavęs iš Višnioveckių\nsaugumo garantijas, pasidavė kartu\nsu visa likusia kariuomene respubli-\nkonams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40317
+    - t-002

@@ -37,8 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-41137"></a>
-- t-001
-  global_id: t-41137
+- t-002
   teiginys: "Bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir partizanas Juozas Jovaiša-Lokys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ media_all_json: |-
     - c-44844
 
 <a id="claim-t-41138"></a>
-- t-002
-  global_id: t-41138
+- t-001
   teiginys: "Spalio 28 d. čekistai buvo atvesti prie tuometinio Šiaurės Rytų partizanų srities štabo bunkerio Jovaišų sodyboje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +66,6 @@ media_all_json: |-
 
 <a id="claim-t-183667"></a>
 - t-003
-  global_id: t-183667
   teiginys: "Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas bunkeryje susisprogdino su žmona Joana Railaite-Neringa ir partizanu Juozu Jovaiša-Lokiu."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -109,7 +106,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41138
+    - t-001
+
 - id: c-44844
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -125,24 +123,15 @@ media_all_json: |-
     3 štabo bunkerius.
 
     1949 m. lapkričio 1-3 d. ŠIMONIŲ GIRIOS APGULTIS 243
-  citata_rodoma: |
-    Nematydami kitos išeities, bunkeryje
-    susisprogdino Rytų Lietuvos srities vadas
-    Antanas Slučka-Šarūnas kartu su savo
-    žmona, RL štabo nare, štabo sekretore Joana
-    Railaite-Neringa ir partizanu Juozu Jovaiša-
-    Lokiu. Štabo adjutantas Balys Žukauskas-
-    Princas pasidavė gyvas ir nurodė dar
-    3 štabo bunkerius.
-
-    1949 m.
+  citata_rodoma: "Nematydami kitos išeities, bunkeryje\nsusisprogdino Rytų Lietuvos srities vadas\nAntanas Slučka-Šarūnas kartu su savo\nžmona, RL štabo nare, štabo sekretore Joana\nRailaite-Neringa ir partizanu Juozu Jovaiša-\nLokiu. Štabo adjutantas Balys Žukauskas-\nPrincas pasidavė gyvas ir nurodė dar\n3 štabo bunkerius.\n\n1949 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41137
+    - t-002
+
 - id: c-167059
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -165,4 +154,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183667
+    - t-003

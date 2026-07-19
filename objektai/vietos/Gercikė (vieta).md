@@ -33,7 +33,6 @@ Tuo Gercikps grobiu meldžionys nekakinos, kai pogi žinodami vietovėj Gercikė
 
 <a id="claim-t-201136"></a>
 - t-001
-  global_id: t-201136
   teiginys: "Tuo Gercikps grobiu meldžionys nekakinos, kai pogi žinodami vietovėj Gercikėj daug gėrybių dar esant, kurių gobėdamos kamendotas Kuoknesės Meinhardas traukė vėl į Gercikę ant Visvaldžio kuni gaikščio, kursai, tą išgirdęs, patelkė lietuvius ir že maičius."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Tuo Gercikps grobiu meldžionys nekakinos, kai pogi žinodami vietovėj Gercikė
 ## Citatos
 
 - id: c-184486
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kitoj pusėj meldžionys kariavo su igumiais, kru­
     vinose ir baisiose karėse pjaudamos iki paskuojo.
@@ -67,4 +67,4 @@ Tuo Gercikps grobiu meldžionys nekakinos, kai pogi žinodami vietovėj Gercikė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201136
+    - t-001

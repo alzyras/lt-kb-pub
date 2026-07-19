@@ -51,25 +51,16 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59739"></a>
-- t-001
-  global_id: t-59739
+- t-003
   teiginys: "Martynas su bendrais prie Bugo užpuolė prekių laivą, išžudė upeivius, nuplukdė grobį į Torunę ir pasidalijo pinigus."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60371
-    - c-001
+    - c-60372
+
 <a id="claim-t-59740"></a>
 - t-002
-  global_id: t-59740
   teiginys: "Martynas nukovė dešimt vyrų pirtyje, pagrobė arklių, gyvulių ir kitų daiktų, o moteris bei vaikus išsivarė į nelaisvę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -85,8 +76,7 @@ Nenurodyta
     - c-60373
 
 <a id="claim-t-59741"></a>
-- t-003
-  global_id: t-59741
+- t-001
   teiginys: "Martynas iš Golino su keturiais vokiečiais ir vienuolika prūsų užgrobė kaimą Sūduvos žemėje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -102,8 +92,7 @@ Nenurodyta
     - c-60372
 
 <a id="claim-t-194444"></a>
-- t-004
-  global_id: t-194444
+- t-005
   teiginys: "Martynas nukovė 10 vyrų pirtyje, pagrobė arklių, gyvulių bei kitko ir išsivarė į nelaisvę moteris bei vaikus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -134,8 +123,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59739
+
 ## Citatos
 
 - id: c-60371
@@ -157,28 +145,13 @@ Nenurodyta
     Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus
     Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas
     jam šios laimės, ėmė regzti visokiausių pinklių, norėdamas jam sukliudyti.
-  citata_rodoma: |
-    Apie tą patį
-
-      Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs
-    per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui
-    ir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė
-    pokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į
-    laivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo
-    po 20 markių dalies.
-
-
-
-
-
-          230 (225).
+  citata_rodoma: "Apie tą patį\n\n  Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs\nper patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui\nir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė\npokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į\nlaivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo\npo 20 markių dalies.\n\n\n\n\n\n      230 (225)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-59739
 - id: c-60372
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -204,7 +177,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59741
+    - t-003
+    - t-001
+
 - id: c-60373
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -222,5 +197,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59740
-    - t-194444
+    - t-002
+    - t-005

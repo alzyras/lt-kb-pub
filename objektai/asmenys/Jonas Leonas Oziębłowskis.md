@@ -37,7 +37,6 @@ Jonas Leonas Oziębłowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus st
 
 <a id="claim-t-202412"></a>
 - t-001
-  global_id: t-202412
   teiginys: "Jonas Leonas Oziębłowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus stalininkas, turėjo valdų Ukmergės paviete ties Vidiškiais ir Riešėje prie Vilniaus."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Jonas Leonas Oziębłowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus st
 
 <a id="claim-t-202413"></a>
 - t-002
-  global_id: t-202413
   teiginys: "1694 m. liepos 27 d. Jonas Leonas Oziębłowskis išvyko iš Radiškio į Gdanską, rugpjūčio 7 d. ten atvyko, iki rugpjūčio 16 d. viešėjo, o 25 d. grįžo."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -92,11 +90,8 @@ Jonas Leonas Oziębłowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus st
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202412
+    - t-001
 
 - id: c-185760
   šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
@@ -105,8 +100,5 @@ Jonas Leonas Oziębłowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus st
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202413
+    - t-002

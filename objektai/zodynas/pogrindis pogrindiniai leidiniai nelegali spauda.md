@@ -39,8 +39,7 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
 ## Teiginiai
 
 <a id="claim-t-23534"></a>
-- t-001
-  global_id: t-23534
+- t-002
   teiginys: "Iki 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų apie sovietų valdžios politiką Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
     - c-24934
 
 <a id="claim-t-23535"></a>
-- t-002
-  global_id: t-23535
+- t-001
   teiginys: "Maldininkai religinėse manifestacijose įsigydavo draustų relikvijų ir nelegaliai išspausdintos religinės literatūros."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
 
 <a id="claim-t-23536"></a>
 - t-003
-  global_id: t-23536
   teiginys: "LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,17 +110,15 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
     tinėmis grupėmis. Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio
     grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
     per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.
-  citata_rodoma: |
-    Lietuvos Helsinkio
-    grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
-    per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.
+  citata_rodoma: "Lietuvos Helsinkio \ngrupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė \nper 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23534
+    - t-002
+
 - id: c-24935
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -136,16 +131,15 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
     Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
     Petras Cidzikas. LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-
     klys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
-  citata_rodoma: |
-    LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-
-    klys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
+  citata_rodoma: "LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-\nklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23536
+    - t-003
+
 - id: c-25134
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -157,14 +151,11 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
     žiuodavo dešimtys tūkstančių maldininkų. Jie ne tik meldėsi, bendrau-
     davo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos
     literatūros: maldaknygių, katekizmų ar Šventojo Rašto.
-  citata_rodoma: |
-    Jie ne tik meldėsi, bendrau-
-    davo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos
-    literatūros: maldaknygių, katekizmų ar Šventojo Rašto.
+  citata_rodoma: "Jie ne tik meldėsi, bendrau-\ndavo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos \nliteratūros: maldaknygių, katekizmų ar Šventojo Rašto."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23535
+    - t-001

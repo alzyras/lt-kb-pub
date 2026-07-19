@@ -31,7 +31,6 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
 
 <a id="claim-t-86520"></a>
 - t-001
-  global_id: t-86520
   teiginys: "Czopowe buvo svaigalų mokestis, kurį Batoras reikalavo išreikalauti iš Vilniaus miestiečių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
 
 <a id="claim-t-86521"></a>
 - t-002
-  global_id: t-86521
   teiginys: "Vilniaus miestiečiams ir pirkliams buvo nurodyta privalomai mokėti Czopowe ir Szosowe mokesčius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +95,8 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86520
+    - t-001
+
 - id: c-82500
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -122,4 +121,4 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86521
+    - t-002

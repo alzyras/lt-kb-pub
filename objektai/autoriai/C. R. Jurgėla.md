@@ -39,7 +39,6 @@ Jurgėla: History of the Lithuanian Nation, New York 1948. Jurgėla, C.
 
 <a id="claim-t-30578"></a>
 - t-001
-  global_id: t-30578
   teiginys: "C. R. Jurgėla 1961 m. Čikagoje paskelbė darbą „Tannenberg (Eglija-Grunwald) 15 July 1410“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Jurgėla: History of the Lithuanian Nation, New York 1948. Jurgėla, C.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30578
+    - t-001

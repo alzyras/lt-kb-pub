@@ -8,6 +8,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1247 m.'
   - '1394 m.'
@@ -15,14 +16,14 @@ datos:
   - '2026 m.'
 date_start: '1247'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - kraštas
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,13 +41,12 @@ media_all_json: |-
 
 ## Santrauka
 
-Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl kurių vokiečiai sutiko laikytis taikos. Vilniaus katedra gavo didelius valsčius Drohičino, Brastos ir Dubno pavietuose su įvairiais ten renkamais mokesčiais. Švitrigaila su kryžiuočių pulku įsibrovė į Lietuvą ir sudegino Drohičiną, Naugarduką, Mirą bei Lydą.
+Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną. Vladislovui 1444 m. žuvus, po trejų metų derybų, lenkai išsirinko tą patį Kazimierą ir savo karalium. O tų 7 metų būvyje Lietuva buvo net pradėjusi su Lenkijos lenininku, Mozūrų kunigaikščiu, karą dėl Drohičino, kurį šis po Zigmanto mirties buvo užėmęs.
 
 ## Teiginiai
 
 <a id="claim-t-93931"></a>
-- t-001
-  global_id: t-93931
+- t-008
   teiginys: "Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl kurių vokiečiai sutiko laikytis taikos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +62,7 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     - c-37351
 
 <a id="claim-t-93932"></a>
-- t-002
-  global_id: t-93932
+- t-005
   teiginys: "Vilniaus katedra gavo didelius valsčius Drohičino, Brastos ir Dubno pavietuose su įvairiais ten renkamais mokesčiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +78,7 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     - c-89184
 
 <a id="claim-t-93933"></a>
-- t-003
-  global_id: t-93933
+- t-006
   teiginys: "Švitrigaila su kryžiuočių pulku įsibrovė į Lietuvą ir sudegino Drohičiną, Naugarduką, Mirą bei Lydą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,8 +98,7 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     - c-89183
 
 <a id="claim-t-93934"></a>
-- t-004
-  global_id: t-93934
+- t-003
   teiginys: "Vokiečiai įsipareigojo laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų Drohičinu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,8 +114,7 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     - c-37351
 
 <a id="claim-t-93935"></a>
-- t-005
-  global_id: t-93935
+- t-007
   teiginys: "Drohičino paviete buvę dideli valsčiai su renkamais mokesčiais buvo skirti Vilniaus katedrai aprūpinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,8 +130,7 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     - c-89184
 
 <a id="claim-t-93936"></a>
-- t-006
-  global_id: t-93936
+- t-011
   teiginys: "Kęstučiui ruošiantis nubausti Jogailą, Vytautas išvyko į Drohičiną."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -153,8 +148,7 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     - c-89185
 
 <a id="claim-t-93937"></a>
-- t-007
-  global_id: t-93937
+- t-013
   teiginys: "Vytenis prijungė prie Lietuvos Drohičiną ir Brastą, kuriuos anksčiau laikinai buvo užėmęs Traidenis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -171,8 +165,7 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     - c-46484
 
 <a id="claim-t-93938"></a>
-- t-008
-  global_id: t-93938
+- t-012
   teiginys: "Po Zigmanto mirties Mozūrų kunigaikštis buvo užėmęs Drohičiną, dėl kurio Lietuva pradėjo karą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -191,8 +184,7 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     - c-89186
 
 <a id="claim-t-184945"></a>
-- t-009
-  global_id: t-184945
+- t-010
   teiginys: "Jogailos kariuomenė prie Drohičino sutiko stiprų pasipriešinimą, bet po puolimų ir gaisro gavo apdegusią pilį."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -211,8 +203,7 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     - c-168306
 
 <a id="claim-t-187573"></a>
-- t-010
-  global_id: t-187573
+- t-001
   teiginys: "Kazimierui būnant Vilniuje, Drohičino ir Melniko seniūnu buvo dar Žygimanto paskirtas Jurgis Nosuta."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -232,8 +223,7 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     - c-170521
 
 <a id="claim-t-192650"></a>
-- t-011
-  global_id: t-192650
+- t-014
   teiginys: "Narbutas rašo, kad 1247 m. kunigaikštis Vasilka trečią dieną pasivijo jotvingius prie Drohičino."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -256,8 +246,7 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     - c-175420
 
 <a id="claim-t-193178"></a>
-- t-012
-  global_id: t-193178
+- t-015
   teiginys: "Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -269,8 +258,7 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     - c-175923
 
 <a id="claim-t-196680"></a>
-- t-013
-  global_id: t-196680
+- t-016
   teiginys: "Jogaila pirmiausia nuvedė kariuomenę prie Drohičino ir, sutikęs stiprų pasipriešinimą, veržliais antpuoliais ėmė kamuoti gynėjus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -281,6 +269,18 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168306
+
+<a id="claim-t-201593"></a>
+- t-017
+  teiginys: "Po Kauno ėjo 100 kapų grašių mokėti turėję Belskas, Drohičinas, Gardinas, Pinskas, Polockas, kiti - dar mažiau."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184940
 - susijęs iš [[objektai/asmenys/Konradas.md#claim-t-190907|Konradas]]: Narbutas vaizduoja Konradą kaip Mazovijos kunigaikštį, XIII a. pradžioje pasiekusį laimėjimų Jotvingijoje ir valdžiusį Drohičiną.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184644|vietininkas]]: Gediminas prijungė Lucką, Drohičiną ir Brestą prie Lietuvos valdų, palikdamas lietuvių įgulas ir vietininkus.
 - susijęs iš Melnikas: Lietuvos metraštyje Kazimierui būnant Vilniuje Jurgis Nosuta minimas kaip Drohičino ir Melniko seniūnas, dar Žygimanto paskirtas į šias pareigas.
@@ -337,20 +337,16 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­
     tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­
     timis galį taikos ir nesilaikyti^1 ).
-  citata_rodoma: |
-    O Vokiečiai apsiėmė tik su
-    krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­
-    kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­
-    tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­
-    timis galį taikos ir nesilaikyti^1 ).
+  citata_rodoma: "O Vokiečiai apsiėmė tik su\nkrikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­\nkovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­\ntis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­\ntimis galį taikos ir nesilaikyti^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93931
-    - t-93934
+    - t-008
+    - t-003
+
 - id: c-46484
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -365,20 +361,15 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną
     ir Brastą. Tuo būdu savo įpėdiniui, broliui Gediminui, Vytenis
     paliko jau didelę valstybę su aiškiai nustatyta politikos linija.
-  citata_rodoma: |
-    Vytenis taip
-    pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, ku-
-    rias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai),
-    prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną
-    ir Brastą. Tuo būdu savo įpėdiniui, broliui Gediminui, Vytenis
-    paliko jau didelę valstybę su aiškiai nustatyta politikos linija.
+  citata_rodoma: "Vytenis taip\npat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, ku-\nrias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai),\nprijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną\nir Brastą. Tuo būdu savo įpėdiniui, broliui Gediminui, Vytenis\npaliko jau didelę valstybę su aiškiai nustatyta politikos linija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93937
+    - t-013
+
 - id: c-89183
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -397,24 +388,15 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
     nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
     kiolika dienų teplėšė Lietuvą.
-  citata_rodoma: |
-    ); kitais metais
-    Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­
-    gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę
-    prie Gardino panemunės pavietus, sudegino Drohičiną, Nau­
-    garduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir
-    prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,
-    net iki Šalčininkų nusigavo51. Visa tai vyko žiemos pabaigo­
-    je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
-    nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
-    kiolika dienų teplėšė Lietuvą.
+  citata_rodoma: "); kitais metais\nŠvitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­\ngistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę\nprie Gardino panemunės pavietus, sudegino Drohičiną, Nau­\ngarduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir\nprisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,\nnet iki Šalčininkų nusigavo51. Visa tai vyko žiemos pabaigo­\nje, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­\nnai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­\nkiolika dienų teplėšė Lietuvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93933
+    - t-006
+
 - id: c-89184
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -433,28 +415,16 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
     teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
     istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
-  citata_rodoma: |
-    112.
-    I1l
-
-    ## Puslapis 128
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    vyskupui, iškilmingu aktu dovanodamas kunigaikštišką
-    Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra-
-    vos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius
-    Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
-    kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
-    teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
-    istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
+  citata_rodoma: "112.\nI1l\n\n## Puslapis 128\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nvyskupui, iškilmingu aktu dovanodamas kunigaikštišką \nTauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra- \nvos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius \nDrohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­\nkamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­\nteko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos \nistorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93932
-    - t-93935
+    - t-005
+    - t-007
+
 - id: c-89185
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -464,16 +434,15 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     Jogailą. Vytautas, kartu augęs ir draugavęs su Jogaila, nenorėjo
     tuo tikėti. Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas
     išvyko į Drohičiną.
-  citata_rodoma: |
-    Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas
-    išvyko į Drohičiną.
+  citata_rodoma: "Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas\nišvyko į Drohičiną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93936
+    - t-011
+
 - id: c-89186
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -492,7 +461,8 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93938
+    - t-012
+
 - id: c-168306
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -531,8 +501,9 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184945
-    - t-196680
+    - t-010
+    - t-016
+
 - id: c-170521
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -555,26 +526,15 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
     lai palikti Kantautą bent trejus metus Žemaičių seniū­
     nu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­
     gaikščiui Kazimierui.
-  citata_rodoma: |
-    O paskui didysis kunigaikštis Kazimieras atvyko
-    į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,
-    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
-    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
-    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
-    seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­
-    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
-    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
-    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
-    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
-    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
-    Kunigaikštystės.
+  citata_rodoma: "O paskui didysis kunigaikštis Kazimieras atvyko \nį Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo, \ndidžiojo kunigaikščio Vytauto, sostinės— ir visos Di­\ndžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.\nBūnant Kazimierui Vilniuje, Drohičino ir Melniko \nseniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­\nto. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­\ntas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis \npabėgo į Mazoviją, nusprendė su tais miestais pereiti \nMykoliuko Zygimantaičio tarnybon ir dar prikalbėjo \ndaugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios \nKunigaikštystės."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187573
+    - t-001
+
 - id: c-175420
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -597,7 +557,8 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192650
+    - t-014
+
 - id: c-175923
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -615,7 +576,27 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193178
+    - t-015
+
+- id: c-184940
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Tai
+    antra pagal dydį suma, daugiau turėjo mokėti Vilnius - 500 kapų grašių ir dar iš-
+    rengti 300 raitelių. Po Kauno ėjo 100 kapų grašių mokėti turėję Belskas, Drohičinas,
+    Gardinas, Pinskas, Polockas, kiti - dar mažiau. Iš valstybės lietuviškųjų žemių miestų
+    sąraše dar yra Trakai, kurių miestiečiai krikščionys ir karaimai kartu turėjo mokėti 60
+    kapų grašių, ir Merkinė, turėjusi mokėti 30 kapų grašių.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Konradas]]
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

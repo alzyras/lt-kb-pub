@@ -42,8 +42,7 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
 ## Teiginiai
 
 <a id="claim-t-79023"></a>
-- t-001
-  global_id: t-79023
+- t-002
   teiginys: "Popiežius Grigalius IX su kardinolų taryba 1235 m. nutarė suvienyti gyvus išlikusius Kristaus karių brolijos brolius su kryžiuočiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,33 +60,8 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   pagrindžia:
     - c-41926
 
-<a id="claim-t-184074"></a>
-- t-002
-  global_id: t-184074
-  teiginys: "1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos kovoti dėl netikėlių užimtų krikščionių žemių."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "sudare_sutarti_su -> Teutonai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Grigalius IX: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Teutonai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas mini susitarimą su Teutonų ordino broliais, nors Grigalius IX jį patvirtino, o ne būtinai sudarė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Grigalius IX sudarė sutartį su Teutonai (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1230 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir remiasi citatoje nurodytais Grigaliaus IX veiksmais."
-  pagrindžia:
-    - c-167459
-    - c-002
 <a id="claim-t-197085"></a>
-- t-003
-  global_id: t-197085
+- t-004
   teiginys: "Grigalius IX guodė juos šiais viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -128,8 +102,7 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184074
+
 ## Citatos
 
 - id: c-41926
@@ -152,7 +125,8 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79023
+    - t-002
+
 - id: c-167459
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -172,5 +146,4 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184074
-    - t-197085
+    - t-004

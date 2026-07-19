@@ -39,27 +39,18 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
 
 <a id="claim-t-60177"></a>
 - t-001
-  global_id: t-60177
   teiginys: "1324 m. Varmės vyskupystės vyras Muka su 19 plėšikautojų dykrose apsupo ir nukovė 45 lietuvių raitelius."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuviai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Muka: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai aprašo Mukos smurtinį veiksmą prieš lietuvių raitelius."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1324 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
-    - c-60810
+    - c-60809
 
 <a id="claim-t-60178"></a>
 - t-002
-  global_id: t-60178
   teiginys: "Muka su savo bendrais paspruko nuo gausių Lietuvos raitelių, numetęs maistą, gėrimą ir kitus trukdančius daiktus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -76,7 +67,6 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
 
 <a id="claim-t-197135"></a>
 - t-003
-  global_id: t-197135
   teiginys: "Dusburgietis teigia, kad muka mat patvarkė, kad Dovydas, jo pilininkas Gardine, įsibrovė su galinga kariuomene lapkričio 21 dieną į Mazovijos žemę ir, plėšdamas bei degindamas, nusiaubė Plocko vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės kaimų, daugybę vienuolynams bei kilmingiesiems priklausančių dvarų, 30 parapinių bažnyčių ir koplyčių su daug dievo garbei skirtų maldos namų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -107,7 +97,9 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60178
+    - t-001
+    - t-002
+
 - id: c-60810
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -130,22 +122,11 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
     nei bažnyčios sakramentams, nei šventiesiems rūbams bei indams, o dvasininkų, tiek
     vienuolių, tiek pasauliečių, bei kitų abiejų lyčių žmonių sunaikino per 4 tūkstančius,
     vienus nužudydamas, kitus išsivarydamas į amžiną vergovę583.
-  citata_rodoma: |
-    Apie 45 lietuvių žūtį 1324 metais
-
-       Tais pačiais metais ir tuo pat laiku vienas Varmės vyskupystės vyras, vardu Muka,
-    su 19 plėšikautojų patraukė link Lietuvos, aptiko dykrose 45 lietuvių raitelius, sumaniai
-    juos apsupo ir visus nukovė.
-
-
-
-
-                            353 (346).
+  citata_rodoma: "Apie 45 lietuvių žūtį 1324 metais\n\n   Tais pačiais metais ir tuo pat laiku vienas Varmės vyskupystės vyras, vardu Muka,\nsu 19 plėšikautojų patraukė link Lietuvos, aptiko dykrose 45 lietuvių raitelius, sumaniai\njuos apsupo ir visus nukovė.\n\n\n\n\n                        353 (346)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60177
-    - t-197135
+    - t-003

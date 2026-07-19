@@ -31,7 +31,6 @@ MIRTIES AKIVAIZDOJE Viršila Antanas Šukys aprašo vieną nutikimą žvalgyboje
 
 <a id="claim-t-41454"></a>
 - t-001
-  global_id: t-41454
   teiginys: "„Mirties akivaizdoje“ siejamas su viršilos Antano Šukio aprašytu nutikimu žvalgyboje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,16 +58,11 @@ MIRTIES AKIVAIZDOJE Viršila Antanas Šukys aprašo vieną nutikimą žvalgyboje
     „Vieną dieną, po pietų, dvylika Mokomosios kuopos vyrų išvyko į
     žvalgybą, jiems vadovavo vyresnysis puskarininkis. Žvalgyba susi-
     tiko su keturiasdešimt lenkų raitelių.
-  citata_rodoma: |
-    MIRTIES AKIVAIZDOJE
-
-    Viršila Antanas Šukys aprašo vieną nutikimą žvalgyboje.
-    „Vieną dieną, po pietų, dvylika Mokomosios kuopos vyrų išvyko į
-    žvalgybą, jiems vadovavo vyresnysis puskarininkis.
+  citata_rodoma: "MIRTIES AKIVAIZDOJE\n\nViršila Antanas Šukys aprašo vieną nutikimą žvalgyboje.\n„Vieną dieną, po pietų, dvylika Mokomosios kuopos vyrų išvyko į\nžvalgybą, jiems vadovavo vyresnysis puskarininkis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41454
+    - t-001

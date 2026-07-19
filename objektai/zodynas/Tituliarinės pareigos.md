@@ -28,7 +28,6 @@ Visos šios pareigos, išskyrus pastarąją (jos reikšmė išryškės šiek tie
 
 <a id="claim-t-201816"></a>
 - t-001
-  global_id: t-201816
   teiginys: "Visos šios pareigos, išskyrus pastarąją (jos reikšmė išryškės šiek tiek vėliau), buvo vadinamosios tituliarinės, prestižinės."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Visos šios pareigos, išskyrus pastarąją (jos reikšmė išryškės šiek tie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201816
+    - t-001

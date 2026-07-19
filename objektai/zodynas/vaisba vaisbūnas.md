@@ -31,7 +31,6 @@ Todėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia prekybą
 
 <a id="claim-t-43358"></a>
 - t-001
-  global_id: t-43358
   teiginys: "Žodis „vaisba“ reiškė prekybą, o „vaisbūnas“ - pirklį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Todėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia prekybą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-43358
+    - t-001

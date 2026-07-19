@@ -28,30 +28,6 @@ media_all_json: |-
 
 Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, jo teigimu, buvo įvairiai iškraipomas. Narbutas rašo, kad vilkų tauta laikyta sena slavų gentimi, mūsų eroje persikėlusia prie Oderio žemupio.
 
-## Teiginiai
-
-<a id="claim-t-192966"></a>
-- t-002
-  global_id: t-192966
-  teiginys: "Narbutas rašo, kad vilkų tauta laikyta sena slavų gentimi, mūsų eroje persikėlusia prie Oderio žemupio."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilkai-liutikai: owner_note_path, group"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilkai-liutikai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175736
-    - c-002
-- susijęs iš [[objektai/ivykiai/Vilkų-liutikų jūros žygis ir įsitvirtinimas Vakaruose.md#claim-t-191055|Vilkų-liutikų jūros žygis ir įsitvirtinimas Vakaruose]]: Narbutas rašo, kad pirmaisiais mūsų eros amžiais vilkai-liutikai išsirengė į jūros žygį, pasiuntė įgulas į vakarus ir buvo atstumti nuo Lietuvos sienos.
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, jo teigimu, buvo įvairiai iškraipomas.'
@@ -78,10 +54,9 @@ Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, 
     sų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-002
   santrauka: 'Narbutas rašo, kad vilkų tauta laikyta sena slavų gentimi, mūsų eroje persikėlusia prie Oderio žemupio.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -96,11 +71,10 @@ Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, 
     ty-Lutyki).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192966
+  statusas: verified
+
 ## Citatos
 
 - id: c-175736
@@ -118,19 +92,34 @@ Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, 
     miestų, upių ir įvairių kitų geografinių vietovių pavadi­
     nimai amžiams bėgant ir įvairių tautų kalbose gali kisti,
     tačiau bet kuris žodis nėra vien ore sugautas garsas.
-  citata_rodoma: |
-    Visi senovės tyrinėtojai sutinka, jog vilkų tauta buvo
-    slaviška gentis, be to, viena iš pačių seniausių, kuri mūsų
-    eroje turėjo persikelti jūra į Oderio žemupį ir įsikurti abie­
-    jose upės pakrantėse ar net salose, esančiose prie jos
-    įtekėjimo į jūrą. Jų gyvenviečių būta net Bretanės ir Ang­
-    lijos pakrantėse. Aleksandrijos geografas aiškiai iš pat
-    pradžių įvardijo ten gyvenusią veltų tautą (Welty, Wele-
-    ty-Lutyki).
+  citata_rodoma: "Visi senovės tyrinėtojai sutinka, jog vilkų tauta buvo\nslaviška gentis, be to, viena iš pačių seniausių, kuri mūsų\neroje turėjo persikelti jūra į Oderio žemupį ir įsikurti abie­\njose upės pakrantėse ar net salose, esančiose prie jos\nįtekėjimo į jūrą. Jų gyvenviečių būta net Bretanės ir Ang­\nlijos pakrantėse. Aleksandrijos geografas aiškiai iš pat\npradžių įvardijo ten gyvenusią veltų tautą (Welty, Wele-\nty-Lutyki)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192966
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-192966"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad vilkų tauta laikyta sena slavų gentimi, mūsų eroje persikėlusia prie Oderio žemupio."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilkai-liutikai: owner_note_path, group"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilkai-liutikai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-175736
+- susijęs iš [[objektai/ivykiai/Vilkų-liutikų jūros žygis ir įsitvirtinimas Vakaruose.md#claim-t-191055|Vilkų-liutikų jūros žygis ir įsitvirtinimas Vakaruose]]: Narbutas rašo, kad pirmaisiais mūsų eros amžiais vilkai-liutikai išsirengė į jūros žygį, pasiuntė įgulas į vakarus ir buvo atstumti nuo Lietuvos sienos.

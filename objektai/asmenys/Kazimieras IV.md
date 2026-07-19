@@ -39,8 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87436"></a>
-- t-001
-  global_id: t-87436
+- t-002
   teiginys: "Kazimieras IV, mėgęs medžioti, Rūdninkuose pasirinko medžioklės buveinę ir pasistatydino dvarą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ media_all_json: |-
     - c-83417
 
 <a id="claim-t-87437"></a>
-- t-002
-  global_id: t-87437
+- t-001
   teiginys: "Kazimieras IV 1440 metais suteikė Vilniaus miestiečiams privilegiją laisvai prekiauti Lietuvos valstybėje be muito."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ media_all_json: |-
 
 <a id="claim-t-87438"></a>
 - t-003
-  global_id: t-87438
   teiginys: "Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,7 +111,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87438
+    - t-003
+
 - id: c-83416
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -159,7 +157,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87437
+    - t-001
+
 - id: c-83417
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -180,6 +179,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87436
+    - t-002
+
 ## Ryšiai
 - Kazimieras IV gyveno [[objektai/vietos/Rūdninkai]]

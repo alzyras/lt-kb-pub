@@ -37,8 +37,7 @@ Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendori
 ## Teiginiai
 
 <a id="claim-t-200485"></a>
-- t-001
-  global_id: t-200485
+- t-002
   teiginys: "Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendorius Antanas Tadas Pšezdeckis."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -59,8 +58,7 @@ Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendori
     - c-183854
 
 <a id="claim-t-200486"></a>
-- t-002
-  global_id: t-200486
+- t-001
   teiginys: "Stanislovas Pšezdeckis buvo Smolensko pilies teisėjas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -83,24 +81,9 @@ Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendori
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 5"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
-  citata_originali: |
-    1756 m. kanauninkas pasakojo apie
-    Starodubo seimelio eigą. Jis teigė, kad seimelio metu labai stengėsi tarnauti pakanclerio
-    Mykolo Antano Sapiegos ir adresato Adomo Chmaros interesams. Jis rėmė Smolensko
-    pateisėjininkaitį, o tai buvo J. D. Lopacinskio draugystės su LDK referendoriumi Antanu
-    Tadu Pšezdeckiu (Antoni Tadeusz Przezdiecki) nenaudai. Seimelio metu referendorius
-    protegavo Smolensko pilies teisėją Stanislovą Pšezdeckį (Stanisław Przezdiecki).
-  citata_rodoma: |
-    1756 m. kanauninkas pasakojo apie Starodubo seimelio eigą. Jis teigė, kad seimelio metu labai stengėsi tarnauti pakanclerio
-    Mykolo Antano Sapiegos ir adresato Adomo Chmaros interesams. Jis rėmė Smolensko
-    pateisėjininkaitį, o tai buvo J. D. Lopacinskio draugystės su LDK referendoriumi Antanu
-    Tadu Pšezdeckiu (Antoni Tadeusz Przezdiecki) nenaudai. Seimelio metu referendorius
-    protegavo Smolensko pilies teisėją Stanislovą Pšezdeckį (Stanisław Przezdiecki).
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200485
-    - t-200486
+    - t-002
+    - t-001

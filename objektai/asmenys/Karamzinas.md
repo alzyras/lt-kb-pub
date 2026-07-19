@@ -31,28 +31,19 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
 
 <a id="claim-t-191246"></a>
 - t-001
-  global_id: t-191246
   teiginys: "Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiksmais ir teigė, kad miestas atstatytas XII a. pradžioje po to, kai poloviečiai jį sunaikino."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Poloviečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karamzinas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Poloviečiai: mention_match, group, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karamzinas\" parinktas kaip owner_note_path. Targetas \"Poloviečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174128
-    - c-001
+    - c-174131
+
 <a id="claim-t-191247"></a>
 - t-002
-  global_id: t-191247
   teiginys: "Karamzinas, Narbuto perteikimu, tyrimuose rašė apie vibionų, arba vitbionų, gentį ir jos sostinę Witsby prie Dauguvos, dabartinį Vitebską."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,7 +64,6 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
 
 <a id="claim-t-191248"></a>
 - t-003
-  global_id: t-191248
   teiginys: "Karamzinas, Narbuto nurodymu, įrodinėjo, kad poloviečiai patys save vadino Kipczak."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -91,10 +81,9 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174130
-    - c-003
+
 <a id="claim-t-191249"></a>
 - t-004
-  global_id: t-191249
   teiginys: "Narbutas vertino, kad Karamzinas tiksliai įminė miesto pavadinimų Serkel, Biala wieza, Biata wies ir Bieloserkal tapatumo klausimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -130,8 +119,6 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191246
 - c-003
   santrauka: 'Karamzinas, Narbuto nurodymu, įrodinėjo, kad poloviečiai patys save vadino Kipczak.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -145,8 +132,7 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191248
+
 ## Citatos
 
 - id: c-174128
@@ -164,21 +150,13 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
     riuos anksčiau kalbėjome (§ 51), minimas kraštas, kurį
     aprašome: nuo Oskolo miestelio, esančio prie to paties
     1 Tą patį reiškia ir senovės lenkų kalba (Siownik Synvida.
-  citata_rodoma: |
-    Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
-    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
-    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
-    toro žodžius priskiria poloviečių veiksmams dešiniojoje
-    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
-    statytas XII amžiaus pradžioje po to, kai jį sunaikino
-    poloviečiai.
+  citata_rodoma: "Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­\nramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­\nčios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­\ntoro žodžius priskiria poloviečių veiksmams dešiniojoje\nDnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­\nstatytas XII amžiaus pradžioje po to, kai jį sunaikino\npoloviečiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191246
 - id: c-174129
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -199,7 +177,8 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191247
+    - t-002
+
 - id: c-174130
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -213,18 +192,15 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
     ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
     kart priėmė net ir svetimšaliai, nes gerai jas pažinoję
     vengrai vadino šias gentis kumanais.
-  citata_rodoma: |
-    Dešiniojoje Dnep-
-    1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas
-    (t. II, priedas 112). Tad jų likučių turėtų būti pas Kapčiako toto­
-    rius Ir, ko gero, jie bus pasivadinę nuo Kapčiako krašto.
+  citata_rodoma: "Dešiniojoje Dnep-\n1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas\n(t. II, priedas 112). Tad jų likučių turėtų būti pas Kapčiako toto­\nrius Ir, ko gero, jie bus pasivadinę nuo Kapčiako krašto."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191248
+    - t-003
+
 - id: c-174131
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -244,4 +220,5 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191249
+    - t-001
+    - t-004

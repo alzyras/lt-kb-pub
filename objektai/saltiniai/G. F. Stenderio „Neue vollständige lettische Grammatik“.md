@@ -34,32 +34,6 @@ media_all_json: |-
 
 Gotchardo Frideriko Stenderio „Neue vollständige lettische Grammatik“ buvo išleista 1756 m. ir saugota T. Narbuto Saurų dvaro bibliotekoje.
 
-## Teiginiai
-
-<a id="claim-t-191835"></a>
-- t-001
-  global_id: t-191835
-  teiginys: "Gotchardo Frideriko Stenderio „Neue vollständige lettische Grammatik“ buvo išleista 1756 m. ir saugota T. Narbuto Saurų dvaro bibliotekoje."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Šaurų dvaras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "G. F. Stenderio „Neue vollständige lettische Grammatik“: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Šaurų dvaras: mention_match, place, gap=120"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"G. F. Stenderio „Neue vollständige lettische Grammatik“\" parinktas kaip owner_note_path. Targetas \"Šaurų dvaras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1756 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys gramatiškai suformuluotas apie šaltinio objektą ir remiasi išnašoje pateikta bibliografine bei proveniencine informacija. Papildomų faktų nepridėta."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174717
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gotchardo Frideriko Stenderio „Neue vollständige lettische Grammatik“ buvo išleista 1756 m. ir saugota T. Narbuto Saurų dvaro bibliotekoje.'
@@ -81,8 +55,7 @@ Gotchardo Frideriko Stenderio „Neue vollständige lettische Grammatik“ buvo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191835
+
 ## Citatos
 
 - id: c-174717
@@ -98,22 +71,36 @@ Gotchardo Frideriko Stenderio „Neue vollständige lettische Grammatik“ buvo 
     Pranciškaus Dmochovskio „Iliados“ variantas
     (Dziela Homerą.
     Tom drugi.
-  citata_rodoma: |
-    5 /P.
-    57,
-    (1)
-    išnaša/
-    Tai garsaus vokiečių mokslininko ir rašytojo Gotchardo Frideriko
-    Stenderio (1714—1796) veikalas
-    (Neue
-    vollständige
-    lettische
-    Grammatik. 1756). Jis buvo T. Narbuto Saurų dvaro bibliotekoje
-    ([Narbutt T.} Spisanie Muzeum w Szawrach. L. 18. Nr. 259).
+  citata_rodoma: "5 /P.\n57,\n(1)\nišnaša/\nTai garsaus vokiečių mokslininko ir rašytojo Gotchardo Frideriko\nStenderio (1714—1796) veikalas\n(Neue\nvollständige\nlettische\nGrammatik. 1756). Jis buvo T. Narbuto Saurų dvaro bibliotekoje\n([Narbutt T.} Spisanie Muzeum w Szawrach. L. 18. Nr. 259)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191835
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-191835"></a>
+- t-001
+  teiginys: "Gotchardo Frideriko Stenderio „Neue vollständige lettische Grammatik“ buvo išleista 1756 m. ir saugota T. Narbuto Saurų dvaro bibliotekoje."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Šaurų dvaras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "G. F. Stenderio „Neue vollständige lettische Grammatik“: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Šaurų dvaras: mention_match, place, gap=120"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"G. F. Stenderio „Neue vollständige lettische Grammatik“\" parinktas kaip owner_note_path. Targetas \"Šaurų dvaras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1756 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškai suformuluotas apie šaltinio objektą ir remiasi išnašoje pateikta bibliografine bei proveniencine informacija. Papildomų faktų nepridėta."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174717

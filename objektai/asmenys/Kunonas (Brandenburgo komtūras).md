@@ -44,7 +44,6 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
 
 <a id="claim-t-60163"></a>
 - t-001
-  global_id: t-60163
   teiginys: "Brolis Kunonas, Brandenburgo komtūras, su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir sudegino jų papilius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
 
 <a id="claim-t-60164"></a>
 - t-002
-  global_id: t-60164
   teiginys: "Kunonas, Brandenburgo komtūras, iš anksto įspėtas apie 600 Lietuvos vyrų žygį į Notangą, subūrė valdinius ir kelias dienas jų laukė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
 
 <a id="claim-t-184760"></a>
 - t-003
-  global_id: t-184760
   teiginys: "Kunonas, gavęs žinią apie priešą, patraukė su būriu į Notangą ir parinkęs vietą pasalai laukė lietuvių pasirodant."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -98,7 +95,6 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
 
 <a id="claim-t-197123"></a>
 - t-004
-  global_id: t-197123
   teiginys: "Kunonas (Brandenburgo komtūras) tarė: „Tikrai nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge turėjome keliauti ten, kur amžinos linksmybės“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -111,7 +107,6 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
 
 <a id="claim-t-197124"></a>
 - t-005
-  global_id: t-197124
   teiginys: "Kunonas (Brandenburgo komtūras) garsėjo kaip itin švelnus žmogus, visiems rodėsi toks malonus, jog apie jį tikrai buvo galima sakyti, kad jį mylėjo ir dievas, ir žmonės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -141,28 +136,16 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
     ir užsimušė. Kai kitą dieną pranešė broliui Heinemanui apie šio mirtį, jis tarė: „Tikrai
     nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge
     turėjome keliauti ten, kur amžinos linksmybės“.
-  citata_rodoma: |
-    Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
-
-      Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
-    Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės
-    pilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu
-    atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,
-    privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
-    lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
-
-
-
-
-             272 (265).
+  citata_rodoma: "Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais\n\n  Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis\nKunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės\npilis ir iki pamatų sudegino jų papilius; kada jis traukė atgal, prie jo prisijungė laivu\natplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais,\nprivertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus\nlietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.\n\n\n\n\n         272 (265)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60163
-    - t-197123
+    - t-001
+    - t-004
+
 - id: c-60796
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -187,8 +170,9 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60164
-    - t-197124
+    - t-002
+    - t-005
+
 - id: c-168121
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -211,25 +195,11 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
     Prūsiją; be paliovos puldinėjant lengvai ginkluotomis
     jėgomis, šių dviejų kraštų riteriai veikiau buvo erzi­
     nami nei naikinami.
-  citata_rodoma: |
-    Kai
-    Nemune vyko šios laivų grumtynės, šeši šimtai raite­
-    lių įsiveržė į Prūsiją ir, nuniokoję pražygiuojamus kai­
-    mus, įvarė baimės aplinkinėms žemėms, nes kaimiečiai
-    nežinojo, kuria kryptimi ir kokiomis jėgomis priešas
-    puls. Kunonas, gavęs žinią apie priešą, spėjo, jog šie
-    braunasi į Notangą (mat ši buvo arčiausiai); tada sku­
-    biai patraukė su būriu į šalį ir, parinkęs gerą vietą
-    pasaloms, pradėjo laukti jų pasirodant. Be abejonės,
-    lietuviai būtų buvę sumušti, jeigu, neatsargiai veikda­
-    mi, būtų patekę į šias pasalas, tačiau, laiku sužinoję
-    per žvalgus apie klastą, tol tūnojo nesirodydami miš­
-    kų tankmėse, kol Kunonas, pamanęs, jog jie jau bus
-    pasitraukę ir aplink visur saugu, paleido kariuomenę.
+  citata_rodoma: "Kai\nNemune vyko šios laivų grumtynės, šeši šimtai raite­\nlių įsiveržė į Prūsiją ir, nuniokoję pražygiuojamus kai­\nmus, įvarė baimės aplinkinėms žemėms, nes kaimiečiai\nnežinojo, kuria kryptimi ir kokiomis jėgomis priešas\npuls. Kunonas, gavęs žinią apie priešą, spėjo, jog šie\nbraunasi į Notangą (mat ši buvo arčiausiai); tada sku­\nbiai patraukė su būriu į šalį ir, parinkęs gerą vietą\npasaloms, pradėjo laukti jų pasirodant. Be abejonės,\nlietuviai būtų buvę sumušti, jeigu, neatsargiai veikda­\nmi, būtų patekę į šias pasalas, tačiau, laiku sužinoję\nper žvalgus apie klastą, tol tūnojo nesirodydami miš­\nkų tankmėse, kol Kunonas, pamanęs, jog jie jau bus\npasitraukę ir aplink visur saugu, paleido kariuomenę."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184760
+    - t-003

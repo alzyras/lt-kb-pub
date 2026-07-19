@@ -39,8 +39,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 ## Teiginiai
 
 <a id="claim-t-69309"></a>
-- t-001
-  global_id: t-69309
+- t-002
   teiginys: "Stalupėnai šaltinio rodyklėje tapatinami su dabartiniu Nesterovu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,13 +60,11 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     Kamienne) ež.
     Stalupėnai (dab. Nesterovas)
     Stanaičiai (dab.
-  citata_rodoma: |
-    Stalupėnai (dab. Nesterovas)
-    Stanaičiai (dab.
+  citata_rodoma: "Stalupėnai (dab. Nesterovas)\nStanaičiai (dab."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69309
+    - t-002

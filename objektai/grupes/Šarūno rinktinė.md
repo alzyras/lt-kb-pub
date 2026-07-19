@@ -40,8 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-49114"></a>
-- t-001
-  global_id: t-49114
+- t-003
   teiginys: "1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ media_all_json: |-
     - c-42991
 
 <a id="claim-t-49115"></a>
-- t-002
-  global_id: t-49115
+- t-001
   teiginys: "Šarūno rinktinė buvo viena iš trijų Algimanto apygardos rinktinių kartu su Kunigaikščio Margio ir Žaliąja rinktinėmis."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ media_all_json: |-
     - c-51214
 
 <a id="claim-t-49116"></a>
-- t-003
-  global_id: t-49116
+- t-002
   teiginys: "Čekistai puolė Šarūno rinktinės štabo bunkerį, kurio vietą jiems nurodė Balys."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -107,25 +104,15 @@ media_all_json: |-
     apygardos ir Šarūno rinktinės štabai,
 
     1949 m. lapkričio 1-3 d. ŠIMONIŲ GIRIOS APGULTIS
-  citata_rodoma: |
-    Mūšio padariniai
-    Didžiausias laisvės kovotojų ir NKVD susi-
-    rėmimas įvyko 1949 m. lapkričio 1-2 dieno-
-    mis, kai partizanų bunkeriai buvo išduoti.
-    Šimonių girioje sovietų kariai susprogdino
-    aštuonis partizanų bunkerius: žuvo 33 parti-
-    zanai, 10 laisvės kovotojų pateko į nelaisvę.
-    1949 m. rudenį buvo sunaikinti Algimanto
-    apygardos ir Šarūno rinktinės štabai,
-
-    1949 m.
+  citata_rodoma: "Mūšio padariniai\nDidžiausias laisvės kovotojų ir NKVD susi-\nrėmimas įvyko 1949 m. lapkričio 1-2 dieno-\nmis, kai partizanų bunkeriai buvo išduoti.\nŠimonių girioje sovietų kariai susprogdino\naštuonis partizanų bunkerius: žuvo 33 parti-\nzanai, 10 laisvės kovotojų pateko į nelaisvę.\n1949 m. rudenį buvo sunaikinti Algimanto\napygardos ir Šarūno rinktinės štabai,\n\n1949 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49114
+    - t-003
+
 - id: c-51214
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -143,7 +130,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49115
+    - t-001
+
 - id: c-51215
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -205,4 +193,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49116
+    - t-002

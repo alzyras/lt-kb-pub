@@ -37,7 +37,6 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
 
 <a id="claim-t-20865"></a>
 - t-001
-  global_id: t-20865
   teiginys: "Mintis „Po kuo būti geriau – rusais ar vokiečiais“ reiškė mažos valstybės realių galimybių įvertinimą, o ne išankstinį pasidavimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
 
 <a id="claim-t-183501"></a>
 - t-002
-  global_id: t-183501
   teiginys: "Mintis „Po kuo būti geriau – rusais ar vokiečiais“ reiškė mažos valstybės galimybių įvertinimą, o ne išankstinį pasidavimą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -110,15 +108,15 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
     karštai kedenta ne tik kavinėse, bet ir prezidentūroje – daugelis Europos
     valstybių jau buvo nacių okupuotos, Lenkija – grobuonių pasidalyta, tad
     ir Baltijos valstybėse suvokta, jog artėja jų eilė.
-  citata_rodoma: |
-    ir svarstė ne tik savo, valstybės, bet ir tautos galimybes išlikti. Mintis „Po
+  citata_rodoma: "ir svarstė ne tik savo, valstybės, bet ir tautos galimybes išlikti. Mintis „Po"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20865
+    - t-001
+
 - id: c-166895
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -141,4 +139,4 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183501
+    - t-002

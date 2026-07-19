@@ -40,7 +40,6 @@ Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau
 
 <a id="claim-t-191596"></a>
 - t-001
-  global_id: t-191596
   teiginys: "Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau Teodoras Narbutas su tokia išvada nesutiko."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau
 
 <a id="claim-t-197592"></a>
 - t-002
-  global_id: t-197592
   teiginys: "Heningas Henning sako, kad dar jo laikais apie Drohiciną buvo kalbama jotvingių kalba ir lietuviai negalėdavo nė žodžio suprasti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -91,5 +89,5 @@ Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191596
-    - t-197592
+    - t-001
+    - t-002

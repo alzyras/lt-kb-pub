@@ -7,12 +7,12 @@ datos:
   - '1554 m.'
 date_start: '1554'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-202150"></a>
 - t-001
-  global_id: t-202150
   teiginys: "Štai 1554 m. Kauno miestietis Andrius Oršuliškis Kauno vaito teisme apskundė savo vytinės laivavedį Motiejų Židelį, kad šis, nors dar rudenį buvo įsakytas ištraukti pergą į krantą Aleksote (na lixthat ieszcze w iesieni wiwindowac pergę), to nepadarė ir."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202150
+    - t-001

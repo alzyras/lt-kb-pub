@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-34819"></a>
 - t-001
-  global_id: t-34819
   teiginys: "1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,6 +74,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34819
+    - t-001
+
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Ringailė]]

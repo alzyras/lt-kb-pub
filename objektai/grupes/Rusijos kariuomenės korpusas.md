@@ -30,8 +30,7 @@ Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojo
 ## Teiginiai
 
 <a id="claim-t-41132"></a>
-- t-001
-  global_id: t-41132
+- t-002
   teiginys: "Trečiojoje kovų fazėje Rusijos kariuomenės korpusą papildė Pavelo Cicijanovo ir Ivano Hermano daliniai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojo
     - c-42913
 
 <a id="claim-t-41133"></a>
-- t-002
-  global_id: t-41133
+- t-001
   teiginys: "Liepos 19-20 d. Vilnių puolė Bogdano Knorringo Rusijos kariuomenės korpusas, turėjęs 8 tūkst. pėstininkų, 4 tūkst. raitelių ir 46 pabūklus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,8 @@ Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41132
+    - t-002
+
 - id: c-44842
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -100,21 +99,15 @@ Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojo
     pėstininkų, 4 tūkst. raite-
     lių, 46 artilerijos pabūklai,
     pusė jų - stambaus kalibro.
-  citata_rodoma: |
-    Liepos 19-20 dienomis Vilnių
-    puolė gen. ltn. Bogdano Knor-
-    ringo Rusijos kariuomenės kor-
-    pusas kuriame buvo 8 tūkst.
-    pėstininkų, 4 tūkst. raite-
-    lių, 46 artilerijos pabūklai,
-    pusė jų - stambaus kalibro.
+  citata_rodoma: "Liepos 19-20 dienomis Vilnių\npuolė gen. ltn. Bogdano Knor-\nringo Rusijos kariuomenės kor-\npusas kuriame buvo 8 tūkst.\npėstininkų, 4 tūkst. raite-\nlių, 46 artilerijos pabūklai,\npusė jų - stambaus kalibro."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41133
+    - t-001
+
 ## Ryšiai
 - Rusijos kariuomenės korpusas keliavo į [[objektai/vietos/Vilnius]]
 - Rusijos kariuomenės korpusas puolė [[objektai/vietos/Vilnius]]

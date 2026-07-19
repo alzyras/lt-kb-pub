@@ -7,12 +7,12 @@ datos:
   - '1530 m.'
 date_start: '1530'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Ankstyviausias žinomas išmarinio turto dovanojimo atvejis Kaune yra 1530 m. Ž
 
 <a id="claim-t-202063"></a>
 - t-001
-  global_id: t-202063
   teiginys: "Ankstyviausias žinomas išmarinio turto dovanojimo atvejis Kaune yra 1530 m. Žygimanto Senojo suteiktis dvarioniui Ivanui Kuncovičiui."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Ankstyviausias žinomas išmarinio turto dovanojimo atvejis Kaune yra 1530 m. Ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202063
+    - t-001

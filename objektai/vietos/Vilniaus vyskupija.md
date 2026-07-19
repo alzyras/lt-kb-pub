@@ -32,8 +32,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 ## Teiginiai
 
 <a id="claim-t-110178"></a>
-- t-001
-  global_id: t-110178
+- t-006
   teiginys: "Kaltinamasis teigė esąs Vilniaus vyskupijos valdinys ir pilietis, todėl siekė būti grąžintas į jos teismą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - c-102069
 
 <a id="claim-t-110179"></a>
-- t-002
-  global_id: t-110179
+- t-007
   teiginys: "Vilniaus vyskupijos bažnyčiose kova už lietuvių kalbos teises neretai virsdavo lenkų ir lietuvių muštynėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,8 +65,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - c-102072
 
 <a id="claim-t-110180"></a>
-- t-003
-  global_id: t-110180
+- t-005
   teiginys: "Jurgis Radvila, matydamas kunigų trūkumą Vilniaus vyskupijoje, nusprendė funduoti kolegiją lietuvių ir rusų jaunuoliams auklėti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,8 +81,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - c-102070
 
 <a id="claim-t-110181"></a>
-- t-004
-  global_id: t-110181
+- t-003
   teiginys: "Jurgis Radvila Vilniaus vyskupijoje nusprendė įsteigti ir funduoti klierikų kolegiją lietuvių ir rusų jaunuoliams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,7 +129,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110178
+    - t-006
+
 - id: c-102070
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -168,7 +165,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110180
+    - t-005
+
 - id: c-102071
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -204,7 +202,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110181
+    - t-003
+
 - id: c-102072
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -225,6 +224,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110179
+    - t-007
+
 ## Ryšiai
 - Vilniaus vyskupija priklausė [[objektai/vietos/Gniezno]]

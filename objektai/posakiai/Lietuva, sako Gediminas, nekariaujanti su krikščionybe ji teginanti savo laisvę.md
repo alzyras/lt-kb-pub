@@ -34,8 +34,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-06877"></a>
-- t-001
-  global_id: t-06877
+- t-002
   teiginys: "Gediminas teigė, kad Lietuva nekariauja su krikščionybe, o tik gina savo laisvę."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -61,13 +60,11 @@ media_all_json: |-
     tęs ne kunigus, o savo kariuomenę. Maža to, ordinas net suimi-
     nėjąs į Lietuvą vykstančius kunigus. Lietuva, sako Gediminas,
     nekariaujanti su krikščionybe: ji teginanti savo laisvę.
-  citata_rodoma: |
-    Lietuva, sako Gediminas,
-    nekariaujanti su krikščionybe: ji teginanti savo laisvę.
+  citata_rodoma: "Lietuva, sako Gediminas,\nnekariaujanti su krikščionybe: ji teginanti savo laisvę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-06877
+    - t-002

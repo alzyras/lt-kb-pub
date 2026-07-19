@@ -39,7 +39,6 @@ Maciūnas : Orzechowski, LE, t.
 
 <a id="claim-t-194840"></a>
 - t-001
-  global_id: t-194840
   teiginys: "Susidomėjimas lietuvių mitologija plito tarp Vilniaus universiteto studentų ir profesorių, nors jo rektorius Jonas Sniadeckis ir piktinosi jau nųjų lenkų romantikų susižavėjimu senaisiais tikėjimais, sak 1 Maciūnas L Lituanistinis sąjūdis XIX a."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,7 @@ Maciūnas : Orzechowski, LE, t.
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177236
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Susidomėjimas lietuvių mitologija plito tarp Vilniaus universiteto studentų ir profesorių, nors jo rektorius Jonas Sniadeckis ir piktinosi jau nųjų lenkų romantikų susižavėjimu senaisiais tikėjimais, sak 1 Maciūnas L Lituanistinis sąjūdis XIX a.'
@@ -67,8 +66,7 @@ Maciūnas : Orzechowski, LE, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194840
+
 ## Citatos
 
 - id: c-177236
@@ -88,17 +86,11 @@ Maciūnas : Orzechowski, LE, t.
     T Narbutas lietuvių mitologija pradėjo domėtis dar vei­
     kiamas senosios, nuo Renesanso laikų besitęsiančios mitolo-
     6 Ten pat.
-  citata_rodoma: |
-    Susidomėjimas
-    lietuvių mitologija plito tarp Vilniaus universiteto studentų ir
-    profesorių, nors jo rektorius Jonas Sniadeckis ir piktinosi jau­
-    nųjų lenkų romantikų susižavėjimu senaisiais tikėjimais, sak­
-    1 Maciūnas L Lituanistinis sąjūdis XIX a. pradžioje. -  K., 1939. -
-    P. 34.
+  citata_rodoma: "Susidomėjimas\nlietuvių mitologija plito tarp Vilniaus universiteto studentų ir\nprofesorių, nors jo rektorius Jonas Sniadeckis ir piktinosi jau­\nnųjų lenkų romantikų susižavėjimu senaisiais tikėjimais, sak­\n1 Maciūnas L Lituanistinis sąjūdis XIX a. pradžioje. -  K., 1939. -\nP. 34."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194840
+    - t-001

@@ -33,7 +33,6 @@ Atėjęs ant rubežiaus, paliko tenai pėsčiuosius, o su viena jočia grūdos �
 
 <a id="claim-t-201171"></a>
 - t-001
-  global_id: t-201171
   teiginys: "Atėjęs ant rubežiaus, paliko tenai pėsčiuosius, o su viena jočia grūdos į sritį, vadinamą Meruniškę, kurią visą į tyrą apvertęs, 18 pilių sugriovė ir jomylistas jų nu galavo; sugriejęs tenai neapseikimas gėrybes ir turtus, su didžia daugybe imtinių pagrįžo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Atėjęs ant rubežiaus, paliko tenai pėsčiuosius, o su viena jočia grūdos �
 ## Citatos
 
 - id: c-184521
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mistras kryžėjų, tuo kartu laimingai sugrįžęs,
     skubinai sukėlė vėl karėjus ir su didesne kariauna
@@ -82,4 +82,4 @@ Atėjęs ant rubežiaus, paliko tenai pėsčiuosius, o su viena jočia grūdos �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201171
+    - t-001

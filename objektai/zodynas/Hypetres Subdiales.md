@@ -31,7 +31,6 @@ Narbutas Hypetres, arba Subdiales, vadina atviras antikos apeigų ir pasitarimų
 
 <a id="claim-t-189297"></a>
 - t-001
-  global_id: t-189297
   teiginys: "Narbutas Hypetres, arba Subdiales, vadina atviras antikos apeigų ir pasitarimų vietas ant neapaugusių, į visas puses atvirų kalnų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Narbutas Hypetres, arba Subdiales, vadina atviras antikos apeigų ir pasitarimų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189297
+    - t-001

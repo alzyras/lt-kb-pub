@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-86926"></a>
 - t-001
-  global_id: t-86926
   teiginys: "Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Viliją, o iš nustatyto tilto mokesčio susigrąžino statybos išlaidas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86926
+    - t-001

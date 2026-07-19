@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-86582"></a>
 - t-001
-  global_id: t-86582
   teiginys: "1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę dėl Dievo Kūno arkibrolijos steigimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86582
+    - t-001

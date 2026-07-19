@@ -31,7 +31,6 @@ Plinijaus užrašytame pasakojime Kapadokijos karalius Archelajas teigė, kad i�
 
 <a id="claim-t-191940"></a>
 - t-001
-  global_id: t-191940
   teiginys: "Plinijaus užrašytame pasakojime Kapadokijos karalius Archelajas teigė, kad iš Indijos atvežama gintaro žaliava dar neatskirta nuo medžių žievės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Plinijaus užrašytame pasakojime Kapadokijos karalius Archelajas teigė, kad i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191940
+    - t-001

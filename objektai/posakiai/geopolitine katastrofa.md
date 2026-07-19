@@ -31,7 +31,6 @@ Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa, nors yra pasmerkus
 
 <a id="claim-t-26350"></a>
 - t-001
-  global_id: t-26350
   teiginys: "Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa ir teigia, kad Baltijos valstybės neva savo noru įstojo į SSRS."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa, nors yra pasmerkus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26350
+    - t-001

@@ -35,9 +35,8 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
 
 ## Teiginiai
 
-<a id="claim-t-78390"></a>
-- t-001
-  global_id: t-78390
+<a id="claim-t-78388"></a>
+- t-003
   teiginys: "Balandžio 23 d. lietuviams puolant Vilniuje buvusią rusų įgulą, joje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,11 +54,11 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
   temporalinis_llm_pakomentavimas: "Perrašyta pašalinant netikslų sutrumpinimą ir OCR konteksto triukšmą."
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
-    - c-75671
     - c-75670
+    - c-75671
+
 <a id="claim-t-78389"></a>
 - t-002
-  global_id: t-78389
   teiginys: "Narvos muškietininkų pulko dvi kuopos saugojo hauptvachtą prie Šv. Kazimiero bažnyčios."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -94,7 +93,8 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78389
+    - t-002
+
 - id: c-75670
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -118,31 +118,15 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
     letas kitų smulkesnių dalinių. Iš
     viso 2500 pėstininkų, 300 rai-
     telių ir 19 artilerijos pabūklų.
-  citata_rodoma: |
-    Mėginta šautuvus gaminti Gardine,
-
-    tačiau vadovybė savais gamintojais nepasitikėjo
-
-    Rusijos pajėgos
-
-    Lietuviams puolant balandžio 23 d.
-    Vilniuje buvusią rusų įgulą sudarė:
-    Narvos muškietininkų pulko vienas
-    batalionas ir trys kompanijos (kuo-
-    pos), Pskovo muškietininkų pul-
-    ko du batalionai, Dono kazokų
-    pulkas, keturios lauko artileri-
-    jos kompanijos (kuopos) ir ke-
-    letas kitų smulkesnių dalinių. Iš
-    viso 2500 pėstininkų, 300 rai-
-    telių ir 19 artilerijos pabūklų.
+  citata_rodoma: "Mėginta šautuvus gaminti Gardine,\n\ntačiau vadovybė savais gamintojais nepasitikėjo\n\nRusijos pajėgos\n\nLietuviams puolant balandžio 23 d.\nVilniuje buvusią rusų įgulą sudarė:\nNarvos muškietininkų pulko vienas\nbatalionas ir trys kompanijos (kuo-\npos), Pskovo muškietininkų pul-\nko du batalionai, Dono kazokų\npulkas, keturios lauko artileri-\njos kompanijos (kuopos) ir ke-\nletas kitų smulkesnių dalinių. Iš\nviso 2500 pėstininkų, 300 rai-\ntelių ir 19 artilerijos pabūklų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78390
+    - t-003
+
 - id: c-75671
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -166,3 +150,5 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

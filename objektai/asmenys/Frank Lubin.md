@@ -40,7 +40,6 @@ Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europ
 
 <a id="claim-t-18894"></a>
 - t-001
-  global_id: t-18894
   teiginys: "Krepšininkas Frank Lubin su Lietuvos rinktine tapo Europos čempionu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,12 +89,11 @@ Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europ
     pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),
     boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
     garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
-  citata_rodoma: |
-    garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
+  citata_rodoma: "garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18894
+    - t-001

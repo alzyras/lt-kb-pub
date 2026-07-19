@@ -31,7 +31,6 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 
 <a id="claim-t-193669"></a>
 - t-001
-  global_id: t-193669
   teiginys: "Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -44,7 +43,6 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 
 <a id="claim-t-193670"></a>
 - t-002
-  global_id: t-193670
   teiginys: "Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lietuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažinimo dokumentu."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,8 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193669
+    - t-001
+
 - id: c-176339
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -95,4 +94,4 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193670
+    - t-002

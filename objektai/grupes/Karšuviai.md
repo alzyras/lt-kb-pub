@@ -37,7 +37,6 @@ Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą 1307 metais Brolis F
 
 <a id="claim-t-62603"></a>
 - t-001
-  global_id: t-62603
   teiginys: "1307 metais Ragainės komtūro pasiųstas Hildebrandas iš Rebergo įsiveržė į Karšuvos žemę, ją degino, plėšė ir išsivarė 70 belaisvių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,23 +67,11 @@ Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą 1307 metais Brolis F
     prieš juos; šis, pasiėmęs keletą brolių ir 80 karių, įsiveržė į minėtąją Karšuvos žemę, iš
     kur, daug ką sudeginęs bei apiplėšęs, išsivarė 70 belaisvių.
     298 (291).
-  citata_rodoma: |
-    297 (290). Apie Karšuvos žemės nusiaubimą 1307 metais
-
-       Brolis Folčas, arba Folradas, Ragainės komtūras, išgirdęs, jog karšuviai išžygiavo su
-    kariuomene prieš Klaipėdos brolius, įsakė broliui Hildebrandui iš Rebergo traukti į karą
-
-    prieš juos; šis, pasiėmęs keletą brolių ir 80 karių, įsiveržė į minėtąją Karšuvos žemę, iš
-    kur, daug ką sudeginęs bei apiplėšęs, išsivarė 70 belaisvių.
-
-
-
-
-                      298 (291).
+  citata_rodoma: "297 (290). Apie Karšuvos žemės nusiaubimą 1307 metais\n\n   Brolis Folčas, arba Folradas, Ragainės komtūras, išgirdęs, jog karšuviai išžygiavo su\nkariuomene prieš Klaipėdos brolius, įsakė broliui Hildebrandui iš Rebergo traukti į karą\n\nprieš juos; šis, pasiėmęs keletą brolių ir 80 karių, įsiveržė į minėtąją Karšuvos žemę, iš\nkur, daug ką sudeginęs bei apiplėšęs, išsivarė 70 belaisvių.\n\n\n\n\n                  298 (291)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62603
+    - t-001

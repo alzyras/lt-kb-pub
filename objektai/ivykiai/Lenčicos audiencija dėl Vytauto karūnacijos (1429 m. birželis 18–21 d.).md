@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-35850"></a>
 - t-001
-  global_id: t-35850
   teiginys: "Lenčicos audiencijoje Lietuvos delegacija Vytauto vardu pareiškė, kad Vytautas priims karūną nepriklausomai nuo Jogailos pritarimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-184233"></a>
 - t-002
-  global_id: t-184233
   teiginys: "Lenčicoje lietuvių delegacija Vytauto vardu pareiškė, kad Vytautas priims karūną nepaisydamas Jogailos pritarimo."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -110,7 +108,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35850
+    - t-001
+
 - id: c-167617
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -130,4 +129,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184233
+    - t-002

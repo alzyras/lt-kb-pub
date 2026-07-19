@@ -33,7 +33,6 @@ Toliaus dar tasai Pitėjas taip pasakoja: tenai attakotame bei išgraužotame j�
 
 <a id="claim-t-201248"></a>
 - t-001
-  global_id: t-201248
   teiginys: "Toliaus dar tasai Pitėjas taip pasakoja: tenai attakotame bei išgraužotame jūros bangiomis krašte gyvenanti dvi tauti — aestijonų ir gutonų, kursai kraštas vadinęsis Mentonomon, 6000 straipsnių pla tus, nuo kurio viena diena gali nuirkluoti jūra pa gal į."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Toliaus dar tasai Pitėjas taip pasakoja: tenai attakotame bei išgraužotame j�
 ## Citatos
 
 - id: c-184598
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Stokodami tenai giedrų, javus kulian-
     tys rejose, o kišimą džioviną duobose; kitaip, sako
@@ -69,4 +69,4 @@ Toliaus dar tasai Pitėjas taip pasakoja: tenai attakotame bei išgraužotame j�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201248
+    - t-001

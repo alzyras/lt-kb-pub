@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-49171"></a>
-- t-001
-  global_id: t-49171
+- t-008
   teiginys: "Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -69,8 +68,7 @@ Nenurodyta
     - c-51239
 
 <a id="claim-t-49172"></a>
-- t-002
-  global_id: t-49172
+- t-005
   teiginys: "1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -90,8 +88,7 @@ Nenurodyta
     - c-11877
 
 <a id="claim-t-49173"></a>
-- t-003
-  global_id: t-49173
+- t-006
   teiginys: "Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -108,8 +105,7 @@ Nenurodyta
     - c-11879
 
 <a id="claim-t-49174"></a>
-- t-004
-  global_id: t-49174
+- t-007
   teiginys: "Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė, o žinia apie ją pasklido visoje Europoje."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -159,7 +155,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49172
+    - t-005
+
 - id: c-11879
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -190,7 +187,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49173
+    - t-006
+
 - id: c-51239
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -217,7 +215,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49171
-    - t-49174
+    - t-008
+    - t-007
+
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Kazokai]], [[objektai/grupes/Lietuviai]]

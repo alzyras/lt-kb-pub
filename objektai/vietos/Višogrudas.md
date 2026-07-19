@@ -31,26 +31,17 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 
 <a id="claim-t-58487"></a>
 - t-001
-  global_id: t-58487
   teiginys: "Magistras Poponas su savo ir kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo pilies ir ten įsirengė stovyklą."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pomeranai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Višogrudas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pomeranai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Višogrudas\" parinktas kaip owner_note_path. Targetas \"Pomeranai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59119
-    - c-001
+    - c-167601
+
 <a id="claim-t-58488"></a>
 - t-002
-  global_id: t-58488
   teiginys: "Višogrudas tapatinamas su dabartiniu Fordonu kairiajame Vyslos krante prie Bidgoščiaus, kur išliko piliakalnis."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vysla: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -62,10 +53,9 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59121
-    - c-002
+
 <a id="claim-t-58489"></a>
 - t-003
-  global_id: t-58489
   teiginys: "Magistro pasiųsta kariuomenė Lenkijoje apsupo Višogrudą, Lenkijos karaliaus pilį prie Vyslos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -108,8 +98,6 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58487
 - c-002
   santrauka: 'Višogrudas tapatinamas su dabartiniu Fordonu kairiajame Vyslos krante prie Bidgoščiaus, kur išliko piliakalnis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -121,8 +109,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58488
+
 ## Citatos
 
 - id: c-59119
@@ -137,20 +124,13 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     sustojo viename kaime, kur vyskupas šventino kapines. Šventinimo metu, kai vyskupas
     šlakstė švęstu vandeniu mirusiųjų kapus, vieno numirėlio kūnas pakilo iš kapo ir atsišliejo
     bažnyčios sienos.
-  citata_rodoma: |
-    Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
-
-       Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
-    Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie
-    Višogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su
-    galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.
+  citata_rodoma: "Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų\n\n   Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs\nSventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie\nVišogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su\ngalybe savo karių stovįs prie Svečės pilies ir ją stiprinąs."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-58487
 - id: c-59121
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -163,16 +143,15 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     kančios sujaudino Vokietijos kunigaikščius bei kilminguosius, o Austrijos kunigaikštis294
     pasiuntė jiems talkinti savo stalininką Druzigerį su didele kariuomene ir su įgudusiais
     kariauti vyrais, be to, atvyko riteris Henrikas iš Lichtenšteino, o su juo daug maldininkų.
-  citata_rodoma: |
-    291 D.— juxtа castrum Wischerot, Jer — zu Wischegrot — Višogrudas, Wyszogród
-    — dab. Fordonas kair. Vyslos krante, prie Bidgoščiaus. Išliko piliakalnis.
+  citata_rodoma: "291 D.— juxtа castrum Wischerot, Jer — zu Wischegrot — Višogrudas, Wyszogród\n— dab. Fordonas kair. Vyslos krante, prie Bidgoščiaus. Išliko piliakalnis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58488
+    - t-002
+
 - id: c-167601
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -200,6 +179,8 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58489
+    - t-001
+    - t-003
+
 ## Ryšiai
 - Apgulė Višogrudą: [[objektai/grupes/Kryžiuočių ordinas]]

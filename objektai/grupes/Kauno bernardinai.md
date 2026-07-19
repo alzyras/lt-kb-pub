@@ -8,11 +8,11 @@ datos:
   - '1656 m.'
 date_start: '1483'
 date_end: '1656'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-201848"></a>
 - t-001
-  global_id: t-201848
   teiginys: "Štai 1483 m. Strasburge išleisto Johano Herolto knygoje Sermones discipuli de tempore et de sanetis yra įrašyta, kad ją Kauno bernardinų vienuolynui parūpino XV-XVI a."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ media_all_json: |-
 
 <a id="claim-t-201849"></a>
 - t-002
-  global_id: t-201849
   teiginys: "Iš pradžių Kauno bernardinų knygų rinkinys buvo nedidelis, jis kentėjo nuo vienuolyno ir Šv."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201848
+    - t-001
 
 - id: c-185196
   autorius: "Zigmantas Kiaupa"
@@ -95,4 +93,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201849
+    - t-002

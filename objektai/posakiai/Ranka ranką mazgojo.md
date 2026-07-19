@@ -28,7 +28,6 @@ Basanavičius posakį „Ranka ranką mazgojo“ siejo su padėtimi, kai ūkinin
 
 <a id="claim-t-200907"></a>
 - t-001
-  global_id: t-200907
   teiginys: "Basanavičius posakį „Ranka ranką mazgojo“ siejo su padėtimi, kai ūkininkų valdžia buvo, jo žodžiais, „visgalingo pono“ rankose."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Basanavičius posakį „Ranka ranką mazgojo“ siejo su padėtimi, kai ūkinin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200907
+    - t-001

@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-87308"></a>
 - t-001
-  global_id: t-87308
   teiginys: "Gardino seimo privilegija Vilniaus miestiečius, nepriekaištingai ėjusius vaito, tarybos nario ar šuolininko pareigas, pakėlė į bajorų luomą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,4 +102,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87308
+    - t-001

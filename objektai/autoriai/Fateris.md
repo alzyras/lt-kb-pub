@@ -29,30 +29,8 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
 
 ## Teiginiai
 
-<a id="claim-t-190350"></a>
-- t-001
-  global_id: t-190350
-  teiginys: "Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie krivį."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lėrbergas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fateris: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lėrbergas: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fateris\" parinktas kaip owner_note_path. Targetas \"Lėrbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173234
-
 <a id="claim-t-190351"></a>
 - t-002
-  global_id: t-190351
   teiginys: "Pasak Narbuto, Fateris Dusburgiečio žinią apie krivį laikė nesusipratimu dėl rusinų, latviškai vadinamų krieviais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,7 +51,6 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
 
 <a id="claim-t-197290"></a>
 - t-003
-  global_id: t-197290
   teiginys: "Fateris išspręsdavo privačių asmenų ir žemių arba vienos genties atskirų kaimų ginčus."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -86,7 +63,6 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
 
 <a id="claim-t-197291"></a>
 - t-004
-  global_id: t-197291
   teiginys: "Fateris kalba apie kadaise buvusį šventą Romovės miestą, kaip apie krivio buveine."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -99,7 +75,6 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
 
 <a id="claim-t-197292"></a>
 - t-005
-  global_id: t-197292
   teiginys: "Fateris po ranka turėjo istorijos šaltinius, kurie bylojo, kad ši pareigybė Lietuvoje gyvavo labai ilgai; tie šaltiniai galėjo papasakoti ir daugiau smulkmenų."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -130,7 +105,8 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197290
+    - t-003
+
 - id: c-173234
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -158,9 +134,9 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190350
-    - t-190351
-    - t-197292
+    - t-002
+    - t-005
+
 - id: c-179107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -184,4 +160,4 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197291
+    - t-004

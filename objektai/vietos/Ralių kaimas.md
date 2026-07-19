@@ -31,7 +31,6 @@ Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai 
 
 <a id="claim-t-42085"></a>
 - t-001
-  global_id: t-42085
   teiginys: "Dar saulei netekėjus prie Ralių kaimo miško pasigirdo automatų šūviai, o vyrai pakilo ir išėjo į savo vietas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,13 +56,11 @@ Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai 
     Sugrįžę apie 24 val. pas ūkininką, miške ra-
     dome pilna vyrų. Dar saulei netekėjus Ralių k. prie miško pasigirdo
     automatų šūviai. Vyrai sukilo ir išėjo į savo vietas.
-  citata_rodoma: |
-    Dar saulei netekėjus Ralių k. prie miško pasigirdo
-    automatų šūviai. Vyrai sukilo ir išėjo į savo vietas.
+  citata_rodoma: "Dar saulei netekėjus Ralių k. prie miško pasigirdo\nautomatų šūviai. Vyrai sukilo ir išėjo į savo vietas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42085
+    - t-001

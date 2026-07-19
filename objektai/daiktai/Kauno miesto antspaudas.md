@@ -9,11 +9,11 @@ datos:
   - '1540 m.'
 date_start: '1432'
 date_end: '1540'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-201982"></a>
 - t-001
-  global_id: t-201982
   teiginys: "Senojo Kauno miesto antspaudas Ankstyviausias gerai išlikęs Kauno miesto antspaudas buvo įspaustas 1471 m. Kauno miesto tarybos rašte Rygos tarybai."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Nenurodyta
 
 <a id="claim-t-201983"></a>
 - t-002
-  global_id: t-201983
   teiginys: "Miesto savivalda buvo miestiečių bendruomenės būklė ir kartu įrankis užtikrinti ir ginti savo teises ne visada miestiečiams palankioje luominėje visuomenėje ir santykiuose su kitais miestais."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -75,6 +73,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185330
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -97,7 +98,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201982
+    - t-001
 
 - id: c-185330
   autorius: "Zigmantas Kiaupa"
@@ -116,4 +117,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201983
+    - t-002

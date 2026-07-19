@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-87768"></a>
 - t-001
-  global_id: t-87768
   teiginys: "1563 m. Vilniaus burmistras Lukas Opachovskis atstovavo Lietuvos Didžiosios Kunigaikštystės miestams Karalystės seime Varšuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,32 +88,11 @@ media_all_json: |-
     tystės delegatais 1569 metų liepos 1-ą dieną pasirašė šlovingąjį
     susivienijimo dekretą, Lietuvos paskelbtą Lenkijos pasiunti­
     niams.
-  citata_rodoma: |
-    Iš kur jis atsiradęs, tai gal vėliau
-    daugiau paaiškės.
-    40
-    Dar prieš kelerius metus, nes jau 1563
-    metais Vilniaus burmistrai - Lukas
-    Opachovskis ir Zenonas Zažeckis -
-    atstovavo Lietuvos Didžiosios Kuni­
-    gaikštystės miestams Karalystės sei­
-    me Varšuvoje ir yra paminėti to pa-
-    280
-
-    ## Puslapis 297
-
-    IV KNYGA
-    Vilnius ir pasinaudojo savo prerogatyva abiejų tautų Unijos
-    seime, vykusiame Liubline, ir sostinės Vilniaus pasiuntiniai bur­
-    mistrai Francas Dumikas, Teodoras Jackovičius ir raštininkas
-    Jeronimas Opachovskis kartu su kitais Didžiosios kunigaikš­
-    tystės delegatais 1569 metų liepos 1-ą dieną pasirašė šlovingąjį
-    susivienijimo dekretą, Lietuvos paskelbtą Lenkijos pasiunti­
-    niams.
+  citata_rodoma: "Iš kur jis atsiradęs, tai gal vėliau \ndaugiau paaiškės.\n40\nDar prieš kelerius metus, nes jau 1563 \nmetais Vilniaus burmistrai - Lukas \nOpachovskis ir Zenonas Zažeckis - \natstovavo Lietuvos Didžiosios Kuni­\ngaikštystės miestams Karalystės sei­\nme Varšuvoje ir yra paminėti to pa-\n280\n\n## Puslapis 297\n\nIV KNYGA\nVilnius ir pasinaudojo savo prerogatyva abiejų tautų Unijos \nseime, vykusiame Liubline, ir sostinės Vilniaus pasiuntiniai bur­\nmistrai Francas Dumikas, Teodoras Jackovičius ir raštininkas \nJeronimas Opachovskis kartu su kitais Didžiosios kunigaikš­\ntystės delegatais 1569 metų liepos 1-ą dieną pasirašė šlovingąjį \nsusivienijimo dekretą, Lietuvos paskelbtą Lenkijos pasiunti­\nniams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87768
+    - t-001

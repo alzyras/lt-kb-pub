@@ -43,7 +43,6 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
 
 <a id="claim-t-88023"></a>
 - t-001
-  global_id: t-88023
   teiginys: "Hartknocho prielaida, kad Vilnius buvo vadinamas Castrum Gedemini, Balińskio tekste atmetama."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
 
 <a id="claim-t-188400"></a>
 - t-002
-  global_id: t-188400
   teiginys: "Narbutas Hartknochą kartu su Škicu, Henenbergeriu ir Kojalavičiumi kaltino apšmeižus senovės lietuvius, esą šie greitindavę ligonių ir mirštančiųjų mirtį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
 
 <a id="claim-t-188401"></a>
 - t-003
-  global_id: t-188401
   teiginys: "Narbutas nurodė, kad jam žinomuose rankraščiuose Dusburgiečio tekstas nesiskyrė nuo Hartknocho paskelbto teksto."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -99,10 +96,9 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171291
-    - c-003
+
 <a id="claim-t-190698"></a>
 - t-004
-  global_id: t-190698
   teiginys: "Hartknocho išleistame Dusburgo veikale Ragainė, Narbuto teigimu, klaidingai pavadinta Ramige."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -120,10 +116,9 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173580
-    - c-004
+
 <a id="claim-t-197297"></a>
 - t-005
-  global_id: t-197297
   teiginys: "Hartknochas tuo palyginimu norėjo užmaskuoti savo nežinojimą, matomą iš žodžiųquidam didus Crive (vienas žmogus, vadintas kriviu)."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -136,7 +131,6 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
 
 <a id="claim-t-197589"></a>
 - t-006
-  global_id: t-197589
   teiginys: "Anot Hartknocho, sudargų iš ties būta, jų atminimas gyvas šios žemės padavimuose ir kai kuriuose vietovardžiuose2."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -149,7 +143,6 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
 
 <a id="claim-t-197590"></a>
 - t-007
-  global_id: t-197590
   teiginys: "Ragainė Hartknocho išleistame Dusburgo veikale klaidingai pavadinta Ramige (p."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -187,8 +180,6 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188401
 - c-004
   santrauka: 'Hartknocho išleistame Dusburgo veikale Ragainė, Narbuto teigimu, klaidingai pavadinta Ramige.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -204,8 +195,7 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190698
+
 ## Citatos
 
 - id: c-84002
@@ -225,24 +215,15 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
     manytume buvus.
     g
     Post haec XI Kalendas Junii Fr.
-  citata_rodoma: |
-    Jeigu mes net tarsime, kad ta pilis Vilniuje
-    gerokai anksčiau pastatyta, tai Dusburgas, Gedimino
-    amžininkas būdamas, 1324 metais nevadintų jos Castrum Ge­
-    demini, juk pats Gediminas, arba rygiečiai, dar prieš metus
-    viešuose laiškuose ir dokumentuose aiškiai ją vadina Vil­
-    niaus ir sutartis tuo vardu vadinamame mieste pasirašo. Tai­
-    gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs
-    būti ta vadinama Castrum Gedemini, yra visiškai atmestina.
-    Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį
-    manytume buvus.
+  citata_rodoma: "Jeigu mes net tarsime, kad ta pilis Vilniuje \ngerokai anksčiau pastatyta, tai Dusburgas, Gedimino \namžininkas būdamas, 1324 metais nevadintų jos Castrum Ge­\ndemini, juk pats Gediminas, arba rygiečiai, dar prieš metus \nviešuose laiškuose ir dokumentuose aiškiai ją vadina Vil­\nniaus ir sutartis tuo vardu vadinamame mieste pasirašo. Tai­\ngi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs \nbūti ta vadinama Castrum Gedemini, yra visiškai atmestina. \nMes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį \nmanytume buvus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88023
+    - t-001
+
 - id: c-171290
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -265,7 +246,8 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188400
+    - t-002
+
 - id: c-171291
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -282,24 +264,16 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
     jo išsišokimą, kuris mums bevertis ir bereikšmis. O todėl ne­
     pritiktų kartoti nevykusį kronikininko palyginimą ir vadinti kri­
     vį „Siaurės popiežiumi“, kaip tai kai kas yra padaręs.
-  citata_rodoma: |
-    O
-    kad šis palyginimas yra toks pat beprasmis ir netinkamas kaip
-    Romovės kildinimas iš Romos, šito mažamokslis ordino kro­
-    nikininkas, be abejo, nesuvokė.
-    Net atrodo, kad yra pagrindo manyti, jog jis tuo palygini­
-    mu norėjo užmaskuoti savo nežinojimą, matomą iš žodžiųqui-
-    dam didus Crive (vienas žmogus, vadintas kriviu). Tad atlei­
-    džiame Dusburgiečiui šį palyginimą, kaip jam būdingą, kaip
-    jo išsišokimą, kuris mums bevertis ir bereikšmis.
+  citata_rodoma: "O \nkad šis palyginimas yra toks pat beprasmis ir netinkamas kaip \nRomovės kildinimas iš Romos, šito mažamokslis ordino kro­\nnikininkas, be abejo, nesuvokė.\nNet atrodo, kad yra pagrindo manyti, jog jis tuo palygini­\nmu norėjo užmaskuoti savo nežinojimą, matomą iš žodžiųqui- \ndam didus Crive (vienas žmogus, vadintas kriviu). Tad atlei­\ndžiame Dusburgiečiui šį palyginimą, kaip jam būdingą, kaip \njo išsišokimą, kuris mums bevertis ir bereikšmis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188401
-    - t-197297
+    - t-003
+    - t-005
+
 - id: c-173580
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -319,8 +293,9 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190698
-    - t-197590
+    - t-004
+    - t-007
+
 - id: c-179255
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -343,4 +318,4 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197589
+    - t-006

@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-20312"></a>
 - t-001
-  global_id: t-20312
   teiginys: "Juozo Urbšio kelionės į Maskvą išvakarėse pradėta dalinė Lietuvos kariuomenės demobilizacija buvo rizikingas žingsnis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,12 +77,11 @@ Nenurodyta
     kvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
     pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-
     nis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti.
-  citata_rodoma: |
-    kvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
+  citata_rodoma: "kvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20312
+    - t-001

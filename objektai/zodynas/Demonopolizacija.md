@@ -31,7 +31,6 @@ Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo d
 
 <a id="claim-t-21987"></a>
 - t-001
-  global_id: t-21987
   teiginys: "Lietuvai tapus visateise valstybe prasidėjo demonopolizacija, padidėjo efektyvumas ir prekių bei paslaugų pasiūla."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo d
 
 <a id="claim-t-183408"></a>
 - t-002
-  global_id: t-183408
   teiginys: "Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo demonopolizacija, padidėjo efektyvumas ir prekių bei paslaugų pasiūla."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -81,15 +79,15 @@ Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo d
     prasidėjo demonopolizacija, padidėjo efektyvumas, prekių ir paslaugų
     pasiūla, atsirado naujų galimybių plėtoti švietimą, kultūrą, spręsti sociali-
     nes problemas.
-  citata_rodoma: |
-    Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos,
+  citata_rodoma: "Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21987
+    - t-001
+
 - id: c-166802
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -107,4 +105,4 @@ Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183408
+    - t-002

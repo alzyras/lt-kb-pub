@@ -37,7 +37,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 
 <a id="claim-t-20942"></a>
 - t-001
-  global_id: t-20942
   teiginys: "A. Smetona ir A. Voldemaras pabrėžė stiprias prezidento galias ir neketino grįžti į „seimų laikus“, prilygintus netvarkai bei anarchijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,12 +76,11 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     kairioji opozicija dar pabandė perversmininkų stiliumi grąžinti Seimą,
     tačiau 1927 m. pavasarį apie Seimo narį valstietį liaudininką Juozą Pajaujį
     susibūrusios grupės perversmo planas, suėmus J. Pajaujį, žlugo.
-  citata_rodoma: |
-    laikus“, prilygintus netvarkai ir
+  citata_rodoma: "laikus“, prilygintus netvarkai ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20942
+    - t-001

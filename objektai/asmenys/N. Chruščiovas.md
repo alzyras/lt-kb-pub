@@ -39,7 +39,6 @@ Chruščiovo laikais bažnyčią imta diskredituoti, spausti morališkai, nors i
 
 <a id="claim-t-19166"></a>
 - t-001
-  global_id: t-19166
   teiginys: "N. Chruščiovo laikais bažnyčia buvo diskredituojama ir morališkai spaudžiama, nors iš trėmimų vietų grįžo 130 kunigų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,12 +69,11 @@ Chruščiovo laikais bažnyčią imta diskredituoti, spausti morališkai, nors i
     kai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-
     čią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo
     130 kunigų.
-  citata_rodoma: |
-    J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-
+  citata_rodoma: "J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19166
+    - t-001

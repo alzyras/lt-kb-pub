@@ -32,8 +32,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-11775"></a>
-- t-001
-  global_id: t-11775
+- t-005
   teiginys: "Pravoslavai priklausė Konstantinopolio patriarchatui ir kadaise buvo valdomi Kijevo metropolito."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -49,8 +48,7 @@ media_all_json: |-
     - c-14705
 
 <a id="claim-t-11776"></a>
-- t-002
-  global_id: t-11776
+- t-006
   teiginys: "Pravoslavų nepasitenkinimas paskatino Vytautą iškelti rytų ir vakarų bažnyčių unijos idėją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -66,8 +64,7 @@ media_all_json: |-
     - c-14706
 
 <a id="claim-t-11777"></a>
-- t-003
-  global_id: t-11777
+- t-004
   teiginys: "Pravoslavai yra vėlyvesnis graikų tikybos žmonių pavadinimas."
   atnaujinta: "2026-05-20 21:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -97,20 +94,16 @@ media_all_json: |-
     žiais pradėta vadinti, pravoslavai. Jie priklausė Konstantino­
     polio patriarchatui ir kadaise buvo valdomi vieno Kijevo metro­
     polito.
-  citata_rodoma: |
-    Apie pusę tų laikų didž. Lietuvos kunigaikštijos gyventojų
-    buvo rusų kilmės ir graikų tikybos arba, kaip paskutiniais am­
-    žiais pradėta vadinti, pravoslavai. Jie priklausė Konstantino­
-    polio patriarchatui ir kadaise buvo valdomi vieno Kijevo metro­
-    polito.
+  citata_rodoma: "Apie pusę tų laikų didž. Lietuvos kunigaikštijos gyventojų\nbuvo rusų kilmės ir graikų tikybos arba, kaip paskutiniais am­\nžiais pradėta vadinti, pravoslavai. Jie priklausė Konstantino­\npolio patriarchatui ir kadaise buvo valdomi vieno Kijevo metro­\npolito."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11775
-    - t-11777
+    - t-005
+    - t-004
+
 - id: c-14706
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -123,17 +116,11 @@ media_all_json: |-
     voslavų teises, kaip tai darė jo brolis Zigmantas, bet suprasda­
     mas tautos vieningumo religišku atžvilgiu svarbą, jis iškėlė rytų
     ir vakarų bažnyčių unijos idėją.
-  citata_rodoma: |
-    Visa tai sukėlė tarp pravoslavų nepasitenkinimą bei anta­
-    gonizmą. Vytautas tai matė ir negalėjo nedėti pastangų atitai­
-    syti. Jis nebandė to antagonizmo sušvelninti praplėsdamas pra­
-    voslavų teises, kaip tai darė jo brolis Zigmantas, bet suprasda­
-    mas tautos vieningumo religišku atžvilgiu svarbą, jis iškėlė rytų
-    ir vakarų bažnyčių unijos idėją.
+  citata_rodoma: "Visa tai sukėlė tarp pravoslavų nepasitenkinimą bei anta­\ngonizmą. Vytautas tai matė ir negalėjo nedėti pastangų atitai­\nsyti. Jis nebandė to antagonizmo sušvelninti praplėsdamas pra­\nvoslavų teises, kaip tai darė jo brolis Zigmantas, bet suprasda­\nmas tautos vieningumo religišku atžvilgiu svarbą, jis iškėlė rytų\nir vakarų bažnyčių unijos idėją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11776
+    - t-006

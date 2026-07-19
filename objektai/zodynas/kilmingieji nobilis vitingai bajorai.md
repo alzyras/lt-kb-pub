@@ -30,8 +30,7 @@ Dusburgietis teigia, kad prūsai tikėjo, kad kūnas prisikelia iš numirusiųj�
 ## Teiginiai
 
 <a id="claim-t-58909"></a>
-- t-001
-  global_id: t-58909
+- t-002
   teiginys: "Dusburgiečio kronikoje nobilis žymi prūsų ir lietuvių visuomenės socialines viršūnes."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Dusburgietis teigia, kad prūsai tikėjo, kad kūnas prisikelia iš numirusiųj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58909
+    - t-002

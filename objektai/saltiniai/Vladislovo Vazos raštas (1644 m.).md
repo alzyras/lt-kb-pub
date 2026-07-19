@@ -11,10 +11,10 @@ datos:
   - '1644 m.'
 date_start: '1644'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-202301"></a>
 - t-001
-  global_id: t-202301
   teiginys: "1644 m. Vladislovo Vazos rašte teigiama, kad jų anksčiau turėtus nuostatus valdovas atnaujinąs ir į vieną cechą prie laivavedžių jungiąs dar vežėjus ir linininkus."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202301
+    - t-001

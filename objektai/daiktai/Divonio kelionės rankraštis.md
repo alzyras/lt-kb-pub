@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-193010"></a>
 - t-001
-  global_id: t-193010
   teiginys: "Divonio kelionės aprašymas išliko rankraštyje, siejamame su Plocko katedros klebonu Jaroslavu ir vyskupu Kristijonu."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,7 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175780
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Divonio kelionės aprašymas išliko rankraštyje, siejamame su Plocko katedros klebonu Jaroslavu ir vyskupu Kristijonu.'
@@ -82,8 +81,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193010
+
 ## Citatos
 
 - id: c-175780
@@ -99,18 +97,11 @@ Nenurodyta
     liovos net iki dešimtojo Augusto Oktaviano konsulato, t. y.
     iki 24 metų prieš Kristaus gimimą. Tiems topografams
     vadovavo kažkoks Teodoras, Teodatas ar Tironas5.
-  citata_rodoma: |
-    Tačiau Tidemanas rašo, kad
-    jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės
-    aprašymas išliko rankraštyje, kuris atiteko Plocko kated­
-    ros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­
-    no rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi
-    būti knyga, parašyta slavų kalba, bet graikiškomis raidė­
-    mis2.
+  citata_rodoma: "Tačiau Tidemanas rašo, kad\njis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės\naprašymas išliko rankraštyje, kuris atiteko Plocko kated­\nros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­\nno rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi\nbūti knyga, parašyta slavų kalba, bet graikiškomis raidė­\nmis2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193010
+    - t-001

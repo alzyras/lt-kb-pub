@@ -34,7 +34,6 @@ Wulfstano pasakojime teigiama, kad kunigaikščiai ir diduomenė gėrė kumelių
 
 <a id="claim-t-200722"></a>
 - t-001
-  global_id: t-200722
   teiginys: "Wulfstano pasakojime teigiama, kad kunigaikščiai ir diduomenė gėrė kumelių pieną, o neturtingieji ir vergai gėrė midų."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,5 @@ Wulfstano pasakojime teigiama, kad kunigaikščiai ir diduomenė gėrė kumelių
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200722
+    - t-001

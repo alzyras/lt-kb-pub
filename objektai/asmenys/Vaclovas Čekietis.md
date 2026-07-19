@@ -39,8 +39,7 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 ## Teiginiai
 
 <a id="claim-t-35304"></a>
-- t-001
-  global_id: t-35304
+- t-002
   teiginys: "1392 m. Vaclovas Čekietis kartu su Zigmantu Vengriečiu ir Ordinu buvo tarp mėgintos sudaryti koalicijos prieš Lenkiją vyriausių vadų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
     - c-38130
 
 <a id="claim-t-35305"></a>
-- t-002
-  global_id: t-35305
+- t-001
   teiginys: "Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 
 <a id="claim-t-184288"></a>
 - t-003
-  global_id: t-184288
   teiginys: "Ordino magistras Henrikas von Plauenas po Makro raporto vyko pas Čekijos karalių Vaclovą prašyti pagalbos prieš Vytautą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -109,18 +106,15 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
     ma, kad Vytautas susideda su stačiatikiais, sukelia slavų tau­
     tas, Nemuno ir Dubysos krantuose stato prieš Ordiną nukreip­
     tas pilis^1 ).
-  citata_rodoma: |
-    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
-    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
-    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
-    prašyti pagalbos prieš Vytautą. Vak.
+  citata_rodoma: "Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po\nMakro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto\nbrolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI\nprašyti pagalbos prieš Vytautą. Vak."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35305
+    - t-001
+
 - id: c-38130
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -133,19 +127,15 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
     dai buvo Ordinas ir du Luksemburgiečiai: Zigmantas Vengrie­
     tis ir Vaclovas Čekietis^4 ). Todėl Vytauto ginčas su Lenkija la­
     bai toli siekė: jis ėmė grėsti 1343 m.
-  citata_rodoma: |
-    1392
-    m. mėginta ir koalicija prieš Lenkiją sudaryti; jos vyriausi va­
-    dai buvo Ordinas ir du Luksemburgiečiai: Zigmantas Vengrie­
-    tis ir Vaclovas Čekietis^4 ). Todėl Vytauto ginčas su Lenkija la­
-    bai toli siekė: jis ėmė grėsti 1343 m.
+  citata_rodoma: "1392\nm. mėginta ir koalicija prieš Lenkiją sudaryti; jos vyriausi va­\ndai buvo Ordinas ir du Luksemburgiečiai: Zigmantas Vengrie­\ntis ir Vaclovas Čekietis^4 ). Todėl Vytauto ginčas su Lenkija la­\nbai toli siekė: jis ėmė grėsti 1343 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35304
+    - t-002
+
 - id: c-167664
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -166,4 +156,4 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184288
+    - t-003

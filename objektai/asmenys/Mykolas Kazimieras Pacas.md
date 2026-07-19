@@ -37,7 +37,6 @@ Mykolas Kazimieras Pacas, Lietuvos Didžiosios Kunigaikštystės etmonas ir Viln
 
 <a id="claim-t-200861"></a>
 - t-001
-  global_id: t-200861
   teiginys: "Mykolas Kazimieras Pacas, Lietuvos Didžiosios Kunigaikštystės etmonas ir Vilniaus vaivada, pastatė Šv. Petro ir Povilo bažnyčią Antakalnyje."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Mykolas Kazimieras Pacas, Lietuvos Didžiosios Kunigaikštystės etmonas ir Viln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200861
+    - t-001

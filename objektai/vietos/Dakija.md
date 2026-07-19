@@ -31,8 +31,7 @@ Narbutas iš Bizantijos rašytojų užuominų sprendė, kad susivienijusios liet
 ## Teiginiai
 
 <a id="claim-t-192628"></a>
-- t-001
-  global_id: t-192628
+- t-002
   teiginys: "Narbutas iš Bizantijos rašytojų užuominų sprendė, kad susivienijusios lietuvių gentys gyveno Dakijoje ir vertėsi žemdirbyste."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -58,11 +57,6 @@ Narbutas iš Bizantijos rašytojų užuominų sprendė, kad susivienijusios liet
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai
-    buvo būtent tas laikas, nuo kurio susivienijusias lietuvių
-    gentis istorikai pradeda vadinti bendriniu vardu Litiani;
-    tai jau minėjome anksčiau.
-    310
     Nežinome, kokios aplinkybės susiklostė lietuvių gen­
     tims susivienijus, bet turbūt jos nebuvo itin reikšmingos,
     nes Bizantijos rašytojai jų beveik visai nemini, tik iš kai
@@ -70,25 +64,17 @@ Narbutas iš Bizantijos rašytojų užuominų sprendė, kad susivienijusios liet
     kur turėjo verstis žemdirbyste. Tik 401 metais, kai Uldi-
     no vadovaujami hunai pasistūmėjo giliau į imperijos te­
     ritoriją, čia turėjo būti ir lietuvių būrių, kurie visada da­
-    lyvaudavo reikšmingesniuose žygiuose.
-  citata_rodoma: |
-    Tai
-    buvo būtent tas laikas, nuo kurio susivienijusias lietuvių
-    gentis istorikai pradeda vadinti bendriniu vardu Litiani;
-    tai jau minėjome anksčiau.
-    310
-    Nežinome, kokios aplinkybės susiklostė lietuvių gen­
-    tims susivienijus, bet turbūt jos nebuvo itin reikšmingos,
-    nes Bizantijos rašytojai jų beveik visai nemini, tik iš kai
-    kurių užuominų daro išvadą, kad jos gyveno Dakijoje,
-    kur turėjo verstis žemdirbyste. Tik 401 metais, kai Uldi-
-    no vadovaujami hunai pasistūmėjo giliau į imperijos te­
-    ritoriją, čia turėjo būti ir lietuvių būrių, kurie visada da­
-    lyvaudavo reikšmingesniuose žygiuose.
+    lyvaudavo reikšmingesniuose žygiuose. Vėliau, kai im­
+    perijos rytuose po Alariko maišto prasidėjo kruvini su­
+    sidūrimai, hunų valdžioje buvusios tautos: alanai, bur-
+    gundai, šilingai, svebai, kvadai, gepidai, saksai ir heru-
+    lai pasitraukė j Panoniją, susijungė su vandalais ir iš­
+    keliavo Alpių link.
+  citata_rodoma: "Tai\nbuvo būtent tas laikas, nuo kurio susivienijusias lietuvių\ngentis istorikai pradeda vadinti bendriniu vardu Litiani;\ntai jau minėjome anksčiau.\n310\nNežinome, kokios aplinkybės susiklostė lietuvių gen­\ntims susivienijus, bet turbūt jos nebuvo itin reikšmingos,\nnes Bizantijos rašytojai jų beveik visai nemini, tik iš kai\nkurių užuominų daro išvadą, kad jos gyveno Dakijoje,\nkur turėjo verstis žemdirbyste. Tik 401 metais, kai Uldi-\nno vadovaujami hunai pasistūmėjo giliau į imperijos te­\nritoriją, čia turėjo būti ir lietuvių būrių, kurie visada da­\nlyvaudavo reikšmingesniuose žygiuose."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192628
+    - t-002

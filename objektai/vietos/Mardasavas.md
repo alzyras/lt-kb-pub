@@ -37,7 +37,6 @@ Prieš mūšį 1945 m. gruodžio 5 d. prie Mardasavo km., ant Merkio kranto neti
 
 <a id="claim-t-41898"></a>
 - t-001
-  global_id: t-41898
   teiginys: "1945 m. gruodžio 5 d. prie Mardasavo, ant Merkio kranto, NKVD dalinio netikėtai užklupti žuvo keturi partizanai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,19 +75,11 @@ Prieš mūšį 1945 m. gruodžio 5 d. prie Mardasavo km., ant Merkio kranto neti
     tizanų maldaknygę ir perdavė ją Merkio
     rinktinės vadui Adolfui Ramanauskui-
     Vanagui.
-  citata_rodoma: |
-    Prieš mūšį
-    1945 m. gruodžio 5 d. prie Mardasavo
-
-    km., ant Merkio kranto netikėtai užklupti
-    NKVD dalinio, žuvo Marcinkonių bataliono
-    vadas Lionginas Švalkus-Šernas, Tomas
-    Kondrotas-Briedis, Adolfas Bilinskas-
-    Jurginas ir Martynas Navickas-Kardas.
+  citata_rodoma: "Prieš mūšį\n1945 m. gruodžio 5 d. prie Mardasavo\n\nkm., ant Merkio kranto netikėtai užklupti\nNKVD dalinio, žuvo Marcinkonių bataliono\nvadas Lionginas Švalkus-Šernas, Tomas\nKondrotas-Briedis, Adolfas Bilinskas-\nJurginas ir Martynas Navickas-Kardas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41898
+    - t-001

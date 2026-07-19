@@ -40,26 +40,8 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 
 ## Teiginiai
 
-<a id="claim-t-174024"></a>
-- t-001
-  global_id: t-174024
-  teiginys: "Saksonija buvo nuo Lenkijos netolima teritorija."
-  atnaujinta: "2026-06-13 18:29"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Saksonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Saksonija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-158261
-
 <a id="claim-t-174025"></a>
-- t-002
-  global_id: t-174025
+- t-004
   teiginys: "Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +57,7 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
     - c-158258
 
 <a id="claim-t-174027"></a>
-- t-003
-  global_id: t-174027
+- t-006
   teiginys: "Į Vilnių atvykę amatininkai iš Saksonijos kartu su Rusios ir Livonijos pirkliais tapo turtingiausiu miesto gyventojų sluoksniu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +73,7 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
     - c-158258
 
 <a id="claim-t-193781"></a>
-- t-004
-  global_id: t-193781
+- t-007
   teiginys: "Šiaurės karas 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -197,7 +177,8 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193781
+    - t-007
+
 - id: c-158258
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -221,8 +202,9 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174025
-    - t-174027
+    - t-004
+    - t-006
+
 - id: c-158261
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -236,18 +218,12 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
     nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau
     suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
     džios.
-  citata_rodoma: |
-    Tuomet, iš vienos pusės, turėdamas savo ka-
-    riuomenę Vidžemėje, t. y. Lietuvos pasieny, o iš kitos pusės,
-    nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau
-    suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
-    džios.
+  citata_rodoma: "Tuomet, iš vienos pusės, turėdamas savo ka-\nriuomenę Vidžemėje, t. y. Lietuvos pasieny, o iš kitos pusės,\nnuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau\nsuvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-\ndžios."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-174024
+
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Karolis XII]]

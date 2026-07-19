@@ -49,19 +49,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195306"></a>
-- t-001
-  global_id: t-195306
-  teiginys: "Buvo tai maža medinė mentelė, prirengta taip, kad trintų plieną iš lengva, atitiesdama pradedančius linkti ašmenis."
-  atnaujinta: "2026-07-12 01:46"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177677
-
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -91,12 +78,9 @@ Nenurodyta
     niekam
     netinka,
     reikia imti kitą.
-  citata_rodoma: |
-    Kiekvienas vyras prisidirbdavo ligi dešimties pustyklių, nes jos greitai susidėvi
+  citata_rodoma: "Kiekvienas vyras prisidirbdavo ligi dešimties pustyklių, nes jos greitai susidėvi"
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195306

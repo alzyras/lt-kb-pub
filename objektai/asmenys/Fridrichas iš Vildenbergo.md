@@ -40,7 +40,6 @@ Dusburgietis teigia, kad su jais ir su visa Kulmo žemės bei gretimų žemių b
 
 <a id="claim-t-60279"></a>
 - t-001
-  global_id: t-60279
   teiginys: "1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,19 +74,14 @@ Dusburgietis teigia, kad su jais ir su visa Kulmo žemės bei gretimų žemių b
     tiek daug išžudė žmonių, kad ten nebeliko gyvo nė vieno kelnėto sutvėrimo. Kitą dieną
     jie įsiveržė į Raseinių valsčių, o trečią dieną — į Ariogalos valsčių ir abu valsčius nusiaubė
     ugnimi.
-  citata_rodoma: |
-    Su jais ir su visa Kulmo žemės bei gretimų
-    žemių brolių kariuomene brolis Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, bei
-    150 brolių žiemą įsiveržė į Vaikių valsčių; apiplėšę bei sudeginę ir pilį, ir kitus pastatus,
-    tiek daug išžudė žmonių, kad ten nebeliko gyvo nė vieno kelnėto sutvėrimo. Kitą dieną
-    jie įsiveržė į Raseinių valsčių, o trečią dieną — į Ariogalos valsčių ir abu valsčius nusiaubė
-    ugnimi.
+  citata_rodoma: "Su jais ir su visa Kulmo žemės bei gretimų\nžemių brolių kariuomene brolis Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, bei\n150 brolių žiemą įsiveržė į Vaikių valsčių; apiplėšę bei sudeginę ir pilį, ir kitus pastatus,\ntiek daug išžudė žmonių, kad ten nebeliko gyvo nė vieno kelnėto sutvėrimo. Kitą dieną\njie įsiveržė į Raseinių valsčių, o trečią dieną — į Ariogalos valsčių ir abu valsčius nusiaubė\nugnimi."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60279
+    - t-001
+
 ## Ryšiai
 - Fridrichas iš Vildenbergo puolė [[objektai/vietos/Vaikiai]]

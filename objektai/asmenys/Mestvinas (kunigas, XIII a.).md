@@ -41,7 +41,6 @@ Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su 
 
 <a id="claim-t-201456"></a>
 - t-001
-  global_id: t-201456
   teiginys: "Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su kryžėjais jį sude rinti, kaipogi Mestvimas, apleistas nuo savo brolio, maž tešelpiamas nuo Baimino, kunig."
   atnaujinta: "2026-07-16 14:37"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,9 @@ Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su 
 ## Citatos
 
 - id: c-184806
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo-
     mi įsmilintas, Otokaras susigadijo su bavarų vieš­
@@ -75,4 +75,4 @@ Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201456
+    - t-001

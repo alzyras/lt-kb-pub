@@ -33,7 +33,6 @@ media_all_json: |-
 
 <a id="claim-t-201146"></a>
 - t-001
-  global_id: t-201146
   teiginys: "Žiemai atėjus, traukė pats su kariauna per pašalusias balas taip pat į Jelgavą, nuo kurios netoli ant taip vadinamo švento kalno įkūrė pilį, vadinamą Heiligenburgu, ir tenai įdėdamas 300 rimtų vyrų apveizėjo dar mi talu ir ginklu, kurią vienok žemaičiai."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184496
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskiaus mistras Šauerburgas sutarė su savo tar­
     nais brostviais naują pilį Žemgaliuose įkurti, todėl
@@ -70,4 +70,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201146
+    - t-001

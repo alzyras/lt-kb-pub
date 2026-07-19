@@ -33,7 +33,6 @@ Nuo tenai Otokaras leidos Pragaru pagal žemyn lig girios, Tvangste vadinamos, k
 
 <a id="claim-t-201177"></a>
 - t-001
-  global_id: t-201177
   teiginys: "Nuo tenai Otokaras leidos Pragaru pagal žemyn lig girios, Tvangste vadinamos, kur sai, radęs tenai kalną paupy, užsikėto miestą ir pilį pamatuoti, kuriam pamatus padėjęs, ateinantį metą grįžo namo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Nuo tenai Otokaras leidos Pragaru pagal žemyn lig girios, Tvangste vadinamos, k
 ## Citatos
 
 - id: c-184527
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Meldžionys, nė nuo
     ko nerasdami atsparo, kur užėjo, ten į tyrą vertė,
@@ -70,4 +70,4 @@ Nuo tenai Otokaras leidos Pragaru pagal žemyn lig girios, Tvangste vadinamos, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201177
+    - t-001

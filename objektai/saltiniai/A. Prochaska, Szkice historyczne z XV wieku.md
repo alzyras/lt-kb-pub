@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-31605"></a>
 - t-001
-  global_id: t-31605
   teiginys: "A. Prochaskos „Szkice historyczne z XV wieku“ buvo išleista Krokuvoje ir Varšuvoje 1884 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,15 +69,11 @@ media_all_json: |-
     ska, A. : _Szkice historyczne z XV wieku,_ Kraków-Warszawa 1884. —
     Weise, E. : _Der Heidenkampf des Deutschen Ordens,_ ZfO, t. 12, 1963,
     420-473, 622-672 p. ; t. 13, 1964, 401-420 p.
-  citata_rodoma: |
-    — Procha _­_
-    ska, A. : _Szkice historyczne z XV wieku,_ Kraków-Warszawa 1884. —
-    Weise, E. : _Der Heidenkampf des Deutschen Ordens,_ ZfO, t. 12, 1963,
-    420-473, 622-672 p.
+  citata_rodoma: "— Procha _­_\nska, A. : _Szkice historyczne z XV wieku,_ Kraków-Warszawa 1884. —\nWeise, E. : _Der Heidenkampf des Deutschen Ordens,_ ZfO, t. 12, 1963,\n420-473, 622-672 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31605
+    - t-001

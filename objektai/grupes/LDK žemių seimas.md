@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-187781"></a>
 - t-001
-  global_id: t-187781
   teiginys: "1492 m. liepos 18 d. Vilniuje visų LDK žemių seimas patvirtino Aleksandrą Lietuvos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187781
+    - t-001

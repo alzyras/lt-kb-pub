@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20208"></a>
 - t-001
-  global_id: t-20208
   teiginys: "Po Sausio 13-osios sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios informacijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,6 @@ Nenurodyta
 
 <a id="claim-t-183223"></a>
 - t-002
-  global_id: t-183223
   teiginys: "Sausio 13 d. nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų radijo stotis netoli Kauno."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -102,15 +100,15 @@ Nenurodyta
     Sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios in-
     formacijos. Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti
     Sitkūnų (netoli Kauno) radijo stotis.
-  citata_rodoma: |
-    formacijos. Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti
+  citata_rodoma: "formacijos. Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20208
+    - t-001
+
 - id: c-166610
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -128,4 +126,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183223
+    - t-002

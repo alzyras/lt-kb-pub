@@ -39,8 +39,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
 ## Teiginiai
 
 <a id="claim-t-70027"></a>
-- t-001
-  global_id: t-70027
+- t-004
   teiginys: "Medininkais vadinti gyventojai tarp Nemuno, Ventos ir Nevėžio, nes jie gyveno didžiose medėse."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
     - c-09707
 
 <a id="claim-t-70028"></a>
-- t-002
-  global_id: t-70028
+- t-003
   teiginys: "Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -94,6 +92,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-09705
@@ -102,7 +101,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     - public_note:
-    - saltinis: [[objektai/saltiniai/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md]]
+    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
     - vieta_saltinyje: offset: 15692-16003; match: exact
     - santrauka: Tyrulė minima kaip viena iš didžiųjų pietinės įšleities upių.
     - pagrindzia:
@@ -112,16 +111,15 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
         per kelias dešimtis mylių, kuriuose auga aukšta žolė taip, jog raito žmogaus negal regėti, per
         kuriuos teka į Uksine marę upė Tyrulė, nuo tų tyrų taip vadinama; už tų tyrų, juo į šiaurę einant,
         buvo medės, arba girios.
-  citata_rodoma: |
-    už tų tyrų, juo į šiaurę einant,
-    buvo medės, arba girios.
+  citata_rodoma: "už tų tyrų, juo į šiaurę einant,\nbuvo medės, arba girios."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70028
+    - t-003
+
 - id: c-09707
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -135,4 +133,4 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70027
+    - t-004

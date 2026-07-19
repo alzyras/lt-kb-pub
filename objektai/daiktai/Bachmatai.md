@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-198529"></a>
 - t-001
-  global_id: t-198529
   teiginys: "Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą brangiomis dovanomis, tarp jų bachmatais."
   atnaujinta: "2026-07-12 23:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -61,7 +60,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-180536
-    - c-170025
 - susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199224|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraščio pasakojime Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis, sabalais, brangakmeniais, indais ir bachmatais.
 - susijęs iš [[objektai/daiktai/Auksinės grandinės ir diržai.md#claim-t-186841|Auksinės grandinės ir diržai]]: Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis ir diržais tarp kitų brangių dovanų.
 - susijęs iš [[objektai/daiktai/Aukso balnai.md#claim-t-186845|Aukso balnai]]: Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo žirgų su aukso balnais tarp kitų brangių dovanų.
@@ -99,45 +97,11 @@ Nenurodyta
     gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
     nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
     auksiniais indais ir bachmatais ls.
-  citata_rodoma: |
-    Ivanovičių IJ. Didysis kunigaikštis Vytautas prieš Ria-
-    zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
-    Lengvenį su didele kariuomene ir su Smolensko pajė­
-    gomis; tie parsivarė daugybę belaisvių riazaniečių ir
-    su dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .
-    Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
-    tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
-    vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
-    gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
-    nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
-    auksiniais indais ir bachmatais ls.
+  citata_rodoma: "Ivanovičių IJ. Didysis kunigaikštis Vytautas prieš Ria- \nzanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną \nLengvenį su didele kariuomene ir su Smolensko pajė­\ngomis; tie parsivarė daugybę belaisvių riazaniečių ir \nsu dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .\nTą pačią žiemą, pavasariop H , į Smolenską, pas savo \ntėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­\nvos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­\ngerbė didįjį kunigaikštį brangiomis dovanomis; auksi­\nnėmis grandinėmis ir diržais, sabalais, brangakmeniais, \nauksiniais indais ir bachmatais ls."
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198529
-- id: c-170025
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Ivanovičių IJ. Didysis kunigaikštis Vytautas prieš Ria-
-    zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
-    Lengvenį su didele kariuomene ir su Smolensko pajė­
-    gomis; tie parsivarė daugybę belaisvių riazaniečių ir
-    su dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .
-    Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
-    tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
-    vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
-    gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
-    nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
-    auksiniais indais ir bachmatais ls.
-  citata_rodoma: "Tą pačią žiemą, pavasariop H , į Smolenską, pas savo \ntėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­\nvos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­\ngerbė didįjį kunigaikštį brangiomis dovanomis; auksi­\nnėmis grandinėmis ir diržais, sabalais, brangakmeniais, \nauksiniais indais ir bachmatais ls."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-198529
+    - t-001

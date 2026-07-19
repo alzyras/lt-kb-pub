@@ -30,7 +30,6 @@ Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Liet
 
 <a id="claim-t-186308"></a>
 - t-001
-  global_id: t-186308
   teiginys: "Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Liet
 
 <a id="claim-t-196345"></a>
 - t-002
-  global_id: t-196345
   teiginys: "Kojelavičiaus pasakojime Algirdas ir Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos siena turėjo siekti Možaiską ir Ugros upę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -102,5 +100,5 @@ Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186308
-    - t-196345
+    - t-001
+    - t-002

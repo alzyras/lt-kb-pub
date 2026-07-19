@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-87266"></a>
 - t-001
-  global_id: t-87266
   teiginys: "Dvasiškių ir pasauliečių sienų ginčus turėjo tirti po lygiai paskirti pasauliečių ir dvasiškių komisarai, remdamiesi LDK įstatymais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87266
+    - t-001

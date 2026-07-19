@@ -30,7 +30,6 @@ Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hu
 
 <a id="claim-t-191631"></a>
 - t-001
-  global_id: t-191631
   teiginys: "Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hunus kildino iš skitų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hu
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174513
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hunus kildino iš skitų.'
@@ -69,8 +68,7 @@ Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191631
+
 ## Citatos
 
 - id: c-174513
@@ -78,29 +76,20 @@ Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hu
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Turbūt hu­
-    nai buvo kilę iš plokščiaveidžių žmonių giminės, Hero­
-    doto vadintos agripėjais; jų lopšys buvo Uralo kalnai.
     Klysta senovės tyrinėtojai, kurie, remdamiesi Priskumi,
     kildina juos iš skitų1. Neva Atilos rūmuose girdėtos gies­
     mės buvusios skitiškos; tai neįrodo, kad hunai buvo
     skitų palikuonys, nes tie Siaurės Azijos vaikai galėjo
     linksmintis ir dainuodami svetimšalių giesmes taip pat,
-    kaip tai daro ir kiti.
-  citata_rodoma: |
-    Turbūt hu­
-    nai buvo kilę iš plokščiaveidžių žmonių giminės, Hero­
-    doto vadintos agripėjais; jų lopšys buvo Uralo kalnai.
-    Klysta senovės tyrinėtojai, kurie, remdamiesi Priskumi,
-    kildina juos iš skitų1. Neva Atilos rūmuose girdėtos gies­
-    mės buvusios skitiškos; tai neįrodo, kad hunai buvo
-    skitų palikuonys, nes tie Siaurės Azijos vaikai galėjo
-    linksmintis ir dainuodami svetimšalių giesmes taip pat,
-    kaip tai daro ir kiti.
+    kaip tai daro ir kiti. Antra vertus, Bizantijos rašytojai
+    dažnai prie skitiškų genčių priskirdavo ir tokias, kurių
+    kilmės bruožai nuo skitiškų skyrėsi kaip dangus ir že­
+    mė; o prie tokių, žinoma, priklauso hunai.
+  citata_rodoma: "Turbūt hu­\nnai buvo kilę iš plokščiaveidžių žmonių giminės, Hero­\ndoto vadintos agripėjais; jų lopšys buvo Uralo kalnai.\nKlysta senovės tyrinėtojai, kurie, remdamiesi Priskumi,\nkildina juos iš skitų1. Neva Atilos rūmuose girdėtos gies­\nmės buvusios skitiškos; tai neįrodo, kad hunai buvo\nskitų palikuonys, nes tie Siaurės Azijos vaikai galėjo\nlinksmintis ir dainuodami svetimšalių giesmes taip pat,\nkaip tai daro ir kiti."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191631
+    - t-001

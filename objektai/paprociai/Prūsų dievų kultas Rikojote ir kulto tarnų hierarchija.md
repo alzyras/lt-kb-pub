@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-54329"></a>
 - t-001
-  global_id: t-54329
   teiginys: "Simono Grunau kronikoje Rikojoto šventyklos prūsų dievų trejetą sudarė Pakulas, Perkūnas ir Patrimpas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-54330"></a>
 - t-002
-  global_id: t-54330
   teiginys: "Prūsų dievais laikyti požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,6 @@ Nenurodyta
 
 <a id="claim-t-183332"></a>
 - t-003
-  global_id: t-183332
   teiginys: "Pasak Simono Grunau kronikos, Rikojote buvo prūsų dievų kulto centras su žaliuojančiu ąžuolu ir šventykla, papuošta trijų dievų stabais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -117,22 +114,16 @@ Nenurodyta
     vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
     Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų
     ir griausmų dievas, o trečiasis – javų dievas Patrimpas.
-  citata_rodoma: |
-    Prū-
-    sijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak
-    Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė,
-    kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die-
-    vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
-    Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų
-    ir griausmų dievas, o trečiasis – javų dievas Patrimpas.
+  citata_rodoma: "Prū-\nsijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak \nSimono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, \nkur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die-\nvų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus. \nSvarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų \nir griausmų dievas, o trečiasis – javų dievas Patrimpas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54329
-    - t-54330
+    - t-001
+    - t-002
+
 - id: c-166722
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -151,4 +142,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183332
+    - t-003

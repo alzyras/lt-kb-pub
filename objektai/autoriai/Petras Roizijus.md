@@ -39,7 +39,6 @@ Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusi
 
 <a id="claim-t-194318"></a>
 - t-001
-  global_id: t-194318
   teiginys: "Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio masPetrus Maureus Royzius, gimęs Alcagnizo [ Alkaniso] mieste Aragonoje, kilęs iš ispanų Ruiz de Moros gi minės."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194318
+    - t-001

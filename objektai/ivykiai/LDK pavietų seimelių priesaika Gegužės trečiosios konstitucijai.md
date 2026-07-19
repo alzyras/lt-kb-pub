@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-77896"></a>
 - t-001
-  global_id: t-77896
   teiginys: "1792 m. vasarį 27 iš 33 susirinkusių LDK bajorų pavietų seimelių prisiekė Gegužės trečiosios konstitucijai, o dar šeši jai pritarė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,4 +97,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77896
+    - t-001

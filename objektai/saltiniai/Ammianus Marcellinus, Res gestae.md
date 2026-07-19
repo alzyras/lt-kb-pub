@@ -26,13 +26,47 @@ media_all_json: |-
 
 Narbutas Ammianu Marcellinu rėmė nuomonę, kad Lety, arba Lity, prieš Kristaus gimimą gyveno Galijoje ir skyrėsi kilme.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas Ammianu Marcellinu rėmė nuomonę, kad Lety, arba Lity, prieš Kristaus gimimą gyveno Galijoje ir skyrėsi kilme.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Senovės istorikai mano, jog eg­
+    zistavo tauta, vadinama Lety, arba Lity (Ammian Marceii. L. XX. P.
+    8; Jordanas (p. 35) rašo Litiani), Toji tauta prieš pat Kristaus gi­
+    mimą gyveno Galijoje ir savo kilme skyrėsi nuo kitų tenykščių tautų.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-175331
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Visi tikėtini faktai rodo, kad tai turėjo būti lietuvių padermės tauta,
+    kuri į tuos kraštus atsinešė savo giminės vardą. Si tauta Galijoje
+    buvo nugalėta ir pavergta, be to, sudarė tarpinį luomą tarp laisvųjų
+    žmonių ir tarnų (Szafarzyk. Star. siaw.
+  citata_rodoma: "Senovės istorikai mano, jog eg­\nzistavo tauta, vadinama Lety, arba Lity (Ammian Marceii. L. XX. P.\n8; Jordanas (p. 35) rašo Litiani), Toji tauta prieš pat Kristaus gi­\nmimą gyveno Galijoje ir savo kilme skyrėsi nuo kitų tenykščių tautų."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-192543"></a>
 - t-001
-  global_id: t-192543
   teiginys: "Narbutas Ammianu Marcellinu rėmė nuomonę, kad Lety, arba Lity, prieš Kristaus gimimą gyveno Galijoje ir skyrėsi kilme."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,43 +82,3 @@ Narbutas Ammianu Marcellinu rėmė nuomonę, kad Lety, arba Lity, prieš Kristau
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175331
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Ammianu Marcellinu rėmė nuomonę, kad Lety, arba Lity, prieš Kristaus gimimą gyveno Galijoje ir skyrėsi kilme.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Senovės istorikai mano, jog eg­
-    zistavo tauta, vadinama Lety, arba Lity (Ammian Marceii. L. XX. P.
-    8; Jordanas (p. 35) rašo Litiani), Toji tauta prieš pat Kristaus gi­
-    mimą gyveno Galijoje ir savo kilme skyrėsi nuo kitų tenykščių tautų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192543
-## Citatos
-
-- id: c-175331
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Senovės istorikai mano, jog eg­
-    zistavo tauta, vadinama Lety, arba Lity (Ammian Marceii. L. XX. P.
-    8; Jordanas (p. 35) rašo Litiani), Toji tauta prieš pat Kristaus gi­
-    mimą gyveno Galijoje ir savo kilme skyrėsi nuo kitų tenykščių tautų.
-  citata_rodoma: |
-    Senovės istorikai mano, jog eg­
-    zistavo tauta, vadinama Lety, arba Lity (Ammian Marceii. L. XX. P.
-    8; Jordanas (p. 35) rašo Litiani), Toji tauta prieš pat Kristaus gi­
-    mimą gyveno Galijoje ir savo kilme skyrėsi nuo kitų tenykščių tautų.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192543

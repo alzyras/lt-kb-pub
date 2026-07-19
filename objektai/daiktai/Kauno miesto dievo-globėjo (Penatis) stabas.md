@@ -62,7 +62,6 @@ Statulėlė buvo rasta tvarkant griuvėsius prie vadinamųjų Perkūno namų, v�
 
 <a id="claim-t-192058"></a>
 - t-001
-  global_id: t-192058
   teiginys: "Narbutas Kaune 1818 m. rastą bronzinę statulėlę apibūdina kaip sukryžiuotomis kojomis būtybę su miesto vaizdu ant galvos ir trimis žuvimis rankoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -100,19 +99,11 @@ Statulėlė buvo rasta tvarkant griuvėsius prie vadinamųjų Perkūno namų, v�
     žiuotomis kojomis būtybę, kuri ant galvos laikė miesto vaizdą,
     t. y. bokštus, namus ir bažnyčias, o vienoje rankoje — tris žu­
     vis.
-  citata_rodoma: |
-    Kai 1818 metais Kaune buvo statoma mui-
-    tinė, to pastato kampas pateko į vietą, kur buvo dalis apgriuvusio
-    muro, visų vadinamo Perkūno namais. Magistrato valdininkas Pu-
-    lokolovskis, valydamas tuos griuvėsius, rado ten kadaise įmūrytą
-    bronzinę apie šešių colių aukščio statulėlę, vaizduojančią sukry-
-    žiuotomis kojomis būtybę, kuri ant galvos laikė miesto vaizdą,
-    t. y. bokštus, namus ir bažnyčias, o vienoje rankoje — tris žu-
-    vis.
+  citata_rodoma: "Kai 1818 metais Kaune buvo statoma mui-\ntinė, to pastato kampas pateko į vietą, kur buvo dalis apgriuvusio\nmuro, visų vadinamo Perkūno namais. Magistrato valdininkas Pu-\nlokolovskis, valydamas tuos griuvėsius, rado ten kadaise įmūrytą\nbronzinę apie šešių colių aukščio statulėlę, vaizduojančią sukry-\nžiuotomis kojomis būtybę, kuri ant galvos laikė miesto vaizdą,\nt. y. bokštus, namus ir bažnyčias, o vienoje rankoje — tris žu-\nvis."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192058
+    - t-001

@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189939"></a>
 - t-001
-  global_id: t-189939
   teiginys: "Narbutas smerkė kunigus, kurie antrą kartą krikštijo Lietuvoje manichėjais vadintus žmones, nes krikšto kartoti nedera."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172822
-    - c-001
 - susijęs iš [[objektai/zodynas/Perkrikštijimas De rebaptisantis hominibus.md#claim-t-189239|Perkrikštijimas De rebaptisantis hominibus]]: Narbutas rašė, kad rusų tikėjimo žmonių perkrikštijimas Lenkijos bažnyčioje buvo įvestas dar prieš Kazimierą Vienuolį.
 ## Reikšmingi paminėjimai
 - c-001
@@ -84,8 +82,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189939
+
 ## Citatos
 
 - id: c-172822
@@ -105,18 +102,11 @@ Nenurodyta
     galėjo rastis sektantiškos pažiūros.
     Kai dėl pakartotinio krikštijimo, tai privalome padaryti dar
     kai kurias pataisas.
-  citata_rodoma: |
-    Nors paprotys senovinis, virtęs teise, bet pik­
-    tnaudžiauti juo nepateisinama. Todėl blogai daro kunigai, ku­
-    rie krikštija antrą kartą kad ir iškerojusios Lietuvoje manichė-
-    jų sektos žmones, nes tie žmonės kartą jau priėmė krikštą var­
-    dan Tėvo ir Sūnaus, ir Šventosios dvasios, nes kartoti šį sakra­
-    mentą draudžiama. Pakanka pasiekti, kad išsižadėtų klaidų ir
-    paklustų Romos bažnyčiai.
+  citata_rodoma: "Nors paprotys senovinis, virtęs teise, bet pik­\ntnaudžiauti juo nepateisinama. Todėl blogai daro kunigai, ku­\nrie krikštija antrą kartą kad ir iškerojusios Lietuvoje manichė-\njų sektos žmones, nes tie žmonės kartą jau priėmė krikštą var­\ndan Tėvo ir Sūnaus, ir Šventosios dvasios, nes kartoti šį sakra­\nmentą draudžiama. Pakanka pasiekti, kad išsižadėtų klaidų ir\npaklustų Romos bažnyčiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189939
+    - t-001

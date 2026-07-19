@@ -39,7 +39,6 @@ Jeigu iki tol Vytautas atrodė nepastovus, besiblaškantis, avantiūristas, tai 
 
 <a id="claim-t-36768"></a>
 - t-001
-  global_id: t-36768
   teiginys: "1930 m. veikale Vytautas iki 1392 m. vaizduojamas kaip nepastovus avantiūristas, o nuo 1392 m. - kaip rimtas valdovas monarchas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,19 +64,15 @@ Jeigu iki tol Vytautas atrodė nepastovus, besiblaškantis, avantiūristas, tai 
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    Jeigu iki tol Vytautas
+    Atitinkamai keičiasi ir jo elgesys. Jeigu iki tol Vytautas
     atrodė nepastovus, besiblaškantis, avantiūristas, tai nuo 1392 me­
     tų jis virsta rimtu, pilno masto valdovu—monarchu. Jis įgyja
     didesnio pastovumo.
-  citata_rodoma: |
-    Jeigu iki tol Vytautas
-    atrodė nepastovus, besiblaškantis, avantiūristas, tai nuo 1392 me­
-    tų jis virsta rimtu, pilno masto valdovu—monarchu. Jis įgyja
-    didesnio pastovumo.
+  citata_rodoma: "Jeigu iki tol Vytautas\natrodė nepastovus, besiblaškantis, avantiūristas, tai nuo 1392 me­\ntų jis virsta rimtu, pilno masto valdovu—monarchu. Jis įgyja\ndidesnio pastovumo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36768
+    - t-001

@@ -38,7 +38,6 @@ Narbutas teigia, kad dievo Santvara stabas rastas Prilvice su užrašu runomis S
 
 <a id="claim-t-194794"></a>
 - t-001
-  global_id: t-194794
   teiginys: "Narbutas teigia, kad dievo Santvara stabas rastas Prilvice su užrašu runomis Swaistix29, kur tarp 72 stabų, atkastų žemėje, tikriausiai ne vie nas priklausė lietuvių dievų kategorijai, kuriuos slavai obotritai galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklo mis30."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Narbutas teigia, kad dievo Santvara stabas rastas Prilvice su užrašu runomis S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194794
+    - t-001

@@ -31,7 +31,6 @@ Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaič
 
 <a id="claim-t-193304"></a>
 - t-001
-  global_id: t-193304
   teiginys: "Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaičiai ir jotvingai, kurie Mindaugo laikais labai neaiškiai laikėsi."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaič
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193304
+    - t-001

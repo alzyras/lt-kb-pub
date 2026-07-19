@@ -31,7 +31,6 @@ Lietuvių kalba geriausiai iš visų gyvųjų indoeuropiečių kalbų išlaikė 
 
 <a id="claim-t-20873"></a>
 - t-001
-  global_id: t-20873
   teiginys: "Antuanas Mejė lietuvių valstiečio kalbą siejo su prosenelių kalbos pažinimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,12 +61,11 @@ Lietuvių kalba geriausiai iš visų gyvųjų indoeuropiečių kalbų išlaikė 
     lietuvis valstietis.“ Kadangi lietuviai krikščionybę priėmė palyginti vėlai,
     mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės
     laikų išlikusių elementų.
-  citata_rodoma: |
-    lietuvis valstietis.“ Kadangi lietuviai krikščionybę priėmė palyginti vėlai,
+  citata_rodoma: "lietuvis valstietis.“ Kadangi lietuviai krikščionybę priėmė palyginti vėlai,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20873
+    - t-001

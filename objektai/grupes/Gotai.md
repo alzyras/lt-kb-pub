@@ -34,7 +34,6 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
 
 <a id="claim-t-31185"></a>
 - t-001
-  global_id: t-31185
   teiginys: "Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į rytus, į Rytprūsių plotą iki Alnos upės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,7 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     - c-33261
 
 <a id="claim-t-188188"></a>
-- t-002
-  global_id: t-188188
+- t-003
   teiginys: "Narbutas teigė, kad dėl artimų ryšių su gotais lietuvių gentys perėmė daug religinių mitų ir apeigų, palikusių pėdsakų lietuvių mitologijoje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,8 +69,7 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     - c-171082
 
 <a id="claim-t-188190"></a>
-- t-003
-  global_id: t-188190
+- t-004
   teiginys: "Narbutas gotus minėjo tarp tautų, kurios senovėje, jo vertinimu, nebuvo laisvos nuo žalčių garbinimo prietarų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -92,8 +89,7 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     - c-171084
 
 <a id="claim-t-188191"></a>
-- t-004
-  global_id: t-188191
+- t-005
   teiginys: "Narbutas Rosės upės vardą Kijevo gubernijoje siejo su lietuvių gentimis, kurios esą išėjo į rytus su gotais Filimero valdymo metu ar kiek vėliau."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -113,8 +109,7 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     - c-171085
 
 <a id="claim-t-192395"></a>
-- t-005
-  global_id: t-192395
+- t-006
   teiginys: "Narbutas, remdamasis Lakarizu, gotus, gotonus ir gotinus kildina iš skitų-keltų palikuonių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -134,8 +129,7 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     - c-175189
 
 <a id="claim-t-192396"></a>
-- t-006
-  global_id: t-192396
+- t-007
   teiginys: "Narbutas Skandinavijos gotus apibūdina kaip senus jūrų keliautojus, kurie Baltijos pakrantėse prekiavo ir dažniau plėšikavo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -156,8 +150,7 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     - c-175190
 
 <a id="claim-t-192397"></a>
-- t-007
-  global_id: t-192397
+- t-008
   teiginys: "Narbutas rašo, kad II amžiaus pradžioje gotai, nusiaubę ulmerugių kraštą tarp Oderio ir Viparos, atsigręžė prieš vandalus prie Vyslos vidurupio."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -178,30 +171,20 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     - c-175191
 
 <a id="claim-t-192398"></a>
-- t-008
-  global_id: t-192398
+- t-009
   teiginys: "Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 metais gotai su karaliumi Filimeru per Vyslos žemupį kėlėsi iš Germanijos į Sarmatiją."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Sarmatija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gotai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Sarmatija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje gotų judėjimas aiškiai nurodytas į Sarmatiją."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Gotai keliavo į Sarmatija (0.88); Filimeras keliavo į Sarmatija (0.74)"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175192
+    - c-175190
 
 <a id="claim-t-192401"></a>
-- t-011
-  global_id: t-192401
+- t-012
   teiginys: "Narbutas gotais vadinamą tautą sieja su pajūriu nuo Oderio iki Vyslos, gitonų arba variagų vardais ir gintaro prekyba."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -222,8 +205,7 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     - c-175195
 
 <a id="claim-t-192402"></a>
-- t-012
-  global_id: t-192402
+- t-013
   teiginys: "Narbutas aiškina, kad kraštas nuo Nemuno žemupio iki Dauguvos žemupio vadintas Gotija dėl jame plėstos gotų valdžios."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -243,8 +225,7 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     - c-175196
 
 <a id="claim-t-192403"></a>
-- t-013
-  global_id: t-192403
+- t-014
   teiginys: "Narbutas rašo, kad apie 269 metus gotai su maždaug 320 000 ginkluotų žmonių armija puolė imperiją, siekdami ją užkariauti."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -264,8 +245,7 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     - c-175197
 
 <a id="claim-t-194565"></a>
-- t-014
-  global_id: t-194565
+- t-015
   teiginys: "O kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -277,8 +257,7 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     - c-176965
 
 <a id="claim-t-197502"></a>
-- t-015
-  global_id: t-197502
+- t-016
   teiginys: "Antra vertus, galima gėrėtis jų drąsa sausu moje ir jūroje, laivybos meno išradingumu, nepailstamu darbštumu, ir, jei nepaliausime vertinę jų karingumo po- 1 Žinoma, jog gotai kildinami iš germanų, tačiau ši kaukazieliųeuropiečių genties padermė yra ta pati."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -290,8 +269,7 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     - c-175189
 
 <a id="claim-t-197503"></a>
-- t-016
-  global_id: t-197503
+- t-017
   teiginys: "Jame sa vo valdymą plėtė gotai, todėl kraštas ir buvo vadinamas Gotija su būdvardžiu, reiškiančiu krašto gamtos savybę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -301,30 +279,6 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175196
-
-<a id="claim-t-192399"></a>
-- t-009
-  global_id: t-192399
-  teiginys: 'Narbutas rašo, kad hunų įveikti gotai ieškojo pagalbos ir prieglobsčio Rytų imperijoje, kurią anksčiau patys naikino.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Moralizuojantis ir priešiškas pasakojimo tonas paliktas su Narbuto atribucija. Nepridėta vėlesnė citatos dalis apie Teodoriką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Hunai|Hunai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Europa; llm_object: [[objektai/grupes/Gotai|Gotai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Hunai|Hunai]] užkariavo [[objektai/grupes/Gotai|Gotai]]'
-  pagrindžia:
-    - c-009
-<a id="claim-t-192400"></a>
-- t-010
-  global_id: t-192400
-  teiginys: 'Narbutas mini senovės tyrinėtojų nuomonę, kad gotai buvo giminingi alanams dar asų arba Odino amžiuje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Kilmės ir giminystės teiginys pateiktas kaip tyrinėtojų nuomonė, kurią mini Narbutas. Sąmoningai neįtraukta platesnė roksolanų ir variagų hipotezė.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Odinas|Odinas]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Roksolanai|Roksolanai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kulmas'
-  pagrindžia:
-    - c-010
 - susijęs iš [[objektai/ivykiai/Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m.md#claim-t-191017|Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m]]: Skiriai sudarė sąjungą su sukilėliais, kartu puolė gotus ir po šio karo patyrė didelį pralaimėjimą.
 - susijęs iš [[objektai/asmenys/Germanarikas.md#claim-t-191149|Germanarikas]]: Narbutas, remdamasis Jordanu, rašo, kad Rytų gotų valdovas Germanarikas užėmė ilgą Vokiečių okeano pakrantę ir pavergė estų tautą.
 - susijęs iš [[objektai/asmenys/Amalas.md#claim-t-191364|Amalas]]: Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria gotų genčių lygos pradžią.
@@ -542,11 +496,9 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     rėjo įtaką Siaurės Vakarų kraštams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192399
+  statusas: not_found
 - c-010
   santrauka: 'Narbutas mini senovės tyrinėtojų nuomonę, kad gotai buvo giminingi alanams dar asų arba Odino amžiuje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -577,11 +529,9 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     gyvenęs XIII amžiaus pirmojoje pusėje1.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192400
+  statusas: verified
 ## Citatos
 
 - id: c-33261
@@ -599,21 +549,15 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     nės įtakos baltams neturėjo. Pavyslyje ir prie Aismarių santykiau­
     dami su prūsais, gotai jiems tame laikotarpyje yra davę devynius
     skolinius.
-  citata_rodoma: |
-    Užsimezgė vakarinių baltų (prūsų) santykiai ir su germanais,
-    nes paskutiniajame amžiuje pr. Kr. ir pirmajame po Kr. Vyslos
-    žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­
-    sių plote iki Alnos upės. Lietuvos teritorijos jie nepalietė ir dides­
-    nės įtakos baltams neturėjo. Pavyslyje ir prie Aismarių santykiau­
-    dami su prūsais, gotai jiems tame laikotarpyje yra davę devynius
-    skolinius.
+  citata_rodoma: "Užsimezgė vakarinių baltų (prūsų) santykiai ir su germanais,\nnes paskutiniajame amžiuje pr. Kr. ir pirmajame po Kr. Vyslos\nžemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­\nsių plote iki Alnos upės. Lietuvos teritorijos jie nepalietė ir dides­\nnės įtakos baltams neturėjo. Pavyslyje ir prie Aismarių santykiau­\ndami su prūsais, gotai jiems tame laikotarpyje yra davę devynius\nskolinius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31185
+    - t-001
+
 - id: c-171082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -636,7 +580,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188188
+    - t-003
+
 - id: c-171084
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -653,7 +598,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188190
+    - t-004
+
 - id: c-171085
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -679,7 +625,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188191
+    - t-005
+
 - id: c-175189
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -703,31 +650,16 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     ir
     skirtingas
     šakas*.
-  citata_rodoma: |
-    Si
-    keltų šaka, išsiplėtusi Siaurės krašte, skyrėsi nuo jai
-    giminingų genčių savo ypatingu azartinių žygių pomė­
-    giu, neramiu charakteriu, neprisirišimu prie vienos vie­
-    tos, polinkiu grobti ir panieka žmoniškumo teisėms. Jie
-    turėjo gana aukštą civilizacijos lygį, bet jų papročiai bu­
-    vo žiaurūs, jie nepasigailėdavo nė vieno, kurį įtarė esant
-    jų priešą. Antra vertus, galima gėrėtis jų drąsa sausu­
-    moje ir jūroje, laivybos meno išradingumu, nepailstamu
-    darbštumu, ir, jei nepaliausime vertinę jų karingumo po-
-    1 Žinoma, jog gotai kildinami iš germanų, tačiau ši kaukazielių-
-    europiečių genties padermė yra ta pati kaip ir kelių, tik padalyta Į
-    dvi dideles
-    ir
-    skirtingas
-    šakas*.
+  citata_rodoma: "Si \nkeltų šaka, išsiplėtusi Siaurės krašte, skyrėsi nuo jai \ngiminingų genčių savo ypatingu azartinių žygių pomė­\ngiu, neramiu charakteriu, neprisirišimu prie vienos vie­\ntos, polinkiu grobti ir panieka žmoniškumo teisėms. Jie \nturėjo gana aukštą civilizacijos lygį, bet jų papročiai bu­\nvo žiaurūs, jie nepasigailėdavo nė vieno, kurį įtarė esant \njų priešą. Antra vertus, galima gėrėtis jų drąsa sausu­\nmoje ir jūroje, laivybos meno išradingumu, nepailstamu \ndarbštumu, ir, jei nepaliausime vertinę jų karingumo po-\n1 Žinoma, jog gotai kildinami iš germanų, tačiau ši kaukazielių- \neuropiečių genties padermė yra ta pati kaip ir kelių, tik padalyta Į \ndvi dideles \nir \nskirtingas \nšakas*."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192395
-    - t-197502
+    - t-006
+    - t-016
+
 - id: c-175190
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -749,7 +681,9 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192396
+    - t-007
+    - t-009
+
 - id: c-175191
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -773,7 +707,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192397
+    - t-008
+
 - id: c-175192
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -790,24 +725,13 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     reikia prisiminti, kad pirmiausia spaliai atvyko į tas Va­
     karų šalis nuo Azovo jūros, o vėliau visi ar galbūt veik­
     lesnė jų dalis keliavo su gotais.
-  citata_rodoma: |
-    161 krikščioniško­
-    sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
-    savo karaliumi Filimeru, pereidami iš Germanijos į Sar-
-    matiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­
-    met ribojo senovės geografų taip pavadintus kraštus. Bet
-    atsitiko taip, kad tiltas, kai pusė gotų perėjo, įlūžo ir
-    buvo nuneštas srovės. Yra senovės istorikų prielaidų, jog
-    Filimeras, baimindamasis didelio žmonių susigrūdimo,
-    nes visi žmonės norėjo iškeliauti, tyčia pagreitino šį įvy­
-    kį. Taip pusė gotų gyventojų šįsyk liko kitapus Vyslos.
+  citata_rodoma: "161 krikščioniško­\nsios eros metais, pasak Naruševičiaus tyrimų1, gotai su\nsavo karaliumi Filimeru, pereidami iš Germanijos į Sar-\nmatiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­\nmet ribojo senovės geografų taip pavadintus kraštus. Bet\natsitiko taip, kad tiltas, kai pusė gotų perėjo, įlūžo ir\nbuvo nuneštas srovės. Yra senovės istorikų prielaidų, jog\nFilimeras, baimindamasis didelio žmonių susigrūdimo,\nnes visi žmonės norėjo iškeliauti, tyčia pagreitino šį įvy­\nkį. Taip pusė gotų gyventojų šįsyk liko kitapus Vyslos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192398
 - id: c-175195
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -828,7 +752,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192401
+    - t-012
+
 - id: c-175196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -854,8 +779,9 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192402
-    - t-197503
+    - t-013
+    - t-017
+
 - id: c-175197
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -876,7 +802,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192403
+    - t-014
+
 - id: c-176965
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -899,29 +826,15 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
     šiaip dar nepažintą žmogaus proto silpnybės pusę, išsamiau
     pažins įdomią supainiotą praeitį ir civilizacijos progreso ke­
     lius.
-  citata_rodoma: |
-    Bet jos principai visiškai
-    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
-    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
-    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
-    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
-    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
-    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
-    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
-    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
-    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
-    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
-    religijos, kurią gana veiksmingai formavo graikų mitologija.
-    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
-    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
-    artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
+  citata_rodoma: "Bet jos principai visiškai\nnutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­\nnėmis; negalima net manyti, kad senovės graikų tikyba būtų\npatekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka\nmūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O\nkai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo\nkrikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­\nvenusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai\nprimetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos\nmiestų bei provincijų, o krikščionybę arba šiaurės asų religiją,\njeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos\nreligijos, kurią gana veiksmingai formavo graikų mitologija.\nTiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes\nvisos senovės religijos, kaip ir pačios tautos, yra labai viena kitai\nartimos, kilusios iš vienos šakos -  iš vieno lopšio*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194565
+    - t-015
+
 ## Ryšiai
 - Priešai: [[objektai/grupes/Herulai]]
 - Turėjo valdovą: [[objektai/asmenys/Amalas]], [[objektai/asmenys/Germanarikas]]

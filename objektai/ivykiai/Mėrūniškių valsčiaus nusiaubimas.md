@@ -47,9 +47,8 @@ Nenurodyta
 
 <a id="claim-t-62402"></a>
 - t-001
-  global_id: t-62402
   teiginys: "Magistras Konradas su raitija įsiveržė į Sūduvos Mėrūniškių valsčių ir nukovė 18 žymių šio valsčiaus viešpačių."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "puole -> Sūduva: 0.88"
@@ -62,10 +61,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63008
-    - c-001
+
 <a id="claim-t-183947"></a>
 - t-002
-  global_id: t-183947
   teiginys: "Mėrūniškių valsčių magistras Konradas smarkiai nusiaubė degindamas ir plėšdamas, nukovęs arba paėmęs į nelaisvę 600 vyrų ir moterų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,10 +80,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63008
-    - c-001
+
 <a id="claim-t-194409"></a>
 - t-003
-  global_id: t-194409
   teiginys: "Apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą raitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492, kur nukovė 18 šio valsčiaus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -95,7 +92,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63008
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -114,10 +111,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62402
-    - t-183947
+- t-183947
     - t-194409
+
 ## Citatos
 
 - id: c-63008
@@ -135,25 +131,13 @@ Nenurodyta
     palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.
     Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai
     sužeidė, o kiti gėdingai pabėgo.
-  citata_rodoma: |
-    Apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą
-
-       Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą
-    raitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492,
-    kur nukovė 18 šio valsčiaus žymių viešpačių [dominos], o kitus [karius] paliko prie
-    įeigos  į minėtąją žemę493. Jis šį valsčių smarkiai nusiaubė, degindamas ir plėšdamas,
-    nukaudamas ar paimdamas į nelaisvę šešis šimtus vyrų ir moterų.
-
-
-
-
-                           198 (193).
+  citata_rodoma: "Apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą\n\n   Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą\nraitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492,\nkur nukovė 18 šio valsčiaus žymių viešpačių [dominos], o kitus [karius] paliko prie\nįeigos  į minėtąją žemę493. Jis šį valsčių smarkiai nusiaubė, degindamas ir plėšdamas,\nnukaudamas ar paimdamas į nelaisvę šešis šimtus vyrų ir moterų.\n\n\n\n\n                       198 (193)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62402
-    - t-183947
-    - t-194409
+    - t-001
+    - t-002
+    - t-003

@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-62507"></a>
 - t-001
-  global_id: t-62507
   teiginys: "1311 m. totoriai su armėnais ir gruzinais žygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkst. raitelių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,19 +81,15 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių
+    108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių
 
        Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję
     sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235).
-  citata_rodoma: |
-    Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių
-
-       Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję
-    sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235).
+  citata_rodoma: "108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių\n\n   Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję\nsultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol. p. 1235)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62507
+    - t-001

@@ -31,7 +31,6 @@ Galicijoje.
 
 <a id="claim-t-02443"></a>
 - t-001
-  global_id: t-02443
   teiginys: "Po Lenkijos padalinimo Galicijoje išliko unitai, nes ši sritis buvo patekusi Austrijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,16 +63,14 @@ Galicijoje.
     nei pravoslavai. Kai rusai užėmė kraštą, tai unija buvo smurtu
     išnaikinta. Unitai išliko tik tose Lenkijos dalyse, kurios po
     padalinimo buvo patekusios Austrijai, t. y. Galicijoje.
-  citata_rodoma: |
-    Kai rusai užėmė kraštą, tai unija buvo smurtu
-    išnaikinta. Unitai išliko tik tose Lenkijos dalyse, kurios po
-    padalinimo buvo patekusios Austrijai, t. y. Galicijoje.
+  citata_rodoma: "Kai rusai užėmė kraštą, tai unija buvo smurtu\nišnaikinta. Unitai išliko tik tose Lenkijos dalyse, kurios po\npadalinimo buvo patekusios Austrijai, t. y. Galicijoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02443
+    - t-001
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Vladislovas iš Opolės]]

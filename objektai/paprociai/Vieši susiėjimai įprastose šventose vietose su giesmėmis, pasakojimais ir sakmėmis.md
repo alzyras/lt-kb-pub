@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-193035"></a>
 - t-001
-  global_id: t-193035
   teiginys: "Narbutas krikščionių kunigų nusistatymui priskiria draudimą viešai rinktis šventose vietose, kur giesmės ir sakmės primindavo senus prisiminimus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193035
+    - t-001

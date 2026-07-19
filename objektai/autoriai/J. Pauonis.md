@@ -39,7 +39,6 @@ J. Pauonis šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
 
 <a id="claim-t-186435"></a>
 - t-001
-  global_id: t-186435
   teiginys: "J. Pauonis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -57,7 +56,7 @@ J. Pauonis šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
   temporalinis_llm_pakomentavimas: "Citata pakankamai pagrindžia redakcinės komisijos narystę."
   pagrindžia:
     - c-169786
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -72,8 +71,7 @@ J. Pauonis šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186435
+
 ## Citatos
 
 - id: c-169786
@@ -89,14 +87,11 @@ J. Pauonis šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
     tuvių tarybinėje istoriografijoje tradicijos vadinti
     metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
     Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
-  citata_rodoma: |
-    REDAKCINE KOMISIJA
-    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
-    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
+  citata_rodoma: "REDAKCINE KOMISIJA\nK. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,  \nMALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186435
+    - t-001

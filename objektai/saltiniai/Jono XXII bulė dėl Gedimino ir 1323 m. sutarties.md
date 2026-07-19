@@ -38,7 +38,6 @@ Didelį palankumą reikšdami primename ir patariame jums, kad tos sutarties, ka
 
 <a id="claim-t-88254"></a>
 - t-001
-  global_id: t-88254
   teiginys: "Žinios apie Gedimino laišką popiežiui buvo paimtos iš Jono XXII bulės nuorašo Slaptajame archyve."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Didelį palankumą reikšdami primename ir patariame jums, kad tos sutarties, ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88254
+    - t-001

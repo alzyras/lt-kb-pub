@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189857"></a>
 - t-001
-  global_id: t-189857
   teiginys: "Narbutas vaizdavo lietuvius kaip prieš darbus pranašų patarimo klausdavusius žmones, o Krivių Krivaitį vadino gyvu orakulu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -96,4 +95,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189857
+    - t-001

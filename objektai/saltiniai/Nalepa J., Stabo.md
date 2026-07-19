@@ -36,7 +36,6 @@ Dusburgietis teigia, kad stabo — dab.
 
 <a id="claim-t-61192"></a>
 - t-001
-  global_id: t-61192
   teiginys: "J. Nalepos tyrime Stabo ežeras tapatinamas su dabartiniu Kamienne ežeru Suvalkų krašte."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Dusburgietis teigia, kad stabo — dab.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61192
+    - t-001

@@ -50,8 +50,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-55201"></a>
-- t-001
-  global_id: t-55201
+- t-004
   teiginys: "Balińskio pateiktame 1420 m. Vytauto laiško kontekste Žemaitijos ir Lietuvos tapatumas grindžiamas viena kalba ir tais pačiais žmonėmis."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ media_all_json: |-
     - c-55403
 
 <a id="claim-t-55202"></a>
-- t-002
-  global_id: t-55202
+- t-005
   teiginys: "Balińskio vertime formulė perteikiama žodžiais „viskas yra viena - ir žemė, ir žmonės“."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -86,8 +84,7 @@ media_all_json: |-
     - c-55403
 
 <a id="claim-t-71821"></a>
-- t-003
-  global_id: t-71821
+- t-002
   teiginys: "Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,8 +129,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55201
-    - t-55202
+    - t-004
+    - t-005
+
 - id: c-55404
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -152,4 +150,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71821
+    - t-002

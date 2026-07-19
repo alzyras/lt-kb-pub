@@ -44,8 +44,7 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
 ## Teiginiai
 
 <a id="claim-t-182871"></a>
-- t-001
-  global_id: t-182871
+- t-017
   teiginys: "Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
     - c-166275
 
 <a id="claim-t-183055"></a>
-- t-002
-  global_id: t-183055
+- t-004
   teiginys: "Ties Narva Estijoje buvo visiškai sunaikinta caro kariuomenė."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
     - c-166446
 
 <a id="claim-t-183794"></a>
-- t-003
-  global_id: t-183794
+- t-019
   teiginys: "1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -151,7 +148,8 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183794
+    - t-019
+
 - id: c-166275
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -166,21 +164,15 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
     amžius, 66-rių metų laikotarpis nuo Gedimino iki jo sūnaus Kęstu­
     čio mirties (1316-1382), skaitomas didžiausios ordino stiprybės ir
     geriausio jo žydėjimo metais.
-  citata_rodoma: |
-    Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­
-    traciją ir ekonomiškai klestinti vokiečių ordino valstybė, kurios
-    valdos tęsėsi nuo Neumarko iki Narvos (išskyrus Žemaičių kylį),
-    jau buvo praleidusi laiką lietuviams įveikti. Dviejų generacijų
-    amžius, 66-rių metų laikotarpis nuo Gedimino iki jo sūnaus Kęstu­
-    čio mirties (1316-1382), skaitomas didžiausios ordino stiprybės ir
-    geriausio jo žydėjimo metais.
+  citata_rodoma: "Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­\ntraciją ir ekonomiškai klestinti vokiečių ordino valstybė, kurios\nvaldos tęsėsi nuo Neumarko iki Narvos (išskyrus Žemaičių kylį),\njau buvo praleidusi laiką lietuviams įveikti. Dviejų generacijų\namžius, 66-rių metų laikotarpis nuo Gedimino iki jo sūnaus Kęstu­\nčio mirties (1316-1382), skaitomas didžiausios ordino stiprybės ir\ngeriausio jo žydėjimo metais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182871
+    - t-017
+
 - id: c-166446
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -197,6 +189,7 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183055
+    - t-004
+
 ## Ryšiai
 - Užėmė Narvą: [[objektai/grupes/Maskvos kariuomenė]]

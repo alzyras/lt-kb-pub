@@ -33,7 +33,6 @@ Vorobjovas Antakalnio XIX ir XX a. vilas bei kareivines vertino kaip topografiš
 
 <a id="claim-t-200823"></a>
 - t-001
-  global_id: t-200823
   teiginys: "Vorobjovas Antakalnio XIX ir XX a. vilas bei kareivines vertino kaip topografiškai nuostabią vietą bjaurojančius statinius."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Vorobjovas Antakalnio XIX ir XX a. vilas bei kareivines vertino kaip topografiš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200823
+    - t-001

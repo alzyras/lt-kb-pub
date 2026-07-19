@@ -31,7 +31,6 @@ Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vlad
 
 <a id="claim-t-185325"></a>
 - t-001
-  global_id: t-185325
   teiginys: "Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vlad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185325
+    - t-001

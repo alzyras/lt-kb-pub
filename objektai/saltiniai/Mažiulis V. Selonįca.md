@@ -36,7 +36,6 @@ Dusburgietis teigia, kad mažiulis V.
 
 <a id="claim-t-61172"></a>
 - t-001
-  global_id: t-61172
   teiginys: "V. Mažiulio „Selonįca“ paskelbta „Baltistica“ 1981 m. 17 tomo 1 numeryje, p. 7–12."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Dusburgietis teigia, kad mažiulis V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61172
+    - t-001

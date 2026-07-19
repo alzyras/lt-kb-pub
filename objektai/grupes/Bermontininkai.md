@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-40866"></a>
 - t-001
-  global_id: t-40866
   teiginys: "Bermontininkai buvo rusų monarchistų ir vokiečių organizuoti rusų bei vokiečių savanorių daliniai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ media_all_json: |-
     - c-42650
 
 <a id="claim-t-40867"></a>
-- t-002
-  global_id: t-40867
+- t-003
   teiginys: "1919 m. spalio 16 d. Lietuvos vyriausybė priėmė sprendimą jėga išvaryti bermontininkus iš Lietuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ media_all_json: |-
     - c-44726
 
 <a id="claim-t-40868"></a>
-- t-003
-  global_id: t-40868
+- t-002
   teiginys: "Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -170,7 +167,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40866
+    - t-001
+
 - id: c-42652
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -194,7 +192,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40868
+    - t-002
+
 - id: c-44726
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -211,23 +210,15 @@ media_all_json: |-
     santykius su Vokietija, nes didelę dalį
     Bermonto pajėgų sudarė vokiečių sa-
     vanoriai.
-  citata_rodoma: |
-    1919 m. spalio 9 d.
-    Lietuvos vyriausybė paskelbė visoje
-    šalyje karo padėtį, spalio 16 d. buvo pri-
-    imtas sprendimas jėga išvaryti bermon-
-    tininkus iš Lietuvos. Lietuvos konfliktas
-    su bermontininkais labai pablogino
-    santykius su Vokietija, nes didelę dalį
-    Bermonto pajėgų sudarė vokiečių sa-
-    vanoriai.
+  citata_rodoma: "1919 m. spalio 9 d.\nLietuvos vyriausybė paskelbė visoje\nšalyje karo padėtį, spalio 16 d. buvo pri-\nimtas sprendimas jėga išvaryti bermon-\ntininkus iš Lietuvos. Lietuvos konfliktas\nsu bermontininkais labai pablogino\nsantykius su Vokietija, nes didelę dalį\nBermonto pajėgų sudarė vokiečių sa-\nvanoriai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40867
+    - t-003
+
 ## Ryšiai
 - Puolė Bermontininkai: [[objektai/grupes/Panevėžio batalionas]]
 - Kariavo prieš: [[objektai/grupes/Lietuvos Respublika]]

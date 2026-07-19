@@ -31,7 +31,6 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 
 <a id="claim-t-41632"></a>
 - t-001
-  global_id: t-41632
   teiginys: "Buktos (Žaliosios) miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko partizanų būriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     - c-43351
 
 <a id="claim-t-41633"></a>
-- t-002
-  global_id: t-41633
+- t-003
   teiginys: "Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško ir Palių pakraštį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +103,8 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41632
+    - t-001
+
 - id: c-45046
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -117,16 +116,11 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     riui trauktis į Buktos (Žaliosios) miško —
     Palių pakraštį. Kitas būrys užsimaskavo
     Žuvinto ežero salose.
-  citata_rodoma: |
-    Matydamas tokią priešo
-    gausą S. Staniškis-Litas įsakė Dzūkų bū-
-    riui trauktis į Buktos (Žaliosios) miško —
-    Palių pakraštį. Kitas būrys užsimaskavo
-    Žuvinto ežero salose.
+  citata_rodoma: "Matydamas tokią priešo\ngausą S. Staniškis-Litas įsakė Dzūkų bū-\nriui trauktis į Buktos (Žaliosios) miško —\nPalių pakraštį. Kitas būrys užsimaskavo\nŽuvinto ežero salose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41633
+    - t-003

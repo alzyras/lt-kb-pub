@@ -28,9 +28,8 @@ Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tyk
 
 ## Teiginiai
 
-<a id="claim-t-199950"></a>
-- t-001
-  global_id: t-199950
+<a id="claim-t-199949"></a>
+- t-002
   teiginys: "Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius."
   atnaujinta: "2026-07-12 23:04"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -59,19 +58,11 @@ Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tyk
     Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
     prie Tykiosios Sosnos 3 užpuolė Vytauto valdinius se-
     verskiečius, atėmė iš jų du bebrus ir tris statines me-
-  citata_rodoma: |
-    Ir suspindo žvaigždės kaip naktį, ir
-    švietė tris valandas:.
-    Štai kas nutiko po šito dangaus ženklo didžiajam
-    kunigaikščiui Vytautui, draugiškai sugyvenusiam su
-    savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi
-    Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
-    prie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se-
-    verskiečius, atėmė iš jų du bebrus ir tris statines me-
+  citata_rodoma: "Ir suspindo žvaigždės kaip naktį, ir \nšvietė tris valandas:.\nŠtai kas nutiko po šito dangaus ženklo didžiajam \nkunigaikščiui Vytautui, draugiškai sugyvenusiam su \nsavo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi \nDimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio, \nprie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se- \nverskiečius, atėmė iš jų du bebrus ir tris statines me-"
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199950
+    - t-002

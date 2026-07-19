@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-66624"></a>
 - t-001
-  global_id: t-66624
   teiginys: "Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -89,16 +88,11 @@ Nenurodyta
     rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
     skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
     dėti savo statuto, t. y. savo atskirų teisių).
-  citata_rodoma: |
-    „Mužikus nori padaryti
-    bajorais, o mus — mužikais", — šaukė bajorija. (Lietuvos bajo-
-    rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
-    skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
-    dėti savo statuto, t. y. savo atskirų teisių).
+  citata_rodoma: "„Mužikus nori padaryti\nbajorais, o mus — mužikais\", — šaukė bajorija. (Lietuvos bajo-\nrija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo\nskiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-\ndėti savo statuto, t. y. savo atskirų teisių)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66624
+    - t-001

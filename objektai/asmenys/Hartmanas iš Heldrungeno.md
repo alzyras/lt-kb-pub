@@ -40,8 +40,7 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
 ## Teiginiai
 
 <a id="claim-t-59966"></a>
-- t-001
-  global_id: t-59966
+- t-004
   teiginys: "Hartmanas iš Heldrungeno kartu su Konradu, Ditrichu iš Gruningeno ir keliais namiškiais buvo Teneburgo pilyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,28 +56,19 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
     - c-60598
 
 <a id="claim-t-59967"></a>
-- t-002
-  global_id: t-59967
+- t-003
   teiginys: "Hartmanas iš Heldrungeno buvo didysis magistras, broliu tapęs prieš 1237 m. ir miręs 1282 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hartmanas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hartmanas iš Heldrungeno: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Hartmanas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hartmanas iš Heldrungeno\" parinktas kaip owner_note_path. Targetas \"Hartmanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1237 m.; įvykio data: 1282 m.; įvykio data: po 1313 m.; įvykio data: 1313 m.; įvykio data: po 1324 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir atitinka citatoje pateiktą informaciją."
   pagrindžia:
-    - c-60597
-    - c-001
+    - c-60598
+
 <a id="claim-t-59968"></a>
-- t-003
-  global_id: t-59968
+- t-001
   teiginys: "Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą pastarajam."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -93,7 +83,7 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   semantiniai_rysiai: "Livonija priklausė Kryžiuočių ordinas (0.86)"
   pagrindžia:
     - c-60599
-    - c-003
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hartmanas iš Heldrungeno buvo didysis magistras, broliu tapęs prieš 1237 m. ir miręs 1282 m.'
@@ -108,8 +98,6 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59967
 - c-003
   santrauka: 'Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą pastarajam.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -123,8 +111,7 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59968
+
 ## Citatos
 
 - id: c-60597
@@ -139,17 +126,13 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
     su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.
     Daug žinių galėjo duoti ir Ordinui paklusę prūsai, ypač kilmingieji, buvę vadai, gerai
     pažinoję teritoriją, kelius ir žmones (III, 74, 223).
-  citata_rodoma: |
-    Ordino žodinę tradiciją skleisti  ir Dusburgietį informuoti galėjo trys brolių kartos.
-    Pirmajai atstovautų didysis magistras Hartmanas, broliu tapęs prieš 1237 m. (miręs
-    1282 m.).
+  citata_rodoma: "Ordino žodinę tradiciją skleisti  ir Dusburgietį informuoti galėjo trys brolių kartos.\nPirmajai atstovautų didysis magistras Hartmanas, broliu tapęs prieš 1237 m. (miręs\n1282 m.)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-59967
 - id: c-60598
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -161,19 +144,16 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
     Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
     ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
     597  D.— Deneburgk — Teneburgas į pietvakarius nuo Gotos.
-  citata_rodoma: |
-    Vieną gražią dieną, bėgdamas
-    nuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš
-    Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
-    ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
-      597 D.
+  citata_rodoma: "Vieną gražią dieną, bėgdamas\nnuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš\nHeldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,\nten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:\n  597 D."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59966
+    - t-004
+    - t-003
+
 - id: c-60599
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -184,15 +164,11 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
     (1273—1282 m.) valdymo laikotarpiu — magistro kanceliarijoje ir jo įsakymu, juo
     siekiama įtvirtinti Ordino tradiciją tarp pačių Ordino brolių, o galbūt ir tarp atvykstančių
     talkininkų.
-  citata_rodoma: |
-    Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė
-    su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus
-    dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus sprendimas
-    po kalavijuočių pralaimėjimo Saulės—Šiaulių mūšyje.
+  citata_rodoma: "Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė\nsu Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus\ndvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus sprendimas\npo kalavijuočių pralaimėjimo Saulės—Šiaulių mūšyje."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59968
+    - t-001

@@ -30,7 +30,6 @@ Narbutas, remdamasis Huldasaga, rašo, kad Huldos dukterys Tergerda ir Irpa stat
 
 <a id="claim-t-190535"></a>
 - t-001
-  global_id: t-190535
   teiginys: "Narbutas, remdamasis Huldasaga, rašo, kad Huldos dukterys Tergerda ir Irpa statė šventyklą Odino garbei."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbutas, remdamasis Huldasaga, rašo, kad Huldos dukterys Tergerda ir Irpa stat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190535
+    - t-001

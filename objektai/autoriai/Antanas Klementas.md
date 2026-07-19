@@ -39,7 +39,6 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
 
 <a id="claim-t-63302"></a>
 - t-001
-  global_id: t-63302
   teiginys: "Antanas Klementas 1794 m. revoliucijos laikais parašė „Žemaitišką dainelę“."
   atnaujinta: "2026-05-30 14:17"
   sprendimo_priezastis: "auto"
@@ -72,18 +71,11 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
     Antanas Klementas. Žemaitiška
     dainelė, revoliucijos laikais
     rašyta... 1794 m.
-  citata_rodoma: |
-    Vokiečių
-
-    ŽEMAITIŠKA DAINELĖ
-
-    Antanas Klementas. Žemaitiška
-    dainelė, revoliucijos laikais
-    rašyta... 1794 m.
+  citata_rodoma: "Vokiečių\n\nŽEMAITIŠKA DAINELĖ\n\nAntanas Klementas. Žemaitiška\ndainelė, revoliucijos laikais\nrašyta... 1794 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63302
+    - t-001

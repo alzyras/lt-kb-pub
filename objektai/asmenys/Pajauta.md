@@ -41,9 +41,8 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
 
 <a id="claim-t-186244"></a>
 - t-001
-  global_id: t-186244
   teiginys: "Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,9 +64,8 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
 
 <a id="claim-t-188600"></a>
 - t-002
-  global_id: t-188600
   teiginys: "Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -86,8 +84,7 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
     - c-171489
 
 <a id="claim-t-197434"></a>
-- t-003
-  global_id: t-197434
+- t-005
   teiginys: "Pajauta yra ant gana aukšto kalno, matomas toli iš jūros."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -124,27 +121,15 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
     džiulę spragą. Ją vis dėlto anie rašytojai nejučiomis
     apėjo, nepaisydami nė to, kad šis tarpsnis atskyrė tėvą
     nuo sūnų, o tiesioginį įpėdinį nuo jo protėvių.
-  citata_rodoma: |
-    Galbūt šitaip ir bū­
-    tų atsitikę, jeigu, jam mirus,
-    1089 m eta i
-    būtų prasidėjęs tarpuvaldis:
-    mat neturėjo jis sūnaus —
-    savo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs
-    jiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš
-    Julijono Dausprungo palikuonių, pajėgų valdyti jauni­
-    kaitį, netrukus jam į žmonas atidavė vienturtę dukterį
-    Pajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai
-    pasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­
-    tas (kaip tais laikais derėjo) ir ant aukštos kalvos prie
-    Deltuvos palaidotas.
+  citata_rodoma: "Galbūt šitaip ir bū­\ntų atsitikę, jeigu, jam mirus,\n1089 m eta i\nbūtų prasidėjęs tarpuvaldis:\nmat neturėjo jis sūnaus —\nsavo įpėdinio. Todėl, sukvietęs didikus ir paaiškinęs\njiems didžiulį pavojų, jis įsūnijo Živinbudą, vieną iš\nJulijono Dausprungo palikuonių, pajėgų valdyti jauni­\nkaitį, netrukus jam į žmonas atidavė vienturtę dukterį\nPajautą, o kraičio pridėjo Lietuvos kunigaikštystę. Kai\npasitraukė iš gyvenimo, jis buvo iškilmingai pašarvo­\ntas (kaip tais laikais derėjo) ir ant aukštos kalvos prie\nDeltuvos palaidotas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186244
+    - t-001
+
 - id: c-171489
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -160,27 +145,15 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
     Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
     tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
     mėti ten visuomet stovi medinis kryžius.
-  citata_rodoma: |
-    Nereikia tapatinti Medziojnos
-    su Medžiojma, kurią laikėme medžiotojų deive, vadinama
-    Laima.
-    154
-
-    ## Puslapis 154
-
-    Pajauta (Pojata)
-    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
-    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
-    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
-    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
-    šė paveldimą Kernavės kunigaikštystę.
+  citata_rodoma: "Nereikia tapatinti Medziojnos\nsu Medžiojma, kurią laikėme medžiotojų deive, vadinama\nLaima.\n154\n\n## Puslapis 154\n\nPajauta (Pojata)\nLietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­\nba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.\nTa kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-\nvinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­\nšė paveldimą Kernavės kunigaikštystę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188600
+    - t-002
+
 - id: c-179185
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -200,7 +173,8 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197434
+    - t-005
+
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Živinbudas]]
 - Sutuoktiniai: [[objektai/asmenys/Živinbudas]]

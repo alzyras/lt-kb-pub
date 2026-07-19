@@ -38,7 +38,6 @@ Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veik
 
 <a id="claim-t-88089"></a>
 - t-001
-  global_id: t-88089
   teiginys: "Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veikalas)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88089
+    - t-001

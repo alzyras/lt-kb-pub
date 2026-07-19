@@ -35,7 +35,6 @@ Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją su
 
 <a id="claim-t-181536"></a>
 - t-001
-  global_id: t-181536
   teiginys: "Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją sudaro du trečdaliai, tai yra 24 000 raitelių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181536
+    - t-001

@@ -31,7 +31,6 @@ Tačiau jam buvo leista gyventi prie pat Kauno, vietoj senojo Marijenverderio pa
 
 <a id="claim-t-193278"></a>
 - t-001
-  global_id: t-193278
   teiginys: "Tačiau jam buvo leista gyventi prie pat Kauno, vietoj senojo Marijenverderio pastatytoje Ritersverderio pilyje."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ Tačiau jam buvo leista gyventi prie pat Kauno, vietoj senojo Marijenverderio pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193278
+    - t-001

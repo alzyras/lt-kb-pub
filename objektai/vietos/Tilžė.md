@@ -47,7 +47,6 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
 
 <a id="claim-t-183092"></a>
 - t-001
-  global_id: t-183092
   teiginys: "Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi nusikratyti Rusijos valdžios Lietuvoje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -71,9 +70,8 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
 
 <a id="claim-t-188838"></a>
 - t-002
-  global_id: t-188838
   teiginys: "Tarnaudamas Rusijos kariuomenėje, T. Narbutas 1807 m. dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -95,7 +93,6 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
 
 <a id="claim-t-188839"></a>
 - t-003
-  global_id: t-188839
   teiginys: "Narbutas rašo, kad už Tilžės, prie Sancinės, buvo apkasas arba piliakalnis, vietinių vadintas Kroniszkas-Pilnis, tai yra Kruonio pilimi."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -116,7 +113,6 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
 
 <a id="claim-t-194949"></a>
 - t-004
-  global_id: t-194949
   teiginys: "Tilžė, 1923."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -129,7 +125,6 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
 
 <a id="claim-t-196747"></a>
 - t-005
-  global_id: t-196747
   teiginys: "Algirdas ir Aleksandras Karijotaitis, nuniokoję daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė aštuonis šimtus belaisvių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -186,7 +181,8 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183092
+    - t-001
+
 - id: c-171727
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -201,17 +197,15 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
     kus. Vilniaus šubravcų draugijos nariai, pasivadinę pagoniš­
     kais dievų ir dievybių vardais, rinko medžiagą apie lietuvių
     mitologiją.
-  citata_rodoma: |
-    Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
-    vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­
-    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
+  citata_rodoma: "Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­\nvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188838
+    - t-002
+
 - id: c-171728
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -232,7 +226,8 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188839
+    - t-003
+
 - id: c-177345
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -247,7 +242,8 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194949
+    - t-004
+
 - id: c-178886
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -269,4 +265,4 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196747
+    - t-005

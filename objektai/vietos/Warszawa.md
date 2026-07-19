@@ -33,21 +33,6 @@ media_all_json: |-
 
 Stowko о bogach Litewskich // Biblioteka Warszawska.
 
-## Teiginiai
-
-<a id="claim-t-188930"></a>
-- t-001
-  global_id: t-188930
-  teiginys: "Stowko о bogach Litewskich // Biblioteka Warszawska."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171819
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Stowko о bogach Litewskich // Biblioteka Warszawska.'
@@ -60,8 +45,7 @@ Stowko о bogach Litewskich // Biblioteka Warszawska.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188930
+
 ## Citatos
 
 - id: c-171819
@@ -79,13 +63,25 @@ Stowko о bogach Litewskich // Biblioteka Warszawska.
     kinimą“ jis parašė norėdamas parodyti, kiek daug T. Narbuto
     naudotuose šaltiniuose yra neteisingų, iškraipytų faktų ir kaip
     iš tiesų reikia vertinti lietuvių mitologiją.
-  citata_rodoma: |
-    25 Akielewicz М. Stowko о bogach Litewskich // Biblioteka Wars-
-    zawska. -  Warszawa, 1858. -  T. 3. -  S. 192-195.
+  citata_rodoma: "25 Akielewicz М. Stowko о bogach Litewskich // Biblioteka Wars-\nzawska. -  Warszawa, 1858. -  T. 3. -  S. 192-195."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188930
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-188930"></a>
+- t-001
+  teiginys: "Stowko о bogach Litewskich // Biblioteka Warszawska."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171819

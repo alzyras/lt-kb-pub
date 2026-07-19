@@ -31,7 +31,6 @@ Narbuto cituotame pasakojime šv. Severinas atpažino persirengusį Odoakrą ir 
 
 <a id="claim-t-191495"></a>
 - t-001
-  global_id: t-191495
   teiginys: "Narbuto cituotame pasakojime šv. Severinas atpažino persirengusį Odoakrą ir išpranašavo, kad šis taps karaliumi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbuto cituotame pasakojime šv. Severinas atpažino persirengusį Odoakrą ir 
 
 <a id="claim-t-197848"></a>
 - t-002
-  global_id: t-197848
   teiginys: "Severino šventumą, iš smalsumo aplankė jį kartu su savo riteriais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -90,5 +88,5 @@ Narbuto cituotame pasakojime šv. Severinas atpažino persirengusį Odoakrą ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191495
-    - t-197848
+    - t-001
+    - t-002

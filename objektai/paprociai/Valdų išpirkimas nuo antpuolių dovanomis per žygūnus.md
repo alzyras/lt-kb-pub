@@ -52,9 +52,8 @@ Nenurodyta
 
 <a id="claim-t-185926"></a>
 - t-001
-  global_id: t-185926
   teiginys: "1449 m. pasienio seniūnas Jurga per žygūnus pasiuntė gausių dovanų ir išpirko lietuviams priklausomas valdas nuo skitų antpuolių."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -99,23 +98,11 @@ Nenurodyta
     kalaujant sugrąžinti Podolę, o lenkams ne mažiau įnir­
     tingai priešinantis, seimas išsivažinėjo ne tik nieko ne­
     nutaręs, bet dar labiau sukurstęs abipusį nepakantumą.
-  citata_rodoma: |
-    Šitai galima pasiekti tada, kai abi
-    tautos gyvensiančios vienodomis teisėmis, valdomos vie­
-    no karaliaus, vienoje Lenkijos karalystėje, panaikinus
-    Lietuvos Didžiosios Kunigaikštystės bei visų Lietuvos
-    pareigybių vardus, kurie, pirma, rodo, jog valstybė
-    esanti padalyta, o antra — visada duos dingstį nesan­
-    taikai. Šitaip atsakydami, jie nelyginant įpylė į ugnį aly­
-    vos. Lietuviai, šaukdamiesi dangaus keršto, pakėlė di­
-    delį triukšmą: girdi, ligi šiol patraukliu žodžiu „unija"
-    jiems akis muilinę, susimanė galop atimti žemes ir pa­
-    siekti, kad, išnykus lietuvių bei rusų vardams, neliktų
-    nė pačios Lietuvos.
+  citata_rodoma: "Šitai galima pasiekti tada, kai abi \ntautos gyvensiančios vienodomis teisėmis, valdomos vie­\nno karaliaus, vienoje Lenkijos karalystėje, panaikinus \nLietuvos Didžiosios Kunigaikštystės bei visų Lietuvos \npareigybių vardus, kurie, pirma, rodo, jog valstybė \nesanti padalyta, o antra — visada duos dingstį nesan­\ntaikai. Šitaip atsakydami, jie nelyginant įpylė į ugnį aly­\nvos. Lietuviai, šaukdamiesi dangaus keršto, pakėlė di­\ndelį triukšmą: girdi, ligi šiol patraukliu žodžiu „unija\" \njiems akis muilinę, susimanė galop atimti žemes ir pa­\nsiekti, kad, išnykus lietuvių bei rusų vardams, neliktų \nnė pačios Lietuvos."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185926
+    - t-001

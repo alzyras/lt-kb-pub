@@ -38,7 +38,6 @@ Antanas Dambrauskas išvertė cituotą Ovidijaus „Metamorfozių“ ištrauką,
 
 <a id="claim-t-190345"></a>
 - t-001
-  global_id: t-190345
   teiginys: "Antanas Dambrauskas išvertė cituotą Ovidijaus „Metamorfozių“ ištrauką, naudotą pagal 1979 m. Vilniaus leidimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Antanas Dambrauskas išvertė cituotą Ovidijaus „Metamorfozių“ ištrauką,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190345
+    - t-001

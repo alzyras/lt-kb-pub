@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-87235"></a>
 - t-001
-  global_id: t-87235
   teiginys: "Jogaila suteikė Vilniui Magdeburgo teises, tačiau miestiečiai liko pavaldūs Vilniaus seniūnui ir privalėjo saugoti Vilniaus pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +68,6 @@ Nenurodyta
 
 <a id="claim-t-87236"></a>
 - t-002
-  global_id: t-87236
   teiginys: "Pirmosios Lietuvoje Vilniaus miesto teisės būtų pagerinusios miesto būklę, jei šalies nebūtų sukrėtęs vidaus karas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,7 +124,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87235
+    - t-001
+
 - id: c-83215
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -151,4 +150,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87236
+    - t-002

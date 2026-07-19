@@ -38,7 +38,6 @@ Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot kovojęs su rusais,
 
 <a id="claim-t-168145"></a>
 - t-001
-  global_id: t-168145
   teiginys: "Chlapovskio vadovaujama kariuomenė nekovojo su rusais ir, prieš pereidama Prūsijos sieną, padėjo ginklus."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot kovojęs su rusais,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-168145
+    - t-001

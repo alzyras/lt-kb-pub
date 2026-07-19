@@ -38,7 +38,6 @@ Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.
 
 <a id="claim-t-78083"></a>
 - t-001
-  global_id: t-78083
   teiginys: "Jacobo Schrencko „Armamentarium Heroicum“ 1603 m. Insbruke pateikė Mikalojaus Radvilos Juodojo atvaizdą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78083
+    - t-001

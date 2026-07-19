@@ -36,7 +36,6 @@ Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas imperat
 
 <a id="claim-t-200738"></a>
 - t-001
-  global_id: t-200738
   teiginys: "Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas imperatoriui Zigmantui padovanojo brangakmeniais puoštą tauro ragą."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -67,8 +66,5 @@ Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas imperat
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200738
+    - t-001

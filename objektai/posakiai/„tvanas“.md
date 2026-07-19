@@ -41,7 +41,6 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 
 <a id="claim-t-20954"></a>
 - t-001
-  global_id: t-20954
   teiginys: "„Tvanu“ vadinama 1654–1667 m. Rusijos ir Švedijos invazija, ištikusi Lietuvą ir Lenkiją valdant Vazų dinastijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 
 <a id="claim-t-183512"></a>
 - t-002
-  global_id: t-183512
   teiginys: "Valdant Vazų dinastijai, Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija 1654–1667 m."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -125,5 +123,5 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20954
-    - t-183512
+    - t-001
+    - t-002

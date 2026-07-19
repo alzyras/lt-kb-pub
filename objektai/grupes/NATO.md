@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-19949"></a>
 - t-001
-  global_id: t-19949
   teiginys: "2004 m. Lietuva tapo NATO ir Europos Sąjungos nare."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ media_all_json: |-
 
 <a id="claim-t-19950"></a>
 - t-002
-  global_id: t-19950
   teiginys: "2004 m. Lietuva tapo ES ir NATO nare."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -147,15 +145,15 @@ media_all_json: |-
     2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
     2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
     jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
-  citata_rodoma: |
-    jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
+  citata_rodoma: "jungai – laisvų ir demokratinių Europos valstybių susivienijimui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19949
+    - t-001
+
 - id: c-166560
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -172,6 +170,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19950
+    - t-002
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]

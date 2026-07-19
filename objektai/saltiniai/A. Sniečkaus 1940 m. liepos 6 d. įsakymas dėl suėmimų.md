@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-26482"></a>
 - t-001
-  global_id: t-26482
   teiginys: "1940 m. liepos 6 d. A. Sniečkus išleido įsakymą, leidusį suimti agituojančiuosius prieš Liaudies vyriausybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26482
+    - t-001

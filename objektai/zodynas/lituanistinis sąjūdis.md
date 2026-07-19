@@ -53,7 +53,6 @@ Terminas vartojamas kaip pradžia, nuo kurios Vilniaus universitete kilo lietuvi
 
 <a id="claim-t-05596"></a>
 - t-001
-  global_id: t-05596
   teiginys: "Ankstyvas lituanistinis sąjūdis siejamas su Vilniaus universitetu."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Terminas vartojamas kaip pradžia, nuo kurios Vilniaus universitete kilo lietuvi
 
 <a id="claim-t-05597"></a>
 - t-002
-  global_id: t-05597
   teiginys: "Ankstyvasis lituanistinis sąjūdis Vilniaus universitete skatino XIX a. lietuvių tautos atgimimo veikėjų domėjimąsi Lietuvos istorija."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -103,18 +101,12 @@ Terminas vartojamas kaip pradžia, nuo kurios Vilniaus universitete kilo lietuvi
     XIV amžių lietuvių didybę anie istorijos mėgėjai patriotai patys
     tyrinėjo, rašė ir garbino Lietuvos žymiųjų valdovų, jos didžiųjų
     kunigaikščių laikus bei jų žygius.
-  citata_rodoma: |
-    Pradedant ankstybu lituanistiniu sąjūdžiu dar Vilniaus uni-
-    versitete lietuvių tautos atgimimo veikėjai XIX amžiuje iš širdies
-    pamilo Lietuvos istoriją. Norėdami savo tautai parodyti XIII-
-    XIV amžių lietuvių didybę anie istorijos mėgėjai patriotai patys
-    tyrinėjo, rašė ir garbino Lietuvos žymiųjų valdovų, jos didžiųjų
-    kunigaikščių laikus bei jų žygius.
+  citata_rodoma: "Pradedant ankstybu lituanistiniu sąjūdžiu dar Vilniaus uni-\nversitete lietuvių tautos atgimimo veikėjai XIX amžiuje iš širdies\npamilo Lietuvos istoriją. Norėdami savo tautai parodyti XIII-\nXIV amžių lietuvių didybę anie istorijos mėgėjai patriotai patys\ntyrinėjo, rašė ir garbino Lietuvos žymiųjų valdovų, jos didžiųjų\nkunigaikščių laikus bei jų žygius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05596
-    - t-05597
+    - t-001
+    - t-002

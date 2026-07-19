@@ -37,8 +37,7 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
 ## Teiginiai
 
 <a id="claim-t-22275"></a>
-- t-001
-  global_id: t-22275
+- t-002
   teiginys: "Nepriklausomybės kare arklių, pašarų ir maisto rekvizicijos daugiausia vykdytos lenkų dvaruose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
     - c-24965
 
 <a id="claim-t-22276"></a>
-- t-002
-  global_id: t-22276
+- t-001
   teiginys: "Valstybės Taryba siuntė protestus dėl vokiečių vykdomų rekvizicijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,15 +87,15 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
     valdžią, siuntė protestus dėl vokiečių vykdomų rekvizicijų, rūpinosi grą-
     žinti lietuvius karo belaisvius iš Vokietijos ir Austrijos, lietuvių repatriaci-
     ja iš Rusijos (iki 1922 m. sausio į Lietuvą sugrįžo 195 000 žmonių).
-  citata_rodoma: |
-    žinti lietuvius karo belaisvius iš Vokietijos ir Austrijos, lietuvių repatriaci-
+  citata_rodoma: "žinti lietuvius karo belaisvius iš Vokietijos ir Austrijos, lietuvių repatriaci-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22276
+    - t-001
+
 - id: c-24965
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -107,12 +105,11 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
     jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose
     vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą,
     nebelaukė.
-  citata_rodoma: |
-    Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės
+  citata_rodoma: "Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22275
+    - t-002

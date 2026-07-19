@@ -39,7 +39,6 @@ Taigi greitai, 1385 metais, mažamečiai Vy­ tauto sūnūs, Jonas ir Jurgis, bu
 
 <a id="claim-t-87740"></a>
 - t-001
-  global_id: t-87740
   teiginys: "Vytauto mažametis sūnus Jurgis 1385 m. buvo nunuodytas Karaliaučiuje kartu su broliu Jonu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Taigi greitai, 1385 metais, mažamečiai Vy­ tauto sūnūs, Jonas ir Jurgis, bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87740
+    - t-001

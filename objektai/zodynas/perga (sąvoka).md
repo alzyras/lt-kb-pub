@@ -33,7 +33,6 @@ Mažiausias Aleksote statomas laivas buvo perga. Tai gali būti iš rašytinių 
 
 <a id="claim-t-201782"></a>
 - t-001
-  global_id: t-201782
   teiginys: "Mažiausias Aleksote statomas laivas buvo perga."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,6 @@ Mažiausias Aleksote statomas laivas buvo perga. Tai gali būti iš rašytinių 
 
 <a id="claim-t-201783"></a>
 - t-002
-  global_id: t-201783
   teiginys: "Tai gali būti iš rašytinių šaltinių žinoma didelė Nemuno valtis perga, kuria taip pat, kaip vytinėmis ir škutais, buvo gabenamos prekės."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,7 @@ Mažiausias Aleksote statomas laivas buvo perga. Tai gali būti iš rašytinių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201782
+    - t-001
 
 - id: c-185130
   autorius: "Zigmantas Kiaupa"
@@ -93,4 +91,4 @@ Mažiausias Aleksote statomas laivas buvo perga. Tai gali būti iš rašytinių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201783
+    - t-002

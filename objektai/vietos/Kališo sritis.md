@@ -37,7 +37,6 @@ Drauge su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes, o 
 
 <a id="claim-t-32195"></a>
 - t-001
-  global_id: t-32195
   teiginys: "1307 m. lietuviai drauge su rusais buvo įsiveržę į Kališo sritį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,15 +67,11 @@ Drauge su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes, o 
     su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
     o 1307 buvo įsiveržę į Kališo sritį^5.
     Tuo pačiu laiku lietuviai turėjo kitą svarbų frontą.
-  citata_rodoma: |
-    Drauge
-    su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
-    o 1307 buvo įsiveržę į Kališo sritį^5.
-    Tuo pačiu laiku lietuviai turėjo kitą svarbų frontą.
+  citata_rodoma: "Drauge\nsu rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,\no 1307 buvo įsiveržę į Kališo sritį^5.\nTuo pačiu laiku lietuviai turėjo kitą svarbų frontą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32195
+    - t-001

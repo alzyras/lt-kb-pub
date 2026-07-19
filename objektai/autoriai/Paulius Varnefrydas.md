@@ -31,7 +31,6 @@ Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad p
 
 <a id="claim-t-194845"></a>
 - t-001
-  global_id: t-194845
   teiginys: "Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad pas herulus matęs žaliuojančius linų laukus ."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194845
+    - t-001

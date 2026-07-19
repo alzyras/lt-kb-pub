@@ -38,7 +38,6 @@ Smetona žuvo Klivlande per gaisrą.
 
 <a id="claim-t-15274"></a>
 - t-001
-  global_id: t-15274
   teiginys: "1944 m. sausį Antanas Smetona žuvo Klivlande per gaisrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,14 +80,14 @@ Smetona žuvo Klivlande per gaisrą.
     tugaliją išvyko į JAV. Tačiau norėdamas gauti JAV vizą turėjo įsipareigoti
     nevykdyti politinės veiklos, tad apsiribojo ryšiais su JAV lietuviais ir Lietu-
     vos diplomatais. 1944 m. sausį A. Smetona žuvo Klivlande per gaisrą.
-  citata_rodoma: |
-    1944 m. sausį A. Smetona žuvo Klivlande per gaisrą.
+  citata_rodoma: "1944 m. sausį A. Smetona žuvo Klivlande per gaisrą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-15274
+    - t-001
+
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/A. Smetona]], [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

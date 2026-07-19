@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-66565"></a>
 - t-001
-  global_id: t-66565
   teiginys: "Susitaręs su Jogaila, Vytautas sudegino Jurbarką, Naująjį Marijenburgą ir Naująjį Bajerburgą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66565
+    - t-001

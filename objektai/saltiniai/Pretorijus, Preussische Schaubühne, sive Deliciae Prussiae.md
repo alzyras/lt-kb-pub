@@ -30,7 +30,6 @@ Pretorijaus veikale „Preussische Schaubühne, sive Deliciae Prussiae“ nurody
 
 <a id="claim-t-191852"></a>
 - t-001
-  global_id: t-191852
   teiginys: "Pretorijaus veikale „Preussische Schaubühne, sive Deliciae Prussiae“ nurodyti dalykai iš dingusia laikytos Rozencveigo kronikos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Pretorijaus veikale „Preussische Schaubühne, sive Deliciae Prussiae“ nurody
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191852
+    - t-001

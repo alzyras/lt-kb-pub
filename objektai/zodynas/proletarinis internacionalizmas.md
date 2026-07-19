@@ -31,7 +31,6 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
 
 <a id="claim-t-22258"></a>
 - t-001
-  global_id: t-22258
   teiginys: "Į proletarinį internacionalizmą orientuotos radikalių kairiųjų organizacijos Lietuvoje veikė nelegaliai ir krašte buvo neįtakingos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
 
 <a id="claim-t-193612"></a>
 - t-002
-  global_id: t-193612
   teiginys: "Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektualas, taip pat negausi LDK valstybingumo."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -80,15 +78,15 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
     besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
     las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
     tiečių“ (lenkiškai „krajovcų“) demokratų srovė.
-  citata_rodoma: |
-    riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
+  citata_rodoma: "riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22258
+    - t-001
+
 - id: c-176285
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -113,4 +111,4 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193612
+    - t-002

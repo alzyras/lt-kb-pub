@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-186650"></a>
 - t-003
-  global_id: t-186650
   teiginys: "Lietuvos metraštis pasakoja, kad Parčevo seime priimti sumanymai ir nutarimai liko didelė paslaptis."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -76,7 +75,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169911
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos metraštis pasakoja, kad Parčevo seime priimti sumanymai ir nutarimai liko didelė paslaptis.'
@@ -99,11 +98,9 @@ Nenurodyta
     vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186650
+  statusas: verified
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -123,10 +120,11 @@ Nenurodyta
     j Vilnių 3 .
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-001
+
 ## Citatos
 
 - id: c-169911
@@ -149,21 +147,11 @@ Nenurodyta
     tais sumanė ir nutarė — visa tai paliko didelė paslap­
     tis 7, Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
     vą ®, o didysis kunigaikštis Aleksandras — į Vilnių9.
-  citata_rodoma: |
-    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
-    taus gimimo tūkstantis keturi šimtai devyniasdešimt
-    šeštaisiais didysis kunigaikštis Aleksandras išvyko
-    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
-    čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais
-    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
-    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
-    tais sumanė ir nutarė — visa tai paliko didelė paslap­
-    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
-    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
+  citata_rodoma: "Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­\ntaus gimimo tūkstantis keturi šimtai devyniasdešimt \nšeštaisiais didysis kunigaikštis Aleksandras išvyko \nį Brastą \\  o karalius Olbrachtas su jų broliu, karalai­\nčiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais \nsavo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­\nme, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­\ntais sumanė ir nutarė — visa tai paliko didelė paslap­\ntis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­\nvą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186650
+    - t-003

@@ -36,7 +36,6 @@ Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju 3 skyriu
 
 <a id="claim-t-21038"></a>
 - t-001
-  global_id: t-21038
   teiginys: "Į Didįjį Vilniaus Seimą susirinko apie 2 000 delegatų iš beveik visos etnografinės Lietuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,12 +64,11 @@ Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju 3 skyriu
     dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos
     Lietuvoje delegatai. Kulminacinis suvažiavimo įvykis buvo rezoliucijos
     dėl politinės autonomijos Lietuvai suteikimo priėmimas.
-  citata_rodoma: |
-    dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos
+  citata_rodoma: "dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21038
+    - t-001

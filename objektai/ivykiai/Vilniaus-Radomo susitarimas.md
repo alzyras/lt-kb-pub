@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66976"></a>
-- t-001
-  global_id: t-66976
+- t-003
   teiginys: "1401 m. po ilgų derybų pasiektą Vilniaus-Radomo susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkijos bajorai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-66977"></a>
 - t-002
-  global_id: t-66977
   teiginys: "Po Vorsklos pralaimėjimo 1401 m. Vilniaus ir Radomo suvažiavimuose buvo aiškiau nustatyti Vytauto ir Karūnos santykiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,22 +92,6 @@ Nenurodyta
   pagrindžia:
     - c-67050
 
-## Reikšmingi paminėjimai
-- c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vorsklos pralaimėjimas tačiau Vytautui nešė nuostolius kituose
-    frontuose. Jis nebegalėjo daugiau atsipalaiduoti nuo Lenkijos.
-    Nelaimingosios Vytautui kautynės Karūnos interesams tačiau buvo
-    laimingos. Lenkija vėl daugiau įgijo įtakos Lietuvoje^43. O su
-    bebandančiu atsipalaiduoti Vytautu atskirais aktais (Vilniaus ir
-    Radomo suvažiavimuose 1401) buvo aiškiau nustatyti santykiai^44.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
 ## Citatos
 
 - id: c-67050
@@ -123,17 +105,15 @@ Nenurodyta
     Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai
     teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.
     Todėl ir tas aktas vadintinas Vilniaus-Radomo unija.
-  citata_rodoma: |
-    Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai
-    teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.
-    Todėl ir tas aktas vadintinas Vilniaus-Radomo unija.
+  citata_rodoma: "Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai\nteisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.\nTodėl ir tas aktas vadintinas Vilniaus-Radomo unija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66977
+    - t-002
+
 - id: c-67051
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -153,4 +133,22 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66976
+    - t-003
+
+- id: c-67052
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Vorsklos pralaimėjimas tačiau Vytautui nešė nuostolius kituose
+    frontuose. Jis nebegalėjo daugiau atsipalaiduoti nuo Lenkijos.
+    Nelaimingosios Vytautui kautynės Karūnos interesams tačiau buvo
+    laimingos. Lenkija vėl daugiau įgijo įtakos Lietuvoje^43. O su
+    bebandančiu atsipalaiduoti Vytautu atskirais aktais (Vilniaus ir
+    Radomo suvažiavimuose 1401) buvo aiškiau nustatyti santykiai^44.
+  citata_rodoma: "Vorsklos pralaimėjimas tačiau Vytautui nešė nuostolius kituose\nfrontuose. Jis nebegalėjo daugiau atsipalaiduoti nuo Lenkijos.\nNelaimingosios Vytautui kautynės Karūnos interesams tačiau buvo\nlaimingos. Lenkija vėl daugiau įgijo įtakos Lietuvoje^43. O su\nbebandančiu atsipalaiduoti Vytautu atskirais aktais (Vilniaus ir\nRadomo suvažiavimuose 1401) buvo aiškiau nustatyti santykiai^44"
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

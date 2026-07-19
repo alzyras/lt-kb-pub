@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75188"></a>
-- t-001
-  global_id: t-75188
+- t-002
   teiginys: "Po LPS steigiamojo suvažiavimo organizuotas liaudies judėjimas tapo visuomenine jėga, galinčia mesti iššūkį komunistų partijai."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Nenurodyta
     - c-23011
 
 <a id="claim-t-75189"></a>
-- t-002
-  global_id: t-75189
+- t-001
   teiginys: "LPS steigiamasis suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo bei demokratijos klausimais."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Nenurodyta
 
 <a id="claim-t-75190"></a>
 - t-003
-  global_id: t-75190
   teiginys: "Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,7 +113,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75189
+    - t-001
+
 - id: c-23011
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -128,19 +126,15 @@ Nenurodyta
     tijai. LPS tapo visuomenine jėga, galinčia pateisinti visuomenės viltis ir
     lūkesčius, veikė kaip tarpininkas tarp vadovybės ir tautos, pradėtos kurti
     politinės partijos.
-  citata_rodoma: |
-    Nuo šiol organi-
-    zuotas liaudies judėjimas atrodė pasirengęs mesti iššūkį komunistų par-
-    tijai. LPS tapo visuomenine jėga, galinčia pateisinti visuomenės viltis ir
-    lūkesčius, veikė kaip tarpininkas tarp vadovybės ir tautos, pradėtos kurti
-    politinės partijos.
+  citata_rodoma: "Nuo šiol organi-\nzuotas liaudies judėjimas atrodė pasirengęs mesti iššūkį komunistų par-\ntijai. LPS tapo visuomenine jėga, galinčia pateisinti visuomenės viltis ir\nlūkesčius, veikė kaip tarpininkas tarp vadovybės ir tautos, pradėtos kurti\npolitinės partijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75188
+    - t-002
+
 - id: c-73067
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -157,22 +151,11 @@ Nenurodyta
     237
     nis suverenitetas, teisinė socialistinė valstybė, tačiau siekta sudaryti įspūdį,
     kad LPS remia SSRS vadovybės pradėtas reformas.
-  citata_rodoma: |
-    Suvažiavimas
-    priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, eko-
-    nomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais. LPS
-    Bendrojoje programoje įvardytas pagrindinis siekis – remti socia­listinės
-    visuomenės persitvarkymą demokratijos ir humanizmo pagrindais, o tiks-
-    las – viešumas, demokratija, respublikos valstybinis, ekonominis, kultūri-
-
-    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
-    237
-    nis suverenitetas, teisinė socialistinė valstybė, tačiau siekta sudaryti įspūdį,
-    kad LPS remia SSRS vadovybės pradėtas reformas.
+  citata_rodoma: "Suvažiavimas \npriėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, eko-\nnomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais. LPS \nBendrojoje programoje įvardytas pagrindinis siekis – remti socia­listinės \nvisuomenės persitvarkymą demokratijos ir humanizmo pagrindais, o tiks-\nlas – viešumas, demokratija, respublikos valstybinis, ekonominis, kultūri-\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n237\nnis suverenitetas, teisinė socialistinė valstybė, tačiau siekta sudaryti įspūdį, \nkad LPS remia SSRS vadovybės pradėtas reformas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75190
+    - t-003

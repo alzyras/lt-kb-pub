@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-34537"></a>
 - t-001
-  global_id: t-34537
   teiginys: "Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34537
+    - t-001

@@ -31,7 +31,6 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
 
 <a id="claim-t-187271"></a>
 - t-001
-  global_id: t-187271
   teiginys: "Novosilė komentare apibūdinama kaip buvęs Černigovo kunigaikštystės miestas ir dalinė kunigaikštystė."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -51,7 +50,6 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
 
 <a id="claim-t-187272"></a>
 - t-002
-  global_id: t-187272
   teiginys: "Novosilė lokalizuojama Okos ir Dono aukštupių zonoje, labiausiai į rytus išsikišusiame LDK pakraštyje."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -82,17 +80,12 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
     Išslklšusiame LDK pakraštyje: dabar RFTSR miestas (apie 70 ktn
     j rytus nuo Oriolo). Kiti Lietuvos metraščių nuorašai Novosllės
     kunigaikščio Lucko suvažiavime nemini.
-  citata_rodoma: |
-    '• Novosilė — kadaise Černigovo kunigaikštystes miestas ir da­
-    linė kunigaikštystė taip  Okos ir Dono aukštupių, labiausiai i rytus
-    Išslklšusiame LDK pakraštyje: dabar RFTSR miestas (apie 70 ktn
-    j rytus nuo Oriolo). Kiti Lietuvos metraščių nuorašai Novosllės
-    kunigaikščio Lucko suvažiavime nemini.
+  citata_rodoma: "'• Novosilė — kadaise Černigovo kunigaikštystes miestas ir da­\nlinė kunigaikštystė taip  Okos ir Dono aukštupių, labiausiai i rytus \nIšslklšusiame LDK pakraštyje: dabar RFTSR miestas (apie 70 ktn \nj rytus nuo Oriolo). Kiti Lietuvos metraščių nuorašai Novosllės \nkunigaikščio Lucko suvažiavime nemini."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187271
-    - t-187272
+    - t-001
+    - t-002

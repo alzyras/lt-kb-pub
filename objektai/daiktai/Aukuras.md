@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-55031"></a>
-- t-001
-  global_id: t-55031
+- t-005
   teiginys: "Šventaragio slėnyje buvęs aukuras buvo skirtas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-55376
 
 <a id="claim-t-55032"></a>
-- t-002
-  global_id: t-55032
+- t-006
   teiginys: "Lotyniškas žodis „rogus“ reiškė aukurą, skirtą mirusiųjų kūnams deginti ir laidoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Nenurodyta
     - c-55377
 
 <a id="claim-t-81841"></a>
-- t-003
-  global_id: t-81841
+- t-004
   teiginys: "Pasak legendos, Birutė pasitraukė nuo dievų aukuro į šeimos židinį ir išaugino Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,10 +107,9 @@ Nenurodyta
     - c-36712
 
 <a id="claim-t-188375"></a>
-- t-004
-  global_id: t-188375
+- t-007
   teiginys: "Narbutas aukurą aprašo kaip pakilesnę vietą atviroje aikštėje, miškuose arba bestogėje šventykloje su pusės žmogaus ūgio ugniaviete."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -129,12 +125,11 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171269
-    - c-004
+
 <a id="claim-t-194613"></a>
-- t-005
-  global_id: t-194613
+- t-008
   teiginys: "Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų dievams, - tai matėme iš straipsnio „Ganiklis“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -143,7 +138,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177012
-    - c-005
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-188454|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis patvirtino pasakojimą, jog žmonės Birutę dar gyvą ėmė garbinti kaip deivę.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188514|Birutė]]: Narbutas, remdamasis Strijkovskiu, Birutę vaizduoja kaip Žemaičių didiko dukterį ir Praurimės aukuro ugnies saugotoją prie Palangos.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188517|Birutė]]: Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Palangos aukuro apeigas, todėl jos Žemaitijoje išliko ilgiau.
@@ -216,8 +210,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188375
 - c-005
   santrauka: 'Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų dievams, - tai matėme iš straipsnio „Ganiklis“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -232,8 +224,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194613
+
 ## Citatos
 
 - id: c-36712
@@ -249,19 +240,15 @@ Nenurodyta
     išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą —
     Vytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­
     ti ne visų Kęstučio vaikų motina.
-  citata_rodoma: |
-    Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių
-    tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį,
-    išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą —
-    Vytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­
-    ti ne visų Kęstučio vaikų motina.
+  citata_rodoma: "Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių\ntarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį,\nišaugino Lietuvai nemažame savo vaikų būryje didelį vyrą —\nVytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­\nti ne visų Kęstučio vaikų motina."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81841
+    - t-004
+
 - id: c-55376
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -286,7 +273,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55031
+    - t-005
+
 - id: c-55377
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -304,7 +292,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55032
+    - t-006
+
 - id: c-171269
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -323,24 +312,15 @@ Nenurodyta
     dabartiniame Kadyje, buvo Heraklio, vadinamo Gadiečiu,
     šventykla, į kurią moterims buvo nevalia įžengti; joje nebuvo
     jokios statulos, net paties Heraklio.
-  citata_rodoma: |
-    Aukurai, ragai (Roha)21 2
-    Senovės žmonių aukurai -  tai tam tikro aukščio pakiles­
-    nės vietos atviroje aikštėje, miškuose arba šventykloje, netu­
-    rinčioje stogo; šiame paaukštėjime, atstojančiame pakopas, bu­
-    vo pusės žmogaus ūgio ugniavietė. Kunigai, stovėdami ant pa­
-    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
-    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
-    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
-    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
-    kai kuriuos, buvusius Perkūno šventyklose.
+  citata_rodoma: "Aukurai, ragai (Roha)21 2\nSenovės žmonių aukurai -  tai tam tikro aukščio pakiles­\nnės vietos atviroje aikštėje, miškuose arba šventykloje, netu­\nrinčioje stogo; šiame paaukštėjime, atstojančiame pakopas, bu­\nvo pusės žmogaus ūgio ugniavietė. Kunigai, stovėdami ant pa­\nkopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­\nkai, romėnai statė prabangius ir didingus aukurus, paskirtus\nskyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­\nprastumo turėjo primityvius ir nepuošnius aukurus, išskyrus\nkai kuriuos, buvusius Perkūno šventyklose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188375
+    - t-007
+
 - id: c-177012
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -356,16 +336,11 @@ Nenurodyta
     Lietuvių stabų dievai, be abejo, turėjo būti daugiausia tos
     seniausios mados; daugumas dievų, deivių ir dievaičių net ne­
     turėjo jokių stabų.
-  citata_rodoma: |
-    Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų
-    dievams, -  tai matėme iš straipsnio „Ganiklis“. Apie panašų
-    deivės Velionos aukurą kalbėsime straipsnyje „Kapai“. Dievo
-    Perkūno šventyklos aukurą aprašysime straipsnyje „Šventyk­
-    los“.
+  citata_rodoma: "Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų\ndievams, -  tai matėme iš straipsnio „Ganiklis“. Apie panašų\ndeivės Velionos aukurą kalbėsime straipsnyje „Kapai“. Dievo\nPerkūno šventyklos aukurą aprašysime straipsnyje „Šventyk­\nlos“."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194613
+    - t-008

@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-01667"></a>
 - t-001
-  global_id: t-01667
   teiginys: "1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,16 +82,11 @@ Nenurodyta
     1328 m., t. y. Gedimino laikais, livoniškiai kryžiuočiai perdavė ją
     Prūsijos kryžiuočiams, kurie tuo tarpu jau buvo užėmę visą pa-
     jūrį iki Klaipėdos ir įsitvirtinę Nemuno žemupy.
-  citata_rodoma: |
-    Jo pastatytoji Klaipėdos pilis
-    buvo atkirsta, ir su ja ordinas galėjo susisiekti tik jūra. Todėl
-    1328 m., t. y. Gedimino laikais, livoniškiai kryžiuočiai perdavė ją
-    Prūsijos kryžiuočiams, kurie tuo tarpu jau buvo užėmę visą pa-
-    jūrį iki Klaipėdos ir įsitvirtinę Nemuno žemupy.
+  citata_rodoma: "Jo pastatytoji Klaipėdos pilis\nbuvo atkirsta, ir su ja ordinas galėjo susisiekti tik jūra. Todėl\n1328 m., t. y. Gedimino laikais, livoniškiai kryžiuočiai perdavė ją\nPrūsijos kryžiuočiams, kurie tuo tarpu jau buvo užėmę visą pa-\njūrį iki Klaipėdos ir įsitvirtinę Nemuno žemupy."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01667
+    - t-001

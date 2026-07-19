@@ -29,8 +29,7 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
 ## Teiginiai
 
 <a id="claim-t-54147"></a>
-- t-001
-  global_id: t-54147
+- t-002
   teiginys: "St. Kutrzeba teigė, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -46,8 +45,7 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
     - c-55086
 
 <a id="claim-t-54148"></a>
-- t-002
-  global_id: t-54148
+- t-001
   teiginys: "Prof. dr. St. Kutrzeba pastebėjo, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -74,16 +72,12 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
     Lenkų santykių pynė. Bet terminas „prijungti” (applicare),
     kaip labai teisingai pastebėjo profesorius dr. St. Kutrzeba1 2),
     nėra juridiškas ir nieko aiškaus nepasako.
-  citata_rodoma: |
-    Nuo šito prasideda visa Lietuvių —
-    Lenkų santykių pynė. Bet terminas „prijungti” (applicare),
-    kaip labai teisingai pastebėjo profesorius dr. St. Kutrzeba1 2),
-    nėra juridiškas ir nieko aiškaus nepasako.
+  citata_rodoma: "Nuo šito prasideda visa Lietuvių —\nLenkų santykių pynė. Bet terminas „prijungti” (applicare),\nkaip labai teisingai pastebėjo profesorius dr. St. Kutrzeba1 2),\nnėra juridiškas ir nieko aiškaus nepasako."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54147
-    - t-54148
+    - t-002
+    - t-001

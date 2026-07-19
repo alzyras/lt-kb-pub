@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-41628"></a>
 - t-001
-  global_id: t-41628
   teiginys: "1326 m. Lenkijos karaliaus prašymu, Gediminas nusiuntė 1200 savo raitelių ir bendromis pastangomis su lenkais ties Frankfurtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino valdų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,19 +74,14 @@ media_all_json: |-
     valdų.
 
     apgulė miestą.
-  citata_rodoma: |
-    1326 m. Lenkijos karaliaus prašymu, Gediminas nusiuntė
-    1200 savo raitelių ir bendromis pastangomis su lenkais ties Frank-
-    furtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino
-    valdų.
-
-    apgulė miestą.
+  citata_rodoma: "1326 m. Lenkijos karaliaus prašymu, Gediminas nusiuntė\n1200 savo raitelių ir bendromis pastangomis su lenkais ties Frank-\nfurtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino\nvaldų.\n\napgulė miestą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41628
+    - t-001
+
 ## Ryšiai
 - Puolė Brandenburgo žemę: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

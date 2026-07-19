@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-62453"></a>
 - t-001
-  global_id: t-62453
   teiginys: "Apie raupsuotųjų deginimų Prancūzijoje 1320 viešpaties metais Prancūzijoje buvo deginami raupsuotieji."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -85,19 +84,11 @@ Nenurodyta
 
 
                                 121.
-  citata_rodoma: |
-    Apie raupsuotųjų deginimų Prancūzijoje
-
-      1320 viešpaties metais Prancūzijoje buvo deginami raupsuotieji. Mat sklido kalbos,
-    kad jie nuodija vandenis, o nuo to žūva daug žmonių ir gyvulių.
-
-
-
-                                121.
+  citata_rodoma: "Apie raupsuotųjų deginimų Prancūzijoje\n\n  1320 viešpaties metais Prancūzijoje buvo deginami raupsuotieji. Mat sklido kalbos,\nkad jie nuodija vandenis, o nuo to žūva daug žmonių ir gyvulių.\n\n\n\n                            121."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62453
+    - t-001

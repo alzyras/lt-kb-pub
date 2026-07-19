@@ -39,7 +39,6 @@ Polocke įsigyveno Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi�
 
 <a id="claim-t-34831"></a>
 - t-001
-  global_id: t-34831
   teiginys: "Vikintas, Mindaugo sūnėnų Tautvilo ir Edivido dėdė iš motinos pusės, buvo įsigyvenęs Vitebske."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Polocke įsigyveno Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34831
+    - t-001

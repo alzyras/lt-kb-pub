@@ -38,7 +38,6 @@ LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skel
 
 <a id="claim-t-21035"></a>
 - t-001
-  global_id: t-21035
   teiginys: "LPS reikalaujant, 1989 m. gegužės 18 d. priimta Deklaracija dėl Lietuvos SSR valstybinio suvereniteto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,12 +72,11 @@ LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skel
     laujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbian-
     čios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija
     dėl Lietuvos SSR valstybinio suvereniteto.
-  citata_rodoma: |
-    čios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija
+  citata_rodoma: "čios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21035
+    - t-001

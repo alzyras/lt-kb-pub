@@ -31,7 +31,6 @@ Hartknochas, Narbuto teigimu, rėmėsi Kasparu Dankvertu tvirtindamas, kad kimbr
 
 <a id="claim-t-191430"></a>
 - t-001
-  global_id: t-191430
   teiginys: "Hartknochas, Narbuto teigimu, rėmėsi Kasparu Dankvertu tvirtindamas, kad kimbrai gyveno žemėje, kur vėliau įsikūrė prūsai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Hartknochas, Narbuto teigimu, rėmėsi Kasparu Dankvertu tvirtindamas, kad kimbr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191430
+    - t-001

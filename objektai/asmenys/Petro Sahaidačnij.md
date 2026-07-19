@@ -31,7 +31,6 @@ etmono Petro Sahaidačnij vadovaujamų Ukrainos kazokų.
 
 <a id="claim-t-40394"></a>
 - t-001
-  global_id: t-40394
   teiginys: "Petro Sahaidačnij vadovavo apie 25 tūkst. Ukrainos kazokų, prisijungusių prie J. K. Chodkevičiaus pajėgų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,16 +59,11 @@ etmono Petro Sahaidačnij vadovaujamų Ukrainos kazokų.
 
     Petro Sahaidačnij vadovaujamų Ukrainos
     kazokų.
-  citata_rodoma: |
-    Vėliau prie J. K. Chodkevičiaus pajėgų
-    prisijungė dar apie 25 tūkst. etmono
-
-    Petro Sahaidačnij vadovaujamų Ukrainos
-    kazokų.
+  citata_rodoma: "Vėliau prie J. K. Chodkevičiaus pajėgų\nprisijungė dar apie 25 tūkst. etmono\n\nPetro Sahaidačnij vadovaujamų Ukrainos\nkazokų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40394
+    - t-001

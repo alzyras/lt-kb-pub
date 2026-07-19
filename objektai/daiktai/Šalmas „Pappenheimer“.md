@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-80685"></a>
-- t-001
-  global_id: t-80685
+- t-002
   teiginys: "Šalmas „Pappenheimer“ buvo kavalerijai skirtas šalmas, ilgai naudotas raitarų ir kartais ATR husarų vėliavų eilinių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-77369
 
 <a id="claim-t-80686"></a>
-- t-002
-  global_id: t-80686
+- t-001
   teiginys: "Šalmas „Pappenheimer“ buvo iš rytų perimto šyšako vakarietiška atmaina, paplitusi XVII a."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,21 +105,12 @@ Nenurodyta
 
     kavalerija beveik užspaudė savo pėstinin-
     kus, todėl pastarieji buvo priversti sustoti.
-  citata_rodoma: |
-    , plačiai naudota Trisdešimtmečiame,
-    Anglijos pilietiniame kare ir daugelyje kitų karinių konf-
-    liktų. Buvo kavalerijai skirtas šalmas, kurį ilgą laikotarpį
-    naudojo raitarai, o tam tikrais atvejais ir ATR husarų vė-
-    liavų eiliniai. Anglakalbėje literatūroje tokie šalmai vadi-
-    nami „Vėžio uodegos" (lobster tale) tipo šalmais
-
-    kavalerija beveik užspaudė savo pėstinin-
-    kus, todėl pastarieji buvo priversti sustoti.
+  citata_rodoma: ", plačiai naudota Trisdešimtmečiame,\nAnglijos pilietiniame kare ir daugelyje kitų karinių konf-\nliktų. Buvo kavalerijai skirtas šalmas, kurį ilgą laikotarpį\nnaudojo raitarai, o tam tikrais atvejais ir ATR husarų vė-\nliavų eiliniai. Anglakalbėje literatūroje tokie šalmai vadi-\nnami „Vėžio uodegos\" (lobster tale) tipo šalmais\n\nkavalerija beveik užspaudė savo pėstinin-\nkus, todėl pastarieji buvo priversti sustoti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80685
-    - t-80686
+    - t-002
+    - t-001

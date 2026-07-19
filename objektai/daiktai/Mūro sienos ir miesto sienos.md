@@ -67,7 +67,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 
 <a id="claim-t-55045"></a>
 - t-001
-  global_id: t-55045
   teiginys: "Otono Didžiojo laikais Italijos miestai, saugodamiesi vengrų ir saracėnų antpuolių, apsitvėrė mūro sienomis."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -85,7 +84,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 
 <a id="claim-t-55046"></a>
 - t-002
-  global_id: t-55046
   teiginys: "Krokuva Lešekui Juodajam buvo skolinga už svarbias privilegijas, svetimtaučių antplūdį ir gerai sutvirtintas mūro sienas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -102,7 +100,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 
 <a id="claim-t-55047"></a>
 - t-003
-  global_id: t-55047
   teiginys: "1505 m. Vilniaus gyventojams nurodyta apjuosti miestą mūro siena, o negalintiems jos statyti - tverti statinių tvorą."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -120,8 +117,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-55713
 
 <a id="claim-t-89428"></a>
-- t-004
-  global_id: t-89428
+- t-007
   teiginys: "1330 m. Eberhardas iš Manheimo neįžengė į Rygą, kol miesto sienoje nebuvo išlaužta 30 uolekčių ilgio spraga."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -140,8 +136,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-85389
 
 <a id="claim-t-89429"></a>
-- t-005
-  global_id: t-89429
+- t-004
   teiginys: "Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -157,8 +152,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-85392
 
 <a id="claim-t-89430"></a>
-- t-006
-  global_id: t-89430
+- t-005
   teiginys: "Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -174,8 +168,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-85390
 
 <a id="claim-t-89431"></a>
-- t-007
-  global_id: t-89431
+- t-006
   teiginys: "1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -235,7 +228,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55045
+    - t-001
+
 - id: c-55713
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -258,7 +252,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55047
+    - t-003
+
 - id: c-85389
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -282,7 +277,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89428
+    - t-007
+
 - id: c-85390
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -304,7 +300,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89430
+    - t-005
+
 - id: c-85391
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -331,7 +328,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89431
+    - t-006
+
 - id: c-85392
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -357,5 +355,5 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55046
-    - t-89429
+    - t-002
+    - t-004

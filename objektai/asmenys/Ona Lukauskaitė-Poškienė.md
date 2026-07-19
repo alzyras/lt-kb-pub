@@ -39,7 +39,6 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 
 <a id="claim-t-19182"></a>
 - t-001
-  global_id: t-19182
   teiginys: "Ona Lukauskaitė-Poškienė buvo poetė, buvusi kalinė ir Vilniuje įsikūrusios Helsinkio grupės narė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,12 +73,11 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
     poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
     ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
     tinėmis grupėmis.
-  citata_rodoma: |
-    poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
+  citata_rodoma: "poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19182
+    - t-001

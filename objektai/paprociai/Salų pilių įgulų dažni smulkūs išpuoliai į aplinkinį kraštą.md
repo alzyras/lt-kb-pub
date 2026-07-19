@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-185887"></a>
 - t-001
-  global_id: t-185887
   teiginys: "Kryžiuočiai Nojerverderyje ir Ritersverderyje paliko savo įgulą, o Vytautas Marienburge įkurdino savo karius."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185887
+    - t-001

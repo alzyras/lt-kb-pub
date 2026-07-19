@@ -38,7 +38,6 @@ Narbutas cituoja kūrinio pavadinimą, kuriame 1749 m. birželio 8 d. Vilniaus g
 
 <a id="claim-t-189068"></a>
 - t-001
-  global_id: t-189068
   teiginys: "Narbutas cituoja kūrinio pavadinimą, kuriame 1749 m. birželio 8 d. Vilniaus gaisras siejamas su Subačiaus priemiesčiu ir Gregoravičiaus dvareliu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Narbutas cituoja kūrinio pavadinimą, kuriame 1749 m. birželio 8 d. Vilniaus g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189068
+    - t-001

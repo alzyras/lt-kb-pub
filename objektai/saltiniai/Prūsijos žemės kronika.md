@@ -50,7 +50,6 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 
 <a id="claim-t-10540"></a>
 - t-001
-  global_id: t-10540
   teiginys: "Petro Dusburgiečio „Prūsijos žemės kronikoje“ yra ištrauka apie Durbės mūšį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,21 +62,8 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   pagrindžia:
     - c-175819
 
-<a id="claim-t-12462"></a>
-- t-002
-  global_id: t-12462
-  teiginys: "Mikalojus iš Jarošino, versdamas Dusburgo kroniką iš lotynų į vokiečių kalbą, pridėjo papildymų ir paaiškinimų nuo savęs."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, faktinis ir pagrįstas nurodyta citata."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_author: [[objektai/autoriai/Wulfstanas|Wulfstanas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-175820
-
 <a id="claim-t-193051"></a>
-- t-003
-  global_id: t-193051
+- t-006
   teiginys: "1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +85,6 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 
 <a id="claim-t-193052"></a>
 - t-004
-  global_id: t-193052
   teiginys: "1311 m. Vytenis su didele kariuomene degindamas ir plėšdamas nusiaubė Sembą ir Notangą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,30 +98,18 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
     - c-43296
 
 <a id="claim-t-193053"></a>
-- t-005
-  global_id: t-193053
+- t-003
   teiginys: "Petras Dusburgas Prūsijos žemės kronikoje nurodė Žemaitijoje buvus net 70 tokių „karaliukų“."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Viena"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38783
     - c-175820
-<a id="claim-t-193054"></a>
-- t-006
-  global_id: t-193054
-  teiginys: "Mikalojus iš Jarošino, versdamas Dusburgo kroniką į vokiečių kalbą, pridėjo nemažai savo papildymų ir paaiškinimų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_author: [[objektai/autoriai/Wulfstanas|Wulfstanas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-175820
 
 <a id="claim-t-193055"></a>
 - t-007
-  global_id: t-193055
   teiginys: "Prūsijos žemės kronikoje minima tik Dobrynės kunigaikštystė, o kitame dokumente nurodoma ir kaimyninė Kulmo žemė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -155,7 +128,6 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 
 <a id="claim-t-193056"></a>
 - t-008
-  global_id: t-193056
   teiginys: "Narbutas rašė, kad Pretorijus Dusburgiečio kronikos vietoje minimą žynio lazdą vadino krivūle."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -186,17 +158,15 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
     kraštas, matyt tebegyveno giminių gyvenimą, o kai­
     myninės tautos tuo tarpu jau buvo susiorganizavusios į gana
     stambius vienetus.
-  citata_rodoma: |
-    Kryžiuočių kronikininkas P. Dusburgas pav. vienoje Žemai­
-    tijoje žino tokių „karaliukų” net 70, o Volynijos kronika sako
-    1248 met. vienam mūšy žuvę net 40 jotvingių kunigų.^3 )
+  citata_rodoma: "Kryžiuočių kronikininkas P. Dusburgas pav. vienoje Žemai­\ntijoje žino tokių „karaliukų” net 70, o Volynijos kronika sako\n1248 met. vienam mūšy žuvę net 40 jotvingių kunigų.^3 )"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193053
+    - t-003
+
 - id: c-43295
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -223,7 +193,8 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193051
+    - t-006
+
 - id: c-43296
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -251,7 +222,8 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193052
+    - t-004
+
 - id: c-175819
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -272,7 +244,8 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10540
+    - t-001
+
 - id: c-175820
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -287,19 +260,15 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
     kraštas, matyt tebegyveno giminių gyvenimą, o kai­
     myninės tautos tuo tarpu jau buvo susiorganizavusios į gana
     stambius vienetus.
-  citata_rodoma: |
-    Kryžiuočių kronikininkas P. Dusburgas pav. vienoje Žemai­
-    tijoje žino tokių „karaliukų” net 70, o Volynijos kronika sako
-    1248 met. vienam mūšy žuvę net 40 jotvingių kunigų.^3 )
+  citata_rodoma: "Kryžiuočių kronikininkas P. Dusburgas pav. vienoje Žemai­\ntijoje žino tokių „karaliukų” net 70, o Volynijos kronika sako\n1248 met. vienam mūšy žuvę net 40 jotvingių kunigų.^3 )"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12462
-    - t-193053
-    - t-193054
+    - t-003
+
 - id: c-175821
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -327,22 +296,15 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
     finia Culmensia [Dobrynės žemė ir
     kaimyninės Kulmo žemės] kentė­
     jo per tą antpuolį.
-  citata_rodoma: |
-    h
-    D u s b. c. 399, mini tik pačią Dobry­
-    nės kunigaikštystę, bet viename do­
-    kumente Slapt. arch. Spinta XI, Nr.
-    18 sakoma: terra Dobrynensis et con­
-    finia Culmensia [Dobrynės žemė ir
-    kaimyninės Kulmo žemės] kentė­
-    jo per tą antpuolį.
+  citata_rodoma: "h\nD u s b. c. 399, mini tik pačią Dobry­\nnės kunigaikštystę, bet viename do­\nkumente Slapt. arch. Spinta XI, Nr. \n18 sakoma: terra Dobrynensis et con­\nfinia Culmensia [Dobrynės žemė ir \nkaimyninės Kulmo žemės] kentė­\njo per tą antpuolį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193055
+    - t-007
+
 - id: c-175822
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -363,4 +325,4 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193056
+    - t-008

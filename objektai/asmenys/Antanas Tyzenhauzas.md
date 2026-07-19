@@ -3,20 +3,21 @@ tipas: asmuo
 pavadinimas: 'Antanas Tyzenhauzas (ūkio reformų veikėjas)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)'
 datos:
   - '1767 m.'
   - '1800 m.'
 date_start: '1767'
 date_end: '1800'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - pareigūnas
-amziai:
-  - 'XVIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,13 +35,12 @@ media_all_json: |-
 
 ## Santrauka
 
-Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomis karališkosiose ekonomijose.
+Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a. Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia.
 
 ## Teiginiai
 
 <a id="claim-t-46002"></a>
-- t-001
-  global_id: t-46002
+- t-016
   teiginys: "Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -56,8 +56,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     - c-26900
 
 <a id="claim-t-46003"></a>
-- t-002
-  global_id: t-46003
+- t-025
   teiginys: "Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     - c-25412
 
 <a id="claim-t-46004"></a>
-- t-003
-  global_id: t-46004
+- t-023
   teiginys: "Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +90,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     - c-26902
 
 <a id="claim-t-46005"></a>
-- t-004
-  global_id: t-46005
+- t-015
   teiginys: "Antano Tyzenhauzo reformos datuojamos 1767 m. ir siejamos su Apšvietos epochos pradžia."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -111,8 +108,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     - c-21603
 
 <a id="claim-t-46006"></a>
-- t-005
-  global_id: t-46006
+- t-017
   teiginys: "Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -128,8 +124,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     - c-26902
 
 <a id="claim-t-46007"></a>
-- t-006
-  global_id: t-46007
+- t-018
   teiginys: "Antano Tyzenhauzo 1767 m. reformos kartais laikomos vienu iš Apšvietos epochos pradžios įvykių."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -147,8 +142,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     - c-21603
 
 <a id="claim-t-46008"></a>
-- t-007
-  global_id: t-46008
+- t-021
   teiginys: "Antano Tyzenhauzo reformos buvo vienas svarbiausių XVIII a. pabaigos Lietuvos gyvenimo reiškinių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -167,8 +161,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     - c-25412
 
 <a id="claim-t-46009"></a>
-- t-008
-  global_id: t-46009
+- t-022
   teiginys: "Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -187,8 +180,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     - c-21603
 
 <a id="claim-t-46010"></a>
-- t-009
-  global_id: t-46010
+- t-024
   teiginys: "Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -205,8 +197,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     - c-48648
 
 <a id="claim-t-46011"></a>
-- t-010
-  global_id: t-46011
+- t-020
   teiginys: "Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -223,8 +214,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     - c-26902
 
 <a id="claim-t-46012"></a>
-- t-011
-  global_id: t-46012
+- t-019
   teiginys: "Antano Tyzenhauzo veiklos pradžia sutapo su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -238,6 +228,19 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-26901
+
+<a id="claim-t-202314"></a>
+- t-026
+  teiginys: "XVIII a. Lietuvoje LDK rūmų iždininkas Antanas Tyzenhauzas įsteigė lino gamyklas Šiauliuose ir Pastovyse bei karališkųjų manufaktūrų kompleksą Horodnicoje ir Lososnoje netoli Gardino."
+  atnaujinta: "2026-07-19 11:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Marija Matušakaitė"
+  vertinimo_atnaujinta: "2026-07-19T08:47:37Z"
+  pagrindžia:
+    - c-185661
 - susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-183217|Antano Tyzenhauzo reformos]]: Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius.
 - susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-66449|Antano Tyzenhauzo reformos]]: Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius.
 - susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-66450|Antano Tyzenhauzo reformos]]: Antano Tyzenhauzo reformos 1767 m. kartais laikomos vienu Apšvietos epochos pradžios ženklų.
@@ -265,20 +268,17 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     kartais laikomi Apšvietos epochos pradžia.
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
     sąjunga, sukurta Liublino unijos.
-  citata_rodoma: |
-    Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
-    vero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino
-    panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
-    kartais laikomi Apšvietos epochos pradžia.
+  citata_rodoma: "Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-\nvero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino \npanaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai \nkartais laikomi Apšvietos epochos pradžia."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46005
-    - t-46007
-    - t-46009
+    - t-015
+    - t-018
+    - t-022
+
 - id: c-25412
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -288,17 +288,16 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     įsteigė tekstilės, popieriaus, galanterijos, ginklų, vežimų manufaktūras
     Gardino ekonomijoje. A. Tyzenhauzo reformos buvo vienas iš svarbiau-
     sių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
-  citata_rodoma: |
-    A. Tyzenhauzo reformos buvo vienas iš svarbiau-
-    sių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
+  citata_rodoma: "A. Tyzenhauzo reformos buvo vienas iš svarbiau-\nsių XVIII a. pabaigos Lietuvos gyvenimo reiškinių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46003
-    - t-46008
+    - t-025
+    - t-021
+
 - id: c-26900
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -318,7 +317,8 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46002
+    - t-016
+
 - id: c-26901
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -340,7 +340,8 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46012
+    - t-019
+
 - id: c-26902
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -360,9 +361,10 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46004
-    - t-46006
-    - t-46011
+    - t-023
+    - t-017
+    - t-020
+
 - id: c-48648
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -378,19 +380,24 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
     89
     Lietuvos valstiečiai.
-  citata_rodoma: |
-    A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
-    matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine. Jis
-
-    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
-    89
-    Lietuvos valstiečiai.
+  citata_rodoma: "A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė \nmatininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine. Jis\n\n2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S\n89\nLietuvos valstiečiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46010
+    - t-024
+
+- id: c-185661
+  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
+  puslapiai: "p. 61 (PDF 4)"
+  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 61 (PDF 4)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-19 11:47"
+  pagrindzia:
+    - t-026
+
 ## Ryšiai
 - Antanas Tyzenhauzas (ūkio reformų veikėjas) siuntė į [[objektai/vietos/Anglija]]

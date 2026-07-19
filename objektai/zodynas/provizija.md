@@ -31,7 +31,6 @@ Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų ma
 
 <a id="claim-t-86611"></a>
 - t-001
-  global_id: t-86611
   teiginys: "Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją ir du mansionierius tinkama provizija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86611
+    - t-001

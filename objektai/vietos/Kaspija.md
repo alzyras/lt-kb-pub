@@ -33,7 +33,6 @@ Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meo
 
 <a id="claim-t-192877"></a>
 - t-001
-  global_id: t-192877
   teiginys: "Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meotidės, tarp budinų ir prie Kaspijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192877
+    - t-001

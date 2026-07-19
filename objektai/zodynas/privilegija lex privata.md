@@ -31,7 +31,6 @@ Tai buvo vadinamosios privilegijos (lex privata). Lietuvoje, įvedus krikščion
 
 <a id="claim-t-70292"></a>
 - t-001
-  global_id: t-70292
   teiginys: "Tai buvo vadinamosios privilegijos (lex privata)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,14 +52,11 @@ Tai buvo vadinamosios privilegijos (lex privata). Lietuvoje, įvedus krikščion
     privilegijos _(lex privata)._ Lietuvoje, įvedus krikščionybę,
     Jogaila taip pat paskelbė raštu pirmąją visam kraštui privilegiją,
     kurioje buvo surašytos apsikrikštijusių bajorų teisės.
-  citata_rodoma: |
-    Lietuvoje, įvedus krikščionybę,
-    Jogaila taip pat paskelbė raštu pirmąją visam kraštui privilegiją,
-    kurioje buvo surašytos apsikrikštijusių bajorų teisės.
+  citata_rodoma: "Lietuvoje, įvedus krikščionybę,\nJogaila taip pat paskelbė raštu pirmąją visam kraštui privilegiją,\nkurioje buvo surašytos apsikrikštijusių bajorų teisės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70292
+    - t-001

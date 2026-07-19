@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-59677"></a>
 - t-001
-  global_id: t-59677
   teiginys: "Markburge priimami riteriai prieš įvilktuves kniūpsti puolė prieš altorių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -120,20 +119,11 @@ Nenurodyta
     Šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis
     ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas
     buvo susitepęs paleistuvystės nuodėme.
-  citata_rodoma: |
-    Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su
-    daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge,
-    kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš
-    altorių, o kunigas, ilgai meldęsis, garsiai užgiedojo: „Aleliuja, ateik šventoji dvasia“,
-    nusileido ant jų kūniškai apčiuopiama šventoji dvasia nelyginant ugnies liepsnelė ir juo
-    labiau kuris iš jų degė dievo meile, tuo didesnė ši liepsnelė rodėsi ten stovintiesiems.
-    Šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis
-    ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas
-    buvo susitepęs paleistuvystės nuodėme.
+  citata_rodoma: "Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su\ndaugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge,\nkur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš\naltorių, o kunigas, ilgai meldęsis, garsiai užgiedojo: „Aleliuja, ateik šventoji dvasia“,\nnusileido ant jų kūniškai apčiuopiama šventoji dvasia nelyginant ugnies liepsnelė ir juo\nlabiau kuris iš jų degė dievo meile, tuo didesnė ši liepsnelė rodėsi ten stovintiesiems.\nŠį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis\nėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas\nbuvo susitepęs paleistuvystės nuodėme."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59677
+    - t-001

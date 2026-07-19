@@ -54,10 +54,9 @@ Nenurodyta.
 ## Teiginiai
 
 <a id="claim-t-187837"></a>
-- t-001
-  global_id: t-187837
+- t-002
   teiginys: "Narbutas Lados laikotarpiu laiko gegužės 25–birželio 25 d. tarpsnį, kai, jo teigimu, lietuviai aukodavo baltus gaidžius, rengdavo puotas, šokdavo ir dainuodavo."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Baltai: 0.85"
@@ -71,7 +70,7 @@ Nenurodyta.
   vertinimo_atnaujinta: "2026-07-02T04:21:55Z"
   pagrindžia:
     - c-170787
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Lados laikotarpiu laiko gegužės 25–birželio 25 d. tarpsnį, kai, jo teigimu, lietuviai aukodavo baltus gaidžius, rengdavo puotas, šokdavo ir dainuodavo.'
@@ -88,8 +87,7 @@ Nenurodyta.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187837
+
 ## Citatos
 
 - id: c-170787
@@ -106,17 +104,11 @@ Nenurodyta.
     vienas iš senovės indų valdovų, iš mitinės mėnulio vaikų kar­
     tos, kitur šis vardas reiškiąs planetos Merkurijaus genijų, o
     2 Skaityk Gvaninio septintosios knygos I dalį*.
-  citata_rodoma: |
-    Lietuviai laikotarpį nuo gegužės 25 iki birželio 25 dienos
-    paskirdavo Ladai. Jai buvo atnašaujami balti gaidžiai, rengtos
-    viešos puotos, šokta pievose, mergaitės dainuodavo dainas,
-    kuriose dažnai kartodavo: Lado, Lado, Lado, didie musu de­
-    ive, tai yra: „Lada, didžioji mūsų deive“. Paskutinė diena buvo
-    Rasos šventė. Skaityk straipsnį „Šventės“.
+  citata_rodoma: "Lietuviai laikotarpį nuo gegužės 25 iki birželio 25 dienos\npaskirdavo Ladai. Jai buvo atnašaujami balti gaidžiai, rengtos\nviešos puotos, šokta pievose, mergaitės dainuodavo dainas,\nkuriose dažnai kartodavo: Lado, Lado, Lado, didie musu de­\nive, tai yra: „Lada, didžioji mūsų deive“. Paskutinė diena buvo\nRasos šventė. Skaityk straipsnį „Šventės“."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187837
+    - t-002

@@ -37,7 +37,6 @@ p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
 
 <a id="claim-t-40860"></a>
 - t-001
-  global_id: t-40860
   teiginys: "1991 m. Aukščiausiosios Tarybos gynybos štabe buvo Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius ir Jonas Gečas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40860
+    - t-001

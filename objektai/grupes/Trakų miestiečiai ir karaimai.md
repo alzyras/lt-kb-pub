@@ -7,10 +7,10 @@ datos:
   - '1579 m.'
 date_start: '1579'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Kita ginčytina Kauno ir Trakų santykių vieta buvo trakiečių galimybė preki
 
 <a id="claim-t-201875"></a>
 - t-001
-  global_id: t-201875
   teiginys: "Kita ginčytina Kauno ir Trakų santykių vieta buvo trakiečių galimybė prekiauti Kaune mažmenomis."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Kita ginčytina Kauno ir Trakų santykių vieta buvo trakiečių galimybė preki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201875
+    - t-001

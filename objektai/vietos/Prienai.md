@@ -41,8 +41,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 ## Teiginiai
 
 <a id="claim-t-69030"></a>
-- t-001
-  global_id: t-69030
+- t-005
   teiginys: "Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,9 +56,9 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   pagrindžia:
     - c-43763
     - c-167188
+
 <a id="claim-t-69032"></a>
-- t-002
-  global_id: t-69032
+- t-003
   teiginys: "Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,9 +76,9 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   pagrindžia:
     - c-43761
     - c-167187
+
 <a id="claim-t-69034"></a>
-- t-003
-  global_id: t-69034
+- t-002
   teiginys: "7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti miestą iš pietų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +96,6 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 
 <a id="claim-t-188806"></a>
 - t-004
-  global_id: t-188806
   teiginys: "Narbutas rašo ties Prienais, Nemuno pusračio vingyje, pastebėjęs piliakalnį, vadintą Krono-kilpinie, arba Kruonio kilpa."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -109,8 +107,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     - c-171695
 
 <a id="claim-t-188807"></a>
-- t-005
-  global_id: t-188807
+- t-001
   teiginys: "Narbutas rašo matęs laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus, važiuodamas per Išlaužą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -169,18 +166,15 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     tikslu apeiti ir užpulti Kauną
     iš pietų. 5-asis pulkas puola
     Kauną tiesiai pro Kaišiadoris.
-  citata_rodoma: |
-    © ::iosios brigados 7-asis pul-
-    kas puola Prienų kryptimi su
-    tikslu apeiti ir užpulti Kauną
-    iš pietų.
+  citata_rodoma: "© ::iosios brigados 7-asis pul-\nkas puola Prienų kryptimi su\ntikslu apeiti ir užpulti Kauną\niš pietų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69034
+    - t-002
+
 - id: c-43761
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -231,53 +225,15 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     rinė vadovybė 1919 m. vasario pradžioje
     ryžosi pradėti Kauno puolimą iš pietų
     pusės.
-  citata_rodoma: |
-    173
-
-    r
-    ‘wv
-    2
-
-    m
-
-    =
-
-    o
-
-    vi
-
-    =
-    =
-    x
-    rą
-
-    a
-
-    7
-    sa
-
-    kovos
-
-    ## Puslapis 176
-
-    LIETUVOS,
-    RESPUBLIKA
-
-    Prieš mūšį
-    Įgyvendindamos Kauno užėmimo planą
-    bolševikų pajėgos ketino veržtis iki
-    Nemuno, persikelti per jį Prienuose ir
-    Alytuje ir pulti Kauną iš pietų. Tai buvo
-    svarbi kompleksinių Raudonosios armi-
-    jos veiksmų plano, nukreipto prieš at-
-    gimusį Lietuvos valstybingumą, dalis.
+  citata_rodoma: "173\n\nr\n‘wv\n2\n\nm\n\n=\n\no\n\nvi\n\n=\n=\nx\nrą\n\na\n\n7\nsa\n\nkovos\n\n## Puslapis 176\n\nLIETUVOS,\nRESPUBLIKA\n\nPrieš mūšį\nĮgyvendindamos Kauno užėmimo planą\nbolševikų pajėgos ketino veržtis iki\nNemuno, persikelti per jį Prienuose ir\nAlytuje ir pulti Kauną iš pietų. Tai buvo\nsvarbi kompleksinių Raudonosios armi-\njos veiksmų plano, nukreipto prieš at-\ngimusį Lietuvos valstybingumą, dalis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69032
+    - t-003
+
 - id: c-43763
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -291,7 +247,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69030
+    - t-005
+
 - id: c-167187
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -342,10 +299,12 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     gimusį Lietuvos valstybingumą, dalis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-167188
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -357,10 +316,12 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     Kruglov Arkadij.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-171695
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -381,7 +342,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188806
+    - t-004
+
 - id: c-171696
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -402,6 +364,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188807
+    - t-001
+
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/P. Liatukas]]

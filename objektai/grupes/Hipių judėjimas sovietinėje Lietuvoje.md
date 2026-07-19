@@ -37,8 +37,7 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
 ## Teiginiai
 
 <a id="claim-t-19705"></a>
-- t-001
-  global_id: t-19705
+- t-002
   teiginys: "Sovietinės Lietuvos hipių judėjimas protestavo prieš sovietinę sistemą, o ne prieš vartotojišką visuomenę kaip Vakarų hipiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,9 +56,9 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
   pagrindžia:
     - c-22411
     - c-166517
+
 <a id="claim-t-19706"></a>
-- t-002
-  global_id: t-19706
+- t-003
   teiginys: "1971 m. viename Vilniaus restorane įvyko nelegalus roko festivalis, vadintas Baltijos šalių ar SSRS hipių suvažiavimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,15 +89,15 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
     pavasaris suaktyvino kitaminčius. Sovietinėje sistemoje egzistavę hipių ar
     pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką
     visuomenę kaip hipiai Vakaruose.
-  citata_rodoma: |
-    pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką
+  citata_rodoma: "pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19705
+    - t-002
+
 - id: c-22412
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -111,15 +110,15 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
     mečio pradžios įvykiais Vilniuje ir Kaune. 1971 m. viename iš Vilniaus
     restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar
     net 300 SSRS hipių suvažiavimu.
-  citata_rodoma: |
-    restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar
+  citata_rodoma: "restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19706
+    - t-003
+
 - id: c-166517
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -139,3 +138,5 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

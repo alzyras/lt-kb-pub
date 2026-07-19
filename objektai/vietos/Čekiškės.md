@@ -27,24 +27,11 @@ media_all_json: |-
 
 Taip atsirado Čekiškės (Czekiszki) pa vadinimas; dabar taip vadinamas miestelis.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194777"></a>
-- t-001
-  global_id: t-194777
-  teiginys: 'Taip atsirado Čekiškės (Czekiszki) pa vadinimas; dabar taip vadinamas miestelis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-177173
-
-## Citatos
-
-- id: c-177173
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Taip atsirado Čekiškės (Czekiszki) pa vadinimas; dabar taip vadinamas miestelis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     220
 
@@ -59,10 +46,8 @@ Taip atsirado Čekiškės (Czekiszki) pa vadinimas; dabar taip vadinamas miestel
     sėjosi ant kranto ir, įsitaisę čia stovyklą, tarė: Czekiszkim zno-
     ka, čia kiškim vėliavas. Taip atsirado Čekiškės (Czekiszki) pa­
     vadinimas; dabar taip vadinamas miestelis.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194777
+  statusas: verified

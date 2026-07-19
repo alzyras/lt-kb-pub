@@ -37,7 +37,6 @@ Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl 
 
 <a id="claim-t-21169"></a>
 - t-001
-  global_id: t-21169
   teiginys: "1928 m. sausio 29 d. po ilgų ir sunkių derybų buvo pasirašyta Lietuvos ir Vokietijos sienos sutartis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,12 +68,11 @@ Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl 
     dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
     svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
     ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
-  citata_rodoma: |
-    dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
+  citata_rodoma: "dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21169
+    - t-001

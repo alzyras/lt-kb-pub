@@ -27,24 +27,11 @@ media_all_json: |-
 
 Istorinė Lietuva - tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ - tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194766"></a>
-- t-001
-  global_id: t-194766
-  teiginys: 'Istorinė Lietuva - tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ - tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-177162
-
-## Citatos
-
-- id: c-177162
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Istorinė Lietuva - tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ - tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     9
 
@@ -54,10 +41,8 @@ Istorinė Lietuva - tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvin
     tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ -
     tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą. Jiems
     visų pirma ir buvo skirtas Lietuvos istorijos veikalas.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194766
+  statusas: verified

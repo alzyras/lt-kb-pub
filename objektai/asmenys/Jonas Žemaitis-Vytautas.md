@@ -41,7 +41,6 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
 
 <a id="claim-t-18997"></a>
 - t-001
-  global_id: t-18997
   teiginys: "Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo partizanų generolo laipsnį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
 
 <a id="claim-t-18998"></a>
 - t-002
-  global_id: t-18998
   teiginys: "1953 m. pavasarį užverbuoti agentai išdavė Joną Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
 
 <a id="claim-t-18999"></a>
 - t-003
-  global_id: t-18999
   teiginys: "Joną Žemaitį-Vytautą kameroje lankė SSRS saugumo maršalas Lavrentijus Berija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,15 +125,15 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
     karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artile-
     rijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje),
     jam suteiktas aukščiausias – partizanų generolo laipsnis.
-  citata_rodoma: |
-    rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno
+  citata_rodoma: "rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18997
+    - t-001
+
 - id: c-21757
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -158,15 +155,15 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
     gydėsi požeminiame bunkeryje)
     ir po pusantrų metų tardymų su-
     šaudė Maskvos Butyrkų kalėjime.
-  citata_rodoma: |
-    agentai išdavė J. Žemaitį-Vytautą
+  citata_rodoma: "agentai išdavė J. Žemaitį-Vytautą"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18998
+    - t-002
+
 - id: c-21758
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -185,12 +182,11 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
     rodo, kad L. Berija pripažino Lie-
     tuvoje vykstantį partizaninį karą
     rimta grėsme sovietų valdymui.
-  citata_rodoma: |
-    nežinoma. Tačiau vien tas faktas
+  citata_rodoma: "nežinoma. Tačiau vien tas faktas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18999
+    - t-003

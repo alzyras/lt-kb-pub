@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-189911"></a>
 - t-001
-  global_id: t-189911
   teiginys: "Pasak Henenbergerio, turtingųjų namuose gedulas trukdavo keturias savaites, be pasilinksminimų ir su nuolat raudančiomis samdytomis raudotojomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189911
+    - t-001

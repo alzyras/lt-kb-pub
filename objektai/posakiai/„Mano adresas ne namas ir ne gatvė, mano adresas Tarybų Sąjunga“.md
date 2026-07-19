@@ -32,7 +32,6 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 
 <a id="claim-t-75616"></a>
 - t-001
-  global_id: t-75616
   teiginys: "Homo sovieticus turėjo būti be tautinių požymių ir, partijai įsakius, dirbti bet kurioje Sovietų Sąjungos vietoje."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 
 <a id="claim-t-75617"></a>
 - t-002
-  global_id: t-75617
   teiginys: "Homo sovieticus turėjo būti asmuo be tautinių požymių, kuris partijai įsakius dirbtų bet kur pagal dainos žodžius „Mano adresas Tarybų Sąjunga“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +64,6 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 
 <a id="claim-t-193616"></a>
 - t-003
-  global_id: t-193616
   teiginys: "Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vieną tarybinę kultūrą“, tautybių „susiliejimą“ per rusų kalbą kaip „internacionalinę bendravimo priemonę“, „tarybinių tautų suartėjimą ir susiliejimą“ leido suprasti, kad einama unifikuotos."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -95,17 +92,13 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
     muo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žino-
     mos dainos žodžius „Mano adresas ne namas ir ne gatvė, mano adresas
     Tarybų Sąjunga“.
-  citata_rodoma: |
-    Galutiniu produktu turėjo tapti homo sovieticus – as-
-    muo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žino-
-    mos dainos žodžius „Mano adresas ne namas ir ne gatvė, mano adresas
-    Tarybų Sąjunga“.
+  citata_rodoma: "Galutiniu produktu turėjo tapti homo sovieticus – as-\nmuo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žino-\nmos dainos žodžius „Mano adresas ne namas ir ne gatvė, mano adresas\nTarybų Sąjunga“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75616
-    - t-75617
-    - t-193616
+    - t-001
+    - t-002
+    - t-003

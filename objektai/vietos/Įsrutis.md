@@ -40,8 +40,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 ## Teiginiai
 
 <a id="claim-t-182881"></a>
-- t-001
-  global_id: t-182881
+- t-026
   teiginys: "1336 m. nadruvių plote buvo pastatyta didelė keturių bokštų Įsruties pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     - c-166285
 
 <a id="claim-t-183818"></a>
-- t-002
-  global_id: t-183818
+- t-027
   teiginys: "Maršalas organizavo žygį iš Įsruties į Kauną ir, anot šaltinyje cituojamos frazės, „atnešė stabmeldžiams visokių nelaimių“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -115,7 +113,8 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182881
+    - t-026
+
 - id: c-167203
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -136,6 +135,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183818
+    - t-027
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Svirdeika]]

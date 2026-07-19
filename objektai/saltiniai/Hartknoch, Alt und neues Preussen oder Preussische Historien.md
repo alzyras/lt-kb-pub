@@ -30,7 +30,6 @@ Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais,
 
 <a id="claim-t-191776"></a>
 - t-001
-  global_id: t-191776
   teiginys: "Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais, buvo įsitikinęs didelio Prūsijos potvynio tikrumu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,7 @@ Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais,
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174658
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais, buvo įsitikinęs didelio Prūsijos potvynio tikrumu.'
@@ -72,8 +71,7 @@ Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191776
+
 ## Citatos
 
 - id: c-174658
@@ -101,24 +99,11 @@ Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais,
     truko 12 metų, nusiaubė Baltijos jūros vakarines pakran­
     tes ir neatpažįstamai pakeitė jų vaizdą: pradingo netoli
     1 Plutarchus; Sirabo.
-  citata_rodoma: |
-    Sis ypatingas įvykis, atsitikęs žemėje, kuria
-    ypač domisi mūsų veikalas, vertas to, kad jam būtų skir­
-    ta daugiau dėmesio. Hartknochas, remdamasis vietos pa­
-    davimais ir tiesioginiais vietovės tyrinėjimais, visiškai
-    įsitikinęs šio atsitikimo tikrumu; jis ne sykį mini, jog
-    smarkių ir ilgalaikių šiaurinių vėjų sukelti dideli jūros
-    potvyniai išilgai visos Prūsijos padarė nemažai Baltijos
-    jūros krantų reljefo ir pavidalo pokyčių. O ypač stengė­
-    si, kad išliktų atminimas apie tą didžiulį kimbrų epochos
-    potvynį, arba vietinį tvaną, cituotą prūsų kronikininko
-    Jokimo Rozencveigo2, kurio veikalus Strijkovskis, būda­
-    mas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo
-    kronikos knygas), turėjo po ranka.
+  citata_rodoma: "Sis ypatingas įvykis, atsitikęs žemėje, kuria\nypač domisi mūsų veikalas, vertas to, kad jam būtų skir­\nta daugiau dėmesio. Hartknochas, remdamasis vietos pa­\ndavimais ir tiesioginiais vietovės tyrinėjimais, visiškai\nįsitikinęs šio atsitikimo tikrumu; jis ne sykį mini, jog\nsmarkių ir ilgalaikių šiaurinių vėjų sukelti dideli jūros\npotvyniai išilgai visos Prūsijos padarė nemažai Baltijos\njūros krantų reljefo ir pavidalo pokyčių. O ypač stengė­\nsi, kad išliktų atminimas apie tą didžiulį kimbrų epochos\npotvynį, arba vietinį tvaną, cituotą prūsų kronikininko\nJokimo Rozencveigo2, kurio veikalus Strijkovskis, būda­\nmas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo\nkronikos knygas), turėjo po ranka."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191776
+    - t-001

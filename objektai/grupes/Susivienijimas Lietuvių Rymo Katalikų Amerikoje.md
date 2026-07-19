@@ -38,7 +38,6 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
 
 <a id="claim-t-66151"></a>
 - t-001
-  global_id: t-66151
   teiginys: "Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių turėjo 704 narius, o 1936 m. turėjo daugiau kaip 300 kuopų ir 20 000 narių."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66151
+    - t-001

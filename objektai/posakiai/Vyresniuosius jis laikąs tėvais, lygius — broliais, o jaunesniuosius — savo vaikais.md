@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-06884"></a>
 - t-001
-  global_id: t-06884
   teiginys: "Gediminas laiške aiškino norą būti paklusniu popiežiaus sūnumi ir teigė vyresniuosius laikąs tėvais, lygius broliais, o jaunesniuosius savo vaikais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -71,15 +70,11 @@ media_all_json: |-
     piežiaus sūnum, nes popiežius esąs už jį vyresnis; vyresniuosius
     jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vai-
     kais.
-  citata_rodoma: |
-    Laiške jis pareiškęs norą būti paklusniu po-
-    piežiaus sūnum, nes popiežius esąs už jį vyresnis; vyresniuosius
-    jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vai-
-    kais.
+  citata_rodoma: "Laiške jis pareiškęs norą būti paklusniu po-\npiežiaus sūnum, nes popiežius esąs už jį vyresnis; vyresniuosius\njis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vai-\nkais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-06884
+    - t-001

@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-75204"></a>
 - t-001
-  global_id: t-75204
   teiginys: "Lietuvos valstybės susikūrimas siejamas su maždaug 1240 m., nes 1245–1246 m. Mindaugas jau vadintas aukščiausiuoju karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ Nenurodyta
     - c-73076
 
 <a id="claim-t-75205"></a>
-- t-002
-  global_id: t-75205
+- t-003
   teiginys: "1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi, todėl daroma išvada, kad Lietuva jau buvo suvienyta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +95,7 @@ Nenurodyta
     - c-73076
 
 <a id="claim-t-193574"></a>
-- t-003
-  global_id: t-193574
+- t-004
   teiginys: "Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -132,8 +129,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75204
-    - t-75205
+    - t-001
+    - t-003
+
 - id: c-176251
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -152,4 +150,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193574
+    - t-004

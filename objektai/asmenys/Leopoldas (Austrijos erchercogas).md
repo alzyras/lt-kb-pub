@@ -31,7 +31,6 @@ Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbiet
 
 <a id="claim-t-186233"></a>
 - t-001
-  global_id: t-186233
   teiginys: "Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbietos vestuvių puotoje."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbiet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186233
+    - t-001

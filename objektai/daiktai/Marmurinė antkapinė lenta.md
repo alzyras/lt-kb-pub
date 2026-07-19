@@ -57,9 +57,8 @@ Nenurodyta
 
 <a id="claim-t-186857"></a>
 - t-001
-  global_id: t-186857
   teiginys: "Iki XVII a. pradžios Agluonos vienuolyne buvo marmurinė antkapinė lenta su užrašu apie Mindaugo nužudymo vietos tradiciją."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
@@ -76,7 +75,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170040
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Iki XVII a. pradžios Agluonos vienuolyne buvo marmurinė antkapinė lenta su užrašu apie Mindaugo nužudymo vietos tradiciją.'
@@ -92,8 +91,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186857
+
 ## Citatos
 
 - id: c-170040
@@ -112,15 +110,11 @@ Nenurodyta
     miešti, pavadinimo, ir iš kunigaikščių Giedraičių pavardės. Iš do­
     kumentų Giedraičių giminės atstovai žinomi tik nuo XV a. pra­
     džios.
-  citata_rodoma: |
-    Mindaugas buvo nužudytas 1263 m. rudcn|. Nužudymo vieta
-    nežinoma. Pagal tradiciją, užfiksuotą XVI a., tai įvyko Agluonoje,
-    j šiaurės rytus nuo Daugpilio. Iki XVII a. pradžios Agluonos vie­
-    nuolyno buvusi marmurinė antkapinė lenta su atitinkamu užrašu.
+  citata_rodoma: "Mindaugas buvo nužudytas 1263 m. rudcn|. Nužudymo vieta \nnežinoma. Pagal tradiciją, užfiksuotą XVI a., tai įvyko Agluonoje, \nj šiaurės rytus nuo Daugpilio. Iki XVII a. pradžios Agluonos vie­\nnuolyno buvusi marmurinė antkapinė lenta su atitinkamu užrašu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186857
+    - t-001

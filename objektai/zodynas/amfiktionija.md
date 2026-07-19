@@ -48,7 +48,6 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
 
 <a id="claim-t-23432"></a>
 - t-001
-  global_id: t-23432
   teiginys: "Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,6 +62,7 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
   pagrindžia:
     - c-24736
     - c-166787
+
 ## Citatos
 
 - id: c-24736
@@ -76,17 +76,15 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
     Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
     (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
     sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.
-  citata_rodoma: |
-    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
-    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
-    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.
+  citata_rodoma: "Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties \n(Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių \nsąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23432
+    - t-001
+
 - id: c-166787
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -102,3 +100,5 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

@@ -39,7 +39,6 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 
 <a id="claim-t-42201"></a>
 - t-001
-  global_id: t-42201
   teiginys: "J. Misiūnas su maždaug 200 partizanų daliniu nuolat keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 
 <a id="claim-t-42202"></a>
 - t-002
-  global_id: t-42202
   teiginys: "Didžiosios kovos apygardoje buvo įkurtos dvi rinktinės: „A“ Trakų apskrityje ir „B“ Ukmergės apskrityje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,6 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 
 <a id="claim-t-188840"></a>
 - t-003
-  global_id: t-188840
   teiginys: "Narbutas mini, kad Trakų apskrityje, ponų Gorskių dvare, buvo Lelionių milžinkapis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -100,7 +97,6 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 
 <a id="claim-t-188841"></a>
 - t-004
-  global_id: t-188841
   teiginys: "Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje, Trakų apskrityje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -121,7 +117,6 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 
 <a id="claim-t-188842"></a>
 - t-005
-  global_id: t-188842
   teiginys: "Narbutas rašo, kad Tikrojoje Lietuvoje, įskaitant Trakų apskritį, nuo seniausių laikų buvo vietų sudegintų žmonių pelenams laikyti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -139,7 +134,6 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171731
-    - c-005
 - susijęs iš Ukmergės apskritis: 1944 m. Juozas Misiūnas su maždaug 200 partizanų daliniu keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.
 - susijęs iš [[objektai/grupes/Didžiosios kovos apygarda (DKA).md#claim-t-40874|Didžiosios kovos apygarda (DKA)]]: Junginys, rugsėjį pavadintas Didžiosios kovos rinktine, vėliau tapo Didžiosios kovos apygarda.
 - susijęs iš Kaišiadorys: Jonas Misiūnas vokiečių okupacijos metais buvo geležinkelių apsaugos policininkas Kaišiadoryse.
@@ -161,8 +155,7 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188842
+
 ## Citatos
 
 - id: c-43915
@@ -180,7 +173,8 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42201
+    - t-001
+
 - id: c-45367
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -193,18 +187,15 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
     kovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis).
 
     1946 m.
-  citata_rodoma: |
-    Misiūnas, apygarda pavadinta Didžiosios
-    kovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis).
-
-    1946 m.
+  citata_rodoma: "Misiūnas, apygarda pavadinta Didžiosios\nkovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis).\n\n1946 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42202
+    - t-002
+
 - id: c-171729
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -223,7 +214,8 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188840
+    - t-003
+
 - id: c-171730
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -245,7 +237,8 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188841
+    - t-004
+
 - id: c-171731
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -261,18 +254,11 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
     ną. Tai buvo du akmenys, gulintys vienas ant kito ir taip apdo­
     roti, kad tarp jų susidariusioje tuštumoje galėjo būti pilami
     pelenai.
-  citata_rodoma: |
-    Vienoda jų sandara ir tokia pat radimo vieta įtikina,
-    jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
-    kad į jas tekėtų ašaros.
-    Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­
-    dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
-    rias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo
-    Obelijomis.
+  citata_rodoma: "Vienoda jų sandara ir tokia pat radimo vieta įtikina,\njog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,\nkad į jas tekėtų ašaros.\nTikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­\ndos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­\nrias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo\nObelijomis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188842
+    - t-005

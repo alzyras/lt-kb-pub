@@ -52,7 +52,6 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
 
 <a id="claim-t-71208"></a>
 - t-001
-  global_id: t-71208
   teiginys: "Baltų sąjunga apibūdinama kaip Lietuvos vadovaujamas valstybingumo raidos etapas kovoje prieš feodalų agresiją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,10 +68,9 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
   temporalinis_llm_pakomentavimas: "Citata remia sąvokos aiškinimą, o pradinis tekstas nutrūkęs ir perteklinis."
   pagrindžia:
     - c-69852
-    - c-002
+
 <a id="claim-t-197030"></a>
 - t-002
-  global_id: t-197030
   teiginys: "Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai yra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -92,20 +90,6 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
 - susijęs iš Lietuva: 1219 m. priešmindauginė Lietuva, greičiausiai valdoma Živinbudo ir susijungusi su Žemaitija, sudarė sutartį su Volyne.
 - susijęs iš Volynė: 1219 m. priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir greičiausiai siekiant apginti prūsų kraštą.
 ## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva
-    suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
-    norėjo padaryti Lietuvą bendrąja baltų valstybe,  į kurią įeitų šiaurinės ir pietvakarinės
-    baltų žemės (Livonija  ir Prūsija). Mindaugo vadovaujama baltų sąjunga tampa ypač
-    akivaizdžiu reiškiniu XIII a. 5-ojo dešimtmečio pradžioje34.
-  citata_rodoma: ''
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  statusas: verified
-
 - c-002
   santrauka: 'Baltų sąjunga apibūdinama kaip Lietuvos vadovaujamas valstybingumo raidos etapas kovoje prieš feodalų agresiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -125,10 +109,25 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
   statusas: verified
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-71208
+
 ## Citatos
 
+- id: c-69851
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva
+    suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
+    norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės
+    baltų žemės (Livonija ir Prūsija). Mindaugo vadovaujama baltų sąjunga tampa ypač
+    akivaizdžiu reiškiniu XIII a. 5-ojo dešimtmečio pradžioje34.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-69852
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -146,24 +145,15 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
     koalicijos dalyvių — Lenkiją25. Taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų
     puolimus dar iki kryžiuočių atsikraustymo į pavyslį, pasireiškė Lietuvos, jotvingių, prūsų
     bendradarbiavimas26.
-  citata_rodoma: |
-    Kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje
-    prieš Ordiną, be to, prūsų kova dažnai traktuojama gana atsietai nuo Lietuvos karinių
-    pastangų, nepakankamai ištirta, kaip tų įvykių verpetuose formavosi visų baltų (t. y.
-    vienijanti ne tik lietuvių, bet ir kitų baltų žemes, priglaudžianti jau užgrobtų baltų žemių
-    gyventojus) Lietuvos valstybė, kaip šį pažangų procesą kraujyje skandino užsienio feodalų
-    agresija. Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
-    ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
-    yra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21.
-      „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
-    (t. y. 1209— 1210 m.)22.
+  citata_rodoma: "Kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje\nprieš Ordiną, be to, prūsų kova dažnai traktuojama gana atsietai nuo Lietuvos karinių\npastangų, nepakankamai ištirta, kaip tų įvykių verpetuose formavosi visų baltų (t. y.\nvienijanti ne tik lietuvių, bet ir kitų baltų žemes, priglaudžianti jau užgrobtų baltų žemių\ngyventojus) Lietuvos valstybė, kaip šį pažangų procesą kraujyje skandino užsienio feodalų\nagresija. Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių\nir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai\nyra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21.\n  „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.\n(t. y. 1209— 1210 m.)22."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71208
+    - t-001
+
 - id: c-179010
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -185,4 +175,4 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197030
+    - t-002

@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200650"></a>
-- t-001
-  global_id: t-200650
+- t-299034
   teiginys: "1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, žemės raštininku Karolis Piotrovskis."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-183983
 
 <a id="claim-t-200651"></a>
-- t-002
-  global_id: t-200651
+- t-299033
   teiginys: "1749 m. įvyko Smolensko pavieto seimelis."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -81,8 +79,7 @@ media_all_json: |-
     - c-183983
 
 <a id="claim-t-200652"></a>
-- t-003
-  global_id: t-200652
+- t-002
   teiginys: "1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, o žemės raštininku Karolis Piotrovskis."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -102,8 +99,7 @@ media_all_json: |-
     - c-183983
 
 <a id="claim-t-200653"></a>
-- t-004
-  global_id: t-200653
+- t-003
   teiginys: "1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -129,47 +125,24 @@ media_all_json: |-
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 5"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
-  citata_originali: |
-    Iš politinių institucijų bene dažniausiai kanauninko bei bajorų pasauliečių susiraši-
-    nėjimuose būdavo minimi Vilniaus, taip pat sostinėje vykdavę Smolensko ir Starodubo,
-    seimeliai. 1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-
-    ninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /
-    Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
-    Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
-    Karolis Piotrovskis (Karol Piotrowski) [9].
-  citata_rodoma: |
-    1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavininku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc / Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku – Karolis Piotrovskis (Karol Piotrowski) [9].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 12:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200650
-    - t-200651
-    - t-200652
+    - t-299034
+    - t-299033
+    - t-002
+
 - id: c-184019
   autorius: "Domininkas Burba"
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 5"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
-  citata_originali: |
-    1752 m. J. D. Lopacinskis minėjo, kad atvyks
-    Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
-    per seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius
-    [28], vėliau kanauninkas rašė, kad M. K. Radvila laiške pranešė, kad buvo labai paten-
-    kintas Vilniaus seimelio rezultatais [29].
-  citata_rodoma: |
-    1752 m. J. D. Lopacinskis minėjo, kad atvyks
-    Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
-    per seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius
-    [28].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 09:40"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200653
+    - t-003
+
 ## Ryšiai
 - Smolensko pavieto seimelis priklausė [[objektai/vietos/Smolenskas]]

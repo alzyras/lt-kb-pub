@@ -42,8 +42,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
 ## Teiginiai
 
 <a id="claim-t-64265"></a>
-- t-001
-  global_id: t-64265
+- t-003
   teiginys: "Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad Vytautas globotų jo šeimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     - c-36551
 
 <a id="claim-t-64266"></a>
-- t-002
-  global_id: t-64266
+- t-001
   teiginys: "Vosylius I buvo Vytauto žentas, su kuriuo Vytautas oficialiai laikėsi taikos."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     - c-65066
 
 <a id="claim-t-64267"></a>
-- t-003
-  global_id: t-64267
+- t-004
   teiginys: "1425 m. mirštantis Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     - c-36552
 
 <a id="claim-t-64268"></a>
-- t-004
-  global_id: t-64268
+- t-002
   teiginys: "Vosyliaus I laikysena paskatino Vytautą pradėti karo veiksmus prieš Vosylių I; jie truko 1406–1408 m."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -135,18 +131,15 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     tas, mirdamas antrą kartą buvo pareiškęs norą, kad Vytautas globotų jo
     sūnų (įpėdinį) Vosylių II, žmoną ir vaikus. Pirmą kartą jis tai padarė
     prieš 1422 m.
-  citata_rodoma: |
-    (^2) ) Vosylius I (1389—1425), Dimitro Donskoj sūnus, Vytauto žen­
-    tas, mirdamas antrą kartą buvo pareiškęs norą, kad Vytautas globotų jo
-    sūnų (įpėdinį) Vosylių II, žmoną ir vaikus. Pirmą kartą jis tai padarė
-    prieš 1422 m.
+  citata_rodoma: "(^2) ) Vosylius I (1389—1425), Dimitro Donskoj sūnus, Vytauto žen­\ntas, mirdamas antrą kartą buvo pareiškęs norą, kad Vytautas globotų jo\nsūnų (įpėdinį) Vosylių II, žmoną ir vaikus. Pirmą kartą jis tai padarė\nprieš 1422 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64265
+    - t-003
+
 - id: c-36552
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -166,19 +159,15 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     lybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun.
     Vosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­
     tautui globoti.
-  citata_rodoma: |
-    Tuo pačiu metu dar įvyko vienas svar­
-    bus faktas, kuris dar aukščiau iškėlė Vytauto autoritetą ir ga­
-    lybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun.
-    Vosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­
-    tautui globoti.
+  citata_rodoma: "Tuo pačiu metu dar įvyko vienas svar­\nbus faktas, kuris dar aukščiau iškėlė Vytauto autoritetą ir ga­\nlybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun.\nVosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­\ntautui globoti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64267
+    - t-004
+
 - id: c-65066
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -198,7 +187,8 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64266
+    - t-001
+
 - id: c-65067
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -217,4 +207,4 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64268
+    - t-002

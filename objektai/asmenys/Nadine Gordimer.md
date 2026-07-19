@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-101698"></a>
 - t-001
-  global_id: t-101698
   teiginys: "Nadine Gordimer buvo Pietų Afrikos Respublikos romanistė ir 1991 m. Nobelio literatūros premijos laureatė, kurios tėvas kilęs iš Lietuvos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ media_all_json: |-
 
 <a id="claim-t-101699"></a>
 - t-002
-  global_id: t-101699
   teiginys: "Nadine Gordimer buvo Pietų Afrikos Respublikos romanistė, kurios tėvas buvo kilęs iš Lietuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,19 +114,12 @@ media_all_json: |-
     266
     nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
     Gordimer (Nadina Gordimer) (g. 1923), kurios tėvas kilęs iš Lietuvos.
-  citata_rodoma: |
-    Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laurea-
-    to, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius
-
-    L I E T U V O S  I S T O R I J A
-    266
-    nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
-    Gordimer (Nadina Gordimer) (g.
+  citata_rodoma: "Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laurea-\nto, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius\n\nL I E T U V O S  I S T O R I J A\n266\nnuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine \nGordimer (Nadina Gordimer) (g."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101698
-    - t-101699
+    - t-001
+    - t-002

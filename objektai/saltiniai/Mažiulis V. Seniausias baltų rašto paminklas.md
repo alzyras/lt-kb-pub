@@ -36,7 +36,6 @@ Dusburgietis teigia, kad mažiulis V.
 
 <a id="claim-t-61173"></a>
 - t-001
-  global_id: t-61173
   teiginys: "V. Mažiulio „Seniausias baltų rašto paminklas“ paskelbtas „Baltistica“ 1975 m. 11 tomo 2 numeryje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,12 +63,11 @@ Dusburgietis teigia, kad mažiulis V.
     Mažiulis V. Seniausias baltų rašto paminklas — Baltistica, 1975, 11 (2), p. 125—131.
     Mažiulis V. Prūsų etimologijos.— Baltistica, 1975, 11 (1), p. 83—85; 1978, 14 (1), p.
     52—55; 1978, 14 (2), p. 95—99.
-  citata_rodoma: |
-    Mažiulis V. Seniausias baltų rašto paminklas — Baltistica, 1975, 11 (2), p. 125—131.
+  citata_rodoma: "Mažiulis V. Seniausias baltų rašto paminklas — Baltistica, 1975, 11 (2), p. 125—131."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61173
+    - t-001

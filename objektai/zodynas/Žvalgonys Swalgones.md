@@ -27,29 +27,6 @@ media_all_json: |-
 
 Narbutas žvalgonis (Swalgones) aprašo kaip žynius, atlikdavusius vedybų apeigas, pranašaudavusius jaunavedžiams ir sakiusius kalbas.
 
-## Teiginiai
-
-<a id="claim-t-189354"></a>
-- t-001
-  global_id: t-189354
-  teiginys: "Narbutas žvalgonis (Swalgones) aprašo kaip žynius, atlikdavusius vedybų apeigas, pranašaudavusius jaunavedžiams ir sakiusius kalbas."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Žvalgonys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žvalgonys Swalgones: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Žvalgonys: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žvalgonys Swalgones\" parinktas kaip owner_note_path. Targetas \"Žvalgonys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172241
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas žvalgonis (Swalgones) aprašo kaip žynius, atlikdavusius vedybų apeigas, pranašaudavusius jaunavedžiams ir sakiusius kalbas.'
@@ -69,8 +46,7 @@ Narbutas žvalgonis (Swalgones) aprašo kaip žynius, atlikdavusius vedybų apei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189354
+
 ## Citatos
 
 - id: c-172241
@@ -88,20 +64,33 @@ Narbutas žvalgonis (Swalgones) aprašo kaip žynius, atlikdavusius vedybų apei
     Prūsijos kronikininkai, kurie prisimena, kad jų gyvenimo
     metais dar būta burtininkų pėdsakų, priskiria jiems ateities
     išpranašavimą liejant ištirpintą vašką į šaltą vandenį.
-  citata_rodoma: |
-    Žvalgonys (Swalgones)
-    Tai buvo žyniai, atliekantys vedybų apeigas, arba tekančių
-    merginų abejotinos skaistybės bylų teisėjai. Jie išpranašauda­
-    vo jaunavedžiams ateitį ir per tokias iškilmes sakydavo kal­
-    bas. Jų pavadinimas kilęs iš žodžioSwalgajt, kuris senovės prū­
-    sų kalba reiškė tuoktis. Anot kitų, tas pavadinimas kilęs išCwal-
-    giti, gerai įsižiūrėti, deramai ištirti, kaip sako Ostermejeris. Tad
-    sutampa su pareigomis, kurių priedermė tirti sunkiai išaiški­
-    namus dalykus.
+  citata_rodoma: "Žvalgonys (Swalgones)\nTai buvo žyniai, atliekantys vedybų apeigas, arba tekančių\nmerginų abejotinos skaistybės bylų teisėjai. Jie išpranašauda­\nvo jaunavedžiams ateitį ir per tokias iškilmes sakydavo kal­\nbas. Jų pavadinimas kilęs iš žodžioSwalgajt, kuris senovės prū­\nsų kalba reiškė tuoktis. Anot kitų, tas pavadinimas kilęs išCwal-\ngiti, gerai įsižiūrėti, deramai ištirti, kaip sako Ostermejeris. Tad\nsutampa su pareigomis, kurių priedermė tirti sunkiai išaiški­\nnamus dalykus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189354
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-189354"></a>
+- t-001
+  teiginys: "Narbutas žvalgonis (Swalgones) aprašo kaip žynius, atlikdavusius vedybų apeigas, pranašaudavusius jaunavedžiams ir sakiusius kalbas."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Žvalgonys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žvalgonys Swalgones: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Žvalgonys: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žvalgonys Swalgones\" parinktas kaip owner_note_path. Targetas \"Žvalgonys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172241

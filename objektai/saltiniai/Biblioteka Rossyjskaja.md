@@ -30,7 +30,6 @@ Narbutas mini Milano bibliotekoje saugotą labai sena laikytą geografijos ištr
 
 <a id="claim-t-191742"></a>
 - t-001
-  global_id: t-191742
   teiginys: "Narbutas mini Milano bibliotekoje saugotą labai sena laikytą geografijos ištrauką, turėjusią būti X amžiuje parašyta kopija."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Narbutas mini Milano bibliotekoje saugotą labai sena laikytą geografijos ištr
 
 <a id="claim-t-197666"></a>
 - t-002
-  global_id: t-197666
   teiginys: "Buvo rasta geografijos ištrauka, laikoma labai sena ir saugoma Milano bibliotekoje; ji turėjo būti X amžiuje parašyta kopija5."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -80,6 +78,7 @@ Narbutas mini Milano bibliotekoje saugotą labai sena laikytą geografijos ištr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-174624
@@ -96,19 +95,12 @@ Narbutas mini Milano bibliotekoje saugotą labai sena laikytą geografijos ištr
     čių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra
     Nerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­
     namoje Bruzes.
-  citata_rodoma: |
-    Buvo rasta geografijos ištrauka, laikoma
-    labai sena ir saugoma Milano bibliotekoje; ji turėjo būti
-    X amžiuje parašyta kopija5. Joje išvardijamos Siaurės
-    Europos tautos ir jų gyvenamosios vietos. Ten tarp gen­
-    čių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra
-    Nerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­
-    namoje Bruzes.
+  citata_rodoma: "Buvo rasta geografijos ištrauka, laikoma \nlabai sena ir saugoma Milano bibliotekoje; ji turėjo būti \nX amžiuje parašyta kopija5. Joje išvardijamos Siaurės \nEuropos tautos ir jų gyvenamosios vietos. Ten tarp gen­\nčių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra \nNerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­\nnamoje Bruzes."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191742
-    - t-197666
+    - t-001
+    - t-002

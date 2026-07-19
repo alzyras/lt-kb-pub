@@ -31,7 +31,6 @@ Aleksandras prie Bobro upės sužinojo apie pralaimėjimą ir Obolcuose įrengė
 
 <a id="claim-t-185280"></a>
 - t-001
-  global_id: t-185280
   teiginys: "Aleksandras prie Bobro upės sužinojo apie pralaimėjimą ir Obolcuose įrengė karo stovyklą priešo žygiui stabdyti."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Aleksandras prie Bobro upės sužinojo apie pralaimėjimą ir Obolcuose įrengė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185280
+    - t-001

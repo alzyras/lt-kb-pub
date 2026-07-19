@@ -39,8 +39,7 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
 ## Teiginiai
 
 <a id="claim-t-60189"></a>
-- t-001
-  global_id: t-60189
+- t-002
   teiginys: "Otonas Kūdikis nuo 1236 m. buvo Braunšveigo-Liuneburgo hercogas ir Henriko Liūto vaikaitis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,25 +56,16 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus biografinis faktas, tiesiogiai paremtas pastaba."
   pagrindžia:
     - c-60821
-    - c-001
+
 <a id="claim-t-60190"></a>
-- t-002
-  global_id: t-60190
+- t-001
   teiginys: "Otonas, Braunšveigo valdovas ir Liuneburgo kunigaikštis, su daugybe maldininkų atvyko į Prūsijos žemę padėti broliams."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Otonas (Braunšveigo-Liuneburgo kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Otonas atvyko į Prūsijos žemę."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Otonas (Braunšveigo-Liuneburgo kunigaikštis) keliavo į Prūsija (0.95)"
   pagrindžia:
-    - c-60822
-    - c-002
+    - c-60821
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Otonas Kūdikis nuo 1236 m. buvo Braunšveigo-Liuneburgo hercogas ir Henriko Liūto vaikaitis.'
@@ -88,8 +78,6 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60189
 - c-002
   santrauka: 'Otonas, Braunšveigo valdovas ir Liuneburgo kunigaikštis, su daugybe maldininkų atvyko į Prūsijos žemę padėti broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -107,8 +95,7 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60190
+
 ## Citatos
 
 - id: c-60821
@@ -120,16 +107,16 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
     atvykusius Vokietijos „maldininkus“.
     253  Braunšveigo—Liuneburgo hercogas (nuo 1236 m.) Otonas Kūdikis (Otto das
     Kind), Henriko Liūto vaikaitis. Liuneburgas — į pietryčius nuo Hamburgo.
-  citata_rodoma: |
-    253  Braunšveigo—Liuneburgo hercogas (nuo 1236 m.) Otonas Kūdikis (Otto das
-    Kind), Henriko Liūto vaikaitis. Liuneburgas — į pietryčius nuo Hamburgo.
+  citata_rodoma: "253  Braunšveigo—Liuneburgo hercogas (nuo 1236 m.) Otonas Kūdikis (Otto das\nKind), Henriko Liūto vaikaitis. Liuneburgas — į pietryčius nuo Hamburgo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60189
+    - t-002
+    - t-001
+
 - id: c-60822
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -143,24 +130,13 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
     imtis tikėjimo bei tikinčiųjų reikalo. Taigi Pomandas iš Baigos pilies sugrįžo pas savo
     bendrataučius prusus, dėdamasis tikėjimo ir tikinčiųjų priešu, o jį pamatę, prūsai labai
     nudžiugo, nes tikėjosi per šio vyro sumanumą galėsią žlugdyti visas brolių įstangas.
-  citata_rodoma: |
-    Apie Braunšveigo kunigaikščio atvykimą
-
-      Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera
-    žinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe
-    maldininkų atvyko kilnusis  ir pamaldusis Otonas, šviesusis Braunšveigo valdovas  ir
-    kunigaikštis, vadinamas taip pat ir [Otonu] iš Liuneburgo253.
-
-
-
-
-             26.
+  citata_rodoma: "Apie Braunšveigo kunigaikščio atvykimą\n\n  Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera\nžinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe\nmaldininkų atvyko kilnusis  ir pamaldusis Otonas, šviesusis Braunšveigo valdovas  ir\nkunigaikštis, vadinamas taip pat ir [Otonu] iš Liuneburgo253.\n\n\n\n\n         26."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-60190
+
 ## Ryšiai
 - Otonas (Braunšveigo-Liuneburgo kunigaikštis) keliavo į [[objektai/vietos/Prūsija]]

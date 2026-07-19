@@ -30,7 +30,6 @@ Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyv
 
 <a id="claim-t-36298"></a>
 - t-001
-  global_id: t-36298
   teiginys: "Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes Kernavos kunigaikštija buvo maža."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,14 +57,11 @@ Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyv
     Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos
     galvos, nes pati Kernavės kunigaikštija buvo maža. Kad šito­
     kia reforma buvo manoma padaryti, rodo ir šis faktas.
-  citata_rodoma: |
-    Vyguntas, būdamas
-    Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos
-    galvos, nes pati Kernavės kunigaikštija buvo maža.
+  citata_rodoma: "Vyguntas, būdamas\nVladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos\ngalvos, nes pati Kernavės kunigaikštija buvo maža."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36298
+    - t-001

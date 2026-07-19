@@ -43,7 +43,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 
 <a id="claim-t-65144"></a>
 - t-001
-  global_id: t-65144
   teiginys: "Rusijos imperijoje estai turėjo kultūrinių galimybių ir švietimo sąlygų, kurių siekė etniniai lietuviai."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 
 <a id="claim-t-65145"></a>
 - t-002
-  global_id: t-65145
   teiginys: "1260 m. Klaipėdoje estai minimi tarp Ordino prievarta buriamų karių iš užgrobtų žemių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 
 <a id="claim-t-65146"></a>
 - t-003
-  global_id: t-65146
   teiginys: "Broliams puolant lietuvius, estai kartu su kuršiais pasitraukė iš mūšio lauko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,9 +94,8 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 
 <a id="claim-t-188180"></a>
 - t-004
-  global_id: t-188180
   teiginys: "Narbutas rašė, kad laisvės, malonumų ir džiaugsmo deivę Lietuvą tebežinojo lietuviai, latviai ir estai."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -115,10 +111,9 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171074
-    - c-004
+
 <a id="claim-t-192377"></a>
 - t-005
-  global_id: t-192377
   teiginys: "Narbutas estų pavadinimą laikė gotišku ir kildino iš žodžio „Ėst“ arba „Aest“, reiškiančio rytus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -139,7 +134,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 
 <a id="claim-t-192378"></a>
 - t-006
-  global_id: t-192378
   teiginys: "Narbutas iš Pitėjo aprašymo sprendė, kad jo laikų Prūsijos gyventojai nesivadino estais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -160,7 +154,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 
 <a id="claim-t-192379"></a>
 - t-007
-  global_id: t-192379
   teiginys: "Narbutas rašė, kad nuo Tacito iki Teodoriko Didžiojo apie estus nėra žinių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -313,8 +306,7 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188180
+
 ## Citatos
 
 - id: c-22381
@@ -332,19 +324,15 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
     pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent
     jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
     imperijoje turi latviai ir estai.
-  citata_rodoma: |
-    Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų
-    tautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos
-    pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent
-    jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
-    imperijoje turi latviai ir estai.
+  citata_rodoma: "Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų\ntautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos\npozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent\njau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos\nimperijoje turi latviai ir estai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65144
+    - t-001
+
 - id: c-42665
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -365,25 +353,15 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
     žiaus karo akciją buvo įtraukti ir prieš tuo
     metu Rytų Europą užplūdusius totorius
     gausiai suverbuoti kryžininkai.
-  citata_rodoma: |
-    Klaipėdoje prieš Lietuvą buvo
-    sutelktos Livonijos ir Prūsijos kryžiuočių
-    ordinų pajėgos, broliai riteriai ir
-    i 4 jiems pavaldžių užgrobtų žemių
-    “prievarta buriami kariai (prūsai -
-    pamedėnai, notangai, varmiai, sem-
-    bai, o taip pat kuršiai, estai ir kt.), iš
-    Vokietijos žemių 30 naujai įstojusių Ordino
-    brolių būrys, Revelio (Talino) danų kariuo-
-    menė, vadovaujama švedų kunigaikščio
-    Karolio, turėjusio dar savo būrį.
+  citata_rodoma: "Klaipėdoje prieš Lietuvą buvo\nsutelktos Livonijos ir Prūsijos kryžiuočių\nordinų pajėgos, broliai riteriai ir\ni 4 jiems pavaldžių užgrobtų žemių\n“prievarta buriami kariai (prūsai -\npamedėnai, notangai, varmiai, sem-\nbai, o taip pat kuršiai, estai ir kt.), iš\nVokietijos žemių 30 naujai įstojusių Ordino\nbrolių būrys, Revelio (Talino) danų kariuo-\nmenė, vadovaujama švedų kunigaikščio\nKarolio, turėjusio dar savo būrį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65145
+    - t-002
+
 - id: c-42666
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -398,21 +376,15 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 
     Ordino pajėgos „pagonių būrių“ buvo
     apsuptos.
-  citata_rodoma: |
-    Tolesnės
-    kovos eigoje „broliams puolant lietuvius“,
-    kuršiai „ėmė trauktis, kai estai tai pamatė,
-    drauge bėgti suskato, palikę mūšio lauką“.
-
-    Ordino pajėgos „pagonių būrių“ buvo
-    apsuptos.
+  citata_rodoma: "Tolesnės\nkovos eigoje „broliams puolant lietuvius“,\nkuršiai „ėmė trauktis, kai estai tai pamatė,\ndrauge bėgti suskato, palikę mūšio lauką“.\n\nOrdino pajėgos „pagonių būrių“ buvo\napsuptos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65146
+    - t-003
+
 - id: c-171074
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -424,21 +396,15 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
     Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
     radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­
     šytoje ant pergamento rusų kalba, kuria bajorui Rimvydui
-  citata_rodoma: |
-    127
-
-    ## Puslapis 127
-
-    Lietuva į.Liethua)
-    Laisvės, malonumų, džiaugsmo deivė. Ją tebežino lietu­
-    viai, ypač senojoje Trakų vaivadijoje, latviai ir estai.
+  citata_rodoma: "127\n\n## Puslapis 127\n\nLietuva į.Liethua)\nLaisvės, malonumų, džiaugsmo deivė. Ją tebežino lietu­\nviai, ypač senojoje Trakų vaivadijoje, latviai ir estai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188180
+    - t-004
+
 - id: c-175171
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -460,7 +426,8 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192377
+    - t-005
+
 - id: c-175172
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -484,7 +451,8 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192378
+    - t-006
+
 - id: c-175173
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -508,7 +476,8 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192379
+    - t-007
+
 ## Ryšiai
 - Buvo užkariauta: [[objektai/asmenys/Germanarikas]]
 - Estai gyveno [[objektai/vietos/Pajūris]], [[objektai/vietos/Peipaus ežeras]]

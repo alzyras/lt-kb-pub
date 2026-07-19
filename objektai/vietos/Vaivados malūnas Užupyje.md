@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-86110"></a>
 - t-001
-  global_id: t-86110
   teiginys: "1493 m. Aleksandro Jogailaičio dovanojimo akte minima pieva ties Vaivados malūnu Užupyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ media_all_json: |-
 
 <a id="claim-t-86111"></a>
 - t-002
-  global_id: t-86111
   teiginys: "Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą prie Vilniaus vaivados Mikalojaus Radvilos malūno Užupyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86111
+    - t-002
+
 - id: c-82090
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -115,24 +114,11 @@ media_all_json: |-
     (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)
     Šis aktas, surašytas gryna slavų kalba, ant popieriaus in
     4to, puikiausiai išsilaikęs.
-  citata_rodoma: |
-    Šiame laiške po parašais yra penki antspaudai.
-    356
-
-    ## Puslapis 373
-
-    IV KNYGA
-    ALEKSANDRO JOGAILAIČIO DOVANOJIMAS
-    VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI
-    PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE
-    1493 METAIS
-    (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)
-    Šis aktas, surašytas gryna slavų kalba, ant popieriaus in
-    4to, puikiausiai išsilaikęs.
+  citata_rodoma: "Šiame laiške po parašais yra penki antspaudai.\n356\n\n## Puslapis 373\n\nIV KNYGA\nALEKSANDRO JOGAILAIČIO DOVANOJIMAS\nVILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI  \nPIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE  \n1493 METAIS\n(Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)\nŠis aktas, surašytas gryna slavų kalba, ant popieriaus in \n4to, puikiausiai išsilaikęs."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86110
+    - t-001

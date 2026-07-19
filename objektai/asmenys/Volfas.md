@@ -30,7 +30,6 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
 
 <a id="claim-t-191332"></a>
 - t-001
-  global_id: t-191332
   teiginys: "Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo vadovauti sudargams arba vienai iš sąjunginių genčių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
 
 <a id="claim-t-197842"></a>
 - t-002
-  global_id: t-197842
   teiginys: "Šios vilties ir narsos, ku rią suteikia keršto troškimas, skatinami, skiri ai skubėjo su savo vadais Eduka ir Volfu pagelbėti svebams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,8 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191332
+    - t-001
+
 - id: c-179359
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -114,4 +113,4 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197842
+    - t-002

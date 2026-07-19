@@ -26,13 +26,47 @@ media_all_json: |-
 
 Narbutas išnašoje nurodo, kad aptariamas dalykas plačiai išdėstytas Čackio veikalo „O prawach“ pirmajame tome.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas išnašoje nurodo, kad aptariamas dalykas plačiai išdėstytas Čackio veikalo „O prawach“ pirmajame tome.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    10 Šis dalykas plačiai išdėstytas Čackio veikale (O prawach. -  T. I. -
+    S. 61-62. - Nota nr. 331).
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-173369
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Pasak
+    islandų sagose esančių padavimų, skandinavai taip pat žinojo
+    pakirptuves. Senovės lenkai ypač laikėsi šio papročio. Pas juos
+    pakirptuvėmis buvo pažymimas kiekvienas žmogaus gyveni­
+    mo laikotarpis, pradedant jaunyste, kai pasikeisdavo padėtis,
+    pareigos ir 1.1.
+  citata_rodoma: "10 Šis dalykas plačiai išdėstytas Čackio veikale (O prawach. -  T. I. -\nS. 61-62. - Nota nr. 331)."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-190486"></a>
 - t-001
-  global_id: t-190486
   teiginys: "Narbutas išnašoje nurodo, kad aptariamas dalykas plačiai išdėstytas Čackio veikalo „O prawach“ pirmajame tome."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,41 +82,3 @@ Narbutas išnašoje nurodo, kad aptariamas dalykas plačiai išdėstytas Čackio
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173369
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas išnašoje nurodo, kad aptariamas dalykas plačiai išdėstytas Čackio veikalo „O prawach“ pirmajame tome.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    10 Šis dalykas plačiai išdėstytas Čackio veikale (O prawach. -  T. I. -
-    S. 61-62. - Nota nr. 331).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190486
-## Citatos
-
-- id: c-173369
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Pasak
-    islandų sagose esančių padavimų, skandinavai taip pat žinojo
-    pakirptuves. Senovės lenkai ypač laikėsi šio papročio. Pas juos
-    pakirptuvėmis buvo pažymimas kiekvienas žmogaus gyveni­
-    mo laikotarpis, pradedant jaunyste, kai pasikeisdavo padėtis,
-    pareigos ir 1.1.
-  citata_rodoma: |
-    10 Šis dalykas plačiai išdėstytas Čackio veikale (O prawach. -  T. I. -
-    S. 61-62. - Nota nr. 331).
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190486

@@ -55,7 +55,6 @@ Terminas aptariamas kaip tikslesnis už piltuvėlį.
 
 <a id="claim-t-195455"></a>
 - t-001
-  global_id: t-195455
   teiginys: "Varianka šiame šaltinyje yra skysčiui perleisti vartojamo lovelio ar piltuvėlio pavadinimas."
   atnaujinta: "2026-07-12 03:27"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -77,13 +76,11 @@ Terminas aptariamas kaip tikslesnis už piltuvėlį.
     boso taip, kad vamzdis įlenda į didžiąją boso skylę. Dabar į lovelį pi­
     la alų, o alus pro vamzdį teka į bosą. Lovelį tą vadinome varianka,
     mat juo skystis pravaromas iš vieno indo į kitą.
-  citata_rodoma: |
-    Lovelį tą vadinome varianka,
-    mat juo skystis pravaromas iš vieno indo į kitą
+  citata_rodoma: "Lovelį tą vadinome varianka, \nmat juo skystis pravaromas iš vieno indo į kitą"
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195455
+    - t-001

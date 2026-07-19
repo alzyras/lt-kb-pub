@@ -36,9 +36,8 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
 
 ## Teiginiai
 
-<a id="claim-t-73351"></a>
-- t-001
-  global_id: t-73351
+<a id="claim-t-73348"></a>
+- t-003
   teiginys: "Po Smolensko paėmimo 1514 m. Konstantinas Ostrogiškis ties Orša smarkiai sumušė Maskvos kariuomenę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
 
 <a id="claim-t-73349"></a>
 - t-002
-  global_id: t-73349
   teiginys: "Oršoje įsteigta jėzuitų kolegija buvo karaliaus Zigmanto fundacija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,16 +78,15 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
     Glinskiui sukėlus viduje sąmokslą, buvo paimtas (1514 m.).
     Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Mas-
     kvos kariuomenę ties Orša.
-  citata_rodoma: |
-    Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Mas-
-    kvos kariuomenę ties Orša.
+  citata_rodoma: "Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Mas-\nkvos kariuomenę ties Orša."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-73351
+    - t-003
+
 - id: c-71599
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -114,4 +111,4 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-73349
+    - t-002

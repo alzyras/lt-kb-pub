@@ -31,7 +31,6 @@ Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ n
 
 <a id="claim-t-86608"></a>
 - t-001
-  global_id: t-86608
   teiginys: "Plaustais vadinti perkėlimai per Vilijos upę buvo uždrausti tarp Verkių ir Panerių kaimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86608
+    - t-001

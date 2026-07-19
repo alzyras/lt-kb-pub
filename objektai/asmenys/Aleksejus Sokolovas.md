@@ -30,8 +30,7 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
 ## Teiginiai
 
 <a id="claim-t-40005"></a>
-- t-001
-  global_id: t-40005
+- t-002
   teiginys: "Aleksejus Sokolovas buvo agentų-smogikų organizatorius Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
     - c-44270
 
 <a id="claim-t-40006"></a>
-- t-002
-  global_id: t-40006
+- t-001
   teiginys: "Saugumo majoras Aleksejus Sokolovas formavo vadinamąsias specialiąsias grupes, kuriose veikdavo smogikai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,16 +64,15 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
     Agenty-smogiky grupė
     persirengusi Lietuvos partizanų uniformomis. Antroje eilėje, trečias iš dešinės stovi
     agentų-smogikų organizatorius Lietuvoje Aleksejus Sokolovas. Lietuvos SSR, XX a. 5 deš.
-  citata_rodoma: |
-    Antroje eilėje, trečias iš dešinės stovi
-    agentų-smogikų organizatorius Lietuvoje Aleksejus Sokolovas. Lietuvos SSR, XX a.
+  citata_rodoma: "Antroje eilėje, trečias iš dešinės stovi\nagentų-smogikų organizatorius Lietuvoje Aleksejus Sokolovas. Lietuvos SSR, XX a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40005
+    - t-002
+
 - id: c-44271
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -87,16 +84,11 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
     naudota griežta konspiracija, o jų nariai faktiškai neturėjo galimy-
     bių pabėgti ar pasitraukti iš spec. grupių sudėties, nes tuojau pat
     „kompromatas“ būtų pamestas tikriesiems partizanams.
-  citata_rodoma: |
-    Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-
-    muotose vadinamosiose specialiosiose grupėse, kurioms paprastai
-    vadovaudavo koks nors operatyvininkas. Tokių grupių priedangai
-    naudota griežta konspiracija, o jų nariai faktiškai neturėjo galimy-
-    bių pabėgti ar pasitraukti iš spec.
+  citata_rodoma: "Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-\nmuotose vadinamosiose specialiosiose grupėse, kurioms paprastai\nvadovaudavo koks nors operatyvininkas. Tokių grupių priedangai\nnaudota griežta konspiracija, o jų nariai faktiškai neturėjo galimy-\nbių pabėgti ar pasitraukti iš spec."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40006
+    - t-001

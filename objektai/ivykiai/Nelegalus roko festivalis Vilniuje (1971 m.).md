@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20430"></a>
 - t-001
-  global_id: t-20430
   teiginys: "1971 m. viename Vilniaus restoranų įvyko nelegalus roko festivalis, vadintas Baltijos šalių ar net 300 SSRS hipių suvažiavimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,12 +84,11 @@ Nenurodyta
     mečio pradžios įvykiais Vilniuje ir Kaune. 1971 m. viename iš Vilniaus
     restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar
     net 300 SSRS hipių suvažiavimu.
-  citata_rodoma: |
-    restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar
+  citata_rodoma: "restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20430
+    - t-001

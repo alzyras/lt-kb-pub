@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-87798"></a>
 - t-001
-  global_id: t-87798
   teiginys: "Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,6 +76,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87798
+    - t-001
+
 ## Ryšiai
 - Mykolas (Švitrigailos sūnus) mirė [[objektai/vietos/Maskva]]

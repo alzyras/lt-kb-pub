@@ -36,8 +36,7 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
 ## Teiginiai
 
 <a id="claim-t-41091"></a>
-- t-001
-  global_id: t-41091
+- t-002
   teiginys: "1945 m. birželio 25 d. į pasalą patekę žuvo „Muškietininkų“ būrio vadas Vladas Gavėnas-Tarzanas, Vincas Boruta-Žvalgas ir Sigitas Melnykas-Portas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
     - c-44820
 
 <a id="claim-t-193735"></a>
-- t-002
-  global_id: t-193735
+- t-003
   teiginys: "Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno-Tarzano."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -87,20 +85,15 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
     partizanai prie Žuvinto ežero susidūrė su
     pasaloje laukusiais NKVD kareiviais ir vie-
     tiniais stribais.
-  citata_rodoma: |
-    1945 m. birželio 25 d. į pa-
-    salą patekęs žuvo „Muškietininkų“ būrio
-
-    vadas Vladas Gavėnas-Tarzanas bei lais-
-    vės kovotojai Vincas Boruta-Žvalgas ir
-    Sigitas Melnykas-Portas.
+  citata_rodoma: "1945 m. birželio 25 d. į pa-\nsalą patekęs žuvo „Muškietininkų“ būrio\n\nvadas Vladas Gavėnas-Tarzanas bei lais-\nvės kovotojai Vincas Boruta-Žvalgas ir\nSigitas Melnykas-Portas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41091
+    - t-002
+
 - id: c-176402
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -123,4 +116,4 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193735
+    - t-003

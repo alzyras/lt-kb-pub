@@ -49,8 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185617"></a>
-- t-001
-  global_id: t-185617
+- t-003
   teiginys: "Kojelavičiaus vertinimu, maskvėnų stiprėjimas kėlė pavojų lietuviams, tačiau karalius Kazimieras vengė karo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -68,10 +67,12 @@ Nenurodyta
   pagrindžia:
     - c-168978
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Tverėje kilus maištui, teisėtas kunigaikštis buvo išvytas, o Tverė susivienijo su maskvėnais.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-168977
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kitais metais jie palydėjo seno­
     vės Lietuvos kunigaikščių at-
@@ -91,14 +92,12 @@ Nenurodyta
     jo je
     tų: vienus jėga užgrobė, kiti
     patys pasidavė.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  atnaujinta: "2026-07-13 01:17"
+
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
-## Citatos
-
 - id: c-168978
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -125,20 +124,11 @@ Nenurodyta
     kiau mėgo medžioklę,
     o ypač taurų, kurių Lenkijoje
     negalima užtikti.
-  citata_rodoma: |
-    Tverė turėjo labai galingas karo
-    jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
-    ties tūkstančių raitelių. Lietuviams tikrai buvo pavo­
-    jinga maskvėnų sėkmė, toks smarkus jų augimas kai­
-    mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi
-    seniai mėgdamas ramybę, po senovei vengė karo. To­
-    dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­
-    bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai
-    jį pagerbęs, bet nieko doro nepažadėjęs.
+  citata_rodoma: "Tverė turėjo labai galingas karo\njėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­\nties tūkstančių raitelių. Lietuviams tikrai buvo pavo­\njinga maskvėnų sėkmė, toks smarkus jų augimas kai­\nmynų sąskaita, tačiau karalius Kazimieras, kaip ir visi\nseniai mėgdamas ramybę, po senovei vengė karo. To­\ndėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­\nbomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai\njį pagerbęs, bet nieko doro nepažadėjęs."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185617
+    - t-003

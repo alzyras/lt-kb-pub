@@ -39,7 +39,6 @@ Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuo
 
 <a id="claim-t-40151"></a>
 - t-001
-  global_id: t-40151
   teiginys: "J. Aukštuolaitis vadovavo Tauragėje besikūrusiam Žemaičių batalionui, kuris netrukus buvo išformuotas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,19 +85,11 @@ Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuo
     netrukus buvo išformuotas; Kėdainiuose —
     karininkų J. Variakojo ir J. Šarausko va-
     dovaujami Panevėžio ir Kėdainių sričių
-  citata_rodoma: |
-    Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti,
-
-    riuomenė ir birželį baltgudžių
-    pulkas buvo išformuotas); Tauragėje - be-
-    sikuriantis Žemaičių batalionas, vadovau-
-    jamas avantiūristo J. Aukštuolaičio, kuris
-    netrukus buvo išformuotas; Kėdainiuose —
-    karininkų J.
+  citata_rodoma: "Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti,\n\nriuomenė ir birželį baltgudžių\npulkas buvo išformuotas); Tauragėje - be-\nsikuriantis Žemaičių batalionas, vadovau-\njamas avantiūristo J. Aukštuolaičio, kuris\nnetrukus buvo išformuotas; Kėdainiuose —\nkarininkų J."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40151
+    - t-001

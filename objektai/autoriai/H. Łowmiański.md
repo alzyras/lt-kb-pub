@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-30633"></a>
 - t-001
-  global_id: t-30633
   teiginys: "H. Łowmiańskis bandė seniausias lietuvių sienas nukelti iki Merkinės, Eišiškių ir Šalčininkų linijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,14 +59,11 @@ media_all_json: |-
     nuo Lydos). Yra bandoma seniausias lietuvių sienas nukelti iki
     linijos Merkinė-Eišiškės-Šalčininkai (H. Łowmiański, H. Paszkie­
     wicz).
-  citata_rodoma: |
-    Yra bandoma seniausias lietuvių sienas nukelti iki
-    linijos Merkinė-Eišiškės-Šalčininkai (H. Łowmiański, H. Paszkie­
-    wicz).
+  citata_rodoma: "Yra bandoma seniausias lietuvių sienas nukelti iki\nlinijos Merkinė-Eišiškės-Šalčininkai (H. Łowmiański, H. Paszkie­\nwicz)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30633
+    - t-001

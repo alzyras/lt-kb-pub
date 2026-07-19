@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-77937"></a>
 - t-001
-  global_id: t-77937
   teiginys: "Klaipėdos krašto vokiečių nacių organizacijos varė antivalstybinę propagandą, ruošėsi sukilimui ir krašto prijungimui prie Vokietijos, terorizavo lietuvių susirinkimus ir puldinėjo žydus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-77938"></a>
 - t-002
-  global_id: t-77938
   teiginys: "1934 m. liepą–1935 m. kovą Kaune vykęs teismas buvo pirmasis Europoje vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,7 +113,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77937
+    - t-001
+
 - id: c-75255
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -140,4 +139,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77938
+    - t-002

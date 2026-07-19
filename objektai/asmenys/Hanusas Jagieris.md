@@ -7,12 +7,12 @@ datos:
   - '1586 m.'
 date_start: '1586'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Kai 1586 m. Kauno tarėjas ir stambus verslovininkas Hanusas Jagieris panoro ats
 
 <a id="claim-t-202104"></a>
 - t-001
-  global_id: t-202104
   teiginys: "Kai 1586 m. Kauno tarėjas ir stambus verslovininkas Hanusas Jagieris panoro atsisakyti Kauno miesto tarėjo pareigų dėl didelio užimtumo rūpinantis verslu, jam teko pagalbos kreiptis į Steponą Batorą."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Kai 1586 m. Kauno tarėjas ir stambus verslovininkas Hanusas Jagieris panoro ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202104
+    - t-001

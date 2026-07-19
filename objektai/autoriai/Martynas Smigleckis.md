@@ -44,8 +44,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 ## Teiginiai
 
 <a id="claim-t-105591"></a>
-- t-001
-  global_id: t-105591
+- t-007
   teiginys: "Martynas Smigleckis, aptardamas privačios prekybos arba monopolio privalumus ir trūkumus, Vilnių pateikė kaip stiklo prekių pavyzdį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
     - c-98297
 
 <a id="claim-t-105592"></a>
-- t-002
-  global_id: t-105592
+- t-006
   teiginys: "Martynas Smigleckis parašė veikalą apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir privačią prekybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,9 +75,8 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   pagrindžia:
     - c-98295
 
-<a id="claim-t-105594"></a>
-- t-003
-  global_id: t-105594
+<a id="claim-t-105593"></a>
+- t-009
   teiginys: "Martyno Smigleckio „Logika“ (1618 m.) pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,8 +95,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
     - c-22169
 
 <a id="claim-t-105595"></a>
-- t-004
-  global_id: t-105595
+- t-010
   teiginys: "Martynas Smigleckis buvo knygos „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,8 +111,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
     - c-98295
 
 <a id="claim-t-105596"></a>
-- t-005
-  global_id: t-105596
+- t-008
   teiginys: "Martynas Smigleckis teigė, kad neteisinga respublikoje neleisti privačios prekybos dėl didesnio prekių ištekliaus mieste."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -167,20 +162,15 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
     Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m.
     buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
     vietoje įprasto Horacijaus.
-  citata_rodoma: |
-    Vilniaus universite-
-    to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui,
-    Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir
-    Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m.
-    buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
-    vietoje įprasto Horacijaus.
+  citata_rodoma: "Vilniaus universite-\nto profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, \nMartyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir \nOksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. \nbuvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose \nvietoje įprasto Horacijaus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-105594
+    - t-009
+
 - id: c-98293
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -207,7 +197,8 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-105596
+    - t-008
+
 - id: c-98295
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -226,27 +217,16 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
     leckio, jėzuito, šv. teologijos dakta­
     ro". 7-as leidimas, Krokuvoje, pas
     Andžejų Piotrkovčiką, 1640, in 4to.
-  citata_rodoma: |
-    55
-    Vilniui šis stiklo monopolis turėjo
-    būti įsimintinas, kai Smigleckis, au­
-    torius nepaprastai parašytos ir savo
-    laiku labai patrauklios knygos „Apie
-    palūkanas, atpirkimus, činšus, ben­
-    drą pelną, nuomas, mainus ir apie
-    privačią prekybą - trumpas moks­
-    las, parašytas kun. Martyno Smig-
-    leckio, jėzuito, šv. teologijos dakta­
-    ro". 7-as leidimas, Krokuvoje, pas
-    Andžejų Piotrkovčiką, 1640, in 4to.
+  citata_rodoma: "55\nVilniui šis stiklo monopolis turėjo \nbūti įsimintinas, kai Smigleckis, au­\ntorius nepaprastai parašytos ir savo \nlaiku labai patrauklios knygos „Apie \npalūkanas, atpirkimus, činšus, ben­\ndrą pelną, nuomas, mainus ir apie \nprivačią prekybą - trumpas moks­\nlas, parašytas kun. Martyno Smig- \nleckio, jėzuito, šv. teologijos dakta­\nro\". 7-as leidimas, Krokuvoje, pas \nAndžejų Piotrkovčiką, 1640, in 4to."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-105592
-    - t-105595
+    - t-006
+    - t-010
+
 - id: c-98297
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -274,4 +254,4 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-105591
+    - t-007

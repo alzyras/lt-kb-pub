@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-25169"></a>
 - t-001
-  global_id: t-25169
   teiginys: "Pramonės ir prekybos rūmų Kaune architektas buvo V. Landsbergis-Žemkalnis; objektas datuojamas 1938 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,18 +93,14 @@ Nenurodyta
     dvasios, nors ir nemažai kalbėta apie lietuvių tautinės kultūros kūrimą.
     Valstybės biudžeto lėšos leido sukurti profesionalią operą ir baletą, teatrą,
     formuotis tautiniam kultūros elitui.
-  citata_rodoma: |
-    L I E T U V O S  I S T O R I J A
-    172
-    Architektūros raida: Pramonės ir prekybos rūmai Kaune.
-    Architektas V. Landsbergis-Žemkalnis, 1938
-    A.
+  citata_rodoma: "L I E T U V O S  I S T O R I J A\n172\nArchitektūros raida: Pramonės ir prekybos rūmai Kaune.  \nArchitektas V. Landsbergis-Žemkalnis, 1938\nA."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-25169
+    - t-001
+
 ## Ryšiai
 - Pramonės ir prekybos rūmai Kaune priklausė [[objektai/vietos/Kaunas]]

@@ -31,7 +31,6 @@ Narbutas nurodo, kad Varmijos vyskupo Anzelmo rašte Lemptenburgas minimas fraz�
 
 <a id="claim-t-191863"></a>
 - t-001
-  global_id: t-191863
   teiginys: "Narbutas nurodo, kad Varmijos vyskupo Anzelmo rašte Lemptenburgas minimas frazėje „Rudolfus in Lemptenburg plebanus“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Narbutas nurodo, kad Varmijos vyskupo Anzelmo rašte Lemptenburgas minimas fraz�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191863
+    - t-001

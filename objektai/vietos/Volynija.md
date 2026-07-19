@@ -41,8 +41,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
 ## Teiginiai
 
 <a id="claim-t-120056"></a>
-- t-001
-  global_id: t-120056
+- t-002
   teiginys: "Jogaila atidavė Vytautui Volyniją su Lucko ir Vladimiro kunigaikštijomis."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - c-110161
 
 <a id="claim-t-120057"></a>
-- t-002
-  global_id: t-120057
+- t-003
   teiginys: "Vytauto laikais Krokuvos ir vokiečių pirkliai sausuma lankydavo Volynijos ir Podolijos miestus."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - c-37848
 
 <a id="claim-t-120058"></a>
-- t-003
-  global_id: t-120058
+- t-006
   teiginys: "Vytauto laikais Volynijoje buvo gausu didžiojo kunigaikščio dvarų ir ūkio centrų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,8 +90,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - c-110164
 
 <a id="claim-t-120059"></a>
-- t-004
-  global_id: t-120059
+- t-001
   teiginys: "1384 m. pavasarį Jogaila siūlė Vytautui grąžinti tėviškę ir pridėti Volyniją su Lucku."
   atnaujinta: "2026-05-31 12:53"
   sprendimo_priezastis: "auto"
@@ -114,7 +110,6 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
 
 <a id="claim-t-120060"></a>
 - t-005
-  global_id: t-120060
   teiginys: "Vytauto laikais Volynijos miestus sausumos keliais lankydavo Krokuvos ir vokiečių pirkliai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,8 +125,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - c-37848
 
 <a id="claim-t-201117"></a>
-- t-006
-  global_id: t-201117
+- t-007
   teiginys: "Visų pirma, įėjęs į Volynijos kraš tą, pilį Vladimiro apgulė, kurios įgulė, lygiai su gyventojais susinėrusi, didžiai kantriai gynės, vil damos veikios pagalbos nuo lauko ateinančios, kas ir nutiko: pats kunigaikštis Volynijos, patelkęs rim tus pulkus."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -143,8 +137,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - c-184467
 
 <a id="claim-t-201118"></a>
-- t-007
-  global_id: t-201118
+- t-008
   teiginys: "Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuriais Algirdas rėdė, ik šiai dienai Lietuvos įstatymais tebsirėdo, tai yra: Severija, Krivičiai, arba Baltieji Gudai, Juodieji Gudai, Volynija, Pa dalija, Paletija."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -175,21 +168,16 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
     Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
     cijos pirkliai.
-  citata_rodoma: |
-    Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,
-    remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą
-    su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­
-    jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
-    Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
-    cijos pirkliai.
+  citata_rodoma: "Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,\nremdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą\nsu Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­\njos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.\nĮ Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­\ncijos pirkliai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-120057
-    - t-120060
+    - t-003
+    - t-005
+
 - id: c-110161
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -211,7 +199,8 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-120056
+    - t-002
+
 - id: c-110162
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -233,7 +222,8 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-120059
+    - t-001
+
 - id: c-110164
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -247,23 +237,19 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau
     apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat
     arčiau didž. Lietuvos kunigaikščio būstinės.
-  citata_rodoma: |
-    kunigaikščiui priklau­
-    sančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų
-    gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­
-    maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau
-    apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat
-    arčiau didž. Lietuvos kunigaikščio būstinės.
+  citata_rodoma: "kunigaikščiui priklau­\nsančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų\ngausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­\nmaičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau\napgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat\narčiau didž. Lietuvos kunigaikščio būstinės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-120058
+    - t-006
+
 - id: c-184467
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip nudraudęs Gediminas kryžėjus sukos su
     visa galia ant gudų, kurie seniai jau ermavos ir lie­
@@ -285,10 +271,12 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201117
+    - t-007
+
 - id: c-184468
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Veltui
     nori šiandien tūli neprieteliai Lietuvos ir Žemaičių
@@ -323,4 +311,4 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201118
+    - t-008

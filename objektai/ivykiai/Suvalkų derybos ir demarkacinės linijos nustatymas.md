@@ -46,8 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41365"></a>
-- t-001
-  global_id: t-41365
+- t-002
   teiginys: "Suvalkų derybose Lietuvos delegacija reikalavo laikinos demarkacijos linijos ir lenkų pajėgų atitraukimo už su Sovietų Rusija suderėtų sienų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Nenurodyta
     - c-44930
 
 <a id="claim-t-41366"></a>
-- t-002
-  global_id: t-41366
+- t-001
   teiginys: "Siekdami neprarasti teigiamo įvaizdžio tarptautinėje aplinkoje, lenkai pasiūlė pradėti derybas Suvalkuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,6 @@ Nenurodyta
 
 <a id="claim-t-41367"></a>
 - t-003
-  global_id: t-41367
   teiginys: "Spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +115,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41366
+    - t-001
+
 - id: c-44929
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -131,20 +129,15 @@ Nenurodyta
     toliau - palei Vilniaus-Lydos geležinkelį iki
     Bastūnų stoties. Varėnos ir Bastūnų stotys
     liko lenkams.
-  citata_rodoma: |
-    Galiausiai spalio 7 d. buvo nusta-
-    tyta demarkacinė linija nuo Vokietijos sienos
-    iki Juodosios Ančios ir Nemuno santakos,
-    toliau - palei Vilniaus-Lydos geležinkelį iki
-    Bastūnų stoties. Varėnos ir Bastūnų stotys
-    liko lenkams.
+  citata_rodoma: "Galiausiai spalio 7 d. buvo nusta-\ntyta demarkacinė linija nuo Vokietijos sienos\niki Juodosios Ančios ir Nemuno santakos,\ntoliau - palei Vilniaus-Lydos geležinkelį iki\nBastūnų stoties. Varėnos ir Bastūnų stotys\nliko lenkams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41367
+    - t-003
+
 - id: c-44930
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -160,17 +153,11 @@ Nenurodyta
     iki Juodosios Ančios ir Nemuno santakos,
     toliau - palei Vilniaus-Lydos geležinkelį iki
     Bastūnų stoties.
-  citata_rodoma: |
-    Derybose Lietuvos delegacija reikalavo
-    nustatyti laikiną demarkacijos liniją, pasi-
-    baigus lenkų-bolševikų kovoms, atitraukti
-    lenkų pajėgas už Lietuvos su sovietais sude-
-    rėtų sienų. Lenkai su tuo nesutiko ir vilkino
-    derybas. Galiausiai spalio 7 d.
+  citata_rodoma: "Derybose Lietuvos delegacija reikalavo\nnustatyti laikiną demarkacijos liniją, pasi-\nbaigus lenkų-bolševikų kovoms, atitraukti\nlenkų pajėgas už Lietuvos su sovietais sude-\nrėtų sienų. Lenkai su tuo nesutiko ir vilkino\nderybas. Galiausiai spalio 7 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41365
+    - t-002

@@ -41,7 +41,6 @@ Josvainiai šiame šaltinyje yra gyvenvietė ar vietovė.
 
 <a id="claim-t-195492"></a>
 - t-001
-  global_id: t-195492
   teiginys: "Šušvė įteka į Nevėžį ties Josvainiais."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -68,12 +67,11 @@ Josvainiai šiame šaltinyje yra gyvenvietė ar vietovė.
     1862 metų.
     Vieta — upynas Šušvės, įtekančios į Nevėžį ties Josvai­
     niais.
-  citata_rodoma: |
-    Vieta — upynas Šušvės, įtekančios į Nevėžį ties Josvai­niais.
+  citata_rodoma: "Vieta — upynas Šušvės, įtekančios į Nevėžį ties Josvai­niais."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195492
+    - t-001

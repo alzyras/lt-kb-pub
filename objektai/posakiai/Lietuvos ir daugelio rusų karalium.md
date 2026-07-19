@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-06878"></a>
-- t-001
-  global_id: t-06878
+- t-002
   teiginys: "Gediminas raštuose save titulavo Lietuvos ir daugelio rusų karaliumi."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -66,15 +65,11 @@ media_all_json: |-
     užėmęs, tai raštuose save tituluodavo „Lietuvos ir dau-
     gelio rusų karalium" _(Rex lithuanorum et multorum
     ruthenorum)._
-  citata_rodoma: |
-    O kadangi tuo tarpu dar jos visõs nebuvo
-    užėmęs, tai raštuose save tituluodavo „Lietuvos ir dau-
-    gelio rusų karalium" _(Rex lithuanorum et multorum
-    ruthenorum)._
+  citata_rodoma: "O kadangi tuo tarpu dar jos visõs nebuvo\nužėmęs, tai raštuose save tituluodavo „Lietuvos ir dau-\ngelio rusų karalium\" _(Rex lithuanorum et multorum\nruthenorum)._"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-06878
+    - t-002

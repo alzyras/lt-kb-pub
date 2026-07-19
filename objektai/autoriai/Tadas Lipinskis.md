@@ -31,7 +31,6 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 
 <a id="claim-t-194319"></a>
 - t-001
-  global_id: t-194319
   teiginys: "Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys tomai, kurių vienas skirtas LDK istoriniam topografiniam ap rašymui."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194319
+    - t-001

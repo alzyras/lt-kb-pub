@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20505"></a>
 - t-001
-  global_id: t-20505
   teiginys: "Stanislovo Augusto pozicija 1792 m. gegužės–liepos kare su Rusija buvo susitaikėliška."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,12 +87,11 @@ Nenurodyta
     pusės maršalas K. N. Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo
     Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos
     kare su Rusija toli gražu nebuvo išsemtos.
-  citata_rodoma: |
-    pusės maršalas K. N. Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo
+  citata_rodoma: "pusės maršalas K. N. Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20505
+    - t-001

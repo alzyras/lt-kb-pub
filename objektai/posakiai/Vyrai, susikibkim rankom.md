@@ -42,8 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09681"></a>
-- t-001
-  global_id: t-09681
+- t-002
   teiginys: "Kai bokšto gynėjų buvo gerokai mažiau, žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -53,8 +52,7 @@ media_all_json: |-
     - c-12492
 
 <a id="claim-t-193756"></a>
-- t-002
-  global_id: t-193756
+- t-003
   teiginys: "Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -75,16 +73,15 @@ media_all_json: |-
     Čia bokšto
     gynėjų buvo žymiai mažiau. Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom
     ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“.
-  citata_rodoma: |
-    Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom
-    ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“.
+  citata_rodoma: "Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom\nir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09681
+    - t-002
+
 - id: c-176415
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -98,4 +95,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193756
+    - t-003

@@ -31,7 +31,6 @@ Dusburgietis teigia, kad semkowicz-Zarembina); Dąbrowski J.
 
 <a id="claim-t-60693"></a>
 - t-001
-  global_id: t-60693
   teiginys: "Dąbrowski J. parašė darbą „Dawne dziejopisarstwo“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -54,4 +53,4 @@ Dusburgietis teigia, kad semkowicz-Zarembina); Dąbrowski J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60693
+    - t-001

@@ -30,7 +30,6 @@ Narbutas aiškino, kad daugiskaitos forma Juodi, arba Johdi, reiškia oro dvasia
 
 <a id="claim-t-189518"></a>
 - t-001
-  global_id: t-189518
   teiginys: "Narbutas aiškino, kad daugiskaitos forma Juodi, arba Johdi, reiškia oro dvasias ir mirusiųjų vėles."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas aiškino, kad daugiskaitos forma Juodi, arba Johdi, reiškia oro dvasia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189518
+    - t-001

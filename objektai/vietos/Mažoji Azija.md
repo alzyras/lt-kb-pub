@@ -40,7 +40,6 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
 
 <a id="claim-t-169044"></a>
 - t-001
-  global_id: t-169044
   teiginys: "Ordinas įsigijo daug turtų Mažojoje Azijoje ir Europoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
 
 <a id="claim-t-169045"></a>
 - t-002
-  global_id: t-169045
   teiginys: "Mažojoje Azijoje buvo likusi tik nedidelė ordino dalis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
 
 <a id="claim-t-183052"></a>
 - t-003
-  global_id: t-183052
   teiginys: "Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu neteko reikšmės Europai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -94,7 +91,6 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
 
 <a id="claim-t-192699"></a>
 - t-004
-  global_id: t-192699
   teiginys: "Narbutas aiškina, kad gentis iš Mažosios Azijos per Juodosios ir Viduržemio jūrų pakrantes pateko į Europą ir davė pradžią pelazgams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -112,10 +108,9 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175469
-    - c-004
+
 <a id="claim-t-197895"></a>
 - t-005
-  global_id: t-197895
   teiginys: "Šios dvi tautos, gal ir skirtingos kilmės, turėjo artimų tarpusavio santykių ir 1 Vidurinėje Azijoje nusidriekę Himalajų kalnai, sudarantys Ki nijos pietų sieną, anot naujesnių duomenų, savo vidutiniu aukščiu viršija Cimborasą, Amerikos Kordiljerų grandinės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -151,8 +146,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192699
+
 ## Citatos
 
 - id: c-153796
@@ -164,17 +158,15 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
     atskirą valstybę. Mažojoj Azijoj tuo būdu buvo likusi tik nedidelė
     ordino dalis. Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
     lančiais pagonimis kumanais.
-  citata_rodoma: |
-    Mažojoj Azijoj tuo būdu buvo likusi tik nedidelė
-    ordino dalis. Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
-    lančiais pagonimis kumanais.
+  citata_rodoma: "Mažojoj Azijoj tuo būdu buvo likusi tik nedidelė\nordino dalis. Į Vengriją ordinas buvo pakviestas kariauti su ją puo-\nlančiais pagonimis kumanais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169045
+    - t-002
+
 - id: c-153797
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -184,17 +176,15 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
     mas ir labai greit pralobo. Jis įsigijo daugybę turtų ne tik Mažojoj
     Azijoj, bet ir Europoj. Krikščionių būklė Mažojoj Azijoj buvo labai
     netikra, todėl kryžiuočių vadovybė stengėsi įsistiprinti Europoj.
-  citata_rodoma: |
-    Jis įsigijo daugybę turtų ne tik Mažojoj
-    Azijoj, bet ir Europoj. Krikščionių būklė Mažojoj Azijoj buvo labai
-    netikra, todėl kryžiuočių vadovybė stengėsi įsistiprinti Europoj.
+  citata_rodoma: "Jis įsigijo daugybę turtų ne tik Mažojoj\nAzijoj, bet ir Europoj. Krikščionių būklė Mažojoj Azijoj buvo labai\nnetikra, todėl kryžiuočių vadovybė stengėsi įsistiprinti Europoj."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169044
+    - t-001
+
 - id: c-166443
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -216,7 +206,8 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183052
+    - t-003
+
 - id: c-175469
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -244,5 +235,5 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192699
-    - t-197895
+    - t-004
+    - t-005

@@ -39,7 +39,6 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
 
 <a id="claim-t-58608"></a>
 - t-001
-  global_id: t-58608
   teiginys: "Prie Pagansčių kaimo prūsai užpuolė krikščionis ir nukovė dvylika brolių bei penkis šimtus vyrų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,25 +55,15 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
 
 <a id="claim-t-58609"></a>
 - t-002
-  global_id: t-58609
   teiginys: "Pagansčiai buvo kaimas prie Zirgūnos upės, vėliau vadintas Menthen."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Zirgūna: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pagansčiai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Zirgūna: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nusako Pagansčių vietą prie Zirgūnos upės."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Pagansčiai priklausė Zirgūna (0.72)"
   temporaliniai_duomenys: "įvykio data: 1271 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko vietos lokalizaciją ir vėlesnį pavadinimą."
   pagrindžia:
-    - c-59241
-    - c-002
+    - c-59240
 - susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66519|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Prūsai prie Pagansčių kaimo netikėtai užpuolė krikščionis iš dviejų pusių, nukovė dvylika brolių ir penkis šimtus vyrų.
 - susijęs iš [[objektai/asmenys/Skomantas (lietuvių vadas).md#claim-t-40424|Skomantas (lietuvių vadas)]]: Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.
 - susijęs iš Zirgūna: Prūsų raiteliai ir pėstininkai įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su kariuomene apsistojo priešais.
@@ -92,8 +81,7 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58609
+
 ## Citatos
 
 - id: c-59240
@@ -111,22 +99,16 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
     vyrų. Pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai jį užpuolė,
     visiškai sugriovė pamedėnų gyvenvietę bei pilį424 ir brolių papilį, vienus paimdami
     į nelaisvę, kitus išžudydami, išskyrus tuos, kurie suskubo pasprukti į brolių pilį.
-  citata_rodoma: |
-    Prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką,
-    kai krikščionys, nelyginant nieko nebijodami, ne tik neišstatė reikalingų sargybų, bet
-    atvirkščiai, net ir arklius nusibalnojo, jie pusę savo kariuomenės slaptai perkėlė per upę
-    ir vėl žiauriai užpuolė krikščionis — vieni iš užpakalio, kiti iš priešakio; anksčiau, nei
-    krikščionys susiruošė gintis, prie Pagansčių kaimo423 žuvo dvylika brolių ir penki šimtai
-    vyrų. Pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai  jį užpuolė,
-    visiškai sugriovė pamedėnų gyvenvietę bei  pilį424  ir brolių  papilį, vienus paimdami
-    į nelaisvę, kitus išžudydami, išskyrus tuos, kurie suskubo pasprukti  į brolių pilį.
+  citata_rodoma: "Prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką,\nkai krikščionys, nelyginant nieko nebijodami, ne tik neišstatė reikalingų sargybų, bet\natvirkščiai, net ir arklius nusibalnojo, jie pusę savo kariuomenės slaptai perkėlė per upę\nir vėl žiauriai užpuolė krikščionis — vieni iš užpakalio, kiti iš priešakio; anksčiau, nei\nkrikščionys susiruošė gintis, prie Pagansčių kaimo423 žuvo dvylika brolių ir penki šimtai\nvyrų. Pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai  jį užpuolė,\nvisiškai sugriovė pamedėnų gyvenvietę bei  pilį424  ir brolių  papilį, vienus paimdami\nį nelaisvę, kitus išžudydami, išskyrus tuos, kurie suskubo pasprukti  į brolių pilį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58608
+    - t-001
+    - t-002
+
 - id: c-59241
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -139,13 +121,9 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
     reikmėms, taip kantriai ir nuolankiai, kad jie ne tik neliūdėjo, bet visada džiūgavo,
     tikėdamiesi galop pelnysią rojaus linksmybes.
     146 (141).
-  citata_rodoma: |
-    423 D.— Poganste, Jer.— Paganstin; Pagansčiai, kaimas prie Zirgūnos upės (vėlesnis
-    Menthen). Čia 1271 m. buvo sumušti kryžiuočiai (Ewald A.
+  citata_rodoma: "423 D.— Poganste, Jer.— Paganstin; Pagansčiai, kaimas prie Zirgūnos upės (vėlesnis\nMenthen). Čia 1271 m. buvo sumušti kryžiuočiai (Ewald A."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-58609

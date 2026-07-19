@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-80648"></a>
 - t-001
-  global_id: t-80648
   teiginys: "2-ojo pėstininkų pulko I batalionas prie Panevėžio rinktinės prisijungė jau išlaisvinus Panevėžį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80648
+    - t-001

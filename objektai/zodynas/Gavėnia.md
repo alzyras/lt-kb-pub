@@ -55,7 +55,6 @@ Terminas vartojamas kalbant apie triukšmo draudimą ir tam laikui būdingus val
 
 <a id="claim-t-195456"></a>
 - t-001
-  global_id: t-195456
   teiginys: "Gavėnios metu šiame šaltinyje draudžiama rėkauti ir ūžti."
   atnaujinta: "2026-07-12 03:27"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -85,12 +84,11 @@ Terminas vartojamas kalbant apie triukšmo draudimą ir tam laikui būdingus val
     po
     tris
     žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima.
-  citata_rodoma: |
-    šventai gavėniai užėjus, rėkauti, ūžti negalima
+  citata_rodoma: "šventai gavėniai užėjus, rėkauti, ūžti negalima"
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195456
+    - t-001

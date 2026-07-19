@@ -54,9 +54,8 @@ Nenurodyta
 
 <a id="claim-t-62533"></a>
 - t-001
-  global_id: t-62533
   teiginys: "1294 m. magistras Meinhardas subūrė daug karių, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė iš pamatų."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Vizna: 0.85"
@@ -72,7 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata palaiko pilies užėmimą ir sugriovimą, o pradinis teiginys turi antraštės ir OCR triukšmo."
   pagrindžia:
     - c-63226
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1294 m. magistras Meinhardas subūrė daug karių, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė iš pamatų.'
@@ -94,8 +93,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62533
+
 ## Citatos
 
 - id: c-63226
@@ -113,22 +111,11 @@ Nenurodyta
     iš mūsų pusės — Aukštaičių ir Žemaičių kraštas, Pskovas ir visi rusų [kraštai], kurie
     yra mūsų valdžioje (PUB, 2, 1, Nr. 418, p. 301; GL, Nr. 8, p. 69; popiežiaus bulės
     tekste — LUB, 2, Nr. 693, p. 151).
-  citata_rodoma: |
-    Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­
-                                       na
-
-       Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis,
-    ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą,
-    ne kartą vaišino savo pilyje Viznoje tikėjimo priešus lietuvius, leisdamas jiems plėšti
-    Prūsijos bei Lenkijos žemes. Jis nesiliovė šito daręs, nors daug kartų buvo išganingai
-    dėl to įspėtas. Todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui,
-    kuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo
-    keliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį
-    ir ją iš pamatų sugriovė.
+  citata_rodoma: "Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­\n                                   na\n\n   Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis,\nieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą,\nne kartą vaišino savo pilyje Viznoje tikėjimo priešus lietuvius, leisdamas jiems plėšti\nPrūsijos bei Lenkijos žemes. Jis nesiliovė šito daręs, nors daug kartų buvo išganingai\ndėl to įspėtas. Todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui,\nkuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo\nkeliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį\nir ją iš pamatų sugriovė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62533
+    - t-001

@@ -39,8 +39,7 @@ PUB = Preussisches Urkundenbuch, t.
 ## Teiginiai
 
 <a id="claim-t-67523"></a>
-- t-001
-  global_id: t-67523
+- t-003
   teiginys: "1222 arba 1223 m. Konrado privilegija vyskupui Kristijonui patvirtina Kulmo ir kitų šios žemės pilių sunaikinimą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ PUB = Preussisches Urkundenbuch, t.
 
 <a id="claim-t-67524"></a>
 - t-002
-  global_id: t-67524
   teiginys: "„Preussisches Urkundenbuch“ nurodomas prie teiginio, kad Kristijonas 1215 m. antroje pusėje arba 1216 m. pradžioje paskelbtas pirmuoju Prūsijos vyskupu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -95,7 +93,8 @@ PUB = Preussisches Urkundenbuch, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67523
+    - t-003
+
 - id: c-67398
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -118,4 +117,4 @@ PUB = Preussisches Urkundenbuch, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67524
+    - t-002

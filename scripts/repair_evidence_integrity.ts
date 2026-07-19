@@ -503,12 +503,23 @@ function repairFile(filePath: string): { changed: boolean; changedLinks: number 
 const files = listMarkdownFiles(path.resolve("objektai"))
 let changedFiles = 0
 let changedLinks = 0
+const changedPaths: string[] = []
 for (const filePath of files) {
   const result = repairFile(filePath)
-  if (result.changed) changedFiles++
+  if (result.changed) {
+    changedFiles++
+    changedPaths.push(path.relative(process.cwd(), filePath))
+  }
   changedLinks += result.changedLinks
 }
 
 console.log(
-  JSON.stringify({ baselineCommit, writeChanges, files: files.length, changedFiles, changedLinks }),
+  JSON.stringify({
+    baselineCommit,
+    writeChanges,
+    files: files.length,
+    changedFiles,
+    changedLinks,
+    changedPaths,
+  }),
 )

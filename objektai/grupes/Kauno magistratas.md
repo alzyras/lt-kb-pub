@@ -8,10 +8,10 @@ datos:
   - '1577 m.'
 date_start: '1515'
 date_end: '1577'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,7 +35,6 @@ Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistra
 
 <a id="claim-t-201856"></a>
 - t-001
-  global_id: t-201856
   teiginys: "Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistratas, kuriam Nabienė suteikė patronavimo ir kunigo pristatymo teisę, prašė Vilniaus vyskupo Alberto Radvilos į Šv."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistra
 
 <a id="claim-t-201857"></a>
 - t-002
-  global_id: t-201857
   teiginys: "1577 m. Kauno magistratas patvirtino batsiuvių cecho nuostatus."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -61,7 +59,6 @@ Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistra
 
 <a id="claim-t-201858"></a>
 - t-003
-  global_id: t-201858
   teiginys: "Statyba rūpinosi klebonai ir Kauno magistratas, tai buvo bendras rūpestis."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -89,7 +86,7 @@ Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201856
+    - t-001
 
 - id: c-185204
   autorius: "Zigmantas Kiaupa"
@@ -104,7 +101,7 @@ Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201857
+    - t-002
 
 - id: c-185205
   autorius: "Zigmantas Kiaupa"
@@ -122,4 +119,4 @@ Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201858
+    - t-003

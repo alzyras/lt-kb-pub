@@ -38,7 +38,6 @@ Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), 
 
 <a id="claim-t-31557"></a>
 - t-001
-  global_id: t-31557
   teiginys: "Adomas Bremenietis sembus arba prūsus vadino „homines humanissimi“ ir teigė, kad jie gelbėja pavojuje atsidūrusius jūroje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,19 +71,11 @@ Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), 
     su švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus»
     (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą
     gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų.
-  citata_rodoma: |
-    O « Europos šiaurės Tacitas »,
-    arkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta
-    Hammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas
-    Skandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė
-    daugiau žinių apie prūsus ir ypač iškėlė jų prekybinius santykius
-    su švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus»
-    (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą
-    gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų.
+  citata_rodoma: "O « Europos šiaurės Tacitas »,\narkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta\nHammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas\nSkandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė\ndaugiau žinių apie prūsus ir ypač iškėlė jų prekybinius santykius\nsu švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus»\n(« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą\ngelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31557
+    - t-001

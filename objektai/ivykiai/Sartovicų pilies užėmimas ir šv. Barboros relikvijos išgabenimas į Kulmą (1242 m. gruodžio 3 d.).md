@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-89398"></a>
 - t-001
-  global_id: t-89398
   teiginys: "1242 m. gruodžio 3 d. Ditrichas iš Bernheimo su keturiais broliais ir dvidešimt keturiais ginklanešiais slapta įsigavo į Sartovicų pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,18 +72,16 @@ Nenurodyta
     - c-85357
 
 <a id="claim-t-89399"></a>
-- t-002
-  global_id: t-89399
+- t-003
   teiginys: "Perpasakodamas Sartovicų pilies užėmimą, Dusburgietis praleido šaltinio duomenis apie Ordino brolių plėšikavimą pilyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85361
-    - c-004
+
 <a id="claim-t-89400"></a>
-- t-003
-  global_id: t-89400
+- t-005
   teiginys: "Sartovicų pilį užėmę broliai pasiėmė šv. Barboros relikviją ir džiūgaudami išėjo iš rūsio."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -101,7 +98,6 @@ Nenurodyta
 
 <a id="claim-t-89401"></a>
 - t-004
-  global_id: t-89401
   teiginys: "Brolis Ditrichas iš Sartovicų pilies išgabeno šv. Barboros relikvijas į Kulmą, kur jos buvo iškilmingai padėtos bažnyčioje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -117,8 +113,7 @@ Nenurodyta
     - c-85359
 
 <a id="claim-t-89402"></a>
-- t-005
-  global_id: t-89402
+- t-002
   teiginys: "Sartovicų pilyje surišta sena moteris broliams aiškino, kad šv. Barboros palankumas padėjo jiems pasiekti pergalę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -146,8 +141,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89399
+
 ## Citatos
 
 - id: c-85357
@@ -177,7 +171,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89398
+    - t-001
+
 - id: c-85358
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -188,19 +183,16 @@ Nenurodyta
     tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros
     palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.
     Į tai broliai atsakė: „Kas tau šitai pasakė?
-  citata_rodoma: |
-    Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,
-    tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros
-    palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.
-       Į tai broliai atsakė: „Kas tau šitai pasakė?
+  citata_rodoma: "Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,\ntarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros\npalankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.\n   Į tai broliai atsakė: „Kas tau šitai pasakė?"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89400
-    - t-89402
+    - t-005
+    - t-002
+
 - id: c-85359
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -218,7 +210,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89401
+    - t-004
+
 - id: c-85361
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -229,14 +222,11 @@ Nenurodyta
     273  Dusburgietis čia praleidžia savo šaltinio duomenis apie Ordino brolių plėšikavimą
     pilyje, matyt, jam tai rodėsi nesuderinama su brolių — tikėjimo gynėjų — idealais (SRP,
     5, p. 161; PKD, p. 42—43).
-  citata_rodoma: |
-    273 Dusburgietis čia praleidžia savo šaltinio duomenis apie Ordino brolių plėšikavimą
-    pilyje, matyt, jam tai rodėsi nesuderinama su brolių — tikėjimo gynėjų — idealais (SRP,
-    5, p. 161; PKD, p. 42—43).
+  citata_rodoma: "273 Dusburgietis čia praleidžia savo šaltinio duomenis apie Ordino brolių plėšikavimą\npilyje, matyt, jam tai rodėsi nesuderinama su brolių — tikėjimo gynėjų — idealais (SRP,\n5, p. 161; PKD, p. 42—43)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89399
+    - t-003

@@ -41,7 +41,6 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 
 <a id="claim-t-47953"></a>
 - t-001
-  global_id: t-47953
   teiginys: "Lengvenis buvo vienas iš penkių Jogailos brolių, minimų liudininkais trijose Jogailos ir Skirgailos vardu sudarytose sutartyse."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 
 <a id="claim-t-47954"></a>
 - t-002
-  global_id: t-47954
   teiginys: "Jogaila paskyrė savo brolį Lengvenį Didžiojo Naugardo kunigaikščiu, ir Lengvenis ten buvo pakviestas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
     - c-50282
 
 <a id="claim-t-47955"></a>
-- t-003
-  global_id: t-47955
+- t-005
   teiginys: "Jogaila paskyrė savo brolį Lengvenį į Didžiojo Naugardo kunigaikščius maitinimuisi, ir Lengvenis ten buvo pakviestas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,9 +87,8 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
   pagrindžia:
     - c-50282
 
-<a id="claim-t-47957"></a>
-- t-004
-  global_id: t-47957
+<a id="claim-t-47956"></a>
+- t-006
   teiginys: "Lengvenis grįžo ir keliolika metų ištikimai tarnavo Vytautui kaip vienas veikliausių jo karo vadų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,8 +104,7 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
     - c-30252
 
 <a id="claim-t-47958"></a>
-- t-005
-  global_id: t-47958
+- t-003
   teiginys: "Lengvenis prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -166,20 +161,15 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
     kelioliką metų ištikimai tarnavo.
     Jogailos nepasisekimai kovoje su Vytautu Lenkijoje kėlė nepa­
     sitenkinimo.
-  citata_rodoma: |
-    Patyręs apie
-    savo dviejų brolių (Karigailos, Viganto — Aleksandro) mirtį, jis
-    grįžo atgal ir, kaip vienas veikliausių Vytauto karo vadų, jam
-    kelioliką metų ištikimai tarnavo.
-    Jogailos nepasisekimai kovoje su Vytautu Lenkijoje kėlė nepa­
-    sitenkinimo.
+  citata_rodoma: "Patyręs apie\nsavo dviejų brolių (Karigailos, Viganto — Aleksandro) mirtį, jis\ngrįžo atgal ir, kaip vienas veikliausių Vytauto karo vadų, jam\nkelioliką metų ištikimai tarnavo.\nJogailos nepasisekimai kovoje su Vytautu Lenkijoje kėlė nepa­\nsitenkinimo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47957
+    - t-006
+
 - id: c-50281
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -202,7 +192,8 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47953
+    - t-001
+
 - id: c-50282
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -220,6 +211,6 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47954
-    - t-47955
-    - t-47958
+    - t-002
+    - t-005
+    - t-003

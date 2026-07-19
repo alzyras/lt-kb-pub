@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87465"></a>
-- t-001
-  global_id: t-87465
+- t-002
   teiginys: "Valerijonas pasirašė 1533 m. spalio 23 d. Vilniuje rašytą dokumentą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ media_all_json: |-
     - c-83444
 
 <a id="claim-t-87466"></a>
-- t-002
-  global_id: t-87466
+- t-001
   teiginys: "1533 m. spalio 23 d. Vilniuje datuotas karalienės Bonos laiškas buvo pasirašytas Valerijono."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -155,29 +153,15 @@ media_all_json: |-
     (Iš Vilniaus kapitulos archyvo rankraščių)
     Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
     aniae, Russiae, totiusq.
-  citata_rodoma: |
-    Rašyta Vilniuje Viešpa­
-    ties gimimo metais 1533 spalio mėnesio 23 dieną, 7 indikte.
-    M.P. Valerijonas
-
-    ## Puslapis 394
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI,
-    RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU
-    1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO
-    J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES
-    1533 METAIS
-    (Iš Vilniaus kapitulos archyvo rankraščių)
-    Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
-    aniae, Russiae, totiusq.
+  citata_rodoma: "Rašyta Vilniuje Viešpa­\nties gimimo metais 1533 spalio mėnesio 23 dieną, 7 indikte.\nM.P. Valerijonas\n\n## Puslapis 394\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI, \nRAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU  \n1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO \nJ TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES \n1533 METAIS\n(Iš Vilniaus kapitulos archyvo rankraščių)\nSigismundus DEI gratia Rex Pol oniae Magnus Dux Litu- \naniae, Russiae, totiusq."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87465
+    - t-002
+
 - id: c-83445
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -201,25 +185,11 @@ media_all_json: |-
     antspaude yra Erelis, Vytis kei dvi dalys
     itališkosios giminės kerko, aplink įrašas lotyniškai:
     BONA Sfor.
-  citata_rodoma: |
-    M. 1514
-    ---- • ---
-    375
-
-    ## Puslapis 392
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    KARALIENĖ BONA,
-    1533 metų spalio mėnesio 23 dieną, 7 indikte,
-    rusų kalka Vilniuje datuotu laišku, su parašu Walerijan
-    (tikriausiai tai turėjo kūti raštininkas) ir prispaustu antspaudu;
-    antspaude yra Erelis, Vytis kei dvi dalys
-    itališkosios giminės kerko, aplink įrašas lotyniškai:
-    BONA Sfor.
+  citata_rodoma: "M. 1514\n---- • ---\n375\n\n## Puslapis 392\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nKARALIENĖ BONA,\n1533 metų spalio mėnesio 23 dieną, 7 indikte, \nrusų kalka Vilniuje datuotu laišku, su parašu Walerijan \n(tikriausiai tai turėjo kūti raštininkas) ir prispaustu antspaudu; \nantspaude yra Erelis, Vytis kei dvi dalys \nitališkosios giminės kerko, aplink įrašas lotyniškai:\nBONA Sfor."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87466
+    - t-001

@@ -36,7 +36,6 @@ Dusburgietis teigia, kad pakarklis P.
 
 <a id="claim-t-61211"></a>
 - t-001
-  global_id: t-61211
   teiginys: "P. Pakarklio „Kryžiuočių valstybės santvarkos bruožai“ išleistas 1948 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,12 +63,11 @@ Dusburgietis teigia, kad pakarklis P.
     Pakarklis P. Kryžiuočių valstybės santvarkos bruožai.— K., 1948.
     Palmaitis L. Prūsų kalbos negimininių įvardžių formų kilmė—Baltistica, 1976, 12 (2),
     p. 156—164.
-  citata_rodoma: |
-    Pakarklis P. Kryžiuočių valstybės santvarkos bruožai.— K., 1948.
+  citata_rodoma: "Pakarklis P. Kryžiuočių valstybės santvarkos bruožai.— K., 1948."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61211
+    - t-001

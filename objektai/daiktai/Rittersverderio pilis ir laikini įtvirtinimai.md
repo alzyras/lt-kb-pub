@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-87033"></a>
 - t-001
-  global_id: t-87033
   teiginys: "Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą už Nemuno ėmė statydinti ir stiprinti Rittersverderio pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-87034"></a>
 - t-002
-  global_id: t-87034
   teiginys: "Laikini įtvirtinimai buvo pastatyti iš statybai skirtų medžiagų, kad gintųsi, kol atvyks raiteliai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,7 +146,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87034
+    - t-002
+
 - id: c-83013
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -168,4 +167,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87033
+    - t-001

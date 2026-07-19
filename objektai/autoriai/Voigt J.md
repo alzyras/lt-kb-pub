@@ -40,7 +40,6 @@ Dusburgietis teigia, kad 1-os pusės dokumentuose vadinama Rommowe, Romaynis; te
 
 <a id="claim-t-64867"></a>
 - t-001
-  global_id: t-64867
   teiginys: "J. Voigtas cituojamas dėl Romuvos paieškų ir Romehnen vietovės Semboje siejimo su šventa kulto vieta."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Dusburgietis teigia, kad 1-os pusės dokumentuose vadinama Rommowe, Romaynis; te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64867
+    - t-001

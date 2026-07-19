@@ -48,8 +48,7 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
 ## Teiginiai
 
 <a id="claim-t-192179"></a>
-- t-001
-  global_id: t-192179
+- t-003
   teiginys: "Narbutas formą „Litalain“ pateikia lietuvių ir alanų mišinio aiškinimo kontekste, greta „litalarrais“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -67,8 +66,7 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
     - c-175052
 
 <a id="claim-t-192180"></a>
-- t-002
-  global_id: t-192180
+- t-001
   teiginys: "Narbutas aiškina, kad prie Peipaus ežero gyvenantys estai lietuvius vadina „Litalain“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -86,8 +84,7 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
     - c-175052
 
 <a id="claim-t-192182"></a>
-- t-003
-  global_id: t-192182
+- t-002
   teiginys: "Narbutas aiškina, kad žodžiu „Litalain“ estai prie Peipaus ežero supranta Lietuvos dalį, sudariusią Ukmergės apskritį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -106,7 +103,6 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
 
 <a id="claim-t-197696"></a>
 - t-004
-  global_id: t-197696
   teiginys: "Tai, regis, galima įrodyti tuo, jog estai, gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku ri dabar sudaro Ukmergės apskritį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -143,22 +139,14 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
     dyną, kuriame nerandame nieko, ką galima būtų vadinti
     panašumu į lietuvių kalbą, išskyrus kelis žodžius, bendrus
     tūkstančiams kitų kalbų, atėjusių iŠ kalbų motinos.
-  citata_rodoma: |
-    Taip pat mes neneigsime šio autoriaus nuomonės, kad buvusi lie-
-    tuvių-alanų tauta, vadinama litalarrais, kuri visiškai ga­
-    lėjo susidaryti iš lietuvių ir alanų mišinio. Sutiksime net
-    ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
-    alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,
-    gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius
-    vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­
-    ri dabar sudaro Ukmergės apskritį*.
+  citata_rodoma: "Taip pat mes neneigsime šio autoriaus nuomonės, kad buvusi lie-\ntuvių-alanų tauta, vadinama litalarrais, kuri visiškai ga­\nlėjo susidaryti iš lietuvių ir alanų mišinio. Sutiksime net\nir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-\nalanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,\ngyvenantys prie Peipaus ežero, dar ir šiandien lietuvius\nvadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­\nri dabar sudaro Ukmergės apskritį*."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192179
-    - t-192180
-    - t-192182
-    - t-197696
+    - t-003
+    - t-001
+    - t-002
+    - t-004

@@ -12,12 +12,12 @@ datos:
   - '1564 m.'
 date_start: '1512'
 date_end: '1564'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,6 @@ Kaune giminaičių namuose užaugęs Fridericus Staphylus (Stapelage, 1512-1564)
 
 <a id="claim-t-202226"></a>
 - t-001
-  global_id: t-202226
   teiginys: "Kaune giminaičių namuose užaugęs Fridericus Staphylus (Stapelage, 1512-1564) čia išmoko lietuviškai."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Kaune giminaičių namuose užaugęs Fridericus Staphylus (Stapelage, 1512-1564)
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202226
+    - t-001

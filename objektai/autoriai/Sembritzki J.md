@@ -39,7 +39,6 @@ Dusburgietis teigia, kad sembritzki J.
 
 <a id="claim-t-62657"></a>
 - t-001
-  global_id: t-62657
   teiginys: "J. Sembritzkis 1926 m. Memelyje išleido knygą apie karališkojo Prūsijos jūrų ir prekybos miesto Memelio istoriją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,15 +68,11 @@ Dusburgietis teigia, kad sembritzki J.
     Memel, 1926.
     Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
     Porębska przy współpracy M Grzegorza; Pod.
-  citata_rodoma: |
-    Sembritzki J. Geschichte der Königlich Preussischen See- und Handelsstadt Memel.—
-    Memel, 1926.
-      Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
-    Porębska przy współpracy M Grzegorza; Pod.
+  citata_rodoma: "Sembritzki J. Geschichte der Königlich Preussischen See- und Handelsstadt Memel.—\nMemel, 1926.\n  Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.\nPorębska przy współpracy M Grzegorza; Pod."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62657
+    - t-001

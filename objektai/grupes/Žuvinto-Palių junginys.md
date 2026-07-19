@@ -37,7 +37,6 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 
 <a id="claim-t-41232"></a>
 - t-001
-  global_id: t-41232
   teiginys: "Sergijus Staniškis-Litas suvienijo Žuvinto paliose, Buktos miške ir prie Daukšių veikusius partizanų būrius į Žuvinto-Palių junginį ir jam vadovavo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 
 <a id="claim-t-41233"></a>
 - t-002
-  global_id: t-41233
   teiginys: "Prieš Žuvinto-Palių mūšį Žuvinto-Palių partizanų persekiojimas tęsėsi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,8 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41232
+    - t-001
+
 - id: c-44890
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -101,15 +100,11 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     Žuvinto-Palių partizanų persekiojimas
     tęsėsi toliau. 1945 m. birželio 25 d. į pa-
     salą patekęs žuvo „Muškietininkų“ būrio
-  citata_rodoma: |
-    Mūšio išvakarės
-
-    Žuvinto-Palių partizanų persekiojimas
-    tęsėsi toliau. 1945 m.
+  citata_rodoma: "Mūšio išvakarės\n\nŽuvinto-Palių partizanų persekiojimas\ntęsėsi toliau. 1945 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41233
+    - t-002

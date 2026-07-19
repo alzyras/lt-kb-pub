@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-59249"></a>
 - t-001
-  global_id: t-59249
   teiginys: "Sausio 22 d. notangai sutelkė jėgas ir Pokarviuose užpuolė ten likusią brolių bei maldininkų kariuomenės dalį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,10 +67,10 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59883
-    - c-004
+    - c-167349
+
 <a id="claim-t-59251"></a>
-- t-002
-  global_id: t-59251
+- t-003
   teiginys: "Po susirėmimo Pokarviuose notangai belaisvį Hirtshalsą burtų keliu paskyrė aukai ir sudegino pririštą ant jo žirgo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -88,22 +87,6 @@ Nenurodyta
     - c-59882
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Susirėmime Pokarviuose žuvo Reiderio valdovas, daug jo karių ir brolių, kai kurie buvo paimti į nelaisvę, o likusieji pabėgo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vis
-    dėlto, kai grįždamas brovėsi per juos, buvo nukautas, o tarp jų prasidėjo atkakli kova,
-    pareikalavusi ir vienoje, ir kitoje pusėje daugybės mirtinai sužeistų arba užmuštų. Kadangi
-    tokia buvo dievo valia, krito galop nukautas pats valdovas [..?] iš Reiderio su didžiąja
-    dalimi karių ir brolių, su juo ten drauge buvusių; kai kurie buvo paimti į nelaisvę, o likusieji
-    pasileido bėgti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-
 - c-004
   santrauka: 'Sausio 22 d. notangai sutelkė jėgas ir Pokarviuose užpuolė ten likusią brolių bei maldininkų kariuomenės dalį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -125,10 +108,26 @@ Nenurodyta
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59249
+
 ## Citatos
 
+- id: c-59881
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Vis
+    dėlto, kai grįždamas brovėsi per juos, buvo nukautas, o tarp jų prasidėjo atkakli kova,
+    pareikalavusi ir vienoje, ir kitoje pusėje daugybės mirtinai sužeistų arba užmuštų. Kadangi
+    tokia buvo dievo valia, krito galop nukautas pats valdovas [..?] iš Reiderio su didžiąja
+    dalimi karių ir brolių, su juo ten drauge buvusių; kai kurie buvo paimti į nelaisvę, o likusieji
+    pasileido bėgti.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-59882
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -148,7 +147,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59251
+    - t-003
+
 - id: c-59883
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -171,7 +171,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59249
+    - t-001
+
 - id: c-167349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -190,21 +191,11 @@ Nenurodyta
     tas pats Herkus, ir daugybė kitų vėliau, priesaika patvirtindami savo žodžius, tikino, jog
     tuo metu, kai tas ant arklio sudegintas miestietis išleido paskutinį atodūsį, jie išvydo jam
     iš burnos išskrendant baltų balčiausią balandį.
-  citata_rodoma: |
-    Su jais įsibrovė
-    į Notangos žemę broliai bei jų ginklanešiai  ir, nuniokoję ją ugnimi bei apiplėšę, daug
-    paėmę į nelaisvę ir daug išžudę, sugrįžo į tą vietą, kur dabar stovi Brandenburgo pilis363,
-    ir ten apsistojo stovyklauti. Broliai ir maldininkai nutarė, kad viena dalis jų kariuomenės
-    sugrįžtų atgal ir pakartotinai nusiaubtų minėtąją žemę, o kita dalis — paliktų toje pačioje
-    vietoje. Kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės
-    siaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį;
-    maldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu
-    Štenkelis iš Bentheimo, kuris kadaise patyrė iš vieno vyskupo pamokslo, kad tikinčiųjų,
-    nukautų Prūsijoje, sielos kylančios tiesiai į dangų, aplenkdamos skaistyklą, todėl dabar,
-    paspaudęs savo žirgą pentinais, atstatęs ietį, kaip paprastai daro kariai, įsibrovė į priešo
-    rikiuotę, žudydamas nedorėlius į dešinę ir kairę, o jie krito žemėn vieni čia, kiti ten.
+  citata_rodoma: "Su jais įsibrovė\nį Notangos žemę broliai bei jų ginklanešiai  ir, nuniokoję ją ugnimi bei apiplėšę, daug\npaėmę į nelaisvę ir daug išžudę, sugrįžo į tą vietą, kur dabar stovi Brandenburgo pilis363,\nir ten apsistojo stovyklauti. Broliai ir maldininkai nutarė, kad viena dalis jų kariuomenės\nsugrįžtų atgal ir pakartotinai nusiaubtų minėtąją žemę, o kita dalis — paliktų toje pačioje\nvietoje. Kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės\nsiaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį;\nmaldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu\nŠtenkelis iš Bentheimo, kuris kadaise patyrė iš vieno vyskupo pamokslo, kad tikinčiųjų,\nnukautų Prūsijoje, sielos kylančios tiesiai į dangų, aplenkdamos skaistyklą, todėl dabar,\npaspaudęs savo žirgą pentinais, atstatęs ietį, kaip paprastai daro kariai, įsibrovė į priešo\nrikiuotę, žudydamas nedorėlius į dešinę ir kairę, o jie krito žemėn vieni čia, kiti ten."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

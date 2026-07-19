@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62904"></a>
-- t-001
-  global_id: t-62904
+- t-002
   teiginys: "Ragainės broliai, gavę žinią iš žvalgo, užpuolė 36 lietuvius viename lauke ir 25 iš jų nukovė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-63768
 
 <a id="claim-t-62905"></a>
-- t-002
-  global_id: t-62905
+- t-001
   teiginys: "1290 m. birželio 25 d. 36 lietuviai iš Aukaimio apylinkių patraukė trikdyti Ragainės brolių plėšikiškais išpuoliais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -104,20 +102,15 @@ Nenurodyta
     dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
     plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
     jų papročiai — burtus, kurie jiems nežadėjo sėkmės. Dėl to tučtuojau pasuko atgal.
-  citata_rodoma: |
-    Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
-
-      Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
-    dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
-    plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
-    jų papročiai — burtus, kurie jiems nežadėjo sėkmės. Dėl to tučtuojau pasuko atgal.
+  citata_rodoma: "Apie tai, kaip Ragainės broliai nukovė 25 lietuvius\n\n  Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo\ndieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti\nplėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja\njų papročiai — burtus, kurie jiems nežadėjo sėkmės. Dėl to tučtuojau pasuko atgal."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62905
+    - t-001
+
 - id: c-63768
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -129,17 +122,11 @@ Nenurodyta
     ir pasisakė matęs minėtuosius plėšikautojus. Todėl brolis Liudvikas iš Libencelės ir brolis
     Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė
     viename lauke ir 25 iš jų nukovė.
-  citata_rodoma: |
-    Dėl to tučtuojau pasuko atgal. Tuo
-    tarpu Ragainės broliai, sunerimę dėl savo žmonių naikinimo ir norėdami apsisaugti nuo
-    būsimų pavojų, pasiuntė žvalgus, turėjusius saugoti kelius; vienas iš jų skubiai sugrįžo
-    ir pasisakė matęs minėtuosius plėšikautojus. Todėl brolis Liudvikas iš Libencelės ir brolis
-    Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė
-    viename lauke ir 25 iš jų nukovė.
+  citata_rodoma: "Dėl to tučtuojau pasuko atgal. Tuo\ntarpu Ragainės broliai, sunerimę dėl savo žmonių naikinimo ir norėdami apsisaugti nuo\nbūsimų pavojų, pasiuntė žvalgus, turėjusius saugoti kelius; vienas iš jų skubiai sugrįžo\nir pasisakė matęs minėtuosius plėšikautojus. Todėl brolis Liudvikas iš Libencelės ir brolis\nMarkvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė\nviename lauke ir 25 iš jų nukovė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62904
+    - t-002

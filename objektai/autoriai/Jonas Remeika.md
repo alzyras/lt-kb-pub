@@ -33,7 +33,6 @@ Artėjant Vytauto mirties metinėms Jonas Remeika (1891-1972) 1928 m. Kaune prie
 
 <a id="claim-t-202214"></a>
 - t-001
-  global_id: t-202214
   teiginys: "Artėjant Vytauto mirties metinėms Jonas Remeika (1891-1972) 1928 m. Kaune prie leidinyje Tauta ir žodis paskelbtos savo studijos Der Handel auf der Memel von Anfang der 14."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Artėjant Vytauto mirties metinėms Jonas Remeika (1891-1972) 1928 m. Kaune prie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202214
+    - t-001

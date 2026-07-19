@@ -32,7 +32,6 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
 
 <a id="claim-t-190453"></a>
 - t-001
-  global_id: t-190453
   teiginys: "Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Livonijos buvusios rusų žemės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
 
 <a id="claim-t-190792"></a>
 - t-002
-  global_id: t-190792
   teiginys: "Teodoras Narbutas, remdamasis Stenderio latvių gramatika, kėlė galimą vieno Odoakro vado vardo kildinimą iš latvių kalbos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
 
 <a id="claim-t-197643"></a>
 - t-003
-  global_id: t-197643
   teiginys: "Odoakras, tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo 1 Šio vado vardas gali, būti kildinamas iš latvių kalbos; jis dia lekto atžvilgiu yra artimiausias herulų žodžiui duhkt, virti, griaudėti, kelti triukšmą (Stender."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -143,24 +140,15 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
     jiems visokeriopos gerovės; pagaliau abejotinais atvejais arba
     jeigu nutikdavo kokia nelaimė, padėti nelaimingajam ir nura­
     minti jį apreiškus dievų valią.
-  citata_rodoma: |
-    Žyniai vilkėdavo įpras­
-    tu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės
-    juosta, kuria apsivyniodavo septynis kartus.
-    Veltui Stenderis savo latvių mitologijoje stengiasi išve­
-    džioti, kad kriviai kilę iš rusų žemės, esančios į rytus nuo Li­
-    vonijos, kadangi latviai tenykščius rusinus vadiną Kreews ar­
-    ba Kriws, nes tai buvo žemė, gyvenama slavų -  krevičių, arba
-    krivičių, o to pavadinimo etimologija slavų kalboje gali būti
-    kitokia. Arba šitaip vadinosi dėl to, kad buvo vieno tikėjimo
-    kaip ir lietuviai.
+  citata_rodoma: "Žyniai vilkėdavo įpras­\ntu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės\njuosta, kuria apsivyniodavo septynis kartus.\nVeltui Stenderis savo latvių mitologijoje stengiasi išve­\ndžioti, kad kriviai kilę iš rusų žemės, esančios į rytus nuo Li­\nvonijos, kadangi latviai tenykščius rusinus vadiną Kreews ar­\nba Kriws, nes tai buvo žemė, gyvenama slavų -  krevičių, arba\nkrivičių, o to pavadinimo etimologija slavų kalboje gali būti\nkitokia. Arba šitaip vadinosi dėl to, kad buvo vieno tikėjimo\nkaip ir lietuviai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190453
+    - t-001
+
 - id: c-173674
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -179,5 +167,5 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190792
-    - t-197643
+    - t-002
+    - t-003

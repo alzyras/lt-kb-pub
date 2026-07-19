@@ -8,12 +8,12 @@ datos:
   - '1532 m.'
 date_start: '1531'
 date_end: '1532'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ Maras Kauną ištiko 1531 m. Kaip sakoma 1532 m. Žygimanto Senojo rašte žemė
 
 <a id="claim-t-202121"></a>
 - t-001
-  global_id: t-202121
   teiginys: "Maras Kauną ištiko 1531 m. Kaip sakoma 1532 m. Žygimanto Senojo rašte žemės iždininkui Ivanui Hornostajui, praeitais metais miestas nukentėjo dėl maro, nemažai žmonių išmirė, todėl miestiečiai prašė atleisti nuo naujų muitų."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Maras Kauną ištiko 1531 m. Kaip sakoma 1532 m. Žygimanto Senojo rašte žemė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202121
+    - t-001

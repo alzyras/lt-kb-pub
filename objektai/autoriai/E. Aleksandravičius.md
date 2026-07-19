@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187793"></a>
-- t-001
-  global_id: t-187793
+- t-002
   teiginys: "E. Aleksandravičius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -103,6 +102,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-170735
@@ -122,14 +122,11 @@ Nenurodyta
     Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
     lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
     tūrinio paveldo arealas.
-  citata_rodoma: |
-    R edaktorių kolegija:
-    E. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,
-    A. TYLA] N. VĖLIUS,! V. VISOCKAS
+  citata_rodoma: "R edaktorių kolegija:\nE. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,\nA. TYLA] N. VĖLIUS,! V. VISOCKAS"
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187793
+    - t-002

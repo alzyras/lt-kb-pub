@@ -37,7 +37,6 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
 
 <a id="claim-t-56717"></a>
 - t-001
-  global_id: t-56717
   teiginys: "A. Becenbergeris šiame šaltinyje pristatomas kaip tyrinėtojas, nustatęs lietuvių ir prūsų kalbinę ribą pagal vietovardžių paplitimą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
     - c-57435
 
 <a id="claim-t-56718"></a>
-- t-002
-  global_id: t-56718
+- t-003
   teiginys: "A. Becenbergerio darbai cituojami aptariant vietovardžius su šaknimi garb-."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,8 +68,7 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
     - c-57434
 
 <a id="claim-t-56719"></a>
-- t-003
-  global_id: t-56719
+- t-002
   teiginys: "A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -109,7 +106,8 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-56718
+    - t-003
+
 - id: c-57435
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -132,5 +130,5 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-56717
-    - t-56719
+    - t-001
+    - t-002

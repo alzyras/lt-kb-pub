@@ -37,8 +37,7 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 ## Teiginiai
 
 <a id="claim-t-18855"></a>
-- t-001
-  global_id: t-18855
+- t-002
   teiginys: "Bob Dylan yra kilęs iš Lietuvos emigrantų: jo senelė gimė Lietuvoje ir 1902 m. su šeima emigravo į JAV."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
     - c-21628
 
 <a id="claim-t-18856"></a>
-- t-002
-  global_id: t-18856
+- t-001
   teiginys: "Bob Dylan grojo Tony Zemaicio sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,15 +88,15 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
     Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
     Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
     ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-  citata_rodoma: |
-    Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
+  citata_rodoma: "Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18856
+    - t-001
+
 - id: c-21628
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -114,12 +112,11 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
     je, 1902 m. su šeima emigravusi į JAV), o šalia jo ir Leonard Cohen (jo
     mama – iš Lietuvos emigrantų) ar Anthony Kiedis iš „Red Hot Chilli Pep-
     pers“… Visų neišvardysi.
-  citata_rodoma: |
-    je, 1902 m. su šeima emigravusi į JAV), o šalia jo ir Leonard Cohen (jo
+  citata_rodoma: "je, 1902 m. su šeima emigravusi į JAV), o šalia jo ir Leonard Cohen (jo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18855
+    - t-002

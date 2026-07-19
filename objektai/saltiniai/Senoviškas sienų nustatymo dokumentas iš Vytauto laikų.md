@@ -31,7 +31,6 @@ Narbutas mini nežinomos datos Vytauto laikų sienų dokumentą, kuriame ribože
 
 <a id="claim-t-190559"></a>
 - t-001
-  global_id: t-190559
   teiginys: "Narbutas mini nežinomos datos Vytauto laikų sienų dokumentą, kuriame riboženkliai siejami su Užsparos prakeikimu ir Kristaus šventenybe."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas mini nežinomos datos Vytauto laikų sienų dokumentą, kuriame ribože
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190559
+    - t-001

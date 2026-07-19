@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-66913"></a>
 - t-001
-  global_id: t-66913
   teiginys: "1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -84,13 +83,11 @@ Nenurodyta
     riuos įtarė dalyvavus sukilime, prisirišę prie patrankų nusivarė
     į Vilnių. Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo
     likviduotas sukilimas.
-  citata_rodoma: |
-    Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo
-    likviduotas sukilimas.
+  citata_rodoma: "Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo\nlikviduotas sukilimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66913
+    - t-001

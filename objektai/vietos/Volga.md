@@ -39,7 +39,6 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 
 <a id="claim-t-185256"></a>
 - t-001
-  global_id: t-185256
   teiginys: "Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim Berdį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -61,9 +60,8 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 
 <a id="claim-t-192780"></a>
 - t-002
-  global_id: t-192780
   teiginys: "Volgą Narbutas mini pasakodamas padavimą, kad persų karalius Saporas žiemojo prie jos vidurupio, o Julijono žygūnai keliavo per alanų kraštą."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -80,10 +78,9 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175550
-    - c-002
+
 <a id="claim-t-192781"></a>
 - t-003
-  global_id: t-192781
   teiginys: "Narbutas pasakoja, kad po kelių pralaimėjimų poloviečiai apie 1127 m. buvo priversti pasitraukti už Volgos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -203,8 +200,7 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192780
+
 ## Citatos
 
 - id: c-168617
@@ -224,7 +220,8 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185256
+    - t-001
+
 - id: c-175550
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -242,24 +239,15 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
     rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
     Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
     novės Kijevą. Nestoras irgi nusirašė visa tai.
-  citata_rodoma: |
-    Šie buvo Padneprės
-    emporiumų graikų kolonistai, susigiminiavę su skitais ir
-    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
-    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
-    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
-    prie Volgos vidurupio, imperatorius Julijonas, taip pat
-    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
-    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
-    po to keliavo toliau per alanų kraštą. Tai pasakoja Amia-
-    nas Marcelinas1.
+  citata_rodoma: "Šie buvo Padneprės\nemporiumų graikų kolonistai, susigiminiavę su skitais ir\ngyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;\nkitapus Dnepro jų kaimynai buvo alanai. Turime istorinių\npadavimų, jog, kai persų karalius Saporas žiemojo kažkur\nprie Volgos vidurupio, imperatorius Julijonas, taip pat\nbuvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,\nkurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o\npo to keliavo toliau per alanų kraštą. Tai pasakoja Amia-\nnas Marcelinas1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192780
+    - t-002
+
 - id: c-175551
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -278,4 +266,4 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192781
+    - t-003

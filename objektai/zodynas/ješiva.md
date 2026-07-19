@@ -47,7 +47,6 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
 
 <a id="claim-t-23436"></a>
 - t-001
-  global_id: t-23436
   teiginys: "Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,9 +62,13 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
   pagrindžia:
     - c-69854
     - c-166822
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+
+## Citatos
+
+- id: c-16694
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Nors
     chasidai šiandien sudaro apie pusę pasaulio žydų, ir ortodoksinio rabiniz-
@@ -74,14 +77,13 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
     Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas
     ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studi-
     jos jidiš kalba.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
+  citata_rodoma: "ješivose (religinėse mokslo įstaigose)"
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
 
-## Citatos
-
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-69854
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -92,15 +94,15 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
     ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studi-
     jos jidiš kalba. Jis sukūrė beveik visų to meto žydų mokslo sričių veikalų:
     nuo Šventojo Rašto komentarų iki hebrajų kalbos gramatikos ir biblinės
-  citata_rodoma: |
-    jos jidiš kalba. Jis sukūrė beveik visų to meto žydų mokslo sričių veikalų:
+  citata_rodoma: "jos jidiš kalba. Jis sukūrė beveik visų to meto žydų mokslo sričių veikalų:"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23436
+    - t-001
+
 - id: c-166822
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -120,3 +122,5 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

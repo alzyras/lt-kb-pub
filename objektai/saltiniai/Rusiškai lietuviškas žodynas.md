@@ -29,8 +29,7 @@ Baronas — RUSIŠKAI LIETUVIŠKAS ŽODYNAS. Autoriaus su­ naudota žodžiams a
 ## Teiginiai
 
 <a id="claim-t-36108"></a>
-- t-001
-  global_id: t-36108
+- t-002
   teiginys: "„Rusiškai lietuviško žodyno“ autorius žodžiams aiškinti naudojo daug lietuviškų raštų, o rusiškiems žodžiams nustatyti rėmėsi Dalio žodynu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,8 +45,7 @@ Baronas — RUSIŠKAI LIETUVIŠKAS ŽODYNAS. Autoriaus su­ naudota žodžiams a
     - c-38434
 
 <a id="claim-t-36109"></a>
-- t-002
-  global_id: t-36109
+- t-001
   teiginys: "J. Barono „Rusiškai lietuviškas žodynas“ turėjo 575 puslapius ir kainavo 10 litų vietoj ankstesnių 15 litų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,28 +69,24 @@ Baronas — RUSIŠKAI LIETUVIŠKAS ŽODYNAS. Autoriaus su­ naudota žodžiams a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36109
+    - t-001
+
 - id: c-38434
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    Autoriaus su­
+    Pats žodžiu vertimas padarytas gana atsargiai. Autoriaus su­
     naudota žodžiams aiškinti daugybė lietuvišku raštų (Širvydo, Kur­
     šaičio, Daukšos, Duonelaičio, Daukanto, Žemaitės, J. Jablonskio, K.
     Būgos raštai ir k. k.). Rusiškiems žodžiams nustatyti naudotasi
     garsaus rusiškos kalbos mokovo Dalio žodynu.
-  citata_rodoma: |
-    Autoriaus su­
-    naudota žodžiams aiškinti daugybė lietuvišku raštų (Širvydo, Kur­
-    šaičio, Daukšos, Duonelaičio, Daukanto, Žemaitės, J. Jablonskio, K.
-    Būgos raštai ir k. k.). Rusiškiems žodžiams nustatyti naudotasi
-    garsaus rusiškos kalbos mokovo Dalio žodynu.
+  citata_rodoma: "Autoriaus su­\nnaudota žodžiams aiškinti daugybė lietuvišku raštų (Širvydo, Kur­\nšaičio, Daukšos, Duonelaičio, Daukanto, Žemaitės, J. Jablonskio, K.\nBūgos raštai ir k. k.). Rusiškiems žodžiams nustatyti naudotasi\ngarsaus rusiškos kalbos mokovo Dalio žodynu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36108
+    - t-002

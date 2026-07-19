@@ -36,8 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-20047"></a>
-- t-001
-  global_id: t-20047
+- t-002
   teiginys: "Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ media_all_json: |-
     - c-22783
 
 <a id="claim-t-20048"></a>
-- t-002
-  global_id: t-20048
+- t-001
   teiginys: "1978 m. lapkričio 13 d. Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas kėlė religinės diskriminacijos problemą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,15 +99,15 @@ media_all_json: |-
     kuriomis valstybėje naudojasi
     ateistai, o kulto laisvė praktikoje
     varžoma.
-  citata_rodoma: |
-    kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio
+  citata_rodoma: "kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20048
+    - t-001
+
 - id: c-22783
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -133,12 +131,11 @@ media_all_json: |-
     kriminavimo faktus, prašė padėti apginti tikinčiųjų teises. Politinių tikslų
     nesiekęs Komitetas veikė penkerius metus, parengė 53 dokumentus ir kai
     kuriuos jų išplatino.
-  citata_rodoma: |
-    kriminavimo faktus, prašė padėti apginti tikinčiųjų teises. Politinių tikslų
+  citata_rodoma: "kriminavimo faktus, prašė padėti apginti tikinčiųjų teises. Politinių tikslų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20047
+    - t-002

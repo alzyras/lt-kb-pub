@@ -37,7 +37,6 @@ Pagaliau 1989 m. gruodį, veikiant visų Baltijos tautų atstovams, slaptųjų p
 
 <a id="claim-t-19999"></a>
 - t-001
-  global_id: t-19999
   teiginys: "1989 m. gruodį SSRS liaudies deputatų II suvažiavimas pasmerkė slaptųjų protokolų padarinius, bet tiesiogiai jų nesusiejo su Baltijos valstybių okupacija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,12 +71,11 @@ Pagaliau 1989 m. gruodį, veikiant visų Baltijos tautų atstovams, slaptųjų p
     veikiant visų Baltijos tautų atstovams, slaptųjų protokolų padarinius pa-
     smerkė SSRS liaudies deputatų II suvažiavimas, nors tiesiogiai tų padari-
     nių su Baltijos valstybių okupacija nesusiejo.
-  citata_rodoma: |
-    veikiant visų Baltijos tautų atstovams, slaptųjų protokolų padarinius pa-
+  citata_rodoma: "veikiant visų Baltijos tautų atstovams, slaptųjų protokolų padarinius pa-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19999
+    - t-001

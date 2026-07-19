@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-93016"></a>
-- t-001
-  global_id: t-93016
+- t-002
   teiginys: "Bažnyčios ir dvasininkai buvo atleisti nuo mokesčių, natūralijų, teismų ir pilių statymo prievolių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Nenurodyta
     - c-88429
 
 <a id="claim-t-93017"></a>
-- t-002
-  global_id: t-93017
+- t-001
   teiginys: "Jogailos laikais bažnyčios ir dvasininkai buvo atleisti nuo mokesčių, natūralijų, teismų ir pilių statymo prievolių."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -90,18 +88,15 @@ Nenurodyta
     si ir dvasininkai. Tėvūnams buvo įsakyta aprūpinti klebonus
     žeme, mokėti jiems tam tikrą metinį mokestį (6 rub.), klausyti
     vyskupo.
-  citata_rodoma: |
-    Tomis pat teisėmis naudojo­
-    si ir dvasininkai. Tėvūnams buvo įsakyta aprūpinti klebonus
-    žeme, mokėti jiems tam tikrą metinį mokestį (6 rub.), klausyti
-    vyskupo.
+  citata_rodoma: "Tomis pat teisėmis naudojo­\nsi ir dvasininkai. Tėvūnams buvo įsakyta aprūpinti klebonus\nžeme, mokėti jiems tam tikrą metinį mokestį (6 rub.), klausyti\nvyskupo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93016
+    - t-002
+
 - id: c-88430
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -121,4 +116,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93017
+    - t-001

@@ -37,7 +37,6 @@ Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėž
 
 <a id="claim-t-42100"></a>
 - t-001
-  global_id: t-42100
   teiginys: "Panevėžio rinktinė turėjo veržtis Kėdainių–Panevėžio–Rokiškio kryptimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,6 +57,7 @@ Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėž
 - susijęs iš [[objektai/asmenys/Bronislovas Komorovskis.md#claim-t-183527|Bronislovas Komorovskis]]: Bronislovo Komorovskio tėvo šaknys siejamos su Lietuva ir dvaru Rokiškio apskrityje.
 - susijęs iš Rokiškio apskritis: Bronislovo Komorovskio tėvo šaknys Lietuvoje siejamos su jo dvaru Rokiškio apskrityje.
 - susijęs iš Rokiškio apskritis: Lenkijos prezidento Bronislovo Komorovskio tėvo šaknys siejamos su dvaru Rokiškio apskrityje.
+- susijęs iš [[objektai/asmenys/Jonas Leonas Oziębłowskis.md#claim-t-202413|Jonas Leonas Oziębłowskis]]: 1694 m. liepos 27 d. Jonas Leonas Oziębłowskis išvyko iš Radiškio į Gdanską, rugpjūčio 7 d. ten atvyko, iki rugpjūčio 16 d. viešėjo, o 25 d. grįžo.
 ## Citatos
 
 - id: c-45307
@@ -78,22 +78,11 @@ Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėž
     ## Puslapis 181
 
     | 1881 m. jstojo į Rusijos kariuomenę.
-  citata_rodoma: |
-    Ukmergės
-    rinktinė turėjo veržtis Ukmergės-Utenos-
-    Zarasų kryptimi, Panevėžio rinktinė -
-    Kėdainių-Panevėžio-Rokiškio kryptimi.
-
-    Atskirojo Joniškėlio partizanų, kitaip
-    vadinamojo mirties bataliono kariai
-
-    ## Puslapis 181
-
-    | 1881 m.
+  citata_rodoma: "Ukmergės\nrinktinė turėjo veržtis Ukmergės-Utenos-\nZarasų kryptimi, Panevėžio rinktinė -\nKėdainių-Panevėžio-Rokiškio kryptimi.\n\nAtskirojo Joniškėlio partizanų, kitaip\nvadinamojo mirties bataliono kariai\n\n## Puslapis 181\n\n| 1881 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42100
+    - t-001

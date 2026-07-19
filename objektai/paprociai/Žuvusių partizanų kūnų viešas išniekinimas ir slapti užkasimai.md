@@ -69,8 +69,7 @@ Sovietinės represinės institucijos partizaninio judėjimo atramai slopinti nau
 ## Teiginiai
 
 <a id="claim-t-20825"></a>
-- t-001
-  global_id: t-20825
+- t-003
   teiginys: "Represinės institucijos viešai išniekindavo žuvusių partizanų kūnus, neleisdavo jų palaidoti ir slapčia užkasdavo pelkėse ar šiukšlynuose."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::customs"
@@ -113,12 +112,11 @@ Nenurodyta
     prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
     miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
     čia užkasdavo pelkėse ar šiukšlynuose.
-  citata_rodoma: |
-    zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių
+  citata_rodoma: "zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20825
+    - t-003

@@ -40,8 +40,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 ## Teiginiai
 
 <a id="claim-t-77326"></a>
-- t-001
-  global_id: t-77326
+- t-009
   teiginys: "Pusė per pirmuosius sovietų okupacijos metus suimtų politiniais nusikaltimais apkaltintų asmenų 1941 m. išvežti į SSRS gilumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-74742
 
 <a id="claim-t-77327"></a>
-- t-002
-  global_id: t-77327
+- t-007
   teiginys: "Lietuvos aukštosios mokyklos buvo pertvarkytos pagal SSRS aukštųjų mokyklų sistemą, o jose dėstytas privalomas marksizmo-leninizmo kursas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -77,9 +75,9 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   pagrindžia:
     - c-24468
     - c-167029
+
 <a id="claim-t-77328"></a>
-- t-003
-  global_id: t-77328
+- t-011
   teiginys: "1939 m. rugsėjo 28 d. slaptojo protokolo pagrindu Lietuvos teritorija pateko į SSRS įtakos sferą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +98,6 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 
 <a id="claim-t-77329"></a>
 - t-004
-  global_id: t-77329
   teiginys: "Lietuvą pavertus SSRS dalimi, jos valdymo sistema buvo pertvarkoma pagal Sovietų Sąjungos modelį."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -120,8 +117,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-24464
 
 <a id="claim-t-77331"></a>
-- t-005
-  global_id: t-77331
+- t-012
   teiginys: "Įsileidusi SSRS karines bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,8 +133,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-74745
 
 <a id="claim-t-77332"></a>
-- t-006
-  global_id: t-77332
+- t-010
   teiginys: "Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lietuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,8 +149,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-74744
 
 <a id="claim-t-77333"></a>
-- t-007
-  global_id: t-77333
+- t-013
   teiginys: "Baltijos valstybėse galimybė atsidurti SSRS valdžioje buvo klaidingai suvokta kaip laikinas grįžimas į Nikolajaus II Rusiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -175,8 +169,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-74747
 
 <a id="claim-t-77334"></a>
-- t-008
-  global_id: t-77334
+- t-003
   teiginys: "Viačeslavas Molotovas Juozui Urbšiui pareiškė, kad nepaisant Lietuvos atsakymo SSRS kariuomenė įžygiuos į Lietuvą."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -193,8 +186,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-24463
 
 <a id="claim-t-77335"></a>
-- t-009
-  global_id: t-77335
+- t-006
   teiginys: "Lietuvos ir kitų sovietinių respublikų pramonė buvo izoliuota nuo kapitalistinių valstybių ir priklausoma nuo kitų SSRS regionų."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -212,8 +204,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-24467
 
 <a id="claim-t-77336"></a>
-- t-010
-  global_id: t-77336
+- t-008
   teiginys: "Pavertus Lietuvą SSRS dalimi, jos valdymo sistema buvo pertvarkyta pagal Sovietų Sąjungos modelį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -233,8 +224,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-74743
 
 <a id="claim-t-77337"></a>
-- t-011
-  global_id: t-77337
+- t-002
   teiginys: "Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -665,17 +655,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     ta į Tautų Sąjungos Tarybą. Sovietams kariaujant su Suomija Baltijos vals-
     tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
     kaip agresorė.
-  citata_rodoma: |
-    Sovietams kariaujant su Suomija Baltijos vals-
-    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
-    kaip agresorė.
+  citata_rodoma: "Sovietams kariaujant su Suomija Baltijos vals-\ntybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos\nkaip agresorė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77337
+    - t-002
+
 - id: c-24463
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -692,16 +680,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto. Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
     atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
-  citata_rodoma: |
-    Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
-    atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
+  citata_rodoma: "Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus\natsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77334
+    - t-003
+
 - id: c-24464
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -717,21 +704,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
     Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
     siskyrė nuo 1936 m.
-  citata_rodoma: |
-    Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-
-    žo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį:
-    rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-
-    čiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-
-    ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
-    Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
-    siskyrė nuo 1936 m.
+  citata_rodoma: "Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-\nžo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį:\nrugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-\nčiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-\nja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė\nLiaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-\nsiskyrė nuo 1936 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77329
+    - t-004
+
 - id: c-24467
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -744,17 +725,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lie-
     tuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių
     ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų.
-  citata_rodoma: |
-    Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lie-
-    tuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių
-    ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų.
+  citata_rodoma: "Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lie-\ntuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių\nryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77335
+    - t-006
+
 - id: c-24468
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -770,17 +749,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Lietuvos aukštosiose mokyklose mokslas politizuotas (dėstytas priva-
     lomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarky-
     tos pagal SSRS aukštųjų mokyklų sistemą.
-  citata_rodoma: |
-    Lietuvos aukštosiose mokyklose mokslas politizuotas (dėstytas priva-
-    lomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarky-
-    tos pagal SSRS aukštųjų mokyklų sistemą.
+  citata_rodoma: "Lietuvos aukštosiose mokyklose mokslas politizuotas (dėstytas priva-\nlomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarky-\ntos pagal SSRS aukštųjų mokyklų sistemą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77327
+    - t-007
+
 - id: c-74742
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -790,17 +767,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais
     nusikaltimais asmenys. Pusė jų 1941 m. balandį–birželį išvežti į SSRS gi-
     lumą, daugiausia Sibirą.
-  citata_rodoma: |
-    Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais
-    nusikaltimais asmenys. Pusė jų 1941 m. balandį–birželį išvežti į SSRS gi-
-    lumą, daugiausia Sibirą.
+  citata_rodoma: "Per vienerius sovietų okupacijos metus suimti 6 606 apkaltinti politiniais \nnusikaltimais asmenys. Pusė jų 1941 m. balandį–birželį išvežti į SSRS gi-\nlumą, daugiausia Sibirą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77326
+    - t-009
+
 - id: c-74743
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -815,22 +790,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
     siskyrė nuo 1936 m. Sovietų Sąjungoje priimtos vadinamosios J. Stalino
     konstitucijos.
-  citata_rodoma: |
-    Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-
-    žo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį:
-    rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-
-    čiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-
-    ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
-    Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
-    siskyrė nuo 1936 m. Sovietų Sąjungoje priimtos vadinamosios J. Stalino
-    konstitucijos.
+  citata_rodoma: "Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-\nžo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: \nrugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukš-\nčiausiąja Taryba, kitą dieną formaliai aukščiausiąja respublikos vykdomą-\nja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė \nLiaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-\nsiskyrė nuo 1936 m. Sovietų Sąjungoje priimtos vadinamosios J. Stalino \nkonstitucijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77336
+    - t-008
+
 - id: c-74744
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -845,20 +813,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Pastatytos didžiulės gamyklos integruotos į Sovietų Sąjungos ūkio siste-
     Kauno hidroelektrinės statyboje mitingas pirmosios turbinos
     paleidimo proga.
-  citata_rodoma: |
-    Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lie-
-    tuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių
-    ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų.
-    Pastatytos didžiulės gamyklos integruotos į Sovietų Sąjungos ūkio siste-
-    Kauno hidroelektrinės statyboje mitingas pirmosios turbinos
-    paleidimo proga.
+  citata_rodoma: "Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lie-\ntuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių \nryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų. \nPastatytos didžiulės gamyklos integruotos į Sovietų Sąjungos ūkio siste-\nKauno hidroelektrinės statyboje mitingas pirmosios turbinos \npaleidimo proga."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77332
+    - t-010
+
 - id: c-74745
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -877,7 +840,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77331
+    - t-012
+
 - id: c-74746
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -892,21 +856,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
     SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
     spaudimą Lietuvai kaip ranka nuėmė.
-  citata_rodoma: |
-    Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
-    kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
-    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
-    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
-    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
-    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
-    spaudimą Lietuvai kaip ranka nuėmė.
+  citata_rodoma: "Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai \nkariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną). \nTačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-\npui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp \nReicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į \nSSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos \nspaudimą Lietuvai kaip ranka nuėmė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77328
+    - t-011
+
 - id: c-74747
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -927,24 +885,15 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
     tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
     ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
-  citata_rodoma: |
-    Galimybė atsidurti „po
-    rusais“, taip pergyventi karo negandas, suprasta kaip laikinas grįžimas į
-    Nikolajaus II Rusiją, visiškai nesuvokiant totalitarinio SSRS bolševikų re-
-    žimo esmės, – jis valdė teroru, jėga izoliavo ir fiziškai naikino oponentus,
-    ideologiškai priešiškas politines ir socialines grupes.
-    Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso
-    pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m.
-    vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
-    tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
-    ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
+  citata_rodoma: "Galimybė atsidurti „po \nrusais“, taip pergyventi karo negandas, suprasta kaip laikinas grįžimas į \nNikolajaus II Rusiją, visiškai nesuvokiant totalitarinio SSRS bolševikų re-\nžimo esmės, – jis valdė teroru, jėga izoliavo ir fiziškai naikino oponentus, \nideologiškai priešiškas politines ir socialines grupes.\nSovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso \npasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m. \nvasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi \ntariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-\nja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77333
+    - t-013
+
 - id: c-167029
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -964,6 +913,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]

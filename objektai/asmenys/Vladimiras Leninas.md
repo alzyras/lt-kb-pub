@@ -39,8 +39,7 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 ## Teiginiai
 
 <a id="claim-t-64245"></a>
-- t-001
-  global_id: t-64245
+- t-002
   teiginys: "Vladimiro Lenino statulos sovietmečiu buvo statomos Lietuvos miestuose ir miesteliuose valstybingumo paminklų vietose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,28 +57,8 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
   pagrindžia:
     - c-65052
 
-<a id="claim-t-64246"></a>
-- t-002
-  global_id: t-64246
-  teiginys: "Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vladimiras Leninas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladimiras Leninas\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1918 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-65051
-
 <a id="claim-t-64247"></a>
 - t-003
-  global_id: t-64247
   teiginys: "Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie Vladimirą Leniną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,15 +89,15 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
     bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač
     Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai,
     o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.
-  citata_rodoma: |
-    bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač
+  citata_rodoma: "bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64247
+    - t-003
+
 - id: c-65051
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,15 +111,13 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
     tuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“. Rem-
     damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
     16 dienos manifestu deklaravo Sovietų Lietuvą.
-  citata_rodoma: |
-    damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
+  citata_rodoma: "damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-64246
 - id: c-65052
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -152,12 +129,11 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
     pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
     kabinėta komunistinių šūkių.
-  citata_rodoma: |
-    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
+  citata_rodoma: "vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64245
+    - t-002

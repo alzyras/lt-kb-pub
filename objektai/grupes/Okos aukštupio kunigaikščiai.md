@@ -31,7 +31,6 @@ Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais,
 
 <a id="claim-t-34361"></a>
 - t-001
-  global_id: t-34361
   teiginys: "Vytautas siekė Okos aukštupio kunigaikščius paimti savo valdžion arba turėti jiems didelę įtaką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais,
 
 <a id="claim-t-184224"></a>
 - t-002
-  global_id: t-184224
   teiginys: "Okos aukštupio kunigaikščiai buvo tarp rytų jėgų, kurioms Vytautas siekė primesti valdžią arba bent turėti didelę įtaką."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,8 @@ Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34361
+    - t-001
+
 - id: c-167609
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -111,4 +110,4 @@ Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184224
+    - t-002

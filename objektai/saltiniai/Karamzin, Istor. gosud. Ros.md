@@ -28,7 +28,6 @@ media_all_json: |-
 
 <a id="claim-t-201435"></a>
 - t-001
-  global_id: t-201435
   teiginys: "Įgiję lietuviai žemaičiai pakajų su gudais rėdės iš visos galios traukti į Padaugavį ant vokyčių meldžionų ir juos tremti iš viso krašto laukan per jūrą, bet, jiems besitaisant, staiga atsirado kiti neprieteliai 1 K a r a m z i n , Istor."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184785
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Įgiję lietuviai žemaičiai pakajų su gudais rėdės
     iš visos galios traukti į Padaugavį ant vokyčių mel-
@@ -56,4 +56,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201435
+    - t-001

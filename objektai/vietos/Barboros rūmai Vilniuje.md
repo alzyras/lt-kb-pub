@@ -53,7 +53,6 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
 
 <a id="claim-t-55242"></a>
 - t-001
-  global_id: t-55242
   teiginys: "Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::places"
@@ -70,7 +69,6 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
 
 <a id="claim-t-55243"></a>
 - t-002
-  global_id: t-55243
   teiginys: "Balińskio aprašymo metu Barboros rūmus priminė tik neužlygintų tvenkinių žymės ir vieta, kur buvo rūmai, sodai bei tvenkiniai."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::places"
@@ -87,7 +85,6 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
 
 <a id="claim-t-55244"></a>
 - t-003
-  global_id: t-55244
   teiginys: "1828 m. Barboros rūmų griuvėsiai buvo parduoti plytoms naujai statomam Kosobudžkio namui."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::places"
@@ -106,8 +103,7 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
     - c-79574
 
 <a id="claim-t-83197"></a>
-- t-004
-  global_id: t-83197
+- t-005
   teiginys: "Barboros rūmų griuvėsiai stovėjo Vilniuje tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::places"
@@ -123,8 +119,7 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
     - c-79574
 
 <a id="claim-t-83199"></a>
-- t-005
-  global_id: t-83199
+- t-006
   teiginys: "Iš Barboros rūmų buvo likusios tik neužlygintų tvenkinių žymės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::places"
@@ -186,8 +181,9 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55243
-    - t-83199
+    - t-002
+    - t-006
+
 - id: c-79573
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -211,7 +207,8 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55242
+    - t-001
+
 - id: c-79574
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -240,5 +237,5 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55244
-    - t-83197
+    - t-003
+    - t-005

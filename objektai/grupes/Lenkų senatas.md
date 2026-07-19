@@ -31,7 +31,6 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
 
 <a id="claim-t-185428"></a>
 - t-001
-  global_id: t-185428
   teiginys: "Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperatoriaus sumanymams jis nusileistų Lietuvos ir Lenkijos priešui."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
 
 <a id="claim-t-185429"></a>
 - t-002
-  global_id: t-185429
   teiginys: "Žygimanto pasiuntiniai turėjo pranešti senatui įvykius ir reikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -72,7 +70,6 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
 
 <a id="claim-t-185430"></a>
 - t-003
-  global_id: t-185430
   teiginys: "Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -92,8 +89,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
     - c-168791
 
 <a id="claim-t-196099"></a>
-- t-004
-  global_id: t-196099
+- t-005
   teiginys: "Kojelavičiaus pasakojime Gnezno arkivyskupas, kaip senato pirmininkas, kalbėjo iškalbingai, bet varžėsi, bijodamas įžeisti Vytautą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -106,8 +102,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
     - c-168789
 
 <a id="claim-t-196100"></a>
-- t-005
-  global_id: t-196100
+- t-006
   teiginys: "Žygimanto pasiuntiniai turėjo senatui papasakoti įvykius Lietuvoje ir pareikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -120,8 +115,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
     - c-178528
 
 <a id="claim-t-196101"></a>
-- t-006
-  global_id: t-196101
+- t-007
   teiginys: "Susitarime numatyta laikytis Lietuvos unijos su Lenkija ir riboti Žygimanto siekį gauti karaliaus titulą ar karališkąsias insignijas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -164,8 +158,9 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185428
-    - t-196099
+    - t-001
+    - t-005
+
 - id: c-168790
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -190,7 +185,8 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185429
+    - t-002
+
 - id: c-168791
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -219,7 +215,8 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185430
+    - t-003
+
 - id: c-168792
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -257,7 +254,8 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196101
+    - t-007
+
 - id: c-178528
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -282,6 +280,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196100
+    - t-006
+
 ## Ryšiai
 - Lenkų senatas siuntė į [[objektai/vietos/Lietuva]]

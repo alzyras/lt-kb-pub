@@ -34,7 +34,6 @@ Paskesniai Bo leslovas, didindamas jo godą kaipo savo tarno, už žodį Dievo s
 
 <a id="claim-t-201160"></a>
 - t-001
-  global_id: t-201160
   teiginys: "Paskesniai Bo leslovas, didindamas jo godą kaipo savo tarno, už žodį Dievo savo gyvybą padėjusį, pardangino su iškilme kūną jo iš klioštoriaus į Gnezno katedrą, kur stebuklus rodė ne vien lenkams, bet dar teuto nams ir italionims, kurią vietą ne vien žmonės."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,9 @@ Paskesniai Bo leslovas, didindamas jo godą kaipo savo tarno, už žodį Dievo s
 ## Citatos
 
 - id: c-184510
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet kūnas mūčelnyko keis­
     tai lengvu pasidarė, kaipogi būk vienas skatikas
@@ -73,4 +73,4 @@ Paskesniai Bo leslovas, didindamas jo godą kaipo savo tarno, už žodį Dievo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201160
+    - t-001

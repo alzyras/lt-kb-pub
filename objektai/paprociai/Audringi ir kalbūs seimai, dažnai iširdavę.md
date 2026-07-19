@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-01911"></a>
 - t-001
-  global_id: t-01911
   teiginys: "Seimai paprastai būdavo audringi ir kalbūs, o po ilgų kalbų dažnai iširdavo; iki minimo momento iš Augusto II šauktų seimų buvo iširę septyni."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,16 +74,11 @@ Nenurodyta
 
     seimas dažniausiai iširdavo (iš Augusto II iki tol šauktų seimų
     buvo iširę net 7), bet dabar niekas nedrįso kalbėti.
-  citata_rodoma: |
-    Nors šiaipjau visi seimai būdavo labai
-    audringi, atstovai juose mėgdavo daug kalbėti, ir po ilgų kalbų
-
-    seimas dažniausiai iširdavo (iš Augusto II iki tol šauktų seimų
-    buvo iširę net 7), bet dabar niekas nedrįso kalbėti.
+  citata_rodoma: "Nors šiaipjau visi seimai būdavo labai\naudringi, atstovai juose mėgdavo daug kalbėti, ir po ilgų kalbų\n\nseimas dažniausiai iširdavo (iš Augusto II iki tol šauktų seimų\nbuvo iširę net 7), bet dabar niekas nedrįso kalbėti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01911
+    - t-001

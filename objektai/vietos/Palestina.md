@@ -39,7 +39,6 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
 
 <a id="claim-t-183067"></a>
 - t-001
-  global_id: t-183067
   teiginys: "Europoje skelbiami kryžiaus karai prieš turkus Palestinoje skatino savanorius karius vykti į kovas su pagonimis."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -102,6 +101,7 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183067
+    - t-001
+
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/grupes/Totoriai]]

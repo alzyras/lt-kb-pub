@@ -40,8 +40,7 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 ## Teiginiai
 
 <a id="claim-t-182712"></a>
-- t-001
-  global_id: t-182712
+- t-023
   teiginys: "Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     - c-166129
 
 <a id="claim-t-182713"></a>
-- t-002
-  global_id: t-182713
+- t-022
   teiginys: "1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 
 <a id="claim-t-182926"></a>
 - t-003
-  global_id: t-182926
   teiginys: "Targovicos konfederaciją suorganizavo Rusija, remdama reformų priešus savo kariuomene."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -120,20 +117,15 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus
     konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
     savo centru paskelbė Gardiną.
-  citata_rodoma: |
-    Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
-    Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
-    Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
-    ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus
-    konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
-    savo centru paskelbė Gardiną.
+  citata_rodoma: "Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y. \nLietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas \nSimonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis \nir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus \nkonfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir \nsavo centru paskelbė Gardiną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182713
+    - t-022
+
 - id: c-166129
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -151,18 +143,15 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     jos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-
     deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
     Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
-  citata_rodoma: |
-    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
-    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
-    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
-    lio 28 dieną.
+  citata_rodoma: "Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos \nkonfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos \nvyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-\nlio 28 dieną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182712
+    - t-023
+
 - id: c-166328
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -181,4 +170,4 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182926
+    - t-003

@@ -77,8 +77,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 ## Teiginiai
 
 <a id="claim-t-113352"></a>
-- t-001
-  global_id: t-113352
+- t-029
   teiginys: "Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją kultūrą lietuvių ir žemaičių kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,8 +93,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-104616
 
 <a id="claim-t-113353"></a>
-- t-002
-  global_id: t-113353
+- t-018
   teiginys: "Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,8 +112,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-26834
 
 <a id="claim-t-113354"></a>
-- t-003
-  global_id: t-113354
+- t-012
   teiginys: "Iki 1832 m. uždarymo Vilniaus universitetas buvo pagrindinė Lietuvos mokykla ir svarbiausias kultūros centras."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -134,8 +131,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-26834
 
 <a id="claim-t-113355"></a>
-- t-004
-  global_id: t-113355
+- t-030
   teiginys: "Po 1830-1831 m. sukilimo Vilniaus universitetas buvo uždarytas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,8 +150,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-104627
 
 <a id="claim-t-113356"></a>
-- t-005
-  global_id: t-113356
+- t-015
   teiginys: "Vilniaus universitetas tapo istorinės Lietuvos žemių visuomeninio ir kultūrinio gyvenimo centru."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -171,8 +166,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-26837
 
 <a id="claim-t-113357"></a>
-- t-006
-  global_id: t-113357
+- t-013
   teiginys: "Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -191,8 +185,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-26835
 
 <a id="claim-t-113358"></a>
-- t-007
-  global_id: t-113358
+- t-031
   teiginys: "Vilniaus universitetas tapo Vilniaus švietimo apygardos centru, kai į ją pateko buvusios LLV žemės ir 9 mln. gyventojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -211,8 +204,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-26836
 
 <a id="claim-t-113359"></a>
-- t-008
-  global_id: t-113359
+- t-024
   teiginys: "Michałas Balińskis 1812 m. rugsėjo 22 d. įstojo į Vilniaus universiteto Fizikos ir matematinių mokslų fakultetą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -230,8 +222,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-104618
 
 <a id="claim-t-113360"></a>
-- t-009
-  global_id: t-113360
+- t-023
   teiginys: "Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai siekė plėtoti aukštąją kultūrą lietuvių kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -247,8 +238,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-104616
 
 <a id="claim-t-113361"></a>
-- t-010
-  global_id: t-113361
+- t-025
   teiginys: "Po 1830-1831 m. sukilimo uždarius Vilniaus universitetą, nemažai išsilavinusių žmonių išvyko į Lenkijos ar Rusijos miestus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -267,8 +257,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-104627
 
 <a id="claim-t-113363"></a>
-- t-011
-  global_id: t-113363
+- t-016
   teiginys: "1832 m. buvo nutarta uždaryti Vilniaus universitetą."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -286,8 +275,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-26838
 
 <a id="claim-t-113365"></a>
-- t-012
-  global_id: t-113365
+- t-032
   teiginys: "1579 m. balandžio 1 d. karalius Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -306,8 +294,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-104626
 
 <a id="claim-t-113366"></a>
-- t-013
-  global_id: t-113366
+- t-019
   teiginys: "Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -327,7 +314,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 
 <a id="claim-t-113367"></a>
 - t-014
-  global_id: t-113367
   teiginys: "1803 m. Vilniaus universitetas reorganizuotas pagal populiarų Europos universitetų modelį ir gavo Imperatoriškojo universiteto statusą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -346,8 +332,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-26836
 
 <a id="claim-t-113368"></a>
-- t-015
-  global_id: t-113368
+- t-021
   teiginys: "Vilniaus universitetas buvo Vilniaus švietimo apygardos, apėmusios prie Rusijos prijungtas buvusios LLV žemes, centras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -365,8 +350,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-26836
 
 <a id="claim-t-113369"></a>
-- t-016
-  global_id: t-113369
+- t-033
   teiginys: "1855 m. Aleksandrui II pradėjus liberalias reformas, krašto šviesuomenė vylėsi atkurti Vilniaus universitetą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -385,8 +369,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-104624
 
 <a id="claim-t-113370"></a>
-- t-017
-  global_id: t-113370
+- t-020
   teiginys: "Vilniaus universitetas pasiekė europinį mokslo ir studijų lygį ir buvo didžiausias Rusijos imperijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -405,8 +388,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-104625
 
 <a id="claim-t-113371"></a>
-- t-018
-  global_id: t-113371
+- t-022
   teiginys: "1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo iniciatorių, „Lietuvos laisvamanybės lizdą“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -425,8 +407,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-104628
 
 <a id="claim-t-188357"></a>
-- t-019
-  global_id: t-188357
+- t-001
   teiginys: "Leidinyje „Wizerunki i Roztrząsania Naukowe“ rašė aštuoniolika buvusių Vilniaus universiteto profesorių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -445,8 +426,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-171250
 
 <a id="claim-t-193566"></a>
-- t-020
-  global_id: t-193566
+- t-034
   teiginys: "Visos istorinės Lietuvos žemės visuomeninio ir kultūrinio gyvenimo centru tapo Vilniaus universitetas, tapęs iškiliausiu lenkų kultūros centru už etnografinės Lenkijos ribų."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -459,8 +439,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-176245
 
 <a id="claim-t-194177"></a>
-- t-021
-  global_id: t-194177
+- t-035
   teiginys: "G) Apie kai kuriuos Akademijai ir Valerijono bursai funduotus turtus • 1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fundavo ir įsteigė įvairių mokslų viešąsias mokyklas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -493,19 +472,16 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     dinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko
     epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
     universitetą.
-  citata_rodoma: |
-    Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-
-    dinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko
-    epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
-    universitetą.
+  citata_rodoma: "Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-\ndinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko \nepochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus \nuniversitetą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113353
-    - t-113354
+    - t-018
+    - t-012
+
 - id: c-26835
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -528,7 +504,8 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113357
+    - t-013
+
 - id: c-26836
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -541,21 +518,17 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     mės ir 9 mln. jų gyventojų. Šios apygardos centras – Vilniaus universitetas,
     1803 m. reorganizuotas pagal populiariausią Europos universitetų mode-
     lį ir gavęs Imperatoriškojo universiteto statusą.
-  citata_rodoma: |
-    Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda,
-    kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV že-
-    mės ir 9 mln. jų gyventojų. Šios apygardos centras – Vilniaus universitetas,
-    1803 m. reorganizuotas pagal populiariausią Europos universitetų mode-
-    lį ir gavęs Imperatoriškojo universiteto statusą.
+  citata_rodoma: "Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda, \nkurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV že-\nmės ir 9 mln. jų gyventojų. Šios apygardos centras – Vilniaus universitetas, \n1803 m. reorganizuotas pagal populiariausią Europos universitetų mode-\nlį ir gavęs Imperatoriškojo universiteto statusą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113358
-    - t-113367
-    - t-113368
+    - t-031
+    - t-014
+    - t-021
+
 - id: c-26837
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -583,7 +556,8 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113356
+    - t-015
+
 - id: c-26838
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -600,7 +574,8 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113363
+    - t-016
+
 - id: c-104616
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -624,30 +599,16 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     etnosu, bet jie patys save laikė
     vieno dvilypio lietuvių-žemaičių
     etnoso dalimi).
-  citata_rodoma: |
-    Jau tuomet pripažinta, kad
-    tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.
-    Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-
-    tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar
-    vienas kitas), kurie susitarė kryp-
-    tingai plėtoti aukštosios kultūros
-    kūrimo lietuvių (žemaičių) kalba
-    darbą, o sykiu rūpintis lietuvių
-    ir žemaičių liaudies švietimu jų
-    gimtąja kalba (nors žemaičius
-    kai kas tuomet laikė atskiru,
-    etniniams lietuviams giminingu
-    etnosu, bet jie patys save laikė
-    vieno dvilypio lietuvių-žemaičių
-    etnoso dalimi).
+  citata_rodoma: "Jau tuomet pripažinta, kad \ntai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.\nVilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-\ntijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar \nvienas kitas), kurie susitarė kryp-\ntingai plėtoti aukštosios kultūros \nkūrimo lietuvių (žemaičių) kalba \ndarbą, o sykiu rūpintis lietuvių \nir žemaičių liaudies švietimu jų \ngimtąja kalba (nors žemaičius \nkai kas tuomet laikė atskiru, \netniniams lietuviams giminingu \netnosu, bet jie patys save laikė \nvieno dvilypio lietuvių-žemaičių \netnoso dalimi)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113352
-    - t-113360
+    - t-029
+    - t-023
+
 - id: c-104618
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -667,7 +628,8 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113359
+    - t-024
+
 - id: c-104622
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -684,19 +646,15 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     universitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem
     šimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje –
     praėjus 400 metų po krikšto.
-  citata_rodoma: |
-    Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
-    ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
-    universitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem
-    šimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje –
-    praėjus 400 metų po krikšto.
+  citata_rodoma: "Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-\nropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus \nuniversitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem \nšimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje – \npraėjus 400 metų po krikšto."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113366
+    - t-019
+
 - id: c-104624
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -712,7 +670,8 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113369
+    - t-033
+
 - id: c-104625
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -728,17 +687,15 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     neva ištaisant per 500 metų ligtolinės istorijos vyksmo padarytas klaidas
     ir skriaudas, netgi jokio prieš valdžią nukreipto politinio turinio netu-
     rinti knyga, laikraštis ar maldaknygė tapo kontrabandos preke.
-  citata_rodoma: |
-    Pirmąjį šio laikotarpio trečdalį veikė didžiausias Rusijos imperijoje
-    europinį mokslo ir studijų lygį pasiekęs Vilniaus universitetas. Tačiau
-    nuo 1864 m.
+  citata_rodoma: "Pirmąjį šio laikotarpio trečdalį veikė didžiausias Rusijos imperijoje \neuropinį mokslo ir studijų lygį pasiekęs Vilniaus universitetas. Tačiau \nnuo 1864 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113370
+    - t-020
+
 - id: c-104626
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -761,7 +718,8 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113365
+    - t-032
+
 - id: c-104627
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -779,24 +737,16 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     suomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į
     Lenkijos ar Rusijos miestus. Neturėdamas pakankamai pragy­
     venimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą.
-  citata_rodoma: |
-    VIII
-
-    ## Puslapis 9
-
-    Po 1830-1831 m. sukilimo, uždarius Vilniaus universitetą ir
-    Rusijos administracijai pradėjus griežčiau kontroliuoti krašto vi­
-    suomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į
-    Lenkijos ar Rusijos miestus. Neturėdamas pakankamai pragy­
-    venimo lėšų, M.
+  citata_rodoma: "VIII\n\n## Puslapis 9\n\nPo 1830-1831 m. sukilimo, uždarius Vilniaus universitetą ir\nRusijos administracijai pradėjus griežčiau kontroliuoti krašto vi­\nsuomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į\nLenkijos ar Rusijos miestus. Neturėdamas pakankamai pragy­\nvenimo lėšų, M."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113355
-    - t-113361
+    - t-030
+    - t-025
+
 - id: c-104628
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -810,19 +760,15 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     siteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų
     ministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-
     gijos akademija ir Vilniaus Romos katalikų dvasinė akademija.
-  citata_rodoma: |
-    1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo ini-
-    ciatorių, „Lietuvos laisvamanybės lizdą“. Tiesa, tuomet dviejų šio univer-
-    siteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų
-    ministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-
-    gijos akademija ir Vilniaus Romos katalikų dvasinė akademija.
+  citata_rodoma: "1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo ini-\nciatorių, „Lietuvos laisvamanybės lizdą“. Tiesa, tuomet dviejų šio univer-\nsiteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų \nministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-\ngijos akademija ir Vilniaus Romos katalikų dvasinė akademija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113371
+    - t-022
+
 - id: c-171250
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -842,7 +788,8 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188357
+    - t-001
+
 - id: c-176245
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -860,7 +807,8 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193566
+    - t-034
+
 - id: c-176788
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -886,4 +834,4 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194177
+    - t-035

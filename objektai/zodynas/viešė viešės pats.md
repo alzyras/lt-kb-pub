@@ -31,7 +31,6 @@ Dusburgietis teigia, kad kunigaikštis valdė keletą ar daugiau kaimų, ten tur
 
 <a id="claim-t-58929"></a>
 - t-001
-  global_id: t-58929
   teiginys: "Kunigaikštis buvo viešės, žemdirbių gyvenvietės, valdovas, vadintas viešės patu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Dusburgietis teigia, kad kunigaikštis valdė keletą ar daugiau kaimų, ten tur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58929
+    - t-001

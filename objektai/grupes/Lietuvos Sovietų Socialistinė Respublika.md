@@ -36,8 +36,7 @@ LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausyb
 ## Teiginiai
 
 <a id="claim-t-74781"></a>
-- t-001
-  global_id: t-74781
+- t-002
   teiginys: "Sudarius marionetinę vyriausybę paskelbta, kad sukuriama Lietuvos Tarybų Socialistinė Respublika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausyb
     - c-72796
 
 <a id="claim-t-74783"></a>
-- t-002
-  global_id: t-74783
+- t-003
   teiginys: "1940 m. birželio 15 d. Sovietų Sąjunga, realizuodama Molotovo–Ribentropo paktą, okupavo ir aneksavo Lietuvos Respubliką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,8 @@ LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausyb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74783
+    - t-003
+
 - id: c-72796
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -105,12 +104,11 @@ LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausyb
     ja ir aneksuoja Lietuvos Respubliką. Sudarius marionetinę vyriausybę
     netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Res-
     publika.
-  citata_rodoma: |
-    netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Res-
+  citata_rodoma: "netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Res-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74781
+    - t-002

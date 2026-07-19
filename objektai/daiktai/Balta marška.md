@@ -51,9 +51,8 @@ Nenurodyta
 
 <a id="claim-t-59678"></a>
 - t-001
-  global_id: t-59678
   teiginys: "Atsivertęs pabūklų meistras į Prūsiją atsivežė baltą maršką, kuria jį buvo užkloję kaip numirėlį."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -65,7 +64,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60310
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Atsivertęs pabūklų meistras į Prūsiją atsivežė baltą maršką, kuria jį buvo užkloję kaip numirėlį.'
@@ -87,8 +86,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59678
+
 ## Citatos
 
 - id: c-60310
@@ -109,25 +107,11 @@ Nenurodyta
     nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę, Kazimieras bei Lokietka, Lenkijos
     kunigaikščiai, nerimaudami dėl savo žmonių likimo, paprašė brolį Meinhardą, Prūsijos
     magistrą, pagalbos.
-  citata_rodoma: |
-    Kai jis kartą, jau
-    padaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo
-    vieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini
-    keturiomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų, sakydami, kad jis
-    neabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo
-    būdo; kad šitai būtų akivaizdu, jie  jį užklojo balta marška, kaip paprastai užklojami
-    numirėliai. Jis labai to nusigando ir atvyko į Prūsijos žemę, atsiveždamas su savimi ir tą
-    baltąją maršką, ir, davęs įžadus Teutonų ordinui, pradėjo tyrą gyvenimą, kurį laimingai
-    ir užbaigė.
-
-
-
-
-                246 (239).
+  citata_rodoma: "Kai jis kartą, jau\npadaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo\nvieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini\nketuriomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų, sakydami, kad jis\nneabejotinai susilauksiąs mirties, jeigu per tam tikrą laiką nepataisysiąs savo gyvenimo\nbūdo; kad šitai būtų akivaizdu, jie  jį užklojo balta marška, kaip paprastai užklojami\nnumirėliai. Jis labai to nusigando ir atvyko į Prūsijos žemę, atsiveždamas su savimi ir tą\nbaltąją maršką, ir, davęs įžadus Teutonų ordinui, pradėjo tyrą gyvenimą, kurį laimingai\nir užbaigė.\n\n\n\n\n            246 (239)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59678
+    - t-001

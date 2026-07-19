@@ -31,7 +31,6 @@ Vėliau Lietuvos metropolitu pradė­ jo skaitytis Gniezno arkivyskupas, bet iš
 
 <a id="claim-t-35043"></a>
 - t-001
-  global_id: t-35043
   teiginys: "Šaltinio vertinimu, XVII a. pabaigoje Vilniaus vyskupas Bžostovskis juridiškai buvo teisus atsisakydamas klausyti Gniezno arkivyskupo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,18 +81,11 @@ Vėliau Lietuvos metropolitu pradė­ jo skaitytis Gniezno arkivyskupas, bet iš
     niaus vyskupas Bžostovskis, atsisakydamas klausyti Gniezno
     arkivyskupo (tais laikais rzeczpospolitos primo) juridiškai buvo
     visiškai teisus.
-  citata_rodoma: |
-    Vėliau Lietuvos metropolitu pradė­
-    jo skaitytis Gniezno arkivyskupas, bet iš tikro nei Vytauto
-    laikais, nei kada nors vėliau Lietuvos bažnyčia tai metropolijai
-    formališkai priskirta nebuvo^2 ). Dėl to tai XVII amž. gale Vil­
-    niaus vyskupas Bžostovskis, atsisakydamas klausyti Gniezno
-    arkivyskupo (tais laikais rzeczpospolitos primo) juridiškai buvo
-    visiškai teisus.
+  citata_rodoma: "Vėliau Lietuvos metropolitu pradė­\njo skaitytis Gniezno arkivyskupas, bet iš tikro nei Vytauto\nlaikais, nei kada nors vėliau Lietuvos bažnyčia tai metropolijai\nformališkai priskirta nebuvo^2 ). Dėl to tai XVII amž. gale Vil­\nniaus vyskupas Bžostovskis, atsisakydamas klausyti Gniezno\narkivyskupo (tais laikais rzeczpospolitos primo) juridiškai buvo\nvisiškai teisus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35043
+    - t-001

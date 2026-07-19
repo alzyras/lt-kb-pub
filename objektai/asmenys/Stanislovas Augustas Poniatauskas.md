@@ -31,8 +31,7 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
 ## Teiginiai
 
 <a id="claim-t-64086"></a>
-- t-001
-  global_id: t-64086
+- t-002
   teiginys: "Augusto III valdymo pabaigoje Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,7 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
     - c-64938
 
 <a id="claim-t-64088"></a>
-- t-002
-  global_id: t-64088
+- t-001
   teiginys: "Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +51,6 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
 
 <a id="claim-t-64092"></a>
 - t-003
-  global_id: t-64092
   teiginys: "Rusų kariuomenei parėmus, Stanislovas Augustas buvo išrinktas karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,19 +73,15 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
     niatauską. Gavęs Saksonijos atstovo titulą, šis greit su-
     siartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo
     net į labai intimius santykius.
-  citata_rodoma: |
-    Tuo metu Čartoriskiai pasiun-
-      tė į Petrapilį savo sesers sūnų Stanislovą Augustą Po-
-      niatauską. Gavęs Saksonijos atstovo titulą, šis greit su-
-      siartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo
-      net į labai intimius santykius.
+  citata_rodoma: "Tuo metu Čartoriskiai pasiun-\n  tė į Petrapilį savo sesers sūnų Stanislovą Augustą Po-\n  niatauską. Gavęs Saksonijos atstovo titulą, šis greit su-\n  siartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo\n  net į labai intimius santykius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64086
+    - t-002
+
 - id: c-64940
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -98,15 +91,15 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
           - 4. Čartoriskių reformos
           - 5- Radomo konfed. ir Čartoriskių ref. apkarpymas (1768 m.)
           - 6.
-  citata_rodoma: |
-    - 3. Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos
+  citata_rodoma: "- 3. Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64088
+    - t-001
+
 - id: c-64942
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -119,13 +112,11 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
     bendradarbiauti, kišdamosi į Respublikos vidaus reikalus.
     Rusų kariuomenei parėmus, karalium buvo išrinktas Sta-
     nislovas Augustas.
-  citata_rodoma: |
-    Rusų kariuomenei parėmus, karalium buvo išrinktas Sta-
-      nislovas Augustas.
+  citata_rodoma: "Rusų kariuomenei parėmus, karalium buvo išrinktas Sta-\n  nislovas Augustas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64092
+    - t-003

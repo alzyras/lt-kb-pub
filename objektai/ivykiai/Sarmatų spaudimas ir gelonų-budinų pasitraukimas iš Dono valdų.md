@@ -45,8 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192039"></a>
-- t-001
-  global_id: t-192039
+- t-003
   teiginys: "Narbutas sarmatų ir alanų plitimą, lėmusį gelonų bei budinų pasitraukimą nuo Dono, vadina sarmatų-alanų revoliucijomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -65,9 +64,8 @@ Nenurodyta
 
 <a id="claim-t-192040"></a>
 - t-002
-  global_id: t-192040
   teiginys: "Narbuto aiškinimu, svarbiausia gelonų ir budinų pasitraukimo priežastis buvo sarmatų ir kitų Pavolgio tautų plitimas į dešiniosios Dono pakrantės Skitiją."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "surenge_zygi_i -> Skitija: 0.72"
@@ -83,10 +81,9 @@ Nenurodyta
     - c-174911
 
 <a id="claim-t-192041"></a>
-- t-003
-  global_id: t-192041
+- t-001
   teiginys: "Narbutas gelonų ir budinų pasitraukimą iš prie Dono buvusių valdų datuoja maždaug apie 80 m. pr. Kr."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Budinai: 0.85"
@@ -102,9 +99,8 @@ Nenurodyta
 
 <a id="claim-t-192487"></a>
 - t-004
-  global_id: t-192487
   teiginys: "Narbutas svarbiausia gelonų ir budinų pasitraukimo nuo Dono priežastimi laiko sarmatų bei kitų Pavolgio tautų plitimą į Skitiją apie 80 m. pr. Kr."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -124,7 +120,6 @@ Nenurodyta
 
 <a id="claim-t-197553"></a>
 - t-005
-  global_id: t-197553
   teiginys: "Būtent šios sarmatųalanų .revoliucijos lėmė didelius šios epochos pokyčius Europos rytuose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -154,23 +149,15 @@ Nenurodyta
     tai. Raginami sarmatų puolimų, kėlusių visiško išnaikini­
     mo pavojų, kuriam pasipriešinti nepajėgė, jie paliko der­
     lingus Ukrainos kraštus ir iškeliavo vakarų link.
-  citata_rodoma: |
-    Maždaug apie 80 metus prieš Kristaus ¡gimimą ¡sarma­
-    tai kartu su kitomis Pavolgio tautomis taip pradėjo plūsti
-    j dešiniosios Dono pakrantės Skitiją, jog tuos kraštus
-    pradėta vadinti europine Sarmatija; tai ir turėjo būti svar­
-    biausia priežastis, kuri privertė gelonus ir ¡budinus palikti
-    savo prie Dono buvusias valdas1. Būtent šios sarmatų-
-    alanų .revoliucijos lėmė didelius šios epochos pokyčius
-    Europos rytuose.
+  citata_rodoma: "Maždaug apie 80 metus prieš Kristaus ¡gimimą ¡sarma­\ntai kartu su kitomis Pavolgio tautomis taip pradėjo plūsti\nj dešiniosios Dono pakrantės Skitiją, jog tuos kraštus\npradėta vadinti europine Sarmatija; tai ir turėjo būti svar­\nbiausia priežastis, kuri privertė gelonus ir ¡budinus palikti\nsavo prie Dono buvusias valdas1. Būtent šios sarmatų-\nalanų .revoliucijos lėmė didelius šios epochos pokyčius\nEuropos rytuose."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192039
-    - t-192040
-    - t-192041
-    - t-192487
-    - t-197553
+    - t-003
+    - t-002
+    - t-001
+    - t-004
+    - t-005

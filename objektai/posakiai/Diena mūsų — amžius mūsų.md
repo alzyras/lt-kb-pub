@@ -28,7 +28,6 @@ Rodės, jog toj rūstoj dienoj nebliks nė veis lės lietuvių ir žemaičių, k
 
 <a id="claim-t-201258"></a>
 - t-001
-  global_id: t-201258
   teiginys: "Rodės, jog toj rūstoj dienoj nebliks nė veis lės lietuvių ir žemaičių, kaipogi kur pirma linksmi ūkėsai gyveno, ten paskui kaimose pro langus tuš čių namų žlūgiai ir rūgčiai kyšojo, o irose žinyčių, pilių, alkų, miestų, kurias kruvinos karės išvertė, rūsti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Rodės, jog toj rūstoj dienoj nebliks nė veis lės lietuvių ir žemaičių, k
 ## Citatos
 
 - id: c-184608
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Rodės, jog toj rūstoj dienoj nebliks nė veis­
     lės lietuvių ir žemaičių, kaipogi kur pirma linksmi
@@ -69,4 +69,4 @@ Rodės, jog toj rūstoj dienoj nebliks nė veis lės lietuvių ir žemaičių, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201258
+    - t-001

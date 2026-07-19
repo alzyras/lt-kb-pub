@@ -30,7 +30,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 
 <a id="claim-t-190480"></a>
 - t-001
-  global_id: t-190480
   teiginys: "Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateikiančius klaidingas išvadas ir nutolstančius nuo tiesos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 
 <a id="claim-t-190481"></a>
 - t-002
-  global_id: t-190481
   teiginys: "Narbutas rašo, kad Stenderis latvių Dyžą arba Dyszą laikė deive, savo ypatybėmis atitikusia Pergrubę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,10 +67,9 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173364
-    - c-002
+
 <a id="claim-t-190482"></a>
 - t-003
-  global_id: t-190482
   teiginys: "Narbutas nurodo, kad Stenderis Barstukų vardą kildino iš latviškų žodžių Berhns ir Stuhke."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -93,7 +90,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 
 <a id="claim-t-190483"></a>
 - t-004
-  global_id: t-190483
   teiginys: "Narbutas rašo, kad Stenderio laikais Latvijoje dar buvo girdėti apie žynius, traukiančius lengvatikius iš apylinkių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -114,9 +110,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 
 <a id="claim-t-190485"></a>
 - t-006
-  global_id: t-190485
   teiginys: "Narbutas cituoja Stenderio prisiminimą, kad jaunystėje dėl „tokio bergždžio būrimo“ nekaltai nubaustas vienas žmogus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -132,7 +127,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173368
-    - c-006
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašo, kad Stenderis latvių Dyžą arba Dyszą laikė deive, savo ypatybėmis atitikusia Pergrubę.'
@@ -148,8 +143,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190481
 - c-006
   santrauka: 'Narbutas cituoja Stenderio prisiminimą, kad jaunystėje dėl „tokio bergždžio būrimo“ nekaltai nubaustas vienas žmogus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -165,8 +158,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190485
+
 ## Citatos
 
 - id: c-173363
@@ -188,7 +180,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190480
+    - t-001
+
 - id: c-173364
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -204,19 +197,15 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     binimo apeigų liekanos.
     Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
     pavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.
-  citata_rodoma: |
-    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
-    gėlių ir vaismedžių sodas.
-    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
-    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
-    grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
+  citata_rodoma: "Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -\ngėlių ir vaismedžių sodas.\nStenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­\ndino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-\ngrubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190481
+    - t-002
+
 - id: c-173365
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -233,7 +222,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190482
+    - t-003
+
 - id: c-173366
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -252,7 +242,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190483
+    - t-004
+
 - id: c-173368
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -265,17 +256,11 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     i Alų, kuris buvo skirtas atnašavimui, pirkdavo už pinigus, kuriuos
     gaudavo už javus, tikriausiai bendrai viso kaimo pasėtus atskiroje dir­
     voje, tai yra šventame lauke (Luc.
-  citata_rodoma: |
-    Buvo buriama
-    stebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.
-    Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
-    Stenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­
-    simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­
-    mo nekaltai nubaudė vieną žmogų“42.
+  citata_rodoma: "Buvo buriama\nstebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.\nBuvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.\nStenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­\nsimenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­\nmo nekaltai nubaudė vieną žmogų“42."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190485
+    - t-006

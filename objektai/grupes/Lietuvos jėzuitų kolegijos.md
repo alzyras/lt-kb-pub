@@ -37,8 +37,7 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
 ## Teiginiai
 
 <a id="claim-t-81463"></a>
-- t-001
-  global_id: t-81463
+- t-002
   teiginys: "Pilaitė po Glebavičių tapo jėzuitų nuosavybe, o vėliau atiteko Vilniaus universitetui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
     - c-78083
 
 <a id="claim-t-81464"></a>
-- t-002
-  global_id: t-81464
+- t-003
   teiginys: "Pilaitė prie Vilniaus kadaise buvo jėzuitų nuosavybė, o vėliau atiteko Vilniaus universitetui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
     - c-78085
 
 <a id="claim-t-81465"></a>
-- t-003
-  global_id: t-81465
+- t-001
   teiginys: "Lietuvos jėzuitų kolegijos ir Vilniaus akademija prisidėjo prie lotynų kalbos plitimo tarp Lietuvos kilmingųjų."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -115,7 +112,8 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81463
+    - t-002
+
 - id: c-78084
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -138,7 +136,8 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81465
+    - t-001
+
 - id: c-78085
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -166,4 +165,4 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81464
+    - t-003

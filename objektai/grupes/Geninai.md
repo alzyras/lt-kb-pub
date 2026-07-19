@@ -27,27 +27,11 @@ media_all_json: |-
 
 Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chueninai, gyvenę dabartinio Kijevo apylinkėse.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-192981"></a>
-- t-001
-  global_id: t-192981
-  teiginys: 'Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chueninai, gyvenę dabartinio Kijevo apylinkėse.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išlaikyta nuomonės ir galimumo forma, nes citata nėra tvirtas faktas. Nepridėtos alternatyvios kilmės versijos.'
-  susije_objektai: 'llm_object: Kijevas; mentioned_place: Kijevas; mentioned_group: [[objektai/grupes/Graikai|Graikai]]; mentioned_place: Bizantija; mentioned_place: Salos'
-  semantiniai_rysiai: '[[objektai/grupes/Geninai|Geninai]] gyveno Kijevas'
-  pagrindžia:
-    - c-175751
-- susijęs iš [[objektai/grupes/Boristeniečiai.md#claim-t-192948|Boristeniečiai]]: Narbuto svarstymu, Ptolemėjo geninai galėjo būti graikai boristeniečiai, kilę iš Kijanėjos, arba Chianėjos, krašto.
-## Citatos
-
-- id: c-175751
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chueninai, gyvenę dabartinio Kijevo apylinkėse.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Šie atradimai labiau padeda pateisinti nuomones, jog
     Ptolemėjo geninai iš tikrųjų buvo vadinamieji chueninai,
@@ -61,10 +45,12 @@ Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chue
     mėjo, plytėjusio Mažojoje Azijoje, priešais Bizantiją ir
     kiek šiauriau prie jūros sąsiaurio. Kiti mano, jog tai bu­
     vę chiomitai, kilę iš Chijo salos.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192981
+  statusas: verified
+
+## Teiginiai
+
+- susijęs iš [[objektai/grupes/Boristeniečiai.md#claim-t-192948|Boristeniečiai]]: Narbuto svarstymu, Ptolemėjo geninai galėjo būti graikai boristeniečiai, kilę iš Kijanėjos, arba Chianėjos, krašto.

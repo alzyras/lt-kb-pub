@@ -31,7 +31,6 @@ E, p. 70, kuriame esa­ ma tokių žodžių: „Apsupome W ille (tai yra Vilnių
 
 <a id="claim-t-86862"></a>
 - t-001
-  global_id: t-86862
   teiginys: "Sename vokiečių pranešime Vilnius vadintas lietuvių žemėse pavojingiausiu miestu, kuriame buvo trys įgulų saugomos pilys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ E, p. 70, kuriame esa­ ma tokių žodžių: „Apsupome W ille (tai yra Vilnių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86862
+    - t-001

@@ -46,8 +46,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 ## Teiginiai
 
 <a id="claim-t-117247"></a>
-- t-001
-  global_id: t-117247
+- t-012
   teiginys: "„Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, kurių daugumą iš pradžių sudarė stačiatikių seminarijų auklėtiniai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-107975
 
 <a id="claim-t-117248"></a>
-- t-002
-  global_id: t-117248
+- t-003
   teiginys: "Prieš Strėvos mūšį į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,8 +82,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-42907
 
 <a id="claim-t-117249"></a>
-- t-003
-  global_id: t-117249
+- t-008
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę rusai atsisakydavo dvasininkams mokėti dešimtinę, pelno mokestį ir kitas duokles."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,8 +98,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-107971
 
 <a id="claim-t-117250"></a>
-- t-004
-  global_id: t-117250
+- t-010
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę rusai atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas duokles dvasininkams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,8 +114,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-107971
 
 <a id="claim-t-117251"></a>
-- t-005
-  global_id: t-117251
+- t-002
   teiginys: "Strėvos mūšio pradžioje Lietuvos kariai rusai šaudė į priešą iš lankų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,8 +132,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-42906
 
 <a id="claim-t-117252"></a>
-- t-006
-  global_id: t-117252
+- t-013
   teiginys: "Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų, todėl ji buvo internacionalinė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,8 +148,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-107970
 
 <a id="claim-t-117253"></a>
-- t-007
-  global_id: t-117253
+- t-006
   teiginys: "XVII–XVIII a. rusai kelis kartus išvertė Stryjkovskio Kroniką arba jos dalis į rusų kalbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -171,8 +164,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-31253
 
 <a id="claim-t-117254"></a>
-- t-008
-  global_id: t-117254
+- t-011
   teiginys: "Rusai XVII-XVIII a. kelis kartus vertė Stryjkovskio kroniką ar jos dalis į rusų kalbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -189,7 +181,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 
 <a id="claim-t-117255"></a>
 - t-009
-  global_id: t-117255
   teiginys: "Strėvos mūšio pradžioje Lietuvos kariai rusai priešą atakavo šaudydami iš lankų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -208,8 +199,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-42906
 
 <a id="claim-t-184580"></a>
-- t-010
-  global_id: t-184580
+- t-016
   teiginys: "Polocko rusai valdžią valstybėje perdavė trisdešimčiai senelių, o svarbiausius reikalus svarstė aikštės sueigose."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -229,8 +219,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-167941
 
 <a id="claim-t-193127"></a>
-- t-012
-  global_id: t-193127
+- t-018
   teiginys: "Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -242,8 +231,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-175886
 
 <a id="claim-t-193337"></a>
-- t-013
-  global_id: t-193337
+- t-019
   teiginys: "Atleidęs pasiuntinius, įsakė juos klystitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių valdovui ne tik didesnę pagarbą bei palankumą, bet ir pastovesnę ištikimybę."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -255,8 +243,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-176065
 
 <a id="claim-t-196120"></a>
-- t-014
-  global_id: t-196120
+- t-021
   teiginys: "Ivanas kaltino Aleksandrą, kad rusai verčiami atsisakyti prosenelių tikėjimo ir dėl to kai kurie ieškosi prieglobsčio Maskvoje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -267,18 +254,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178540
-
-<a id="claim-t-192453"></a>
-- t-011
-  global_id: t-192453
-  teiginys: 'Pasak Karamzino ir kitų istorikų, Rusia vadintas kraštas egzistavo dar prieš epochą, kai slavai pradėjo vadintis rusais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Palikta istorikų atribucija, nes tai kilmės ir vardo aiškinimas. Nepridėta Rimuko, variagų ir Baltijos pakrančių valdymo detalių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Rusia; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_place: Baltija'
-  pagrindžia:
-    - c-009
 - susijęs iš [[objektai/grupes/Vytauto būrys.md#claim-t-39019|Vytauto būrys]]: 14-ame kvartale stovėjęs Vytauto būrys nebuvo apsuptas ir smogė rusams į nugarą.
 - susijęs iš [[objektai/asmenys/Heiraudas.md#claim-t-191410|Heiraudas]]: Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties valdovu ir didvyriu, kurio dukra Heiridė ištekėjo už norvego Augmundo.
 - susijęs iš Gedimino laiškas dominikonams (1323 m.): Gedimino laiške dominikonams rašoma, kad valdovas pasiuntė popiežiui Jonui laišką dėl krikšto ir laukė jo pasiuntinių.
@@ -1760,11 +1735,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     džiusi taip pat ir rytines Baltijos jūros pakrantes.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192453
+  statusas: verified
 ## Citatos
 
 - id: c-31253
@@ -1778,19 +1751,15 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu. Dėda-
 
     (^11) **_Epitome principam Lithuaniae_****.
-  citata_rodoma: |
-    Bet ir rusai, kurie Kroniką ar
-    jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
-    (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu. Dėda-
-
-    (^11) **_Epitome principam Lithuaniae_****.
+  citata_rodoma: "Bet ir rusai, kurie Kroniką ar\njos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą\n(nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu. Dėda-\n\n(^11) **_Epitome principam Lithuaniae_****."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117253
+    - t-006
+
 - id: c-42906
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1806,21 +1775,16 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     Lietuvos kariai rusai šaudydami iš lankų.
     Daug ordino brolių žuvo, tarp jų Gdan-
     sko komtūras, Sembos vyskupo teisėjas.
-  citata_rodoma: |
-    Mūšyje, pirmiausia jo pradžioje, kaip pa-
-    žymi kronikininkas Vygandas, lietuviai
-    priešą atakavo svaidomosiomis ietimis, o
-    Lietuvos kariai rusai šaudydami iš lankų.
-    Daug ordino brolių žuvo, tarp jų Gdan-
-    sko komtūras, Sembos vyskupo teisėjas.
+  citata_rodoma: "Mūšyje, pirmiausia jo pradžioje, kaip pa-\nžymi kronikininkas Vygandas, lietuviai\npriešą atakavo svaidomosiomis ietimis, o\nLietuvos kariai rusai šaudydami iš lankų.\nDaug ordino brolių žuvo, tarp jų Gdan-\nsko komtūras, Sembos vyskupo teisėjas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117251
-    - t-117255
+    - t-002
+    - t-009
+
 - id: c-42907
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1844,7 +1808,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117248
+    - t-003
+
 - id: c-107970
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1857,19 +1822,15 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
     kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
     kunigaikščių joje buvo per penkiasdešimt.
-  citata_rodoma: |
-    Tuo
-    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
-    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
-    kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
-    kunigaikščių joje buvo per penkiasdešimt.
+  citata_rodoma: "Tuo\nbūdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­\nčiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama\nkariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos\nkunigaikščių joje buvo per penkiasdešimt."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117252
+    - t-013
+
 - id: c-107971
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1899,35 +1860,16 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     nostram profitentibus acquirunt, eadem onera sustineant, in
     possessionibus acquisitis vėl acquirendis, quae sustinuerunt
     ii, a quibus eas acquisiverunt, aut acquisituri sunt.
-  citata_rodoma: |
-    Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­
-    nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­
-    se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­
-    sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo
-    žmonių kokiu nors būdu yra įsigiję nuosavybę, atsisako mo­
-    kėti dešimtinę, pelno mokestį ir kitas duokles, kurios mūsų
-    ir kitų mūsų tikėjimo žmonių dvasininkams buvo mokamos,
-    ir jei į svetimą dominiją nepersikeltų, mokėtų. Mes norime,
-    kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar
-    totoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­
-    žįstančių valdinių cesijos ar decesijos būdu, sudarydami
-    kontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę,
-    401
-
-    ## Puslapis 418
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    nostram profitentibus acquirunt, eadem onera sustineant, in
-    possessionibus acquisitis vėl acquirendis, quae sustinuerunt
-    ii, a quibus eas acquisiverunt, aut acquisituri sunt.
+  citata_rodoma: "Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­\nnešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­\nse gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­\nsybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo\nžmonių kokiu nors būdu yra įsigiję nuosavybę, atsisako mo­\nkėti dešimtinę, pelno mokestį ir kitas duokles, kurios mūsų\nir kitų mūsų tikėjimo žmonių dvasininkams buvo mokamos,\nir jei į svetimą dominiją nepersikeltų, mokėtų. Mes norime,\nkad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar\ntotoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­\nžįstančių valdinių cesijos ar decesijos būdu, sudarydami\nkontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę,\n401\n\n## Puslapis 418\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nnostram profitentibus acquirunt, eadem onera sustineant, in\npossessionibus acquisitis vėl acquirendis, quae sustinuerunt\nii, a quibus eas acquisiverunt, aut acquisituri sunt."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117249
-    - t-117250
+    - t-008
+    - t-010
+
 - id: c-107974
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1938,18 +1880,15 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     į tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar
     jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
     (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.
-  citata_rodoma: |
-    Įvairūs lenkų autoriai į jį pažiurėjo kaip
-    į tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar
-    jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
-    (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.
+  citata_rodoma: "Įvairūs lenkų autoriai į jį pažiurėjo kaip\nį tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar\njos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą\n(nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117254
+    - t-011
+
 - id: c-107975
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1971,7 +1910,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117247
+    - t-012
+
 - id: c-167941
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2001,22 +1941,15 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     apeigomis,
     ir
     valstybine santvarka.
-  citata_rodoma: |
-    Erdvilui mirus, Naugarduko kunigaikštystę valdyti
-    žemių. Polocko rusai savo valstybės valdymą buvo
-    perdavę ne vienam kunigaikščiui, bet tautai5; šitokių
-    permainų priežastis buvo ta, kad per skitų karą buvo
-    netekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,
-    tvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­
-    rėkite, kad, susiradę kokį valdovą, neprarastumėte per
-    savo ištižimą laisvės, kurią iš priešų malonės gavote.
+  citata_rodoma: "Erdvilui mirus, Naugarduko kunigaikštystę valdyti\nžemių. Polocko rusai savo valstybės valdymą buvo\nperdavę ne vienam kunigaikščiui, bet tautai5; šitokių\npermainų priežastis buvo ta, kad per skitų karą buvo\nnetekę teisėtų kunigaikščių. Tuo tarpu ateiviai graikai,\ntvarkę rusų bažnyčios reikalus, patarė žmonėms: ,kiū­\nrėkite, kad, susiradę kokį valdovą, neprarastumėte per\nsavo ištižimą laisvės, kurią iš priešų malonės gavote."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184580
+    - t-016
+
 - id: c-175886
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2042,7 +1975,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193127
+    - t-018
+
 - id: c-176065
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2071,7 +2005,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193337
+    - t-019
+
 - id: c-178540
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2102,7 +2037,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196120
+    - t-021
+
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Kazokai]]
 - Turėjo valdovą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Heiraudas]]

@@ -31,7 +31,6 @@ Kunigaikščiai Boratinskiai su didžiulėmis tėvonijomis perėjo į Maskvos pu
 
 <a id="claim-t-185458"></a>
 - t-001
-  global_id: t-185458
   teiginys: "Kunigaikščiai Boratinskiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę ir su savo kariaunomis pradėjo puldinėti karaliaus valdas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Kunigaikščiai Boratinskiai su didžiulėmis tėvonijomis perėjo į Maskvos pu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185458
+    - t-001

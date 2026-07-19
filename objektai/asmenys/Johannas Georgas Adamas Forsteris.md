@@ -33,7 +33,6 @@ Johannas Georgas Adamas Forsteris (1754–1794) pastebėjo ilgą gėrimo ratu tr
 
 <a id="claim-t-200736"></a>
 - t-001
-  global_id: t-200736
   teiginys: "Johannas Georgas Adamas Forsteris (1754–1794) pastebėjo ilgą gėrimo ratu trukmę ir didelius išgeriamo alkoholio kiekius."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,5 @@ Johannas Georgas Adamas Forsteris (1754–1794) pastebėjo ilgą gėrimo ratu tr
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200736
+    - t-001

@@ -31,9 +31,8 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
 
 <a id="claim-t-60343"></a>
 - t-001
-  global_id: t-60343
   teiginys: "Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Jonas (Sarginio sūnus): 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -49,7 +48,6 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
 
 <a id="claim-t-197106"></a>
 - t-002
-  global_id: t-197106
   teiginys: "Jonas (Sarginio sūnus) ne kartą buvo su ašaromis viešpaties prašęs."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,6 +73,7 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-60975
@@ -91,22 +90,15 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
     prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą;
     vienoje ir kitoje pusėje žūstant kariams, jie prislinko arčiau pilies, ją užėmė, išžudė
     brolius ir visus pilies gyventojus, o ją pačią pavertė pelenais.
-  citata_rodoma: |
-    Apie antrąjį minėtojo Marienverderio miesto sugriovimą
-
-      Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
-    miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
-    prie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam
-    pamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš
-    Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi
-    šalys patyrė didelių nuostolių sužeistaisiais.
+  citata_rodoma: "Apie antrąjį minėtojo Marienverderio miesto sugriovimą\n\n  Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio\nmiestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė\nprie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam\npamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš\nElbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi\nšalys patyrė didelių nuostolių sužeistaisiais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60343
-    - t-197106
+    - t-001
+    - t-002
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Belichovas]]

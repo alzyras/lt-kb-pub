@@ -32,7 +32,6 @@ Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis ai
 
 <a id="claim-t-185483"></a>
 - t-001
-  global_id: t-185483
   teiginys: "Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis aiškių aiškiausiai meluoja apie pasaulio sutvėrimą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis ai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185483
+    - t-001

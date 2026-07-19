@@ -31,7 +31,6 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
 
 <a id="claim-t-41215"></a>
 - t-001
-  global_id: t-41215
   teiginys: "Švedų gvardijos kavalerija buvo pasiųsta į lemiamą ataką prieš dešinįjį lietuvių sparną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
 
 <a id="claim-t-41216"></a>
 - t-002
-  global_id: t-41216
   teiginys: "T. Lackio husarai pasitiko Švedų gvardijos kavaleriją ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,8 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41216
+    - t-002
+
 - id: c-44882
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -98,19 +97,11 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
     ® Švedų gvardijos kavaleriją pasitinka
     T. Lackio husarai ir ryžtingu puolimu nu-
     bloškia švedų raituosius gvardiečius.
-  citata_rodoma: |
-    Netrukus karalius duos nurodymą
-    siųsti gvardijos kavaleriją į lemiamą ataką
-
-    puolimo kryptimi (į dešinįjį lietuvių
-    sparną) gvardijos kavaleriją.
-
-    ® Švedų gvardijos kavaleriją pasitinka
-    T.
+  citata_rodoma: "Netrukus karalius duos nurodymą\nsiųsti gvardijos kavaleriją į lemiamą ataką\n\npuolimo kryptimi (į dešinįjį lietuvių\nsparną) gvardijos kavaleriją.\n\n® Švedų gvardijos kavaleriją pasitinka\nT."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41215
+    - t-001

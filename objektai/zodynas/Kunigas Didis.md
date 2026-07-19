@@ -32,7 +32,6 @@ Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis
 
 <a id="claim-t-189305"></a>
 - t-001
-  global_id: t-189305
   teiginys: "Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis“, tai yra didįjį kunigaikštį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis
 
 <a id="claim-t-197371"></a>
 - t-002
-  global_id: t-197371
   teiginys: "Pagrindinė pusė: jauno žmo gaus, vainikuoto kunigaikščio mitra, biustas veidu į priekį; iš kairės - vėliava su dviem įkirpimais."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -85,5 +83,5 @@ Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189305
-    - t-197371
+    - t-001
+    - t-002

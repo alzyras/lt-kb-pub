@@ -69,8 +69,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-23375"></a>
-- t-001
-  global_id: t-23375
+- t-002
   teiginys: "1988 m. liepą-rugsėjį visoje Lietuvoje steigėsi Sąjūdžio iniciatyvinės grupės ir vyko didžiuliai mitingai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -106,12 +105,11 @@ Nenurodyta
     1 200 Lietuvoje įregistruotų LPS grupių vienijo 300 000 narių, nes Sąjūdis
     buvo atviras visiems Lietuvos žmonėms, o jo akcijose galėjo dalyvauti visi
     Lietuvos gyventojai.
-  citata_rodoma: |
-    buvo atviras visiems Lietuvos žmonėms, o jo akcijose galėjo dalyvauti visi
+  citata_rodoma: "buvo atviras visiems Lietuvos žmonėms, o jo akcijose galėjo dalyvauti visi"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23375
+    - t-002

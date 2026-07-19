@@ -39,7 +39,6 @@ Stankus, J. — Stankus, J.
 
 <a id="claim-t-30701"></a>
 - t-001
-  global_id: t-30701
   teiginys: "J. Stankus 1970 m. paskelbė darbą „Geležinių įrankių gamybos technologija Lietuvoje IX-XIII amžiais“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,14 +75,11 @@ Stankus, J. — Stankus, J.
     technologija Lietuvoje IX-XIII amžiais_ , AkMD, t. 32, sąs. 1, 1970,
     113-133 p. — (”) _Kalavijų ir ietigalių gamybos technologija Lietuvoje
     IX-XIII amžiais_ , AkMD, t. 33, sąs.
-  citata_rodoma: |
-    — Stankus, J. : _Geležinių įrankių gamybos
-    technologija Lietuvoje IX-XIII amžiais_ , AkMD, t. 32, sąs. 1, 1970,
-    113-133 p.
+  citata_rodoma: "— Stankus, J. : _Geležinių įrankių gamybos\ntechnologija Lietuvoje IX-XIII amžiais_ , AkMD, t. 32, sąs. 1, 1970,\n113-133 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30701
+    - t-001

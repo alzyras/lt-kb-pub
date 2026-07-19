@@ -31,7 +31,6 @@ Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neiša
 
 <a id="claim-t-189590"></a>
 - t-001
-  global_id: t-189590
   teiginys: "Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neišaiškintų paminklų šifruotoju ir geranorišku tautiečiu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neiša
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172476
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neišaiškintų paminklų šifruotoju ir geranorišku tautiečiu.'
@@ -67,8 +66,7 @@ Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neiša
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189590
+
 ## Citatos
 
 - id: c-172476
@@ -87,18 +85,11 @@ Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neiša
     liaudies priežodžiai“, 1840; „Žemaitijos atsiminimai“, 1842;
     „Lietuva“, 1846); po T. Volianskio tai buvo antras ryškiausias
     darbinio LTI varianto autorius, ir tai jau daug ką pasako.
-  citata_rodoma: |
-    Savo entuziazmu T. Narbutas pasidalijo ir su
-    S. Daukantu. Jis rašė: „Tasai ponas Volianskis šiandien yra žy­
-    miausias archeologas, iki šiol neišaiškintų paminklų šifruoto­
-    jas; jis -  mūsų tautietis, labai geranoriškas“46. Ši frazė itin reikš­
-    minga, jeigu prisiminsime tai, kas jau buvo anksčiau pasakyta
-    šiame rašinyje. Būtent T. Volianskio geranoriškumas darė is­
-    torikui didžiausią įspūdį.
+  citata_rodoma: "Savo entuziazmu T. Narbutas pasidalijo ir su\nS. Daukantu. Jis rašė: „Tasai ponas Volianskis šiandien yra žy­\nmiausias archeologas, iki šiol neišaiškintų paminklų šifruoto­\njas; jis -  mūsų tautietis, labai geranoriškas“46. Ši frazė itin reikš­\nminga, jeigu prisiminsime tai, kas jau buvo anksčiau pasakyta\nšiame rašinyje. Būtent T. Volianskio geranoriškumas darė is­\ntorikui didžiausią įspūdį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189590
+    - t-001

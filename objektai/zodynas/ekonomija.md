@@ -37,7 +37,6 @@ Vienos tų žemių priklausė jiems tiesiog: jose jie turėjo didelius savo dvar
 
 <a id="claim-t-36779"></a>
 - t-001
-  global_id: t-36779
   teiginys: "Ekonomijos buvo dideli valdovų dvarai, administruojami jų skiriamų vietininkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,19 +71,11 @@ Vienos tų žemių priklausė jiems tiesiog: jose jie turėjo didelius savo dvar
     domas žemes turėjo visišką nuosavybės teisę ir Žemaitijos ba­
     jorai nuo senų laikų, ką mes sužinom iš jų skundo prieš Ordiną
     Konstancijoj (1416)^1 ).
-  citata_rodoma: |
-    Vienos tų žemių priklausė jiems tiesiog: jose jie turėjo didelius
-    savo dvarus — ekonomijas, administruojamas tam tikrų jų ski­
-    riamų valdininkų, vad. vietininkais; kitas žemes valdė sričių
-    kunigaikščiai, kariai-bajorai, laisvieji gyventojai. Be senesnių­
-    jų lietuvių ir rusų kunigaikščių — tėvynainių (otčici) į savo val­
-    domas žemes turėjo visišką nuosavybės teisę ir Žemaitijos ba­
-    jorai nuo senų laikų, ką mes sužinom iš jų skundo prieš Ordiną
-    Konstancijoj (1416)^1 ).
+  citata_rodoma: "Vienos tų žemių priklausė jiems tiesiog: jose jie turėjo didelius\nsavo dvarus — ekonomijas, administruojamas tam tikrų jų ski­\nriamų valdininkų, vad. vietininkais; kitas žemes valdė sričių\nkunigaikščiai, kariai-bajorai, laisvieji gyventojai. Be senesnių­\njų lietuvių ir rusų kunigaikščių — tėvynainių (otčici) į savo val­\ndomas žemes turėjo visišką nuosavybės teisę ir Žemaitijos ba­\njorai nuo senų laikų, ką mes sužinom iš jų skundo prieš Ordiną\nKonstancijoj (1416)^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36779
+    - t-001

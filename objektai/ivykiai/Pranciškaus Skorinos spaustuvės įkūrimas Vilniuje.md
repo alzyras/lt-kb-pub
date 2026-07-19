@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-20458"></a>
 - t-001
-  global_id: t-20458
   teiginys: "Pranciškus Skorina buvo pirmasis Lietuvos spaustuvininkas, kilęs iš rusėnų kultūrinės aplinkos ir gimęs Polocko pirklių šeimoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +77,6 @@ Nenurodyta
 
 <a id="claim-t-183267"></a>
 - t-002
-  global_id: t-183267
   teiginys: "1522 m. Pranciškus Skorina įkūrė spaustuvę Vilniuje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -112,15 +110,15 @@ Nenurodyta
     vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
     Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
     dicinos daktaro laipsnį, 1517–1519 m.
-  citata_rodoma: |
-    vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
+  citata_rodoma: "vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20458
+    - t-001
+
 - id: c-166656
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -138,4 +136,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183267
+    - t-002

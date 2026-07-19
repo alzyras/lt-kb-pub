@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189929"></a>
 - t-001
-  global_id: t-189929
   teiginys: "Narbutas rašė, kad žemdirbiai Perkūnaitėlę garbino kaip oro permainų valdovę ir maldavo apsaugoti laukus nuo krušos, liūčių bei griausmų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189929
+    - t-001

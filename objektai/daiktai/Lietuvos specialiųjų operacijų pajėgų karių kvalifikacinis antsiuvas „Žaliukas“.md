@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-10061"></a>
-- t-001
-  global_id: t-10061
+- t-004
   teiginys: "„Žaliukas“ siejamas su kovinga tautos dalies būsena pavojuje, nepakantumu okupacijai ir žaliukų telkimusi ginti šalį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md::validation_repair"
@@ -69,8 +68,7 @@ Nenurodyta
     - c-12237
 
 <a id="claim-t-10062"></a>
-- t-002
-  global_id: t-10062
+- t-003
   teiginys: "„Žaliukas“ yra Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md::validation_repair"
@@ -102,22 +100,12 @@ Nenurodyta
     savo šalį. Jie veikia organizuotai, tik jų
     struktūros formuojamos ne nurodymu iš
     aukščiau, bet iniciatyva iš apačios.
-  citata_rodoma: |
-    Lietuvos specialiųjų operacijų pajėgų
-    karių kvalifikacinis antsiuvas. Žaliukas
-    tai kovingos tautos dalies būsena pavojuje.
-    Jis nepakantus jokiai okupacijai. Kritiniu
-    momentu, kai nebelieka oficialios val-
-    džios, žaliukai natūraliai buriasi ginti
-
-    savo šalį. Jie veikia organizuotai, tik jų
-    struktūros formuojamos ne nurodymu iš
-    aukščiau, bet iniciatyva iš apačios.
+  citata_rodoma: "Lietuvos specialiųjų operacijų pajėgų\nkarių kvalifikacinis antsiuvas. Žaliukas\ntai kovingos tautos dalies būsena pavojuje.\nJis nepakantus jokiai okupacijai. Kritiniu\nmomentu, kai nebelieka oficialios val-\ndžios, žaliukai natūraliai buriasi ginti\n\nsavo šalį. Jie veikia organizuotai, tik jų\nstruktūros formuojamos ne nurodymu iš\naukščiau, bet iniciatyva iš apačios."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10061
-    - t-10062
+    - t-004
+    - t-003

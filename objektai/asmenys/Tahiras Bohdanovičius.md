@@ -28,7 +28,6 @@ Totorius Tahiras Bohdanovičius iš Trakų rakto gavo lapės kailio šūbą kaip
 
 <a id="claim-t-202339"></a>
 - t-001
-  global_id: t-202339
   teiginys: "Totorius Tahiras Bohdanovičius iš Trakų rakto gavo lapės kailio šūbą kaip Lietuvos valdovo dovaną."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,5 @@ Totorius Tahiras Bohdanovičius iš Trakų rakto gavo lapės kailio šūbą kaip
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202339
+    - t-001

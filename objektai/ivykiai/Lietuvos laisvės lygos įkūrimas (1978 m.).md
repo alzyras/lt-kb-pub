@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20327"></a>
 - t-001
-  global_id: t-20327
   teiginys: "1978 m. įkurta Lietuvos laisvės lyga siekė atkurti nepriklausomą Lietuvą, ugdyti religinę, tautinę ir politinę sąmonę bei kelti Lietuvos laisvės klausimą tarptautiniuose forumuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,12 +86,11 @@ Nenurodyta
     kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
     politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-
     niuose forumuose.
-  citata_rodoma: |
-    kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
+  citata_rodoma: "kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20327
+    - t-001

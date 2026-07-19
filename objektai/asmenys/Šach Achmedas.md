@@ -39,8 +39,7 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 ## Teiginiai
 
 <a id="claim-t-87415"></a>
-- t-001
-  global_id: t-87415
+- t-002
   teiginys: "Šach Achmedas baigė gyvenimą kalėjime Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     - c-83397
 
 <a id="claim-t-87416"></a>
-- t-002
-  global_id: t-87416
+- t-003
   teiginys: "Sugautas ir Vilniuje įkalintas Šach Achmedas kėlė rūpesčių karaliui ir seimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     - c-83396
 
 <a id="claim-t-87417"></a>
-- t-003
-  global_id: t-87417
+- t-004
   teiginys: "Šach Achmedas su savo palyda klajojo palapinėse aplink Vilnių, kol karalius tvarkė totorių reikalus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +89,7 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     - c-83395
 
 <a id="claim-t-87418"></a>
-- t-004
-  global_id: t-87418
+- t-001
   teiginys: "Šach Achmedas, Perekopo ordos chanas ir Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -147,7 +143,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87418
+    - t-001
+
 - id: c-83395
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -167,7 +164,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87417
+    - t-004
+
 - id: c-83396
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -186,7 +184,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87416
+    - t-003
+
 - id: c-83397
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -233,7 +232,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87415
+    - t-002
+
 ## Ryšiai
 - Šach Achmedas keliavo į [[objektai/vietos/Brasta]]
 - Šach Achmedas mirė [[objektai/vietos/Lietuva]]

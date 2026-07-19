@@ -31,7 +31,6 @@ Narbuto pasakojime 475 m. Orestas, vadovavęs samdytai kariuomenei, į imperator
 
 <a id="claim-t-191313"></a>
 - t-001
-  global_id: t-191313
   teiginys: "Narbuto pasakojime 475 m. Orestas, vadovavęs samdytai kariuomenei, į imperatoriaus sostą pasodino jauną sūnų Romulą Momilijų Augustulą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Narbuto pasakojime 475 m. Orestas, vadovavęs samdytai kariuomenei, į imperator
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191313
+    - t-001

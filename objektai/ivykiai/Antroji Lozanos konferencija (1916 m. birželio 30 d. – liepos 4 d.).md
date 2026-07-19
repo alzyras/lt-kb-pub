@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-01577"></a>
 - t-001
-  global_id: t-01577
   teiginys: "Antrojoje Lozanos konferencijoje 1916 m. birželio 30 d.–liepos 4 d. dalyvavo iš okupuotos Lietuvos atvykę delegatai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,16 +81,11 @@ Nenurodyta
     Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
     ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
     bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
-  citata_rodoma: |
-    Antroj Lozanos konferencijoj tų pačių metų birželio 30 —
-    liepos 4 d. dalyvavo iš okupuotosios Lietuvos atvykę delegatai.
-    Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
-    ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
-    bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
+  citata_rodoma: "Antroj Lozanos konferencijoj tų pačių metų birželio 30 —\nliepos 4 d. dalyvavo iš okupuotosios Lietuvos atvykę delegatai.\nBuvo nutarta politinės propagandos centrą padaryti Šveicarijoje\nir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-\nbo pagrindu buvo paimtas nepriklausomybės reikalavimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01577
+    - t-001

@@ -30,7 +30,6 @@ Peter van der Lyxten dabar grįžęs man pranešė, kad Švitrigaila yra laisvė
 
 <a id="claim-t-87822"></a>
 - t-001
-  global_id: t-87822
   teiginys: "Peter van der Lyxten grįžęs iš Lietuvos pranešė, kad Švitrigaila yra laisvėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Peter van der Lyxten dabar grįžęs man pranešė, kad Švitrigaila yra laisvė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87822
+    - t-001

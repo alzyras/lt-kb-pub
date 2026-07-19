@@ -12,10 +12,10 @@ datos:
   - '1466 m.'
 date_start: '1454'
 date_end: '1466'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-201962"></a>
 - t-001
-  global_id: t-201962
   teiginys: "Juo labiau kad greitai prasidėjęs vadinamasis Trylikos metų karas (1454-1466) tarp Lenkijos ir Vokiečių ordino praktiškai visai nutraukė prekybą ir laivybą tarp Kauno ir Dancigo."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -61,6 +60,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185309
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -81,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201962
+    - t-001

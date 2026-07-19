@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-31889"></a>
 - t-001
-  global_id: t-31889
   teiginys: "St. Zajączkowskio „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleista Lvove 1929 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,14 +66,11 @@ media_all_json: |-
     St. : _Przymierze polsko-litewskie 1325 r.,_ KH, t. 40, 1926, 567-617 p. —
     (”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_
     Lwów 1929 (daug apie 1325 m. sutartį; panaudoja W. de Machaut).
-  citata_rodoma: |
-    —
-    (”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_
-    Lwów 1929 (daug apie 1325 m. sutartį; panaudoja W. de Machaut).
+  citata_rodoma: "—\n(”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_\nLwów 1929 (daug apie 1325 m. sutartį; panaudoja W. de Machaut)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31889
+    - t-001

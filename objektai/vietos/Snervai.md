@@ -31,7 +31,6 @@ Dusburgietis teigia, kad smolenskas Snervai (dab.
 
 <a id="claim-t-58729"></a>
 - t-001
-  global_id: t-58729
   teiginys: "Snervai yra ežeras, dabar vadinamas Sniardvais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Dusburgietis teigia, kad smolenskas Snervai (dab.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58729
+    - t-001

@@ -51,8 +51,7 @@ Ašarinės minimos kapaviečių aprašymuose ir Saurų dvaro muziejaus kataloge.
 ## Teiginiai
 
 <a id="claim-t-192063"></a>
-- t-001
-  global_id: t-192063
+- t-002
   teiginys: "Narbutas Saurų dvaro muziejaus kataloge mini keturias ašarinių atmainas iš įvairių palaidojimų ir rašo, kad ašarinės buvo tarp vertingiausių jo kolekcijos eksponatų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -86,20 +85,11 @@ Ašarinės minimos kapaviečių aprašymuose ir Saurų dvaro muziejaus kataloge.
     vo Kovo statulėlės, T. Narbutas laikė pačiais vertingiausiais savo
     kolekcijos
     egzemplioriais.
-  citata_rodoma: |
-    „Ašarinės: viena pagaminta iš stiklo, su ašaromis;
-    antra stiklinis rutulėlis, bet viduje tuščias, su kapiliaro dydžio
-    skylute; trečia panaši j ypatingos formos buteliuką; ketvirtosios,
-    keramikinės, [belikusi] tik nuolauža, ypač meistriškai padaryta ir
-    medžiaga labai reta. Visos jos iš įvairių palaidojimų“ ([Narbutt TĄ
-    Spisanie Muzeum w Szawrach. L. 3. Nr. 32). Ašarines, greta die­
-    vo Kovo statulėlės, T. Narbutas laikė pačiais vertingiausiais savo
-    kolekcijos
-    egzemplioriais.
+  citata_rodoma: "„Ašarinės: viena pagaminta iš stiklo, su ašaromis;\nantra stiklinis rutulėlis, bet viduje tuščias, su kapiliaro dydžio\nskylute; trečia panaši j ypatingos formos buteliuką; ketvirtosios,\nkeramikinės, [belikusi] tik nuolauža, ypač meistriškai padaryta ir\nmedžiaga labai reta. Visos jos iš įvairių palaidojimų“ ([Narbutt TĄ\nSpisanie Muzeum w Szawrach. L. 3. Nr. 32). Ašarines, greta die­\nvo Kovo statulėlės, T. Narbutas laikė pačiais vertingiausiais savo\nkolekcijos\negzemplioriais."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192063
+    - t-002

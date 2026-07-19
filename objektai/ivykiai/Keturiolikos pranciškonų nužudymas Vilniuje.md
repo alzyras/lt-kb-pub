@@ -49,10 +49,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187474"></a>
-- t-001
-  global_id: t-187474
+- t-004
   teiginys: "Lietuvos metraščio pasakojime vyskupo sode, kur buvo sukapoti pranciškonai, tebestovėjo kryžius."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
@@ -66,12 +65,11 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170443
-    - c-001
+
 <a id="claim-t-187475"></a>
 - t-002
-  global_id: t-187475
   teiginys: "Lietuvos metraščio pasakojime per pranciškonų nužudymą Vilniuje septyni vienuoliai buvo sukapoti, o kiti septyni, pririšti prie kryžių, paleisti Nerimi."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
@@ -85,12 +83,11 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170443
-    - c-001
+
 <a id="claim-t-187476"></a>
 - t-003
-  global_id: t-187476
   teiginys: "Lietuvos metraštis pranciškonų nužudymą Vilniuje aiškina pagonių nenoru turėti Romos tikėjimo krikščionių ir kerštu už dievų naikinimą."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.85"
@@ -104,12 +101,11 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170443
-    - c-001
+
 <a id="claim-t-187477"></a>
-- t-004
-  global_id: t-187477
+- t-001
   teiginys: "Lietuvos metraščio pasakojime Algirdui žygiuojant prieš Maskvą Vilniaus miestiečiai pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "puole -> Pranciškonų ordinas: 0.78"
@@ -124,7 +120,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170443
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -146,11 +142,10 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187474
-    - t-187475
+- t-187475
     - t-187476
     - t-187477
+
 ## Citatos
 
 - id: c-170443
@@ -179,26 +174,14 @@ Nenurodyta
     nutarė, kad anuodu bus jų įpėdiniais didžiųjų kuni-
     Lietuvi
     (M itu
-  citata_rodoma: |
-    APIE KETURIOLIKOS VIENUOLIŲ PRANCIŠKONŲ NUŽUDYMĄ
-    VILNIUJE
-    Tuo melu kai didysis kunigaikštis Algirdas žy­
-    giavo prieš Maskvą, o su juo buvo jo vaivada Petras
-    Goštautas, susirinko Vilniaus miesliečiai pagonys ir di­
-    deliu būriu atėjo prie vienuolyno; nenorėdami, kad
-    būtų Romos tikėjimo krikščionių, vienuolyną sudegino
-    ir septynis vienuolius sukapojo, o kitus septynis vie­
-    nuolius, pririšę prie kryžių, paleido Nerimi žemyn, sa­
-    kydami: „Nuo saulėlydžio atėjote, j saulėlydį ir grįž­
-    kite. Kam mūsų dievus naikinote." 2 O vyskupo sode,
-    kur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 .
+  citata_rodoma: "APIE KETURIOLIKOS VIENUOLIŲ PRANCIŠKONŲ NUŽUDYMĄ\nVILNIUJE\nTuo melu kai didysis kunigaikštis Algirdas žy­\ngiavo prieš Maskvą, o su juo buvo jo vaivada Petras\nGoštautas, susirinko Vilniaus miesliečiai pagonys ir di­\ndeliu būriu atėjo prie vienuolyno; nenorėdami, kad\nbūtų Romos tikėjimo krikščionių, vienuolyną sudegino\nir septynis vienuolius sukapojo, o kitus septynis vie­\nnuolius, pririšę prie kryžių, paleido Nerimi žemyn, sa­\nkydami: „Nuo saulėlydžio atėjote, j saulėlydį ir grįž­\nkite. Kam mūsų dievus naikinote.\" 2 O vyskupo sode,\nkur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187474
-    - t-187475
-    - t-187476
-    - t-187477
+    - t-004
+    - t-002
+    - t-003
+    - t-001

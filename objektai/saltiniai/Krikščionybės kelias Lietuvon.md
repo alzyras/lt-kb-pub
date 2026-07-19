@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-31769"></a>
 - t-001
-  global_id: t-31769
   teiginys: "Z. Ivinskio „Krikščionybės kelias Lietuvon“ paskelbtas 1938 m. TK 5-ajame numeryje, p. 273–311."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,15 +68,11 @@ media_all_json: |-
     LE, t. 9, 244-249 p. — (”) _Lietuvos santykiai su Lenkija,_ LE, t. 15,
     297 p. — M. Jučas : _Nuo Krėvos sutarties iki Liublino unijos,_ Vilnius
     1970.
-  citata_rodoma: |
-    — Ivinskis, Z. : _Krikščionybės
-    kelias Lietuvon,_ TK, nr. 5, 1938, 273-311 p. (bibliogr.) ; plačiau žr. :
-    Laiškai Lietuviams, Chicaga, 1958, nr. 5-9. — _(”)Jadwyga d’Anjou,_
-    LE, t.
+  citata_rodoma: "— Ivinskis, Z. : _Krikščionybės\nkelias Lietuvon,_ TK, nr. 5, 1938, 273-311 p. (bibliogr.) ; plačiau žr. :\nLaiškai Lietuviams, Chicaga, 1958, nr. 5-9. — _(”)Jadwyga d’Anjou,_\nLE, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31769
+    - t-001

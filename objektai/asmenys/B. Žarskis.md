@@ -30,8 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-40060"></a>
-- t-001
-  global_id: t-40060
+- t-002
   teiginys: "Bataliono vadas majoras B. Žarskis žuvo per sukilėlių kovą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ media_all_json: |-
     - c-44305
 
 <a id="claim-t-40061"></a>
-- t-002
-  global_id: t-40061
+- t-001
   teiginys: "B. Žarskis buvo paskirtas vienu iš batalionų vadų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,21 +79,15 @@ media_all_json: |-
     mjr. P. Vivulskį ir žuvus ba-
     talionų vadams majorams
     Antonievičiui, B. Žarskiui.
-  citata_rodoma: |
-    Atkakliai priešindamiesi
-    sukilėliai išsilaikė dvi valan-
-    das, tačiau jų veiksmai pakriko
-    sužeidus vadą Z. Sierakauską,
-    mjr. P. Vivulskį ir žuvus ba-
-    talionų vadams majorams
-    Antonievičiui, B. Žarskiui.
+  citata_rodoma: "Atkakliai priešindamiesi\nsukilėliai išsilaikė dvi valan-\ndas, tačiau jų veiksmai pakriko\nsužeidus vadą Z. Sierakauską,\nmjr. P. Vivulskį ir žuvus ba-\ntalionų vadams majorams\nAntonievičiui, B. Žarskiui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40060
+    - t-002
+
 - id: c-44306
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -110,20 +102,11 @@ media_all_json: |-
     nievskis, S. Kozakauskas, D. Maleckis,
 
     K. Maleckis, M. Stanišauskas.
-  citata_rodoma: |
-    Batalionų vadais
-
-    buvo paskirti: B. Žarskis, J. Radavičius,
-
-    A. Mackevičius, Antonievičius, E. Vžes-
-
-    nievskis, S. Kozakauskas, D. Maleckis,
-
-    K. Maleckis, M. Stanišauskas.
+  citata_rodoma: "Batalionų vadais\n\nbuvo paskirti: B. Žarskis, J. Radavičius,\n\nA. Mackevičius, Antonievičius, E. Vžes-\n\nnievskis, S. Kozakauskas, D. Maleckis,\n\nK. Maleckis, M. Stanišauskas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40061
+    - t-001

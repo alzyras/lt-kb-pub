@@ -42,8 +42,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 ## Teiginiai
 
 <a id="claim-t-89789"></a>
-- t-001
-  global_id: t-89789
+- t-004
   teiginys: "Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, kuri vėliau vadinta Glapo kalva."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - c-85724
 
 <a id="claim-t-89790"></a>
-- t-002
-  global_id: t-89790
+- t-005
   teiginys: "Glapas su kariuomene buvo užkluptas apgulęs pilį ir netikėtai užpultas brolių bei ginklanešių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,9 +76,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 
 <a id="claim-t-89791"></a>
 - t-003
-  global_id: t-89791
   teiginys: "Glapas, Varmių vadas, turėjo valdinį Steinavą, kurį labai mėgo ir daug kartų gelbėjo iš mirtino pavojaus."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Varmiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -97,8 +94,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - c-85727
 
 <a id="claim-t-89792"></a>
-- t-004
-  global_id: t-89792
+- t-002
   teiginys: "Varmių vadas Glapas, gavęs pabėgusios prūsės pranešimą, su daugybe karių atvyko ir užėmė pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -114,8 +110,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - c-85725
 
 <a id="claim-t-89793"></a>
-- t-005
-  global_id: t-89793
+- t-001
   teiginys: "Prūsams vėl atkritus nuo tikėjimo, varmiai išsirinko Glapą savo kariuomenės vadu ir vyresniuoju."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -130,10 +125,9 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   semantiniai_rysiai: "Varmiai paskyrė Glapas (0.95)"
   pagrindžia:
     - c-85728
-    - c-004
+
 <a id="claim-t-184072"></a>
 - t-006
-  global_id: t-184072
   teiginys: "Varmių vadas Glapas, sužinojęs apie brolių išvykimą iš Brandenburgo pilies, su daugybe karių ją užėmė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -154,7 +148,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 
 <a id="claim-t-197083"></a>
 - t-007
-  global_id: t-197083
   teiginys: "Šis, paklausęs patarimo, susikvietė daug brolių bei ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga juos užpuolė ir visus išžudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -167,7 +160,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 
 <a id="claim-t-200991"></a>
 - t-008
-  global_id: t-200991
   teiginys: "Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glapas Varmijoj, Divonis Partijoj o Auktuma Pagezonijoj."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -180,7 +172,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 
 <a id="claim-t-200992"></a>
 - t-009
-  global_id: t-200992
   teiginys: "Tokiu pragumu moteriškė iš pilies pranešė Glapui, karvedžiui lietuvių, jog pilis yra tuščia, į kurią be kokio vargo gal jis įsilaužti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -193,7 +184,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 
 <a id="claim-t-200993"></a>
 - t-010
-  global_id: t-200993
   teiginys: "Tuo pačiu laiku varmijonys nustojo taip pat sa vo karvedžio Glapo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -236,8 +226,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89793
+
 ## Citatos
 
 - id: c-85724
@@ -256,8 +245,9 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89789
-    - t-89790
+    - t-004
+    - t-005
+
 - id: c-85725
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -275,7 +265,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89792
+    - t-002
+
 - id: c-85727
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -290,24 +281,16 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     pirmiausia apie Balgą
     Bendrais bruožais aprašius karus, vykusius antrosios atskalūnybės metais, reikia
     papasakoti ir apie kiekvienos pilies bei kiekvieno Prūsijos žemės valsčiaus kovas.
-  citata_rodoma: |
-    Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
-
-      Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Daug
-    kartų jį buvo gelbėjęs iš mirtino pavojaus. Tačiau tas vyras, užmiršęs patirtas malones,
-    atsiteisė blogu už gera ir neapykanta už meilę. Jis sugalvojo būdą, kaip  jį pribaigti,
-    ir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios
-    Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,
-
-      409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m.
+  citata_rodoma: "Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą\n\n  Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Daug\nkartų jį buvo gelbėjęs iš mirtino pavojaus. Tačiau tas vyras, užmiršęs patirtas malones,\natsiteisė blogu už gera ir neapykanta už meilę. Jis sugalvojo būdą, kaip  jį pribaigti,\nir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios\nSembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,\n\n  409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89791
-    - t-197083
+    - t-003
+    - t-007
+
 - id: c-85728
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -322,20 +305,15 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     90 (85). Apie didelį krikščionių kraujo praliejimą
     Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
     išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.
-  citata_rodoma: |
-    [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
-    netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
-    sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie
-    pirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko
-    Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
-    bartai — Divaną361.
+  citata_rodoma: "[dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,\nnetekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug\nsunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo prie\npirmykščių paklydimų, o savo kariuomenės vadais bei vyresniaisiais sembai išsirinko\nGlandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,\nbartai — Divaną361."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89793
+    - t-001
+
 - id: c-167457
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -352,10 +330,12 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184072
+    - t-006
+
 - id: c-184341
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ant didesnės laimos perkrikštų, pasitiko tarp jų
     sumanančių karvedžių ir gudrių vyrų, kurie mo­
@@ -377,10 +357,12 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200991
+    - t-008
+
 - id: c-184342
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tokiu pragumu moteriškė iš pilies pranešė Glapui,
     karvedžiui lietuvių, jog pilis yra tuščia, į kurią be
@@ -396,10 +378,12 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200992
+    - t-009
+
 - id: c-184343
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Daug
     kartų jo smurtą karda gandino meldžionis, ant di­
@@ -416,7 +400,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200993
+    - t-010
+
 ## Ryšiai
 - Paskyrė Glapą: [[objektai/grupes/Varmiai]]
 - Glapas užėmė [[objektai/vietos/Brandenburgo pilis]]

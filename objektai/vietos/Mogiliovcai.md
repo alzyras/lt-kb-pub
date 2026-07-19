@@ -39,8 +39,7 @@ Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klima
 ## Teiginiai
 
 <a id="claim-t-187262"></a>
-- t-001
-  global_id: t-187262
+- t-002
   teiginys: "Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klimaševskis aptiko Bychovco kronikos rankraštį."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -62,8 +61,7 @@ Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klima
     - c-170318
 
 <a id="claim-t-187263"></a>
-- t-002
-  global_id: t-187263
+- t-001
   teiginys: "Prieš 1830 m. Ipolitas Klimaševskis Bychovco kronikos rankraštį aptiko Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -108,15 +106,12 @@ Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klima
     Bychovco kronikos rankraštį prieš 1830 m. Alek­
     sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
     niaus gimnazijos mokytojas Ipolitas Klimaševskis.
-  citata_rodoma: |
-    Bychovco kronikos rankraštį prieš 1830 m. Alek­
-    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
-    niaus gimnazijos mokytojas Ipolitas Klimaševskis.
+  citata_rodoma: "Bychovco kronikos rankraštį prieš 1830 m. Alek­\nsandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­\nniaus gimnazijos mokytojas Ipolitas Klimaševskis."
   statusas: verified
   atnaujinta: "2026-07-12 22:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187262
-    - t-187263
+    - t-002
+    - t-001

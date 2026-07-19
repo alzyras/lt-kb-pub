@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-193006"></a>
 - t-001
-  global_id: t-193006
   teiginys: "Kasinėdamas senovines kapavietes Narbutas rado varinių auskarų, grandinėlių ir surūdijusių geležies dirbinių, kuriuos laikė galimais peiliais, skustuvais ar įrankiais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -67,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-194871"></a>
 - t-002
-  global_id: t-194871
   teiginys: "1826 metais Ukmergės apskrities Antakriautiio dvare, pri klausančiame ponui Romanovskiui, prie ežero, tiesiant nau ją kelią, buvo atkastas senovinis pilkapis, kuriame rastas skeletas, ant kurio abiejų rankų buvo užmauta po penkias varines apyrankes, ant."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,6 +76,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177267
+    - c-179246
 
 ## Citatos
 
@@ -102,7 +101,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193006
+    - t-001
+
 - id: c-177267
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -125,7 +125,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194871
+    - t-002
+
 - id: c-179246
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -148,3 +149,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

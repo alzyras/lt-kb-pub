@@ -55,8 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66690"></a>
-- t-001
-  global_id: t-66690
+- t-004
   teiginys: "Ją sudarė 35 visoje Lietuvoje žinomi inteligentai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-66692"></a>
 - t-002
-  global_id: t-66692
   teiginys: "1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-166643
 
 <a id="claim-t-183256"></a>
-- t-003
-  global_id: t-183256
+- t-006
   teiginys: "1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje lietuvių inteligentų būrys įsteigė Lietuvos Persitvarkymo Sąjūdžio iniciatyvinę grupę."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -125,15 +122,15 @@ Nenurodyta
     studentų – savo sudėtimi LPS užuomazgos skiriasi nuo 1968 m. Čekoslo-
     vakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija,
     ir Lenkijos „Solidarumo“ judėjimo, kur iniciatyva priklausė darbininkams.
-  citata_rodoma: |
-    vakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija,
+  citata_rodoma: "vakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66690
+    - t-004
+
 - id: c-166643
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -152,7 +149,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66692
+    - t-002
+
 - id: c-166644
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -172,4 +170,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183256
+    - t-006

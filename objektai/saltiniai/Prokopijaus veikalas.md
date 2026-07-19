@@ -36,7 +36,6 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie s
 
 <a id="claim-t-186343"></a>
 - t-001
-  global_id: t-186343
   teiginys: "Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186343
+    - t-001

@@ -30,7 +30,6 @@ p. 95, „LIETUVOS KARIUOMENE XVI A.“ Lina Vidauskyte, Andžej Geglis, Karolis
 
 <a id="claim-t-41548"></a>
 - t-001
-  global_id: t-41548
   teiginys: "Informacinį bloką „Lietuvos kariuomenė XVI a.“ parengė Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,12 +53,11 @@ p. 95, „LIETUVOS KARIUOMENE XVI A.“ Lina Vidauskyte, Andžej Geglis, Karolis
   citata_originali: |
     p. 95, „LIETUVOS KARIUOMENE XVI A.“ Lina Vidauskyte, Andžej Geglis, Karolis Zikaras.
     p. 98, „HUSARŲ ORGANIZACIJA XVII A.“, Andžej Geglis, Karolis Zikaras.
-  citata_rodoma: |
-    p. 95, „LIETUVOS KARIUOMENE XVI A.“ Lina Vidauskyte, Andžej Geglis, Karolis Zikaras.
+  citata_rodoma: "p. 95, „LIETUVOS KARIUOMENE XVI A.“ Lina Vidauskyte, Andžej Geglis, Karolis Zikaras."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41548
+    - t-001

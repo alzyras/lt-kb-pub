@@ -31,7 +31,6 @@ Muratoris išsaugojo apaštališkajam sostui skirtą donaciją, kurią sudarė l
 
 <a id="claim-t-191445"></a>
 - t-001
-  global_id: t-191445
   teiginys: "Muratoris išsaugojo apaštališkajam sostui skirtą donaciją, kurią sudarė lenkų kunigaikštis, pasivadinęs Misica."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Muratoris išsaugojo apaštališkajam sostui skirtą donaciją, kurią sudarė l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191445
+    - t-001

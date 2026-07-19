@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-11542"></a>
-- t-001
-  global_id: t-11542
+- t-002
   teiginys: "Iš pirmosios katedros išlikęs didžiojo altoriaus kryžius."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -89,15 +88,11 @@ Nenurodyta
     da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
     bet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš­
     likęs didžiojo altoriaus kryžius^2 ).
-  citata_rodoma: |
-    Bet ši katedra 1399 metais sudegė. Ta­
-    da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
-    bet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš­
-    likęs didžiojo altoriaus kryžius^2 ).
+  citata_rodoma: "Bet ši katedra 1399 metais sudegė. Ta-\nda Vytautas buvo pastatęs naują gotiško stiliaus katedrą,\nbet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš-\nlikęs didžiojo altoriaus kryžius^2 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11542
+    - t-002

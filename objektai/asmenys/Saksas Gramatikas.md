@@ -31,7 +31,6 @@ Narbuto kritikuojamo autoriaus prielaidoje Saksas Gramatikas sąvoka Estiorum te
 
 <a id="claim-t-191315"></a>
 - t-001
-  global_id: t-191315
   teiginys: "Narbuto kritikuojamo autoriaus prielaidoje Saksas Gramatikas sąvoka Estiorum terrae apėmė kraštą, kuriame buvusi Rotala."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbuto kritikuojamo autoriaus prielaidoje Saksas Gramatikas sąvoka Estiorum te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191315
+    - t-001

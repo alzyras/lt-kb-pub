@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-02540"></a>
 - t-001
-  global_id: t-02540
   teiginys: "Spalio 1-2 d. lenkai netoli Lazdijų sumušė Lietuvos kariuomenės dalį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,14 +63,11 @@ media_all_json: |-
     nuo savųjų. Pagaliau ėjo kiti nepasisekimai: spalių mėn. 1—2 d.
     lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4
     d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį.
-  citata_rodoma: |
-    Pagaliau ėjo kiti nepasisekimai: spalių mėn. 1—2 d.
-    lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4
-    d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį.
+  citata_rodoma: "Pagaliau ėjo kiti nepasisekimai: spalių mėn. 1—2 d.\nlenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4\nd. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02540
+    - t-001

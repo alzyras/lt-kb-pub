@@ -32,7 +32,6 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
 
 <a id="claim-t-35268"></a>
 - t-001
-  global_id: t-35268
   teiginys: "Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
 
 <a id="claim-t-188604"></a>
 - t-002
-  global_id: t-188604
   teiginys: "Narbutas Prokopą vaizduoja kaip Polocko kunigaikščio patikėtinį ir išdaviką, kurį Treniota pasiuntė į Polocką po Tautvilos nužudymo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -67,7 +65,7 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171493
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Prokopą vaizduoja kaip Polocko kunigaikščio patikėtinį ir išdaviką, kurį Treniota pasiuntė į Polocką po Tautvilos nužudymo.'
@@ -89,8 +87,7 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188604
+
 ## Citatos
 
 - id: c-38115
@@ -106,19 +103,15 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
     riavo su Zigmantu, bet husitų eilėms retėjant, pradėjo derybas
     su popiežium ir už tą buvo išvytas iš Čekijos. Tuo ir užsibaigė
     šie lietuvių santykiai su husitais.
-  citata_rodoma: |
-    Kaributas savo valia buvo dar
-    kartą išvykęs į Čekiją ir, susidėjęs su čekų vadu Prokopu, ka­
-    riavo su Zigmantu, bet husitų eilėms retėjant, pradėjo derybas
-    su popiežium ir už tą buvo išvytas iš Čekijos. Tuo ir užsibaigė
-    šie lietuvių santykiai su husitais.
+  citata_rodoma: "Kaributas savo valia buvo dar\nkartą išvykęs į Čekiją ir, susidėjęs su čekų vadu Prokopu, ka­\nriavo su Zigmantu, bet husitų eilėms retėjant, pradėjo derybas\nsu popiežium ir už tą buvo išvytas iš Čekijos. Tuo ir užsibaigė\nšie lietuvių santykiai su husitais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35268
+    - t-001
+
 - id: c-171493
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -136,22 +129,11 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
     3 Iš esmės tą pačią Jogailaičių dinastijos genealogiją randu kuni­
     go Jono Kanto Boreišos Jėzaus Draugijos lotyniškame pamoksle (ran­
     kraštyje), sakytame 1689 metais, šv.
-  citata_rodoma: |
-    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
-    jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
-    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
-    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
-    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
-    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
-    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
-    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­
-    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
-    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
-    imtus bajorus.
+  citata_rodoma: "Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,\njo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­\ntas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­\nbius, likusius po to turtingo kunigaikščio, kadangi nužudė ir\ndu jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­\nniota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus\nkeršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­\nkokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­\nsiuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­\njį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­\nimtus bajorus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188604
+    - t-002

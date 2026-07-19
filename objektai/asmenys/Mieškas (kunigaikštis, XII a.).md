@@ -41,7 +41,6 @@ Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo V
 
 <a id="claim-t-201405"></a>
 - t-001
-  global_id: t-201405
   teiginys: "Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo Vladislovo, Mieško, Henriko ir Kazimiero, kurie, nekakindamos tuo pa dalijimu, lig tėvui nustipus, lig sūnūs sukeršto."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,9 @@ Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo V
 ## Citatos
 
 - id: c-184755
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Yra raštuose randama, jog tą metą Vsevolodas,
     kunigaikštis Naugardo, kariavęs su lietuviais ir ana- 1135
@@ -77,4 +77,4 @@ Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201405
+    - t-001

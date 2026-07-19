@@ -31,7 +31,6 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
 
 <a id="claim-t-65847"></a>
 - t-001
-  global_id: t-65847
   teiginys: "Liublino seime lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai siekė išlaikyti abiejų valstybių savarankiškumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
 
 <a id="claim-t-193113"></a>
 - t-002
-  global_id: t-193113
   teiginys: "Grįžę į seimą, lietuviai dar ilgai kovojo, stengdamiesi išsiderėti sau palankesnes sąlygas, ir reikalavo grąžinti atplėštąsias žemes, tačiau, karaliui palaikant lenkus, buvo priversti nusileisti."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -71,21 +69,15 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
     per kurias vienų kitiems buvo pasakyta daug karčių žodžių,
     lietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo
     1 d.).
-  citata_rodoma: |
-    Kaip Varšuvos seime
-    (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-
-    tybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,
-    kad abidvi valstybės pasiliktų savarankiškos. Po ilgokų derybų,
-    per kurias vienų kitiems buvo pasakyta daug karčių žodžių,
-    lietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo
-    1 d.).
+  citata_rodoma: "Kaip Varšuvos seime\n(1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-\ntybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,\nkad abidvi valstybės pasiliktų savarankiškos. Po ilgokų derybų,\nper kurias vienų kitiems buvo pasakyta daug karčių žodžių,\nlietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo\n1 d.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65847
+    - t-001
+
 - id: c-175873
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -113,4 +105,4 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193113
+    - t-002

@@ -32,7 +32,6 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
 
 <a id="claim-t-70270"></a>
 - t-001
-  global_id: t-70270
   teiginys: "Kęstutis su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius, kai šie nesitraukė ir naikino miestus bei apylinkes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -42,7 +41,6 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
 
 <a id="claim-t-70271"></a>
 - t-002
-  global_id: t-70271
   teiginys: "Partizaniško karo metu Vytautas sunaikino kryžiuočių maisto atsargas, o Kęstučio ir Vytauto būriai puolė besitraukiančius kryžiuočius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,15 +65,15 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
     padarė su ja sutartis, tačiau kryžiuočiai vis dėlto nesitraukė; ne-
     pajėgdami paimti pilių, jie naikino miestus ir apylinkes. Tada
     Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
-  citata_rodoma: |
-    Tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
+  citata_rodoma: "Tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70270
+    - t-001
+
 - id: c-69325
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -93,21 +91,11 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
     žygio savo kraštą pasiekė vos
     maži išbadėjusios ir sušalusios
     jų kariuomenės likučiai.
-  citata_rodoma: |
-    Kryžiuočiai ėmė trauktis; Vy-
-    tautas tuo tarpu buvo sunaiki-
-    nęs jų atgaliniam kely paruoštą
-    maisto atsargą, ir jų kariuome-
-    nėje kilo badas. Kęstučio ir
-    Vytauto būriai puolė kryžiuo-
-    čius kur galėdami, ir iš didelio
-    žygio savo kraštą pasiekė vos
-    maži išbadėjusios ir sušalusios
-    jų kariuomenės likučiai.
+  citata_rodoma: "Kryžiuočiai ėmė trauktis; Vy-\ntautas tuo tarpu buvo sunaiki-\nnęs jų atgaliniam kely paruoštą\nmaisto atsargą, ir jų kariuome-\nnėje kilo badas. Kęstučio ir\nVytauto būriai puolė kryžiuo-\nčius kur galėdami, ir iš didelio\nžygio savo kraštą pasiekė vos\nmaži išbadėjusios ir sušalusios\njų kariuomenės likučiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70271
+    - t-002

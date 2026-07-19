@@ -31,7 +31,6 @@ Narbutas Agatemerą pateikia kaip senovės graikų rašytojų pavyzdį, maniusi�
 
 <a id="claim-t-192585"></a>
 - t-001
-  global_id: t-192585
   teiginys: "Narbutas Agatemerą pateikia kaip senovės graikų rašytojų pavyzdį, maniusių, kad žemė yra apvali, o jos viduryje buvo Graikija."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Narbutas Agatemerą pateikia kaip senovės graikų rašytojų pavyzdį, maniusi�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192585
+    - t-001

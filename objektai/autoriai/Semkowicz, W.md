@@ -40,7 +40,6 @@ Semkowicz, W.
 
 <a id="claim-t-30979"></a>
 - t-001
-  global_id: t-30979
   teiginys: "W. Semkowiczius parašė darbą „Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi“, paskelbtą 1930 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,17 +72,11 @@ Semkowicz, W.
     483 p. — (”) Veidu į Katalikų Bažnyčią , Židinys, nr. 4, 1937, 441-453 p.
     — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­
     ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f.
-  citata_rodoma: |
-    — Semkowicz, W. : Pierwsze
-    przywileje fundacyjne Witolda dla Kościoła na Żmudzi , KH, t. 44, 1930,
-    348-355 p. — Springmann, K. : Polen und der deutsche Orden zur Zeit
-    des Koustanzer Konzils , Diss. Freiburg i. Br. 1923. — Sužiedėlis, S. :
-    Vytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-
-    483 p.
+  citata_rodoma: "— Semkowicz, W. : Pierwsze\nprzywileje fundacyjne Witolda dla Kościoła na Żmudzi , KH, t. 44, 1930,\n348-355 p. — Springmann, K. : Polen und der deutsche Orden zur Zeit\ndes Koustanzer Konzils , Diss. Freiburg i. Br. 1923. — Sužiedėlis, S. :\nVytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-\n483 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30979
+    - t-001

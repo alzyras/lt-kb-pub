@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185691"></a>
 - t-001
-  global_id: t-185691
   teiginys: "Augustas Lenkijoje susitiko su tėvu Žygimantu ir paprašė pritarti santuokai su Barbora Radvilaite."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-196132"></a>
 - t-002
-  global_id: t-196132
   teiginys: "Augustas liepė nutiesti takelį iš karaliaus pilies į Barboros Radvilaitės sodus ir tiltuką per Vilnios upę, kad galėtų greičiau ją lankyti."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Nenurodyta
 
 <a id="claim-t-196133"></a>
 - t-003
-  global_id: t-196133
   teiginys: "Augustas Lenkijoje paprašė karaliaus Žygimanto nepykti ir pritarti jo santuokai su Barbora Radvilaite, apie kurią nenorėjo, kad tėvai sužinotų iš kitų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -127,8 +124,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185691
-    - t-196132
+    - t-001
+    - t-002
+
 - id: c-178550
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -159,4 +157,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196133
+    - t-003

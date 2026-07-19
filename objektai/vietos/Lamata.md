@@ -32,25 +32,16 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
 ## Teiginiai
 
 <a id="claim-t-58584"></a>
-- t-001
-  global_id: t-58584
+- t-002
   teiginys: "Lamata buvo į šiaurę nuo Nemuno žemupio, tikriausiai tarp Skalvos ir Kuršo."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuršas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lamata: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kuršas: mention_match, place, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lamata\" parinktas kaip owner_note_path. Targetas \"Kuršas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59217
-    - c-002
+    - c-59216
+
 <a id="claim-t-58585"></a>
-- t-002
-  global_id: t-58585
+- t-001
   teiginys: "Lamatos žemė minima kaip Nemuno pakrantėje gyvenusių lietuvių srities riba nuo Neries upės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -84,8 +75,7 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58584
+
 ## Citatos
 
 - id: c-59216
@@ -102,22 +92,16 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
     iš mūsų pusės — Aukštaičių ir Žemaičių kraštas, Pskovas ir visi rusų [kraštai], kurie
     yra mūsų valdžioje (PUB, 2, 1, Nr. 418, p. 301; GL, Nr. 8, p. 69; popiežiaus bulės
     tekste — LUB, 2, Nr. 693, p. 151).
-  citata_rodoma: |
-    Vargu ar įmanoma tiksliai surašyti, kiek
-    sykių jis stojo prieš juos  į kovą. Trumpai kalbant, jis taip ryžtingai kariavo, kad per
-    šešerius metus, kada vadovavo šiai piliai, privertė visus lietuvius, gyvenusius Nemuno
-    pakrantėje, nuo Neries upės iki Lamatos žemės546, laikytis taikos su krikščionimis, bet
-
-    Lethovinorum rex), o toliau konstatuojama: Štai kraštai, kuriuose mes nustatėme taiką:
-    iš mūsų pusės — Aukštaičių ir Žemaičių kraštas, Pskovas ir visi rusų [kraštai], kurie
-    yra mūsų valdžioje (PUB, 2, 1, Nr.
+  citata_rodoma: "Vargu ar įmanoma tiksliai surašyti, kiek\nsykių jis stojo prieš juos  į kovą. Trumpai kalbant, jis taip ryžtingai kariavo, kad per\nšešerius metus, kada vadovavo šiai piliai, privertė visus lietuvius, gyvenusius Nemuno\npakrantėje, nuo Neries upės iki Lamatos žemės546, laikytis taikos su krikščionimis, bet\n\nLethovinorum rex), o toliau konstatuojama: Štai kraštai, kuriuose mes nustatėme taiką:\niš mūsų pusės — Aukštaičių ir Žemaičių kraštas, Pskovas ir visi rusų [kraštai], kurie\nyra mūsų valdžioje (PUB, 2, 1, Nr."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58585
+    - t-002
+    - t-001
+
 - id: c-59217
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -135,15 +119,9 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
     taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė į
     Bartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš
     Libencelės su visa jų šeimyna.
-  citata_rodoma: |
-    546 D.— ad terram Lamotinam, Jer.— an daz lendil Lamotîn. Lamata buvo  į šiaurę
-    nuo Nemuno žemupio, matyt, tarp Skalvos ir Kuršo, nes XIII a. viduryje žemės į šiaurę
-    nuo Priegliaus išvardijamos tokia tvarka: Scalewo, Lammato, Curlandia (SRP, 1, p. 737;
-    SZM, p. 187—188; Łowmiański H., Studja..., 2, p. 100, 105; LAA, 3, p. 18, žemėlapis 9).
+  citata_rodoma: "546 D.— ad terram Lamotinam, Jer.— an daz lendil Lamotîn. Lamata buvo  į šiaurę\nnuo Nemuno žemupio, matyt, tarp Skalvos ir Kuršo, nes XIII a. viduryje žemės į šiaurę\nnuo Priegliaus išvardijamos tokia tvarka: Scalewo, Lammato, Curlandia (SRP, 1, p. 737;\nSZM, p. 187—188; Łowmiański H., Studja..., 2, p. 100, 105; LAA, 3, p. 18, žemėlapis 9)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-58584

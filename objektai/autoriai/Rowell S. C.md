@@ -40,7 +40,6 @@ Rowell S.
 
 <a id="claim-t-19466"></a>
 - t-001
-  global_id: t-19466
   teiginys: "S. C. Rowellas parašė veikalą „Lithuania ascending“ apie pagonišką imperiją Rytų ir Vidurio Europoje 1295–1345 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,12 +67,11 @@ Rowell S.
     Wiesbaden, 2006. 329 p.
     Rowell S. C. Lithuania ascending: a pagan empire within east-central Europe,
     1295–1345.
-  citata_rodoma: |
-    Rowell S. C. Lithuania ascending: a pagan empire within east-central Europe,
+  citata_rodoma: "Rowell S. C. Lithuania ascending: a pagan empire within east-central Europe,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19466
+    - t-001

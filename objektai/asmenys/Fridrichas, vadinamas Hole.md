@@ -39,7 +39,6 @@ Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais p
 
 <a id="claim-t-60280"></a>
 - t-001
-  global_id: t-60280
   teiginys: "Fridrichas, vadinamas Hole, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą, o grįždamas iš Kirsnavos valsčiaus buvo nukautas su 30 vyrų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60280
+    - t-001

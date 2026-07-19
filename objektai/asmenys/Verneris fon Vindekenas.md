@@ -31,7 +31,6 @@ Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomi
 
 <a id="claim-t-186265"></a>
 - t-001
-  global_id: t-186265
   teiginys: "Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomis grūmėsi su pėsčiu riteriu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomi
 
 <a id="claim-t-196625"></a>
 - t-002
-  global_id: t-196625
   teiginys: "Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčias kovėsi su riteriu ir sužeistas pateko į nelaisvę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,8 @@ Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186265
-    - t-196625
+    - t-001
+    - t-002
+
 ## Ryšiai
 - Verneris fon Vindekenas puolė [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

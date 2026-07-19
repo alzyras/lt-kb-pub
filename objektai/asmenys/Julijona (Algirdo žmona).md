@@ -42,8 +42,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
 ## Teiginiai
 
 <a id="claim-t-12183"></a>
-- t-001
-  global_id: t-12183
+- t-007
   teiginys: "Julijona, Algirdo žmona, viešpatavo Vitebske ir mirė 1392 m."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - c-15317
 
 <a id="claim-t-176506"></a>
-- t-002
-  global_id: t-176506
+- t-004
   teiginys: "Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - c-160510
 
 <a id="claim-t-176507"></a>
-- t-003
-  global_id: t-176507
+- t-010
   teiginys: "Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -96,8 +93,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - c-160513
 
 <a id="claim-t-176509"></a>
-- t-004
-  global_id: t-176509
+- t-005
   teiginys: "Remiantis Torno analų žinia, Julijonos įtaka aiškinamas Jogailos atsisakymas judėti pas magistrą."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -113,8 +109,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - c-160509
 
 <a id="claim-t-176510"></a>
-- t-005
-  global_id: t-176510
+- t-009
   teiginys: "Julijona, Vitebsko kunigaikštytė, buvo antroji Algirdo žmona ir Polocko kunigaikščio Andriaus motina."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,8 +125,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - c-160511
 
 <a id="claim-t-176511"></a>
-- t-006
-  global_id: t-176511
+- t-001
   teiginys: "Julijoną su Rytų Bažnyčia siejo praeitis, tradicijos, tautybė ir jos giminės stačiatikių šventieji."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -147,8 +141,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - c-15946
 
 <a id="claim-t-176512"></a>
-- t-007
-  global_id: t-176512
+- t-003
   teiginys: "Ivinskio veikale Julijona tiesiogiai pristatoma kaip Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -165,7 +158,6 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
 
 <a id="claim-t-176514"></a>
 - t-008
-  global_id: t-176514
   teiginys: "Algirdas buvo vedęs Vitebsko kunigaikštytę Julijoną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -216,7 +208,8 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12183
+    - t-007
+
 - id: c-15946
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -235,7 +228,8 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176511
+    - t-001
+
 - id: c-160506
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -253,26 +247,15 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
     o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
     gas. Jau Algirdo viešpatavimo pradžioje Šv.
-  citata_rodoma: |
-    V\lre- tis buvęs Kęstudo karių suduptas.
-    26
-
-    ## Puslapis 43
-
-    I  KNYGA
-    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
-    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
-    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
-    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
-    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
-    gas. Jau Algirdo viešpatavimo pradžioje Šv.
+  citata_rodoma: "V\\lre- tis buvęs Kęstudo karių suduptas.\n26\n\n## Puslapis 43\n\nI  KNYGA\nkrikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­\nko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte \nMarija, sekdamas Gedimino politika, leido, be skirtumo, iš \nRomos atsiųstiems vienuoliams Vilniuje skelbti evangeliją, \no graikų apeigų dvasininkams atlikti savo tikėjimo apei­\ngas. Jau Algirdo viešpatavimo pradžioje Šv."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176514
+    - t-008
+
 - id: c-160507
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -284,17 +267,15 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir
     metropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės
     kunigaikščio Aleksandro dukterį Julijoną^15.
-  citata_rodoma: |
-    Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir
-    metropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės
-    kunigaikščio Aleksandro dukterį Julijoną^15.
+  citata_rodoma: "Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir\nmetropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės\nkunigaikščio Aleksandro dukterį Julijoną^15."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176512
+    - t-003
+
 - id: c-160509
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -310,7 +291,8 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176509
+    - t-005
+
 - id: c-160510
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -327,20 +309,15 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
     bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
     taryba tėra paminėta Žemaičių dovanojimo dokumente.
-  citata_rodoma: |
-    Visose trijose Jogailos ir
-    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
-    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
-    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
-    bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
-    taryba tėra paminėta Žemaičių dovanojimo dokumente.
+  citata_rodoma: "Visose trijose Jogailos ir\nSlorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi\nkiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,\nKarigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs\nbei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio\ntaryba tėra paminėta Žemaičių dovanojimo dokumente."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176506
+    - t-004
+
 - id: c-160511
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -368,7 +345,8 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176510
+    - t-009
+
 - id: c-160513
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -384,14 +362,11 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta
     ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —
     pastangomis.
-  citata_rodoma: |
-    Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta
-    ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —
-    pastangomis.
+  citata_rodoma: "Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta\nne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —\npastangomis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176507
+    - t-010

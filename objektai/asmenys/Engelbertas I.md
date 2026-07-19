@@ -40,7 +40,6 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
 
 <a id="claim-t-60110"></a>
 - t-001
-  global_id: t-60110
   teiginys: "Markos grafas Engelbertas su Julicho grafu ir didele kariuomene 1262 m. sausio 21 d. atvyko į Karaliaučiaus pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
 
 <a id="claim-t-184060"></a>
 - t-002
-  global_id: t-184060
   teiginys: "1262 m. sausio 21 d. Engelbertas, Julicho ir Markos grafas, su stipria kariuomene atvyko į Karaliaučių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60110
+    - t-001
+
 - id: c-167445
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -120,4 +119,4 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184060
+    - t-002

@@ -34,22 +34,6 @@ media_all_json: |-
 
 Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui.
 
-## Teiginiai
-
-<a id="claim-t-194839"></a>
-- t-001
-  global_id: t-194839
-  teiginys: "Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177235
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui.'
@@ -63,8 +47,7 @@ Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žage
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194839
+
 ## Citatos
 
 - id: c-177235
@@ -80,14 +63,26 @@ Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žage
     mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens,
     šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę
     rasti Lydos apskrityje.
-  citata_rodoma: |
-    9 Pono Kozakovskio 1840 metų sausio 27 dienos informacija iš
-    Kurėnų. Taip pat atsiuntė ir daug iškasenų. Didesnę dalį jis atidavė
-    Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*.
+  citata_rodoma: "9 Pono Kozakovskio 1840 metų sausio 27 dienos informacija iš\nKurėnų. Taip pat atsiuntė ir daug iškasenų. Didesnę dalį jis atidavė\nLvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194839
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-194839"></a>
+- t-001
+  teiginys: "Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-177235

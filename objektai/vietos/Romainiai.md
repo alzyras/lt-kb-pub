@@ -3,11 +3,13 @@ tipas: vieta
 pavadinimas: 'Romainiai'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)'
 datos:
   - '1294 m.'
   - '1384 m.'
+  - '1580 m.'
 date_start: '1294'
-date_end: '1384'
+date_end: '1580'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,7 +17,7 @@ tags:
   - gyvenvietė
 amziai:
   - 'XIII'
-  - 'XIV'
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -33,13 +35,12 @@ media_all_json: |-
 
 ## Santrauka
 
-Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai minimas Lietuvos karalius Gediminas (Gedeminne, de koning van Lethowen; Gedeminus, Romainiai, kuris pagal jų papročius buvo laikomas šventuoju543, o visus gyventojus paėmė į nelaisvę arba išžudė. Dusburgietis teigia, kad — Rômein; kryžiuočių kelių aprašymuose (1384 m.) — Romeyn, Romayn (SRP, 2, p. 695); Romainiai, kair.
+Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš senovės lietuvių Romuvų. Balińskio manymu, po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai tikriausiai buvo perkelti iš Romainių į Vilnių. Nuo 1580 m. Vijūkai minimi Romainių Vijūkų lauke; jie pirko ir pardavė nedideles žemės valdas, sudarė kitus sandorius ir buvo kitų bajorų liudininkai.
 
 ## Teiginiai
 
 <a id="claim-t-84712"></a>
-- t-001
-  global_id: t-84712
+- t-003
   teiginys: "Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš senovės lietuvių Romuvų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +56,7 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
     - c-80846
 
 <a id="claim-t-84714"></a>
-- t-002
-  global_id: t-84714
+- t-004
   teiginys: "Balińskio manymu, po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai tikriausiai buvo perkelti iš Romainių į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,6 +73,25 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
   temporalinis_llm_pakomentavimas: "Cituojama autoriaus prielaida, todėl reikia aiškios atribucijos."
   pagrindžia:
     - c-80847
+
+<a id="claim-t-202356"></a>
+- t-001
+  teiginys: "Nuo 1580 m. Vijūkai minimi Romainių Vijūkų lauke; jie pirko ir pardavė nedideles žemės valdas, sudarė kitus sandorius ir buvo kitų bajorų liudininkai."
+  atnaujinta: "2026-07-19 12:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romainiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romainiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185703
 - susijęs iš [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.).md#claim-t-55130|Romainių šventvietės sunaikinimas (1294 m.)]]: 1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius.
 - susijęs iš [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.).md#claim-t-55131|Romainių šventvietės sunaikinimas (1294 m.)]]: Balińskio manymu, po Romainių sunaikinimo Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais galėjo būti perkelti į Vilnių.
 - susijęs iš [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.).md#claim-t-81827|Romainių šventvietės sunaikinimas (1294 m.)]]: 1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius.
@@ -108,25 +127,15 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
     nama gyvenvietė, o šventovės ir
     šventos girios buvo saugomos galin­
     gos tvirtovės.
-  citata_rodoma: |
-    Tas
-    Romuvas sunaikino kryžiuočiai, už­
-    ėmę Prūsiją; tačiau nežinia, ar kitos,
-    ar tos pačios iš anos žemės perkel­
-    tos, buvo pačioje Lietuvoje, prie
-    Kauno, ant Nevėžio kranto, .būtent
-    toj vietoj, kur dabar Romainiai. XIII
-    amžiuje tai buvo labai tankiai gyve­
-    nama gyvenvietė, o šventovės ir
-    šventos girios buvo saugomos galin­
-    gos tvirtovės.
+  citata_rodoma: "Tas \nRomuvas sunaikino kryžiuočiai, už­\nėmę Prūsiją; tačiau nežinia, ar kitos, \nar tos pačios iš anos žemės perkel­\ntos, buvo pačioje Lietuvoje, prie \nKauno, ant Nevėžio kranto, .būtent \ntoj vietoj, kur dabar Romainiai. XIII \namžiuje tai buvo labai tankiai gyve­\nnama gyvenvietė, o šventovės ir \nšventos girios buvo saugomos galin­\ngos tvirtovės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84712
+    - t-003
+
 - id: c-80847
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -163,4 +172,14 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84714
+    - t-004
+
+- id: c-185703
+  šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
+  puslapiai: "PDF 5-6"
+  indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 5-6."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-19 12:22"
+  pagrindzia:
+    - t-001

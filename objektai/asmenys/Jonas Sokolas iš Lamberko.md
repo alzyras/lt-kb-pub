@@ -28,35 +28,19 @@ media_all_json: |-
 
 Jonas Sokolas iš Lamberko, vadintas Sokolu Čeku, vadovavo čekų ir moraviečių algininkų daliniui Žalgirio mūšyje.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194136"></a>
-- t-001
-  global_id: t-194136
-  teiginys: 'Jonas Sokolas iš Lamberko, vadintas Sokolu Čeku, vadovavo čekų ir moraviečių algininkų daliniui Žalgirio mūšyje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pastabos fragmentas perrašytas į pilną sakinį apie asmens vaidmenį. Neįtraukta neigiamo teiginio apie Lenkijos kariuomenės vadovybę.'
-  pagrindžia:
-    - c-176749
-
-## Citatos
-
-- id: c-176749
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Jonas Sokolas iš Lamberko, vadintas Sokolu Čeku, vadovavo čekų ir moraviečių algininkų daliniui Žalgirio mūšyje.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     * Sokolas Čekas — tai Jonas Soko'as iš Lamberko (m. I410.IX).
     Jis nebuvo vyriausiuoju Lenkijos kariuomenės vadu („didžiuoju
     etmonu"), o  vadovavo lik čekų ir moraviečlų algininkų daliniui,
     kovojusiam Žalgirio m ūšyje prieš vokiečius Lenkijos kariuomenės
     sudėtyje.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:45"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194136
+  statusas: not_found

@@ -31,7 +31,6 @@ Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau 
 
 <a id="claim-t-185476"></a>
 - t-001
-  global_id: t-185476
   teiginys: "Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau nebelieti krikščionių kraujo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185476
+    - t-001

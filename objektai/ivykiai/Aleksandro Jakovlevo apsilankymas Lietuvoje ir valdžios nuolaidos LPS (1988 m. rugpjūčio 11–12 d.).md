@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-75091"></a>
 - t-001
-  global_id: t-75091
   teiginys: "Po Aleksandro Jakovlevo pastabų LKP vadovybei partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-75092"></a>
 - t-002
-  global_id: t-75092
   teiginys: "Po Aleksandro Jakovlevo apsilankymo Lietuvoje valdžia pripažino trispalvę ir „Tautišką giesmę“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,18 +94,12 @@ Nenurodyta
     aliai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio
     parke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę
     leisti laikraštį ir nuolatinę televizijos laidą.
-  citata_rodoma: |
-    LKP vadovybei Aleksan-
-    dras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, –
-    partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, ofici-
-    aliai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio
-    parke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę
-    leisti laikraštį ir nuolatinę televizijos laidą.
+  citata_rodoma: "LKP vadovybei Aleksan-\ndras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, –\npartija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, ofici-\naliai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio\nparke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę\nleisti laikraštį ir nuolatinę televizijos laidą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75091
-    - t-75092
+    - t-001
+    - t-002

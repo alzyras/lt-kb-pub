@@ -37,7 +37,6 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
 
 <a id="claim-t-40861"></a>
 - t-001
-  global_id: t-40861
   teiginys: "Bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus, vadovavo Vincentas Gonsievskis, Povilas Sapiega, Kristupas ir Mykolas Pacai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
 
 <a id="claim-t-183652"></a>
 - t-002
-  global_id: t-183652
   teiginys: "Bajorų konfederacija kovojo prieš švedus ir jų sąjungininkus, deklaravo ištikimybę Lenkijai ir Jonui Kazimierui Vazai."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -94,20 +92,15 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
     vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
     Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
     kariuomenės.
-  citata_rodoma: |
-    Prieš švedus ir jų sąjungininkus taip pat
-    kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-
-    vusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,
-    vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
-    Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
-    kariuomenės.
+  citata_rodoma: "Prieš švedus ir jų sąjungininkus taip pat\nkovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-\nvusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,\nvadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,\nKristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos\nkariuomenės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40861
+    - t-001
+
 - id: c-167044
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -126,6 +119,7 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183652
+    - t-002
+
 ## Ryšiai
 - Bajorų konfederacija kariavo prieš [[objektai/grupes/Švedai]]

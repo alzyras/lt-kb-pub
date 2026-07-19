@@ -30,8 +30,7 @@ Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“ r
 ## Teiginiai
 
 <a id="claim-t-40862"></a>
-- t-001
-  global_id: t-40862
+- t-002
   teiginys: "Baltų kovų brolija „Vilkatlakai“ rekonstravo XIII-XIV a. pradžios lietuvių karį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“ r
     - c-42648
 
 <a id="claim-t-40863"></a>
-- t-002
-  global_id: t-40863
+- t-001
   teiginys: "Baltų kovų brolija „Vilkatlakai“ rekonstravo X-XI a. Vakarų Europos dviašmenį kalaviją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,8 @@ Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“ r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40862
+    - t-002
+
 - id: c-44724
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -87,13 +86,11 @@ Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“ r
     p. 23, Tik Lietuvai būdingi dvinariai žąslai su skersinukais. Rusiai. vDKM, Artūro Užgalio nuotr.
     p. 23, X-xI a. Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“
     rekonstrukcija, Giedrės Maksimovicz nuotr.
-  citata_rodoma: |
-    p. 23, X-xI a. Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“
-    rekonstrukcija, Giedrės Maksimovicz nuotr.
+  citata_rodoma: "p. 23, X-xI a. Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“\nrekonstrukcija, Giedrės Maksimovicz nuotr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40863
+    - t-001

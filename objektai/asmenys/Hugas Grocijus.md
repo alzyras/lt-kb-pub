@@ -31,7 +31,6 @@ Hugas Grocijus, tirdamas budinų kolonijas Prūsijoje, citavo Geropijų Bekaną 
 
 <a id="claim-t-191417"></a>
 - t-001
-  global_id: t-191417
   teiginys: "Hugas Grocijus, tirdamas budinų kolonijas Prūsijoje, citavo Geropijų Bekaną kaip autorių, kuris, Narbuto vertinimu, aiškino istorinę tiesą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Hugas Grocijus, tirdamas budinų kolonijas Prūsijoje, citavo Geropijų Bekaną 
 
 <a id="claim-t-197753"></a>
 - t-002
-  global_id: t-197753
   teiginys: "Hugas Grocijus, tyręs budinu ko lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs tyrimai paaiškina istorinę tiesą; tas autorius buvo Geropijus Bekanas3."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,8 @@ Hugas Grocijus, tirdamas budinų kolonijas Prūsijoje, citavo Geropijų Bekaną 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191417
+    - t-001
+
 - id: c-179325
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -108,4 +107,4 @@ Hugas Grocijus, tirdamas budinų kolonijas Prūsijoje, citavo Geropijų Bekaną 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197753
+    - t-002

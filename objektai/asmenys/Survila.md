@@ -39,8 +39,7 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
 ## Teiginiai
 
 <a id="claim-t-82730"></a>
-- t-001
-  global_id: t-82730
+- t-003
   teiginys: "1365 m. Survila, artimas Kęstučio sūnaus Butauto giminaitis, pabėgo ir Karaliaučiuje buvo pakrikštytas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
 
 <a id="claim-t-82731"></a>
 - t-002
-  global_id: t-82731
   teiginys: "1365 m. Vinrichas Kniprodė Karaliaučiuje pakrikštijo Survilą ir Butautą, pasinaudojęs jų pabėgimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
     - c-79175
 
 <a id="claim-t-82732"></a>
-- t-003
-  global_id: t-82732
+- t-001
   teiginys: "Survila 1365 m. liepos 25 d. kartu su Butautu pabėgo į Karaliaučių."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -128,7 +125,8 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82732
+    - t-001
+
 - id: c-79175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -143,22 +141,15 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
     tuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­
     deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir
     Maišiagalos, priartėjo prie Vilniaus pilių.
-  citata_rodoma: |
-    Pirmą kartą 1365 m., kai di­
-    dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
-    sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
-    sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
-    liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
-    tuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­
-    deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir
-    Maišiagalos, priartėjo prie Vilniaus pilių.
+  citata_rodoma: "Pirmą kartą 1365 m., kai di­\ndysis Prūsijos magistras Vinrichas Kniprodė, naudodama­\nsis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio\nsūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­\nliaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­\ntuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­\ndeginęs visus valsčius nuo Labūnavos iki pat Kernavės ir\nMaišiagalos, priartėjo prie Vilniaus pilių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82731
+    - t-002
+
 - id: c-79176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -173,18 +164,11 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
     sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
     liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
     tuvą21.
-  citata_rodoma: |
-    Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
-    miestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­
-    dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
-    sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
-    sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
-    liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
-    tuvą21.
+  citata_rodoma: "Laimė, kad šio valdovo narsa visada valiodavo išgelbėti \nmiestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­\ndysis Prūsijos magistras Vinrichas Kniprodė, naudodama­\nsis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio \nsūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­\nliaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­\ntuvą21."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82730
+    - t-003

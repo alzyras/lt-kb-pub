@@ -39,7 +39,6 @@ Antonovič, V.
 
 <a id="claim-t-29450"></a>
 - t-001
-  global_id: t-29450
   teiginys: "V. B. Antonovič su D. J. Ilovaiskiu 1887 m. Tarnopolyje paskelbė darbą apie Lietuvos Didžiąją Kunigaikštystę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Antonovič, V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29450
+    - t-001

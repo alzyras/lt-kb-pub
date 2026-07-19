@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186768"></a>
-- t-001
-  global_id: t-186768
+- t-002
   teiginys: "Kazimieras Jogailaitis nuo 1492 m. gegužės 16 d. buvo Gardine."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -79,8 +78,7 @@ Nenurodyta
     - c-169971
 
 <a id="claim-t-186769"></a>
-- t-002
-  global_id: t-186769
+- t-001
   teiginys: "Kazimieras Jogailaitis po 1492 m. gegužės 8 d. Trakuose susirgo vidurių liga keliaudamas iš Vilniaus į Gardiną."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -110,15 +108,12 @@ Nenurodyta
     4 Karalius Kazimieras susirgo Vidurių liga po 1492.V.8 Trakuo­
     se, kelionėje Iš Vilniaus j Gardiną. Tikrai buvo Gardine nuo 1492 m.
     gegužės 16 d. (F. Papėe, Polska i Litwa. I, p. 404).
-  citata_rodoma: |
-    4  Karalius Kazimieras susirgo Vidurių liga po 1492.V.8 Trakuo­
-    se, kelionėje Iš Vilniaus j Gardiną. Tikrai buvo G ardine nuo 1492 m.
-    gegužės 16 d. (F. Papėe, Polska i Litwa. I, p. 404).
+  citata_rodoma: "4  Karalius Kazimieras susirgo Vidurių liga po 1492.V.8 Trakuo­\nse, kelionėje Iš Vilniaus j Gardiną. Tikrai buvo G ardine nuo 1492 m. \ngegužės 16 d. (F. Papėe, Polska i Litwa. I, p. 404)."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186768
-    - t-186769
+    - t-002
+    - t-001

@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54279"></a>
-- t-001
-  global_id: t-54279
+- t-006
   teiginys: "Lietuviai Vilniuje įkūrė Lietuvių dailės draugiją ir pradėjo rengti viešas dailės parodas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-55167
 
 <a id="claim-t-54280"></a>
-- t-002
-  global_id: t-54280
+- t-004
   teiginys: "Vilniuje įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija telkė skirtingas tautinio sąjūdžio aplinkas."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Nenurodyta
     - c-55166
 
 <a id="claim-t-54281"></a>
-- t-003
-  global_id: t-54281
+- t-005
   teiginys: "Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija leido mokslinius tęstinius leidinius ir buvo viena kitos kolektyvinės narės."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -110,8 +107,7 @@ Nenurodyta
     - c-55165
 
 <a id="claim-t-54282"></a>
-- t-004
-  global_id: t-54282
+- t-002
   teiginys: "Abi draugijos leido mokslinius tęstinius leidinius ir buvo viena kitos kolektyvinės narės."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -127,8 +123,7 @@ Nenurodyta
     - c-55165
 
 <a id="claim-t-54283"></a>
-- t-005
-  global_id: t-54283
+- t-001
   teiginys: "Nepavykus atkurti Vilniaus universiteto, Lietuvoje įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -148,8 +143,7 @@ Nenurodyta
     - c-55166
 
 <a id="claim-t-54284"></a>
-- t-006
-  global_id: t-54284
+- t-003
   teiginys: "Vilniuje lietuviai pirmieji įkūrė Lietuvių dailės draugiją, o vėliau atskirą Vilniaus dailės draugiją įsteigė vietiniai dailininkai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -181,24 +175,16 @@ Nenurodyta
     draugijos leido mokslinius tęsti-
     nius leidinius. Beje, abi jos buvo
     viena kitos kolektyviniai nariai.
-  citata_rodoma: |
-    Abi draugijos daug dėmesio skyrė
-    praeičiai, LDK paveldui, bet Lie-
-    tuvių draugija ypač orientavosi į
-    lietuvių kalbos ir etninės kultūros
-    tyrimus, mokyklinių vadovėlių
-    lietuvių mokykloms rengimą. Abi
-    draugijos leido mokslinius tęsti-
-    nius leidinius. Beje, abi jos buvo
-    viena kitos kolektyviniai nariai.
+  citata_rodoma: "Abi draugijos daug dėmesio skyrė \npraeičiai, LDK paveldui, bet Lie-\ntuvių draugija ypač orientavosi į \nlietuvių kalbos ir etninės kultūros \ntyrimus, mokyklinių vadovėlių \nlietuvių mokykloms rengimą. Abi \ndraugijos leido mokslinius tęsti-\nnius leidinius. Beje, abi jos buvo \nviena kitos kolektyviniai nariai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54281
-    - t-54282
+    - t-005
+    - t-002
+
 - id: c-55166
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -213,24 +199,16 @@ Nenurodyta
     jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
     plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
     telkusi lenkiškai kalbančiuosius.
-  citata_rodoma: |
-    Be to, etnografi-
-    nės Lietuvos miestuose didžiausia tautinė grupė buvo žydai, o gatvėse po
-    1905 m. lenkų kalba nustūmė rusų kalbą į antrąją vietą.
-    Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizaci-
-    jos. Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
-    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
-    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
-    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
-    telkusi lenkiškai kalbančiuosius.
+  citata_rodoma: "Be to, etnografi-\nnės Lietuvos miestuose didžiausia tautinė grupė buvo žydai, o gatvėse po \n1905 m. lenkų kalba nustūmė rusų kalbą į antrąją vietą. \nLygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizaci-\njos. Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos \n1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad \njame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija, \nplėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija, \ntelkusi lenkiškai kalbančiuosius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54280
-    - t-54283
+    - t-004
+    - t-001
+
 - id: c-55167
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -246,22 +224,12 @@ Nenurodyta
     lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją. Kai
     kas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-
     džiama priklausyti ir abiem tuo pat metu.
-  citata_rodoma: |
-    Dailės ir vaizduojamojo me-
-    no bei architektūros srityje taip
-    pat pastebėtas draugijų paraleliz-
-    mas. Lietuviai pirmieji Vilniuje
-    įkūrė Lietuvių dailės draugiją, pra-
-    dėjo rengti viešas dailės parodas,
-    bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių
-    lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją. Kai
-    kas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-
-    džiama priklausyti ir abiem tuo pat metu.
+  citata_rodoma: "Dailės ir vaizduojamojo me- \nno bei architektūros srityje taip \npat pastebėtas draugijų paraleliz-\nmas. Lietuviai pirmieji Vilniuje \nįkūrė Lietuvių dailės draugiją, pra-\ndėjo rengti viešas dailės parodas, \nbet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių \nlietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją. Kai \nkas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-\ndžiama priklausyti ir abiem tuo pat metu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54279
-    - t-54284
+    - t-006
+    - t-003

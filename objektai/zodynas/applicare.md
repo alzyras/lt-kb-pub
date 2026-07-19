@@ -37,7 +37,6 @@ Lyginant įvairius laiko tekstus, kur vengrų kanceliarijoje buvo vartojamas ter
 
 <a id="claim-t-32758"></a>
 - t-001
-  global_id: t-32758
   teiginys: "Vengrų kanceliarijoje vartotas terminas „applicare“ Ivinskio aiškinimu reiškė tapimą lenininku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,15 +73,11 @@ Lyginant įvairius laiko tekstus, kur vengrų kanceliarijoje buvo vartojamas ter
     kad tas žodis tereiškė tapimą lenininku.
     1385 m. aktas todėl neparodo inkorporacijos, o greičiau busimą
     leno santykį didžiosios Lietuvos kunigaikštijos ir karūnos.
-  citata_rodoma: |
-    Lyginant įvairius laiko tekstus, kur vengrų
-    kanceliarijoje buvo vartojamas terminas «applicare», išryškėjo,
-    kad tas žodis tereiškė tapimą lenininku.
-    1385 m.
+  citata_rodoma: "Lyginant įvairius laiko tekstus, kur vengrų\nkanceliarijoje buvo vartojamas terminas «applicare», išryškėjo,\nkad tas žodis tereiškė tapimą lenininku.\n1385 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32758
+    - t-001

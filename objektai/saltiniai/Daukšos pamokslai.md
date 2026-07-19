@@ -36,7 +36,6 @@ Daukša pamokslus, visam metui išgul dęs, išspaudė metuose 1599.
 
 <a id="claim-t-201449"></a>
 - t-001
-  global_id: t-201449
   teiginys: "Daukša pamokslus, visam metui išgul dęs, išspaudė metuose 1599."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,9 @@ Daukša pamokslus, visam metui išgul dęs, išspaudė metuose 1599.
 ## Citatos
 
 - id: c-184799
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nedaug tepasigirs ir krikščionys ateinančioms
     kartoms savo išminčia ir dorybe, kurie, tapę jau nuo
@@ -68,4 +68,4 @@ Daukša pamokslus, visam metui išgul dęs, išspaudė metuose 1599.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201449
+    - t-001

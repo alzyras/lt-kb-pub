@@ -51,8 +51,7 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
 ## Teiginiai
 
 <a id="claim-t-54792"></a>
-- t-001
-  global_id: t-54792
+- t-003
   teiginys: "Teutonų teisė Lenkijos miestų kontekste siejama su atleidimu nuo duoklių, krašto teisės prievolių, sava teisėtvarka ir atskiru miesto valdymu."
   atnaujinta: "2026-05-27 07:20"
   sprendimo_priezastis: "gap::vocabulary"
@@ -68,8 +67,7 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
     - c-55790
 
 <a id="claim-t-54793"></a>
-- t-002
-  global_id: t-54793
+- t-001
   teiginys: "Municipaliniai liudijimai buvo miestų ir jų feodalinių valdovų taikos sutartys, kuriose miestai dažnai diktuodavo sąlygas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::vocabulary"
@@ -78,8 +76,7 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
     - c-55791
 
 <a id="claim-t-54794"></a>
-- t-003
-  global_id: t-54794
+- t-002
   teiginys: "Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik šimtmečiu aplenkė Prancūzijos miestų teisėtvarką."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::vocabulary"
@@ -114,20 +111,15 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
     lių ir krašto teisės prievolių, savo pačių teisėtvarką ir atskirą
     miesto valdymą, jau buvo galingi ir reikšmingi vietinės civili­
     zacijos požiūriu.
-  citata_rodoma: |
-    Išsi­
-    laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­
-    tai, sykiu su teutonų teise suvieniję atleidimą nuo įvairių duok­
-    lių ir krašto teisės prievolių, savo pačių teisėtvarką ir atskirą
-    miesto valdymą, jau buvo galingi ir reikšmingi vietinės civili­
-    zacijos požiūriu.
+  citata_rodoma: "Išsi­\nlaisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­\ntai, sykiu su teutonų teise suvieniję atleidimą nuo įvairių duok­\nlių ir krašto teisės prievolių, savo pačių teisėtvarką ir atskirą \nmiesto valdymą, jau buvo galingi ir reikšmingi vietinės civili­\nzacijos požiūriu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54792
+    - t-003
+
 - id: c-55791
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -144,20 +136,15 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
     municipaliniai liudijimai būdavo tik taikos sutartys, kur
     dažniausiai nugalėtojai, tai yra miestai, diktuodavo sąlygas nu­
     galėtiems baronams.
-  citata_rodoma: |
-    Šimtą metų tęsėsi vis aršesni ginčai
-    tarp tų dviejų luomų ir baigėsi miestų bendruomenių pergale
-    prieš jų feodalinius valdovus. Pastarųjų miestams suteikiami
-    municipaliniai liudijimai būdavo tik taikos sutartys, kur
-    dažniausiai nugalėtojai, tai yra miestai, diktuodavo sąlygas nu­
-    galėtiems baronams.
+  citata_rodoma: "Šimtą metų tęsėsi vis aršesni ginčai \ntarp tų dviejų luomų ir baigėsi miestų bendruomenių pergale \nprieš jų feodalinius valdovus. Pastarųjų miestams suteikiami \nmunicipaliniai liudijimai būdavo tik taikos sutartys, kur \ndažniausiai nugalėtojai, tai yra miestai, diktuodavo sąlygas nu­\ngalėtiems baronams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54793
+    - t-001
+
 - id: c-55792
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -175,20 +162,11 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
     nuo vis dar grėsmingų maurų. Municipaliniai nuostatai Kas­
     tilijoje, žinomi jau nuo 1020 metų, beveik vienu amžiumi ap­
     lenkė Prancūzijos miestų teisėtvarką.
-  citata_rodoma: |
-    Ta­
-    čiau Kastilijos miestiečiai nepirkįnėjo iš savo ponų jokių privi­
-    legijų, jų kūrimosi pradžia buvo netgi garbingesnė: mat
-    Ispanijoje kūrėsi miestų municipalitetai ir, remiantis senuoju
-    vestgotų Kodeksu, pareigūnams buvo suteikiama ypatingų tei­
-    sių, vien tik norint sustiprinti gynybos priemones saugantis
-    nuo vis dar grėsmingų maurų. Municipaliniai nuostatai Kas­
-    tilijoje, žinomi jau nuo 1020 metų, beveik vienu amžiumi ap­
-    lenkė Prancūzijos miestų teisėtvarką.
+  citata_rodoma: "Ta­\nčiau Kastilijos miestiečiai nepirkįnėjo iš savo ponų jokių privi­\nlegijų, jų kūrimosi pradžia buvo netgi garbingesnė: mat \nIspanijoje kūrėsi miestų municipalitetai ir, remiantis senuoju \nvestgotų Kodeksu, pareigūnams buvo suteikiama ypatingų tei­\nsių, vien tik norint sustiprinti gynybos priemones saugantis \nnuo vis dar grėsmingų maurų. Municipaliniai nuostatai Kas­\ntilijoje, žinomi jau nuo 1020 metų, beveik vienu amžiumi ap­\nlenkė Prancūzijos miestų teisėtvarką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54794
+    - t-002

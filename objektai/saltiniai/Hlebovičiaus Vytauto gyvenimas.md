@@ -30,7 +30,6 @@ Teodoras Narbutas Hlebovičiaus „Vytauto gyvenimą“ nurodė ginčydamas pož
 
 <a id="claim-t-191839"></a>
 - t-001
-  global_id: t-191839
   teiginys: "Teodoras Narbutas Hlebovičiaus „Vytauto gyvenimą“ nurodė ginčydamas požiūrį, kad senesnės kronikų žinios apie lietuvių gentis tėra išmonė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Teodoras Narbutas Hlebovičiaus „Vytauto gyvenimą“ nurodė ginčydamas pož
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191839
+    - t-001

@@ -28,7 +28,6 @@ media_all_json: |-
 
 <a id="claim-t-200797"></a>
 - t-001
-  global_id: t-200797
   teiginys: "Šv. Mykolo bažnyčia apibūdinama kaip nedidelė bažnyčia netoli Šv. Onos ir Bernardinų bažnyčių."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200797
+    - t-001

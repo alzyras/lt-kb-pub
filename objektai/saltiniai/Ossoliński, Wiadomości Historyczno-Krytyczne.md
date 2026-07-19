@@ -30,7 +30,6 @@ Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda�
 
 <a id="claim-t-88322"></a>
 - t-001
-  global_id: t-88322
   teiginys: "Ossolińskis veikale „Wiadomości Historyczno-Krytyczne“ patvirtino, kad eilėmis buvo šlovinamas Rotundas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -40,7 +39,6 @@ Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda�
 
 <a id="claim-t-88323"></a>
 - t-002
-  global_id: t-88323
   teiginys: "Ossolińskis veikale „Wiadomości Historyczno-Krytyczne“ aprašė Goslickio gyvenimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +62,8 @@ Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88323
+    - t-002
+
 - id: c-84302
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -83,4 +82,4 @@ Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88322
+    - t-001

@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-18849"></a>
 - t-001
-  global_id: t-18849
   teiginys: "1427 m. Baziliui II buvo žygiuojama į Maskvą padėti, ir tam pakako vien jėgos demonstravimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,12 +68,11 @@ media_all_json: |-
     problemai. XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
     kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
     Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą.
-  citata_rodoma: |
-    Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą.
+  citata_rodoma: "Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18849
+    - t-001

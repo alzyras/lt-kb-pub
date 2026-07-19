@@ -31,7 +31,6 @@ Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo.
 
 <a id="claim-t-187286"></a>
 - t-001
-  global_id: t-187286
   teiginys: "Pasak Lietuvos metraščio, lenkai Petrakave sušaukė seimą ir nusprendė kviesti Jogailą savo karalystės valdovu."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -70,15 +69,11 @@ Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo.
     seimą5 ir tame seime nusprendė imti didįjį kunigaikštį
     Jogailą savo karalystės valdovu, su sąlyga, kad jis su­
     9!
-  citata_rodoma: |
-    Ir sugalvoję išvarė tą
-    Pamario kunigaikštį iš savo žemės, sušaukė Petrakave
-    seimą5  ir tame seime nusprendė imti didįjį kunigaikštį
-    Jogailą savo karalystės valdovu.
+  citata_rodoma: "Ir sugalvoję išvarė tą \nPamario kunigaikštį iš savo žemės, sušaukė Petrakave \nseimą5  ir tame seime nusprendė imti didįjį kunigaikštį \nJogailą savo karalystės valdovu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187286
+    - t-001

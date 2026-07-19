@@ -32,7 +32,6 @@ Ir Vy­ tautas, matyt, nepasitikėdamas gerais santykiais su Lenkija, ta­ rytum
 
 <a id="claim-t-34294"></a>
 - t-001
-  global_id: t-34294
   teiginys: "Vytautas, bijodamas Lenkijos kultūrinės ir politinės hegemonijos, siekė pusiausvyros gerais santykiais su kaimynais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Ir Vy­ tautas, matyt, nepasitikėdamas gerais santykiais su Lenkija, ta­ rytum
 
 <a id="claim-t-184242"></a>
 - t-002
-  global_id: t-184242
   teiginys: "Autoriaus vertinimu, Vytautas pabūgo Lenkijos kultūrinės ir politinės hegemonijos ir ieškojo pusiausvyros santykiuose su kaimynais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -95,7 +93,8 @@ Ir Vy­ tautas, matyt, nepasitikėdamas gerais santykiais su Lenkija, ta­ rytum
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34294
+    - t-001
+
 - id: c-167626
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -115,4 +114,4 @@ Ir Vy­ tautas, matyt, nepasitikėdamas gerais santykiais su Lenkija, ta­ rytum
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184242
+    - t-002

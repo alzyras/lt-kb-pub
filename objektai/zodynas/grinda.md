@@ -31,9 +31,8 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
 
 <a id="claim-t-58848"></a>
 - t-001
-  global_id: t-58848
   teiginys: "Prie grindos ir dabartinio vieškelio broliai sutvirtino malūną kaip pilį ir paliko jame sargybą."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Malūnas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -45,10 +44,9 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59481
-    - c-002
+
 <a id="claim-t-58849"></a>
 - t-002
-  global_id: t-58849
   teiginys: "Prie Baigos per vandenis ir pelkę ėjęs grįstas kelias buvo greičiausiai panašus į žemaičių kūlgrindas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58848
+
 ## Citatos
 
 - id: c-59480
@@ -95,7 +92,8 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58849
+    - t-002
+
 - id: c-59481
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -107,15 +105,11 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
     atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė,
     kuo vardu jų pilis. Kai jiems atsakė, jog Engelsbergas, tai yra Angelų kalnas, šie atrėžė:
     „Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai“.
-  citata_rodoma: |
-    už pelkės tilto prie grindos247, prie dabartinio vieškelio, ir tą malūną sutvirtino nelyginant
-    pilį, palikdami jame du brolius ir daug ginklanešių jam saugoti. Šią pilį neilgai trukus
-    prūsai užkariavo, apsiautę ją su didele kariuomene, ir, išžudę brolius bei ginklanešius,
-    pavertė pelenais.
+  citata_rodoma: "už pelkės tilto prie grindos247, prie dabartinio vieškelio, ir tą malūną sutvirtino nelyginant\npilį, palikdami jame du brolius ir daug ginklanešių jam saugoti. Šią pilį neilgai trukus\nprūsai užkariavo, apsiautę ją su didele kariuomene, ir, išžudę brolius bei ginklanešius,\npavertė pelenais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58848
+    - t-001

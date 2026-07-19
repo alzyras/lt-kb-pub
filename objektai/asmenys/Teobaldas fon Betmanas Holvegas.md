@@ -39,7 +39,6 @@ Vokietijos kancleris Teobaldas fon Betmanas Holvegas (Theobald von Bethmann Holl
 
 <a id="claim-t-26429"></a>
 - t-001
-  global_id: t-26429
   teiginys: "Teobaldas fon Betmanas Holvegas 1916 m. balandį Reichstage pareiškė, kad Vokietija negrąžins Rusijai žmonių, gyvenančių nuo Baltijos jūros iki Voluinės pelkių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Vokietijos kancleris Teobaldas fon Betmanas Holvegas (Theobald von Bethmann Holl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26429
+    - t-001

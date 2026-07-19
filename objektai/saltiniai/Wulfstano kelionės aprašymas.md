@@ -34,7 +34,6 @@ Rimvydas Laužikas Wulfstano pasakojimą nurodo kaip ankstyviausią rašytinį �
 
 <a id="claim-t-200748"></a>
 - t-001
-  global_id: t-200748
   teiginys: "Rimvydas Laužikas Wulfstano pasakojimą nurodo kaip ankstyviausią rašytinį šaltinį apie Lietuvos gėrimų vartojimo papročius."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,5 @@ Rimvydas Laužikas Wulfstano pasakojimą nurodo kaip ankstyviausią rašytinį �
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200748
+    - t-001

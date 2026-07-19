@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-100031"></a>
 - t-001
-  global_id: t-100031
   teiginys: "Dėl Andriaus Algirdaičio sukilimo Jogailos padėtis pasunkėjo, todėl jis ieškojo artimesnio ryšio su kryžiuočiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,4 +104,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100031
+    - t-001

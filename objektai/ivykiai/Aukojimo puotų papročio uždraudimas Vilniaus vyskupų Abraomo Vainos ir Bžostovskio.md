@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-192025"></a>
 - t-001
-  global_id: t-192025
   teiginys: "Narbutas rašo, kad piktnaudžiavimas stipriaisiais gėrimais Vilniaus vyskupą Abraomą Vainą paskatino uždrausti ir likviduoti aukojimo puotų paprotį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -72,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-192026"></a>
 - t-002
-  global_id: t-192026
   teiginys: "Narbutas nurodo, kad Vilniaus vyskupas Bžostovskis 1710 m. dar matė aukojimo puotų paprotį ir griežtai jį uždraudė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -111,22 +109,12 @@ Nenurodyta
     griežtai
     jį
     uždraudė2.
-  citata_rodoma: |
-    Vėliau piktnaudžiavimas stipriaisiais gėrimais, kuriuos tikriausiai pristatydavo Izraelio sūnūs ir kurie tais laikais labiau iš­
-    plito, Vilniaus vyskupą Abraomą Vainą paskatino uždrausti ir
-    visiškai likviduoti tą paprotį'. Bet jis išliko iki XVII amžiaus pra­
-    džios, nes Vilniaus vyskupas Bžostovskis dar 1710 metais tą pa­
-    protį
-    matė
-    ir
-    griežtai
-    jį
-    uždraudė2.
+  citata_rodoma: "Vėliau piktnaudžiavimas stipriaisiais gėrimais, kuriuos tikriausiai pristatydavo Izraelio sūnūs ir kurie tais laikais labiau iš­\nplito, Vilniaus vyskupą Abraomą Vainą paskatino uždrausti ir\nvisiškai likviduoti tą paprotį'. Bet jis išliko iki XVII amžiaus pra­\ndžios, nes Vilniaus vyskupas Bžostovskis dar 1710 metais tą pa­\nprotį\nmatė\nir\ngriežtai\njį\nuždraudė2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192025
-    - t-192026
+    - t-001
+    - t-002

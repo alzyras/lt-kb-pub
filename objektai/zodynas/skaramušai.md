@@ -61,7 +61,6 @@ Terminas pavartotas apibūdinti artėjančių Užgavėnių minios antplūdžiui 
 
 <a id="claim-t-200570"></a>
 - t-001
-  global_id: t-200570
   teiginys: "1751 m. žodis „skaramušai“ Jono Dominyko Lopacinskio laiške pavartotas ironiškai apie į Vilnių prieš Užgavėnes pribėgusius juokdarius."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -92,20 +91,8 @@ Terminas pavartotas apibūdinti artėjančių Užgavėnių minios antplūdžiui 
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 12"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 12."
-  citata_originali: |
-    1757 m. kanauninkas pranešė, kad Vilniuje rengiamas karnavalas, kuriame ketinąs
-    dalyvauti Mykolas Kazimieras Radvila Žuvelė [49]. Beje, karnavalus jis kartais minėjo su
-    ironija. 1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių
-    pribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas
-    yra kanauninko mūriniame name [17].
-  citata_rodoma: |
-    1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių
-    pribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas
-    yra kanauninko mūriniame name [17].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200570
+    - t-001

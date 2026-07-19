@@ -36,7 +36,6 @@ Remiantis Torno analų žinia, dar gali būti samprotaujama, kad Jogaila atsisak
 
 <a id="claim-t-31941"></a>
 - t-001
-  global_id: t-31941
   teiginys: "Torno analų žinia leido samprotauti, kad Jogaila pas magistrą nevyko paveiktas Julijonos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,17 +68,11 @@ Remiantis Torno analų žinia, dar gali būti samprotaujama, kad Jogaila atsisak
     butų pakrikštyta lotynų apeigomis.
     Į karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas
     turėjo labiau susidomėti Vytautu ir jį palaikyti.
-  citata_rodoma: |
-    Remiantis Torno analų
-    žinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis
-    pas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva
-    butų pakrikštyta lotynų apeigomis.
-    Į karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas
-    turėjo labiau susidomėti Vytautu ir jį palaikyti.
+  citata_rodoma: "Remiantis Torno analų\nžinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis\npas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva\nbutų pakrikštyta lotynų apeigomis.\nĮ karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas\nturėjo labiau susidomėti Vytautu ir jį palaikyti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31941
+    - t-001

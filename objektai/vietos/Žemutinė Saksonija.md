@@ -31,7 +31,6 @@ Narbutas rašo, kad Žemutinėje Saksonijoje buvo akmenų su ženklais, panašia
 
 <a id="claim-t-189094"></a>
 - t-001
-  global_id: t-189094
   teiginys: "Narbutas rašo, kad Žemutinėje Saksonijoje buvo akmenų su ženklais, panašiais į rastus Lietuvos, Pamario ir lužitėnų kraštuose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ Narbutas rašo, kad Žemutinėje Saksonijoje buvo akmenų su ženklais, panašia
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171982
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Žemutinėje Saksonijoje buvo akmenų su ženklais, panašiais į rastus Lietuvos, Pamario ir lužitėnų kraštuose.'
@@ -67,8 +66,7 @@ Narbutas rašo, kad Žemutinėje Saksonijoje buvo akmenų su ženklais, panašia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189094
+
 ## Citatos
 
 - id: c-171982
@@ -89,18 +87,11 @@ Narbutas rašo, kad Žemutinėje Saksonijoje buvo akmenų su ženklais, panašia
     džiaugsmo raktą, tad jo reikšmė aiški, nes raktas kiekvieno
     dievo rankoje nusako jo valdžią, o pats raktas įgauna reikšmę
     nuo vietos, kurioje pavaizduotas.
-  citata_rodoma: |
-    Sako, kad lietuviai kaimiečiai
-    šitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­
-    se. Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių
-    senovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje
-    tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak­
-    sonijoje ir lužitėnų krašte. Todėl ne be pagrindo darome išva­
-    dą, kad tai buvo deivės Velionos aukurai.
+  citata_rodoma: "Sako, kad lietuviai kaimiečiai\nšitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­\nse. Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių\nsenovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje\ntikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak­\nsonijoje ir lužitėnų krašte. Todėl ne be pagrindo darome išva­\ndą, kad tai buvo deivės Velionos aukurai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189094
+    - t-001

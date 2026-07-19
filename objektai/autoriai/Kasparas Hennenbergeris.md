@@ -38,7 +38,6 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
 
 <a id="claim-t-190305"></a>
 - t-001
-  global_id: t-190305
   teiginys: "Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų vienaakių žmonių prie Šventainės upės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
 
 <a id="claim-t-190306"></a>
 - t-002
-  global_id: t-190306
   teiginys: "Narbutas rašo, kad Hennenbergeris XVI a. pabaigoje minėjo prie Rusnės, Sakininkų kaime, augusią didžiulę liepą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -83,7 +81,6 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
 
 <a id="claim-t-197309"></a>
 - t-003
-  global_id: t-197309
   teiginys: "Kasparas Hennenbergeris žinojo daug liaudies padavimų ir burtininkų, arba lietuvių bardų, dainų."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -96,7 +93,6 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
 
 <a id="claim-t-197310"></a>
 - t-004
-  global_id: t-197310
   teiginys: "Kasparas Hennenbergeris buvo labai piktas, todėl jį laikydavo visokio blogio kaltininku."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -130,7 +126,8 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190305
+    - t-001
+
 - id: c-173189
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -148,7 +145,8 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190306
+    - t-002
+
 - id: c-179121
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -171,7 +169,8 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197309
+    - t-003
+
 - id: c-179122
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -190,4 +189,4 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197310
+    - t-004

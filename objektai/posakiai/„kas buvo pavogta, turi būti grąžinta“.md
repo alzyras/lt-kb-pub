@@ -31,7 +31,6 @@ Landsbergis atkakliai ir tvirtai paisė tik moralios politikos principų – „
 
 <a id="claim-t-77847"></a>
 - t-001
-  global_id: t-77847
   teiginys: "V. Landsbergis Kovo 11 Akto atšaukimo reikalavimą atmetė remdamasis principu, kad „kas buvo pavogta, turi būti grąžinta“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,17 +60,11 @@ Landsbergis atkakliai ir tvirtai paisė tik moralios politikos principų – „
     SSRS vadovybė su M. Gorbačiovu priešakyje ir primygtinai reikalavo
     atšaukti Kovo 11 Aktą. V. Landsbergis atkakliai ir tvirtai paisė tik mora-
     lios politikos principų – „kas buvo pavogta, turi būti grąžinta“.
-  citata_rodoma: |
-    Belaukiant tarptautinio
-    Lietuvos pripažinimo
-    Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti
-    SSRS vadovybė su M. Gorbačiovu priešakyje ir primygtinai reikalavo
-    atšaukti Kovo 11 Aktą. V. Landsbergis atkakliai ir tvirtai paisė tik mora-
-    lios politikos principų – „kas buvo pavogta, turi būti grąžinta“.
+  citata_rodoma: "Belaukiant tarptautinio  \nLietuvos pripažinimo\nApie Lietuvos nepriklausomybę nieko nenorėjo girdėti \nSSRS vadovybė su M. Gorbačiovu priešakyje ir primygtinai reikalavo \natšaukti Kovo 11 Aktą. V. Landsbergis atkakliai ir tvirtai paisė tik mora-\nlios politikos principų – „kas buvo pavogta, turi būti grąžinta“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77847
+    - t-001

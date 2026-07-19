@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-194868"></a>
 - t-001
-  global_id: t-194868
   teiginys: "Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he rulai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -62,6 +61,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-177264
@@ -80,19 +80,11 @@ media_all_json: |-
     rulai. Taip pat neabejotina, kad senovės valetabai ir lu-
     žitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­
     tuvių kartos.
-  citata_rodoma: |
-    Bet
-    šis pavadinimas aprėpė įvairias arti viena kitos taikiai
-    gyvenusias arba tam tikrai lygai priklausiusias gentis, o
-    ta Havolija plytėjo prie Havolos, Sprė ir dalies Elbės.
-    Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­
-    rulai. Taip pat neabejotina, kad senovės valetabai ir lu-
-    žitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­
-    tuvių kartos.
+  citata_rodoma: "Bet \nšis pavadinimas aprėpė įvairias arti viena kitos taikiai \ngyvenusias arba tam tikrai lygai priklausiusias gentis, o \nta Havolija plytėjo prie Havolos, Sprė ir dalies Elbės. \nŠiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­\nrulai. Taip pat neabejotina, kad senovės valetabai ir lu- \nžitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­\ntuvių kartos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194868
+    - t-001

@@ -28,7 +28,6 @@ Petro ir Pauliaus bažnyčią su įsikūrusiomis susidarančiuose priemiesčiuos
 
 <a id="claim-t-201750"></a>
 - t-001
-  global_id: t-201750
   teiginys: "Petro ir Pauliaus bažnyčią su įsikūrusiomis susidarančiuose priemiesčiuose trimis jai pavaldžiomis bažnytėlėmis-koplyčiomis (Šv."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Petro ir Pauliaus bažnyčią su įsikūrusiomis susidarančiuose priemiesčiuos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201750
+    - t-001

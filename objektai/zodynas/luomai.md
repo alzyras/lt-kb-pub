@@ -30,29 +30,8 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
 
 ## Teiginiai
 
-<a id="claim-t-185357"></a>
-- t-001
-  global_id: t-185357
-  teiginys: "Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, atsisakiusiems paklusti popiežiui."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "luomai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"luomai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168718
-
 <a id="claim-t-185358"></a>
-- t-002
-  global_id: t-185358
+- t-003
   teiginys: "Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,8 +50,7 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
     - c-168719
 
 <a id="claim-t-185359"></a>
-- t-003
-  global_id: t-185359
+- t-004
   teiginys: "Kojelavičiaus pasakojime karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką kaip kitą politinę perspektyvą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -92,8 +70,7 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
     - c-168720
 
 <a id="claim-t-196377"></a>
-- t-004
-  global_id: t-196377
+- t-008
   teiginys: "Visi Lietuvos iuvoje bažnyčios tarnai, jų valdos ir pačias privilegijas, kokias šiuo metu turi šio luomo žmo nės Lenkijoje."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -105,8 +82,7 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
     - c-168718
 
 <a id="claim-t-196378"></a>
-- t-005
-  global_id: t-196378
+- t-009
   teiginys: "Kojelavičiaus pasakojime karalius Korčine sukvietė seimą, kad karalystės luomai nuspręstų, kaip priešintis Vytauto potroškiams."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -174,35 +150,15 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
     Galop susitarė ir dėl tikė-
     tikėjimo reikalai Lie-
     jimo reikalų.
-  citata_rodoma: |
-    Be valdovo sutikimo
-    bajorai neturi teisės nei parduoti, nei dovanoti valdo­
-    nėms žymiems lietuviams tu­
-    rėti tuos pačius herbus, aišku, ne dėl to, kad lietuviams
-    anksčiau būtų stigę šitokių kilmingumo įrodymų ar šlo­
-    vingumo žymenų, nes dar ir dabar daugelis šeimų turi
-    be galo senus paveldimus giminės ženklus, kurie visai
-    nepanašūs į lenkų herbus, tačiau todėl, kad visi buvo
-    tvirtai įsitikinę, jog, skirtingoms tautoms susijungus į
-    vieną valstybę, būtų didžiai naudinga, jeigu tų dviejų
-    tautų žymiausios šeimos sietųsi nelyginant kokia gi­
-    minyste herbų panašumu.
-    Įstatymais sutvarkomi
-    Galop susitarė ir dėl tikė-
-    tikėjimo reikalai Lie-
-    jimo reikalų. Visi Lietuvos
-    iuvoje
-    bažnyčios tarnai, jų valdos ir
-    pačias privilegijas, kokias šiuo metu turi šio luomo žmo­
-    nės Lenkijoje.
+  citata_rodoma: "Be valdovo sutikimo \nbajorai neturi teisės nei parduoti, nei dovanoti valdo­\nnėms žymiems lietuviams tu­\nrėti tuos pačius herbus, aišku, ne dėl to, kad lietuviams \nanksčiau būtų stigę šitokių kilmingumo įrodymų ar šlo­\nvingumo žymenų, nes dar ir dabar daugelis šeimų turi \nbe galo senus paveldimus giminės ženklus, kurie visai \nnepanašūs į lenkų herbus, tačiau todėl, kad visi buvo \ntvirtai įsitikinę, jog, skirtingoms tautoms susijungus į \nvieną valstybę, būtų didžiai naudinga, jeigu tų dviejų \ntautų žymiausios šeimos sietųsi nelyginant kokia gi­\nminyste herbų panašumu.\nĮstatymais sutvarkomi \nGalop susitarė ir dėl tikė-\ntikėjimo reikalai Lie- \njimo reikalų. Visi Lietuvos \niuvoje \nbažnyčios tarnai, jų valdos ir\npačias privilegijas, kokias šiuo metu turi šio luomo žmo­\nnės Lenkijoje."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185357
-    - t-196377
+    - t-008
+
 - id: c-168719
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -225,24 +181,16 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
     imperatorius, apsvarstęs su Vytautu svarbiausius klau­
     simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
     iš Volynės į Vengriją.
-  citata_rodoma: |
-    Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
-    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
-    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
-    dovo reikalavimus. Vytautas,
-    Vytauto pasiuntinybė
-    kaip laisvos tautos laisvas
-    valdovas, o ne dėl to, kad
-    žiūri vien savo reikalų, taip ryžtingai reikalaująs, kad
-    karalius bei karalystės luomai pritartų jo vainikavimui.
+  citata_rodoma: "Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­\nniaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.\nLuomų susirinkime jie trumpai, bet aiškiai išdėstė val­\ndovo reikalavimus. Vytautas,\nVytauto pasiuntinybė\nkaip laisvos tautos laisvas\nvaldovas, o ne dėl to, kad\nžiūri vien savo reikalų, taip ryžtingai reikalaująs, kad\nkaralius bei karalystės luomai pritartų jo vainikavimui."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185358
-    - t-196378
+    - t-003
+    - t-009
+
 - id: c-168720
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -268,4 +216,4 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185359
+    - t-004

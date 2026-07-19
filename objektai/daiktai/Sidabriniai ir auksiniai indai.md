@@ -47,25 +47,11 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194065"></a>
-- t-001
-  global_id: t-194065
-  teiginys: 'Lietuvos metraščio pasakojime sidabriniai ir auksiniai indai buvo tarp Mindaugo dovanų Rygos magistrui Andriui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Fragmentas perrašytas į pilną sakinį apie indus ir jų kontekstą. Palikta metraščio atribucija, nepridėta daugiau nei citatoje nurodytas dovanojimas.'
-  pagrindžia:
-    - c-176678
-
-## Citatos
-
-- id: c-176678
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Lietuvos metraščio pasakojime sidabriniai ir auksiniai indai buvo tarp Mindaugo dovanų Rygos magistrui Andriui.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Rygiečiai jį priėmė su didžiausia iškilme,
     ir jis buvo pakrikštytas.
@@ -79,10 +65,8 @@ Nenurodyta
     tinius] ir davė jam daug dovanų, ir tuomi jam įsiteikė.
     Mat, pasiuntė jam daug aukso ir sidabro bei gražių
     sidabrinių ir auksinių indų ir daug žirgų.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:45"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194065
+  statusas: not_found

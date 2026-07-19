@@ -44,8 +44,7 @@ Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius. 19
 ## Teiginiai
 
 <a id="claim-t-63313"></a>
-- t-001
-  global_id: t-63313
+- t-002
   teiginys: "Sigitas Tamkevičius 1978 m. Maskvoje pranešė užsienio žurnalistams apie Lietuvoje įkurtą Tikinčiųjų teisių gynimo komitetą."
   atnaujinta: "2026-05-30 14:17"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius. 19
     - c-64351
 
 <a id="claim-t-63314"></a>
-- t-002
-  global_id: t-63314
+- t-001
   teiginys: "Sigitas Tamkevičius buvo pirmasis 1972 m. pradėtos leisti „Lietuvos katalikų bažnyčios kronikos“ redaktorius."
   atnaujinta: "2026-05-30 14:17"
   sprendimo_priezastis: "auto"
@@ -98,17 +96,15 @@ Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius. 19
     Grupė dvasininkų 1972 m. kovo 19 d. pradėjo leisti katalikišką leidinį „Lie-
     tuvos katalikų bažnyčios kronika“. Pirmasis jos redaktorius buvo tuomet
     Simne dirbęs kun. Sigitas Tamkevičius.
-  citata_rodoma: |
-    Grupė dvasininkų 1972 m. kovo 19 d. pradėjo leisti katalikišką leidinį „Lie-
-    tuvos katalikų bažnyčios kronika“. Pirmasis jos redaktorius buvo tuomet
-    Simne dirbęs kun. Sigitas Tamkevičius.
+  citata_rodoma: "Grupė dvasininkų 1972 m. kovo 19 d. pradėjo leisti katalikišką leidinį „Lie-\ntuvos katalikų bažnyčios kronika“. Pirmasis jos redaktorius buvo tuomet\nSimne dirbęs kun. Sigitas Tamkevičius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63314
+    - t-001
+
 - id: c-64351
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -131,24 +127,11 @@ Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius. 19
     kuriomis valstybėje naudojasi
     ateistai, o kulto laisvė praktikoje
     varžoma.
-  citata_rodoma: |
-    1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tam-
-    kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio
-    žurnalistams pranešė, kad lap-
-    kričio 13 dieną Lietuvoje įkurtas
-    Tikinčiųjų teisių gynimo komi-
-    tetas (TTGK) (jam dar priklau-
-    sė kunigai Jonas Kauneckas ir
-    Vincentas Vėlavičius), kuris kėlė
-    religinės diskriminacijos proble-
-    mą – tikintieji neturi tų teisių,
-    kuriomis valstybėje naudojasi
-    ateistai, o kulto laisvė praktikoje
-    varžoma.
+  citata_rodoma: "1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tam-\nkevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio\nžurnalistams pranešė, kad lap-\nkričio 13 dieną Lietuvoje įkurtas\nTikinčiųjų teisių gynimo komi-\ntetas (TTGK) (jam dar priklau-\nsė kunigai Jonas Kauneckas ir\nVincentas Vėlavičius), kuris kėlė\nreliginės diskriminacijos proble-\nmą – tikintieji neturi tų teisių,\nkuriomis valstybėje naudojasi\nateistai, o kulto laisvė praktikoje\nvaržoma."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63313
+    - t-002

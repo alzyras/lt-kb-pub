@@ -31,8 +31,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
 ## Teiginiai
 
 <a id="claim-t-86164"></a>
-- t-001
-  global_id: t-86164
+- t-002
   teiginys: "Per puolimą Žemutinėje pilyje liepsna apėmė medinius statinius, aptvarus ir užkardas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     - c-82144
 
 <a id="claim-t-86165"></a>
-- t-002
-  global_id: t-86165
+- t-001
   teiginys: "Žemutinė pilis driekėsi apačioje, buvo vadinta Kreivąja, o joje buvo kunigaikščių menės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86165
+    - t-001
+
 - id: c-82144
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -107,4 +106,4 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86164
+    - t-002

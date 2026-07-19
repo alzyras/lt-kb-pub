@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-50766"></a>
-- t-001
-  global_id: t-50766
+- t-002
   teiginys: "Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -57,9 +56,9 @@ media_all_json: |-
   pagrindžia:
     - c-36971
     - c-167612
+
 <a id="claim-t-50767"></a>
-- t-002
-  global_id: t-50767
+- t-001
   teiginys: "Čekų kunigai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,6 @@ media_all_json: |-
 
 <a id="claim-t-50768"></a>
 - t-003
-  global_id: t-50768
   teiginys: "1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o vėliau čekai kreipėsi į Vytautą."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,6 @@ media_all_json: |-
 
 <a id="claim-t-50769"></a>
 - t-004
-  global_id: t-50769
   teiginys: "Vytautas atsisakė su čekais susijusio sumanymo, supratęs, kad husitų siūlyta karūna galėtų per brangiai kainuoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,8 +111,7 @@ media_all_json: |-
     - c-36974
 
 <a id="claim-t-184590"></a>
-- t-005
-  global_id: t-184590
+- t-007
   teiginys: "Čekai neišsižadėjo sumanymo ir antrą kartą siuntė pasiuntinius bandyti palenkti Jogailą bei Vytautą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -127,8 +123,7 @@ media_all_json: |-
     - c-167951
 
 <a id="claim-t-196128"></a>
-- t-006
-  global_id: t-196128
+- t-008
   teiginys: "Kojelavičiaus pasakojime, kilus tikybiniams nesutarimams, čekai atsisakė klausyti Romos bažnyčios, maištavo prieš karalių ir ieškojo kaimynų paramos prieš imperatorių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -141,8 +136,7 @@ media_all_json: |-
     - c-178547
 
 <a id="claim-t-196129"></a>
-- t-007
-  global_id: t-196129
+- t-009
   teiginys: "Kojelavičiaus pasakojime čekai, po Jogailos ir Vytauto atsisakymo, toliau siekė juos palenkti, manydami, kad karaliaus vainiko troškimas įveiks atkaklumą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -300,7 +294,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50767
+    - t-001
+
 - id: c-36971
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -319,7 +314,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50766
+    - t-002
+
 - id: c-36973
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -341,7 +337,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50768
+    - t-003
+
 - id: c-36974
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -361,7 +358,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50769
+    - t-004
+
 - id: c-167612
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -377,10 +375,12 @@ media_all_json: |-
     mūšyje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-167951
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -410,20 +410,15 @@ media_all_json: |-
     tino kaimynus čekus, atsikra­
     čius teisėto valdovo valdžios,
     pasisiūlyti į valdinius.
-  citata_rodoma: |
-    Panašų atsakymą gavo jie ir iš
-    Vytauto. Tačiau čekai neišsižadėjo savo sumanymo,
-    manydami, jog troškimas gauti karaliaus vainiką įveiks
-    kiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­
-    gūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­
-    dis.
+  citata_rodoma: "Panašų atsakymą gavo jie ir iš\nVytauto. Tačiau čekai neišsižadėjo savo sumanymo,\nmanydami, jog troškimas gauti karaliaus vainiką įveiks\nkiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­\ngūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­\ndis."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184590
+    - t-007
+
 - id: c-178547
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -456,7 +451,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196128
+    - t-008
+
 - id: c-178548
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -484,4 +480,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196129
+    - t-009

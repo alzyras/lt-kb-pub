@@ -42,8 +42,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 ## Teiginiai
 
 <a id="claim-t-71848"></a>
-- t-001
-  global_id: t-71848
+- t-003
   teiginys: "Liucjanas Želigovskis lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     - c-43417
 
 <a id="claim-t-71849"></a>
-- t-002
-  global_id: t-71849
+- t-004
   teiginys: "1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami iki keturių mylių nuo Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     - c-32023
 
 <a id="claim-t-71850"></a>
-- t-003
-  global_id: t-71850
+- t-002
   teiginys: "Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     - c-43416
 
 <a id="claim-t-71851"></a>
-- t-004
-  global_id: t-71851
+- t-001
   teiginys: "1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami per keturias mylias nuo Vilniaus."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -120,7 +116,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 
 <a id="claim-t-193179"></a>
 - t-005
-  global_id: t-193179
   teiginys: "Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -166,8 +161,9 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71849
-    - t-71851
+    - t-004
+    - t-001
+
 - id: c-43416
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -182,21 +178,15 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     jinga padėtis, lenkams pasiekus savo puo-
     limo tikslą, Lietuvai būtų iškilęs pavojus
     prarasti nepriklausomybę.
-  citata_rodoma: |
-    Spalio 26-27 d. lenkai apėjo kai-
-
-    rįjį lietuvių sparną ir užėmė Giedraičius,
-    Želvą, Dubingius, Vidiškį. Susidarė pavo-
-    jinga padėtis, lenkams pasiekus savo puo-
-    limo tikslą, Lietuvai būtų iškilęs pavojus
-    prarasti nepriklausomybę.
+  citata_rodoma: "Spalio 26-27 d. lenkai apėjo kai-\n\nrįjį lietuvių sparną ir užėmė Giedraičius,\nŽelvą, Dubingius, Vidiškį. Susidarė pavo-\njinga padėtis, lenkams pasiekus savo puo-\nlimo tikslą, Lietuvai būtų iškilęs pavojus\nprarasti nepriklausomybę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71850
+    - t-002
+
 - id: c-43417
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -212,21 +202,15 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     Puolimas buvo staigus ir stiprus. Lenkų
     pajėgos priartėjo prie Videniškio,
     Gelogalių ir judėjo Balnininkų link.
-  citata_rodoma: |
-    Prieš kautynes
-
-    Sutelkęs stambias pajėgas, gen. L. Želi-
-    govskis lapkričio 17 d. auštant pradėjo
-    savo didžiąją ofenzyvą, puldamas lie-
-    tuvių 1-osios pėstininkų divizijos uži-
-    mamą barą nuo Nėries iki Dubingių.
+  citata_rodoma: "Prieš kautynes\n\nSutelkęs stambias pajėgas, gen. L. Želi-\ngovskis lapkričio 17 d. auštant pradėjo\nsavo didžiąją ofenzyvą, puldamas lie-\ntuvių 1-osios pėstininkų divizijos uži-\nmamą barą nuo Nėries iki Dubingių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71848
+    - t-003
+
 - id: c-175924
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -243,7 +227,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193179
+    - t-005
+
 ## Ryšiai
 - Puolė Dubingiai: [[objektai/grupes/Kryžiuočių ordinas]]
 - Užėmė Dubingiai: [[objektai/grupes/Lenkai]]

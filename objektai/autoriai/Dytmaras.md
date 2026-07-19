@@ -40,7 +40,6 @@ Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronik
 
 <a id="claim-t-191639"></a>
 - t-001
-  global_id: t-191639
   teiginys: "Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronikos autorius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191639
+    - t-001

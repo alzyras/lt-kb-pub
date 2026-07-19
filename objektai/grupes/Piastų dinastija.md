@@ -38,7 +38,6 @@ Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, 
 
 <a id="claim-t-34363"></a>
 - t-001
-  global_id: t-34363
   teiginys: "Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, kurie būtų kilę ne iš Piastų dinastijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34363
+    - t-001

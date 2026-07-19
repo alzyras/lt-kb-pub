@@ -46,8 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66555"></a>
-- t-001
-  global_id: t-66555
+- t-002
   teiginys: "1778 ir 1780 m. seimai pakartojo ir praplėtė gyventojų išlaidų normuojamąjį įstatymą, bet nenustatė jo vykdymo priežiūros."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Nenurodyta
     - c-66762
 
 <a id="claim-t-66556"></a>
-- t-002
-  global_id: t-66556
+- t-001
   teiginys: "1776 m. seimas priėmė gyventojų išlaidų normuojamąjį įstatymą, siekdamas mažinti importą ir remti vietinę pramonę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,17 +79,15 @@ Nenurodyta
     mundierius. 1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas
     ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi
     prižiūrėti jo vykdymą.
-  citata_rodoma: |
-    1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas
-    ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi
-    prižiūrėti jo vykdymą.
+  citata_rodoma: "1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas\nir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi\nprižiūrėti jo vykdymą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66555
+    - t-002
+
 - id: c-66763
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -106,14 +102,11 @@ Nenurodyta
     ponams buvo įsakyta savo tarnus taisyti kuo pigiausiai, o visų vai-
     vadijų bajorijai įsakyta nešioti tam tikros spalvos vietinės medžiagos
     mundierius.
-  citata_rodoma: |
-    Tad, norėdamas sumažinti im-
-    portą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų
-    išlaidų normuojamąjį įstatymą **_(lex sumptuaria)._**
+  citata_rodoma: "Tad, norėdamas sumažinti im-\nportą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų\nišlaidų normuojamąjį įstatymą **_(lex sumptuaria)._**"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66556
+    - t-001

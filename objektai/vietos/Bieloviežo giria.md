@@ -31,9 +31,8 @@ Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti s
 
 <a id="claim-t-187169"></a>
 - t-001
-  global_id: t-187169
   teiginys: "Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti stumbrų."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
@@ -70,14 +69,11 @@ Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti s
     pasiuntinius pas popiežių, prašydamas šventąjį tėvą-
     popiežių, kad jis duotų Vytautui vainiką pagal krikš­
     čionišką paprotį.
-  citata_rodoma: |
-    Paskui didysis kunigaikštis Vytautas pasikvietė ka­
-    ralių Jogailą 1  žiemai pas save į Bieloviežo girią me­
-    džioti pramogai stumbrų.
+  citata_rodoma: "Paskui didysis kunigaikštis Vytautas pasikvietė ka­\nralių Jogailą 1  žiemai pas save į Bieloviežo girią me­\ndžioti pramogai stumbrų."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187169
+    - t-001

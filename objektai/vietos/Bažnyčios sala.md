@@ -28,7 +28,6 @@ media_all_json: |-
 
 <a id="claim-t-201131"></a>
 - t-001
-  global_id: t-201131
   teiginys: "Žemgaliai, kurie buvo persikrikš tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su sinėrę kariavo meldžionis, kaipogi, aptverę kuo stipresniai pilį Mežotę, traukė į Bažnyčios salą ir tenai, krikščionis nugalavę, visą kraštą nuteriojo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184481
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Įgulė meldžionų pilės
     Mežotės, jutusi tą nuopuolį ir stokodama mitalo, iš­
@@ -59,4 +59,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201131
+    - t-001

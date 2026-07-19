@@ -8,13 +8,13 @@ datos:
   - '1568 m.'
 date_start: '1469'
 date_end: '1568'
-sukurta: ''
-atnaujinta: ''
+periodo_grupes:
+  - 'LDK'
 amziai:
   - 'XV'
   - 'XVI'
-periodo_grupes:
-  - 'LDK'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ Kitoje skrynioje dar buvo neįrištų protestantų poleminių knygų autoriaus i
 
 <a id="claim-t-202235"></a>
 - t-001
-  global_id: t-202235
   teiginys: "Kitoje skrynioje dar buvo neįrištų protestantų poleminių knygų autoriaus ir dramaturgo Vilhelmo Gnafėjaus (1493-1568) knygų."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Kitoje skrynioje dar buvo neįrištų protestantų poleminių knygų autoriaus i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202235
+    - t-001

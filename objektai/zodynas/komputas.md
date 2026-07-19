@@ -56,8 +56,7 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
 ## Teiginiai
 
 <a id="claim-t-09709"></a>
-- t-001
-  global_id: t-09709
+- t-002
   teiginys: "Komputu lenkiškai vadintas karo tarybos nustatytas karo etatas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -83,12 +82,11 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
     iš Viduržemio jūros pakrančių perkėlė į nebūna tikslus, kariuomenė būna tai stipresnė, tai silpnesnė - priklausomai nuo valstybės
     šiaurę, siekdama užvaldyti visą Vengrijos pastangų, kai prispiria reikalas, tačiau ji niekad nepasiekia 48 000 vyrų skaičiaus, kurį
     teritoriją (dalis Vengrijos jau priklausė nustatė karo taryba [etat de la guerre], lenkiškai vadinama komputu.
-  citata_rodoma: |
-    teritoriją (dalis Vengrijos jau priklausė nustatė karo taryba [etat de la guerre], lenkiškai vadinama komputu.
+  citata_rodoma: "teritoriją (dalis Vengrijos jau priklausė nustatė karo taryba [etat de la guerre], lenkiškai vadinama komputu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09709
+    - t-002

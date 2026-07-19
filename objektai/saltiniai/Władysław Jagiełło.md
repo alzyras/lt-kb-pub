@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-31993"></a>
 - t-001
-  global_id: t-31993
   teiginys: "St. Smolka ir Fr. Papée parengė tekstą „Władysław Jagiełło“, paskelbtą „Encyklopedja Polska“ V tomo 1 dalyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,13 +54,11 @@ media_all_json: |-
     —- (”) _Król Wladystaw Jagiełto,_ I-II, Kraków 1908.
     — (”) _Markward Salzbach,_ PH, t. 9, 1909, 12-28, 121-132 p. — Smolka,
     St. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1).
-  citata_rodoma: |
-    — Smolka,
-    St. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1).
+  citata_rodoma: "— Smolka,\nSt. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31993
+    - t-001

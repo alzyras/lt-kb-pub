@@ -30,7 +30,6 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
 
 <a id="claim-t-193718"></a>
 - t-001
-  global_id: t-193718
   teiginys: "Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kiekviena kalba ir kultūra yra vertingas visos žmonijos."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193718
+    - t-001

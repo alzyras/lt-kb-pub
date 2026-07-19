@@ -32,7 +32,6 @@ Tuo pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip pat jo
 
 <a id="claim-t-30339"></a>
 - t-001
-  global_id: t-30339
   teiginys: "Kuno von Hattenstein buvo Ordino maršalas ir padėjo Jogailai įveikti dėdę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,15 +60,11 @@ Tuo pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip pat jo
     Rugsėjo 14 d. mirė kitas Lietuvos ir Kęstučio kaimynas Liudvikas
     Anjou, Lenkiją ir Vengriją palikdamas neaiškioje būklėje—savo
     mažametėms dukterims ir jų būsimiems vyrams.
-  citata_rodoma: |
-    Tuo
-    pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip
-    pat jo maršalas Kuno von Hattenstein, padėjęs Jogailai įveikti dėdę.
-    Rugsėjo 14 d.
+  citata_rodoma: "Tuo\npat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip\npat jo maršalas Kuno von Hattenstein, padėjęs Jogailai įveikti dėdę.\nRugsėjo 14 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30339
+    - t-001

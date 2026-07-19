@@ -37,7 +37,6 @@ Iš Joniškio - neturtingiems studentams kasdien Olia Charitatis [labdaringi pie
 
 <a id="claim-t-86601"></a>
 - t-001
-  global_id: t-86601
   teiginys: "Iš Joniškio pajamų neturtingiems studentams kasdien buvo skiriami Olia Charitatis labdaringi pietūs ir duonos kepalas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Iš Joniškio - neturtingiems studentams kasdien Olia Charitatis [labdaringi pie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86601
+    - t-001

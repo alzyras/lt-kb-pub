@@ -44,7 +44,6 @@ istoriografija, tautos kilmės klausimai
 
 <a id="claim-t-192132"></a>
 - t-001
-  global_id: t-192132
   teiginys: "Antrojo „Lietuvių tautos istorijos“ tomo įvade „šaknų ieškojimas“ įvardijamas kaip populiari romantinės istoriografijos problema."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -81,13 +80,11 @@ istoriografija, tautos kilmės klausimai
     me ir apimtimi jis turėjo nenusileisti pirmam tomui, nes
     nagrinėjo bene populiariausią romantinės istoriografijos
     problemą — „šaknų ieškojimo“ klausimą.
-  citata_rodoma: |
-    nagrinėjo bene populiariausią romantinės istoriografijos
-    problemą — „šaknų ieškojimo“ klausimą.
+  citata_rodoma: "nagrinėjo bene populiariausią romantinės istoriografijos\nproblemą — „šaknų ieškojimo“ klausimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192132
+    - t-001

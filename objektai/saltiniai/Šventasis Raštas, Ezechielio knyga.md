@@ -30,7 +30,6 @@ Narbutas rašo, kad Ezechielio knygoje mokslininkai žodį Ross ar Russ aiškino
 
 <a id="claim-t-191865"></a>
 - t-001
-  global_id: t-191865
   teiginys: "Narbutas rašo, kad Ezechielio knygoje mokslininkai žodį Ross ar Russ aiškino kaip tautos pavadinimą, asmenvardį arba perkeltinę sąvoką."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas rašo, kad Ezechielio knygoje mokslininkai žodį Ross ar Russ aiškino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191865
+    - t-001

@@ -31,7 +31,6 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
 
 <a id="claim-t-186306"></a>
 - t-001
-  global_id: t-186306
   teiginys: "Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėjimo, kad Elena liks rusų tikėjimo ir nebus verčiama pereiti į Romos tikėjimą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
 
 <a id="claim-t-186307"></a>
 - t-002
-  global_id: t-186307
   teiginys: "Aleksandro pasiuntinius į Lietuvą palydėjo keturi didikai, turėję pagal Ivano nurodymus užbaigti derybas dėl Elenos vestuvių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,7 +69,6 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
 
 <a id="claim-t-196344"></a>
 - t-003
-  global_id: t-196344
   teiginys: "Kojelavičius perteikia nuogąstavimą, kad rusė Elena lietuviams neatneš daugiau laimės, negu graikė Elena atnešė trojėnams."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -103,31 +100,15 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
     lop būsiančios visai pražūtingos. Si, girdi, rusė, vardu
     Elena, neatneš lietuviams daugiau laimės, nei atnešė
     graikė trojėnams.
-  citata_rodoma: |
-    su
-    i s *
-    547
-
-    ## Puslapis 546
-
-    Maskvos didikais iš pradžių dėl taikos, o paskui — dėl
-    santuokos sąlygų, Dėl taikos jie šitaip susitarė: Alek-
-    į kunigaikščių Vorotinskių valdas. Kai tarėsi dėl san­
-    tuokos, pats Ivanas kuo atkakliausiai pareikalavo iš
-    Aleksandro raštiško pasižadėjimo, kad jo sužadėtinė
-    liksianti rusų tikėjimo ir kad jis niekada jos neversiąs
-    pereiti į Romos tikėjimą. Kadangi pasiuntiniai sutiko
-    su šia sąlyga, iškilmingai buvo atšvęstos sužadėtuvės,
-    per kurias, beje, Trakų vaivadai nebuvo leista atsto­
-    vauti Aleksandrui, nes jau buvo vedęs antrą žmoną,
-    todėl Goštautas atliko šį vaidmenį.
+  citata_rodoma: "su\ni s *\n547\n\n## Puslapis 546\n\nMaskvos didikais iš pradžių dėl taikos, o paskui — dėl\nsantuokos sąlygų, Dėl taikos jie šitaip susitarė: Alek-\nį kunigaikščių Vorotinskių valdas. Kai tarėsi dėl san­\ntuokos, pats Ivanas kuo atkakliausiai pareikalavo iš\nAleksandro raštiško pasižadėjimo, kad jo sužadėtinė\nliksianti rusų tikėjimo ir kad jis niekada jos neversiąs\npereiti į Romos tikėjimą. Kadangi pasiuntiniai sutiko\nsu šia sąlyga, iškilmingai buvo atšvęstos sužadėtuvės,\nper kurias, beje, Trakų vaivadai nebuvo leista atsto­\nvauti Aleksandrui, nes jau buvo vedęs antrą žmoną,\ntodėl Goštautas atliko šį vaidmenį."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186306
+    - t-001
+
 - id: c-169668
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -155,5 +136,5 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186307
-    - t-196344
+    - t-002
+    - t-003

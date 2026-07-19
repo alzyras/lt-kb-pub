@@ -31,7 +31,6 @@ Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji p
 
 <a id="claim-t-41613"></a>
 - t-001
-  global_id: t-41613
   teiginys: "Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji pakrantė („Beloberežė“)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji p
 
 <a id="claim-t-41614"></a>
 - t-002
-  global_id: t-41614
   teiginys: "Senoji Baltoji pakrantė laikyta šiaurine Juodosios jūros pakrante prie Dniepro-Bugo limano, nuo Dniepro žemupio iki Berezanės limano."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,19 +82,15 @@ Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji p
     pietinio Bugo žiočių (su Dniepro
     pakrantėmis nuo žiočių kylant
     aukščiau slenksčių).
-  citata_rodoma: |
-    Metraščių liudijimu, šalia
-    Mėlynųjų Vandenų buvo nu-
-    kariauta ir Baltoji pakrantė
-    („Beloberežė“). Tokia vietovė dar
-    x a.
+  citata_rodoma: "Metraščių liudijimu, šalia\nMėlynųjų Vandenų buvo nu-\nkariauta ir Baltoji pakrantė\n(„Beloberežė“). Tokia vietovė dar\nx a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41613
+    - t-001
+
 - id: c-45034
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -118,25 +112,11 @@ Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji p
     tas Aukso ordos valdų plotas tarp
     pietinio Bugo ir Dniestro prie
     Juodosios jūros.
-  citata_rodoma: |
-    Taigi galima teigti, kad
-    senoji Baltoji pakrantė — tai šiau-
-    rinė Juodosios jūros pakrantė prie
-    Dniepro-Bugo limano, besitę-
-    sianti nuo Dniepro žemupio iki
-    Berezanės limano į vakarus nuo
-    pietinio Bugo žiočių (su Dniepro
-    pakrantėmis nuo žiočių kylant
-    aukščiau slenksčių).
-
-    Taigi po mūšio buvo nusiaub-
-    tas Aukso ordos valdų plotas tarp
-    pietinio Bugo ir Dniestro prie
-    Juodosios jūros.
+  citata_rodoma: "Taigi galima teigti, kad\nsenoji Baltoji pakrantė — tai šiau-\nrinė Juodosios jūros pakrantė prie\nDniepro-Bugo limano, besitę-\nsianti nuo Dniepro žemupio iki\nBerezanės limano į vakarus nuo\npietinio Bugo žiočių (su Dniepro\npakrantėmis nuo žiočių kylant\naukščiau slenksčių).\n\nTaigi po mūšio buvo nusiaub-\ntas Aukso ordos valdų plotas tarp\npietinio Bugo ir Dniestro prie\nJuodosios jūros."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41614
+    - t-002

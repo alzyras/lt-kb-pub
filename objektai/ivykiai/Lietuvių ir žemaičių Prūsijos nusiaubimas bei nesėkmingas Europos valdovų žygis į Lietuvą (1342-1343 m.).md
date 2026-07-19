@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185742"></a>
 - t-001
-  global_id: t-185742
   teiginys: "Lietuviai ir žemaičiai įsiveržė į menkai saugomą Prūsiją, beveik visą kraštą nusiaubė ir pavertė pelenais."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-196206"></a>
 - t-002
-  global_id: t-196206
   teiginys: "Lietuviai ir žemaičiai, pasinaudoję Liudolfo kariuomenės išvedimu iš Prūsijos, įsiveržė į kraštą ir, Kojelavičiaus vaizdavimu, jį smarkiai nuniokojo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -121,5 +119,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185742
-    - t-196206
+    - t-001
+    - t-002

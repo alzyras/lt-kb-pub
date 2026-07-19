@@ -45,8 +45,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 ## Teiginiai
 
 <a id="claim-t-122421"></a>
-- t-001
-  global_id: t-122421
+- t-006
   teiginys: "Apsirūpinus artilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai buvo siuntinėjami po Ukrainos pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     - c-112017
 
 <a id="claim-t-122422"></a>
-- t-002
-  global_id: t-122422
+- t-007
   teiginys: "Karališkųjų muitinių valdytojai Ukrainoje naujais mokesčiais bandė varžyti iš Vilniaus gabenamų prekių prekybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     - c-112015
 
 <a id="claim-t-122425"></a>
-- t-003
-  global_id: t-122425
+- t-005
   teiginys: "Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutinių senatvės dienų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     - c-112014
 
 <a id="claim-t-122426"></a>
-- t-004
-  global_id: t-122426
+- t-008
   teiginys: "1595 m. Ukrainoje kuopai vadovavęs karys pasižymėjo malšindamas kazokų sukilimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,8 +113,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     - c-112022
 
 <a id="claim-t-122427"></a>
-- t-005
-  global_id: t-122427
+- t-010
   teiginys: "Švitrigaila po prieglobsčio Vitebske nusigavo į Ukrainą praleisti paskutinių savo senatvės dienų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -135,8 +130,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     - c-112014
 
 <a id="claim-t-122429"></a>
-- t-006
-  global_id: t-122429
+- t-004
   teiginys: "Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -153,8 +147,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     - c-43938
 
 <a id="claim-t-185168"></a>
-- t-007
-  global_id: t-185168
+- t-014
   teiginys: "Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -177,8 +170,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     - c-168529
 
 <a id="claim-t-193239"></a>
-- t-008
-  global_id: t-193239
+- t-015
   teiginys: "Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas ir didžiausias kazokų priešas."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -326,26 +318,15 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     dinių kovų draskomą Moldaviją ir Valakiją
     bei plėsti savo ekspansiją toliau į Lenkijai
     priklausiusios Ukrainos teritoriją.
-  citata_rodoma: |
-    Jie būdavo ginkluoti lankais ir
-    strėlėmis, kardais, pistoletais ir kitokiais ginklais
-
-    112
-
-    Mūšio priešistorė
-    XVI a. pabaigoje XVII a. pirmojoje pu-
-    sėje Lenkija ir Turkija kovojo dėl įtakos
-    Moldavijoje. Turkija siekė užvaldyti visą vi-
-    dinių kovų draskomą Moldaviją ir Valakiją
-    bei plėsti savo ekspansiją toliau į Lenkijai
-    priklausiusios Ukrainos teritoriją.
+  citata_rodoma: "Jie būdavo ginkluoti lankais ir\nstrėlėmis, kardais, pistoletais ir kitokiais ginklais\n\n112\n\nMūšio priešistorė\nXVI a. pabaigoje XVII a. pirmojoje pu-\nsėje Lenkija ir Turkija kovojo dėl įtakos\nMoldavijoje. Turkija siekė užvaldyti visą vi-\ndinių kovų draskomą Moldaviją ir Valakiją\nbei plėsti savo ekspansiją toliau į Lenkijai\npriklausiusios Ukrainos teritoriją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-122429
+    - t-004
+
 - id: c-112014
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -372,8 +353,9 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-122425
-    - t-122427
+    - t-005
+    - t-010
+
 - id: c-112015
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -390,22 +372,15 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     raliaus paskirtų senatorių pastangomis, išlaisvino miestą
     nuo ateityje labai nemalonaus monopolio, kuris būtų smar­
     kiai pakėlęs stiklo kainą miesto gyventojams55.
-  citata_rodoma: |
-    Karališkųjų
-    muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­
-    kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė
-    suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­
-    dė54. Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­
-    raliaus paskirtų senatorių pastangomis, išlaisvino miestą
-    nuo ateityje labai nemalonaus monopolio, kuris būtų smar­
-    kiai pakėlęs stiklo kainą miesto gyventojams55.
+  citata_rodoma: "Karališkųjų\nmuitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­\nkesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė\nsuvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­\ndė54. Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­\nraliaus paskirtų senatorių pastangomis, išlaisvino miestą\nnuo ateityje labai nemalonaus monopolio, kuris būtų smar­\nkiai pakėlęs stiklo kainą miesto gyventojams55."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-122422
+    - t-007
+
 - id: c-112017
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -421,23 +396,15 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­
     gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
     gos arkivyskupą.
-  citata_rodoma: |
-    Apsirūpinus ar­
-    tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
-    vo siuntinėjami po įvairias Lietuvos, Rusios, Voluinės,
-    Podolės ir Ukrainos pilis38. Karaliui, turinčiam tokias dide­
-    les karinės amunicijos atsargas, nesunku buvo apginkluoti
-    gausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­
-    giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­
-    gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
-    gos arkivyskupą.
+  citata_rodoma: "Apsirūpinus ar­\ntilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­\nvo siuntinėjami po įvairias Lietuvos, Rusios, Voluinės,\nPodolės ir Ukrainos pilis38. Karaliui, turinčiam tokias dide­\nles karinės amunicijos atsargas, nesunku buvo apginkluoti\ngausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­\ngiavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­\ngistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­\ngos arkivyskupą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-122421
+    - t-006
+
 - id: c-112022
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -447,18 +414,15 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     vadovaudamas kuopai, pasižymėjo malšindamas ka-
     zokų sukilimą. Veiksmuose prieš kazokus dalyvavo
     ir1596 m. 1599 m. tapo Žemaitijos seniūnu.
-  citata_rodoma: |
-    1595 m. Ukrainoje,
-    vadovaudamas kuopai, pasižymėjo malšindamas ka-
-    zokų sukilimą. Veiksmuose prieš kazokus dalyvavo
-    ir1596 m.
+  citata_rodoma: "1595 m. Ukrainoje,\nvadovaudamas kuopai, pasižymėjo malšindamas ka-\nzokų sukilimą. Veiksmuose prieš kazokus dalyvavo\nir1596 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-122426
+    - t-008
+
 - id: c-168529
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -484,7 +448,8 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185168
+    - t-014
+
 - id: c-175976
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -500,7 +465,8 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193239
+    - t-015
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]
 - Ukraina priklausė [[objektai/vietos/Lenkija]]

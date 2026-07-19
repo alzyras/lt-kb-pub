@@ -31,7 +31,6 @@ Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir š
 
 <a id="claim-t-192892"></a>
 - t-001
-  global_id: t-192892
   teiginys: "Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir šiuo žodžiu siejo juos su dabartine Ukmergės apskritimi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,7 @@ Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir š
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175662
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir šiuo žodžiu siejo juos su dabartine Ukmergės apskritimi.'
@@ -71,8 +70,7 @@ Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192892
+
 ## Citatos
 
 - id: c-175662
@@ -92,23 +90,14 @@ Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir š
     dyną, kuriame nerandame nieko, ką galima būtų vadinti
     panašumu į lietuvių kalbą, išskyrus kelis žodžius, bendrus
     tūkstančiams kitų kalbų, atėjusių iŠ kalbų motinos.
-  citata_rodoma: |
-    Sutiksime net
-    ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
-    alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,
-    gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius
-    vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­
-    ri dabar sudaro Ukmergės apskritį*. Bet iš viso to nega­
-    lima daryti jokios kitos išvados, o tik tą, kurią jau minė­
-    jome, būtent jog lietuvių ir kuršių jų dabartinėse žemėse
-    gyventa anksčiau, negu atvykėliai alanai davė pradžią
-    šių lydinių susidarymui.
+  citata_rodoma: "Sutiksime net\nir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-\nalanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,\ngyvenantys prie Peipaus ežero, dar ir šiandien lietuvius\nvadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­\nri dabar sudaro Ukmergės apskritį*. Bet iš viso to nega­\nlima daryti jokios kitos išvados, o tik tą, kurią jau minė­\njome, būtent jog lietuvių ir kuršių jų dabartinėse žemėse\ngyventa anksčiau, negu atvykėliai alanai davė pradžią\nšių lydinių susidarymui."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192892
+    - t-001
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Estai]]

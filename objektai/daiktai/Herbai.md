@@ -61,10 +61,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-12289"></a>
-- t-001
-  global_id: t-12289
+- t-003
   teiginys: "Horodlės unijos punktu 47 lietuviams bajorams buvo suteikti 47 lenkų bajorų herbai."
-  atnaujinta: "2026-06-10 12:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -76,11 +75,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14303
-    - c-14306
 
 <a id="claim-t-12290"></a>
-- t-002
-  global_id: t-12290
+- t-004
   teiginys: "Turintieji tą patį herbą buvo laikomi giminėmis, jiems leistos abipusės vedybos, o tai suartino abiejų valstybių aukštąjį luomą."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -96,8 +93,7 @@ Nenurodyta
     - c-14304
 
 <a id="claim-t-12291"></a>
-- t-003
-  global_id: t-12291
+- t-005
   teiginys: "Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -114,8 +110,7 @@ Nenurodyta
     - c-21398
 
 <a id="claim-t-12292"></a>
-- t-004
-  global_id: t-12292
+- t-006
   teiginys: "1413 m. privilegija teises suteikė tik katalikams, kurie turėjo herbus arba clenodia."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -133,8 +128,7 @@ Nenurodyta
     - c-14307
 
 <a id="claim-t-92960"></a>
-- t-005
-  global_id: t-92960
+- t-012
   teiginys: "Lietuvos istorikai teigė, kad lenkai herbus pasisavino iš čekų, o šie juos perėmė iš romėnų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -150,8 +144,7 @@ Nenurodyta
     - c-21394
 
 <a id="claim-t-92961"></a>
-- t-006
-  global_id: t-92961
+- t-010
   teiginys: "Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -168,8 +161,7 @@ Nenurodyta
     - c-88394
 
 <a id="claim-t-92962"></a>
-- t-007
-  global_id: t-92962
+- t-009
   teiginys: "Herbyne „Stemmata Polonica“ užfiksuotas XVI a. vidurio LDK herbas Vytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -189,7 +181,6 @@ Nenurodyta
 
 <a id="claim-t-92963"></a>
 - t-008
-  global_id: t-92963
   teiginys: "Gedimino stulpai ir Jogailos kryžius XVI a. viduryje buvo pavaizduoti herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -205,8 +196,7 @@ Nenurodyta
     - c-21397
 
 <a id="claim-t-92964"></a>
-- t-009
-  global_id: t-92964
+- t-007
   teiginys: "LDK herbas Vytis XVI a. viduryje buvo pavaizduotas herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -225,8 +215,7 @@ Nenurodyta
     - c-21396
 
 <a id="claim-t-92965"></a>
-- t-010
-  global_id: t-92965
+- t-013
   teiginys: "Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -244,7 +233,6 @@ Nenurodyta
 
 <a id="claim-t-92966"></a>
 - t-011
-  global_id: t-92966
   teiginys: "Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius - herbus ir palengva virto atskiru luomu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -327,7 +315,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12289
+    - t-003
+
 - id: c-14304
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -347,7 +336,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12290
+    - t-004
+
 - id: c-14306
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -362,18 +352,13 @@ Nenurodyta
     garbinamas tas, kuriuo 47 pirmaeilinės Lenkijos giminės „susi­
     broliavo” su žymesniais Lietuvos bajorais sutiekdami jiems
     savo nobiliteto pažymius — herbus.
-  citata_rodoma: |
-    Bet iš visų Horodlės unijos punktų lenkų labiausiai yra
-    garbinamas tas, kuriuo 47 pirmaeilinės Lenkijos giminės „susi­
-    broliavo” su žymesniais Lietuvos bajorais sutiekdami jiems
-    savo nobiliteto pažymius — herbus.
+  citata_rodoma: "Bet iš visų Horodlės unijos punktų lenkų labiausiai yra\ngarbinamas tas, kuriuo 47 pirmaeilinės Lenkijos giminės „susi­\nbroliavo” su žymesniais Lietuvos bajorais sutiekdami jiems\nsavo nobiliteto pažymius — herbus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-12289
 - id: c-14307
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -391,7 +376,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12292
+    - t-006
+
 - id: c-21394
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -406,18 +392,15 @@ Nenurodyta
     savinę iš čekų, o šie savo rėžtu — iš romėnų; tuo būdu jie padarė
     išvadą, kad iš romėnų kilę lietuviai esą kilnesni už len-
     kus.
-  citata_rodoma: |
-    Tuo tarpu Lietuvos istorikai ėmė teigti, kad lenkai herbus pasi-
-    savinę iš čekų, o šie savo rėžtu — iš romėnų; tuo būdu jie padarė
-    išvadą, kad iš romėnų kilę lietuviai esą kilnesni už len-
-    kus.
+  citata_rodoma: "Tuo tarpu Lietuvos istorikai ėmė teigti, kad lenkai herbus pasi-\nsavinę iš čekų, o šie savo rėžtu — iš romėnų; tuo būdu jie padarė\nišvadą, kad iš romėnų kilę lietuviai esą kilnesni už len-\nkus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92960
+    - t-012
+
 - id: c-21395
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -431,16 +414,15 @@ Nenurodyta
     būsią kilę iš romėnų.
     Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lie-
     tuvai vakarų Europos kultūrą, o bajorijai davę savo herbus.
-  citata_rodoma: |
-    Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lie-
-    tuvai vakarų Europos kultūrą, o bajorijai davę savo herbus.
+  citata_rodoma: "Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lie-\ntuvai vakarų Europos kultūrą, o bajorijai davę savo herbus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92965
+    - t-013
+
 - id: c-21396
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -469,22 +451,16 @@ Nenurodyta
     LDK herbas Vytis iš herbyno
     „Stemmata Polonica“ (saugomo
     Paryžiuje), XVI a. vid.
-  citata_rodoma: |
-    Tačiau ir tomis su-
-    dėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji
-    atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki),
-    o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų
-    LDK herbas Vytis iš herbyno
-    „Stemmata Polonica“ (saugomo
-    Paryžiuje), XVI a. vid.
+  citata_rodoma: "Tačiau ir tomis su-\ndėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji \natstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki), \no Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų \nLDK herbas Vytis iš herbyno \n„Stemmata Polonica“ (saugomo \nParyžiuje), XVI a. vid."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92962
-    - t-92964
+    - t-009
+    - t-007
+
 - id: c-21397
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -500,17 +476,15 @@ Nenurodyta
     Tautų Respublikos tradicijų naikinimas lėmė, kad Rusija sugebėjo pasisa-
     vinti tokius iš LDK erdvių kilusius fenomenus kaip pirtį ir „horilką“ arba
     „vodką“.
-  citata_rodoma: |
-    Gedimino stulpai ir Jogailos kryžius iš herbyno
-    „Stemmata Polonica“ (saugomo Paryžiuje), XVI a. vid.
-    pirmajame šimtuke.
+  citata_rodoma: "Gedimino stulpai ir Jogailos kryžius iš herbyno  \n„Stemmata Polonica“ (saugomo Paryžiuje), XVI a. vid.\npirmajame šimtuke."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92963
+    - t-008
+
 - id: c-21398
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -528,24 +502,16 @@ Nenurodyta
     — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­
     siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
     luomu.
-  citata_rodoma: |
-    Jų vietą
-    užima nauja sociališka jėga, kuriai lemta buvo iškilti jau XV
-    amž. ir ypatingai įsigalėti XVI—XVIII amž.
-    Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­
-    jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji
-    dar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius
-    — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­
-    siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
-    luomu.
+  citata_rodoma: "Jų vietą\nužima nauja sociališka jėga, kuriai lemta buvo iškilti jau XV\namž. ir ypatingai įsigalėti XVI—XVIII amž.\nPagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­\njorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji\ndar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius\n— herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­\nsiskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto\nluomu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12291
-    - t-92966
+    - t-005
+    - t-011
+
 - id: c-88394
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -568,4 +534,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92961
+    - t-010

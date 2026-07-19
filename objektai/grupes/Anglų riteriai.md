@@ -31,7 +31,6 @@ Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius
 
 <a id="claim-t-86788"></a>
 - t-001
-  global_id: t-86788
   teiginys: "Anglų riteriai ne kartą kartu su kryžiuočiais dalyvavo kryžiaus žygiuose prieš pagonimis laikytus lietuvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,7 @@ Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    948.
+    66, p. 948.
     Anglų riteriai, ne kartą draugėj su
     kryžiuočiais ėję į kryžiaus žygius
     kautis su pagonimis lietuviais, ga­
@@ -70,30 +69,15 @@ Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius
     VILNIAUS MIESTO ISTORIJA / TOMAS
     vietos žmonių, atiteko sūnui vienos karo belaisvės, lietuvių
     paimtos Prūsijoje.
-  citata_rodoma: |
-    948.
-    Anglų riteriai, ne kartą draugėj su
-    kryžiuočiais ėję į kryžiaus žygius
-    kautis su pagonimis lietuviais, ga­
-    lėjo kryžiuočius prieš kelerius me­
-    tus su tuo bombardų išradimu su­
-    pažindinti, galėjo ir Gediminas nuo
-    jų žūti.
-    - • —
-    103
-
-    ## Puslapis 120
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    vietos žmonių, atiteko sūnui vienos karo belaisvės, lietuvių
-    paimtos Prūsijoje.
+  citata_rodoma: "948. \nAnglų riteriai, ne kartą draugėj su \nkryžiuočiais ėję į kryžiaus žygius \nkautis su pagonimis lietuviais, ga­\nlėjo kryžiuočius prieš kelerius me­\ntus su tuo bombardų išradimu su­\npažindinti, galėjo ir Gediminas nuo \njų žūti.\n- • —  \n103\n\n## Puslapis 120\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nvietos žmonių, atiteko sūnui vienos karo belaisvės, lietuvių \npaimtos Prūsijoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86788
+    - t-001
+
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]]
 - Anglų riteriai kariavo prieš [[objektai/grupes/Lietuviai]]

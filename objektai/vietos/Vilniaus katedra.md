@@ -49,8 +49,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 ## Teiginiai
 
 <a id="claim-t-110146"></a>
-- t-001
-  global_id: t-110146
+- t-009
   teiginys: "1389 m. Vilniaus bažnyčia, pastatyta ant pagonių šventyklos griuvėsių, buvo pripažinta katedra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-102052
 
 <a id="claim-t-110148"></a>
-- t-002
-  global_id: t-110148
+- t-024
   teiginys: "Vilniaus katedros fasado skulptūros, sukurtos 1784–1787 m., žymėjo baroko epochos Lietuvoje pabaigos ribą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,8 +87,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-24575
 
 <a id="claim-t-110149"></a>
-- t-003
-  global_id: t-110149
+- t-021
   teiginys: "Žygimanto Augusto žmona Elžbieta mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje šalia karaliaus Aleksandro."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,8 +106,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-102048
 
 <a id="claim-t-110150"></a>
-- t-004
-  global_id: t-110150
+- t-020
   teiginys: "1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,8 +125,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-102046
 
 <a id="claim-t-110151"></a>
-- t-005
-  global_id: t-110151
+- t-022
   teiginys: "Vilniaus katedroje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -146,8 +141,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-102051
 
 <a id="claim-t-110152"></a>
-- t-006
-  global_id: t-110152
+- t-005
   teiginys: "Užbaigta Vilniaus katedra buvo pašventinta Šv. Trejybės, Šv. Stanislovo ir Šv. Vladislovo titulais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -163,8 +157,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-37804
 
 <a id="claim-t-110153"></a>
-- t-007
-  global_id: t-110153
+- t-010
   teiginys: "Didysis kunigaikštis didino Vilniaus katedros lobius ir 1396 m. jos kapitulai dovanojo Cudzeniškių valdą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -182,8 +175,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-102049
 
 <a id="claim-t-110154"></a>
-- t-008
-  global_id: t-110154
+- t-015
   teiginys: "Vilniaus vyskupas Povilas užkirto kelią karaliui ir privertė jį pasukti į katalikų katedrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -199,8 +191,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-102050
 
 <a id="claim-t-110155"></a>
-- t-009
-  global_id: t-110155
+- t-001
   teiginys: "Didžiojo valdovo palaikai buvo pervežti į Vilnių ir palaidoti Vilniaus katedros rūsyje po Šv. Mykolo Arkangelo altoriumi."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -216,8 +207,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-24572
 
 <a id="claim-t-110157"></a>
-- t-010
-  global_id: t-110157
+- t-017
   teiginys: "1396 m. Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą netoli Medininkų pilies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -236,8 +226,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-102049
 
 <a id="claim-t-110158"></a>
-- t-011
-  global_id: t-110158
+- t-023
   teiginys: "Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -255,8 +244,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-24573
 
 <a id="claim-t-110159"></a>
-- t-012
-  global_id: t-110159
+- t-018
   teiginys: "Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -272,8 +260,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-102057
 
 <a id="claim-t-110160"></a>
-- t-013
-  global_id: t-110160
+- t-012
   teiginys: "1522 m. prie Vilniaus katedros įkurta scholastiko prelatūra, kurios pareiga buvo išlaikyti Katedros mokyklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -291,8 +278,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-102046
 
 <a id="claim-t-110161"></a>
-- t-014
-  global_id: t-110161
+- t-019
   teiginys: "Vilniaus kapitulos archyve buvo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus nuo 1536 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -311,8 +297,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-102056
 
 <a id="claim-t-110162"></a>
-- t-015
-  global_id: t-110162
+- t-014
   teiginys: "XVIII a. senosios Katedros griuvėsiuose pražuvo Elžbietos ir Barboros antkapiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -328,8 +313,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-102058
 
 <a id="claim-t-110163"></a>
-- t-016
-  global_id: t-110163
+- t-013
   teiginys: "Elžbieta, ištekinta už Žygimanto Augusto, mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -347,8 +331,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-102048
 
 <a id="claim-t-110164"></a>
-- t-017
-  global_id: t-110164
+- t-006
   teiginys: "Vilniaus katedra sudegė 1399 metais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -368,8 +351,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-37805
 
 <a id="claim-t-110165"></a>
-- t-018
-  global_id: t-110165
+- t-002
   teiginys: "Jogaila Vladislovas buvo Vilniaus katedros fundatorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -389,8 +371,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-37805
 
 <a id="claim-t-110166"></a>
-- t-019
-  global_id: t-110166
+- t-004
   teiginys: "Vilniaus katedrai pamatai buvo padėti kartu su Šv. Martyno ir Šv. Jono bažnyčiomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -406,8 +387,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-37803
 
 <a id="claim-t-183875"></a>
-- t-020
-  global_id: t-183875
+- t-025
   teiginys: "Stanislovo garbei, iškilmingai pripažinta katedra."
   atnaujinta: "2026-05-31 17:11"
   sprendimo_priezastis: "auto"
@@ -426,10 +406,9 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-167260
 
 <a id="claim-t-188858"></a>
-- t-021
-  global_id: t-188858
+- t-003
   teiginys: "Pasak Narbuto perteikiamo Strijkovskio, Vilniaus katedroje po didžiuoju altoriumi buvo koplyčia, kur laikytos gyvatės."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -444,10 +423,9 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171747
-    - c-018
+
 <a id="claim-t-193246"></a>
-- t-022
-  global_id: t-193246
+- t-026
   teiginys: "Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo 1610 m. gaisro."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -460,8 +438,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-24574
 
 <a id="claim-t-200783"></a>
-- t-023
-  global_id: t-200783
+- t-027
   teiginys: "Vorobjovo teigimu, dabartinės Vilniaus katedros vietoje stabmeldystės laikais stovėjo šventame alke buvusi šventykla."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -481,8 +458,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-184128
 
 <a id="claim-t-200784"></a>
-- t-024
-  global_id: t-200784
+- t-028
   teiginys: "Antrajame XVI a. trečdalyje Vilniaus katedra buvo renesansiškai perstatyta, dalyvaujant Romos ir Sienos architektams."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -502,8 +478,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - c-184129
 
 <a id="claim-t-200785"></a>
-- t-025
-  global_id: t-200785
+- t-029
   teiginys: "Vilniaus katedros zakristijoje buvo saugoma XVII a. pabaigos dramblio kaulo Nukryžiuotojo figūra, vadinta Vytautiniu Krucifiksu."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -552,8 +527,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188858
+
 ## Citatos
 
 - id: c-24572
@@ -564,17 +538,15 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     Vytauto kapas. Didžiojo valdovo lavonas buvo laikomas 8 die-
     nas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas
     katedros rūsyje, po šv. Mykolo Arkangelo altorium.
-  citata_rodoma: |
-    Didžiojo valdovo lavonas buvo laikomas 8 die-
-    nas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas
-    katedros rūsyje, po šv. Mykolo Arkangelo altorium.
+  citata_rodoma: "Didžiojo valdovo lavonas buvo laikomas 8 die-\nnas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas\nkatedros rūsyje, po šv. Mykolo Arkangelo altorium."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110155
+    - t-001
+
 - id: c-24573
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -584,17 +556,15 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     tedrai sudegus, altorius žuvo. Tada Zigmanto Augusto motina, ka-
     ralienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;
     bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas.
-  citata_rodoma: |
-    Tada Zigmanto Augusto motina, ka-
-    ralienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;
-    bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas.
+  citata_rodoma: "Tada Zigmanto Augusto motina, ka-\nralienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;\nbet kai 1610 m. apdegė katedra, žuvo ir šis paminklas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110158
+    - t-023
+
 - id: c-24574
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -611,7 +581,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193246
+    - t-026
+
 - id: c-24575
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -624,17 +595,15 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
     skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
     dvasia.
-  citata_rodoma: |
-    Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
-    skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
-    dvasia.
+  citata_rodoma: "Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado \nskulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko \ndvasia."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110148
+    - t-024
+
 - id: c-37803
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -651,7 +620,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110166
+    - t-004
+
 - id: c-37804
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -667,7 +637,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110152
+    - t-005
+
 - id: c-37805
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -679,18 +650,16 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     katedros fundatorių. Bet ši katedra 1399 metais sudegė. Ta­
     da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
     bet ir ją gaisras sunaikino 1531 m.
-  citata_rodoma: |
-    Bet ši katedra 1399 metais sudegė. Ta­
-    da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
-    bet ir ją gaisras sunaikino 1531 m.
+  citata_rodoma: "Bet ši katedra 1399 metais sudegė. Ta­\nda Vytautas buvo pastatęs naują gotiško stiliaus katedrą,\nbet ir ją gaisras sunaikino 1531 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110164
-    - t-110165
+    - t-006
+    - t-002
+
 - id: c-102046
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -718,8 +687,9 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110150
-    - t-110160
+    - t-020
+    - t-012
+
 - id: c-102048
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -742,29 +712,16 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­
     lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio
     atrado kuklumą ir sulaukė prielankumo.
-  citata_rodoma: |
-    VILNIAUS MIESTO ISTORIJA I I  TOMAS
-    29 to Augusto 1543 metais, numirė Vil-
-    Elžbieta, Vengrijos ir Čekijos kara- niuje 1545 metais, palaidota kated-
-    liaus, vėliau imperatoriaus Ferdi- ros bažnyčioje, koplyčioje, šalia ka-
-    nando, duktė, ištekinta už Žygiman- raliaus Aleksandro.
-    272
-
-    ## Puslapis 289
-
-    IV KNYGA
-    Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­
-    teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­
-    lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio
-    atrado kuklumą ir sulaukė prielankumo.
+  citata_rodoma: "VILNIAUS MIESTO ISTORIJA I I  TOMAS\n29 to Augusto 1543 metais, numirė Vil-\nElžbieta, Vengrijos ir Čekijos kara- niuje 1545 metais, palaidota kated-\nliaus, vėliau imperatoriaus Ferdi- ros bažnyčioje, koplyčioje, šalia ka-\nnando, duktė, ištekinta už Žygiman- raliaus Aleksandro.\n272\n\n## Puslapis 289\n\nIV KNYGA\nPakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­\nteliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­\nlės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio\natrado kuklumą ir sulaukė prielankumo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110149
-    - t-110163
+    - t-021
+    - t-013
+
 - id: c-102049
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -781,24 +738,16 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     55
     Stryjkowski, p. 466, Kromer,
     Lib.
-  citata_rodoma: |
-    Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis
-    priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­
-    kydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­
-    bių. Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
-    data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,
-    tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­
-    mą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-
-    55
-    Stryjkowski, p.
+  citata_rodoma: "Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis\npriimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­\nkydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­\nbių. Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų\ndata, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,\ntos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­\nmą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-\n55\nStryjkowski, p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110153
-    - t-110157
+    - t-010
+    - t-017
+
 - id: c-102050
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -820,7 +769,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110154
+    - t-015
+
 - id: c-102051
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -845,7 +795,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110151
+    - t-022
+
 - id: c-102052
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -868,7 +819,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110146
+    - t-009
+
 - id: c-102056
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -888,7 +840,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110161
+    - t-019
+
 - id: c-102057
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -929,7 +882,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110159
+    - t-018
+
 - id: c-102058
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -950,7 +904,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110162
+    - t-014
+
 - id: c-167260
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -973,7 +928,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183875
+    - t-025
+
 - id: c-171747
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -986,21 +942,15 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     čionis, nuvijo pabaisą šventu kryžiumi-ji tuoj pat nežinia kur
     dingo. Bet kai jis ateidavo į tą vietą, ilgą laiką sode girdėdavo
     kažkokį triukšmą ir lyg žalčių šnypštimą.
-  citata_rodoma: |
-    Gyvatė (Giwojte)
-    Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
-    kaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.
-    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
-    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
-    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
-    riumi.
+  citata_rodoma: "Gyvatė (Giwojte)\nNuodingas šliužas. Šios rūšies būtybės buvo traktuojamos\nkaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.\nStrijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­\nno šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,\nkurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­\nriumi."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188858
+    - t-003
+
 - id: c-184128
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -1019,7 +969,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200783
+    - t-027
+
 - id: c-184129
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -1038,7 +989,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200784
+    - t-028
+
 - id: c-184130
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -1059,6 +1011,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200785
+    - t-029
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

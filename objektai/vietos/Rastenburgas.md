@@ -51,8 +51,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-69145"></a>
-- t-001
-  global_id: t-69145
+- t-004
   teiginys: "Rastenburgo pilis buvo įkurta 1345 m."
   atnaujinta: "2026-06-14 10:15"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,7 @@ media_all_json: |-
     - c-68558
 
 <a id="claim-t-185122"></a>
-- t-002
-  global_id: t-185122
+- t-003
   teiginys: "Veliuonoje pasilikęs karalius medžiodamas vos išvengė Rastenburgo komtūro surengtų kryžiuočių pasalų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -119,20 +117,15 @@ media_all_json: |-
     1395 m., Lyka — 1398 m. (miestelis prie jos pradėtas kurti tik 1435 m. ), ir t.t.
     - Kaip matome, Į pietus nuo Ragainės, be vėlyvos Lykos pilaitės, nebuvo
         jokios ordino pilies.
-  citata_rodoma: |
-    Štai Lietuvai artimesniųjų pilių įkūrimo
-    datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava —
-    1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m.,
-    Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m.,
-    Alenšteinas — 1353 m., Ortelsburgas — taip pat XIV a. vidury, Bišofsburgas—
-    1395 m., Lyka — 1398 m. (miestelis prie jos pradėtas kurti tik 1435 m. ), ir t.t.
+  citata_rodoma: "Štai Lietuvai artimesniųjų pilių įkūrimo\ndatos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava —\n1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m.,\nLotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m.,\nAlenšteinas — 1353 m., Ortelsburgas — taip pat XIV a. vidury, Bišofsburgas—\n1395 m., Lyka — 1398 m. (miestelis prie jos pradėtas kurti tik 1435 m. ), ir t.t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69145
+    - t-004
+
 - id: c-168483
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -146,7 +139,7 @@ media_all_json: |-
     K araliu s
     išv e n g ia
     rankas, tik narsi jo palyda
-    k ry ž iu o č ių  pasalų
+    k ry ž iu o č ių pasalų
     vargais
     negalais
     išgelbėjo
@@ -160,4 +153,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185122
+    - t-003

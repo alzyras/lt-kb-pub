@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-87201"></a>
 - t-001
-  global_id: t-87201
   teiginys: "Prie Vilniaus stovyklą įsirengęs magistras turėjo siųsti keturis pulkus saugoti maisto parūpinti išleistų dalinių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87201
+    - t-001

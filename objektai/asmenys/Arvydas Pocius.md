@@ -39,7 +39,6 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
 
 <a id="claim-t-40042"></a>
 - t-001
-  global_id: t-40042
   teiginys: "AT gynėjas Arvydas Pocius vėliau tapo generolu leitenantu ir Lietuvos kariuomenės vadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
 
 <a id="claim-t-40043"></a>
 - t-002
-  global_id: t-40043
   teiginys: "AT gynėjas Arvydas Pocius 1991 m. rugpjūčio pučo metu buvo ginkluotas pistoletu-kulkosvaidžiu PPS."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,6 +72,7 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
   pagrindžia:
     - c-44293
     - c-44292
+
 ## Citatos
 
 - id: c-44292
@@ -84,15 +83,15 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
     p. 254, Butelio su padegamuoju skysčiu demonstracinė versija, VDKM, Artūro Užgalio nuotr.
     p. 255, AT gynėjas A. Pocius 1991 m. rugpjūčio pučo metu, ginkluotas pistoletu-
     kulkosvaidžiu PPS, KAM.
-  citata_rodoma: |
-    p. 255, AT gynėjas A. Pocius 1991 m. rugpjūčio pučo metu, ginkluotas pistoletu-
-    kulkosvaidžiu PPS, KAM.
+  citata_rodoma: "p. 255, AT gynėjas A. Pocius 1991 m. rugpjūčio pučo metu, ginkluotas pistoletu-\nkulkosvaidžiu PPS, KAM."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-44293
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -108,23 +107,15 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
     inkasatorių, parduotu-
     vės „Medžioklė. Žūklė“
     ir kitų šaltinių.
-  citata_rodoma: |
-    “
-
-    AT gynėjas A. Pocius 1991 m. rugpjūčio pučo
-    metu, ginkluotas pistoletu-kulkosvaidžiu PPS
-
-    iš VRM, Lietuvos banko
-
-    inkasatorių, parduotu-
-    vės „Medžioklė.
+  citata_rodoma: "“\n\nAT gynėjas A. Pocius 1991 m. rugpjūčio pučo\nmetu, ginkluotas pistoletu-kulkosvaidžiu PPS\n\niš VRM, Lietuvos banko\n\ninkasatorių, parduotu-\nvės „Medžioklė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40043
+    - t-002
+
 - id: c-167119
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -157,4 +148,4 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40042
+    - t-001

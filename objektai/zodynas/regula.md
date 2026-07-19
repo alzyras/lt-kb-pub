@@ -31,8 +31,7 @@ Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių
 ## Teiginiai
 
 <a id="claim-t-82094"></a>
-- t-001
-  global_id: t-82094
+- t-003
   teiginys: "Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių iš Lenkijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,22 +74,11 @@ Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių
     dokumentus, kurie galėtų ano meto
     įvykius iš tamsos į ryškią šviesą iš­
     kelti.
-  citata_rodoma: |
-    Algirdas viešai nubaudė to žiauraus poelgio vadei­
-    vas ir liepė paskelbti visame krašte valią nevaržomiems
-    gyventi visiems krikščionių vienuoliams ir laisvę išpažinti
-    savo tikėjimą. Šis netikėtas ir liūdnas įvykis nė kiek neatšal­
-    dė Goštauto uolumo. Nukankintuosius palaidojęs, tos pa­
-    čios regulos vienuolių vėlei atkvietė iš Lenkijos, ir gal dėl
-    to, kad jų buveinė buvo liaudies sugriauta ir su ja siejosi
-    liūdni atminimai, gal dėl saugumo, mūrinę bažnyčią ir vie­
-    nuolyną pastatydino naujoje vietoje, savo naujų medinių rū­
-    mų teritorijoje, netoli nuo Vingrių šaltinių, Smėlynėje, ir pa­
-    vadino Mergelės Marijos vardu20.
+  citata_rodoma: "Algirdas viešai nubaudė to žiauraus poelgio vadei­\nvas ir liepė paskelbti visame krašte valią nevaržomiems \ngyventi visiems krikščionių vienuoliams ir laisvę išpažinti \nsavo tikėjimą. Šis netikėtas ir liūdnas įvykis nė kiek neatšal­\ndė Goštauto uolumo. Nukankintuosius palaidojęs, tos pa­\nčios regulos vienuolių vėlei atkvietė iš Lenkijos, ir gal dėl \nto, kad jų buveinė buvo liaudies sugriauta ir su ja siejosi \nliūdni atminimai, gal dėl saugumo, mūrinę bažnyčią ir vie­\nnuolyną pastatydino naujoje vietoje, savo naujų medinių rū­\nmų teritorijoje, netoli nuo Vingrių šaltinių, Smėlynėje, ir pa­\nvadino Mergelės Marijos vardu20."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82094
+    - t-003

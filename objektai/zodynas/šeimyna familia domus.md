@@ -37,8 +37,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
 ## Teiginiai
 
 <a id="claim-t-58818"></a>
-- t-001
-  global_id: t-58818
+- t-002
   teiginys: "246 D.— cum omni domo et familia sua."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     - c-59453
 
 <a id="claim-t-58819"></a>
-- t-002
-  global_id: t-58819
+- t-004
   teiginys: "Prūsai nužudė brolį Konradą iš Dortmundo su visa jo šeimyna."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
 
 <a id="claim-t-58820"></a>
 - t-003
-  global_id: t-58820
   teiginys: "Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,8 +86,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     - c-59452
 
 <a id="claim-t-58821"></a>
-- t-004
-  global_id: t-58821
+- t-001
   teiginys: "Kilmingi Varmės vyrai su namais ir šeimynomis persikėlė pas Baigos brolius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -120,22 +116,15 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų
     išgriovė ir išžudė brolius bei krikščionis.
     35.
-  citata_rodoma: |
-    Be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo
-    reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų
-    išgriovė ir išžudė brolius bei krikščionis.
-
-
-
-
-                   35.
+  citata_rodoma: "Be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo\nreikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų\nišgriovė ir išžudė brolius bei krikščionis.\n\n\n\n\n               35."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58819
+    - t-004
+
 - id: c-59451
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -154,7 +143,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58821
+    - t-001
+
 - id: c-59452
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -166,18 +156,15 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     šiai žemei iš įvairių Vokietijos kraštų drauge su visais namais, šeimynomis ir giminėmis,
     kurių vardus vienas dievas težino. Nuo to laiko pradėjo gausėti Prūsijos žemėje tikinčiųjų
     ir plisti dievo tikėjimas Jėzaus Kristaus garbei bei šlovei (1241).
-  citata_rodoma: |
-    Daug ir kitų pilių pastatė kilmingieji ir vasalai, atvykę į pagalbą
-    šiai žemei iš įvairių Vokietijos kraštų drauge su visais namais, šeimynomis ir giminėmis,
-    kurių vardus vienas dievas težino. Nuo to laiko pradėjo gausėti Prūsijos žemėje tikinčiųjų
-    ir plisti dievo tikėjimas Jėzaus Kristaus garbei bei šlovei (1241).
+  citata_rodoma: "Daug ir kitų pilių pastatė kilmingieji ir vasalai, atvykę į pagalbą\nšiai žemei iš įvairių Vokietijos kraštų drauge su visais namais, šeimynomis ir giminėmis,\nkurių vardus vienas dievas težino. Nuo to laiko pradėjo gausėti Prūsijos žemėje tikinčiųjų\nir plisti dievo tikėjimas Jėzaus Kristaus garbei bei šlovei (1241)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58820
+    - t-003
+
 - id: c-59453
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -194,4 +181,4 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58818
+    - t-002

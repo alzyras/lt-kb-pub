@@ -31,7 +31,6 @@ Narbutas pasakoja, kad į vakarus keliavusi tauta, laikydamasi kairiojo Pripetė
 
 <a id="claim-t-192843"></a>
 - t-001
-  global_id: t-192843
   teiginys: "Narbutas pasakoja, kad į vakarus keliavusi tauta, laikydamasi kairiojo Pripetės kranto, pasiekė Maročės ir Punios žiotis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Narbutas pasakoja, kad į vakarus keliavusi tauta, laikydamasi kairiojo Pripetė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192843
+    - t-001

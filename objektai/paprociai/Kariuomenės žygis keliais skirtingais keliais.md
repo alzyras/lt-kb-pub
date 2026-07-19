@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-62683"></a>
 - t-001
-  global_id: t-62683
   teiginys: "Kariuomenė paprastai traukdavo į žygį keliais skirtingais keliais, kad palaikytų tvarką ir išvengtų kamšaties."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-63428
 
 <a id="claim-t-194442"></a>
-- t-002
-  global_id: t-194442
+- t-003
   teiginys: "Apie nuostabų atsitikimą šiame kare Turime pažymėti, kad, pradėjus kokį karą, paprastai kariuomenė traukia į žygį ne vienu keliu, bet keliais skirtingais, nes žygio metu norima palaikyti tvarką ir išvengti kamšaties."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -93,19 +91,12 @@ Nenurodyta
     kamšaties. Vis dėlto dažnai pasitaiko dėl visokiausių aplinkybių, kad, sutrikus rikiuotei,
     vienoje vietoje ant ledo atsiduria šimtas, du šimtai ar net tūkstantis raitelių. Nežinau,
     kodėl tada ledas neįlūžta ir išlaiko tokį didelį svorį, vienas dievas šitai žino.
-  citata_rodoma: |
-    Apie nuostabų atsitikimą šiame kare
-
-      Turime pažymėti, kad, pradėjus kokį karą, paprastai kariuomenė traukia  į žygį ne
-    vienu keliu, bet keliais skirtingais, nes žygio metu norima palaikyti tvarką ir išvengti
-    kamšaties. Vis dėlto dažnai pasitaiko dėl visokiausių aplinkybių, kad, sutrikus rikiuotei,
-    vienoje vietoje ant ledo atsiduria šimtas, du šimtai ar net tūkstantis raitelių. Nežinau,
-    kodėl tada ledas neįlūžta ir išlaiko tokį didelį svorį, vienas dievas šitai žino.
+  citata_rodoma: "Apie nuostabų atsitikimą šiame kare\n\n  Turime pažymėti, kad, pradėjus kokį karą, paprastai kariuomenė traukia  į žygį ne\nvienu keliu, bet keliais skirtingais, nes žygio metu norima palaikyti tvarką ir išvengti\nkamšaties. Vis dėlto dažnai pasitaiko dėl visokiausių aplinkybių, kad, sutrikus rikiuotei,\nvienoje vietoje ant ledo atsiduria šimtas, du šimtai ar net tūkstantis raitelių. Nežinau,\nkodėl tada ledas neįlūžta ir išlaiko tokį didelį svorį, vienas dievas šitai žino."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62683
-    - t-194442
+    - t-001
+    - t-003

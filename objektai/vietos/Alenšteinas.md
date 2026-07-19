@@ -39,8 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-51349"></a>
-- t-001
-  global_id: t-51349
+- t-002
   teiginys: "Kariuomenės taryba nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ media_all_json: |-
     - c-37285
 
 <a id="claim-t-51350"></a>
-- t-002
-  global_id: t-51350
+- t-001
   teiginys: "Žygio planuotojai nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -91,16 +89,12 @@ media_all_json: |-
     ti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos
     upę ir, nors tolimesniu keliu, pasiekti Marienburgą. Buvo tuo­
     jau surasti vadovai ir nustatytas kelias.
-  citata_rodoma: |
-    Buvo nutarta pasitraukti kiek atgal, paskui ei­
-    ti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos
-    upę ir, nors tolimesniu keliu, pasiekti Marienburgą. Buvo tuo­
-    jau surasti vadovai ir nustatytas kelias.
+  citata_rodoma: "Buvo nutarta pasitraukti kiek atgal, paskui ei­\nti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos\nupę ir, nors tolimesniu keliu, pasiekti Marienburgą. Buvo tuo­\njau surasti vadovai ir nustatytas kelias."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-51349
-    - t-51350
+    - t-002
+    - t-001

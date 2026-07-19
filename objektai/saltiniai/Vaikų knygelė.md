@@ -30,7 +30,6 @@ Valančiaus, VAIKŲ KNYGELĖ. Knygelė skiriama visiems: vaikams ir suaugusiems.
 
 <a id="claim-t-36119"></a>
 - t-001
-  global_id: t-36119
   teiginys: "Knygelė skiriama visiems: vaikams ir suaugusiems."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,4 +55,4 @@ Valančiaus, VAIKŲ KNYGELĖ. Knygelė skiriama visiems: vaikams ir suaugusiems.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36119
+    - t-001

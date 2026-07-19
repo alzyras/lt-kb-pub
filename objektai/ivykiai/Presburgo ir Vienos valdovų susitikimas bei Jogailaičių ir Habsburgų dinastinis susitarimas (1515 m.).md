@@ -51,9 +51,8 @@ Nenurodyta
 
 <a id="claim-t-193473"></a>
 - t-001
-  global_id: t-193473
   teiginys: "Nesinori smulkiai pasakoti, ką valdovai nu tarė šiame suvažiavime."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-196245"></a>
 - t-002
-  global_id: t-196245
   teiginys: "Konstantinas Ostrogiškis, grįžęs į Vilnių, pastatė Nedalomosios Trejybės vienuolyną vienuoliams, kurie laikėsi rusų apeigų ir pakluso Romos popiežiui."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -98,21 +96,15 @@ Nenurodyta
     skirtingai apsirengę, visi nepaprastai puošnūs, ir šitai
     teikė žiūrovams tokį didingą reginį, kokį bebuvo ga­
     lima matyti nebent per romėnų triumfo eisenas.
-  citata_rodoma: |
-    Penki tūkstančiai raitijos palydėjo karalius
-    ligi miesto, o kiti raiteliai bei pėstininkai liko saugoti
-    palapinių. Nesinori smulkiai pasakoti, ką valdovai nu­
-    tarė šiame suvažiavime. Dėl Lietuvos reikalų susitarta
-    šitaip: imperatorius arba nutrauksiąs draugystę su mas-
-    kvėnais ir kryžiuočiais, arba ir vienus, ir kitus paska­
-    tinsiąs savo autoritetu prašyti taikos ir taikytis.
+  citata_rodoma: "Penki tūkstančiai raitijos palydėjo karalius\nligi miesto, o kiti raiteliai bei pėstininkai liko saugoti\npalapinių. Nesinori smulkiai pasakoti, ką valdovai nu­\ntarė šiame suvažiavime. Dėl Lietuvos reikalų susitarta\nšitaip: imperatorius arba nutrauksiąs draugystę su mas-\nkvėnais ir kryžiuočiais, arba ir vienus, ir kitus paska­\ntinsiąs savo autoritetu prašyti taikos ir taikytis."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193473
+    - t-001
+
 - id: c-178594
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -139,4 +131,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196245
+    - t-002

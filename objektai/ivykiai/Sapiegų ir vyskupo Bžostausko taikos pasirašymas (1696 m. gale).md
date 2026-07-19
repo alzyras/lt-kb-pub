@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-01798"></a>
 - t-001
-  global_id: t-01798
   teiginys: "1696 m. gale pasirašyta taika įpareigojo vyskupą atšaukti ekskomuniką, o hetmoną išvesti kariuomenę iš bažnytinių dvarų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,13 +81,11 @@ Nenurodyta
     vyskupas tos pačios bylos reikalu tada buvo išvykęs į Romą).
     Pasirašytąja taika vyskupas turėjo atšaukti ekskomuniką, o het-
     monas — išvesti iš bažnytinių dvarų kariuomenę.
-  citata_rodoma: |
-    Pasirašytąja taika vyskupas turėjo atšaukti ekskomuniką, o het-
-    monas — išvesti iš bažnytinių dvarų kariuomenę.
+  citata_rodoma: "Pasirašytąja taika vyskupas turėjo atšaukti ekskomuniką, o het-\nmonas — išvesti iš bažnytinių dvarų kariuomenę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01798
+    - t-001

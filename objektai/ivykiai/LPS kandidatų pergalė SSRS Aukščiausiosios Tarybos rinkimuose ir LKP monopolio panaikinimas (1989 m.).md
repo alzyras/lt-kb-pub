@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-20250"></a>
 - t-001
-  global_id: t-20250
   teiginys: "1989 m. kovą LPS kandidatai laimėjo rinkimus į SSRS Aukščiausiąją Tarybą, o gruodžio 7 d. pataisos panaikino LKP valdžios monopolį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,12 +89,11 @@ Nenurodyta
     naikintas LKP valdžios monopolis valstybėje ir visuomenėje ir sudarytos
     sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti
     šalies politiniame gyvenime.
-  citata_rodoma: |
-    sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti
+  citata_rodoma: "sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20250
+    - t-001

@@ -37,7 +37,6 @@ Jakštas, J.
 
 <a id="claim-t-31725"></a>
 - t-001
-  global_id: t-31725
   teiginys: "J. Jakšto „Prie Vytauto charakteristikos“ paskelbta 1931 m. „Vairo“ 4 numeryje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,14 +66,11 @@ Jakštas, J.
     KolLJ, I, 161-164 p. — Končius, J. : _Vytautas the Great, Grand Duke
     of Lithuania,_ Miami, Florida 1964, 186-195 p. — Krasauskaitė, M.
     _Vytauto charakteristika,_ rink.
-  citata_rodoma: |
-    — Jakštas, J. : _Prie Vytauto charakteristikos,_ Vairas, 4, 1931. —
-    KolLJ, I, 161-164 p. — Končius, J. : _Vytautas the Great, Grand Duke
-    of Lithuania,_ Miami, Florida 1964, 186-195 p.
+  citata_rodoma: "— Jakštas, J. : _Prie Vytauto charakteristikos,_ Vairas, 4, 1931. —\nKolLJ, I, 161-164 p. — Končius, J. : _Vytautas the Great, Grand Duke\nof Lithuania,_ Miami, Florida 1964, 186-195 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31725
+    - t-001

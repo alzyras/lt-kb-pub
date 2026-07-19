@@ -31,7 +31,6 @@ Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo
 
 <a id="claim-t-88043"></a>
 - t-001
-  global_id: t-88043
   teiginys: "Balińskis manė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus ir siekė palankaus popiežiaus sprendimo ginče su kryžiuočiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,25 +72,11 @@ Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo
     bėsime, vien tik šmeižtus bei skundus Ordinu, ir visu laišku
     siekiama pavaizduoti jį didžiausia kliūtimi, trukdančia
     skleisti krikščionių tikėjimą.
-  citata_rodoma: |
-    393, jau esame išsakę nuo­
-    monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
-    nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
-    dimino, bet nei su jo žinia, nei jo valia parašyti. Rygos
-    arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir
-    išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo
-    melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių
-    ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą
-    ginče su kryžiuočiais.
-    Šiuo teiginiu verčia tikėti tokie įrodymai: jeigu: 1) meste­
-    lėsime akį į laiško turinį popiežiui, nieko daugiau nepaste­
-    bėsime, vien tik šmeižtus bei skundus Ordinu, ir visu laišku
-    siekiama pavaizduoti jį didžiausia kliūtimi, trukdančia
-    skleisti krikščionių tikėjimą.
+  citata_rodoma: "393, jau esame išsakę nuo­\nmonę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­\nnams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­\ndimino, bet nei su jo žinia, nei jo valia parašyti. Rygos \narkivyskupas, Gedimino vardu prisidengęs, juos parengė ir \nišsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo \nmelu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių \nordiną ir per tai pelnytų sau palankų popiežiaus sprendimą \nginče su kryžiuočiais.\nŠiuo teiginiu verčia tikėti tokie įrodymai: jeigu: 1) meste­\nlėsime akį į laiško turinį popiežiui, nieko daugiau nepaste­\nbėsime, vien tik šmeižtus bei skundus Ordinu, ir visu laišku \nsiekiama pavaizduoti jį didžiausia kliūtimi, trukdančia \nskleisti krikščionių tikėjimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88043
+    - t-001

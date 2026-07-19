@@ -30,7 +30,6 @@ Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus a
 
 <a id="claim-t-190244"></a>
 - t-001
-  global_id: t-190244
   teiginys: "Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus antspaudėlis su raidžių skaičiumi ir trikampe spyna."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190244
+    - t-001

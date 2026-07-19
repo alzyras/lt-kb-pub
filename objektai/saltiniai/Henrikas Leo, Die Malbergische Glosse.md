@@ -30,7 +30,6 @@ Narbutas nurodo, kad Henrikas Leo „Die Malbergische Glosse“ marienburgiškai
 
 <a id="claim-t-190531"></a>
 - t-001
-  global_id: t-190531
   teiginys: "Narbutas nurodo, kad Henrikas Leo „Die Malbergische Glosse“ marienburgiškais vadintus žodžius aiškino kaip keltų kalbos liekanas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas nurodo, kad Henrikas Leo „Die Malbergische Glosse“ marienburgiškai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190531
+    - t-001

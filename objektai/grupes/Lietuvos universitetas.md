@@ -38,7 +38,6 @@ Laisvės sąlygomis sparčiai kilo švietimas, atsidarė naujų mokyklų, 1919 m
 
 <a id="claim-t-77829"></a>
 - t-001
-  global_id: t-77829
   teiginys: "Aukštieji kursai Kaune peraugo į Lietuvos universitetą, atidarytą 1922 m. vasario 16 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Laisvės sąlygomis sparčiai kilo švietimas, atsidarė naujų mokyklų, 1919 m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77829
+    - t-001

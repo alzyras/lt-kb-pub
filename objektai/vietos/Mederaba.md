@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-32353"></a>
 - t-001
-  global_id: t-32353
   teiginys: "1291 m. kryžiuočiai nepaėmė Junigėdos, bet netoliese sunaikino Mederabos pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,16 +70,11 @@ media_all_json: |-
     ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta
     pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
     teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
-  citata_rodoma: |
-    1291 buvo pulta,
-    Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315
-    ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta
-    pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
-    teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
+  citata_rodoma: "1291 buvo pulta,\nDusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315\nten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta\npilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai\nteriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32353
+    - t-001

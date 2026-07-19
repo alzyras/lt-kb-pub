@@ -51,9 +51,8 @@ Nenurodyta
 
 <a id="claim-t-59705"></a>
 - t-001
-  global_id: t-59705
   teiginys: "Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Kaimas: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -66,7 +65,7 @@ Nenurodyta
   semantiniai_rysiai: "Martynas iš Golino užėmė Kaimas (0.84); Martynas iš Golino surengė žygį į Sūduva (0.82)"
   pagrindžia:
     - c-60337
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.'
@@ -85,8 +84,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59705
+
 ## Citatos
 
 - id: c-60337
@@ -112,7 +110,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59705
+    - t-001
+
 - id: c-167366
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -131,15 +130,7 @@ Nenurodyta
     Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą,
     kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o
     grįždamas namo, kelyje ir pasimirė.
-  citata_rodoma: |
-    Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
-    krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],
-    vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas
-    Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas
-    ar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,
-    nekreipdamas dėmesio  į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių
-    ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o
-    kiti išbėgiojo palikę visus turimus ginklus bei visą maistą.
+  citata_rodoma: "Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai\nkrikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],\nvadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas\nMartynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas\nar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,\nnekreipdamas dėmesio  į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių\nramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o\nkiti išbėgiojo palikę visus turimus ginklus bei visą maistą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas

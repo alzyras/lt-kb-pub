@@ -36,13 +36,45 @@ media_all_json: |-
 
 Dusburgietis teigia, kad toppen M. Dusburgietis teigia, kad toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'M. Toppenas 1853 m. Berlyne išleido veikalą apie Prūsijos istoriografiją nuo Petro Dusburgiečio iki K. Schützo.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.
+    Schütz.—Berlin, 1853.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-61432
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Иванов В. В., Топоров В. Н. Исследования в области славянских древностей:
+    Лексические и фразеологические вопросы реконструкции текстов. — М., 1974.
+    Иванов В. В., Топоров В. Н. Мифологические географические названия как
+    источник для реконструкции этногенеза и древнейшей истории славян.
+  citata_rodoma: "Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.\nSchütz.—Berlin, 1853."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-60800"></a>
 - t-001
-  global_id: t-60800
   teiginys: "M. Toppenas 1853 m. Berlyne išleido veikalą apie Prūsijos istoriografiją nuo Petro Dusburgiečio iki K. Schützo."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -57,40 +89,4 @@ Dusburgietis teigia, kad toppen M. Dusburgietis teigia, kad toeppen M. Historisc
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus veikalo temą, leidimo vietą ir metus."
   pagrindžia:
     - c-61432
-    - c-001
 - susijęs iš Toppen M Einleitung: M. Toppeno „Einleitung“ paskelbta SRP pirmojo tomo 3–20 puslapiuose.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'M. Toppenas 1853 m. Berlyne išleido veikalą apie Prūsijos istoriografiją nuo Petro Dusburgiečio iki K. Schützo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.
-    Schütz.—Berlin, 1853.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60800
-## Citatos
-
-- id: c-61432
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Иванов В. В., Топоров В. Н. Исследования в области славянских древностей:
-    Лексические и фразеологические вопросы реконструкции текстов. — М., 1974.
-    Иванов В. В., Топоров В. Н. Мифологические географические названия как
-    источник для реконструкции этногенеза и древнейшей истории славян.
-  citata_rodoma: |
-    Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.
-    Schütz.—Berlin, 1853.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-60800

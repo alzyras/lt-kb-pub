@@ -31,7 +31,6 @@ Matusevičiaus Trakų sukilėlių daliniai, palaikomi 2-ojo šaulių pulko batal
 
 <a id="claim-t-80645"></a>
 - t-001
-  global_id: t-80645
   teiginys: "2-ojo šaulių pulko batalionas birželio 19 d. palaikė Trakų sukilėlių puolimą prieš rusų kairįjį sparną, bet ataka buvo atmušta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Matusevičiaus Trakų sukilėlių daliniai, palaikomi 2-ojo šaulių pulko batal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80645
+    - t-001

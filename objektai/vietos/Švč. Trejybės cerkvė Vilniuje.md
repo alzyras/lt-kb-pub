@@ -40,7 +40,6 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
 
 <a id="claim-t-86134"></a>
 - t-001
-  global_id: t-86134
   teiginys: "1505 m. miesto sienoje nurodyta palikti vartus palei Švč. Trejybės cerkvę, dabartinių Aušros vartų vietoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
 
 <a id="claim-t-86135"></a>
 - t-002
-  global_id: t-86135
   teiginys: "Karalienė Elena 1510 metais iš vyro Žygimanto Senojo iki gyvos galvos gavo dalį Švč. Trejybės vienuolyne Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +98,8 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86134
+    - t-001
+
 - id: c-82114
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -117,4 +116,4 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86135
+    - t-002

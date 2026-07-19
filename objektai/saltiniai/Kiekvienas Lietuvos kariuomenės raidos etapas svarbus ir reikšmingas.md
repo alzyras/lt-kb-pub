@@ -36,7 +36,6 @@ p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lie
 
 <a id="claim-t-41542"></a>
 - t-001
-  global_id: t-41542
   teiginys: "2010 m. žurnale „Krašto apsauga“ paskelbtas tekstas „Kiekvienas Lietuvos kariuomenės raidos etapas svarbus ir reikšmingas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,13 +63,11 @@ p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lie
     kariuomenės raidos etapas svarbus ir reikšmingas // Krašto apsauga, 2010, Nr. 8 (183), p. 15.
     p. 262, „SAVANORIO LAIŠKAS“ [nepublikuota; laiško nuorašas iš Alberto Daugirdo
     asmeninio archyvo].
-  citata_rodoma: |
-    p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lietuvos
-    kariuomenės raidos etapas svarbus ir reikšmingas // Krašto apsauga, 2010, Nr. 8 (183), p. 15.
+  citata_rodoma: "p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lietuvos\nkariuomenės raidos etapas svarbus ir reikšmingas // Krašto apsauga, 2010, Nr. 8 (183), p. 15."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41542
+    - t-001

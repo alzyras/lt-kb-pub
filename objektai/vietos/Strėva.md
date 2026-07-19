@@ -40,8 +40,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 ## Teiginiai
 
 <a id="claim-t-115020"></a>
-- t-001
-  global_id: t-115020
+- t-002
   teiginys: "Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     - c-106012
 
 <a id="claim-t-115021"></a>
-- t-002
-  global_id: t-115021
+- t-003
   teiginys: "Strėvos kautynės, kuriose dalyvavo būriai iš Vladimiro, Lietuvos Brastos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     - c-32445
 
 <a id="claim-t-115022"></a>
-- t-003
-  global_id: t-115022
+- t-004
   teiginys: "Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     - c-106013
 
 <a id="claim-t-115023"></a>
-- t-004
-  global_id: t-115023
+- t-001
   teiginys: "Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -117,7 +113,6 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 
 <a id="claim-t-184403"></a>
 - t-005
-  global_id: t-184403
   teiginys: "Strėvos kautynės, kuriose dalyvavo būriai iš kelių rytinių žemių, baigėsi lietuvių pralaimėjimu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -187,7 +182,8 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-115021
+    - t-003
+
 - id: c-106011
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -207,7 +203,8 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-115023
+    - t-001
+
 - id: c-106012
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -226,7 +223,8 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-115020
+    - t-002
+
 - id: c-106013
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -279,7 +277,8 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-115022
+    - t-004
+
 - id: c-167768
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -295,4 +294,4 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184403
+    - t-005

@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185523"></a>
 - t-001
-  global_id: t-185523
   teiginys: "Jonas Olbrachtas Rusioje ir Lietuvoje sutelkė kariuomenę ir prie Savranės upės stojo į atvirą kovą su skitais."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-185524"></a>
 - t-002
-  global_id: t-185524
   teiginys: "Kovos prie Savranės pradžia buvo sunki, nes skitai dar prieš tikrąsias kautynes iš tolo apšaudė Jono Olbrachto karius strėlėmis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -95,8 +93,7 @@ Nenurodyta
     - c-168885
 
 <a id="claim-t-196166"></a>
-- t-003
-  global_id: t-196166
+- t-004
   teiginys: "Kojelavičius skitų įsibrovimą vaizdavo kaip sukrėtimą, po kurio valstybės veikėjai ėmė veikti po ankstesnio neveiklumo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -109,8 +106,7 @@ Nenurodyta
     - c-168885
 
 <a id="claim-t-196167"></a>
-- t-004
-  global_id: t-196167
+- t-005
   teiginys: "Sužinojęs apie skitų įsiveržimą į Lenkiją, karalius įsitraukė į karą dėl Podolės ir pavedė sūnui atsargiai pavaduoti jį karo stovykloje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -155,7 +151,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185523
+    - t-001
+
 - id: c-168885
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -179,46 +176,16 @@ Nenurodyta
     kardinolų tarybą, be to, visomis priemonėmis stengė­
     si pelnyti lenkų palankumą Jonui Olbrachtui, kurį ke­
     tino palikti savo įpėdiniu.
-  citata_rodoma: |
-    Kunigaikštis Jonas
-    Olbrachtas, uoliai vykdyda-
-    1489 m eta i
-    mas, kas buvo tėvo nurodyta,
-    K u n ig a ik štis
-    J o n a s
-    greitai sutelkė Rusioje ir Lie-
-    O lb ia c h ta s
-    sum u ša
-    tuvoje kariuomenę ir, patrau-
-    sk itu s
-    kęs į priekį su ryžtingiausiais
-    vyrais, prie Savranės upės at­
-    virame lauke susikovė su priešu. Gurguolės, saugomos
-    nedidelio būrio, lėtai slinko iš paskos. Kovos pradžia
-    buvo gana sunki, nes, neprasidėjus tikroms kautynėms,
-    skitai iš tolo juos apšaudė strėlėmis. Štai todėl kuni­
-    gaikštis paragino savuosius paspaudus žirgus pentinais
-    5 3 5
-
-    ## Puslapis 534
-
-    šuoliais užpulti pagrindines priešų jėgas, susispietu­
-    sias apie jų kovos žymenį, ir, neleidžiant šaudyti
-    iš lankų, priversti kautis kardais. Kariai, nuostabiai
-    vikriai įvykdę įsakymą, bemat privertė priešą" kautis
-    taip, kaip buvo sumanyta, ir susilaukė sėkmės. Priešas
-    neilgai atlaikė tirštų eilių antpuolį: išmuštas iš savo
-    pozicijų, pasitraukė į artimiausias pelkes, daugiau iš
-    šio manevro tikėdamasis, nei iš tiesų turėdamas nau­
-    dos.
+  citata_rodoma: "Kunigaikštis Jonas\nOlbrachtas, uoliai vykdyda-\n1489 m eta i\nmas, kas buvo tėvo nurodyta,\nK u n ig a ik štis\nJ o n a s\ngreitai sutelkė Rusioje ir Lie-\nO lb ia c h ta s\nsum u ša\ntuvoje kariuomenę ir, patrau-\nsk itu s\nkęs į priekį su ryžtingiausiais\nvyrais, prie Savranės upės at­\nvirame lauke susikovė su priešu. Gurguolės, saugomos\nnedidelio būrio, lėtai slinko iš paskos. Kovos pradžia\nbuvo gana sunki, nes, neprasidėjus tikroms kautynėms,\nskitai iš tolo juos apšaudė strėlėmis. Štai todėl kuni­\ngaikštis paragino savuosius paspaudus žirgus pentinais\n5 3 5\n\n## Puslapis 534\n\nšuoliais užpulti pagrindines priešų jėgas, susispietu­\nsias apie jų kovos žymenį, ir, neleidžiant šaudyti\niš lankų, priversti kautis kardais. Kariai, nuostabiai\nvikriai įvykdę įsakymą, bemat privertė priešą\" kautis\ntaip, kaip buvo sumanyta, ir susilaukė sėkmės. Priešas\nneilgai atlaikė tirštų eilių antpuolį: išmuštas iš savo\npozicijų, pasitraukė į artimiausias pelkes, daugiau iš\nšio manevro tikėdamasis, nei iš tiesų turėdamas nau­\ndos."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185524
-    - t-196166
+    - t-002
+    - t-004
+
 - id: c-178565
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -246,4 +213,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196167
+    - t-005

@@ -31,7 +31,6 @@ Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes i
 
 <a id="claim-t-191474"></a>
 - t-001
-  global_id: t-191474
   teiginys: "Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes ir tyrinėjo jo gavybos vietas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes i
 
 <a id="claim-t-197823"></a>
 - t-002
-  global_id: t-197823
   teiginys: "Talis gabenamas, nei kelio, kuriuo jį veždavo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -82,6 +80,7 @@ Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-174356
@@ -101,20 +100,12 @@ Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes i
     upės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­
     gi kalba apie gintarą, randamą ten, kur Aldeskos upė
     įteka į Šiaurės jūrą3.
-  citata_rodoma: |
-    Priartinus mūsų tyrimus prie
-    geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
-    tėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi
-    apie gintaringas vietas; boristeniečiai, ariba Padneprės
-    graikų kolonistai, jam pasakoję, jog šis produktas pasie­
-    kiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt
-    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
-    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
+  citata_rodoma: "Priartinus mūsų tyrimus prie \ngeografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos \ntėvą. Herodotas ¡savo kelionės po Skitiją metu teiravosi \napie gintaringas vietas; boristeniečiai, ariba Padneprės \ngraikų kolonistai, jam pasakoję, jog šis produktas pasie­\nkiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt \ndėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei \nvietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191474
-    - t-197823
+    - t-001
+    - t-002

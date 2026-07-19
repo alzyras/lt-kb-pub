@@ -53,7 +53,6 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 
 <a id="claim-t-55190"></a>
 - t-001
-  global_id: t-55190
   teiginys: "Gedimino laiško vertime pažado tvirtumas išreiškiamas formule, kad pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu, negu bus atšauktas ištartas žodis."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -70,7 +69,6 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 
 <a id="claim-t-55191"></a>
 - t-002
-  global_id: t-55191
   teiginys: "Posakiu „Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu“ pabrėžta, kad duotas žodis nebus atšauktas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -87,7 +85,6 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 
 <a id="claim-t-82144"></a>
 - t-003
-  global_id: t-82144
   teiginys: "Posakiu „pirma geležis į vašką, o vanduo į plieną pavirs“ 1323 m. laiškuose teigta, kad duotas žodis nebus sulaužytas ar atšauktas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -132,8 +129,9 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55190
-    - t-55191
+    - t-001
+    - t-002
+
 - id: c-78634
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -159,4 +157,4 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82144
+    - t-003

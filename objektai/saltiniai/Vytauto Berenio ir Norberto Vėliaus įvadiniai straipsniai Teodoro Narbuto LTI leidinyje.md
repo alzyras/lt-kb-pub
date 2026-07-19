@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-190527"></a>
 - t-001
-  global_id: t-190527
   teiginys: "Įvadiniuose straipsniuose Vytautas Berenis ir Norbertas Vėlius išsamiai aptarė „Lietuvių mitologijai“ tekusią mokslinę kritiką."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190527
+    - t-001

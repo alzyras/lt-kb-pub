@@ -41,7 +41,6 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 
 <a id="claim-t-40522"></a>
 - t-001
-  global_id: t-40522
   teiginys: "Karalaičiui Vladislovui įkalbėjus, LDK kariuomenė laikinai sutiko paklusti Stanislovui Liubomirskiui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 
 <a id="claim-t-184855"></a>
 - t-002
-  global_id: t-184855
   teiginys: "Gediminas padėjo Vladislovui kariauti su Brandenburgo markgrafu Voldemaru."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -76,10 +74,9 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   semantiniai_rysiai: "Gediminas rėmė Vladislovas (0.90)"
   pagrindžia:
     - c-168216
-    - c-002
+
 <a id="claim-t-184856"></a>
 - t-003
-  global_id: t-184856
   teiginys: "Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -97,10 +94,9 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   semantiniai_rysiai: "Gediminas rėmė Vladislovas (0.90); Gediminas kariavo prieš Kryžiuočių ordinas (0.84)"
   pagrindžia:
     - c-168217
-    - c-003
+
 <a id="claim-t-201047"></a>
 - t-004
-  global_id: t-201047
   teiginys: "Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo Vladislovo, Mieško, Henriko ir Kazimiero, kurie, nekakindamos tuo pa dalijimu, lig tėvui nustipus, lig sūnūs sukeršto."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -186,8 +182,6 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184855
 - c-003
   santrauka: 'Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -211,8 +205,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184856
+
 ## Citatos
 
 - id: c-44570
@@ -241,33 +234,15 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     kardus
 
     Venecijos Schiavona (tariasi skjavona).
-  citata_rodoma: |
-    Vėliau,
-    kai kariai sužinojo apie savo vado mirtį,
-    lietuvių kariuomenė nenorėjo paklusti
-    karalystės didžiajam etmonui Stanislovui
-    Liubomirskiui, tik karalaičiui Vladislovui
-    įkalbėjus LDK kariuomenė sutiko jam laiki-
-    nai paklusti.
-
-    Mūšio padariniai
-    Mūšyje prie Chotino lietuvių ir lenkų ka-
-    riuomenės, kompensuodamos artilerijos
-
-    Kautynėse sulaužę
-    savo ietis, husarai
-    išsitraukdavo pala-
-    šus, konceržus arba
-    kardus
-
-    Venecijos Schiavona (tariasi skjavona).
+  citata_rodoma: "Vėliau,\nkai kariai sužinojo apie savo vado mirtį,\nlietuvių kariuomenė nenorėjo paklusti\nkaralystės didžiajam etmonui Stanislovui\nLiubomirskiui, tik karalaičiui Vladislovui\nįkalbėjus LDK kariuomenė sutiko jam laiki-\nnai paklusti.\n\nMūšio padariniai\nMūšyje prie Chotino lietuvių ir lenkų ka-\nriuomenės, kompensuodamos artilerijos\n\nKautynėse sulaužę\nsavo ietis, husarai\nišsitraukdavo pala-\nšus, konceržus arba\nkardus\n\nVenecijos Schiavona (tariasi skjavona)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40522
+    - t-001
+
 - id: c-168216
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -300,35 +275,15 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     nyste su valdovu, kurio dukterį buvo vedęs; jis žuvo
     tada, kai, grįždamas su kariuomene namo, siaubė Ma-
     zoviją.
-  citata_rodoma: |
-    Dvidešimt keturis tūkstančius lenkų be­
-    laisvių dovanojo nelyginant kraitį. Lenkai ėmė naujas
-    2 J 2
-
-    ## Puslapis 211
-
-    viltis puoselėti; naudodamiesi tvirta taika, jie ėmė rū­
-    pestingai prižiūrėti tas pasienio žemes, kurias arba prie­
-    šas buvo kalaviju nusiaubęs, arba patys palikę ne­
-    gyvenamas dėl nuolatinių antpuolių, Gediminas padėjo
-    vėliau Vladislovui kariauti
-    su Voldemaru, Brandenburgo
-    markgrafu. Šiuo žygiu buvo
-    nusiaubti
-    didžiuliai
-    priešo
-    valdų plotai, ypač dėl to, kad
-    lietuviai nelyginant laukiniai
-    stabmeldžiai niokojo šventas ir nešventas vietas, nie­
-    ko nepaisydami ir nerodydami jokios pagarbos tikėji­
-    mui.
+  citata_rodoma: "Dvidešimt keturis tūkstančius lenkų be­\nlaisvių dovanojo nelyginant kraitį. Lenkai ėmė naujas\n2 J 2\n\n## Puslapis 211\n\nviltis puoselėti; naudodamiesi tvirta taika, jie ėmė rū­\npestingai prižiūrėti tas pasienio žemes, kurias arba prie­\nšas buvo kalaviju nusiaubęs, arba patys palikę ne­\ngyvenamas dėl nuolatinių antpuolių, Gediminas padėjo\nvėliau Vladislovui kariauti\nsu Voldemaru, Brandenburgo\nmarkgrafu. Šiuo žygiu buvo\nnusiaubti\ndidžiuliai\npriešo\nvaldų plotai, ypač dėl to, kad\nlietuviai nelyginant laukiniai\nstabmeldžiai niokojo šventas ir nešventas vietas, nie­\nko nepaisydami ir nerodydami jokios pagarbos tikėji­\nmui."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184855
+    - t-002
+
 - id: c-168217
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -354,31 +309,19 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     niems metams, po to, degdami neapykanta ir trokšda­
     mi keršto, nukreipė visas savo jėgas prieš Lietuvą ir
     Žemaitiją.
-  citata_rodoma: |
-    Mat Lenkija, kuri visaip
-    iki šiol stengėsi išsaugoti taiką, ėmė rengtis karui su
-    ordinu; skriausdami kaimynus, kaip ligi šiol skriaudė,
-    kryžiuočiai ir padarė karą neišvengiamą. Vladislovui į
-    pagalbą nuskubėjo pats Gediminas, atskiriems kariuo­
-    menės daliniams vadovauti
-    patikėjęs sūnums. Nunioko­
-    jęs Kulmo kraštą, nuvijęs
-    kryžiuočius ligi Drevantos,
-    apiplėšęs ir išdeginęs bemaž
-    visą* Prūsiją ir kelis kartus į
-    Lietuvą išsivaręs didžiulį gro­
-    bį, Gediminas ilgainiui ant savo pečių užsikrovė visą
-    karo naštą.
+  citata_rodoma: "Mat Lenkija, kuri visaip\niki šiol stengėsi išsaugoti taiką, ėmė rengtis karui su\nordinu; skriausdami kaimynus, kaip ligi šiol skriaudė,\nkryžiuočiai ir padarė karą neišvengiamą. Vladislovui į\npagalbą nuskubėjo pats Gediminas, atskiriems kariuo­\nmenės daliniams vadovauti\npatikėjęs sūnums. Nunioko­\njęs Kulmo kraštą, nuvijęs\nkryžiuočius ligi Drevantos,\napiplėšęs ir išdeginęs bemaž\nvisą* Prūsiją ir kelis kartus į\nLietuvą išsivaręs didžiulį gro­\nbį, Gediminas ilgainiui ant savo pečių užsikrovė visą\nkaro naštą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184856
+    - t-003
+
 - id: c-184397
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Yra raštuose randama, jog tą metą Vsevolodas,
     kunigaikštis Naugardo, kariavęs su lietuviais ir ana- 1135
@@ -399,7 +342,8 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201047
+    - t-004
+
 ## Ryšiai
 - Rėmė Vladislovą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Vladislovas mirė [[objektai/vietos/Bulgarija]]

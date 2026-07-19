@@ -31,7 +31,6 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
 
 <a id="claim-t-87877"></a>
 - t-001
-  global_id: t-87877
   teiginys: "Valentinas iš Pilzno pranešė, kad per Pabaisko bažnyčios gaisrą buvo prarasta jos fundacijos privilegija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,4 +118,4 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87877
+    - t-001

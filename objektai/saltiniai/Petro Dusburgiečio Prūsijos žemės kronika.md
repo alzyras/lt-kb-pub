@@ -31,7 +31,6 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
 
 <a id="claim-t-191693"></a>
 - t-001
-  global_id: t-191693
   teiginys: "Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, kad Merūniškio apskrityje buvo aštuoniolika didelių žemvaldžių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,10 +48,9 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174575
-    - c-001
+
 <a id="claim-t-194679"></a>
 - t-002
-  global_id: t-194679
   teiginys: "Vėlesnieji kronikininkai nė kiek neabejoja šiuo autoriaus teiginiu; jo paties žodžius pacitavome."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
 
 <a id="claim-t-197684"></a>
 - t-003
-  global_id: t-197684
   teiginys: "Galbūt žemės aplink Gailgarbį priklausė jo sosto pilyje gyvenu siam kunigaikščiui, be to, buvo vadinamos Rinavos ap skritimi."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -90,8 +87,7 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191693
+
 ## Citatos
 
 - id: c-174575
@@ -109,18 +105,15 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
     kams, priklausiusiems bajorų giminei. Taip pat čia buvo
     nemažai turtingų didelių žemės valdų savininkų; vien Me-
     rūniškio apskrityje jų būta aštuoniolika (Dusb.
-  citata_rodoma: |
-    Taip pat čia buvo
-    nemažai turtingų didelių žemės valdų savininkų; vien Me-
-    rūniškio apskrityje jų būta aštuoniolika (Dusb. P. III. C.
-    192).
+  citata_rodoma: "Taip pat čia buvo\nnemažai turtingų didelių žemės valdų savininkų; vien Me-\nrūniškio apskrityje jų būta aštuoniolika (Dusb. P. III. C.\n192)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191693
+    - t-001
+
 - id: c-177076
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -141,7 +134,8 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194679
+    - t-002
+
 - id: c-179295
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -163,4 +157,4 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197684
+    - t-003

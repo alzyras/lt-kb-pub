@@ -28,7 +28,6 @@ Rimvydas Laužikas LDK diduomenės kultūrą sieja su ikikrikščioniškos Lietu
 
 <a id="claim-t-200728"></a>
 - t-001
-  global_id: t-200728
   teiginys: "Rimvydas Laužikas LDK diduomenės kultūrą sieja su ikikrikščioniškos Lietuvos aplinka ir joje atpažįstamais Šiaurės barbarikumo elementais."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,5 @@ Rimvydas Laužikas LDK diduomenės kultūrą sieja su ikikrikščioniškos Lietu
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200728
+    - t-001

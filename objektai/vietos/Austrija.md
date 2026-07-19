@@ -40,8 +40,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 ## Teiginiai
 
 <a id="claim-t-182067"></a>
-- t-001
-  global_id: t-182067
+- t-018
   teiginys: "Per Abiejų Tautų Respublikos padalijimus Kotryna II trečdalį padalytos valstybės turėjo užleisti Prūsijai ir Austrijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 
 <a id="claim-t-182996"></a>
 - t-002
-  global_id: t-182996
   teiginys: "Austrijos Juozapas II vykdė reformas, kuriomis net Bažnyčią pajungė valstybės valdžiai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -246,7 +244,8 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182996
+    - t-002
+
 - id: c-165561
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -264,4 +263,4 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182067
+    - t-018

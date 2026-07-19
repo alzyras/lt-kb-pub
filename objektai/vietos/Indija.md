@@ -33,9 +33,8 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
 
 <a id="claim-t-188936"></a>
 - t-001
-  global_id: t-188936
   teiginys: "Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų, daugelio mokslų bei religinių vaizdinių kilmės vieta."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -51,10 +50,9 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171825
-    - c-001
+
 <a id="claim-t-192665"></a>
 - t-002
-  global_id: t-192665
   teiginys: "Narbutas remiasi Plinijaus užrašytu Archelajo pasakojimu, kad iš Indijos buvo atvežama gintaro žaliava, dar neatskirta nuo medžių žievės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -108,8 +106,7 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188936
+
 ## Citatos
 
 - id: c-171825
@@ -128,24 +125,15 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
     atskirus, tikybos valdininkų įgaliotus dievus. Štai kokia yra tikra
     ir per amžių amžius patikrinta tiesa, kad tikybinis sugedimas
     kyla iš pačių religijos sargų arba kunigų.
-  citata_rodoma: |
-    Tiesą sako „Antilukrecijaus“ auto­
-    rius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir
-    žmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi­
-    namomis su smilkytuvu rankose“1.
-    Indiją, gražiausią senojo pasaulio šalį, tikriausiai iš pat pra­
-    džių buvo apgyvenę civilizuoti žmonės, nes iš ten kilo ir dau­
-    gybė kastų, ir daugelis mokslų, o su jais religiniai vaizdiniai.
-    Senovės istorija aiškina, kaip tatai perėjo iš indų pas chaldė-
-    jus, iš chaldėjų pas egiptiečius, iš šių pas graikus, paskui pas
-    romėnus ir kitus.
+  citata_rodoma: "Tiesą sako „Antilukrecijaus“ auto­\nrius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir\nžmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi­\nnamomis su smilkytuvu rankose“1.\nIndiją, gražiausią senojo pasaulio šalį, tikriausiai iš pat pra­\ndžių buvo apgyvenę civilizuoti žmonės, nes iš ten kilo ir dau­\ngybė kastų, ir daugelis mokslų, o su jais religiniai vaizdiniai.\nSenovės istorija aiškina, kaip tatai perėjo iš indų pas chaldė-\njus, iš chaldėjų pas egiptiečius, iš šių pas graikus, paskui pas\nromėnus ir kitus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188936
+    - t-001
+
 - id: c-175435
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -168,4 +156,4 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192665
+    - t-002

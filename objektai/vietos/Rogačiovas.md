@@ -38,9 +38,8 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
 
 <a id="claim-t-189052"></a>
 - t-001
-  global_id: t-189052
   teiginys: "Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių, kuriuos priskiria skitams."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,7 +58,6 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
 
 <a id="claim-t-192739"></a>
 - t-002
-  global_id: t-192739
   teiginys: "Narbutas manė, kad aptariamas kraštas turėtų būti Rogačiovo apylinkėse ir aukščiau."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
 
 <a id="claim-t-192740"></a>
 - t-003
-  global_id: t-192740
   teiginys: "Narbutas Rogačiovą laikė Gerų krašto viduriu, nes jo apylinkėse esą buvo gausiausi pilkapių rinkiniai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -101,7 +98,6 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
 
 <a id="claim-t-192741"></a>
 - t-004
-  global_id: t-192741
   teiginys: "Narbutas teigė ištisą vasarą praleidęs Rogačiove, matuodamas ir prižiūrėdamas Uždneprės slėnių užtvankas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -115,7 +111,6 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
 
 <a id="claim-t-197916"></a>
 - t-005
-  global_id: t-197916
   teiginys: "Iš to darau išvadą, jog Gerų kraštas plytėjo abie jose Dnepro pakrantėse, kur viename plote sukaupta ga na daug pilkapių, panašių į šen bei ten išmėtytus kapi nynus, šio krašto vidurys yra Rogačiovas, kurio apylin kėse esama gausiausių pilkapių rinkinių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -128,7 +123,6 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
 
 <a id="claim-t-197917"></a>
 - t-006
-  global_id: t-197917
   teiginys: "Šio ploto centras yra Rogačiovo miestas, kurio apy linkėse plyti nesuskaičiuojama gausybė šių senojo am žiaus paminklų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -169,6 +163,7 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-171941
@@ -187,21 +182,15 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
     4 Žr. Klimaševskio 1831 metų NoworocznikLitewski (p. 206)**.
     5 Slaptajame kryžiuočių archyve Karaliaučiuje, krašto retenybių
     rinkinyje, yra nemažai tokių akmenų.
-  citata_rodoma: |
-    Kad Pavyslio, Padneprio senieji gyventojai
-    ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų
-    vaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
-    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
-    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
-    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
-    jų, neužkąsdami jų žemėje, supildavo kalnelius.
+  citata_rodoma: "Kad Pavyslio, Padneprio senieji gyventojai\nir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų\nvaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,\nesama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų\nbuvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­\njo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­\njų, neužkąsdami jų žemėje, supildavo kalnelius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189052
+    - t-001
+
 - id: c-175509
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -220,7 +209,8 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192739
+    - t-002
+
 - id: c-175510
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -244,25 +234,16 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
     užliejamą slėnį; šiame slėnyje tęsiasi juosta šiandien
     sąnašų perskirtos įdubo-s, kur pavasario potvynių vande­
     nys sudaro vasarą išdžiūstančius ežerus.
-  citata_rodoma: |
-    Smulkiau panagrinėsime mūsų stebėjimus. 1810 me­
-    tais kaip inžinierius, įpareigotas parinkti tinkamą tvirto­
-    vei vietą tarp Mogiliovo ir Kijevo, galėjau pakankamai
-    sukaupti medžiagos, susijusios su mūsų aptariamu daly­
-    ku, kuris visuomet buvo mano mėgstamiausias užsiėmi­
-    mas*. Iš to darau išvadą, jog Gerų kraštas plytėjo abie­
-    jose Dnepro pakrantėse, kur viename plote sukaupta ga­
-    na daug pilkapių, panašių į šen bei ten išmėtytus kapi­
-    nynus, šio krašto vidurys yra Rogačiovas, kurio apylin­
-    kėse esama gausiausių pilkapių rinkinių.
+  citata_rodoma: "Smulkiau panagrinėsime mūsų stebėjimus. 1810 me­\ntais kaip inžinierius, įpareigotas parinkti tinkamą tvirto­\nvei vietą tarp Mogiliovo ir Kijevo, galėjau pakankamai \nsukaupti medžiagos, susijusios su mūsų aptariamu daly­\nku, kuris visuomet buvo mano mėgstamiausias užsiėmi­\nmas*. Iš to darau išvadą, jog Gerų kraštas plytėjo abie­\njose Dnepro pakrantėse, kur viename plote sukaupta ga­\nna daug pilkapių, panašių į šen bei ten išmėtytus kapi­\nnynus, šio krašto vidurys yra Rogačiovas, kurio apylin­\nkėse esama gausiausių pilkapių rinkinių."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192740
-    - t-197916
+    - t-003
+    - t-005
+
 - id: c-175511
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -282,5 +263,5 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192741
-    - t-197917
+    - t-004
+    - t-006

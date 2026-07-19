@@ -31,7 +31,6 @@ Taip pat ir vė­ liau, antrąsyk mūsiškiams pajudėjus ir patraukus prieš t�
 
 <a id="claim-t-86251"></a>
 - t-001
-  global_id: t-86251
   teiginys: "Gabrielius Bekešas žygyje ties Velikije Lūkiais vadovavo vengrų kariuomenės riteriams prieš Maskvos kunigaikštį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ Taip pat ir vė­ liau, antrąsyk mūsiškiams pajudėjus ir patraukus prieš t�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86251
+    - t-001

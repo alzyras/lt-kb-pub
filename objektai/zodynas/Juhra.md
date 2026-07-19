@@ -48,7 +48,6 @@ reikšmė čia gana tiesioginė, bet viešame įraše derėtų rodyti, kad tai N
 
 <a id="claim-t-192223"></a>
 - t-001
-  global_id: t-192223
   teiginys: "Narbutas žodį „Juhra“ pateikia kaip lietuvių-prūsų dialekto formą, reiškiančią „jūra“, ir sieja ją su latvių kalba."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -64,7 +63,7 @@ reikšmė čia gana tiesioginė, bet viešame įraše derėtų rodyti, kad tai N
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175074
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -82,8 +81,7 @@ reikšmė čia gana tiesioginė, bet viešame įraše derėtų rodyti, kad tai N
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192223
+
 ## Citatos
 
 - id: c-175074
@@ -112,13 +110,11 @@ reikšmė čia gana tiesioginė, bet viešame įraše derėtų rodyti, kad tai N
     girdai, Eygirdy, Eigirdžiai, Eygirdzie, Daugirdai, Dowgirdy, Negir-
     biai, Negirby, Skauzgiriai, Szkowsgirdy, Vozgirdai, Wazgirdy, Viz­
     girdai, Wizgirdy etc.
-  citata_rodoma: |
-    Lietuvių-prūsų dialekte dar yra žodis Juhra, jūra2, be to,
-    taip pat ir latvių kalba3.
+  citata_rodoma: "Lietuvių-prūsų dialekte dar yra žodis Juhra, jūra2, be to,\ntaip pat ir latvių kalba3."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192223
+    - t-001

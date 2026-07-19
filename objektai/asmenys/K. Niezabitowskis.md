@@ -34,28 +34,11 @@ media_all_json: |-
 
 K. Niezabitowskis chronologine tvarka surinko lietuvių, žemaičių ir prūsų-lietuvių veikalų apžvalgą, paskelbtą „Dziennik Wilenski“ 1824 m.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-191427"></a>
-- t-001
-  global_id: t-191427
-  teiginys: 'K. Niezabitowskis chronologine tvarka surinko lietuvių, žemaičių ir prūsų-lietuvių veikalų apžvalgą, paskelbtą „Dziennik Wilenski“ 1824 m.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas bibliografinis sakinys apie K. Niezabitowskio parengtą apžvalgą. Palikti tik citatoje nurodyti objektas, pobūdis ir publikavimo vieta.'
-  temporaliniai_duomenys: 'įvykio data: 1824 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas bibliografinis sakinys apie K. Niezabitowskio parengtą apžvalgą. Palikti tik citatoje nurodyti objektas, pobūdis ir publikavimo vieta.'
-  pagrindžia:
-    - c-174309
-
-## Citatos
-
-- id: c-174309
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'K. Niezabitowskis chronologine tvarka surinko lietuvių, žemaičių ir prūsų-lietuvių veikalų apžvalgą, paskelbtą „Dziennik Wilenski“ 1824 m.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Turimas omenyje straipsnis: Wiadomosc o Li-
     teraturze
@@ -87,10 +70,8 @@ K. Niezabitowskis chronologine tvarka surinko lietuvių, žemaičių ir prūsų-
     porządkiem chronologicznym zebrana przez
     K. Niezabitowskiego 2mudzina / /  Dziennik
     Wilenski. 1824. T. 1. S. 381—388.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191427
+  statusas: verified

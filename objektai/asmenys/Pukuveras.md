@@ -41,8 +41,7 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
 ## Teiginiai
 
 <a id="claim-t-60195"></a>
-- t-001
-  global_id: t-60195
+- t-002
   teiginys: "1292 m. Lietuvos karalius Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
     - c-60827
 
 <a id="claim-t-60196"></a>
-- t-002
-  global_id: t-60196
+- t-001
   teiginys: "Pukuveras buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -121,7 +119,8 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60195
+    - t-002
+
 - id: c-60828
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -135,17 +134,15 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
     Jis vardija vargšus, neturtingus (pauperes), menkus, silpnus (impotentes), vergus ir
     tarnaites, verges (servi et ancille — III, 5; mulier Pruthena servilis condicionis — III,
     130), taip pat laukininkus — valstiečius (rustict — III, 262).
-  citata_rodoma: |
-    Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum):
-    Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267,
-    269, 306, 310, 356).
+  citata_rodoma: "Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum):\nMindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267,\n269, 306, 310, 356)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60196
+    - t-001
+
 ## Ryšiai
 - Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas [[objektai/vietos/Lietuva]]
 - Pukuveras (Lietuvos karalius, XIII a.) siuntė į [[objektai/vietos/Lenkija]]

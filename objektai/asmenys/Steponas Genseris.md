@@ -32,8 +32,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87460"></a>
-- t-001
-  global_id: t-87460
+- t-002
   teiginys: "Steponas Genseris buvo auksakalys, kurį karaliaus dekretas atleido nuo Vilniaus miesto jurisdikcijos ir cechų valdžios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ media_all_json: |-
     - c-83440
 
 <a id="claim-t-87461"></a>
-- t-002
-  global_id: t-87461
+- t-001
   teiginys: "Auksakalys Steponas Genseris buvo pašauktas į teismą Vilniaus miesto auksakalių cecho reikalavimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87461
+    - t-001
+
 - id: c-83440
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -117,23 +116,11 @@ media_all_json: |-
     Vilniaus miesto cechų skelbiame esančius laisvus pagal mū­
     sų dekretą amžiniems laikams. Šio dalyko patvirtinimui mū­
     sų antspaudas rašto apačioje yra įspaustas.
-  citata_rodoma: |
-    Mes su
-    savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­
-    jų pusių ginčus, pamatę atneštas abiejų pusių privilegijas,
-    mūsų pirmtako šv. atminties karaliaus Vladislovo duotas ir
-    leistas Vilniaus katedros bažnyčiai ir tuometiniam vysku­
-    pui, ir minėtą Bełsko suvažiavimo sprendimą savo galioje
-    paliekame ir patį apskųstąjį auksakalį Steponą Genserį ir ki­
-    tus, priklausančius Vilniaus vyskupijos jurisdikcijai, nuo bet
-    kokios pasaulietinės mūsų Vilniaus miesto jurisdikcijos ir
-    Vilniaus miesto cechų skelbiame esančius laisvus pagal mū­
-    sų dekretą amžiniems laikams. Šio dalyko patvirtinimui mū­
-    sų antspaudas rašto apačioje yra įspaustas.
+  citata_rodoma: "Mes su \nsavo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­\njų pusių ginčus, pamatę atneštas abiejų pusių privilegijas, \nmūsų pirmtako šv. atminties karaliaus Vladislovo duotas ir \nleistas Vilniaus katedros bažnyčiai ir tuometiniam vysku­\npui, ir minėtą Bełsko suvažiavimo sprendimą savo galioje \npaliekame ir patį apskųstąjį auksakalį Steponą Genserį ir ki­\ntus, priklausančius Vilniaus vyskupijos jurisdikcijai, nuo bet \nkokios pasaulietinės mūsų Vilniaus miesto jurisdikcijos ir \nVilniaus miesto cechų skelbiame esančius laisvus pagal mū­\nsų dekretą amžiniems laikams. Šio dalyko patvirtinimui mū­\nsų antspaudas rašto apačioje yra įspaustas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87460
+    - t-002

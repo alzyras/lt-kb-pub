@@ -32,7 +32,6 @@ Adamkavičiaus vadovaujamas Kauno batalionas.
 
 <a id="claim-t-40092"></a>
 - t-001
-  global_id: t-40092
   teiginys: "Plk. ltn. E. Adamkavičius vadovavo Kauno batalionui Varnionių-Daugėlaičių-Šiaulėnų atkarpoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,25 +53,18 @@ Adamkavičiaus vadovaujamas Kauno batalionas.
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Butkaus
+    Itn. J. Butkaus
     vadovaujamas Marijampolės
     batalionas; Varnionių-Dau-
     gėlaičių-Šiaulėnų atkarpą
 
     plk. ltn. E. Adamkavičiaus va-
     dovaujamas Kauno batalionas.
-  citata_rodoma: |
-    Butkaus
-    vadovaujamas Marijampolės
-    batalionas; Varnionių-Dau-
-    gėlaičių-Šiaulėnų atkarpą
-
-    plk. ltn. E. Adamkavičiaus va-
-    dovaujamas Kauno batalionas.
+  citata_rodoma: "Butkaus\nvadovaujamas Marijampolės\nbatalionas; Varnionių-Dau-\ngėlaičių-Šiaulėnų atkarpą\n\nplk. ltn. E. Adamkavičiaus va-\ndovaujamas Kauno batalionas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40092
+    - t-001

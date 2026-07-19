@@ -31,7 +31,6 @@ Maskvos valdovas Ivanas, prisiekdamas visomis šventenybėmis, žadėjo išdavik
 
 <a id="claim-t-185481"></a>
 - t-001
-  global_id: t-185481
   teiginys: "Maskvos valdovas Ivanas, prisiekdamas visomis šventenybėmis, žadėjo išdavikams nuo Lietuvos atplėštus miestus ir kraštus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Maskvos valdovas Ivanas, prisiekdamas visomis šventenybėmis, žadėjo išdavik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185481
+    - t-001

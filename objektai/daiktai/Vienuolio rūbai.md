@@ -51,9 +51,8 @@ Nenurodyta
 
 <a id="claim-t-186833"></a>
 - t-001
-  global_id: t-186833
   teiginys: "Lietuvos metraštyje vienuolio rūbai minimi pasakojant apie apsivilkusį asmenį, kuris trejus metus išbuvo vienuolyne."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Rūbai: 0.85"
@@ -85,13 +84,11 @@ Nenurodyta
     tą nužudyti, o Treniota tą patį galvojo apie Tautvilą.
     Tautvilos bajoras, polockietis Prakapas, išdavė jo kės­
     lą.
-  citata_rodoma: |
-    Grigorijų, Apsivilko vienuolio rūbais ir išbuvo vienuo­
-    lyne trejus metus.
+  citata_rodoma: "Grigorijų, Apsivilko vienuolio rūbais ir išbuvo vienuo­\nlyne trejus metus."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186833
+    - t-001

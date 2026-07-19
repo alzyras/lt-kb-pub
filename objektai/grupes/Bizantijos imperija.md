@@ -31,7 +31,6 @@ Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosi
 
 <a id="claim-t-01290"></a>
 - t-001
-  global_id: t-01290
   teiginys: "Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,13 +61,11 @@ Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosi
     ji turėjo didžiuosius prekybos centrus ir buvo turtingiausia.
     Skandinavai, būdami energingiausi iš šiaurės Europos tautų, tu-
     rėjo nuolatinį upių susisiekimą su Bizantija.
-  citata_rodoma: |
-    Skandinavai, būdami energingiausi iš šiaurės Europos tautų, tu-
-    rėjo nuolatinį upių susisiekimą su Bizantija.
+  citata_rodoma: "Skandinavai, būdami energingiausi iš šiaurės Europos tautų, tu-\nrėjo nuolatinį upių susisiekimą su Bizantija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01290
+    - t-001

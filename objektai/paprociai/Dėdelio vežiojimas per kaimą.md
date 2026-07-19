@@ -62,19 +62,17 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195403"></a>
-- t-001
-  global_id: t-195403
+- t-004
   teiginys: "Autorius rašo, kad vėliau Pelenijoje dėdelio jau nebevežiodavo."
-  atnaujinta: "2026-07-12 02:18"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177821
+    - c-177820
 
 <a id="claim-t-195404"></a>
-- t-002
-  global_id: t-195404
+- t-001
   teiginys: "Pelenijoje mažiukai per kaimą veždavo „dėdelį“."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -84,8 +82,7 @@ Nenurodyta
     - c-177820
 
 <a id="claim-t-195405"></a>
-- t-003
-  global_id: t-195405
+- t-002
   teiginys: "Pervažiavę kaimą vaikai dėdelį grąžindavo į jo vietą ant ūkininko tvarto ir jį nurengdavo arba palikdavo aprengtą kitiems metams."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -118,15 +115,16 @@ Nenurodyta
     žiuodavo tą dieną į bažnyčią mišių klausyti, pelenais galvos barstyti,
     bet kitiems proga ir dantis plauti.
     Pelenijoje mažiukai veždavo per kaimą „dėdelį“ .
-  citata_rodoma: |
-    Pelenijoje mažiukai veždavo per kaimą „dėdelį“ .
+  citata_rodoma: "Pelenijoje mažiukai veždavo per kaimą „dėdelį“ ."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195404
+    - t-004
+    - t-001
+
 - id: c-177821
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -138,15 +136,13 @@ Nenurodyta
     gavėnia, nejaučiamas griežtas skirtumas minimų laikų. Užgavėnėse
     jau ne devynis sykius valgoma, Pelenijoje jau dantų neplaunama, dė­
     delio nevežiojama ir gavėnios negavėjama.
-  citata_rodoma: |
-    Pelenijoje jau dantų neplaunama, dėdelio nevežiojama ir gavėnios negavėjama.
+  citata_rodoma: "Pelenijoje jau dantų neplaunama, dėdelio nevežiojama ir gavėnios negavėjama."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195403
 - id: c-177822
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -158,12 +154,11 @@ Nenurodyta
     esti pas įlaidų ūkininką ant tvarto.
     Čia jį nurėdo, arba palieka aprė­
     dytą kitiems metams.
-  citata_rodoma: |
-    Pervažiavę visą kaimą ir sugrįžę, vaikai veža dėdelį, iš kur paėmę. Jo būstinės vieta esti pas įlaidų ūkininką ant tvarto. Čia jį nurėdo, arba palieka aprėdytą kitiems metams.
+  citata_rodoma: "Pervažiavę visą kaimą ir sugrįžę, vaikai veža dėdelį, iš kur paėmę. Jo būstinės vieta esti pas įlaidų ūkininką ant tvarto. Čia jį nurėdo, arba palieka aprėdytą kitiems metams."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195405
+    - t-002

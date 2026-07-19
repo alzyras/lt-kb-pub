@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-189634"></a>
 - t-001
-  global_id: t-189634
   teiginys: "Narbutas sieja Jeronimo Prahiškio pasakojimą Pijui II ir Bazelio susirinkimo tėvams su atsiskaitymu apie apaštalavimą Lietuvoje 1392 arba 1393 m."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -102,4 +101,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189634
+    - t-001

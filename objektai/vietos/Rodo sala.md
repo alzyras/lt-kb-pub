@@ -31,7 +31,6 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 
 <a id="claim-t-58717"></a>
 - t-001
-  global_id: t-58717
   teiginys: "Hospitaljerai užėmė turkų gyvenamą Rodo salą ir dar penkias salas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,19 +45,15 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie tai, kaip hospitaljerai užėmė Rodo salą
+    103. Apie tai, kaip hospitaljerai užėmė Rodo salą
 
        Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas
     salas (Mart. p. 442).
-  citata_rodoma: |
-    Apie tai, kaip hospitaljerai užėmė Rodo salą
-
-       Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas
-    salas (Mart. p. 442).
+  citata_rodoma: "Apie tai, kaip hospitaljerai užėmė Rodo salą\n\n   Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas\nsalas (Mart. p. 442)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58717
+    - t-001

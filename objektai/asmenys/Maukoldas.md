@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-87550"></a>
 - t-001
-  global_id: t-87550
   teiginys: "Maukoldas, pasak šaltinyje perteikto pasakojimo, buvo Rostislavo Rogvoldovičiaus sūnus ir Mindaugo tėvas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ media_all_json: |-
 
 <a id="claim-t-194232"></a>
 - t-002
-  global_id: t-194232
   teiginys: "Vis dėlto gal po ta genealogi nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas bus valdęs, bet šito nei tvirtai teigti, nei."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,7 @@ media_all_json: |-
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    48), liudija, kad XII amžiuje jau
+    I. 48), liudija, kad XII amžiuje jau
     būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­
     lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi-
     čių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus
@@ -91,24 +89,15 @@ media_all_json: |-
     masis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er-
     deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
     vas3.
-  citata_rodoma: |
-    48), liudija, kad XII amžiuje jau
-    būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­
-    lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi-
-    čių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus
-    valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą, sū­
-    nus Rostislavo Rogvoldovičiaus, kurį tas pats Mstislavas
-    išvijo į Graikiją. Tasai Dovilas ar Dovydas turėjo būti pir­
-    masis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er-
-    deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
-    vas3.
+  citata_rodoma: "48), liudija, kad XII amžiuje jau \nbūta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­\nlavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi- \nčių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus \nvaldžiai, vietininkais pasikvietę Dovilą ir Maukoldą, sū­\nnus Rostislavo Rogvoldovičiaus, kurį tas pats Mstislavas \nišvijo į Graikiją. Tasai Dovilas ar Dovydas turėjo būti pir­\nmasis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er- \ndeno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­\nvas3."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87550
+    - t-001
+
 - id: c-176829
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -132,6 +121,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194232
+    - t-002
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202027"></a>
 - t-001
-  global_id: t-202027
   teiginys: "Miestas valdovo sutikimo proga prie Kauno pastatė vadinamuosius triumfo vartus, prie kurių miesto savivaldos institucijų nariai ir miestiečiai su vėliavomis pasitiko valdovą, įteikė jam simbolinius sidabrinius miesto raktus."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-202028"></a>
 - t-002
-  global_id: t-202028
   teiginys: "Ir nors miestiečiams nereikėjo apgyvendinti paties valdovo, jo gausūs dvariškiai ir kiti palydovai, be abejo, pasinaudojo priverstiniu miestiečių svetingumu."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -66,6 +64,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185375
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -86,7 +87,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202027
+    - t-001
 
 - id: c-185375
   autorius: "Zigmantas Kiaupa"
@@ -103,4 +104,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202028
+    - t-002

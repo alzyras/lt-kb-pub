@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-189620"></a>
 - t-001
-  global_id: t-189620
   teiginys: "Narbutas nurodo, kad 1302 m. Gediminas suteikė Krunevičiui herbą kaip slavų giminei skirtą didžiojo kunigaikščio dovaną."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,12 +68,11 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172503
-    - c-001
+
 <a id="claim-t-189621"></a>
 - t-002
-  global_id: t-189621
   teiginys: "Narbutas pažymi, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino herbo suteikimą Krunevičiui, bet šaltinio nenurodė."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -90,7 +88,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172504
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad 1302 m. Gediminas suteikė Krunevičiui herbą kaip slavų giminei skirtą didžiojo kunigaikščio dovaną.'
@@ -109,8 +107,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189620
 - c-002
   santrauka: 'Narbutas pažymi, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino herbo suteikimą Krunevičiui, bet šaltinio nenurodė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -128,8 +124,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189621
+
 ## Citatos
 
 - id: c-172503
@@ -150,22 +145,15 @@ Nenurodyta
     dalo ir seno graviravimo signečių pėdsakas. Jose pastebime
     arba mitologinius ženklus, arba pavaizduotus fetišus, arba die-
     11 Skaityk straipsnį „Šventyklos”.
-  citata_rodoma: |
-    Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
-    jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
-    Hipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­
-    nigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302
-    metais Gediminas davė Krunevičiui10. Sis paprotys lietuviams
-    nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios
-    Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,
-    kad jiems būtų suteikti herbai -  taip būdavo Lenkijoje.
+  citata_rodoma: "Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­\njo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi\nHipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­\nnigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302\nmetais Gediminas davė Krunevičiui10. Sis paprotys lietuviams\nnebuvo būdingas, bet kai kurios riterių šeimos, priklausančios\nLietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,\nkad jiems būtų suteikti herbai -  taip būdavo Lenkijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189620
+    - t-001
+
 - id: c-172504
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -183,19 +171,11 @@ Nenurodyta
     metais; d - Pašičius (Paszyc) 1510 metais; e - Stecevičius (Ste-
     cewicz) 1609 m etais;/- Zubas (Zub) 1480 metais; g - Rekstys
     (Rexč) 1481 metais;/?
-  citata_rodoma: |
-    Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
-    herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse. Mū­
-    sų heraldikos specialistus lenkus visuomet užgula didelis rū­
-    10
-    Žinių apie tai, kaip Gediminas suteikė herbą Krunevičiui, patei­
-    kė Malachovskis savo bajoriškų pavardžių rinkinyje (tik neaišku, kokiu
-    šaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­
-    nomas ir Neseckiui.
+  citata_rodoma: "Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų\nherbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse. Mū­\nsų heraldikos specialistus lenkus visuomet užgula didelis rū­\n10\nŽinių apie tai, kaip Gediminas suteikė herbą Krunevičiui, patei­\nkė Malachovskis savo bajoriškų pavardžių rinkinyje (tik neaišku, kokiu\nšaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­\nnomas ir Neseckiui."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189621
+    - t-002

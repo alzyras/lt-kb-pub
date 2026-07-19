@@ -36,7 +36,6 @@ Dusburgietis teigia, kad kuzavinis К.
 
 <a id="claim-t-61114"></a>
 - t-001
-  global_id: t-61114
   teiginys: "K. Kuzavinio „Etymologica“ paskelbta 1966 m. žurnalo „Baltistica“ 1 tomo 2 numeryje, p. 177–184."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Dusburgietis teigia, kad kuzavinis К.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61114
+    - t-001

@@ -39,7 +39,6 @@ Priselkov, M.
 
 <a id="claim-t-31841"></a>
 - t-001
-  global_id: t-31841
   teiginys: "M. Priselkovo ir M. Fasmerio „Otryvki V. N. Beneševiča po istoriji russkoj cerkvi XIV v.“ publikuota 1916 m., p. 49–61."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,14 +66,11 @@ Priselkov, M.
     (^6) **M. Priselkov, M. Fasmer :** **_Otryvki V. N. Beneševiča po istoriji russ-
     koj cerkvi XIV v._** **(Izvestija Otd. Russk. Jaz. i Slov.) 1916, 49-61 p.**
     (^7) **LUB, II, 333 p.**
-  citata_rodoma: |
-    **
-    (^6) **M. Priselkov, M. Fasmer :** **_Otryvki V. N. Beneševiča po istoriji russ-
-    koj cerkvi XIV v._** **(Izvestija Otd. Russk. Jaz. i Slov.) 1916, 49-61 p.
+  citata_rodoma: "**\n(^6) **M. Priselkov, M. Fasmer :** **_Otryvki V. N. Beneševiča po istoriji russ-\nkoj cerkvi XIV v._** **(Izvestija Otd. Russk. Jaz. i Slov.) 1916, 49-61 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31841
+    - t-001

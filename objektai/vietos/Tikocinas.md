@@ -40,7 +40,6 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 
 <a id="claim-t-85857"></a>
 - t-001
-  global_id: t-85857
   teiginys: "Apie 1345 m. Goštautui išvykus į Palenkės Tikociną, Vilniuje prastuomenė užėmė pranciškonų vienuolyną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     - c-81842
 
 <a id="claim-t-85858"></a>
-- t-002
-  global_id: t-85858
+- t-004
   teiginys: "Tikocine buvę ginklai ir karinė amunicija turėjo likti ten kaip valdovo nuosavoje pilyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 
 <a id="claim-t-85859"></a>
 - t-003
-  global_id: t-85859
   teiginys: "Tikocine pas Zaleskį buvę bažnytiniai reikmenys turėjo būti perduoti Vilniaus Šv. Onos bažnyčiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,8 +91,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     - c-81840
 
 <a id="claim-t-85860"></a>
-- t-004
-  global_id: t-85860
+- t-002
   teiginys: "Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,7 +108,6 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 
 <a id="claim-t-185158"></a>
 - t-005
-  global_id: t-185158
   teiginys: "Goštautas kartą išvyko į Tikociną Palenkėje, arba Poleksijoje."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -129,7 +124,6 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168519
-    - c-005
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173208|Petras Goštautas]]: Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54989|Petras Goštautas]]: Apie 1345 m. prieš pranciškonų žudynes Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną.
 - susijęs iš [[objektai/ivykiai/Šv. Pranciškaus ordino brolių nukankinimas Vilniuje.md#claim-t-185792|Šv. Pranciškaus ordino brolių nukankinimas Vilniuje]]: Goštautui išvykus į Tikociną, Vilniuje sukurstyta minia nužudė keturiolika krikščionių vienuolių.
@@ -195,8 +189,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185158
+
 ## Citatos
 
 - id: c-81839
@@ -251,7 +244,8 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85860
+    - t-002
+
 - id: c-81840
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -277,7 +271,8 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85859
+    - t-003
+
 - id: c-81841
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -299,7 +294,8 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85858
+    - t-004
+
 - id: c-81842
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -324,32 +320,15 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
     bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
     atminti stovi kryžiai, Vilnios upės bangose žūtį rado19.
-  citata_rodoma: |
-    - medinės bažnyčios ir bazilijo­
-    nų vienuolyno įkūrimą Vilniuje pri­
-    skiria Vitebsko kunigaikštytei Juli-
-    27
-
-    ## Puslapis 44
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    sykiu su pranciškonais daug prisidėjo tą tikėjimą įtvirtinant
-    Vilniuje. Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­
-    mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­
-    kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­
-    menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o
-    gal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus,
-    smurtu užėmusi pranciškonų vienuolyną, septynis vienuo­
-    lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
-    bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
-    atminti stovi kryžiai, Vilnios upės bangose žūtį rado19.
+  citata_rodoma: "- medinės bažnyčios ir bazilijo­\nnų vienuolyno įkūrimą Vilniuje pri­\nskiria Vitebsko kunigaikštytei Juli-\n27\n\n## Puslapis 44\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nsykiu su pranciškonais daug prisidėjo tą tikėjimą įtvirtinant \nVilniuje. Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­\nmėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­\nkalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­\nmenė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o \ngal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus, \nsmurtu užėmusi pranciškonų vienuolyną, septynis vienuo­\nlius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos \nbėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms \natminti stovi kryžiai, Vilnios upės bangose žūtį rado19."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85857
+    - t-001
+
 - id: c-168519
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -378,34 +357,14 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     nią. Šventus nužudytųjų kūnus Goštautas įsakė surasti
     ir palaidoti toje pačioje aikštėje, kur jie skelbė Kris­
     taus žodį.
-  citata_rodoma: |
-    Mat Goštautas buvo la-
-    Š v e n to
-    P ra n cišk a u s
-    bai įtakingas ir galingas Lie-
-    o id in o  b ro lia i n u kan -
-    tuvoje: kai Algirdas kur iš-
-    k in a m i V iln iu je
-    vykdavo, jis valdydavo val­
-    stybę. Kol jis pats gyveno
-    Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,
-    tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen­
-    kėję, arba Poleksijoje), minia, kažin kieno sukursty­
-    ta, žiauriai su jais susidorojo. Vienas būrelis iš sep­
-    tynių vienuolių buvo prievarta išvilktas iš namų į aikš­
-    tę, kur jie, miniai piktažodžiaujant, buvo nukirsdinti,
-    tuo būdu pašventindami savo krauju lietuvių žemes
-    Kristaus mokslo sėjai; kitas būrelis, taip pat iš septy­
-    nių vienuolių, buvo nutemptas į kalną, kurį žmonės
-    vadina Plikuoju, čia juos prie kryžių pririšo ir nuo
-    stataus kalno šlaito nustūmė į papėdėje tekančią Vil­
-    nią.
+  citata_rodoma: "Mat Goštautas buvo la-\nŠ v e n to\nP ra n cišk a u s\nbai įtakingas ir galingas Lie-\no id in o  b ro lia i n u kan -\ntuvoje: kai Algirdas kur iš-\nk in a m i V iln iu je\nvykdavo, jis valdydavo val­\nstybę. Kol jis pats gyveno\nVilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,\ntačiau, jam išvykus (kartą iškeliavo į Tikociną Palen­\nkėję, arba Poleksijoje), minia, kažin kieno sukursty­\nta, žiauriai su jais susidorojo. Vienas būrelis iš sep­\ntynių vienuolių buvo prievarta išvilktas iš namų į aikš­\ntę, kur jie, miniai piktažodžiaujant, buvo nukirsdinti,\ntuo būdu pašventindami savo krauju lietuvių žemes\nKristaus mokslo sėjai; kitas būrelis, taip pat iš septy­\nnių vienuolių, buvo nutemptas į kalną, kurį žmonės\nvadina Plikuoju, čia juos prie kryžių pririšo ir nuo\nstataus kalno šlaito nustūmė į papėdėje tekančią Vil­\nnią."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185158
+    - t-005
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Petras Goštautas]]

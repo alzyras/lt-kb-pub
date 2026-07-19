@@ -38,7 +38,6 @@ Maceina, Filosofijos kilmė ir prasmė, XII-328 psl. Roma 1978.
 
 <a id="claim-t-29290"></a>
 - t-001
-  global_id: t-29290
   teiginys: "A. Maceina yra 1978 m. Romoje išleisto veikalo „Filosofijos kilmė ir prasmė“ autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Maceina, Filosofijos kilmė ir prasmė, XII-328 psl. Roma 1978.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29290
+    - t-001

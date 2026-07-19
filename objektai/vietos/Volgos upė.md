@@ -37,8 +37,7 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
 ## Teiginiai
 
 <a id="claim-t-42320"></a>
-- t-001
-  global_id: t-42320
+- t-002
   teiginys: "Rugsėjo 4 d. lietuviai pasiekė Dauguvos ir Volgos upių vandenskyrą, kur ilsėjosi ir išsižvalgė apylinkes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
     - c-45436
 
 <a id="claim-t-42321"></a>
-- t-002
-  global_id: t-42321
+- t-001
   teiginys: "K. Radvilos pajėgos, perėjusios Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,22 +89,15 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
     apie artėjančius lietuvius, jis buvo privers-
     tas skubiai evakuoti savo šeimą ir dvarą
     su iždu.
-  citata_rodoma: |
-    Radvilos pajėgos nu-
-    siaubė Rževo apylinkes, tuomet perėję
-    Volgos upę, sudegino Urdomo miestą ir
-    pasuko Staricos link, kurioje tuo metu rezi-
-    davo Rusijos valdovas Ivanas rv. Sužinojęs
-    apie artėjančius lietuvius, jis buvo privers-
-    tas skubiai evakuoti savo šeimą ir dvarą
-    su iždu.
+  citata_rodoma: "Radvilos pajėgos nu-\nsiaubė Rževo apylinkes, tuomet perėję\nVolgos upę, sudegino Urdomo miestą ir\npasuko Staricos link, kurioje tuo metu rezi-\ndavo Rusijos valdovas Ivanas rv. Sužinojęs\napie artėjančius lietuvius, jis buvo privers-\ntas skubiai evakuoti savo šeimą ir dvarą\nsu iždu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42321
+    - t-001
+
 - id: c-45436
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -120,18 +111,11 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
     dar kartą susirėmė su
     Toropeco įgula, nukovė
     200 rusų šaulių.
-  citata_rodoma: |
-    Rugsėjo 4 d. lietuviai pa-
-    siekė Dauguvos ir Volgos upių vandens-
-    kyrą, kur ilsėjosi ir išsižvalgė
-    apylinkes. Rugsėjo 9 d. jie
-    dar kartą susirėmė su
-    Toropeco įgula, nukovė
-    200 rusų šaulių.
+  citata_rodoma: "Rugsėjo 4 d. lietuviai pa-\nsiekė Dauguvos ir Volgos upių vandens-\nkyrą, kur ilsėjosi ir išsižvalgė\napylinkes. Rugsėjo 9 d. jie\ndar kartą susirėmė su\nToropeco įgula, nukovė\n200 rusų šaulių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42320
+    - t-002

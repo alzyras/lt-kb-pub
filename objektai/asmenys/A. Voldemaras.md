@@ -39,8 +39,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 ## Teiginiai
 
 <a id="claim-t-77996"></a>
-- t-001
-  global_id: t-77996
+- t-003
   teiginys: "A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - c-75315
 
 <a id="claim-t-77997"></a>
-- t-002
-  global_id: t-77997
+- t-004
   teiginys: "A. Voldemaras užsienio politiką pakreipė radikalesne kryptimi, pabrėždamas, kad be Vilniaus Lietuva nėra vienas kūnas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - c-75312
 
 <a id="claim-t-77998"></a>
-- t-003
-  global_id: t-77998
+- t-007
   teiginys: "1929 m. rugsėjį A. Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,8 +98,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - c-75317
 
 <a id="claim-t-77999"></a>
-- t-004
-  global_id: t-77999
+- t-001
   teiginys: "A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,7 +118,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 
 <a id="claim-t-78000"></a>
 - t-005
-  global_id: t-78000
   teiginys: "1927 m. rugsėjo 27 d. A. Voldemaras Romoje pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,7 +137,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 
 <a id="claim-t-78001"></a>
 - t-006
-  global_id: t-78001
   teiginys: "Stiprėjant Europos sienų neliečiamumo tendencijai, A. Voldemaras negalėjo pakeisti Lietuvos padėties Vilniaus klausimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -161,8 +155,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - c-75313
 
 <a id="claim-t-78002"></a>
-- t-007
-  global_id: t-78002
+- t-002
   teiginys: "A. Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -179,7 +172,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 
 <a id="claim-t-78003"></a>
 - t-008
-  global_id: t-78003
   teiginys: "Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -242,18 +234,15 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     vyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis
     pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
     padėtį valstybėje.
-  citata_rodoma: |
-    Tik A. Voldemarui pa-
-    vyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis
-    pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
-    padėtį valstybėje.
+  citata_rodoma: "Tik A. Voldemarui pa-\nvyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis \npasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios \npadėtį valstybėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78000
+    - t-005
+
 - id: c-75312
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -267,20 +256,15 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     su Lenkija, manydamas jų metu parodyti, kad Vilniaus klausimas nėra
     išspręstas, A. Voldemaras prašovė – 1927 m. balandį derybose Lenkija
     atsisakė kalbėtis dėl Vilniaus.
-  citata_rodoma: |
-    A. Voldemaras užsienio politiką
-    stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesi-
-    keičia, tačiau be Vilniaus Lietuva nėra vienas kūnas. Neatsisakęs derybų
-    su Lenkija, manydamas jų metu parodyti, kad Vilniaus klausimas nėra
-    išspręstas, A. Voldemaras prašovė – 1927 m. balandį derybose Lenkija
-    atsisakė kalbėtis dėl Vilniaus.
+  citata_rodoma: "A. Voldemaras užsienio politiką \nstumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesi-\nkeičia, tačiau be Vilniaus Lietuva nėra vienas kūnas. Neatsisakęs derybų \nsu Lenkija, manydamas jų metu parodyti, kad Vilniaus klausimas nėra \nišspręstas, A. Voldemaras prašovė – 1927 m. balandį derybose Lenkija \natsisakė kalbėtis dėl Vilniaus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77997
+    - t-004
+
 - id: c-75313
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -298,7 +282,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78001
+    - t-006
+
 - id: c-75314
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -316,7 +301,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78003
+    - t-008
+
 - id: c-75315
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -337,23 +323,15 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     159
     Lenkiją.
-  citata_rodoma: |
-    A. Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų drau-
-    gai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina
-    per Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš
-    VII Lietuvos žemės ūkio  ir pramonės parodos lankytojai
-    (Kaunas, 1928 m.)
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    159
-    Lenkiją.
+  citata_rodoma: "A. Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų drau-\ngai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina \nper Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš \nVII Lietuvos žemės ūkio  ir pramonės parodos lankytojai  \n(Kaunas, 1928 m.)\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n159\nLenkiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77996
+    - t-003
+
 - id: c-75316
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -369,20 +347,15 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     ministro postus. Pasirodė, kad jis neturėjo naujų užsienio politikos idė-
     jų, o A. Smetona stengėsi laikytis „vidurainės [A. Smetonos terminas –
     Red.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe.
-  citata_rodoma: |
-    Kol kas viešojoje erdvėje dominuoja ekstrava-
-    gantiškas, dėl savo oratorinių sugebėjimų geriausiai Vakaruose žinomas
-    lietuvis A. Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų
-    ministro postus. Pasirodė, kad jis neturėjo naujų užsienio politikos idė-
-    jų, o A. Smetona stengėsi laikytis „vidurainės [A. Smetonos terminas –
-    Red.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe.
+  citata_rodoma: "Kol kas viešojoje erdvėje dominuoja ekstrava-\ngantiškas, dėl savo oratorinių sugebėjimų geriausiai Vakaruose žinomas \nlietuvis A. Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų \nministro postus. Pasirodė, kad jis neturėjo naujų užsienio politikos idė-\njų, o A. Smetona stengėsi laikytis „vidurainės [A. Smetonos terminas – \nRed.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78002
+    - t-002
+
 - id: c-75317
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -398,21 +371,15 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     versmininkų apsupties, A. Voldemaro, o vėliau uždarė ir pusiau slaptą,
     ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri
     laikė A. Voldemarą savo vadu.
-  citata_rodoma: |
-    Rugsėjo 23 dieną ministru pirmininku prezidentas A. Smetona paskyrė
-    ekonomistą Juozą Tūbelį, o A. Voldemaras liko be nieko, nes neapdai-
-    riai atsisakė tapti užsienio reikalų ministru. Tylusis kombinacijų meistras
-    A. Smetona savo skalpeliu toliau raižė pūlinius – atsikratė karininkų per-
-    versmininkų apsupties, A. Voldemaro, o vėliau uždarė ir pusiau slaptą,
-    ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri
-    laikė A. Voldemarą savo vadu.
+  citata_rodoma: "Rugsėjo 23 dieną ministru pirmininku prezidentas A. Smetona paskyrė \nekonomistą Juozą Tūbelį, o A. Voldemaras liko be nieko, nes neapdai-\nriai atsisakė tapti užsienio reikalų ministru. Tylusis kombinacijų meistras \nA. Smetona savo skalpeliu toliau raižė pūlinius – atsikratė karininkų per-\nversmininkų apsupties, A. Voldemaro, o vėliau uždarė ir pusiau slaptą, \nginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri \nlaikė A. Voldemarą savo vadu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77998
+    - t-007
+
 - id: c-75318
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -439,28 +406,15 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     grįžti į vadinamuosius „seimų
     laikus“, prilygintus netvarkai ir
     anarchijai.
-  citata_rodoma: |
-    perversmas –
-    šarvuočiai prie Vyriausiojo štabo
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    157
-    A. Smetona ir A. Voldemaras
-    atvirai pabrėždavo stiprių prezi-
-    dento galių būtinybę, nevertino
-    politinių partijų vaidmens, esą
-    atstovavusių tik dalies, o ne vi-
-    sos tautos valiai, ir neketino su-
-    grįžti į vadinamuosius „seimų
-    laikus“, prilygintus netvarkai ir
-    anarchijai.
+  citata_rodoma: "perversmas –  \nšarvuočiai prie Vyriausiojo štabo\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n157\nA. Smetona ir A. Voldemaras \natvirai pabrėždavo stiprių prezi-\ndento galių būtinybę, nevertino \npolitinių partijų vaidmens, esą \natstovavusių tik dalies, o ne vi-\nsos tautos valiai, ir neketino su-\ngrįžti į vadinamuosius „seimų \nlaikus“, prilygintus netvarkai ir \nanarchijai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77999
+    - t-001
+
 ## Ryšiai
 - Rėmė A. Voldemarą: [[objektai/grupes/Voldemarininkai]]
 - A. Voldemaras keliavo į [[objektai/vietos/Paryžius]]

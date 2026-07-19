@@ -36,7 +36,6 @@ Konradas Hesneris Narbuto pastaboje įvardijamas kaip šveicarų gydytojas, gamt
 
 <a id="claim-t-191651"></a>
 - t-001
-  global_id: t-191651
   teiginys: "Konradas Hesneris Narbuto pastaboje įvardijamas kaip šveicarų gydytojas, gamtininkas ir bibliografas, gyvenęs 1516–1565 m."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Konradas Hesneris Narbuto pastaboje įvardijamas kaip šveicarų gydytojas, gamt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191651
+    - t-001

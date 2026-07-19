@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-87174"></a>
 - t-001
-  global_id: t-87174
   teiginys: "Kęstutis, puldamas Vilnių, į miestą pasiuntė riterius, persirengusius pirkliais, ir ginkluotus vyrus, paslėptus kailių bei šieno vežimuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,6 +65,7 @@ Nenurodyta
   pagrindžia:
     - c-83153
     - c-167211
+
 ## Citatos
 
 - id: c-83153
@@ -93,33 +93,15 @@ Nenurodyta
     supęs Žemutinę pilį, sučiupo patį
     Jogailą su motina ir seserimi Marija
     bei jos vyru.
-  citata_rodoma: |
-    361,
-    plačiai aprašo, kokių gudrybių tą­
-    kart ėmėsi Kęstutis, puldamas Vil-
-    nių. Trejetą šimtų narsių ir ištikimų
-    jam riterių iš Žemaitijos išsiuntė
-    pirm, kad persirengę, tarsi nauji at­
-    vykėliai pirkliai, prasigavę į miestą
-    issiskirstytų po įvairias smukles; po
-    t° keletą šimtų vežimų, kailių ir šie-
-    no prikrautų, su šešiais šimtais gin­
-    kluotų vyrų, tuose vežimuose pa-
-    slėptų, įvairiais keliais į ten buvo
-    įvežti. Šitą įvvkdes, pats vedinas
-    tūkstančiu rinktinių raitelių ūmai at­
-    puolė iš Trakų į Vilnių ir, stojęs kar­
-    tu su paslėptais mieste kariais, ap­
-    supęs Žemutinę pilį, sučiupo patį
-    Jogailą su motina ir seserimi Marija
-    bei jos vyru.
+  citata_rodoma: "361, \nplačiai aprašo, kokių gudrybių tą­\nkart ėmėsi Kęstutis, puldamas Vil- \nnių. Trejetą šimtų narsių ir ištikimų \njam riterių iš Žemaitijos išsiuntė \npirm, kad persirengę, tarsi nauji at­\nvykėliai pirkliai, prasigavę į miestą \nissiskirstytų po įvairias smukles; po \nt° keletą šimtų vežimų, kailių ir šie- \nno prikrautų, su šešiais šimtais gin­\nkluotų vyrų, tuose vežimuose pa- \nslėptų, įvairiais keliais į ten buvo \nįvežti. Šitą įvvkdes, pats vedinas\ntūkstančiu rinktinių raitelių ūmai at­\npuolė iš Trakų į Vilnių ir, stojęs kar­\ntu su paslėptais mieste kariais, ap­\nsupęs Žemutinę pilį, sučiupo patį \nJogailą su motina ir seserimi Marija \nbei jos vyru."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87174
+    - t-001
+
 - id: c-167211
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -151,3 +133,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

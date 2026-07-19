@@ -30,9 +30,8 @@ media_all_json: |-
 
 <a id="claim-t-191707"></a>
 - t-001
-  global_id: t-191707
   teiginys: "A. Kotzebue veikalas Narbuto pastaboje cituojamas prie žinios, kad netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo galima uždegti degų daiktą."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,10 +47,9 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174589
-    - c-001
+
 <a id="claim-t-194894"></a>
 - t-002
-  global_id: t-194894
   teiginys: "Egiptiečiai žinojo jį Sacal vardu2; Pli- 1 Kotzebue."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191707
+
 ## Citatos
 
 - id: c-174589
@@ -94,18 +91,15 @@ media_all_json: |-
     lologų, turėtų ¡būti bendras su lotynišku žodžiu Gigno ar­
     ba ¡būdvardžiu Genitus, neva ¡gimęs iš žemės. Rusiškas
     žodis Hentar pasiskolintas iš lietuvių.
-  citata_rodoma: |
-    2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
-    jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
-    lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
-    S. 261).
+  citata_rodoma: "2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,\njog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­\nlima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L\nS. 261)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191707
+    - t-001
+
 - id: c-177290
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -119,4 +113,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194894
+    - t-002

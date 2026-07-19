@@ -54,8 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187843"></a>
-- t-001
-  global_id: t-187843
+- t-002
   teiginys: "Narbutas aiškino, kad „proto religija“ kilo iš pirmykščio Dievo pažinimo, įrėžto žmogaus širdyje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -63,10 +62,10 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-001
+    - c-170812
+
 <a id="claim-t-188505"></a>
-- t-002
-  global_id: t-188505
+- t-003
   teiginys: "Narbutas prigimtine religija vadino pirmykštį tikėjimą viena aukščiausiąja Esybe."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,7 +83,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171395
-    - c-170812
 - susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-192085|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime ištikimybė protėvių religijai ir papročiams siejama su lietuvių pagonių valstybės kūrimu.
 - susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-192086|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime lietuviai pagonys, ištikimi protėvių religijai ir papročiams, sukūrė Lietuvos valstybę.
 - susijęs iš [[objektai/paprociai/Upių šventinimas Rosės vardu.md#claim-t-192091|Upių šventinimas Rosės vardu]]: Narbutas upių šventinimą Rosės vardu aiškina kaip vieną iš lietuvių tautos religinių skolinių iš indų budistų.
@@ -106,8 +104,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187843
+
 ## Citatos
 
 - id: c-170812
@@ -125,20 +122,15 @@ Nenurodyta
     kūdikyste. Žmonės, iš pat pradžių kurdami savo religinę san­
     tvarką, ją visuomet grindė tikėjimu viena aukščiausiąja Esy­
     be, ir tai buvo pavadinta prigimtine religija.
-  citata_rodoma: |
-    Šiandien nereikia įrodinėti, kad pirmykštis Dievo pažini­
-    mas yra įrėžtas žmogaus širdyje, nereikia net daug mąstyti,
-    kad tai suprastum. Betgi žmonės, turintys geresnes galvas, leng­
-    vai išrado tai, ką mes vadiname proto religija. Tačiau jos lygis,
-    visuomenėms tobulėjant, įvairiose tautose pasirodė esąs ki­
-    toks.
+  citata_rodoma: "Šiandien nereikia įrodinėti, kad pirmykštis Dievo pažini­\nmas yra įrėžtas žmogaus širdyje, nereikia net daug mąstyti,\nkad tai suprastum. Betgi žmonės, turintys geresnes galvas, leng­\nvai išrado tai, ką mes vadiname proto religija. Tačiau jos lygis,\nvisuomenėms tobulėjant, įvairiose tautose pasirodė esąs ki­\ntoks."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188505
+    - t-002
+
 - id: c-171395
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -158,21 +150,11 @@ Nenurodyta
     tikėjimas Dievu pakilo į aukštesnį lygį; imta jį skleisti ir pritai­
     kyti dabartinėms reikmėms. Dėl to buvo išrasti atvaizdai, sim­
     boliai, paminklai, trofėjai.
-  citata_rodoma: |
-    Tolesnis mąstymo vystyma­
-    sis sustiprino instinktą, arba vidinę nuojautą, dėl savo niekin­
-    gumo, dėl Dievo didybės ir jo amžinumo: tolesnė šios evoliu­
-    cijos eiga pagimdė Dievo ypatybių ir jo išmintingiausių darbų
-    supratimą.
-    Sprendžiant iš visų senojo pasaulio paminklų, visų seno­
-    vės padavimų, vieno Dievo pažinimas siekia žmonių giminės
-    kūdikyste. Žmonės, iš pat pradžių kurdami savo religinę san­
-    tvarką, ją visuomet grindė tikėjimu viena aukščiausiąja Esy­
-    be, ir tai buvo pavadinta prigimtine religija.
+  citata_rodoma: "Tolesnis mąstymo vystyma­\nsis sustiprino instinktą, arba vidinę nuojautą, dėl savo niekin­\ngumo, dėl Dievo didybės ir jo amžinumo: tolesnė šios evoliu­\ncijos eiga pagimdė Dievo ypatybių ir jo išmintingiausių darbų\nsupratimą.\nSprendžiant iš visų senojo pasaulio paminklų, visų seno­\nvės padavimų, vieno Dievo pažinimas siekia žmonių giminės\nkūdikyste. Žmonės, iš pat pradžių kurdami savo religinę san­\ntvarką, ją visuomet grindė tikėjimu viena aukščiausiąja Esy­\nbe, ir tai buvo pavadinta prigimtine religija."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188505
+    - t-003

@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87218"></a>
-- t-001
-  global_id: t-87218
+- t-002
   teiginys: "Pabaisko parapijos ribose neturėjo veikti kita parapinė bažnyčia, o savavališkai pastatytos bažnyčios turėjo tapti Pabaisko filijomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-83198
 
 <a id="claim-t-87219"></a>
-- t-002
-  global_id: t-87219
+- t-001
   teiginys: "Pabaisko parapijos ribose neturėjo būti statoma ar veikti kita parapinė bažnyčia, kad ji nedarytų nuostolio Pabaisko bažnyčiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,7 +118,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87219
+    - t-001
+
 - id: c-83198
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -155,4 +154,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87218
+    - t-002

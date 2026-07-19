@@ -31,7 +31,6 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 
 <a id="claim-t-36196"></a>
 - t-001
-  global_id: t-36196
   teiginys: "Vytautas žygiavo į Okos ir Dono aukštupius suvaldyti jam nepaklusnių kunigaikščių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -191,7 +190,8 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36196
+    - t-001
+
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Gyvenamoji vieta: [[objektai/grupes/Sarmatai]]

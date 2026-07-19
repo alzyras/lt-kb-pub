@@ -31,7 +31,6 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
 
 <a id="claim-t-186182"></a>
 - t-001
-  global_id: t-186182
   teiginys: "Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą, laikydamiesi senojo susitarimo su lenkais."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186182
+    - t-001

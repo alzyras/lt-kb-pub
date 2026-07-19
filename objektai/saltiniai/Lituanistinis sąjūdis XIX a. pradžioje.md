@@ -36,7 +36,6 @@ XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus univer
 
 <a id="claim-t-190514"></a>
 - t-001
-  global_id: t-190514
   teiginys: "XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus universiteto studentų ir profesorių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,7 @@ XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus univer
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173397
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus universiteto studentų ir profesorių.'
@@ -72,8 +71,7 @@ XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus univer
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190514
+
 ## Citatos
 
 - id: c-173397
@@ -93,18 +91,11 @@ XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus univer
     T Narbutas lietuvių mitologija pradėjo domėtis dar vei­
     kiamas senosios, nuo Renesanso laikų besitęsiančios mitolo-
     6 Ten pat.
-  citata_rodoma: |
-    Susidomėjimas
-    lietuvių mitologija plito tarp Vilniaus universiteto studentų ir
-    profesorių, nors jo rektorius Jonas Sniadeckis ir piktinosi jau­
-    nųjų lenkų romantikų susižavėjimu senaisiais tikėjimais, sak­
-    1 Maciūnas L Lituanistinis sąjūdis XIX a. pradžioje. -  K., 1939. -
-    P. 34.
-    2 Ten pat. -  P. 37.
+  citata_rodoma: "Susidomėjimas\nlietuvių mitologija plito tarp Vilniaus universiteto studentų ir\nprofesorių, nors jo rektorius Jonas Sniadeckis ir piktinosi jau­\nnųjų lenkų romantikų susižavėjimu senaisiais tikėjimais, sak­\n1 Maciūnas L Lituanistinis sąjūdis XIX a. pradžioje. -  K., 1939. -\nP. 34.\n2 Ten pat. -  P. 37."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190514
+    - t-001

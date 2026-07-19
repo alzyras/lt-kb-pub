@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-35842"></a>
 - t-001
-  global_id: t-35842
   teiginys: "Kėzmarke Zigmantas slapta pasiūlė Vytautui karaliaus karūną, visišką nepriklausomybę nuo Jogailos ir Lenkijos bei pagalbą prieš juos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35842
+    - t-001

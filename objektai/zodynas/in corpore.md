@@ -38,7 +38,6 @@ Voldemaro gyvybę, 1929 m. rugsėjį visiems ministrams in corpore „atsistatyd
 
 <a id="claim-t-22164"></a>
 - t-001
-  global_id: t-22164
   teiginys: "1929 m. rugsėjį ministrams in corpore „atsistatydinus“, atsistatydinti turėjo ir premjeras Augustinas Voldemaras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,12 +77,11 @@ Voldemaro gyvybę, 1929 m. rugsėjį visiems ministrams in corpore „atsistatyd
     ir pradėjo pretenduoti į vienvaldystę šalyje. Po gegužę įvykdyto studen-
     tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
     ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
-  citata_rodoma: |
-    ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
+  citata_rodoma: "ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22164
+    - t-001

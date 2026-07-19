@@ -31,7 +31,6 @@ Jo istorinis vaidmuo neatsiejamas nuo didžiulį poveikį visiems žydams turėj
 
 <a id="claim-t-22092"></a>
 - t-001
-  global_id: t-22092
   teiginys: "Vilniaus Gaonas inicijavo akcijas prieš chasidizmą ir savo autoritetu sustabdė jo plitimą Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,12 +59,11 @@ Jo istorinis vaidmuo neatsiejamas nuo didžiulį poveikį visiems žydams turėj
     esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo
     plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
     jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
-  citata_rodoma: |
-    plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
+  citata_rodoma: "plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22092
+    - t-001

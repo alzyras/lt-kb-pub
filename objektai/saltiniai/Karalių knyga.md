@@ -30,7 +30,6 @@ Dusburgietis teigia, kad naujojo Malūno pilį.552 Šioje kovoje vienas prūsas 
 
 <a id="claim-t-61095"></a>
 - t-001
-  global_id: t-61095
   teiginys: "Dusburgietis kovojusį prūsą iš Sembos palygino su Karalių knygoje minimu Ahohiečiu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,8 +45,7 @@ Dusburgietis teigia, kad naujojo Malūno pilį.552 Šioje kovoje vienas prūsas 
     - c-61727
 
 <a id="claim-t-194451"></a>
-- t-002
-  global_id: t-194451
+- t-003
   teiginys: "Naujojo Malūno pilį.552 Šioje kovoje vienas prūsas iš Sembos stovėjo ir klojo priešus taip, kaip Karalių knygoje skaitome apie Ahohietį (2 Kar 23, 9 ir toliau): „Kolei jo rankos nepailso“ ir kalavijas neatšipo jo rankose."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,5 +73,5 @@ Dusburgietis teigia, kad naujojo Malūno pilį.552 Šioje kovoje vienas prūsas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61095
-    - t-194451
+    - t-001
+    - t-003

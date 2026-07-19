@@ -12,10 +12,10 @@ datos:
   - '1641 m.'
 date_start: '1641'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,6 @@ Kitaip sakant, tas valdinys dėl senaties tapo Magdeburgo teisės žmogumi.
 
 <a id="claim-t-201794"></a>
 - t-001
-  global_id: t-201794
   teiginys: "Kitaip sakant, tas valdinys dėl senaties tapo Magdeburgo teisės žmogumi."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Kitaip sakant, tas valdinys dėl senaties tapo Magdeburgo teisės žmogumi.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201794
+    - t-001

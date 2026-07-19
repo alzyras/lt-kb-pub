@@ -40,7 +40,6 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
 
 <a id="claim-t-40238"></a>
 - t-001
-  global_id: t-40238
   teiginys: "Maironio rinktinės vadas Juozas Paliūnas-Rytas per reorganizaciją tapo Prisikėlimo apygardos vado pavaduotoju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
 
 <a id="claim-t-183746"></a>
 - t-002
-  global_id: t-183746
   teiginys: "Juozas Paliūnas-Rytas, Maironio rinktinės vadas, tapo Prisikėlimo apygardos vado pavaduotoju."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -94,22 +92,16 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
     Rimantas, pavaduotoju - Maironio rinkti-
     nės vadas Juozas Paliūnas-Rytas.
 
-    242  UŽPELKIŲ KAUTYNĖS 1949 m.
-  citata_rodoma: |
-    Rusų nuostoliai nežinomi. Apygradoje
-    prasidėjo reorganizacija: Prisikėlimo
-    apygardos vadu tapo Povilas Morkūnas-
-    Rimantas, pavaduotoju - Maironio rinkti-
-    nės vadas Juozas Paliūnas-Rytas.
-
-    242  UŽPELKIŲ KAUTYNĖS 1949 m.
+    242  UŽPELKIŲ KAUTYNĖS 1949 m. rugpjūčio 13 d.
+  citata_rodoma: "Rusų nuostoliai nežinomi. Apygradoje\nprasidėjo reorganizacija: Prisikėlimo\napygardos vadu tapo Povilas Morkūnas-\nRimantas, pavaduotoju - Maironio rinkti-\nnės vadas Juozas Paliūnas-Rytas.\n\n242  UŽPELKIŲ KAUTYNĖS 1949 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40238
+    - t-001
+
 - id: c-167134
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -132,4 +124,4 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183746
+    - t-002

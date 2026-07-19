@@ -47,8 +47,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
 ## Teiginiai
 
 <a id="claim-t-182738"></a>
-- t-001
-  global_id: t-182738
+- t-229
   teiginys: "Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -69,8 +68,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
     - c-166157
 
 <a id="claim-t-182741"></a>
-- t-002
-  global_id: t-182741
+- t-232
   teiginys: "Karolis Chodkevičius išvedė Lietuvos kariuomenę į mūšio lauką, kai priešo kariai jau buvo išsirikiavę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -86,8 +84,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
     - c-42824
 
 <a id="claim-t-182742"></a>
-- t-003
-  global_id: t-182742
+- t-230
   teiginys: "Visuotinio šaukimo metu didesniąją Lietuvos kariuomenės dalį sudarydavo iš pavietų į savo vėliavas susirinkę bajorai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -104,8 +101,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
     - c-12742
 
 <a id="claim-t-182743"></a>
-- t-004
-  global_id: t-182743
+- t-231
   teiginys: "Kristupas Radvila Perkūnas 1589–1603 m. vadovavo Lietuvos kariuomenei kaip LDK kariuomenės didysis etmonas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -125,8 +121,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
     - c-42823
 
 <a id="claim-t-183157"></a>
-- t-005
-  global_id: t-183157
+- t-233
   teiginys: "1605 m. Lietuvos kariuomenė Salaspilio mūšyje pasiekė didelę pergalę prieš švedus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -149,8 +144,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
     - c-166542
 
 <a id="claim-t-183158"></a>
-- t-006
-  global_id: t-183158
+- t-234
   teiginys: "1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -173,8 +167,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
     - c-166543
 
 <a id="claim-t-183160"></a>
-- t-007
-  global_id: t-183160
+- t-236
   teiginys: "Kadriniai Lietuvos kariuomenės karininkai nenoriai rašėsi į Klaipėdos žygį, nes nelaikė jo kova už tėvynę."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -193,8 +186,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
     - c-166545
 
 <a id="claim-t-183161"></a>
-- t-008
-  global_id: t-183161
+- t-237
   teiginys: "1939 m. rugsėjo 17 d. Lietuvos prezidentui paskelbus dalinę mobilizaciją, Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -216,8 +208,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
     - c-166546
 
 <a id="claim-t-183162"></a>
-- t-009
-  global_id: t-183162
+- t-238
   teiginys: "Liepos 3 d. priimtu pertvarkymo įstatymu Lietuvos kariuomenė paversta Liaudies kariuomene."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -236,8 +227,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
     - c-166547
 
 <a id="claim-t-184332"></a>
-- t-010
-  global_id: t-184332
+- t-239
   teiginys: "Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -256,8 +246,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
     - c-167702
 
 <a id="claim-t-184333"></a>
-- t-011
-  global_id: t-184333
+- t-240
   teiginys: "Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -277,8 +266,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
     - c-167703
 
 <a id="claim-t-193552"></a>
-- t-014
-  global_id: t-193552
+- t-241
   teiginys: "Kovose gimę Lietuvos kariuomenės savanorių pulkai, partizanai mūšiuose dėl nepriklausomybės prarado 1 444 žmones, tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -288,34 +276,6 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176232
-
-<a id="claim-t-187724"></a>
-- t-012
-  global_id: t-187724
-  teiginys: 'Mykolas Glinskis ir Lietuvos kariuomenė prie Klecko paėmė arba nukovė daugybę totorių ir grįžo į stovyklą su belaisviais bei grobiu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sutrumpinta ir pataisyta formuluotė, paliekant citatos paremtą faktą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] kariavo prieš [[objektai/grupes/Totoriai|Totoriai]]'
-  pagrindžia:
-    - c-012
-<a id="claim-t-187725"></a>
-- t-013
-  global_id: t-187725
-  teiginys: 'Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'llm_object: Odojevas; mentioned_place: Odojevas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaluga; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] užėmė Odojevas'
-  temporaliniai_duomenys: 'įvykio data: 1398 m.; įvykio data: 1406 m.; įvykio data: 1406-1408; įvykio data: 1407 m.; įvykio data: 1408 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatos informaciją.'
-  pagrindžia:
-    - c-013
 - susijęs iš [[objektai/asmenys/Chadžibėjus.md#claim-t-39502|Chadžibėjus]]: Chadžibėjus buvo vienas iš trijų vadų-kunigaikščių, kurių kariuomenė susirėmė su Lietuvos kariuomene.
 - susijęs iš [[objektai/asmenys/Chadžibėjus.md#claim-t-39502|Chadžibėjus]]: Chadžibėjus buvo vienas iš trijų vadų-kunigaikščių, kurių kariuomenė susirėmė su Lietuvos kariuomene.
 - susijęs iš [[objektai/asmenys/Dmitrijus (totorių vadas).md#claim-t-78963|Dmitrijus (totorių vadas)]]: Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų, kurių kariuomenė susirėmė su Lietuvos kariuomene.
@@ -514,11 +474,9 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
     leido tą naktį 2 S .
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187724
+  statusas: not_found
 - c-013
   santrauka: 'Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -537,11 +495,9 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
     Nemyra (be vardo) jau  figūruoja 1398 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187725
+  statusas: not_found
 ## Citatos
 
 - id: c-12742
@@ -566,7 +522,8 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182742
+    - t-230
+
 - id: c-42823
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -591,7 +548,8 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182743
+    - t-231
+
 - id: c-42824
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -619,7 +577,8 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182741
+    - t-232
+
 - id: c-166157
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -643,7 +602,8 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182738
+    - t-229
+
 - id: c-166542
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -660,7 +620,8 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183157
+    - t-233
+
 - id: c-166543
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -676,7 +637,8 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183158
+    - t-234
+
 - id: c-166545
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -693,7 +655,8 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183160
+    - t-236
+
 - id: c-166546
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -713,7 +676,8 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183161
+    - t-237
+
 - id: c-166547
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -730,7 +694,8 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183162
+    - t-238
+
 - id: c-167702
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -746,7 +711,8 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184332
+    - t-239
+
 - id: c-167703
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -763,7 +729,8 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184333
+    - t-240
+
 - id: c-176232
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -781,7 +748,8 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193552
+    - t-241
+
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lenkai]]
 - Kariavo prieš: [[objektai/asmenys/Chadžibėjus]]

@@ -37,7 +37,6 @@ Pasak Kojelavičiaus, Žemaičių vyskupystės steigimą teko atidėti, nes dėl
 
 <a id="claim-t-193532"></a>
 - t-001
-  global_id: t-193532
   teiginys: "Pasak Kojelavičiaus, Žemaičių vyskupystės steigimą teko atidėti, nes dėl kryžiuočių atsirado netikėtų didelių kliūčių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Pasak Kojelavičiaus, Žemaičių vyskupystės steigimą teko atidėti, nes dėl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193532
+    - t-001

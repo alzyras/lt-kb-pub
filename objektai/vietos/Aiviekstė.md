@@ -33,7 +33,6 @@ Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta
 
 <a id="claim-t-05405"></a>
 - t-001
-  global_id: t-05405
   teiginys: "Lietuvos valstybės šiaurinė siena buvo brėžiama iki vietos, kur iš Liubano ežero ištekanti Aiviekstė įteka į Dauguvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05405
+    - t-001

@@ -30,8 +30,7 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
 ## Teiginiai
 
 <a id="claim-t-87553"></a>
-- t-001
-  global_id: t-87553
+- t-002
   teiginys: "Mikalojus Malinovskis sutvarkė Radvilų archyvą Kardinalijoje pagal gerai parengtą schemą ir tuo metu buvo Radvilų reikalų prokuratorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
     - c-83532
 
 <a id="claim-t-87554"></a>
-- t-002
-  global_id: t-87554
+- t-001
   teiginys: "Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +97,8 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87553
+    - t-002
+
 - id: c-83533
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -112,16 +111,11 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
     istorikui pasinaudoti Radvilų Nesvyžiaus archyvu. Grafas Ado­
     mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų biblio­
     tekos turtus.
-  citata_rodoma: |
-    Daukanto viršinin­
-    kas. Vilniaus praeities žinovas Mikalojus Malinovskis padėjo
-    istorikui pasinaudoti Radvilų Nesvyžiaus archyvu. Grafas Ado­
-    mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų biblio­
-    tekos turtus.
+  citata_rodoma: "Daukanto viršinin­\nkas. Vilniaus praeities žinovas Mikalojus Malinovskis padėjo \nistorikui pasinaudoti Radvilų Nesvyžiaus archyvu. Grafas Ado­\nmas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų biblio­\ntekos turtus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87554
+    - t-001

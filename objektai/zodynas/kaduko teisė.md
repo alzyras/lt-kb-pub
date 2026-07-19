@@ -32,7 +32,6 @@ Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai
 
 <a id="claim-t-03021"></a>
 - t-001
-  global_id: t-03021
   teiginys: "Kaduko teisė leido be įpėdinių išmirusios bajorų šeimos turtus ir dvarus perimti kunigaikščiui ir perduoti juos savo valia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai
 
 <a id="claim-t-182950"></a>
 - t-002
-  global_id: t-182950
   teiginys: "Pagal kaduko teisę be įpėdinių išmirusios bajorų šeimos turtai ir dvarai atitekdavo kunigaikščiui."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -84,17 +82,15 @@ Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai
     Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų tur-
     tai ir dvarai atitekdavo kunigaikščiui, ir jis savo valia atiduodavo
     juos kam nors kitam (tai vadinamoji kaduko teisė).
-  citata_rodoma: |
-    Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų tur-
-    tai ir dvarai atitekdavo kunigaikščiui, ir jis savo valia atiduodavo
-    juos kam nors kitam (tai vadinamoji kaduko teisė).
+  citata_rodoma: "Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų tur-\ntai ir dvarai atitekdavo kunigaikščiui, ir jis savo valia atiduodavo\njuos kam nors kitam (tai vadinamoji kaduko teisė)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03021
+    - t-001
+
 - id: c-166349
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -115,4 +111,4 @@ Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182950
+    - t-002

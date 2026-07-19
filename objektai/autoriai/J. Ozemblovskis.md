@@ -40,7 +40,6 @@ J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė 
 
 <a id="claim-t-191647"></a>
 - t-001
-  global_id: t-191647
   teiginys: "J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė T. Narbutui vietoj paties radinio."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė 
 
 <a id="claim-t-197607"></a>
 - t-002
-  global_id: t-197607
   teiginys: "J. Ozemblovskis yra visiškai tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir prancūziškose monetose, pavaizduotas riteris su romėnišku šalmu ir šarvais, sėdintis ant žemės, pakėlęs dešinę koją, o pėda besiremiantis į žemę; jo kairė koja ištiesta; riterį puola lokys, stovintis ant užpakalinių letenų, su išžiotais nasrais ir ištiestomis priekinėmis letenomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -95,5 +93,5 @@ J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191647
-    - t-197607
+    - t-001
+    - t-002

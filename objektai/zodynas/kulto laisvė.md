@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-22201"></a>
 - t-001
-  global_id: t-22201
   teiginys: "Tikinčiųjų teisių gynimo komitetas teigė, kad kulto laisvė praktikoje varžoma, ir siekė katalikams lygių teisių su ateistais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,12 +91,11 @@ media_all_json: |-
     kriminavimo faktus, prašė padėti apginti tikinčiųjų teises. Politinių tikslų
     nesiekęs Komitetas veikė penkerius metus, parengė 53 dokumentus ir kai
     kuriuos jų išplatino.
-  citata_rodoma: |
-    kriminavimo faktus, prašė padėti apginti tikinčiųjų teises. Politinių tikslų
+  citata_rodoma: "kriminavimo faktus, prašė padėti apginti tikinčiųjų teises. Politinių tikslų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22201
+    - t-001

@@ -37,7 +37,6 @@ Varšuvoje įsikūręs sukilimo rengimo Nacionalinis Centro komitetas, pasivadin
 
 <a id="claim-t-40979"></a>
 - t-001
-  global_id: t-40979
   teiginys: "Varšuvoje įsikūręs sukilimo rengimo Nacionalinis Centro komitetas, pasivadinęs Laikinąja Nacionaline Vyriausybe, pakvietė sukilėlius pradėti karinius veiksmus visoje buvusioje Lenkijos karalystėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,18 +73,11 @@ Varšuvoje įsikūręs sukilimo rengimo Nacionalinis Centro komitetas, pasivadin
     vasario 1 d. paskelbė Lietuvos Provincijos
     komitetas, pasivadinęs Laikinąja
     Vyriausybe Lietuvoje.
-  citata_rodoma: |
-    Sukilimo pradžia
-    Sausio 22 d. Lenkijoje prasidėjo sukili-
-    mas. Varšuvoje įsikūręs sukilimo rengimo
-    Nacionalinis Centro komitetas, pasiva-
-    dinęs Laikinąja Nacionaline Vyriausybe,
-    pakvietė sukilėlius pradėti karinius veiks-
-    mus visoje buvusioje Lenkijos karalystėje.
+  citata_rodoma: "Sukilimo pradžia\nSausio 22 d. Lenkijoje prasidėjo sukili-\nmas. Varšuvoje įsikūręs sukilimo rengimo\nNacionalinis Centro komitetas, pasiva-\ndinęs Laikinąja Nacionaline Vyriausybe,\npakvietė sukilėlius pradėti karinius veiks-\nmus visoje buvusioje Lenkijos karalystėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40979
+    - t-001

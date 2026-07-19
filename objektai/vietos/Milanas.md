@@ -39,7 +39,6 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
 
 <a id="claim-t-58706"></a>
 - t-001
-  global_id: t-58706
   teiginys: "1311 m. sausio 6 d. Romos karalius Henrikas prie Milano buvo vainikuotas geležiniu vainiku."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -93,19 +92,15 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie jo vainikavimą prie Milano
+    107. Apie jo vainikavimą prie Milano
 
       1311 viešpaties metais, per tris karalius sausio 6 dieną, Henriką, Romos karalių,
     vainikavo prie Milano geležiniu vainiku (Ptol. p. 1234; Mart. p. 446).
-  citata_rodoma: |
-    Apie jo vainikavimą prie Milano
-
-      1311 viešpaties metais, per tris karalius sausio 6 dieną, Henriką, Romos karalių,
-    vainikavo prie Milano geležiniu vainiku (Ptol. p. 1234; Mart. p. 446).
+  citata_rodoma: "Apie jo vainikavimą prie Milano\n\n  1311 viešpaties metais, per tris karalius sausio 6 dieną, Henriką, Romos karalių,\nvainikavo prie Milano geležiniu vainiku (Ptol. p. 1234; Mart. p. 446)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58706
+    - t-001

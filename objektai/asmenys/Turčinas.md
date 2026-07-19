@@ -30,7 +30,6 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 
 <a id="claim-t-87586"></a>
 - t-001
-  global_id: t-87586
   teiginys: "Turčinas Lukove keisdamas lietuviškas monetas į lenkiškas prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 
 <a id="claim-t-87587"></a>
 - t-002
-  global_id: t-87587
   teiginys: "Rugpjūčio 5 d. per Turčiną karališkajai didenybei buvo nuvežti pinigai į Leipcigą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,7 +81,8 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87586
+    - t-001
+
 - id: c-83566
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -99,4 +98,4 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87587
+    - t-002

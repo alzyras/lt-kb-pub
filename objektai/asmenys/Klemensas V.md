@@ -42,8 +42,7 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
 ## Teiginiai
 
 <a id="claim-t-59925"></a>
-- t-001
-  global_id: t-59925
+- t-005
   teiginys: "Popiežius Klemensas V mirė balandžio 20 d., praėjus metams nuo kometos pasirodymo pradžios."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,7 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
     - c-60557
 
 <a id="claim-t-59926"></a>
-- t-002
-  global_id: t-59926
+- t-003
   teiginys: "1312 m. kovo 22 d. Vieno sinode popiežius Klemensas V pasmerkė tamplierių ordiną, nors tai dar nebuvo galutinis sprendimas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
     - c-60561
 
 <a id="claim-t-59927"></a>
-- t-003
-  global_id: t-59927
+- t-002
   teiginys: "Po Klemenso V vainikavimo prie Liono sugriuvusi mūro siena pražudė daug žmonių, o pats popiežius nukentėjo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,8 +79,7 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
     - c-60560
 
 <a id="claim-t-59928"></a>
-- t-004
-  global_id: t-59928
+- t-001
   teiginys: "Popiežius Klemensas V atšaukė Bonifaco sprendimą paskelbti Albrechtą imperatoriumi ir jam atiduoti Prancūzijos karalystę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -97,10 +93,9 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60558
-    - c-002
+
 <a id="claim-t-59929"></a>
-- t-005
-  global_id: t-59929
+- t-004
   teiginys: "1313 m. gegužės 5 d. Klemensas V kanonizavo Petrą išpažintoją, buvusį popiežių Celestiną V, ir liepė jį gerbti birželio 14 d."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -146,8 +141,7 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59928
+
 ## Citatos
 
 - id: c-60557
@@ -159,18 +153,15 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
 
       Tų pačių metų balandžio 20 dieną mirė popiežius Klemensas, praslinkus metams nuo
     tos dienos, kai ėmė rodytis kometa (Ptol. p. 1242).
-  citata_rodoma: |
-    Apie popiežiaus mirtį
-
-      Tų pačių metų balandžio 20 dieną mirė popiežius Klemensas, praslinkus metams nuo
-    tos dienos, kai ėmė rodytis kometa (Ptol. p. 1242).
+  citata_rodoma: "Apie popiežiaus mirtį\n\n  Tų pačių metų balandžio 20 dieną mirė popiežius Klemensas, praslinkus metams nuo\ntos dienos, kai ėmė rodytis kometa (Ptol. p. 1242)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59925
+    - t-005
+
 - id: c-60558
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -185,17 +176,15 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
     Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
     95.
-  citata_rodoma: |
-    1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
-    imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
-    Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
+  citata_rodoma: "1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,\nimperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė\nKlemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59928
+    - t-001
+
 - id: c-60559
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -206,19 +195,15 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
       1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą
     Petrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.
     p. 446; Ptol. p. 1240).
-  citata_rodoma: |
-    Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą
-
-      1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą
-    Petrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.
-    p. 446; Ptol. p. 1240).
+  citata_rodoma: "Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą\n\n  1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą\nPetrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.\np. 446; Ptol. p. 1240)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59929
+    - t-004
+
 - id: c-60560
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -231,21 +216,15 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
     ir nuslėgė daug žmonių, o Britanijos kunigaikštis, vedęs popiežiaus arklį, irgi čia sužuvo.
 
     Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
-  citata_rodoma: |
-    Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
-
-      Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento
-    Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena
-    ir nuslėgė daug žmonių, o Britanijos kunigaikštis, vedęs popiežiaus arklį, irgi čia sužuvo.
-
-    Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
+  citata_rodoma: "Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių\n\n  Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento\nMartyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena\nir nuslėgė daug žmonių, o Britanijos kunigaikštis, vedęs popiežiaus arklį, irgi čia sužuvo.\n\nKarolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59927
+    - t-002
+
 - id: c-60561
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -258,18 +237,11 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
     apaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties
     metais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.
     1236).
-  citata_rodoma: |
-    Apie tamplierių ordino panaikinimą
-
-      1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas
-    V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet
-    apaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties
-    metais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.
-    1236).
+  citata_rodoma: "Apie tamplierių ordino panaikinimą\n\n  1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas\nV, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet\napaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties\nmetais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.\n1236)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59926
+    - t-003

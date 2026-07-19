@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87196"></a>
-- t-001
-  global_id: t-87196
+- t-002
   teiginys: "Gediminas svetimšaliams žadėjo laisvą ir saugų kelią į Lietuvą be muitų ir mokesčių per Mazovijos kunigaikščio Boleslovo žemę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,4 +96,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87196
+    - t-002

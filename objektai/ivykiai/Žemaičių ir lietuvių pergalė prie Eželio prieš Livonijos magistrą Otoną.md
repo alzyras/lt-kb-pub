@@ -44,7 +44,6 @@ Nenurodyta
 
 <a id="claim-t-185842"></a>
 - t-001
-  global_id: t-185842
   teiginys: "Prie Eželio žemaičiai ir lietuviai ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Nenurodyta
 
 <a id="claim-t-196303"></a>
 - t-002
-  global_id: t-196303
   teiginys: "Netrukus po to Lietuvoje baigė dienas ir Ger mantas."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -97,24 +95,15 @@ Nenurodyta
     karo, ir taikos metu tokios pat santarvės bei šlovės,
     kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
     bei lazdą.
-  citata_rodoma: |
-    Vis dėl­
-    to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
-    tui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­
-    nai vadinamas Brandenburgu. Tais pačiais metais, kaip
-    sako Livonijos metraštis, žemaičiai ir lietuviai prie
-    Eželio ant ledo kovojo su Livonijos magistru Otonu,
-    magistras žuvo su penkiasdešimčia šio ordino brolių.
-    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
-    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
-    ir žuvo.
+  citata_rodoma: "Vis dėl­\nto markgrafas, nenorėdamas, kad atrodytų, jog jis vel­\ntui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­\nnai vadinamas Brandenburgu. Tais pačiais metais, kaip\nsako Livonijos metraštis, žemaičiai ir lietuviai prie\nEželio ant ledo kovojo su Livonijos magistru Otonu,\nmagistras žuvo su penkiasdešimčia šio ordino brolių.\nTokio pat likimo susilaukė jo įpėdinis Andrius fon\nVestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas\nir žuvo."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185842
-    - t-196303
+    - t-001
+    - t-002
+
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Žemaičiai]]

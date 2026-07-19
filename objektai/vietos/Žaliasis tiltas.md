@@ -31,7 +31,6 @@ Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero S
 
 <a id="claim-t-42390"></a>
 - t-001
-  global_id: t-42390
   teiginys: "Vakare Vilniaus įgula, dengiama Kazimiero Sapiegos vadovaujamos artilerijos baterijos, atsitraukė per Žaliąjį tiltą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,16 +65,11 @@ Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero S
     artilerijos baterijos, sėkmingai atsitraukė
     per Žaliąjį tiltą. Rugpjūčio 12 d. Rusi-
     jos kariuomenė užėmė Vilnių.
-  citata_rodoma: |
-    Vakare Vilniaus įgula, dengiama ar-
-    tilerijos kapitono kunigaikščio Kazi-
-    miero Sapiegos, sumaniai vadovaujamos
-    artilerijos baterijos, sėkmingai atsitraukė
-    per Žaliąjį tiltą. Rugpjūčio 12 d.
+  citata_rodoma: "Vakare Vilniaus įgula, dengiama ar-\ntilerijos kapitono kunigaikščio Kazi-\nmiero Sapiegos, sumaniai vadovaujamos\nartilerijos baterijos, sėkmingai atsitraukė\nper Žaliąjį tiltą. Rugpjūčio 12 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42390
+    - t-001

@@ -61,8 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187516"></a>
-- t-002
-  global_id: t-187516
+- t-001
   teiginys: "Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::items"
@@ -80,19 +79,6 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-170466
-
-<a id="claim-t-187515"></a>
-- t-001
-  global_id: t-187515
-  teiginys: 'Komentare nurodoma, kad 1501-1502 m. žiemą Aukso ordos totoriai nesulaukė realios paramos kariuomene, artilerija ir maistu iš Aleksandro ir LDK Ponų Tarybos.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Perrašyta į vieną aiškų sakinį be antro aiškinamojo fragmento; teiginys remiasi komentaro citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Severskas; mentioned_place: Starodubas'
-  temporaliniai_duomenys: 'įvykio data: 1501 m.; įvykio data: 1501-1502; įvykio data: 1502 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta į vieną aiškų sakinį be antro aiškinamojo fragmento; teiginys remiasi komentaro citata.'
-  pagrindžia:
-    - c-002
 - susijęs iš [[objektai/asmenys/A. Tučkovas.md#claim-t-39984|A. Tučkovas]]: Kapitonas A. Tučkovas, vadovavęs rusų artilerijos parkui Poguliankoje, atsitraukė su įgulos likučiais.
 - susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200473|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: Antanas Davainis Solohubas buvo LDK artilerijos generolas.
 - susijęs iš [[objektai/asmenys/Antanas Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200493|Antanas Solohubas (LDK artilerijos generolas, XVIII a.)]]: Antanas Solohubas buvo LDK artilerijos generolas.
@@ -323,11 +309,9 @@ Nenurodyta
     gininko.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187515
+  statusas: not_found
 ## Citatos
 
 - id: c-170466
@@ -348,24 +332,11 @@ Nenurodyta
     Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
     tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
     vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
-  citata_rodoma: |
-    L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų
-    Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
-    želigovskininkų judėjimą į Lietuvos teritoriją. Persigrupavusi Lietuvos
-    kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie
-    Širvintų ir Giedraičių.
-    Lietuvių artilerija prieš lenkų dalinius
-    1920 m. kovose prie Giedraičių
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    145
-    Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
-    tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
-    vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
+  citata_rodoma: "L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų \nSąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį \nželigovskininkų judėjimą į Lietuvos teritoriją. Persigrupavusi Lietuvos \nkariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie \nŠirvintų ir Giedraičių. \nLietuvių artilerija prieš lenkų dalinius  \n1920 m. kovose prie Giedraičių\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n145\nSąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-\ntuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos \nvadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187516
+    - t-001

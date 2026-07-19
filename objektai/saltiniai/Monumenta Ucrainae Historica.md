@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-31851"></a>
 - t-001
-  global_id: t-31851
   teiginys: "Kardinolas J. Slipyj išleido metropolito A. Šeptyckio surinktų dokumentų rinkinį „Monumenta Ucrainae Historica“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ media_all_json: |-
 
 <a id="claim-t-31852"></a>
 - t-002
-  global_id: t-31852
   teiginys: "A. Šeptyckio „Monumenta Ucrainae Historica“ I–XII tomai išleisti Romoje 1964–1975 m., redaguojant V. Jatuliui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,17 +88,15 @@ media_all_json: |-
     1964-1975, red.** **_V._** **Jatulis.**
     (^151) **M. Zeiller :** **_Neue Beschreibung des Königreiches Polen und Gross -
     herzogthums Lithauen,_** **Ulm 1647.
-  citata_rodoma: |
-    **
-    (^150) **A. Šeptyckyj :** **_Monumenta Ucrainae Historica,_** **t. I-XII, Roma
-    1964-1975, red.** **_V._** **Jatulis.
+  citata_rodoma: "**\n(^150) **A. Šeptyckyj :** **_Monumenta Ucrainae Historica,_** **t. I-XII, Roma\n1964-1975, red.** **_V._** **Jatulis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31852
+    - t-002
+
 - id: c-33666
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -114,16 +110,11 @@ media_all_json: |-
     Mūsų kaimynams Vokiečiams aišku labiausiai rūpėjo
     vokiečių ordino karo žygiai į Lietuvą ir nuo XVI a. Prūsų Kuni­
     gaikštystės santykiai su ja.
-  citata_rodoma: |
-    Welykyj parūpino
-    per 40 tomų tėvų bazilijonų leidžiamų knygų149 150 o kardinolas J.
-    Slipyj išleido savo pirmtako metropolito A. Šeptyckio surinktų
-    dokumentų rinkinį _Monumenta Ucrainae Historica_^150 ; šiuose leidi­
-    niuose apstu medžiagos apie istorinę Lietuvą ir lietuvius.
+  citata_rodoma: "Welykyj parūpino\nper 40 tomų tėvų bazilijonų leidžiamų knygų149 150 o kardinolas J.\nSlipyj išleido savo pirmtako metropolito A. Šeptyckio surinktų\ndokumentų rinkinį _Monumenta Ucrainae Historica_^150 ; šiuose leidi­\nniuose apstu medžiagos apie istorinę Lietuvą ir lietuvius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31851
+    - t-001

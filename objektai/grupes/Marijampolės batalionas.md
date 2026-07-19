@@ -36,8 +36,7 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
 ## Teiginiai
 
 <a id="claim-t-78386"></a>
-- t-001
-  global_id: t-78386
+- t-002
   teiginys: "Atskirojo Marijampolės bataliono viršila Antanas Šukys aprašė naktinę žvalgybinę-diversinę operaciją į bolševikų divizijos štabą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
     - c-75669
 
 <a id="claim-t-78387"></a>
-- t-002
-  global_id: t-78387
+- t-001
   teiginys: "Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -95,7 +93,8 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78387
+    - t-001
+
 - id: c-75669
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -115,6 +114,7 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78386
+    - t-002
+
 ## Ryšiai
 - Marijampolės batalionas priklausė [[objektai/grupes/11 brigada]]

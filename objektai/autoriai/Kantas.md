@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-01079"></a>
 - t-001
-  global_id: t-01079
   teiginys: "1800 m. Karaliaučiaus filosofas Kantas Milkės žodyno prakalboje palaikė lietuvių kultūrines teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,16 +73,11 @@ media_all_json: |-
     sofas Kantas. Anot jo, valstybė esanti reikalinga tokių kilnių,
     padorių žmonių, kaip lietuviai, todėl jų kultūrinės teisės pa-
     laikytinos.
-  citata_rodoma: |
-    1800 m., savo prakal-
-    boje Milkės žodynui, tą pareiškė ir garsusis Karaliaučiaus filo-
-    sofas Kantas. Anot jo, valstybė esanti reikalinga tokių kilnių,
-    padorių žmonių, kaip lietuviai, todėl jų kultūrinės teisės pa-
-    laikytinos.
+  citata_rodoma: "1800 m., savo prakal-\nboje Milkės žodynui, tą pareiškė ir garsusis Karaliaučiaus filo-\nsofas Kantas. Anot jo, valstybė esanti reikalinga tokių kilnių,\npadorių žmonių, kaip lietuviai, todėl jų kultūrinės teisės pa-\nlaikytinos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01079
+    - t-001

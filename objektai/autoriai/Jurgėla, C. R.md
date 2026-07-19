@@ -39,7 +39,6 @@ Jurgėla, C.
 
 <a id="claim-t-29516"></a>
 - t-001
-  global_id: t-29516
   teiginys: "C. R. Jurgėla parašė 1961 m. Čikagoje išleistą veikalą „Tannenberg (Eglija-Grunwald) 15 July 1410“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Jurgėla, C.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29516
+    - t-001

@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-192049"></a>
 - t-001
-  global_id: t-192049
   teiginys: "Pratarmėje Teodoras Narbutas rašo skubėjęs atiduoti spaudai antrą tomą, skirtą lietuvių tautos ištakoms ir protėvių atsikėlimo istorijai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -75,9 +74,8 @@ Nenurodyta
 
 <a id="claim-t-192050"></a>
 - t-002
-  global_id: t-192050
   teiginys: "Teodoras Narbutas antrojo LTI tomo pratarmę pasirašė Gauruose 1835 m. gegužės 8 dieną."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
@@ -94,7 +92,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174920
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoras Narbutas antrojo LTI tomo pratarmę pasirašė Gauruose 1835 m. gegužės 8 dieną.'
@@ -113,8 +111,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192050
+
 ## Citatos
 
 - id: c-174919
@@ -140,20 +137,15 @@ Nenurodyta
     Šia prasme antrą tomą
     galima laikyti šaltiniu, kuris turi duoti pradžią istorijos
     upei, turėsiančiai atitekėti net iki šių dienų.
-  citata_rodoma: |
-    PRATARME
-    Vos tik buvo išspausdinta religijos, papročių ir kitų
-    dalykų apžvalga, esanti įvadas į lietuvių tautos istorijos
-    pažinimą, skubu atiduoti spaudai antrą tomą, apžvel­
-    giantį šios tautos ištakas ir jos protėvių atsikėlimo į da­
-    bar gyvenamąsias žemes istoriją.
+  citata_rodoma: "PRATARME\nVos tik buvo išspausdinta religijos, papročių ir kitų\ndalykų apžvalga, esanti įvadas į lietuvių tautos istorijos\npažinimą, skubu atiduoti spaudai antrą tomą, apžvel­\ngiantį šios tautos ištakas ir jos protėvių atsikėlimo į da­\nbar gyvenamąsias žemes istoriją."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192049
+    - t-001
+
 - id: c-174920
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -172,14 +164,11 @@ Nenurodyta
     mūsų pirmtakai nesitikėjo, mes dažnai pajėgiame paro­
     dyti labai įdomių ir galinčių dominti pasaulio istorijos
     visumą faktų.
-  citata_rodoma: |
-    Rašyta gauruose
-    1835 m. gegužės 8 dieną.
-    Teodoras Narbutas
+  citata_rodoma: "Rašyta gauruose\n1835 m. gegužės 8 dieną.\nTeodoras Narbutas"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192050
+    - t-002

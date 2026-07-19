@@ -31,8 +31,7 @@ Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininku
 ## Teiginiai
 
 <a id="claim-t-186034"></a>
-- t-001
-  global_id: t-186034
+- t-003
   teiginys: "Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186034
+    - t-003

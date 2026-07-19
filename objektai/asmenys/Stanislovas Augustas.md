@@ -39,7 +39,6 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
 
 <a id="claim-t-87857"></a>
 - t-001
-  global_id: t-87857
   teiginys: "Stanislovas Augustas suteikė privilegiją, dėl kurios Akademijos spaustuvė turėjo karališkosios vardą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
 
 <a id="claim-t-194721"></a>
 - t-002
-  global_id: t-194721
   teiginys: "Vienas kaimietis man pasakojo, kad valdant karaliui Stanislovui Augustui, maždaug prieš 38 me tus, tai yra apie 1789 metus, kažkokie ponai, atvažiavę iš Gar dino apžiūrėti mineralinių šaltinių, pasiėmė su savim visus mo linius dubenėlius, kurių seniau niekas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,7 +68,6 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
 
 <a id="claim-t-200767"></a>
 - t-003
-  global_id: t-200767
   teiginys: "Italas Righi buvo karaliaus Stanislovo Augusto dvaro skulptorius."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -91,7 +88,6 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
 
 <a id="claim-t-200892"></a>
 - t-004
-  global_id: t-200892
   teiginys: "Basanavičiaus tekste Sigismanto Augusto gadynė siejama su vergijos įvedinėjimo Lietuvoje pradžia XVI amžiuje."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -157,7 +153,8 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87857
+    - t-001
+
 - id: c-177117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -180,7 +177,8 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194721
+    - t-002
+
 - id: c-184112
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -198,7 +196,8 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200767
+    - t-003
+
 - id: c-184235
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
@@ -214,4 +213,4 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200892
+    - t-004

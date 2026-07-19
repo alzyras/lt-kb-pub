@@ -60,8 +60,7 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
 ## Teiginiai
 
 <a id="claim-t-187905"></a>
-- t-001
-  global_id: t-187905
+- t-004
   teiginys: "Jučo aprašyme Bonaventūras Milevskis 1836 m. gegužę ardamas žemę Burokų dvare iškasė figūrą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::people"
@@ -81,8 +80,7 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
     - c-170888
 
 <a id="claim-t-187906"></a>
-- t-002
-  global_id: t-187906
+- t-003
   teiginys: "Jučo aprašyme Bonaventūras Milevskis vadinamas pusberniu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::people"
@@ -99,8 +97,7 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
     - c-170888
 
 <a id="claim-t-188519"></a>
-- t-003
-  global_id: t-188519
+- t-005
   teiginys: "Bonaventūras Milevskis, ardamas žemę Burokų dvare netoli Kražių, 1836 m. gegužę iškasė figūrą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -123,8 +120,7 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
     - c-170888
 
 <a id="claim-t-190849"></a>
-- t-004
-  global_id: t-190849
+- t-006
   teiginys: "1836 m. gegužę Burokų dvare pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė dievuko figūrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -147,8 +143,7 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
     - c-173731
 
 <a id="claim-t-194698"></a>
-- t-005
-  global_id: t-194698
+- t-007
   teiginys: "Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju cevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū ras Milevskis, ardamas žemę, iškasė tą figūrą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -183,20 +178,18 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
     Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­
     cevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­
     ras Milevskis, ardamas žemę, iškasė tą figūrą*.
-  citata_rodoma: |
-    Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­
-    cevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­
-    ras Milevskis, ardamas žemę, iškasė tą figūrą*.
+  citata_rodoma: "Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­\ncevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­\nras Milevskis, ardamas žemę, iškasė tą figūrą*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187905
-    - t-187906
-    - t-188519
-    - t-194698
+    - t-004
+    - t-003
+    - t-005
+    - t-007
+
 - id: c-173731
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -221,4 +214,4 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190849
+    - t-006

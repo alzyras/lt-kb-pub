@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-86949"></a>
 - t-001
-  global_id: t-86949
   teiginys: "1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86949
+    - t-001

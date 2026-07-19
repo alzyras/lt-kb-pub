@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-26360"></a>
 - t-001
-  global_id: t-26360
   teiginys: "Posakis „Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins“ buvo įsiutusių karininkų perspėjimas Seimo nariui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26360
+    - t-001

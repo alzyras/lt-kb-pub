@@ -31,7 +31,6 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
 
 <a id="claim-t-21995"></a>
 - t-001
-  global_id: t-21995
   teiginys: "Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
 
 <a id="claim-t-183433"></a>
 - t-002
-  global_id: t-183433
   teiginys: "Lietuva dėl socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius klaipėdiškius."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -83,15 +81,15 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
     psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“,
     kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas parti-
     jas (panašiai kaip elzasiečiai ar Silezijos lenkai).
-  citata_rodoma: |
-    Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir
+  citata_rodoma: "Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21995
+    - t-001
+
 - id: c-166828
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -111,4 +109,4 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183433
+    - t-002

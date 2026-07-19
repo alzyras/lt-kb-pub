@@ -30,7 +30,6 @@ Ih pradėjom sukti Liubavo link, kur kaip tik buvo pats bolševikų centras.
 
 <a id="claim-t-38504"></a>
 - t-001
-  global_id: t-38504
   teiginys: "Liubave buvo bolševikų centras, kurio link pasuko pasakojime minimi žygio dalyviai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Ih pradėjom sukti Liubavo link, kur kaip tik buvo pats bolševikų centras.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38504
+    - t-001

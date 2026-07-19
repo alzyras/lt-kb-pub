@@ -41,7 +41,6 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 
 <a id="claim-t-60025"></a>
 - t-001
-  global_id: t-60025
   teiginys: "Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     - c-60659
 
 <a id="claim-t-60026"></a>
-- t-002
-  global_id: t-60026
+- t-003
   teiginys: "Sventopelkas paprašė atsiųsti Henriką iš Lichtenšteino ir jam išdėstė nusiskundimus broliais dėl įkaitu laikomo sūnaus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -76,12 +74,11 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60657
-    - c-001
+
 <a id="claim-t-60027"></a>
-- t-003
-  global_id: t-60027
+- t-002
   teiginys: "Henrikas iš Lichtenšteino užgriuvo priešus ir susigrąžino jų atimtą grobį."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Henrikas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -93,38 +90,30 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60658
-    - c-002
+
 <a id="claim-t-184081"></a>
 - t-004
-  global_id: t-184081
   teiginys: "Henrikas iš Lichtenšteino užgriuvo Sventopelko karius ir susigrąžino jų atimtą grobį."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Henrikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henrikas iš Lichtenšteino: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas iš Lichtenšteino\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-167466
+    - c-60658
 
 <a id="claim-t-197095"></a>
 - t-005
-  global_id: t-197095
   teiginys: "Kai abi kariuomenės išsirikiavo mūšiui, valdovas Henrikas sugrįžo atgal ir, išvydęs priešus, pasakė broliams: „Delsti pavojinga, todėl pulkime juos!“ Jie įnirtingai užpuolė priešus, ir prasidėjo baisios kautynės; Sventopelko kariuomenė prarado mūšio lauke."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-60658
     - c-167466
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63803|Kazimieras (Kujavijos kunigaikštis)]]: Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių.
 - susijęs iš [[objektai/asmenys/Martynas iš Krušvicos.md#claim-t-60384|Martynas iš Krušvicos]]: Martynas iš Krušvicos buvo riteris ir vėliavininkas, kuris kartu su kunigaikščiu Kazimieru nepabėgo pamatęs Sventopelko raitelius.
@@ -156,8 +145,6 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60026
 - c-002
   santrauka: 'Henrikas iš Lichtenšteino užgriuvo priešus ir susigrąžino jų atimtą grobį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -171,8 +158,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60027
+
 ## Citatos
 
 - id: c-60657
@@ -196,27 +182,15 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     didelę kariuomenę, netikėtai įsiveržė į kunigaikščiui Kazimierui priklausomą Kujavijos
     žemę, ją nuniokojo, degindamas bei grobdamas, o išžudęs daugybę krikščionių, drauge
     su milžinišku grobiu išsivarė moteris bei vaikus.
-  citata_rodoma: |
-    Apie įvairias Sventopelko derybas ir sutartis
-
-      Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš
-    Lichtenšteino, o kai šis atvyko, pareiškė jam daugybę nusiskundimų broliais ir pasakė:
-    „Esu pasirengęs paisyti teisingumo  ir vykdyti visa, ką įsakys broliai, jeigu jie man
-    sugrąžins sūnų, kurį esu jiems davęs kaip įkaitą“. Valdovas Henrikas, turėdamas galvoje,
-    kad kiekvienas privalo paisyti teisingų nurodymų ir pamokymų, jam atsakė: „Nieku būdu
-    negali atgauti savo sūnaus, nes ne kartą esi sulaužęs taikos sutartį, kuriai patvirtinti davei
-    broliams savo sūnų kaip įkaitą, o daug kartų, susidedamas su atsimetėliais ir netikėliais,
-    su kurių kariuomene niokojai krikščionių bei brolių žemę, grobdamas ir degindamas, o
-    tikėjimą, kurį per begalinį vargą ir per garbingas įstangas krikščionys įdiegė, išrovei,
-    vienus krikščionis negailestingai išžudydamas, kitus išsivarydamas  į amžiną vergovę,
-    todėl ne teisingumo ieškoki, bet pasigailėjimo“.
+  citata_rodoma: "Apie įvairias Sventopelko derybas ir sutartis\n\n  Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš\nLichtenšteino, o kai šis atvyko, pareiškė jam daugybę nusiskundimų broliais ir pasakė:\n„Esu pasirengęs paisyti teisingumo  ir vykdyti visa, ką įsakys broliai, jeigu jie man\nsugrąžins sūnų, kurį esu jiems davęs kaip įkaitą“. Valdovas Henrikas, turėdamas galvoje,\nkad kiekvienas privalo paisyti teisingų nurodymų ir pamokymų, jam atsakė: „Nieku būdu\nnegali atgauti savo sūnaus, nes ne kartą esi sulaužęs taikos sutartį, kuriai patvirtinti davei\nbroliams savo sūnų kaip įkaitą, o daug kartų, susidedamas su atsimetėliais ir netikėliais,\nsu kurių kariuomene niokojai krikščionių bei brolių žemę, grobdamas ir degindamas, o\ntikėjimą, kurį per begalinį vargą ir per garbingas įstangas krikščionys įdiegė, išrovei,\nvienus krikščionis negailestingai išžudydamas, kitus išsivarydamas  į amžiną vergovę,\ntodėl ne teisingumo ieškoki, bet pasigailėjimo“."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60026
+    - t-003
+
 - id: c-60658
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -230,18 +204,17 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     10 žirgų, kurie krito perverti priešo iečių. Šitaip broliai ir maldininkai sugrįžo namo,
     parsivarydami tūkstantį šešis šimtus priešo žirgų, parsiveždami daugybę kitoniško
     293 Popiežiaus legatu Prūsijoje Opicas iš Mesanos, dab.
-  citata_rodoma: |
-    Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
-    koks bailys pamatęs daugybę nukautųjų. Šitai išvydęs, valdovas Henrikas iš Lichtenšteino
-    staiga užgriuvo priešus ir sugrąžino  į pirmykštę vietą atimtą grobį. Apie tai sužinojęs,
-    Sventopelkas paskubėjo saviesiems  į pagalbą su trimis raitelių būriais.
+  citata_rodoma: "Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant\nkoks bailys pamatęs daugybę nukautųjų. Šitai išvydęs, valdovas Henrikas iš Lichtenšteino\nstaiga užgriuvo priešus ir sugrąžino  į pirmykštę vietą atimtą grobį. Apie tai sužinojęs,\nSventopelkas paskubėjo saviesiems  į pagalbą su trimis raitelių būriais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60027
+    - t-002
+    - t-004
+    - t-005
+
 - id: c-60659
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -264,7 +237,8 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60025
+    - t-001
+
 - id: c-167466
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -284,5 +258,4 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184081
-    - t-197095
+    - t-005

@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-36137"></a>
 - t-001
-  global_id: t-36137
   teiginys: "Antonio Mierzyńskio „Źródła do mytologii litewskiej“ I ir II tomai išleisti Varšuvoje 1892 ir 1896 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,13 +66,11 @@ media_all_json: |-
     Dvi dalys (vertimas), Vilnius, 1922.
     Mierz. = Mierzyński, Antoni, Dr., Źródła do mytologii litews­
     kiej, t. I, II, Warszawa 1892, 1896.
-  citata_rodoma: |
-    Mierz. = Mierzyński, Antoni, Dr., Źródła do mytologii litews­
-    kiej, t. I, II, Warszawa 1892, 1896.
+  citata_rodoma: "Mierz. = Mierzyński, Antoni, Dr., Źródła do mytologii litews­\nkiej, t. I, II, Warszawa 1892, 1896."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36137
+    - t-001

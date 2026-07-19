@@ -49,9 +49,8 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
 
 ## Teiginiai
 
-<a id="claim-t-41498"></a>
-- t-001
-  global_id: t-41498
+<a id="claim-t-41495"></a>
+- t-006
   teiginys: "Antoine’as Gramont’as rašė, kad totoriai Lietuvoje valdė laisvuosius dvarus ir sudarė lengvąją raitiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -69,9 +68,8 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   pagrindžia:
     - c-44986
 
-<a id="claim-t-41497"></a>
-- t-002
-  global_id: t-41497
+<a id="claim-t-41496"></a>
+- t-005
   teiginys: "Antoine’o Gramont’o 1663-1664 m. pasakojimo ištrauka aprašo totorius Lietuvos kariuomenėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -87,8 +85,9 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie šaltinio objektą ir paremtas citatos antraštiniu sakiniu."
   pagrindžia:
-    - c-167088
     - c-43229
+    - c-167088
+
 ## Citatos
 
 - id: c-43229
@@ -109,7 +108,8 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41497
+    - t-005
+
 - id: c-44986
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -130,29 +130,15 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
     tingieji LDK valdžios organai, nutarta atimti
     iš Sapiegų jų turėtas pareigybes, o dvarus
     konfiskuoti.
-  citata_rodoma: |
-    Valki-
-    ninkuose vyko respublikonų bajorijos
-
-    „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę
-    šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti. Visoje šalyje jie valdo
-    laisvuosius dvarus, bet neturi nei rango, nei balso tarp bajorijos. Totoriai taip pat sudaro
-    lengvąją raitiją, gerai aprūpintą ir ginkluotą kaip kazokų, ir nuo pastarųjų skiriasi tik
-    tuo, kad nenešioja grandijų. Jų alga - trisdešimt livry už ketvirtį.“
-
-    suvažiavimas, priėmęs „Valkininkų nuta-
-    rimą“, kuriuo buvo įkurta LDK bajorijos
-    generalinė konfederacija, suformuoti ypa-
-    tingieji LDK valdžios organai, nutarta atimti
-    iš Sapiegų jų turėtas pareigybes, o dvarus
-    konfiskuoti.
+  citata_rodoma: "Valki-\nninkuose vyko respublikonų bajorijos\n\n„Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę\nšeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti. Visoje šalyje jie valdo\nlaisvuosius dvarus, bet neturi nei rango, nei balso tarp bajorijos. Totoriai taip pat sudaro\nlengvąją raitiją, gerai aprūpintą ir ginkluotą kaip kazokų, ir nuo pastarųjų skiriasi tik\ntuo, kad nenešioja grandijų. Jų alga - trisdešimt livry už ketvirtį.“\n\nsuvažiavimas, priėmęs „Valkininkų nuta-\nrimą“, kuriuo buvo įkurta LDK bajorijos\ngeneralinė konfederacija, suformuoti ypa-\ntingieji LDK valdžios organai, nutarta atimti\niš Sapiegų jų turėtas pareigybes, o dvarus\nkonfiskuoti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41498
+    - t-006
+
 - id: c-167088
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -172,3 +158,5 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

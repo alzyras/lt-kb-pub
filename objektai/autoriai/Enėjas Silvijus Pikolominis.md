@@ -30,7 +30,6 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
 
 <a id="claim-t-193717"></a>
 - t-001
-  global_id: t-193717
   teiginys: "Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė tokius žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“ Ypač Vytauto kultas pradėtas puoselėti XVI a., kai Lietuvos visuomenė suskato."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193717
+    - t-001

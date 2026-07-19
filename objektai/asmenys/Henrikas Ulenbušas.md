@@ -31,7 +31,6 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 
 <a id="claim-t-60139"></a>
 - t-001
-  global_id: t-60139
   teiginys: "Herkus Mantas ietimi sunkiai sužeidė Henriką Ulenbušą, kai šis tempė arbaletą, bet Henriko Ulenbušo žaizda vėliau užgijo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 
 <a id="claim-t-60140"></a>
 - t-002
-  global_id: t-60140
   teiginys: "Henrikas Ulenbušas nepasitraukė iš mūšio lauko ir narsiu gynimusi paskatino kitus grįžti į kovą su sembais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,22 +79,15 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
     ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir
     nukovė daugybę sembų.
     108 (103).
-  citata_rodoma: |
-    Vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos
-    ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir
-    nukovė daugybę sembų.
-
-
-
-
-               108 (103).
+  citata_rodoma: "Vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos\nir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir\nnukovė daugybę sembų.\n\n\n\n\n           108 (103)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60140
+    - t-002
+
 - id: c-60772
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -108,18 +99,14 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
     pasiųsiu tave į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda
     vėliau ir užgijo. Sitai matydamas, vienas tarnas trumpąja ietimi sužeidė minėtąjį Herkų
     ir šitaip jam atseikėjo tuo pačiu saiku.
-  citata_rodoma: |
-    Tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį
-    Henriką Ulenbušą, įtempiantį arbaletą375, pribėgo prie jo, sakydamas: „Šiandien pat
-    pasiųsiu tave  į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda
-    vėliau ir užgijo. Sitai matydamas, vienas tarnas trumpąja ietimi sužeidė minėtąjį Herkų
-    ir šitaip jam atseikėjo tuo pačiu saiku.
+  citata_rodoma: "Tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį\nHenriką Ulenbušą, įtempiantį arbaletą375, pribėgo prie jo, sakydamas: „Šiandien pat\npasiųsiu tave  į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda\nvėliau ir užgijo. Sitai matydamas, vienas tarnas trumpąja ietimi sužeidė minėtąjį Herkų\nir šitaip jam atseikėjo tuo pačiu saiku."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60139
+    - t-001
+
 ## Ryšiai
 - Puolė Henrikas Ulenbušą: [[objektai/asmenys/Herkus Mantas]]

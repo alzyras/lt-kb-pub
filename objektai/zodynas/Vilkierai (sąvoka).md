@@ -33,7 +33,6 @@ media_all_json: |-
 
 <a id="claim-t-201770"></a>
 - t-001
-  global_id: t-201770
   teiginys: "Įprasta savavaldžių miestų tvarkymo priemonė buvo tarybos nutarimai arba vadinamieji vilkierai (plebiscitum, Willkiir, 8UJlbKep)."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,6 @@ media_all_json: |-
 
 <a id="claim-t-201771"></a>
 - t-002
-  global_id: t-201771
   teiginys: "Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Kauno miestiečių bendruomenės nariams."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -59,7 +57,6 @@ media_all_json: |-
 
 <a id="claim-t-201772"></a>
 - t-003
-  global_id: t-201772
   teiginys: "Kita Kauno miesto tarybos funkcija buvo tvarkyti miesto gyvenimą parengtais ir paskelbtais vidaus gyvenimo nuostatais, vadinamaisiais vilkierais."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -87,7 +84,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201770
+    - t-001
 
 - id: c-185118
   autorius: "Zigmantas Kiaupa"
@@ -104,7 +101,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201771
+    - t-002
 
 - id: c-185119
   autorius: "Zigmantas Kiaupa"
@@ -122,4 +119,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201772
+    - t-003

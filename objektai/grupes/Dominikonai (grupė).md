@@ -8,6 +8,7 @@ aliases:
   - 'Dominikonai'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -27,13 +28,12 @@ media_all_json: |-
 
 ## Santrauka
 
-Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily strūnijam dominikonims, idant atėjūnai pagal savo dobę galėtų Dievą garbinti.
+Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily strūnijam dominikonims, idant atėjūnai pagal savo dobę galėtų Dievą garbinti. Vienintelė didesnė statyba, kurios plane ir išorėje galėjo būti naudojamos šio architektūros stiliaus formos, yra dominikonų Šv.
 
 ## Teiginiai
 
 <a id="claim-t-201237"></a>
 - t-001
-  global_id: t-201237
   teiginys: "Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily strūnijam dominikonims, idant atėjūnai pagal savo dobę galėtų Dievą garbinti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -44,11 +44,24 @@ Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily 
   pagrindžia:
     - c-184587
 
+<a id="claim-t-201475"></a>
+- t-002
+  teiginys: "Vienintelė didesnė statyba, kurios plane ir išorėje galėjo būti naudojamos šio architektūros stiliaus formos, yra dominikonų Šv."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184822
+
 ## Citatos
 
 - id: c-184587
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Visi atėjimai gaus liecyba®, arba pri-
     vilijas, Rygos miesto, jei jie kitų geresnių neišma­
@@ -67,4 +80,20 @@ Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201237
+    - t-001
+
+- id: c-184822
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Jurgio bažny-
+    čios altoriai. Vienintelė didesnė statyba, kurios plane ir išorėje galėjo būti naudoja-
+    mos šio architektūros stiliaus formos, yra dominikonų Šv. Kazimiero bažnyčia.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -32,7 +32,6 @@ ATR kariuomenės pratęsė Europos riterių atakos tradiciją, o Vakarų Europoj
 
 <a id="claim-t-40843"></a>
 - t-001
-  global_id: t-40843
   teiginys: "XVII a. Abiejų Tautų Respublikos kariuomenė pratęsė Europos riterių atakos tradiciją, kai Vakarų Europoje pralaužiamosios kavalerijos atakos nebenaudotos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,20 +63,11 @@ ATR kariuomenės pratęsė Europos riterių atakos tradiciją, o Vakarų Europoj
     pralaužiamosios kavalerijos atakos nebuvo naudojamos
 
     tai, sudarę vėliavą.
-  citata_rodoma: |
-    „Draugų“ palydos buvo vieninteliai viene-
-
-    Lietuvos ir Lenkijos husarai - vienintelė xvii a.
-
-    „šoko kavalerija“ Europoje. ATR kariuomenės pratęsė
-    Europos riterių atakos tradiciją, o Vakarų Europoje xVII a.
-    pralaužiamosios kavalerijos atakos nebuvo naudojamos
-
-    tai, sudarę vėliavą.
+  citata_rodoma: "„Draugų“ palydos buvo vieninteliai viene-\n\nLietuvos ir Lenkijos husarai - vienintelė xvii a.\n\n„šoko kavalerija“ Europoje. ATR kariuomenės pratęsė\nEuropos riterių atakos tradiciją, o Vakarų Europoje xVII a.\npralaužiamosios kavalerijos atakos nebuvo naudojamos\n\ntai, sudarę vėliavą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40843
+    - t-001

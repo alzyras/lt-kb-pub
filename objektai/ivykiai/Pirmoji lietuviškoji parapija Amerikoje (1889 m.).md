@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-01773"></a>
 - t-001
-  global_id: t-01773
   teiginys: "1889 m. buvo įkurta pirmoji lietuviškoji parapija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,16 +83,11 @@ Nenurodyta
     tuviškoji parapija; 1907 m. jų buvo jau 41, 1915 m. — 95, 1925 m.
     — apie 120, o dabar jų yra apie 150 (jose yra apie 200 lietuvių
     kunigų).
-  citata_rodoma: |
-    Parapijų skai-
-    čius nepaprastai greit išaugo. 1889 m. buvo įkurta pirmoji lie-
-    tuviškoji parapija; 1907 m. jų buvo jau 41, 1915 m. — 95, 1925 m.
-    — apie 120, o dabar jų yra apie 150 (jose yra apie 200 lietuvių
-    kunigų).
+  citata_rodoma: "Parapijų skai-\nčius nepaprastai greit išaugo. 1889 m. buvo įkurta pirmoji lie-\ntuviškoji parapija; 1907 m. jų buvo jau 41, 1915 m. — 95, 1925 m.\n— apie 120, o dabar jų yra apie 150 (jose yra apie 200 lietuvių\nkunigų)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01773
+    - t-001

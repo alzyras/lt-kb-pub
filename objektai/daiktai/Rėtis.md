@@ -49,9 +49,8 @@ Nenurodyta
 
 <a id="claim-t-195336"></a>
 - t-001
-  global_id: t-195336
   teiginys: "Rėtis minimas kaip kiaušinių talpa kamaroje."
-  atnaujinta: "2026-07-12 01:47"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -80,15 +79,11 @@ Nenurodyta
     ris, pamatė ten kiaušinių prikrautą rėtį, greitai dedasi į kišenę, greitai
     iš kamaros į geriamąjį kambarį — ir keičia su Mendeliene kiaušinius
     į degtinę.
-  citata_rodoma: |
-    žmogelis, atėjęs į gertuvę, pirmiausia pravėrė kamaros du­
-    ris, pamatė ten kiaušinių prikrautą rėtį, greitai dedasi į kišenę, greitai
-    iš kamaros į geriamąjį kambarį — ir keičia su Mendeliene kiaušinius
-    į degtinę.
+  citata_rodoma: "žmogelis, atėjęs į gertuvę, pirmiausia pravėrė kamaros du­\nris, pamatė ten kiaušinių prikrautą rėtį, greitai dedasi į kišenę, greitai\niš kamaros į geriamąjį kambarį — ir keičia su Mendeliene kiaušinius\nį degtinę."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195336
+    - t-001

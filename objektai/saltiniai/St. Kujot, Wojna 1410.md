@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-31921"></a>
 - t-001
-  global_id: t-31921
   teiginys: "St. Kujoto „Wojna 1410“ publikuota „Rocznik Towarzystwa Nauk w Toruniu“ 18 tome 1911 m., p. 157–159."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,16 +65,12 @@ media_all_json: |-
     — (”) _Studia z dziejów Europy wschodniej
     X-XVII w.,_ Warszawa 1965, 189-202 p.—Kujot, St. : _Wojna 1410,_
     Rocznik Towarz. Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,
-    O.
-  citata_rodoma: |
-    — (”) _Studia z dziejów Europy wschodniej
-    X-XVII w.,_ Warszawa 1965, 189-202 p.—Kujot, St. : _Wojna 1410,_
-    Rocznik Towarz. Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,
-    O.
+    O. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas).
+  citata_rodoma: "— (”) _Studia z dziejów Europy wschodniej\nX-XVII w.,_ Warszawa 1965, 189-202 p.—Kujot, St. : _Wojna 1410,_\nRocznik Towarz. Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,\nO."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31921
+    - t-001

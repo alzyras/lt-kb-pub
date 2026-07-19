@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-26405"></a>
 - t-001
-  global_id: t-26405
   teiginys: "1998 m. Valdas Adamkus, grįžęs iš JAV gyventi į Lietuvą, pakeitė Algirdą Brazauską prezidento poste."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,15 +85,11 @@ Nenurodyta
     vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Adamkus, ir
     po 2000 m. Seimo rinkimų, kuriuose nė vienai partijai nepavyko pasiekti
     įtikinamos pergalės, todėl atėjo nauja koalicinių vyriausybių era.
-  citata_rodoma: |
-    Padėtis ėmė keistis 1998 m., kai prezidentą A. Brazauską
-    vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Adamkus, ir
-    po 2000 m. Seimo rinkimų, kuriuose nė vienai partijai nepavyko pasiekti
-    įtikinamos pergalės, todėl atėjo nauja koalicinių vyriausybių era.
+  citata_rodoma: "Padėtis ėmė keistis 1998 m., kai prezidentą A. Brazauską \nvadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Adamkus, ir \npo 2000 m. Seimo rinkimų, kuriuose nė vienai partijai nepavyko pasiekti \nįtikinamos pergalės, todėl atėjo nauja koalicinių vyriausybių era."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26405
+    - t-001

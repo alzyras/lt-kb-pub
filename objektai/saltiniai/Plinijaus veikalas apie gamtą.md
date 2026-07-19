@@ -30,7 +30,6 @@ Pasak Teodoro Narbuto, Plinijus užrašė Kapadokijos karaliaus Archelajo pasako
 
 <a id="claim-t-191706"></a>
 - t-001
-  global_id: t-191706
   teiginys: "Pasak Teodoro Narbuto, Plinijus užrašė Kapadokijos karaliaus Archelajo pasakojimą apie iš Indijos atvežamą gintaro žaliavą su medžių žieve."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Pasak Teodoro Narbuto, Plinijus užrašė Kapadokijos karaliaus Archelajo pasako
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191706
+    - t-001

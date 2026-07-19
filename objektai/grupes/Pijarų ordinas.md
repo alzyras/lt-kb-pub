@@ -32,8 +32,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 ## Teiginiai
 
 <a id="claim-t-72601"></a>
-- t-001
-  global_id: t-72601
+- t-003
   teiginys: "Pijarų ordinas išlaikė ypač daug mokyklų, kurių Edukacinė Komisija neperėmė, bet prižiūrėjo jų mokymą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     - c-71008
 
 <a id="claim-t-72602"></a>
-- t-002
-  global_id: t-72602
+- t-004
   teiginys: "Pijarų mokyklos nebegalėjo konkuruoti su jėzuitų mokyklomis, nes jėzuitai prisitaikė prie naujųjų reikalavimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +57,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     - c-71006
 
 <a id="claim-t-72604"></a>
-- t-003
-  global_id: t-72604
+- t-001
   teiginys: "XVIII a. į Lietuvą atsikraustęs Pijarų ordinas rūpinosi jaunuomenės auklėjimu ir kūrė dievobaimingąsias mokyklas."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -77,8 +74,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     - c-71007
 
 <a id="claim-t-72605"></a>
-- t-004
-  global_id: t-72605
+- t-002
   teiginys: "Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -97,7 +93,6 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 
 <a id="claim-t-193122"></a>
 - t-005
-  global_id: t-193122
   teiginys: "Pijarai, niekuo daugiau neužsiimdami, kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzuitai stengėsi visur apsigyventi."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -129,7 +124,8 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72602
+    - t-004
+
 - id: c-71007
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -147,7 +143,8 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72604
+    - t-001
+
 - id: c-71008
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -163,7 +160,8 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72601
+    - t-003
+
 - id: c-71010
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -183,7 +181,8 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72605
-    - t-193122
+    - t-002
+    - t-005
+
 ## Ryšiai
 - Pijarų ordinas keliavo į [[objektai/vietos/Lietuva]]

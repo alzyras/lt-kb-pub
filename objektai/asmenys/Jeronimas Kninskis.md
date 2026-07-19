@@ -28,22 +28,6 @@ media_all_json: |-
 
 Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kninskis.
 
-## Teiginiai
-
-<a id="claim-t-194834"></a>
-- t-001
-  global_id: t-194834
-  teiginys: "Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kninskis."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177230
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kninskis.'
@@ -62,8 +46,7 @@ Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194834
+
 ## Citatos
 
 - id: c-177230
@@ -82,19 +65,26 @@ Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kn
     čių pilkapi ų. Lietuvoje pilkapiai randami labai retai, dažnai sly­
     pi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­
     mę*.
-  citata_rodoma: |
-    Po ketverto metų Žemaičių vyskupas Melchioras
-    Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­
-    miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
-    niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
-    kai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir
-    kunigas Jeronimas Kninskis. Liaudis jų pamokymus priimdavo
-    nuolankiai ir su jauduliu, bent jau nesipriešino dar išlikusių ąžuo­
-    lų ir šventųjų girių iškirtimui.
+  citata_rodoma: "Po ketverto metų Žemaičių vyskupas Melchioras\nGiedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­\nmiečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­\nniško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­\nkai. Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir\nkunigas Jeronimas Kninskis. Liaudis jų pamokymus priimdavo\nnuolankiai ir su jauduliu, bent jau nesipriešino dar išlikusių ąžuo­\nlų ir šventųjų girių iškirtimui."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194834
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-194834"></a>
+- t-001
+  teiginys: "Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kninskis."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-177230

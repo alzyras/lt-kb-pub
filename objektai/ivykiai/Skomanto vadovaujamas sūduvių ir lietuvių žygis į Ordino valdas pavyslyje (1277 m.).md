@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-62924"></a>
 - t-001
-  global_id: t-62924
   teiginys: "1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,7 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet per ilgas ir su pertekliniu autorystės įvadu."
   pagrindžia:
     - c-63796
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.'
@@ -89,8 +88,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62924
+
 ## Citatos
 
 - id: c-63796
@@ -107,17 +105,11 @@ Nenurodyta
     baltams bendrai kovoti prieš Ordino, Lenkijos ir kitų katalikiškųjų Vakarų Europos šalių
     feodalų agresiją ir leido kryžiuočiams iki 1283 m. pavergti sūduvių, prūsų žemes iki
     Nemuno žemupio.
-  citata_rodoma: |
-    Vis dėlto Lietuva ir toliau liko pagrindinė,
-    vadovaujanti jėga kovoje prieš Ordiną. Traidenis (1269—1282 m.), remdamas žiemgalius,
-    telkė jėgas ir kovai Prūsijoje. Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
-    bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
-    sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
-    (III, 192).
+  citata_rodoma: "Vis dėlto Lietuva ir toliau liko pagrindinė,\nvadovaujanti jėga kovoje prieš Ordiną. Traidenis (1269—1282 m.), remdamas žiemgalius,\ntelkė jėgas ir kovai Prūsijoje. Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl\nbandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga\nsūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo\n(III, 192)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62924
+    - t-001

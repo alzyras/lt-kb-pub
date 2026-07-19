@@ -39,8 +39,7 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
 ## Teiginiai
 
 <a id="claim-t-70421"></a>
-- t-001
-  global_id: t-70421
+- t-003
   teiginys: "`Įšleitė` šiame tekste reiškia geografinę sritį, panašią į pašlaitę, slėnį ar įdubą."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70421
+    - t-003

@@ -39,7 +39,6 @@ Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzika
 
 <a id="claim-t-19190"></a>
 - t-001
-  global_id: t-19190
   teiginys: "Petras Cidzikas buvo kalintas už kovą prieš sovietų santvarką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,12 +74,11 @@ Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzika
     prieš sovietų santvarką kovojusių asmenų, kai kurie jų – Romaldas Juozas
     Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
     Petras Cidzikas.
-  citata_rodoma: |
-    Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
+  citata_rodoma: "Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19190
+    - t-001

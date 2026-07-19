@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-19569"></a>
 - t-001
-  global_id: t-19569
   teiginys: "XIII–XIV a. ant Lietuvos piliakalnių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,12 +79,11 @@ Nenurodyta
     Merkinės piliakalnis – vienas gražiausių Lietuvos piliakalnių,
     ant kurių stovėjusios medinės pilys buvo svarbiausi gynybiniai
     statiniai XIII–XIV a.
-  citata_rodoma: |
-    Merkinės piliakalnis – vienas gražiausių Lietuvos piliakalnių,
+  citata_rodoma: "Merkinės piliakalnis – vienas gražiausių Lietuvos piliakalnių,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19569
+    - t-001

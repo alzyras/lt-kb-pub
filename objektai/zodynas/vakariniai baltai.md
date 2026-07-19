@@ -43,8 +43,7 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 ## Teiginiai
 
 <a id="claim-t-70376"></a>
-- t-001
-  global_id: t-70376
+- t-003
   teiginys: "Šio leidimo aiškinime prūsai ir jotvingiai priskiriami vakarų baltų tarmių regionui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,9 +61,8 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 
 <a id="claim-t-70377"></a>
 - t-002
-  global_id: t-70377
   teiginys: "Šio leidimo aiškinime nadruviai, skalviai ir kuršiai priskiriami prie vakarinių baltų."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Baltai: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -77,10 +75,9 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   semantiniai_rysiai: "Kuršiai priklausė Baltai (0.82); Skalviai priklausė Baltai (0.82); Nadruviai priklausė Baltai (0.82)"
   pagrindžia:
     - c-69410
-    - c-001
+
 <a id="claim-t-70378"></a>
-- t-003
-  global_id: t-70378
+- t-005
   teiginys: "Prie vakarinių baltų priskiriami prūsai, kuršiai, nadruviai ir skalviai, o dalis jų XIV–XVI a. sulietuvėjo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -95,10 +92,9 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   semantiniai_rysiai: "Nadruviai priklausė Baltai (0.82); Skalviai priklausė Baltai (0.82)"
   pagrindžia:
     - c-69410
-    - c-001
+
 <a id="claim-t-70380"></a>
-- t-004
-  global_id: t-70380
+- t-001
   teiginys: "Vakarų baltų prūsų tarmės skyrėsi nuo rytų baltų lietuvių ir latvių tarmių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -114,8 +110,7 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
     - c-69413
 
 <a id="claim-t-70381"></a>
-- t-005
-  global_id: t-70381
+- t-004
   teiginys: "Vakarų baltų, arba prūsų, tarmės daugeliu atvejų laikomos archaiškesnėmis už rytų baltų lietuvių ir latvių tarmes."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -143,9 +138,8 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-70377
-    - t-70378
+- t-70378
+
 ## Citatos
 
 - id: c-69410
@@ -159,19 +153,16 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
     — lietuviais, konstatuojama, kad jotvingių ir lietuvių kalbos nebuvo per daug viena nuo
     kitos nutolusios. Leksinių bendrumų tarp jotvingių ir lietuvių kalbos žymiai daugiau negu
     skirtumų.
-  citata_rodoma: |
-    Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
-    baltų, kuriais laikytini ir kuršiai. Išlikusi po Ordino siautėjimo dalis kuršių, nadruvių,
-    skalvių ir kitų vakarinių baltų XIV—XVI a. sulietuvėjo14.
-       Jotvingiai, K. Būgos nuomone, kalbėjo prūsų kalbos tarme15.
+  citata_rodoma: "Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių\nbaltų, kuriais laikytini ir kuršiai. Išlikusi po Ordino siautėjimo dalis kuršių, nadruvių,\nskalvių ir kitų vakarinių baltų XIV—XVI a. sulietuvėjo14.\n   Jotvingiai, K. Būgos nuomone, kalbėjo prūsų kalbos tarme15."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70377
-    - t-70378
+    - t-002
+    - t-005
+
 - id: c-69413
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -191,8 +182,9 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70380
-    - t-70381
+    - t-001
+    - t-004
+
 - id: c-69414
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -209,4 +201,4 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70376
+    - t-003

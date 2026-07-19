@@ -55,7 +55,6 @@ Terminas vartojamas aprašant gaminimą.
 
 <a id="claim-t-195469"></a>
 - t-001
-  global_id: t-195469
   teiginys: "Garstyčninkas šiame šaltinyje gaminamas iš rugių salyklo."
   atnaujinta: "2026-07-12 03:27"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -79,13 +78,11 @@ Terminas vartojamas aprašant gaminimą.
     yra tiekiama piesta, būtent, anglimis.
     Garstyčninkui dirbti paima sieką rugių ir sudaigina, o sudygu­
     sius išdžiovina — ir gauna tris gorčius salyklos.
-  citata_rodoma: |
-    Garstyčninkui dirbti paima sieką rugių ir sudaigina, o sudygu­
-    sius išdžiovina — ir gauna tris gorčius salyklos
+  citata_rodoma: "Garstyčninkui dirbti paima sieką rugių ir sudaigina, o sudygu­\nsius išdžiovina — ir gauna tris gorčius salyklos"
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195469
+    - t-001

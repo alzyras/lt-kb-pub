@@ -31,7 +31,6 @@ XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­ tvirtino Vokiet
 
 <a id="claim-t-86578"></a>
 - t-001
-  global_id: t-86578
   teiginys: "XII a. antrojoje pusėje Vokietijos miestuose pradėta steigti cechus, o XIII a. daugelis jų išsivadavo iš vyskupų jurisdikcijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­ tvirtino Vokiet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86578
+    - t-001

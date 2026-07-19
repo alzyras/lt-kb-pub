@@ -38,34 +38,31 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-185251"></a>
-- t-001
-  global_id: t-185251
+- t-003
   teiginys: "Po paliaubų Lietuva neatgavo prie Vedrošos į nelaisvę paimtų didikų, kurie liko Maskvos rankose."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168612
+    - c-176156
 
 <a id="claim-t-193442"></a>
-- t-002
-  global_id: t-193442
+- t-006
   teiginys: "Pavyko atgauti vieną kitą nereikšmingą pilį, bet neatgavo nei pabėgėlių, nei ištisų žemių, nei pa galiau didikų, prie Vedrošos paimtų į nelaisvę, kurie pasiliko Maskvos rankose."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168612
+    - c-176156
 
 <a id="claim-t-193443"></a>
-- t-003
-  global_id: t-193443
+- t-007
   teiginys: "Kojelavičiaus pasakojime Stanislovas Kiška vengė traukti atviromis vietomis, kad nepakartotų Ostrogiškio nesėkmės prie Vedrošos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -78,10 +75,12 @@ media_all_json: |-
     - c-176156
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195013|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195014|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Smolensko vaivadą Stanislovą Kišką pasiekė žinia, kad prie Vedrošos pasirodė priešų kariuomenė.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-168610
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     jog tirono įsiūtį galima numalšinti per pasiunti-l
     nius, todėl liepė Trakų vaivadai Zaberezinskiui šitai pi
@@ -99,14 +98,13 @@ media_all_json: |-
     dras nieko iš savo valdinių (netgi ir žmonos Elenos)
     prievarta bei grasinimais nėra vertęs atsisakyti pro­
     tėvių tikėjimo.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  citata_rodoma: "Žymiausi luomų vadovai, garsūs pareigomis ir\ndidžiomis privilegijomis, nuskubėjo pas Ostrogiškį. Kai\nsusirinkę jie tarėsi, kaip reikės kariauti, Smolensko\nvaivadą Stanislovą Kišką pasiekė žinia, kad prie Ved-\nrošos pasirodžiusi priešų kariuomenė. Šitai išgirdęs,\nKonstantinas patraukė link priešo su savo kariais, ku­\nrių čia turėjo ne daugiau kaip tris tūkstančius penkis\n560\n\n## Puslapis 559\n\n\\\n¡šimtus vyrų."
+  statusas: verified
+  atnaujinta: "2026-07-13 01:17"
+
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
-## Citatos
-
 - id: c-168612
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -125,24 +123,13 @@ media_all_json: |-
     tekęs sūnaus, atsisakė sunkių karvedžio pareigų, visi
     šie pasikeitimai ir sužadino Ivanui viltį, jog dabar su­
     silauksiąs kur kas didesnės sėkmės nei ligi šiol.
-  citata_rodoma: |
-    Vargais negalais abi pusės sutarė dėl šešerių
-    metų paliaubų, tiesa, gana bjauriomis Lietuvai sąly­
-    gomis. Pavyko atgauti vieną kitą nereikšmingą pilį,
-    bet neatgavo nei pabėgėlių, nei ištisų žemių, nei pa­
-    galiau didikų, prie Vedrošos paimtų į nelaisvę, kurie
-    pasiliko Maskvos rankose. Derantis dėl Livonijos, var­
-    gais negalais pavyko pasiekti, kad Naugardo ir Psko­
-    vo vaivadoms buvo įsakyta tartis su magistro atsto­
-    vais dėl taikos.
+  citata_rodoma: "Vargais negalais abi pusės sutarė dėl šešerių\nmetų paliaubų, tiesa, gana bjauriomis Lietuvai sąly­\ngomis. Pavyko atgauti vieną kitą nereikšmingą pilį,\nbet neatgavo nei pabėgėlių, nei ištisų žemių, nei pa­\ngaliau didikų, prie Vedrošos paimtų į nelaisvę, kurie\npasiliko Maskvos rankose. Derantis dėl Livonijos, var­\ngais negalais pavyko pasiekti, kad Naugardo ir Psko­\nvo vaivadoms buvo įsakyta tartis su magistro atsto­\nvais dėl taikos."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185251
-    - t-193442
 - id: c-176156
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -165,20 +152,13 @@ media_all_json: |-
     M a sk v o s
     k u n ig a ik š-
     vyrus atgal pas karalių.
-  citata_rodoma: |
-    Štai todėl Jonui Sapiegai, val­
-    dančiam karaliaus vardu Vi-
-    T a ik a  su  m a sk v ė n a is
-    tebską, buvo pavesta susitar­
-    ti su kunigaikščio Vasilijaus
-    pasiuntiniais dėl taikos sąlygų. Jie susitarė šitaip. Ir
-    viena, ir kita šalis be jokių išlygų paleisianti į laisvę
-    belaisvius, pirmiausia tuos, kurie paimti prie Vedro-
-    šos.
+  citata_rodoma: "Štai todėl Jonui Sapiegai, val­\ndančiam karaliaus vardu Vi-\nT a ik a  su  m a sk v ė n a is\ntebską, buvo pavesta susitar­\nti su kunigaikščio Vasilijaus\npasiuntiniais dėl taikos sąlygų. Jie susitarė šitaip. Ir\nviena, ir kita šalis be jokių išlygų paleisianti į laisvę\nbelaisvius, pirmiausia tuos, kurie paimti prie Vedro-\nšos."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193443
+    - t-003
+    - t-006
+    - t-007

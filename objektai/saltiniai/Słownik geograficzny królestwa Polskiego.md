@@ -36,7 +36,6 @@ Radziszewka yra maždaug 4 km nuo Vidiškių ir 15 km nuo Ukmergės, prie Švent
 
 <a id="claim-t-202422"></a>
 - t-001
-  global_id: t-202422
   teiginys: "Radziszewka yra maždaug 4 km nuo Vidiškių ir 15 km nuo Ukmergės, prie Šventosios upės."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,5 @@ Radziszewka yra maždaug 4 km nuo Vidiškių ir 15 km nuo Ukmergės, prie Švent
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202422
+    - t-001

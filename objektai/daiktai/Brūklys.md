@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-08285"></a>
 - t-001
-  global_id: t-08285
   teiginys: "Giliojoje senovėje pėsčiųjų ginklas buvo brūklys."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-08286"></a>
 - t-002
-  global_id: t-08286
   teiginys: "Brūklių drūktieji galai vėliau buvo pripilami švino, o trumpesni jų variantai vadinti strypais."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -99,17 +97,15 @@ Nenurodyta
     Ginklai jų buvo įvairūs pagal įvairią gadynę: visų giliojoj senovėj pėsčiųjų buvo ginklais
         rendėtiniai^1324 brūkliai, o raitųjų kestės, taurų ragais apmaustytos, nuo ko ragotinėmis buvo
         vadinamos.
-  citata_rodoma: |
-    Ginklai jų buvo įvairūs pagal įvairią gadynę: visų giliojoj senovėj pėsčiųjų buvo ginklais
-    rendėtiniai^1324 brūkliai, o raitųjų kestės, taurų ragais apmaustytos, nuo ko ragotinėmis buvo
-    vadinamos.
+  citata_rodoma: "Ginklai jų buvo įvairūs pagal įvairią gadynę: visų giliojoj senovėj pėsčiųjų buvo ginklais\nrendėtiniai^1324 brūkliai, o raitųjų kestės, taurų ragais apmaustytos, nuo ko ragotinėmis buvo\nvadinamos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08285
+    - t-001
+
 - id: c-56415
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -118,14 +114,11 @@ Nenurodyta
     Ilgainiui tų brūklių drūktieji galai buvo švinu pripilti dėl svarumo, idant tuo siūtį pasmarkintų, vieni
         sulig žmogaus augumu, kiti trumpesni, stripiniais, arba strypais^1326 , vadinami, kurių kožnas turėjo po
         penkis, šešis padiržėj užkištus.
-  citata_rodoma: |
-    Ilgainiui tų brūklių drūktieji galai buvo švinu pripilti dėl svarumo, idant tuo siūtį pasmarkintų, vieni
-    sulig žmogaus augumu, kiti trumpesni, stripiniais, arba strypais^1326 , vadinami, kurių kožnas turėjo po
-    penkis, šešis padiržėj užkištus.
+  citata_rodoma: "Ilgainiui tų brūklių drūktieji galai buvo švinu pripilti dėl svarumo, idant tuo siūtį pasmarkintų, vieni\nsulig žmogaus augumu, kiti trumpesni, stripiniais, arba strypais^1326 , vadinami, kurių kožnas turėjo po\npenkis, šešis padiržėj užkištus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08286
+    - t-002

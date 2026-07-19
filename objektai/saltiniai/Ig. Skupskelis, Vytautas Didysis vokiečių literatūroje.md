@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-31708"></a>
 - t-001
-  global_id: t-31708
   teiginys: "Ig. Skupskelio „Vytautas Didysis vokiečių literatūroje“ paskelbtas 1930 m. „Athenaeum“ I tome."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,14 +64,11 @@ media_all_json: |-
     1930, 253-265 p. — Lappo, J. : _Istorinė Vytauto reikšmė,_ Praeitis, II,
     1933, 1-71 p. — PfiW. — Skkupskelis, Ig. : _Vytautas Didysis vokiečių
     literatūroje,_ Athenaeum, I, 1930.
-  citata_rodoma: |
-    — Lappo, J. : _Istorinė Vytauto reikšmė,_ Praeitis, II,
-    1933, 1-71 p. — PfiW. — Skkupskelis, Ig. : _Vytautas Didysis vokiečių
-    literatūroje,_ Athenaeum, I, 1930.
+  citata_rodoma: "— Lappo, J. : _Istorinė Vytauto reikšmė,_ Praeitis, II,\n1933, 1-71 p. — PfiW. — Skkupskelis, Ig. : _Vytautas Didysis vokiečių\nliteratūroje,_ Athenaeum, I, 1930."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31708
+    - t-001

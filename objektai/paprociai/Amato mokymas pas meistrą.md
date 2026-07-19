@@ -8,11 +8,11 @@ datos:
   - '1624 m.'
 date_start: '1545'
 date_end: '1624'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-202021"></a>
 - t-001
-  global_id: t-202021
   teiginys: "Štai 1545 m. stiklius Jonas sudarė sutartį su Matisu dėl pastarojo mokymo amato, 1550 m. minimi tas pats stiklius Jonas ir jo mokinys Bartolomiejus Snukis, 1551 m. delininkas Norkus atidavė tarnauti savo sūnų barzdaskučiui Hanusui Ofmanui, o šis įsipareigojo."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -61,6 +60,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185368
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -83,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202021
+    - t-001

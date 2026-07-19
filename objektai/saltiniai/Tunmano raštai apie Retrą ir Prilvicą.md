@@ -36,7 +36,6 @@ Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano ir Jono 
 
 <a id="claim-t-190564"></a>
 - t-001
-  global_id: t-190564
   teiginys: "Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano ir Jono Potockio raštuose bei Suroveckio studijoje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,7 @@ Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano ir Jono 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173447
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano ir Jono Potockio raštuose bei Suroveckio studijoje.'
@@ -70,8 +69,7 @@ Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano ir Jono 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190564
+
 ## Citatos
 
 - id: c-173447
@@ -85,16 +83,11 @@ Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano ir Jono 
     jau dėl to, kad buvo rastos Lietuvos žemėje.
     III
     lentelė, 10-asis piešinys.
-  citata_rodoma: |
-    Apie tai byloja ir pats žibintas -
-    aiškus šviesos atributas**.
-    30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-
-    kio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol
-    Nauk. -  Warszawa, 1812).
+  citata_rodoma: "Apie tai byloja ir pats žibintas -\naiškus šviesos atributas**.\n30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-\nkio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol\nNauk. -  Warszawa, 1812)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190564
+    - t-001

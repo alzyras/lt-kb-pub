@@ -30,7 +30,6 @@ Narbutas Orfėją mini tarp veikėjų, kurie skirtingose tautose įvedė jau sus
 
 <a id="claim-t-190192"></a>
 - t-001
-  global_id: t-190192
   teiginys: "Narbutas Orfėją mini tarp veikėjų, kurie skirtingose tautose įvedė jau susiklosčiusias slaptas religines apeigas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,7 @@ Narbutas Orfėją mini tarp veikėjų, kurie skirtingose tautose įvedė jau sus
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173075
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Orfėją mini tarp veikėjų, kurie skirtingose tautose įvedė jau susiklosčiusias slaptas religines apeigas.'
@@ -65,8 +64,7 @@ Narbutas Orfėją mini tarp veikėjų, kurie skirtingose tautose įvedė jau sus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190192
+
 ## Citatos
 
 - id: c-173075
@@ -84,17 +82,11 @@ Narbutas Orfėją mini tarp veikėjų, kurie skirtingose tautose įvedė jau sus
     Lietuviai turėjo savo slaptas apeigas, kurias joms pasišven-
     tusieji ne kiekvienam atskleisdavo, todėl išsamesnės žinios apie
     jas dingo kartu su jų netektimi.
-  citata_rodoma: |
-    Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
-    tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,
-    kad jos atsirado senų senovėje. Egiptiečiai visiškai nesivadina
-    jų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­
-    kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­
-    sias slaptas apeigas.
+  citata_rodoma: "Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri\ntauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,\nkad jos atsirado senų senovėje. Egiptiečiai visiškai nesivadina\njų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­\nkus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­\nsias slaptas apeigas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190192
+    - t-001

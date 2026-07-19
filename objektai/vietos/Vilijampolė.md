@@ -36,7 +36,6 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
 
 <a id="claim-t-21883"></a>
 - t-001
-  global_id: t-21883
   teiginys: "1941 m. birželio 26 d. Vilijampolėje lietuvių talkininkai dalyvavo SD inspiruotuose žiauriuose pogromuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,15 +72,15 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
     inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
     27 – Kauno „Lietūkio“ garaže, nors SD einzatsgrupių vadų raportuose
     sakoma, kad surengti pogromus buvo nelengva.
-  citata_rodoma: |
-    inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
+  citata_rodoma: "inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21883
+    - t-001
+
 - id: c-167033
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -102,3 +101,5 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

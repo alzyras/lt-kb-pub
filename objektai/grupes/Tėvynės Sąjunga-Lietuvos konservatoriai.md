@@ -38,8 +38,7 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
 ## Teiginiai
 
 <a id="claim-t-75008"></a>
-- t-001
-  global_id: t-75008
+- t-002
   teiginys: "1996 m. Seimo rinkimuose sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
     - c-72948
 
 <a id="claim-t-75010"></a>
-- t-002
-  global_id: t-75010
+- t-003
   teiginys: "Tėvynės Sąjunga–Lietuvos konservatoriai 1993 m. susidarė iš Sąjūdžio daugumos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,15 +89,15 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
     sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius. Net buvo
     sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „lands-
     bergininkus“.
-  citata_rodoma: |
-    mą A. Brazausko vadovaujama LDDP gavo daugumą, o po ketverių metų
+  citata_rodoma: "mą A. Brazausko vadovaujama LDDP gavo daugumą, o po ketverių metų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75008
+    - t-002
+
 - id: c-72949
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -121,23 +119,11 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
     socialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-
     tais ir taps LSDP) ir iš Sąjūdžio daugumos 1993 m. susidariusi Tėvynės
     Sąjunga–Lietuvos konservatoriai (TS–LK).
-  citata_rodoma: |
-    Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad
-    Lietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos
-    kompromisas, labiau į parlamentinį valdymą orientuota sistema, nes pre-
-    zidentinei valdymo formai nepritarta. Visuomenė darėsi pliuralistinė, įre-
-    gistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo
-    du pagrindiniai žaidėjai: susidariusi iš savarankiškos LKP, pasivadinusi
-
-    L I E T U V O S  I S T O R I J A
-    250
-    socialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-
-    tais ir taps LSDP) ir iš Sąjūdžio daugumos 1993 m. susidariusi Tėvynės
-    Sąjunga–Lietuvos konservatoriai (TS–LK).
+  citata_rodoma: "Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad \nLietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos \nkompromisas, labiau į parlamentinį valdymą orientuota sistema, nes pre-\nzidentinei valdymo formai nepritarta. Visuomenė darėsi pliuralistinė, įre-\ngistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo \ndu pagrindiniai žaidėjai: susidariusi iš savarankiškos LKP, pasivadinusi\n\nL I E T U V O S  I S T O R I J A\n250\nsocialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-\ntais ir taps LSDP) ir iš Sąjūdžio daugumos 1993 m. susidariusi Tėvynės \nSąjunga–Lietuvos konservatoriai (TS–LK)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75010
+    - t-003

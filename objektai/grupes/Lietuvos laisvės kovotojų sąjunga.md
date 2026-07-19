@@ -39,7 +39,6 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 
 <a id="claim-t-74748"></a>
 - t-001
-  global_id: t-74748
   teiginys: "Liberaliai nusistatę tautininkai susibūrė į Lietuvos laisvės kovotojų sąjungą, kuri leido pogrindinius leidinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 
 <a id="claim-t-74750"></a>
 - t-002
-  global_id: t-74750
   teiginys: "1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės kovotojų sąjungos ir LLA grupes."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -96,19 +94,15 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
     klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
     suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
     grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
-  citata_rodoma: |
-    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
-    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
-    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
-    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
-    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
+  citata_rodoma: "Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė\n46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-\nklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,\nsuėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA\ngrupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74750
+    - t-002
+
 - id: c-72770
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -130,22 +124,11 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
     do pogrindinius leidinius. 1943–1944 m. pogrindyje veikė Vyriausiasis
     Lietuvos išlaisvinimo komitetas (VLIK’as), suvienijęs skirtingas lietuvių
     politines jėgas.
-  citata_rodoma: |
-    (to meto atvirukas)
-
-    L I E T U V O S  I S T O R I J A
-    204
-    antinacinė agitacija, raginta nestoti į vokiečių organizuojamus karinius
-    dalinius, nevykti darbams į Vokietiją, nevykdyti žemės ūkio prievolių,
-    išsaugoti lietuvių kultūros ir švietimo įstaigas, demaskuoti kolaborantus.
-    Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė
-    į Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę
-    tautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys lei-
-    do pogrindinius leidinius. 1943–1944 m.
+  citata_rodoma: "(to meto atvirukas)\n\nL I E T U V O S  I S T O R I J A\n204\nantinacinė agitacija, raginta nestoti į vokiečių organizuojamus karinius \ndalinius, nevykti darbams į Vokietiją, nevykdyti žemės ūkio prievolių, \nišsaugoti lietuvių kultūros ir švietimo įstaigas, demaskuoti kolaborantus. \nKrikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė \nį Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę \ntautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys lei-\ndo pogrindinius leidinius. 1943–1944 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74748
+    - t-001

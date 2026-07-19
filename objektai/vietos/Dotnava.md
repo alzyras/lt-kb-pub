@@ -46,8 +46,7 @@ Dotnava šiame šaltinyje yra gyvenvietė ar vietovė.
 ## Teiginiai
 
 <a id="claim-t-195486"></a>
-- t-001
-  global_id: t-195486
+- t-002
   teiginys: "Forma „Dotnavietis“ vartojama kaip Dotnavos gyventojo pavadinimas."
   atnaujinta: "2026-07-12 04:17"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -57,8 +56,7 @@ Dotnava šiame šaltinyje yra gyvenvietė ar vietovė.
     - c-177908
 
 <a id="claim-t-195487"></a>
-- t-002
-  global_id: t-195487
+- t-001
   teiginys: "Dotnavoje gyvenantys „Dotnavos gudai“ apibūdinami kaip su vietiniais jau antrą šimtmetį gyvenanti ir kalba bei būdu besiskirianti grupė."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -84,15 +82,15 @@ Dotnava šiame šaltinyje yra gyvenvietė ar vietovė.
     Mums
     įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyven­
     ti su mumis ir skiriasi kalba ir būdu.
-  citata_rodoma: |
-    Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu.
+  citata_rodoma: "Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195487
+    - t-001
+
 - id: c-177908
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -108,12 +106,11 @@ Dotnava šiame šaltinyje yra gyvenvietė ar vietovė.
     Dotnavietis, atsikėlęs iš ry­
     to, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto
     plaukus, apsivelka ir tada eina į darbą.
-  citata_rodoma: |
-    Dotnavietis, atsikėlęs iš ryto, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto plaukus, apsivelka ir tada eina į darbą.
+  citata_rodoma: "Dotnavietis, atsikėlęs iš ryto, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto plaukus, apsivelka ir tada eina į darbą."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195486
+    - t-002

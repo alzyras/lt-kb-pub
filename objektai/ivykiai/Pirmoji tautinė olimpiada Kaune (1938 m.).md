@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-75258"></a>
 - t-001
-  global_id: t-75258
   teiginys: "1938 m. Kaune vykusioje pirmojoje tautinėje olimpiadoje gausiai dalyvavo ir užsienio šalių lietuviai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,14 +84,11 @@ Nenurodyta
     lavinimo pergalė, puikus pavyzdys kitų sporto šakų atstovams. Sportas tapo
     integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olim-
     piadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai.
-  citata_rodoma: |
-    Sportas tapo
-    integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olim-
-    piadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai.
+  citata_rodoma: "Sportas tapo\nintegralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olim-\npiadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75258
+    - t-001

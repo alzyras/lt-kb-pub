@@ -52,9 +52,8 @@ Nenurodyta
 
 <a id="claim-t-186839"></a>
 - t-001
-  global_id: t-186839
   teiginys: "Lietuvos metraštis pasakoja, kad Vilniuje septyni pranciškonai buvo pririšti prie kryžių ir paleisti Nerimi žemyn."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
@@ -68,7 +67,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170022
-    - c-001
 - susijęs iš Vilniaus Plikasis kalnas: Narbutas rašė, kad pirmieji misionieriai pranciškonai ant Vilniaus Plikojo kalno pastatė tris kryžius kaip savo misijos ženklą.
 - susijęs iš [[objektai/asmenys/Antonijus Bosija.md#claim-t-190129|Antonijus Bosija]]: Cezaris Ripa pas Antonijų Bosiją matė Romoje atkastą senovinę Kanopo Serapio statulą su į kryžių panašiu ženklu.
 - susijęs iš [[objektai/asmenys/Chosrovas.md#claim-t-184051|Chosrovas]]: Apie 600 m. persų karalių Chosrovą nugalėjo imperatorius Heraklijus, susigrąžinęs Viešpaties kryžiaus dalį.
@@ -422,8 +420,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186839
+
 ## Citatos
 
 - id: c-170022
@@ -452,23 +449,14 @@ Nenurodyta
     nutarė, kad anuodu bus jų įpėdiniais didžiųjų kuni-
     Lietuvi
     (M itu
-  citata_rodoma: |
-    Tuo melu kai didysis kunigaikštis Algirdas žy­
-    giavo prieš Maskvą, o su juo buvo jo vaivada Petras
-    Goštautas, susirinko Vilniaus miesliečiai pagonys ir di­
-    deliu būriu atėjo prie vienuolyno; nenorėdami, kad
-    būtų Romos tikėjimo krikščionių, vienuolyną sudegino
-    ir septynis vienuolius sukapojo, o kitus septynis vie­
-    nuolius, pririšę prie kryžių, paleido Nerimi žemyn, sa­
-    kydami: „Nuo saulėlydžio atėjote, j saulėlydį ir grįž­
-    kite. Kam mūsų dievus naikinote." 2 O vyskupo sode,
-    kur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 .
+  citata_rodoma: "Tuo melu kai didysis kunigaikštis Algirdas žy­\ngiavo prieš Maskvą, o su juo buvo jo vaivada Petras \nGoštautas, susirinko Vilniaus miesliečiai pagonys ir di­\ndeliu būriu atėjo prie vienuolyno; nenorėdami, kad \nbūtų Romos tikėjimo krikščionių, vienuolyną sudegino \nir septynis vienuolius sukapojo, o kitus septynis vie­\nnuolius, pririšę prie kryžių, paleido Nerimi žemyn, sa­\nkydami: „Nuo saulėlydžio atėjote, j saulėlydį ir grįž­\nkite. Kam mūsų dievus naikinote.\" 2 O vyskupo sode, \nkur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186839
+    - t-001
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Pranciškonų ordinas]]

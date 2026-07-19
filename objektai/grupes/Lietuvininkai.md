@@ -37,7 +37,6 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
 
 <a id="claim-t-193671"></a>
 - t-001
-  global_id: t-193671
   teiginys: "Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas))."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193671
+    - t-001

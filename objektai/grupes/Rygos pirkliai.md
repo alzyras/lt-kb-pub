@@ -31,7 +31,6 @@ Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­ nėtinai svarbiu p
 
 <a id="claim-t-86821"></a>
 - t-001
-  global_id: t-86821
   teiginys: "Gedimino valdymo laikais Vilniuje jau buvo Rygos pirkliams suteiktų privilegijų pėdsakų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,6 +73,7 @@ Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­ nėtinai svarbiu p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86821
+    - t-001
+
 ## Ryšiai
 - Rygos pirkliai prekiavo su [[objektai/vietos/Vilnius]]

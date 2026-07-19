@@ -54,8 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66537"></a>
-- t-001
-  global_id: t-66537
+- t-005
   teiginys: "Ivinskis nurodo, kad 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-66750
 
 <a id="claim-t-66538"></a>
-- t-002
-  global_id: t-66538
+- t-004
   teiginys: "1326 m. Gediminas pasiuntė Lokietkai 1200 Dovydo vadovaujamų vyrų kovai prieš Brandenburgo markgrafą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +93,7 @@ Nenurodyta
     - c-04902
 
 <a id="claim-t-66540"></a>
-- t-003
-  global_id: t-66540
+- t-001
   teiginys: "1325 m. Gediminas sudarė sąjungą su Vladislovu Lokietka ir ją sutvirtino išleisdamas dukterį Aldoną už Kazimiero Didžiojo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,8 +112,7 @@ Nenurodyta
     - c-66751
 
 <a id="claim-t-66541"></a>
-- t-004
-  global_id: t-66541
+- t-003
   teiginys: "1325 m. sutartis buvo pirmasis pastovesnis Lietuvos ir Lenkijos taikos sąlytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -155,18 +151,15 @@ Nenurodyta
     masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­
     čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­
     mečio.
-  citata_rodoma: |
-    Jo 1325 m. sutartis buvo pir­
-    masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­
-    čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­
-    mečio.
+  citata_rodoma: "Jo 1325 m. sutartis buvo pir­\nmasis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­\nčiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­\nmečio."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66541
+    - t-003
+
 - id: c-04902
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -185,7 +178,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66538
+    - t-004
+
 - id: c-66750
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -199,18 +193,15 @@ Nenurodyta
     vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters
     Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi
     24.000 Lietuvoje buvusių lenkų karo belaisvių.
-  citata_rodoma: |
-    1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino
-    vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters
-    Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi
-    24.000 Lietuvoje buvusių lenkų karo belaisvių.
+  citata_rodoma: "1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino\nvedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters\nAldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi\n24.000 Lietuvoje buvusių lenkų karo belaisvių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66537
+    - t-005
+
 - id: c-66751
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -233,19 +224,11 @@ Nenurodyta
     kijos karaliaus Kazi-
     miero Didžiojo, savo
     dukterį Aldoną.
-  citata_rodoma: |
-    Sutartis buvo sudaryta
-    1325 m.; kad ji būtų
-    tvirtesnė, Gediminas
-    išleido už Vladislovo
-    sūnaus, būsimojo Len-
-    kijos karaliaus Kazi-
-    miero Didžiojo, savo
-    dukterį Aldoną.
+  citata_rodoma: "Sutartis buvo sudaryta\n1325 m.; kad ji būtų\ntvirtesnė, Gediminas\nišleido už Vladislovo\nsūnaus, būsimojo Len-\nkijos karaliaus Kazi-\nmiero Didžiojo, savo\ndukterį Aldoną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66540
+    - t-001

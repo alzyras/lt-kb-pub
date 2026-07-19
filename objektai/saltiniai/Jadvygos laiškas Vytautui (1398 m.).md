@@ -44,8 +44,7 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
 ## Teiginiai
 
 <a id="claim-t-67413"></a>
-- t-001
-  global_id: t-67413
+- t-006
   teiginys: "Jadvygos laiškas Vytautui buvo paskelbtas lietuvių ir rusų bajorų susirinkime ir žemino lietuvių didikus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
     - c-13852
 
 <a id="claim-t-67414"></a>
-- t-002
-  global_id: t-67414
+- t-005
   teiginys: "1398 m. Jadvygos laišku Vytautui reikalauta mokėti metinį činšą už Lietuvos ir Rusijos žemes, laikytas jos kraičiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
     - c-37203
 
 <a id="claim-t-67415"></a>
-- t-003
-  global_id: t-67415
+- t-004
   teiginys: "Vytautas paskelbė Jadvygos laišką lietuvių ir rusų bajorams, o šie griežtai atmetė jame iškeltus reikalavimus."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
     - c-13852
 
 <a id="claim-t-67416"></a>
-- t-004
-  global_id: t-67416
+- t-003
   teiginys: "Jadvyga laišku priminė Vytautui, kad Lietuvos ir Rusijos žemės, kurias Jogaila valdė prieš ją vesdamas, buvusios užrašytos jai kraičiu, todėl reikalavo iš Vytauto metinio činšo."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -133,19 +129,15 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
     Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­
     tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį
     činšą^3 ).
-  citata_rodoma: |
-    Tada Jadvyga „mylimam
-    broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir
-    Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­
-    tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį
-    činšą^3 ).
+  citata_rodoma: "Tada Jadvyga „mylimam\nbroliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir\nRusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­\ntos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį\nčinšą^3 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67416
+    - t-003
+
 - id: c-13852
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -158,19 +150,16 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
     vygos laiškas, žeminantis lietuvių didikus. Tie, žinoma, dar
     Vytauto pakurstyti, griežtai atmetė tokius reikalavimus, įrodi­
     nėdami, kad tai yra pasikėsinimas prieš jų laisvę ir tradicijas.
-  citata_rodoma: |
-    sušaukė jis savo visuomenės atstovus į susirinkimą; susirinko
-    žymiausi lietuvių ir rusų bajorai. Jiems buvo paskelbtas Jad­
-    vygos laiškas, žeminantis lietuvių didikus. Tie, žinoma, dar
-    Vytauto pakurstyti, griežtai atmetė tokius reikalavimus
+  citata_rodoma: "sušaukė jis savo visuomenės atstovus į susirinkimą; susirinko\nžymiausi lietuvių ir rusų bajorai. Jiems buvo paskelbtas Jad­\nvygos laiškas, žeminantis lietuvių didikus. Tie, žinoma, dar\nVytauto pakurstyti, griežtai atmetė tokius reikalavimus"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67413
-    - t-67415
+    - t-006
+    - t-004
+
 - id: c-37203
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -186,19 +175,11 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
     Kiek toks reikalavimas buvo teisingas, sunku pasakyti, bet
     tokių mokesčių mokėjimas būtų buvęs lenkams įrodymu, kad
     tos žemės priklauso Lenkijai.
-  citata_rodoma: |
-    Tada Jadvyga „mylimam
-    broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir
-    Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­
-    tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį
-    činšą^3 ).
-    Kiek toks reikalavimas buvo teisingas, sunku pasakyti, bet
-    tokių mokesčių mokėjimas būtų buvęs lenkams įrodymu, kad
-    tos žemės priklauso Lenkijai.
+  citata_rodoma: "Tada Jadvyga „mylimam\nbroliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir\nRusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­\ntos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį\nčinšą^3 ).\nKiek toks reikalavimas buvo teisingas, sunku pasakyti, bet\ntokių mokesčių mokėjimas būtų buvęs lenkams įrodymu, kad\ntos žemės priklauso Lenkijai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67414
+    - t-005

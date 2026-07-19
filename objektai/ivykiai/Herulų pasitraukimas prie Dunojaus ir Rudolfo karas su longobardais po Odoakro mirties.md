@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-191045"></a>
 - t-001
-  global_id: t-191045
   teiginys: "Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Nenurodyta
 
 <a id="claim-t-191046"></a>
 - t-002
-  global_id: t-191046
   teiginys: "Narbutas Rudolfą vadina herulų karaliumi arba po Odoakro valdžiusiu vadu ir rašo, kad 493 m. longobardai visiškai sumušė herulus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,6 @@ Nenurodyta
 
 <a id="claim-t-197538"></a>
 - t-003
-  global_id: t-197538
   teiginys: "Po Odo akro mirties dar ketverius metus truko susirėmimas prie šiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir nauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo burgundų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -103,7 +100,6 @@ Nenurodyta
 
 <a id="claim-t-197539"></a>
 - t-004
-  global_id: t-197539
   teiginys: "Herulų karalius ar veikiau po Odoakro valdęs vadas Rudolfas neapdairiai pradėjo kariauti su jo tau tiečio vadovaujamais longobardais, kurie dar 493 metais juos visiškai sumušė."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -138,8 +134,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191045
-    - t-197538
+    - t-001
+    - t-003
+
 - id: c-173928
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -161,5 +158,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191046
-    - t-197539
+    - t-002
+    - t-004

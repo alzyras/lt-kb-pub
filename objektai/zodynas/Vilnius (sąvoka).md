@@ -33,7 +33,6 @@ Vorobjovas Vilnių laikė meno lobynu, galinčiu lenktyniauti su gražiausiais E
 
 <a id="claim-t-200821"></a>
 - t-001
-  global_id: t-200821
   teiginys: "Vorobjovas Vilnių laikė meno lobynu, galinčiu lenktyniauti su gražiausiais Europos miestais."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Vorobjovas Vilnių laikė meno lobynu, galinčiu lenktyniauti su gražiausiais E
 
 <a id="claim-t-200822"></a>
 - t-002
-  global_id: t-200822
   teiginys: "Vorobjovas teigė, kad Vilnius išaugo ir susiformavo kūrybingomis didžiųjų pasaulinių stilių epochomis."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,7 @@ Vorobjovas Vilnių laikė meno lobynu, galinčiu lenktyniauti su gražiausiais E
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200821
+    - t-001
 
 - id: c-184167
   autorius: "Mikalojus Vorobjovas"
@@ -114,4 +112,4 @@ Vorobjovas Vilnių laikė meno lobynu, galinčiu lenktyniauti su gražiausiais E
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200822
+    - t-002

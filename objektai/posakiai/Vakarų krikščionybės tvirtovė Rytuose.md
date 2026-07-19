@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-193814"></a>
 - t-001
-  global_id: t-193814
   teiginys: "@ Mėgindamas gelbėti situaciją, Švedijos karalius siunčia į ataką pagrindine švedų Vakarų krikščionybės tvirtovė Rytuose ir besikaunantiems priešo kariams atrodė, kad lietuviams į pagalbą atskuba pastiprinimas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193814
+    - t-001

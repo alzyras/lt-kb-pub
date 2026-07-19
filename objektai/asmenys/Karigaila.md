@@ -41,8 +41,7 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 ## Teiginiai
 
 <a id="claim-t-63793"></a>
-- t-001
-  global_id: t-63793
+- t-002
   teiginys: "Karigaila, Jogailos brolis ir Mstislavlio kunigaikštis, pateko į kryžiuočių nelaisvę ir buvo žiauriai nužudytas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     - c-64735
 
 <a id="claim-t-63794"></a>
-- t-002
-  global_id: t-63794
+- t-001
   teiginys: "Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     - c-64734
 
 <a id="claim-t-63795"></a>
-- t-003
-  global_id: t-63795
+- t-004
   teiginys: "Karigaila pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     - c-36407
 
 <a id="claim-t-63796"></a>
-- t-004
-  global_id: t-63796
+- t-003
   teiginys: "Karigaila kartu su Jogaila, Vytautu, Vygandu, Švitrigaila ir lietuvių didikais Krokuvoje priėmė katalikų tikėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -159,20 +155,15 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     pirmas Lietuvos krikšto aktas, atliktas Krokuvoje.
 
     (^1) ) Scr. r.
-  citata_rodoma: |
-    Kartu su Jogaila ir Vy­
-    tautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­
-    gandas, Švitrigaila ir daug lietuvių didikų. Tai buvo kaip ir
-    pirmas Lietuvos krikšto aktas, atliktas Krokuvoje.
-
-    (^1) ) Scr.
+  citata_rodoma: "Kartu su Jogaila ir Vy­\ntautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­\ngandas, Švitrigaila ir daug lietuvių didikų. Tai buvo kaip ir\npirmas Lietuvos krikšto aktas, atliktas Krokuvoje.\n\n(^1) ) Scr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63796
+    - t-003
+
 - id: c-36407
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -188,20 +179,15 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
     tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
     visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
-  citata_rodoma: |
-    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
-    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
-    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
-    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
-    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
-    visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
+  citata_rodoma: "Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas\nmotinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­\ngunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais\ntaikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­\ntyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:\nvisą dešinį Dubysos krantą, nuo pat ištakos iki įtakos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63795
+    - t-004
+
 - id: c-64734
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -224,7 +210,8 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63794
+    - t-001
+
 - id: c-64735
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -242,7 +229,8 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63793
+    - t-002
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Vasilijus Čartoriskis]]
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

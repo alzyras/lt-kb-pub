@@ -31,7 +31,6 @@ Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir
 
 <a id="claim-t-186138"></a>
 - t-001
-  global_id: t-186138
   teiginys: "Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir prisidėti prie Žygimanto šalininkų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir
 
 <a id="claim-t-186139"></a>
 - t-002
-  global_id: t-186139
   teiginys: "Senatas pasiuntė Lauryną Zarembą į Lietuvą su pasiuntinybe, įgaliota kelti Žygimantą Lietuvos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -105,7 +103,8 @@ Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186138
+    - t-001
+
 - id: c-169500
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -134,4 +133,4 @@ Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186139
+    - t-002

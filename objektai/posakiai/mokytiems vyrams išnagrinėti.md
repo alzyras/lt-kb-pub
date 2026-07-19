@@ -31,7 +31,6 @@ Daug painių klausimų Daukantas paliko, kaip jis pats sakosi, « mokytiems vyra
 
 <a id="claim-t-31561"></a>
 - t-001
-  global_id: t-31561
   teiginys: "Daukantas daug painių klausimų paliko, jo paties žodžiais, „mokytiems vyrams išnagrinėti“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,14 +58,11 @@ Daug painių klausimų Daukantas paliko, kaip jis pats sakosi, « mokytiems vyra
     rašymo metodas^54. Daug painių klausimų Daukantas paliko, kaip
     jis pats sakosi, « mokytiems vyrams išnagrinėti »^55. Skirdamas savo
     knygas liaudžiai, jis terašė apie aiškius dalykus.
-  citata_rodoma: |
-    Daug painių klausimų Daukantas paliko, kaip
-    jis pats sakosi, « mokytiems vyrams išnagrinėti »^55. Skirdamas savo
-    knygas liaudžiai, jis terašė apie aiškius dalykus.
+  citata_rodoma: "Daug painių klausimų Daukantas paliko, kaip\njis pats sakosi, « mokytiems vyrams išnagrinėti »^55. Skirdamas savo\nknygas liaudžiai, jis terašė apie aiškius dalykus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31561
+    - t-001

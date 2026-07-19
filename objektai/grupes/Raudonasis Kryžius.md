@@ -31,7 +31,6 @@ Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicin
 
 <a id="claim-t-41120"></a>
 - t-001
-  global_id: t-41120
   teiginys: "Raudonojo Kryžiaus pastangomis Nacionalinėje M. Mažvydo bibliotekoje įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,19 +64,11 @@ Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicin
     prieigų, medikamentai ir tvarsliava gauti
     privačia medikų iniciatyva, o vėliau - pa-
     galba ir iš užsienio.
-  citata_rodoma: |
-    Nacionalinėje M. Mažvydo
-    bibliotekoje Raudonojo Kryžiaus pastango-
-    mis įkurtas pirmosios medicinos pagalbos
-    ir medicininio vadovavimo punktas, atsa-
-    kingas už žmonių evakuaciją iš Parlamento
-    prieigų, medikamentai ir tvarsliava gauti
-    privačia medikų iniciatyva, o vėliau - pa-
-    galba ir iš užsienio.
+  citata_rodoma: "Nacionalinėje M. Mažvydo\nbibliotekoje Raudonojo Kryžiaus pastango-\nmis įkurtas pirmosios medicinos pagalbos\nir medicininio vadovavimo punktas, atsa-\nkingas už žmonių evakuaciją iš Parlamento\nprieigų, medikamentai ir tvarsliava gauti\nprivačia medikų iniciatyva, o vėliau - pa-\ngalba ir iš užsienio."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41120
+    - t-001

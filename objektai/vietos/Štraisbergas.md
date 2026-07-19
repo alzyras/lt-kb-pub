@@ -31,7 +31,6 @@ Dusburgietis teigia, kad slupas) Šternbergas Štraisbergas (Straisbergk; vėlia
 
 <a id="claim-t-58754"></a>
 - t-001
-  global_id: t-58754
   teiginys: "Štraisbergas buvo vadintas Straisbergku, vėliau Strasburgu, o dabar yra Brodnica."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,15 +70,11 @@ Dusburgietis teigia, kad slupas) Šternbergas Štraisbergas (Straisbergk; vėlia
     Štraisbergas (Straisbergk; vėliau Strasburg, dab. Brodnica)
     Štumas (žr. Stuma)
     Šuršynai (Schorschienen, dab.
-  citata_rodoma: |
-    Slupas)
-    Šternbergas
-    Štraisbergas (Straisbergk; vėliau Strasburg, dab. Brodnica)
-    Štumas (žr.
+  citata_rodoma: "Slupas)\nŠternbergas\nŠtraisbergas (Straisbergk; vėliau Strasburg, dab. Brodnica)\nŠtumas (žr."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58754
+    - t-001

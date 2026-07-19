@@ -43,8 +43,7 @@ Saliamono Slavočinskio „Giesmės“ datuojamos 1646 m. ir siejamos su lietuvi
 ## Teiginiai
 
 <a id="claim-t-19470"></a>
-- t-001
-  global_id: t-19470
+- t-005
   teiginys: "Saliamono Slavočinskio „Giesmės“ datuojamos 1646 m."
   atnaujinta: "2026-05-18 23:37"
   sprendimo_priezastis: "gap::authors"
@@ -62,8 +61,7 @@ Saliamono Slavočinskio „Giesmės“ datuojamos 1646 m. ir siejamos su lietuvi
     - c-16801
 
 <a id="claim-t-19471"></a>
-- t-002
-  global_id: t-19471
+- t-006
   teiginys: "Saliamono Slavočinskio 1646 m. „Giesmės“ rūpinosi lietuvių kalbos funkcionavimu Bažnyčios ir mokyklos lygmeniu."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::authors"
@@ -93,13 +91,12 @@ Saliamono Slavočinskio „Giesmės“ datuojamos 1646 m. ir siejamos su lietuvi
     ar gramatikos (1737 m. lietuvių kalbos gramatika) rūpinosi tik lietuvių
     kalbos funkcionavimu kasdieniu – Bažnyčios ir mokyklos – lygmeniu.
     Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta.
-  citata_rodoma: |
-    mokslai, vėlesni giesmynai (Saliamono Slavočinskio „Giesmės“ 1646 m.)
+  citata_rodoma: "mokslai, vėlesni giesmynai (Saliamono Slavočinskio „Giesmės“ 1646 m.)"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19470
-    - t-19471
+    - t-005
+    - t-006

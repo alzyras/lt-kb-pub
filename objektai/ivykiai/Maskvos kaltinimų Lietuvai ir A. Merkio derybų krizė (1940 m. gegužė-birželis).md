@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66771"></a>
-- t-001
-  global_id: t-66771
+- t-003
   teiginys: "1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietiškumu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-66772"></a>
 - t-002
-  global_id: t-66772
   teiginys: "1940 m. gegužės pabaigoje Maskva apkaltino Lietuvą sovietų bazių kareivių grobimu ir pakvietė į Maskvą premjerą Antaną Merkį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Nenurodyta
     - c-66914
 
 <a id="claim-t-66773"></a>
-- t-003
-  global_id: t-66773
+- t-004
   teiginys: "1940 m. birželio 10 d. Kaune nutarta pasiųsti Juozą Urbšį į Maskvą, nes Antanui Merkiui nesisekė normalizuoti situacijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,8 +110,7 @@ Nenurodyta
     - c-66911
 
 <a id="claim-t-66774"></a>
-- t-004
-  global_id: t-66774
+- t-001
   teiginys: "1940 m. gegužės pabaigoje Maskva viešai apkaltino Lietuvą grobiant kareivius iš sovietų bazių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -145,15 +141,15 @@ Nenurodyta
     absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
     sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
     į Maskvą ministrą J. Urbšį.
-  citata_rodoma: |
-    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
+  citata_rodoma: "sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66773
+    - t-004
+
 - id: c-66912
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -166,15 +162,15 @@ Nenurodyta
     1939 m. spalio 10 d. sutarties.
     Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas
     sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
-  citata_rodoma: |
-    sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
+  citata_rodoma: "sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66771
+    - t-003
+
 - id: c-66913
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -186,15 +182,15 @@ Nenurodyta
     daus reikalus baigėsi – Maskva viešai apkaltino Lietuvą grobiant iš so-
     vietų bazių kareivius. Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,
     neleido netgi apklausti neva pagrobtų, bet atsiradusių „aukų“.
-  citata_rodoma: |
-    vietų bazių kareivius. Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,
+  citata_rodoma: "vietų bazių kareivius. Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66774
+    - t-001
+
 - id: c-66914
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -206,12 +202,11 @@ Nenurodyta
     neleido netgi apklausti neva pagrobtų, bet atsiradusių „aukų“. Tai rodė,
     jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti
     Lietuvos ministrą pirmininką A. Merkį.
-  citata_rodoma: |
-    jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti
+  citata_rodoma: "jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66772
+    - t-002

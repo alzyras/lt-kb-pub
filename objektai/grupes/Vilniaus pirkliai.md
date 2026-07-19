@@ -37,8 +37,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 ## Teiginiai
 
 <a id="claim-t-172850"></a>
-- t-001
-  global_id: t-172850
+- t-009
   teiginys: "Buvo pageidaujama, kad Vilniaus miestiečiai ir pirkliai neprieštaraudami apskaičiuotų ir sumokėtų muitus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - c-157224
 
 <a id="claim-t-172851"></a>
-- t-002
-  global_id: t-172851
+- t-005
   teiginys: "1586 m. liepos 11 d. Stepono Batoro sprendimas kilo iš ginčo tarp kai kurių Vilniaus pirklių ir Vilniaus vaito."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - c-157219
 
 <a id="claim-t-172852"></a>
-- t-003
-  global_id: t-172852
+- t-007
   teiginys: "Steponas Batoras, Lietuvos senatorių prašomas ir Vilniaus pirkliams protestuojant, laikinai atleido juos nuo naujo muito mokesčio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +89,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - c-157218
 
 <a id="claim-t-172854"></a>
-- t-004
-  global_id: t-172854
+- t-006
   teiginys: "Pirkliai per Velykas pagal pataisytą kalendorių pardavinėjo prekes, nepaisydami katalikiškų švenčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,8 +105,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - c-157223
 
 <a id="claim-t-172855"></a>
-- t-005
-  global_id: t-172855
+- t-008
   teiginys: "Vilniaus pirkliai ir gyventojai, remdamiesi privilegijomis, priešinosi muito mokėjimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,8 +121,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - c-157217
 
 <a id="claim-t-172856"></a>
-- t-006
-  global_id: t-172856
+- t-002
   teiginys: "Karalius daug kartų draudė muitininkams imti muitą iš Vilniaus pirklių už vašką ir kitas prekes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -143,8 +137,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - c-157216
 
 <a id="claim-t-172857"></a>
-- t-007
-  global_id: t-172857
+- t-003
   teiginys: "Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -160,8 +153,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - c-157220
 
 <a id="claim-t-172858"></a>
-- t-008
-  global_id: t-172858
+- t-001
   teiginys: "Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba ir atsirado daug turtingų su užsienio kraštais prekiavusių pirklių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -210,7 +202,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172856
+    - t-002
+
 - id: c-157217
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -228,7 +221,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172855
+    - t-008
+
 - id: c-157218
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -265,7 +259,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172852
+    - t-007
+
 - id: c-157219
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -297,38 +292,15 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     įsakoma visiems Vilniaus gyvento­
     jams su lygiai tokia pačia pagarba
     švęsti]; jo turinys yra toks.
-  citata_rodoma: |
-    67
-    Be karaliaus Stepono laiškų, rašytų
-    dėl kalendorinių ginčų, Dubins-
-    k i o išspausdintų „Vilniaus miesto
-    privilegijų rinkinyje", p. 149 ir 150,
-    dar miesto archyve yra reliacinis ka­
-    raliaus Stepono sprendimas: Decre­
-    tum relationum Stephani Regis Polo-
-    niae inter nonnullos mercatores
-    vilnenses et advocatum Vilnensem ex
-    seriis partium controversiis anno 1586
-    die 11 Julii latum, quo festa solemnia
-    juxta novum calendarium ab omnibus
-    incolis civitatis vilnensis in ea qua par
-    est reverentia haberi demandantur [Re­
-    liacinis Lenkijos karaliaus Stepono
-    sprendimas dėl tarp kai kurių Vil­
-    niaus pirklių ir Vilniaus vaito šalių
-    rimtų prieštaravimų, išleistas 1586
-    metų liepos 11 dieną, kuriuo įpras­
-    tas šventes pagal naują kalendorių
-    įsakoma visiems Vilniaus gyvento­
-    jams su lygiai tokia pačia pagarba
-    švęsti]; jo turinys yra toks.
+  citata_rodoma: "67\nBe karaliaus Stepono laiškų, rašytų \ndėl kalendorinių ginčų, Dubins- \nk i o išspausdintų „Vilniaus miesto \nprivilegijų rinkinyje\", p. 149 ir 150, \ndar miesto archyve yra reliacinis ka­\nraliaus Stepono sprendimas: Decre­\ntum relationum Stephani Regis Polo- \nniae inter nonnullos mercatores \nvilnenses et advocatum Vilnensem ex \nseriis partium controversiis anno 1586 \ndie 11 Julii latum, quo festa solemnia \njuxta novum calendarium ab omnibus \nincolis civitatis vilnensis in ea qua par \nest reverentia haberi demandantur [Re­\nliacinis Lenkijos karaliaus Stepono \nsprendimas dėl tarp kai kurių Vil­\nniaus pirklių ir Vilniaus vaito šalių \nrimtų prieštaravimų, išleistas 1586 \nmetų liepos 11 dieną, kuriuo įpras­\ntas šventes pagal naują kalendorių \nįsakoma visiems Vilniaus gyvento­\njams su lygiai tokia pačia pagarba \nšvęsti]; jo turinys yra toks."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172851
+    - t-005
+
 - id: c-157220
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -403,7 +375,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172857
+    - t-003
+
 - id: c-157222
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -424,7 +397,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172858
+    - t-001
+
 - id: c-157223
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -453,7 +427,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172854
+    - t-006
+
 - id: c-157224
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -481,6 +456,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172850
+    - t-009
+
 ## Ryšiai
 - Rėmė Vilniaus pirkliai: [[objektai/asmenys/Mikalojus Radvila Rudasis]]

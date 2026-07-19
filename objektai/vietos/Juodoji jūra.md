@@ -57,8 +57,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 ## Teiginiai
 
 <a id="claim-t-08500"></a>
-- t-001
-  global_id: t-08500
+- t-005
   teiginys: "Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros ir Dunojaus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
     - c-10491
 
 <a id="claim-t-08501"></a>
-- t-002
-  global_id: t-08501
+- t-006
   teiginys: "Uksinė jūra Daukanto tekste tapatinama su Juodąja jūra."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -91,25 +89,16 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
     - c-10492
 
 <a id="claim-t-08502"></a>
-- t-003
-  global_id: t-08502
+- t-007
   teiginys: "Juodoji jūra siejama su Lietuvos prekybos ir valstybės ribų plėtra."
-  atnaujinta: "2026-05-31 10:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juodoji jūra: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juodoji jūra\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
-    - c-10493
+    - c-11080
 
 <a id="claim-t-193185"></a>
-- t-004
-  global_id: t-193185
+- t-008
   teiginys: "Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -180,7 +169,8 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08500
+    - t-005
+
 - id: c-10492
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -195,30 +185,55 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08501
+    - t-006
+
 - id: c-10493
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     - public_note:
-    - saltinis: [[objektai/saltiniai/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md]]
+    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
     - vieta_saltinyje: Citata kandidatų registre pažymėta kaip neaptikta darbiniame šaltinyje.
     - santrauka: Totoriai šiame fragmente pereina nuo partnerystės prie karo prieš Lietuvą.
     - pagrindzia:
     - pastaba: Šiame žingsnyje nelaikoma pakankamu viešu įrodymu.
       citata_originali: |
         Nuo to regimai Lietuvos ūkė pradėjo irti; lig šiol totoriai, talkininkai ir tarnai lietuvių, nugis atstoję nuo jų, pasidavė turkams ir pradėjo pačius lietuvius kariauti, užgulė Uksinę jūrą įr Dunojų, arba Istrupį.
-  citata_rodoma: |
-    užgulė Uksinę jūrą įr Dunojų,
-    arba Istrupį.
+  citata_rodoma: "užgulė Uksinę jūrą įr Dunojų,\narba Istrupį."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-11080
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    - public_note:
+    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - vieta_saltinyje: Citata iš sujungto kandidato nebuvo mechaniškai patvirtinta darbiniame šaltinyje.
+    - santrauka: Vokiečiai šiame šaltinyje nuosekliai rodomi kaip prekybą spaudžianti, pilis valdanti ir politines privilegijas gaunanti jėga.
+    - pagrindzia:
+    - pastaba: Šiame žingsnyje nelaikoma pakankamu viešu įrodymu.
+      citata_originali: |
+        Dar metuose 1561, pasidavus Padaugavio vokiečiams į lietuvių globą, jų prekyba per jūrą dar didinos taip, jog Lietuvos
+        ūkės rėdą ketėjo jau laivynę Žemaičių jūroj įkurti, nesgi nuo Narvos upės lig pat mažne
+        Oderio upės į valdžią visas pašalys Žemaičių jūros vėl pagrįžo lietuvių, kaip pirm 300 metų buvo
+        buvęs; todėl prekyba per Žemaičių jūrą pasididino: kaipogi leido tenai linus, javus, kanapes, kailius,
+        mėsą, sviestą, medų, vašką, gintarus, apynius, pelenus ir laivams medžiagą į Anglų ir Olanderių žemę,
+        o nuo tenai gabeno sau skaninius ir gražinius.
+  citata_rodoma: "vėl pagrįžo lietuvių, kaip pirm 300 metų buvo\nbuvęs; todėl prekyba per Žemaičių jūrą pasididino: kaipogi leido tenai linus, javus, kanapes, kailius,\nmėsą, sviestą, medų, vašką, gintarus, apynius, pelenus ir laivams medžiagą į Anglų ir Olanderių žemę,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08502
+    - t-007
+
 - id: c-175929
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -234,4 +249,4 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193185
+    - t-008

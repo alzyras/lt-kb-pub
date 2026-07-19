@@ -40,7 +40,6 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
 
 <a id="claim-t-30226"></a>
 - t-001
-  global_id: t-30226
   teiginys: "Edigą Vytautas siekė pašalinti iš Aukso Ordos valdžios ir vietoje jo pasodinti Tochtamišą, tačiau žygis baigėsi nesėkmingai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
 
 <a id="claim-t-30228"></a>
 - t-002
-  global_id: t-30228
   teiginys: "Edigos dalinių laukęs Timuras derybomis siekė laimėti laiko prieš kautynes su Vytauto pajėgomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,19 +88,15 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
     Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį
     Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
     sutriuškino švedų galybę (1709).
-  citata_rodoma: |
-    Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos
-    (Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.
-    Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį
-    Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
-    sutriuškino švedų galybę (1709).
+  citata_rodoma: "Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos\n(Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.\nKairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį\nVorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis\nsutriuškino švedų galybę (1709)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30226
+    - t-001
+
 - id: c-32720
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -113,15 +107,11 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
     tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
     vado Edigos dalinių. Šitaip rugpiučio 12 popietėje totorių kariuo­
     menės į kautynes stojo žymiai daugiau už Vytauto jėgas^34.
-  citata_rodoma: |
-    Timuras
-    tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
-    vado Edigos dalinių. Šitaip rugpiučio 12 popietėje totorių kariuo­
-    menės į kautynes stojo žymiai daugiau už Vytauto jėgas^34.
+  citata_rodoma: "Timuras\ntačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo\nvado Edigos dalinių. Šitaip rugpiučio 12 popietėje totorių kariuo­\nmenės į kautynes stojo žymiai daugiau už Vytauto jėgas^34."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30228
+    - t-002

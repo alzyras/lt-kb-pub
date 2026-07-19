@@ -40,7 +40,6 @@ Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir viena
 
 <a id="claim-t-60283"></a>
 - t-001
-  global_id: t-60283
   teiginys: "Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir viena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60283
+    - t-001

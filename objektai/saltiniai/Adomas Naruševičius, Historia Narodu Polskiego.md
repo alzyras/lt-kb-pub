@@ -30,7 +30,6 @@ Narbutas nurodo Naruševičiaus veikalą kaip šaltinį apie Boristenio vakarin�
 
 <a id="claim-t-191751"></a>
 - t-001
-  global_id: t-191751
   teiginys: "Narbutas nurodo Naruševičiaus veikalą kaip šaltinį apie Boristenio vakarinę pusę senovės geografų darbuose."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,7 @@ Narbutas nurodo Naruševičiaus veikalą kaip šaltinį apie Boristenio vakarin�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174633
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo Naruševičiaus veikalą kaip šaltinį apie Boristenio vakarinę pusę senovės geografų darbuose.'
@@ -70,8 +69,7 @@ Narbutas nurodo Naruševičiaus veikalą kaip šaltinį apie Boristenio vakarin�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191751
+
 ## Citatos
 
 - id: c-174633
@@ -92,22 +90,11 @@ Narbutas nurodo Naruševičiaus veikalą kaip šaltinį apie Boristenio vakarin�
     mas sutampa su pavadinimu dviejų upelių, plaukiančių
     per Lydos apskritį; vienas jų už Rodūnios įteka į Ditvą,
     antras — į Pelesą tarp Pravožos ir Dubičių.
-  citata_rodoma: |
-    1 Boristenis occidentale latus. Naruševičius apie tai skaitė se­
-    novės geografų veikaluose (Hist. Nar. Pol. T. I. S. 34),
-    212
-
-    ## Puslapis 210
-
-    215
-    Atvedėme keliavusią gelonų-budinų tautą į Sniatyno
-    apylinkes, prie Maročės ir Lunio s upių ne tik todėl, kad
-    jų buvimo pėdsakų ten aptiko senovės tyrinėtojai Bajeris
-    ir Naruševičius1.
+  citata_rodoma: "1 Boristenis occidentale latus. Naruševičius apie tai skaitė se­\nnovės geografų veikaluose (Hist. Nar. Pol. T. I. S. 34),\n212\n\n## Puslapis 210\n\n215\nAtvedėme keliavusią gelonų-budinų tautą į Sniatyno\napylinkes, prie Maročės ir Lunio s upių ne tik todėl, kad\njų buvimo pėdsakų ten aptiko senovės tyrinėtojai Bajeris\nir Naruševičius1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191751
+    - t-001

@@ -46,10 +46,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-194067"></a>
-- t-001
-  global_id: t-194067
+- t-002
   teiginys: "Ir mūsų tėvas pati kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo gaila, pasitikėdami jų duotu žodžiu ir ranka."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -77,17 +76,11 @@ Nenurodyta
     jį su savo karaliene, ir reiškė jam didžiausią pagarbą,
     ir dovanojo brangių dovanų2, ir nuo tol tarpe jų įsiga­
     lėjo didelė meilė.
-  citata_rodoma: |
-    Ir mūsų tėvas pati­
-    kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo­
-    gaila, pasitikėdami jų duotu žodžiu ir ranka. Ir po duo­
-    to žodžio suėmė jie mūsų tėvą ir jį nužudė. Ir mano
-    motiną taip pat nužudė, o ir mane patį jie paėmė į ne­
-    laisvę.
+  citata_rodoma: "Ir mūsų tėvas pati­\nkėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo­\ngaila, pasitikėdami jų duotu žodžiu ir ranka. Ir po duo­\nto žodžio suėmė jie mūsų tėvą ir jį nužudė. Ir mano \nmotiną taip pat nužudė, o ir mane patį jie paėmė į ne­\nlaisvę."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194067
+    - t-002

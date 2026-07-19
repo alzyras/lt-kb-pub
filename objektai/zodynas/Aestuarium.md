@@ -47,8 +47,7 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
 ## Teiginiai
 
 <a id="claim-t-192249"></a>
-- t-001
-  global_id: t-192249
+- t-002
   teiginys: "Pasak Narbuto cituojamo lotyniško Pitėjo vertimo, Aestuarium vietos kartais būna apsemtos, o kartais sausos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -64,10 +63,9 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175088
-    - c-001
+
 <a id="claim-t-192251"></a>
-- t-002
-  global_id: t-192251
+- t-001
   teiginys: "Pasak Narbuto cituojamo lotyniško Pitėjo vertimo, Aestuarium reiškia negilias, seklias vietas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -83,7 +81,6 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175088
-    - c-001
 - susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191137|Pitėjas Masilietis]]: Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti.
 - susijęs iš [[objektai/asmenys/Pitėjas.md#claim-t-191222|Pitėjas]]: Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti.
 ## Reikšmingi paminėjimai
@@ -100,9 +97,8 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192249
-    - t-192251
+- t-192251
+
 ## Citatos
 
 - id: c-175088
@@ -118,15 +114,12 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
     Sala, kurią Plinijus vadina Baltija, remdamasis visais
     Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
     lia.
-  citata_rodoma: |
-    Aestuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
-    seklias vietas, kurios kartais būva apsemtos, o kartais —
-    sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai.
+  citata_rodoma: "Aestuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,\nseklias vietas, kurios kartais būva apsemtos, o kartais —\nsausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192249
-    - t-192251
+    - t-002
+    - t-001

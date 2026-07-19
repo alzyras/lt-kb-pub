@@ -61,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-195357"></a>
 - t-001
-  global_id: t-195357
   teiginys: "Vėžiavimas buvo moterų žvejybos būdas, kai į Šešupę eidavusios moterys parnešdavo terbą vėžių."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -89,12 +88,11 @@ Nenurodyta
     Vėžiavimas
     būdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šil­
     tą vandenį ir parnešdavo terbą vėžių.
-  citata_rodoma: |
-    Vėžiavimas būdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šiltą vandenį ir parnešdavo terbą vėžių.
+  citata_rodoma: "Vėžiavimas būdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šiltą vandenį ir parnešdavo terbą vėžių."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195357
+    - t-001

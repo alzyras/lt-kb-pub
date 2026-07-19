@@ -55,7 +55,6 @@ Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar gali
 
 <a id="claim-t-55176"></a>
 - t-001
-  global_id: t-55176
   teiginys: "Gedimino laiške į Vilnių atvykstantiems kolonistams žadėta vadovautis Rygos miesto civiline teise."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "gap::sayings"
@@ -72,7 +71,6 @@ Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar gali
 
 <a id="claim-t-55177"></a>
 - t-002
-  global_id: t-55177
   teiginys: "„Jure civili utantur Rigensis Civitatis“ Gedimino laiške leido Vilniaus kolonistams naudotis Rygos civiline teise, kol bus sukurti geresni įstatymai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::sayings"
@@ -89,7 +87,6 @@ Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar gali
 
 <a id="claim-t-82139"></a>
 - t-003
-  global_id: t-82139
   teiginys: "„Jure civili utantur Rigensis Civitatis“ nurodė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::sayings"
@@ -145,6 +142,6 @@ Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar gali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55176
-    - t-55177
-    - t-82139
+    - t-001
+    - t-002
+    - t-003

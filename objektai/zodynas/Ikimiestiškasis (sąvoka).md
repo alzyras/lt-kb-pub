@@ -12,10 +12,10 @@ datos:
   - '1408 m.'
 date_start: '1408'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,6 @@ Pirmasis ikimiestiškasis prasideda nuo pirmosios archeologijos metodais fiksuoj
 
 <a id="claim-t-201801"></a>
 - t-001
-  global_id: t-201801
   teiginys: "Pirmasis ikimiestiškasis prasideda nuo pirmosios archeologijos metodais fiksuojamos gyvenvietės Nemuno ir Neries santakos apylinkėse, baigiasi iki 1408 m. Vytauto privilegijos."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Pirmasis ikimiestiškasis prasideda nuo pirmosios archeologijos metodais fiksuoj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201801
+    - t-001

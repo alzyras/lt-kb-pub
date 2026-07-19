@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-30111"></a>
 - t-001
-  global_id: t-30111
   teiginys: "S. M. Kuczyńskio veikalas „Wielka wojna z Zakonem Krzyżackim w latach 1409-1411“ išleistas Varšuvoje; pirmas leidimas nurodytas 1955 m., antras - 1966 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30111
+    - t-001

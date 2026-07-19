@@ -37,7 +37,6 @@ Išeitis buvo 1385 m. sudaryta Krėvos sutartis su Lenkija, pagal kurią Lietuvo
 
 <a id="claim-t-183361"></a>
 - t-001
-  global_id: t-183361
   teiginys: "1385 m. rugpjūčio 14 d. Krėvos pilyje Jogaila priėmė lenkų parengtą sutarties dokumentą, vėliau vadintą Krėvos sutartimi."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Išeitis buvo 1385 m. sudaryta Krėvos sutartis su Lenkija, pagal kurią Lietuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183361
+    - t-001

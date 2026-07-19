@@ -30,7 +30,6 @@ Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos g
 
 <a id="claim-t-192997"></a>
 - t-001
-  global_id: t-192997
   teiginys: "Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos gyventojai, iš dalies buvo lietuvių kilmės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,7 @@ Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos g
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175767
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos gyventojai, iš dalies buvo lietuvių kilmės.'
@@ -65,8 +64,7 @@ Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192997
+
 ## Citatos
 
 - id: c-175767
@@ -82,17 +80,11 @@ Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos g
     nas Potockis4, Lelevelis5 tai žinojo, bet į šį klausimą ne­
     atsakė. Tą patį reikia pasakyti ir apie šio veikalo pirma­
     me tome esantį straipsnį „Šventyklos“.
-  citata_rodoma: |
-    Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­
-    rulai. Taip pat neabejotina, kad senovės valetabai ir lu-
-    žitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­
-    tuvių kartos. Tačiau neaišku, ar jos ten gyveno nuo seno,
-    kažkada užklydusios iš tikrosios Lietuvos sričių, ar gavo
-    pradžią nuo iš Italijos atvykusių herulų?
+  citata_rodoma: "Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­\nrulai. Taip pat neabejotina, kad senovės valetabai ir lu-\nžitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­\ntuvių kartos. Tačiau neaišku, ar jos ten gyveno nuo seno,\nkažkada užklydusios iš tikrosios Lietuvos sričių, ar gavo\npradžią nuo iš Italijos atvykusių herulų?"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192997
+    - t-001

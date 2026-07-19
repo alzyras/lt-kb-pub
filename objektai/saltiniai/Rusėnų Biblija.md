@@ -41,7 +41,6 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
 
 <a id="claim-t-78138"></a>
 - t-001
-  global_id: t-78138
   teiginys: "1517–1519 m. Prahoje Pranciškus Skorina parengė ir išspausdino psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų Biblija“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78138
+    - t-001

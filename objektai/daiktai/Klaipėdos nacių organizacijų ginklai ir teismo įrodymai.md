@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-19542"></a>
 - t-001
-  global_id: t-19542
   teiginys: "Lietuvos valdžia kruopščiai rinko kaltinamąją medžiagą, atliko kratas, per kurias išaiškėjo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus, kurstomosios literatūros."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-19543"></a>
 - t-002
-  global_id: t-19543
   teiginys: "Teismo salės pasienyje buvo išrikiuota 300 dėžių su įrodymais, tarp jų svastikomis, vėliavomis, uniformomis ir ginklais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,15 +93,15 @@ Nenurodyta
     jo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus,
     kurstomosios literatūros. 126 asmenys patraukti teisminėn atsakomybėn,
     o liepos 13 dieną nacių organizacijos uždraustos.
-  citata_rodoma: |
-    jo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus,
+  citata_rodoma: "jo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19542
+    - t-001
+
 - id: c-22254
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -115,14 +113,11 @@ Nenurodyta
     Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-
     kiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-
     momis, instrukcijomis, lapeliais, ginklais.
-  citata_rodoma: |
-    Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-
-    kiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-
-    momis, instrukcijomis, lapeliais, ginklais.
+  citata_rodoma: "Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-\nkiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-\nmomis, instrukcijomis, lapeliais, ginklais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19543
+    - t-002

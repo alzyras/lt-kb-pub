@@ -60,8 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-176177"></a>
-- t-001
-  global_id: t-176177
+- t-003
   teiginys: "Kuriant Vilniaus vyskupystę buvo padėti pamatai Vilniaus katedrai ir šv. Martyno bei šv. Jono bažnyčioms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +77,6 @@ Nenurodyta
 
 <a id="claim-t-176179"></a>
 - t-002
-  global_id: t-176179
   teiginys: "Nuo pat pradžių Vilniaus vyskupas tapo centriniu Lietuvos bažnytinio gyvenimo asmeniu."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -94,8 +92,7 @@ Nenurodyta
     - c-160218
 
 <a id="claim-t-176180"></a>
-- t-003
-  global_id: t-176180
+- t-001
   teiginys: "1387 m. vasario 17 d. Jogailos senelio įkurtoje sostinėje buvo pradėta kurti nauja Vilniaus vyskupija."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -114,7 +111,6 @@ Nenurodyta
 
 <a id="claim-t-176181"></a>
 - t-004
-  global_id: t-176181
   teiginys: "Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -152,7 +148,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176177
+    - t-003
+
 - id: c-37072
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -175,7 +172,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176181
+    - t-004
+
 - id: c-160218
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -195,5 +193,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176179
-    - t-176180
+    - t-002
+    - t-001

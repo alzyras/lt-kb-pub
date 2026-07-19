@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-66602"></a>
 - t-001
-  global_id: t-66602
   teiginys: "1707 m. pradžioje Karoliui XII grįžus iš Saksonijos, rusai pradėjo trauktis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66602
+    - t-001

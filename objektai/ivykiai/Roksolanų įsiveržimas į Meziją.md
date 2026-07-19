@@ -44,7 +44,6 @@ Nenurodyta
 
 <a id="claim-t-191051"></a>
 - t-001
-  global_id: t-191051
   teiginys: "Narbutas, remdamasis Tacitu, 72 m. datuoja roksolanų, sarmatų genties, įsiveržimą į Meziją po dviejų romėnų kohortų nugalėjimo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -65,26 +64,17 @@ Nenurodyta
 
 <a id="claim-t-191052"></a>
 - t-002
-  global_id: t-191052
   teiginys: "Tacito cituojamame pasakojime roksolanai išžudė dvi romėnų kohortas ir įsiveržė į Meziją."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Romėnai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Roksolanai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Romėnai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad roksolanai išžudė romėnų kohortas, todėl palaikomas puolimo ryšys."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Roksolanai puolė Romėnai (0.82)"
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
-    - c-173934
-    - c-002
+    - c-173933
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Tacito cituojamame pasakojime roksolanai išžudė dvi romėnų kohortas ir įsiveržė į Meziją.'
@@ -105,8 +95,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191052
+
 ## Citatos
 
 - id: c-173933
@@ -127,7 +116,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191051
+    - t-001
+    - t-002
+
 - id: c-173934
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -145,21 +136,9 @@ Nenurodyta
     miausia pačioje Indijoje, o vėliau šie sektantai, išvyti ir
     išsibarstę po visą Vidurinę Aziją, išplatino savo tikėji­
     mą.
-  citata_rodoma: |
-    Tai tiesa, nors įvairiai skamba
-    1 Lib. I, 79. (Roxolani, Sarmatica gens, caesis duabus cohorti­
-    bus, magna spe in Moesiam irruperant). (Roksolanai, sarmatą gen­
-    tis, išžudė dvi kohortas (romėnų) ir, kupini vilties, įsiveržė į Meziją.)
-    70
-
-    ## Puslapis 68
-
-    Volgos',ypavadinimas, tačiau roksanai ir bulgarai reiškia
-    vieną ik tą patį.
+  citata_rodoma: "Tai tiesa, nors įvairiai skamba\n1 Lib. I, 79. (Roxolani, Sarmatica gens, caesis duabus cohorti­\nbus, magna spe in Moesiam irruperant). (Roksolanai, sarmatą gen­\ntis, išžudė dvi kohortas (romėnų) ir, kupini vilties, įsiveržė į Meziją.)\n70\n\n## Puslapis 68\n\nVolgos',ypavadinimas, tačiau roksanai ir bulgarai reiškia\nvieną ik tą patį."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191052

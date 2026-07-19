@@ -38,7 +38,6 @@ Be senesnių­ jų lietuvių ir rusų kunigaikščių — tėvynainių (otčici)
 
 <a id="claim-t-36820"></a>
 - t-001
-  global_id: t-36820
   teiginys: "Lietuvių ir rusų kunigaikščiai tėvynainiai, arba otčici, turėjo visišką nuosavybės teisę į savo valdomas žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,16 +72,11 @@ Be senesnių­ jų lietuvių ir rusų kunigaikščių — tėvynainių (otčici)
     domas žemes turėjo visišką nuosavybės teisę ir Žemaitijos ba­
     jorai nuo senų laikų, ką mes sužinom iš jų skundo prieš Ordiną
     Konstancijoj (1416)^1 ).
-  citata_rodoma: |
-    Be senesnių­
-    jų lietuvių ir rusų kunigaikščių — tėvynainių (otčici) į savo val­
-    domas žemes turėjo visišką nuosavybės teisę ir Žemaitijos ba­
-    jorai nuo senų laikų, ką mes sužinom iš jų skundo prieš Ordiną
-    Konstancijoj (1416)^1 ).
+  citata_rodoma: "Be senesnių­\njų lietuvių ir rusų kunigaikščių — tėvynainių (otčici) į savo val­\ndomas žemes turėjo visišką nuosavybės teisę ir Žemaitijos ba­\njorai nuo senų laikų, ką mes sužinom iš jų skundo prieš Ordiną\nKonstancijoj (1416)^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36820
+    - t-001

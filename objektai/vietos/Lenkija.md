@@ -58,8 +58,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-177338"></a>
-- t-001
-  global_id: t-177338
+- t-097
   teiginys: "Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,7 @@ media_all_json: |-
     - c-161217
 
 <a id="claim-t-177339"></a>
-- t-002
-  global_id: t-177339
+- t-031
   teiginys: "Lenkijos karalystės Seimas paskelbė šalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +93,7 @@ media_all_json: |-
     - c-161274
 
 <a id="claim-t-177340"></a>
-- t-003
-  global_id: t-177340
+- t-075
   teiginys: "Ratifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,8 +113,7 @@ media_all_json: |-
     - c-161228
 
 <a id="claim-t-177341"></a>
-- t-004
-  global_id: t-177341
+- t-033
   teiginys: "Lenkiškai kalbantiems lietuviams linkstant į Lenkijos valstybingumo idėją, ryškėjo etnografinės Lietuvos nepriklausomybės siekis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,8 +129,7 @@ media_all_json: |-
     - c-161245
 
 <a id="claim-t-177342"></a>
-- t-005
-  global_id: t-177342
+- t-025
   teiginys: "Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,10 +143,10 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-161288
+    - c-161233
 
 <a id="claim-t-177343"></a>
-- t-006
-  global_id: t-177343
+- t-090
   teiginys: "Autorių vertinimu, Lenkija buvo LDK mokytoja, nes stipriai veikė Lietuvos kultūrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -167,25 +162,23 @@ media_all_json: |-
     - c-161270
 
 <a id="claim-t-177344"></a>
-- t-007
-  global_id: t-177344
+- t-084
   teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lenkija: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad totoriai nuniokojo Lenkiją."
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-161282
+    - c-161262
 
 <a id="claim-t-177345"></a>
-- t-008
-  global_id: t-177345
+- t-053
   teiginys: "Užėmęs Vytauto valdytas pilis ir Gardiną, Jogaila patvarkė Lietuvos gynybą ir grįžo į Lenkiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -202,8 +195,7 @@ media_all_json: |-
     - c-161267
 
 <a id="claim-t-177346"></a>
-- t-009
-  global_id: t-177346
+- t-049
   teiginys: "Lenkija siekė išsaugoti uniją, kad ji neliktų suardyta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -219,8 +211,7 @@ media_all_json: |-
     - c-161261
 
 <a id="claim-t-177348"></a>
-- t-010
-  global_id: t-177348
+- t-015
   teiginys: "Po 1183 m. lietuvių žygiai padažnėjo ir kasmet vyko ne tik į Rusios žemes, bet ir į Lenkiją bei Livoniją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -241,8 +232,7 @@ media_all_json: |-
     - c-161253
 
 <a id="claim-t-177349"></a>
-- t-011
-  global_id: t-177349
+- t-050
   teiginys: "XIV a. Lenkijos miestai, tokie kaip Krokuva ir Liublinas, jau turėjo gotikos rūmų ir mūrinių gatvių vaizdą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -258,8 +248,7 @@ media_all_json: |-
     - c-161287
 
 <a id="claim-t-177350"></a>
-- t-012
-  global_id: t-177350
+- t-076
   teiginys: "XIV a. Lenkijoje jau buvo miestų, su kuriais lyginamos aplink Vilniaus pilis buvusios gyvenvietės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -275,8 +264,7 @@ media_all_json: |-
     - c-161287
 
 <a id="claim-t-177351"></a>
-- t-013
-  global_id: t-177351
+- t-041
   teiginys: "Sutriuškinus Lenkiją, Anglijos ir Prancūzijos įtaka regione sumažėjo, o Vokietija skelbė nebeturinti ten interesų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -292,8 +280,7 @@ media_all_json: |-
     - c-161227
 
 <a id="claim-t-177352"></a>
-- t-014
-  global_id: t-177352
+- t-068
   teiginys: "Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -312,8 +299,7 @@ media_all_json: |-
     - c-161236
 
 <a id="claim-t-177353"></a>
-- t-015
-  global_id: t-177353
+- t-086
   teiginys: "Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -329,8 +315,7 @@ media_all_json: |-
     - c-46570
 
 <a id="claim-t-177355"></a>
-- t-016
-  global_id: t-177355
+- t-036
   teiginys: "1922 m. sausį lenkai surengė rinkimus Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -350,8 +335,7 @@ media_all_json: |-
     - c-161276
 
 <a id="claim-t-177356"></a>
-- t-017
-  global_id: t-177356
+- t-027
   teiginys: "Lenkijoje žydų ir armėnų vaidmuo buvo ryškesnis nei LDK, bet joje nebuvo tokių ryškių totorių ir karaimų bendruomenių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -367,8 +351,7 @@ media_all_json: |-
     - c-161210
 
 <a id="claim-t-177358"></a>
-- t-018
-  global_id: t-177358
+- t-078
   teiginys: "Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -387,8 +370,7 @@ media_all_json: |-
     - c-161214
 
 <a id="claim-t-177359"></a>
-- t-019
-  global_id: t-177359
+- t-085
   teiginys: "1008 m. pabaigoje iš Lenkijos aisčių krikštyti išvyko misijonierius su 18 palydovų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -407,8 +389,7 @@ media_all_json: |-
     - c-161285
 
 <a id="claim-t-177360"></a>
-- t-020
-  global_id: t-177360
+- t-099
   teiginys: "Lietuvos pietvakariuose buvusi Lenkija tapo ilgamečio konflikto su Lietuva dalyve."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -424,8 +405,7 @@ media_all_json: |-
     - c-161249
 
 <a id="claim-t-177361"></a>
-- t-021
-  global_id: t-177361
+- t-082
   teiginys: "Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį pas Lenkijos kunigaikštį apžiūrėti Kulmo žemės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -441,8 +421,7 @@ media_all_json: |-
     - c-161262
 
 <a id="claim-t-177362"></a>
-- t-022
-  global_id: t-177362
+- t-024
   teiginys: "Abiejų Tautų Respublikoje vyravo Lenkija, nes Lietuva bendrame Seime turėjo tik trečdalį vietų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -458,8 +437,7 @@ media_all_json: |-
     - c-161248
 
 <a id="claim-t-177363"></a>
-- t-023
-  global_id: t-177363
+- t-087
   teiginys: "Lenkija siekė išsaugoti uniją, nes Vytauto karūnacija galėjo visiškai nutraukti jos ryšius su Lietuva."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -475,8 +453,7 @@ media_all_json: |-
     - c-161263
 
 <a id="claim-t-177364"></a>
-- t-024
-  global_id: t-177364
+- t-048
   teiginys: "Vytauto karūnacija Lenkijai kėlė pavojų, nes Lietuva galėjo visiškai išsivaduoti iš Lenkijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -492,8 +469,7 @@ media_all_json: |-
     - c-161216
 
 <a id="claim-t-177365"></a>
-- t-025
-  global_id: t-177365
+- t-028
   teiginys: "1791 m. Lietuvos atstovų Spalio 20-osios pataisa neleido LLV Konstitucijos laikyti vien tik Lenkijos konstitucija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -512,8 +488,7 @@ media_all_json: |-
     - c-161251
 
 <a id="claim-t-177367"></a>
-- t-026
-  global_id: t-177367
+- t-070
   teiginys: "Vokietijos ir Lenkijos karo metu voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai ragino vyriausybę jėga atsiimti Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -529,8 +504,7 @@ media_all_json: |-
     - c-161223
 
 <a id="claim-t-177371"></a>
-- t-027
-  global_id: t-177371
+- t-081
   teiginys: "Lenkijos kunigaikštis, prūsų įbaugintas, duodavo jų pasiuntiniams reikalaujamus žirgus ir ryškiaspalvius drabužius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -546,8 +520,7 @@ media_all_json: |-
     - c-161222
 
 <a id="claim-t-177373"></a>
-- t-028
-  global_id: t-177373
+- t-047
   teiginys: "Per aštuoniolika laisvo valdymo metų Vytautas paskleidė savo įtaką rusų kraštuose, Lenkijoje ir Aukso Ordoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -563,8 +536,7 @@ media_all_json: |-
     - c-161237
 
 <a id="claim-t-177375"></a>
-- t-029
-  global_id: t-177375
+- t-055
   teiginys: "Aleksandras dokumente tituluojamas Lenkijos karaliumi ir Lietuvos, Rusios, Prūsijos bei Žemaitijos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -580,8 +552,7 @@ media_all_json: |-
     - c-161259
 
 <a id="claim-t-177376"></a>
-- t-030
-  global_id: t-177376
+- t-039
   teiginys: "1938 m. kovo 19 d. Lietuva priėmė Lenkijos ultimatumą, nes jis nelietė Vilniaus pripažinimo Lenkijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -600,8 +571,7 @@ media_all_json: |-
     - c-161225
 
 <a id="claim-t-177377"></a>
-- t-031
-  global_id: t-177377
+- t-065
   teiginys: "Lenkijoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių kaip LDK."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -617,8 +587,7 @@ media_all_json: |-
     - c-161210
 
 <a id="claim-t-177378"></a>
-- t-032
-  global_id: t-177378
+- t-067
   teiginys: "Nors dalį ginčijamų žemių jau kontroliavo Lenkija, Adolfas Jofė sutiko Vilnių, Gardiną ir Lydą priskirti Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -635,8 +604,7 @@ media_all_json: |-
     - c-161257
 
 <a id="claim-t-177379"></a>
-- t-033
-  global_id: t-177379
+- t-021
   teiginys: "Lietuvos suartėjimas su Lenkija lėmė epochos pobūdį, kai abi valstybes dažnai valdė tie patys valdovai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -655,29 +623,25 @@ media_all_json: |-
     - c-161269
 
 <a id="claim-t-177381"></a>
-- t-034
-  global_id: t-177381
+- t-001
   teiginys: "Pirmiausia kurį nors Gediminaitį išsirinkdavo sau valdovu Lietuva, o paskui jį išsirinkdavo ir Lenkija."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   temporaliniai_duomenys: "įvykio data: 1948 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-24237
-    - c-175947
     - c-177580
 
 <a id="claim-t-177382"></a>
-- t-035
-  global_id: t-177382
+- t-074
   teiginys: "1994 m. balandžio 26 d. Lietuva ir Lenkija pasirašė draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -696,8 +660,7 @@ media_all_json: |-
     - c-161219
 
 <a id="claim-t-177383"></a>
-- t-036
-  global_id: t-177383
+- t-002
   teiginys: "Lenkijoje Zamoiskis įgijo persvarą ir, vadovaudamas kariuomenei, neleido Maksimilijonui įžengti į Krokuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -713,8 +676,7 @@ media_all_json: |-
     - c-161286
 
 <a id="claim-t-177384"></a>
-- t-037
-  global_id: t-177384
+- t-069
   teiginys: "1938 m. kovo 19 d. Lietuva priėmė Lenkijos ultimatumą, nes jis nereikalavo pripažinti Vilniaus Lenkijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -733,8 +695,7 @@ media_all_json: |-
     - c-161225
 
 <a id="claim-t-177386"></a>
-- t-038
-  global_id: t-177386
+- t-089
   teiginys: "1920 m. spalio 9 d. Lenkijos generolas Liucijanas Želigovskis įžengė į Vilnių dar prieš įsigaliojant Suvalkų susitarimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -754,8 +715,7 @@ media_all_json: |-
     - c-161215
 
 <a id="claim-t-177388"></a>
-- t-039
-  global_id: t-177388
+- t-032
   teiginys: "1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ organizacijos sukilimui rengti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -772,27 +732,26 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys pilnas ir faktas tiesiogiai susijęs su Kongresine Lenkija."
   pagrindžia:
     - c-161218
+    - c-167006
 
 <a id="claim-t-177389"></a>
-- t-040
-  global_id: t-177389
+- t-003
   teiginys: "Totoriai įsiveržė į Lenkiją, mūšyje nukovė Henriką, Lenkijos kunigaikštį, ir nuniokojo kraštą."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lenkija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo totorių įsiveržimą į Lenkiją."
+  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-161281
+    - c-161262
 
 <a id="claim-t-177390"></a>
-- t-041
-  global_id: t-177390
+- t-057
   teiginys: "Tikocine nukaldinti lenkiški grašiai turėjo būti priimami Lenkijoje ir Lietuvoje pagal lenkiškų grašių kainą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -808,8 +767,7 @@ media_all_json: |-
     - c-161284
 
 <a id="claim-t-177391"></a>
-- t-042
-  global_id: t-177391
+- t-034
   teiginys: "Per derybas Lenkija jau kontroliavo dalį žemių, kurias A. Jofė sutiko priskirti Lietuvai kartu su Vilniumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -827,8 +785,7 @@ media_all_json: |-
     - c-161243
 
 <a id="claim-t-177393"></a>
-- t-043
-  global_id: t-177393
+- t-063
   teiginys: "Krėvos sutartį, autorių vertinimu, galima laikyti Lenkijos Karalystės ir Lietuvos didžiojo kunigaikščio susitarimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -844,8 +801,7 @@ media_all_json: |-
     - c-161279
 
 <a id="claim-t-177394"></a>
-- t-044
-  global_id: t-177394
+- t-079
   teiginys: "Karalaitė Ona, pasilikusi Lenkijoje, turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -854,8 +810,7 @@ media_all_json: |-
     - c-161260
 
 <a id="claim-t-177395"></a>
-- t-045
-  global_id: t-177395
+- t-056
   teiginys: "1570 m. sąraše nurodyta, kad už talerį Lenkijoje mokėta po 30 grašių, o Lietuvoje - po 25 lietuviškus grašius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -874,8 +829,7 @@ media_all_json: |-
     - c-167242
 
 <a id="claim-t-177396"></a>
-- t-046
-  global_id: t-177396
+- t-088
   teiginys: "Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XV–XVI a. perėmė krikščionišką Vakarų kultūrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -891,8 +845,7 @@ media_all_json: |-
     - c-161254
 
 <a id="claim-t-177397"></a>
-- t-047
-  global_id: t-177397
+- t-098
   teiginys: "Vengrija ir Lenkija turėjo priversti ordiną grąžinti Lietuvai atimtas žemes ir ginti ją nuo kryžiuočių bei totorių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -908,8 +861,7 @@ media_all_json: |-
     - c-161252
 
 <a id="claim-t-177399"></a>
-- t-048
-  global_id: t-177399
+- t-019
   teiginys: "Krėvos sutartis parodė Lietuvos politinį atsigręžimą į artimiausią kaimynę Lenkiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -928,8 +880,7 @@ media_all_json: |-
     - c-161221
 
 <a id="claim-t-177400"></a>
-- t-049
-  global_id: t-177400
+- t-012
   teiginys: "Lietuvoje, kaip ir Vidurio Europos šalyse (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Viduramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė, formavosi bajorų pilietinė visuomenė, o ne rytietiškas centralizmas ar despotija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -945,8 +896,7 @@ media_all_json: |-
     - c-161246
 
 <a id="claim-t-177401"></a>
-- t-050
-  global_id: t-177401
+- t-004
   teiginys: "Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -966,8 +916,7 @@ media_all_json: |-
     - c-161280
 
 <a id="claim-t-177402"></a>
-- t-051
-  global_id: t-177402
+- t-014
   teiginys: "Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XVI a. viduryje sudarė uniją su Lenkijos Karalyste."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -983,8 +932,7 @@ media_all_json: |-
     - c-161254
 
 <a id="claim-t-177403"></a>
-- t-052
-  global_id: t-177403
+- t-073
   teiginys: "Lenkijoje ūkiai iki 5 ha sudarė 72 proc. ūkių, o Lietuvoje tokio dydžio ūkių dalis siekė 62 proc."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1000,8 +948,7 @@ media_all_json: |-
     - c-161213
 
 <a id="claim-t-177404"></a>
-- t-053
-  global_id: t-177404
+- t-092
   teiginys: "Apie 1500 m. Lenkijoje buvo trys stačiatikių vyskupijos, o LDK – šešios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1020,8 +967,7 @@ media_all_json: |-
     - c-161271
 
 <a id="claim-t-177406"></a>
-- t-054
-  global_id: t-177406
+- t-083
   teiginys: "1230 m. popiežius Grigalius IX patvirtino Lenkijos kunigaikščio susitarimą su Teutonų ordino broliais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -1040,8 +986,7 @@ media_all_json: |-
     - c-161240
 
 <a id="claim-t-177407"></a>
-- t-055
-  global_id: t-177407
+- t-052
   teiginys: "Ordino viršininkas siekė pasinaudoti kaimynų nesutarimais ir išardyti Lietuvos bei Lenkijos sąjungą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1058,8 +1003,7 @@ media_all_json: |-
     - c-161214
 
 <a id="claim-t-177408"></a>
-- t-056
-  global_id: t-177408
+- t-066
   teiginys: "Lenkiškai kalbantiems lietuviams linkstant į Lenkijos valstybingumo idėją, ryškėjo etnografinis Lietuvos nepriklausomybės siekis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1075,8 +1019,7 @@ media_all_json: |-
     - c-161245
 
 <a id="claim-t-177409"></a>
-- t-057
-  global_id: t-177409
+- t-035
   teiginys: "1920 m. rudenį Vilnius atiteko Lenkijai, kai ši sumušė Raudonąją armiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1096,8 +1039,7 @@ media_all_json: |-
     - c-161215
 
 <a id="claim-t-177410"></a>
-- t-058
-  global_id: t-177410
+- t-018
   teiginys: "Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1113,8 +1055,7 @@ media_all_json: |-
     - c-161279
 
 <a id="claim-t-177411"></a>
-- t-059
-  global_id: t-177411
+- t-005
   teiginys: "Liublino unijos metu Lenkijoje veikė Didžiosios ir Mažosios Lenkijos atstovų suvažiavimai, vadinti generaliniais seimeliais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1130,8 +1071,7 @@ media_all_json: |-
     - c-46570
 
 <a id="claim-t-177413"></a>
-- t-060
-  global_id: t-177413
+- t-080
   teiginys: "Prūsai kelis kartus didelėmis pajėgomis užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius ir išvarė moteris bei vaikus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -1147,8 +1087,7 @@ media_all_json: |-
     - c-161230
 
 <a id="claim-t-177414"></a>
-- t-061
-  global_id: t-177414
+- t-094
   teiginys: "Lietuvos ir Lenkijos tautų nelaimė paskatino visuomenes ir karalių bandyti gelbėti ATR valstybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1168,8 +1107,7 @@ media_all_json: |-
     - c-161277
 
 <a id="claim-t-177415"></a>
-- t-062
-  global_id: t-177415
+- t-071
   teiginys: "Pagal naują tvarką į valstybinį žemės fondą pateko ir repatrijavusiųjų į Lenkiją žemė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1188,8 +1126,7 @@ media_all_json: |-
     - c-161265
 
 <a id="claim-t-177418"></a>
-- t-063
-  global_id: t-177418
+- t-017
   teiginys: "1385 m. Krėvos sutartis su Lenkija leido Lietuvos didžiajam kunigaikščiui Jogailai tapti Lenkijos karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1210,8 +1147,7 @@ media_all_json: |-
     - c-161241
 
 <a id="claim-t-177419"></a>
-- t-064
-  global_id: t-177419
+- t-077
   teiginys: "Po vestuvių Vilniuje karalius dėl karalystės reikalų greitai išskubėjo į Lenkiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1227,8 +1163,7 @@ media_all_json: |-
     - c-161226
 
 <a id="claim-t-177420"></a>
-- t-065
-  global_id: t-177420
+- t-006
   teiginys: "Lenkijoje Zamoiskis neleido Maksimilijonui įžengti į Krokuvą ir taip sudarė sąlygas karūnuoti Zigmantą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1246,8 +1181,7 @@ media_all_json: |-
     - c-46573
 
 <a id="claim-t-177421"></a>
-- t-066
-  global_id: t-177421
+- t-030
   teiginys: "Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1264,10 +1198,10 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai nusako Kongresinės Lenkijos sudarymą."
   pagrindžia:
     - c-161220
+    - c-167005
 
 <a id="claim-t-183044"></a>
-- t-067
-  global_id: t-183044
+- t-007
   teiginys: "Zigmantui likus be kito sąjungininko, Lenkija padėjo jam net rengiant sąmokslą prieš Švitrigailą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -1286,10 +1220,9 @@ media_all_json: |-
     - c-166436
 
 <a id="claim-t-188735"></a>
-- t-068
-  global_id: t-188735
+- t-008
   teiginys: "Narbutas Lenkijos karalienės Jadvygos santuokai su Vladislovu priskyrė stebuklingą Lietuvos atvertimo poveikį."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1307,8 +1240,7 @@ media_all_json: |-
     - c-171624
 
 <a id="claim-t-188736"></a>
-- t-069
-  global_id: t-188736
+- t-009
   teiginys: "Narbutas spėjo, kad kai kurie lietuviški herbai į Lenkijos herbynus pateko atsikėlus jais besinaudojusioms šeimoms."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1327,8 +1259,7 @@ media_all_json: |-
     - c-171625
 
 <a id="claim-t-192687"></a>
-- t-070
-  global_id: t-192687
+- t-110
   teiginys: "Narbutas nurodo, kad pavienių gintaro gabalų randama Lietuvoje, Lenkijoje, Silezijoje, Čekijoje ir kitose vietose."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -1348,8 +1279,7 @@ media_all_json: |-
     - c-175457
 
 <a id="claim-t-193201"></a>
-- t-071
-  global_id: t-193201
+- t-111
   teiginys: "Aisčiai vengte vengdavo misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikščiais aisčiai nuolat kovojo."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -1362,8 +1292,7 @@ media_all_json: |-
     - c-175945
 
 <a id="claim-t-193202"></a>
-- t-072
-  global_id: t-193202
+- t-112
   teiginys: "Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pietų Lietuvos prekių ėmė plaukti per Lenkiją, — kai su šia prasidėjo Lietuvos santykiai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -1375,8 +1304,7 @@ media_all_json: |-
     - c-175946
 
 <a id="claim-t-193203"></a>
-- t-073
-  global_id: t-193203
+- t-113
   teiginys: "Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -1388,8 +1316,7 @@ media_all_json: |-
     - c-175947
 
 <a id="claim-t-193204"></a>
-- t-074
-  global_id: t-193204
+- t-114
   teiginys: "Kitaip tuo tarpu buvo Lenkijoje."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -1401,8 +1328,7 @@ media_all_json: |-
     - c-175948
 
 <a id="claim-t-193644"></a>
-- t-075
-  global_id: t-193644
+- t-117
   teiginys: "Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija (antroje vietoje)."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -1414,8 +1340,7 @@ media_all_json: |-
     - c-176314
 
 <a id="claim-t-193772"></a>
-- t-076
-  global_id: t-193772
+- t-118
   teiginys: "Gediminas pradėjo derinti karo veiksmus prieš kryžiuočius su Lenkija."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -1427,8 +1352,7 @@ media_all_json: |-
     - c-176426
 
 <a id="claim-t-193773"></a>
-- t-077
-  global_id: t-193773
+- t-119
   teiginys: "Lenkijos teritorija 1772 m. Rusijai buvo naudingiausia išlaikyti esamą padėtį (kon- | ep sekasi ie troliuoti ATR jos formaliai nepanaikinant), tačiau spaudžiant 2 Prūsijai sutiko su pirmu ATR padalijimu."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -1440,8 +1364,7 @@ media_all_json: |-
     - c-176427
 
 <a id="claim-t-197176"></a>
-- t-078
-  global_id: t-197176
+- t-121
   teiginys: "Minėtieji broliai, valdovės Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo į kovą, tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti, minėtuosius brolius mirtinai sužeidė ir daugybę žmonių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -1453,8 +1376,7 @@ media_all_json: |-
     - c-179049
 
 <a id="claim-t-200713"></a>
-- t-079
-  global_id: t-200713
+- t-122
   teiginys: "Rimvydas Laužikas spėja, kad viduramžių Lenkijoje nežinomas „kumelių pienas“ galėjo būti užsienio keliautojams į pieną panašus alkoholinis gėrimas."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -1474,8 +1396,7 @@ media_all_json: |-
     - c-184058
 
 <a id="claim-t-201627"></a>
-- t-080
-  global_id: t-201627
+- t-123
   teiginys: "Kauno miestiečiai, ypač pirkliai, pasklisdavo po visą regioną, į kurį įėjo Lietuva, Lenkija, Prūsija, Livonija, bet dažniausiai ir gausiausiai lankėsi Prūsų miestuose: Gdanske, Karaliaučiuje, Torunėje."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -4298,12 +4219,10 @@ media_all_json: |-
   citata_rodoma: "Tačiau su Lietuvos kaimynais visus reikalus atlikdavo Lietuvos\nministeriai, o su Lenkijos kaimynais — Lenkų ministeriai. Lie-\ntuva daugiausia turėdavo\"reikalų su sau artimiausia Maskva."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-177381
-
 - id: c-46570
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -4330,8 +4249,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177353
-    - t-177411
+    - t-086
+    - t-005
 
 - id: c-46573
   redaktorius: "A. Šapoka"
@@ -4351,7 +4270,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177420
+    - t-006
 
 - id: c-161210
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4373,8 +4292,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177356
-    - t-177377
+    - t-027
+    - t-065
 
 - id: c-161213
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4390,7 +4309,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177403
+    - t-073
 
 - id: c-161214
   autorius: "Michał Baliński"
@@ -4417,8 +4336,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177358
-    - t-177407
+    - t-078
+    - t-052
 
 - id: c-161215
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4444,8 +4363,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177386
-    - t-177409
+    - t-089
+    - t-035
 
 - id: c-161216
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -4467,7 +4386,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177364
+    - t-048
 
 - id: c-161217
   autorius: "Zenonas Ivinskis"
@@ -4489,7 +4408,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177338
+    - t-097
 
 - id: c-161218
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4506,7 +4425,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177388
+    - t-032
 
 - id: c-161219
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4530,7 +4449,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177382
+    - t-074
 
 - id: c-161220
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4549,7 +4468,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177421
+    - t-030
 
 - id: c-161221
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4567,7 +4486,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177399
+    - t-019
 
 - id: c-161222
   autorius: "Petras Dusburgietis"
@@ -4589,7 +4508,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177371
+    - t-081
 
 - id: c-161223
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4610,7 +4529,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177367
+    - t-070
 
 - id: c-161225
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4630,8 +4549,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177376
-    - t-177384
+    - t-039
+    - t-069
 
 - id: c-161226
   autorius: "Michał Baliński"
@@ -4652,7 +4571,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177419
+    - t-077
 
 - id: c-161227
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4675,7 +4594,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177351
+    - t-041
 
 - id: c-161228
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4695,7 +4614,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177340
+    - t-075
 
 - id: c-161230
   autorius: "Petras Dusburgietis"
@@ -4720,7 +4639,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177413
+    - t-080
 
 - id: c-161233
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4733,10 +4652,12 @@ media_all_json: |-
     ropoje tolerancijos uostą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-025
+
 - id: c-161236
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4758,7 +4679,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177352
+    - t-068
 
 - id: c-161237
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -4780,7 +4701,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177373
+    - t-047
 
 - id: c-161240
   autorius: "Petras Dusburgietis"
@@ -4804,7 +4725,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177406
+    - t-083
 
 - id: c-161241
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4823,7 +4744,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177418
+    - t-017
 
 - id: c-161243
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4844,7 +4765,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177391
+    - t-034
 
 - id: c-161245
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4868,8 +4789,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177341
-    - t-177408
+    - t-033
+    - t-066
 
 - id: c-161246
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4897,7 +4818,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177400
+    - t-012
 
 - id: c-161248
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4916,7 +4837,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177362
+    - t-024
 
 - id: c-161249
   autorius: "Zenonas Ivinskis"
@@ -4938,7 +4859,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177360
+    - t-099
 
 - id: c-161251
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -4963,7 +4884,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177365
+    - t-028
 
 - id: c-161252
   autorius: "Zenonas Ivinskis"
@@ -4982,7 +4903,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177397
+    - t-098
 
 - id: c-161253
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5003,7 +4924,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177348
+    - t-015
 
 - id: c-161254
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5027,8 +4948,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177396
-    - t-177402
+    - t-088
+    - t-014
 
 - id: c-161257
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5048,7 +4969,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177378
+    - t-067
 
 - id: c-161259
   autorius: "Michał Baliński"
@@ -5069,7 +4990,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177375
+    - t-055
 
 - id: c-161260
   autorius: "Michał Baliński"
@@ -5096,7 +5017,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177394
+    - t-079
 
 - id: c-161261
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -5114,7 +5035,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177346
+    - t-049
 
 - id: c-161262
   autorius: "Petras Dusburgietis"
@@ -5137,7 +5058,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177361
+    - t-084
+    - t-082
+    - t-003
 
 - id: c-161263
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -5156,7 +5079,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177363
+    - t-087
 
 - id: c-161265
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5178,7 +5101,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177415
+    - t-071
 
 - id: c-161267
   autorius: "Michał Baliński"
@@ -5204,7 +5127,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177345
+    - t-053
 
 - id: c-161269
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5223,7 +5146,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177379
+    - t-021
 
 - id: c-161270
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5241,7 +5164,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177343
+    - t-090
 
 - id: c-161271
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5262,7 +5185,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177404
+    - t-092
 
 - id: c-161274
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5281,7 +5204,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177339
+    - t-031
 
 - id: c-161276
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5303,7 +5226,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177355
+    - t-036
 
 - id: c-161277
   sudarytojas: "Karolis Zikaras"
@@ -5344,7 +5267,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177414
+    - t-094
 
 - id: c-161279
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5366,8 +5289,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177393
-    - t-177410
+    - t-063
+    - t-018
 
 - id: c-161280
   redaktorius: "A. Šapoka"
@@ -5389,7 +5312,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177401
+    - t-004
 
 - id: c-161281
   autorius: "Petras Dusburgietis"
@@ -5410,12 +5333,10 @@ media_all_json: |-
   citata_rodoma: "Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­\n                              lio, ir Henriko, Vroclavo kunigaikščio, žūtį\n\n   Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,\nkur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir\ngalybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių\nvieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-177389
-
 - id: c-161282
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -5430,12 +5351,10 @@ media_all_json: |-
   citata_rodoma: "22. Apie Vengrijos ir Lenkijos nusiaubimą\n\n   Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-177344
-
 - id: c-161284
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5481,7 +5400,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177390
+    - t-057
 
 - id: c-161285
   redaktorius: "A. Šapoka"
@@ -5505,7 +5424,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177359
+    - t-085
 
 - id: c-161286
   redaktorius: "A. Šapoka"
@@ -5525,7 +5444,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177383
+    - t-002
 
 - id: c-161287
   autorius: "Michał Baliński"
@@ -5560,8 +5479,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177349
-    - t-177350
+    - t-050
+    - t-076
 
 - id: c-161288
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5578,7 +5497,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177342
+    - t-025
 
 - id: c-166436
   redaktorius: "A. Šapoka"
@@ -5606,7 +5525,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183044
+    - t-007
 
 - id: c-167005
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5626,10 +5545,12 @@ media_all_json: |-
     nastijai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-030
+
 - id: c-167006
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5642,10 +5563,12 @@ media_all_json: |-
     ganizacijos sukilimui rengti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-032
+
 - id: c-167242
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5671,7 +5594,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177395
+    - t-056
 
 - id: c-171624
   autorius: "Teodoras Narbutas"
@@ -5704,7 +5627,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188735
+    - t-008
 
 - id: c-171625
   autorius: "Teodoras Narbutas"
@@ -5725,7 +5648,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188736
+    - t-009
 
 - id: c-175457
   autorius: "Teodoras Narbutas"
@@ -5750,7 +5673,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192687
+    - t-110
 
 - id: c-175945
   redaktorius: "A. Šapoka"
@@ -5770,7 +5693,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193201
+    - t-111
 
 - id: c-175946
   redaktorius: "A. Šapoka"
@@ -5791,7 +5714,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193202
+    - t-112
 
 - id: c-175947
   redaktorius: "A. Šapoka"
@@ -5810,8 +5733,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177381
-    - t-193203
+    - t-113
 
 - id: c-175948
   redaktorius: "A. Šapoka"
@@ -5830,7 +5752,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193204
+    - t-114
 
 - id: c-176314
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5848,7 +5770,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193644
+    - t-117
 
 - id: c-176426
   sudarytojas: "Karolis Zikaras"
@@ -5868,7 +5790,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193772
+    - t-118
 
 - id: c-176427
   sudarytojas: "Karolis Zikaras"
@@ -5887,7 +5809,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193773
+    - t-119
 
 - id: c-177580
   redaktorius: "A. Šapoka"
@@ -5903,7 +5825,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177381
+    - t-001
 
 - id: c-179049
   autorius: "Petras Dusburgietis"
@@ -5925,7 +5847,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197176
+    - t-121
 
 - id: c-184058
   autorius: "Rimvydas Laužikas"
@@ -5935,11 +5857,8 @@ media_all_json: |-
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200713
+    - t-122
 
 - id: c-184974
   autorius: "Zigmantas Kiaupa"
@@ -5958,7 +5877,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201627
+    - t-123
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]], [[objektai/asmenys/Steponas Batoras]], [[objektai/asmenys/Žygimantas Senasis]]

@@ -39,8 +39,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 ## Teiginiai
 
 <a id="claim-t-87395"></a>
-- t-001
-  global_id: t-87395
+- t-003
   teiginys: "Konrado Valenrodo šlovė ir narsa 1392 m. padėjo suburti gausius kryžininkų pulkus žygiui į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 
 <a id="claim-t-87396"></a>
 - t-002
-  global_id: t-87396
   teiginys: "Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas Ordino didžiuoju magistru ir mirė 1393 m. liepos 25 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - c-83377
 
 <a id="claim-t-87397"></a>
-- t-003
-  global_id: t-87397
+- t-004
   teiginys: "Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas didžiuoju magistru, o 1393 m. liepos 25 d. mirė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - c-83375
 
 <a id="claim-t-87398"></a>
-- t-004
-  global_id: t-87398
+- t-001
   teiginys: "Konrado Valenrodo vadovaujama kryžiuočių kariauna kartu su Vytautu rugsėjo 11 d. apsupo Trakų pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -155,29 +151,15 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     turiskart po tris talentus privalo
     aukščiau aprašytai kapitulai mokė­
     ti].
-  citata_rodoma: |
-    Vilniui bemat jos prirei­
-    kė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti
-    Lietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo
-    naudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­
-    čioniška būdama, iš naujų savo tikėjimo brolių ne gynybos
-    sulaukė, o dar žiauresnių smūgių nei totorių antpuoliai. Po
-    visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­
-    do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­
-    ties narsa, o pirmiausia nesulaikomas potraukis į riterystę
-    vėl subūrė iš visų Europos šalių gausius ir pajėgius kryži-
-    ninkų pulkus, pasišovusius traukti į vargų prispaustą
-    Lietuvą. Anglija, Škotija ir Prancūzija gerokai papildė sa-
-    duodama 12 pūdų vaško: duodecem
-    talenta cerae Pud dieta, de curia castri
-    nostri Viln.
+  citata_rodoma: "Vilniui bemat jos prirei­\nkė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti \nLietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo \nnaudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­\nčioniška būdama, iš naujų savo tikėjimo brolių ne gynybos \nsulaukė, o dar žiauresnių smūgių nei totorių antpuoliai. Po \nvisą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­\ndo šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­\nties narsa, o pirmiausia nesulaikomas potraukis į riterystę \nvėl subūrė iš visų Europos šalių gausius ir pajėgius kryži- \nninkų pulkus, pasišovusius traukti į vargų prispaustą \nLietuvą. Anglija, Škotija ir Prancūzija gerokai papildė sa-\nduodama 12 pūdų vaško: duodecem \ntalenta cerae Pud dieta, de curia castri \nnostri Viln."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87395
+    - t-003
+
 - id: c-83375
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -196,24 +178,15 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     rinktas 1391 m. Verbų sekmadienį,
     tai yra kovo 12-ą, o mirė 1393 metų
     liepos 25-ą.
-  citata_rodoma: |
-    : Paširvintys - nuo
-    Širvintos upės; Pamerkys - nuo Mer­
-    kio upės; Pamusiai - nuo Musės
-    upės; Panevėžys - nuo Nevėžio; Pa­
-    dubysis - nuo Dubysos.
-    39
-    Valenrodas didžiuoju magistru iš­
-    rinktas 1391 m. Verbų sekmadienį,
-    tai yra kovo 12-ą, o mirė 1393 metų
-    liepos 25-ą.
+  citata_rodoma: ": Paširvintys - nuo \nŠirvintos upės; Pamerkys - nuo Mer­\nkio upės; Pamusiai - nuo Musės \nupės; Panevėžys - nuo Nevėžio; Pa­\ndubysis - nuo Dubysos.\n39\nValenrodas didžiuoju magistru iš­\nrinktas 1391 m. Verbų sekmadienį, \ntai yra kovo 12-ą, o mirė 1393 metų \nliepos 25-ą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87397
+    - t-004
+
 - id: c-83376
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -235,7 +208,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87398
+    - t-001
+
 - id: c-83377
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -270,30 +244,11 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     mo, ir tik 1391 m. kovo 12 d. išrink­
     tas didž. magistru; mirė 1393 m.
     liepos 25 d.
-  citata_rodoma: |
-    22
-    Miechovita, Strijkovskis
-    ir K o j e 1 a v i č i u s klysta sakyda­
-    mi, esą žygio vadovavimas buvo pa­
-    vestas Konradui Valenrodui, kurį
-    jau tuo metu vadina didžiuoju ma­
-    gistru, kai Konradas Valenrodas
-    1382 metais, sekmadienį prieš Šv.
-    Mykolą paskirtas Ordino didžiuoju
-    maršalu, 1387 metais per Apreiški­
-    mo Marijai šventę tapo didžiuoju
-    komtūru arba arkikomtūru, 1390
-    rugpjūčio 15 d., po didžiojo magistro
-    Konrado Ciolnerio fon Rotenšteino
-    mirties, - ir didžiojo magistro vieti­
-    ninku, iki pat kapitulos suvažiavi­
-    mo, ir tik 1391 m. kovo 12 d. išrink­
-    tas didž. magistru; mirė 1393 m.
-    liepos 25 d.
+  citata_rodoma: "22\nMiechovita, Strijkovskis \nir K o j e 1 a v i č i u s klysta sakyda­\nmi, esą žygio vadovavimas buvo pa­\nvestas Konradui Valenrodui, kurį \njau tuo metu vadina didžiuoju ma­\ngistru, kai Konradas Valenrodas \n1382 metais, sekmadienį prieš Šv. \nMykolą paskirtas Ordino didžiuoju \nmaršalu, 1387 metais per Apreiški­\nmo Marijai šventę tapo didžiuoju \nkomtūru arba arkikomtūru, 1390 \nrugpjūčio 15 d., po didžiojo magistro \nKonrado Ciolnerio fon Rotenšteino \nmirties, - ir didžiojo magistro vieti­\nninku, iki pat kapitulos suvažiavi­\nmo, ir tik 1391 m. kovo 12 d. išrink­\ntas didž. magistru; mirė 1393 m. \nliepos 25 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87396
+    - t-002

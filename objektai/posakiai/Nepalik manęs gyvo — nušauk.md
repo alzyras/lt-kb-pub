@@ -31,7 +31,6 @@ Pakilau perbėgti tolyn ir matau - greta manęs buvęs Mingilas krinta apsipylę
 
 <a id="claim-t-39051"></a>
 - t-001
-  global_id: t-39051
   teiginys: "Sužeistas Mingilas raitėsi iš skausmo ir pasakė: „Nepalik manęs gyvo — nušauk.“"
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,4 +54,4 @@ Pakilau perbėgti tolyn ir matau - greta manęs buvęs Mingilas krinta apsipylę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39051
+    - t-001

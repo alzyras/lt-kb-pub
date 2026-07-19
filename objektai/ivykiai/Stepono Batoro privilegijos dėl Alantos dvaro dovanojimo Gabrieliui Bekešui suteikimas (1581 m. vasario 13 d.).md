@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-86889"></a>
 - t-001
-  global_id: t-86889
   teiginys: "Steponas Batoras privilegijoje pabrėžė Gabrielio Bekešo nuopelnus tarnaujant valdovui, Karalystei ir Lietuvos Didžiajai Kunigaikštystei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-82869
 
 <a id="claim-t-86890"></a>
-- t-002
-  global_id: t-86890
+- t-003
   teiginys: "Stepono Batoro privilegija dėl Alantos dvaro dovanojimo buvo rašyta ir duota Varšuvoje 1581 m. vasario 13 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-82870
 
 <a id="claim-t-86891"></a>
-- t-003
-  global_id: t-86891
+- t-002
   teiginys: "Stepono Batoro privilegija leido Gabrieliui Bekešui ir jo palikuonims naudotis suteiktomis valdomis kaip nuosava tėvonija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -143,7 +140,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86891
+    - t-002
+
 - id: c-82869
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -177,7 +175,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86889
+    - t-001
+
 - id: c-82870
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -220,4 +219,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86890
+    - t-003

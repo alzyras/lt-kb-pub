@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-31531"></a>
 - t-001
-  global_id: t-31531
   teiginys: "Nuo Vytauto laikų Lietuvoje buvo kalamos monetos ir liejami pabūklai bei varpai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,16 +92,11 @@ Nenurodyta
     daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
     (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
     netos, liejami pabūklai, varpai.
-  citata_rodoma: |
-    Pagaliau pasibaigus karams su kryžiuo­
-    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­
-    daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
-    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
-    netos, liejami pabūklai, varpai.
+  citata_rodoma: "Pagaliau pasibaigus karams su kryžiuo­\nčiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­\ndaus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais\n(Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­\nnetos, liejami pabūklai, varpai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31531
+    - t-001

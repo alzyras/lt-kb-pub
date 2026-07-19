@@ -36,7 +36,6 @@ Abraomas Kulvietis dar išleido keletą kitų reikalingų tikybinių knygučių.
 
 <a id="claim-t-193709"></a>
 - t-001
-  global_id: t-193709
   teiginys: "Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi 60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo 1525 m.) Prūsiją, kur jį priglobė kunigaikštis."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Abraomas Kulvietis dar išleido keletą kitų reikalingų tikybinių knygučių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193709
+    - t-001

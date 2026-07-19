@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-42274"></a>
-- t-001
-  global_id: t-42274
+- t-002
   teiginys: "1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-45407
 
 <a id="claim-t-42275"></a>
-- t-002
-  global_id: t-42275
+- t-001
   teiginys: "Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,6 +129,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-45407
@@ -149,18 +148,15 @@ media_all_json: |-
     dinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patran-
     Joną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą
     veiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo
-  citata_rodoma: |
-    1608 m. rudenį numalšinus rokošą Len-
-    kijos karalystėje, Jonas Karolis Chodke-
-    vičius grįžo į Livoniją ir per trumpą laiką
-    išvadavo Kuoknesę ir Viljandį. 1609 m.
+  citata_rodoma: "1608 m. rudenį numalšinus rokošą Len-\nkijos karalystėje, Jonas Karolis Chodke-\nvičius grįžo į Livoniją ir per trumpą laiką\nišvadavo Kuoknesę ir Viljandį. 1609 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42274
+    - t-002
+
 - id: c-45408
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -175,19 +171,14 @@ media_all_json: |-
     kijos karalystėje, Jonas Karolis Chodke-
     vičius grįžo į Livoniją ir per trumpą laiką
     išvadavo Kuoknesę ir Viljandį.
-  citata_rodoma: |
-    Per trumpa
-    “| laiką Švedijos kariuomenė užėmė Paidę
-    (Weisenstein), Kuoknesę (Kokenhausen) ir
-    Viljandį (Fellin).
-
-    1608 m.
+  citata_rodoma: "Per trumpa\n“| laiką Švedijos kariuomenė užėmė Paidę\n(Weisenstein), Kuoknesę (Kokenhausen) ir\nViljandį (Fellin).\n\n1608 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42275
+    - t-001
+
 ## Ryšiai
 - Užėmė Viljandį: [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Švedijos kariuomenė]]

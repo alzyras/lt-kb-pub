@@ -35,7 +35,6 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
 
 <a id="claim-t-42133"></a>
 - t-001
-  global_id: t-42133
   teiginys: "Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė Ordoje kilęs badas ir maras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,10 +50,9 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
     - c-45326
 
 <a id="claim-t-185141"></a>
-- t-002
-  global_id: t-185141
+- t-004
   teiginys: "Šich Achmetas su šimtu tūkstančių raitelių užpuolė Seversko žemę ir siaubė nuo Lietuvos prie Maskvos perėjusių didikų valdas."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -72,10 +70,9 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
     - c-168502
 
 <a id="claim-t-188834"></a>
-- t-003
-  global_id: t-188834
+- t-006
   teiginys: "Swięckio veikale nurodoma, kad Triznų giminė yra kilusi iš Seversko žemės."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -105,17 +102,15 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
     džios atskilo Volgos miestų regionas. džios likvidavimo didelėje Černigovo-
     Ordoje kilo badas ir maras, kuris plito į Seversko žemėje (į šiaurryčius nuo Kijevo),
     rusų miestus.
-  citata_rodoma: |
-    džios likvidavimo didelėje Černigovo-
-    Ordoje kilo badas ir maras, kuris plito į Seversko žemėje (į šiaurryčius nuo Kijevo),
-    rusų miestus.
+  citata_rodoma: "džios likvidavimo didelėje Černigovo-\nOrdoje kilo badas ir maras, kuris plito į Seversko žemėje (į šiaurryčius nuo Kijevo),\nrusų miestus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42133
+    - t-001
+
 - id: c-168502
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -141,31 +136,15 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
     G udriai
     a p ein a m a
     viai.
-  citata_rodoma: |
-    Sako, jog skitai,
-    laikydamiesi barbariškųjų papročių, šitaip sudarydavę
-    sutartis: ištraukę iš makštų kardus, pylė ant jų šaltą
-    vandenį ir jį, varvantį nuo aštrių ašmenų, vienas po
-    kito siurbė, pridurdami užkeikimo žodžius, kad, girdi,
-    tas, kas pirmas sulaužysiąs šią sutartį, žūsiąs nelygi­
-    nant šis vanduo. Laikydamasis šio susitarimo, Šich
-    Achmetas su šimtu tūkstančių raitelių užpuolė Severs-
-    ko žemę, baisiai siaubdamas valdas didikų, kurie atsi­
-    metė nuo Lietuvos ir prisijungė prie Maskvos. Staigiu
-    antpuoliu užėmęs Seversko Naugardą, Aleksandro var­
-    du jį bei kitas vietoves, pasidavusias geruoju, atidavė
-    valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru­
-    vinose kautynėse sumušė Mechmet
-    Girėjų, Krymo
-    kunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais
-    būriais.
+  citata_rodoma: "Sako, jog skitai,\nlaikydamiesi barbariškųjų papročių, šitaip sudarydavę\nsutartis: ištraukę iš makštų kardus, pylė ant jų šaltą\nvandenį ir jį, varvantį nuo aštrių ašmenų, vienas po\nkito siurbė, pridurdami užkeikimo žodžius, kad, girdi,\ntas, kas pirmas sulaužysiąs šią sutartį, žūsiąs nelygi­\nnant šis vanduo. Laikydamasis šio susitarimo, Šich\nAchmetas su šimtu tūkstančių raitelių užpuolė Severs-\nko žemę, baisiai siaubdamas valdas didikų, kurie atsi­\nmetė nuo Lietuvos ir prisijungė prie Maskvos. Staigiu\nantpuoliu užėmęs Seversko Naugardą, Aleksandro var­\ndu jį bei kitas vietoves, pasidavusias geruoju, atidavė\nvaldyti Chaleckiui; perėjęs visą Seversko kraštą, kru­\nvinose kautynėse sumušė Mechmet\nGirėjų, Krymo\nkunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais\nbūriais."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185141
+    - t-004
+
 - id: c-171723
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -177,16 +156,14 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
     dėtas su tam tikromis maldomis, davė pagrindą susidaryti to­
     kiai tyrėjo nuomonei. Vis dėlto iki šiol ypač garbinami pilka­
     piai, supilti ant žymių žmonių pelenų.
-  citata_rodoma: |
-    Net buvo ap­
-    23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-
-    rožytnej Polski. -  T. II).
+  citata_rodoma: "Net buvo ap­\n23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-\nrožytnej Polski. -  T. II)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188834
+    - t-006
+
 ## Ryšiai
 - Puolė Seversko žemę: [[objektai/asmenys/Šich Achmetas]]

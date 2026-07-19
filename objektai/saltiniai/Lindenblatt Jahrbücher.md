@@ -35,8 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88115"></a>
-- t-001
-  global_id: t-88115
+- t-002
   teiginys: "Lindenblatto kronikos vietovardis Boparthen pastabose aiškinamas kaip dabartinis Bobiai į šiaurės vakarus nuo Kauno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,7 @@ media_all_json: |-
     - c-84095
 
 <a id="claim-t-88116"></a>
-- t-002
-  global_id: t-88116
+- t-003
   teiginys: "Lindenblattas išsaugojo smulkias Vilniaus pilių apgulties aplinkybes, kurių lietuvių metraštininkai nežinojo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +67,7 @@ media_all_json: |-
     - c-84094
 
 <a id="claim-t-88117"></a>
-- t-003
-  global_id: t-88117
+- t-001
   teiginys: "Lindenblatt Jahrbücher kryžiuočių persikėlimą per Viliją datavo rugpjūčio 28 d., o priartėjimą prie Vilniaus - rugsėjo 4 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +85,6 @@ media_all_json: |-
 
 <a id="claim-t-88118"></a>
 - t-004
-  global_id: t-88118
   teiginys: "Lindenblatt Jahrbücher minėjo 1401 m. Vilniuje Šv. Priskos, mergelės ir kankinės, dieną duotą Lietuvos prelatus liečiančią privilegiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -125,22 +121,15 @@ media_all_json: |-
     53 jos išsaugotos Lindenblatt o,
     Visos tos smulkios aplinkybės mū- p. 98-99, lietuvių istorijai nusipel-
     sų metraštininkams nėra žinomos; niusio autoriaus.
-  citata_rodoma: |
-    Pagaliau tokia be nau­
-    dos apgultis įkyrėjo vokiečiams ir Švitrigailai, kuris, ma­
-    tydamas, jog niekaip negebės įveikti apdairios Vytauto
-    drąsos, sumanė griebtis klastos. Tas kunigaikštis, nepapras­
-    tai prisirišęs prie rusų tikėjimo ir tautos, turėjo daug draugų
-    53 jos išsaugotos Lindenblatt o,
-    Visos tos smulkios aplinkybės mū- p. 98-99, lietuvių istorijai nusipel-
-    sų metraštininkams nėra žinomos; niusio autoriaus.
+  citata_rodoma: "Pagaliau tokia be nau­\ndos apgultis įkyrėjo vokiečiams ir Švitrigailai, kuris, ma­\ntydamas, jog niekaip negebės įveikti apdairios Vytauto \ndrąsos, sumanė griebtis klastos. Tas kunigaikštis, nepapras­\ntai prisirišęs prie rusų tikėjimo ir tautos, turėjo daug draugų\n53 jos išsaugotos Lindenblatt o,\nVisos tos smulkios aplinkybės mū- p. 98-99, lietuvių istorijai nusipel- \nsų metraštininkams nėra žinomos; niusio autoriaus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88116
+    - t-003
+
 - id: c-84095
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -170,33 +159,15 @@ media_all_json: |-
     jetszige Bobie, nordwestlich von Kow­
     no) p. 82, dėl to pavadinimo galima
     būtų nedvejoti.
-  citata_rodoma: |
-    Kryžiuočiai, Kauno keliu
-    priėję slėnį, kuriame andai būta miesto, įsirengė stovyklą jo
-    degėsių vietoje, palei aukštą statinių tvorą, juosusią miestą -
-    netoli nuo Švč. Mergelės Marijos bažnyčios Smėlynėje ir pran­
-    ciškonų vienuolyno, tačiau, viena, išvydę atkakliai gintis pa­
-    siruošusias tvirtoves, antra, numanydami, jog bus neįma-
-    43
-    Lindenblatto kronikoje yra -
-    Boparthen, pagal panašų skambėji­
-    mą, regis, tarsi būtų Paparčiai (Po-
-    porcie) - kaimas Trakų paviete, ta­
-    čiau, atsižvelgus į kryžiuočių
-    kariaunos žygiuotės kryptį ir į tai,
-    ką apie tai Lindeblattas kronikos pa­
-    stabose kalba (Boparthen ist nach der
-    geographischen Lage (in Urkunden) das
-    jetszige Bobie, nordwestlich von Kow­
-    no) p. 82, dėl to pavadinimo galima
-    būtų nedvejoti.
+  citata_rodoma: "Kryžiuočiai, Kauno keliu \npriėję slėnį, kuriame andai būta miesto, įsirengė stovyklą jo \ndegėsių vietoje, palei aukštą statinių tvorą, juosusią miestą - \nnetoli nuo Švč. Mergelės Marijos bažnyčios Smėlynėje ir pran­\nciškonų vienuolyno, tačiau, viena, išvydę atkakliai gintis pa­\nsiruošusias tvirtoves, antra, numanydami, jog bus neįma-\n43\nLindenblatto kronikoje yra -\nBoparthen, pagal panašų skambėji­\nmą, regis, tarsi būtų Paparčiai (Po- \nporcie) - kaimas Trakų paviete, ta­\nčiau, atsižvelgus į kryžiuočių \nkariaunos žygiuotės kryptį ir į tai, \nką apie tai Lindeblattas kronikos pa­\nstabose kalba (Boparthen ist nach der \ngeographischen Lage (in Urkunden) das \njetszige Bobie, nordwestlich von Kow­\nno) p. 82, dėl to pavadinimo galima \nbūtų nedvejoti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88115
+    - t-002
+
 - id: c-84096
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -214,7 +185,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88117
+    - t-001
+
 - id: c-84097
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -226,15 +198,11 @@ media_all_json: |-
     et martyris anno D-ni 1401 [Lietuvos Lindenblatt Jahrbücher, p. 147.
     aukštesniesiems ir t. t. privilegija, Geschichte Marienburgs, etc. von J o-
     duota Vilniuje Šv. Priskos, mergelės hannes Voigt, p. 220.
-  citata_rodoma: |
-    Vilno ipso die Sanctae Priscae Virginis 67
-    et martyris anno D-ni 1401 [Lietuvos Lindenblatt Jahrbücher, p. 147.
-    aukštesniesiems ir t. t. privilegija, Geschichte Marienburgs, etc. von J o-
-    duota Vilniuje Šv. Priskos, mergelės hannes Voigt, p. 220.
+  citata_rodoma: "Vilno ipso die Sanctae Priscae Virginis 67\net martyris anno D-ni 1401 [Lietuvos Lindenblatt Jahrbücher, p. 147. \naukštesniesiems ir t. t. privilegija, Geschichte Marienburgs, etc. von J o- \nduota Vilniuje Šv. Priskos, mergelės hannes Voigt, p. 220."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88118
+    - t-004

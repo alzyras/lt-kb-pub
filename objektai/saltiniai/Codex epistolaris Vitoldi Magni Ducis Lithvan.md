@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-35006"></a>
 - t-001
-  global_id: t-35006
   teiginys: "Codex epistolaris Vitoldi Magni Ducis Lithvan apima 1376-1430 m. medžiagą ir buvo parengtas A. Prochaskos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35006
+    - t-001

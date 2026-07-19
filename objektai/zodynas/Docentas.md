@@ -54,7 +54,6 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie jo pakvietimą į Hel
 
 <a id="claim-t-195458"></a>
 - t-001
-  global_id: t-195458
   teiginys: "1899 m. A. R. Niemi buvo pakviestas Helsinkų universiteto suomių liaudies poezijos docentu."
   atnaujinta: "2026-07-12 03:27"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -79,13 +78,11 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie jo pakvietimą į Hel
     lyginamosios liaudies poezijos extraordinarius profesorius, bet dėl ka­
     ro nominacija užsitęsė ligi 1918 m., vadinas, iki Suomijos atsivadavi-
     rno. Ordinariniu profesorium paskirtas 1930 m.
-  citata_rodoma: |
-    ir tais pačiais metais buvo pakviestas Helsinkų universi­
-    teto suomių liaudies poezijos docentu
+  citata_rodoma: "ir tais pačiais metais buvo pakviestas Helsinkų universi­\nteto suomių liaudies poezijos docentu"
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195458
+    - t-001

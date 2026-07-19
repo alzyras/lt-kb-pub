@@ -38,8 +38,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
 ## Teiginiai
 
 <a id="claim-t-77773"></a>
-- t-001
-  global_id: t-77773
+- t-002
   teiginys: "Ženevoje pasiektus rezultatus Lietuva ir Lenkija laikė pergale, tačiau Vilnius dar labiau nutolo nuo Lietuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
     - c-75100
 
 <a id="claim-t-77774"></a>
-- t-002
-  global_id: t-77774
+- t-003
   teiginys: "1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė siekė stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
     - c-24651
 
 <a id="claim-t-77775"></a>
-- t-003
-  global_id: t-77775
+- t-001
   teiginys: "Ženevoje Tautų Sąjungos Taryboje Juzefas Pilsudskis paklausė Augustino Voldemaro: „Karas ar taika?“"
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,18 +126,15 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
     12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-
     ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,
     socialinį, teisinį ir administracinį bendradarbiavimą.
-  citata_rodoma: |
-    Todėl tik 1934 m. rugsėjo
-    12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-
-    ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,
-    socialinį, teisinį ir administracinį bendradarbiavimą.
+  citata_rodoma: "Todėl tik 1934 m. rugsėjo \n12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-\nga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį, \nsocialinį, teisinį ir administracinį bendradarbiavimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77774
+    - t-003
+
 - id: c-75100
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -158,7 +152,8 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77773
+    - t-002
+
 - id: c-75101
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -172,14 +167,11 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
     Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės:
     Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir
     pasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)
-  citata_rodoma: |
-    Lietuva ir Lenkija kaktomuša susidūrė
-    Ženevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė
-    A. Voldemarui klausimą „Karas ar taika?“ A.
+  citata_rodoma: "Lietuva ir Lenkija kaktomuša susidūrė \nŽenevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė \nA. Voldemarui klausimą „Karas ar taika?“ A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77775
+    - t-001

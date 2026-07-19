@@ -30,7 +30,6 @@ Anglas Saimsas, Narbuto perteikiama žinia, neseniai atrado didelių gintaro klo
 
 <a id="claim-t-191314"></a>
 - t-001
-  global_id: t-191314
   teiginys: "Anglas Saimsas, Narbuto perteikiama žinia, neseniai atrado didelių gintaro klodų Avos karalystėje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Anglas Saimsas, Narbuto perteikiama žinia, neseniai atrado didelių gintaro klo
 
 <a id="claim-t-197812"></a>
 - t-002
-  global_id: t-197812
   teiginys: "Saimsas skatina transpiraciją, smilkdamas išskiria maloniai kvepiančių, orą gryninančių dūmų, padeda gydyti reumato ligas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -85,5 +83,5 @@ Anglas Saimsas, Narbuto perteikiama žinia, neseniai atrado didelių gintaro klo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191314
-    - t-197812
+    - t-001
+    - t-002

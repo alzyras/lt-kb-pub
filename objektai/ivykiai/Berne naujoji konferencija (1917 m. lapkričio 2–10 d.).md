@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-01591"></a>
 - t-001
-  global_id: t-01591
   teiginys: "1917 m. lapkričio 2–10 d. Berne sušauktoje naujojoje konferencijoje dalyvavo ir Lietuvos Tarybos delegatai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,16 +81,11 @@ Nenurodyta
     2 — 10 d.), kurioj dalyvavo ir Tarybos delegatai. Konfe-
     rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-
     kalą būsimajai Lietuvai turėti uostą (Klaipėdą).
-  citata_rodoma: |
-    Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne
-    vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio
-    2 — 10 d.), kurioj dalyvavo ir Tarybos delegatai. Konfe-
-    rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-
-    kalą būsimajai Lietuvai turėti uostą (Klaipėdą).
+  citata_rodoma: "Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne\nvėl buvo sušaukta naujoji konferencija (1917 m. lapkričio\n2 — 10 d.), kurioj dalyvavo ir Tarybos delegatai. Konfe-\nrencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-\nkalą būsimajai Lietuvai turėti uostą (Klaipėdą)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01591
+    - t-001

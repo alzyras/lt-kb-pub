@@ -31,8 +31,7 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 ## Teiginiai
 
 <a id="claim-t-72360"></a>
-- t-001
-  global_id: t-72360
+- t-002
   teiginys: "Latvių Tautos Taryba protestavo, kai Brastos taikoje bolševikai paliko Pabaltijį vokiečių valdžioje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
     - c-70764
 
 <a id="claim-t-72361"></a>
-- t-002
-  global_id: t-72361
+- t-003
   teiginys: "Vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, siekusi kurti nepriklausomą Latviją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,8 +64,7 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
     - c-70763
 
 <a id="claim-t-72362"></a>
-- t-003
-  global_id: t-72362
+- t-001
   teiginys: "Latvių Tautos Taryba susidarė vokiečių neužimtoje Latvijos dalyje ir su Petrapilio latvių pabėgėlių komitetu rūpinosi nepriklausomos Latvijos kūrimu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -101,7 +98,8 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72362
+    - t-001
+
 - id: c-70763
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -120,7 +118,8 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72361
+    - t-003
+
 - id: c-70764
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -139,4 +138,4 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72360
+    - t-002

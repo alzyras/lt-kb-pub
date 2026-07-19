@@ -48,9 +48,8 @@ Nenurodyta
 
 <a id="claim-t-189801"></a>
 - t-001
-  global_id: t-189801
   teiginys: "Narbutas rašo, kad Aušlaviui Auskučiui ligų ar gyvulių maro metu atnašaudavo sudėtinę auką Suobėrį, aukai pirkdami paršą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,12 +58,11 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172684
-    - c-001
+
 <a id="claim-t-189802"></a>
 - t-002
-  global_id: t-189802
   teiginys: "Narbutas nurodo, kad Stenderis latvių mitologijoje prisiminė buvęs panašių su Auskučiu sietų neramumų liudytojas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -80,7 +78,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172685
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Aušlaviui Auskučiui ligų ar gyvulių maro metu atnašaudavo sudėtinę auką Suobėrį, aukai pirkdami paršą.'
@@ -99,8 +97,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189801
 - c-002
   santrauka: 'Narbutas nurodo, kad Stenderis latvių mitologijoje prisiminė buvęs panašių su Auskučiu sietų neramumų liudytojas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -116,8 +112,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189802
+
 ## Citatos
 
 - id: c-172684
@@ -134,22 +129,15 @@ Nenurodyta
     Jog tinaj mejlis karaujoja:
     Unt szinvu arklu rejtwažoja
     Su didu iždu nuoplesiu.
-  citata_rodoma: |
-    157
-
-    ## Puslapis 157
-
-    nuo visokių ligų. Jam atnašaudavo sudėtinę auką -  Suobėrį
-    (Sobarri); paplitus žmonių ligoms arba gyvulių marui, susidė­
-    ję pirkdavo aukai paršą. Šioje tautoje prietarai, susiję su kal­
-    bamuoju dievaičiu, gyvuoja iki šiol.
+  citata_rodoma: "157\n\n## Puslapis 157\n\nnuo visokių ligų. Jam atnašaudavo sudėtinę auką -  Suobėrį\n(Sobarri); paplitus žmonių ligoms arba gyvulių marui, susidė­\nję pirkdavo aukai paršą. Šioje tautoje prietarai, susiję su kal­\nbamuoju dievaičiu, gyvuoja iki šiol."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189801
+    - t-001
+
 - id: c-172685
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -163,17 +151,11 @@ Nenurodyta
     Vietos padavimai dar skelbia, kad Kaune, pačioje Nem u­
     no ir Neries upių santakoje, augo dievams skirta giraitė, kuri
     tęsėsi iki pat pilies, dabar virtusios griuvėsiais.
-  citata_rodoma: |
-    Stenderis savo lat­
-    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
-    sukeltų, neramumų liudytojas.
-    Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
-    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
-    mas išliko kaip žalčių laikymas1.
+  citata_rodoma: "Stenderis savo lat­\nvių mitologijoje prisimena, kad pats buvęs panašių, Auskučio\nsukeltų, neramumų liudytojas.\nGarbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­\nkoja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­\nmas išliko kaip žalčių laikymas1."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189802
+    - t-002

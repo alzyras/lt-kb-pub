@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-169829"></a>
-- t-001
-  global_id: t-169829
+- t-002
   teiginys: "Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, tačiau iš jo gavo tik 11 mln. litų pajamų."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-154514
 
 <a id="claim-t-169830"></a>
-- t-002
-  global_id: t-169830
+- t-003
   teiginys: "Lietuviško mokymo ir lietuvių kalbos vartojimo skatinimas Klaipėdos krašte davė priešingą rezultatą, nes oponentai kliudė krašto integracijai."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -109,7 +107,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169830
+    - t-003
+
 - id: c-154514
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -122,17 +121,11 @@ Nenurodyta
     Lietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų
     lygiateisiškumas tebuvo fikcija – lietuvių kalba galėjai susikalbėti tik lie-
     tuviškose įstaigose ir bendrovėse.
-  citata_rodoma: |
-    Nors Lietuvos
-    vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien į uostą investuo-
-    ta 42 mln. litų, o pajamų tegauta 11 mln., ištekliai pasirodė esą riboti,
-    Lietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų
-    lygiateisiškumas tebuvo fikcija – lietuvių kalba galėjai susikalbėti tik lie-
-    tuviškose įstaigose ir bendrovėse.
+  citata_rodoma: "Nors Lietuvos \nvyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien į uostą investuo-\nta 42 mln. litų, o pajamų tegauta 11 mln., ištekliai pasirodė esą riboti, \nLietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų \nlygiateisiškumas tebuvo fikcija – lietuvių kalba galėjai susikalbėti tik lie-\ntuviškose įstaigose ir bendrovėse."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169829
+    - t-002

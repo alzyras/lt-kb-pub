@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-77933"></a>
 - t-001
-  global_id: t-77933
   teiginys: "1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-77934"></a>
 - t-002
-  global_id: t-77934
   teiginys: "Dariaus ir Girėno skrydis sudomino jaunimą aviacija, aviacijos ir sklandymo sportu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +116,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77933
+    - t-001
+
 - id: c-75251
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -137,23 +136,11 @@ Nenurodyta
     175
     taičio, 1934 m. aplankė faktiškai visas Europos sostines, nuskrido per
     10  000  km.
-  citata_rodoma: |
-    Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo spor-
-    tu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,
-    buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėk-
-    tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
-    pirmųjų raidžių). 66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
-    jos dirbtuvėse. Trijų ANBO IV lėktuvų grupė, vadovaujama A.  Gus-
-    Transatlantiniai lakūnai
-    Steponas Darius ir Stasys Girėnas
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    175
-    taičio, 1934 m.
+  citata_rodoma: "Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo spor-\ntu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, \nbuvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėk-\ntuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių \npirmųjų raidžių). 66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-\njos dirbtuvėse. Trijų ANBO IV lėktuvų grupė, vadovaujama A.  Gus-\nTransatlantiniai lakūnai  \nSteponas Darius ir Stasys Girėnas\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n175\ntaičio, 1934 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77934
+    - t-002

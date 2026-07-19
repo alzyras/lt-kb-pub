@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-32259"></a>
 - t-001
-  global_id: t-32259
   teiginys: "Švitrigaila dėl naujo sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Volinijoje, iš kur pabėgo tik 1418 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,16 +81,11 @@ media_all_json: |-
     Dar tebevykstant Maskvos žygiams, Vytautas 1407 m. susi­
     taikė su Didžiuoju Naugardu, kur, pačios respublikos prašymu,
     Vytautas grąžino sau ištikimą Lengvenį Algirdaitį^60.
-  citata_rodoma: |
-    Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys
-    jau Maskvos žygio metu įtartinai laikėsi, Švitrigaila buvo uždary­
-    tas į Kremenetso (Volinijoje) kalėjimą, iš kur jam tepasisekė
-    pabėgti — vėl pas kryžiuočius — tik 1418 m.
-    Dar tebevykstant Maskvos žygiams, Vytautas 1407 m.
+  citata_rodoma: "Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys\njau Maskvos žygio metu įtartinai laikėsi, Švitrigaila buvo uždary­\ntas į Kremenetso (Volinijoje) kalėjimą, iš kur jam tepasisekė\npabėgti — vėl pas kryžiuočius — tik 1418 m.\nDar tebevykstant Maskvos žygiams, Vytautas 1407 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32259
+    - t-001

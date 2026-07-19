@@ -31,7 +31,6 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
 
 <a id="claim-t-60205"></a>
 - t-001
-  global_id: t-60205
   teiginys: "Sembas Sklodas iš Kvedenavos sušaukė giminaičius ir bičiulius, ragindamas juos kovoti už tikėjimą ir brolius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -49,21 +48,12 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
 
 <a id="claim-t-60206"></a>
 - t-002
-  global_id: t-60206
   teiginys: "Sklodas iš Kvedenavos buvo Noliubo tėvas."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kvedenava: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sklodas iš Kvedenavos: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kvedenava: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sklodas iš Kvedenavos\" parinktas kaip owner_note_path. Targetas \"Kvedenava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60837
-    - c-001
+    - c-60838
 - susijęs iš [[objektai/posakiai/Šiandien prisiminkite puikius drabužius.md#claim-t-59172|Šiandien prisiminkite puikius drabužius]]: Sembas Sklodas iš Kvedenavos ragino giminaičius prisiminti puikius drabužius, kurių jie dažnai gaudavo iš Ordino brolių.
 ## Reikšmingi paminėjimai
 - c-001
@@ -84,8 +74,7 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60206
+
 ## Citatos
 
 - id: c-60837
@@ -102,20 +91,13 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
     taip dažnai šitai kartojo, kad priešai, nukamuoti didelių įstangų ir išlaidų, turėjo liautis
     puldinėję brolių laivus, kurių nemaža jau buvo sunaikinę, o įgulas paėmę nelaisvėn ir
     išžudę.
-  citata_rodoma: |
-    Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
-                            pirmiausia — prieš Kvedenavos valsčių
-
-      Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,
-    be to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai
-    paklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu.
+  citata_rodoma: "Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o\n                        pirmiausia — prieš Kvedenavos valsčių\n\n  Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,\nbe to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai\npaklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-60206
 - id: c-60838
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -133,21 +115,15 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
     gerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.
     Po to jie vyriškai stojo į kovą ir grūmėsi nelyginant antrieji Makabėjai, o ten prasidėjo
     didelis mūšis, pareikalavęs ir iš vienos, ir iš kitos šalies galybės aukų.
-  citata_rodoma: |
-    Kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius,  vienas iš jų,
-    sembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius,
-    pasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių,  ir,
-    užuot rengęsi vaiskiaspalviais drabužiais, parausvinkite savo drapanas žaizdų krauju, o
-    užuot gėrę saldų medaus vyną, arba midų, kurio ne kartą esate gavę iš brolių rankų,
-    gerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.
-    Po to jie vyriškai stojo  į kovą ir grūmėsi nelyginant antrieji Makabėjai, o ten prasidėjo
-    didelis mūšis, pareikalavęs ir iš vienos, ir iš kitos šalies galybės aukų.
+  citata_rodoma: "Kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius,  vienas iš jų,\nsembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius,\npasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių,  ir,\nužuot rengęsi vaiskiaspalviais drabužiais, parausvinkite savo drapanas žaizdų krauju, o\nužuot gėrę saldų medaus vyną, arba midų, kurio ne kartą esate gavę iš brolių rankų,\ngerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.\nPo to jie vyriškai stojo  į kovą ir grūmėsi nelyginant antrieji Makabėjai, o ten prasidėjo\ndidelis mūšis, pareikalavęs ir iš vienos, ir iš kitos šalies galybės aukų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60205
+    - t-001
+    - t-002
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Noliubas]]

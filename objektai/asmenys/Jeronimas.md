@@ -41,9 +41,8 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
 
 <a id="claim-t-60149"></a>
 - t-001
-  global_id: t-60149
   teiginys: "Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šventojo vainiko."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Grigalius (vicekancleris): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -58,7 +57,6 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
 
 <a id="claim-t-60150"></a>
 - t-002
-  global_id: t-60150
   teiginys: "Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
 
 <a id="claim-t-196483"></a>
 - t-003
-  global_id: t-196483
   teiginys: "Kojelavičiaus pasakojime kunigas Jeronimas, skaldydamas Perkūno atvaizdą, įsikirto koją, o žmonės tai palaikė dievybės įžeidimo pasekme."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -122,17 +119,15 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
     neturėjo kur Prūsijos žemėje, minėtojo Lenkijos kunigaikščio jau anksčiau jiems
     atiduotoje, galvos priglausti, juodu sugalvojo iš toliau siekti užsibrėžto tikslo, iš už Vyslos,
     kuri juos saugotų, būdama tarp jų ir prūsų.
-  citata_rodoma: |
-    Jeronimas priduria: „Negi gali būti kas vainikuotas
-    šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
-    neteisybės, nei kantrios teisybės.
+  citata_rodoma: "Jeronimas priduria: „Negi gali būti kas vainikuotas\nšventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios\nneteisybės, nei kantrios teisybės."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60149
+    - t-001
+
 - id: c-167478
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -158,7 +153,8 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60150
+    - t-002
+
 - id: c-178720
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -190,4 +186,4 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196483
+    - t-003

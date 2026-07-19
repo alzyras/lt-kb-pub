@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-80680"></a>
 - t-001
-  global_id: t-80680
   teiginys: "1794 m. rugpjūčio 11 d. vakare Vilniaus įgula sėkmingai atsitraukė per Žaliąjį tiltą, dengiama Kazimiero Sapiegos artilerijos baterijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -158,4 +157,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80680
+    - t-001

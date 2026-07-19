@@ -33,8 +33,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187870"></a>
-- t-001
-  global_id: t-187870
+- t-002
   teiginys: "Kraštiečių demokratų srovė siūlė, kad autonominėje Lietuvoje LDK ribose lietuvių, lenkų ir baltarusių kalbos turėtų valstybinį statusą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -48,8 +47,7 @@ media_all_json: |-
     - c-170850
 
 <a id="claim-t-187871"></a>
-- t-002
-  global_id: t-187871
+- t-001
   teiginys: "Kraštiečių demokratų srovė autonominę Lietuvą LDK ribose įsivaizdavo kaip daugiakultūrį lietuvių, lenkų, baltarusių ir iš dalies žydų darinį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -62,7 +60,6 @@ media_all_json: |-
 
 <a id="claim-t-187872"></a>
 - t-003
-  global_id: t-187872
   teiginys: "Baltarusiai įtraukiami į Istorinės Lietuvos, arba Lietuvos Didžiosios Kunigaikštystės, politinio, socialinio ir kultūrinio paveldo arealą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -161,24 +158,15 @@ media_all_json: |-
     tautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma
     valstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-
     ti su Lenkija.
-  citata_rodoma: |
-    Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
-    riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
-    besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
-    las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
-    tiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės
-    Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
-    baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
-    tautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma
-    valstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-
-    ti su Lenkija.
+  citata_rodoma: "Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-\nriųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą \nbesiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-\nlas, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-\ntiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės \nLietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, \nbaltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų \ntautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma \nvalstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-\nti su Lenkija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187870
+    - t-002
+
 - id: c-170851
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -192,18 +180,15 @@ media_all_json: |-
     Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
     lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
     tūrinio paveldo arealas.
-  citata_rodoma: |
-    Istorinė
-    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,
-    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
-    tūrinio paveldo arealas.
+  citata_rodoma: "Istorinė\nLietuva, arba Lietuvos Didžioji Kunigaikštystė, -  tai lietuvių,\nlenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­\ntūrinio paveldo arealas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187872
+    - t-003
+
 - id: c-170852
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -222,26 +207,14 @@ media_all_json: |-
     Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
     baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
     tautų kalbos turėtų valstybinį statusą.
-  citata_rodoma: |
-    Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-
-    loginės pakraipos politinių grupuočių (neretai pasivadinusių partijomis),
-    veikusių atskirai lietuvių ir lenkų bendruomenių vardu, kurios daugiau ar
-    mažiau laikėsi atitinkamai arba lietuvių, arba lenkų etnolingvistinio naci-
-    onalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės
-    neteisėtais. Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
-    riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
-    besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
-    las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
-    tiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės
-    Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
-    baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
-    tautų kalbos turėtų valstybinį statusą.
+  citata_rodoma: "Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-\nloginės pakraipos politinių grupuočių (neretai pasivadinusių partijomis), \nveikusių atskirai lietuvių ir lenkų bendruomenių vardu, kurios daugiau ar \nmažiau laikėsi atitinkamai arba lietuvių, arba lenkų etnolingvistinio naci-\nonalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės \nneteisėtais. Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-\nriųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą \nbesiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-\nlas, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-\ntiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės \nLietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, \nbaltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų \ntautų kalbos turėtų valstybinį statusą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187871
+    - t-001
+
 ## Ryšiai
 - Baltarusiai gyveno [[objektai/vietos/Polesė]]

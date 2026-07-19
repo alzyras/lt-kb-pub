@@ -4,19 +4,22 @@ pavadinimas: 'Rostokas'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
+  - '1576 m.'
+  - '1622 m.'
   - '1978 m.'
   - '2026 m.'
-date_start: '1978'
+date_start: '1576'
 date_end: '2026'
+amziai:
+  - 'XVI'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
-amziai:
-  - 'XX'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +43,6 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 
 <a id="claim-t-174021"></a>
 - t-001
-  global_id: t-174021
   teiginys: "Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų Liubekui, Rostokui, Stralsundui, Greifsvaldui ir Ščecinui."
   atnaujinta: "2026-05-31 14:14"
   sprendimo_priezastis: "auto"
@@ -56,8 +58,7 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     - c-158256
 
 <a id="claim-t-174023"></a>
-- t-002
-  global_id: t-174023
+- t-003
   teiginys: "Rygiečiai Hanzos sąjungoje Liubeke ir Rostoke skundė Vytautą sulaužius sutartį su Polocku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,6 +72,18 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-158255
+
+<a id="claim-t-201662"></a>
+- t-004
+  teiginys: "Rostoko universitete studijavo 4 kauniečiai: 1577 m. Kristoforas Egertas (Eggerdius), 1576 m. buvęs Karaliaučiaus universiteto sąrašuose, 1600 m. Jurgis Veselis, taip pat perėjęs į Rostoką iš Karaliaučiaus universiteto, į kurį buvo įsirašęs 1594 m., ir du iš."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185009
 - susijęs iš Liubekas: Rygiečiai Liubeke ir Rostoke Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.
 ## Citatos
 
@@ -85,18 +98,15 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų
     patvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad
     jis pats su jais jokios sutarties nedarė.
-  citata_rodoma: |
-    Dėl to rygiečiai kėlė balsą Hanzos
-    sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų
-    patvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad
-    jis pats su jais jokios sutarties nedarė.
+  citata_rodoma: "Dėl to rygiečiai kėlė balsą Hanzos\nsąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų\npatvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad\njis pats su jais jokios sutarties nedarė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174023
+    - t-003
+
 - id: c-158256
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -115,4 +125,23 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174021
+    - t-001
+
+- id: c-185009
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Rostoko universitete studijavo 4 kauniečiai:
+    1577 m. Kristoforas Egertas (Eggerdius), 1576 m. buvęs Karaliaučiaus universiteto
+    sąrašuose, 1600 m. Jurgis Veselis, taip pat perėjęs į Rostoką iš Karaliaučiaus universi-
+    teto, į kurį buvo įsirašęs 1594 m., ir du iš Rabų (Kauno miesto savivaldos institucijų
+    aktų knygose dažniausiai rašomų kaip Rava) šeimos: 1611 m. Jonas, perėjęs iš Kara-
+    liaučiaus universiteto, į kurį buvo įsirašęs 1610 m., ir 1622 m. Kristoforas.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

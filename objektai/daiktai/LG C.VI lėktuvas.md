@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-40734"></a>
 - t-001
-  global_id: t-40734
   teiginys: "1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai nusifotografavo prie LVG C.VI lėktuvo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,17 +83,14 @@ Nenurodyta
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    180, 1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai prie
+    p. 180, 1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai prie
 
-    lėktuvo LVG C.
-  citata_rodoma: |
-    180, 1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai prie
-
-    lėktuvo LVG C.
+    lėktuvo LVG C. VI, VDKM.
+  citata_rodoma: "180, 1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai prie\n\nlėktuvo LVG C."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40734
+    - t-001

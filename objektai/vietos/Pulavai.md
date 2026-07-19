@@ -32,7 +32,6 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 
 <a id="claim-t-02712"></a>
 - t-001
-  global_id: t-02712
   teiginys: "Pulavuose Čartoriskiai turėjo vieną iš žymių Lenkijos dvarų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,9 +48,8 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 
 <a id="claim-t-188817"></a>
 - t-002
-  global_id: t-188817
   teiginys: "Narbutas rašo matęs Trakų pilies tyrimų žinias ir piešinius, kuriuos buvusio Vilniaus universiteto narys pasiuntė į Pulavus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,7 +65,6 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171706
-    - c-002
 - susijęs iš Pulavų bibliotekos rankraščiai: Pulavų bibliotekos rankraštis aprašė Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176714|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.
 - susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86986|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Iki 1565 metų Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija buvo paliekami Vilniuje ir siunčiami į kitas pilis.
@@ -92,8 +89,7 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188817
+
 ## Citatos
 
 - id: c-02950
@@ -107,18 +103,15 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
     mius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine,
     Branickis Balstogėje. Lietuvoje puikiausias dvaras buvo Radvilų
     Nesvyžiuje; vėliau iškilo Oginskių dvaras Slanime.
-  citata_rodoma: |
-    Lenkijoje tokiuos žy-
-    mius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine,
-    Branickis Balstogėje. Lietuvoje puikiausias dvaras buvo Radvilų
-    Nesvyžiuje; vėliau iškilo Oginskių dvaras Slanime.
+  citata_rodoma: "Lenkijoje tokiuos žy-\nmius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine,\nBranickis Balstogėje. Lietuvoje puikiausias dvaras buvo Radvilų\nNesvyžiuje; vėliau iškilo Oginskių dvaras Slanime."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02712
+    - t-001
+
 - id: c-171706
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -152,18 +145,11 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
     jo pasiuntinius, nešinus jo lazda arba kokiu nors ženklu, jo
     siųstu, net kunigaikščiai ir prastuomenė priimdavo su didžiau­
     sia pagarba ir griežtai vykdydavo visus jo nurodymus).
-  citata_rodoma: |
-    MITOLOGIJOS PABAIGA. 13
-    13
-    Seniau tokio vaizdo kryžius skyde, iškaltas iš akmens, buvo
-    senojoje Trakų pilyje, viršum didžiųjų vartų. Tai žinios iš Trakų pilies
-    tyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­
-    niaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,
-    suteikęs mums tą žinią.
+  citata_rodoma: "MITOLOGIJOS PABAIGA. 13\n13\nSeniau tokio vaizdo kryžius skyde, iškaltas iš akmens, buvo\nsenojoje Trakų pilyje, viršum didžiųjų vartų. Tai žinios iš Trakų pilies\ntyrimų, pasiųstų į Pulavus, kurias surinko kažkuris iš buvusio Vil­\nniaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,\nsuteikęs mums tą žinią."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188817
+    - t-002

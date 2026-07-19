@@ -54,9 +54,8 @@ Nenurodyta
 
 <a id="claim-t-59435"></a>
 - t-001
-  global_id: t-59435
   teiginys: "1241 m. totoriai nuniokojo Vengriją ir Lenkiją."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lenkija: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -71,12 +70,11 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys turi antraštės, nuorodos ir OCR triukšmo; citata remia trumpą faktą."
   pagrindžia:
     - c-60068
-    - c-002
+
 <a id="claim-t-59436"></a>
 - t-002
-  global_id: t-59436
   teiginys: "1241 m. totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką ir nuniokojo tas šalis."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Vengrija: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -91,12 +89,11 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata palaiko invaziją, žūtis ir nuniokojimą, o pradinis teiginys turi OCR bei antraštės triukšmo."
   pagrindžia:
     - c-60067
-    - c-001
+
 <a id="claim-t-194428"></a>
 - t-004
-  global_id: t-194428
   teiginys: "Apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -104,7 +101,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60068
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1241 m. totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką ir nuniokojo tas šalis.'
@@ -122,8 +119,6 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59436
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -137,9 +132,8 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59435
-    - t-194428
+- t-194428
+
 ## Citatos
 
 - id: c-60067
@@ -158,21 +152,15 @@ Nenurodyta
     buvo susitepęs paleistuvystės nuodėme. Vienas abatas, šitai sužinojęs, panoro ištirti, ar
     taip yra iš tikrųjų, todėl nusivedė du jaunus pasileidėlius pas magistrą, tačiau šis, vos
     išvydęs tuos tarnus, liepė jiems išsinešdinti.
-  citata_rodoma: |
-    Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
-                                  lio, ir Henriko, Vroclavo kunigaikščio, žūtį
-
-       Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,
-    kur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir
-    galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
-    vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
+  citata_rodoma: "Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­\n                              lio, ir Henriko, Vroclavo kunigaikščio, žūtį\n\n   Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,\nkur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir\ngalybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių\nvieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59436
+    - t-002
+
 - id: c-60068
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -184,19 +172,12 @@ Nenurodyta
     pažadėtos Austrijos kunigaikščio dukters ir, uoliai laikydamasis švento sumanymo,
     papasakojo savo patikėtiniams, kaip viskas atsitiko, pasiūlydamas, kad ir jie iš pagarbos
     dievui bei jam įstotų į šį ordiną.
-  citata_rodoma: |
-    Apie Vengrijos ir Lenkijos nusiaubimą
-
-       Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
-
-
-
-             23.
+  citata_rodoma: "Apie Vengrijos ir Lenkijos nusiaubimą\n\n   Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).\n\n\n\n         23."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59435
-    - t-194428
+    - t-001
+    - t-004

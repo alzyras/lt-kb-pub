@@ -30,7 +30,6 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
 
 <a id="claim-t-28464"></a>
 - t-001
-  global_id: t-28464
   teiginys: "Skuodo laukuose žemaičiai sumušė juos persekiojusius Kuldingos komtūro Bernhardo von Hareno karius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
 
 <a id="claim-t-184402"></a>
 - t-002
-  global_id: t-184402
   teiginys: "Skuodo laukuose žemaičiai sumušė Bernhardo von Hareno persekiotojus, o kautynėse žuvo 33 riteriai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,8 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28464
+    - t-001
+
 - id: c-167767
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -100,4 +99,4 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184402
+    - t-002

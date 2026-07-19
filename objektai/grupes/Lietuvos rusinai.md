@@ -31,30 +31,21 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
 
 <a id="claim-t-189473"></a>
 - t-001
-  global_id: t-189473
   teiginys: "Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į permainingą romėnų Fortūną."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos rusinai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos rusinai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172360
-    - c-001
+    - c-172364
+
 <a id="claim-t-189474"></a>
 - t-002
-  global_id: t-189474
   teiginys: "Narbutas teigė, kad pasakojimas apie Verpėją buvo žinomas ir vietiniams lietuviams, ir Lietuvos rusinams."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,12 +61,11 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172361
-    - c-002
+
 <a id="claim-t-189475"></a>
 - t-003
-  global_id: t-189475
   teiginys: "Narbutas rašė, kad karvojaus pavadinimą lietuviai perėmė iš rusinų, tačiau Gondu ir karvojus lietuviams buvo skirtingi dalykai."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,31 +81,22 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172362
-    - c-003
+
 <a id="claim-t-189476"></a>
 - t-004
-  global_id: t-189476
   teiginys: "Narbutas rašė, kad Lietuvos rusinai pasakojo apie keliamečių vaikų pavidalo baidykles, vadintas Zlydni."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos rusinai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos rusinai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172363
+    - c-172362
 
 <a id="claim-t-189477"></a>
 - t-005
-  global_id: t-189477
   teiginys: "Narbutas teigė, kad Lietuvos rusinai žinojo prietarus apie naminius žalčius, garbintus kaip fetišus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -136,7 +117,6 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
 
 <a id="claim-t-197213"></a>
 - t-006
-  global_id: t-197213
   teiginys: "Pasak šių lietuvių padavimų, pasakojimo veikėjų vardai yra arba visiškai iškrai pyti, arba visiškai užmiršti, pavyzdžiui, neaišku, kieno duktė buvo deivė, kaip vadinosi vyriausiasis dievas."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -149,7 +129,6 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
 
 <a id="claim-t-197214"></a>
 - t-007
-  global_id: t-197214
   teiginys: "Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę, pagrindą ištisai sudaro indų padavimai."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -183,8 +162,6 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189473
 - c-002
   santrauka: 'Narbutas teigė, kad pasakojimas apie Verpėją buvo žinomas ir vietiniams lietuviams, ir Lietuvos rusinams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -205,8 +182,6 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189474
 - c-003
   santrauka: 'Narbutas rašė, kad karvojaus pavadinimą lietuviai perėmė iš rusinų, tačiau Gondu ir karvojus lietuviams buvo skirtingi dalykai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -226,8 +201,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189475
+
 ## Citatos
 
 - id: c-172360
@@ -244,21 +218,13 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
     padavimų, pasakojimo veikėjų vardai yra arba visiškai iškrai­
     pyti, arba visiškai užmiršti, pavyzdžiui, neaišku, kieno duktė
     buvo deivė, kaip vadinosi vyriausiasis dievas.
-  citata_rodoma: |
-    Slavai garbino tą pačią dievybę, vadindami įvairiais tar­
-    miškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,
-    Dajebog. Lietuvos rusinai savo pasakojimuose taip pat mini
-    Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
-    tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
-    bloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,
-    „Belewitt“**.
+  citata_rodoma: "Slavai garbino tą pačią dievybę, vadindami įvairiais tar­\nmiškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,\nDajebog. Lietuvos rusinai savo pasakojimuose taip pat mini\nDolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­\ntūna, būdama permaininga, vieniems būdavo gera, o kitiems -\nbloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,\n„Belewitt“**."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189473
 - id: c-172361
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -274,25 +240,15 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
     riai saugojusi lemtį, sergėjo akimirką, kada turėtų pasibaigti žmo­
     gaus gyvybės audimas; kaip mat lemties žirklėmis perkirpdavo
     audeklą ir nutraukdavo žmogaus gyvenimo tėkmę.
-  citata_rodoma: |
-    141
-
-    ## Puslapis 141
-
-    Verpėja (VVerpeja)
-    Nemarioji žmogaus gyvenimo siūlo verpėja.
-    Lietuviai pažinojo tiktai vienintelę Parką: apie ją skamba
-    liaudiškas pasakojimas, žinomas ne tik vietiniams lietuviams,
-    bet ir Lietuvos rusinams. Kai tik pasaulyje gimsta žmogus, tuo­
-    jau Verpėja (Werpeja) pradeda verpti danguje jo gyvenimo siū­
-    lą, kuris baigiasi žvaigžde.
+  citata_rodoma: "141\n\n## Puslapis 141\n\nVerpėja (VVerpeja)\nNemarioji žmogaus gyvenimo siūlo verpėja.\nLietuviai pažinojo tiktai vienintelę Parką: apie ją skamba\nliaudiškas pasakojimas, žinomas ne tik vietiniams lietuviams,\nbet ir Lietuvos rusinams. Kai tik pasaulyje gimsta žmogus, tuo­\njau Verpėja (Werpeja) pradeda verpti danguje jo gyvenimo siū­\nlą, kuris baigiasi žvaigžde."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189474
+    - t-002
+
 - id: c-172362
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -310,24 +266,16 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
     žįstamos senės, kuri, tarytum būtų atsiųsta antgamtinės jėgos,
     paprastai pasirodydavo kartą per metus, dažniausiai per Ra­
     sos švente, šv. Jono išvakarėse.
-  citata_rodoma: |
-    Ant apvalaus 10 colių skersmens duonos kepalo, apvy­
-    nioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai
-    panaši į ulonų kepurę -  sulig alkūne aukščio, apsiūta balta
-    drobe, apačioje perjuosta siaurai susukta spalvota skarele; pati
-    figūra apjuosta kaspinais ir žalumynų vainikais, panašiais į ko­
-    kardas, girliandas, sukabintas puošiančiosios nuožiūra. Tokia
-    figūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­
-    jus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­
-    tas tas antrasis pavadinimas.
-    Tačiau lietuviams tie du dalykai visiškai skirtingi.
+  citata_rodoma: "Ant apvalaus 10 colių skersmens duonos kepalo, apvy­\nnioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai\npanaši į ulonų kepurę -  sulig alkūne aukščio, apsiūta balta\ndrobe, apačioje perjuosta siaurai susukta spalvota skarele; pati\nfigūra apjuosta kaspinais ir žalumynų vainikais, panašiais į ko­\nkardas, girliandas, sukabintas puošiančiosios nuožiūra. Tokia\nfigūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­\njus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­\ntas tas antrasis pavadinimas.\nTačiau lietuviams tie du dalykai visiškai skirtingi."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189475
+    - t-003
+    - t-004
+
 - id: c-172363
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -346,8 +294,8 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189476
-    - t-197214
+    - t-007
+
 - id: c-172364
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -367,7 +315,9 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189477
+    - t-001
+    - t-005
+
 - id: c-179069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -386,6 +336,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197213
+    - t-006
+
 ## Ryšiai
 - Lietuvos rusinai gyveno [[objektai/vietos/Lietuva]]

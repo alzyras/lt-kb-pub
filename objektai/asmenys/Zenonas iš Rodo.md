@@ -32,7 +32,6 @@ Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodor
 
 <a id="claim-t-191335"></a>
 - t-001
-  global_id: t-191335
   teiginys: "Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodor
 
 <a id="claim-t-197846"></a>
 - t-002
-  global_id: t-197846
   teiginys: "Nors Teodorikas gerai perprato ketinimus visuomet klastingo Zenono, kuris jau seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti ninko; tačiau tuomet Teodorikas nesileido sukurstomas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -91,6 +89,7 @@ Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-174217
@@ -114,25 +113,12 @@ Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodor
     skatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas
     ir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­
     klausė Mezijoje.
-  citata_rodoma: |
-    Galop jis slapta susitarė su Teodo-
-    riku, pasikliaudamas pažadais, o gal vildamasis sukelti
-    barbarų valdovų tarpusavio karą; abiem šalims nusilpus,
-    atsirastų proga pašalinti juos abu, be to, jis leido ostro-
-    gotams grobti ir Romą, ir Italiją. Nors Teodorikas gerai
-    perprato ketinimus visuomet klastingo Zenono, kuris jau
-    seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po
-    Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­
-    ninko; tačiau tuomet Teodorikas nesileido sukurstomas.
-    Bet dabartinėmis aplinkybėmis surengti Italijos žygį pa­
-    skatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas
-    ir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­
-    klausė Mezijoje.
+  citata_rodoma: "Galop jis slapta susitarė su Teodo- \nriku, pasikliaudamas pažadais, o gal vildamasis sukelti \nbarbarų valdovų tarpusavio karą; abiem šalims nusilpus, \natsirastų proga pašalinti juos abu, be to, jis leido ostro- \ngotams grobti ir Romą, ir Italiją. Nors Teodorikas gerai \nperprato ketinimus visuomet klastingo Zenono, kuris jau \nseniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po \nNepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­\nninko; tačiau tuomet Teodorikas nesileido sukurstomas. \nBet dabartinėmis aplinkybėmis surengti Italijos žygį pa­\nskatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas \nir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­\nklausė Mezijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191335
-    - t-197846
+    - t-001
+    - t-002

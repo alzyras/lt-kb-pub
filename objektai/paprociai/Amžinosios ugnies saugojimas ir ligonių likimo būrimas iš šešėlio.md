@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187999"></a>
-- t-001
-  global_id: t-187999
+- t-002
   teiginys: "Narbutas pasakoja, kad žyniai prie Amžinosios ugnies pagal ligonio šešėlio padėtį aiškindavo gyvybės arba mirties ženklus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::customs"
@@ -71,10 +70,9 @@ Nenurodyta
     - c-171006
 
 <a id="claim-t-194620"></a>
-- t-002
-  global_id: t-194620
+- t-003
   teiginys: "Jie staty davo ligonį priešais didele ugnį (laužą): jeigu šešėlis nuo jo kūno krisdavo tiesiai ir visiškai į priešingą nuo laužo pusę, tai tą laikydavo ženklu, kad ligonis išgis; o jeigu šešėlis krisdavo įstrižai arba atrodydavo esąs šiek tiek nukrypęs į."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -82,8 +80,8 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-177019
-    - c-002
+    - c-171006
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Jie staty davo ligonį priešais didele ugnį (laužą): jeigu šešėlis nuo jo kūno krisdavo tiesiai ir visiškai į priešingą nuo laužo pusę, tai tą laikydavo ženklu, kad ligonis išgis; o jeigu šešėlis krisdavo įstrižai arba atrodydavo esąs šiek tiek nukrypęs į.'
@@ -110,8 +108,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194620
+
 ## Citatos
 
 - id: c-171006
@@ -129,66 +126,40 @@ Nenurodyta
     mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy­
     venti, šešėlis stovėdavęs veidu į ugnį; priešingai, jeigu pasiro­
     dydavo nugara į ugnį, neabejotinai laukė mirtis.
-  citata_rodoma: |
-    Vėliau
-    jis aptikęs, kad žmonės garbinę ugnį ir vadinę ją Amžinąja.
-    Prie šventovių gyvenančių žynių darbas buvo rūpintis ku­
-    ru, kad ugnis niekad neužgestų. Bičiuliai teiraudavosi žynių,
-    ar ligoniai išliks gyvi. Tuomet žyniai nakčia kreipdavosi į ugnį,
-    o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę
-    ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba
-    mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy­
-    venti, šešėlis stovėdavęs veidu į ugnį; priešingai, jeigu pasiro­
-    dydavo nugara į ugnį, neabejotinai laukė mirtis.
+  citata_rodoma: "Vėliau\njis aptikęs, kad žmonės garbinę ugnį ir vadinę ją Amžinąja.\nPrie šventovių gyvenančių žynių darbas buvo rūpintis ku­\nru, kad ugnis niekad neužgestų. Bičiuliai teiraudavosi žynių,\nar ligoniai išliks gyvi. Tuomet žyniai nakčia kreipdavosi į ugnį,\no rytą atsakydavo klausėjams, kad prie šventosios ugnies matę\nligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba\nmirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy­\nventi, šešėlis stovėdavęs veidu į ugnį; priešingai, jeigu pasiro­\ndydavo nugara į ugnį, neabejotinai laukė mirtis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187999
+    - t-002
+    - t-003
+
 - id: c-177019
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jono Krikštytojo
-    šventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-
-    344
-
-    ## Puslapis 344
-
-    rijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­
-    romantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­
-    je pusėje, praktikuodavo dar kitą piromantijos rūšį. Jie staty­
-    davo ligonį priešais didele ugnį (laužą): jeigu šešėlis nuo jo
-    kūno krisdavo tiesiai ir visiškai į priešingą nuo laužo pusę, tai
-    tą laikydavo ženklu, kad ligonis išgis; o jeigu šešėlis krisdavo
-    įstrižai arba atrodydavo esąs šiek tiek nukrypęs į šoną, daryta
-    išvada, kad liga neišgydoma. Matėme aukojimų aprašyme, kad
-    aukų paplotėliai buvo kepami mėtant juos per ugnį -  tai buvo
-    apvalytoji duona, vadinamieji sikies nuplaudimies.
-  citata_rodoma: |
-    Jono Krikštytojo
-    šventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-
-    344
-
-    ## Puslapis 344
-
-    rijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­
-    romantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­
-    je pusėje, praktikuodavo dar kitą piromantijos rūšį. Jie staty­
-    davo ligonį priešais didele ugnį (laužą): jeigu šešėlis nuo jo
-    kūno krisdavo tiesiai ir visiškai į priešingą nuo laužo pusę, tai
-    tą laikydavo ženklu, kad ligonis išgis; o jeigu šešėlis krisdavo
-    įstrižai arba atrodydavo esąs šiek tiek nukrypęs į šoną, daryta
-    išvada, kad liga neišgydoma. Matėme aukojimų aprašyme, kad
-    aukų paplotėliai buvo kepami mėtant juos per ugnį -  tai buvo
-    apvalytoji duona, vadinamieji sikies nuplaudimies.
+    Devvajte.
+    ne. muskis. und man'. Dėl šios maldelės Lasickis pateikia anek­
+    dotišką žinią, kaip kaimietis, dangui grasinant audra arba liū­
+    timi, nusiėmęs kepurę, bėgiodavo po lauką, užsidėjęs ant pe­
+    čių lašinių paltį, ir šitaip maldėsi Perkūnui, bet, debesims išsi­
+    sklaidžius, lašinius pats suvalgydavo. Lietuvių dievai, išskyrus
+    barstukus, kaukus, namų dvasias ir šliužus, patys nesimaitin-
+    davo aukomis, o jas suvalgydavo atnašautojai su aukotojais ir
+    svečiais; šiuo atveju žemdirbys, sunerimęs dėl krušos ir aud­
+    ros, numatomos iš atslenkančių debesų, arba pagavęs kokią
+    nors šių pavojų pranašystę, išeina į lauką, užsėtą javais, apei ­
+    na savo žemę su auka ant pečių, kokiai greitosiomis galėjo
+    ryžtis, tris kartus ir triskart pakartoja maldą į Perkūną, smar­
+    kių atmosferos sukrėtimų dievą; daro tai nusiėmęs kepurę,
+    kadangi Jupiteriui visų tautų žmonės melsdavosi nusiėmę gai­
+    vos apdangalus.
+  citata_rodoma: "Jono Krikštytojo\nšventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-\n344\n\n## Puslapis 344\n\nrijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­\nromantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­\nje pusėje, praktikuodavo dar kitą piromantijos rūšį. Jie staty­\ndavo ligonį priešais didele ugnį (laužą): jeigu šešėlis nuo jo\nkūno krisdavo tiesiai ir visiškai į priešingą nuo laužo pusę, tai\ntą laikydavo ženklu, kad ligonis išgis; o jeigu šešėlis krisdavo\nįstrižai arba atrodydavo esąs šiek tiek nukrypęs į šoną, daryta\nišvada, kad liga neišgydoma. Matėme aukojimų aprašyme, kad\naukų paplotėliai buvo kepami mėtant juos per ugnį -  tai buvo\napvalytoji duona, vadinamieji sikies nuplaudimies."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194620

@@ -44,7 +44,6 @@ Nenurodyta
 
 <a id="claim-t-185619"></a>
 - t-001
-  global_id: t-185619
   teiginys: "Maskvėnai prie Usviatų, Dauguvos ir Ūlos statė įtvirtinimus, plėšė kaimynines žemes ir nesėkmingai bandė užimti Voronečą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185619
+    - t-001

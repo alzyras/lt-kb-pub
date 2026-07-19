@@ -37,7 +37,6 @@ Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas prof. G.
 
 <a id="claim-t-32156"></a>
 - t-001
-  global_id: t-32156
   teiginys: "J. Totoraitis Šveicarijos Friburge pas prof. G. Schnürerį parašė disertaciją, išspausdintą 1905 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,14 +71,11 @@ Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas prof. G.
     J. Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas
     prof. G. Schnürerį parašė plačiai žinomą disertaciją (išspausdinta
     1905 m.).
-  citata_rodoma: |
-    J. Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas
-    prof. G. Schnürerį parašė plačiai žinomą disertaciją (išspausdinta
-    1905 m.).
+  citata_rodoma: "J. Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas\nprof. G. Schnürerį parašė plačiai žinomą disertaciją (išspausdinta\n1905 m.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32156
+    - t-001

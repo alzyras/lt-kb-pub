@@ -31,7 +31,6 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
 
 <a id="claim-t-58475"></a>
 - t-001
-  global_id: t-58475
   teiginys: "Romovė, arba Romuva, Dusburgiečio duomenimis buvo prūsų, lietuvių ir kitų baltų religinio kulto centras."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
 
 <a id="claim-t-58476"></a>
 - t-002
-  global_id: t-58476
   teiginys: "Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta apskritai nebeatsekama."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,7 +64,6 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
 
 <a id="claim-t-58477"></a>
 - t-003
-  global_id: t-58477
   teiginys: "Aprašyta Romovė resp. Romuva — autentiškas faktas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,8 +80,7 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
     - c-59109
 
 <a id="claim-t-194547"></a>
-- t-004
-  global_id: t-194547
+- t-005
   teiginys: "Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos vieta apskritai nebeatsekama."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -112,8 +108,9 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58476
-    - t-194547
+    - t-002
+    - t-005
+
 - id: c-59108
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -127,7 +124,8 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58475
+    - t-001
+
 - id: c-59109
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -135,12 +133,11 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
   citata_originali: |
     Mūsų nuomone, D. aprašyta Romovė resp. Romuva — autentiškas faktas.
     205 D. Criwe, Jer. der obriste êwarte, t. y. vyriausiasis kunigas (ar teisėjas).
-  citata_rodoma: |
-    Mūsų nuomone, D. aprašyta Romovė resp. Romuva — autentiškas faktas.
+  citata_rodoma: "Mūsų nuomone, D. aprašyta Romovė resp. Romuva — autentiškas faktas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58477
+    - t-003

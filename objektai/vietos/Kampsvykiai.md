@@ -41,8 +41,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 ## Teiginiai
 
 <a id="claim-t-58445"></a>
-- t-001
-  global_id: t-58445
+- t-003
   teiginys: "Kampsvykių pilis taip pat tapatinama su Kamantų piliakalniu kairiajame Vangrapės krante, į šiaurę nuo Darkiemio."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 
 <a id="claim-t-58446"></a>
 - t-002
-  global_id: t-58446
   teiginys: "1275 m. sunaikinta nadruvių Kampsvykių pilis lokalizuojama Kampsvykalnyje, dešiniajame Vangrapės krante."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
     - c-59078
 
 <a id="claim-t-58447"></a>
-- t-003
-  global_id: t-58447
+- t-001
   teiginys: "Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį ir ją sudegino iki pamatų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -119,7 +116,8 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58445
+    - t-003
+
 - id: c-59078
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -141,7 +139,8 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58446
+    - t-002
+
 - id: c-59079
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -155,24 +154,11 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
     grumtynių įsiveržė į pilį ir, išžudę visus aukščiau mūsų minėtus vyrus, o moteris ir vaikus
     paėmę į nelaisvę drauge su nesuskaičiuojamu grobiu, pačią pilį iki pamatų sudegino.
     179 (174).
-  citata_rodoma: |
-    Apie Kampsvykių pilies užkariavimą
-
-      Paskui  magistras su  didele kariuomene  perėjo Nadruvos žemę, plėšdamas  ir
-    degindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė,
-    tinkamai parengęs visa, kas tam reikalinga; abiem šalims patyrus didelių nuostolių
-    sužeistaisiais, nes šioje pilyje buvo 200 įgudusių karių, broliai galop po ilgų ir atkaklių
-    grumtynių įsiveržė į pilį ir, išžudę visus aukščiau mūsų minėtus vyrus, o moteris ir vaikus
-    paėmę į nelaisvę drauge su nesuskaičiuojamu grobiu, pačią pilį iki pamatų sudegino.
-
-
-
-
-                 179 (174).
+  citata_rodoma: "Apie Kampsvykių pilies užkariavimą\n\n  Paskui  magistras su  didele kariuomene  perėjo Nadruvos žemę, plėšdamas  ir\ndegindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė,\ntinkamai parengęs visa, kas tam reikalinga; abiem šalims patyrus didelių nuostolių\nsužeistaisiais, nes šioje pilyje buvo 200 įgudusių karių, broliai galop po ilgų ir atkaklių\ngrumtynių įsiveržė į pilį ir, išžudę visus aukščiau mūsų minėtus vyrus, o moteris ir vaikus\npaėmę į nelaisvę drauge su nesuskaičiuojamu grobiu, pačią pilį iki pamatų sudegino.\n\n\n\n\n             179 (174)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58447
+    - t-001

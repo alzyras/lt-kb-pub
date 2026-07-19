@@ -51,7 +51,6 @@ Vartojamas asmens socialinei padėčiai nusakyti.
 
 <a id="claim-t-192328"></a>
 - t-001
-  global_id: t-192328
   teiginys: "Narbutas nurodė: Jučo aprašyme pusbernis Bonaventūras Milevskis 1836 m. gegužę Burokų dvare netoli Kražių ardamas žemę iškasė figūrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -73,7 +72,6 @@ Vartojamas asmens socialinei padėčiai nusakyti.
 
 <a id="claim-t-192569"></a>
 - t-002
-  global_id: t-192569
   teiginys: "Jučo aprašyme pusbernis Bonaventūras Milevskis 1836 m. gegužę Burokų dvare, už 10 varstų nuo Kražių, ardamas iškasė figūrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -126,13 +124,12 @@ Vartojamas asmens socialinei padėčiai nusakyti.
     Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė
     tą
     figūrą.
-  citata_rodoma: |
-    Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė tą figūrą.
+  citata_rodoma: "Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė tą figūrą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192328
-    - t-192569
+    - t-001
+    - t-002

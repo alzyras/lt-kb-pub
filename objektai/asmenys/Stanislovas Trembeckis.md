@@ -39,7 +39,6 @@ Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo 
 
 <a id="claim-t-191316"></a>
 - t-001
-  global_id: t-191316
   teiginys: "Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo Trembeckio pasakėčia „Balandėliai“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,7 @@ Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174198
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo Trembeckio pasakėčia „Balandėliai“.'
@@ -84,8 +83,7 @@ Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191316
+
 ## Citatos
 
 - id: c-174198
@@ -107,24 +105,11 @@ Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo 
     skitų tautos (§55), kurios dalis buvo budinai, nesunkiai
     galima suvokti senovės tyrinėtojų nuomonę ir ką tik mūsų
     pasakytas mintis.
-  citata_rodoma: |
-    218
-
-    ## Puslapis 216
-
-    sudaro daugelio žodžių šaknį1, Tiriant lietuvių kalbą, pa­
-    vyko rasti tą patį žodį Russ vienoje dainelėje, kuri buvo
-    užrašyta Raseinių apskrityje 1805 metais: dainininkas
-    stengiasi piešti gyvenimo gimtojoje sodyboje laimę ir
-    naudą, peikdamas tuos, kurie ją palieka2. Tai tarsi natū­
-    ralus taip puikiai lenkiškai skambančios Trembeckio pa­
-    sakėčios „Balandėliai“ pakartojimas*. Ieškojau to, kuris
-    man paaiškintų prasmę žodžio Russ, turėjusio iš pirmo
-    žvilgsnio reikšti kaimą.
+  citata_rodoma: "218\n\n## Puslapis 216\n\nsudaro daugelio žodžių šaknį1, Tiriant lietuvių kalbą, pa­\nvyko rasti tą patį žodį Russ vienoje dainelėje, kuri buvo\nužrašyta Raseinių apskrityje 1805 metais: dainininkas\nstengiasi piešti gyvenimo gimtojoje sodyboje laimę ir\nnaudą, peikdamas tuos, kurie ją palieka2. Tai tarsi natū­\nralus taip puikiai lenkiškai skambančios Trembeckio pa­\nsakėčios „Balandėliai“ pakartojimas*. Ieškojau to, kuris\nman paaiškintų prasmę žodžio Russ, turėjusio iš pirmo\nžvilgsnio reikšti kaimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191316
+    - t-001

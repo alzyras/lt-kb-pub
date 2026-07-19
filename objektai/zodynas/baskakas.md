@@ -56,8 +56,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 ## Teiginiai
 
 <a id="claim-t-78877"></a>
-- t-001
-  global_id: t-78877
+- t-006
   teiginys: "Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -73,8 +72,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     - c-75996
 
 <a id="claim-t-78878"></a>
-- t-002
-  global_id: t-78878
+- t-003
   teiginys: "1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -92,8 +90,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     - c-44151
 
 <a id="claim-t-78879"></a>
-- t-003
-  global_id: t-78879
+- t-005
   teiginys: "1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -114,26 +111,15 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 
 <a id="claim-t-78880"></a>
 - t-004
-  global_id: t-78880
   teiginys: "Podolėje atamanai duoklę atiduodavo atvykstantiems Ordos baskakams."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "gyne -> Podolė: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karijotaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Karijotaičiai ėmė ginti Podolės žemę."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Karijotaičiai gynė Podolė (0.88); Karijotaičiai pastatė Kamenecas (0.82)"
   pagrindžia:
-    - c-44150
     - c-75996
 
 <a id="claim-t-187518"></a>
-- t-005
-  global_id: t-187518
+- t-001
   teiginys: "Lietuvos metraštis Užvolgio valdovą Balaklajų vadina chanu ir nurodo, kad jis reikalavo iš Skirmanto duoklės bei baskakų laikymo miestuose."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -170,11 +156,10 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     Bakotos, Kameneco pilis, už-
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-78880
 - id: c-44151
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -192,22 +177,16 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     Kijevo atėmimas iš tiesioginės Aukso
     ordos valdžios buvo reikšmingas Lietuvai,
     jos tarptautinei situacijai.
-  citata_rodoma: |
-    1331 m. šalia Kijevo kunigaikš-
-    čio, Lietuvos vietininko, minimas ir totorių
-    baskakas.
-
-    Kijevo atėmimas iš tiesioginės Aukso
-    ordos valdžios buvo reikšmingas Lietuvai,
-    jos tarptautinei situacijai.
+  citata_rodoma: "1331 m. šalia Kijevo kunigaikš-\nčio, Lietuvos vietininko, minimas ir totorių\nbaskakas.\n\nKijevo atėmimas iš tiesioginės Aukso\nordos valdžios buvo reikšmingas Lietuvai,\njos tarptautinei situacijai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78878
-    - t-78879
+    - t-003
+    - t-005
+
 - id: c-75996
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -224,22 +203,16 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     prieš 6871 (1363) m. sakoma, kad rudenį
     Algirdas „Mėlynuosius Vandenis ir Baltąją
     pakrantę nukariavo“.
-  citata_rodoma: |
-    Podolės žemės tėvonys bei paveldėtojai“.
-    Podolėje veikė jų paskirti atamanai, kurie
-    nuo Podolės žemės duodavo duoklę at-
-    vykstantiems Ordos baskakams.
-
-    Mėlynųjų Vandenų įvykių pagrindi-
-    niai šaltiniai: žinios xv a.
+  citata_rodoma: "Podolės žemės tėvonys bei paveldėtojai“.\nPodolėje veikė jų paskirti atamanai, kurie\nnuo Podolės žemės duodavo duoklę at-\nvykstantiems Ordos baskakams.\n\nMėlynųjų Vandenų įvykių pagrindi-\nniai šaltiniai: žinios xv a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78877
-    - t-78880
+    - t-006
+    - t-004
+
 - id: c-170469
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -264,4 +237,4 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187518
+    - t-001

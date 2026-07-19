@@ -27,22 +27,6 @@ media_all_json: |-
 
 Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė elementarųjį apsivalymą.
 
-## Teiginiai
-
-<a id="claim-t-190446"></a>
-- t-001
-  global_id: t-190446
-  teiginys: "Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė elementarųjį apsivalymą."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173329
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė elementarųjį apsivalymą.'
@@ -61,8 +45,7 @@ Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190446
+
 ## Citatos
 
 - id: c-173329
@@ -82,19 +65,26 @@ Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė
     šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode­
     rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau
     gyveno herulai.
-  citata_rodoma: |
-    Švenčiant Rasos šventę, šokinėta per degantį laužą, sukrautą
-    pusračiu, kaip tai mini Strijkovskis. Vyskupo Petro rankrašty­
-    je yra pasakyta: Habuerunt autem baptismum per ignem, scili-
-    cet purificationem (O krikštas jiems buvo ugnis, tai yra ele­
-    mentarusis apsivalymas). Šis ugnies krikštas, arba apsivalymas
-    panaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­
-    sakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­
-    gas nuo apsivalomojo šokinėjimo per ugnį.
+  citata_rodoma: "Švenčiant Rasos šventę, šokinėta per degantį laužą, sukrautą\npusračiu, kaip tai mini Strijkovskis. Vyskupo Petro rankrašty­\nje yra pasakyta: Habuerunt autem baptismum per ignem, scili-\ncet purificationem (O krikštas jiems buvo ugnis, tai yra ele­\nmentarusis apsivalymas). Šis ugnies krikštas, arba apsivalymas\npanaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­\nsakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­\ngas nuo apsivalomojo šokinėjimo per ugnį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190446
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-190446"></a>
+- t-001
+  teiginys: "Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė elementarųjį apsivalymą."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173329

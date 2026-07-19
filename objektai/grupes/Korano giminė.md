@@ -32,7 +32,6 @@ Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduo
 
 <a id="claim-t-187779"></a>
 - t-001
-  global_id: t-187779
   teiginys: "Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduojama kaip neapsakomas kraujo praliejimas."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187779
+    - t-001

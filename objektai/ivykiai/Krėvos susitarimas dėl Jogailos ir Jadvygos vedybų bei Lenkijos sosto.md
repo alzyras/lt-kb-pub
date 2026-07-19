@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-186712"></a>
 - t-001
-  global_id: t-186712
   teiginys: "Krėvos aktu Jogaila įsipareigojo sujungti LDK žemes su Lenkija, paleisti lenkų belaisvius, atgauti prarastas žemes, sumokėti Vilhelmui ir priimti katalikybę."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -79,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-186713"></a>
 - t-002
-  global_id: t-186713
   teiginys: "1386 m. sausio 11 d. Volkovyske Lenkijos atstovai davė Jogailai raštą apie jo patvirtinimą Lenkijos karaliumi ir Jadvygos atidavimą jam į žmonas."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -118,20 +116,12 @@ Nenurodyta
     * Vytauto giminaičio ir politinio bendradarbio Jono Algiman-
     taičio AlSėniškio dalyvavimas Jogailos karūnacijoje yra galimas,
     nors kitų šaltinių nepaliudytas.
-  citata_rodoma: |
-    Krėvos aklu Jogaila įsipareigojo sujungti visas LDK žemes su Len­
-    kija. paleisti lenkus belaisvius, savo lėšomis ir pastangomis atgauti
-    Lenkijos prarastas žemes, sumokėti 200 tūkst. auksinų kompensa­
-    cijų Jadvygos Sužadėtiniui Vilhelmui už jungtuvių išardymą ir pri­
-    imti su savo dar nekrikštytais broliais Ir valdiniais katalikų tikėji­
-    mą. Savo ruožtu Lenkijos atstovai 1386,1.11 Volkovyske davė Jo­
-    gailai raStą apie jo patvirtinimą Lenkijos karaliumi ir Jadvygos
-    atidavimą jam  žmona.
+  citata_rodoma: "Krėvos aklu Jogaila įsipareigojo sujungti visas LDK žemes su Len­\nkija. paleisti lenkus belaisvius, savo lėšomis ir pastangomis atgauti \nLenkijos prarastas žemes, sumokėti 200 tūkst. auksinų kompensa­\ncijų Jadvygos Sužadėtiniui Vilhelmui už jungtuvių išardymą ir pri­\nimti su savo dar nekrikštytais broliais Ir valdiniais katalikų tikėji­\nmą. Savo ruožtu Lenkijos atstovai 1386,1.11 Volkovyske davė Jo­\ngailai raStą apie jo patvirtinimą Lenkijos karaliumi ir Jadvygos \natidavimą jam  žmona."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186712
-    - t-186713
+    - t-001
+    - t-002

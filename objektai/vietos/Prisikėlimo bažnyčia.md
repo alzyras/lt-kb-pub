@@ -30,8 +30,7 @@ tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū 
 ## Teiginiai
 
 <a id="claim-t-102033"></a>
-- t-001
-  global_id: t-102033
+- t-002
   teiginys: "Prisikėlimo bažnyčia pagal Karolio Reisono projektą buvo statoma iš gelžbetonio plokščių."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū 
     - c-95403
 
 <a id="claim-t-102034"></a>
-- t-002
-  global_id: t-102034
+- t-004
   teiginys: "Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +64,6 @@ tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū 
 
 <a id="claim-t-102035"></a>
 - t-003
-  global_id: t-102035
   teiginys: "Kaune Prisikėlimo bažnyčią sumanyta pastatyti kaip tautos šventyklą, lietuvišku stiliumi atspindinčią religinę ir tautinę dvasią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +79,7 @@ tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū 
     - c-95403
 
 <a id="claim-t-102036"></a>
-- t-004
-  global_id: t-102036
+- t-001
   teiginys: "Prisikėlimo bažnyčia buvo laikoma tautos šventykla, turėjusia atspindėti lietuvių tautos religinę ir tautinę dvasią."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -115,25 +111,15 @@ tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū 
     kaip į tautos vieningumo aktą. Aukščiausias Kauno pastatas iš gelžbetonio
     plokščių pagal architekto Karolio Reisono (Kārlis Reisons) projektą išaugo
     greitai (sovietmečiu jame įrengus radijo gamyklą, kaip šventovė užbaigtas
-    tik XXI a.
-  citata_rodoma: |
-    Sumanyta pastatyti Kaune Prisikėlimo
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    173
-    bažnyčią – tautos šventyklą, lietuvišku stiliumi ir lietuviškai ornamentuo-
-    tą, atspindinčią lietuvių tautos religinę ir tautinę dvasią. Į bažnyčią žiūrėta
-    kaip į tautos vieningumo aktą. Aukščiausias Kauno pastatas iš gelžbetonio
-    plokščių pagal architekto Karolio Reisono (Kārlis Reisons) projektą išaugo
-    greitai (sovietmečiu jame įrengus radijo gamyklą, kaip šventovė užbaigtas
-    tik XXI a.
+    tik XXI a.).
+  citata_rodoma: "Sumanyta pastatyti Kaune Prisikėlimo\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n173\nbažnyčią – tautos šventyklą, lietuvišku stiliumi ir lietuviškai ornamentuo-\ntą, atspindinčią lietuvių tautos religinę ir tautinę dvasią. Į bažnyčią žiūrėta \nkaip į tautos vieningumo aktą. Aukščiausias Kauno pastatas iš gelžbetonio \nplokščių pagal architekto Karolio Reisono (Kārlis Reisons) projektą išaugo \ngreitai (sovietmečiu jame įrengus radijo gamyklą, kaip šventovė užbaigtas \ntik XXI a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102033
-    - t-102034
-    - t-102035
-    - t-102036
+    - t-002
+    - t-004
+    - t-003
+    - t-001

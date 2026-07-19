@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189691"></a>
 - t-001
-  global_id: t-189691
   teiginys: "Narbutas medalione aprašo vyrą, vainiką teikiančią moterį žynės drabužiais, ąžuolo šaką su trimis gilėmis, žaltį ir užrašus Poklus, Nijota."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189691
+    - t-001

@@ -31,7 +31,6 @@ Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis.
 
 <a id="claim-t-03084"></a>
 - t-001
-  global_id: t-03084
   teiginys: "Lietuvoje dar vyravo natūralinis ūkis, o dėl pinigų stokos vyko mainų prekyba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,13 +58,11 @@ Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis.
     nosi nelaisvaisiais.
     Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis. Pinigų
     tuomet buvo labai maža, todėl ėjo mainų prekyba.
-  citata_rodoma: |
-    Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis. Pinigų
-    tuomet buvo labai maža, todėl ėjo mainų prekyba.
+  citata_rodoma: "Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis. Pinigų\ntuomet buvo labai maža, todėl ėjo mainų prekyba."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03084
+    - t-001

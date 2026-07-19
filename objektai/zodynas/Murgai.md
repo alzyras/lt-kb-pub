@@ -31,7 +31,6 @@ Narbutas murgais vadino žuvusių karių vėles, kurias jo pasakojime deivė Mil
 
 <a id="claim-t-189315"></a>
 - t-001
-  global_id: t-189315
   teiginys: "Narbutas murgais vadino žuvusių karių vėles, kurias jo pasakojime deivė Milda mūšio lauke dalydavosi su Odinu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Narbutas murgais vadino žuvusių karių vėles, kurias jo pasakojime deivė Mil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189315
+    - t-001

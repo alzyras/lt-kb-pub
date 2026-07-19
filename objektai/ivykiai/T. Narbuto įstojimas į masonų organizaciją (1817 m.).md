@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187976"></a>
-- t-001
-  global_id: t-187976
+- t-002
   teiginys: "R. Klimavičiaus nuomone, 1817 m. T. Narbutas įstojo į masonų organizaciją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::events::validation_repair"
@@ -90,24 +89,17 @@ Data: 1817 m.
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Masonų organizacijose kampainis simboli­
-    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
-    čiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
+    zavo sąžine, akacijos šakelė - nemirtingumą, skriestuvas - aukš­
+    čiausiąjį protą. Ant taurės išgraviruota data - „1817 m.“ R. Kli­
     mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
     organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
     mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
     Wilenski“ pasisakė prieš baudžiavinį išnaudojimą.
-  citata_rodoma: |
-    Masonų organizacijose kampainis simboli­
-    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
-    čiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
-    mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
-    organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
-    mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
-    Wilenski“ pasisakė prieš baudžiavinį išnaudojimą.
+  citata_rodoma: "Masonų organizacijose kampainis simboli­\nzavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­\nčiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­\nmavičiaus nuomone, tais metais T. Narbutas įstojo į masonų\norganizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­\nmo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik\nWilenski“ pasisakė prieš baudžiavinį išnaudojimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187976
+    - t-002

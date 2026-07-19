@@ -37,7 +37,6 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
 
 <a id="claim-t-86197"></a>
 - t-001
-  global_id: t-86197
   teiginys: "Švitrigaila prašė, kad didysis magistras palydėtų Vroclavo vyskupą Konradą į Kistriną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86197
+    - t-001

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-62272"></a>
 - t-001
-  global_id: t-62272
   teiginys: "1300 m. rudenį 75 lietuviai įsibrovė į Varmės vyskupystės Glotavos valsčių ir sudegino vieną kaimą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-183922"></a>
 - t-002
-  global_id: t-183922
   teiginys: "Po Glotavos antpuolio Valteris Goldinas užkirto lietuviams kelią ir nukovė visus, išskyrus tris."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,6 @@ Nenurodyta
 
 <a id="claim-t-194387"></a>
 - t-003
-  global_id: t-194387
   teiginys: "Apie 72 lietuvius, nukautus Notangoje Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai įsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar pagrobė viską, ką ten rado gyvą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -122,26 +119,13 @@ Nenurodyta
     žygiuoti, nes kitų kelių dėl potvynio nebebuvo likę, ir, stojęs į mūsų, nukovė visus,
     išskyrus tris.
     276 (269).
-  citata_rodoma: |
-    Apie 72 lietuvius, nukautus Notangoje
-
-      Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai
-    įsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar
-    pagrobė viską, ką ten rado gyvą. Šitai sužinojęs, brolis Valteris Goldinas, Brandenburgo
-    komtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo
-    žygiuoti, nes kitų kelių dėl potvynio nebebuvo likę,  ir, stojęs  į mūsų, nukovė visus,
-    išskyrus tris.
-
-
-
-
-            276 (269).
+  citata_rodoma: "Apie 72 lietuvius, nukautus Notangoje\n\n  Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai\nįsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar\npagrobė viską, ką ten rado gyvą. Šitai sužinojęs, brolis Valteris Goldinas, Brandenburgo\nkomtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo\nžygiuoti, nes kitų kelių dėl potvynio nebebuvo likę,  ir, stojęs  į mūsų, nukovė visus,\nišskyrus tris.\n\n\n\n\n        276 (269)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62272
-    - t-183922
-    - t-194387
+    - t-001
+    - t-002
+    - t-003

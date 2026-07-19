@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-31429"></a>
 - t-001
-  global_id: t-31429
   teiginys: "Kijevo Mstislavas 1131 m. grįžo iš žygio į Lietuvą su daug belaisvių, o 1132 m. jo žygis baigėsi pralaimėjimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +77,6 @@ Nenurodyta
 
 <a id="claim-t-31430"></a>
 - t-002
-  global_id: t-31430
   teiginys: "Metraščiuose 1131–1132 m. minimi Kijevo Mstislavo žygiai į Lietuvą galėjo būti vienas ir tas pats žygis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,20 +109,15 @@ Nenurodyta
     metų skirtumu dviem atvejais kronikose minimi žygiai, pvz., prieš
     jotvingius (1112 ir 1113 m.), prieš lietuvius (1203 ir 1205 m.), yra
     buvęs tik vienas darytas žygis.
-  citata_rodoma: |
-    Nėra negalima tačiau, kad čia metraščiai, kurie skaičiavo
-    metus nuo pasaulio sutvėrimo (1132 m. žygis užrašytas prie 6640
-    metų), kalba apie vieną tą patį žygį. Gal būt, vienų ar poros
-    metų skirtumu dviem atvejais kronikose minimi žygiai, pvz., prieš
-    jotvingius (1112 ir 1113 m.), prieš lietuvius (1203 ir 1205 m.), yra
-    buvęs tik vienas darytas žygis.
+  citata_rodoma: "Nėra negalima tačiau, kad čia metraščiai, kurie skaičiavo\nmetus nuo pasaulio sutvėrimo (1132 m. žygis užrašytas prie 6640\nmetų), kalba apie vieną tą patį žygį. Gal būt, vienų ar poros\nmetų skirtumu dviem atvejais kronikose minimi žygiai, pvz., prieš\njotvingius (1112 ir 1113 m.), prieš lietuvius (1203 ir 1205 m.), yra\nbuvęs tik vienas darytas žygis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31430
+    - t-002
+
 - id: c-33405
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -137,17 +130,11 @@ Nenurodyta
     o 1132 m. padarytas jo žygis baigėsi nelaimingai: jis išsiruošęs su
     didele kariuomene, kraštą gaisrais naikinęs, bet pats buvęs lietuvių
     sumuštas.
-  citata_rodoma: |
-    Lietuvos vardas vėl minimas po 87 metų, kai esą
-    dveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į
-    Lietuvą («na Litvu»). 1131 m. jis esąs grįžęs su daug belaisvių,
-    o 1132 m. padarytas jo žygis baigėsi nelaimingai: jis išsiruošęs su
-    didele kariuomene, kraštą gaisrais naikinęs, bet pats buvęs lietuvių
-    sumuštas.
+  citata_rodoma: "Lietuvos vardas vėl minimas po 87 metų, kai esą\ndveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į\nLietuvą («na Litvu»). 1131 m. jis esąs grįžęs su daug belaisvių,\no 1132 m. padarytas jo žygis baigėsi nelaimingai: jis išsiruošęs su\ndidele kariuomene, kraštą gaisrais naikinęs, bet pats buvęs lietuvių\nsumuštas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31429
+    - t-001

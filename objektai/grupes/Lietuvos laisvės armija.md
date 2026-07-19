@@ -41,7 +41,6 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
 
 <a id="claim-t-78376"></a>
 - t-001
-  global_id: t-78376
   teiginys: "Lietuvos laisvės armija buvo slapta karinė organizacija, įkurta Kazio Veverskio iniciatyva 1941 m. Vilniuje."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
     - c-22620
 
 <a id="claim-t-78377"></a>
-- t-002
-  global_id: t-78377
+- t-004
   teiginys: "Kazimieras Kontrimas-Tėvas 1943 m. įstojo į Lietuvos laisvės armiją ir gavo jaunesniojo leitenanto laipsnį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
     - c-75661
 
 <a id="claim-t-78378"></a>
-- t-003
-  global_id: t-78378
+- t-002
   teiginys: "1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės armijos grupes."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -116,7 +113,8 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78376
+    - t-001
+
 - id: c-22621
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -135,19 +133,15 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
     klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
     suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
     grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
-  citata_rodoma: |
-    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
-    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
-    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
-    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
-    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
+  citata_rodoma: "Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė\n46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-\nklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,\nsuėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA\ngrupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78378
+    - t-002
+
 - id: c-75661
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -157,14 +151,11 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
     Kontrimas-Tėvas, Montė (1912-1952). Tarnavo Lietuvos kariuomenėje,
     buvo Šaulių sąjungos narys. 1943 m. įstojo į Lietuvos laisvės armijos
     (LLA) organizaciją, jam suteiktas jaunesniojo leitenanto laipsnis.
-  citata_rodoma: |
-    Tarnavo Lietuvos kariuomenėje,
-    buvo Šaulių sąjungos narys. 1943 m. įstojo į Lietuvos laisvės armijos
-    (LLA) organizaciją, jam suteiktas jaunesniojo leitenanto laipsnis.
+  citata_rodoma: "Tarnavo Lietuvos kariuomenėje,\nbuvo Šaulių sąjungos narys. 1943 m. įstojo į Lietuvos laisvės armijos\n(LLA) organizaciją, jam suteiktas jaunesniojo leitenanto laipsnis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78377
+    - t-004

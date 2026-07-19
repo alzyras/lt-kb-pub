@@ -37,8 +37,7 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
 ## Teiginiai
 
 <a id="claim-t-72033"></a>
-- t-001
-  global_id: t-72033
+- t-002
   teiginys: "Moksleivių aušrininkų organizacija atsirado iš jaunimo, susitelkusio apie žurnalą „Aušrinė“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
     - c-70469
 
 <a id="claim-t-72034"></a>
-- t-002
-  global_id: t-72034
+- t-001
   teiginys: "Aušrininkų organizacija atsirado iš socialistinės pakraipos jaunimo, susitelkusio apie moksleivių žurnalą „Aušrinė“."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -89,20 +87,15 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
     cialistiškosios pakraipos moksleivių aušrininkų organizacija.
     Tačiau iki pat 1917 m. revoliucijos aušrininkai buvo palyginti
     negausingi.
-  citata_rodoma: |
-    Tai bu-
-    vo katalikiška ir tautiška organizacija, kuriai priklausė beveik
-    visa mokslus einančioji jaunuomenė. Tik vėliau iš jaunimo, su-
-    sispietusio apie moksleivių žurnalą „Aušrinę", atsirado so-
-    cialistiškosios pakraipos moksleivių aušrininkų organizacija.
-    Tačiau iki pat 1917 m.
+  citata_rodoma: "Tai bu-\nvo katalikiška ir tautiška organizacija, kuriai priklausė beveik\nvisa mokslus einančioji jaunuomenė. Tik vėliau iš jaunimo, su-\nsispietusio apie moksleivių žurnalą „Aušrinę\", atsirado so-\ncialistiškosios pakraipos moksleivių aušrininkų organizacija.\nTačiau iki pat 1917 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72033
+    - t-002
+
 - id: c-70470
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -120,4 +113,4 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72034
+    - t-001

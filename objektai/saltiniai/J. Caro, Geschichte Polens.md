@@ -41,8 +41,7 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
 ## Teiginiai
 
 <a id="claim-t-121038"></a>
-- t-001
-  global_id: t-121038
+- t-003
   teiginys: "J. Caro veikalo „Geschichte Polens“ III tomas buvo išleistas 1869 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
     - c-110943
 
 <a id="claim-t-121039"></a>
-- t-002
-  global_id: t-121039
+- t-001
   teiginys: "J. Caro „Geschichte Polens“ 2-5 tomai, apimantys 1300-1506 m., buvo išleisti Gothoje 1863-1888 m."
   atnaujinta: "2026-05-31 12:53"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
     - c-03572
 
 <a id="claim-t-121040"></a>
-- t-003
-  global_id: t-121040
+- t-002
   teiginys: "J. Caro „Geschichte Polens“ III tomas buvo išleistas 1869 m."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -108,16 +105,15 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
     Smolka, Fr. Papėe.
     GePCa = Caro, J. : Geschichte Polens, t. 2-5 (1300-1506), Gotha
     1863-1888.
-  citata_rodoma: |
-    GePCa = Caro, J. : Geschichte Polens, t. 2-5 (1300-1506), Gotha
-    1863-1888.
+  citata_rodoma: "GePCa = Caro, J. : Geschichte Polens, t. 2-5 (1300-1506), Gotha\n1863-1888."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-121039
+    - t-001
+
 - id: c-110943
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -131,5 +127,5 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-121038
-    - t-121040
+    - t-003
+    - t-002

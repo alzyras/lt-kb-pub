@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-08359"></a>
 - t-001
-  global_id: t-08359
   teiginys: "Parusnyje po dideliu žaliuojančiu ąžuolu stovėjo šėtra, prie kurios žyniai kūreno amžiną ugnį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -81,14 +80,12 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     lietuvių krikštyti sako, jog Parusny radę jau šėtrą^715 po dideliu ąžuolu, visados žaliuojančiu, pas
-    kurį žyniai, arba kunigai, amžiną ugnį kūrinę ąžuolo medžiais.
-  citata_rodoma: |
-    lietuvių krikštyti sako, jog Parusny radę jau šėtrą^715 po dideliu ąžuolu, visados žaliuojančiu, pas
-    kurį žyniai, arba kunigai, amžiną ugnį kūrinę ąžuolo medžiais.
+        kurį žyniai, arba kunigai, amžiną ugnį kūrinę ąžuolo medžiais.
+  citata_rodoma: "lietuvių krikštyti sako, jog Parusny radę jau šėtrą^715 po dideliu ąžuolu, visados žaliuojančiu, pas\nkurį žyniai, arba kunigai, amžiną ugnį kūrinę ąžuolo medžiais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08359
+    - t-001

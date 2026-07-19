@@ -31,7 +31,6 @@ Tuomet lietuviai, tiltu perėję Širvintos upę, atakavo prie Paširvinčio dva
 
 <a id="claim-t-42020"></a>
 - t-001
-  global_id: t-42020
   teiginys: "Prie Paširvinčio dvaro lietuviai atakavo lenkų artilerijos būrį, kurio karininkas buvo nušautas, o artileristai išsibėgiojo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,19 +65,11 @@ Tuomet lietuviai, tiltu perėję Širvintos upę, atakavo prie Paširvinčio dva
     jos būrį. Būriui vadovavęs
     karininkas buvo nušautas,
     likę artileristai išsibėgiojo.
-  citata_rodoma: |
-    Tuomet lietuviai, tiltu
-    perėję Širvintos upę, ata-
-    kavo prie Paširvinčio dvaro
-    įsikūrusį lenkų artileri-
-
-    jos būrį. Būriui vadovavęs
-    karininkas buvo nušautas,
-    likę artileristai išsibėgiojo.
+  citata_rodoma: "Tuomet lietuviai, tiltu\nperėję Širvintos upę, ata-\nkavo prie Paširvinčio dvaro\nįsikūrusį lenkų artileri-\n\njos būrį. Būriui vadovavęs\nkarininkas buvo nušautas,\nlikę artileristai išsibėgiojo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42020
+    - t-001

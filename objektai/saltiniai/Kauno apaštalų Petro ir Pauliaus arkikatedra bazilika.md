@@ -7,10 +7,10 @@ datos:
   - '2008 m.'
 date_start: '2008'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XXI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Kauno apaštalų Petro ir Pauliaus arkikatedra bazilika.
 
 <a id="claim-t-202277"></a>
 - t-001
-  global_id: t-202277
   teiginys: "Kauno apaštalų Petro ir Pauliaus arkikatedra bazilika."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Kauno apaštalų Petro ir Pauliaus arkikatedra bazilika.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202277
+    - t-001

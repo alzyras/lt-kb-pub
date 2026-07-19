@@ -37,7 +37,6 @@ Suvažiavimo metu „už savarankišką LKP, turinčią savo programą ir statut
 
 <a id="claim-t-21256"></a>
 - t-001
-  global_id: t-21256
   teiginys: "Už savarankišką LKP, turinčią savo programą ir statutą, balsavo 855 iš 1 033 delegatų, ir LKP atsiskyrė nuo SSKP."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,12 +67,11 @@ Suvažiavimo metu „už savarankišką LKP, turinčią savo programą ir statut
     rinčią savo programą ir statutą“, iš 1 033 delegatų balsavo 855 ir LKP atsi-
     skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,
     turinti reformuotą programą ir naują statutą.
-  citata_rodoma: |
-    skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,
+  citata_rodoma: "skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21256
+    - t-001

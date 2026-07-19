@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-32012"></a>
 - t-001
-  global_id: t-32012
   teiginys: "„Russdorf Paul von“ nurodytas „Lietuvių enciklopedijos“ 26 tome, 170-171 puslapiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,13 +70,11 @@ media_all_json: |-
     — (”) _Melno taika_ , LE, t. 18, 172-175 p. — (”) _Russdorf Paul von,_ LE,
     t. 26, 170-171 p. — Krochnert, E.: _Die deutsch-russische Grenze von
     Eydtkuhnen bis Soldau.
-  citata_rodoma: |
-    — (”) _Russdorf Paul von,_ LE,
-    t. 26, 170-171 p. — Krochnert, E.
+  citata_rodoma: "— (”) _Russdorf Paul von,_ LE,\nt. 26, 170-171 p. — Krochnert, E."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32012
+    - t-001

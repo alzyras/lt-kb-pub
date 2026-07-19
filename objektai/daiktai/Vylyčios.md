@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-08348"></a>
 - t-001
-  global_id: t-08348
   teiginys: "Vienas aprašytas stabas rankoje turėjo vylyčias."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-08349"></a>
 - t-002
-  global_id: t-08349
   teiginys: "Kareiviui į kapą dėjo vylyčias kartu su kitais ginklais ir įrankiais."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -89,35 +87,30 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Tarp tų stabų vienas buvęs
-    pavėdus į amžiaus vyrą, kursai turėjęs veidą drąsų ir raudoną, barzdą garbanotą, ant galvos
-    liepsnas tvaskančias, rankoje vylyčias.
-  citata_rodoma: |
-    Tarp tų stabų vienas buvęs
-    pavėdus į amžiaus vyrą, kursai turėjęs veidą drąsų ir raudoną, barzdą garbanotą, ant galvos
-    liepsnas tvaskančias, rankoje vylyčias.
+        pavėdus į amžiaus vyrą, kursai turėjęs veidą drąsų ir raudoną, barzdą garbanotą, ant galvos
+        liepsnas tvaskančias, rankoje vylyčias.
+  citata_rodoma: "Tarp tų stabų vienas buvęs\npavėdus į amžiaus vyrą, kursai turėjęs veidą drąsų ir raudoną, barzdą garbanotą, ant galvos\nliepsnas tvaskančias, rankoje vylyčias."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08348
+    - t-001
+
 - id: c-10303
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     mirusiam jo įrankį šalip padėję: ir taip, kareiviui vylyčias, kardą, seidoką^696 ar svilksnį^697
-    darbininkui kirvį, dailidei kaltą, grąžtą, motriškosioms varpstę ir kuodelį, tardami, jog ir mirus tą
-    patį darbą reiks atlikti, kurį ant svieto dirbo.
-  citata_rodoma: |
-    mirusiam jo įrankį šalip padėję: ir taip, kareiviui vylyčias, kardą, seidoką^696 ar svilksnį^697
-    darbininkui kirvį, dailidei kaltą, grąžtą, motriškosioms varpstę ir kuodelį, tardami, jog ir mirus tą
-    patį darbą reiks atlikti, kurį ant svieto dirbo.
+        darbininkui kirvį, dailidei kaltą, grąžtą, motriškosioms varpstę ir kuodelį, tardami, jog ir mirus tą
+        patį darbą reiks atlikti, kurį ant svieto dirbo.
+  citata_rodoma: "mirusiam jo įrankį šalip padėję: ir taip, kareiviui vylyčias, kardą, seidoką^696 ar svilksnį^697\ndarbininkui kirvį, dailidei kaltą, grąžtą, motriškosioms varpstę ir kuodelį, tardami, jog ir mirus tą\npatį darbą reiks atlikti, kurį ant svieto dirbo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08349
+    - t-002

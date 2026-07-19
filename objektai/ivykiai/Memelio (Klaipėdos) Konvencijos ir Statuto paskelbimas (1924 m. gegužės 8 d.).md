@@ -61,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-23347"></a>
 - t-001
-  global_id: t-23347
   teiginys: "1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė Klaipėdos kraštą autonomine Lietuvos dalimi."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -81,7 +80,6 @@ Nenurodyta
 
 <a id="claim-t-23348"></a>
 - t-002
-  global_id: t-23348
   teiginys: "1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,13 +111,12 @@ Nenurodyta
     1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas pa-
     naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
     autonomine Lietuvos dalimi.
-  citata_rodoma: |
-    naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
+  citata_rodoma: "naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23347
-    - t-23348
+    - t-001
+    - t-002

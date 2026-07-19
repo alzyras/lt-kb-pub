@@ -36,7 +36,6 @@ Dusburgietis teigia, kad tai rodo Liber censuum Daniae žemių sąrašas, sudary
 
 <a id="claim-t-61129"></a>
 - t-001
-  global_id: t-61129
   teiginys: "Liber censuum Daniae žemių sąrašas, greičiausiai sudarytas 1231 m., rodo Sembos ir Skalvos pavaldumą Danijai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Dusburgietis teigia, kad tai rodo Liber censuum Daniae žemių sąrašas, sudary
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61129
+    - t-001

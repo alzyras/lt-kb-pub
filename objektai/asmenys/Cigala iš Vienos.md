@@ -38,9 +38,8 @@ Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius,
 
 <a id="claim-t-186191"></a>
 - t-001
-  global_id: t-186191
   teiginys: "Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius, atėmė imperatoriaus laišką ir paleido Cigalą."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -62,7 +61,6 @@ Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius,
 
 <a id="claim-t-196433"></a>
 - t-002
-  global_id: t-196433
   teiginys: "Cigala iš Vienos nepatvirtintas jokia priesaika."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -96,35 +94,12 @@ Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius,
     to vainikavimo sukelti didžiuliai sąmyšiai iš pamatų su-
     krės krikščioniškąją valstybę, paragino Zigmantą bei
     Vytautą atsisakyti savo sumanymo.
-  citata_rodoma: |
-    Viskam
-    vadovauti paskyrė Joną Čar-
-    nkovskį. Šis ryžtingai įvykdė, kas jam buvo patikėta,
-    suėmė Cigalą iš Vienos bei vokietį Zigmantą Rotą;
-    iškratė jų nešulius ir atėmė imperatoriaus laišką, pa­
-    leido juos laisvėn. Laiške štai kas buvo rašoma: ,,Be rei­
-    kalo Vytautas abejoja, ar imperatorius turi galią be po-
-    1430 m e ta i
-    L en kai u žsto ja  keliu s,
-    su im a pa siu n tin iu s ii
-    a tim a  la išk u s
-    P o p iežia u s
-    p a d e d a ­
-    m as, J o g a ila  su tru k ­
-    d o
-    V y ta u tu i
-    v a in i­
-    k u o tis
-    424
-
-    ## Puslapis 423
-
-    piežiaus sutikimo ir žinios pakelti ką į karalius.
+  citata_rodoma: "Viskam\nvadovauti paskyrė Joną Čar-\nnkovskį. Šis ryžtingai įvykdė, kas jam buvo patikėta,\nsuėmė Cigalą iš Vienos bei vokietį Zigmantą Rotą;\niškratė jų nešulius ir atėmė imperatoriaus laišką, pa­\nleido juos laisvėn. Laiške štai kas buvo rašoma: ,,Be rei­\nkalo Vytautas abejoja, ar imperatorius turi galią be po-\n1430 m e ta i\nL en kai u žsto ja  keliu s,\nsu im a pa siu n tin iu s ii\na tim a  la išk u s\nP o p iežia u s\np a d e d a ­\nm as, J o g a ila  su tru k ­\nd o\nV y ta u tu i\nv a in i­\nk u o tis\n424\n\n## Puslapis 423\n\npiežiaus sutikimo ir žinios pakelti ką į karalius."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186191
-    - t-196433
+    - t-001
+    - t-002

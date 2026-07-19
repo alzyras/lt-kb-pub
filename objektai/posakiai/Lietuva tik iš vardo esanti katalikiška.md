@@ -39,7 +39,6 @@ Formulė pateikiama kaip Ordino propagandinis teiginys, menkinantis Lietuvos kri
 
 <a id="claim-t-11645"></a>
 - t-001
-  global_id: t-11645
   teiginys: "Formulė pateikiama kaip Ordino skleidžiamas teiginys, menkinantis Lietuvos katalikiškumą."
   atnaujinta: "2026-05-20 21:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -68,17 +67,11 @@ Formulė pateikiama kaip Ordino propagandinis teiginys, menkinantis Lietuvos kri
     riais, kurie veržiasi Europon. Lietuva tik iš vardo esanti ka­
     talikiška: bažnyčios joje nestatomos, kat. tikėjimas nesklei­
     džiamas.
-  citata_rodoma: |
-    Vok. Ordinas nenorėjo nusileisti. Apie Vytautą jis skelbė
-    Vak. Europoje, kad tai yra labai pavojingas katalikams valdo­
-    vas, nes visas pilis paveda stačiatikiams ir susideda su toto­
-    riais, kurie veržiasi Europon. Lietuva tik iš vardo esanti ka­
-    talikiška: bažnyčios joje nestatomos, kat. tikėjimas nesklei­
-    džiamas.
+  citata_rodoma: "Vok. Ordinas nenorėjo nusileisti. Apie Vytautą jis skelbė\nVak. Europoje, kad tai yra labai pavojingas katalikams valdo-\nvas, nes visas pilis paveda stačiatikiams ir susideda su toto-\nriais, kurie veržiasi Europon. Lietuva tik iš vardo esanti ka-\ntalikiška: bažnyčios joje nestatomos, kat. tikėjimas nesklei-\ndžiamas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11645
+    - t-001

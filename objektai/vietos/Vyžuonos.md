@@ -31,7 +31,6 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
 
 <a id="claim-t-42341"></a>
 - t-001
-  global_id: t-42341
   teiginys: "Vyžuonas užėmė lietuviai ir vokiečiai, verždamiesi toliau po susidūrimo su priešo pėstininkais prie Debeikių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
 
 <a id="claim-t-42342"></a>
 - t-002
-  global_id: t-42342
   teiginys: "Kolonos padaliniai įsitvirtino Vyžuonose ir Vyžuonų dvare po to, kai buvo atsisakyta tolesnio puolimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,18 +70,15 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
 
     Birželio 1 d. Zechau, Musteikio ko-
     lonos kariai vykdė žvalgybą.
-  citata_rodoma: |
-    Kolonos padaliniai
-    prie kario diržo įsitvirtino Vyžuonose ir Vyžuonų dvare.
-
-    Birželio 1 d.
+  citata_rodoma: "Kolonos padaliniai\nprie kario diržo įsitvirtino Vyžuonose ir Vyžuonų dvare.\n\nBirželio 1 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42342
+    - t-002
+
 - id: c-45446
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -96,17 +91,14 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
     užėmė Vyžuonas. Judėdama link Utenos,
     kolona sutiko atkaklų bolševikų pasiprieši-
     nimą prie Kaliekių kaimo.
-  citata_rodoma: |
-    Verždamiesi toliau lietuviai ir vokiečiai
-    užėmė Vyžuonas. Judėdama link Utenos,
-    kolona sutiko atkaklų bolševikų pasiprieši-
-    nimą prie Kaliekių kaimo.
+  citata_rodoma: "Verždamiesi toliau lietuviai ir vokiečiai\nužėmė Vyžuonas. Judėdama link Utenos,\nkolona sutiko atkaklų bolševikų pasiprieši-\nnimą prie Kaliekių kaimo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42341
+    - t-001
+
 ## Ryšiai
 - Užėmė Vyžuonos: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Vokiečiai]]

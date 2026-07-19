@@ -30,7 +30,6 @@ Narbutas gynė Melą nuo Slėcerio kaltinimų ir svarstė, kad Mela žinias apie
 
 <a id="claim-t-191297"></a>
 - t-001
-  global_id: t-191297
   teiginys: "Narbutas gynė Melą nuo Slėcerio kaltinimų ir svarstė, kad Mela žinias apie Baltijos pakrantes galėjo perimti iš gerų senovės šaltinių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas gynė Melą nuo Slėcerio kaltinimų ir svarstė, kad Mela žinias apie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191297
+    - t-001

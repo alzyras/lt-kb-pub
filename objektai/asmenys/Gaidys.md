@@ -31,7 +31,6 @@ Gaidys ir Viesulas turėjo tik pistalietus. [...].Gaidys apsiginklavo automatu, 
 
 <a id="claim-t-40115"></a>
 - t-001
-  global_id: t-40115
   teiginys: "Partizanas Gaidys buvo ginkluotas tik pistoletu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Gaidys ir Viesulas turėjo tik pistalietus. [...].Gaidys apsiginklavo automatu, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40115
+    - t-001

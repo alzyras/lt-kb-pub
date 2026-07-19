@@ -31,7 +31,6 @@ Būrininkas Baziliauskas nusmeigė dar kelis komisarus, ir tuo būdu per minutę
 
 <a id="claim-t-80730"></a>
 - t-001
-  global_id: t-80730
   teiginys: "Būrininkas Baziliauskas bolševikų štabe nusmeigė kelis komisarus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Būrininkas Baziliauskas nusmeigė dar kelis komisarus, ir tuo būdu per minutę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80730
+    - t-001

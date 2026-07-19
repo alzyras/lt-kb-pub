@@ -30,7 +30,6 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
 
 <a id="claim-t-40666"></a>
 - t-001
-  global_id: t-40666
   teiginys: "Paulius Bugys kartu su Vidmantu Airini ir Karoliu Zikaru siejamas su leidinio iliustracija „Alebardos“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,14 +55,11 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
 
     p. 89, „DVIRANKIAI LANDSKNECHTŲ KALAVIJAI“, Paulius Bugys, Vidmantas Airini,
     Karolis Zikaras.
-  citata_rodoma: |
-    p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras.
-
-    p.
+  citata_rodoma: "p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras.\n\np."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40666
+    - t-001

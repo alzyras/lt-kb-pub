@@ -5,6 +5,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1567 m.'
   - '1582 m.'
@@ -42,7 +43,6 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 
 <a id="claim-t-63715"></a>
 - t-001
-  global_id: t-63715
   teiginys: "Jonas Chodkevičius buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo Livonijos etmonu."
   atnaujinta: "2026-06-13 17:20"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,6 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 
 <a id="claim-t-63716"></a>
 - t-002
-  global_id: t-63716
   teiginys: "XVI a. antrojoje pusėje Jonas Chodkevičius Roneburgo pilies bažnyčioje rado Petro iš Dusburgo kronikos nuorašą ir perdavė jį Augustinui Rotundui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,10 +76,9 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   temporalinis_llm_pakomentavimas: "Teiginys glaustai ir tiksliai perteikia citatos faktus."
   pagrindžia:
     - c-64668
-    - c-001
+
 <a id="claim-t-188549"></a>
 - t-003
-  global_id: t-188549
   teiginys: "Narbutas rašo, kad Jonas Chodkevičius ir Romanas Sanguška 1567 metais palaikė karo veiksmų su Rusija tęsimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -98,6 +96,18 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171438
+
+<a id="claim-t-201525"></a>
+- t-004
+  teiginys: "1577 m. Kauno seniūnas Jonas Chodkevičius suteikė Jurgiui Reineriui sklypą seniūnijos žemėje Jiesios ir Vyčio upių santakoje popieriaus malūnui statyti."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184872
 - susijęs iš [[objektai/asmenys/Grigalius Chodkevičius.md#claim-t-40125|Grigalius Chodkevičius]]: Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų karių.
 - susijęs iš Roneburgo pilies bažnyčios Dusburgiečio kronikos nuorašas: Petro iš Dusburgo kronikos nuorašas buvo Livonijoje, Roneburgo pilies bažnyčioje, kur jį XVI a. antroje pusėje rado Jonas Chodkevičius.
 - susijęs iš [[objektai/asmenys/Augustinas Rotundas.md#claim-t-60086|Augustinas Rotundas]]: Jonas Chodkevičius XVI a. antrojoje pusėje perdavė Dusburgiečio kroniką Vilniaus vaitui Augustinui Rotundui.
@@ -118,8 +128,7 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-63716
+
 ## Citatos
 
 - id: c-64668
@@ -133,17 +142,15 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
     įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76
     — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos
     faktus į lituanistinę istorinę literatūrą.
-  citata_rodoma: |
-    Petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.)
-    pilies bažnyčioje. Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris
-    perdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.).
+  citata_rodoma: "Petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.)\npilies bažnyčioje. Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris\nperdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63716
+    - t-002
+
 - id: c-64669
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -173,7 +180,8 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63715
+    - t-001
+
 - id: c-171438
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -199,4 +207,20 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188549
+    - t-003
+
+- id: c-184872
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kauno miestietis Hanusas Špilis gavo valdovo leidimą statyti Fredoje 2 vėjo malūnus.
+    1577 m. Kauno seniūnas Jonas Chodkevičius suteikė Jurgiui Reineriui sklypą se-
+    niūnijos žemėje Jiesios ir Vyčio upių santakoje popieriaus malūnui statyti.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

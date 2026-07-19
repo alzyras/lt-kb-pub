@@ -48,8 +48,7 @@ Leibienė minima kaip antroji Leibos žmona, po jo mirties perėmusi kromo neši
 ## Teiginiai
 
 <a id="claim-t-195278"></a>
-- t-001
-  global_id: t-195278
+- t-003
   teiginys: "Leibienė buvo siejama su moteriškomis prekėmis ir vėliau išėjo gyventi į Panevėžį."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -60,7 +59,6 @@ Leibienė minima kaip antroji Leibos žmona, po jo mirties perėmusi kromo neši
 
 <a id="claim-t-195279"></a>
 - t-002
-  global_id: t-195279
   teiginys: "Leibienė nešiojo kromą kita pakraipa negu Leiba."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -82,15 +80,15 @@ Leibienė minima kaip antroji Leibos žmona, po jo mirties perėmusi kromo neši
     Tas rabinas vedė pačią, o uošvis vedė Leibienę.
     Leibienė išėjo gy­
     venti į Panevėžį ir kromo nebenešiojo.
-  citata_rodoma: |
-    Leibienė išėjo gyventi į Panevėžį ir kromo nebenešiojo.
+  citata_rodoma: "Leibienė išėjo gyventi į Panevėžį ir kromo nebenešiojo."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195278
+    - t-003
+
 - id: c-177644
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -102,12 +100,11 @@ Leibienė minima kaip antroji Leibos žmona, po jo mirties perėmusi kromo neši
     veiksle, reiškiantį ramybę ir taikumą. Senatvėje jau Leiba vedė antrą
     pačią, o jam mirus, jo pati nešiojo jo kromą. Leibienė nešiojo kromą,
     taip, kaip ir Leiba, bet kita pakraipa.
-  citata_rodoma: |
-    Leibienė nešiojo kromą, taip, kaip ir Leiba, bet kita pakraipa.
+  citata_rodoma: "Leibienė nešiojo kromą, taip, kaip ir Leiba, bet kita pakraipa."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195279
+    - t-002

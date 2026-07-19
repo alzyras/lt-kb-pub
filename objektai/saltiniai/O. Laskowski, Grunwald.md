@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-31869"></a>
 - t-001
-  global_id: t-31869
   teiginys: "O. Laskowskio „Grunwald“ išleistas Varšuvoje 1929 m. ir apibūdintas kaip išsamus strateginis tyrinėjimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,15 +69,11 @@ media_all_json: |-
     O. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas). —
     Majewski, W. : _Kilka uwag o bitwie pod Grunwaldem,_ Zapiski Historycz­
     ne, t. 25, zesz.
-  citata_rodoma: |
-    : _Wojna 1410,_
-    Rocznik Towarz. Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,
-    O. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas). —
-    Majewski, W.
+  citata_rodoma: ": _Wojna 1410,_\nRocznik Towarz. Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,\nO. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas). —\nMajewski, W."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31869
+    - t-001

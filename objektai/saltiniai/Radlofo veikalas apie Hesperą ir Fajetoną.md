@@ -34,33 +34,8 @@ Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nu
 
 ## Teiginiai
 
-<a id="claim-t-191806"></a>
-- t-001
-  global_id: t-191806
-  teiginys: "Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nurodomas kaip 1823 m. Berlyno leidinys."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Radlofo veikalas apie Hesperą ir Fajetoną: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Berlynas: mention_match, place, gap=98"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radlofo veikalas apie Hesperą ir Fajetoną\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1823 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra bibliografinis, aiškiai nurodo veikalo pavadinimą, leidimo vietą ir metus. Citatos fragmentas pakankamai palaiko šią informaciją."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174688
-
 <a id="claim-t-191807"></a>
 - t-002
-  global_id: t-191807
   teiginys: "Teodoras Narbutas Radlofo veikalą siejo su planetų ar Žemės palydovų žuvimo aiškinimu ir rekomendavo jį skaitytojams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -94,11 +69,10 @@ Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nu
     1823.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191806
 - id: c-174689
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -122,4 +96,4 @@ Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191807
+    - t-002

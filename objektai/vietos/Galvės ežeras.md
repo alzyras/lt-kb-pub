@@ -43,7 +43,6 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 
 <a id="claim-t-79348"></a>
 - t-001
-  global_id: t-79348
   teiginys: "Ivinskis Galvės ežero salos pilį minėjo kaip žymiausią Vytauto garbės ir pasididžiavimo statinį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 
 <a id="claim-t-183017"></a>
 - t-002
-  global_id: t-183017
   teiginys: "Gediminas Galvės ežero pusiasalyje pastatė Trakų pilį, ilgą laiką laikytą antrąja Lietuvos sostine."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 
 <a id="claim-t-193763"></a>
 - t-003
-  global_id: t-193763
   teiginys: "Priešais centrinius vartus buvo iškastas gynybinis griovys, susijungiantis su ežeru."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -120,7 +117,8 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79348
+    - t-001
+
 - id: c-166410
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -138,7 +136,8 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183017
+    - t-002
+
 - id: c-176419
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -154,4 +153,4 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193763
+    - t-003

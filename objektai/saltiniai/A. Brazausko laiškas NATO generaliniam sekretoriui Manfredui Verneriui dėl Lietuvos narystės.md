@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-18021"></a>
 - t-001
-  global_id: t-18021
   teiginys: "1994 m. sausį Algirdas Brazauskas laišku NATO generaliniam sekretoriui Manfredui Verneriui pareiškė, kad Lietuva nori tapti NATO nare."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,15 +67,11 @@ media_all_json: |-
     toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
     dauja tapti šios organizacijos nare. Tų pačių metų sausį Lietuva prisijungė
     prie Partnerystės taikos labui iniciatyvos.
-  citata_rodoma: |
-    1994 m. sausį Lietuvos Res-
-    publikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-
-    toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
-    dauja tapti šios organizacijos nare.
+  citata_rodoma: "1994 m. sausį Lietuvos Res-\npublikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-\ntoriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-\ndauja tapti šios organizacijos nare."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18021
+    - t-001

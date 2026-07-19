@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-67211"></a>
 - t-001
-  global_id: t-67211
   teiginys: "1919 m. lapkričio 20 d. paskelbtas Steigiamojo seimo rinkimų įstatymas numatė rinkti po vieną atstovą nuo 15 000 gyventojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67211
+    - t-001

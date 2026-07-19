@@ -31,7 +31,6 @@ Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto did
 
 <a id="claim-t-186264"></a>
 - t-001
-  global_id: t-186264
   teiginys: "Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto didikai atvyko į Prūsiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -74,6 +73,7 @@ Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto did
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186264
+    - t-001
+
 ## Ryšiai
 - Verneris fon Hoinbergas (didikas) keliavo į [[objektai/vietos/Prūsija]]

@@ -37,7 +37,6 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
 
 <a id="claim-t-20891"></a>
 - t-001
-  global_id: t-20891
   teiginys: "Rusijos bolševikai siekė eksportuoti revoliuciją ir pasiuntė Raudonosios armijos divizijas paskui iš Lietuvos besitraukiančią vokiečių kariuomenę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,12 +73,11 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
     metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių
     kariuomenę.
-  citata_rodoma: |
-    cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
+  citata_rodoma: "cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20891
+    - t-001

@@ -40,7 +40,6 @@ Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą 
 
 <a id="claim-t-87742"></a>
 - t-001
-  global_id: t-87742
   teiginys: "Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą Timofejevą Mstislavliškį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87742
+    - t-001

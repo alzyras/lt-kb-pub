@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185811"></a>
 - t-001
-  global_id: t-185811
   teiginys: "Kęstučio vedami lietuviai įsiveržė į Mazoviją, užėmė Pultuską ir vėliau smarkiai nusiaubė visą kraštą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -69,7 +68,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra rišlus, faktinis ir citata patvirtina jo pagrindinius duomenis."
   pagrindžia:
     - c-169172
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kęstučio vedami lietuviai įsiveržė į Mazoviją, užėmė Pultuską ir vėliau smarkiai nusiaubė visą kraštą.'
@@ -103,8 +102,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185811
+
 ## Citatos
 
 - id: c-169172
@@ -140,34 +138,11 @@ Nenurodyta
     supta miesto degėsių, pati
     užsidegė, o įgula nepajėgė kovoti su liepsna; vėliau
     užgrobė visą kraštą, kurį kareiviai smarkiai nusiaubė.
-  citata_rodoma: |
-    Mat, nors visą Belzo
-    kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­
-    lės kunigaikščiui Aleksandrui Narimantaičiui atidavė
-    Volynę, tačiau abi šias žemes atidavė su ta sąlyga,
-    kad aukščiausią galią į Rusią turėsiąs Lenkijos kara­
-    lius, o pilis, miestus bei įgulas tvarkysią lenkų skirti
-    vietininkai. Gal supykę dėl šios lenkų padarytos skriau­
-    dos, gal dėl to, kad žmonė-
-    1367 m e ta i
-    se pasklido kalbos, jog, Po­
-    locko vyskupo patarti, kry­
-    žiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar­
-    das, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją
-    pasiplėšti grobio. Staigiai puldami, jie užėmė Pultus-
-    ką, svarbų miestą, priklau-
-    L ie tu v ia i
-    su d eg in a
-    siusį popiežiui; užkariavo ir
-    P u ltu sk ą
-    pilį, kuri, iš visų pusių ap­
-    supta miesto degėsių, pati
-    užsidegė, o įgula nepajėgė kovoti su liepsna; vėliau
-    užgrobė visą kraštą, kurį kareiviai smarkiai nusiaubė.
+  citata_rodoma: "Mat, nors visą Belzo\nkunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­\nlės kunigaikščiui Aleksandrui Narimantaičiui atidavė\nVolynę, tačiau abi šias žemes atidavė su ta sąlyga,\nkad aukščiausią galią į Rusią turėsiąs Lenkijos kara­\nlius, o pilis, miestus bei įgulas tvarkysią lenkų skirti\nvietininkai. Gal supykę dėl šios lenkų padarytos skriau­\ndos, gal dėl to, kad žmonė-\n1367 m e ta i\nse pasklido kalbos, jog, Po­\nlocko vyskupo patarti, kry­\nžiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar­\ndas, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją\npasiplėšti grobio. Staigiai puldami, jie užėmė Pultus-\nką, svarbų miestą, priklau-\nL ie tu v ia i\nsu d eg in a\nsiusį popiežiui; užkariavo ir\nP u ltu sk ą\npilį, kuri, iš visų pusių ap­\nsupta miesto degėsių, pati\nužsidegė, o įgula nepajėgė kovoti su liepsna; vėliau\nužgrobė visą kraštą, kurį kareiviai smarkiai nusiaubė."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185811
+    - t-001

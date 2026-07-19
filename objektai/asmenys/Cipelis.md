@@ -31,7 +31,6 @@ Dusburgietis teigia, kad po to veržliai ir žiauriai užgriuvo kito vasalo, rit
 
 <a id="claim-t-60258"></a>
 - t-001
-  global_id: t-60258
   teiginys: "Cipelis buvo riteris ir vasalas, kurio pilis buvo užpulta, o jos gyventojai nukauti arba paimti į nelaisvę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -50,18 +49,11 @@ Dusburgietis teigia, kad po to veržliai ir žiauriai užgriuvo kito vasalo, rit
     jos saugoti. Po to veržliai ir žiauriai užgriuvo kito vasalo, riterio, vardu Cipelis, pilį448 ir,
     nukovęs ar paėmęs į nelaisvę visus ten gyvenusius žmones, abi pilis pavertė pelenais.
     167 (162).
-  citata_rodoma: |
-    Po to veržliai ir žiauriai užgriuvo kito vasalo, riterio, vardu Cipelis, pilį448 ir,
-    nukovęs ar paėmęs į nelaisvę visus ten gyvenusius žmones, abi pilis pavertė pelenais.
-
-
-
-
-              167 (162).
+  citata_rodoma: "Po to veržliai ir žiauriai užgriuvo kito vasalo, riterio, vardu Cipelis, pilį448 ir,\nnukovęs ar paėmęs į nelaisvę visus ten gyvenusius žmones, abi pilis pavertė pelenais.\n\n\n\n\n          167 (162)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60258
+    - t-001

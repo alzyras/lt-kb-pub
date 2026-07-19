@@ -46,8 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192029"></a>
-- t-001
-  global_id: t-192029
+- t-002
   teiginys: "Narbuto pasakojimu, valdant karaliui Aleksandrui pagoniškos šventyklos vietoje jo įsakymu buvo pastatyta filija."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -64,8 +63,7 @@ Nenurodyta
     - c-174907
 
 <a id="claim-t-192030"></a>
-- t-002
-  global_id: t-192030
+- t-001
   teiginys: "Narbuto pasakojimu, prie Kražių ant Medžiokalnio stovėjo deivės Medziojnos šventykla."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -102,23 +100,12 @@ Nenurodyta
     Aleksandrui,
     jo
     įsakymu, pagoniškos šventyklos vietoje buvo pastatyta filija19b.
-  citata_rodoma: |
-    Prie Kražių miestelio, Kražantės upės kairiajame krante, ant Me­
-    džiokalnio kalno, stovėjo deivės Medziojnos šventykla19. Tai tik­
-    riausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi­
-    joje, tarp Nevėžio ir Aluonos upių, Vilkatupės (Wilkotupy) ežero
-    ir Zurblio (2urblis)
-    pievos.
-    Valdant
-    karaliui
-    Aleksandrui,
-    jo
-    įsakymu, pagoniškos šventyklos vietoje buvo pastatyta filija19b.
+  citata_rodoma: "Prie Kražių miestelio, Kražantės upės kairiajame krante, ant Me­\ndžiokalnio kalno, stovėjo deivės Medziojnos šventykla19. Tai tik­\nriausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi­\njoje, tarp Nevėžio ir Aluonos upių, Vilkatupės (Wilkotupy) ežero\nir Zurblio (2urblis)\npievos.\nValdant\nkaraliui\nAleksandrui,\njo\nįsakymu, pagoniškos šventyklos vietoje buvo pastatyta filija19b."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192029
-    - t-192030
+    - t-002
+    - t-001

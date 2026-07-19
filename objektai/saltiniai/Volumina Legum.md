@@ -4,18 +4,19 @@ pavadinimas: 'Volumina Legum'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1859 m.'
   - '2026 m.'
 date_start: '1859'
 date_end: '2026'
+amziai:
+  - 'XIX'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,8 +39,7 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
 ## Teiginiai
 
 <a id="claim-t-67580"></a>
-- t-001
-  global_id: t-67580
+- t-003
   teiginys: "XVIII a. visos konstitucijos buvo surinktos ir išspausdintos aštuonių tomų rinkinyje „Volumina Legum“."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,6 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
 
 <a id="claim-t-67581"></a>
 - t-002
-  global_id: t-67581
   teiginys: "„Volumina legum“ šeši tomai buvo išleisti Peterburge 1859 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,6 +73,18 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   pagrindžia:
     - c-37269
 
+<a id="claim-t-201503"></a>
+- t-004
+  teiginys: "Sankt Peterburge skelbtų Respublikos seimų priimtų konstitucijų daugiatomiu rinkiniu Volumina Legum. Seime, tarp kita ko, buvo priimami valstybės mokesčių įstatymai, kuriems turėjo paklusti ir Kauno miestiečiai."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184850
+
 ## Citatos
 
 - id: c-37269
@@ -89,7 +100,8 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67581
+    - t-002
+
 - id: c-67430
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -100,15 +112,28 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
     konstitucijos buvo surinktos ir išspausdintos specialiuose rinki-
     niuose, vadinamuose **_Volumina Legum._** Jų tada buvo iš viso iš-
     spausdinta 8 tomai.
-  citata_rodoma: |
-    Vėliau, XVIII amžiuje, visos
-    konstitucijos buvo surinktos ir išspausdintos specialiuose rinki-
-    niuose, vadinamuose **_Volumina Legum._** Jų tada buvo iš viso iš-
-    spausdinta 8 tomai.
+  citata_rodoma: "Vėliau, XVIII amžiuje, visos\nkonstitucijos buvo surinktos ir išspausdintos specialiuose rinki-\nniuose, vadinamuose **_Volumina Legum._** Jų tada buvo iš viso iš-\nspausdinta 8 tomai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67580
+    - t-003
+
+- id: c-184850
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Naudotasi XIX a. Sankt Peterburge skelb-
+    tų Respublikos seimų priimtų konstitucijų daugiatomiu rinkiniu Volumina Legum.
+    Seime, tarp kita ko, buvo priimami valstybės mokesčių įstatymai, kuriems turėjo pa-
+    klusti ir Kauno miestiečiai.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

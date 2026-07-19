@@ -50,47 +50,30 @@ Nenurodyta
 
 <a id="claim-t-185501"></a>
 - t-001
-  global_id: t-185501
   teiginys: "Fiodoras vengė atviros kovos su Šamotulskiu, o Šamotulskis žygiuodamas pirmyn be vargo atsiėmė kelias pilis ir priartėjo prie Braclavo."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Braclavas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Braclavas: mention_match, place, gap=126"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.)\" parinktas kaip owner_note_path. Targetas \"Braclavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168862
-
-<a id="claim-t-185502"></a>
-- t-002
-  global_id: t-185502
-  teiginys: "Prie Murafos lenkų kariuomenei teko įveikti per tankias girias tarp žemų nendrėtų krantų tekančią Murafos upę."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168863
 
+<a id="claim-t-185502"></a>
+- t-002
+  teiginys: "Prie Murafos lenkų kariuomenei teko įveikti per tankias girias tarp žemų nendrėtų krantų tekančią Murafos upę."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168862
+
 <a id="claim-t-185503"></a>
 - t-003
-  global_id: t-185503
   teiginys: "1432 m. lapkričio 30 d. Šamotulskio ir Fiodoro Ostrogiškio pajėgos kovojo maždaug už keturiasdešimties mylių nuo Lvovo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -113,7 +96,6 @@ Nenurodyta
 
 <a id="claim-t-196289"></a>
 - t-004
-  global_id: t-196289
   teiginys: "Boleslovas padalijo savo kariuomenę į dvi žygio voras: vieną pats nuvedė į Lietuvą, o kitai pavedė Fiodorui Ostrogiškiui užimti Podolę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -127,7 +109,6 @@ Nenurodyta
 
 <a id="claim-t-196290"></a>
 - t-005
-  global_id: t-196290
   teiginys: "Fiodoras Ostrogiškis su lengvąja rusų, valachų ir skitų raitija vengė atviro susidūrimo su Šamotulskiu ir puldinėdamas vargino lenkus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -141,7 +122,6 @@ Nenurodyta
 
 <a id="claim-t-196291"></a>
 - t-006
-  global_id: t-196291
   teiginys: "Lapkričio pabaigoje Šamotulskis su visa kariuomene patraukė į Lenkiją, nes, pasak Kojelavičiaus, priešo kariuomenė vengė susirėmimo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -189,40 +169,16 @@ Nenurodyta
     ti Podolę. Sėkmingai susiklostė Fiodorui žygio pradžia,
     tačiau pirmosios sėkmės dėl žmonių laimės nepastovu­
     mo ne visuomet leidžia sulaukti panašaus galo.
-  citata_rodoma: |
-    Kryžiuočiai
-    mėgina
-    sudrumsti taikų len­
-    kų ir lietuvių sugy­
-    venimą
-    4 4 4
-
-    Tuo metu, kai Žygimantas
-    Š v itrig a ila
-    įs iv e ržia
-    tvarkė Lietuvą, Boleslovas
-    į L ietu vą , o į P o d o lę
-    telkė kariuomenę Rusioje, ku-
-    p a siu n čia
-    O stro g o
-    rią bemaž visą buvo patrau-
-    k u n ig a ik štį
-    kęs dosnumu į savo pusę, ke­
-    tindamas pradėti karą iš kar­
-    to ir su Žygimantu, ir su Jogaila. Padalijęs savo jėgas
-    dviem žygio voromis, vieną pats nuvedė į Lietuvą, o
-    kunigaikščiui Fiodorui Ostrogiškiui su kita įsakė užim­
-    ti Podolę. Sėkmingai susiklostė Fiodorui žygio pradžia,
-    tačiau pirmosios sėkmės dėl žmonių laimės nepastovu­
-    mo ne visuomet leidžia sulaukti panašaus galo.
+  citata_rodoma: "Kryžiuočiai \nmėgina \nsudrumsti taikų len­\nkų ir lietuvių sugy­\nvenimą\n4 4 4\n\nTuo metu, kai Žygimantas \nŠ v itrig a ila \nįs iv e ržia \ntvarkė Lietuvą, Boleslovas\nį L ietu vą , o į P o d o lę \ntelkė kariuomenę Rusioje, ku-\np a siu n čia \nO stro g o \nrią bemaž visą buvo patrau-\nk u n ig a ik štį \nkęs dosnumu į savo pusę, ke­\ntindamas pradėti karą iš kar­\nto ir su Žygimantu, ir su Jogaila. Padalijęs savo jėgas \ndviem žygio voromis, vieną pats nuvedė į Lietuvą, o \nkunigaikščiui Fiodorui Ostrogiškiui su kita įsakė užim­\nti Podolę. Sėkmingai susiklostė Fiodorui žygio pradžia, \ntačiau pirmosios sėkmės dėl žmonių laimės nepastovu­\nmo ne visuomet leidžia sulaukti panašaus galo."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185501
-    - t-196289
+    - t-002
+    - t-004
+
 - id: c-168863
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -252,8 +208,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185502
-    - t-196290
+    - t-001
+    - t-005
+
 - id: c-168864
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -273,7 +230,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185503
+    - t-003
+
 - id: c-178613
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -299,4 +257,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196291
+    - t-006

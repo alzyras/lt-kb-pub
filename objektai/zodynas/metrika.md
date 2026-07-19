@@ -32,7 +32,6 @@ Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gauna
 
 <a id="claim-t-193295"></a>
 - t-001
-  global_id: t-193295
   teiginys: "Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gaunami raštai ir su ja padarytos sutartys būdavo įteikiamos Lietuvos kancleriams ir saugomos Lietuvos valstybės archyve (metrikoje)."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gauna
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193295
+    - t-001

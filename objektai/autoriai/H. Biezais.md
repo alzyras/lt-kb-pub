@@ -40,7 +40,6 @@ Biezais, H.
 
 <a id="claim-t-30626"></a>
 - t-001
-  global_id: t-30626
   teiginys: "H. Biezais 1954 m. Upsaloje paskelbė darbą apie baltų tautų religijos šaltinius ir ankstesnių tyrimų rezultatus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,14 +69,11 @@ Biezais, H.
     — Biezais, H. : _Die Religionsquellen der baltischen Völker und die Er­
     gebnisse der bisherigen Forschungen,_ Sonderdr. aus Zeitschrift Arv, 1953,
     Uppsala 1954, 61-128 p. (šaltinių ir literat, bibliogr.).
-  citata_rodoma: |
-    — Biezais, H. : _Die Religionsquellen der baltischen Völker und die Er­
-    gebnisse der bisherigen Forschungen,_ Sonderdr. aus Zeitschrift Arv, 1953,
-    Uppsala 1954, 61-128 p. (šaltinių ir literat, bibliogr.).
+  citata_rodoma: "— Biezais, H. : _Die Religionsquellen der baltischen Völker und die Er­\ngebnisse der bisherigen Forschungen,_ Sonderdr. aus Zeitschrift Arv, 1953,\nUppsala 1954, 61-128 p. (šaltinių ir literat, bibliogr.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30626
+    - t-001

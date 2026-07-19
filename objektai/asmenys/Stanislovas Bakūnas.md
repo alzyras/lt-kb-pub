@@ -38,7 +38,6 @@ Stanislovas Bakūnas 1587 metais pasirašė prie antspaudo, kurio skydas padalyt
 
 <a id="claim-t-190243"></a>
 - t-001
-  global_id: t-190243
   teiginys: "Stanislovas Bakūnas 1587 metais pasirašė prie antspaudo, kurio skydas padalytas į dvi dalis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,7 @@ Stanislovas Bakūnas 1587 metais pasirašė prie antspaudo, kurio skydas padalyt
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173126
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Stanislovas Bakūnas 1587 metais pasirašė prie antspaudo, kurio skydas padalytas į dvi dalis.'
@@ -71,8 +70,7 @@ Stanislovas Bakūnas 1587 metais pasirašė prie antspaudo, kurio skydas padalyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190243
+
 ## Citatos
 
 - id: c-173126
@@ -90,15 +88,11 @@ Stanislovas Bakūnas 1587 metais pasirašė prie antspaudo, kurio skydas padalyt
     tėvoninės Žemaičių kunigaikštystės herbas. Trečiame skyde, į
     dešinę nuo kunigaikščio, yra kryžius, einantis beveik per visą
     skydą; šis skydas priklauso Senųjų Trakų miestui .
-  citata_rodoma: |
-    IV lentelė, 30-asis piešinys. Ypatingo skydo, perskirto į 2
-    dalis, dešiniojoje pusėje kažkas panašaus į varpą, kairiojoje -
-    tarytum gėlių ir vaisių puokštė. Prie antspaudo pasirašė Sta­
-    nislovas Bakūnas (Bokuhm) 1587 metais.
+  citata_rodoma: "IV lentelė, 30-asis piešinys. Ypatingo skydo, perskirto į 2\ndalis, dešiniojoje pusėje kažkas panašaus į varpą, kairiojoje -\ntarytum gėlių ir vaisių puokštė. Prie antspaudo pasirašė Sta­\nnislovas Bakūnas (Bokuhm) 1587 metais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190243
+    - t-001

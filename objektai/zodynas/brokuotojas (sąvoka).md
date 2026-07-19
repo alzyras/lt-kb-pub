@@ -33,7 +33,6 @@ Be kita ko, brokuotojai paprastai būdavo Kauno miestiečiai, patyrę miško pre
 
 <a id="claim-t-201799"></a>
 - t-001
-  global_id: t-201799
   teiginys: "Be kita ko, brokuotojai paprastai būdavo Kauno miestiečiai, patyrę miško prekit, ruošėjai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Be kita ko, brokuotojai paprastai būdavo Kauno miestiečiai, patyrę miško pre
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201799
+    - t-001

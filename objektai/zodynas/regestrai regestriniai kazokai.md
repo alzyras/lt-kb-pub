@@ -31,7 +31,6 @@ Tų sričių ponai savo dvaruose laikė ištisus kariuomenės pulkus, tačiau ne
 
 <a id="claim-t-74035"></a>
 - t-001
-  global_id: t-74035
   teiginys: "Nugalėti kazokai iš dalies patekdavo į regestrus, o kiti turėdavo dirbti žemę arba bėgdavo į Sičę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Tų sričių ponai savo dvaruose laikė ištisus kariuomenės pulkus, tačiau ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74035
+    - t-001

@@ -36,8 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88005"></a>
-- t-001
-  global_id: t-88005
+- t-003
   teiginys: "Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, o Kojelevičius juo sekė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ media_all_json: |-
     - c-83987
 
 <a id="claim-t-88006"></a>
-- t-002
-  global_id: t-88006
+- t-001
   teiginys: "Stryjkowski savo kronikoje aiškino Šventaragio vardo kilmę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,8 +68,7 @@ media_all_json: |-
     - c-83988
 
 <a id="claim-t-88007"></a>
-- t-003
-  global_id: t-88007
+- t-004
   teiginys: "Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,8 +85,7 @@ media_all_json: |-
     - c-83984
 
 <a id="claim-t-88008"></a>
-- t-004
-  global_id: t-88008
+- t-005
   teiginys: "Strijkovskis užsiminė apie mūšį prie Sudervėlės upelio, siejamą su lietuvių sumuštų kryžiuočių kapaviete."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,8 +102,7 @@ media_all_json: |-
     - c-83986
 
 <a id="claim-t-88009"></a>
-- t-005
-  global_id: t-88009
+- t-002
   teiginys: "Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimus, Goštautas pastatydino Šv. Petro bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -180,7 +175,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88007
+    - t-004
+
 - id: c-83985
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -198,7 +194,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88009
+    - t-002
+
 - id: c-83986
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -219,7 +216,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88008
+    - t-005
+
 - id: c-83987
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -239,20 +237,15 @@ media_all_json: |-
     plačiai aprašo, kokių gudrybių tą­
     kart ėmėsi Kęstutis, puldamas Vil-
     nių.
-  citata_rodoma: |
-    31
-    Strijkovskis, 1.465, o juo sekda­
-    mas ir K o j e 1  a v i č i u s, p. 361,
-    plačiai aprašo, kokių gudrybių tą­
-    kart ėmėsi Kęstutis, puldamas Vil-
-    nių.
+  citata_rodoma: "31\nStrijkovskis, 1.465, o juo sekda­\nmas ir K o j e 1  a v i č i u s, p. 361, \nplačiai aprašo, kokių gudrybių tą­\nkart ėmėsi Kęstutis, puldamas Vil- \nnių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88005
+    - t-003
+
 - id: c-83988
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -272,4 +265,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88006
+    - t-001

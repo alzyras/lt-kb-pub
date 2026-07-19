@@ -40,8 +40,7 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 ## Teiginiai
 
 <a id="claim-t-19264"></a>
-- t-001
-  global_id: t-19264
+- t-002
   teiginys: "Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis ir tapo šventuoju Steponu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,9 +56,9 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
   pagrindžia:
     - c-22008
     - c-166965
+
 <a id="claim-t-19265"></a>
-- t-002
-  global_id: t-19265
+- t-001
   teiginys: "Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,15 +90,15 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
     imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
     jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
-  citata_rodoma: |
-    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
+  citata_rodoma: "jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19265
+    - t-001
+
 - id: c-22008
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -115,15 +114,15 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
     Žemaičių krikštu. Atrodo, kad visa Vytauto politika orientuota į „švento
     valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
     įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.
-  citata_rodoma: |
-    valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
+  citata_rodoma: "valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19264
+    - t-002
+
 - id: c-166965
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -143,3 +142,5 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

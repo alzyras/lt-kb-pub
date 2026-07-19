@@ -41,7 +41,6 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 
 <a id="claim-t-19327"></a>
 - t-001
-  global_id: t-19327
   teiginys: "Amerikos lietuviai paprašė prezidento Vudrau Vilsono 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos karo aukoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,12 +79,11 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     klausimą. Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezi-
     dentą V. Vilsoną 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos
     karo aukoms, jos metu surinkta 200 tūkst. dolerių.
-  citata_rodoma: |
-    dentą V. Vilsoną 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos
+  citata_rodoma: "dentą V. Vilsoną 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19327
+    - t-001

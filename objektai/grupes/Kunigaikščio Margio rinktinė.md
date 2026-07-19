@@ -36,8 +36,7 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
 ## Teiginiai
 
 <a id="claim-t-40958"></a>
-- t-001
-  global_id: t-40958
+- t-002
   teiginys: "1950 m. lapkričio 25 d. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,17 +68,11 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
     kovotojai sujungti į vieną - Tumo Vaižganto
     rinktinę ir įtraukti į Vytauto, o Žaliosios
     rinktinės kovotojai - į Vyčio apygardas.
-  citata_rodoma: |
-    1950 m. lapkričio 25 d. srities vado įsakymu
-    Algimanto apygarda buvo panaikinta. Likę
-    Šarūno ir Kunigaikščio Margio rinktinių
-    kovotojai sujungti į vieną - Tumo Vaižganto
-    rinktinę ir įtraukti į Vytauto, o Žaliosios
-    rinktinės kovotojai - į Vyčio apygardas.
+  citata_rodoma: "1950 m. lapkričio 25 d. srities vado įsakymu\nAlgimanto apygarda buvo panaikinta. Likę\nŠarūno ir Kunigaikščio Margio rinktinių\nkovotojai sujungti į vieną - Tumo Vaižganto\nrinktinę ir įtraukti į Vytauto, o Žaliosios\nrinktinės kovotojai - į Vyčio apygardas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40958
+    - t-002

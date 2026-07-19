@@ -33,7 +33,6 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
 
 <a id="claim-t-87399"></a>
 - t-001
-  global_id: t-87399
   teiginys: "Kotryna Jogailaitė Vilniuje susituokė su Suomijos kunigaikščiu Jonu, vėliau tapusiu Švedijos karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
 
 <a id="claim-t-87400"></a>
 - t-002
-  global_id: t-87400
   teiginys: "Kotryna Jogailaitė, Švedijos karalienė, buvo paskelbta viena iš valdų, dvarų ir kito turto paveldėtojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +65,6 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
 
 <a id="claim-t-87401"></a>
 - t-003
-  global_id: t-87401
   teiginys: "Karalaitė Ona turėjo dalį jai perduoto turto atiduoti Kotrynai Jogailaitei, Švedijos karalienei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,7 +99,8 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87399
+    - t-001
+
 - id: c-83379
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -137,39 +135,15 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
     nai, Švedijos karalienei, sumokėti ir aukščiau paminėtam
     mūsų dvarui atlyginti pagal paprotį, ypač tiems mūsų dva­
     ro tarnams, kurie neturi jokio aprūpinimo.
-  citata_rodoma: |
-    Ir ypač, kad jos
-    didenybė karalaitė Ona, pasilikusi čia, Lenkijoje, liktų su jai
-    skirtomis valdomis, žemėmis ir pinigų sumomis, nors pa­
-    sitikėdami savo pavaldinių, garbingų žmonių, dorumu, ne­
-    bijome dėl to, kad, mokant kraitį, ji galėtų netekti tų išmo­
-    kėjimų, sumų, dvarų ir valdų, to, ką davė Dievas. Vis dėlto,
-    jeigu Viešpatį Dievą ir šventą teisingumą užmiršęs ar mū­
-    sų įpėdinis, ar kas kitas jos didenybę karalaitę Oną po mū­
-    sų mirties nuskriausti norėtų, tai tikime, kad Viešpats Die­
-    vas, našlaičių gynėjas, tokį rūsčiai nubaustų, tuomet visa tai,
-    kas yra jų didenybėms karalaitėms, mūsų seserims, ir kam
-    kitam mūsų užrašyta, viską duodame generalitate [bendrai]
-    visą mūsų kilnojamąjį ir nekilnojamąjį turtą, aukščiau išreikš­
-    tą ir neišreikštą, pačiai jos didenybei karalaitei Onai atiduoda­
-    me, kad tame rastų savo skriaudos ir našlaitystės paguodą,
-    ir iš to ji turės atiduoti dalį jos didenybei karalaitei Kotry-
-    ----• -----
-    348
-
-    ## Puslapis 365
-
-    IV KNYGA
-    nai, Švedijos karalienei, sumokėti ir aukščiau paminėtam
-    mūsų dvarui atlyginti pagal paprotį, ypač tiems mūsų dva­
-    ro tarnams, kurie neturi jokio aprūpinimo.
+  citata_rodoma: "Ir ypač, kad jos \ndidenybė karalaitė Ona, pasilikusi čia, Lenkijoje, liktų su jai \nskirtomis valdomis, žemėmis ir pinigų sumomis, nors pa­\nsitikėdami savo pavaldinių, garbingų žmonių, dorumu, ne­\nbijome dėl to, kad, mokant kraitį, ji galėtų netekti tų išmo­\nkėjimų, sumų, dvarų ir valdų, to, ką davė Dievas. Vis dėlto, \njeigu Viešpatį Dievą ir šventą teisingumą užmiršęs ar mū­\nsų įpėdinis, ar kas kitas jos didenybę karalaitę Oną po mū­\nsų mirties nuskriausti norėtų, tai tikime, kad Viešpats Die­\nvas, našlaičių gynėjas, tokį rūsčiai nubaustų, tuomet visa tai, \nkas yra jų didenybėms karalaitėms, mūsų seserims, ir kam \nkitam mūsų užrašyta, viską duodame generalitate [bendrai] \nvisą mūsų kilnojamąjį ir nekilnojamąjį turtą, aukščiau išreikš­\ntą ir neišreikštą, pačiai jos didenybei karalaitei Onai atiduoda­\nme, kad tame rastų savo skriaudos ir našlaitystės paguodą, \nir iš to ji turės atiduoti dalį jos didenybei karalaitei Kotry-\n----• -----\n348\n\n## Puslapis 365\n\nIV KNYGA\nnai, Švedijos karalienei, sumokėti ir aukščiau paminėtam \nmūsų dvarui atlyginti pagal paprotį, ypač tiems mūsų dva­\nro tarnams, kurie neturi jokio aprūpinimo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87401
+    - t-003
+
 - id: c-83380
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -204,27 +178,11 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
     kurioje valstybėje arba paviete esančius ir bet kur saugoja­
     mus su visa valstybinės nuosavybės teise, kaip juos patys
     turėjome ir valdėme, turime ir valdome.
-  citata_rodoma: |
-    337
-
-    ## Puslapis 354
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    darbams naudotų. Tad šių, mūsų valdų, ir dvarų, taip pat
-    ir kito judamo ir nejudamo turto, kurį turime ir valdome,
-    bet kokia teise mums priklausančio ir bet kokiu besivadi­
-    nančio, darome, skelbiame paveldėtojomis karalaites: jos di­
-    denybę Kotryną, Švedijos karalienę, jos didenybę karalaitę
-    Sofiją, Braunsbergo kunigaikštienę, jos didenybę Oną, dar
-    iki šiol tebemergaujančią, šiuos visus dvarus lygiomis dali­
-    mis jų didenybėms duodame, dovanojame ir paskiriame bet
-    kurioje valstybėje arba paviete esančius ir bet kur saugoja­
-    mus su visa valstybinės nuosavybės teise, kaip juos patys
-    turėjome ir valdėme, turime ir valdome.
+  citata_rodoma: "337\n\n## Puslapis 354\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\ndarbams naudotų. Tad šių, mūsų valdų, ir dvarų, taip pat \nir kito judamo ir nejudamo turto, kurį turime ir valdome, \nbet kokia teise mums priklausančio ir bet kokiu besivadi­\nnančio, darome, skelbiame paveldėtojomis karalaites: jos di­\ndenybę Kotryną, Švedijos karalienę, jos didenybę karalaitę \nSofiją, Braunsbergo kunigaikštienę, jos didenybę Oną, dar \niki šiol tebemergaujančią, šiuos visus dvarus lygiomis dali­\nmis jų didenybėms duodame, dovanojame ir paskiriame bet \nkurioje valstybėje arba paviete esančius ir bet kur saugoja­\nmus su visa valstybinės nuosavybės teise, kaip juos patys \nturėjome ir valdėme, turime ir valdome."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87400
+    - t-002

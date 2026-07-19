@@ -28,7 +28,6 @@ Mikalojus Vorobjovas Vilnių vadino atvira knyga, gyvais vaizdais rodančia Euro
 
 <a id="claim-t-200839"></a>
 - t-001
-  global_id: t-200839
   teiginys: "Mikalojus Vorobjovas Vilnių vadino atvira knyga, gyvais vaizdais rodančia Europos stilių istoriją nuo gotikos iki empiro."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Mikalojus Vorobjovas Vilnių vadino atvira knyga, gyvais vaizdais rodančia Euro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200839
+    - t-001

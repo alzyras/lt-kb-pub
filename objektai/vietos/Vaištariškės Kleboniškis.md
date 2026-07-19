@@ -28,7 +28,6 @@ Dvarelis buvo prie Neries upės, į šiaurę nuo Eigulių, vėliau pavadintas Kl
 
 <a id="claim-t-201747"></a>
 - t-001
-  global_id: t-201747
   teiginys: "Dvarelis buvo prie Neries upės, į šiaurę nuo Eigulių, vėliau pavadintas Kleboniškiu."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -56,4 +55,4 @@ Dvarelis buvo prie Neries upės, į šiaurę nuo Eigulių, vėliau pavadintas Kl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201747
+    - t-001

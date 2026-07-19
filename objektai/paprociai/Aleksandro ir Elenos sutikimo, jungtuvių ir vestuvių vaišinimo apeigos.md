@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-87272"></a>
 - t-001
-  global_id: t-87272
   teiginys: "Aleksandras lydėjo rogėse sėdinčią Eleną į Vilnių, kur ji po graikų apeigų mišių buvo nuvesta į Šv. Stanislovo katedrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87272
+    - t-001

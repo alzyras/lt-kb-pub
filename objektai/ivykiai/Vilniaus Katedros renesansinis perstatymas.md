@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-200843"></a>
 - t-001
-  global_id: t-200843
   teiginys: "Antrajame XVI amžiaus trečdalyje Vilniaus Katedra buvo renesansiškai perstatyta."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200843
+    - t-001

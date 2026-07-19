@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201331"></a>
 - t-001
-  global_id: t-201331
   teiginys: "Neilgai buvus Mantvila, kunigaikštis Žemaičių, sukėlęs kareivius žemaičių ir lietuvių, traukė vėl į Baltuosius Gudus."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184681
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lietuviai ir žemaičiai vėl, norėdami atmonyti H98
     Jaroslavui teriones žemgalių, patelkę dar Polocko
@@ -87,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201331
+    - t-001

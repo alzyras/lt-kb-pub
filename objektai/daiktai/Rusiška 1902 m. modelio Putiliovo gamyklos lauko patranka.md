@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-40757"></a>
 - t-001
-  global_id: t-40757
   teiginys: "Lietuvos kariuomenės artileristai užtaisė 76,2 mm kalibro rusišką 1902 m. modelio Putiliovo gamyklos lauko patranką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40757
+    - t-001

@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-201380"></a>
 - t-001
-  global_id: t-201380
   teiginys: "Mažuose ūkės reikaluose pats kunigaikštis su ku nigais ryžos, bet didžiuose ūkės reikaluose turėjo kelti visą tautą į sueimą, kur visi susirinkę iš vieno teiravos pragumo, kuriuo galėtų ūkę savo nuo nelaimos gelbėti, susirinkę tenai ūkinykai večieji jau name."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184730
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą teisybę paskesniuose dar laikuose randam:
     kaipogi Jogaila, didysis Lietuvos kunigaikštis ir
@@ -93,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201380
+    - t-001

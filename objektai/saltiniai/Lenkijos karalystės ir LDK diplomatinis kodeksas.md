@@ -37,7 +37,6 @@ Vilniaus universiteto bibliotekoje, prie Diplomatinio koJekso) In Nomine Domini 
 
 <a id="claim-t-88315"></a>
 - t-001
-  global_id: t-88315
   teiginys: "Karaliaus Aleksandro 1506 metų testamentas pateiktas iš Dogelio rankraščių, buvusių Vilniaus universiteto bibliotekoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Vilniaus universiteto bibliotekoje, prie Diplomatinio koJekso) In Nomine Domini 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88315
+    - t-001

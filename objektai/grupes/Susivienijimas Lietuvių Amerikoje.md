@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-66149"></a>
 - t-001
-  global_id: t-66149
   teiginys: "Susivienijimas Lietuvių Amerikoje iš pradžių mažai rūpinosi tautinės sąmonės žadinimu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ media_all_json: |-
 
 <a id="claim-t-193130"></a>
 - t-002
-  global_id: t-193130
   teiginys: "Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje vėliau buvo pavadintas Susivienijimu Lietuvių Amerikoje, tačiau jo vadovybė pasiliko katalikiškose rankose."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -92,7 +90,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66149
+    - t-001
+
 - id: c-175888
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -117,4 +116,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193130
+    - t-002

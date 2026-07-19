@@ -33,7 +33,6 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
 
 <a id="claim-t-192847"></a>
 - t-001
-  global_id: t-192847
   teiginys: "Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąja Dnepro pakrante ties Kijevu, kitapus Dnepro nurodydamas alanus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,10 +51,9 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175617
-    - c-001
+
 <a id="claim-t-192848"></a>
 - t-002
-  global_id: t-192848
   teiginys: "Pečenegų orda Charoboe turėjo dalį Padneprės žemių tarp Dnepro ir Bugo aukštupio, o jos sostine nurodomas Belotzebo miestas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -116,8 +114,7 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192847
+
 ## Citatos
 
 - id: c-175617
@@ -138,25 +135,15 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
     rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
     Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
     novės Kijevą.
-  citata_rodoma: |
-    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
-    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
-    vadinimo panašumu su chionitais. Šie buvo Padneprės
-    emporiumų graikų kolonistai, susigiminiavę su skitais ir
-    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
-    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
-    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
-    prie Volgos vidurupio, imperatorius Julijonas, taip pat
-    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
-    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
-    po to keliavo toliau per alanų kraštą.
+  citata_rodoma: "Galima tik daryti gana tikėtiną prielaidą, kuri remia­\nsi Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­\nvadinimo panašumu su chionitais. Šie buvo Padneprės\nemporiumų graikų kolonistai, susigiminiavę su skitais ir\ngyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;\nkitapus Dnepro jų kaimynai buvo alanai. Turime istorinių\npadavimų, jog, kai persų karalius Saporas žiemojo kažkur\nprie Volgos vidurupio, imperatorius Julijonas, taip pat\nbuvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,\nkurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o\npo to keliavo toliau per alanų kraštą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192847
+    - t-001
+
 - id: c-175618
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -175,6 +162,7 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192848
+    - t-002
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Pečenegai]]

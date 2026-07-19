@@ -38,8 +38,7 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
 ## Teiginiai
 
 <a id="claim-t-45701"></a>
-- t-001
-  global_id: t-45701
+- t-004
   teiginys: "Atkuriant valstybę reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą ir atkurti paskutinės nepriklausomos Lietuvos konstituciją."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
     - c-23838
 
 <a id="claim-t-45703"></a>
-- t-002
-  global_id: t-45703
+- t-005
   teiginys: "1990 m. priimtu įstatymu buvo atstatytas 1938 m. gegužės 12 d. Lietuvos Konstitucijos galiojimas, bet po pusvalandžio jis sustabdytas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
     - c-48416
 
 <a id="claim-t-45704"></a>
-- t-003
-  global_id: t-45704
+- t-002
   teiginys: "1938 m. gegužę priimtoje naujoje konstitucijoje vėl buvo įrašyta, kad Vilnius yra Lietuvos sostinė."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -111,18 +108,15 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
     Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
     traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
     Vilnius yra Lietuvos sostinė.
-  citata_rodoma: |
-    Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
-    Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
-    traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
-    Vilnius yra Lietuvos sostinė.
+  citata_rodoma: "Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir\nLietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-\ntraukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad\nVilnius yra Lietuvos sostinė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45704
+    - t-002
+
 - id: c-23838
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -136,18 +130,15 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
     jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
     ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
     nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.
-  citata_rodoma: |
-    Tam reikė-
-    jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
-    ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
-    nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.
+  citata_rodoma: "Tam reikė-\njo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje\nir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės\nnepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45701
+    - t-004
+
 - id: c-48416
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -170,4 +161,4 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45703
+    - t-005

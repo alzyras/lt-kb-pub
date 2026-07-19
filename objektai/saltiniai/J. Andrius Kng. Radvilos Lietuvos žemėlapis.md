@@ -38,7 +38,6 @@ Andrius : Kng.
 
 <a id="claim-t-31715"></a>
 - t-001
-  global_id: t-31715
   teiginys: "J. Andriaus „Kng. Radvilos Lietuvos žemėlapis“ paskelbtas žurnalo „Aidai“ 1952 m. 10 numeryje, p. 445–448."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,15 +66,11 @@ Andrius : Kng.
     nr., 445-448 p. ; P. Rėklaitis :** **_Lietuvos senoji kartografija,_** **Tautos Praeitis,
     II, 1, Roma 1964, 64-76 p.**
     (^5) **Baltijos jūra turi 386.000 km** (^2) **, o Juodoji jūra - 411.540 km** (^2) **ploto.**
-  citata_rodoma: |
-    **
-    (^4) **Plg. J. Andrius :** **_Kng. Radvilos Lietuvos žemėlapis,_** **Aidai 1952, 10
-    nr., 445-448 p. ; P. Rėklaitis :** **_Lietuvos senoji kartografija,_** **Tautos Praeitis,
-    II, 1, Roma 1964, 64-76 p.
+  citata_rodoma: "**\n(^4) **Plg. J. Andrius :** **_Kng. Radvilos Lietuvos žemėlapis,_** **Aidai 1952, 10\nnr., 445-448 p. ; P. Rėklaitis :** **_Lietuvos senoji kartografija,_** **Tautos Praeitis,\nII, 1, Roma 1964, 64-76 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31715
+    - t-001

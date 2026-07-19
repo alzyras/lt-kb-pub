@@ -39,7 +39,6 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
 
 <a id="claim-t-19414"></a>
 - t-001
-  global_id: t-19414
   teiginys: "1940 m. birželio 17 d. Justas Paleckis paskirtas marionetinės „Liaudies vyriausybės“ ministru pirmininku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
 
 <a id="claim-t-19415"></a>
 - t-002
-  global_id: t-19415
   teiginys: "Justas Paleckis vadovavo delegacijai, kuri 1940 m. rugpjūčio 3 d. Maskvoje pasiprašė į SSRS sudėtį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,6 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
 
 <a id="claim-t-183345"></a>
 - t-003
-  global_id: t-183345
   teiginys: "1940 m. birželio 17 d. Justas Paleckis buvo paskirtas sovietų remtos „Liaudies vyriausybės“ ministru pirmininku."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -113,17 +110,15 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
     bankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-
     ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
     prašė neva savanoriškai įeiti į SSRS sudėtį.
-  citata_rodoma: |
-    Seime išrinkta 20 asmenų delegaci-
-    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
-    prašė neva savanoriškai įeiti į SSRS sudėtį.
+  citata_rodoma: "Seime išrinkta 20 asmenų delegaci-\nja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-\nprašė neva savanoriškai įeiti į SSRS sudėtį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19415
+    - t-002
+
 - id: c-166736
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -144,5 +139,5 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19414
-    - t-183345
+    - t-001
+    - t-003

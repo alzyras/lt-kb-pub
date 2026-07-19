@@ -31,7 +31,6 @@ Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos vieta apskrit
 
 <a id="claim-t-194554"></a>
 - t-001
-  global_id: t-194554
   teiginys: "Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos vieta apskritai nebeatsekama."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos vieta apskrit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194554
+    - t-001

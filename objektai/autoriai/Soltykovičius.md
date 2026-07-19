@@ -31,7 +31,6 @@ Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus i
 
 <a id="claim-t-88098"></a>
 - t-001
-  global_id: t-88098
   teiginys: "Soltykovičius rašė, kad Mikalojus iš Gožkovo buvo trečiasis Krokuvos akademijos rektorius ir trečiasis Lietuvos vyskupas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,23 +70,11 @@ Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus i
     jos rektorius ir taip pat trečiasis nuo
     Vilniaus katedros įsteigimo Lietuvos
     vvskupas".
-  citata_rodoma: |
-    5
-    Kojelavičius ir Nar a movs-
-    k i s klysta tą vyskupą Mikalojų va­
-    dindami Borkovskiu, tai buvo Gož­
-    kovskis, lenkas. Soltykovičius
-    (O stanie Akademii Krakowskiej, p. 115)
-    rašo, kad „Mikalojus iš Gožkovo,
-    nuo Akademijos perkėlimo į Kroku­
-    vą Kazimiero laikais, buvo trečiasis
-    jos rektorius ir taip pat trečiasis nuo
-    Vilniaus katedros įsteigimo Lietuvos
-    vvskupas".
+  citata_rodoma: "5\nKojelavičius ir Nar a movs- \nk i s klysta tą vyskupą Mikalojų va­\ndindami Borkovskiu, tai buvo Gož­\nkovskis, lenkas. Soltykovičius \n(O stanie Akademii Krakowskiej, p. 115) \nrašo, kad „Mikalojus iš Gožkovo, \nnuo Akademijos perkėlimo į Kroku­\nvą Kazimiero laikais, buvo trečiasis \njos rektorius ir taip pat trečiasis nuo \nVilniaus katedros įsteigimo Lietuvos \nvvskupas\"."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88098
+    - t-001

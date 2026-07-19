@@ -40,7 +40,6 @@ Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.) ir Mykolas Akelaitis (1828�
 
 <a id="claim-t-01120"></a>
 - t-001
-  global_id: t-01120
   teiginys: "Mykolas Akelaitis kartu su Antanu Tatare parašė eilių ir išleido kelias liaudžiai naudingas lietuviškas knygas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,14 +70,11 @@ Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.) ir Mykolas Akelaitis (1828�
     taičių. Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.)
     ir Mykolas Akelaitis (1828—1857 m.) parašė eilių ir
     išleido keletą liaudžiai naudingų lietuviškų knygų.
-  citata_rodoma: |
-    Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.)
-    ir Mykolas Akelaitis (1828—1857 m.) parašė eilių ir
-    išleido keletą liaudžiai naudingų lietuviškų knygų.
+  citata_rodoma: "Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.)\nir Mykolas Akelaitis (1828—1857 m.) parašė eilių ir\nišleido keletą liaudžiai naudingų lietuviškų knygų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01120
+    - t-001

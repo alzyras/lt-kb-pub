@@ -39,7 +39,6 @@ Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­ niūnas“, k
 
 <a id="claim-t-35228"></a>
 - t-001
-  global_id: t-35228
   teiginys: "Mikalojus Maskoževskis 1389 m. buvo pasiųstas į Lietuvą ir vienus metus ėjo Vilniaus ir Lietuvos seniūno pareigas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,16 +72,11 @@ Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­ niūnas“, k
     ževskis, pasiųstas į Lietuvą 1389 m. ir savo pareigas ėjęs
     vienus metus. Kokis buvo to seniūno vaidmuo, nėra visiškai
     aišku, bet tikra, kad visų pirma buvo karinis.
-  citata_rodoma: |
-    Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­
-    niūnas“, kaip jį vadina Dlugošas; juo buvo Mikalojus Masko­
-    ževskis, pasiųstas į Lietuvą 1389 m. ir savo pareigas ėjęs
-    vienus metus. Kokis buvo to seniūno vaidmuo, nėra visiškai
-    aišku, bet tikra, kad visų pirma buvo karinis.
+  citata_rodoma: "Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­\nniūnas“, kaip jį vadina Dlugošas; juo buvo Mikalojus Masko­\nževskis, pasiųstas į Lietuvą 1389 m. ir savo pareigas ėjęs\nvienus metus. Kokis buvo to seniūno vaidmuo, nėra visiškai\naišku, bet tikra, kad visų pirma buvo karinis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35228
+    - t-001

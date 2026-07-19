@@ -38,7 +38,6 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
 
 <a id="claim-t-22021"></a>
 - t-001
-  global_id: t-22021
   teiginys: "Įtvirtindama demokratines vertybes Lietuva siekė vykdyti religinio turto restituciją ir grąžinti žydų kultūros vertybes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,12 +75,11 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
     tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti
     prieš antisemitizmą ir rasinį bei religinį nepakantumą, garantuoti žodžio,
     spaudos, rinkimų laisvę.
-  citata_rodoma: |
-    tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti
+  citata_rodoma: "tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22021
+    - t-001

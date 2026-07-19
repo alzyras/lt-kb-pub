@@ -37,8 +37,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 ## Teiginiai
 
 <a id="claim-t-86026"></a>
-- t-001
-  global_id: t-86026
+- t-003
   teiginys: "Sutartis su stiklo liejyklos savininku Paleckiu išlaisvino Vilnių nuo stiklo monopolio grėsmės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 
 <a id="claim-t-86027"></a>
 - t-002
-  global_id: t-86027
   teiginys: "1547 m. Paleckio liejyklai skirtas sklypas buvo už Vilijos, tarp karaliaus šunidės ir Hlebavičiaus plytinės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     - c-82005
 
 <a id="claim-t-86028"></a>
-- t-003
-  global_id: t-86028
+- t-001
   teiginys: "Martynas Paleckis gavo sklypą už Vilijos ir leidimą steigti stiklo liejyklą prie Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,7 +116,8 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86027
+    - t-002
+
 - id: c-82006
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -146,7 +144,8 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86028
+    - t-001
+
 - id: c-82007
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -161,22 +160,12 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     nuo ateityje labai nemalonaus monopolio, kuris būtų smar­
     kiai pakėlęs stiklo kainą miesto gyventojams55. Paleckiui ir
     54
-    Žr.
-  citata_rodoma: |
-    Karališkųjų
-    muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­
-    kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė
-    suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­
-    dė54. Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­
-    raliaus paskirtų senatorių pastangomis, išlaisvino miestą
-    nuo ateityje labai nemalonaus monopolio, kuris būtų smar­
-    kiai pakėlęs stiklo kainą miesto gyventojams55. Paleckiui ir
-    54
-    Žr.
+    Žr. VII priedą.
+  citata_rodoma: "Karališkųjų \nmuitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­\nkesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė \nsuvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­\ndė54. Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­\nraliaus paskirtų senatorių pastangomis, išlaisvino miestą \nnuo ateityje labai nemalonaus monopolio, kuris būtų smar­\nkiai pakėlęs stiklo kainą miesto gyventojams55. Paleckiui ir\n54\nŽr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86026
+    - t-003

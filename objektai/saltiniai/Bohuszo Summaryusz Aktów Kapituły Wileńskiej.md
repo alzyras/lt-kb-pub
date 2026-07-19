@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-88241"></a>
 - t-001
-  global_id: t-88241
   teiginys: "Bohuszo „Summaryusz Aktów Kapituły Wileńskiej“ mini, kad 1556 m. naujosios sektos tapo reformos šalininkų prieglobsčiu ir mokykla."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,24 +75,11 @@ media_all_json: |-
     VILNIAUS MIESTO ISTORIJA// TOMAS
     1556 metų tapo visų reformos šalininkų prieglobsčiu ir mo­
     kykla.
-  citata_rodoma: |
-    45
-    Bohusz  Summaryusz Aktów Kapi­
-    tuły Wileń, MSS., p. 5 pasakoja, kad
-    „kapitula, gavusi žinių apie kažko­
-    kias naujas sektas: Liuterio, Cvinglio
-    ir naujosios krikščionybės, kad jie
-    283
-
-    ## Puslapis 300
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    1556 metų tapo visų reformos šalininkų prieglobsčiu ir mo­
-    kykla.
+  citata_rodoma: "45\nBohusz  Summaryusz Aktów Kapi­\ntuły Wileń, MSS., p. 5 pasakoja, kad \n„kapitula, gavusi žinių apie kažko­\nkias naujas sektas: Liuterio, Cvinglio \nir naujosios krikščionybės, kad jie\n283\n\n## Puslapis 300\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\n1556 metų tapo visų reformos šalininkų prieglobsčiu ir mo­\nkykla."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88241
+    - t-001

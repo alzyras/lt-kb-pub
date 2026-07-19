@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-20974"></a>
 - t-001
-  global_id: t-20974
   teiginys: "Liaudyje nacių kolaborantai paniekinamai vadinti „žydšaudžiais“, nes žydų naikinimas kėlė didelį visuomenės pasipiktinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,12 +70,11 @@ media_all_json: |-
     menės dalis, rizikuodama gyvybe (buvo ir sušaudytų už žydų slėpimą),
     bandė padėti žydams, gelbėti, nemažai žydų išgelbėjo katalikų kunigai,
     vienuolės, paprasti valstiečiai.
-  citata_rodoma: |
-    se, liaudyje jie paniekinamai vadinti „žydšaudžiais“. Kita lietuvių visuo-
+  citata_rodoma: "se, liaudyje jie paniekinamai vadinti „žydšaudžiais“. Kita lietuvių visuo-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20974
+    - t-001

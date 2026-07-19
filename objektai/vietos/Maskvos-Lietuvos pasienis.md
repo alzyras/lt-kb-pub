@@ -31,7 +31,6 @@ p. 88, Polocko praradimas ir Ulos mūšis, karo veiksmai persikelia į Maskvos-L
 
 <a id="claim-t-41915"></a>
 - t-001
-  global_id: t-41915
   teiginys: "Po Polocko praradimo ir Ulos mūšio karo veiksmai persikėlė į Maskvos-Lietuvos pasienį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ p. 88, Polocko praradimas ir Ulos mūšis, karo veiksmai persikelia į Maskvos-L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41915
+    - t-001

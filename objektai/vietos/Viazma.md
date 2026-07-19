@@ -43,8 +43,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
 ## Teiginiai
 
 <a id="claim-t-69558"></a>
-- t-001
-  global_id: t-69558
+- t-002
   teiginys: "Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos paliaubos."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
     - c-32520
 
 <a id="claim-t-69559"></a>
-- t-002
-  global_id: t-69559
+- t-001
   teiginys: "Vytautas, pasiuntęs belaisvį Hlebą į Krokuvą, užėmė Smolensko leną Viazmą ir naujai prijungtose žemėse paskyrė vietininkus."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,6 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
 
 <a id="claim-t-69560"></a>
 - t-003
-  global_id: t-69560
   teiginys: "Viazmos kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,9 +95,9 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   pagrindžia:
     - c-37797
     - c-167693
+
 <a id="claim-t-184406"></a>
-- t-004
-  global_id: t-184406
+- t-005
   teiginys: "Maskviečiai nesėkmingai apgulė Viazmą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -119,8 +116,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
     - c-167771
 
 <a id="claim-t-187669"></a>
-- t-005
-  global_id: t-187669
+- t-007
   teiginys: "Šaltinio pastaboje Viazmos užėmimas siejamas su vėlesniu laiku, 1493 m. žiema iki vasario vidurio."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -180,7 +176,8 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69558
+    - t-002
+
 - id: c-37797
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -198,7 +195,8 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69560
+    - t-003
+
 - id: c-68864
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -219,7 +217,8 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69559
+    - t-001
+
 - id: c-167693
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -232,10 +231,12 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
     ris juos sumušė ir, paėmęs į nelaisvę, nusiuntė Vytautui.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-167771
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -252,7 +253,8 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184406
+    - t-005
+
 - id: c-170610
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -264,20 +266,15 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
     100 km | vakarus nuo Kalugos) ir Rohačevas (prie Chlepenio Į pie­
     tus nuo Rževo). Viazma, matyt, buvo užimta vėliau, 1493 m, žie­
     mų ligi įh vasario.
-  citata_rodoma: |
-    Išskyrus ViaznuĮ. visi aukščiau išvardytieji LDK rytų pasienio
-    miestai, kaip maskvėnų užimti, y ra minimi Aleksandro 1492.IX 27
-    rašte (instrukcijoje); papildomai ten dar nurodytas Mosalskas (apie
-    100 km | vakarus nuo Kalugos) ir Rohačevas (prie Chlepenio Į pie­
-    tus nuo Rževo). Viazma, matyt, buvo užimta vėliau, 1493 m, žie­
-    mų ligi įh vasario.
+  citata_rodoma: "Išskyrus ViaznuĮ. visi aukščiau išvardytieji LDK rytų pasienio \nmiestai, kaip maskvėnų užimti, y ra minimi Aleksandro 1492.IX 27 \nrašte (instrukcijoje); papildomai ten dar nurodytas Mosalskas (apie \n100 km | vakarus nuo Kalugos) ir Rohačevas (prie Chlepenio Į pie­\ntus nuo Rževo). Viazma, matyt, buvo užimta vėliau, 1493 m, žie­\nmų ligi įh vasario."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187669
+    - t-007
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Ivanas Vasiljevičius]]
 - Užėmė Viazmą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

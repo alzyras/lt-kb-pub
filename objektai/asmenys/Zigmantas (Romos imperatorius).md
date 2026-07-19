@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87379"></a>
-- t-001
-  global_id: t-87379
+- t-003
   teiginys: "Zigmantas po nesėkmingų svarstymų išsiuntė pas Vytautą pasiuntinius su karūna."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-83361
 
 <a id="claim-t-87380"></a>
-- t-002
-  global_id: t-87380
+- t-004
   teiginys: "Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ media_all_json: |-
     - c-83362
 
 <a id="claim-t-87381"></a>
-- t-003
-  global_id: t-87381
+- t-005
   teiginys: "Imperatorius Zigmantas ir didysis magistras siekė nutraukti Lietuvos ir Lenkijos sąjungą, tačiau jų sumanymai žlugo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +89,7 @@ media_all_json: |-
     - c-83358
 
 <a id="claim-t-87382"></a>
-- t-004
-  global_id: t-87382
+- t-002
   teiginys: "Imperatorius Zigmantas siekė sukiršinti Jogailą su Vytautu ir atskirti Lietuvą nuo Lenkijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,8 +105,7 @@ media_all_json: |-
     - c-83359
 
 <a id="claim-t-87383"></a>
-- t-005
-  global_id: t-87383
+- t-001
   teiginys: "1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos santykį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,8 +124,7 @@ media_all_json: |-
     - c-83360
 
 <a id="claim-t-193410"></a>
-- t-006
-  global_id: t-193410
+- t-007
   teiginys: "Kojelavičiaus pasakojime Zigmantas pareiškė nepalaikysiąs lenkų kare su kryžiuočiais ir kurstė Vytautą atskirti Lietuvą nuo Lenkijos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -143,8 +137,7 @@ media_all_json: |-
     - c-176132
 
 <a id="claim-t-193411"></a>
-- t-007
-  global_id: t-193411
+- t-008
   teiginys: "Kojelavičius vaizduoja Zigmantą susitikime su Vytautu išliaupsinus Vytautą ir Lietuvą, kad palenktų jį dėl karaliaus vainiko."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -157,8 +150,7 @@ media_all_json: |-
     - c-176133
 
 <a id="claim-t-193412"></a>
-- t-008
-  global_id: t-193412
+- t-009
   teiginys: "Zigmantas sukvieIšsiskiisto Lucko sutė Korčine seimą, norėdamas, važiavimo dalyviai kad karalystės luomai nuspręstų, kaip dera priešintis nesaikingiems Vytauto potroškiams."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -170,8 +162,7 @@ media_all_json: |-
     - c-176134
 
 <a id="claim-t-193414"></a>
-- t-009
-  global_id: t-193414
+- t-011
   teiginys: "Zigmantas nekvaršina sau tokiais tuščiais rūpesčiais galvos, tegu paskirtą dieną laukia pažadėtų Lietuvos karaliaus insignijų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -183,8 +174,7 @@ media_all_json: |-
     - c-176136
 
 <a id="claim-t-194019"></a>
-- t-010
-  global_id: t-194019
+- t-012
   teiginys: "Vokietijos imperatorius Zigmantas, o ne Jogaila, iškėlė pasiūlymą, kad Vytautas siektų karaliaus vainiko."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -197,8 +187,7 @@ media_all_json: |-
     - c-176644
 
 <a id="claim-t-194246"></a>
-- t-011
-  global_id: t-194246
+- t-013
   teiginys: "Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie tuvos ir daugelio kitų patikimų liudytojų, ten buvusių."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -210,8 +199,7 @@ media_all_json: |-
     - c-176842
 
 <a id="claim-t-196653"></a>
-- t-012
-  global_id: t-196653
+- t-015
   teiginys: "Kojelavičiaus pasakojime Zigmantas, gavęs slaptų laiškų iš kai kurių lenkų, atnaujino viltis dėl Vytauto vainikavimo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -224,8 +212,7 @@ media_all_json: |-
     - c-178820
 
 <a id="claim-t-196654"></a>
-- t-013
-  global_id: t-196654
+- t-016
   teiginys: "Popiežius, gavęs Jogailos pranešimą, paragino Zigmantą ir Vytautą atsisakyti Vytauto vainikavimo sumanymo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -238,8 +225,7 @@ media_all_json: |-
     - c-176136
 
 <a id="claim-t-196883"></a>
-- t-014
-  global_id: t-196883
+- t-017
   teiginys: "Zigmantas liguruoja tarp kitų liudininkų Ldk Švitrigailos sutartyje su kryžiuočiais."
   atnaujinta: "2026-07-12 22:29"
   sprendimo_priezastis: "auto"
@@ -251,8 +237,7 @@ media_all_json: |-
     - c-178963
 
 <a id="claim-t-200710"></a>
-- t-015
-  global_id: t-200710
+- t-018
   teiginys: "Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo imperatorius Zigmantas iš Vytauto gavo brangakmeniais puoštą tauro ragą."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -481,7 +466,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87381
+    - t-005
 
 - id: c-83359
   autorius: "Michał Baliński"
@@ -511,7 +496,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87382
+    - t-002
 
 - id: c-83360
   autorius: "Michał Baliński"
@@ -553,7 +538,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87383
+    - t-001
 
 - id: c-83361
   autorius: "Michał Baliński"
@@ -576,7 +561,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87379
+    - t-003
 
 - id: c-83362
   autorius: "Michał Baliński"
@@ -600,7 +585,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87380
+    - t-004
 
 - id: c-176132
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -623,7 +608,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193410
+    - t-007
 
 - id: c-176133
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -649,7 +634,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193411
+    - t-008
 
 - id: c-176134
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -687,7 +672,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193412
+    - t-009
 
 - id: c-176136
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -721,8 +706,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193414
-    - t-196654
+    - t-011
+    - t-016
 
 - id: c-176644
   autorius: "Anoniminis metraštininkas"
@@ -742,7 +727,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194019
+    - t-012
 
 - id: c-176842
   autorius: "Michał Baliński"
@@ -760,7 +745,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194246
+    - t-013
 
 - id: c-178820
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -786,7 +771,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196653
+    - t-015
 
 - id: c-178963
   autorius: "Anoniminis metraštininkas"
@@ -804,7 +789,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196883
+    - t-017
 
 - id: c-184055
   autorius: "Rimvydas Laužikas"
@@ -814,11 +799,8 @@ media_all_json: |-
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200710
+    - t-018
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Barbora Cyleikaitė]]

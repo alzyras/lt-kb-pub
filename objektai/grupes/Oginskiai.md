@@ -3,6 +3,7 @@ tipas: grupe
 pavadinimas: 'Oginskiai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,13 +26,12 @@ media_all_json: |-
 
 ## Santrauka
 
-giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai, Oginskiai ir kt.
+XVI a. Oginskiai buvo viena iš įtakingų rusėnų kilmės giminių, laikiusių save LDK piliečiais.
 
 ## Teiginiai
 
 <a id="claim-t-19958"></a>
 - t-001
-  global_id: t-19958
   teiginys: "XVI a. Oginskiai buvo viena iš įtakingų rusėnų kilmės giminių, laikiusių save LDK piliečiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,12 +70,11 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
     Iš įtakingiausių XVI a. giminių lietuviškos kilmės yra tik Goštautai ir
     Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,
     Oginskiai ir kt.  – rusėnai, tačiau laikantys save LDK piliečiais.
-  citata_rodoma: |
-    Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,
+  citata_rodoma: "Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19958
+    - t-001

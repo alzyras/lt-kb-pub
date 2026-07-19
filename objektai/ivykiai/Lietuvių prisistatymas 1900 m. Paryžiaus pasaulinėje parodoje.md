@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-24532"></a>
 - t-001
-  global_id: t-24532
   teiginys: "1900 m. Paryžiaus pasaulinės parodos etnografiniame skyriuje lietuviai parengė ekspoziciją su tautiniais drabužiais, ūkio padargais ir lietuviška spauda."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,21 +82,11 @@ Nenurodyta
     čiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspo-
     ziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų,
     kitų daiktų, o svarbiausia – slapta Prūsijoje leidžiamos lietuvių spaudos
-  citata_rodoma: |
-    Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje
-    parodoje. Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautie-
-    čiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspo-
-    ziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų,
-    kitų daiktų, o svarbiausia – slapta Prūsijoje leidžiamos lietuvių spaudos
-
-    L I E T U V O S  I S T O R I J A
-    122
-    pavyzdžių. Taip pasauliui buvo pasiųsta žinia, kad caro valdžia draudžia
-    spaudą lietuvių – lotynų abėcėle ir kad yra tokia šalis – Lietuva.
+  citata_rodoma: "Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje \nparodoje. Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautie-\nčiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspo-\nziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų, \nkitų daiktų, o svarbiausia – slapta Prūsijoje leidžiamos lietuvių spaudos\n\nL I E T U V O S  I S T O R I J A\n122\npavyzdžių. Taip pasauliui buvo pasiųsta žinia, kad caro valdžia draudžia \nspaudą lietuvių – lotynų abėcėle ir kad yra tokia šalis – Lietuva."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-24532
+    - t-001

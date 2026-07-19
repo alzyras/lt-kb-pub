@@ -31,7 +31,6 @@ Dusburgietis teigia, kad zioka Skomackas Skomantai Skomanto ež.
 
 <a id="claim-t-58726"></a>
 - t-001
-  global_id: t-58726
   teiginys: "Zioka Skomackas Skomantai Skomanto ež."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,17 +62,11 @@ Dusburgietis teigia, kad zioka Skomackas Skomantai Skomanto ež.
     Skorpiono žvaigždynas
     Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas)
     Skronaitė (Scroneyte, Scroneiten), p.
-  citata_rodoma: |
-    Zioka
-    Skomackas
-    Skomantai
-    Skomanto ež. (Skomentner-See, dab. j. Skomętno)
-    Skomanto kalnas (Skomentberg)
-    Skomanto sodyba, p.
+  citata_rodoma: "Zioka\nSkomackas\nSkomantai\nSkomanto ež. (Skomentner-See, dab. j. Skomętno)\nSkomanto kalnas (Skomentberg)\nSkomanto sodyba, p."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58726
+    - t-001

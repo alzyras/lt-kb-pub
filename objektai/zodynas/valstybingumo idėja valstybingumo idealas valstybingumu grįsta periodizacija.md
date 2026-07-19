@@ -43,8 +43,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-32811"></a>
-- t-001
-  global_id: t-32811
+- t-002
   teiginys: "Valstybingumu grįsta periodizacija laikoma vienašališkai politine, nes remiasi dinastiniais ir politiniais pasikeitimais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ media_all_json: |-
     - c-32691
 
 <a id="claim-t-32812"></a>
-- t-002
-  global_id: t-32812
+- t-001
   teiginys: "Komunistiniai istorikai atmetė periodizaciją, kurios pagrindas buvo lietuvių tautos valstybingumo idėja."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +98,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32811
+    - t-002
+
 - id: c-34179
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -114,16 +113,11 @@ media_all_json: |-
     idėja, t. y., Lietuvos valstybės išsivystymas (iki 1385), jos susti­
     prėjimas (iki 1492), silpnėjimas (nuo 1572 m.), žlugimas (1795) ir
     atstatymas tautinės valstybės (1918).
-  citata_rodoma: |
-    Žinoma, komunistiniai istorikai turėjo atmesti periodizaciją,
-    kurios pagrindan yra dedama lietuvių tautos valstybingumo
-    idėja, t. y., Lietuvos valstybės išsivystymas (iki 1385), jos susti­
-    prėjimas (iki 1492), silpnėjimas (nuo 1572 m.), žlugimas (1795) ir
-    atstatymas tautinės valstybės (1918).
+  citata_rodoma: "Žinoma, komunistiniai istorikai turėjo atmesti periodizaciją,\nkurios pagrindan yra dedama lietuvių tautos valstybingumo\nidėja, t. y., Lietuvos valstybės išsivystymas (iki 1385), jos susti­\nprėjimas (iki 1492), silpnėjimas (nuo 1572 m.), žlugimas (1795) ir\natstatymas tautinės valstybės (1918)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32812
+    - t-001

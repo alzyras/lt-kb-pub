@@ -31,7 +31,6 @@ Jo laikais jau būdavo saugu visuose kraštuose, ku­ riuos jis valdė, Vilniuje
 
 <a id="claim-t-86813"></a>
 - t-001
-  global_id: t-86813
   teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Jo laikais jau būdavo saugu visuose kraštuose, ku­ riuos jis valdė, Vilniuje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86813
+    - t-001

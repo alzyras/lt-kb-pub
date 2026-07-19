@@ -28,7 +28,6 @@ Mikalojus Vorobjovas Vilnių apibūdino kaip miestą, kupiną tapybiškų kampel
 
 <a id="claim-t-200837"></a>
 - t-001
-  global_id: t-200837
   teiginys: "Mikalojus Vorobjovas Vilnių apibūdino kaip miestą, kupiną tapybiškų kampelių, kreivų gatvių, kiemų ir netikėtų vaizdų."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ Mikalojus Vorobjovas Vilnių apibūdino kaip miestą, kupiną tapybiškų kampel
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200837
+    - t-001

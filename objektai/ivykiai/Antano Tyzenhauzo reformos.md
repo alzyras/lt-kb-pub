@@ -54,8 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66449"></a>
-- t-001
-  global_id: t-66449
+- t-002
   teiginys: "Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-166604
 
 <a id="claim-t-66450"></a>
-- t-002
-  global_id: t-66450
+- t-001
   teiginys: "Antano Tyzenhauzo reformos 1767 m. kartais laikomos vienu Apšvietos epochos pradžios ženklų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,15 +112,15 @@ Nenurodyta
     kartais laikomi Apšvietos epochos pradžia.
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
     sąjunga, sukurta Liublino unijos.
-  citata_rodoma: |
-    Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje
+  citata_rodoma: "Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66450
+    - t-001
+
 - id: c-166604
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -146,4 +144,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66449
+    - t-002

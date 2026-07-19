@@ -36,8 +36,7 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
 ## Teiginiai
 
 <a id="claim-t-74646"></a>
-- t-001
-  global_id: t-74646
+- t-002
   teiginys: "Lietuvos demokratų partija leido nelegalią spaudą, bendradarbiavo su socialdemokratais ir per masonų ložes tarėsi dėl valstybingumo."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
     - c-22595
 
 <a id="claim-t-74647"></a>
-- t-002
-  global_id: t-74647
+- t-001
   teiginys: "Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu, buvo liberali krikščionių demokratų konkurentė lietuvių tautiniame sąjūdyje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -73,9 +71,9 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
   pagrindžia:
     - c-22594
     - c-166538
+
 <a id="claim-t-74648"></a>
 - t-003
-  global_id: t-74648
   teiginys: "Lietuvos demokratų programinis idealas – nepriklausoma demokratinė Lietuvos Respublika lietuvių istorinių etnografinių žemių ribose, „su teisingu turto paskirstymu“ ir federacijos ryšiais susijusi su gretimomis demokratinėmis valstybėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,17 +105,15 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
     Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių
     tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi
     1902 m. „Varpą“ leidusios organizacijos pagrindu.
-  citata_rodoma: |
-    Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių
-    tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi
-    1902 m. „Varpą“ leidusios organizacijos pagrindu.
+  citata_rodoma: "Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių\ntautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi\n1902 m. „Varpą“ leidusios organizacijos pagrindu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74647
+    - t-001
+
 - id: c-22595
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,18 +128,15 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
     socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valsty-
     bingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuome-
     nės veikėjais, tačiau bendros kalbos nerado.
-  citata_rodoma: |
-    Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos
-    socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valsty-
-    bingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuome-
-    nės veikėjais, tačiau bendros kalbos nerado.
+  citata_rodoma: "Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos\nsocialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valsty-\nbingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuome-\nnės veikėjais, tačiau bendros kalbos nerado."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74646
+    - t-002
+
 - id: c-72687
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -166,7 +159,8 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74648
+    - t-003
+
 - id: c-166538
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -185,3 +179,5 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

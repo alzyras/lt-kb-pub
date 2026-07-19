@@ -31,7 +31,6 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
 
 <a id="claim-t-186262"></a>
 - t-001
-  global_id: t-186262
   teiginys: "Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaikščių valdų prijungimo prie Maskvos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
 
 <a id="claim-t-196614"></a>
 - t-002
-  global_id: t-196614
   teiginys: "Vaitiekus Kiočka neįstengė sugrąžinti didikų atgal prie karaliaus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -83,6 +81,7 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-169623
@@ -118,22 +117,12 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
     sitarimą su Rytų bažnyčia ti­
     kėjimo reikalais, tuo užgaudamas p ase k ėju s Rytų schi­
     zmos, kurios atkakliai laikėsi Seversko didikai.
-  citata_rodoma: |
-    K as be ko, sunki bausmė, bet ir ji neįsten­
-    gė sugrąžinti didikų atgal prie karaliaus. Įžeistos širdys
-    visur pradėjo matyti įžeidinėjimą ir godžiai klausytis
-    tų, kurie patarė atsiskirti. Visa tai, kas tarp jų ir kitų
-    Lietuvos didikų Vilniuje dėjosi, nors šitaip n eišv en g ia­
-    m ai ir turėjo dėtis tarp skirtingo tikėjimo bei auklėji­
-    mo žmonių, jie d a b a r suprato kaip sav ęs niekinimą ir
-    pradėjo taip nekęsti Lietuvos, kad n e t įniko veidmainin­
-    gai skųstis, jog, juos priimant, buvęs užgautas jų oru­
-    mas.
+  citata_rodoma: "K as be ko, sunki bausmė, bet ir ji neįsten­\ngė sugrąžinti didikų atgal prie karaliaus. Įžeistos širdys \nvisur pradėjo matyti įžeidinėjimą ir godžiai klausytis \ntų, kurie patarė atsiskirti. Visa tai, kas tarp jų ir kitų \nLietuvos didikų Vilniuje dėjosi, nors šitaip n eišv en g ia­\nm ai ir turėjo dėtis tarp skirtingo tikėjimo bei auklėji­\nmo žmonių, jie d a b a r suprato kaip sav ęs niekinimą ir \npradėjo taip nekęsti Lietuvos, kad n e t įniko veidmainin­\ngai skųstis, jog, juos priimant, buvęs užgautas jų oru­\nmas."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186262
-    - t-196614
+    - t-001
+    - t-002

@@ -60,7 +60,6 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
 
 <a id="claim-t-55130"></a>
 - t-001
-  global_id: t-55130
   teiginys: "1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::events"
@@ -80,7 +79,6 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
 
 <a id="claim-t-55131"></a>
 - t-002
-  global_id: t-55131
   teiginys: "Balińskio manymu, po Romainių sunaikinimo Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais galėjo būti perkelti į Vilnių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::events"
@@ -138,5 +136,5 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55130
-    - t-55131
+    - t-001
+    - t-002

@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75108"></a>
-- t-001
-  global_id: t-75108
+- t-002
   teiginys: "Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Nenurodyta
     - c-73023
 
 <a id="claim-t-75109"></a>
-- t-002
-  global_id: t-75109
+- t-003
   teiginys: "1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,8 +81,7 @@ Nenurodyta
     - c-73024
 
 <a id="claim-t-75110"></a>
-- t-003
-  global_id: t-75110
+- t-001
   teiginys: "Romo Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,8 +90,7 @@ Nenurodyta
     - c-73022
 
 <a id="claim-t-183227"></a>
-- t-004
-  global_id: t-183227
+- t-005
   teiginys: "Po Kauno protestų iš daugiau kaip 3 000 aktyvių dalyvių buvo suimta per 400 žmonių, o aštuoni nuteisti kalėti nuo vienerių iki trejų metų."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -124,15 +120,15 @@ Nenurodyta
     paniką. Sovietiniai saugumiečiai paskubėjo R. Kalantą slapta palaidoti
     anksčiau paskelbto laiko. Susirinkę į laidotuves žmonės pasipiktino valdžios
     savivale.
-  citata_rodoma: |
-    anksčiau paskelbto laiko. Susirinkę į laidotuves žmonės pasipiktino valdžios
+  citata_rodoma: "anksčiau paskelbto laiko. Susirinkę į laidotuves žmonės pasipiktino valdžios"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75110
+    - t-001
+
 - id: c-73023
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -144,15 +140,15 @@ Nenurodyta
     sakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų). Siekdama
     sumenkinti šį įvykį, sovietų valdžia paskelbė, kad R. Kalantos susideginimo
     priežastis – sunki psichikos liga šizofrenija.
-  citata_rodoma: |
-    sumenkinti šį įvykį, sovietų valdžia paskelbė, kad R. Kalantos susideginimo
+  citata_rodoma: "sumenkinti šį įvykį, sovietų valdžia paskelbė, kad R. Kalantos susideginimo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75108
+    - t-002
+
 - id: c-73024
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -180,28 +176,15 @@ Nenurodyta
     kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
     džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
     Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“.
-  citata_rodoma: |
-    Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.
-    gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius
-
-    VI s k y r i u s
-    DAINUOJANTI
-    REVOLIUCIJA
-    SU SĄJŪDŽIU UŽ LIETUVĄ
-    S
-    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
-    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
-    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
-    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
-    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
-    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“.
+  citata_rodoma: "Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.  \ngegužės 18 d. KGB numeriais pažymėjo eisenos lyderius\n\nVI s k y r i u s\nDAINUOJANTI  \nREVOLIUCIJA\nSU SĄJŪDŽIU UŽ LIETUVĄ\nS\nSRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos \npolitiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar \nGruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-\nkevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-\ndžias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui \nNikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75109
+    - t-003
+
 - id: c-166614
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -219,4 +202,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183227
+    - t-005

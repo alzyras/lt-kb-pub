@@ -38,8 +38,7 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
 ## Teiginiai
 
 <a id="claim-t-51024"></a>
-- t-001
-  global_id: t-51024
+- t-004
   teiginys: "Vytautas buvo pašauktas būti karalaitės Jadvygos globėju ir nuo tada turėjo ryškią įtaką Lenkijos reikaluose."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
 
 <a id="claim-t-51025"></a>
 - t-002
-  global_id: t-51025
   teiginys: "Horodlėje karalaitė Jadvyga buvo pripažinta Lenkijos sosto įpėdine, o Vytautas paskirtas jos globėju."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
     - c-36328
 
 <a id="claim-t-51026"></a>
-- t-003
-  global_id: t-51026
+- t-001
   teiginys: "Jogailos duktės Jadvygos vardu buvo įteiktas protestas prieš Žemaičių krašto atidavimą Ordinui po tėvų mirties."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -90,8 +87,7 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
     - c-52677
 
 <a id="claim-t-51027"></a>
-- t-004
-  global_id: t-51027
+- t-003
   teiginys: "Horodlės unijos kontekste Jogailos duktė Jadvyga buvo pripažinta Lenkijos karalaite ir jai duota ištikimybės priesaika."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -110,7 +106,6 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
 
 <a id="claim-t-51028"></a>
 - t-005
-  global_id: t-51028
   teiginys: "Karalaitė Jadvyga buvo pavesta Vytauto globai, nuo kurios prasidėjo ryški jo įtaka lenkų reikaluose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,7 +143,8 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-51025
+    - t-002
+
 - id: c-36330
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -168,25 +164,16 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
     Mozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­
     rūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui
     Vyt. dėkingas už Poznaniaus mitrą.
-  citata_rodoma: |
-    Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­
-    davo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­
-    grindinių reikalų, kai ėjo klausimas apie karalijos santvarką,
-    apie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi
-    nuo tos valandos, kai jis buvo pašauktas būti karalaitės Jad­
-    vygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.
-    Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to
-    meto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­
-    davosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­
-    tarimo, dažniausiai jo paramos.
+  citata_rodoma: "Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­\ndavo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­\ngrindinių reikalų, kai ėjo klausimas apie karalijos santvarką,\napie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi\nnuo tos valandos, kai jis buvo pašauktas būti karalaitės Jad­\nvygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.\nIš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to\nmeto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­\ndavosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­\ntarimo, dažniausiai jo paramos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-51024
-    - t-51028
+    - t-004
+    - t-005
+
 - id: c-52677
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -206,7 +193,8 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-51026
+    - t-001
+
 - id: c-52678
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -226,6 +214,7 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-51027
+    - t-003
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

@@ -40,7 +40,6 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 
 <a id="claim-t-101639"></a>
 - t-001
-  global_id: t-101639
   teiginys: "Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o valdžia pradėjo labiau pasitikėti vietiniais lietuviais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-21705
 
 <a id="claim-t-101640"></a>
-- t-002
-  global_id: t-101640
+- t-009
   teiginys: "J. Stalino laikais okupacinė valdžia siekė fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-21710
 
 <a id="claim-t-101641"></a>
-- t-003
-  global_id: t-101641
+- t-006
   teiginys: "J. Stalino laikais okupacinė valdžia stengėsi fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-21710
 
 <a id="claim-t-101642"></a>
-- t-004
-  global_id: t-101642
+- t-008
   teiginys: "Sovietinėje Lietuvoje mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,7 +113,6 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 
 <a id="claim-t-101643"></a>
 - t-005
-  global_id: t-101643
   teiginys: "J. Stalino veikalus mokytojai buvo verčiami studijuoti kartu su V. Lenino ir Karlo Markso veikalais."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -133,8 +128,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-21709
 
 <a id="claim-t-101644"></a>
-- t-006
-  global_id: t-101644
+- t-004
   teiginys: "J. Stalinas buvo vaizduojamas statulomis, statytomis Lietuvos valstybingumą liudijusių paminklų vietose."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -152,8 +146,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-21708
 
 <a id="claim-t-101645"></a>
-- t-007
-  global_id: t-101645
+- t-002
   teiginys: "Lietuvoje tikėta, kad Vakarai pakils į žygį prieš J. Stalino SSRS ir padės sugrąžinti nepriklausomybę dėl karo jos netekusioms šalims."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -173,8 +166,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-21706
 
 <a id="claim-t-101646"></a>
-- t-008
-  global_id: t-101646
+- t-007
   teiginys: "Stalino statulų, prikabinėta komunistinių šūkių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -192,8 +184,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-21708
 
 <a id="claim-t-101647"></a>
-- t-009
-  global_id: t-101647
+- t-003
   teiginys: "J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant išrauti bet kokį tautiškumą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -225,15 +216,15 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     ventojų nacionalistines nuotaikas ir apsunkina jų auklėjimą „tautų drau-
     gystės“ dvasia, šeštąjį–septintąjį dešimtmetį į Lietuvą grįžo apie 60 tūkst.
     tremtinių ir apie 20 tūkst. politinių kalinių.
-  citata_rodoma: |
-    džia pradėjo labiau pasitikėti vietiniais lietuviais. Visoje SSRS kalinius ir
+  citata_rodoma: "džia pradėjo labiau pasitikėti vietiniais lietuviais. Visoje SSRS kalinius ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101639
+    - t-001
+
 - id: c-21706
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -246,15 +237,15 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     ruoštasi kovojant, kad atėjus metui būtų galima paimti valdžią į savo ran-
     kas. Partizanų būriai, pradėję kurtis 1944 m. vasaros pabaigoje, greitai di-
     dėjo, susidarė jų rinktinės, apygardos, sritys.
-  citata_rodoma: |
-    pasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais,
+  citata_rodoma: "pasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101645
+    - t-002
+
 - id: c-21707
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -270,15 +261,15 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     Lietuvos kultūros palikimu. Iš bibliotekų pašalintos žymių lietuvių rašytojų
     Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-
     gos, tautinio pobūdžio literatūra.
-  citata_rodoma: |
-    tūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo
+  citata_rodoma: "tūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101647
+    - t-003
+
 - id: c-21708
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -290,16 +281,16 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
     pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
     kabinėta komunistinių šūkių.
-  citata_rodoma: |
-    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
+  citata_rodoma: "vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101644
-    - t-101646
+    - t-004
+    - t-007
+
 - id: c-21709
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -311,19 +302,16 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
     partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
     gą.
-  citata_rodoma: |
-    Mokytojai verčiami studijuoti
-    V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
-    partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
-    gą.
+  citata_rodoma: "Mokytojai verčiami studijuoti \nV. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų \npartijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-\ngą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101642
-    - t-101643
+    - t-008
+    - t-005
+
 - id: c-21710
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -335,16 +323,12 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     kai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-
     čią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo
     130 kunigų.
-  citata_rodoma: |
-    J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-
-    kai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-
-    čią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo
-    130 kunigų.
+  citata_rodoma: "J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-\nkai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-\nčią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo \n130 kunigų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101640
-    - t-101641
+    - t-009
+    - t-006

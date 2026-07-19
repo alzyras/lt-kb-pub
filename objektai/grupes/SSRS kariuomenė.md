@@ -37,7 +37,6 @@ Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek �
 
 <a id="claim-t-19998"></a>
 - t-001
-  global_id: t-19998
   teiginys: "1940 m. birželio 14 d. ultimatumu SSRS pareikalavo, kad Lietuva įsileistų papildomus sovietų karinius dalinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek �
 
 <a id="claim-t-183184"></a>
 - t-002
-  global_id: t-183184
   teiginys: "V. Molotovas J. Urbšiui pareiškė, kad SSRS kariuomenė įžygiuos į Lietuvą nepriklausomai nuo Lietuvos atsakymo."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -108,7 +106,8 @@ Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19998
-    - t-183184
+    - t-001
+    - t-002
+
 ## Ryšiai
 - SSRS kariuomenė keliavo į [[objektai/vietos/Lietuva]]

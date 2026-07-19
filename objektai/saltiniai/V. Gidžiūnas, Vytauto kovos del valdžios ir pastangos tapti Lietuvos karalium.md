@@ -36,7 +36,6 @@ Gidžiūnas, V.
 
 <a id="claim-t-31950"></a>
 - t-001
-  global_id: t-31950
   teiginys: "V. Gidžiūno „Vytauto kovos dėl valdžios ir pastangos tapti Lietuvos karalium“ 1973 m. spausdinta „Karyje“, p. 221–228 ir 266–273."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,14 +68,11 @@ Gidžiūnas, V.
     1938, 323-340 p. — Končius, J. : _Vytautas the Great, Grand Duke of
     Lithuania_ , Miami, Florida 1964, 171-184 p. — Łowmiański, H. : _Witold
     wielki książę Litwy_ , Vilnius 1930.
-  citata_rodoma: |
-    — Gidžiūnas, V. : _Vytauto kovos del valdžios ir pastangos tapti
-    Lietuvos karalium_ , Karys, 1973, 221-228, 266-273 p. — Ivinskis, Z. :
-    _Vytauto karūnacija ir jos reikšmė lietuvių tautai_ , Mūsų Žinynas, m.
+  citata_rodoma: "— Gidžiūnas, V. : _Vytauto kovos del valdžios ir pastangos tapti\nLietuvos karalium_ , Karys, 1973, 221-228, 266-273 p. — Ivinskis, Z. :\n_Vytauto karūnacija ir jos reikšmė lietuvių tautai_ , Mūsų Žinynas, m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31950
+    - t-001

@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-02098"></a>
 - t-001
-  global_id: t-02098
   teiginys: "Burba rašė, kad Šliūpo lietuvystei naudingi darbai priimtini, jei neprieštarauja tikėjimui, nes tautiškuose dalykuose svarbi visuomeniška pažvalga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,17 +63,11 @@ media_all_json: |-
     rašo, o tas veikalas nesipriešina mūsų tikėjimui, tai su džiaugsmu
     turime priimti ir jam dėkoti: tautiškuose dalykuose turi būti visuo-
     meniška pažvalga, o ne asmeniška".
-  citata_rodoma: |
-    Vieną
-    kartą Burba rašė: „P. Šliūpas savo asmeniškomis pažiūromis nėra
-    katalikas, bet jeigu jis, kaipo lietuvis, ką naudingo lietuvystei pa-
-    rašo, o tas veikalas nesipriešina mūsų tikėjimui, tai su džiaugsmu
-    turime priimti ir jam dėkoti: tautiškuose dalykuose turi būti visuo-
-    meniška pažvalga, o ne asmeniška".
+  citata_rodoma: "Vieną\nkartą Burba rašė: „P. Šliūpas savo asmeniškomis pažiūromis nėra\nkatalikas, bet jeigu jis, kaipo lietuvis, ką naudingo lietuvystei pa-\nrašo, o tas veikalas nesipriešina mūsų tikėjimui, tai su džiaugsmu\nturime priimti ir jam dėkoti: tautiškuose dalykuose turi būti visuo-\nmeniška pažvalga, o ne asmeniška\"."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02098
+    - t-001

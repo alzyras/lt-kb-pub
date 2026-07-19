@@ -31,7 +31,6 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
 
 <a id="claim-t-86130"></a>
 - t-001
-  global_id: t-86130
   teiginys: "Pagal padavimus Goštautas pastatydino Šv. Petro bažnyčią Antakalnyje pagonių šventyklos vietoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
 
 <a id="claim-t-86131"></a>
 - t-002
-  global_id: t-86131
   teiginys: "Šv. Petro bažnyčia Antakalnyje tikriausiai pastatyta Vladislovo Jogailos laikais pagonių šventovės vietoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,8 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86131
+    - t-002
+
 - id: c-82110
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -102,4 +101,4 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86130
+    - t-001

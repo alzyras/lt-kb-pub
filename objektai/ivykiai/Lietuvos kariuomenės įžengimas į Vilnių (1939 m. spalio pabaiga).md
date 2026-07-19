@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-75151"></a>
 - t-001
-  global_id: t-75151
   teiginys: "1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-73051
 
 <a id="claim-t-75152"></a>
-- t-002
-  global_id: t-75152
+- t-003
   teiginys: "Vilniaus, istorinės sostinės, atgavimas buvo šviesus įvykis niūrioje Lietuvos priklausomybės nuo SSRS situacijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,22 +113,12 @@ Nenurodyta
     istorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje,
     o Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus po-
     sakis „Vilnius mūsų, o mes rusų“).
-  citata_rodoma: |
-    Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
-    va prarado neutralios politikos statusą ir dalį suvereniteto. Tik Vilniaus,
-    Lietuvos kariuomenė įžengia į Vilnių
-    (1939 m. spalio pabaiga)
-
-    L I E T U V O S  I S T O R I J A
-    186
-    istorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje,
-    o Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus po-
-    sakis „Vilnius mūsų, o mes rusų“).
+  citata_rodoma: "Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-\nva prarado neutralios politikos statusą ir dalį suvereniteto. Tik Vilniaus, \nLietuvos kariuomenė įžengia į Vilnių  \n(1939 m. spalio pabaiga)\n\nL I E T U V O S  I S T O R I J A\n186\nistorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje, \no Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus po-\nsakis „Vilnius mūsų, o mes rusų“)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75151
-    - t-75152
+    - t-001
+    - t-003

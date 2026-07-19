@@ -37,8 +37,7 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
 ## Teiginiai
 
 <a id="claim-t-19943"></a>
-- t-001
-  global_id: t-19943
+- t-002
   teiginys: "1928 m. gegužės 15 d. A. Smetona, pritariamas viso Ministerių kabineto, nauja konstitucija įteisino savo viršenybę prieš Seimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
     - c-22674
 
 <a id="claim-t-19944"></a>
-- t-002
-  global_id: t-19944
+- t-001
   teiginys: "K. Grinius atstatydino M. Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautininkui A. Voldemarui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,15 +86,15 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
     Spaudžiant perversmininkams prezidentas K. Grinius, gavęs valstiečių
     liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
     ir naują Ministrų kabinetą pavedė sudaryti tautininkui A. Voldemarui.
-  citata_rodoma: |
-    liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
+  citata_rodoma: "liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19944
+    - t-001
+
 - id: c-22674
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -110,12 +108,11 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
     ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus. Konstitu-
     cija iš esmės užrašė esamą situaciją, įteisindama autoritarinį A. Smetonos
     valdymą.
-  citata_rodoma: |
-    (įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus),
+  citata_rodoma: "(įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus),"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19943
+    - t-002

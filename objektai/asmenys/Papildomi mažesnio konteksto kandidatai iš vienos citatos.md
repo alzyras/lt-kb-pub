@@ -31,7 +31,6 @@ Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyz
 
 <a id="claim-t-87924"></a>
 - t-001
-  global_id: t-87924
   teiginys: "Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyzdžiu kitiems?"
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87924
+    - t-001

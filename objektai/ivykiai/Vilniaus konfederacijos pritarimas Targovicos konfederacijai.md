@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20537"></a>
 - t-001
-  global_id: t-20537
   teiginys: "1792 m. birželio 25 d. Vilniaus, arba Lietuvos, konfederacija pritarė Targovicos konfederacijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,12 +88,11 @@ Nenurodyta
     Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
     Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
     ir Vilniaus vyskupas I. Masalskis.
-  citata_rodoma: |
-    Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
+  citata_rodoma: "Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20537
+    - t-001

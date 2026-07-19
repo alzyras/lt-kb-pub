@@ -45,7 +45,6 @@ Formulė pateikiama kaip patriotinė kovos ir ištvermės ašis, siejama su Vyta
 
 <a id="claim-t-36022"></a>
 - t-001
-  global_id: t-36022
   teiginys: "Posakis „vardan tos Lietuvos“ siejamas su patriotizmu, praeities meile ir jėgomis kovoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,6 +59,7 @@ Formulė pateikiama kaip patriotinė kovos ir ištvermės ašis, siejama su Vyta
   pagrindžia:
     - c-38395
     - c-38394
+
 ## Citatos
 
 - id: c-38394
@@ -81,22 +81,15 @@ Formulė pateikiama kaip patriotinė kovos ir ištvermės ašis, siejama su Vyta
     kuri buvo susidariusi Algirdo ir Kęstučio valdymo laikais, ka­
     da Jogaila nuėjo į Lenkiją jos karalium, o Lietuvą pasiliko val­
     dyti Vytautas?
-  citata_rodoma: |
-    Ir, apskritai, galime
-    drąsiai tvirtinti, kad Vytauto didingumas, genialumas, didvy­
-    riškumas jaudins ir žavės mus, kels didybės laisvės troškimą,
-    stiprins mūsų patriotizmą ir savo praeities meilę bei jėgas ko­
-    voje „vardan tos Lietuvos“ visais laikais, kol bus žemėje lietu­
-    vių tauta.
-    Baigdami šį darbą norėtume dar išspręsti vieną klausimą,
-    būtent, kas atsitiko su tuo Lietuvos valstybės valdymo dualiz­
-    mu^2 ), geriau diarchija^3 ), t.
+  citata_rodoma: "Ir, apskritai, galime\ndrąsiai tvirtinti, kad Vytauto didingumas, genialumas, didvy­\nriškumas jaudins ir žavės mus, kels didybės laisvės troškimą,\nstiprins mūsų patriotizmą ir savo praeities meilę bei jėgas ko­\nvoje „vardan tos Lietuvos“ visais laikais, kol bus žemėje lietu­\nvių tauta.\nBaigdami šį darbą norėtume dar išspręsti vieną klausimą,\nbūtent, kas atsitiko su tuo Lietuvos valstybės valdymo dualiz­\nmu^2 ), geriau diarchija^3 ), t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-38395
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -112,17 +105,11 @@ Formulė pateikiama kaip patriotinė kovos ir ištvermės ašis, siejama su Vyta
     stiprins mūsų patriotizmą ir savo praeities meilę bei jėgas ko­
     voje „vardan tos Lietuvos“ visais laikais, kol bus žemėje lietu­
     vių tauta.
-  citata_rodoma: |
-    Ir, apskritai, galime
-    drąsiai tvirtinti, kad Vytauto didingumas, genialumas, didvy­
-    riškumas jaudins ir žavės mus, kels didybės laisvės troškimą,
-    stiprins mūsų patriotizmą ir savo praeities meilę bei jėgas ko­
-    voje „vardan tos Lietuvos“ visais laikais, kol bus žemėje lietu­
-    vių tauta.
+  citata_rodoma: "Ir, apskritai, galime\ndrąsiai tvirtinti, kad Vytauto didingumas, genialumas, didvy­\nriškumas jaudins ir žavės mus, kels didybės laisvės troškimą,\nstiprins mūsų patriotizmą ir savo praeities meilę bei jėgas ko­\nvoje „vardan tos Lietuvos“ visais laikais, kol bus žemėje lietu­\nvių tauta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36022
+    - t-001

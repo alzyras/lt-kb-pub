@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78691"></a>
-- t-001
-  global_id: t-78691
+- t-004
   teiginys: "1920 m. spalio 10 d. „Gediminas“ grįžo į Kauną, kur buvo įrengti nauji kulkosvaidžių vagonai ir patobulinti mūšiuose naudoti vagonai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-42596
 
 <a id="claim-t-78692"></a>
-- t-002
-  global_id: t-78692
+- t-003
   teiginys: "Rugsėjo 24 d. „Gediminas“ grįžo į Varėną ir kartu su 7-uoju pėstininkų pulku gynė Varėnos geležinkelio stotį nuo Lenkijos pajėgų."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Nenurodyta
     - c-75902
 
 <a id="claim-t-78693"></a>
-- t-003
-  global_id: t-78693
+- t-005
   teiginys: "Prie Smalėnų „Gediminas“ patrankomis ir kulkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,8 +107,7 @@ Nenurodyta
     - c-75903
 
 <a id="claim-t-78694"></a>
-- t-004
-  global_id: t-78694
+- t-002
   teiginys: "Šarvuotajam traukiniui „Gediminas“ vadovavo plk. ltn. Jonas Kraucevičius."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -127,8 +123,7 @@ Nenurodyta
     - c-42594
 
 <a id="claim-t-78695"></a>
-- t-005
-  global_id: t-78695
+- t-001
   teiginys: "1920 m. sausį Kauno geležinkelio dirbtuvėse pradėtas statyti pirmasis Lietuvos kariuomenės šarvuotasis traukinys „Gediminas“."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -176,7 +171,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78695
+    - t-001
+
 - id: c-42594
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -190,7 +186,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78694
+    - t-002
+
 - id: c-42596
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -206,7 +203,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78691
+    - t-004
+
 - id: c-75902
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -224,7 +222,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78692
+    - t-003
+
 - id: c-75903
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -235,15 +234,11 @@ Nenurodyta
     kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus. Rugsėjo 24 d. „Gediminas“
     grižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms,
     nuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį.
-  citata_rodoma: |
-    Traukinys savo patrankomis ir kul-
-    kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus. Rugsėjo 24 d. „Gediminas“
-    grižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms,
-    nuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį.
+  citata_rodoma: "Traukinys savo patrankomis ir kul-\nkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus. Rugsėjo 24 d. „Gediminas“\ngrižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms,\nnuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78693
+    - t-005

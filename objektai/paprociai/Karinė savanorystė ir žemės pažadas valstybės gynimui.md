@@ -70,8 +70,7 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 ## Teiginiai
 
 <a id="claim-t-20809"></a>
-- t-001
-  global_id: t-20809
+- t-005
   teiginys: "Apie 12 000 savanorių stojo į Lietuvos kariuomenę, o jiems buvo žadėti žemės sklypai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::customs"
@@ -88,8 +87,7 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
     - c-23529
 
 <a id="claim-t-20810"></a>
-- t-002
-  global_id: t-20810
+- t-006
   teiginys: "M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus dalijamos lenkų dvarininkų žemės."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::customs"
@@ -125,15 +123,15 @@ Nenurodyta
     ir nuosekliai didėjo, trūkstant karininkų, jie pradėti rengti Kaune. Sa-
     vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo
     apie 12 000, jiems žadėti žemės sklypai.
-  citata_rodoma: |
-    vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo
+  citata_rodoma: "vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20809
+    - t-005
+
 - id: c-23530
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -149,12 +147,11 @@ Nenurodyta
     bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.
     Pabuvęs Lietuvos rankose vos porą mėnesių Vilnius, Lenkijai sumušus
     Raudonąją armiją, nuo 1920 m. rudens atiteko Lenkijai.
-  citata_rodoma: |
-    bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
+  citata_rodoma: "bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20810
+    - t-006

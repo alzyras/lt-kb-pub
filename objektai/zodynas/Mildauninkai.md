@@ -31,9 +31,8 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
 
 <a id="claim-t-189267"></a>
 - t-001
-  global_id: t-189267
   teiginys: "Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti kaip „mildauninkas“ ir iš jo padaryti deivės Mildos vardą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -41,11 +40,10 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172155
-    - c-001
+    - c-172156
+
 <a id="claim-t-189268"></a>
 - t-002
-  global_id: t-189268
   teiginys: "Narbutas mildauninkus aprašė kaip Kauno apylinkių pasakojimuose minimus kerėtojus arba meilės deivės žynius, padėdavusius meilės reikaluose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,11 +76,9 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
     dą Milda.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189267
+  statusas: verified
 - c-003
   santrauka: 'Mildauninkai turėjo vaistų, žadinančių ir slopinančių meilę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -99,10 +95,10 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
     Kur vvassara umžynoja.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+
 ## Citatos
 
 - id: c-172155
@@ -118,21 +114,13 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
     minėjo J. Dlugošas ir M. Strijkovskis), ir ola - „požeminis ur­
     vas“. Ar tik ši „etimologija“ nerodo, kaip vardas Nijolė buvo
     sukurtas?
-  citata_rodoma: |
-    O
-    šią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse
-    tam tikros rūšies kerėtojas ir kerėtojus, padedančius meilėje,
-    kauniečiai vadina mildauninkais“. Tokio lietuviško žodžio iš
-    viso nėra užfiksuota. Lietuvišką žodį maldauninkas T. Narbu­
-    tas bus nugirdęs kaip mildauninkas ir iš jo padaręs deivės var­
-    dą Milda.
+  citata_rodoma: "O\nšią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse\ntam tikros rūšies kerėtojas ir kerėtojus, padedančius meilėje,\nkauniečiai vadina mildauninkais“. Tokio lietuviško žodžio iš\nviso nėra užfiksuota. Lietuvišką žodį maldauninkas T. Narbu­\ntas bus nugirdęs kaip mildauninkas ir iš jo padaręs deivės var­\ndą Milda."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189267
 - id: c-172156
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -153,4 +141,5 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189268
+    - t-001
+    - t-002

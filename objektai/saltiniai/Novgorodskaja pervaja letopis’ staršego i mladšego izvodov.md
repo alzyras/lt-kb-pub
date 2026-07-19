@@ -36,7 +36,6 @@ NoPL = Novgorodskaja pervaja letopis’ staršego i mladšego izvodov, išl.
 
 <a id="claim-t-100201"></a>
 - t-001
-  global_id: t-100201
   teiginys: "„Novgorodskaja pervaja letopis’ staršego i mladšego izvodov“ A. Nasonovas išleido Maskvoje-Leningrade 1950 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ NoPL = Novgorodskaja pervaja letopis’ staršego i mladšego izvodov, išl.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100201
+    - t-001

@@ -41,7 +41,6 @@ Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­ dinolas, dviejų popi
 
 <a id="claim-t-87693"></a>
 - t-001
-  global_id: t-87693
   teiginys: "Inocentas IX buvo vienas iš dviejų popiežių, kurių elektorius buvo kardinolas Jurgis Radvila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­ dinolas, dviejų popi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87693
+    - t-001

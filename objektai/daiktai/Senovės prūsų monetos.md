@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-189661"></a>
 - t-001
-  global_id: t-189661
   teiginys: "Narbutas rašo, kad senovės prūsų monetas mini kronikininkai, o vėliau kai kurios jų būdavo randamos žemėje, ypač senovės kapuose."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,10 +64,10 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172544
-    - c-001
+    - c-172545
+
 <a id="claim-t-189662"></a>
 - t-002
-  global_id: t-189662
   teiginys: "Narbutas trečiąją senovės prūsų monetą aprašo kaip plačiojo grašio atmainą su karūnuota moterimi ir raidėmis CESTIANUS."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -109,8 +108,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189661
+
 ## Citatos
 
 - id: c-172544
@@ -130,25 +128,15 @@ Nenurodyta
     nas priklausė lietuvių dievų kategorijai, kuriuos slavai obotri-
     tai galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklo­
     mis30.
-  citata_rodoma: |
-    Senovės prūsų monetas mini kronikininkai, jos dingo, kry­
-    žiuočių buvo sulydytos ir perkaldintos; vėlesniais laikais kai
-    kurios būdavo randamos žemėje, ypač senovės kapuose. Apie
-    25 Panašų dalyką Belskis pasakoja savo kronikoje.
-    247
-
-    ## Puslapis 247
-
-    jas su ypatingu dėmesiu rašo kronikininkas Šiucas26. Anot jo
-    paties pastebėjimų, jos buvo arba su dievų atvaizdais, arba su
-    užrašais nepažįstamu raštu, kartais lotyniškomis raidėmis.
+  citata_rodoma: "Senovės prūsų monetas mini kronikininkai, jos dingo, kry­\nžiuočių buvo sulydytos ir perkaldintos; vėlesniais laikais kai\nkurios būdavo randamos žemėje, ypač senovės kapuose. Apie\n25 Panašų dalyką Belskis pasakoja savo kronikoje.\n247\n\n## Puslapis 247\n\njas su ypatingu dėmesiu rašo kronikininkas Šiucas26. Anot jo\npaties pastebėjimų, jos buvo arba su dievų atvaizdais, arba su\nužrašais nepažįstamu raštu, kartais lotyniškomis raidėmis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189661
+    - t-001
+
 - id: c-172545
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -173,4 +161,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189662
+    - t-001
+    - t-002

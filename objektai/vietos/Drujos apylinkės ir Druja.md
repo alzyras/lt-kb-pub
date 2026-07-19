@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-188989"></a>
 - t-001
-  global_id: t-188989
   teiginys: "1811 metais Drujos apylinkėse, nusausinto ežero dugne, rastos trys žalvarinės statulėlės ant trikampės žalvarinės lentos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -56,17 +55,6 @@ media_all_json: |-
   pagrindžia:
     - c-171878
 
-<a id="claim-t-188990"></a>
-- t-002
-  global_id: t-188990
-  teiginys: 'Narbutas nurodo, kad Drujoje kaimiečiai pardavė tris žalvarines statulėles po 10 grašių už svarą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Drujos pardavimo epizodas suformuluotas pilnu sakiniu ir išskleistas objektas. Nepalikti puslapio triukšmai ir nepridėti duomenys apie liudytoją už būtino teiginio ribų.'
-  susije_objektai: 'mentioned_place: Druja; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Viena'
-  pagrindžia:
-    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas nurodo, kad Drujoje kaimiečiai pardavė tris žalvarines statulėles po 10 grašių už svarą.'
@@ -86,11 +74,9 @@ media_all_json: |-
     pardavimo liudytojas28.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188990
+  statusas: verified
 ## Citatos
 
 - id: c-171878
@@ -111,4 +97,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188989
+    - t-001

@@ -36,8 +36,7 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
 ## Teiginiai
 
 <a id="claim-t-08676"></a>
-- t-001
-  global_id: t-08676
+- t-002
   teiginys: "`Mezliava` šiame tekste reiškia prievolinę duoklę vyresniesiems."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
     - c-09769
 
 <a id="claim-t-08677"></a>
-- t-002
-  global_id: t-08677
+- t-003
   teiginys: "Mezliavą svietas skirdavo ūkės reikalų nuo namų darbo atitrauktiems vyresniesiems išlaikyti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -83,5 +81,5 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08676
-    - t-08677
+    - t-002
+    - t-003

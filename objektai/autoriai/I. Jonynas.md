@@ -40,7 +40,6 @@ Jonynas, lg. : JakG, I, 127-135 ; II, 5-59 p. — (”) Naujausi Gedimino dinast
 
 <a id="claim-t-30643"></a>
 - t-001
-  global_id: t-30643
   teiginys: "Ig. Jonynas 1939 m. „Naujojoje Romuvoje“ paskelbė straipsnį „Lietuvių gentys iki XIX a.“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,13 +70,11 @@ Jonynas, lg. : JakG, I, 127-135 ; II, 5-59 p. — (”) Naujausi Gedimino dinast
     gentys iki XIX a.,_ Naujoji Romuva, nr. 17, 1939, 361-368 p. — Kan­
     trimas, J. (= Jonikas, P.) : _Baltų kalbos ir tautos,_ Aidai, nr. 6, 1947,
     263-267 p. -— Kiparsky, V. : _Kurenfrage,_ 1939.
-  citata_rodoma: |
-    — Jonynas, lg. : _Lietuvių,
-    gentys iki XIX a.,_ Naujoji Romuva, nr. 17, 1939, 361-368 p.
+  citata_rodoma: "— Jonynas, lg. : _Lietuvių,\ngentys iki XIX a.,_ Naujoji Romuva, nr. 17, 1939, 361-368 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30643
+    - t-001

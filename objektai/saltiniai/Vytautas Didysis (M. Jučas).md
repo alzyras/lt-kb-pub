@@ -36,7 +36,6 @@ Vytautas Didysis.
 
 <a id="claim-t-21319"></a>
 - t-001
-  global_id: t-21319
   teiginys: "M. Jučo veikalas „Vytautas Didysis“ išleistas Čikagoje 2010 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,12 +62,11 @@ Vytautas Didysis.
   citata_originali: |
     Warszawa, 1960; M. Jučas. Vytautas Didysis. Chicago, 2010; Lietuva
     1009–2009.
-  citata_rodoma: |
-    M. Jučas. Vytautas Didysis. Chicago, 2010
+  citata_rodoma: "M. Jučas. Vytautas Didysis. Chicago, 2010"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21319
+    - t-001

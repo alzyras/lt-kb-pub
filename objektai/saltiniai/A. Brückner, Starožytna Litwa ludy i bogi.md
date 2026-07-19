@@ -35,8 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-188035"></a>
-- t-001
-  global_id: t-188035
+- t-002
   teiginys: "A. Brücknerio „Starožytna Litwa: ludy i bogi“ nurodoma kaip 1904 m. Varšuvoje išleisti istoriniai ir mitologiniai eskizai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -66,17 +65,12 @@ media_all_json: |-
     kė vos ne iki pat šių dienų, o T. Narbuto autoritetas beveik
     visai buvo sugriautas, nors kaip prieš juos, taip ir po jų pasitai­
     34 Brückner A. Starožytna Litwa: ludy i bogi. Szkice historyczne i
-    mitologiczne. -  Warszawa, 1904. -  S. 18-21.
-  citata_rodoma: |
-    Pozityvistų įdiegtas lietuvių mitologijos supratimas išsilai­
-    kė vos ne iki pat šių dienų, o T. Narbuto autoritetas beveik
-    visai buvo sugriautas, nors kaip prieš juos, taip ir po jų pasitai­
-    34 Brückner A. Starožytna Litwa: ludy i bogi. Szkice historyczne i
-    mitologiczne. -  Warszawa, 1904. -  S. 18-21.
+    mitologiczne. - Warszawa, 1904. - S. 18-21.
+  citata_rodoma: "Pozityvistų įdiegtas lietuvių mitologijos supratimas išsilai­\nkė vos ne iki pat šių dienų, o T. Narbuto autoritetas beveik\nvisai buvo sugriautas, nors kaip prieš juos, taip ir po jų pasitai­\n34 Brückner A. Starožytna Litwa: ludy i bogi. Szkice historyczne i\nmitologiczne. -  Warszawa, 1904. -  S. 18-21."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188035
+    - t-002

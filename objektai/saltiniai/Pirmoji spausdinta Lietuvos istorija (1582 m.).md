@@ -48,8 +48,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67517"></a>
-- t-001
-  global_id: t-67517
+- t-003
   teiginys: "M. Strijkovskis 1582 m. Karaliaučiuje išspausdintoje Kronikoje panaudojo Dusburgiečio nuorašą, apėmusį įvykius iki 1326 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67517
+    - t-003

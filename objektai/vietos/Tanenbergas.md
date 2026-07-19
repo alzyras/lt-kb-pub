@@ -32,8 +32,7 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
 ## Teiginiai
 
 <a id="claim-t-186422"></a>
-- t-001
-  global_id: t-186422
+- t-002
   teiginys: "Sąjungininkai, paėmę Gilgenburgą, žygiavo Tanenbergo kryptimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,7 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
     - c-169760
 
 <a id="claim-t-193235"></a>
-- t-002
-  global_id: t-193235
+- t-003
   teiginys: "Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (žiūr."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -87,19 +85,15 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
     Nuo Torno Drevencos krantu iki Loebau (VII. 13) atvedęs savo
     pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę
     Gilgenburgą, žygiavo Tannenbergo kryptimi.
-  citata_rodoma: |
-    Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
-    magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
-    Nuo Torno Drevencos krantu iki Loebau (VII. 13) atvedęs savo
-    pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę
-    Gilgenburgą, žygiavo Tannenbergo kryptimi.
+  citata_rodoma: "Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis\nmagistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.\nNuo Torno Drevencos krantu iki Loebau (VII. 13) atvedęs savo\npulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę\nGilgenburgą, žygiavo Tannenbergo kryptimi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186422
+    - t-002
+
 - id: c-175972
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -116,4 +110,4 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193235
+    - t-003

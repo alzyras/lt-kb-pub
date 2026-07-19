@@ -36,7 +36,6 @@ Jau tų metų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuški
 
 <a id="claim-t-21083"></a>
 - t-001
-  global_id: t-21083
   teiginys: "1989 m. gruodžio 7 d. konstitucijos pataisos panaikino LKP valdžios monopolį valstybėje ir visuomenėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,12 +70,11 @@ Jau tų metų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuški
     naikintas LKP valdžios monopolis valstybėje ir visuomenėje ir sudarytos
     sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti
     šalies politiniame gyvenime.
-  citata_rodoma: |
-    sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti
+  citata_rodoma: "sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21083
+    - t-001

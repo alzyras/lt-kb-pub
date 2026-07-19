@@ -31,7 +31,6 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
 
 <a id="claim-t-39992"></a>
 - t-001
-  global_id: t-39992
   teiginys: "Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,6 +45,7 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
   pagrindžia:
     - c-44258
     - c-167111
+
 ## Citatos
 
 - id: c-44258
@@ -65,24 +65,15 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     ir ginkluote buvo panaši į kryžiuočių.
     Lenkai turėjo nemažai sunkiosios kavale-
     rijos.
-  citata_rodoma: |
-    Vytauto pavaduotojais Lietuvos ka-
-    riuomenėje buvo Vilniaus seniūnas
-    Albertas Manvydas, kunigaikščiai Simo-
-    nas Lengvenis ir Žygimantas Kaributaitis.
-
-    Lenkijos kariuomenė
-
-    Lenkijos kariuomenė organizavimu
-
-    ir ginkluote buvo panaši į kryžiuočių.
+  citata_rodoma: "Vytauto pavaduotojais Lietuvos ka-\nriuomenėje buvo Vilniaus seniūnas\nAlbertas Manvydas, kunigaikščiai Simo-\nnas Lengvenis ir Žygimantas Kaributaitis.\n\nLenkijos kariuomenė\n\nLenkijos kariuomenė organizavimu\n\nir ginkluote buvo panaši į kryžiuočių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39992
+    - t-001
+
 - id: c-167111
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -106,3 +97,5 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

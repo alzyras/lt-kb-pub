@@ -28,7 +28,6 @@ Milano glaistytojas Pietro Peretti su padėjėju Giovanni Maria Galli paskirstė
 
 <a id="claim-t-200873"></a>
 - t-001
-  global_id: t-200873
   teiginys: "Milano glaistytojas Pietro Peretti su padėjėju Giovanni Maria Galli paskirstė skulptūras ir apie aštuonerius metus prižiūrėjo amatininkų darbą."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Milano glaistytojas Pietro Peretti su padėjėju Giovanni Maria Galli paskirstė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200873
+    - t-001

@@ -31,7 +31,6 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
 
 <a id="claim-t-193692"></a>
 - t-001
-  global_id: t-193692
   teiginys: "Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo plitimą Lietuvoje."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -44,7 +43,6 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
 
 <a id="claim-t-193693"></a>
 - t-002
-  global_id: t-193693
   teiginys: "Tai kartu paaiškina ir Vilniaus Gaono autoritetą."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -57,7 +55,6 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
 
 <a id="claim-t-193694"></a>
 - t-003
-  global_id: t-193694
   teiginys: "Didžiausias Gaono nuopelnas – Babilono Talmudo redagavimas ir komentavimas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -88,7 +85,8 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193692
+    - t-001
+
 - id: c-176362
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -109,7 +107,8 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193693
+    - t-002
+
 - id: c-176363
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -128,4 +127,4 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193694
+    - t-003

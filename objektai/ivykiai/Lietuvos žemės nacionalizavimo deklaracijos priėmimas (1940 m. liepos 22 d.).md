@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-75226"></a>
 - t-001
-  global_id: t-75226
   teiginys: "1940 m. liepos 22 d. vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-193575"></a>
 - t-002
-  global_id: t-193575
   teiginys: "Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamentai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis respublikomis."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -98,17 +96,15 @@ Nenurodyta
     respublikomis. Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
     mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
     valstybės nuosavybe, o ūkininkai – žemės naudotojais.
-  citata_rodoma: |
-    Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
-    mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
-    valstybės nuosavybe, o ūkininkai – žemės naudotojais.
+  citata_rodoma: "Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-\nmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo\nvalstybės nuosavybe, o ūkininkai – žemės naudotojais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75226
+    - t-001
+
 - id: c-176252
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -126,4 +122,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193575
+    - t-002

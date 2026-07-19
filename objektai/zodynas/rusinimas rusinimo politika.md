@@ -30,8 +30,7 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
 ## Teiginiai
 
 <a id="claim-t-22285"></a>
-- t-001
-  global_id: t-22285
+- t-002
   teiginys: "Rusinimo politika Vilniuje siekė parodyti Šiaurės Vakarų krašto centrą ne mažiau stačiatikišką negu katalikišką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
     - c-24975
 
 <a id="claim-t-22286"></a>
-- t-002
-  global_id: t-22286
+- t-001
   teiginys: "Rusinimo politikos programa siekė silpninti vietos dvarininkiją ir viešajame gyvenime įtvirtinti rusų kalbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,15 +83,15 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
     mis“, viešajame gyvenime vietoje lenkų įsivyrautų rusų kalba, dominuo-
     jančias pozicijas įgytų Rusų stačiatikių bažnyčia, o valstiečių vaikai įsilie-
     tų į rusų aukštąją kultūrą.
-  citata_rodoma: |
-    dvarininkijos ekonomines pozicijas ir užtikrinti, kad Rusijos aneksuotose
+  citata_rodoma: "dvarininkijos ekonomines pozicijas ir užtikrinti, kad Rusijos aneksuotose"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22286
+    - t-001
+
 - id: c-24975
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -104,12 +102,11 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
     dešimt cerkvių. Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto
     centras yra ne ką mažiau stačiatikiškas nei katalikiškas. Rusų stačiatikių
     bažnyčios katedra paversta Šv.
-  citata_rodoma: |
-    centras yra ne ką mažiau stačiatikiškas nei katalikiškas. Rusų stačiatikių
+  citata_rodoma: "centras yra ne ką mažiau stačiatikiškas nei katalikiškas. Rusų stačiatikių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22285
+    - t-002

@@ -30,7 +30,6 @@ Reikala.
 
 <a id="claim-t-39745"></a>
 - t-001
-  global_id: t-39745
   teiginys: "J. Reikala perėmė vadovavimą kolonai, kurią parėmė rezervas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ Reikala.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39745
+    - t-001

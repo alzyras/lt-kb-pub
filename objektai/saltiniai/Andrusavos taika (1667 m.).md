@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-10469"></a>
 - t-001
-  global_id: t-10469
   teiginys: "1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ media_all_json: |-
 
 <a id="claim-t-10470"></a>
 - t-002
-  global_id: t-10470
   teiginys: "Andrusavos paliaubose nustatytos sienos buvo patvirtintos 1686 m. „amžinąja taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,17 +93,15 @@ media_all_json: |-
     buvo iš Lietuvos išstumta. 1667 m. sausio 30 d. netoli Smolensko pa-
     sirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko
     Smolenskas, Černigovas, Severų Naugardas, Kijevas.
-  citata_rodoma: |
-    1667 m. sausio 30 d. netoli Smolensko pa-
-    sirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko
-    Smolenskas, Černigovas, Severų Naugardas, Kijevas.
+  citata_rodoma: "1667 m. sausio 30 d. netoli Smolensko pa-\nsirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko\nSmolenskas, Černigovas, Severų Naugardas, Kijevas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10469
+    - t-001
+
 - id: c-77403
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -116,15 +112,11 @@ media_all_json: |-
     grąžinti pagrobtą turtą, Lietuva atgavo Latgalą, Polocką ir Vitebską.
     Sutartyje nustatytos sienos buvo patvirtintos 1686 m. „amžinąja
     taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.
-  citata_rodoma: |
-    Rusija pasižadėjo
-    grąžinti pagrobtą turtą, Lietuva atgavo Latgalą, Polocką ir Vitebską.
-    Sutartyje nustatytos sienos buvo patvirtintos 1686 m. „amžinąja
-    taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.
+  citata_rodoma: "Rusija pasižadėjo\ngrąžinti pagrobtą turtą, Lietuva atgavo Latgalą, Polocką ir Vitebską.\nSutartyje nustatytos sienos buvo patvirtintos 1686 m. „amžinąja\ntaika“ ir išliko iki Pirmojo ATR padalijimo 1772 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10470
+    - t-002

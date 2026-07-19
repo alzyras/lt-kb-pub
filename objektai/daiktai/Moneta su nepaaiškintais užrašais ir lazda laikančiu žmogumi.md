@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189660"></a>
 - t-001
-  global_id: t-189660
   teiginys: "Narbutas manė, kad nepaaiškintų užrašų moneta pagal kaldinimo būdą, sidabrą ir pavidalą tikriausiai yra to paties amžiaus kaip kita lyginta moneta."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189660
+    - t-001

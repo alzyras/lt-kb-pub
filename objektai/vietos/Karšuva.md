@@ -41,8 +41,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 ## Teiginiai
 
 <a id="claim-t-90529"></a>
-- t-001
-  global_id: t-90529
+- t-004
   teiginys: "XIV a. Karšuvos sritis, apėmusi beveik visą Jūros baseiną, tapo negyvenama dykra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,10 +58,9 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - c-32090
 
 <a id="claim-t-90530"></a>
-- t-002
-  global_id: t-90530
+- t-005
   teiginys: "1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Karšuva: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -79,8 +77,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - c-86347
 
 <a id="claim-t-90531"></a>
-- t-003
-  global_id: t-90531
+- t-002
   teiginys: "Karšuva buvo po du ar tris kartus teriota per Ordino žygius prieš Žemaičių sodybas ir pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - c-32088
 
 <a id="claim-t-90533"></a>
-- t-004
-  global_id: t-90533
+- t-003
   teiginys: "Nesisekė tada lietuviams ir Karšuvos srityje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,8 +110,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - c-32089
 
 <a id="claim-t-184972"></a>
-- t-005
-  global_id: t-184972
+- t-006
   teiginys: "Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -135,8 +130,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - c-168333
 
 <a id="claim-t-184973"></a>
-- t-006
-  global_id: t-184973
+- t-007
   teiginys: "Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -212,19 +206,15 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     tenicka ») ir Aukaimis (abi Karšuvos srityje). Žemaičiai užsispyrę
     gynėsi, bet karo laimė įvairavo, kai priešui talkon ateidavo ir koks
     lietuvių pilių gynėjų išdavimas.
-  citata_rodoma: |
-    Po du — tris kartus buvo teriota
-    Pograuda, Karšuva, atakuotos pilys Bisena, Junigėda, Putvė (« Pu­
-    tenicka ») ir Aukaimis (abi Karšuvos srityje). Žemaičiai užsispyrę
-    gynėsi, bet karo laimė įvairavo, kai priešui talkon ateidavo ir koks
-    lietuvių pilių gynėjų išdavimas.
+  citata_rodoma: "Po du — tris kartus buvo teriota\nPograuda, Karšuva, atakuotos pilys Bisena, Junigėda, Putvė (« Pu­\ntenicka ») ir Aukaimis (abi Karšuvos srityje). Žemaičiai užsispyrę\ngynėsi, bet karo laimė įvairavo, kai priešui talkon ateidavo ir koks\nlietuvių pilių gynėjų išdavimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90531
+    - t-002
+
 - id: c-32089
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -242,7 +232,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90533
+    - t-003
+
 - id: c-32090
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -253,17 +244,15 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     XIV amž. Karšuvos sritis (beveik visas Jūros baseinas) tapo negy­
     venama dykra.
     1311 ordinas turėjo vėl laikinų pasisekimų.
-  citata_rodoma: |
-    XIV amž. Karšuvos sritis (beveik visas Jūros baseinas) tapo negy­
-    venama dykra.
-    1311 ordinas turėjo vėl laikinų pasisekimų.
+  citata_rodoma: "XIV amž. Karšuvos sritis (beveik visas Jūros baseinas) tapo negy­\nvenama dykra.\n1311 ordinas turėjo vėl laikinų pasisekimų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90529
+    - t-004
+
 - id: c-86347
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -277,20 +266,15 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     sėdintį ant žirgo ir vedantį kitą ristūną — pažabotą juodį, jis nuėjo prie jo ir pasiprašė
     vieno žirgo, tačiau šis įniršęs užjojo ant jo, parbloškė jį žemėn ir, kelis kartus prajojęs,
     jį sutrypė.
-  citata_rodoma: |
-    285 (278). Apie Karšuvos žemės nusiaubimą
-
-      Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į
-    Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į
-    saugias vietas. Dėl to visai nedaug žmonių pavyko čia nukauti ar paimti į nelaisvę, tiesa,
-    sudegino visus pastatus, o patys pernakvojo čia pat pastatytose palapinėse.
+  citata_rodoma: "285 (278). Apie Karšuvos žemės nusiaubimą\n\n  Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į\nKaršuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į\nsaugias vietas. Dėl to visai nedaug žmonių pavyko čia nukauti ar paimti į nelaisvę, tiesa,\nsudegino visus pastatus, o patys pernakvojo čia pat pastatytose palapinėse."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90530
+    - t-005
+
 - id: c-168333
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -309,27 +293,15 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
     kerštą.
-  citata_rodoma: |
-    105
-
-    ## Puslapis 104
-
-    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
-    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
-    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
-    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
-    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
-    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
-    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
-    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
-    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
+  citata_rodoma: "105\n\n## Puslapis 104\n\nbėgti; Saksonijos riteris Gebhardas, pavijęs to būrio\npaskutinę eilę, kalaviju nukirto vienam raiteliui gal­\nvą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­\nsusvyravęs daugelį varstų, nesitraukdamas iš bėgan­\nčiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus\npo to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė\nbuvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,\nnusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­\ntas, čekų karaliaus Otokaro visai neseniai įkurtas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184972
+    - t-006
+
 - id: c-168334
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -348,22 +320,15 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     kaimus, lietuviai su savo nuolatiniu, galima sakyti,
     naminiu priešu šitaip kariavo: kai šie nusiaubdavo jų
     tėvynę, jie ryžtingai pradėdavo karą už tėvynės ribų.
-  citata_rodoma: |
-    Sutelktu būriu užgriuvę iš pasalų nieko nenu-
-    jaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,
-    ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­
-    je Karšuvos žemę, kad gyventojai, nematydami iš­
-    eities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­
-    sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys
-    buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
-    Pūtvės pilį išdavė jos seniūnas Spūdas.
+  citata_rodoma: "Sutelktu būriu užgriuvę iš pasalų nieko nenu-\njaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,\nir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­\nje Karšuvos žemę, kad gyventojai, nematydami iš­\neities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­\nsios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys\nbuvo priešo ir liepsnų sunaikintos, o truputį anksčiau\nPūtvės pilį išdavė jos seniūnas Spūdas."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184973
+    - t-007
+
 ## Ryšiai
 - Puolė Karšuvą: [[objektai/grupes/Kryžiuočių ordinas]]
 - Turėjo priklausinį: [[objektai/vietos/Putvė]]

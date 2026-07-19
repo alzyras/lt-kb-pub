@@ -30,7 +30,6 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
 
 <a id="claim-t-191925"></a>
 - t-001
-  global_id: t-191925
   teiginys: "Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žiočių į Azovo jūrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,10 +47,9 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174807
-    - c-001
+
 <a id="claim-t-197677"></a>
 - t-002
-  global_id: t-197677
   teiginys: "Prie pačių keisčiausių išvadų, nepaisant slaviško skambėjimo panašumo, labai artimo esmei, derėtų pri 1 Tai įrodo Riteris (Vorhalle ettr."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191925
+
 ## Citatos
 
 - id: c-174807
@@ -101,23 +98,15 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
     daug kartų apdainavo* ir aprašė. Čia plyti vešlios žolės
     turtingos Padonės pievos, supančios Dono žiotis į Azovo
     jūrą (Palus Maetis), plačios apylinkės bei jo įlanka, va­
-  citata_rodoma: |
-    Čia plyti vešlios žolės
-    turtingos Padonės pievos, supančios Dono žiotis į Azovo
-    jūrą (Palus Maetis), plačios apylinkės bei jo įlanka, va­
-    1
-    Ištrauka iš Karolio Riterio (Die Vorhalle Europäischer Völker­
-    geschichten.
-    II.
-    Abschn.
-    I).
+  citata_rodoma: "Čia plyti vešlios žolės\nturtingos Padonės pievos, supančios Dono žiotis į Azovo\njūrą (Palus Maetis), plačios apylinkės bei jo įlanka, va­\n1\nIštrauka iš Karolio Riterio (Die Vorhalle Europäischer Völker­\ngeschichten.\nII.\nAbschn.\nI)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191925
+    - t-001
+
 - id: c-179292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -138,4 +127,4 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197677
+    - t-002

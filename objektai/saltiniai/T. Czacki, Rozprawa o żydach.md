@@ -36,7 +36,6 @@ C z a c k i Rozpra­ wa o żydach, p. 107, Vilniuje, Zavadzkio sp., 1807.
 
 <a id="claim-t-88480"></a>
 - t-001
-  global_id: t-88480
   teiginys: "T. Czackio veikalas „Rozprawa o żydach“ 1807 m. buvo išspausdintas Vilniuje, Zavadzkio spaustuvėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,24 +74,11 @@ C z a c k i Rozpra­ wa o żydach, p. 107, Vilniuje, Zavadzkio sp., 1807.
     jos tyrinėjimai žr. C z a c k i Rozpra­
     wa o żydach, p. 107, Vilniuje, Zavadz-
     kio sp., 1807.
-  citata_rodoma: |
-    Tačiau nėra likę ženklų, kad
-    Lietuvos sostinė tuo metu būtų turėjusi kokios naudos ar iš
-    prekybos, ar iš praplėstų gyventojų teisių; numanu, be abejo,
-    kad po Žemaičių perleidimo kryžiuočiams visus buvo apėmusi
-    apatija, ir miestiečių gyvenimas, pirma buvęs judresnis, ėmė
-    68
-    Ta privilegija, vėliau paskelbta Pir­
-    mojo Lietuvos Statuto pradžioje,
-    taip pat veikale C z a c k i O Litew­
-    skich i Polskich prawach, T. I, p. 93; o
-    jos tyrinėjimai žr. C z a c k i Rozpra­
-    wa o żydach, p. 107, Vilniuje, Zavadz-
-    kio sp., 1807.
+  citata_rodoma: "Tačiau nėra likę ženklų, kad \nLietuvos sostinė tuo metu būtų turėjusi kokios naudos ar iš \nprekybos, ar iš praplėstų gyventojų teisių; numanu, be abejo, \nkad po Žemaičių perleidimo kryžiuočiams visus buvo apėmusi \napatija, ir miestiečių gyvenimas, pirma buvęs judresnis, ėmė\n68\nTa privilegija, vėliau paskelbta Pir­\nmojo Lietuvos Statuto pradžioje, \ntaip pat veikale C z a c k i O Litew­\nskich i Polskich prawach, T. I, p. 93; o \njos tyrinėjimai žr. C z a c k i Rozpra­\nwa o żydach, p. 107, Vilniuje, Zavadz- \nkio sp., 1807."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88480
+    - t-001

@@ -41,9 +41,8 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
 
 <a id="claim-t-60547"></a>
 - t-001
-  global_id: t-60547
   teiginys: "C. Beckherrnas rašė apie prūsų ginklus ir karybą."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -55,27 +54,9 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61179
-    - c-001
-<a id="claim-t-60548"></a>
-- t-002
-  global_id: t-60548
-  teiginys: "C. Beckherrnas nagrinėjo pilaitę prie įėjimo į Notangą."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Notanga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Beckherrn C: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Notanga: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Beckherrn C\" parinktas kaip owner_note_path. Targetas \"Notanga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61181
 
 <a id="claim-t-196995"></a>
-- t-003
-  global_id: t-196995
+- t-004
   teiginys: "Beckherrn C sugalvojo būdą, kaip jį pribaigti, ir, norėdamas savo sumanymą įgyvendinti, pakvietė jį pulti vienos pilies, stovėjusios Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo pilį412, 409 Konradas Vyresnysis iš Tirbergo (Frankonija), 1267 m.— Santyro, vėliau — Kristburgo, Kulmo komtūras, nuo 1273 m.— Prūsijos krašto magistras."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -98,8 +79,7 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60547
+
 ## Citatos
 
 - id: c-61179
@@ -113,16 +93,15 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
     namiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką
     išgėrus, ir svečias privaląs tiek pat išgerti; tokios gėrynės taip ilgai tęsiasi, iki nusigeria
     visi: svečias su namiškiais, žmona su vyru, sūnus su dukterimi.
-  citata_rodoma: |
-    210 Apie prūsų ginklus, karybą — Beckherrn C.. Bewaffnung..., p. 359—392. Okulicz-
-    Kozaryn L. Zycie..., p. 218—221.
+  citata_rodoma: "210 Apie prūsų ginklus, karybą — Beckherrn C.. Bewaffnung..., p. 359—392. Okulicz-\nKozaryn L. Zycie..., p. 218—221."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60547
+    - t-001
+
 - id: c-61181
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -142,5 +121,4 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60548
-    - t-196995
+    - t-004

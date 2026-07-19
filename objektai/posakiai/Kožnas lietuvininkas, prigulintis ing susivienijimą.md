@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-02066"></a>
 - t-001
-  global_id: t-02066
   teiginys: "Susivienijimo įstatai reikalavo, kad kiekvienas narys palaikytų savo naciją, padėtų nelaimės ištiktam broliui ir rodytų gerą pavyzdį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,17 +61,11 @@ media_all_json: |-
     mėje būvančiam, vest dievobaimingą gyvenimą ir davinėti gerą
     priklodą (t. y. pavyzdį) nog savęs, taipgi naujai pribuvusiam
     broliui iš Lietuvos duoti pagelbą".
-  citata_rodoma: |
-    Šio Susivienijimo įstatuose buvo įrašytas toksai reika-
-    lavimas: „Kožnas lietuvininkas, prigulintis ing susivienijimą, pri-
-    valo užlaikyti savo naciją, priduot pagelbą savo broliui nelai-
-    mėje būvančiam, vest dievobaimingą gyvenimą ir davinėti gerą
-    priklodą (t. y. pavyzdį) nog savęs, taipgi naujai pribuvusiam
-    broliui iš Lietuvos duoti pagelbą".
+  citata_rodoma: "Šio Susivienijimo įstatuose buvo įrašytas toksai reika-\nlavimas: „Kožnas lietuvininkas, prigulintis ing susivienijimą, pri-\nvalo užlaikyti savo naciją, priduot pagelbą savo broliui nelai-\nmėje būvančiam, vest dievobaimingą gyvenimą ir davinėti gerą\npriklodą (t. y. pavyzdį) nog savęs, taipgi naujai pribuvusiam\nbroliui iš Lietuvos duoti pagelbą\"."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02066
+    - t-001

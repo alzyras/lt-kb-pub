@@ -40,7 +40,6 @@ Dusburgietis teigia, kad apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornva
 
 <a id="claim-t-60426"></a>
 - t-001
-  global_id: t-60426
   teiginys: "1256 m. Vokietijos valdovai nesutardami Romos karaliais išrinko Kastilijos karalių Alfonsą ir Kornvalijos grafą Ričardą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Dusburgietis teigia, kad apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornva
     - c-61058
 
 <a id="claim-t-194516"></a>
-- t-002
-  global_id: t-194516
+- t-003
   teiginys: "Apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornvalijos grafo, Anglijos karaliaus brolio, išrinkimą Romos karaliais nesantarvės metais 1256 viešpaties metais Vokietijos valdovai nesutardami išrinko Romos karaliais du žmones, būtent: Kastilijos karalių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,5 +92,5 @@ Dusburgietis teigia, kad apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60426
-    - t-194516
+    - t-001
+    - t-003

@@ -39,7 +39,6 @@ Narbutas Mitrofano Pinskiečio metraščiui priskiria pasakojimą, kad 1263 m. �
 
 <a id="claim-t-190442"></a>
 - t-001
-  global_id: t-190442
   teiginys: "Narbutas Mitrofano Pinskiečio metraščiui priskiria pasakojimą, kad 1263 m. Šventaragis siuntė pasiuntinius pas Nemuno orakulą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Narbutas Mitrofano Pinskiečio metraščiui priskiria pasakojimą, kad 1263 m. �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190442
+    - t-001

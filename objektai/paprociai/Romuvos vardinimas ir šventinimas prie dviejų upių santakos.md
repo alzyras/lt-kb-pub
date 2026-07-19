@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-192088"></a>
 - t-001
-  global_id: t-192088
   teiginys: "Narbutas Romuvą vadina lietuvių dievų šventove ir teigia, kad lietuvių gentys ją šventindavo prie dviejų upių santakos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -67,7 +66,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174957
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Romuvą vadina lietuvių dievų šventove ir teigia, kad lietuvių gentys ją šventindavo prie dviejų upių santakos.'
@@ -90,8 +89,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192088
+
 ## Citatos
 
 - id: c-174957
@@ -116,18 +114,11 @@ Nenurodyta
     kų ir dosnios gamtos turtų tam, kad lengvesnis ir gra­
     žesnis būtų žmonių gyvenimas, nepasiseks aptikti seno­
     vės genčių paminklų.
-  citata_rodoma: |
-    buvusi senovinė Romno tvirtovė, o šiandien slaviškai va­
-    dinamas Romno miestelis. Sis pavadinimas mums prime­
-    na vardą lietuvių šventojo miesto Romnome, Romuvos,
-    arba lietuvių dievų šventovės, kurią, kad ir kur ji būtų,
-    lietuvių genties kartos vadindavo tik taip ir turėjo įprotį
-    jas šventinti tokioje vietoje prie dviejų upių, t. y. jų san­
-    takoje.
+  citata_rodoma: "buvusi senovinė Romno tvirtovė, o šiandien slaviškai va­\ndinamas Romno miestelis. Sis pavadinimas mums prime­\nna vardą lietuvių šventojo miesto Romnome, Romuvos,\narba lietuvių dievų šventovės, kurią, kad ir kur ji būtų,\nlietuvių genties kartos vadindavo tik taip ir turėjo įprotį\njas šventinti tokioje vietoje prie dviejų upių, t. y. jų san­\ntakoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192088
+    - t-001

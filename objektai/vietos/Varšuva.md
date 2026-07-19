@@ -5,8 +5,10 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1377 m.'
   - '1570 m.'
@@ -15,18 +17,21 @@ datos:
   - '1573 m.'
   - '1766 m.'
   - '1772 m.'
+  - '1773 m.'
+  - '1775 m.'
   - '1899 m.'
 date_start: '1377'
 date_end: '1899'
-sukurta: ''
-atnaujinta: ''
-tags:
-  - miestas
-  - valstybė
-  - vieta
 amziai:
   - 'XIV'
   - 'XIX'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - karalius
+  - miestas
+  - valstybė
+  - vieta
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,8 +54,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 ## Teiginiai
 
 <a id="claim-t-170877"></a>
-- t-001
-  global_id: t-170877
+- t-024
   teiginys: "M. Balinskis persikėlė gyventi į Varšuvą, nes neturėjo pakankamai pragyvenimo lėšų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +72,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155513
 
 <a id="claim-t-170879"></a>
-- t-002
-  global_id: t-170879
+- t-023
   teiginys: "1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vilniuje susikūrė sukilimo centrinis komitetas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,8 +91,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155515
 
 <a id="claim-t-170880"></a>
-- t-003
-  global_id: t-170880
+- t-054
   teiginys: "Lietuviai sutiko derėtis dėl federacijos tik tuo atveju, jei Varšuva pripažintų Lietuvą su sostine Vilniumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,8 +107,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155519
 
 <a id="claim-t-170881"></a>
-- t-004
-  global_id: t-170881
+- t-057
   teiginys: "1572 m. sausio 1 d. - vasario 9 d. Varšuvoje buvo keičiamos lietuviškos monetos į lenkiškus pinigus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -125,8 +126,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155491
 
 <a id="claim-t-170883"></a>
-- t-005
-  global_id: t-170883
+- t-036
   teiginys: "Lenkijoje daugiakonfesiškumo juridinis įforminimas įvyko 1573 m. Varšuvos konfederacijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -145,8 +145,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155512
 
 <a id="claim-t-170884"></a>
-- t-006
-  global_id: t-170884
+- t-028
   teiginys: "Žygimanto Augusto valios pareiškimas buvo rašytas Varšuvoje 1571 m. gegužės 6 dieną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -164,8 +163,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155508
 
 <a id="claim-t-170885"></a>
-- t-007
-  global_id: t-170885
+- t-026
   teiginys: "Karaliaus Žygimanto Augusto testamentas buvo sudarytas 1571 m. gegužės 6 d. Varšuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -184,8 +182,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155503
 
 <a id="claim-t-170887"></a>
-- t-008
-  global_id: t-170887
+- t-041
   teiginys: "Lietuvai priėmus 1938 m. Lenkijos ultimatumą, oficialioji Varšuva buvo patenkinta rezultatais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -203,9 +200,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   pagrindžia:
     - c-155494
 
-<a id="claim-t-170893"></a>
-- t-009
-  global_id: t-170893
+<a id="claim-t-170888"></a>
+- t-049
   teiginys: "Vilniaus vyskupas I. Masalskis ir Livonijos vyskupas J. Kosakovskis buvo pakarti Varšuvoje birželio 28 dieną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -221,8 +217,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155507
 
 <a id="claim-t-170889"></a>
-- t-010
-  global_id: t-170889
+- t-015
   teiginys: "1920 m. Spa konferencijoje didžiosios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai, ir Varšuva sutiko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -241,8 +236,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155517
 
 <a id="claim-t-170890"></a>
-- t-011
-  global_id: t-170890
+- t-013
   teiginys: "Septintąjį ir aštuntąjį dešimtmetį Lietuvą kirto geležinkelis Peterburgas–Varšuva."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -258,8 +252,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155510
 
 <a id="claim-t-170891"></a>
-- t-012
-  global_id: t-170891
+- t-020
   teiginys: "1766 m. Fr. Bohomolecas Varšuvoje parūpino antrąjį leidimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -278,8 +271,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155492
 
 <a id="claim-t-170892"></a>
-- t-013
-  global_id: t-170892
+- t-040
   teiginys: "1938 m. kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama be išlygų užmegzti diplomatinius santykius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -298,8 +290,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155520
 
 <a id="claim-t-170894"></a>
-- t-014
-  global_id: t-170894
+- t-012
   teiginys: "„Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -318,8 +309,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155484
 
 <a id="claim-t-170895"></a>
-- t-015
-  global_id: t-170895
+- t-046
   teiginys: "1570 m. birželio 1 d. Motiejus Kaviečnijskis atsiuntė talerius į Varšuvą; Lietuvoje už juos mokėta po 25 lietuviškus grašius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -339,8 +329,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155488
 
 <a id="claim-t-170896"></a>
-- t-016
-  global_id: t-170896
+- t-008
   teiginys: "1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -360,8 +349,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155518
 
 <a id="claim-t-170899"></a>
-- t-017
-  global_id: t-170899
+- t-037
   teiginys: "XIX a. septintąjį–aštuntąjį dešimtmetį Lietuvą kirto geležinkelis Peterburgas–Varšuva."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -377,8 +365,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155510
 
 <a id="claim-t-170901"></a>
-- t-018
-  global_id: t-170901
+- t-055
   teiginys: "Padalinimo sutartys pasirašytos 1772 m. Sankt Peterburge, o 1773-1775 m. jas patvirtino delegacinis seimas Varšuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -397,8 +384,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155497
 
 <a id="claim-t-170902"></a>
-- t-019
-  global_id: t-170902
+- t-042
   teiginys: "1830 m. vėlyvą rudenį Varšuvoje prasidėjus sukilimui, Vilniuje susikūrė sukilimo centrinis komitetas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -417,8 +403,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155501
 
 <a id="claim-t-170903"></a>
-- t-020
-  global_id: t-170903
+- t-011
   teiginys: "1830 m. lapkričio pabaigoje Varšuvoje pasikėsinus prieš caro brolį, kuris buvo ir Lenkijos kariuomenės vadas, Varšuvą apėmė miestiečių sukilimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -437,8 +422,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155498
 
 <a id="claim-t-170905"></a>
-- t-021
-  global_id: t-170905
+- t-047
   teiginys: "1572 m. kovo 26 d. Varšuvoje visuotiniame Karalystės seime buvo duotas karaliaus įsakymas dėl lietuviškos monetos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -456,9 +440,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   pagrindžia:
     - c-155504
 
-<a id="claim-t-170911"></a>
-- t-022
-  global_id: t-170911
+<a id="claim-t-170908"></a>
+- t-038
   teiginys: "Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -474,8 +457,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155486
 
 <a id="claim-t-170909"></a>
-- t-023
-  global_id: t-170909
+- t-030
   teiginys: "1570 m. birželio 1 d. Motiejus Kaviečnijskis atsiuntė talerius į Varšuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -495,8 +477,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155488
 
 <a id="claim-t-170912"></a>
-- t-024
-  global_id: t-170912
+- t-056
   teiginys: "Žygimanto Augusto testamentas buvo aktuotas Varšuvoje 1571 m. gegužės 6 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -515,8 +496,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155509
 
 <a id="claim-t-170913"></a>
-- t-025
-  global_id: t-170913
+- t-045
   teiginys: "Testamentas buvo surašytas Varšuvoje 1571 m. gegužės 6 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -535,8 +515,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155505
 
 <a id="claim-t-193241"></a>
-- t-026
-  global_id: t-193241
+- t-058
   teiginys: "Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvaujant visiems abiejų valstybių bajorams."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -549,8 +528,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-24536
 
 <a id="claim-t-193242"></a>
-- t-027
-  global_id: t-193242
+- t-059
   teiginys: "Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -563,8 +541,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-175978
 
 <a id="claim-t-193243"></a>
-- t-028
-  global_id: t-193243
+- t-060
   teiginys: "Lietuviai irgi atvažiavo į Varšuvą, tačiau į elekciją nėjo: jie reikalavo, kad pirma lenkai savitarpyje susitaikintų ir pašalintų kariuomenę."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -574,6 +551,37 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175979
+
+<a id="claim-t-201669"></a>
+- t-061
+  teiginys: "Asesorių teismas beveik visada posėdžiavo Varšuvoje."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185016
+
+<a id="claim-t-202399"></a>
+- t-032
+  teiginys: "Lenkijos karalius tą dieną mirė Varšuvoje."
+  atnaujinta: "2026-07-19 13:11"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varšuva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varšuva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys"
+  pagrindžia:
+    - c-185746
 - susijęs iš [[objektai/zodynas/florinas, zlotas, grašis ir denaras.md#claim-t-86470|florinas, zlotas, grašis ir denaras]]: Motiejus Kaviečnijskis į Varšuvą atsiuntė talerius, už kuriuos Lietuvoje mokėta po 25 lietuviškus grašius.
 - susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75849|Ignotas Masalskis]]: Vilniaus vyskupas Ignotas Masalskis buvo tarp Targovicos konfederatų, pakartų Varšuvoje birželio 28 dieną.
 - susijęs iš [[objektai/asmenys/Jokūbas Jasinskis.md#claim-t-63711|Jokūbas Jasinskis]]: Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis.
@@ -632,6 +640,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - susijęs iš [[objektai/grupes/Varšuvos konfederacinis seimas.md#claim-t-01516|Varšuvos konfederacinis seimas (seimas)]]: Varšuvos konfederacinis seimas pripažino Rusijai teisę prižiūrėti, kad nebūtų pakeistos kardinalinės teisės.
 - susijęs iš [[objektai/grupes/Varšuvos lietuvių studentų draugija „Lietuva“.md#claim-t-20060|Varšuvos lietuvių studentų draugija „Lietuva“]]: Varšuvos lietuvių studentų draugija „Lietuva“ įsteigė 1889 m. pradėtą leisti žurnalą „Varpas“, plėtojusį „Aušros“ idėjas.
 - susijęs iš [[objektai/grupes/Varšuvos nacionalinis muziejus.md#claim-t-20061|Varšuvos nacionalinis muziejus]]: Vilniaus klasicizmo paroda Varšuvos nacionaliniame muziejuje veikė nuo 1999 m. gruodžio iki 2000 m. sausio.
+- susijęs iš [[objektai/ivykiai/1696 m. Lenkijos karaliaus mirtis Varšuvoje.md#claim-t-202409|1696 m. Lenkijos karaliaus mirtis Varšuvoje]]: Varšuvoje mirė Lenkijos karalius, dienoraštyje pavadintas mūsų geruoju valdovu.
+- susijęs iš [[objektai/ivykiai/1696 m. Lenkijos karaliaus mirtis Varšuvoje.md#claim-t-202410|1696 m. Lenkijos karaliaus mirtis Varšuvoje]]: Birželio 27 d. dienoraščio autorius iš pašto gavo žinią, kad Lenkijos karalius, jo valdovas, birželio 17 d. mirė Varšuvoje.
 - susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-183209|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: 1794 m. sukilimo kulminacija Lenkijoje ir Lietuvoje tapo kai kurių Targovicos konfederatų egzekucija Varšuvoje.
 - susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-66433|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: 1794 m. rugpjūtį Rusijos kariuomenė užėmė Vilnių, o lapkričio 5 d. pasidavė Varšuva.
 - susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-66435|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: 1794 m. sukilimo kulminacija Lenkijoje ir Lietuvoje tapo kai kurių Targovicos konfederatų egzekucija Varšuvoje.
@@ -900,7 +910,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193241
+    - t-058
+
 - id: c-155484
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -917,21 +928,15 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     va“. Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka
     (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į
     rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“.
-  citata_rodoma: |
-    „Aušros“ idėjas toliau plėto-
-    jo 1889 m. pradėtas leisti žurnalas
-    „Varpas“, įsteigtas Varšuvos lie-
-    tuvių studentų draugijos „Lietu-
-    va“. Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka
-    (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į
-    rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“.
+  citata_rodoma: "„Aušros“ idėjas toliau plėto-\njo 1889 m. pradėtas leisti žurnalas \n„Varpas“, įsteigtas Varšuvos lie-\ntuvių studentų draugijos „Lietu-\nva“. Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka \n(1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į \nrankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170894
+    - t-012
+
 - id: c-155486
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -944,21 +949,15 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
     Varšuvoje ir Leipcige. Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-
     kotarpio lietuviškai gerai nemokėjęs, M. K. Čiurlionis pasirinko lietuvius.
-  citata_rodoma: |
-    Kai
-    kas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-
-    džiama priklausyti ir abiem tuo pat metu. Kurį laiką taip elgėsi Mikalojus
-    Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje
-    žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
-    Varšuvoje ir Leipcige. Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-
-    kotarpio lietuviškai gerai nemokėjęs, M.
+  citata_rodoma: "Kai \nkas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-\ndžiama priklausyti ir abiem tuo pat metu. Kurį laiką taip elgėsi Mikalojus \nKonstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje \nžinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs \nVaršuvoje ir Leipcige. Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-\nkotarpio lietuviškai gerai nemokėjęs, M."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170911
+    - t-038
+
 - id: c-155488
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -984,8 +983,9 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170895
-    - t-170909
+    - t-046
+    - t-030
+
 - id: c-155491
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1010,7 +1010,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170881
+    - t-057
+
 - id: c-155492
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1026,7 +1027,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170891
+    - t-020
+
 - id: c-155494
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1047,7 +1049,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170887
+    - t-041
+
 - id: c-155497
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1056,17 +1059,15 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.
     Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
     seimas Varšuvoje.
-  citata_rodoma: |
-    Padalinimo sutartys buvo pasirašytos 1772 m.
-    Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
-    seimas Varšuvoje.
+  citata_rodoma: "Padalinimo sutartys buvo pasirašytos 1772 m.\nSankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis\nseimas Varšuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170901
+    - t-055
+
 - id: c-155498
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1081,18 +1082,15 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     ris buvo ir Lenkijos kariuomenės vadas, Varšuvą apėmė miestiečių sukili-
     mas. Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus
     sosto ir perduodąs suverenitetą tautai.
-  citata_rodoma: |
-    1830 m. lapkričio pabaigoje Varšuvoje pasikėsinus prieš caro brolį, ku-
-    ris buvo ir Lenkijos kariuomenės vadas, Varšuvą apėmė miestiečių sukili-
-    mas. Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus
-    sosto ir perduodąs suverenitetą tautai.
+  citata_rodoma: "1830 m. lapkričio pabaigoje Varšuvoje pasikėsinus prieš caro brolį, ku-\nris buvo ir Lenkijos kariuomenės vadas, Varšuvą apėmė miestiečių sukili-\nmas. Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus \nsosto ir perduodąs suverenitetą tautai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170903
+    - t-011
+
 - id: c-155501
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1106,21 +1104,15 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­
     onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
     kas Zambrzyckis.
-  citata_rodoma: |
-    Be to,
-    politiniai įvykiai kuriam laikui visiškai sustabdė istorijos leidi­
-    mą. Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­
-    niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė
-    Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­
-    onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
-    kas Zambrzyckis.
+  citata_rodoma: "Be to, \npolitiniai įvykiai kuriam laikui visiškai sustabdė istorijos leidi­\nmą. Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­\nniuje susikūrė sukilimo centrinis komitetas, kuriam priklausė \nAntanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­\nonas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­\nkas Zambrzyckis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170902
+    - t-042
+
 - id: c-155503
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1138,23 +1130,15 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     puslapio didumo lapų, egzempliorius gana neblogai išlaikytas, nes
     galima išskaityti beveik visą tekstą. Rašytas per visą pusės pusla­
     pio ilgį.
-  citata_rodoma: |
-    ## Puslapis 348
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    VIII
-    KARALIAUS ŽYGIMANTO AUGUSTO TESTAMENTAS,
-    SUDARYTAS 1571 METŲ
-    GEGUŽĖS 6 DIENĄ VARŠUVOJE
-    Perrašytas iš labai senos kopijos, esančios grafo Adomo Cbrepta-
-    vičiaus Sčiorsų archyve.
+  citata_rodoma: "## Puslapis 348\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nVIII\nKARALIAUS ŽYGIMANTO AUGUSTO TESTAMENTAS,\nSUDARYTAS 1571 METŲ\nGEGUŽĖS 6 DIENĄ VARŠUVOJE\nPerrašytas iš labai senos kopijos, esančios grafo Adomo Cbrepta-\nvičiaus Sčiorsų archyve."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170885
+    - t-026
+
 - id: c-155504
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1176,7 +1160,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170905
+    - t-047
+
 - id: c-155505
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1201,7 +1186,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170913
+    - t-045
+
 - id: c-155507
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1216,18 +1202,15 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
     vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
     lio 28 dieną.
-  citata_rodoma: |
-    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
-    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
-    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
-    lio 28 dieną.
+  citata_rodoma: "Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos \nkonfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos \nvyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-\nlio 28 dieną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170893
+    - t-049
+
 - id: c-155508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1265,7 +1248,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170884
+    - t-028
+
 - id: c-155509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1285,7 +1269,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170912
+    - t-056
+
 - id: c-155510
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1298,21 +1283,16 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
     tiesiamos pirmosios telefono linijos, XX a. pradžioje pasirodo ir pirmieji
     automobiliai.
-  citata_rodoma: |
-    viduryje
-    pradėjusios veikti pirmosios telegrafo linijos, Nemune pradėta garlaivių
-    navigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
-    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
-    (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
-    tiesiamos pirmosios telefono linijos, XX a.
+  citata_rodoma: "viduryje \npradėjusios veikti pirmosios telegrafo linijos, Nemune pradėta garlaivių \nnavigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis \nPeterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių \n(Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-\ntiesiamos pirmosios telefono linijos, XX a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170890
-    - t-170899
+    - t-013
+    - t-037
+
 - id: c-155512
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1324,18 +1304,15 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     skiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi-
     mo ar juridinio įforminimo sparta. Lenkijoje tai įvyko tik po Liublino
     unijos – būtent 1573 m. vadinamojoje Varšuvos konfederacijoje.
-  citata_rodoma: |
-    LDK išsi-
-    skiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi-
-    mo ar juridinio įforminimo sparta. Lenkijoje tai įvyko tik po Liublino
-    unijos – būtent 1573 m. vadinamojoje Varšuvos konfederacijoje.
+  citata_rodoma: "LDK išsi-\nskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi-\nmo ar juridinio įforminimo sparta. Lenkijoje tai įvyko tik po Liublino \nunijos – būtent 1573 m. vadinamojoje Varšuvos konfederacijoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170883
+    - t-036
+
 - id: c-155513
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1348,18 +1325,15 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     venimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą. Šie vie­
     nuolika (1836-1847) metų buvo bene kūrybingiausias jo moks­
     linės veiklos laikotarpis.
-  citata_rodoma: |
-    Neturėdamas pakankamai pragy­
-    venimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą. Šie vie­
-    nuolika (1836-1847) metų buvo bene kūrybingiausias jo moks­
-    linės veiklos laikotarpis.
+  citata_rodoma: "Neturėdamas pakankamai pragy­\nvenimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą. Šie vie­\nnuolika (1836-1847) metų buvo bene kūrybingiausias jo moks­\nlinės veiklos laikotarpis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170877
+    - t-024
+
 - id: c-155515
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1373,20 +1347,15 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
     kas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­
     karinėse Rusijos imperijos gubernijose.
-  citata_rodoma: |
-    Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­
-    niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė
-    Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­
-    onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
-    kas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­
-    karinėse Rusijos imperijos gubernijose.
+  citata_rodoma: "Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­\nniuje susikūrė sukilimo centrinis komitetas, kuriam priklausė\nAntanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­\nonas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­\nkas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­\nkarinėse Rusijos imperijos gubernijose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170879
+    - t-023
+
 - id: c-155517
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1397,17 +1366,15 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     sios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.
     Atsirado unikali galimybė atgauti sostinę Antantės padedamiems ir dar
     pritariant Lenkijai.
-  citata_rodoma: |
-    Kai lenkų daliniai, spaudžiami
-    bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžio-
-    sios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.
+  citata_rodoma: "Kai lenkų daliniai, spaudžiami \nbolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžio-\nsios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170889
+    - t-015
+
 - id: c-155518
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1421,17 +1388,15 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
     Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
     kijos ir Lietuvos) dignitorių – ministrų.
-  citata_rodoma: |
-    1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
-    Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
-    kijos ir Lietuvos) dignitorių – ministrų.
+  citata_rodoma: "1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas \nStanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-\nkijos ir Lietuvos) dignitorių – ministrų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170896
+    - t-008
+
 - id: c-155519
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1451,7 +1416,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170880
+    - t-054
+
 - id: c-155520
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1465,21 +1431,15 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,
     reikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą
     atsakymą, nes kitaip bus blogai – suprask – kils karas.
-  citata_rodoma: |
-    įvyko inici-
-    dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė
-    perėjusį liniją lenkų kareivį. Nors per panašius incidentus lenkai buvo nu-
-    šovę 7 lietuvių pasienio policininkus, Varšuva, Vokietijai absorbuojant Aus-
-    triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,
-    reikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą
-    atsakymą, nes kitaip bus blogai – suprask – kils karas.
+  citata_rodoma: "įvyko inici-\ndentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė \nperėjusį liniją lenkų kareivį. Nors per panašius incidentus lenkai buvo nu-\nšovę 7 lietuvių pasienio policininkus, Varšuva, Vokietijai absorbuojant Aus-\ntriją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą, \nreikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą \natsakymą, nes kitaip bus blogai – suprask – kils karas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170892
+    - t-040
+
 - id: c-175978
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1497,7 +1457,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193242
+    - t-059
+
 - id: c-175979
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1515,7 +1476,35 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193243
+    - t-060
+
+- id: c-185016
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Be to, kai kurie Kauno miestui skirti raštai buvo paskel-
+    biami Gdanske, Liubline, Lvove, Marienburge, Petrikave, Ščitne. Asesorių teismas
+    beveik visada posėdžiavo Varšuvoje. Visi šie miestai nurodo maršrutus kelionių, į
+    kurias Kauno miestiečiai leisdavosi tvarkyti miesto ar asmeninių reikalų.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-061
+
+- id: c-185746
+  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  puslapiai: "PDF 19"
+  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 19."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-19 13:07"
+  pagrindzia:
+    - t-032
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuvos kariuomenė]]
 - Mirties vieta: [[objektai/asmenys/Ignotas Masalskis]], [[objektai/asmenys/Jokūbas Jasinskis]]

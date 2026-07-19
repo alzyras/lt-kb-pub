@@ -40,7 +40,6 @@ Narbutas turėjo omenyje geografo ir kartografo G. Brauno 1541–1622 m. sudaryt
 
 <a id="claim-t-190391"></a>
 - t-001
-  global_id: t-190391
   teiginys: "Narbutas turėjo omenyje geografo ir kartografo G. Brauno 1541–1622 m. sudarytą didžiųjų pasaulio miestų atlasą „Civitates orbis terrarum“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Narbutas turėjo omenyje geografo ir kartografo G. Brauno 1541–1622 m. sudaryt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190391
+    - t-001

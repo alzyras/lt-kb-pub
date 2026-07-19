@@ -61,8 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-92967"></a>
-- t-001
-  global_id: t-92967
+- t-008
   teiginys: "Seimeliuose plikbajoriai turėjo bajoriškąjį ženklą kardą, kuriuo galėjo paremti savo pono ar užmokėjusio asmens nuomonę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-88398
 
 <a id="claim-t-92968"></a>
-- t-002
-  global_id: t-92968
+- t-009
   teiginys: "1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +93,7 @@ Nenurodyta
     - c-88402
 
 <a id="claim-t-92969"></a>
-- t-003
-  global_id: t-92969
+- t-001
   teiginys: "1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,8 +112,7 @@ Nenurodyta
     - c-88400
 
 <a id="claim-t-92970"></a>
-- t-004
-  global_id: t-92970
+- t-011
   teiginys: "Sibiro batalijone penki karininkai ir trys kareiviai buvo nurengti ir pusplikiai sukapoti kardais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -125,8 +121,7 @@ Nenurodyta
     - c-88397
 
 <a id="claim-t-92971"></a>
-- t-005
-  global_id: t-92971
+- t-007
   teiginys: "Lenkų raitelis žvilgančiu kardu kelis kartus puolė griovyje atsigulusį žvalgą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,8 +137,7 @@ Nenurodyta
     - c-88401
 
 <a id="claim-t-92972"></a>
-- t-006
-  global_id: t-92972
+- t-002
   teiginys: "Kautynėse po iečių buvo naudojami kirviai, kardai ir kiti ginklai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -159,8 +153,7 @@ Nenurodyta
     - c-88396
 
 <a id="claim-t-92974"></a>
-- t-007
-  global_id: t-92974
+- t-003
   teiginys: "Valkininkuose bajorų minia kardais sukapojo Mykolą Sapiegą ir dar du belaisvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -176,8 +169,7 @@ Nenurodyta
     - c-88404
 
 <a id="claim-t-92975"></a>
-- t-008
-  global_id: t-92975
+- t-010
   teiginys: "Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė į Valkininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -186,8 +178,7 @@ Nenurodyta
     - c-88399
 
 <a id="claim-t-200940"></a>
-- t-009
-  global_id: t-200940
+- t-012
   teiginys: "Susirėmusios šalys pirma vylyčiomis vars tės, paskui baisesniai dar kardomis skardės, kausena buvo didžiai smarki ir maringa."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -263,7 +254,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92972
+    - t-002
+
 - id: c-88397
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -277,17 +269,15 @@ Nenurodyta
     buvo areštuoti visi karininkai, o 5 karininkai ir 3 kareiviai di-
     džiausiam Sibiro speige buvo nurengti ir pusplikiai kardais su-
     kapoti.
-  citata_rodoma: |
-    buvo areštuoti visi karininkai, o 5 karininkai ir 3 kareiviai di-
-      džiausiam Sibiro speige buvo nurengti ir pusplikiai kardais su-
-      kapoti.
+  citata_rodoma: "buvo areštuoti visi karininkai, o 5 karininkai ir 3 kareiviai di-\n  džiausiam Sibiro speige buvo nurengti ir pusplikiai kardais su-\n  kapoti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92970
+    - t-011
+
 - id: c-88398
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -300,18 +290,15 @@ Nenurodyta
     nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie
     šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo
     vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
-  citata_rodoma: |
-    Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių,
-      nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie
-      šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo
-      vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
+  citata_rodoma: "Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių,\n  nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie\n  šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo\n  vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92967
+    - t-008
+
 - id: c-88399
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -322,17 +309,15 @@ Nenurodyta
     rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į
     Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
     Čia jis uždarė belaisvį pranciškonų vienuolyno celėje, greta savęs.
-  citata_rodoma: |
-    Kai Mykolas Sapiega pasidavė, bajo-
-      rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į
-      Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
+  citata_rodoma: "Kai Mykolas Sapiega pasidavė, bajo-\n  rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į\n  Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92975
+    - t-010
+
 - id: c-88400
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -345,21 +330,15 @@ Nenurodyta
     artilerijos ir gurguolės puskarininkiams
 
     1920 m. lapkričio 17-21 d. GIEDRAIČIŲ KAUTYNĖS 209
-  citata_rodoma: |
-    Lenkas, senas karys,
-    irgi ilgai juk neatsiminė, kad turi pistoletą.“
-
-    1917 m. modelio lenkiškas kardas, skirtas ulonų,
-    artilerijos ir gurguolės puskarininkiams
-
-    1920 m.
+  citata_rodoma: "Lenkas, senas karys,\nirgi ilgai juk neatsiminė, kad turi pistoletą.“\n\n1917 m. modelio lenkiškas kardas, skirtas ulonų,\nartilerijos ir gurguolės puskarininkiams\n\n1920 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92969
+    - t-001
+
 - id: c-88401
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -376,7 +355,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92971
+    - t-007
+
 - id: c-88402
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -390,18 +370,15 @@ Nenurodyta
     planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos
     tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10
     patrankų ir 200 kardų (raitelių).
-  citata_rodoma: |
-    Nuo 1919 m. gegužės mėn. vidurio prasidėjo
-      planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos
-      tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10
-      patrankų ir 200 kardų (raitelių).
+  citata_rodoma: "Nuo 1919 m. gegužės mėn. vidurio prasidėjo\n  planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos\n  tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10\n  patrankų ir 200 kardų (raitelių)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92968
+    - t-009
+
 - id: c-88404
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -422,10 +399,12 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92974
+    - t-003
+
 - id: c-184290
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip apdrąsinąs karėjus, Gediminas liepė ženg­
     ti toliaus, vienok saugodamos, idant neprieteliai
@@ -446,4 +425,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200940
+    - t-012

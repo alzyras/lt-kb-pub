@@ -54,8 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-19547"></a>
-- t-001
-  global_id: t-19547
+- t-003
   teiginys: "Mokyklose buvo įrengiami Lenino kampeliai ir leidžiami sienlaikraščiai, siekiant stiprinti idėjinį komunistinį mokinių auklėjimą."
   atnaujinta: "2026-05-18 23:37"
   sprendimo_priezastis: "gap::items"
@@ -88,12 +87,11 @@ Nenurodyta
     gą. Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose
     steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kam-
     peliai, leisti sienlaikraščiai.
-  citata_rodoma: |
-    Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose
+  citata_rodoma: "Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19547
+    - t-003

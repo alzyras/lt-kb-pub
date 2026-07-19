@@ -32,7 +32,6 @@ Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir 
 
 <a id="claim-t-191327"></a>
 - t-001
-  global_id: t-191327
   teiginys: "Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir pirmasis tikrųjų skitų karalius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir 
 
 <a id="claim-t-191328"></a>
 - t-002
-  global_id: t-191328
   teiginys: "Narbutas svarsto, kad nauja karalių dinastija, kilusi iš Targito, valdė gentis, pradėjusias garsėti skitų vardu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,8 @@ Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191327
+    - t-001
+
 - id: c-174210
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -118,6 +117,7 @@ Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191328
+    - t-002
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Jupiteris]]

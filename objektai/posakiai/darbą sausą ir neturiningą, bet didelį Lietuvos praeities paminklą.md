@@ -31,7 +31,6 @@ Narbutas savo mitologijos tyrinėjimus pats apibūdina kaip sausą, bet svarbų 
 
 <a id="claim-t-192129"></a>
 - t-001
-  global_id: t-192129
   teiginys: "Narbutas savo mitologijos tyrinėjimus pats apibūdina kaip sausą, bet svarbų Lietuvos praeities paminklą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -46,7 +45,7 @@ Narbutas savo mitologijos tyrinėjimus pats apibūdina kaip sausą, bet svarbų 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175017
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -68,8 +67,7 @@ Narbutas savo mitologijos tyrinėjimus pats apibūdina kaip sausą, bet svarbų 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192129
+
 ## Citatos
 
 - id: c-175017
@@ -94,13 +92,11 @@ Narbutas savo mitologijos tyrinėjimus pats apibūdina kaip sausą, bet svarbų 
     samesnė už visus šiaurės tautų mitus“2. Šios visumos
     ieškojimas tapo pagrindiniu T. Narbuto uždaviniu; jis
     ypač ryškus pirmame LTI tome.
-  citata_rodoma: |
-    jau ne vieną kartą cituotame laiške I. Onacevičiui
-      T. Narbutas savo tyrinėjimus mitologijos srityje apibūdino kaip „darbą sausą ir neturiningą, bet didelį Lietuvos praeities paminklą“3.
+  citata_rodoma: "jau ne vieną kartą cituotame laiške I. Onacevičiui\n  T. Narbutas savo tyrinėjimus mitologijos srityje apibūdino kaip „darbą sausą ir neturiningą, bet didelį Lietuvos praeities paminklą“3."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192129
+    - t-001

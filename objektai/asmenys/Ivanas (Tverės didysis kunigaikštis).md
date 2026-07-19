@@ -31,7 +31,6 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 
 <a id="claim-t-39538"></a>
 - t-001
-  global_id: t-39538
   teiginys: "Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą ir buvo garbingai išlydėtas su daugybe dovanų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 
 <a id="claim-t-183741"></a>
 - t-002
-  global_id: t-183741
   teiginys: "Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą su šeima ir bajorais, o vėliau buvo garbingai išlydėtas su dovanomis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,8 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39538
+    - t-001
+
 - id: c-167129
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -122,4 +121,4 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183741
+    - t-002

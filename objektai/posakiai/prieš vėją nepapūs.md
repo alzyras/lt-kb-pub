@@ -45,7 +45,6 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
 
 <a id="claim-t-36016"></a>
 - t-001
-  global_id: t-36016
   teiginys: "Lenkai nedrįso pasipriešinti Vytautui, nes suprato, kad „prieš vėją nepapūs“, o Vytautas buvo per galingas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -62,7 +61,6 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
 
 <a id="claim-t-36017"></a>
 - t-002
-  global_id: t-36017
   teiginys: "Lenkai nedrįso priešintis Vytautui, nes suprato, kad prieš vėją nepapūs, o Vytautas buvo per galingas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -94,21 +92,15 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
     santaikai su Lenkija, didėjo jo draugiškumas su Ordinu, ko taip
     lenkai niekad netroško, bet visad dėjo pastangų geriems jo san­
     tykiams suardyti.
-  citata_rodoma: |
-    Len­
-    kų „kantrybė“ visiškai aiški: jie gerai suprato, kad prieš vėją
-    nepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­
-    gas. Bijojo lenkai ir dar vieno dalyko: atsiradus Vytauto ne­
-    santaikai su Lenkija, didėjo jo draugiškumas su Ordinu, ko taip
-    lenkai niekad netroško, bet visad dėjo pastangų geriems jo san­
-    tykiams suardyti.
+  citata_rodoma: "Len­\nkų „kantrybė“ visiškai aiški: jie gerai suprato, kad prieš vėją\nnepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­\ngas. Bijojo lenkai ir dar vieno dalyko: atsiradus Vytauto ne­\nsantaikai su Lenkija, didėjo jo draugiškumas su Ordinu, ko taip\nlenkai niekad netroško, bet visad dėjo pastangų geriems jo san­\ntykiams suardyti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36017
+    - t-002
+
 - id: c-38390
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -122,15 +114,11 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
     kų „kantrybė“ visiškai aiški: jie gerai suprato, kad prieš vėją
     nepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­
     gas.
-  citata_rodoma: |
-    Len­
-    kų „kantrybė“ visiškai aiški: jie gerai suprato, kad prieš vėją
-    nepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­
-    gas.
+  citata_rodoma: "Len­\nkų „kantrybė“ visiškai aiški: jie gerai suprato, kad prieš vėją\nnepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­\ngas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36016
+    - t-001

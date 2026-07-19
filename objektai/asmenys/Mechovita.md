@@ -39,7 +39,6 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
 
 <a id="claim-t-191164"></a>
 - t-001
-  global_id: t-191164
   teiginys: "Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios nesuprato nei jis, nei lietuvis ar žemaitis, bet ją sieja su čigonais, priskirtais jotvingiams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -61,9 +60,8 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
 
 <a id="claim-t-191960"></a>
 - t-002
-  global_id: t-191960
   teiginys: "Narbuto cituojamas Mechovitos veikalas „Tractatus de duabus sarmatiis Asiana et Europiana, et de continentis in eis“ buvo išleistas Krokuvoje 1517 m."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -82,7 +80,7 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174842
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbuto cituojamas Mechovitos veikalas „Tractatus de duabus sarmatiis Asiana et Europiana, et de continentis in eis“ buvo išleistas Krokuvoje 1517 m.'
@@ -96,8 +94,7 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191960
+
 ## Citatos
 
 - id: c-174046
@@ -119,7 +116,8 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191164
+    - t-001
+
 - id: c-174842
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -131,14 +129,11 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
     Tvirtovę gyvena, ir nedaug jų belikę. Antroji yra lietuvių ir že­
     maičių. Trečioji — prūsų. Ketvirtoji — Latvijoje arba Latgaloje —
     Livonija, esanti prie Dauguvos upės ir Rygos miesto.
-  citata_rodoma: |
-    Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de
-    duabus sarmatiis Asiana et Europiana, et de continentis in eis.
-    Cracoviae, 1517. L. II (De sarmatia Europiana).
+  citata_rodoma: "Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de\nduabus sarmatiis Asiana et Europiana, et de continentis in eis.\nCracoviae, 1517. L. II (De sarmatia Europiana)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191960
+    - t-002

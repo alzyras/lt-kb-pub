@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-70190"></a>
 - t-001
-  global_id: t-70190
   teiginys: "Švitrigailos ir Zigmanto kovos metu Bazelyje vyko visuotinis Bažnyčios suvažiavimas, vadintas konsiliumu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,13 +67,11 @@ media_all_json: |-
     vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas. Ja-
     me, tarp kitko, buvo iškeltas ir bažnytinės unijos klausimas, ku-
     ris jau buvo spręstas Konstancos suvažiavime.
-  citata_rodoma: |
-    Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj)
-    vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.
+  citata_rodoma: "Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj)\nvyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70190
+    - t-001

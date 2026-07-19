@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-189873"></a>
 - t-001
-  global_id: t-189873
   teiginys: "Narbutas rašo, kad prie Upinės upelio buvęs deivės Upinės altorius, o vietos atmintis siejusi jį su moterų brolija, atlikinėjusia apeigas Upinei."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189873
+    - t-001

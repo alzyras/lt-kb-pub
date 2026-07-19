@@ -33,28 +33,8 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
 
 ## Teiginiai
 
-<a id="claim-t-179914"></a>
-- t-001
-  global_id: t-179914
-  teiginys: "Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta daug brolių ir ginklanešių."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Varmė: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Heilsbergas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Varmė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys Heilsbergo pilį lokalizuoja Varmės žemėje, bet formuluotė yra netiesioginė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Heilsbergas priklausė Varmė (0.72)"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  pagrindžia:
-    - c-32070
-
 <a id="claim-t-184156"></a>
 - t-002
-  global_id: t-184156
   teiginys: "Ordino magistras ir broliai užkariavo pagudėnų valdytą Heilsbergo pilį, jos žmones išžudė arba paėmė į nelaisvę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,7 +55,6 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
 
 <a id="claim-t-184960"></a>
 - t-003
-  global_id: t-184960
   teiginys: "Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -134,11 +113,10 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
     c.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179914
 - id: c-167541
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -157,7 +135,8 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184156
+    - t-002
+
 - id: c-168321
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -176,27 +155,15 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
     lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
     kerštą.
-  citata_rodoma: |
-    105
-
-    ## Puslapis 104
-
-    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
-    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
-    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
-    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
-    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
-    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
-    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
-    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
-    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
+  citata_rodoma: "105\n\n## Puslapis 104\n\nbėgti; Saksonijos riteris Gebhardas, pavijęs to būrio\npaskutinę eilę, kalaviju nukirto vienam raiteliui gal­\nvą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­\nsusvyravęs daugelį varstų, nesitraukdamas iš bėgan­\nčiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus\npo to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė\nbuvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,\nnusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­\ntas, čekų karaliaus Otokaro visai neseniai įkurtas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184960
+    - t-003
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Pagudėnai]]
 - Heilsbergas priklausė [[objektai/grupes/Pagudėnai]]

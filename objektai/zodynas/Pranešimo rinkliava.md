@@ -28,7 +28,6 @@ O vilniečiai, pagal savo privilegijas neturintys mokėti muito, atvykę į Kaun
 
 <a id="claim-t-201791"></a>
 - t-001
-  global_id: t-201791
   teiginys: "O vilniečiai, pagal savo privilegijas neturintys mokėti muito, atvykę į Kauną privalėjo sumokėti muitininkui vadinamąją pranešimo rinkliavą (o6ecmKa) - vieną grašį."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ O vilniečiai, pagal savo privilegijas neturintys mokėti muito, atvykę į Kaun
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201791
+    - t-001

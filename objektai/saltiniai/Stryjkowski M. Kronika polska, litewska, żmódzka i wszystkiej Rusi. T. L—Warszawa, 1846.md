@@ -34,13 +34,45 @@ media_all_json: |-
 
 Dusburgietis teigia, kad stryjkowski M.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'M. Stryjkowskio kronikos tomas išleistas Varšuvoje 1846 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,
+    1846.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-61934
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    — ABS, 1976, 9, s.
+    71—79.
+    Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
+    происхождения балтов.
+  citata_rodoma: "Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,\n1846."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-61302"></a>
 - t-001
-  global_id: t-61302
   teiginys: "M. Stryjkowskio kronikos tomas išleistas Varšuvoje 1846 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -55,39 +87,3 @@ Dusburgietis teigia, kad stryjkowski M.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį leidimo faktą."
   pagrindžia:
     - c-61934
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'M. Stryjkowskio kronikos tomas išleistas Varšuvoje 1846 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,
-    1846.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61302
-## Citatos
-
-- id: c-61934
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    — ABS, 1976, 9, s.
-    71—79.
-    Ванагас А. П. Максимальный ареал балтской гидронимии и проблема
-    происхождения балтов.
-  citata_rodoma: |
-    Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,
-    1846.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-61302

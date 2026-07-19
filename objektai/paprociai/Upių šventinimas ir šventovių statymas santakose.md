@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-192514"></a>
 - t-001
-  global_id: t-192514
   teiginys: "Upių šventinimo paprotį Narbutas sieja su seniausiais indais, kurie prie dviejų upių santakos statydavo šventoves."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -87,15 +86,11 @@ Nenurodyta
     pastebėjo
     Kašmiro
     žemumoje.
-  citata_rodoma: |
-    Patys seniausi indai turėjo paprotį, šventindami upes, prie dviejų
-    upių santakos statyti šventoves ir ten atlikti tokį garbinimą (Hie-
-    gels. Reise nach Indien). Jis šį paprotį, menantį seniausius bu­
-    dizmo principus,
+  citata_rodoma: "Patys seniausi indai turėjo paprotį, šventindami upes, prie dviejų\nupių santakos statyti šventoves ir ten atlikti tokį garbinimą (Hie-\ngels. Reise nach Indien). Jis šį paprotį, menantį seniausius bu­\ndizmo principus,"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192514
+    - t-001

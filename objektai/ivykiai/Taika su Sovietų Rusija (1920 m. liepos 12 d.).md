@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-193815"></a>
 - t-001
-  global_id: t-193815
   teiginys: "PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193815
+    - t-001

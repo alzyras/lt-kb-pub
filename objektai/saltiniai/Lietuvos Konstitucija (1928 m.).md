@@ -35,8 +35,7 @@ Voldemaru tapo atsargesni – derybos sustojo, o 1928 m. Lietuvos konstitucijoje
 ## Teiginiai
 
 <a id="claim-t-21122"></a>
-- t-001
-  global_id: t-21122
+- t-002
   teiginys: "1928 m. Lietuvos Konstitucija įteisino Antano Smetonos viršenybę prieš Seimą ir teisę leisti įstatymus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Voldemaru tapo atsargesni – derybos sustojo, o 1928 m. Lietuvos konstitucijoje
     - c-166765
 
 <a id="claim-t-21123"></a>
-- t-002
-  global_id: t-21123
+- t-001
   teiginys: "1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Voldemaru tapo atsargesni – derybos sustojo, o 1928 m. Lietuvos konstitucijoje
 
 <a id="claim-t-183372"></a>
 - t-003
-  global_id: t-183372
   teiginys: "1928 m. gegužės 15 d. nauja Konstitucija sustiprino Antano Smetonos galias prieš Seimą ir įteisino autoritarinį valdymą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -111,15 +108,15 @@ Voldemaru tapo atsargesni – derybos sustojo, o 1928 m. Lietuvos konstitucijoje
     suprasti, kad tokiomis sąlygomis derybos su lenkais sulauks kietos opo-
     zicijos. A. Smetona su A. Voldemaru tapo atsargesni – derybos sustojo, o
     1928 m. Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius.
-  citata_rodoma: |
-    1928 m. Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius.
+  citata_rodoma: "1928 m. Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21123
+    - t-001
+
 - id: c-166765
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -141,5 +138,5 @@ Voldemaru tapo atsargesni – derybos sustojo, o 1928 m. Lietuvos konstitucijoje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21122
-    - t-183372
+    - t-002
+    - t-003

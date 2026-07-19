@@ -31,7 +31,6 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 
 <a id="claim-t-77298"></a>
 - t-001
-  global_id: t-77298
   teiginys: "Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos, nes per ją eina tiesiausias kelias iš Vokietijos į Rusiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
     - c-74724
 
 <a id="claim-t-77299"></a>
-- t-002
-  global_id: t-77299
+- t-003
   teiginys: "Lietuva dažnai laikoma Rytų Europos dalimi dėl geopolitinės, o ne vien geografinės krašto padėties."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,15 +78,15 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
     Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
     tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į ry-
     tus, o rusai į vakarus.
-  citata_rodoma: |
-    Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
+  citata_rodoma: "Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77298
+    - t-001
+
 - id: c-74726
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -106,6 +104,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77299
+    - t-003
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]

@@ -31,7 +31,6 @@ Narbutas poeto Jakimavičiaus žodžius laikė pagrindu papildyti lietuvių deiv
 
 <a id="claim-t-190363"></a>
 - t-001
-  global_id: t-190363
   teiginys: "Narbutas poeto Jakimavičiaus žodžius laikė pagrindu papildyti lietuvių deivių rinkinį nauju objektu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbutas poeto Jakimavičiaus žodžius laikė pagrindu papildyti lietuvių deiv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190363
+    - t-001

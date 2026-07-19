@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-87617"></a>
 - t-001
-  global_id: t-87617
   teiginys: "1432 metais Aleksas Jefremovičius su Joachimu ir Pskovo bojarinais atvyko pas Švitrigailą sudaryti sutarties."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,6 +79,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87617
+    - t-001
+
 ## Ryšiai
 - Aleksas Jefremovičius sudarė sutartį su [[objektai/asmenys/Švitrigaila]]

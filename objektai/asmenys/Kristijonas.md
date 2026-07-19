@@ -48,8 +48,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 ## Teiginiai
 
 <a id="claim-t-93427"></a>
-- t-001
-  global_id: t-93427
+- t-014
   teiginys: "Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusivežė krikštyti du prūsų kunigaikščius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-21837
 
 <a id="claim-t-93428"></a>
-- t-002
-  global_id: t-93428
+- t-010
   teiginys: "Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,8 +84,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-88793
 
 <a id="claim-t-93429"></a>
-- t-003
-  global_id: t-93429
+- t-006
   teiginys: "Nuo 1216 m. Kristijonas, gavęs „Prūsų vyskupo“ titulą, kaip cistersų vienuolis taikiu būdu bandė krikštyti prūsus."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -106,8 +103,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-04162
 
 <a id="claim-t-93430"></a>
-- t-004
-  global_id: t-93430
+- t-007
   teiginys: "Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie Katalikų bažnyčios organizaciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,8 +119,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-88794
 
 <a id="claim-t-93432"></a>
-- t-005
-  global_id: t-93432
+- t-011
   teiginys: "1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -143,8 +138,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-88795
 
 <a id="claim-t-93433"></a>
-- t-006
-  global_id: t-93433
+- t-005
   teiginys: "Mindaugo diecezijos vyskupas Kristijonas 1259 m. galutinai pasitraukė į Vokietiją, o jo įpėdiniai į lietuvių žemę nebegrįžo."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -162,8 +156,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-04161
 
 <a id="claim-t-93436"></a>
-- t-007
-  global_id: t-93436
+- t-009
   teiginys: "Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -180,7 +173,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 
 <a id="claim-t-93437"></a>
 - t-008
-  global_id: t-93437
   teiginys: "Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -194,10 +186,9 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-88796
-    - c-008
+
 <a id="claim-t-183554"></a>
-- t-009
-  global_id: t-183554
+- t-012
   teiginys: "Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie popiežiaus santykius su Europos valdovais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -216,8 +207,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-166947
 
 <a id="claim-t-188568"></a>
-- t-010
-  global_id: t-188568
+- t-001
   teiginys: "Narbutas teigė, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūrimą bei krivį grindė pirmojo Prūsijos vyskupo Kristijono kronika."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -236,8 +226,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-171457
 
 <a id="claim-t-188569"></a>
-- t-011
-  global_id: t-188569
+- t-002
   teiginys: "Narbutas sprendė, kad vyskupas Kristijonas žinojo apie krivio buvimą ir galėjo jį pažinti būdamas prūsų nelaisvėje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -256,8 +245,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-171458
 
 <a id="claim-t-188570"></a>
-- t-012
-  global_id: t-188570
+- t-003
   teiginys: "Narbutas laikė tikėtina, kad Grunau žinią apie vyriausiuosius žynius paėmė iš vyskupo Kristijono kronikos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -276,8 +264,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-171459
 
 <a id="claim-t-190908"></a>
-- t-013
-  global_id: t-190908
+- t-015
   teiginys: "Narbuto nuomone, senojoje prūsų vyskupo Kristijono kronikoje galėjo būti žinių apie sieros šaltinį prie Romovės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -295,10 +282,9 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173790
-    - c-013
+
 <a id="claim-t-190909"></a>
-- t-014
-  global_id: t-190909
+- t-016
   teiginys: "Narbuto perteikiamas Hartknochas Kristijoną vadino pirmuoju Kulmo arba Prūsijos vyskupu ir dingusios kronikos autoriumi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -318,8 +304,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-173791
 
 <a id="claim-t-190910"></a>
-- t-015
-  global_id: t-190910
+- t-017
   teiginys: "Narbutas Kristijono pasakojimą laikė tikrovišku, nes manė, kad Kristijonas neturėjo naujųjų amžių kelionių aprašymų pavyzdžių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -339,8 +324,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-173792
 
 <a id="claim-t-190912"></a>
-- t-016
-  global_id: t-190912
+- t-019
   teiginys: "Narbutas vyskupo Kristijono žinias vertino kaip tiesos išlaikiusį liudijimą apie senąjį kraštą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -351,10 +335,9 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173794
-    - c-016
+
 <a id="claim-t-191959"></a>
-- t-017
-  global_id: t-191959
+- t-020
   teiginys: "Narbutas rašė, kad Kulmo vyskupas Kristijonas XIII amžiaus pirmojoje pusėje teigė prūsų kildinimą iš gotų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -372,10 +355,9 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174841
-    - c-017
+
 <a id="claim-t-197771"></a>
-- t-018
-  global_id: t-197771
+- t-021
   teiginys: "Sis tvirtinimas labiau už kitus įrodymus parodo vys kupo Kristijono žiniose išlikusią tiesą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -387,8 +369,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-173794
 
 <a id="claim-t-201005"></a>
-- t-019
-  global_id: t-201005
+- t-022
   teiginys: "Kristijonas, ap krikštijęs dar didžias daugybes netikėlių, rūpinos paskui skelbimu žodžio Dievo apygardoj Draudžiu ežero ir, sekdamas Albertą, vyskupą Rygos, keliavo su tiedviem kunigaikščiais tą patį metą į Rymą po piežiui aprodyti ir apipasakoti apie."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -400,8 +381,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-184355
 
 <a id="claim-t-201006"></a>
-- t-020
-  global_id: t-201006
+- t-023
   teiginys: "Todėl ro dės Kristijonui didžiai reikalingu ir naudingu per krikštams jų senų dienų liuosybę kuo didesniai saugoti ir taupyti, todėl gi pats buvo karvedžiu su sirinkusių meldžionų, kurie trečius metus gulėjo duonose netikėlių krašte, vienok jiems nieko pikto."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -413,8 +393,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-184356
 
 <a id="claim-t-201007"></a>
-- t-021
-  global_id: t-201007
+- t-024
   teiginys: "Kristijoną, kol pramoko lietuvių kalbos, galėdamas jau kalbėti, pasigerino netikėliams lietuviams, kurių daugybes apkrikštijo ir kalbamokslę Donatą lietuviškai perguldė, iš kurios jaunuomenė galėjo mokytis iškalose1."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -488,8 +467,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-93437
 - c-013
   santrauka: 'Narbuto nuomone, senojoje prūsų vyskupo Kristijono kronikoje galėjo būti žinių apie sieros šaltinį prie Romovės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -503,8 +480,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190908
 - c-016
   santrauka: 'Narbutas vyskupo Kristijono žinias vertino kaip tiesos išlaikiusį liudijimą apie senąjį kraštą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -520,8 +495,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190912
 - c-017
   santrauka: 'Narbutas rašė, kad Kulmo vyskupas Kristijonas XIII amžiaus pirmojoje pusėje teigė prūsų kildinimą iš gotų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -543,8 +516,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191959
+
 ## Citatos
 
 - id: c-04161
@@ -561,20 +533,15 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     ypač, kai jos vyskupas Kristijonas jau 1259 m. turėjo galutinai
     pasitraukti Vokietijon^7 , iš kurios ir jo įpėdiniai kojos lietuvių žemėn
     nebeįkėlė.
-  citata_rodoma: |
-    Pirmiausia reikia išaiškinti, kodėl taip ne­
-    patvari buvo mindauginė vyskupija, kurioje nebuvo spėta suorga­
-    nizuoti parapijų. « Lietuvos diecezijai » buvo lemta greitai žlugti,
-    ypač, kai jos vyskupas Kristijonas jau 1259 m. turėjo galutinai
-    pasitraukti Vokietijon^7 , iš kurios ir jo įpėdiniai kojos lietuvių žemėn
-    nebeįkėlė.
+  citata_rodoma: "Pirmiausia reikia išaiškinti, kodėl taip ne­\npatvari buvo mindauginė vyskupija, kurioje nebuvo spėta suorga­\nnizuoti parapijų. « Lietuvos diecezijai » buvo lemta greitai žlugti,\nypač, kai jos vyskupas Kristijonas jau 1259 m. turėjo galutinai\npasitraukti Vokietijon^7 , iš kurios ir jo įpėdiniai kojos lietuvių žemėn\nnebeįkėlė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93433
+    - t-005
+
 - id: c-04162
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -585,17 +552,15 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     prieaugliui tapo rimtas varžovas. Ten nuo 1216 metų, gavęs «Prūsų
     vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
     tijonas^73. Jis paskutinis taikiu būdu bandė krikštyti prūsus.
-  citata_rodoma: |
-    Ten nuo 1216 metų, gavęs «Prūsų
-    vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
-    tijonas^73. Jis paskutinis taikiu būdu bandė krikštyti prūsus.
+  citata_rodoma: "Ten nuo 1216 metų, gavęs «Prūsų\nvyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­\ntijonas^73. Jis paskutinis taikiu būdu bandė krikštyti prūsus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93429
+    - t-006
+
 - id: c-21837
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -604,17 +569,15 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     Vaitiekaus ir šv. Bonifaco mirties. Kristijonui pasi-
     sekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215
     m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius.
-  citata_rodoma: |
-    Kristijonui pasi-
-    sekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215
-    m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius.
+  citata_rodoma: "Kristijonui pasi-\nsekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215\nm. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93427
+    - t-014
+
 - id: c-88792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -641,7 +604,8 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93436
+    - t-009
+
 - id: c-88793
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -664,7 +628,8 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93428
+    - t-010
+
 - id: c-88794
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -677,15 +642,15 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios
     organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera-
     toriumi.
-  citata_rodoma: |
-    lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios
+  citata_rodoma: "lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93430
+    - t-007
+
 - id: c-88795
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -704,7 +669,8 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93432
+    - t-011
+
 - id: c-88796
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -720,18 +686,15 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
     Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą
     prieš Ordiną.
-  citata_rodoma: |
-    Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką
-    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
-    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
-    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“.
+  citata_rodoma: "Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką\nkarų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus\nCezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei\nDobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93437
+    - t-008
+
 - id: c-166947
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -749,7 +712,8 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183554
+    - t-012
+
 - id: c-171457
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -766,7 +730,8 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188568
+    - t-001
+
 - id: c-171458
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -790,7 +755,8 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188569
+    - t-002
+
 - id: c-171459
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -814,7 +780,8 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188570
+    - t-003
+
 - id: c-173790
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -828,18 +795,15 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     lologų, turėtų ¡būti bendras su lotynišku žodžiu Gigno ar­
     ba ¡būdvardžiu Genitus, neva ¡gimęs iš žemės. Rusiškas
     žodis Hentar pasiskolintas iš lietuvių.
-  citata_rodoma: |
-    2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
-    jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
-    lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
-    S. 261).
+  citata_rodoma: "2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,\njog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­\nlima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L\nS. 261)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190908
+    - t-015
+
 - id: c-173791
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -865,7 +829,8 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190909
+    - t-016
+
 - id: c-173792
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -887,7 +852,8 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190910
+    - t-017
+
 - id: c-173794
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -900,20 +866,16 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     nedidelio krašto gyventojai leidžia numanyti, jog vals­
     tybė buvo gerai tvarkoma.
     Slėceris paskelbė prielaidą (Nestor. Dritter Band.
-  citata_rodoma: |
-    Sis tvirtinimas labiau už kitus įrodymus parodo vys­
-    kupo Kristijono žiniose išlikusią tiesą. Nesuskaičiuojami
-    nedidelio krašto gyventojai leidžia numanyti, jog vals­
-    tybė buvo gerai tvarkoma.
-    Slėceris paskelbė prielaidą (Nestor. Dritter Band.
+  citata_rodoma: "Sis tvirtinimas labiau už kitus įrodymus parodo vys­\nkupo Kristijono žiniose išlikusią tiesą. Nesuskaičiuojami \nnedidelio krašto gyventojai leidžia numanyti, jog vals­\ntybė buvo gerai tvarkoma.\nSlėceris paskelbė prielaidą (Nestor. Dritter Band."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190912
-    - t-197771
+    - t-019
+    - t-021
+
 - id: c-174841
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -933,29 +895,19 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     pat negalima paneigti ir didelio lietuvių genties išsibars­
     tymo dar priešistoriniais laikais, nes ir prie Reino, ir ana­
     pus jo yra ryškių litalanų pėdsakų.
-  citata_rodoma: |
-    Alanai buvo
-    skitų blondinų gentis, jie davė pradžią roksolanams; gotai
-    taip pat ¡buvo blondinai, tad nieko nuostabaus, kad galima
-    pastebėti giminingumą (§49). Būtent čia įžvelgė lietuvių
-    kilmės iš alanų pagrindą ir Erazmas Stela, XVI amžiaus
-    pradžioje gyvenęs autorius ir žinojęs apie prūsų kildini-
-    jną iš gotų; tai teigė dar Kulmo vyskupas Kristijonas,
-    gyvenęs XIII amžiaus pirmojoje pusėje1. Gerai pažinojęs
-    prūsus ir lietuvius ir įsitikinęs, jog jie negali turėti nieko
-    bendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­
-    siedamas kildintiną iš alanų su į šias šalis atėjusių hunų
-    antplūdžiu.
+  citata_rodoma: "Alanai buvo\nskitų blondinų gentis, jie davė pradžią roksolanams; gotai\ntaip pat ¡buvo blondinai, tad nieko nuostabaus, kad galima\npastebėti giminingumą (§49). Būtent čia įžvelgė lietuvių\nkilmės iš alanų pagrindą ir Erazmas Stela, XVI amžiaus\npradžioje gyvenęs autorius ir žinojęs apie prūsų kildini-\njną iš gotų; tai teigė dar Kulmo vyskupas Kristijonas,\ngyvenęs XIII amžiaus pirmojoje pusėje1. Gerai pažinojęs\nprūsus ir lietuvius ir įsitikinęs, jog jie negali turėti nieko\nbendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­\nsiedamas kildintiną iš alanų su į šias šalis atėjusių hunų\nantplūdžiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191959
+    - t-020
+
 - id: c-184355
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kristijonas, ap­
     krikštijęs dar didžias daugybes netikėlių, rūpinos
@@ -982,10 +934,12 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201005
+    - t-022
+
 - id: c-184356
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Todėl ro­
     dės Kristijonui didžiai reikalingu ir naudingu per­
@@ -1004,10 +958,12 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201006
+    - t-023
+
 - id: c-184357
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kristijoną, kol pramoko
     lietuvių kalbos, galėdamas jau kalbėti, pasigerino
@@ -1023,6 +979,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201007
+    - t-024
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lubavos žemė]]

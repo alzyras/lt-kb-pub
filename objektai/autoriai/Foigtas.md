@@ -30,30 +30,8 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
 
 <a id="claim-t-190389"></a>
 - t-001
-  global_id: t-190389
   teiginys: "Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų tautoms seniai žinomos garbingos pareigos."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Germanai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Foigtas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Germanai: mention_match, group, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Foigtas\" parinktas kaip owner_note_path. Targetas \"Germanai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173272
-    - c-001
-<a id="claim-t-194652"></a>
-- t-002
-  global_id: t-194652
-  teiginys: "Ponas Foigtas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -62,7 +40,19 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177049
-    - c-002
+
+<a id="claim-t-194652"></a>
+- t-002
+  teiginys: "Ponas Foigtas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-177049
 - susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190032|Johanas Foigtas]]: Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tuščiagarbio vienuolio išmone, bet šį priekaištą perėmė iš Hartknocho.
 - susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-188616|Simonas Grunau]]: Narbutas gynė Grunau nuo Foigto kritikos ir manė, kad žinią apie vyriausiuosius žynius jis paėmė iš vyskupo Kristijono kronikos.
 - susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-188412|Johanas Foigtas]]: Narbutas rašo, kad Foigtas legendą apie vyriausiuosius žynius laikė tuščiagarbio vienuolio išmone.
@@ -95,8 +85,6 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190389
 - c-002
   santrauka: 'Ponas Foigtas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -111,8 +99,7 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194652
+
 ## Citatos
 
 - id: c-173272
@@ -127,19 +114,13 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
     sulaukę žilos senatvės, jie paprastai surengdavo liaudžiai tokį
     pat reginį. Šia tema Hartknochas pateikė tokią ištrauką iš se­
     nesnių kronikų (p. 154): „Pirmiausia vaidilos sušaukia žmo- 12
-  citata_rodoma: |
-    Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
-    jų visiškai negalima pripažinti teisingais. Ponas Foigtas trokš­
-    ta žodį krivis kildinti iš Greve, Graff- garbingos pareigos, nuo
-    seno žinomos germanų tautoms. Tačiau mūsų to dalyko su­
-    pratimu sunku su tuo sutikti.
+  citata_rodoma: "Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet\njų visiškai negalima pripažinti teisingais. Ponas Foigtas trokš­\nta žodį krivis kildinti iš Greve, Graff- garbingos pareigos, nuo\nseno žinomos germanų tautoms. Tačiau mūsų to dalyko su­\npratimu sunku su tuo sutikti."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190389
 - id: c-177049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -153,16 +134,12 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
     Tikslus vyriausiojo žynio pavadinimas yra Krewe-Krewejto,
     panašiai kaip senovės persų vyriausiasis kunigas vadinosi Mu-
     bad-Mubaden arba Destruri-Destur; tai reiškė žynių žynį.
-  citata_rodoma: |
-    Tie­
-    sa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,
-    kadangi jo kilmės mįslė dingsta žilos senovės toliuose. Ponas Foig-
-    tas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.
-    4 Dusburg.
+  citata_rodoma: "Tie­\nsa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,\nkadangi jo kilmės mįslė dingsta žilos senovės toliuose. Ponas Foig-\ntas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.\n4 Dusburg."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194652
+    - t-001
+    - t-002

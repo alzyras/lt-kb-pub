@@ -42,7 +42,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 
 <a id="claim-t-175285"></a>
 - t-001
-  global_id: t-175285
   teiginys: "Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atiduos Žemaičius ir Dobrynę."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     - c-159442
 
 <a id="claim-t-175286"></a>
-- t-002
-  global_id: t-175286
+- t-006
   teiginys: "Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,9 +72,9 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   pagrindžia:
     - c-159444
     - c-167535
+
 <a id="claim-t-175287"></a>
-- t-003
-  global_id: t-175287
+- t-008
   teiginys: "Dusburgiečio aprašyme Dobrynės kunigaikštystė minima tarp Prūsijos žemę ribojusių teritorijų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,29 +89,8 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   pagrindžia:
     - c-159440
 
-<a id="claim-t-175288"></a>
-- t-004
-  global_id: t-175288
-  teiginys: "Prūsai Dobrynės ordiną galėjo pulti 1224–1225 m."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dobrynė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dobrynė\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1224-1225; įvykio data: 1225 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko trumpą faktinį teiginį be bibliografinio triukšmo."
-  pagrindžia:
-    - c-159439
-
 <a id="claim-t-175289"></a>
-- t-005
-  global_id: t-175289
+- t-002
   teiginys: "Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -129,8 +106,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     - c-159436
 
 <a id="claim-t-175290"></a>
-- t-006
-  global_id: t-175290
+- t-003
   teiginys: "Lenkijoje nuo seniau vyko ginčas dėl Dobrynės žemės."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -146,8 +122,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     - c-37340
 
 <a id="claim-t-175292"></a>
-- t-007
-  global_id: t-175292
+- t-005
   teiginys: "Prūsai kelis kartus su gausiomis ginkluotomis pajėgomis puolė Dobrynės pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -163,8 +138,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     - c-159441
 
 <a id="claim-t-175293"></a>
-- t-008
-  global_id: t-175293
+- t-004
   teiginys: "Dobrynės pilis davė vardą broliams, kurie vėliau buvo pavadinti Dobrynės broliais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -181,24 +155,15 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 
 <a id="claim-t-175294"></a>
 - t-009
-  global_id: t-175294
   teiginys: "Drevanta skyrė lenkiškąją Dobrynės žemę nuo upių ir ežerų supamo ploto pietryčiuose."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drevanta: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dobrynė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Drevanta: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dobrynė\" parinktas kaip owner_note_path. Targetas \"Drevanta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-159443
+    - c-159440
 
 <a id="claim-t-184941"></a>
-- t-010
-  global_id: t-184941
+- t-011
   teiginys: "Vytenis, Lietuvai atsigavus po smūgio, vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -218,8 +183,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     - c-168302
 
 <a id="claim-t-196678"></a>
-- t-011
-  global_id: t-196678
+- t-012
   teiginys: "Dobrynėje sekmadienį žmonėms suėjus iš kaimų į bažnyčias, miestą pavyko užimti staigiu antpuoliu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -232,8 +196,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     - c-168302
 
 <a id="claim-t-196679"></a>
-- t-012
-  global_id: t-196679
+- t-013
   teiginys: "Kojelavičiaus pasakojime Gediminas apie rugsėjo vidurį patraukė į Mazoviją ir Dobrynę, kad kariuomenė po karo su kryžiuočiais atgautų narsą grobiu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -391,7 +354,8 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175290
+    - t-003
+
 - id: c-159436
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -409,7 +373,8 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175289
+    - t-002
+
 - id: c-159438
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -421,18 +386,15 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     padedami, ateityje pajungsią savo valdžiai. Kai apie tai sužinojo prūsai, jie, smarkiai
     suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
     ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170.
-  citata_rodoma: |
-    broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
-    jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis
-    ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
-    padedami, ateityje pajungsią savo valdžiai.
+  citata_rodoma: "broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė\njiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis\nir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties\npadedami, ateityje pajungsią savo valdžiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175293
+    - t-004
+
 - id: c-159439
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -451,16 +413,13 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
     Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
     Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
-  citata_rodoma: |
-    170 Dobrynės ordiną prūsai galėjo pulti 1224—1225 m. (Powierski J. Przekaz..., p.
-    411).
+  citata_rodoma: "170 Dobrynės ordiną prūsai galėjo pulti 1224—1225 m. (Powierski J. Przekaz..., p.\n411)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-175288
 - id: c-159440
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -473,20 +432,16 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
     e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
     (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų.
-  citata_rodoma: |
-    Prūsijos žemės aprašymas
-
-       Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,
-    Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo
-    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
-    bei Pomeraniją nuo Prūsijos186.
+  citata_rodoma: "Prūsijos žemės aprašymas\n\n   Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,\nMazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175287
+    - t-008
+    - t-009
+
 - id: c-159441
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -499,19 +454,15 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170. To maža,
     ilgainiui jie taip suįžūlėjo, kad nuolatos penki ar keturi prūsai kiek tinkami prie pilies
     plėšikavo.
-  citata_rodoma: |
-    Kai apie tai sužinojo prūsai, jie, smarkiai
-    suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
-    ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170. To maža,
-    ilgainiui jie taip suįžūlėjo, kad nuolatos penki ar keturi prūsai kiek tinkami prie pilies
-    plėšikavo.
+  citata_rodoma: "Kai apie tai sužinojo prūsai, jie, smarkiai\nsuirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto\nant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170. To maža,\nilgainiui jie taip suįžūlėjo, kad nuolatos penki ar keturi prūsai kiek tinkami prie pilies\nplėšikavo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175292
+    - t-005
+
 - id: c-159442
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -528,7 +479,8 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175285
+    - t-001
+
 - id: c-159443
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -537,16 +489,13 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     Dravinė, Dreverna — Vanagas A. Lietuvių hidronimų..., p. 90—
     91; Salys A. [Prūsų] kalba, p. 148; Топоров B. H. Прусский язык, А—D, с. 371; K—L,
     с.
-  citata_rodoma: |
-    Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo
-    lenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Drvenca).
+  citata_rodoma: "Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo\nlenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Drvenca)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-175294
 - id: c-159444
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -558,19 +507,15 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     besiribojančios su prūsų teritorija, centras.
     169 Kaimas Sedlce (D.— Cedelicze) buvęs į pietus nuo Vyslos, kiek į šiaurę nuo
     Inovroclavo (minimas XIII a. 3—4 dešimtmečių dokumentuose).
-  citata_rodoma: |
-    Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
-    kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
-      168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje
-    besiribojančios su prūsų teritorija, centras.
-      169 Kaimas Sedlce (D.
+  citata_rodoma: "Juos išklausęs, minėtasis valdovas Konradas, Lenkijos\nkunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas\n  168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje\nbesiribojančios su prūsų teritorija, centras.\n  169 Kaimas Sedlce (D."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175286
+    - t-006
+
 - id: c-167535
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -583,10 +528,12 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     besiribojančios su prūsų teritorija, centras.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-168302
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -613,23 +560,16 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     ėję iš kaimų į bažnyčias,
     miestą pavyko užimti staigiu
     antpuoliu.
-  citata_rodoma: |
-    Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė.
-    Kadangi Dobrynėje sekmadienį visi žmonės buvo su-
-    D o b iy n ą , ž u d o k i y -
-    nių ir plėšimo, žuvo liepsno-
-    devynis tūkstančius belaisvių. Su kryžiuočiais kautasi
-    atvirame lauke: mūšyje krito ordino magistras Bur-
-    chardas Aremas su trisdešimčia to ordino riterių, o
-    lietuviai laimėjo kautynes.
+  citata_rodoma: "Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė. \nKadangi Dobrynėje sekmadienį visi žmonės buvo su-\nD o b iy n ą , ž u d o k i y - \nnių ir plėšimo, žuvo liepsno-\ndevynis tūkstančius belaisvių. Su kryžiuočiais kautasi \natvirame lauke: mūšyje krito ordino magistras Bur- \nchardas Aremas su trisdešimčia to ordino riterių, o \nlietuviai laimėjo kautynes."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184941
-    - t-196678
+    - t-011
+    - t-012
+
 - id: c-178836
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -663,7 +603,8 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196679
+    - t-013
+
 ## Ryšiai
 - Puolė Dobrynę: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Kryžiuočių ordinas]]
 - Užėmė Dobrynę: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -8,12 +8,12 @@ datos:
   - '1432 m.'
 date_start: '1416'
 date_end: '1432'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XV'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-202099"></a>
 - t-001
-  global_id: t-202099
   teiginys: "1432 m. Kauno seniūnu vėl vadinamas Sudivojaus brolis Šedbaras Valmantaitis, bet ir šis tais pačiais metais dingo iš valstybės gyvenimo."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ media_all_json: |-
 
 <a id="claim-t-202100"></a>
 - t-002
-  global_id: t-202100
   teiginys: "Šedbaras vykdavo pasiuntiniu į Ordiną ar buvo derybų su Ordinu dalyvis 1416, 1425, 1430 m. Turėjo ir kitų pareigų - 1430 m. buvo pasiuntinybėje pas popiežių dėl Vytauto karūnavimo reikalų, 1431 m. Švitrigaila siuntė jį pas Jogailą."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202099
+    - t-001
 
 - id: c-185447
   autorius: "Zigmantas Kiaupa"
@@ -94,4 +92,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202100
+    - t-002

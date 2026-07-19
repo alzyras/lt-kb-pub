@@ -31,7 +31,6 @@ Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organiz
 
 <a id="claim-t-77826"></a>
 - t-001
-  global_id: t-77826
   teiginys: "Lenkų tautiniai demokratai buvo labiausiai Lietuvoje veiklą išplėtojusi lenkų politinė jėga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organiz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77826
+    - t-001

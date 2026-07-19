@@ -42,7 +42,6 @@ Suomijos įlanka, „ 5 1558 m. Maskvos kariuomenė užėmė dalį Livonijos kon
 
 <a id="claim-t-41065"></a>
 - t-001
-  global_id: t-41065
   teiginys: "1561 m. sutartimi su LDK Livonijos konfederacija buvo panaikinta, o didesnė Livonijos dalis tapo Lietuvos dalimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,16 +75,11 @@ Suomijos įlanka, „ 5 1558 m. Maskvos kariuomenė užėmė dalį Livonijos kon
 
     Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
     Lietuvos kariuomenių struktūrą:
-  citata_rodoma: |
-    1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protek-
-    toratu. 1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
-    didesnė dalis Livonijos tapo Lietuvos dalimi
-
-    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.
+  citata_rodoma: "1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protek-\ntoratu. 1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,\ndidesnė dalis Livonijos tapo Lietuvos dalimi\n\nIštrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41065
+    - t-001

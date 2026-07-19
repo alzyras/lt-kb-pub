@@ -32,22 +32,6 @@ media_all_json: |-
 
 Narbutas nurodo, kad Hartknochas kaip įrodymą pateikia „Litterae Gregorii Papae IX“, paskelbtas Raynaldo „Annales ecclesiasticae“ prie 1232 metų.
 
-## Teiginiai
-
-<a id="claim-t-190545"></a>
-- t-001
-  global_id: t-190545
-  teiginys: "Narbutas nurodo, kad Hartknochas kaip įrodymą pateikia „Litterae Gregorii Papae IX“, paskelbtas Raynaldo „Annales ecclesiasticae“ prie 1232 metų."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-173428
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad Hartknochas kaip įrodymą pateikia „Litterae Gregorii Papae IX“, paskelbtas Raynaldo „Annales ecclesiasticae“ prie 1232 metų.'
@@ -63,8 +47,7 @@ Narbutas nurodo, kad Hartknochas kaip įrodymą pateikia „Litterae Gregorii Pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190545
+
 ## Citatos
 
 - id: c-173428
@@ -79,16 +62,26 @@ Narbutas nurodo, kad Hartknochas kaip įrodymą pateikia „Litterae Gregorii Pa
     Hartknochas (p. 548), šis paprotys dar ilgai gyvavo kryžiuočių
     valdomoje Prūsijoje, nes ši religinė apeiga sutvirtindavo prie­
     saiką labiau nei pirštų padėjimas ant Evangelijos.
-  citata_rodoma: |
-    Kad nuramintume žmoniškumo gynėjus, turime
-    16
-    Įrodymui Hartknochas pateikia: Litterae Gregorii Papae IX
-    // Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum
-    1232. -  Nr. 7.
+  citata_rodoma: "Kad nuramintume žmoniškumo gynėjus, turime\n16\nĮrodymui Hartknochas pateikia: Litterae Gregorii Papae IX\n// Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum\n1232. -  Nr. 7."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190545
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-190545"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad Hartknochas kaip įrodymą pateikia „Litterae Gregorii Papae IX“, paskelbtas Raynaldo „Annales ecclesiasticae“ prie 1232 metų."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-173428

@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-193728"></a>
 - t-001
-  global_id: t-193728
   teiginys: "1925 m. Klaipėdos krašto gyventojų surašymo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000 vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo lietuviškai."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193728
+    - t-001

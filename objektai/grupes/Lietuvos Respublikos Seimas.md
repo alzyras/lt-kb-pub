@@ -30,8 +30,7 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
 ## Teiginiai
 
 <a id="claim-t-74771"></a>
-- t-001
-  global_id: t-74771
+- t-003
   teiginys: "Konstitucija nustatė, kad valstybės valdžią Lietuvoje vykdo Seimas, Respublikos prezidentas, Vyriausybė ir teismas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
     - c-72787
 
 <a id="claim-t-74773"></a>
-- t-002
-  global_id: t-74773
+- t-001
   teiginys: "Pagal Konstituciją Seimas kartu su Respublikos prezidentu, Vyriausybe ir teismu vykdo valstybės valdžią Lietuvoje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -86,20 +84,15 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
     tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią
     Lietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,
     valdžios galias riboja konstitucija.
-  citata_rodoma: |
-    Pagrindinės Konstitucijos nuostatos skelbė,
-    kad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta,
-    suverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo
-    tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią
-    Lietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,
-    valdžios galias riboja konstitucija.
+  citata_rodoma: "Pagrindinės Konstitucijos nuostatos skelbė,\nkad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta,\nsuverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo\ntiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią\nLietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,\nvaldžios galias riboja konstitucija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74773
+    - t-001
+
 - id: c-72787
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -123,4 +116,4 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74771
+    - t-003

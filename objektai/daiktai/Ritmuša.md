@@ -51,18 +51,16 @@ Nenurodyta
 
 <a id="claim-t-08321"></a>
 - t-001
-  global_id: t-08321
   teiginys: "Ritmuša buvo senovinis vaikų žaidimo ir karinės pratybos įrankis."
-  atnaujinta: "2026-05-30 12:00"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
-    - c-56403
+    - c-56404
 
 <a id="claim-t-08322"></a>
 - t-002
-  global_id: t-08322
   teiginys: "Ritmuša buvo senovinis jaunimo karės įrankis, kurio mokėsi nuo mažų dienų."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -93,37 +91,30 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Nuo to kiekvienas gali minėti, kas per karingumas turėjo būti tos giminės taip augusios, nesgi
-    vaikeliai^396 ?, atlikę nuo kokio noris darbo, tuojau kibo į ritinį mušti, ir tas buvo skudriu vadinamas,
-    kurs lekiantį ant savęs ritinį pro save nepraleido, bet su ritmuša antram atbloškė ir dėl to vien
-    jau vyru vadinos
-  citata_rodoma: |
-    Nuo to kiekvienas gali minėti, kas per karingumas turėjo būti tos giminės taip augusios, nesgi
-    vaikeliai^396 ?, atlikę nuo kokio noris darbo, tuojau kibo į ritinį mušti, ir tas buvo skudriu vadinamas,
-    kurs lekiantį ant savęs ritinį pro save nepraleido, bet su ritmuša antram atbloškė ir dėl to vien
-    jau vyru vadinos
+        vaikeliai^396 ?, atlikę nuo kokio noris darbo, tuojau kibo į ritinį mušti, ir tas buvo skudriu vadinamas,
+        kurs lekiantį ant savęs ritinį pro save nepraleido, bet su ritmuša antram atbloškė ir dėl to vien
+        jau vyru vadinos.
+  citata_rodoma: "Nuo to kiekvienas gali minėti, kas per karingumas turėjo būti tos giminės taip augusios, nesgi\nvaikeliai^396 ?, atlikę nuo kokio noris darbo, tuojau kibo į ritinį mušti, ir tas buvo skudriu vadinamas,\nkurs lekiantį ant savęs ritinį pro save nepraleido, bet su ritmuša antram atbloškė ir dėl to vien\njau vyru vadinos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-08321
 - id: c-56404
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
-    Trumpai sakant, ritmuša buvo senovėj karės
-    įrankis lietuvių jaunuomenės, kalnėnų ir žemaičių, kaipo visų didžiausia karės mokslinyčia^399 , kaip
-    tuojau regėsim, nesgi tuo mokės nuo pat mažų dienų, kaip gintis ir kaip neprietelių paveikti
-  citata_rodoma: |
-    Trumpai sakant, ritmuša buvo senovėj karės
-    įrankis lietuvių jaunuomenės, kalnėnų ir žemaičių, kaipo visų didžiausia karės mokslinyčia^399 , kaip
-    tuojau regėsim, nesgi tuo mokės nuo pat mažų dienų, kaip gintis ir kaip neprietelių paveikti
+    Trumpai sakant, ritmuša buvo senovėj karės įrankis lietuvių jaunuomenės, kalnėnų ir žemaičių,
+        kaipo visų didžiausia karės mokslinyčia^399 , kaip tuojau regėsim, nesgi tuo mokės nuo pat mažų
+        dienų, kaip gintis ir kaip neprietelių paveikti.
+  citata_rodoma: "Trumpai sakant, ritmuša buvo senovėj karės įrankis lietuvių jaunuomenės, kalnėnų ir žemaičių,\nkaipo visų didžiausia karės mokslinyčia^399 , kaip tuojau regėsim, nesgi tuo mokės nuo pat mažų\ndienų, kaip gintis ir kaip neprietelių paveikti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08322
+    - t-001
+    - t-002

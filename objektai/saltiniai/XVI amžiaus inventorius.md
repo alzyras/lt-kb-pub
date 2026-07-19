@@ -36,7 +36,6 @@ Kruopščiai atrinkęs iš Centrinio Valstybės Archyvo (Kaune) ir eilės kitų 
 
 <a id="claim-t-31994"></a>
 - t-001
-  global_id: t-31994
   teiginys: "Jablonskis 1934 m. išleido „XVI amžiaus inventorius“, parengtus iš Kauno Centrinio Valstybės archyvo ir kitų Lietuvos archyvų aktų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,15 +68,11 @@ Kruopščiai atrinkęs iš Centrinio Valstybės Archyvo (Kaune) ir eilės kitų 
     iki tol nespausdintų XVI amž. dvarų, folvarkų, kaimų, miestelių
     ir bažnytinių inventorių, kurie yra visokeriopai svarbūs Lietuvos
     kultūros istorijai.
-  citata_rodoma: |
-    Kruopščiai atrinkęs iš Centrinio Valstybės Archyvo (Kaune)
-    ir eilės kitų Lietuvos archyvų reikalingus aktus, Jablonskis išleido
-    «XVI amžiaus inventorius» (1934). Ten jis paskelbė beveik pusę
-    iki tol nespausdintų XVI amž.
+  citata_rodoma: "Kruopščiai atrinkęs iš Centrinio Valstybės Archyvo (Kaune)\nir eilės kitų Lietuvos archyvų reikalingus aktus, Jablonskis išleido\n«XVI amžiaus inventorius» (1934). Ten jis paskelbė beveik pusę\niki tol nespausdintų XVI amž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31994
+    - t-001

@@ -40,8 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88276"></a>
-- t-001
-  global_id: t-88276
+- t-003
   teiginys: "Po Paleckių mirties jų sūnūs turėjo perduoti privilegijas miestui ir per dvidešimt savaičių išparduoti likusį stiklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ media_all_json: |-
     - c-84256
 
 <a id="claim-t-88277"></a>
-- t-002
-  global_id: t-88277
+- t-001
   teiginys: "Miesto aktuose buvo karaliaus Stepono patvirtinta Martyno Paleckio, jo žmonos ir Vilniaus miesto sutartis dėl stiklo liejyklos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ media_all_json: |-
     - c-84255
 
 <a id="claim-t-88278"></a>
-- t-003
-  global_id: t-88278
+- t-002
   teiginys: "1583 metų Varšuvos seime Vilniaus miestas ir Martynas Paleckis sudarė sutartį dėl stiklo liejyklos ir stiklo supirkimo teisių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,27 +111,15 @@ media_all_json: |-
     ir Eišiškių valdytojas, monopolis
     kaskart vis didesnę žalą daro mies­
     tui, norėjo jo privilegiją atšaukti.
-  citata_rodoma: |
-    1619 m.
-    56
-    Miesto aktuose yra: karaliaus Stepo­
-    no patvirtinimas sutarties tarp po­
-    no Martyno Paleckio ir jo žmonos,
-    dabar ponios Rainos Sluščiankos, ir
-    miesto dėl stiklo liejyklos ir stiklo su­
-    pirkimo. Buvo taip: Vilniaus vaitas
-    ir burmistrai, matydami, kad Palec­
-    kio, kuris buvo karaliaus maršalka
-    ir Eišiškių valdytojas, monopolis
-    kaskart vis didesnę žalą daro mies­
-    tui, norėjo jo privilegiją atšaukti.
+  citata_rodoma: "1619 m.\n56\nMiesto aktuose yra: karaliaus Stepo­\nno patvirtinimas sutarties tarp po­\nno Martyno Paleckio ir jo žmonos, \ndabar ponios Rainos Sluščiankos, ir \nmiesto dėl stiklo liejyklos ir stiklo su­\npirkimo. Buvo taip: Vilniaus vaitas \nir burmistrai, matydami, kad Palec­\nkio, kuris buvo karaliaus maršalka \nir Eišiškių valdytojas, monopolis \nkaskart vis didesnę žalą daro mies­\ntui, norėjo jo privilegiją atšaukti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88277
+    - t-001
+
 - id: c-84256
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -155,7 +140,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88276
+    - t-003
+
 - id: c-84257
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -200,4 +186,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88278
+    - t-002

@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-193480"></a>
 - t-001
-  global_id: t-193480
   teiginys: "Krokuvos vyskupas Zbignevas Olesnickis Vytautui senate aiškino, kad imperatoriaus draugystė esanti įtartina, o jo siūlymai pavojingi."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Nenurodyta
     - c-176181
 
 <a id="claim-t-196327"></a>
-- t-002
-  global_id: t-196327
+- t-003
   teiginys: "Kojelavičius vaizduoja, kad Gnezno arkivyskupas senate kalbėjo iškalbingai, bet varžėsi įžeisti Vytautą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -101,5 +99,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193480
-    - t-196327
+    - t-001
+    - t-003

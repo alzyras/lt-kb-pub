@@ -30,7 +30,6 @@ Etiko „Kosmografija“ buvo Ksavero Bogušo naudotas pagrindas įrodymams apie
 
 <a id="claim-t-191392"></a>
 - t-001
-  global_id: t-191392
   teiginys: "Etiko „Kosmografija“ buvo Ksavero Bogušo naudotas pagrindas įrodymams apie estus ir jiems priskiriamas lietuvių gentis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Etiko „Kosmografija“ buvo Ksavero Bogušo naudotas pagrindas įrodymams apie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191392
+    - t-001

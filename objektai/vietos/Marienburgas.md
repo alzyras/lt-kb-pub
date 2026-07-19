@@ -51,8 +51,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
 ## Teiginiai
 
 <a id="claim-t-177683"></a>
-- t-001
-  global_id: t-177683
+- t-023
   teiginys: "Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą puolamos pilies sienų aukštį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161535
 
 <a id="claim-t-177684"></a>
-- t-002
-  global_id: t-177684
+- t-026
   teiginys: "1401 m. sausio mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys krikštijosi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,8 +87,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161540
 
 <a id="claim-t-177685"></a>
-- t-003
-  global_id: t-177685
+- t-013
   teiginys: "1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,10 +105,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161539
 
 <a id="claim-t-177686"></a>
-- t-004
-  global_id: t-177686
+- t-019
   teiginys: "Marienburgo pilis Nogato deš."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -129,8 +125,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161534
 
 <a id="claim-t-177687"></a>
-- t-005
-  global_id: t-177687
+- t-027
   teiginys: "Henrikui von Plauenui Marienburge surinkus apie 5000 vyrų įgulą, liepos 25 d. atvykę Jogaila ir Vytautas tvirtovės nebeįstengė paimti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -146,10 +141,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161538
 
 <a id="claim-t-177688"></a>
-- t-006
-  global_id: t-177688
+- t-018
   teiginys: "1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, tai yra Šventosios Marijos pilimi."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Santyras: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -167,8 +161,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161544
 
 <a id="claim-t-177689"></a>
-- t-007
-  global_id: t-177689
+- t-006
   teiginys: "Vaidyla, turimomis žiniomis, kelis kartus slaptai keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -184,8 +177,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-37528
 
 <a id="claim-t-177690"></a>
-- t-008
-  global_id: t-177690
+- t-005
   teiginys: "Skirgaila Marienburge buvo draugiškai ir vaišingai priimtas, nes Ordinas veikiausiai žinojo ar nujautė jo pasiuntinystės tikslus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -201,8 +193,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161543
 
 <a id="claim-t-177692"></a>
-- t-009
-  global_id: t-177692
+- t-014
   teiginys: "Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla, paskui per jūros įlanką įplaukė į Nemuną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -218,8 +209,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161537
 
 <a id="claim-t-177693"></a>
-- t-010
-  global_id: t-177693
+- t-016
   teiginys: "Ordino dokumentų nuorašas į Marienburgą galėjo patekti defektuotas ir nepilnas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -235,8 +225,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161547
 
 <a id="claim-t-177694"></a>
-- t-011
-  global_id: t-177694
+- t-017
   teiginys: "Nuo 1309 m. Marienburgas buvo vienas iš Ordino administracinių centrų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -256,8 +245,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161536
 
 <a id="claim-t-177695"></a>
-- t-012
-  global_id: t-177695
+- t-028
   teiginys: "Vytauto kariuomenę išretino ne tik Žalgirio kautynės, bet ir prie Marienburgo prasidėjusios ligos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -273,8 +261,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161546
 
 <a id="claim-t-177696"></a>
-- t-013
-  global_id: t-177696
+- t-015
   teiginys: "1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške Steponas Batoras sutiko atidėti muito rinkimą iki seimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -293,8 +280,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161539
 
 <a id="claim-t-177697"></a>
-- t-014
-  global_id: t-177697
+- t-025
   teiginys: "1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Jurgenburgą bei Naująjį Bajerburgą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -313,8 +299,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-32211
 
 <a id="claim-t-177698"></a>
-- t-015
-  global_id: t-177698
+- t-012
   teiginys: "Slaptai suruošto žygio metu didysis magistras iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -330,8 +315,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-161537
 
 <a id="claim-t-177700"></a>
-- t-016
-  global_id: t-177700
+- t-021
   teiginys: "Vaidyla kelis kartus slapta keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -347,8 +331,7 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     - c-37528
 
 <a id="claim-t-185038"></a>
-- t-017
-  global_id: t-185038
+- t-029
   teiginys: "Vytautas Marienburge surengė dukters Sofijos palydėtuves prieš jos santuoką su Maskvos kunigaikščiu Vasilijumi."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -480,7 +463,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177697
+    - t-025
+
 - id: c-37528
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -495,20 +479,16 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     kimą sudaryti naują sutartį.
     Norėdamas paslėpti nuo Kęstučio savo paskutinius suma­
     nymus, Jogaila padarė Dovydiškiuose neva medžioklę^4 ).
-  citata_rodoma: |
-    Yra žinių, kad Vaidyla keletą kartų slaptai kelia­
-    vęs į Marienburgą ir iš Vokiečių Ordino magistro gavęs suti­
-    kimą sudaryti naują sutartį.
-    Norėdamas paslėpti nuo Kęstučio savo paskutinius suma­
-    nymus, Jogaila padarė Dovydiškiuose neva medžioklę^4 ).
+  citata_rodoma: "Yra žinių, kad Vaidyla keletą kartų slaptai kelia­\nvęs į Marienburgą ir iš Vokiečių Ordino magistro gavęs suti­\nkimą sudaryti naują sutartį.\nNorėdamas paslėpti nuo Kęstučio savo paskutinius suma­\nnymus, Jogaila padarė Dovydiškiuose neva medžioklę^4 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177689
-    - t-177700
+    - t-006
+    - t-021
+
 - id: c-161534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -520,16 +500,15 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto,
     negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios
     žemę503 su visa šeimyna ir bičiuliais.
-  citata_rodoma: |
-    500 Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti
-    1272 m. ar 1274 m.
+  citata_rodoma: "500 Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti\n1272 m. ar 1274 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177686
+    - t-019
+
 - id: c-161535
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -543,7 +522,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177683
+    - t-023
+
 - id: c-161536
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -556,20 +536,15 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     m —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti
     apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m. buvo didžiojo maršalo
     rezidencija136.
-  citata_rodoma: |
-    pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
-    100 kelių  į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,
-    kad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau. Ordino
-    administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309
-    m —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti
-    apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m.
+  citata_rodoma: "pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus\n100 kelių  į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,\nkad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau. Ordino\nadministraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309\nm —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti\napie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177694
+    - t-017
+
 - id: c-161537
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -586,26 +561,16 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     įplaukė į Nemuną. Mūsų istorikai
     bendrais bruožais ir ne taip išsamiai
     apie šitai pasakoja.
-  citata_rodoma: |
-    9 4 .
-    52
-    Tas žygis buvo paskubomis ir slap­
-    ta suruoštas, ir todėl didysis magist­
-    ras tuokart mažai teturėjo svetimša­
-    lių, juk nesigarsino po visą Europą,
-    o slapčia iš Marienburgo išplaukė
-    Vysla laivais, paskui jūros įlanka
-    įplaukė į Nemuną. Mūsų istorikai
-    bendrais bruožais ir ne taip išsamiai
-    apie šitai pasakoja.
+  citata_rodoma: "9 4 .\n52\nTas žygis buvo paskubomis ir slap­\nta suruoštas, ir todėl didysis magist­\nras tuokart mažai teturėjo svetimša­\nlių, juk nesigarsino po visą Europą, \no slapčia iš Marienburgo išplaukė \nVysla laivais, paskui jūros įlanka \nįplaukė į Nemuną. Mūsų istorikai \nbendrais bruožais ir ne taip išsamiai \napie šitai pasakoja."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177692
-    - t-177698
+    - t-014
+    - t-012
+
 - id: c-161538
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -619,21 +584,15 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     Buvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos
     ordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius
     _sulaikė_ nuo dalyvavimo Žalgirio kautynėse.
-  citata_rodoma: |
-    Kai
-    Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko
-    apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės
-    jau nebeįstengė paimti.
-    Buvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos
-    ordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius
-    _sulaikė_ nuo dalyvavimo Žalgirio kautynėse.
+  citata_rodoma: "Kai\nSchwetzo komtūras Henrikas von Plauen į Marienburgą surinko\napie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės\njau nebeįstengė paimti.\nBuvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos\nordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius\n_sulaikė_ nuo dalyvavimo Žalgirio kautynėse."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177687
+    - t-027
+
 - id: c-161539
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -671,8 +630,9 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177685
-    - t-177696
+    - t-013
+    - t-015
+
 - id: c-161540
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -684,18 +644,15 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik
     ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys
     krikštijosi.
-  citata_rodoma: |
-    to meto Lietuvos branginamomis importo prekėmis. 1401 m. sausio
-    mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik
-    ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys
-    krikštijosi.
+  citata_rodoma: "to meto Lietuvos branginamomis importo prekėmis. 1401 m. sausio\nmėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik\nieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys\nkrikštijosi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177684
+    - t-026
+
 - id: c-161543
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -709,19 +666,15 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     kai ir vaišingai priimtas. Nors jo kelionės tikslas sunku aiškiai
     nusakyti, bet vis dėlto jis negalėjo neturėti ryšio su tais santy­
     kiais, kuriuos vėliau Jogaila užmezgė su Vokiečių Ordinu.
-  citata_rodoma: |
-    Ordinas, matyti, apie Skirgailos pasiuntinystės
-    tikslus žinojo ar bent nujautė, nes jis Marienburge buvo draugiš­
-    kai ir vaišingai priimtas. Nors jo kelionės tikslas sunku aiškiai
-    nusakyti, bet vis dėlto jis negalėjo neturėti ryšio su tais santy­
-    kiais, kuriuos vėliau Jogaila užmezgė su Vokiečių Ordinu.
+  citata_rodoma: "Ordinas, matyti, apie Skirgailos pasiuntinystės\ntikslus žinojo ar bent nujautė, nes jis Marienburge buvo draugiš­\nkai ir vaišingai priimtas. Nors jo kelionės tikslas sunku aiškiai\nnusakyti, bet vis dėlto jis negalėjo neturėti ryšio su tais santy­\nkiais, kuriuos vėliau Jogaila užmezgė su Vokiečių Ordinu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177690
+    - t-005
+
 - id: c-161544
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -736,24 +689,15 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats,
     todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę
     puotauti.
-  citata_rodoma: |
-    208 (203). Apie Marienburgo pilies pastatymą
-
-      1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
-    kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios
-    šlovei bei garbei ji čia ir buvo perkelta500.
-
-
-
-
-        209 (204).
+  citata_rodoma: "208 (203). Apie Marienburgo pilies pastatymą\n\n  1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,\nkur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios\nšlovei bei garbei ji čia ir buvo perkelta500.\n\n\n\n\n    209 (204)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177688
+    - t-018
+
 - id: c-161546
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -764,18 +708,15 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     Žalgirio kautynėse, bet ir prie Marienburgo prasidėjusių ligų^35.
     Be to, didelis nuovargis ir maisto trukumas vertė Vytautą grįžti
     atgal.
-  citata_rodoma: |
-    Vytauto kariuomenė buvo stipriai išretinta ne tik
-    Žalgirio kautynėse, bet ir prie Marienburgo prasidėjusių ligų^35.
-    Be to, didelis nuovargis ir maisto trukumas vertė Vytautą grįžti
-    atgal.
+  citata_rodoma: "Vytauto kariuomenė buvo stipriai išretinta ne tik\nŽalgirio kautynėse, bet ir prie Marienburgo prasidėjusių ligų^35.\nBe to, didelis nuovargis ir maisto trukumas vertė Vytautą grįžti\natgal."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177695
+    - t-028
+
 - id: c-161547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -790,19 +731,15 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     1230 m. kunigaikščio Konrado dovanojamuoju raštu (II, 5), popiežiaus 1230 m. sausio
     18 d. bule (II, 6), žuvusia Sventopelko ir Ordino 1243 m. sutartimi (III, 39), kad galėjęs
     žinoti 1282 m.
-  citata_rodoma: |
-    iš to daroma išvada, kad jau
-    Akone buvęs tam tikras kalendorius arba nekrologas, turėjęs priminti mirusiųjų metines.
-    Jo nuorašas su kitais Ordino dokumentais  į Marienburgą galėjo pakliūti defektuotas,
-    nepilnas, tuo iš dalies paaiškinamos ir Dusburgiečio klaidos. Kitokios kilmės jo pateikiami
-    duomenys apie vėlesnius magistrus.
+  citata_rodoma: "iš to daroma išvada, kad jau\nAkone buvęs tam tikras kalendorius arba nekrologas, turėjęs priminti mirusiųjų metines.\nJo nuorašas su kitais Ordino dokumentais  į Marienburgą galėjo pakliūti defektuotas,\nnepilnas, tuo iš dalies paaiškinamos ir Dusburgiečio klaidos. Kitokios kilmės jo pateikiami\nduomenys apie vėlesnius magistrus."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177693
+    - t-016
+
 - id: c-168399
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -837,34 +774,15 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
     tačiau tuo pat metu Vytautas Marienburge surengė sa­
     vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
     Vasilijaus, dideles palydėtuves.
-  citata_rodoma: |
-    Priėmus nutarimą, ieškota žmogaus, kuriam be
-    pavojaus galima būtų patikėti šią slaptą užduotį, mat jis
-    turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti
-    pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­
-    dovauti galop parinko Henriką, mozūrų kunigaikščio
-    Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.
-    Jo atvykimas (tiesą sakant,
-    P a šn e n k a m a s m o zū rų
-    daug kas manė, jog dėl gi-
-    k u n ig a ik štis
-    H enri-
-    minystės jis gali likti nepas-
-    k a s
-    tebėtas) anaiptol negalėjo ne­
-    sukelti kryžiuočiams įtarimo,
-    tačiau tuo pat metu Vytautas Marienburge surengė sa­
-    vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
-    Vasilijaus, dideles palydėtuves. Visi manė, jog su kitais
-    kunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,
-    Vytauto žmonos Onos brolis.
+  citata_rodoma: "Priėmus nutarimą, ieškota žmogaus, kuriam be\npavojaus galima būtų patikėti šią slaptą užduotį, mat jis\nturėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti\npasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­\ndovauti galop parinko Henriką, mozūrų kunigaikščio\nZemovito sūnų, neseniai vainikuotą Plocko vyskupu.\nJo atvykimas (tiesą sakant,\nP a šn e n k a m a s m o zū rų\ndaug kas manė, jog dėl gi-\nk u n ig a ik štis\nH enri-\nminystės jis gali likti nepas-\nk a s\ntebėtas) anaiptol negalėjo ne­\nsukelti kryžiuočiams įtarimo,\ntačiau tuo pat metu Vytautas Marienburge surengė sa­\nvo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio\nVasilijaus, dideles palydėtuves. Visi manė, jog su kitais\nkunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,\nVytauto žmonos Onos brolis."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185038
+    - t-029
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]
 - Gyvenamoji vieta: [[objektai/asmenys/Fridrichas (Marienburgo brolis)]], [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]], [[objektai/asmenys/Heinemanas (Marienburgo brolis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

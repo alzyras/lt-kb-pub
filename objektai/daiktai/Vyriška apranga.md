@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-19610"></a>
 - t-001
-  global_id: t-19610
   teiginys: "Emilija Pliaterytė sukilėlių daliniuose kovėsi vilkėdama vyrišką aprangą ir jodama ant žirgo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,12 +77,11 @@ Nenurodyta
     Be lenkų kariuomenės, Lietuvoje sukilėlių daliniuose buvo apie
     30  tūkst. kovotojų. Sukilimo legenda tapo jauna dvarininkaitė Emilija
     Pliaterytė (Emilia Plater-Broel), kovojusi su vyriška apranga ir ant žirgo.
-  citata_rodoma: |
-    Pliaterytė (Emilia Plater-Broel), kovojusi su vyriška apranga ir ant žirgo.
+  citata_rodoma: "Pliaterytė (Emilia Plater-Broel), kovojusi su vyriška apranga ir ant žirgo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19610
+    - t-001

@@ -36,8 +36,7 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
 ## Teiginiai
 
 <a id="claim-t-20054"></a>
-- t-001
-  global_id: t-20054
+- t-002
   teiginys: "1935 m. Pasaulio lietuvių kongresas Kaune parodė, kad dauguma užsienio lietuvių buvo artimi Lietuvai ir rūpinosi jos ateitimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
     - c-22790
 
 <a id="claim-t-20055"></a>
-- t-002
-  global_id: t-20055
+- t-001
   teiginys: "Per 20 metų lietuviai iš Lietuvos daugiausia emigravo į Pietų Amerikos šalis: Argentiną, Braziliją, Venesuelą ir Urugvajų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,15 +86,15 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
     iš 19 valstybių, parodė, kad dauguma užsienio lietuvių artimi Lietuvai,
     rūpinasi jos ateitimi, nors ir nepritaria autoritarinio režimo įvestiems
     politiniams suvaržymams.
-  citata_rodoma: |
-    gas politines organizacijas, profesiškai ar tiesiog asmeniškai. Pasaulio
+  citata_rodoma: "gas politines organizacijas, profesiškai ar tiesiog asmeniškai. Pasaulio"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20054
+    - t-002
+
 - id: c-166577
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -114,4 +112,4 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20055
+    - t-001

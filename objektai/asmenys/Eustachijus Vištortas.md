@@ -7,12 +7,12 @@ datos:
   - '1483 m.'
 date_start: '1483'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XV'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Lietuvos bernardinų istorijos tyrinėtojams nežinomas gvardijonas Eustachijus 
 
 <a id="claim-t-202119"></a>
 - t-001
-  global_id: t-202119
   teiginys: "Lietuvos bernardinų istorijos tyrinėtojams nežinomas gvardijonas Eustachijus Vištortas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Lietuvos bernardinų istorijos tyrinėtojams nežinomas gvardijonas Eustachijus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202119
+    - t-001

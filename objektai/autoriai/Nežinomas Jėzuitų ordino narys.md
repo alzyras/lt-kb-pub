@@ -31,7 +31,6 @@ Narbutas mini nežinomo jėzuito sukompiliuotą rankraštinę Bažnyčios istori
 
 <a id="claim-t-190397"></a>
 - t-001
-  global_id: t-190397
   teiginys: "Narbutas mini nežinomo jėzuito sukompiliuotą rankraštinę Bažnyčios istoriją, saugotą privataus dvarininko bibliotekoje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Narbutas mini nežinomo jėzuito sukompiliuotą rankraštinę Bažnyčios istori
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190397
+    - t-001

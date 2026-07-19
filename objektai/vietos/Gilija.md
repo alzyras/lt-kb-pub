@@ -3,6 +3,13 @@ tipas: vieta
 pavadinimas: 'Gilija'
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
+datos:
+  - '1617 m.'
+date_start: '1617'
+date_end: ''
+amziai:
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +38,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 
 <a id="claim-t-189000"></a>
 - t-001
-  global_id: t-189000
   teiginys: "Narbutas rašo, kad prie Sancinės, kur Nemunas išsišakoja į Giliją ir Rusnę, buvo vietinių Kroniszkas-Pilnis vadintas piliakalnis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -50,6 +56,18 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171889
+
+<a id="claim-t-201602"></a>
+- t-002
+  teiginys: "Iki 1617 m. Gilijos tiesinimo ir gilinimo darbai pasistūmėjo į priekį tiek, kad upė vėl tapo laivybinga."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184949
 - susijęs iš Nemunas: Narbutas rašė, kad prie Sancinės, kur Nemunas išsišakoja į Giliją ir Rusnę, buvo vietinių Kroniszkas-Pilnis vadintas piliakalnis.
 - susijęs iš Sancinė: Prie Sancinės, kur Nemunas šakojasi į Giliją ir Rusnę, buvo piliakalnis, vietinių vadintas Kroniszkas-Pilnis.
 - susijęs iš Kroniszkas-Pilnis: Narbutas rašė, kad už Tilžės prie Sancinės buvęs piliakalnis vietinių vadintas Kroniszkas-Pilnis, tai yra Kruonio pilimi.
@@ -78,4 +96,19 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189000
+    - t-001
+
+- id: c-184949
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Hercogui rūpėjo muitai, ir jie taip pat buvo paskelbti. Iki 1617 m. Gilijos tiesinimo ir
+    gilinimo darbai pasistūmėjo į priekį tiek, kad upė vėl tapo laivybinga.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

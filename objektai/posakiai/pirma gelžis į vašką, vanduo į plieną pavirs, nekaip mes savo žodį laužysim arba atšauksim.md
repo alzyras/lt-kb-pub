@@ -28,7 +28,6 @@ Ant didesnės kliauties ir įtikėjimo, apžymėjom mes tą gromatą ta pačia �
 
 <a id="claim-t-201260"></a>
 - t-001
-  global_id: t-201260
   teiginys: "Ant didesnės kliauties ir įtikėjimo, apžymėjom mes tą gromatą ta pačia žyme, su kuria mes gromatą popiežiui nu leidom; ir taip pirma gelžis į vašką, vanduo į plieną pavirs, nekaip mes savo žodį laužysim arba atšauksim. Noris meldžionys vokyčiai mūsų žymę ant."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Ant didesnės kliauties ir įtikėjimo, apžymėjom mes tą gromatą ta pačia �
 ## Citatos
 
 - id: c-184610
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kelias pas mus yra atdaras ir liuosas
     per Mozūriją be muito ir mokesnio. Ant didesnės
@@ -60,4 +60,4 @@ Ant didesnės kliauties ir įtikėjimo, apžymėjom mes tą gromatą ta pačia �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201260
+    - t-001

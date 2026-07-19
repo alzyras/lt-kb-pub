@@ -36,7 +36,6 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
 
 <a id="claim-t-20997"></a>
 - t-001
-  global_id: t-20997
   teiginys: "1861 m. pavasarį Aleksandras II pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,12 +67,11 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
     teisės aktai, reglamentavę valstiečių tapsmo žemės savininkais tvarką, nu-
     matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių
     reformą numatyta pradėti po dvejų metų.
-  citata_rodoma: |
-    matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių
+  citata_rodoma: "matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20997
+    - t-001

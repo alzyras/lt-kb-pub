@@ -48,9 +48,8 @@ Nenurodyta
 
 <a id="claim-t-189842"></a>
 - t-001
-  global_id: t-189842
   teiginys: "Narbutas laukų apvalymo apeigas siejo su antikos praktika ir nurodė, kad romėnai jas vadino Ambervales."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -66,7 +65,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172725
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas laukų apvalymo apeigas siejo su antikos praktika ir nurodė, kad romėnai jas vadino Ambervales.'
@@ -84,8 +83,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189842
+
 ## Citatos
 
 - id: c-172725
@@ -101,18 +99,11 @@ Nenurodyta
     vargšas, neregys arba šlubis, jis atsakydavo, kad tokia esanti
     dievų valia. Šis žynys pirmiausia melsdavo dangaus dievą Uka-
     pirmą ir žemės dievą Pušaitį, idant neleistų vagiui pabėgti.
-  citata_rodoma: |
-    Bet kol stabmeldystė tebebuvo
-    savo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo
-    nepalyginamai iškilmingiau. Antikos žmonės atlikdavo tas pa­
-    čias apeigas; apie jas kalba Heziodas*. Romėnai jas vadino
-    Ambervales arba Cum solemnia vota lustrare agros (iškilmin­
-    gomis aukomis apvalyti laukus) -  laukų apvalymu arba pa­
-    šventinimu atnašaujant iškilmingas aukas.
+  citata_rodoma: "Bet kol stabmeldystė tebebuvo\nsavo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo\nnepalyginamai iškilmingiau. Antikos žmonės atlikdavo tas pa­\nčias apeigas; apie jas kalba Heziodas*. Romėnai jas vadino\nAmbervales arba Cum solemnia vota lustrare agros (iškilmin­\ngomis aukomis apvalyti laukus) -  laukų apvalymu arba pa­\nšventinimu atnašaujant iškilmingas aukas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189842
+    - t-001

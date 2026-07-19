@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-87200"></a>
 - t-001
-  global_id: t-87200
   teiginys: "Šventaragio slėnyje tarp Vilijos ir Vilnelės degė amžinoji ugnis Gabija, kurią lietuviai labai garbino."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +68,6 @@ Nenurodyta
 
 <a id="claim-t-194184"></a>
 - t-002
-  global_id: t-194184
   teiginys: "Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -104,7 +102,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87200
+    - t-001
+
 - id: c-176794
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -121,4 +120,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194184
+    - t-002

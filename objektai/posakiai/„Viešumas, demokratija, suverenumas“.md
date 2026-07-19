@@ -31,7 +31,6 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
 
 <a id="claim-t-77858"></a>
 - t-001
-  global_id: t-77858
   teiginys: "Pradiniame Sąjūdžio etape pagrindinis LPS šūkis buvo „Viešumas, demokratija, suverenumas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77858
+    - t-001

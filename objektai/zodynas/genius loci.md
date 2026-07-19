@@ -28,7 +28,6 @@ Vorobjovo interpretacijoje Vilniaus „genius loci“ siejamas su lietuvišku mi
 
 <a id="claim-t-200815"></a>
 - t-001
-  global_id: t-200815
   teiginys: "Vorobjovo interpretacijoje Vilniaus „genius loci“ siejamas su lietuvišku miesto pobūdžiu, lirizmu ir romantika."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Vorobjovo interpretacijoje Vilniaus „genius loci“ siejamas su lietuvišku mi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200815
+    - t-001

@@ -37,7 +37,6 @@ Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 
 
 <a id="claim-t-36508"></a>
 - t-001
-  global_id: t-36508
   teiginys: "Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 1000 rublių už belaisvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,15 +75,11 @@ Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 
     10.000 rublių kontribucijos ir 1000 rublių už belaisvius. Šito žy­
     gio Vytautas negalėjo sėkmingai baigti ir dėl artėjančio Lucko
     suvažiavimo.
-  citata_rodoma: |
-    Naugardo ir Porchovo miestai sumokėjo Vytautui
-    10.000 rublių kontribucijos ir 1000 rublių už belaisvius. Šito žy­
-    gio Vytautas negalėjo sėkmingai baigti ir dėl artėjančio Lucko
-    suvažiavimo.
+  citata_rodoma: "Naugardo ir Porchovo miestai sumokėjo Vytautui\n10.000 rublių kontribucijos ir 1000 rublių už belaisvius. Šito žy­\ngio Vytautas negalėjo sėkmingai baigti ir dėl artėjančio Lucko\nsuvažiavimo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36508
+    - t-001

@@ -37,7 +37,6 @@ davė labai reikšmingus fenomenus, kurių trumpa formulė būtų tokia – duon
 
 <a id="claim-t-20890"></a>
 - t-001
-  global_id: t-20890
   teiginys: "Abiejų Tautų Respublikos XVII–XVIII a. įnašas į Europos ir pasaulio civilizaciją apibendrintas formule „duona, tolerancija, demokratija, konstitucija, barokas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,12 +81,11 @@ davė labai reikšmingus fenomenus, kurių trumpa formulė būtų tokia – duon
     • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
     teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-  citata_rodoma: |
-    cija, demokratija, konstitucija, barokas. Taigi Abiejų Tautų Respublika:
+  citata_rodoma: "cija, demokratija, konstitucija, barokas. Taigi Abiejų Tautų Respublika:"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20890
+    - t-001

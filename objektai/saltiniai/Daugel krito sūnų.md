@@ -36,7 +36,6 @@ Daugel krito sūnų...
 
 <a id="claim-t-80757"></a>
 - t-001
-  global_id: t-80757
   teiginys: "A. Ramanausko-Vanago „Daugel krito sūnų...“ paskelbta leidinyje „Partizanų gretose“, išleistame Vilniuje 2007 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,13 +63,11 @@ Daugel krito sūnų...
     p. 226, „MŪŠIO DALYVIO ATSIMINIMAI, LGGRT centras, „Gyvosios atminties programa“.
     p.230, „MALDAKNYGĖ“, Ramanauskas- Vanagas A. Daugel krito sūnų... / Partizanų gretose,
     Vilnius, 2007, p. 184-185.
-  citata_rodoma: |
-    p.230, „MALDAKNYGĖ“, Ramanauskas- Vanagas A. Daugel krito sūnų... / Partizanų gretose,
-    Vilnius, 2007, p. 184-185.
+  citata_rodoma: "p.230, „MALDAKNYGĖ“, Ramanauskas- Vanagas A. Daugel krito sūnų... / Partizanų gretose,\nVilnius, 2007, p. 184-185."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80757
+    - t-001

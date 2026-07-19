@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-185860"></a>
 - t-001
-  global_id: t-185860
   teiginys: "Aleksandras Šich Achmetą pasitiko už penkių mylių prie puošnios palapinės ir kilimu užtiesto kelio, o paskui pasisodino dešinėje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185860
+    - t-001

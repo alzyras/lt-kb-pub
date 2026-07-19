@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-19512"></a>
-- t-001
-  global_id: t-19512
+- t-006
   teiginys: "Sovietmečio Lietuvoje deficitinės buvo maisto prekės, baldai, indai, televizoriai, medicinos reikmenys ir vaistai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::items"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-22228
 
 <a id="claim-t-19513"></a>
-- t-002
-  global_id: t-19513
+- t-005
   teiginys: "Sovietmečio Lietuvoje baldai, indai ir televizoriai buvo deficitinės vartojimo prekės, kurioms įsigyti reikėjo talonų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::items"
@@ -110,13 +108,12 @@ Nenurodyta
     ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, tele-
     vizorius, be to, katastrofiškai trūko butų, medicinos reikmenų, vaistų – fak-
     tiškai viskas buvo deficitas.
-  citata_rodoma: |
-    ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,
+  citata_rodoma: "ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19512
-    - t-19513
+    - t-006
+    - t-005

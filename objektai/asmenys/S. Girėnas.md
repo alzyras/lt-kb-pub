@@ -30,7 +30,6 @@ Girėno žygdarbį ir t.
 
 <a id="claim-t-78078"></a>
 - t-001
-  global_id: t-78078
   teiginys: "Sovietmečiu buvo leista rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,16 +59,11 @@ Girėno žygdarbį ir t.
     pagonišką Lietuvą, leista minėti Žalgirio mūšį, rašyti apie S. Dariaus ir
     S. Girėno žygdarbį ir t. t., tačiau apskritai istorija paversta valdžios tarnai-
     te ir naudota antivakarietiškumui ir antikatalikybei skleisti.
-  citata_rodoma: |
-    Pradėti naudoti he-
-    rojinės istorijos puslapiai – LDK kova su kryžiuočiais, netgi idealizuoti
-    pagonišką Lietuvą, leista minėti Žalgirio mūšį, rašyti apie S. Dariaus ir
-    S. Girėno žygdarbį ir t. t., tačiau apskritai istorija paversta valdžios tarnai-
-    te ir naudota antivakarietiškumui ir antikatalikybei skleisti.
+  citata_rodoma: "Pradėti naudoti he-\nrojinės istorijos puslapiai – LDK kova su kryžiuočiais, netgi idealizuoti \npagonišką Lietuvą, leista minėti Žalgirio mūšį, rašyti apie S. Dariaus ir \nS. Girėno žygdarbį ir t. t., tačiau apskritai istorija paversta valdžios tarnai-\nte ir naudota antivakarietiškumui ir antikatalikybei skleisti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78078
+    - t-001

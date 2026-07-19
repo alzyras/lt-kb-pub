@@ -41,7 +41,6 @@ LReim = Livländische Reimchronik, išl.
 
 <a id="claim-t-31833"></a>
 - t-001
-  global_id: t-31833
   teiginys: "„Livländische Reimchronik“ leidimą parengė Leo Meyeris, o jis buvo išleistas Paderborne 1876 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,15 +66,12 @@ LReim = Livländische Reimchronik, išl.
   citata_originali: |
     LReim = Livländische Reimchronik, išl. Leo Meyer, Paderborn 1876
     (Nachdruck 1963, Hildesheim) (cituota pagal eilutes).
-    LTI = Lietuvos TSR Istorija, t.
-  citata_rodoma: |
-    LReim = Livländische Reimchronik, išl. Leo Meyer, Paderborn 1876
-    (Nachdruck 1963, Hildesheim) (cituota pagal eilutes).
-    LTI = Lietuvos TSR Istorija, t.
+    LTI = Lietuvos TSR Istorija, t. 1, nuo seniausių laikų iki 1861 m.
+  citata_rodoma: "LReim = Livländische Reimchronik, išl. Leo Meyer, Paderborn 1876\n(Nachdruck 1963, Hildesheim) (cituota pagal eilutes).\nLTI = Lietuvos TSR Istorija, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31833
+    - t-001

@@ -31,7 +31,6 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 
 <a id="claim-t-58721"></a>
 - t-001
-  global_id: t-58721
   teiginys: "Broliai atsižadėjo Sartovicų pilies ir ją su visu turtu perdavė Samborui, Sventopelko sūnui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -45,7 +44,7 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59353
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Broliai atsižadėjo Sartovicų pilies ir ją su visu turtu perdavė Samborui, Sventopelko sūnui.'
@@ -62,8 +61,7 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58721
+
 ## Citatos
 
 - id: c-59353
@@ -79,17 +77,11 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
     plaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
     plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
     traukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies.
-  citata_rodoma: |
-    Apie Svečės pilies pastatymą ir jos užpuolimą
-
-      Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją
-    su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1. Kokie keisti, kokie
-    be galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis
-    žemino tikėjimą ir tikinčiuosius!
+  citata_rodoma: "Apie Svečės pilies pastatymą ir jos užpuolimą\n\n  Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją\nsu visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1. Kokie keisti, kokie\nbe galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis\nžemino tikėjimą ir tikinčiuosius!"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58721
+    - t-001

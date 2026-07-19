@@ -31,7 +31,6 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
 
 <a id="claim-t-192800"></a>
 - t-001
-  global_id: t-192800
   teiginys: "Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis siejo su dviejų to krašto Nočiomis vadintų upių pavadinimais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175570
-    - c-001
 - susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192224|chorunžuos]]: Narbutas „chorunžuos“ aiškina kaip karinius valsčius Peluzijoje.
 ## Reikšmingi paminėjimai
 - c-001
@@ -82,8 +80,7 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192800
+
 ## Citatos
 
 - id: c-175570
@@ -115,31 +112,11 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
     kai sutampa ir skamba senų kilmingų lietuviškų giminių
     varduose; jų palikuonių esti ir dabar: Nac, Nacko, Na-
     cewicz, Nackowicz.
-  citata_rodoma: |
-    Panašu­
-    mas į prie Ponto buvusias tvirtoves leidžia manyti ir
-    tam tikra prasme įrodo mūsų prielaidą, jog gelonai-bu-
-    dinai dar pirmaisiais jų paplitimo vakaruose amžiais pa­
-    liko čia koloniją tam tikros savo giminės genties, kuri,
-    mačiusi senas tvirtoves prie Ponto, nepatingėjo čia pa­
-    statyti ir jų kopijas; be to, aptariamų piliaviečių senovė
-    turi būti susijusi su labai tolimomis epochomis arba su
-    I krikščioniškosios eros amžiumi. Tai, be abejo, buvo
-    gelonų gentis, pelūzų giminė,
-    senovės
-    pelazgų šaka
-    (§ 201), senovės geografijai žinoma Nascii, taip juos va­
-    dino Ptolemėjas, vardu. Jie gyveno Peluzijos krašte ir
-    taip iš tiesų buvo vadinami savo gyvenamojoje vietovė­
-    je, jei kaip įrodymą pripažinsime vardus dviejų to pa­
-    ties krašto upių, vadinamų Nočiomis, atitinkančių upę
-    kairiojoje Pripetės pakrantėje ir į ją įtekančių, upę, apie
-    kurią jau sakėme, jog gavo lietuvių protėvių vardą (§
-    215).
+  citata_rodoma: "Panašu­\nmas į prie Ponto buvusias tvirtoves leidžia manyti ir\ntam tikra prasme įrodo mūsų prielaidą, jog gelonai-bu-\ndinai dar pirmaisiais jų paplitimo vakaruose amžiais pa­\nliko čia koloniją tam tikros savo giminės genties, kuri,\nmačiusi senas tvirtoves prie Ponto, nepatingėjo čia pa­\nstatyti ir jų kopijas; be to, aptariamų piliaviečių senovė\nturi būti susijusi su labai tolimomis epochomis arba su\nI krikščioniškosios eros amžiumi. Tai, be abejo, buvo\ngelonų gentis, pelūzų giminė,\nsenovės\npelazgų šaka\n(§ 201), senovės geografijai žinoma Nascii, taip juos va­\ndino Ptolemėjas, vardu. Jie gyveno Peluzijos krašte ir\ntaip iš tiesų buvo vadinami savo gyvenamojoje vietovė­\nje, jei kaip įrodymą pripažinsime vardus dviejų to pa­\nties krašto upių, vadinamų Nočiomis, atitinkančių upę\nkairiojoje Pripetės pakrantėje ir į ją įtekančių, upę, apie\nkurią jau sakėme, jog gavo lietuvių protėvių vardą (§\n215)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192800
+    - t-001

@@ -31,7 +31,6 @@ Mickevičius.
 
 <a id="claim-t-40410"></a>
 - t-001
-  global_id: t-40410
   teiginys: "S. Mickevičius buvo bolševikų 7-ojo „lietuviškojo“ pulko komisaras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,18 +65,11 @@ Mickevičius.
     ryšių bei raitųjų žvalgų komandas ir dau-
     gybė gurguolės vežimų. Pulkas artilerijos
     neturėjo.
-  citata_rodoma: |
-    Bolševikų pajėgos
-    7-ajam „lietuviška-
-    jam“ pulkui vadovavo
-    rusas Lebedevas, jo pa-
-    vaduotojas buvo baltarusis
-    A. Ružancovas, pulko komi-
-    saras - lietuvis S. Mickevičius.
+  citata_rodoma: "Bolševikų pajėgos\n7-ajam „lietuviška-\njam“ pulkui vadovavo\nrusas Lebedevas, jo pa-\nvaduotojas buvo baltarusis\nA. Ružancovas, pulko komi-\nsaras - lietuvis S. Mickevičius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40410
+    - t-001

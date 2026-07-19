@@ -38,7 +38,6 @@ Tikėtina, kad Juozapas Ozienblovskis buvo Vilkmergės stalininkas nuo 1693 m. s
 
 <a id="claim-t-202416"></a>
 - t-001
-  global_id: t-202416
   teiginys: "Tikėtina, kad Juozapas Ozienblovskis buvo Vilkmergės stalininkas nuo 1693 m. spalio 25 d. ir mirė apie 1725 m."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,5 @@ Tikėtina, kad Juozapas Ozienblovskis buvo Vilkmergės stalininkas nuo 1693 m. s
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202416
+    - t-001

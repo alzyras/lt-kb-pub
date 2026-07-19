@@ -39,8 +39,7 @@ Vartojamos formos: `sriuobalą`, `sriuobalu`.
 ## Teiginiai
 
 <a id="claim-t-70049"></a>
-- t-001
-  global_id: t-70049
+- t-003
   teiginys: "`Sriuobalas` šiame tekste reiškia skystą valgomą putrą ar sriubą."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Vartojamos formos: `sriuobalą`, `sriuobalu`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70049
+    - t-003

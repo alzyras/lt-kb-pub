@@ -37,7 +37,6 @@ Lappo: 1588 Lietuvos Statutas, It. Lappo, t.
 
 <a id="claim-t-100107"></a>
 - t-001
-  global_id: t-100107
   teiginys: "I. Lappo 1934 m. Kaune išleido veikalo „1588 Lietuvos Statutas“ pirmojo tomo pirmąją dalį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Lappo: 1588 Lietuvos Statutas, It. Lappo, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100107
+    - t-001

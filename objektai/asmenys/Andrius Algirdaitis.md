@@ -60,9 +60,8 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
 
 <a id="claim-t-54943"></a>
 - t-001
-  global_id: t-54943
   teiginys: "Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis."
-  atnaujinta: "2026-06-01 14:44"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   ryšio_patikimumas: "valde_miesta -> Polockas: 0.63"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -75,11 +74,9 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   semantiniai_rysiai: "Andrius Algirdaitis valdė miestą Polockas (0.63)"
   pagrindžia:
     - c-55314
-    - c-78714
 
 <a id="claim-t-54944"></a>
 - t-002
-  global_id: t-54944
   teiginys: "Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -97,7 +94,6 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
 
 <a id="claim-t-54945"></a>
 - t-003
-  global_id: t-54945
   teiginys: "Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir prisidėjo prie 1380 m. rugsėjo 8 d. pergalės Kulikovo lauke."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -117,7 +113,6 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
 
 <a id="claim-t-54946"></a>
 - t-004
-  global_id: t-54946
   teiginys: "Andrius, Algirdo sūnus, skiriamas nuo išgalvoto Andriaus Vaidoto; jis žuvo prie Vorsklos 1399 m."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -136,8 +131,7 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
     - c-55316
 
 <a id="claim-t-82220"></a>
-- t-005
-  global_id: t-82220
+- t-006
   teiginys: "Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir kovėsi su juo prieš totorius Kulikovo mūšyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -154,8 +148,7 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
     - c-78714
 
 <a id="claim-t-82221"></a>
-- t-006
-  global_id: t-82221
+- t-005
   teiginys: "Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -170,17 +163,6 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   semantiniai_rysiai: "Andrius Algirdaitis rėmė Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.77); Andrius Algirdaitis valdė miestą Polockas (0.68)"
   pagrindžia:
     - c-78715
-
-<a id="claim-t-193894"></a>
-- t-007
-  global_id: t-193894
-  teiginys: 'Iki 1377 m. imtinai Polocką valdė Algirdo sūnus Andrius, kuris po tėvo mirties 1378 m. persikėlė į Pskovą, Didįjį Naugardą ir Maskvą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalinti puslapio numeriai, OCR klaidos ir nutrūkęs sakinio galas. Priešiškos koalicijos motyvas neįtrauktas, nes jis jautrus ir čia nereikalingas.'
-  pagrindžia:
-    - c-005
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-183726|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis buvo vienas iš žymių Lietuvos kunigaikščių, žuvusių mūšyje.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40018|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis su Kęstučiu ir Vytautu Kęstutaičiu puolė Perejeslavlį.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40019|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
@@ -208,11 +190,9 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
     jos pagalba užimti Lietuvos sostą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193894
+  statusas: verified
 ## Citatos
 
 - id: c-55314
@@ -235,7 +215,8 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54943
+    - t-001
+
 - id: c-55316
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -264,7 +245,8 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54946
+    - t-004
+
 - id: c-78714
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -299,39 +281,17 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
     ten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų
     rugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo
     Vilnių.
-  citata_rodoma: |
-    Dėl to sudarė slaptą, be
-    Kęstučio žinios, sutartį su Livoni­
-    jos magistru, kad anas padėtų jam
-    vykdyti tuos kėslus. Tuo metu, kai
-    Andrius, nuolatinis Dmitrijaus Do­
-    niškio bendražygis, karo rūpesčiais
-    dalinęsis, kovojęs su juo dar kartu
-    prieš totorius, kur Kulikovo lauke
-    (1380 metų rugsėjo 8-ą) prie perga­
-    lės daugiausia prisidėjęs, dalyvavo
-    mūšiuose, - Skirgaila užsibuvo Po-
-    34
-
-    ## Puslapis 51
-
-    I  KNYGA
-    Galiausiai Kęstutis, perpratęs slaptas Jogailos užmačias, pa­
-    siryžo užbėgti jam už akių ir žinodamas, jog šis visas savo
-    ginkluotąsias pajėgas yra išsiuntęs iš Vilniaus į Polocką, kad
-    ten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų
-    rugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo
-    Vilnių.
+  citata_rodoma: "Dėl to sudarė slaptą, be \nKęstučio žinios, sutartį su Livoni­\njos magistru, kad anas padėtų jam \nvykdyti tuos kėslus. Tuo metu, kai \nAndrius, nuolatinis Dmitrijaus Do­\nniškio bendražygis, karo rūpesčiais \ndalinęsis, kovojęs su juo dar kartu \nprieš totorius, kur Kulikovo lauke \n(1380 metų rugsėjo 8-ą) prie perga­\nlės daugiausia prisidėjęs, dalyvavo \nmūšiuose, - Skirgaila užsibuvo Po-\n34\n\n## Puslapis 51\n\nI  KNYGA\nGaliausiai Kęstutis, perpratęs slaptas Jogailos užmačias, pa­\nsiryžo užbėgti jam už akių ir žinodamas, jog šis visas savo \nginkluotąsias pajėgas yra išsiuntęs iš Vilniaus į Polocką, kad \nten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų \nrugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo \nVilnių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54943
-    - t-54944
-    - t-54945
-    - t-82220
+    - t-002
+    - t-003
+    - t-006
+
 - id: c-78715
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -359,7 +319,8 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82221
+    - t-005
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Andrius Algirdaitis mirė [[objektai/vietos/Vorskla]]

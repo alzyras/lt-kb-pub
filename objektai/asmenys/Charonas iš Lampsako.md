@@ -30,7 +30,6 @@ Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpi
 
 <a id="claim-t-190090"></a>
 - t-001
-  global_id: t-190090
   teiginys: "Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpino griūvančiu ąžuolu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190090
+    - t-001

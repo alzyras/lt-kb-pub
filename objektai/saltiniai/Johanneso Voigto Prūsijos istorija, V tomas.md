@@ -30,7 +30,6 @@ Dabartinis iš tiesų visiškai skiriasi nuo pirmesniojo, kurio klaidas stengėm
 
 <a id="claim-t-88312"></a>
 - t-001
-  global_id: t-88312
   teiginys: "Balińskis pataisytą žygio į Vilnių aprašymą grindė Johanneso Voigto Prūsijos istorijos V tomu ir Ignaco Onacevičiaus pastabomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,21 +63,11 @@ Dabartinis iš tiesų visiškai skiriasi nuo pirmesniojo, kurio klaidas stengėm
     ranoriškai pareiškė mokslininkas
     Lietuvos istorijos žinovas Ignacas
     Onacevičius.
-  citata_rodoma: |
-    1. Dabartinis
-    iš tiesų visiškai skiriasi nuo pirmes-
-    niojo, kurio klaidas stengėmės ištai­
-    syti, remdamiesi naujais, vėliau ap­
-    tiktais šaltiniais, būtent: F o i g t o
-    naujai išleistos Prūsijos istorijos T. V
-    ir pastabomis, kurias mums itin ge­
-    ranoriškai pareiškė mokslininkas
-    Lietuvos istorijos žinovas Ignacas
-    Onacevičius.
+  citata_rodoma: "1. Dabartinis \niš tiesų visiškai skiriasi nuo pirmes- \nniojo, kurio klaidas stengėmės ištai­\nsyti, remdamiesi naujais, vėliau ap­\ntiktais šaltiniais, būtent: F o i g t o \nnaujai išleistos Prūsijos istorijos T. V \nir pastabomis, kurias mums itin ge­\nranoriškai pareiškė mokslininkas \nLietuvos istorijos žinovas Ignacas \nOnacevičius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88312
+    - t-001

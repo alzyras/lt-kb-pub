@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-185629"></a>
 - t-001
-  global_id: t-185629
   teiginys: "Kojelavičius spėja, kad gandas apie Podolėje prasidėjusį karą galėjo lemti skubiai Parčeve šaukto seimo atidėjimą beveik iki metų pabaigos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185629
+    - t-001

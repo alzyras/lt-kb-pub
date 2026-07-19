@@ -31,7 +31,6 @@ Virgoličiaus pajėgos turėjo užimti Lietuvą.
 
 <a id="claim-t-80741"></a>
 - t-001
-  global_id: t-80741
   teiginys: "Pulkininko P. Virgoličiaus pajėgos turėjo užimti Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Virgoličiaus pajėgos turėjo užimti Lietuvą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80741
+    - t-001

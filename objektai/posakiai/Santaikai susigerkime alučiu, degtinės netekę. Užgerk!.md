@@ -45,19 +45,6 @@ Putinienė po ginčo pasiūlo taiką užgerti alučiu.
 
 Taikymosi ir susitaikymo per gėrimą formulė.
 
-## Teiginiai
-
-<a id="claim-t-195430"></a>
-- t-001
-  global_id: t-195430
-  teiginys: "Po apsikeitimo apkalbomis siūloma susitaikyti alučiu."
-  atnaujinta: "2026-07-12 02:46"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177851
-
 ## Citatos
 
 - id: c-177851
@@ -72,12 +59,9 @@ Taikymosi ir susitaikymo per gėrimą formulė.
     alučiu,
     degtinės netekę.
     Užgerk!
-  citata_rodoma: |
-    — Mes apkalbėjome vyrus, tamsta apkalbėjai moteris, — sako Putinienė.— Dabar esame lygiomis. Santaikai susigerkime alučiu, degtinės netekę. Užgerk!
+  citata_rodoma: "— Mes apkalbėjome vyrus, tamsta apkalbėjai moteris, — sako Putinienė.— Dabar esame lygiomis. Santaikai susigerkime alučiu, degtinės netekę. Užgerk!"
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195430

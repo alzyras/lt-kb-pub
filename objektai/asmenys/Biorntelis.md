@@ -30,7 +30,6 @@ Biorntelis, Narbuto vadinamas švedų autoriumi, manė, kad prie Veronos ir Tren
 
 <a id="claim-t-191377"></a>
 - t-001
-  global_id: t-191377
   teiginys: "Biorntelis, Narbuto vadinamas švedų autoriumi, manė, kad prie Veronos ir Trento gyvena iki 60 000 senovės kimbrų palikuonių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Biorntelis, Narbuto vadinamas švedų autoriumi, manė, kad prie Veronos ir Tren
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191377
+    - t-001

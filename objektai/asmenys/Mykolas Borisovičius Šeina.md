@@ -40,7 +40,6 @@ Rusų pajėgų padėtis ėmė Rusų kariuomenės vado, Mykolo Borisovičiaus Še
 
 <a id="claim-t-40355"></a>
 - t-001
-  global_id: t-40355
   teiginys: "Rusų kariuomenės vado Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,24 +83,11 @@ Rusų pajėgų padėtis ėmė Rusų kariuomenės vado, Mykolo Borisovičiaus Še
     (paskatinti užpulti Rusiją ATR diplomatų),
     žinia apie tai demoralizavo rusus ir dau-
     gelį paskatino dezertyruoti.
-  citata_rodoma: |
-    Rusų pajėgų padėtis ėmė
-
-    Rusų kariuomenės vado,
-    Mykolo Borisovičiaus Šeinos štabas
-    prie Smolensko pasiduoda ATR
-
-    valdovui Vladislovui Vazai
-
-    komplikuotis - tuo metu į pietines Rusijos
-    žemes įsiveržė ir niokojo Krymo totoriai
-    (paskatinti užpulti Rusiją ATR diplomatų),
-    žinia apie tai demoralizavo rusus ir dau-
-    gelį paskatino dezertyruoti.
+  citata_rodoma: "Rusų pajėgų padėtis ėmė\n\nRusų kariuomenės vado,\nMykolo Borisovičiaus Šeinos štabas\nprie Smolensko pasiduoda ATR\n\nvaldovui Vladislovui Vazai\n\nkomplikuotis - tuo metu į pietines Rusijos\nžemes įsiveržė ir niokojo Krymo totoriai\n(paskatinti užpulti Rusiją ATR diplomatų),\nžinia apie tai demoralizavo rusus ir dau-\ngelį paskatino dezertyruoti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40355
+    - t-001

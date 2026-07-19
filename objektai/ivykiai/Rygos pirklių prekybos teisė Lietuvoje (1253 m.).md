@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-97038"></a>
 - t-001
-  global_id: t-97038
   teiginys: "1253 m., Mindaugui susitaikius su Livonijos ordinu, rygiečiai išsirūpino prekybos teisę Lietuvoje."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-97039"></a>
 - t-002
-  global_id: t-97039
   teiginys: "Rygai rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,7 +108,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97038
+    - t-001
+
 - id: c-91587
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -120,15 +119,11 @@ Nenurodyta
     rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
     Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
     išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
-  citata_rodoma: |
-    Rygai
-    rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
-    Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
-    išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
+  citata_rodoma: "Rygai\nrūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.\nTaigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai\nišsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97039
+    - t-002

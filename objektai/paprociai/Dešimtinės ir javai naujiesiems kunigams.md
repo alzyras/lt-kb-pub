@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-201382"></a>
 - t-001
-  global_id: t-201382
   teiginys: "To dar nekako, įkandin nau jiesiems kunigams reikėjo javus pilti ir dešimtines duoti, kurių pirma nežinojo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184732
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Apšlėkimas vandeniu būrio vyrų ar mo­
     terų buvo visu jų krikštu, o visas būrys, gavęs var­
@@ -75,4 +75,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201382
+    - t-001

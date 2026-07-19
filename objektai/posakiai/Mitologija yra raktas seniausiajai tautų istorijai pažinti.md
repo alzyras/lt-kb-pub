@@ -35,7 +35,6 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
 
 <a id="claim-t-189551"></a>
 - t-001
-  global_id: t-189551
   teiginys: "Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologiją, kurią vadino seniausios istorijos pamatu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
 
 <a id="claim-t-189552"></a>
 - t-002
-  global_id: t-189552
   teiginys: "Narbutas teigė, kad mitologija yra raktas seniausiajai tautų istorijai pažinti, remdamasis per trisdešimt metų kaupta medžiaga."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
 
 <a id="claim-t-197384"></a>
 - t-003
-  global_id: t-197384
   teiginys: "Lietuvių mitologija, sukurta iš graikų, nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -111,6 +108,7 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-172439
@@ -132,27 +130,16 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
     svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
     nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
     nimo smulkmenų.
-  citata_rodoma: |
-    Lietuvių mitologija, sukurta iš graikų,
-    nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa­
-    prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru­
-    tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto.
-    Kad mums būtų lengviau išsemti visą naudą iš mitologijos
-    skaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius
-    mus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­
-    jimuose.
-    Seniausios žemės tautos - indai ir kinai savo tautiškumo
-    svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
-    nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
-    nimo smulkmenų.
+  citata_rodoma: "Lietuvių mitologija, sukurta iš graikų, \nnebeturi tos laukinės ir barbariškos fantazijos, su kuria pa­\nprastai susiduriama kitose šiaurės tautose, tad ją turėjo išru­\ntulioti žmonės, užkopę ant aukštesnio civilizacijos laipto.\nKad mums būtų lengviau išsemti visą naudą iš mitologijos \nskaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius \nmus užvesti ant kelio, kuriuo ėjo tautos savo tikybos klaidžio­\njimuose.\nSeniausios žemės tautos - indai ir kinai savo tautiškumo \nsvarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­\nnųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­\nnimo smulkmenų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189551
-    - t-197384
+    - t-001
+    - t-003
+
 - id: c-172440
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -173,4 +160,4 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189552
+    - t-002

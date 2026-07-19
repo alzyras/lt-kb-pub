@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-75311"></a>
 - t-001
-  global_id: t-75311
   teiginys: "1972 m. kovo 19 d. grupė dvasininkų pradėjo leisti „Lietuvos katalikų bažnyčios kroniką“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-75312"></a>
 - t-002
-  global_id: t-75312
   teiginys: "Pirmajame „Lietuvos katalikų bažnyčios kronikos“ numeryje išspausdintas lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,6 @@ Nenurodyta
 
 <a id="claim-t-75313"></a>
 - t-003
-  global_id: t-75313
   teiginys: "„Lietuvos katalikų bažnyčios kronika“ Vakarų radijo stotims tapo pagrindiniu medžiagos apie Lietuvą šaltiniu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,15 +114,15 @@ Nenurodyta
     tuvos katalikų bažnyčios kronika“. Pirmasis jos redaktorius buvo tuomet
     Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę
     veiklą ir propagandą.
-  citata_rodoma: |
-    Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę
+  citata_rodoma: "Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75311
+    - t-001
+
 - id: c-73131
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -144,7 +141,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75313
+    - t-003
+
 - id: c-73132
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -154,12 +152,11 @@ Nenurodyta
     veiklą ir propagandą. Vakarų radijo stotims „Kronika“ tapo pagrindiniu
     medžiagos apie Lietuvą šaltiniu. Jau pirmame jos numeryje išspausdintas
     lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas,
-  citata_rodoma: |
-    lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas,
+  citata_rodoma: "lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75312
+    - t-002

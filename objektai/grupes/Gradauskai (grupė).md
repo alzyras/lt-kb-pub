@@ -30,13 +30,19 @@ media_all_json: |-
 Kaune bajoriškų giminių atšakų, virtusių miestiečiais, pavyzdžiai buvo Beinartai, Boniškos, Gradauskai ir Steigvilos.
 
 ## Teiginiai
+
+<a id="claim-t-202379"></a>
 - t-001
-  global_id: t-908871598
-  teiginys: 'Kaune bajoriškų giminių atšakų, virtusių miestiečiais, pavyzdžiai buvo Beinartai, Boniškos, Gradauskai ir Steigvilos.'
+  teiginys: "Kaune bajoriškų giminių atšakų, virtusių miestiečiais, pavyzdžiai buvo Beinartai, Boniškos, Gradauskai ir Steigvilos."
+  atnaujinta: "2026-07-19 12:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
   pagrindžia:
     - c-185726
-  šaltinis: Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)
-  statusas: patvirtinta
 
 ## Citatos
 
@@ -47,8 +53,5 @@ Kaune bajoriškų giminių atšakų, virtusių miestiečiais, pavyzdžiai buvo B
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
     - t-001

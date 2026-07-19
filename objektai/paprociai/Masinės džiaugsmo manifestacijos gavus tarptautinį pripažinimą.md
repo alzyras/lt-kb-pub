@@ -68,8 +68,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-20817"></a>
-- t-001
-  global_id: t-20817
+- t-003
   teiginys: "1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::customs"
@@ -109,12 +108,11 @@ Nenurodyta
     sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
     Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
     susirinko prie laikinosios sostinės Kauno rotušės.
-  citata_rodoma: |
-    Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
+  citata_rodoma: "Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20817
+    - t-003

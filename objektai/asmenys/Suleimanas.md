@@ -32,7 +32,6 @@ Maskvos didikai teigė, kad Suleimano laiškas Vasilijui Vasiljevičiui titulavo
 
 <a id="claim-t-186258"></a>
 - t-001
-  global_id: t-186258
   teiginys: "Maskvos didikai teigė, kad Suleimano laiškas Vasilijui Vasiljevičiui titulavo Maskvos didįjį kunigaikštį caru."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Maskvos didikai teigė, kad Suleimano laiškas Vasilijui Vasiljevičiui titulavo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186258
+    - t-001

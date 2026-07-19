@@ -36,7 +36,6 @@ Thunert, E.
 
 <a id="claim-t-30599"></a>
 - t-001
-  global_id: t-30599
   teiginys: "E. Thunert 1886 m. paskelbė darbą apie 1410 m. Lenkijos ir Vokiečių ordino karą iki 1411 m. vasario."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,17 +68,11 @@ Thunert, E.
     metų karas su kryžiuočiais ir Žalgirio mūšis_ , Kario leid., Brooklyn, N. Y.
 
     1960.
-  citata_rodoma: |
-    — Thunert, E. : _Der grosse Krieg zwischen Polen und dem
-    Deutschen Orden 1410 bis Februar 1411_ , Zeitschr. des Westpreuss. Ge-
-    scnichtsvereins, t. 16, Danzig 1886, 37-104 p. — Urbonas, O. : _1410
-    metų karas su kryžiuočiais ir Žalgirio mūšis_ , Kario leid., Brooklyn, N. Y.
-
-    1960.
+  citata_rodoma: "— Thunert, E. : _Der grosse Krieg zwischen Polen und dem\nDeutschen Orden 1410 bis Februar 1411_ , Zeitschr. des Westpreuss. Ge-\nscnichtsvereins, t. 16, Danzig 1886, 37-104 p. — Urbonas, O. : _1410\nmetų karas su kryžiuočiais ir Žalgirio mūšis_ , Kario leid., Brooklyn, N. Y.\n\n1960."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30599
+    - t-001

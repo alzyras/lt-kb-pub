@@ -31,7 +31,6 @@ Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės ka
 
 <a id="claim-t-40308"></a>
 - t-001
-  global_id: t-40308
   teiginys: "Po nesėkmingo Liudviko Pliaterio antpuolio prieš į Daugpilį vykusią Rusijos karinę gurguolę sukilėliai atsisakė Daugpilio tvirtovės puolimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,20 +62,11 @@ Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės ka
     Sukilėlių apmokymai ir reorgani-
     zacija Teresboro karinėje stovykloje
     užtruko 10 dienų.
-  citata_rodoma: |
-    Po nepavykusio
-    grafo Liudviko Pliaterio antpuolio prieš
-    Rusijos kariuomenės karinio transporto
-    gurguolę, vykstančią į Daugpilį, teko at-
-    sisakyti šios tvirtovės puolimo, nes rusų
-    karinė vadovybė perprato sukilėlių planus.
-    Sukilėlių apmokymai ir reorgani-
-    zacija Teresboro karinėje stovykloje
-    užtruko 10 dienų.
+  citata_rodoma: "Po nepavykusio\ngrafo Liudviko Pliaterio antpuolio prieš\nRusijos kariuomenės karinio transporto\ngurguolę, vykstančią į Daugpilį, teko at-\nsisakyti šios tvirtovės puolimo, nes rusų\nkarinė vadovybė perprato sukilėlių planus.\nSukilėlių apmokymai ir reorgani-\nzacija Teresboro karinėje stovykloje\nužtruko 10 dienų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40308
+    - t-001

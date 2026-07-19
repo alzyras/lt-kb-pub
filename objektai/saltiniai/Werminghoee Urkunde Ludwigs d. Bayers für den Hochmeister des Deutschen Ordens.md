@@ -39,7 +39,6 @@ Werminghoee, A.
 
 <a id="claim-t-31987"></a>
 - t-001
-  global_id: t-31987
   teiginys: "A. Werminghoee „Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens“ išspausdintas Archiv für Urkundenforschung 5 tome 1914 m., p. 21-40."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,15 +68,11 @@ Werminghoee, A.
     _Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens,_
     Archiv, f. Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,
     St.
-  citata_rodoma: |
-    — Werminghoee, A. :
-    _Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens,_
-    Archiv, f. Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,
-    St.
+  citata_rodoma: "— Werminghoee, A. :\n_Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens,_\nArchiv, f. Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,\nSt."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31987
+    - t-001

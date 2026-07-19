@@ -47,8 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75132"></a>
-- t-001
-  global_id: t-75132
+- t-003
   teiginys: "Užpuolusi Lenkiją, Vokietija spaudė Lietuvą žygiuoti į Vilnių ir žadėjo paramą aviacija, tankais bei artilerija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Nenurodyta
 
 <a id="claim-t-75133"></a>
 - t-002
-  global_id: t-75133
   teiginys: "Sovietai taip pat nepatarė Lietuvai imti Vilniaus."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Nenurodyta
     - c-23023
 
 <a id="claim-t-75134"></a>
-- t-003
-  global_id: t-75134
+- t-001
   teiginys: "Vokietijos ir Lenkijos karo metu voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -109,19 +106,16 @@ Nenurodyta
     kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
     riausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą
     žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija.
-  citata_rodoma: |
-    O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
-    kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
-    riausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą
-    žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija.
+  citata_rodoma: "O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai\nkaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-\nriausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą\nžygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75132
-    - t-75134
+    - t-003
+    - t-001
+
 - id: c-23023
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -133,13 +127,11 @@ Nenurodyta
     problemą ir tikino lenkus, kad nė vienas Lietuvos kareivis neperžengs
     administracinės linijos. Kitaip Lietuva būtų tapusi agresore ir sugadin-
     tų santykius su anglais ir prancūzais. Nepatarė imti Vilniaus ir sovietai.
-  citata_rodoma: |
-    Kitaip Lietuva būtų tapusi agresore ir sugadin-
-    tų santykius su anglais ir prancūzais. Nepatarė imti Vilniaus ir sovietai.
+  citata_rodoma: "Kitaip Lietuva būtų tapusi agresore ir sugadin-\ntų santykius su anglais ir prancūzais. Nepatarė imti Vilniaus ir sovietai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75133
+    - t-002

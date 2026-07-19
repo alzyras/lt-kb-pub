@@ -33,9 +33,8 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
 
 <a id="claim-t-192810"></a>
 - t-001
-  global_id: t-192810
   teiginys: "Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cerkovę Kijevo gubernijoje."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -51,10 +50,10 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175580
-    - c-001
+    - c-175581
+
 <a id="claim-t-192811"></a>
 - t-002
-  global_id: t-192811
   teiginys: "Pasak Purpurinio, pečenegų ordos Charoboe sostinė buvo Belotzebo miestas, slaviškai vadintas Belaja Cerkove."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -91,8 +90,7 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192810
+
 ## Citatos
 
 - id: c-175580
@@ -110,21 +108,15 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
     riuos anksčiau kalbėjome (§ 51), minimas kraštas, kurį
     aprašome: nuo Oskolo miestelio, esančio prie to paties
     1 Tą patį reiškia ir senovės lenkų kalba (Siownik Synvida.
-  citata_rodoma: |
-    Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
-    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
-    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
-    toro žodžius priskiria poloviečių veiksmams dešiniojoje
-    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
-    statytas XII amžiaus pradžioje po to, kai jį sunaikino
-    poloviečiai.
+  citata_rodoma: "Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­\nramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­\nčios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­\ntoro žodžius priskiria poloviečių veiksmams dešiniojoje\nDnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­\nstatytas XII amžiaus pradžioje po to, kai jį sunaikino\npoloviečiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192810
+    - t-001
+
 - id: c-175581
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -143,4 +135,5 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192811
+    - t-001
+    - t-002

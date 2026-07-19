@@ -36,8 +36,7 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 ## Teiginiai
 
 <a id="claim-t-168684"></a>
-- t-001
-  global_id: t-168684
+- t-002
   teiginys: "Karalių Vazų laikais paaiškėjo, kad protestantizmas Lietuvoje nyks, ypač išmirus protestantiškajai Radvilų šakai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     - c-153485
 
 <a id="claim-t-168689"></a>
-- t-002
-  global_id: t-168689
+- t-001
   teiginys: "Lietuvos protestantizmo srovės skyrėsi: tarp didikų labiausiai įsigalėjo kalvinizmas, o miestuose ir kai kur tarp vidutinės bajorijos - liuteranizmas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +56,6 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 
 <a id="claim-t-193156"></a>
 - t-003
-  global_id: t-193156
   teiginys: "Be to, labai daug pakenkė protestantizmui įvairių jo sektų savitarpio nesutikimai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -100,17 +97,15 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     savitarpio nesutikimai. Lietuvos didikų tarpe labiausiai buvo
     įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-
     rijos tarpe — liuteranizmas.
-  citata_rodoma: |
-    Lietuvos didikų tarpe labiausiai buvo
-    įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-
-    rijos tarpe — liuteranizmas.
+  citata_rodoma: "Lietuvos didikų tarpe labiausiai buvo\nįsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-\nrijos tarpe — liuteranizmas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-168689
+    - t-001
+
 - id: c-153485
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -129,7 +124,8 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-168684
+    - t-002
+
 - id: c-175908
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -146,4 +142,4 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193156
+    - t-003

@@ -31,7 +31,6 @@ Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-sk
 
 <a id="claim-t-192969"></a>
 - t-001
-  global_id: t-192969
   teiginys: "Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-skitų gentimi kaip Geniui ir siejo juos su Chijo sala."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-sk
 
 <a id="claim-t-197500"></a>
 - t-002
-  global_id: t-197500
   teiginys: "Naru ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip ir Geniui, neva net atsikėlusi iš Chijo salos2."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,8 @@ Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-sk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192969
+    - t-001
+
 - id: c-179221
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -109,4 +108,4 @@ Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-sk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197500
+    - t-002

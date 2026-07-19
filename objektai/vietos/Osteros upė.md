@@ -31,7 +31,6 @@ Narbutas rašė, kad Tatiščevas klaidingai prie Osteros upės žiočių lokali
 
 <a id="claim-t-192889"></a>
 - t-001
-  global_id: t-192889
   teiginys: "Narbutas rašė, kad Tatiščevas klaidingai prie Osteros upės žiočių lokalizavo pilaitę, galbūt vadintą Jurjevu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Narbutas rašė, kad Tatiščevas klaidingai prie Osteros upės žiočių lokali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192889
+    - t-001

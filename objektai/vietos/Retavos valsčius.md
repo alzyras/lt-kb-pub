@@ -38,7 +38,6 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
 
 <a id="claim-t-91352"></a>
 - t-001
-  global_id: t-91352
   teiginys: "Brolio Ditricho kariuomenė įsiveržė į Retavos valsčių ir jį nusiaubė plėšdama bei degindama."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,10 +54,9 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, turi išnašos triukšmo ir rašybos klaidą."
   pagrindžia:
     - c-87068
-    - c-002
+
 <a id="claim-t-91353"></a>
-- t-002
-  global_id: t-91353
+- t-003
   teiginys: "Konradas iš Tirbergo pasiuntė sembų fogtą Ditrichą su kariuomene į Nadruvą, kur ši įsiveržė į Retavos valsčių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
     - c-87067
 
 <a id="claim-t-91354"></a>
-- t-003
-  global_id: t-91354
+- t-002
   teiginys: "Retavos valsčius buvo Nadruvoje, o tyrėjai jį bandė lokalizuoti keliose skirtingose vietose."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -112,8 +109,7 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91352
+
 ## Citatos
 
 - id: c-87067
@@ -135,7 +131,8 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91353
+    - t-003
+
 - id: c-87068
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -148,17 +145,15 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
     Šie, įsiveržę į Retavos valsčių460, jį nusiaubė, piešdami bei degindami, o paskui, patraukę
     456  Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m.
     457 D.— castrum Beseledam, Jer.— Beseledâ; vėliau Beisleiden, dab.
-  citata_rodoma: |
-    Šie, įsiveržę į Retavos valsčių460, jį nusiaubė, piešdami bei degindami, o paskui, patraukę
-
-      456 Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m.
+  citata_rodoma: "Šie, įsiveržę į Retavos valsčių460, jį nusiaubė, piešdami bei degindami, o paskui, patraukę\n\n  456 Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91352
+    - t-001
+
 - id: c-87069
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -174,6 +169,7 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91354
+    - t-002
+
 ## Ryšiai
 - Retavos valsčius priklausė [[objektai/vietos/Nadruva]]

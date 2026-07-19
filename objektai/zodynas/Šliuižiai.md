@@ -35,8 +35,7 @@ Vartojamos formos: `šliuižiu`.
 ## Teiginiai
 
 <a id="claim-t-07640"></a>
-- t-001
-  global_id: t-07640
+- t-002
   teiginys: "Šliuižiai buvo pirmieji kalnėnų ir žemaičių ratai ant dviejų tekinių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -61,12 +60,11 @@ Vartojamos formos: `šliuižiu`.
     Pirmieji ratai kalnėnų ir žemaičių buvo ant dviejų tekinių, šliuižiu^275 vadinami, ant kurių javus ir
         šieną iš pievų vežė bei į kelią keliavo, nesgi kitokių ratų negalėjo dėvėti dėl ankštumo ir šlapumo
         kelio.
-  citata_rodoma: |
-    Pirmieji ratai kalnėnų ir žemaičių buvo ant dviejų tekinių, šliuižiu^275 vadinami, ant kurių javus ir šieną iš pievų vežė bei į kelią keliavo, nesgi kitokių ratų negalėjo dėvėti dėl ankštumo ir šlapumo kelio.
+  citata_rodoma: "Pirmieji ratai kalnėnų ir žemaičių buvo ant dviejų tekinių, šliuižiu^275 vadinami, ant kurių javus ir šieną iš pievų vežė bei į kelią keliavo, nesgi kitokių ratų negalėjo dėvėti dėl ankštumo ir šlapumo kelio."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07640
+    - t-002

@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-189680"></a>
 - t-002
-  global_id: t-189680
   teiginys: "Narbutas Buthstus aprašo kaip vietos ar srities krivio valdžios ženklą – ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172563
-    - c-002
 - susijęs iš [[objektai/daiktai/Buthstunkas.md#claim-t-189678|Buthstunkas]]: Narbutas Buthstunką vadina Krivių Krivaičio valdžios ženklu: ąžuoline dvasininko lazda su trišake viršūne ir trimis kutais.
 - susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189437|Kriviai ir Krivių Krivaičiai]]: Narbutas krivio valdžios ženklą Buthstus aprašo kaip ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais.
 - susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189436|Kriviai ir Krivių Krivaičiai]]: Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę lazdą su trišake viršūne ir trimis kutais.
@@ -91,10 +89,9 @@ Nenurodyta
     tione duo bursae pendunt.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-002
   santrauka: 'Narbutas Buthstus aprašo kaip vietos ar srities krivio valdžios ženklą – ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -112,11 +109,10 @@ Nenurodyta
     generis, sive baculus sacerdotalis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189680
+  statusas: verified
+
 ## Citatos
 
 - id: c-172563
@@ -141,22 +137,11 @@ Nenurodyta
     pačioje stipiybėje, nors nemini krivūlės (Krewula) pavadini­
     mo, visiškai nelietuviško, nes paimto iš slavų kalbos: Krywoj,
     Krzywy; Krivūlė reiškia mažą, kreivą daiktą.
-  citata_rodoma: |
-    De quarum junc­
-    tione duo bursae pendunt.
-    (Vietos ar srities burtininko krivio valdžios
-    ženklas, arba dvasininko lazda, liaudies kalba
-    Buthstus, atrodė taip: ilgoka paprasto ąžuolo
-    lazda, kurios viršūnę sudaro dvi šakos, išdėsty­
-    tos kaip dvišakis; nuo jų jungties kabo du ku­
-    tai).
-    Symbolium jurisdictionis communi sacerdo­
-    tis, jus judicandi habentis, Wajdalotae vel alii id
-    generis, sive baculus sacerdotalis.
+  citata_rodoma: "De quarum junc­\ntione duo bursae pendunt.\n(Vietos ar srities burtininko krivio valdžios\nženklas, arba dvasininko lazda, liaudies kalba\nButhstus, atrodė taip: ilgoka paprasto ąžuolo\nlazda, kurios viršūnę sudaro dvi šakos, išdėsty­\ntos kaip dvišakis; nuo jų jungties kabo du ku­\ntai).\nSymbolium jurisdictionis communi sacerdo­\ntis, jus judicandi habentis, Wajdalotae vel alii id\ngeneris, sive baculus sacerdotalis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189680
+    - t-002

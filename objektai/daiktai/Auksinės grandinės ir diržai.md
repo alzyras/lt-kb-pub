@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-186841"></a>
 - t-001
-  global_id: t-186841
   teiginys: "Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis ir diržais tarp kitų brangių dovanų."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-193866"></a>
 - t-002
-  global_id: t-193866
   teiginys: "Maskvos didysis kunigaikštis Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis, diržais ir kitomis dovanomis."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -107,18 +105,12 @@ Nenurodyta
     gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
     nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
     auksiniais indais ir bachmatais ls.
-  citata_rodoma: |
-    Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
-    tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
-    vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
-    gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
-    nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
-    auksiniais indais ir bachmatais ls.
+  citata_rodoma: "Tą pačią žiemą, pavasariop H , į Smolenską, pas savo \ntėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­\nvos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­\ngerbė didįjį kunigaikštį brangiomis dovanomis; auksi­\nnėmis grandinėmis ir diržais, sabalais, brangakmeniais, \nauksiniais indais ir bachmatais ls."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186841
-    - t-193866
+    - t-001
+    - t-002

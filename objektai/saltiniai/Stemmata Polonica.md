@@ -35,8 +35,7 @@ LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a
 ## Teiginiai
 
 <a id="claim-t-67544"></a>
-- t-001
-  global_id: t-67544
+- t-002
   teiginys: "XVI a. vidurio herbyne „Stemmata Polonica“, saugomame Paryžiuje, pavaizduoti Gedimino stulpai ir Jogailos kryžius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,7 @@ LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a
     - c-67411
 
 <a id="claim-t-67545"></a>
-- t-002
-  global_id: t-67545
+- t-001
   teiginys: "XVI a. vidurio herbyne „Stemmata Polonica“, saugomame Paryžiuje, pavaizduotas LDK herbas Vytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,17 +99,15 @@ LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a
     LDK herbas Vytis iš herbyno
     „Stemmata Polonica“ (saugomo
     Paryžiuje), XVI a. vid.
-  citata_rodoma: |
-    LDK herbas Vytis iš herbyno
-    „Stemmata Polonica“ (saugomo
-    Paryžiuje), XVI a. vid.
+  citata_rodoma: "LDK herbas Vytis iš herbyno \n„Stemmata Polonica“ (saugomo \nParyžiuje), XVI a. vid."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67545
+    - t-001
+
 - id: c-67411
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -127,12 +123,11 @@ LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a
     Tautų Respublikos tradicijų naikinimas lėmė, kad Rusija sugebėjo pasisa-
     vinti tokius iš LDK erdvių kilusius fenomenus kaip pirtį ir „horilką“ arba
     „vodką“.
-  citata_rodoma: |
-    „Stemmata Polonica“ (saugomo Paryžiuje), XVI a. vid.
+  citata_rodoma: "„Stemmata Polonica“ (saugomo Paryžiuje), XVI a. vid."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67544
+    - t-002

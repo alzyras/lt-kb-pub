@@ -7,10 +7,10 @@ datos:
   - '1532 m.'
 date_start: '1532'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos. Kontoros
 
 <a id="claim-t-201844"></a>
 - t-001
-  global_id: t-201844
   teiginys: "Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos. Kontoros
 
 <a id="claim-t-201845"></a>
 - t-002
-  global_id: t-201845
   teiginys: "Kontoros nariai, Kaune laikinai apsistojantys hanziečiai, rinkdavo du kontoros vyresniuosius ir tarėjus."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -60,7 +58,6 @@ Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos. Kontoros
 
 <a id="claim-t-201846"></a>
 - t-003
-  global_id: t-201846
   teiginys: "Tiesa, didžiausias kauniečių oponentas šioje vietoje, Hanzos kontora Kaune, prarado savo reikšmę ir sunyko."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -89,7 +86,7 @@ Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos. Kontoros
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201844
+    - t-001
 
 - id: c-185192
   autorius: "Zigmantas Kiaupa"
@@ -107,7 +104,7 @@ Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos. Kontoros
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201845
+    - t-002
 
 - id: c-185193
   autorius: "Zigmantas Kiaupa"
@@ -125,4 +122,4 @@ Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos. Kontoros
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201846
+    - t-003

@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-88194"></a>
 - t-001
-  global_id: t-88194
   teiginys: "Kotzebue veikale „Switrigail“ cituojamas Švitrigailos laiškas didžiajam magistrui, rašytas iš Trakų 1432 m. rugpjūčio 13 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,18 +68,11 @@ media_all_json: |-
     tą iš Trakų, trečiadienį prieš Švč.
     Mergelės Marijos ėmimą į dangų, tai
     yra, 1432 metų rugpjūčio 13 dieną.
-  citata_rodoma: |
-    9
-    Kotzebue Switrigail, p. 83, cituo­
-    ja Slaptajame archyve esantį Švitrigai­
-    los laišką didžiajam magistrui, rašy­
-    tą iš Trakų, trečiadienį prieš Švč.
-    Mergelės Marijos ėmimą į dangų, tai
-    yra, 1432 metų rugpjūčio 13 dieną.
+  citata_rodoma: "9\nKotzebue Switrigail, p. 83, cituo­\nja Slaptajame archyve esantį Švitrigai­\nlos laišką didžiajam magistrui, rašy­\ntą iš Trakų, trečiadienį prieš Švč. \nMergelės Marijos ėmimą į dangų, tai \nyra, 1432 metų rugpjūčio 13 dieną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88194
+    - t-001

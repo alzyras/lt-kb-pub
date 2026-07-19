@@ -39,7 +39,6 @@ Iki šiol dar nuvargusio žemai čio visų didžiausias įrankis buvo arklį paa
 
 <a id="claim-t-201218"></a>
 - t-001
-  global_id: t-201218
   teiginys: "Iki šiol dar nuvargusio žemai čio visų didžiausias įrankis buvo arklį paauginus parduoti ar drobės skiautelę namie austos kokioj mugėj, tai yra jomarke, prarasti ir tuomi pagalvinę už save ir už kūdikius mokėti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,9 @@ Iki šiol dar nuvargusio žemai čio visų didžiausias įrankis buvo arklį paa
 ## Citatos
 
 - id: c-184568
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jau metuose 1562
     Abromaitis parašė knygą, mokančią, kaip reikia su
@@ -79,4 +79,4 @@ Iki šiol dar nuvargusio žemai čio visų didžiausias įrankis buvo arklį paa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201218
+    - t-001

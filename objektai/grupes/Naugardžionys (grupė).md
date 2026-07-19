@@ -39,7 +39,6 @@ Negal žinoti, dėl ko naugardžionys apydijo didįjį Lietuvos kunigaikštį Al
 
 <a id="claim-t-201239"></a>
 - t-001
-  global_id: t-201239
   teiginys: "Negal žinoti, dėl ko naugardžionys apydijo didįjį Lietuvos kunigaikštį Algirdą, kaipogi jų rė dytojas Jevstafijus išvadino jį akivaizdoj šuniu."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,9 @@ Negal žinoti, dėl ko naugardžionys apydijo didįjį Lietuvos kunigaikštį Al
 ## Citatos
 
 - id: c-184589
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip sudraudę lietuviai ir žemaičiai savo neprie-
     1345 telius Padaugavy ir Parusny ateinantį metą sukos į
@@ -68,4 +68,4 @@ Negal žinoti, dėl ko naugardžionys apydijo didįjį Lietuvos kunigaikštį Al
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201239
+    - t-001

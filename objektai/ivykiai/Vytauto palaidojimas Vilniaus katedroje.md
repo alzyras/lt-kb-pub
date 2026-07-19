@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-01872"></a>
 - t-001
-  global_id: t-01872
   teiginys: "Vytauto palaikai 8 dienas laikyti gimtojoje pilyje, paskui pervežti į Vilnių ir palaidoti katedros rūsyje po šv. Mykolo Arkangelo altoriumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,17 +64,14 @@ Nenurodyta
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
-    Didžiojo valdovo lavonas buvo laikomas 8 die-
+    Vytauto kapas. Didžiojo valdovo lavonas buvo laikomas 8 die-
     nas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas
     katedros rūsyje, po šv. Mykolo Arkangelo altorium.
-  citata_rodoma: |
-    Didžiojo valdovo lavonas buvo laikomas 8 die-
-    nas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas
-    katedros rūsyje, po šv. Mykolo Arkangelo altorium.
+  citata_rodoma: "Didžiojo valdovo lavonas buvo laikomas 8 die-\nnas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas\nkatedros rūsyje, po šv. Mykolo Arkangelo altorium."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01872
+    - t-001

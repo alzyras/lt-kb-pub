@@ -40,8 +40,7 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
 ## Teiginiai
 
 <a id="claim-t-49490"></a>
-- t-001
-  global_id: t-49490
+- t-005
   teiginys: "V. Grigaliūno-Glovackio vadovaujamą kovinę grupę sudarė 2-asis ir 10-asis pėstininkų pulkai, 6-ojo pulko batalionas, 5-oji ir 9-oji artilerijos baterijos ir 2-ojo husarų pulko eskadronas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
 
 <a id="claim-t-49491"></a>
 - t-002
-  global_id: t-49491
   teiginys: "Vasario 8 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
     - c-42283
 
 <a id="claim-t-49492"></a>
-- t-003
-  global_id: t-49492
+- t-001
   teiginys: "1859 m. vasario 3 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną saugoti."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
     - c-42282
 
 <a id="claim-t-49493"></a>
-- t-004
-  global_id: t-49493
+- t-003
   teiginys: "V. Grigaliūnas-Glovackis vadovavo rezerve buvusiam 2-ajam pėstininkų pulkui."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -116,8 +112,7 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
     - c-51459
 
 <a id="claim-t-49494"></a>
-- t-005
-  global_id: t-49494
+- t-004
   teiginys: "Augustavo-Suvalkų operacijai buvo sudaryta V. Grigaliūno-Glovackio vadovaujama kovinė grupė."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -154,7 +149,8 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49492
+    - t-001
+
 - id: c-42283
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -176,7 +172,8 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49491
+    - t-002
+
 - id: c-42285
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -193,25 +190,16 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
     pjūčio 23 d. grupę papildė 5-asis pulkas,
     kovų išvakarėse - 8-asis. Grupės šta-
     bas buvo Seinuose.
-  citata_rodoma: |
-    liepa-rugsėjis AUGUSTAVO-SUVALKŲ OPERACIJA
-
-    Buvo sudaryta plk. V. Grigaliūno-
-    Glovackio vadovaujama kovinė grupė,
-    kurią sudarė 2-asis ir 10-asis pėstininkų
-    pulkai bei 6-ojo pulko batalionas, taip
-    pat 5-oji ir 9-oji artilerijos baterijos bei
-    2-ojo husarų pulko eskadronas, rug-
-    pjūčio 23 d. grupę papildė 5-asis pulkas,
-    kovų išvakarėse - 8-asis.
+  citata_rodoma: "liepa-rugsėjis AUGUSTAVO-SUVALKŲ OPERACIJA\n\nBuvo sudaryta plk. V. Grigaliūno-\nGlovackio vadovaujama kovinė grupė,\nkurią sudarė 2-asis ir 10-asis pėstininkų\npulkai bei 6-ojo pulko batalionas, taip\npat 5-oji ir 9-oji artilerijos baterijos bei\n2-ojo husarų pulko eskadronas, rug-\npjūčio 23 d. grupę papildė 5-asis pulkas,\nkovų išvakarėse - 8-asis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49490
-    - t-49494
+    - t-005
+    - t-004
+
 - id: c-51459
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -229,4 +217,4 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49493
+    - t-003

@@ -29,23 +29,8 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
 
 ## Teiginiai
 
-<a id="claim-t-189592"></a>
-- t-001
-  global_id: t-189592
-  teiginys: "Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per badmetį, priešų apgultį ar staigų reikalą."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172478
-
 <a id="claim-t-189593"></a>
 - t-002
-  global_id: t-189593
   teiginys: "Narbutas upių ir ežerų vardų pažinimą laikė svarbia parama senovės tyrėjui, aiškinančiam jų etimologiją pirmykštėse kalbose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -66,7 +51,6 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
 
 <a id="claim-t-197386"></a>
 - t-003
-  global_id: t-197386
   teiginys: "Nerlė (Neri), Rusijos Vladimiro gubernijos upė, išteka iš Pleščejevo ežero Veskos vardu, teka per Somino ežerą ir savuoju vardu įteka į Volgą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -99,8 +83,8 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189592
-    - t-197386
+    - t-003
+
 - id: c-172479
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -125,4 +109,4 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189593
+    - t-002

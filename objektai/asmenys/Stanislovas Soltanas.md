@@ -31,7 +31,6 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
 
 <a id="claim-t-19245"></a>
 - t-001
-  global_id: t-19245
   teiginys: "LDK rūmų maršalas Stanislovas Soltanas buvo vienas iš trijų Lietuvos atstovų, balsavusių už priešinimąsi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,12 +65,11 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
     priešinimąsi, trys buvo iš Lietuvos: LDK didysis maršalas Ignotas Potoc-
     kis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios
     pusės maršalas K. N. Sapiega.
-  citata_rodoma: |
-    kis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios
+  citata_rodoma: "kis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19245
+    - t-001

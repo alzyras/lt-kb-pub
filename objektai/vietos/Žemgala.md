@@ -31,7 +31,6 @@ Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma a
 
 <a id="claim-t-192806"></a>
 - t-001
-  global_id: t-192806
   teiginys: "Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma atskira kunigaikštyste."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma a
 
 <a id="claim-t-194939"></a>
 - t-002
-  global_id: t-194939
   teiginys: "Iš tikrųjų lai buvo žemgalių gentys."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,8 @@ Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192806
+    - t-001
+
 - id: c-177335
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -104,6 +103,7 @@ Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194939
+    - t-002
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Kuršiai]]

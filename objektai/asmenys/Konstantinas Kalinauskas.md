@@ -40,8 +40,7 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 ## Teiginiai
 
 <a id="claim-t-63836"></a>
-- t-001
-  global_id: t-63836
+- t-003
   teiginys: "Sukilimo vadu Lietuvoje tapo Konstantinas Kalinauskas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 
 <a id="claim-t-63837"></a>
 - t-002
-  global_id: t-63837
   teiginys: "1863 m. pabaigoje Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakartas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
     - c-21830
 
 <a id="claim-t-63838"></a>
-- t-003
-  global_id: t-63838
+- t-004
   teiginys: "Michailo Muravjovo įsakymu Konstantinas Kalinauskas buvo pakartas kartu su kitais sukilėliais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,17 +110,15 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
     tinas Kalinauskas), sukilimas ėmė blėsti. 1863 m. pabaigoje į sukilimo
     slopintojų rankas pakliuvo A. Mackevičius, vėliau K. Kalinauskas, abu
     netrukus buvo viešai pakarti.
-  citata_rodoma: |
-    1863 m. pabaigoje į sukilimo
-    slopintojų rankas pakliuvo A. Mackevičius, vėliau K. Kalinauskas, abu
-    netrukus buvo viešai pakarti.
+  citata_rodoma: "1863 m. pabaigoje į sukilimo\nslopintojų rankas pakliuvo A. Mackevičius, vėliau K. Kalinauskas, abu\nnetrukus buvo viešai pakarti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63837
+    - t-002
+
 - id: c-42086
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -139,19 +134,15 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
     komitetas, pasivadinęs Laikinąja
     Vyriausybe Lietuvoje. Sukilimo vadu
     Lietuvoje tapo Konstantinas Kalinauskas.
-  citata_rodoma: |
-    Lietuvoje analogišką manifestą 1863 m.
-    vasario 1 d. paskelbė Lietuvos Provincijos
-    komitetas, pasivadinęs Laikinąja
-    Vyriausybe Lietuvoje. Sukilimo vadu
-    Lietuvoje tapo Konstantinas Kalinauskas.
+  citata_rodoma: "Lietuvoje analogišką manifestą 1863 m.\nvasario 1 d. paskelbė Lietuvos Provincijos\nkomitetas, pasivadinęs Laikinąja\nVyriausybe Lietuvoje. Sukilimo vadu\nLietuvoje tapo Konstantinas Kalinauskas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63836
+    - t-003
+
 - id: c-42087
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -166,14 +157,11 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
     karti sukilėlius. Teroro sąlygomis su-
     kilėlių kova vis labiau silpo, kol galiau-
     siai 1864 m. pabaigoje visai išblėso.
-  citata_rodoma: |
-    Egzekucijos buvo įvykdytos B. Kolyškai,
-    Z. Sierakauskui, T. Dalevskiui, K. Kalinaus-
-    kui, A. Mackevičiui ir kitiems.
+  citata_rodoma: "Egzekucijos buvo įvykdytos B. Kolyškai,\nZ. Sierakauskui, T. Dalevskiui, K. Kalinaus-\nkui, A. Mackevičiui ir kitiems."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63838
+    - t-004

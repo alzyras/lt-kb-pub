@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-95974"></a>
 - t-001
-  global_id: t-95974
   teiginys: "1390–1392 m. antrą kartą į Prūsus pabėgęs Vytautas derėjosi su kryžiuočiais ir kovojo su Jogaila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95974
+    - t-001

@@ -36,7 +36,6 @@ Dusburgietis teigia, kad [Nalepa J.] Polekszanie.—SSS, 1970, t.
 
 <a id="claim-t-61194"></a>
 - t-001
-  global_id: t-61194
   teiginys: "J. Nalepos straipsnis „Polekszanie“ publikuotas SSS 1970 m. 4 tomo 1 dalyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Dusburgietis teigia, kad [Nalepa J.] Polekszanie.—SSS, 1970, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61194
+    - t-001

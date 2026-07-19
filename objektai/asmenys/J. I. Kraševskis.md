@@ -30,7 +30,6 @@ Teodoras Narbutas, kaip pats nurodė, nebuvo asmeniškai pažįstamas su J. I. K
 
 <a id="claim-t-191422"></a>
 - t-001
-  global_id: t-191422
   teiginys: "Teodoras Narbutas, kaip pats nurodė, nebuvo asmeniškai pažįstamas su J. I. Kraševskiu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Teodoras Narbutas, kaip pats nurodė, nebuvo asmeniškai pažįstamas su J. I. K
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191422
+    - t-001

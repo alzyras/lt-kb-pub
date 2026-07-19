@@ -40,8 +40,7 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
 ## Teiginiai
 
 <a id="claim-t-58570"></a>
-- t-001
-  global_id: t-58570
+- t-002
   teiginys: "Katinavos apylinkės išsiskyrė tarp pagoniškam kultui skirtų Nadruvos regionų, nes Katinavos kalva buvo laikoma šventa."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
     - c-59202
 
 <a id="claim-t-58571"></a>
-- t-002
-  global_id: t-58571
+- t-001
   teiginys: "Katinavos apylinkės apibūdintos kaip ryškus pagoniško kulto židinys."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,17 +87,15 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
     lokalizuojame Auktuolyčių pilį (D. III, 177 ir paaiškinimai).
     Dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos
     tarsi pilys: Tušemlios piliakalnyje aukštutinėje padneprėje (Третьяков П. И., Шмидт
-  citata_rodoma: |
-    Tarp pagoniškam kultui skirtų Nadruvos regionų išsiskiria, kaip matėme, Katinavos
-    apylinkės, kur  Katinavos  kalva nadruvių buvo laikoma  šventa.  Čia,  piliakalnyje,
-    lokalizuojame Auktuolyčių pilį (D. III, 177 ir paaiškinimai).
+  citata_rodoma: "Tarp pagoniškam kultui skirtų Nadruvos regionų išsiskiria, kaip matėme, Katinavos\napylinkės, kur  Katinavos  kalva nadruvių buvo laikoma  šventa.  Čia,  piliakalnyje,\nlokalizuojame Auktuolyčių pilį (D. III, 177 ir paaiškinimai)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58570
+    - t-002
+
 - id: c-59203
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -121,4 +117,4 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58571
+    - t-001

@@ -39,19 +39,16 @@ Vartojamos formos: `strūnijo ar dailidavo`.
 ## Teiginiai
 
 <a id="claim-t-07660"></a>
-- t-001
-  global_id: t-07660
+- t-004
   teiginys: "Strūnijo vartojama kalbant apie namų įrengimą, kuriam reikalingus įrankius žmonės patys kalė."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09593
-    - c-09594
 
 <a id="claim-t-07661"></a>
-- t-002
-  global_id: t-07661
+- t-003
   teiginys: "Strūnijo reiškia statė sau trobesius be svetimo meistro pagalbos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -79,15 +76,15 @@ Vartojamos formos: `strūnijo ar dailidavo`.
         pasiklausk“ arba: „Buklus ir su žąsia moka arti“ [19], kaipogi, pagal jų nuomonę, žmogus, ką
         paregėjęs, tą turi padirbti. Ir taip jų grąžtai, kaltai, Strūnos^570 , skaptai, skrytulės^571 , kirviai, skliutai
         yra pačių dirbti.
-  citata_rodoma: |
-    Taip pat įrankius, kuriais namus strūnijo ar dailidavo, patys sau kalė, nė nuo ko nemokomi, nesgi šiandien dar taria į žmogų, rūpinantis įsteigimu^569 kokio daikto ir dejuojantį nesugebėjimu, sako: „Akių pasiklausk“ arba: „Buklus ir su žąsia moka arti“ [19], kaipogi, pagal jų nuomonę, žmogus, ką paregėjęs, tą turi padirbti.
+  citata_rodoma: "Taip pat įrankius, kuriais namus strūnijo ar dailidavo, patys sau kalė, nė nuo ko nemokomi, nesgi šiandien dar taria į žmogų, rūpinantis įsteigimu^569 kokio daikto ir dejuojantį nesugebėjimu, sako: „Akių pasiklausk“ arba: „Buklus ir su žąsia moka arti“ [19], kaipogi, pagal jų nuomonę, žmogus, ką paregėjęs, tą turi padirbti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07660
+    - t-004
+
 - id: c-09594
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -98,13 +95,11 @@ Vartojamos formos: `strūnijo ar dailidavo`.
         verpė, audė ir dažė savo drobes ir milus įvairiomis barvomis nė nuo ko nemokomos, pačių
         dažyvėmis^567 savo prasma. Vyriškieji taip pat strūnijo^568 sau visus trobesius, svetimo meistro
         nereikalaudami, dailidavo ratus, važius, šlėdes, arba šlajas, ir roges.
-  citata_rodoma: |
-    Visa gudryba senovės lietuvių, kalnėnų ir žemaičių, buvo ta, jog visa, ko vien reikiant, patys sau steigė, idant svetimo nereikalautų, kaip motriškosios, taip ir vyriškieji; ir taip motriškosios verpė, audė ir dažė savo drobes ir milus įvairiomis barvomis nė nuo ko nemokomos, pačių dažyvėmis^567 savo prasma. Vyriškieji taip pat strūnijo^568 sau visus trobesius, svetimo meistro nereikalaudami, dailidavo ratus, važius, šlėdes, arba šlajas, ir roges.
+  citata_rodoma: "Visa gudryba senovės lietuvių, kalnėnų ir žemaičių, buvo ta, jog visa, ko vien reikiant, patys sau steigė, idant svetimo nereikalautų, kaip motriškosios, taip ir vyriškieji; ir taip motriškosios verpė, audė ir dažė savo drobes ir milus įvairiomis barvomis nė nuo ko nemokomos, pačių dažyvėmis^567 savo prasma. Vyriškieji taip pat strūnijo^568 sau visus trobesius, svetimo meistro nereikalaudami, dailidavo ratus, važius, šlėdes, arba šlajas, ir roges."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07660
-    - t-07661
+    - t-003

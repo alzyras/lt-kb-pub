@@ -29,23 +29,8 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
 
 ## Teiginiai
 
-<a id="claim-t-189153"></a>
-- t-002
-  global_id: t-189153
-  teiginys: "Narbutas, remdamasis senovės padavimais, Wiessą Kielą vaizduoja kaip vieškelį, religiškai pašvęstą šalies svetingumui."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172041
-
 <a id="claim-t-197363"></a>
 - t-003
-  global_id: t-197363
   teiginys: "Bentis (Bentis) Tai buvo ypatingos paskirties keleivių dievaitis: jo darbas buvo užmegzti draugystę tarp nepažįstamų ir svetimų žmonių - keleivių, kurie susiėjo kelyje arba išsirengė į kelionę viena kryptimi."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -56,16 +41,6 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
   pagrindžia:
     - c-172041
 
-<a id="claim-t-189152"></a>
-- t-001
-  global_id: t-189152
-  teiginys: 'Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“ ir aiškina jį kaip kelių dievui paskirtą akmenį.'
-  teiginio_tipas: 'saltinio_teiginys'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir paliktas šaltinio pavadinimas. Religinis bei kalbinis aiškinimas pateiktas su Narbuto atribucija.'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“ ir aiškina jį kaip kelių dievui paskirtą akmenį.'
@@ -87,11 +62,9 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
     sigauti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189152
+  statusas: verified
 ## Citatos
 
 - id: c-172041
@@ -115,5 +88,4 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189153
-    - t-197363
+    - t-003

@@ -37,8 +37,7 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
 ## Teiginiai
 
 <a id="claim-t-19207"></a>
-- t-001
-  global_id: t-19207
+- t-002
   teiginys: "Romano Dmovskio ir J. Pilsudskio šalininkai siekė išlaikyti Lietuvą Lenkijos sudėtyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
     - c-21952
 
 <a id="claim-t-19208"></a>
-- t-002
-  global_id: t-19208
+- t-001
   teiginys: "Romanas Dmovskis buvo lenkų tautinių demokratų lyderis ir vadovavosi lenkų organinio nacionalizmo doktrina."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
 
 <a id="claim-t-183563"></a>
 - t-003
-  global_id: t-183563
   teiginys: "Romanas Dmovskis buvo lenkų tautinių demokratų lyderis visų lenkų žemių mastu ir vadovavosi lenkų organinio nacionalizmo doktrina."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -113,15 +110,15 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
     biausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių
     lyderis visų lenkų žemių mastu Romanas Dmovskis (Roman Dmowski)
     vadovavosi lenkų organinio nacionalizmo doktrina.
-  citata_rodoma: |
-    biausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių
+  citata_rodoma: "biausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19208
+    - t-001
+
 - id: c-21952
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -140,15 +137,15 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
     1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą
     laiką išnaudojo Lietuvą, politinė unija XVI a. su ja privedė Lietuvą prie
     vidinio chaoso.
-  citata_rodoma: |
-    J. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl
+  citata_rodoma: "J. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19207
+    - t-002
+
 - id: c-166956
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -168,4 +165,4 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183563
+    - t-003

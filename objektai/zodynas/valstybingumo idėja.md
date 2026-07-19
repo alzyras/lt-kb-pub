@@ -64,7 +64,6 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 
 <a id="claim-t-05469"></a>
 - t-001
-  global_id: t-05469
   teiginys: "Ivinskis Lietuvos valstybingumo idealą siejo su lietuvių tautos tautiniu susipratimu ir ilgomis pastangomis jį įgyvendinti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -81,7 +80,6 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 
 <a id="claim-t-05470"></a>
 - t-002
-  global_id: t-05470
   teiginys: "Visas veikalo dėstymas sutelktas apie valstybingumo idėją lietuvių tautoje."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,6 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 
 <a id="claim-t-05471"></a>
 - t-003
-  global_id: t-05471
   teiginys: "Valstybingumo idėja aprašoma kaip atsiradusi, vystęsi, išbujavusi, silpusi, atsigavusi ir realizuota."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -115,7 +112,6 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 
 <a id="claim-t-05472"></a>
 - t-004
-  global_id: t-05472
   teiginys: "Viena Lietuvos istorijos periodizacija remiasi valstybingumo idėja."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -134,7 +130,6 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 
 <a id="claim-t-05473"></a>
 - t-005
-  global_id: t-05473
   teiginys: "Lietuvių tautos valstybingumo idėja grindė periodizaciją pagal Lietuvos valstybės raidą, žlugimą ir atkūrimą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -154,7 +149,6 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 
 <a id="claim-t-05474"></a>
 - t-006
-  global_id: t-05474
   teiginys: "Naujaisiais laikais šiai periodizacijai svarbiausia valstybingumo idėja."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -189,21 +183,15 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     bingumo idealą. Už tą patį, savos istorijos pagalba įsisąmonintą
     idealą ir po Antrojo Pasaulinio karo pačiame krašte daug aukų
     buvo suklota ir vis tebekovojama laisvame pasaulyje.
-  citata_rodoma: |
-    Šitoks nuo XIX amžiaus pirmos pusės išpuoselėtas savo praei-
-    ties idealizavimas lietuvių tautoje yra jau atlikęs sau skirtą vaid-
-    menį. Lietuvių tauta tiek tautiškai susiprato, kad ji daug pastangų
-    padėjo, kol ji prieš pusę šimtmečio įgyvendino Lietuvos valsty-
-    bingumo idealą. Už tą patį, savos istorijos pagalba įsisąmonintą
-    idealą ir po Antrojo Pasaulinio karo pačiame krašte daug aukų
-    buvo suklota ir vis tebekovojama laisvame pasaulyje.
+  citata_rodoma: "Šitoks nuo XIX amžiaus pirmos pusės išpuoselėtas savo praei-\nties idealizavimas lietuvių tautoje yra jau atlikęs sau skirtą vaid-\nmenį. Lietuvių tauta tiek tautiškai susiprato, kad ji daug pastangų\npadėjo, kol ji prieš pusę šimtmečio įgyvendino Lietuvos valsty-\nbingumo idealą. Už tą patį, savos istorijos pagalba įsisąmonintą\nidealą ir po Antrojo Pasaulinio karo pačiame krašte daug aukų\nbuvo suklota ir vis tebekovojama laisvame pasaulyje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05469
+    - t-001
+
 - id: c-05599
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -216,22 +204,16 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     ir kaip ji vėl _atsigavo_ ir vėl buvo realizuota, yra mūsojo darbo
     vedamoji mintis per visus šimtmečius. Ji paryškinta politinio,
     religinio, kultūrinio bei ūkinio gyvenimo faktais.
-  citata_rodoma: |
-    Bandydami _kritiškai_ ir, kiek žmogiškai prigimčiai nustatytos
-    ribos leidžia, _objektyviai_ eiti į lietuvių tautos išgyventus šimtme-
-    čius, visą savo dėstymą norime sutelkti apie _valstybingumo idėją_
-    lietuvių tautoje. Kaip ji _atsirado,_ vystėsi, išbujojo ir paskui silpo
-    ir kaip ji vėl _atsigavo_ ir vėl buvo realizuota, yra mūsojo darbo
-    vedamoji mintis per visus šimtmečius. Ji paryškinta politinio,
-    religinio, kultūrinio bei ūkinio gyvenimo faktais.
+  citata_rodoma: "Bandydami _kritiškai_ ir, kiek žmogiškai prigimčiai nustatytos\nribos leidžia, _objektyviai_ eiti į lietuvių tautos išgyventus šimtme-\nčius, visą savo dėstymą norime sutelkti apie _valstybingumo idėją_\nlietuvių tautoje. Kaip ji _atsirado,_ vystėsi, išbujojo ir paskui silpo\nir kaip ji vėl _atsigavo_ ir vėl buvo realizuota, yra mūsojo darbo\nvedamoji mintis per visus šimtmečius. Ji paryškinta politinio,\nreliginio, kultūrinio bei ūkinio gyvenimo faktais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05470
-    - t-05471
+    - t-002
+    - t-003
+
 - id: c-05600
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -245,20 +227,16 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     idėja, t. y., Lietuvos valstybės išsivystymas (iki 1385), jos susti­
     prėjimas (iki 1492), silpnėjimas (nuo 1572 m.), žlugimas (1795) ir
     atstatymas tautinės valstybės (1918).
-  citata_rodoma: |
-    Žinoma, komunistiniai istorikai turėjo atmesti periodizaciją,
-    kurios pagrindan yra dedama lietuvių tautos valstybingumo
-    idėja, t. y., Lietuvos valstybės išsivystymas (iki 1385), jos susti­
-    prėjimas (iki 1492), silpnėjimas (nuo 1572 m.), žlugimas (1795) ir
-    atstatymas tautinės valstybės (1918).
+  citata_rodoma: "Žinoma, komunistiniai istorikai turėjo atmesti periodizaciją,\nkurios pagrindan yra dedama lietuvių tautos valstybingumo\nidėja, t. y., Lietuvos valstybės išsivystymas (iki 1385), jos susti­\nprėjimas (iki 1492), silpnėjimas (nuo 1572 m.), žlugimas (1795) ir\natstatymas tautinės valstybės (1918)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05472
-    - t-05473
+    - t-004
+    - t-005
+
 - id: c-05601
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -276,4 +254,4 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05474
+    - t-006

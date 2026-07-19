@@ -34,25 +34,6 @@ media_all_json: |-
 
 Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia“, išleistą Gdanske 1769 m.
 
-## Teiginiai
-
-<a id="claim-t-190354"></a>
-- t-001
-  global_id: t-190354
-  teiginys: "Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia“, išleistą Gdanske 1769 m."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1769 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Bibliografinė nuotrupa paversta rišliu sakiniu apie cituojamą Schützo veikalą. Nepridėta informacijos apie veikalo turinį."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173237
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia“, išleistą Gdanske 1769 m.'
@@ -65,8 +46,7 @@ Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190354
+
 ## Citatos
 
 - id: c-173237
@@ -79,13 +59,29 @@ Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia
     korespondentas, galėjo būti ir Simonas Stanevičius
     (1799-1848).
     Turimas omenyje veikalas: Helmoldus et Arnoldus.
-  citata_rodoma: |
-    P. 178** -  Cituojamas veikalas: Schütz Caspar. Rerum Prus-
-    sicarum historia. -  Gedani, 1769.
+  citata_rodoma: "P. 178** -  Cituojamas veikalas: Schütz Caspar. Rerum Prus-\nsicarum historia. -  Gedani, 1769."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190354
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-190354"></a>
+- t-001
+  teiginys: "Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia“, išleistą Gdanske 1769 m."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1769 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bibliografinė nuotrupa paversta rišliu sakiniu apie cituojamą Schützo veikalą. Nepridėta informacijos apie veikalo turinį."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-173237

@@ -39,7 +39,6 @@ Dytmaras Merzeburgietis, pasakodamas apie Boleslovo Narsiojo karus, 1009 metais 
 
 <a id="claim-t-191669"></a>
 - t-001
-  global_id: t-191669
   teiginys: "Dytmaras Merzeburgietis, pasakodamas apie Boleslovo Narsiojo karus, 1009 metais minėjo lietuvius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Dytmaras Merzeburgietis, pasakodamas apie Boleslovo Narsiojo karus, 1009 metais 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191669
+    - t-001

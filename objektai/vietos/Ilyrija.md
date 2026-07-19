@@ -37,7 +37,6 @@ Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakran
 
 <a id="claim-t-192841"></a>
 - t-001
-  global_id: t-192841
   teiginys: "Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakrančių į Ilyriją, kur jie prie Nortbėjos kariavo su romėnais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -58,9 +57,8 @@ Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakran
 
 <a id="claim-t-192842"></a>
 - t-002
-  global_id: t-192842
   teiginys: "Narbuto aiškinimu, baimė dėl skitų ar po Skitų karalystės žlugimo judėjusių genčių vertė šią grupę trauktis ir įsikurti Ilyrijoje."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -76,7 +74,6 @@ Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakran
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175612
-    - c-002
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-190926|Motiejus Strijkovskis]]: Narbutas aiškina, kad Strijkovskis kimbrų pasitraukimą nuo Baltijos į Ilyriją datavo 190 metais prieš Kristaus gimimą.
 - susijęs iš [[objektai/grupes/Kimbrai.md#claim-t-192933|Kimbrai]]: Narbutas aiškina, kad Baltijos pakrančių nelaimė išstūmė kimbrus iš jų gyvenamųjų vietų ir privertė trauktis į Rytus.
 - susijęs iš [[objektai/grupes/Kimbrai.md#claim-t-192933|Kimbrai]]: Narbutas aiškina, kad Baltijos pakrančių nelaimė išstūmė kimbrus iš jų gyvenamųjų vietų ir privertė trauktis į Rytus.
@@ -97,8 +94,7 @@ Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakran
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192842
+
 ## Citatos
 
 - id: c-175611
@@ -128,7 +124,8 @@ Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakran
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192841
+    - t-001
+
 - id: c-175612
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -146,18 +143,11 @@ Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakran
     ties, bet nesuakmenėjusių. Tų medžių kilmės tyrinėtojas
     dar neatskleidė, bet iš pirmo žvilgsnio ir neįsigilinus jie
     laikomi geologiniais dariniais, imituojančiais medžius.
-  citata_rodoma: |
-    Tai ir pri­
-    vertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net
-    Ilyrijoje. Jie nei grįžo į Rytus, iš kur atkeliavo, nei su­
-    stojo tarp Vyslos aukštupio ir Bugo, bet, pamėginę trauk­
-    tis į Rytus, neabejotinai buvo priversti brautis kitapus
-    Karpatų. Tai daryti skatino skitu arba genčių, judėjusių
-    po Skitų karalystės žlugimo, baimė.
+  citata_rodoma: "Tai ir pri­\nvertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net\nIlyrijoje. Jie nei grįžo į Rytus, iš kur atkeliavo, nei su­\nstojo tarp Vyslos aukštupio ir Bugo, bet, pamėginę trauk­\ntis į Rytus, neabejotinai buvo priversti brautis kitapus\nKarpatų. Tai daryti skatino skitu arba genčių, judėjusių\npo Skitų karalystės žlugimo, baimė."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192842
+    - t-002

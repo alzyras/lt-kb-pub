@@ -31,7 +31,6 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
 
 <a id="claim-t-39622"></a>
 - t-001
-  global_id: t-39622
   teiginys: "P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
 
 <a id="claim-t-39623"></a>
 - t-002
-  global_id: t-39623
   teiginys: "P. Liatukas vasario 8 d. įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,8 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39622
+    - t-001
+
 - id: c-41427
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -108,6 +107,7 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39623
+    - t-002
+
 ## Ryšiai
 - P. Liatukas siuntė į [[objektai/vietos/Prienai]]

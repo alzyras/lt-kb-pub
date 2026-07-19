@@ -31,7 +31,6 @@ Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, �
 
 <a id="claim-t-87828"></a>
 - t-001
-  global_id: t-87828
   teiginys: "Petras Puzdravičius buvo Vilniaus vyskupo valdinys ir turėjo namą prie apibrėžto prieglaudos sklypo ribos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87828
+    - t-001

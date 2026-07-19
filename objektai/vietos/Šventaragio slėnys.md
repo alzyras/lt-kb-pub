@@ -31,7 +31,6 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
 
 <a id="claim-t-99974"></a>
 - t-001
-  global_id: t-99974
   teiginys: "Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,14 +64,11 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
     Švč. Mergelės šventė (IX.8) 374
     Šventaragio slėnys 244
     Šv.
-  citata_rodoma: |
-    Mergelės šventė (IX.8) 374
-    Šventaragio slėnys 244
-    Šv.
+  citata_rodoma: "Mergelės šventė (IX.8) 374\nŠventaragio slėnys 244\nŠv."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99974
+    - t-001

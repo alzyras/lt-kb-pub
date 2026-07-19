@@ -31,7 +31,6 @@ Pavėluota šios Ordino tvirtovės apsiaustis nedavė rezultatų.
 
 <a id="claim-t-38742"></a>
 - t-001
-  global_id: t-38742
   teiginys: "Pavėluota Marienburgo, Ordino sostinės ir tvirtovės, apsiaustis nedavė rezultatų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Pavėluota šios Ordino tvirtovės apsiaustis nedavė rezultatų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38742
+    - t-001

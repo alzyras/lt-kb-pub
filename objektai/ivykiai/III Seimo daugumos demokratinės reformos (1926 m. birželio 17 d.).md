@@ -61,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-23318"></a>
 - t-001
-  global_id: t-23318
   teiginys: "1926 m. birželio 17 d. panaikinta karo padėtis."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-23319"></a>
 - t-002
-  global_id: t-23319
   teiginys: "Tą pačią reformų bangą lydėjo politinių kalinių amnestija, spaudos apribojimų panaikinimas ir susirinkimų laisvės suteikimas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,6 @@ Nenurodyta
 
 <a id="claim-t-23320"></a>
 - t-003
-  global_id: t-23320
   teiginys: "III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,20 +117,13 @@ Nenurodyta
     mus, planavo įvesti civilinę metrikaciją (didelis finansinis smūgis kata-
     likų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų
     dvasininkams), ėmė mažinti karininkų skaičių.
-  citata_rodoma: |
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    155
-    III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę
-    demokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-
-    ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
-    naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
-    rengti susirinkimus.
+  citata_rodoma: "4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n155\nIII Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę \ndemokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-\nti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-\nnaikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai \nrengti susirinkimus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23318
-    - t-23319
-    - t-23320
+    - t-001
+    - t-002
+    - t-003

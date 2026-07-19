@@ -33,7 +33,6 @@ Vienas iš dvasininkų ir pasauliečių bendravimo būdų buvo bažnytinės brol
 
 <a id="claim-t-201797"></a>
 - t-001
-  global_id: t-201797
   teiginys: "Vienas iš dvasininkų ir pasauliečių bendravimo būdų buvo bažnytinės brolijos ir veikla jose."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Vienas iš dvasininkų ir pasauliečių bendravimo būdų buvo bažnytinės brol
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201797
+    - t-001

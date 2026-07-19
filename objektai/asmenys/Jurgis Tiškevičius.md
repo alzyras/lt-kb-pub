@@ -31,7 +31,6 @@ Kojelavičiaus pasakojime Jurgis Tiškevičius nuvežė į Maskvą karaliaus lai
 
 <a id="claim-t-186051"></a>
 - t-001
-  global_id: t-186051
   teiginys: "Kojelavičiaus pasakojime Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivaną pavadino jį Astrachanės caru."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Kojelavičiaus pasakojime Jurgis Tiškevičius nuvežė į Maskvą karaliaus lai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186051
+    - t-001

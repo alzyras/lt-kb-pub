@@ -39,7 +39,6 @@ Vakaruose miestą prie Sosnos upės, dešiniojo Dono tęsėsi diplomatinė kova,
 
 <a id="claim-t-42158"></a>
 - t-001
-  global_id: t-42158
   teiginys: "Korševas buvo miestas prie Sosnos upės, dešiniojo Dono intako, netoli totorių stepių valdų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,15 +67,11 @@ Vakaruose miestą prie Sosnos upės, dešiniojo Dono tęsėsi diplomatinė kova,
 
     mai į Kryžiuočių ordino valdas. Vakaruose miestą prie Sosnos upės, dešiniojo Dono
     tęsėsi diplomatinė kova, o karinės pajėgos, intako, jau prie pat totorių stepių valdų.
-  citata_rodoma: |
-    „Lietuva paėmė Korševą“ -
-
-    mai į Kryžiuočių ordino valdas. Vakaruose miestą prie Sosnos upės, dešiniojo Dono
-    tęsėsi diplomatinė kova, o karinės pajėgos, intako, jau prie pat totorių stepių valdų.
+  citata_rodoma: "„Lietuva paėmė Korševą“ -\n\nmai į Kryžiuočių ordino valdas. Vakaruose miestą prie Sosnos upės, dešiniojo Dono\ntęsėsi diplomatinė kova, o karinės pajėgos, intako, jau prie pat totorių stepių valdų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42158
+    - t-001

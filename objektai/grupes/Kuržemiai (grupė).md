@@ -33,7 +33,6 @@ Po tos mūšos kuržemiai atėjo į abažą žemaičių, stovintį ties Sintele,
 
 <a id="claim-t-201242"></a>
 - t-001
-  global_id: t-201242
   teiginys: "Po tos mūšos kuržemiai atėjo į abažą žemaičių, stovintį ties Sintele, arba Santekle, pilė, pagalbos nuo žemaičių lūgodami ir iš vieno žadėdami su jais vokyčius kariauti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Po tos mūšos kuržemiai atėjo į abažą žemaičių, stovintį ties Sintele,
 ## Citatos
 
 - id: c-184592
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jurgio užėmė1 2.
     Po tos mūšos kuržemiai atėjo į abažą žemaičių,
@@ -66,4 +66,4 @@ Po tos mūšos kuržemiai atėjo į abažą žemaičių, stovintį ties Sintele,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201242
+    - t-001

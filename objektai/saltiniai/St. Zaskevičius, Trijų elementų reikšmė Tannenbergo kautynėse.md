@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-31930"></a>
 - t-001
-  global_id: t-31930
   teiginys: "St. Zaskevičiaus „Trijų elementų reikšmė Tannenbergo kautynėse“ paskelbta 1930 m. kaip atspaudas iš MŽ."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,14 +67,11 @@ media_all_json: |-
     deutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :
     _Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,
     St. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930.
-  citata_rodoma: |
-    :
-    _Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,
-    St. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930.
+  citata_rodoma: ":\n_Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,\nSt. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31930
+    - t-001

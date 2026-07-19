@@ -37,7 +37,6 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
 
 <a id="claim-t-77863"></a>
 - t-001
-  global_id: t-77863
   teiginys: "1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77863
+    - t-001

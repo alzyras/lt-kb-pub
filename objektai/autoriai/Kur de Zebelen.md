@@ -30,7 +30,6 @@ Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino i
 
 <a id="claim-t-191679"></a>
 - t-001
-  global_id: t-191679
   teiginys: "Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino iš graikiško pavadinimo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino i
 
 <a id="claim-t-197622"></a>
 - t-002
-  global_id: t-197622
   teiginys: "Pagal tas pačias taisykles Kur de Zebelen (Court de Gebelins) savo „Monde pri mitif“ žodį Peruką kildino iš jtVQQaÇ; Puantine de Sivrej (Poinsinet de Sivry."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -86,5 +84,5 @@ Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191679
-    - t-197622
+    - t-001
+    - t-002

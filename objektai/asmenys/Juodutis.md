@@ -31,7 +31,6 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
 
 <a id="claim-t-60352"></a>
 - t-001
-  global_id: t-60352
   teiginys: "Juodutis buvo Naudžioto, sembų valstiečių išrinkto karvedžio, tėvas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,16 +59,11 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
     ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
     bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
     kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti.
-  citata_rodoma: |
-    Vis dėlto, kai
-    Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
-    ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius
-    bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,
-    kuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti.
+  citata_rodoma: "Vis dėlto, kai\nKaraliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,\nypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius\nbei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas, Juodučio sūnų,\nkuris su tuo sutiko, tačiau nenoromis, nes tuo metu negalėjo prieštarauti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60352
+    - t-001

@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75125"></a>
-- t-001
-  global_id: t-75125
+- t-002
   teiginys: "Po 1905 m. revoliucijos Rusijoje atsirado Valstybės Tarybos ir Valstybės Dūmos parlamentas, bet vykdomoji valdžia liko caro rankose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-22998
 
 <a id="claim-t-75126"></a>
-- t-002
-  global_id: t-75126
+- t-001
   teiginys: "Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,6 @@ Nenurodyta
 
 <a id="claim-t-193570"></a>
 - t-003
-  global_id: t-193570
   teiginys: "Lietuva po 1905-ųjų – kultūrinė kova Nors po revoliucijos Rusijoje atsirado atstovaujamosios, tiesa, ne demokratiškai renkamos, valdžios institucija – dvejų rūmų – Valstybės Tarybos ir Valstybės Dūmos – parlamentas, su kuriuo caras dalijosi įstatymų leidyba."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -118,16 +115,13 @@ Nenurodyta
     liko caro rankose. Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš
     dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, dau-
     giausia socialdemokratus.
-  citata_rodoma: |
-    Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš
-    dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, dau-
-    giausia socialdemokratus.
+  citata_rodoma: "Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš\ndvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, dau-\ngiausia socialdemokratus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75125
-    - t-75126
-    - t-193570
+    - t-002
+    - t-001
+    - t-003

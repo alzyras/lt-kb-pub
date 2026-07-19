@@ -43,8 +43,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 ## Teiginiai
 
 <a id="claim-t-68592"></a>
-- t-001
-  global_id: t-68592
+- t-004
   teiginys: "Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     - c-68137
 
 <a id="claim-t-68593"></a>
-- t-002
-  global_id: t-68593
+- t-003
   teiginys: "J. Totoraičio veikalas „Mindaugas, Lietuvos karalius“ buvo išleistas Marijampolėje 1932 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     - c-68136
 
 <a id="claim-t-68594"></a>
-- t-003
-  global_id: t-68594
+- t-001
   teiginys: "Krasauskaitės pedagoginis darbas Marijampolėje trukdė jai tęsti istorinius tyrinėjimus tėvynėje ir emigracijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -138,19 +135,15 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     Filosofijos fakulteto Filosofijos skyrių, turėjo įvairaus vadovėlių
     ruošimo ir daug pedagoginio darbo Marijampolėje ir Šiauliuose
     (1939-1940 m. berniukų gimnazijos direktorius).
-  citata_rodoma: |
-    (1930) jos duota šio
-    valdovo charakteristika parodė, jog Krasauskaitė yra įžvalgi isto­
-    rikė, tačiau atsidavimas pedagoginiam darbui (Marijampolė) jai
-    nebeleido tėvynėje ir emigracijoje užsiimti tyrinėjimais.
-    A.
+  citata_rodoma: "(1930) jos duota šio\nvaldovo charakteristika parodė, jog Krasauskaitė yra įžvalgi isto­\nrikė, tačiau atsidavimas pedagoginiam darbui (Marijampolė) jai\nnebeleido tėvynėje ir emigracijoje užsiimti tyrinėjimais.\nA."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68594
+    - t-001
+
 - id: c-68136
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -161,17 +154,15 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     Lietuvos karalius,_** **Marijampolė 1932.**
     (^71) **J. Yčas:** **_Kronisto Simono Grunau reikalu,_** **Kaunas 1922 (atsp. iš
     Švietimo Darbo).
-  citata_rodoma: |
-    Paties autoriaus sulietuvinta:** **_Mindaugas,
-    Lietuvos karalius,_** **Marijampolė 1932.**
-    (^71) **J.
+  citata_rodoma: "Paties autoriaus sulietuvinta:** **_Mindaugas,\nLietuvos karalius,_** **Marijampolė 1932.**\n(^71) **J."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68593
+    - t-003
+
 - id: c-68137
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -190,4 +181,4 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68592
+    - t-004

@@ -11,10 +11,10 @@ datos:
   - '1432 m.'
 date_start: '1432'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ Kaunas išnaudojo savivaldos teikiamas galimybes, greitai išaugo į vieną iš 
 
 <a id="claim-t-202290"></a>
 - t-001
-  global_id: t-202290
   teiginys: "Kaunas išnaudojo savivaldos teikiamas galimybes, greitai išaugo į vieną iš didžiausių Lietuvos miestų - to įrodymas yra kvietimas prispausti miesto antspaudą prie 1432 m. Lietuvos sutarties su Vokiečių ordinu."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Kaunas išnaudojo savivaldos teikiamas galimybes, greitai išaugo į vieną iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202290
+    - t-001

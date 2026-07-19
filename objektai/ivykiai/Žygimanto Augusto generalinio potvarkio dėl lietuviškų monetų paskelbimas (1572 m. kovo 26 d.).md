@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-86933"></a>
-- t-001
-  global_id: t-86933
+- t-002
   teiginys: "1572 m. kovo 26 d. potvarkis numatė dešimties lenkiškų grivinų baudą atsisakiusiems priimti lietuvišką monetą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-82912
 
 <a id="claim-t-86934"></a>
-- t-002
-  global_id: t-86934
+- t-001
   teiginys: "Žygimantas Augustas įsakė lietuvišką monetą, vertą dviejų lietuviškų grašių, priimti už pustrečio lenkiško grašio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,7 +119,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86933
+    - t-002
+
 - id: c-82913
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -159,4 +158,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86934
+    - t-001

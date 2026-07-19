@@ -31,7 +31,6 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
 
 <a id="claim-t-79827"></a>
 - t-001
-  global_id: t-79827
   teiginys: "Mažoji Podolė buvo tarp Aukštutinio Pietinio Bugo ir Dniestro."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
     - c-76753
 
 <a id="claim-t-79828"></a>
-- t-002
-  global_id: t-79828
+- t-003
   teiginys: "Algirdo remiami Karijotaičiai įsitvirtino Mažojoje Podolėje, organizavo jos gynybą nuo totorių ir statė pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
     - c-76751
 
 <a id="claim-t-79829"></a>
-- t-003
-  global_id: t-79829
+- t-002
   teiginys: "Mažosios Podolės ir kitų pietinių žemių išėmimas iš tiesioginės Aukso ordos valdžios sudarė saugesnę padėtį Rytų Europoje."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -105,26 +102,15 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
     nėms Rytų Europos šalims (Lenkijai, iš
     dalies Moldavijai, Vengrijai) sudarė sau-
     gesnę padėtį rytuose.
-  citata_rodoma: |
-    Algirdo remiami Karijotaičiai,
-    įsitvirtinę Mažojoje Podolėje, vietiniams
-    gyventojams pritariant, organi-
-    zavo šio krašto gynybą nuo
-    totorių puolimų bei grobimų, statė minė-
-    tas Smotričo, Bakotos, Kameneco pilis.
-    Pietinių žemių (Kijevo, Mažosios Podolės
-    ir kt.) išėmimas iš tiesioginės Aukso ordos
-    valdžios vietiniams rusėnams, kaimyni-
-    nėms Rytų Europos šalims (Lenkijai, iš
-    dalies Moldavijai, Vengrijai) sudarė sau-
-    gesnę padėtį rytuose.
+  citata_rodoma: "Algirdo remiami Karijotaičiai,\nįsitvirtinę Mažojoje Podolėje, vietiniams\ngyventojams pritariant, organi-\nzavo šio krašto gynybą nuo\ntotorių puolimų bei grobimų, statė minė-\ntas Smotričo, Bakotos, Kameneco pilis.\nPietinių žemių (Kijevo, Mažosios Podolės\nir kt.) išėmimas iš tiesioginės Aukso ordos\nvaldžios vietiniams rusėnams, kaimyni-\nnėms Rytų Europos šalims (Lenkijai, iš\ndalies Moldavijai, Vengrijai) sudarė sau-\ngesnę padėtį rytuose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79828
+    - t-003
+
 - id: c-76752
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -150,7 +136,8 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79829
+    - t-002
+
 - id: c-76753
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -180,4 +167,4 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79827
+    - t-001

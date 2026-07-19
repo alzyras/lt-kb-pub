@@ -36,10 +36,9 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 ## Teiginiai
 
 <a id="claim-t-58424"></a>
-- t-001
-  global_id: t-58424
+- t-002
   teiginys: "Abenda minima XIV a. vidurio Sembos vyskupo dokumentuose vakarinėje Semboje."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Semba: 0.67"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -52,12 +51,11 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   semantiniai_rysiai: "Abenda priklausė Semba (0.67)"
   pagrindžia:
     - c-59057
-    - c-002
+
 <a id="claim-t-58425"></a>
-- t-002
-  global_id: t-58425
+- t-003
   teiginys: "Manoma, kad Abendos vardas galėjęs būti Betin, t."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pabečiai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -70,10 +68,9 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59058
-    - c-003
+
 <a id="claim-t-58426"></a>
-- t-003
-  global_id: t-58426
+- t-001
   teiginys: "1283 m. žiemą Lietuvos raiteliai įsiveržė į Sembą ir nusiaubė Abendos bei Pabečių valsčius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -90,7 +87,6 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   temporalinis_llm_pakomentavimas: "Pirminis teiginys buvo per ilgas ir nutrūkęs, bet citata palaiko glaustą faktą apie Abendą."
   pagrindžia:
     - c-59056
-    - c-001
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179301|Lietuviai]]: 1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
 - susijęs iš [[objektai/ivykiai/1283 m. žiemos lietuvių antpuolis Sembos žemėje.md#claim-t-62736|1283 m. žiemos lietuvių antpuolis Sembos žemėje]]: 1283 m. žiemą 800 lietuvių raitelių per Kuršių neriją įsiveržė į Sembą, nusiaubė Abendos ir Pabečių valsčius, nužudė 150 krikščionių ir grįžo be pasipriešinimo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179301|Lietuviai]]: 1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
@@ -116,8 +112,6 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58426
 - c-002
   santrauka: 'Abenda minima XIV a. vidurio Sembos vyskupo dokumentuose vakarinėje Semboje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -129,8 +123,6 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58424
 - c-003
   santrauka: 'Manoma, kad Abendos vardas galėjęs būti Betin, t.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -142,8 +134,7 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58425
+
 ## Citatos
 
 - id: c-59056
@@ -161,23 +152,15 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
     sužinojo, kad minėtieji Kimenavos pilėnai, nužudę vedlį, visai kitu keliu pasuko į Lietuvą.
     Vis dėlto brolis Liudvikas su savo palyda atžygiavo į Sembos žemę, kur visus krikštas
     prikėlė naujam gyvenimui.
-  citata_rodoma: |
-    Apie vienos Sembos dalies nusiaubimą
-
-      1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509
-    įsibrovė  į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent:
-    Abendą ir Pabečius510; nužudę 150 krikščionių, jie, niekur nesutikę pasipriešinimo, sveiki
-    ir gyvi sugrįžo atgal. Neabejojama, jog šitai įvyko dėl to, kad magistras ir broliai, iš
-    anksto žinodami, jog lietuviai susirengė  į žygį, kelias dienas jų laukė su kariuomene,
-    tačiau pabodus laukti, nes šie kelyje užtruko ilgiau nei paprastai, išsisklaidę sugrįžo
-    namo.
+  citata_rodoma: "Apie vienos Sembos dalies nusiaubimą\n\n  1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509\nįsibrovė  į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent:\nAbendą ir Pabečius510; nužudę 150 krikščionių, jie, niekur nesutikę pasipriešinimo, sveiki\nir gyvi sugrįžo atgal. Neabejojama, jog šitai įvyko dėl to, kad magistras ir broliai, iš\nanksto žinodami, jog lietuviai susirengė  į žygį, kelias dienas jų laukė su kariuomene,\ntačiau pabodus laukti, nes šie kelyje užtruko ilgiau nei paprastai, išsisklaidę sugrįžo\nnamo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58426
+    - t-001
+
 - id: c-59057
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -194,16 +177,15 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
     arkliu parkrito žemėn, nors šis kirtis jo visai nesužeidė ir nepaliko ant kūno jokio žaizdos
     pėdsako, kaip vėliau, priėmę Kristaus tikėjimą, viešai pareiškė ir pats nukentėjęs, ir kiti
     sūduviai, dalyvavę tame kare ir viską matę.
-  citata_rodoma: |
-    510 D.— duo territoria [...] Abendam et Pubetam, Jer.— Pobêtin unde Bêtin. Abenda
-    minima XIV a. vidurio Sembos vyskupo dokumentuose vakarinėje Semboje (SU, 2, Nr.
+  citata_rodoma: "510 D.— duo territoria [...] Abendam et Pubetam, Jer.— Pobêtin unde Bêtin. Abenda\nminima XIV a. vidurio Sembos vyskupo dokumentuose vakarinėje Semboje (SU, 2, Nr."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58424
+    - t-002
+
 - id: c-59058
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -218,13 +200,11 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
     pėdsako, kaip vėliau, priėmę Kristaus tikėjimą, viešai pareiškė ir pats nukentėjęs, ir kiti
     sūduviai, dalyvavę tame kare ir viską matę.
     219 (214).
-  citata_rodoma: |
-    Manoma, kad Abendos vardas galėjęs būti Betin, t. y. Pabečių (D.
-    III, 107, 108) vertimas (GAO, p.
+  citata_rodoma: "Manoma, kad Abendos vardas galėjęs būti Betin, t. y. Pabečių (D.\nIII, 107, 108) vertimas (GAO, p."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58425
+    - t-003

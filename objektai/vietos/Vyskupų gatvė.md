@@ -41,7 +41,6 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
 
 <a id="claim-t-85970"></a>
 - t-001
-  global_id: t-85970
   teiginys: "1579 m. kovo 6 d. Vilniaus vyskupas Protasevičius Akademijai ir Collegio užrašė du mūrinius namus Vyskupų gatvėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
     - c-81951
 
 <a id="claim-t-85971"></a>
-- t-002
-  global_id: t-85971
+- t-003
   teiginys: "1573 m. sutartyje Vyskupų gatvė nurodyta aprašant sklypą prie Skapo gatvės kampo, einant nuo Vilniaus vyskupo dvaro."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
     - c-81953
 
 <a id="claim-t-85972"></a>
-- t-003
-  global_id: t-85972
+- t-002
   teiginys: "1677 m. Paulius Bochenas 750 auksinų skyrė namui Vyskupų gatvėje remontuoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,7 +117,8 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85970
+    - t-001
+
 - id: c-81952
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -143,27 +141,15 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
     mūrinis namas buvo likęs, o kai pastarasis 1737 metais per
     miesto gaisrą irgi sudegė, in ruderibus [griuvėsiai] ilgai ne­
     remontuoti stovėjo.
-  citata_rodoma: |
-    1677. Akademijos Rektorius t. Paulius Bochenas, neturė­
-    damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­
-    nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­
-    gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos
-    750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­
-    kupų gatvėje; trečiasis mūrinis namas, in ruderibus [griuvė­
-    siais] virtęs, buvo prie pačios kolegijos priskirtas, o už jį at­
-    lygindami Collegium rektoriai, prie funduotos 4 000 auksinų
-    sumos (kuri anksčiau buvo minėta) iki 5 500 auksinų pridė­
-    ję, Vilniaus žydų kahale lokavo, ir jau tik vienas Valerijono
-    mūrinis namas buvo likęs, o kai pastarasis 1737 metais per
-    miesto gaisrą irgi sudegė, in ruderibus [griuvėsiai] ilgai ne­
-    remontuoti stovėjo.
+  citata_rodoma: "1677. Akademijos Rektorius t. Paulius Bochenas, neturė­\ndamas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­\nnardinų gatvėje Vilniaus kanauninkui maloningajam kuni­\ngui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos \n750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­\nkupų gatvėje; trečiasis mūrinis namas, in ruderibus [griuvė­\nsiais] virtęs, buvo prie pačios kolegijos priskirtas, o už jį at­\nlygindami Collegium rektoriai, prie funduotos 4 000 auksinų \nsumos (kuri anksčiau buvo minėta) iki 5 500 auksinų pridė­\nję, Vilniaus žydų kahale lokavo, ir jau tik vienas Valerijono \nmūrinis namas buvo likęs, o kai pastarasis 1737 metais per \nmiesto gaisrą irgi sudegė, in ruderibus [griuvėsiai] ilgai ne­\nremontuoti stovėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85972
+    - t-002
+
 - id: c-81953
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -185,4 +171,4 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85971
+    - t-003

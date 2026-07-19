@@ -39,7 +39,6 @@ Dusburgietis teigia, kad vyšniauskaitė.— V., 1964.
 
 <a id="claim-t-60669"></a>
 - t-001
-  global_id: t-60669
   teiginys: "Vyšniauskaitė.— V., 1964."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad vyšniauskaitė.— V., 1964.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60669
+    - t-001

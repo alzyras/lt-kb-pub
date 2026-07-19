@@ -33,7 +33,6 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
 
 <a id="claim-t-58749"></a>
 - t-001
-  global_id: t-58749
   teiginys: "Vitchendorfas buvo kaimas Saksonijoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
   semantiniai_rysiai: "Vitchendorfas priklausė Saksonija (0.88)"
   pagrindžia:
     - c-59381
-    - c-001
 - susijęs iš [[objektai/asmenys/Henrikas iš Ceico.md#claim-t-60312|Henrikas iš Ceico]]: Henrikas iš Ceico iš Vitchendorfo kaimo buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-59908|Ditrichas iš Bernheimo]]: Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.
 - susijęs iš [[objektai/asmenys/Henrikas iš Berkos.md#claim-t-60311|Henrikas iš Berkos]]: Henrikas iš Berkos iš Tiuringijos buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
@@ -88,8 +86,7 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58749
+
 ## Citatos
 
 - id: c-59381
@@ -125,16 +122,11 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
     Zalfeldas
     Zangershauzenas
     Zelionogradskas (buv.
-  citata_rodoma: |
-    Vištytis, miestelis
-    Vitchendorfas, k. Saksonijoje
-    Vitlandas (Witland, Withlandia)
-    Viurcburgas
-    Vizenburgas  (žr.
+  citata_rodoma: "Vištytis, miestelis\nVitchendorfas, k. Saksonijoje\nVitlandas (Witland, Withlandia)\nViurcburgas\nVizenburgas  (žr."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58749
+    - t-001

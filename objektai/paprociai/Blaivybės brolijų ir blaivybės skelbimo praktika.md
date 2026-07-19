@@ -49,8 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67060"></a>
-- t-001
-  global_id: t-67060
+- t-002
   teiginys: "Nustojus vesti blaivybės brolijų narių knygas, blaivybė nesusilpnėjo, o parapijonys statė kryžius ir paminklus jai paminėti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Nenurodyta
     - c-67110
 
 <a id="claim-t-67061"></a>
-- t-002
-  global_id: t-67061
+- t-001
   teiginys: "XIX a. viduryje Lietuvos blaivybės skelbimas labiausiai paplito vyskupo Motiejaus Valančiaus valdomoje Žemaičių vyskupystėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +98,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67060
+    - t-002
+
 - id: c-67111
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -121,4 +120,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67061
+    - t-001

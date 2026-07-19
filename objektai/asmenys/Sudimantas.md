@@ -40,8 +40,7 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
 ## Teiginiai
 
 <a id="claim-t-87582"></a>
-- t-001
-  global_id: t-87582
+- t-002
   teiginys: "Per puolimą sučiuptas lietuvių vadas Sudimantas prūsų buvo nuteistas pakarti kaip išdavikas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
     - c-83562
 
 <a id="claim-t-87583"></a>
-- t-002
-  global_id: t-87583
+- t-001
   teiginys: "Sudimantas vadovavo pilies sargybai ir sutrukdė Vytauto šalininkams užimti Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,7 +105,8 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87583
+    - t-001
+
 - id: c-83562
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -130,4 +129,4 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87582
+    - t-002

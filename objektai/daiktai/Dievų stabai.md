@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-08287"></a>
 - t-001
-  global_id: t-08287
   teiginys: "Tris dievų stabai buvo įstatyti ąžuolo uoksuose."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -69,7 +68,6 @@ Nenurodyta
 
 <a id="claim-t-08288"></a>
 - t-002
-  global_id: t-08288
   teiginys: "Per metines viešas aukas žmonės meldėsi prie šėtroje stovinčio aukuro ir dievo stabo."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,6 @@ Nenurodyta
 
 <a id="claim-t-188380"></a>
 - t-003
-  global_id: t-188380
   teiginys: "Luno Heliogabalo stabas, Aurelijus Antonino pastatytas Romos Kapitolijuje, buvo didžiulis juodas akmuo, laikytas iš dangaus nukritusiu meteoritu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -109,7 +106,6 @@ Nenurodyta
 
 <a id="claim-t-188381"></a>
 - t-004
-  global_id: t-188381
   teiginys: "Narbutas rašė, kad Lietuvai priimant krikščionybę dievų stabai buvo labiausiai naikinami, ypač kryžiuočių ir kalavijuočių riterių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -130,9 +126,8 @@ Nenurodyta
 
 <a id="claim-t-188382"></a>
 - t-005
-  global_id: t-188382
   teiginys: "Narbutas spėjo, kad minėtame panteone galėjo būti dievų stabų rinkinys, nors smulkmenų apie jį neturėta."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -141,12 +136,11 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171276
-    - c-005
+
 <a id="claim-t-188383"></a>
 - t-006
-  global_id: t-188383
   teiginys: "Narbutas teigė, kad tikėjimo vadovai veikė visuomenę nešiodamiesi Pokliaus stabuką ir pranašaudami dievų bausmes bei dovanas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -155,10 +149,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171277
-    - c-006
+
 <a id="claim-t-197237"></a>
 - t-007
-  global_id: t-197237
   teiginys: "O šios šventyklos aprašyme istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris buvęs puošnesnis už kitus."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -171,7 +164,6 @@ Nenurodyta
 
 <a id="claim-t-197238"></a>
 - t-008
-  global_id: t-197238
   teiginys: "Tačiau vėlesniais stabmeldiškosios Lietuvos laikais tas au toritetas smarkiai sukasdieniškėjo ir, kaip liudija kai kurie is torijos paminklai, vyriausiasis žynys ėmė dažniau rodytis."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -202,8 +194,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188382
 - c-006
   santrauka: 'Narbutas teigė, kad tikėjimo vadovai veikė visuomenę nešiodamiesi Pokliaus stabuką ir pranašaudami dievų bausmes bei dovanas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -223,8 +213,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188383
+
 ## Pastabos
 
 - tekste stabas minimas tik greta aukuro, be atskiro aprašymo ar formos detalės.
@@ -242,20 +231,15 @@ Nenurodyta
         nudengęs jis tris dievų stabus, uoksuose to ąžuolo įstatytus, kaip viršiau regėjom; svietas tuo būk
         prasidžiugęs ir stebėjęs, nesgi iki šiolei svietas meldęs dievus, veizėdamas į saulę ir delčią, o dabar
         išvydęs jų veidus.
-  citata_rodoma: |
-    Žaliajame pagiry stovėjęs ąžuolas, kursai savo amžium, aukštybe ir platybe visų girių medžius
-    pranokęs; tenai liepęs kūrėjų kūrėjas Brutenis svietui sueiti ir, jam suėjus, taip būk sakęs: „Dievai
-    mūsų maloningi nuo šiol tarp jūsų gyvens, kurie šį ąžuolą paskyrė sau už buveinę.“ Ant tų žodžių
-    nudengęs jis tris dievų stabus, uoksuose to ąžuolo įstatytus, kaip viršiau regėjom; svietas tuo būk
-    prasidžiugęs ir stebėjęs, nesgi iki šiolei svietas meldęs dievus, veizėdamas į saulę ir delčią, o dabar
-    išvydęs jų veidus.
+  citata_rodoma: "Žaliajame pagiry stovėjęs ąžuolas, kursai savo amžium, aukštybe ir platybe visų girių medžius\npranokęs; tenai liepęs kūrėjų kūrėjas Brutenis svietui sueiti ir, jam suėjus, taip būk sakęs: „Dievai\nmūsų maloningi nuo šiol tarp jūsų gyvens, kurie šį ąžuolą paskyrė sau už buveinę.“ Ant tų žodžių\nnudengęs jis tris dievų stabus, uoksuose to ąžuolo įstatytus, kaip viršiau regėjom; svietas tuo būk\nprasidžiugęs ir stebėjęs, nesgi iki šiolei svietas meldęs dievus, veizėdamas į saulę ir delčią, o dabar\nišvydęs jų veidus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08287
+    - t-001
+
 - id: c-10245
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -266,19 +250,15 @@ Nenurodyta
         ąžuolu, kame šventa ugnis kūrinos. Viršaitis, paėmęs duonos šmotelį ant torieliaus^949 ir midaus
         kaušą ar taurę ir tuo nešinas, tris kartus apėjo apie stalą ir tenai padėjo duoną ir taurę. Tad prie
         aukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom.
-  citata_rodoma: |
-    Išeiginėse aukose, beje, ant metinių viešių, arba švenčių, aukavo viršaitis ar viršininkas
-    vaideliotų, arba žynių, susirinkus taip pat svietui vienos apygardos į pašėtrį po visų dideliuoju
-    ąžuolu, kame šventa ugnis kūrinos. Viršaitis, paėmęs duonos šmotelį ant torieliaus^949 ir midaus
-    kaušą ar taurę ir tuo nešinas, tris kartus apėjo apie stalą ir tenai padėjo duoną ir taurę. Tad prie
-    aukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom.
+  citata_rodoma: "Išeiginėse aukose, beje, ant metinių viešių, arba švenčių, aukavo viršaitis ar viršininkas\nvaideliotų, arba žynių, susirinkus taip pat svietui vienos apygardos į pašėtrį po visų dideliuoju\nąžuolu, kame šventa ugnis kūrinos. Viršaitis, paėmęs duonos šmotelį ant torieliaus^949 ir midaus\nkaušą ar taurę ir tuo nešinas, tris kartus apėjo apie stalą ir tenai padėjo duoną ir taurę. Tad prie\naukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08288
+    - t-002
+
 - id: c-171274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -300,7 +280,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188380
+    - t-003
+
 - id: c-171275
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -320,7 +301,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188381
+    - t-004
+
 - id: c-171276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -334,21 +316,15 @@ Nenurodyta
     tai minima J. F. R. kronikoje, iš kurios pateikiu pažodinę iš­
     trauką: „Trakai - vienas iš seniausių Lietuvos miestų - seniau
     vadinosi Ghurgani.
-  citata_rodoma: |
-    273
-
-    ## Puslapis 273
-
-    įtvirtinimai18. Kalnas, arba Kolnas; etimologinė Kol prasmė -
-    kalnas, iškili vieta. Tačiau smulkmenų apie tą panteoną ne­
-    turime; reikėtų manyti, kad jame turėjo būti stabų rinkinys.
+  citata_rodoma: "273\n\n## Puslapis 273\n\nįtvirtinimai18. Kalnas, arba Kolnas; etimologinė Kol prasmė -\nkalnas, iškili vieta. Tačiau smulkmenų apie tą panteoną ne­\nturime; reikėtų manyti, kad jame turėjo būti stabų rinkinys."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188382
+    - t-005
+
 - id: c-171277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -368,24 +344,15 @@ Nenurodyta
     Tačiau vėlesniais stabmeldiškosios Lietuvos laikais tas au­
     toritetas smarkiai sukasdieniškėjo ir, kaip liudija kai kurie is­
     torijos paminklai, vyriausiasis žynys ėmė dažniau rodytis.
-  citata_rodoma: |
-    Politinė padėtis jau buvo
-    nepalanki senajai religinei santvarkai, todėl tikėjimo galvos
-    autoritetas pamažu turėjo silpnėti15.
-    Vis dėlto jie darė didelę įtaką visuomenės mąstymui -  ar
-    tai nešiodamiesi užantyje baisios išvaizdos Pokliaus stabuką,
-    ar tai pranašaudami baisius dalykus, bausmes ir dovanas, ku­
-    rias galį atsiųsti dievai, su kuriais jie kuo artimiausiai bendraują;
-    pagaliau įtikinėdami žmones, kad mirusiųjų vėlės galinčios pa­
-    sirodyti, ir kitokiais panašiais prasimanymais. Mat sumanęs
-    14 Schütz.
+  citata_rodoma: "Politinė padėtis jau buvo\nnepalanki senajai religinei santvarkai, todėl tikėjimo galvos\nautoritetas pamažu turėjo silpnėti15.\nVis dėlto jie darė didelę įtaką visuomenės mąstymui -  ar\ntai nešiodamiesi užantyje baisios išvaizdos Pokliaus stabuką,\nar tai pranašaudami baisius dalykus, bausmes ir dovanas, ku­\nrias galį atsiųsti dievai, su kuriais jie kuo artimiausiai bendraują;\npagaliau įtikinėdami žmones, kad mirusiųjų vėlės galinčios pa­\nsirodyti, ir kitokiais panašiais prasimanymais. Mat sumanęs\n14 Schütz."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188383
+    - t-006
+
 - id: c-179078
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -407,7 +374,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197237
+    - t-007
+
 - id: c-179079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -428,4 +396,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197238
+    - t-008

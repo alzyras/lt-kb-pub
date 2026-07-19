@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185793"></a>
 - t-001
-  global_id: t-185793
   teiginys: "Teodoras Kaributaitis, išlaisvintas po Boleslovo kariuomenės sumušimo, perėjo pas lenkus ir perdavė Vladislovui Braclavą bei Kremenecą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -67,7 +66,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-169154
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Kaributaitis, išlaisvintas po Boleslovo kariuomenės sumušimo, perėjo pas lenkus ir perdavė Vladislovui Braclavą bei Kremenecą.'
@@ -86,8 +85,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185793
+
 ## Citatos
 
 - id: c-169154
@@ -114,19 +112,11 @@ Nenurodyta
     Polocko žemės, jis Dauguvos
     pakrantėmis įsibrovė į Bres­
     laujos apygardą, tačiau beveik nieko čia nepešė.
-  citata_rodoma: |
-    Mat neseniai, prasi­
-    dėjus nesantaikai, Boleslovas įkalino Teodorą Karibu-
-    taitį. Pasipiktinę tokiu žiaurumu, Kaributaičio vasalai ir
-    valdiniai, slaptai susitarę su Bučackiais, sumušė Bo­
-    leslovo kariuomenę, o Kaributaitį paleido į laisvę. Iš­
-    trūkęs iš kalėjimo, Kaributaitis perėjo pas lenkus ir
-    perdavė jo įgulų ginamas Podolės pilis Braclavą bei
-    Kremenecą karaliui Vladislovui.
+  citata_rodoma: "Mat neseniai, prasi­\ndėjus nesantaikai, Boleslovas įkalino Teodorą Karibu-\ntaitį. Pasipiktinę tokiu žiaurumu, Kaributaičio vasalai ir\nvaldiniai, slaptai susitarę su Bučackiais, sumušė Bo­\nleslovo kariuomenę, o Kaributaitį paleido į laisvę. Iš­\ntrūkęs iš kalėjimo, Kaributaitis perėjo pas lenkus ir\nperdavė jo įgulų ginamas Podolės pilis Braclavą bei\nKremenecą karaliui Vladislovui."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185793
+    - t-001

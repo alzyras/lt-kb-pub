@@ -31,7 +31,6 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
 
 <a id="claim-t-189193"></a>
 - t-001
-  global_id: t-189193
   teiginys: "Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip trubadūrai, skaldai ar bardai, apdainuodavo tautos istorijos įvykius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,31 +48,22 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172081
-    - c-001
+
 <a id="claim-t-189194"></a>
 - t-002
-  global_id: t-189194
   teiginys: "Narbutas pirmykšte reikšme burtininkais laikė eilių kūrėjus ir savo pačių sudėtų giesmių giedotojus, panašius į senovės bardus ir skaldus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Burtininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Burtininkai burtininkas burtininkė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Burtininkai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Burtininkai burtininkas burtininkė\" parinktas kaip owner_note_path. Targetas \"Burtininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172082
+    - c-172081
 
 <a id="claim-t-189195"></a>
 - t-003
-  global_id: t-189195
   teiginys: "Narbutas rašė, kad nykstant lietuvių mitologijai burtininkų profesija nusmuko iki paprastų dainių, kurių klausytasi pramogai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -94,7 +84,6 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
 
 <a id="claim-t-189196"></a>
 - t-004
-  global_id: t-189196
   teiginys: "Narbutas burtininkę Burte apibrėžė kaip lietuvių bardę Burtyniczka, kuri sakydavo eiles, dainuodavo ir pranašaudavo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -112,10 +101,9 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172084
-    - c-004
+
 <a id="claim-t-197359"></a>
 - t-005
-  global_id: t-197359
   teiginys: "Prūsijos kronikininkai, kurie prisimena, kad jų gyvenimo metais dar būta burtininkų pėdsakų, priskiria jiems ateities išpranašavimą liejant ištirpintą vašką į šaltą vandenį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -144,8 +132,6 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189193
 - c-004
   santrauka: 'Narbutas burtininkę Burte apibrėžė kaip lietuvių bardę Burtyniczka, kuri sakydavo eiles, dainuodavo ir pranašaudavo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -159,8 +145,7 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189196
+
 ## Citatos
 
 - id: c-172081
@@ -180,22 +165,16 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
     me su jūra krašte, kuriame daug visokių didelių vandenų, to­
     dėl plaukioti buriniais laivais jiems buvo neišvengiama, taigi
     jie negalėjo apsieiti be savo Neptūno.
-  citata_rodoma: |
-    Tolesnį šito patvirtinimą rasime žemiau,
-    straipsnyje „Laima“.
-    Visos lietuvių genties tautos turėjo savo dainius, panašius
-    į kitur žinomus trubadūrus, skaldus arba bardus, kurie apdai­
-    nuodavo įvairius tautos istorijos įvykius; lieuviškai juos vadin­
-    davo burtininkais (Burtynikaj), latviškai-Birnvis arba taip pat
-    Burts. Kai kuriose savo giesmėse jie šaukdavosi Santvara, kar­
-    iais Lėlio.
+  citata_rodoma: "Tolesnį šito patvirtinimą rasime žemiau,\nstraipsnyje „Laima“.\nVisos lietuvių genties tautos turėjo savo dainius, panašius\nį kitur žinomus trubadūrus, skaldus arba bardus, kurie apdai­\nnuodavo įvairius tautos istorijos įvykius; lieuviškai juos vadin­\ndavo burtininkais (Burtynikaj), latviškai-Birnvis arba taip pat\nBurts. Kai kuriose savo giesmėse jie šaukdavosi Santvara, kar­\niais Lėlio."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189193
+    - t-001
+    - t-002
+
 - id: c-172082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -219,8 +198,8 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189194
-    - t-197359
+    - t-005
+
 - id: c-172083
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -242,7 +221,8 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189195
+    - t-003
+
 - id: c-172084
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -263,15 +243,11 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
     nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
     si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
     kaip tai pamatysime toliau.
-  citata_rodoma: |
-    Burtininkė (Burte)
-    Lietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­
-    vo įvairias dainas, taip pat pranašaudavo (burdavo). Tas pava­
-    dinimas yra Lasickio mitologijoje.
+  citata_rodoma: "Burtininkė (Burte)\nLietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­\nvo įvairias dainas, taip pat pranašaudavo (burdavo). Tas pava­\ndinimas yra Lasickio mitologijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189196
+    - t-004

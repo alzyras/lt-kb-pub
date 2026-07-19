@@ -40,7 +40,6 @@ Nerman, B.: Die Verbindungen zwischen Skandinavien und dem Ostbaltikum in der j�
 
 <a id="claim-t-30569"></a>
 - t-001
-  global_id: t-30569
   teiginys: "B. Nermanas 1929 m. Stokholme paskelbė darbą apie Skandinavijos ir Rytų Baltijos ryšius vėlyvajame geležies amžiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,14 +68,11 @@ Nerman, B.: Die Verbindungen zwischen Skandinavien und dem Ostbaltikum in der j�
     VIII a. kapai_ , AkMD, t. 41, 1972, 101-120 p.—Nerman, B.: _Die
     Verbindungen zwischen Skandinavien und dem Ostbaltikum in der jüngeren
     Eisenzeit_ , Stockholm 1929. — (”) _Grobin-Seeburg.
-  citata_rodoma: |
-    —Nerman, B.: _Die
-    Verbindungen zwischen Skandinavien und dem Ostbaltikum in der jüngeren
-    Eisenzeit_ , Stockholm 1929. — (”) _Grobin-Seeburg.
+  citata_rodoma: "—Nerman, B.: _Die\nVerbindungen zwischen Skandinavien und dem Ostbaltikum in der jüngeren\nEisenzeit_ , Stockholm 1929. — (”) _Grobin-Seeburg."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30569
+    - t-001

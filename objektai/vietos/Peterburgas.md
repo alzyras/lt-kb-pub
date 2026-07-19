@@ -51,8 +51,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 ## Teiginiai
 
 <a id="claim-t-77132"></a>
-- t-001
-  global_id: t-77132
+- t-005
   teiginys: "Septintąjį–aštuntąjį dešimtmetį Lietuvą kirto geležinkelis Peterburgas–Varšuva."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     - c-24377
 
 <a id="claim-t-77134"></a>
-- t-002
-  global_id: t-77134
+- t-012
   teiginys: "Pirmojo pasaulinio karo metais Peterburge ir Voroneže susiformavo lietuvių centrai su laikraščių redakcijomis ir gimnazijomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,8 +87,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     - c-74583
 
 <a id="claim-t-77135"></a>
-- t-003
-  global_id: t-77135
+- t-002
   teiginys: "1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -109,8 +106,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     - c-24374
 
 <a id="claim-t-77136"></a>
-- t-004
-  global_id: t-77136
+- t-003
   teiginys: "1797 m. sausio 26 d. Peterburgo konvencija patvirtino trečiąjį Lenkijos ir Lietuvos valstybės padalijimą, panaikino valstybingumo likučius ir nubrėžė sienas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -129,8 +125,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     - c-24375
 
 <a id="claim-t-77137"></a>
-- t-005
-  global_id: t-77137
+- t-004
   teiginys: "Vilniaus Romos katalikų dvasinė akademija buvo perkelta į Sankt Peterburgą, o Vilniaus medicinos-chirurgijos akademija uždaryta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,9 +143,9 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   pagrindžia:
     - c-24376
     - c-74582
+
 <a id="claim-t-77138"></a>
-- t-006
-  global_id: t-77138
+- t-011
   teiginys: "1906 m. Peterburge rimtai nesvarstyta rezoliucija dėl politinės autonomijos suteikimo Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -169,8 +164,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     - c-74581
 
 <a id="claim-t-77141"></a>
-- t-007
-  global_id: t-77141
+- t-001
   teiginys: "Peterburge telkėsi reformų opozicija, nes Jekaterina II ten susikvietė aršiausius reformų priešininkus."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -188,8 +182,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     - c-24373
 
 <a id="claim-t-77142"></a>
-- t-008
-  global_id: t-77142
+- t-010
   teiginys: "XIX a. septintąjį ir aštuntąjį dešimtmečiais Lietuvą kirto geležinkelis Peterburgas-Varšuva."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -205,8 +198,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     - c-74580
 
 <a id="claim-t-77143"></a>
-- t-009
-  global_id: t-77143
+- t-007
   teiginys: "Peterburge nebuvo rimtai svarstoma rezoliucija dėl politinės autonomijos suteikimo Lietuvai."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -224,10 +216,9 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     - c-24379
 
 <a id="claim-t-188801"></a>
-- t-010
-  global_id: t-188801
+- t-006
   teiginys: "Cituojamas jaunuolis kurį laiką dėstytojavo Peterburgo kadetų korpuse."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -245,12 +236,11 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   temporalinis_llm_pakomentavimas: "Neaiškus įvardis pakeistas citatoje esančiu apibūdinimu, nes asmens vardas šioje ištraukoje nepateiktas. Nepridėta biografinių duomenų iš už citatos ribų."
   pagrindžia:
     - c-171690
-    - c-011
+
 <a id="claim-t-192719"></a>
-- t-011
-  global_id: t-192719
+- t-013
   teiginys: "Peterburge 1839 m. istorikas gavo Jo Didenybės Imperatoriaus dovaną, briliantinį žiedą, po „Lietuvių mitologijos“ įvertinimo."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -269,7 +259,6 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175489
-    - c-012
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170089|Stanislovas Augustas Poniatovskis (valdovas)]]: Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos.
 - susijęs iš [[objektai/autoriai/A. E. Presniakov.md#claim-t-30504|A. E. Presniakov]]: A. E. Presniakov 1908-1910 m. Peterburgo universiteto paskaitose lietė Lietuvos istorijos klausimus nuo XIII a. vidurio iki Liublino unijos.
 - susijęs iš [[objektai/autoriai/Frid. Adelung.md#claim-t-191642|Frid. Adelung]]: Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la lanąue russe“, išleistą Sankt Peterburge 1811 metais.
@@ -340,8 +329,6 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188801
 - c-012
   santrauka: 'Peterburge 1839 m. istorikas gavo Jo Didenybės Imperatoriaus dovaną, briliantinį žiedą, po „Lietuvių mitologijos“ įvertinimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -359,8 +346,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192719
+
 ## Citatos
 
 - id: c-24373
@@ -378,17 +364,15 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     jos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-
     deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
     Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
-  citata_rodoma: |
-    Tačiau
-    opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
-    reformų priešininkus.
+  citata_rodoma: "Tačiau\nopozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius\nreformų priešininkus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77141
+    - t-001
+
 - id: c-24374
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -401,17 +385,15 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
     burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
     ir Lietuvos valstybės padalijimo.
-  citata_rodoma: |
-    Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
-    burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
-    ir Lietuvos valstybės padalijimo.
+  citata_rodoma: "Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-\nburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos\nir Lietuvos valstybės padalijimo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77135
+    - t-002
+
 - id: c-24375
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -423,17 +405,15 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
     burgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos
     valstybingumo likučius ir nubrėžė tikslias sienas.
-  citata_rodoma: |
-    1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
-    burgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos
-    valstybingumo likučius ir nubrėžė tikslias sienas.
+  citata_rodoma: "1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-\nburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos\nvalstybingumo likučius ir nubrėžė tikslias sienas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77136
+    - t-003
+
 - id: c-24376
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -446,17 +426,15 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     gijos akademija ir Vilniaus Romos katalikų dvasinė akademija. Po dešimt
     metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
     burgą, o Medicinos-chirurgijos akademija uždaryta.
-  citata_rodoma: |
-    Po dešimt
-    metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
-    burgą, o Medicinos-chirurgijos akademija uždaryta.
+  citata_rodoma: "Po dešimt\nmetų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-\nburgą, o Medicinos-chirurgijos akademija uždaryta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77137
+    - t-004
+
 - id: c-24377
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -471,17 +449,15 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     navigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
     Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
     (Kenigsbergą), linija Liepoja–Romnai.
-  citata_rodoma: |
-    Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
-    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
-    (Kenigsbergą), linija Liepoja–Romnai.
+  citata_rodoma: "Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis\nPeterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių\n(Kenigsbergą), linija Liepoja–Romnai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77132
+    - t-005
+
 - id: c-24379
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -492,16 +468,15 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
     Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės au-
     tonomijos Lietuvai suteikimo.
-  citata_rodoma: |
-    Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės au-
-    tonomijos Lietuvai suteikimo.
+  citata_rodoma: "Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės au-\ntonomijos Lietuvai suteikimo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77143
+    - t-007
+
 - id: c-74580
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -514,18 +489,15 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
     tiesiamos pirmosios telefono linijos, XX a. pradžioje pasirodo ir pirmieji
     automobiliai.
-  citata_rodoma: |
-    Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
-    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
-    (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
-    tiesiamos pirmosios telefono linijos, XX a.
+  citata_rodoma: "Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis \nPeterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių \n(Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-\ntiesiamos pirmosios telefono linijos, XX a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77142
+    - t-010
+
 - id: c-74581
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -541,24 +513,15 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     tybės Tarybos ir Valstybės Dūmos – parlamentas, su kuriuo caras dalijosi
     įstatymų leidyba, visa vykdomoji valdžia ir konstitucinių įstatymų leidimas
     liko caro rankose.
-  citata_rodoma: |
-    pavasarį ka-
-    zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
-    Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės au-
-    tonomijos Lietuvai suteikimo.
-    Lietuva po 1905-ųjų – kultūrinė kova
-    Nors po revoliucijos Rusijoje atsirado atstovaujamosios, tie-
-    sa, ne demokratiškai renkamos, valdžios institucija – dvejų rūmų – Vals-
-    tybės Tarybos ir Valstybės Dūmos – parlamentas, su kuriuo caras dalijosi
-    įstatymų leidyba, visa vykdomoji valdžia ir konstitucinių įstatymų leidimas
-    liko caro rankose.
+  citata_rodoma: "pavasarį ka-\nzokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė. \nŽinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės au-\ntonomijos Lietuvai suteikimo. \nLietuva po 1905-ųjų – kultūrinė kova\nNors po revoliucijos Rusijoje atsirado atstovaujamosios, tie-\nsa, ne demokratiškai renkamos, valdžios institucija – dvejų rūmų – Vals-\ntybės Tarybos ir Valstybės Dūmos – parlamentas, su kuriuo caras dalijosi \nįstatymų leidyba, visa vykdomoji valdžia ir konstitucinių įstatymų leidimas \nliko caro rankose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77138
+    - t-011
+
 - id: c-74582
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -571,16 +534,15 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
     burgą, o Medicinos-chirurgijos akademija uždaryta. 1840 m. panaikintas
     Lietuvos Statutas, o teismų sistema surusinta.
-  citata_rodoma: |
-    Po dešimt
-    metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
-    burgą, o Medicinos-chirurgijos akademija uždaryta. 1840 m.
+  citata_rodoma: "Po dešimt \nmetų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-\nburgą, o Medicinos-chirurgijos akademija uždaryta. 1840 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-74583
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -596,21 +558,15 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     revoliucijos euforijos apimtai kairei pasisakius už Lietuvos ateitį Rusijos
     laisvų tautų federacijoje, aiškiai nepriklausomybės siekianti koservaty-
     vioji dauguma apleido seimą.
-  citata_rodoma: |
-    Ateities klausimų svarstymas apėmė svarbiausius lietuvių telkinius.
-    Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi-
-    sklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi-
-    formavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos,
-    gimnazijos, jaunimas ruoštas sugrįžimui į Lietuvą. Rusijos revoliucija,
-    caro nuvertimas sudarė geresnes galimybes lietuvių veiklai, tačiau poli-
-    tiškai jie skilo: kai 1917 m.
+  citata_rodoma: "Ateities klausimų svarstymas apėmė svarbiausius lietuvių telkinius. \nMaždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi-\nsklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi-\nformavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos, \ngimnazijos, jaunimas ruoštas sugrįžimui į Lietuvą. Rusijos revoliucija, \ncaro nuvertimas sudarė geresnes galimybes lietuvių veiklai, tačiau poli-\ntiškai jie skilo: kai 1917 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77134
+    - t-012
+
 - id: c-171690
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -625,18 +581,15 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
     ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
     kus.
-  citata_rodoma: |
-    Jaunuolis nesibaidė vyriau­
-    sybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų
-    korpuse. Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
-    vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
+  citata_rodoma: "Jaunuolis nesibaidė vyriau­\nsybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų\nkorpuse. Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­\nvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188801
+    - t-006
+
 - id: c-175489
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -651,19 +604,11 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     jam šio tomo leidimui4. Si aplinkybė leidžia daryti prie­
     laidą, jog abu tomai į rusų kalbą buvo verčiami tiesiog
     iš rankraščio, kartu su lenkiškuoju variantu.
-  citata_rodoma: |
-    Vadinasi, su­
-    manymas siekia daug ankstesnius laikus nei „Lietuvių mi­
-    tologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­
-    bės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­
-    vo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-
-    išleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­
-    nės T. Narbuto korespondencijos, istorikas daugelį metų
-    ieškojo galimybės išspausdinti šio tomo vertimą.
+  citata_rodoma: "Vadinasi, su­\nmanymas siekia daug ankstesnius laikus nei „Lietuvių mi­\ntologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­\nbės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­\nvo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-\nišleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­\nnės T. Narbuto korespondencijos, istorikas daugelį metų\nieškojo galimybės išspausdinti šio tomo vertimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192719
+    - t-013

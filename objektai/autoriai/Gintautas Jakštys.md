@@ -39,7 +39,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 
 <a id="claim-t-40615"></a>
 - t-001
-  global_id: t-40615
   teiginys: "Gintautas Jakštys gimė 1971 m. ir baigė Vilniaus pedagoginio universiteto Istorijos fakultetą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40615
+    - t-001

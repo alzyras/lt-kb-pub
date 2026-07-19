@@ -37,8 +37,7 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
 ## Teiginiai
 
 <a id="claim-t-13497"></a>
-- t-001
-  global_id: t-13497
+- t-005
   teiginys: "1972 m. gegužės 14 d. Romas Kalanta prieš pasidegdamas sušuko „Laisvę Lietuvai!“."
   atnaujinta: "2026-05-18 23:37"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -56,8 +55,7 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
     - c-23552
 
 <a id="claim-t-13498"></a>
-- t-002
-  global_id: t-13498
+- t-006
   teiginys: "Šūksnis „Laisvę Lietuvai!“ siejamas su Romo Kalantos pasidegimu Kauno miesto sode 1972 m. gegužės 14 d."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -88,13 +86,12 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
     tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
     pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
     lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
-  citata_rodoma: |
-    sušukęs „Laisvę Lietuvai!“, pasidegė.
+  citata_rodoma: "sušukęs „Laisvę Lietuvai!“, pasidegė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13497
-    - t-13498
+    - t-005
+    - t-006

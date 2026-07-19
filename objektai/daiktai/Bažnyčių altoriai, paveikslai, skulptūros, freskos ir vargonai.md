@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-77921"></a>
 - t-001
-  global_id: t-77921
   teiginys: "Iki XVI a. vidurio vienuolynų bažnyčiose buvo prabangūs altoriai, daug paveikslų, skulptūrų ir freskų, o nuo XV a. pabaigos ir vargonai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77921
+    - t-001

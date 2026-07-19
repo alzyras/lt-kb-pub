@@ -32,9 +32,8 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
 
 <a id="claim-t-190454"></a>
 - t-001
-  global_id: t-190454
   teiginys: "Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais dievų šventyklų statytojais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,10 +49,9 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173337
-    - c-001
+
 <a id="claim-t-190794"></a>
-- t-002
-  global_id: t-190794
+- t-003
   teiginys: "Teodoras Narbutas mini spėjimą, kad šališkas aiškintojas Strabonas Pytejui priskyrė svetimos medžiagos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,10 +69,9 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173676
-    - c-002
+
 <a id="claim-t-190795"></a>
-- t-003
-  global_id: t-190795
+- t-004
   teiginys: "Teodoras Narbutas Straboną mini tarp autorių, kalbėjusių apie vandens lygio kritimą ir pateikusių to įrodymų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -92,12 +89,11 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173677
-    - c-003
+
 <a id="claim-t-194890"></a>
-- t-004
-  global_id: t-194890
+- t-005
   teiginys: "Strabonas pasuko į pietus, įplaukė į Baltijos jūrą, atplaukė ¡prie gintaringų 1 Strabo."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -105,8 +101,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-177286
-    - c-004
+    - c-173677
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190316|Herodotas]]: Herodotas ir Strabonas tikino, kad egiptiečiai ir finikiečiai pirmieji pradėjo statyti dievams skirtas šventyklas.
 - susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-188179|Egiptiečiai]]: Narbutas nurodė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais šventyklų dievams statytojais.
 - susijęs iš [[objektai/grupes/Finikiečiai.md#claim-t-188183|Finikiečiai]]: Narbutas nurodė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais šventyklų dievams statytojais.
@@ -136,8 +131,6 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190454
 - c-002
   santrauka: 'Teodoras Narbutas mini spėjimą, kad šališkas aiškintojas Strabonas Pytejui priskyrė svetimos medžiagos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -154,8 +147,6 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190794
 - c-003
   santrauka: 'Teodoras Narbutas Straboną mini tarp autorių, kalbėjusių apie vandens lygio kritimą ir pateikusių to įrodymų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -181,8 +172,6 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190795
 - c-004
   santrauka: 'Strabonas pasuko į pietus, įplaukė į Baltijos jūrą, atplaukė ¡prie gintaringų 1 Strabo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -195,8 +184,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194890
+
 ## Citatos
 
 - id: c-173337
@@ -217,27 +205,15 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
     kingų tyrų, užgrobė vandalų, svebų ir kitų vokiečių tautų ap­
     leistas žemes, o paskui pradėjo spausti herulus ir užiminėti jų
     apgyventas sodybas.
-  citata_rodoma: |
-    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
-    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
-    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
-    randame nuolat minimus miškus: kartais kalbama apie mišką
-    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
-    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
-    kiausiame miške ar nuošaliausiose vietose.
-    Šventyklos
-    Herodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai
-    pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
-    riuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar
-    ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo
-    kalnai.
+  citata_rodoma: "Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­\nto, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už\nXVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų\nrandame nuolat minimus miškus: kartais kalbama apie mišką\nsu kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­\nčiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­\nkiausiame miške ar nuošaliausiose vietose.\nŠventyklos\nHerodotas ir Strabonas tikina, kad egiptiečiai ir finikiečiai\npirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­\nriuose jie būdavo garbinami. O persai ir kitos Rytų tautos dar\nilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo\nkalnai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190454
+    - t-001
+
 - id: c-173676
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -251,21 +227,15 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
     vintais jėzuitų aprašymais. Pitėjas vadina gutonus ger­
     manų gentimi, tuo tarpu Tacitas tikina, jog šis pavadi­
     nimas pradėtas vartoti tik neseniai.
-  citata_rodoma: |
-    Fosas teigia, jog jis pasiekė tik Reiną ar
-    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
-    tojas Strabonas daug ką jam priskyrė svetimo. Dažnai
-    jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo
-    ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
-    jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
-    vintais jėzuitų aprašymais.
+  citata_rodoma: "Fosas teigia, jog jis pasiekė tik Reiną ar\ntoliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­\ntojas Strabonas daug ką jam priskyrė svetimo. Dažnai\njo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo\nilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­\njęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­\nvintais jėzuitų aprašymais."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190794
+    - t-003
+
 - id: c-173677
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -288,30 +258,16 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
     mėse, kurios tarsi įrodo jos mažėjimą. Tačiau esama dar
     1 Tacitas kildina iš lotyniško žodžio germanus, gimtas.
-  citata_rodoma: |
-    Tačiau Kelsijus ir Dalinas per­
-    nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
-    Kristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po
-    keturių tūkstančių metų jos neliks nė pėdsako. Antra
-    vertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,
-    Ovidijus kalba apie vandens lygio kritimą, pateikdami
-    akivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis
-    apie
-    Baltijos
-    jūrą“).
-    Seni
-    venecijiečių
-    žemėlapiai
-    šiai jūrai skiria gerokai didesnį plotą, negu ji užima
-    šiandien, be to, matoma daug pavyzdžių ir gretimose že­
-    mėse, kurios tarsi įrodo jos mažėjimą.
+  citata_rodoma: "Tačiau Kelsijus ir Dalinas per­\nnelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo\nKristaus gimimo Baltijos jūra nuseko 13 sieksnių ir po\nketurių tūkstančių metų jos neliks nė pėdsako. Antra\nvertus, žinome, jog Eratostenas*, Aristotelis, Strabonas,\nOvidijus kalba apie vandens lygio kritimą, pateikdami\nakivaizdžių įrodymų (palyginti su Pisanskio „Pastabomis\napie\nBaltijos\njūrą“).\nSeni\nvenecijiečių\nžemėlapiai\nšiai jūrai skiria gerokai didesnį plotą, negu ji užima\nšiandien, be to, matoma daug pavyzdžių ir gretimose že­\nmėse, kurios tarsi įrodo jos mažėjimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190795
+    - t-004
+    - t-005
+
 - id: c-177286
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -324,14 +280,9 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
     nių gyvulių; maistui vartoja soras bei kitų javų grūdus ir
     daržoves. Tie, kurie turi medaus ir grūdų, gamina iš jų
     gėrimus.
-  citata_rodoma: |
-    Iš ten jis pasuko
-    į pietus, įplaukė į Baltijos jūrą, atplaukė ¡prie gintaringų
-    1 Strabo. Lib. XVII. P. 802.
+  citata_rodoma: "Iš ten jis pasuko\nį pietus, įplaukė į Baltijos jūrą, atplaukė ¡prie gintaringų\n1 Strabo. Lib. XVII. P. 802."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194890

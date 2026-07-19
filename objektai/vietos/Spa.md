@@ -36,8 +36,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 ## Teiginiai
 
 <a id="claim-t-47195"></a>
-- t-001
-  global_id: t-47195
+- t-002
   teiginys: "Kai lenkų daliniai, spaudžiami bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžiosios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,14 +66,11 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     sios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.
     Atsirado unikali galimybė atgauti sostinę Antantės padedamiems ir dar
     pritariant Lenkijai.
-  citata_rodoma: |
-    Kai lenkų daliniai, spaudžiami
-    bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžio-
-    sios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.
+  citata_rodoma: "Kai lenkų daliniai, spaudžiami \nbolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžio-\nsios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47195
+    - t-002

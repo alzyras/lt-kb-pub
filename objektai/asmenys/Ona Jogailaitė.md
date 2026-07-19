@@ -64,7 +64,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 
 <a id="claim-t-54979"></a>
 - t-001
-  global_id: t-54979
   teiginys: "Karalaitė Ona (Ona Jogailaitė) testamente paskelbta viena iš valdų, dvarų ir kito turto paveldėtojų."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::people"
@@ -81,24 +80,15 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 
 <a id="claim-t-54980"></a>
 - t-002
-  global_id: t-54980
   teiginys: "Karalaitė Ona (Ona Jogailaitė) testamente apibūdinta kaip iki tol tebebuvusi neištekėjusi."
-  atnaujinta: "2026-05-31 12:00"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "susije_su -> Braunsbergas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ona Jogailaitė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Braunsbergas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ona Jogailaitė\" parinktas kaip owner_note_path. Targetas \"Braunsbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-55524
+    - c-79102
 
 <a id="claim-t-54981"></a>
 - t-003
-  global_id: t-54981
   teiginys: "Karalaitei Onai (Onai Jogailaitei) turėjo būti atiduotas kraitis ir tūkstantis raudonųjų vengriškų zlotų auksu."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::people"
@@ -115,7 +105,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 
 <a id="claim-t-54982"></a>
 - t-004
-  global_id: t-54982
   teiginys: "Karalaitei Onai (Onai Jogailaitei) buvo atskirai dovanojamas žiede įtvirtintas aštrus deimantas."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::people"
@@ -132,7 +121,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 
 <a id="claim-t-54983"></a>
 - t-005
-  global_id: t-54983
   teiginys: "Karalaitei Onai (Onai Jogailaitei) buvo dovanojami karalienės Barboros apdarai, vežimai, virtuvės rykai ir manta."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::people"
@@ -150,7 +138,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 
 <a id="claim-t-54984"></a>
 - t-006
-  global_id: t-54984
   teiginys: "Karalaitė Ona (Ona Jogailaitė) buvo prašoma prisidėti prie valios vykdymo ir Šv. Onos bažnyčios užbaigimo."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::people"
@@ -167,7 +154,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 
 <a id="claim-t-54985"></a>
 - t-007
-  global_id: t-54985
   teiginys: "Jeigu Ona Jogailaitė po testatoriaus mirties būtų nuskriausta, jai turėjo atitekti visas jo kilnojamasis ir nekilnojamasis turtas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "gap::people"
@@ -184,7 +170,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 
 <a id="claim-t-54986"></a>
 - t-008
-  global_id: t-54986
   teiginys: "Karalaitei Onai (Onai Jogailaitei) palikta spręsti dėl Šv. Onos bažnyčios užbaigimo ir laiškų sudeginimo."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::people"
@@ -201,7 +186,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 
 <a id="claim-t-82639"></a>
 - t-009
-  global_id: t-82639
   teiginys: "Karalaitė Ona Jogailaitė Lenkijoje turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::people"
@@ -245,8 +229,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54979
-    - t-54980
+    - t-001
+
 - id: c-55525
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -299,7 +283,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54981
+    - t-003
+
 - id: c-55526
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -321,7 +306,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54982
+    - t-004
+
 - id: c-55527
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -367,7 +353,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54983
+    - t-005
+
 - id: c-55528
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -391,7 +378,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54984
+    - t-006
+
 - id: c-55530
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -422,7 +410,8 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54986
+    - t-008
+
 - id: c-79102
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -463,5 +452,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54985
-    - t-82639
+    - t-002
+    - t-007
+    - t-009

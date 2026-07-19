@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-185438"></a>
 - t-001
-  global_id: t-185438
   teiginys: "1461 m. Vilniaus lietuvių seime luomai pareiškė, kad visuomenė bus rami tik karaliui asmeniškai valdant Lietuvą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ media_all_json: |-
 
 <a id="claim-t-185439"></a>
 - t-002
-  global_id: t-185439
   teiginys: "Vilniaus lietuvių seime luomai prašė paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -76,10 +74,9 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168800
-    - c-002
+
 <a id="claim-t-185440"></a>
 - t-003
-  global_id: t-185440
   teiginys: "Karalius nutarė atmesti siūlymą skirti Lietuvai vietininką, bet viešai prašė atidėti klausimą dėl karo su kryžiuočiais."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -125,8 +122,7 @@ media_all_json: |-
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185439
+
 ## Citatos
 
 - id: c-168799
@@ -149,7 +145,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185438
+    - t-001
+
 - id: c-168800
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -180,32 +177,15 @@ media_all_json: |-
     kia ieškoti tokių vaistų, kurie visiems laikams išgydy­
     tų negalę, sušaukė, susiruošęs traukti į Prūsiją, Vilniuje
     lietuvių seimą.
-  citata_rodoma: |
-    Kas be ko, jie visi neišpasakytai trokštą, kad
-    karalius asmeniškai juos valdytų, tačiau jie to nesitiki,
-    511
-
-    ## Puslapis 510
-
-    n es p u ik iai žino, jo g  len k ai nieku b ū d u  n esu tik sią, kad
-    karalius ilgam  atitrūktų nuo jų valstybės reikalų. Štai
-    to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal­
-    d a u ją  paskirti Lietuvai vietininku Simoną Olelkaitį,
-    Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais
-    Algirdo proanūkį. Karalius, g erai žinodamas, kiek rū­
-    pesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,
-    nutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko
-    gero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­
-    rai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­
-    sakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s
-    sumanymus, g an a tolim us jų reikalavimams.
+  citata_rodoma: "Kas be ko, jie visi neišpasakytai trokštą, kad\nkaralius asmeniškai juos valdytų, tačiau jie to nesitiki,\n511\n\n## Puslapis 510\n\nn es p u ik iai žino, jo g  len k ai nieku b ū d u  n esu tik sią, kad\nkaralius ilgam  atitrūktų nuo jų valstybės reikalų. Štai\nto d ėl vardan b en d ro s tėvynės gerovės jie karštai mal­\nd a u ją  paskirti Lietuvai vietininku Simoną Olelkaitį,\nSlucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais\nAlgirdo proanūkį. Karalius, g erai žinodamas, kiek rū­\npesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,\nnutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko\ngero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­\nrai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­\nsakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s\nsumanymus, g an a tolim us jų reikalavimams."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185439
+    - t-002
+
 - id: c-168801
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -234,4 +214,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185440
+    - t-003

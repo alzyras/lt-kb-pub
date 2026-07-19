@@ -38,7 +38,6 @@ Voldemarui klausimą „Karas ar taika?“ A.
 
 <a id="claim-t-26348"></a>
 - t-001
-  global_id: t-26348
   teiginys: "Ženevoje J. Pilsudskis paklausė A. Voldemaro „Karas ar taika?“, o šis atsakė, kad karo padėties tarp Lietuvos ir Lenkijos nėra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,22 +75,11 @@ Voldemarui klausimą „Karas ar taika?“ A.
     160
     išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
     nėra.
-  citata_rodoma: |
-    Lietuva ir Lenkija kaktomuša susidūrė
-    Ženevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė
-    A. Voldemarui klausimą „Karas ar taika?“ A. Voldemaras, neturėdamas
-    Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės:
-    Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir
-    pasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)
-
-    L I E T U V O S  I S T O R I J A
-    160
-    išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
-    nėra.
+  citata_rodoma: "Lietuva ir Lenkija kaktomuša susidūrė \nŽenevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė \nA. Voldemarui klausimą „Karas ar taika?“ A. Voldemaras, neturėdamas \nLietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės: \nDovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir \npasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)\n\nL I E T U V O S  I S T O R I J A\n160\nišeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos \nnėra."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26348
+    - t-001

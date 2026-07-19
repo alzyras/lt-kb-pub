@@ -41,7 +41,6 @@ Jau lietuviai ir žemaičiai tankyn vien pradėjo Padaugavį lankyti, kaipogi t�
 
 <a id="claim-t-201403"></a>
 - t-001
-  global_id: t-201403
   teiginys: "Jau lietuviai ir žemaičiai tankyn vien pradėjo Padaugavį lankyti, kaipogi tą pačią žiemą traukiant 2000 jų joties pro Rygą grobio grieti į Igumių žemę, jų karvedys Svelgotė, kunigaikštis Žagarės ir Jel gavos, apsidrąsinęs iki pat Rygos angos atjojo, ku rio."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,9 @@ Jau lietuviai ir žemaičiai tankyn vien pradėjo Padaugavį lankyti, kaipogi t�
 ## Citatos
 
 - id: c-184753
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kaupas, užgodotas nuo popiežiaus Ino­
     cento III ir apdovenotas, dabar parėjęs didžiai rū­
@@ -85,4 +85,4 @@ Jau lietuviai ir žemaičiai tankyn vien pradėjo Padaugavį lankyti, kaipogi t�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201403
+    - t-001

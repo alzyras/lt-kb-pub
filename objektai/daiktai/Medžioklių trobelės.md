@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-87086"></a>
 - t-001
-  global_id: t-87086
   teiginys: "Prie Vilnios buvusios pirmykštės gyvenvietės trobelės palei krantą tęsėsi iki Vilijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87086
+    - t-001

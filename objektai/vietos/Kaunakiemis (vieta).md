@@ -33,7 +33,6 @@ Kryžiaus bažnyčią telkėsi nedidelė gyvenvietė tarsi Kauno priemiesčio u�
 
 <a id="claim-t-201712"></a>
 - t-001
-  global_id: t-201712
   teiginys: "Kryžiaus bažnyčią telkėsi nedidelė gyvenvietė tarsi Kauno priemiesčio užuomazga, taip pat kažkur netoli buvo Kaunakiemio kaimas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Kryžiaus bažnyčią telkėsi nedidelė gyvenvietė tarsi Kauno priemiesčio u�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201712
+    - t-001

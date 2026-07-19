@@ -28,7 +28,6 @@ Užrašymų knygomis vadinamos Metrikos knygos susideda daugiausia iš centrini�
 
 <a id="claim-t-201817"></a>
 - t-001
-  global_id: t-201817
   teiginys: "Užrašymų knygomis vadinamos Metrikos knygos susideda daugiausia iš centrinių Lietuvos raštinių išleidžiamų Lietuvos valdovų skelbtų privilegijų ir kitokio pobūdžio raštų valdiniams tekstų įrašų."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -56,4 +55,4 @@ Užrašymų knygomis vadinamos Metrikos knygos susideda daugiausia iš centrini�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201817
+    - t-001

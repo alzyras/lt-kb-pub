@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-40377"></a>
 - t-001
-  global_id: t-40377
   teiginys: "Aukso ordos valdytojas Nogajus pasiuntė Mamšėjaus vadovaujamą kariuomenę prieš Traidenio Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,21 +74,14 @@ media_all_json: |-
 
     Totorių kariuomenei artėjant prie Naugarduko, Haličo-Voluinės
     kunigaikščiai nuo Bresto patraukė Gardino link.
-  citata_rodoma: |
-    1279 m. pradžioje įvykęs puolimas geičiausiai buvo inspi-
-    ruotas totorių, kai Aukso ordos valdytojas Nogajus pasiuntė savo
-    kariuomenę, vadovaujamą Mamšėjaus, įsakęs rusų kunigaikščiams
-    eiti su juo prieš Traidenio Lietuvą, siekdamas sustabdyti jos didė-
-    jančią įtaką.
-
-    Totorių kariuomenei artėjant prie Naugarduko, Haličo-Voluinės
-    kunigaikščiai nuo Bresto patraukė Gardino link.
+  citata_rodoma: "1279 m. pradžioje įvykęs puolimas geičiausiai buvo inspi-\nruotas totorių, kai Aukso ordos valdytojas Nogajus pasiuntė savo\nkariuomenę, vadovaujamą Mamšėjaus, įsakęs rusų kunigaikščiams\neiti su juo prieš Traidenio Lietuvą, siekdamas sustabdyti jos didė-\njančią įtaką.\n\nTotorių kariuomenei artėjant prie Naugarduko, Haličo-Voluinės\nkunigaikščiai nuo Bresto patraukė Gardino link."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40377
+    - t-001
+
 ## Ryšiai
 - Nogajus (Aukso ordos valdytojas) siuntė į [[objektai/vietos/Lietuva]]

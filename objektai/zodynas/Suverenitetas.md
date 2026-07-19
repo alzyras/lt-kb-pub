@@ -67,8 +67,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05427"></a>
-- t-001
-  global_id: t-05427
+- t-005
   teiginys: "Tarybiniai istorikai Lietuvos Tarybų respublikos suverenitetą laikė 1940 m. įvykdytu plačiųjų lietuvių tautos masių siekimu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -87,8 +86,7 @@ Nenurodyta
     - c-05558
 
 <a id="claim-t-05586"></a>
-- t-002
-  global_id: t-05586
+- t-007
   teiginys: "Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -107,8 +105,7 @@ Nenurodyta
     - c-05559
 
 <a id="claim-t-10898"></a>
-- t-003
-  global_id: t-10898
+- t-009
   teiginys: "Suverenitetas reiškia Lietuvos valdžią ir teisinę viršenybę Klaipėdos krašte."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -126,8 +123,7 @@ Nenurodyta
     - c-00297
 
 <a id="claim-t-10899"></a>
-- t-004
-  global_id: t-10899
+- t-010
   teiginys: "1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -146,8 +142,7 @@ Nenurodyta
     - c-00298
 
 <a id="claim-t-10900"></a>
-- t-005
-  global_id: t-10900
+- t-011
   teiginys: "Suvereniteto sąvoka taikoma ir Lietuvos teisėms į Vilniaus sritį."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -194,17 +189,15 @@ Nenurodyta
     nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
     santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
     atsiskaitymus ir paties statuto keitimo procedūrą.
-  citata_rodoma: |
-    Pirmoji — pagrindinė konvencija perduoda Lietuvai suvere-
-    nitetą Klaipėdos krašte, uždeda pareigą atlyginti okupacijos išlaidas
-    ir dalį reparacijų, nustato optacijos sąlygas, atleidžia klaipėdiečius
+  citata_rodoma: "Pirmoji — pagrindinė konvencija perduoda Lietuvai suvere-\nnitetą Klaipėdos krašte, uždeda pareigą atlyginti okupacijos išlaidas\nir dalį reparacijų, nustato optacijos sąlygas, atleidžia klaipėdiečius"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10898
+    - t-009
+
 - id: c-00298
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -220,17 +213,15 @@ Nenurodyta
     šalys pasižadėjo visose aplinkybėse gerbti viena antros su-
     verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
     susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų.
-  citata_rodoma: |
-    šalys pasižadėjo visose aplinkybėse gerbti viena antros su-
-    verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
-    susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų.
+  citata_rodoma: "šalys pasižadėjo visose aplinkybėse gerbti viena antros su-\nverenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat\nsusilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10899
+    - t-010
+
 - id: c-00299
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -248,19 +239,15 @@ Nenurodyta
     somą, ji nekeičia savo nusistatymo dėl teritorialinio suvereniteto
     Vilniaus srity, kuri buvo pripažinta Lietuvai 1920 metų liepos
     12 dienos sutartim.
-  citata_rodoma: |
-    vyriausybė pareiškė atskiram laiške, kad, vadovaudamasi savo
-    simpatijomis ir nuolatiniu noru matyti lietuvių tautą nepriklau-
-    somą, ji nekeičia savo nusistatymo dėl teritorialinio suvereniteto
-    Vilniaus srity, kuri buvo pripažinta Lietuvai 1920 metų liepos
-    12 dienos sutartim.
+  citata_rodoma: "vyriausybė pareiškė atskiram laiške, kad, vadovaudamasi savo\nsimpatijomis ir nuolatiniu noru matyti lietuvių tautą nepriklau-\nsomą, ji nekeičia savo nusistatymo dėl teritorialinio suvereniteto\nVilniaus srity, kuri buvo pripažinta Lietuvai 1920 metų liepos\n12 dienos sutartim."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10900
+    - t-011
+
 - id: c-05558
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -276,17 +263,15 @@ Nenurodyta
     Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių
     tautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­
     žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.
-  citata_rodoma: |
-    Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių
-    tautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­
-    žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.
+  citata_rodoma: "Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių\ntautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­\nžuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05427
+    - t-005
+
 - id: c-05559
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -298,17 +283,11 @@ Nenurodyta
     būti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri­
     namas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo
     žinios, patarimo ir valios nepradėti karo.
-  citata_rodoma: |
-    Kitu aktu buvo daroma savotiška karinė sąjunga. Jogaila
-    ordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal-
-    binė kariuomenė, iki Vilniaus atvykusi su savo maistu, toliau turėjo
-    būti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri-
-    namas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo
-    žinios, patarimo ir valios nepradėti karo.
+  citata_rodoma: "Kitu aktu buvo daroma savotiška karinė sąjunga. Jogaila\nordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal-\nbinė kariuomenė, iki Vilniaus atvykusi su savo maistu, toliau turėjo\nbūti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri-\nnamas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo\nžinios, patarimo ir valios nepradėti karo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05586
+    - t-007

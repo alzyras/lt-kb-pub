@@ -39,7 +39,6 @@ Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo rom�
 
 <a id="claim-t-191401"></a>
 - t-001
-  global_id: t-191401
   teiginys: "Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo romėnų valdose sulaikė puolimą ir sutriuškino herulus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo rom�
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174283
-    - c-001
 - susijęs iš [[objektai/asmenys/Malabatas.md#claim-t-191293|Malabatas]]: Pasak Teodoro Narbuto, Malabatas tapo imperijos piliečiu ir netrukus iš imperatoriaus gavo Romos konsulo titulą.
 ## Reikšmingi paminėjimai
 - c-001
@@ -84,8 +82,7 @@ Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo rom�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191401
+
 ## Citatos
 
 - id: c-174283
@@ -103,22 +100,11 @@ Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo rom�
     pęs imperijos piliečiu, Malabatas gavo teisę užimti joje
     aukščiausias pareigas, nes netrukus imperatorius suteikė
     jam Romos konsulo titulą.
-  citata_rodoma: |
-    290
-
-    ## Puslapis 301
-
-    vaujami, 267 metais* užpuolė romėnų valdas. Iš pra­
-    džių jų ginklai įvarė gerokai baimės, bet imperatoriaus
-    sūnus Galėnas sulaikė puolimą ir sutriuškino herulus. Ta­
-    čiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai­
-    kiją, išgriovė Čižiką ir priėjo net iki Atėnų, galop tapo
-    toks pavojingas, jog teko, su, juo sudaryti sąjungą ir nu­
-    sipirkti taiką, paaukojus kažkokį pajūrio kraštą.
+  citata_rodoma: "290\n\n## Puslapis 301\n\nvaujami, 267 metais* užpuolė romėnų valdas. Iš pra­\ndžių jų ginklai įvarė gerokai baimės, bet imperatoriaus\nsūnus Galėnas sulaikė puolimą ir sutriuškino herulus. Ta­\nčiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai­\nkiją, išgriovė Čižiką ir priėjo net iki Atėnų, galop tapo\ntoks pavojingas, jog teko, su, juo sudaryti sąjungą ir nu­\nsipirkti taiką, paaukojus kažkokį pajūrio kraštą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191401
+    - t-001

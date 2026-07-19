@@ -8,12 +8,12 @@ datos:
   - '1537 m.'
 date_start: '1509'
 date_end: '1537'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ Tai parapinės bažnyčios mokykla, su ja sietinas 1537 m. Kaune žinomas Jonas 
 
 <a id="claim-t-202105"></a>
 - t-001
-  global_id: t-202105
   teiginys: "Tai parapinės bažnyčios mokykla, su ja sietinas 1537 m. Kaune žinomas Jonas Paulavičius (Joannes Pawlowycz baccalaurus arcium altarista)."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Tai parapinės bažnyčios mokykla, su ja sietinas 1537 m. Kaune žinomas Jonas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202105
+    - t-001

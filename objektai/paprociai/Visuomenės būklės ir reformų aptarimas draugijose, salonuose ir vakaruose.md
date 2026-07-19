@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-55168"></a>
 - t-001
-  global_id: t-55168
   teiginys: "Filantropinių organizacijų ir susivienijimų nariai aptardavo visuomenės būklę ir tardavosi dėl konkrečių bei numatomų tikslų."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-78413
 
 <a id="claim-t-81871"></a>
-- t-002
-  global_id: t-81871
+- t-003
   teiginys: "Vilniuje legalios filantropinės organizacijos ir susivienijimai aptardavo visuomenės būklę ir reformų tikslus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,8 +86,7 @@ Nenurodyta
     - c-78413
 
 <a id="claim-t-81872"></a>
-- t-003
-  global_id: t-81872
+- t-002
   teiginys: "Po Napoleono sutriuškinimo Rusijoje salonuose, vakaruose ir draugijose atvirai aptarinėtos socialinės, politinės problemos, valdžios reformavimo ir baudžiavos paveldo klausimai."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -122,7 +119,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81872
+    - t-002
+
 - id: c-78413
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -146,5 +144,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55168
-    - t-81871
+    - t-001
+    - t-003

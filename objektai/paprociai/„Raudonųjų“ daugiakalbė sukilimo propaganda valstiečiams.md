@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54379"></a>
-- t-001
-  global_id: t-54379
+- t-002
   teiginys: "Lenkijos sukilėlių vadovybė, bijodama Lietuvos „raudonųjų“ radikalumo, sukilimo Lietuvoje vadovavimą pavedė „baltiesiems“."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-55228
 
 <a id="claim-t-193580"></a>
-- t-002
-  global_id: t-193580
+- t-003
   teiginys: "„Raudonieji“ savo propagandoje ne tik lenkų, bet ir lietuvių bei baltarusių kalbomis žadėjo valstiečiams laisvę ir nuosavybės teisę į visą jų dirbamą žemę be jokių išpirkų."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -94,20 +92,15 @@ Nenurodyta
     buvusios LDK teritorijoje. Baimindamasi Lietuvos „raudonųjų“ radika-
     lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
     „baltiesiems“.
-  citata_rodoma: |
-    Pogrindyje susikūrusi Lenkijos laikinoji tauti-
-    nė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią. Vasario 1-ąją
-    atsišaukimais lenkų ir lietuvių kalbomis sukilimo pradžia paskelbta ir
-    buvusios LDK teritorijoje. Baimindamasi Lietuvos „raudonųjų“ radika-
-    lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
-    „baltiesiems“.
+  citata_rodoma: "Pogrindyje susikūrusi Lenkijos laikinoji tauti-\nnė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią. Vasario 1-ąją \natsišaukimais lenkų ir lietuvių kalbomis sukilimo pradžia paskelbta ir \nbuvusios LDK teritorijoje. Baimindamasi Lietuvos „raudonųjų“ radika-\nlumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė \n„baltiesiems“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54379
+    - t-002
+
 - id: c-176255
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -128,4 +121,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193580
+    - t-003

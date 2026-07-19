@@ -31,7 +31,6 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
 
 <a id="claim-t-192817"></a>
 - t-001
-  global_id: t-192817
   teiginys: "Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano upės, įtekančios į Šiaurės jūrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,10 +48,9 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175587
-    - c-001
+
 <a id="claim-t-192818"></a>
 - t-002
-  global_id: t-192818
   teiginys: "Narbutas cituoja pasakojimą, kuriame abejojama Eridano upe, įtekančia į Šiaurės jūrą ir siejama su gintaru."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -103,8 +101,7 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192817
+
 ## Citatos
 
 - id: c-175587
@@ -128,23 +125,15 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
     vo nukeliavęs ne toliau kaip iki dabartinio Kijevo. Galop
     jis taip baigia savo pasakojimą: „Apie toliausias Europos
     vietoves neturiu 'ką pasakyti.
-  citata_rodoma: |
-    Bet turbūt
-    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
-    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
-    Keliautojas tik sužinojo, kad jis renkamas prie Eridano
-    upės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­
-    gi kalba apie gintarą, randamą ten, kur Aldeskos upė
-    įteka į Šiaurės jūrą3. Kai kurie senovės tyrinėtojai šią upę
-    laiko pasakų išmone, tačiau mes, spręsdami iš senovės
-    1 Lib.
+  citata_rodoma: "Bet turbūt\ndėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei\nvietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.\nKeliautojas tik sužinojo, kad jis renkamas prie Eridano\nupės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­\ngi kalba apie gintarą, randamą ten, kur Aldeskos upė\nįteka į Šiaurės jūrą3. Kai kurie senovės tyrinėtojai šią upę\nlaiko pasakų išmone, tačiau mes, spręsdami iš senovės\n1 Lib."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192817
+    - t-001
+
 - id: c-175588
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -163,4 +152,4 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192818
+    - t-002

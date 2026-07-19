@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-189731"></a>
 - t-001
-  global_id: t-189731
   teiginys: "Narbutas Miecioniką apibūdino kaip senovės lietuvių gėrimą, kurį ypač gėrė kunigai, moterys ir ligoniai."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,7 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172614
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Miecioniką apibūdino kaip senovės lietuvių gėrimą, kurį ypač gėrė kunigai, moterys ir ligoniai.'
@@ -84,8 +83,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189731
+
 ## Citatos
 
 - id: c-172614
@@ -100,20 +98,11 @@ Nenurodyta
     ną nuo senų senovės pastebime pietų tautose. Iki mūsų dienų
     apie tai Lietuvoje išliko padavimas.
     Šio papročio liekanas matome kaimiečių namų šventėse".
-  citata_rodoma: |
-    Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė
-    kunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas
-    5 Senas lietuviškų dainų vertimų rankraštis.
-    6 Czacki. O prawach. -  T. I. -  S. 275.
-    309
-
-    ## Puslapis 309
-
-    nuo žodžio Mieciones, kruopos7.
+  citata_rodoma: "Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė\nkunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas\n5 Senas lietuviškų dainų vertimų rankraštis.\n6 Czacki. O prawach. -  T. I. -  S. 275.\n309\n\n## Puslapis 309\n\nnuo žodžio Mieciones, kruopos7."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189731
+    - t-001

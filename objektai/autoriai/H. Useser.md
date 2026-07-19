@@ -38,7 +38,6 @@ Useser, H.: Götternamen, (cap. 7 : Solmseh, F.
 
 <a id="claim-t-30632"></a>
 - t-001
-  global_id: t-30632
   teiginys: "H. Useseris nurodytas kaip veikalo „Götternamen“ autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,13 +64,11 @@ Useser, H.: Götternamen, (cap. 7 : Solmseh, F.
     žiais),_ AkMD, t. 49, 1974, 71-89 p. — (”) _Laidosena Lietuvoje XIV-XVII
     amžiais,_ AkMD, t. 22, 1966, 105-119 p.—Useser, H.: _Götternamen,_
     (cap. 7 : Solmseh, F. : _Litauische Götternamen,_ Bonn 1896).
-  citata_rodoma: |
-    —Useser, H.: _Götternamen,_
-    (cap. 7 : Solmseh, F. : _Litauische Götternamen,_ Bonn 1896).
+  citata_rodoma: "—Useser, H.: _Götternamen,_\n(cap. 7 : Solmseh, F. : _Litauische Götternamen,_ Bonn 1896)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30632
+    - t-001

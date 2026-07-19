@@ -38,7 +38,6 @@ Kliausis, lg.
 
 <a id="claim-t-30758"></a>
 - t-001
-  global_id: t-30758
   teiginys: "Ig. Kliausis 1929 m. Grace parengė disertaciją „Die Kirchenpolitik in Litauen unter Jogaila und Vytautas (1377-1421)“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,15 +67,11 @@ Kliausis, lg.
     R. : Medininkų diecezijos įsteigimus ir aprūpinimas, LE, t. 18, 93-95 p.
     — Nieborowski, P. : Der deutsche Orden und Polen in der Zeit des
     grössten Konfliktes , Breslau 1 21924.
-  citata_rodoma: |
-    —
-    Kliausis, lg. : Die Kircheupolitik in Litauen unter Jogaila und Vytautas
-    ( 1377-1421 ), Diss. Graz 1929, mašinr. VII + 117 p.). — Krasauskas,
-    R. : Medininkų diecezijos įsteigimus ir aprūpinimas, LE, t. 18, 93-95 p.
+  citata_rodoma: "—\nKliausis, lg. : Die Kircheupolitik in Litauen unter Jogaila und Vytautas\n( 1377-1421 ), Diss. Graz 1929, mašinr. VII + 117 p.). — Krasauskas,\nR. : Medininkų diecezijos įsteigimus ir aprūpinimas, LE, t. 18, 93-95 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30758
+    - t-001

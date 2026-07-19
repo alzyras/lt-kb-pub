@@ -37,7 +37,6 @@ PRADZIOS KARO LAIVAI IR BRANDERIAI“, Andžej Geglis, dail.
 
 <a id="claim-t-39970"></a>
 - t-001
-  global_id: t-39970
   teiginys: "Andžejus Geglis sukūrė iliustraciją „XVII a. pradžios karo laivai ir branderiai“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ PRADZIOS KARO LAIVAI IR BRANDERIAI“, Andžej Geglis, dail.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39970
+    - t-001

@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-28929"></a>
 - t-001
-  global_id: t-28929
   teiginys: "Nuo Astravo taikos metų Vytautas ir Jogaila, savo tėvų pavyzdžiu, per 36 metus bendrai veikė (iki Lucko suvažiavimo 1429)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,6 +74,7 @@ Nenurodyta
   pagrindžia:
     - c-28833
     - c-167719
+
 ## Citatos
 
 - id: c-28833
@@ -95,7 +95,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28929
+    - t-001
+
 - id: c-167719
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -112,3 +113,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

@@ -32,7 +32,6 @@ Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai pri
 
 <a id="claim-t-86594"></a>
 - t-001
-  global_id: t-86594
   teiginys: "Šv. Dvasios vienuolyno vyresnysis ir broliai prisiėmė panaikintą prieglaudos klebono titulą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai pri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86594
+    - t-001

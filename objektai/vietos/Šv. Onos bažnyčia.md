@@ -31,7 +31,6 @@ Onos bažnyčios atsiradimo žr.
 
 <a id="claim-t-86287"></a>
 - t-001
-  global_id: t-86287
   teiginys: "Balińskis nurodė, kad jo prielaidos dėl Šv. Onos bažnyčios atsiradimo pateiktos 268 puslapyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,14 +68,11 @@ Onos bažnyčios atsiradimo žr.
     žinoma. Apie mūsų prielaidas dėl
     Šv. Onos bažnyčios atsiradimo žr.
     268 p.
-  citata_rodoma: |
-    Apie mūsų prielaidas dėl
-    Šv. Onos bažnyčios atsiradimo žr.
-    268 p.
+  citata_rodoma: "Apie mūsų prielaidas dėl \nŠv. Onos bažnyčios atsiradimo žr. \n268 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86287
+    - t-001

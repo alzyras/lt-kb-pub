@@ -31,7 +31,6 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
 
 <a id="claim-t-86550"></a>
 - t-001
-  global_id: t-86550
   teiginys: "Vilniaus vyskupas Povilas su sufraganu Kiprijonu ir kleru užkirto karaliui kelią ir paskatino jį pasukti į katalikų katedrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
 
 <a id="claim-t-86551"></a>
 - t-002
-  global_id: t-86551
   teiginys: "Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,8 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86550
+    - t-001
+
 - id: c-82530
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -109,4 +108,4 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86551
+    - t-002

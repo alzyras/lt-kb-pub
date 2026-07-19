@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-193037"></a>
 - t-001
-  global_id: t-193037
   teiginys: "Narbutas rašo, kad Pabaltijo slavai garbino Kurchą, kurį medaliono aprašymas vadino derliaus, vaisių ir daržininkystės dievuku."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175807
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Pabaltijo slavai garbino Kurchą, kurį medaliono aprašymas vadino derliaus, vaisių ir daržininkystės dievuku.'
@@ -97,8 +96,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193037
+
 ## Citatos
 
 - id: c-175807
@@ -116,27 +114,11 @@ Nenurodyta
     (skaityti atvirkščiai) •— PYLL—WIT. Jis yra pono Tomseno, Ka­
     rališkojo Danijos numizmatikos kabineto direktoriaus, paskelbtoje
     lentelėje (Nr. 1.
-  citata_rodoma: |
-    92
-    92 /Ten pat/
-    Pabaltijo
-    slavai
-    taip
-    pat
-    garbino
-    Kurchą.
-    Ponas Tadas Vo­
-    lianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­
-    rašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1
-    lenkiška linija — 1/12 colio, 1 rusiška linija — 1/10 colio —
-    R. G.) ¡skersmens]. Jis skirtas Samborui, Pabaltijo slavų karaliu­
-    kui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo
-    Kurchas. Nedailus, vos galima suprasti, jog tai raitelis su sa­
-    kalu.
+  citata_rodoma: "92\n92 /Ten pat/\nPabaltijo\nslavai\ntaip\npat\ngarbino\nKurchą.\nPonas Tadas Vo­\nlianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­\nrašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1\nlenkiška linija — 1/12 colio, 1 rusiška linija — 1/10 colio —\nR. G.) ¡skersmens]. Jis skirtas Samborui, Pabaltijo slavų karaliu­\nkui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo\nKurchas. Nedailus, vos galima suprasti, jog tai raitelis su sa­\nkalu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193037
+    - t-001

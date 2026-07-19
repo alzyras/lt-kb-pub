@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-86905"></a>
 - t-001
-  global_id: t-86905
   teiginys: "1855 m., po Nikolajaus I mirties ir Rusijos pralaimėjimo Krymo kare, imperijoje prasidėjo Aleksandro II reformos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-86906"></a>
 - t-002
-  global_id: t-86906
   teiginys: "Aleksandro II atėjimas į sostą pradėjo liberalias reformas ir atgaivino visuomenės siekius susigrąžinti po 1830-1831 m. sukilimo prarastus dalykus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,23 +111,15 @@ Nenurodyta
     Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
     mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
     meninis - politinis gyvenimas.
-  citata_rodoma: |
-    1855 m., po caro Nikolajaus I mirties ir
-    XII
-
-    ## Puslapis 13
-
-    Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.
-    Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
-    mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
-    meninis - politinis gyvenimas.
+  citata_rodoma: "1855 m., po caro Nikolajaus I mirties ir\nXII\n\n## Puslapis 13\n\nRusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos. \nCaras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­\nmo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­\nmeninis - politinis gyvenimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86905
+    - t-001
+
 - id: c-82885
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -144,15 +134,11 @@ Nenurodyta
     formų pradžia: atgaivino visuomenės siekimus atgauti tai, kas
     buvo prarasta po 1830-1831 m. sukilimo, o gal net iškovoti daug
     daugiau - nepriklausomybę arba bent autonomiją.
-  citata_rodoma: |
-    dešimtmetyje. Aleksandro II atėjimas į sostą buvo liberalių re­
-    formų pradžia: atgaivino visuomenės siekimus atgauti tai, kas
-    buvo prarasta po 1830-1831 m. sukilimo, o gal net iškovoti daug
-    daugiau - nepriklausomybę arba bent autonomiją.
+  citata_rodoma: "dešimtmetyje. Aleksandro II atėjimas į sostą buvo liberalių re­\nformų pradžia: atgaivino visuomenės siekimus atgauti tai, kas \nbuvo prarasta po 1830-1831 m. sukilimo, o gal net iškovoti daug \ndaugiau - nepriklausomybę arba bent autonomiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86906
+    - t-002

@@ -40,7 +40,6 @@ Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met.
 
 <a id="claim-t-35259"></a>
 - t-001
-  global_id: t-35259
   teiginys: "Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,15 +71,11 @@ Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met.
     lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­
     džiu. Tose privilegijose nustatytais dėsniais žydai gyveno Lie­
     tuvoje ilgus šimtmečius.
-  citata_rodoma: |
-    Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met. ir
-    lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­
-    džiu. Tose privilegijose nustatytais dėsniais žydai gyveno Lie­
-    tuvoje ilgus šimtmečius.
+  citata_rodoma: "Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met. ir\nlenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­\ndžiu. Tose privilegijose nustatytais dėsniais žydai gyveno Lie­\ntuvoje ilgus šimtmečius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35259
+    - t-001

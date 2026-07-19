@@ -36,7 +36,6 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
 
 <a id="claim-t-88468"></a>
 - t-001
-  global_id: t-88468
   teiginys: "1432 m. Pskovo vietininkai ir bojarinai sudarė sutartį su Švitrigaila, joje patvirtindami senovines sienas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88468
+    - t-001

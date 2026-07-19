@@ -36,8 +36,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 ## Teiginiai
 
 <a id="claim-t-86739"></a>
-- t-001
-  global_id: t-86739
+- t-002
   teiginys: "Ordino maršalo vadovaujama kryžiuočių kariauna susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - c-82719
 
 <a id="claim-t-86740"></a>
-- t-002
-  global_id: t-86740
+- t-003
   teiginys: "Moskoževskis iš tvirtovės išvarė žmones, kurie galėjo slapčia linkti į Vytauto pusę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,8 +69,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - c-82718
 
 <a id="claim-t-86741"></a>
-- t-003
-  global_id: t-86741
+- t-001
   teiginys: "1383 m. Vytautas ir jo šalininkai su kryžiuočių kariauna rugsėjo 11 d. apsupo Trakų pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,7 +114,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86740
+    - t-003
+
 - id: c-82719
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -143,7 +141,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86739
+    - t-002
+
 - id: c-82720
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -163,6 +162,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86741
+    - t-001
+
 ## Ryšiai
 - Vytauto šalininkai apgulė [[objektai/vietos/Trakai]]

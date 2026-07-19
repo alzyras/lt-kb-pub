@@ -37,7 +37,6 @@ Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo
 
 <a id="claim-t-77852"></a>
 - t-001
-  global_id: t-77852
   teiginys: "1935 m. A. Smetona privačiai apibūdino A. Hitlerį kaip „pavojingą politinį pamišėlį“, galintį dėl pseudoidėjų išnaikinti pusę Europos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77852
+    - t-001

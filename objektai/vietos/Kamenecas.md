@@ -34,7 +34,6 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
 
 <a id="claim-t-86075"></a>
 - t-001
-  global_id: t-86075
   teiginys: "Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
 
 <a id="claim-t-86076"></a>
 - t-002
-  global_id: t-86076
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,10 +66,9 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
     - c-82055
 
 <a id="claim-t-184967"></a>
-- t-003
-  global_id: t-184967
+- t-004
   teiginys: "Vytautas už keturiasdešimt tūkstančių florinų atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą ir Červonogradą."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -86,18 +83,6 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168328
-
-<a id="claim-t-187579"></a>
-- t-004
-  global_id: t-187579
-  teiginys: 'Moldavijos vaivada Steponas su turkų paša Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Lvovo ir net Tarnovo.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Patikslinta kryptis ir pašalintas negrakštus jungimas.'
-  susije_objektai: 'mentioned_place: Lvovas; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija'
-  pagrindžia:
-    - c-004
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185986|Jonušas (Mazovijos kunigaikštis)]]: Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
 - susijęs iš [[objektai/zodynas/atamanas.md#claim-t-42433|atamanas]]: Karijotaičiai susidraugavo su vietiniais atamanais ir ėmė ginti Podolės žemę bei neduoti duoklės baskakams.
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185986|Jonušas (Mazovijos kunigaikštis)]]: Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
@@ -174,11 +159,9 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
     kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187579
+  statusas: not_found
 ## Citatos
 
 - id: c-82054
@@ -216,7 +199,8 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86075
+    - t-001
+
 - id: c-82055
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -237,7 +221,8 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86076
+    - t-002
+
 - id: c-168328
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -258,27 +243,15 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
     seną, teisėtai jam priklausančią valdą. Jogaila visaip
     stengėsi susitarti su Vytautu, kad šis nesipriešintų len­
     kų įsitvirtinimui šiose žemėse.
-  citata_rodoma: |
-    Veikiau norėdamas len­
-    kus labiau palenkti į karalių, Vytautas galop sutiko nu­
-    sileisti, bet pareikalavo kaip atlyginimo keturiasdešimt
-    tūkstančių lenkų auksinų (vadinamųjų florinų). Kadan-
-    346
-
-    ## Puslapis 345
-
-    gi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas,
-    Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini­
-    gų, atidavė karalystei ir karaliui Kamenecą, Smotričių,
-    Skalą, Červonogradą. Vėliau šių valdų vietininku kara­
-    lius laikinai buvo paskyręs Spiteką.
+  citata_rodoma: "Veikiau norėdamas len­\nkus labiau palenkti į karalių, Vytautas galop sutiko nu­\nsileisti, bet pareikalavo kaip atlyginimo keturiasdešimt\ntūkstančių lenkų auksinų (vadinamųjų florinų). Kadan-\n346\n\n## Puslapis 345\n\ngi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas,\nSpitekui iš Melštino, Krokuvos vaivadai, parūpinus pini­\ngų, atidavė karalystei ir karaliui Kamenecą, Smotričių,\nSkalą, Červonogradą. Vėliau šių valdų vietininku kara­\nlius laikinai buvo paskyręs Spiteką."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184967
+    - t-004
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Karijotaičiai]]
 - Užėmė Kamenecą: [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]

@@ -31,7 +31,6 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
 
 <a id="claim-t-39347"></a>
 - t-001
-  global_id: t-39347
   teiginys: "Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
 
 <a id="claim-t-39348"></a>
 - t-002
-  global_id: t-39348
   teiginys: "Kapitoną Arkadijų Kruglovą Tigras nukovė pirmaisiais šūviais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
 
 <a id="claim-t-183730"></a>
 - t-003
-  global_id: t-183730
   teiginys: "Prie durų stovėjęs Prienų NKGB tardytojas Arkadijus Kruglovas paleido automato seriją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -98,7 +95,8 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39347
+    - t-001
+
 - id: c-41152
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -113,7 +111,8 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39348
+    - t-002
+
 - id: c-167118
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -129,4 +128,4 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183730
+    - t-003

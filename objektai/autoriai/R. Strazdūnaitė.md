@@ -35,7 +35,6 @@ Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.
 
 <a id="claim-t-30942"></a>
 - t-001
-  global_id: t-30942
   teiginys: "R. Strazdūnaitė 1959 m. paskelbė darbą „Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,14 +66,11 @@ Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.
     diferenciacija ir klasinis jos apmokslinimo pobūdis XIX a. pabaigoje_
     (Ekonomika, t. 2, 1962). 1831 m. sukilimą liečia F. Sliesoriūno
     straipsniai^117.
-  citata_rodoma: |
-    R. Strazdūnaitė:
-    _Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje_ (Ak-
-    MD, t. 6, 1959, 155-167 p. ; A.
+  citata_rodoma: "R. Strazdūnaitė:\n_Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje_ (Ak-\nMD, t. 6, 1959, 155-167 p. ; A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30942
+    - t-001

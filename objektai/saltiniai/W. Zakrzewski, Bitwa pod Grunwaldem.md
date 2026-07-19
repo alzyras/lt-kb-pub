@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-31985"></a>
 - t-001
-  global_id: t-31985
   teiginys: "W. Zakrzewskio darbas „Bitwa pod Grunwaldem“ paskelbtas „RTPNP“ 17 tome 1890 m., p. 11-28."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,19 +64,15 @@ media_all_json: |-
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    : _Die Schlacht bei Tannenberg und ihre Be­
+    — Werminghoef, A. : _Die Schlacht bei Tannenberg und ihre Be­
     deutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :
     _Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,
     St. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930.
-  citata_rodoma: |
-    : _Die Schlacht bei Tannenberg und ihre Be­
-    deutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :
-    _Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,
-    St. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930.
+  citata_rodoma: ": _Die Schlacht bei Tannenberg und ihre Be­\ndeutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :\n_Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,\nSt. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31985
+    - t-001

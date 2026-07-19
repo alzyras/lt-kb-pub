@@ -31,7 +31,6 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
 
 <a id="claim-t-193274"></a>
 - t-001
-  global_id: t-193274
   teiginys: "Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką Piną su Bugo intaku Muchavcu."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193274
+    - t-001

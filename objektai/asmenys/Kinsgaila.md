@@ -31,7 +31,6 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
 
 <a id="claim-t-30330"></a>
 - t-001
-  global_id: t-30330
   teiginys: "Kinsgaila buvo Ukmergės seniūnas ir vienas iš sąjungininkų pusės vadų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,17 +62,11 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
     Vytautą Didįjį.
     Kautynių _strategija_ taip pat nėra dar tiksliai išaiškinta ir pilnai
     įvertinta.
-  citata_rodoma: |
-    Kiti vadai buvo maršalas Čupurna,
-    per Žemaičių sukilimą pagarsėjęs Rumbaudas, Kauno seniūnas
-    Sungaila, Ukmergės — Kinsgaila ir kt. Nemažinant bendrojo vaid­
-    mens Jogailos, kuris naujoje lenkų istoriografijoje vis labiau kelia­
-    mas, tikruoju pačių kautynių vadu sąjungininkų pusėje reikia laikyti
-    Vytautą Didįjį.
+  citata_rodoma: "Kiti vadai buvo maršalas Čupurna,\nper Žemaičių sukilimą pagarsėjęs Rumbaudas, Kauno seniūnas\nSungaila, Ukmergės — Kinsgaila ir kt. Nemažinant bendrojo vaid­\nmens Jogailos, kuris naujoje lenkų istoriografijoje vis labiau kelia­\nmas, tikruoju pačių kautynių vadu sąjungininkų pusėje reikia laikyti\nVytautą Didįjį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30330
+    - t-001

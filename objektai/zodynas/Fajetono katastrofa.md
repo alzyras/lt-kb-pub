@@ -44,7 +44,6 @@ Vartojama kaip mitologinis ar analoginis žymuo geologinei hipotezei aiškinti.
 
 <a id="claim-t-192285"></a>
 - t-001
-  global_id: t-192285
   teiginys: "Narbutas Fajetono katastrofą laiko galimu prisiminimu apie nedidelės planetos arba mažesnio už Mėnulį palydovo kritimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -63,7 +62,6 @@ Vartojama kaip mitologinis ar analoginis žymuo geologinei hipotezei aiškinti.
 
 <a id="claim-t-192286"></a>
 - t-002
-  global_id: t-192286
   teiginys: "Narbutas Fajetono katastrofą sieja su galimu nedidelės planetos arba mažesnio už Mėnulį palydovo kritimu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -82,7 +80,6 @@ Vartojama kaip mitologinis ar analoginis žymuo geologinei hipotezei aiškinti.
 
 <a id="claim-t-192557"></a>
 - t-003
-  global_id: t-192557
   teiginys: "Narbutas Fajetono katastrofą laiko legendinės senovės pasakojimu, galėjusiu priminti mažo dangaus kūno kritimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -123,17 +120,13 @@ Vartojama kaip mitologinis ar analoginis žymuo geologinei hipotezei aiškinti.
     jokiems vulkaniniams fenomenams, įvyko sprogimai, ku­
     rie į didelį aukštį išmetė pirmykščių uolų mases ir nusviedė
     jas iš šiaurės į pietus.
-  citata_rodoma: |
-    Nugaliu suvokti, jog legendinėje senovėje žinoma Fa­
-    jetono katastrofa galėjo būti priminimas nukritimo kokios
-    nedidelės planetos arba dar mažesnio, nepalyginti mažes­
-    nio už Mėnulį palydovo.
+  citata_rodoma: "Nugaliu suvokti, jog legendinėje senovėje žinoma Fa­\njetono katastrofa galėjo būti priminimas nukritimo kokios\nnedidelės planetos arba dar mažesnio, nepalyginti mažes­\nnio už Mėnulį palydovo."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192285
-    - t-192286
-    - t-192557
+    - t-001
+    - t-002
+    - t-003

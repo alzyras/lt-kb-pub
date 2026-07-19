@@ -31,7 +31,6 @@ Kaime susiklostė sudėtinga gyventojų socialinė struktūra: žemdirbiai, įk�
 
 <a id="claim-t-22024"></a>
 - t-001
-  global_id: t-22024
   teiginys: "Stambųjį prekinį ūkį siekė plėtoti žemę atgavę žemdirbiai, papildomai nuomoję ar pirkę kitų paveldėtojų atgautas žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,12 +65,11 @@ Kaime susiklostė sudėtinga gyventojų socialinė struktūra: žemdirbiai, įk�
     plėtoti stambųjį prekinį ūkį; buvę žemės ūkio įmonių darbininkai ir tar-
     nautojai, įsikūrę naujose buvusių ūkių gyvenvietėse ir neturintys toje vie-
     tovėje teisės į žemės nuosavybę.
-  citata_rodoma: |
-    Kaime susiklostė sudėtinga gyventojų socialinė struktūra: žemdirbiai,
+  citata_rodoma: "Kaime susiklostė sudėtinga gyventojų socialinė struktūra: žemdirbiai,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22024
+    - t-001

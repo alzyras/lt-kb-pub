@@ -40,7 +40,6 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
 
 <a id="claim-t-19193"></a>
 - t-001
-  global_id: t-19193
   teiginys: "Petras Kubiliūnas 1934 m. vadovavo dalinių išvedimui į Kauno gatves, laikytam pavojingiausiu voldemarininkų pučo bandymu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,12 +77,11 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
     ninkai vis bandė pučų keliu grąžinti į valdžią A. Voldemarą, o 1934 m. gen.
     Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pa-
     vojingiausias.
-  citata_rodoma: |
-    ninkai vis bandė pučų keliu grąžinti į valdžią A. Voldemarą, o 1934 m. gen.
+  citata_rodoma: "ninkai vis bandė pučų keliu grąžinti į valdžią A. Voldemarą, o 1934 m. gen."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19193
+    - t-001

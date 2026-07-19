@@ -30,7 +30,6 @@ Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip
 
 <a id="claim-t-190076"></a>
 - t-001
-  global_id: t-190076
   teiginys: "Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje prie Nemuno."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip
 
 <a id="claim-t-197432"></a>
 - t-002
-  global_id: t-197432
   teiginys: "Lietuvoje gyveno panašiai besivadinanti bajorų giminė; turim rankoje laišką, rašytą pereito amžiaus viduryje, su Kazimiero Nemunavičiaus (Niemonowicz) parašu."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,8 @@ Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190076
+    - t-001
+
 - id: c-179183
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -105,4 +104,4 @@ Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197432
+    - t-002

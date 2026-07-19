@@ -27,27 +27,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai, lamatiečiai, dar toliau į šiaurę, Klaipėdos apylinkėse (dab.
 
-## Teiginiai
-
-<a id="claim-t-59036"></a>
-- t-001
-  global_id: t-59036
-  teiginys: "Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Minija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lamatiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Minija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lamatiečių gyvenamoji vieta tiesiogiai nurodyta Minijos žemupyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lamatiečiai gyveno Minija (0.90); Lamatiečiai gyveno Nemunas (0.78)"
-  pagrindžia:
-    - c-59668
-    - c-001
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89215|Skalviai]]: Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais.'
@@ -63,8 +42,7 @@ Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gy
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59036
+
 ## Citatos
 
 - id: c-59668
@@ -80,18 +58,34 @@ Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gy
     108), Prussia (1212 m..— ten pat, Nr. 6, p. 5; Nr. 7, p. 6; 1224 m.— Nr. 52, p. 38), Prutia
     (1216 m.—ten pat, Nr. 9, p. 7; 1222 m.— Nr. 41, p. 28), Prusia (1223 m,— ten pat, Nr.
     46, p. 34; 1230 m.— Nr. 75, p. 56), Prucia (1228 m.— ten pat, Nr. 67, p. 49—50).
-  citata_rodoma: |
-    Į šiaurę nuo Nemuno žiočių, Minijos
-    žemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.
-    Lietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,
-    p. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,
-    žemėl.).
+  citata_rodoma: "Į šiaurę nuo Nemuno žiočių, Minijos\nžemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.\nLietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,\np. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,\nžemėl.)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59036
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-59036"></a>
+- t-001
+  teiginys: "Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Minija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lamatiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Minija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lamatiečių gyvenamoji vieta tiesiogiai nurodyta Minijos žemupyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lamatiečiai gyveno Minija (0.90); Lamatiečiai gyveno Nemunas (0.78)"
+  pagrindžia:
+    - c-59668
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89215|Skalviai]]: Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.
+
 ## Ryšiai
 - Lamatiečiai gyveno [[objektai/vietos/Minija]]

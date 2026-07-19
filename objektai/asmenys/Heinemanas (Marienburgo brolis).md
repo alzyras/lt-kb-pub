@@ -39,7 +39,6 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
 
 <a id="claim-t-60303"></a>
 - t-001
-  global_id: t-60303
   teiginys: "Marienburgo pilyje gyvenęs brolis Heinemanas užsikrėtė raupsais ir mirė tą pačią dieną, kai sužinojo apie brolio Fridricho mirtį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
 
 <a id="claim-t-197087"></a>
 - t-002
-  global_id: t-197087
   teiginys: "Apie brolio Gotfrido, didžiojo magistro, atvykimą, apie tai, kaip jis atsisa kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno 1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją atvyko į Livoniją, palikęs."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -92,6 +90,7 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-60935
@@ -110,24 +109,15 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
     sugalvojo vėl jas eiti. Jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas
     didžiuoju magistru brolis Zigfridas iš Foichtvangeno, kuris ir iškeliavo į Veneciją, į
     vyriausiąją [Ordino] būstinę.
-  citata_rodoma: |
-    Vieni kelyje prigėrė, kiti išmirė badu, o
-    treti pasikorė iš sielvarto.
-    283 (276). Apie brolio Gotfrido, didžiojo magistro, atvykimą,   apie tai, kaip jis atsisa­
-    kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno
-    1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją
-    atvyko į Livoniją, palikęs ten brolius šiai žemei ginti, kitais metais sugrįžo į Prūsiją
-    ir Elbingo kapituloje atsisakė savo pareigų, nors, sugrįžęs į Vokietiją, lengvapėdiškai
-    sugalvojo vėl jas eiti. Jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas
-    didžiuoju magistru brolis Zigfridas iš Foichtvangeno, kuris ir iškeliavo į Veneciją, į
-    vyriausiąją [Ordino] būstinę.
+  citata_rodoma: "Vieni kelyje prigėrė, kiti išmirė badu, o \ntreti pasikorė iš sielvarto.\n283 (276). Apie brolio Gotfrido, didžiojo magistro, atvykimą,   apie tai, kaip jis atsisa­\nkė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno\n1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją \natvyko į Livoniją, palikęs ten brolius šiai žemei ginti, kitais metais sugrįžo į Prūsiją \nir Elbingo kapituloje atsisakė savo pareigų, nors, sugrįžęs į Vokietiją, lengvapėdiškai \nsugalvojo vėl jas eiti. Jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas \ndidžiuoju magistru brolis Zigfridas iš Foichtvangeno, kuris ir iškeliavo į Veneciją, į \nvyriausiąją [Ordino] būstinę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60303
-    - t-197087
+    - t-001
+    - t-002
+
 ## Ryšiai
 - Heinemanas (Marienburgo brolis) gyveno [[objektai/vietos/Marienburgas]]

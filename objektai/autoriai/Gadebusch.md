@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-88056"></a>
 - t-001
-  global_id: t-88056
   teiginys: "Gadebuscho „Livl. Jahrb.“ nurodytas kaip šaltinis, papildantis žinias apie nepaprastą šaltį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88056
+    - t-001

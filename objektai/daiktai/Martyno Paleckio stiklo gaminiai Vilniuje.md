@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-55041"></a>
 - t-001
-  global_id: t-55041
   teiginys: "Paleckio privilegija steigti stiklo liejyklą buvo duota 1547 m. gegužės 22 d. ir turėjo prikabintą Lietuvos Didžiosios Kunigaikštystės antspaudą."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -79,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-55042"></a>
 - t-002
-  global_id: t-55042
   teiginys: "Martynui Paleckiui ir jo palikuonims suteikta teisė supirkti į Vilnių iš Lenkijos vežamą stiklą, išskyrus Venecijos stiklą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -96,7 +94,6 @@ Nenurodyta
 
 <a id="claim-t-55043"></a>
 - t-003
-  global_id: t-55043
   teiginys: "Privilegijoje nustatytos didelių ir mažų Kurovo stiklinių kainos ir nurodyta langų stiklą pardavinėti žmonių neapsunkinant."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -113,7 +110,6 @@ Nenurodyta
 
 <a id="claim-t-55044"></a>
 - t-004
-  global_id: t-55044
   teiginys: "Už karaliaus dovanotą žemę Martynas Paleckis kasmet turėjo pristatyti į karališkuosius Vilniaus rūmus po 200 didžiųjų ir mažesniųjų Kurovo stiklinių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -130,7 +126,6 @@ Nenurodyta
 
 <a id="claim-t-81855"></a>
 - t-005
-  global_id: t-81855
   teiginys: "Martynas Paleckis Vilniuje gavo žemės sklypą, leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -172,7 +167,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55041
+    - t-001
+
 - id: c-55385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -204,9 +200,10 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55042
-    - t-55043
-    - t-55044
+    - t-002
+    - t-003
+    - t-004
+
 - id: c-78397
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -233,4 +230,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81855
+    - t-005

@@ -31,7 +31,6 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
 
 <a id="claim-t-39668"></a>
 - t-001
-  global_id: t-39668
   teiginys: "Jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais kelias valandas neleido lenkams prisiartinti prie traukinio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
 
 <a id="claim-t-183766"></a>
 - t-002
-  global_id: t-183766
   teiginys: "Jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais buvo paliktas pridengti besitraukiančios traukinio įgulos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,8 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39668
+    - t-001
+
 - id: c-167154
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -101,4 +100,4 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183766
+    - t-002

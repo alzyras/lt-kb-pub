@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75137"></a>
-- t-001
-  global_id: t-75137
+- t-003
   teiginys: "Okupantų paskirto Liaudies seimo nutarimai buvo neteisėti, nes jis neturėjo įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-75138"></a>
 - t-002
-  global_id: t-75138
   teiginys: "Lietuvos pasiuntiniams užsienyje paskelbus protestus prieš okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas turtas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -88,8 +86,7 @@ Nenurodyta
     - c-23026
 
 <a id="claim-t-75139"></a>
-- t-003
-  global_id: t-75139
+- t-001
   teiginys: "J. Paleckio vadovaujama 20 asmenų delegacija 1940 m. rugpjūčio 3 d. Maskvoje pasiprašė neva savanoriškai įeiti į SSRS sudėtį."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -108,7 +105,6 @@ Nenurodyta
 
 <a id="claim-t-183238"></a>
 - t-004
-  global_id: t-183238
   teiginys: "J. Paleckio vadovaujama 20 asmenų delegacija 1940 m. rugpjūčio 3 d. Maskvoje paprašė Lietuvą įtraukti į SSRS sudėtį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -131,7 +127,6 @@ Nenurodyta
 
 <a id="claim-t-193571"></a>
 - t-005
-  global_id: t-193571
   teiginys: "Kadangi okupantų paskirtas Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo neteisėti."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -154,19 +149,16 @@ Nenurodyta
     ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
     prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
     Rinkimų į Liaudies seimą agitacinis plakatas.
-  citata_rodoma: |
-    Seime išrinkta 20 asmenų delegaci-
-    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
-    prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
-    Rinkimų į Liaudies seimą agitacinis plakatas.
+  citata_rodoma: "Seime išrinkta 20 asmenų delegaci-\nja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-\nprašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,\nRinkimų į Liaudies seimą agitacinis plakatas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75139
-    - t-183238
+    - t-001
+    - t-004
+
 - id: c-23026
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -178,16 +170,13 @@ Nenurodyta
     teisėti. Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
     prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas
     jų turtas.
-  citata_rodoma: |
-    Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
-    prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas
-    jų turtas.
+  citata_rodoma: "Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus\nprieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas\njų turtas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75137
-    - t-75138
-    - t-193571
+    - t-003
+    - t-002
+    - t-005

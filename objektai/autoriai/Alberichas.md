@@ -39,7 +39,6 @@ Alberichas 1228 m. kronikoje, Narbuto perteikimu, tarp įgytinų pagonių provin
 
 <a id="claim-t-191666"></a>
 - t-001
-  global_id: t-191666
   teiginys: "Alberichas 1228 m. kronikoje, Narbuto perteikimu, tarp įgytinų pagonių provincijų minėjo Prūsiją, Kuršą, Lietuvą, Vitlandiją ir Sembą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Alberichas 1228 m. kronikoje, Narbuto perteikimu, tarp įgytinų pagonių provin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191666
+    - t-001

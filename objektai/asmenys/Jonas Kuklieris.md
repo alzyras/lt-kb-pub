@@ -39,7 +39,6 @@ Jono Kuklierio kūno 1920 m.
 
 <a id="claim-t-40221"></a>
 - t-001
-  global_id: t-40221
   teiginys: "Leitenantas Jonas Kuklieris žuvo mūšyje netoli Vidugirio kaimo iki 1920 m. rugsėjo 22 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,17 +69,11 @@ Jono Kuklierio kūno 1920 m.
     mūšyje netoli Vidugirio kaimo Itn. Jono Kuklierio kūno
 
     1920 m. liepa-rugsėjis AUGUSTAVO-SUVALKŲ OPERACIJA 201
-  citata_rodoma: |
-    Tuojau pasirodė ir pulko vadas pulkininkas
-
-    1920 m. rugsėjo 22 d. 6-ojo pėstininkų pulko kariai prie žuvusio
-    mūšyje netoli Vidugirio kaimo Itn. Jono Kuklierio kūno
-
-    1920 m.
+  citata_rodoma: "Tuojau pasirodė ir pulko vadas pulkininkas\n\n1920 m. rugsėjo 22 d. 6-ojo pėstininkų pulko kariai prie žuvusio\nmūšyje netoli Vidugirio kaimo Itn. Jono Kuklierio kūno\n\n1920 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40221
+    - t-001

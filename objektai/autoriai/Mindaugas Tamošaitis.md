@@ -41,8 +41,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
 ## Teiginiai
 
 <a id="claim-t-26608"></a>
-- t-001
-  global_id: t-26608
+- t-002
   teiginys: "Mindaugas Tamošaitis apibendrino įvykius nuo 1940 m. okupacijų iki Lietuvos narystės Europos Sąjungoje 2004 m."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
     - c-154574
 
 <a id="claim-t-26720"></a>
-- t-002
-  global_id: t-26720
+- t-004
   teiginys: "Bibliografijoje Tamošaitis M. kartu su Blažyte-Baužiene D. ir Truska L. siejamas su veikalu „Lietuvos Seimo istorija: XX–XXI a. pradžia“."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
     - c-154575
 
 <a id="claim-t-169891"></a>
-- t-003
-  global_id: t-169891
+- t-006
   teiginys: "2013 m. antrajame leidime Mindaugas Tamošaitis nurodytas tarp autorių teisių turėtojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -136,29 +133,15 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
     gė prof. Alfonsas Eidintas (IV šio darbo skyrius), o įvykius nuo
     1940 m. okupacijų iki 2004 m. apibendrino Lietuvos edukologijos univer-
     siteto lektorius dr. Mindaugas Tamošaitis (V ir VI skyriai).
-  citata_rodoma: |
-    Knygos parengimo koordinacinis ir redagavimo darbas pavestas šių ei-
-    lučių autoriui, autoriais pakviesti žinomi istorikai, parašę ne vieną studiją:
-    senovės lietuvių valstybės, Lietuvos Didžiosios Kunigaikštijos raidą anali-
-    zavo Vilniaus universiteto prof. Alfredas Bumblauskas (parašė I ir
-
-    11
-    N U O  R E D A K T O R I A U S
-    II skyrius, jo plunksnai priklauso įvadas ir baigiamasis skyrius „Pabaiga
-    arba išbarstyti Lietuvos veidai“), apie lietuvių gyvenimą Rusijos imperi-
-    joje 1795–1915 m. parašė Vytauto Didžiojo universiteto prof. Antanas
-    Kulakauskas (III skyrius), modernios Lietuvos valstybės atkūrimo
-    procesą, 1918–1940 m. trukusį nepriklausomybės dvidešimtmetį apžvel-
-    gė prof. Alfonsas Eidintas (IV šio darbo skyrius), o įvykius nuo
-    1940 m. okupacijų iki 2004 m. apibendrino Lietuvos edukologijos univer-
-    siteto lektorius dr. Mindaugas Tamošaitis (V ir VI skyriai).
+  citata_rodoma: "Knygos parengimo koordinacinis ir redagavimo darbas pavestas šių ei-\nlučių autoriui, autoriais pakviesti žinomi istorikai, parašę ne vieną studiją: \nsenovės lietuvių valstybės, Lietuvos Didžiosios Kunigaikštijos raidą anali-\nzavo Vilniaus universiteto prof. Alfredas Bumblauskas (parašė I ir\n\n11\nN U O  R E D A K T O R I A U S\nII skyrius, jo plunksnai priklauso įvadas ir baigiamasis skyrius „Pabaiga \narba išbarstyti Lietuvos veidai“), apie lietuvių gyvenimą Rusijos imperi-\njoje 1795–1915 m. parašė Vytauto Didžiojo universiteto prof. Antanas \nKulakauskas (III skyrius), modernios Lietuvos valstybės atkūrimo \nprocesą, 1918–1940 m. trukusį nepriklausomybės dvidešimtmetį apžvel-\ngė prof. Alfonsas Eidintas (IV šio darbo skyrius), o įvykius nuo \n1940 m. okupacijų iki 2004 m. apibendrino Lietuvos edukologijos univer-\nsiteto lektorius dr. Mindaugas Tamošaitis (V ir VI skyriai)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26608
+    - t-002
+
 - id: c-154575
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -168,15 +151,15 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
     nius, 2005.
     Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:
     XX–XXI a. pradžia. Vilnius, 2009.
-  citata_rodoma: |
-    XX–XXI a. pradžia. Vilnius, 2009.
+  citata_rodoma: "XX–XXI a. pradžia. Vilnius, 2009."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26720
+    - t-004
+
 - id: c-154576
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -211,28 +194,11 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
     Mindaugas sukuria Lietuvos valstybę. Mindaugo karūnacija 1253 metais 27;
     Gediminaičių dinastijos iškilimas 31
     PAGONIŲ VALSTYBĖ.
-  citata_rodoma: |
-    Vytautas Radžvilas
-    Dr. Inga Vinogradnaitė
-    Išleista Lietuvos Respublikos
-    užsienio reikalų ministerijos užsakymu
-    Antras leidimas
-    © Alfonsas Eidintas, 2013
-    © Alfredas Bumblauskas, 2013
-    © Antanas Kulakauskas, 2013
-    © Mindaugas Tamošaitis, 2013
-    © Lietuvos Respublikos užsienio reikalų ministerija, 2013
-
-    TURINYS
-    Santrumpos  8
-    Redaktoriaus žodis  9
-    Į v a d a s
-    LIETUVA – VIDURIO EUROPOS DALIS  12
-    Geografinis Europos centras?
+  citata_rodoma: "Vytautas Radžvilas\nDr. Inga Vinogradnaitė\nIšleista Lietuvos Respublikos \nužsienio reikalų ministerijos užsakymu\nAntras leidimas\n© Alfonsas Eidintas, 2013\n© Alfredas Bumblauskas, 2013\n© Antanas Kulakauskas, 2013\n© Mindaugas Tamošaitis, 2013\n© Lietuvos Respublikos užsienio reikalų ministerija, 2013\n\nTURINYS\nSantrumpos  8\nRedaktoriaus žodis  9\nĮ v a d a s\nLIETUVA – VIDURIO EUROPOS DALIS  12 \nGeografinis Europos centras?"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169891
+    - t-006

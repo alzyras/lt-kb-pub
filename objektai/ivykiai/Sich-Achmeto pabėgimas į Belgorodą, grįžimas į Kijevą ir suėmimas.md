@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-186795"></a>
 - t-001
-  global_id: t-186795
   teiginys: "Redakcinė pastaba nurodo, kad Sich-Achmetas 1503 m. rudenį bėgo į turkų valdomą Belgorodą tikėdamasis sultono pagalbos."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -78,10 +77,9 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Sakinys pilnas ir atitinka redakcinės pastabos informaciją."
   pagrindžia:
     - c-169985
-    - c-002
+
 <a id="claim-t-186797"></a>
-- t-003
-  global_id: t-186797
+- t-002
   teiginys: "Redakcinė pastaba nurodo, kad Sich-Achmetas į Kijevą grįžo 1503–1504 metų žiemą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -100,7 +98,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169985
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -112,10 +110,11 @@ Nenurodyta
     sius rašius Vilniuje 1503.1.9.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
+
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -126,12 +125,11 @@ Nenurodyta
     grižo 1503/1504 m. žiemą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186795
-    - t-186797
+  statusas: verified
+- t-003
+
 ## Citatos
 
 - id: c-169985
@@ -144,16 +142,12 @@ Nenurodyta
     Belgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­
     masis gauti pagalbos Iš Turkijos sultono Bajareto II-jo. ( Kijevą
     grižo 1503/1504 m. žiemą.
-  citata_rodoma: |
-    п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą
-    Belgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­
-    masis gauti pagalbos Iš T urkijos sultono Bajareto II-jo. ( Kijevą
-    grižo 1503/1504 m. žiemą.
+  citata_rodoma: "п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą \nBelgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­\nmasis gauti pagalbos Iš T urkijos sultono Bajareto II-jo. ( Kijevą \ngrižo 1503/1504 m. žiemą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186795
-    - t-186797
+    - t-001
+    - t-002

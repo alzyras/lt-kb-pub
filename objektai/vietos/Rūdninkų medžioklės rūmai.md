@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-86031"></a>
 - t-001
-  global_id: t-86031
   teiginys: "Rūdninkų medžioklės rūmai buvo mediniai, stovėjo ant aukšto mūrinio cokolio ir buvo skirti karaliams apsistoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86031
+    - t-001

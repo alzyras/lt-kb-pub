@@ -31,8 +31,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
 ## Teiginiai
 
 <a id="claim-t-40452"></a>
-- t-001
-  global_id: t-40452
+- t-002
   teiginys: "T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
     - c-44527
 
 <a id="claim-t-40453"></a>
-- t-002
-  global_id: t-40453
+- t-001
   teiginys: "J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +66,6 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
 
 <a id="claim-t-40454"></a>
 - t-003
-  global_id: t-40454
   teiginys: "Teigta, kad per mūšį nuo rotmistro T. Dambravos kirčio žuvo karaliaus žentas kunigaikštis Fridrichas Liuneburgietis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +96,8 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40453
+    - t-001
+
 - id: c-44527
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -116,19 +114,15 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
     sudavė tokį stiprų smūgį, kad švedų ka-
     valerija buvo nublokšta tiesiai ant savųjų
     pėstininkų ir juos pradėjo trypti.
-  citata_rodoma: |
-    Rotmistro
-    "T. Dambravos vadovaujama viena rei-
-    tarų vėliava prajojo Dauguvos pakrante ir
-    atsidūrė generolo E J. Mansfeldo kavale-
-    rijos dešiniajame sparne.
+  citata_rodoma: "Rotmistro\n\"T. Dambravos vadovaujama viena rei-\ntarų vėliava prajojo Dauguvos pakrante ir\natsidūrė generolo E J. Mansfeldo kavale-\nrijos dešiniajame sparne."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40452
+    - t-002
+
 - id: c-44528
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -141,16 +135,11 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
     tas kunigaikštis Fridrichas Liuneburgietis.
     Žuvo centro pėstininkams vadovavęs ge-
     nerolas Andrius Lennartssonas.
-  citata_rodoma: |
-    Teigiama, kad mūšio metu nuo rotmistro
-    T. Dambravos kirčio žuvo karaliaus žen-
-    tas kunigaikštis Fridrichas Liuneburgietis.
-    Žuvo centro pėstininkams vadovavęs ge-
-    nerolas Andrius Lennartssonas.
+  citata_rodoma: "Teigiama, kad mūšio metu nuo rotmistro\nT. Dambravos kirčio žuvo karaliaus žen-\ntas kunigaikštis Fridrichas Liuneburgietis.\nŽuvo centro pėstininkams vadovavęs ge-\nnerolas Andrius Lennartssonas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40454
+    - t-003

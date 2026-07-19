@@ -28,7 +28,6 @@ media_all_json: |-
 
 <a id="claim-t-202206"></a>
 - t-001
-  global_id: t-202206
   teiginys: "2, sudarė Darius Kuolys."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -53,4 +52,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202206
+    - t-001

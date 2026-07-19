@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-62449"></a>
 - t-001
-  global_id: t-62449
   teiginys: "1295 m. birželio 19 d. lietuviai saloje prie Ragainės pilies pagrobė brolių žirgus ir galvijus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,9 +74,8 @@ Nenurodyta
 
 <a id="claim-t-183959"></a>
 - t-002
-  global_id: t-183959
   teiginys: "1295 m. rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -98,9 +96,8 @@ Nenurodyta
 
 <a id="claim-t-194419"></a>
 - t-003
-  global_id: t-194419
   teiginys: "Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -111,7 +108,6 @@ Nenurodyta
 
 <a id="claim-t-196965"></a>
 - t-004
-  global_id: t-196965
   teiginys: "Apie vieną brolį Tais 1295 metais vienas negalės nukamuotas Velzaco pilies brolis, mirties akivaizdoje puolęs broliui kunigui Ditrichui ant krūtinės, ilgokai išbuvo ekstazėje ir pamatė daug nuostabių dalykų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -135,25 +131,14 @@ Nenurodyta
     nuostabių dalykų. Galop, atgavęs sąmonę, jis pasakė: „Kunige Ditrichai, sakykite pirma
     manęs: „Jėzau Kristau, dievo sūnau“. Po to jis tiksliai išpranašavo savo mirties dieną ir
     valandą.
-  citata_rodoma: |
-    Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
-                                     sudeginimą
-
-       Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,
-    slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus
-    ir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.
-
-
-
-
-               262 (255).
+  citata_rodoma: "Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių\n                                 sudeginimą\n\n   Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,\nslaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus\nir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.\n\n\n\n\n           262 (255)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62449
-    - t-183959
-    - t-194419
-    - t-196965
+    - t-001
+    - t-002
+    - t-003
+    - t-004

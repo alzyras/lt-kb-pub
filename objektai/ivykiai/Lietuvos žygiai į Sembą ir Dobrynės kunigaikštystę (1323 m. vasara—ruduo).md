@@ -54,10 +54,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89380"></a>
-- t-001
-  global_id: t-89380
+- t-002
   teiginys: "Lietuvos kariuomenė vasarą puolė Ordiną Semboje ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Semba: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -74,29 +73,20 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
   pagrindžia:
     - c-85335
-    - c-001
+    - c-85336
+
 <a id="claim-t-89381"></a>
-- t-002
-  global_id: t-89381
+- t-001
   teiginys: "1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę ginti Mazovijos."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Mazovija: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai pasako, kad kariuomenė gynė Mazoviją."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuvos kariuomenė gynė Mazovija (0.96); Lietuvos kariuomenė puolė Semba (0.95); Lietuvos kariuomenė surengė žygį į Dobrynė (0.90)"
   temporaliniai_duomenys: "įvykio data: 1322 m.; įvykio data: 1323 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
-    - c-85335
     - c-85336
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -114,9 +104,8 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89380
-    - t-89381
+- t-89381
+
 ## Citatos
 
 - id: c-85335
@@ -134,23 +123,15 @@ Nenurodyta
     spalio 24 d. Livonijos ordinas raginamas ją nutraukti, po to imtasi žygių, kad nutrauktų
     sutartį Rygos miestas ir t. t. Ordinas tęsė agresiją 1324 m., kovo mėn. puldamas Gardino
     apylinkes, gegužės mėn.— Gedimino pilį Žemaitijoje, metų pabaigoje, rodos, vėl Gardiną.
-  citata_rodoma: |
-    Tuo pat metu
-    „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias
-    pilis. Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį
-    patraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo
-    pusėje56.
-      Po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų  iš
-    Vokietijos, Čekijos  ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius,
-    Ariogalą, tačiau buvo atremtas prie Pieštvės pilies Dubysos ir Nemuno santakoje.
+  citata_rodoma: "Tuo pat metu\n„Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias\npilis. Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį\npatraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo\npusėje56.\n  Po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų  iš\nVokietijos, Čekijos  ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius,\nAriogalą, tačiau buvo atremtas prie Pieštvės pilies Dubysos ir Nemuno santakoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89380
-    - t-89381
+    - t-002
+
 - id: c-85336
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -173,4 +154,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89381
+    - t-002
+    - t-001

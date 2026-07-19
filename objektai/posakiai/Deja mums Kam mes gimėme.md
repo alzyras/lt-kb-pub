@@ -30,7 +30,6 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
 
 <a id="claim-t-59088"></a>
 - t-001
-  global_id: t-59088
   teiginys: "Broliai posakiu „Deja mums? Kam mes gimėme?“ apgailestavo dėl tautos ir žemės sunaikinimo bei atidavimo nedraugams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,4 +55,4 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59088
+    - t-001

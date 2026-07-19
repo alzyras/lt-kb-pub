@@ -31,7 +31,6 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
 
 <a id="claim-t-60383"></a>
 - t-001
-  global_id: t-60383
   teiginys: "Markvardas iš Revelingės su Liudviku iš Libencelės, dviem broliais ir 26 ginklanešiais užpuolė plėšikautojus ir 25 jų nukovė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,21 +64,14 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
     Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė
     viename lauke ir 25 iš jų nukovė.
     241 (234).
-  citata_rodoma: |
-    Todėl brolis Liudvikas iš Libencelės ir brolis
-    Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė
-    viename lauke ir 25 iš jų nukovė.
-
-
-
-
-                   241 (234).
+  citata_rodoma: "Todėl brolis Liudvikas iš Libencelės ir brolis\nMarkvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė\nviename lauke ir 25 iš jų nukovė.\n\n\n\n\n               241 (234)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60383
+    - t-001
+
 ## Ryšiai
 - Markvardas iš Revelingės puolė [[objektai/grupes/Lietuviai]]

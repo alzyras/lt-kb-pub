@@ -42,8 +42,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
 ## Teiginiai
 
 <a id="claim-t-176403"></a>
-- t-001
-  global_id: t-176403
+- t-005
   teiginys: "Henrikas von Plauenas po 1410 m. smūgio rengė Ordino revanšą ir rinko jėgas iš Vakarų Europos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     - c-36324
 
 <a id="claim-t-176404"></a>
-- t-002
-  global_id: t-176404
+- t-003
   teiginys: "Po Makro raporto Henrikas von Plauenas vyko pas Vaclovą, Vokietijos elektorius ir Karolį VI prašyti pagalbos prieš Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,9 +76,9 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   pagrindžia:
     - c-36323
     - c-167646
+
 <a id="claim-t-176405"></a>
-- t-003
-  global_id: t-176405
+- t-001
   teiginys: "Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -120,18 +118,15 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     ma, kad Vytautas susideda su stačiatikiais, sukelia slavų tau­
     tas, Nemuno ir Dubysos krantuose stato prieš Ordiną nukreip­
     tas pilis^1 ).
-  citata_rodoma: |
-    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
-    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
-    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
-    prašyti pagalbos prieš Vytautą. Vak.
+  citata_rodoma: "Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po\nMakro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto\nbrolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI\nprašyti pagalbos prieš Vytautą. Vak."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176404
+    - t-003
+
 - id: c-36324
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -148,19 +143,15 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     von Plauenas, kuris tada išgelbėjo Ordino galybės likučius, atsi­
     dėjęs rengėsi prie revanšo: stropiai rinko jėgas iš visos Vaka­
     rų Europos.
-  citata_rodoma: |
-    Reikia dar čia atsiminti ir tai, kad ir kryžiuo­
-    čiai negalėjo užmiršti 1410 m. smūgio ir pažeminimo. Henrikas
-    von Plauenas, kuris tada išgelbėjo Ordino galybės likučius, atsi­
-    dėjęs rengėsi prie revanšo: stropiai rinko jėgas iš visos Vaka­
-    rų Europos.
+  citata_rodoma: "Reikia dar čia atsiminti ir tai, kad ir kryžiuo­\nčiai negalėjo užmiršti 1410 m. smūgio ir pažeminimo. Henrikas\nvon Plauenas, kuris tada išgelbėjo Ordino galybės likučius, atsi­\ndėjęs rengėsi prie revanšo: stropiai rinko jėgas iš visos Vaka­\nrų Europos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176403
+    - t-005
+
 - id: c-160420
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -185,17 +176,15 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     senosios komturijos ir pilies, 50) Gnievkovos komturijos, pilies ir miesto,
     51) Heiligenbeilio miesto, 52) Braunšveigo kunigaikščio, 53—56) Livonijos
     magistro (paimtos 1431 m.).
-  citata_rodoma: |
-    47) Švitco komtūro Henriko v. Plaueno ar Mykolo
-    Kuchmeisterio (paimta ties Koronovu), 48) Tomo miesto, 49) Dancigo
-    senosios komturijos ir pilies, 50) Gnievkovos komturijos, pilies ir miesto,
+  citata_rodoma: "47) Švitco komtūro Henriko v. Plaueno ar Mykolo\nKuchmeisterio (paimta ties Koronovu), 48) Tomo miesto, 49) Dancigo\nsenosios komturijos ir pilies, 50) Gnievkovos komturijos, pilies ir miesto,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176405
+    - t-001
+
 - id: c-167646
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -215,3 +204,5 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

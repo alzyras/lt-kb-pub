@@ -32,7 +32,6 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
 
 <a id="claim-t-19942"></a>
 - t-001
-  global_id: t-19942
   teiginys: "Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmąkart paminėjo valstybės globą valstiečiams santykiuose su dvarininkais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
 
 <a id="claim-t-183172"></a>
 - t-002
-  global_id: t-183172
   teiginys: "Gegužės trečiosios konstitucija įformino miestiečių teises."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -74,15 +72,15 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
     tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart
     užsiminta ir apie tai, kad valstybė teikia globą valstiečiams jų santykiuose
     su dvarininkais.
-  citata_rodoma: |
-    tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart
+  citata_rodoma: "tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19942
+    - t-001
+
 - id: c-166559
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -100,4 +98,4 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183172
+    - t-002

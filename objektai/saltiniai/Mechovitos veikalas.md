@@ -30,7 +30,6 @@ Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, no
 
 <a id="claim-t-191796"></a>
 - t-001
-  global_id: t-191796
   teiginys: "Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, nors mini prie Drohicino dar vartotą jotvingių kalbą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,9 +50,8 @@ Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, no
 
 <a id="claim-t-191797"></a>
 - t-002
-  global_id: t-191797
   teiginys: "Teodoro Narbuto vertinimu, Mechovitos padavimų prielaida apie jotvingių dukras esą atsispindi jaunų polesiečių išvaizdoje."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -69,7 +67,7 @@ Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, no
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174679
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoro Narbuto vertinimu, Mechovitos padavimų prielaida apie jotvingių dukras esą atsispindi jaunų polesiečių išvaizdoje.'
@@ -91,8 +89,7 @@ Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, no
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191797
+
 ## Citatos
 
 - id: c-174678
@@ -111,7 +108,8 @@ Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, no
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191796
+    - t-001
+
 - id: c-174679
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -130,22 +128,11 @@ Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, no
     padės Siaurės Europos istorijai ir patyrinės tuos žmones,
     neabejotinai atvestus į tuos kraštus kokio nors rusų vado,
     kurio pergalingi ginklai blizgėjo Bugo pakrantėse.
-  citata_rodoma: |
-    Nei
-    inazovietėms, nei lenkėms, nei rusėms, nei lietuvėms ar
-    kitoms europietėms moterims nebūdingi tie bruožai, kurie
-    puošia dailias senovės jotvingių dukras, kažkada gal iš­
-    tekintas už slavų jaunuolių. Si Mechovitos padavimuose
-    esanti prielaida pasitvirtina iš pirmo žvilgsnio. Reikia pa­
-    čiam pamatyti, kaip gražų šventinį vasaros rytą daili, jau­
-    na polesietė eina į bažnyčią, reikia regėti iš arti jos dra­
-    bužius, judesius, figūrą, šypseną ir nepaprastai gražius
-    dantis, ir tuomet žinovo akims atsiveria tikras azijinis
-    grožis.
+  citata_rodoma: "Nei\ninazovietėms, nei lenkėms, nei rusėms, nei lietuvėms ar\nkitoms europietėms moterims nebūdingi tie bruožai, kurie\npuošia dailias senovės jotvingių dukras, kažkada gal iš­\ntekintas už slavų jaunuolių. Si Mechovitos padavimuose\nesanti prielaida pasitvirtina iš pirmo žvilgsnio. Reikia pa­\nčiam pamatyti, kaip gražų šventinį vasaros rytą daili, jau­\nna polesietė eina į bažnyčią, reikia regėti iš arti jos dra­\nbužius, judesius, figūrą, šypseną ir nepaprastai gražius\ndantis, ir tuomet žinovo akims atsiveria tikras azijinis\ngrožis."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191797
+    - t-002

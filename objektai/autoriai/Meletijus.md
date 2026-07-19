@@ -38,9 +38,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
 
 <a id="claim-t-190338"></a>
 - t-001
-  global_id: t-190338
   teiginys: "Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Antimp, o Lasickis jį vadino Audros."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -56,12 +55,11 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173221
-    - c-001
+
 <a id="claim-t-190339"></a>
 - t-002
-  global_id: t-190339
   teiginys: "Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, rėmusiųsi paprastų žmonių sakytiniais padavimais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -77,10 +75,9 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173222
-    - c-002
+
 <a id="claim-t-194668"></a>
 - t-003
-  global_id: t-194668
   teiginys: "Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že mės viešpačiu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -91,10 +88,9 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177065
-    - c-003
+
 <a id="claim-t-197323"></a>
 - t-004
-  global_id: t-197323
   teiginys: "Meletijus jautė, kad visa, kas vyksta gamtoje, turi turėti savo kaltininką, todėl pripažino savo viešpatį ir visų dalykų valdovą, ėmė jį garbinti; bet garbinimas visuomet žengia kartu su baime, todėl savo jausmais linkęs garbinti reiškinį, kuris, atrodė, labiausiai jį gąsdino."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -128,8 +124,6 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190338
 - c-002
   santrauka: 'Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, rėmusiųsi paprastų žmonių sakytiniais padavimais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -146,8 +140,6 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190339
 - c-003
   santrauka: 'Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že mės viešpačiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -168,8 +160,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194668
+
 ## Citatos
 
 - id: c-173221
@@ -185,23 +176,15 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
     na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
     go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
     prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“.
-  citata_rodoma: |
-    -  Frankfurt und Leip­
-    zig, 1684*.
-    103
-
-    ## Puslapis 103
-
-    liones, nepažindami krašto realijų, todėl to dievo vardas buvo
-    rašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-
-    sickis -Audros.
+  citata_rodoma: "-  Frankfurt und Leip­\nzig, 1684*.\n103\n\n## Puslapis 103\n\nliones, nepažindami krašto realijų, todėl to dievo vardas buvo\nrašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-\nsickis -Audros."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190338
+    - t-001
+
 - id: c-173222
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -222,21 +205,15 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
     nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
     si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
     kaip tai pamatysime toliau.
-  citata_rodoma: |
-    Daugeliu požiūrių
-    šios žynės buvo Antikos bakchančių pamėgdžiojimas.
-    Visi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-
-    jaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­
-    kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.
-    Burtininkė (Burte)
-    Lietuvių barde -  Burtyniczka.
+  citata_rodoma: "Daugeliu požiūrių\nšios žynės buvo Antikos bakchančių pamėgdžiojimas.\nVisi šie žynių -  vyrų ir moterų -  vardai paimti iš Meleti-\njaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­\nkytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.\nBurtininkė (Burte)\nLietuvių barde -  Burtyniczka."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190339
+    - t-002
+
 - id: c-177065
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -256,25 +233,15 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
     gų, labai traukė žmogaus dėmesį: jų jėga griauna, daužo, nai­
     kina viską, net šventyklas ir dievų stabus; taigi tos jėgos valdo­
     vas turi būti galingiausias dievas.
-  citata_rodoma: |
-    Per­
-    sai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš
-    metų pabaigą, šventė paslaptingą Mitros šventę: atgailaudavo
-    už nuodėmes, savo misterijose vaizduodavo gamtos atgimi­
-    mą, rengdavosi naujam, doram gyvenimui.
-    Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina
-    šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­
-    mės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo
-    suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
-    aukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­
-    tingais mitais.
+  citata_rodoma: "Per­\nsai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš\nmetų pabaigą, šventė paslaptingą Mitros šventę: atgailaudavo\nuž nuodėmes, savo misterijose vaizduodavo gamtos atgimi­\nmą, rengdavosi naujam, doram gyvenimui.\nKai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina\nšį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­\nmės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo\nsuasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų\naukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­\ntingais mitais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194668
+    - t-003
+
 - id: c-179130
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -297,4 +264,4 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197323
+    - t-004

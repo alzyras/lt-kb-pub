@@ -39,7 +39,6 @@ Sliesoriūno straipsniai^117.
 
 <a id="claim-t-30610"></a>
 - t-001
-  global_id: t-30610
   teiginys: "F. Sliesoriūnas rašė straipsnius apie 1831 m. sukilimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,13 +69,11 @@ Sliesoriūno straipsniai^117.
     diferenciacija ir klasinis jos apmokslinimo pobūdis XIX a. pabaigoje_
     (Ekonomika, t. 2, 1962). 1831 m. sukilimą liečia F. Sliesoriūno
     straipsniai^117.
-  citata_rodoma: |
-    1831 m. sukilimą liečia F. Sliesoriūno
-    straipsniai^117.
+  citata_rodoma: "1831 m. sukilimą liečia F. Sliesoriūno\nstraipsniai^117."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30610
+    - t-001

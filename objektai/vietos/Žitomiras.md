@@ -40,8 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-182853"></a>
-- t-001
-  global_id: t-182853
+- t-012
   teiginys: "1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ media_all_json: |-
     - c-166257
 
 <a id="claim-t-194281"></a>
-- t-002
-  global_id: t-194281
+- t-013
   teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -92,17 +90,15 @@ media_all_json: |-
     Vytauto pagrasinimu. Tik 1394 metais jis puolė Vladimiro že­
     mes ir paėmė Ovručą ir Žitomirą. Nusigandęs Vladimiras at­
     važiavo Vytautui nusilenkti.
-  citata_rodoma: |
-    Tik 1394 metais jis puolė Vladimiro že­
-    mes ir paėmė Ovručą ir Žitomirą. Nusigandęs Vladimiras at­
-    važiavo Vytautui nusilenkti.
+  citata_rodoma: "Tik 1394 metais jis puolė Vladimiro že­\nmes ir paėmė Ovručą ir Žitomirą. Nusigandęs Vladimiras at­\nvažiavo Vytautui nusilenkti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182853
+    - t-012
+
 - id: c-176873
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -138,6 +134,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194281
+    - t-013
+
 ## Ryšiai
 - Užėmė Žitomirą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

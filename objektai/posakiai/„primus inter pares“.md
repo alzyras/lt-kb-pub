@@ -39,7 +39,6 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
 
 <a id="claim-t-77853"></a>
 - t-001
-  global_id: t-77853
   teiginys: "Stasys Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares, pirmą tarp lygiųjų tarp visų pasiuntinių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,18 +74,11 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
     diplomatijos šefo pareigas interpretavo kaip
     primus inter pares (pirmas tarp lygiųjų) tarp
     visų pasiuntinių.
-  citata_rodoma: |
-    LDT aukščiausia valdžia priklausė di-
-    plomatijos šefui, tas pareigas ėjo diplomatai
-    Stasys Lozoraitis (1940–1983 m.) ir Stasys
-    Antanas Bačkis (1983–1991 m.). S. Lozoraitis
-    diplomatijos šefo pareigas interpretavo kaip
-    primus inter pares (pirmas tarp lygiųjų) tarp
-    visų pasiuntinių.
+  citata_rodoma: "LDT aukščiausia valdžia priklausė di-\nplomatijos šefui, tas pareigas ėjo diplomatai \nStasys Lozoraitis (1940–1983 m.) ir Stasys \nAntanas Bačkis (1983–1991 m.). S. Lozoraitis \ndiplomatijos šefo pareigas interpretavo kaip \nprimus inter pares (pirmas tarp lygiųjų) tarp \nvisų pasiuntinių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77853
+    - t-001

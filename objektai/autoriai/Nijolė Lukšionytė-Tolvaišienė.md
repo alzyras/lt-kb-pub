@@ -7,12 +7,12 @@ datos:
   - '2008 m.'
 date_start: '2008'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XXI'
 periodo_grupes:
   - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XXI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Kaunas, 2008; Šinkūnaitė L., Valinčiūtė-Varnė Rima, Kamuntavičienė v., 
 
 <a id="claim-t-202215"></a>
 - t-001
-  global_id: t-202215
   teiginys: "Kaunas, 2008; Šinkūnaitė L., Valinčiūtė-Varnė Rima, Kamuntavičienė v., Lukšionytė-Tolvaišienė Nijolė."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Kaunas, 2008; Šinkūnaitė L., Valinčiūtė-Varnė Rima, Kamuntavičienė v., 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202215
+    - t-001

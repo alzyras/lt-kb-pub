@@ -32,7 +32,6 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
 
 <a id="claim-t-190365"></a>
 - t-001
-  global_id: t-190365
   teiginys: "Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokumentai, neužsimena apie krivį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
 
 <a id="claim-t-190699"></a>
 - t-002
-  global_id: t-190699
   teiginys: "Helmoldas, Narbuto perteikimu, Baltijos jūros pavadinimą kildino iš žodžio Balteus, reiškiančio „riterio diržą“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -97,7 +95,8 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190365
+    - t-001
+
 - id: c-173581
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -115,4 +114,4 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190699
+    - t-002

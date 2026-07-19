@@ -31,7 +31,6 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
 
 <a id="claim-t-60079"></a>
 - t-001
-  global_id: t-60079
   teiginys: "Broliai rūsyje rado dėžutę su šventosios Barboros galva ir pasiėmė ją kaip šventą relikviją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -45,10 +44,9 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60713
-    - c-003
+
 <a id="claim-t-60080"></a>
 - t-002
-  global_id: t-60080
   teiginys: "Dusburgiečio pasakojime sena moteris broliams sakė, kad šventosios Barboros palankumas padėjo jiems laimėti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
 
 <a id="claim-t-60081"></a>
 - t-003
-  global_id: t-60081
   teiginys: "Šventoji Barbora moteriai tris kartus pasirodė naktį ir sakė ketinanti eiti į Kulmo miestą klausyti mišių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60079
+
 ## Citatos
 
 - id: c-60711
@@ -113,18 +109,15 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
     tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros
     palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.
     Į tai broliai atsakė: „Kas tau šitai pasakė?
-  citata_rodoma: |
-    Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,
-    tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros
-    palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.
-       Į tai broliai atsakė: „Kas tau šitai pasakė?
+  citata_rodoma: "Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,\ntarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros\npalankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.\n   Į tai broliai atsakė: „Kas tau šitai pasakė?"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60080
+    - t-002
+
 - id: c-60712
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -143,7 +136,8 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60081
+    - t-003
+
 - id: c-60713
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -157,16 +151,11 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
     savo guolio ir palydėjau ją ligi savo namo durų, kur, jai pranykus, išvydau jus ginkluotus
     pilyje. Dėl to aiškiai supratau, jog dėl jos nuopelnų ir maldų jūs užėmėte štai šią pilį,
     272  Sartovicai, Sartowice (D.— Sardewicz, J. — Schartowitz) — į šiaurės rytus nuo dab.
-  citata_rodoma: |
-    Šitai padarę, aptiko viename
-    rūsyje dėžę, arba skrynią, o joje sidabrinę dėžutę, o toje dėžutėje šventos mergelės bei
-    kankinės Barboros galvą, kurią išvydę kniūpsti puolė ant žemės, dėkodami dievui už
-    tokios šlovingos dovanos suradimą. Pakilę pasiėmė šią šventą relikviją ir džiūgaudami
-    išėjo iš rūsio.
+  citata_rodoma: "Šitai padarę, aptiko viename\nrūsyje dėžę, arba skrynią, o joje sidabrinę dėžutę, o toje dėžutėje šventos mergelės bei\nkankinės Barboros galvą, kurią išvydę kniūpsti puolė ant žemės, dėkodami dievui už\ntokios šlovingos dovanos suradimą. Pakilę pasiėmė šią šventą relikviją ir džiūgaudami\nišėjo iš rūsio."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60079
+    - t-001

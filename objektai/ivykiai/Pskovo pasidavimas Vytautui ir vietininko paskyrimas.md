@@ -49,9 +49,8 @@ Nenurodyta
 
 <a id="claim-t-186598"></a>
 - t-001
-  global_id: t-186598
   teiginys: "Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "uzeme -> Veližas: 0.95"
@@ -66,8 +65,7 @@ Nenurodyta
     - c-169891
 
 <a id="claim-t-186599"></a>
-- t-002
-  global_id: t-186599
+- t-003
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas pasodino Pskove vietininku Pinsko kunigaikštį Jurijų, pramintą Nosimi."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -84,10 +82,9 @@ Nenurodyta
     - c-169891
 
 <a id="claim-t-186600"></a>
-- t-003
-  global_id: t-186600
+- t-002
   teiginys: "Lietuvos metraštis pasakoja, kad pskoviečiai pasiuntė pas Vytautą pasiuntinius, pažadėjo jo klausyti, mokėti duoklę ir įsileisti vietininką."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "buvo_valdovas -> Pskoviečiai: 0.90"
@@ -130,24 +127,13 @@ Nenurodyta
     Sokolas — įkrito į duobes ir nulūžo kojas, labai susi­
     žeidė ir nuo to mirė; ir ne vien tik etmonai, bet ir dau­
     gelis karių dėl tų duobių labai nukentėjo.
-  citata_rodoma: |
-    Sekančiais metais didysis kunigaikštis Vytautas išsi­
-    rengė prieš Pskovo miestą5  ir paėmė Pskovo miestus
-    Veližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami,
-    kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
-    nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų
-    valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok­
-    lę bei įsileisti jo vietininką, ir didysis kunigaikštis
-
-    pasodino pas juos vietininku Pinsko kunigaikštį Juri­
-    jų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­
-    žygiavo prieš Naugardą.
+  citata_rodoma: "Sekančiais metais didysis kunigaikštis Vytautas išsi­\nrengė prieš Pskovo miestą5  ir paėmė Pskovo miestus \nVeližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami, \nkad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­\nnius pas didįjį kunigaikštį Vytautą, kad jis būtų jų \nvaldovu, žadėjo jo klausyti ir kasmet mokėti jam duok­\nlę bei įsileisti jo vietininką, ir didysis kunigaikštis\n\npasodino pas juos vietininku Pinsko kunigaikštį Juri­\njų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­\nžygiavo prieš Naugardą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186598
-    - t-186599
-    - t-186600
+    - t-001
+    - t-003
+    - t-002

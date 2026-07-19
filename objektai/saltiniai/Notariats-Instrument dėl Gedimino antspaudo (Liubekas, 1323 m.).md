@@ -36,7 +36,6 @@ Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi
 
 <a id="claim-t-88457"></a>
 - t-001
-  global_id: t-88457
   teiginys: "1323 m. Liubeke parengtas Notariats-Instrument aprašė Gedimino apvalų vaško antspaudą su soste sėdinčio vyro atvaizdu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88457
+    - t-001

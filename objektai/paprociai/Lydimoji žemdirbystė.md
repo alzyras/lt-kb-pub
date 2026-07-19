@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-97134"></a>
-- t-001
-  global_id: t-97134
+- t-005
   teiginys: "Po 1557 m. valakų reformos lydimoji žemdirbystė Lietuvoje ėmė nykti, nors XVI-XVII a. aktuose žodis „lydimas“ dar dažnai minėtas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -79,8 +78,7 @@ Nenurodyta
     - c-31420
 
 <a id="claim-t-97135"></a>
-- t-002
-  global_id: t-97135
+- t-006
   teiginys: "Lydimoji žemdirbystė rėmėsi ugnies naudojimu, kai išskintame ir nudegintame miško sklype buvo daromas dirbamas laukas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -96,8 +94,7 @@ Nenurodyta
     - c-31419
 
 <a id="claim-t-97136"></a>
-- t-003
-  global_id: t-97136
+- t-008
   teiginys: "Lydimoji žemdirbystė buvo galima, kol nebuvo tvarkomas miškų ūkis ir stambieji žemvaldžiai nevaržė naudojimosi mišku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -114,7 +111,6 @@ Nenurodyta
 
 <a id="claim-t-97137"></a>
 - t-004
-  global_id: t-97137
   teiginys: "Lydimoji žemdirbystė rėmėsi miško sklypo išskynimu ir nudeginimu, kad jame būtų įrengtas dirbamas laukas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -130,8 +126,7 @@ Nenurodyta
     - c-31419
 
 <a id="claim-t-97138"></a>
-- t-005
-  global_id: t-97138
+- t-007
   teiginys: "Po 1557 m. valakų reformos Lietuvoje lydimoji žemdirbystė ėmė nykti, nors XVI–XVII a. aktuose dar minėtas žodis „lydimas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -167,22 +162,16 @@ Nenurodyta
     lydimas ruošiant jį dirvai, Lietuvoje buvo plačiai vartojamas iki
     pat XVI amž. vidurio, kol dar daug buvo girių, į kurias niekas
     nedraudė įkelti kojos.
-  citata_rodoma: |
-    Šitaip atsirado ir «lydimoji žemdirbystė »
-    (vokiškai vadinama Brandwirtschaft, Rodungswirtschaft, Feld­
-    graswirtschaft), kada, žemei įdirbti ėmus naudotis ugnimi, išskin­
-    tame ir nudegintame miško sklype buvo daromas dirbamas laukas.
-    Kaip ir kitur Europoje priešistoriniais laikais, miško gabalo
-    lydimas ruošiant jį dirvai, Lietuvoje buvo plačiai vartojamas iki
-    pat XVI amž.
+  citata_rodoma: "Šitaip atsirado ir «lydimoji žemdirbystė »\n(vokiškai vadinama Brandwirtschaft, Rodungswirtschaft, Feld­\ngraswirtschaft), kada, žemei įdirbti ėmus naudotis ugnimi, išskin­\ntame ir nudegintame miško sklype buvo daromas dirbamas laukas.\nKaip ir kitur Europoje priešistoriniais laikais, miško gabalo\nlydimas ruošiant jį dirvai, Lietuvoje buvo plačiai vartojamas iki\npat XVI amž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97135
-    - t-97137
+    - t-006
+    - t-004
+
 - id: c-31420
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -198,23 +187,16 @@ Nenurodyta
     ir kt.). Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip
     naturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje
     ir Mažojoje Lietuvoje yra surišta su lydimais.
-  citata_rodoma: |
-    Pradėjus Lietuvoje « va­
-    lakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą
-    su vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė
-    nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas
-    žodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »
-    ir kt.). Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip
-    naturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje
-    ir Mažojoje Lietuvoje yra surišta su lydimais.
+  citata_rodoma: "Pradėjus Lietuvoje « va­\nlakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą\nsu vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė\nnykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas\nžodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »\nir kt.). Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip\nnaturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje\nir Mažojoje Lietuvoje yra surišta su lydimais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97134
-    - t-97138
+    - t-005
+    - t-007
+
 - id: c-91648
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -230,19 +212,11 @@ Nenurodyta
     nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas
     žodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »
     ir kt.).
-  citata_rodoma: |
-    Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo
-    pradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė
-    laisvės naudotis mišku ir daryti išdagas. Pradėjus Lietuvoje « va­
-    lakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą
-    su vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė
-    nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas
-    žodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »
-    ir kt.).
+  citata_rodoma: "Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo\npradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė\nlaisvės naudotis mišku ir daryti išdagas. Pradėjus Lietuvoje « va­\nlakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą\nsu vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė\nnykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas\nžodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »\nir kt.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97136
+    - t-008

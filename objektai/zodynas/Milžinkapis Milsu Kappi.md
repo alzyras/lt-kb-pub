@@ -31,9 +31,8 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
 
 <a id="claim-t-189160"></a>
 - t-001
-  global_id: t-189160
   teiginys: "Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar didelius žmones vadino milžinkapiais, „Milsu Kappi“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172048
-    - c-001
+
 <a id="claim-t-189161"></a>
 - t-002
-  global_id: t-189161
   teiginys: "Narbutas aprašė kalną su terasa ir plokščiu kupolu, kurį vadino milžinkapiu ir siejo su vietos padavimu apie Gedimino kapą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,7 +68,7 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172049
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar didelius žmones vadino milžinkapiais, „Milsu Kappi“.'
@@ -88,8 +86,6 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189160
 - c-002
   santrauka: 'Narbutas aprašė kalną su terasa ir plokščiu kupolu, kurį vadino milžinkapiu ir siejo su vietos padavimu apie Gedimino kapą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -104,8 +100,7 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189161
+
 ## Citatos
 
 - id: c-172048
@@ -121,21 +116,15 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
     juo sudegintų tarnų ir tarnaičių kapai.
     Žemesnio luomo žmonių palaidojimai buvo be tokių soli­
     džių statinių.
-  citata_rodoma: |
-    Lietuvoje pilkapiai randami labai retai, dažnai sly­
-    pi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­
-    mę*. Latviai savo krašte iki šiol rodo didelius pilkapius, ku­
-    riuos savo padavimuose apie milžinus arba didelius žmones
-    vadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­
-    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
-    tose.
+  citata_rodoma: "Lietuvoje pilkapiai randami labai retai, dažnai sly­\npi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­\nmę*. Latviai savo krašte iki šiol rodo didelius pilkapius, ku­\nriuos savo padavimuose apie milžinus arba didelius žmones\nvadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­\nmai senovei; tokių padavimų yra ir kitose lietuvių genties tau­\ntose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189160
+    - t-001
+
 - id: c-172049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -152,16 +141,11 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
     kos ne ant krūtinės, o prie šonų taip sulenktos, kad galais sie­
     kė galvą; dešinėje laikė lenktą geležį - kapoklį arba skaptą,
     kuriuo dirba medinius šaukštus, kairėje - kažkokį geležinį įran­
-  citata_rodoma: |
-    Tai yra kalnas, gerokai aukš­
-    tesnis už kitus gretimus, stūksantis atskirai. Jo viršūnė iš visų
-    pusių aiškiai nukasta ir baigiasi terasa, iš kurios kyla plokščias
-    kupolas, arba milžinkapis. Vietos padavimai iki šiol mini, kad
-    tai Gedimino kapas.
+  citata_rodoma: "Tai yra kalnas, gerokai aukš­\ntesnis už kitus gretimus, stūksantis atskirai. Jo viršūnė iš visų\npusių aiškiai nukasta ir baigiasi terasa, iš kurios kyla plokščias\nkupolas, arba milžinkapis. Vietos padavimai iki šiol mini, kad\ntai Gedimino kapas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189161
+    - t-002

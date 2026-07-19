@@ -32,9 +32,8 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
 
 <a id="claim-t-186121"></a>
 - t-001
-  global_id: t-186121
   teiginys: "Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -52,10 +51,10 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   temporalinis_llm_pakomentavimas: "Pradinis teiginys labiau akcentavo Belizarijų; perrašyta aiškiau apie Justiniano valdymo laiką."
   pagrindžia:
     - c-169482
+    - c-178739
 
 <a id="claim-t-190899"></a>
 - t-002
-  global_id: t-190899
   teiginys: "Imperatorius Justinianas šaltinyje siejamas su VI amžiumi, kai gyveno istorikas Prokopijus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -76,7 +75,6 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
 
 <a id="claim-t-190900"></a>
 - t-003
-  global_id: t-190900
   teiginys: "Kai Roma antrąkart pateko Totilai, Justinianas surinko kariuomenę, kurioje greta longobardų ir persų buvo herulų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -97,7 +95,6 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
 
 <a id="claim-t-196511"></a>
 - t-004
-  global_id: t-196511
   teiginys: "Po Justiniano mirties herulai, vedami Alueto ir Filimunto, pasitraukė per Liguriją į Trakiją, ketindami tarnauti imperatoriaus kariuomenėje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -111,7 +108,6 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
 
 <a id="claim-t-197767"></a>
 - t-005
-  global_id: t-197767
   teiginys: "Taip pat ir Romai antrąkart pakliuvus į Totilos rankas, kai Justinianas surinko ka riuomenę, greta longobardų ir persų buvo herulų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -156,24 +152,15 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
     nybę: ir daugelis buvusių
     arijonų (šią sektą buvo priglaudę Germanijoje ir Pa-
     nonijoje), ir žmonės, ligi tol buvę stabmeldžiais.
-  citata_rodoma: |
-    Tačiau didelė herulų da­
-    lis persikėlė iš Italijos į Grai-
-    493 m e ta i
-    kiją, mat sutartys leido Bi­
-    zantijos imperatoriui kvies­
-    tis tą gentį į karo sąjungininkus. Štai, Justinianui vieš­
-    pataujant, herulų, vadovaujamų Getero, pagalba pasi­
-    naudojo Belizarijus, nugalėjęs persus. Kita jų dalis,
-    pasikvietusi iš tėvynės kunigaikštį Datą, įsikūrė prie
-    Dunojaus Noriko pasienyje.
+  citata_rodoma: "Tačiau didelė herulų da­\nlis persikėlė iš Italijos į Grai-\n493 m e ta i\nkiją, mat sutartys leido Bi­\nzantijos imperatoriui kvies­\ntis tą gentį į karo sąjungininkus. Štai, Justinianui vieš­\npataujant, herulų, vadovaujamų Getero, pagalba pasi­\nnaudojo Belizarijus, nugalėjęs persus. Kita jų dalis,\npasikvietusi iš tėvynės kunigaikštį Datą, įsikūrė prie\nDunojaus Noriko pasienyje."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186121
+    - t-001
+
 - id: c-173781
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -196,7 +183,8 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190899
+    - t-002
+
 - id: c-173782
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -216,8 +204,9 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190900
-    - t-197767
+    - t-003
+    - t-005
+
 - id: c-178739
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -248,4 +237,5 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196511
+    - t-001
+    - t-004

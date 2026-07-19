@@ -8,10 +8,10 @@ datos:
   - '1647 m.'
 date_start: '1644'
 date_end: '1647'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,7 +35,6 @@ media_all_json: |-
 
 <a id="claim-t-201868"></a>
 - t-001
-  global_id: t-201868
   teiginys: "1647 m. Kauno miesto taryba, konstatavusi, kad brolija neturi savo nuostatų ir dėl to nėra tvarkos, patvirtino ne brolijos, o laivavedžių cecho nuostatus."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ media_all_json: |-
 
 <a id="claim-t-201869"></a>
 - t-002
-  global_id: t-201869
   teiginys: "Ne viskas aišku dėl laivavedžių cecho."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201868
+    - t-001
 
 - id: c-185216
   autorius: "Zigmantas Kiaupa"
@@ -92,4 +90,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201869
+    - t-002

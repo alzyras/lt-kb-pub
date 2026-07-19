@@ -36,7 +36,6 @@ Tad Vytautas įsakė grįžti Kaributui į Lietuvą, o čekams husitams nurašė
 
 <a id="claim-t-36131"></a>
 - t-001
-  global_id: t-36131
   teiginys: "Vytautas rašte čekams husitams teigė nerėmęs jų mokslo ir siūlė tarpininkauti tarp jų ir Zigmanto, jeigu jie atsisakytų erezijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,16 +68,11 @@ Tad Vytautas įsakė grįžti Kaributui į Lietuvą, o čekams husitams nurašė
     slo, bet norėjo juos tiktai grąžinti Bažnyčiai; jeigu jie atsisakytų
     nuo erezijos, tai sutinka būti tarpininku tarp jų ir Zigmanto, kitaip
     turėsiąs padėti šiam pastarajam. 1424 m.
-  citata_rodoma: |
-    Tad Vytautas įsakė grįžti Kaributui į Lietuvą,
-    o čekams husitams nurašė laišką, kad niekada nerėmė jų mok­
-    slo, bet norėjo juos tiktai grąžinti Bažnyčiai; jeigu jie atsisakytų
-    nuo erezijos, tai sutinka būti tarpininku tarp jų ir Zigmanto, kitaip
-    turėsiąs padėti šiam pastarajam. 1424 m.
+  citata_rodoma: "Tad Vytautas įsakė grįžti Kaributui į Lietuvą,\no čekams husitams nurašė laišką, kad niekada nerėmė jų mok­\nslo, bet norėjo juos tiktai grąžinti Bažnyčiai; jeigu jie atsisakytų\nnuo erezijos, tai sutinka būti tarpininku tarp jų ir Zigmanto, kitaip\nturėsiąs padėti šiam pastarajam. 1424 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36131
+    - t-001

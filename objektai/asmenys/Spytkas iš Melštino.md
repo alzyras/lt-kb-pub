@@ -31,7 +31,6 @@ Taip pat lenkų didikai paremdavo ir jo reikalus, kaip Spytkas iš Melštino, vy
 
 <a id="claim-t-96042"></a>
 - t-001
-  global_id: t-96042
   teiginys: "Spytkas iš Melštino buvo vienas iš lenkų didikų, rėmusių Vytauto reikalus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Taip pat lenkų didikai paremdavo ir jo reikalus, kaip Spytkas iš Melštino, vy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96042
+    - t-001

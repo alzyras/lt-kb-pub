@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-193820"></a>
 - t-001
-  global_id: t-193820
   teiginys: "Kalavijas, rastas Desiukiškėse, yDKM, Artūro Užgalio nuotr."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193820
+    - t-001

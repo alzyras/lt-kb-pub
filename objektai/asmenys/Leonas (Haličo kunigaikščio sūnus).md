@@ -41,7 +41,6 @@ Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pasta
 
 <a id="claim-t-87764"></a>
 - t-001
-  global_id: t-87764
   teiginys: "Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pasta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87764
+    - t-001

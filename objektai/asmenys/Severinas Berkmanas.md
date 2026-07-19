@@ -7,12 +7,12 @@ datos:
   - '1550 m.'
 date_start: '1550'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-202108"></a>
 - t-001
-  global_id: t-202108
   teiginys: "1550 m. Kauno pirklys Severinas Berkmanas skundė Vaitiekų, kurį buvo pasamdęs metams dirbti laivavedžiu už 4,5 kapos grašių ir jau buvo davęs 3 kapas grašių."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202108
+    - t-001

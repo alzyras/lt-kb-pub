@@ -43,7 +43,6 @@ media_all_json: |-
 
 <a id="claim-t-87673"></a>
 - t-001
-  global_id: t-87673
   teiginys: "Kardinolas Fridrichas su karaliene Elžbieta ir jos vaikais iškart po Velykų atvyko į Vilnių ir sukėlė džiaugsmą pilyje bei mieste."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ media_all_json: |-
 
 <a id="claim-t-184698"></a>
 - t-002
-  global_id: t-184698
   teiginys: "Fridrichas, rugijų karaliaus Feletėjo sūnus, buvo išvytas po rugijų pralaimėjimo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,6 @@ media_all_json: |-
 
 <a id="claim-t-200984"></a>
 - t-003
-  global_id: t-200984
   teiginys: "Jau nuo kelių metų Fridrichas, vyskupas Tarapato, Teutonijoj steigė kryžiaus karę patelkti, lygia dalia nukeliavo tenai ir Tirbergas pašalpos veizėti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -174,25 +171,15 @@ media_all_json: |-
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
     to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
     buvo nutraukta.
-  citata_rodoma: |
-    _  .
-    230
-
-    ## Puslapis 247
-
-    III KNYGA
-    pavasario, kai Aleksandro motina karalienė Elžbieta su duk­
-    terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­
-    vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.
-    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
-    to ginčai, ir po kelerių metų (1500 m.
+  citata_rodoma: "_  .\n230\n\n## Puslapis 247\n\nIII KNYGA\npavasario, kai Aleksandro motina karalienė Elžbieta su duk­\nterimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­\nvykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste. \nDeja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­\nto ginčai, ir po kelerių metų (1500 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87673
+    - t-001
+
 - id: c-168059
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -222,10 +209,12 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184698
+    - t-002
+
 - id: c-184334
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Visų pirma rūpinos jis kaip įmanąs
     kame noris pagalbos gauti. Jau nuo kelių metų
@@ -244,6 +233,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200984
+    - t-003
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Feletėjas]]

@@ -31,7 +31,6 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 
 <a id="claim-t-22213"></a>
 - t-001
-  global_id: t-22213
   teiginys: "Per rinkimų agitaciją valdžia viešai grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 
 <a id="claim-t-193608"></a>
 - t-002
-  global_id: t-193608
   teiginys: "Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūkininkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies priešais“."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -73,15 +71,15 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
     išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
     kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-
     tininkai ir aukštus postus turėję valdininkai.
-  citata_rodoma: |
-    išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
+  citata_rodoma: "išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22213
+    - t-001
+
 - id: c-176281
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -99,4 +97,4 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193608
+    - t-002

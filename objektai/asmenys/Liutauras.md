@@ -40,7 +40,6 @@ Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė L
 
 <a id="claim-t-190106"></a>
 - t-001
-  global_id: t-190106
   teiginys: "Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė Liutaurą užimti ir vietininko teisėmis valdyti Polocką."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -97,4 +96,4 @@ Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190106
+    - t-001

@@ -31,7 +31,6 @@ Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio
 
 <a id="claim-t-192952"></a>
 - t-001
-  global_id: t-192952
   teiginys: "Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio stulpų iki Gadiros ir Tarteso uosto."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio
 
 <a id="claim-t-197507"></a>
 - t-002
-  global_id: t-197507
   teiginys: "Tuo metu Masilija pradėjo rungtyniauti su Kartagina; masiliečių laivai plaukdavo iki Tarteso tų pa čių prekių kaip ir kartaginiečiai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,8 @@ Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192952
+    - t-001
+
 - id: c-179223
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -115,4 +114,4 @@ Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197507
+    - t-002

@@ -31,8 +31,7 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
 ## Teiginiai
 
 <a id="claim-t-72625"></a>
-- t-001
-  global_id: t-72625
+- t-002
   teiginys: "Slavofilai skelbė, kad Didžiosios Lietuvos Kunigaikštijos žemės nuo seno buvusios rusų kultūros įtakoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -41,8 +40,7 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
     - c-71025
 
 <a id="claim-t-72626"></a>
-- t-002
-  global_id: t-72626
+- t-003
   teiginys: "Slavofilai Petrapilyje susiorganizavo į draugiją ir nepritarė universiteto klestėjimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +57,7 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
     - c-71025
 
 <a id="claim-t-72627"></a>
-- t-003
-  global_id: t-72627
+- t-001
   teiginys: "Slavofilams nepatiko Vilniaus universiteto klestėjimas, kai jis išgarsėjo kaip geriausia lenkų mokslo įstaiga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,7 +67,6 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
 
 <a id="claim-t-182924"></a>
 - t-004
-  global_id: t-182924
   teiginys: "Slavofilai reikalavo pakeisti visą Vilniaus apygardos švietimo sistemą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -103,17 +99,15 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
     Toks universiteto klestėjimas nepatiko rusams, ypač sla-
     vofilams, kurie kaip tik tuo metu Petrapily susiorganizavo į
     draugiją.
-  citata_rodoma: |
-    Toks universiteto klestėjimas nepatiko rusams, ypač sla-
-    vofilams, kurie kaip tik tuo metu Petrapily susiorganizavo į
-    draugiją.
+  citata_rodoma: "Toks universiteto klestėjimas nepatiko rusams, ypač sla-\nvofilams, kurie kaip tik tuo metu Petrapily susiorganizavo į\ndraugiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72627
+    - t-001
+
 - id: c-71025
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -127,22 +121,16 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
     mės nuo amžių buvusios rusų kultūros įta-
     koje, kad lenkai ten tesą tik atėjūnai ir kad todėl negalima
     jiems leisti toliau lenkinti krašto.
-  citata_rodoma: |
-    500.
-    Toks universiteto klestėjimas nepatiko rusams, ypač sla-
-    vofilams, kurie kaip tik tuo metu Petrapily susiorganizavo į
-    draugiją. Jie skelbė, kad didžiosios Lietuvos kunigaikštijos že-
-    mės nuo amžių buvusios rusų kultūros įta-
-    koje, kad lenkai ten tesą tik atėjūnai ir kad todėl negalima
-    jiems leisti toliau lenkinti krašto.
+  citata_rodoma: "500.\nToks universiteto klestėjimas nepatiko rusams, ypač sla-\nvofilams, kurie kaip tik tuo metu Petrapily susiorganizavo į\ndraugiją. Jie skelbė, kad didžiosios Lietuvos kunigaikštijos že-\nmės nuo amžių buvusios rusų kultūros įta-\nkoje, kad lenkai ten tesą tik atėjūnai ir kad todėl negalima\njiems leisti toliau lenkinti krašto."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72625
-    - t-72626
+    - t-002
+    - t-003
+
 - id: c-166327
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -161,4 +149,4 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182924
+    - t-004

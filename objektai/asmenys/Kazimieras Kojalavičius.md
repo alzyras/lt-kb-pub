@@ -8,12 +8,12 @@ datos:
   - '1677 m.'
 date_start: '1609'
 date_end: '1677'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (160
 
 <a id="claim-t-202087"></a>
 - t-001
-  global_id: t-202087
   teiginys: "Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (1609- 1677) jėzuitu tapo 1627 m., matyt, tėvams dar esant gyviems, jo jaunesnieji broliai jau buvę našlaičiai: 1634 m. Kazimieras (1617-1674), 1637 m. Petras (1620-1654)."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (160
 
 <a id="claim-t-202088"></a>
 - t-002
-  global_id: t-202088
   teiginys: "Kauno miestiečių sūnūs buvo jau minėti broliai Albertas, Kazimieras ir Petras Kojaiavičiai, žinomi jėzuitų veikėjai, Albertas - didžiausias XVII a."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,7 @@ Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (160
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202087
+    - t-001
 
 - id: c-185435
   autorius: "Zigmantas Kiaupa"
@@ -95,4 +93,4 @@ Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (160
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202088
+    - t-002

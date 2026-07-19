@@ -39,7 +39,6 @@ Sovietinio genocido ir teroro aukomis tapo 456 tūkst.
 
 <a id="claim-t-22302"></a>
 - t-001
-  global_id: t-22302
   teiginys: "Sovietinio genocido ir teroro aukomis Lietuvoje tapo 456 tūkst. gyventojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,12 +74,11 @@ Sovietinio genocido ir teroro aukomis tapo 456 tūkst.
     nių įkalinti, išvežti į tremtį ar GULAG’o lagerius, dar 26,5 tūkst. nužu-
     dyti Lietuvoje – iš viso Lietuva neteko apie 1,058 mln. arba daugiau kaip
     trečdalio gyventojų.
-  citata_rodoma: |
-    dyti Lietuvoje – iš viso Lietuva neteko apie 1,058 mln. arba daugiau kaip
+  citata_rodoma: "dyti Lietuvoje – iš viso Lietuva neteko apie 1,058 mln. arba daugiau kaip"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22302
+    - t-001

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-77901"></a>
 - t-001
-  global_id: t-77901
   teiginys: "JAV lietuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m. Rygoje tapo Europos čempionais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77901
+    - t-001

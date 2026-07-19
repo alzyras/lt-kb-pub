@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54706"></a>
-- t-001
-  global_id: t-54706
+- t-002
   teiginys: "Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies."
   atnaujinta: "2026-05-27 06:05"
   sprendimo_priezastis: "gap::events"
@@ -93,17 +92,11 @@ Nenurodyta
     pakviestas maršalas, arkikomtūras ir daugelis aukštesniųjų
     vokiečių riterių. Ten puikiai pavaišinti, dosniai apdovanoti,
     pagaliau paliko miestą ir šalį.
-  citata_rodoma: |
-    Galop buvo sudaryta taikos sutartis, ku­
-    ria kryžiuočiai įsipareigojo palikti neliestą Vilniaus dalį, dar
-    nenukentėjusią nuo ugnies; į Vilniaus ir Trakų pilis buvo
-    pakviestas maršalas, arkikomtūras ir daugelis aukštesniųjų
-    vokiečių riterių. Ten puikiai pavaišinti, dosniai apdovanoti,
-    pagaliau paliko miestą ir šalį.
+  citata_rodoma: "Galop buvo sudaryta taikos sutartis, ku­\nria kryžiuočiai įsipareigojo palikti neliestą Vilniaus dalį, dar \nnenukentėjusią nuo ugnies; į Vilniaus ir Trakų pilis buvo \npakviestas maršalas, arkikomtūras ir daugelis aukštesniųjų \nvokiečių riterių. Ten puikiai pavaišinti, dosniai apdovanoti, \npagaliau paliko miestą ir šalį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54706
+    - t-002

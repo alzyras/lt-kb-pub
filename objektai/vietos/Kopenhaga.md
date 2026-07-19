@@ -37,7 +37,6 @@ Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo
 
 <a id="claim-t-193272"></a>
 - t-001
-  global_id: t-193272
   teiginys: "Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo Kopenhagoje."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193272
+    - t-001

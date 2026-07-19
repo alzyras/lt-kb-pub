@@ -27,19 +27,37 @@ media_all_json: |-
 
 Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes turėjo Lietuvos istorijos šaltinių.
 
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes turėjo Lietuvos istorijos šaltinių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    O kodėl apie krivį nieko
+    nemini Henrikas Latvis, rašęs apie Livoniją, apie šalį, kurią
+    krivis valdė? Būtų galima manyti, kad Livonijoje nebūta jokio
+    krivio pėdsako; net galima tvirtinti, kad Dusburgietis, klysda­
+    mas, jog Prūsijos krivio valdžia buvo taip labai paplitusi, tuo
+    labiau norėjo matyti Livoniją klausančią jo įsakymų, kuo la­
+    biau stiprėjo ir įgavo didesnę reikšmę jo lyginimas su popie­
+    žiumi; žinoma, galima būtų tiesiog prisipažinti, kad joks Prū­
+    7 Atvirkščiai, Strijkovskis apie tai rašo daugiau už prūsų ir latvių
+    kroninininkus, nes jis po ranka turėjo istorijos šaltinius, kurie bylojo,
+    kad ši pareigybė Lietuvoje gyvavo labai ilgai; tie šaltiniai galėjo pa­
+    pasakoti ir daugiau smulkmenų.
+    421
+
+    ## Puslapis 421
+
+    sijos krivis niekad neįsakinėjo Livonijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Teiginiai
 
-<a id="claim-t-190455"></a>
-- t-001
-  global_id: t-190455
-  teiginys: 'Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes turėjo Lietuvos istorijos šaltinių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas kontekstas apie krivio pareigybę ir palikta Narbuto interpretacijos atribucija. Nepridėta konkrečių šaltinių pavadinimų, nes citata jų nenurodo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Livonija; mentioned_place: Prūsija'
-  pagrindžia:
-    - c-173338
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188561|Janas Lasickis]]: Narbutas, remdamasis Lasickiu, rašo, kad Strijkovskis ir kiti Markopolius trumpai mini kaip požemio dievaičius.
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188586|Motiejus Strijkovskis]]: Narbutas nurodo, kad Strijkovskis turto deivę vadino Pilwitos.
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188591|Motiejus Strijkovskis]]: Narbutas nurodo, kad Strijkovskis alyvą Sambėje laikė pirmu tarp šventųjų medžių.
@@ -127,34 +145,3 @@ Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes t
 - susijęs iš [[objektai/zodynas/Risietis.md#claim-t-189327|Risietis]]: Narbutas „Risietis“ laikė lietuvišku diržų pavadinimu ir tuo grindė mintį, kad šio žodžio nereikėjo skolintis iš svetimos kalbos.
 - susijęs iš [[objektai/zodynas/Slenkstis Slynksnis-Perlevenu.md#claim-t-189179|Slenkstis Slynksnis-Perlevenu]]: Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų dievaitį ir žemdirbio nuosavybės globėją.
 - susijęs iš [[objektai/zodynas/Trakai Troki.md#claim-t-189142|Trakai Troki]]: Narbutas kaip Trakų vardo paplitimo pavyzdį nurodė Trakais vadintą mišką Lydos apskrities Žirmūnų parapijoje.
-## Citatos
-
-- id: c-173338
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    O kodėl apie krivį nieko
-    nemini Henrikas Latvis, rašęs apie Livoniją, apie šalį, kurią
-    krivis valdė? Būtų galima manyti, kad Livonijoje nebūta jokio
-    krivio pėdsako; net galima tvirtinti, kad Dusburgietis, klysda­
-    mas, jog Prūsijos krivio valdžia buvo taip labai paplitusi, tuo
-    labiau norėjo matyti Livoniją klausančią jo įsakymų, kuo la­
-    biau stiprėjo ir įgavo didesnę reikšmę jo lyginimas su popie­
-    žiumi; žinoma, galima būtų tiesiog prisipažinti, kad joks Prū­
-    7 Atvirkščiai, Strijkovskis apie tai rašo daugiau už prūsų ir latvių
-    kroninininkus, nes jis po ranka turėjo istorijos šaltinius, kurie bylojo,
-    kad ši pareigybė Lietuvoje gyvavo labai ilgai; tie šaltiniai galėjo pa­
-    pasakoti ir daugiau smulkmenų.
-    421
-
-    ## Puslapis 421
-
-    sijos krivis niekad neįsakinėjo Livonijai.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:32"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190455

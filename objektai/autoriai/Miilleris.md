@@ -39,7 +39,6 @@ kunigaikščių Genealoginę lentešis, šiaip ar taip, bet vertinamas aulę, su
 
 <a id="claim-t-88076"></a>
 - t-001
-  global_id: t-88076
   teiginys: "Miilleris buvo Maskvos archyvo vedėjas, kurio Rusijos genealoginėmis knygomis rėmėsi Kochas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ kunigaikščių Genealoginę lentešis, šiaip ar taip, bet vertinamas aulę, su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88076
+    - t-001

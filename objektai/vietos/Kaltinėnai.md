@@ -39,8 +39,7 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 ## Teiginiai
 
 <a id="claim-t-68038"></a>
-- t-001
-  global_id: t-68038
+- t-002
   teiginys: "1416 metais Vytautas Kaltinėnuose pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
     - c-37406
 
 <a id="claim-t-68039"></a>
-- t-002
-  global_id: t-68039
+- t-001
   teiginys: "Kaltinėnai buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai sudarė taiką su Vytautu ir ordinu."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -99,7 +97,8 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68039
+    - t-001
+
 - id: c-37406
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -113,16 +112,11 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
     žiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­
     kimo pasiuntiniai—Lvovo vysk. Jonas ir Vilniaus vysk. Petras
     — buvo Vytauto sutikti ir su dideliu didikų būriu nulydėti į Že-
-  citata_rodoma: |
-    Kaip jau matėme, 1416 metais Vytautas
-    Varniuose pastatė katedrą ir aštuonias parapijines bažnyčias:
-    Viduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­
-    žiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­
-    kimo pasiuntiniai—Lvovo vysk.
+  citata_rodoma: "Kaip jau matėme, 1416 metais Vytautas\nVarniuose pastatė katedrą ir aštuonias parapijines bažnyčias:\nViduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­\nžiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­\nkimo pasiuntiniai—Lvovo vysk."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68038
+    - t-002

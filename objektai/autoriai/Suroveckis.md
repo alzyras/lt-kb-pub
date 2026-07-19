@@ -38,7 +38,6 @@ Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdi
 
 <a id="claim-t-190456"></a>
 - t-001
-  global_id: t-190456
   teiginys: "Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdintoje 1812 m. Varšuvoje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdi
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173339
-    - c-001
 - susijęs iš [[objektai/asmenys/Jonas Potockis.md#claim-t-190070|Jonas Potockis]]: Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Potockio ir Suroveckio raštais.
 - susijęs iš [[objektai/autoriai/Jonas Potockis.md#claim-t-190326|Jonas Potockis]]: Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Potockio ir Suroveckio raštais.
 - susijęs iš [[objektai/autoriai/Tunmanas.md#claim-t-190460|Tunmanas]]: Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potockio ir Suroveckio raštuose.
@@ -81,8 +79,7 @@ Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190456
+
 ## Citatos
 
 - id: c-173339
@@ -96,16 +93,11 @@ Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdi
     jau dėl to, kad buvo rastos Lietuvos žemėje.
     III
     lentelė, 10-asis piešinys.
-  citata_rodoma: |
-    Apie tai byloja ir pats žibintas -
-    aiškus šviesos atributas**.
-    30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-
-    kio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol
-    Nauk. -  Warszawa, 1812).
+  citata_rodoma: "Apie tai byloja ir pats žibintas -\naiškus šviesos atributas**.\n30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-\nkio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol\nNauk. -  Warszawa, 1812)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190456
+    - t-001

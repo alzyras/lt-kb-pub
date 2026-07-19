@@ -30,7 +30,6 @@ Raikovo, NAMINIŲ GYVULIŲ MOKOMASAI STEBĖJIMAS Gausiai iliustruota — apie 60
 
 <a id="claim-t-36085"></a>
 - t-001
-  global_id: t-36085
   teiginys: "Prof. Raikovo „Mokomasis naminių gyvulių stebėjimas“, redaguotas V. Ruzgo, aiškino, kaip geriau pažinti naminius gyvulius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Raikovo, NAMINIŲ GYVULIŲ MOKOMASAI STEBĖJIMAS Gausiai iliustruota — apie 60
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36085
+    - t-001

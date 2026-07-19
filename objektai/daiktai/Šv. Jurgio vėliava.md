@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-87129"></a>
 - t-001
-  global_id: t-87129
   teiginys: "Ordino riteriai, nešini Šv. Jurgio vėliava, puolė į mūšį, bet lietuvių buvo atremti ir su dideliais nuostoliais grįžo prie likusių karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87129
+    - t-001

@@ -39,7 +39,6 @@ Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl., Roma^2 1975.
 
 <a id="claim-t-30503"></a>
 - t-001
-  global_id: t-30503
   teiginys: "A. Dambrausko-Jakšto „Užgesę Žiburiai“ antrasis leidimas 1975 m. išėjo Romoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,15 +67,11 @@ Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl., Roma^2 1975.
 
     A. Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl.,
     Roma^2 1975. 16 dol.
-  citata_rodoma: |
-    Metraštis, VI tomas, spausdinama
-
-    A. Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl.,
-    Roma^2 1975. 16 dol.
+  citata_rodoma: "Metraštis, VI tomas, spausdinama\n\nA. Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl.,\nRoma^2 1975. 16 dol."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30503
+    - t-001

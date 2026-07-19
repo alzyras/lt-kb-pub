@@ -62,8 +62,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 ## Teiginiai
 
 <a id="claim-t-10296"></a>
-- t-001
-  global_id: t-10296
+- t-003
   teiginys: "Lietuvių kariuomenė prie Strėvos upės pavijo grįžtantį priešą po Ordino niokojimų."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -79,8 +78,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     - c-11915
 
 <a id="claim-t-10297"></a>
-- t-002
-  global_id: t-10297
+- t-004
   teiginys: "1348 m. vasario 2 d. Strėvos kautynės vyko ties Žiežmarių brasta, o lietuviai ir rusų daliniai atakavo priešą ietimis ir lankais."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -99,8 +97,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     - c-11916
 
 <a id="claim-t-10298"></a>
-- t-003
-  global_id: t-10298
+- t-005
   teiginys: "Vygando kronika Strėvos mūšį sieja su Ordino maršalu, didžiuoju komtūru, didelės lietuvių ir rusų kariuomenės telkimu ir mirtinu susirėmimu prie Strėvos upės."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -119,8 +116,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     - c-11917
 
 <a id="claim-t-10299"></a>
-- t-004
-  global_id: t-10299
+- t-006
   teiginys: "Strėvos mūšis, nors ir nuostolingas, prisidėjo prie galingo Ordino spaudimo atremimo."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -149,18 +145,15 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     Semeliškių, Aukštadvario, artimesnės Trakų
     ir kt. apylinkės. Atgal grįžtantį priešą prie
     Strėvos upės pavijo Lietuvos kariuomenė.
-  citata_rodoma: |
-    Niokotos galbūt plačiosios
-    Semeliškių, Aukštadvario, artimesnės Trakų
-    ir kt. apylinkės. Atgal grįžtantį priešą prie
-    Strėvos upės pavijo Lietuvos kariuomenė.
+  citata_rodoma: "Niokotos galbūt plačiosios\nSemeliškių, Aukštadvario, artimesnės Trakų\nir kt. apylinkės. Atgal grįžtantį priešą prie\nStrėvos upės pavijo Lietuvos kariuomenė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10296
+    - t-003
+
 - id: c-11916
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -176,23 +169,15 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     Lietuvos kariai rusai šaudydami iš lankų.
     Daug ordino brolių žuvo, tarp jų Gdan-
     sko komtūras, Sembos vyskupo teisėjas.
-  citata_rodoma: |
-    1348 m. vasario 2 d. kautynės ko gero
-    įvyko prie kelio Trakai-Strėvininkai-
-    Kaunas, matyt, ties Žiežmarių brasta.
-    Mūšyje, pirmiausia jo pradžioje, kaip pa-
-    žymi kronikininkas Vygandas, lietuviai
-    priešą atakavo svaidomosiomis ietimis, o
-    Lietuvos kariai rusai šaudydami iš lankų.
-    Daug ordino brolių žuvo, tarp jų Gdan-
-    sko komtūras, Sembos vyskupo teisėjas.
+  citata_rodoma: "1348 m. vasario 2 d. kautynės ko gero\nįvyko prie kelio Trakai-Strėvininkai-\nKaunas, matyt, ties Žiežmarių brasta.\nMūšyje, pirmiausia jo pradžioje, kaip pa-\nžymi kronikininkas Vygandas, lietuviai\npriešą atakavo svaidomosiomis ietimis, o\nLietuvos kariai rusai šaudydami iš lankų.\nDaug ordino brolių žuvo, tarp jų Gdan-\nsko komtūras, Sembos vyskupo teisėjas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10297
+    - t-004
+
 - id: c-11917
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -206,22 +191,15 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     buvo pašaukti rusai iš Vladimiro, iš Brastos, iš Vitebsko, iš Smolensko ir Polocko, ir t. t.
     Jie vejasi grįžtantį maršalą. Ir atsitiko Marijos Įvesdinimo dieną [1348 m. vasario 2 d.
     J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje.
-  citata_rodoma: |
-    1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
-    Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš
-    [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur
-    pagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-
-    tas ugnimi išdegintas. O [lietuvių] karalius sušaukė didelę kariuomenę, kurioje dalyvauti
-    buvo pašaukti rusai iš Vladimiro, iš Brastos, iš Vitebsko, iš Smolensko ir Polocko, ir t. t.
-    Jie vejasi grįžtantį maršalą. Ir atsitiko Marijos Įvesdinimo dieną [1348 m. vasario 2 d.
-    J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje
+  citata_rodoma: "1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis\nVinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš\n[Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur\npagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-\ntas ugnimi išdegintas. O [lietuvių] karalius sušaukė didelę kariuomenę, kurioje dalyvauti\nbuvo pašaukti rusai iš Vladimiro, iš Brastos, iš Vitebsko, iš Smolensko ir Polocko, ir t. t.\nJie vejasi grįžtantį maršalą. Ir atsitiko Marijos Įvesdinimo dieną [1348 m. vasario 2 d.\nJ, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10298
+    - t-005
+
 - id: c-11918
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -238,17 +216,14 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     laimėjimą Ordinui buvo naudinga: tai impo-
     navo Europos riteriams ir vis daugiau jų vi-
     liojo į talką Ordinui žygiuose prieš Lietuvą.
-  citata_rodoma: |
-    Taigi Strėvos mūšis, kad ir patyrus nuos-
-    tolių, įnešė savo indėlį atremiant galingą
-    Ordino spaudimą plataus Lietuvos gyny-
-    binio karo sąlygomis.
+  citata_rodoma: "Taigi Strėvos mūšis, kad ir patyrus nuos-\ntolių, įnešė savo indėlį atremiant galingą\nOrdino spaudimą plataus Lietuvos gyny-\nbinio karo sąlygomis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10299
+    - t-006
+
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)

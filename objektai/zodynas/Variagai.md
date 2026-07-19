@@ -50,7 +50,6 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 
 <a id="claim-t-55271"></a>
 - t-001
-  global_id: t-55271
   teiginys: "IX a. Rusioje pirmieji normanai iš Skandinavijos buvo žinomi variagų vardu."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::vocabulary"
@@ -67,7 +66,6 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 
 <a id="claim-t-55272"></a>
 - t-002
-  global_id: t-55272
   teiginys: "Riurikas ir jo variagai, Balinskio aiškinimu, į Rusią galėjo būti atblokšti Petro Olai aprašyto įvykio."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::vocabulary"
@@ -83,8 +81,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
     - c-55820
 
 <a id="claim-t-82105"></a>
-- t-003
-  global_id: t-82105
+- t-004
   teiginys: "Petro Olai „Danų kronikoje“ aprašytas įvykis siejamas su Riuriko ir jo variagų pasitraukimu į Rusiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::vocabulary"
@@ -101,8 +98,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
     - c-78599
 
 <a id="claim-t-82106"></a>
-- t-004
-  global_id: t-82106
+- t-003
   teiginys: "IX a. Rusioje variagais vadinti skandinavų normanai Baltijos pakrantėse vertėsi plėšikavimu ir prekyba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::vocabulary"
@@ -157,7 +153,8 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55272
+    - t-002
+
 - id: c-78599
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -188,7 +185,8 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82105
+    - t-004
+
 - id: c-78600
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -224,35 +222,12 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
     terram Littwanie, ideo Szomoyth voca­
     tur, quod in Littwanico, terra inferior,
     interpretatur.
-  citata_rodoma: |
-    2
-    Apie Lietuvos ir Žemaitijos tapatu­
-    mą ir apie tą jos dalijimą į aukštuti­
-    nę ir žemutinę sužinome iš kuo pa­
-    tikimiausio šaltinio, iš didžiojo
-    kunigaikščio Vytauto 1420 metais
-    Romos imperatoriui Zigmantui ra-
-    švto laiško: Terra Samaytarum, - pa-
-    14
-
-    ## Puslapis 31
-
-    I  KNYGA
-    Visame tame plote, nuo senų senovės apaugusiame girio­
-    mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
-    ganos medžioklių trobelės. Pirmieji normanai iš Skandina­
-    vijos, IX amžiuje Rusioje žinomi variagų vardu, susivilioję
-    plėšikavimu ir prekyba gintarinėse pakrantėse, atnešė tam
-    tikros pažangos tiems varganiems gyventojams, panašiai
-    kaip ir į Rusios kraštus už Dvinos. Tikriausiai tie žygiai iš
-    Švedijos, Norvegijos ir Danijos, dažnai kartojami į Baltijos
-    pakrantes, davė pradžią legendiniam pasakojimui apie Pa­
-    lemono ir jo Romos riterių3 atvykimą iš Italijos.
+  citata_rodoma: "2\nApie Lietuvos ir Žemaitijos tapatu­\nmą ir apie tą jos dalijimą į aukštuti­\nnę ir žemutinę sužinome iš kuo pa­\ntikimiausio šaltinio, iš didžiojo \nkunigaikščio Vytauto 1420 metais \nRomos imperatoriui Zigmantui ra- \nšvto laiško: Terra Samaytarum, - pa-\n14\n\n## Puslapis 31\n\nI  KNYGA\nVisame tame plote, nuo senų senovės apaugusiame girio­\nmis, palei gausių upių, versmių, ežerų krantus, stovėjo var­\nganos medžioklių trobelės. Pirmieji normanai iš Skandina­\nvijos, IX amžiuje Rusioje žinomi variagų vardu, susivilioję \nplėšikavimu ir prekyba gintarinėse pakrantėse, atnešė tam \ntikros pažangos tiems varganiems gyventojams, panašiai \nkaip ir į Rusios kraštus už Dvinos. Tikriausiai tie žygiai iš \nŠvedijos, Norvegijos ir Danijos, dažnai kartojami į Baltijos \npakrantes, davė pradžią legendiniam pasakojimui apie Pa­\nlemono ir jo Romos riterių3 atvykimą iš Italijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55271
-    - t-82106
+    - t-001
+    - t-003

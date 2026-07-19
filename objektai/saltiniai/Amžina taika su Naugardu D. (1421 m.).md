@@ -36,7 +36,6 @@ Vy­ tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­ kais pr
 
 <a id="claim-t-36033"></a>
 - t-001
-  global_id: t-36033
   teiginys: "Ordinas 1421 metais sudarė amžiną taiką su Didžiuoju Naugardu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,19 +68,11 @@ Vy­ tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­ kais pr
     Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai
     jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų
     žemes.
-  citata_rodoma: |
-    Vy­
-    tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
-    kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
-    susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
-    nas padarė amžiną taiką ir su Naugardu D. (1421). Livonijos
-    Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai
-    jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų
-    žemes.
+  citata_rodoma: "Vy­\ntautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­\nkais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos\nsusirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­\nnas padarė amžiną taiką ir su Naugardu D. (1421). Livonijos\nOrdinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai\njiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų\nžemes."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36033
+    - t-001

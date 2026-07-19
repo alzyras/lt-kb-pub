@@ -41,8 +41,7 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
 ## Teiginiai
 
 <a id="claim-t-171586"></a>
-- t-001
-  global_id: t-171586
+- t-011
   teiginys: "Nugalėjęs Augustą II, Karolis XII 1708 m. puolė Rusiją, bet 1709 m. buvo nugalėtas prie Poltavos ir pralaimėjo karą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
     - c-42072
 
 <a id="claim-t-171587"></a>
-- t-002
-  global_id: t-171587
+- t-006
   teiginys: "Dalis Livonijos aristokratijos, nepatenkintos Karolio XII valdymu, rėmė Augusto II siekius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,7 +99,8 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171586
+    - t-011
+
 - id: c-156074
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -119,20 +118,15 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
     “planams nepritarė seimas, pareika-
     lavęs iš Lietuvos teritorijos išvesti jo
     „ Saksonijos kariuomenę.
-  citata_rodoma: |
-    Augusto II siekius rėmė ir dalis Švedijos kara-
-    liaus Karolio x11 valdymu nepatenkintos
-    Livonijos aristokratijos. Augusto II
-    “planams nepritarė seimas, pareika-
-    lavęs iš Lietuvos teritorijos išvesti jo
-    „ Saksonijos kariuomenę.
+  citata_rodoma: "Augusto II siekius rėmė ir dalis Švedijos kara-\nliaus Karolio x11 valdymu nepatenkintos\nLivonijos aristokratijos. Augusto II\n“planams nepritarė seimas, pareika-\nlavęs iš Lietuvos teritorijos išvesti jo\n„ Saksonijos kariuomenę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171587
+    - t-006
+
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Augustas II]]
 - Karolis XII puolė [[objektai/vietos/Rusija]]

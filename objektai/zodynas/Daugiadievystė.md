@@ -31,7 +31,6 @@ Narbutas daugiadievystę pristatė kaip senovės tautų tikybos klaidą ir nuo j
 
 <a id="claim-t-189220"></a>
 - t-001
-  global_id: t-189220
   teiginys: "Narbutas daugiadievystę pristatė kaip senovės tautų tikybos klaidą ir nuo jos pradėjo svarstymą apie religinius vaizdinius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbutas daugiadievystę pristatė kaip senovės tautų tikybos klaidą ir nuo j
 
 <a id="claim-t-189221"></a>
 - t-002
-  global_id: t-189221
   teiginys: "Narbutas rašė, kad graikai, iš egiptiečių perėmę dalį dangaus kūnų ir Titanų giminės garbinimo, išvystė malonesnę daugiadievystę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,8 @@ Narbutas daugiadievystę pristatė kaip senovės tautų tikybos klaidą ir nuo j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189220
+    - t-001
+
 - id: c-172109
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -118,4 +117,4 @@ Narbutas daugiadievystę pristatė kaip senovės tautų tikybos klaidą ir nuo j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189221
+    - t-002

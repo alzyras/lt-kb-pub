@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54210"></a>
-- t-001
-  global_id: t-54210
+- t-002
   teiginys: "Vytauto politikoje svarbia socialine permaina tapo žemvaldžių riterių sluoksnio kūrimas."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,7 @@ Nenurodyta
     - c-55124
 
 <a id="claim-t-54211"></a>
-- t-002
-  global_id: t-54211
+- t-001
   teiginys: "Vytauto politikoje svarbios buvo socialinės permainos, kuriomis kurtas žemvaldžių riterių sluoksnis."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -105,17 +103,12 @@ Nenurodyta
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje. Iš-
     liko tik mažesnės kunigaikštijos. Tačiau svarbiausios Vytauto politikoje
     buvo socialinės permainos – kuriamas žemvaldžių riterių sluoksnis.
-  citata_rodoma: |
-    Luckas
-    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
-    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje. Iš-
-    liko tik mažesnės kunigaikštijos. Tačiau svarbiausios Vytauto politikoje
-    buvo socialinės permainos – kuriamas žemvaldžių riterių sluoksnis.
+  citata_rodoma: "Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje. Iš-\nliko tik mažesnės kunigaikštijos. Tačiau svarbiausios Vytauto politikoje \nbuvo socialinės permainos – kuriamas žemvaldžių riterių sluoksnis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54210
-    - t-54211
+    - t-002
+    - t-001

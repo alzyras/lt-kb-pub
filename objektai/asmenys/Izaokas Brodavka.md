@@ -7,12 +7,12 @@ datos:
   - '1562 m.'
 date_start: '1562'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Dancigiečiai patys muitų nerinko, jie buvo pavedę tai Dovydui Šmerlevičiui,
 
 <a id="claim-t-202166"></a>
 - t-001
-  global_id: t-202166
   teiginys: "Dancigiečiai patys muitų nerinko, jie buvo pavedę tai Dovydui Šmerlevičiui, Izaokui Brodavkai ir Dovydui Dlugačui."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Dancigiečiai patys muitų nerinko, jie buvo pavedę tai Dovydui Šmerlevičiui,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202166
+    - t-001

@@ -36,8 +36,7 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
 ## Teiginiai
 
 <a id="claim-t-58670"></a>
-- t-001
-  global_id: t-58670
+- t-003
   teiginys: "1317 m. žiemą maršalas Henrikas su broliais bei Sembos ir Notangos kariais nužygiavo prieš Vaikių valsčių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
     - c-59304
 
 <a id="claim-t-58671"></a>
-- t-002
-  global_id: t-58671
+- t-001
   teiginys: "Vieno žygio į Vaikių valsčių metu iš pasalų buvo nukauta daug kilmingųjų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,17 +81,15 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
     tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė į valsčių, vardu Vaikiai545, kur
     — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
     sykių jis stojo prieš juos į kovą.
-  citata_rodoma: |
-    Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur
-    — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
-    sykių jis stojo prieš juos  į kovą.
+  citata_rodoma: "Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur\n— irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek\nsykių jis stojo prieš juos  į kovą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58671
+    - t-001
+
 - id: c-59304
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -118,4 +114,4 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58670
+    - t-003

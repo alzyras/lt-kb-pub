@@ -31,7 +31,6 @@ Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame
 
 <a id="claim-t-189053"></a>
 - t-001
-  global_id: t-189053
   teiginys: "Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame galėjęs augti šventasis ąžuolas arba būti šventykla."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189053
+    - t-001

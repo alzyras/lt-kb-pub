@@ -42,24 +42,11 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194798"></a>
-- t-001
-  global_id: t-194798
-  teiginys: 'Tą lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy nui, tas tučtuojau siunčia tolyn, kol paskutinis iš eilės atneša atgal vaitui; kiekvienas, gavęs tokį ženklą, yra įpareigotas ne delsiant atvykti į valsčiaus susirinkimo vietą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-177194
-
-## Citatos
-
-- id: c-177194
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Tą lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy nui, tas tučtuojau siunčia tolyn, kol paskutinis iš eilės atneša atgal vaitui; kiekvienas, gavęs tokį ženklą, yra įpareigotas ne delsiant atvykti į valsčiaus susirinkimo vietą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Jau ir šiaip žinome, ir anksčiau sakėme, kad
     kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
@@ -79,10 +66,8 @@ Nenurodyta
     nui, tas tučtuojau siunčia tolyn, kol paskutinis iš eilės atneša
     atgal vaitui; kiekvienas, gavęs tokį ženklą, yra įpareigotas ne­
     delsiant atvykti į valsčiaus susirinkimo vietą.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194798
+  statusas: verified

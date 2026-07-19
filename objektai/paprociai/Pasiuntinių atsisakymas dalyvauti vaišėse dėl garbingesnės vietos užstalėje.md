@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-185881"></a>
 - t-001
-  global_id: t-185881
   teiginys: "Maskvos pasiuntiniai Krokuvoje atsisakė dalyvauti karaliaus vaišėse, nenorėdami varžytis dėl garbingesnės vietos užstalėje su kitais pasiuntiniais."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185881
+    - t-001

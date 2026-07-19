@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-39256"></a>
 - t-001
-  global_id: t-39256
   teiginys: "Kalavijai kartu su ietimis buvo pagrindiniai kariuomenės ginklai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +68,6 @@ Nenurodyta
 
 <a id="claim-t-183686"></a>
 - t-002
-  global_id: t-183686
   teiginys: "Lietuvos kariuomenės dalinių pagrindiniai ginklai buvo ietys ir kalavijai."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -89,7 +87,6 @@ Nenurodyta
 
 <a id="claim-t-192500"></a>
 - t-003
-  global_id: t-192500
   teiginys: "Narbutas pasakoja, kad Starkateras liepė apsiūti kalaviją plona oda, kad Vizino burtai jo nepaveiktų dvikovoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -159,7 +156,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39256
+    - t-001
+
 - id: c-167077
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -179,7 +177,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183686
+    - t-002
+
 - id: c-175290
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -199,4 +198,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192500
+    - t-003

@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-67028"></a>
 - t-001
-  global_id: t-67028
   teiginys: "Žygyje prieš varmius, notangus ir bartus broliai prie būsimos Baigos apiplėšė kaimus, o prūsai juos užpuolė ir išžudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-67029"></a>
 - t-002
-  global_id: t-67029
   teiginys: "Varmės puolimas, aprašytas pasakojime apie žygį prieš varmius, notangus ir bartus, įvyko 1238 m. vasarą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -104,7 +102,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67029
+    - t-002
+
 - id: c-67092
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -132,4 +131,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67028
+    - t-001

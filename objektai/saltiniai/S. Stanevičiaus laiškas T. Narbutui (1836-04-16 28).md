@@ -32,29 +32,11 @@ media_all_json: |-
 
 Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose rašytu laišku Teodorui Narbutui patvirtino Narbuto minimą teiginį.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-191854"></a>
-- t-001
-  global_id: t-191854
-  teiginys: 'Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose rašytu laišku Teodorui Narbutui patvirtino Narbuto minimą teiginį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys sutvarkytas pagal citatoje nurodytą datą ir vietą, aiškiai įvardijant Stanevičių ir Narbutą. Paties patvirtinto teiginio turinys nepridėtas, nes citata jo nepateikia.'
-  susije_objektai: 'mentioned_place: Raseiniai'
-  temporaliniai_duomenys: 'įvykio data: 1836 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys sutvarkytas pagal citatoje nurodytą datą ir vietą, aiškiai įvardijant Stanevičių ir Narbutą. Paties patvirtinto teiginio turinys nepridėtas, nes citata jo nepateikia.'
-  pagrindžia:
-    - c-174736
-
-## Citatos
-
-- id: c-174736
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose rašytu laišku Teodorui Narbutui patvirtino Narbuto minimą teiginį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Taip tvirtina ponas Simonas
     Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio au­
@@ -67,10 +49,8 @@ Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose rašytu laišku Teodor
     LT1
     leidimą
     (PEĮ.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191854
+  statusas: verified

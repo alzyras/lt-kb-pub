@@ -31,7 +31,6 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
 
 <a id="claim-t-194950"></a>
 - t-001
-  global_id: t-194950
   teiginys: "Labai vaizdžiai ir gyvai ap rašyta vieno keliautojo kelionės su įvairiausiais nuotykiais ir pavojais po Arabiją, Afriką, Mezopotamiją."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194950
+    - t-001

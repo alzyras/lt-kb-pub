@@ -7,14 +7,14 @@ datos:
   - '1510 m.'
 date_start: '1510'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
 
 <a id="claim-t-202175"></a>
 - t-001
-  global_id: t-202175
   teiginys: "Štai apie 1510 m. Kauno miestietis Jonas Jurevičius tvirtino, kad pas Kėdainių miestietį Pacų Raukutį yra sudėtos jo prekės: 7laštai druskos, beveik 7 audinių rietimai, varinis katilas, vaškas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202175
+    - t-001

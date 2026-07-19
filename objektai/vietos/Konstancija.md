@@ -31,7 +31,6 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
 
 <a id="claim-t-36321"></a>
 - t-001
-  global_id: t-36321
   teiginys: "Į Konstancijos miestą, kuriame šauktas susirinkimas, suvažiavo dvasininkai, kunigaikščiai, diduomenė ir riteriai iš visos Europos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
 
 <a id="claim-t-36322"></a>
 - t-002
-  global_id: t-36322
   teiginys: "Vytautas grasino Livonijos ordiną apskųsti Konstancijos susirinkimui dėl jo sutarties su Pskovu prieš Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
 
 <a id="claim-t-36323"></a>
 - t-003
-  global_id: t-36323
   teiginys: "Vytautas ir Jogaila susitaikė, nes prieš Konstancijos suvažiavimą abiem rūpėjo kryžiuočių klausimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +79,6 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
 
 <a id="claim-t-184304"></a>
 - t-004
-  global_id: t-184304
   teiginys: "Į Konstanciją, kur buvo šaukiamas Bažnyčios susirinkimas, suvažiavo dvasininkai, kunigaikščiai, diduomenė ir riteriai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -102,7 +98,6 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
 
 <a id="claim-t-184305"></a>
 - t-005
-  global_id: t-184305
   teiginys: "Vytautas ir Jogaila susitaikė, nes abiem rūpėjo kryžiuočių klausimas, susijęs su Konstancijoje vykusiu suvažiavimu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -201,7 +196,8 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36321
+    - t-001
+
 - id: c-37466
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -222,7 +218,8 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36323
+    - t-003
+
 - id: c-38525
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -239,21 +236,15 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
     kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
     susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
     nas padarė amžiną taiką ir su Naugardu D. (1421).
-  citata_rodoma: |
-    Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris
-    tuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­
-    darė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą. Vy­
-    tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
-    kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
-    susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
-    nas padarė amžiną taiką ir su Naugardu D.
+  citata_rodoma: "Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris\ntuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­\ndarė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą. Vy­\ntautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­\nkais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos\nsusirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­\nnas padarė amžiną taiką ir su Naugardu D."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36322
+    - t-002
+
 - id: c-167677
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -275,7 +266,8 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184304
+    - t-004
+
 - id: c-167678
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -297,4 +289,4 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184305
+    - t-005

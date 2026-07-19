@@ -43,30 +43,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-189669"></a>
-- t-001
-  global_id: t-189669
-  teiginys: "Narbutas rašė, kad ąžuolo amalas jo aplinkoje buvo didelė retenybė."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Žyniai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ąžuolo amalas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Žyniai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ąžuolo amalas\" parinktas kaip owner_note_path. Targetas \"Žyniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172552
-
 <a id="claim-t-197247"></a>
 - t-002
-  global_id: t-197247
   teiginys: "Šis tėvynės paminklų brangintojas liepė iš trūnijusiame šio ąžuolo kamiene įrengti kabinetą, turintį 7 uolekčių, 18 co lių skersmenį, kuriame dabar jis laiko retų senienų kolekciją ir istorijos veikalus apie krašto praeitį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -79,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-197248"></a>
 - t-003
-  global_id: t-197248
   teiginys: "Mitologinis šio ąžuolo vardas yra Baublys (Baublis); žemaičių tarmėje tai turėtų reikšti buliaus balso apibūdinimą, balso, kokiu nebliauna nei karvė, nei jautis14."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -112,8 +89,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189669
-    - t-197248
+    - t-003
+
 - id: c-179085
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -139,4 +116,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197247
+    - t-002

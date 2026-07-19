@@ -38,7 +38,6 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
 
 <a id="claim-t-86730"></a>
 - t-001
-  global_id: t-86730
   teiginys: "1560 m. Vilniuje vykusiame Lietuvos Didžiosios Kunigaikštystės Ponų Tarybos seime karalius leido bajorams rinkti delegatus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
     - c-82711
 
 <a id="claim-t-86731"></a>
-- t-002
-  global_id: t-86731
+- t-004
   teiginys: "Žygimantas Augustas Lietuvos ir Lenkijos ponų tarybų patarimu įsakė nustatyti lietuviškos monetos vertę lenkiškais grašiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
     - c-82710
 
 <a id="claim-t-86732"></a>
-- t-003
-  global_id: t-86732
+- t-002
   teiginys: "Po valdovo mirties ponų tarybos nariai buvo kviečiami atvykti prie mirusio valdovo kūno ir spręsti Respublikai kilusius pavojus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +88,7 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
     - c-82712
 
 <a id="claim-t-86733"></a>
-- t-004
-  global_id: t-86733
+- t-003
   teiginys: "Pinigus, gautus už Maskvos kalinius ir atgabentus iš Gdansko, siūlyta sulaikyti iki ponų tarybos narių suvažiavimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -143,7 +139,8 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86733
+    - t-003
+
 - id: c-82710
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -181,7 +178,8 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86731
+    - t-004
+
 - id: c-82711
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -204,7 +202,8 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86730
+    - t-001
+
 - id: c-82712
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -234,4 +233,4 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86732
+    - t-002

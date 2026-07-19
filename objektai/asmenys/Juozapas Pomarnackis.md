@@ -40,7 +40,6 @@ Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių ka
 
 <a id="claim-t-190166"></a>
 - t-001
-  global_id: t-190166
   teiginys: "Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių kapinyno kasinėjimus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių ka
 
 <a id="claim-t-190898"></a>
 - t-002
-  global_id: t-190898
   teiginys: "Juozapas Pomarnackis padovanojo Narbutui radinius ir atsiuntė jų atradimo aprašymą, datuotą 1839 m. lapkričio 10 d."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -104,7 +102,8 @@ Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190166
+    - t-001
+
 - id: c-173780
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -124,4 +123,4 @@ Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190898
+    - t-002

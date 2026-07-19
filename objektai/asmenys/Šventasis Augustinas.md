@@ -31,7 +31,6 @@ Narbutas rašė, kad Šventasis Augustinas kryžiaus ženklą siejo su egiptieč
 
 <a id="claim-t-190121"></a>
 - t-001
-  global_id: t-190121
   teiginys: "Narbutas rašė, kad Šventasis Augustinas kryžiaus ženklą siejo su egiptiečių amžinojo gyvenimo vaizdavimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas rašė, kad Šventasis Augustinas kryžiaus ženklą siejo su egiptieč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190121
+    - t-001

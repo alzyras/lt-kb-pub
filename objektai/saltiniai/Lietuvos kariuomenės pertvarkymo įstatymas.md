@@ -31,7 +31,6 @@ Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo L
 
 <a id="claim-t-21170"></a>
 - t-001
-  global_id: t-21170
   teiginys: "Liepos 3 d. priimtu Lietuvos kariuomenės pertvarkymo įstatymu kariuomenė tapo Liaudies kariuomene."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo L
 
 <a id="claim-t-183371"></a>
 - t-002
-  global_id: t-183371
   teiginys: "Liepos 3 d. priimtu Lietuvos kariuomenės pertvarkymo įstatymu Lietuvos kariuomenė tapo Liaudies kariuomene."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -79,15 +77,15 @@ Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo L
     muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
     kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
     liau – Raudonosios armijos 29-uoju šaulių korpusu).
-  citata_rodoma: |
-    kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
+  citata_rodoma: "kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21170
+    - t-001
+
 - id: c-166764
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -104,4 +102,4 @@ Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183371
+    - t-002

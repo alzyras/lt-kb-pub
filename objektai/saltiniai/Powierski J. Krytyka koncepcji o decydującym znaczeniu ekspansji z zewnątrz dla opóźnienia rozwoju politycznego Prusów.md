@@ -36,7 +36,6 @@ Dusburgietis teigia, kad powierski J.
 
 <a id="claim-t-61241"></a>
 - t-001
-  global_id: t-61241
   teiginys: "J. Powierskio straipsnis apie išorinės ekspansijos reikšmę prūsų politinės raidos vėlavimui paskelbtas 1977 m. ABS 11 tome."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Dusburgietis teigia, kad powierski J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61241
+    - t-001

@@ -36,7 +36,6 @@ Juču jis sudarė rinkinį «Lietuvos inventoriai XVII amž. » (1962).
 
 <a id="claim-t-31812"></a>
 - t-001
-  global_id: t-31812
   teiginys: "Rinkinys „Lietuvos inventoriai XVII amž.“ buvo sudarytas drauge su M. Juču ir išleistas 1962 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,13 +65,11 @@ Juču jis sudarė rinkinį «Lietuvos inventoriai XVII amž. » (1962).
     ir spaudai parengtas R. Jaso ir J. Ordos, dar buvo spėtas Ja­
     blonskio suredaguoti (1961). Drauge su M. Juču jis sudarė rinkinį
     «Lietuvos inventoriai XVII amž. » (1962).
-  citata_rodoma: |
-    Drauge su M. Juču jis sudarė rinkinį
-    «Lietuvos inventoriai XVII amž. » (1962).
+  citata_rodoma: "Drauge su M. Juču jis sudarė rinkinį\n«Lietuvos inventoriai XVII amž. » (1962)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31812
+    - t-001

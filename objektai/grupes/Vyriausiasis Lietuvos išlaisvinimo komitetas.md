@@ -40,8 +40,7 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
 ## Teiginiai
 
 <a id="claim-t-66324"></a>
-- t-001
-  global_id: t-66324
+- t-003
   teiginys: "1943 m. gegužę–birželį gestapas suėmė šešis iš devynių Vyriausiojo Lietuvos išlaisvinimo komiteto vadovybės narių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
     - c-66609
 
 <a id="claim-t-66326"></a>
-- t-002
-  global_id: t-66326
+- t-004
   teiginys: "Iš Europos į JAV persikėlęs VLIK siekė veikti išvien su ALT ir PLB bei tarptautiniu mastu pasitarnauti Lietuvos laisvės bylai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,15 +96,15 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
     lio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vy-
     riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien
     ir pasitarnauti Lietuvos laisvės bylai tarptautiniu mastu.
-  citata_rodoma: |
-    riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien
+  citata_rodoma: "riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66326
+    - t-004
+
 - id: c-66609
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -125,12 +123,11 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
     klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
     suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
     grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
-  citata_rodoma: |
-    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
+  citata_rodoma: "klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66324
+    - t-003

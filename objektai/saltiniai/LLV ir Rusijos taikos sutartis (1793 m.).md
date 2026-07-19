@@ -37,7 +37,6 @@ Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdomame Gardine 1
 
 <a id="claim-t-21099"></a>
 - t-001
-  global_id: t-21099
   teiginys: "1793 m. Gardino Seimas turėjo pritarti naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,12 +67,11 @@ Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdomame Gardine 1
     žemės. Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-
     mame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti
     naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
-  citata_rodoma: |
-    naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
+  citata_rodoma: "naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21099
+    - t-001

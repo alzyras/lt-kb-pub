@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185819"></a>
 - t-001
-  global_id: t-185819
   teiginys: "1292 m. Meinhardas sutelkė kariuomenę žygiui į Lietuvą, bet įspėtas apie išdavystę atsitraukė į Prūsiją prieš prasidedant kovai."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -72,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-196223"></a>
 - t-002
-  global_id: t-196223
   teiginys: "Kojelavičiaus pasakojime Meinhardas, sumanęs atkeršyti, 1292 m. sutelkė kariuomenę žygiui į Lietuvą, bet įspėtas apie išdavystę pasitraukė į Prūsiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -131,5 +129,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185819
-    - t-196223
+    - t-001
+    - t-002

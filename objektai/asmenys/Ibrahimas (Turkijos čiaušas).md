@@ -40,8 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87512"></a>
-- t-001
-  global_id: t-87512
+- t-002
   teiginys: "Turkijos čiaušas Ibrahimas su dvidešimt dviem tarnais turėjo būti aprūpintas nakvyne Vilniaus mieste."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ media_all_json: |-
     - c-83492
 
 <a id="claim-t-87513"></a>
-- t-002
-  global_id: t-87513
+- t-001
   teiginys: "Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,7 +137,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87513
+    - t-001
+
 - id: c-83492
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -162,4 +161,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87512
+    - t-002

@@ -41,7 +41,6 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
 
 <a id="claim-t-19073"></a>
 - t-001
-  global_id: t-19073
   teiginys: "Kristijono Donelaičio poema „Metai“ apie 1750 m. Mažojoje Lietuvoje iškilo kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
 
 <a id="claim-t-19074"></a>
 - t-002
-  global_id: t-19074
   teiginys: "Liudvikas Rėza Karaliaučiuje išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
     - c-21834
 
 <a id="claim-t-183556"></a>
-- t-003
-  global_id: t-183556
+- t-004
   teiginys: "Kristijono Donelaičio poema „Metai“ 1818 m. Karaliaučiuje išleista Liudviko Rėzos su vertimu į vokiečių kalbą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -118,15 +115,15 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
     kas daugiau nei pačioje Lietuvoje. Mažojoje Lietuvoje iškilo ir pirmasis
     reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
     laičio poema „Metai“ (apie 1750).
-  citata_rodoma: |
-    reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
+  citata_rodoma: "reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19073
+    - t-001
+
 - id: c-21834
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -138,15 +135,15 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
     mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
     Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
     poe­ma „Metai“ (su vertimu į vokiečių kalbą).
-  citata_rodoma: |
-    Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
+  citata_rodoma: "Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19074
+    - t-002
+
 - id: c-166949
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -163,4 +160,4 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183556
+    - t-004

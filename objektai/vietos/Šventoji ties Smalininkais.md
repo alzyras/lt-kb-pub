@@ -27,26 +27,11 @@ media_all_json: |-
 
 Šventoji (Swięta) ties Smalininkais minima kaip upė, įtekanti į Nemuną žemiau Jurbarko prie Prūsijos sienos.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189093"></a>
-- t-001
-  global_id: t-189093
-  teiginys: 'Šventoji (Swięta) ties Smalininkais minima kaip upė, įtekanti į Nemuną žemiau Jurbarko prie Prūsijos sienos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas vietos subjektas ir pašalinti puslapio bei OCR triukšmo fragmentai. Nepridėta ankstesnė religinė interpretacija apie šventinimą.'
-  susije_objektai: 'mentioned_place: Jurbarkas; mentioned_place: Prūsija; mentioned_place: Smalininkai; mentioned_place: Šventoji; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
-  pagrindžia:
-    - c-171981
-
-## Citatos
-
-- id: c-171981
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Šventoji (Swięta) ties Smalininkais minima kaip upė, įtekanti į Nemuną žemiau Jurbarko prie Prūsijos sienos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Kad
     krikščionių kunigas ją šventino, to negalima nuginčyti: pirma,
@@ -59,10 +44,8 @@ media_all_json: |-
     2. Upė, įtekanti į Nemuną žemiau Jurbarko, ties Smali­
     ninkais, kur eina Prūsijos siena, taip pat vadinasi Šventoji (Swi-
     ęta).
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189093
+  statusas: verified

@@ -37,8 +37,7 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
 ## Teiginiai
 
 <a id="claim-t-89528"></a>
-- t-001
-  global_id: t-89528
+- t-003
   teiginys: "Pirmasis „Lietuvos TSR istorijos šaltinių“ tomas išleistas Vilniuje 1955 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
 
 <a id="claim-t-89530"></a>
 - t-002
-  global_id: t-89530
   teiginys: "Kai kurios Dusburgiečio kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,12 +73,11 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
   temporalinis_llm_pakomentavimas: "Teiginys iš esmės palaikomas, bet reikėjo pašalinti boilerplate ir išnašos numerį."
   pagrindžia:
     - c-85474
-    - c-001
+
 <a id="claim-t-89531"></a>
-- t-003
-  global_id: t-89531
+- t-004
   teiginys: "Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -96,7 +93,7 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-85474
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai kurios Dusburgiečio kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“.'
@@ -113,9 +110,8 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89530
-    - t-89531
+- t-89531
+
 ## Citatos
 
 - id: c-85474
@@ -131,18 +127,16 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
     pradedant Torune (1231 m.), lakoniškai pasakojama apie mūšius „zu Kuwerlant“
     1260 m. (t. y. Kurše— Durbė), „zu Pocarwen“ ir kt., apie Vokietijos, Čekijos hercogų,
     markgrafų, karalių atvykimą į Prūsiją.
-  citata_rodoma: |
-    Kai kurios
-    kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96. Pilnas
-    kronikos vertimas čia publikuojamas pirmą kartą.
+  citata_rodoma: "Kai kurios\nkronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96. Pilnas\nkronikos vertimas čia publikuojamas pirmą kartą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89530
-    - t-89531
+    - t-002
+    - t-004
+
 - id: c-85476
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -155,4 +149,4 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89528
+    - t-003

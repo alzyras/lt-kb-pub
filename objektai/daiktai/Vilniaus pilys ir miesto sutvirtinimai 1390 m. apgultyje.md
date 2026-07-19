@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-87015"></a>
 - t-001
-  global_id: t-87015
   teiginys: "1390 m. apgultyje prie Žemutinės pilies šliejosi nedidelis Vilniaus miesto centras su mediniais namais, tvoromis ir grioviais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +75,6 @@ Nenurodyta
 
 <a id="claim-t-87016"></a>
 - t-002
-  global_id: t-87016
   teiginys: "1390 m. Vilniaus apgultyje vienai iš trijų miesto pilių, vadintai Krautuvių pilimi, vadovavo Jogailos brolis Kazimieras Karigaila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,6 @@ Nenurodyta
 
 <a id="claim-t-87017"></a>
 - t-003
-  global_id: t-87017
   teiginys: "1390 m. Vilniaus apgultyje Aukštutinę pilį gynė lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -165,7 +162,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87017
+    - t-003
+
 - id: c-82995
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -186,7 +184,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87015
+    - t-001
+
 - id: c-82996
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -220,4 +219,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87016
+    - t-002

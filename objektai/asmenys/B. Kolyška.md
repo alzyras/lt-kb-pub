@@ -30,8 +30,7 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
 ## Teiginiai
 
 <a id="claim-t-40053"></a>
-- t-001
-  global_id: t-40053
+- t-004
   teiginys: "B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais pateko į nelaisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
     - c-44301
 
 <a id="claim-t-40054"></a>
-- t-002
-  global_id: t-40054
+- t-001
   teiginys: "Z. Sierakauskas B. Kolyškai pavedė vadovauti vienai sukilėlių kariuomenės kolonai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
 
 <a id="claim-t-40055"></a>
 - t-003
-  global_id: t-40055
   teiginys: "B. Kolyška norėjo su savo kariais vytis priešą, tačiau Z. Sierakauskas to neleido."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +79,7 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
     - c-44300
 
 <a id="claim-t-40056"></a>
-- t-004
-  global_id: t-40056
+- t-002
   teiginys: "B. Kolyška vadovavo pirmajai sukilėlių kolonai, pasiekusiai Medeikių kaimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -124,7 +120,8 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40056
+    - t-002
+
 - id: c-44299
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -140,19 +137,15 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
     Genujos-Cuneo karo mokyklos, ruošusios
     karininkus partizaninei kovai, absolven-
     tui B. Kolyškai.
-  citata_rodoma: |
-    Vienai kolonai
-    pavedė vadovauti A. Mackevičių, kitą —
-    Genujos-Cuneo karo mokyklos, ruošusios
-    karininkus partizaninei kovai, absolven-
-    tui B. Kolyškai.
+  citata_rodoma: "Vienai kolonai\npavedė vadovauti A. Mackevičių, kitą —\nGenujos-Cuneo karo mokyklos, ruošusios\nkarininkus partizaninei kovai, absolven-\ntui B. Kolyškai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40054
+    - t-001
+
 - id: c-44300
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -165,18 +158,15 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
     kariais vytis priešą, tačiau to neleido vy-
     riausiasis vadas Z. Sierakauskas, nuspren-
     dęs palaukti A. Mackevičiaus batalionų.
-  citata_rodoma: |
-    B. Kolyška norėjo su savo
-    kariais vytis priešą, tačiau to neleido vy-
-    riausiasis vadas Z. Sierakauskas, nuspren-
-    dęs palaukti A. Mackevičiaus batalionų.
+  citata_rodoma: "B. Kolyška norėjo su savo\nkariais vytis priešą, tačiau to neleido vy-\nriausiasis vadas Z. Sierakauskas, nuspren-\ndęs palaukti A. Mackevičiaus batalionų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40055
+    - t-003
+
 - id: c-44301
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -192,18 +182,11 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
     linys. Į nelaisvę pakliuvo Z. Sierakauskas,
     B. Kolyška, S. Kozakauskas ir dar keletas
     karininkų.
-  citata_rodoma: |
-    Vilniaus karo apygardos Karo veiksmų
-
-    juos miegančius gegužės 10 naktį apsupo ir
-    paėmė į nelaisvę paporučikio fon Gaso da-
-    linys. Į nelaisvę pakliuvo Z. Sierakauskas,
-    B. Kolyška, S. Kozakauskas ir dar keletas
-    karininkų.
+  citata_rodoma: "Vilniaus karo apygardos Karo veiksmų\n\njuos miegančius gegužės 10 naktį apsupo ir\npaėmė į nelaisvę paporučikio fon Gaso da-\nlinys. Į nelaisvę pakliuvo Z. Sierakauskas,\nB. Kolyška, S. Kozakauskas ir dar keletas\nkarininkų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40053
+    - t-004

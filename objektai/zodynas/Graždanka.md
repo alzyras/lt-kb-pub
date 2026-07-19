@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-52506"></a>
-- t-001
-  global_id: t-52506
+- t-004
   teiginys: "Rusų administracija pripažino, kad lietuviai graždankos nepriėmė."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,7 @@ Nenurodyta
     - c-00275
 
 <a id="claim-t-52507"></a>
-- t-002
-  global_id: t-52507
+- t-005
   teiginys: "Rusų administracija Lietuvoje siūlė panaikinti spaudos draudimą, nes lietuviai neprisiėmė rusų raidžių, vadinamų graždanka."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,6 @@ Nenurodyta
 
 <a id="claim-t-52508"></a>
 - t-003
-  global_id: t-52508
   teiginys: "Graždanka vadintos rusų raidės, kurias lietuviai atsisakė priimti lietuviškai spaudai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -119,17 +116,13 @@ Nenurodyta
     buvo Lietuvoje veikiančios Rusų administracijos. Ji siūlė todėl
     panaikinti draudimą, kad jis nepasiekęs tikslo — lietuviai rusų
     raidžių (vad. graždankos) neprisiėmę.
-  citata_rodoma: |
-    Bet visų svarbiausias tuo reikalu palankus balsas
-    buvo Lietuvoje veikiančios Rusų administracijos. Ji siūlė todėl
-    panaikinti draudimą, kad jis nepasiekęs tikslo — lietuviai rusų
-    raidžių (vad. graždankos) neprisiėmę.
+  citata_rodoma: "Bet visų svarbiausias tuo reikalu palankus balsas\nbuvo Lietuvoje veikiančios Rusų administracijos. Ji siūlė todėl\npanaikinti draudimą, kad jis nepasiekęs tikslo — lietuviai rusų\nraidžių (vad. graždankos) neprisiėmę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-52506
-    - t-52507
-    - t-52508
+    - t-004
+    - t-005
+    - t-003

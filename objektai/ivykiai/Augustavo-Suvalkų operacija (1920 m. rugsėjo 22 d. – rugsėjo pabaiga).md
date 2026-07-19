@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66458"></a>
-- t-001
-  global_id: t-66458
+- t-006
   teiginys: "1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-66689
 
 <a id="claim-t-66459"></a>
-- t-002
-  global_id: t-66459
+- t-008
   teiginys: "Augustavo-Suvalkų operacijos metu lenkų pajėgos spalio 3-4 d. užėmė Varėną, svarbų transporto mazgą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -88,8 +86,7 @@ Nenurodyta
     - c-66688
 
 <a id="claim-t-66460"></a>
-- t-003
-  global_id: t-66460
+- t-010
   teiginys: "Visos operacijos metu Lietuvos pajėgos prarado daugiau nei 2 000 karių."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -105,8 +102,7 @@ Nenurodyta
     - c-66690
 
 <a id="claim-t-66461"></a>
-- t-004
-  global_id: t-66461
+- t-007
   teiginys: "Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir puolė Varėnos kryptimi."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -122,8 +118,7 @@ Nenurodyta
     - c-11819
 
 <a id="claim-t-66462"></a>
-- t-005
-  global_id: t-66462
+- t-009
   teiginys: "Rugsėjo pabaigoje Lietuvos pajėgos patyrė didelius nuostolius, įskaitant sunaikintus batalionus ir baterijas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -158,7 +153,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66461
+    - t-007
+
 - id: c-11821
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -182,7 +178,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66462
+    - t-009
+
 - id: c-66688
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -202,7 +199,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66459
+    - t-008
+
 - id: c-66689
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -221,7 +219,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66458
+    - t-006
+
 - id: c-66690
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -243,4 +242,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66460
+    - t-010

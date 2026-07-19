@@ -33,7 +33,6 @@ Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lyg
 
 <a id="claim-t-59176"></a>
 - t-001
-  global_id: t-59176
   teiginys: "Prūsai laikėsi papročio vaišėse gerti po lygiai ir be saiko, kol nusigerdavo svečias ir namiškiai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lyg
 
 <a id="claim-t-197055"></a>
 - t-002
-  global_id: t-197055
   teiginys: "Dėl to žmoną laiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam tikromis dienomis plauna kojas namiškiams ir svečiams212."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,6 +77,7 @@ Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lyg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-59808
@@ -96,17 +95,12 @@ Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lyg
     elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
     tinkami. Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik
     tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213.
-  citata_rodoma: |
-    Turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui
-    namiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką
-    išgėrus, ir svečias privaląs tiek pat išgerti; tokios gėrynės taip ilgai tęsiasi, iki nusigeria
-    visi: svečias su namiškiais, žmona su vyru, sūnus su dukterimi. Pagal seną paprotį, kurį
-    prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211.
+  citata_rodoma: "Turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui\nnamiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką\nišgėrus, ir svečias privaląs tiek pat išgerti; tokios gėrynės taip ilgai tęsiasi, iki nusigeria\nvisi: svečias su namiškiais, žmona su vyru, sūnus su dukterimi. Pagal seną paprotį, kurį\nprūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59176
-    - t-197055
+    - t-001
+    - t-002

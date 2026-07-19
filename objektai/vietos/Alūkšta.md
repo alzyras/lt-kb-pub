@@ -37,7 +37,6 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 
 <a id="claim-t-21342"></a>
 - t-001
-  global_id: t-21342
   teiginys: "1917 m. Berno konferencijoje Alūkštos apskritį Kurše iki Dauguvos upės numatyta įtraukti į būsimos Lietuvos teritoriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,12 +88,11 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
     apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
     be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
     ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
-  citata_rodoma: |
-    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+  citata_rodoma: "apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21342
+    - t-001

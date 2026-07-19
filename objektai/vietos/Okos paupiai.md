@@ -31,7 +31,6 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
 
 <a id="claim-t-193276"></a>
 - t-001
-  global_id: t-193276
   teiginys: "Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193276
+    - t-001

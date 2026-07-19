@@ -34,8 +34,7 @@ Zajączkowski, St.
 ## Teiginiai
 
 <a id="claim-t-54141"></a>
-- t-001
-  global_id: t-54141
+- t-002
   teiginys: "St. Zajączkowski 1926 m. paskelbė darbą „Przymierze polsko-litewskie 1325 r.“."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -64,15 +63,11 @@ Zajączkowski, St.
     St. : _Przymierze polsko-litewskie 1325 r.,_ KH, t. 40, 1926, 567-617 p. —
     (”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_
     Lwów 1929 (daug apie 1325 m. sutartį; panaudoja W. de Machaut).
-  citata_rodoma: |
-    Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,
-    St. : _Przymierze polsko-litewskie 1325 r.,_ KH, t. 40, 1926, 567-617 p. —
-    (”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_
-    Lwów 1929 (daug apie 1325 m. sutartį; panaudoja W. de Machaut).
+  citata_rodoma: "Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,\nSt. : _Przymierze polsko-litewskie 1325 r.,_ KH, t. 40, 1926, 567-617 p. —\n(”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_\nLwów 1929 (daug apie 1325 m. sutartį; panaudoja W. de Machaut)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54141
+    - t-002

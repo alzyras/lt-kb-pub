@@ -31,7 +31,6 @@ Pačiame tekste yra pažymėta, kad be ma­ gistro ir Jogailos savo antspaudas p
 
 <a id="claim-t-35975"></a>
 - t-001
-  global_id: t-35975
   teiginys: "Dokumento tekste frazė „Kinstutte herczoge czu Tracken und Wytould unsir son“ nurodo Kęstutį, Trakų kunigaikštį, ir jo sūnų Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,14 +62,11 @@ Pačiame tekste yra pažymėta, kad be ma­ gistro ir Jogailos savo antspaudas p
     lyvavo ir Vytautas. Pačiame tekste yra pažymėta, kad be ma­
     gistro ir Jogailos savo antspaudas prie dokumentų prikabino
     „Kinstutte herczoge czu Tracken und Wytould unsir son“.
-  citata_rodoma: |
-    Pačiame tekste yra pažymėta, kad be ma­
-    gistro ir Jogailos savo antspaudas prie dokumentų prikabino
-    „Kinstutte herczoge czu Tracken und Wytould unsir son“.
+  citata_rodoma: "Pačiame tekste yra pažymėta, kad be ma­\ngistro ir Jogailos savo antspaudas prie dokumentų prikabino\n„Kinstutte herczoge czu Tracken und Wytould unsir son“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35975
+    - t-001

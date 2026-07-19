@@ -3,8 +3,8 @@ tipas: vieta
 pavadinimas: 'Dancigas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1325 m.'
   - '1466 m.'
@@ -12,14 +12,14 @@ datos:
   - '1936 m.'
 date_start: '1325'
 date_end: '1936'
+amziai:
+  - 'XIV'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
-amziai:
-  - 'XIV'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -62,8 +62,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 ## Teiginiai
 
 <a id="claim-t-182720"></a>
-- t-001
-  global_id: t-182720
+- t-061
   teiginys: "Dancigo laisvojo miesto statusas minimas kaip pavyzdys, į kurį orientavosi dalis prie Lietuvos nenorėjusių jungtis klaipėdiškių lietuvininkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +78,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - c-166136
 
 <a id="claim-t-183004"></a>
-- t-002
-  global_id: t-183004
+- t-007
   teiginys: "Vytauto laikais atgijus prekybai Nemunu, Lietuva užmezgė gyvus ryšius su Karaliaučiumi ir Dancigu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -100,8 +98,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - c-166398
 
 <a id="claim-t-183006"></a>
-- t-003
-  global_id: t-183006
+- t-008
   teiginys: "Po Maksimilijono mirties Dancigas vienintelis Lenkijoje nepripažino Batoro ir buvo ginklu priverstas jam nusilenkti."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -120,8 +117,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - c-166399
 
 <a id="claim-t-193176"></a>
-- t-004
-  global_id: t-193176
+- t-062
   teiginys: "Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -131,6 +127,55 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-13408
+
+<a id="claim-t-201589"></a>
+- t-063
+  teiginys: "Tas vandens kelias jungė Kauną ir Dancigą."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-184936
+
+<a id="claim-t-201590"></a>
+- t-064
+  teiginys: "Be to, jiems buvo paranku laisvai prekiauti Vokiečių ordino valstybėje, galėjo užmegzti tiesioginius prekybos ryšius ne tik su Dancigo pirkliais, bet ir kitais jų prekių pirkėjais ar šių tiekėjais Ordino valstybėje bei į Dancigą atplaukiančiais Vakarų Europos."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184937
+
+<a id="claim-t-201591"></a>
+- t-065
+  teiginys: "Kartu pažymėtina, kad Kauno ir Dancigo santykiuose matyti ne tik nuolatiniai ginčai dėl svečių prekybos, bet ir bendradarbiavimas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184938
+
+<a id="claim-t-201592"></a>
+- t-066
+  teiginys: "Šioje prekyboje aktyvūs buvo ir Lietuvos pirkliai, be pačių kauniečių, vilniečiai, trakiečiai, ir Hanzos miestų Dancigo, Tomo, Karaliaučiaus pirkliai, taip pat prekiaujantis Vokiečių ordinas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184939
 - susijęs iš Karaliaučius: Vytauto laikais Lietuva užmezgė gyvus prekybos ryšius su ordino centrais Karaliaučiumi ir Dancigu.
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179519|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: W. Ziesemeris buvo pokarinių laikų vokiečių istorikas, pažinojęs Karaliaučiaus ir Dancigo archyvus.
 - susijęs iš [[objektai/autoriai/Thunert, E.md#claim-t-31016|Thunert, E]]: E. Thunertas 1886 m. Dancige paskelbė darbą apie 1410-1411 m. Lenkijos ir Vokiečių ordino karą.
@@ -192,7 +237,8 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193176
+    - t-062
+
 - id: c-166136
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -214,7 +260,8 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182720
+    - t-061
+
 - id: c-166398
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -232,7 +279,8 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183004
+    - t-007
+
 - id: c-166399
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -251,6 +299,80 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183006
+    - t-008
+
+- id: c-184936
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Vienas iš tokių trukdžių buvo Vokiečių ordino valstybėje svarbiausio prekybos
+    kelio į Lietuvą būklė. Tas vandens kelias jungė Kauną ir Dancigą. Iš Kauno Nemunu
+    leidžiantis žemyn buvo pasiekiama Vokiečių ordino valstybė.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-063
+
+- id: c-184937
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Be to, jiems buvo paranku laisvai prekiauti Vokiečių
+    ordino valstybėje, galėjo užmegzti tiesioginius prekybos ryšius ne tik su Dancigo pir-
+    kliais, bet ir kitais jų prekių pirkėjais ar šių tiekėjais Ordino valstybėje bei į Dancigą
+    atplaukiančiais Vakarų Europos pirkliais.
+    Dancigui, jo pirkliams ir kitiems hanziečiams tokia prekybos tvarka irgi buvo pa-
+    lanki. Jie, apeidami Kauno pirklius, galėjo skverbtis į Lietuvos provinciją, supirkinėti
+    prekes tiesiai iš gamintojų, prekiauti Kaune su kitais svečiais.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-064
+
+- id: c-184938
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Padėtis darėsi sudėtingesnė,
+    nes dabar valdovas nebuvo linkęs pernelyg remti kurį nors miestą kito sąskaita.
+    Kartu pažymėtina, kad Kauno ir Dancigo santykiuose matyti ne tik nuolatiniai ginčai
+    dėl svečių prekybos, bet ir bendradarbiavimas. Prekybai sutrikus per Trylikos metų karą,
+    Gilija buvo tapusi visai netinkama laivybai.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-065
+
+- id: c-184939
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Šioje prekyboje aktyvūs buvo ir
+    Lietuvos pirkliai, be pačių kauniečių, vilniečiai, trakiečiai, ir Hanzos miestų Dancigo,
+    Tomo, Karaliaučiaus pirkliai, taip pat prekiaujantis Vokiečių ordinas. Prekybos ašis
+    buvo Nemuno vandens kelias, pratęstas už Lietuvos valstybės ribų iki Dancigo uosto.
+    Šis uostas buvo galinis taškas, kurį pasiekdavo Kauno ir kitų Lietuvos miestų per
+    Kauną keliaujantys pirkliai.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-066
+
 ## Ryšiai
 - Prekiavo su: [[objektai/vietos/Lietuva]]

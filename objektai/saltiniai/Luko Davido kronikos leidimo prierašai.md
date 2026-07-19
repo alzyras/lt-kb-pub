@@ -27,13 +27,47 @@ media_all_json: |-
 
 Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Henningo leidinio I tomo 158 puslapiu.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Henningo leidinio I tomo 158 puslapiu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    2 Luko Davido kronikos leidimo prierašai. Zr.: Henning. B
+    I.
+    S. 158.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-174674
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Sūduva (Sudawia). Pavadinimas kilo iš sudinų gen­
+    ties1. Si provincija buvo labai didelė, turtinga miškų,
+    ežerų ir pelkių, turėjo nemažai gyventojų, paskutiniais
+    savo nepriklausomybės metais galėjo turėti 6000 raitelių
+    ir 8000 pėstininkų.
+  citata_rodoma: "2 Luko Davido kronikos leidimo prierašai. Zr.: Henning. B\nI.\nS. 158."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-191792"></a>
 - t-001
-  global_id: t-191792
   teiginys: "Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Henningo leidinio I tomo 158 puslapiu."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,42 +83,3 @@ Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Hen
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174674
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Henningo leidinio I tomo 158 puslapiu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    2 Luko Davido kronikos leidimo prierašai. Zr.: Henning. B
-    I.
-    S. 158.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191792
-## Citatos
-
-- id: c-174674
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Sūduva (Sudawia). Pavadinimas kilo iš sudinų gen­
-    ties1. Si provincija buvo labai didelė, turtinga miškų,
-    ežerų ir pelkių, turėjo nemažai gyventojų, paskutiniais
-    savo nepriklausomybės metais galėjo turėti 6000 raitelių
-    ir 8000 pėstininkų.
-  citata_rodoma: |
-    2 Luko Davido kronikos leidimo prierašai. Zr.: Henning. B
-    I.
-    S. 158.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191792

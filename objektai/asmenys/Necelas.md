@@ -31,7 +31,6 @@ Kaip kad paaiškėjo iš maloningojo Necelu pavyzdžio, immediate [neseniai] mir
 
 <a id="claim-t-87805"></a>
 - t-001
-  global_id: t-87805
   teiginys: "Necelas buvo vaistininkas ir puikus gydytojas, miręs netrukus prieš Renkieliui perimant vaistinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Kaip kad paaiškėjo iš maloningojo Necelu pavyzdžio, immediate [neseniai] mir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87805
+    - t-001

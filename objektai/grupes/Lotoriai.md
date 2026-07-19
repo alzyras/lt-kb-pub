@@ -35,8 +35,7 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
 ## Teiginiai
 
 <a id="claim-t-07841"></a>
-- t-001
-  global_id: t-07841
+- t-002
   teiginys: "1276 m. Lotoriai su vokiečiais meldžionimis ir gudais nusiaubė Lietuvą bei Žemaičius ir mėgino įsilaužti į Naujapilę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -67,16 +66,11 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
         išeiti ir lauke su neprieteliais grumtis, kuriems išėjus, tuojau, pilies angas užrakinusios, lipo pačios ant
         pilies sienų ir nuo tenai vylyčias ir akmenis svaidė ant neprietelių, pasieniuose su vyrais kariaujančių,
         it krušą bėrė.
-  citata_rodoma: |
-    Čia gana bus tiktai priminti narsybę Naujapilės Lotriškųjų. Kad metuose 1276 meldžionų vokiečiai, gudai ir Lotoriai susitarę visą Lietuvą ir Žemaičius taip nusiaubė, jog plėnys vienos ant degėsių tyruose jau lakstė, vienok, ir tuo dar nesikakindami, norėjo į Naujapilę įsilaužti, bet tenai motriškosios,
-    nenusiminusios ta rūsta diena savo ūkės, artinantis neprieteliams pilin, liepė savo vyrams iš pilies
-    išeiti ir lauke su neprieteliais grumtis, kuriems išėjus, tuojau, pilies angas užrakinusios, lipo pačios ant
-    pilies sienų ir nuo tenai vylyčias ir akmenis svaidė ant neprietelių, pasieniuose su vyrais kariaujančių,
-    it krušą bėrė.
+  citata_rodoma: "Čia gana bus tiktai priminti narsybę Naujapilės Lotriškųjų. Kad metuose 1276 meldžionų vokiečiai, gudai ir Lotoriai susitarę visą Lietuvą ir Žemaičius taip nusiaubė, jog plėnys vienos ant degėsių tyruose jau lakstė, vienok, ir tuo dar nesikakindami, norėjo į Naujapilę įsilaužti, bet tenai motriškosios,\nnenusiminusios ta rūsta diena savo ūkės, artinantis neprieteliams pilin, liepė savo vyrams iš pilies\nišeiti ir lauke su neprieteliais grumtis, kuriems išėjus, tuojau, pilies angas užrakinusios, lipo pačios ant\npilies sienų ir nuo tenai vylyčias ir akmenis svaidė ant neprietelių, pasieniuose su vyrais kariaujančių,\nit krušą bėrė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07841
+    - t-002

@@ -31,7 +31,6 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
 
 <a id="claim-t-190058"></a>
 - t-001
-  global_id: t-190058
   teiginys: "Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikščionybę iki Šventojo Stepono buvo nesėkmingas ir turėjo kankinių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
 
 <a id="claim-t-190059"></a>
 - t-002
-  global_id: t-190059
   teiginys: "Narbutas Šventąjį Steponą, Permės vyskupą, vadino tikruoju Biarmijos apaštalu ir siejo jį su senovinės Biarmijos krikštijimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
 
 <a id="claim-t-190060"></a>
 - t-003
-  global_id: t-190060
   teiginys: "Narbutas tikslino, kad Šventasis Steponas neišrado biarmiško raidyno, o sutvarkė jį pagal rusų abėcėlę ir rašė šiaurės slavų tarme."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -118,7 +115,8 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190058
+    - t-001
+
 - id: c-172942
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -140,7 +138,8 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190059
+    - t-002
+
 - id: c-172943
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -165,4 +164,4 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190060
+    - t-003

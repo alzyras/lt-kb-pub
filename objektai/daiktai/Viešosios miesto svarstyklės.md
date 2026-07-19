@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202006"></a>
 - t-001
-  global_id: t-202006
   teiginys: "Kaip ir kituose prekybiniuose miestuose, Turgaus aikštėje turėjo būti įrengtos viešosios miesto svarstyklės."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -53,6 +52,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185353
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -71,4 +73,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202006
+    - t-001

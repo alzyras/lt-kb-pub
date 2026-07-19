@@ -28,7 +28,6 @@ Patsai rėdytojas kryžėjų ir kalavijonų Griuningenas iškeliavo į Teutonij�
 
 <a id="claim-t-201421"></a>
 - t-001
-  global_id: t-201421
   teiginys: "Patsai rėdytojas kryžėjų ir kalavijonų Griuningenas iškeliavo į Teutoniją tenai meldžionų į karę telkti, bekeliaudamas jau užteikė margrafus Brandenburgijos Joną I ir Otoną III."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Patsai rėdytojas kryžėjų ir kalavijonų Griuningenas iškeliavo į Teutonij�
 ## Citatos
 
 - id: c-184771
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kazimierą, pats brolis Sviatopelko taikinėjo kry-
     žėjams, be to dar, kas vien ginklą pakėlė tarp vo­
@@ -62,4 +62,4 @@ Patsai rėdytojas kryžėjų ir kalavijonų Griuningenas iškeliavo į Teutonij�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201421
+    - t-001

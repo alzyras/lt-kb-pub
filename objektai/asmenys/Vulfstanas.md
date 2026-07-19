@@ -31,7 +31,6 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
 
 <a id="claim-t-191186"></a>
 - t-001
-  global_id: t-191186
   teiginys: "Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pusėje apsilankė Estijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
 
 <a id="claim-t-191187"></a>
 - t-002
-  global_id: t-191187
   teiginys: "Narbuto pasakojime Vulfstanas dideliu laivu atplaukė prie Nogato žiočių ir pasiekė Druso miestą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
     - c-174069
 
 <a id="claim-t-191189"></a>
-- t-003
-  global_id: t-191189
+- t-004
   teiginys: "Narbutas rašo, kad Vulfstanas jau minėjo Kodinėnų valdų ponus, kurių giminė, autoriaus teigimu, išliko iki jo laikų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -93,10 +90,9 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174071
-    - c-003
+
 <a id="claim-t-192605"></a>
-- t-004
-  global_id: t-192605
+- t-005
   teiginys: "Narbutas Vulfstano aprašymus laiko pagrindiniu šaltiniu apie senovinį Truso miestą prie Drūsinės ežero."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -116,8 +112,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
     - c-175376
 
 <a id="claim-t-197843"></a>
-- t-005
-  global_id: t-197843
+- t-006
   teiginys: "Jei netu rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis nieko nežinotume apie šį miestą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -129,8 +124,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
     - c-175376
 
 <a id="claim-t-201049"></a>
-- t-006
-  global_id: t-201049
+- t-007
   teiginys: "Buklus jūreivis Vulfstanas, išsiųstas Alfredo, di džiojo anglų viešpaties, arba karaliaus, į Žemaičius prekybos teirautis, nuo kur grįždamas tokias žinias būk pargabenęs."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -157,8 +151,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191189
+
 ## Citatos
 
 - id: c-174068
@@ -181,7 +174,8 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191186
+    - t-001
+
 - id: c-174069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -210,7 +204,8 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191187
+    - t-002
+
 - id: c-174071
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -224,20 +219,15 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
     savininkams. Čia irgi nestigo ponų, turėjusių savaran­
     kiškas valdas. Apie juos jau rašė keliautojas Vulfstanas;
     jų karta išliko ligi šiol.
-  citata_rodoma: |
-    Antra ap­
-    skritis buvo Kodinėnų valdos; tad įvairios aukštumos, nuo
-    senovės stovėjusios pilaitės galėjo priklausyti įvairiems
-    savininkams. Čia irgi nestigo ponų, turėjusių savaran­
-    kiškas valdas. Apie juos jau rašė keliautojas Vulfstanas;
-    jų karta išliko ligi šiol.
+  citata_rodoma: "Antra ap­\nskritis buvo Kodinėnų valdos; tad įvairios aukštumos, nuo\nsenovės stovėjusios pilaitės galėjo priklausyti įvairiems\nsavininkams. Čia irgi nestigo ponų, turėjusių savaran­\nkiškas valdas. Apie juos jau rašė keliautojas Vulfstanas;\njų karta išliko ligi šiol."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191189
+    - t-004
+
 - id: c-175376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -260,11 +250,13 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192605
-    - t-197843
+    - t-005
+    - t-006
+
 - id: c-184399
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pereidamas skaitytojas tas dabar minavotas šiau­
     rės pasakas, noris maž ką teranda tenai apie Lietu­
@@ -285,6 +277,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201049
+    - t-007
+
 ## Ryšiai
 - Vulfstanas keliavo į [[objektai/vietos/Estija]]

@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-201372"></a>
 - t-001
-  global_id: t-201372
   teiginys: "Apsiėmus svietui klausyti tų įsakymų, liepė vieš pats Brutenis kamiene ąžuolo tris uoksus išręsti; kad tą padarė, paskui įdėjo tris dievveidžius su di džia iškilme ir goda; alvienam tenai dievui padėjo apierą ir dovenas."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184722
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pasirodęs tenai ir Vi-
     tavudas svietui ir taip pat ėmęs jį graudinti, idant
@@ -90,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201372
+    - t-001

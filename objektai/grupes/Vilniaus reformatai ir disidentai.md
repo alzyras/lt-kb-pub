@@ -38,7 +38,6 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 
 <a id="claim-t-86749"></a>
 - t-001
-  global_id: t-86749
   teiginys: "Vilniaus disidentai nepajėgė sutelkti tokių stiprių pajėgų kovai su jėzuitais, kokias turėjo šis ordinas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 
 <a id="claim-t-86750"></a>
 - t-002
-  global_id: t-86750
   teiginys: "Andrius Volanas disidentų pusėje beveik vienas turėjo atremti jų priešininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 
 <a id="claim-t-86751"></a>
 - t-003
-  global_id: t-86751
   teiginys: "1581 m. Vilniuje buvo atvirai užpulti reformatų maldos namai ir Danieliaus Lenčickio prižiūrėta spaustuvė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,7 +111,8 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86749
+    - t-001
+
 - id: c-82729
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -139,7 +137,8 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86750
+    - t-002
+
 - id: c-82730
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -157,4 +156,4 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86751
+    - t-003

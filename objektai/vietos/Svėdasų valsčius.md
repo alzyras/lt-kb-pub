@@ -37,7 +37,6 @@ Svėdasų valsčiuje, Šimonių girioje.
 
 <a id="claim-t-38560"></a>
 - t-001
-  global_id: t-38560
   teiginys: "1949 m. lapkričio 1–2 d. Svėdasų valsčiuje, Šimonių girioje, MGB vidaus kariuomenė vykdė karines-čekistines operacijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Svėdasų valsčiuje, Šimonių girioje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38560
+    - t-001

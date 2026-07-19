@@ -63,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-19612"></a>
 - t-001
-  global_id: t-19612
   teiginys: "Vytauto karūna laikyta būtina sąlyga Lietuvos karalystės siekiui įgyvendinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +81,7 @@ Nenurodyta
     - c-22316
 
 <a id="claim-t-19613"></a>
-- t-002
-  global_id: t-19613
+- t-003
   teiginys: "Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +97,7 @@ Nenurodyta
     - c-22318
 
 <a id="claim-t-19614"></a>
-- t-003
-  global_id: t-19614
+- t-002
   teiginys: "Lucko suvažiavimas į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,15 +128,15 @@ Nenurodyta
     pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.). Atrodė,
     jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas  –
     Lietuvos karalystė – būtų pasiektas.
-  citata_rodoma: |
-    jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas  –
+  citata_rodoma: "jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas  –"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19612
+    - t-001
+
 - id: c-22317
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -160,15 +157,15 @@ Nenurodyta
     mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
     įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
     ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
-  citata_rodoma: |
-    mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
+  citata_rodoma: "mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19614
+    - t-002
+
 - id: c-22318
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -183,12 +180,11 @@ Nenurodyta
     chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo
     auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
     Lucko suvažiavimas.
-  citata_rodoma: |
-    chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo
+  citata_rodoma: "chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19613
+    - t-003

@@ -3,10 +3,13 @@ tipas: zodyno_irasas
 pavadinimas: 'valakas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)'
 datos:
   - '1557 m.'
+  - '1558 m.'
+  - '1580 m.'
 date_start: '1557'
-date_end: ''
+date_end: '1580'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,13 +34,12 @@ media_all_json: |-
 
 ## Santrauka
 
-Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūkį ir įvedantį valakų sistemą. Valstiečiams duodamieji valakai nebuvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo mažesni, o kur žemė būdavo prastesnė, — didesni. Su šia reforma valakas pasidarė ūkio vienetas: nuo jo buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.
+Valakų reformos metu valakas tapo ūkio vienetu, nuo kurio buvo imami mokesčiai ir einamos pareigos. Valstiečiams duodamieji valakai nebuvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo mažesni, o kur žemė būdavo prastesnė, — didesni. Vijūkai nuo 1580 m. minimi Romainių Vijūkų lauke, kur pirko ar parduodavo nedidelius žemės plotus, tarp jų pusę valako, valaką ar dirvą 2–3 statinėms rugių užsėti.
 
 ## Teiginiai
 
 <a id="claim-t-72776"></a>
 - t-001
-  global_id: t-72776
   teiginys: "Valakų reformos metu valakas tapo ūkio vienetu, nuo kurio buvo imami mokesčiai ir einamos pareigos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +49,6 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
 
 <a id="claim-t-193164"></a>
 - t-002
-  global_id: t-193164
   teiginys: "Valstiečiams duodamieji valakai nebuvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo mažesni, o kur žemė būdavo prastesnė, — didesni."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -58,6 +59,19 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-175914
+
+<a id="claim-t-202351"></a>
+- t-003
+  teiginys: "Vijūkai nuo 1580 m. minimi Romainių Vijūkų lauke, kur pirko ar parduodavo nedidelius žemės plotus, tarp jų pusę valako, valaką ar dirvą 2–3 statinėms rugių užsėti."
+  atnaujinta: "2026-07-19 12:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
+  pagrindžia:
+    - c-185698
 
 ## Citatos
 
@@ -72,16 +86,15 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
     kur buvo 30—33 margų, o kai kur siekė net 44 margus.
     Su šia reforma valakas pasidarė ūkio vienetas: nuo jo
     buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.
-  citata_rodoma: |
-    Su šia reforma valakas pasidarė ūkio vienetas: nuo jo
-    buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.
+  citata_rodoma: "Su šia reforma valakas pasidarė ūkio vienetas: nuo jo\nbuvo imami mokesčiai, nuo jo buvo einamos ir pareigos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72776
+    - t-001
+
 - id: c-175914
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -99,4 +112,14 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193164
+    - t-002
+
+- id: c-185698
+  šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
+  puslapiai: "PDF 6"
+  indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 6."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-19 12:22"
+  pagrindzia:
+    - t-003

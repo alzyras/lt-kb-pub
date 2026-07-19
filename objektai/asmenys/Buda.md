@@ -38,7 +38,6 @@ Narbutas rašo, kad 1029 m. pr. Kr. pradėta garbinti indų dievą Budą, o jo s
 
 <a id="claim-t-191259"></a>
 - t-001
-  global_id: t-191259
   teiginys: "Narbutas rašo, kad 1029 m. pr. Kr. pradėta garbinti indų dievą Budą, o jo sektos narių padaugėjo Indijoje ir Vidurinėje Azijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Narbutas rašo, kad 1029 m. pr. Kr. pradėta garbinti indų dievą Budą, o jo s
 
 <a id="claim-t-191260"></a>
 - t-002
-  global_id: t-191260
   teiginys: "Teodoras Narbutas Budą aiškino kaip senovinį mitinį indų mitologijos vardą, iš kurio kildino budinų genties pavadinimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -106,7 +104,8 @@ Narbutas rašo, kad 1029 m. pr. Kr. pradėta garbinti indų dievą Budą, o jo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191259
+    - t-001
+
 - id: c-174142
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -134,4 +133,4 @@ Narbutas rašo, kad 1029 m. pr. Kr. pradėta garbinti indų dievą Budą, o jo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191260
+    - t-002

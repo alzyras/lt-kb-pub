@@ -40,7 +40,6 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
 
 <a id="claim-t-86105"></a>
 - t-001
-  global_id: t-86105
   teiginys: "Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mongolams, puolusiems Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
 
 <a id="claim-t-200703"></a>
 - t-002
-  global_id: t-200703
   teiginys: "1760 m. rudenį Slonime mirė Lietuvos Didžiosios Kunigaikštystės pakancleris Mykolas Antanas Sapiega."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "auto"
@@ -111,7 +109,7 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    554.
+    T. 1, p. 554.
     8
 
     ## Puslapis 25
@@ -123,26 +121,15 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
     su Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­
     tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
     savo tvirtovėmis ir prekyba.
-  citata_rodoma: |
-    554.
-    8
-
-    ## Puslapis 25
-
-    ĮVADAS
-    denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų;
-    Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino
-    1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu
-    su Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­
-    tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
-    savo tvirtovėmis ir prekyba.
+  citata_rodoma: "554.\n8\n\n## Puslapis 25\n\nĮVADAS\ndenio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų; \nSlonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino \n1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu \nsu Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­\ntas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs \nsavo tvirtovėmis ir prekyba."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86105
+    - t-001
+
 - id: c-184049
   autorius: "Domininkas Burba"
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
@@ -151,10 +138,8 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200703
+    - t-002
+
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]

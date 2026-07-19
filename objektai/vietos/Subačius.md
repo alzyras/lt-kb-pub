@@ -30,8 +30,7 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 ## Teiginiai
 
 <a id="claim-t-42170"></a>
-- t-001
-  global_id: t-42170
+- t-002
   teiginys: "Gegužės 27 d. Panevėžio rinktinė, persekiodama priešą, užėmė Troškūnus ir Subačių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
     - c-45349
 
 <a id="claim-t-42171"></a>
-- t-002
-  global_id: t-42171
+- t-001
   teiginys: "Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pasitraukė Subačiaus kryptimi ir įsitvirtino Kupiškyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,22 +97,15 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
     traukė Subačiaus
     kryptimi ir įsi-
     tvirtino Kupiškyje.
-  citata_rodoma: |
-    Naktį iš
-    gegužės 22 d. į
-    23 d. bolševikai
-    paliko Panevėžio
-    apylinkes, pasi-
-    traukė Subačiaus
-    kryptimi ir įsi-
-    tvirtino Kupiškyje.
+  citata_rodoma: "Naktį iš\ngegužės 22 d. į\n23 d. bolševikai\npaliko Panevėžio\napylinkes, pasi-\ntraukė Subačiaus\nkryptimi ir įsi-\ntvirtino Kupiškyje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42171
+    - t-001
+
 - id: c-45349
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -131,21 +122,14 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
     Lietuvoje veikęs partizanų batalionas.
     Galiausiai bolševikai gegužės 30-31 d. at-
     sitraukė ir iš Kupiškio.
-  citata_rodoma: |
-    Mūšio pasekmės
-    Išvadavusi
-    Panevėžį, Pane-
-    vėžio rinktinė
-    toliau parsekio-
-    dama priešą ge-
-    gužės 27 d. užėmė Troškūnus ir Subačių.
-    Biržus jau 26 d.
+  citata_rodoma: "Mūšio pasekmės\nIšvadavusi\nPanevėžį, Pane-\nvėžio rinktinė\ntoliau parsekio-\ndama priešą ge-\ngužės 27 d. užėmė Troškūnus ir Subačių.\nBiržus jau 26 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42170
+    - t-002
+
 ## Ryšiai
 - Užėmė Subačių: [[objektai/grupes/Panevėžio rinktinė]]

@@ -39,7 +39,6 @@ Lietuvoje analogišką manifestą 1863 m. vasario 1 d. paskelbė Lietuvos Provin
 
 <a id="claim-t-40980"></a>
 - t-001
-  global_id: t-40980
   teiginys: "Lietuvos Provincijos komitetas 1863 m. vasario 1 d. paskelbė manifestą ir pasivadino Laikinąja Vyriausybe Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,16 +74,11 @@ Lietuvoje analogišką manifestą 1863 m. vasario 1 d. paskelbė Lietuvos Provin
     komitetas, pasivadinęs Laikinąja
     Vyriausybe Lietuvoje. Sukilimo vadu
     Lietuvoje tapo Konstantinas Kalinauskas.
-  citata_rodoma: |
-    Lietuvoje analogišką manifestą 1863 m.
-    vasario 1 d. paskelbė Lietuvos Provincijos
-    komitetas, pasivadinęs Laikinąja
-    Vyriausybe Lietuvoje. Sukilimo vadu
-    Lietuvoje tapo Konstantinas Kalinauskas.
+  citata_rodoma: "Lietuvoje analogišką manifestą 1863 m.\nvasario 1 d. paskelbė Lietuvos Provincijos\nkomitetas, pasivadinęs Laikinąja\nVyriausybe Lietuvoje. Sukilimo vadu\nLietuvoje tapo Konstantinas Kalinauskas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40980
+    - t-001

@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67244"></a>
-- t-001
-  global_id: t-67244
+- t-004
   teiginys: "Lenkai frontui pralaužti atsivežė specialias šturmovąsias grupes."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-43183
 
 <a id="claim-t-67245"></a>
-- t-002
-  global_id: t-67245
+- t-005
   teiginys: "Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -101,7 +99,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67245
+    - t-005
+
 - id: c-43183
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -120,4 +119,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67244
+    - t-004

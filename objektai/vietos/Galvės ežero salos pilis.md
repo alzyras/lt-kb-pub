@@ -69,8 +69,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-11046"></a>
-- t-001
-  global_id: t-11046
+- t-002
   teiginys: "1414 m. Galvės ežero salos pilyje apsilankė Burgundijos riteris Ghillebert de Lannoy."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -90,8 +89,7 @@ Nenurodyta
     - c-13593
 
 <a id="claim-t-11047"></a>
-- t-002
-  global_id: t-11047
+- t-001
   teiginys: "Ivinskis Galvės ežero salos pilį vadino žymiausiu Vytauto garbės ir pasididžiavimo statiniu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -129,17 +127,15 @@ Nenurodyta
 
     ežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil­
     lebert de Lannoy.
-  citata_rodoma: |
-    kurių žymiausias jo garbės ir pasididžiavimo statinys buvo Galvės
-    ežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil-
-    lebert de Lannoy.
+  citata_rodoma: "kurių žymiausias jo garbės ir pasididžiavimo statinys buvo Galvės\nežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil-\nlebert de Lannoy."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11046
-    - t-11047
+    - t-002
+    - t-001
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Ghillebert de Lannoy]]

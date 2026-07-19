@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-189728"></a>
 - t-001
-  global_id: t-189728
   teiginys: "Narbutas Kurko aukurą-akmenį lokalizuoja tarp Frauenburgo ir Tolkmito, kur žvejai esą atnašaudavo pirmąsias sužvejotas žuvis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189728
+    - t-001

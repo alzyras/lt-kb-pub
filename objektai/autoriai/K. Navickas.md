@@ -39,7 +39,6 @@ Navickaitė-Kuncienė, O.
 
 <a id="claim-t-30746"></a>
 - t-001
-  global_id: t-30746
   teiginys: "K. Navickas 1964 m. paskelbė darbą apie XIII–XIV a. Vilniaus gyventojų apavą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,15 +77,11 @@ Navickaitė-Kuncienė, O.
     143-159 p. -—- Navickas, K. : Vilniaus gyventojų apavas XII1-XIV a.,
     ILKI, IV, 1964, 188-196 p. — Pakštas, K. : _Lietuvių tautos plotai ir
     gyventojai_ , Aidai, nr. 3, 1957, 97-107 p. — Papée, Pr.
-  citata_rodoma: |
-    — Navickaitė-Kuncienė, O. : _Seniausios (X-
-    XIII) amž. svorio matų sistemos Lietuvoje klausimu_ , AkMD, t. 21, 1966,
-    143-159 p. -—- Navickas, K. : Vilniaus gyventojų apavas XII1-XIV a.,
-    ILKI, IV, 1964, 188-196 p.
+  citata_rodoma: "— Navickaitė-Kuncienė, O. : _Seniausios (X-\nXIII) amž. svorio matų sistemos Lietuvoje klausimu_ , AkMD, t. 21, 1966,\n143-159 p. -—- Navickas, K. : Vilniaus gyventojų apavas XII1-XIV a.,\nILKI, IV, 1964, 188-196 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30746
+    - t-001

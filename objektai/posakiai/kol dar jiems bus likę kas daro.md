@@ -31,7 +31,6 @@ Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užk
 
 <a id="claim-t-59117"></a>
 - t-001
-  global_id: t-59117
   teiginys: "Užkariavę nadruvius, broliai nukreipė ginklus prieš skalvius, nes manė nieko nepasiekę, kol dar turėjo ką daryti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,23 +58,11 @@ Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užk
     kurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima
     pasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.
     464  D. čia pats sau prieštarauja.
-  citata_rodoma: |
-    Apie įvykius prieš šį karą
-
-       Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius,
-    įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne
-    kurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima
-    pasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.
-
-
-
-
-
-      464  D.
+  citata_rodoma: "Apie įvykius prieš šį karą\n\n   Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius,\nįsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne\nkurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima\npasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.\n\n\n\n\n\n  464  D."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59117
+    - t-001

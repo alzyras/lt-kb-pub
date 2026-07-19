@@ -41,8 +41,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
 ## Teiginiai
 
 <a id="claim-t-82567"></a>
-- t-001
-  global_id: t-82567
+- t-006
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis, grįžęs į katalikybę, uždarė savo namuose buvusią reformatų bažnyčią ir 1576 m. atidavė spaustuvę jėzuitams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     - c-79044
 
 <a id="claim-t-82568"></a>
-- t-002
-  global_id: t-82568
+- t-005
   teiginys: "Grįžęs į katalikybę Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     - c-26844
 
 <a id="claim-t-82569"></a>
-- t-003
-  global_id: t-82569
+- t-011
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis, Lietuvos Didžiosios Kunigaikštystės rūmų maršalka, tapo Filipovo namų savininku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +88,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     - c-79045
 
 <a id="claim-t-82570"></a>
-- t-004
-  global_id: t-82570
+- t-012
   teiginys: "Kapitulai nustojus gauti činšą už Filipovo namą, su kunigaikščiu Kristupu prasidėjo teismo procesas, o 1573 m. kovo 26 d. įsigaliojo sutartis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,8 +107,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     - c-79048
 
 <a id="claim-t-82571"></a>
-- t-005
-  global_id: t-82571
+- t-008
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis bylinėjosi su kapitula dėl Filipovo namo, kai nustota mokėti činšą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,8 +123,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     - c-79049
 
 <a id="claim-t-82572"></a>
-- t-006
-  global_id: t-82572
+- t-010
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis grįžo į katalikų tikėjimą, uždarė savo namuose buvusią reformatų bažnyčią ir 1576 m. atidavė spaustuvę jėzuitams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -141,8 +135,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     - c-79044
 
 <a id="claim-t-82573"></a>
-- t-007
-  global_id: t-82573
+- t-009
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -161,8 +154,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     - c-79047
 
 <a id="claim-t-82574"></a>
-- t-008
-  global_id: t-82574
+- t-007
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis, LDK rūmų maršalka, tapo Filipovo namų prie Didžiosios gatvės savininku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -196,19 +188,15 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-
     mas Lietuvoje virto nenutrūkstamu procesu.
-  citata_rodoma: |
-    Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
-    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
-    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
-    Vilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-
-    mas Lietuvoje virto nenutrūkstamu procesu.
+  citata_rodoma: "Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė\nkatalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-\ndvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į\nVilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-\nmas Lietuvoje virto nenutrūkstamu procesu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82568
+    - t-005
+
 - id: c-79044
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -227,26 +215,16 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     traudamas trokštamos pergalės, ėmėsi smarkių priemonių,
     bet jos, valdant išmintingam ir narsiam Steponui, negalėjo
     jo atvesti į užsibrėžtą tikslą.
-  citata_rodoma: |
-    Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­
-    vila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas,
-    vadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­
-    muotą bažnyčią, buvusią savo namuose, uždarė, o savo
-    spaustuvę, seniau skelbusią vien disidentų raštus64, 1576
-    metais atidavė jėzuitams, svarstyklių lėkštė persisvėrė į jė­
-    zuitų pusę. Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
-    vo disputais ir raštais spaudęs savo priešininkus, nekan­
-    traudamas trokštamos pergalės, ėmėsi smarkių priemonių,
-    bet jos, valdant išmintingam ir narsiam Steponui, negalėjo
-    jo atvesti į užsibrėžtą tikslą.
+  citata_rodoma: "Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­\nvila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas,\nvadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­\nmuotą bažnyčią, buvusią savo namuose, uždarė, o savo\nspaustuvę, seniau skelbusią vien disidentų raštus64, 1576\nmetais atidavė jėzuitams, svarstyklių lėkštė persisvėrė į jė­\nzuitų pusę. Uolus, bet ir sumanus, šis ordinas nesiliovė sa­\nvo disputais ir raštais spaudęs savo priešininkus, nekan­\ntraudamas trokštamos pergalės, ėmėsi smarkių priemonių,\nbet jos, valdant išmintingam ir narsiam Steponui, negalėjo\njo atvesti į užsibrėžtą tikslą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82567
-    - t-82572
+    - t-006
+    - t-010
+
 - id: c-79045
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -269,31 +247,16 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     20 kapų lietuviškų grašių dėl to, kad
     sujungęs su savo namu, turėtų erd­
     vesnį būstą.
-  citata_rodoma: |
-    O Jurgio brolis, kunigaikštis Mi­
-    kalojus Kristupas, Lietuvos Didžio­
-    sios Kunigaikštystės rūmų maršalka,
-    tapo savininku namų, vadintų Filipo-
-    vo namais, susidedančių iš keleto
-    medinių, moliu aplipdytų, pastatų,
-    užimančių dabartinį Kardinalijos
-    sparną nuo Didžiosios gatvės. Tą Fi-
-    lipovo namą kunigaikščio Kristupo
-    tėvas Mikalojus Radvila Juodasis,
-    Vilniaus vaivada, Lietuvos kancleris,
-    nuomojo iš kapitulos pagal sutartį
-    nuo 1541 metų ir kasmet mokėjo po
-    20 kapų lietuviškų grašių dėl to, kad
-    sujungęs su savo namu, turėtų erd­
-    vesnį būstą.
+  citata_rodoma: "O Jurgio brolis, kunigaikštis Mi­\nkalojus Kristupas, Lietuvos Didžio­\nsios Kunigaikštystės rūmų maršalka,\ntapo savininku namų, vadintų Filipo-\nvo namais, susidedančių iš keleto\nmedinių, moliu aplipdytų, pastatų,\nužimančių dabartinį Kardinalijos\nsparną nuo Didžiosios gatvės. Tą Fi-\nlipovo namą kunigaikščio Kristupo\ntėvas Mikalojus Radvila Juodasis,\nVilniaus vaivada, Lietuvos kancleris,\nnuomojo iš kapitulos pagal sutartį\nnuo 1541 metų ir kasmet mokėjo po\n20 kapų lietuviškų grašių dėl to, kad\nsujungęs su savo namu, turėtų erd­\nvesnį būstą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82569
-    - t-82574
+    - t-011
+    - t-007
+
 - id: c-79047
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -308,21 +271,15 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
-  citata_rodoma: |
-    su Radvilomis ėmė
-    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
-    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
-    jos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
-    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
-    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
-    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
+  citata_rodoma: "su Radvilomis ėmė \nkonkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė \npirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką \njos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė \nkatalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-\ndvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į \nVilnių ir atidavė besikuriančiam jėzuitų universitetui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82573
+    - t-009
+
 - id: c-79048
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -349,7 +306,8 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82570
+    - t-012
+
 - id: c-79049
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -372,4 +330,4 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82571
+    - t-008

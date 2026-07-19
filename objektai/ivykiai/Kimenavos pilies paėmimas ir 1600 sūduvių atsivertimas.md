@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89368"></a>
-- t-001
-  global_id: t-89368
+- t-002
   teiginys: "Magistras su kariuomene įsiveržė į Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti pilį su sąlyga, kad jie galės išeiti su manta."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Nenurodyta
     - c-85320
 
 <a id="claim-t-89369"></a>
-- t-002
-  global_id: t-89369
+- t-003
   teiginys: "Liudvikas iš Libencelės pas magistrą Konradą atvedė Kantigirdą ir 1600 sūduvių, kuriuos nelaisvėje atvertė į Kristaus tikėjimą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,10 +84,9 @@ Nenurodyta
     - c-85322
 
 <a id="claim-t-89370"></a>
-- t-003
-  global_id: t-89370
+- t-001
   teiginys: "Liudvikas iš Libencelės pas magistrą atvedė Kantigirdą ir 1600 abiejų lyčių sūduvių, kuriuos nelaisvėje atvertė į Kristaus tikėjimą."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Sūduva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -125,7 +122,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89368
+    - t-002
+
 - id: c-85321
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -146,7 +144,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89370
+    - t-001
+
 - id: c-85322
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -167,5 +166,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89369
-    - t-89370
+    - t-003
+    - t-001

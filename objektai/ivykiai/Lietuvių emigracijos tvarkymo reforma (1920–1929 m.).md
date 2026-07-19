@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-66675"></a>
 - t-001
-  global_id: t-66675
   teiginys: "1929 m. naujas emigracijos įstatymas neleido Lietuvoje veikti jo nesilaikančioms emigracijos bendrovėms."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66675
+    - t-001

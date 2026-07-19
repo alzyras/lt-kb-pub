@@ -31,7 +31,6 @@ Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu.
 
 <a id="claim-t-194764"></a>
 - t-001
-  global_id: t-194764
   teiginys: "Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194764
+    - t-001

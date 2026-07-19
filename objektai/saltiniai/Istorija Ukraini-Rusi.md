@@ -38,7 +38,6 @@ Gruševskij : Očerki istorii Kievskoj zemli (Kijevas 1891) ; Istorija Ukraini-R
 
 <a id="claim-t-31711"></a>
 - t-001
-  global_id: t-31711
   teiginys: "Mychailo Gruševskis parašė „Istorija Ukraini-Rusi“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,14 +66,11 @@ Gruševskij : Očerki istorii Kievskoj zemli (Kijevas 1891) ; Istorija Ukraini-R
     (^147) **V. Zaikin :** **_Učastie svetskago elementaą v cerkovnom upravlenii, vybornoe
     načalo i_** **«** **_sobornost' » v Kievskoj mitropolitij v XVI i XVII vekach,_** **Varšuva
     1930;** **_Ustrój wewnętrzny Kościoła ruskiego w W. Ks.
-  citata_rodoma: |
-    Gruševskij :** **_Očerki istorii Kievskoj zemli_** **(Kijevas 1891) ;** **_Istorija
-    Ukraini-Rusi_** **(HrlU). — Žr. LE, t. 8, 318-319 p.**
-    (^147) **V.
+  citata_rodoma: "Gruševskij :** **_Očerki istorii Kievskoj zemli_** **(Kijevas 1891) ;** **_Istorija\nUkraini-Rusi_** **(HrlU). — Žr. LE, t. 8, 318-319 p.**\n(^147) **V."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31711
+    - t-001

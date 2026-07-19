@@ -29,23 +29,8 @@ Narbutas cituoja Lasickį kaip senųjų liaudies padavimų rinkėją ir pateikia
 
 ## Teiginiai
 
-<a id="claim-t-194907"></a>
-- t-001
-  global_id: t-194907
-  teiginys: "Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres, majores Samogitarum Italos fuisse."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-177303
-
 <a id="claim-t-197703"></a>
 - t-002
-  global_id: t-197703
   teiginys: "(Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina žemaičiais) protėviai buvę italai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,6 +61,7 @@ Narbutas cituoja Lasickį kaip senųjų liaudies padavimų rinkėją ir pateikia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-177303
@@ -93,19 +79,11 @@ Narbutas cituoja Lasickį kaip senųjų liaudies padavimų rinkėją ir pateikia
     Podoliae, Lituaniaeque cognomina habent, usque ad mare Balticum...
     (Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina
     žemaičiais) protėviai buvę italai.
-  citata_rodoma: |
-    Verum hos metu crudelitatis imperatoriae, conscen­
-    sis eorom a quibus bis terve evocabantur navibus, ipsimet autem
-    coesis, ad Pontum Euxinum appulisse, dehinc per saltus, ubi olitn
-    Romana venatio fuit, quique hodie magna ex parte excii jam, Russiae,
-    Podoliae, Lituaniaeque cognomina habent, usque ad mare Balticum...
-    (Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina
-    žemaičiais) protėviai buvę italai.
+  citata_rodoma: "Verum hos metu crudelitatis imperatoriae, conscen­\nsis eorom a quibus bis terve evocabantur navibus, ipsimet autem \ncoesis, ad Pontum Euxinum appulisse, dehinc per saltus, ubi olitn \nRomana venatio fuit, quique hodie magna ex parte excii jam, Russiae, \nPodoliae, Lituaniaeque cognomina habent, usque ad mare Balticum... \n(Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina \nžemaičiais) protėviai buvę italai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194907
-    - t-197703
+    - t-002

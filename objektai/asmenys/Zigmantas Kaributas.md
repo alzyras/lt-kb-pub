@@ -39,8 +39,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
 ## Teiginiai
 
 <a id="claim-t-176865"></a>
-- t-001
-  global_id: t-176865
+- t-004
   teiginys: "Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,9 +58,9 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   pagrindžia:
     - c-160818
     - c-167669
+
 <a id="claim-t-176866"></a>
-- t-002
-  global_id: t-176866
+- t-003
   teiginys: "Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims per karą, kuriame buvo nuniokoti Prūsai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
     - c-36619
 
 <a id="claim-t-176867"></a>
-- t-003
-  global_id: t-176867
+- t-001
   teiginys: "Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -96,8 +94,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
     - c-160817
 
 <a id="claim-t-176869"></a>
-- t-004
-  global_id: t-176869
+- t-002
   teiginys: "Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -133,7 +130,8 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176866
+    - t-003
+
 - id: c-160817
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -153,7 +151,8 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176867
+    - t-001
+
 - id: c-160818
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -169,19 +168,15 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
     kia manyti, kad čia daug padėjo tie geri santykiai Vytauto su
     Jogaila, kurie, „nežiūrint visokiausių intrigų“, jau 1423 m. pa­
     siekė kuo didžiausio solidarumo prieš husitus^1 ).
-  citata_rodoma: |
-    Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų
-    pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
-    savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
-    linkybėms, Vytautas nuo to sumanymo atsisakė.
-    Jei tuo laiku, t.
+  citata_rodoma: "Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų\npasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą\nsavo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­\nlinkybėms, Vytautas nuo to sumanymo atsisakė.\nJei tuo laiku, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176865
+    - t-004
+
 - id: c-160819
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -201,7 +196,8 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176869
+    - t-002
+
 - id: c-167669
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -220,6 +216,8 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Zigmantas Kaributas keliavo į [[objektai/vietos/Čekija]], [[objektai/vietos/Praha]]

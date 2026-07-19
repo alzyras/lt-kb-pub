@@ -31,7 +31,6 @@ Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.
 
 <a id="claim-t-22132"></a>
 - t-001
-  global_id: t-22132
   teiginys: "Epas yra pasakojimai apie dievus, pusdievius ir didvyrius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.
 
 <a id="claim-t-183420"></a>
 - t-002
-  global_id: t-183420
   teiginys: "Lietuvių epas, autorių vertinimu, buvo pradėjęs formuotis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -81,15 +79,15 @@ Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.
     tučio palaikų deginimo aprašymai.
     Daugelis tautų sukūrė epą, t. y. pasakojimus apie dievus, pusdievius
     ir didvyrius.
-  citata_rodoma: |
-    Daugelis tautų sukūrė epą, t. y. pasakojimus apie dievus, pusdievius
+  citata_rodoma: "Daugelis tautų sukūrė epą, t. y. pasakojimus apie dievus, pusdievius"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22132
+    - t-001
+
 - id: c-166814
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -104,4 +102,4 @@ Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183420
+    - t-002

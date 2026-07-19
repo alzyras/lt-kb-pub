@@ -66,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-200619"></a>
 - t-001
-  global_id: t-200619
   teiginys: "1757 m. Lopacinskis su Vitebsko kaštelionu Martynu Tiškevičiumi tarėsi dėl seimelio reikalų ir Sapiegų interesų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::customs"
@@ -87,7 +86,6 @@ Nenurodyta
 
 <a id="claim-t-200620"></a>
 - t-002
-  global_id: t-200620
   teiginys: "1752 m. Jonas Dominykas Lopacinskis Vilniaus seimelį laikė proga pasikalbėti ir pasiderėti dėl brolio interesų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::customs"
@@ -114,39 +112,19 @@ Nenurodyta
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 5"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
-  citata_originali: |
-    Tai buvo
-    paskata surengti dar vieną seimelį, prieštaraujantį šiam [53].Minėtos ir politinės derybos.
-    1757 m. laiške vienam iš Sapiegų jis pasakojo, kad priėmė Vitebsko kaštelioną Martyną
-    Tiškevičių ir tarėsi dėl seimelio reikalų bei Sapiegų interesų [52].
-  citata_rodoma: |
-    1757 m. laiške vienam iš Sapiegų jis pasakojo, kad priėmė Vitebsko kaštelioną Martyną
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 07:43"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200619
+    - t-001
+
 - id: c-184005
   autorius: "Domininkas Burba"
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 5"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
-  citata_originali: |
-    J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-
-    ninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /
-    Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
-    Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
-    Karolis Piotrovskis (Karol Piotrowski) [9]. 1752 m. J. D. Lopacinskis minėjo, kad atvyks
-    Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
-    per seimelį dėl brolio interesų.
-  citata_rodoma: |
-    1752 m. J. D. Lopacinskis minėjo, kad atvyks
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200620
+    - t-002

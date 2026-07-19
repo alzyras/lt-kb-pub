@@ -35,8 +35,7 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
 ## Teiginiai
 
 <a id="claim-t-191745"></a>
-- t-001
-  global_id: t-191745
+- t-002
   teiginys: "Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nutolusi „taip, kaip dangus ir žemė“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -54,12 +53,11 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174627
-    - c-001
+
 <a id="claim-t-194895"></a>
-- t-002
-  global_id: t-194895
+- t-003
   teiginys: "Mongolų karvedžiai skubėjo užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau 1 Stender Gotthard Friedrich."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -68,7 +66,7 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177291
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nutolusi „taip, kaip dangus ir žemė“.'
@@ -90,8 +88,6 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191745
 - c-002
   santrauka: 'Mongolų karvedžiai skubėjo užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau 1 Stender Gotthard Friedrich.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -111,8 +107,7 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194895
+
 ## Citatos
 
 - id: c-174627
@@ -136,25 +131,15 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
     nykščiai gyventojai, nes galbūt jie yra estų palikuonys;
     tačiau šis noras įmaišyti juos į visos tautos šaknį yra
     neteisingas ir labai klaidingas.
-  citata_rodoma: |
-    Trumpiausiai į tai atsakome pateikdami Kuršo pa­
-    mokslininko ir latvių gramatikos autoriaus Stenderio žo­
-    džius. Stenderis, neketindamas atsakyti į Tuntnano prie­
-    laidą, bet tiesiog aprašydamas istorinius-topografinius šios
-    tautos bruožus, rašo: „Latvių kalba yra nutolusi nuo šiau­
-    rinių kaimynų estų kalbos taip, kaip dangus ir žemė. Ir
-    nors pačiame Kuršo viduryje yra dvi apskritys, kur kai­
-    miečiai tarpusavy kalbasi estiškai, o su svetimšaliais —
-    latviškai, bet tai niekados neturėjo jokios įtakos latvių
-    kalbai, nes estai nesimaišė su latviais ir su jais nesituo-
-    kė“2.
+  citata_rodoma: "Trumpiausiai į tai atsakome pateikdami Kuršo pa­\nmokslininko ir latvių gramatikos autoriaus Stenderio žo­\ndžius. Stenderis, neketindamas atsakyti į Tuntnano prie­\nlaidą, bet tiesiog aprašydamas istorinius-topografinius šios\ntautos bruožus, rašo: „Latvių kalba yra nutolusi nuo šiau­\nrinių kaimynų estų kalbos taip, kaip dangus ir žemė. Ir\nnors pačiame Kuršo viduryje yra dvi apskritys, kur kai­\nmiečiai tarpusavy kalbasi estiškai, o su svetimšaliais —\nlatviškai, bet tai niekados neturėjo jokios įtakos latvių\nkalbai, nes estai nesimaišė su latviais ir su jais nesituo-\nkė“2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191745
+    - t-002
+
 - id: c-177291
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -169,21 +154,11 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
     buvo panašūs nei išvaizda, nei papročiais ir kalba, sky­
     rėsi nuo tikrų poloviečių, kurie negalėjo kitaip užklysti į
     tas šalis, o nebent tik taip, kaip mes jau minėjome.
-  citata_rodoma: |
-    Mongolų karvedžiai skubėjo
-    užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­
-    lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­
-    1 Stender Gotthard Friedrich. Lettische Grammatik etc. Braun­
-    schweig,
-    1761.
-    8-vo.
-    S.
-    1,
-    sequ.
+  citata_rodoma: "Mongolų karvedžiai skubėjo\nužimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­\nlydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­\n1 Stender Gotthard Friedrich. Lettische Grammatik etc. Braun­\nschweig,\n1761.\n8-vo.\nS.\n1,\nsequ."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194895
+    - t-003

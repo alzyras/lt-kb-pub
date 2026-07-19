@@ -32,7 +32,6 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 
 <a id="claim-t-02957"></a>
 - t-001
-  global_id: t-02957
   teiginys: "Vadinamoji „aukso laisvė“ leido galingiesiems nieko neklausyti ir elgtis kaip tinkamiems."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 
 <a id="claim-t-182935"></a>
 - t-002
-  global_id: t-182935
   teiginys: "Zigmanto laikais Lenkijoje ir Lietuvoje įsigalėjo vadinamoji „aukso laisvė“, leidusi galingiesiems nieko neklausyti ir elgtis kaip tinkama."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -81,18 +79,15 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
     nams bekovojant su užsispyrėliu karalium ir tarpusavy, įsiga-
     lėjo vadinamoji „aukso laisvė": kas tik buvo galin-
     gas, galėjo nieko neklausyti ir elgtis kaip tinkamas.
-  citata_rodoma: |
-    Didžiū-
-    nams bekovojant su užsispyrėliu karalium ir tarpusavy, įsiga-
-    lėjo vadinamoji „aukso laisvė": kas tik buvo galin-
-    gas, galėjo nieko neklausyti ir elgtis kaip tinkamas.
+  citata_rodoma: "Didžiū-\nnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsiga-\nlėjo vadinamoji „aukso laisvė\": kas tik buvo galin-\ngas, galėjo nieko neklausyti ir elgtis kaip tinkamas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02957
+    - t-001
+
 - id: c-166336
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -112,4 +107,4 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182935
+    - t-002

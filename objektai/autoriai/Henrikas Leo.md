@@ -31,7 +31,6 @@ Henrikas Leo „Marienburgo glosose“ teigė, kad marienburgiškais vadinti žo
 
 <a id="claim-t-190366"></a>
 - t-001
-  global_id: t-190366
   teiginys: "Henrikas Leo „Marienburgo glosose“ teigė, kad marienburgiškais vadinti žodžiai buvo nesuprasti seni vokiškų rankraščių žodžiai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Henrikas Leo „Marienburgo glosose“ teigė, kad marienburgiškais vadinti žo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190366
+    - t-001

@@ -30,7 +30,6 @@ Narbutas rašė, kad Skilako spėjami žmonės gyveno prie Kaspijos, tačiau pat
 
 <a id="claim-t-191591"></a>
 - t-001
-  global_id: t-191591
   teiginys: "Narbutas rašė, kad Skilako spėjami žmonės gyveno prie Kaspijos, tačiau pats apie juos toliau nekalbės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbutas rašė, kad Skilako spėjami žmonės gyveno prie Kaspijos, tačiau pat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191591
+    - t-001

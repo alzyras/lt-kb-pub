@@ -30,9 +30,8 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
 
 <a id="claim-t-191760"></a>
 - t-001
-  global_id: t-191760
   teiginys: "Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Plocko kanauninko Jaroslavo kronikoje."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,10 +47,10 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174642
-    - c-001
+    - c-174643
+
 <a id="claim-t-191761"></a>
 - t-002
-  global_id: t-191761
   teiginys: "Teodoro Narbuto teigimu, Jaroslavo kronika sudarė vyskupo Kristijono kronikos „Liber filiorum Belini“ pradžią."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -80,8 +79,7 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191760
+
 ## Citatos
 
 - id: c-174642
@@ -97,21 +95,15 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
     liovos net iki dešimtojo Augusto Oktaviano konsulato, t. y.
     iki 24 metų prieš Kristaus gimimą. Tiems topografams
     vadovavo kažkoks Teodoras, Teodatas ar Tironas5.
-  citata_rodoma: |
-    Tačiau Tidemanas rašo, kad
-    jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės
-    aprašymas išliko rankraštyje, kuris atiteko Plocko kated­
-    ros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­
-    no rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi
-    būti knyga, parašyta slavų kalba, bet graikiškomis raidė­
-    mis2.
+  citata_rodoma: "Tačiau Tidemanas rašo, kad\njis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės\naprašymas išliko rankraštyje, kuris atiteko Plocko kated­\nros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­\nno rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi\nbūti knyga, parašyta slavų kalba, bet graikiškomis raidė­\nmis2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191760
+    - t-001
+
 - id: c-174643
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -128,4 +120,5 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191761
+    - t-001
+    - t-002

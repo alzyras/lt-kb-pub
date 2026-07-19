@@ -55,8 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-200612"></a>
-- t-001
-  global_id: t-200612
+- t-200540
   teiginys: "Po Juozapo Sapiegos mirties Steponas Olendskis perėmė ir išsivežė sidabrą, alavą, varį ir staltieses pagal velionio dvasininko registrą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::items"
@@ -82,20 +81,8 @@ Nenurodyta
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 7"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 7."
-  citata_originali: |
-    Laiškuose buvo pasakojama ir apie turto perėmimą. Po Vilniaus vyskupo koadju-
-    toriaus Juozapo Sapiegos mirties kanauninko lobyne likusį turtą perėmė Steponas(?)
-    Olendskis (Stefan Olendski) ir išsivežė sidabrą, alavą, varį, staltieses pagal velionio dva-
-    sininko registrą bei kitus daiktus iš bernardinų.
-  citata_rodoma: |
-    Laiškuose buvo pasakojama ir apie turto perėmimą. Po Vilniaus vyskupo koadju-
-    toriaus Juozapo Sapiegos mirties kanauninko lobyne likusį turtą perėmė Steponas(?)
-    Olendskis (Stefan Olendski) ir išsivežė sidabrą, alavą, varį, staltieses pagal velionio dva-
-    sininko registrą bei kitus daiktus iš bernardinų.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 07:23"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200612
+    - t-200540

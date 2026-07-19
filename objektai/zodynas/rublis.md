@@ -38,7 +38,6 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
 
 <a id="claim-t-34274"></a>
 - t-001
-  global_id: t-34274
   teiginys: "Jogailos ir Vytauto rūmuose kartais mokėta rubliais, kurie dar buvo ne monetos, o sukapoti sidabro gabalai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
 
 <a id="claim-t-34275"></a>
 - t-002
-  global_id: t-34275
   teiginys: "Lietuvoje nuo Algirdo ir Kęstučio laikų kursavo Čekijos grašiai, kurių 60 sudarė vieną rublį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
 
 <a id="claim-t-184247"></a>
 - t-003
-  global_id: t-184247
   teiginys: "Jogailos ir Vytauto rūmuose kartais mokėta rubliais iš slavų kraštų, bet jie dar buvo sukapoti sidabro gabalai, o ne monetos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -114,7 +111,8 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34275
+    - t-002
+
 - id: c-35500
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -134,7 +132,8 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34274
+    - t-001
+
 - id: c-167631
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -154,4 +153,4 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184247
+    - t-003

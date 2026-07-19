@@ -42,8 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-169889"></a>
-- t-001
-  global_id: t-169889
+- t-011
   teiginys: "1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,17 +80,11 @@ media_all_json: |-
     turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
     Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
     Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
-  citata_rodoma: |
-    Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi
-    1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui
-    Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija
-    turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
-    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
-    Mačiulį-Maironį ir kt.
+  citata_rodoma: "Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi \n1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui \nJuzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija \nturi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“ \nBūtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną \nMačiulį-Maironį ir kt."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169889
+    - t-011

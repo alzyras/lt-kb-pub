@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-193817"></a>
 - t-001
-  global_id: t-193817
   teiginys: "1941 metais JAV buvo sukonstruotas Garando šautuvas su šoviniu, mažesniu negu šautuvo, bet didesniu negu pistoleto."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193817
+    - t-001

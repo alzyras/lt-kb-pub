@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-01806"></a>
 - t-001
-  global_id: t-01806
   teiginys: "1704 m. Karolis privertė sušaukti švedų kariuomenės apsuptą elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,19 +86,11 @@ Nenurodyta
     lium Poznanės vaivadą
     Stanislovą Leščin-
     skį.
-  citata_rodoma: |
-    Pagaliau
-    1704 m. Karolis privertė
-    sušaukti elekcinį seimą, ku-
-    ris, apstatytas švedų ka-
-    riuomene, paskelbė kara-
-    lium Poznanės vaivadą
-    Stanislovą Leščin-
-    skį.
+  citata_rodoma: "Pagaliau\n1704 m. Karolis privertė\nsušaukti elekcinį seimą, ku-\nris, apstatytas švedų ka-\nriuomene, paskelbė kara-\nlium Poznanės vaivadą\nStanislovą Leščin-\nskį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01806
+    - t-001

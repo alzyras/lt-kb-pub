@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-62208"></a>
 - t-001
-  global_id: t-62208
   teiginys: "1313 m. vasarą Henrikas iš Plockės puolė Bisenės pilį, bet po nesėkmingos apgulties pasitraukė sužeidus kelis brolius ir pilėnus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,21 +85,11 @@ Nenurodyta
     karo įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne
     kurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą.
     317 (310).
-  citata_rodoma: |
-    Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė
-    visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,
-    kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę
-    karo įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne
-    kurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą.
-
-
-
-
-                       317 (310).
+  citata_rodoma: "Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė\nvisą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,\nkurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę\nkaro įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne\nkurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą.\n\n\n\n\n                   317 (310)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62208
+    - t-001

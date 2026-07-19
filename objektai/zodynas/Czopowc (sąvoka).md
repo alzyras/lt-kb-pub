@@ -12,10 +12,10 @@ datos:
   - '1569 m.'
 date_start: '1569'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,6 @@ Jį kartu su kitais valstybiniais mokesčiais po 1569 m. Liublino unijos skelbda
 
 <a id="claim-t-201800"></a>
 - t-001
-  global_id: t-201800
   teiginys: "Jį kartu su kitais valstybiniais mokesčiais po 1569 m. Liublino unijos skelbdavo Abiejų Tautų Respublikos seimai gėralų mokesčio (czopowc) pavadinimu."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Jį kartu su kitais valstybiniais mokesčiais po 1569 m. Liublino unijos skelbda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201800
+    - t-001

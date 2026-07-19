@@ -37,8 +37,7 @@ Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeroni
 ## Teiginiai
 
 <a id="claim-t-200506"></a>
-- t-001
-  global_id: t-200506
+- t-003
   teiginys: "Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeronimu Radvila prieš pakanclerio persikėlimą į Flemingų rūmus."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -57,7 +56,6 @@ Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeroni
 
 <a id="claim-t-200507"></a>
 - t-002
-  global_id: t-200507
   teiginys: "Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeronimu Radvila."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -75,8 +73,7 @@ Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeroni
     - c-183866
 
 <a id="claim-t-200508"></a>
-- t-003
-  global_id: t-200508
+- t-001
   teiginys: "Jurgio Detloffo Flemmingo sutuoktinė Antanina kurį laiką gyveno Lopacinskio rezidencijoje."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -94,7 +91,6 @@ Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeroni
 
 <a id="claim-t-200700"></a>
 - t-004
-  global_id: t-200700
   teiginys: "1740 m. J. D. Lopacinskis minėjo, kad jų rezidencijoje buvo apsistojusi artilerijos generolo Jurgio Flemingo sutuoktinė Antanina."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "auto"
@@ -130,27 +126,14 @@ Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeroni
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 10"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 10."
-  citata_originali: |
-    Istorija / 2015, t. 97, Nr. 1
-    kanauninkas rašė, jog atvyko LDK pakanclerio M. A. Sapiegos petihorų vėliavininkas
-    Antanas Zadarnovskis / Zadernovskis (Antoni Zadarnowski / Zadernowski), ir pranešė,
-    kad antradienį atvažiuos LDK pakancleris Mykolas Antanas Sapiega ir Polocko vaivada
-    Aleksandras Mykolas Sapiega. Prieš Lietuvos Vyriausiąjį Tribunolą iki šeštadienio pa-
-    kancleris persikels į Antakalnį. Tada, sutaikęs iždininką Jurgį Detlofą Flemingą (Jerzy
-    Detloff Flemming) su kunigaikščiu vėliavininku Jeronimu Radvila, jis persikraustys į
-    Flemingų rūmus.
-  citata_rodoma: |
-    Tada, sutaikęs iždininką Jurgį Detlofą Flemingą (Jerzy Detloff Flemming) su kunigaikščiu vėliavininku Jeronimu Radvila, jis persikraustys į
-    Flemingų rūmus.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200506
-    - t-200507
-    - t-200508
+    - t-003
+    - t-002
+    - t-001
+
 - id: c-184046
   autorius: "Domininkas Burba"
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
@@ -159,8 +142,5 @@ Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeroni
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200700
+    - t-004

@@ -31,7 +31,6 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
 
 <a id="claim-t-86125"></a>
 - t-001
-  global_id: t-86125
   teiginys: "Prieglaudos namus vargšams ir ligoniams buvo numatyta statyti prie Šv. Dvasios dominikonų vienuolyno Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
 
 <a id="claim-t-86126"></a>
 - t-002
-  global_id: t-86126
   teiginys: "Šv. Dvasios vienuolyno vyresnysis ir broliai buvo įpareigoti prieglaudoje laikyti Mišias, klausyti išpažinčių ir dalyti komuniją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,7 +81,8 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86126
+    - t-002
+
 - id: c-82105
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -104,4 +103,4 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86125
+    - t-001

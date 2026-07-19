@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-32766"></a>
 - t-001
-  global_id: t-32766
   teiginys: "1966 ir 1967 m. bibliografija Čikagoje išleista dviem sąsiuviniais kaip „Užsienio Lietuvių Spaudos Metraštis“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,13 +63,11 @@ media_all_json: |-
   citata_originali: |
     Danville, III., JAV). 1966 ir 1967 m. bibliogr. išleista kolektyvų dviem
     sąsiuv. kaip** **_Užsienio Lietuvių Spaudos Metraštis,_** **Čikaga 1967, 1968.
-  citata_rodoma: |
-    1966 ir 1967 m. bibliogr. išleista kolektyvų dviem
-    sąsiuv. kaip** **_Užsienio Lietuvių Spaudos Metraštis,_** **Čikaga 1967, 1968.
+  citata_rodoma: "1966 ir 1967 m. bibliogr. išleista kolektyvų dviem\nsąsiuv. kaip** **_Užsienio Lietuvių Spaudos Metraštis,_** **Čikaga 1967, 1968."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32766
+    - t-001

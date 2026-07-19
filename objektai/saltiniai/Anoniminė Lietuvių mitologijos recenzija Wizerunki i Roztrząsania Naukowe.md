@@ -36,7 +36,6 @@ Anoniminė 1835 m. recenzija buvo apibūdinta kaip bene reikšmingiausia ir ypa�
 
 <a id="claim-t-190509"></a>
 - t-001
-  global_id: t-190509
   teiginys: "Anoniminė 1835 m. recenzija buvo apibūdinta kaip bene reikšmingiausia ir ypač didelės, 25 puslapių, apimties recenzija."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Anoniminė 1835 m. recenzija buvo apibūdinta kaip bene reikšmingiausia ir ypa�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190509
+    - t-001

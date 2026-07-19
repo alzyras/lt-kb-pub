@@ -42,10 +42,9 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
 ## Teiginiai
 
 <a id="claim-t-60043"></a>
-- t-001
-  global_id: t-60043
+- t-003
   teiginys: "Konradas Žakas 1303 m. žiemą su didžiule kariuomene įsiveržė į Karšuvos žemę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Karšuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -62,8 +61,7 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
     - c-60675
 
 <a id="claim-t-60044"></a>
-- t-002
-  global_id: t-60044
+- t-001
   teiginys: "Konradas Žakas, Kulmo krašto komtūras, 1298 m. pavijo Lietuvos vyrus ir išvadavo į nelaisvę paimtus krikščionis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
     - c-167489
 
 <a id="claim-t-60045"></a>
-- t-003
-  global_id: t-60045
+- t-002
   teiginys: "Konradas Žakas buvo šešioliktas Prūsijos magistras ir vadovavo šešerius metus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -99,10 +96,9 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
     - c-60677
 
 <a id="claim-t-194501"></a>
-- t-004
-  global_id: t-194501
+- t-006
   teiginys: "Apie Karšuvos žemės nusiaubimą Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į saugias vietas."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -110,10 +106,10 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60675
+    - c-167489
 
 <a id="claim-t-197120"></a>
-- t-005
-  global_id: t-197120
+- t-007
   teiginys: "Konradas Žakas garsėjo kaip baisus žiauruolis, didelis grobikas ir piktadarys."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -125,8 +121,7 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
     - c-60677
 
 <a id="claim-t-197121"></a>
-- t-006
-  global_id: t-197121
+- t-008
   teiginys: "Konradas Žakas nuėjo prie jo ir pasiprašė vieno žirgo, tačiau šis įniršęs užjojo ant jo, parbloškė jį žemėn ir, kelis kartus prajojęs, jį sutrypė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -162,9 +157,10 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60043
-    - t-194501
-    - t-197121
+    - t-003
+    - t-006
+    - t-008
+
 - id: c-60677
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -183,8 +179,9 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60045
-    - t-197120
+    - t-002
+    - t-007
+
 - id: c-167489
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -205,4 +202,5 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60044
+    - t-001
+    - t-006

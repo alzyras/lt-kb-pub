@@ -31,7 +31,6 @@ Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pe�
 
 <a id="claim-t-39799"></a>
 - t-001
-  global_id: t-39799
   teiginys: "Kunigas Peža-Palionis vadovavo trečiajam Lietuvos kariuomenės pulkui, sudarytam iš dalgėmis ginkluotų sodiečių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pe�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39799
+    - t-001

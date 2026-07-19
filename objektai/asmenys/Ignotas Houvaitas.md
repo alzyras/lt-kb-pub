@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-87692"></a>
 - t-001
-  global_id: t-87692
   teiginys: "Ignotui Houvaitui, Smolensko kanauninkui ir Pabaisko klebonui, 1787 m. lapkričio 28 d. buvo išduotas fundacijos privilegijos išrašas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87692
+    - t-001

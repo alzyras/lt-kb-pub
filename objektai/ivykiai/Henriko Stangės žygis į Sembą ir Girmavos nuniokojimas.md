@@ -55,8 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66560"></a>
-- t-001
-  global_id: t-66560
+- t-002
   teiginys: "Henriko Stangės brolis Hermanas stojo į kovą ir kartu su komtūru žuvo po ilgos gynybos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,10 +71,9 @@ Nenurodyta
     - c-66768
 
 <a id="claim-t-66561"></a>
-- t-002
-  global_id: t-66561
+- t-003
   teiginys: "Sembos puolimas datuojamas arba 1252–1253 m. žiema, arba 1253–1254 m. žiema, tiksliau 1254 m. pradžia."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Semba: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -90,10 +88,9 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata leidžia tiksliau perteikti abi nurodytas datavimo alternatyvas."
   pagrindžia:
     - c-66769
-    - c-003
+
 <a id="claim-t-66562"></a>
-- t-003
-  global_id: t-66562
+- t-001
   teiginys: "Kristburgo komtūras Henrikas Stangė žiemą įsiveržė į Sembą, niokojo kraštą iki Girmavos kaimo ir nukovė arba paėmė į nelaisvę daug žmonių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -121,8 +118,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-66561
+
 ## Citatos
 
 - id: c-66767
@@ -144,7 +140,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66562
+    - t-001
+
 - id: c-66768
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -162,7 +159,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66560
+    - t-002
+
 - id: c-66769
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -174,14 +172,11 @@ Nenurodyta
     Šitai matė ir viešai skelbė brolis Heidenrichas, tos pačios pilies kunigas, kuris tuo metu
     pasislėpęs meldėsi viename koplyčios kampelyje.
     70 (69).
-  citata_rodoma: |
-    314 Sembos puolimas datuojamas dvejopai: 1252—1253 m. žiema (Ewald A. L., Die
-    Eroberung..., 3, p. 3; Wojtecki D., Studien..., p. 147) ir 1253—1254 m. žiema, tiksliau—
-    1254 m. pradžia (Powierski J., Dobra..., p. 62—64).
+  citata_rodoma: "314 Sembos puolimas datuojamas dvejopai: 1252—1253 m. žiema (Ewald A. L., Die\nEroberung..., 3, p. 3; Wojtecki D., Studien..., p. 147) ir 1253—1254 m. žiema, tiksliau—\n1254 m. pradžia (Powierski J., Dobra..., p. 62—64)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66561
+    - t-003

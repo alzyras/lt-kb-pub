@@ -31,7 +31,6 @@ Prieš pat sukilimo pradžią Vilniaus karo apygardoje buvo dislokuoti 66 482 ka
 
 <a id="claim-t-193798"></a>
 - t-001
-  global_id: t-193798
   teiginys: "Prieš pat sukilimo pradžią Vilniaus karo apygardoje buvo dislokuoti 66 482 kariai ir karininkai ir 120 patrankų."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Prieš pat sukilimo pradžią Vilniaus karo apygardoje buvo dislokuoti 66 482 ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193798
+    - t-001

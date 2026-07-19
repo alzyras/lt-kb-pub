@@ -38,7 +38,6 @@ Stravinskaitė buvo Starodubo žemės teisėjaitė. 1760 m. Starodubo žemės te
 
 <a id="claim-t-200527"></a>
 - t-001
-  global_id: t-200527
   teiginys: "Stravinskaitė buvo Starodubo žemės teisėjaitė."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -56,7 +55,6 @@ Stravinskaitė buvo Starodubo žemės teisėjaitė. 1760 m. Starodubo žemės te
 
 <a id="claim-t-200528"></a>
 - t-002
-  global_id: t-200528
   teiginys: "1760 m. Starodubo žemės teisėjaitė Stravinskaitė ištekėjo už Starodubo pateisėjininkaičio Gimbuto."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -75,7 +73,6 @@ Stravinskaitė buvo Starodubo žemės teisėjaitė. 1760 m. Starodubo žemės te
 
 <a id="claim-t-200702"></a>
 - t-003
-  global_id: t-200702
   teiginys: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "auto"
@@ -104,21 +101,13 @@ Stravinskaitė buvo Starodubo žemės teisėjaitė. 1760 m. Starodubo žemės te
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 11"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
-  citata_originali: |
-    Pvz., 1751 m. jis pasakojo, kad atvyko Vilniaus tijūnai Juozapas
-    ir Ona Pociejūtė Tiškevičiai. Ponia turbūt čia gimdys [12]. 1760 jis rašė, kad Starodubo
-    pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę [61].
-  citata_rodoma: |
-    1760 jis rašė, kad Starodubo
-    pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę [61].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200527
-    - t-200528
+    - t-001
+    - t-002
+
 - id: c-184048
   autorius: "Domininkas Burba"
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
@@ -127,8 +116,5 @@ Stravinskaitė buvo Starodubo žemės teisėjaitė. 1760 m. Starodubo žemės te
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200702
+    - t-003

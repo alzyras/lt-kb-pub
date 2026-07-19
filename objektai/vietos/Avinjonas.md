@@ -41,7 +41,6 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
 
 <a id="claim-t-173341"></a>
 - t-001
-  global_id: t-173341
   teiginys: "1349 m. Lenkijos Kazimieras siekė Avinjono palankumo, pranešdamas Klemensui VI apie Kęstučio norą krikštytis."
   atnaujinta: "2026-05-31 14:14"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
 
 <a id="claim-t-173342"></a>
 - t-002
-  global_id: t-173342
   teiginys: "1323 m. rudenį popiežius į Avinjoną pakvietė didįjį magistrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,7 +114,8 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173341
+    - t-001
+
 - id: c-157665
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -147,7 +146,8 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173342
+    - t-002
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Karolis Tryrietis]]
 - Mirties vieta: [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]]

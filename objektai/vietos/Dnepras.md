@@ -39,10 +39,9 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 ## Teiginiai
 
 <a id="claim-t-185236"></a>
-- t-001
-  global_id: t-185236
+- t-003
   teiginys: "Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,10 +58,9 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     - c-168597
 
 <a id="claim-t-188686"></a>
-- t-002
-  global_id: t-188686
+- t-005
   teiginys: "Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių ir juos sieja su skitais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -80,8 +78,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     - c-171575
 
 <a id="claim-t-192641"></a>
-- t-003
-  global_id: t-192641
+- t-006
   teiginys: "Narbutas rašė, kad pelazgai ilgainiui plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro ir Dono."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     - c-175411
 
 <a id="claim-t-192642"></a>
-- t-004
-  global_id: t-192642
+- t-007
   teiginys: "Narbutas teigė, kad 1540 m. pr. Kr. skitams priklausė Dnepro žiotys ir Tauridė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -126,8 +122,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     - c-175412
 
 <a id="claim-t-192643"></a>
-- t-005
-  global_id: t-192643
+- t-008
   teiginys: "Narbutas chionitus laikė Padneprės emporiumų graikų kolonistais, gyvenusiais dešiniajame Dnepro krante ties Kijevu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -148,8 +143,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     - c-175413
 
 <a id="claim-t-192644"></a>
-- t-006
-  global_id: t-192644
+- t-009
   teiginys: "Narbutas pasakoja, kad Herodotui Padneprės graikų kolonistai sakę, jog gintaras juos pasiekdavęs iš šiaurės vakarų jūros."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -169,8 +163,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     - c-175414
 
 <a id="claim-t-192645"></a>
-- t-007
-  global_id: t-192645
+- t-010
   teiginys: "Narbutas aiškino, kad gelonų-budinų nepasiekė nuo Dnestro plūdusios skitams priešiškos tautos, nes jos neprasiskverbė į kairįjį Dnepro krantą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -190,8 +183,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     - c-175415
 
 <a id="claim-t-192646"></a>
-- t-008
-  global_id: t-192646
+- t-011
   teiginys: "Narbutas kairiąją Dnepro pakrantę apibūdino kaip platų pavasario potvynių užliejamą slėnį su vasarą išdžiūstančiais ežerais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -211,8 +203,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     - c-175416
 
 <a id="claim-t-192647"></a>
-- t-009
-  global_id: t-192647
+- t-012
   teiginys: "Narbutas rašė, kad senoji kairioji Dnepro šaka driekėsi nuo Beržūnos iki Desnos žiočių, o prie Kijevo buvo įlankų ir gilių ežerėlių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -232,8 +223,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     - c-175417
 
 <a id="claim-t-192649"></a>
-- t-011
-  global_id: t-192649
+- t-014
   teiginys: "Narbutas rašė, kad daugiausia Baltarusijos pilkapių buvo Dnepro vidurupyje nuo Sklovo apylinkių iki Pripetės žiočių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -253,8 +243,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     - c-175419
 
 <a id="claim-t-197865"></a>
-- t-012
-  global_id: t-197865
+- t-015
   teiginys: "Tačiau ži noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama Chue, Chunnigard-, ji priklausė minėtai tautai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -266,8 +255,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     - c-179370
 
 <a id="claim-t-197866"></a>
-- t-013
-  global_id: t-197866
+- t-016
   teiginys: "Iš čia, tęsdami kelionę į vakarus, atėjo į kairįjį krantą Pripetės, senovėje laikytos vakarine Dnepro šaka1, Pentikapo upe, kurios vandens baseinas jungėsi su Nemuno sistema (.21)."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -279,8 +267,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     - c-179371
 
 <a id="claim-t-197867"></a>
-- t-014
-  global_id: t-197867
+- t-017
   teiginys: "Iš to darau išvadą, jog Gerų kraštas plytėjo abie jose Dnepro pakrantėse, kur viename plote sukaupta ga na daug pilkapių, panašių į šen bei ten išmėtytus kapi nynus, šio krašto vidurys yra Rogačiovas, kurio apylin kėse esama gausiausių pilkapių rinkinių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -292,8 +279,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     - c-175416
 
 <a id="claim-t-197868"></a>
-- t-015
-  global_id: t-197868
+- t-018
   teiginys: "Tų įdubų juos tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa grindinės upės vandens lygis buvo gerokai aukštesnis, tekėdavo visais metų laikais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -305,8 +291,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     - c-175417
 
 <a id="claim-t-197869"></a>
-- t-016
-  global_id: t-197869
+- t-019
   teiginys: "Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti palei senas Rusijos sienas su Lietuvos valstybe, de šiniojoje driekiasi už Borisovo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -316,18 +301,6 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179372
-
-<a id="claim-t-192648"></a>
-- t-010
-  global_id: t-192648
-  teiginys: 'Narbutas teigė, kad jo laikų Dnepro vandens masė buvo perpus mažesnė negu senovėje, nors vaga išlaikė panašų plotį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Hidrologinis palyginimas paliktas kaip Narbuto teiginys. Nepridėta papildomo aiškinimo apie Baltijos jūros upes.'
-  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Kijevas'
-  pagrindžia:
-    - c-010
 - susijęs iš [[objektai/asmenys/Jonas Komninas.md#claim-t-191285|Jonas Komninas]]: Pasak Narbuto, Jonui Komninui 1121 m. nugalėjus pečenegus, hiriai išsikėlė į kairįjį Dnepro krantą pas poloviečius.
 - susijęs iš [[objektai/grupes/Gelonai.md#claim-t-192385|Gelonai]]: Narbutas gelonus apibūdina kaip su graikų persikėlėliais siejamą tautą, kurios kolonija buvo kairiajame Dnepro krante tarp budinų.
 - susijęs iš [[objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md#claim-t-191012|Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai]]: Teodoro Narbuto pasakojime III a. pabaigoje ar IV a. pradžioje slavų tiveriečiai persikėlė nuo Dnestro žemupio prie Dnepro ir pasiekė Rosės žiotis.
@@ -520,11 +493,9 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     vusias šakas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192648
+  statusas: verified
 ## Citatos
 
 - id: c-168597
@@ -548,21 +519,15 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     ir prastuomenės, ir aukštuomenės, ir paties Maskvos
     didžiojo kunigaikščio, dūmoje įkalbėjo maskvėnus pa­
     siųsti, pavasariui prašvitus, visas jėgas prieš Smolenską,
-  citata_rodoma: |
-    Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
-    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
-    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
-    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
-    jo per mažai karių. Jį atsitraukiantį atkakliai perse­
-    kiojo karalius. Netoli Dnepro Glinskį pasitiko šešios
-    dešimtys tūkstančių maskvėnų.
+  citata_rodoma: "Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės\npriekaištų, gal iš pagarbos karaliui, pirmiausia su savo\nkariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­\ndamas stoti į atvirą kovą veikiausiai dėl to, kad turė­\njo per mažai karių. Jį atsitraukiantį atkakliai perse­\nkiojo karalius. Netoli Dnepro Glinskį pasitiko šešios\ndešimtys tūkstančių maskvėnų."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185236
+    - t-003
+
 - id: c-171575
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -579,21 +544,15 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     4 Žr. Klimaševskio 1831 metų NoworocznikLitewski (p. 206)**.
     5 Slaptajame kryžiuočių archyve Karaliaučiuje, krašto retenybių
     rinkinyje, yra nemažai tokių akmenų.
-  citata_rodoma: |
-    Kad Pavyslio, Padneprio senieji gyventojai
-    ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų
-    vaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
-    esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
-    buvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­
-    jo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­
-    jų, neužkąsdami jų žemėje, supildavo kalnelius.
+  citata_rodoma: "Kad Pavyslio, Padneprio senieji gyventojai\nir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų\nvaizdas. Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,\nesama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų\nbuvęs kažkokios milžiniškos tautos amžinos kapinės. Be abe­\njo, tai buvo skitai, milžinkapių pylėjai, kurie virš savo mirusių­\njų, neužkąsdami jų žemėje, supildavo kalnelius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188686
+    - t-005
+
 - id: c-175411
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -607,22 +566,15 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     kis amžius pelazgai įsigalėjo artimesnėje Hesperijoje,
     arba Italijoje, ir apie 1500 metus prieš Kristaus gimimą
     davė pradžią dorėnams ir achajams.
-  citata_rodoma: |
-    Būtent dėl šių priežasčių įvairios
-    pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
-    bos susiformavo graikų kalba.
-    17
-    Pelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­
-    čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
-    pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
-    Dono.
+  citata_rodoma: "Būtent dėl šių priežasčių įvairios\npelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­\nbos susiformavo graikų kalba.\n17\nPelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­\nčiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,\npradedant nuo Po ir Arno upių žiočių net iki Dnepro ir\nDono."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192641
+    - t-006
+
 - id: c-175412
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -641,7 +593,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192642
+    - t-007
+
 - id: c-175413
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -660,25 +613,15 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
     Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
     novės Kijevą.
-  citata_rodoma: |
-    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
-    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
-    vadinimo panašumu su chionitais. Šie buvo Padneprės
-    emporiumų graikų kolonistai, susigiminiavę su skitais ir
-    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
-    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
-    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
-    prie Volgos vidurupio, imperatorius Julijonas, taip pat
-    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
-    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
-    po to keliavo toliau per alanų kraštą.
+  citata_rodoma: "Galima tik daryti gana tikėtiną prielaidą, kuri remia­\nsi Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­\nvadinimo panašumu su chionitais. Šie buvo Padneprės\nemporiumų graikų kolonistai, susigiminiavę su skitais ir\ngyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;\nkitapus Dnepro jų kaimynai buvo alanai. Turime istorinių\npadavimų, jog, kai persų karalius Saporas žiemojo kažkur\nprie Volgos vidurupio, imperatorius Julijonas, taip pat\nbuvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,\nkurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o\npo to keliavo toliau per alanų kraštą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192643
+    - t-008
+
 - id: c-175414
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -698,7 +641,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192644
+    - t-009
+
 - id: c-175415
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -723,7 +667,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192645
+    - t-010
+
 - id: c-175416
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -751,8 +696,9 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192646
-    - t-197867
+    - t-011
+    - t-017
+
 - id: c-175417
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -777,30 +723,16 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     arba vidinės priežasties; tai turėjo sukelti didelius šių
     1 Iš Nestoro žinoma, kad Kijevo slėnis seniau buvo užlietas
     vandens, Dnepras tekėjo kita kryptimi (Karamzin.
-  citata_rodoma: |
-    Tų įdubų juos­
-    tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­
-    grindinės upės vandens lygis buvo gerokai aukštesnis,
-    tekėdavo visais metų laikais. Plytėjo ilga įlanka, arba
-    kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­
-    lios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­
-    je, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai
-    ežerėliai1. Pagaliau Pripetė ten, kur ji dabar įteka į Pa-
-    dneprės slėnį, plaukė maždaug varsto atstumu savo slė­
-    niu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de­
-    šiniąją, senų geografų vadinamą Borysthenis occidentale
-    latus vagą, kuri įsiliejo priešais Desnos žiotis į kairiąją
-    šaką ar kiek žemiau ir sudarė pagrindinę Dnepro vagą,
-    žemiau Kijevo virstančią didele upe — tikruoju senovės
-    Boristeniu.
+  citata_rodoma: "Tų įdubų juos­\ntos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­\ngrindinės upės vandens lygis buvo gerokai aukštesnis, \ntekėdavo visais metų laikais. Plytėjo ilga įlanka, arba \nkairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­\nlios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­\nje, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai \nežerėliai1. Pagaliau Pripetė ten, kur ji dabar įteka į Pa- \ndneprės slėnį, plaukė maždaug varsto atstumu savo slė­\nniu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de­\nšiniąją, senų geografų vadinamą Borysthenis occidentale \nlatus vagą, kuri įsiliejo priešais Desnos žiotis į kairiąją \nšaką ar kiek žemiau ir sudarė pagrindinę Dnepro vagą, \nžemiau Kijevo virstančią didele upe — tikruoju senovės \nBoristeniu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192647
-    - t-197868
+    - t-012
+    - t-018
+
 - id: c-175419
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -822,25 +754,15 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
     žūnos upių žemupio uždarame plote, o kairiojoje Dnepro
     pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­
     čių.
-  citata_rodoma: |
-    Paprastai jos būva netoli gyvenviečių
-    arba joms tinkamose vietose.
-    Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
-    daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
-    Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti
-    palei senas Rusijos sienas su Lietuvos valstybe, de­
-    šiniojoje driekiasi už Borisovo apskrities net iki tikrosios
-    Lietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-
-    žūnos upių žemupio uždarame plote, o kairiojoje Dnepro
-    pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­
-    čių.
+  citata_rodoma: "Paprastai jos būva netoli gyvenviečių\narba joms tinkamose vietose.\nNors pilkapių pasitaiko visoje Baltarusijoje, tačiau\ndaugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau\nSklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti\npalei senas Rusijos sienas su Lietuvos valstybe, de­\nšiniojoje driekiasi už Borisovo apskrities net iki tikrosios\nLietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-\nžūnos upių žemupio uždarame plote, o kairiojoje Dnepro\npakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­\nčių."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192649
+    - t-014
+
 - id: c-179370
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -860,7 +782,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197865
+    - t-015
+
 - id: c-179371
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -880,7 +803,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197866
+    - t-016
+
 - id: c-179372
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -905,6 +829,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197869
+    - t-019
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Hiriai]], [[objektai/asmenys/Kaidanas]]

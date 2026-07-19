@@ -38,10 +38,9 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187954"></a>
-- t-001
-  global_id: t-187954
+- t-004
   teiginys: "S. Daukantas T. Narbutui atsiuntė Alberto Vijūko-Kojalavičiaus „Herbyną“, Lietuvos bajorų giminių genealogijų rinkinį."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::authors"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -54,11 +53,11 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
+    - c-170939
     - c-170940
-    - c-002
+
 <a id="claim-t-187955"></a>
-- t-002
-  global_id: t-187955
+- t-005
   teiginys: "T. Narbutas pataisoje jau neabejojo, kad Lietuvos bajorų herbyno autorius buvo pats Albertas Vijūkas-Kojalavičius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::authors"
@@ -76,29 +75,20 @@ media_all_json: |-
     - c-170939
 
 <a id="claim-t-190623"></a>
-- t-004
-  global_id: t-190623
+- t-007
   teiginys: "Narbutas nurodė, kad Kojalavičius minėjo XV a. lenkiškus grašius piorunkas ir skyrė juos nuo Lietuvoje žinotų perunų."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kojalavičius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojalavičius: owner_note_path, author"
-  ryšio_targeto_parinkimas: "Kojalavičius: mention_match, person, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojalavičius\" parinktas kaip owner_note_path. Targetas \"Kojalavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173506
-    - c-004
+    - c-170939
+
 <a id="claim-t-190624"></a>
-- t-003
-  global_id: t-190624
+- t-008
   teiginys: "Narbutas kaltino Kojalavičių ir kitus autorius apšmeižus senovės lietuvius dėl tariamo mirštančiųjų mirties greitinimo papročio."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -118,10 +108,9 @@ media_all_json: |-
     - c-173507
 
 <a id="claim-t-190686"></a>
-- t-006
-  global_id: t-190686
+- t-009
   teiginys: "Albertas Vijūkas-Kojalavičius, Narbuto vertinimu, Strijkovskio veikalą sudėjo į istorinius rėmus ir ne visada taikliai taisė spragas."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -137,10 +126,9 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173568
-    - c-006
+
 <a id="claim-t-190687"></a>
-- t-005
-  global_id: t-190687
+- t-010
   teiginys: "Kojalavičiaus prielaidomis, Narbuto teigimu, rėmęsis Ksaveras Bogušas poloviečius priskyrė lietuvių genties tautoms."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -160,8 +148,7 @@ media_all_json: |-
     - c-173569
 
 <a id="claim-t-190688"></a>
-- t-008
-  global_id: t-190688
+- t-011
   teiginys: "Kojalavičius, Narbuto perteikimu, teigė, kad poloviečiai turėjo lietuvių kalbą, ir rėmėsi pasakojimu apie Mamajaus sugriautą Beloserką."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -180,7 +167,6 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173570
-    - c-008
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-190987|Teodoras Narbutas]]: Rengdamas antrąjį LTI leidimą, Narbutas išnašoje išbraukė žodžius „bene brolio“ apie A. Vijūką-Kojalavičių.
 ## Reikšmingi paminėjimai
 - c-002
@@ -200,8 +186,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187954
 - c-004
   santrauka: 'Narbutas nurodė, kad Kojalavičius minėjo XV a. lenkiškus grašius piorunkas ir skyrė juos nuo Lietuvoje žinotų perunų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -217,8 +201,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190623
 - c-006
   santrauka: 'Albertas Vijūkas-Kojalavičius, Narbuto vertinimu, Strijkovskio veikalą sudėjo į istorinius rėmus ir ne visada taikliai taisė spragas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -237,8 +219,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190686
 - c-008
   santrauka: 'Kojalavičius, Narbuto perteikimu, teigė, kad poloviečiai turėjo lietuvių kalbą, ir rėmėsi pasakojimu apie Mamajaus sugriautą Beloserką.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -257,8 +237,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190688
+
 ## Citatos
 
 - id: c-170939
@@ -273,18 +252,17 @@ media_all_json: |-
     ma ši pataisa, jau neabejojo, kad Lietuvos bajorų
     herbyno autorius buvo pats A. Vijūkas-Kojalavi-
     čius.
-  citata_rodoma: |
-    Tai rodo, kad T. Narbutas tuo metu, kai buvo daro­
-    ma ši pataisa, jau neabejojo, kad Lietuvos bajorų
-    herbyno autorius buvo pats A. Vijūkas-Kojalavi-
-    čius.
+  citata_rodoma: "Tai rodo, kad T. Narbutas tuo metu, kai buvo daro­\nma ši pataisa, jau neabejojo, kad Lietuvos bajorų\nherbyno autorius buvo pats A. Vijūkas-Kojalavi-\nčius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187955
+    - t-004
+    - t-005
+    - t-007
+
 - id: c-170940
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -300,18 +278,15 @@ media_all_json: |-
     natus suvežė į vieną iš Vilniaus bažnyčių, iš kurios, pasakoja­
     ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
     ir rankraščius išgabenti.
-  citata_rodoma: |
-    Pradžia jau buvo padaryta:
-    išleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-
-    jūko-Kojalavičiaus „Herbyną“ -  Lietuvos bajorų giminių ge­
-    nealogijų rinkinį.
+  citata_rodoma: "Pradžia jau buvo padaryta:\nišleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-\njūko-Kojalavičiaus „Herbyną“ -  Lietuvos bajorų giminių ge­\nnealogijų rinkinį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187954
+    - t-004
+
 - id: c-173506
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -323,20 +298,13 @@ media_all_json: |-
     Jis sako (7 lapas, antroji pusė): „Prūsijoje ir gretimuose kraš­
     tuose kapuose ir žemėje buvo randamos auksinės bei sidabri­
     nės monetos su nežinomais atvaizdais, herbais ir užrašais.
-  citata_rodoma: |
-    Vadinasi, bu­
-    vo tik Jupiteris, turėjęs antrąją ypatybę*.
-    Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
-    piorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos
-    nuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­
-    se buvo žinomi Lietuvoje.
+  citata_rodoma: "Vadinasi, bu­\nvo tik Jupiteris, turėjęs antrąją ypatybę*.\nŽinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti\npiorunkomis (Piorunki). Juos mini Kojalavičius24 ir skiria juos\nnuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­\nse buvo žinomi Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190623
 - id: c-173507
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -359,7 +327,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190624
+    - t-008
+
 - id: c-173568
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -382,23 +351,15 @@ media_all_json: |-
     skleidė jų turtingumą ir parodė retą jų panaudojimo pa­
     vyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų
     ir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.
-  citata_rodoma: |
-    Latvių, arba
-    Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
-    randa nemažai vertingų tautos istorijos perlų. Jėzuitas
-    Kojai avičius*** parašė lietuvių istoriją lotynų kalba; jis
-    apsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius
-    rėmus, ne visuomet taikliai taisydamas jo spragas.
-    6
-    Nuo to meto nieko iš šio dalyko neišėjo ištisai: mė­
-    ginimai, nedidelės žinutės, studijos, prielaidų fragmentai.
+  citata_rodoma: "Latvių, arba\nLivonijos, autoriai pas naujesnius senovės tyrinėtojus at­\nranda nemažai vertingų tautos istorijos perlų. Jėzuitas\nKojai avičius*** parašė lietuvių istoriją lotynų kalba; jis\napsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius\nrėmus, ne visuomet taikliai taisydamas jo spragas.\n6\nNuo to meto nieko iš šio dalyko neišėjo ištisai: mė­\nginimai, nedidelės žinutės, studijos, prielaidų fragmentai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190686
+    - t-009
+
 - id: c-173569
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -418,7 +379,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190687
+    - t-010
+
 - id: c-173570
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -433,20 +395,11 @@ media_all_json: |-
     Iš ko atsirado Beloserka? Ar tai nebuvo tas pats miestas,
     kurį sugriovė Mamajus? Netikėtą atsakymą į šiuos klau­
     simus pateiks kiti tyrinėjimai.
-  citata_rodoma: |
-    Taigi nėra įrodymų paneigti prielaidai, jog Charoboe or­
-    da XII amžiuje išsivedė su savimi lietuvių genčių kolo­
-    nistus, nuo seno gyvenusius prie Rosės upės.
-    101
-    Si nuomonė darosi vis panašesnė į tiesą, kai Kojala-
-    vičius2, teigęs, kad polovieciai turi lietuvių kalbą, nuro­
-    do istoriją, aprašančią pagalbą totorių vado Mamajaus,
-    kuris sugriovė tų poloviečių-lietuvių sostinę, vadinamą
-    Beloserka. Mamajus puldinėjo XIV amžiaus viduryje.
+  citata_rodoma: "Taigi nėra įrodymų paneigti prielaidai, jog Charoboe or­\nda XII amžiuje išsivedė su savimi lietuvių genčių kolo­\nnistus, nuo seno gyvenusius prie Rosės upės.\n101\nSi nuomonė darosi vis panašesnė į tiesą, kai Kojala-\nvičius2, teigęs, kad polovieciai turi lietuvių kalbą, nuro­\ndo istoriją, aprašančią pagalbą totorių vado Mamajaus,\nkuris sugriovė tų poloviečių-lietuvių sostinę, vadinamą\nBeloserka. Mamajus puldinėjo XIV amžiaus viduryje."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190688
+    - t-011

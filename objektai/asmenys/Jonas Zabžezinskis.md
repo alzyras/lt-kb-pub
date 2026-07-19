@@ -41,7 +41,6 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
 
 <a id="claim-t-87419"></a>
 - t-001
-  global_id: t-87419
   teiginys: "Jonas Zabžezinskis lydėjo paliegusį karalių Aleksandrą, kai šis ponų patarimu buvo nugabentas į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
 
 <a id="claim-t-87420"></a>
 - t-002
-  global_id: t-87420
   teiginys: "Jonas Zabžezinskis 1533 metų spalio 26 dieną dovanojimo aktu Vilniaus vyskupui Jonui perdavė mūrinį namą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,7 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    391. Mūrinio
+    Ko j a ł o w i c z, II, p. 391. Mūrinio
     namo, stovinčio Šv. Jono ir Vysku­
     pų gatvės kampe, dovanojimo aktu,
     padarytame Trakų vaivados Jono
@@ -95,23 +93,15 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
     metų spalio 26 dieną (Archiwum Ka­
     pitulų MSS), yra užsimenama apie
     tą didelį gaisrą.
-  citata_rodoma: |
-    391. Mūrinio
-    namo, stovinčio Šv. Jono ir Vysku­
-    pų gatvės kampe, dovanojimo aktu,
-    padarytame Trakų vaivados Jono
-    Zabžezinskio Vilniaus vyskupui Jo­
-    nui iš Lietuvos kunigaikščių, 1533
-    metų spalio 26 dieną (Archiwum Ka­
-    pitulų MSS), yra užsimenama apie
-    tą didelį gaisrą.
+  citata_rodoma: "391. Mūrinio \nnamo, stovinčio Šv. Jono ir Vysku­\npų gatvės kampe, dovanojimo aktu, \npadarytame Trakų vaivados Jono \nZabžezinskio Vilniaus vyskupui Jo­\nnui iš Lietuvos kunigaikščių, 1533 \nmetų spalio 26 dieną (Archiwum Ka­\npitulų MSS), yra užsimenama apie \ntą didelį gaisrą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87420
+    - t-002
+
 - id: c-83399
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -131,4 +121,4 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87419
+    - t-001

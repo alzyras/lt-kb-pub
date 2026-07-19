@@ -37,7 +37,6 @@ Kazimieraicio : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES ) Leipalingis Armoni
 
 <a id="claim-t-38452"></a>
 - t-001
-  global_id: t-38452
   teiginys: "1950 m. liepos 22 d. Daugėliškių miške MGB 208-ojo pulko kareiviai puolė partizanų bunkerį, per puolimą žuvo 5 partizanai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Kazimieraicio : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES ) Leipalingis Armoni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38452
+    - t-001

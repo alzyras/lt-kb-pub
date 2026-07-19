@@ -46,7 +46,6 @@ Labai stipraus laukimo ar troškimo palyginimas.
 
 <a id="claim-t-199233"></a>
 - t-001
-  global_id: t-199233
   teiginys: "1846 m. Bychovco kronikos leidimo laukimas apibūdinamas palyginimu „kaip ištroškęs vandens lašelio“."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -58,7 +57,7 @@ Labai stipraus laukimo ar troškimo palyginimas.
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-181750
-    - c-170074
+
 ## Citatos
 
 - id: c-181750
@@ -72,33 +71,11 @@ Labai stipraus laukimo ar troškimo palyginimas.
     išėjo atskiru leidiniu.10 Rankraščio tekstas jame buvo
     perteiktas be jokių taisymų, su rašybos, skyrybos klai­
     domis ir paraščių pastabomis.
-  citata_rodoma: |
-    1846 m. Bychovco kronika, kurios, anot S. Daukanto,
-    visi seniai jau laukė, „kaip ištroškęs vandens lašelio" , J ,
-    išėjo atskiru leidiniu.1 0  Rankraščio tekstas jame buvo
-    perteiktas be jokių taisymų, su rašybos, skyrybos klai­
-    domis ir paraščių pastabomis.
+  citata_rodoma: "1846 m. Bychovco kronika, kurios, anot S. Daukanto, \nvisi seniai jau laukė, „kaip ištroškęs vandens lašelio\" , J , \nišėjo atskiru leidiniu.1 0  Rankraščio tekstas jame buvo \nperteiktas be jokių taisymų, su rašybos, skyrybos klai­\ndomis ir paraščių pastabomis."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199233
-- id: c-170074
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    1846 m. Bychovco kronika, kurios, anot S. Daukanto,
-    visi seniai jau laukė, „kaip ištroškęs vandens lašelio" , J ,
-    išėjo atskiru leidiniu.1 0  Rankraščio tekstas jame buvo
-    perteiktas be jokių taisymų, su rašybos, skyrybos klai­
-    domis ir paraščių pastabomis.
-  citata_rodoma: "1846 m. Bychovco kronika, kurios, anot S. Daukanto, \nvisi seniai jau laukė, „kaip ištroškęs vandens lašelio\" , J , \nišėjo atskiru leidiniu."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-199233
+    - t-001

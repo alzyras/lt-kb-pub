@@ -60,10 +60,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186791"></a>
-- t-001
-  global_id: t-186791
+- t-002
   teiginys: "Aleksandras 1501 m. spalio 3 d. Petrakave buvo preliminariai išrinktas Lenkijos karaliumi po Jono Olbrachto mirties."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
@@ -82,8 +81,7 @@ Nenurodyta
     - c-169981
 
 <a id="claim-t-186792"></a>
-- t-002
-  global_id: t-186792
+- t-001
   teiginys: "Lenkijos seimas 1501 m. spalio 3 d. Petrakave preliminariai išrinko Aleksandrą Lenkijos karaliumi."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -119,19 +117,12 @@ Nenurodyta
     M Andrius Droždža. Aleksandro favorito kunigaikščio Mykolo
     Glinskio giminaitis, sūnus Aleksandro Droždžos, Kazimiero laikais
     buvusio Lietuvos Kameneco (prie Brastosl valdytoju (1470—1479).
-  citata_rodoma: |
-    Turim a galvoje Lenkijos delegacija, kurių išsiuntė Lenkijos
-    seimas, 1501 X 3 Pelrakave sulyginai išrinkęs Ldk Aleksandrų Len-
-
-    ## Puslapis 321
-
-    kijos karaliumi vieton I501.VI.17 m irusio jo brolio Jono Olbrach-
-    to.
+  citata_rodoma: "Turim a galvoje Lenkijos delegacija, kurių išsiuntė Lenkijos \nseimas, 1501 X 3 Pelrakave sulyginai išrinkęs Ldk Aleksandrų Len-\n\n## Puslapis 321\n\nkijos karaliumi vieton I501.VI.17 m irusio jo brolio Jono Olbrach- \nto."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186791
-    - t-186792
+    - t-002
+    - t-001

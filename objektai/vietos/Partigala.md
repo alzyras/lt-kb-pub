@@ -30,8 +30,7 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 ## Teiginiai
 
 <a id="claim-t-58466"></a>
-- t-001
-  global_id: t-58466
+- t-003
   teiginys: "Kunigaikštis ir broliai su kariuomene paėmė Partigalos pilį ir kuorą, juos sudegino, o žmones išsivedė į nelaisvę arba išžudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
     - c-59099
 
 <a id="claim-t-58467"></a>
-- t-002
-  global_id: t-58467
+- t-001
   teiginys: "Varmės žemėje gyvenę Gubučiai sutelkė daug karių ir to paties vardo lauke pastatė Partigalos pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
     - c-59100
 
 <a id="claim-t-58468"></a>
-- t-003
-  global_id: t-58468
+- t-002
   teiginys: "Partigala vėliau vadinta Partheinen ir buvo į pietryčius nuo Balgos, kur išliko pilies kalnas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -103,7 +100,8 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58468
+    - t-002
+
 - id: c-59099
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -118,19 +116,15 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
     pelenais, o žmones išsivesdami į nelaisvę arba išžudydami. Toliau būdamas Baigos
     pilyje, kunigaikštis tais metais ne sykį grūmėsi kovos lauke su prūsais ir daug kartų
     taip kamavo prusus, kad tie nė atsikvėpti negalėjo.
-  citata_rodoma: |
-    Sitai padarę, kunigaikštis bei broliai su savo
-    kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami
-    pelenais, o žmones išsivesdami  į nelaisvę arba išžudydami. Toliau būdamas Baigos
-    pilyje, kunigaikštis tais metais ne sykį grūmėsi kovos lauke su prūsais ir daug kartų
-    taip kamavo prusus, kad tie nė atsikvėpti negalėjo.
+  citata_rodoma: "Sitai padarę, kunigaikštis bei broliai su savo\nkariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami\npelenais, o žmones išsivesdami  į nelaisvę arba išžudydami. Toliau būdamas Baigos\npilyje, kunigaikštis tais metais ne sykį grūmėsi kovos lauke su prūsais ir daug kartų\ntaip kamavo prusus, kad tie nė atsikvėpti negalėjo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58466
+    - t-003
+
 - id: c-59100
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -142,19 +136,14 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
     jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą
     [propugnaculum[ Skrando kalne250, sustiprinę  jį visokiais  kariais. Šie kasdien taip
     puldinėjo Baigos pilies brolius, kad niekas nedrįso rodytis už pilies sienų.
-  citata_rodoma: |
-    Apie Partigalos pilies ir Skrando kuoro pastatymą
-
-      Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams;
-    jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą
-    [propugnaculum[ Skrando kalne250, sustiprinę  jį visokiais  kariais. Šie kasdien taip
-    puldinėjo Baigos pilies brolius, kad niekas nedrįso rodytis už pilies sienų.
+  citata_rodoma: "Apie Partigalos pilies ir Skrando kuoro pastatymą\n\n  Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams;\njie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą\n[propugnaculum[ Skrando kalne250, sustiprinę  jį visokiais  kariais. Šie kasdien taip\npuldinėjo Baigos pilies brolius, kad niekas nedrįso rodytis už pilies sienų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58467
+    - t-001
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Gubučiai]]

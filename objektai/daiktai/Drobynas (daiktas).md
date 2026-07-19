@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-201365"></a>
 - t-001
-  global_id: t-201365
   teiginys: "Vos buvo atkolęs drobynas į mūrus, tuojau visų baisiausia kova prasidėjo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184715
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vasarop
     persikėlęs per Nemuną, įsigrūdo staiga į Lietuvą ir
@@ -79,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201365
+    - t-001

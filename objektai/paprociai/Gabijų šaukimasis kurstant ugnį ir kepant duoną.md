@@ -41,26 +41,11 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189916"></a>
-- t-001
-  global_id: t-189916
-  teiginys: 'Narbuto aiškinime Gabijos buvo šaukiamasi kurstant ugnį jaujose, Pelenų Gabijos - namų krosnyse, o Moterų Gabijos - kepant duoną.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Religinis dievybių ryšio aiškinimas ir šaukimosi praktikos pateikti su Narbuto atribucija. Palikti tik citatoje nurodyti vardai ir naudojimo situacijos.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]'
-  pagrindžia:
-    - c-172799
-
-## Citatos
-
-- id: c-172799
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbuto aiškinime Gabijos buvo šaukiamasi kurstant ugnį jaujose, Pelenų Gabijos - namų krosnyse, o Moterų Gabijos - kepant duoną.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     124
 
@@ -75,10 +60,8 @@ Nenurodyta
     grėsdavo gaisras; Pelenų Gabijos -  moterys, kurstydamos ug­
     nį krosnyse namuose. Šauktis Moterų Gabijos -  tai paprotys
     kepėjų, norinčių, kad gerai nusisektų duona*.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189916
+  statusas: verified

@@ -39,7 +39,6 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
 
 <a id="claim-t-61280"></a>
 - t-001
-  global_id: t-61280
   teiginys: "S. Samalavičiaus ir S. Ambramausko straipsnis „Naujas XIII a. šaltinis apie baltus“ paskelbtas „Kultūros baruose“ 1984 m., Nr. 6."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorius, straipsnio pavadinimą, leidinį, metus ir numerį."
   pagrindžia:
     - c-61912
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'S. Samalavičiaus ir S. Ambramausko straipsnis „Naujas XIII a. šaltinis apie baltus“ paskelbtas „Kultūros baruose“ 1984 m., Nr. 6.'
@@ -62,8 +61,7 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61280
+
 ## Citatos
 
 - id: c-61912
@@ -74,13 +72,11 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
     6, p. 173—314.
     Samalavičius S., Ambramauskas S. Naujas XIII a. šaltinis apie baltus.— Kultūros
     barai, 1984, Nr. 6, p. 62—64.
-  citata_rodoma: |
-    Samalavičius S., Ambramauskas S. Naujas XIII a. šaltinis apie baltus.— Kultūros
-    barai, 1984, Nr. 6, p. 62—64.
+  citata_rodoma: "Samalavičius S., Ambramauskas S. Naujas XIII a. šaltinis apie baltus.— Kultūros\nbarai, 1984, Nr. 6, p. 62—64."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61280
+    - t-001

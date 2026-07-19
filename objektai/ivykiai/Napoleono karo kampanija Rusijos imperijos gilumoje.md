@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-86922"></a>
 - t-001
-  global_id: t-86922
   teiginys: "1812 m. prancūzams valdant Vilnių ir Lietuvą, krašto bajorai laukė žinių apie Napoleono kampaniją Rusijos imperijos gilumoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-86923"></a>
 - t-002
-  global_id: t-86923
   teiginys: "Po Napoleono sutriuškinimo Rusijoje kurį laiką pagyvėjo visuomeninis gyvenimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,7 +105,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86923
+    - t-002
+
 - id: c-82902
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -127,4 +126,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86922
+    - t-001

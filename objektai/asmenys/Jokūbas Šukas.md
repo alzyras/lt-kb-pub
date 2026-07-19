@@ -28,7 +28,6 @@ Vaitas Jokūbas Šukas prisiminęs, kad buvę viešai paskelbta, jog be laidavim
 
 <a id="claim-t-202172"></a>
 - t-001
-  global_id: t-202172
   teiginys: "Vaitas Jokūbas Šukas prisiminęs, kad buvę viešai paskelbta, jog be laidavimo nieko negalima samdyti."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -56,4 +55,4 @@ Vaitas Jokūbas Šukas prisiminęs, kad buvę viešai paskelbta, jog be laidavim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202172
+    - t-001

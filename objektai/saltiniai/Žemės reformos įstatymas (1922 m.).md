@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-193730"></a>
 - t-001
-  global_id: t-193730
   teiginys: "1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų balsais priėmė pagrindinį Žemės reformos įstatymą."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193730
+    - t-001

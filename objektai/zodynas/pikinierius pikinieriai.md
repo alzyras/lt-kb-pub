@@ -31,7 +31,6 @@ Svetimšalių autoramento „vokiškojo“ tipo pėstininkas-ietininkas (pikinie
 
 <a id="claim-t-42496"></a>
 - t-001
-  global_id: t-42496
   teiginys: "Pikinierius buvo svetimšalių autoramento vokiškojo tipo pėstininkas-ietininkas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,18 +60,11 @@ Svetimšalių autoramento „vokiškojo“ tipo pėstininkas-ietininkas (pikinie
 
     Ištrauka iš A. Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius
     prieš Zaporožės kazokus“ apie Lojevo mūšį.
-  citata_rodoma: |
-    Svetimšalių autoramento „vokiškojo“ tipo pėstinin-
-    kas-ietininkas (pikinierius). Svetimšalių autoramento
-    pėstininkai būdavo ginkluoti ietimis arba muškietomis =
-
-    LOJEVO MUSIS
-
-    Ištrauka iš A.
+  citata_rodoma: "Svetimšalių autoramento „vokiškojo“ tipo pėstinin-\nkas-ietininkas (pikinierius). Svetimšalių autoramento\npėstininkai būdavo ginkluoti ietimis arba muškietomis =\n\nLOJEVO MUSIS\n\nIštrauka iš A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42496
+    - t-001

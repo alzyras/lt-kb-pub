@@ -41,9 +41,8 @@ Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį su
 
 <a id="claim-t-60407"></a>
 - t-001
-  global_id: t-60407
   teiginys: "Kunigas ir nuodėmklausys Petras subarė brolį dėl grandininių šarvų, bet šis atsisakė juos nusivilkti, kol gyvas."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Šarvai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -58,7 +57,6 @@ Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį su
 
 <a id="claim-t-197143"></a>
 - t-002
-  global_id: t-197143
   teiginys: "Petras (Hermano iš Lichtenburgo nuodėmklausys) taip nusiaubė šią [žemę], kad kitais metais ji vėl pasidavė tikėjimui bei broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -90,18 +88,12 @@ Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį su
     Notangos žeme ligi Gerkynės prekyvietės408, kur išbuvo tris dienas ir naktis, kiekvieną
     dieną valydamas Notangą gaisrais bei plėšimais Jis  taip nusiaubė šią [žemę], kad kitais
     metais ji vėl pasidavė tikėjimui bei broliams.
-  citata_rodoma: |
-    Kai brolis
-    Petras, kunigas ir jo nuodėmklausys, jį subarė, sakydamas, kad karo metu dėl kitų šarvų
-    svorio jis privaląs nusiimti grandininius, tas atrėžė, kad niekas jo negalįs priversti, kol
-    gyvas, juos nusivilkti. Tačiau kitą naktį jam pasirodė švenčiausioji mergelė Marija, kuri jį
-    taip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą
-    jį išvydęs, nepastebėjo ant jo odos jokių sužalojimo žymių.
+  citata_rodoma: "Kai brolis\nPetras, kunigas ir jo nuodėmklausys, jį subarė, sakydamas, kad karo metu dėl kitų šarvų\nsvorio jis privaląs nusiimti grandininius, tas atrėžė, kad niekas jo negalįs priversti, kol\ngyvas, juos nusivilkti. Tačiau kitą naktį jam pasirodė švenčiausioji mergelė Marija, kuri jį\ntaip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą\njį išvydęs, nepastebėjo ant jo odos jokių sužalojimo žymių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60407
-    - t-197143
+    - t-001
+    - t-002

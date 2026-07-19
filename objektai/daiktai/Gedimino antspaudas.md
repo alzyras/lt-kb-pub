@@ -65,7 +65,6 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
 
 <a id="claim-t-55034"></a>
 - t-001
-  global_id: t-55034
   teiginys: "1323 m. gegužės 26 d. datuotuose laiškuose antspaudas pateikiamas kaip rašto tikrumo ir pasitikėjimo patvirtinimo priemonė."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -84,7 +83,6 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
 
 <a id="claim-t-55035"></a>
 - t-002
-  global_id: t-55035
   teiginys: "Kryžiuočiai Gedimino antspaudą įmetė į ugnį, o jo tikrumą ginčijantys asmenys laiškuose buvo pasmerkti."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -100,8 +98,7 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     - c-55378
 
 <a id="claim-t-81845"></a>
-- t-003
-  global_id: t-81845
+- t-005
   teiginys: "Gediminas prie laiško pridėjo antspaudą, kurį buvo siuntęs popiežiui ir kurį kryžiuočiai įmetė į ugnį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -118,7 +115,6 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
 
 <a id="claim-t-81846"></a>
 - t-004
-  global_id: t-81846
   teiginys: "Gediminas savo karališkuoju antspaudu sutvirtino laišką, kuriame žadėjo pasiuntiniams nustatyti tarpusavio taiką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -134,8 +130,7 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     - c-78390
 
 <a id="claim-t-81847"></a>
-- t-005
-  global_id: t-81847
+- t-003
   teiginys: "Kryžiuočiai sudegino Gedimino antspaudą, siekdami užgniaužti jo pradėtą darbą ir apdumti žmonėms akis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -180,8 +175,9 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55034
-    - t-55035
+    - t-001
+    - t-002
+
 - id: c-78389
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -234,7 +230,8 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81847
+    - t-003
+
 - id: c-78390
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -266,7 +263,8 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81846
+    - t-004
+
 - id: c-78391
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -287,4 +285,4 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81845
+    - t-005

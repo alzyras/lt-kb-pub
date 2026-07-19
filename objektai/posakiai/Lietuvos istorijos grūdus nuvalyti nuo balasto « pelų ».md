@@ -31,7 +31,6 @@ Metodiškai ir logiškai įpratusiam dirbti aukšto išsilavinimo jėzuitui jau 
 
 <a id="claim-t-31547"></a>
 - t-001
-  global_id: t-31547
   teiginys: "Kojalavičius M. Stryjkovskio kroniką sutvarkė pagal literatūrinius reikalavimus, tarsi nuvalydamas Lietuvos istorijos grūdus nuo pelų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,16 +61,11 @@ Metodiškai ir logiškai įpratusiam dirbti aukšto išsilavinimo jėzuitui jau 
     balasto « pelų », t. y. M. Stryjkovskio Kroniką _«_ sutvarkyti pagal
     literatūrinius reikalavimus » kaip pats Kojalavičius savo pratarmėje
     pažymėjo.
-  citata_rodoma: |
-    Metodiškai ir logiškai įpratusiam dirbti aukšto išsilavinimo
-    jėzuitui jau nebuvo sunku Lietuvos istorijos grūdus nuvalyti nuo
-    balasto « pelų », t. y. M. Stryjkovskio Kroniką _«_ sutvarkyti pagal
-    literatūrinius reikalavimus » kaip pats Kojalavičius savo pratarmėje
-    pažymėjo.
+  citata_rodoma: "Metodiškai ir logiškai įpratusiam dirbti aukšto išsilavinimo\njėzuitui jau nebuvo sunku Lietuvos istorijos grūdus nuvalyti nuo\nbalasto « pelų », t. y. M. Stryjkovskio Kroniką _«_ sutvarkyti pagal\nliteratūrinius reikalavimus » kaip pats Kojalavičius savo pratarmėje\npažymėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31547
+    - t-001

@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-86876"></a>
 - t-001
-  global_id: t-86876
   teiginys: "Michałas Balińskis Žygimanto Augusto laikus Vilniuje vadino aukso amžiumi, o jo mirtį - visuotinio sielvarto ir sunkios netekties diena."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86876
+    - t-001

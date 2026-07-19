@@ -34,7 +34,6 @@ media_all_json: |-
 
 <a id="claim-t-201447"></a>
 - t-001
-  global_id: t-201447
   teiginys: "2 B a y e r, De numo Rhodio in apusc., p. 496; V a t e r."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184797
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     1 N a r b u 11, "Tygodn. Wile6.'\ 1817, Nr. 71.
     2 B a y e r, De numo Rhodio in apusc., p. 496; V a t e r.
@@ -59,4 +59,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201447
+    - t-001

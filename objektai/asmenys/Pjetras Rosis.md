@@ -28,30 +28,8 @@ Narbutas rašo, kad dailininkas Pjetras Rosis, remdamasis rankraščio aprašymu
 
 ## Teiginiai
 
-<a id="claim-t-190199"></a>
-- t-001
-  global_id: t-190199
-  teiginys: "Narbutas rašo, kad dailininkas Pjetras Rosis, remdamasis rankraščio aprašymu, nupiešė gotiško stiliaus šventyklą."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pjetras Rosis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pjetras Rosis\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173082
-
 <a id="claim-t-197438"></a>
 - t-002
-  global_id: t-197438
   teiginys: "Pjetras Rosis visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -84,5 +62,4 @@ Narbutas rašo, kad dailininkas Pjetras Rosis, remdamasis rankraščio aprašymu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190199
-    - t-197438
+    - t-002

@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185736"></a>
 - t-001
-  global_id: t-185736
   teiginys: "Kare dėl Liublino rusai sutelkė didelę kariuomenę ir į pagalbą pasikvietė skitus bei lietuvius."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -70,28 +69,18 @@ Nenurodyta
 
 <a id="claim-t-185737"></a>
 - t-002
-  global_id: t-185737
   teiginys: "Po pralaimėjimo rusai nebeatnaujino mūšio, o išblaškytus jų karius žudė pergalingi lenkai."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Rusai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Mūšio tęsinio ir lenkų pergalės aprašymas tiesiogiai rodo lenkų ir rusų karinę priešpriešą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Lenkai kariavo prieš Rusai (0.78)"
   pagrindžia:
-    - c-169098
+    - c-169097
 
 <a id="claim-t-196200"></a>
 - t-003
-  global_id: t-196200
   teiginys: "Kare dėl Liublino abi pusės sutelkė didžiules kariuomenes, o rusai pagalbon pasikvietė skitus ir lietuvius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -105,7 +94,6 @@ Nenurodyta
 
 <a id="claim-t-196201"></a>
 - t-004
-  global_id: t-196201
   teiginys: "Kojelavičiaus pasakojime Liublino pralaimėjimas smarkiai sutrikdė lietuvius, todėl jie metus gyveno ramiai ir atkūrinėjo jėgas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -139,8 +127,10 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185736
-    - t-196200
+    - t-001
+    - t-002
+    - t-003
+
 - id: c-169098
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -166,5 +156,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185737
-    - t-196201
+    - t-004

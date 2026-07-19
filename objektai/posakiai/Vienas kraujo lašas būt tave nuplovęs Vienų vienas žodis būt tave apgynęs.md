@@ -39,7 +39,6 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
 
 <a id="claim-t-41468"></a>
 - t-001
-  global_id: t-41468
   teiginys: "Poeto Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 metų įvykių vertinimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
 
 <a id="claim-t-41469"></a>
 - t-002
-  global_id: t-41469
   teiginys: "Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ aiškina kaip priminimą apie protestų ir Vyriausybės pasitraukimo galimybę 1940 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,21 +87,15 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
     mirštant, kad priešintis galima protestais ir bent jau Vyriausybės
     pasitraukimu, kas ir buvo siūloma 1940 m. birželio 15 nakties po-
     sėdyje.
-  citata_rodoma: |
-    “
-
-    Užmirštama mintimis pereiti ir į kitą Aisčio eilutę - „Vienų
-    vienas žodis būt tave apgynęs“. O tai reiškia, kad dažniausiai kalba
-    tik ir sukasi apie „simbolinį šūvį“ ar net „simbolines aukas“, už-
-    mirštant, kad priešintis galima protestais ir bent jau Vyriausybės
-    pasitraukimu, kas ir buvo siūloma 1940 m.
+  citata_rodoma: "“\n\nUžmirštama mintimis pereiti ir į kitą Aisčio eilutę - „Vienų\nvienas žodis būt tave apgynęs“. O tai reiškia, kad dažniausiai kalba\ntik ir sukasi apie „simbolinį šūvį“ ar net „simbolines aukas“, už-\nmirštant, kad priešintis galima protestais ir bent jau Vyriausybės\npasitraukimu, kas ir buvo siūloma 1940 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41469
+    - t-002
+
 - id: c-44965
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -117,14 +109,11 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
     eilutė „Vienas kraujo lašas būt tave nuplovęs“, ir kažkodėl niekas
     nekreipia dėmesio į tai, kad 1940 m. birželio 15 ryte Ūtos pasienio
     poste buvo nužudytas pasienietis Aleksandras Barauskas.
-  citata_rodoma: |
-    Iš tikrųjų dažnai kartojama poeto Jono Aisčio
-    eilutė „Vienas kraujo lašas būt tave nuplovęs“, ir kažkodėl niekas
-    nekreipia dėmesio į tai, kad 1940 m.
+  citata_rodoma: "Iš tikrųjų dažnai kartojama poeto Jono Aisčio\neilutė „Vienas kraujo lašas būt tave nuplovęs“, ir kažkodėl niekas\nnekreipia dėmesio į tai, kad 1940 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41468
+    - t-001

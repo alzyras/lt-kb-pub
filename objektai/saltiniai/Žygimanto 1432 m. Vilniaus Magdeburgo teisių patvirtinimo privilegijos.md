@@ -38,7 +38,6 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
 
 <a id="claim-t-88216"></a>
 - t-001
-  global_id: t-88216
   teiginys: "1432 m. Vilnius gavo Magdeburgo teisių atnaujinimą ir patvirtinimą dviem privilegijomis lotynų ir rusų kalbomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
 
 <a id="claim-t-88217"></a>
 - t-002
-  global_id: t-88217
   teiginys: "Žygimantas privilegijose Vilniui amžiams suteikė vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
     - c-84196
 
 <a id="claim-t-88218"></a>
-- t-003
-  global_id: t-88218
+- t-004
   teiginys: "Žygimantas garantavo Vilniui pajamas iš vyno, midaus ir alaus smuklių, palikdamas mokestį kunigaikščio iždui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +88,7 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
     - c-84198
 
 <a id="claim-t-88219"></a>
-- t-004
-  global_id: t-88219
+- t-003
   teiginys: "Žygimanto privilegijos nustatė, kad Vilniaus vaitą į teismą galėjo kviesti tik pats kunigaikštis raštu su valdovo antspaudu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,7 +129,8 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88219
+    - t-003
+
 - id: c-84196
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -154,7 +151,8 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88217
+    - t-002
+
 - id: c-84197
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -199,7 +197,8 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88216
+    - t-001
+
 - id: c-84198
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -223,4 +222,4 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88218
+    - t-004

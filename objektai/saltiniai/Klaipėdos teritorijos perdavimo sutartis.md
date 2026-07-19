@@ -37,7 +37,6 @@ Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investic
 
 <a id="claim-t-21081"></a>
 - t-001
-  global_id: t-21081
   teiginys: "1939 m. pradžioje britai ir prancūzai pranešė negarantuosiantys Klaipėdos status quo, o be pagalbos Lietuva Klaipėdos nebegalėjo išlaikyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,12 +65,11 @@ Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investic
     pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
     (Klaipėdos konvencijos signatarai) pranešė, jog jie negarantuoja Klaipė-
     dai status quo, o be pagalbos išlaikyti Klaipėdą Lietuva nebegalėjo.
-  citata_rodoma: |
-    pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
+  citata_rodoma: "pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21081
+    - t-001

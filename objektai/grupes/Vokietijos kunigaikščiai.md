@@ -37,7 +37,6 @@ Vokietijos kunigaikščiai galėjo paremti ordiną.
 
 <a id="claim-t-31373"></a>
 - t-001
-  global_id: t-31373
   teiginys: "Vokietijos kunigaikščiai galėjo paremti ordiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,15 +66,11 @@ Vokietijos kunigaikščiai galėjo paremti ordiną.
     ordiną.
     Torno taika ordino ir Lenkijos santykiuose vėl įgalino kryžiuo­
     čiams naudingus Raciąžo susitarimus.
-  citata_rodoma: |
-    Vokietijos kunigaikščiai galėjo paremti
-    ordiną.
-    Torno taika ordino ir Lenkijos santykiuose vėl įgalino kryžiuo­
-    čiams naudingus Raciąžo susitarimus.
+  citata_rodoma: "Vokietijos kunigaikščiai galėjo paremti\nordiną.\nTorno taika ordino ir Lenkijos santykiuose vėl įgalino kryžiuo­\nčiams naudingus Raciąžo susitarimus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31373
+    - t-001

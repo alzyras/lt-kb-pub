@@ -43,9 +43,8 @@ Nenurodyta
 
 <a id="claim-t-189633"></a>
 - t-001
-  global_id: t-189633
   teiginys: "Narbutas Vaidevutį ir Prutenį vaizduoja kaip geresnės civilinės bei religinės tvarkos įvedėjus, vyriausiuosius žynius ir tautos vadus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -61,7 +60,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172516
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Vaidevutį ir Prutenį vaizduoja kaip geresnės civilinės bei religinės tvarkos įvedėjus, vyriausiuosius žynius ir tautos vadus.'
@@ -80,8 +79,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189633
+
 ## Citatos
 
 - id: c-172516
@@ -98,19 +96,11 @@ Nenurodyta
     rnovei kildavo grėsmė, kad gali būti priešo užimta, arba kai ji
     būdavo naikinama, kaip per karus su lenkais, tuomet jis gy­
     vendavo vietovėse, kurios turi panašius pavadinimus.
-  citata_rodoma: |
-    Čia pakaks pasakyti, kad kiekvienas, susipažinęs su lie­
-    tuvių tautos istorija ir mitologija, teiginius, kuriais abejojama
-    vyriausiojo žynio buvimu, palaikys nesąmone.
-    Šios garbingos elementariųjų religijos dalykų pareigos su­
-    tapo su aukščiausiosios civilinės valdžios turėjimu. Taigi Vai­
-    devutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,
-    buvo kartu vyriausieji žyniai ir tautos vadai, arba didieji kuni­
-    gaikščiai .
+  citata_rodoma: "Čia pakaks pasakyti, kad kiekvienas, susipažinęs su lie­\ntuvių tautos istorija ir mitologija, teiginius, kuriais abejojama\nvyriausiojo žynio buvimu, palaikys nesąmone.\nŠios garbingos elementariųjų religijos dalykų pareigos su­\ntapo su aukščiausiosios civilinės valdžios turėjimu. Taigi Vai­\ndevutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,\nbuvo kartu vyriausieji žyniai ir tautos vadai, arba didieji kuni­\ngaikščiai ."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189633
+    - t-001

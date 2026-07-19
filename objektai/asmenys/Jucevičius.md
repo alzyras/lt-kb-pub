@@ -39,7 +39,6 @@ Jucevičiui priklausiusiame Burokų dvare 1836 m. gegužę Bonaventūras Milevsk
 
 <a id="claim-t-191500"></a>
 - t-001
-  global_id: t-191500
   teiginys: "Jucevičiui priklausiusiame Burokų dvare 1836 m. gegužę Bonaventūras Milevskis ardamas iškasė figūrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Jucevičiui priklausiusiame Burokų dvare 1836 m. gegužę Bonaventūras Milevsk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191500
+    - t-001

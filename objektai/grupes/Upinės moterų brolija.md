@@ -38,7 +38,6 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
 
 <a id="claim-t-189505"></a>
 - t-001
-  global_id: t-189505
   teiginys: "Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, atlikdavusi apeigas deivei Upinei."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
 
 <a id="claim-t-189506"></a>
 - t-002
-  global_id: t-189506
   teiginys: "Narbutas pasakojo, kad iki uždraudimo Upinės moterų brolija per Rasas rinkdavosi prie upelio vadovaujama nepažįstamos senės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -99,7 +97,8 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189505
+    - t-001
+
 - id: c-172394
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -121,4 +120,4 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189506
+    - t-002

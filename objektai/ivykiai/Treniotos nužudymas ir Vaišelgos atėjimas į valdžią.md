@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-77909"></a>
 - t-001
-  global_id: t-77909
   teiginys: "1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77909
+    - t-001

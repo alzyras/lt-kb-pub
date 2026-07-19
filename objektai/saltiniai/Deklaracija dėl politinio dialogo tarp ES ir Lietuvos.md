@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-21036"></a>
 - t-001
-  global_id: t-21036
   teiginys: "1992 m. Lietuva ir ES priėmė deklaraciją dėl politinio dialogo tarp ES ir Lietuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,12 +66,11 @@ media_all_json: |-
     jėgos naudojimą Baltijos šalyse. 1992 m. Lietuva ir ES pasirašė Prekybos
     ir komercinio bei ekonominio bendradarbiavimo sutartį ir priėmė dekla-
     raciją dėl politinio dialogo tarp ES ir Lietuvos.
-  citata_rodoma: |
-    ir komercinio bei ekonominio bendradarbiavimo sutartį ir priėmė dekla-
+  citata_rodoma: "ir komercinio bei ekonominio bendradarbiavimo sutartį ir priėmė dekla-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21036
+    - t-001

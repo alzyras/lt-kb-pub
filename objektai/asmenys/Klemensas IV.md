@@ -40,7 +40,6 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
 
 <a id="claim-t-19064"></a>
 - t-001
-  global_id: t-19064
   teiginys: "1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
 
 <a id="claim-t-183552"></a>
 - t-002
-  global_id: t-183552
   teiginys: "1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -95,15 +93,15 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
     ma, kad Mindaugas atsimetė ir nuo krikščionybės. Tačiau praėjus keletui
     metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje
     Mindaugą vadina „šviesaus atminimo valdovu“.
-  citata_rodoma: |
-    metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje
+  citata_rodoma: "metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19064
+    - t-001
+
 - id: c-166945
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -121,4 +119,4 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183552
+    - t-002

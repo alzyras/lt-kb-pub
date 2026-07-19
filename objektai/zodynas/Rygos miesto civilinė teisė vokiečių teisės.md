@@ -39,8 +39,7 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
 ## Teiginiai
 
 <a id="claim-t-86570"></a>
-- t-001
-  global_id: t-86570
+- t-002
   teiginys: "Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
     - c-82549
 
 <a id="claim-t-86571"></a>
-- t-002
-  global_id: t-86571
+- t-001
   teiginys: "Vokiečiai ir naujakuriai lenkai Vilniuje galėjo būti užstojami vokiečių teisių pagal Rygos pavyzdį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +111,8 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86570
+    - t-002
+
 - id: c-82550
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -137,4 +136,4 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86571
+    - t-001

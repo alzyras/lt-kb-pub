@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09658"></a>
-- t-001
-  global_id: t-09658
+- t-002
   teiginys: "Kunigas Mackevičius pamoksle ragino eiti už šventą tikėjimą, tėvynę Lietuvą ir lietuvius brolius."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -66,16 +65,11 @@ media_all_json: |-
 
     ~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-
     lius Lietuvius!“
-  citata_rodoma: |
-    Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
-    menė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:
-
-    ~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-
-    lius Lietuvius!“
+  citata_rodoma: "Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-\nmenė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:\n\n~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-\nlius Lietuvius!“"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09658
+    - t-002

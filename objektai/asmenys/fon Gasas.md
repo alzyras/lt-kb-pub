@@ -32,7 +32,6 @@ Vilniaus karo apygardos Karo veiksmų juos miegančius gegužės 10 naktį apsup
 
 <a id="claim-t-40560"></a>
 - t-001
-  global_id: t-40560
   teiginys: "Gegužės 10-osios naktį paporučikio fon Gaso dalinys apsupo miegančius sukilėlius ir paėmė juos į nelaisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,18 +63,11 @@ Vilniaus karo apygardos Karo veiksmų juos miegančius gegužės 10 naktį apsup
     linys. Į nelaisvę pakliuvo Z. Sierakauskas,
     B. Kolyška, S. Kozakauskas ir dar keletas
     karininkų.
-  citata_rodoma: |
-    Vilniaus karo apygardos Karo veiksmų
-
-    juos miegančius gegužės 10 naktį apsupo ir
-    paėmė į nelaisvę paporučikio fon Gaso da-
-    linys. Į nelaisvę pakliuvo Z. Sierakauskas,
-    B. Kolyška, S. Kozakauskas ir dar keletas
-    karininkų.
+  citata_rodoma: "Vilniaus karo apygardos Karo veiksmų\n\njuos miegančius gegužės 10 naktį apsupo ir\npaėmė į nelaisvę paporučikio fon Gaso da-\nlinys. Į nelaisvę pakliuvo Z. Sierakauskas,\nB. Kolyška, S. Kozakauskas ir dar keletas\nkarininkų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40560
+    - t-001

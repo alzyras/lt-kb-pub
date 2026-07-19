@@ -49,7 +49,6 @@ Apeiginis derliaus prašymas.
 
 <a id="claim-t-195416"></a>
 - t-001
-  global_id: t-195416
   teiginys: "Giedant „Pone Karaliau“ buvo sakoma „dovanok laukams derlių“."
   atnaujinta: "2026-07-12 02:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -73,12 +72,11 @@ Apeiginis derliaus prašymas.
     Antrą sykį gieda tą patį
     „Pone Karaliau“ , sakydami: „dovanok laukams derlių“ , trečia sykį —
     „dovanok mums sveikatą“ , ir taip toliau pagal vadovo sumanymą.
-  citata_rodoma: |
-    Antrą sykį gieda tą patį „Pone Karaliau“ , sakydami: „dovanok laukams derlių“ , trečia sykį —
+  citata_rodoma: "Antrą sykį gieda tą patį „Pone Karaliau“ , sakydami: „dovanok laukams derlių“ , trečia sykį —"
   statusas: verified
   atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195416
+    - t-001

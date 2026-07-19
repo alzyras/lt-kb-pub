@@ -43,8 +43,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 ## Teiginiai
 
 <a id="claim-t-86773"></a>
-- t-001
-  global_id: t-86773
+- t-002
   teiginys: "Hanoverio žemėje prie Elbės žemupio gyvenusių venedų kalboje žodis „Vilija“ reiškė valią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     - c-82753
 
 <a id="claim-t-86774"></a>
-- t-002
-  global_id: t-86774
+- t-001
   teiginys: "Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,29 +76,20 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     - c-82752
 
 <a id="claim-t-192480"></a>
-- t-003
-  global_id: t-192480
+- t-004
   teiginys: "Narbutas pasakoja, kad Bitinijos keliautojai per venedų ir alanų žemes pateko į Livoniją."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Venedai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Venedai\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175274
-    - c-004
+    - c-179232
+
 <a id="claim-t-192481"></a>
-- t-004
-  global_id: t-192481
+- t-005
   teiginys: "Narbutas rašo, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalkos kraštas pateko priešams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -119,10 +108,9 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175275
-    - c-005
+
 <a id="claim-t-192482"></a>
-- t-005
-  global_id: t-192482
+- t-006
   teiginys: "Narbutas nurodo, kad apie 253 m. jungtiniai finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -144,10 +132,9 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175276
-    - c-006
+
 <a id="claim-t-192483"></a>
-- t-006
-  global_id: t-192483
+- t-007
   teiginys: "Narbutas vieno radinio ratu išdėstytas raides aiškina kaip lotynišką užrašą venedų runomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -167,28 +154,19 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     - c-175277
 
 <a id="claim-t-192484"></a>
-- t-007
-  global_id: t-192484
+- t-008
   teiginys: "Lotynų kalbą slavai venedai ir lietuviai var tojo kaip diplomatinę kalbą."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Venedai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Venedai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-175278
-    - c-008
+    - c-179233
+
 <a id="claim-t-197526"></a>
-- t-008
-  global_id: t-197526
+- t-009
   teiginys: "Venedai tą kraštą vadino Ulmigeria, o te nykščius žmones — Ulmigeri."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -200,8 +178,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     - c-175274
 
 <a id="claim-t-197527"></a>
-- t-009
-  global_id: t-197527
+- t-010
   teiginys: "Senovės tyrinėtojai ne abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos, Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie jūros."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -213,8 +190,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     - c-179232
 
 <a id="claim-t-197528"></a>
-- t-010
-  global_id: t-197528
+- t-011
   teiginys: "Esama neabejotinų įrodymų, nes, valdant imperatoriui Galui, apie 253 metus jungtiniai finų, galindų ir venedų būriai kariavo su imperatorium Valuzianu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo vino kaip vandalų, finų, galindų ir venedų nugalėto ją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -226,8 +202,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     - c-175276
 
 <a id="claim-t-197529"></a>
-- t-011
-  global_id: t-197529
+- t-012
   teiginys: "Iš ankstesnio šios temos dėstymo ži nome, kad tuo metu prie šios jūros gyveno venedai, sla vai ir estai lietuviai arba visos šiuo bendriniu vardu va dinamos lietuvių genties tautos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -239,8 +214,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     - c-179233
 
 <a id="claim-t-200930"></a>
-- t-012
-  global_id: t-200930
+- t-013
   teiginys: "Tautos ant tų upių, pasakoja, tos gyvenusios: venedai, galindai, sudenai, kareotai, saliai, osai, veltai, penai."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -351,8 +325,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192480
 - c-005
   santrauka: 'Narbutas rašo, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalkos kraštas pateko priešams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -368,8 +340,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192481
 - c-006
   santrauka: 'Narbutas nurodo, kad apie 253 m. jungtiniai finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -396,8 +366,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192482
 - c-008
   santrauka: 'Lotynų kalbą slavai venedai ir lietuviai var tojo kaip diplomatinę kalbą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -414,8 +382,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192484
+
 ## Citatos
 
 - id: c-82752
@@ -456,7 +423,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86774
+    - t-001
+
 - id: c-82753
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -479,27 +447,15 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     Saxe, pour Ia recherche des antiquites
     Slaves ou Vendes, fait en 1794, par le
     Comte Jean Potocki, p. 63, tit.
-  citata_rodoma: |
-    Mūsų kaimiečiai
-    lietuviai taria „Niaris" ir sako, esą
-    lenkiškai jų puikioji upė vadinama
-    Wilja. Prancūzijoje, Aljė departa­
-    mente, esama mineralinių vandenų,
-    vadinamų Neris, prie taip pat pava­
-    dinto miestelio, išsidriekusio tarp
-    Šero ir Luaros upių, kur X amžiuje
-    siekė normanų antpuoliai ir netgi jų
-    gyvenvietės - slavų, venedų, gyve­
-    nančių Hanoverio žemėje prie Elbės
-    žemupio, netoli nuo Lūchovo, kal­
-    ba žodis Vilija reiškia valią. Žr.
+  citata_rodoma: "Mūsų kaimiečiai \nlietuviai taria „Niaris\" ir sako, esą \nlenkiškai jų puikioji upė vadinama \nWilja. Prancūzijoje, Aljė departa­\nmente, esama mineralinių vandenų, \nvadinamų Neris, prie taip pat pava­\ndinto miestelio, išsidriekusio tarp \nŠero ir Luaros upių, kur X amžiuje \nsiekė normanų antpuoliai ir netgi jų \ngyvenvietės - slavų, venedų, gyve­\nnančių Hanoverio žemėje prie Elbės \nžemupio, netoli nuo Lūchovo, kal­\nba žodis Vilija reiškia valią. Žr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86773
+    - t-002
+
 - id: c-175274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -515,8 +471,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192480
-    - t-197526
+    - t-009
+
 - id: c-175275
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -529,20 +485,15 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
     plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
     galo juos engdamas.
-  citata_rodoma: |
-    Pakviestas į pagal­
-    bą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti
-    už savo nelaisvę ar norėdamas turėti naudos. Jis įsiveržė
-    į slavų kraštą; venedų karalius Skalka buvo sumuštas ir
-    krito mūšio lauke, o jo kraštas pateko į priešų rankas.
-    Tačiau Jarmeriko įniršiui to nepakako.
+  citata_rodoma: "Pakviestas į pagal­\nbą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti\nuž savo nelaisvę ar norėdamas turėti naudos. Jis įsiveržė\nį slavų kraštą; venedų karalius Skalka buvo sumuštas ir\nkrito mūšio lauke, o jo kraštas pateko į priešų rankas.\nTačiau Jarmeriko įniršiui to nepakako."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192481
+    - t-005
+
 - id: c-175276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -568,29 +519,16 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     nes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­
     sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
     tuose2.
-  citata_rodoma: |
-    Esama
-    neabejotinų įrodymų, nes,
-    valdant
-    imperatoriui
-    Galui, apie 253 metus
-    jungtiniai finų,
-    galindų ir venedų būriai kariavo su imperatorium Valuzia-
-    nu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­
-    vino kaip vandalų, finų, galindų ir venedų nugalėto­
-    ją. Šito įrodymų aptikta ant atrastų auksinių ir sidabri­
-    nių medalių1. Šie numizmatiniai užrašai nemini gotų,
-    nes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­
-    sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
-    tuose2.
+  citata_rodoma: "Esama \nneabejotinų įrodymų, nes, \nvaldant \nimperatoriui \nGalui, apie 253 metus \njungtiniai finų, \ngalindų ir venedų būriai kariavo su imperatorium Valuzia- \nnu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­\nvino kaip vandalų, finų, galindų ir venedų nugalėto­\nją. Šito įrodymų aptikta ant atrastų auksinių ir sidabri­\nnių medalių1. Šie numizmatiniai užrašai nemini gotų, \nnes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­\nsią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­\ntuose2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192482
-    - t-197528
+    - t-006
+    - t-011
+
 - id: c-175277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -612,7 +550,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192483
+    - t-007
+
 - id: c-175278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -626,21 +565,13 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     kui, derliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo
     Kurchas. Nedailus, vos galima suprasti, jog tai raitelis su sa­
     kalu.
-  citata_rodoma: |
-    Todėl, mano nuomone, reikėtų
-    skaityti: Kurcho, optimo maximo. O tai yra toks pat užrašas kaip
-    ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO
-    MAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito
-    skydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo
-    maximo Jurowito". Lotynų kalbą slavai venedai ir lietuviai var­
-    tojo kaip diplomatinę kalbą.
+  citata_rodoma: "Todėl, mano nuomone, reikėtų\nskaityti: Kurcho, optimo maximo. O tai yra toks pat užrašas kaip\nir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO\nMAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito\nskydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo\nmaximo Jurowito\". Lotynų kalbą slavai venedai ir lietuviai var­\ntojo kaip diplomatinę kalbą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192484
 - id: c-179232
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -664,7 +595,9 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197527
+    - t-004
+    - t-010
+
 - id: c-179233
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -689,10 +622,13 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197529
+    - t-008
+    - t-012
+
 - id: c-184280
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Upis tenai didesniąsias minavoja,
     Ysla (Vistula), Nemunu (Kronas), Venta (Rubonas),
@@ -708,7 +644,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200930
+    - t-013
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Skalka]]
 - Turėjo priklausinį: [[objektai/grupes/Budinai]]

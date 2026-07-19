@@ -51,9 +51,8 @@ Nenurodyta
 
 <a id="claim-t-186830"></a>
 - t-001
-  global_id: t-186830
   teiginys: "Lietuvos metraštyje pasakojama, kad prieš vokiečius išjoję Mindaugo kariai buvo ginkluoti arbaletais."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Jotvingiai: 0.83"
@@ -67,12 +66,11 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170014
-    - c-001
+
 <a id="claim-t-193865"></a>
 - t-002
-  global_id: t-193865
   teiginys: "O rytojaus metą prieš vokiečius išjojo [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo mis ietimis, ir vaikėsi po lauką, tarytum turnyre."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -80,7 +78,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170014
-    - c-001
 - susijęs iš [[objektai/daiktai/Arbaletas.md#claim-t-64900|Arbaletas]]: Sembų puolimo metu vienas Ordino brolis, gindamas pilį, paliko įtemptą arbaletą ir pabėgo.
 - susijęs iš [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai.md#claim-t-40714|Geležinėmis grandinėmis kaustyti vežimai]]: Prie Vorsklos Vytauto įtvirtintoje stovykloje buvo geležinėmis grandinėmis kaustytų vežimų, patrankėlių, patrankų ir arbaletų.
 - susijęs iš [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai.md#claim-t-40715|Geležinėmis grandinėmis kaustyti vežimai]]: Vorsklos mūšyje Timūr-Kutluko totoriai paėmė Vytauto kariuomenės gurguolę, vežimus su geležinėmis grandinėmis, patrankas, arbaletus ir daug turto.
@@ -106,9 +103,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186830
-    - t-193865
+- t-193865
+
 ## Citatos
 
 - id: c-170014
@@ -125,16 +121,12 @@ Nenurodyta
     Tuo laiku mirė kunigaikštienė Mindaugienė9, ir tas
     pradėjo jos gedėti. O jos sesuo buvo ištekėjusi už
     Daumanto, už Nalšios kunigaikščiol0.
-  citata_rodoma: |
-    O rytojaus metą prieš vokiečius išjojo
-    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
-    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
-    mis ietimis, ir vaikėsi po lauką, tarytum turnyre.
+  citata_rodoma: "O rytojaus metą prieš vokiečius išjojo \n[Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­\nsai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­\nmis ietimis, ir vaikėsi po lauką, tarytum turnyre."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186830
-    - t-193865
+    - t-001
+    - t-002

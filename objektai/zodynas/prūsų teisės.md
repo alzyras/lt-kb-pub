@@ -31,7 +31,6 @@ prūsų teisės: tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos
 
 <a id="claim-t-72738"></a>
 - t-001
-  global_id: t-72738
   teiginys: "Ordino žemėse kai kuriems naujai kuriamiems dvarams buvo suteikiamos prūsų teisės, todėl jų valstiečiai vadinti prūsais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -42,7 +41,6 @@ prūsų teisės: tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos
 
 <a id="claim-t-72739"></a>
 - t-002
-  global_id: t-72739
   teiginys: "Ordino dokumentuose rytuose minėti ir lietuviai, ir prūsai, o vakaruose tik prūsai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,16 +71,12 @@ prūsų teisės: tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos
     ordino žemėse lietuviai tegyveno tik toje srityje, kur veikė vad.
     lietuviškoji valstiečių teisė ir kur vėliau buvo provincija, va-
     dinama Lietuva (būtent Mažoji Lietuva).
-  citata_rodoma: |
-    Todėl neteisinga būtų manyti, kad
-    ordino žemėse lietuviai tegyveno tik toje srityje, kur veikė vad.
-    lietuviškoji valstiečių teisė ir kur vėliau buvo provincija, va-
-    dinama Lietuva (būtent Mažoji Lietuva).
+  citata_rodoma: "Todėl neteisinga būtų manyti, kad\nordino žemėse lietuviai tegyveno tik toje srityje, kur veikė vad.\nlietuviškoji valstiečių teisė ir kur vėliau buvo provincija, va-\ndinama Lietuva (būtent Mažoji Lietuva)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72738
-    - t-72739
+    - t-001
+    - t-002

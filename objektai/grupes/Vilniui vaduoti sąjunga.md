@@ -31,7 +31,6 @@ Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis m
 
 <a id="claim-t-20077"></a>
 - t-001
-  global_id: t-20077
   teiginys: "Priėmus Lenkijos ultimatumą paleista 700 000 narių turėjusi patriotinė Vilniui vaduoti sąjunga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis m
 
 <a id="claim-t-183196"></a>
 - t-002
-  global_id: t-183196
   teiginys: "Po Lietuvos ir Lenkijos diplomatinių santykių atkūrimo buvo paleista 700 000 narių turėjusi patriotinė Vilniui vaduoti sąjunga."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -82,15 +80,15 @@ Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis m
     tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių
     turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų
     Vilnius“ leidimą.
-  citata_rodoma: |
-    turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų
+  citata_rodoma: "turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20077
+    - t-001
+
 - id: c-166583
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -111,4 +109,4 @@ Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183196
+    - t-002

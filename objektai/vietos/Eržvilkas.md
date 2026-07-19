@@ -47,7 +47,6 @@ Eržvilkas šiame šaltinyje yra vietovė.
 
 <a id="claim-t-195490"></a>
 - t-001
-  global_id: t-195490
   teiginys: "1931 m. Tautosakos komisijos suvestinėje P. Blynovas nurodytas kaip iš Eržvilko."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -64,12 +63,11 @@ Eržvilkas šiame šaltinyje yra vietovė.
   indeksas: "Mūsų tautosaka, t.4 (1931) — Tautosakos komisijos gauta medžiaga ir perrašytos dainos, p. 187 (PDF 185)."
   citata_originali: |
     P. Blynovas (iš Eržvilk. v.) . .
-  citata_rodoma: |
-    P. Blynovas (iš Eržvilk. v.) . .
+  citata_rodoma: "P. Blynovas (iš Eržvilk. v.)"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195490
+    - t-001

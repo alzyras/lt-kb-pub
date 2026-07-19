@@ -31,7 +31,6 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
 
 <a id="claim-t-193663"></a>
 - t-001
-  global_id: t-193663
   teiginys: "Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193663
+    - t-001

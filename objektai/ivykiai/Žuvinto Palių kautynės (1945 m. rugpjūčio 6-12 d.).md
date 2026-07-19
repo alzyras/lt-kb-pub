@@ -54,8 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71779"></a>
-- t-001
-  global_id: t-71779
+- t-004
   teiginys: "Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-11949
 
 <a id="claim-t-71780"></a>
-- t-002
-  global_id: t-71780
+- t-006
   teiginys: "1945 m. rugpjūčio 18 d. Alytaus NKVD slaptame pranešime J. Bartašiūnui rašyta, kad operacijos metu nukauta 17 partizanų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +90,7 @@ Nenurodyta
     - c-11951
 
 <a id="claim-t-71781"></a>
-- t-003
-  global_id: t-71781
+- t-005
   teiginys: "Alytaus NKVD 1945 m. rugpjūčio 18 d. slaptame pranešime rašyta, kad per Žuvinto Palių operaciją nukauta 17 partizanų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -112,8 +109,7 @@ Nenurodyta
     - c-11951
 
 <a id="claim-t-71782"></a>
-- t-004
-  global_id: t-71782
+- t-008
   teiginys: "Alytaus NKVD 1945 m. rugpjūčio 18 d. slaptame pranešime J. Bartašiūnui rašyta, kad per operaciją nukauta 17 partizanų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,8 +128,7 @@ Nenurodyta
     - c-11951
 
 <a id="claim-t-71783"></a>
-- t-005
-  global_id: t-71783
+- t-007
   teiginys: "Žuvinto Palių kautynėse enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per ežerą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -200,8 +195,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71779
-    - t-71783
+    - t-004
+    - t-007
+
 - id: c-11951
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -216,20 +212,13 @@ Nenurodyta
     cijos metu buvo nukauta 17 partizanų.
     Čekistai mėgdavo padidinti žuvusių
     partizanų skaičių, o savų - sumažinti.
-  citata_rodoma: |
-    1945 m. rugpjūčio
-    18 d. Alytaus NKVD slaptame pranešime
-    LTSR Vidaus reikalų liaudies komisa-
-    rui J. Bartašiūnui rašoma, kad opera-
-    cijos metu buvo nukauta 17 partizanų.
-    Čekistai mėgdavo padidinti žuvusių
-    partizanų skaičių, o savų - sumažinti.
+  citata_rodoma: "1945 m. rugpjūčio\n18 d. Alytaus NKVD slaptame pranešime\nLTSR Vidaus reikalų liaudies komisa-\nrui J. Bartašiūnui rašoma, kad opera-\ncijos metu buvo nukauta 17 partizanų.\nČekistai mėgdavo padidinti žuvusių\npartizanų skaičių, o savų - sumažinti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71780
-    - t-71781
-    - t-71782
+    - t-006
+    - t-005
+    - t-008

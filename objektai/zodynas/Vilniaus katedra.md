@@ -34,7 +34,6 @@ Vorobjovo teigimu, pagoniška šventykla stovėjo šventame alke ten, kur vėlia
 
 <a id="claim-t-200832"></a>
 - t-001
-  global_id: t-200832
   teiginys: "Vorobjovo teigimu, pagoniška šventykla stovėjo šventame alke ten, kur vėliau buvo Vilniaus katedra."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Vorobjovo teigimu, pagoniška šventykla stovėjo šventame alke ten, kur vėlia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200832
+    - t-001

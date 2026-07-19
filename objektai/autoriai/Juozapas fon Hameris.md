@@ -39,28 +39,19 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
 
 <a id="claim-t-191573"></a>
 - t-001
-  global_id: t-191573
   teiginys: "Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtojams nesuprantamą užrašą ir perskaitė vieną žodį."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Juozapas (Konstantinopolio patriarchas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozapas fon Hameris: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Juozapas (Konstantinopolio patriarchas): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas fon Hameris\" parinktas kaip owner_note_path. Targetas \"Juozapas (Konstantinopolio patriarchas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174455
-    - c-001
+    - c-174456
+
 <a id="claim-t-191574"></a>
 - t-002
-  global_id: t-191574
   teiginys: "Narbuto tekstas buvo parengtas remiantis T. Volianskio tyrinėjimais ir J. Hamerio monografija."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,7 +69,7 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174456
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtojams nesuprantamą užrašą ir perskaitė vieną žodį.'
@@ -94,8 +85,6 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191573
 - c-002
   santrauka: 'Narbuto tekstas buvo parengtas remiantis T. Volianskio tyrinėjimais ir J. Hamerio monografija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -110,8 +99,7 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191574
+
 ## Citatos
 
 - id: c-174455
@@ -127,19 +115,13 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
     dosios iki Baltijos jūros, o iš pietų atskirtas Dnestro,
     Bugo ir Palenkės, iki pat prūsų žemių nemini jotvingių,
     kurie turėjo gyventi šalia tos teritorijos ribų.
-  citata_rodoma: |
-    Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,
-    gyvenusią galų kaimynystėje, prie Dnestro.
-    Ponas Hameris dar prieš poną Volianskį mėgino šif­
-    ruoti tą visiškai senovės tyrinėtojams nesuprantamą už­
-    rašą. Jis perskaitė tik trečios eilutės pirmą žodį.
+  citata_rodoma: "Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,\ngyvenusią galų kaimynystėje, prie Dnestro.\nPonas Hameris dar prieš poną Volianskį mėgino šif­\nruoti tą visiškai senovės tyrinėtojams nesuprantamą už­\nrašą. Jis perskaitė tik trečios eilutės pirmą žodį."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191573
 - id: c-174456
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -158,16 +140,12 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
     Jadzwingów siedlisko bylo między Dunajem i
     Tyssą rzekami, przed przyjšciem nad Bug)
     (PE.
-  citata_rodoma: |
-    Tekstas buvo parengtas remiantis T. Vo-
-    lianskio tyrinėjimais (Tadeusza Wolanskiego
-    listy o starožytnošciach slawianskich. Zbiór
-    pierwszy. Gniezno, 1845. S. 22—23), taip pat
-    jau minėta J. Hamerio monografija.
+  citata_rodoma: "Tekstas buvo parengtas remiantis T. Vo-\nlianskio tyrinėjimais (Tadeusza Wolanskiego\nlisty o starožytnošciach slawianskich. Zbiór\npierwszy. Gniezno, 1845. S. 22—23), taip pat\njau minėta J. Hamerio monografija."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191574
+    - t-001
+    - t-002

@@ -44,7 +44,6 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 
 <a id="claim-t-23221"></a>
 - t-001
-  global_id: t-23221
   teiginys: "Andrius Rudamina buvo Vilniaus universiteto auklėtinis."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 
 <a id="claim-t-23222"></a>
 - t-002
-  global_id: t-23222
   teiginys: "Rudamina 1626–1634 m. misionieriavo Kinijoje."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,6 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 
 <a id="claim-t-23223"></a>
 - t-003
-  global_id: t-23223
   teiginys: "Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -102,7 +99,6 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 
 <a id="claim-t-23224"></a>
 - t-004
-  global_id: t-23224
   teiginys: "Andrius Rudamina, Vilniaus universiteto auklėtinis, 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,7 +118,6 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 
 <a id="claim-t-26708"></a>
 - t-005
-  global_id: t-26708
   teiginys: "Andrius Rudamina nunešė Jėzaus draugijos idėjas iki Kinijos, kur 1626–1634 m. misionieriavo."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -158,17 +153,17 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
     1626–1634 m. ir rašė asketikos veikalus kinų kalba. Šiauriausias katali-
     kiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų
     universiteto reikšmė.
-  citata_rodoma: |
-    kiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų
+  citata_rodoma: "kiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23221
-    - t-23222
-    - t-23223
+    - t-001
+    - t-002
+    - t-003
+
 - id: c-166732
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -188,5 +183,5 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23224
-    - t-26708
+    - t-004
+    - t-005

@@ -40,8 +40,7 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
 ## Teiginiai
 
 <a id="claim-t-193038"></a>
-- t-001
-  global_id: t-193038
+- t-003
   teiginys: "Narbutas svarstė, kad Dionizas Poška, rašydamas šį straipsnį, galėjo turėti omenyje konkretų asmenį iš Lietuvos intelektualų aplinkos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -51,8 +50,7 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
     - c-175810
 
 <a id="claim-t-193039"></a>
-- t-002
-  global_id: t-193039
+- t-001
   teiginys: "Dionizas Poška buvo vienas Žemaitijoje gyvenusių inteligentų, pradėjusių rašyti poeziją žemaitiškai arba lietuviškai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
     - c-175808
 
 <a id="claim-t-193040"></a>
-- t-003
-  global_id: t-193040
+- t-002
   teiginys: "Dionizo Poškos straipsnis „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“ paskelbtas 1829 m. „Dziennik Warszawski“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,15 +81,14 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
 
 <a id="claim-t-193041"></a>
 - t-004
-  global_id: t-193041
   teiginys: "Dionizui Poškai buvo žinomi Simono Daukanto „Darbai senųjų lietuvių ir žemaičių“, nors savo straipsnyje jis Daukanto neminėjo."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
-    - c-175811
-    - c-004
+    - c-175810
+
 ## Reikšmingi paminėjimai
 - c-004
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -108,8 +104,7 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193041
+
 ## Citatos
 
 - id: c-175808
@@ -133,7 +128,8 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193039
+    - t-001
+
 - id: c-175809
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -152,7 +148,8 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193040
+    - t-002
+
 - id: c-175810
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -170,7 +167,9 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193038
+    - t-003
+    - t-004
+
 - id: c-175811
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -186,17 +185,9 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
     kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
     poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
     timi.
-  citata_rodoma: |
-    Manoma, kad tuo metu jau buvo parašyti
-    S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
-    buvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo
-    persirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­
-    rytum pastangų parašyti lietuvių tautos istoriją iki pat 1829
-    metų ir nebuvo.
+  citata_rodoma: "Manoma, kad tuo metu jau buvo parašyti\nS. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai\nbuvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo\npersirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­\nrytum pastangų parašyti lietuvių tautos istoriją iki pat 1829\nmetų ir nebuvo."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193041

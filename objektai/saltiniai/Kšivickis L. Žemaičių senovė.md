@@ -36,7 +36,6 @@ Dusburgietis teigia, kad kšivickis L.
 
 <a id="claim-t-61119"></a>
 - t-001
-  global_id: t-61119
   teiginys: "L. Kšivickio „Žemaičių senovė“ išleista Kaune ir Marijampolėje 1928 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Dusburgietis teigia, kad kšivickis L.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61119
+    - t-001

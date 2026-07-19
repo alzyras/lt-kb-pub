@@ -30,7 +30,6 @@ Naruševičius, rašydamas apie jotvingius, Narbuto teigimu rėmėsi Kapitolinu 
 
 <a id="claim-t-191245"></a>
 - t-001
-  global_id: t-191245
   teiginys: "Naruševičius, rašydamas apie jotvingius, Narbuto teigimu rėmėsi Kapitolinu ir vadino juos Cestobochy."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Naruševičius, rašydamas apie jotvingius, Narbuto teigimu rėmėsi Kapitolinu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191245
+    - t-001

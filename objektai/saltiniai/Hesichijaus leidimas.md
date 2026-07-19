@@ -30,7 +30,6 @@ Teodoras Narbutas nurodė, kad Hesichijas, kaip ir vėlesni Bizantijos tyrinėto
 
 <a id="claim-t-191777"></a>
 - t-001
-  global_id: t-191777
   teiginys: "Teodoras Narbutas nurodė, kad Hesichijas, kaip ir vėlesni Bizantijos tyrinėtojai, vartojo formą ’Iv8ixvję ginče dėl skaitymo Indi ar Sindi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Teodoras Narbutas nurodė, kad Hesichijas, kaip ir vėlesni Bizantijos tyrinėto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191777
+    - t-001

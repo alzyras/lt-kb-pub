@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-31860"></a>
 - t-001
-  global_id: t-31860
   teiginys: "J. Puzino „Naujausių Proistorinių Tyrinėjimų Duomens“ išleistas Kaune 1938 m. kaip atspaudas iš „Senovės“ 4 tomo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,13 +67,11 @@ media_all_json: |-
     ne - Scientia leidykloje 1961 m. fotomechan. perspausdinti).
     PuPrT = Puzinas, J. : Naujausių Proistorinių Tyrinėjimų Duomens,
     Kaunas 1938 (atsp. iš Senovė, t. 4).
-  citata_rodoma: |
-    PuPrT = Puzinas, J. : Naujausių Proistorinių Tyrinėjimų Duomens,
-    Kaunas 1938 (atsp. iš Senovė, t. 4).
+  citata_rodoma: "PuPrT = Puzinas, J. : Naujausių Proistorinių Tyrinėjimų Duomens,\nKaunas 1938 (atsp. iš Senovė, t. 4)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31860
+    - t-001

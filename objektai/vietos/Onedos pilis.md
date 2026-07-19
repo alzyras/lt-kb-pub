@@ -28,7 +28,6 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
 
 <a id="claim-t-201174"></a>
 - t-001
-  global_id: t-201174
   teiginys: "Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio kariauna susinė ręs, turėjo daugiaus nei ©0 000 karėjų; su ta galy be įgulęs į Parusnį, užėmė Onedos, arba Baigos, pilį su visa ąpykarta."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
 ## Citatos
 
 - id: c-184524
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ateinantį metą, kaip buvo sakyta, Otokaras, ka­
     ralius Čekų, atkeliavo į Parusnį netikėlių lietuvių
@@ -63,4 +63,4 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201174
+    - t-001

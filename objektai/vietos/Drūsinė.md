@@ -39,7 +39,6 @@ Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vid
 
 <a id="claim-t-58542"></a>
 - t-001
-  global_id: t-58542
   teiginys: "Drūsinė XIII a. vidurio dokumentuose minima kaip Drusnie arba Drusa, o apie 890 m. Vulfstanas vietovardį užrašė kaip Truso."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vid
 
 <a id="claim-t-58543"></a>
 - t-002
-  global_id: t-58543
   teiginys: "Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -111,7 +109,8 @@ Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58542
+    - t-001
+
 - id: c-59175
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -122,14 +121,11 @@ Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vid
     vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere. Šitaip
     įvykdęs maldininko įžadus, tas pats valdovas sugrįžo į savo kraštą, palikęs Prūsijoje
     didelę kariuomenę, turėjusią baigti statyti Elbingo pilį.
-  citata_rodoma: |
-    Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere. Šitaip
-    įvykdęs maldininko įžadus, tas pats valdovas sugrįžo  į savo kraštą, palikęs Prūsijoje
-    didelę kariuomenę, turėjusią baigti statyti Elbingo pilį.
+  citata_rodoma: "Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere. Šitaip\nįvykdęs maldininko įžadus, tas pats valdovas sugrįžo  į savo kraštą, palikęs Prūsijoje\ndidelę kariuomenę, turėjusią baigti statyti Elbingo pilį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58543
+    - t-002

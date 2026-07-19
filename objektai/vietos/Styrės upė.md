@@ -32,7 +32,6 @@ Narbutas, sekdamas Malte-Brunu, Styrės upę laikė stūmių gyvenamųjų vietų
 
 <a id="claim-t-192900"></a>
 - t-001
-  global_id: t-192900
   teiginys: "Narbutas, sekdamas Malte-Brunu, Styrės upę laikė stūmių gyvenamųjų vietų pavadinimo išsaugojimu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Narbutas, sekdamas Malte-Brunu, Styrės upę laikė stūmių gyvenamųjų vietų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192900
+    - t-001

@@ -31,7 +31,6 @@ Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turė
 
 <a id="claim-t-02529"></a>
 - t-001
-  global_id: t-02529
   teiginys: "Generolams sutarus perskirti jėgas, Dembinskis turėjo eiti į Kuršo pasienį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turė
 
 <a id="claim-t-193199"></a>
 - t-002
-  global_id: t-193199
   teiginys: "Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -77,17 +75,15 @@ Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turė
     bajorija buvo labai nepatenkinta generolais. Pagaliau generolai
     sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti
     į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.
-  citata_rodoma: |
-    Pagaliau generolai
-    sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti
-    į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.
+  citata_rodoma: "Pagaliau generolai\nsutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti\nį Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02529
+    - t-001
+
 - id: c-175943
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -106,4 +102,4 @@ Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193199
+    - t-002

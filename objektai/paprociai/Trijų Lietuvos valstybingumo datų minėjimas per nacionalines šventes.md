@@ -62,8 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78722"></a>
-- t-001
-  global_id: t-78722
+- t-004
   teiginys: "Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir 1990 m. Kovo 11-osios Lietuvos valstybingumo datos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +81,7 @@ Nenurodyta
     - c-12431
 
 <a id="claim-t-78723"></a>
-- t-002
-  global_id: t-78723
+- t-006
   teiginys: "Nacionalinėse šventėse minimi trys Lietuvos valstybės kūrimosi ar atkūrimo momentai po istorinių valstybingumo praradimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,8 +100,7 @@ Nenurodyta
     - c-43178
 
 <a id="claim-t-78725"></a>
-- t-003
-  global_id: t-78725
+- t-008
   teiginys: "Lietuva tris valstybingumo atkūrimo ar kūrimo kartus mini per nacionalines šventes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,8 +120,7 @@ Nenurodyta
     - c-43178
 
 <a id="claim-t-78726"></a>
-- t-004
-  global_id: t-78726
+- t-005
   teiginys: "Trijų Lietuvos valstybingumo datų minėjimas siejamas su Mindaugo karūnavimu, valstybingumo atkūrimu ir atsiskyrimu nuo sovietų imperijos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -159,23 +155,16 @@ Nenurodyta
     panaikinto 1795 m., atkūrimas), pagaliau 1990 m. Kovo 11-osios
     Lietuvą arba Antrąją Respubliką, bet pirmąją, atsiskyrusią nuo so-
     vietų imperijos, ir pradėjusią suverenitetų paradą.
-  citata_rodoma: |
-    Visus
-    šiuos tris kartus minime per nacionalines šventes ir kalbame apie
-    Liepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas
-    Mindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką
-    (1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,
-    panaikinto 1795 m., atkūrimas), pagaliau 1990 m. Kovo 11-osios
-    Lietuvą arba Antrąją Respubliką, bet pirmąją, atsiskyrusią nuo so-
-    vietų imperijos, ir pradėjusią suverenitetų paradą.
+  citata_rodoma: "Visus\nšiuos tris kartus minime per nacionalines šventes ir kalbame apie\nLiepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas\nMindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką\n(1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,\npanaikinto 1795 m., atkūrimas), pagaliau 1990 m. Kovo 11-osios\nLietuvą arba Antrąją Respubliką, bet pirmąją, atsiskyrusią nuo so-\nvietų imperijos, ir pradėjusią suverenitetų paradą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78722
-    - t-78726
+    - t-004
+    - t-005
+
 - id: c-43178
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -192,20 +181,12 @@ Nenurodyta
     Mindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką
     (1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,
     panaikinto 1795 m., atkūrimas), pagaliau 1990 m.
-  citata_rodoma: |
-    Tačiau svar-
-    biausia, kodėl Lietuvai reikia prisiminti mūšius - ji kaip valstybė
-    buvo naikinama ir turėjo kurtis arba keltis net tris kartus. Visus
-    šiuos tris kartus minime per nacionalines šventes ir kalbame apie
-    Liepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas
-    Mindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką
-    (1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,
-    panaikinto 1795 m.
+  citata_rodoma: "Tačiau svar-\nbiausia, kodėl Lietuvai reikia prisiminti mūšius - ji kaip valstybė\nbuvo naikinama ir turėjo kurtis arba keltis net tris kartus. Visus\nšiuos tris kartus minime per nacionalines šventes ir kalbame apie\nLiepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas\nMindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką\n(1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,\npanaikinto 1795 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78723
-    - t-78725
+    - t-006
+    - t-008

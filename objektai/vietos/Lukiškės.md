@@ -37,8 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-85840"></a>
-- t-001
-  global_id: t-85840
+- t-002
   teiginys: "Ankstyvojo Vilniaus aprašyme Lukiškėse šventų girių kryptimi buvo išsibarsčiusios vienišos trobos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ media_all_json: |-
     - c-81824
 
 <a id="claim-t-85843"></a>
-- t-002
-  global_id: t-85843
+- t-004
   teiginys: "Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 m. tapo reformos šalininkų prieglobsčiu ir mokykla."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,23 +89,15 @@ media_all_json: |-
     akalnio užuomazgos7.
     kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
     rado.
-  citata_rodoma: |
-    Kazimiero bažnyčia; po Aukš­
-    tutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­
-    kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos
-    trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­
-    toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­
-    los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­
-    akalnio užuomazgos7.
-    kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
-    rado.
+  citata_rodoma: "Kazimiero bažnyčia; po Aukš­\ntutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­\nkių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos \ntrobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­\ntoje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­\nlos, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­\nakalnio užuomazgos7.\nkuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname], \nrado."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85840
+    - t-002
+
 - id: c-81825
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -160,4 +150,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85843
+    - t-004

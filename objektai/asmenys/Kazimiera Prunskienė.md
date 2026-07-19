@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-19050"></a>
 - t-001
-  global_id: t-19050
   teiginys: "Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ media_all_json: |-
 
 <a id="claim-t-19051"></a>
 - t-002
-  global_id: t-19051
   teiginys: "Kazimiera Prunskienė priėmė sprendimą padidinti maisto produktų kainas, kuriuo pasinaudojo promaskviniai būriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ media_all_json: |-
 
 <a id="claim-t-183546"></a>
 - t-003
-  global_id: t-183546
   teiginys: "Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -93,7 +90,6 @@ media_all_json: |-
 
 <a id="claim-t-183547"></a>
 - t-004
-  global_id: t-183547
   teiginys: "1991 m. sausį promaskviniai būriai pasinaudojo Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas, siekdami nuversti teisėtą Lietuvos valdžią."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -129,15 +125,15 @@ media_all_json: |-
     Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už
     įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi būti mecha-
     ninė įmonių suma, kaip SSRS neturėtų būti mechaninė respublikų suma.
-  citata_rodoma: |
-    miera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti
+  citata_rodoma: "miera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19050
+    - t-001
+
 - id: c-21810
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -151,16 +147,16 @@ media_all_json: |-
     ties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės
     Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas)
     ir nuversti teisėtą Lietuvos valdžią.
-  citata_rodoma: |
-    ties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės
+  citata_rodoma: "ties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19051
-    - t-183547
+    - t-002
+    - t-004
+
 - id: c-166939
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -181,4 +177,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183546
+    - t-003

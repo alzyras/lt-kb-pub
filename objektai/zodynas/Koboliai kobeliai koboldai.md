@@ -27,26 +27,11 @@ media_all_json: |-
 
 Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su koboliais ir iš jų slapčia gaunančiais dovanų.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189129"></a>
-- t-001
-  global_id: t-189129
-  teiginys: 'Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su koboliais ir iš jų slapčia gaunančiais dovanų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas puslapio lūžis ir nesusijęs skandinavų intarpas. Tikėjimo teiginys apie kobolius paliktas kaip Narbuto aprašymas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Koboliai|Koboliai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]'
-  pagrindžia:
-    - c-172017
-
-## Citatos
-
-- id: c-172017
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su koboliais ir iš jų slapčia gaunančiais dovanų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Vietiniai kaimiečiai dar nepaliauja tikėję, kad esama žmo­
     nių, susidėjusių su koboliais, kurie jiems slapčia neša dovanų
@@ -60,10 +45,8 @@ Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su 
     ## Puslapis 182
 
     ir susilaukia iš jų visokio palankumo.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189129
+  statusas: verified

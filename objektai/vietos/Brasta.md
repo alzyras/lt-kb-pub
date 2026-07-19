@@ -48,8 +48,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 ## Teiginiai
 
 <a id="claim-t-176955"></a>
-- t-001
-  global_id: t-176955
+- t-029
   teiginys: "Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,8 +65,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-160902
 
 <a id="claim-t-176959"></a>
-- t-002
-  global_id: t-176959
+- t-028
   teiginys: "Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-46460
 
 <a id="claim-t-176960"></a>
-- t-003
-  global_id: t-176960
+- t-030
   teiginys: "1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o vėliau pasiųstas gyventi į Trakus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,8 +103,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-160916
 
 <a id="claim-t-176962"></a>
-- t-004
-  global_id: t-176962
+- t-034
   teiginys: "1379 m. paliaubose Ordino magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikštijos sričių, tarp jų Brastos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,8 +122,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-37308
 
 <a id="claim-t-176963"></a>
-- t-005
-  global_id: t-176963
+- t-002
   teiginys: "Brasta buvo tarp krikščioniškų Trakų kunigaikštijos sričių, kurių abu magistrai pasižadėjo nepulti."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -145,8 +140,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-37308
 
 <a id="claim-t-176964"></a>
-- t-006
-  global_id: t-176964
+- t-001
   teiginys: "Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -163,8 +157,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-46461
 
 <a id="claim-t-176965"></a>
-- t-007
-  global_id: t-176965
+- t-020
   teiginys: "1544 m. Brastos seime Žygimantas dar prieš mirtį perdavė sūnui Žygimantui Augustui Lietuvos valdžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -183,8 +176,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-160905
 
 <a id="claim-t-176966"></a>
-- t-008
-  global_id: t-176966
+- t-003
   teiginys: "Brastoje buvo įkurta protestantų mokykla, o pradžios mokyklų protestantai turėjo beveik kiekvienoje savo parapijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -203,8 +195,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-160908
 
 <a id="claim-t-176967"></a>
-- t-009
-  global_id: t-176967
+- t-016
   teiginys: "1379 m. paliaubose abu Ordino magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikštijos sričių, tarp jų Brastos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -223,8 +214,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-37308
 
 <a id="claim-t-176968"></a>
-- t-010
-  global_id: t-176968
+- t-009
   teiginys: "Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -241,9 +231,9 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   pagrindžia:
     - c-160912
     - c-24084
+
 <a id="claim-t-176969"></a>
-- t-011
-  global_id: t-176969
+- t-027
   teiginys: "Vytauto laikais Brasta minima kaip galima pilies statybos vieta Palenkėje, rusėniškose LDK žemėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -260,8 +250,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-160906
 
 <a id="claim-t-176970"></a>
-- t-012
-  global_id: t-176970
+- t-031
   teiginys: "Kęstutis buvo gavęs ilgą vakarų pasienio ruožą su Trakais, Palenke, Gardinu ir Brasta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -278,8 +267,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-46460
 
 <a id="claim-t-176971"></a>
-- t-013
-  global_id: t-176971
+- t-033
   teiginys: "Negavęs pagalbos Mozūrijoje, Kęstutis paliko žmoną Brastoje ir slaptai išvyko į Žemaičius ieškoti paramos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -295,8 +283,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-37306
 
 <a id="claim-t-176972"></a>
-- t-014
-  global_id: t-176972
+- t-008
   teiginys: "Vytauto laikais Palenkėje pilys imtos statyti Melnike ir galbūt Brastoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -312,8 +299,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-160906
 
 <a id="claim-t-176973"></a>
-- t-015
-  global_id: t-176973
+- t-035
   teiginys: "Brastoje Slupskis sumokėjo 38 lietuviškus grašius palūkanų nuo filipkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -329,8 +315,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-160913
 
 <a id="claim-t-176974"></a>
-- t-016
-  global_id: t-176974
+- t-017
   teiginys: "Vilniaus katedrai buvo dovanoti dideli valsčiai Drohičino, Brastos ir Dubno pavietuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -345,9 +330,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   pagrindžia:
     - c-160899
 
-<a id="claim-t-176984"></a>
-- t-017
-  global_id: t-176984
+<a id="claim-t-176975"></a>
+- t-032
   teiginys: "Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -367,8 +351,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-160903
 
 <a id="claim-t-176976"></a>
-- t-018
-  global_id: t-176976
+- t-011
   teiginys: "1792 m. liepos pabaigoje gynybai telkiantis prie Brastos, atėjo žinia apie Stanislovo Augusto prisijungimą prie Targovicos konfederacijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -387,8 +370,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-160910
 
 <a id="claim-t-176977"></a>
-- t-019
-  global_id: t-176977
+- t-010
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -407,8 +389,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-160904
 
 <a id="claim-t-176978"></a>
-- t-020
-  global_id: t-176978
+- t-018
   teiginys: "Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -425,8 +406,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-160902
 
 <a id="claim-t-176979"></a>
-- t-021
-  global_id: t-176979
+- t-022
   teiginys: "Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -442,8 +422,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-160897
 
 <a id="claim-t-176980"></a>
-- t-022
-  global_id: t-176980
+- t-004
   teiginys: "Kęstutis paliko žmoną Brastoje ir slaptai išvyko į Žemaičius, iš kurių tikėjosi paramos."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -459,8 +438,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-37306
 
 <a id="claim-t-176982"></a>
-- t-023
-  global_id: t-176982
+- t-005
   teiginys: "1544 m. Brastos seime Žygimantas dar prieš mirtį atidavė sūnui Lietuvos valdžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -479,8 +457,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-160895
 
 <a id="claim-t-176985"></a>
-- t-024
-  global_id: t-176985
+- t-012
   teiginys: "LDK kariuomenė pasipriešino prie Myro ir Brastoje, o paskui be didesnių nuostolių atsitraukė prie Varšuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -498,8 +475,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-160914
 
 <a id="claim-t-176986"></a>
-- t-025
-  global_id: t-176986
+- t-006
   teiginys: "Brastos paviete buvę dideli valsčiai minimi tarp valdų, kuriomis buvo aprūpinta Vilniaus katedra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -516,10 +492,9 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-160899
 
 <a id="claim-t-187568"></a>
-- t-026
-  global_id: t-187568
+- t-007
   teiginys: "Lietuvos metraštis pasakoja, kad Kęstutis atvyko į Gardiną pas sūnų, o žmoną pasiuntė į Brastą, pasikliaudamas žentu Jonušu."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -537,8 +512,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-170517
 
 <a id="claim-t-192625"></a>
-- t-027
-  global_id: t-192625
+- t-038
   teiginys: "Teodoras Narbutas Brastos apylinkėse mini svarbias jotvingių gyvenvietes, kurias 1237 m. ketino užpulti Danieliaus vadovauti Pietų Rusios kunigaikščiai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -561,8 +535,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - c-175395
 
 <a id="claim-t-193175"></a>
-- t-028
-  global_id: t-193175
+- t-039
   teiginys: "Ateinančiais 1596 m. Brastoje buvo sušauktas pravoslavų sinodas, kur unija turėjo būti viešai paskelbta."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -793,10 +766,12 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
 - id: c-37306
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -810,18 +785,16 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     hičiną ir Melniką. Negavęs pagalbos Mozūrijoje ir palikęs sa­
     vo žmoną Brastoje, Kęstutis slaptai išvyko į Žemaičius, iš ku­
     rių ir begalėjo laukti paramos.
-  citata_rodoma: |
-    Negavęs pagalbos Mozūrijoje ir palikęs sa­
-    vo žmoną Brastoje, Kęstutis slaptai išvyko į Žemaičius, iš ku­
-    rių ir begalėjo laukti paramos.
+  citata_rodoma: "Negavęs pagalbos Mozūrijoje ir palikęs sa­\nvo žmoną Brastoje, Kęstutis slaptai išvyko į Žemaičius, iš ku­\nrių ir begalėjo laukti paramos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176971
-    - t-176980
+    - t-033
+    - t-004
+
 - id: c-37308
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -837,23 +810,17 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
     Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
     Varmijos)^1 ).
-  citata_rodoma: |
-    Abu
-    magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­
-    jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,
-    Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su
-    Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
-    Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
-    Varmijos)^1 ).
+  citata_rodoma: "Abu\nmagistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­\njos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,\nBrastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su\nKęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių\nOrdino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir\nVarmijos)^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176962
-    - t-176963
-    - t-176967
+    - t-034
+    - t-002
+    - t-016
+
 - id: c-46460
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -865,21 +832,16 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
     pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą. Jo žinioje
     buvo ir (tada dar pusiau savarankiški) Žemaičiai.
-  citata_rodoma: |
-    Vyriausias sūnus, Man-
-    v y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
-    ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-
-    das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
-    pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą. Jo žinioje
-    buvo ir (tada dar pusiau savarankiški) Žemaičiai.
+  citata_rodoma: "Vyriausias sūnus, Man-\nv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą\nir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-\ndas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų\npasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą. Jo žinioje\nbuvo ir (tada dar pusiau savarankiški) Žemaičiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176959
-    - t-176970
+    - t-028
+    - t-031
+
 - id: c-46461
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -904,7 +866,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176964
+    - t-001
+
 - id: c-160895
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -920,22 +883,15 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
     jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
     tėjimo viršūnės.
-  citata_rodoma: |
-    Tame pačiame seime
-    Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­
-    raliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­
-    tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
-    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
-    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
-    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
-    tėjimo viršūnės.
+  citata_rodoma: "Tame pačiame seime \nLietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­\nraliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­\ntas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.) \nBrastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­\nniu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­\njorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­\ntėjimo viršūnės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176982
+    - t-005
+
 - id: c-160897
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -961,7 +917,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176979
+    - t-022
+
 - id: c-160899
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -980,28 +937,16 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
     teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
     istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
-  citata_rodoma: |
-    112.
-    I1l
-
-    ## Puslapis 128
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    vyskupui, iškilmingu aktu dovanodamas kunigaikštišką
-    Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra-
-    vos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius
-    Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
-    kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
-    teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
-    istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
+  citata_rodoma: "112.\nI1l\n\n## Puslapis 128\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nvyskupui, iškilmingu aktu dovanodamas kunigaikštišką \nTauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra- \nvos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius \nDrohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­\nkamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­\nteko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos \nistorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176974
-    - t-176986
+    - t-017
+    - t-006
+
 - id: c-160902
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1019,21 +964,16 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     mu užėmė ano valdos sostinę Gardiną ir šiaip taip
     patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
     Vilniaus diecezijos senųjų turto do- Vilnensis.
-  citata_rodoma: |
-    Pats tuo metu už­
-    ėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­
-    ražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­
-    mu užėmė ano valdos sostinę Gardiną ir šiaip taip
-    patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
-    Vilniaus diecezijos senųjų turto do- Vilnensis.
+  citata_rodoma: "Pats tuo metu už­\nėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­\nražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­\nmu užėmė ano valdos sostinę Gardiną ir šiaip taip\npatvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau\nVilniaus diecezijos senųjų turto do- Vilnensis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176955
-    - t-176978
+    - t-029
+    - t-018
+
 - id: c-160903
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1051,25 +991,15 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     valdžios vadžias. Tiktai jaunos ir dorovingos karalienės
     mirtis 1545 metų liepos 17 dieną paskandino liūdesyje rū­
     mus ir miesto gyventojus29.
-  citata_rodoma: |
-    )
-    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
-    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
-    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
-    tėjimo viršūnės.
-    Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos
-    seimo kartu su karaliene Elžbieta ir didele dvariškių svita,
-    tais pačiais metais ir su geriausiomis pranašystėmis perėmė
-    valdžios vadžias. Tiktai jaunos ir dorovingos karalienės
-    mirtis 1545 metų liepos 17 dieną paskandino liūdesyje rū­
-    mus ir miesto gyventojus29.
+  citata_rodoma: ") \nBrastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­\nniu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­\njorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­\ntėjimo viršūnės.\nŽygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos \nseimo kartu su karaliene Elžbieta ir didele dvariškių svita, \ntais pačiais metais ir su geriausiomis pranašystėmis perėmė \nvaldžios vadžias. Tiktai jaunos ir dorovingos karalienės \nmirtis 1545 metų liepos 17 dieną paskandino liūdesyje rū­\nmus ir miesto gyventojus29."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176984
+    - t-032
+
 - id: c-160904
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1084,19 +1014,15 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-
     mas Lietuvoje virto nenutrūkstamu procesu.
-  citata_rodoma: |
-    Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
-    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
-    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
-    Vilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-
-    mas Lietuvoje virto nenutrūkstamu procesu.
+  citata_rodoma: "Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė \nkatalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-\ndvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į \nVilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-\nmas Lietuvoje virto nenutrūkstamu procesu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176977
+    - t-010
+
 - id: c-160905
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1114,24 +1040,15 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     seimo kartu su karaliene Elžbieta ir didele dvariškių svita,
     tais pačiais metais ir su geriausiomis pranašystėmis perėmė
     valdžios vadžias.
-  citata_rodoma: |
-    Bet Žygimantas, metų naštos prislėg­
-    tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
-    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
-    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
-    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
-    tėjimo viršūnės.
-    Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos
-    seimo kartu su karaliene Elžbieta ir didele dvariškių svita,
-    tais pačiais metais ir su geriausiomis pranašystėmis perėmė
-    valdžios vadžias.
+  citata_rodoma: "Bet Žygimantas, metų naštos prislėg­\ntas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)\nBrastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­\nniu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­\njorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­\ntėjimo viršūnės.\nŽygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos\nseimo kartu su karaliene Elžbieta ir didele dvariškių svita,\ntais pačiais metais ir su geriausiomis pranašystėmis perėmė\nvaldžios vadžias."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176965
+    - t-020
+
 - id: c-160906
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1145,20 +1062,16 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
     (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
     stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
-  citata_rodoma: |
-    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
-    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
-    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
-    (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
-    stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
+  citata_rodoma: "Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, \nTrakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-\nse LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje \n(Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net \nstačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176969
-    - t-176972
+    - t-027
+    - t-008
+
 - id: c-160908
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1170,18 +1083,15 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     šių mokyklų iš pradžių žymiausioji buvo vilniškė. Po protes-
     tantų susidūrimų su katalikais, 1640 m. ji buvo panaikinta kartu su
     kalvinų bažnyčia.
-  citata_rodoma: |
-    Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
-    žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-
-    džios mokyklų buvo beveik kiekvienoj jų parapijoj. Iš visų
-    šių mokyklų iš pradžių žymiausioji buvo vilniškė.
+  citata_rodoma: "Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-\nžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-\ndžios mokyklų buvo beveik kiekvienoj jų parapijoj. Iš visų\nšių mokyklų iš pradžių žymiausioji buvo vilniškė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176966
+    - t-003
+
 - id: c-160910
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1195,19 +1105,15 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
     Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
     kijos ir Lietuvos) dignitorių – ministrų.
-  citata_rodoma: |
-    Liepos pabaigoje
-    gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-
-    ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
-    prie Targovicos konfederacijos.
-    1792 m.
+  citata_rodoma: "Liepos pabaigoje \ngynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-\nėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą \nprie Targovicos konfederacijos. \n1792 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176976
+    - t-011
+
 - id: c-160912
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1222,18 +1128,15 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
-  citata_rodoma: |
-    Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
-    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
-    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
-    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
+  citata_rodoma: "Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė \nkatalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-\ndvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į \nVilnių ir atidavė besikuriančiam jėzuitų universitetui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176968
+    - t-009
+
 - id: c-160913
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1259,7 +1162,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176973
+    - t-035
+
 - id: c-160914
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1270,19 +1174,15 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     fas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino
     prie Myro, Brastoje ir be didesnių nuostolių atsitraukė prie Varšuvos. Iš
     72 pabūklų ji prarado tik septynis.
-  citata_rodoma: |
-    LDK kariuomenė turėjo daug sunkumų su karo
-    vadais (kitaip nei Lenkijos kariuomenė Ukrainoje, kuriai vadovavo Juze-
-    fas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino
-    prie Myro, Brastoje ir be didesnių nuostolių atsitraukė prie Varšuvos. Iš
-    72 pabūklų ji prarado tik septynis.
+  citata_rodoma: "LDK kariuomenė turėjo daug sunkumų su karo \nvadais (kitaip nei Lenkijos kariuomenė Ukrainoje, kuriai vadovavo Juze-\nfas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino \nprie Myro, Brastoje ir be didesnių nuostolių atsitraukė prie Varšuvos. Iš \n72 pabūklų ji prarado tik septynis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176985
+    - t-012
+
 - id: c-160916
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1301,7 +1201,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176960
+    - t-030
+
 - id: c-170517
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1319,20 +1220,15 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     kunigaikščio Jogailos savo tėvui, kad jo tėvas, didysis
     kunigaikštis Kęstutis, po susitikimo vėl galės saugiai
     grįžti.
-  citata_rodoma: |
-    O kai prisiartina
-    didysis kunigaikštis Jogaila prie Trakų, Trakai jam pa­
-    siduoda l2 . Ir didysis kunigaikštis Kęstutis atvyksta
-    į Gardiną pas savo sūnų l3 , o savo žmoną pasiunčia
-    į Brastą, pasikliaudamas savo žentu Jonušu u. Mazovi­
-    jos kunigaikščiu.
+  citata_rodoma: "O kai prisiartina \ndidysis kunigaikštis Jogaila prie Trakų, Trakai jam pa­\nsiduoda l2 . Ir didysis kunigaikštis Kęstutis atvyksta \nį Gardiną pas savo sūnų l3 , o savo žmoną pasiunčia \nį Brastą, pasikliaudamas savo žentu Jonušu u. Mazovi­\njos kunigaikščiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187568
+    - t-007
+
 - id: c-175395
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1353,7 +1249,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192625
+    - t-038
+
 - id: c-175922
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1372,7 +1269,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193175
+    - t-039
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Šach Achmedas]]
 - Apgulė Brastą: [[objektai/grupes/Švedai]]

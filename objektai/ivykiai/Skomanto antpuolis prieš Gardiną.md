@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185827"></a>
 - t-001
-  global_id: t-185827
   teiginys: "Skomantas su prūsų kariais netikėtai užpuolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-196256"></a>
 - t-002
-  global_id: t-196256
   teiginys: "Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė įgulą, sunaikino įtvirtinimus, o jo raiteliai išsivarė didelį grobį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -100,5 +98,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185827
-    - t-196256
+    - t-001
+    - t-002

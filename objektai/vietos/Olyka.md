@@ -37,9 +37,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 
 ## Teiginiai
 
-<a id="claim-t-84380"></a>
-- t-001
-  global_id: t-84380
+<a id="claim-t-84379"></a>
+- t-003
   teiginys: "Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - c-80553
 
 <a id="claim-t-84381"></a>
-- t-002
-  global_id: t-84381
+- t-001
   teiginys: "Olyka Voluinėje kartu su Nesvyžiumi buvo vienos Radvilų šeimos šakos centras."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -137,7 +135,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84381
+    - t-001
+
 - id: c-80553
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -153,6 +152,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84380
+    - t-003
+
 ## Ryšiai
 - Olyka priklausė [[objektai/vietos/Voluinė]]

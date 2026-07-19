@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-34568"></a>
 - t-001
-  global_id: t-34568
   teiginys: "Apie gegužės 20 d. Vytautas įsiveržė į Vilniaus srities Medininkus ir po aštuonių dienų grįžo su dideliu grobiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34568
+    - t-001

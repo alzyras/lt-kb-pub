@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-186567"></a>
 - t-001
-  global_id: t-186567
   teiginys: "Lietuvos metraščio pasakojimu, Vaišvilkas su pinskiečiais ir naugardukiečiais parvyko į Lietuvą kunigaikščiauti, o Lietuva jį sutiko kaip valdovo sūnų."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "keliavo_i -> Lietuva: 0.92"
@@ -65,7 +64,6 @@ Nenurodyta
 
 <a id="claim-t-196790"></a>
 - t-002
-  global_id: t-196790
   teiginys: "Lietuvos metraštis vaizduoja, kad Levas, šėtono pakurstytas ir prisiminęs Vaišvilko žalą Rusų žemėms, nužudė Vaišvilką švento Mykolo vienuolyne."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -89,16 +87,12 @@ Nenurodyta
     yra žiauriai kenkę Rusų žemėms ir jam pačiam. Ir štai
     čia pat, švento Mykolo vienuolyne, jį nužudė*. Ir
     taip pasibaigė Romos kunigaikščio Palemono giminė.
-  citata_rodoma: |
-    Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į
-    Naugarduką, ten pasiėmė su savimi naugardukiečius ir
-    parvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko
-    savo valdovo sūnų didžiai džiaugdamasi.
+  citata_rodoma: "Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į \nNaugarduką, ten pasiėmė su savimi naugardukiečius ir \nparvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko \nsavo valdovo sūnų didžiai džiaugdamasi."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186567
-    - t-196790
+    - t-001
+    - t-002

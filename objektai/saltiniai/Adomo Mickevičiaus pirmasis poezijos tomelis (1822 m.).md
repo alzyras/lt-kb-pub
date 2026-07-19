@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-20996"></a>
 - t-001
-  global_id: t-20996
   teiginys: "1822 m. Vilniuje išėjo pirmasis Adomo Mickevičiaus poezijos tomelis, o vėliau poetas pagarsėjo visoje Europoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ media_all_json: |-
 
 <a id="claim-t-183352"></a>
 - t-002
-  global_id: t-183352
   teiginys: "1822 m. Vilniuje išėjo pirmasis Adomo Mickevičiaus poezijos tomelis, o vėliau jo poezija pagarsėjo visoje Europoje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -100,5 +98,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20996
-    - t-183352
+    - t-001
+    - t-002

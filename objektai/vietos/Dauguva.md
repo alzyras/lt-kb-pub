@@ -44,9 +44,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 
 ## Teiginiai
 
-<a id="claim-t-182752"></a>
-- t-001
-  global_id: t-182752
+<a id="claim-t-182751"></a>
+- t-065
   teiginys: "Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-166168
 
 <a id="claim-t-182753"></a>
-- t-002
-  global_id: t-182753
+- t-066
   teiginys: "Vokiečių ekspansija buvo nublokšta iki Dauguvos, į XIII a."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-166166
 
 <a id="claim-t-182754"></a>
-- t-003
-  global_id: t-182754
+- t-068
   teiginys: "Spalio 5 d. Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,8 +93,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-43388
 
 <a id="claim-t-182756"></a>
-- t-004
-  global_id: t-182756
+- t-067
   teiginys: "Lietuvos kariuomenės sparnas turėjo nustumti švedus nuo Dauguvos kranto ir nublokšti juos į šiaurėje esantį pelkėtą mišką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,8 +109,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-166164
 
 <a id="claim-t-183007"></a>
-- t-005
-  global_id: t-183007
+- t-008
   teiginys: "Treniotos ir žemaičių žygiai siekė už Dauguvos esančią Estiją, bet buvo siaubiamieji, o ne užkariaujamieji."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -133,8 +128,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-166400
 
 <a id="claim-t-184385"></a>
-- t-006
-  global_id: t-184385
+- t-070
   teiginys: "Ordino kariuomenė buvo užpulta prie Aizkrauklės ant Dauguvos kranto."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -153,10 +147,9 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-31997
 
 <a id="claim-t-188680"></a>
-- t-007
-  global_id: t-188680
+- t-001
   teiginys: "Narbutas Gercikos pilį prie Dauguvos tapatino su dabartiniu Daugpiliu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -171,10 +164,9 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171569
-    - c-007
+
 <a id="claim-t-188681"></a>
-- t-008
-  global_id: t-188681
+- t-009
   teiginys: "Narbutas Krivių Krivaičio valdžią vaizdavo kaip kadaise apėmusią žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -193,8 +185,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-171570
 
 <a id="claim-t-192633"></a>
-- t-009
-  global_id: t-192633
+- t-071
   teiginys: "Narbutas teigė, kad potvynių ir šiaurės vėjų sukelti pokyčiai labiausiai paveikė Baltijos pakrantes tarp Vyslos ir Dauguvos žiočių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -214,8 +205,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-175403
 
 <a id="claim-t-192634"></a>
-- t-010
-  global_id: t-192634
+- t-072
   teiginys: "Narbutas atmetė mokslininkų nuomonę, kad gintaro kelio upė galėjusi būti Prieglius arba Vakarų Dauguva, ir rinkosi Nemuną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -235,8 +225,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-175404
 
 <a id="claim-t-192635"></a>
-- t-011
-  global_id: t-192635
+- t-073
   teiginys: "Narbutas rašė, kad skandinavų Reithgothland vadintas kraštas tęsėsi nuo Nemuno žemupio dešiniosios pakrantės iki Dauguvos žemupio."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -254,7 +243,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175405
-    - c-013
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
 - susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52441|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
 - susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52442|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
@@ -463,8 +451,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188680
 - c-013
   santrauka: 'Narbutas rašė, kad skandinavų Reithgothland vadintas kraštas tęsėsi nuo Nemuno žemupio dešiniosios pakrantės iki Dauguvos žemupio.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -480,8 +466,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192635
+
 ## Citatos
 
 - id: c-31997
@@ -499,7 +484,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184385
+    - t-070
+
 - id: c-43388
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -518,7 +504,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182754
+    - t-068
+
 - id: c-166164
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -545,7 +532,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182756
+    - t-067
+
 - id: c-166166
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -567,7 +555,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182753
+    - t-066
+
 - id: c-166168
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -607,7 +596,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182752
+    - t-065
+
 - id: c-166400
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -625,7 +615,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183007
+    - t-008
+
 - id: c-171569
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -645,25 +636,15 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     nes žmonių polinkiai visur panašūs, piktnaudžiaujančių svai­
     ginamaisiais gėrimais ištvirkimas visur dangstomas dievobai­
     mingumo skraiste.
-  citata_rodoma: |
-    Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
-    sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
-    kalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­
-    ją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­
-    sų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo
-    Gercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis
-    Daugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;
-    kiek kartų jį turėję su savimi kovodami su livoniečiais, tiek
-    kartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės
-    keršydamas už nužudymą Dangeručio, kuris, kaip jie manė,
-    nelaisvėje buvo nužudytas tuo kalaviju.
+  citata_rodoma: "Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje\nsugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties\nkalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­\nją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­\nsų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo\nGercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis\nDaugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;\nkiek kartų jį turėję su savimi kovodami su livoniečiais, tiek\nkartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės\nkeršydamas už nužudymą Dangeručio, kuris, kaip jie manė,\nnelaisvėje buvo nužudytas tuo kalaviju."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188680
+    - t-001
+
 - id: c-171570
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -685,7 +666,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188681
+    - t-009
+
 - id: c-175403
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -707,7 +689,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192633
+    - t-071
+
 - id: c-175404
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -730,7 +713,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192634
+    - t-072
+
 - id: c-175405
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -746,19 +730,14 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     perėjo į kairiąją Nemuno pakrantę Vyslos link, taip pat
     į kairiąją Vyslos pakrantę ir kitapus Oderio net ligi Vag-
     rijos3.
-  citata_rodoma: |
-    Tam tikrą
-    šios žemės dalį skandinavai vadino Reithgothland. Sis
-    pavadinimas kildinamas1 iš senovės germanų žodžio
-    Rieth, Ried, Reiih, ir reiškia žemą kraštą, miškingą že­
-    mumą. Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios
-    pakrantės ligi Dauguvos žemupio.
+  citata_rodoma: "Tam tikrą\nšios žemės dalį skandinavai vadino Reithgothland. Sis\npavadinimas kildinamas1 iš senovės germanų žodžio\nRieth, Ried, Reiih, ir reiškia žemą kraštą, miškingą že­\nmumą. Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios\npakrantės ligi Dauguvos žemupio."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192635
+    - t-073
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Latviai]], [[objektai/grupes/Sėliai]]

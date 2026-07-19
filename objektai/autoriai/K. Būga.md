@@ -46,8 +46,7 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 ## Teiginiai
 
 <a id="claim-t-00043"></a>
-- t-001
-  global_id: t-00043
+- t-005
   teiginys: "Būga kartu su Jauniumi vadino aisčių gimines aisčiais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     - c-00072
 
 <a id="claim-t-64668"></a>
-- t-002
-  global_id: t-64668
+- t-001
   teiginys: "K. Būga manė, kad dauguma gotiškos kilmės žodžių į baltų kalbas pateko per slavus."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 
 <a id="claim-t-64669"></a>
 - t-003
-  global_id: t-64669
   teiginys: "K. Būga yra „Rinktinių Raštų“, sudarytų V. Zinkevičiaus ir išleistų Vilniuje 1958-1961 m., autorius."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -100,8 +97,7 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     - c-03994
 
 <a id="claim-t-64672"></a>
-- t-004
-  global_id: t-64672
+- t-007
   teiginys: "K. Būga 1924 m. paskelbė darbą „Die Vorgeschichte der aistischen (baltischen) Stämme im Lichte der Ortsnamenforschung“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -181,18 +177,15 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad
     taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
     yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
-  citata_rodoma: |
-    Tik didieji mūsų kalbininkai Jaunius su
-    Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad
-    taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
-    yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
+  citata_rodoma: "Tik didieji mūsų kalbininkai Jaunius su\nBūga visas tas gimines vadino aisčiais, argumentuodami tuo, kad\ntaip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,\nyra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-00043
+    - t-005
+
 - id: c-03994
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -202,16 +195,15 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     A. Brackmann, Leipzig 1939.
     BūRR = Būga, K. : Rinktiniai Raštai, sudarė V. Zinkevičius, 1-3,
     Vilnius 1958-61.
-  citata_rodoma: |
-    BūRR = Būga, K. : Rinktiniai Raštai, sudarė V. Zinkevičius, 1-3,
-    Vilnius 1958-61.
+  citata_rodoma: "BūRR = Būga, K. : Rinktiniai Raštai, sudarė V. Zinkevičius, 1-3,\nVilnius 1958-61."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64669
+    - t-003
+
 - id: c-03996
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -223,17 +215,15 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     skolinius. Dauguma gotiškosios kilmės žodžių (asilas, katilas, istu­
     ba, stiklas, šalmas, lūkas, piela, muitas, tuinas) K. Būgos nuomone
     esą patekę į baltų kalbas ne tiesioginiu keliu, bet per slavus.
-  citata_rodoma: |
-    Dauguma gotiškosios kilmės žodžių (asilas, katilas, istu-
-    ba, stiklas, šalmas, lūkas, piela, muitas, tuinas) K. Būgos nuomone
-    esą patekę į baltų kalbas ne tiesioginiu keliu, bet per slavus.
+  citata_rodoma: "Dauguma gotiškosios kilmės žodžių (asilas, katilas, istu-\nba, stiklas, šalmas, lūkas, piela, muitas, tuinas) K. Būgos nuomone\nesą patekę į baltų kalbas ne tiesioginiu keliu, bet per slavus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64668
+    - t-001
+
 - id: c-03998
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -246,13 +236,11 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     gabe, Leipzig 1924, 22-35 p. — (”) _Visųsenieji lietuvių santykiai su ger­
     manais_ , Kalba ir Senovė, I, Kaunas 1922, 60-75 p. — Endzelin, J. :
     _Slavjano-baltijskie etjudy_ , Charkov 1911.
-  citata_rodoma: |
-    Būga, K. : _Die Vorgeschichte der aistischen (ibaltischen) Stämme im Lichte
-    der Ortsnamenforschung,_ Streitberg-Festgabe, Leipzig 1924, 22-35 p.
+  citata_rodoma: "Būga, K. : _Die Vorgeschichte der aistischen (ibaltischen) Stämme im Lichte\nder Ortsnamenforschung,_ Streitberg-Festgabe, Leipzig 1924, 22-35 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64672
+    - t-007

@@ -37,7 +37,6 @@ Sužinoję apie Naujojo Kauno statybą, Ordino magistras su kariuomene 1363 m. b
 
 <a id="claim-t-42204"></a>
 - t-001
-  global_id: t-42204
   teiginys: "1363 m. balandį Ordino magistras su kariuomene Nemunu priplaukė Trapėnus, ten įtvirtino paliktus laivus ir patraukė prie Naujojo Kauno pilies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,18 +74,11 @@ Sužinoję apie Naujojo Kauno statybą, Ordino magistras su kariuomene 1363 m. b
     kinti pilį bei tiltą su gynybiniais bokštais.
     Plaukdami atgal, kryžiuočiai sunaikino
     Pieštvės ir Veliuonos pilis.
-  citata_rodoma: |
-    Sužinoję apie Naujojo Kauno statybą,
-    Ordino magistras su kariuomene 1363 m.
-    balandį atplaukė Nemunu, priplaukęs
-    Trapénus (žemiau Nevėžio žiočių), paliko
-    laivus, juos apkasęs gynybiniu pylimu, ir
-    atėjo prie Naujojo Kauno pilies, „pradėtos
-    atstatinėti neįtikėtinomis pastangomis“.
+  citata_rodoma: "Sužinoję apie Naujojo Kauno statybą,\nOrdino magistras su kariuomene 1363 m.\nbalandį atplaukė Nemunu, priplaukęs\nTrapénus (žemiau Nevėžio žiočių), paliko\nlaivus, juos apkasęs gynybiniu pylimu, ir\natėjo prie Naujojo Kauno pilies, „pradėtos\natstatinėti neįtikėtinomis pastangomis“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42204
+    - t-001

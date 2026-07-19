@@ -31,7 +31,6 @@ Po šios apklausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė,
 
 <a id="claim-t-17890"></a>
 - t-001
-  global_id: t-17890
   teiginys: "Lietuvos AS priėmė konstitucinį įstatymą, skelbusį, kad Lietuva yra Nepriklausoma Demokratinė Respublika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,14 +59,11 @@ Po šios apklausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė,
     Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti –
     Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-
     bačiovo reformoms, o jį patį nuvers „vanagai“.
-  citata_rodoma: |
-    Po šios ap-
-    klausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė, kad Lie-
-    tuva yra Nepriklausoma Demokratinė Respublika.
+  citata_rodoma: "Po šios ap-\nklausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė, kad Lie-\ntuva yra Nepriklausoma Demokratinė Respublika."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-17890
+    - t-001

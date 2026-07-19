@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-21887"></a>
 - t-001
-  global_id: t-21887
   teiginys: "Apie 50 tūkst. žydų buvo laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose ir išnaudoti kaip pigi darbo jėga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,12 +68,11 @@ media_all_json: |-
     naikinta dauguma – apie 150 000 – Lietuvos žydų. Apie 50 tūkst. žydų
     laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-
     doti kaip pigi darbo jėga.
-  citata_rodoma: |
-    laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-
+  citata_rodoma: "laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21887
+    - t-001

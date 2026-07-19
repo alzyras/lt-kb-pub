@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66571"></a>
-- t-001
-  global_id: t-66571
+- t-003
   teiginys: "Per kovą prie Karaliaučiaus į pagalbą buvo pasikviesti visi Karaliaučiaus broliai ir jų ginklanešiai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,10 +68,9 @@ Nenurodyta
   semantiniai_rysiai: "Sembai dalyvavo mūšyje Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.) (0.86)"
   pagrindžia:
     - c-66780
-    - c-003
+
 <a id="claim-t-66572"></a>
-- t-002
-  global_id: t-66572
+- t-001
   teiginys: "1262 m. sausio 21 d. Julicho grafas ir Markos grafas Engelbertas su didele kariuomene atvyko į Karaliaučiaus pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-66781
 
 <a id="claim-t-66573"></a>
-- t-003
-  global_id: t-66573
+- t-002
   teiginys: "Prieš kautynes žvalgas Stantekas, sunkiai sužeistas sembų sargybos, pranešė maldininkams apie pasalą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -112,7 +109,6 @@ Nenurodyta
 
 <a id="claim-t-66574"></a>
 - t-004
-  global_id: t-66574
   teiginys: "Dusburgietis pasakoja, kad vienas prūsas iš anksto pranašavo sembų išžudymą švento Vincento dieną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -142,8 +138,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-66571
+
 ## Citatos
 
 - id: c-66778
@@ -164,7 +159,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66574
+    - t-004
+
 - id: c-66779
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -189,7 +185,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66573
+    - t-002
+
 - id: c-66780
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -203,19 +200,15 @@ Nenurodyta
     broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis
     šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis
     p. 54), kelio iš Kaliningrado į Laduškiną pradžioje.
-  citata_rodoma: |
-    Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų
-    ginklanešius. Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje
-    pusėje daugybės sužeistųjų ir nukautųjų, visus išžudė. Šitaip iš dievo malonės tą dieną
-    krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš
-    metus įvyko Pokarvių kautynės.
+  citata_rodoma: "Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų\nginklanešius. Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje\npusėje daugybės sužeistųjų ir nukautųjų, visus išžudė. Šitaip iš dievo malonės tą dieną\nkrito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš\nmetus įvyko Pokarvių kautynės."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66571
+    - t-003
+
 - id: c-66781
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -226,14 +219,11 @@ Nenurodyta
     Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria
     kariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie
     pavakarę, jie atvyko į Karaliaučiaus pilį.
-  citata_rodoma: |
-    Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria
-    kariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie
-    pavakarę, jie atvyko į Karaliaučiaus pilį.
+  citata_rodoma: "Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria\nkariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie\npavakarę, jie atvyko į Karaliaučiaus pilį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66572
+    - t-001

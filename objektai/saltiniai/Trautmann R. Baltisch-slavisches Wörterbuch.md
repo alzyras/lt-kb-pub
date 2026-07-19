@@ -36,7 +36,6 @@ Dusburgietis teigia, kad trautmann R.
 
 <a id="claim-t-61324"></a>
 - t-001
-  global_id: t-61324
   teiginys: "R. Trautmanno „Baltisch-slavisches Wörterbuch“ išleistas Göttingene 1923 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Dusburgietis teigia, kad trautmann R.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61324
+    - t-001

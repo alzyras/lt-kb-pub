@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-189658"></a>
 - t-001
-  global_id: t-189658
   teiginys: "Narbutas rašo, kad padavimai lietuvių pilyse mini varpus kariams prikelti, sargybiniams perspėti ir pavojui paskelbti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-194615"></a>
 - t-002
-  global_id: t-194615
   teiginys: "Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų, skirtų tam tikroms religinėms apeigoms."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177014
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų, skirtų tam tikroms religinėms apeigoms.'
@@ -107,8 +105,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194615
+
 ## Citatos
 
 - id: c-172541
@@ -130,7 +127,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189658
+    - t-001
+
 - id: c-177014
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -150,23 +148,11 @@ Nenurodyta
     nišku papročiu prieš pat įsėsdami į ratus; taigi keliautojai, prieš
     išeidami iš trobos, susėda ant suolo kartu su visais esančiais,
     trumpai pasimeldžia ir patyli akis nukreipę į krosnį.
-  citata_rodoma: |
-    Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų,
-    skirtų tam tikroms religinėms apeigoms. Scholastas Teokritas
-    paliko žinią, kad varpai priklausė dievų Kabirų garbinimo pa­
-    slaptingoms apeigoms, kadangi manyta, jog vario skambėji­
-    mas padeda žmonėms apsivalyti ir pasišvęsti, taip pat nuveja
-    piktąsias dvasias. Taigi buvo skambinama ir numirus stabmel­
-    162
-
-    ## Puslapis 162
-
-    džiams. Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­
-    tų gongais.
+  citata_rodoma: "Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų,\nskirtų tam tikroms religinėms apeigoms. Scholastas Teokritas\npaliko žinią, kad varpai priklausė dievų Kabirų garbinimo pa­\nslaptingoms apeigoms, kadangi manyta, jog vario skambėji­\nmas padeda žmonėms apsivalyti ir pasišvęsti, taip pat nuveja\npiktąsias dvasias. Taigi buvo skambinama ir numirus stabmel­\n162\n\n## Puslapis 162\n\ndžiams. Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­\ntų gongais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194615
+    - t-002

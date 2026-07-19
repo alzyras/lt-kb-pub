@@ -32,13 +32,45 @@ media_all_json: |-
 
 Dusburgietis teigia, kad szacherska S.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'S. M. Szacherskos veikalas „Opoctwo cysterskie w Szpetalu a misja pruska“ išleistas Varšuvoje 1960 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Szacherska S. M. Opoctwo cysterskie w Szpetalu a misja pruska.— Warszawa, 1960.
+      [Szymański J.] Templariusze —SSS, Wrocław—Warszawa— Kraków—Gdańsk, 1977,
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-61936
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    — Slavia
+    Occidentalis, Poznan, 1965, t. 25, s. 155— 191.
+    Вилинбахов В. Б., Энговатов Н. В. Предварительные замечания о западных
+    галиндах и восточной голяди. — Там же, 1963, t. 23, s.
+  citata_rodoma: "Szacherska S. M. Opoctwo cysterskie w Szpetalu a misja pruska.— Warszawa, 1960."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-61304"></a>
 - t-001
-  global_id: t-61304
   teiginys: "S. M. Szacherskos veikalas „Opoctwo cysterskie w Szpetalu a misja pruska“ išleistas Varšuvoje 1960 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,38 +85,3 @@ Dusburgietis teigia, kad szacherska S.
   temporalinis_llm_pakomentavimas: "Citata patvirtina autorę, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61936
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'S. M. Szacherskos veikalas „Opoctwo cysterskie w Szpetalu a misja pruska“ išleistas Varšuvoje 1960 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Szacherska S. M. Opoctwo cysterskie w Szpetalu a misja pruska.— Warszawa, 1960.
-      [Szymański J.] Templariusze —SSS, Wrocław—Warszawa— Kraków—Gdańsk, 1977,
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61304
-## Citatos
-
-- id: c-61936
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    — Slavia
-    Occidentalis, Poznan, 1965, t. 25, s. 155— 191.
-    Вилинбахов В. Б., Энговатов Н. В. Предварительные замечания о западных
-    галиндах и восточной голяди. — Там же, 1963, t. 23, s.
-  citata_rodoma: |
-    Szacherska S. M. Opoctwo cysterskie w Szpetalu a misja pruska.— Warszawa, 1960.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-61304

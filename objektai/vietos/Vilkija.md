@@ -44,7 +44,6 @@ media_all_json: |-
 
 <a id="claim-t-38183"></a>
 - t-001
-  global_id: t-38183
   teiginys: "1950 m. liepos 22 d. Daugėliškių miške ties Ariogalos ir Vilkijos rajonų riba MGB 208-ojo pulko kareiviai puolė partizanų bunkerį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,9 +63,8 @@ media_all_json: |-
 
 <a id="claim-t-188849"></a>
 - t-002
-  global_id: t-188849
   teiginys: "Kairiajame Nemuno krante tarp Kauno ir Vilkijos buvo Zapyškis, prie kurio tekėjo upelis, kadaise vadintas Upinės, vėliau Išganytojo vardu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -82,10 +80,9 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171738
-    - c-002
+
 <a id="claim-t-188850"></a>
 - t-003
-  global_id: t-188850
   teiginys: "Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas, ant Upinės kaupo buvo pastatyta koplyčia."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -106,7 +103,6 @@ media_all_json: |-
 
 <a id="claim-t-192772"></a>
 - t-004
-  global_id: t-192772
   teiginys: "Narbutas Vilkiją aiškino kaip vėlesnį didelio krašto vardą ir siejo jį su herulų įsikūrimu tarp saksų ir slavų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -125,10 +121,9 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175542
-    - c-004
+
 <a id="claim-t-192773"></a>
 - t-005
-  global_id: t-192773
   teiginys: "Narbutas Vilkiją laikė herulų kraštu, Didžiąja Herulija, iš kurios apie 580 metus slavai esą išstūmė ankstesnius gyventojus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -147,10 +142,9 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175543
-    - c-005
+
 <a id="claim-t-197939"></a>
 - t-006
-  global_id: t-197939
   teiginys: "Sis didelis kraštas kiek vėliau buvo vadinamas Vilkija; lietuvių kalba reiškia didelį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -196,8 +190,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188849
 - c-004
   santrauka: 'Narbutas Vilkiją aiškino kaip vėlesnį didelio krašto vardą ir siejo jį su herulų įsikūrimu tarp saksų ir slavų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -213,8 +205,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192772
 - c-005
   santrauka: 'Narbutas Vilkiją laikė herulų kraštu, Didžiąja Herulija, iš kurios apie 580 metus slavai esą išstūmė ankstesnius gyventojus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -234,8 +224,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192773
+
 ## Citatos
 
 - id: c-39988
@@ -256,7 +245,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38183
+    - t-001
+
 - id: c-171738
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -268,19 +258,15 @@ media_all_json: |-
     kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
     šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
     ris dėl to iki šiol neprarado gydomojo poveikio.
-  citata_rodoma: |
-    Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
-    tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
-    žiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise
-    vadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­
-    vieną šventę, ypač per šv.
+  citata_rodoma: "Man pasisekė toks tyrimas. Kairiajame Nemuno krante,\ntarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­\nžiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise\nvadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­\nvieną šventę, ypač per šv."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188849
+    - t-002
+
 - id: c-171739
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -297,7 +283,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188850
+    - t-003
+
 - id: c-175542
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -309,20 +296,16 @@ media_all_json: |-
     je1. Jordanas mini, jog herulams atiteko germanų genčių
     paliktos ir slavų dar neužimtos žemės2. Yra ir vėlesnių
     istorikų tikslesnių teiginių šiuo atžvilgiu.
-  citata_rodoma: |
-    Sis didelis kraštas kiek vėliau buvo vadinamas Vilkija;
-    lietuvių kalba reiškia didelį. Vyskupas Enodijus liudija,
-    jog herulai įsikūrė tarp saksų ir slavų amžiaus pabaigo­
-    je1. Jordanas mini, jog herulams atiteko germanų genčių
-    paliktos ir slavų dar neužimtos žemės2.
+  citata_rodoma: "Sis didelis kraštas kiek vėliau buvo vadinamas Vilkija; \nlietuvių kalba reiškia didelį. Vyskupas Enodijus liudija, \njog herulai įsikūrė tarp saksų ir slavų amžiaus pabaigo­\nje1. Jordanas mini, jog herulams atiteko germanų genčių \npaliktos ir slavų dar neužimtos žemės2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192772
-    - t-197939
+    - t-004
+    - t-006
+
 - id: c-175543
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -343,23 +326,14 @@ media_all_json: |-
     ir čia įamžinti savo kolonijų pavadinimus, kai jas po
     minėtų metų išstūmė slavai liutičiai, nuo kurių ir šian­
     dien šis kraštas vadinamas Lužica2.
-  citata_rodoma: |
-    Veltui kai kurie istorijos tyrinėtojai šį pavadini­
-    mą kildina iš slavų žodžio Wilk, nes lotynų kronikose
-    randamas šio krašto gyventojų pavadinimas Vilei. Iš tik­
-    rųjų nebuvo jokios vilkų genties, bet buvo herulų Vilkijos
-    kraštas, Didžioji Herulija, dėl ko ir tenykščiai slavai,
-    įsikūrę po herulų ir maždaug apie 580 metus išstūmę iš
-    jos ankstesnius gyventojus, buvo vadinami vilkijais arba
-    vilkais1. Be to, pačioje Lietuvoje yra panašiai vadinamų
-    valsčių ir netgi ne vienoje vietoje; lietuvių geografijoje
-    žinomi Vilkija, Vilkai, Vilkiškės.
+  citata_rodoma: "Veltui kai kurie istorijos tyrinėtojai šį pavadini­\nmą kildina iš slavų žodžio Wilk, nes lotynų kronikose\nrandamas šio krašto gyventojų pavadinimas Vilei. Iš tik­\nrųjų nebuvo jokios vilkų genties, bet buvo herulų Vilkijos\nkraštas, Didžioji Herulija, dėl ko ir tenykščiai slavai,\nįsikūrę po herulų ir maždaug apie 580 metus išstūmę iš\njos ankstesnius gyventojus, buvo vadinami vilkijais arba\nvilkais1. Be to, pačioje Lietuvoje yra panašiai vadinamų\nvalsčių ir netgi ne vienoje vietoje; lietuvių geografijoje\nžinomi Vilkija, Vilkai, Vilkiškės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192773
+    - t-005
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Herulai]]

@@ -47,9 +47,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-Nenurodyta
-
 ## Citatos
 
 - id: c-174986
@@ -65,11 +62,7 @@ Nenurodyta
     ir vaizduojama.
     Tekstas, kuriuo T. Narbutas papildė paragrafą, rengdamas antrąjį
     LTI leidimą (PEĮ.
-  citata_rodoma: |
-    Kaip pastebėjo ponas Tadas Volianskis, toji žąsis primena bū­
-    rimą, kuriam Pabaltijo slavai naudojo žirgą, Jį vesdavo per kryž­
-    mai į žemę susmeigtas ietis. Antspaude žąsis būtent tokia poza
-    ir vaizduojama.
+  citata_rodoma: "Kaip pastebėjo ponas Tadas Volianskis, toji žąsis primena bū­\nrimą, kuriam Pabaltijo slavai naudojo žirgą, Jį vesdavo per kryž­\nmai į žemę susmeigtas ietis. Antspaude žąsis būtent tokia poza\nir vaizduojama."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

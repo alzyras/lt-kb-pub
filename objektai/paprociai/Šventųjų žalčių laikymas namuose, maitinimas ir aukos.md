@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189791"></a>
 - t-001
-  global_id: t-189791
   teiginys: "Narbutas rašo girdėjęs, kad kai kuriuose kaimuose naminiai žalčiai laikyti beveik nekenksmingais ir vengta juos užmušti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-189792"></a>
 - t-002
-  global_id: t-189792
   teiginys: "Narbutas žalčių garbinimą senovėje vaizdavo kaip visuotinį reiškinį, minėdamas indus, chaldėjus, egiptiečius, persus, graikus, romėnus ir kitas tautas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Nenurodyta
 
 <a id="claim-t-197273"></a>
 - t-004
-  global_id: t-197273
   teiginys: "Lietuviai tam tikriems burtams naudodavo žvakes, paga mintas iš žalčio taukų, nes, tokią žvakę uždegus, atvykdavo žal čių karalius su visa didžiule roplių svita."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -92,17 +89,6 @@ Nenurodyta
   pagrindžia:
     - c-179096
 
-<a id="claim-t-189793"></a>
-- t-003
-  global_id: t-189793
-  teiginys: 'Narbutas nurodo, kad lietuviai turėjo daug pasakojimų ir padavimų apie žalčius, siejamų su žalčio protingumo ir nemarumo vaizdiniais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Padavimų ir mitologinių vaizdinių turinys paliktas su Narbuto atribucija. Nepridėta konkrečių padavimų, kurių citata nepateikia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  pagrindžia:
-    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas nurodo, kad lietuviai turėjo daug pasakojimų ir padavimų apie žalčius, siejamų su žalčio protingumo ir nemarumo vaizdiniais.'
@@ -120,11 +106,9 @@ Nenurodyta
     kuriuos visus čia išpasakoti reikėtų daug laiko.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189793
+  statusas: verified
 ## Citatos
 
 - id: c-172674
@@ -146,7 +130,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189791
+    - t-001
+
 - id: c-172675
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -167,7 +152,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189792
+    - t-002
+
 - id: c-179096
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -188,4 +174,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197273
+    - t-004

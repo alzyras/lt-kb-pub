@@ -31,7 +31,6 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
 
 <a id="claim-t-86577"></a>
 - t-001
-  global_id: t-86577
   teiginys: "Vidivarijų vardas, Jornandeso duotas tautai prie Vyslos žiočių, aiškintas kaip įvairių tautų sambūrio nomen sociale."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,30 +77,11 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
     būrio nomen sociale [bendruomenės
     vardas], koks yra frankų pavadini­
     mas.
-  citata_rodoma: |
-    i
-    Kol istorikai neįstengė rasti patiki­
-    mos išvados apie lietuvių tautos
-    kilmę, kol kas to dar neketinu šia­
-    me veikale aptarti; vis dėlto turiu
-    pripažinti, kad švedų mokslininko
-    Thunmano  tyrinėjimai ir prie­
-    laidos panašiausios į tiesą. Tikrai
-    tikėtina, jog vardas tautos, įsikūru­
-    sios prie Vyslos žiočių - vidivarii [vi-
-    divarijai], duotas Jornandeso
-    (De geticae gentis origine ac rebus ges­
-    tis Cap. 5 [apie gotų genties kilmę ir
-    karo žygius]); yra ne kokios nors vie­
-    nos tautos nomen gentile [giminės
-    vardas], bet toks įvairių tautų sam­
-    būrio nomen sociale [bendruomenės
-    vardas], koks yra frankų pavadini­
-    mas.
+  citata_rodoma: "i\nKol istorikai neįstengė rasti patiki­\nmos išvados apie lietuvių tautos \nkilmę, kol kas to dar neketinu šia­\nme veikale aptarti; vis dėlto turiu \npripažinti, kad švedų mokslininko \nThunmano  tyrinėjimai ir prie­\nlaidos panašiausios į tiesą. Tikrai \ntikėtina, jog vardas tautos, įsikūru­\nsios prie Vyslos žiočių - vidivarii [vi- \ndivarijai], duotas Jornandeso \n(De geticae gentis origine ac rebus ges­\ntis Cap. 5 [apie gotų genties kilmę ir \nkaro žygius]); yra ne kokios nors vie­\nnos tautos nomen gentile [giminės \nvardas], bet toks įvairių tautų sam­\nbūrio nomen sociale [bendruomenės \nvardas], koks yra frankų pavadini­\nmas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86577
+    - t-001

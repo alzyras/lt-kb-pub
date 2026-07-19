@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-18978"></a>
 - t-001
-  global_id: t-18978
   teiginys: "Jonas Kauneckas priklausė 1978 m. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,12 +97,11 @@ media_all_json: |-
     kuriomis valstybėje naudojasi
     ateistai, o kulto laisvė praktikoje
     varžoma.
-  citata_rodoma: |
-    kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio
+  citata_rodoma: "kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18978
+    - t-001

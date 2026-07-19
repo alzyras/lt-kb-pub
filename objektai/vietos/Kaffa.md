@@ -32,7 +32,6 @@ Mat, per jų žemes pirkliai iš Lietuvos ir Rusijos vyk­ davo į Kaffos miest�
 
 <a id="claim-t-36259"></a>
 - t-001
-  global_id: t-36259
   teiginys: "Į Kaffos miestą Kryme vykdavo pirkliai iš Lietuvos ir Rusijos, ten susitikdavę su Genujos ir Venecijos pirkliais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Mat, per jų žemes pirkliai iš Lietuvos ir Rusijos vyk­ davo į Kaffos miest�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36259
+    - t-001

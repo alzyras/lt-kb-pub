@@ -67,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-13461"></a>
 - t-001
-  global_id: t-13461
   teiginys: "Naktį iš 1991 m. sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -87,7 +86,6 @@ Nenurodyta
 
 <a id="claim-t-13462"></a>
 - t-002
-  global_id: t-13462
   teiginys: "Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -104,9 +102,8 @@ Nenurodyta
 
 <a id="claim-t-13463"></a>
 - t-003
-  global_id: t-13463
   teiginys: "Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą ir Lietuvos radijo bei televizijos komiteto pastatą."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -153,15 +150,15 @@ Nenurodyta
     sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-
     vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
     pateko po tanko vikšrais ir mirė ligoninėje.
-  citata_rodoma: |
-    pateko po tanko vikšrais ir mirė ligoninėje.
+  citata_rodoma: "pateko po tanko vikšrais ir mirė ligoninėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13463
+    - t-003
+
 - id: c-154552
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -176,16 +173,15 @@ Nenurodyta
     pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galioji-
     mą. Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
     vuočiai.
-  citata_rodoma: |
-    Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
-    vuočiai.
+  citata_rodoma: "Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-\nvuočiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13461
+    - t-001
+
 - id: c-154554
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -198,13 +194,12 @@ Nenurodyta
     12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei
     Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė
     daugiatūkstantinė taikių Lietuvos gyventojų minia.
-  citata_rodoma: |
-    12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei
+  citata_rodoma: "12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13462
-    - t-13463
+    - t-002
+    - t-003

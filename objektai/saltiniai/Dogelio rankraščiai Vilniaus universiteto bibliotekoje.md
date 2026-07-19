@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-88248"></a>
 - t-001
-  global_id: t-88248
   teiginys: "Dogelio rankraščiuose Vilniaus universiteto bibliotekoje buvo Žygimanto Augusto 1551 m. privilegijos tekstas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ media_all_json: |-
 
 <a id="claim-t-88249"></a>
 - t-002
-  global_id: t-88249
   teiginys: "Dogelio rankraščiuose buvo 1570 m. nuostolių, patirtų Lietuvos monetas keičiant į lenkiškus pinigus, sąrašas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,7 +104,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88249
+    - t-002
+
 - id: c-84229
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -141,39 +140,11 @@ media_all_json: |-
 
     VILNIAUS MIESTO ISTORIJA II TOMAS
     In Nomine Domini, Amen.
-  citata_rodoma: |
-    Už visa tai karalius baudžia šimto kapų grašių bauda.
-    —  • —
-    303
-
-    ## Puslapis 320
-
-    [tuščias arba OCR reikalingas puslapis]
-
-    ## Puslapis 321
-
-    IV KNYGA
-    III
-    KARALIAUS ŽYGIMANTO AUGUSTO PRIVILEGIJA,
-    DUOTA MIKALOJUI RADVILAI, OLYKOS IR
-    NESVYŽIAUS KUNIGAIKŠČIUI, VILNIAUS VAIVADAI,
-    LDK MARŠALKAI IR KANCLERIUI,
-    1551 M. VILNIAUS SEIME, LEIDŽIANTI JAM IR
-    JO PALIKUONIMS AMŽINAI TURĖTI IR SAUGOTI
-    SAVO ARCHYVUOSE VISAS PRIVILEGIJAS IR LAISVES,
-    KARALIŲ SUTEIKTAS
-    LIETUVOS DIDŽIAJAI KUNIGAIKŠTYSTEI
-    (Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje)
-    305
-
-    ## Puslapis 322
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    In Nomine Domini, Amen.
+  citata_rodoma: "Už visa tai karalius baudžia šimto kapų grašių bauda.\n—  • —\n303\n\n## Puslapis 320\n\n[tuščias arba OCR reikalingas puslapis]\n\n## Puslapis 321\n\nIV KNYGA\nIII\nKARALIAUS ŽYGIMANTO AUGUSTO PRIVILEGIJA, \nDUOTA MIKALOJUI RADVILAI, OLYKOS IR \nNESVYŽIAUS KUNIGAIKŠČIUI, VILNIAUS VAIVADAI, \nLDK MARŠALKAI IR KANCLERIUI,\n1551 M. VILNIAUS SEIME, LEIDŽIANTI JAM IR \nJO PALIKUONIMS AMŽINAI TURĖTI IR SAUGOTI \nSAVO ARCHYVUOSE VISAS PRIVILEGIJAS IR LAISVES, \nKARALIŲ SUTEIKTAS \nLIETUVOS DIDŽIAJAI KUNIGAIKŠTYSTEI\n(Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje)\n305\n\n## Puslapis 322\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nIn Nomine Domini, Amen."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88248
+    - t-001

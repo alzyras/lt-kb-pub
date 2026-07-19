@@ -38,7 +38,6 @@ Rimvydas Laužikas Adomą Mickevičių greta Jędrzejaus Kitowicziaus apibūdina
 
 <a id="claim-t-200740"></a>
 - t-001
-  global_id: t-200740
   teiginys: "Rimvydas Laužikas Adomą Mickevičių greta Jędrzejaus Kitowicziaus apibūdina kaip benykstančios sarmatiškosios bajorų kultūros metraštininką."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -67,8 +66,5 @@ Rimvydas Laužikas Adomą Mickevičių greta Jędrzejaus Kitowicziaus apibūdina
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200740
+    - t-001

@@ -30,7 +30,6 @@ Dusburgietis teigia, kad kapinynų, kai kurių piliakalnių tyrimas rodo, kad U�
 
 <a id="claim-t-61111"></a>
 - t-001
-  global_id: t-61111
   teiginys: "Kapinynų ir kai kurių piliakalnių tyrimai rodo, kad Užnemunė, ypač jos šiaurė, nebuvo negyvenamas kraštas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -54,4 +53,4 @@ Dusburgietis teigia, kad kapinynų, kai kurių piliakalnių tyrimas rodo, kad U�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61111
+    - t-001

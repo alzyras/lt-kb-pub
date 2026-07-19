@@ -40,8 +40,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 ## Teiginiai
 
 <a id="claim-t-65204"></a>
-- t-001
-  global_id: t-65204
+- t-003
   teiginys: "Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komunistų partijos suorganizuoti ir „Jedinstvo“ vedami rusakalbiai darbininkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,9 +58,9 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   pagrindžia:
     - c-42682
     - c-167046
+
 <a id="claim-t-65205"></a>
 - t-002
-  global_id: t-65205
   teiginys: "1991 m. sausio 8 d. „Jedinstvo“ ir prosovietinės Lietuvos komunistų partijos vadovaujama „penktoji kolona“ mėgino užimti AT rūmus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +79,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     - c-42681
 
 <a id="claim-t-65206"></a>
-- t-003
-  global_id: t-65206
+- t-001
   teiginys: "Jedinstvo buvo prosovietinė organizacija, veikusi kaip sovietų penktoji kolona ir Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,6 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 
 <a id="claim-t-65207"></a>
 - t-004
-  global_id: t-65207
   teiginys: "Apie 400 „raudonraiščių“ vadovavo „Nacionalinio gelbėjimo komiteto“ lyderiai ir Valerijaus Ivanovo organizacija „Jedinstvo“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,7 +105,6 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 
 <a id="claim-t-183135"></a>
 - t-005
-  global_id: t-183135
   teiginys: "Prosovietinė organizacija „Jedinstvo“ Maskvos nurodymu priešinosi Lietuvos nepriklausomybės atkūrimui, bet rimtesnės įtakos neturėjo."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -141,18 +137,15 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,
     Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūri-
     mui, rimtesnės įtakos neturėjo.
-  citata_rodoma: |
-    Mažuma komunistų drauge su prosovietine
-    organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,
-    Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūri-
-    mui, rimtesnės įtakos neturėjo.
+  citata_rodoma: "Mažuma komunistų drauge su prosovietine\norganizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,\nMaskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūri-\nmui, rimtesnės įtakos neturėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65206
+    - t-001
+
 - id: c-42681
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -175,22 +168,15 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 
     platformos), mitingo metu mėgino
     užimti AT rūmus.
-  citata_rodoma: |
-    1991 m.
-    sausio 8 d. „penktoji kolona“, vadovaujama
-    prosovietinės organizacijos „Jedinstvo“
-
-    ir Lietuvos komunistų partijos (ant ssKP
-
-    platformos), mitingo metu mėgino
-    užimti AT rūmus.
+  citata_rodoma: "1991 m.\nsausio 8 d. „penktoji kolona“, vadovaujama\nprosovietinės organizacijos „Jedinstvo“\n\nir Lietuvos komunistų partijos (ant ssKP\n\nplatformos), mitingo metu mėgino\nužimti AT rūmus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65205
+    - t-002
+
 - id: c-42682
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -204,21 +190,15 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     darbininkai. Perversme turėjo aktyviai dalyvauti ir sovietų ka-
     riuomenė. 1991 m. pradžioje iš Pskovo į Lietuvą buvo perkelti
     specialios paskirties desantininkų daliniai.
-  citata_rodoma: |
-    Jį įgyvendinti turėjo prosovietiškos
-    Lietuvos komunistų partijos (nuo sovietų ko-
-    munistų partijos neatsiskyrusios partijos da-
-    lies) suorganizuoti ir antivalstybinės organizacijos „Jedinstvo“
-    (Vienybė) vedami rusakalbiai sąjunginio pavaldumo gamyklų
-    darbininkai. Perversme turėjo aktyviai dalyvauti ir sovietų ka-
-    riuomenė. 1991 m.
+  citata_rodoma: "Jį įgyvendinti turėjo prosovietiškos\nLietuvos komunistų partijos (nuo sovietų ko-\nmunistų partijos neatsiskyrusios partijos da-\nlies) suorganizuoti ir antivalstybinės organizacijos „Jedinstvo“\n(Vienybė) vedami rusakalbiai sąjunginio pavaldumo gamyklų\ndarbininkai. Perversme turėjo aktyviai dalyvauti ir sovietų ka-\nriuomenė. 1991 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65204
+    - t-003
+
 - id: c-42683
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -232,22 +212,15 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     „Jedinstvo“. Yra duomenų, kad sausio 13 d.
     naktį kariniuose veiksmuose iš viso daly-
     vavo apie 900 sovietinių kareivių.
-  citata_rodoma: |
-    Apie 400 „raudonraiš-
-    čių“, vadovaujamų „Nacionalinio gelbė-
-    jimo komiteto“ lyderių komunistų Juozo
-    Jermalavičiaus, Mykolo Burokevičiaus
-    ir Valerijaus Ivanovo organizacijos
-    „Jedinstvo“. Yra duomenų, kad sausio 13 d.
-    naktį kariniuose veiksmuose iš viso daly-
-    vavo apie 900 sovietinių kareivių.
+  citata_rodoma: "Apie 400 „raudonraiš-\nčių“, vadovaujamų „Nacionalinio gelbė-\njimo komiteto“ lyderių komunistų Juozo\nJermalavičiaus, Mykolo Burokevičiaus\nir Valerijaus Ivanovo organizacijos\n„Jedinstvo“. Yra duomenų, kad sausio 13 d.\nnaktį kariniuose veiksmuose iš viso daly-\nvavo apie 900 sovietinių kareivių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65207
+    - t-004
+
 - id: c-166520
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -266,7 +239,8 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183135
+    - t-005
+
 - id: c-167046
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -291,3 +265,5 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

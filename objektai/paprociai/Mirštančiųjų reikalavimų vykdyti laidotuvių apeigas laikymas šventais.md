@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189963"></a>
 - t-001
-  global_id: t-189963
   teiginys: "Narbutas aiškina, kad lietuviai prieš mirtį reikalaudavo laidotuvių apeigų, nes rūpinosi vėlės likimu ir bijojo dievų keršto."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189963
+    - t-001

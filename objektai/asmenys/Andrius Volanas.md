@@ -31,7 +31,6 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 
 <a id="claim-t-87626"></a>
 - t-001
-  global_id: t-87626
   teiginys: "Andrius Volanas garsėjo mokslu ir rašytojo talentu, o Vilniuje uoliai skleidė reformatų idėjas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87626
+    - t-001

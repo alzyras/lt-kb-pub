@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87137"></a>
-- t-001
-  global_id: t-87137
+- t-003
   teiginys: "1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus, suma siekė 164 zl. 36 gr."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-83116
 
 <a id="claim-t-87138"></a>
-- t-002
-  global_id: t-87138
+- t-001
   teiginys: "Turčinas Lukove prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių, keisdamas lietuviškas monetas į lenkiškas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,7 +118,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87137
+    - t-003
+
 - id: c-83117
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -141,4 +140,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87138
+    - t-001

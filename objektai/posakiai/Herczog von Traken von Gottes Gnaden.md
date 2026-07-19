@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-95948"></a>
 - t-001
-  global_id: t-95948
   teiginys: "1384 m. sausio 30 d. Karaliaučiuje Vytautas, pasivadinęs „Herczog von Traken von Gottes Gnaden“, išdavė magistrui raštą ir pažadėjo būti jo vasalu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,14 +60,11 @@ media_all_json: |-
     atvykęs su savo giminaičiais sausio mėn. 30 d., kaip „Herczog
     von Traken von Gottes Gnaden” išdavė magistrui raštą, pasi­
     žadėdamas būti jo vasalu.
-  citata_rodoma: |
-    30 d., kaip „Herczog
-    von Traken von Gottes Gnaden” išdavė magistrui raštą, pasi­
-    žadėdamas būti jo vasalu.
+  citata_rodoma: "30 d., kaip „Herczog\nvon Traken von Gottes Gnaden” išdavė magistrui raštą, pasi­\nžadėdamas būti jo vasalu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95948
+    - t-001

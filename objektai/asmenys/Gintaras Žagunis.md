@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-193823"></a>
 - t-001
-  global_id: t-193823
   teiginys: "1991 m. gegužės 19 d. Šalčininkų rajone, Krakūnų pasienio poste žuvo pirmasis Lietuvos pasienietis Gintaras Žagunis."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193823
+    - t-001

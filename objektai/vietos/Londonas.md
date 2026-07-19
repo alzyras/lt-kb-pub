@@ -44,8 +44,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
 ## Teiginiai
 
 <a id="claim-t-79713"></a>
-- t-001
-  global_id: t-79713
+- t-005
   teiginys: "Zigmantą Sierakauską, ginklų ir savanorių iš Londono."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - c-76660
 
 <a id="claim-t-79716"></a>
-- t-002
-  global_id: t-79716
+- t-001
   teiginys: "Nuo 1990 m. dalis iš Lietuvos išvykusių daugiau kaip pusės milijono gyventojų emigravo į Jungtinę Karalystę, įskaitant Londoną."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - c-24267
 
 <a id="claim-t-79717"></a>
-- t-003
-  global_id: t-79717
+- t-002
   teiginys: "1935 m. Londone gimė Antanas Kazimeras Žemaitis, sukūręs roko pasaulyje bendrine sąvoka tapusią gitarą „Zemaitis“."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -102,9 +99,8 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
 
 <a id="claim-t-188769"></a>
 - t-004
-  global_id: t-188769
   teiginys: "Narbutas Londono alų laikė ištobulinta senojo lietuviško alaus forma."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -119,10 +115,9 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171658
-    - c-004
+
 <a id="claim-t-193646"></a>
-- t-005
-  global_id: t-193646
+- t-006
   teiginys: "Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos konstituciją, kuri deklaravo Vilnių Lietuvos sostine."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -178,8 +173,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188769
+
 ## Citatos
 
 - id: c-24267
@@ -192,17 +186,15 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     sinę Lietuvos gyventojų emigraciją. Įvairiais duomenimis, nuo 1990 m. iš
     Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,
     Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.
-  citata_rodoma: |
-    Įvairiais duomenimis, nuo 1990 m. iš
-    Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,
-    Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.
+  citata_rodoma: "Įvairiais duomenimis, nuo 1990 m. iš\nLietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,\nAiriją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79716
+    - t-001
+
 - id: c-24268
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -216,17 +208,15 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
     Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
     ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-  citata_rodoma: |
-    Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
-    Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
-    ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
+  citata_rodoma: "Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o\nZemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-\nra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79717
+    - t-002
+
 - id: c-76660
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -242,22 +232,15 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     ginklų ir savanorių iš Londono. Sukilėliai
     planavo užimti Palangos ir Liepojos uos-
     tus.
-  citata_rodoma: |
-    pavasarį paskyrė Peterburge tarnavusį
-
-    Rusijos kariuomenės Generalinio štabo
-    karininką, kpt. Zigmantą Sierakauską,
-
-    ginklų ir savanorių iš Londono. Sukilėliai
-    planavo užimti Palangos ir Liepojos uos-
-    tus.
+  citata_rodoma: "pavasarį paskyrė Peterburge tarnavusį\n\nRusijos kariuomenės Generalinio štabo\nkarininką, kpt. Zigmantą Sierakauską,\n\nginklų ir savanorių iš Londono. Sukilėliai\nplanavo užimti Palangos ir Liepojos uos-\ntus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79713
+    - t-005
+
 - id: c-171658
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -271,18 +254,15 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     Aukos
     Visų tautų aukos buvo kažkokios vienodos - rėmėsi pir­
     mykščio pasaulio papročiu, kurio Nojus laikėsi po Tvano.
-  citata_rodoma: |
-    Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­
-    vėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:
-    be jokių prieskonių. Londono A l yra tiesiog ištobulintas šitas
-    alus.
+  citata_rodoma: "Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­\nvėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:\nbe jokių prieskonių. Londono A l yra tiesiog ištobulintas šitas\nalus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188769
+    - t-004
+
 - id: c-176316
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -299,6 +279,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193646
+    - t-006
+
 ## Ryšiai
 - Gimimo vieta: [[objektai/asmenys/Antanas Kazimeras Žemaitis]]

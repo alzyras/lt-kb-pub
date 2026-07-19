@@ -31,7 +31,6 @@ Nelepcos vadovaujama maždaug 30 karių grupė puolė Pacų rūmus, kuriuose buv
 
 <a id="claim-t-39698"></a>
 - t-001
-  global_id: t-39698
   teiginys: "A. Nelepcos vadovaujama maždaug 30 karių grupė puolė Pacų rūmus ir paėmė į nelaisvę generolą N. Arsenjevą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Nelepcos vadovaujama maždaug 30 karių grupė puolė Pacų rūmus, kuriuose buv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39698
+    - t-001

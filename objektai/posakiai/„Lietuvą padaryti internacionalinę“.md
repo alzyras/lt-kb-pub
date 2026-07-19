@@ -40,7 +40,6 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 
 <a id="claim-t-25373"></a>
 - t-001
-  global_id: t-25373
   teiginys: "Petras Griškevičius ir Rimgaudas Songaila laikėsi pasyviai, o Nikolajus Mitkinas siekė „Lietuvą padaryti internacionalinę“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,27 +89,11 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
     miestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-
     vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
     liausiai ji pati ėmėsi iniciatyvos.
-  citata_rodoma: |
-    KGB numeriais pažymėjo eisenos lyderius
-
-    VI s k y r i u s
-    DAINUOJANTI
-    REVOLIUCIJA
-    SU SĄJŪDŽIU UŽ LIETUVĄ
-    S
-    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
-    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
-    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
-    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
-    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
-    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“. LKP
-    miestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-
-    vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
-    liausiai ji pati ėmėsi iniciatyvos.
+  citata_rodoma: "KGB numeriais pažymėjo eisenos lyderius\n\nVI s k y r i u s\nDAINUOJANTI  \nREVOLIUCIJA\nSU SĄJŪDŽIU UŽ LIETUVĄ\nS\nSRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos \npolitiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar \nGruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-\nkevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-\ndžias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui \nNikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“. LKP \nmiestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-\nvincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-\nliausiai ji pati ėmėsi iniciatyvos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-25373
+    - t-001

@@ -50,7 +50,6 @@ Vilniaus žydų bendruomenės savivaldos institucija.
 
 <a id="claim-t-55106"></a>
 - t-001
-  global_id: t-55106
   teiginys: "Vilniaus kahalo žydams buvo perduota 5 500 auksinų suma."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::groups"
@@ -67,7 +66,6 @@ Vilniaus žydų bendruomenės savivaldos institucija.
 
 <a id="claim-t-55107"></a>
 - t-002
-  global_id: t-55107
   teiginys: "Vilniaus kahalas iki 1763 m. Valerijono konvikto gyventojams mokėjo 8 procentus, o nuo 1763 m. - 3 procentus."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::groups"
@@ -87,7 +85,6 @@ Vilniaus žydų bendruomenės savivaldos institucija.
 
 <a id="claim-t-55108"></a>
 - t-003
-  global_id: t-55108
   teiginys: "Kahalas mokėjo procentus nuo jame investuotų sumų įpareigotų pamaldų reikmėms."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::groups"
@@ -103,8 +100,7 @@ Vilniaus žydų bendruomenės savivaldos institucija.
     - c-55912
 
 <a id="claim-t-81750"></a>
-- t-004
-  global_id: t-81750
+- t-005
   teiginys: "Tėvas Juraha viderkafto mokestį priskyrė kahale investuotoms sumoms, nuo kurių kahalas mokėjo procentus įpareigotoms pamaldoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
@@ -120,8 +116,7 @@ Vilniaus žydų bendruomenės savivaldos institucija.
     - c-78324
 
 <a id="claim-t-81751"></a>
-- t-005
-  global_id: t-81751
+- t-004
   teiginys: "1631 m. Vilniaus kahalo žydams buvo perduota 5500 auksinų suma, nuo kurios kahalas iki 1763 m. mokėjo 8 procentus Valerijono konvikto gyventojams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
@@ -167,8 +162,9 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55106
-    - t-55107
+    - t-001
+    - t-002
+
 - id: c-55912
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -193,7 +189,8 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55108
+    - t-003
+
 - id: c-78324
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -215,30 +212,15 @@ Vilniaus žydų bendruomenės savivaldos institucija.
     tarojo mūro nuėmęs priskyrė kahale investuotoms sumoms,
     nuo kurių nuošimtis įpareigotų pamaldų dėlei iki šiol kaha-
     lo yra atiduodamas.
-  citata_rodoma: |
-    Juraha taip pat prie kole­
-    gijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco,
-    187
-
-    ## Puslapis 204
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Valerijono bursai perleido, nuo kurios studentų dėlei kas­
-    met po 260 auksinų gauna, o 40 auksinų eina tam mūriniam
-    namui remontuoti.
-    O kadangi tas mūras kadaise buvo įpareigotas už Uršulę
-    ir Mauricijų pamaldoms viderkaftą mokėti, kasmet po 140
-    auksinų, todėl tasai t. Juraha to viderkafto mokestį nuo pas­
-    tarojo mūro nuėmęs priskyrė kahale investuotoms sumoms,
-    nuo kurių nuošimtis įpareigotų pamaldų dėlei iki šiol kaha-
-    lo yra atiduodamas.
+  citata_rodoma: "Juraha taip pat prie kole­\ngijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco,\n187\n\n## Puslapis 204\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nValerijono bursai perleido, nuo kurios studentų dėlei kas­\nmet po 260 auksinų gauna, o 40 auksinų eina tam mūriniam \nnamui remontuoti.\nO kadangi tas mūras kadaise buvo įpareigotas už Uršulę \nir Mauricijų pamaldoms viderkaftą mokėti, kasmet po 140 \nauksinų, todėl tasai t. Juraha to viderkafto mokestį nuo pas­\ntarojo mūro nuėmęs priskyrė kahale investuotoms sumoms, \nnuo kurių nuošimtis įpareigotų pamaldų dėlei iki šiol kaha- \nlo yra atiduodamas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81750
+    - t-005
+
 - id: c-78325
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -260,23 +242,11 @@ Vilniaus žydų bendruomenės savivaldos institucija.
     konvikto gyventojams 8 nuošimčius mokėjo.
     O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­
     šimčius, kas metinių pajamų tesudaro 165 auksinus.
-  citata_rodoma: |
-    186
-
-    ## Puslapis 203
-
-    Il KNYGA
-    1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą
-    davė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500
-    auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo
-    žydams; nuo šios sumos kahalas iki 1763 metų Valerijono
-    konvikto gyventojams 8 nuošimčius mokėjo.
-    O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­
-    šimčius, kas metinių pajamų tesudaro 165 auksinus.
+  citata_rodoma: "186\n\n## Puslapis 203\n\nIl KNYGA\n1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą \ndavė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500 \nauksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo \nžydams; nuo šios sumos kahalas iki 1763 metų Valerijono \nkonvikto gyventojams 8 nuošimčius mokėjo.\nO nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­\nšimčius, kas metinių pajamų tesudaro 165 auksinus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81751
+    - t-004

@@ -12,6 +12,7 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1118 m.'
   - '1272 m.'
@@ -25,15 +26,15 @@ datos:
   - '1968 m.'
 date_start: '1118'
 date_end: '1968'
+amziai:
+  - 'XII'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
   - pilis
-amziai:
-  - 'XII'
-  - 'XX'
 media_total_count: '24'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/4/4b/City_plan_of_Kaunas_in_1757.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ACity_plan_of_Kaunas_in_1757.jpg'
@@ -71,8 +72,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 ## Teiginiai
 
 <a id="claim-t-10565"></a>
-- t-001
-  global_id: t-10565
+- t-006
   teiginys: "Bolševikų puolimo planas numatė apeiti ir užpulti Kauną iš pietų, o 5-ajam pulkui pulti Kauną tiesiai pro Kaišiadoris."
   atnaujinta: "2026-05-31 14:18"
   sprendimo_priezastis: "auto"
@@ -88,8 +88,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-21467
 
 <a id="claim-t-10566"></a>
-- t-002
-  global_id: t-10566
+- t-007
   teiginys: "1919 m. balandžio 3-8 d. lietuviai iš Kauno puolė Vilniaus link."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -109,8 +108,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-12706
 
 <a id="claim-t-10567"></a>
-- t-003
-  global_id: t-10567
+- t-008
   teiginys: "1920 m. vasario 22-23 d. Kaune kilo bolševikų sukurstytas maištas."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -128,28 +126,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   pagrindžia:
     - c-163557
 
-<a id="claim-t-10847"></a>
-- t-004
-  global_id: t-10847
-  teiginys: "Kaunas buvo stipriausia lietuvių pilis ir kovose su Ordinu suvaidino svarbų vaidmenį."
-  atnaujinta: "2026-06-13 18:29"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1960 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-163591
-
 <a id="claim-t-10848"></a>
-- t-005
-  global_id: t-10848
+- t-093
   teiginys: "Vytautas atstatė Kauno pilį ir kitas Ordino pasienyje sugriautas pilis."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -165,8 +143,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163563
 
 <a id="claim-t-10850"></a>
-- t-006
-  global_id: t-10850
+- t-094
   teiginys: "Kaune atsirado jėzuitų kolegija, funduota brolių Vijūkų Kojelavičių."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -185,8 +162,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-13418
 
 <a id="claim-t-12492"></a>
-- t-007
-  global_id: t-12492
+- t-011
   teiginys: "Vytautas Kaune pastatė parapinę ir pranciškonų bažnyčias."
   atnaujinta: "2026-05-31 14:18"
   sprendimo_priezastis: "auto"
@@ -202,8 +178,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-21469
 
 <a id="claim-t-179916"></a>
-- t-008
-  global_id: t-179916
+- t-103
   teiginys: "Vytauto valdymo metu Kaunas ir Polockas buvo du dideli prekybos centrai Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -220,8 +195,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163561
 
 <a id="claim-t-179917"></a>
-- t-009
-  global_id: t-179917
+- t-058
   teiginys: "1941 m. liepą Heinrichas Himmleris perdavė Kaune veikusiai einzatsgrupei A nurodymą žudyti ne tik žydų vyrus, bet ir moteris bei vaikus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -240,8 +214,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163553
 
 <a id="claim-t-179918"></a>
-- t-010
-  global_id: t-179918
+- t-055
   teiginys: "1935 m. Pasaulio lietuvių kongrese Kaune dalyvavo 3000 delegatų ir svečių iš 19 valstybių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -260,8 +233,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163612
 
 <a id="claim-t-179919"></a>
-- t-011
-  global_id: t-179919
+- t-064
   teiginys: "1362 metais vokiečiai išgriovė Kauno pilį ir pradėjo brautis giliau į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -281,8 +253,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163620
 
 <a id="claim-t-179920"></a>
-- t-012
-  global_id: t-179920
+- t-069
   teiginys: "1408 m. Vytautas Kaune suteikė Magdeburgo teises vokiečių pirkliams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -301,8 +272,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163567
 
 <a id="claim-t-179921"></a>
-- t-013
-  global_id: t-179921
+- t-099
   teiginys: "Aukštieji kursai Kaune peraugo į Lietuvos universitetą, atidarytą 1922 m. vasario 16 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -321,8 +291,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163618
 
 <a id="claim-t-179922"></a>
-- t-014
-  global_id: t-179922
+- t-059
   teiginys: "Pirmoji Kauno pilis kronikose paminėta 1361 m. ir pastatyta Nemuno ir Neries santakoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -341,8 +310,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-43489
 
 <a id="claim-t-179923"></a>
-- t-015
-  global_id: t-179923
+- t-031
   teiginys: "Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -359,8 +327,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163588
 
 <a id="claim-t-179924"></a>
-- t-016
-  global_id: t-179924
+- t-029
   teiginys: "Kaunas buvo Hanzos miestas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -377,8 +344,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163555
 
 <a id="claim-t-179925"></a>
-- t-017
-  global_id: t-179925
+- t-114
   teiginys: "Planuota siena žemupyje buvo išvesta taip, kad Kaunas ir Rumšiškių plotas turėjo patekti Ordinui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -395,8 +361,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163583
 
 <a id="claim-t-179927"></a>
-- t-018
-  global_id: t-179927
+- t-081
   teiginys: "Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, greitosiomis kūrė Lietuvos karines pajėgas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -412,8 +377,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163604
 
 <a id="claim-t-179928"></a>
-- t-019
-  global_id: t-179928
+- t-043
   teiginys: "Lapkričio 15 d. Kaune ant Ernesto Galvanausko miegamojo palangės sprogo bomba, o sužeistas Galvanauskas liko gyvas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -429,8 +393,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163580
 
 <a id="claim-t-179929"></a>
-- t-020
-  global_id: t-179929
+- t-052
   teiginys: "Kaune lietuviai konstravo ir statė karo bei sporto lėktuvus, įskaitant lengvuosius bombonešius, ir gamino sportinius sklandytuvus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -450,8 +413,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163632
 
 <a id="claim-t-179930"></a>
-- t-021
-  global_id: t-179930
+- t-112
   teiginys: "1384 m. vasarą Kauno vietoje buvo pastatyta tvirčiausia priešo žemėje mūrinė Marienwerderio pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -471,8 +433,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163584
 
 <a id="claim-t-179931"></a>
-- t-022
-  global_id: t-179931
+- t-070
   teiginys: "Vytauto valdymo metu vokiečių pirkliai Kaune turėjo miesto svarstykles, malūną, audimo ir vaško apdirbimo dirbtuves."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -489,8 +450,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163576
 
 <a id="claim-t-179932"></a>
-- t-023
-  global_id: t-179932
+- t-109
   teiginys: "Kun. dr. J. Stakausko vokiška disertacija 1934 m. Kaune buvo sulietuvinta ir papildyta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -509,8 +469,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163560
 
 <a id="claim-t-179933"></a>
-- t-024
-  global_id: t-179933
+- t-039
   teiginys: "1916 m. birželį Lietuvos apskritis su centru Kaune buvo suvienyta su Vilniaus apskritimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -530,8 +489,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163600
 
 <a id="claim-t-179934"></a>
-- t-025
-  global_id: t-179934
+- t-083
   teiginys: "1943 m. kovo viduryje gestapas, keršydamas už boikotą, uždarė Kauno ir Vilniaus universitetus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -550,8 +508,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163599
 
 <a id="claim-t-179935"></a>
-- t-026
-  global_id: t-179935
+- t-118
   teiginys: "1412 m. gruodį Makra, vykdamas per Ragainę ir Kauną, Kalėdoms pasiekė Vytauto pilį Trakuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -570,8 +527,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-32116
 
 <a id="claim-t-179937"></a>
-- t-027
-  global_id: t-179937
+- t-049
   teiginys: "Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -587,8 +543,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163552
 
 <a id="claim-t-179938"></a>
-- t-028
-  global_id: t-179938
+- t-030
   teiginys: "Tarpukariu Kaune buvo projektuojami ir gaminami lėktuvai, o Lietuvos vyrų krepšininkai 1937 ir 1939 m. laimėjo Europos čempionatus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -607,8 +562,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163610
 
 <a id="claim-t-179941"></a>
-- t-029
-  global_id: t-179941
+- t-057
   teiginys: "1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis užimtame Kaune per radiją paskelbė apie Lietuvos valstybės atkūrimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -626,8 +580,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163559
 
 <a id="claim-t-179942"></a>
-- t-030
-  global_id: t-179942
+- t-078
   teiginys: "Didžiojo kunigaikščio Aleksandro įsakymu Vilniaus miestiečių laivams su prekėmis buvo garantuota laisva laivyba Vilija iki Kauno ir atgal."
   atnaujinta: "2026-06-10 12:34"
   sprendimo_priezastis: "auto"
@@ -643,8 +596,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163573
 
 <a id="claim-t-179943"></a>
-- t-031
-  global_id: t-179943
+- t-087
   teiginys: "1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -663,8 +615,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163614
 
 <a id="claim-t-179944"></a>
-- t-032
-  global_id: t-179944
+- t-082
   teiginys: "Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią lietuvių tautos religinę ir tautinę dvasią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -680,8 +631,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163552
 
 <a id="claim-t-179946"></a>
-- t-033
-  global_id: t-179946
+- t-048
   teiginys: "Kaune veikusi Veterinarijos akademija rengė žemės ūkio specialistus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -700,8 +650,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163630
 
 <a id="claim-t-179947"></a>
-- t-034
-  global_id: t-179947
+- t-090
   teiginys: "Emmanuelis Levinas gimė Kaune ir baigė gimnaziją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -720,8 +669,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163589
 
 <a id="claim-t-179948"></a>
-- t-035
-  global_id: t-179948
+- t-046
   teiginys: "Grįžęs į Kauną Augustinas Voldemaras Karininkų ramovėje ir per radiją pareiškė, kad Lietuva išėjo į pasaulinę politiką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -738,8 +686,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163622
 
 <a id="claim-t-179951"></a>
-- t-036
-  global_id: t-179951
+- t-044
   teiginys: "Gegužės 15 d. laikinojoje sostinėje Kaune į pirmąjį Steigiamojo Seimo posėdį susirinko 112 išrinktų atstovų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -754,9 +701,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   pagrindžia:
     - c-163568
     - c-166991
+
 <a id="claim-t-179953"></a>
-- t-037
-  global_id: t-179953
+- t-098
   teiginys: "1920 m. vasario 22-23 d. Kaune kilęs bolševikų sukurstytas maištas galėjo suteikti Lenkijai pretekstą pulti Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -776,8 +723,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163557
 
 <a id="claim-t-179957"></a>
-- t-038
-  global_id: t-179957
+- t-042
   teiginys: "1919 m. rugsėjo 26 d. tūkstančiai žmonių Kaune susirinko prie rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -796,8 +742,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163556
 
 <a id="claim-t-179958"></a>
-- t-039
-  global_id: t-179958
+- t-074
   teiginys: "1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir ėmė siaubti kraštą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -816,8 +761,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163623
 
 <a id="claim-t-179959"></a>
-- t-040
-  global_id: t-179959
+- t-107
   teiginys: "Jablonskis „XVI amžiaus inventorius“ parengė atrinkęs aktus iš Centrinio Valstybės Archyvo Kaune ir kitų Lietuvos archyvų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -833,8 +777,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163585
 
 <a id="claim-t-179960"></a>
-- t-041
-  global_id: t-179960
+- t-085
   teiginys: "Kauno Įgulos bažnyčioje buvo atidaryti Skulptūros ir vitražo muziejai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -843,8 +786,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163609
 
 <a id="claim-t-179961"></a>
-- t-042
-  global_id: t-179961
+- t-054
   teiginys: "Sportas tapo integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olimpiadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -863,8 +805,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163587
 
 <a id="claim-t-179962"></a>
-- t-043
-  global_id: t-179962
+- t-050
   teiginys: "1934 m. lapkričio 23 d. Kaune, Karo muziejaus sodelyje, palaidotas Nežinomas kareivis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -883,8 +824,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163593
 
 <a id="claim-t-179963"></a>
-- t-044
-  global_id: t-179963
+- t-047
   teiginys: "1939 m. Kaunas turėjo 154 000 gyventojų, iš kurių 60 proc. sudarė lietuviai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -904,8 +844,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163605
 
 <a id="claim-t-179964"></a>
-- t-045
-  global_id: t-179964
+- t-032
   teiginys: "Po vieno pralaimėto mūšio Vytautas Kaune fundavo bažnyčią, pašvęstą Švč. Mergelei Marijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -914,8 +853,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163574
 
 <a id="claim-t-179966"></a>
-- t-046
-  global_id: t-179966
+- t-073
   teiginys: "Kaunas senovėje buvo laikomas vartais į pagoniškąją Lietuvą ir garsėjo tvirtovėmis bei prekyba."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -931,8 +869,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-167241
 
 <a id="claim-t-179968"></a>
-- t-047
-  global_id: t-179968
+- t-117
   teiginys: "Pasak senos tradicijos, Vytautas už išsigelbėjimą įkūrė pranciškonų vienuolynus Kaune ir Ašmenoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -949,27 +886,18 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163611
 
 <a id="claim-t-179969"></a>
-- t-048
-  global_id: t-179969
+- t-079
   teiginys: "Šach Achmedas buvo iki gyvos galvos įkalintas Kauno kalėjime."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Iki gyvos galvos: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Iki gyvos galvos: mention_match, thing, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Iki gyvos galvos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   temporaliniai_duomenys: "įvykio data: 1492 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-163558
     - c-163551
+
 <a id="claim-t-179970"></a>
-- t-049
-  global_id: t-179970
+- t-108
   teiginys: "Po pirmojo bolševikmečio pertraukos Z. Ivinskis tęsė Lietuvos istorijos darbą Filosofijos fakultete Kaune."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -988,8 +916,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163570
 
 <a id="claim-t-179971"></a>
-- t-050
-  global_id: t-179971
+- t-051
   teiginys: "Kaune lėktuvo laukusią beveik šimtatūkstantinę minią pravirkdė gauta žinia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1005,8 +932,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163598
 
 <a id="claim-t-179972"></a>
-- t-051
-  global_id: t-179972
+- t-075
   teiginys: "1388 m. ties Kaunu buvo sudaryta taikos sutartis tarp Ordino maršalo Engelhardo Rabės ir Lietuvos."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -1026,8 +952,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163569
 
 <a id="claim-t-179973"></a>
-- t-052
-  global_id: t-179973
+- t-097
   teiginys: "1941 m. birželio 23 d. užėmus Kauno radiją, LAF atstovas Leonas Prapuolenis paskelbė apie Lietuvos valstybės atkūrimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1046,8 +971,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163559
 
 <a id="claim-t-179974"></a>
-- t-053
-  global_id: t-179974
+- t-067
   teiginys: "Vytautas Kauno sutarties su Ordinu atveju veikė savarankiškai, kai jam to reikėjo politikoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1063,8 +987,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-37433
 
 <a id="claim-t-179975"></a>
-- t-054
-  global_id: t-179975
+- t-037
   teiginys: "XIX a. septintąjį–aštuntąjį dešimtmetį nutiesta geležinkelio atšaka per Kauną į Karaliaučių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1080,8 +1003,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163608
 
 <a id="claim-t-179976"></a>
-- t-055
-  global_id: t-179976
+- t-095
   teiginys: "Po santykių su Lenkija sunormavimo buvo atstatytos Kauno ir kitos ordino pasienyje sugriautos pilys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1097,8 +1019,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-46522
 
 <a id="claim-t-179977"></a>
-- t-056
-  global_id: t-179977
+- t-036
   teiginys: "1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė lengvai užėmė Kauną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1118,8 +1039,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163603
 
 <a id="claim-t-179978"></a>
-- t-057
-  global_id: t-179978
+- t-111
   teiginys: "Kaunas tačiau buvo per toli nuo ordino žemių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1135,8 +1055,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163616
 
 <a id="claim-t-179979"></a>
-- t-058
-  global_id: t-179979
+- t-091
   teiginys: "1385 metų rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1152,8 +1071,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163623
 
 <a id="claim-t-179980"></a>
-- t-059
-  global_id: t-179980
+- t-086
   teiginys: "1950 m. Kauno universitetas buvo reorganizuotas į Kauno politechnikos institutą ir Kauno medicinos institutą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1172,8 +1090,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163629
 
 <a id="claim-t-179981"></a>
-- t-060
-  global_id: t-179981
+- t-001
   teiginys: "Žygimantas Vilniaus miestiečiams leido be muito gabenti prekes visoje Lietuvos žemėje, įskaitant Kauną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1189,8 +1106,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163573
 
 <a id="claim-t-179982"></a>
-- t-061
-  global_id: t-179982
+- t-034
   teiginys: "Vytauto laikais Kaunas kartu su Vilniumi ir Trakais išryškėjo kaip Lietuvos gotikos epicentro dalis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1207,8 +1123,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163596
 
 <a id="claim-t-179983"></a>
-- t-062
-  global_id: t-179983
+- t-038
   teiginys: "1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1228,8 +1143,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163554
 
 <a id="claim-t-179984"></a>
-- t-063
-  global_id: t-179984
+- t-033
   teiginys: "1413 m. sausio 28 d. Salyne prie Kauno vyko derybos su Vokiečių ordino maršalu Mykolu Kiuchmeisteriu fon Štenbergu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1248,8 +1162,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163565
 
 <a id="claim-t-179985"></a>
-- t-064
-  global_id: t-179985
+- t-110
   teiginys: "1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė lietuvių pilį Kaune."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1269,8 +1182,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163613
 
 <a id="claim-t-179988"></a>
-- t-065
-  global_id: t-179988
+- t-113
   teiginys: "1382 m. birželio pabaigoje kryžiuočiai sunaikino Kauno apylinkėje ant Neries kranto stovėjusią Eigulių pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1290,8 +1202,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163628
 
 <a id="claim-t-179989"></a>
-- t-066
-  global_id: t-179989
+- t-084
   teiginys: "Atšilimo laikotarpiu sovietinės industrializacijos metu Lietuvoje pastatyta Kauno hidroelektrinė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1310,8 +1221,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163575
 
 <a id="claim-t-179990"></a>
-- t-067
-  global_id: t-179990
+- t-088
   teiginys: "Romas Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1327,8 +1237,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163615
 
 <a id="claim-t-179992"></a>
-- t-068
-  global_id: t-179992
+- t-035
   teiginys: "Pažaislio vienuolyno ansamblis prie Kauno minimas tarp europinės reikšmės meno kūrinių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1345,8 +1254,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163621
 
 <a id="claim-t-179993"></a>
-- t-070
-  global_id: t-179993
+- t-115
   teiginys: "Kaune, buvusioje Kęstučio pilies vietoje, buvo pastatyta tvirta mūrinė Marienwerderio pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1362,8 +1270,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163562
 
 <a id="claim-t-179994"></a>
-- t-071
-  global_id: t-179994
+- t-089
   teiginys: "Birželio 10 d. Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė buvo įsteigta Kaune."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1379,8 +1286,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163572
 
 <a id="claim-t-179995"></a>
-- t-072
-  global_id: t-179995
+- t-119
   teiginys: "Makrai pasirinkus Kauną bylos sprendimo vieta, abi pusės ten pristatinėjo savo liudininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1396,8 +1302,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163581
 
 <a id="claim-t-179996"></a>
-- t-073
-  global_id: t-179996
+- t-056
   teiginys: "Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1416,8 +1321,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163631
 
 <a id="claim-t-179998"></a>
-- t-074
-  global_id: t-179998
+- t-002
   teiginys: "Aleksandras garantavo Vilniaus miestiečiams laisvą prekių laivybą Vilija nuo Vilniaus iki Kauno ir atgal."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1436,8 +1340,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163558
 
 <a id="claim-t-179999"></a>
-- t-075
-  global_id: t-179999
+- t-065
   teiginys: "1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1454,8 +1357,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163577
 
 <a id="claim-t-184974"></a>
-- t-076
-  global_id: t-184974
+- t-123
   teiginys: "Kaunas buvo įkurtas Neries ir Nemuno santakoje ir pavadintas įkūrėjo atminimui."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -1474,8 +1376,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-168335
 
 <a id="claim-t-184976"></a>
-- t-077
-  global_id: t-184976
+- t-125
   teiginys: "Ragainės komtūras išsklaidė Kauno tvirtovę iš griuvėsių kelti mėginusius darbininkus ir išardė pradėtą pilį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -1494,8 +1395,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-168337
 
 <a id="claim-t-184977"></a>
-- t-078
-  global_id: t-184977
+- t-126
   teiginys: "Žiemą Vytautas tylomis miškais priėjo prie Kauno, tikėdamasis užimti miestą ir pilį Neries bei Nemuno santakoje."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -1514,8 +1414,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-168338
 
 <a id="claim-t-184978"></a>
-- t-079
-  global_id: t-184978
+- t-127
   teiginys: "Dėl stiprių lietuvių ir lenkų samdytinių įgulų Vytautui Kauną apsiausti buvo sunkiau, nei jis tikėjosi."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1525,10 +1424,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168338
-    - c-168339
+
 <a id="claim-t-184979"></a>
-- t-080
-  global_id: t-184979
+- t-128
   teiginys: "Vytautas Kaune pastatė šv. Pranciškaus ordino vienuoliams bažnyčią bei vienuolyną ir dosniai juos apdovanojo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -1547,8 +1445,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-168340
 
 <a id="claim-t-184980"></a>
-- t-081
-  global_id: t-184980
+- t-129
   teiginys: "Jogaila, susitaręs su Vytautu ir dėdamasis turįs kitų ketinimų, atvyko į Kauną."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -1567,8 +1464,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-168341
 
 <a id="claim-t-188707"></a>
-- t-082
-  global_id: t-188707
+- t-003
   teiginys: "Kadangi Kauno priemiestis vadinosi Aleksotu, Narbutas lietuviškosios Aleksotos grožį apdainuojančias dainas siejo su Kauno apylinkėmis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1587,49 +1483,45 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-171596
 
 <a id="claim-t-188708"></a>
-- t-083
-  global_id: t-188708
+- t-004
   teiginys: "Narbutas Kauno apylinkėse lokalizavo Mildos kultą ir pažymėjo, kad vienas senojo Kauno priemiestis tebevadinosi Aleksotu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Kaunas: 0.89"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksotas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys Aleksotą tiesiogiai apibūdina kaip senojo Kauno priemiestį."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Aleksotas priklausė Kaunas (0.89)"
-  pagrindžia:
-    - c-171597
-
-<a id="claim-t-188709"></a>
-- t-084
-  global_id: t-188709
-  teiginys: "Narbutas rašo, kad Kaune buvo rastas deivės stabas, o atradimo smulkmenas jam papasakojo profesorius Laurinavičius."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Pjetras Rosis: 0.83"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pjetras Rosis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Pjetras Rosis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171598
+    - c-171596
+
+<a id="claim-t-188709"></a>
+- t-005
+  teiginys: "Narbutas rašo, kad Kaune buvo rastas deivės stabas, o atradimo smulkmenas jam papasakojo profesorius Laurinavičius."
+  atnaujinta: "2026-07-19 16:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171597
 
 <a id="claim-t-188710"></a>
-- t-085
-  global_id: t-188710
+- t-009
   teiginys: "Narbutas nurodo, kad tarp Kauno ir Vilkijos, prie Zapyškio, tekėjo upelis, kadaise vadintas Upinės, o vėliau Išganytojo upeliu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1648,28 +1540,21 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-171599
 
 <a id="claim-t-188711"></a>
-- t-086
-  global_id: t-188711
+- t-092
   teiginys: "Narbutas iš Kauno apylinkių pasakojimų kildino žinią apie mildauninkus, meilės deivės žynius, padėjusius žmonėms meilės reikaluose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1960 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-171600
 
 <a id="claim-t-188712"></a>
-- t-087
-  global_id: t-188712
+- t-010
   teiginys: "Pasak Narbuto minimų vietos padavimų, Kauno Nemuno ir Neries santakoje augusi dievams skirta giraitė tęsėsi iki pilies griuvėsių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1691,8 +1576,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-171601
 
 <a id="claim-t-188713"></a>
-- t-088
-  global_id: t-188713
+- t-012
   teiginys: "Narbutas Kauno pavadinimą veikiau kildino iš dievaičio Kaunio nei iš Palemono sūnumi laikyto kunigaikščio Kūno."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1711,8 +1595,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-171602
 
 <a id="claim-t-188714"></a>
-- t-089
-  global_id: t-188714
+- t-013
   teiginys: "Narbutas teigė, kad Kaunio vardas labiau nei Kūno vardas primena lietuvišką Kauno pavadinimą Kaunas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1731,32 +1614,30 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-171603
 
 <a id="claim-t-188715"></a>
-- t-090
-  global_id: t-188715
+- t-096
   teiginys: "Narbutas perteikia Kosakovskio nuomonę, kad rastasis atvaizdas buvęs Kauno miesto dievas globėjas, kaip rodžiusi jo karūna."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_patikimumas: "uzkariavo -> Prūsija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini kryžiuočių užkariavimus Prūsijoje."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   temporaliniai_duomenys: "įvykio data: 1971 m.; įvykio data: 1972 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Religinė interpretacija ir kito asmens nuomonė išlaikytos su atribucija. Nepridėta, kad atvaizdo tapatybė būtų neabejotina."
   vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
   pagrindžia:
-    - c-171604
+    - c-171597
 
 <a id="claim-t-188716"></a>
-- t-091
-  global_id: t-188716
+- t-014
   teiginys: "Prie Kauno rastos senovinės lietuviškos monetos vienoje pusėje buvo Gediminaičių Stulpai ir neaiški raidė."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1775,49 +1656,45 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-171605
 
 <a id="claim-t-188717"></a>
-- t-092
-  global_id: t-188717
+- t-015
   teiginys: "Narbutas nurodo, kad Kauno šventasis miškas buvęs prie Neries ir Nemuno santakos."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumas: "puole -> Kaunas: 0.58"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171606
-
-<a id="claim-t-188718"></a>
-- t-093
-  global_id: t-188718
-  teiginys: "Narbutas rašo, kad Kaune tarp pojėzuitinių pastatų buvo senoviniu būdu ir iš senovinių medžiagų sumūryto namo griuvėsiai."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Kaunas: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
   ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
   ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
   ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys namo griuvėsius tiesiogiai lokalizuoja Kaune."
+  ryšio_paaiskinimas: "Citata nurodo prarastą pretekstą Kauno puolimui, tačiau tai neįvykęs ketinimas."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Namas priklausė Kaunas (0.84)"
   pagrindžia:
-    - c-171607
+    - c-171601
+
+<a id="claim-t-188718"></a>
+- t-016
+  teiginys: "Narbutas rašo, kad Kaune tarp pojėzuitinių pastatų buvo senoviniu būdu ir iš senovinių medžiagų sumūryto namo griuvėsiai."
+  atnaujinta: "2026-07-19 16:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-173537
 
 <a id="claim-t-190654"></a>
-- t-094
-  global_id: t-190654
+- t-100
   teiginys: "Narbutas rašo, kad prie kelio iš Kauno į Prienus, važiuodamas per Išlaužą, kairiajame Nemuno krante matė kapą dengusį laužą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1836,8 +1713,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-173537
 
 <a id="claim-t-192670"></a>
-- t-095
-  global_id: t-192670
+- t-131
   teiginys: "Prie Kauno rasta senovinė lietuviška moneta, kurios vienoje pusėje buvo Gediminaičių Stulpai ir neaiški raidė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -1857,8 +1733,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-175440
 
 <a id="claim-t-193189"></a>
-- t-096
-  global_id: t-193189
+- t-132
   teiginys: "Todėl prie Dauguvos iškilo didelis prekybos centras Polockas, o prie Nemuno — Kaunas."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -1871,8 +1746,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-175933
 
 <a id="claim-t-193638"></a>
-- t-097
-  global_id: t-193638
+- t-133
   teiginys: "1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -1885,8 +1759,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-176309
 
 <a id="claim-t-194986"></a>
-- t-098
-  global_id: t-194986
+- t-134
   teiginys: "Jurgio Talmanto vertimas, Kaunas 1930) reikalavo į šį didį valdovą žiūrėti lietuvių požiūriu."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -1899,8 +1772,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-177370
 
 <a id="claim-t-196690"></a>
-- t-099
-  global_id: t-196690
+- t-135
   teiginys: "Iš pradžių Ragainės komtūras išsklaidė dar bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė pradėtą pilį."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1913,8 +1785,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-168337
 
 <a id="claim-t-196691"></a>
-- t-100
-  global_id: t-196691
+- t-136
   teiginys: "Algirdas ir Kęstutis po penkias savaites trukusių antpuolių užėmė ir iki pamatų sugriovė prie Kauno buvusią kryžiuočių pilį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -1927,8 +1798,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-178844
 
 <a id="claim-t-197464"></a>
-- t-101
-  global_id: t-197464
+- t-137
   teiginys: "Kaune buvo rastas tos deivės stabas."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -1940,17 +1810,131 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   pagrindžia:
     - c-171597
 
-<a id="claim-t-179991"></a>
-- t-069
-  global_id: t-179991
-  teiginys: '1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra OCR ir turinio fragmentų kratinys, bet citata pagrindžia spaustuvės vietą.'
-  susije_objektai: 'llm_object: Prūsija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Prūsija'
-  temporaliniai_duomenys: 'įvykio data: iki 1330 m.; įvykio data: 1326 m.; įvykio data: 1330 m.; įvykio data: 1985 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra OCR ir turinio fragmentų kratinys, bet citata pagrindžia spaustuvės vietą.'
+<a id="claim-t-201610"></a>
+- t-138
+  teiginys: "Tačiau dauguma kalbininkų pagrįstai linksta prie asmenvardinės Kauno vardo kilmės aiškinimo."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-042
+    - c-184957
+
+<a id="claim-t-201611"></a>
+- t-139
+  teiginys: "Kallno sankrovos teisė, \"muitlĮ karas\" ir Hanzos kontoros Kaune sunykimas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-184958
+
+<a id="claim-t-201612"></a>
+- t-140
+  teiginys: "Kaunas įsikūrė Nemuno ir Neries santakoje, prie patogių vandens kelių, valstybės lietuviškųjų žemių viduryje."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-184959
+
+<a id="claim-t-201613"></a>
+- t-141
+  teiginys: "Kauno muitinė kontroliavo prekių judėjimą pro Kauną vandeniu ir sausuma."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-184960
+
+<a id="claim-t-201614"></a>
+- t-142
+  teiginys: "Kauno miesto gyvenimui tiesioginę ar netiesioginę įtaką turėjo Europos šalių ir pačios Lietuvos raida."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-184961
+
+<a id="claim-t-201615"></a>
+- t-143
+  teiginys: "Visi šie miestai nurodo maršrutus kelionių, į kurias Kauno miestiečiai leisdavosi tvarkyti miesto ar asmeninių reikalų."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-184962
+
+<a id="claim-t-201616"></a>
+- t-144
+  teiginys: "Kauno muitinė buvo ne miestiečių, o valdovo/valstybės įmonė."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184963
+
+<a id="claim-t-201617"></a>
+- t-145
+  teiginys: "Nors prekybos miško prekėmis valstybės monopolis greitai buvo sušvelnintas, bet, kadangi prie Kauno būdavo suvežamos ir valstybės/valdovo miškuose paruoštos prekės, Kaunas tapo visos Lietuvos prekybos mišku centru."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184964
+
+<a id="claim-t-201618"></a>
+- t-146
+  teiginys: "Kaunas liko katalikiškas miestas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184965
+
+<a id="claim-t-201619"></a>
+- t-147
+  teiginys: "Matyti, kad Kaunas sidabrinės mokėjo kelis kartus mažiau nei Vilnius."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184966
 - susijęs iš Karo muziejaus sodelis: 1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis.
 - susijęs iš [[objektai/asmenys/Emmanuel Levinas.md#claim-t-18885|Emmanuel Levinas]]: Filosofas Emmanuelis Levinas gimė Kaune ir ten baigė gimnaziją.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184499|Kryžiuočių ordinas]]: Po ilgos Kauno pilies apsiausties kryžiuočiai pasikasė po sienomis, padegė pastatus ir palaužę gynėjų pasipriešinimą užėmė pilį.
@@ -2911,68 +2895,6 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš Kauno Vilniaus pirklių prekių sandėlis: Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.
 - susijęs iš [[objektai/daiktai/Šarvuotasis traukinys Gediminas.md#claim-t-78695|Šarvuotasis traukinys Gediminas]]: 1920 m. sausį Kauno geležinkelio dirbtuvėse pradėtas statyti pirmasis Lietuvos kariuomenės šarvuotasis traukinys „Gediminas“.
 - susijęs iš Aleksotas: Pasak Narbuto užrašyto pasakojimo, Aleksoto priemiestyje ant kalno stovėjusi šventykla arba aukuras meilės dievybėms.
-## Reikšmingi paminėjimai
-- c-042
-  santrauka: '1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    PETRAS DUSBURGIETIS
-
-     PRŪSIJOS ŽEMĖS
-        KRONIKA
-
-
-
-                Vaga VILNIUS,
-                  1985 M.
-
-
-                          K. Požėlos spaustuvė, Kaunas
-
-
-    Kūrinys suskaitmenintas vykdant ES struktūrinių fondų remiamą projektą
-            „LIETUVIŲ LITERATŪROS KLASIKOS KŪRINIŲ PERKĖLIMAS
-                               Į ELEKTRONINĘ ERDVĘ“, 2013
-
-    TURINYS
-
-    Pratarmė                                           5
-    Petro Dusburgiečio kronika                            7
-    PRŪSIJOS ŽEMĖS KRONIKA                           32
-      Pirma knygos dalis                                                36
-      Antra knygos dalis                                                42
-       Trečia knygos dalis                                                52
-       Ketvirta knygos dalis (Apie įvykius)                                  225
-      Papildymas                                                     252
-    Bibliografija                                      259
-    Asmenvardžių rodyklė                              279
-    Vietovardžių, etnonimų ir kai kurių istorijos dalykų rodyklė 298
-
-    PETRI DE DUSBURG
-
-
-    CHRONICA TERRAE
-        PRUSSIAE
-
-    Lituanistinė biblioteka
-
-    Pratarmė
-
-
-
-      XIV a. trečiajame dešimtmetyje Lietuvos valstybei, Gedimino vyriausybei vedant
-    sėkmingą karinę  ir diplomatinę kovą prieš Kryžiuočių ordino agresiją, Vakarų
-    Europoje pasigirdo kritiškų balsų Ordino atžvilgiu. Siekdamas pagrįsti kryžiuočių
-    užkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti
-    Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo
-    kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179991
 ## Citatos
 
 - id: c-12706
@@ -2990,7 +2912,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10566
+    - t-007
+
 - id: c-13418
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3015,7 +2938,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10850
+    - t-094
+
 - id: c-21467
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3037,7 +2961,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10565
+    - t-006
+
 - id: c-21469
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3055,7 +2980,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12492
+    - t-011
+
 - id: c-32116
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3070,7 +2996,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179935
+    - t-118
+
 - id: c-37433
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3088,7 +3015,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179974
+    - t-067
+
 - id: c-43489
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3107,7 +3035,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179922
+    - t-059
+
 - id: c-46522
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3124,7 +3053,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179976
+    - t-095
+
 - id: c-163551
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3140,20 +3070,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     totoriai, nepaisydami grasinimų, jog Šach Achmedas bet ka­
     da gali būti išlaisvintas ir kenkti jiems, netrukus su didžiu­
     lėmis pajėgomis įsiveržė į Lietuvą.
-  citata_rodoma: |
-    Kad įtiktų apgailėtinai politikai ir kad
-    būtų suimtas bei įbaugintas Mendli Girėjus, nelaimingasis
-    Šach Achmedas buvo iki gyvos galvos įkalintas Kauno ka­
-    lėjime. Tačiau Aleksandro planai pasirodė esą klaidingi, nes
-    totoriai, nepaisydami grasinimų, jog Šach Achmedas bet ka­
-    da gali būti išlaisvintas ir kenkti jiems, netrukus su didžiu­
-    lėmis pajėgomis įsiveržė į Lietuvą.
+  citata_rodoma: "Kad įtiktų apgailėtinai politikai ir kad\nbūtų suimtas bei įbaugintas Mendli Girėjus, nelaimingasis\nŠach Achmedas buvo iki gyvos galvos įkalintas Kauno ka­\nlėjime. Tačiau Aleksandro planai pasirodė esą klaidingi, nes\ntotoriai, nepaisydami grasinimų, jog Šach Achmedas bet ka­\nda gali būti išlaisvintas ir kenkti jiems, netrukus su didžiu­\nlėmis pajėgomis įsiveržė į Lietuvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-079
+
 - id: c-163552
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3174,8 +3099,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179937
-    - t-179944
+    - t-049
+    - t-082
+
 - id: c-163553
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3193,7 +3119,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179917
+    - t-058
+
 - id: c-163554
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3209,21 +3136,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos
     kariuomenių kontroliuojamoje zonoje. Toje teritorijoje gyveno lenkai,
     lietuviai, latviai ir baltarusiai.
-  citata_rodoma: |
-    Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams
-    nusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pa-
-    vasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o
-    rugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės
-    teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos
-    kariuomenių kontroliuojamoje zonoje. Toje teritorijoje gyveno lenkai,
-    lietuviai, latviai ir baltarusiai.
+  citata_rodoma: "Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams \nnusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pa-\nvasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o \nrugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės \nteritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos \nkariuomenių kontroliuojamoje zonoje. Toje teritorijoje gyveno lenkai, \nlietuviai, latviai ir baltarusiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179983
+    - t-038
+
 - id: c-163555
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3235,18 +3156,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas),
     ji dažnai laikoma Rytų Europos dalimi. Tokiais atvejais turima galvoje ne
     tiek geografinė, kiek geopolitinė krašto padėtis: XIX–XX a.
-  citata_rodoma: |
-    “ Nors
-    Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas),
-    ji dažnai laikoma Rytų Europos dalimi. Tokiais atvejais turima galvoje ne
-    tiek geografinė, kiek geopolitinė krašto padėtis: XIX–XX a.
+  citata_rodoma: "“ Nors \nLietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas), \nji dažnai laikoma Rytų Europos dalimi. Tokiais atvejais turima galvoje ne \ntiek geografinė, kiek geopolitinė krašto padėtis: XIX–XX a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179924
+    - t-029
+
 - id: c-163556
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3263,18 +3181,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
     Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
     susirinko prie laikinosios sostinės Kauno rotušės.
-  citata_rodoma: |
-    Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
-    sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
-    Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
-    susirinko prie laikinosios sostinės Kauno rotušės.
+  citata_rodoma: "Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-\nsinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad \nDidžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių \nsusirinko prie laikinosios sostinės Kauno rotušės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179957
+    - t-042
+
 - id: c-163557
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3286,19 +3201,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     poziciją, kad Lietuvos vyriausybė yra prokomunistinė ir leidusi pulti
     Lietuvą atvira karine jėga. Tačiau Lietuvos vyriausybė maištą numal-
     Sino ir lenkai prarado pretekstą atviram Kauno puolimui.
-  citata_rodoma: |
-    1920 m. vasario 22-23 d. Kaune kilo bolše-
-    vikų sukurstytas maištas, jo pergalė būtų įrodžiusi Lenkijos tarptautinę
-    poziciją, kad Lietuvos vyriausybė yra prokomunistinė ir leidusi pulti
-    Lietuvą atvira karine jėga.
+  citata_rodoma: "1920 m. vasario 22-23 d. Kaune kilo bolše-\nvikų sukurstytas maištas, jo pergalė būtų įrodžiusi Lenkijos tarptautinę\npoziciją, kad Lietuvos vyriausybė yra prokomunistinė ir leidusi pulti\nLietuvą atvira karine jėga."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10567
-    - t-179953
+    - t-008
+    - t-098
+
 - id: c-163558
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3317,27 +3229,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     jo kunigaikščio Aleksandro rūpinimasis savo sostinės
     gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
     siljevičiaus užmačių.
-  citata_rodoma: |
-    ), Aleksan­
-    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
-    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
-    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
-    mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­
-    kymu, buvo kuo rūpestingiausiai garantuojama laisva
-    laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
-    niaus miestiečių laivams su prekėmis, o keliantis perkėla
-    visur atleidžiama nuo bet kokių mokesčių41. Toks didžio­
-    jo kunigaikščio Aleksandro rūpinimasis savo sostinės
-    gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
-    siljevičiaus užmačių.
+  citata_rodoma: "), Aleksan­\ndras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo \nmetu vadintą Zabójnica (žudike), panaikindamas visas pri­\nvačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­\nmazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­\nkymu, buvo kuo rūpestingiausiai garantuojama laisva \nlaivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­\nniaus miestiečių laivams su prekėmis, o keliantis perkėla \nvisur atleidžiama nuo bet kokių mokesčių41. Toks didžio­\njo kunigaikščio Aleksandro rūpinimasis savo sostinės \ngyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va- \nsiljevičiaus užmačių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179969
-    - t-179998
+    - t-002
+
 - id: c-163559
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3357,24 +3257,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     negailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir
     civilizaciją“ nuo raudonojo teroro, lietuviai pakviesti imtis ginklo ir padė-
     ti vokiečių kariuomenei.
-  citata_rodoma: |
-    Sukilėliai užimtame Kaune pastatė
-    vokiečius prieš įvykusį faktą – užėmus radiją 1941 m. birželio 23 d. LAF
-    atstovas Leo­nas Prapuolenis pranešė: „Susidariusi laikinoji vėl naujai at-
-    gimstančios Lietuvos Vyriausybė šiuo skelbia atstatanti laisvą ir nepri-
-    klausomą Lietuvos valstybę“, kad „jaunoji Lietuvos valstybė entuzias-
-    tingai pasižada prisidėti prie Europos organizavimo naujais pagrindais“,
-    negailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir
-    civilizaciją“ nuo raudonojo teroro, lietuviai pakviesti imtis ginklo ir padė-
-    ti vokiečių kariuomenei.
+  citata_rodoma: "Sukilėliai užimtame Kaune pastatė \nvokiečius prieš įvykusį faktą – užėmus radiją 1941 m. birželio 23 d. LAF \natstovas Leo­nas Prapuolenis pranešė: „Susidariusi laikinoji vėl naujai at-\ngimstančios Lietuvos Vyriausybė šiuo skelbia atstatanti laisvą ir nepri-\nklausomą Lietuvos valstybę“, kad „jaunoji Lietuvos valstybė entuzias-\ntingai pasižada prisidėti prie Europos organizavimo naujais pagrindais“, \nnegailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir \ncivilizaciją“ nuo raudonojo teroro, lietuviai pakviesti imtis ginklo ir padė-\nti vokiečių kariuomenei."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179941
-    - t-179973
+    - t-057
+    - t-097
+
 - id: c-163560
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3386,17 +3278,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     1905 m.). Už poros dešimtmečių sekė irgi vokiška kun. dr. J. Sta­
     kausko disertacija, kuri buvo 1934 m. Kaune sulietuvinta ir papil­
     dyta.
-  citata_rodoma: |
-    Už poros dešimtmečių sekė irgi vokiška kun. dr. J. Sta­
-    kausko disertacija, kuri buvo 1934 m. Kaune sulietuvinta ir papil­
-    dyta.
+  citata_rodoma: "Už poros dešimtmečių sekė irgi vokiška kun. dr. J. Sta­\nkausko disertacija, kuri buvo 1934 m. Kaune sulietuvinta ir papil­\ndyta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179932
+    - t-109
+
 - id: c-163561
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3416,7 +3306,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179916
+    - t-103
+
 - id: c-163562
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3426,17 +3317,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     mačiusi. Tada Kaune, buvusioje Kęstučio pilies vietoje, buvo pa­
     statyta tvirta mūrinė pilis, Marienwerder, kokių iki tol prie Ne­
     muno nebuvo. Pilies sienos buvo 14 pėdų storumo.
-  citata_rodoma: |
-    Tada Kaune, buvusioje Kęstučio pilies vietoje, buvo pa­
-    statyta tvirta mūrinė pilis, Marienwerder, kokių iki tol prie Ne­
-    muno nebuvo. Pilies sienos buvo 14 pėdų storumo.
+  citata_rodoma: "Tada Kaune, buvusioje Kęstučio pilies vietoje, buvo pa­\nstatyta tvirta mūrinė pilis, Marienwerder, kokių iki tol prie Ne­\nmuno nebuvo. Pilies sienos buvo 14 pėdų storumo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179993
+    - t-115
+
 - id: c-163563
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3447,18 +3336,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Lenkija, jis tuojau sumažino savo draugiškumą ordinui. Atsta-
     tęs Kauno ir kitas ordino pasieny sugriautas pilis, jis pradėjo
     raginti žemaičius keltis pas jį.
-  citata_rodoma: |
-    Sunormavęs santykius su
-    Lenkija, jis tuojau sumažino savo draugiškumą ordinui. Atsta-
-    tęs Kauno ir kitas ordino pasieny sugriautas pilis, jis pradėjo
-    raginti žemaičius keltis pas jį.
+  citata_rodoma: "Sunormavęs santykius su\nLenkija, jis tuojau sumažino savo draugiškumą ordinui. Atsta-\ntęs Kauno ir kitas ordino pasieny sugriautas pilis, jis pradėjo\nraginti žemaičius keltis pas jį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10848
+    - t-093
+
 - id: c-163565
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3470,18 +3356,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     konflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Sa-
     lyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu My-
     kolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys.
-  citata_rodoma: |
-    Pagrindinis konfliktas su Vokiečių ordinu vyko dėl Žemaitijos. Šio
-    konflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Sa-
-    lyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu My-
-    kolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys.
+  citata_rodoma: "Pagrindinis konfliktas su Vokiečių ordinu vyko dėl Žemaitijos. Šio \nkonflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Sa-\nlyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu My-\nkolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179984
+    - t-033
+
 - id: c-163567
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3491,16 +3374,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Bendrai, laikotarpis po Racionžo taikos prekybai buvo gana
     palankus. Kaune Vytautas suteikė Magdeburgo teises (1408
     m.) vokiečių pirkliams. Prekyba pasidarė daug gyvesnė.
-  citata_rodoma: |
-    Kaune Vytautas suteikė Magdeburgo teises (1408
-    m.) vokiečių pirkliams. Prekyba pasidarė daug gyvesnė.
+  citata_rodoma: "Kaune Vytautas suteikė Magdeburgo teises (1408\nm.) vokiečių pirkliams. Prekyba pasidarė daug gyvesnė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179920
+    - t-069
+
 - id: c-163568
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3517,7 +3399,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179951
+    - t-044
+
 - id: c-163569
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3543,7 +3426,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179972
+    - t-075
+
 - id: c-163570
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3559,21 +3443,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos
     ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž.
     pradžios, 1934).
-  citata_rodoma: |
-    Aleknos mirties
-    vakuojančią visuotinės istorijos katedrą Teologijos-Filosofijos fa­
-    kulteto Filosofijos skyriuje, visą laiką dėstė Lietuvos istoriją, jos
-    šaltinius ir jos istorinę geografiją. Jis tęsė tą darbą po pirmojo
-    bolševikmečio pertraukos Filosofijos fakultete (Kaune) ir Ekono­
-    minių mokslų fakultete (Vilniuje) skaitė Lietuvos ūkio istoriją.
-    1933 m.
+  citata_rodoma: "Aleknos mirties\nvakuojančią visuotinės istorijos katedrą Teologijos-Filosofijos fa­\nkulteto Filosofijos skyriuje, visą laiką dėstė Lietuvos istoriją, jos\nšaltinius ir jos istorinę geografiją. Jis tęsė tą darbą po pirmojo\nbolševikmečio pertraukos Filosofijos fakultete (Kaune) ir Ekono­\nminių mokslų fakultete (Vilniuje) skaitė Lietuvos ūkio istoriją.\n1933 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179970
+    - t-108
+
 - id: c-163572
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3592,7 +3470,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179994
+    - t-089
+
 - id: c-163573
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3611,26 +3490,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     neša komtūras iš Lealio, iš Rygos,
     laiške, datuotame 1432 metų rugpjū­
     čio 19 d. Ind.
-  citata_rodoma: |
-    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
-    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
-    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
-    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
-    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
-    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
-    17
-    Apie tai didžiajam magistrui pra­
-    neša komtūras iš Lealio, iš Rygos,
-    laiške, datuotame 1432 metų rugpjū­
-    čio 19 d.
+  citata_rodoma: "Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos\nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti\nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos,\nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179942
-    - t-179981
+    - t-078
+    - t-001
+
 - id: c-163574
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3646,7 +3515,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179964
+    - t-032
+
 - id: c-163575
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3665,7 +3535,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179989
+    - t-084
+
 - id: c-163576
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3680,19 +3551,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     dirbimo dirbtuves^4 ). Čia galėjo būti ir pinigų dirbtuvė, nes de-
 
     (^1) ) Žiūr.
-  citata_rodoma: |
-    Vokiečių pirkliai Vytautui viešpataujant turėjo Kaune savo
-    rankose miesto svarstykles, malūną ir audimo bei vaško ap­
-    dirbimo dirbtuves^4 ). Čia galėjo būti ir pinigų dirbtuvė, nes de-
-
-    (^1) ) Žiūr.
+  citata_rodoma: "Vokiečių pirkliai Vytautui viešpataujant turėjo Kaune savo\nrankose miesto svarstykles, malūną ir audimo bei vaško ap­\ndirbimo dirbtuves^4 ). Čia galėjo būti ir pinigų dirbtuvė, nes de-\n\n(^1) ) Žiūr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179931
+    - t-070
+
 - id: c-163577
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3706,18 +3573,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
     ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
     vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
-  citata_rodoma: |
-    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
-    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
-    ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
-    vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
+  citata_rodoma: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­\ngijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir\nja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios\nvietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179999
+    - t-065
+
 - id: c-163580
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3730,18 +3594,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     15  dieną Kaune ant derybininko E. Galvanausko miegamojo palangės
     sprogo padėta bomba – daugelyje vietų sužeistas E.  Galvanauskas liko
     gyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti.
-  citata_rodoma: |
-    Lapkričio
-    15  dieną Kaune ant derybininko E. Galvanausko miegamojo palangės
-    sprogo padėta bomba – daugelyje vietų sužeistas E.  Galvanauskas liko
-    gyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti.
+  citata_rodoma: "Lapkričio \n15  dieną Kaune ant derybininko E. Galvanausko miegamojo palangės \nsprogo padėta bomba – daugelyje vietų sužeistas E.  Galvanauskas liko \ngyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179928
+    - t-043
+
 - id: c-163581
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3754,18 +3615,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     pristatinėjo savo liudininkus. Nors arbitras viso Žemaitijos klau­
     simo iš esmės nesvarstė, ordinas paklojo dokumentus nuo Mindaugo
     laikų^11.
-  citata_rodoma: |
-    Pasirinkus Makrai Kauną bylos sprendimo vieta, abi pusi ten
-    pristatinėjo savo liudininkus. Nors arbitras viso Žemaitijos klau­
-    simo iš esmės nesvarstė, ordinas paklojo dokumentus nuo Mindaugo
-    laikų^11.
+  citata_rodoma: "Pasirinkus Makrai Kauną bylos sprendimo vieta, abi pusi ten\npristatinėjo savo liudininkus. Nors arbitras viso Žemaitijos klau­\nsimo iš esmės nesvarstė, ordinas paklojo dokumentus nuo Mindaugo\nlaikų^11."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179995
+    - t-119
+
 - id: c-163583
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3783,7 +3641,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179925
+    - t-114
+
 - id: c-163584
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3795,19 +3654,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     pastatyta tvirčiausia priešo žemėje mūrinė pilis — Marienwerder.
     Kaunui kritus, tuojau sekė kiti kryžiuočių pasisekimai prie
     Nemuno.
-  citata_rodoma: |
-    Tik po dviejų dešimtmečių, jau
-    Vytautui esant ordino globoje, 1384 vasarą Kauno vietoje buvo
-    pastatyta tvirčiausia priešo žemėje mūrinė pilis — Marienwerder.
-    Kaunui kritus, tuojau sekė kiti kryžiuočių pasisekimai prie
-    Nemuno.
+  citata_rodoma: "Tik po dviejų dešimtmečių, jau\nVytautui esant ordino globoje, 1384 vasarą Kauno vietoje buvo\npastatyta tvirčiausia priešo žemėje mūrinė pilis — Marienwerder.\nKaunui kritus, tuojau sekė kiti kryžiuočių pasisekimai prie\nNemuno."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179930
+    - t-112
+
 - id: c-163585
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3821,19 +3676,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     iki tol nespausdintų XVI amž. dvarų, folvarkų, kaimų, miestelių
     ir bažnytinių inventorių, kurie yra visokeriopai svarbūs Lietuvos
     kultūros istorijai.
-  citata_rodoma: |
-    ^85.
-    Kruopščiai atrinkęs iš Centrinio Valstybės Archyvo (Kaune)
-    ir eilės kitų Lietuvos archyvų reikalingus aktus, Jablonskis išleido
-    «XVI amžiaus inventorius» (1934). Ten jis paskelbė beveik pusę
-    iki tol nespausdintų XVI amž.
+  citata_rodoma: "^85.\nKruopščiai atrinkęs iš Centrinio Valstybės Archyvo (Kaune)\nir eilės kitų Lietuvos archyvų reikalingus aktus, Jablonskis išleido\n«XVI amžiaus inventorius» (1934). Ten jis paskelbė beveik pusę\niki tol nespausdintų XVI amž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179959
+    - t-107
+
 - id: c-163587
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3845,18 +3696,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olim-
     piadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai.
     Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
-  citata_rodoma: |
-    Sportas tapo
-    integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olim-
-    piadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai.
-    Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
+  citata_rodoma: "Sportas tapo \nintegralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olim-\npiadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai.\nLietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179961
+    - t-054
+
 - id: c-163588
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3870,20 +3718,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
     tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
     buvę Voluinė ir Haličas, Kijevas, Pskovas.
-  citata_rodoma: |
-    Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
-    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
-    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
-    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
-    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
-    buvę Voluinė ir Haličas, Kijevas, Pskovas.
+  citata_rodoma: "Valdant Gediminui ar jo sūnui Algirdui buvo sukurta \nvisa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, \nKrėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo \npolitinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-\ntos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje \nbuvę Voluinė ir Haličas, Kijevas, Pskovas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179923
+    - t-031
+
 - id: c-163589
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3910,32 +3753,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-
     tina Senda Berenson-Abbot (Senda Berenson-Abot, g. Vilniuje 1868 m.),
     olimpinis čempionas Berlyne su JAV rinktine ir 1939 m.
-  citata_rodoma: |
-    gimęs ir
-    mokęsis smuiko virtuozas Jascha Heifetz (Jaša Heifecas), parodas atidaro
-    ne tik dailininkai Stasys Kuzma ar Petras Repšys, bet ir Vakaruose garsūs
-    Chaim Soutin (Chaimas Sutinas), Jacques Lipchitz (Žakas Lipšicas) ar
-
-    265
-    PA B A I G A  A R B A  I Š B A R S T Y T I  L I E T U V O S  V E I D A I
-    „Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulp-
-    torius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924)
-    ar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis. O beveik
-    kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar
-    Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas,
-    Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry
-    (Romanas Gari) ar Kaune gimęs ir gimnaziją baigęs filosofas Emmanuel
-    Levinas (Emanuelis Levinas).
-    Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA
-    žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-
-    tina Senda Berenson-Abbot (Senda Berenson-Abot, g.
+  citata_rodoma: "gimęs ir \nmokęsis smuiko virtuozas Jascha Heifetz (Jaša Heifecas), parodas atidaro \nne tik dailininkai Stasys Kuzma ar Petras Repšys, bet ir Vakaruose garsūs \nChaim Soutin (Chaimas Sutinas), Jacques Lipchitz (Žakas Lipšicas) ar\n\n265\nPA B A I G A  A R B A  I Š B A R S T Y T I  L I E T U V O S  V E I D A I\n„Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulp-\ntorius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924) \nar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis. O beveik \nkiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar \nVladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas, \nVilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry \n(Romanas Gari) ar Kaune gimęs ir gimnaziją baigęs filosofas Emmanuel \nLevinas (Emanuelis Levinas).\nToliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA \nžvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-\ntina Senda Berenson-Abbot (Senda Berenson-Abot, g."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179947
+    - t-090
+
 - id: c-163591
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3950,16 +3776,13 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     tebuvo kova dėl Nemuno vagos, kaip patogiausio strateginio
     kelio: gilyn į kraštą jie nė kiek nepasistūmėjo. Pagaliau ir
     Kauno pasiekimas buvo tik laikinis kryžiuočių laimėjimas.
-  citata_rodoma: |
-    Pagaliau ir
-    Kauno pasiekimas buvo tik laikinis kryžiuočių laimėjimas.
+  citata_rodoma: "Pagaliau ir\nKauno pasiekimas buvo tik laikinis kryžiuočių laimėjimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-10847
 - id: c-163593
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3975,19 +3798,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     vę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi
     karių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-
     kilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji.
-  citata_rodoma: |
-    1934 m. lapkričio 23 d.
-    Kaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos lais-
-    vę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi
-    karių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-
-    kilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji.
+  citata_rodoma: "1934 m. lapkričio 23 d. \nKaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos lais-\nvę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi \nkarių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-\nkilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179962
+    - t-050
+
 - id: c-163596
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4001,19 +3820,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
     (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
     stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
-  citata_rodoma: |
-    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
-    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
-    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
-    (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
-    stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
+  citata_rodoma: "Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, \nTrakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-\nse LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje \n(Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net \nstačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179982
+    - t-034
+
 - id: c-163598
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4031,7 +3846,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179971
+    - t-051
+
 - id: c-163599
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4050,19 +3866,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
     suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
     grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
-  citata_rodoma: |
-    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
-    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
-    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
-    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
-    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
+  citata_rodoma: "Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė \n46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-\nklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., \nsuėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA \ngrupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179934
+    - t-083
+
 - id: c-163600
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4078,18 +3890,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     dažnai kaitaliojamos, 1916 m. birželį Lietuvos apskritis (su centru Kau-
     ne) suvienyta su Vilniaus apskritimi, o 1918 m. įsteigta Lietuvos karinė
     valdyba (Militaerverwaltung Litauen).
-  citata_rodoma: |
-    Padalijus kraštą į apskritis, kurių ribos buvo
-    dažnai kaitaliojamos, 1916 m. birželį Lietuvos apskritis (su centru Kau-
-    ne) suvienyta su Vilniaus apskritimi, o 1918 m. įsteigta Lietuvos karinė
-    valdyba (Militaerverwaltung Litauen).
+  citata_rodoma: "Padalijus kraštą į apskritis, kurių ribos buvo \ndažnai kaitaliojamos, 1916 m. birželį Lietuvos apskritis (su centru Kau-\nne) suvienyta su Vilniaus apskritimi, o 1918 m. įsteigta Lietuvos karinė \nvaldyba (Militaerverwaltung Litauen)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179933
+    - t-039
+
 - id: c-163603
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4101,18 +3910,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     guliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai
     vadovavo generolas Antanas Gelgaudas. Ji lengvai užėmė Kauną, bet Vil-
     niaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje.
-  citata_rodoma: |
-    1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta re-
-    guliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai
-    vadovavo generolas Antanas Gelgaudas. Ji lengvai užėmė Kauną, bet Vil-
-    niaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje.
+  citata_rodoma: "1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta re-\nguliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai \nvadovavo generolas Antanas Gelgaudas. Ji lengvai užėmė Kauną, bet Vil-\nniaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179977
+    - t-036
+
 - id: c-163604
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4140,7 +3946,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179927
+    - t-081
+
 - id: c-163605
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4154,18 +3961,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     kurių 60 proc. sudarė lietuviai, jau buvo naujoviškas, tvarkingas miestas.
     Jame pastatyta mokyklų, bibliotekų, naujų muziejų ir universiteto fakul-
     tetų korpusų.
-  citata_rodoma: |
-    Augo ir modernėjo miestai, Kaunas, 1939 m. turėjęs 154 000 gyventojų, iš
-    kurių 60 proc. sudarė lietuviai, jau buvo naujoviškas, tvarkingas miestas.
-    Jame pastatyta mokyklų, bibliotekų, naujų muziejų ir universiteto fakul-
-    tetų korpusų.
+  citata_rodoma: "Augo ir modernėjo miestai, Kaunas, 1939 m. turėjęs 154 000 gyventojų, iš \nkurių 60 proc. sudarė lietuviai, jau buvo naujoviškas, tvarkingas miestas. \nJame pastatyta mokyklų, bibliotekų, naujų muziejų ir universiteto fakul-\ntetų korpusų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179963
+    - t-047
+
 - id: c-163608
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4178,18 +3982,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
     tiesiamos pirmosios telefono linijos, XX a. pradžioje pasirodo ir pirmieji
     automobiliai.
-  citata_rodoma: |
-    Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
-    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
-    (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
-    tiesiamos pirmosios telefono linijos, XX a.
+  citata_rodoma: "Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis \nPeterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių \n(Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-\ntiesiamos pirmosios telefono linijos, XX a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179975
+    - t-037
+
 - id: c-163609
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4207,7 +4008,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179960
+    - t-085
+
 - id: c-163610
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4219,19 +4021,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų
     titulai. Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
     1940 m.
-  citata_rodoma: |
-    O turima
-    galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir
-    krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų
-    titulai. Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
-    1940 m.
+  citata_rodoma: "O turima \ngalvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir \nkrepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų \ntitulai. Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, \n1940 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179938
+    - t-030
+
 - id: c-163611
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4250,7 +4048,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179968
+    - t-117
+
 - id: c-163612
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4265,21 +4064,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     politiniams suvaržymams.
     Nepriklausomybės metais aiškiai nubrėžti Lietuvos valstybės kontūrai
     ir nusakytas tautinių vertybių turinys.
-  citata_rodoma: |
-    Pasaulio
-    lietuvių kongresas Kaune 1935 m., į kurį atvyko 3 000 delegatų ir svečių
-    iš 19 valstybių, parodė, kad dauguma užsienio lietuvių artimi Lietuvai,
-    rūpinasi jos ateitimi, nors ir nepritaria autoritarinio režimo įvestiems
-    politiniams suvaržymams.
-    Nepriklausomybės metais aiškiai nubrėžti Lietuvos valstybės kontūrai
-    ir nusakytas tautinių vertybių turinys.
+  citata_rodoma: "Pasaulio \nlietuvių kongresas Kaune 1935 m., į kurį atvyko 3 000 delegatų ir svečių \niš 19 valstybių, parodė, kad dauguma užsienio lietuvių artimi Lietuvai, \nrūpinasi jos ateitimi, nors ir nepritaria autoritarinio režimo įvestiems \npolitiniams suvaržymams.\nNepriklausomybės metais aiškiai nubrėžti Lietuvos valstybės kontūrai \nir nusakytas tautinių vertybių turinys."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179918
+    - t-055
+
 - id: c-163613
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4292,20 +4085,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     ir Neries santakos pilį — Kauną. Neišaiškinamu būdu Kęstutis su
     (^10) **SRP, II, 72, 505-507 p.**
     (^11) **A. Kučinskas :** **_Kęstutis,_** **1938, 59-61 p.
-  citata_rodoma: |
-    Dešimtmečiui praslinkus, lietuviai patyrė smūgį vėl pa­
-    čioje Lietuvoje. Talkininkaujami svečių iš Anglijos, Vokietijos ir
-    Italijos, ir padedami Livonijos magistro, Prūsų kryžiuočiai 1362
-    pavasarį atliko drąsų žygį, išgriaudami svarbią lietuvių Nemuno
-    ir Neries santakos pilį — Kauną. Neišaiškinamu būdu Kęstutis su
-    (^10) **SRP, II, 72, 505-507 p.
+  citata_rodoma: "Dešimtmečiui praslinkus, lietuviai patyrė smūgį vėl pa­\nčioje Lietuvoje. Talkininkaujami svečių iš Anglijos, Vokietijos ir\nItalijos, ir padedami Livonijos magistro, Prūsų kryžiuočiai 1362\npavasarį atliko drąsų žygį, išgriaudami svarbią lietuvių Nemuno\nir Neries santakos pilį — Kauną. Neišaiškinamu būdu Kęstutis su\n(^10) **SRP, II, 72, 505-507 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179985
+    - t-110
+
 - id: c-163614
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4317,18 +4105,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
     pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
     lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
-  citata_rodoma: |
-    1972 m. gegužės 14 d. devyniolikme-
-    tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
-    pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
-    lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
+  citata_rodoma: "1972 m. gegužės 14 d. devyniolikme-\ntis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, \npats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-\nlė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179943
+    - t-087
+
 - id: c-163615
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4344,20 +4129,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     santvarką nukreiptus atsišaukimus, keldavo tautines vėliavas, minėdavo
     tautines šventes, viešose vietose piešdavo tautinio valstybingumo simbo-
     lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės.
-  citata_rodoma: |
-    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
-    233
-    Užsienyje gyvenantys lietuviai rengė minėjimus, leido knygas, statė pa-
-    minklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose.
-    R. Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino ne-
-    formalių jaunimo grupių judėjimą.
+  citata_rodoma: "5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S\n233\nUžsienyje gyvenantys lietuviai rengė minėjimus, leido knygas, statė pa-\nminklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose. \nR. Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino ne-\nformalių jaunimo grupių judėjimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179990
+    - t-088
+
 - id: c-163616
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4374,7 +4154,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179978
+    - t-111
+
 - id: c-163618
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4394,7 +4175,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179921
+    - t-099
+
 - id: c-163620
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -4414,22 +4196,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     dalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­
     vos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
     lyvauja kartu žygyje prieš lenkus.
-  citata_rodoma: |
-    Kiek tos kovos Kęstučio valdymo laiku padidėjo,
-    rodo ir ta aplinkybė, kad vokiečiai tiek jau buvo įsidrąsinę, kad
-    1362 m. išgriovė Kauno pilį ir pradėjo brautis vis gilyn į Lietu­
-    vą, pasiekdami net Vilniaus ir Neries sritis, kurių dar niekad
-    priešai nebuvo pasiekę.
-    Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­
-    re Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai,
-    ir užtat nenuostabu, kad jis labai anksti (1368 m.
+  citata_rodoma: "Kiek tos kovos Kęstučio valdymo laiku padidėjo,\nrodo ir ta aplinkybė, kad vokiečiai tiek jau buvo įsidrąsinę, kad\n1362 m. išgriovė Kauno pilį ir pradėjo brautis vis gilyn į Lietu­\nvą, pasiekdami net Vilniaus ir Neries sritis, kurių dar niekad\npriešai nebuvo pasiekę.\nTokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­\nre Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai,\nir užtat nenuostabu, kad jis labai anksti (1368 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179919
+    - t-064
+
 - id: c-163621
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4444,7 +4219,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179992
+    - t-035
+
 - id: c-163622
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4456,18 +4232,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Ženevoje laikė pergale, o grįžęs į Kauną Karininkų ramovėje ir per radiją
     A. Voldemaras pareiškė: „<…> mes išėjome į pasaulinę politiką.“ Tačiau
     iš tikrųjų Vilnius dar labiau nutolo nuo Lietuvos.
-  citata_rodoma: |
-    Abi šalys tokius rezultatus
-    Ženevoje laikė pergale, o grįžęs į Kauną Karininkų ramovėje ir per radiją
-    A. Voldemaras pareiškė: „<…> mes išėjome į pasaulinę politiką.“ Tačiau
-    iš tikrųjų Vilnius dar labiau nutolo nuo Lietuvos.
+  citata_rodoma: "Abi šalys tokius rezultatus \nŽenevoje laikė pergale, o grįžęs į Kauną Karininkų ramovėje ir per radiją \nA. Voldemaras pareiškė: „<…> mes išėjome į pasaulinę politiką.“ Tačiau \niš tikrųjų Vilnius dar labiau nutolo nuo Lietuvos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179948
+    - t-046
+
 - id: c-163623
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4494,8 +4267,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179958
-    - t-179979
+    - t-074
+    - t-091
+
 - id: c-163628
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4507,19 +4281,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     ant Neries kranto Eigulių pilį, traukė prie Kęstučio Trakų. Brie­
     žuolės kaime liepos 6 d. Jogaila su ordinu pasirašė naują sutartį,
     pasižadėdami iki rugsėjo 8 d. vienas kito nepuldinėti.
-  citata_rodoma: |
-    Galutinai subrendus vidaus karui, tik ginklas begalėjo surasti
-    išeitį iš susidariusios tragiškos būklės. Tuo pat laiku (1382 birželio
-    gale) kryžiuočiai įsiveržę Lietuvon ir sunaikinę Kauno apylinkėj
-    ant Neries kranto Eigulių pilį, traukė prie Kęstučio Trakų. Brie­
-    žuolės kaime liepos 6 d.
+  citata_rodoma: "Galutinai subrendus vidaus karui, tik ginklas begalėjo surasti\nišeitį iš susidariusios tragiškos būklės. Tuo pat laiku (1382 birželio\ngale) kryžiuočiai įsiveržę Lietuvon ir sunaikinę Kauno apylinkėj\nant Neries kranto Eigulių pilį, traukė prie Kęstučio Trakų. Brie­\nžuolės kaime liepos 6 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179988
+    - t-113
+
 - id: c-163629
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4538,7 +4308,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179980
+    - t-086
+
 - id: c-163630
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4555,22 +4326,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     kalbų ir istorijos, karo mokslus.
     Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su
     pasauline literatūra, menu.
-  citata_rodoma: |
-    Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio
-    akademija Dotnuvoje, Veterinarijos akademija Kaune, rengusios speci-
-    alistus žemės ūkiui, Pedagoginis institutas rengė mokytojus, Dailės mo-
-    kykla ir konservatorija ugdė menininkus, gavę valstybės stipendijas apie
-    1 500 jaunų lietuvių baigė užsienyje inžinerijos, jūreivystės, medicinos,
-    kalbų ir istorijos, karo mokslus.
-    Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su
-    pasauline literatūra, menu.
+  citata_rodoma: "Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio \nakademija Dotnuvoje, Veterinarijos akademija Kaune, rengusios speci-\nalistus žemės ūkiui, Pedagoginis institutas rengė mokytojus, Dailės mo-\nkykla ir konservatorija ugdė menininkus, gavę valstybės stipendijas apie \n1 500 jaunų lietuvių baigė užsienyje inžinerijos, jūreivystės, medicinos, \nkalbų ir istorijos, karo mokslus. \nJaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su \npasauline literatūra, menu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179946
+    - t-048
+
 - id: c-163631
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4584,17 +4348,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirma-
     sis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos na-
     rių teismas už antivalstybinę veiklą.
-  citata_rodoma: |
-    Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirma-
-    sis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos na-
-    rių teismas už antivalstybinę veiklą.
+  citata_rodoma: "Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirma-\nsis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos na-\nrių teismas už antivalstybinę veiklą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179996
+    - t-056
+
 - id: c-163632
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4607,20 +4369,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     reikalams.
     Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lie-
     tuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m.
-  citata_rodoma: |
-    Kūrybingai panaudodami vokiečių motorus ir prancūzų
-    fiuzelažus, lietuviai Kaune konstravo ir statė savo karo ir sporto lėktu-
-    vus, tarp jų ir lengvuosius bombonešius, gamino sklandytuvus sporto
-    reikalams.
-    Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lie-
-    tuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m.
+  citata_rodoma: "Kūrybingai panaudodami vokiečių motorus ir prancūzų \nfiuzelažus, lietuviai Kaune konstravo ir statė savo karo ir sporto lėktu-\nvus, tarp jų ir lengvuosius bombonešius, gamino sklandytuvus sporto \nreikalams.\nSportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lie-\ntuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179929
+    - t-052
+
 - id: c-166991
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4633,10 +4390,12 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Kaune susirinko į pirmąjį Seimo posėdį.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-044
+
 - id: c-167241
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4662,7 +4421,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179966
+    - t-073
+
 - id: c-168335
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -4681,7 +4441,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184974
+    - t-123
+
 - id: c-168337
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -4708,28 +4469,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     tas, tačiau puolėjai prie pačių sienų sukrovė krūvą
     sausų malkų ir padegė taip, kad vėjas neštų liepsną į
     pilį, daug gynėjų žuvo ugnyje.
-  citata_rodoma: |
-    Kita vertus, priešas irgi iš pas­
-    kutiniųjų stengėsi, kad neseniai nusiaubtose žemėse
-    nebūtų iš naujo atstatomos pilys, trukdančios jam leis­
-    tis į žygį. Iš pradžių Ragainės komtūras išsklaidė dar­
-    bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­
-    tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė
-    pradėtą pilį. Po to Prūsijos magistras užėmė ir sude­
-    gino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;
-    taip pat sudegino ir užkariavo Veliuoną, neseniai pa­
-    keltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­
-    tas, tačiau puolėjai prie pačių sienų sukrovė krūvą
-    sausų malkų ir padegė taip, kad vėjas neštų liepsną į
-    pilį, daug gynėjų žuvo ugnyje.
+  citata_rodoma: "Kita vertus, priešas irgi iš pas­\nkutiniųjų stengėsi, kad neseniai nusiaubtose žemėse\nnebūtų iš naujo atstatomos pilys, trukdančios jam leis­\ntis į žygį. Iš pradžių Ragainės komtūras išsklaidė dar­\nbininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­\ntosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė\npradėtą pilį. Po to Prūsijos magistras užėmė ir sude­\ngino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;\ntaip pat sudegino ir užkariavo Veliuoną, neseniai pa­\nkeltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­\ntas, tačiau puolėjai prie pačių sienų sukrovė krūvą\nsausų malkų ir padegė taip, kad vėjas neštų liepsną į\npilį, daug gynėjų žuvo ugnyje."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184976
-    - t-196690
+    - t-125
+    - t-135
+
 - id: c-168338
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -4761,30 +4510,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     vargo apsupamas, todėl Vytautas, tikėdamasis jį pa­
     imti, priėjo tylomis miškais ir netikėtai pasirodė su ka­
     riuomene prie pylimo.
-  citata_rodoma: |
-    Atėjo žiema, vis dėlto lietuviams ji nebuvo nė
-    kiek ne ramesnė kaip vasara, nes Vytautas nevengė iš­
-    puolių ir iš žiemos stovyklos.
-    Kadangi Kaunas Neries ir
-    N e s ė k m in g a i m ė g in a
-    Nemuno
-    santakoje
-    vasarą
-    p u lti K au n ą
-    sunkiau prieinamas, tuo tarpu
-    žiemą, užšalus vandenims, be
-    vargo apsupamas, todėl Vytautas, tikėdamasis jį pa­
-    imti, priėjo tylomis miškais ir netikėtai pasirodė su ka­
-    riuomene prie pylimo. Pilį ir miestą, smarkiai įtvirtin­
-    tus, gynė stambios lietuvių bei lenkų samdytinių įgulos.
+  citata_rodoma: "Atėjo žiema, vis dėlto lietuviams ji nebuvo nė\nkiek ne ramesnė kaip vasara, nes Vytautas nevengė iš­\npuolių ir iš žiemos stovyklos.\nKadangi Kaunas Neries ir\nN e s ė k m in g a i m ė g in a\nNemuno\nsantakoje\nvasarą\np u lti K au n ą\nsunkiau prieinamas, tuo tarpu\nžiemą, užšalus vandenims, be\nvargo apsupamas, todėl Vytautas, tikėdamasis jį pa­\nimti, priėjo tylomis miškais ir netikėtai pasirodė su ka­\nriuomene prie pylimo. Pilį ir miestą, smarkiai įtvirtin­\ntus, gynė stambios lietuvių bei lenkų samdytinių įgulos."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184977
-    - t-184978
+    - t-126
+    - t-127
+
 - id: c-168340
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -4807,7 +4542,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184979
+    - t-128
+
 - id: c-168341
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -4823,21 +4559,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     kovą, be abejonės, Jogaila ir Vytautas, kurie visai ne­
     seniai, bijodami karo, atidavė Žemaitiją, greitosiomis
     užleisią ir visą Lietuvą.
-  citata_rodoma: |
-    Vis dėlto radosi ir tokių, kurie, norėdami nu­
-    malšinti šį svetimo kraujo troškulį, įspėjo Jogailą, kad
-    pačioje pradžioje užgesintų įsiliepsnojančią ir bemaž
-    jau įsiplieskiančią karo ugnį. Susitaręs su Vytautu, Jo­
-    gaila, dėdamasis turįs visai kitų ketinimų, atvyko į
-    Kauną. Nelyginant į vaišes čia pasikvietė kryžiuočių
-    vadovus.
+  citata_rodoma: "Vis dėlto radosi ir tokių, kurie, norėdami nu­\nmalšinti šį svetimo kraujo troškulį, įspėjo Jogailą, kad\npačioje pradžioje užgesintų įsiliepsnojančią ir bemaž\njau įsiplieskiančią karo ugnį. Susitaręs su Vytautu, Jo­\ngaila, dėdamasis turįs visai kitų ketinimų, atvyko į\nKauną. Nelyginant į vaišes čia pasikvietė kryžiuočių\nvadovus."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184980
+    - t-129
+
 - id: c-171596
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -4852,26 +4582,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     minima Krūminė (lietuviškoji Demetra) ir paties T. Narbuto
     surasta jų duktė Nijolė (Persefonė). Surandama ir moneta,
     iliustruojanti šį „pasakojimą“.
-  citata_rodoma: |
-    Akstiną domėtis „meilės ir piršlybų“ deive Aleksotą Mil­
-    da davė D. Sybinskio aprašytoji antikinė „stebėtino gražumo
-    nimfa Alexothe“. Kadangi vienas Kauno priemiestis vadinosi
-    16
-    Žr.: Lietuvių kalbos žodynas / Atsak. redaktorius J. Kruopas. -
-    V., 1968.-T. I.-P. 1118.
-    31
-
-    ## Puslapis 31
-
-    Aleksotu, tai dainas, kuriose apdainuojamas lietuviškosios
-    Aleksotos grožis, T. Narbutas ir išgirsta Kauno apylinkėse.
+  citata_rodoma: "Akstiną domėtis „meilės ir piršlybų“ deive Aleksotą Mil­\nda davė D. Sybinskio aprašytoji antikinė „stebėtino gražumo\nnimfa Alexothe“. Kadangi vienas Kauno priemiestis vadinosi\n16\nŽr.: Lietuvių kalbos žodynas / Atsak. redaktorius J. Kruopas. -\nV., 1968.-T. I.-P. 1118.\n31\n\n## Puslapis 31\n\nAleksotu, tai dainas, kuriose apdainuojamas lietuviškosios\nAleksotos grožis, T. Narbutas ir išgirsta Kauno apylinkėse."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188707
+    - t-003
+    - t-004
+
 - id: c-171597
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -4892,8 +4612,10 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188708
-    - t-197464
+    - t-005
+    - t-096
+    - t-137
+
 - id: c-171598
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -4909,19 +4631,13 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     pasirodė esąs vidury upės; jį lengvai supo tekantis vanduo, pa­
     dvigubindamas žiedo grožį nuostabių spalvų švytėjimu, lyg tai
     būtų buvę brangakmeniai.
-  citata_rodoma: |
-    Remdamasis šio rankraščio aprašymu, dai­
-    lininkas Pjetras Rosis nupiešė tą gotiško stiliaus šventyklą.
-    Kaune buvo rastas tos deivės stabas. Šio atradimo smulkme­
-    nas man papasakojo gerbiamas profesorius ponas Laurinavi­
-    čius.
+  citata_rodoma: "Remdamasis šio rankraščio aprašymu, dai­\nlininkas Pjetras Rosis nupiešė tą gotiško stiliaus šventyklą.\nKaune buvo rastas tos deivės stabas. Šio atradimo smulkme­\nnas man papasakojo gerbiamas profesorius ponas Laurinavi­\nčius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188709
 - id: c-171599
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -4933,19 +4649,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
     šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
     ris dėl to iki šiol neprarado gydomojo poveikio.
-  citata_rodoma: |
-    Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
-    tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
-    žiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise
-    vadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­
-    vieną šventę, ypač per šv.
+  citata_rodoma: "Man pasisekė toks tyrimas. Kairiajame Nemuno krante,\ntarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­\nžiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise\nvadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­\nvieną šventę, ypač per šv."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188710
+    - t-009
+
 - id: c-171600
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -4966,7 +4678,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188711
+    - t-092
+
 - id: c-171601
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -4986,7 +4699,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188712
+    - t-010
+    - t-015
+
 - id: c-171602
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5004,29 +4719,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje
     patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal­
     kas laikoma Dievo įžeidimu3.
-  citata_rodoma: |
-    Taip pat pasako­
-    ja, kad Aleksoto priemiestyje, ant vieno kalno, stovėjusi šven­
-    tykla arba aukuras, skirtas meilės dievybėms.
-    159
-
-    ## Puslapis 159
-
-    Iš šių pastebėjimų reikia daryti išvadą, kad pats Kauno
-    miestas pavadinimą gavo veikiau nuo dievaičio Kaunio, o ne
-    nuo kunigaikščio Kūno, Palemono sūnaus, kuris buvęs miesto
-    įkūrėjas. Neneigdami šios istoriko žinios, privalome pažymė­
-    ti, kad tikėjimas čia minimą dievaitį buvo senesnis už kuni­
-    gaikščio laikus; vietovės didžiųjų upių santakose turėjo būti
-    daug anksčiau apgyventos, jose visur buvozdievų prieglobs­
-    čiai.
+  citata_rodoma: "Taip pat pasako­\nja, kad Aleksoto priemiestyje, ant vieno kalno, stovėjusi šven­\ntykla arba aukuras, skirtas meilės dievybėms.\n159\n\n## Puslapis 159\n\nIš šių pastebėjimų reikia daryti išvadą, kad pats Kauno\nmiestas pavadinimą gavo veikiau nuo dievaičio Kaunio, o ne\nnuo kunigaikščio Kūno, Palemono sūnaus, kuris buvęs miesto\nįkūrėjas. Neneigdami šios istoriko žinios, privalome pažymė­\nti, kad tikėjimas čia minimą dievaitį buvo senesnis už kuni­\ngaikščio laikus; vietovės didžiųjų upių santakose turėjo būti\ndaug anksčiau apgyventos, jose visur buvozdievų prieglobs­\nčiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188713
+    - t-012
+
 - id: c-171603
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5042,22 +4743,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     „Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų
     slenksčio, nedaryk jam skriaudos, nes virš tavęs kybos amži­
     nas Dievo pyktis.
-  citata_rodoma: |
-    Neneigdami šios istoriko žinios, privalome pažymė­
-    ti, kad tikėjimas čia minimą dievaitį buvo senesnis už kuni­
-    gaikščio laikus; vietovės didžiųjų upių santakose turėjo būti
-    daug anksčiau apgyventos, jose visur buvozdievų prieglobs­
-    čiai. Taip pat Kaunio vardas labiau už Kūno panašesnis į pa­
-    vadinimą miesto, kuris lietuviškai vadinasi Kaunu (Kaunos).
-    Senovės romėnų vienas iš Kupidono pavadinimų taip pat
-    buvo Caunius.
+  citata_rodoma: "Neneigdami šios istoriko žinios, privalome pažymė­\nti, kad tikėjimas čia minimą dievaitį buvo senesnis už kuni­\ngaikščio laikus; vietovės didžiųjų upių santakose turėjo būti\ndaug anksčiau apgyventos, jose visur buvozdievų prieglobs­\nčiai. Taip pat Kaunio vardas labiau už Kūno panašesnis į pa­\nvadinimą miesto, kuris lietuviškai vadinasi Kaunu (Kaunos).\nSenovės romėnų vienas iš Kupidono pavadinimų taip pat\nbuvo Caunius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188714
+    - t-013
+
 - id: c-171604
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5071,20 +4765,13 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     vo tik Jupiteris, turėjęs antrąją ypatybę*.
     Žinome, kad XV amžiuje kursavo lenkiški grašiai, vadinti
     piorunkomis (Piorunki).
-  citata_rodoma: |
-    Tai turėjo būti vienas iš penatų; šios rūšies dievai vi­
-    suomet būdavo vaizduojami sėdintys rytietiškai, nes jie buvo kilę
-    iš Rytų. Tokia buvo ir pono Kosakovskio nuomonė: tai buvęs
-    Kauno miesto dievas-globėjas, apie ką byloja jo karūna. Trys
-    žuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­
-    kančias upes: Nerį, Nemuną ir Nevėžį.
+  citata_rodoma: "Tai turėjo būti vienas iš penatų; šios rūšies dievai vi­\nsuomet būdavo vaizduojami sėdintys rytietiškai, nes jie buvo kilę\niš Rytų. Tokia buvo ir pono Kosakovskio nuomonė: tai buvęs\nKauno miesto dievas-globėjas, apie ką byloja jo karūna. Trys\nžuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­\nkančias upes: Nerį, Nemuną ir Nevėžį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188715
 - id: c-171605
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5098,19 +4785,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Be jokios abejonės moneta priklauso tam kraštui ir tai tau ­
     tai, kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nu­
     kalta tokiu pat stiliumi kaip gerais Romos cezarių laikais.
-  citata_rodoma: |
-    Si moneta yra senesnė už mūsų turimą.
-    Senovinė lietuviška moneta, rasta prie Kauno (buvo aptikta
-    ir daugiau, bet jos visos buvo vienodos ir daugiau ar mažiau
-    nukentėjusios). Vienoje pusėje -  Gediminaičių herbas Stulpai ir
-    kažkokia neaiški raidė.
+  citata_rodoma: "Si moneta yra senesnė už mūsų turimą.\nSenovinė lietuviška moneta, rasta prie Kauno (buvo aptikta\nir daugiau, bet jos visos buvo vienodos ir daugiau ar mažiau\nnukentėjusios). Vienoje pusėje -  Gediminaičių herbas Stulpai ir\nkažkokia neaiški raidė."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188716
+    - t-014
+
 - id: c-171606
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5124,18 +4807,13 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     nokėjų šventyklos vietą nukeliame į Ukrainą, prie Psiolo upės, į
     dešinįjį jos krantą, prie Romnos upės žiočių, kur ir dabar yra
     miestelis, vadinamas Romnais (Romne).
-  citata_rodoma: |
-    Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­
-    takos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­
-    se ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo
-    šventi miškeliai, daugiau ar mažiau garsūs.
+  citata_rodoma: "Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­\ntakos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­\nse ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo\nšventi miškeliai, daugiau ar mažiau garsūs."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188717
 - id: c-171607
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5156,23 +4834,13 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     kimų, kurie galėjo paskatinti vyriausiuosius žynius apleisti vieną
     vietą ir perkelti savo buveinę į kitą ir kartu įkurti naują šven­
     tyklą.
-  citata_rodoma: |
-    268
-
-    ## Puslapis 268
-
-    puikiais statiniais9 10 1, kurių buvo Prūsijoje, kol kryžiuočiai su­
-    griovė.
-    Kaune tarp kitų pojėzuitinių pastatų yra ir namo, sumūryto
-    senoviniu būdu ir iš senovinių medžiagų, griuvėsiai. Pasakoja­
-    ma, jog tai būta lietuvių dievui Perkūnui skirtos šventovės.
+  citata_rodoma: "268\n\n## Puslapis 268\n\npuikiais statiniais9 10 1, kurių buvo Prūsijoje, kol kryžiuočiai su­\ngriovė.\nKaune tarp kitų pojėzuitinių pastatų yra ir namo, sumūryto\nsenoviniu būdu ir iš senovinių medžiagų, griuvėsiai. Pasakoja­\nma, jog tai būta lietuvių dievui Perkūnui skirtos šventovės."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188718
 - id: c-173537
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5193,7 +4861,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190654
+    - t-016
+    - t-100
+
 - id: c-175440
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5211,7 +4881,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192670
+    - t-131
+
 - id: c-175933
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5231,7 +4902,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193189
+    - t-132
+
 - id: c-176309
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5248,7 +4920,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193638
+    - t-133
+
 - id: c-177370
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5264,7 +4937,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194986
+    - t-134
+
 - id: c-178844
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5293,28 +4967,185 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196691
-- id: c-168339
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+    - t-136
+
+- id: c-184957
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
   citata_originali: |
-    Pilį ir miestą, smarkiai įtvirtin­
-    tus, gynė stambios lietuvių bei lenkų samdytinių įgulos.
-    324
-
-    ## Puslapis 323
-
-    Todėl supti Kauną Vytautui buvo sunkiau nei tikėjosi.
-    Kiek kartų kareiviai puolė pylimą, tiek kartų buvo at­
-    stumti, ypač nepaprastą narsumą rodė lenkų pėstinin­
-    kai.
+    Tačiau dauguma kalbininkų pagrįstai linksta prie asmenvardinės Kauno
+    vardo kilmės aiškinimo. Taigi Kauno miesto vardas kilęs iš seno lietuviško vardo
+    Kaunas, ilgainiui virtusio pavarde.
+    Taip pat galima išgirsti skirtingų nuomonių kalbant apie Kauno reikšmę Lietuvos
+    kultūros, ūkio ar visuomenės bei politikos gyvenimui, ne visada sutinkama su Kauno
+    įvardijimu antruoju Lietuvos miestu.
   statusas: verified
+  atnaujinta: "2026-07-19 10:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184978
+    - t-138
+
+- id: c-184958
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kallno sankrovos teisė, "muitlĮ
+    karas" ir Hanzos kontoros Kaune sunykimas. Kaunas - regiono prekybos centras.
+    Zvilgsnis i Kauno amatus, turglĮ ir karčemas.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-139
+
+- id: c-184959
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Politinės, gamtinės ir teisinės prekybos sąlygos Vytauto laikais. Kaunas įsikūrė Ne-
+    muno ir Neries santakoje, prie patogių vandens kelių, valstybės lietuviškųjų žemių
+    viduryje. Gera vieta prekybai turėjusi traukti atvykstančius pirklius ir vietinius pre-
+    kių gamintojus.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-140
+
+- id: c-184960
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Surinkti muitai eidavo į
+    valstybės ar valdovo iždą (jie dar nebuvo atskirti). Kauno muitinė kontroliavo prekių
+    judėjimą pro Kauną vandeniu ir sausuma. Jos žinioje buvo visa Lietuvos valstybės
+    šiaurės vakarų dalis, įskaitant Žemaitiją.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-141
+
+- id: c-184961
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kauno miesto gyvenimui tiesioginę ar netiesioginę įtaką turėjo Europos
+    šalių ir pačios Lietuvos raida.
+    Kaunas išliko stambus regioninis prekybos centras, bet jo pirklių veiklos sąly­
+    gos keitėsi. Neišnyko viduramžių Kauno miesto augimo pamatas - Lietuvos prekių
+    paklausa Europoje, bet pasipildė prekių sąrašas.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-142
+
+- id: c-184962
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Visi šie miestai nurodo maršrutus kelionių, į
+    kurias Kauno miestiečiai leisdavosi tvarkyti miesto ar asmeninių reikalų.
+    Kauno miestiečių pasiuntiniai turėdavo susirasti užtarėjų tarp aukštų valstybės
+    pareigūnų ar valdovo dvaro žmonių. Praktiškai visos valdovų privilegijos ar kitokie
+    raštai Kauno reikalais prasideda nurodymu, kad į valdovą kreipęsi jo patarėjai ar kad
+    jis apsisprendęs jų patariamas.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-143
+
+- id: c-184963
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kauno muitinė buvo
+    ne miestiečių, o valdovo/valstybės įmonė. Ji kontroliavo prekių judėjimą į užsienį
+    ir iš užsienio į Lietuvą visoje vakarinėje valstybės dalyje ir rinko muitus, ėjusius į
+    valdovo/valstybės iždą. Kauno sankrovos teisės įgyvendinimas turėjo padėti muiti-
+    ninkams sekti prekių judėjimą.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-144
+
+- id: c-184964
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Muitininkas kartu su specialiais brokuotojais prekes apžiūrėdavo,
+    atrinkdavo tinkamas eksportuoti ir sumokėdavo paruošėjui pinigus.
+    Nors prekybos miško prekėmis valstybės monopolis greitai buvo sušvelnintas, bet,
+    kadangi prie Kauno būdavo suvežamos ir valstybės/valdovo miškuose paruoštos pre-
+    kės, Kaunas tapo visos Lietuvos prekybos mišku centru. Tai miestui buvo naudinga.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-145
+
+- id: c-184965
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Vis dėlto retkarčiais tarp vienuolijų ir miesto irgi
+    įsiplieksdavo ginčai dėl nekilnojamojo turto.
+    Kaunas liko katalikiškas miestas. Liuteronų bendruomenė kalbamu laikotarpiu bu-
+    vo toleruojama, jos nariai dalyvavo savivaldos veikloje.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-146
+
+- id: c-184966
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Matyti, kad Kaunas sidabrinės mokėjo kelis kartus mažiau nei Vilnius. Bet kitus
+    Lietuvos valstybės miestus, dažnai turinčius turtingą praeitį ir stovinčius miestų rai-
+    dai, pirmiausia prekybai, dėkingose vietose, tokius kaip Kijevas ar Polockas, taip pat
+    beveik vienmečius Brestą ar Gardiną, Kaunas lenkė. Jis akivaizdžiai buvo antrasis
+    Lietuvos Didžiosios Kunigaikštystės miestas.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-147
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Augustinas Voldemaras]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Juozas Urbšys]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Gimimo vieta: [[objektai/asmenys/Emmanuel Levinas]]

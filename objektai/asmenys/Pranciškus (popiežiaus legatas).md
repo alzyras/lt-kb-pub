@@ -33,7 +33,6 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
 
 <a id="claim-t-87564"></a>
 - t-001
-  global_id: t-87564
   teiginys: "Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų į pastatytą bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
 
 <a id="claim-t-87565"></a>
 - t-002
-  global_id: t-87565
   teiginys: "Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,23 +86,15 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
     čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
     tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
     ti pasiuntė.
-  citata_rodoma: |
-    Tiesa, arkivyskupui Isamui tarpininkaujant,
-    tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­
-    dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­
-    keliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­
-    dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
-    arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­
-    čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
-    tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
-    ti pasiuntė.
+  citata_rodoma: "Tiesa, arkivyskupui Isamui tarpininkaujant, \ntikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­\ndinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­\nkeliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­\ndovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos \narkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­\nčių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti; \ntik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­\nti pasiuntė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87564
+    - t-001
+
 - id: c-83544
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -132,4 +122,4 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87565
+    - t-002

@@ -28,7 +28,6 @@ Kadangi tame pačiame kvite nurodoma, kad Kaune buvo mažiausiai 416 namų, iše
 
 <a id="claim-t-202288"></a>
 - t-001
-  global_id: t-202288
   teiginys: "Kadangi tame pačiame kvite nurodoma, kad Kaune buvo mažiausiai 416 namų, išeitų, kad karčemos buvo 45% Kauno namų."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -56,4 +55,4 @@ Kadangi tame pačiame kvite nurodoma, kad Kaune buvo mažiausiai 416 namų, iše
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202288
+    - t-001

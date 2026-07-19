@@ -60,8 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45389"></a>
-- t-001
-  global_id: t-45389
+- t-013
   teiginys: "Lietuvos Valstybės Konstitucija skelbė, kad aukščiausioji valdžia priklauso tautai."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -79,8 +78,7 @@ Nenurodyta
     - c-48235
 
 <a id="claim-t-45390"></a>
-- t-002
-  global_id: t-45390
+- t-011
   teiginys: "Lietuvių kalba Lietuvos Valstybės Konstitucijoje pirmą kartą įteisinta kaip valstybinė."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -99,8 +97,7 @@ Nenurodyta
     - c-48235
 
 <a id="claim-t-45391"></a>
-- t-003
-  global_id: t-45391
+- t-014
   teiginys: "Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,8 +116,7 @@ Nenurodyta
     - c-48235
 
 <a id="claim-t-45392"></a>
-- t-004
-  global_id: t-45392
+- t-015
   teiginys: "1922 m. Lietuvos Valstybės Konstitucija Seimui, sudarytam iš tautos atstovų, suteikė ypač didelių galių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,8 +135,7 @@ Nenurodyta
     - c-23021
 
 <a id="claim-t-45393"></a>
-- t-005
-  global_id: t-45393
+- t-010
   teiginys: "Lietuvos Valstybės Konstitucija skelbė Lietuvos valstybę nepriklausoma demokratine respublika."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -158,8 +153,7 @@ Nenurodyta
     - c-48235
 
 <a id="claim-t-45394"></a>
-- t-006
-  global_id: t-45394
+- t-012
   teiginys: "Lietuvos Valstybės Konstitucija suteikė plačią autonomiją Lietuvoje gyvenusioms tautinėms mažumoms ir įteisino privalomą pradžios mokslą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -185,18 +179,16 @@ Nenurodyta
     vadinamieji tautos atstovai. Seimas ir prezidentas (renkamas Seimo) ren-
     kami trejiems metams. Konstitucija suteikė plačią autonomiją Lietuvoje
     gyvenusioms tautinėms mažumoms, įteisino privalomą pradžios mokslą.
-  citata_rodoma: |
-    Seimas ir prezidentas (renkamas Seimo) ren-
-    kami trejiems metams. Konstitucija suteikė plačią autonomiją Lietuvoje
-    gyvenusioms tautinėms mažumoms, įteisino privalomą pradžios mokslą.
+  citata_rodoma: "Seimas ir prezidentas (renkamas Seimo) ren-\nkami trejiems metams. Konstitucija suteikė plačią autonomiją Lietuvoje\ngyvenusioms tautinėms mažumoms, įteisino privalomą pradžios mokslą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45392
-    - t-45394
+    - t-015
+    - t-012
+
 - id: c-48235
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -216,7 +208,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45389
-    - t-45390
-    - t-45391
-    - t-45393
+    - t-013
+    - t-011
+    - t-014
+    - t-010

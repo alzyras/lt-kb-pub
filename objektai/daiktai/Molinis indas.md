@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-08306"></a>
 - t-001
-  global_id: t-08306
   teiginys: "Po kremacijos numirėlio pelenai buvo supilami į molio indą prieš įdedant jį į kapus."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -75,20 +74,15 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     paskui sušluostę gruzdinius^1299 numirėlio supylė į molio
-    indą, ir lydėtojai, nešdami į kapus, sušuko regintys keliaujantį nabaštiką debesyse ant balto žirgo ir
-    sakalą besklendžiantį lygiai; įdėję indą į kapus ir kaukoles neprietelių pergalėtųjų ant grandies suvėrę,
-    padėjo po indo apačia ir žemėmis aprausė; minavonei vadino tuos kapus vardu to, kas tenai buvo
-    palaidotas.
-  citata_rodoma: |
-    paskui sušluostę gruzdinius^1299 numirėlio supylė į molio
-    indą, ir lydėtojai, nešdami į kapus, sušuko regintys keliaujantį nabaštiką debesyse ant balto žirgo ir
-    sakalą besklendžiantį lygiai; įdėję indą į kapus ir kaukoles neprietelių pergalėtųjų ant grandies suvėrę,
-    padėjo po indo apačia ir žemėmis aprausė; minavonei vadino tuos kapus vardu to, kas tenai buvo
-    palaidotas.
+        indą, ir lydėtojai, nešdami į kapus, sušuko regintys keliaujantį nabaštiką debesyse ant balto žirgo ir
+        sakalą besklendžiantį lygiai; įdėję indą į kapus ir kaukoles neprietelių pergalėtųjų ant grandies suvėrę,
+        padėjo po indo apačia ir žemėmis aprausė; minavonei vadino tuos kapus vardu to, kas tenai buvo
+        palaidotas.
+  citata_rodoma: "paskui sušluostę gruzdinius^1299 numirėlio supylė į molio\nindą, ir lydėtojai, nešdami į kapus, sušuko regintys keliaujantį nabaštiką debesyse ant balto žirgo ir\nsakalą besklendžiantį lygiai; įdėję indą į kapus ir kaukoles neprietelių pergalėtųjų ant grandies suvėrę,\npadėjo po indo apačia ir žemėmis aprausė; minavonei vadino tuos kapus vardu to, kas tenai buvo\npalaidotas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08306
+    - t-001

@@ -37,7 +37,6 @@ Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams nusiaubus Li
 
 <a id="claim-t-21485"></a>
 - t-001
-  global_id: t-21485
   teiginys: "1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,14 +73,14 @@ Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams nusiaubus Li
     rugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės
     teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos
     kariuomenių kontroliuojamoje zonoje.
-  citata_rodoma: |
-    teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos
+  citata_rodoma: "teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21485
+    - t-001
+
 ## Ryšiai
 - Užėmė Kauno tvirtovę: [[objektai/grupes/Vokiečiai]]

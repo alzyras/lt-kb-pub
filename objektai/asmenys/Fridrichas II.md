@@ -42,8 +42,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 ## Teiginiai
 
 <a id="claim-t-59857"></a>
-- t-001
-  global_id: t-59857
+- t-002
   teiginys: "Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį perleido magistrui Hermanui, kuris ją pasiuntė į Elbingo pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,10 +57,9 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   semantiniai_rysiai: "Kryžius priklausė Fridrichas II (0.70); Venedai rėmė Fridrichas II (0.68); Kryžius priklausė Elbingas (0.66)"
   pagrindžia:
     - c-60489
-    - c-001
+
 <a id="claim-t-59858"></a>
-- t-002
-  global_id: t-59858
+- t-001
   teiginys: "M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - c-60490
 
 <a id="claim-t-59859"></a>
-- t-003
-  global_id: t-59859
+- t-007
   teiginys: "1268 m. Sicilijos karalius Karolis paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -100,8 +97,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - c-60492
 
 <a id="claim-t-59860"></a>
-- t-004
-  global_id: t-59860
+- t-003
   teiginys: "Popiežius Honorijus III ir imperatorius Fridrichas II slaptų nesutarimų sprendimą patikėjo broliui Hermanui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -118,7 +114,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 
 <a id="claim-t-59861"></a>
 - t-005
-  global_id: t-59861
   teiginys: "Fridricho II sūnus Konradas 1251 m. užpuolė Apulijos karalystę ir Neapolį, sugriovė Neapolio sienas ir kitais metais mirė nunuodytas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -137,8 +132,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - c-60495
 
 <a id="claim-t-59862"></a>
-- t-006
-  global_id: t-59862
+- t-004
   teiginys: "Imperatorius Fridrichas II patarė magistrui Hermanui priimti Lenkijos kunigaikščio kvietimą dėl keblaus reikalo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -152,10 +146,9 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60493
-    - c-005
+
 <a id="claim-t-59863"></a>
-- t-007
-  global_id: t-59863
+- t-006
   teiginys: "Fridrichas II turėjo nesantuokinį sūnų Manfredą, iš kurio 1265 m. Sicilijos karalius Karolis atėmė sostą ir gyvybę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -165,10 +158,9 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   temporalinis_llm_pakomentavimas: "Perrašyta, kad teiginys aiškiau sietųsi su Fridrichu II."
   pagrindžia:
     - c-60491
-    - c-003
+
 <a id="claim-t-197080"></a>
 - t-008
-  global_id: t-197080
   teiginys: "Kartą, kai popiežius Honorijus III ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė, tvirtindamas, kad jam nieku būdu nedera."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -181,7 +173,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 
 <a id="claim-t-200985"></a>
 - t-009
-  global_id: t-200985
   teiginys: "Vienok mistras kalavijonų, norėdamas išsiliuosuoti nuo tokios jo vyresnybės, metuose 1226 buvo įsteigęs slapta sau liecybą nuo Fridricho II, ciesorius teutonų, kursai ne vien kalavijonis nuo valdžios vyskupo Alberto išliuosavo, bet dar ir įgytus valsčius."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -226,8 +217,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59857
 - c-003
   santrauka: 'Fridrichas II turėjo nesantuokinį sūnų Manfredą, iš kurio 1265 m. Sicilijos karalius Karolis atėmė sostą ir gyvybę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -244,8 +233,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59863
 - c-005
   santrauka: 'Imperatorius Fridrichas II patarė magistrui Hermanui priimti Lenkijos kunigaikščio kvietimą dėl keblaus reikalo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -267,8 +254,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59862
+
 ## Citatos
 
 - id: c-60489
@@ -287,19 +273,15 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada
     jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
     kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
-  citata_rodoma: |
-    Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
-    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
-    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
-    ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
-    dažnų stebuklų, kuriuos viešpats padaro per tą kryžių.
+  citata_rodoma: "Kai venedai buvo smarkiai sutramdyti po maišto, sukelto\nprieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį\nšventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo\nruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl\ndažnų stebuklų, kuriuos viešpats padaro per tą kryžių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59857
+    - t-002
+
 - id: c-60490
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -317,17 +299,15 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     Prūsijoje (III, 33), surado naujų įrodymų, kad duomenys apie lietuvių niokojamus žygius
     1323 m., Gedimino krikštą paremti dokumentais kaip ir duomenys apie Ordino magistro
     Vernerio nužudymą 1330 m. (Papildymas, 20).
-  citata_rodoma: |
-    M. Perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises,
-    panaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis
-    nušvietęs pagal Ordino 1230 m.
+  citata_rodoma: "M. Perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises,\npanaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis\nnušvietęs pagal Ordino 1230 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59858
+    - t-001
+
 - id: c-60491
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -342,21 +322,15 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     baisaus įsiūčio, išžudė iš paniekos anksčiau minėtajam karaliui visus ten gyvenusius
     prancūzus, tiek vyrus, tiek moteris, o baisiausia — nėščioms lotynų moterims, kurios
     sakėsi pastojusios nuo prancūzų, vėrė šonus ir žudė jų negimusius kūdikius (Ptol.
-  citata_rodoma: |
-    Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II
-                                nesantuokinio sūnaus, mirtį
-
-      1265 viešpaties metais Klemensas IV, popiežius, apvainikavo anksčiau minėtąjį Karolį
-    Sicilijos karaliumi, kurią jam davė popiežius Urbonas. Tas Karolis atėmė iš Manfredo,
-    nesantuokinio imperatoriaus Fridricho II sūnaus, ir gyvybę, ir sostą (Mart. p. 408; Ptol.
-    22, 30).
+  citata_rodoma: "Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II\n                            nesantuokinio sūnaus, mirtį\n\n  1265 viešpaties metais Klemensas IV, popiežius, apvainikavo anksčiau minėtąjį Karolį\nSicilijos karaliumi, kurią jam davė popiežius Urbonas. Tas Karolis atėmė iš Manfredo,\nnesantuokinio imperatoriaus Fridricho II sūnaus, ir gyvybę, ir sostą (Mart. p. 408; Ptol.\n22, 30)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59863
+    - t-006
+
 - id: c-60492
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -367,19 +341,15 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
       1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę
     ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos
     kilmingųjų (Mart. p. 409; Ptol. 22, 34—38).
-  citata_rodoma: |
-    Apie Konradino, imperatoriaus Fridricho II anūko, žūtį
-
-      1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę
-    ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos
-    kilmingųjų (Mart. p. 409; Ptol. 22, 34—38).
+  citata_rodoma: "Apie Konradino, imperatoriaus Fridricho II anūko, žūtį\n\n  1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę\nir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos\nkilmingųjų (Mart. p. 409; Ptol. 22, 34—38)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59859
+    - t-007
+
 - id: c-60493
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -400,22 +370,15 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     minėtuosius brolius mirtinai sužeidė ir daugybę žmonių išžudė, o su savimi nusivedė
     sugautą lenkų kariuomenės vadą. Minėtoji valdovė po mūšio įsakė surinkti kovos lauke
     likusius pusgyvius brolius ir patikėti juos gydytojų priežiūrai.
-  citata_rodoma: |
-    Todėl kunigaikštis pasiuntė pas
-    minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir
-    jam, ir jo broliams, dėl kurių priežasčių leidosi į kelią; tada magistras, pasitaręs visais
-    klausimais su broliais ir apsvarstęs su jais šį keblų reikalą, davėsi galop kunigaikščio
-    įkalbamas, patartas popiežiaus, imperatoriaus Fridricho II  ir Vokietijos kunigaikščių,
-    kurie pasižadėjo, esant reikalui, jam padėti patarimais bei suteikti pagalbą. Taigi pas
-    Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo
-    Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.
+  citata_rodoma: "Todėl kunigaikštis pasiuntė pas\nminėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir\njam, ir jo broliams, dėl kurių priežasčių leidosi į kelią; tada magistras, pasitaręs visais\nklausimais su broliais ir apsvarstęs su jais šį keblų reikalą, davėsi galop kunigaikščio\nįkalbamas, patartas popiežiaus, imperatoriaus Fridricho II  ir Vokietijos kunigaikščių,\nkurie pasižadėjo, esant reikalui, jam padėti patarimais bei suteikti pagalbą. Taigi pas\nLenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo\nOrdino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59862
+    - t-004
+
 - id: c-60494
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -431,20 +394,16 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     Kaip šios valdžios žymenį popiežius jam padovanojo žiedą, o imperatorius suteikė teisę
     turėti vėliavoje karališkąsias imperijos insignijas, ir po to magistras ne kartą juodviem
     pasitarnavo, draugiškai vieną su kitu taikydamas.
-  citata_rodoma: |
-    Kartą, kai popiežius Honorijus III
-    ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
-    patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,
-    tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
-    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos.
+  citata_rodoma: "Kartą, kai popiežius Honorijus III\nir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu\npatikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,\ntvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats\nesąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59860
-    - t-197080
+    - t-003
+    - t-008
+
 - id: c-60495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -456,23 +415,19 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
       1251 viešpaties metais Konradas, imperatoriaus Fridricho II sūnus, gimęs iš Jeruzalės
     karaliaus dukters, užpuolė Apulijos karalystę ir Neapolį. Sienas sugriovė ligi pamatų, bet
     kitais metais pasimirė nunuodytas (Mart. p. 404).
-  citata_rodoma: |
-    Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,
-                                                mirtį
-
-      1251 viešpaties metais Konradas, imperatoriaus Fridricho II sūnus, gimęs iš Jeruzalės
-    karaliaus dukters, užpuolė Apulijos karalystę ir Neapolį. Sienas sugriovė ligi pamatų, bet
-    kitais metais pasimirė nunuodytas (Mart. p. 404).
+  citata_rodoma: "Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,\n                                            mirtį\n\n  1251 viešpaties metais Konradas, imperatoriaus Fridricho II sūnus, gimęs iš Jeruzalės\nkaraliaus dukters, užpuolė Apulijos karalystę ir Neapolį. Sienas sugriovė ligi pamatų, bet\nkitais metais pasimirė nunuodytas (Mart. p. 404)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59861
+    - t-005
+
 - id: c-184335
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Albertas
     metuose 1224 pats dalijo valsčius kalavijonims it
@@ -490,4 +445,4 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200985
+    - t-009

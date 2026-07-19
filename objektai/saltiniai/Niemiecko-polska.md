@@ -36,7 +36,6 @@ Dusburgietis teigia, kad 2: Niemiecko-polska.— Wrocław—Warszawa, 1951.
 
 <a id="claim-t-61199"></a>
 - t-001
-  global_id: t-61199
   teiginys: "2: Niemiecko-polska.— Wrocław—Warszawa, 1951."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Dusburgietis teigia, kad 2: Niemiecko-polska.— Wrocław—Warszawa, 1951.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61199
+    - t-001

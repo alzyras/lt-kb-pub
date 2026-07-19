@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-97249"></a>
 - t-001
-  global_id: t-97249
   teiginys: "„Dusburg Peter“ nurodytas Lietuvių enciklopedijos 5 tome, 266-267 puslapiuose."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ media_all_json: |-
 
 <a id="claim-t-97250"></a>
 - t-002
-  global_id: t-97250
   teiginys: "Straipsnis „Dusburg Peter“ paskelbtas Lietuvių enciklopedijos 5 tome, 266–267 puslapiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,15 +84,12 @@ media_all_json: |-
     nis,_ LE, t. 31, 364-369 p. — Jakštas, J. : _Naujausi Gedimino dinastijos
     kilmės tyrinėjimai,_ LP, I, 1, 1940, 29-56 p. (kritiškas įvertinimas ikito­
     linių studijų).
-  citata_rodoma: |
-    — (”) _Didžiųjų Lietuvos kunigaikščių ekonominė politika savo
-    dvaruose,_ LP, I, 1, 1940, 6-28 p. — (”) _Dusburg Peter,_ LE, t. 5, 266-267-
-    p.
+  citata_rodoma: "— (”) _Didžiųjų Lietuvos kunigaikščių ekonominė politika savo\ndvaruose,_ LP, I, 1, 1940, 6-28 p. — (”) _Dusburg Peter,_ LE, t. 5, 266-267-\np."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97249
-    - t-97250
+    - t-001
+    - t-002

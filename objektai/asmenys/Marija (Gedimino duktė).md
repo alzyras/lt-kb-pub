@@ -39,8 +39,7 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 ## Teiginiai
 
 <a id="claim-t-82550"></a>
-- t-001
-  global_id: t-82550
+- t-003
   teiginys: "Gedimino duktė Marija buvo ištekinta už Rusios kunigaikščio Boleslovo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
     - c-79027
 
 <a id="claim-t-82552"></a>
-- t-002
-  global_id: t-82552
+- t-001
   teiginys: "Gedimino duktė Marija politinėmis vedybomis ištekėjo už didžiojo Tverės kunigaikščio Dimitro."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -100,7 +98,8 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82550
+    - t-003
+
 - id: c-79029
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -119,6 +118,7 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82552
+    - t-001
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

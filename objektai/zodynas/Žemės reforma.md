@@ -31,8 +31,7 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
 ## Teiginiai
 
 <a id="claim-t-75594"></a>
-- t-001
-  global_id: t-75594
+- t-002
   teiginys: "Dėl žemės reformos dauguma Lietuvos ūkių buvo per smulkūs, kad šeimai garantuotų minimalų gyvenimo lygį atitinkančias pajamas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
     - c-25041
 
 <a id="claim-t-75597"></a>
-- t-002
-  global_id: t-75597
+- t-004
   teiginys: "Žemės reformos strategija buvo kuriama ir diegiama iš viršaus į apačią, nepaisant žemės ūkyje dirbusiųjų nuomonės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,18 +67,15 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
     Lietuvos ūkių dalis buvo per smulkūs, kad galėtų garantuoti šeimai paja-
     mas, prilygstančias minimaliam gyvenimo lygiui. Atkurto ūkininkų ūkio
     vidutinis dydis ėjo mažyn, iki 6 ha.
-  citata_rodoma: |
-    Dėl vykdytos žemės reformos didžioji
-    Lietuvos ūkių dalis buvo per smulkūs, kad galėtų garantuoti šeimai paja-
-    mas, prilygstančias minimaliam gyvenimo lygiui. Atkurto ūkininkų ūkio
-    vidutinis dydis ėjo mažyn, iki 6 ha.
+  citata_rodoma: "Dėl vykdytos žemės reformos didžioji\nLietuvos ūkių dalis buvo per smulkūs, kad galėtų garantuoti šeimai paja-\nmas, prilygstančias minimaliam gyvenimo lygiui. Atkurto ūkininkų ūkio\nvidutinis dydis ėjo mažyn, iki 6 ha."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75594
+    - t-002
+
 - id: c-73327
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -101,4 +96,4 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75597
+    - t-004

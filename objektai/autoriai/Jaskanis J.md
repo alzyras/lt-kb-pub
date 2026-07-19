@@ -31,7 +31,6 @@ Dusburgietis teigia, kad kai kas mano, kad prūsiškieji ir rytiniai galindai gi
 
 <a id="claim-t-60720"></a>
 - t-001
-  global_id: t-60720
   teiginys: "J. Jaskanio recenzija cituojama prie nuomonės, kad prūsiškuosius ir rytinius galindus siejo tik vardų panašumas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Dusburgietis teigia, kad kai kas mano, kad prūsiškieji ir rytiniai galindai gi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60720
+    - t-001

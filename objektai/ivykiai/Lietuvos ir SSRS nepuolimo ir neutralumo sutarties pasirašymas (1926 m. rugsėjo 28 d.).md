@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-23337"></a>
 - t-001
-  global_id: t-23337
   teiginys: "1926 m. rugsėjo 28 d. Maskvoje pasirašyta Lietuvos ir SSRS nepuolimo ir neutralumo sutartis."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-23338"></a>
 - t-002
-  global_id: t-23338
   teiginys: "Sutartyje SSRS patvirtino 1920 m. sutarties sąlygų tęstinumą."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,6 @@ Nenurodyta
 
 <a id="claim-t-23339"></a>
 - t-003
-  global_id: t-23339
   teiginys: "Georgijaus Čičerino nota prie Lietuvos ir SSRS nepuolimo ir neutralumo sutarties patvirtino Lietuvos interesus Vilniuje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -119,7 +116,6 @@ Nenurodyta
 
 <a id="claim-t-23340"></a>
 - t-004
-  global_id: t-23340
   teiginys: "Lietuva 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -151,15 +147,14 @@ Nenurodyta
     sus Vilniuje; sovietai užtikrino lietuviams, kad de facto esantys Lietuvos
     sienos pažeidimai nepakeitė Maskvos pozicijų dėl Lietuvos teritorinio
     suverenumo.
-  citata_rodoma: |
-    sus Vilniuje; sovietai užtikrino lietuviams, kad de facto esantys Lietuvos
+  citata_rodoma: "sus Vilniuje; sovietai užtikrino lietuviams, kad de facto esantys Lietuvos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23337
-    - t-23338
-    - t-23339
-    - t-23340
+    - t-001
+    - t-002
+    - t-003
+    - t-004

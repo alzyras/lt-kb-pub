@@ -36,7 +36,6 @@ Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pra
 
 <a id="claim-t-61327"></a>
 - t-001
-  global_id: t-61327
   teiginys: "„Trumpieji Prūsijos analai“ buvo pratęsti iki 1337 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61327
+    - t-001

@@ -38,7 +38,6 @@ Stanislo­ vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­ lyvavu
 
 <a id="claim-t-86593"></a>
 - t-001
-  global_id: t-86593
   teiginys: "Baško nurodė, kad 1254 m. gegužės 8 d. Krokuvoje skelbiant šv. Stanislovo kanonizavimą ir palaikų pakylėjimą dalyvavo Lietuvos vyskupas Vitas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Stanislo­ vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­ lyvavu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86593
+    - t-001

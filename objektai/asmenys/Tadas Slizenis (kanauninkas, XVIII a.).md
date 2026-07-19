@@ -30,7 +30,6 @@ Tadas Slizenis buvo kanauninkas. Tado Slizenio namuose tuo metu gyveno jo brolis
 
 <a id="claim-t-200509"></a>
 - t-001
-  global_id: t-200509
   teiginys: "Tadas Slizenis buvo kanauninkas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -48,7 +47,6 @@ Tadas Slizenis buvo kanauninkas. Tado Slizenio namuose tuo metu gyveno jo brolis
 
 <a id="claim-t-200510"></a>
 - t-002
-  global_id: t-200510
   teiginys: "Tado Slizenio namuose tuo metu gyveno jo brolis, Lietuvos Vyriausiojo Tribunolo pasiuntinys."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -72,23 +70,9 @@ Tadas Slizenis buvo kanauninkas. Tado Slizenio namuose tuo metu gyveno jo brolis
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 9"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 9."
-  citata_originali: |
-    Toliau jis rašė: „Turime daug šieno – šimtą veži-
-    mų, avižų 60, tad, jau būtų blogai, jei pats neatvažiuotum, kur aš tą šieną dėčiau“ [19]? Tais
-    pačiais metais J. D. Lopacinskis apie apsigyvenimo Vilniuje sudėtingumą ir pasiūlymus
-    rašė ir M. K. Sapiegai. Jis teigė, kad galėtų pasiūlyti kanauninko Tado Slizenio (Tadeusz
-    Ślizień) namus, bet perspėjo, kad ten tuo metu gyvena jo brolis – Lietuvos Vyriausiojo
-    Tribunolo pasiuntinys.
-  citata_rodoma: |
-    Tais pačiais metais J. D. Lopacinskis apie apsigyvenimo Vilniuje sudėtingumą ir pasiūlymus
-    rašė ir M. K. Sapiegai. Jis teigė, kad galėtų pasiūlyti kanauninko Tado Slizenio (Tadeusz
-    Ślizień) namus, bet perspėjo, kad ten tuo metu gyvena jo brolis – Lietuvos Vyriausiojo
-    Tribunolo pasiuntinys.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200509
-    - t-200510
+    - t-001
+    - t-002

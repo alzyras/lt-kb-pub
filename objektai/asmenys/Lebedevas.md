@@ -31,7 +31,6 @@ Pulko vadas Lebedevas, sužinojęs apie Jiezno apsupimą ir pamatęs artėjanči
 
 <a id="claim-t-39774"></a>
 - t-001
-  global_id: t-39774
   teiginys: "Pulko vadas Lebedevas, sužinojęs apie Jiezno apsupimą ir pamatęs artėjančius lietuvių husarus, nedelsdamas pasitraukė į Stakliškes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Pulko vadas Lebedevas, sužinojęs apie Jiezno apsupimą ir pamatęs artėjanči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39774
+    - t-001

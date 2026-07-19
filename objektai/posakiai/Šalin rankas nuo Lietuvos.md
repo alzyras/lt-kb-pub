@@ -36,8 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-13511"></a>
-- t-001
-  global_id: t-13511
+- t-005
   teiginys: "1991 m. kovą daugiau nei 200 tūkst. demonstracijoje dalyvavusių maskviečių skandavo „Šalin rankas nuo Lietuvos“."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -56,8 +55,7 @@ media_all_json: |-
     - c-23561
 
 <a id="claim-t-13512"></a>
-- t-002
-  global_id: t-13512
+- t-006
   teiginys: "1991 m. kovą Maskvos demonstracijoje kartu su „Šalin rankas nuo Lietuvos“ skambėjo šūkis „Gorbačiovai, atsistatydink!“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -91,13 +89,12 @@ media_all_json: |-
     Lietuvos gyventojai, tragiškomis dienomis ištisas paras budėję prie
     tautos širdies – Lietuvos parlamento, – sugebėjo atsilaikyti prieš ginkluo-
     tą jėgą, taikiomis priemonėmis sustabdė beįsibėgėjančią sovietų agresiją.
-  citata_rodoma: |
-    lin rankas nuo Lietuvos“, „Gorbačiovai, atsistatydink!“
+  citata_rodoma: "lin rankas nuo Lietuvos“, „Gorbačiovai, atsistatydink!“"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13511
-    - t-13512
+    - t-005
+    - t-006

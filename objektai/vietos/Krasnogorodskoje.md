@@ -30,8 +30,7 @@ Komentare Krasnogorodskoje pateikiamas kaip Krasnyj gorod atitikmuo. Krasnogorod
 ## Teiginiai
 
 <a id="claim-t-187239"></a>
-- t-001
-  global_id: t-187239
+- t-002
   teiginys: "Krasnogorodskoje lokalizuojamas 30 km į šiaurės vakarus nuo Opočkos."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -48,8 +47,7 @@ Komentare Krasnogorodskoje pateikiamas kaip Krasnyj gorod atitikmuo. Krasnogorod
     - c-170303
 
 <a id="claim-t-187240"></a>
-- t-002
-  global_id: t-187240
+- t-001
   teiginys: "Krasnyj gorod komentare tapatinamas su Krasnogorodskoje."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -78,15 +76,12 @@ Komentare Krasnogorodskoje pateikiamas kaip Krasnyj gorod atitikmuo. Krasnogorod
     7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­
     karus nuo Opočkos (RTFR. Veiikije Lukų sr.). Rusų metraščiai mi­
     ni kitus LDK kariuomenės pultus Pskovo miestus (žr. past. 5).
-  citata_rodoma: |
-    7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­
-    karus nuo Opočkos (RTFR. Veiikije Lukų sr.). Rusų metraščiai mi­
-    ni kitus LDK kariuomenės pultus Pskovo miestus (žr. past. 5).
+  citata_rodoma: "7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­\nkarus nuo Opočkos (RTFR. Veiikije Lukų sr.). Rusų metraščiai mi­\nni kitus LDK kariuomenės pultus Pskovo miestus (žr. past. 5)."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187239
-    - t-187240
+    - t-002
+    - t-001

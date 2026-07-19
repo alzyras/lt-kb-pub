@@ -36,8 +36,7 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
 ## Teiginiai
 
 <a id="claim-t-58831"></a>
-- t-001
-  global_id: t-58831
+- t-003
   teiginys: "Istorijos šaltiniuose rutėnais dažnai vadinti Baltijos jūros pietinės pakrantės ir Riugeno salos gyventojai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
 
 <a id="claim-t-58833"></a>
 - t-002
-  global_id: t-58833
   teiginys: "Rutėnai nutraukė pilies apgulą sužinoję, kad apsiaustieji maitinasi žuvimis iš pilyje buvusio tvenkinio."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,7 +81,8 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58833
+    - t-002
+
 - id: c-59465
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -103,4 +102,4 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58831
+    - t-003

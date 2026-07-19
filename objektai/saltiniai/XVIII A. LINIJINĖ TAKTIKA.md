@@ -37,7 +37,6 @@ p- 139, „XVIII A.
 
 <a id="claim-t-41583"></a>
 - t-001
-  global_id: t-41583
   teiginys: "Andžejus Geglis sukūrė iliustraciją „XVIII a. linijinė taktika“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ p- 139, „XVIII A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41583
+    - t-001

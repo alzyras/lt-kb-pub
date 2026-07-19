@@ -37,8 +37,7 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 ## Teiginiai
 
 <a id="claim-t-40858"></a>
-- t-001
-  global_id: t-40858
+- t-002
   teiginys: "1991 m. sausio 8 d. perversmininkų minia bandė įsiveržti į Aukščiausiosios Tarybos rūmus ir nuversti nepriklausomos Lietuvos valdžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
     - c-42644
 
 <a id="claim-t-40859"></a>
-- t-002
-  global_id: t-40859
+- t-001
   teiginys: "1991 m. sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,13 +124,14 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40858
+    - t-002
+
 - id: c-44722
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Sausio 12 d. Aukščiausioji
+    su Vilniumi. Sausio 12 d. Aukščiausioji
     Taryba - Atkuriamasis Seimas, vadovau-
     jamas pirmininko Vytauto Landsbergio,
     priėmė nutarimą „Dėl priemonių Lietuvos
@@ -141,20 +140,11 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
     zijos bokštą, Lietuvos radijo ir televizi-
     jos komitetą, o tankų ir šarvuočių vora
     pajudėjo Parlamento link.
-  citata_rodoma: |
-    Sausio 12 d. Aukščiausioji
-    Taryba - Atkuriamasis Seimas, vadovau-
-    jamas pirmininko Vytauto Landsbergio,
-    priėmė nutarimą „Dėl priemonių Lietuvos
-    Respublikai ginti“. Jau sausio 13-osios
-    naktį sovietai šturmavo Vilniaus televi-
-    zijos bokštą, Lietuvos radijo ir televizi-
-    jos komitetą, o tankų ir šarvuočių vora
-    pajudėjo Parlamento link.
+  citata_rodoma: "Sausio 12 d. Aukščiausioji\nTaryba - Atkuriamasis Seimas, vadovau-\njamas pirmininko Vytauto Landsbergio,\npriėmė nutarimą „Dėl priemonių Lietuvos\nRespublikai ginti“. Jau sausio 13-osios\nnaktį sovietai šturmavo Vilniaus televi-\nzijos bokštą, Lietuvos radijo ir televizi-\njos komitetą, o tankų ir šarvuočių vora\npajudėjo Parlamento link."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40859
+    - t-001

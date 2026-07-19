@@ -37,7 +37,6 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
 
 <a id="claim-t-178209"></a>
 - t-001
-  global_id: t-178209
   teiginys: "Po 1411 m. Torno sutarties santykiai nepagerėjo, nors joje buvo susitarta dėl laisvos savitarpio prekybos."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
 
 <a id="claim-t-178210"></a>
 - t-002
-  global_id: t-178210
   teiginys: "Po 1411 m. Torno sutarties santykiai nepagerėjo, nors sutartyje buvo susitarta dėl laisvos savitarpio prekybos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,16 +95,12 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
     (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio
     prekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,
     aišku, kad nuoširdžių santykių su Vytautu negalėjo būti.
-  citata_rodoma: |
-    Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties
-    (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio
-    prekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,
-    aišku, kad nuoširdžių santykių su Vytautu negalėjo būti.
+  citata_rodoma: "Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties\n(1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio\nprekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,\naišku, kad nuoširdžių santykių su Vytautu negalėjo būti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178209
-    - t-178210
+    - t-001
+    - t-002

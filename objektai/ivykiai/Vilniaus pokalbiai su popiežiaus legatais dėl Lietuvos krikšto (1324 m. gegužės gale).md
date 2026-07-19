@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-97040"></a>
-- t-001
-  global_id: t-97040
+- t-008
   teiginys: "1324 m. gegužės gale popiežiaus delegato pasiuntiniai platų pranešimą apie Vilniaus pokalbius baigė desperatišku prierašu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-04997
 
 <a id="claim-t-97041"></a>
-- t-002
-  global_id: t-97041
+- t-007
   teiginys: "Popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, nes tikėtasi, kad per tą laiką Gediminas pasikrikštys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,8 +94,7 @@ Nenurodyta
     - c-31386
 
 <a id="claim-t-97042"></a>
-- t-003
-  global_id: t-97042
+- t-005
   teiginys: "Per Vilniaus pokalbius pranešta, kad Prūsijos kryžiuočiai dovanomis skatino Žemaičių galinguosius sukilti prieš Gediminą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -114,7 +111,6 @@ Nenurodyta
 
 <a id="claim-t-97043"></a>
 - t-004
-  global_id: t-97043
   teiginys: "1324 m. gegužės gale popiežiaus delegato pasiuntiniai parengė pranešimą apie pokalbius Vilniuje."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -133,8 +129,7 @@ Nenurodyta
     - c-04997
 
 <a id="claim-t-97044"></a>
-- t-005
-  global_id: t-97044
+- t-006
   teiginys: "Išvykdami iš Livonijos popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, tikėdamiesi jo krikšto."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -153,8 +148,7 @@ Nenurodyta
     - c-04998
 
 <a id="claim-t-97045"></a>
-- t-006
-  global_id: t-97045
+- t-009
   teiginys: "Atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudaryta taika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -195,9 +189,10 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97040
-    - t-97042
-    - t-97043
+    - t-008
+    - t-005
+    - t-004
+
 - id: c-04998
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -209,17 +204,15 @@ Nenurodyta
     darytoji taika. Išvykdami iš Livonijos, popiežiaus legatai įsakė
     su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
     kad per tą laiką Gediminas galįs pasikrikštyti.
-  citata_rodoma: |
-    Išvykdami iš Livonijos, popiežiaus legatai įsakė
-    su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
-    kad per tą laiką Gediminas galįs pasikrikštyti.
+  citata_rodoma: "Išvykdami iš Livonijos, popiežiaus legatai įsakė\nsu Gediminu nekariauti ketverius metus, nes buvo turima vilčių,\nkad per tą laiką Gediminas galįs pasikrikštyti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97044
+    - t-006
+
 - id: c-31386
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -231,17 +224,12 @@ Nenurodyta
     kad per tą laiką Gediminas galįs pasikrikštyti. Tuo metu kryžiuo­
     čiai, kad ir erzindami Gediminą kitais budais, laikėsi oficialios
     taikos, ir karą tepradėjo 1328 m.
-  citata_rodoma: |
-    Išvykdami iš Livonijos, popiežiaus legatai įsakė
-    su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
-    kad per tą laiką Gediminas galįs pasikrikštyti. Tuo metu kryžiuo­
-    čiai, kad ir erzindami Gediminą kitais budais, laikėsi oficialios
-    taikos, ir karą tepradėjo 1328 m.
+  citata_rodoma: "Išvykdami iš Livonijos, popiežiaus legatai įsakė\nsu Gediminu nekariauti ketverius metus, nes buvo turima vilčių,\nkad per tą laiką Gediminas galįs pasikrikštyti. Tuo metu kryžiuo­\nčiai, kad ir erzindami Gediminą kitais budais, laikėsi oficialios\ntaikos, ir karą tepradėjo 1328 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97041
-    - t-97045
+    - t-007
+    - t-009

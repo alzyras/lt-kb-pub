@@ -32,7 +32,6 @@ Pagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­ mo, kad aplanky
 
 <a id="claim-t-86304"></a>
 - t-001
-  global_id: t-86304
   teiginys: "Naugardą ir Pskovą aplankyti vykusiems pasiuntiniams buvo leista pereiti sienas be tikrinimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,29 +78,11 @@ Pagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­ mo, kad aplanky
     bis ipsis, mittentes nobis ex parte vestrorum omnium sollem-
     pnes nuncios veros et vnos (i) fi Je Jignos super manum nostram
     et super presens scriptum nostro regio sigillo roboratum.
-  citata_rodoma: |
-    Kadangi visos karalystės, iš kurių vieną mes valdome,
-    yra pavaldžios dangaus karaliui Jėzui Kristui tokiu būdu,
-    kaip forma materijai, o vergas namams, tai, nors iš visų ka­
-    ralių esame menkiausias [svetur], tačiau dievo apvaizda di­
-    džiausias savajame krašte, kur turime galią duoti nurody­
-    mus ir įsakinėti, pasmerkti ir pasigailėti, uždaryti ir atverti.
-    Pagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­
-    mo, kad aplankytumėte Naugardą, Pskovą; visa tai jums
-    leidome dėl busimosios naudos.
-    57
-
-    ## Puslapis 74
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    (*) vobis suos nuncios et litteras, aperuerunt vobis terram,
-    nullus vestrorum veniens aut canis ex parte eorum referens
-    grates Je preceptis, non vos terreant prescripta si ipsi unum
-    promiserunt Jomino annuente nos Jupla faciemus.
+  citata_rodoma: "Kadangi visos karalystės, iš kurių vieną mes valdome, \nyra pavaldžios dangaus karaliui Jėzui Kristui tokiu būdu, \nkaip forma materijai, o vergas namams, tai, nors iš visų ka­\nralių esame menkiausias [svetur], tačiau dievo apvaizda di­\ndžiausias savajame krašte, kur turime galią duoti nurody­\nmus ir įsakinėti, pasmerkti ir pasigailėti, uždaryti ir atverti.\nPagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­\nmo, kad aplankytumėte Naugardą, Pskovą; visa tai jums \nleidome dėl busimosios naudos.\n57\n\n## Puslapis 74\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\n(*) vobis suos nuncios et litteras, aperuerunt vobis terram, \nnullus vestrorum veniens aut canis ex parte eorum referens \ngrates Je preceptis, non vos terreant prescripta si ipsi unum \npromiserunt Jomino annuente nos Jupla faciemus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86304
+    - t-001

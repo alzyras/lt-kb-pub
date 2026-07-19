@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75121"></a>
-- t-001
-  global_id: t-75121
+- t-004
   teiginys: "Prieš 1940 m. Liaudies seimo rinkimus valdžia liepos 11–12 d. suėmė kelis šimtus žinomų Lietuvos veikėjų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-73037
 
 <a id="claim-t-75122"></a>
-- t-002
-  global_id: t-75122
+- t-001
   teiginys: "Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,9 +89,9 @@ Nenurodyta
   pagrindžia:
     - c-73036
     - c-166622
+
 <a id="claim-t-75123"></a>
-- t-003
-  global_id: t-75123
+- t-002
   teiginys: "Per Liaudies seimo rinkimų agitaciją valdžia daug dėmesio skyrė Antano Smetonos režimo kritikai ir niekinimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,8 +107,7 @@ Nenurodyta
     - c-73035
 
 <a id="claim-t-75124"></a>
-- t-004
-  global_id: t-75124
+- t-003
   teiginys: "Oficialiais duomenimis, 1940 m. liepos 14–15 d. rinkimuose į Liaudies seimą dalyvavo 95 proc. rinkėjų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,8 +126,7 @@ Nenurodyta
     - c-73034
 
 <a id="claim-t-183235"></a>
-- t-005
-  global_id: t-183235
+- t-006
   teiginys: "Prieš Liaudies seimo rinkimus, 1940 m. liepos 11–12 d., valdžia suėmė kelis šimtus žinomų šalies veikėjų."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -164,15 +160,15 @@ Nenurodyta
     11–12 dieną, valdžia suėmė kelis šimtus žinomų šalies veikėjų.
     Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies
     seimą dalyvavo 95 proc.
-  citata_rodoma: |
-    Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies
+  citata_rodoma: "Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75124
+    - t-003
+
 - id: c-73035
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -185,15 +181,15 @@ Nenurodyta
     išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
     kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-
     tininkai ir aukštus postus turėję valdininkai.
-  citata_rodoma: |
-    išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
+  citata_rodoma: "išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75123
+    - t-002
+
 - id: c-73036
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -207,15 +203,15 @@ Nenurodyta
     toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
     vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
     jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
-  citata_rodoma: |
-    toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
+  citata_rodoma: "toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75122
+    - t-001
+
 - id: c-73037
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -229,22 +225,15 @@ Nenurodyta
     L I E T U V O S  I S T O R I J A
     192
     iš jų 99,19 proc. balsavo už Lietuvos darbo liaudies sąjungos kandidatus.
-  citata_rodoma: |
-    Prieš pat rinkimus, liepos
-    11–12 dieną, valdžia suėmė kelis šimtus žinomų šalies veikėjų.
-    Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies
-    seimą dalyvavo 95 proc. (per rinkimus į pasus buvo dedami antspaudai),
-
-    L I E T U V O S  I S T O R I J A
-    192
-    iš jų 99,19 proc.
+  citata_rodoma: "Prieš pat rinkimus, liepos \n11–12 dieną, valdžia suėmė kelis šimtus žinomų šalies veikėjų.\nOficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies \nseimą dalyvavo 95 proc. (per rinkimus į pasus buvo dedami antspaudai),\n\nL I E T U V O S  I S T O R I J A\n192\niš jų 99,19 proc."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75121
+    - t-004
+
 - id: c-166622
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -258,10 +247,12 @@ Nenurodyta
     miręs) atstovavo mitologinei Lietuvos darbo liaudies sąjungai (LDLS).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-166623
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -280,4 +271,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183235
+    - t-006

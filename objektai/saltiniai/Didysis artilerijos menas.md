@@ -30,7 +30,6 @@ VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 115, „DIDYSIS ARTILERIJOS MENAS�
 
 <a id="claim-t-80759"></a>
 - t-001
-  global_id: t-80759
   teiginys: "Karolis Zikaras yra skyriaus „Didysis artilerijos menas“, prasidedančio 115 puslapyje, autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,15 +57,11 @@ VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 115, „DIDYSIS ARTILERIJOS MENAS�
     VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE
     p. 115, „DIDYSIS ARTILERIJOS MENAS“, Karolis Zikaras.
     p. 126, „TVANAS“, Karolis Zikaras.
-  citata_rodoma: |
-    53, „KOVOS SU KRYŽIUOČIAIS IKI VORSKSLOS MŪŠIO“, Romas Batūra.
-
-    VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE
-    p. 115, „DIDYSIS ARTILERIJOS MENAS“, Karolis Zikaras.
+  citata_rodoma: "53, „KOVOS SU KRYŽIUOČIAIS IKI VORSKSLOS MŪŠIO“, Romas Batūra.\n\nVAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE\np. 115, „DIDYSIS ARTILERIJOS MENAS“, Karolis Zikaras."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80759
+    - t-001

@@ -31,7 +31,6 @@ Nuo rašytojų neatsiliko Dailininkų sąjunga, ekonomistai ir filosofai.
 
 <a id="claim-t-19667"></a>
 - t-001
-  global_id: t-19667
   teiginys: "Sąjūdžio priešistorėje Dailininkų sąjunga įsitraukė į visuomeninį aktyvumą kartu su ekonomistais ir filosofais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,12 +64,11 @@ Nuo rašytojų neatsiliko Dailininkų sąjunga, ekonomistai ir filosofai.
     vos istorija mokyklose būtų dėstoma kaip pagrindinė istorijos pamokų tema,
     prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“. Nuo rašytojų
     neatsiliko Dailininkų sąjunga, ekonomistai ir filosofai.
-  citata_rodoma: |
-    prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“. Nuo rašytojų
+  citata_rodoma: "prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“. Nuo rašytojų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19667
+    - t-001

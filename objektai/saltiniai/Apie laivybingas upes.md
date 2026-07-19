@@ -7,10 +7,10 @@ datos:
   - '1631 m.'
 date_start: '1631'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ media_all_json: |-
 
 <a id="claim-t-202243"></a>
 - t-001
-  global_id: t-202243
   teiginys: "1631 m. Lietuvos Didžiosios Kunigaikštystės bajorų atstovai Respublikos seime pritarė, kad Lietuvai būtų taikoma konstitucija, kuri Lenkijoje veikusi jau seniai - konstitucija, pavadinta Apie laivybingas upes."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ media_all_json: |-
 
 <a id="claim-t-202244"></a>
 - t-002
-  global_id: t-202244
   teiginys: "Lietuvos Didžiosios Kunigaikštystės bajorų atstovai Respublikos seime pritarė, kad Lietuvai būtų taikoma konstitucija, kuri Lenkijoje veikusi jau seniai - konstitucija, pavadinta Apie laivybingas upes."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202243
+    - t-001
 
 - id: c-185591
   autorius: "Zigmantas Kiaupa"
@@ -95,4 +93,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202244
+    - t-002

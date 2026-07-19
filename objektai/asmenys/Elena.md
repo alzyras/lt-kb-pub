@@ -68,7 +68,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
 
 <a id="claim-t-54956"></a>
 - t-001
-  global_id: t-54956
   teiginys: "Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -88,7 +87,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
 
 <a id="claim-t-54957"></a>
 - t-002
-  global_id: t-54957
   teiginys: "1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -108,7 +106,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
 
 <a id="claim-t-54958"></a>
 - t-003
-  global_id: t-54958
   teiginys: "Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -125,7 +122,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
 
 <a id="claim-t-54959"></a>
 - t-004
-  global_id: t-54959
   teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -146,7 +142,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
 
 <a id="claim-t-54960"></a>
 - t-005
-  global_id: t-54960
   teiginys: "Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -164,7 +159,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
 
 <a id="claim-t-54961"></a>
 - t-006
-  global_id: t-54961
   teiginys: "Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -181,8 +175,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-55322
 
 <a id="claim-t-54962"></a>
-- t-007
-  global_id: t-54962
+- t-009
   teiginys: "1503 m. Aleksandras dovanojo Elenai Mogiliavo pilį jos gyvenimo laikui."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -201,25 +194,16 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-78769
 
 <a id="claim-t-54963"></a>
-- t-008
-  global_id: t-54963
+- t-010
   teiginys: "Aleksandro testamentas pavedė Žygimantui ir kitiems globoti Eleną bei jos teises."
-  atnaujinta: "2026-05-31 12:00"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elena (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-55324
+    - c-55321
 
 <a id="claim-t-82283"></a>
-- t-009
-  global_id: t-82283
+- t-011
   teiginys: "Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -239,8 +223,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-78766
 
 <a id="claim-t-82284"></a>
-- t-010
-  global_id: t-82284
+- t-018
   teiginys: "Aleksandras dovanojo Elenai Mogiliavo pilį prie Dniepro ir jai priklausančias valdas tik Elenos gyvenimo laikui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -257,8 +240,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-78769
 
 <a id="claim-t-82285"></a>
-- t-011
-  global_id: t-82285
+- t-017
   teiginys: "Aleksandras užrašė Elenai ir jos įpėdiniams Smolnėnus, Horodiščę, Losičius ir kitas valdas su jų priklausiniais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -275,8 +257,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-78767
 
 <a id="claim-t-82286"></a>
-- t-012
-  global_id: t-82286
+- t-014
   teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -296,8 +277,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-78765
 
 <a id="claim-t-82287"></a>
-- t-013
-  global_id: t-82287
+- t-015
   teiginys: "Karalienė Elena mirė Vilniuje 1513 m. ir buvo palaidota graikų apeigų koplyčioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -317,8 +297,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-78764
 
 <a id="claim-t-82288"></a>
-- t-014
-  global_id: t-82288
+- t-012
   teiginys: "1495 m. carui sutikus su vedybomis, sužadėtinė Elena kitų metų vasarį atvyko iš Maskvos į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -338,8 +317,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-55318
 
 <a id="claim-t-82289"></a>
-- t-015
-  global_id: t-82289
+- t-016
   teiginys: "Aleksandras dovanojo Elenai ir jos palikuonims Kniazičius, Teteriną, Popova Huros pilį ir kitas valdas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -355,8 +333,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-78768
 
 <a id="claim-t-82290"></a>
-- t-016
-  global_id: t-82290
+- t-013
   teiginys: "Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -484,6 +461,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-55318
@@ -513,8 +491,9 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54957
-    - t-82288
+    - t-002
+    - t-012
+
 - id: c-55319
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -534,7 +513,8 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54958
+    - t-003
+
 - id: c-55320
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -556,7 +536,8 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54959
+    - t-004
+
 - id: c-55321
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -578,7 +559,9 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54960
+    - t-005
+    - t-010
+
 - id: c-55322
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -609,7 +592,8 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54961
+    - t-006
+
 - id: c-55324
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -648,11 +632,10 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     mų bei teisių globą (protectio).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-54963
 - id: c-78763
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -672,7 +655,8 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82290
+    - t-013
+
 - id: c-78764
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -697,7 +681,8 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82287
+    - t-015
+
 - id: c-78765
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -712,22 +697,15 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
-  citata_rodoma: |
-    ) anoji sutartis su caru
-    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
-    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
-    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
-    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
-    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
-    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
-    savo atvykimą iškart pranešti pilininkui4 3  44.
+  citata_rodoma: ") anoji sutartis su caru \nbuvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės. \nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų \npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie \nsavo atvykimą iškart pranešti pilininkui4 3  44."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82286
+    - t-014
+
 - id: c-78766
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -747,25 +725,16 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
     lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
     kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
-  citata_rodoma: |
-    229
-
-    ## Puslapis 246
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­
-    kreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai
-    ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­
-    tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
-    džiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m.
+  citata_rodoma: "229\n\n## Puslapis 246\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nsu Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­\nkreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai \nir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­\ntarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­\ndžiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54956
-    - t-82283
+    - t-001
+    - t-011
+
 - id: c-78767
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -810,52 +779,15 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     successoribus, melius, et utilius, consultiusque videbitur ex­
     pedire. In quorum omnium fidem, et robur praesentibus si­
     gillum nostrum est subappensum.
-  citata_rodoma: |
-    Taip pat [dovanojame] turtą, va­
-    dinamą Smolnėnais, su visomis Smolnėnų ir Čirčinsko že­
-    mėmis ir visais Smolnėnų ir Čirčinsko žmonėmis, panašiai
-    ir dvarą, vadinamą Horodišče, ir Losičius su visomis Horo-
-    diščės ir Losičių žemėmis ir, žinoma, su visais kaimiečiais -
-    šios žemės kadaise priklausė Bełsko kunigaikščiui Semio­
-    nui. Taigi visą minėtą turtą ir aiškiai išvardintus dvarus
-    didžiajai kunigaikštienei, mūsų brangiausiai žmonai švie­
-    siajai Elenai davėme, dovanojome ir šiuo raštu duodame,
-    dovanojame, užrašome jai ir jos įpėdiniams amžinai ir vi­
-    sam laikui su visais žmonėmis ir visais bajorais, su viskuo,
-    kas šiems dvarams ar valdoms priklauso, su jų patarnavi­
-    mais ir darbais, žinoma, su činšais, pajamomis, mokesčiais
-    - ar grašiais, ar medumi, rinkliavomis, dvareliais, dirvomis
-    ir laukais, miškų aptvarais, krūmais, vandenimis, upėmis,
-    tvenkiniais, ežerais, upeliais, upeliūkščiais, žuvų kūdromis,
-    žūklavimu, malūnais ir jų produktais, miškais, šilais, gojais,
-    bitynais, bebrų, laukinių žvėrių ir paukščių medžiokle ir ap­
-    skritai su visomis pajamomis ir gėrybėmis, nuo seno toms
-    valdoms priklausančiomis ir paprastai mokamomis, nieko
-    iš jų nepaimant, ir su visais priklausiniais, priedėliais ir vi­
-    sais priedais, kad ir kokiu vardu jie vadintųsi, nuo seno mi­
-    nėtoms valdoms kokiu nors būdu pareinančiais, kurie buvo
-    ir dabar yra, ir ateityje kokiais nors būdais ar žmogiškos veik­
-    los dėka gali atsirasti ir didėti į plotį, į ilgį ir aplinkui, žiū­
-    rint, kaip pačios žemės savo sienomis yra apribotos ir api­
-    brėžtos, minėtajai šviesiajai poniai Elenai, didžiajai
-    kunigaikštienei ir jos teisėtiems įpėdiniams su visa domini­
-    jos ir nuosavybės teise turėti, laikyti, naudotis, taikiai ir
-    361
-
-    ## Puslapis 378
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    donandum, alienandum, et in suos, suorumque succesorum
-    usus beneplacitos convertendum, prout sibi, et suis legitimis
-    successoribus, melius, et utilius, consultiusque videbitur ex­
-    pedire.
+  citata_rodoma: "Taip pat [dovanojame] turtą, va­\ndinamą Smolnėnais, su visomis Smolnėnų ir Čirčinsko že­\nmėmis ir visais Smolnėnų ir Čirčinsko žmonėmis, panašiai \nir dvarą, vadinamą Horodišče, ir Losičius su visomis Horo- \ndiščės ir Losičių žemėmis ir, žinoma, su visais kaimiečiais - \nšios žemės kadaise priklausė Bełsko kunigaikščiui Semio­\nnui. Taigi visą minėtą turtą ir aiškiai išvardintus dvarus \ndidžiajai kunigaikštienei, mūsų brangiausiai žmonai švie­\nsiajai Elenai davėme, dovanojome ir šiuo raštu duodame, \ndovanojame, užrašome jai ir jos įpėdiniams amžinai ir vi­\nsam laikui su visais žmonėmis ir visais bajorais, su viskuo, \nkas šiems dvarams ar valdoms priklauso, su jų patarnavi­\nmais ir darbais, žinoma, su činšais, pajamomis, mokesčiais \n- ar grašiais, ar medumi, rinkliavomis, dvareliais, dirvomis \nir laukais, miškų aptvarais, krūmais, vandenimis, upėmis, \ntvenkiniais, ežerais, upeliais, upeliūkščiais, žuvų kūdromis, \nžūklavimu, malūnais ir jų produktais, miškais, šilais, gojais, \nbitynais, bebrų, laukinių žvėrių ir paukščių medžiokle ir ap­\nskritai su visomis pajamomis ir gėrybėmis, nuo seno toms \nvaldoms priklausančiomis ir paprastai mokamomis, nieko \niš jų nepaimant, ir su visais priklausiniais, priedėliais ir vi­\nsais priedais, kad ir kokiu vardu jie vadintųsi, nuo seno mi­\nnėtoms valdoms kokiu nors būdu pareinančiais, kurie buvo \nir dabar yra, ir ateityje kokiais nors būdais ar žmogiškos veik­\nlos dėka gali atsirasti ir didėti į plotį, į ilgį ir aplinkui, žiū­\nrint, kaip pačios žemės savo sienomis yra apribotos ir api­\nbrėžtos, minėtajai šviesiajai poniai Elenai, didžiajai \nkunigaikštienei ir jos teisėtiems įpėdiniams su visa domini­\njos ir nuosavybės teise turėti, laikyti, naudotis, taikiai ir\n361\n\n## Puslapis 378\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\ndonandum, alienandum, et in suos, suorumque succesorum \nusus beneplacitos convertendum, prout sibi, et suis legitimis \nsuccessoribus, melius, et utilius, consultiusque videbitur ex­\npedire."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82285
+    - t-017
+
 - id: c-78768
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -880,7 +812,8 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82289
+    - t-016
+
 - id: c-78769
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -919,47 +852,16 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     illustrissimam Helenam Reginam Consortem nostram haben­
     dum, tenendum, utifruendum pacifice, et quiete possidendum,
     sicut expressum est ad tempora vitae suae.
-  citata_rodoma: |
-    Amžinai dalykų atminčiai. Šiuo raštu skelbiame
-    visiems, kam dabar ar ateityje reikės žinoti, kad atsižvelg­
-    damas į šviesiausiosios karalienės, mūsų brangiausiosios
-    žmonos, ponios Elenos meilumą ir vedybinę ištikimybę ir
-    norėdamas ją apdovanoti ir pradžiuginti mūsų geradarybė,
-    jai dovanojome, užrašėme ir šiuo raštu duodame, užrašome
-    ir dovanojame tik tam laikui, kol bus gyva, Mogiliavo pilį,
-    stovinčią šalia Dniepro upės, su visomis žemėmis, ir kitas
-    valdas, prie šios pilies nuo seno esančias ir jai priklausan­
-    čias su žmonėmis ir jų patarnavimais bei darbais, činšais,
-    pajamomis, mokesčiais - ar grašiais, ar medumi, rinkliavo­
-    mis, dvareliais, dirvomis, laukais ir ganyklomis, gervuogių
-    krūmais, krūmynais, miškeliais, miškais, gojais, šilais, bity­
-    nais, bebrų, laukinių žvėrių ir paukščių medžiokle, miškų
-    aptvarais, krūmais, vandenimis, upėmis, tvenkiniais, eže­
-    rais, upeliais, upeliūkščiais, žuvingomis kūdromis, žūkla-
-    vimu, malūnais ir jų produktais, apskritai, su visais priklau-
-    siniais, priedėliais ir visais priedais, kad ir kokiu vardu jie
-    365
-
-    ## Puslapis 382
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    et appendicibus universis, quocunque nomine aliter nuncu­
-    patis, ad expressum castellum Mobilow quomodolibet ex an­
-    tiquo spectantibus; et pertinentibus, quae sunt, et in poste­
-    rum quocunque ingenio, ac industria bumana fieri, et angeri
-    possint, ita late, longe, et circumferentialiter prout ipsa bona
-    in suis graniciebus limitata sunt, et distincta per expressum —
-    illustrissimam Helenam Reginam Consortem nostram haben­
-    dum, tenendum, utifruendum pacifice, et quiete possidendum,
-    sicut expressum est ad tempora vitae suae.
+  citata_rodoma: "Amžinai dalykų atminčiai. Šiuo raštu skelbiame \nvisiems, kam dabar ar ateityje reikės žinoti, kad atsižvelg­\ndamas į šviesiausiosios karalienės, mūsų brangiausiosios \nžmonos, ponios Elenos meilumą ir vedybinę ištikimybę ir \nnorėdamas ją apdovanoti ir pradžiuginti mūsų geradarybė, \njai dovanojome, užrašėme ir šiuo raštu duodame, užrašome \nir dovanojame tik tam laikui, kol bus gyva, Mogiliavo pilį, \nstovinčią šalia Dniepro upės, su visomis žemėmis, ir kitas \nvaldas, prie šios pilies nuo seno esančias ir jai priklausan­\nčias su žmonėmis ir jų patarnavimais bei darbais, činšais, \npajamomis, mokesčiais - ar grašiais, ar medumi, rinkliavo­\nmis, dvareliais, dirvomis, laukais ir ganyklomis, gervuogių \nkrūmais, krūmynais, miškeliais, miškais, gojais, šilais, bity­\nnais, bebrų, laukinių žvėrių ir paukščių medžiokle, miškų \naptvarais, krūmais, vandenimis, upėmis, tvenkiniais, eže­\nrais, upeliais, upeliūkščiais, žuvingomis kūdromis, žūkla- \nvimu, malūnais ir jų produktais, apskritai, su visais priklau- \nsiniais, priedėliais ir visais priedais, kad ir kokiu vardu jie\n365\n\n## Puslapis 382\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\net appendicibus universis, quocunque nomine aliter nuncu­\npatis, ad expressum castellum Mobilow quomodolibet ex an­\ntiquo spectantibus; et pertinentibus, quae sunt, et in poste­\nrum quocunque ingenio, ac industria bumana fieri, et angeri \npossint, ita late, longe, et circumferentialiter prout ipsa bona \nin suis graniciebus limitata sunt, et distincta per expressum — \nillustrissimam Helenam Reginam Consortem nostram haben­\ndum, tenendum, utifruendum pacifice, et quiete possidendum, \nsicut expressum est ad tempora vitae suae."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54962
-    - t-82284
+    - t-009
+    - t-018
+
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Aleksandras Jogailaitis]]
 - Tėvai: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]

@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-19110"></a>
 - t-001
-  global_id: t-19110
   teiginys: "Liudvikas Rėza Karaliaučiuje išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,9 +60,8 @@ media_all_json: |-
 
 <a id="claim-t-188578"></a>
 - t-002
-  global_id: t-188578
   teiginys: "Narbutas nurodo, kad pono Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų lazdų paprotį."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -79,10 +77,9 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171467
-    - c-002
+
 <a id="claim-t-197424"></a>
 - t-003
-  global_id: t-197424
   teiginys: "Liudvikas Rėza sugrįžo jėzuitų pastangomis, valdant Zigmantui III."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -95,7 +92,6 @@ media_all_json: |-
 
 <a id="claim-t-197425"></a>
 - t-004
-  global_id: t-197425
   teiginys: "Liudvikas Rėza nesustodamas joja tolyn, rodydamas laimikį, kol išnyksta iš akių; kiti lydi mirusįjį iki laidojimo vietos."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -132,8 +128,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188578
+
 ## Citatos
 
 - id: c-21859
@@ -147,15 +142,15 @@ media_all_json: |-
     mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
     Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
     poe­ma „Metai“ (su vertimu į vokiečių kalbą).
-  citata_rodoma: |
-    Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
+  citata_rodoma: "Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19110
+    - t-001
+
 - id: c-171467
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -175,28 +170,15 @@ media_all_json: |-
     ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
     arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
     11 Sirvydo žodynas.
-  citata_rodoma: |
-    Jau ir šiaip žinome, ir anksčiau sakėme, kad
-    kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
-    8
-    Beje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie
-    tai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­
-    riuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­
-    reigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.
-    430
-
-    ## Puslapis 430
-
-    tyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­
-    nybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu
-    , koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose.
+  citata_rodoma: "Jau ir šiaip žinome, ir anksčiau sakėme, kad\nkažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8\n8\nBeje, daugiau už kitus Prūsijos ir Livonijos kronikininkus apie\ntai rašo Strijkovskis, kadangi jis turėjo rankose istorijos šaltinius, ku­\nriuose buvo žinomos tos ilgiausiai Lietuvoje gyvavusios aukštos pa­\nreigos ir todėl jie galėjo suteikti daugiau smulkesnių žinių.\n430\n\n## Puslapis 430\n\ntyrimai patvirtina, kad ir lietuvių įsakymų leidžiamoji vyres­\nnybė siųsdavo lazdas, kurios viršuje sukreivintos tokiu būdu\n, koks iki šiol tebegyvuoja Prūsų Lietuvos kaimuose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188578
+    - t-002
+
 - id: c-179178
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -215,7 +197,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197424
+    - t-003
+
 - id: c-179179
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -235,4 +218,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197425
+    - t-004

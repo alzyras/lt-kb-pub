@@ -34,8 +34,7 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
 ## Teiginiai
 
 <a id="claim-t-66254"></a>
-- t-001
-  global_id: t-66254
+- t-002
   teiginys: "Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,7 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
     - c-66562
 
 <a id="claim-t-66255"></a>
-- t-002
-  global_id: t-66255
+- t-001
   teiginys: "Zigmantas buvo įtraukęs vengrus į koaliciją prieš Lenkijos Karūną."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -69,8 +67,7 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
     - c-66561
 
 <a id="claim-t-184586"></a>
-- t-003
-  global_id: t-184586
+- t-005
   teiginys: "Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos prasidėjus karui prieš turkus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -191,7 +188,8 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66255
+    - t-001
+
 - id: c-66562
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -218,7 +216,8 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66254
+    - t-002
+
 - id: c-167947
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -240,23 +239,15 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
     Lietuvą pasiryžęs pasipelnyti
     1499 m eta i
     iš svetimos nelaimės.
-  citata_rodoma: |
-    Po to Lietuvos Didžiosios Kunigaikštystės
-    vardu sudarė taiką su Steponu, Valachijos valdovu,
-    bei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,
-    Vengrijos karaliaus, pastangomis lenkai, vengrai, če­
-    kai, lietuviai ir valachai sudarė sutartis, kuriomis ne
-    tik valdovai, bet ir visos jų karalystės bei žemės pa­
-    žadėjo viena kitą ginti, kai prasidės karas prieš turkus.
-    Dievobaimingas Aleksandro įstangas sužlugdė klas­
-    tingos Ivano pinklės.
+  citata_rodoma: "Po to Lietuvos Didžiosios Kunigaikštystės\nvardu sudarė taiką su Steponu, Valachijos valdovu,\nbei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,\nVengrijos karaliaus, pastangomis lenkai, vengrai, če­\nkai, lietuviai ir valachai sudarė sutartis, kuriomis ne\ntik valdovai, bet ir visos jų karalystės bei žemės pa­\nžadėjo viena kitą ginti, kai prasidės karas prieš turkus.\nDievobaimingas Aleksandro įstangas sužlugdė klas­\ntingos Ivano pinklės."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184586
+    - t-005
+
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lietuviai]]
 - Kariavo prieš: [[objektai/asmenys/Jonas Olbrachtas]]

@@ -31,7 +31,6 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 
 <a id="claim-t-40036"></a>
 - t-001
-  global_id: t-40036
   teiginys: "Antonievičius buvo paskirtas vieno iš batalionų vadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 
 <a id="claim-t-40037"></a>
 - t-002
-  global_id: t-40037
   teiginys: "Antonievičius kartu su D. Maleckiu užėmė pozicijas centre."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 
 <a id="claim-t-40038"></a>
 - t-003
-  global_id: t-40038
   teiginys: "Majoras Antonievičius žuvo, kai sukilėliai dvi valandas atkakliai priešinosi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,22 +97,15 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
     stovėjo P. Vivulskio dalginin-
     kai ir dvi rezervinės 4-tojo ba-
     taliono kuopos.
-  citata_rodoma: |
-    Kairiame sparne stovėjo
-    B. Kolyškos bei M. Stanišausko
-    batalionai, centre pozici-
-    jas užsiėmė Antonievičius ir
-    D. Maleckis, dešiniajame sparne
-    stovėjo P. Vivulskio dalginin-
-    kai ir dvi rezervinės 4-tojo ba-
-    taliono kuopos.
+  citata_rodoma: "Kairiame sparne stovėjo\nB. Kolyškos bei M. Stanišausko\nbatalionai, centre pozici-\njas užsiėmė Antonievičius ir\nD. Maleckis, dešiniajame sparne\nstovėjo P. Vivulskio dalginin-\nkai ir dvi rezervinės 4-tojo ba-\ntaliono kuopos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40037
+    - t-002
+
 - id: c-44287
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -132,21 +122,15 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
     mjr. P. Vivulskį ir žuvus ba-
     talionų vadams majorams
     Antonievičiui, B. Žarskiui.
-  citata_rodoma: |
-    Atkakliai priešindamiesi
-    sukilėliai išsilaikė dvi valan-
-    das, tačiau jų veiksmai pakriko
-    sužeidus vadą Z. Sierakauską,
-    mjr. P. Vivulskį ir žuvus ba-
-    talionų vadams majorams
-    Antonievičiui, B. Žarskiui.
+  citata_rodoma: "Atkakliai priešindamiesi\nsukilėliai išsilaikė dvi valan-\ndas, tačiau jų veiksmai pakriko\nsužeidus vadą Z. Sierakauską,\nmjr. P. Vivulskį ir žuvus ba-\ntalionų vadams majorams\nAntonievičiui, B. Žarskiui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40038
+    - t-003
+
 - id: c-44288
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -161,20 +145,11 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
     nievskis, S. Kozakauskas, D. Maleckis,
 
     K. Maleckis, M. Stanišauskas.
-  citata_rodoma: |
-    Batalionų vadais
-
-    buvo paskirti: B. Žarskis, J. Radavičius,
-
-    A. Mackevičius, Antonievičius, E. Vžes-
-
-    nievskis, S. Kozakauskas, D. Maleckis,
-
-    K. Maleckis, M. Stanišauskas.
+  citata_rodoma: "Batalionų vadais\n\nbuvo paskirti: B. Žarskis, J. Radavičius,\n\nA. Mackevičius, Antonievičius, E. Vžes-\n\nnievskis, S. Kozakauskas, D. Maleckis,\n\nK. Maleckis, M. Stanišauskas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40036
+    - t-001

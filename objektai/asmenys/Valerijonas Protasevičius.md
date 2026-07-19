@@ -40,8 +40,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 ## Teiginiai
 
 <a id="claim-t-114001"></a>
-- t-001
-  global_id: t-114001
+- t-015
   teiginys: "1579 m. kovo 6 d. Valerijonas Protasevičius fundacijos teise užrašė Akademijai ir kolegijai tris mūrinius namus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-105180
 
 <a id="claim-t-114002"></a>
-- t-002
-  global_id: t-114002
+- t-024
   teiginys: "1569 m. spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-105183
 
 <a id="claim-t-114003"></a>
-- t-003
-  global_id: t-114003
+- t-026
   teiginys: "Vilniaus vyskupas Valerijonas Protasevičius paprieštaravo, kad į sutartį būtų įtraukta sąlyga dėl Augustino tikėjimo laisvo išpažinimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,8 +93,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-105182
 
 <a id="claim-t-114004"></a>
-- t-004
-  global_id: t-114004
+- t-011
   teiginys: "Vilniaus vyskupas Valerijonas Protasevičius siekė sutrukdyti protestantų ketinimui įkurti kolegiją."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -113,8 +109,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-22047
 
 <a id="claim-t-114005"></a>
-- t-005
-  global_id: t-114005
+- t-020
   teiginys: "Valerijonas Protasevičius įsakė surinktas disidentų knygas viešai deginti priešais Šv. Jono bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,8 +118,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-105173
 
 <a id="claim-t-114006"></a>
-- t-006
-  global_id: t-114006
+- t-016
   teiginys: "Valerijonas Protasevičius 1556 m. buvo perkeltas į Vilniaus katedrą ir mirė 1579 m. gruodžio 21 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -143,8 +137,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-105174
 
 <a id="claim-t-114007"></a>
-- t-007
-  global_id: t-114007
+- t-017
   teiginys: "Valerijonas Protasevičius Vilniuje palaimino Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -160,8 +153,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-105187
 
 <a id="claim-t-114008"></a>
-- t-008
-  global_id: t-114008
+- t-021
   teiginys: "Valerijonas Protasevičius paprieštaravo, kad religijos laisvės sąlyga būtų įtraukta į sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -177,8 +169,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-105178
 
 <a id="claim-t-114009"></a>
-- t-009
-  global_id: t-114009
+- t-019
   teiginys: "Valerijonas Protasevičius įsteigė neturtingiems studentams Valerijono bursą ir padovanojo jai tris mūrinius namus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -194,8 +185,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-105175
 
 <a id="claim-t-114010"></a>
-- t-010
-  global_id: t-114010
+- t-012
   teiginys: "Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui Vilniuje įkurti kolegiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -214,8 +204,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-16728
 
 <a id="claim-t-114011"></a>
-- t-011
-  global_id: t-114011
+- t-028
   teiginys: "1579 m. Vilniuje duotą Bursos įkūrėjo atminimo aktą vyskupas Valerijonas pasirašė savo ranka."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -234,8 +223,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-105179
 
 <a id="claim-t-114012"></a>
-- t-012
-  global_id: t-114012
+- t-010
   teiginys: "Valerijonas Protasevičius buvo Vilniaus vyskupas."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -251,8 +239,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-22047
 
 <a id="claim-t-114013"></a>
-- t-013
-  global_id: t-114013
+- t-027
   teiginys: "Valerijonas Protasevičius atmetė katalikų tikėjimui prieštaraujančias sąlygas ir ragino valdovą su jomis nesutikti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -262,7 +249,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 
 <a id="claim-t-114014"></a>
 - t-014
-  global_id: t-114014
   teiginys: "1569 m. spalio 4 d. Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -281,8 +267,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-105183
 
 <a id="claim-t-114015"></a>
-- t-015
-  global_id: t-114015
+- t-022
   teiginys: "Valerijonas Protasevičius atmetė katalikų tikėjimui prieštaraujančias sąlygas ir ragino su jomis nesutikti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -298,8 +283,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-105184
 
 <a id="claim-t-114016"></a>
-- t-016
-  global_id: t-114016
+- t-013
   teiginys: "1579 m. balandžio 1 d. Steponas Batoras parėmė vyskupo Valerijono Protasevičiaus sumanymą ir pastangas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -318,8 +302,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-105181
 
 <a id="claim-t-114017"></a>
-- t-017
-  global_id: t-114017
+- t-029
   teiginys: "Valerijonas Protasevičius 1569 metais pirmasis pakvietė jėzuitų ordiną į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -335,8 +318,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - c-105176
 
 <a id="claim-t-114018"></a>
-- t-018
-  global_id: t-114018
+- t-025
   teiginys: "Valerijonas Protasevičius fundavo ir aprūpino jėzuitų kolegiją, kurią karalius pakėlė iki universiteto laipsnio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -392,7 +374,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114010
+    - t-012
+
 - id: c-22047
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -405,18 +388,16 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     reformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas
     Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
     mui įkurti kolegiją.
-  citata_rodoma: |
-    Lietuvos katalikai – ir pats Vilniaus vyskupas
-    Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
-    mui įkurti kolegiją.
+  citata_rodoma: "Lietuvos katalikai – ir pats Vilniaus vyskupas\nValerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-\nmui įkurti kolegiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114004
-    - t-114012
+    - t-011
+    - t-010
+
 - id: c-105173
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -436,7 +417,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114005
+    - t-020
+
 - id: c-105174
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -454,7 +436,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114006
+    - t-016
+
 - id: c-105175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -479,8 +462,9 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114009
-    - t-114018
+    - t-019
+    - t-025
+
 - id: c-105176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -508,7 +492,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114017
+    - t-029
+
 - id: c-105177
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -534,7 +519,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114013
+    - t-027
+
 - id: c-105178
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -562,33 +548,15 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     rint, integra conservare, idem nobis quoq. faciendum duxi­
     mus, atq. id eo etiam magis, quod illae Praefecturae solo pig­
     noris, ac non perpetui dominii Jure nobis tradi debent.
-  citata_rodoma: |
-    Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­
-    rie mums su pačiomis apskritimis atitektų, šventomis apei­
-    gomis, taip pat su papročiais ir ypač religija, išpažįstančia
-    Augustino tikėjimą, leistume laisvai naudotis. Tėvas ponas
-    Valerijonas, Vilniaus vyskupas, vykdydamas savo prievolę
-    ir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos
-    įtraukti į sutartį. Ir nors mes patys tokios pat nuomonės, nie-
-    ku gyvu nenorėtumėme, kad kam nors pasirodytų, jog ga­
-    lėjome duoti sutikimą, vadovaudamiesi kokiais nors sveti­
-    mais šventajai Bažnyčiai įstatymais, tačiau mums buvo
-    žinomas krikščionių valdovų paprotys toms priimtoms
-    325
-
-    ## Puslapis 342
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    Principum, in iis populis, qui sese ad illorum fidem conferre
-    solent, recipiendis consvetudo, solere sc-t illos cum omnia
-    eorum Jūra, tum religionis atq.
+  citata_rodoma: "Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­\nrie mums su pačiomis apskritimis atitektų, šventomis apei­\ngomis, taip pat su papročiais ir ypač religija, išpažįstančia\nAugustino tikėjimą, leistume laisvai naudotis. Tėvas ponas\nValerijonas, Vilniaus vyskupas, vykdydamas savo prievolę\nir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos\nįtraukti į sutartį. Ir nors mes patys tokios pat nuomonės, nie-\nku gyvu nenorėtumėme, kad kam nors pasirodytų, jog ga­\nlėjome duoti sutikimą, vadovaudamiesi kokiais nors sveti­\nmais šventajai Bažnyčiai įstatymais, tačiau mums buvo\nžinomas krikščionių valdovų paprotys toms priimtoms\n325\n\n## Puslapis 342\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nPrincipum, in iis populis, qui sese ad illorum fidem conferre\nsolent, recipiendis consvetudo, solere sc-t illos cum omnia\neorum Jūra, tum religionis atq."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114008
+    - t-021
+
 - id: c-105179
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -640,7 +608,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114011
+    - t-028
+
 - id: c-105180
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -662,7 +631,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114001
+    - t-015
+
 - id: c-105181
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -678,7 +648,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114016
+    - t-013
+
 - id: c-105182
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -705,7 +676,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114003
+    - t-026
+
 - id: c-105183
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -721,24 +693,16 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     1578 metais Karalius Steponas Batoras, šias funduotas mo­
     kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­
     mijoms, o išskirtinai Krokuvos, prilygino.
-  citata_rodoma: |
-    G) Apie kai kuriuos Akademijai ir
-    Valerijono bursai funduotus turtus
-    •
-    1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Pro-
-    tasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fun-
-    davo ir įsteigė įvairių mokslų viešąsias mokyklas.
-    1578 metais Karalius Steponas Batoras, šias funduotas mo­
-    kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­
-    mijoms, o išskirtinai Krokuvos, prilygino.
+  citata_rodoma: "G) Apie kai kuriuos Akademijai ir\nValerijono bursai funduotus turtus\n•\n1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Pro-\ntasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fun-\ndavo ir įsteigė įvairių mokslų viešąsias mokyklas.\n1578 metais Karalius Steponas Batoras, šias funduotas mo­\nkyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­\nmijoms, o išskirtinai Krokuvos, prilygino."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114002
-    - t-114014
+    - t-024
+    - t-014
+
 - id: c-105184
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -764,7 +728,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114015
+    - t-022
+
 - id: c-105187
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -777,16 +742,11 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­
     gusto seserimi.
     —  •  .
-  citata_rodoma: |
-    Jis taip pat palaimino Vilniuje Suomijos
-    kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi,
-    santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­
-    gusto seserimi.
-    —  •  .
+  citata_rodoma: "Jis taip pat palaimino Vilniuje Suomijos\nkunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi,\nsantuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­\ngusto seserimi.\n—  •  ."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114007
+    - t-017

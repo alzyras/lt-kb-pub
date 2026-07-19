@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66853"></a>
-- t-001
-  global_id: t-66853
+- t-002
   teiginys: "Romo Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Nenurodyta
     - c-66963
 
 <a id="claim-t-183269"></a>
-- t-002
-  global_id: t-183269
+- t-003
   teiginys: "1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -104,15 +102,15 @@ Nenurodyta
     vės – jaunuolis buvo sąmoningas ir suvokė savo veiksmus.
     R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
     klausimą.
-  citata_rodoma: |
-    R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
+  citata_rodoma: "R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66853
+    - t-002
+
 - id: c-166658
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -130,4 +128,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183269
+    - t-003

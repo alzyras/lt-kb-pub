@@ -38,7 +38,6 @@ Boissonade, P.
 
 <a id="claim-t-30891"></a>
 - t-001
-  global_id: t-30891
   teiginys: "P. Boissonade 1923 m. Paryžiuje paskelbė darbą „Du nouveau sur la Chanson de Roland“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,14 +80,11 @@ Boissonade, P.
     K. : _Die litauisch-weissrussischen Beziehungen und ihr Alter,_ Ze’tsehr.
     für slawsche Philologie, hgg. von M. Vasmer, I, 1925, 26-55 p. — En-
     dzelin, J.: _Altpreussische Grammatik,_ Riga 1944.
-  citata_rodoma: |
-    — Boissonade, P. :
-    _Du nouveau sur la Chanson de Roland_ , Par's 1923, 171-174 p. — Būga,
-    K.
+  citata_rodoma: "— Boissonade, P. :\n_Du nouveau sur la Chanson de Roland_ , Par's 1923, 171-174 p. — Būga,\nK."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30891
+    - t-001

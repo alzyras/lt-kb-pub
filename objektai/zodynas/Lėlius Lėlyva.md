@@ -31,7 +31,6 @@ Narbutas Lėlių ir Lėlę laikė dvyniais, pamirštos deivės vaikais, kuriuos 
 
 <a id="claim-t-189159"></a>
 - t-001
-  global_id: t-189159
   teiginys: "Narbutas Lėlių ir Lėlę laikė dvyniais, pamirštos deivės vaikais, kuriuos siejo su Lada, Latona, Apolonu ir Diana."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Narbutas Lėlių ir Lėlę laikė dvyniais, pamirštos deivės vaikais, kuriuos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189159
+    - t-001

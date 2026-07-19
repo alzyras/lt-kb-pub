@@ -44,7 +44,6 @@ media_all_json: |-
 
 <a id="claim-t-69216"></a>
 - t-001
-  global_id: t-69216
   teiginys: "Šiaurės rytuose valstybė siekė Volgos aukštupių ties Rževu."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ media_all_json: |-
 
 <a id="claim-t-69217"></a>
 - t-002
-  global_id: t-69217
   teiginys: "Algirdas dar 1356 m. tvirtinosi Volgos aukštupyje, Rževe, ir atakavo Brianską bei Smolenską."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,6 @@ media_all_json: |-
 
 <a id="claim-t-184397"></a>
 - t-003
-  global_id: t-184397
   teiginys: "Iki Algirdo mirties Lietuvos valstybė šiaurės rytuose siekė Volgos aukštupių ties Rževu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -136,7 +133,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69216
+    - t-001
+
 - id: c-68610
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -148,16 +146,15 @@ media_all_json: |-
     Smolenską, 0 1359 m. užėmė Mstislavlį susidūrimo.
     (piečiau Smolensko) ir galutinai įsitvirtino
     Mūšio priešistorė Rževe. Kiek anksčiau, apie 1357-1358 m.
-  citata_rodoma: |
-    (piečiau Smolensko) ir galutinai įsitvirtino
-    Mūšio priešistorė Rževe. Kiek anksčiau, apie 1357-1358 m.
+  citata_rodoma: "(piečiau Smolensko) ir galutinai įsitvirtino\nMūšio priešistorė Rževe. Kiek anksčiau, apie 1357-1358 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69217
+    - t-002
+
 - id: c-167763
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -175,4 +172,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184397
+    - t-003

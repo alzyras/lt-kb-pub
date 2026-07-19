@@ -38,8 +38,7 @@ Trumpa, V. Trumpa: Jonynas I ., LE 9 t., 478 p. (^83) A.
 ## Teiginiai
 
 <a id="claim-t-31048"></a>
-- t-001
-  global_id: t-31048
+- t-002
   teiginys: "V. Trumpa parašė Lietuvių enciklopedijos straipsnį apie I. Jonyną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Trumpa, V. Trumpa: Jonynas I ., LE 9 t., 478 p. (^83) A.
     - c-33183
 
 <a id="claim-t-31049"></a>
-- t-002
-  global_id: t-31049
+- t-001
   teiginys: "V. Trumpa parašė straipsnį „Lietuvos istorikų darbai ir dienos“, paskelbtą žurnale „Aidai“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,16 +84,15 @@ Trumpa, V. Trumpa: Jonynas I ., LE 9 t., 478 p. (^83) A.
     _Lietuvos istorikų darbai ir dienos,_ Aidai, 1960, nr. 6, 258-263 p. — Trum­
     pa, V. : _Istoriniai laikai,_ LE, t. 9, 124-125 p. — Varakauskas, R. :
     _Lietuvos valstybės susidarymo klausimu_ (IstV, t. 10, 1969, 169-180 p.).
-  citata_rodoma: |
-    — Trumpa, V. :
-    _Lietuvos istorikų darbai ir dienos,_ Aidai, 1960, nr. 6, 258-263 p.
+  citata_rodoma: "— Trumpa, V. :\n_Lietuvos istorikų darbai ir dienos,_ Aidai, 1960, nr. 6, 258-263 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31049
+    - t-001
+
 - id: c-33183
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -105,15 +102,11 @@ Trumpa, V. Trumpa: Jonynas I ., LE 9 t., 478 p. (^83) A.
 
     (^82) **V. Trumpa:** **_Jonynas I_** **., LE 9 t., 478 p.**
     (^83) **A. Plateris :** **_Janulaitis mokslininkas_** **, LE 9 t., 293 p.**
-  citata_rodoma: |
-    Šalia bendros Bažnyčios ir Lietuvos
-
-    (^82) **V. Trumpa:** **_Jonynas I_** **., LE 9 t., 478 p.**
-    (^83) **A.
+  citata_rodoma: "Šalia bendros Bažnyčios ir Lietuvos\n\n(^82) **V. Trumpa:** **_Jonynas I_** **., LE 9 t., 478 p.**\n(^83) **A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31048
+    - t-002

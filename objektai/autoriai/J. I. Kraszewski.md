@@ -28,7 +28,6 @@ Basanavičiaus teigimu, J. I. Kraszewski anksčiau save laikė lietuviu, nors ap
 
 <a id="claim-t-200885"></a>
 - t-001
-  global_id: t-200885
   teiginys: "Basanavičiaus teigimu, J. I. Kraszewski anksčiau save laikė lietuviu, nors apie Lietuvą rašė lenkiškai, o vėliau save laikė lietuviu-lenku."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Basanavičiaus teigimu, J. I. Kraszewski anksčiau save laikė lietuviu, nors ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200885
+    - t-001

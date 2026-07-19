@@ -30,8 +30,7 @@ Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę
 ## Teiginiai
 
 <a id="claim-t-67320"></a>
-- t-001
-  global_id: t-67320
+- t-002
   teiginys: "Lietuvos pripažinimą tautine valstybe autoriai apibūdina kaip įvykusį „nepriklausomybės stebuklą“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,12 +58,11 @@ Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę
     sidalijo Lenkija ir Sovietų Rusija. Pirmąsias sutartis Lietuva pasirašė kaip
     tautinė valstybė ir buvo tokia pripažinta – nepriklausomybės stebuklas
     įvyko.
-  citata_rodoma: |
-    sidalijo Lenkija ir Sovietų Rusija. Pirmąsias sutartis Lietuva pasirašė kaip
+  citata_rodoma: "sidalijo Lenkija ir Sovietų Rusija. Pirmąsias sutartis Lietuva pasirašė kaip"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67320
+    - t-002

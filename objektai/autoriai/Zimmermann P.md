@@ -35,13 +35,43 @@ media_all_json: |-
 
 Dusburgietis teigia, kad zimmermann P.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'P. Zimmermannas 1925 m. Labguvoje paskelbė Labguvos apskrities istoriją iki maždaug 1500 metų.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
+    1925.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-61460
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Рыбаков Б. А. Киевская Русь и русские княжества XII— XIII вв. — М., 1982.
+    Савукинас Б. К проблеме западнобалтийского субстрата в югозападной Литве.
+  citata_rodoma: "Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,\n1925."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-60828"></a>
 - t-001
-  global_id: t-60828
   teiginys: "P. Zimmermannas 1925 m. Labguvoje paskelbė Labguvos apskrities istoriją iki maždaug 1500 metų."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Labguva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -56,37 +86,3 @@ Dusburgietis teigia, kad zimmermann P.
   temporalinis_llm_pakomentavimas: "Citata pateikia aiškų autoriaus knygos bibliografinį įrašą."
   pagrindžia:
     - c-61460
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'P. Zimmermannas 1925 m. Labguvoje paskelbė Labguvos apskrities istoriją iki maždaug 1500 metų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
-    1925.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60828
-## Citatos
-
-- id: c-61460
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
-    1925.
-  citata_rodoma: |
-    Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
-    1925.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-60828

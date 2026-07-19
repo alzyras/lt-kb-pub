@@ -38,8 +38,7 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
 ## Teiginiai
 
 <a id="claim-t-67443"></a>
-- t-001
-  global_id: t-67443
+- t-002
   teiginys: "Lietuvos metraštis Vytauto lūpomis aiškino, kad Jogailos žygis sukėlė Lietuvoje nepasitenkinimą dėl svetimųjų valdymo."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
     - c-67342
 
 <a id="claim-t-67444"></a>
-- t-002
-  global_id: t-67444
+- t-001
   teiginys: "Plačiausia „Lietuvos Metraščio“ redakcija XVI a. antroje pusėje naudota Lietuvos istorijai pradėti nuo Nerono laikų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
 
 <a id="claim-t-67445"></a>
 - t-003
-  global_id: t-67445
   teiginys: "72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +88,6 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
 
 <a id="claim-t-193751"></a>
 - t-004
-  global_id: t-193751
   teiginys: "79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -122,7 +118,8 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67443
+    - t-002
+
 - id: c-67343
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -145,7 +142,8 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67444
+    - t-001
+
 - id: c-67344
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -158,7 +156,8 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67445
+    - t-003
+
 - id: c-176411
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -171,4 +170,4 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193751
+    - t-004

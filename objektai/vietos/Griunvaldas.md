@@ -44,8 +44,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
 ## Teiginiai
 
 <a id="claim-t-63395"></a>
-- t-001
-  global_id: t-63395
+- t-006
   teiginys: "1410 m. liepos 15 d. Griunvaldo apylinkėse Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,8 +65,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     - c-64433
 
 <a id="claim-t-193184"></a>
-- t-002
-  global_id: t-193184
+- t-007
   teiginys: "Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     - c-175928
 
 <a id="claim-t-193658"></a>
-- t-003
-  global_id: t-193658
+- t-008
   teiginys: "LDK politinės tautos prielaidas kūrė LDK karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -93,8 +90,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     - c-176327
 
 <a id="claim-t-193764"></a>
-- t-004
-  global_id: t-193764
+- t-009
   teiginys: "NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS p. 16-17, Žalgirio mūšio inscenizacija, Griunvaldas, Lenkija."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -106,8 +102,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     - c-176420
 
 <a id="claim-t-194948"></a>
-- t-005
-  global_id: t-194948
+- t-010
   teiginys: "Ir kai karalius ėjo mels tis (galėjo būti ryto kokia 10 valanda), jam buvo pranešta, kad Grünvaldo (Žalgirio) apylinkėse pasirodžiusi priešų vėliava, po jos ir kita."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -140,23 +135,15 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     2 1410 m. liepos 15 d. sutriuškino Kryžiuočių (dar vadinamo Vokiečių arba Teutonų) ordino kariuomenę viename didžiausių /**
     Europos viduramžių mūšyje. Ši pergalė padėjo Lietuvai įtvirtinti savo, kaip pilnavertės Europos valstybės, statusą.
     Oficialiai Lietuva pasikrikštijo dar 1387 m., tačiau Ordinas šį faktą ignoravo ir toliau puolė Lietuvą kovos prieš pagonis
-  citata_rodoma: |
-    Lietuvos mūšiai 15
-
-    ## Puslapis 18
-
-    AG Li;
-
-    Žalgirio mūšio inscenizacija Griunvaldo apylinkėse Lenkijoje: Lietuvos kariuomenė, kartu su sąjungininkais lenkais; |
-
-    2 1410 m.
+  citata_rodoma: "Lietuvos mūšiai 15\n\n## Puslapis 18\n\nAG Li;\n\nŽalgirio mūšio inscenizacija Griunvaldo apylinkėse Lenkijoje: Lietuvos kariuomenė, kartu su sąjungininkais lenkais; |\n\n2 1410 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63395
+    - t-006
+
 - id: c-175928
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -172,7 +159,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193184
+    - t-007
+
 - id: c-176327
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -191,7 +179,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193658
+    - t-008
+
 - id: c-176420
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -206,7 +195,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193764
+    - t-009
+
 - id: c-177344
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -226,4 +216,4 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194948
+    - t-010

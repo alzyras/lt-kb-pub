@@ -39,7 +39,6 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
 
 <a id="claim-t-60665"></a>
 - t-001
-  global_id: t-60665
   teiginys: "M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
 
 <a id="claim-t-60666"></a>
 - t-002
-  global_id: t-60666
   teiginys: "M. Toeppenas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir rytinėje pusėje įrengė didelį papilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,9 +76,8 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
 
 <a id="claim-t-60667"></a>
 - t-003
-  global_id: t-60667
   teiginys: "Sembos pusiasalio pietvakarių kampas (Тоерреn M., Historisch.., p. 21)."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Semba: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -93,7 +90,7 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-61298
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Sembos pusiasalio pietvakarių kampas (Тоерреn M., Historisch.., p. 21).'
@@ -106,8 +103,7 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60667
+
 ## Citatos
 
 - id: c-61297
@@ -130,7 +126,8 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60666
+    - t-002
+
 - id: c-61298
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -141,16 +138,15 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
     114 (109). Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje
     Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu
     Vaistotpilis389.
-  citata_rodoma: |
-    385 D.— Wiclantsort, Jer.— Witlandisort. Turbūt Vitlando galas, t. y. Sembos pusiasalio
-    pietvakarių kampas (Тоерреn M., Historisch.., p. 21).
+  citata_rodoma: "385 D.— Wiclantsort, Jer.— Witlandisort. Turbūt Vitlando galas, t. y. Sembos pusiasalio\npietvakarių kampas (Тоерреn M., Historisch.., p. 21)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60667
+    - t-003
+
 - id: c-61299
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -169,4 +165,4 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60665
+    - t-001

@@ -41,8 +41,7 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
 ## Teiginiai
 
 <a id="claim-t-58558"></a>
-- t-001
-  global_id: t-58558
+- t-002
   teiginys: "Ilienburgas buvo vėlesnis Gilgenburgas, dabartinis Dąbrównas, sąsmaukoje tarp dviejų ežerų senoje Sasnos žemėje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,10 +60,9 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
     - c-59190
 
 <a id="claim-t-58559"></a>
-- t-002
-  global_id: t-58559
+- t-001
   teiginys: "Kristburgo komtūras Luterbergas pastatė miestą prie Ilienburgo pilies."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baiga: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -76,7 +74,6 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59191
-    - c-002
 - susijęs iš [[objektai/asmenys/Luterbergas.md#claim-t-60168|Luterbergas]]: Luterbergas, Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras, pastatė miestą prie Ilienburgo pilies.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59949|Ditrichas iš Altenburgo]]: Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.
 - susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-183941|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
@@ -101,8 +98,7 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58559
+
 ## Citatos
 
 - id: c-59190
@@ -122,7 +118,8 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58558
+    - t-002
+
 - id: c-59191
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -136,21 +133,11 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
     Henriko VI laikais (Dusb. I, 2).
     Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
     III (Ptol.
-  citata_rodoma: |
-    Be
-    to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,
-    jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
-    Ilienburgo [Ilijos] pilies595.
-
-
-
-
-
-      593 D.
+  citata_rodoma: "Be\nto, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,\njo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie\nIlienburgo [Ilijos] pilies595.\n\n\n\n\n\n  593 D."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58559
+    - t-001

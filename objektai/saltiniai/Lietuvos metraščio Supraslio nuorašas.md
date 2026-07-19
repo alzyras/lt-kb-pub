@@ -28,7 +28,6 @@ Lietuviškų šaltinių Daukantas tuomet žinojo ma žai.
 
 <a id="claim-t-201440"></a>
 - t-001
-  global_id: t-201440
   teiginys: "Lietuviškų šaltinių Daukantas tuomet žinojo ma žai."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Lietuviškų šaltinių Daukantas tuomet žinojo ma žai.
 ## Citatos
 
 - id: c-184790
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lietuviškų šaltinių Daukantas tuomet žinojo ma­
     žai. Vienintelį kartą jis mini Lietuvos metraščio Su-
@@ -57,4 +57,4 @@ Lietuviškų šaltinių Daukantas tuomet žinojo ma žai.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201440
+    - t-001

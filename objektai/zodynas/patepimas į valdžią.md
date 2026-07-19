@@ -32,7 +32,6 @@ Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ dž
 
 <a id="claim-t-86606"></a>
 - t-001
-  global_id: t-86606
   teiginys: "Vilniuje Vytautas iš Vilniaus vyskupo Andriaus Važilo gavo patepimą tapti Lietuvos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ dž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86606
+    - t-001

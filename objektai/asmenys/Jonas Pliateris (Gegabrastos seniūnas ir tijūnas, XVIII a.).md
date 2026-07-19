@@ -26,33 +26,10 @@ media_all_json: |-
 
 Jonas Pliateris buvo Gegabrastos seniūnas ir tijūnas. Jonas Pliateris tuo metu buvo Vilniuje kartu su Antanu Davainiu Solohubu, Brigita Petronėle ir Jurgiu Abramovičiumi.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-200515"></a>
-- t-001
-  global_id: t-200515
-  teiginys: 'Jonas Pliateris buvo Gegabrastos seniūnas ir tijūnas.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Jono Pliaterio pareigas. Citata tiesiogiai nurodo tijūną ir Gegabrastos seniūną Joną Pliaterį.'
-  pagrindžia:
-    - c-183870
-
-<a id="claim-t-200516"></a>
-- t-002
-  global_id: t-200516
-  teiginys: 'Jonas Pliateris tuo metu buvo Vilniuje kartu su Antanu Davainiu Solohubu, Brigita Petronėle ir Jurgiu Abramovičiumi.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pataisyta sakinio pradžia ir išskleistas „kartu su kitais“ kontekstas. Karnavalo metu formuluotė sušvelninta, nes citata tiesiogiai nurodo buvimą Vilniuje.'
-  pagrindžia:
-    - c-183870
-- susijęs iš [[objektai/asmenys/Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.).md#claim-t-200521|Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.)]]: Brigita Petronėlė tuo metu buvo Vilniuje kartu su sutuoktiniu Antanu Davainiu Solohubu.
-- susijęs iš [[objektai/asmenys/Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.).md#claim-t-200522|Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.)]]: Brigita Petronėlė buvo Antano Davainio Solohubo sutuoktinė.
-## Citatos
-
-- id: c-183870
-  autorius: "Domininkas Burba"
+- c-001
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
-  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede."
   citata_originali: |
     Mykolo bažnyčioje suteikė kanauninkas Tadas Korsakas. Vilniuje tuo metu
     buvo artilerijos generolas Antanas Davainis Solohubas su sutuoktine Brigita Petronėle,
@@ -60,12 +37,14 @@ Jonas Pliateris buvo Gegabrastos seniūnas ir tijūnas. Jonas Pliateris tuo metu
     (šiandieniniame Pasvalio rajone) seniūnas Jonas Pliateris. Kanauninkas ironizuodamas
     rašė: „O jau matau karnavalas su seimelio kaukėmis vyks iškilmingesnis nei anksčiau
     buvęs“.
-  citata_rodoma: "Vilniuje tuo metu\nbuvo artilerijos generolas Antanas Davainis Solohubas su sutuoktine Brigita Petronėle,\nVilniaus pavaivadis Jurgis Abramovičiaus (Jerzy Abramowicz) ir tijūnas, Gegabrastos\n(šiandieniniame Pasvalio rajone) seniūnas Jonas Pliateris."
-  statusas: verified
-  atnaujinta: "2026-07-14 11:39"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-200515
-    - t-200516
+  statusas: verified
+- t-002
+
+## Teiginiai
+
+- susijęs iš [[objektai/asmenys/Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.).md#claim-t-200521|Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.)]]: Brigita Petronėlė tuo metu buvo Vilniuje kartu su sutuoktiniu Antanu Davainiu Solohubu.
+- susijęs iš [[objektai/asmenys/Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.).md#claim-t-200522|Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.)]]: Brigita Petronėlė buvo Antano Davainio Solohubo sutuoktinė.

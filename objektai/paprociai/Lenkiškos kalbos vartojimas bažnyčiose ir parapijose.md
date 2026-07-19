@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-200909"></a>
 - t-001
-  global_id: t-200909
   teiginys: "Basanavičius rašė, kad 1849 m. Žemaičių vyskupu paskirtas Motiejus Valančius Kauno vyskupystės bažnyčiose rado vyraujančią lenkų kalbą."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -100,4 +99,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200909
+    - t-001

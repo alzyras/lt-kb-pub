@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-87620"></a>
 - t-001
-  global_id: t-87620
   teiginys: "Andrejus Stankovičius buvo vienas iš Vilniaus namo dokumento liudininkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87620
+    - t-001

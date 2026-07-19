@@ -35,8 +35,7 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
 ## Teiginiai
 
 <a id="claim-t-30953"></a>
-- t-001
-  global_id: t-30953
+- t-003
   teiginys: "Rimbertas pažymėjo, jog kuršiai sukilo ir ilgai stengėsi savo penkiose srityse būti nepriklausomi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
     - c-33123
 
 <a id="claim-t-30954"></a>
-- t-002
-  global_id: t-30954
+- t-001
   teiginys: "Rimbertas apie 875 m. parašė šv. Ansgaro gyvenimą, kuriame nušviečiami Baltijos pajūrio kariniai santykiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
     - c-30839
 
 <a id="claim-t-30955"></a>
-- t-003
-  global_id: t-30955
+- t-002
   teiginys: "Rimbertas pirmasis paminėjo kuršių (Cori) vardą ir rašė, kad jie anksčiau priklausę švedų valdžiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,7 +113,8 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30954
+    - t-001
+
 - id: c-33122
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -127,17 +125,15 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
     anksčiau priklausę švedų valdžiai. Tai patvirtina ir Hervararsaga
     (apie 675 m.), teigianti, jog Kuršą buvo užvaldęs švedų karalius
     įvaras.
-  citata_rodoma: |
-    Kuršiai (Cori), kurių vardą Rimbertas pirmasis pamini, esą
-    anksčiau priklausę švedų valdžiai. Tai patvirtina ir Hervararsaga
-    (apie 675 m.
+  citata_rodoma: "Kuršiai (Cori), kurių vardą Rimbertas pirmasis pamini, esą\nanksčiau priklausę švedų valdžiai. Tai patvirtina ir Hervararsaga\n(apie 675 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30955
+    - t-002
+
 - id: c-33123
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -150,14 +146,11 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
     853 m. prieš vėl pavergti ir pasiplėšti atvykusius danus, kuršiai
     juos sumušę («pusę danų» išžudę), užgrobę «pusę laivų », juos
     apiplėšę ir paėmę daug aukso, sidabro ir kitokio turto.
-  citata_rodoma: |
-    Rimbertas pažymėjo, jog kuršiai sukilo ir ilgai stengėsi
-    savo penkiose srityse būti nepriklausomi. Susijungę ir stoję į kovą
-    853 m.
+  citata_rodoma: "Rimbertas pažymėjo, jog kuršiai sukilo ir ilgai stengėsi\nsavo penkiose srityse būti nepriklausomi. Susijungę ir stoję į kovą\n853 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30953
+    - t-003

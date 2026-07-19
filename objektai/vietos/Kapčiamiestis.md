@@ -31,7 +31,6 @@ Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapč
 
 <a id="claim-t-80605"></a>
 - t-001
-  global_id: t-80605
   teiginys: "Lenkų raiteliai vakare užėmė Kapčiamiestį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,13 +54,11 @@ Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapč
   citata_originali: |
     Ir aple 14 val. 20 min. užima Kuodžius.
     my „Pilypavas ĮbinijųgF -Ovidūgiriai BE A ojo pėst. Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapčiamiestį.
-  citata_rodoma: |
-    užima Kuodžius.
-    my „Pilypavas ĮbinijųgF -Ovidūgiriai BE A ojo pėst. Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapčiamiestį.
+  citata_rodoma: "užima Kuodžius.\nmy „Pilypavas ĮbinijųgF -Ovidūgiriai BE A ojo pėst. Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapčiamiestį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80605
+    - t-001

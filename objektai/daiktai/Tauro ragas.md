@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-200729"></a>
 - t-001
-  global_id: t-200729
   teiginys: "Rimvydas Laužikas tauro ragą sieja su simboline, mitologizuota literatūrine tendencija LDK diduomenę vaizduoti kaip gėrusią iš tauro rago."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -80,8 +79,5 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200729
+    - t-001

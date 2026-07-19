@@ -31,7 +31,6 @@ Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, pra
 
 <a id="claim-t-20850"></a>
 - t-001
-  global_id: t-20850
   teiginys: "Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai puldinėjo žydų prekybininkus ir atvirai kėlė šūkį „Lietuva lietuviams“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, pra
 
 <a id="claim-t-183498"></a>
 - t-002
-  global_id: t-183498
   teiginys: "Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai atvirai kėlė šūkį „Lietuva lietuviams“."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -87,5 +85,5 @@ Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20850
-    - t-183498
+    - t-001
+    - t-002

@@ -38,7 +38,6 @@ Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu
 
 <a id="claim-t-59127"></a>
 - t-001
-  global_id: t-59127
   teiginys: "Petras Dusburgietis pasakoja, kad Mergelei Marijai nuliūdus ji broliui Hermanui priekaištavo dėl Teutonų ordino brolių kalbų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59127
+    - t-001

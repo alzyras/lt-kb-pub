@@ -30,7 +30,6 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
 
 <a id="claim-t-70183"></a>
 - t-001
-  global_id: t-70183
   teiginys: "Pietų Amerikoje buvo laikoma įmanoma įkurti grynai lietuviškų kolonijų, kokių turėjo kitos tautos."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -85,14 +84,11 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
     Pietų Amerika dar tebėra didelių galimybių kraštas, dar dideli
     žemės plotai tebėra neišnaudoti, ir daugely vietų būtų galima įkurti
     grynai lietuviškų kolonijų, kokių kad turi kitos tautos.
-  citata_rodoma: |
-    Pietų Amerika dar tebėra didelių galimybių kraštas, dar dideli
-    žemės plotai tebėra neišnaudoti, ir daugely vietų būtų galima įkurti
-    grynai lietuviškų kolonijų, kokių kad turi kitos tautos.
+  citata_rodoma: "Pietų Amerika dar tebėra didelių galimybių kraštas, dar dideli\nžemės plotai tebėra neišnaudoti, ir daugely vietų būtų galima įkurti\ngrynai lietuviškų kolonijų, kokių kad turi kitos tautos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70183
+    - t-001

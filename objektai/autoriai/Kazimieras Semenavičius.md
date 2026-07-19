@@ -45,8 +45,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 ## Teiginiai
 
 <a id="claim-t-23231"></a>
-- t-001
-  global_id: t-23231
+- t-003
   teiginys: "K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     - c-70089
 
 <a id="claim-t-23233"></a>
-- t-002
-  global_id: t-23233
+- t-005
   teiginys: "Kazimieras Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,8 +82,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     - c-70089
 
 <a id="claim-t-23234"></a>
-- t-003
-  global_id: t-23234
+- t-006
   teiginys: "Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,8 +101,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     - c-70088
 
 <a id="claim-t-26715"></a>
-- t-004
-  global_id: t-26715
+- t-007
   teiginys: "Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650)."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -134,24 +130,6 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 - susijęs iš Amsterdamas: K. Semenavičiaus raketų brėžiniai buvo išleisti Amsterdame 1650 m.
 - susijęs iš Krokuva: Manoma, kad senojo Vilniaus universiteto studijų lygis nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.
 - susijęs iš Vilnius: Jėzuitų švietimo sistemos viršūne tapo 1579 m. įkurtas Vilniaus universitetas.
-## Reikšmingi paminėjimai
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Todėl ir Lietuvos XVII–XVIII a. istoriją apibūdi-
-    name Baroko epochos sąvoka, suteikdami jai tokį patį turinį, kokį Vakarų
-    Europoje teikiame Renesanso ir Apšvietos epochoms. Epochos simboline
-    pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.
-    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
-    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
-    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
-    tas 1579 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-
 ## Citatos
 
 - id: c-16789
@@ -174,7 +152,8 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26715
+    - t-007
+
 - id: c-70088
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -183,15 +162,15 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     Yra ir kitas senojo Vilniaus universiteto
     istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
     K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
-  citata_rodoma: |
-    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
+  citata_rodoma: "K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23234
+    - t-006
+
 - id: c-70089
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -205,13 +184,32 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
     teorijos  kūrėjo K. Semenavičiaus veikalo
     „Artis magnae artilleriae“  frontispisas, 1650 m.
-  citata_rodoma: |
-    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
+  citata_rodoma: "Žymiausio LDK karo inžinieriaus, daugiapakopių raketų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23231
-    - t-23233
+    - t-003
+    - t-005
+
+- id: c-70091
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Todėl ir Lietuvos XVII–XVIII a. istoriją apibūdi-
+    name Baroko epochos sąvoka, suteikdami jai tokį patį turinį, kokį Vakarų
+    Europoje teikiame Renesanso ir Apšvietos epochoms. Epochos simboline
+    pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.
+    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
+    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
+    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
+    tas 1579 m.).
+  citata_rodoma: "Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi"
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

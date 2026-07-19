@@ -37,7 +37,6 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
 
 <a id="claim-t-26654"></a>
 - t-001
-  global_id: t-26654
   teiginys: "Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ planą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
 
 <a id="claim-t-26906"></a>
 - t-002
-  global_id: t-26906
   teiginys: "Formulė „nuo jūros iki jūros“ nusako teritorinę projekciją nuo Baltijos iki Juodosios jūros."
   atnaujinta: "2026-06-01 11:11"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
     - c-26745
 
 <a id="claim-t-75620"></a>
-- t-003
-  global_id: t-75620
+- t-004
   teiginys: "Lietuvos pripažinimą sunkino tai, kad Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ planą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +89,7 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
     - c-73342
 
 <a id="claim-t-75621"></a>
-- t-004
-  global_id: t-75621
+- t-003
   teiginys: "Prancūzijos remtas didelės Lenkijos „nuo jūros iki jūros“ planas stabdė Lietuvos tarptautinio pripažinimo reikalus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -134,9 +130,10 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26654
-    - t-26906
-    - t-75621
+    - t-001
+    - t-002
+    - t-003
+
 - id: c-73342
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -156,4 +153,4 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75620
+    - t-004

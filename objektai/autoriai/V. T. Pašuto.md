@@ -39,8 +39,7 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
 ## Teiginiai
 
 <a id="claim-t-31046"></a>
-- t-001
-  global_id: t-31046
+- t-002
   teiginys: "V. T. Pašuto parašė darbą „Choziajstvo i technika srednevekovoj Litvy“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
     - c-33180
 
 <a id="claim-t-31047"></a>
-- t-002
-  global_id: t-31047
+- t-001
   teiginys: "V. T. Pašuto parašė veikalą „Obrazovanie litovskogo gosudarstva“, kurio lietuviškas vertimas išėjo pavadinimu „Lietuvos valstybės susidarymas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,17 +92,15 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
     Radzvilovaitė, E. : _Lietuvių genčių skydai II- VIII amžiais_ , AkMD,
     t. 21, 1966, 127-142 p. — Stankus, J. : _Geležinių įrankių gamybos
     technologija Lietuvoje IX-XIII amžiais_ , AkMD, t. 32, sąs.
-  citata_rodoma: |
-    — Pašuto, V. : _Cho-
-    ziajstvo i technika srednevekovoj Litvy_ , VIst, nr. 8, 1947, 74 sqq. —
-    Radzvilovaitė, E.
+  citata_rodoma: "— Pašuto, V. : _Cho-\nziajstvo i technika srednevekovoj Litvy_ , VIst, nr. 8, 1947, 74 sqq. —\nRadzvilovaitė, E."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31046
+    - t-002
+
 - id: c-33181
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -121,18 +117,11 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
     laiškai,_** **Vilnius 1966 ; žr. P. Rabikauskas :** **_Gedimino laiškai,_** **Aidai, 1968,
     69-71 p.**
     (^136) **N. I. Daškevič :** **_Političeskije zamyśli Vitovta,_** **Kiivskije Universitets-**
-  citata_rodoma: |
-    **
-    (^135) **V. T. Pašuto :** **_Obrazovanie litovskogo gosudarstva_** **(išl. Akad. Nauk),
-    Maskva 1959, 532 p., su 2 žemei. ; liet. vertimas :** **_Lietuvos valstybės susida­
-    rymas,_** **Vilnius 1971, 424 p.; Pašuto su I. Štal parengė knygą** **_Gedimino
-    laiškai,_** **Vilnius 1966 ; žr. P. Rabikauskas :** **_Gedimino laiškai,_** **Aidai, 1968,
-    69-71 p.**
-    (^136) **N.
+  citata_rodoma: "**\n(^135) **V. T. Pašuto :** **_Obrazovanie litovskogo gosudarstva_** **(išl. Akad. Nauk),\nMaskva 1959, 532 p., su 2 žemei. ; liet. vertimas :** **_Lietuvos valstybės susida­\nrymas,_** **Vilnius 1971, 424 p.; Pašuto su I. Štal parengė knygą** **_Gedimino\nlaiškai,_** **Vilnius 1966 ; žr. P. Rabikauskas :** **_Gedimino laiškai,_** **Aidai, 1968,\n69-71 p.**\n(^136) **N."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31047
+    - t-001

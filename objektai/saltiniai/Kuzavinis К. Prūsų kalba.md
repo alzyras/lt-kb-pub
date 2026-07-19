@@ -32,13 +32,43 @@ media_all_json: |-
 
 Dusburgietis teigia, kad kuzavinis К.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'K. Kuzavinio „Prūsų kalba“ išleista Vilniuje 1964 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kuzavinis К. Prūsų kalba.—V., 1964.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-61748
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    207—216.
+    Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų
+    žinynas, 1933, t. 25, Nr. 101, p. 171—185.
+  citata_rodoma: "Kuzavinis К. Prūsų kalba.—V., 1964."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-61116"></a>
 - t-001
-  global_id: t-61116
   teiginys: "K. Kuzavinio „Prūsų kalba“ išleista Vilniuje 1964 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,36 +83,3 @@ Dusburgietis teigia, kad kuzavinis К.
   temporalinis_llm_pakomentavimas: "Citata pateikia šaltinio autorių, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61748
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'K. Kuzavinio „Prūsų kalba“ išleista Vilniuje 1964 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kuzavinis К. Prūsų kalba.—V., 1964.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61116
-## Citatos
-
-- id: c-61748
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    207—216.
-    Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų
-    žinynas, 1933, t. 25, Nr. 101, p. 171—185.
-  citata_rodoma: |
-    Kuzavinis К. Prūsų kalba.—V., 1964.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-61116

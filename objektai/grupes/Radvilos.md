@@ -6,6 +6,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1325 m.'
   - '1545 m.'
@@ -47,8 +48,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 ## Teiginiai
 
 <a id="claim-t-74888"></a>
-- t-001
-  global_id: t-74888
+- t-003
   teiginys: "Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 
 <a id="claim-t-74889"></a>
 - t-002
-  global_id: t-74889
   teiginys: "Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,8 +84,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     - c-72866
 
 <a id="claim-t-74890"></a>
-- t-003
-  global_id: t-74890
+- t-004
   teiginys: "Vienas iš Radvilų 1615 m. laiške rašė, kad Lietuvoje reikia vartoti lenkų kalbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,8 +104,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     - c-72863
 
 <a id="claim-t-184578"></a>
-- t-004
-  global_id: t-184578
+- t-005
   teiginys: "Augustas liepė nutiesti takelį iš pilies į Barboros Radvilaitės sodus ir pastatyti tiltuką per Vilnią."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -127,10 +124,9 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir paliktas aiškus faktinis sakinys."
   pagrindžia:
     - c-167939
-    - c-004
+
 <a id="claim-t-188322"></a>
-- t-005
-  global_id: t-188322
+- t-001
   teiginys: "Šalia aprašyto antspaudo buvo kitas antspaudas su skyde pavaizduotu Vyčiu po karūna ir apačioje esančiu Radvilų Trimitų herbu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -151,7 +147,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 
 <a id="claim-t-200759"></a>
 - t-006
-  global_id: t-200759
   teiginys: "Vorobjovo vertinimu, Radvilos kartu su Pacais ir Sapiegomis buvo vietiniai lietuvių didikai, suvaidinę žymų vaidmenį Vilniaus baroko plėtotėje."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -169,6 +164,18 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184104
+
+<a id="claim-t-201485"></a>
+- t-007
+  teiginys: "Kauno miesto susirašinėjimo su Radvilomis įvairiais klausimais medžiaga arba XVII-XVIII a."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184832
 - susijęs iš [[objektai/asmenys/Albrechtas Radvila.md#claim-t-87613|Albrechtas Radvila]]: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
 - susijęs iš [[objektai/asmenys/Cvinglis.md#claim-t-87646|Cvinglis]]: Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo giliai įsišaknijęs ir remiamas Mikalojaus Radvilos Juodojo.
 - susijęs iš [[objektai/asmenys/Dominykas Radvila.md#claim-t-87655|Dominykas Radvila]]: Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis.
@@ -376,8 +383,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184578
+
 ## Citatos
 
 - id: c-72863
@@ -397,22 +403,15 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     laiške, rašytame 1615 m.: „Nors lietuviu esu gimęs ir lietuviu teks man
     mirti, tačiau turime vartoti mūsų tėvynėje lenkų kalbą.“ Lenkų kalba pa-
     mažu įsigalėjo – 1697 m.
-  citata_rodoma: |
-    Benneto veikalo „Viešpaties dešinės galybė“, 1674)
-
-    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
-    75
-    kų kalbos vaidmenį Lietuvos kultūroje apibendrino vienas iš Radvilų savo
-    laiške, rašytame 1615 m.: „Nors lietuviu esu gimęs ir lietuviu teks man
-    mirti, tačiau turime vartoti mūsų tėvynėje lenkų kalbą.“ Lenkų kalba pa-
-    mažu įsigalėjo – 1697 m.
+  citata_rodoma: "Benneto veikalo „Viešpaties dešinės galybė“, 1674)\n\n2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S\n75\nkų kalbos vaidmenį Lietuvos kultūroje apibendrino vienas iš Radvilų savo \nlaiške, rašytame 1615 m.: „Nors lietuviu esu gimęs ir lietuviu teks man \nmirti, tačiau turime vartoti mūsų tėvynėje lenkų kalbą.“ Lenkų kalba pa-\nmažu įsigalėjo – 1697 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74890
+    - t-004
+
 - id: c-72865
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -429,7 +428,8 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74888
+    - t-003
+
 - id: c-72866
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -451,7 +451,8 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74889
+    - t-002
+
 - id: c-167939
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -484,43 +485,15 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     sodus takelį ir tiltuką per Vilnios upę. Sklido viso­
     kios kalbos ir apie Barborą, ir apie Augustą, gal ir
     neteisingos, bet nesakysi, kad visai be pagrindo.
-  citata_rodoma: |
-    Jaunatviškai lengvabū­
-    diškas, be to, iš mažumės
-    taip išauklėtas, kad mėgo
-    puotauti, šokti ir visaip link-
-    1545 m e ta i
-    M iršta  A u strijo s k u ­
-    n ig a ik š ty tė
-    E lžb ieta ,
-    A u g u sto  žm on a
-    6 7  4
-
-    ## Puslapis 673
-
-    smintis su moterimis, pradėjo lankyti Barborą Radvi­
-    laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­
-    vados Stanislovo Goštauto našlę. Nors Radvilų rūmai
-    buvo visai netoli karaliaus
-    A u g u sta s sla p ta i ve-
-    pilies, Augustas, trokšdamas
-    d a
-    B arborą
-    R a d vi-
-    kada panorėjęs kuo trumpes-
-    la itę
-    niu keliu ten patekti, palie­
-    pė nukloti iš pilies į Barboros
-    sodus takelį ir tiltuką per Vilnios upę. Sklido viso­
-    kios kalbos ir apie Barborą, ir apie Augustą, gal ir
-    neteisingos, bet nesakysi, kad visai be pagrindo.
+  citata_rodoma: "Jaunatviškai lengvabū­\ndiškas, be to, iš mažumės\ntaip išauklėtas, kad mėgo\npuotauti, šokti ir visaip link-\n1545 m e ta i\nM iršta  A u strijo s k u ­\nn ig a ik š ty tė\nE lžb ieta ,\nA u g u sto  žm on a\n6 7  4\n\n## Puslapis 673\n\nsmintis su moterimis, pradėjo lankyti Barborą Radvi­\nlaitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­\nvados Stanislovo Goštauto našlę. Nors Radvilų rūmai\nbuvo visai netoli karaliaus\nA u g u sta s sla p ta i ve-\npilies, Augustas, trokšdamas\nd a\nB arborą\nR a d vi-\nkada panorėjęs kuo trumpes-\nla itę\nniu keliu ten patekti, palie­\npė nukloti iš pilies į Barboros\nsodus takelį ir tiltuką per Vilnios upę. Sklido viso­\nkios kalbos ir apie Barborą, ir apie Augustą, gal ir\nneteisingos, bet nesakysi, kad visai be pagrindo."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184578
+    - t-005
+
 - id: c-171215
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -541,7 +514,8 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188322
+    - t-001
+
 - id: c-184104
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -568,6 +542,23 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200759
+    - t-006
+
+- id: c-184832
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Čia
+    yra XVI-XVIII a. Kauno miesto susirašinėjimo su Radvilomis įvairiais klausimais
+    medžiaga arba XVII-XVIII a. Vilijampolės inventoriai ir kita su ja susijusi medžiaga.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 ## Ryšiai
 - Radvilos užėmė [[objektai/vietos/Cholmas]]

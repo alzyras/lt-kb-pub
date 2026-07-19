@@ -38,9 +38,8 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 
 ## Teiginiai
 
-<a id="claim-t-72032"></a>
-- t-001
-  global_id: t-72032
+<a id="claim-t-72029"></a>
+- t-004
   teiginys: "Suvalkų sutartis demarkacijos liniją Suvalkų krašte nustatė pagal 1919 m. gruodžio 8 d. Aukščiausiosios Santarvės Tarybos liniją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     - c-46266
 
 <a id="claim-t-72030"></a>
-- t-002
-  global_id: t-72030
+- t-001
   teiginys: "Aukščiausioji Santarvininkių Taryba 1919 m. gruodžio 8 d. nustatė Kerzono liniją."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     - c-46264
 
 <a id="claim-t-72031"></a>
-- t-003
-  global_id: t-72031
+- t-002
   teiginys: "1919 m. gruodžio 8 d. Aukščiausioji Santarvės Taryba nustatė demarkacijos liniją Suvalkų krašte, vadintą Kerzono linija."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -113,21 +110,15 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     vadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-
     čiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-
     duoti Lietuvai (liepos 10 d.).
-  citata_rodoma: |
-    Tada Aukš-
-    čiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė So-
-    vietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa mies-
-    tely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už
-    vadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-
-    čiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-
-    duoti Lietuvai (liepos 10 d.).
+  citata_rodoma: "Tada Aukš-\nčiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė So-\nvietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa mies-\ntely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už\nvadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-\nčiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-\nduoti Lietuvai (liepos 10 d.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72030
+    - t-001
+
 - id: c-46266
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -144,20 +135,12 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 
     (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
     sėje.
-  citata_rodoma: |
-    Ta sutartis, nespręs-
-    dama sienų klausimo, nustatė demarkacijos liniją Suvalkų kraš-
-    te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
-    sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
-    — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
-
-    (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
-    sėje.
+  citata_rodoma: "Ta sutartis, nespręs-\ndama sienų klausimo, nustatė demarkacijos liniją Suvalkų kraš-\nte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-\nsioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno\n— visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų\n\n(prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-\nsėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72032
-    - t-72031
+    - t-004
+    - t-002

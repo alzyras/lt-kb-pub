@@ -31,7 +31,6 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
 
 <a id="claim-t-185369"></a>
 - t-001
-  global_id: t-185369
   teiginys: "Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuostolius."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -48,10 +47,9 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168730
-    - c-001
+
 <a id="claim-t-185370"></a>
 - t-002
-  global_id: t-185370
   teiginys: "Maskvėnai turėjo paskirti taikytojus, kurie Sebežo krašte įsakytų grąžinti kaimus ir atlyginti nuostolius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -89,8 +87,7 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185369
+
 ## Citatos
 
 - id: c-168730
@@ -113,24 +110,15 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
     jais pasikalbėti. Susitikę su maskvėnais, karaliaus le­
     gatai pasiūlė ginčą dėl titulų perduoti karaliui, o tuo
     tarpu pasirašyti paliaubas pagal senąją formulę.
-  citata_rodoma: |
-    Nerasdamas kitos dings­
-    ties laiškų rašyti, nusiskundė dėl pasieniuose daromų
-    skriaudų ir paprašė, kad žydų pirkliams leistų laisvai
-    keliauti iš Lietuvos į Maskvos kunigaikštystę. Ivanas
-    atmetė šį prašymą, tačiau pažadėjo atsiųsti taikytojus,
-    kurie ir atsiteis už skriaudas, bet tada, kai karalius jam
-    surašysiąs, kokių nuostolių pridaryta. Antra vertus,
-    primygtinai pareikalavo, kad savo ruožtu karalius atsi­
-    lygintų už jam padarytas skriaudas, o jų didžiausia —
-    ta, kad po šiai dienai nepripažįstamas caro titulas.
+  citata_rodoma: "Nerasdamas kitos dings­\nties laiškų rašyti, nusiskundė dėl pasieniuose daromų\nskriaudų ir paprašė, kad žydų pirkliams leistų laisvai\nkeliauti iš Lietuvos į Maskvos kunigaikštystę. Ivanas\natmetė šį prašymą, tačiau pažadėjo atsiųsti taikytojus,\nkurie ir atsiteis už skriaudas, bet tada, kai karalius jam\nsurašysiąs, kokių nuostolių pridaryta. Antra vertus,\nprimygtinai pareikalavo, kad savo ruožtu karalius atsi­\nlygintų už jam padarytas skriaudas, o jų didžiausia —\nta, kad po šiai dienai nepripažįstamas caro titulas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185369
+    - t-001
+
 - id: c-168731
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -155,4 +143,4 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185370
+    - t-002

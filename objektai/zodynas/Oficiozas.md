@@ -38,7 +38,6 @@ Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgars
 
 <a id="claim-t-189318"></a>
 - t-001
-  global_id: t-189318
   teiginys: "Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgarsių recenzija apie T. Narbuto „Lietuvių mitologiją“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,7 @@ Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgars
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172205
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgarsių recenzija apie T. Narbuto „Lietuvių mitologiją“.'
@@ -78,8 +77,7 @@ Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgars
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189318
+
 ## Citatos
 
 - id: c-172205
@@ -102,22 +100,11 @@ Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgars
     istorija“20. Recenzento nuomone, T. Narbuto „Lietuvių mito­
     18 Dzieje starožytne narodu Litewskiego przez Teodora Narbut-
     ta.
-  citata_rodoma: |
-    55
-
-    ## Puslapis 55
-
-    Pirmoji reakcija. Oficialūs atgarsiai į T. Narbuto „Lietu­
-    vių mitologiją“ pasirodė netrukus, t. y. tais pačiais 1835 ir ki­
-    tais 1836 metais. Tai buvo dvi didelės recenzijos: pirmoji iš­
-    spausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­
-    roji -  oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­
-    miška, o antroji priklausė Juozapo Ignoto Kraševskio
-    plunksnai.
+  citata_rodoma: "55\n\n## Puslapis 55\n\nPirmoji reakcija. Oficialūs atgarsiai į T. Narbuto „Lietu­\nvių mitologiją“ pasirodė netrukus, t. y. tais pačiais 1835 ir ki­\ntais 1836 metais. Tai buvo dvi didelės recenzijos: pirmoji iš­\nspausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­\nroji -  oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­\nmiška, o antroji priklausė Juozapo Ignoto Kraševskio\nplunksnai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189318
+    - t-001

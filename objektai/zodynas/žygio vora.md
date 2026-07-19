@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-185362"></a>
 - t-001
-  global_id: t-185362
   teiginys: "Žygyje kartu su Algirdu kariuomenė buvo padalyta į tris žygio voras."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ media_all_json: |-
   semantiniai_rysiai: "Algirdas (Lietuvos valdovas) kariavo prieš Kryžiuočių ordinas (0.68)"
   pagrindžia:
     - c-168723
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Žygyje kartu su Algirdu kariuomenė buvo padalyta į tris žygio voras.'
@@ -68,8 +67,7 @@ media_all_json: |-
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185362
+
 ## Citatos
 
 - id: c-168723
@@ -91,19 +89,11 @@ media_all_json: |-
     girdu; kariuomenę padalijo į tris žygio voras; vienu
     metu nuniokojo Vėluvos, Salduvos ir Įsruties apygar­
     dų kaimus.
-  citata_rodoma: |
-    Prie
-    Saldavos ir Neidenburgo jis sumušė kryžiuočius, nesi­
-    tikėjusius jokio pavojaus. Žygis buvo pakartotas šiek
-    tiek vėliau, tačiau su didesniu užmoju ir kartu su Al­
-    girdu; kariuomenę padalijo į tris žygio voras; vienu
-    metu nuniokojo Vėluvos, Salduvos ir Įsruties apygar­
-    dų kaimus. Tuo metu ir kryžiuočiai nesėdėjo rankų
-    sudėję.
+  citata_rodoma: "Prie\nSaldavos ir Neidenburgo jis sumušė kryžiuočius, nesi­\ntikėjusius jokio pavojaus. Žygis buvo pakartotas šiek\ntiek vėliau, tačiau su didesniu užmoju ir kartu su Al­\ngirdu; kariuomenę padalijo į tris žygio voras; vienu\nmetu nuniokojo Vėluvos, Salduvos ir Įsruties apygar­\ndų kaimus. Tuo metu ir kryžiuočiai nesėdėjo rankų\nsudėję."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185362
+    - t-001

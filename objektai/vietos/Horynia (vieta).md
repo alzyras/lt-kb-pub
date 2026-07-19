@@ -33,7 +33,6 @@ Horynios Tiškevičienės mirtis aprašyta kaip nuskurdusios, nekilnojamąjį tu
 
 <a id="claim-t-202402"></a>
 - t-001
-  global_id: t-202402
   teiginys: "Horynios Tiškevičienės mirtis aprašyta kaip nuskurdusios, nekilnojamąjį turtą iššvaisčiusios moters, o pati moteris pavadinta „baidykle“."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,5 @@ Horynios Tiškevičienės mirtis aprašyta kaip nuskurdusios, nekilnojamąjį tu
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202402
+    - t-001

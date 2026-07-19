@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-91915"></a>
 - t-001
-  global_id: t-91915
   teiginys: "Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -110,4 +109,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91915
+    - t-001

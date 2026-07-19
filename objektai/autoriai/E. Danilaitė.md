@@ -39,8 +39,7 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
 ## Teiginiai
 
 <a id="claim-t-30590"></a>
-- t-001
-  global_id: t-30590
+- t-002
   teiginys: "E. Danilaitė 1964 m. paskelbė darbą „Brūkšniuotosios keramikos gyvenvietė vakarų Lietuvoje“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
     - c-32913
 
 <a id="claim-t-30591"></a>
-- t-002
-  global_id: t-30591
+- t-001
   teiginys: "E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,17 +92,15 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
     1968, 47-55 p.). E. Danilaitė domėjosi brūkšniuotąja keramika
     Lietuvoje (AkMD, t. 17, 1964, 23-38 p. ; t. 21, 1966, 111-124 p.;
     t. 23, 1967, 35-48 p.; t. 26, 1968, 41-56 p.)^103.
-  citata_rodoma: |
-    E. Danilaitė domėjosi brūkšniuotąja keramika
-    Lietuvoje (AkMD, t. 17, 1964, 23-38 p. ; t. 21, 1966, 111-124 p.;
-    t. 23, 1967, 35-48 p.; t. 26, 1968, 41-56 p.)^103.
+  citata_rodoma: "E. Danilaitė domėjosi brūkšniuotąja keramika\nLietuvoje (AkMD, t. 17, 1964, 23-38 p. ; t. 21, 1966, 111-124 p.;\nt. 23, 1967, 35-48 p.; t. 26, 1968, 41-56 p.)^103."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30591
+    - t-001
+
 - id: c-32913
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -118,13 +114,11 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
     AkMD, t. 17, 1964, 23-39 p. — (”) _Ankstyvosios brūkšniuotosios kerami­
     kos kilmės klausimu_ , AkMD, t. 21, 1966, 111-125 p. — (”) _Lietuvos brūkš­
     niuotosios keramikos ornamentas_ , AkMD, t. 26, 1968, 41-57 p. — (”)
-  citata_rodoma: |
-    — Danilaitė, E. : _Brūkšniuotosios keramikos gyvenvietė vakarų Lietuvoje_ ,
-    AkMD, t. 17, 1964, 23-39 p.
+  citata_rodoma: "— Danilaitė, E. : _Brūkšniuotosios keramikos gyvenvietė vakarų Lietuvoje_ ,\nAkMD, t. 17, 1964, 23-39 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30590
+    - t-002

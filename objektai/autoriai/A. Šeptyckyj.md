@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-30551"></a>
 - t-001
-  global_id: t-30551
   teiginys: "A. Šeptyckyj siejamas su 1964-1975 m. Romoje leistu „Monumenta Ucrainae Historica“ I-XII tomų leidiniu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,15 +73,11 @@ media_all_json: |-
     1964-1975, red.** **_V._** **Jatulis.**
     (^151) **M. Zeiller :** **_Neue Beschreibung des Königreiches Polen und Gross -
     herzogthums Lithauen,_** **Ulm 1647.
-  citata_rodoma: |
-    **
-    (^150) **A. Šeptyckyj :** **_Monumenta Ucrainae Historica,_** **t. I-XII, Roma
-    1964-1975, red.** **_V._** **Jatulis.**
-    (^151) **M.
+  citata_rodoma: "**\n(^150) **A. Šeptyckyj :** **_Monumenta Ucrainae Historica,_** **t. I-XII, Roma\n1964-1975, red.** **_V._** **Jatulis.**\n(^151) **M."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30551
+    - t-001

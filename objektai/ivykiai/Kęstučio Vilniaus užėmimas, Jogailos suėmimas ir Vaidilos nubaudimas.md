@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185733"></a>
 - t-001
-  global_id: t-185733
   teiginys: "Kęstučio kariai užėmė Vilniaus pilis, apsupo valdovo rūmus ir suėmė Jogailą, Julijoną bei Mariją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-196197"></a>
 - t-002
-  global_id: t-196197
   teiginys: "Rengdamas Vilniaus užėmimą, Kęstutis į miestą pasiuntė tris šimtus žemaičių bajorų ir šešis šimtus pėstininkų, paslėptų vežimuose."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -109,5 +107,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185733
-    - t-196197
+    - t-001
+    - t-002

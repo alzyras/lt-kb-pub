@@ -30,7 +30,6 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
 
 <a id="claim-t-190437"></a>
 - t-001
-  global_id: t-190437
   teiginys: "Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar pilkapį, klaidingai palaikė dievaičio pavadinimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173320
-    - c-001
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188552|Janas Lasickis]]: Vienintelis Lasickis išsaugojo mums šį faktą.
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188556|Janas Lasickis]]: Pasak Narbuto perteikiamų Lasickio tyrimų, Alabatės buvo šaukiamasi dirbant linininkystės darbus.
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188557|Janas Lasickis]]: Narbutas rašo, kad Lasickis liudijo buvus Aušros vardu vadintą ryto deivę.
@@ -137,8 +135,7 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190437
+
 ## Citatos
 
 - id: c-173320
@@ -156,19 +153,11 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
     asmuo. Žymiausius laidojo ant kalnelių, greta jų namų. Net
     pati jų forma rodo tam tikrą jų ryšį su mirusiųjų padėtimi ir
     aukštomis pareigomis.
-  citata_rodoma: |
-    Jokiu bū­
-    du nederėjo paliesti antkapinių statinių; buvo meldžiamasi net
-    kapams savo protėvių arba asmenų, atmintinų dėl ypatingų
-    dorybių. Lasickis palaikė dievaičio pavadinimu žodį Ežagtdis
-    (ežiagulis -R . J.), lietuvių kalba reiškiantį antkapį arba pilka­
-    pį, kauburį; matyt, dievobaimingas šio žodžio minėjimas, gir­
-    dėtas su tam tikromis maldomis, davė pagrindą susidaryti to­
-    kiai tyrėjo nuomonei.
+  citata_rodoma: "Jokiu bū­\ndu nederėjo paliesti antkapinių statinių; buvo meldžiamasi net\nkapams savo protėvių arba asmenų, atmintinų dėl ypatingų\ndorybių. Lasickis palaikė dievaičio pavadinimu žodį Ežagtdis\n(ežiagulis -R . J.), lietuvių kalba reiškiantį antkapį arba pilka­\npį, kauburį; matyt, dievobaimingas šio žodžio minėjimas, gir­\ndėtas su tam tikromis maldomis, davė pagrindą susidaryti to­\nkiai tyrėjo nuomonei."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190437
+    - t-001

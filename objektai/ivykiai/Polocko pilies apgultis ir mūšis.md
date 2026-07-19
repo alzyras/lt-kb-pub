@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201300"></a>
 - t-001
-  global_id: t-201300
   teiginys: "Tą matydamas, Mintautas norėjo juos iki nesusinėrus nukariauti, todėl, kuo veikesniai sukėlęs di džią kariauną lietuvių ir žemaičių, visų pirma ap gulė Polocko pilį, kurią kalavijonys su gudais su sinėrę gyniojo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-201301"></a>
 - t-002
-  global_id: t-201301
   teiginys: "Kaipogi susirėmusios šalys laukuose Polocko per 7 dienas pjovęs, ne mušės, iki paskuojo, vienok aštuntąją perlaužę gudai su didžiu vargu rindą lietuvių nebnusimanė patys kaip žaimotis iš paimtųjų lietuvių ir žemaičių: kaipogi įraišioję gy vus į arklių uodegas."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -67,8 +65,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184650
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą matydamas, Mintautas norėjo juos iki nesusi-
     nėrus nukariauti, todėl, kuo veikesniai sukėlęs di­
@@ -88,11 +87,12 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201300
+    - t-001
 
 - id: c-184651
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jau buvo lie­
     tuviai į pilį įsigrūdą, bet tuo tarpu kunigaikštis Nau-
@@ -112,4 +112,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201301
+    - t-002

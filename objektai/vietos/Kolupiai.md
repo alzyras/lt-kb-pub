@@ -36,8 +36,7 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
 ## Teiginiai
 
 <a id="claim-t-79488"></a>
-- t-001
-  global_id: t-79488
+- t-002
   teiginys: "1919 m. Kolupių kaime prie vieškelio iš Kėdainių į Šėtą bolševikai privertė trauktis Panevėžio būrio poziciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
     - c-76475
 
 <a id="claim-t-193768"></a>
-- t-002
-  global_id: t-193768
+- t-003
   teiginys: "Miške į šiaurę nuo Kolupių kaimo į nelaisvę buvo paimta 18 raudonarmiečių."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -91,23 +89,15 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
     Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-
     jėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo
     uniformų, reikalingos ekipuotės.
-  citata_rodoma: |
-    1919 m. Jesu P k
-    vertė trauktis Kolupių kaime, prie vieškelio
-    iš Kėdainių į Šėtą, buvusią Panevėžio būrio
-
-    LIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS
-
-    Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-
-    jėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo
-    uniformų, reikalingos ekipuotės.
+  citata_rodoma: "1919 m. Jesu P k\nvertė trauktis Kolupių kaime, prie vieškelio\niš Kėdainių į Šėtą, buvusią Panevėžio būrio\n\nLIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS\n\nBesikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-\njėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo\nuniformų, reikalingos ekipuotės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79488
+    - t-002
+
 - id: c-176423
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -128,4 +118,4 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193768
+    - t-003

@@ -30,8 +30,7 @@ Radvila Rudasis, o vėliau — jo sūnūs — Biržų Radvilos.
 ## Teiginiai
 
 <a id="claim-t-72037"></a>
-- t-001
-  global_id: t-72037
+- t-002
   teiginys: "Biržų Radvilos vėliau liko tarp svarbiausių protestantizmo rėmėjų po M. Radvilos Rudojo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Radvila Rudasis, o vėliau — jo sūnūs — Biržų Radvilos.
     - c-70473
 
 <a id="claim-t-72038"></a>
-- t-002
-  global_id: t-72038
+- t-001
   teiginys: "Biržų Radvilos po M. Radvilos Rudojo išliko svarbūs protestantizmo rėmėjai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -82,5 +80,5 @@ Radvila Rudasis, o vėliau — jo sūnūs — Biržų Radvilos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72037
-    - t-72038
+    - t-002
+    - t-001

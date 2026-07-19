@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-87005"></a>
 - t-001
-  global_id: t-87005
   teiginys: "Žaliaminės odos ir vaškas buvo svarbiausios Vilniaus pirklių išvežamosios prekės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-87006"></a>
 - t-002
-  global_id: t-87006
   teiginys: "Miesto lėšomis pastatyti kailiadirbių namai turguje leido ant sienų pardavimui kabinti kepures ir kailius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,6 @@ Nenurodyta
 
 <a id="claim-t-87007"></a>
 - t-003
-  global_id: t-87007
   teiginys: "Karaliaus raštu Vilniaus vaitui leista į užsienį parduoti tris vaško gabalus po 50 akmenų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,7 +126,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87006
+    - t-002
+
 - id: c-82985
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -204,7 +202,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87007
+    - t-003
+
 - id: c-82986
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -225,4 +224,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87005
+    - t-001

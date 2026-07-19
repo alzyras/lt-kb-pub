@@ -31,7 +31,6 @@ Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje strukt�
 
 <a id="claim-t-77813"></a>
 - t-001
-  global_id: t-77813
   teiginys: "XVI a. LDK visuomenėje susiformavo leno teisė, riterio dvaras, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje strukt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77813
+    - t-001

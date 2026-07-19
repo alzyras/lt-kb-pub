@@ -30,10 +30,9 @@ Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susir
 ## Teiginiai
 
 <a id="claim-t-187615"></a>
-- t-001
-  global_id: t-187615
+- t-002
   teiginys: "Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -78,23 +77,14 @@ Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susir
     jo pusėje buvo chanas Tochtamyšas su savo kariuome­
     ne, ir lietuviai, ir lenkai, ir vokiečiai, žemaičiai, totoriai,
     moldavai ir penkiasdešimt rusų kunigaikščių.
-  citata_rodoma: |
-    O
-    kunigaikščiui Skirgailai puotaujant, kaip kiti sako, tas
-    Foma davęs kunigaikščiui Skirgailai išgerti nuodų. Ir
-    po puotos kunigaikštis Skirgaila jojo už Dnepro, į Mi-
-    loslavičius, ten susirgo ir, parvykęs į Kijevą, septintą
-    dieną mirė ,8. Šventikai su žvakėmis, giedodami laido­
-    tuvių giesmes, nunešė jį, užsidėję ant galvų, iš Kijevo
-    miesto į šventąjį dievo motinos katakombų vienuolyną,
-    ir paguldė gerąjį, palaimintąjį kunigaikštį Skirgailą ša­
-    lia šventojo Pečeros Teodozijaus1 9  grabo.
+  citata_rodoma: "O \nkunigaikščiui Skirgailai puotaujant, kaip kiti sako, tas \nFoma davęs kunigaikščiui Skirgailai išgerti nuodų. Ir \npo puotos kunigaikštis Skirgaila jojo už Dnepro, į Mi- \nloslavičius, ten susirgo ir, parvykęs į Kijevą, septintą \ndieną mirė ,8. Šventikai su žvakėmis, giedodami laido­\ntuvių giesmes, nunešė jį, užsidėję ant galvų, iš Kijevo \nmiesto į šventąjį dievo motinos katakombų vienuolyną, \nir paguldė gerąjį, palaimintąjį kunigaikštį Skirgailą ša­\nlia šventojo Pečeros Teodozijaus1 9  grabo."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187615
+    - t-002
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Skirgaila]]

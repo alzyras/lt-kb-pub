@@ -42,7 +42,6 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
 
 <a id="claim-t-185983"></a>
 - t-001
-  global_id: t-185983
   teiginys: "Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patraukė prieš Vytautą ir susidūrė su juo prie Braclavo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
 
 <a id="claim-t-185984"></a>
 - t-002
-  global_id: t-185984
   teiginys: "Teodoras Karijotaitis, Vytauto smarkiai persekiojamas, po karių pabėgimo vargais negalais paspruko į Kamenecą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -68,7 +66,6 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
 
 <a id="claim-t-185985"></a>
 - t-003
-  global_id: t-185985
   teiginys: "Kunigaikštis Teodoras Karijotaitis su šeima buvo išgabentas į Vilnių, kai pilis perduota ir Podolė vėl prijungta prie Lietuvos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -81,7 +78,6 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
 
 <a id="claim-t-193499"></a>
 - t-004
-  global_id: t-193499
   teiginys: "Teodoras Karijotaitis negalįs nei taip labai vertinti Vytauto sėkmės, kuri nugalėtojams visada būnanti slidi, nei niekinti savo jėgų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -93,8 +89,7 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
     - c-169344
 
 <a id="claim-t-193501"></a>
-- t-005
-  global_id: t-193501
+- t-006
   teiginys: "Kunigaikštį Teodorą su šeimy na išgabeno į Vilnių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -105,22 +100,8 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   pagrindžia:
     - c-169346
 
-<a id="claim-t-193992"></a>
-- t-006
-  global_id: t-193992
-  teiginys: "Ketvirtas jų brolis, kunigaikštis Teodoras Karijotaitis, Lietuvoje valdė Naugarduką."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176617
-
 <a id="claim-t-196601"></a>
-- t-008
-  global_id: t-196601
+- t-009
   teiginys: "Mirus broliui, Teodoras Karijotaitis, Algirdo remiamas, tapo Naugarduko kunigaikščiu, bet vėliau buvo išvarytas iš visų valdų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -132,16 +113,6 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   pagrindžia:
     - c-178790
 
-<a id="claim-t-193993"></a>
-- t-007
-  global_id: t-193993
-  teiginys: 'Pašalintas iš Podolės, Teodoras Karijotaitis pabėgo į Vengriją, gavo grafo titulą ir 1396–1414 m. valdė Mukačiovą Užkarpatėje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'OCR ir pastabos numeracija pašalinti, paliktas aiškus Teodoro Karijotaičio veiksmas, titulas ir valdymo vieta. Legenda apie huculus nepridėta.'
-  pagrindžia:
-    - c-005
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Pašalintas iš Podolės, Teodoras Karijotaitis pabėgo į Vengriją, gavo grafo titulą ir 1396–1414 m. valdė Mukačiovą Užkarpatėje.'
@@ -156,11 +127,9 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
     vo atmuštas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193993
+  statusas: verified
 ## Citatos
 
 - id: c-169344
@@ -181,25 +150,16 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
     n ig a ik štį T eo d o rą
     to, jog žinai, koks buvo są­
     jungininkų likimas.
-  citata_rodoma: |
-    Tegu iš
-    svetimųjų nelaimių mokosi išminties tie, kurie savo
-    tėvynėje neturi jokių vilčių: jis negalįs nei taip labai
-    vertinti Vytauto sėkmės, kuri nugalėtojams visada bū­
-    nanti slidi, nei niekinti savo jėgų. Su stipria kariuome­
-    ne, sutelkta Podolėje ir Valachijoje, jis patraukė prieš
-    Vytautą ir susidūrė su juo prie Braclavo. Vytauto ša­
-    lininkai, didžiuodamiesi dviem pergalėmis, su tokiu
-    įniršiu puolė priešą, kad pirmuoju smūgiu palaužė jo
-    jėgas.
+  citata_rodoma: "Tegu iš\nsvetimųjų nelaimių mokosi išminties tie, kurie savo\ntėvynėje neturi jokių vilčių: jis negalįs nei taip labai\nvertinti Vytauto sėkmės, kuri nugalėtojams visada bū­\nnanti slidi, nei niekinti savo jėgų. Su stipria kariuome­\nne, sutelkta Podolėje ir Valachijoje, jis patraukė prieš\nVytautą ir susidūrė su juo prie Braclavo. Vytauto ša­\nlininkai, didžiuodamiesi dviem pergalėmis, su tokiu\nįniršiu puolė priešą, kad pirmuoju smūgiu palaužė jo\njėgas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185983
-    - t-193499
+    - t-001
+    - t-004
+
 - id: c-169345
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -216,7 +176,8 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185984
+    - t-002
+
 - id: c-169346
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -239,30 +200,16 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
     pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
     vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
     na išgabeno į Vilnių.
-  citata_rodoma: |
-    Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
-    pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
-    vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
-    na išgabeno į Vilnių. Po šio
-    Su len k a is tariasi d ė l
-    žygio smarkiai sunerimo len-
-    P o d o lės v a ld y m o
-    kai, būgštaudami, kad Vytau­
-    to pergalės nepaverstų nie­
-    kais jų senų ketinimų valdyti Podolę, ypač dėl to, kad
-    Vytautas, gerai prisimindamas karus, kuriuos vedė Al­
-    girdo vadovaujami lietuviai, vydami iš Podolės skitus,
-    neslėpė, jog šią žemę jis imąs į savo rankas ne tik kaip
-    karo laimikį, atitekusį po pergalingo karo, bet ir kaip
-    seną, teisėtai jam priklausančią valdą.
+  citata_rodoma: "Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,\npilyse bei miestuose paliko lietuvių karių įgulas ir lietu­\nvių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­\nna išgabeno į Vilnių. Po šio\nSu len k a is tariasi d ė l\nžygio smarkiai sunerimo len-\nP o d o lės v a ld y m o\nkai, būgštaudami, kad Vytau­\nto pergalės nepaverstų nie­\nkais jų senų ketinimų valdyti Podolę, ypač dėl to, kad\nVytautas, gerai prisimindamas karus, kuriuos vedė Al­\ngirdo vadovaujami lietuviai, vydami iš Podolės skitus,\nneslėpė, jog šią žemę jis imąs į savo rankas ne tik kaip\nkaro laimikį, atitekusį po pergalingo karo, bet ir kaip\nseną, teisėtai jam priklausančią valdą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185985
-    - t-193501
+    - t-003
+    - t-006
+
 - id: c-176617
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -278,20 +225,13 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
     dabar dievo motinos vienuolynas9. Tasai Petras Goš­
     tautas pirmas priėmė Romos tikėjimą ir parnešė jį
     j Lietuvą l0.
-  citata_rodoma: |
-    Ketvirtas jų brolis, kunigaikštis Teodoras Karijo-
-    taitis, Lietuvoje valdė Naugarduką. Kunigaikštis Teodo­
-    ras išgirdo, kad jo brolių Podolės žemėje nebėra gy­
-    vųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.1 5
-    O tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­
-    dysis kunigaikštis Algirdas l6 .
+  citata_rodoma: "Ketvirtas jų brolis, kunigaikštis Teodoras Karijo- \ntaitis, Lietuvoje valdė Naugarduką. Kunigaikštis Teodo­\nras išgirdo, kad jo brolių Podolės žemėje nebėra gy­\nvųjų tarpe, ir persikėlęs įsikūrė Podolės žemėje.1 5\nO tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­\ndysis kunigaikštis Algirdas l6 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193992
 - id: c-178790
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -327,4 +267,4 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196601
+    - t-009

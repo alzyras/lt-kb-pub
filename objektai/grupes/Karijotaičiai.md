@@ -40,8 +40,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 ## Teiginiai
 
 <a id="claim-t-171341"></a>
-- t-001
-  global_id: t-171341
+- t-018
   teiginys: "Algirdui leidus, trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 
 <a id="claim-t-171342"></a>
 - t-002
-  global_id: t-171342
   teiginys: "Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     - c-155910
 
 <a id="claim-t-171343"></a>
-- t-003
-  global_id: t-171343
+- t-019
   teiginys: "Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė Smotričo, Bakotos bei Kameneco pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     - c-155908
 
 <a id="claim-t-171344"></a>
-- t-004
-  global_id: t-171344
+- t-017
   teiginys: "Lietuvos kariuomenėje buvo Lietuvos valdovo Algirdo pajėgos ir jo brolio Karijoto trijų sūnų, Karijotaičių, vadovaujami kariai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,8 +109,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     - c-155906
 
 <a id="claim-t-184327"></a>
-- t-005
-  global_id: t-184327
+- t-020
   teiginys: "Karijotaičių pasirodymo Podolėje laikas nėra galutinai išaiškintas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -175,7 +170,8 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184327
+    - t-020
+
 - id: c-155906
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -194,26 +190,15 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     jūros pajūrio ir Krymo totorių teritori-
     jos trijų vadų-kunigaikščių Chadžibėjaus,
     Kutlugbugo, Dmitrijaus kariuomene.
-  citata_rodoma: |
-    Strijkovskis) teigia, kad Algirdas, su-
-    telkęs savo lietuvių pajėgas, žygiuoda-
-    mas Padniepre pro Kanevą, Čerkasus, ties
-    Mėlynaisiais Vandenimis sumušęs totorius.
-
-    Lietuvos kariuomenė buvo sudaryta
-    iš Lietuvos valdovo Algirdo ir jo brolio
-    Karijoto trijų sūnų - Karijotaičių vado-
-    vaujamų karių. Jie susirėmė su Juodosios
-    jūros pajūrio ir Krymo totorių teritori-
-    jos trijų vadų-kunigaikščių Chadžibėjaus,
-    Kutlugbugo, Dmitrijaus kariuomene.
+  citata_rodoma: "Strijkovskis) teigia, kad Algirdas, su-\ntelkęs savo lietuvių pajėgas, žygiuoda-\nmas Padniepre pro Kanevą, Čerkasus, ties\nMėlynaisiais Vandenimis sumušęs totorius.\n\nLietuvos kariuomenė buvo sudaryta\niš Lietuvos valdovo Algirdo ir jo brolio\nKarijoto trijų sūnų - Karijotaičių vado-\nvaujamų karių. Jie susirėmė su Juodosios\njūros pajūrio ir Krymo totorių teritori-\njos trijų vadų-kunigaikščių Chadžibėjaus,\nKutlugbugo, Dmitrijaus kariuomene."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171344
+    - t-017
+
 - id: c-155908
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -234,25 +219,15 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     nėms Rytų Europos šalims (Lenkijai, iš
     dalies Moldavijai, Vengrijai) sudarė sau-
     gesnę padėtį rytuose.
-  citata_rodoma: |
-    Tai buvo
-    pirmas Rytų Europoje toks didelis įsiverži-
-    mas į Ordos valdas, sudavęs jos įtakai di-
-    delį smūgį. Algirdo remiami Karijotaičiai,
-    įsitvirtinę Mažojoje Podolėje, vietiniams
-    gyventojams pritariant, organi-
-    zavo šio krašto gynybą nuo
-    totorių puolimų bei grobimų, statė minė-
-    tas Smotričo, Bakotos, Kameneco pilis.
-    Pietinių žemių (Kijevo, Mažosios Podolės
-    ir kt.
+  citata_rodoma: "Tai buvo\npirmas Rytų Europoje toks didelis įsiverži-\nmas į Ordos valdas, sudavęs jos įtakai di-\ndelį smūgį. Algirdo remiami Karijotaičiai,\nįsitvirtinę Mažojoje Podolėje, vietiniams\ngyventojams pritariant, organi-\nzavo šio krašto gynybą nuo\ntotorių puolimų bei grobimų, statė minė-\ntas Smotričo, Bakotos, Kameneco pilis.\nPietinių žemių (Kijevo, Mažosios Podolės\nir kt."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171343
+    - t-019
+
 - id: c-155909
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -287,7 +262,8 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171341
+    - t-018
+
 - id: c-155910
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -315,34 +291,15 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     lės jų baskakams. Karijotaičiai
     Podolėje pastatė Smotričo,
     Bakotos, Kameneco pilis, už-
-  citata_rodoma: |
-    Mūšio padariniai
-
-    „Pasakojime apie Podolę“ tei-
-    giama, kad Lietuvos valdovo
-    Algirdo brolio Karijoto, val-
-    dančio Lietuvos Naugarduką,
-    sūnūs - trys broliai Karijotaičiai,
-    leidus Algirdui, su Lietuvos
-    žemės pagalba, pa-
-    traukė į Podolės žemę
-    (Mažoji Podolė tarp Aukštutinių
-    Pietinio Bugo ir Dniestro, taigi
-
-    į vakarus nuo minėtos mūšio
-    vietos), kurioje nebuvo nė vie-
-    nos pilies. Jie susidraugavę su
-    vietiniais atamanais, ėmė ginti
-    Podolės žemę, neduoti duok-
-
-    lės jų baskakams.
+  citata_rodoma: "Mūšio padariniai\n\n„Pasakojime apie Podolę“ tei-\ngiama, kad Lietuvos valdovo\nAlgirdo brolio Karijoto, val-\ndančio Lietuvos Naugarduką,\nsūnūs - trys broliai Karijotaičiai,\nleidus Algirdui, su Lietuvos\nžemės pagalba, pa-\ntraukė į Podolės žemę\n(Mažoji Podolė tarp Aukštutinių\nPietinio Bugo ir Dniestro, taigi\n\nį vakarus nuo minėtos mūšio\nvietos), kurioje nebuvo nė vie-\nnos pilies. Jie susidraugavę su\nvietiniais atamanais, ėmė ginti\nPodolės žemę, neduoti duok-\n\nlės jų baskakams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171342
+    - t-002
+
 ## Ryšiai
 - Rėmė Karijotaičiai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Karijotaičiai keliavo į [[objektai/vietos/Podolė]]

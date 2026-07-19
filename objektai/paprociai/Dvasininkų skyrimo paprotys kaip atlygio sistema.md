@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-67071"></a>
 - t-001
-  global_id: t-67071
   teiginys: "Valdovai ir ponai dalijo bažnytines vietas, todėl dvasininkais dažnai tapdavo žmonės, siekę jų pelningumo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-67073"></a>
 - t-002
-  global_id: t-67073
   teiginys: "Pagal tuometinį dvasininkų skyrimo paprotį klebonus skirdavo bažnyčią pastačiusieji ir aprūpinusieji asmenys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +90,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67071
+    - t-001
+
 - id: c-67119
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -108,19 +107,11 @@ Nenurodyta
     nigų — vyskupas. Kadangi daugumas Lietuvos parapijų buvo
     įkurtos didžiojo kunigaikščio, tai ir daugumą klebonų skyrė
     didysis kunigaikštis.
-  citata_rodoma: |
-    priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje
-    Europoje, būtent klebonus skirdavo tas, kas pastatydavo ir
-
-    aprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis
-    kunigaikštis. Vyskupų paskyrimą tvirtindavo popiežius, o ku-
-    nigų — vyskupas. Kadangi daugumas Lietuvos parapijų buvo
-    įkurtos didžiojo kunigaikščio, tai ir daugumą klebonų skyrė
-    didysis kunigaikštis.
+  citata_rodoma: "priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje\nEuropoje, būtent klebonus skirdavo tas, kas pastatydavo ir\n\naprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis\nkunigaikštis. Vyskupų paskyrimą tvirtindavo popiežius, o ku-\nnigų — vyskupas. Kadangi daugumas Lietuvos parapijų buvo\nįkurtos didžiojo kunigaikščio, tai ir daugumą klebonų skyrė\ndidysis kunigaikštis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67073
+    - t-002

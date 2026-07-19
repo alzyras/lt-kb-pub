@@ -37,7 +37,6 @@ Dusburgietis teigia, kad mat popiežius pasakė, kad ir pasaulietiški, ir dvasi
 
 <a id="claim-t-58923"></a>
 - t-001
-  global_id: t-58923
   teiginys: "Popiežiaus Bonifaco Prancūzijos karaliui siųstas priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Dusburgietis teigia, kad mat popiežius pasakė, kad ir pasaulietiški, ir dvasi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58923
+    - t-001

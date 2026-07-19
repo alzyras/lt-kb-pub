@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-41380"></a>
 - t-001
-  global_id: t-41380
   teiginys: "Per Vilniaus išvadavimą A. Nelepcos vadovaujama apie 30 karių grupė puolė Pacų rūmus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,16 +86,11 @@ Nenurodyta
 
     N. Arsenjevo butas, saugomas 12 muš-
     kietininkų.
-  citata_rodoma: |
-    Kpt. A. Nelepcos vadovaujama maždaug
-    30 karių grupė puolė Pacų rūmus, kuriuose
-    buvo rusų Vilniaus įgulos vado generolo
-
-    N.
+  citata_rodoma: "Kpt. A. Nelepcos vadovaujama maždaug\n30 karių grupė puolė Pacų rūmus, kuriuose\nbuvo rusų Vilniaus įgulos vado generolo\n\nN."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41380
+    - t-001

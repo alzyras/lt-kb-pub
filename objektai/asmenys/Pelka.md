@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-87821"></a>
 - t-001
-  global_id: t-87821
   teiginys: "Gniezno arkivyskupas Pelka 1253 m. įšventino Petrą ir pirmąjį Lietuvos vyskupą Vitą vyskupais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,16 +82,11 @@ media_all_json: |-
     vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­
     tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
     kupais. (Žr. 1.
-  citata_rodoma: |
-    į lenkų kalbą 1822 m., Varšuva), nuro­
-    dydama, kad „1253 metais Petras, išrinktas Poznanės
-    vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­
-    tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
-    kupais. (Žr.
+  citata_rodoma: "į lenkų kalbą 1822 m., Varšuva), nuro­\ndydama, kad „1253 metais Petras, išrinktas Poznanės \nvyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­\ntuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­\nkupais. (Žr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87821
+    - t-001

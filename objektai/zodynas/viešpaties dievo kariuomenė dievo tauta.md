@@ -33,7 +33,6 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
 
 <a id="claim-t-58940"></a>
 - t-001
-  global_id: t-58940
   teiginys: "Kronikoje Ordino broliai vadinami „viešpaties dievo kariuomene“ ir „dievo tauta“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,10 +46,9 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59572
-    - c-001
+
 <a id="claim-t-184020"></a>
 - t-002
-  global_id: t-184020
   teiginys: "Petras Dusburgietis Ordino veiksmus teisino krikščionybės platinimu ir vadino Ordino brolius „dievo tauta“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,7 +68,6 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
 
 <a id="claim-t-197039"></a>
 - t-003
-  global_id: t-197039
   teiginys: "Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“ (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58940
+
 ## Citatos
 
 - id: c-59572
@@ -128,25 +124,15 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
     „už nukryžiuotojo viešpaties kančias“ (III, 8, 71, 296), Prūsijoje kritusių krikščionių
     143  PD, III, 7, 66; SRP, B. 5, S. 597; Perlbach M. Die Aeltere Chronik von Oliva, S.
     60; PKD, s.
-  citata_rodoma: |
-    Kronikos idėjinė reikšmė ir mokslinė svarba
-
-      Kronikos tekstas ryškiai parodo jos autoriaus, kaip vokiečių feodalų karinės-religinės
-    organizacijos ideologo, siekimus išaukštinti ir pateisinti Ordino veiksmus krikščionybės
-    platinimu. Čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“
-    (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties
-    dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas  į
-    Ordiną — tai „šventas sumanymas“ (III,284).
-      Čia verta priminti, kad Vakarų Europos pasaulietiniai ir bažnytiniai feodalai, norėdami
-    praturtėti, užvaldyti nekrikščioniškas šalis, skelbė kryžiaus žygių idėjas: žemė su visais
-    turtais esanti dievo dovana, ja neteisėtai naudojasi krikščionybės priešai.
+  citata_rodoma: "Kronikos idėjinė reikšmė ir mokslinė svarba\n\n  Kronikos tekstas ryškiai parodo jos autoriaus, kaip vokiečių feodalų karinės-religinės\norganizacijos ideologo, siekimus išaukštinti ir pateisinti Ordino veiksmus krikščionybės\nplatinimu. Čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“\n(III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties\ndievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas  į\nOrdiną — tai „šventas sumanymas“ (III,284).\n  Čia verta priminti, kad Vakarų Europos pasaulietiniai ir bažnytiniai feodalai, norėdami\npraturtėti, užvaldyti nekrikščioniškas šalis, skelbė kryžiaus žygių idėjas: žemė su visais\nturtais esanti dievo dovana, ja neteisėtai naudojasi krikščionybės priešai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58940
+    - t-001
+
 - id: c-167405
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -169,5 +155,5 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184020
-    - t-197039
+    - t-002
+    - t-003

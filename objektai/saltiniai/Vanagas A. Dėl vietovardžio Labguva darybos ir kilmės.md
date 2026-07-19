@@ -32,13 +32,44 @@ media_all_json: |-
 
 Dusburgietis teigia, kad vanagas A.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'A. Vanago straipsnis apie vietovardžio Labguva darybą ir kilmę paskelbtas „Baltisticoje“ 1966 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.
+    185—189.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-61971
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    114—120.
+    Мажюлис В. Заметки по прусскому вокализму. — Вопросы теории и истории языка,
+    Л., 1963, с.
+  citata_rodoma: "Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.\n185—189."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-61339"></a>
 - t-001
-  global_id: t-61339
   teiginys: "A. Vanago straipsnis apie vietovardžio Labguva darybą ir kilmę paskelbtas „Baltisticoje“ 1966 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Labguva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,38 +84,3 @@ Dusburgietis teigia, kad vanagas A.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidinį ir metus."
   pagrindžia:
     - c-61971
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'A. Vanago straipsnis apie vietovardžio Labguva darybą ir kilmę paskelbtas „Baltisticoje“ 1966 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.
-    185—189.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61339
-## Citatos
-
-- id: c-61971
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    114—120.
-    Мажюлис В. Заметки по прусскому вокализму. — Вопросы теории и истории языка,
-    Л., 1963, с.
-  citata_rodoma: |
-    Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.
-    185—189.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-61339

@@ -38,7 +38,6 @@ Gedimino valdžią tuo metu pripažino ir Kijevo priemiesčiai Vyšgorodas įvyk
 
 <a id="claim-t-42340"></a>
 - t-001
-  global_id: t-42340
   teiginys: "Gedimino valdžią tuo metu pripažino ir Kijevo priemiestis Vyšgorodas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,18 +73,11 @@ Gedimino valdžią tuo metu pripažino ir Kijevo priemiesčiai Vyšgorodas įvyk
     kad Lietuvai palankiausia situacija buvo
     1325-1326 m., ypač 1325 m., kai buvo apsi-
     drausta nuo Kryžiuočių ordino puolimo.
-  citata_rodoma: |
-    Gedimino valdžią tuo metu pripa-
-
-    žino ir Kijevo priemiesčiai Vyšgorodas
-
-    įvykių į vakarus nuo Lietuvos analizė rodo,
-    kad Lietuvai palankiausia situacija buvo
-    1325-1326 m.
+  citata_rodoma: "Gedimino valdžią tuo metu pripa-\n\nžino ir Kijevo priemiesčiai Vyšgorodas\n\nįvykių į vakarus nuo Lietuvos analizė rodo,\nkad Lietuvai palankiausia situacija buvo\n1325-1326 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42340
+    - t-001

@@ -33,7 +33,6 @@ Penktajame dešimtmetyje kunigaikštis Aligačis, Krymo chano Sagapo Girėjaus p
 
 <a id="claim-t-202333"></a>
 - t-001
-  global_id: t-202333
   teiginys: "Penktajame dešimtmetyje kunigaikštis Aligačis, Krymo chano Sagapo Girėjaus pasiuntinys, pagal sutartį su Žygimantu Senuoju laidavo prekybos laisvę lenkų ir lietuvių pirkliams Kafoje ir Perekope."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,5 @@ Penktajame dešimtmetyje kunigaikštis Aligačis, Krymo chano Sagapo Girėjaus p
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202333
+    - t-001

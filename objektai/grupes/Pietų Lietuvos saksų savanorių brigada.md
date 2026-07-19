@@ -37,7 +37,6 @@ Pradžioje atvykę saksų savanoriai sudarė 46-ąją saksų savanorių divizij�
 
 <a id="claim-t-41113"></a>
 - t-001
-  global_id: t-41113
   teiginys: "1919 m. kovo pabaigoje 46-oji saksų savanorių divizija buvo performuota į Pietų Lietuvos saksų savanorių brigadą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,17 +68,11 @@ Pradžioje atvykę saksų savanoriai sudarė 46-ąją saksų savanorių divizij�
     Be šių pajėgų dar buvo įvairiuose mies- eskadronas, pionierių kuopa, ryšių rinktinė, naikintuvų eskadrilė, autorinktinė, veteri-
     tuose ir apskrityse besikuriančių karo narinė ligoninė, kepykla ir lauko paštas.
     komendantūrų kuopos.
-  citata_rodoma: |
-    Pradžioje atvykę saksų savanoriai sudarė 46-ąją saksų savanorių diviziją. 1919 m. kovo
-    pabaigoje ši divizija buvo performuota į Pietų Lietuvos saksų savanorių brigadą. Ją sudarė
-    apsaugos būriai (apie 200 savanorių). trys pulkai, atskirasis batalionas Raseiniuose, keturios artilerijos baterijos, kavalerijos
-
-    Be šių pajėgų dar buvo įvairiuose mies- eskadronas, pionierių kuopa, ryšių rinktinė, naikintuvų eskadrilė, autorinktinė, veteri-
-    tuose ir apskrityse besikuriančių karo narinė ligoninė, kepykla ir lauko paštas.
+  citata_rodoma: "Pradžioje atvykę saksų savanoriai sudarė 46-ąją saksų savanorių diviziją. 1919 m. kovo\npabaigoje ši divizija buvo performuota į Pietų Lietuvos saksų savanorių brigadą. Ją sudarė\napsaugos būriai (apie 200 savanorių). trys pulkai, atskirasis batalionas Raseiniuose, keturios artilerijos baterijos, kavalerijos\n\nBe šių pajėgų dar buvo įvairiuose mies- eskadronas, pionierių kuopa, ryšių rinktinė, naikintuvų eskadrilė, autorinktinė, veteri-\ntuose ir apskrityse besikuriančių karo narinė ligoninė, kepykla ir lauko paštas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41113
+    - t-001

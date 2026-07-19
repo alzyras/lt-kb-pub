@@ -31,7 +31,6 @@ Be to, pagal šią fundaciją ir tvarką, mūsų perimtą iš ją įvedusio pirm
 
 <a id="claim-t-86531"></a>
 - t-001
-  global_id: t-86531
   teiginys: "Pabaisko bažnyčios valdose leista laikyti tik jai priklausančias karčemas, kuriose buvo galima pilstyti midų, alų ir degtinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Be to, pagal šią fundaciją ir tvarką, mūsų perimtą iš ją įvedusio pirm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86531
+    - t-001

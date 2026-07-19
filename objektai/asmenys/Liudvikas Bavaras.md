@@ -41,8 +41,7 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
 ## Teiginiai
 
 <a id="claim-t-60052"></a>
-- t-001
-  global_id: t-60052
+- t-002
   teiginys: "1325–1326 m. Liudvikas Bavaras buvo vienoje jėgų grupuotėje su Brandenburgu, Kryžiuočių ordinu ir Galičo–Volynės kunigaikštyste."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,11 +58,10 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
   temporalinis_llm_pakomentavimas: "Pradinis sakinys nutrūkęs ir prasideda kontekstiniu žodžiu; citata remia aiškesnę formuluotę."
   pagrindžia:
     - c-60685
-    - c-002
     - c-167493
+
 <a id="claim-t-60054"></a>
-- t-002
-  global_id: t-60054
+- t-001
   teiginys: "1323 m. popiežiaus kurija pradėjo organizuoti koaliciją prieš Vokietijos karalių Liudviką Bavarą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
     - c-60684
 
 <a id="claim-t-194503"></a>
-- t-003
-  global_id: t-194503
+- t-005
   teiginys: "Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -111,8 +108,7 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60052
+
 ## Citatos
 
 - id: c-60684
@@ -125,18 +121,15 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
     Vengrijos sąjungininkė Lenkija. Kilus vaidams dėl Brandenburgo valdų, popiežius 1324 m.
     pasmerkė Liudviką. Vladislovo Lokietkos valdoma Lenkija stojo į kovą su Brandenburgu
     — norėta atgauti markgrafų užgrobtas žemes.
-  citata_rodoma: |
-    Kovodama su Vokietijos karaliumi Liudviku Bavaru, vėliau tapusiu imperatoriumi, 1323
-    m. popiežiaus kurija pradėjo prieš jį organizuoti koaliciją, į kurią įėjo Austrija, Vengrija ir
-    Vengrijos sąjungininkė Lenkija. Kilus vaidams dėl Brandenburgo valdų, popiežius 1324 m.
-    pasmerkė Liudviką.
+  citata_rodoma: "Kovodama su Vokietijos karaliumi Liudviku Bavaru, vėliau tapusiu imperatoriumi, 1323\nm. popiežiaus kurija pradėjo prieš jį organizuoti koaliciją, į kurią įėjo Austrija, Vengrija ir\nVengrijos sąjungininkė Lenkija. Kilus vaidams dėl Brandenburgo valdų, popiežius 1324 m.\npasmerkė Liudviką."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60054
+    - t-001
+
 - id: c-60685
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -150,19 +143,15 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
     patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos
     įtakos Kryžiuočių valstybei, jos ekonomikai61, o feodalinė Lietuvos valstybė atimtose iš
     Aukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš Vakarų.
-  citata_rodoma: |
-    Taigi 1325— 1326 m. Centrinėje bei Rytų
-    Europoje buvo dvi jėgų grupuotės: vienoje pusėje popiežiaus kurija, Vengrija, Lenkija,
-    Lietuva, o kitoje — Vokietijos valdovas Liudvikas Bavaras, Brandenburgas, Kryžiuočių
-    ordinas ir prie jo prisijungusi Galičo—Volynės kunigaikštystė60.
-      Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m.
+  citata_rodoma: "Taigi 1325— 1326 m. Centrinėje bei Rytų\nEuropoje buvo dvi jėgų grupuotės: vienoje pusėje popiežiaus kurija, Vengrija, Lenkija,\nLietuva, o kitoje — Vokietijos valdovas Liudvikas Bavaras, Brandenburgas, Kryžiuočių\nordinas ir prie jo prisijungusi Galičo—Volynės kunigaikštystė60.\n  Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60052
+    - t-002
+
 - id: c-60686
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -187,7 +176,8 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194503
+    - t-005
+
 - id: c-167493
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -203,3 +193,5 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

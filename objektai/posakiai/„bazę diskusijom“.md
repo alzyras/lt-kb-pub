@@ -37,7 +37,6 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.
 
 <a id="claim-t-77843"></a>
 - t-001
-  global_id: t-77843
   teiginys: "Lietuva ir Lenkija sutarė priimti Himanso planą kaip „bazę diskusijom“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77843
+    - t-001

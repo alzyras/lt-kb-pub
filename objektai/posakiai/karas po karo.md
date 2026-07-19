@@ -44,8 +44,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09685"></a>
-- t-001
-  global_id: t-09685
+- t-004
   teiginys: "Pavadinimas „karas po karo“ citatoje gretinamas su Lietuvos–SSRS karo (1945–1953) pavadinimu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -64,8 +63,7 @@ media_all_json: |-
     - c-12495
 
 <a id="claim-t-09686"></a>
-- t-002
-  global_id: t-09686
+- t-003
   teiginys: "Ginkluota rezistencija šiandien vadinama „karu po karo“ arba Lietuvos–SSRS karu (1945–1953)."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -116,14 +114,12 @@ media_all_json: |-
     vieną heroizmo pavyzdį, o gal net visą karą galima pavadinti he-
     roizmu. Tiesa, kartais mūsų priešai jį bando vadinti „pilietiniu
     karu“.
-  citata_rodoma: |
-    ir ginkluota rezistencija, šiandien vadinama „karu po karo“ arba
-    Lietuvos-ssRS karu (1945-1953).
+  citata_rodoma: "ir ginkluota rezistencija, šiandien vadinama „karu po karo“ arba\nLietuvos-ssRS karu (1945-1953)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09685
-    - t-09686
+    - t-004
+    - t-003

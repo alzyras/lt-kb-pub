@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-87169"></a>
 - t-001
-  global_id: t-87169
   teiginys: "1422 m. Vilniui leista kartu su svarbiausiais karalystės miestais laiduoti sutartį su kryžiuočiais prie Osos upės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +77,6 @@ Nenurodyta
 
 <a id="claim-t-87170"></a>
 - t-002
-  global_id: t-87170
   teiginys: "Vilniaus miestiečių luomas turėjo nustatytą vietą krašto reprezentacijose ir nuo Vytauto laikų dalyvavo Lietuvos seimuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,21 +111,15 @@ Nenurodyta
     Varšuv. que Masoviae ab um, et Paulum deRus-
     76 dorf, Magistrum Cruciferorum et suum
     Kojałowicz,Pars.
-  citata_rodoma: |
-    ) pageidaujamu valdovu kunigaikštį
-    Žygimantą Kaributaitį, savo sūnėną. Vilniaus miesto reikšmė
-    jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių
-    karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos
-    su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.
-    75
-    Žr.
+  citata_rodoma: ") pageidaujamu valdovu kunigaikštį \nŽygimantą Kaributaitį, savo sūnėną. Vilniaus miesto reikšmė \njau anais laikais buvo tokia didelė, kad lygia greta svarbiausių \nkaralystės miestų, jam buvo leista laiduoti sutarties, sudarytos \nsu kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.\n75\nŽr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87169
+    - t-001
+
 - id: c-83149
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -156,4 +148,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87170
+    - t-002

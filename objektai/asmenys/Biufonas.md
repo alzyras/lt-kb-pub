@@ -27,25 +27,11 @@ media_all_json: |-
 
 Biufono sistema, kurią cituoja Teodoras Narbutas, organinio pasaulio pradžią siejo su ašigaliais.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-191496"></a>
-- t-001
-  global_id: t-191496
-  teiginys: 'Biufono sistema, kurią cituoja Teodoras Narbutas, organinio pasaulio pradžią siejo su ašigaliais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas sakinys apie Biufono sistemą ir nurodo, kad ją cituoja Narbutas. Nepridėta platesnio Humbolto konteksto.'
-  pagrindžia:
-    - c-174378
-
-## Citatos
-
-- id: c-174378
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'Biufono sistema, kurią cituoja Teodoras Narbutas, organinio pasaulio pradžią siejo su ašigaliais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     36
 
@@ -56,10 +42,8 @@ Biufono sistema, kurią cituoja Teodoras Narbutas, organinio pasaulio pradžią 
     Humboltas** tvirtina, jog, kai skystoji materija staiga
     atsiskyrė nuo kietosios, Žemės rutulyje atsirado tiek ener­
     gijos, kad ji buvo karšta tarsi raudonai įkaitinta geležis.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191496
+  statusas: verified

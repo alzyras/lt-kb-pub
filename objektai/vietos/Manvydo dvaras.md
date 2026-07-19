@@ -31,7 +31,6 @@ Manvydo dvaras.
 
 <a id="claim-t-194285"></a>
 - t-001
-  global_id: t-194285
   teiginys: "Manvydo dvaras."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Manvydo dvaras.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194285
+    - t-001

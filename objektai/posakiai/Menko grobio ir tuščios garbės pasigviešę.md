@@ -31,7 +31,6 @@ Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkirši
 
 <a id="claim-t-86863"></a>
 - t-001
-  global_id: t-86863
   teiginys: "Apgultieji prancūzams priekaištavo, kad šie, menko grobio ir tuščios garbės pasigviešę, atvyko lieti krikščionių kraujo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkirši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86863
+    - t-001

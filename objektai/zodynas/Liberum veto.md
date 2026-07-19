@@ -61,8 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-168674"></a>
-- t-001
-  global_id: t-168674
+- t-005
   teiginys: "Liberum veto reiškė laisvojo pasipriešinimo teisę, dėl kurios daug seimų išsiskirstydavo nieko nenuveikę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,16 +95,11 @@ Nenurodyta
 
 
     nieko nenuveikę.
-  citata_rodoma: |
-    _ Tatai vadinosi _liberum veto,_ t. y. laisvojo
-    pasipriešinimo teisė. Dėl jos daugybė seimų turėjo išsiskirstyti,
-
-
-    nieko nenuveikę.
+  citata_rodoma: "_ Tatai vadinosi _liberum veto,_ t. y. laisvojo\npasipriešinimo teisė. Dėl jos daugybė seimų turėjo išsiskirstyti,\n\n\nnieko nenuveikę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-168674
+    - t-005

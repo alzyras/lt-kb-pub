@@ -29,8 +29,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 ## Teiginiai
 
 <a id="claim-t-90009"></a>
-- t-001
-  global_id: t-90009
+- t-002
   teiginys: "Stanta su bendrais Bartenšteino pilyje paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,8 +45,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     - c-85913
 
 <a id="claim-t-90010"></a>
-- t-002
-  global_id: t-90010
+- t-001
   teiginys: "Brolis Rudolfas, vadinamas Bodemeru, Bartenšteino pilyje pateko į Stantos ir jo bendrų nelaisvę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,17 +79,12 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė į
     Bartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš
     Libencelės su visa jų šeimyna.
-  citata_rodoma: |
-    Šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta,
-    Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei,
-    taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė  į
-    Bartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš
-    Libencelės su visa jų šeimyna.
+  citata_rodoma: "Šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta,\nTrinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei,\ntaip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė  į\nBartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš\nLibencelės su visa jų šeimyna."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90009
-    - t-90010
+    - t-002
+    - t-001

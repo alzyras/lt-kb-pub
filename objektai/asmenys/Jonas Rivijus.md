@@ -27,26 +27,11 @@ media_all_json: |-
 
 Narbutas laikė labiau tikėtina, kad Jonas Rivijus kai kuriuos kronikos dalykus perėmė iš senelio užrašų, o ne iš turėtos Rotundo Lietuvos istorijos.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-190104"></a>
-- t-001
-  global_id: t-190104
-  teiginys: 'Narbutas laikė labiau tikėtina, kad Jonas Rivijus kai kuriuos kronikos dalykus perėmė iš senelio užrašų, o ne iš turėtos Rotundo Lietuvos istorijos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas subjektas ir sutvarkyti nutrūkę žodžiai. Kadangi teiginys yra Narbuto šaltinių kilmės aiškinimas, palikta atribucija.'
-  susije_objektai: 'mentioned_place: Lietuva'
-  pagrindžia:
-    - c-172987
-
-## Citatos
-
-- id: c-172987
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas laikė labiau tikėtina, kad Jonas Rivijus kai kuriuos kronikos dalykus perėmė iš senelio užrašų, o ne iš turėtos Rotundo Lietuvos istorijos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Sunku atspėti, ar tai Rivijus iš tikrųjų turėjo ran­
     koje Rotundo Lietuvos istoriją, ar kai kuriuos dalykus įtraukė ( kro­
@@ -61,10 +46,8 @@ Narbutas laikė labiau tikėtina, kad Jonas Rivijus kai kuriuos kronikos dalykus
 
     nimas nuo seniausių amžių buvo susijęs su religinėmis apei­
     gomis.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190104
+  statusas: verified

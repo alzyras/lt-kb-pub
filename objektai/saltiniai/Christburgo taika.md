@@ -36,7 +36,6 @@ Jonynas: Christburgo taika , Lietuviškoji Enciklopedija, t.
 
 <a id="claim-t-100155"></a>
 - t-001
-  global_id: t-100155
   teiginys: "Jonynas: Christburgo taika , Lietuviškoji Enciklopedija, t."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,16 +60,12 @@ Jonynas: Christburgo taika , Lietuviškoji Enciklopedija, t.
     Žinoma, būdami užsitvėrę pagonybėje, lie­
     (^1) **Žr. Ig. Jonynas:** **_Christburgo taika_** **, Lietuviškoji Enciklopedija, t. 5,
     Kaunas 1937, 459-464 sk. —** **_Christburgo taika_** **, LE, t. 3, 541 p.**
-    (^2) **Plg.
-  citata_rodoma: |
-    Žinoma, būdami užsitvėrę pagonybėje, lie­
-    (^1) **Žr. Ig. Jonynas:** **_Christburgo taika_** **, Lietuviškoji Enciklopedija, t. 5,
-    Kaunas 1937, 459-464 sk. —** **_Christburgo taika_** **, LE, t. 3, 541 p.**
-    (^2) **Plg.
+    (^2) **Plg. Vcl.
+  citata_rodoma: "Žinoma, būdami užsitvėrę pagonybėje, lie­\n(^1) **Žr. Ig. Jonynas:** **_Christburgo taika_** **, Lietuviškoji Enciklopedija, t. 5,\nKaunas 1937, 459-464 sk. —** **_Christburgo taika_** **, LE, t. 3, 541 p.**\n(^2) **Plg."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100155
+    - t-001

@@ -38,8 +38,7 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
 ## Teiginiai
 
 <a id="claim-t-109625"></a>
-- t-001
-  global_id: t-109625
+- t-004
   teiginys: "1916 m. birželį Lozanos pavergtųjų tautų kongrese lietuviai pirmą kartą išsakė tikslą paskelbti Lietuvos nepriklausomybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
     - c-101636
 
 <a id="claim-t-109626"></a>
-- t-002
-  global_id: t-109626
+- t-005
   teiginys: "1916 m. birželį Lozanos pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti Lietuvos nepriklausomybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
     - c-101636
 
 <a id="claim-t-109627"></a>
-- t-003
-  global_id: t-109627
+- t-006
   teiginys: "JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą ir publikacijas užsienio kalbomis, kėlusias Lietuvos nepriklausomybės reikalą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -125,18 +122,15 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
     kai rėmė Lietuvių informacijos biuro Lozanoje veiklą (vedėjas Juozas Ga-
     brys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose
     kėlė Lietuvos nepriklausomybės reikalą.
-  citata_rodoma: |
-    dolerių. JAV lietuviai finansiš-
-    kai rėmė Lietuvių informacijos biuro Lozanoje veiklą (vedėjas Juozas Ga-
-    brys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose
-    kėlė Lietuvos nepriklausomybės reikalą.
+  citata_rodoma: "dolerių. JAV lietuviai finansiš-\nkai rėmė Lietuvių informacijos biuro Lozanoje veiklą (vedėjas Juozas Ga-\nbrys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose \nkėlė Lietuvos nepriklausomybės reikalą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109627
+    - t-006
+
 - id: c-101636
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -151,16 +145,12 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
     pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti savo
     šalies nepriklausomybę, karinė vokiečių valdžia neleido daug spekuliuoti
     šia tema.
-  citata_rodoma: |
-    Kai 1916 m. birželį Lozanos
-    pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti savo
-    šalies nepriklausomybę, karinė vokiečių valdžia neleido daug spekuliuoti
-    šia tema.
+  citata_rodoma: "Kai 1916 m. birželį Lozanos \npavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti savo \nšalies nepriklausomybę, karinė vokiečių valdžia neleido daug spekuliuoti \nšia tema."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109625
-    - t-109626
+    - t-004
+    - t-005

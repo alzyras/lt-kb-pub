@@ -31,7 +31,6 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
 
 <a id="claim-t-03004"></a>
 - t-001
-  global_id: t-03004
   teiginys: "Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje ir nespėjo suvokietinti visų lietuvių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
 
 <a id="claim-t-193142"></a>
 - t-002
-  global_id: t-193142
   teiginys: "Tuo būdu ordino laikais tik Mažoji Lietuva išvengė germanizacijos."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -75,18 +73,15 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
     ponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.;
     pagaliau pati germanizacijos politika M. Lietuvoj tesustiprėjo
     tik į XIX amž. galą, todėl nė nespėjo čia suvirškinti visų lietuvių.
-  citata_rodoma: |
-    Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik
-    ponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.;
-    pagaliau pati germanizacijos politika M. Lietuvoj tesustiprėjo
-    tik į XIX amž. galą, todėl nė nespėjo čia suvirškinti visų lietuvių.
+  citata_rodoma: "Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik\nponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.;\npagaliau pati germanizacijos politika M. Lietuvoj tesustiprėjo\ntik į XIX amž. galą, todėl nė nespėjo čia suvirškinti visų lietuvių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03004
+    - t-001
+
 - id: c-175896
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -104,4 +99,4 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193142
+    - t-002

@@ -39,7 +39,6 @@ Nepadėjo šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis kišusis 
 
 <a id="claim-t-88464"></a>
 - t-001
-  global_id: t-88464
   teiginys: "1428 m. popiežius Martynas V laišku perspėjo Kulmo vyskupą nesikišti į lenkų ir lietuvių reikalus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Nepadėjo šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis kišusis 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88464
+    - t-001

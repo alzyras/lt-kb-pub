@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-77929"></a>
 - t-001
-  global_id: t-77929
   teiginys: "1919 m. rugsėjo 26 d. Kaune lėktuvai skraidė virš minios, tempdami Lietuvos trispalvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,6 +125,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77929
+    - t-001
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Antanas Gustaitis]]

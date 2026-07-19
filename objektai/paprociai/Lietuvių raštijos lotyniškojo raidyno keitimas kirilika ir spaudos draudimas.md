@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-169867"></a>
-- t-001
-  global_id: t-169867
+- t-002
   teiginys: "M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, o draudimas galiojo iki 1904 m. pavasario."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -79,8 +78,7 @@ Nenurodyta
     - c-154558
 
 <a id="claim-t-169869"></a>
-- t-002
-  global_id: t-169869
+- t-001
   teiginys: "Valdžia manė, kad etninės Lietuvos kaimo mokykloms reikia dvikalbių elementorių, kuriuose lietuviški vertimai būtų užrašyti kirilika."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -97,7 +95,6 @@ Nenurodyta
 
 <a id="claim-t-169870"></a>
 - t-003
-  global_id: t-169870
   teiginys: "Valdžia siekė kaimo mokykloms išleisti dvikalbius elementorius, kuriuose lietuviški vertimai būtų rašomi kirilika."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -134,8 +131,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169869
-    - t-169870
+    - t-001
+    - t-003
+
 - id: c-154558
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -152,4 +150,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169867
+    - t-002

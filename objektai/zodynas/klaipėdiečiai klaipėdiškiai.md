@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-22186"></a>
 - t-001
-  global_id: t-22186
   teiginys: "Lietuva klaipėdiečius laikė lietuviais ir skaičiavo, kad Klaipėdos krašte lietuviai sudaro 50,8 procento gyventojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ media_all_json: |-
 
 <a id="claim-t-22187"></a>
 - t-002
-  global_id: t-22187
   teiginys: "Lietuva prarado lietuviškai kalbėjusių klaipėdiškių paramą, nes jie vietos seimelio rinkimuose balsavo už vokiškas partijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ media_all_json: |-
     - c-24875
 
 <a id="claim-t-183432"></a>
-- t-003
-  global_id: t-183432
+- t-004
   teiginys: "Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie vietos seimelio rinkimuose balsavo už vokiškas partijas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -107,15 +104,15 @@ media_all_json: |-
     psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“,
     kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas parti-
     jas (panašiai kaip elzasiečiai ar Silezijos lenkai).
-  citata_rodoma: |
-    Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir
+  citata_rodoma: "Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22187
+    - t-002
+
 - id: c-166826
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -133,7 +130,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22186
+    - t-001
+
 - id: c-166827
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -153,4 +151,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183432
+    - t-004

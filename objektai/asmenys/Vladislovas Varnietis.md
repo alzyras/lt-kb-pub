@@ -42,7 +42,6 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
 
 <a id="claim-t-87886"></a>
 - t-001
-  global_id: t-87886
   teiginys: "Mirus Jogailai, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės į Didžiąją Kunigaikštystę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
 
 <a id="claim-t-190997"></a>
 - t-002
-  global_id: t-190997
   teiginys: "1436 m. Lenkijos karalius Vladislovas Varnietis ir kryžiuočių magistras Povilas Rusdorfas sudarė pasienio konvenciją dėl sienos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,6 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
 
 <a id="claim-t-190998"></a>
 - t-003
-  global_id: t-190998
   teiginys: "Narbutas vietos padavimams priskiria teiginį, kad Mituva pavadinta nuo Vladislovo Varniečio laikais prie jos kranto buvusios muitinės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -102,10 +99,9 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173880
-    - c-003
+
 <a id="claim-t-197841"></a>
 - t-004
-  global_id: t-197841
   teiginys: "Tik 1436 metais Lenkijos karalius Vladis lovas Varnietis iš vienos ir kryžiuočių magistras Povilas Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku ria visiems laikams buvo nustatyta minėtų valstybių sie na, o Rusia buvo padalyta į dvi nelygias dalis2."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -135,8 +131,7 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190998
+
 ## Citatos
 
 - id: c-83865
@@ -160,7 +155,8 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87886
+    - t-001
+
 - id: c-173879
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -186,7 +182,8 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190997
+    - t-002
+
 - id: c-173880
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -206,23 +203,15 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
     pakrantėje. Man pavyko rasti ir monetą su įrašytu pava­
     dinimu Jūrijos, arba šio krašto, kurio aprašymas buvo
     šio veikalo pirmame tome (p. 194).
-  citata_rodoma: |
-    Vėliau panašus pavadinimas buvo suteiktas ir Lietu­
-    vos upei, kuri ligi šiol vadinasi Jūra ir prie kurios turėjo
-    būti seniausia šios genties gyvenamoji vieta; ji praside­
-    da Raseinių apskrityje, prie Štreitlaukių kaimo, įteka iš
-    dešinės į Nemuną. Netoli šios sruveno kita upė, seniau
-    vadinama Mažąja Jūra, arba Jūrele, o šiandien — Mitu-
-    va. Ji šitaip pavadinta todėl, kad nuo Lenkijos kara­
-    liaus Vladislovo Varniečio laikų, kaip sako vietos pada­
-    vimai, prie jos kranto buvo įrengta muitinė (Myto).
+  citata_rodoma: "Vėliau panašus pavadinimas buvo suteiktas ir Lietu­\nvos upei, kuri ligi šiol vadinasi Jūra ir prie kurios turėjo\nbūti seniausia šios genties gyvenamoji vieta; ji praside­\nda Raseinių apskrityje, prie Štreitlaukių kaimo, įteka iš\ndešinės į Nemuną. Netoli šios sruveno kita upė, seniau\nvadinama Mažąja Jūra, arba Jūrele, o šiandien — Mitu-\nva. Ji šitaip pavadinta todėl, kad nuo Lenkijos kara­\nliaus Vladislovo Varniečio laikų, kaip sako vietos pada­\nvimai, prie jos kranto buvo įrengta muitinė (Myto)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190998
+    - t-003
+
 - id: c-179358
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -246,6 +235,7 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197841
+    - t-004
+
 ## Ryšiai
 - Vladislovas Varnietis sudarė sutartį su [[objektai/asmenys/Rusdorfas]]

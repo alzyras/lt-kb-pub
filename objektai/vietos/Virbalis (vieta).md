@@ -33,7 +33,6 @@ Lietuviškųjų žemių miestai turėjo mokėti taip: Trakai 100 kapų grašių,
 
 <a id="claim-t-201708"></a>
 - t-001
-  global_id: t-201708
   teiginys: "Lietuviškųjų žemių miestai turėjo mokėti taip: Trakai 100 kapų grašių, Merkinė, Šeduva, Virbalis - po 40 kapų grašių, Jurbarkas, Panevėžys, Šiauliai - po 30 kapų grašių, dar keliolika miestų ir miestelių - po 8-20 kapų grašių."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Lietuviškųjų žemių miestai turėjo mokėti taip: Trakai 100 kapų grašių,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201708
+    - t-001

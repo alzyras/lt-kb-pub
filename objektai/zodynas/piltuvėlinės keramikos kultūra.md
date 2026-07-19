@@ -37,7 +37,6 @@ pietiniame Pabaltijyje, tarp Danijos ir Lietuvos plotų, išryškėjo gana savit
 
 <a id="claim-t-32802"></a>
 - t-001
-  global_id: t-32802
   teiginys: "Piltuvėlinės keramikos kultūra nuo 4000 m. pr. Kr. išryškėjo pietiniame Pabaltijyje, tarp Danijos ir Lietuvos plotų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ pietiniame Pabaltijyje, tarp Danijos ir Lietuvos plotų, išryškėjo gana savit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32802
+    - t-001

@@ -37,8 +37,7 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
 ## Teiginiai
 
 <a id="claim-t-19295"></a>
-- t-001
-  global_id: t-19295
+- t-002
   teiginys: "Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
     - c-22039
 
 <a id="claim-t-19296"></a>
-- t-002
-  global_id: t-19296
+- t-001
   teiginys: "Sovietmečiu Lietuvos miestuose ir miesteliuose buvo pristatyta V. Lenino statulų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,15 +84,15 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
     pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
     kabinėta komunistinių šūkių.
-  citata_rodoma: |
-    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
+  citata_rodoma: "vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19296
+    - t-001
+
 - id: c-22039
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -109,12 +107,11 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
     bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač
     Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai,
     o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.
-  citata_rodoma: |
-    bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač
+  citata_rodoma: "bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19295
+    - t-002

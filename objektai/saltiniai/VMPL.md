@@ -31,7 +31,6 @@ Abi pusi tą susitarimą patvirtino priesaiko- (^5) VMPL, I, nr.
 
 <a id="claim-t-100142"></a>
 - t-001
-  global_id: t-100142
   teiginys: "VMPL I tomo 693 numeris cituojamas prie susitarimo, kurį abi pusės patvirtino priesaika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,15 +59,11 @@ Abi pusi tą susitarimą patvirtino priesaiko- (^5) VMPL, I, nr.
 
     (^5) **VMPL, I, nr. 693.**
     (^6) **VMPL, I, nr. 692.
-  citata_rodoma: |
-    Abi pusi tą susitarimą patvirtino priesaiko-
-
-    (^5) **VMPL, I, nr. 693.**
-    (^6) **VMPL, I, nr.
+  citata_rodoma: "Abi pusi tą susitarimą patvirtino priesaiko-\n\n(^5) **VMPL, I, nr. 693.**\n(^6) **VMPL, I, nr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100142
+    - t-001

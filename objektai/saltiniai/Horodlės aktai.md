@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-88308"></a>
 - t-001
-  global_id: t-88308
   teiginys: "1755 m. Nesvyžiaus pilies archyvų liustracijoje buvo minimas Horodlėje sudarytas Lietuvos unijos su Lenkijos Karūna aktas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88308
+    - t-001

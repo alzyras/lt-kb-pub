@@ -30,7 +30,6 @@ Dusburgietis teigia, kad tai rodo Vygrių krašto vietovardžiai (Falk K.-O., Wo
 
 <a id="claim-t-91947"></a>
 - t-001
-  global_id: t-91947
   teiginys: "Tai rodo Vygrių krašto vietovardžiai (Falk K.-O., Wody wigierskie..., p. 3)."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Dusburgietis teigia, kad tai rodo Vygrių krašto vietovardžiai (Falk K.-O., Wo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91947
+    - t-001

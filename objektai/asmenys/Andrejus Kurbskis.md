@@ -30,8 +30,7 @@ Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Li
 ## Teiginiai
 
 <a id="claim-t-186031"></a>
-- t-001
-  global_id: t-186031
+- t-002
   teiginys: "Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Lietuvos pusės kunigaikščius su šeimomis ir tėvonijomis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -72,32 +71,11 @@ Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Li
     siškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,
     Jezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį
     su visais palydovais.
-  citata_rodoma: |
-    Lietuvos istorija
-    -737
-
-    ## Puslapis 736
-
-    V ė l p ra d e d a m a s
-    ras su M a sk v a
-    atmesti, nes nebuvo nė vieno reikalavimo, su kuriuo
-    jie galėjo sutikti. Kad jie galop patys suprastų, kokie
-    neprotingi jų reikalavimai, karalius pažadėjo atiduoti
-    Andrejų, bet tada, kai Ivanas savo ruožtu karaliui grą­
-    žinsiąs kunigaikščius Lengvenaičius, Glinskius, Belskius,
-    Trubeckojus, Odojevskius, Masalskius ir kitus su viso­
-    mis jų šeimynomis ir
-    tėvonijomis. Nieko nenuveikę,
-    pasiuntiniai patraukė atgal, ir
-    ka-
-    štai vėl įsiplieskė karas, kurį
-    maskvėnai pradėjo, nė nelau­
-    kdami, kol pasibaigs paliau­
-    bos.
+  citata_rodoma: "Lietuvos istorija\n-737\n\n## Puslapis 736\n\nV ė l p ra d e d a m a s\nras su M a sk v a\natmesti, nes nebuvo nė vieno reikalavimo, su kuriuo\njie galėjo sutikti. Kad jie galop patys suprastų, kokie\nneprotingi jų reikalavimai, karalius pažadėjo atiduoti\nAndrejų, bet tada, kai Ivanas savo ruožtu karaliui grą­\nžinsiąs kunigaikščius Lengvenaičius, Glinskius, Belskius,\nTrubeckojus, Odojevskius, Masalskius ir kitus su viso­\nmis jų šeimynomis ir\ntėvonijomis. Nieko nenuveikę,\npasiuntiniai patraukė atgal, ir\nka-\nštai vėl įsiplieskė karas, kurį\nmaskvėnai pradėjo, nė nelau­\nkdami, kol pasibaigs paliau­\nbos."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186031
+    - t-002

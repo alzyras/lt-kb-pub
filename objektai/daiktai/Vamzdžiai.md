@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-08345"></a>
 - t-001
-  global_id: t-08345
   teiginys: "Jaunuomenė pavasariais gaminosi ir naudojo vamzdžius iš karklų ar blendies, o piemenėliai turėjo molio pypynes."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -88,12 +87,11 @@ Nenurodyta
   citata_originali: |
     Taip pat vamzdžiais vamzdijo jaunuomenė, iš mauknos^559 karklų ar blendies padirbę pavasariais, lig žievei neprikepus;
         be tų vamzdžių turėjo piemenėliai molio pypynes, su kuriomis pavasarį ožaičius ir ėraičius po laukus ganydami tancino.
-  citata_rodoma: |
-    Taip pat vamzdžiais vamzdijo jaunuomenė, iš mauknos^559 karklų ar blendies padirbę pavasariais, lig žievei neprikepus; be tų vamzdžių turėjo piemenėliai molio pypynes, su kuriomis pavasarį ožaičius ir ėraičius po laukus ganydami tancino.
+  citata_rodoma: "Taip pat vamzdžiais vamzdijo jaunuomenė, iš mauknos^559 karklų ar blendies padirbę pavasariais, lig žievei neprikepus; be tų vamzdžių turėjo piemenėliai molio pypynes, su kuriomis pavasarį ožaičius ir ėraičius po laukus ganydami tancino."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08345
+    - t-001

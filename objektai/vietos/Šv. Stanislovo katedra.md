@@ -31,7 +31,6 @@ Stanislovo katedrą.
 
 <a id="claim-t-86319"></a>
 - t-001
-  global_id: t-86319
   teiginys: "Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Stanislovo katedrą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86319
+    - t-001

@@ -7,12 +7,12 @@ datos:
   - '1625 m.'
 date_start: '1625'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-202335"></a>
 - t-001
-  global_id: t-202335
   teiginys: "1625 m. Vilniaus pirklio Grigaliaus Zakarevičiaus testamente įrašyti dveji šermuonėlio kailio pamušalai, kurių kiekvienas kainavęs po 17 kapų grašių98."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,5 @@ media_all_json: |-
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202335
+    - t-001

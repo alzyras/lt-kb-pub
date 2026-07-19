@@ -28,7 +28,6 @@ Išgirdę tą, gudai vokyčiams tuojau karę apskelbė ir tuojau su 12 000 karė
 
 <a id="claim-t-201427"></a>
 - t-001
-  global_id: t-201427
   teiginys: "Išgirdę tą, gudai vokyčiams tuojau karę apskelbė ir tuojau su 12 000 karėjų ku- 1 K a r a m z i n , Istor."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Išgirdę tą, gudai vokyčiams tuojau karę apskelbė ir tuojau su 12 000 karė
 ## Citatos
 
 - id: c-184777
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Išgirdę tą, gudai vokyčiams
     tuojau karę apskelbė ir tuojau su 12 000 karėjų ku-
@@ -54,4 +54,4 @@ Išgirdę tą, gudai vokyčiams tuojau karę apskelbė ir tuojau su 12 000 karė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201427
+    - t-001

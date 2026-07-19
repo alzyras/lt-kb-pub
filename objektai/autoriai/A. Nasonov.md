@@ -36,7 +36,6 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 
 <a id="claim-t-30525"></a>
 - t-001
-  global_id: t-30525
   teiginys: "A. Nasonovas yra 1950 m. Maskvoje ir Leningrade išleistos „Novgorodskoji pervaja letopis“ leidinio autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 
 <a id="claim-t-30526"></a>
 - t-002
-  global_id: t-30526
   teiginys: "A. N. Nasonovas yra 1940 m. Maskvoje išleisto veikalo „Mongoly i Rus’. Istorija tatarskoj politiki na Rusi“ autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,19 +90,15 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
     **1950, 457 p.**
     (^48) **PSRL, 23, 139 p.**
     (^49) **PSRL, 11, 193-194.
-  citata_rodoma: |
-    vasarą su lietuviu, lenku ir kryžiuočiu būriais (ordinas atsiuntė
-    (^47) **A. Nasonov :** **_Novogrodskaja pervaja letopis' staršego i mladšego izvo-
-    dov_** **, Moskva-Leningrad 1950, 398 p.—M. Priselkov :** **_Troickaja letopis',_**
-    **1950, 457 p.**
-    (^48) **PSRL, 23, 139 p.
+  citata_rodoma: "vasarą su lietuviu, lenku ir kryžiuočiu būriais (ordinas atsiuntė\n(^47) **A. Nasonov :** **_Novogrodskaja pervaja letopis' staršego i mladšego izvo-\ndov_** **, Moskva-Leningrad 1950, 398 p.—M. Priselkov :** **_Troickaja letopis',_**\n**1950, 457 p.**\n(^48) **PSRL, 23, 139 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30525
+    - t-001
+
 - id: c-32880
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -112,13 +106,11 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
   citata_originali: |
     1957. — Nasonov, A. N. : _Mongoly i Rus’. Istorija tatarskoj politiki na
     Rusi,_ Maskva 1940.
-  citata_rodoma: |
-    — Nasonov, A. N. : _Mongoly i Rus’. Istorija tatarskoj politiki na
-    Rusi,_ Maskva 1940.
+  citata_rodoma: "— Nasonov, A. N. : _Mongoly i Rus’. Istorija tatarskoj politiki na\nRusi,_ Maskva 1940."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30526
+    - t-002

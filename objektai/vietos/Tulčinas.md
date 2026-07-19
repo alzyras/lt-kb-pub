@@ -31,7 +31,6 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 
 <a id="claim-t-02799"></a>
 - t-001
-  global_id: t-02799
   teiginys: "Potockiai Tulčine turėjo vieną iš žymių Lenkijos dvarų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,15 +59,11 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
     mius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine,
     Branickis Balstogėje. Lietuvoje puikiausias dvaras buvo Radvilų
     Nesvyžiuje; vėliau iškilo Oginskių dvaras Slanime.
-  citata_rodoma: |
-    Lenkijoje tokiuos žy-
-    mius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine,
-    Branickis Balstogėje. Lietuvoje puikiausias dvaras buvo Radvilų
-    Nesvyžiuje; vėliau iškilo Oginskių dvaras Slanime.
+  citata_rodoma: "Lenkijoje tokiuos žy-\nmius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine,\nBranickis Balstogėje. Lietuvoje puikiausias dvaras buvo Radvilų\nNesvyžiuje; vėliau iškilo Oginskių dvaras Slanime."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02799
+    - t-001

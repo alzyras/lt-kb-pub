@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-20470"></a>
 - t-001
-  global_id: t-20470
   teiginys: "Valdant Gediminui ir Algirdui Lietuvos valstybės teritorija išsiplėtė, o Lietuva tapo reikšminga Vidurio ir Rytų Europos jėga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,12 +90,11 @@ Nenurodyta
     ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir
     Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga
     Vidurio ir Rytų Europos jėga.
-  citata_rodoma: |
-    Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga
+  citata_rodoma: "Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20470
+    - t-001

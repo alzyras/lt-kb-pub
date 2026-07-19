@@ -36,23 +36,11 @@ media_all_json: |-
 
 ' M stislavlio kunigaikštis Michailas — tai Zaslavlio (prie Mins ko) kunigaikštis M ykolas Jonaitis Zaslavliškis, Jaunučio palikuo nis.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194141"></a>
-- t-001
-  global_id: t-194141
-  teiginys: ''' M stislavlio kunigaikštis Michailas — tai Zaslavlio (prie Mins ko) kunigaikštis M ykolas Jonaitis Zaslavliškis, Jaunučio palikuo nis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-176754
-## Citatos
-
-- id: c-176754
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: ''' M stislavlio kunigaikštis Michailas — tai Zaslavlio (prie Mins ko) kunigaikštis M ykolas Jonaitis Zaslavliškis, Jaunučio palikuo nis.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     *' M stislavlio kunigaikštis Michailas — tai Zaslavlio (prie Mins­
     ko) kunigaikštis M ykolas Jonaitis Zaslavliškis, Jaunučio palikuo­
@@ -60,10 +48,8 @@ media_all_json: |-
     vietininkas Vitebske. Strategiškai svarbų Mstislavlj ėm ė valdyti
     1499 m., vedęs M stislavlio kunigaikštytę Julijoną iš M stislavlio
     kunigaikščių Lengvenaičių giminės.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:29"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194141
+  statusas: verified

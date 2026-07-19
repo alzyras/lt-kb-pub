@@ -31,7 +31,6 @@ Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos ve
 
 <a id="claim-t-41476"></a>
 - t-001
-  global_id: t-41476
   teiginys: "Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos vesti į Vilnių, o iš ten — „traukiniais į Maskvą“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,16 +61,11 @@ Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos ve
     į Vilnių, o iš ten — „traukiniais į Maskvą“.
     Sutemus pulko likučiai susirinko Stakliš-
     kėse ir netrukus pasitraukė į Aukštadvarį.
-  citata_rodoma: |
-    Raudonarmiečiai bėgo plūsdami savo va-
-    dovybę ir reikalaudami tuoj pat juos vesti
-    į Vilnių, o iš ten — „traukiniais į Maskvą“.
-    Sutemus pulko likučiai susirinko Stakliš-
-    kėse ir netrukus pasitraukė į Aukštadvarį.
+  citata_rodoma: "Raudonarmiečiai bėgo plūsdami savo va-\ndovybę ir reikalaudami tuoj pat juos vesti\nį Vilnių, o iš ten — „traukiniais į Maskvą“.\nSutemus pulko likučiai susirinko Stakliš-\nkėse ir netrukus pasitraukė į Aukštadvarį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41476
+    - t-001

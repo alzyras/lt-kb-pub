@@ -32,7 +32,6 @@ Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.
 
 <a id="claim-t-40232"></a>
 - t-001
-  global_id: t-40232
   teiginys: "Jonušas Svierčiovskis vadovavo samdinių pulkams, kurie turėjo sudaryti daugiau kaip 8000 karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,20 +69,11 @@ Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.
     džiojo etmono), visų pirma - karaliaus
     dvarionys, kuriems vadovavo Albertas
     (Vaitiekus) Sampolinskis.
-  citata_rodoma: |
-    Pastariesiems vadovavo
-    patyręs karys Jonušas Svierčiovskis.
-    Juos papildė Lenkijos karalystės pini-
-    gais suverbuoti žmonės ir lenkų riteriai
-    savanoriai (10 vėliavų), vadovaujami
-    Jono Tarnovskio (būsimo Lenkijos di-
-    džiojo etmono), visų pirma - karaliaus
-    dvarionys, kuriems vadovavo Albertas
-    (Vaitiekus) Sampolinskis.
+  citata_rodoma: "Pastariesiems vadovavo\npatyręs karys Jonušas Svierčiovskis.\nJuos papildė Lenkijos karalystės pini-\ngais suverbuoti žmonės ir lenkų riteriai\nsavanoriai (10 vėliavų), vadovaujami\nJono Tarnovskio (būsimo Lenkijos di-\ndžiojo etmono), visų pirma - karaliaus\ndvarionys, kuriems vadovavo Albertas\n(Vaitiekus) Sampolinskis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40232
+    - t-001

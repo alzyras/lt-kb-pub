@@ -40,8 +40,7 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 ## Teiginiai
 
 <a id="claim-t-69313"></a>
-- t-001
-  global_id: t-69313
+- t-003
   teiginys: "Vytauto laikais Lietuvos prekyba vakaruose siekė Stralsundą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 
 <a id="claim-t-69314"></a>
 - t-002
-  global_id: t-69314
   teiginys: "Stralsundas buvo vienas Hanzos miestų, suteikusių lietuvių ir lenkų pirkliams panašias privilegijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     - c-37731
 
 <a id="claim-t-69315"></a>
-- t-003
-  global_id: t-69315
+- t-001
   teiginys: "Gegužės 26 d. vienas iš laiškų buvo pasiųstas Hanzos miestams, tarp jų Stralsundui."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -106,19 +103,15 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     privilegijas^2 ). Kiek vėliau (1396) pats Vytautas padarė laisvos
     prekybos sutartis su Štetino (Pomeranijos) hercogu—Rygos ar­
     kivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.
-  citata_rodoma: |
-    Taip ir Hanzos miestai, kaip Anklamas, Stralsundas, Greifsval­
-    das, Greifenbergas suteikė lietuvių ir lenkų pirkliams panašias
-    privilegijas^2 ). Kiek vėliau (1396) pats Vytautas padarė laisvos
-    prekybos sutartis su Štetino (Pomeranijos) hercogu—Rygos ar­
-    kivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.
+  citata_rodoma: "Taip ir Hanzos miestai, kaip Anklamas, Stralsundas, Greifsval­\ndas, Greifenbergas suteikė lietuvių ir lenkų pirkliams panašias\nprivilegijas^2 ). Kiek vėliau (1396) pats Vytautas padarė laisvos\nprekybos sutartis su Štetino (Pomeranijos) hercogu—Rygos ar­\nkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69314
+    - t-002
+
 - id: c-37732
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -130,18 +123,15 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     Kaffą, pietuose Krokuvą ir Breslavą, vakaruose Stralsundą,
     šiaurėje Dorpatą ir Naugardą^1 ). Lietuvą Vytauto laikais paži­
     no Hanzos, Venecijos, Genujos, totorių pirkliai.
-  citata_rodoma: |
-    Ji siekė juk tolimiausius kraštus: rytuose
-    Kaffą, pietuose Krokuvą ir Breslavą, vakaruose Stralsundą,
-    šiaurėje Dorpatą ir Naugardą^1 ). Lietuvą Vytauto laikais paži­
-    no Hanzos, Venecijos, Genujos, totorių pirkliai.
+  citata_rodoma: "Ji siekė juk tolimiausius kraštus: rytuose\nKaffą, pietuose Krokuvą ir Breslavą, vakaruose Stralsundą,\nšiaurėje Dorpatą ir Naugardą^1 ). Lietuvą Vytauto laikais paži­\nno Hanzos, Venecijos, Genujos, totorių pirkliai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69313
+    - t-003
+
 - id: c-68682
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -160,4 +150,4 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69315
+    - t-001

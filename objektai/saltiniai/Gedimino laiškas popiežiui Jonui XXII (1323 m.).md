@@ -35,8 +35,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 ## Teiginiai
 
 <a id="claim-t-88131"></a>
-- t-001
-  global_id: t-88131
+- t-004
   teiginys: "Balińskis teigė, kad laiškas popiežiui ir kiti laiškai ordinams bei Vokietijos miestams nebuvo parašyti Gedimino žinia ar valia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
     - c-84113
 
 <a id="claim-t-88132"></a>
-- t-002
-  global_id: t-88132
+- t-001
   teiginys: "Foigto Prūsijos istorijos priede nagrinėta Gedimino laiškų popiežiui Jonui XXII, dominikonams, minoritams ir pajūrio miestams klastotė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,25 +67,16 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
     - c-84112
 
 <a id="claim-t-88133"></a>
-- t-003
-  global_id: t-88133
+- t-002
   teiginys: "Gediminas laiške popiežiui Jonui XXII prisistatė lietuvių ir daugelio rusėnų karaliumi."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino laiškas popiežiui Jonui XXII (1323 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškas popiežiui Jonui XXII (1323 m.)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-84114
+    - c-84113
 
 <a id="claim-t-88134"></a>
-- t-004
-  global_id: t-88134
+- t-005
   teiginys: "Balińskis aiškino, kad pasakojimas apie kryžiuočių sudegintą valdovo antspaudą buvo įterptas siekiant išsklaidyti abejones dėl laiškų tikrumo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,8 +92,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
     - c-84110
 
 <a id="claim-t-88135"></a>
-- t-005
-  global_id: t-88135
+- t-003
   teiginys: "Gedimino laiške popiežiui Jonui XXII teigiama, kad Mindaugas su karalyste buvo priėmęs krikščionybę, bet dėl Teutonų ordino nuoskaudų nuo jos atkrito."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -145,7 +133,8 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88134
+    - t-005
+
 - id: c-84111
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -177,7 +166,8 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88135
+    - t-003
+
 - id: c-84112
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -208,7 +198,8 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88132
+    - t-001
+
 - id: c-84113
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -231,23 +222,16 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
     monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
     nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
     dimino, bet nei su jo žinia, nei jo valia parašyti.
-  citata_rodoma: |
-    87
-
-    ## Puslapis 104
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­
-    monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
-    nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
-    dimino, bet nei su jo žinia, nei jo valia parašyti.
+  citata_rodoma: "87\n\n## Puslapis 104\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nMūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­\nmonę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­\nnams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­\ndimino, bet nei su jo žinia, nei jo valia parašyti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88131
+    - t-004
+    - t-002
+
 - id: c-84114
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -271,5 +255,3 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-88133

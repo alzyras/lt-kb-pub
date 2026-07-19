@@ -30,7 +30,6 @@ Narbutas aiškino Stavanijos pavadinimą iš posakio Isz-Tawas arba Isz-Tabas, r
 
 <a id="claim-t-192805"></a>
 - t-001
-  global_id: t-192805
   teiginys: "Narbutas aiškino Stavanijos pavadinimą iš posakio Isz-Tawas arba Isz-Tabas, reiškiančio kilimą iš tėvo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Narbutas aiškino Stavanijos pavadinimą iš posakio Isz-Tawas arba Isz-Tabas, r
 
 <a id="claim-t-197930"></a>
 - t-002
-  global_id: t-197930
   teiginys: "Tomis pačiomis kalbomis posakis Isz-Tawas arba IszTabas reiškia kilusį iš tėvo, tad Isztamany, ištavanai, ar ba sutrumpintai stavanai, stabanai, reiškė gentį, kilusią tiesiogiai iš gimtinės lizdo; tikrieji lietuviai, arba seno vės Stavanijos gyventojai ligi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -96,5 +94,5 @@ Narbutas aiškino Stavanijos pavadinimą iš posakio Isz-Tawas arba Isz-Tabas, r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192805
-    - t-197930
+    - t-001
+    - t-002

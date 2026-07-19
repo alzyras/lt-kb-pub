@@ -38,20 +38,32 @@ media_all_json: |-
 1624 m. Laurynas Kojalavičius buvo išrinktas Kauno parapinės bažnyčios ūkvedžiu, o 1626 m. buvo jos statybos prižiūrėtojas. 1614 m. Jonas Kojalavičius, būdamas metiniu miesto ūkvedžiu, rūpinosi miesto namų statyba ir priežiūra, pasiuntinių išrengimu bei byloms reikalingų išrašų parūpinimu.
 
 ## Teiginiai
+
+<a id="claim-t-202363"></a>
 - t-001
-  global_id: t-906867733
-  teiginys: '1624 m. Laurynas Kojalavičius buvo išrinktas Kauno parapinės bažnyčios ūkvedžiu, o 1626 m. buvo jos statybos prižiūrėtojas.'
+  teiginys: "1624 m. Laurynas Kojalavičius buvo išrinktas Kauno parapinės bažnyčios ūkvedžiu, o 1626 m. buvo jos statybos prižiūrėtojas."
+  atnaujinta: "2026-07-19 12:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
   pagrindžia:
     - c-185710
-  šaltinis: Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)
-  statusas: patvirtinta
+
+<a id="claim-t-202364"></a>
 - t-002
-  global_id: t-902231457
-  teiginys: '1614 m. Jonas Kojalavičius, būdamas metiniu miesto ūkvedžiu, rūpinosi miesto namų statyba ir priežiūra, pasiuntinių išrengimu bei byloms reikalingų išrašų parūpinimu.'
+  teiginys: "1614 m. Jonas Kojalavičius, būdamas metiniu miesto ūkvedžiu, rūpinosi miesto namų statyba ir priežiūra, pasiuntinių išrengimu bei byloms reikalingų išrašų parūpinimu."
+  atnaujinta: "2026-07-19 12:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
   pagrindžia:
     - c-185711
-  šaltinis: Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)
-  statusas: patvirtinta
 
 ## Citatos
 
@@ -62,9 +74,6 @@ media_all_json: |-
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
     - t-001
 
@@ -75,8 +84,5 @@ media_all_json: |-
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
     - t-002

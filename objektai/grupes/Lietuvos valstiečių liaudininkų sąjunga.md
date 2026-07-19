@@ -39,8 +39,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 ## Teiginiai
 
 <a id="claim-t-101466"></a>
-- t-001
-  global_id: t-101466
+- t-002
   teiginys: "1926 m. birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairiąją valdančiąją koaliciją."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22644
 
 <a id="claim-t-101467"></a>
-- t-002
-  global_id: t-101467
+- t-005
   teiginys: "Krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos parengimo."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22647
 
 <a id="claim-t-101468"></a>
-- t-003
-  global_id: t-101468
+- t-011
   teiginys: "Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,8 +91,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22649
 
 <a id="claim-t-101469"></a>
-- t-004
-  global_id: t-101469
+- t-001
   teiginys: "Kairysis valstiečių liaudininkų blokas, vėliau tapęs Lietuvos valstiečių liaudininkų sąjunga, 1920 m. rinkimuose gavo 29 vietas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -114,8 +110,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22643
 
 <a id="claim-t-101470"></a>
-- t-005
-  global_id: t-101470
+- t-009
   teiginys: "Priėmus Lenkijos ultimatumą valstiečių liaudininkų ir krikščionių demokratų lyderiai pradėjo tartis dėl bendros programos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,8 +126,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22647
 
 <a id="claim-t-101471"></a>
-- t-006
-  global_id: t-101471
+- t-004
   teiginys: "Kairė laikėsi liaudininko M. Sleževičiaus šūkio, kad kova tęsis, kol bus sušauktas Seimas."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -148,8 +142,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22646
 
 <a id="claim-t-101472"></a>
-- t-007
-  global_id: t-101472
+- t-010
   teiginys: "Liaudininkas Mykolas Sleževičius skelbė, kad kova tęsis, kol bus sušauktas Seimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -165,8 +158,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22646
 
 <a id="claim-t-101473"></a>
-- t-008
-  global_id: t-101473
+- t-007
   teiginys: "1940 m. birželio 15-osios naktį liaudininkai ir krikščionys demokratai pareikalavo vietoje Antano Merkio premjeru skirti Stasį Raštikį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -185,8 +177,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22649
 
 <a id="claim-t-101474"></a>
-- t-009
-  global_id: t-101474
+- t-008
   teiginys: "Priėmus Lenkijos ultimatumą prasidėjo krikščionių demokratų ir valstiečių liaudininkų lyderių pasitarimai dėl bendros programos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -202,8 +193,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22647
 
 <a id="claim-t-101475"></a>
-- t-010
-  global_id: t-101475
+- t-003
   teiginys: "Spaudžiamas perversmininkų Kazys Grinius, gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino Mykolo Sleževičiaus vyriausybę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -219,8 +209,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22645
 
 <a id="claim-t-101476"></a>
-- t-011
-  global_id: t-101476
+- t-006
   teiginys: "Po Klaipėdos atplėšimo liaudininkai Jono Černiaus „vieningo darbo“ vyriausybėje gavo dvi ministrų vietas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -237,7 +226,6 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 
 <a id="claim-t-183166"></a>
 - t-012
-  global_id: t-183166
   teiginys: "1926 m. birželį valstiečiai liaudininkai ir socialdemokratai sudarė naują valdančiąją koaliciją, prie kurios prisidėjo septyni tautinių mažumų atstovai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -273,15 +261,15 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     karpyti dvarus ir išdalyti žemę valstiečiams. Kairysis valstiečių liaudinin-
     kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo
     29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).
-  citata_rodoma: |
-    kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo
+  citata_rodoma: "kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101469
+    - t-001
+
 - id: c-22644
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -294,15 +282,15 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
     tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų
     lyderis Kazys Grinius.
-  citata_rodoma: |
-    tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų
+  citata_rodoma: "tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101466
+    - t-002
+
 - id: c-22645
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -314,15 +302,15 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     Spaudžiant perversmininkams prezidentas K. Grinius, gavęs valstiečių
     liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
     ir naują Ministrų kabinetą pavedė sudaryti tautininkui A. Voldemarui.
-  citata_rodoma: |
-    liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
+  citata_rodoma: "liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101475
+    - t-003
+
 - id: c-22646
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -335,20 +323,16 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     M. Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, ar-
     timieji įkalbėjo A. Smetoną dalį nepasitenkinimo perleisti pavaldžiam
     Seimui, iškirsti politinę „orlaidę“. Dėl to atgaivinta Seimo institucija.
-  citata_rodoma: |
-    Tačiau opozicijai reikalaujant neatidėliojant sudaryti tautos pasi-
-    tikėjimą turinčią vyriausybę, atkurti Seimą, kairei laikantis liaudininko
-    M. Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, ar-
-    timieji įkalbėjo A. Smetoną dalį nepasitenkinimo perleisti pavaldžiam
-    Seimui, iškirsti politinę „orlaidę“.
+  citata_rodoma: "Tačiau opozicijai reikalaujant neatidėliojant sudaryti tautos pasi-\ntikėjimą turinčią vyriausybę, atkurti Seimą, kairei laikantis liaudininko \nM. Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, ar-\ntimieji įkalbėjo A. Smetoną dalį nepasitenkinimo perleisti pavaldžiam \nSeimui, iškirsti politinę „orlaidę“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101471
-    - t-101472
+    - t-004
+    - t-010
+
 - id: c-22647
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -362,17 +346,17 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“
     lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
     ultraradikalieji voldemarininkai.
-  citata_rodoma: |
-    matumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines
+  citata_rodoma: "matumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101467
-    - t-101470
-    - t-101474
+    - t-005
+    - t-009
+    - t-008
+
 - id: c-22648
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -385,15 +369,15 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
     Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
     tijos gavo po dvi ministrų vietas.
-  citata_rodoma: |
-    ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
+  citata_rodoma: "ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101476
+    - t-006
+
 - id: c-22649
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -406,18 +390,16 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     skaudžiai nubausta. Krikščionys demokratai ir liaudininkai, prieš tai su-
     sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
     krikščionims demokratams gen. S. Raštikį.
-  citata_rodoma: |
-    Krikščionys demokratai ir liaudininkai, prieš tai su-
-    sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
-    krikščionims demokratams gen. S. Raštikį.
+  citata_rodoma: "Krikščionys demokratai ir liaudininkai, prieš tai su-\nsitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą \nkrikščionims demokratams gen. S. Raštikį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101468
-    - t-101473
+    - t-011
+    - t-007
+
 - id: c-166553
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -435,4 +417,4 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183166
+    - t-012

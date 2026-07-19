@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-19608"></a>
-- t-001
-  global_id: t-19608
+- t-002
   teiginys: "Ant Vilniaus katedros frontono buvo šv. Kazimiero, šv. Stanislovo ir šv. Elenos skulptūros."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-22313
 
 <a id="claim-t-19609"></a>
-- t-002
-  global_id: t-19609
+- t-001
   teiginys: "Vilniaus katedros fasado skulptūros buvo sukurtos 1784–1787 m., kai Lietuvoje dar vyravo baroko dvasia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,15 +107,15 @@ Nenurodyta
     Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
     skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
     dvasia.
-  citata_rodoma: |
-    Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
+  citata_rodoma: "Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19609
+    - t-001
+
 - id: c-22313
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -125,12 +123,11 @@ Nenurodyta
   citata_originali: |
     Kazimiero, Lenkijos
     globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.
-  citata_rodoma: |
-    globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.
+  citata_rodoma: "globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19608
+    - t-002

@@ -32,13 +32,43 @@ media_all_json: |-
 
 Dusburgietis teigia, kad zinkevičius Z.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Z. Zinkevičiaus „Lietuvių kalbos istorijos“ pirmasis tomas „Lietuvių kalbos kilmė“ išleistas Vilniuje 1984 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Zinkevičius Z. Lietuvių kalbos istorija. T. I: Lietuvių kalbos kilmė.—V., 1984.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-62018
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    — Питания гiдронiмiки, Киiв, 1971, с. 131—137.
+    Седов В. В. Этногеография Восточной Европы середины I тысячелетия и. э. по
+    данным археологии и Иордана.
+  citata_rodoma: "Zinkevičius Z. Lietuvių kalbos istorija. T. I: Lietuvių kalbos kilmė.—V., 1984."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-61386"></a>
 - t-001
-  global_id: t-61386
   teiginys: "Z. Zinkevičiaus „Lietuvių kalbos istorijos“ pirmasis tomas „Lietuvių kalbos kilmė“ išleistas Vilniuje 1984 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,36 +83,3 @@ Dusburgietis teigia, kad zinkevičius Z.
   temporalinis_llm_pakomentavimas: "Citata pateikia leidinio tomą, pavadinimą, vietą ir metus."
   pagrindžia:
     - c-62018
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Z. Zinkevičiaus „Lietuvių kalbos istorijos“ pirmasis tomas „Lietuvių kalbos kilmė“ išleistas Vilniuje 1984 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Zinkevičius Z. Lietuvių kalbos istorija. T. I: Lietuvių kalbos kilmė.—V., 1984.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61386
-## Citatos
-
-- id: c-62018
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    — Питания гiдронiмiки, Киiв, 1971, с. 131—137.
-    Седов В. В. Этногеография Восточной Европы середины I тысячелетия и. э. по
-    данным археологии и Иордана.
-  citata_rodoma: |
-    Zinkevičius Z. Lietuvių kalbos istorija. T. I: Lietuvių kalbos kilmė.—V., 1984.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-61386

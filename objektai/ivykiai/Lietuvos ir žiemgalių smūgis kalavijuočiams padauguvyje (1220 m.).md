@@ -54,9 +54,8 @@ Nenurodyta
 
 <a id="claim-t-89376"></a>
 - t-001
-  global_id: t-89376
   teiginys: "1220 m. Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Kalavijuočių ordinas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -92,7 +91,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89376
+    - t-001
+
 - id: c-85331
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -108,4 +108,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89376
+    - t-001

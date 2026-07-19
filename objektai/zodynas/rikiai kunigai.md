@@ -31,7 +31,6 @@ Tie vadai buvo vadinami rikiais ir kunigais.
 
 <a id="claim-t-193298"></a>
 - t-001
-  global_id: t-193298
   teiginys: "Tie vadai buvo vadinami rikiais ir kunigais."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ Tie vadai buvo vadinami rikiais ir kunigais.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193298
+    - t-001

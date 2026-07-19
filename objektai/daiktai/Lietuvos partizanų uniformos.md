@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-80689"></a>
-- t-001
-  global_id: t-80689
+- t-002
   teiginys: "Bunkeryje buvę trylika vyrų vilkėjo lietuviškas uniformas, o vienas dėvėjo uniformą su liudininkės siuvinėtu antsiuvu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80689
+    - t-002

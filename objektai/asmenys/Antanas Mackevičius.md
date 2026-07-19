@@ -41,8 +41,7 @@ Mackevičius, vėliau K.
 ## Teiginiai
 
 <a id="claim-t-75694"></a>
-- t-001
-  global_id: t-75694
+- t-002
   teiginys: "Kauno gubernijoje vienas pirmųjų sukilimo organizatorių buvo kunigas Antanas Mackevičius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,9 +58,8 @@ Mackevičius, vėliau K.
   pagrindžia:
     - c-41830
 
-<a id="claim-t-75698"></a>
-- t-002
-  global_id: t-75698
+<a id="claim-t-75695"></a>
+- t-008
   teiginys: "Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Mackevičius, vėliau K.
     - c-73410
 
 <a id="claim-t-75696"></a>
-- t-003
-  global_id: t-75696
+- t-006
   teiginys: "Antanui Mackevičiui nepavyko tinkamai išdėstyti savo šaulių gynybai, o klampioje vietovėje sukilėlių kavalerija buvo neveiksminga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,8 +91,7 @@ Mackevičius, vėliau K.
     - c-41834
 
 <a id="claim-t-75697"></a>
-- t-004
-  global_id: t-75697
+- t-003
   teiginys: "Antanas Mackevičius stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,8 +107,7 @@ Mackevičius, vėliau K.
     - c-41831
 
 <a id="claim-t-75699"></a>
-- t-005
-  global_id: t-75699
+- t-007
   teiginys: "Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,8 +127,7 @@ Mackevičius, vėliau K.
     - c-41835
 
 <a id="claim-t-75700"></a>
-- t-006
-  global_id: t-75700
+- t-005
   teiginys: "Zigmantas Sierakauskas vienai sukilėlių kariuomenės kolonai pavedė vadovauti Antanui Mackevičiui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -150,8 +144,7 @@ Mackevičius, vėliau K.
     - c-41833
 
 <a id="claim-t-75701"></a>
-- t-007
-  global_id: t-75701
+- t-004
   teiginys: "Kunigas Mackevičius sakė pamokslą lenkiškai ir lietuviškai, ragindamas eiti už tikėjimą, Lietuvą ir lietuvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -193,7 +186,8 @@ Mackevičius, vėliau K.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75694
+    - t-002
+
 - id: c-41831
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -206,19 +200,15 @@ Mackevičius, vėliau K.
     įšventinimo apeigas. Stovykloje veikė karo
     lauko ligoninė, mokymai vyko lietuviškai,
     komandos buvo duodamos lietuvių kalba.
-  citata_rodoma: |
-    Kunigas A. Mackevičius
-    stovykloje laikė mišias, atlikinėjo naujokų
-    įšventinimo apeigas. Stovykloje veikė karo
-    lauko ligoninė, mokymai vyko lietuviškai,
-    komandos buvo duodamos lietuvių kalba.
+  citata_rodoma: "Kunigas A. Mackevičius\nstovykloje laikė mišias, atlikinėjo naujokų\nįšventinimo apeigas. Stovykloje veikė karo\nlauko ligoninė, mokymai vyko lietuviškai,\nkomandos buvo duodamos lietuvių kalba."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75697
+    - t-003
+
 - id: c-41832
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -229,19 +219,15 @@ Mackevičius, vėliau K.
 
     ~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-
     lius Lietuvius!“
-  citata_rodoma: |
-    Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
-    menė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:
-
-    ~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-
-    lius Lietuvius!
+  citata_rodoma: "Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-\nmenė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:\n\n~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-\nlius Lietuvius!"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75701
+    - t-004
+
 - id: c-41833
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -257,19 +243,15 @@ Mackevičius, vėliau K.
     Genujos-Cuneo karo mokyklos, ruošusios
     karininkus partizaninei kovai, absolven-
     tui B. Kolyškai.
-  citata_rodoma: |
-    Vienai kolonai
-    pavedė vadovauti A. Mackevičių, kitą —
-    Genujos-Cuneo karo mokyklos, ruošusios
-    karininkus partizaninei kovai, absolven-
-    tui B. Kolyškai.
+  citata_rodoma: "Vienai kolonai\npavedė vadovauti A. Mackevičių, kitą —\nGenujos-Cuneo karo mokyklos, ruošusios\nkarininkus partizaninei kovai, absolven-\ntui B. Kolyškai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75700
+    - t-005
+
 - id: c-41834
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -285,21 +267,15 @@ Mackevičius, vėliau K.
     sukilėliai ilgą laiką atmušinėjo rusų karių
     atakas, tačiau po kiek laiko puolantieji pra-
     laužė kairįjį gynėjų sparną.
-  citata_rodoma: |
-    A. Mackevičiui nepavyko
-    tinkamai išdėstyti gynybai savo šaulių,
-    klampioje vietovėje sukilėlių kavalerija
-    buvo neveiksminga. Narsiai kaudamiesi
-    sukilėliai ilgą laiką atmušinėjo rusų karių
-    atakas, tačiau po kiek laiko puolantieji pra-
-    laužė kairįjį gynėjų sparną.
+  citata_rodoma: "A. Mackevičiui nepavyko\ntinkamai išdėstyti gynybai savo šaulių,\nklampioje vietovėje sukilėlių kavalerija\nbuvo neveiksminga. Narsiai kaudamiesi\nsukilėliai ilgą laiką atmušinėjo rusų karių\natakas, tačiau po kiek laiko puolantieji pra-\nlaužė kairįjį gynėjų sparną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75696
+    - t-006
+
 - id: c-41835
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -315,22 +291,15 @@ Mackevičius, vėliau K.
 
     Kautynės Biržų girioje buvo didžiau-
     sios per visą 1863-1864 m. sukilimą.
-  citata_rodoma: |
-    A. Mackevičiui pavyko suburti
-    išsklaidytus sukilėlius ir išvesti pro Rusijos
-    kariuomenės apsupimą į Vidurio Lietuvą.
-
-    Mūšio pasekmės
-
-    Kautynės Biržų girioje buvo didžiau-
-    sios per visą 1863-1864 m.
+  citata_rodoma: "A. Mackevičiui pavyko suburti\nišsklaidytus sukilėlius ir išvesti pro Rusijos\nkariuomenės apsupimą į Vidurio Lietuvą.\n\nMūšio pasekmės\n\nKautynės Biržų girioje buvo didžiau-\nsios per visą 1863-1864 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75699
+    - t-007
+
 - id: c-73410
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -349,19 +318,14 @@ Mackevičius, vėliau K.
     3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
     109
     nas Mackevičius.
-  citata_rodoma: |
-    Po Z. Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija)
-    sukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta-
-
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    109
-    nas Mackevičius.
+  citata_rodoma: "Po Z. Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija) \nsukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta-\n\n3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )\n109\nnas Mackevičius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75698
+    - t-008
+
 ## Ryšiai
 - Paskyrė Antanas Mackevičių: [[objektai/asmenys/Zigmantas Sierakauskas]]

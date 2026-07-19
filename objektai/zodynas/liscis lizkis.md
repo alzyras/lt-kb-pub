@@ -37,7 +37,6 @@ Dusburgietis teigia, kad liscis, lizkis ‘stovykla, apsistojimo vieta’, iš p
 
 <a id="claim-t-58945"></a>
 - t-001
-  global_id: t-58945
   teiginys: "Liscis, lizkis ‘stovykla, apsistojimo vieta’, iš pr."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Dusburgietis teigia, kad liscis, lizkis ‘stovykla, apsistojimo vieta’, iš p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58945
+    - t-001

@@ -40,8 +40,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 ## Teiginiai
 
 <a id="claim-t-58797"></a>
-- t-001
-  global_id: t-58797
+- t-008
   teiginys: "Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir dūmais pranešė kaimyniniams stabmeldžiams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,9 +57,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 
 <a id="claim-t-58798"></a>
 - t-002
-  global_id: t-58798
   teiginys: "Didysis magistras Anonas pažadėjo gausiai aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Štarkenbergas: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,10 +71,9 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   semantiniai_rysiai: "Teutonai pastatė Štarkenbergas (0.72)"
   pagrindžia:
     - c-59430
-    - c-002
+
 <a id="claim-t-58799"></a>
-- t-003
-  global_id: t-58799
+- t-006
   teiginys: "1313 m. Junigedos pilėnai užpuolė prie kranto vėjo nublokštą Ragainės komtūro Vernerio karo laivą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - c-59432
 
 <a id="claim-t-58800"></a>
-- t-004
-  global_id: t-58800
+- t-005
   teiginys: "1305 m. Aukaimio pilėnas Svirtilas išdavė pilį Ordino broliams, o vėliau su visa šeimyna priėmė krikštą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -113,10 +109,9 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   temporalinis_llm_pakomentavimas: "Teiginys perrašytas į aiškų faktą apie pilėną."
   pagrindžia:
     - c-59429
-    - c-001
+
 <a id="claim-t-58802"></a>
-- t-005
-  global_id: t-58802
+- t-003
   teiginys: "1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -135,8 +130,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - c-59433
 
 <a id="claim-t-58803"></a>
-- t-006
-  global_id: t-58803
+- t-009
   teiginys: "1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -156,7 +150,6 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 
 <a id="claim-t-58804"></a>
 - t-007
-  global_id: t-58804
   teiginys: "1314 m. Medininkų valsčiaus Sizditės pilėnai narsiai priešinosi maršalo Henriko kariuomenės puolimui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -175,8 +168,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - c-59437
 
 <a id="claim-t-58805"></a>
-- t-008
-  global_id: t-58805
+- t-001
   teiginys: "Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -192,8 +184,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - c-59436
 
 <a id="claim-t-184015"></a>
-- t-009
-  global_id: t-184015
+- t-010
   teiginys: "1305 m. Aukaimio pilėnas Svirtilas išdavė pilį Ordino broliams, kurie įsiveržę vėl sugriovė pilį iki pamatų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -213,10 +204,9 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatos faktą apie Svirtilą ir Aukaimio pilį."
   pagrindžia:
     - c-59429
-    - c-001
+
 <a id="claim-t-184016"></a>
-- t-010
-  global_id: t-184016
+- t-011
   teiginys: "1314 m. Sizditės pilėnai Medininkų valsčiuje narsiai priešinosi maršalo Henriko puolimui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -238,8 +228,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - c-59437
 
 <a id="claim-t-194463"></a>
-- t-011
-  global_id: t-194463
+- t-012
   teiginys: "Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras, patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis pilėnas, vardu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -249,10 +238,9 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59429
-    - c-001
+
 <a id="claim-t-194464"></a>
-- t-012
-  global_id: t-194464
+- t-013
   teiginys: "Dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -264,8 +252,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - c-59437
 
 <a id="claim-t-197038"></a>
-- t-013
-  global_id: t-197038
+- t-014
   teiginys: "Trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei ietimis, nei kalavijais, nei kokiais kitais ginklais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -294,9 +281,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58800
-    - t-184015
+- t-184015
     - t-194463
 - c-002
   santrauka: 'Didysis magistras Anonas pažadėjo gausiai aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga.'
@@ -316,8 +301,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58798
+
 ## Citatos
 
 - id: c-59429
@@ -338,25 +322,17 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     pamatyti; audrai šėlstant, jie įsiveržė į šios pilies papilį, kuris tuo metu buvo ir didelis, ir
     gausiai gyvenamas nelyginant koks miestas, ir, visus žmones išžudę ar paėmę į nelaisvę
     bei sudeginę papilį, patraukė namo su tokiu grobiu, kokį įstengė išsigabenti.
-  citata_rodoma: |
-    Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
-
-       Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,
-    patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis
-    pilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten
-    įsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė  į nelaisvę  ir dar kartą iki
-    pamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir
-    priėmė krikšto malonę. Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę
-    ar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino.
+  citata_rodoma: "Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais\n\n   Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,\npatraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis\npilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten\nįsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė  į nelaisvę  ir dar kartą iki\npamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir\npriėmė krikšto malonę. Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę\nar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58800
-    - t-184015
-    - t-194463
+    - t-005
+    - t-010
+    - t-012
+
 - id: c-59430
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -374,23 +350,15 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     laišką, vyskupas rado jame aprašytą visą savo gyvenimą, be to, ten buvę pridurta, kad
     430  Pirmoji Ordino Starkenbergo pilis, statyta 1263 (1256— 1272) m, buvo prie
     Osos, deš. upės krante, tarp dab.
-  citata_rodoma: |
-    Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
-
-      Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui
-    bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį,
-    pažadėdamas gausiai aprūpinti pilėnus viskuo, kas reikalinga. Pilies statyti magistras
-    sušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų
-    kariuomenė ir visą šią žmonių minią išžudė. Po kurio laiko magistras ir vėl sušaukė
-    žmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo
-    vardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių.
+  citata_rodoma: "Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį\n\n  Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui\nbei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį,\npažadėdamas gausiai aprūpinti pilėnus viskuo, kas reikalinga. Pilies statyti magistras\nsušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų\nkariuomenė ir visą šią žmonių minią išžudė. Po kurio laiko magistras ir vėl sušaukė\nžmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo\nvardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58798
+    - t-002
+
 - id: c-59432
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -408,7 +376,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58799
+    - t-006
+
 - id: c-59433
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -423,24 +392,15 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     rankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
     štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
     kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.
-  citata_rodoma: |
-    Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
-
-      Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio
-    pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir
-    panoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai
-    pasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai
-    prašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių
-    rankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
-    štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
-    kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.
+  citata_rodoma: "Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais\n\n  Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio\npilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir\npanoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai\npasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai\nprašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių\nrankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir\nštai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,\nkad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58802
+    - t-003
+
 - id: c-59434
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -462,8 +422,9 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58797
-    - t-197038
+    - t-008
+    - t-014
+
 - id: c-59435
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -490,7 +451,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58803
+    - t-009
+
 - id: c-59436
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -515,7 +477,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58805
+    - t-001
+
 - id: c-59437
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -537,6 +500,6 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58804
-    - t-184016
-    - t-194464
+    - t-007
+    - t-011
+    - t-013

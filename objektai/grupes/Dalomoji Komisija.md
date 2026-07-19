@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-72054"></a>
 - t-001
-  global_id: t-72054
   teiginys: "Lietuvoje ir Lenkijoje buvo sudarytos atskiros Dalomosios Komisijos turto dalybų darbui atlikti."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ media_all_json: |-
 
 <a id="claim-t-72055"></a>
 - t-002
-  global_id: t-72055
   teiginys: "Dalomosios Komisijos pigiai dalijo dvarus savo artimiesiems ir pasisavindavo pinigus."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -72,7 +70,6 @@ media_all_json: |-
 
 <a id="claim-t-182886"></a>
 - t-003
-  global_id: t-182886
   teiginys: "Lietuvoje ir Lenkijoje buvusiems jėzuitų dvarams išnuomoti buvo sudarytos atskiros Dalomosios Komisijos."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -112,7 +109,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72055
+    - t-002
+
 - id: c-70482
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -134,7 +132,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72054
+    - t-001
+
 - id: c-166290
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -159,4 +158,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182886
+    - t-003

@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-31735"></a>
 - t-001
-  global_id: t-31735
   teiginys: "„Jadwyga d’Anjou“ nurodyta kaip Lietuvos enciklopedijos 9 tomo straipsnis, apimantis 244-249 puslapius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,14 +59,11 @@ media_all_json: |-
     LE, t. 9, 244-249 p. — (”) _Lietuvos santykiai su Lenkija,_ LE, t. 15,
     297 p. — M. Jučas : _Nuo Krėvos sutarties iki Liublino unijos,_ Vilnius
     1970.
-  citata_rodoma: |
-    — _(”)Jadwyga d’Anjou,_
-    LE, t. 9, 244-249 p. — (”) _Lietuvos santykiai su Lenkija,_ LE, t. 15,
-    297 p.
+  citata_rodoma: "— _(”)Jadwyga d’Anjou,_\nLE, t. 9, 244-249 p. — (”) _Lietuvos santykiai su Lenkija,_ LE, t. 15,\n297 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31735
+    - t-001

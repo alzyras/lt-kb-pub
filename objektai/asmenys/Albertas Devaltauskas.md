@@ -8,12 +8,12 @@ datos:
   - '1599 m.'
 date_start: '1566'
 date_end: '1599'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ Pirmasis Kauno pakamaris Albertas Devaltauskas (Deltuviškis) šias teisėjo par
 
 <a id="claim-t-202155"></a>
 - t-001
-  global_id: t-202155
   teiginys: "Pirmasis Kauno pakamaris Albertas Devaltauskas (Deltuviškis) šias teisėjo pareigas ėjo 1566-1581 m. Jo įpėdiniai buvo: 1581-1599 m."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Pirmasis Kauno pakamaris Albertas Devaltauskas (Deltuviškis) šias teisėjo par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202155
+    - t-001

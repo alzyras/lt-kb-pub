@@ -31,7 +31,6 @@ Narbutas rašė, kad daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kai
 
 <a id="claim-t-189250"></a>
 - t-001
-  global_id: t-189250
   teiginys: "Narbutas rašė, kad daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kaip dievybė dėl jiems priskirto poveikio sveikatai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Narbutas rašė, kad daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189250
+    - t-001

@@ -33,7 +33,6 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
 
 <a id="claim-t-87845"></a>
 - t-001
-  global_id: t-87845
   teiginys: "Riurikas su variagais, autoriaus nuomone, į Rusiją galėjo būti atblokštas Petro Olai „Danų kronikoje“ aprašyto įvykio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
     - c-83824
 
 <a id="claim-t-201026"></a>
-- t-002
-  global_id: t-201026
+- t-003
   teiginys: "Tas tėra 'žinoma, jog, nustipus Gostomyslui, gudai užteikė variagus, arba rusus, į savo žemę, kurių trys broliai, vardu Riurikas, Sineus ir Truvoras, metuose 862 atkeliavę su talka ir savo tarnais į Gudus, pradėjo viešpatau ti, Riurikas, tai yra Rusnio rykys."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -93,10 +91,9 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
     Tobolsko pirmtakus2.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 ## Citatos
 
 - id: c-83824
@@ -129,10 +126,12 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87845
+    - t-001
+
 - id: c-184376
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nes paskesniai karšda-
     mas Gostomyslas, rėdytojas Didžiojo Naugardo, ta­
@@ -159,4 +158,4 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201026
+    - t-003

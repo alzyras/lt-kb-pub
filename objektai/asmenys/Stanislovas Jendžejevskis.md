@@ -31,7 +31,6 @@ Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančio
 
 <a id="claim-t-186255"></a>
 - t-001
-  global_id: t-186255
   teiginys: "Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančios santarvės su Ivanu laiškais ir tarpininkais."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančio
   semantiniai_rysiai: "Stanislovas Jendžejevskis keliavo į Maskva (0.78)"
   pagrindžia:
     - c-169616
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančios santarvės su Ivanu laiškais ir tarpininkais.'
@@ -72,8 +71,7 @@ Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančio
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186255
+
 ## Citatos
 
 - id: c-169616
@@ -104,23 +102,11 @@ Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančio
     Lietuvą, tačiau tada netikėtai atėjo Maskvos didikų
     pasiuntinys ir paprašė, kad neatsisakytų dar kartą su
     jais pasikalbėti.
-  citata_rodoma: |
-    Esą jam labai malonu, kad rū­
-    pinamasi taika, maskvėnų perbėgėlių Lietuvoje tuo
-    tarpu nėra, belaisviai gyveną tokiomis sąlygomis, ko­
-    kių krikščioniškosios šalies valdovas pratęs ir turįs lai­
-    kytis, sutarties raštai deramai surašyti ir visai be rei­
-    kalo siūloma juos keisti. Legatams išvykus, Augustas
-    išsiuntė į Maskvą savo rūmų bajorą Stanislovą Jen-
-    džejevskį, norėdamas laiškais bei tarpininkais palaikyti
-    braškančią santarvę su Ivanu. Nerasdamas kitos dings­
-    ties laiškų rašyti, nusiskundė dėl pasieniuose daromų
-    skriaudų ir paprašė, kad žydų pirkliams leistų laisvai
-    keliauti iš Lietuvos į Maskvos kunigaikštystę.
+  citata_rodoma: "Esą jam labai malonu, kad rū­\npinamasi taika, maskvėnų perbėgėlių Lietuvoje tuo\ntarpu nėra, belaisviai gyveną tokiomis sąlygomis, ko­\nkių krikščioniškosios šalies valdovas pratęs ir turįs lai­\nkytis, sutarties raštai deramai surašyti ir visai be rei­\nkalo siūloma juos keisti. Legatams išvykus, Augustas\nišsiuntė į Maskvą savo rūmų bajorą Stanislovą Jen-\ndžejevskį, norėdamas laiškais bei tarpininkais palaikyti\nbraškančią santarvę su Ivanu. Nerasdamas kitos dings­\nties laiškų rašyti, nusiskundė dėl pasieniuose daromų\nskriaudų ir paprašė, kad žydų pirkliams leistų laisvai\nkeliauti iš Lietuvos į Maskvos kunigaikštystę."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186255
+    - t-001

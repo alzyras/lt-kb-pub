@@ -49,7 +49,6 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
 
 <a id="claim-t-55183"></a>
 - t-001
-  global_id: t-55183
   teiginys: "Gedimino laiške priekaištauta, kad į ankstesnius pasiuntinius, laiškus ir atvertą kraštą net nė šuo su padėka neatsiliepė."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::sayings"
@@ -66,7 +65,6 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
 
 <a id="claim-t-55184"></a>
 - t-002
-  global_id: t-55184
   teiginys: "Priekaištas sustiprintas formule, kad net nė šuo iš adresatų pusės su padėka neatsiliepė."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::sayings"
@@ -76,7 +74,6 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
 
 <a id="claim-t-82142"></a>
 - t-003
-  global_id: t-82142
   teiginys: "Posakis „net nė šuo iš jūsų pusės su padėka neatsiliepė“ pavartotas priekaištaujant, kad adresatai neatsakė į pasiūlymus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::sayings"
@@ -104,8 +101,9 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55183
-    - t-55184
+    - t-001
+    - t-002
+
 - id: c-78632
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -133,4 +131,4 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82142
+    - t-003

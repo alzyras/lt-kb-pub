@@ -29,19 +29,8 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 
 ## Teiginiai
 
-<a id="claim-t-60241"></a>
-- t-001
-  global_id: t-60241
-  teiginys: "Dusburgiečio pasakojime šventasis Augustinas sapne žingsniavo brolių priekyje kartu su Bernardu, Domininku ir Pranciškumi."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60873
-
 <a id="claim-t-197059"></a>
 - t-002
-  global_id: t-197059
   teiginys: "Augustinas nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -92,5 +81,4 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60241
-    - t-197059
+    - t-002

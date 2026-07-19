@@ -33,7 +33,6 @@ Sielco pasiuntinys buvo pasiųstas į Sielcą ir Jatrą su atsakymais.
 
 <a id="claim-t-202407"></a>
 - t-001
-  global_id: t-202407
   teiginys: "Sielco pasiuntinys buvo pasiųstas į Sielcą ir Jatrą su atsakymais."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,5 @@ Sielco pasiuntinys buvo pasiųstas į Sielcą ir Jatrą su atsakymais.
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202407
+    - t-001

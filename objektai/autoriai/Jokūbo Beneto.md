@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-80748"></a>
 - t-001
-  global_id: t-80748
   teiginys: "Jokūbo Beneto poema „Viešpaties dešinės galybė“ buvo išleista 1674 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80748
+    - t-001

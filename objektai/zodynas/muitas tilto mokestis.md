@@ -30,8 +30,7 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
 ## Teiginiai
 
 <a id="claim-t-86427"></a>
-- t-001
-  global_id: t-86427
+- t-003
   teiginys: "Tilto mokestis karališkąja malone visiems laikams buvo paskirtas prieglaudai ir joje gyvenantiems vargšams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -40,8 +39,7 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
     - c-82408
 
 <a id="claim-t-86428"></a>
-- t-002
-  global_id: t-86428
+- t-001
   teiginys: "Ulrikui Hozijui leista rinkti tilto mokestį tol, kol jam sugrįš tilto statybai įdėtos lėšos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +55,7 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
     - c-82407
 
 <a id="claim-t-86429"></a>
-- t-003
-  global_id: t-86429
+- t-002
   teiginys: "Jonas Hozijus buvo paskirtas rinkti tilto mokestį ir taisė pavasarį vandens bei ledų sangrūdų sugadintą tiltą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,7 +111,8 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86429
+    - t-002
+
 - id: c-82407
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -139,7 +137,8 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86428
+    - t-001
+
 - id: c-82408
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -173,4 +172,4 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86427
+    - t-003

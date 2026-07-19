@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185803"></a>
 - t-001
-  global_id: t-185803
   teiginys: "Karolis Didysis su galinga kariuomene įsiveržė į Italiją ir, du kartus sumušęs langobardus, juos nugalėjo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185803
+    - t-001

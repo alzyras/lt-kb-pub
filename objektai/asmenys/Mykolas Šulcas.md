@@ -32,20 +32,12 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
 
 <a id="claim-t-190054"></a>
 - t-001
-  global_id: t-190054
   teiginys: "Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Šulcas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Šulcas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
@@ -53,9 +45,8 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
 
 <a id="claim-t-190055"></a>
 - t-002
-  global_id: t-190055
   teiginys: "Narbutas nurodo, kad apie pilkapiuose randamus indelius, papuošalus ir akmenukus jam pasakojo Vilniaus universiteto profesorius Mykolas Šulcas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -74,7 +65,6 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
 
 <a id="claim-t-197430"></a>
 - t-003
-  global_id: t-197430
   teiginys: "Mykolas Šulcas visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -87,7 +77,6 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
 
 <a id="claim-t-200766"></a>
 - t-004
-  global_id: t-200766
   teiginys: "Mykolas Šulcas po Gucevičiaus mirties užbaigė Katedrą ir prie fasado pridėjo statulas, kurių nebuvo Gucevičiaus projekte."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -126,7 +115,8 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197430
+    - t-003
+
 - id: c-172938
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -143,23 +133,16 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
     beveik visiškai atvirą; kaimiečiai tuos kapus priskiria stabmel­
     dystės laikams; pasakoja, kad, prie skeletų būdavo randama
     labai senų pinigų ir visokių metalo gabalų.
-  citata_rodoma: |
-    Statinio viduje paprastai stovi maži mo­
-    liniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­
-    na pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų
-    arba jūros bangų nutrintų akmenukų, kuriems dievobaimingi
-    žmonės priskiria kažkokią šventumo ypatybe5.
-    3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man
-    pasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­
-    rius*.
+  citata_rodoma: "Statinio viduje paprastai stovi maži mo­\nliniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­\nna pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų\narba jūros bangų nutrintų akmenukų, kuriems dievobaimingi\nžmonės priskiria kažkokią šventumo ypatybe5.\n3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man\npasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­\nrius*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190054
-    - t-190055
+    - t-001
+    - t-002
+
 - id: c-184111
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -178,4 +161,4 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200766
+    - t-004

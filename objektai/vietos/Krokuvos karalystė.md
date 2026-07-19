@@ -31,7 +31,6 @@ Lietuvos metraštis Krokuvos karalyste vadina politinę erdvę, kuri, Jogailai a
 
 <a id="claim-t-187245"></a>
 - t-001
-  global_id: t-187245
   teiginys: "Lietuvos metraštis Krokuvos karalyste vadina politinę erdvę, kuri, Jogailai atsisėdus Krokuvoje, jį paėmė."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -64,14 +63,11 @@ Lietuvos metraštis Krokuvos karalyste vadina politinę erdvę, kuri, Jogailai a
     jimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
     Krokuvos karalystė 5 jį paėmė, tada aš vėl pareiškiau
     savo tikėjimą.
-  citata_rodoma: |
-    Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
-    Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau
-    savo tikėjimą.
+  citata_rodoma: "Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir\nKrokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau\nsavo tikėjimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187245
+    - t-001

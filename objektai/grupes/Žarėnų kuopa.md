@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-41221"></a>
 - t-001
-  global_id: t-41221
   teiginys: "1949 m. gegužės 21 d. MGB vidaus kariuomenės 32-asis šaulių pulkas Dievo Krėslo miške aptiko Žarėnų kuopos partizanų stovyklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,23 +61,17 @@ media_all_json: |-
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    ŽARĖNŲ KAUTYNĖS
+    X. ŽARĖNŲ KAUTYNĖS
 
     1949 m. gegužės 21 d. MGB vidaus kariuomenės 32-asis šaulių pulkas Telšių
     aps. Žarėnų vls. Dievo Krėslo miške aptiko Edmundo Rekašiaus-Lakūno
     vadovaujamų Žarėnų kuopos partizanų stovyklą, kurioje buvo vienuolika
     partizanų. Kautynės tęsėsi nuo 9 ryto iki 19 val. vakaro, žuvo 7 partizanai.
-  citata_rodoma: |
-    ŽARĖNŲ KAUTYNĖS
-
-    1949 m. gegužės 21 d. MGB vidaus kariuomenės 32-asis šaulių pulkas Telšių
-    aps. Žarėnų vls. Dievo Krėslo miške aptiko Edmundo Rekašiaus-Lakūno
-    vadovaujamų Žarėnų kuopos partizanų stovyklą, kurioje buvo vienuolika
-    partizanų. Kautynės tęsėsi nuo 9 ryto iki 19 val. vakaro, žuvo 7 partizanai.
+  citata_rodoma: "ŽARĖNŲ KAUTYNĖS\n\n1949 m. gegužės 21 d. MGB vidaus kariuomenės 32-asis šaulių pulkas Telšių\naps. Žarėnų vls. Dievo Krėslo miške aptiko Edmundo Rekašiaus-Lakūno\nvadovaujamų Žarėnų kuopos partizanų stovyklą, kurioje buvo vienuolika\npartizanų. Kautynės tęsėsi nuo 9 ryto iki 19 val. vakaro, žuvo 7 partizanai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41221
+    - t-001

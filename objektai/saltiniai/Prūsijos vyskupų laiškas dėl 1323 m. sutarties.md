@@ -46,7 +46,6 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
 
 <a id="claim-t-55232"></a>
 - t-001
-  global_id: t-55232
   teiginys: "Prūsijos vyskupų laiškas dėl Vilniaus sutarties buvo parengtas Elbinge ir siųstas Livonijos bei Estijos bažnytiniams ir pasaulietiniams adresatams."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::sources"
@@ -63,7 +62,6 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
 
 <a id="claim-t-55233"></a>
 - t-002
-  global_id: t-55233
   teiginys: "Prūsijos vyskupų laiškas ragino atmesti 1323 m. sutartį ir nenutraukti kovos su priešu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::sources"
@@ -83,7 +81,6 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
 
 <a id="claim-t-55234"></a>
 - t-003
-  global_id: t-55234
   teiginys: "Laiško originalas datuotas 1323 m. pirmadieniu prieš Šv. Simono ir Judo šventę ir siejamas su Slaptojo archyvo signatūra Spinta XI, Nr. 18."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::sources"
@@ -102,7 +99,6 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
 
 <a id="claim-t-82034"></a>
 - t-004
-  global_id: t-82034
   teiginys: "Prūsijos vyskupai laiške 1323 m. taikos sutartį vadino velnio žabangomis ir gėda krikščioniškajam pasauliui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::sources"
@@ -153,8 +149,9 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55232
-    - t-82034
+    - t-001
+    - t-004
+
 - id: c-55648
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -189,7 +186,8 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55233
+    - t-002
+
 - id: c-55649
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -223,4 +221,4 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55234
+    - t-003

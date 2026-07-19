@@ -31,7 +31,6 @@ Tiergard’as reiškė tą pačią nuomonę.
 
 <a id="claim-t-30266"></a>
 - t-001
-  global_id: t-30266
   teiginys: "Ordino prokuratorius J. Tiergard’as Romoje informavo vyriausią magistrą apie Vytauto pretenzijas į Klaipėdą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,15 +59,11 @@ Tiergard’as reiškė tą pačią nuomonę.
     tą pačią nuomonę. Informuodamas vyriausią magistrą apie Vy­
     tauto pretenzijas į Klaipėdą, jis įtikinėjo, jog « ordinui butų skriauda
     ir didelis nuostolis »^23.
-  citata_rodoma: |
-    Ir pačioje Romoje sėdįs ordino prokuratorius J. Tiergard’as reiškė
-    tą pačią nuomonę. Informuodamas vyriausią magistrą apie Vy­
-    tauto pretenzijas į Klaipėdą, jis įtikinėjo, jog « ordinui butų skriauda
-    ir didelis nuostolis »^23.
+  citata_rodoma: "Ir pačioje Romoje sėdįs ordino prokuratorius J. Tiergard’as reiškė\ntą pačią nuomonę. Informuodamas vyriausią magistrą apie Vy­\ntauto pretenzijas į Klaipėdą, jis įtikinėjo, jog « ordinui butų skriauda\nir didelis nuostolis »^23."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30266
+    - t-001

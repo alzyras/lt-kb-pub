@@ -3,6 +3,7 @@ tipas: daiktas
 pavadinimas: 'Apgulties mašinos'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1272 m.'
   - '1274 m.'
@@ -11,14 +12,14 @@ datos:
   - '2026 m.'
 date_start: '1272'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - karo-reikmuo
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -61,8 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-179463"></a>
-- t-001
-  global_id: t-179463
+- t-002
   teiginys: "1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,6 +81,21 @@ Nenurodyta
   pagrindžia:
     - c-163160
 
+<a id="claim-t-201491"></a>
+- t-003
+  teiginys: "Ji buvo kelis kartus šturmuojama naudojantis apgulties mašinomis."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184838
+
+## Reikšmingi paminėjimai
+Nenurodyta
+
 ## Citatos
 
 - id: c-163160
@@ -94,14 +109,27 @@ Nenurodyta
     pilis turėjo palengvinti ordino žygius į lietuvių žemes. Po nepasise­
     kusio Daugpilio apgulimo, nors panaudojo ir akmenims svaidyti ma­
     šinas (jų buvo pastatytos keturios), Traidenis pasitraukė (1278 m.)^235.
-  citata_rodoma: |
-    Po nepasise­
-    kusio Daugpilio apgulimo, nors panaudojo ir akmenims svaidyti ma­
-    šinas (jų buvo pastatytos keturios), Traidenis pasitraukė (1278 m.)^235.
+  citata_rodoma: "Po nepasise­\nkusio Daugpilio apgulimo, nors panaudojo ir akmenims svaidyti ma­\nšinas (jų buvo pastatytos keturios), Traidenis pasitraukė (1278 m.)^235."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179463
+    - t-002
+
+- id: c-184838
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kryžiuočiai, siekdami apsisaugoti nuo galimų lietuvių puolimų, iškasė griovį nuo
+    Neries iki Nemuno ir pasistatė aštriakuolių tvorą. Pilį visiškai apsiautė. Ji buvo ke-
+    lis kartus šturmuojama naudojantis apgulties mašinomis.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

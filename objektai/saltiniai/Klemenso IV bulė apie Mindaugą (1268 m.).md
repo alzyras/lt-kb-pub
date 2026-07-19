@@ -37,7 +37,6 @@ Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikę
 
 <a id="claim-t-21082"></a>
 - t-001
-  global_id: t-21082
   teiginys: "1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,12 +68,11 @@ Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikę
     maitija. Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su
     krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
     krikščionio valdovo statusą.
-  citata_rodoma: |
-    krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
+  citata_rodoma: "krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21082
+    - t-001

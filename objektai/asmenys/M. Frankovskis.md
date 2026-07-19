@@ -31,7 +31,6 @@ Frankovskio vadovaujamus lietuvių įtvirtinimus tarp Naujininkų, šv.
 
 <a id="claim-t-39778"></a>
 - t-001
-  global_id: t-39778
   teiginys: "Gen. mjr. M. Frankovskis vadovavo lietuvių įtvirtinimams tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Frankovskio vadovaujamus lietuvių įtvirtinimus tarp Naujininkų, šv.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39778
+    - t-001

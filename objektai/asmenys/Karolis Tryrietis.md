@@ -31,7 +31,6 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
 
 <a id="claim-t-87435"></a>
 - t-001
-  global_id: t-87435
   teiginys: "Karolis Tryrietis atvyko į Avinjoną su teisininkais ir riteriais, o popiežius jį priėmė maloniai ir pagarbiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
 
 <a id="claim-t-183841"></a>
 - t-002
-  global_id: t-183841
   teiginys: "Karolis Tryrietis prieš popiežių ir kardinolus gynė Ordiną nuo kaltinimų ir palenkė klausytojus į savo pusę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -95,7 +93,8 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87435
+    - t-001
+
 - id: c-167226
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -121,6 +120,7 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183841
+    - t-002
+
 ## Ryšiai
 - Karolis Tryrietis keliavo į [[objektai/vietos/Avinjonas]]

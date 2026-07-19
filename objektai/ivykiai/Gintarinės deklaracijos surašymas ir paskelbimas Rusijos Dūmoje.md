@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20195"></a>
 - t-001
-  global_id: t-20195
   teiginys: "1914 m. liepą Jonas Basanavičius, Stasys Šilingas ir Donatas Malinauskas Vilniuje surašė Gintarinę deklaraciją, paskelbtą Rusijos Dūmoje rugpjūčio 4 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,12 +94,11 @@ Nenurodyta
     ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
     esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
     tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
-  citata_rodoma: |
-    ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
+  citata_rodoma: "ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20195
+    - t-001

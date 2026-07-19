@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-113486"></a>
-- t-001
-  global_id: t-113486
+- t-003
   teiginys: "Laurynas Ivinskis buvo žemaičių bajoras ir lietuviškų kalendorių leidėjas, gyvenęs 1808–1881 m."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ media_all_json: |-
 
 <a id="claim-t-113487"></a>
 - t-002
-  global_id: t-113487
   teiginys: "M. Balinskis Gazeta Warszawska straipsniuose supažindino skaitytojus su Lauryno Ivinskio kalendoriais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +95,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113486
+    - t-003
+
 - id: c-104711
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -111,15 +110,11 @@ media_all_json: |-
     supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
     Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio.
-  citata_rodoma: |
-    M. Balinskis
-    supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
-    rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
-    Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio.
+  citata_rodoma: "M. Balinskis \nsupažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­\nrolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais. \nŠios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113487
+    - t-002

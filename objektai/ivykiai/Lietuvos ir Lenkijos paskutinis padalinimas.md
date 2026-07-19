@@ -62,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-31440"></a>
 - t-001
-  global_id: t-31440
   teiginys: "Iki nepriklausomybės dešimtmečių 1795 m. Lietuvos ir Lenkijos paskutinis padalinimas laikytas kertine politiškai svarbia Lietuvos istorijos data."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,18 +99,11 @@ Nenurodyta
     Lietuvos krikštas), 3) 1569-1572 m. (Liublino unija, Gediminaičių
     [Jogailaičių ] dinastijos pabaiga), 4) 1795 m. (Lietuvos ir Lenkijos
     paskutinis padalinimas) ir 5) 1918 m. (nepriklausomybės pradžia).
-  citata_rodoma: |
-    Gana ilgai, iki pat nepriklausomybės dešimtmečių Lietuvoją
-    ir jos kaimynuose, paprastai buvo laikomasi šių kertinių politiškai
-    Svarbių Lietuvos istorijos datų : 1) 1219-1236 (lietuvių gyvenamų
-    plotų susivienijimas į valstybę), 2) 1385-1387 m. (Kriavo aktas,
-    Lietuvos krikštas), 3) 1569-1572 m. (Liublino unija, Gediminaičių
-    [Jogailaičių ] dinastijos pabaiga), 4) 1795 m. (Lietuvos ir Lenkijos
-    paskutinis padalinimas) ir 5) 1918 m. (nepriklausomybės pradžia).
+  citata_rodoma: "Gana ilgai, iki pat nepriklausomybės dešimtmečių Lietuvoją\nir jos kaimynuose, paprastai buvo laikomasi šių kertinių politiškai\nSvarbių Lietuvos istorijos datų : 1) 1219-1236 (lietuvių gyvenamų\nplotų susivienijimas į valstybę), 2) 1385-1387 m. (Kriavo aktas,\nLietuvos krikštas), 3) 1569-1572 m. (Liublino unija, Gediminaičių\n[Jogailaičių ] dinastijos pabaiga), 4) 1795 m. (Lietuvos ir Lenkijos\npaskutinis padalinimas) ir 5) 1918 m. (nepriklausomybės pradžia)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31440
+    - t-001

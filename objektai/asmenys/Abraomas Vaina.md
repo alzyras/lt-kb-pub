@@ -40,7 +40,6 @@ Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abr
 
 <a id="claim-t-190127"></a>
 - t-001
-  global_id: t-190127
   teiginys: "Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abraomo Vainos sprendimu uždrausti ir likviduoti tą paprotį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -58,10 +57,9 @@ Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abr
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173010
-    - c-001
+
 <a id="claim-t-190834"></a>
 - t-002
-  global_id: t-190834
   teiginys: "Narbutas aiškina, kad piktnaudžiavimas stipriaisiais gėrimais paskatino Vilniaus vyskupą Abraomą Vainą uždrausti aukojimo puotų paprotį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -100,8 +98,7 @@ Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190127
+
 ## Citatos
 
 - id: c-173010
@@ -121,24 +118,15 @@ Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abr
     Pasak to paties autoriaus, prieš aukos atnašavimą priešais sta­
     bus būdavo smilkoma įvairiomis medžiagomis, nelygu koks
     dievas.
-  citata_rodoma: |
-    310
-
-    ## Puslapis 310
-
-    puotų likutis. Vėliau piktnaudžiavim as stipriaisiais gėrimais, ku ­
-    riuos tikriausiai pristatydavo Izraelio sūnūs ir kurie tais laikais
-    labiau išplito, Vilniaus vyskupą Abraom ą Vainą paskatino už­
-    drausti ir visiškai likviduoti tą paprotį9. Bet jis išliko iki X V II
-    amžiaus pradžios, nes Vilniaus vyskupas Bžostovskis dar 1710
-    metais tą paprotį m atė ir griežtai jį uždraudė10 1.
+  citata_rodoma: "310\n\n## Puslapis 310\n\npuotų likutis. Vėliau piktnaudžiavim as stipriaisiais gėrimais, ku ­\nriuos tikriausiai pristatydavo Izraelio sūnūs ir kurie tais laikais\nlabiau išplito, Vilniaus vyskupą Abraom ą Vainą paskatino už­\ndrausti ir visiškai likviduoti tą paprotį9. Bet jis išliko iki X V II\namžiaus pradžios, nes Vilniaus vyskupas Bžostovskis dar 1710\nmetais tą paprotį m atė ir griežtai jį uždraudė10 1."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190127
+    - t-001
+
 - id: c-173716
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -162,4 +150,4 @@ Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190834
+    - t-002

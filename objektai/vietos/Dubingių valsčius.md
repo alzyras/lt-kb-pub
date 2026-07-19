@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-86179"></a>
 - t-001
-  global_id: t-86179
   teiginys: "Rašelė minima kaip viena iš upių prie Lakajų ežero Dubingių valsčiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,28 +76,11 @@ media_all_json: |-
     Linkmenų valsčiuje (tekste - Jen­
     kmen): Kirkilą ir Žadeiką su jų vai­
     kais ir būsimais palikuonimis.
-  citata_rodoma: |
-    (Dovanojame) mūsų dvarą Me­
-    dininkų valsčiuje; kurį kitados val­
-    dė broliai Ivaška ir Fedka, vadina­
-    mi Korevičiais, ir vieną žemę, taip
-    pat mūsų valdinio, vadinamo An-
-    driušiu, prie to paties dvaro esančią.
-    Taip pat mūsų Lakajų ežerą, greta
-    vyskupo dvaro, vadinamo Jakubiš-
-    kėmis, esantį, su upėmis, į tą ežerą
-    įtekančiomis ir iš jo ištekančiomis;
-    pirmoji jų - Lakaja, antroji - Kamu­
-    žė, trečioji - Kimė, ketvirtoji - Fro­
-    mą, penktoji - Rašelė Dubingių vals­
-    čiuje. Dar pridedame du žmones
-    Linkmenų valsčiuje (tekste - Jen­
-    kmen): Kirkilą ir Žadeiką su jų vai­
-    kais ir būsimais palikuonimis.
+  citata_rodoma: "(Dovanojame) mūsų dvarą Me­\ndininkų valsčiuje; kurį kitados val­\ndė broliai Ivaška ir Fedka, vadina­\nmi Korevičiais, ir vieną žemę, taip \npat mūsų valdinio, vadinamo An- \ndriušiu, prie to paties dvaro esančią. \nTaip pat mūsų Lakajų ežerą, greta \nvyskupo dvaro, vadinamo Jakubiš- \nkėmis, esantį, su upėmis, į tą ežerą \nįtekančiomis ir iš jo ištekančiomis; \npirmoji jų - Lakaja, antroji - Kamu­\nžė, trečioji - Kimė, ketvirtoji - Fro­\nmą, penktoji - Rašelė Dubingių vals­\nčiuje. Dar pridedame du žmones \nLinkmenų valsčiuje (tekste - Jen­\nkmen): Kirkilą ir Žadeiką su jų vai­\nkais ir būsimais palikuonimis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86179
+    - t-001

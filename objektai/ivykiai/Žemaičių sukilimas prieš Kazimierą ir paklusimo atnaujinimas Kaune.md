@@ -47,9 +47,8 @@ Nenurodyta
 
 <a id="claim-t-186629"></a>
 - t-001
-  global_id: t-186629
   teiginys: "Lietuvos metraštis pasakoja, kad Kazimieras, priėmęs Kaune prisiekusius žemaičius, patvirtino jų privilegijas ir paliko Kantautą seniūnu trejiems metams."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Kantautas: 0.85"
@@ -93,18 +92,11 @@ Nenurodyta
     didžiojo kunigaikščio Kazimiero globėją Joną Goštau­
     tą, nes Jonas Goštautas buvo kunigaikščio Jurgio vai­
     kų krikštatėvis ir todėl jiedu bičiuliškai sugyveno.
-  citata_rodoma: |
-    Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
-    siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
-    turtą. Patvirtinęs jų privilegijas priesaikomis1 9  ir pa­
-    jungęs savo valdžiai, įsakė Žemaičių seniūnui Kęsgai­
-    lai palikti Kantautą bent trejus metus Žemaičių seniū­
-    nu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­
-    gaikščiui Kazimierui.
+  citata_rodoma: "Ir didysis kunigaikštis Kazimieras juos priėmė, pri­\nsiekė elgsiąsis su jais maloningai ir patiksiąs jiems jų\nturtą. Patvirtinęs jų privilegijas priesaikomis1 9  ir pa­\njungęs savo valdžiai, įsakė Žemaičių seniūnui Kęsgai­\nlai palikti Kantautą bent trejus metus Žemaičių seniū­\nnu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­\ngaikščiui Kazimierui."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186629
+    - t-001

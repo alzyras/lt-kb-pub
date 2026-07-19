@@ -30,7 +30,6 @@ Narbutas rašo, kad keliautojas Barovas, lydėjęs anglų pasiuntinį Makartnį,
 
 <a id="claim-t-191374"></a>
 - t-001
-  global_id: t-191374
   teiginys: "Narbutas rašo, kad keliautojas Barovas, lydėjęs anglų pasiuntinį Makartnį, Marko Polo žinias apie Kiniją siejo su jėzuitų aprašymais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Narbutas rašo, kad keliautojas Barovas, lydėjęs anglų pasiuntinį Makartnį,
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174256
-    - c-001
 - susijęs iš [[objektai/asmenys/Markas Polo.md#claim-t-191442|Markas Polo]]: Teodoras Narbutas rašo, kad Marko Polo žinios apie Kiniją ilgai buvo išjuokiamos, bet Barovas jas vėliau siejo su jėzuitų aprašymais.
 ## Reikšmingi paminėjimai
 - c-001
@@ -68,8 +66,7 @@ Narbutas rašo, kad keliautojas Barovas, lydėjęs anglų pasiuntinį Makartnį,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191374
+
 ## Citatos
 
 - id: c-174256
@@ -87,19 +84,11 @@ Narbutas rašo, kad keliautojas Barovas, lydėjęs anglų pasiuntinį Makartnį,
     gelbėti Pitėją, reikia daryti prielaidą, jog šį pavadinimą
     1 Reikia atkreipti dėmesį, jog pirklių pavydas ir valdžios politika
     daugelį atradimų laikė paslaptyje.
-  citata_rodoma: |
-    Spėjama, kad šališkas jo aiškin­
-    tojas Strabonas daug ką jam priskyrė svetimo. Dažnai
-    jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo
-    ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
-    jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
-    vintais jėzuitų aprašymais. Pitėjas vadina gutonus ger­
-    manų gentimi, tuo tarpu Tacitas tikina, jog šis pavadi­
-    nimas pradėtas vartoti tik neseniai.
+  citata_rodoma: "Spėjama, kad šališkas jo aiškin­\ntojas Strabonas daug ką jam priskyrė svetimo. Dažnai\njo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo\nilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­\njęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­\nvintais jėzuitų aprašymais. Pitėjas vadina gutonus ger­\nmanų gentimi, tuo tarpu Tacitas tikina, jog šis pavadi­\nnimas pradėtas vartoti tik neseniai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191374
+    - t-001

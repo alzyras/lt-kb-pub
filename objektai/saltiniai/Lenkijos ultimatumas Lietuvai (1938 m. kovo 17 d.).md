@@ -36,7 +36,6 @@ Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie admi
 
 <a id="claim-t-21106"></a>
 - t-001
-  global_id: t-21106
   teiginys: "1938 m. kovo 17 d. Lenkija įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius ir grasindama karu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie admi
 
 <a id="claim-t-21107"></a>
 - t-002
-  global_id: t-21107
   teiginys: "Lietuva 1938 m. kovo 19 d. priėmė Lenkijos ultimatumą, nes jis nelietė Vilniaus pripažinimo Lenkijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,15 +87,15 @@ Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie admi
     triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,
     reikalaudama užmegzti diplomatinius santykius, be išlygų duoti teigiamą
     atsakymą, nes kitaip bus blogai – suprask – kils karas.
-  citata_rodoma: |
-    triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,
+  citata_rodoma: "triją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21106
+    - t-001
+
 - id: c-166755
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -116,4 +114,4 @@ Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie admi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21107
+    - t-002

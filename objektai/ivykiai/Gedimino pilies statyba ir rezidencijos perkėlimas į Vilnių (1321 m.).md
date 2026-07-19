@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-86892"></a>
-- t-001
-  global_id: t-86892
+- t-003
   teiginys: "Gediminui įsakius ant kalno sumūryti pilį ir papėdėje pastatyti medinę tvirtovę, palei pilį kūrėsi nauji gyventojai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-86893"></a>
 - t-002
-  global_id: t-86893
   teiginys: "Gediminas įsakė pastatyti mūrinę pilį ant kalno prie Vilnelės ir Vilijos santakos ir iš Trakų perkėlė ten savo buveinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,7 +126,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86893
+    - t-002
+
 - id: c-82873
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -157,4 +156,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86892
+    - t-003

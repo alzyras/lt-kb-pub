@@ -63,8 +63,7 @@ Politinė grupuotė.
 ## Teiginiai
 
 <a id="claim-t-45269"></a>
-- t-001
-  global_id: t-45269
+- t-005
   teiginys: "Po Lenkijos ultimatumo ultraradikalieji voldemarininkai dėjosi prie krikščionių demokratų ir valstiečių liaudininkų opozicinių pasitarimų."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "gap::groups"
@@ -80,8 +79,7 @@ Politinė grupuotė.
     - c-26839
 
 <a id="claim-t-45270"></a>
-- t-002
-  global_id: t-45270
+- t-007
   teiginys: "Priėmus Lenkijos ultimatumą ultraradikalieji voldemarininkai prisidėjo prie A. Smetonos valdymui opozicinių jėgų telkimosi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
@@ -98,8 +96,7 @@ Politinė grupuotė.
     - c-26839
 
 <a id="claim-t-45271"></a>
-- t-003
-  global_id: t-45271
+- t-006
   teiginys: "Voldemarininkai kartu su Šaulių sąjunga ir jaunaisiais tautininkais kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "gap::groups"
@@ -118,8 +115,7 @@ Politinė grupuotė.
     - c-26840
 
 <a id="claim-t-45272"></a>
-- t-004
-  global_id: t-45272
+- t-008
   teiginys: "Vokietijos ir Lenkijos karo metu voldemarininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
@@ -176,8 +172,9 @@ Politinė grupuotė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45269
-    - t-45270
+    - t-005
+    - t-007
+
 - id: c-26840
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -197,7 +194,8 @@ Politinė grupuotė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45271
+    - t-006
+
 - id: c-48142
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -208,17 +206,14 @@ Politinė grupuotė.
     kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
     riausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą
     žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija.
-  citata_rodoma: |
-    O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
-    kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
-    riausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą
-    žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija.
+  citata_rodoma: "O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai \nkaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-\nriausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą \nžygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45272
+    - t-008
+
 ## Ryšiai
 - Voldemarininkai rėmė [[objektai/asmenys/A. Voldemaras]]

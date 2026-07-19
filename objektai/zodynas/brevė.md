@@ -38,7 +38,6 @@ Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę (1388.
 
 <a id="claim-t-34291"></a>
 - t-001
-  global_id: t-34291
   teiginys: "Popiežius Urbonas VI 1388 m. balandžio 8 d. breve išgyrė apsikrikštijusius lietuvius ir įgaliojo Dobrogostą tvarkyti Bažnyčios reikalus Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę (1388.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34291
+    - t-001

@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-191198"></a>
 - t-001
-  global_id: t-191198
   teiginys: "1253 m. galindai ir jotvingiai perėjo Krokuvos Boleslovo ir Kujavijos Kazimiero protekcijon, o šie kunigaikščiai apie tai pranešė popiežiui."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ media_all_json: |-
 
 <a id="claim-t-191199"></a>
 - t-002
-  global_id: t-191199
   teiginys: "Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174081
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius.'
@@ -98,8 +96,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191199
+
 ## Citatos
 
 - id: c-174080
@@ -128,7 +125,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191198
+    - t-001
+
 - id: c-174081
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -140,16 +138,11 @@ media_all_json: |-
     radarbiauti su lenkais. Danielius nesutiko. Naktį jotvin­
     giai užpuolė tik lenkus, o rusinu —■ ne. Priešinamasi buvo
     atkakliai, žiauriai, nuodėguliai krito kaip žaibai.
-  citata_rodoma: |
-    Ziemovitas
-    valdė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­
-    bėdami: „Esi su mumis sąjungoje, todėl kartu užgulkime
-    jotvingius". Be to, pagalbą atsiuntė taip pat ir Boleslovas
-    (Gėdingasis).
+  citata_rodoma: "Ziemovitas\nvaldė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­\nbėdami: „Esi su mumis sąjungoje, todėl kartu užgulkime\njotvingius\". Be to, pagalbą atsiuntė taip pat ir Boleslovas\n(Gėdingasis)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191199
+    - t-002

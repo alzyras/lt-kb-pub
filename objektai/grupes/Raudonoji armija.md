@@ -42,8 +42,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
 ## Teiginiai
 
 <a id="claim-t-78427"></a>
-- t-001
-  global_id: t-78427
+- t-006
   teiginys: "Po liepos 3 d. Lietuvos kariuomenės pertvarkymo įstatymo Lietuvos kariuomenė tapo Liaudies kariuomene, vėliau – Raudonosios armijos 29-uoju šaulių korpusu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,9 +58,9 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   pagrindžia:
     - c-22714
     - c-166564
+
 <a id="claim-t-78428"></a>
-- t-002
-  global_id: t-78428
+- t-008
   teiginys: "Baigiantis Antrajam pasauliniam karui, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus, bijodami Raudonosios armijos sugrįžimo ir deportacijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +80,6 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
 
 <a id="claim-t-78429"></a>
 - t-003
-  global_id: t-78429
   teiginys: "Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai atšaukė Lietuvoje rengtą sukilimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,8 +98,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - c-166563
 
 <a id="claim-t-78430"></a>
-- t-004
-  global_id: t-78430
+- t-007
   teiginys: "Sovietinėje Lietuvos istorijos interpretacijoje nustota dėkoti Raudonajai armijai už 1940 m. „išvadavimą“ iš lietuvių buržuazijos jungo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,8 +117,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - c-22715
 
 <a id="claim-t-78432"></a>
-- t-005
-  global_id: t-78432
+- t-004
   teiginys: "Po 1939 m. rudens Raudonosios armijos įgulos Lietuvoje veikė jaunimo politines nuostatas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -140,8 +136,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - c-22712
 
 <a id="claim-t-78433"></a>
-- t-006
-  global_id: t-78433
+- t-001
   teiginys: "Rusijos bolševikai metė Raudonosios armijos divizijas paskui namo traukiančią Vokietijos kariuomenę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -160,8 +155,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - c-22709
 
 <a id="claim-t-78435"></a>
-- t-007
-  global_id: t-78435
+- t-005
   teiginys: "Lietuvoje dislokuotos Raudonosios armijos 20 000 kariškių reikmėms trūko kareivinių, patalpų ir butų karininkams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -178,8 +172,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - c-22713
 
 <a id="claim-t-78436"></a>
-- t-008
-  global_id: t-78436
+- t-002
   teiginys: "1918 m. gruodžio 16 d. lietuvių bolševikai, remdamiesi tik Raudonosios armijos daliniais, deklaravo Sovietų Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -198,8 +191,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - c-22710
 
 <a id="claim-t-193560"></a>
-- t-009
-  global_id: t-193560
+- t-013
   teiginys: "Lietuvos diplomatinė tarnyba ir išeivija Baigiantis Antrajam pasauliniam karui, bijodami artėjančios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -229,18 +221,15 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
     metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių
     kariuomenę.
-  citata_rodoma: |
-    Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu-
-    cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
-    metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių
-    kariuomenę.
+  citata_rodoma: "Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu-\ncijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir \nmetė Raudonosios armijos divizijas paskui traukiančią namo vokiečių \nkariuomenę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78433
+    - t-001
+
 - id: c-22710
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -254,17 +243,15 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     tuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“. Rem-
     damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
     16 dienos manifestu deklaravo Sovietų Lietuvą.
-  citata_rodoma: |
-    Rem-
-    damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
-    16 dienos manifestu deklaravo Sovietų Lietuvą.
+  citata_rodoma: "Rem-\ndamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio \n16 dienos manifestu deklaravo Sovietų Lietuvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78436
+    - t-002
+
 - id: c-22712
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -279,19 +266,15 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     Nepriklausomybės karta
     Per nepilnus du dešimtmečius Lietuva galutinai tapo lietu-
     viška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija.
-  citata_rodoma: |
-    Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms
-    po 1939 m. rudens buvo akivaizdus – Raudonosios armijos įgulos darė
-    savo – lietuvių jaunimo dešinėje stiprėjo radikalus, nacionalistinis spar-
-    nas, kairėje – žydų ir lietuvių jaunimo dalis reiškė aiškias simpatijas SSRS,
-    bolševizmui.
+  citata_rodoma: "Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms \npo 1939 m. rudens buvo akivaizdus – Raudonosios armijos įgulos darė \nsavo – lietuvių jaunimo dešinėje stiprėjo radikalus, nacionalistinis spar-\nnas, kairėje – žydų ir lietuvių jaunimo dalis reiškė aiškias simpatijas SSRS, \nbolševizmui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78432
+    - t-004
+
 - id: c-22713
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -305,16 +288,15 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     to uždarymu, tad sostinės, ministerijų ir įstaigų perkelti iš Kauno į Vilnių
     neskubėta. Daug laiko atėmė ir Raudonosios armijos, dislokuotos Lietuvo-
     je, 20 000 kariškių reikmės – trūko kareivinių, patalpų, butų karininkams.
-  citata_rodoma: |
-    Daug laiko atėmė ir Raudonosios armijos, dislokuotos Lietuvo-
-    je, 20 000 kariškių reikmės – trūko kareivinių, patalpų, butų karininkams.
+  citata_rodoma: "Daug laiko atėmė ir Raudonosios armijos, dislokuotos Lietuvo-\nje, 20 000 kariškių reikmės – trūko kareivinių, patalpų, butų karininkams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78435
+    - t-005
+
 - id: c-22714
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -325,17 +307,15 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
     kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
     liau – Raudonosios armijos 29-uoju šaulių korpusu).
-  citata_rodoma: |
-    Liepos 3 dieną priimtas Lietuvos
-    kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
-    liau – Raudonosios armijos 29-uoju šaulių korpusu).
+  citata_rodoma: "Liepos 3 dieną priimtas Lietuvos \nkariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-\nliau – Raudonosios armijos 29-uoju šaulių korpusu)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78427
+    - t-006
+
 - id: c-22715
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -351,20 +331,15 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     savarankiškas lietuvių tautos sprendimas įstoti į SSRS, nors LDK istorija,
     Lietuvos nepriklausomybės 20-metis strigo visoje sovietinėje istoriogra-
     fijoje kaip kaulas gerklėje.
-  citata_rodoma: |
-    Leidus parašyti Lietuvos istorijos sovietinę interpretaciją nustota dė-
-    koti Raudonajai armijai už „išvadavimą“ iš lietuvių buržuazijos jungo
-    1940 m., nes sukonstruota socialistinės revoliucijos teorija, neva buvęs
-    savarankiškas lietuvių tautos sprendimas įstoti į SSRS, nors LDK istorija,
-    Lietuvos nepriklausomybės 20-metis strigo visoje sovietinėje istoriogra-
-    fijoje kaip kaulas gerklėje.
+  citata_rodoma: "Leidus parašyti Lietuvos istorijos sovietinę interpretaciją nustota dė-\nkoti Raudonajai armijai už „išvadavimą“ iš lietuvių buržuazijos jungo \n1940 m., nes sukonstruota socialistinės revoliucijos teorija, neva buvęs \nsavarankiškas lietuvių tautos sprendimas įstoti į SSRS, nors LDK istorija, \nLietuvos nepriklausomybės 20-metis strigo visoje sovietinėje istoriogra-\nfijoje kaip kaulas gerklėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78430
+    - t-007
+
 - id: c-22716
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -383,19 +358,16 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     Baigiantis Antrajam pasauliniam karui, bijodami artėjan-
     čios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos
     gyventojų pasitraukė į Vakarus.
-  citata_rodoma: |
-    Lietuvos diplomatinė tarnyba ir išeivija
-    Baigiantis Antrajam pasauliniam karui, bijodami artėjan-
-    čios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos
-    gyventojų pasitraukė į Vakarus.
+  citata_rodoma: "Lietuvos diplomatinė tarnyba ir išeivija\nBaigiantis Antrajam pasauliniam karui, bijodami artėjan-\nčios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos \ngyventojų pasitraukė į Vakarus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78428
-    - t-193560
+    - t-008
+    - t-013
+
 - id: c-166563
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -414,7 +386,8 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78429
+    - t-003
+
 - id: c-166564
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -430,3 +403,5 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

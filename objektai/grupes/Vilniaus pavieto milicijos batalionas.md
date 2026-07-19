@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-41197"></a>
 - t-001
-  global_id: t-41197
   teiginys: "Vilniaus pavieto milicijos batalionas buvo įgulos sudėtyje kartu su keliais eskadronais ir kitais sukilėlių padaliniais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,15 +61,11 @@ media_all_json: |-
     (žemės gen. mjr. T. Korsako) milicijos ba-
     talionas ir keli eskadronai bei keletas kitų
     smulkesnių sukilėlių padalinių.
-  citata_rodoma: |
-    Įguloje taip pat buvo Vilniaus pavieto
-    (žemės gen. mjr. T. Korsako) milicijos ba-
-    talionas ir keli eskadronai bei keletas kitų
-    smulkesnių sukilėlių padalinių.
+  citata_rodoma: "Įguloje taip pat buvo Vilniaus pavieto\n(žemės gen. mjr. T. Korsako) milicijos ba-\ntalionas ir keli eskadronai bei keletas kitų\nsmulkesnių sukilėlių padalinių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41197
+    - t-001

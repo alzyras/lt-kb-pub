@@ -48,8 +48,7 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
 ## Teiginiai
 
 <a id="claim-t-195562"></a>
-- t-001
-  global_id: t-195562
+- t-002
   teiginys: "Žmonės Slinkšę laikė patikimu prancūzmečio liudininku, nes anuomet jis jau buvo vedęs ir turėjo daugiau kaip trisdešimt metų."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -59,8 +58,7 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
     - c-177979
 
 <a id="claim-t-195563"></a>
-- t-002
-  global_id: t-195563
+- t-001
   teiginys: "Slinkšė buvo laikomas tų namų šeimininko „strujumi“."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -89,15 +87,15 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
     turėjo daugiau
     kaip trisdešimt metų, galėjo šnekėti apie tai, ką pats matė, ne ką
     iš kitų yra girdėjęs.
-  citata_rodoma: |
-    Žinojo visi, kad Slinkšė per prancūzmetį buvo jau vedęs vyras, turėjo daugiau kaip trisdešimt metų, galėjo šnekėti apie tai, ką pats matė.
+  citata_rodoma: "Žinojo visi, kad Slinkšė per prancūzmetį buvo jau vedęs vyras, turėjo daugiau kaip trisdešimt metų, galėjo šnekėti apie tai, ką pats matė."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195562
+    - t-002
+
 - id: c-177980
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -109,12 +107,11 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
     — Apie prancūzus va kas geriausiai žino, — sako Vaičys, rody­
     damas į Slinkšę, visai seną žmogų, sėdintį ne už stalo, bet ant lovos.
     Seniukas Slinkšė prisieina „strujumi“ tų namų šeimininkui.
-  citata_rodoma: |
-    Seniukas Slinkšė prisieina „strujumi“ tų namų šeimininkui.
+  citata_rodoma: "Seniukas Slinkšė prisieina „strujumi“ tų namų šeimininkui."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195563
+    - t-001

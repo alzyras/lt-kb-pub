@@ -30,7 +30,6 @@ Ducis Withowdi super bona Tudeniski [Didžiojo kunigaikščio Vytauto privilegij
 
 <a id="claim-t-88247"></a>
 - t-001
-  global_id: t-88247
   teiginys: "Vilniaus kapitulos archyve buvo didžiojo kunigaikščio Vytauto privilegija dėl Cudzeniškių valdos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Ducis Withowdi super bona Tudeniski [Didžiojo kunigaikščio Vytauto privilegij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88247
+    - t-001

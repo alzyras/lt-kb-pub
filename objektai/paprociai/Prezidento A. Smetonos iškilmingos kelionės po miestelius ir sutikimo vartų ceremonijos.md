@@ -68,8 +68,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-20818"></a>
-- t-001
-  global_id: t-20818
+- t-003
   teiginys: "1927 m. vasarą ir rudenį A. Smetona keliavo po miestelius su oficialia palyda ir buvo iškilmingai sutinkamas prie puošnių sutikimo vartų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::customs"
@@ -103,12 +102,11 @@ Nenurodyta
     lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,
     moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po jų – prie ati-
     tinkamai išpuoštų vietos žydų vartų.
-  citata_rodoma: |
-    lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,
+  citata_rodoma: "lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20818
+    - t-003

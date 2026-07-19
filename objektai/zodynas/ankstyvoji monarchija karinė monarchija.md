@@ -37,8 +37,7 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 ## Teiginiai
 
 <a id="claim-t-22056"></a>
-- t-001
-  global_id: t-22056
+- t-002
   teiginys: "XIV a. Lietuvos santvarka kartais apibūdinama kaip karinė monarchija, nes ordinų agresija vertė Lietuvą daug energijos skirti karybai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
     - c-24742
 
 <a id="claim-t-22057"></a>
-- t-002
-  global_id: t-22057
+- t-001
   teiginys: "Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turėjusi tokių požymių kaip diarchija ir ankstyvasis feodalizmas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 
 <a id="claim-t-183397"></a>
 - t-003
-  global_id: t-183397
   teiginys: "Valdant Ldk Gediminui Lietuvoje susiformavo ankstyvoji, arba karinė, monarchija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -107,15 +104,15 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
     Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti
     visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodaliz-
     mas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.
-  citata_rodoma: |
-    Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti
+  citata_rodoma: "Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22057
+    - t-001
+
 - id: c-24742
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -127,15 +124,15 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
     liacinės pastangos ilgai nedavė rezultatų, o ordinų karinė agresija ver-
     tė Lietuvą visą energiją skirti karybai. Todėl kartais Lietuvos santvarka
     XIV a. apibūdinama kaip karinė monarchija.
-  citata_rodoma: |
-    tė Lietuvą visą energiją skirti karybai. Todėl kartais Lietuvos santvarka
+  citata_rodoma: "tė Lietuvą visą energiją skirti karybai. Todėl kartais Lietuvos santvarka"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22056
+    - t-002
+
 - id: c-166791
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -154,4 +151,4 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183397
+    - t-003

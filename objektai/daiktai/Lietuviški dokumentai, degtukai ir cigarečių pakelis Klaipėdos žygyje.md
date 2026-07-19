@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-19548"></a>
 - t-001
-  global_id: t-19548
   teiginys: "1923 m. sausio 9 d. civiliai aprengti 1 050 Lietuvos savanorių peržengė sieną be lietuviškų dokumentų, degtukų ar cigarečių pakelių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,12 +84,11 @@ Nenurodyta
     Sausio 9-ąją civiliai aprengti 1 050 Lietuvos savanorių, kurių
     kišenėse nebūtum galėjęs rasti nė vieno lietuviško dokumento, degtukų
     ar cigarečių pakelio, peržengė sieną.
-  citata_rodoma: |
-    kišenėse nebūtum galėjęs rasti nė vieno lietuviško dokumento, degtukų
+  citata_rodoma: "kišenėse nebūtum galėjęs rasti nė vieno lietuviško dokumento, degtukų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19548
+    - t-001

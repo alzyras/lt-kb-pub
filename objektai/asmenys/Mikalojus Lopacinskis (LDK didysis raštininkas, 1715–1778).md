@@ -38,8 +38,7 @@ Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas. Mikalojaus Lopac
 ## Teiginiai
 
 <a id="claim-t-200449"></a>
-- t-001
-  global_id: t-200449
+- t-002
   teiginys: "Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -56,8 +55,7 @@ Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas. Mikalojaus Lopac
     - c-183840
 
 <a id="claim-t-200450"></a>
-- t-002
-  global_id: t-200450
+- t-003
   teiginys: "Mikalojaus Lopacinskio interesai Vilniuje buvo viena pagrindinių Jono Dominyko Lopacinskio laiškų temų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -75,8 +73,7 @@ Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas. Mikalojaus Lopac
     - c-183840
 
 <a id="claim-t-200451"></a>
-- t-003
-  global_id: t-200451
+- t-001
   teiginys: "Mikalojus Lopacinskis buvo Jono Dominyko Lopacinskio brolis."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -102,23 +99,10 @@ Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas. Mikalojaus Lopac
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 3"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 3."
-  citata_originali: |
-    Bene dažniausias jo adresa-
-    tas buvo brolis Mikalojus Lopacinskis (1715–1778) – būsimasis LDK didysis raštininkas.
-    Jo, kaip savo giminės ir, be abejo, luomo atstovo, interesai Vilniuje buvo bene svarbiausi
-    būsimam hierarchui ir viena iš pagrindinių jo laiškų temų. Jis brolį nuolat ragino dažniau
-    atvykti į Vilnių.
-  citata_rodoma: |
-    Bene dažniausias jo adresatas buvo brolis Mikalojus Lopacinskis (1715–1778) – būsimasis LDK didysis raštininkas.
-    Jo, kaip savo giminės ir, be abejo, luomo atstovo, interesai Vilniuje buvo bene svarbiausi
-    būsimam hierarchui ir viena iš pagrindinių jo laiškų temų. Jis brolį nuolat ragino dažniau
-    atvykti į Vilnių.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:25"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200449
-    - t-200450
-    - t-200451
+    - t-002
+    - t-003
+    - t-001

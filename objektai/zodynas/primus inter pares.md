@@ -39,7 +39,6 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
 
 <a id="claim-t-22257"></a>
 - t-001
-  global_id: t-22257
   teiginys: "Stasys Lozoraitis diplomatijos šefo pareigas aiškino kaip primus inter pares, pirmojo tarp lygiųjų, vaidmenį tarp pasiuntinių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,12 +76,11 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
     diplomatijos šefo pareigas interpretavo kaip
     primus inter pares (pirmas tarp lygiųjų) tarp
     visų pasiuntinių.
-  citata_rodoma: |
-    diplomatijos šefo pareigas interpretavo kaip
+  citata_rodoma: "diplomatijos šefo pareigas interpretavo kaip"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22257
+    - t-001

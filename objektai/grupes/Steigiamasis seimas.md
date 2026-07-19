@@ -42,8 +42,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
 ## Teiginiai
 
 <a id="claim-t-74943"></a>
-- t-001
-  global_id: t-74943
+- t-008
   teiginys: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
 
 <a id="claim-t-74944"></a>
 - t-002
-  global_id: t-74944
   teiginys: "Dėl nepriklausomybės kovų rinkimai į Steigiamąjį Seimą surengti tik 1920 m. balandžio viduryje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     - c-72888
 
 <a id="claim-t-74948"></a>
-- t-003
-  global_id: t-74948
+- t-004
   teiginys: "Steigiamasis Seimas vienbalsiai priėmė Lietuvos valstybės nepriklausomybės proklamavimo dokumentą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     - c-72894
 
 <a id="claim-t-74950"></a>
-- t-004
-  global_id: t-74950
+- t-006
   teiginys: "Steigiamasis Seimas 1922 m. rugpjūčio 1 d. Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,8 +118,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     - c-72893
 
 <a id="claim-t-193129"></a>
-- t-005
-  global_id: t-193129
+- t-009
   teiginys: "Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvelgdamas į ilgą ten Vokietijos viešpatavimą, pareiškė (1921.XI.il.), kad tas kraštas turėtų būti prijungtas prie Lietuvos, kaip atskiras autonominis vienetas."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -165,7 +160,8 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193129
+    - t-009
+
 - id: c-72888
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -177,19 +173,15 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     mai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų
     teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą,
     tautybę ar lytį.
-  citata_rodoma: |
-    Įsitvirtinus didumoje savo teritorijos atėjo
-    eilė valstybės struktūros klausimams. Dėl nepriklausomybės kovų rinki-
-    mai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų
-    teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą,
-    tautybę ar lytį.
+  citata_rodoma: "Įsitvirtinus didumoje savo teritorijos atėjo \neilė valstybės struktūros klausimams. Dėl nepriklausomybės kovų rinki-\nmai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų \nteisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą, \ntautybę ar lytį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74944
+    - t-002
+
 - id: c-72892
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -201,17 +193,15 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     ieškoti sprendimo. Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
     niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
     auksu paremtas litas, kurį sudaro 100 centų.
-  citata_rodoma: |
-    Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
-    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
-    auksu paremtas litas, kurį sudaro 100 centų.
+  citata_rodoma: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-\nniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra \nauksu paremtas litas, kurį sudaro 100 centų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74943
+    - t-008
+
 - id: c-72893
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -226,17 +216,15 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-
     tucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos
     principus.
-  citata_rodoma: |
-    Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-
-    tucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos
-    principus.
+  citata_rodoma: "Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-\ntucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos \nprincipus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74950
+    - t-006
+
 - id: c-72894
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -254,4 +242,4 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74948
+    - t-004

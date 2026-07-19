@@ -33,7 +33,6 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
 
 <a id="claim-t-88046"></a>
 - t-001
-  global_id: t-88046
   teiginys: "Jerošinas teigė, kad Gediminas per pasiuntinius neigė savo valia siuntęs laiškus miestams, šalims ar popiežiui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
 
 <a id="claim-t-88047"></a>
 - t-002
-  global_id: t-88047
   teiginys: "Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,9 +66,8 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
 
 <a id="claim-t-188408"></a>
 - t-003
-  global_id: t-188408
   teiginys: "Narbutas spėja, kad Jerošinas apie krivį turėjo daugiau žinių, nes vadino jį Obriste Ewarte."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -86,7 +83,6 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171298
-    - c-003
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172868|J. Dlugošas]]: Petro Dusburgiečio leidinio įvade J. Dlugošas pristatomas kaip autorius, savo Lenkijos istorijos „Analuose, arba kronikose“ panaudojęs Mikalojaus iš Jerošino vertimą.
 - susijęs iš [[objektai/autoriai/Jerošinas Jeroschin.md#claim-t-88021|Jerošinas Jeroschin]]: Jerošinas teigė, kad Gediminas per pasiuntinius neigė savo valia siuntęs laiškus miestams, šalims ar popiežiui.
 - susijęs iš [[objektai/autoriai/Jerošinas Jeroschin.md#claim-t-88022|Jerošinas Jeroschin]]: Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.
@@ -123,8 +119,7 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188408
+
 ## Citatos
 
 - id: c-84025
@@ -146,26 +141,15 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
     tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­
     dijančių juos Rygos arkivyskupo prasimanymu ir klastote
     esant.
-  citata_rodoma: |
-    236-237, abejoja tos nuomonės
-    teisingumu. Vėliau viskas byloja, jog Gediminas per pasiun­
-    tinius nurodė, kaip sako Jerošinas, garantuoti, kad
-    niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­
-    jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir
-    popiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­
-    kada nebuvo dėl jų suabejojęs.
-    Jeigu su atida peržvelgsime laiškus, Gedimino vardu
-    rašytus dominikonų ordinui, minoritams ir Vokietijos mies­
-    tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­
-    dijančių juos Rygos arkivyskupo prasimanymu ir klastote
-    esant.
+  citata_rodoma: "236-237, abejoja tos nuomonės \nteisingumu. Vėliau viskas byloja, jog Gediminas per pasiun­\ntinius nurodė, kaip sako Jerošinas, garantuoti, kad \nniekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­\njami jokie laiškai kokiems nors miestams ar šalims, sykiu ir \npopiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­\nkada nebuvo dėl jų suabejojęs.\nJeigu su atida peržvelgsime laiškus, Gedimino vardu \nrašytus dominikonų ordinui, minoritams ir Vokietijos mies­\ntams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­\ndijančių juos Rygos arkivyskupo prasimanymu ir klastote \nesant."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88046
+    - t-001
+
 - id: c-84026
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -192,7 +176,8 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88047
+    - t-002
+
 - id: c-171298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -205,18 +190,11 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
     nevykusio palyginimo virto pasaka? Jokiu būdu. Po tūkstan­
     čio metų kam nors galbūt ateis į galvą mintis paskelbti Peter­
     burgą apaštalo Petro pilimi, jo pavadinimą palyginti su šv.
-  citata_rodoma: |
-    Aiškiai matyti, kad
-    jam žodis quidam (vienas, kažkoks) pasirodė esąs nepa­
-    kankamas, tačiau jis nesugebėjo jo deramai papildyti, kadangi
-    jo nobilior beveik nieko daugiau nepasako. Tačiau Jerošinas
-    tuo klausimu, matyt, turėjo jau daugiau žinių, nes krivį vadina
-    Obriste Ewarte (aukščiausiasis teisėjas), kuo krivis iš tikrųjų ir
-    buvo, nes, pasak Hugo Gracijaus (Grabus. Historia Gottorum.
+  citata_rodoma: "Aiškiai matyti, kad\njam žodis quidam (vienas, kažkoks) pasirodė esąs nepa­\nkankamas, tačiau jis nesugebėjo jo deramai papildyti, kadangi\njo nobilior beveik nieko daugiau nepasako. Tačiau Jerošinas\ntuo klausimu, matyt, turėjo jau daugiau žinių, nes krivį vadina\nObriste Ewarte (aukščiausiasis teisėjas), kuo krivis iš tikrųjų ir\nbuvo, nes, pasak Hugo Gracijaus (Grabus. Historia Gottorum."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188408
+    - t-003

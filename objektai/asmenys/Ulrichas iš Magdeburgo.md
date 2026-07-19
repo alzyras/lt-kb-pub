@@ -40,9 +40,8 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
 
 <a id="claim-t-60214"></a>
 - t-001
-  global_id: t-60214
   teiginys: "Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo itin stipraus kūno sudėjimo."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:45"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -54,12 +53,11 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60846
-    - c-001
+
 <a id="claim-t-184136"></a>
 - t-002
-  global_id: t-184136
   teiginys: "Ulrichui iš Magdeburgo buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus, atplaukiančius į Prūsiją."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -74,10 +72,9 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60846
-    - c-001
+
 <a id="claim-t-194521"></a>
 - t-003
-  global_id: t-194521
   teiginys: "Apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio stipraus kūno sudėjimo, kad lenkė visus kitus vyrus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -87,7 +84,7 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60846
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -104,10 +101,9 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60214
-    - t-184136
+- t-184136
     - t-194521
+
 ## Citatos
 
 - id: c-60846
@@ -123,20 +119,13 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
     nukentėdavau; juos puldavau ir su pagrindu, ir be pagrindo, bet nieko nelaimėdavau,
     nes dievas su jais ir už juos kovoja. Dėl to jums patariu niekad jiems nesipriešinti, bet
     nuolankiai juos gerbti“. Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.
-  citata_rodoma: |
-    Apie brolį Ulrichą ir 50 prūsų žūtį
-
-      Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio
-    stipraus kūno sudėjimo, kad lenkė visus kitus vyrus. Jis vienu pirštu paimdavęs už diržo
-    per nugarą du ginklanešius  ir, nors jie  ir priešindavosi, lyg niekur nieko pakeldavęs
-    aukštyn. Jam buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus,
-    kurie jūra atplaukdavo į Prūsijos žemę, nes prūsai anksčiau labai dažnai juos skandindavo.
+  citata_rodoma: "Apie brolį Ulrichą ir 50 prūsų žūtį\n\n  Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio\nstipraus kūno sudėjimo, kad lenkė visus kitus vyrus. Jis vienu pirštu paimdavęs už diržo\nper nugarą du ginklanešius  ir, nors jie  ir priešindavosi, lyg niekur nieko pakeldavęs\naukštyn. Jam buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus,\nkurie jūra atplaukdavo į Prūsijos žemę, nes prūsai anksčiau labai dažnai juos skandindavo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60214
-    - t-184136
-    - t-194521
+    - t-001
+    - t-002
+    - t-003

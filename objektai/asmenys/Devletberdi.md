@@ -31,7 +31,6 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 
 <a id="claim-t-35047"></a>
 - t-001
-  global_id: t-35047
   teiginys: "Chanas Devletberdi įsigalėjo Kryme, susitaikė su Vytautu ir vėliau buvo Machmeto nužudytas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,17 +61,11 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     Be šių Vytautui paklusnių totorių, jis turėjo jų ir tiesiog jam
     priklausančių, nes daug jų gyveno Podolijoj, Kijevo apylinkėse,
     o kai kurie net etnografinėje Lietuvoje.
-  citata_rodoma: |
-    Taip pat buvo jam
-    paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susitaikęs
-    chanas Devletberdi, vėliau Machmeto nužudytas.
-    Be šių Vytautui paklusnių totorių, jis turėjo jų ir tiesiog jam
-    priklausančių, nes daug jų gyveno Podolijoj, Kijevo apylinkėse,
-    o kai kurie net etnografinėje Lietuvoje.
+  citata_rodoma: "Taip pat buvo jam\npaklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susitaikęs\nchanas Devletberdi, vėliau Machmeto nužudytas.\nBe šių Vytautui paklusnių totorių, jis turėjo jų ir tiesiog jam\npriklausančių, nes daug jų gyveno Podolijoj, Kijevo apylinkėse,\no kai kurie net etnografinėje Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35047
+    - t-001

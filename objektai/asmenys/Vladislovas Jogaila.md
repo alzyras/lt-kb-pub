@@ -39,8 +39,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 ## Teiginiai
 
 <a id="claim-t-173225"></a>
-- t-001
-  global_id: t-173225
+- t-007
   teiginys: "Jogaila sutelkė nemažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157575
 
 <a id="claim-t-173226"></a>
-- t-002
-  global_id: t-173226
+- t-009
   teiginys: "Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157562
 
 <a id="claim-t-173227"></a>
-- t-003
-  global_id: t-173227
+- t-017
   teiginys: "Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris sustiprino abiejų pilių įgulas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +88,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157570
 
 <a id="claim-t-173228"></a>
-- t-004
-  global_id: t-173228
+- t-020
   teiginys: "1397 m. Vladislovas Jogaila ir Vytautas Vilniaus vyskupui Andriui laidavo dviejų šimtų markių metines pajamas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,8 +107,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157561
 
 <a id="claim-t-173229"></a>
-- t-005
-  global_id: t-173229
+- t-021
   teiginys: "1401 m. Vladislovas Jogaila iš Vytauto gavo aktą, kad po Vytauto mirties Lietuva ir Rusia pereis karaliaus valdžion."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,8 +127,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157568
 
 <a id="claim-t-173232"></a>
-- t-006
-  global_id: t-173232
+- t-023
   teiginys: "Beginklis Jogaila su visa palyda buvo įkalintas pilyje ir saugomas daugybės kareivių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -149,8 +143,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157555
 
 <a id="claim-t-173235"></a>
-- t-007
-  global_id: t-173235
+- t-018
   teiginys: "Vladislovas Jogaila paveldėjimo teise vėl suteikė Panerius katedrai ir Vilniaus kapitulai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -167,8 +160,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157577
 
 <a id="claim-t-173236"></a>
-- t-008
-  global_id: t-173236
+- t-026
   teiginys: "Pagal Vladislovo Jogailos potvarkį Vilniaus sargyba ir policija laikinai priklausė pilies tarnybai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -184,8 +176,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157558
 
 <a id="claim-t-173237"></a>
-- t-009
-  global_id: t-173237
+- t-024
   teiginys: "Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -201,8 +192,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157569
 
 <a id="claim-t-173238"></a>
-- t-010
-  global_id: t-173238
+- t-015
   teiginys: "Karalius Vladislovas ir karalienė Jadvyga prašė pripažinti Vilnių miestu, o Šv. Stanislovo bažnyčią - katedra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -218,8 +208,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157560
 
 <a id="claim-t-173239"></a>
-- t-011
-  global_id: t-173239
+- t-010
   teiginys: "Vladislovas Jogaila katedrai ir vyskupams skyrė nemažą Vilniaus miesto dalį nuo pilies iki Šv. Mikalojaus kapinių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -235,8 +224,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157573
 
 <a id="claim-t-173240"></a>
-- t-012
-  global_id: t-173240
+- t-005
   teiginys: "Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėde Kęstučiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -253,8 +241,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157574
 
 <a id="claim-t-173241"></a>
-- t-013
-  global_id: t-173241
+- t-008
   teiginys: "Jogaila siekė Lenkijos sosto ir sumanė sukurti naują galingą valstybę Šiaurės Europoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -271,8 +258,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157565
 
 <a id="claim-t-173242"></a>
-- t-014
-  global_id: t-173242
+- t-006
   teiginys: "Bajoras Vaidila patarimais ir įtaka rėmė Jogailos siekius, o 1380 m. Prūsijoje ruošė dirvą slaptam sandėriui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -292,8 +278,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157578
 
 <a id="claim-t-173243"></a>
-- t-015
-  global_id: t-173243
+- t-013
   teiginys: "Vladislovas Jogaila aplankė Lietuvą diegdamas naujo tikėjimo nuostatus ir, numaldęs bruzdėjimus Baltojoje Rusioje, grįžo į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -310,8 +295,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157556
 
 <a id="claim-t-173244"></a>
-- t-016
-  global_id: t-173244
+- t-003
   teiginys: "1390 m. Vladislovas Jogaila Vilniaus kapitulai suteikė privilegiją, kuria dovanojo Panerius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -331,8 +315,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157564
 
 <a id="claim-t-173245"></a>
-- t-017
-  global_id: t-173245
+- t-014
   teiginys: "Vladislovas Jogaila nepasitikėjo Vytautu ir negrąžino jam nei Lietuvos valdymo, nei po Kęstučio mirties priklausiusio paveldo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -349,8 +332,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157563
 
 <a id="claim-t-173246"></a>
-- t-018
-  global_id: t-173246
+- t-002
   teiginys: "Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija nesuteikė Vilniaus miestiečiams palankaus meto įgyti daugiau laisvių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -366,8 +348,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157571
 
 <a id="claim-t-173247"></a>
-- t-019
-  global_id: t-173247
+- t-011
   teiginys: "Vladislovas Jogaila Vilniuje įsakė statyti Šv. Martyno ir Šv. Jono bažnyčias."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -383,8 +364,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157559
 
 <a id="claim-t-173248"></a>
-- t-020
-  global_id: t-173248
+- t-012
   teiginys: "Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -401,8 +381,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157572
 
 <a id="claim-t-173249"></a>
-- t-021
-  global_id: t-173249
+- t-004
   teiginys: "Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -419,8 +398,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157579
 
 <a id="claim-t-173250"></a>
-- t-022
-  global_id: t-173250
+- t-016
   teiginys: "1390 m. lapkritį Vladislovas Jogaila su gausia kariuomene parvyko iš Lenkijos į griuvėsiais virtusį Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -440,8 +418,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157557
 
 <a id="claim-t-194243"></a>
-- t-023
-  global_id: t-194243
+- t-027
   teiginys: "Mažai težinoma mums patiems, o Europai visai negirdė ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios pagonybės."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -453,8 +430,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-176839
 
 <a id="claim-t-194244"></a>
-- t-024
-  global_id: t-194244
+- t-028
   teiginys: "Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės ir privilegijos į Didžią ją Kunigaikštystę24."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -541,7 +517,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173232
+    - t-023
+
 - id: c-157556
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -564,7 +541,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173243
+    - t-013
+
 - id: c-157557
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -593,7 +571,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173250
+    - t-016
+
 - id: c-157558
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -615,7 +594,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173236
+    - t-026
+
 - id: c-157559
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -636,7 +616,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173247
+    - t-011
+
 - id: c-157560
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -659,7 +640,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173238
+    - t-015
+
 - id: c-157561
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -686,7 +668,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173228
+    - t-020
+
 - id: c-157562
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -709,7 +692,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173226
+    - t-009
+
 - id: c-157563
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -732,7 +716,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173245
+    - t-014
+
 - id: c-157564
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -766,7 +751,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173244
+    - t-003
+
 - id: c-157565
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -799,7 +785,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173241
+    - t-008
+
 - id: c-157568
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -815,22 +802,15 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir
     Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­
     jungta prie Lenkijos.
-  citata_rodoma: |
-    Didysis kunigaikštis ne­
-    teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė,
-    kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
-    čių sidabro luitų65 • . Vladislovas Jogaila, aukščiausiąją valdžią
-    Lietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą
-    aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir
-    Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­
-    jungta prie Lenkijos.
+  citata_rodoma: "Didysis kunigaikštis ne­\nteko savo žirgų ir brangenybių, o žala, kurią per tai patyrė, \nkaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­\nčių sidabro luitų65 • . Vladislovas Jogaila, aukščiausiąją valdžią \nLietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą \naktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir \nRusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­\njungta prie Lenkijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173229
+    - t-021
+
 - id: c-157569
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -855,7 +835,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173237
+    - t-024
+
 - id: c-157570
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -876,7 +857,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173227
+    - t-017
+
 - id: c-157571
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -896,7 +878,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173246
+    - t-002
+
 - id: c-157572
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -925,7 +908,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173248
+    - t-012
+
 - id: c-157573
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -945,7 +929,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173239
+    - t-010
+
 - id: c-157574
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -972,7 +957,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173240
+    - t-005
+
 - id: c-157575
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -992,7 +978,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173225
+    - t-007
+
 - id: c-157577
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1017,7 +1004,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173235
+    - t-018
+
 - id: c-157578
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1039,7 +1027,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173242
+    - t-006
+
 - id: c-157579
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1075,7 +1064,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173249
+    - t-004
+
 - id: c-176839
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1119,7 +1109,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194243
+    - t-027
+
 - id: c-176840
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1141,7 +1132,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194244
+    - t-028
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Broliai: [[objektai/asmenys/Skirgaila]]

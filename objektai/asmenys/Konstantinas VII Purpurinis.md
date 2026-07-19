@@ -31,9 +31,8 @@ Narbutas Konstantiną VII Purpurinį vadina istoriku ir juo remiasi aiškindamas
 
 <a id="claim-t-191352"></a>
 - t-001
-  global_id: t-191352
   teiginys: "Narbutas Konstantiną VII Purpurinį vadina istoriku ir juo remiasi aiškindamas aptariamos tautos padalijimą į dvi puses."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Narbutas Konstantiną VII Purpurinį vadina istoriku ir juo remiasi aiškindamas
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174234
-    - c-001
+
 <a id="claim-t-191353"></a>
 - t-002
-  global_id: t-191353
   teiginys: "Pasak Narbuto cituojamo Purpurinio, Charoboe pečenegų ordos sostinė buvo Belotzebo, slaviškai vadinta Belaja Cerkove."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -87,8 +85,7 @@ Narbutas Konstantiną VII Purpurinį vadina istoriku ir juo remiasi aiškindamas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191352
+
 ## Citatos
 
 - id: c-174234
@@ -106,20 +103,15 @@ Narbutas Konstantiną VII Purpurinį vadina istoriku ir juo remiasi aiškindamas
     ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
     kart priėmė net ir svetimšaliai, nes gerai jas pažinoję
     vengrai vadino šias gentis kumanais.
-  citata_rodoma: |
-    Pažiūrėkime į šio pavadinimo ištakas, rem­
-    damiesi savo žiniomis. Anot anuometinio istoriko Kons­
-    tantino Purpurinio*, jie buvo pasidaliję į dvi puses (po-
-    towy), kurių kiekvieną sudarė keturios ordos; orda dali­
-    josi į penkias apskritis, arba pavietus. Dešiniojoje Dnep-
-    1 Poloviečiai patys save vadino Kipczak.
+  citata_rodoma: "Pažiūrėkime į šio pavadinimo ištakas, rem­\ndamiesi savo žiniomis. Anot anuometinio istoriko Kons­\ntantino Purpurinio*, jie buvo pasidaliję į dvi puses (po-\ntowy), kurių kiekvieną sudarė keturios ordos; orda dali­\njosi į penkias apskritis, arba pavietus. Dešiniojoje Dnep-\n1 Poloviečiai patys save vadino Kipczak."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191352
+    - t-001
+
 - id: c-174235
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -138,4 +130,4 @@ Narbutas Konstantiną VII Purpurinį vadina istoriku ir juo remiasi aiškindamas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191353
+    - t-002

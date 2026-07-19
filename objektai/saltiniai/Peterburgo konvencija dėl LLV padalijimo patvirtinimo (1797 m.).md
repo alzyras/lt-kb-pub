@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-21224"></a>
 - t-001
-  global_id: t-21224
   teiginys: "1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peterburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos valstybingumo likučius ir nubrėžė tikslias sienas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,12 +70,11 @@ media_all_json: |-
     valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
     pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
     mo) aktas.
-  citata_rodoma: |
-    valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
+  citata_rodoma: "valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21224
+    - t-001

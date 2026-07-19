@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-31404"></a>
 - t-001
-  global_id: t-31404
   teiginys: "Po aštuonių dienų Apuolės apgulos švedų karalius Olafas privertė kuršius grąžinti danų grobį, sudaryti taiką, mokėti duoklę ir duoti 30 įkaitų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,19 +74,12 @@ Nenurodyta
     jam atiduoti danų grobį, padaryti taiką, mokėti ankstyvesnę duoklę,
     be to, išreikalavo 30 įkaitų. Pagal vidurinių amžių kronikininkų
     didelių skaičių « ligą », yra perdėti skaičiai kuršių kovotojų Seeburgo
-    (7000) ir Apuolės (15.
-  citata_rodoma: |
-    Apie danų nesėkmę išgirdęs, švedų karalius Olafas panorėjo iš
-    naujo švedams užvaldyti Kuršą. Jis nusiaubė ir sudegino Kuršių
-    Seeįurgą ir, po aštuonių dienų Apuolės apgulimo, privertė Kuršius
-    jam atiduoti danų grobį, padaryti taiką, mokėti ankstyvesnę duoklę,
-    be to, išreikalavo 30 įkaitų. Pagal vidurinių amžių kronikininkų
-    didelių skaičių « ligą », yra perdėti skaičiai kuršių kovotojų Seeburgo
-    (7000) ir Apuolės (15.
+    (7000) ir Apuolės (15.000) pilyse.
+  citata_rodoma: "Apie danų nesėkmę išgirdęs, švedų karalius Olafas panorėjo iš\nnaujo švedams užvaldyti Kuršą. Jis nusiaubė ir sudegino Kuršių\nSeeįurgą ir, po aštuonių dienų Apuolės apgulimo, privertė Kuršius\njam atiduoti danų grobį, padaryti taiką, mokėti ankstyvesnę duoklę,\nbe to, išreikalavo 30 įkaitų. Pagal vidurinių amžių kronikininkų\ndidelių skaičių « ligą », yra perdėti skaičiai kuršių kovotojų Seeburgo\n(7000) ir Apuolės (15."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31404
+    - t-001

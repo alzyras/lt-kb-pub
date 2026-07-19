@@ -46,8 +46,7 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
 ## Teiginiai
 
 <a id="claim-t-82031"></a>
-- t-001
-  global_id: t-82031
+- t-002
   teiginys: "Nikono metraštyje aprašyti Mėlynųjų Vandenų įvykiai, siejami su Algirdo žygiu į Mėlynuosius Vandenis ir Baltąją pakrantę."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
     - c-78539
 
 <a id="claim-t-82032"></a>
-- t-002
-  global_id: t-82032
+- t-004
   teiginys: "Balińskis manė, kad Voskresensko metraštininkas galėjo žinoti ką nors tikra apie Gedimino kilmę, nes rašė praėjus vos amžiui po Jogailos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
 
 <a id="claim-t-82033"></a>
 - t-003
-  global_id: t-82033
   teiginys: "Balińskis įdėjo visą Nikono metraščio vietą, kurioje kalbama apie tariamus Vilniaus kunigaikščius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
     - c-78536
 
 <a id="claim-t-194212"></a>
-- t-004
-  global_id: t-194212
+- t-005
   teiginys: "Nors Voskresensko Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra apie Gedimino kilmę, mat rašė vos vienam amžiui tepraė."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -140,7 +136,8 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82033
+    - t-003
+
 - id: c-78538
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -167,7 +164,8 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82032
+    - t-004
+
 - id: c-78539
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -192,7 +190,8 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82031
+    - t-002
+
 - id: c-176814
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -217,4 +216,4 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194212
+    - t-005

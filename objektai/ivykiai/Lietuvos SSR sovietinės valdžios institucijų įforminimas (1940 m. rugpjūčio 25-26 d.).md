@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20283"></a>
 - t-001
-  global_id: t-20283
   teiginys: "1940 m. rugpjūčio 25 d. Liaudies seimas pervadintas Lietuvos SSR Aukščiausiąja Taryba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-20284"></a>
 - t-002
-  global_id: t-20284
   teiginys: "Po Lietuvos pavertimo SSRS dalimi Lietuvos įstaigose, ypač NKVD, sovietinę tvarką įvedė iš SSRS atvykę „specialistai“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,15 +109,15 @@ Nenurodyta
     ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
     Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
     siskyrė nuo 1936 m.
-  citata_rodoma: |
-    ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė
+  citata_rodoma: "ja valdžia patvirtinta Lietuvos SSR liaudies komisarų taryba, kuri pakeitė"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20283
+    - t-001
+
 - id: c-23019
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -135,12 +133,11 @@ Nenurodyta
     konstitucijos. Visos Lietuvos įstaigos, ypač NKVD, prisipildė atvykusių
     iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp
     Lietuvos ir likusios SSRS dalies dar buvo.
-  citata_rodoma: |
-    iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp
+  citata_rodoma: "iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20284
+    - t-002

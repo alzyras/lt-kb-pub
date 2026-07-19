@@ -40,7 +40,6 @@ Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas
 
 <a id="claim-t-87741"></a>
 - t-001
-  global_id: t-87741
   teiginys: "Jurgis Astikas 1580 m. birželio 18 d. buvo nukirsdintas Vilniaus turguje už klastą ir tėvynės išdavystę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,6 +85,7 @@ Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87741
+    - t-001
+
 ## Ryšiai
 - Jurgis Astikas mirė [[objektai/vietos/Vilniaus turgus]]

@@ -39,7 +39,6 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
 
 <a id="claim-t-195478"></a>
 - t-001
-  global_id: t-195478
   teiginys: "Ažytėnų ganykla anuomet buvo vadinama dviem vardais: Pridotku ir Radviliškiu."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -51,7 +50,6 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
 
 <a id="claim-t-195479"></a>
 - t-002
-  global_id: t-195479
   teiginys: "Ažytėnų ganykla apibūdinama kaip apie pusantro šimto hektarų mišku ir aikštėmis apaugęs plotas, prieinantis Bilazaro mišką."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -74,15 +72,15 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
     ginėme iš kaimo bandą, kuri išmintais dirvose takais tiesiai traukė į ga­
     nyklą.
     Ažytėnų ganykla tais laikais buvo vadinama dviem vardais:
-  citata_rodoma: |
-    „Ažytėnų ganykla tais laikais buvo vadinama dviem vardais:“
+  citata_rodoma: "„Ažytėnų ganykla tais laikais buvo vadinama dviem vardais:“"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195478
+    - t-001
+
 - id: c-177900
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -94,13 +92,12 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
     tas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.
     Šiandien
     toje vietoje „kelmai kelmuoti, pakalnės nuplikę“ .
-  citata_rodoma: |
-    „Pridotkas ir Radviliškis.“
+  citata_rodoma: "„Pridotkas ir Radviliškis.“"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195478
-    - t-195479
+    - t-001
+    - t-002

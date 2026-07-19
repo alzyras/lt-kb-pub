@@ -33,7 +33,6 @@ Tai buvusi žagrė, t.
 
 <a id="claim-t-201819"></a>
 - t-001
-  global_id: t-201819
   teiginys: "Tai buvusi žagrė, t."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Tai buvusi žagrė, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201819
+    - t-001

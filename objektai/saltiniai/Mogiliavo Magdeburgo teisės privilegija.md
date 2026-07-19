@@ -38,7 +38,6 @@ Mogiliavas - iš Stepono Batoro, sausio 28 dieną...............................
 
 <a id="claim-t-88454"></a>
 - t-001
-  global_id: t-88454
   teiginys: "1578 m. sausio 28 d. Steponas Batoras suteikė Mogiliavui privilegiją, kuria miestas gavo Magdeburgo teisę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Mogiliavas - iš Stepono Batoro, sausio 28 dieną...............................
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88454
+    - t-001

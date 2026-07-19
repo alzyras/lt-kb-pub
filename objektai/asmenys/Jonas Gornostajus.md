@@ -31,7 +31,6 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
 
 <a id="claim-t-186047"></a>
 - t-001
-  global_id: t-186047
   teiginys: "Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -49,10 +48,9 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   semantiniai_rysiai: "Jonas Gornostajus keliavo į Maskva (0.78)"
   pagrindžia:
     - c-169408
-    - c-001
+
 <a id="claim-t-186048"></a>
 - t-002
-  global_id: t-186048
   teiginys: "Lietuvos raštininkas Jonas Gornostajus karaliaus vardu atsakė į prašymus dėl valachų pasiuntinių ir Severino Norvedo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -72,7 +70,6 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
 
 <a id="claim-t-186049"></a>
 - t-003
-  global_id: t-186049
   teiginys: "Jonas Gornostajus, Lietuvos iždo vyriausiasis valdytojas, karaliaus ir senato vardu atsakė į Ivano Ovčinos laišką."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -89,7 +86,7 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169410
-    - c-003
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.'
@@ -117,8 +114,6 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186047
 - c-003
   santrauka: 'Jonas Gornostajus, Lietuvos iždo vyriausiasis valdytojas, karaliaus ir senato vardu atsakė į Ivano Ovčinos laišką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -136,8 +131,7 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186049
+
 ## Citatos
 
 - id: c-169408
@@ -160,31 +154,15 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
 
     buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
     Vasiljevičius.
-  citata_rodoma: |
-    Vasilijus pri­
-    mygtinai reikalavo, kad ka­
-    raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­
-    viau galėsiąs tramdyti saviškius, jei šie susimanys be
-    saiko ginčytis. Šį uždavinį karalius patikėjo Petrui Kiš­
-    kai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-
-    iždininkiui, ir Jonui Gornostajui, raštininkui. Šie ilgai
-    aiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­
-    džiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­
-    riomis kitados buvusi sudaryta sutartis tarp jo senelio
-    Vasilijaus ir karaliaus Kazimiero, arba tomis, kurias
-    6 4 9
-
-    ## Puslapis 648
-
-    buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
-    Vasiljevičius.
+  citata_rodoma: "Vasilijus pri­\nmygtinai reikalavo, kad ka­\nraliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­\nviau galėsiąs tramdyti saviškius, jei šie susimanys be\nsaiko ginčytis. Šį uždavinį karalius patikėjo Petrui Kiš­\nkai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-\niždininkiui, ir Jonui Gornostajui, raštininkui. Šie ilgai\naiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­\ndžiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­\nriomis kitados buvusi sudaryta sutartis tarp jo senelio\nVasilijaus ir karaliaus Kazimiero, arba tomis, kurias\n6 4 9\n\n## Puslapis 648\n\nbuvo sutarę karalius Aleksandras ir jo tėvas Ivanas\nVasiljevičius."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186047
+    - t-001
+
 - id: c-169409
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -205,7 +183,8 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186048
+    - t-002
+
 - id: c-169410
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -232,19 +211,11 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
     žeistas jų valdovo orumas, jeigu, belaisviams reika­
     laujant taikos, Maskvos kunigaikštystės pasiuntiniai
     pirmieji vyks į Lietuvą, nes to mat ligi šiol nėra buvę.
-  citata_rodoma: |
-    Panašiai laiške Jurgiui Radvilai rašė Ivanas Ovčina,
-    be kita ko, maldaudamas, kad karalius įsakytų Gleba­
-    vičiui, staigios ir karingos prigimties vyrui, susilaikyti
-    kol kas nuo neleistinų veiksmų. Karaliaus bei senato
-    vardu atsakė Jonas Gornostajus, Lietuvos iždo vyriau­
-    siasis valdytojas. Esą galybė svarbių priežasčių ver­
-    čiančios karalių tęsti karą, be to, ne mažiau svarbios
-    neleidžiančios jam pirmam išsiųsti legatus.
+  citata_rodoma: "Panašiai laiške Jurgiui Radvilai rašė Ivanas Ovčina,\nbe kita ko, maldaudamas, kad karalius įsakytų Gleba­\nvičiui, staigios ir karingos prigimties vyrui, susilaikyti\nkol kas nuo neleistinų veiksmų. Karaliaus bei senato\nvardu atsakė Jonas Gornostajus, Lietuvos iždo vyriau­\nsiasis valdytojas. Esą galybė svarbių priežasčių ver­\nčiančios karalių tęsti karą, be to, ne mažiau svarbios\nneleidžiančios jam pirmam išsiųsti legatus."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186049
+    - t-003

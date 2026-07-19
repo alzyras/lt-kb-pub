@@ -42,8 +42,7 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
 ## Teiginiai
 
 <a id="claim-t-56938"></a>
-- t-001
-  global_id: t-56938
+- t-003
   teiginys: "Viduramžių rašytiniai istoriniai šaltiniai skirstomi į dokumentus, juridinius ir pasakojamuosius, arba naratyvinius, šaltinius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,7 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-57641
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Viduramžių rašytiniai istoriniai šaltiniai skirstomi į dokumentus, juridinius ir pasakojamuosius, arba naratyvinius, šaltinius.'
@@ -83,8 +82,7 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-56938
+
 ## Citatos
 
 - id: c-57641
@@ -113,21 +111,11 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
     artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
     vientisumas.
-  citata_rodoma: |
-    Petro Dusburgiečio kronika
-
-
-
-                          Epocha, šaltiniai, tendencija, reikšmė
-
-
-      Viduramžių  rašytiniai  istoriniai  šaltiniai  skirstomi   į  dokumentus,  juridinius   ir
-    pasakojamuosius, arba naratyvinius (iš lot. narratio), šaltinius. Pasakojamojo pobūdžio
-    šaltinius sudaro analai, kronikos, memuarai bei dienoraščiai, šventųjų gyvenimai ir kt.
+  citata_rodoma: "Petro Dusburgiečio kronika\n\n\n\n                      Epocha, šaltiniai, tendencija, reikšmė\n\n\n  Viduramžių  rašytiniai  istoriniai  šaltiniai  skirstomi   į  dokumentus,  juridinius   ir\npasakojamuosius, arba naratyvinius (iš lot. narratio), šaltinius. Pasakojamojo pobūdžio\nšaltinius sudaro analai, kronikos, memuarai bei dienoraščiai, šventųjų gyvenimai ir kt."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-56938
+    - t-003

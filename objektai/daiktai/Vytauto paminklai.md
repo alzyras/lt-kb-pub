@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-19615"></a>
 - t-001
-  global_id: t-19615
   teiginys: "Vytauto Didžiojo mirties 500-ųjų metinių minėjimo metu Lietuvoje jam buvo statomi paminklai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,12 +81,11 @@ Nenurodyta
     muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
     veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
     vos miestuose ir miesteliuose, jam pastatyti paminklai.
-  citata_rodoma: |
-    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
+  citata_rodoma: "500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19615
+    - t-001

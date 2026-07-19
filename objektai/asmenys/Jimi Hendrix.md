@@ -29,8 +29,7 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 ## Teiginiai
 
 <a id="claim-t-18962"></a>
-- t-002
-  global_id: t-18962
+- t-001
   teiginys: "Jimi Hendrixas grojo Tony'o Zemaicio sukurta gitara „Zemaitis“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -45,14 +44,6 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
   pagrindžia:
     - c-21723
 
-<a id="claim-t-18962"></a>
-- t-001
-  global_id: t-900055823
-  teiginys: 'Jimi Hendrixas grojo Tony''o Zemaicio sukurta gitara „Zemaitis“.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra klausimas, o citata remia konkretų faktą apie Jimi Hendrixą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Gitara „Zemaitis“|Gitara „Zemaitis“]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/David Gilmour|David Gilmour]]; mentioned_person: [[objektai/asmenys/Eric Clapton|Eric Clapton]]; mentioned_person: [[objektai/asmenys/George Harrison|George Harrison]]; mentioned_person: [[objektai/asmenys/Keith Richards|Keith Richards]]; mentioned_person: [[objektai/asmenys/Nadine Gordimer|Nadine Gordimer]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Londonas'
-  pagrindžia:
-    - c-21723
 ## Citatos
 
 - id: c-21723
@@ -68,13 +59,11 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
     Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
     Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
     ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-  citata_rodoma: |
-    Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
+  citata_rodoma: "Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18962
     - t-001

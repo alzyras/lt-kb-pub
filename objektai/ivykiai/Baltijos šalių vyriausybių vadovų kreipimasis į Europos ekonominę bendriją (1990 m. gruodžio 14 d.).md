@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20170"></a>
 - t-001
-  global_id: t-20170
   teiginys: "1990 m. gruodžio 14 d. Baltijos šalių vyriausybių vadovai pirmą kartą kreipėsi į EEB, prašydami paramą teikti tiesiogiai, o ne per Sovietų Sąjungą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,12 +90,11 @@ Nenurodyta
     šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos eko-
     nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę
     ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.
-  citata_rodoma: |
-    nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę
+  citata_rodoma: "nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20170
+    - t-001

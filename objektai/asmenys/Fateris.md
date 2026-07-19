@@ -30,7 +30,6 @@ Fateris Dusburgiečio žinią apie krivį aiškino kaip nesusipratimą dėl rusi
 
 <a id="claim-t-190122"></a>
 - t-001
-  global_id: t-190122
   teiginys: "Fateris Dusburgiečio žinią apie krivį aiškino kaip nesusipratimą dėl rusinų, latviškai vadinamų krieviais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Fateris Dusburgiečio žinią apie krivį aiškino kaip nesusipratimą dėl rusi
 
 <a id="claim-t-197394"></a>
 - t-002
-  global_id: t-197394
   teiginys: "Fateris po ranka turėjo istorijos šaltinius, kurie bylojo, kad ši pareigybė Lietuvoje gyvavo labai ilgai; tie šaltiniai galėjo papasakoti ir daugiau smulkmenų."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -91,5 +89,5 @@ Fateris Dusburgiečio žinią apie krivį aiškino kaip nesusipratimą dėl rusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190122
-    - t-197394
+    - t-001
+    - t-002

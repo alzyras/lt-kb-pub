@@ -37,7 +37,6 @@ is, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūn
 
 <a id="claim-t-22151"></a>
 - t-001
-  global_id: t-22151
   teiginys: "1943 m. naciai naikino miestų getus, degino nužudytųjų kūnus ir išvežė apie 14,5 tūkst. Lietuvos žydų į konclagerius bei stovyklas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,12 +65,11 @@ is, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūn
     akcijų metu. Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė
     ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje
     ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,
-  citata_rodoma: |
-    ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,
+  citata_rodoma: "ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22151
+    - t-001

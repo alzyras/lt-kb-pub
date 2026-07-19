@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-193680"></a>
 - t-001
-  global_id: t-193680
   teiginys: "Dislokuotos Lietuvoje NKVD divizijos vykdė baudžiamąsias operacijas: vien 1944 m. liepą–gruodį okupantų teroro aktais nužudyti 2 489 žmonės, apie 100 tūkst."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193680
+    - t-001

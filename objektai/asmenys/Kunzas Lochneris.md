@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-80737"></a>
 - t-001
-  global_id: t-80737
   teiginys: "Kunzas Lochneris XVI a. 6 dešimtmetyje Niurnberge pagamino Žygimanto Augusto paradinius šarvus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,26 +70,11 @@ media_all_json: |-
     gaminti Niunberge meistro
     Kunzo Lochnerio, XVI a.
     6 dešimtmetyje
-  citata_rodoma: |
-    Radvilos buvo jo šešio-
-    likmetis sūnus Kristupas Radvila,
-    vėliau tapęs didžiuoju etmonu ir
-    vadintas Perkūnu, lauko etmo-
-    nas Grigalius Chodkevičius,
-    būsimasis lauko etmonas
-    Romanas Sanguška, būsima-
-    sis Livonijos etmonas Jonas
-    Chodkevičius ir daugelis kitų.
-
-    Žygimanto Augusto
-    paradiniai šarvai, pa-
-
-    gaminti Niunberge meistro
-    Kunzo Lochnerio, XVI a.
+  citata_rodoma: "Radvilos buvo jo šešio-\nlikmetis sūnus Kristupas Radvila,\nvėliau tapęs didžiuoju etmonu ir\nvadintas Perkūnu, lauko etmo-\nnas Grigalius Chodkevičius,\nbūsimasis lauko etmonas\nRomanas Sanguška, būsima-\nsis Livonijos etmonas Jonas\nChodkevičius ir daugelis kitų.\n\nŽygimanto Augusto\nparadiniai šarvai, pa-\n\ngaminti Niunberge meistro\nKunzo Lochnerio, XVI a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80737
+    - t-001

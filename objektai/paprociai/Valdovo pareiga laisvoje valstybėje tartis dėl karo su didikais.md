@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-185900"></a>
 - t-001
-  global_id: t-185900
   teiginys: "Augustas Ivanui aiškino, kad laisvų žmonių valstybėje valdovas įstatymų verčiamas skaitytis su kitų nuomone dėl karo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169261
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Augustas Ivanui aiškino, kad laisvų žmonių valstybėje valdovas įstatymų verčiamas skaitytis su kitų nuomone dėl karo.'
@@ -83,8 +82,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185900
+
 ## Citatos
 
 - id: c-169261
@@ -106,20 +104,11 @@ Nenurodyta
     nei jo pastangos, nei karaliaus autoritetas nesutramdė
     pasiutėlio. Karalius, nutaręs ginklu atsikeršyti už skriau­
     das, pakvietė į karo sąjungininkus Švedijos karalių.
-  citata_rodoma: |
-    Štai
-    todėl Augustas pasistengė Ivanui laiškais deramai pa­
-    siteisinti. Esą, galėdamas elgtis savo nuožiūra, neabe­
-    jotinai su džiaugsmu patrauktų į žygį prieš skitus, ta­
-    čiau laisvų žmonių valstybėje valdovas įstatymų ver­
-    čiamas skaitytis su kitų nuomone. Lenkijos didikai tuo
-    tarpu nieku būdu negalėsią pritarti jo pasiūlymui ka­
-    riauti su skitais, nes visiems aišku, jog, pakėlus ginklą
-    prieš skitus, bematant susirengs į karo žygį turkai.
+  citata_rodoma: "Štai\ntodėl Augustas pasistengė Ivanui laiškais deramai pa­\nsiteisinti. Esą, galėdamas elgtis savo nuožiūra, neabe­\njotinai su džiaugsmu patrauktų į žygį prieš skitus, ta­\nčiau laisvų žmonių valstybėje valdovas įstatymų ver­\nčiamas skaitytis su kitų nuomone. Lenkijos didikai tuo\ntarpu nieku būdu negalėsią pritarti jo pasiūlymui ka­\nriauti su skitais, nes visiems aišku, jog, pakėlus ginklą\nprieš skitus, bematant susirengs į karo žygį turkai."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185900
+    - t-001

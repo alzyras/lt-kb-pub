@@ -8,12 +8,12 @@ datos:
   - '1817 m.'
 date_start: '1817'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,9 +37,8 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
 
 <a id="claim-t-190494"></a>
 - t-001
-  global_id: t-190494
   teiginys: "Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename buvusio „Tygodnik Wilenski“ numeryje."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -58,7 +57,6 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
 
 <a id="claim-t-190832"></a>
 - t-002
-  global_id: t-190832
   teiginys: "Narbutas nurodo, kad jo jotvingių tyrinėjimas buvo išspausdintas 1817 m. „Tygodnik Wilenski“ IV tome, p. 59–64 ir 78–80."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,6 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
 
 <a id="claim-t-190833"></a>
 - t-003
-  global_id: t-190833
   teiginys: "Narbutas rašo, kad straipsnis „Apie pilkapius“ buvo parengtas „Tygodnik Wilenski“ ir šiame tome pakartotas su pataisomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -103,7 +100,6 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
 
 <a id="claim-t-197690"></a>
 - t-004
-  global_id: t-197690
   teiginys: "VII Priedas A p ie p ilk a p iu s Šis lietuvių tautos istoriją dominantis straipsnis buvo parašytas leidiniui „Tygodnik Wilenslki“', bet ir dabar čia verta pakartoti jį su tam tikromis pataisomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -128,24 +124,15 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
     niu esanti užkasta kažkokia seniena; pasak vienų, lobis, pasak
     kitų, kažkokio atmintino žmogaus kūnas; tai rodo senų laikų
     padavimai.
-  citata_rodoma: |
-    Luka-
-    nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
-    pelenai ilsisi supiltame kalne).
-    2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski
-    numeryje**.
-    372
-
-    ## Puslapis 372
-
-    vedančio iš Užupio į Antakalnį.
+  citata_rodoma: "Luka-\nnas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių\npelenai ilsisi supiltame kalne).\n2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski\nnumeryje**.\n372\n\n## Puslapis 372\n\nvedančio iš Užupio į Antakalnį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190494
+    - t-001
+
 - id: c-173714
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -162,7 +149,8 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190832
+    - t-002
+
 - id: c-173715
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -187,5 +175,5 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190833
-    - t-197690
+    - t-003
+    - t-004

@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-54327"></a>
 - t-001
-  global_id: t-54327
   teiginys: "Užnemunėje veikė privati moterų gimnazija, kurioje dėstyta lietuvių kalba."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-166721
 
 <a id="claim-t-183331"></a>
-- t-002
-  global_id: t-183331
+- t-003
   teiginys: "Po 1905 m. mokyklas leista steigti privatiems asmenims ir visuomeninėms organizacijoms, o jose galėjo būti mokoma lietuvių ir lenkų kalbomis."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -114,5 +112,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54327
-    - t-183331
+    - t-001
+    - t-003

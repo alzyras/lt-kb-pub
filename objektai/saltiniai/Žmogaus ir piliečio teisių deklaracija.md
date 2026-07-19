@@ -37,7 +37,6 @@ Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijo
 
 <a id="claim-t-21332"></a>
 - t-001
-  global_id: t-21332
   teiginys: "1791 m. Gegužės trečiosios konstitucijos projekto apmatai buvo parašyti pagal 1789 m. Prancūzijoje priimtą Žmogaus ir piliečio teisių deklaraciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,12 +71,11 @@ Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijo
     cūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių de-
     klaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi
     į Prancūzijos didžiąją revoliuciją.
-  citata_rodoma: |
-    klaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi
+  citata_rodoma: "klaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21332
+    - t-001

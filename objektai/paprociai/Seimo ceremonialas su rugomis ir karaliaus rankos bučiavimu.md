@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67199"></a>
-- t-001
-  global_id: t-67199
+- t-002
   teiginys: "Seimas būdavo baigiamas atsisveikinimu su karaliumi, per kurį visi vėl bučiuodavo jam ranką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Nenurodyta
     - c-67211
 
 <a id="claim-t-67200"></a>
-- t-002
-  global_id: t-67200
+- t-003
   teiginys: "Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu: toliau buvo tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo vadinama r u g o m i s."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,8 +68,7 @@ Nenurodyta
     - c-67213
 
 <a id="claim-t-67201"></a>
-- t-003
-  global_id: t-67201
+- t-001
   teiginys: "Seimo pradžioje visi bučiuodavo soste sėdinčiam karaliui ranką, o kancleris arba vicekancleris paskelbdavo karaliaus pasiūlymus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,19 +97,15 @@ Nenurodyta
     atsisveikinimu su kara-
     lium, — ir vėl visi bu-
     čiuodavo jam ranką.
-  citata_rodoma: |
-    Pagaliau sei-
-    mas būdavo baigiamas
-    atsisveikinimu su kara-
-    lium, — ir vėl visi bu-
-    čiuodavo jam ranką.
+  citata_rodoma: "Pagaliau sei-\nmas būdavo baigiamas\natsisveikinimu su kara-\nlium, — ir vėl visi bu-\nčiuodavo jam ranką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67199
+    - t-002
+
 - id: c-67212
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -126,18 +119,15 @@ Nenurodyta
     rankos, o po to kancleris arba vicekancleris pareikšdavo kara-
     liaus pasiūlymus, t. y. pakartodavo ir papildydavo seimeliams
     praneštus svarstyti klausimus.
-  citata_rodoma: |
-    Pradžioje visi eidavo pabučiuoti soste sėdinčiajam karaliui
-    rankos, o po to kancleris arba vicekancleris pareikšdavo kara-
-    liaus pasiūlymus, t. y. pakartodavo ir papildydavo seimeliams
-    praneštus svarstyti klausimus.
+  citata_rodoma: "Pradžioje visi eidavo pabučiuoti soste sėdinčiajam karaliui\nrankos, o po to kancleris arba vicekancleris pareikšdavo kara-\nliaus pasiūlymus, t. y. pakartodavo ir papildydavo seimeliams\npraneštus svarstyti klausimus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67201
+    - t-001
+
 - id: c-67213
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -147,12 +137,11 @@ Nenurodyta
     ninką, vadinamą maršalka, arba direktorium. Toliau buvo
     tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo
     vadinama r u g o m i s.
-  citata_rodoma: |
-    Toliau buvo tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo vadinama r u g o m i s.
+  citata_rodoma: "Toliau buvo tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo vadinama r u g o m i s."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67200
+    - t-003

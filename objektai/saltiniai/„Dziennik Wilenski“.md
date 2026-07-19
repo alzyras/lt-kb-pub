@@ -30,7 +30,6 @@ Teodoras Narbutas Saurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski�
 
 <a id="claim-t-191822"></a>
 - t-001
-  global_id: t-191822
   teiginys: "Teodoras Narbutas Saurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski“ komplektą, surinktą padedant Vilniaus kolekcionieriams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Teodoras Narbutas Saurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191822
+    - t-001

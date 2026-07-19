@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-10822"></a>
 - t-001
-  global_id: t-10822
   teiginys: "Aisčiai namuose laikė šventuosius žalčius kaip namų globėjus, o juos įvesdavo į paskirtą guolį su apeigomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -75,17 +74,11 @@ Nenurodyta
     komi šventieji gyvuliai, ypač žalčiai. Į paskirtą guolį jie
     būdavo įvedami su tam tikromis apeigomis ir ten buvo laikomi,
     kaip namų globėjai.
-  citata_rodoma: |
-    Kaip visoje gamtoje buvo pilna dievybių, taip jų buvo apstu
-    ir aisčių namuose. Be namų dvasios, kuri saugojusi visus namus,
-    čia buvo dar židinio ir kitokių dievų. Be to, namuose buvo lai-
-    komi šventieji gyvuliai, ypač žalčiai. Į paskirtą guolį jie
-    būdavo įvedami su tam tikromis apeigomis ir ten buvo laikomi,
-    kaip namų globėjai.
+  citata_rodoma: "Kaip visoje gamtoje buvo pilna dievybių, taip jų buvo apstu\nir aisčių namuose. Be namų dvasios, kuri saugojusi visus namus,\nčia buvo dar židinio ir kitokių dievų. Be to, namuose buvo lai-\nkomi šventieji gyvuliai, ypač žalčiai. Į paskirtą guolį jie\nbūdavo įvedami su tam tikromis apeigomis ir ten buvo laikomi,\nkaip namų globėjai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10822
+    - t-001

@@ -48,9 +48,8 @@ Nenurodyta
 
 <a id="claim-t-189866"></a>
 - t-001
-  global_id: t-189866
   teiginys: "Narbutas ugnies krikštą siejo su plaukų pakirpimu ir skyrė jį nuo apsivalomojo šokinėjimo per ugnį."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -66,7 +65,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172749
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas ugnies krikštą siejo su plaukų pakirpimu ir skyrė jį nuo apsivalomojo šokinėjimo per ugnį.'
@@ -85,8 +84,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189866
+
 ## Citatos
 
 - id: c-172749
@@ -94,27 +92,19 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šis ugnies krikštas, arba apsivalymas
-    panaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­
-    sakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­
-    gas nuo apsivalomojo šokinėjimo per ugnį. Strijkovskis aiškiai
-    tvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės
-    romėnai, kurie taip krikštydavosi per Palilėjų šventes deivės
-    Palės garbei.
-    Būrimus, darytus su ugnimi, uždegta šv.
-  citata_rodoma: |
-    Šis ugnies krikštas, arba apsivalymas
-    panaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­
-    sakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­
-    gas nuo apsivalomojo šokinėjimo per ugnį. Strijkovskis aiškiai
-    tvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės
-    romėnai, kurie taip krikštydavosi per Palilėjų šventes deivės
-    Palės garbei.
-    Būrimus, darytus su ugnimi, uždegta šv.
+    Paltu messu (paltį mėsos. - R. J.)
+    reiškia pusę kiaulės skerdienos kartu su riebalais, įprastinę ro­
+    mėnų ir lietuvių auką, kurią kaimiečiai atnašauja dievams. Si
+    maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra­
+    šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode­
+    rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau
+    gyveno herulai. Užrašo žodžiai buvo tokie: Perkun. Devvajte.
+    ne. muskis. und man'.
+  citata_rodoma: "Šis ugnies krikštas, arba apsivalymas\npanaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­\nsakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­\ngas nuo apsivalomojo šokinėjimo per ugnį. Strijkovskis aiškiai\ntvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės\nromėnai, kurie taip krikštydavosi per Palilėjų šventes deivės\nPalės garbei.\nBūrimus, darytus su ugnimi, uždegta šv."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189866
+    - t-001

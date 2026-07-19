@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75249"></a>
-- t-001
-  global_id: t-75249
+- t-003
   teiginys: "Lucko suvažiavime dalyvavo Maskvos, Tverės, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo ir kitų valstybių atstovai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-73097
 
 <a id="claim-t-75250"></a>
-- t-002
-  global_id: t-75250
+- t-001
   teiginys: "Lucko suvažiavimas vyko 1429 m. sausio 9–29 d. ir buvo skirtas Vidurio bei Rytų Europos politikos problemoms aptarti."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -98,8 +96,7 @@ Nenurodyta
     - c-23136
 
 <a id="claim-t-75251"></a>
-- t-003
-  global_id: t-75251
+- t-002
   teiginys: "Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione ir į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -119,7 +116,6 @@ Nenurodyta
 
 <a id="claim-t-193360"></a>
 - t-004
-  global_id: t-193360
   teiginys: "Štai todėl karalius po senato posėdžio, net neatsi sveikinęs su imperatoriumi, skubiai išvyko iš Lucko."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -129,11 +125,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176087
-    - c-003
 
 <a id="claim-t-200708"></a>
 - t-005
-  global_id: t-200708
   teiginys: "Viljamas Pochliobkinas 1429 m. Lucko suvažiavimą siejo su Genujos pasiuntinių Jogailai ir Vytautui demonstruotu distiliuotu alkoholiu, bet Laužikas pažymi, kad to nepatvirtina nepriklausomi šaltiniai."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -187,6 +181,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 ## Citatos
 
 - id: c-23136
@@ -216,8 +211,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75250
-    - t-75251
+    - t-001
+    - t-002
 
 - id: c-73097
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -245,7 +240,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75249
+    - t-003
 
 - id: c-176087
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -275,7 +270,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193360
+    - t-004
 
 - id: c-184053
   autorius: "Rimvydas Laužikas"
@@ -285,8 +280,5 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200708
+    - t-005

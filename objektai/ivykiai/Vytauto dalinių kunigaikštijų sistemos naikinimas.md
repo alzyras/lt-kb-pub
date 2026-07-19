@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-45457"></a>
 - t-001
-  global_id: t-45457
   teiginys: "Vytauto politikoje svarbiausia socialinė permaina buvo žemvaldžių riterių sluoksnio kūrimas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-48262
 
 <a id="claim-t-45459"></a>
-- t-002
-  global_id: t-45459
+- t-003
   teiginys: "Vytautas panaikino senovinę dalinių kunigaikštijų sistemą, į kunigaikštijas paskyrė vietininkus ir suėmė realią valdžią LDK į savo rankas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,5 +118,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45457
-    - t-45459
+    - t-001
+    - t-003

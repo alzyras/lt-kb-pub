@@ -30,7 +30,6 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 
 <a id="claim-t-60393"></a>
 - t-001
-  global_id: t-60393
   teiginys: "Nameda, Pasdraupučio motina iš Mantiminų giminės, paragino sūnus ginti savo gyvybę ir gentį nuo priešų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60393
+    - t-001

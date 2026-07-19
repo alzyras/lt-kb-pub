@@ -41,8 +41,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
 ## Teiginiai
 
 <a id="claim-t-103037"></a>
-- t-001
-  global_id: t-103037
+- t-008
   teiginys: "Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,9 +56,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   pagrindžia:
     - c-96262
 
-<a id="claim-t-103050"></a>
-- t-002
-  global_id: t-103050
+<a id="claim-t-103038"></a>
+- t-015
   teiginys: "Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - c-96264
 
 <a id="claim-t-103039"></a>
-- t-003
-  global_id: t-103039
+- t-010
   teiginys: "Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams auklėti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - c-96257
 
 <a id="claim-t-103040"></a>
-- t-004
-  global_id: t-103040
+- t-009
   teiginys: "Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,8 +109,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - c-96268
 
 <a id="claim-t-103041"></a>
-- t-005
-  global_id: t-103041
+- t-021
   teiginys: "Jurgis Radvila buvo vyskupas ir Mikalojaus Radvilos Juodojo sūnus."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -130,8 +125,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - c-96273
 
 <a id="claim-t-103043"></a>
-- t-006
-  global_id: t-103043
+- t-004
   teiginys: "Jurgis Radvila, kardinolas ir buvęs Vilniaus bei Krokuvos vyskupas, mirė Romoje 1600 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -149,8 +143,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - c-96270
 
 <a id="claim-t-103044"></a>
-- t-007
-  global_id: t-103044
+- t-003
   teiginys: "Paveikslo „Oršos mūšis“ fragmente matyti buože užsimojęs lauko etmonas Jurgis Radvila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -166,8 +159,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - c-96260
 
 <a id="claim-t-103046"></a>
-- t-008
-  global_id: t-103046
+- t-007
   teiginys: "Kunigaikščio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis pastatyta Kardinalija iškilo tarp senų mūrinių namų ir medinių dvarų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -183,8 +175,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - c-96272
 
 <a id="claim-t-103047"></a>
-- t-009
-  global_id: t-103047
+- t-016
   teiginys: "Jurgio Radvilos lėšomis Vilniuje buvo pastatytas vienas didžiausių miesto namų, vadintas Kardinalija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -200,8 +191,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - c-96272
 
 <a id="claim-t-103048"></a>
-- t-010
-  global_id: t-103048
+- t-006
   teiginys: "1582 m. dokumentą Jurgis Radvila pasirašė kaip Vilniaus vyskupas ir Olykos kunigaikštis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -219,8 +209,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - c-96256
 
 <a id="claim-t-103049"></a>
-- t-011
-  global_id: t-103049
+- t-019
   teiginys: "Vilniaus vyskupas Jurgis Radvila 1582 m. sausio 11 d. Vilniuje pasirašė vyskupo seminarijos fundacijos aktą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -239,8 +228,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - c-96256
 
 <a id="claim-t-103051"></a>
-- t-012
-  global_id: t-103051
+- t-011
   teiginys: "Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -256,8 +244,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - c-96263
 
 <a id="claim-t-103052"></a>
-- t-013
-  global_id: t-103052
+- t-012
   teiginys: "Jurgis Radvila, tuometinis Kijevo vaivada ir LDK taurininkas, vadovavo ne mažiau kaip 8000 lietuvių pašauktinių bajorų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -273,8 +260,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - c-96267
 
 <a id="claim-t-103053"></a>
-- t-014
-  global_id: t-103053
+- t-013
   teiginys: "Jurgis Radvila paveikslo „Oršos mūšis“ fragmente vaizduojamas kaip buože užsimojęs lauko etmonas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -290,8 +276,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - c-96260
 
 <a id="claim-t-103054"></a>
-- t-015
-  global_id: t-103054
+- t-002
   teiginys: "Jurgis Radvila, tuometinis Kijevo vaivada ir LDK taurininkas, vadovavo lietuvių pašauktiniams bajorams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -307,8 +292,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - c-42038
 
 <a id="claim-t-103055"></a>
-- t-016
-  global_id: t-103055
+- t-014
   teiginys: "Jurgis Radvila buvo kardinolas, Inocento IX ir Klemenso VIII elektorius, iš pradžių Vilniaus, vėliau Krokuvos vyskupas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -324,8 +308,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - c-96270
 
 <a id="claim-t-194229"></a>
-- t-017
-  global_id: t-194229
+- t-022
   teiginys: "Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar dinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elektorius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas, baigė dievobaimingo gyvenimo dienas Romoje, 1600 me tais."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -375,7 +358,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103054
+    - t-002
+
 - id: c-96256
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -394,23 +378,16 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     propria [Vilniaus vyskupas O1y kos
     kunigaikštis Jurgis Radvila savo ran­
     ka].
-  citata_rodoma: |
-    Duo­
-    ta ir aktuota Vilniuje, 1582 metų sau­
-    sio Il dieną], dalyvaujant visai ka­
-    pitulai, su parašu: Georgius Radziwiłł
-    Episcopus Vilnens. Dux Olicae. manu
-    propria [Vilniaus vyskupas O1y kos
-    kunigaikštis Jurgis Radvila savo ran­
-    ka].
+  citata_rodoma: "Duo­\nta ir aktuota Vilniuje, 1582 metų sau­\nsio Il dieną], dalyvaujant visai ka­\npitulai, su parašu: Georgius Radziwiłł \nEpiscopus Vilnens. Dux Olicae. manu \npropria [Vilniaus vyskupas O1y kos \nkunigaikštis Jurgis Radvila savo ran­\nka]."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103048
-    - t-103049
+    - t-006
+    - t-019
+
 - id: c-96257
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -439,30 +416,15 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     sų diecezijoje egzistuojančių, būtų paimta tam tikra dalis ar
     porcija, ir ta dalis, taip išimta, būtų prijungta prie anksčiau
     minėtos kolegijos ir inkorporuota.
-  citata_rodoma: |
-    Taigi, kai mes, Jurgis Radvila,
-    Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­
-    nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų
-    miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir
-    funduotos klierikų seminarijos, šioje mūsų Vilniaus diece­
-    zijoje, kurioje pastebėjome, jog yra didelis kunigų ir kitų pa­
-    tarnautojų trūkumas Viešpaties vynuogyne, nusprendėme
-    įsteigti ir funduoti kolegiją, kurioje būtų išlaikomas ir die­
-    vobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuo­
-    lių skaičius. Suprantame, kad mūsų ganytojiškoms parei­
-    goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo
-    pajamų ir kapitulos, ir visokios rūšies vertybių, personatų,
-    pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­
-    sų diecezijoje egzistuojančių, būtų paimta tam tikra dalis ar
-    porcija, ir ta dalis, taip išimta, būtų prijungta prie anksčiau
-    minėtos kolegijos ir inkorporuota.
+  citata_rodoma: "Taigi, kai mes, Jurgis Radvila,\nDievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­\nnigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų\nmiestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir\nfunduotos klierikų seminarijos, šioje mūsų Vilniaus diece­\nzijoje, kurioje pastebėjome, jog yra didelis kunigų ir kitų pa­\ntarnautojų trūkumas Viešpaties vynuogyne, nusprendėme\nįsteigti ir funduoti kolegiją, kurioje būtų išlaikomas ir die­\nvobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuo­\nlių skaičius. Suprantame, kad mūsų ganytojiškoms parei­\ngoms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo\npajamų ir kapitulos, ir visokios rūšies vertybių, personatų,\npelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­\nsų diecezijoje egzistuojančių, būtų paimta tam tikra dalis ar\nporcija, ir ta dalis, taip išimta, būtų prijungta prie anksčiau\nminėtos kolegijos ir inkorporuota."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103039
+    - t-010
+
 - id: c-96260
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -486,29 +448,16 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     grindiniu vadu Čeliadninu, o pastarasis
     savo ruožtu nesuteikė paramos dėl jų
     asmeninės nesantaikos.
-  citata_rodoma: |
-    (XVI a.
-    tapyto paveikslo „Oršos mūšis“
-    fragmentas) Lietuviai persekioja
-    bėgančius rusus
-
-    Viršuje matyti ir buože užsimojęs lauko etmonas Jurgis Radvila
-
-    K. Ostrogiškis
-    duoda ženklą
-    „ artileristams
-
-    atidengti ugnį
-
-    dešiniajame rusų armijos flange.
+  citata_rodoma: "(XVI a.\ntapyto paveikslo „Oršos mūšis“\nfragmentas) Lietuviai persekioja\nbėgančius rusus\n\nViršuje matyti ir buože užsimojęs lauko etmonas Jurgis Radvila\n\nK. Ostrogiškis\nduoda ženklą\n„ artileristams\n\natidengti ugnį\n\ndešiniajame rusų armijos flange."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103044
-    - t-103053
+    - t-003
+    - t-013
+
 - id: c-96262
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -535,7 +484,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103037
+    - t-008
+
 - id: c-96263
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -559,24 +509,15 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     ją, atleidžiančią miesto dalį, priklausančią vyskupijos juris­
     dikcijai, nuo bet kokio paklusnumo ir pasaulietinės civili­
     nės teisės, ir nurodė, kad jie turi savo teisę ir magistratą.
-  citata_rodoma: |
-    Be to, kilnusis, Andrius Vo-
-    dzinskis, šviesiojo didžiai gerbiamo pono Jurgio, Dievo ma­
-    lone šventosios Romos bažnyčios presbiterio, kardinolo Rad­
-    vilos, Vilniaus vyskupijos nuolatinio administratoriaus,
-    Olykos ir Nesvyžiaus kunigaikščio ir mūsų vietininko Li­
-    vonijoje, valdinys ir įgaliotinis, parodė šviesiausiojo mūsų
-    pirmtako, šventos atminties karaliaus Vladislovo privilegi­
-    ją, atleidžiančią miesto dalį, priklausančią vyskupijos juris­
-    dikcijai, nuo bet kokio paklusnumo ir pasaulietinės civili­
-    nės teisės, ir nurodė, kad jie turi savo teisę ir magistratą.
+  citata_rodoma: "Be to, kilnusis, Andrius Vo-\ndzinskis, šviesiojo didžiai gerbiamo pono Jurgio, Dievo ma­\nlone šventosios Romos bažnyčios presbiterio, kardinolo Rad­\nvilos, Vilniaus vyskupijos nuolatinio administratoriaus,\nOlykos ir Nesvyžiaus kunigaikščio ir mūsų vietininko Li­\nvonijoje, valdinys ir įgaliotinis, parodė šviesiausiojo mūsų\npirmtako, šventos atminties karaliaus Vladislovo privilegi­\nją, atleidžiančią miesto dalį, priklausančią vyskupijos juris­\ndikcijai, nuo bet kokio paklusnumo ir pasaulietinės civili­\nnės teisės, ir nurodė, kad jie turi savo teisę ir magistratą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103051
+    - t-011
+
 - id: c-96264
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -607,7 +548,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103050
+    - t-015
+
 - id: c-96267
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -630,7 +572,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103052
+    - t-012
+
 - id: c-96268
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -655,7 +598,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103040
+    - t-009
+
 - id: c-96270
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -688,9 +632,10 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103043
-    - t-103055
-    - t-194229
+    - t-004
+    - t-014
+    - t-022
+
 - id: c-96272
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -712,8 +657,9 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103046
-    - t-103047
+    - t-007
+    - t-016
+
 - id: c-96273
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -723,12 +669,11 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     Juos rėmė ir daug kitų atverstų didikų, o ypač dievobaimingoji
     Zigmanto Augusto sesuo Ona (ta pati, kuri buvo numatyta
     žmona karaliui Henrikui ir kurią vedė Stp.
-  citata_rodoma: |
-    verstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus).
+  citata_rodoma: "verstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103041
+    - t-021

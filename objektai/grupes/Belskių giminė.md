@@ -31,7 +31,6 @@ Kunigaikščiai Belskiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę 
 
 <a id="claim-t-185457"></a>
 - t-001
-  global_id: t-185457
   teiginys: "Kunigaikščiai Belskiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę ir su savo kariaunomis puldinėjo karaliaus valdas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Kunigaikščiai Belskiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185457
+    - t-001

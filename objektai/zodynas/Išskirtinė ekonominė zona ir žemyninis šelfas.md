@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-77796"></a>
 - t-001
-  global_id: t-77796
   teiginys: "1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos bei išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,18 +70,11 @@ media_all_json: |-
     257
     roje atskyrimo. Nors Rusija Lietuvai išliko svarbi ekonominė partnerė,
     artimesni santykiai tarp šių valstybių nesusiklostė.
-  citata_rodoma: |
-    1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės
-    sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū-
-
-    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
-    257
-    roje atskyrimo. Nors Rusija Lietuvai išliko svarbi ekonominė partnerė,
-    artimesni santykiai tarp šių valstybių nesusiklostė.
+  citata_rodoma: "1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės \nsienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū-\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n257\nroje atskyrimo. Nors Rusija Lietuvai išliko svarbi ekonominė partnerė, \nartimesni santykiai tarp šių valstybių nesusiklostė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77796
+    - t-001

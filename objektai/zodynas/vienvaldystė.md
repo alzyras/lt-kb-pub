@@ -32,7 +32,6 @@ Būdamas ir premjeru, ir užsienio reikalų ministru jau ne visur spėjo, konfli
 
 <a id="claim-t-77809"></a>
 - t-001
-  global_id: t-77809
   teiginys: "Augustinas Voldemaras, būdamas premjeru ir užsienio reikalų ministru, konfliktavo su ministrais ir ėmė pretenduoti į vienvaldystę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,15 +60,11 @@ Būdamas ir premjeru, ir užsienio reikalų ministru jau ne visur spėjo, konfli
     demaras nieko negalėjo pakeisti. Būdamas ir premjeru, ir užsienio rei-
     kalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais
     ir pradėjo pretenduoti į vienvaldystę šalyje.
-  citata_rodoma: |
-    Stiprėjant Europos tendencijai saugoti sienų neliečiamumą, A. Vol-
-    demaras nieko negalėjo pakeisti. Būdamas ir premjeru, ir užsienio rei-
-    kalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais
-    ir pradėjo pretenduoti į vienvaldystę šalyje.
+  citata_rodoma: "Stiprėjant Europos tendencijai saugoti sienų neliečiamumą, A. Vol-\ndemaras nieko negalėjo pakeisti. Būdamas ir premjeru, ir užsienio rei-\nkalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais \nir pradėjo pretenduoti į vienvaldystę šalyje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77809
+    - t-001

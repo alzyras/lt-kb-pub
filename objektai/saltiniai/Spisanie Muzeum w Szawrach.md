@@ -32,7 +32,6 @@ T. Narbutas „Spisanie Muzeum w Szawrach“ Dievo Kovo stabą laikė vienu svar
 
 <a id="claim-t-191694"></a>
 - t-001
-  global_id: t-191694
   teiginys: "T. Narbutas „Spisanie Muzeum w Szawrach“ Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos egzempliorių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,17 +50,6 @@ T. Narbutas „Spisanie Muzeum w Szawrach“ Dievo Kovo stabą laikė vienu svar
   pagrindžia:
     - c-174576
 
-<a id="claim-t-191695"></a>
-- t-002
-  global_id: t-191695
-  teiginys: '„Spisanie Muzeum w Szawrach“ sieja Obelių kapinyno radinius su viena garbingiausių vietų Saurų dvaro muziejuje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Objektas susietas su katalogo duomenimis apie Obelių kapinyno radinių vietą. Palikta vertinamoji formuluotė iš citatos, bet nepridėta radinių aprašymo.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_place: Šaurų dvaras'
-  pagrindžia:
-    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '„Spisanie Muzeum w Szawrach“ sieja Obelių kapinyno radinius su viena garbingiausių vietų Saurų dvaro muziejuje.'
@@ -76,11 +64,9 @@ T. Narbutas „Spisanie Muzeum w Szawrach“ Dievo Kovo stabą laikė vienu svar
     w Szawrach. L. 2 (Nr. 3); L. 3 (Nr. 29, 31).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191695
+  statusas: verified
 ## Citatos
 
 - id: c-174576
@@ -100,4 +86,4 @@ T. Narbutas „Spisanie Muzeum w Szawrach“ Dievo Kovo stabą laikė vienu svar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191694
+    - t-001

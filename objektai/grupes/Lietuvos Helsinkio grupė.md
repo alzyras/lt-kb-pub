@@ -37,8 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-74673"></a>
-- t-001
-  global_id: t-74673
+- t-006
   teiginys: "Lietuvos Helsinkio grupės nariai palaikė ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ media_all_json: |-
     - c-72709
 
 <a id="claim-t-74674"></a>
-- t-002
-  global_id: t-74674
+- t-003
   teiginys: "Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ media_all_json: |-
     - c-72708
 
 <a id="claim-t-74675"></a>
-- t-003
-  global_id: t-74675
+- t-001
   teiginys: "Lietuvos Helsinkio grupė susikūrė 1976 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ media_all_json: |-
     - c-72711
 
 <a id="claim-t-74677"></a>
-- t-004
-  global_id: t-74677
+- t-002
   teiginys: "Lietuvos Helsinkio grupė priklausė SSRS Helsinkio grupių tinklui, stebėjusiam Helsinkio Baigiamojo akto įgyvendinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +114,6 @@ media_all_json: |-
 
 <a id="claim-t-74678"></a>
 - t-005
-  global_id: t-74678
   teiginys: "1976 m. rudenį Vilniuje įsikūrė grupė, panaši į Maskvos Helsinkio grupę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -156,16 +151,16 @@ media_all_json: |-
     poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
     ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
     tinėmis grupėmis.
-  citata_rodoma: |
-    poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
+  citata_rodoma: "poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74674
-    - t-74677
+    - t-003
+    - t-002
+
 - id: c-72709
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -178,21 +173,15 @@ media_all_json: |-
     tinėmis grupėmis. Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio
     grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
     per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.
-  citata_rodoma: |
-    Karolis Garuckas, fizi-
-    kas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė,
-    poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
-    ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
-    tinėmis grupėmis. Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio
-    grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
-    per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.
+  citata_rodoma: "Karolis Garuckas, fizi-\nkas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė, \npoetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę \nryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-\ntinėmis grupėmis. Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio \ngrupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė \nper 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74673
+    - t-006
+
 - id: c-72711
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -205,16 +194,15 @@ media_all_json: |-
     vizacijos ir Lietuvos ginkluotos rezistencijos laikotarpis.
     1976
     susikuria Helsinkio grupė.
-  citata_rodoma: |
-    1976
-    susikuria Helsinkio grupė.
+  citata_rodoma: "1976\t\nsusikuria Helsinkio grupė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74675
+    - t-001
+
 - id: c-72713
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -237,4 +225,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74678
+    - t-005

@@ -31,7 +31,6 @@ Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persek
 
 <a id="claim-t-22337"></a>
 - t-001
-  global_id: t-22337
   teiginys: "Sovietų valdžiai katalikai buvo ypač neparankūs, nes katalikybė siejosi su „vakarietiškumu“ ir Vatikanu, nepavaldžiu Maskvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,12 +61,11 @@ Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persek
     juos persekiojo, katalikai buvo ypač neparankūs dėl to, kad katalikybė
     siejosi su komunistinei vadovybei nepageidautinu „vakarietiškumu“ –
     katalikybės centru Vatikane, nepavaldžiu Maskvai, todėl su katalikybe
-  citata_rodoma: |
-    talikiška šalis. Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų,
+  citata_rodoma: "talikiška šalis. Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22337
+    - t-001

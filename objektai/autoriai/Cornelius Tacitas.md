@@ -31,7 +31,6 @@ patvirtina ir romėnų istorikas Cornelius Tacitas (52-117 m. po Kr.) savo Germa
 
 <a id="claim-t-29311"></a>
 - t-001
-  global_id: t-29311
   teiginys: "Romėnų istorikas Cornelius Tacitas apie 98 m. po Kr. savo „Germanijos“ 45 skyriuje patvirtino šį liudijimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ patvirtina ir romėnų istorikas Cornelius Tacitas (52-117 m. po Kr.) savo Germa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29311
+    - t-001

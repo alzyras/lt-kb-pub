@@ -37,8 +37,7 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 ## Teiginiai
 
 <a id="claim-t-112560"></a>
-- t-001
-  global_id: t-112560
+- t-003
   teiginys: "Karmelitų ordino vienuoliai Lietuvoje rūpinosi pradžios mokslu kartu su kitų ordinų vienuoliais ir parapijų kunigais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 
 <a id="claim-t-112561"></a>
 - t-002
-  global_id: t-112561
   teiginys: "Mikalojus Radvila pakvietė karmelitus ir prie Šv. Jurgio bažnyčios Vilniuje pastatydino jiems vienuolyną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,8 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112560
+    - t-003
+
 - id: c-103938
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -114,4 +113,4 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112561
+    - t-002

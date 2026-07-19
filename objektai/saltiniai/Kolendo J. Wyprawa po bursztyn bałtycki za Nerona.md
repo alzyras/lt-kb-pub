@@ -36,7 +36,6 @@ Dusburgietis teigia, kad kolendo J.
 
 <a id="claim-t-61100"></a>
 - t-001
-  global_id: t-61100
   teiginys: "J. Kolendo darbas „Wyprawa po bursztyn bałtycki za Nerona“ paskelbtas leidinyje „Pomorania antiqua“ 1981 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Dusburgietis teigia, kad kolendo J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61100
+    - t-001

@@ -31,7 +31,6 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
 
 <a id="claim-t-42430"></a>
 - t-001
-  global_id: t-42430
   teiginys: "Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai savo ugnimi stengėsi husarus sulaikyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
 
 <a id="claim-t-42431"></a>
 - t-002
-  global_id: t-42431
   teiginys: "Kitose tercijos rikiuotės vietose didžiąją dalį šaulių sudarė ne tokiais galingais ginklais aprūpinti arkebuzieriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,21 +78,15 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
     kavalerija vietose didžiąją dalį šaulių sudarė ne tokiais
 
     galingais ginklais aprūpinti arkebuzieriai.
-  citata_rodoma: |
-    g“ sel
-
-    Flanguose Tercijos priekyje būdavo išrikiuojami
-    išrikiuota muškietininkai. Kitose tercijos rikiuotės
-    kavalerija vietose didžiąją dalį šaulių sudarė ne tokiais
-
-    galingais ginklais aprūpinti arkebuzieriai.
+  citata_rodoma: "g“ sel\n\nFlanguose Tercijos priekyje būdavo išrikiuojami\nišrikiuota muškietininkai. Kitose tercijos rikiuotės\nkavalerija vietose didžiąją dalį šaulių sudarė ne tokiais\n\ngalingais ginklais aprūpinti arkebuzieriai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42431
+    - t-002
+
 - id: c-45501
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -107,15 +99,11 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
     gėsi husarus sulaikyti. Rotmistro A.Vainos
     husarams buvo pasiųstas pastiprinimas —
     kelios kuršiečių reitarų kuopos.
-  citata_rodoma: |
-    Lietuvos
-    arkebuzieriai rėmė ugnimi husarų ataką,
-    o švedų arkibuzieriai savo ugnimi sten-
-    gėsi husarus sulaikyti. Rotmistro A.
+  citata_rodoma: "Lietuvos\narkebuzieriai rėmė ugnimi husarų ataką,\no švedų arkibuzieriai savo ugnimi sten-\ngėsi husarus sulaikyti. Rotmistro A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42430
+    - t-001

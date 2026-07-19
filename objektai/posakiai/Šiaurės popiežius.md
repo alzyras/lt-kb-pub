@@ -37,7 +37,6 @@ Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popie�
 
 <a id="claim-t-189550"></a>
 - t-002
-  global_id: t-189550
   teiginys: "Narbutas teigė, kad krivio laikymas „Šiaurės popiežiumi“ perdeda jo galią, nes jo veikimas dažnai ribojosi vienu valsčiumi."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,7 @@ Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popie�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172438
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popiežių“ kėlė abejones dėl vyriausiojo žynio egzistavimo.'
@@ -83,10 +82,9 @@ Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popie�
     prūsų kalbą“ (p. 35, pratarmė).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-002
   santrauka: 'Narbutas teigė, kad krivio laikymas „Šiaurės popiežiumi“ perdeda jo galią, nes jo veikimas dažnai ribojosi vienu valsčiumi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -112,11 +110,10 @@ Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popie�
     nepasakoja apie krivį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189550
+  statusas: verified
+
 ## Citatos
 
 - id: c-172438
@@ -124,49 +121,30 @@ Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popie�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ar svetimšalis, prekiaudamas krašte, matydavo
-    vyriausiąjį žynį, kuris net tautiečiams retai pasirodydavo, o nuo­
-    lat slėpdavosi šventovių slėptuvėse? Kas iš tikrųjų krivį įsivaiz­
-    duoja kaip Šiaurės popiežių, Kas Dusburgiečio palyginimą pri­
-    ima už gryną pinigą, taip pat kas vyriausiąjį prūsų žynį laiko
-    Baltijos jūros pakrantės šalių visagaliu valdovu, tas, žinoma,
-    turi gerokai stebėtis, kodėl kronikininkai apie jį nekalba; tas
-    pat turi kelti nerimą ir abejonę dėl visos to dalyko esmės. Ta­
-    čiau tam, kuriam žinoma, kokios reikšmės krivio pareigos tu­
-    rėjo Prūsijoje gyvenant tiems kronikininkams, kaip dažnai jo
-    422
-
-    ## Puslapis 422
-
-    garbinimas ribodavosi vienu valsčiumi, kaip jo veikimas dary­
-    davo įtakos tik sričių vidaus padėčiai ir nuramindavo visuo­
-    menę, tam jokiu būdu nepasirodys keista, kad tie kronikinin­
-    kai, kurie taip menkai pažino tautos vidaus gyvenimą, nieko
-    nepasakoja apie krivį.
-  citata_rodoma: |
-    Ar svetimšalis, prekiaudamas krašte, matydavo
-    vyriausiąjį žynį, kuris net tautiečiams retai pasirodydavo, o nuo­
-    lat slėpdavosi šventovių slėptuvėse? Kas iš tikrųjų krivį įsivaiz­
-    duoja kaip Šiaurės popiežių, Kas Dusburgiečio palyginimą pri­
-    ima už gryną pinigą, taip pat kas vyriausiąjį prūsų žynį laiko
-    Baltijos jūros pakrantės šalių visagaliu valdovu, tas, žinoma,
-    turi gerokai stebėtis, kodėl kronikininkai apie jį nekalba; tas
-    pat turi kelti nerimą ir abejonę dėl visos to dalyko esmės. Ta­
-    čiau tam, kuriam žinoma, kokios reikšmės krivio pareigos tu­
-    rėjo Prūsijoje gyvenant tiems kronikininkams, kaip dažnai jo
-    422
-
-    ## Puslapis 422
-
-    garbinimas ribodavosi vienu valsčiumi, kaip jo veikimas dary­
-    davo įtakos tik sričių vidaus padėčiai ir nuramindavo visuo­
-    menę, tam jokiu būdu nepasirodys keista, kad tie kronikinin­
-    kai, kurie taip menkai pažino tautos vidaus gyvenimą, nieko
-    nepasakoja apie krivį.
+    Ogi Dusburgietis buvo už­
+    sibrėžęs rašyti tai, quae vidi, alia quae audivi ab his, qui vide­
+    runt, et interfuerunt, caetera, quae relatione veridica intellexi (ką
+    pats esu matęs, apie ką pasakojo matę ir dalyvavę; [pagaliau]
+    ir apie tai, apie ką sužinojau iš patikimų šaltinių). Todėl vargu
+    ar buvo kokia galimybė Dusburgiečiui dažniau minėti jį savo
+    veikale.
+    Manau, kad šiais argumentais ir šiais galinčių kelti prie­
+    kaištų nagrinėjimais išgelbėjau istorinį Prūsijos krivio egzista­
+    vimą, apgindamas nuo naujų abejonių, ir drauge patvirtinau
+    senojo kryžiuočių kronikininko Dusburgiečio patikimumą.
+    Baigiant šias pastabas, būtų galima pateikti daug pavyz­
+    džių, kaip nepasitvirtindavo naujojo meto nuomonės, kritikuo­
+    jančios senus dalykus, kai vėlesni atradimai arba blaivesnis įsi­
+    gilinimas į istorijos faktus įtikino, kad tų jaunų kritikų spren­
+    dimai būdavo pernelyg impulsyvūs, dažnai paremti vien „taip
+    man atrodo“ arba noru iškilti su savo nepalenkiama nuomone
+    arba, kas dar blogiau, skatinami tendencingumo, kažkokios
+    įkvėptos tautinės neapykantos.
+  citata_rodoma: "Ar svetimšalis, prekiaudamas krašte, matydavo\nvyriausiąjį žynį, kuris net tautiečiams retai pasirodydavo, o nuo­\nlat slėpdavosi šventovių slėptuvėse? Kas iš tikrųjų krivį įsivaiz­\nduoja kaip Šiaurės popiežių, Kas Dusburgiečio palyginimą pri­\nima už gryną pinigą, taip pat kas vyriausiąjį prūsų žynį laiko\nBaltijos jūros pakrantės šalių visagaliu valdovu, tas, žinoma,\nturi gerokai stebėtis, kodėl kronikininkai apie jį nekalba; tas\npat turi kelti nerimą ir abejonę dėl visos to dalyko esmės. Ta­\nčiau tam, kuriam žinoma, kokios reikšmės krivio pareigos tu­\nrėjo Prūsijoje gyvenant tiems kronikininkams, kaip dažnai jo\n422\n\n## Puslapis 422\n\ngarbinimas ribodavosi vienu valsčiumi, kaip jo veikimas dary­\ndavo įtakos tik sričių vidaus padėčiai ir nuramindavo visuo­\nmenę, tam jokiu būdu nepasirodys keista, kad tie kronikinin­\nkai, kurie taip menkai pažino tautos vidaus gyvenimą, nieko\nnepasakoja apie krivį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189550
+    - t-002

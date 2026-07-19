@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-13513"></a>
 - t-001
-  global_id: t-13513
   teiginys: "Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ media_all_json: |-
 
 <a id="claim-t-13514"></a>
 - t-002
-  global_id: t-13514
   teiginys: "1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo pataisos, pavadintos Abiejų Tautų tarpusavio įžadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -125,28 +123,15 @@ media_all_json: |-
     Lietuva ir Lenkija: santykiai be santykių  177; Pirmasis Europoje procesas
     prieš nacius ir Klaipėdos praradimas  179; Neutralumo politika ir Molotovo–
     Ribentropo paktas 183;  SSRS 1940 metų ultimatumas ir sovietų okupacija 186
-  citata_rodoma: |
-    Bajoriškoji demokratija 67;
-    Valstybinė religija ar dešimt konfesijų? 70;  Tautos, kalbos, raštijos 72;
-    Vilniaus universitetas 78;  Ryčiausia ir šiauriausia Europoje baroko
-    architektūra 82;  Gaonas ir „Šiaurės Jeruzalė“ 83
-
-    ANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85
-    Apšvieta ateina į LDK 85; Gegužės trečiosios konstitucija ir Abiejų Tautų
-    tarpusavio įžadas  91;  Lietuvos Didžiosios Kunigaikštijos sunaikinimas  94
-    III s k y r i u s
-    RUSIJOS IMPERIJOS VALDOMA LIETUVA (1795–1915)  98
-    BUVUSIO VALSTYBINGUMO TRAUKOJE 99
-    Kultūrinė autonomija Napoleono šešėlyje 99;  1830–1831 metų sukilimas 104;
-    Caro valdžia: „Čia nebus Lenkijos“ 106;  1863–1864 metų sukilimas 108;
-    Vyskupo M.
+  citata_rodoma: "Bajoriškoji demokratija 67; \nValstybinė religija ar dešimt konfesijų? 70;  Tautos, kalbos, raštijos 72;  \nVilniaus universitetas 78;  Ryčiausia ir šiauriausia Europoje baroko  \narchitektūra 82;  Gaonas ir „Šiaurės Jeruzalė“ 83\n\nANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85\nApšvieta ateina į LDK 85; Gegužės trečiosios konstitucija ir Abiejų Tautų \ntarpusavio įžadas  91;  Lietuvos Didžiosios Kunigaikštijos sunaikinimas  94\nIII s k y r i u s\nRUSIJOS IMPERIJOS VALDOMA LIETUVA (1795–1915)  98 \nBUVUSIO VALSTYBINGUMO TRAUKOJE 99\nKultūrinė autonomija Napoleono šešėlyje 99;  1830–1831 metų sukilimas 104;  \nCaro valdžia: „Čia nebus Lenkijos“ 106;  1863–1864 metų sukilimas 108;  \nVyskupo M."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13513
+    - t-001
+
 - id: c-75420
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -168,4 +153,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13514
+    - t-002

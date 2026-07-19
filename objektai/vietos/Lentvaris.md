@@ -30,7 +30,6 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
 
 <a id="claim-t-41861"></a>
 - t-001
-  global_id: t-41861
   teiginys: "V. Kapsuko-Mickevičiaus palydėtas pulkas, grojant „Internacionalą“, išžygiavo Lentvario kryptimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
 
 <a id="claim-t-183791"></a>
 - t-002
-  global_id: t-183791
   teiginys: "Balandžio 3-8 d. pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, o tada pro Lentvarį pulti Vilnių."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,8 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183791
+    - t-002
+
 - id: c-45179
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -105,14 +104,11 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
     Stakliškes, o kitą dieną jo priešakiniai da-
     liniai, susišaudę su lietuvių husarų žvalgų
     būriu, užėmė netoli Prienų esantį Jiezną.
-  citata_rodoma: |
-    Grojant „Internacionalą“, pulkas išžygiavo
-    Lentvario kryptimi. Nesutikdamas pasi-
-    priešinimo, vasario 8 d.
+  citata_rodoma: "Grojant „Internacionalą“, pulkas išžygiavo\nLentvario kryptimi. Nesutikdamas pasi-\npriešinimo, vasario 8 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41861
+    - t-001

@@ -40,7 +40,6 @@ Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlan
 
 <a id="claim-t-191415"></a>
 - t-001
-  global_id: t-191415
   teiginys: "Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlandia buvo ypač pabrėžta Witlandia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlan
 
 <a id="claim-t-200996"></a>
 - t-002
-  global_id: t-200996
   teiginys: "Jau galan metų 1224, Honorijus III popiežius, garsus lietuvių veika luose, atleido savo siuntinį Vilhelmą, vyskupą Mutinų, vyrą didžiai išmintingą ir gudrų, sumanantį kaip bažnyčios, taip ūkės reikaluose, į Padaugavį taikinti kalavijonų su v."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -87,10 +85,12 @@ Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191415
+    - t-001
+
 - id: c-184346
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo pačiu laiku sukilo kerštai kalavijonų su Al­
     bertu, v. Rygos, kurie niekaip negalėjo taikiai žemę
@@ -110,4 +110,4 @@ Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200996
+    - t-002

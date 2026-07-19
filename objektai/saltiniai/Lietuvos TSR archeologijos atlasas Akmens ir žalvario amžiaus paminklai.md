@@ -37,7 +37,6 @@ Lietuvos TSR archeologijos atlasas, I : Akmens ir žalva­ rio amžiaus paminkla
 
 <a id="claim-t-31807"></a>
 - t-001
-  global_id: t-31807
   teiginys: "Lietuvos TSR archeologijos atlaso pirmasis tomas „Akmens ir žalvario amžiaus paminklai“ išleistas Vilniuje 1974 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,13 +74,11 @@ Lietuvos TSR archeologijos atlasas, I : Akmens ir žalva­ rio amžiaus paminkla
     Kulikauskienė, R., Tautavičius, A. : _Lietuvos archeologijos bruožai,_
     Vilnius 1961. — _Lietuvos TSR archeologijos atlasas,_ I : _Akmens ir žalva­
     rio amžiaus paminklai,_ red. R. Rimantienė, Vilnius 1974.
-  citata_rodoma: |
-    — _Lietuvos TSR archeologijos atlasas,_ I : _Akmens ir žalva­
-    rio amžiaus paminklai,_ red. R. Rimantienė, Vilnius 1974.
+  citata_rodoma: "— _Lietuvos TSR archeologijos atlasas,_ I : _Akmens ir žalva­\nrio amžiaus paminklai,_ red. R. Rimantienė, Vilnius 1974."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31807
+    - t-001

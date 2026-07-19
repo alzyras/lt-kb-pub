@@ -31,7 +31,6 @@ i Papée, Fr.
 
 <a id="claim-t-30617"></a>
 - t-001
-  global_id: t-30617
   teiginys: "Fr. Papée su St. Smolka parengė veikalą „Władysław Jagiełło“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,14 +59,11 @@ i Papée, Fr.
     St. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1). —
     Sruogienė, V. : _Sofija Vytautaitė,_ LE, t. 28, 271-273 p. — _Vytautas,_
     MLTE, III, 811-813 p.
-  citata_rodoma: |
-    — Smolka,
-    St. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1). —
-    Sruogienė, V.
+  citata_rodoma: "— Smolka,\nSt. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1). —\nSruogienė, V."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30617
+    - t-001

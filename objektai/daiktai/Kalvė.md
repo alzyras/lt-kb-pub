@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-08291"></a>
 - t-001
-  global_id: t-08291
   teiginys: "Kalvėje kalnėnai ir žemaičiai patys sau kalė padargus ir ginklus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -81,14 +80,12 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Devintasis trobesys buvo kalvė, būtinai ketvirtainis, kurioje patys sau padarynę ir ginklą kalė,
-    nesgi kalnėnai ir žemaičiai gėdėjos ko norint nuo svetimo reikalauti, todėl visa patys sau dirbo.
-  citata_rodoma: |
-    Devintasis trobesys buvo kalvė, būtinai ketvirtainis, kurioje patys sau padarynę ir ginklą kalė,
-    nesgi kalnėnai ir žemaičiai gėdėjos ko norint nuo svetimo reikalauti, todėl visa patys sau dirbo.
+        nesgi kalnėnai ir žemaičiai gėdėjos ko norint nuo svetimo reikalauti, todėl visa patys sau dirbo.
+  citata_rodoma: "Devintasis trobesys buvo kalvė, būtinai ketvirtainis, kurioje patys sau padarynę ir ginklą kalė,\nnesgi kalnėnai ir žemaičiai gėdėjos ko norint nuo svetimo reikalauti, todėl visa patys sau dirbo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08291
+    - t-001

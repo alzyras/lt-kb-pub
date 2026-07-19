@@ -29,26 +29,16 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
 ## Teiginiai
 
 <a id="claim-t-67441"></a>
-- t-001
-  global_id: t-67441
+- t-003
   teiginys: "Lietuvių kare su kryžiuočiais Dovydas Gardiniškis įvardijamas kaip Lietuvos didžiojo kunigaikščio vietininkas ir Gardino pilininkas."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Gardinas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dovydas Gardiniškis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Dovydą Gardiniškį kaip Gardino gynėją."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Dovydas Gardiniškis gynė Pskovas (0.91)"
   pagrindžia:
-    - c-67338
-    - c-001
+    - c-67339
+
 <a id="claim-t-67442"></a>
 - t-002
-  global_id: t-67442
   teiginys: "Lietuvių kare su kryžiuočiais minima neaiški nuomonė, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,8 +67,7 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-67441
+
 ## Citatos
 
 - id: c-67338
@@ -95,18 +84,13 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
     atūžė tokia siaubinga, tokia nematyta negirdėta audra, kad vėjai taip klaikiai daužėsi,
     jog rodėsi, kad tranko griaustinis; nekalbant jau apie baimę, apėmusią žmones, daugiau
     nei penki šimtai arklių, sutraukę kamanas ir pančius, išlakstė po mišką.
-  citata_rodoma: |
-    573  D.— per David castellanum de Gartha, Jer.— des burcgrêven von Garten —
-    SRP, 1, p. 603; Dovydas Gardiniškis, Lietuvos didžiojo kunigaikščio vietininkas, Gardino
-    pilininkas. Gardino ir Pskovo gynėjas, greičiausiai Daumanto sūnus (Dovydas— LE, 6;
-    Lietuvių karas..., p. 212 ir kt.).
+  citata_rodoma: "573  D.— per David castellanum de Gartha, Jer.— des burcgrêven von Garten —\nSRP, 1, p. 603; Dovydas Gardiniškis, Lietuvos didžiojo kunigaikščio vietininkas, Gardino\npilininkas. Gardino ir Pskovo gynėjas, greičiausiai Daumanto sūnus (Dovydas— LE, 6;\nLietuvių karas..., p. 212 ir kt.)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-67441
 - id: c-67339
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -116,15 +100,12 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
     kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR
     istorija. T. 1, p. 55; Jurginis J. Baudžiavos..., p. 34; Lietuvių karas su kryžiuočiais, p.
     78).
-  citata_rodoma: |
-    prūsus  ir vakarinius lietuvius tarp Vyslos  ir Nemuno,
-    kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR
-    istorija. T. 1, p. 55; Jurginis J. Baudžiavos..., p. 34; Lietuvių karas su kryžiuočiais, p.
-    78).
+  citata_rodoma: "prūsus  ir vakarinius lietuvius tarp Vyslos  ir Nemuno,\nkartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR\nistorija. T. 1, p. 55; Jurginis J. Baudžiavos..., p. 34; Lietuvių karas su kryžiuočiais, p.\n78)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67442
+    - t-003
+    - t-002

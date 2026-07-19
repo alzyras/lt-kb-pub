@@ -61,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-186698"></a>
 - t-001
-  global_id: t-186698
   teiginys: "Redakcinė pastaba teigia, kad Lietuvos metraščių pasakojimas apie Podolės patekimą Lietuvos kunigaikščių valdžion sietinas su XV a. Lietuvos ir Lenkijos ginčais dėl Podolės vakarinės dalies."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -90,17 +89,11 @@ Nenurodyta
     XV a. tarp Lietuvos ir Lenkijos ėjo aštrūs ginčai dėl Podolės
     vakarinės dalies. Ta proga parašytas ir Lietuvos metraščių pasako­
     jimas apie Podolės patekimų Lietuvos kunigaikščių valdžion.
-  citata_rodoma: |
-    5 Podolė — istorinis pavadinimas Ukrainos dalies (į šiaurę nuo
-    Karpatų ir Dnestro, apimančios Dnestro bei Pietų Bugo aukštupių
-    baseinų). D ab ar— UTSR Ternopolio, Chmelnickio Ir Vinicos sritys.
-    XV a. tarp Lietuvos ir Lenkijos ėjo  aštrūs ginčai dėl Podolės
-    vakarinės dalies. Ta proga parašytas ir Lietuvos metraščių pasako­
-    jimas apie Podolės patekimų Lietuvos kunigaikščių valdžion.
+  citata_rodoma: "5 Podolė — istorinis pavadinimas Ukrainos dalies (į šiaurę nuo \nKarpatų ir Dnestro, apimančios Dnestro bei Pietų Bugo aukštupių \nbaseinų). D ab ar— UTSR Ternopolio, Chmelnickio Ir Vinicos sritys.\nXV a. tarp Lietuvos ir Lenkijos ėjo  aštrūs ginčai dėl Podolės \nvakarinės dalies. Ta proga parašytas ir Lietuvos metraščių pasako­\njimas apie Podolės patekimų Lietuvos kunigaikščių valdžion."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186698
+    - t-001

@@ -30,8 +30,7 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
 ## Teiginiai
 
 <a id="claim-t-173016"></a>
-- t-001
-  global_id: t-173016
+- t-002
   teiginys: "Vytauto valdytos Lietuvos dominijos, žemės, turtai ir kunigaikštijos turėjo tekti Jogailai, jo įpėdiniams, karūnai ir Lenkijos karalystei."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
     - c-157354
 
 <a id="claim-t-173017"></a>
-- t-002
-  global_id: t-173017
+- t-001
   teiginys: "Dokumente numatyta, kad po Vytauto mirties Didžioji Lietuvos Kunigaikštystė ir jos dominijos turi tekti Jogailai ir Lenkijai."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,8 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173016
+    - t-002
+
 - id: c-157355
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -110,4 +109,4 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173017
+    - t-001

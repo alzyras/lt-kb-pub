@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-77707"></a>
 - t-001
-  global_id: t-77707
   teiginys: "Vyšnivecis buvo viena iš Vyšnioveckių tėvonijų Voluinėje."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ media_all_json: |-
 
 <a id="claim-t-77708"></a>
 - t-002
-  global_id: t-77708
   teiginys: "Vyšnioveckiai sukūrė tėvoniją Vyšnivecyje, Voluinėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,21 +78,15 @@ media_all_json: |-
     kos“ kilmės kunigaikščiai Ostrogiškiai.
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
-  citata_rodoma: |
-    Vėliau Voluinė apskritai tapo šalutinių Gedimi-
-    naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-
-    guškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai
-    (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
-    ir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-
-    prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
-    kos“ kilmės kunigaikščiai Ostrogiškiai.
+  citata_rodoma: "Vėliau Voluinė apskritai tapo šalutinių Gedimi-\nnaičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-\nguškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai\n(Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)\nir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-\nprastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-\nkos“ kilmės kunigaikščiai Ostrogiškiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77707
+    - t-001
+
 - id: c-75043
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -113,23 +105,11 @@ media_all_json: |-
     ir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-
     prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
     kos“ kilmės kunigaikščiai Ostrogiškiai.
-  citata_rodoma: |
-    Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gy-
-    venimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė
-
-    L I E T U V O S  I S T O R I J A
-    46
-    laikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-
-    naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-
-    guškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai
-    (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
-    ir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-
-    prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
-    kos“ kilmės kunigaikščiai Ostrogiškiai.
+  citata_rodoma: "Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gy-\nvenimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė\n\nL I E T U V O S  I S T O R I J A\n46\nlaikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-\nnaičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-\nguškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai \n(Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka) \nir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-\nprastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-\nkos“ kilmės kunigaikščiai Ostrogiškiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77708
+    - t-002

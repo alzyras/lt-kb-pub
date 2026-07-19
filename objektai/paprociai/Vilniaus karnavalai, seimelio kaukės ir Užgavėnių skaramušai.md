@@ -66,8 +66,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-200559"></a>
-- t-001
-  global_id: t-200559
+- t-002
   teiginys: "1757 m. Vilniuje buvo rengiamas karnavalas, kuriame ketino dalyvauti Mykolas Kazimieras Radvila Žuvelė."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -87,8 +86,7 @@ Nenurodyta
     - c-183949
 
 <a id="claim-t-200560"></a>
-- t-002
-  global_id: t-200560
+- t-003
   teiginys: "1751 m. Jonas Dominykas Lopacinskis ironiškai rašė, kad artėjant Užgavėnėms į Vilnių pribėga nereikalingų skaramušų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -115,23 +113,9 @@ Nenurodyta
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 12"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 12."
-  citata_originali: |
-    1757 m. kanauninkas pranešė, kad Vilniuje rengiamas karnavalas, kuriame ketinąs
-    dalyvauti Mykolas Kazimieras Radvila Žuvelė [49]. Beje, karnavalus jis kartais minėjo su
-    ironija. 1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių
-    pribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas
-    yra kanauninko mūriniame name [17].
-  citata_rodoma: |
-    1757 m. kanauninkas pranešė, kad Vilniuje rengiamas karnavalas, kuriame ketinąs
-    dalyvauti Mykolas Kazimieras Radvila Žuvelė [49]. Beje, karnavalus jis kartais minėjo su
-    ironija. 1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių
-    pribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas
-    yra kanauninko mūriniame name [17].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 04:19"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200559
-    - t-200560
+    - t-002
+    - t-003

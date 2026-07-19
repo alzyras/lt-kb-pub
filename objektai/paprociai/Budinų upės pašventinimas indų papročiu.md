@@ -51,9 +51,8 @@ Nenurodyta
 
 <a id="claim-t-193030"></a>
 - t-001
-  global_id: t-193030
   teiginys: "Narbutas budinams priskiria paprotį naujame krašte pašventinti upę mitiniu Ross vardu, siejamu su Oskolo pavadinimu."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -69,7 +68,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175800
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas budinams priskiria paprotį naujame krašte pašventinti upę mitiniu Ross vardu, siejamu su Oskolo pavadinimu.'
@@ -88,8 +87,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193030
+
 ## Citatos
 
 - id: c-175800
@@ -106,19 +104,11 @@ Nenurodyta
     čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
     toro žodžius priskiria poloviečių veiksmams dešiniojoje
     Dnepro pakrantėje.
-  citata_rodoma: |
-    Vadinasi, tokiu pat būdu ten pateko ir
-    masagetai4.
-    59
-    Naujame pasirinktame krašte budinai indų papročiu
-    pašventino upę mitiniu Ross vardu, kurį randame šian­
-    dienio Oskolo pavadinime. Tai yra šiuolaikinis slavų žo­
-    dis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­
-    1 Moralius.
+  citata_rodoma: "Vadinasi, tokiu pat būdu ten pateko ir\nmasagetai4.\n59\nNaujame pasirinktame krašte budinai indų papročiu\npašventino upę mitiniu Ross vardu, kurį randame šian­\ndienio Oskolo pavadinime. Tai yra šiuolaikinis slavų žo­\ndis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­\n1 Moralius."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193030
+    - t-001

@@ -27,26 +27,11 @@ media_all_json: |-
 
 Osterodės komtūras Libestinas buvo didžiojo kunigaikščio Kęstučio kūmas ir Kęstučio dukters Jonušienės krikštatėvis.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-187556"></a>
-- t-001
-  global_id: t-187556
-  teiginys: 'Osterodės komtūras Libestinas buvo didžiojo kunigaikščio Kęstučio kūmas ir Kęstučio dukters Jonušienės krikštatėvis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie sąvoką ir tiksliai atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Osterodė'
-  pagrindžia:
-    - c-170506
-
-## Citatos
-
-- id: c-170506
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Osterodės komtūras Libestinas buvo didžiojo kunigaikščio Kęstučio kūmas ir Kęstučio dukters Jonušienės krikštatėvis.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Buvo vienas
     riteris, Osterodės4 3  komtūras, vardu Libestinas4 3 ; jis
@@ -64,10 +49,8 @@ Osterodės komtūras Libestinas buvo didžiojo kunigaikščio Kęstučio kūmas 
     Didysis kunigaikštis Kęstutis žinojo, kad didysis ku­
     nigaikštis draugauja su didžiuoju kunigaikščiu Jogai­
     la.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:29"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187556
+  statusas: verified

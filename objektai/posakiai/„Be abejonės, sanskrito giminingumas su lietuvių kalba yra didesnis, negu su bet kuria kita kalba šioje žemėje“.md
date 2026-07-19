@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-75606"></a>
 - t-001
-  global_id: t-75606
   teiginys: "Posakis apie sanskrito giminingumą su lietuvių kalba pateiktas kaip Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ citata."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ media_all_json: |-
 
 <a id="claim-t-75607"></a>
 - t-002
-  global_id: t-75607
   teiginys: "Citata apie sanskrito giminingumą su lietuvių kalba pateikta kaip Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ ištrauka."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,25 +111,15 @@ media_all_json: |-
     cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-
     gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
     25 km į šiaurę nuo Lietuvos sostinės Vilniaus.
-  citata_rodoma: |
-    Alfonsas Eidintas,
-       redaktorius
-
-    Į v a d a s
-    LIETUVA –
-    VIDURIO EUROPOS DALIS
-    „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
-    didesnis, negu su bet kuria kita kalba šioje žemėje“
-    Iš britų mokslininko Robert Gordon Latham
-    „Descriptive Ethnology“ („Aprašomoji etnologija“)
-    Geografinis Europos centras?
+  citata_rodoma: "Alfonsas Eidintas,\n   redaktorius\n\nĮ v a d a s\nLIETUVA –\nVIDURIO EUROPOS DALIS\n„Be abejonės, sanskrito giminingumas su lietuvių kalba yra\ndidesnis, negu su bet kuria kita kalba šioje žemėje“\nIš britų mokslininko Robert Gordon Latham\n„Descriptive Ethnology“ („Aprašomoji etnologija“)\nGeografinis Europos centras?"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75606
+    - t-001
+
 - id: c-73333
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -159,25 +147,11 @@ media_all_json: |-
     Iš britų mokslininko Robert Gordon Latham
     „Descriptive Ethnology“ („Aprašomoji etnologija“)
     Geografinis Europos centras?
-  citata_rodoma: |
-    Sauliui Kaubriui ir daugeliui
-    kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių
-    atrinkimo.
-       Alfonsas Eidintas,
-       redaktorius
-
-    Į v a d a s
-    LIETUVA –
-    VIDURIO EUROPOS DALIS
-    „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
-    didesnis, negu su bet kuria kita kalba šioje žemėje“
-    Iš britų mokslininko Robert Gordon Latham
-    „Descriptive Ethnology“ („Aprašomoji etnologija“)
-    Geografinis Europos centras?
+  citata_rodoma: "Sauliui Kaubriui ir daugeliui \nkitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių \natrinkimo.\n   Alfonsas Eidintas, \n   redaktorius\n\nĮ v a d a s\nLIETUVA –  \nVIDURIO EUROPOS DALIS \n„Be abejonės, sanskrito giminingumas su lietuvių kalba yra \ndidesnis, negu su bet kuria kita kalba šioje žemėje“\nIš britų mokslininko Robert Gordon Latham \n„Descriptive Ethnology“ („Aprašomoji etnologija“)\nGeografinis Europos centras?"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75607
+    - t-002

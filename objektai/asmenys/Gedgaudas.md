@@ -39,7 +39,6 @@ Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogail�
 
 <a id="claim-t-34728"></a>
 - t-001
-  global_id: t-34728
   teiginys: "1429 m. Vytautas pasiuntė Vilniaus vaivadą Gedgaudą į Lenčicą kaip savo delegatą pas Jogailą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogail�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34728
+    - t-001

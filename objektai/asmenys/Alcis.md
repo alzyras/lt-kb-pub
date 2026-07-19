@@ -38,7 +38,6 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
 
 <a id="claim-t-190046"></a>
 - t-001
-  global_id: t-190046
   teiginys: "Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžinas Alcis, vėliau pamaldumo paverstas šv. Kristupu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
 
 <a id="claim-t-190048"></a>
 - t-002
-  global_id: t-190048
   teiginys: "Narbutas laiko įtikėtina, kad Vilniaus herbas įvestas 1325 m., ir tuo grindžia spėjimą, jog milžinas Alcis ilgainiui virto šv. Kristupu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -85,28 +83,19 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
 
 <a id="claim-t-190049"></a>
 - t-003
-  global_id: t-190049
   teiginys: "Narbutas su Alciu lygina Vilniaus herbui priskiriamą šarvuotą riterį, kuris remiasi į nulaužtą medžio kamieną ir laiko pasagą primenantį daiktą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Vilnius: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herbas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys kalba apie Vilniui priskiriamą herbą."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
-    - c-172932
-    - c-003
+    - c-177094
+
 <a id="claim-t-194697"></a>
 - t-004
-  global_id: t-194697
   teiginys: "Čia yra tiesiog pavaizduotas milžinas Alcis, apie kurį jau anksčiau kalbėjome."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -136,8 +125,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190049
+
 ## Citatos
 
 - id: c-172929
@@ -156,7 +144,8 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190046
+    - t-001
+
 - id: c-172931
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -177,7 +166,8 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190048
+    - t-002
+
 - id: c-172932
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -211,22 +201,13 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
     jo pasiuntinius, nešinus jo lazda arba kokiu nors ženklu, jo
     siųstu, net kunigaikščiai ir prastuomenė priimdavo su didžiau­
     sia pagarba ir griežtai vykdydavo visus jo nurodymus).
-  citata_rodoma: |
-    Ketvirta­
-    me skyde -  visu ūgiu stovintis šarvuotas riteris su smailiaviršiu
-    šalmu ant galvos; dešine ranka jis remiasi į nulaužtą medžio
-    kamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, lai­
-    ko kažką panašaus į pasagą. Nenuginčijamai tai turėtų būti
-    valstybės antrosios sostinės, arba Vilniaus, herbas. Šis riteris,
-    išskyrus, kad jam trūksta moters ant pečių, labai panašus į Al­
-    ėj, kurį laikėme Vilniaus miesto herbu.
+  citata_rodoma: "Ketvirta­\nme skyde -  visu ūgiu stovintis šarvuotas riteris su smailiaviršiu\nšalmu ant galvos; dešine ranka jis remiasi į nulaužtą medžio\nkamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, lai­\nko kažką panašaus į pasagą. Nenuginčijamai tai turėtų būti\nvalstybės antrosios sostinės, arba Vilniaus, herbas. Šis riteris,\nišskyrus, kad jam trūksta moters ant pečių, labai panašus į Al­\nėj, kurį laikėme Vilniaus miesto herbu."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190049
 - id: c-177094
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -242,4 +223,5 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194697
+    - t-003
+    - t-004

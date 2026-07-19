@@ -33,9 +33,8 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
 
 <a id="claim-t-60159"></a>
 - t-001
-  global_id: t-60159
   teiginys: "Konradas Štangė, Ragainės komtūras, apie liepos 25 d. patraukė link Junigedos pilies ir pasiuntė žvalgą sužinoti padėties pilyje."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Junigeda: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -47,20 +46,18 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60792
-    - c-002
+
 <a id="claim-t-60160"></a>
 - t-002
-  global_id: t-60160
   teiginys: "Konradas Štangė padrąsino sutrikusius brolius Judo Makabėjaus žodžiais ir ragino prasiskverbti pro priešus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60791
-    - c-001
+
 <a id="claim-t-197119"></a>
 - t-003
-  global_id: t-197119
   teiginys: "Konradas Štangė padalijo savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,8 +86,6 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60160
 - c-002
   santrauka: 'Konradas Štangė, Ragainės komtūras, apie liepos 25 d. patraukė link Junigedos pilies ir pasiuntė žvalgą sužinoti padėties pilyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -106,8 +101,7 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60159
+
 ## Citatos
 
 - id: c-60791
@@ -123,20 +117,15 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
     ledą iš viršaus tirpdo saulės spinduliai, o iš apačios graužia srovė, vidurnaktyje su ginklu
     rankose perėjo ledu Nemuną; kai jie saugiai nusigavo į kitą krantą, ledas taip suskilo
     ir sutruko, kad išaušus jo nebeliko nė pėdsakų.
-  citata_rodoma: |
-    “ Jiems
-    atsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais. Jis pasakė: „Nesunku
-    atiduoti daugelį į nedaugelio rankas, ir nėra skirtumo dangaus dievo akivaizdoje išgelbėti
-    dideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės,
-    bet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime pro juos, o viešpats mus
-    apgins.
+  citata_rodoma: "“ Jiems\natsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais. Jis pasakė: „Nesunku\natiduoti daugelį į nedaugelio rankas, ir nėra skirtumo dangaus dievo akivaizdoje išgelbėti\ndideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės,\nbet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime pro juos, o viešpats mus\napgins."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60160
+    - t-002
+
 - id: c-60792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -152,18 +141,15 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
     kamšaties. Vis dėlto dažnai pasitaiko dėl visokiausių aplinkybių, kad, sutrikus rikiuotei,
     vienoje vietoje ant ledo atsiduria šimtas, du šimtai ar net tūkstantis raitelių. Nežinau,
     kodėl tada ledas neįlūžta ir išlaiko tokį didelį svorį, vienas dievas šitai žino.
-  citata_rodoma: |
-    Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo
-    dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,
-    pasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo atgal
-    ir pasakė, kad visame lauke ir pilyje bei papilyje pilna karių.
+  citata_rodoma: "Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo\ndieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,\npasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo atgal\nir pasakė, kad visame lauke ir pilyje bei papilyje pilna karių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60159
+    - t-001
+
 - id: c-179032
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -183,6 +169,7 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197119
+    - t-003
+
 ## Ryšiai
 - Konradas Štangė keliavo į [[objektai/vietos/Junigeda]]

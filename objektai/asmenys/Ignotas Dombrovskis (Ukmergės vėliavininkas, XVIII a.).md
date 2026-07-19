@@ -29,8 +29,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200496"></a>
-- t-001
-  global_id: t-200496
+- t-002
   teiginys: "1750 m. Ignotas Dombrovskis sužinojo, kad Mykolas Ksaveras Sapiega įkeis Šarkovščyznos valdas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -48,8 +47,7 @@ media_all_json: |-
     - c-183861
 
 <a id="claim-t-200497"></a>
-- t-002
-  global_id: t-200497
+- t-001
   teiginys: "Ignotas Dombrovskis buvo Ukmergės vėliavininkas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -72,21 +70,9 @@ media_all_json: |-
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 7"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 7."
-  citata_originali: |
-    1743 m. Vilniaus J. D. Lopacinskis pasakojo, kad grįž-
-    tantis iš Vilniaus Benetas (Benet) prašė užtarimo dėl neįvardinto palivarko reikalų [5].
-    1750 jis rašė, kad buvo pas Ukmergės vėliavininką Ignotą Dombrovskį (Ignacy Tadeusz
-    Junosza Dąmbrowski), kuris sužinojo, kad Mykolas Ksaveras Sapiega įkeis Šarkovščyznos
-    (šiandieninėje Baltarusijoje, Vitebsko srityje) valdas.
-  citata_rodoma: |
-    1750 jis rašė, kad buvo pas Ukmergės vėliavininką Ignotą Dombrovskį (Ignacy Tadeusz
-    Junosza Dąmbrowski), kuris sužinojo, kad Mykolas Ksaveras Sapiega įkeis Šarkovščyznos
-    (šiandieninėje Baltarusijoje, Vitebsko srityje) valdas.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200496
-    - t-200497
+    - t-002
+    - t-001

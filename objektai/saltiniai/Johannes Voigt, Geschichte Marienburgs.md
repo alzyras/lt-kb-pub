@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-88311"></a>
 - t-001
-  global_id: t-88311
   teiginys: "Johannesas Voigtas rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo sergančiai žmonai Julijonai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,28 +80,11 @@ media_all_json: |-
     Lenkijos karalius dėkoja didžiajam
     magistrui už jam atsiųstą rūmų gy­
     dytoją ir giria didelį jo patyrimą.
-  citata_rodoma: |
-    53
-    F o i g t a s savo Marienburgo miesto
-    ir pilies istorijoje (Geschichte Marien-
-    burgs, der Stadt und des Haupthauses
-    des deutschen Ritter Ordens in Preus-
-    sen, p. 241) rašo, kad 1426 metais di­
-    dysis kunigaikštis Vytautas prašė di­
-    džiojo magistro rūmų gydytojo
-    (Leibarzt), nes jo žmona Julijona, ku­
-    rią jis vadina savo mylima šeiminin­
-    ke (seine liebe Hausfrau), jau metai
-    kaip serga, ir kad liga kaip tik šiuo
-    metu taip paūmėjo, jog visiškai nie­
-    ko negalinti valgyti. Kitame laiške
-    Lenkijos karalius dėkoja didžiajam
-    magistrui už jam atsiųstą rūmų gy­
-    dytoją ir giria didelį jo patyrimą.
+  citata_rodoma: "53\nF o i g t a s savo Marienburgo miesto \nir pilies istorijoje (Geschichte Marien- \nburgs, der Stadt und des Haupthauses \ndes deutschen Ritter Ordens in Preus- \nsen, p. 241) rašo, kad 1426 metais di­\ndysis kunigaikštis Vytautas prašė di­\ndžiojo magistro rūmų gydytojo \n(Leibarzt), nes jo žmona Julijona, ku­\nrią jis vadina savo mylima šeiminin­\nke (seine liebe Hausfrau), jau metai \nkaip serga, ir kad liga kaip tik šiuo \nmetu taip paūmėjo, jog visiškai nie­\nko negalinti valgyti. Kitame laiške \nLenkijos karalius dėkoja didžiajam \nmagistrui už jam atsiųstą rūmų gy­\ndytoją ir giria didelį jo patyrimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88311
+    - t-001

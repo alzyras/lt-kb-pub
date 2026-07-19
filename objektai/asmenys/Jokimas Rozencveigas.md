@@ -39,7 +39,6 @@ Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasako
 
 <a id="claim-t-191283"></a>
 - t-001
-  global_id: t-191283
   teiginys: "Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasakojant apie didžiulį kimbrų epochos potvynį, arba vietinį tvaną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasako
 
 <a id="claim-t-197761"></a>
 - t-002
-  global_id: t-197761
   teiginys: "Iš to išplaukia, kad buvo pastebėta Rozencveigo ar klaidin gai į egzempliorius, buvusius po ranka Hartknochui ir Pretorijui, o gal ir Strijkovskiui, įrašyta data, tikriausiai prieš skaičių 190 pridėtas vienas vienetas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -98,5 +96,5 @@ Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasako
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191283
-    - t-197761
+    - t-001
+    - t-002

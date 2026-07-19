@@ -42,8 +42,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 ## Teiginiai
 
 <a id="claim-t-176848"></a>
-- t-001
-  global_id: t-176848
+- t-013
   teiginys: "Zbignievas Olesnickis, tapęs Krokuvos vyskupu, buvo priskirtas žmonėms, priešiškiems Vytauto persvarai ir politikai bendroje valstybėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-160811
 
 <a id="claim-t-176849"></a>
-- t-002
-  global_id: t-176849
+- t-009
   teiginys: "Jogaila Zbignievo Olesnickio ir lenkų ponų užsispyrimą laikė didžiausia kliūtimi Vytauto karūnacijai."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 
 <a id="claim-t-176850"></a>
 - t-003
-  global_id: t-176850
   teiginys: "Krokuvos vyskupas Zbignievas Olesnickis buvo įtakingas karaliaus dvare ir priešinosi nepriklausomai Vytauto politikai."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-160807
 
 <a id="claim-t-176851"></a>
-- t-004
-  global_id: t-176851
+- t-010
   teiginys: "Vytautas siekė patraukti Zbignievą Olesnickį į savo pusę ir negailėjo jam dovanų."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -115,8 +111,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-36609
 
 <a id="claim-t-176852"></a>
-- t-005
-  global_id: t-176852
+- t-011
   teiginys: "Krokuvos vyskupas Zbignievas Olesnickis karaliaus dvare įgijo daug įtakos ir buvo laikomas nepriklausomos Vytauto politikos priešininku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,8 +127,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-160814
 
 <a id="claim-t-176853"></a>
-- t-006
-  global_id: t-176853
+- t-005
   teiginys: "Naujasis Krokuvos vyskupas Zbignievas Olesnickis buvo priešingas Vytauto persvarai bendroje valstybėje ir jo politikai."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -151,8 +145,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-160811
 
 <a id="claim-t-176854"></a>
-- t-007
-  global_id: t-176854
+- t-006
   teiginys: "Zbignievas Olesnickis tapo kancleriu be Vytauto žinios ir pritarimo ir užkirto kelią jo įtakai Lenkijoje."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -169,7 +162,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 
 <a id="claim-t-176855"></a>
 - t-008
-  global_id: t-176855
   teiginys: "Zbignievas Olesnickis pasisiūlė būti vienu iš lenkų atstovų, vykusių kartu su Jogaila į Lietuvą."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -186,8 +178,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-36607
 
 <a id="claim-t-176856"></a>
-- t-009
-  global_id: t-176856
+- t-007
   teiginys: "Zbignievas Olesnickis buvo universiteto rektorius ir inspiravo Krokuvos profesorių nuomonę."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -203,8 +194,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-160810
 
 <a id="claim-t-176857"></a>
-- t-010
-  global_id: t-176857
+- t-016
   teiginys: "Zbignievas Olesnickis, kaip Krokuvos universiteto rektorius, veikiausiai inspiravo profesorių nuomonę dėl Zigmanto teisės teikti karūną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -220,8 +210,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-160810
 
 <a id="claim-t-176859"></a>
-- t-011
-  global_id: t-176859
+- t-002
   teiginys: "Zbignievas Olesnickis grįžo be pagalbos, bet vėliau ietimi nuvertė nuo arklio Jogailą puolusį riterį."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -238,8 +227,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-36599
 
 <a id="claim-t-176862"></a>
-- t-012
-  global_id: t-176862
+- t-004
   teiginys: "Zbignievas Olesnickis buvo karūnos pasiuntinys, su kuriuo Vytautas pasiuntė savo sekretorių Mikalojų Cebulką pas Zigmantą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -255,8 +243,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-160809
 
 <a id="claim-t-176863"></a>
-- t-013
-  global_id: t-176863
+- t-001
   teiginys: "Zbignievas Olesnickis buvo pasiųstas į mūšio lauką parūpinti kelias vėliavas Jogailos apsaugai."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -272,8 +259,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-160806
 
 <a id="claim-t-176864"></a>
-- t-014
-  global_id: t-176864
+- t-012
   teiginys: "Zbignievas Olesnickis buvo karūnos pasiuntinys, kartu su kuriuo Vytautas pasiuntė Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -289,10 +275,9 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-160809
 
 <a id="claim-t-194018"></a>
-- t-015
-  global_id: t-194018
+- t-017
   teiginys: "Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne atsižvelgiant | Lenkijos karalystes tarybaKrokuvos vyskupo Zbignievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą, siekdama patalini!"
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -300,7 +285,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176643
-    - c-012
 - susijęs iš [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md#claim-t-179457|Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]: Vytautas ir Jogaila po Vroclavo sprendimo tuojau pasiuntė protestus, kuriuos į Vroclavą gabeno Zbignievas Olesnickis.
 - susijęs iš Vroclavas: Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.
 - susijęs iš [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md#claim-t-179455|Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]: 1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę.
@@ -322,8 +306,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194018
+
 ## Citatos
 
 - id: c-36599
@@ -344,7 +327,8 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176859
+    - t-002
+
 - id: c-36607
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -361,7 +345,8 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176855
+    - t-008
+
 - id: c-36608
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -379,7 +364,8 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176849
+    - t-009
+
 - id: c-36609
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -397,7 +383,8 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176851
+    - t-010
+
 - id: c-160806
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -414,7 +401,8 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176863
+    - t-001
+
 - id: c-160807
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -436,7 +424,8 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176850
+    - t-003
+
 - id: c-160809
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -451,20 +440,16 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,
     sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
     nepasitenkinimą^3 ).
-  citata_rodoma: |
-    Toks įžeidžiantis ir neteisingas klausimo išsprendimas
-    suglaudė abi valstybes į bendrą kovą. Vytautas kartu su karū­
-    nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,
-    sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
-    nepasitenkinimą^3 ).
+  citata_rodoma: "Toks įžeidžiantis ir neteisingas klausimo išsprendimas\nsuglaudė abi valstybes į bendrą kovą. Vytautas kartu su karū­\nnos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,\nsekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui\nnepasitenkinimą^3 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176862
-    - t-176864
+    - t-004
+    - t-012
+
 - id: c-160810
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -478,18 +463,16 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     rįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo
     Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
     nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
-  citata_rodoma: |
-    į tą Krokuvos profesorių, be abejo
-    Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
-    nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
+  citata_rodoma: "į tą Krokuvos profesorių, be abejo\nZb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­\nnę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176856
-    - t-176857
+    - t-007
+    - t-016
+
 - id: c-160811
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -504,22 +487,16 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     žmonėms, kurie, kaip kad ir naujasis Krokuvos vyskupas Zb.
     Olesnickis, buvo priešingi jo turimai persvarai bendroje valsty­
     bėje ir jo politikai.
-  citata_rodoma: |
-    Lenkų užsispyrimas,
-    trukęs net ketverius metus, suerzino Vytautą dar labiau, kai
-    1422-23 m. skirstant į karūnos dignitorių vietas, nežiūrint tos
-    įtakos, kurią jis turėjo tame dalyke, aukščiausios vietos atiteko
-    žmonėms, kurie, kaip kad ir naujasis Krokuvos vyskupas Zb.
-    Olesnickis, buvo priešingi jo turimai persvarai bendroje valsty­
-    bėje ir jo politikai.
+  citata_rodoma: "Lenkų užsispyrimas,\ntrukęs net ketverius metus, suerzino Vytautą dar labiau, kai\n1422-23 m. skirstant į karūnos dignitorių vietas, nežiūrint tos\nįtakos, kurią jis turėjo tame dalyke, aukščiausios vietos atiteko\nžmonėms, kurie, kaip kad ir naujasis Krokuvos vyskupas Zb.\nOlesnickis, buvo priešingi jo turimai persvarai bendroje valsty­\nbėje ir jo politikai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176848
-    - t-176853
+    - t-013
+    - t-005
+
 - id: c-160812
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -537,7 +514,8 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176854
+    - t-006
+
 - id: c-160814
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -553,22 +531,15 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     ir lenkų draugingumas, nes karaliaus dvare įgijo daug įtakos
     Krokuvos vysk. Zbignievas Olesnickis — didelis nepriklauso­
     mos Vytauto politikos priešas.
-  citata_rodoma: |
-    Vytautas, tur būt, niekada
-    nuoširdžiai nemanė būti čekų karalium, nes tam reikėjo ilgų
-    kovų su vokiečiais ir popiežium, o Vytautui buvo reikalinga tai­
-    ka Vakaruose ir geri santykiai su Bažnyčia. Jis ilgai jau ne­
-    lankė rusų kraštų, kur mielai kreipdavo savo žirgą; pasibaigė
-    ir lenkų draugingumas, nes karaliaus dvare įgijo daug įtakos
-    Krokuvos vysk. Zbignievas Olesnickis — didelis nepriklauso­
-    mos Vytauto politikos priešas.
+  citata_rodoma: "Vytautas, tur būt, niekada\nnuoširdžiai nemanė būti čekų karalium, nes tam reikėjo ilgų\nkovų su vokiečiais ir popiežium, o Vytautui buvo reikalinga tai­\nka Vakaruose ir geri santykiai su Bažnyčia. Jis ilgai jau ne­\nlankė rusų kraštų, kur mielai kreipdavo savo žirgą; pasibaigė\nir lenkų draugingumas, nes karaliaus dvare įgijo daug įtakos\nKrokuvos vysk. Zbignievas Olesnickis — didelis nepriklauso­\nmos Vytauto politikos priešas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176852
+    - t-011
+
 - id: c-176643
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -583,20 +554,14 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     Aleksandrovičiaus pusseserę Onų); be to, Tverės didysis kunigaikš­
     tis Borisas Aleksandravičius dar 1427 m. buvo sudaręs su LDK su­
     tarti, kurios laikėsi ir Vytautui mirus.
-  citata_rodoma: |
-    Jogaila turėjo pritarti valiai
-    LDK feodalines visuomenės, pasirinkusios Švitrigaila Vytauto įpėdi­
-    niu. Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne­
-    atsižvelgiant | Lenkijos karalystes taryba- Krokuvos vyskupo Zbig-
-    nievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą,
-    siekdama patalini! Švitrigaila Ir užkirsti kelią bijomam LDK atsi­
-    skyrimui nuo Lenkijos.
+  citata_rodoma: "Jogaila turėjo pritarti valiai \nLDK feodalines visuomenės, pasirinkusios Švitrigaila Vytauto įpėdi­\nniu. Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne­\natsižvelgiant | Lenkijos karalystes taryba- Krokuvos vyskupo Zbig- \nnievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą, \nsiekdama patalini! Švitrigaila Ir užkirsti kelią bijomam LDK atsi­\nskyrimui nuo Lenkijos."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194018
+    - t-017
+
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -66,9 +66,8 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
 
 <a id="claim-t-188909"></a>
 - t-001
-  global_id: t-188909
   teiginys: "Pasak Narbuto perteikiamo Strijkovskio, prie Vilniaus Perkūno šventyklos gyvatės buvo laikomos atskiroje koplyčioje po Katedros didžiuoju altoriumi."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -84,10 +83,9 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171798
-    - c-001
+
 <a id="claim-t-197482"></a>
 - t-002
-  global_id: t-197482
   teiginys: "Prie šventyklos įėjimo buvo Krivių Krivaičio - žynių žynio rūmas."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -100,7 +98,6 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
 
 <a id="claim-t-197483"></a>
 - t-003
-  global_id: t-197483
   teiginys: "Senas pasakojimas, kuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša žinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią šventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263 metais ') siuntė garbingus pasiuntinius pas Nemuno upės ora."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -113,7 +110,6 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
 
 <a id="claim-t-197484"></a>
 - t-004
-  global_id: t-197484
   teiginys: "Kiti pasa kojo, kad, priėjus šį ženklą, žlugs stabmeldystė, ir krikščio nys sugriaus šventyklą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -141,8 +137,7 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188909
+
 ## Citatos
 
 - id: c-171798
@@ -150,28 +145,22 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Gyvatė (Giwojte)
-    Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
-    kaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.
-    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
-    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
-    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
-    riumi.
-  citata_rodoma: |
-    Gyvatė (Giwojte)
-    Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
-    kaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.
-    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
-    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
-    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
-    riumi.
+    Pabaisa atsakė: „Aš esu tas, kuris čia būsiu,
+    kol atkeršysiu už tai, kad užmušei savo namų dievą. Tu būsi
+    dar labiau persekiojamas, jeigu negrįši prie jam priklausančių
+    aukų aukojimo“. Šeimininkas šito nepaisė ir, būdamas krikš­
+    čionis, nuvijo pabaisą šventu kryžiumi-ji tuoj pat nežinia kur
+    dingo. Bet kai jis ateidavo į tą vietą, ilgą laiką sode girdėdavo
+    kažkokį triukšmą ir lyg žalčių šnypštimą.
+  citata_rodoma: "Gyvatė (Giwojte)\nNuodingas šliužas. Šios rūšies būtybės buvo traktuojamos\nkaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.\nStrijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­\nno šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,\nkurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­\nriumi."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188909
+    - t-001
+
 - id: c-179212
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -195,7 +184,8 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197482
+    - t-002
+
 - id: c-179213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -223,7 +213,8 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197483
+    - t-003
+
 - id: c-179214
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -245,4 +236,4 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197484
+    - t-004

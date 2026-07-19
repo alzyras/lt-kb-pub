@@ -31,8 +31,7 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
 ## Teiginiai
 
 <a id="claim-t-64036"></a>
-- t-001
-  global_id: t-64036
+- t-003
   teiginys: "Ženevoje Pilsudskis pareiškė, kad Lenkija pripažins ir gerbs Lietuvos nepriklausomybę bei teritorijos integralumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
     - c-64907
 
 <a id="claim-t-64037"></a>
-- t-002
-  global_id: t-64037
+- t-001
   teiginys: "Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusios Respublikos tautų federaciją."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -111,16 +109,15 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
     minčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)
     vandenį. Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir
     kitų buvusių Žečpospolitos (respublikos) tautų federaciją.
-  citata_rodoma: |
-    Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir
-    kitų buvusių Žečpospolitos (respublikos) tautų federaciją.
+  citata_rodoma: "Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir\nkitų buvusių Žečpospolitos (respublikos) tautų federaciją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64037
+    - t-001
+
 - id: c-64907
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -135,16 +132,11 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
     tanti ir gerbsianti Lietuvos nepriklausomybę ir teritorijos inte-
     gralumą, ir pasiūlė vėl tiesiogines derybas geriems santykiams
     užmegzti.
-  citata_rodoma: |
-    Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Žene-
-      vą, įsidėmėjo jo iškilmingus pareiškimus, kad Lenkija pripažįs-
-      tanti ir gerbsianti Lietuvos nepriklausomybę ir teritorijos inte-
-      gralumą, ir pasiūlė vėl tiesiogines derybas geriems santykiams
-      užmegzti.
+  citata_rodoma: "Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Žene-\n  vą, įsidėmėjo jo iškilmingus pareiškimus, kad Lenkija pripažįs-\n  tanti ir gerbsianti Lietuvos nepriklausomybę ir teritorijos inte-\n  gralumą, ir pasiūlė vėl tiesiogines derybas geriems santykiams\n  užmegzti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64036
+    - t-003

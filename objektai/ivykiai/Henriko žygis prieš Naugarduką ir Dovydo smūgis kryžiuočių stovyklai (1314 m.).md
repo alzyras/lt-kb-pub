@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185520"></a>
 - t-001
-  global_id: t-185520
   teiginys: "Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-168881
 
 <a id="claim-t-196158"></a>
-- t-002
-  global_id: t-196158
+- t-003
   teiginys: "Kojelavičius pabrėžia penkių lietuvių narsą: naktį jie prasigavo pro sargybas, nužudė kelis priešus, paėmė grobio ir grįžo pas savuosius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Nenurodyta
     - c-168881
 
 <a id="claim-t-196159"></a>
-- t-003
-  global_id: t-196159
+- t-004
   teiginys: "Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą, bet po pirmojo pilies antpuolio atsisakė sumanymo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -132,35 +129,16 @@ Nenurodyta
     tą, geriausią kariuomenę metė prieš pilį, bet po
     pirmojo antpuolio, netekęs žymiausių karių, buvo pri­
     verstas išsižadėti šio sumanymo.
-  citata_rodoma: |
-    Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­
-    sijos maršalas, pakartotiniais antpuoliais nuniokojo Me­
-    dininkų valsčių. Jeigu lietuviai, parodę tokį narsu­
-    mą, būtų turėję ten daugiau
-    1314 m e ta i
-    karių ir jėgų, tikrai būtų kry­
-    žiuočiai netekę visos stovyk­
-    los, mat penki kariai, nakties tamsoje prasigavę pro
-    sargybas, prisėlino beveik ligi pačių vadų ir, keletą
-    priešų nužudę ir pasiplėšę
-    N e p a p ra sta
-    p e n k ių
-    grobio, kiek tik galėjo pen-
-    iie tu v ių n arsa
-    kiese pakelti, sveiki sugrįžo
-    pas savuosius, įvarydami kry­
-    žiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau
-    būta baimės nei pavojaus. Truputį vėliau Henrikas,
-    ugnimi ir kalaviju niokodamas kraštą, nusibrovė su ka­
-    riuomene ligi Naugarduko.
+  citata_rodoma: "Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­\nsijos maršalas, pakartotiniais antpuoliais nuniokojo Me­\ndininkų valsčių. Jeigu lietuviai, parodę tokį narsu­\nmą, būtų turėję ten daugiau \n1314 m e ta i \nkarių ir jėgų, tikrai būtų kry­\nžiuočiai netekę visos stovyk­\nlos, mat penki kariai, nakties tamsoje prasigavę pro \nsargybas, prisėlino beveik ligi pačių vadų ir, keletą\npriešų nužudę ir pasiplėšę \nN e p a p ra sta \np e n k ių \ngrobio, kiek tik galėjo pen- \niie tu v ių n arsa \nkiese pakelti, sveiki sugrįžo\npas savuosius, įvarydami kry­\nžiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau \nbūta baimės nei pavojaus. Truputį vėliau Henrikas, \nugnimi ir kalaviju niokodamas kraštą, nusibrovė su ka­\nriuomene ligi Naugarduko."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185520
-    - t-196158
+    - t-001
+    - t-003
+
 - id: c-178562
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -188,4 +166,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196159
+    - t-004

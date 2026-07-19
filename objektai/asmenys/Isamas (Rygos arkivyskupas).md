@@ -33,7 +33,6 @@ Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne ka
 
 <a id="claim-t-87518"></a>
 - t-001
-  global_id: t-87518
   teiginys: "Rygos arkivyskupui Isamui tarpininkaujant buvo sudaryta lietuvių taikos sutartis su Vokiečių ordinu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne ka
 
 <a id="claim-t-87519"></a>
 - t-002
-  global_id: t-87519
   teiginys: "Rygos arkivyskupas Isamas, kaip Bonifacijaus atstovas, sudarė taiką ir paliaubas tarp lietuvių ir Teutonų ordino brolių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,7 +115,8 @@ Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87519
+    - t-002
+
 - id: c-83498
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -145,4 +144,4 @@ Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87518
+    - t-001

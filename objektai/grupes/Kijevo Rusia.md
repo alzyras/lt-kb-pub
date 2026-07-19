@@ -37,8 +37,7 @@ Kijevo Rusia šiame šaltinyje minima kaip 988 m. Bizantijos krikštą priėmęs
 ## Teiginiai
 
 <a id="claim-t-181458"></a>
-- t-001
-  global_id: t-181458
+- t-020
   teiginys: "XI a. Lietuva patyrė Kijevo Rusios agresiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -80,4 +79,4 @@ Kijevo Rusia šiame šaltinyje minima kaip 988 m. Bizantijos krikštą priėmęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181458
+    - t-020

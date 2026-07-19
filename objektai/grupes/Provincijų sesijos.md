@@ -31,7 +31,6 @@ Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generalini
 
 <a id="claim-t-72618"></a>
 - t-001
-  global_id: t-72618
   teiginys: "Provincijų sesijomis buvo vadinami posėdžiai, atlikdavę ankstesnių generalinių seimelių darbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generalini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72618
+    - t-001

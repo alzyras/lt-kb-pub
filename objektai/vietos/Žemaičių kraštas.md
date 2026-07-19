@@ -49,31 +49,13 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
 ## Teiginiai
 
 <a id="claim-t-69966"></a>
-- t-001
-  global_id: t-69966
+- t-005
   teiginys: "Žemaičių kraštui buvo taikomi ir Ritland, Austurland bei Oestland vardai."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10528
-
-<a id="claim-t-69968"></a>
-- t-002
-  global_id: t-69968
-  teiginys: "To krašto gyventojai buvo siejami su gyvenimu žemai, pajūriuose."
-  atnaujinta: "2026-05-31 10:29"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Saulė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaičių kraštas (kraštas): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Saulė: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių kraštas (kraštas)\" parinktas kaip owner_note_path. Targetas \"Saulė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-10529
 - susijęs iš Urkundenbuch des Bisthums Samland Herausgegeben von C. P. Woelky und H. Mendthai: „Urkundenbuch des Bisthums Samland“ parengė C. P. Woelky ir H. Mendthai, o leidinys išėjo Leipcige 1891 ir 1898 m.
 - susijęs iš Drezdenka: Naujame dokumente Drezdenka buvo priskirta prie lenkų pasienio punktų, turėjusių priklausyti kryžiuočiams.
 - susijęs iš Santoko pilis Dobrine: Naujame dokumente skelbta, kad Santoko pilis Dobrine, Drezdenka, Žemaičiai ir Sūduva turi priklausyti kryžiuočiams.
@@ -94,7 +76,8 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69966
+    - t-005
+
 - id: c-10529
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -106,10 +89,10 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
         teutonams nuo tos pusės aušo ir saulė tekėjo.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-69968
+
 ## Ryšiai
 - Žemaičių kraštas (kraštas) priklausė [[objektai/grupes/Kryžiuočių ordinas]]

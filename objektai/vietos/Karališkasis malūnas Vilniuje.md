@@ -60,10 +60,9 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 ## Teiginiai
 
 <a id="claim-t-55248"></a>
-- t-001
-  global_id: t-55248
+- t-002
   teiginys: "1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Reikėjo įvardyti karalių ir pašalinti dviprasmį agentą."
@@ -76,8 +75,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     - c-177469
 
 <a id="claim-t-55249"></a>
-- t-002
-  global_id: t-55249
+- t-003
   teiginys: "1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,8 +88,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     - c-177469
 
 <a id="claim-t-195086"></a>
-- t-003
-  global_id: t-195086
+- t-004
   teiginys: "Antraštė: Molendinum Vilnense [Vil niaus malūnas]."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,8 +100,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     - c-55849
 
 <a id="claim-t-195087"></a>
-- t-004
-  global_id: t-195087
+- t-001
   teiginys: "Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,19 +128,16 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     Metrikos archyvo sąrašą. Raidė S.
     Antraštė: Molendinum Vilnense [Vil­
     niaus malūnas].
-  citata_rodoma: |
-    Iš Lietuvos Metrikos. Knyga, apimanti
-    Metrikos archyvo sąrašą. Raidė S.
-    Antraštė: Molendinum Vilnense [Vil­
-    niaus malūnas].
+  citata_rodoma: "Iš Lietuvos Metrikos. Knyga, apimanti \nMetrikos archyvo sąrašą. Raidė S. \nAntraštė: Molendinum Vilnense [Vil­\nniaus malūnas]."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195086
-    - t-195087
+    - t-004
+    - t-001
+
 - id: c-177469
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -166,28 +159,12 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir
     žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
     malūnas.
-  citata_rodoma: |
-    40), matyti,
-    266
-
-    ## Puslapis 283
-
-    IV KNYGA
-    Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei
-    ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­
-    gai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­
-    tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
-    1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
-    ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
-    mis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­
-    lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir
-    žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
-    malūnas.
+  citata_rodoma: "40), matyti,\n266\n\n## Puslapis 283\n\nIV KNYGA\nVisi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei \nir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­\ngai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­\ntas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius \n1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui \nir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­\nmis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­\nlių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir \nžemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus \nmalūnas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55248
-    - t-55249
+    - t-002
+    - t-003

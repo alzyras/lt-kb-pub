@@ -71,7 +71,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 
 <a id="claim-t-55077"></a>
 - t-001
-  global_id: t-55077
   teiginys: "Balińskio vertinimu, Lietuvos miestiečių luomas vėlavo kartu su civilizacijos raida ir formavosi tik XIV amžiuje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -88,7 +87,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 
 <a id="claim-t-55078"></a>
 - t-002
-  global_id: t-55078
   teiginys: "Balińskis Vilniaus miestiečių luomą kildino iš nelaisvųjų, svetimšalių kolonistų ir bajorų arba kunigaikščių tarnų grupių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -104,8 +102,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-55892
 
 <a id="claim-t-55079"></a>
-- t-003
-  global_id: t-55079
+- t-004
   teiginys: "Vokietijos, Rusios ir Livonijos amatininkai bei pirkliai tapo turtingiausiu Vilniaus gyventojų sluoksniu."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "auto"
@@ -121,8 +118,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-55893
 
 <a id="claim-t-55080"></a>
-- t-004
-  global_id: t-55080
+- t-005
   teiginys: "Algirdo laikais Vilniaus miestiečiai gavo privilegiją laisvai prekiauti visoje Lietuvos valstybėje nemokėdami muito."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -139,8 +135,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-55894
 
 <a id="claim-t-55081"></a>
-- t-005
-  global_id: t-55081
+- t-006
   teiginys: "Vilniaus miestiečiai turėjo privilegiją laisvai prekiauti Lietuvos valstybėje nemokėdami muitų."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -157,8 +152,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-55894
 
 <a id="claim-t-55082"></a>
-- t-006
-  global_id: t-55082
+- t-007
   teiginys: "Vilniaus pilininkas ir miestiečiai palaikė Jogailą prieš Kęstutį ir perdavė jam Žemutinę bei Aukštutinę pilis."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "auto"
@@ -175,8 +169,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-55895
 
 <a id="claim-t-55083"></a>
-- t-007
-  global_id: t-55083
+- t-008
   teiginys: "Karai ir dažnas karinės valdžios kišimasis silpnino Vilniaus miestiečiams suteiktų Magdeburgo teisių poveikį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -192,8 +185,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-55896
 
 <a id="claim-t-55084"></a>
-- t-008
-  global_id: t-55084
+- t-009
   teiginys: "Vilniaus miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -209,8 +201,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-55897
 
 <a id="claim-t-55085"></a>
-- t-009
-  global_id: t-55085
+- t-010
   teiginys: "1424 m. Vytauto privilegijos atleido Vilniaus miestiečius nuo įvairių duoklių, bet jų naudą gavo Romos katalikai."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "auto"
@@ -228,8 +219,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-55898
 
 <a id="claim-t-55086"></a>
-- t-010
-  global_id: t-55086
+- t-011
   teiginys: "Vilniaus miestiečiai gaisro atveju privalėjo skubėti prie ugnies, o miesto gynybai turėti šarvus, muškietą ir ragotinę."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -246,8 +236,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157208
 
 <a id="claim-t-55087"></a>
-- t-011
-  global_id: t-55087
+- t-012
   teiginys: "Vilniaus miestiečių saugumui ir gausėjimui bajorams buvo uždrausta iškelti iš miesto pavaldinius, kurie ten ramiai pragyveno šešerius metus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -263,8 +252,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-55900
 
 <a id="claim-t-55088"></a>
-- t-012
-  global_id: t-55088
+- t-013
   teiginys: "Miesto taryba negalėjo įvesti naujų mokesčių be miestiečių leidimo."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -280,8 +268,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-55900
 
 <a id="claim-t-55089"></a>
-- t-013
-  global_id: t-55089
+- t-014
   teiginys: "1569 m. Vilniaus pasiuntiniai Liublino unijos seime pasirašė susivienijimo dekretą kartu su kitais LDK delegatais."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -300,8 +287,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-55901
 
 <a id="claim-t-55090"></a>
-- t-014
-  global_id: t-55090
+- t-015
   teiginys: "1564 m. Žygimantas Augustas atribojo Vilniaus miestiečius nuo Antrojo Statuto galios ir suteikė daugiau bylinėjimosi laisvės pagal Magdeburgo teisę."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -320,8 +306,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-55901
 
 <a id="claim-t-172824"></a>
-- t-015
-  global_id: t-172824
+- t-038
   teiginys: "Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -337,8 +322,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157201
 
 <a id="claim-t-172825"></a>
-- t-016
-  global_id: t-172825
+- t-033
   teiginys: "Gaisro atveju kiekvienas Vilniaus miestietis privalėjo skubėti prie ugnies, o burmistrai turėjo vadovauti gesinimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -355,8 +339,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157208
 
 <a id="claim-t-172826"></a>
-- t-017
-  global_id: t-172826
+- t-037
   teiginys: "Miestiečių luomas, dviejų paskutinių Jogailaičių iškeltas iki tikrų piliečių, valdant Steponui Batorui turėjo stiprų globėją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -372,8 +355,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157202
 
 <a id="claim-t-172827"></a>
-- t-018
-  global_id: t-172827
+- t-027
   teiginys: "Kazimieras dar būdamas didžiuoju kunigaikščiu atleido Vilniaus miestiečius nuo muito mokesčio visoje Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -389,8 +371,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157200
 
 <a id="claim-t-172828"></a>
-- t-019
-  global_id: t-172828
+- t-031
   teiginys: "Vilniaus namų statyba teikė miestiečiams naudingos veiklos ir prisidėjo prie jų turtėjimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -406,8 +387,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157212
 
 <a id="claim-t-172830"></a>
-- t-020
-  global_id: t-172830
+- t-035
   teiginys: "1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -426,8 +406,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157204
 
 <a id="claim-t-172831"></a>
-- t-021
-  global_id: t-172831
+- t-036
   teiginys: "Balińskis Liublino seimo ir 1564 m. sprendimus laikė aukščiausia Vilniaus ir Lietuvos miestiečių luomo teisių riba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -446,8 +425,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-55901
 
 <a id="claim-t-172832"></a>
-- t-022
-  global_id: t-172832
+- t-023
   teiginys: "Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės Vilniaus miestiečių luomui suteikė aukštesnę visuomeninę padėtį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -463,8 +441,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157206
 
 <a id="claim-t-172833"></a>
-- t-023
-  global_id: t-172833
+- t-029
   teiginys: "1505 m. karalius atleido Vilniaus gyventojus nuo karo tarnybos vieneriems metams, kad jie apjuostų miestą mūro siena."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -483,8 +460,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157190
 
 <a id="claim-t-172834"></a>
-- t-024
-  global_id: t-172834
+- t-018
   teiginys: "Vilniaus miestiečiai, palaikę Jogailą prieš Kęstutį, naktį sumušė Kęstučio įgulą ir perdavė Jogailai Žemutinę bei Aukštutinę pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -500,8 +476,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157193
 
 <a id="claim-t-172835"></a>
-- t-025
-  global_id: t-172835
+- t-030
   teiginys: "1506 m. totorių pabūgę Vilniaus miestiečiai, remiami vyskupo Vaitiekaus Taboro, apjuosė miestą mūro pylimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -520,8 +495,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157192
 
 <a id="claim-t-172836"></a>
-- t-026
-  global_id: t-172836
+- t-022
   teiginys: "Vilniaus miestiečių luomas turėjo nustatytą vietą Lietuvos seimuose ir dalyvavo krašto reprezentacijose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -537,8 +511,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157207
 
 <a id="claim-t-172837"></a>
-- t-027
-  global_id: t-172837
+- t-032
   teiginys: "Silpno charakterio karalius nepajėgė pasipriešinti turčių vyravimui ir suteikti daugiau laisvės Vilniaus miestiečių luomui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -555,7 +528,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 
 <a id="claim-t-172839"></a>
 - t-028
-  global_id: t-172839
   teiginys: "1451 m. Kazimieras atleido Magdeburgo teisei paklususius Vilniaus miestiečius nuo pastočių davimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -574,8 +546,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157189
 
 <a id="claim-t-172840"></a>
-- t-029
-  global_id: t-172840
+- t-020
   teiginys: "Vilniaus gyventojai įvertino, kad gaisras didžiajam kunigaikščiui padarė iki 60 tūkstančių sidabro luitų žalą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -594,8 +565,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157209
 
 <a id="claim-t-172841"></a>
-- t-030
-  global_id: t-172841
+- t-026
   teiginys: "Nuolatiniai karai ir mokesčiai nuskurdino Vilniaus miestiečius, todėl jie nebegalėjo prekiauti su svetimšaliais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -611,8 +581,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157197
 
 <a id="claim-t-172842"></a>
-- t-031
-  global_id: t-172842
+- t-017
   teiginys: "Iki Gedimino Vilniaus būsimo miesto užuomazgą sudarė palei Vilnią gyvenę lietuviai, vaidilos ir jų svitos žmonės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -631,8 +600,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157191
 
 <a id="claim-t-172844"></a>
-- t-032
-  global_id: t-172844
+- t-016
   teiginys: "Vilniaus miestiečių luomas negalėjo išsiderėti daugiau laisvių, nes stokojo palankaus meto ir politinių sąlygų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -648,8 +616,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157195
 
 <a id="claim-t-172845"></a>
-- t-033
-  global_id: t-172845
+- t-025
   teiginys: "Žygimantas rugsėjo 23 d. suteikė Vilniaus miestiečiams teisę prekiauti ir be muitų gabenti prekes Lietuvos žemėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -666,7 +633,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 
 <a id="claim-t-172846"></a>
 - t-034
-  global_id: t-172846
   teiginys: "1568 m. birželio 15 d. Gardino seimo sprendimas apsaugojo Vilniaus miestiečius nuo dvariškių ir pasiuntinių apgyvendinimo be miesto tarybos leidimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -685,8 +651,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-157214
 
 <a id="claim-t-172847"></a>
-- t-035
-  global_id: t-172847
+- t-019
   teiginys: "Magdeburgo teisės Vilniaus miestiečiams buvo menkai paveikios dėl karų, baimės ir karinės valdžios kišimosi į miesto valdymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -702,8 +667,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - c-55896
 
 <a id="claim-t-194176"></a>
-- t-036
-  global_id: t-194176
+- t-039
   teiginys: "Numanu, kad Magdeburgo tei sės, karaliaus suteiktos miestui, buvo ne itin paveikios ne tik dėl to, kad dar taip neseniai pakilę iš barbarybės miestiečiai prie jų buvo dar nepripratę, bet ir dėl nuolatinės baimės bei su maišties per tuos žiaurius karus ir."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -760,8 +724,9 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55077
-    - t-55078
+    - t-001
+    - t-002
+
 - id: c-55893
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -785,7 +750,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55079
+    - t-004
+
 - id: c-55894
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -806,8 +772,9 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55080
-    - t-55081
+    - t-005
+    - t-006
+
 - id: c-55895
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -829,7 +796,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55082
+    - t-007
+
 - id: c-55896
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -856,9 +824,10 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55083
-    - t-172847
-    - t-194176
+    - t-008
+    - t-019
+    - t-039
+
 - id: c-55897
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -883,7 +852,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55084
+    - t-009
+
 - id: c-55898
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -906,7 +876,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55085
+    - t-010
+
 - id: c-55900
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -925,8 +896,9 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55087
-    - t-55088
+    - t-012
+    - t-013
+
 - id: c-55901
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -951,28 +923,17 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     bylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip
     savo metu darė ir Žygimantas Senasis, paskelbdamas Pir­
     mąjį Statutą.
-  citata_rodoma: |
-    Čia paminėti įstatymai gali būti laikomi galutiniu išsi­
-    vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią
-    pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.
-    Kai dar 1564 metais Bełsko seime Žygimantas Augustas
-    tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­
-    rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove,
-    atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­
-    mus, atskiru liepos 7 d. sprendimu, jis visus miestiečius at­
-    ribojo nuo Statuto galios, šitaip suteikdamas jiems daugiau
-    bylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip
-    savo metu darė ir Žygimantas Senasis, paskelbdamas Pir­
-    mąjį Statutą.
+  citata_rodoma: "Čia paminėti įstatymai gali būti laikomi galutiniu išsi­\nvadavimu arba veikiau aukščiausia teisių veikimo riba, kurią \npasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.\nKai dar 1564 metais Bełsko seime Žygimantas Augustas \ntvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­\nrią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove, \natsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­\nmus, atskiru liepos 7 d. sprendimu, jis visus miestiečius at­\nribojo nuo Statuto galios, šitaip suteikdamas jiems daugiau \nbylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip \nsavo metu darė ir Žygimantas Senasis, paskelbdamas Pir­\nmąjį Statutą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55089
-    - t-55090
-    - t-172831
+    - t-014
+    - t-015
+    - t-036
+
 - id: c-157189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -992,7 +953,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172839
+    - t-028
+
 - id: c-157190
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1015,7 +977,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172833
+    - t-029
+
 - id: c-157191
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1051,7 +1014,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172842
+    - t-017
+
 - id: c-157192
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1078,7 +1042,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172835
+    - t-030
+
 - id: c-157193
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1098,28 +1063,15 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     kovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat
     pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­
     nių, turėjo slėptis Trakų pilyje34.
-  citata_rodoma: |
-    370-374. Re­
-    gis, iš jo kilusi Hanulu giminė, kurių
-    36
-
-    ## Puslapis 53
-
-    I  KNYGA
-    Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­
-    gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi
-    pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33. Tas
-    Vilniaus gyventojų palankumas didžia dalimi nulėmė eigą
-    kovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat
-    pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­
-    nių, turėjo slėptis Trakų pilyje34.
+  citata_rodoma: "370-374. Re­\ngis, iš jo kilusi Hanulu giminė, kurių\n36\n\n## Puslapis 53\n\nI  KNYGA\nVilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­\ngailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi \npilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33. Tas \nVilniaus gyventojų palankumas didžia dalimi nulėmė eigą \nkovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat \npralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­\nnių, turėjo slėptis Trakų pilyje34."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172834
+    - t-018
+
 - id: c-157194
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1137,7 +1089,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172837
+    - t-032
+
 - id: c-157195
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1161,7 +1114,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172844
+    - t-016
+
 - id: c-157197
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1184,7 +1138,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172841
+    - t-026
+
 - id: c-157200
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1209,28 +1164,15 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su
     Černigovu32. Tapęs karaliumi, jis tą pačią privilegiją pritaikė
     visiems Vilniaus gyventojams, prekiaujantiems su Lenkija.
-  citata_rodoma: |
-    miesto teisių D n b i n s k i o rinkinv-
-    224
-
-    ## Puslapis 241
-
-    III KNYGA
-    toritetą, maždaug tuo laiku pagarsėjo vienas jų, vardu Jach­
-    na Laurinavičius, pasižymėjęs išmintimi, turtais ir įtakingu-
-    mu, o ir paties karaliaus didžiai gerbiamas31. Dar būdamas
-    didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­
-    do Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­
-    je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su
-    Černigovu32. Tapęs karaliumi, jis tą pačią privilegiją pritaikė
-    visiems Vilniaus gyventojams, prekiaujantiems su Lenkija.
+  citata_rodoma: "miesto teisių D n b i n s k i o rinkinv-\n224\n\n## Puslapis 241\n\nIII KNYGA\ntoritetą, maždaug tuo laiku pagarsėjo vienas jų, vardu Jach­\nna Laurinavičius, pasižymėjęs išmintimi, turtais ir įtakingu- \nmu, o ir paties karaliaus didžiai gerbiamas31. Dar būdamas \ndidžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­\ndo Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­\nje, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su \nČernigovu32. Tapęs karaliumi, jis tą pačią privilegiją pritaikė \nvisiems Vilniaus gyventojams, prekiaujantiems su Lenkija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172827
+    - t-027
+
 - id: c-157201
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1254,7 +1196,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172824
+    - t-038
+
 - id: c-157202
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1274,26 +1217,15 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     gaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje,
     panoro ne tik pripažinti jam senąjį įžymumą, bet padaryti
     dar ir naujų, amžiui priderančių, laisvių dalyviu72.
-  citata_rodoma: |
-    Bet jau tokia būna geni­
-    jaus įtaka menkesniems protams, kad dažnai net nenoro­
-    mis lenkiasi jo narsumui, pakerėti pranašumo bei žavesio,
-    garbina ir vykdo didvyrio sumanymus, kurių iš paprasto
-    žmogaus nenorėtų nei girdėti, nei žinoti. Miestiečių luomas,
-    dviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­
-    liečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­
-    menyje neteko tokio globėjo, kokiu paskui netapo nė vienas
-    iš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš pra­
-    gaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje,
-    panoro ne tik pripažinti jam senąjį įžymumą, bet padaryti
-    dar ir naujų, amžiui priderančių, laisvių dalyviu72.
+  citata_rodoma: "Bet jau tokia būna geni­\njaus įtaka menkesniems protams, kad dažnai net nenoro­\nmis lenkiasi jo narsumui, pakerėti pranašumo bei žavesio, \ngarbina ir vykdo didvyrio sumanymus, kurių iš paprasto \nžmogaus nenorėtų nei girdėti, nei žinoti. Miestiečių luomas, \ndviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­\nliečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­\nmenyje neteko tokio globėjo, kokiu paskui netapo nė vienas \niš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš pra­\ngaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje, \npanoro ne tik pripažinti jam senąjį įžymumą, bet padaryti \ndar ir naujų, amžiui priderančių, laisvių dalyviu72."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172826
+    - t-037
+
 - id: c-157204
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1328,7 +1260,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172830
+    - t-035
+
 - id: c-157206
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1359,7 +1292,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172832
+    - t-023
+
 - id: c-157207
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1388,7 +1322,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172836
+    - t-022
+
 - id: c-157208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1412,8 +1347,9 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55086
-    - t-172825
+    - t-011
+    - t-033
+
 - id: c-157209
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1427,21 +1363,15 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė,
     kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
     čių sidabro luitų65 • .
-  citata_rodoma: |
-    ), kaip toji didelė nelaimė, ištikusi kitais metais žiemai bai­
-    giantis. Nuo ugnies, įsiliepsnojusios pilies kieme, kunigaikščio
-    arklidėse, kilo toks baisus gaisras, kad, be Žemutinės pilies ir
-    Katedros, ištisai visas miestas sudegė. Didysis kunigaikštis ne­
-    teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė,
-    kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
-    čių sidabro luitų65 • .
+  citata_rodoma: "), kaip toji didelė nelaimė, ištikusi kitais metais žiemai bai­\ngiantis. Nuo ugnies, įsiliepsnojusios pilies kieme, kunigaikščio \narklidėse, kilo toks baisus gaisras, kad, be Žemutinės pilies ir \nKatedros, ištisai visas miestas sudegė. Didysis kunigaikštis ne­\nteko savo žirgų ir brangenybių, o žala, kurią per tai patyrė, \nkaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­\nčių sidabro luitų65 • ."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172840
+    - t-020
+
 - id: c-157211
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1460,27 +1390,15 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     neša komtūras iš Lealio, iš Rygos,
     laiške, datuotame 1432 metų rugpjū­
     čio 19 d. Ind.
-  citata_rodoma: |
-    Šis teisingu­
-    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
-    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
-    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
-    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
-    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
-    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
-    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
-    17
-    Apie tai didžiajam magistrui pra­
-    neša komtūras iš Lealio, iš Rygos,
-    laiške, datuotame 1432 metų rugpjū­
-    čio 19 d.
+  citata_rodoma: "Šis teisingu­\nmas buvo Vilniui anksčiau negu kitiems miestams taikomas. \nTų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos \nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti \nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos, \nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172845
+    - t-025
+
 - id: c-157212
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1508,7 +1426,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172828
+    - t-031
+
 - id: c-157214
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1537,7 +1456,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172846
+    - t-034
+
 ## Ryšiai
 - Vilniaus miestiečių luomas prekiavo su [[objektai/vietos/Lietuva]]
 - Vilniaus miestiečių luomas rėmė [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

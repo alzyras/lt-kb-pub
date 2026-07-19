@@ -38,8 +38,7 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 ## Teiginiai
 
 <a id="claim-t-94354"></a>
-- t-001
-  global_id: t-94354
+- t-003
   teiginys: "Po pareiškimo Jogailai Vytauto pasiuntiniai greitai išvyko iš Lenčicos."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     - c-89491
 
 <a id="claim-t-94355"></a>
-- t-002
-  global_id: t-94355
+- t-001
   teiginys: "1409 m. visuotiniame Lenčicos suvažiavime viršų gavo bendradarbiavimo su Lietuva idėja."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     - c-89490
 
 <a id="claim-t-94356"></a>
-- t-003
-  global_id: t-94356
+- t-002
   teiginys: "1429 m. birželio 18 d. Vytauto pasiuntiniai Lenčicoje įteikė Jogailai Vytauto laišką."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -95,7 +92,6 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 
 <a id="claim-t-94357"></a>
 - t-004
-  global_id: t-94357
   teiginys: "1429 m. birželio 18 d. Vytauto delegatai Gedgaudas ir Rumbaudas atvyko į Lenčicą ir įteikė Jogailai Vytauto laišką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,7 +112,6 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 
 <a id="claim-t-185003"></a>
 - t-005
-  global_id: t-185003
   teiginys: "Vytenis su 1800 raitelių įsiveržė į Lenčicos kraštą ir netikėtu antpuoliu užėmė Lenčicos miestą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -181,7 +176,8 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94356
+    - t-002
+
 - id: c-89489
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -200,7 +196,8 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94357
+    - t-004
+
 - id: c-89490
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -221,7 +218,8 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94355
+    - t-001
+
 - id: c-89491
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -241,7 +239,8 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94354
+    - t-003
+
 - id: c-168364
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -271,34 +270,14 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     greitosiomis sutelktą būrį, pasivijęs lietuvius netoli
     Sochačevo, stoja į kovą, kur kas didesnę narsą rody­
     damas, nei susilaukdamas sėkmės.
-  citata_rodoma: |
-    Mat bemaž tuo
-    pačiu metu Vytenis lyg niekur nieko, tarytum tėvynė
-    būtų visiškai saugi nuo prie-
-    V y te n is
-    įsiv e ržia
-    į
-    šo, Mazovijos pasieniais įsi-
-    L en k iją  ir u žim a  Len-
-    veržė, sutelkęs žygiui tūks-
-    čicą
-    tantį aštuonis šimtus raitelių,
-    į Lenčicos kraštą. Dėjosi šitai
-    sekmadienį, todėl į miestą buvo prigužėję iš aplinkinių
-    kaimų į pamaldas galybė kaimiečių ir bajorų. Tiesiai
-    iš kelio, niekieno nelauktas, Vytenis užėmė miestą, ko­
-    va ir grėsmė artėjo prie bažnyčios, padrikai puolan­
-    čius karius bažnyčioje užsidariusi minia, iš siaubo įga­
-    vusi drąsos, atstūmė; į besiartinančius jie svaidė vis­
-    ką, kas tik pakliuvo po ranka, vis dėlto, kai užsidegė
-    aplinkiniai namai, nuo dūmų ir liepsnos daugelis žuvo,
-    galop bažnyčia buvo užimta ir išplėšta.
+  citata_rodoma: "Mat bemaž tuo\npačiu metu Vytenis lyg niekur nieko, tarytum tėvynė\nbūtų visiškai saugi nuo prie-\nV y te n is\nįsiv e ržia\nį\nšo, Mazovijos pasieniais įsi-\nL en k iją  ir u žim a  Len-\nveržė, sutelkęs žygiui tūks-\nčicą\ntantį aštuonis šimtus raitelių,\nį Lenčicos kraštą. Dėjosi šitai\nsekmadienį, todėl į miestą buvo prigužėję iš aplinkinių\nkaimų į pamaldas galybė kaimiečių ir bajorų. Tiesiai\niš kelio, niekieno nelauktas, Vytenis užėmė miestą, ko­\nva ir grėsmė artėjo prie bažnyčios, padrikai puolan­\nčius karius bažnyčioje užsidariusi minia, iš siaubo įga­\nvusi drąsos, atstūmė; į besiartinančius jie svaidė vis­\nką, kas tik pakliuvo po ranka, vis dėlto, kai užsidegė\naplinkiniai namai, nuo dūmų ir liepsnos daugelis žuvo,\ngalop bažnyčia buvo užimta ir išplėšta."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185003
+    - t-005
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Zemislovas]]

@@ -63,10 +63,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186926"></a>
-- t-001
-  global_id: t-186926
+- t-002
   teiginys: "Ponų Taryba pateikiama kaip didikų politinis organas, kurio viešpatavimą gina Bychovco kronika."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Ponų taryba (institucija): 0.85"
@@ -81,8 +80,7 @@ Nenurodyta
     - c-170101
 
 <a id="claim-t-186928"></a>
-- t-002
-  global_id: t-186928
+- t-003
   teiginys: "Kronikos vaizdinyje „ponai“ perkeliami ir į ankstyvesnius laikus kaip valdovų rinkėjai bei patarėjai."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -174,25 +172,15 @@ Nenurodyta
     gaikščio Mykolo Glinskio giminaitis, valdęs didžiojo
     kunigaikščio valsčius ir pilis, vadinamas „prastu" žmo­
     gumi.
-  citata_rodoma: |
-    Bychovco kronikoje dėstoma Lietuvos istorija —
-    tai politinė valstybės istorija, didžiųjų ir vasalinių ku­
-    nigaikščių, didikų istorija, pasakojama, visų pirma, di­
-    dikų-,,ponų" požiūriu, priešingų didžiojo kunigaikš­
-    čio valdžios stiprinimui. Luominės didikų prerogatyvos
-    didžiojo kunigaikščio valdžios atžvilgiu pabrėžiamos
-    Aleksandro konflikto su Ponų Taryba aprašyme. By­
-    chovco kronika aiškiai gina XV a. antrosios pusės —
-    XVI a. pirmojo ketvirčio Lietuvos valstybės santvar­
-    ką, užtikrinančią didikų oligarchijos ir jų politinio or­
-    gano — Ponų Tarybos — viešpatavimą.
+  citata_rodoma: "Bychovco kronikoje dėstoma Lietuvos istorija —  \ntai politinė valstybės istorija, didžiųjų ir vasalinių ku­\nnigaikščių, didikų istorija, pasakojama, visų pirma, di­\ndikų-,,ponų\" požiūriu, priešingų didžiojo kunigaikš­\nčio valdžios stiprinimui. Luominės didikų prerogatyvos \ndidžiojo kunigaikščio valdžios atžvilgiu pabrėžiamos \nAleksandro konflikto su Ponų Taryba aprašyme. By­\nchovco kronika aiškiai gina XV a. antrosios pusės —  \nXVI a. pirmojo ketvirčio Lietuvos valstybės santvar­\nką, užtikrinančią didikų oligarchijos ir jų politinio or­\ngano — Ponų Tarybos — viešpatavimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186926
+    - t-002
+
 - id: c-170102
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -217,18 +205,11 @@ Nenurodyta
     miestų steigimo datų, buities vaizdų, įdomesnių vieti­
     nės reikšmės įvykių, stichinių gamtos nelaimių, epide­
     mijų aprašymų.
-  citata_rodoma: |
-    Toji santvar­
-    ka vaizduojama kone amžina, nes jau Kentauro her­
-    bo dinastijos pradininkas Šventaragis ir Gediminaičių
-    dinastijos pradininkas Vytenis buvę „ponų" išrinkti.
-    Autoriui, matyt, apskritai tolima mintis, kad valstybės
-    santvarka gali keistis, todėl „ponai" patarėjai priski­
-    riami jau kunigaikščiui Erdvilai (XIII a.)
+  citata_rodoma: "Toji santvar­\nka vaizduojama kone amžina, nes jau Kentauro her­\nbo dinastijos pradininkas Šventaragis ir Gediminaičių \ndinastijos pradininkas Vytenis buvę „ponų\" išrinkti. \nAutoriui, matyt, apskritai tolima mintis, kad valstybės \nsantvarka gali keistis, todėl „ponai\" patarėjai priski­\nriami jau kunigaikščiui Erdvilai (XIII a.)"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186928
+    - t-003

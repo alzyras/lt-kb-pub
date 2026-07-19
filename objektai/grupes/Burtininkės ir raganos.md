@@ -30,7 +30,6 @@ Narbutas, remdamasis Čackiu, teigė, kad XVI amžiuje daugiausia raganų būdav
 
 <a id="claim-t-189470"></a>
 - t-001
-  global_id: t-189470
   teiginys: "Narbutas, remdamasis Čackiu, teigė, kad XVI amžiuje daugiausia raganų būdavo randama Lietuvoje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas, remdamasis Čackiu, teigė, kad XVI amžiuje daugiausia raganų būdav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189470
+    - t-001

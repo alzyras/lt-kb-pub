@@ -28,7 +28,6 @@ Katedros varpinė pastatyta ant vieno Žemosios pilies bokšto liekanų.
 
 <a id="claim-t-200804"></a>
 - t-001
-  global_id: t-200804
   teiginys: "Katedros varpinė pastatyta ant vieno Žemosios pilies bokšto liekanų."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Katedros varpinė pastatyta ant vieno Žemosios pilies bokšto liekanų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200804
+    - t-001

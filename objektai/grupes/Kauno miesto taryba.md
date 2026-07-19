@@ -10,11 +10,11 @@ datos:
   - '1647 m.'
 date_start: '1481'
 date_end: '1647'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
 
 <a id="claim-t-201820"></a>
 - t-001
-  global_id: t-201820
   teiginys: "Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Kauno miestiečių bendruomenės nariams."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
 
 <a id="claim-t-201821"></a>
 - t-002
-  global_id: t-201821
   teiginys: "Kauno ginčuose su Dancigu ir kitais Prūsų miestais nuolat buvo minimi dancigiečių įsigyti namai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -64,7 +62,6 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
 
 <a id="claim-t-201822"></a>
 - t-003
-  global_id: t-201822
   teiginys: "Tačiau didelės apimties mūro statybai pasipriešino Kauno miesto taryba, jai pritarė Kazimieras Jogailaitis."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -77,7 +74,6 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
 
 <a id="claim-t-201823"></a>
 - t-004
-  global_id: t-201823
   teiginys: "1647 m. Kauno miesto taryba, konstatavusi, kad brolija neturi savo nuostatų ir dėl to nėra tvarkos, patvirtino ne brolijos, o laivavedžių cecho nuostatus."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -90,7 +86,6 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
 
 <a id="claim-t-201824"></a>
 - t-005
-  global_id: t-201824
   teiginys: "1567 m. Kauno taryba kreipėsi teisinio patarimo į Gdansko tarybą, kaip spręsti kauniečiams neįprastą ir sudėtingą bylą."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -103,7 +98,6 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
 
 <a id="claim-t-201825"></a>
 - t-006
-  global_id: t-201825
   teiginys: "Matyti, kad Kauno miesto taryba kviesdavo miestiečių bendruomenės atstovus kartu spręsti reikalų, susijusių su miesto pajamomis ir mokesčiais."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -116,7 +110,6 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
 
 <a id="claim-t-201826"></a>
 - t-007
-  global_id: t-201826
   teiginys: "Tai buvo miesto vykdomąją valdžią aptarnaujančios įstaigos."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -144,7 +137,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201820
+    - t-001
 
 - id: c-185168
   autorius: "Zigmantas Kiaupa"
@@ -160,7 +153,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201821
+    - t-002
 
 - id: c-185169
   autorius: "Zigmantas Kiaupa"
@@ -178,7 +171,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201822
+    - t-003
 
 - id: c-185170
   autorius: "Zigmantas Kiaupa"
@@ -194,7 +187,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201823
+    - t-004
 
 - id: c-185171
   autorius: "Zigmantas Kiaupa"
@@ -211,7 +204,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201824
+    - t-005
 
 - id: c-185172
   autorius: "Zigmantas Kiaupa"
@@ -229,7 +222,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201825
+    - t-006
 
 - id: c-185173
   autorius: "Zigmantas Kiaupa"
@@ -247,4 +240,4 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201826
+    - t-007

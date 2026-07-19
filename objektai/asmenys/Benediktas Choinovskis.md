@@ -28,7 +28,6 @@ Kur minėti anksčiau išvardinti ponai tarėjai šio miesto amžinai atminčiai
 
 <a id="claim-t-202071"></a>
 - t-001
-  global_id: t-202071
   teiginys: "Kur minėti anksčiau išvardinti ponai tarėjai šio miesto amžinai atminčiai ir garbei pagal šventą, įprastą, nuo senovės besilaikomą paproti po pirmu akmeniu, meistro mūrininko Benedikto Choinovskio tiksliai patalpintu pono vaito menės kampe, padėjo 1 auksiną."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Kur minėti anksčiau išvardinti ponai tarėjai šio miesto amžinai atminčiai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202071
+    - t-001

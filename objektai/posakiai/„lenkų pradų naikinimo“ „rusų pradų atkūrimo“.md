@@ -39,7 +39,6 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
 
 <a id="claim-t-169945"></a>
 - t-001
-  global_id: t-169945
   teiginys: "Rusintojai tikėjosi laimėti, „lenkų pradų naikinimo“ politiką papildydami „rusų pradų atkūrimo“ politika."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
 
 <a id="claim-t-169946"></a>
 - t-002
-  global_id: t-169946
   teiginys: "„Rusų pradus“ švietimo įstaigose turėjo diegti rusai mokytojai, paprastai atvykę iš Rusijos gilumos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -88,15 +86,15 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
     visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
     nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-
     nimo“ politiką papildę „rusų pradų atkūrimo“ politika.
-  citata_rodoma: |
-    visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
+  citata_rodoma: "visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169945
+    - t-001
+
 - id: c-166890
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -117,4 +115,4 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169946
+    - t-002

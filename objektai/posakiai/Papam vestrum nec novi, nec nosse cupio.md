@@ -53,7 +53,6 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 
 <a id="claim-t-55187"></a>
 - t-001
-  global_id: t-55187
   teiginys: "Krantzas Gediminui priskyrė lotynišką pareiškimą „Papam vestrum nec novi, nec nosse cupio“."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::sayings"
@@ -70,7 +69,6 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 
 <a id="claim-t-55188"></a>
 - t-002
-  global_id: t-55188
   teiginys: "Formulė „Papam vestrum nec novi, nec nosse cupio“ lietuviškai aiškinama kaip „Jūsų Tėvo nei pažinojau, nei trokštu pažinti“."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::sayings"
@@ -88,7 +86,6 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 
 <a id="claim-t-55189"></a>
 - t-003
-  global_id: t-55189
   teiginys: "„Papam vestrum nec novi, nec nosse cupio“ reiškė pareiškimą, kad popiežiaus nei pažinojo, nei troško pažinti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::sayings"
@@ -98,7 +95,6 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 
 <a id="claim-t-82143"></a>
 - t-004
-  global_id: t-82143
   teiginys: "Posakis „Papam vestrum nec novi, nec nosse cupio“ buvo pateiktas kaip atsakymas popiežiaus pasiuntiniams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::sayings"
@@ -131,8 +127,9 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55187
-    - t-55188
+    - t-001
+    - t-002
+
 - id: c-55781
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -156,6 +153,6 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55188
-    - t-55189
-    - t-82143
+    - t-002
+    - t-003
+    - t-004

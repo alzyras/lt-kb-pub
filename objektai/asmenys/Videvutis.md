@@ -31,7 +31,6 @@ Dusburgietis teigia, kad problemą bandyta spręsti dar XV a.: Prūsijos vardas 
 
 <a id="claim-t-60073"></a>
 - t-001
-  global_id: t-60073
   teiginys: "Kai kuriuose šaltiniuose Prūsijos pradžia siejama su Pruteniu ir Videvučiu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Dusburgietis teigia, kad problemą bandyta spręsti dar XV a.: Prūsijos vardas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60073
+    - t-001

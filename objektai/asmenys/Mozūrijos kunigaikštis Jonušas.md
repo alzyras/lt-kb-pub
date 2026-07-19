@@ -40,7 +40,6 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
 
 <a id="claim-t-35250"></a>
 - t-001
-  global_id: t-35250
   teiginys: "Mozūrijos kunigaikštis Jonušas 1380 m. vedė Danutą, kuri krikšte gavo ir Marijos vardą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,16 +69,14 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     kunigaikščio Jono ir apsikrikštijo Marijos vardu. Danuta 1380
     m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama
     taip pat Marijos vardu. 1392 m.
-  citata_rodoma: |
-    Danuta 1380
-    m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama
-    taip pat Marijos vardu. 1392 m.
+  citata_rodoma: "Danuta 1380\nm. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama\ntaip pat Marijos vardu. 1392 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35250
+    - t-001
+
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Danuta]]

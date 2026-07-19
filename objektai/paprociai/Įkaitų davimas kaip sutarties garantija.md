@@ -60,8 +60,7 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
 ## Teiginiai
 
 <a id="claim-t-67236"></a>
-- t-001
-  global_id: t-67236
+- t-009
   teiginys: "1390–1392 m. Vytauto duotų Ordinui įkaitų sąraše minimi du kunigaikščiai – Jurgis ir Jonas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -79,8 +78,7 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     - c-14492
 
 <a id="claim-t-67237"></a>
-- t-002
-  global_id: t-67237
+- t-012
   teiginys: "Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčių žmonės atidavė karaliui savo sūnus įkaitais ir prisiekė paklusti tikėjimui bei broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -96,8 +94,7 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     - c-67233
 
 <a id="claim-t-67238"></a>
-- t-003
-  global_id: t-67238
+- t-007
   teiginys: "Po Jogailos krikšto ir iškilmių lenkai pareikalavo Vytauto, Skirgailos ir kitų kunigaikščių kaip įkaitų, kad būtų garantuotas Jogailos pažadų išpildymas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -113,25 +110,16 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     - c-14490
 
 <a id="claim-t-67239"></a>
-- t-004
-  global_id: t-67239
+- t-013
   teiginys: "Unzatrapio, Gundavos ir Angetetos pilių žmonės atsiuntė įkaitų ir pasidavė krikščionių tikėjimui bei broliams."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Angeteta: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Įkaitų davimas kaip sutarties garantija (sutartis): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Angeteta: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Įkaitų davimas kaip sutarties garantija (sutartis)\" parinktas kaip owner_note_path. Targetas \"Angeteta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-67232
-    - c-005
+    - c-67235
+
 <a id="claim-t-67241"></a>
-- t-005
-  global_id: t-67241
+- t-011
   teiginys: "Pagudėnai, neatlaikę brolių antpuolių, davė įkaitų ir pasidavė krikščionių tikėjimui bei broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -140,8 +128,7 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     - c-67235
 
 <a id="claim-t-67242"></a>
-- t-006
-  global_id: t-67242
+- t-010
   teiginys: "Magistras reikalavo, kad Vytautas duotų bajorų sūnus įkaitais ir išpildytų seniau Ordinui duotus pasižadėjimus."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -159,8 +146,7 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     - c-14493
 
 <a id="claim-t-67243"></a>
-- t-007
-  global_id: t-67243
+- t-006
   teiginys: "1383 m. žemaičiai, atsitraukdami nuo Vilniaus, davė vokiečiams savo įkaitus, nors jie buvo duoti ne nuo visų Žemaitijos sričių."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -192,8 +178,7 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-67239
+
 ## Citatos
 
 - id: c-14489
@@ -213,7 +198,8 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67243
+    - t-006
+
 - id: c-14490
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -230,7 +216,8 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67238
+    - t-007
+
 - id: c-14492
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -241,17 +228,15 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     padaręs, jei iš tikrųjų jo vaikai būtų buvę nužudyti. Gi 1390
     —92 m. Vytauto duotų Ordinui įkaitų sąraše mes randame iš
     tikrųjų du kunigaikščiu: Jurgį ir Joną.
-  citata_rodoma: |
-    1390
-    —92 m. Vytauto duotų Ordinui įkaitų sąraše mes randame iš
-    tikrųjų du kunigaikščiu: Jurgį ir Joną.
+  citata_rodoma: "1390\n—92 m. Vytauto duotų Ordinui įkaitų sąraše mes randame iš\ntikrųjų du kunigaikščiu: Jurgį ir Joną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67236
+    - t-009
+
 - id: c-14493
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -264,19 +249,15 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     šenybę), 2) Vytautas turi atstatyti visas sugriautas Ordino pi­
     lis; duoti bajorų sūnų įkaitais ir 3) išpildyti seniau duotus Or­
     dinui pasižadėjimus.
-  citata_rodoma: |
-    Magistras patiekė tokius reikalavimus Vytautui: 1) Lietuva
-    turi pripažinti popiežiaus ir imperatoriaus supremaciją (vir­
-    šenybę), 2) Vytautas turi atstatyti visas sugriautas Ordino pi­
-    lis; duoti bajorų sūnų įkaitais ir 3) išpildyti seniau duotus Or­
-    dinui pasižadėjimus.
+  citata_rodoma: "Magistras patiekė tokius reikalavimus Vytautui: 1) Lietuva\nturi pripažinti popiežiaus ir imperatoriaus supremaciją (vir­\nšenybę), 2) Vytautas turi atstatyti visas sugriautas Ordino pi­\nlis; duoti bajorų sūnų įkaitais ir 3) išpildyti seniau duotus Or­\ndinui pasižadėjimus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67242
+    - t-010
+
 - id: c-67232
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -288,22 +269,13 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
     336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kair. Alnos krante (aukščiau Auktalito,
     Auglitten); į vakarus nuo kaimo pakrantėje išliko piliakalnis (GAO, p. 47; CV, t. 32, d. 2,
     p. 324), plg. Топоров B. H., Прусский язык, E—H, c.
-  citata_rodoma: |
-    pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja
-    už brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir
-    nuolankiai pasidavė krikščionių tikėjimui ir broliams.
-
-
-
-
-                   76 (75). Apie vienos Notangos dalies nuniokojimą
+  citata_rodoma: "pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja\nuž brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir\nnuolankiai pasidavė krikščionių tikėjimui ir broliams.\n\n\n\n\n               76 (75). Apie vienos Notangos dalies nuniokojimą"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-67239
 - id: c-67233
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -322,7 +294,8 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67237
+    - t-012
+
 - id: c-67235
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -339,4 +312,5 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67241
+    - t-013
+    - t-011

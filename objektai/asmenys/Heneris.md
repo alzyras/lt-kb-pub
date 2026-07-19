@@ -30,7 +30,6 @@ Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų
 
 <a id="claim-t-191413"></a>
 - t-001
-  global_id: t-191413
   teiginys: "Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų tyrinėtoju, Baltarusijoje buvo išgyvenęs per keturiasdešimt metų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174295
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų tyrinėtoju, Baltarusijoje buvo išgyvenęs per keturiasdešimt metų.'
@@ -72,8 +71,7 @@ Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191413
+
 ## Citatos
 
 - id: c-174295
@@ -97,25 +95,14 @@ Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų
     šą trumpo išrašo iš kažkokios senos kronikos; XIV am­
     žiuje rašytos slavų kalba Dombrovskio ar Dubrovskio;
     pirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas.
-  citata_rodoma: |
-    Tačiau tuos, kurie ką nors
-    rasdavo, ištikdavo nelaimės, be to, tokių radinių saugo­
-    jimas laikomas pavojingu dalyku, todėl nežinomas nė
-    vienas, kuris būtų laikęs ką nors panašaus savo rankose.
-    Kai aš ten buvau, dar buvo gyvas Senojo Bychovo
-    apskrities gydytojas ponas Heneris, labai apsišvietęs žmo­
-    gus ir smalsus istorinių dalykų tyrinėtojas, išgyvenęs
-    Baltarusijoje per keturiasdešimt metų. Jis pateikė man
-    daug paaiškinimų apie šiuos dalykus, be to, rodė nuora­
-    šą trumpo išrašo iš kažkokios senos kronikos; XIV am­
-    žiuje rašytos slavų kalba Dombrovskio ar Dubrovskio;
-    pirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas.
+  citata_rodoma: "Tačiau tuos, kurie ką nors\nrasdavo, ištikdavo nelaimės, be to, tokių radinių saugo­\njimas laikomas pavojingu dalyku, todėl nežinomas nė\nvienas, kuris būtų laikęs ką nors panašaus savo rankose.\nKai aš ten buvau, dar buvo gyvas Senojo Bychovo\napskrities gydytojas ponas Heneris, labai apsišvietęs žmo­\ngus ir smalsus istorinių dalykų tyrinėtojas, išgyvenęs\nBaltarusijoje per keturiasdešimt metų. Jis pateikė man\ndaug paaiškinimų apie šiuos dalykus, be to, rodė nuora­\nšą trumpo išrašo iš kažkokios senos kronikos; XIV am­\nžiuje rašytos slavų kalba Dombrovskio ar Dubrovskio;\npirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191413
+    - t-001
+
 ## Ryšiai
 - Heneris gyveno [[objektai/vietos/Baltarusija]]

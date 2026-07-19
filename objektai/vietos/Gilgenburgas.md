@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-177105"></a>
 - t-001
-  global_id: t-177105
   teiginys: "Sąjungininkų kariuomenė paėmė Gilgenburgą ir žygiavo Tannenbergo kryptimi."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ media_all_json: |-
 
 <a id="claim-t-184387"></a>
 - t-002
-  global_id: t-184387
   teiginys: "Ordino didysis magistras Ulrichas von Jungingenas iš pabėgėlių sužinojo, kad sąjungininkai paėmė Gilgenburgą ir žygiavo Tannenbergo link."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -99,7 +97,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177105
+    - t-001
+
 - id: c-167755
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -116,7 +115,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184387
+    - t-002
+
 ## Ryšiai
 - Puolė Gilgenburgą: [[objektai/grupes/Lietuviai]]
 - Užėmė Gilgenburgą: [[objektai/grupes/Lietuviai]]

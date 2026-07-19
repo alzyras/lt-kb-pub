@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-21284"></a>
 - t-001
-  global_id: t-21284
   teiginys: "Isaacas Tayloras veikale „The Origins of the Aryans“ spėliojo, kad arijų kalbos lopšys galėjo būti lietuvių apgyventoje teritorijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,12 +82,11 @@ media_all_json: |-
     karštai kedenta ne tik kavinėse, bet ir prezidentūroje – daugelis Europos
     valstybių jau buvo nacių okupuotos, Lenkija – grobuonių pasidalyta, tad
     ir Baltijos valstybėse suvokta, jog artėja jų eilė.
-  citata_rodoma: |
-    „Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to
+  citata_rodoma: "„Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21284
+    - t-001

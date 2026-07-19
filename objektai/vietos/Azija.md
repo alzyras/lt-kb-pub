@@ -32,7 +32,6 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
 
 <a id="claim-t-188944"></a>
 - t-001
-  global_id: t-188944
   teiginys: "Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia senovę saugančia ir permainas atmetančia dvasia."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -43,10 +42,9 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171833
-    - c-001
+
 <a id="claim-t-192609"></a>
 - t-002
-  global_id: t-192609
   teiginys: "Narbutas Aziją laikė žmonių giminės lopšiu, o Europą, palyginti su Azija ir Afrika, vadino vėliau apgyvendintu ir civilizuotu naujuoju pasauliu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -64,10 +62,9 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175379
-    - c-002
+
 <a id="claim-t-192610"></a>
 - t-003
-  global_id: t-192610
   teiginys: "Narbutas kolchų tautos atsikėlimą kildino iš Azijos gilumos į kraštus į šiaurę nuo Kaspijos ir Juodosios jūrų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -133,8 +130,6 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188944
 - c-002
   santrauka: 'Narbutas Aziją laikė žmonių giminės lopšiu, o Europą, palyginti su Azija ir Afrika, vadino vėliau apgyvendintu ir civilizuotu naujuoju pasauliu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -153,8 +148,7 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192609
+
 ## Citatos
 
 - id: c-171833
@@ -174,21 +168,15 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
     saulio paviršiaus vien todėl, kad jos moralė skyrėsi nuo religi­
     jos vaizdinių, kad dievų žyniai nebuvo filosofai nei filosofijos
     žyniai.
-  citata_rodoma: |
-    Jokia laiko pažanga, jokia civilizuoto pasaulio per­
-    maina nesutrikdo jų stabilios padėties: amžiais jos stovi ant
-    tos pačios pakopos; niekas jų neskatina ieškoti gerovės žen­
-    giant aukščiau; iš kitų tautų, pasisavinusių svetimus daiktus ir
-    atradimus, jie su panieka tyčiojasi. Jie įnirtę persekioja net
-    norą kaip nors pakeisti senovę. Tokia pat dvasia gyveno dau­
-    gybė senųjų Azijos tautų.
+  citata_rodoma: "Jokia laiko pažanga, jokia civilizuoto pasaulio per­\nmaina nesutrikdo jų stabilios padėties: amžiais jos stovi ant\ntos pačios pakopos; niekas jų neskatina ieškoti gerovės žen­\ngiant aukščiau; iš kitų tautų, pasisavinusių svetimus daiktus ir\natradimus, jie su panieka tyčiojasi. Jie įnirtę persekioja net\nnorą kaip nors pakeisti senovę. Tokia pat dvasia gyveno dau­\ngybė senųjų Azijos tautų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188944
+    - t-001
+
 - id: c-175379
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -206,23 +194,15 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
     ten, kur ambrozija sruveno, auksinis, palaimintasis die­
     vų kraštas, hesperidžių sodas, makrobijų1 gyvenamoji
     1 Šis pavadinimas turėtų reikšti kinų protėvius.
-  citata_rodoma: |
-    Tad šį skyrių pirmiausia,
-    kol imsimės tolesnių ieškojimų, skirkime seniausių epo­
-    chų problemoms.
-    11
-    Europa palyginti su Azija ir Afrika yra naujasis pa­
-    saulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau
-    civilizuotas. Didžiulis Azijos žemynas, kurio viduryje yra
-    aukščiausi viso Žemės rutulio kalnai, pagrįstai laikomas
-    žmonių giminės lopšiu.
+  citata_rodoma: "Tad šį skyrių pirmiausia,\nkol imsimės tolesnių ieškojimų, skirkime seniausių epo­\nchų problemoms.\n11\nEuropa palyginti su Azija ir Afrika yra naujasis pa­\nsaulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau\ncivilizuotas. Didžiulis Azijos žemynas, kurio viduryje yra\naukščiausi viso Žemės rutulio kalnai, pagrįstai laikomas\nžmonių giminės lopšiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192609
+    - t-002
+
 - id: c-175380
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -243,4 +223,4 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192610
+    - t-003

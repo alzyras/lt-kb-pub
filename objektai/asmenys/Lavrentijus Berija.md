@@ -40,7 +40,6 @@ Berija ir apie ką jie kalbėjo, iki šiol nežinoma.
 
 <a id="claim-t-19104"></a>
 - t-001
-  global_id: t-19104
   teiginys: "Lavrentijus Berija lankė Joną Žemaitį-Vytautą kameroje, o šis apsilankymas rodo, kad Berija partizaninį karą Lietuvoje laikė rimta grėsme sovietų valdymui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,12 +77,11 @@ Berija ir apie ką jie kalbėjo, iki šiol nežinoma.
     rodo, kad L. Berija pripažino Lie-
     tuvoje vykstantį partizaninį karą
     rimta grėsme sovietų valdymui.
-  citata_rodoma: |
-    nežinoma. Tačiau vien tas faktas
+  citata_rodoma: "nežinoma. Tačiau vien tas faktas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19104
+    - t-001

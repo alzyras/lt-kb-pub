@@ -62,8 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-176197"></a>
-- t-001
-  global_id: t-176197
+- t-013
   teiginys: "Žalgirio mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų sumišimo nesukėlė."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -79,8 +78,7 @@ Nenurodyta
     - c-160232
 
 <a id="claim-t-176198"></a>
-- t-002
-  global_id: t-176198
+- t-011
   teiginys: "Žalgirio mūšyje patrankos buvo vartotos tik pradžioje."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -89,8 +87,7 @@ Nenurodyta
     - c-160233
 
 <a id="claim-t-176199"></a>
-- t-003
-  global_id: t-176199
+- t-010
   teiginys: "XV a. patrankos buvo griozdiškos, didelės, sunkiai pervežamos ir labiau tiko tvirtovėms griauti."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -106,8 +103,7 @@ Nenurodyta
     - c-14335
 
 <a id="claim-t-176200"></a>
-- t-004
-  global_id: t-176200
+- t-012
   teiginys: "Prie Drevencos kryžiuočiai sustiprino upės krantus ir apstatė juos patrankomis."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -124,8 +120,7 @@ Nenurodyta
     - c-14337
 
 <a id="claim-t-176201"></a>
-- t-005
-  global_id: t-176201
+- t-014
   teiginys: "Skirgaila Trakų piliai ginti iš Ordino maršalkos dovanų gavo keletą didelių patrankų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -141,8 +136,7 @@ Nenurodyta
     - c-14339
 
 <a id="claim-t-176203"></a>
-- t-006
-  global_id: t-176203
+- t-018
   teiginys: "Patrankos keldavo daug triukšmo, bet duodavo mažai naudos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -151,8 +145,7 @@ Nenurodyta
     - c-36744
 
 <a id="claim-t-176204"></a>
-- t-007
-  global_id: t-176204
+- t-016
   teiginys: "Žalgirio mūšyje patrankos buvo naudotos mažai ir tik mūšio pradžioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -161,8 +154,7 @@ Nenurodyta
     - c-36744
 
 <a id="claim-t-176205"></a>
-- t-008
-  global_id: t-176205
+- t-017
   teiginys: "Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų kariuomenėje sumišimo nesukėlė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -178,8 +170,7 @@ Nenurodyta
     - c-36745
 
 <a id="claim-t-188385"></a>
-- t-009
-  global_id: t-188385
+- t-001
   teiginys: "Apie Teodorą Narbutą buvo pasklidę gandai, kad jis padėjo 1830-1831 m. sukilėliams lieti patrankas, bet caro valdžia to neįrodė."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -243,7 +234,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176199
+    - t-010
+
 - id: c-14337
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -260,7 +252,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176200
+    - t-012
+
 - id: c-14339
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -285,7 +278,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176201
+    - t-014
+
 - id: c-36744
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -297,19 +291,16 @@ Nenurodyta
     pradžioje tevartojo.
     Kautynėms kariuomenė rikiuodavosi įvairiai — eilėmis,
     trikampiais, keturkampiais.
-  citata_rodoma: |
-    Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik
-    pradžioje tevartojo.
-    Kautynėms kariuomenė rikiuodavosi įvairiai — eilėmis,
-    trikampiais, keturkampiais.
+  citata_rodoma: "Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik\npradžioje tevartojo.\nKautynėms kariuomenė rikiuodavosi įvairiai — eilėmis,\ntrikampiais, keturkampiais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176203
-    - t-176204
+    - t-018
+    - t-016
+
 - id: c-36745
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -329,7 +320,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176205
+    - t-017
+
 - id: c-160232
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -342,18 +334,15 @@ Nenurodyta
     viai, kardai ir kiti ginklai. Tiesa, pačioje mūšio pradžioje kry­
     žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
     gininkų kariuomenėj nesukėlė.
-  citata_rodoma: |
-    Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­
-    viai, kardai ir kiti ginklai. Tiesa, pačioje mūšio pradžioje kry­
-    žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
-    gininkų kariuomenėj nesukėlė.
+  citata_rodoma: "Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­\nviai, kardai ir kiti ginklai. Tiesa, pačioje mūšio pradžioje kry­\nžiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­\ngininkų kariuomenėj nesukėlė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176197
+    - t-013
+
 - id: c-160233
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -364,16 +353,15 @@ Nenurodyta
     švino. Patrankos padarydavo daug triukšmo, bet maža nau­
     dos. Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik
     pradžioje tevartojo.
-  citata_rodoma: |
-    Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik
-    pradžioje tevartojo.
+  citata_rodoma: "Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik\npradžioje tevartojo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176198
+    - t-011
+
 - id: c-171278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -390,4 +378,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188385
+    - t-001

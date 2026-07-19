@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-66382"></a>
-- t-001
-  global_id: t-66382
+- t-002
   teiginys: "Žemaičių medininkai šiame šaltinyje pateikiami kaip atspari ir pajūrį ginanti žemaičių grupė."
   atnaujinta: "2026-05-31 12:44"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66382
+    - t-002

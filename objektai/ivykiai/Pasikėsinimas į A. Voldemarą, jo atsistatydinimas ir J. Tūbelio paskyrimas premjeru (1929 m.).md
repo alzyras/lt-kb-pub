@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20440"></a>
 - t-001
-  global_id: t-20440
   teiginys: "Po 1929 m. gegužės pasikėsinimo į A. Voldemarą rugsėjį atsistatydino ministrai, todėl turėjo atsistatydinti ir premjeras A. Voldemaras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,12 +84,11 @@ Nenurodyta
     ir pradėjo pretenduoti į vienvaldystę šalyje. Po gegužę įvykdyto studen-
     tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
     ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
-  citata_rodoma: |
-    ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
+  citata_rodoma: "ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20440
+    - t-001

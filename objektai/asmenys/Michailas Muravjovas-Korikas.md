@@ -40,7 +40,6 @@ Po sukilimo vykusios represijos sustabdė istoriko planų įgyvendinimą, nors j
 
 <a id="claim-t-87779"></a>
 - t-001
-  global_id: t-87779
   teiginys: "Michailas Muravjovas-Korikas po 1863 m. sukilimo buvo naujai paskirtas Vilniaus generalgubernatorius ir vykdė represijas krašte."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,15 +69,11 @@ Po sukilimo vykusios represijos sustabdė istoriko planų įgyvendinimą, nors j
     jis matė naujai paskirto Vilniaus generalgubernatoriaus Michai­
     lo Muravjovo - Koriko represijas krašte. 1864 m. sausio 1 d.
     M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
-  citata_rodoma: |
-    sukilimas. Po sukilimo
-    vykusios represijos sustabdė istoriko planų įgyvendinimą, nors
-    jis matė naujai paskirto Vilniaus generalgubernatoriaus Michai­
-    lo Muravjovo - Koriko represijas krašte. 1864 m.
+  citata_rodoma: "sukilimas. Po sukilimo \nvykusios represijos sustabdė istoriko planų įgyvendinimą, nors \njis matė naujai paskirto Vilniaus generalgubernatoriaus Michai­\nlo Muravjovo - Koriko represijas krašte. 1864 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87779
+    - t-001

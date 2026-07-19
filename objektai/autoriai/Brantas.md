@@ -30,7 +30,6 @@ Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latv
 
 <a id="claim-t-190418"></a>
 - t-001
-  global_id: t-190418
   teiginys: "Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latvišką maldos „Tėve mūsų“ tekstą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190418
+    - t-001

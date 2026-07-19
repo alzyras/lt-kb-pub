@@ -36,7 +36,6 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
 
 <a id="claim-t-36374"></a>
 - t-001
-  global_id: t-36374
   teiginys: "1416 m. Vytautas Luokėje pastatė vieną iš aštuonių parapijinių bažnyčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,16 +67,11 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
     žiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­
     kimo pasiuntiniai—Lvovo vysk. Jonas ir Vilniaus vysk. Petras
     — buvo Vytauto sutikti ir su dideliu didikų būriu nulydėti į Že-
-  citata_rodoma: |
-    Kaip jau matėme, 1416 metais Vytautas
-    Varniuose pastatė katedrą ir aštuonias parapijines bažnyčias:
-    Viduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­
-    žiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­
-    kimo pasiuntiniai—Lvovo vysk.
+  citata_rodoma: "Kaip jau matėme, 1416 metais Vytautas\nVarniuose pastatė katedrą ir aštuonias parapijines bažnyčias:\nViduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­\nžiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­\nkimo pasiuntiniai—Lvovo vysk."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36374
+    - t-001

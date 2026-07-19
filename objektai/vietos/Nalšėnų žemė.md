@@ -37,7 +37,6 @@ Jie buvo pasiekę Nalšėnų žemę^144.
 
 <a id="claim-t-32385"></a>
 - t-001
-  global_id: t-32385
   teiginys: "Apie 1259 m. totorių chanas Burundajus su Volinijos-Haličo Danieliumi nusiaubė Aukštaitiją ir pasiekė Nalšėnų žemę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,15 +68,11 @@ Jie buvo pasiekę Nalšėnų žemę^144.
     jaus kronika yra užrašiusi, jog apie 1259 m. totorių chanas Burun­
     dajus, drauge su Volinijos-Haličo Danielium nusiaubė Aukštaitiją.
     Jie buvo pasiekę Nalšėnų žemę^144.
-  citata_rodoma: |
-    Ipati­
-    jaus kronika yra užrašiusi, jog apie 1259 m. totorių chanas Burun­
-    dajus, drauge su Volinijos-Haličo Danielium nusiaubė Aukštaitiją.
-    Jie buvo pasiekę Nalšėnų žemę^144.
+  citata_rodoma: "Ipati­\njaus kronika yra užrašiusi, jog apie 1259 m. totorių chanas Burun­\ndajus, drauge su Volinijos-Haličo Danielium nusiaubė Aukštaitiją.\nJie buvo pasiekę Nalšėnų žemę^144."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32385
+    - t-001

@@ -32,8 +32,7 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 ## Teiginiai
 
 <a id="claim-t-26549"></a>
-- t-001
-  global_id: t-26549
+- t-009
   teiginys: "Lietuvoje susiformavusi jidiš kalbos tarmė litviš ilgainiui tapo norminės jidiš kalbos pagrindu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     - c-26792
 
 <a id="claim-t-26550"></a>
-- t-002
-  global_id: t-26550
+- t-008
   teiginys: "Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK erdvės kilę žydai, vadinęsi litvakais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,8 +64,7 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     - c-166841
 
 <a id="claim-t-26551"></a>
-- t-003
-  global_id: t-26551
+- t-007
   teiginys: "Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,8 +80,7 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     - c-26778
 
 <a id="claim-t-183446"></a>
-- t-004
-  global_id: t-183446
+- t-010
   teiginys: "Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš ATR ir LDK erdvės kilę žydai, vadinęsi litvakais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -113,18 +109,15 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
     Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
     nigaikštija.
-  citata_rodoma: |
-    Visą istorinės Lietuvos laiko-
-    tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
-    Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
-    nigaikštija.
+  citata_rodoma: "Visą istorinės Lietuvos laiko-\ntarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi\nLietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-\nnigaikštija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26551
+    - t-007
+
 - id: c-26792
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -134,17 +127,15 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     nai mokėjo visus 64 Talmudo tomus. Be to, Talmudas buvo studijuojamas
     jidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš. Maža to,
     ilgainiui būtent litviš tarmė tapo norminės jidiš kalbos pagrindu.
-  citata_rodoma: |
-    Be to, Talmudas buvo studijuojamas
-    jidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš. Maža to,
-    ilgainiui būtent litviš tarmė tapo norminės jidiš kalbos pagrindu.
+  citata_rodoma: "Be to, Talmudas buvo studijuojamas\njidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš. Maža to,\nilgainiui būtent litviš tarmė tapo norminės jidiš kalbos pagrindu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26549
+    - t-009
+
 - id: c-166841
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -166,5 +157,5 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26550
-    - t-183446
+    - t-008
+    - t-010

@@ -42,7 +42,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 
 <a id="claim-t-35040"></a>
 - t-001
-  global_id: t-35040
   teiginys: "Bonifacas IX 1388–1404 m. kartu su kitais popiežiais siuntė į Malburgą bules, draudusias Vokiečių ordinui pulti lietuvius neofitus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 
 <a id="claim-t-35042"></a>
 - t-002
-  global_id: t-35042
   teiginys: "Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę tarp stačiatikių, patvirtindamas Vladimiro vyskupiją Volynijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 
 <a id="claim-t-184254"></a>
 - t-003
-  global_id: t-184254
   teiginys: "1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII bulėmis draudė Vokiečių ordinui pulti lietuvius kaip neofitus."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -132,7 +129,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35040
+    - t-001
+
 - id: c-37993
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -150,20 +148,15 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     kai, nors daug kur buvo dar kūrenama šventoji lietuvių ugnis
     ir nesigirdėjo bažnyčios varpų, šaukiančių melstis tikrajam
     Dievui.
-  citata_rodoma: |
-    Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir
-    stačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro
-    vyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną
-    Gregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­
-    rėjo tame krašte labiau įsigalėti.
-    Iš čia matome, kad Liet.
+  citata_rodoma: "Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir\nstačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro\nvyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną\nGregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­\nrėjo tame krašte labiau įsigalėti.\nIš čia matome, kad Liet."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35042
+    - t-002
+
 - id: c-167638
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -181,7 +174,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184254
+    - t-003
+
 ## Ryšiai
 - Bonifacas IX siuntė į [[objektai/vietos/Malburgas]]
 - Bonifacas IX paskyrė [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]

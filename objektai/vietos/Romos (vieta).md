@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-200808"></a>
 - t-001
-  global_id: t-200808
   teiginys: "Šv. Kazimiero bažnyčia, pradėta 1604 m. ir baigta 1615 m., pakartojo Romos pavyzdžio planą ir bendrą kompoziciją."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200808
+    - t-001

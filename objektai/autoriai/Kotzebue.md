@@ -32,7 +32,6 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
 
 <a id="claim-t-88072"></a>
 - t-001
-  global_id: t-88072
   teiginys: "Michałas Balińskis Kotzebue Prūsijos istoriją vadino geriausiu paliudijimu apie Foigto pirmtako darbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
 
 <a id="claim-t-200947"></a>
 - t-002
-  global_id: t-200947
   teiginys: "Gediminas, didindamas dar kraitį savo dukters, pažadėjo ūkvaizdžiams 40 000 lenkų kalinių, Lietu voj vergaujančių, namo paleisti, idant jie Aldoną, 1 Kotzebue, Preus."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -119,10 +117,12 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88072
+    - t-001
+
 - id: c-184297
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Gediminas, didindamas dar kraitį savo dukters,
     pažadėjo ūkvaizdžiams 40 000 lenkų kalinių, Lietu­
@@ -134,4 +134,4 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200947
+    - t-002

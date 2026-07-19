@@ -36,7 +36,6 @@ Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.
 
 <a id="claim-t-78125"></a>
 - t-001
-  global_id: t-78125
   teiginys: "1603 m. Insbruke išleistame Jacobo Schrencko „Armamentarium Heroicum“ buvo pavaizduotas Mikalojus Radvila Juodasis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78125
+    - t-001

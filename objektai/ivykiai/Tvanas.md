@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-20523"></a>
 - t-001
-  global_id: t-20523
   teiginys: "Valdant Vazų dinastijai, 1654–1667 m. Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-183280"></a>
 - t-002
-  global_id: t-183280
   teiginys: "Valdant Vazų dinastijai, Lietuvą ir Lenkiją 1654–1667 m. ištiko „tvanas“ – Rusijos ir Švedijos invazija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -135,5 +133,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20523
-    - t-183280
+    - t-001
+    - t-002

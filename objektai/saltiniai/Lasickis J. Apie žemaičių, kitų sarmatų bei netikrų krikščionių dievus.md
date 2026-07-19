@@ -36,7 +36,6 @@ Dusburgietis teigia, kad lasickis J.
 
 <a id="claim-t-61126"></a>
 - t-001
-  global_id: t-61126
   teiginys: "J. Lasickio veikalas „Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus“ išleistas 1969 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,7 @@ Dusburgietis teigia, kad lasickis J.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą ir leidimo metus."
   pagrindžia:
     - c-61758
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Lasickio veikalas „Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus“ išleistas 1969 m.'
@@ -58,8 +57,7 @@ Dusburgietis teigia, kad lasickis J.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61126
+
 ## Citatos
 
 - id: c-61758
@@ -69,12 +67,11 @@ Dusburgietis teigia, kad lasickis J.
   citata_originali: |
     13—34.
     Lasickis J. Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus.—V., 1969.
-  citata_rodoma: |
-    Lasickis J. Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus.—V., 1969.
+  citata_rodoma: "Lasickis J. Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus.—V., 1969."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61126
+    - t-001

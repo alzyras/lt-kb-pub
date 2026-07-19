@@ -36,7 +36,6 @@ Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 124
 
 <a id="claim-t-32045"></a>
 - t-001
-  global_id: t-32045
   teiginys: "Mindaugas 1244 m. žygyje į Kuršą prie Ambotės buvo atvedęs didelę kariuomenę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,16 +68,11 @@ Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 124
     didelę kariuomenę^58. Poezijos rimams suderinti vis didelius skaičius
     vartodamas, Eiliuotinės kronikos autorius rašė, kad Mindaugas ten
     atvedęs 30.000 karių^59.
-  citata_rodoma: |
-    Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai,
-    kad jis 1244 m. savo žygyje į Kuršą prie Ambotės buvo atvedęs
-    didelę kariuomenę^58. Poezijos rimams suderinti vis didelius skaičius
-    vartodamas, Eiliuotinės kronikos autorius rašė, kad Mindaugas ten
-    atvedęs 30.
+  citata_rodoma: "Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai,\nkad jis 1244 m. savo žygyje į Kuršą prie Ambotės buvo atvedęs\ndidelę kariuomenę^58. Poezijos rimams suderinti vis didelius skaičius\nvartodamas, Eiliuotinės kronikos autorius rašė, kad Mindaugas ten\natvedęs 30."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32045
+    - t-001

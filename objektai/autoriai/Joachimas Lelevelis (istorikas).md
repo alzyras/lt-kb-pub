@@ -40,8 +40,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 ## Teiginiai
 
 <a id="claim-t-63305"></a>
-- t-001
-  global_id: t-63305
+- t-002
   teiginys: "Joachimas Lelevelis buvo tarp politiškai nepatikimų profesorių, išvarytų iš universiteto."
   atnaujinta: "2026-05-30 14:17"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     - c-64343
 
 <a id="claim-t-63306"></a>
-- t-002
-  global_id: t-63306
+- t-001
   teiginys: "Joachimas Lelevelis dirbo universitete kaip vienas iš garsių mokslininkų."
   atnaujinta: "2026-05-30 14:17"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 
 <a id="claim-t-188409"></a>
 - t-003
-  global_id: t-188409
   teiginys: "Joachimas Lelevelis dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas istorija."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -98,9 +95,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 
 <a id="claim-t-194662"></a>
 - t-004
-  global_id: t-194662
   teiginys: "18 Lelevelio senovės geografijos tyrimai."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -109,10 +105,9 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177059
-    - c-004
+
 <a id="claim-t-197303"></a>
 - t-005
-  global_id: t-197303
   teiginys: "Joachimas Lelevelis pasidaro šiek tiek didesnė."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -139,8 +134,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194662
+
 ## Citatos
 
 - id: c-64343
@@ -156,19 +150,15 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
     dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
     policiją.
-  citata_rodoma: |
-    Išvaryti ir politiš-
-    kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
-    iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
-    dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
-    policiją.
+  citata_rodoma: "Išvaryti ir politiš-\nkai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino\niš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-\ndos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją\npoliciją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63305
+    - t-002
+
 - id: c-64344
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -190,27 +180,15 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     zefas Frankas (Joseph Frank) – jų
     darbai buvo žinomi tarptautiniu
     mastu.
-  citata_rodoma: |
-    Universi-
-    tete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Le-
-    lewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830),
-    chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liu-
-    dvigas Heinrichas Bojanus (Lu-
-    dwig Heinrich Bojanus) ir Edu-
-    ardas Karolis Eichvaldas (Edward
-    Karol Eichwald), iš Austrijos at-
-    vykę Johanas Pėteris Frankas (Jo-
-    hann Peter Frank) ir jo sūnus Jo-
-    zefas Frankas (Joseph Frank) – jų
-    darbai buvo žinomi tarptautiniu
-    mastu.
+  citata_rodoma: "Universi-\ntete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Le-\nlewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830),\nchemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liu-\ndvigas Heinrichas Bojanus (Lu-\ndwig Heinrich Bojanus) ir Edu-\nardas Karolis Eichvaldas (Edward\nKarol Eichwald), iš Austrijos at-\nvykę Johanas Pėteris Frankas (Jo-\nhann Peter Frank) ir jo sūnus Jo-\nzefas Frankas (Joseph Frank) – jų\ndarbai buvo žinomi tarptautiniu\nmastu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63306
+    - t-001
+
 - id: c-171299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -231,7 +209,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188409
+    - t-003
+
 - id: c-177059
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -245,20 +224,15 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     šiu arba išsikraustydavo iš proto. Bet penktoji deivė - Sargė (Sar-
     gietoje) - tai pastebėjusi, anoms trims primindavo jų priedermes
     ir sergėdavo žmonių likimus.
-  citata_rodoma: |
-    Ši deivė savo reikšme visiškai tapati romėnų žinomam die­
-    vaičiui Quadratus Deus arba Terminus, kurių atvaizdas buvo
-    paprastas, šešiakampiškai tašytas akmuo, dedamas ribų susi­
-    kirtimo vietoje.
-    18 Lelevelio senovės geografijos tyrimai*.
-    19 Kunigo Sirvydo žodynas.
+  citata_rodoma: "Ši deivė savo reikšme visiškai tapati romėnų žinomam die­\nvaičiui Quadratus Deus arba Terminus, kurių atvaizdas buvo\npaprastas, šešiakampiškai tašytas akmuo, dedamas ribų susi­\nkirtimo vietoje.\n18 Lelevelio senovės geografijos tyrimai*.\n19 Kunigo Sirvydo žodynas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194662
+    - t-004
+
 - id: c-179115
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -279,4 +253,4 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197303
+    - t-005

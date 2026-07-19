@@ -45,7 +45,6 @@ Rodūnė čia minima kaip seniūnija.
 
 <a id="claim-t-200574"></a>
 - t-001
-  global_id: t-200574
   teiginys: "1755 m. Jonas Tadas Božimovskis, minimas kaip Rodūnės seniūnas, vedė Ašmenos žemės teisėjienę Salomėją Franckevičovą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -79,22 +78,8 @@ Rodūnė čia minima kaip seniūnija.
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 10"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 10."
-  citata_originali: |
-    Kartais J. D. Lopacins-
-    kio laiškuose būdavo rašoma, kas įvyko LDK sostinėje, pateikiama platesnė ar siauresnė
-    įvykių panorama: kuris didikas atvyko, kuris išvyko, kur apsistojo, ko siekė, ką veikė,
-    ar neįvyko kokių ekscesų. Galima pateikti tokio panoraminio aprašymo pavyzdžių.
-    Pvz., 1755 m. kanauninkas rašė, esą seimelių savaitė prasidėjo nuo Ašmenos žemės tei-
-    sėjienės Salomėjos Franckevičovos (Salomea Franckewiczowa) vedybų su Lydos pavieto
-    stalininku, Rodūnės seniūnu Jonu Tadu Božimovskiu (Jan Tadeusz Borzymowski) [96].
-  citata_rodoma: |
-    Pvz., 1755 m. kanauninkas rašė, esą seimelių savaitė prasidėjo nuo Ašmenos žemės tei-
-    sėjienės Salomėjos Franckevičovos (Salomea Franckewiczowa) vedybų su Lydos pavieto
-    stalininku, Rodūnės seniūnu Jonu Tadu Božimovskiu (Jan Tadeusz Borzymowski) [96].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200574
+    - t-001

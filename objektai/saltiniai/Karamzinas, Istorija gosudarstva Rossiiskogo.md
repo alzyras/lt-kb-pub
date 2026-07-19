@@ -30,7 +30,6 @@ Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė
 
 <a id="claim-t-191726"></a>
 - t-001
-  global_id: t-191726
   teiginys: "Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė buvo senovės pilis Witsby prie Dauguvos, dabartinio Vitebsko vietoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė
 
 <a id="claim-t-191727"></a>
 - t-002
-  global_id: t-191727
   teiginys: "Teodoras Narbutas Karamzinui priskyrė aiškinimą, kad Serkel, Biala wieza, Biata wies ir Bieloserkal reiškia baltą namą, palapinę, turgų, užeigą ar smuklę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -92,7 +90,8 @@ Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191726
+    - t-001
+
 - id: c-174609
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -112,4 +111,4 @@ Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191727
+    - t-002

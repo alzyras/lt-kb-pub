@@ -32,7 +32,6 @@ Steponas Batoras, Kauno burmistrų ir tarėjų prašomas, atsižvelgė į senovi
 
 <a id="claim-t-202257"></a>
 - t-001
-  global_id: t-202257
   teiginys: "Steponas Batoras, Kauno burmistrų ir tarėjų prašomas, atsižvelgė į senovinius papročius ir paskelbtoje privilegijoje pareiškė skelbsiantis Kauno miesto vaitu vieną iš keturių Kauno burmistrų, tarėjų ir miestiečių bendruomenės pasiūlytų kandidatų į tas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Steponas Batoras, Kauno burmistrų ir tarėjų prašomas, atsižvelgė į senovi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202257
+    - t-001

@@ -7,12 +7,12 @@ datos:
   - '1500 m.'
 date_start: '1500'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XV'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Antai 1500 m. Tripolio kaimą gavusiam Kijevo bajorui Danieliui Dadikovičiui nu
 
 <a id="claim-t-202334"></a>
 - t-001
-  global_id: t-202334
   teiginys: "Antai 1500 m. Tripolio kaimą gavusiam Kijevo bajorui Danieliui Dadikovičiui nustatytas metinis mokestis – penki vežimai šieno ir dvi lapenos29."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,5 @@ Antai 1500 m. Tripolio kaimą gavusiam Kijevo bajorui Danieliui Dadikovičiui nu
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202334
+    - t-001

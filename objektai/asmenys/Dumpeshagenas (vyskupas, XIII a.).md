@@ -41,7 +41,6 @@ Vos buvo beketąs naujasis mistras Dumpeshagenas su pagal ba Tarapato vyskupo ki
 
 <a id="claim-t-201407"></a>
 - t-001
-  global_id: t-201407
   teiginys: "Vos buvo beketąs naujasis mistras Dumpeshagenas su pagal ba Tarapato vyskupo kitus vyskupus nuo reikalo arkivyskupo atskiesti, tą nujautęs arkivyskupas grobė ginklą iš visos galios ir liepė ne vien baž nyčiose melstis, idant viešpats Dievas padėtų kalavijonų."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,9 @@ Vos buvo beketąs naujasis mistras Dumpeshagenas su pagal ba Tarapato vyskupo ki
 ## Citatos
 
 - id: c-184757
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Arkivyskupas Ry­
     gos, jausdamas artimą audrą ir pavojų, stiprią pilį,
@@ -84,4 +84,4 @@ Vos buvo beketąs naujasis mistras Dumpeshagenas su pagal ba Tarapato vyskupo ki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201407
+    - t-001

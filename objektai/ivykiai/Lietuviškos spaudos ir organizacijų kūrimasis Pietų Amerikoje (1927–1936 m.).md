@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-66667"></a>
 - t-001
-  global_id: t-66667
   teiginys: "Sao Paule buvo suorganizuota lietuvių parapija ir pastatyta bažnyčia, pašventinta 1936 m. vasario 16 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-66668"></a>
 - t-002
-  global_id: t-66668
   teiginys: "Kunigas T. Radžius Urugvajuje subūrė tautiškas lietuvių organizacijas į Urugvajaus Lietuvių Klubą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-66669"></a>
 - t-003
-  global_id: t-66669
   teiginys: "1929 m. į Sao Paulą atvykęs pirmasis Lietuvos konsulas rėmė lietuvių organizacijas, spaudą, mokyklų kūrimą ir parapijos organizavimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,17 +87,15 @@ Nenurodyta
     visokių išnaudotojų ir kenksmingo komunistų darbo. Be to,
     jam teko paremti organizacijas, spaudą, mokyklų kūrimą, pa-
     rapijos organizavimą.
-  citata_rodoma: |
-    1929 m. į Sao Paulą atvykusiam pirmajam Lietuvos konsului teko sunkus uždavinys — lietuvių veikimą apvalyti nuo visokių išnaudotojų ir kenksmingo komunistų darbo. Be to,
-    jam teko paremti organizacijas, spaudą, mokyklų kūrimą, pa-
-    rapijos organizavimą.
+  citata_rodoma: "1929 m. į Sao Paulą atvykusiam pirmajam Lietuvos konsului teko sunkus uždavinys — lietuvių veikimą apvalyti nuo visokių išnaudotojų ir kenksmingo komunistų darbo. Be to,\njam teko paremti organizacijas, spaudą, mokyklų kūrimą, pa-\nrapijos organizavimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66669
+    - t-003
+
 - id: c-66863
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -114,19 +109,15 @@ Nenurodyta
     kykla (joje yra apie 100 mokinių). Visos tautiškos organiza-
     cijos to paties kun. Radžiaus buvo suburtos į vieną centrą,
     pavadintą Urugvajaus Lietuvių Klubu.
-  citata_rodoma: |
-    Jo rūpesčiu buvo įkurta lietuvių katalikų bend-
-    ruomenė, nemaža kitų organizacijų ir lietuviškoji 3 skyrių mo-
-    kykla (joje yra apie 100 mokinių). Visos tautiškos organiza-
-    cijos to paties kun. Radžiaus buvo suburtos į vieną centrą,
-    pavadintą Urugvajaus Lietuvių Klubu.
+  citata_rodoma: "Jo rūpesčiu buvo įkurta lietuvių katalikų bend-\nruomenė, nemaža kitų organizacijų ir lietuviškoji 3 skyrių mo-\nkykla (joje yra apie 100 mokinių). Visos tautiškos organiza-\ncijos to paties kun. Radžiaus buvo suburtos į vieną centrą,\npavadintą Urugvajaus Lietuvių Klubu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66668
+    - t-002
+
 - id: c-66866
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -137,14 +128,11 @@ Nenurodyta
     simas čia jau yra įėjęs į tinkamas vėžes. Be to, Sao Paule jau su-
     organizuota lietuviškoji parapija ir pastatyta bažnyčia (pašven-
     tinta 1936 m. vasario 16 d.).
-  citata_rodoma: |
-    Be to, Sao Paule jau su-
-    organizuota lietuviškoji parapija ir pastatyta bažnyčia (pašven-
-    tinta 1936 m. vasario 16 d.).
+  citata_rodoma: "Be to, Sao Paule jau su-\norganizuota lietuviškoji parapija ir pastatyta bažnyčia (pašven-\ntinta 1936 m. vasario 16 d.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66667
+    - t-001

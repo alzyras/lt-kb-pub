@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-40693"></a>
 - t-001
-  global_id: t-40693
   teiginys: "Armatūros nuopjova, įstatyta į guminę žarną, datuojama 1991 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,12 +75,11 @@ Nenurodyta
   citata_originali: |
     p. 252, Armatūros nuopjova, įstatyta į guminę žarną. 1991 m., VDKM, Artūro Užgalio nuotr.
     p. 252, Armatūros nuopjovos. 1991 m., VDKM, Artūro Užgalio nuotr.
-  citata_rodoma: |
-    p. 252, Armatūros nuopjova, įstatyta į guminę žarną. 1991 m., VDKM, Artūro Užgalio nuotr.
+  citata_rodoma: "p. 252, Armatūros nuopjova, įstatyta į guminę žarną. 1991 m., VDKM, Artūro Užgalio nuotr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40693
+    - t-001

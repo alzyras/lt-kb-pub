@@ -31,7 +31,6 @@ Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 2
 
 <a id="claim-t-38624"></a>
 - t-001
-  global_id: t-38624
   teiginys: "Lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 2
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38624
+    - t-001

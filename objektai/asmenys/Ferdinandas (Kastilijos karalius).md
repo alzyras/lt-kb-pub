@@ -38,21 +38,19 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
 ## Teiginiai
 
 <a id="claim-t-60113"></a>
-- t-001
-  global_id: t-60113
+- t-002
   teiginys: "Be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-60745
-    - c-001
+
 <a id="claim-t-60114"></a>
-- t-002
-  global_id: t-60114
+- t-001
   teiginys: "Ferdinandas, Kastilijos karalius, nugalėjo Granados saracėnų karalių, kuris vėliau mokėjo jam duoklę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Saracėnai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -70,7 +68,6 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
 
 <a id="claim-t-197076"></a>
 - t-003
-  global_id: t-197076
   teiginys: "Ferdinandas (Kastilijos karalius) atsisakė jam į žmonas pažadėtos Austrijos kunigaikščio dukters ir, uoliai laikydamasis švento sumanymo, papasakojo savo patikėtiniams, kaip viskas atsitiko, pasiūlydamas, kad ir jie iš pagarbos dievui bei jam įstotų į šį ordiną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -93,8 +90,7 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60113
+
 ## Citatos
 
 - id: c-60745
@@ -106,16 +102,15 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
     dovanojamas už nusikaltimą. Jam landgrafas tarė: „Kaip tu drįsai man į akis pasirodyti?“
     Šis atsakė: „Atėjau pas jus, pasitikėdamas jūsų nepaprastu maloningumu ir atlaidumu,
     nes kaip ir jūs tvirtai iš grynos širdies pasiryžau stoti į Teutonų namų ordiną“.
-  citata_rodoma: |
-    Be to, ten buvo
-    parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart. p. 400; Ptol. 21,34).
+  citata_rodoma: "Be to, ten buvo\nparašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart. p. 400; Ptol. 21,34)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60113
+    - t-002
+
 - id: c-60746
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -128,19 +123,12 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
     dėjosi, vienas riteris su daugybe ginklanešių žiauriai apiplėšė šio landgrafo žemę; kai jis
     traukė atgal, jį pasitiko tarnas, atskubėjęs iš jo pilies, ir pranešė, jog jo žmona atidavė
     dievui sielą tą pačią valandą, kai, skausmų paguldyta, pagimdė negyvą berniuką.
-  citata_rodoma: |
-    Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių
-
-      Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių,
-      596 1241 m. įvykiai.
-
-    kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.
-    21,33).
+  citata_rodoma: "Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių\n\n  Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių,\n  596 1241 m. įvykiai.\n\nkuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.\n21,33)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60114
-    - t-197076
+    - t-001
+    - t-003

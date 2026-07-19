@@ -39,7 +39,6 @@ Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos perkėlimas į Vl
 
 <a id="claim-t-32682"></a>
 - t-001
-  global_id: t-32682
   teiginys: "1300 m. metropolitas Maksimas perkėlė Kijevo metropolijos rezidenciją į Vladimirą prie Kliazmos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,16 +69,11 @@ Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos perkėlimas į Vl
     1300 m. metropolitas Maksimas), Lietuvos valstybingumui stačia­
     tikių plotuose augino rimtą pavojų. Tik Algirdui vėl pasisekė (1353)
     šimtui metų laimėti atskirus metropolitus Lietuvai.
-  citata_rodoma: |
-    Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos
-    perkėlimas į Vladimirą (prie Kliazmos) Maskvos žemėse (tai atliko
-    1300 m. metropolitas Maksimas), Lietuvos valstybingumui stačia­
-    tikių plotuose augino rimtą pavojų. Tik Algirdui vėl pasisekė (1353)
-    šimtui metų laimėti atskirus metropolitus Lietuvai.
+  citata_rodoma: "Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos\nperkėlimas į Vladimirą (prie Kliazmos) Maskvos žemėse (tai atliko\n1300 m. metropolitas Maksimas), Lietuvos valstybingumui stačia­\ntikių plotuose augino rimtą pavojų. Tik Algirdui vėl pasisekė (1353)\nšimtui metų laimėti atskirus metropolitus Lietuvai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32682
+    - t-001

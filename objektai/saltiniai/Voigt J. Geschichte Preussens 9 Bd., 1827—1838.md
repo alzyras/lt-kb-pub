@@ -36,21 +36,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad voigt J.
 
-## Teiginiai
-
-<a id="claim-t-61353"></a>
-- t-001
-  global_id: t-61353
-  teiginys: "J. Voigto „Geschichte Preussens“ sudarė 9 tomai, leisti Karaliaučiuje 1827–1838 m."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1827-1838; įvykio data: 1838 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nurodo tomų skaičių, leidimo vietą ir metų intervalą."
-  pagrindžia:
-    - c-61985
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Voigto „Geschichte Preussens“ sudarė 9 tomai, leisti Karaliaučiuje 1827–1838 m.'
@@ -63,8 +48,7 @@ Dusburgietis teigia, kad voigt J.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61353
+
 ## Citatos
 
 - id: c-61985
@@ -76,13 +60,25 @@ Dusburgietis teigia, kad voigt J.
     местных названий. — Балто-славянские исследования 1980, М., 1981, с. 112—131.
     Палмайтис Л. Прусское deiwas, санскритское devásya, литовское diẽvojis и
     русское евоный: Мифический формант генитива *-sio и отгенитивное склонение.
-  citata_rodoma: |
-    Voigt J. Geschichte Preussens: 9 Bd., 1827—1838.— Königsberg.— Bd. 1, 1827; Bd.
-    2, 1827; Bd. 3, 1828.
+  citata_rodoma: "Voigt J. Geschichte Preussens: 9 Bd., 1827—1838.— Königsberg.— Bd. 1, 1827; Bd.\n2, 1827; Bd. 3, 1828."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61353
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-61353"></a>
+- t-001
+  teiginys: "J. Voigto „Geschichte Preussens“ sudarė 9 tomai, leisti Karaliaučiuje 1827–1838 m."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1827-1838; įvykio data: 1838 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nurodo tomų skaičių, leidimo vietą ir metų intervalą."
+  pagrindžia:
+    - c-61985

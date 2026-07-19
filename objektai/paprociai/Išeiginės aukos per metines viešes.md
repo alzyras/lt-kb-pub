@@ -46,8 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07768"></a>
-- t-001
-  global_id: t-07768
+- t-002
   teiginys: "Per metines viešes viršaitis ar viršininkas kartu su žyniais ir svietu atlikdavo viešą aukos apeigą po didžiuoju ąžuolu."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -73,20 +72,15 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Išeiginėse aukose, beje, ant metinių viešių, arba švenčių, aukavo viršaitis ar viršininkas
-    vaideliotų, arba žynių, susirinkus taip pat svietui vienos apygardos į pašėtrį po visų dideliuoju
-    ąžuolu, kame šventa ugnis kūrinos. Viršaitis, paėmęs duonos šmotelį ant torieliaus^949 ir midaus
-    kaušą ar taurę ir tuo nešinas, tris kartus apėjo apie stalą ir tenai padėjo duoną ir taurę. Tad prie
-    aukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom.
-  citata_rodoma: |
-    Išeiginėse aukose, beje, ant metinių viešių, arba švenčių, aukavo viršaitis ar viršininkas
-    vaideliotų, arba žynių, susirinkus taip pat svietui vienos apygardos į pašėtrį po visų dideliuoju
-    ąžuolu, kame šventa ugnis kūrinos. Viršaitis, paėmęs duonos šmotelį ant torieliaus^949 ir midaus
-    kaušą ar taurę ir tuo nešinas, tris kartus apėjo apie stalą ir tenai padėjo duoną ir taurę. Tad prie
-    aukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom.
+        vaideliotų, arba žynių, susirinkus taip pat svietui vienos apygardos į pašėtrį po visų dideliuoju
+        ąžuolu, kame šventa ugnis kūrinos. Viršaitis, paėmęs duonos šmotelį ant torieliaus^949 ir midaus
+        kaušą ar taurę ir tuo nešinas, tris kartus apėjo apie stalą ir tenai padėjo duoną ir taurę. Tad prie
+        aukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom.
+  citata_rodoma: "Išeiginėse aukose, beje, ant metinių viešių, arba švenčių, aukavo viršaitis ar viršininkas\nvaideliotų, arba žynių, susirinkus taip pat svietui vienos apygardos į pašėtrį po visų dideliuoju\nąžuolu, kame šventa ugnis kūrinos. Viršaitis, paėmęs duonos šmotelį ant torieliaus^949 ir midaus\nkaušą ar taurę ir tuo nešinas, tris kartus apėjo apie stalą ir tenai padėjo duoną ir taurę. Tad prie\naukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07768
+    - t-002

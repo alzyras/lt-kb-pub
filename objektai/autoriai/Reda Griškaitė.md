@@ -41,8 +41,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 ## Teiginiai
 
 <a id="claim-t-88040"></a>
-- t-001
-  global_id: t-88040
+- t-002
   teiginys: "Reda Griškaitė 2005 m. Vilniuje paskelbė darbą „Mykolas Balinskis: kova dėl istorijos?“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
     - c-84020
 
 <a id="claim-t-88041"></a>
-- t-002
-  global_id: t-88041
+- t-001
   teiginys: "Reda Griškaitė parašė studiją, skirtą M. Balinskio biografijos vingiams ir jo meto istorinėms realijoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,6 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 
 <a id="claim-t-190789"></a>
 - t-003
-  global_id: t-190789
   teiginys: "Reda Griškaitė Narbuto LTI piešiamą vaizdą apibūdino kaip individualų ir asmeninį istorijos suvokimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -90,7 +87,6 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173671
-    - c-003
 - susijęs iš [[objektai/autoriai/E. Aleksandravičius.md#claim-t-187793|E. Aleksandravičius]]: E. Aleksandravičius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
 - susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188052|Norbertas Vėlius]]: Norbertas Vėlius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
 - susijęs iš [[objektai/autoriai/V. Visockas.md#claim-t-187944|V. Visockas]]: V. Visockas buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
@@ -123,8 +119,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190789
+
 ## Citatos
 
 - id: c-84019
@@ -137,19 +132,15 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
     ta kultūros istorikės Redos Griškaitės studija. Svarbi tyrinėtojos
     išvada, jog „susidaro įspūdis, kad jis niekuomet ir nebuvo „tik­
     rasis" romantikas - tik „naujasis klasikas".
-  citata_rodoma: |
-    Balinskį, kurios autorius - Lietuvos lenkas. Savotiškai isto­
-    riko biografijos vingių ir ano meto istorinių realijų analizei skir­
-    ta kultūros istorikės Redos Griškaitės studija. Svarbi tyrinėtojos
-    išvada, jog „susidaro įspūdis, kad jis niekuomet ir nebuvo „tik­
-    rasis" romantikas - tik „naujasis klasikas".
+  citata_rodoma: "Balinskį, kurios autorius - Lietuvos lenkas. Savotiškai isto­\nriko biografijos vingių ir ano meto istorinių realijų analizei skir­\nta kultūros istorikės Redos Griškaitės studija. Svarbi tyrinėtojos \nišvada, jog „susidaro įspūdis, kad jis niekuomet ir nebuvo „tik­\nrasis\" romantikas - tik „naujasis klasikas\"."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88041
+    - t-001
+
 - id: c-84020
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -167,7 +158,8 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88040
+    - t-002
+
 - id: c-173671
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -184,24 +176,11 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
     Istorijoje tiesa yra geležinė
     būtinybė, ir nereikėtų manyti, jog
     ji kada nors gali pakenkti.
-  citata_rodoma: |
-    Taigi T. Narbutas, nors gerai
-    išmanė savo profesijos paslaptis, puikiai valdė plunksną
-    ir žinojo savo meto keliamus reikalavimus, stengėsi pa­
-    brėžti, jog LTI piešiamas vaizdas — tai jo individualus,
-    asmeninis suvokimas, nuo jo pabėgti neįmanoma, be to,
-    ir nebūtina. Kiekvienas rašo savo istoriją.
-    Reda Griškaitė
-
-    ## Puslapis 22
-
-    Istorijoje tiesa yra geležinė
-    būtinybė, ir nereikėtų manyti, jog
-    ji kada nors gali pakenkti.
+  citata_rodoma: "Taigi T. Narbutas, nors gerai\nišmanė savo profesijos paslaptis, puikiai valdė plunksną\nir žinojo savo meto keliamus reikalavimus, stengėsi pa­\nbrėžti, jog LTI piešiamas vaizdas — tai jo individualus,\nasmeninis suvokimas, nuo jo pabėgti neįmanoma, be to,\nir nebūtina. Kiekvienas rašo savo istoriją.\nReda Griškaitė\n\n## Puslapis 22\n\nIstorijoje tiesa yra geležinė\nbūtinybė, ir nereikėtų manyti, jog\nji kada nors gali pakenkti."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190789
+    - t-003

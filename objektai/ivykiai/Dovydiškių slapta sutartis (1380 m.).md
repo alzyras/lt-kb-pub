@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-35827"></a>
 - t-001
-  global_id: t-35827
   teiginys: "Vytautas dalyvavo Dovydiškių medžioklėje, bet nepastebėjo, kad buvo sudaryta slapta sutartis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,6 @@ Nenurodyta
 
 <a id="claim-t-184231"></a>
 - t-002
-  global_id: t-184231
   teiginys: "Dovydiškių slaptos sutarties sudarymo Vytautas nepastebėjo, nors dalyvavo medžioklėje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -108,7 +106,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35827
+    - t-001
+
 - id: c-167615
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -126,4 +125,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184231
+    - t-002

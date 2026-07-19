@@ -39,8 +39,7 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
 ## Teiginiai
 
 <a id="claim-t-63665"></a>
-- t-001
-  global_id: t-63665
+- t-002
   teiginys: "J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
     - c-64643
 
 <a id="claim-t-63666"></a>
-- t-002
-  global_id: t-63666
+- t-003
   teiginys: "J. Kraševskio kūrybai priskiriama didelė reikšmė lietuvių tautinės savimonės plėtotei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,15 +88,15 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
     Lietuvos istorijai iki Liublino unijos. Čia rašė produktyvusis lenkų rašyto-
     jas, Lietuvos (LDK) patriotas J. I. Kraševskis, 1841–1851 m. Vilniuje leidęs
     kultūrinio pobūdžio žurnalą „Atheneum“.
-  citata_rodoma: |
-    jas, Lietuvos (LDK) patriotas J. I. Kraševskis, 1841–1851 m. Vilniuje leidęs
+  citata_rodoma: "jas, Lietuvos (LDK) patriotas J. I. Kraševskis, 1841–1851 m. Vilniuje leidęs"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63665
+    - t-002
+
 - id: c-64644
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -114,12 +112,11 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
     monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
     pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos
     Žymantienės-Žemaitės sodri realistinė sociali proza.
-  citata_rodoma: |
-    liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,
+  citata_rodoma: "liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63666
+    - t-003

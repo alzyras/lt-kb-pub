@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-20525"></a>
 - t-001
-  global_id: t-20525
   teiginys: "Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą, pagal kurį apie 20 proc. biudžeto turėjo būti skirta krašto gynybai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,12 +88,11 @@ Nenurodyta
     Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m.
     Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą –
     apie 20 proc. biudžeto teko skirti krašto gynybos reikalams.
-  citata_rodoma: |
-    Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą –
+  citata_rodoma: "Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą –"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20525
+    - t-001

@@ -31,7 +31,6 @@ Tuo pat metu pasigirdo ir sukilėlių (lenkų) 1-ojo ulonų pulko eskadronų vad
 
 <a id="claim-t-38991"></a>
 - t-001
-  global_id: t-38991
   teiginys: "Sukilėlių 1-ojo ulonų pulko ataka perkirto ir išsklaidė Orenburgo ulonų pulką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Tuo pat metu pasigirdo ir sukilėlių (lenkų) 1-ojo ulonų pulko eskadronų vad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38991
+    - t-001

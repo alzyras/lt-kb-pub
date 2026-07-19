@@ -45,9 +45,8 @@ Nenurodyta
 
 <a id="claim-t-189708"></a>
 - t-001
-  global_id: t-189708
   teiginys: "Narbutas spėjo, kad minėtame panteone galėjo būti dievų stabų rinkinys, nors smulkmenų apie jį neturėta."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -56,12 +55,11 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172591
-    - c-001
+
 <a id="claim-t-189709"></a>
 - t-002
-  global_id: t-189709
   teiginys: "Narbutas teigė, kad tikėjimo vadovai veikė visuomenę nešiodamiesi baisios išvaizdos Pokliaus stabuką ir pranašaudami dievų bausmes bei dovanas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,10 +68,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172592
-    - c-002
+
 <a id="claim-t-197239"></a>
 - t-003
-  global_id: t-197239
   teiginys: "Tačiau vėlesniais stabmeldiškosios Lietuvos laikais tas au toritetas smarkiai sukasdieniškėjo ir, kaip liudija kai kurie is torijos paminklai, vyriausiasis žynys ėmė dažniau rodytis."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -101,8 +98,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189708
 - c-002
   santrauka: 'Narbutas teigė, kad tikėjimo vadovai veikė visuomenę nešiodamiesi baisios išvaizdos Pokliaus stabuką ir pranašaudami dievų bausmes bei dovanas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -122,8 +117,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189709
+
 ## Citatos
 
 - id: c-172591
@@ -139,21 +133,15 @@ Nenurodyta
     tai minima J. F. R. kronikoje, iš kurios pateikiu pažodinę iš­
     trauką: „Trakai - vienas iš seniausių Lietuvos miestų - seniau
     vadinosi Ghurgani.
-  citata_rodoma: |
-    273
-
-    ## Puslapis 273
-
-    įtvirtinimai18. Kalnas, arba Kolnas; etimologinė Kol prasmė -
-    kalnas, iškili vieta. Tačiau smulkmenų apie tą panteoną ne­
-    turime; reikėtų manyti, kad jame turėjo būti stabų rinkinys.
+  citata_rodoma: "273\n\n## Puslapis 273\n\nįtvirtinimai18. Kalnas, arba Kolnas; etimologinė Kol prasmė -\nkalnas, iškili vieta. Tačiau smulkmenų apie tą panteoną ne­\nturime; reikėtų manyti, kad jame turėjo būti stabų rinkinys."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189708
+    - t-001
+
 - id: c-172592
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -173,24 +161,15 @@ Nenurodyta
     Tačiau vėlesniais stabmeldiškosios Lietuvos laikais tas au­
     toritetas smarkiai sukasdieniškėjo ir, kaip liudija kai kurie is­
     torijos paminklai, vyriausiasis žynys ėmė dažniau rodytis.
-  citata_rodoma: |
-    Politinė padėtis jau buvo
-    nepalanki senajai religinei santvarkai, todėl tikėjimo galvos
-    autoritetas pamažu turėjo silpnėti15.
-    Vis dėlto jie darė didelę įtaką visuomenės mąstymui -  ar
-    tai nešiodamiesi užantyje baisios išvaizdos Pokliaus stabuką,
-    ar tai pranašaudami baisius dalykus, bausmes ir dovanas, ku­
-    rias galį atsiųsti dievai, su kuriais jie kuo artimiausiai bendraują;
-    pagaliau įtikinėdami žmones, kad mirusiųjų vėlės galinčios pa­
-    sirodyti, ir kitokiais panašiais prasimanymais. Mat sumanęs
-    14 Schütz.
+  citata_rodoma: "Politinė padėtis jau buvo\nnepalanki senajai religinei santvarkai, todėl tikėjimo galvos\nautoritetas pamažu turėjo silpnėti15.\nVis dėlto jie darė didelę įtaką visuomenės mąstymui -  ar\ntai nešiodamiesi užantyje baisios išvaizdos Pokliaus stabuką,\nar tai pranašaudami baisius dalykus, bausmes ir dovanas, ku­\nrias galį atsiųsti dievai, su kuriais jie kuo artimiausiai bendraują;\npagaliau įtikinėdami žmones, kad mirusiųjų vėlės galinčios pa­\nsirodyti, ir kitokiais panašiais prasimanymais. Mat sumanęs\n14 Schütz."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189709
+    - t-002
+
 - id: c-179080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -211,4 +190,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197239
+    - t-003

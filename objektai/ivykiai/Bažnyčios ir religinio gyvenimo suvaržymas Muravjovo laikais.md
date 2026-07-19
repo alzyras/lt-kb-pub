@@ -47,8 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66488"></a>
-- t-001
-  global_id: t-66488
+- t-002
   teiginys: "Muravjovo laikais buvo uždarytos 32 su sukilimu sietos bažnyčios, 52 koplyčios ir apie 20 vienuolynų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Nenurodyta
     - c-66705
 
 <a id="claim-t-66489"></a>
-- t-002
-  global_id: t-66489
+- t-001
   teiginys: "Muravjovo laikais buvo uždrausta statyti naujas ir remontuoti senas bažnyčias, rengti procesijas ir viešai sakyti pamokslus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,8 +65,7 @@ Nenurodyta
     - c-66703
 
 <a id="claim-t-66490"></a>
-- t-003
-  global_id: t-66490
+- t-004
   teiginys: "Muravjovo laikais Žemaičių vyskupui su įstaigomis buvo įsakyta persikelti iš Varnių į Kauną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +74,7 @@ Nenurodyta
     - c-66706
 
 <a id="claim-t-66492"></a>
-- t-004
-  global_id: t-66492
+- t-003
   teiginys: "Muravjovo laikais Lietuvos kaimuose ir pakelėse kryžius buvo uždrausta statyti be leidimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,7 +104,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66489
+    - t-001
+
 - id: c-66705
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -128,7 +125,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66488
+    - t-002
+
 - id: c-66706
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -146,7 +144,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66490
+    - t-004
+
 - id: c-66707
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -164,4 +163,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66492
+    - t-003

@@ -47,9 +47,8 @@ Nenurodyta
 
 <a id="claim-t-189946"></a>
 - t-001
-  global_id: t-189946
   teiginys: "Narbutas vaidilus apibūdina kaip dvasios ir kūno gydytojus, kurie ramindavo ligonius, skatindavo apžadus ir naudodavo Amžinosios ugnies pelenus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172829
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas vaidilus apibūdina kaip dvasios ir kūno gydytojus, kurie ramindavo ligonius, skatindavo apžadus ir naudodavo Amžinosios ugnies pelenus.'
@@ -86,8 +85,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189946
+
 ## Citatos
 
 - id: c-172829
@@ -107,21 +105,11 @@ Nenurodyta
     talinius daiktus, o antrieji šnibždėdavo maldas ir tyloje kalbė­
     davosi su vėlėmis. Apie juos dar kalbėsime straipsnyje „Lai­
     dotuvių papročiai“.
-  citata_rodoma: |
-    Visi vaidilos buvo dvasios ir kūno gydytojai. „Kai tik kas
-    nors susirgdavo, tuojau siųsdavo pas vaidilą. Šis iš pradžių nu­
-    ramindavo ligonį, tikindamas, kad jeigu dievai lėmę jam mir­
-    ti, tai rasiąs pas juos laimingą gyvenimą. Jeigu liga užtrukdavo
-    daugiau nei keturis mėnesius, ligonis darydavo kokius nors
-    apžadus, įsipareigodamas dievams juos įvykdyti, kai tik pa­
-    sveiks, tačiau jeigu ir tai nepadėdavo, būdavo griebiamasi pas­
-    kutinio vaisto, tai yra atnešdavo pelenų iš Amžinosios ugnies
-    aukuro ir juos su visokiomis apeigomis panaudodavo ligai iš­
-    ginti“25.
+  citata_rodoma: "Visi vaidilos buvo dvasios ir kūno gydytojai. „Kai tik kas\nnors susirgdavo, tuojau siųsdavo pas vaidilą. Šis iš pradžių nu­\nramindavo ligonį, tikindamas, kad jeigu dievai lėmę jam mir­\nti, tai rasiąs pas juos laimingą gyvenimą. Jeigu liga užtrukdavo\ndaugiau nei keturis mėnesius, ligonis darydavo kokius nors\napžadus, įsipareigodamas dievams juos įvykdyti, kai tik pa­\nsveiks, tačiau jeigu ir tai nepadėdavo, būdavo griebiamasi pas­\nkutinio vaisto, tai yra atnešdavo pelenų iš Amžinosios ugnies\naukuro ir juos su visokiomis apeigomis panaudodavo ligai iš­\nginti“25."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189946
+    - t-001

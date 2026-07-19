@@ -28,7 +28,6 @@ Tik Kauno priemiesčių gyventojai buvo liepiami pastočių mokestį mokėti.
 
 <a id="claim-t-201733"></a>
 - t-001
-  global_id: t-201733
   teiginys: "Tik Kauno priemiesčių gyventojai buvo liepiami pastočių mokestį mokėti."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -56,4 +55,4 @@ Tik Kauno priemiesčių gyventojai buvo liepiami pastočių mokestį mokėti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201733
+    - t-001

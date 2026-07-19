@@ -31,7 +31,6 @@ Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando 
 
 <a id="claim-t-186108"></a>
 - t-001
-  global_id: t-186108
   teiginys: "Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando atstovą taikos reikaluose."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186108
+    - t-001

@@ -31,7 +31,6 @@ Pietaro.
 
 <a id="claim-t-96059"></a>
 - t-001
-  global_id: t-96059
   teiginys: "V. Pietaris parašė „Lapės gyvenimą ir mirtį“, vadinamą originaliu vaikų literatūros šedevru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,4 +55,4 @@ Pietaro.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96059
+    - t-001

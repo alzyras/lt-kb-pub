@@ -37,7 +37,6 @@ NKVD pajėgos NKVD vidaus kariuomenės 4-osios gen. “ Mūšis 1945 m. kovo pra
 
 <a id="claim-t-78393"></a>
 - t-001
-  global_id: t-78393
   teiginys: "NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių pulkas veikė kartu su vadinamuoju specialiuoju daliniu."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ NKVD pajėgos NKVD vidaus kariuomenės 4-osios gen. “ Mūšis 1945 m. kovo pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78393
+    - t-001

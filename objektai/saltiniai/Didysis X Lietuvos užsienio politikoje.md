@@ -36,7 +36,6 @@ Didysis X Lietuvos užsienio politikoje.
 
 <a id="claim-t-78146"></a>
 - t-001
-  global_id: t-78146
   teiginys: "A. Kasparavičiaus veikalas „Didysis X Lietuvos užsienio politikoje“ išleistas Vilniuje 1996 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,12 +63,11 @@ Didysis X Lietuvos užsienio politikoje.
   citata_originali: |
     Vilnius, 2009.
     Kasparavičius A. Didysis X Lietuvos užsienio politikoje. Vilnius, 1996.
-  citata_rodoma: |
-    Kasparavičius A. Didysis X Lietuvos užsienio politikoje. Vilnius, 1996.
+  citata_rodoma: "Kasparavičius A. Didysis X Lietuvos užsienio politikoje. Vilnius, 1996."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78146
+    - t-001

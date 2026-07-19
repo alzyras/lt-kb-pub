@@ -8,11 +8,11 @@ datos:
   - '1615 m.'
 date_start: '1562'
 date_end: '1615'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-202040"></a>
 - t-001
-  global_id: t-202040
   teiginys: "Tačiau neabejotina, kad bažnyčiose pamaldų metu buvo giedama, parapinė bažnyčia net turėjo specialų giedotoją ar giedojimo mokytoją (cantor)."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -61,6 +60,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185387
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -81,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202040
+    - t-001

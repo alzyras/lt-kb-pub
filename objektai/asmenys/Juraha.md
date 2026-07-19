@@ -38,7 +38,6 @@ Juraha taip pat prie kole­ gijos pastarąją priskyrė, o kolegijos namą, vadi
 
 <a id="claim-t-87530"></a>
 - t-001
-  global_id: t-87530
   teiginys: "Akademijos rektorius Juraha 1756 m. Valerijono mūrinį namą priskyrė prie kolegijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,21 +90,11 @@ Juraha taip pat prie kole­ gijos pastarąją priskyrė, o kolegijos namą, vadi
     Valerijono bursai perleido, nuo kurios studentų dėlei kas­
     met po 260 auksinų gauna, o 40 auksinų eina tam mūriniam
     namui remontuoti.
-  citata_rodoma: |
-    1756. Akademijos Rektorius t. Juraha taip pat prie kole­
-    gijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco,
-    187
-
-    ## Puslapis 204
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Valerijono bursai perleido, nuo kurios studentų dėlei kas­
-    met po 260 auksinų gauna, o 40 auksinų eina tam mūriniam
-    namui remontuoti.
+  citata_rodoma: "1756. Akademijos Rektorius t. Juraha taip pat prie kole­\ngijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco,\n187\n\n## Puslapis 204\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nValerijono bursai perleido, nuo kurios studentų dėlei kas­\nmet po 260 auksinų gauna, o 40 auksinų eina tam mūriniam \nnamui remontuoti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87530
+    - t-001

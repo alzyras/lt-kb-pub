@@ -39,7 +39,6 @@ Gaškaitė N.
 
 <a id="claim-t-17715"></a>
 - t-001
-  global_id: t-17715
   teiginys: "N. Gaškaitė parašė knygą „Pasipriešinimo istorija. 1944–1953 metai“, išleistą Vilniuje 2006 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,12 +64,11 @@ Gaškaitė N.
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006.
-  citata_rodoma: |
-    Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006.
+  citata_rodoma: "Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-17715
+    - t-001

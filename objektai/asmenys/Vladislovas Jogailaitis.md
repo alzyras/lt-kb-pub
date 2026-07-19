@@ -42,8 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-40515"></a>
-- t-001
-  global_id: t-40515
+- t-003
   teiginys: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,9 +59,9 @@ media_all_json: |-
   pagrindžia:
     - c-44564
     - c-167157
+
 <a id="claim-t-40516"></a>
-- t-002
-  global_id: t-40516
+- t-001
   teiginys: "Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +80,7 @@ media_all_json: |-
     - c-44563
 
 <a id="claim-t-40517"></a>
-- t-003
-  global_id: t-40517
+- t-002
   teiginys: "1435 m. gruodžio 31 d. Vladislovas Jogailaitis su Žygimantu Kęstutaičiu ir Ordino magistru Rusdorfu sudarė Bresto taiką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,8 +100,7 @@ media_all_json: |-
     - c-44565
 
 <a id="claim-t-184859"></a>
-- t-004
-  global_id: t-184859
+- t-007
   teiginys: "Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -122,10 +119,9 @@ media_all_json: |-
     - c-168220
 
 <a id="claim-t-184861"></a>
-- t-005
-  global_id: t-184861
+- t-009
   teiginys: "Į valdovų susitikimą karalius Vladislovas ir jo duktė Ona atvažiavo važiuoti."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -140,10 +136,10 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168222
+    - c-178806
 
 <a id="claim-t-196629"></a>
-- t-006
-  global_id: t-196629
+- t-010
   teiginys: "Kojelavičiaus pasakojime Vladislovo tėvas piktinosi ir, puoselėdamas kerštą sūnui Vladislovui, skatino Joną pradėti karą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -169,21 +165,15 @@ media_all_json: |-
     Jogailaičio, ėjo į Trakus. Tolesniam žygiui
 
     68 PABAISKO (UKMERGĖS) MUSIS 1435 m. rugsėjo 1 d.
-  citata_rodoma: |
-    Lietuvos didysis kunigaikštis Žygi-
-    mantas Kęstutaitis, sukaupęs „kiek galėjo
-    didžiausias lietuvių jėgas“, gavęs prašytos
-    pagalbos iš Lenkijos karaliaus Vladislovo
-    Jogailaičio, ėjo į Trakus. Tolesniam žygiui
-
-    68 PABAISKO (UKMERGĖS) MUSIS 1435 m.
+  citata_rodoma: "Lietuvos didysis kunigaikštis Žygi-\nmantas Kęstutaitis, sukaupęs „kiek galėjo\ndidžiausias lietuvių jėgas“, gavęs prašytos\npagalbos iš Lenkijos karaliaus Vladislovo\nJogailaičio, ėjo į Trakus. Tolesniam žygiui\n\n68 PABAISKO (UKMERGĖS) MUSIS 1435 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40516
+    - t-001
+
 - id: c-44564
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -215,39 +205,15 @@ media_all_json: |-
     rejeslavlis Starodubas  Gorod vol KAZANĖ
     SuzdalėO A ij Nlovgarodas aca Rarer
     MASKVA — Piedimias T Kan?
-  citata_rodoma: |
-    nas BAKA ŠV
-    ASmenaQ,
-    o da rėva
-
-    pa ODrohičinas
-    o OKobri
-    tuvos Brasta /--
-    epsass
-
-    L
-    Ik Pioti ae ORadbinas gen sl age
-    4 sai keel
-
-    ir Vengrijos sostą pavyko iškovoti >
-    Čekijos karaliui Vladislovui Jogailaičiui.
-    Vengrija ir Čekija (Bohemija) buvo
-    suns personaline unija.
-
-    ——
-
-    LDK kariuomenės saline
-
-    rejeslavlis Starodubas  Gorod vol KAZANĖ
-    SuzdalėO A ij Nlovgarodas aca Rarer
-    MASKVA — Piedimias T Kan?
+  citata_rodoma: "nas BAKA ŠV\nASmenaQ,\no da rėva\n\npa ODrohičinas\no OKobri\ntuvos Brasta /--\nepsass\n\nL\nIk Pioti ae ORadbinas gen sl age\n4 sai keel\n\nir Vengrijos sostą pavyko iškovoti >\nČekijos karaliui Vladislovui Jogailaičiui.\nVengrija ir Čekija (Bohemija) buvo\nsuns personaline unija.\n\n——\n\nLDK kariuomenės saline\n\nrejeslavlis Starodubas  Gorod vol KAZANĖ\nSuzdalėO A ij Nlovgarodas aca Rarer\nMASKVA — Piedimias T Kan?"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40515
+    - t-003
+
 - id: c-44565
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -264,21 +230,15 @@ media_all_json: |-
     Švitrigailos. Abi pusės įsipareigojo, kad
     joks valdovas, popiežius ar imperato-
     rius neprivers šios sutarties sulaužyti.
-  citata_rodoma: |
-    1435 m. gruodžio 31 d. sudaryta Bresto
-    (Kujavy) taika tarp Lenkijos karaliaus
-    Vladislovo Jogailaičio, Lietuvos didžiojo
-    kunigaikščio Žygimanto Kęstutaičio ir
-    Vokiečių-kryžiuočių ordino didžiojo ma-
-    gistro Rusdorfo, atstovaujančio Ordino že-
-    mėms Prūsijoje, Livonijoje ir Vokietijoje.
+  citata_rodoma: "1435 m. gruodžio 31 d. sudaryta Bresto\n(Kujavy) taika tarp Lenkijos karaliaus\nVladislovo Jogailaičio, Lietuvos didžiojo\nkunigaikščio Žygimanto Kęstutaičio ir\nVokiečių-kryžiuočių ordino didžiojo ma-\ngistro Rusdorfo, atstovaujančio Ordino že-\nmėms Prūsijoje, Livonijoje ir Vokietijoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40517
+    - t-002
+
 - id: c-167157
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -315,10 +275,12 @@ media_all_json: |-
     suns personaline unija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-168220
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -340,23 +302,15 @@ media_all_json: |-
     Lietuvą pasiryžęs pasipelnyti
     1499 m eta i
     iš svetimos nelaimės.
-  citata_rodoma: |
-    Po to Lietuvos Didžiosios Kunigaikštystės
-    vardu sudarė taiką su Steponu, Valachijos valdovu,
-    bei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,
-    Vengrijos karaliaus, pastangomis lenkai, vengrai, če­
-    kai, lietuviai ir valachai sudarė sutartis, kuriomis ne
-    tik valdovai, bet ir visos jų karalystės bei žemės pa­
-    žadėjo viena kitą ginti, kai prasidės karas prieš turkus.
-    Dievobaimingas Aleksandro įstangas sužlugdė klas­
-    tingos Ivano pinklės.
+  citata_rodoma: "Po to Lietuvos Didžiosios Kunigaikštystės\nvardu sudarė taiką su Steponu, Valachijos valdovu,\nbei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,\nVengrijos karaliaus, pastangomis lenkai, vengrai, če­\nkai, lietuviai ir valachai sudarė sutartis, kuriomis ne\ntik valdovai, bet ir visos jų karalystės bei žemės pa­\nžadėjo viena kitą ginti, kai prasidės karas prieš turkus.\nDievobaimingas Aleksandro įstangas sužlugdė klas­\ntingos Ivano pinklės."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184859
+    - t-007
+
 - id: c-168222
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -383,28 +337,15 @@ media_all_json: |-
     m ili jo n a s
     išsiža d a
     gystės su Vasilijumi.
-  citata_rodoma: |
-    Kiekvienas apsistojo
-    635
-
-    ## Puslapis 634
-
-    skirtingame miestelyje, o dideliame lauke, esančiame
-    tarp tų miestelių, augo lapuotas medis, kurio pavėsy­
-    je iš tiesų rodėsi labai patogu susitikti valdovams.
-    Imperatorius, karalius Vladislovas bei jo duktė Ona at­
-    važiavo važiuoti, o Žygimantas ir Liudvikas raiti at­
-    jojo. Anksčiau, nei visi pasisveikino, paspausdami vie­
-    ni kitiems rankas, Liudvikas pagerbė Maksimilijoną
-    kaip tėvą ir valdovą, nes Čekijos karalystė priklausė
-    Romos imperijai.
+  citata_rodoma: "Kiekvienas apsistojo\n635\n\n## Puslapis 634\n\nskirtingame miestelyje, o dideliame lauke, esančiame\ntarp tų miestelių, augo lapuotas medis, kurio pavėsy­\nje iš tiesų rodėsi labai patogu susitikti valdovams.\nImperatorius, karalius Vladislovas bei jo duktė Ona at­\nvažiavo važiuoti, o Žygimantas ir Liudvikas raiti at­\njojo. Anksčiau, nei visi pasisveikino, paspausdami vie­\nni kitiems rankas, Liudvikas pagerbė Maksimilijoną\nkaip tėvą ir valdovą, nes Čekijos karalystė priklausė\nRomos imperijai."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184861
+    - t-009
+
 - id: c-178806
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -425,4 +366,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196629
+    - t-009
+    - t-010

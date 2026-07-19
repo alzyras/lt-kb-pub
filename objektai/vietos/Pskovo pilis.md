@@ -37,7 +37,6 @@ Pačią Pskovo pilį jis apjuosė akmens mūrais, kurie ligi šiol tebevadinami 
 
 <a id="claim-t-32489"></a>
 - t-001
-  global_id: t-32489
   teiginys: "Pskovo pilis buvo apjuosta akmens mūrais, kurie vadinti Daumanto sienomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,14 +65,11 @@ Pačią Pskovo pilį jis apjuosė akmens mūrais, kurie ligi šiol tebevadinami 
     laikė Livonijos ordino puldinėjimus. Pačią Pskovo pilį jis apjuosė
     akmens mūrais, kurie ligi šiol tebevadinami « Daumanto sienomis ».
     Stačiatikių cerkvė jį yra įrašiusi į šventųjų skaičių.
-  citata_rodoma: |
-    Pačią Pskovo pilį jis apjuosė
-    akmens mūrais, kurie ligi šiol tebevadinami « Daumanto sienomis ».
-    Stačiatikių cerkvė jį yra įrašiusi į šventųjų skaičių.
+  citata_rodoma: "Pačią Pskovo pilį jis apjuosė\nakmens mūrais, kurie ligi šiol tebevadinami « Daumanto sienomis ».\nStačiatikių cerkvė jį yra įrašiusi į šventųjų skaičių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32489
+    - t-001

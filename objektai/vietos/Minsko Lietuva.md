@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-77010"></a>
-- t-001
-  global_id: t-77010
+- t-015
   teiginys: "Lietuviai nebepretendavo į Minsko Lietuvą, bet neįsivaizdavo savo valstybės be istorinės sostinės Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,7 @@ Nenurodyta
     - c-74482
 
 <a id="claim-t-77011"></a>
-- t-002
-  global_id: t-77011
+- t-009
   teiginys: "Minsko, arba rusėnų, Lietuva vadintos senosios rusėniškosios LDK žemės į rytus nuo Vidurinės Lietuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,9 +90,9 @@ Nenurodyta
   pagrindžia:
     - c-16572
     - c-16590
+
 <a id="claim-t-77012"></a>
-- t-003
-  global_id: t-77012
+- t-014
   teiginys: "Lenkiškoje trijų dalių Lietuvos sampratoje Minsko Lietuva buvo siejama su senosiomis rusėniškosiomis LDK žemėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,8 +109,7 @@ Nenurodyta
     - c-16590
 
 <a id="claim-t-77013"></a>
-- t-004
-  global_id: t-77013
+- t-011
   teiginys: "Minsko Lietuva vadintos į rytus nuo Vidurinės Lietuvos buvusios senosios rusėniškosios LDK žemės."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -129,8 +126,7 @@ Nenurodyta
     - c-16572
 
 <a id="claim-t-77014"></a>
-- t-005
-  global_id: t-77014
+- t-012
   teiginys: "Lietuviai siekė kurti valstybę etniniais pagrindais ir nebepretendavo į Minsko Lietuvą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -149,8 +145,7 @@ Nenurodyta
     - c-16573
 
 <a id="claim-t-77016"></a>
-- t-006
-  global_id: t-77016
+- t-010
   teiginys: "Lietuviai, apsisprendę kurti Lietuvos valstybę etniniais pagrindais, nebepretendavo į Minsko Lietuvą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -181,18 +176,16 @@ Nenurodyta
     tarmė – lietuvių kalba. „Vidurinės Lietuvos“ prasmę galima suvokti tik
     turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-
     dinamos „Minsko“, arba „rusėnų“, Lietuva.
-  citata_rodoma: |
-    „Vidurinės Lietuvos“ prasmę galima suvokti tik
-    turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-
-    dinamos „Minsko“, arba „rusėnų“, Lietuva.
+  citata_rodoma: "„Vidurinės Lietuvos“ prasmę galima suvokti tik\nturint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-\ndinamos „Minsko“, arba „rusėnų“, Lietuva."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77011
-    - t-77013
+    - t-009
+    - t-011
+
 - id: c-16573
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -205,18 +198,16 @@ Nenurodyta
     Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais
     pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo
     valstybės be istorinės sostinės Vilniaus.
-  citata_rodoma: |
-    Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais
-    pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo
-    valstybės be istorinės sostinės Vilniaus.
+  citata_rodoma: "Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais\npagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo\nvalstybės be istorinės sostinės Vilniaus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77014
-    - t-77016
+    - t-012
+    - t-010
+
 - id: c-16590
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -235,8 +226,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77011
-    - t-77012
+    - t-009
+    - t-014
+
 - id: c-74482
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -249,18 +241,11 @@ Nenurodyta
     pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo
     valstybės be istorinės sostinės Vilniaus. Be to, moderniosios Lietuvos
     valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes.
-  citata_rodoma: |
-    Liucijano
-    Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
-    durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
-    Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais
-    pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo
-    valstybės be istorinės sostinės Vilniaus. Be to, moderniosios Lietuvos
-    valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes.
+  citata_rodoma: "Liucijano \nŽeligovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-\ndurinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi. \nSavo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais \npagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo \nvalstybės be istorinės sostinės Vilniaus. Be to, moderniosios Lietuvos \nvalstybės kūrėjai pretendavo į Mažosios Lietuvos žemes."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77010
+    - t-015

@@ -31,7 +31,6 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
 
 <a id="claim-t-190384"></a>
 - t-001
-  global_id: t-190384
   teiginys: "Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasakojime krivį vadino „kilmingesniu iš jų“ ir praleido srities pavadinimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
 
 <a id="claim-t-190385"></a>
 - t-002
-  global_id: t-190385
   teiginys: "Narbutas Dusburgiečio perdirbinėtojo įterptą nobilior aiškina kaip ženklą, kad žodis quidam jam atrodė nepakankamas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
 
 <a id="claim-t-197289"></a>
 - t-003
-  global_id: t-197289
   teiginys: "O todėl ne pritiktų kartoti nevykusį kronikininko palyginimą ir vadinti kri vį „Siaurės popiežiumi“, kaip tai kai kas yra padaręs."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -103,6 +100,7 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-173267
@@ -143,7 +141,8 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190384
+    - t-001
+
 - id: c-173268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -158,19 +157,12 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
     klausimas, ar toks palyginimas ir išvados prikergimas galėjo
     kiek nors pakenkti dalyko esmei arba istorinei tiesai? Ar toji
     istorinė tiesa dėl to tapo abejotina?
-  citata_rodoma: |
-    O todėl ne­
-    pritiktų kartoti nevykusį kronikininko palyginimą ir vadinti kri­
-    vį „Siaurės popiežiumi“, kaip tai kai kas yra padaręs.
-    Betgi, įsigilinus į nurodytosios vietos antrąją dalį, iškyla
-    klausimas, ar toks palyginimas ir išvados prikergimas galėjo
-    kiek nors pakenkti dalyko esmei arba istorinei tiesai? Ar toji
-    istorinė tiesa dėl to tapo abejotina?
+  citata_rodoma: "O todėl ne­\npritiktų kartoti nevykusį kronikininko palyginimą ir vadinti kri­\nvį „Siaurės popiežiumi“, kaip tai kai kas yra padaręs.\nBetgi, įsigilinus į nurodytosios vietos antrąją dalį, iškyla \nklausimas, ar toks palyginimas ir išvados prikergimas galėjo \nkiek nors pakenkti dalyko esmei arba istorinei tiesai? Ar toji \nistorinė tiesa dėl to tapo abejotina?"
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190385
-    - t-197289
+    - t-002
+    - t-003

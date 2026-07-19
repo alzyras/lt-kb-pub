@@ -37,7 +37,6 @@ Vytauto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
 
 <a id="claim-t-77851"></a>
 - t-001
-  global_id: t-77851
   teiginys: "Vytauto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas, kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu valdovu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Vytauto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77851
+    - t-001

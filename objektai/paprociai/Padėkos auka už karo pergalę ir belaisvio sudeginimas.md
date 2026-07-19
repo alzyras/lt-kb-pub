@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-189797"></a>
 - t-001
-  global_id: t-189797
   teiginys: "Narbutas padėkos auką už karo pergalę aprašė kaip didžiąją auką ir vaišes, per kurias ant laužo sudegindavo žymų belaisvį su žirgu ir ginklais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,12 +63,11 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172680
-    - c-001
+
 <a id="claim-t-189798"></a>
 - t-002
-  global_id: t-189798
   teiginys: "Narbutas rašė, kad kai būdavo keli vienodai kilmingi belaisviai, aukai parenkamą belaisvį nulemdavo burtai."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -78,7 +76,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172681
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas padėkos auką už karo pergalę aprašė kaip didžiąją auką ir vaišes, per kurias ant laužo sudegindavo žymų belaisvį su žirgu ir ginklais.'
@@ -98,8 +96,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189797
 - c-002
   santrauka: 'Narbutas rašė, kad kai būdavo keli vienodai kilmingi belaisviai, aukai parenkamą belaisvį nulemdavo burtai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -116,8 +112,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189798
+
 ## Citatos
 
 - id: c-172680
@@ -138,23 +133,15 @@ Nenurodyta
     permaldavimo auka tapo tokia, kad vaidila pats susižeisdavo
     ir savo kraują atnašaudavo dievams kaip auką, o prie Pokliaus
     stabo dėdavo gyvulio galvą.
-  citata_rodoma: |
-    Nėra priežasties abejoti, kad se­
-    novės laikais tai buvo bendras lietuvių protėvių paprotys, ta­
-    čiau labai seniai užmirštas, kadangi kryžiuočių rašytojai, iš­
-    vardydami pavergtos tautos nedorybes, nebūtų pamiršę tai pa­
-    minėti. Tačiau šito papročio liekana yra ši auka. Ji susidėdavo
-    iš didžiosios aukos ir bendrų vaišių; jų metu ant laužo sude­
-    gindavo ką nors iš žymiausių belaisvių, paimtų su ginklu ran­
-    koje kovos lauke, su jo žirgu, su visa karine apranga ir gin­
-    klais.
+  citata_rodoma: "Nėra priežasties abejoti, kad se­\nnovės laikais tai buvo bendras lietuvių protėvių paprotys, ta­\nčiau labai seniai užmirštas, kadangi kryžiuočių rašytojai, iš­\nvardydami pavergtos tautos nedorybes, nebūtų pamiršę tai pa­\nminėti. Tačiau šito papročio liekana yra ši auka. Ji susidėdavo\niš didžiosios aukos ir bendrų vaišių; jų metu ant laužo sude­\ngindavo ką nors iš žymiausių belaisvių, paimtų su ginklu ran­\nkoje kovos lauke, su jo žirgu, su visa karine apranga ir gin­\nklais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189797
+    - t-001
+
 - id: c-172681
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -170,18 +157,11 @@ Nenurodyta
     vokiamas, bet ir atnašaujant permaldavimo auką būdavo gali­
     ma išgirsti nematomą šnabždesį; tuo Poklius apreikšdavo, kad
     dievai pasitenkina ta auka15.
-  citata_rodoma: |
-    Užsodinę riterį ant žirgo, apvesdavo tris kartus aplink
-    aukojamąjį aukurą; tada, įvedę tarp keturių stulpų, įkastų į
-    žemę, raitelį ir žirgą surišdavo grandinėmis, apdėdavo dervin­
-    gomis ir sausomis malkomis aukščiau riterio galvos, kad jo nė
-    nebūtų matyti, pagaliau padegdavo. Jeigu būdavo keli vieno­
-    dai kilmingi belaisviai, liepdavo traukti burtus, kurio eilė.
-    9.
+  citata_rodoma: "Užsodinę riterį ant žirgo, apvesdavo tris kartus aplink\naukojamąjį aukurą; tada, įvedę tarp keturių stulpų, įkastų į\nžemę, raitelį ir žirgą surišdavo grandinėmis, apdėdavo dervin­\ngomis ir sausomis malkomis aukščiau riterio galvos, kad jo nė\nnebūtų matyti, pagaliau padegdavo. Jeigu būdavo keli vieno­\ndai kilmingi belaisviai, liepdavo traukti burtus, kurio eilė.\n9."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189798
+    - t-002

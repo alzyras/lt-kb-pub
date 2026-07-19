@@ -37,7 +37,6 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 
 <a id="claim-t-21336"></a>
 - t-001
-  global_id: t-21336
   teiginys: "Tarptautinėse misijose Afganistane ir kitose šalyse dalyvavo per du šimtus Lietuvos karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 
 <a id="claim-t-21337"></a>
 - t-002
-  global_id: t-21337
   teiginys: "2004 m. pabaigoje Lietuvai pasiūlyta vadovauti Afganistano Goro provincijos atkūrimo grupei ir padėti užtikrinti stabilumą bei saugumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,17 +87,15 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
     prie stabilumo ir taikos palaikymo ne tik Europoje, bet ir už jos ribų. Apskri-
     tai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-
     vinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.
-  citata_rodoma: |
-    Apskri-
-    tai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-
-    vinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.
+  citata_rodoma: "Apskri-\ntai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-\nvinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21336
+    - t-001
+
 - id: c-24035
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -113,12 +109,11 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
     Lietuvai pasiūlyta vadovauti vienos iš Afganistano provincijų – Goro – at-
     kūrimo grupei, sudaryti šioje provincijoje sąlygas užtikrinti stabilumą ir
     saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.
-  citata_rodoma: |
-    saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.
+  citata_rodoma: "saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21337
+    - t-002

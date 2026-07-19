@@ -39,7 +39,6 @@ Generolui Skažinskiui (Skaržynski) priklausė statulėlė, kurią Narbutas lai
 
 <a id="claim-t-191466"></a>
 - t-001
-  global_id: t-191466
   teiginys: "Generolui Skažinskiui (Skaržynski) priklausė statulėlė, kurią Narbutas laikė galimu prūsų deivės stabu, pamestu 1096 m. prie Goplo ežero."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Generolui Skažinskiui (Skaržynski) priklausė statulėlė, kurią Narbutas lai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191466
+    - t-001

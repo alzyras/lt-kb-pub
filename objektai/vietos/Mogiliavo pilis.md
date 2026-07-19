@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-86089"></a>
 - t-001
-  global_id: t-86089
   teiginys: "Prie Mogiliavo pilies buvusios dvaro žemės buvo skirtos karalienei Elenai valdyti iki gyvos galvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86089
+    - t-001

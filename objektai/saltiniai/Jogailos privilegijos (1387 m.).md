@@ -38,7 +38,6 @@ Kai kurie stačiatikiai, ypač jų di­ duomenė, buvo nepatenkinti ir tuo, kad 
 
 <a id="claim-t-12456"></a>
 - t-001
-  global_id: t-12456
   teiginys: "1387 m. Jogailos privilegija nesuteikė privilegijų stačiatikiams, nors bajorai katalikai buvo gavę plačių laisvių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,16 +70,11 @@ Kai kurie stačiatikiai, ypač jų di­ duomenė, buvo nepatenkinti ir tuo, kad 
     nei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai
     tuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę
     ir buvo atleisti nuo daugelio pareigų valstybei.
-  citata_rodoma: |
-    Kai kurie stačiatikiai, ypač jų di­
-    duomenė, buvo nepatenkinti ir tuo, kad nei 1387 m. privilegija
-    nei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai
-    tuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę
-    ir buvo atleisti nuo daugelio pareigų valstybei.
+  citata_rodoma: "Kai kurie stačiatikiai, ypač jų di­\nduomenė, buvo nepatenkinti ir tuo, kad nei 1387 m. privilegija\nnei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai\ntuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę\nir buvo atleisti nuo daugelio pareigų valstybei."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12456
+    - t-001

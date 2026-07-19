@@ -40,8 +40,7 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
 ## Teiginiai
 
 <a id="claim-t-67818"></a>
-- t-001
-  global_id: t-67818
+- t-002
   teiginys: "1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,9 +58,9 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   pagrindžia:
     - c-32017
     - c-167754
+
 <a id="claim-t-67819"></a>
-- t-002
-  global_id: t-67819
+- t-004
   teiginys: "Totoriams užėmus Dniepro žiotis, lietuvių prekyba su Juodosios jūros, Vakarų Azijos ir Viduržemio pajūrio kraštais sumažėjo."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -93,7 +92,8 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67818
+    - t-002
+
 - id: c-67583
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -103,16 +103,15 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
     vais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, to-
     limi vakarinės Azijos kraštai ir Viduržemio pajūris. Bet toto-
     riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
-  citata_rodoma: |
-    Bet toto-
-    riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
+  citata_rodoma: "Bet toto-\nriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67819
+    - t-004
+
 - id: c-167754
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -129,6 +128,8 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Užėmė Dniepro žiotį: [[objektai/grupes/Totoriai]]

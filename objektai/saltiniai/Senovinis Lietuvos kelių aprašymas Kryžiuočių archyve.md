@@ -30,7 +30,6 @@ Anksčiau kitaip buvo vadinama arba turėjo ir kitą vardą - Neris, nuo to rasi
 
 <a id="claim-t-88473"></a>
 - t-001
-  global_id: t-88473
   teiginys: "Senoviniame Lietuvos kelių aprašyme Kryžiuočių archyve dažnai minima Nerige yra dabartinė Vilija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Anksčiau kitaip buvo vadinama arba turėjo ir kitą vardą - Neris, nuo to rasi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88473
+    - t-001

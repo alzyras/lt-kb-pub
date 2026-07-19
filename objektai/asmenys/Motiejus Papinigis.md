@@ -28,7 +28,6 @@ Gertrūdos (Gerdrudska), nuo bažnyčios besiremianti į Breidžpetrio gatvę, P
 
 <a id="claim-t-202192"></a>
 - t-001
-  global_id: t-202192
   teiginys: "Gertrūdos (Gerdrudska), nuo bažnyčios besiremianti į Breidžpetrio gatvę, Papinigio (POpilligowska), gavusi vardą nuo Kauno pirklio Motiejaus Papinigio, kurio namai čia stovėjo."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ Gertrūdos (Gerdrudska), nuo bažnyčios besiremianti į Breidžpetrio gatvę, P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202192
+    - t-001

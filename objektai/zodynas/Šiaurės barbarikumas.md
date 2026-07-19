@@ -28,7 +28,6 @@ Rimvydas Laužikas Šiaurės barbarikumą apibūdina kaip XIV–XVI a. Lietuvoje
 
 <a id="claim-t-200723"></a>
 - t-001
-  global_id: t-200723
   teiginys: "Rimvydas Laužikas Šiaurės barbarikumą apibūdina kaip XIV–XVI a. Lietuvoje gyvu pavidalu tebefunkcionavusį Vakarų Europos kultūros elementą."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,5 @@ Rimvydas Laužikas Šiaurės barbarikumą apibūdina kaip XIV–XVI a. Lietuvoje
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200723
+    - t-001

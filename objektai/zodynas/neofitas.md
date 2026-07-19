@@ -40,8 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-179583"></a>
-- t-001
-  global_id: t-179583
+- t-007
   teiginys: "1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII draudė Vokiečių ordinui pulti lietuvius kaip neofitus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ media_all_json: |-
     - c-37936
 
 <a id="claim-t-179584"></a>
-- t-002
-  global_id: t-179584
+- t-009
   teiginys: "Lietuvos katalikai buvo laikomi neofitais, nes į tikėjimą žiūrėjo šalčiau ir labiau iš reikalo negu iš įsitikinimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ media_all_json: |-
     - c-14704
 
 <a id="claim-t-179585"></a>
-- t-003
-  global_id: t-179585
+- t-008
   teiginys: "Popiežius Bonifacas IX rėmė neofitą Vytautą kaip kovotoją su katalikų priešais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,7 +114,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179584
+    - t-009
+
 - id: c-37936
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -136,7 +134,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179583
+    - t-007
+
 - id: c-37937
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -155,4 +154,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179585
+    - t-008

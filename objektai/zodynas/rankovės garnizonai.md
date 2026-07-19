@@ -31,7 +31,6 @@ Kampuose buvo išdėstomi šaulių padaliniai - „rankovės, batalionu, kolona 
 
 <a id="claim-t-38731"></a>
 - t-001
-  global_id: t-38731
   teiginys: "Rankovės buvo šaulių padaliniai, išdėstomi pėstininkų rikiuotės kampuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Kampuose buvo išdėstomi šaulių padaliniai - „rankovės, batalionu, kolona 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38731
+    - t-001

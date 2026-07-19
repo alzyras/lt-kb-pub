@@ -31,7 +31,6 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
 
 <a id="claim-t-58574"></a>
 - t-001
-  global_id: t-58574
   teiginys: "Kryžiuočių ordino broliai įsiveržė į Kimelio pilį, išžudė jos gyventojus ir sudegino pilį iki pamatų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,10 +45,9 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   semantiniai_rysiai: "Kryžiuočių ordinas puolė Kimelis (0.93); Kryžiuočių ordinas užėmė Kimelis (0.84)"
   pagrindžia:
     - c-167548
-    - c-002
+
 <a id="claim-t-58575"></a>
 - t-002
-  global_id: t-58575
   teiginys: "Dusburgietis Kimelį vadino Kymel, o Jerošinas - Kimel ir nurodė pilį buvus prie Nemuno."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -87,8 +85,7 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58574
+
 ## Citatos
 
 - id: c-59206
@@ -114,7 +111,8 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58575
+    - t-002
+
 - id: c-167548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -132,19 +130,14 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
     upės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis
     šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
     1500 krikščionių.
-  citata_rodoma: |
-    Sudeginę pilį, broliai įniršę pasitraukė. Vis dėlto
-    dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,
-    taip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir
-    patys broliai ne kartą bandė, ir savo žmonių rankomis dažnai mėgino, negailėdami nei
-    išlaidų, nei triūso, tačiau nesėkmingai. Narsiai įsiveržę į pilį, jie išžudė jos gyventojus, o
-    ją pačią, pakišę ugnį, ligi pamatu sudegino.
+  citata_rodoma: "Sudeginę pilį, broliai įniršę pasitraukė. Vis dėlto\ndievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,\ntaip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir\npatys broliai ne kartą bandė, ir savo žmonių rankomis dažnai mėgino, negailėdami nei\nišlaidų, nei triūso, tačiau nesėkmingai. Narsiai įsiveržę į pilį, jie išžudė jos gyventojus, o\nją pačią, pakišę ugnį, ligi pamatu sudegino."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58574
+    - t-001
+
 ## Ryšiai
 - Puolė Kimelį: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -31,7 +31,6 @@ Dar duodame žinoti, Jūsų Prakilnybe Malonusis Pone Magistrė, ir apie tai, ka
 
 <a id="claim-t-86835"></a>
 - t-001
-  global_id: t-86835
   teiginys: "Vytautas įsakė vokiečių pirkliams apie Sekmines palikti jo kraštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +68,8 @@ Dar duodame žinoti, Jūsų Prakilnybe Malonusis Pone Magistrė, ir apie tai, ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86835
+    - t-001
+
 ## Ryšiai
 - Vokiečių pirkliai keliavo į [[objektai/vietos/Krėva]]
 - Vokiečių pirkliai prekiavo su [[objektai/grupes/Aisčiai]], [[objektai/grupes/Lybiai]]

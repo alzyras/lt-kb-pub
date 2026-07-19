@@ -37,7 +37,6 @@ Lenkijoje tai įvyko tik po Liublino unijos – būtent 1573 m. vadinamojoje Var
 
 <a id="claim-t-78143"></a>
 - t-001
-  global_id: t-78143
   teiginys: "Lenkijoje daugiakonfesiškumas juridiškai įformintas 1573 m. Varšuvos konfederacijoje po Liublino unijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Lenkijoje tai įvyko tik po Liublino unijos – būtent 1573 m. vadinamojoje Var
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78143
+    - t-001

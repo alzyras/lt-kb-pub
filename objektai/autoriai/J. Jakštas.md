@@ -40,7 +40,6 @@ Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje ist
 
 <a id="claim-t-100099"></a>
 - t-001
-  global_id: t-100099
   teiginys: "J. Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje viduramžių istorijoje, kurią docento teisėmis dėstė Vilniaus universitete 1940–1944 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje ist
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100099
+    - t-001

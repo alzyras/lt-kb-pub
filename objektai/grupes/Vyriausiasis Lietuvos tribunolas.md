@@ -40,8 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-113374"></a>
-- t-001
-  global_id: t-113374
+- t-004
   teiginys: "1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ media_all_json: |-
     - c-104633
 
 <a id="claim-t-113375"></a>
-- t-002
-  global_id: t-113375
+- t-003
   teiginys: "Steponui Batorui 1578 m. Lenkijoje įkūrus bajorijos renkamą tribunolą, netrukus toks tribunolas buvo įsteigtas ir Lietuvoje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -133,7 +131,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113374
+    - t-004
+
 - id: c-104634
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -147,16 +146,11 @@ media_all_json: |-
     atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-
     bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
     Lietuvoje.
-  citata_rodoma: |
-    Gana ilgą laiką bajorija čia nieko nelaimėjo. Bet pagaliau,
-    kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.),
-    atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-
-    bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
-    Lietuvoje.
+  citata_rodoma: "Gana ilgą laiką bajorija čia nieko nelaimėjo. Bet pagaliau,\nkai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.),\natsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-\nbunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir\nLietuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113375
+    - t-003

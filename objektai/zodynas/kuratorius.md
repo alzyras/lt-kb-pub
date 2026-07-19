@@ -31,7 +31,6 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
 
 <a id="claim-t-03056"></a>
 - t-001
-  global_id: t-03056
   teiginys: "Vilniaus švietimo apygardos kuratoriumi buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
 
 <a id="claim-t-193150"></a>
 - t-002
-  global_id: t-193150
   teiginys: "Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -78,17 +76,15 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
 
 
     Adomas Čartoriskis.
-  citata_rodoma: |
-    Apygardos viršininku — kuratorium buvo pa-
-    skirtas caro Aleksandro jaunystės draugas ir artimas patarėjas
-    Adomas Čartoriskis.
+  citata_rodoma: "Apygardos viršininku — kuratorium buvo pa-\nskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas\nAdomas Čartoriskis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03056
+    - t-001
+
 - id: c-175903
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -113,4 +109,4 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193150
+    - t-002

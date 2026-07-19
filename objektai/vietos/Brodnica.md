@@ -37,9 +37,8 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
 
 ## Teiginiai
 
-<a id="claim-t-83244"></a>
-- t-001
-  global_id: t-83244
+<a id="claim-t-83242"></a>
+- t-004
   teiginys: "Plėšikautojų būrys per Drevencą įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
 
 <a id="claim-t-83243"></a>
 - t-002
-  global_id: t-83243
   teiginys: "Vytautas 1414-1418 m. paliaubų pasitarimuose Brodnicoje gynė prekybos reikalus su Ordinu."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
     - c-79612
 
 <a id="claim-t-83245"></a>
-- t-003
-  global_id: t-83245
+- t-001
   teiginys: "Vytautas paliko Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats skubiai grįžo į Lietuvą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -123,7 +120,8 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83245
+    - t-001
+
 - id: c-79612
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -145,7 +143,8 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83243
+    - t-002
+
 - id: c-79613
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -160,18 +159,11 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
     pusantrų metų žuvo apie dvidešimt tūkstančių krikščionių
     iš Prūsijos, Livonijos ir Dobrynės - vieni krito nuo pagonio
     kardo, kiti į nelaisvę papuolę.
-  citata_rodoma: |
-    Tuo lai­
-    ku kitas plėšikautojų būrys per Drevencą įsiveržė į Brodnicos
-    (Strasburgas) apylinkes, nužudė apie šešiasdešimt žmonių
-    ir padarė Ordinui nuostolių už tūkstantį grivinų*. Taigi per
-    pusantrų metų žuvo apie dvidešimt tūkstančių krikščionių
-    iš Prūsijos, Livonijos ir Dobrynės - vieni krito nuo pagonio
-    kardo, kiti į nelaisvę papuolę.
+  citata_rodoma: "Tuo lai­\nku kitas plėšikautojų būrys per Drevencą įsiveržė į Brodnicos\n(Strasburgas) apylinkes, nužudė apie šešiasdešimt žmonių\nir padarė Ordinui nuostolių už tūkstantį grivinų*. Taigi per\npusantrų metų žuvo apie dvidešimt tūkstančių krikščionių\niš Prūsijos, Livonijos ir Dobrynės - vieni krito nuo pagonio\nkardo, kiti į nelaisvę papuolę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83244
+    - t-004

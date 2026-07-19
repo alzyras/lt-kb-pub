@@ -37,7 +37,6 @@ Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui
 
 <a id="claim-t-86610"></a>
 - t-001
-  global_id: t-86610
   teiginys: "Kazimiero 1441 m. Brastoje išleista privilegija nustatė Vilniui du didžiuosius prekymečius ir savaitinius turgus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,27 +82,11 @@ Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui
     30 narna Magdeburgo, naujai duoda-
     Ši svarbi privilegija yra Vilniaus rne).
     miesto teisių D n b i n s k i o rinkinv-
-  citata_rodoma: |
-    Kadangi pilietinis karas po Vytauto Didžiojo mir­
-    ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto
-    valdžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę
-    be gyventojų miestą, beveik galutinai sugriovę Magdebur­
-    go teisių galią, todėl Kazimieras, įsigilinęs į apgailėtiną sa­
-    vo sostinės būklę, privalėjo atnaujinti anksčiau nustatytą
-    tvarką. Reikšminga jo privilegija, 1441 metais išleista Bras­
-    toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du
-    didžiuosius prekymečius, o kas savaitę - įprastus turgus,
-    garantavo miestui didesnes pajamas, dovanodamas jam ne­
-    mažą žemės plotą, nusidriekusį išilgai miesto sienos palei
-    Viliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­
-    dien vadinamo Tauro, kalno30. Vilniaus vaitai ta pačia pri­
-    vilegija įgijo didelę valdžią ir jų aukštai padėčiai būtiną au­
-    29
-    Žr.
+  citata_rodoma: "Kadangi pilietinis karas po Vytauto Didžiojo mir­\nties ir žiauri Žygimanto valdžia buvo Vilniaus miesto \nvaldžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę \nbe gyventojų miestą, beveik galutinai sugriovę Magdebur­\ngo teisių galią, todėl Kazimieras, įsigilinęs į apgailėtiną sa­\nvo sostinės būklę, privalėjo atnaujinti anksčiau nustatytą \ntvarką. Reikšminga jo privilegija, 1441 metais išleista Bras­\ntoje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du \ndidžiuosius prekymečius, o kas savaitę - įprastus turgus, \ngarantavo miestui didesnes pajamas, dovanodamas jam ne­\nmažą žemės plotą, nusidriekusį išilgai miesto sienos palei \nViliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­\ndien vadinamo Tauro, kalno30. Vilniaus vaitai ta pačia pri­\nvilegija įgijo didelę valdžią ir jų aukštai padėčiai būtiną au­\n29\nŽr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86610
+    - t-001

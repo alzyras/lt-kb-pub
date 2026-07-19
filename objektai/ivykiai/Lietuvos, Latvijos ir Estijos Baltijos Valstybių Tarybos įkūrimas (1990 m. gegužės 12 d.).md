@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20391"></a>
 - t-001
-  global_id: t-20391
   teiginys: "Lietuva, Latvija ir Estija įkūrė Baltijos Valstybių Tarybą bendrai užsienio politikos pozicijai rengti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-183259"></a>
 - t-002
-  global_id: t-183259
   teiginys: "1990 m. gegužės 12 d. Lietuva, Latvija ir Estija atnaujino 1934 m. sutartį ir įkūrė Baltijos Valstybių Tarybą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -108,15 +106,15 @@ Nenurodyta
     Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo
     sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra
     užsienio politikos pozicija.
-  citata_rodoma: |
-    sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra
+  citata_rodoma: "sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20391
+    - t-001
+
 - id: c-166647
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -133,4 +131,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183259
+    - t-002

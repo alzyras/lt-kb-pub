@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-32497"></a>
 - t-001
-  global_id: t-32497
   teiginys: "Raigardo ežeras buvo perpus dalijamas aprašytos sienos linijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,15 +58,11 @@ media_all_json: |-
     siau dalinamą Raigardo ežerą. Iš čia ji tęsėsi vėl per dykrą tiesiai
     į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius
     ir Vystyčio ežerą, kuris liko ordino pusėje.
-  citata_rodoma: |
-    Šiauriau ji kilo stačiai per tyrus į pu­
-    siau dalinamą Raigardo ežerą. Iš čia ji tęsėsi vėl per dykrą tiesiai
-    į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius
-    ir Vystyčio ežerą, kuris liko ordino pusėje.
+  citata_rodoma: "Šiauriau ji kilo stačiai per tyrus į pu­\nsiau dalinamą Raigardo ežerą. Iš čia ji tęsėsi vėl per dykrą tiesiai\nį Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius\nir Vystyčio ežerą, kuris liko ordino pusėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32497
+    - t-001

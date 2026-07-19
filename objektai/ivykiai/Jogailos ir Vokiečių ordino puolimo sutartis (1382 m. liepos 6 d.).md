@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-35833"></a>
 - t-001
-  global_id: t-35833
   teiginys: "1382 m. liepos 6 d. Jogaila su Vokiečių ordino magistru sudarė puolimo sutartį prieš Kęstutį ir jo sūnus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-35834"></a>
 - t-002
-  global_id: t-35834
   teiginys: "1382 m. sutartis rodė, kad Jogaila užmezgė dar artimesnius santykius su Vokiečių ordinu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,16 +111,12 @@ Nenurodyta
     denburgo ir Ragainės komtūrams, maršalka atsitraukė nuo
     Trakų. Iš šito fakto aiškiai matyti, kad Jogaila suėjo su Or­
     dinu į dar artimesnius santykius.
-  citata_rodoma: |
-    Patvirtinus tą aktą savo antspaudomis Baigos, Bran­
-    denburgo ir Ragainės komtūrams, maršalka atsitraukė nuo
-    Trakų. Iš šito fakto aiškiai matyti, kad Jogaila suėjo su Or­
-    dinu į dar artimesnius santykius.
+  citata_rodoma: "Patvirtinus tą aktą savo antspaudomis Baigos, Bran­\ndenburgo ir Ragainės komtūrams, maršalka atsitraukė nuo\nTrakų. Iš šito fakto aiškiai matyti, kad Jogaila suėjo su Or­\ndinu į dar artimesnius santykius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35833
-    - t-35834
+    - t-001
+    - t-002

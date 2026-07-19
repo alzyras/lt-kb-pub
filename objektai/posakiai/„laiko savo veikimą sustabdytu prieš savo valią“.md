@@ -37,7 +37,6 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
 
 <a id="claim-t-77848"></a>
 - t-001
-  global_id: t-77848
   teiginys: "Naciams 1941 m. rugpjūčio 5 d. uždraudus LV veiklą, J. Ambrazevičius konstatavo, kad vyriausybė veikimą sustabdė prieš savo valią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77848
+    - t-001

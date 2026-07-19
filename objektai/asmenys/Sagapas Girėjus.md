@@ -28,7 +28,6 @@ Penktajame dešimtmetyje Krymo chanas Sagapas Girėjus pagal sutartį su Žygima
 
 <a id="claim-t-202338"></a>
 - t-001
-  global_id: t-202338
   teiginys: "Penktajame dešimtmetyje Krymo chanas Sagapas Girėjus pagal sutartį su Žygimantu Senuoju laidavo prekybos laisvę lenkų ir lietuvių pirkliams Kafoje ir Perekope."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,5 @@ Penktajame dešimtmetyje Krymo chanas Sagapas Girėjus pagal sutartį su Žygima
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202338
+    - t-001

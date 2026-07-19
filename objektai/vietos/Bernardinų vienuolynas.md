@@ -28,7 +28,6 @@ Miestui priklausė 2 namai Ilgojoje ar Vilniaus gatvėje, sklypas su pastatais p
 
 <a id="claim-t-201716"></a>
 - t-001
-  global_id: t-201716
   teiginys: "Miestui priklausė 2 namai Ilgojoje ar Vilniaus gatvėje, sklypas su pastatais prie Neries ir sklypas, vadinamas Baltykla (Blecharnia), už Bernardinų vienuolyno, kuriame buvo balinami audiniai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Miestui priklausė 2 namai Ilgojoje ar Vilniaus gatvėje, sklypas su pastatais p
 
 <a id="claim-t-201717"></a>
 - t-002
-  global_id: t-201717
   teiginys: "Kryžiaus) ir du vienuolynus, pranciškonų ir bernardinų, su savo bažnyčiomis."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -70,7 +68,7 @@ Miestui priklausė 2 namai Ilgojoje ar Vilniaus gatvėje, sklypas su pastatais p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201716
+    - t-001
 
 - id: c-185064
   autorius: "Zigmantas Kiaupa"
@@ -88,4 +86,4 @@ Miestui priklausė 2 namai Ilgojoje ar Vilniaus gatvėje, sklypas su pastatais p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201717
+    - t-002

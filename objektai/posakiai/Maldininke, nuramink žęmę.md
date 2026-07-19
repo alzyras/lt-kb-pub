@@ -31,7 +31,6 @@ Dusburgietis teigia, kad taigi ir šis markgrafas, apdairus ir protingas vyras, 
 
 <a id="claim-t-59124"></a>
 - t-001
-  global_id: t-59124
   teiginys: "„Fridlando“ vardas lotyniškai reiškė posakį „Maldininke, nuramink žęmę“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Dusburgietis teigia, kad taigi ir šis markgrafas, apdairus ir protingas vyras, 
     - c-59756
 
 <a id="claim-t-184036"></a>
-- t-002
-  global_id: t-184036
+- t-003
   teiginys: "Petras Dusburgietis aiškina, kad „Fridlando“ vardas lotyniškai reiškia „Maldininke, nuramink žęmę“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,20 +75,16 @@ Dusburgietis teigia, kad taigi ir šis markgrafas, apdairus ir protingas vyras, 
     ir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų
     mažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia
     „Maldininke, nuramink žęmę“. Abu vardai iš tiesų labai jiems tiko. Jie mat labai pasitarnavo
-    (Dotnuvos apyl.
-  citata_rodoma: |
-    Taigi
-    ir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų
-    mažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia
-    „Maldininke, nuramink žęmę“. Abu vardai iš tiesų labai jiems tiko. Jie mat labai pasitarnavo
-    (Dotnuvos apyl.
+    (Dotnuvos apyl. upė), Dubysos intaką Mukė, resp.
+  citata_rodoma: "Taigi\nir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų\nmažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia\n„Maldininke, nuramink žęmę“. Abu vardai iš tiesų labai jiems tiko. Jie mat labai pasitarnavo\n(Dotnuvos apyl."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59124
+    - t-001
+
 - id: c-167421
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -108,4 +102,4 @@ Dusburgietis teigia, kad taigi ir šis markgrafas, apdairus ir protingas vyras, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184036
+    - t-003

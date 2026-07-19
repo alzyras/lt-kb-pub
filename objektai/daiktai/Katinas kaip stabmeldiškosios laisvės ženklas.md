@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-189725"></a>
 - t-002
-  global_id: t-189725
   teiginys: "Narbutas katiną aiškino kaip laisvės deivės simbolį, kuriuo lietuvių tauta esą naudojosi priešindamasi laisvių suvaržymui."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,20 +70,6 @@ Nenurodyta
   pagrindžia:
     - c-172608
 
-<a id="claim-t-189724"></a>
-- t-001
-  global_id: t-189724
-  teiginys: 'Narbutas 1483 m. Kazimiero privilegijoje katino įteikimą karaliui aiškino kaip stabmeldiškosios laisvės ženklą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Kilmės ir simbolinės interpretacijos teiginys paliktas su Narbuto atribucija. Nepridėta daugiau nei privilegijos data, veiksmas ir aiškinama reikšmė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Rimvydas|Rimvydas]]; mentioned_place: Lietuva; mentioned_place: Merkinė; mentioned_place: Trakai; mentioned_place: Upės (Oppen) kaimas; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1483 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Kilmės ir simbolinės interpretacijos teiginys paliktas su Narbuto atribucija. Nepridėta daugiau nei privilegijos data, veiksmas ir aiškinama reikšmė.'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas 1483 m. Kazimiero privilegijoje katino įteikimą karaliui aiškino kaip stabmeldiškosios laisvės ženklą.'
@@ -109,11 +94,9 @@ Nenurodyta
     (Lietwii) ženklas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189724
+  statusas: verified
 ## Citatos
 
 - id: c-172608
@@ -134,4 +117,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189725
+    - t-002

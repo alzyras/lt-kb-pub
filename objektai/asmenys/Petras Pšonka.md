@@ -29,8 +29,7 @@ Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė išdaviku ir nugalabij
 ## Teiginiai
 
 <a id="claim-t-196581"></a>
-- t-001
-  global_id: t-196581
+- t-002
   teiginys: "Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė išdaviku ir nugalabijo upės pakrantėje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė išdaviku ir nugalabij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196581
+    - t-002

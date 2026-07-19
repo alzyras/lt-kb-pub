@@ -37,7 +37,6 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
 
 <a id="claim-t-58705"></a>
 - t-001
-  global_id: t-58705
   teiginys: "1230 m. Aragono karalius užėmė Menorką ir Maljorką, kurias anksčiau valdė saracėnai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,12 +54,11 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
   temporalinis_llm_pakomentavimas: "Pradinis teiginys turi antraštės ir bibliografinio triukšmo, bet citata palaiko glaustą faktą."
   pagrindžia:
     - c-59337
-    - c-001
+
 <a id="claim-t-194543"></a>
 - t-003
-  global_id: t-194543
   teiginys: "Apie Maljorkos ir Menorkos salų užėmimą 1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -68,7 +66,6 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59337
-    - c-001
 - susijęs iš [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.).md#claim-t-183942|Maljorkos ir Menorkos salų užėmimas (1230 m.)]]: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.
 - susijęs iš [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.).md#claim-t-62388|Maljorkos ir Menorkos salų užėmimas (1230 m.)]]: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.
 - susijęs iš Ispanija: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.
@@ -94,9 +91,8 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58705
-    - t-194543
+- t-194543
+
 ## Citatos
 
 - id: c-59337
@@ -111,22 +107,15 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
     Mikalojaus koplyčią Gladbache, tikėdamasis, jog ten dievas patarsiąs, ką daryti.
     Aukščiausiojo ten įkvėptas, su keliais iš savo šeimynos jis kreipėsi į jo šventenybę
     popiežių, kuriam ir išpažino visas savo nuodėmes.
-  citata_rodoma: |
-    Apie Maljorkos ir Menorkos salų užėmimą
-
-      1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir
-    Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33).
-
-
-
-                              21.
+  citata_rodoma: "Apie Maljorkos ir Menorkos salų užėmimą\n\n  1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir\nMenorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33).\n\n\n\n                          21."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58705
-    - t-194543
+    - t-001
+    - t-003
+
 ## Ryšiai
 - Užėmė Menorką: [[objektai/grupes/Saracėnai]]

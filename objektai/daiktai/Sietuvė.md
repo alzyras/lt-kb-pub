@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-195356"></a>
 - t-001
-  global_id: t-195356
   teiginys: "Indas ar įrenginys su kruopomis, iš kurio semia mažiukai."
   atnaujinta: "2026-07-12 01:47"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -73,14 +72,11 @@ Nenurodyta
     nės avižų kruopos. Jos geros valgyti ir nevirintos. Mažiukai, pripuolę
     prie sietuvės su kruopomis, nešioja jas saujomis ir valgo pasislėpda­
     mi nuo didžiųjų.
-  citata_rodoma: |
-    Jos geros valgyti ir nevirintos. Mažiukai, pripuolę
-    prie sietuvės su kruopomis, nešioja jas saujomis ir valgo pasislėpda­
-    mi nuo didžiųjų.
+  citata_rodoma: "Jos geros valgyti ir nevirintos. Mažiukai, pripuolę \nprie sietuvės su kruopomis, nešioja jas saujomis ir valgo pasislėpda­\nmi nuo didžiųjų."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195356
+    - t-001

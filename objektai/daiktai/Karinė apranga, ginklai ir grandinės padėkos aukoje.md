@@ -47,9 +47,8 @@ Nenurodyta
 
 <a id="claim-t-189684"></a>
 - t-001
-  global_id: t-189684
   teiginys: "Narbutas padėkos auką aprašė kaip apeigą, per kurią ant laužo sudegindavo žymų belaisvį su žirgu, karine apranga ir ginklais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172567
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas padėkos auką aprašė kaip apeigą, per kurią ant laužo sudegindavo žymų belaisvį su žirgu, karine apranga ir ginklais.'
@@ -85,8 +84,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189684
+
 ## Citatos
 
 - id: c-172567
@@ -107,20 +105,11 @@ Nenurodyta
     permaldavimo auka tapo tokia, kad vaidila pats susižeisdavo
     ir savo kraują atnašaudavo dievams kaip auką, o prie Pokliaus
     stabo dėdavo gyvulio galvą.
-  citata_rodoma: |
-    Nėra priežasties abejoti, kad se­
-    novės laikais tai buvo bendras lietuvių protėvių paprotys, ta­
-    čiau labai seniai užmirštas, kadangi kryžiuočių rašytojai, iš­
-    vardydami pavergtos tautos nedorybes, nebūtų pamiršę tai pa­
-    minėti. Tačiau šito papročio liekana yra ši auka. Ji susidėdavo
-    iš didžiosios aukos ir bendrų vaišių; jų metu ant laužo sude­
-    gindavo ką nors iš žymiausių belaisvių, paimtų su ginklu ran­
-    koje kovos lauke, su jo žirgu, su visa karine apranga ir gin­
-    klais.
+  citata_rodoma: "Nėra priežasties abejoti, kad se­\nnovės laikais tai buvo bendras lietuvių protėvių paprotys, ta­\nčiau labai seniai užmirštas, kadangi kryžiuočių rašytojai, iš­\nvardydami pavergtos tautos nedorybes, nebūtų pamiršę tai pa­\nminėti. Tačiau šito papročio liekana yra ši auka. Ji susidėdavo\niš didžiosios aukos ir bendrų vaišių; jų metu ant laužo sude­\ngindavo ką nors iš žymiausių belaisvių, paimtų su ginklu ran­\nkoje kovos lauke, su jo žirgu, su visa karine apranga ir gin­\nklais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189684
+    - t-001

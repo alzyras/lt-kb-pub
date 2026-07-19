@@ -40,10 +40,9 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 ## Teiginiai
 
 <a id="claim-t-71336"></a>
-- t-001
-  global_id: t-71336
+- t-007
   teiginys: "XIX a. Michailo Muravjovo Koriko laikais Lietuvoje nukentėjo perpus mažiau kunigų nei stalinizmo metais."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -55,11 +54,9 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-69924
-    - c-69927
 
 <a id="claim-t-71337"></a>
-- t-002
-  global_id: t-71337
+- t-003
   teiginys: "Vilniaus karinės apygardos kariuomenės štabo ataskaitoje Michailui Muravjovui nurodyta, kad 128 sukilėliai nuteisti mirties bausme."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +75,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - c-69925
 
 <a id="claim-t-71338"></a>
-- t-003
-  global_id: t-71338
+- t-006
   teiginys: "M. Muravjovo laikai XIX a. siejami su Koriko pravarde."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -95,8 +91,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - c-69924
 
 <a id="claim-t-71339"></a>
-- t-004
-  global_id: t-71339
+- t-001
   teiginys: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -115,8 +110,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - c-69929
 
 <a id="claim-t-71340"></a>
-- t-005
-  global_id: t-71340
+- t-002
   teiginys: "Naujasis generalgubernatorius Michailas Muravjovas, pramintas „Koriku“, siekdamas įbauginti Lietuvos gyventojus, įsakė karti sukilėlius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,8 +148,9 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71336
-    - t-71338
+    - t-007
+    - t-006
+
 - id: c-69925
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -175,7 +170,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71337
+    - t-003
+
 - id: c-69927
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -188,11 +184,10 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     pavasario.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-71336
 - id: c-69928
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -213,7 +208,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71340
+    - t-002
+
 - id: c-69929
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -234,4 +230,4 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71339
+    - t-001

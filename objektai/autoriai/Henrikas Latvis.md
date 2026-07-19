@@ -40,8 +40,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
 ## Teiginiai
 
 <a id="claim-t-171490"></a>
-- t-001
-  global_id: t-171490
+- t-005
   teiginys: "Henriko Latvio kronika laikoma svarbiu šaltiniu XIII-XIV a. Lietuvos feodalinio laikotarpio istorijai nušviesti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,10 +57,9 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   temporalinis_llm_pakomentavimas: "Citata pagrindžia teiginį apie Henriko Latvio kronikos reikšmę, bet pradinis tekstas yra triukšmingas ir per ilgas."
   pagrindžia:
     - c-156013
-    - c-003
+
 <a id="claim-t-171491"></a>
-- t-002
-  global_id: t-171491
+- t-001
   teiginys: "Henrikas Latvis priklauso XIII a. Livonijos šaltiniams, kurie liudija gerą pagonių lietuvių apsiginklavimą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
 
 <a id="claim-t-171493"></a>
 - t-003
-  global_id: t-171493
   teiginys: "Henrikas Latvis „Livonijos kronikoje“ aprašė Lietuvos valdžios siekį valdyti vietos krikščionių ir pagonių gentis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +95,6 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
 
 <a id="claim-t-188402"></a>
 - t-004
-  global_id: t-188402
   teiginys: "Narbutas rašė, kad Henriko Latvio kronikos XVII a. Glumerio pastabose 1243 m. lietuvių šūkis aiškintas kaip kreipinys į karo dievą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -140,8 +136,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-171490
+
 ## Citatos
 
 - id: c-156011
@@ -161,26 +156,15 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
     ganytojo patekusios į vilkų gaują.“
 
     1236 m. rugsėjo 22 d. SAULĖS (ŠIAULIŲ) MUSIS 21
-  citata_rodoma: |
-    Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti
-
-    „Lettonijos [Lietuvos] valdžia siekė valdyti visas šituose kraštuose gyvenančias gentis, tiek
-    krikščionių, tiek pagonių, ir retas kas drįsdavo gyventi savo sodyboje, labiausiai nedrįso
-    lettai. Ir dėl to jie per pavojus palikdavo savo namus ir slėpdavosi miško tankynėse, bet
-    ir čia neišsigelbėdavo nuo lettony; lettonai persekiojo juos miškuose, vienus užmušinėjo,
-    kitus ėmė į nelaisvę, vedė juos į savo žemę ir ėmė iš jų viską kaip savo. Ir bėgo rutenai
-    [rusai] miškais ir kaimais nuo lettonų, net nuo nedaugelio, kaip bėga kiškiai nuo me-
-    džiotojo, o lyviai ir lettai klusniai tarnavo lettonams, davė maistą ir pašarą, kaip avys, be
-    ganytojo patekusios į vilkų gaują.“
-
-    1236 m.
+  citata_rodoma: "Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti\n\n„Lettonijos [Lietuvos] valdžia siekė valdyti visas šituose kraštuose gyvenančias gentis, tiek\nkrikščionių, tiek pagonių, ir retas kas drįsdavo gyventi savo sodyboje, labiausiai nedrįso\nlettai. Ir dėl to jie per pavojus palikdavo savo namus ir slėpdavosi miško tankynėse, bet\nir čia neišsigelbėdavo nuo lettony; lettonai persekiojo juos miškuose, vienus užmušinėjo,\nkitus ėmė į nelaisvę, vedė juos į savo žemę ir ėmė iš jų viską kaip savo. Ir bėgo rutenai\n[rusai] miškais ir kaimais nuo lettonų, net nuo nedaugelio, kaip bėga kiškiai nuo me-\ndžiotojo, o lyviai ir lettai klusniai tarnavo lettonams, davė maistą ir pašarą, kaip avys, be\nganytojo patekusios į vilkų gaują.“\n\n1236 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171493
+    - t-003
+
 - id: c-156012
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -201,7 +185,8 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171491
+    - t-001
+
 - id: c-156013
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -223,18 +208,15 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: |
-    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
-    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
-    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
-    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
+  citata_rodoma: "Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus\nkaras prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,\nnušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš\nDusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171490
+    - t-005
+
 - id: c-171292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -254,4 +236,4 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188402
+    - t-004

@@ -30,7 +30,6 @@ Dwight Iš jo „Modern Philology“ („Modernioji filologija“).
 
 <a id="claim-t-45745"></a>
 - t-001
-  global_id: t-45745
   teiginys: "Benjaminas W. Dwightas veikale „Modern Philology“ lietuvių kalbos grožį iškėlė kaip lietuvių tautos vertės pagrindą."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ Dwight Iš jo „Modern Philology“ („Modernioji filologija“).
 
 <a id="claim-t-45746"></a>
 - t-002
-  global_id: t-45746
   teiginys: "„Modern Philology“ lietuvių kalba apibūdinta kaip turinti daugiausia maloninių ir mažybinių žodžių tarp Europos kalbų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,22 +87,12 @@ Dwight Iš jo „Modern Philology“ („Modernioji filologija“).
     dalis lenkų laikė Rusijos carizmo politikos projektu, gimusiu tik tam, kad
     skaldytų ir silpnintų lenkų jėgą, o vėliau Lietuvos valstybės atkūrimą lai-
     kys tik Vokietijos intriga.
-  citata_rodoma: |
-    Jeigu tautos vertė, imant visą
-    žmoniją, būtų matuojama kalbos grožiu, tai lietuvių tauta turėtų
-    užimti pirmą vietą tarp Europos tautų“
-    Benjamin W. Dwight
-    Iš jo „Modern Philology“ („Modernioji filologija“)
-    X
-    X a. pradžioje apie lietuvių tautos egzistenciją gerai
-    žinojo tik žymūs to meto lingvistai, keldami lietuvių
-    kalbos savitumą, jos išsaugotas archajines indoeuropiečių kalbos formas
-    ir vertingumą lyginamajai kalbotyrai.
+  citata_rodoma: "Jeigu tautos vertė, imant visą\nžmoniją, būtų matuojama kalbos grožiu, tai lietuvių tauta turėtų\nužimti pirmą vietą tarp Europos tautų“\nBenjamin W. Dwight\nIš jo „Modern Philology“ („Modernioji filologija“)\nX\nX a. pradžioje apie lietuvių tautos egzistenciją gerai\nžinojo tik žymūs to meto lingvistai, keldami lietuvių\nkalbos savitumą, jos išsaugotas archajines indoeuropiečių kalbos formas\nir vertingumą lyginamajai kalbotyrai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45745
-    - t-45746
+    - t-001
+    - t-002

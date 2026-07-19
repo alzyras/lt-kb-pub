@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-39184"></a>
 - t-001
-  global_id: t-39184
   teiginys: "Antanas Mackevičius sutelkė 150 dalgiais ir šautuvais ginkluotų vyrų kovai prie Naujaberžės kaimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +68,6 @@ Nenurodyta
 
 <a id="claim-t-39185"></a>
 - t-002
-  global_id: t-39185
   teiginys: "Aprašytame sukilėlių būryje pusė kovotojų buvo ginkluoti dalgiais, o pusė - ietimis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39185
+    - t-002
+
 - id: c-40990
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -122,4 +121,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39184
+    - t-001

@@ -30,7 +30,6 @@ Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo
 
 <a id="claim-t-21977"></a>
 - t-001
-  global_id: t-21977
   teiginys: "Atkurtos Lietuvos URM jauni diplomatai dėl ambicijų, energijos ir netradicinių žingsnių gavo epitetą „Baltic Kindergarten“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,12 +60,11 @@ Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo
     entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus
     Vakarų diplomatų epitetą „Baltic Kindergarten“…
     Vilniuje pašalinamas Lenino paminklas.
-  citata_rodoma: |
-    kalų ministeriją, daugelis šalių kvietė juos mokytis diplomatijos. Pakviesti
+  citata_rodoma: "kalų ministeriją, daugelis šalių kvietė juos mokytis diplomatijos. Pakviesti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21977
+    - t-001

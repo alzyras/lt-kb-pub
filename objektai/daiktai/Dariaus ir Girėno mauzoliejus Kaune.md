@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-77922"></a>
 - t-001
-  global_id: t-77922
   teiginys: "Dariaus ir Girėno mauzoliejus Kaune buvo pastatytas lakūnams kaip didvyriams, naikintas per nacių okupaciją ir baigtas naikinti sovietmečiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77922
+    - t-001

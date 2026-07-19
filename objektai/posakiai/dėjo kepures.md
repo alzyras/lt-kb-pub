@@ -33,33 +33,6 @@ media_all_json: |-
 
 Narbutas posakį „dėjo kepures“ aiškino kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika.
 
-## Teiginiai
-
-<a id="claim-t-189576"></a>
-- t-001
-  global_id: t-189576
-  teiginys: "Narbutas posakį „dėjo kepures“ aiškino kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Priesaika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "dėjo kepures: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Priesaika: mention_match, thing, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"dėjo kepures\" parinktas kaip owner_note_path. Targetas \"Priesaika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172463
-    - c-001
-- susijęs iš Senųjų Lietuvos teismų sprendimai: Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi žmonės priesaikos metu „dėjo kepures“.
-- susijęs iš [[objektai/paprociai/Kepurės padėjimas teismo priesaikoje.md#claim-t-189780|Kepurės padėjimas teismo priesaikoje]]: Narbutas kepurių padėjimą teismo liudijimuose aiškino kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika.
-- susijęs iš [[objektai/zodynas/Dėti kepurę.md#claim-t-189124|Dėti kepurę]]: Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika, minimą senųjų teismų sprendimuose.
-- susijęs iš [[objektai/zodynas/Skrutinijos.md#claim-t-189332|Skrutinijos]]: Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių metu liudytojai prisiekdavo.
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas posakį „dėjo kepures“ aiškino kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika.'
@@ -82,8 +55,7 @@ Narbutas posakį „dėjo kepures“ aiškino kaip senovinį lietuvių liudijimo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189576
+
 ## Citatos
 
 - id: c-172463
@@ -102,23 +74,37 @@ Narbutas posakį „dėjo kepures“ aiškino kaip senovinį lietuvių liudijimo
     vuose išlikę duomenys iš XIII amžiaus.
     Lietuviai nuo seniausių amžių dalijo laiką į valandas
     (lYahmda) , o jos skirstytos į dienos ir nakties.
-  citata_rodoma: |
-    Šaltinis
-    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
-    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
-    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
-    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
-    17 Lieflandische Geschichte (1757 metų leidimas. -  P. 32).
-    II. 93
-    321
-
-    ## Puslapis 321
-
-    lietuvių liudijimo būdas su užkeikimu arba priesaika.
+  citata_rodoma: "Šaltinis\nyra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­\nsiremiantys skrutinijomis, arba tardymais, kurių metu liudy­\ntojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­\nkėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17\n17 Lieflandische Geschichte (1757 metų leidimas. -  P. 32).\nII. 93\n321\n\n## Puslapis 321\n\nlietuvių liudijimo būdas su užkeikimu arba priesaika."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189576
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-189576"></a>
+- t-001
+  teiginys: "Narbutas posakį „dėjo kepures“ aiškino kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika."
+  atnaujinta: "2026-07-19 17:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Priesaika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "dėjo kepures: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Priesaika: mention_match, thing, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"dėjo kepures\" parinktas kaip owner_note_path. Targetas \"Priesaika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172463
+- susijęs iš Senųjų Lietuvos teismų sprendimai: Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi žmonės priesaikos metu „dėjo kepures“.
+- susijęs iš [[objektai/paprociai/Kepurės padėjimas teismo priesaikoje.md#claim-t-189780|Kepurės padėjimas teismo priesaikoje]]: Narbutas kepurių padėjimą teismo liudijimuose aiškino kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika.
+- susijęs iš [[objektai/zodynas/Dėti kepurę.md#claim-t-189124|Dėti kepurę]]: Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika, minimą senųjų teismų sprendimuose.
+- susijęs iš [[objektai/zodynas/Skrutinijos.md#claim-t-189332|Skrutinijos]]: Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių metu liudytojai prisiekdavo.

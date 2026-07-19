@@ -31,7 +31,6 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 
 <a id="claim-t-62983"></a>
 - t-001
-  global_id: t-62983
   teiginys: "Brunsbergo miestiečiai ir pilėnai priešams priešinosi užversdami pilies ir miesto prieigas vežimais bei kitais mediniais daiktais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -49,24 +48,13 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 
 <a id="claim-t-62984"></a>
 - t-002
-  global_id: t-62984
   teiginys: "Brunsbergo miestiečiai ir pilėnai, išsigandę antpuolio, sudegino pilį bei miestą ir pasitraukė su šeimynomis."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Brunsbergas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Brunsbergo miestiečiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Brunsbergas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brunsbergo miestiečiai\" parinktas kaip owner_note_path. Targetas \"Brunsbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-63884
-    - c-63885
-    - c-002
-    - c-003
+    - c-63883
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58805|pilėnas pilėnai]]: Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais.
 ## Reikšmingi paminėjimai
 - c-002
@@ -83,8 +71,6 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62984
 - c-003
   santrauka: 'Brunsbergo miestiečiai ir pilėnai, išsigandę antpuolio, sudegino pilį bei miestą ir pasitraukė su šeimynomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -99,8 +85,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62984
+
 ## Citatos
 
 - id: c-63883
@@ -112,18 +97,16 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
     tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti. Šis mūšis pareikalavo iš
     abiejų šalių daug sužeistųjų, kai kurie krito nukauti. Galop, nieko nepešę, pasitraukė.
-  citata_rodoma: |
-    Jiems narsiai pasipriešino miestiečiai
-    ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
-    tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti. Šis mūšis pareikalavo iš
-    abiejų šalių daug sužeistųjų, kai kurie krito nukauti. Galop, nieko nepešę, pasitraukė.
+  citata_rodoma: "Jiems narsiai pasipriešino miestiečiai\nir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami\ntas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti. Šis mūšis pareikalavo iš\nabiejų šalių daug sužeistųjų, kai kurie krito nukauti. Galop, nieko nepešę, pasitraukė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62983
+    - t-001
+    - t-002
+
 - id: c-63884
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -143,19 +126,13 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją
     įsibrovė ir, pagavę bei išžudę visus žmones, išskyrus tuos, kurie suskubo pasprukti į
     Kristburgo pilį, iš pagrindų sugriovė šią pilaitę417.
-  citata_rodoma: |
-    Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,
-    manydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei
-    miestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos
-    reikmenų, kiek ant pečių galėjo pakelti. Jiems atsitraukiant, atskubėjo priešpriešiais 60
-    krikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai.
+  citata_rodoma: "Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,\nmanydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei\nmiestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos\nreikmenų, kiek ant pečių galėjo pakelti. Jiems atsitraukiant, atskubėjo priešpriešiais 60\nkrikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-62984
 - id: c-63885
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -170,16 +147,9 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią
     mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip
     palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.
-  citata_rodoma: |
-    Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,
-    kurie visi buvo priešo nukauti. Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,
-    manydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei
-    miestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos
-    reikmenų, kiek ant pečių galėjo pakelti.
+  citata_rodoma: "Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,\nkurie visi buvo priešo nukauti. Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,\nmanydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei\nmiestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos\nreikmenų, kiek ant pečių galėjo pakelti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-62984

@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-54345"></a>
 - t-001
-  global_id: t-54345
   teiginys: "Vytauto laikais didėjo raštijos poreikiai, lietuvių kalba dar neturėjo raštijos tradicijų, o stačiatikiai valdiniai turėjo seną rašto tradiciją."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-54346"></a>
 - t-002
-  global_id: t-54346
   teiginys: "Vytauto laikais LDK raštijos poreikiai sparčiai didėjo, o lietuvių kalba dar neturėjo susiformavusios raštijos tradicijos."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -95,17 +93,12 @@ Nenurodyta
     spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
     tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
     bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
-  citata_rodoma: |
-    Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-
-    sėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba. Tai lėmė
-    spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
-    tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
-    bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
+  citata_rodoma: "Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-\nsėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba. Tai lėmė \nspartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos \ntradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių \nbažnytinę rašto tradiciją nuo Kijevo Rusios laikų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54345
-    - t-54346
+    - t-001
+    - t-002

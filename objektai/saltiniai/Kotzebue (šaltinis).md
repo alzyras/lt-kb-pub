@@ -33,7 +33,6 @@ Gediminas, didindamas dar kraitį savo dukters, pažadėjo ūkvaizdžiams 40 000
 
 <a id="claim-t-201436"></a>
 - t-001
-  global_id: t-201436
   teiginys: "Gediminas, didindamas dar kraitį savo dukters, pažadėjo ūkvaizdžiams 40 000 lenkų kalinių, Lietu voj vergaujančių, namo paleisti, idant jie Aldoną, 1 Kotzebue, Preus."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Gediminas, didindamas dar kraitį savo dukters, pažadėjo ūkvaizdžiams 40 000
 ## Citatos
 
 - id: c-184786
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Gediminas, didindamas dar kraitį savo dukters,
     pažadėjo ūkvaizdžiams 40 000 lenkų kalinių, Lietu­
@@ -60,4 +60,4 @@ Gediminas, didindamas dar kraitį savo dukters, pažadėjo ūkvaizdžiams 40 000
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201436
+    - t-001

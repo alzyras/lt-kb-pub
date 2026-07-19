@@ -40,9 +40,8 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
 
 <a id="claim-t-189527"></a>
 - t-001
-  global_id: t-189527
   teiginys: "Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į Peloponesą, atsinešė dalį Kabirų ir įvedė jų paslaptingą garbinimo ritualą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -61,7 +60,6 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
 
 <a id="claim-t-192436"></a>
 - t-002
-  global_id: t-192436
   teiginys: "Teodoro Narbuto aiškinimu, įvairios pelazgų kartos perėjo į helenų tautą, o iš pelazgų kalbos susiformavo graikų kalba."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -79,10 +77,9 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175230
-    - c-002
+
 <a id="claim-t-192437"></a>
 - t-003
-  global_id: t-192437
   teiginys: "Teodoro Narbuto teigimu, pelazgai buvo žmonės, atklydę nuo Tibeto prie Viduržemio jūros pakrančių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -103,7 +100,6 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
 
 <a id="claim-t-197511"></a>
 - t-004
-  global_id: t-197511
   teiginys: "Nibūras2 teigia, jog pelazgai labai skyrėsi nuo helėnų, nors jų kalbos, nepaisant tarpusavio skirtumų, archetipų požiūriu buvo gana panašios."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -151,8 +147,7 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192436
+
 ## Citatos
 
 - id: c-172415
@@ -168,20 +163,15 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
     Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi­
     siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
     slavų Tryzną.
-  citata_rodoma: |
-    E Noelis mano, kad Kabi­
-    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
-    vo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-
-    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
-    įvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­
-    siausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais.
+  citata_rodoma: "E Noelis mano, kad Kabi­\nrus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­\nvo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-\nmotrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir\nįvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­\nsiausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189527
+    - t-001
+
 - id: c-175230
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -195,22 +185,15 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
     kis amžius pelazgai įsigalėjo artimesnėje Hesperijoje,
     arba Italijoje, ir apie 1500 metus prieš Kristaus gimimą
     davė pradžią dorėnams ir achajams.
-  citata_rodoma: |
-    Būtent dėl šių priežasčių įvairios
-    pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
-    bos susiformavo graikų kalba.
-    17
-    Pelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­
-    čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
-    pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
-    Dono.
+  citata_rodoma: "Būtent dėl šių priežasčių įvairios\npelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­\nbos susiformavo graikų kalba.\n17\nPelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­\nčiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,\npradedant nuo Po ir Arno upių žiočių net iki Dnepro ir\nDono."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192436
+    - t-002
+
 - id: c-175231
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -232,7 +215,8 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192437
+    - t-003
+
 - id: c-179224
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -260,4 +244,4 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197511
+    - t-004

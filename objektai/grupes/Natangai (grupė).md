@@ -33,7 +33,6 @@ Lygia dalia kiti Vitevudo sūnūs: Šalavo, Natango, Barto, Galindo, Varmo, Ogo,
 
 <a id="claim-t-201236"></a>
 - t-001
-  global_id: t-201236
   teiginys: "Lygia dalia kiti Vitevudo sūnūs: Šalavo, Natango, Barto, Galindo, Varmo, Ogo, Pomezo, Kulmo, visi įgijo kraštus, kuriuos nuo savo vardo praminė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Lygia dalia kiti Vitevudo sūnūs: Šalavo, Natango, Barto, Galindo, Varmo, Ogo,
 ## Citatos
 
 - id: c-184586
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ketvirtajam sūnui teko kraštas tarp upių Ska­
     ros, Boiko ir Kurteno, kursai įkūręs tenai pilį Stain-
@@ -64,4 +64,4 @@ Lygia dalia kiti Vitevudo sūnūs: Šalavo, Natango, Barto, Galindo, Varmo, Ogo,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201236
+    - t-001

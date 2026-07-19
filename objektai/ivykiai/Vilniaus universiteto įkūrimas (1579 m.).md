@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45450"></a>
-- t-001
-  global_id: t-45450
+- t-005
   teiginys: "Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,9 +76,9 @@ Nenurodyta
   pagrindžia:
     - c-23270
     - c-48260
+
 <a id="claim-t-45451"></a>
-- t-002
-  global_id: t-45451
+- t-004
   teiginys: "Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -100,7 +99,6 @@ Nenurodyta
 
 <a id="claim-t-45453"></a>
 - t-003
-  global_id: t-45453
   teiginys: "Naujoji mokykla vadinosi Academia et Universitas Vilnensis Societatis Iesu, arba Vilniaus Jėzaus draugijos akademija ir universitetas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -119,8 +117,7 @@ Nenurodyta
     - c-48261
 
 <a id="claim-t-45454"></a>
-- t-004
-  global_id: t-45454
+- t-006
   teiginys: "1579 m. balandžio 1 d. Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,8 +136,7 @@ Nenurodyta
     - c-48261
 
 <a id="claim-t-45455"></a>
-- t-005
-  global_id: t-45455
+- t-002
   teiginys: "Vilniaus universiteto kūrimąsi skatino aukštosios mokyklos poreikis ir reformacijos bei kontrreformacijos konkurencija."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -156,8 +152,7 @@ Nenurodyta
     - c-23268
 
 <a id="claim-t-45456"></a>
-- t-006
-  global_id: t-45456
+- t-001
   teiginys: "Valstybės remiami jėzuitai sukūrė kolegijų tinklą, kurio viršūnėje buvo 1579 m. įkurtas Vilniaus universitetas."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -175,8 +170,7 @@ Nenurodyta
     - c-23266
 
 <a id="claim-t-183284"></a>
-- t-007
-  global_id: t-183284
+- t-008
   teiginys: "Į Lietuvą atvykę jėzuitai 1579 m. įkūrė Vilniaus universitetą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -212,18 +206,15 @@ Nenurodyta
     pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
     klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
     tas 1579 m.).
-  citata_rodoma: |
-    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
-    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
-    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
-    tas 1579 m.).
+  citata_rodoma: "Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi\npakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-\nklų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-\ntas 1579 m.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45456
+    - t-001
+
 - id: c-23268
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -236,19 +227,15 @@ Nenurodyta
     reformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas
     Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
     mui įkurti kolegiją.
-  citata_rodoma: |
-    Aišku, aukštosios mokyklos poreikis brendo visuo-
-    menėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr-
-    reformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas
-    Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
-    mui įkurti kolegiją.
+  citata_rodoma: "Aišku, aukštosios mokyklos poreikis brendo visuo-\nmenėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr-\nreformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas\nValerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-\nmui įkurti kolegiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45455
+    - t-002
+
 - id: c-23270
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -265,20 +252,16 @@ Nenurodyta
     universitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem
     šimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje –
     praėjus 400 metų po krikšto.
-  citata_rodoma: |
-    Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
-    ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
-    universitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem
-    šimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje –
-    praėjus 400 metų po krikšto.
+  citata_rodoma: "Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-\nropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus\nuniversitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem\nšimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje –\npraėjus 400 metų po krikšto."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45450
-    - t-45451
+    - t-005
+    - t-004
+
 - id: c-48260
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -300,10 +283,12 @@ Nenurodyta
     aišku jau akademiją steigusiems jėzuitams.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-48261
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -332,8 +317,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45453
-    - t-45454
+    - t-003
+    - t-006
+
 - id: c-166673
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -353,4 +339,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183284
+    - t-008

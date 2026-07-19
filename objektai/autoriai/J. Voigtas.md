@@ -31,9 +31,8 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
 
 <a id="claim-t-191884"></a>
 - t-001
-  global_id: t-191884
   teiginys: "Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos padėtį kaimyninių kraštų atžvilgiu."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174766
-    - c-001
+
 <a id="claim-t-194880"></a>
 - t-002
-  global_id: t-194880
   teiginys: "Taip pat ties pie tiniu šio ežero sąsiauriu yra miestelis Anger, nusidrie- 1 Voigt."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191884
+
 ## Citatos
 
 - id: c-174766
@@ -101,21 +98,15 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
     gentims, sako: „Turbūt tas pats karalius Germanarikas
     savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
     kraštą ir pavergė estų tautą“4.
-  citata_rodoma: |
-    Siame gana aiš­
-    kiame Tacito aprašyme atsiskleidžia ta istorinė tiesa, kad
-    jis turėjo žinių apie lietuvių tautą1, kurią stengėsi apra­
-    šyti vadindamas estais. Išnagrinėjęs Tacito geografiją,
-    naujųjų laikų prūsų istorikas nustatė šią Estijos padėtį
-    kaimyninių kraštų atžvilgiu2 3. Į Vakarus nuo dešiniojo
-    1 Thunmann.
+  citata_rodoma: "Siame gana aiš­\nkiame Tacito aprašyme atsiskleidžia ta istorinė tiesa, kad\njis turėjo žinių apie lietuvių tautą1, kurią stengėsi apra­\nšyti vadindamas estais. Išnagrinėjęs Tacito geografiją,\nnaujųjų laikų prūsų istorikas nustatė šią Estijos padėtį\nkaimyninių kraštų atžvilgiu2 3. Į Vakarus nuo dešiniojo\n1 Thunmann."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191884
+    - t-001
+
 - id: c-177276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -130,4 +121,4 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194880
+    - t-002

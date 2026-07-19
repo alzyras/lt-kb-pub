@@ -36,7 +36,6 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
 
 <a id="claim-t-63146"></a>
 - t-001
-  global_id: t-63146
   teiginys: "Po Konstantinopolio užėmimo imperatoriumi tapo Flandrijos grafas Balduinas, o lotynai ten valdė 57 metus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -253,20 +252,14 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
     įsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas  ir
     apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
     lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
-  citata_rodoma: |
-    Apie Konstantinopolio miesto užėmimą
-
-      1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog
-    niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai,
-    įsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas  ir
-    apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
-    lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
+  citata_rodoma: "Apie Konstantinopolio miesto užėmimą\n\n  1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog\nniekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai,\nįsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas  ir\napgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten\nlotynai 57 metus (Ptol. 21,4; Mart. p. 387)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63146
+    - t-001
+
 ## Ryšiai
 - Lotynai valdė [[objektai/vietos/Konstantinopolis]]

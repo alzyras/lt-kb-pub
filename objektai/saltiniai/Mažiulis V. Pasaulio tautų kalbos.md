@@ -36,7 +36,6 @@ Dusburgietis teigia, kad mažiulis V.
 
 <a id="claim-t-61168"></a>
 - t-001
-  global_id: t-61168
   teiginys: "V. Mažiulio „Pasaulio tautų kalbos“ išleista 1979 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,12 +55,11 @@ Dusburgietis teigia, kad mažiulis V.
   citata_originali: |
     Mažiulis V. Pasaulio tautų kalbos.—V., 1979.
     Mažiulis V. Rec: B. H. Топоров.
-  citata_rodoma: |
-    Mažiulis V. Pasaulio tautų kalbos.—V., 1979.
+  citata_rodoma: "Mažiulis V. Pasaulio tautų kalbos.—V., 1979."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61168
+    - t-001

@@ -48,8 +48,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-114851"></a>
-- t-001
-  global_id: t-114851
+- t-002
   teiginys: "1925 m. Poznanė siejama su IV visuotiniu Lenkijos istorikų suvažiavimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,8 +66,7 @@ media_all_json: |-
     - c-105861
 
 <a id="claim-t-114852"></a>
-- t-002
-  global_id: t-114852
+- t-006
   teiginys: "Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,8 +85,7 @@ media_all_json: |-
     - c-105862
 
 <a id="claim-t-114853"></a>
-- t-003
-  global_id: t-114853
+- t-005
   teiginys: "Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,8 +101,7 @@ media_all_json: |-
     - c-105860
 
 <a id="claim-t-114855"></a>
-- t-004
-  global_id: t-114855
+- t-009
   teiginys: "Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau tapo Poznanės vyskupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,8 +117,7 @@ media_all_json: |-
     - c-105863
 
 <a id="claim-t-114856"></a>
-- t-005
-  global_id: t-114856
+- t-008
   teiginys: "Jonas II 1536 m. buvo perkeltas į Poznanės vyskupiją ir mirė 1538 m., sulaukęs 40 metų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -141,8 +136,7 @@ media_all_json: |-
     - c-105865
 
 <a id="claim-t-114857"></a>
-- t-006
-  global_id: t-114857
+- t-015
   teiginys: "Jonas II 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją, o 1538 m. mirė sulaukęs 40 metų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -162,7 +156,6 @@ media_all_json: |-
 
 <a id="claim-t-114858"></a>
 - t-007
-  global_id: t-114858
   teiginys: "Kroniką „Lechitów i Polaków“ parašė Poznanės kustodas Godzislovas Baško."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -180,8 +173,7 @@ media_all_json: |-
     - c-105859
 
 <a id="claim-t-114860"></a>
-- t-008
-  global_id: t-114860
+- t-011
   teiginys: "Laurynas Goslickis, buvęs karaliaus Stepono sekretorius, galiausiai tapo Poznanės vyskupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -197,8 +189,7 @@ media_all_json: |-
     - c-105863
 
 <a id="claim-t-114861"></a>
-- t-009
-  global_id: t-114861
+- t-001
   teiginys: "Didžioji Lenkija su Poznane buvo viena iš dviejų Lenkijos provincijų."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -215,8 +206,7 @@ media_all_json: |-
     - c-24404
 
 <a id="claim-t-114862"></a>
-- t-010
-  global_id: t-114862
+- t-016
   teiginys: "Boleslovo laikais Krušvica, Poznanė ir kiti Didžiosios Lenkijos miestai garsėjo turtais ir gyventojų gausa."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -232,8 +222,7 @@ media_all_json: |-
     - c-105868
 
 <a id="claim-t-114863"></a>
-- t-011
-  global_id: t-114863
+- t-010
   teiginys: "Martino Galiaus pasakojimu, Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -249,8 +238,7 @@ media_all_json: |-
     - c-105860
 
 <a id="claim-t-114864"></a>
-- t-012
-  global_id: t-114864
+- t-014
   teiginys: "„Kronika Lechitów i Polaków“ buvo parašyta Poznanės kustodo Godzislavo Baško."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -269,8 +257,7 @@ media_all_json: |-
     - c-105859
 
 <a id="claim-t-194988"></a>
-- t-013
-  global_id: t-194988
+- t-018
   teiginys: "RDzSG = Roczniki Dziejów Społecznych i Gospodarczych, Poznanė."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -383,15 +370,15 @@ media_all_json: |-
     mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva
     turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
     buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
-  citata_rodoma: |
-    turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
+  citata_rodoma: "turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114861
+    - t-001
+
 - id: c-105859
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -411,22 +398,16 @@ media_all_json: |-
     vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­
     tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
     kupais. (Žr. 1.
-  citata_rodoma: |
-    Apie tai mini Kroni­
-    ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s -
-    lavo Baško (vert. į lenkų kalbą 1822 m., Varšuva), nuro­
-    dydama, kad „1253 metais Petras, išrinktas Poznanės
-    vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­
-    tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
-    kupais.
+  citata_rodoma: "Apie tai mini Kroni­\nka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s - \nlavo Baško (vert. į lenkų kalbą 1822 m., Varšuva), nuro­\ndydama, kad „1253 metais Petras, išrinktas Poznanės \nvyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­\ntuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­\nkupais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114858
-    - t-114864
+    - t-007
+    - t-014
+
 - id: c-105860
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -440,23 +421,16 @@ media_all_json: |-
     Vladislavovo pilis - 800 šarvuotų­
     jų, 2 000 su skydais, Gdečas - 300
     pirmųjų ir 2 000 antrųjų.
-  citata_rodoma: |
-    51. Martinas
-    Galias pasakoja, kad Poznanė duo­
-    davo 1 300 šarvuotųjų ir 4 000 gin­
-    kluotų skydais, Gnieznas - 1 500
-    šarvuotųjų ir 5 000 pėstininkų;
-    Vladislavovo pilis - 800 šarvuotų­
-    jų, 2 000 su skydais, Gdečas - 300
-    pirmųjų ir 2 000 antrųjų.
+  citata_rodoma: "51. Martinas \nGalias pasakoja, kad Poznanė duo­\ndavo 1 300 šarvuotųjų ir 4 000 gin­\nkluotų skydais, Gnieznas - 1 500 \nšarvuotųjų ir 5 000 pėstininkų; \nVladislavovo pilis - 800 šarvuotų­\njų, 2 000 su skydais, Gdečas - 300 \npirmųjų ir 2 000 antrųjų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114853
-    - t-114863
+    - t-005
+    - t-010
+
 - id: c-105861
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -473,7 +447,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114851
+    - t-002
+
 - id: c-105862
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -489,19 +464,15 @@ media_all_json: |-
     ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
     teises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
     1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.
-  citata_rodoma: |
-    Poznanė dar anksčiau už Krokuvą - 1253 metais,
-    Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
-    ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
-    teises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
-    1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.
+  citata_rodoma: "Poznanė dar anksčiau už Krokuvą - 1253 metais,\nSandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­\nketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų\nteises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -\n1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114852
+    - t-006
+
 - id: c-105863
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -523,25 +494,16 @@ media_all_json: |-
     parašęs puikią knygą „De optimo
     Senatore", kuri buvo išversta net į
     anglų kalbą.
-  citata_rodoma: |
-    60
-    Laurynas Goslickis, pirmiausia ka­
-    raliaus Stepono sekretorius, galiau­
-    siai Poznanės vyskupas, išgarsėjo
-    ypatingais sugebėjimais spręsti vie­
-    šuosius reikalus bei įvairiose pasiun­
-    tinybėse, bet labiausiai lotynų kalba
-    parašęs puikią knygą „De optimo
-    Senatore", kuri buvo išversta net į
-    anglų kalbą.
+  citata_rodoma: "60\nLaurynas Goslickis, pirmiausia ka­\nraliaus Stepono sekretorius, galiau­\nsiai Poznanės vyskupas, išgarsėjo\nypatingais sugebėjimais spręsti vie­\nšuosius reikalus bei įvairiose pasiun­\ntinybėse, bet labiausiai lotynų kalba\nparašęs puikią knygą „De optimo\nSenatore\", kuri buvo išversta net į\nanglų kalbą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114855
-    - t-114860
+    - t-009
+    - t-011
+
 - id: c-105865
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -555,19 +517,16 @@ media_all_json: |-
     1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40
     metų, 1538 m.
     13.
-  citata_rodoma: |
-    12. Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto
-    I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o
-    1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40
-    metų, 1538 m.
+  citata_rodoma: "12. Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto \nI tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o \n1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40 \nmetų, 1538 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114856
-    - t-114857
+    - t-008
+    - t-015
+
 - id: c-105868
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -595,7 +554,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114862
+    - t-016
+
 - id: c-177372
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -612,4 +572,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194988
+    - t-018

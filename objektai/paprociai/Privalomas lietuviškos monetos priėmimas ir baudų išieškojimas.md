@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87183"></a>
-- t-001
-  global_id: t-87183
+- t-002
   teiginys: "1572 m. įsakymas numatė dešimties lenkiškų grivinų baudą atsisakiusiems priimti lietuvišką monetą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ Nenurodyta
     - c-83162
 
 <a id="claim-t-87184"></a>
-- t-002
-  global_id: t-87184
+- t-001
   teiginys: "1572 m. Žygimantas Augustas įsakė lietuvišką monetą imti nustatyta verte, o atsisakiusiesiems ją priimti numatė dešimties lenkiškų grivinų baudą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +97,6 @@ Nenurodyta
 
 <a id="claim-t-183827"></a>
 - t-003
-  global_id: t-183827
   teiginys: "Žygimantas Augustas įsakė Lietuvos ir Lenkijos pavaldiniams lietuvišką monetą priimti už nustatytą lenkiškų grašių vertę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -120,7 +117,6 @@ Nenurodyta
 
 <a id="claim-t-194190"></a>
 - t-004
-  global_id: t-194190
   teiginys: "Visiems bendrai ir kiekvie nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo je vietinėse mūsų Karalystės valstybėse iki šio laiko."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -133,7 +129,6 @@ Nenurodyta
 
 <a id="claim-t-194191"></a>
 - t-005
-  global_id: t-194191
   teiginys: "Šiuo mūsų įsakymu norime, kad visi bendrai VILNIAUS MIESTO ISTORIJA II TOMAS mūsų pavaldiniai kaip Lenkijoje, taip ir Lietuvoje, ir kitose mūsų karalystės valdose privalėtų išlaikyti dešimties len kiškų grivinų baudą ir ši bauda į bet kurio mūsų valdų mies to."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -202,8 +197,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87183
-    - t-87184
-    - t-183827
-    - t-194190
-    - t-194191
+    - t-002
+    - t-001
+    - t-003
+    - t-004
+    - t-005

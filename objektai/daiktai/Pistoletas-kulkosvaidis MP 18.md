@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-40750"></a>
 - t-001
-  global_id: t-40750
   teiginys: "MP 18 pasirodė Pirmojo pasaulinio karo pabaigoje ir buvo pirmasis masiškai gamintas vokiečių pistoletas-kulkosvaidis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,16 +80,11 @@ Nenurodyta
     pavardę, kūrusio kitą dar Pirmojo pasaulinio karo pabaigoje pasirodžiusį,
     pirmąjį vokiečių masiškai gamintą pistoletą kulkosvaidį MP 18. Po vokiečių
     atsitraukimo iš Lietuvos teritorijos čia liko nemažai šių ginklų.
-  citata_rodoma: |
-    MP 40 dažnai
-    šnekamojoje kalboje vadinamas „Šmaiseriu“ pagal konstruktoriaus
-    pavardę, kūrusio kitą dar Pirmojo pasaulinio karo pabaigoje pasirodžiusį,
-    pirmąjį vokiečių masiškai gamintą pistoletą kulkosvaidį MP 18. Po vokiečių
-    atsitraukimo iš Lietuvos teritorijos čia liko nemažai šių ginklų.
+  citata_rodoma: "MP 40 dažnai\nšnekamojoje kalboje vadinamas „Šmaiseriu“ pagal konstruktoriaus\npavardę, kūrusio kitą dar Pirmojo pasaulinio karo pabaigoje pasirodžiusį,\npirmąjį vokiečių masiškai gamintą pistoletą kulkosvaidį MP 18. Po vokiečių\natsitraukimo iš Lietuvos teritorijos čia liko nemažai šių ginklų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40750
+    - t-001

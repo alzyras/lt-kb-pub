@@ -36,8 +36,7 @@ Vilniaus - (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, 
 ## Teiginiai
 
 <a id="claim-t-93072"></a>
-- t-001
-  global_id: t-93072
+- t-002
   teiginys: "Vytauto vasalystės dokumentu nebuvo įsteigta kitokių institucijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Vilniaus - (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, 
     - c-88478
 
 <a id="claim-t-93073"></a>
-- t-002
-  global_id: t-93073
+- t-001
   teiginys: "Vytauto vasalystės dokumentas buvo išduotas 1386 m. gegužės 10 d."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -94,5 +92,5 @@ Vilniaus - (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93072
-    - t-93073
+    - t-002
+    - t-001

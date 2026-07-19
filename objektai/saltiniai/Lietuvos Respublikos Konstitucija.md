@@ -36,7 +36,6 @@ Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdym
 
 <a id="claim-t-78153"></a>
 - t-001
-  global_id: t-78153
   teiginys: "Lietuvos Respublikos Konstitucija buvo priimta 1992 m. spalio 25 d. piliečių referendume."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdym
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78153
+    - t-001

@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-20468"></a>
 - t-001
-  global_id: t-20468
   teiginys: "Pirminė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo sėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,12 +93,11 @@ Nenurodyta
     Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos
     Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas
     metropolitas Audrys Juozas Bačkis.
-  citata_rodoma: |
-    minė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo
+  citata_rodoma: "minė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20468
+    - t-001

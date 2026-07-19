@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-201363"></a>
 - t-001
-  global_id: t-201363
   teiginys: "Kaipogi kur jo tarnas kunigas, žy govu vadinamas, nuėjęs į kokią vietą apskelbė, tu rėdamos jo lazdą ar vytį, svietui jo įsakymą, tuo jau tenai kuo veikesniai išpildė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184713
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Klausė jo valdžios ne vien lietu­
     viai ir žemaičiai, bet ir kitos dalys Lietuvos tautos,
@@ -77,4 +77,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201363
+    - t-001

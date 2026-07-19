@@ -30,8 +30,7 @@ Sakoma: aidint patrankoms, mūzos tyli.
 ## Teiginiai
 
 <a id="claim-t-26528"></a>
-- t-001
-  global_id: t-26528
+- t-003
   teiginys: "Livonijos karo metu Steponas Batoras rūpinosi Vilniaus universiteto, vadinamo mūzų prieglobsčiu, kūrimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,16 +59,11 @@ Sakoma: aidint patrankoms, mūzos tyli.
     reformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas
     Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
     mui įkurti kolegiją.
-  citata_rodoma: |
-    Aišku, aukštosios mokyklos poreikis brendo visuo-
-    menėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr-
-    reformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas
-    Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
-    mui įkurti kolegiją.
+  citata_rodoma: "Aišku, aukštosios mokyklos poreikis brendo visuo-\nmenėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr-\nreformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas\nValerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-\nmui įkurti kolegiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26528
+    - t-003

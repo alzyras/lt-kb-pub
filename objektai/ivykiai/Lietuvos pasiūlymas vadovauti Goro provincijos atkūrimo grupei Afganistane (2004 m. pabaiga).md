@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20351"></a>
 - t-001
-  global_id: t-20351
   teiginys: "2004 m. pabaigoje Lietuvai pasiūlyta vadovauti Goro provincijos atkūrimo grupei Afganistane."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,12 +85,11 @@ Nenurodyta
     Lietuvai pasiūlyta vadovauti vienos iš Afganistano provincijų – Goro – at-
     kūrimo grupei, sudaryti šioje provincijoje sąlygas užtikrinti stabilumą ir
     saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.
-  citata_rodoma: |
-    saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.
+  citata_rodoma: "saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20351
+    - t-001

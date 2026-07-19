@@ -30,7 +30,6 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
 
 <a id="claim-t-89593"></a>
 - t-001
-  global_id: t-89593
   teiginys: "Sugautas vyras savo piktadarybes aiškino tuo, kad niekas jam nekliudė ir nedraudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -40,7 +39,6 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
 
 <a id="claim-t-89594"></a>
 - t-002
-  global_id: t-89594
   teiginys: "Karvedys Henrikas savo piktadarybes aiškino tuo, kad jam niekas nekliudė ir nedraudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,7 +70,8 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89593
+    - t-001
+
 - id: c-85535
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -89,4 +88,4 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89594
+    - t-002

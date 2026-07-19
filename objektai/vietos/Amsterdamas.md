@@ -38,8 +38,7 @@ Amsterdamas, 1650 m.
 ## Teiginiai
 
 <a id="claim-t-46495"></a>
-- t-001
-  global_id: t-46495
+- t-002
   teiginys: "Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais per Gdanską į Amsterdamą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Amsterdamas, 1650 m.
     - c-49067
 
 <a id="claim-t-46497"></a>
-- t-002
-  global_id: t-46497
+- t-001
   teiginys: "K. Semenavičiaus raketų brėžiniai buvo išleisti Amsterdame 1650 m."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -93,16 +91,15 @@ Amsterdamas, 1650 m.
     Yra ir kitas senojo Vilniaus universiteto
     istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
     K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
-  citata_rodoma: |
-    Nuo XIV a. ryčiausias Europoje du amžius
-    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
+  citata_rodoma: "Nuo XIV a. ryčiausias Europoje du amžius\nK. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46497
+    - t-001
+
 - id: c-49067
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -128,16 +125,11 @@ Amsterdamas, 1650 m.
     • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
     teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-  citata_rodoma: |
-    Taigi Abiejų Tautų Respublika:
-    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
-    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
-    bajoriškosios demokratijos tradiciją,
-    •	 Vilnius XVI–XVIII a.
+  citata_rodoma: "Taigi Abiejų Tautų Respublika:\n•\t aprūpino Vakarus (per Gdanską į Amsterdamą) javais, \n•\t sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir \nbajoriškosios demokratijos tradiciją, \n•\t Vilnius XVI–XVIII a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46495
+    - t-002

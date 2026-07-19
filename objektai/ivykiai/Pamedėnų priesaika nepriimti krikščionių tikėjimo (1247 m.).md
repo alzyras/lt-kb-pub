@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-194797"></a>
 - t-001
-  global_id: t-194797
   teiginys: "1247 metais, kai kryžiuočiai jau valdė Pamedę ir tenykščius žmones lyg ir atvertė į krikščionių tikėjimą, vis dėlto dėl nuolatinių sumaiščių ir kovų su kitų provincijų gyventojais, remiamais Pamario kunigaikščio Sviatopelko, jie, matyt, neturėjo pakankamai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194797
+    - t-001

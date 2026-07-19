@@ -37,7 +37,6 @@ Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso pasaulio
 
 <a id="claim-t-22212"></a>
 - t-001
-  global_id: t-22212
   teiginys: "1940 m. vasarą Sovietų Sąjunga Baltijos valstybėse prievarta įvedė tariamai demokratinį valdymą, oficialiai vadintą „liaudies demokratija“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,12 +77,11 @@ Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso pasaulio
     vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
     tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
     ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
-  citata_rodoma: |
-    vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
+  citata_rodoma: "vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22212
+    - t-001

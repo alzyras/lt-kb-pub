@@ -39,7 +39,6 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
 
 <a id="claim-t-05718"></a>
 - t-001
-  global_id: t-05718
   teiginys: "J. Bretkūno postilė datuojama 1591 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
 
 <a id="claim-t-05719"></a>
 - t-002
-  global_id: t-05719
   teiginys: "J. Bretkūnas buvo tarp lietuvių, rašiusių protestantizmo skleidimo tekstus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,27 +79,26 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
     rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų
     lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
     buvo skleidę protestantizmą.
-  citata_rodoma: |
-    Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.
+  citata_rodoma: "Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05719
+    - t-002
+
 - id: c-06617
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     1591 m. J. Bretkūno postilė.
-  citata_rodoma: |
-    1591 m. J. Bretkūno postilė.
+  citata_rodoma: "1591 m. J. Bretkūno postilė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05718
+    - t-001

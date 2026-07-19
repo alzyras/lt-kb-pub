@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-187220"></a>
 - t-001
-  global_id: t-187220
   teiginys: "Įvade nurodoma, kad Bychovco kronikoje iškeliamas Vytauto pranašumas prieš Vasilijų, Pskovą ir Didįjį Naugarduką."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -65,15 +64,11 @@ media_all_json: |-
     Lietuvos valstybės santykiai su totorių ordomis dau­
     giausia už.kliudomi legendinėje dalyje, kur visi mūšiai
     baigiasi lietuvių pergalėmis, o taip pat Aleksandro vai-
-  citata_rodoma: |
-    Kalbant apie LDK santykius su Rusų valstybe, labai
-    iškeliamas Vytauto pranašumas savo žento Vasilijaus,
-    Maskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­
-    garduko feodalinių respublikų atžvilgiu.
+  citata_rodoma: "Kalbant apie LDK santykius su Rusų valstybe, labai \niškeliamas Vytauto pranašumas savo žento Vasilijaus, \nMaskvos didžiojo kunigaikščio. Pskovo ir Didžiojo Nau­\ngarduko feodalinių respublikų atžvilgiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187220
+    - t-001

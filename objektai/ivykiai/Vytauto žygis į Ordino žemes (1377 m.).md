@@ -55,8 +55,7 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 ## Teiginiai
 
 <a id="claim-t-66998"></a>
-- t-001
-  global_id: t-66998
+- t-006
   teiginys: "1377 m. žygis buvo pirmas žinomas Vytauto savarankiškas pasirodymas karo lauke."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,7 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
     - c-14188
 
 <a id="claim-t-66999"></a>
-- t-002
-  global_id: t-66999
+- t-005
   teiginys: "Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
     - c-14187
 
 <a id="claim-t-67000"></a>
-- t-003
-  global_id: t-67000
+- t-004
   teiginys: "1377 m. Vytautas, tėvo pavedamas, surengė žygį į Ordino žemes ir pasirodė kaip savarankiškas lietuvių kariuomenės vadas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -130,7 +127,8 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67000
+    - t-004
+
 - id: c-14187
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -155,7 +153,8 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66999
+    - t-005
+
 - id: c-14188
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -174,4 +173,4 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66998
+    - t-006

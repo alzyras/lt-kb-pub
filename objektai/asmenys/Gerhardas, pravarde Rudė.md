@@ -31,7 +31,6 @@ Dusburgietis teigia, kad tuo tarpu lietuviai savo dievams kaip auką sudegino br
 
 <a id="claim-t-60288"></a>
 - t-001
-  global_id: t-60288
   teiginys: "Lietuviai paaukojo dievams Sembos fogtą Gerhardą Rudę, sudegindami jį su šarvais ant jo kovos žirgo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,19 +58,11 @@ Dusburgietis teigia, kad tuo tarpu lietuviai savo dievams kaip auką sudegino br
     brolį Gerhardą, pravarde Rudė, Sembos fogtą, apvilktą šarvais ir užsodintą ant savo
     kovos žirgo579.
     339 (332).
-  citata_rodoma: |
-    Tuo tarpu lietuviai savo dievams kaip auką sudegino
-    brolį Gerhardą, pravarde Rudė, Sembos fogtą, apvilktą šarvais ir užsodintą ant savo
-    kovos žirgo579.
-
-
-
-
-                   339 (332).
+  citata_rodoma: "Tuo tarpu lietuviai savo dievams kaip auką sudegino\nbrolį Gerhardą, pravarde Rudė, Sembos fogtą, apvilktą šarvais ir užsodintą ant savo\nkovos žirgo579.\n\n\n\n\n               339 (332)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60288
+    - t-001

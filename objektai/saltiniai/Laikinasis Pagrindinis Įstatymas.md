@@ -38,8 +38,7 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
 ## Teiginiai
 
 <a id="claim-t-75457"></a>
-- t-001
-  global_id: t-75457
+- t-002
   teiginys: "Laikinasis Pagrindinis Įstatymas buvo patvirtintas sustabdžius 1938 m. Lietuvos Konstitucijos galiojimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
     - c-73232
 
 <a id="claim-t-75458"></a>
-- t-002
-  global_id: t-75458
+- t-001
   teiginys: "Laikinasis Pagrindinis Įstatymas buvo patvirtintas sustabdžius ankstesnės konstitucijos veikimą visa apimtimi."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -94,20 +92,15 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
     susiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,
     bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
     teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai.
-  citata_rodoma: |
-    Tačiau šios konstitucijos veikimas visa apim-
-    timi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-
-    kinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs
-    susiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,
-    bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
-    teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai.
+  citata_rodoma: "Tačiau šios konstitucijos veikimas visa apim-\ntimi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-\nkinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs\nsusiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,\nbet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-\nteisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75458
+    - t-001
+
 - id: c-73232
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -130,4 +123,4 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75457
+    - t-002

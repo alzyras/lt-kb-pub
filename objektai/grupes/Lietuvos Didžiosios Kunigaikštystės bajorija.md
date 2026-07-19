@@ -36,7 +36,6 @@ Kaip ir Vakarų Europoje, gėrimas iš vienos taurės buvo korporatyvinės bendr
 
 <a id="claim-t-200727"></a>
 - t-001
-  global_id: t-200727
   teiginys: "Kaip ir Vakarų Europoje, gėrimas iš vienos taurės buvo korporatyvinės bendrystės aktas, tarp LDK bajorijos ne tik turėjęs pakartoti vakarietiškas prasmes, bet ir dėl vietos specifikos įgyjęs savitų reikšmių."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,5 @@ Kaip ir Vakarų Europoje, gėrimas iš vienos taurės buvo korporatyvinės bendr
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:13"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200727
+    - t-001

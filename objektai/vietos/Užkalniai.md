@@ -31,7 +31,6 @@ Juos Užkalnių kaimą ir pietinius Barklainius. Viduriniajai vorai po atkaklių
 
 <a id="claim-t-193792"></a>
 - t-001
-  global_id: t-193792
   teiginys: "Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėlius ir Barklainius."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Juos Užkalnių kaimą ir pietinius Barklainius. Viduriniajai vorai po atkaklių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193792
+    - t-001

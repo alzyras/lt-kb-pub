@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-185862"></a>
 - t-001
-  global_id: t-185862
   teiginys: "Vytautui tylint, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -67,9 +66,8 @@ Nenurodyta
 
 <a id="claim-t-185863"></a>
 - t-002
-  global_id: t-185863
   teiginys: "Kujavijos vyskupas Jonas Kropidlas pareiškė, kad Vytauto santuoka bus teisėta, ir surišo sutuoktinius pagal Romos bažnyčios tvarką."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -84,7 +82,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169224
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Kujavijos vyskupas Jonas Kropidlas pareiškė, kad Vytauto santuoka bus teisėta, ir surišo sutuoktinius pagal Romos bažnyčios tvarką.'
@@ -110,8 +108,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185863
+
 ## Citatos
 
 - id: c-169223
@@ -135,7 +132,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185862
+    - t-001
+
 - id: c-169224
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -160,26 +158,11 @@ Nenurodyta
     didesnę kariuomenę, Vytautas patraukė į Trakus ir čia,
     mirus jo žmonai Onai, nutarė tuoktis su Julijona, Al-
     šėnų kunigaikščio Algimantaičio dukra.
-  citata_rodoma: |
-    Galbūt atkakliu ne­
-    pritarimu ir būtų privertęs
-    V y ta u ta s  v e d a
-    Vytautą atsisakyti šio suma­
-    nymo, jeigu nebūtų parėmęs
-    Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at­
-    vykęs į Lietuvą. Pataikūniškai aiškindamas įstatymus
-    pagal valdovo norus, jis pareiškė, jog santuoka būsian­
-    ti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro-
-    3 9 6
-
-    ## Puslapis 395
-
-    mos bažnyčia. Pasibaigus vestuvių iškilmėms, valdovai
-    iš visų jėgų įniko rengtis karui su kryžiuočiais.
+  citata_rodoma: "Galbūt atkakliu ne­\npritarimu ir būtų privertęs\nV y ta u ta s  v e d a\nVytautą atsisakyti šio suma­\nnymo, jeigu nebūtų parėmęs\nJonas Kropidlas, Kujavijos vyskupas, su karaliumi at­\nvykęs į Lietuvą. Pataikūniškai aiškindamas įstatymus\npagal valdovo norus, jis pareiškė, jog santuoka būsian­\nti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro-\n3 9 6\n\n## Puslapis 395\n\nmos bažnyčia. Pasibaigus vestuvių iškilmėms, valdovai\niš visų jėgų įniko rengtis karui su kryžiuočiais."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185863
+    - t-002

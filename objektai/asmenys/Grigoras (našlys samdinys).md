@@ -50,8 +50,7 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
 ## Teiginiai
 
 <a id="claim-t-195543"></a>
-- t-001
-  global_id: t-195543
+- t-002
   teiginys: "Derėdamasis dėl samdos Grigoras pareikalavo ne tik algos, bet ir drobinių marškinių bei pasukinių kelnių."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -61,8 +60,7 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
     - c-177959
 
 <a id="claim-t-195544"></a>
-- t-002
-  global_id: t-195544
+- t-001
   teiginys: "Grigoras buvo nejaunas našlys, jau užauginęs vaikus ir mėgstantis degtinėlę."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -73,7 +71,6 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
 
 <a id="claim-t-195545"></a>
 - t-003
-  global_id: t-195545
   teiginys: "Pasakojime pažymima, kad Grigoras duoto žodžio neištesėjo."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -96,15 +93,15 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
     kiolika rublių.
     — Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasuki­
     nės — atsiliepė pirmą sykį Grigoras.
-  citata_rodoma: |
-    — Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasukinės — atsiliepė pirmą sykį Grigoras.
+  citata_rodoma: "— Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasukinės — atsiliepė pirmą sykį Grigoras."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195543
+    - t-002
+
 - id: c-177960
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -122,15 +119,15 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
     „Kalėdos —
     visos bėdos“ . Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos
     padarė, atsiprašant, kažin ką.
-  citata_rodoma: |
-    Iš to susidėjo patarlė: „Kalėdos — visos bėdos“. Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos padarė, atsiprašant, kažin ką.
+  citata_rodoma: "Iš to susidėjo patarlė: „Kalėdos — visos bėdos“. Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos padarė, atsiprašant, kažin ką."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195545
+    - t-003
+
 - id: c-177961
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -146,12 +143,11 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
     Štai Grigoras, žmogus užauginęs jau vaikus ir našlys, tarnauja
     pas ūkininkus (jo vaikai irgi tarnauja), o kad nejaunas, mėgsta deg­
     tinėlę.
-  citata_rodoma: |
-    Štai Grigoras, žmogus užauginęs jau vaikus ir našlys, tarnauja pas ūkininkus (jo vaikai irgi tarnauja), o kad nejaunas, mėgsta degtinėlę.
+  citata_rodoma: "Štai Grigoras, žmogus užauginęs jau vaikus ir našlys, tarnauja pas ūkininkus (jo vaikai irgi tarnauja), o kad nejaunas, mėgsta degtinėlę."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195544
+    - t-001

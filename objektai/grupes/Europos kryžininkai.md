@@ -37,7 +37,6 @@ Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisė
 
 <a id="claim-t-86725"></a>
 - t-001
-  global_id: t-86725
   teiginys: "1392 m. Europos kryžininkai rengė didesnį žygį į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,6 +94,7 @@ Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86725
+    - t-001
+
 ## Ryšiai
 - Europos kryžininkai surengė žygį į [[objektai/vietos/Lietuva]]

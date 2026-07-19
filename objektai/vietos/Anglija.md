@@ -46,8 +46,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 ## Teiginiai
 
 <a id="claim-t-111491"></a>
-- t-001
-  global_id: t-111491
+- t-009
   teiginys: "Rugpjūtį, baigus karinę parengtį Prūsijoje, į žygį atvyko savanorių iš Anglijos ir Prancūzijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     - c-103085
 
 <a id="claim-t-111492"></a>
-- t-002
-  global_id: t-111492
+- t-012
   teiginys: "Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     - c-103082
 
 <a id="claim-t-111493"></a>
-- t-003
-  global_id: t-111493
+- t-013
   teiginys: "Tuo metu Anglijoje gyveno apie 6 000 lietuvių, o JAV ir Vilniaus krašte gyveno didesnės lietuvių bendruomenės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,8 +97,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     - c-103081
 
 <a id="claim-t-111494"></a>
-- t-004
-  global_id: t-111494
+- t-010
   teiginys: "1588 m. Nenugalimosios armados išsilaipinimui Anglijoje sutrukdė audra, todėl Ispanija šio žygio nekartojo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,8 +116,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     - c-103083
 
 <a id="claim-t-111496"></a>
-- t-005
-  global_id: t-111496
+- t-007
   teiginys: "Rugpjūtį, pasibaigus pasirengimui mūšiams Prūsijoje, atvyko savanorių iš Anglijos ir Prancūzijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,8 +132,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     - c-103085
 
 <a id="claim-t-111497"></a>
-- t-006
-  global_id: t-111497
+- t-008
   teiginys: "Derbio grafas Henrikas vadovavo Gdansko uoste išsilaipinusiems lankininkams ir vėliau, kaip Henrikas IV, paveldėjo Anglijos sostą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -156,8 +150,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     - c-103084
 
 <a id="claim-t-111499"></a>
-- t-007
-  global_id: t-111499
+- t-011
   teiginys: "Vilniaus universiteto profesorių veikalai pasiekė Angliją, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. išversta į anglų kalbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -176,8 +169,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     - c-24045
 
 <a id="claim-t-200893"></a>
-- t-008
-  global_id: t-200893
+- t-001
   teiginys: "J. Miklašis techninės chemijos mokėsi specialiuose institutuose Vokietijoje, Prancūzijoje ir Anglijoje, prieš grįždamas į Lietuvą."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -326,20 +318,15 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m.
     buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
     vietoje įprasto Horacijaus.
-  citata_rodoma: |
-    Vilniaus universite-
-    to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui,
-    Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir
-    Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m.
-    buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
-    vietoje įprasto Horacijaus.
+  citata_rodoma: "Vilniaus universite-\nto profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, \nMartyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir \nOksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. \nbuvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose \nvietoje įprasto Horacijaus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111499
+    - t-011
+
 - id: c-103081
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -360,7 +347,8 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111493
+    - t-013
+
 - id: c-103082
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -374,20 +362,15 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
     lės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
     matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.
-  citata_rodoma: |
-    Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
-    steigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę,
-    buvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me-
-    lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
-    lės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
-    matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.
+  citata_rodoma: "Karališkosiose ekonomijose jis ėmėsi radikalių reformų: \nsteigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę, \nbuvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me- \nlioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-\nlės. A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė \nmatininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111492
+    - t-012
+
 - id: c-103083
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -405,7 +388,8 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111494
+    - t-010
+
 - id: c-103084
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -439,24 +423,15 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     no sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos
     sostą23. Prancūzams ir kitiems kariams vadovavo narsusis
     riteris Boucicaut24.
-  citata_rodoma: |
-    119
-
-    ## Puslapis 136
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    lankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­
-    bio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­
-    no sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos
-    sostą23. Prancūzams ir kitiems kariams vadovavo narsusis
-    riteris Boucicaut24.
+  citata_rodoma: "119\n\n## Puslapis 136\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nlankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­\nbio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­\nno sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos\nsostą23. Prancūzams ir kitiems kariams vadovavo narsusis\nriteris Boucicaut24."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111497
+    - t-008
+
 - id: c-103085
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -474,22 +449,16 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     jų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
     vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
     esanti pagonių šalis.
-  citata_rodoma: |
-    Kai rug­
-    pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
-    ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­
-    pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
-    jų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
-    vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
-    esanti pagonių šalis.
+  citata_rodoma: "Kai rug­\npjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­\nko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­\npročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę\njų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­\nvai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar\nesanti pagonių šalis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111491
-    - t-111496
+    - t-009
+    - t-007
+
 - id: c-184236
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
@@ -525,7 +494,8 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200893
+    - t-001
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Henrikas IV]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]

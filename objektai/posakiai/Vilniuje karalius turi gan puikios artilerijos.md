@@ -38,7 +38,6 @@ grESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios art
 
 <a id="claim-t-41470"></a>
 - t-001
-  global_id: t-41470
   teiginys: "Posakyje „Vilniuje karalius turi gan puikios artilerijos“ teigiama, kad karalius Vilniuje turėjo 180 sunkiosios artilerijos vienetų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,16 +71,11 @@ grESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios art
     derybas su Batoru dėl paliaubų. i
     Pskovo apgultis užsitęsė iki
     1582 m. sausio, antrajame etape
-  citata_rodoma: |
-    grESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios artilerijos: sunkiosios jis turi šimtą aštuoniasdešimt
-    sa iii js Ai neleido išsiųsti vienetų, ir dar didelį skaičių lengvosios, labai gražiai padarytos, nes tai Jo Didenybei di-
-    reikiamos karinės paramos apsiaustam džiai patinka ir jo valia daug jos išliejama, ypač Lietuvoje, kuo patys lenkai skundžiasi,
-
-    Pskovui.
+  citata_rodoma: "grESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios artilerijos: sunkiosios jis turi šimtą aštuoniasdešimt\nsa iii js Ai neleido išsiųsti vienetų, ir dar didelį skaičių lengvosios, labai gražiai padarytos, nes tai Jo Didenybei di-\nreikiamos karinės paramos apsiaustam džiai patinka ir jo valia daug jos išliejama, ypač Lietuvoje, kuo patys lenkai skundžiasi,\n\nPskovui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41470
+    - t-001

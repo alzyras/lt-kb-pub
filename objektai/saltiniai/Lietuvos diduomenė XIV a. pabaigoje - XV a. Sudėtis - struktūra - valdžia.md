@@ -8,11 +8,11 @@ datos:
   - '2002 m.'
 date_start: '1995'
 date_end: '2002'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XX'
   - 'XXI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Lietuvos diduomenė XIV a.
 
 <a id="claim-t-202264"></a>
 - t-001
-  global_id: t-202264
   teiginys: "Lietuvos diduomenė XIV a."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Lietuvos diduomenė XIV a.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202264
+    - t-001

@@ -33,7 +33,6 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
 
 <a id="claim-t-201140"></a>
 - t-001
-  global_id: t-201140
   teiginys: "To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti, kurį kraštą paskaidė į parakvijas ir Kaupo pilėj bažnyčią įkūrė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
 ## Citatos
 
 - id: c-184490
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     To dėjęsis, Alobramdas kunigas nuėjo į Tu-
     raidą latvių mokyti ir krikštyti, kurį kraštą paskaidė
@@ -63,4 +63,4 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201140
+    - t-001

@@ -43,8 +43,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
 ## Teiginiai
 
 <a id="claim-t-181590"></a>
-- t-001
-  global_id: t-181590
+- t-014
   teiginys: "Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę ir įkurdino bazilijonus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
     - c-165127
 
 <a id="claim-t-183553"></a>
-- t-002
-  global_id: t-183553
+- t-015
   teiginys: "Konstantinas Ostrogiškis gotikos stiliumi perstatydino Vilniaus ir Naugarduko cerkves ir skleidė gotiką savo tėvonijoje Voluinėje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
     - c-166946
 
 <a id="claim-t-184755"></a>
-- t-003
-  global_id: t-184755
+- t-016
   teiginys: "Aleksandro pasiųstiems lengviesiems daliniams į Smolenską vadovavo Konstantinas Ostrogiškis."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -101,8 +98,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
     - c-168116
 
 <a id="claim-t-184757"></a>
-- t-004
-  global_id: t-184757
+- t-018
   teiginys: "Po karo su Maskva karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -122,28 +118,19 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
     - c-168118
 
 <a id="claim-t-184759"></a>
-- t-005
-  global_id: t-184759
+- t-020
   teiginys: "Po pergalės Konstantinas Ostrogiškis suskaičiavo belaisvius ir išsiuntė karaliui 380 žymiausių bajorų su laišku apie pergalę."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konstantinas Ostrogiškis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinas Ostrogiškis\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168120
+    - c-168118
 
 <a id="claim-t-193396"></a>
-- t-006
-  global_id: t-193396
+- t-021
   teiginys: "Konstantinas Ostrogiškis įtaisė karo stovyklą Obolcuose."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -160,31 +147,6 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
 - susijęs iš Orša: Po Smolensko paėmimo 1514 m. Konstantinas Ostrogiškis ties Orša smarkiai sumušė Maskvos kariuomenę.
 - susijęs iš Voluinė: Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.
 - susijęs iš Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje: Kunigaikštis Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės įkurdino Šv. Bazilijaus ordino vienuolius.
-## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Konstantinas Ostrogiškis įsakė lietuvių vėliavoms apsimestinai trauktis, tikėdamasis išardyti priešo raitelių rikiuotę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Štai todėl upę ryžtingai įveikė ir lenkų
-    samdytinė raitija, vedama Jono Sverčovskio, o po
-    jos — ir didikai Tenčinskis, Pileckis, Kmita, Miškovs-
-    kis bei kiti su savo vėliavomis. Čeliadninas, žvalgų
-    įspėtas, jog karaliaus jėgos artėja ir, matyt, ketina už­
-    pulti bei sunaikinti tą maskvėnų dalį, kuri, persikėlusi
-    per upę ir atsiskyrusi nuo kitos kariuomenės, negali
-    tikėtis paramos, atsakė, kad, jo galva, didžiojo kuni­
-    gaikščio kariai nieku būdu neturi nerimauti dėl gali­
-    mos kovos, kad reikia ramiai palaukti, kol priešas per­
-    sikelsiąs per Dneprą, o tada iš pasalų jį užpulti ir, smo­
-    gus stiprų smūgį, iš karto visus iškloti. Taip smarkiai
-    jis buvo apakęs nuo pasipūtėliškų ir išdidžių vilčių,
-    kad nebeįstengė nė sugalvoti protingesnio kovos plano.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
 ## Citatos
 
 - id: c-165127
@@ -203,7 +165,8 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181590
+    - t-014
+
 - id: c-166946
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -223,7 +186,8 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183553
+    - t-015
+
 - id: c-168116
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -253,7 +217,8 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184755
+    - t-016
+
 - id: c-168118
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -278,7 +243,34 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184757
+    - t-018
+    - t-020
+
+- id: c-168119
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Štai todėl upę ryžtingai įveikė ir lenkų
+    samdytinė raitija, vedama Jono Sverčovskio, o po
+    jos — ir didikai Tenčinskis, Pileckis, Kmita, Miškovs-
+    kis bei kiti su savo vėliavomis. Čeliadninas, žvalgų
+    įspėtas, jog karaliaus jėgos artėja ir, matyt, ketina už­
+    pulti bei sunaikinti tą maskvėnų dalį, kuri, persikėlusi
+    per upę ir atsiskyrusi nuo kitos kariuomenės, negali
+    tikėtis paramos, atsakė, kad, jo galva, didžiojo kuni­
+    gaikščio kariai nieku būdu neturi nerimauti dėl gali­
+    mos kovos, kad reikia ramiai palaukti, kol priešas per­
+    sikelsiąs per Dneprą, o tada iš pasalų jį užpulti ir, smo­
+    gus stiprų smūgį, iš karto visus iškloti. Taip smarkiai
+    jis buvo apakęs nuo pasipūtėliškų ir išdidžių vilčių,
+    kad nebeįstengė nė sugalvoti protingesnio kovos plano.
+  statusas: verified
+  atnaujinta: "2026-07-13 01:17"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-168120
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -297,24 +289,13 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
     rikiuotę. Kaip ir tikėjosi, apgaulė pavyko. Maskvėnai,
     pamanę, jog lietuviai sprunka iš kovos lauko, pasilei­
     do jų vytis.
-  citata_rodoma: |
-    Į nelaisvę pakliuvo
-    maskvėnų karo vadas Čeliadninas ir dešimt kitų žy­
-    mių didikų, daug dūmos narių ir du tūkstančiai bajo­
-    rų. Surengęs stovykloje kareiviškas pamaldas ir pa­
-    dėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis
-    suskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo­
-    niasdešimt žymiausių bajorų, išsiuntė juos karaliui su
-    laišku apie pergalę. Kunigaikštis Vasilijus, gavęs ži­
-    nią apie pralaimėjimą, paliko prie Smolensko savo ka­
-    riuomenę ir persigandęs pabėgo į Maskvą.
+  citata_rodoma: "Į nelaisvę pakliuvo\nmaskvėnų karo vadas Čeliadninas ir dešimt kitų žy­\nmių didikų, daug dūmos narių ir du tūkstančiai bajo­\nrų. Surengęs stovykloje kareiviškas pamaldas ir pa­\ndėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis\nsuskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo­\nniasdešimt žymiausių bajorų, išsiuntė juos karaliui su\nlaišku apie pergalę. Kunigaikštis Vasilijus, gavęs ži­\nnią apie pralaimėjimą, paliko prie Smolensko savo ka­\nriuomenę ir persigandęs pabėgo į Maskvą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184759
 - id: c-176120
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -339,6 +320,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193396
+    - t-021
+
 ## Ryšiai
 - Konstantinas Ostrogiškis pastatė [[objektai/vietos/Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje]]

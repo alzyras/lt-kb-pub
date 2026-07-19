@@ -31,7 +31,6 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
 
 <a id="claim-t-72693"></a>
 - t-001
-  global_id: t-72693
   teiginys: "Po unijos greta ilgai vartotos gudų rašto kalbos vis labiau įsigalėjo lenkų kalba."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
 
 <a id="claim-t-193144"></a>
 - t-002
-  global_id: t-193144
   teiginys: "Plačiosios bajorų masės lotynų kalbos nemokėjo, nes nebuvo mokyklų, kuriose jie būtų galėję išmokti, ir gyvenimas nuėjo savo vaga."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,8 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72693
+    - t-001
+
 - id: c-175898
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -97,4 +96,4 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193144
+    - t-002

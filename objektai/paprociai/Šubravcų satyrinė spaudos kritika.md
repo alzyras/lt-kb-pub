@@ -54,8 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54739"></a>
-- t-001
-  global_id: t-54739
+- t-002
   teiginys: "Šubravcų laikraštis Wiadomości brukowe satyriškai vaizdavo kilmingųjų kasdienybę, kritikavo baudžiavą, obskurantizmą ir tradicionalizmą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::customs"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-55730
 
 <a id="claim-t-54740"></a>
-- t-002
-  global_id: t-54740
+- t-001
   teiginys: "Šubravcų draugijos nariai leido humoristinį laikraštį Wiadomości brukowe, kuriame aktyviai bendradarbiavo ir M. Balinskis."
   atnaujinta: "2026-05-27 06:43"
   sprendimo_priezastis: "gap::customs"
@@ -101,19 +99,12 @@ Nenurodyta
     mingųjų kasdienio gyvenimo vaizdai, negailestinga baudžia­
     vos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­
     lizmo išgarsino draugiją net už Lietuvos ribų.
-  citata_rodoma: |
-    Draugijos narių leidžiamas
-    humoristinis laikraštis Wiadomości brukowe (Grindinio žinios),
-    kuriame aktyviai bendradarbiavo ir M. Balinskis, tęsė XVIII a.
-    Anglijoje leidžiamo žurnalo Spectator tradicijas. Satyriniai kil­
-    mingųjų kasdienio gyvenimo vaizdai, negailestinga baudžia­
-    vos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­
-    lizmo išgarsino draugiją net už Lietuvos ribų.
+  citata_rodoma: "Draugijos narių leidžiamas \nhumoristinis laikraštis Wiadomości brukowe (Grindinio žinios), \nkuriame aktyviai bendradarbiavo ir M. Balinskis, tęsė XVIII a. \nAnglijoje leidžiamo žurnalo Spectator tradicijas. Satyriniai kil­\nmingųjų kasdienio gyvenimo vaizdai, negailestinga baudžia­\nvos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­\nlizmo išgarsino draugiją net už Lietuvos ribų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54739
-    - t-54740
+    - t-002
+    - t-001

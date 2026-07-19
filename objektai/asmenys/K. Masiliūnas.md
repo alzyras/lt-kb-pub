@@ -44,8 +44,7 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
 ## Teiginiai
 
 <a id="claim-t-00008"></a>
-- t-001
-  global_id: t-00008
+- t-003
   teiginys: "K. Masiliūno rūpesčiu buvo suburti penki žmonės, sutikę rašyti atskirus tautos gyvenimo laikotarpius."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     - c-00117
 
 <a id="claim-t-00009"></a>
-- t-002
-  global_id: t-00009
+- t-004
   teiginys: "K. Masiliūnas kartu su J. Tonkūnu rūpinosi bendradarbių rinkimu ir teikė paramą atliekamam darbui."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -71,8 +69,7 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     - c-00118
 
 <a id="claim-t-193625"></a>
-- t-003
-  global_id: t-193625
+- t-005
   teiginys: "1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -95,15 +92,15 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     buvo suburta penketas žmonių, sutikusių imtis to darbo ir su-
     tarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo
     laikotarpį.
-  citata_rodoma: |
-    |
+  citata_rodoma: "|"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-00008
+    - t-003
+
 - id: c-00118
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -116,15 +113,15 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     ceministeriui K. Masiliūnui, kurie daugiausia rūpinosi renkant
     bendradarbius, o vėliau visą laiką rodė dėmesį dirbamajam dar-
     bui ir teikė reikiamos paramos.
-  citata_rodoma: |
-    |
+  citata_rodoma: "|"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-00009
+    - t-004
+
 - id: c-176296
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -144,4 +141,4 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193625
+    - t-005

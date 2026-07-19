@@ -31,7 +31,6 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių, aptiko mil
 
 <a id="claim-t-188980"></a>
 - t-001
-  global_id: t-188980
   teiginys: "Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių, aptiko milžinišką seną ąžuolą ir jo kamiene įrengė kabinetą senienoms."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių, aptiko mil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188980
+    - t-001

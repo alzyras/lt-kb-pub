@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-62427"></a>
 - t-001
-  global_id: t-62427
   teiginys: "1316 m. žiemą maršalas Henrikas su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių, jį nusiaubė ir paėmė į nelaisvę arba nukovė 500 žmonių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,7 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai remia faktą, bet pradinė formuluotė prasideda nereikalinga atribucija."
   pagrindžia:
     - c-63050
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1316 m. žiemą maršalas Henrikas su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių, jį nusiaubė ir paėmė į nelaisvę arba nukovė 500 žmonių.'
@@ -90,8 +89,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62427
+
 ## Citatos
 
 - id: c-63050
@@ -105,21 +103,11 @@ Nenurodyta
     nelaisvę, o daugybę vyrų nukovė. Ketvirta kariuomenės dalis žygiavo su brolių vėliava,
     bet taip pat nieko nepešė, nes jos vedliai pasiklydo. Galop visa kariuomenė susirinko į
     vieną daiktą ir patraukė namo.
-  citata_rodoma: |
-    326 (319). Apie Paštuvos valsčiaus nusiaubimą
-
-      1316 viešpaties metais, žiemą, brolis Henrikas, maršalas, su daugybe raitelių netikėtai
-    įsiveržė  į Paštuvos valsčių ir jį nusiaubė, degindamas bei plėšdamas, o penkis šimtus
-    žmonių paėmė į nelaisvę ar nukovė.
-
-
-
-
-               327 (320).
+  citata_rodoma: "326 (319). Apie Paštuvos valsčiaus nusiaubimą\n\n  1316 viešpaties metais, žiemą, brolis Henrikas, maršalas, su daugybe raitelių netikėtai\nįsiveržė  į Paštuvos valsčių ir jį nusiaubė, degindamas bei plėšdamas, o penkis šimtus\nžmonių paėmė į nelaisvę ar nukovė.\n\n\n\n\n           327 (320)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62427
+    - t-001

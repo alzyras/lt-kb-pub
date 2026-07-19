@@ -38,8 +38,7 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
 ## Teiginiai
 
 <a id="claim-t-67266"></a>
-- t-001
-  global_id: t-67266
+- t-005
   teiginys: "Mechovita Vytautą vadina kunigaikščiu kilnios širdies ir garsios garbės."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
     - c-14583
 
 <a id="claim-t-67267"></a>
-- t-002
-  global_id: t-67267
+- t-004
   teiginys: "Vienas kronikininkas Vytautą ir jo tėvynę apibūdina didele garbe ir šlove."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -72,8 +70,7 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
     - c-14583
 
 <a id="claim-t-67268"></a>
-- t-003
-  global_id: t-67268
+- t-006
   teiginys: "Herberšteinas Vytautą įvardija vyru, už kurį didesnio Lietuva neturėjo."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -106,16 +103,13 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
     ninkas; „kunigaikštis kilnios širdies ir garsios garbės“—tvirtina
     kitas kronikininkas Mechovita; „vyras, už kurį didesnio Lie­
     tuva neturėjo“ — išsireiškia šimtą metų vėliau Herberšteinas^1 ).
-  citata_rodoma: |
-    „Didelėj garbėj ir šlovėj gyveno garsus val­
-    dytojas Vytautas ir jo tėvynė“ — kalba apie jį vienas kroniki­
-    ninkas;
+  citata_rodoma: "„Didelėj garbėj ir šlovėj gyveno garsus val­\ndytojas Vytautas ir jo tėvynė“ — kalba apie jį vienas kroniki­\nninkas;"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67266
-    - t-67267
-    - t-67268
+    - t-005
+    - t-004
+    - t-006

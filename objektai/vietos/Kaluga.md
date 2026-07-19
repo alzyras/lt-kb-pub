@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-183024"></a>
 - t-001
-  global_id: t-183024
   teiginys: "Vytauto žygio į Maskvą metu buvo pasiektos Tula, Kaluga ir Riazanė."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183024
+    - t-001

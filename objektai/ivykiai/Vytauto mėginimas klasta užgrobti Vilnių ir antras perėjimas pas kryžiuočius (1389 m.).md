@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185659"></a>
 - t-001
-  global_id: t-185659
   teiginys: "Vytautas pirmiausia nutarė klasta užgrobti Vilnių, pasinaudodamas gandais apie Henriko ir Ringailės santuoką."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,6 @@ Nenurodyta
 
 <a id="claim-t-196272"></a>
 - t-002
-  global_id: t-196272
   teiginys: "Vytautas pasinaudojo gandais apie Henriko Mazoviečio ir Ringailės santuoką, paskleisdamas žinią, kad vestuvės vyks Vilniuje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -98,24 +96,15 @@ Nenurodyta
     stiprėja, o jeigu jo kokia galia nesulaiko, viską pra­
     noksta ir.pasidaro toks įžūlus, kad laužo kas pakliūva.
     Pirmiausia Vytautas nutarė klasta užgrobti Vilnių.
-  citata_rodoma: |
-    Pirmiausia Vytautas nutarė klasta užgrobti Vilnių. Tuo
-    metu kaip tik pasitaikė tin-
-    V iln ių  b an do u žgrob-
-    karna proga, nes sklido gan-
-    ti k lasta
-    dai, esą tariamasi dėl Henri­
-    ko, Mazovijos kunigaikščio,
-    bei Ringailės, Vytauto sesers, santuokos. Pasinaudojęs
-    šia dingstimi, jis paleido gandą, kad vestuvės būsian­
-    čios Vilniuje.
+  citata_rodoma: "Pirmiausia Vytautas nutarė klasta užgrobti Vilnių. Tuo\nmetu kaip tik pasitaikė tin-\nV iln ių  b an do u žgrob-\nkarna proga, nes sklido gan-\nti k lasta\ndai, esą tariamasi dėl Henri­\nko, Mazovijos kunigaikščio,\nbei Ringailės, Vytauto sesers, santuokos. Pasinaudojęs\nšia dingstimi, jis paleido gandą, kad vestuvės būsian­\nčios Vilniuje."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185659
+    - t-001
+
 - id: c-178607
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -140,4 +129,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196272
+    - t-002

@@ -31,7 +31,6 @@ Dusburgietis teigia, kad pasare) Sicilija Sidabro kalnas (netoli Gumbinės) Sido
 
 <a id="claim-t-58724"></a>
 - t-001
-  global_id: t-58724
   teiginys: "Simsarna rodyklėje įvardyta kaip upė ir tapatinama su dabartine Symsarna."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Dusburgietis teigia, kad pasare) Sicilija Sidabro kalnas (netoli Gumbinės) Sido
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58724
+    - t-001

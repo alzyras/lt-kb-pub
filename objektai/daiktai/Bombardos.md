@@ -61,8 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-113454"></a>
-- t-001
-  global_id: t-113454
+- t-003
   teiginys: "Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-42485
 
 <a id="claim-t-113456"></a>
-- t-002
-  global_id: t-113456
+- t-007
   teiginys: "1383 m. rugsėjo 11 d. apsuptos Trakų pilies mūrai po kelių dienų atakos buvo sugriauti bombardomis, o įgula pasidavė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +97,7 @@ Nenurodyta
     - c-104689
 
 <a id="claim-t-113457"></a>
-- t-003
-  global_id: t-113457
+- t-006
   teiginys: "Po keturių savaičių apgulties meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai priešais įtaisė tokį pat pabūklą ir užmušė Hermaną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,8 +113,7 @@ Nenurodyta
     - c-104687
 
 <a id="claim-t-113458"></a>
-- t-004
-  global_id: t-113458
+- t-001
   teiginys: "1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -135,8 +131,7 @@ Nenurodyta
     - c-05201
 
 <a id="claim-t-193743"></a>
-- t-005
-  global_id: t-193743
+- t-008
   teiginys: "Primityvus apgulos bombardų lafetas — nejudamai prie žemės pritvirtinta masyvi medinė dėžė."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -173,7 +168,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113458
+    - t-001
+
 - id: c-42485
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -188,22 +184,15 @@ Nenurodyta
     sužeistų, netinkamų gynybai , tačiau juos
     keitė sveikieji. Mūšio įkarštyje komtūrui
     iš mašinos paleistas akmuo nunešė galvą.
-  citata_rodoma: |
-    Po keturių savaičių apgulties, po dauge-
-    lio susidūrimų meistras Hermanas vienoje
-    pilies angoje pastatė bombardą prieš lie-
-    tuvius, tačiau lietuviai, priešpriešiais įtaisę
-    tokį pat pabūklą, užmušė minėtą meistrą.
-    Po sunkių kovų buvo „pilyje daug brolių
-    sužeistų, netinkamų gynybai , tačiau juos
-    keitė sveikieji.
+  citata_rodoma: "Po keturių savaičių apgulties, po dauge-\nlio susidūrimų meistras Hermanas vienoje\npilies angoje pastatė bombardą prieš lie-\ntuvius, tačiau lietuviai, priešpriešiais įtaisę\ntokį pat pabūklą, užmušė minėtą meistrą.\nPo sunkių kovų buvo „pilyje daug brolių\nsužeistų, netinkamų gynybai , tačiau juos\nkeitė sveikieji."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113454
+    - t-003
+
 - id: c-104687
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -228,7 +217,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113457
+    - t-006
+
 - id: c-104689
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -248,7 +238,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113456
+    - t-007
+
 - id: c-176408
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -268,4 +259,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193743
+    - t-008

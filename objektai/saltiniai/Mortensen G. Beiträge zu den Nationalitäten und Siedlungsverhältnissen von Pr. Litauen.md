@@ -36,7 +36,6 @@ Dusburgietis teigia, kad mortensen G.
 
 <a id="claim-t-61185"></a>
 - t-001
-  global_id: t-61185
   teiginys: "G. Mortenseno „Beiträge zu den Nationalitäten und Siedlungsverhältnissen von Pr. Litauen“ išleista Berlyne 1927 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad mortensen G.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61185
+    - t-001

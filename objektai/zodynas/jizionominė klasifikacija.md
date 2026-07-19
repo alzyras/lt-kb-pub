@@ -47,8 +47,7 @@ Gali būti OCR ar rašybos variantas; kontekste kalbama apie žmonių klasifikac
 ## Teiginiai
 
 <a id="claim-t-192162"></a>
-- t-001
-  global_id: t-192162
+- t-002
   teiginys: "Narbutas jizionominę klasifikaciją laiko fiziologų tyrinėjimų patvirtintu tautų skirstymo būdu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -83,17 +82,11 @@ Gali būti OCR ar rašybos variantas; kontekste kalbama apie žmonių klasifikac
     riniai arba lingvistiniai skirtumai, tai mes esame minėję, atsirado tik
     dėl to, jog žmonių giminė iš vienos klasės suskilo į atskiras šakas,
     bet ne iš karto, o amžiams bėgant.
-  citata_rodoma: |
-    Be to, reikėtų pasakyti, jog jizionominė
-    klasifikacija, kuri naudojama nuo seniausių laikų, t. y. nuo Herodoto,
-    nėra klaidinga; atvirkščiai, ją patvirtina fiziologų tyrinėjimai. Isto­
-    riniai arba lingvistiniai skirtumai, tai mes esame minėję, atsirado tik
-    dėl to, jog žmonių giminė iš vienos klasės suskilo į atskiras šakas,
-    bet ne iš karto, o amžiams bėgant.
+  citata_rodoma: "Be to, reikėtų pasakyti, jog jizionominė\nklasifikacija, kuri naudojama nuo seniausių laikų, t. y. nuo Herodoto,\nnėra klaidinga; atvirkščiai, ją patvirtina fiziologų tyrinėjimai. Isto­\nriniai arba lingvistiniai skirtumai, tai mes esame minėję, atsirado tik\ndėl to, jog žmonių giminė iš vienos klasės suskilo į atskiras šakas,\nbet ne iš karto, o amžiams bėgant."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192162
+    - t-002

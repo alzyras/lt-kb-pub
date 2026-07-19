@@ -29,8 +29,7 @@ Dregerio skelbta sutartis Narbuto aiškinime mini tvirtoves, kurias sunku atsekt
 ## Teiginiai
 
 <a id="claim-t-191265"></a>
-- t-001
-  global_id: t-191265
+- t-002
   teiginys: "Dregerio skelbta sutartis Narbuto aiškinime mini tvirtoves, kurias sunku atsekti dėl blogai užrašytų pavadinimų ir vietos ženklų stokos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -43,8 +42,7 @@ Dregerio skelbta sutartis Narbuto aiškinime mini tvirtoves, kurias sunku atsekt
     - c-174147
 
 <a id="claim-t-191947"></a>
-- t-002
-  global_id: t-191947
+- t-003
   teiginys: "Dregerio paminėtoje Sambijos vyskupo Henriko sutartyje Vitlandsorto valdos perleistos Ordinui tvirtovei statyti."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,8 @@ Dregerio skelbta sutartis Narbuto aiškinime mini tvirtoves, kurias sunku atsekt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191265
+    - t-002
+
 - id: c-174829
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -100,4 +99,4 @@ Dregerio skelbta sutartis Narbuto aiškinime mini tvirtoves, kurias sunku atsekt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191947
+    - t-003

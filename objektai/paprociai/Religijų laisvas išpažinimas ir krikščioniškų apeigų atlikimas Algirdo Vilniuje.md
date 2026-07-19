@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-87248"></a>
 - t-001
-  global_id: t-87248
   teiginys: "Algirdo Vilniuje laisvai išpažįstamų religijų įvairovė kėlė piktumų tarp skirtingo tikėjimo žmonių ir jų dvasininkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87248
+    - t-001

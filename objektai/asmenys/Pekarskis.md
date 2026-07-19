@@ -30,7 +30,6 @@ Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užs
 
 <a id="claim-t-87820"></a>
 - t-001
-  global_id: t-87820
   teiginys: "Pekarskiui buvo paskolinti 800 zlotų sidabrui, užstatytam Jo Karališkosios Didenybės reikalams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87820
+    - t-001

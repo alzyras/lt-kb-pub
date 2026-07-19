@@ -31,7 +31,6 @@ Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją
 
 <a id="claim-t-86760"></a>
 - t-001
-  global_id: t-86760
   teiginys: "Lietuvių ir lenkų kunigaikščiai bei didikai dalyvavo iškilmingai pašventinant Vilniaus Šv. Stanislovo katedrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86760
+    - t-001

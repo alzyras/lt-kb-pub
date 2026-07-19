@@ -38,7 +38,6 @@ Dusburgietis teigia, kad urkundenbuch des Bisthums Culm / Bearbeitet von C.
 
 <a id="claim-t-61330"></a>
 - t-001
-  global_id: t-61330
   teiginys: "C. P. Woelky parengto „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmoji dalis išleista Dancige 1887 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Dusburgietis teigia, kad urkundenbuch des Bisthums Culm / Bearbeitet von C.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61330
+    - t-001

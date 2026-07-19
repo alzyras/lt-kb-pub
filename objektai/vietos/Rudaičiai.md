@@ -37,7 +37,6 @@ Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.
 
 <a id="claim-t-32513"></a>
 - t-001
-  global_id: t-32513
   teiginys: "M. Michelbertas pateikė duomenų iš Rudaičių ir Veliuonos kapinynų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,14 +69,11 @@ Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.
     t. 16, 1964, 53-61 p. ; t. 20, 1966, 49-56 p.) ir davė straipsnį _Romos
     imperijos įtakos baltų genčių kultūrai klausimu_ (AkMD, t 18, 1965,
     47-64 p )^102. L. N a k a i t ė rašė apie sidabro naudojimą II-XIII a.
-  citata_rodoma: |
-    Iš Rudaičių ir Veliuonos
-    kapinynų duomenų pateikė M. Michelbertas (AkMD, t. 15,
-    1963, 55-70 p.
+  citata_rodoma: "Iš Rudaičių ir Veliuonos\nkapinynų duomenų pateikė M. Michelbertas (AkMD, t. 15,\n1963, 55-70 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32513
+    - t-001

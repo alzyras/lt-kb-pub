@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-100044"></a>
 - t-001
-  global_id: t-100044
   teiginys: "1382 m. liepos 20 d. Skirgaila įtikino Trakų pilies įgulą pasiduoti Jogailos ir kryžiuočių apgulties metu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100044
+    - t-001

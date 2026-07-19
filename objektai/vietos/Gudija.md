@@ -40,8 +40,7 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
 ## Teiginiai
 
 <a id="claim-t-67987"></a>
-- t-001
-  global_id: t-67987
+- t-002
   teiginys: "Ivinskis Mohilną, prie kurios Lietuvos metraštis mini 1234 m. kovą su totoriais, lokalizuoja Nemuno aukštupyje dabartinėje Gudijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,17 +83,11 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
     Mohilnos (Nemuno aukštupio dabartinėje Gudijoje). Lietuvos val­
     dovas, pagal Lietuvos metraštį, totorius ir jų sąjungininkus rusų
     kunigaikščius galutinai sutriuškinęs (« na golovu poraził »)^142.
-  citata_rodoma: |
-    Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas
-    (Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo
-    prieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie
-    Mohilnos (Nemuno aukštupio dabartinėje Gudijoje). Lietuvos val­
-    dovas, pagal Lietuvos metraštį, totorius ir jų sąjungininkus rusų
-    kunigaikščius galutinai sutriuškinęs (« na golovu poraził »)^142.
+  citata_rodoma: "Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas\n(Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo\nprieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie\nMohilnos (Nemuno aukštupio dabartinėje Gudijoje). Lietuvos val­\ndovas, pagal Lietuvos metraštį, totorius ir jų sąjungininkus rusų\nkunigaikščius galutinai sutriuškinęs (« na golovu poraził »)^142."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67987
+    - t-002

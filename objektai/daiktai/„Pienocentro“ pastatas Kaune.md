@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-71580"></a>
 - t-001
-  global_id: t-71580
   teiginys: "„Pienocentro“ pastatas Kaune buvo užfiksuotas apie 1938 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,16 +95,14 @@ Nenurodyta
     Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
     liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
     „Pienocentro“ pastatas Kaune (apie 1938).
-  citata_rodoma: |
-    1933 m.
-    liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
-    „Pienocentro“ pastatas Kaune (apie 1938).
+  citata_rodoma: "1933 m. \nliepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu \n„Pienocentro“ pastatas Kaune (apie 1938)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71580
+    - t-001
+
 ## Ryšiai
 - „Pienocentro“ pastatas Kaune priklausė [[objektai/vietos/Kaunas]]

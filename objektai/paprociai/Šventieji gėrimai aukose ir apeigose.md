@@ -47,28 +47,19 @@ Nenurodyta
 
 <a id="claim-t-189788"></a>
 - t-001
-  global_id: t-189788
   teiginys: "Narbutas alų vadina senovės lietuvių pirmutiniu ir mėgstamiausiu svaiginamuoju gėrimu, įėjusiu į slapiąsias aukas arba vaišes."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Alus: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventieji gėrimai aukose ir apeigose: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Alus: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventieji gėrimai aukose ir apeigose\" parinktas kaip owner_note_path. Targetas \"Alus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172671
+    - c-177037
 
 <a id="claim-t-194639"></a>
 - t-002
-  global_id: t-194639
   teiginys: "Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re ligines apeigas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -82,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-194640"></a>
 - t-003
-  global_id: t-194640
   teiginys: "Šį gėrimą mini padavimai, o senos žyniuonės kai kuriose vietose dar moka jį paruošti; ligo niams tai esąs labai stiprinantis dalykas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -96,7 +86,6 @@ Nenurodyta
 
 <a id="claim-t-197271"></a>
 - t-004
-  global_id: t-197271
   teiginys: "(Kad aš gyvenčiau turtingas ir kad savo darbais nusipelnyčiau gyventi laimingoje šalyje, kur geria baltą gėrimą iš aukso ragų kartu su dievais, semdami jį iš švento kubilo."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -109,7 +98,6 @@ Nenurodyta
 
 <a id="claim-t-197272"></a>
 - t-005
-  global_id: t-197272
   teiginys: "Degintą degtinę su medumi žmonės lenkiškai vadina krupniku (Knipniczek); tas slaviškas pavadinimas tikriausiai kilęs iš to lietuviško gėrimo."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -139,6 +127,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-172671
@@ -158,23 +147,15 @@ Nenurodyta
     nusipelnyčiau gyventi laimingoje šalyje,
     kur geria baltą gėrimą iš aukso ragų kartu su dievais,
     semdami jį iš švento kubilo.
-  citata_rodoma: |
-    Niešmiertelne dziewice špiewają w gaiku,
-    Sczęšcie, blogose, uciechy dziedziezą bez liku.
-    Tam rycerze polegli na wojnach straszliwych
-    I cienie wiecznie žyją przyjaciolprawdziwych.
-    (Kad aš gyvenčiau turtingas ir kad savo darbais
-    nusipelnyčiau gyventi laimingoje šalyje,
-    kur geria baltą gėrimą iš aukso ragų kartu su dievais,
-    semdami jį iš švento kubilo.
+  citata_rodoma: "Niešmiertelne dziewice špiewają w gaiku,\nSczęšcie, blogose, uciechy dziedziezą bez liku.\nTam rycerze polegli na wojnach straszliwych \nI cienie wiecznie žyją przyjaciolprawdziwych.\n(Kad aš gyvenčiau turtingas ir kad savo darbais \nnusipelnyčiau gyventi laimingoje šalyje, \nkur geria baltą gėrimą iš aukso ragų kartu su dievais, \nsemdami jį iš švento kubilo."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189788
-    - t-197271
+    - t-004
+
 - id: c-177037
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -195,8 +176,10 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194639
-    - t-197272
+    - t-001
+    - t-002
+    - t-005
+
 - id: c-177038
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -214,4 +197,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194640
+    - t-003

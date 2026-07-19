@@ -31,8 +31,7 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
 ## Teiginiai
 
 <a id="claim-t-40246"></a>
-- t-001
-  global_id: t-40246
+- t-002
   teiginys: "K. Dragunevičiaus vadovaujama vidurinioji vora turėjo pulti bolševikus abipus kelio Žemieji Kapliai-Šėta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
     - c-44400
 
 <a id="claim-t-40247"></a>
-- t-002
-  global_id: t-40247
+- t-001
   teiginys: "K. Dragunevičius ir J. Mikoliūnas Kėdainių gynyboje surinko apie 80 savanorių ir šautuvų ugnimi sustabdė priešo puolimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,24 +84,15 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
     sutelkė kulkosvaidžių ir artilerijos ugnį.
     Neturintys kovos patirties savanoriai, drą-
     sinami būrių vadų, nepakriko ir laikėsi.
-  citata_rodoma: |
-    Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo
-    Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su
-    šūkiu „GOT MIT UNS“ („DIEVAS SU MUMIS“)
-
-    Kėdainių gynyba Karininkai J. Mikoliūnas ir
-    K. Dragunevičius, surinkę apie 80 karei-
-    vinėse buvusių savanorių ir išskleidę juos
-    abipus vieškelio Kėdainiai-Šėta, efektyvia
-    šautuvų ugnimi įstengė sustabdyti priešo
-    puolimą.
+  citata_rodoma: "Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo\nLietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su\nšūkiu „GOT MIT UNS“ („DIEVAS SU MUMIS“)\n\nKėdainių gynyba Karininkai J. Mikoliūnas ir\nK. Dragunevičius, surinkę apie 80 karei-\nvinėse buvusių savanorių ir išskleidę juos\nabipus vieškelio Kėdainiai-Šėta, efektyvia\nšautuvų ugnimi įstengė sustabdyti priešo\npuolimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40247
+    - t-001
+
 - id: c-44400
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -117,16 +106,14 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
     Karin. K. Dragunevičiaus vadovaujama
     vidurinioji vora privalėjo pulti bolševi-
     kus abipus kelio Žemieji Kapliai-Šėta.
-  citata_rodoma: |
-    Karin. K. Dragunevičiaus vadovaujama
-    vidurinioji vora privalėjo pulti bolševi-
-    kus abipus kelio Žemieji Kapliai-Šėta.
+  citata_rodoma: "Karin. K. Dragunevičiaus vadovaujama\nvidurinioji vora privalėjo pulti bolševi-\nkus abipus kelio Žemieji Kapliai-Šėta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40246
+    - t-002
+
 ## Ryšiai
 - K. Dragunevičius gynė [[objektai/vietos/Kėdainiai]]

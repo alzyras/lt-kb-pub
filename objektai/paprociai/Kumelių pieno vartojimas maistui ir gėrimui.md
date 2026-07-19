@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-194941"></a>
 - t-001
-  global_id: t-194941
   teiginys: "Maistui ir gėrimui, gal sekdami budinais, vartojo kumelių pieną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194941
+    - t-001

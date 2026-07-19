@@ -30,7 +30,6 @@ Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai i
 
 <a id="claim-t-191774"></a>
 - t-001
-  global_id: t-191774
   teiginys: "Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai išplėtė plotą į rytus tarp Baigos pilies ir Piliavos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,7 @@ Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai i
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174656
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai išplėtė plotą į rytus tarp Baigos pilies ir Piliavos.'
@@ -76,11 +75,9 @@ Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai i
     nėra naujas teiginys.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191774
+  statusas: verified
 - c-002
   santrauka: 'Foigto „Geschichte Preussens“ ištrauka aprašo senovės Prūsijos provincijas taip, kaip jas XIII a. pradžioje rado kryžiuočiai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -105,10 +102,10 @@ Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai i
     torikas ponas Foigtas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+
 ## Citatos
 
 - id: c-174656
@@ -133,31 +130,11 @@ Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai i
     tesniais laikais buvo gyvenama sausuma, jokiais požiūriais
     nėra naujas teiginys. Dar kronikininkas Lukas Davidas
     (t. IT.
-  citata_rodoma: |
-    333
-
-    ## Puslapis 344
-
-    *  *  *
-    III priedas
-    A p ie  d in g u s į
-    Vitiem dijos k ra štą
-    Ištrauka iš Foigto
-    (Gesch. Preuss. B. I. S. 677)
-    Tai,
-    kad
-    Aistmarės1
-    gerokai
-    išplėtė savo
-    plotą,
-    ypač į rytus, ir ten, kur šiandien tarp senos Baigos pilies
-    ir Piliavos miesto viską dengia marių vandenys, anks­
-    tesniais laikais buvo gyvenama sausuma, jokiais požiūriais
-    nėra naujas teiginys.
+  citata_rodoma: "333\n\n## Puslapis 344\n\n*  *  *\nIII priedas\nA p ie  d in g u s į\nVitiem dijos k ra štą\nIštrauka iš Foigto\n(Gesch. Preuss. B. I. S. 677)\nTai,\nkad\nAistmarės1\ngerokai\nišplėtė savo\nplotą,\nypač į rytus, ir ten, kur šiandien tarp senos Baigos pilies\nir Piliavos miesto viską dengia marių vandenys, anks­\ntesniais laikais buvo gyvenama sausuma, jokiais požiūriais\nnėra naujas teiginys."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191774
+    - t-001

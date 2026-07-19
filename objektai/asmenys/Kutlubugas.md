@@ -32,7 +32,6 @@ Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dal
 
 <a id="claim-t-186230"></a>
 - t-001
-  global_id: t-186230
   teiginys: "Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dalis padalytą kariuomenę prie Mėlynųjų Vandenų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dal
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169591
-    - c-001
 - susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186695|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Redakcinė pastaba mini tris su mūšiu sietus totorių vadų vardus, iš kurių iš Algirdo laikotarpio kituose šaltiniuose žinomas tik Kutlubugas.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184665|Algirdas (Lietuvos valdovas)]]: Algirdas įsakė kariuomenei sustoti ir pasirengti kautynėms, kai priešo kunigaikščiai rengėsi stoti į mūšį.
 - susijęs iš [[objektai/asmenys/Chadžibėjus Girėjus.md#claim-t-186190|Chadžibėjus Girėjus]]: Chadžibėjus Girėjus buvo vienas iš trijų kunigaikščių, vedusių į tris dalis padalytą kariuomenę prie Mėlynųjų Vandenų.
@@ -71,8 +69,7 @@ Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dal
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186230
+
 ## Citatos
 
 - id: c-169591
@@ -89,20 +86,14 @@ Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dal
     rai pasirengę mūšiui ir negaišdami stos į kovą. Todėl
     Algirdas įsakė kariuomenei sustoti ir pasirengti kau­
     tynėms.
-  citata_rodoma: |
-    Pražygiavęs Kanevą ir Čerka­
-    sus, jis priėjo vietą, kurią žmonės vadina Mėlynaisiais
-    Vandenimis, čia bekraštėje lygumoje pasirodė ir prie­
-    šas. Didžiulę į tris dalis padalytą kariuomenę vedė
-    trys kunigaikščiai: Kutlubugas sultanas, Chadžibėjus
-    Girėjus ir Dimitras sultanas. Buvo aišku, jog jie ge­
-    rai pasirengę mūšiui ir negaišdami stos į kovą.
+  citata_rodoma: "Pražygiavęs Kanevą ir Čerka­\nsus, jis priėjo vietą, kurią žmonės vadina Mėlynaisiais\nVandenimis, čia bekraštėje lygumoje pasirodė ir prie­\nšas. Didžiulę į tris dalis padalytą kariuomenę vedė\ntrys kunigaikščiai: Kutlubugas sultanas, Chadžibėjus\nGirėjus ir Dimitras sultanas. Buvo aišku, jog jie ge­\nrai pasirengę mūšiui ir negaišdami stos į kovą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186230
+    - t-001
+
 ## Ryšiai
 - Kutlubugas valdė [[objektai/vietos/Krymas]]

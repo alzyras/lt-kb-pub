@@ -7,10 +7,10 @@ datos:
   - '1398 m.'
 date_start: '1398'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XIV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201954"></a>
 - t-001
-  global_id: t-201954
   teiginys: "Svarbi Lietuvos ir Vokiečių ordino santykiams Salyno sutartis sudaryta 1398 m. Nemuno saloje netoli Kauno."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -56,6 +55,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185301
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -73,4 +75,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201954
+    - t-001

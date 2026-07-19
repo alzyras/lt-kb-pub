@@ -31,7 +31,6 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
 
 <a id="claim-t-86081"></a>
 - t-001
-  global_id: t-86081
   teiginys: "Boleslovo laikais Krušvica ir Poznanė priklausė turtais ir gyventojų gausa garsėjusiems Didžiosios Lenkijos miestams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86081
+    - t-001

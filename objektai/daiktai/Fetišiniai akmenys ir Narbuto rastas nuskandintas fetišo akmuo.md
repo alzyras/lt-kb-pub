@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-189711"></a>
 - t-001
-  global_id: t-189711
   teiginys: "Narbutas rašė, kad senovės žmonės ypač gerbdavo akmenis, kuriuose gamta ką nors pavaizdavo arba kurie savo pavidalu į ką nors panėšėdavo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189711
+    - t-001

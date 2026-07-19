@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75342"></a>
-- t-001
-  global_id: t-75342
+- t-002
   teiginys: "Pasakojime apie prūsų dievų trejybę Pakulas, Perkūnas ir Patrimpas siejami su kultu, kulto tarnų hierarchija ir vaidilutėmis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -67,8 +66,7 @@ Nenurodyta
     - c-22291
 
 <a id="claim-t-75343"></a>
-- t-002
-  global_id: t-75343
+- t-004
   teiginys: "Prūsų dievų trejybėje Pakulas laikytas požemio, Perkūnas žaibų ir griausmų, o Patrimpas javų dievu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,8 +82,7 @@ Nenurodyta
     - c-22291
 
 <a id="claim-t-75344"></a>
-- t-003
-  global_id: t-75344
+- t-001
   teiginys: "Prūsų dievų trejybei priklausė požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -101,8 +98,7 @@ Nenurodyta
     - c-22290
 
 <a id="claim-t-75345"></a>
-- t-004
-  global_id: t-75345
+- t-003
   teiginys: "Pasak Simono Grunau kronikos, Rikojote po žaliuojančiu ąžuolu buvo prūsų dievų šventykla su trimis stabais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,17 +127,16 @@ Nenurodyta
     vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
     Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų
     ir griausmų dievas, o trečiasis – javų dievas Patrimpas.
-  citata_rodoma: |
-    Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų
-    ir griausmų dievas, o trečiasis – javų dievas Patrimpas.
+  citata_rodoma: "Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų\nir griausmų dievas, o trečiasis – javų dievas Patrimpas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75344
-    - t-75345
+    - t-001
+    - t-003
+
 - id: c-22291
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -152,16 +147,12 @@ Nenurodyta
     dievų kultas ir kulto tarnų hierarchija, vaidilutės. Ilgainiui pasakojimas
     apie prūsų dievų trejybę papildytas naujomis smulkmenomis ar intar-
     pais, iliustruotas piešiniais.
-  citata_rodoma: |
-    Aprašomas šių
-    dievų kultas ir kulto tarnų hierarchija, vaidilutės. Ilgainiui pasakojimas
-    apie prūsų dievų trejybę papildytas naujomis smulkmenomis ar intar-
-    pais, iliustruotas piešiniais.
+  citata_rodoma: "Aprašomas šių\ndievų kultas ir kulto tarnų hierarchija, vaidilutės. Ilgainiui pasakojimas\napie prūsų dievų trejybę papildytas naujomis smulkmenomis ar intar-\npais, iliustruotas piešiniais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75342
-    - t-75343
+    - t-002
+    - t-004

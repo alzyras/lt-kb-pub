@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-86229"></a>
 - t-001
-  global_id: t-86229
   teiginys: "1581 m. viešosios rimties drumstėjai Vilniuje užpuolė reformatų maldos namus ir Danieliaus Lenčickio prižiūrimą spaustuvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86229
+    - t-001

@@ -31,7 +31,6 @@ Maždaug tuo pat metu, kai buvo išmatuota žemė, buvo padaryta ir didžiojo ku
 
 <a id="claim-t-193285"></a>
 - t-001
-  global_id: t-193285
   teiginys: "Maždaug tuo pat metu, kai buvo išmatuota žemė, buvo padaryta ir didžiojo kunigaikščio girių revizija."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Maždaug tuo pat metu, kai buvo išmatuota žemė, buvo padaryta ir didžiojo ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193285
+    - t-001

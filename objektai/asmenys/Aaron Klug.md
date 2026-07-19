@@ -36,7 +36,6 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
 
 <a id="claim-t-18753"></a>
 - t-001
-  global_id: t-18753
   teiginys: "Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,14 +82,14 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     ginklo neplatinimo 1985 m. tapo kardiologas Bernard Lown (Bernardas
     Lounas), gimęs Utenoje (kaip Boruchas Lacas 1921 m.), 1935 m. su šeima
     emigravęs į JAV.
-  citata_rodoma: |
-    ją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio
+  citata_rodoma: "ją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18753
+    - t-001
+
 ## Ryšiai
 - Aaron Klug gimė [[objektai/vietos/Želva]]

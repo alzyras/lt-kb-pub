@@ -36,10 +36,9 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
 ## Teiginiai
 
 <a id="claim-t-64724"></a>
-- t-001
-  global_id: t-64724
+- t-003
   teiginys: "M. Poliakuvna parašė straipsnį „Galindia“, paskelbtą 1964 m. Vroclave, Varšuvoje ir Krokuvoje išleistame SSS tome."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -54,10 +53,9 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   temporalinis_llm_pakomentavimas: "Bibliografinis įrašas palaiko konkretų faktą apie publikaciją."
   pagrindžia:
     - c-65358
-    - c-001
+
 <a id="claim-t-64725"></a>
-- t-002
-  global_id: t-64725
+- t-004
   teiginys: "M. Poliakuvna 1968 m. Vroclave, Varšuvoje ir Krokuvoje išleido darbą „Kronika Piotra z Dusburga“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,12 +72,11 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   temporalinis_llm_pakomentavimas: "Citata palaiko trumpą faktą apie Poliakuvnos leidinį."
   pagrindžia:
     - c-65359
-    - c-002
+
 <a id="claim-t-64726"></a>
-- t-003
-  global_id: t-64726
+- t-001
   teiginys: "M. Poliakuvna kėlė mintį, kad Petras Dusburgietis galėjo rašyti Marienburge."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Marienburgas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -96,10 +93,9 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
     - c-65361
 
 <a id="claim-t-64727"></a>
-- t-004
-  global_id: t-64727
+- t-002
   teiginys: "M. Poliakuvna parašė darbą „Zanik ludności pruskiej“, paskelbtą 1958 m. Varšuvoje leidinyje „Pomorze średniowieczne“."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -114,10 +110,9 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   temporalinis_llm_pakomentavimas: "Bibliografinis įrašas palaiko konkretų faktą apie publikaciją."
   pagrindžia:
     - c-65360
-    - c-003
+
 <a id="claim-t-197005"></a>
 - t-005
-  global_id: t-197005
   teiginys: "M. Poliakuvna buvo nuomonių, kad kronikos autorius kilęs iš pareinio Duisburgo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -145,8 +140,6 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-64724
 - c-002
   santrauka: 'M. Poliakuvna 1968 m. Vroclave, Varšuvoje ir Krokuvoje išleido darbą „Kronika Piotra z Dusburga“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -157,8 +150,6 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-64725
 - c-003
   santrauka: 'M. Poliakuvna parašė darbą „Zanik ludności pruskiej“, paskelbtą 1958 m. Varšuvoje leidinyje „Pomorze średniowieczne“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -170,8 +161,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-64727
+
 ## Citatos
 
 - id: c-65358
@@ -181,16 +171,15 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   citata_originali: |
     — Monumenta Germaniae historica: Scriptores rerum
     Germanicarum. Nova series. Tomus VIII.— Berolini, 1930, p. 1—242.
-  citata_rodoma: |
-    Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.
-    78—79.
+  citata_rodoma: "Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.\n78—79."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64724
+    - t-003
+
 - id: c-65359
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -198,15 +187,15 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   citata_originali: |
     78—79.
     Pollakówna M. Kronika Piotra z Dusburga.— Wrocław— Warszawa—Kraków, 1968.
-  citata_rodoma: |
-    Pollakówna M. Kronika Piotra z Dusburga.— Wrocław— Warszawa—Kraków, 1968.
+  citata_rodoma: "Pollakówna M. Kronika Piotra z Dusburga.— Wrocław— Warszawa—Kraków, 1968."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64725
+    - t-004
+
 - id: c-65360
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -215,16 +204,15 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
     Tautavičius A. Lietuvių tautos protėviai.— MG, 1968, Nr. 8, p. 12—17.
     Tholomei Lucensis Anna les. — Monumenta Germaniae historica: Scriptores rerum
     Germanicarum.
-  citata_rodoma: |
-    Pollakówna M. Zanik ludności pruskiej.— Pomorze średniowieczne/Pod red. G. Labudy,
-    Warszawa, 1958, s. 160—207.
+  citata_rodoma: "Pollakówna M. Zanik ludności pruskiej.— Pomorze średniowieczne/Pod red. G. Labudy,\nWarszawa, 1958, s. 160—207."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64727
+    - t-002
+
 - id: c-65361
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -238,17 +226,12 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
     Buvo nuomonių, kad kronikos autorius kilęs iš pareinio Duisburgo. Pastaruoju metu jį
     bandoma kildinti iš olandų Dusburgo (Doesburg), į rytus nuo Utrechto esančio miesto,
     kur Vokiečių ordinas veikė nuo XIII а.
-  citata_rodoma: |
-    Tyrinėtojai siejo Dusburgietį
-    iš pradžių su Ragaine, po to su Karaliaučiumi. Kelta mintis, kad jis rašęs Marienburge,
-    didžiojo magistro rezidencijoje, naudodamasis ten saugomu Ordinu archyvu, kad galėjęs
-    pasirodyti Prūsijoje  ir kiek vėliau, kai Ordino sostinė buvusi perkelta  į Marienburgą
-    (1309 m.) (M. Poliakuvna).
+  citata_rodoma: "Tyrinėtojai siejo Dusburgietį\niš pradžių su Ragaine, po to su Karaliaučiumi. Kelta mintis, kad jis rašęs Marienburge,\ndidžiojo magistro rezidencijoje, naudodamasis ten saugomu Ordinu archyvu, kad galėjęs\npasirodyti Prūsijoje  ir kiek vėliau, kai Ordino sostinė buvusi perkelta  į Marienburgą\n(1309 m.) (M. Poliakuvna)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64726
-    - t-197005
+    - t-001
+    - t-005

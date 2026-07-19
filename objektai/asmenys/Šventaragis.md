@@ -44,7 +44,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 
 <a id="claim-t-87898"></a>
 - t-001
-  global_id: t-87898
   teiginys: "Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 
 <a id="claim-t-188653"></a>
 - t-002
-  global_id: t-188653
   teiginys: "Narbutas, remdamasis senu pasakojimu, rašo, kad Šventaragis 1263 m. siuntė pasiuntinius pas Nemuno upės orakulą klausti apie šventyklos ateitį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -89,7 +87,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 
 <a id="claim-t-188654"></a>
 - t-003
-  global_id: t-188654
   teiginys: "Narbutas teigė, kad kunigaikštis Šventaragis 1282 m. priėmė lietuvių Vytį kaip valstybinį herbą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -113,7 +110,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 
 <a id="claim-t-194020"></a>
 - t-004
-  global_id: t-194020
   teiginys: "APIE KENTAURO HERBO VALDOVUS - ŠVENTARAGĮ IR JO ŠONŲ SKIRMANTĄ Ponai gedėjo savo gimtojo valdovo ir išsirinko val dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai čių kunigaikščio Utenio sūnų."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -123,10 +119,9 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176645
-    - c-004
+
 <a id="claim-t-196659"></a>
 - t-005
-  global_id: t-196659
   teiginys: "Šventaragis buvo gavęs valdyti Žemaitiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -139,7 +134,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 
 <a id="claim-t-201051"></a>
 - t-006
-  global_id: t-201051
   teiginys: "Šventaragis, didysis Lietuvos kunigaikštis, gražiame ąžuolyne ant santeklio Vyliaus ir Neries upių (šian dien Vilijos ir Vilenkos), kurioje vietoj dabar ka tedra Vilniaus riogso, padėjo pamatus garbingai žinyčiai, o sūnus jo Gereimantas metuose 1285 ją."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -152,7 +146,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 
 <a id="claim-t-201052"></a>
 - t-007
-  global_id: t-201052
   teiginys: "Pa saka yra užrašyta, jog didysis Lietuvos kunigaikštis Šventaragis, norėdamas tą žinyčią dirbinti, išsiun tęs būk dvejais metais pirmiaus 1283 į žinyčią Ne munaičių, regis, Rusnės, teirautis apie ateinančią laimą naujosios žinyčios."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -288,8 +281,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194020
+
 ## Citatos
 
 - id: c-83877
@@ -318,34 +310,15 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     vietovė kokios nors mažos kunigaikščio dalinės valdos Lie­
     tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
     okratinio valdymo centrų tikrai galėjo būti8.
-  citata_rodoma: |
-    I. Esą
-    pirmasis toje vietovėje įkurdinęs gy­
-    venvietę Germantas, vykdydamas
-    savo tėvo, kunigaikščio Šventaragio,
-    pasak jų, viešpatavusio Lietuvoje
-    apie 1268 m., valią, tam slėny pir­
-    masis miškus išnaikinęs ir savo tė­
-    vo bei savo paties įpėdinių kapavie­
-    tėms skyręs; pavadino ją vardu tėvo,
-    Šventaragio, kas reikštų Šventą al-
-    18
-
-    ## Puslapis 35
-
-    I  KNYGA
-    Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų
-    nebuvo Europai žinomas kaip miestas, nebuvo pirmapradė
-    vietovė kokios nors mažos kunigaikščio dalinės valdos Lie­
-    tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
-    okratinio valdymo centrų tikrai galėjo būti8.
+  citata_rodoma: "I. Esą \npirmasis toje vietovėje įkurdinęs gy­\nvenvietę Germantas, vykdydamas \nsavo tėvo, kunigaikščio Šventaragio, \npasak jų, viešpatavusio Lietuvoje \napie 1268 m., valią, tam slėny pir­\nmasis miškus išnaikinęs ir savo tė­\nvo bei savo paties įpėdinių kapavie­\ntėms skyręs; pavadino ją vardu tėvo, \nŠventaragio, kas reikštų Šventą al-\n18\n\n## Puslapis 35\n\nI  KNYGA\nUrna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų \nnebuvo Europai žinomas kaip miestas, nebuvo pirmapradė \nvietovė kokios nors mažos kunigaikščio dalinės valdos Lie­\ntuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­\nokratinio valdymo centrų tikrai galėjo būti8."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87898
+    - t-001
+
 - id: c-171542
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -373,7 +346,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188653
+    - t-002
+
 - id: c-171543
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -396,7 +370,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188654
+    - t-003
+
 - id: c-176645
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -411,24 +386,15 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     vieną dievą, ateisiantį gyvųjų ir mirusiųjų teisti.
     Paskui valdė didysis kunigaikštis Skirmantas, paliko
     du sūnus — Trobių6 ir Giliginą7.
-  citata_rodoma: |
-    ## Puslapis 55
-
-    12. APIE KENTAURO HERBO VALDOVUS -  ŠVENTARAGĮ IR JO
-    ŠONŲ SKIRMANTĄ
-    Ponai gedėjo savo gimtojo valdovo ir išsirinko val­
-    dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai­
-    čių kunigaikščio Utenio sūnų.
-    Šventaragiui neilgai pabuvus Naugarduko bei Rusų
-    miestų kunigaikščiu, pasimirė jo tėvas Utenis2 , Lietu­
-    vos ir Žemaičių didysis kunigaikštis 3 .
+  citata_rodoma: "## Puslapis 55\n\n12. APIE KENTAURO HERBO VALDOVUS -  ŠVENTARAGĮ IR JO \nŠONŲ SKIRMANTĄ\nPonai gedėjo savo gimtojo valdovo ir išsirinko val­\ndovu ŠventaragįK entauro herbo, Lietuvos ir Žemai­\nčių kunigaikščio Utenio sūnų.\nŠventaragiui neilgai pabuvus Naugarduko bei Rusų \nmiestų kunigaikščiu, pasimirė jo tėvas Utenis2 , Lietu­\nvos ir Žemaičių didysis kunigaikštis 3 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194020
+    - t-004
+
 - id: c-178823
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -450,10 +416,12 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196659
+    - t-005
+
 - id: c-184401
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vilniaus žinyčia yra dar aiškesniai aprašyta.
     Šventaragis, didysis Lietuvos kunigaikštis, gražiame
@@ -471,10 +439,12 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201051
+    - t-006
+
 - id: c-184402
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kas metą Naujų metų dieną į sieną tos
     bonės įmūravojo plytą, kuri skaitlių metų rodė. Pa­
@@ -491,7 +461,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201052
+    - t-007
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Gerimantas]], [[objektai/asmenys/Germantas]]
 - Šventaragis valdė [[objektai/vietos/Lietuva]]

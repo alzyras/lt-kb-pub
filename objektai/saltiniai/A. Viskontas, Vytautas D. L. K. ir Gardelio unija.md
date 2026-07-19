@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31611"></a>
 - t-001
-  global_id: t-31611
   teiginys: "A. Viskonto darbas „Vytautas D. L. K. ir Gardelio unija“ paskelbtas leidinyje „Lietuvių Tauta“, IV tome."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,14 +63,11 @@ media_all_json: |-
     — Šapoka, A. : _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_
     rink. : Jogaila, Kaunas 1935 185-266 p. — Viskontas, A. : _Vytautas_
     D. L. K. ir Gardelio unija, Lietuvių Tauta, IV.
-  citata_rodoma: |
-    : _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_
-    rink. : Jogaila, Kaunas 1935 185-266 p. — Viskontas, A. : _Vytautas_
-    D. L. K. ir Gardelio unija, Lietuvių Tauta, IV.
+  citata_rodoma: ": _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_\nrink. : Jogaila, Kaunas 1935 185-266 p. — Viskontas, A. : _Vytautas_\nD. L. K. ir Gardelio unija, Lietuvių Tauta, IV."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31611
+    - t-001

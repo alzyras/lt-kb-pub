@@ -37,7 +37,6 @@ Teofilis Duninas Rajeckis buvo Kotrynos (Katarzynos), J. L. Oziębłowskio žmon
 
 <a id="claim-t-202419"></a>
 - t-001
-  global_id: t-202419
   teiginys: "Teofilis Duninas Rajeckis buvo Kotrynos (Katarzynos), J. L. Oziębłowskio žmonos, tėvas."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -65,8 +64,5 @@ Teofilis Duninas Rajeckis buvo Kotrynos (Katarzynos), J. L. Oziębłowskio žmon
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202419
+    - t-001

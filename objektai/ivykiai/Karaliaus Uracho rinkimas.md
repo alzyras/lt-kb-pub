@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-01638"></a>
 - t-001
-  global_id: t-01638
   teiginys: "Lietuvos Taryba nusprendė valdovu kviesti kataliką kunigaikštį von Urachą, kuris priėmė lietuvių pateiktas karaliavimo sąlygas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01638
+    - t-001

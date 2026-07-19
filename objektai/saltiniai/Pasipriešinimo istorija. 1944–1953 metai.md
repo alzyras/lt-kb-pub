@@ -39,7 +39,6 @@ Pasipriešinimo istorija.
 
 <a id="claim-t-18059"></a>
 - t-001
-  global_id: t-18059
   teiginys: "N. Gaškaitės „Pasipriešinimo istorija. 1944–1953 metai“ išleista Vilniuje 2006 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,12 +64,11 @@ Pasipriešinimo istorija.
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006.
-  citata_rodoma: |
-    Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006.
+  citata_rodoma: "Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18059
+    - t-001

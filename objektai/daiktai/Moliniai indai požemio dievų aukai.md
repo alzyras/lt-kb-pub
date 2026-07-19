@@ -45,9 +45,8 @@ Nenurodyta
 
 <a id="claim-t-189733"></a>
 - t-001
-  global_id: t-189733
   teiginys: "Narbutas rašė, kad aukojant požemio dievams apeigiškai užkasdavo aukojamus dalykus ir sudaužytus molinius indus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,10 +62,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172616
-    - c-001
+
 <a id="claim-t-197240"></a>
 - t-002
-  global_id: t-197240
   teiginys: "Dėl savo interesų jie laikė žmones baimėje ir, da rydami įvairias intrigas, galėjo pasitelkti į pagalbą Poklių - tą baisųjį dievą, kurio šiurpus vaizdas ir nepaprastas žiaurumas prisidėjo prie daugelio apgavysčių."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -98,8 +96,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189733
+
 ## Citatos
 
 - id: c-172616
@@ -117,25 +114,15 @@ Nenurodyta
     permaldavimo auką. Tačiau dažnai to nepakakdavo, Poklius
     nesiliaudavo gąsdinęs. Šitaip atsitikus, reikėdavo su didesnė­
     mis išlaidomis atnašauti aukas, ruošti vaišes, pamaldas, kurios 13 14
-  citata_rodoma: |
-    6. Auka požemio dievams, tai yra pragaro dievybėms, nykš­
-    tukams, genijams ir visoms mitinėms būtybėms, gyvenančioms
-    po žeme. Aukojimo esmė buvo tam tikrų aukojamųjų dalykų
-    apeiginis užkasimas giliai žemėje. Baigus atnašauti kitas au­
-    314
-
-    ## Puslapis 314
-
-    kas, tam būdavo panaudojami kaulai ir nesuvalgytos arba ne­
-    sudegusios ant aukuro liekanos, taip pat moliniai indai, ku­
-    riuos sudaužydavo.
+  citata_rodoma: "6. Auka požemio dievams, tai yra pragaro dievybėms, nykš­\ntukams, genijams ir visoms mitinėms būtybėms, gyvenančioms\npo žeme. Aukojimo esmė buvo tam tikrų aukojamųjų dalykų\napeiginis užkasimas giliai žemėje. Baigus atnašauti kitas au­\n314\n\n## Puslapis 314\n\nkas, tam būdavo panaudojami kaulai ir nesuvalgytos arba ne­\nsudegusios ant aukuro liekanos, taip pat moliniai indai, ku­\nriuos sudaužydavo."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189733
+    - t-001
+
 - id: c-179081
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -155,4 +142,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197240
+    - t-002

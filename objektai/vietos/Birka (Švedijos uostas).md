@@ -31,7 +31,6 @@ Su Švedijos uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laiva
 
 <a id="claim-t-28306"></a>
 - t-001
-  global_id: t-28306
   teiginys: "Sembai palaikė ryšius su Švedijos uostu Birka ir patys savo laivais ten nuplaukdavo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Su Švedijos uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28306
+    - t-001

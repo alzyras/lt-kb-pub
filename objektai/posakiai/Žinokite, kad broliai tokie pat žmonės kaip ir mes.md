@@ -31,7 +31,6 @@ Dusburgietis teigia, kad šis, gerai susipažinęs su brolių gyvenimu, sugrįž
 
 <a id="claim-t-194559"></a>
 - t-001
-  global_id: t-194559
   teiginys: "Todėl jie mus kovoje, be abejonės, nugalės!“ Kadangi matė brolius valgant kopūstus, kurių prūsai nevartoja, ir manė, jog tai žolė, jis pridūrė: „Be to, ir valgo jie žolę nelyginant arkliai ar mulai, tai kas gi įstengsiąs jiems atsispirti, jeigu jie ir dykrose."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Dusburgietis teigia, kad šis, gerai susipažinęs su brolių gyvenimu, sugrįž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194559
+    - t-001

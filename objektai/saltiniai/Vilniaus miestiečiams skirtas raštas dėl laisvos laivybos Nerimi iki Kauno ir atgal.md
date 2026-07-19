@@ -7,10 +7,10 @@ datos:
   - '1443 m.'
 date_start: '1443'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ media_all_json: |-
 
 <a id="claim-t-202298"></a>
 - t-001
-  global_id: t-202298
   teiginys: "Žygimantas Kęstutaitis atleido Vilniaus miestiečius nuo muitų, tarp vietų, kuriose iš vilniečių neturi būti imamas muitas, buvo įvardytas ir Kaunas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202298
+    - t-001

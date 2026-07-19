@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67488"></a>
-- t-001
-  global_id: t-67488
+- t-002
   teiginys: "Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, o pajamų gavo 11 mln. litų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-67374
 
 <a id="claim-t-67489"></a>
-- t-002
-  global_id: t-67489
+- t-001
   teiginys: "1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė Klaipėdos kraštą autonomine Lietuvos dalimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,6 @@ media_all_json: |-
 
 <a id="claim-t-183377"></a>
 - t-003
-  global_id: t-183377
   teiginys: "1939 m. pradžioje Klaipėdos konvencijos signatarai britai ir prancūzai pranešė, kad negarantuoja Klaipėdos status quo."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -114,15 +111,15 @@ media_all_json: |-
     1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas pa-
     naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
     autonomine Lietuvos dalimi.
-  citata_rodoma: |
-    naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
+  citata_rodoma: "naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67489
+    - t-001
+
 - id: c-67374
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -135,15 +132,15 @@ media_all_json: |-
     Lietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų
     lygiateisiškumas tebuvo fikcija – lietuvių kalba galėjai susikalbėti tik lie-
     tuviškose įstaigose ir bendrovėse.
-  citata_rodoma: |
-    Lietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų
+  citata_rodoma: "Lietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67488
+    - t-002
+
 - id: c-166770
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -160,4 +157,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183377
+    - t-003

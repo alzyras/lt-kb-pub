@@ -65,8 +65,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-182715"></a>
-- t-001
-  global_id: t-182715
+- t-013
   teiginys: "Personalinės unijos laikotarpiu Lietuvą ir Lenkiją valdė tie patys valdovai, nors valstybės liko atskiros."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,8 +84,7 @@ Nenurodyta
     - c-166134
 
 <a id="claim-t-182717"></a>
-- t-002
-  global_id: t-182717
+- t-032
   teiginys: "Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,8 +100,7 @@ Nenurodyta
     - c-166132
 
 <a id="claim-t-182718"></a>
-- t-003
-  global_id: t-182718
+- t-012
   teiginys: "Savotiškos personalinės unijos reikalavo lietuviai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,8 +116,7 @@ Nenurodyta
     - c-166133
 
 <a id="claim-t-182968"></a>
-- t-004
-  global_id: t-182968
+- t-005
   teiginys: "Darant uniją daugiausia dėmesio buvo skiriama susitarimui dėl bendro valdovo."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -132,8 +128,7 @@ Nenurodyta
     - c-166367
 
 <a id="claim-t-182969"></a>
-- t-005
-  global_id: t-182969
+- t-006
   teiginys: "Lietuviai ir lenkai sutiko turėti bendrą valdovą, bet nesutarė, ar valstybės liks personalinėje unijoje, ar pereis į realinę."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -152,8 +147,7 @@ Nenurodyta
     - c-46887
 
 <a id="claim-t-193610"></a>
-- t-006
-  global_id: t-193610
+- t-033
   teiginys: "Su nedidelėmis išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir Lenkija, nors valstybės buvo atskiros."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -184,7 +178,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182969
+    - t-006
+
 - id: c-166132
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -208,7 +203,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182717
+    - t-032
+
 - id: c-166133
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -226,17 +222,15 @@ Nenurodyta
     supo Lenkijos valstybės taryba. Lietuvių pareigūnus įtraukus į Lenkijos
     valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
     lemta valstybių sąveika naikino Lietuvos valstybingumą.
-  citata_rodoma: |
-    Lietuvių pareigūnus įtraukus į Lenkijos
-    valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
-    lemta valstybių sąveika naikino Lietuvos valstybingumą.
+  citata_rodoma: "Lietuvių pareigūnus įtraukus į Lenkijos \nvalstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-\nlemta valstybių sąveika naikino Lietuvos valstybingumą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182718
+    - t-012
+
 - id: c-166134
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -248,17 +242,15 @@ Nenurodyta
     Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija. Su nedidelėmis
     išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
     Lenkija, nors valstybės buvo atskiros.
-  citata_rodoma: |
-    Su nedidelėmis
-    išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
-    Lenkija, nors valstybės buvo atskiros.
+  citata_rodoma: "Su nedidelėmis \nišimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir \nLenkija, nors valstybės buvo atskiros."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182715
+    - t-013
+
 - id: c-166367
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -278,7 +270,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182968
+    - t-005
+
 - id: c-176283
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -295,4 +288,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193610
+    - t-033

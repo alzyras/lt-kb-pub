@@ -30,7 +30,6 @@ Narbutas nurodė, kad aptariami dalykai pateikti tik Šrioko veikale „Kirchen 
 
 <a id="claim-t-190361"></a>
 - t-001
-  global_id: t-190361
   teiginys: "Narbutas nurodė, kad aptariami dalykai pateikti tik Šrioko veikale „Kirchen Geschichte“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Narbutas nurodė, kad aptariami dalykai pateikti tik Šrioko veikale „Kirchen 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190361
+    - t-001

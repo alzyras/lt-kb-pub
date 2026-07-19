@@ -33,7 +33,6 @@ Prie upių valdas turintys žemvaldžiai įrengdavo žvejybai vadinamuosius perk
 
 <a id="claim-t-201811"></a>
 - t-001
-  global_id: t-201811
   teiginys: "Prie upių valdas turintys žemvaldžiai įrengdavo žvejybai vadinamuosius perkolus (e3, jaz), kurie užtverdavo upės vagą ir neleisdavo praplaukti laivams."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Prie upių valdas turintys žemvaldžiai įrengdavo žvejybai vadinamuosius perk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201811
+    - t-001

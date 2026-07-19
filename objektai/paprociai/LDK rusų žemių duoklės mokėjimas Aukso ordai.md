@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54266"></a>
-- t-001
-  global_id: t-54266
+- t-002
   teiginys: "Gediminas ir Algirdas už teisę valdyti prisijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-55156
 
 <a id="claim-t-54267"></a>
-- t-002
-  global_id: t-54267
+- t-001
   teiginys: "Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -85,6 +83,7 @@ Nenurodyta
   pagrindžia:
     - c-55156
     - c-166706
+
 ## Citatos
 
 - id: c-55156
@@ -99,22 +98,16 @@ Nenurodyta
     Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-
     das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
     Vytautas nustojo mokėti mongolams duoklę).
-  citata_rodoma: |
-    Paprastai perimama ir žlu-
-    gusios imperijos administracinė struktūra bei kultūros paveldas.
-    Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
-    golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors
-    Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-
-    das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
-    Vytautas nustojo mokėti mongolams duoklę).
+  citata_rodoma: "Paprastai perimama ir žlu-\ngusios imperijos administracinė struktūra bei kultūros paveldas. \nRusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-\ngolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors \nLietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-\ndas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk \nVytautas nustojo mokėti mongolams duoklę)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54266
-    - t-54267
+    - t-002
+    - t-001
+
 - id: c-166706
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -135,3 +128,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

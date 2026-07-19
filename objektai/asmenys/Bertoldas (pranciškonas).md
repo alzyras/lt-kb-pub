@@ -31,7 +31,6 @@ Tur būt, Gediminas nebuvo tiek daug ketinęs, kiek du pranciškonai (Bertoldas 
 
 <a id="claim-t-30212"></a>
 - t-001
-  global_id: t-30212
   teiginys: "Pranciškonas Bertoldas su Henriku į Gedimino laišką veikiausiai įrašė daugiau, negu Gediminas buvo ketinęs."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,15 +59,11 @@ Tur būt, Gediminas nebuvo tiek daug ketinęs, kiek du pranciškonai (Bertoldas 
     ketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.
     Gediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė
     popiežiaus tarpininkavimo.
-  citata_rodoma: |
-    Tur būt, Gediminas nebuvo tiek daug
-    ketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.
-    Gediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė
-    popiežiaus tarpininkavimo.
+  citata_rodoma: "Tur būt, Gediminas nebuvo tiek daug\nketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.\nGediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė\npopiežiaus tarpininkavimo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30212
+    - t-001

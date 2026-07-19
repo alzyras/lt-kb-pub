@@ -30,7 +30,6 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. 
 
 <a id="claim-t-191477"></a>
 - t-001
-  global_id: t-191477
   teiginys: "Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. 
 
 <a id="claim-t-197824"></a>
 - t-002
-  global_id: t-197824
   teiginys: "Telanas savo rankomis nužudė jo rūmuose puotavusį Odoakrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,6 +79,7 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-174359
@@ -99,21 +98,15 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. 
     gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
     na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
     dieną.
-  citata_rodoma: |
-    Bet jis, trokšdamas vienvaldystės ir kupi­
-    nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų
-    sudarymo pažeisti svetingumo taisykles: jis savo ranko­
-    mis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai
-    gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
-    na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
-    dieną.
+  citata_rodoma: "Bet jis, trokšdamas vienvaldystės ir kupi­\nnas juodo pavydo, nepasibjaurėjo netrukus po paliaubų \nsudarymo pažeisti svetingumo taisykles: jis savo ranko­\nmis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai \ngotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­\nna daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5 \ndieną."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191477
-    - t-197824
+    - t-001
+    - t-002
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Odoakras]]

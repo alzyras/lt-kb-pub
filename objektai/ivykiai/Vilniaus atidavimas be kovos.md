@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-20532"></a>
 - t-001
-  global_id: t-20532
   teiginys: "Birželio 14 d. Vilnius buvo atiduotas be kovos, nors birželio 11 d. prie Myro dar vyko rimtesnės kautynės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,12 +73,11 @@ Nenurodyta
     nelygios, todėl numatyta, kad besipriešinanti kariuomenė turi trauktis
     Varšuvos link. Rimtesnės kautynės vyko birželio 11 dieną prie Myro,
     tačiau birželio 14-ąją Vilnius buvo atiduotas be kovos.
-  citata_rodoma: |
-    Varšuvos link. Rimtesnės kautynės vyko birželio 11 dieną prie Myro,
+  citata_rodoma: "Varšuvos link. Rimtesnės kautynės vyko birželio 11 dieną prie Myro,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20532
+    - t-001

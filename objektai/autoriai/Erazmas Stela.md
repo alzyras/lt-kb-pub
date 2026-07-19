@@ -32,9 +32,8 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
 
 <a id="claim-t-190348"></a>
 - t-001
-  global_id: t-190348
   teiginys: "Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos paimtą faktą apie elnio laikymą dievuku fetišu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -43,12 +42,11 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173231
-    - c-001
+
 <a id="claim-t-190349"></a>
 - t-002
-  global_id: t-190349
   teiginys: "Narbutas nurodo, kad Erazmas Stela, remdamasis Lietuvos padavimais, laidojimo apeigų tvarką siejo su Vaidevučio laikais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,10 +62,9 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173232
-    - c-002
+
 <a id="claim-t-190696"></a>
 - t-003
-  global_id: t-190696
   teiginys: "Narbuto aiškinimu, Erazmas Stela lietuvių kilmę iš alanų siejo su į šias šalis atėjusių hunų antplūdžiu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -85,10 +82,9 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   vertinimo_atnaujinta: "2026-07-04T16:15:14Z"
   pagrindžia:
     - c-173578
-    - c-003
+
 <a id="claim-t-190697"></a>
 - t-004
-  global_id: t-190697
   teiginys: "Narbutas Erazmui Stelai priskiria išvadą, kad Ptolemėjo boruskų arba borusų ieškota prie Ritėjų kalnų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -122,8 +118,6 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190348
 - c-002
   santrauka: 'Narbutas nurodo, kad Erazmas Stela, remdamasis Lietuvos padavimais, laidojimo apeigų tvarką siejo su Vaidevučio laikais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -141,8 +135,6 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190349
 - c-003
   santrauka: 'Narbuto aiškinimu, Erazmas Stela lietuvių kilmę iš alanų siejo su į šias šalis atėjusių hunų antplūdžiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -164,8 +156,7 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190696
+
 ## Citatos
 
 - id: c-173231
@@ -178,19 +169,15 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
     Vieno Lietuvos bajoro duktė ypač garsėjo prisirišimu prie trijų
     savo brolių. Labiausiai jai patikdavę, kai galėdavo jiems pasi­
     meilinti: siuvinėti gūnias, austi juostas.
-  citata_rodoma: |
-    Žiūrėk II lentelės 4-ąjį piešinį.
-    Elnias (Elnis)
-    Elnią, tą gyvulį, laikė dievuku fetišu, manydami, kad jis
-    pašalins ligas, ypač epilepsiją. Paimtą iš Erazmo Stelos faktą
-    Hartknochas pagrindžia savo pastebėjimais15.
+  citata_rodoma: "Žiūrėk II lentelės 4-ąjį piešinį.\nElnias (Elnis)\nElnią, tą gyvulį, laikė dievuku fetišu, manydami, kad jis\npašalins ligas, ypač epilepsiją. Paimtą iš Erazmo Stelos faktą\nHartknochas pagrindžia savo pastebėjimais15."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190348
+    - t-001
+
 - id: c-173232
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -208,22 +195,15 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
     tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
     Jie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-
     te“, tai yra, anot autoriaus vertimo, „loca adiectorum “.
-  citata_rodoma: |
-    Žmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­
-    lėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai
-    kuriose vietose žmonos apverkdavo vyrus prie pačių kapų. O
-    vyras gedėdavo žmonos tiktai astuonias dienas. Erazmas Ste­
-    la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina,
-    kad laidojimo apeigų tvarka buvo labai senas, šventas daly­
-    kas, siekiantis Vaidevučio laikus; jos šventai laikėsi visos lietu­
-    vių genties tautos.
+  citata_rodoma: "Žmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­\nlėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai\nkuriose vietose žmonos apverkdavo vyrus prie pačių kapų. O\nvyras gedėdavo žmonos tiktai astuonias dienas. Erazmas Ste­\nla aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina,\nkad laidojimo apeigų tvarka buvo labai senas, šventas daly­\nkas, siekiantis Vaidevučio laikus; jos šventai laikėsi visos lietu­\nvių genties tautos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190349
+    - t-002
+
 - id: c-173578
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -243,26 +223,15 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
     pat negalima paneigti ir didelio lietuvių genties išsibars­
     tymo dar priešistoriniais laikais, nes ir prie Reino, ir ana­
     pus jo yra ryškių litalanų pėdsakų.
-  citata_rodoma: |
-    Alanai buvo
-    skitų blondinų gentis, jie davė pradžią roksolanams; gotai
-    taip pat ¡buvo blondinai, tad nieko nuostabaus, kad galima
-    pastebėti giminingumą (§49). Būtent čia įžvelgė lietuvių
-    kilmės iš alanų pagrindą ir Erazmas Stela, XVI amžiaus
-    pradžioje gyvenęs autorius ir žinojęs apie prūsų kildini-
-    jną iš gotų; tai teigė dar Kulmo vyskupas Kristijonas,
-    gyvenęs XIII amžiaus pirmojoje pusėje1. Gerai pažinojęs
-    prūsus ir lietuvius ir įsitikinęs, jog jie negali turėti nieko
-    bendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­
-    siedamas kildintiną iš alanų su į šias šalis atėjusių hunų
-    antplūdžiu.
+  citata_rodoma: "Alanai buvo\nskitų blondinų gentis, jie davė pradžią roksolanams; gotai\ntaip pat ¡buvo blondinai, tad nieko nuostabaus, kad galima\npastebėti giminingumą (§49). Būtent čia įžvelgė lietuvių\nkilmės iš alanų pagrindą ir Erazmas Stela, XVI amžiaus\npradžioje gyvenęs autorius ir žinojęs apie prūsų kildini-\njną iš gotų; tai teigė dar Kulmo vyskupas Kristijonas,\ngyvenęs XIII amžiaus pirmojoje pusėje1. Gerai pažinojęs\nprūsus ir lietuvius ir įsitikinęs, jog jie negali turėti nieko\nbendro su keltų pradu, norėjo sutaikyti šią nuomonę, su­\nsiedamas kildintiną iš alanų su į šias šalis atėjusių hunų\nantplūdžiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190696
+    - t-003
+
 - id: c-173579
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -281,4 +250,4 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190697
+    - t-004

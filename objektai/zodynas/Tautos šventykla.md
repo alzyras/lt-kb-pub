@@ -31,7 +31,6 @@ Sumanyta pastatyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B
 
 <a id="claim-t-75592"></a>
 - t-001
-  global_id: t-75592
   teiginys: "Kaune Prisikėlimo bažnyčią sumanyta pastatyti kaip tautos šventyklą, lietuvišku stiliumi ir ornamentika atspindinčią lietuvių tautos religinę ir tautinę dvasią."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Sumanyta pastatyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B
 
 <a id="claim-t-75593"></a>
 - t-002
-  global_id: t-75593
   teiginys: "Prisikėlimo bažnyčią Kaune sumanyta pastatyti kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,5 +83,5 @@ Sumanyta pastatyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75592
-    - t-75593
+    - t-001
+    - t-002

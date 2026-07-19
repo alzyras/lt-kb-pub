@@ -31,7 +31,6 @@ Dominikonų ordino namas.
 
 <a id="claim-t-86178"></a>
 - t-001
-  global_id: t-86178
   teiginys: "Dominikonų ordino namas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Dominikonų ordino namas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86178
+    - t-001

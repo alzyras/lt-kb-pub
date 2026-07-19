@@ -36,7 +36,6 @@ Dusburgietis teigia, kad wenskus R.
 
 <a id="claim-t-61364"></a>
 - t-001
-  global_id: t-61364
   teiginys: "R. Wenskaus straipsnis „Kleinverbände und Kleinräume bei den Prussen des Samlandes“ paskelbtas 1964 m. leidinio 2 tome, p. 201–254."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Dusburgietis teigia, kad wenskus R.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61364
+    - t-001

@@ -11,10 +11,10 @@ datos:
   - '1404 m.'
 date_start: '1404'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ Abiejų valstybių pirkliams buvo laiduota prekybos laisvė, jie galėjo netrukd
 
 <a id="claim-t-202294"></a>
 - t-001
-  global_id: t-202294
   teiginys: "Abiejų valstybių pirkliams buvo laiduota prekybos laisvė, jie galėjo netrukdomi keliauti, privalėjo mokėti tik senus muitus ir rinkliavas, buvo sutarta naujų neįvesti."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Abiejų valstybių pirkliams buvo laiduota prekybos laisvė, jie galėjo netrukd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202294
+    - t-001

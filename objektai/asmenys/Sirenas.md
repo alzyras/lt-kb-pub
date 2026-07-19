@@ -30,7 +30,6 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
 
 <a id="claim-t-60433"></a>
 - t-001
-  global_id: t-60433
   teiginys: "Sirenas buvo pamedėnas, Kristburgo pilyje laikytas surakintas grandinėmis, nes buvo prasikaltęs."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
 
 <a id="claim-t-184125"></a>
 - t-002
-  global_id: t-184125
   teiginys: "Sirenas nutraukė grandines ir gynė Kristburgo pilies tiltą, kol buvo uždaryti pilies vartai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60433
+    - t-001
+
 - id: c-167510
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -106,6 +105,7 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184125
+    - t-002
+
 ## Ryšiai
 - Sirenas gynė [[objektai/vietos/Kristburgas]]

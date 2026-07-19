@@ -42,8 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-47947"></a>
-- t-001
-  global_id: t-47947
+- t-002
   teiginys: "Vytauto žodžiais, bajorai, neturėję kuo joti ar apsišarvuoti, turėjo parduoti žmoną ir vaikus, „kad tik be arklio nebūtų“."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-31433
 
 <a id="claim-t-47948"></a>
-- t-002
-  global_id: t-47948
+- t-003
   teiginys: "Vytauto žodžiais, bajorai, neturėję kuo joti ar apsišarvuoti, turėjo parduoti žmoną ir vaikus, kad tik neliktų be arklio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -93,19 +91,12 @@ media_all_json: |-
     Kryžiuočių ir Maskvos rusų istoriografija, kaip ir nebuvo gali­
     ma kitaip laukti iš Vytauto politinių priešų, yra jį piešusi gana
     tamsiomis spalvomis, laikydama jį, be kitko, gana žiauriu valdovu.
-  citata_rodoma: |
-    Ir tiems bajorams, kurių luomą Vytautas taip rėmė dovanojimais,
-    stojimas karan su savo arkliu ir ginklais buvo geležinis įstatymas ;
-    o kurie neturėjo kuo joti ar apsišarvoti, paties Vytauto žodžiais,
-    turėjo parduoti žmoną ir vaikus, « kad tik be arklio nebūtų »^4.
-    Kryžiuočių ir Maskvos rusų istoriografija, kaip ir nebuvo gali­
-    ma kitaip laukti iš Vytauto politinių priešų, yra jį piešusi gana
-    tamsiomis spalvomis, laikydama jį, be kitko, gana žiauriu valdovu.
+  citata_rodoma: "Ir tiems bajorams, kurių luomą Vytautas taip rėmė dovanojimais,\nstojimas karan su savo arkliu ir ginklais buvo geležinis įstatymas ;\no kurie neturėjo kuo joti ar apsišarvoti, paties Vytauto žodžiais,\nturėjo parduoti žmoną ir vaikus, « kad tik be arklio nebūtų »^4.\nKryžiuočių ir Maskvos rusų istoriografija, kaip ir nebuvo gali­\nma kitaip laukti iš Vytauto politinių priešų, yra jį piešusi gana\ntamsiomis spalvomis, laikydama jį, be kitko, gana žiauriu valdovu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47947
-    - t-47948
+    - t-002
+    - t-003

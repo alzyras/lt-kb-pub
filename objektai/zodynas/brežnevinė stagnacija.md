@@ -32,7 +32,6 @@ LLL buvo paskutinė rezistencijos organizacija, kuri brežnevinės stagnacijos l
 
 <a id="claim-t-77789"></a>
 - t-001
-  global_id: t-77789
   teiginys: "Lietuvos laisvės lyga brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir dvasią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ LLL buvo paskutinė rezistencijos organizacija, kuri brežnevinės stagnacijos l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77789
+    - t-001

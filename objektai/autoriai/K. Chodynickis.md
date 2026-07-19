@@ -31,7 +31,6 @@ Chodynickis ir J.
 
 <a id="claim-t-30732"></a>
 - t-001
-  global_id: t-30732
   teiginys: "K. Chodynickis daug dėmesio skyrė atskiriems Gediminaičių laikų klausimams ir Lietuvos seniesiems šaltiniams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,14 +60,11 @@ Chodynickis ir J.
     Daug dėmesio atskiriems Gediminaičių laikų klausimams ir
     Lietuvos seniesiems šaltiniams skyrė K. Chodynickis ir J.
     Jakubowskis.
-  citata_rodoma: |
-    Daug dėmesio atskiriems Gediminaičių laikų klausimams ir
-    Lietuvos seniesiems šaltiniams skyrė K. Chodynickis ir J.
-    Jakubowskis.
+  citata_rodoma: "Daug dėmesio atskiriems Gediminaičių laikų klausimams ir\nLietuvos seniesiems šaltiniams skyrė K. Chodynickis ir J.\nJakubowskis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30732
+    - t-001

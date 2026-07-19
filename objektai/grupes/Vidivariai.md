@@ -31,7 +31,6 @@ Narbutas mini nuomonę, kad lietuvių tauta IV ar V a. Vyslos žemupyje susidar�
 
 <a id="claim-t-192944"></a>
 - t-001
-  global_id: t-192944
   teiginys: "Narbutas mini nuomonę, kad lietuvių tauta IV ar V a. Vyslos žemupyje susidarė kaip germanų kilmės lydinys ir vadinta vidivariais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Narbutas mini nuomonę, kad lietuvių tauta IV ar V a. Vyslos žemupyje susidar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192944
+    - t-001

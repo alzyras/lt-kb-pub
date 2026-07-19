@@ -27,24 +27,11 @@ media_all_json: |-
 
 Tado Volianskio laiške Narbutas pateikia formulę apie Lietuvos vardo senumą romėnų akyse.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-192123"></a>
-- t-001
-  global_id: t-192123
-  teiginys: 'Narbutas cituoja Tadą Volianskį, teigusį, kad Lietuva tuo pačiu vardu romėnams buvo žinoma jau senovėje.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginys suatributuotas Volianskiui per Narbuto citavimą, nes tai šaltinio interpretacija. Nepridėtos detalės apie lietuvių tarnybą ar karus su romėnais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Budinai|Budinai]]; mentioned_group: [[objektai/grupes/Gelonai|Gelonai]]; mentioned_place: Donas; mentioned_place: Graikija; mentioned_place: Olbija; mentioned_place: Skitija'
-  pagrindžia:
-    - c-175006
-
-## Citatos
-
-- id: c-175006
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'Narbutas cituoja Tadą Volianskį, teigusį, kad Lietuva tuo pačiu vardu romėnams buvo žinoma jau senovėje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Apie 510 metus prieš Kristaus
     gimimą lakedamoniečiai palaikė prekybinius ryšius su Ski-
@@ -68,11 +55,8 @@ Tado Volianskio laiške Narbutas pateikia formulę apie Lietuvos vardo senumą r
     Lietuviai, kaip ir kitų tautų šauniausi vyrai, arba stodavo
     j. karo tarnybą pas anuometinius pasaulio valdovus, arba,
     atvirkščiai, kariaudavo su romėnais.
-  citata_rodoma: "„Visiškai tikra yra tai, jog Lietuva tuo\n  pačiu kaip ir dabar vardu jau buvo žinoma romėnams.\n  Lietuviai, kaip ir kitų tautų šauniausi vyrai, arba stodavo\n  j. karo tarnybą pas anuometinius pasaulio valdovus, arba,\n  atvirkščiai, kariaudavo su romėnais.“"
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192123
+  statusas: verified

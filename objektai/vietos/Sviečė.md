@@ -30,8 +30,7 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
 ## Teiginiai
 
 <a id="claim-t-36593"></a>
-- t-001
-  global_id: t-36593
+- t-002
   teiginys: "Iš Sviečės atvykę kryžiuočiai sustiprino Drevencos krantus ir apstatė juos patrankomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
     - c-38650
 
 <a id="claim-t-36594"></a>
-- t-002
-  global_id: t-36594
+- t-001
   teiginys: "Lenkų puolimas įvyko netoli Sviečės, kai lietuviai puolė iš Žemaičių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,19 +78,15 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
     Į Červinską atvyko iš kryžiuočių pusės vengrų pasiuntiniai
     klausti Jogailos, kur ir kada būtų galima pradėti taikos dery­
     bas.
-  citata_rodoma: |
-    Tuo metu ir įvyko lietuvių puolimas iš
-    Žemaičių, o lenkų — netoli Sviečės.
-    Į Červinską atvyko iš kryžiuočių pusės vengrų pasiuntiniai
-    klausti Jogailos, kur ir kada būtų galima pradėti taikos dery­
-    bas.
+  citata_rodoma: "Tuo metu ir įvyko lietuvių puolimas iš\nŽemaičių, o lenkų — netoli Sviečės.\nĮ Červinską atvyko iš kryžiuočių pusės vengrų pasiuntiniai\nklausti Jogailos, kur ir kada būtų galima pradėti taikos dery­\nbas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36594
+    - t-001
+
 - id: c-38650
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -104,15 +98,11 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
     nę upės krantus ir apstatę juos patrankomis. Jėga veržtis per
     Drevencą sąjungininkai nerizikavo, nes buvo pavojinga pradėti
     mūšį nepatogiose pozicijose.
-  citata_rodoma: |
-    Jie čia jau buvo atvykę iš Sviečės, sustipri­
-    nę upės krantus ir apstatę juos patrankomis. Jėga veržtis per
-    Drevencą sąjungininkai nerizikavo, nes buvo pavojinga pradėti
-    mūšį nepatogiose pozicijose.
+  citata_rodoma: "Jie čia jau buvo atvykę iš Sviečės, sustipri­\nnę upės krantus ir apstatę juos patrankomis. Jėga veržtis per\nDrevencą sąjungininkai nerizikavo, nes buvo pavojinga pradėti\nmūšį nepatogiose pozicijose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36593
+    - t-002

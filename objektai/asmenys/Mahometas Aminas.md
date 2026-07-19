@@ -31,7 +31,6 @@ Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis L
 
 <a id="claim-t-40324"></a>
 - t-001
-  global_id: t-40324
   teiginys: "Kazanės chanas Mahometas Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,23 +68,11 @@ Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis L
     valias, todėl sąjunga su Krymu buvo patvir-
 
     tinta.
-  citata_rodoma: |
-    Pasiuntinys
-    taip pat gabeno Kazanės chano Mahometo-
-
-    Amino laišką, kuriame jis Lietuvai siūlė są-
-
-    jungą prieš Maskvą. Naujasis LDK valdovas
-
-    Žygimantas Senasis ir taip turėjo reikalų į
-
-    valias, todėl sąjunga su Krymu buvo patvir-
-
-    tinta.
+  citata_rodoma: "Pasiuntinys\ntaip pat gabeno Kazanės chano Mahometo-\n\nAmino laišką, kuriame jis Lietuvai siūlė są-\n\njungą prieš Maskvą. Naujasis LDK valdovas\n\nŽygimantas Senasis ir taip turėjo reikalų į\n\nvalias, todėl sąjunga su Krymu buvo patvir-\n\ntinta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40324
+    - t-001

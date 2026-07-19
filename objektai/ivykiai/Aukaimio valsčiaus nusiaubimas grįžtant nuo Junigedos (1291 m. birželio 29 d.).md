@@ -52,10 +52,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62742"></a>
-- t-001
-  global_id: t-62742
+- t-002
   teiginys: "Grįždami nuo Junigedos, broliai įsiveržė į Aukaimio pilies apylinkes, jas nuniokojo, paėmė belaisvių ir parsivedė didelį grobį."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Aukaimis: 0.85"
@@ -68,12 +67,12 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63517
-    - c-001
+    - c-63518
+
 <a id="claim-t-62743"></a>
-- t-002
-  global_id: t-62743
+- t-001
   teiginys: "1291 m. birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Junigeda: 0.85"
@@ -92,7 +91,6 @@ Nenurodyta
 
 <a id="claim-t-194379"></a>
 - t-003
-  global_id: t-194379
   teiginys: "Apie Aukaimio valsčiaus nusiaubimą Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis Henrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių ir tūkstančiu penkiais šimtais vyrų išjojo537 link Junigedos pilies."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -105,7 +103,6 @@ Nenurodyta
 
 <a id="claim-t-196931"></a>
 - t-004
-  global_id: t-196931
   teiginys: "Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio nių nužudymą bei paėmimą į nelaisvę Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -135,8 +132,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62742
+
 ## Citatos
 
 - id: c-63517
@@ -157,23 +153,15 @@ Nenurodyta
     neleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,
     be to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę
     belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių.
-  citata_rodoma: |
-    Po to broliai,
-    pasitraukę su kariuomene, kurį laiką ilsėjosi vienoje vietoje; ilgokai ten taręsi, galop visi
-    nusprendė, kad, šiaip ar taip, nedera tuščiomis rankomis grįžti namo. Todėl, įsibrovę
-    į Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami. Paėmę  į nelaisvę ir
-    išžudę daug žmonių, patraukė su dideliu grobiu atgal. Kadangi šio valsčiaus raiteliai prieš
-    vieną dieną buvo išskubėję  į Junigedą išgirdę triukšmą, kurį broliai buvo ten sukėlę,
-    pasileido jų persekioti vieni pėstininkai, užstodami kelią viename miške, kurį broliai
-    greitai perėjo ir, lauke juos užpuolę, 12 nukovė, tuo tarpu kiti, pasileidę bėgti, vėliau nė
-    nedrįso rodytis.
+  citata_rodoma: "Po to broliai,\npasitraukę su kariuomene, kurį laiką ilsėjosi vienoje vietoje; ilgokai ten taręsi, galop visi\nnusprendė, kad, šiaip ar taip, nedera tuščiomis rankomis grįžti namo. Todėl, įsibrovę\nį Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami. Paėmę  į nelaisvę ir\nišžudę daug žmonių, patraukė su dideliu grobiu atgal. Kadangi šio valsčiaus raiteliai prieš\nvieną dieną buvo išskubėję  į Junigedą išgirdę triukšmą, kurį broliai buvo ten sukėlę,\npasileido jų persekioti vieni pėstininkai, užstodami kelią viename miške, kurį broliai\ngreitai perėjo ir, lauke juos užpuolę, 12 nukovė, tuo tarpu kiti, pasileidę bėgti, vėliau nė\nnedrįso rodytis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62742
+    - t-002
+
 - id: c-63518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -196,22 +184,14 @@ Nenurodyta
     neleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,
     be to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę
     belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių.
-  citata_rodoma: |
-    Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis
-    Henrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių  ir tūkstančiu penkiais
-    šimtais vyrų išjojo537 link Junigedos pilies; surengę pasalas, Ragainės broliai su savo
-    ginklanešiais iškėlė vėliavą ir patraukė prie šios pilies, o joje tuo metu buvo daug svečių,
-    kurie, smarkiai įniršę dėl šio žygio, pasileido ginkluoti jų persekioti; broliai būtų juos
-    tikriausiai smarkiai sumušę, jeigu nebūtų per anksti išpuolę iš pasalų. Po to broliai,
-    pasitraukę su kariuomene, kurį laiką ilsėjosi vienoje vietoje; ilgokai ten taręsi, galop visi
-    nusprendė, kad, šiaip ar taip, nedera tuščiomis rankomis grįžti namo. Todėl, įsibrovę
-    į Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami.
+  citata_rodoma: "Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis\nHenrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių  ir tūkstančiu penkiais\nšimtais vyrų išjojo537 link Junigedos pilies; surengę pasalas, Ragainės broliai su savo\nginklanešiais iškėlė vėliavą ir patraukė prie šios pilies, o joje tuo metu buvo daug svečių,\nkurie, smarkiai įniršę dėl šio žygio, pasileido ginkluoti jų persekioti; broliai būtų juos\ntikriausiai smarkiai sumušę, jeigu nebūtų per anksti išpuolę iš pasalų. Po to broliai,\npasitraukę su kariuomene, kurį laiką ilsėjosi vienoje vietoje; ilgokai ten taręsi, galop visi\nnusprendė, kad, šiaip ar taip, nedera tuščiomis rankomis grįžti namo. Todėl, įsibrovę\nį Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62743
-    - t-194379
-    - t-196931
+    - t-002
+    - t-001
+    - t-003
+    - t-004

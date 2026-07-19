@@ -40,7 +40,6 @@ Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­ skirti vyskupais Vyt
 
 <a id="claim-t-35227"></a>
 - t-001
-  global_id: t-35227
   teiginys: "Mikalojus Dziežgavičius 1421–1453 m. buvo antrasis Žemaičių vyskupas, paskirtas Vytautui jį rekomendavus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,17 +76,11 @@ Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­ skirti vyskupais Vyt
     skirti vyskupais Vytautui juos rekomenduojant. Du paskutiniai
     prieš įšventinant juos į vyskupus buvo Trakų klebonai, taigi gy­
     veno Vytauto rezidencijoje.
-  citata_rodoma: |
-    Taip antai, ketvirtas iš eilės Vilniaus
-    vyskupas Petras iš Kustynės (1414—1421), kuris buvo delega­
-    tu Konstancijoje ir pasiuntiniu Žemaitijoje, jau minėtas pirmasis
-    Žemaičių ir vėliau Vilniaus vysk. Motiejus ir antrasis Žemaičių
-    vysk. Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­
-    skirti vyskupais Vytautui juos rekomenduojant.
+  citata_rodoma: "Taip antai, ketvirtas iš eilės Vilniaus\nvyskupas Petras iš Kustynės (1414—1421), kuris buvo delega­\ntu Konstancijoje ir pasiuntiniu Žemaitijoje, jau minėtas pirmasis\nŽemaičių ir vėliau Vilniaus vysk. Motiejus ir antrasis Žemaičių\nvysk. Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­\nskirti vyskupais Vytautui juos rekomenduojant."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35227
+    - t-001

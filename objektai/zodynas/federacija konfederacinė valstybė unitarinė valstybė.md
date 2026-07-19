@@ -37,7 +37,6 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 
 <a id="claim-t-22144"></a>
 - t-001
-  global_id: t-22144
   teiginys: "LDK turėjo atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,12 +70,11 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     XVIII a. pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų),
     atskiras iždas, kariuomenė, teismai ir teisinė sistema, kurią įformino Tre-
     čiasis Lietuvos Statutas 1588 m.
-  citata_rodoma: |
-    Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira
+  citata_rodoma: "Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22144
+    - t-001

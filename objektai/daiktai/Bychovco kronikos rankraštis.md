@@ -63,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-186807"></a>
 - t-001
-  global_id: t-186807
   teiginys: "Bychovco kronikos rankraštį prieš 1830 m. Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje aptiko Ipolitas Klimaševskis."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -82,29 +81,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169990
-    - c-001
-<a id="claim-t-186808"></a>
-- t-002
-  global_id: t-186808
-  teiginys: "Kita Bychovco kronikos rankraščio spraga vertime buvo užpildyta tekstu iš Lietuvos metraščių PS Račinskio nuorašo."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bychovco kronikos rankraštis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bychovco kronikos rankraštis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-169991
-    - c-002
+
 <a id="claim-t-186810"></a>
 - t-003
-  global_id: t-186810
   teiginys: "Bychovco kronikos rankraštis buvo pirmykščio kirilica rašyto teksto transkripcija lotyniškais lenkiškais rašmenimis."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -120,10 +99,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-169993
-    - c-004
+
 <a id="claim-t-186811"></a>
-- t-004
-  global_id: t-186811
+- t-002
   teiginys: "Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -140,7 +118,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169992
-    - c-003
 - susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
 - susijęs iš [[objektai/zodynas/transkripcija.md#claim-t-200401|transkripcija]]: Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis.
 ## Reikšmingi paminėjimai
@@ -164,8 +141,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186807
 - c-002
   santrauka: 'Kita Bychovco kronikos rankraščio spraga vertime buvo užpildyta tekstu iš Lietuvos metraščių PS Račinskio nuorašo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -179,8 +154,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186808
 - c-003
   santrauka: 'Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -195,8 +168,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186811
 - c-004
   santrauka: 'Bychovco kronikos rankraštis buvo pirmykščio kirilica rašyto teksto transkripcija lotyniškais lenkiškais rašmenimis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -217,8 +188,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186810
+
 ## Citatos
 
 - id: c-169990
@@ -237,24 +207,15 @@ Nenurodyta
     chovco bibliotekoje I. Klimaševskis pirmasis šią kroni­
     ką įvertino,4 *
     * O šmierci x Zygmunta Kiejsiutowlcza.
-  citata_rodoma: |
-    Bychovco kronikos rankraštį prieš 1830 m. Alek­
-    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
-    niaus gimnazijos mokytojas Ipolitas Klimaševskis. Dėl
-    dalyvavimo 1831 m. sukilime turėdamas emigruoti į už­
-    sienį, jis tespėjo paskelbti dramatiškiausią Bychovco
-    kronikos fragmentą — pasakojimą apie Vytauto brolio
-    Žygimanto Kęstutaičio nužudymą 1440 m. Trumpoje
-    pratarmėlėje apie rankraščio radimą Aleksandro By­
-    chovco bibliotekoje I. Klimaševskis pirmasis šią kroni­
-    ką įvertino
+  citata_rodoma: "Bychovco kronikos rankraštį prieš 1830 m. Alek­\nsandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­\nniaus gimnazijos mokytojas Ipolitas Klimaševskis. Dėl \ndalyvavimo 1831 m. sukilime turėdamas emigruoti į už­\nsienį, jis tespėjo paskelbti dramatiškiausią Bychovco \nkronikos fragmentą — pasakojimą apie Vytauto brolio \nŽygimanto Kęstutaičio nužudymą 1440 m. Trumpoje \npratarmėlėje apie rankraščio radimą Aleksandro By­\nchovco bibliotekoje I. Klimaševskis pirmasis šią kroni­\nką įvertino"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186807
+    - t-001
+
 - id: c-169991
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -268,18 +229,13 @@ Nenurodyta
     kronika — veikiausiai,
     Volynės metraštis. įėjęs i IM
     sudėtį.
-  citata_rodoma: |
-    Nuo šio žodžio BK rankraštyje buvo spraga. T. Narbuto pa­
-    žymėta daugtaškiu. Mūsų vertim e spraga užpildoma tekstu, paimtu
-    iš Lietuvos metraščių PS Račinskio nuorašo. (PSRL. t. XVII,
-    p. 3 0 4 - 305).
+  citata_rodoma: "Nuo šio žodžio BK rankraštyje buvo spraga. T. Narbuto pa­\nžymėta daugtaškiu. Mūsų vertim e spraga užpildoma tekstu, paimtu \niš Lietuvos metraščių PS Račinskio nuorašo. (PSRL. t. XVII, \np. 3 0 4 - 305)."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186808
 - id: c-169992
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -294,19 +250,15 @@ Nenurodyta
     artimiausiam bičiuliui gydytojui A. Renjerui, prašyda­
     mas perduoti jį giminaičiui V. Narbutui *, kuris vėliau
     tvarkė spausdinimo reikalus ir skaitė korektūras.
-  citata_rodoma: |
-    T. Narbuto prašomas, rankraščio savininkas Alek­
-    sandras Bychovcas perdavė jį istoriko pažįstamam tei­
-    sėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­
-    siuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos
-    paviete, Nočios parapijoje.
+  citata_rodoma: "T. Narbuto prašomas, rankraščio savininkas Alek­\nsandras Bychovcas perdavė jį istoriko pažįstamam tei­\nsėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­\nsiuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos \npaviete, Nočios parapijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186811
+    - t-002
+
 - id: c-169993
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -323,22 +275,14 @@ Nenurodyta
     apie turinį lenkų kalba, bet ar jų jau būta toje kopi­
     joje, iš kurios transkribuotas rastasis lankraštis, ar jos
     paties transkribuotojo prirašytos — neišaiškinta.
-  citata_rodoma: |
-    lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame
-    rankraščio puslapyje, XVII a. rašysena buvę lenkiškai
-    užrašyta: „Kronika Litewska z ruskiego języka na pols-
-    ki przettumaczona", nors iš tikrųjų rankraštis buvo ne
-    vertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­
-    čio, kirilica rašyto teksto transkripcija lotyniškai len­
-    kiškais rašmenimis. Rankraščio pradžioje (1 . 1 —8) teks­
-    to paraštėse būta tos pačios rašysenos trumpų pastabų
-    apie turinį lenkų kalba
+  citata_rodoma: "lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame \nrankraščio puslapyje, XVII a. rašysena buvę lenkiškai \nužrašyta: „Kronika Litewska z ruskiego języka na pols- \nki przettumaczona\", nors iš tikrųjų rankraštis buvo ne \nvertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­\nčio, kirilica rašyto teksto transkripcija lotyniškai len­\nkiškais rašmenimis. Rankraščio pradžioje (1 . 1 —8) teks­\nto paraštėse būta tos pačios rašysenos trumpų pastabų \napie turinį lenkų kalba"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186810
+    - t-003
+
 ## Ryšiai
 - Bychovco kronikos rankraštis priklausė [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]

@@ -32,7 +32,6 @@ Narbutas Krewe-Krewejto pateikia kaip tikslų vyriausiojo žynio pavadinimą, re
 
 <a id="claim-t-189302"></a>
 - t-001
-  global_id: t-189302
   teiginys: "Narbutas Krewe-Krewejto pateikia kaip tikslų vyriausiojo žynio pavadinimą, reiškusį žynių žynį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Narbutas Krewe-Krewejto pateikia kaip tikslų vyriausiojo žynio pavadinimą, re
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172189
-    - c-001
 - susijęs iš [[objektai/zodynas/Krivis Krewe Kriwe.md#claim-t-189200|Krivis Krewe Kriwe]]: Narbutas remiasi Pretorijumi aiškindamas, kad „Kreive“ arba „Kriwe“ reiškė žynį arba tautos teisėją.
 - susijęs iš [[objektai/zodynas/Krivūlė Krewule Krewula.md#claim-t-189202|Krivūlė Krewule Krewula]]: Narbutas remiasi Pretorijumi aiškindamas, kad „Krewule“ vadinti mažieji kriviai, žemesnės kategorijos teisėjai arba žyniai.
 - susijęs iš [[objektai/zodynas/Krivūlė Krewule.md#claim-t-189304|Krivūlė Krewule]]: Narbutas remiasi Pretorijumi aiškindamas, kad „Krewule“ vadinti mažieji kriviai, žemesnės kategorijos teisėjai arba žyniai.
@@ -74,8 +72,7 @@ Narbutas Krewe-Krewejto pateikia kaip tikslų vyriausiojo žynio pavadinimą, re
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189302
+
 ## Citatos
 
 - id: c-172189
@@ -95,20 +92,11 @@ Narbutas Krewe-Krewejto pateikia kaip tikslų vyriausiojo žynio pavadinimą, re
     kurie savo valia paliepdavo juos sudeginti ant laužo, kai bus
     sulaukę žilos senatvės, jie paprastai surengdavo liaudžiai tokį
     pat reginį.
-  citata_rodoma: |
-    Taigi Vai­
-    devutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,
-    buvo kartu vyriausieji žyniai ir tautos vadai, arba didieji kuni­
-    gaikščiai .
-    Tikslus vyriausiojo žynio pavadinimas yra Krewe-Krewejto,
-    panašiai kaip senovės persų vyriausiasis kunigas vadinosi Mu-
-    bad-Mubaden arba Destruri-Destur; tai reiškė žynių žynį.
-    Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
-    jų visiškai negalima pripažinti teisingais.
+  citata_rodoma: "Taigi Vai­\ndevutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,\nbuvo kartu vyriausieji žyniai ir tautos vadai, arba didieji kuni­\ngaikščiai .\nTikslus vyriausiojo žynio pavadinimas yra Krewe-Krewejto,\npanašiai kaip senovės persų vyriausiasis kunigas vadinosi Mu-\nbad-Mubaden arba Destruri-Destur; tai reiškė žynių žynį.\nDėl krivio pavadinimo kilmės buvo daug spėliojimų, bet\njų visiškai negalima pripažinti teisingais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189302
+    - t-001

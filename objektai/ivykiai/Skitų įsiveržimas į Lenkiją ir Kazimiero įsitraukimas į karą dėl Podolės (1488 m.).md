@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185771"></a>
-- t-001
-  global_id: t-185771
+- t-002
   teiginys: "Kazimieras, sužinojęs apie skitų įsiveržimą į Lenkiją, pradėjo ryžtingiau rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-169132
 
 <a id="claim-t-193364"></a>
-- t-002
-  global_id: t-193364
+- t-003
   teiginys: "Kojelavičiaus pasakojime karalius Kazimieras, teisindamasis paliaubomis su Vasiljevičiumi, vengė karo ir nieko tvirto nepasiūlė Tverės pabėgėliui."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -123,7 +121,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185771
+    - t-002
+
 - id: c-176091
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -140,24 +139,11 @@ Nenurodyta
     jį pagerbęs, bet nieko doro nepažadėjęs. Tuo tarpu Va­
     siljevičius, nors, paisydamas paliaubų, atvirai ir ne­
     pradėjo karo, bet žalos daryti nevengė.
-  citata_rodoma: |
-    Netru­
-    kus liautasi grasinti ginklu:
-    šitai patenkino neveiklų
-    karalių, tačiau valstybei iš to buvo maža naudos. Su­
-    kruto visi nelyginant iš gilaus miego pabudę tik tada,
-    kai sukrėtė širdis tarytum netoliese staiga blykstelėjęs
-    žaibas skitų įsibrovimas.
-    Karalius, jausdamas, jog
-    1488 m e ta i
-    diena nuo dienos vis labiau
-    silpsta, žinojo, kad artėja pa­
-    skutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­
-    sokias progas, iškelti sūnus į deramas aukštybes.
+  citata_rodoma: "Netru­\nkus liautasi grasinti ginklu:\nšitai patenkino neveiklų\nkaralių, tačiau valstybei iš to buvo maža naudos. Su­\nkruto visi nelyginant iš gilaus miego pabudę tik tada,\nkai sukrėtė širdis tarytum netoliese staiga blykstelėjęs\nžaibas skitų įsibrovimas.\nKaralius, jausdamas, jog\n1488 m e ta i\ndiena nuo dienos vis labiau\nsilpsta, žinojo, kad artėja pa­\nskutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­\nsokias progas, iškelti sūnus į deramas aukštybes."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193364
+    - t-003

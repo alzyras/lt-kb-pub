@@ -42,7 +42,6 @@ Lebedžio, Vilnius 1957, 31-35 p.
 
 <a id="claim-t-30687"></a>
 - t-001
-  global_id: t-30687
   teiginys: "J. Lebedys kartu su K. Korsaku parengė „Lietuvių literatūros chrestomatiją“, išleistą Vilniuje 1957 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,9 +60,8 @@ Lebedžio, Vilnius 1957, 31-35 p.
 
 <a id="claim-t-188424"></a>
 - t-002
-  global_id: t-188424
   teiginys: "Jurgis Lebedys parengė 1967 m. Vilniuje išleistus Simono Stanevičiaus „Raštus“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -82,7 +80,7 @@ Lebedžio, Vilnius 1957, 31-35 p.
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171314
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Jurgis Lebedys parengė 1967 m. Vilniuje išleistus Simono Stanevičiaus „Raštus“.'
@@ -95,8 +93,7 @@ Lebedžio, Vilnius 1957, 31-35 p.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188424
+
 ## Citatos
 
 - id: c-32973
@@ -118,17 +115,15 @@ Lebedžio, Vilnius 1957, 31-35 p.
     (^9) **M. Baryczowa : Augustyn Rotundus Mieleski, wójt wileński, pierwszy
     historyk i apologeta, AW, X, 1935, 71-96 p.; XI, 1936, 117-172 p.**
     (^10) **Z. Ivinskis, LE, t. 26, 16 p.**
-  citata_rodoma: |
-    **
-    (^7) **Liet. išverstą ištrauką žr.** **_Lietuvių literatūros chrestomatijoj,_** **paruoštoj
-    K. Korsako ir J. Lebedžio, Vilnius 1957, 31-35 p.
+  citata_rodoma: "**\n(^7) **Liet. išverstą ištrauką žr.** **_Lietuvių literatūros chrestomatijoj,_** **paruoštoj\nK. Korsako ir J. Lebedžio, Vilnius 1957, 31-35 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30687
+    - t-001
+
 - id: c-171314
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -143,13 +138,11 @@ Lebedžio, Vilnius 1957, 31-35 p.
     laikomas moderniosios mitologijos (o kartais net iš viso mito­
     logijos) mokslo pradžia, pasirodė tais pačiais metais (1835),
     kaip ir T. Narbuto „Lietuvių mitologija“.
-  citata_rodoma: |
-    9 Žr .-.Stanevičius S. Raštai / Parengė Jurgis Lebedys. -  V, 1967. -
-    P. 216-303.
+  citata_rodoma: "9 Žr .-.Stanevičius S. Raštai / Parengė Jurgis Lebedys. -  V, 1967. -\nP. 216-303."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188424
+    - t-002

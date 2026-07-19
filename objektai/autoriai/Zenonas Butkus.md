@@ -39,7 +39,6 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
 
 <a id="claim-t-19496"></a>
 - t-001
-  global_id: t-19496
   teiginys: "Zenonas Butkus recenzavo knygą „Lietuvos istorija“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,12 +80,11 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
     knygą prof. dr. Zenonui Butkui ir doc. dr. Sauliui Kaubriui ir daugeliui
     kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių
     atrinkimo.
-  citata_rodoma: |
-    nariams, skaičiusiems pradinius tekstus, ypač Jauniui Petraičiui, taip
+  citata_rodoma: "nariams, skaičiusiems pradinius tekstus, ypač Jauniui Petraičiui, taip"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19496
+    - t-001

@@ -31,7 +31,6 @@ Bironto vadovaujama šešių Žemaitijos komendantūrų rinktinė saugojo Kauno-
 
 <a id="claim-t-39977"></a>
 - t-001
-  global_id: t-39977
   teiginys: "Karininko A. Bironto vadovaujama šešių Žemaitijos komendantūrų rinktinė saugojo Kauno-Seredžiaus-Jurbarko kryptį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,19 +53,15 @@ Bironto vadovaujama šešių Žemaitijos komendantūrų rinktinė saugojo Kauno-
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Karin. A. Bironto vadovau-
+    Dubysos upės. Karin. A. Bironto vadovau-
     jama šešių Žemaitijos komendantūrų rink-
     tinė saugojo Kauno-Seredžiaus-Jurbarko
     kryptį.
-  citata_rodoma: |
-    Karin. A. Bironto vadovau-
-    jama šešių Žemaitijos komendantūrų rink-
-    tinė saugojo Kauno-Seredžiaus-Jurbarko
-    kryptį.
+  citata_rodoma: "Karin. A. Bironto vadovau-\njama šešių Žemaitijos komendantūrų rink-\ntinė saugojo Kauno-Seredžiaus-Jurbarko\nkryptį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39977
+    - t-001

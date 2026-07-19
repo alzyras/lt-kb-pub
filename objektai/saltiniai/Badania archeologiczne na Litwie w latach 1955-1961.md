@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-31626"></a>
 - t-001
-  global_id: t-31626
   teiginys: "P. Kulikausko „Badania archeologiczne na Litwie w latach 1955-1961“ buvo paskelbta ABaSl II tome 1965 m., p. 203-259."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,13 +74,11 @@ media_all_json: |-
     w latach 1955-1961,_ ABaSl, II, 1965, 203-259 p.—Kulikauskas, P.,
     Kulikauskienė, R., Tautavičius, A. : _Lietuvos archeologijos bruožai,_
     Vilnius 1961.
-  citata_rodoma: |
-    — (”) _Badania archeologiczne na Litwie
-    w latach 1955-1961,_ ABaSl, II, 1965, 203-259 p.—Kulikauskas, P.
+  citata_rodoma: "— (”) _Badania archeologiczne na Litwie\nw latach 1955-1961,_ ABaSl, II, 1965, 203-259 p.—Kulikauskas, P."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31626
+    - t-001

@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201284"></a>
 - t-001
-  global_id: t-201284
   teiginys: "Todėl Albertas, sukėlęs visus kalavijonis, meldžionis ir perkrikštus, traukė į Gercikę, buveinę kunigaikščio Visvaldžio, kurios įgulė, tuo staigiu antpuoliu nugandinta, nusiminusi muko į pi lį, bet tame sambrūzdy nebsuskubėjo įeidama jos angų užrakinti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184634
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Albertas vokyčiams, kad Visvaldis apie tą
     nieko nežinojo. Todėl Albertas, sukėlęs visus kala-
@@ -80,4 +80,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201284
+    - t-001

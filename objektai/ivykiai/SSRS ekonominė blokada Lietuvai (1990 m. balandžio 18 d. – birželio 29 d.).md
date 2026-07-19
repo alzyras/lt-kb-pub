@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-45439"></a>
 - t-001
-  global_id: t-45439
   teiginys: "SSRS ekonominė blokada smarkiai paveikė Lietuvą: trūko kuro, nedirbo Mažeikių naftos perdirbimo įmonė, užsidarė kai kurios gamyklos ir atsirado pirmieji bedarbiai."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-48257
 
 <a id="claim-t-45440"></a>
-- t-002
-  global_id: t-45440
+- t-003
   teiginys: "1990 m. balandžio 18 d. SSRS pradėjo Lietuvos ekonominę blokadą, kuri truko iki birželio 29 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-48257
 
 <a id="claim-t-45441"></a>
-- t-003
-  global_id: t-45441
+- t-002
   teiginys: "Lietuva atsilaikė prieš SSRS ekonominę blokadą ir diplomatinėmis priemonėmis pasiekė jos atšaukimą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -135,6 +132,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45439
-    - t-45440
-    - t-45441
+    - t-001
+    - t-003
+    - t-002

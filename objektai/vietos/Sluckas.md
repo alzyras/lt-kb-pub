@@ -44,8 +44,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 ## Teiginiai
 
 <a id="claim-t-84799"></a>
-- t-001
-  global_id: t-84799
+- t-018
   teiginys: "Slucke buvo įkurta protestantų mokykla, o pradžios mokyklų buvo beveik kiekvienoje protestantų parapijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     - c-46723
 
 <a id="claim-t-84800"></a>
-- t-002
-  global_id: t-84800
+- t-006
   teiginys: "Totorių žygis pasiekė Slucko apylinkes, kurios priklausė tankiai apgyventam ir turtingam LDK branduoliui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,8 +81,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     - c-43861
 
 <a id="claim-t-84801"></a>
-- t-003
-  global_id: t-84801
+- t-017
   teiginys: "Slucke buvo įkurta protestantų mokykla."
   atnaujinta: "2026-06-14 10:15"
   sprendimo_priezastis: "auto"
@@ -104,8 +101,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     - c-46723
 
 <a id="claim-t-84802"></a>
-- t-004
-  global_id: t-84802
+- t-016
   teiginys: "Slucke buvo įkurta jėzuitų kolegija, paremta sudėtine fundacija."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -121,8 +117,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     - c-46722
 
 <a id="claim-t-84803"></a>
-- t-005
-  global_id: t-84803
+- t-014
   teiginys: "Valdymo pabaigoje Slucke liko atskira kunigaikštystė, bet jos pilį valdė didžiojo kunigaikščio vietininkai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -139,8 +134,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     - c-80930
 
 <a id="claim-t-84804"></a>
-- t-006
-  global_id: t-84804
+- t-010
   teiginys: "1506 m. vasarą totoriai veržėsi į LDK branduolį, apėmusį ir Slucko apylinkes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -159,8 +153,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     - c-43861
 
 <a id="claim-t-84805"></a>
-- t-007
-  global_id: t-84805
+- t-015
   teiginys: "Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -179,8 +172,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     - c-80933
 
 <a id="claim-t-84806"></a>
-- t-008
-  global_id: t-84806
+- t-007
   teiginys: "Žygio maršrutas nuo Lojevo ėjo vakarų kryptimi Mozyriaus ir Slucko link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -195,9 +187,8 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   pagrindžia:
     - c-43862
 
-<a id="claim-t-84808"></a>
-- t-009
-  global_id: t-84808
+<a id="claim-t-84807"></a>
+- t-011
   teiginys: "1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -214,32 +205,6 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   temporalinis_llm_pakomentavimas: "Teiginys palaikomas, bet reikia pašalinti OCR triukšmą ir kontekstinę pradžią."
   pagrindžia:
     - c-80929
-
-<a id="claim-t-187650"></a>
-- t-011
-  global_id: t-187650
-  teiginys: 'Umolts — gyvenvietė prie Slucko.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra trumpas pilnas sakinys apie gyvenvietę prie Slucko. Citata tiesiogiai pateikia tą pačią lokalizaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Naugardukas'
-  pagrindžia:
-    - c-009
-<a id="claim-t-187651"></a>
-- t-012
-  global_id: t-187651
-  teiginys: 'Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina Gričino pelkes pagal vietą Slucko atžvilgiu. Citata tiesiogiai remia šį geografinį faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalvinai|Kalvinai]]; mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_place: Gričino pelkės'
-  temporaliniai_duomenys: 'įvykio data: 1640 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Gričino pelkių pobūdį ir padėtį Slucko atžvilgiu. Citatos OCR bei gretimi vietovardžiai neįtraukti.'
-  pagrindžia:
-    - c-010
 - susijęs iš [[objektai/ivykiai/Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką.md#claim-t-185695|Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką]]: Mengli Girėjaus kariuomenė, vadovaujama jo sūnaus, nusiaubė Lietuvą ir padarė daug žalos.
 - susijęs iš [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai.md#claim-t-187762|Slucko kunigaikščiai Olelkaičiai]]: Fedoras Ivanovičius Jaroslavičius susigiminiavo su Slucko kunigaikščiais Olelkaičiais ir, vedęs Oleną Aleksandrą, gavo Pinską.
 - susijęs iš [[objektai/grupes/Vilniaus lietuvių seimas.md#claim-t-185439|Vilniaus lietuvių seimas (seimas, XV a.)]]: Vilniaus lietuvių seime luomai prašė paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį.
@@ -331,27 +296,6 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - susijęs iš Lojevas: Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link.
 - susijęs iš [[objektai/zodynas/dvarionys.md#claim-t-187554|dvarionys]]: Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasiųsti į pagalbą Slucko kunigaikščiui Simonui Mykolaičiui.
 ## Reikšmingi paminėjimai
-- c-008
-  santrauka: 'Į karaliaus stovyklą atbėgę žmonės teigė, kad dvidešimt tūkstančių priešų liko prie Slucko, o kitos jėgos traukė prie Naugarduko.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Karaliui atvykus į Lydą, vienas
-    bajoras, šiaip taip pasprukęs iš niokotojų rankų, pra­
-    nešė, kad priešas visur ugnimi bei kalaviju siaubiąs
-    kraštą, o nuo Lydos iki jo — beveik viena diena kelio.
-    Patikėjo žmogumi, kuris sakėsi esąs strėle sužeistas į
-    žandą, o netrukus atbėgo į stovyklą daug kitų, teigian­
-    čių, jog dvidešimt tūkstančių liko prie Slucko, o visos
-    kitos jėgos be galo greitai traukia prie Naugarduko.
-    Kas be ko, daugelis apsirikusiųjų tvirtino, gąsdindami
-    nelyginant kokia baidykle bailesnius žmones, kad
-    priešai taip skuba, jog sunku net įsivaizduoti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
 - c-009
   santrauka: 'Umolts — gyvenvietė prie Slucko.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -364,11 +308,9 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     70 km j šiaurės vakarus nuo Slucko).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187650
+  statusas: not_found
 - c-010
   santrauka: 'Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -380,11 +322,9 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     upės).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187651
+  statusas: not_found
 ## Citatos
 
 - id: c-43861
@@ -400,22 +340,16 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     tankiausiai apgyventame ir turtingiausiame
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
-  citata_rodoma: |
-    Prieš metus įvykęs jų žygis
-    leido jiems „smagintis“ Vilniaus ir Polocko,
-    Vitebsko ir Drucko, Naugarduko ir Slucko
-    apylinkėse - tikrajame LDK branduolyje,
-    tankiausiai apgyventame ir turtingiausiame
-    krašte. Totoriai neturėjo pagrindo įtarti, kad
-    sėkmė nuo jų šį kartą nusisuks.
+  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84800
-    - t-84804
+    - t-006
+    - t-010
+
 - id: c-43862
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -429,19 +363,15 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     spartinę žygio tempą pasileido tiesiai va-
     karų kryptimi Mozyriaus ir Slucko link.
     Galiausiai apie liepos 20-22 d. jie sustojo.
-  citata_rodoma: |
-    Ties Lojevu jie
-    persikėlė į dešinįjį Dniepro krantą ir pa-
-    spartinę žygio tempą pasileido tiesiai va-
-    karų kryptimi Mozyriaus ir Slucko link.
-    Galiausiai apie liepos 20-22 d.
+  citata_rodoma: "Ties Lojevu jie\npersikėlė į dešinįjį Dniepro krantą ir pa-\nspartinę žygio tempą pasileido tiesiai va-\nkarų kryptimi Mozyriaus ir Slucko link.\nGaliausiai apie liepos 20-22 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84806
+    - t-007
+
 - id: c-46722
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -466,7 +396,8 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84802
+    - t-016
+
 - id: c-46723
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -478,19 +409,16 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     šių mokyklų iš pradžių žymiausioji buvo vilniškė. Po protes-
     tantų susidūrimų su katalikais, 1640 m. ji buvo panaikinta kartu su
     kalvinų bažnyčia.
-  citata_rodoma: |
-    Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
-    žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-
-    džios mokyklų buvo beveik kiekvienoj jų parapijoj. Iš visų
-    šių mokyklų iš pradžių žymiausioji buvo vilniškė.
+  citata_rodoma: "Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-\nžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-\ndžios mokyklų buvo beveik kiekvienoj jų parapijoj. Iš visų\nšių mokyklų iš pradžių žymiausioji buvo vilniškė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84799
-    - t-84801
+    - t-018
+    - t-017
+
 - id: c-80929
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -512,7 +440,8 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84808
+    - t-011
+
 - id: c-80930
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -524,18 +453,15 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
     kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
     valstybės vieningumui.
-  citata_rodoma: |
-    Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
-    tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte
-    ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
-    kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
+  citata_rodoma: "Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko\ntik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte\nir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo\nkunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84803
+    - t-014
+
 - id: c-80933
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -552,16 +478,36 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     (1505—1535 m.). Tačiau jis kiek apsivylė: Maskvos pasienio
     sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
     zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
-  citata_rodoma: |
-    Tačiau jis kiek apsivylė: Maskvos pasienio
-    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
-    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
+  citata_rodoma: "Tačiau jis kiek apsivylė: Maskvos pasienio\nsritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-\nzyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84805
+    - t-015
+
+- id: c-168508
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Karaliui atvykus į Lydą, vienas
+    bajoras, šiaip taip pasprukęs iš niokotojų rankų, pra­
+    nešė, kad priešas visur ugnimi bei kalaviju siaubiąs
+    kraštą, o nuo Lydos iki jo — beveik viena diena kelio.
+    Patikėjo žmogumi, kuris sakėsi esąs strėle sužeistas į
+    žandą, o netrukus atbėgo į stovyklą daug kitų, teigian­
+    čių, jog dvidešimt tūkstančių liko prie Slucko, o visos
+    kitos jėgos be galo greitai traukia prie Naugarduko.
+    Kas be ko, daugelis apsirikusiųjų tvirtino, gąsdindami
+    nelyginant kokia baidykle bailesnius žmones, kad
+    priešai taip skuba, jog sunku net įsivaizduoti.
+  statusas: verified
+  atnaujinta: "2026-07-13 01:00"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
 ## Ryšiai
 - Puolė Slucką: [[objektai/asmenys/Biti Girėjus]], [[objektai/asmenys/Burnaš Girėjus]]

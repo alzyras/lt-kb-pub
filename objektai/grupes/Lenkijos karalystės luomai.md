@@ -31,7 +31,6 @@ Vytauto pasiuntiniai Korčino seime išdėstė Lenkijos karalystės luomams vald
 
 <a id="claim-t-185451"></a>
 - t-001
-  global_id: t-185451
   teiginys: "Vytauto pasiuntiniai Korčino seime išdėstė Lenkijos karalystės luomams valdovo reikalavimus dėl vainikavimo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Vytauto pasiuntiniai Korčino seime išdėstė Lenkijos karalystės luomams vald
 
 <a id="claim-t-196095"></a>
 - t-002
-  global_id: t-196095
   teiginys: "Kojelavičiaus pasakojime karalius Korčine sušaukė Lenkijos karalystės luomus spręsti, kaip priešintis jo vadinamiems nesaikingiems Vytauto potroškiams."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -87,21 +85,12 @@ Vytauto pasiuntiniai Korčino seime išdėstė Lenkijos karalystės luomams vald
     imperatorius, apsvarstęs su Vytautu svarbiausius klau­
     simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
     iš Volynės į Vengriją.
-  citata_rodoma: |
-    Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
-    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
-    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
-    dovo reikalavimus. Vytautas,
-    Vytauto pasiuntinybė
-    kaip laisvos tautos laisvas
-    valdovas, o ne dėl to, kad
-    žiūri vien savo reikalų, taip ryžtingai reikalaująs, kad
-    karalius bei karalystės luomai pritartų jo vainikavimui.
+  citata_rodoma: "Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­\nniaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.\nLuomų susirinkime jie trumpai, bet aiškiai išdėstė val­\ndovo reikalavimus. Vytautas,\nVytauto pasiuntinybė\nkaip laisvos tautos laisvas\nvaldovas, o ne dėl to, kad\nžiūri vien savo reikalų, taip ryžtingai reikalaująs, kad\nkaralius bei karalystės luomai pritartų jo vainikavimui."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185451
-    - t-196095
+    - t-001
+    - t-002

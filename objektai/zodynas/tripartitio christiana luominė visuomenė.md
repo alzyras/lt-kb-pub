@@ -30,8 +30,7 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
 ## Teiginiai
 
 <a id="claim-t-22330"></a>
-- t-001
-  global_id: t-22330
+- t-002
   teiginys: "Tripartitio christiana samprata siejama su Viduramžių luomų idėja ir visuomenės skirstymu į karius, dvasininkus bei dirbančiuosius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
     - c-25019
 
 <a id="claim-t-193614"></a>
-- t-002
-  global_id: t-193614
+- t-003
   teiginys: "Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti ir Viduramžių luomų idėją."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -75,15 +73,15 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
     ir Viduramžių luomų idėją. O juk Lietuvos krikšto metu Jogaila suteikė
     privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų
     nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą.
-  citata_rodoma: |
-    privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų
+  citata_rodoma: "privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22330
+    - t-002
+
 - id: c-176287
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -101,4 +99,4 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193614
+    - t-003

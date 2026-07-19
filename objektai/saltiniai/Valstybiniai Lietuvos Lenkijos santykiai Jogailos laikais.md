@@ -35,8 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-31960"></a>
-- t-001
-  global_id: t-31960
+- t-002
   teiginys: "A. Šapokos „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdintas rinkinyje „Jogaila“ 1935 m., p. 185-266."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ media_all_json: |-
     - c-33736
 
 <a id="claim-t-31961"></a>
-- t-002
-  global_id: t-31961
+- t-001
   teiginys: "Adolfo Šapokos studija „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdinta 1935 m. Kaune išleistame rinkinyje „Jogaila“, p. 187-266."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,17 +84,15 @@ media_all_json: |-
     — Šapoka, A. : _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_
     rink. : Jogaila, Kaunas 1935 185-266 p. — Viskontas, A. : _Vytautas_
     D. L. K. ir Gardelio unija, Lietuvių Tauta, IV.
-  citata_rodoma: |
-    — Šapoka, A. : _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_
-    rink. : Jogaila, Kaunas 1935 185-266 p. — Viskontas, A. : _Vytautas_
-    D.
+  citata_rodoma: "— Šapoka, A. : _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_\nrink. : Jogaila, Kaunas 1935 185-266 p. — Viskontas, A. : _Vytautas_\nD."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31960
+    - t-002
+
 - id: c-33737
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -107,14 +103,11 @@ media_all_json: |-
     Ad. : _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_ rink.
     _Jogaila,_ Kaunas 1935, 187-266 p.
     **10.
-  citata_rodoma: |
-    — Šapoka,
-    Ad. : _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_ rink.
-    _Jogaila,_ Kaunas 1935, 187-266 p.
+  citata_rodoma: "— Šapoka,\nAd. : _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_ rink.\n_Jogaila,_ Kaunas 1935, 187-266 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31961
+    - t-001

@@ -37,7 +37,6 @@ Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių me
 
 <a id="claim-t-189332"></a>
 - t-001
-  global_id: t-189332
   teiginys: "Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių metu liudytojai prisiekdavo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,7 @@ Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių me
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172219
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių metu liudytojai prisiekdavo.'
@@ -75,8 +74,7 @@ Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių me
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189332
+
 ## Citatos
 
 - id: c-172219
@@ -95,20 +93,11 @@ Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių me
     tarimuose nustatytą dienų skaičių pažymėdavo įpjovomis ar­
     ba mazgeliais3 4. Tą patį patvirtina liaudies padavimai ir archy­
     vuose išlikę duomenys iš XIII amžiaus.
-  citata_rodoma: |
-    Arntas (Arndt) 17 pa-
-    teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­
-    miečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,
-    subyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis
-    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
-    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
-    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
-    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
-    17 Lieflandische Geschichte (1757 metų leidimas.
+  citata_rodoma: "Arntas (Arndt) 17 pa-\nteilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­\nmiečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,\nsubyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis\nyra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­\nsiremiantys skrutinijomis, arba tardymais, kurių metu liudy­\ntojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­\nkėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17\n17 Lieflandische Geschichte (1757 metų leidimas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189332
+    - t-001

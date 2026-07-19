@@ -39,7 +39,6 @@ P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo b
 
 <a id="claim-t-197631"></a>
 - t-002
-  global_id: t-197631
   teiginys: "P. J. Šafaržykas įžvelgia paslėptą prūsų, o ne vokiečių-burgundų (kaip kad buvo manyta iki tol) vardą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -50,17 +49,6 @@ P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo b
   pagrindžia:
     - c-179269
 
-<a id="claim-t-191526"></a>
-- t-001
-  global_id: t-191526
-  teiginys: 'P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo bestseleriu ir buvo išverstos beveik į visas slavų kalbas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas sakinys apie P. J. Šafaržyko veikalą ir jo recepciją. Papildoma informacija apie Narbuto biblioteką nepridėta.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo bestseleriu ir buvo išverstos beveik į visas slavų kalbas.'
@@ -79,11 +67,9 @@ P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo b
     išstudijavęs ir susidaręs savo nuomonę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191526
+  statusas: verified
 ## Citatos
 
 - id: c-179269
@@ -105,4 +91,4 @@ P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197631
+    - t-002

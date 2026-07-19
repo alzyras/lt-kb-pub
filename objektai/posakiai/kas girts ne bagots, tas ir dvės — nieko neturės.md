@@ -49,7 +49,6 @@ Tarminė girtavimo pateisinimo patarlė apie neturtą.
 
 <a id="claim-t-195428"></a>
 - t-001
-  global_id: t-195428
   teiginys: "Posakis pateisina gėrimą net tada, kai žmogus nieko neturi."
   atnaujinta: "2026-07-12 02:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -75,12 +74,11 @@ Tarminė girtavimo pateisinimo patarlė apie neturtą.
     kažkokia svarbia kalba,
     vienas jų pasiturįs
     ūkininkas.
-  citata_rodoma: |
-    Nė vienas neatsisako nuo tokių sąlygų, nei vienas nenori išsimesti ir pasisakyti neturįs pinigų, nes: „kas girts ne bagots, tas ir dvės — nieko neturės“ , taigi ir geria, kol ranka įgali taurę prie burnos prinešti.
+  citata_rodoma: "Nė vienas neatsisako nuo tokių sąlygų, nei vienas nenori išsimesti ir pasisakyti neturįs pinigų, nes: „kas girts ne bagots, tas ir dvės — nieko neturės“ , taigi ir geria, kol ranka įgali taurę prie burnos prinešti."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195428
+    - t-001

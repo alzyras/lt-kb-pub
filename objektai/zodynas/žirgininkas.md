@@ -38,30 +38,6 @@ media_all_json: |-
 
 Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda. Andrius Droždža apie 1500 m. tapo Vilniaus žirgininku ir 1503 m. gavo valdyti Belicą bei Zblianus prie Lydos.
 
-## Teiginiai
-
-<a id="claim-t-185418"></a>
-- t-001
-  global_id: t-185418
-  teiginys: "Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Livonija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Augustas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Augustas patraukė į Livoniją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168779
-    - c-001
-- susijęs iš [[objektai/asmenys/Andrius Mackevičius.md#claim-t-186094|Andrius Mackevičius]]: Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.
-- susijęs iš [[objektai/asmenys/Motiejus Kločka.md#claim-t-186070|Motiejus Kločka]]: Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi.
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.'
@@ -83,8 +59,7 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185418
+
 ## Citatos
 
 - id: c-168779
@@ -112,22 +87,34 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
     paskyrė viso savo turto paveldėtoju, tačiau dėl jos tar­
     no Papakodos suktybių paskutinioji velionės valia
     buvo neįvykdyta, o visas turtas vėjais paleistas.
-  citata_rodoma: |
-    Antra vertus, netrukus atvyksią į Maskvą jo įgalioti
-    legatai, kurie pasitarsią su Maskvos didikais ir pada­
-    rysią viską, kas naudinga valstybei.
-    Išsiuntus laišką, netrukus išvyko ir pasiuntiniai Lu­
-    košius Garaburda, Lietuvos raštininkas, ir Jonas Vil-
-    čekas, karališkasis Vilniaus vaivadijos žirgininkas, bet
-    nieko nepešė, nes maskvėnai atidėjo derybas, sakyda-
-    miesi lauksią didesnius įgaliojimus turinčių pasiunti­
-    nių.
-    Tuo tarpu Augustas patraukė į Livoniją su šimtu
-    tūkstančių kariuomenės.
+  citata_rodoma: "Antra vertus, netrukus atvyksią į Maskvą jo įgalioti\nlegatai, kurie pasitarsią su Maskvos didikais ir pada­\nrysią viską, kas naudinga valstybei.\nIšsiuntus laišką, netrukus išvyko ir pasiuntiniai Lu­\nkošius Garaburda, Lietuvos raštininkas, ir Jonas Vil-\nčekas, karališkasis Vilniaus vaivadijos žirgininkas, bet\nnieko nepešė, nes maskvėnai atidėjo derybas, sakyda-\nmiesi lauksią didesnius įgaliojimus turinčių pasiunti­\nnių.\nTuo tarpu Augustas patraukė į Livoniją su šimtu\ntūkstančių kariuomenės."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185418
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-185418"></a>
+- t-001
+  teiginys: "Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Livonija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Augustas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Augustas patraukė į Livoniją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168779
+- susijęs iš [[objektai/asmenys/Andrius Mackevičius.md#claim-t-186094|Andrius Mackevičius]]: Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.
+- susijęs iš [[objektai/asmenys/Motiejus Kločka.md#claim-t-186070|Motiejus Kločka]]: Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi.

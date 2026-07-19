@@ -39,8 +39,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 ## Teiginiai
 
 <a id="claim-t-88051"></a>
-- t-001
-  global_id: t-88051
+- t-002
   teiginys: "1576 m. Vilniuje Mikalojaus Radvilos spaustuvėje išspausdinta Andriaus Volano knyga „Contra Skargae missam“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
     - c-84030
 
 <a id="claim-t-88052"></a>
-- t-002
-  global_id: t-88052
+- t-001
   teiginys: "Andrius Volanas Vilniuje buvo reformatų idėjų skleidėjas ir garsėjo mokslu bei rašytojo talentu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +90,8 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88051
+    - t-002
+
 - id: c-84031
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -113,4 +112,4 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88052
+    - t-001

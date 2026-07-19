@@ -49,8 +49,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
 ## Teiginiai
 
 <a id="claim-t-171530"></a>
-- t-001
-  global_id: t-171530
+- t-011
   teiginys: "Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir beveik trečdalį kronikos skyrė Livonijos ordino santykiams su Lietuva."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -66,8 +65,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     - c-156038
 
 <a id="claim-t-171531"></a>
-- t-002
-  global_id: t-171531
+- t-012
   teiginys: "Eiliuotoji Livonijos kronika prie Skuodo mūšio mini žemaičius, o Durbės mūšio išvakarėse ir mūšyje - lietuvius arba pagonis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,8 +86,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     - c-156037
 
 <a id="claim-t-171532"></a>
-- t-003
-  global_id: t-171532
+- t-013
   teiginys: "Eiliuotoji Livonijos kronika pasakoja, kad lietuvių kariuomenė susirinko galinga ir žygiuodama didėjo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,8 +102,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     - c-43241
 
 <a id="claim-t-171533"></a>
-- t-004
-  global_id: t-171533
+- t-017
   teiginys: "Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,8 +118,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     - c-156038
 
 <a id="claim-t-171534"></a>
-- t-005
-  global_id: t-171534
+- t-015
   teiginys: "1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -143,8 +138,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     - c-43243
 
 <a id="claim-t-184608"></a>
-- t-006
-  global_id: t-184608
+- t-018
   teiginys: "Tautvilas, remiamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didelį grobį į Polocką."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -166,10 +160,9 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     - c-167969
 
 <a id="claim-t-184609"></a>
-- t-007
-  global_id: t-184609
+- t-019
   teiginys: "Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -183,11 +176,11 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eilėtoji Livonijos kronika\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
+    - c-167969
     - c-167970
 
 <a id="claim-t-197017"></a>
-- t-008
-  global_id: t-197017
+- t-020
   teiginys: "Tarp jų ypatingą vietą užima Petro iš Dusburgo „Prūsijos žemės kronika“, pateikianti daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir jo sąjungininkų agresiją XIII—XIV a."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -217,7 +210,8 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171532
+    - t-013
+
 - id: c-43243
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -247,7 +241,8 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171534
+    - t-015
+
 - id: c-156037
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -270,23 +265,15 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     jungtines žemaičių ir paties Lietuvos val-
     dovo karaliaus Mindaugo karines pajėgas,
     nukreiptas prieš Ordiną.
-  citata_rodoma: |
-    Lietuvių pajėgos
-
-    Eiliuota Livonijos kronika, aprašydama
-    Skuodo mūšį (1259 m.), mini žemaičius,
-    bet vėliau, Durbės mūšio išvakarėse, prie
-    Vartajų, Georgenburgo ir pačiame mū-
-    šyje — tik lietuvius arba „pagonis“.
-
-    P.
+  citata_rodoma: "Lietuvių pajėgos\n\nEiliuota Livonijos kronika, aprašydama\nSkuodo mūšį (1259 m.), mini žemaičius,\nbet vėliau, Durbės mūšio išvakarėse, prie\nVartajų, Georgenburgo ir pačiame mū-\nšyje — tik lietuvius arba „pagonis“.\n\nP."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171531
+    - t-012
+
 - id: c-156038
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -298,20 +285,16 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     (« den Lettowen, die Sameiten sin genannt », eil. 4466).
     Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
     Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
-  citata_rodoma: |
-    Beveik trečdalį savo
-    kronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­
-    tinės Livonijos kronikos autorius Žemaičius tapatino su lietuviais
-    (« den Lettowen, die Sameiten sin genannt », eil. 4466).
-    Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t.
+  citata_rodoma: "Beveik trečdalį savo\nkronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­\ntinės Livonijos kronikos autorius Žemaičius tapatino su lietuviais\n(« den Lettowen, die Sameiten sin genannt », eil. 4466).\nLietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171530
-    - t-171533
+    - t-011
+    - t-017
+
 - id: c-167969
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -340,7 +323,9 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184608
+    - t-018
+    - t-019
+
 - id: c-167970
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -360,24 +345,15 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     karo, ir taikos metu tokios pat santarvės bei šlovės,
     kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
     bei lazdą.
-  citata_rodoma: |
-    Vis dėl­
-    to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
-    tui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­
-    nai vadinamas Brandenburgu. Tais pačiais metais, kaip
-    sako Livonijos metraštis, žemaičiai ir lietuviai prie
-    Eželio ant ledo kovojo su Livonijos magistru Otonu,
-    magistras žuvo su penkiasdešimčia šio ordino brolių.
-    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
-    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
-    ir žuvo.
+  citata_rodoma: "Vis dėl­\nto markgrafas, nenorėdamas, kad atrodytų, jog jis vel­\ntui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­\nnai vadinamas Brandenburgu. Tais pačiais metais, kaip\nsako Livonijos metraštis, žemaičiai ir lietuviai prie\nEželio ant ledo kovojo su Livonijos magistru Otonu,\nmagistras žuvo su penkiasdešimčia šio ordino brolių.\nTokio pat likimo susilaukė jo įpėdinis Andrius fon\nVestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas\nir žuvo."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184609
+    - t-019
+
 - id: c-179003
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -400,4 +376,4 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197017
+    - t-020

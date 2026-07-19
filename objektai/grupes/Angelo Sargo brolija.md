@@ -8,11 +8,11 @@ datos:
   - '1617 m.'
 date_start: '1579'
 date_end: '1617'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Jurgio baž
 
 <a id="claim-t-201853"></a>
 - t-001
-  global_id: t-201853
   teiginys: "Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Jurgio baž
 
 <a id="claim-t-201854"></a>
 - t-002
-  global_id: t-201854
   teiginys: "Jurgio bažnyčioje ėmė rinktis laivavedžių Angelo Sargo brolija."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -62,7 +60,6 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Jurgio baž
 
 <a id="claim-t-201855"></a>
 - t-003
-  global_id: t-201855
   teiginys: "Onos brolijos veikla, 1617 m. pradėjo rinktis Angelo Sargo brolija, telkusi Kauno laivavedžius."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -88,7 +85,7 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Jurgio baž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201853
+    - t-001
 
 - id: c-185201
   autorius: "Zigmantas Kiaupa"
@@ -104,7 +101,7 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Jurgio baž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201854
+    - t-002
 
 - id: c-185202
   autorius: "Zigmantas Kiaupa"
@@ -121,4 +118,4 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Jurgio baž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201855
+    - t-003

@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-54375"></a>
 - t-001
-  global_id: t-54375
   teiginys: "Voluinės ir Lietuvos kunigaikščių sutartyje Mindaugas buvo paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-54376"></a>
 - t-002
-  global_id: t-54376
   teiginys: "1219 m. Voluinės ir Lietuvos kunigaikščių sutartis buvo sudaryta ir dėl plėšiamųjų žygių į Lenkiją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -107,17 +105,12 @@ Nenurodyta
     bei. 1219 m. Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip
     pat ir dėl plėšiamųjų žygių į Lenkiją) būsimasis Lietuvos valstybės kūrėjas
     Mindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.
-  citata_rodoma: |
-    Lietuvių genties iškilimas ir padėjo
-    pagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-
-    bei. 1219 m. Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip
-    pat ir dėl plėšiamųjų žygių į Lenkiją) būsimasis Lietuvos valstybės kūrėjas
-    Mindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.
+  citata_rodoma: "Lietuvių genties iškilimas ir padėjo \npagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-\nbei. 1219 m. Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip \npat ir dėl plėšiamųjų žygių į Lenkiją) būsimasis Lietuvos valstybės kūrėjas \nMindaugas paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54375
-    - t-54376
+    - t-001
+    - t-002

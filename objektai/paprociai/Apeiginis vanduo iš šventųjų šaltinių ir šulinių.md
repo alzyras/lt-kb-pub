@@ -53,27 +53,25 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187988"></a>
-- t-001
-  global_id: t-187988
+- t-004
   teiginys: "Narbutas rašo, kad apeiginiu vandeniu iš šventųjų šaltinių ar šulinių apiplaudavo aukojamus gyvulius ir laikė jį švarinančiu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::customs"
   teiginio_tipas: "saltinio_teiginys"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170999
-    - c-001
+
 <a id="claim-t-187990"></a>
-- t-002
-  global_id: t-187990
+- t-005
   teiginys: "Narbutas, remdamasis Dusburgiečiu, rašo, kad krikščionims nebuvo leidžiama prieiti prie apeiginių šventųjų šaltinių."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::customs"
   teiginio_tipas: "saltinio_teiginys"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170999
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -90,9 +88,8 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187988
-    - t-187990
+- t-187990
+
 ## Citatos
 
 - id: c-170999
@@ -108,19 +105,12 @@ Nenurodyta
     jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
     giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
     davo karalių, ponų ir prastuomenės didžios pagarbos.
-  citata_rodoma: |
-    Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
-    šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame
-    apiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­
-    mas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie
-    tai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad
-    krikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių
-    šaltinių. Toks šaltinis vadinosi šulinys (Szulnis).
+  citata_rodoma: "Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji\nšuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame\napiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­\nmas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie\ntai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad\nkrikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių\nšaltinių. Toks šaltinis vadinosi šulinys (Szulnis)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187988
-    - t-187990
+    - t-004
+    - t-005

@@ -50,9 +50,8 @@ Nenurodyta
 
 <a id="claim-t-189632"></a>
 - t-001
-  global_id: t-189632
   teiginys: "Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse ir buvo sužeistas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -71,7 +70,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172515
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse ir buvo sužeistas.'
@@ -86,8 +85,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189632
+
 ## Citatos
 
 - id: c-172515
@@ -104,15 +102,11 @@ Nenurodyta
     sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
     ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
     kus.
-  citata_rodoma: |
-    Jaunuolis nesibaidė vyriau­
-    sybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų
-    korpuse. Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
-    vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
+  citata_rodoma: "Jaunuolis nesibaidė vyriau­\nsybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų\nkorpuse. Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­\nvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189632
+    - t-001

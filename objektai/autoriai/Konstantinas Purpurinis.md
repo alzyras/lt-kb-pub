@@ -31,7 +31,6 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
 
 <a id="claim-t-191584"></a>
 - t-001
-  global_id: t-191584
   teiginys: "Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių kiekvieną sudarė keturios ordos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,10 +48,9 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174466
-    - c-001
+
 <a id="claim-t-191585"></a>
 - t-002
-  global_id: t-191585
   teiginys: "Pasak Purpurinio, Charoboe ordos sostinė buvo Belotzebo miestas, slaviškai vadintas Belaja Cerkove."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -88,8 +86,7 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191584
+
 ## Citatos
 
 - id: c-174466
@@ -107,20 +104,15 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
     ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
     kart priėmė net ir svetimšaliai, nes gerai jas pažinoję
     vengrai vadino šias gentis kumanais.
-  citata_rodoma: |
-    Pažiūrėkime į šio pavadinimo ištakas, rem­
-    damiesi savo žiniomis. Anot anuometinio istoriko Kons­
-    tantino Purpurinio*, jie buvo pasidaliję į dvi puses (po-
-    towy), kurių kiekvieną sudarė keturios ordos; orda dali­
-    josi į penkias apskritis, arba pavietus. Dešiniojoje Dnep-
-    1 Poloviečiai patys save vadino Kipczak.
+  citata_rodoma: "Pažiūrėkime į šio pavadinimo ištakas, rem­\ndamiesi savo žiniomis. Anot anuometinio istoriko Kons­\ntantino Purpurinio*, jie buvo pasidaliję į dvi puses (po-\ntowy), kurių kiekvieną sudarė keturios ordos; orda dali­\njosi į penkias apskritis, arba pavietus. Dešiniojoje Dnep-\n1 Poloviečiai patys save vadino Kipczak."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191584
+    - t-001
+
 - id: c-174467
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -139,4 +131,4 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191585
+    - t-002

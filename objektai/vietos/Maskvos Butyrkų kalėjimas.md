@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-21612"></a>
 - t-001
-  global_id: t-21612
   teiginys: "J. Žemaitis-Vytautas po pusantrų metų tardymų buvo sušaudytas Maskvos Butyrkų kalėjime."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,12 +77,11 @@ media_all_json: |-
     gydėsi požeminiame bunkeryje)
     ir po pusantrų metų tardymų su-
     šaudė Maskvos Butyrkų kalėjime.
-  citata_rodoma: |
-    agentai išdavė J. Žemaitį-Vytautą
+  citata_rodoma: "agentai išdavė J. Žemaitį-Vytautą"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21612
+    - t-001

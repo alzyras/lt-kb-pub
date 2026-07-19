@@ -38,7 +38,6 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
 
 <a id="claim-t-86191"></a>
 - t-001
-  global_id: t-86191
   teiginys: "1505 m. sprendime vieni Vilniaus miesto vartai buvo numatyti ties Išganytojo (Spaso) bažnyčia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86191
+    - t-001

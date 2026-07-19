@@ -32,7 +32,6 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
 
 <a id="claim-t-189157"></a>
 - t-001
-  global_id: t-189157
   teiginys: "Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romėnų dievų bei skandinavų religijos samplaikos rezultatą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -50,10 +49,9 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172045
-    - c-001
+
 <a id="claim-t-197372"></a>
-- t-002
-  global_id: t-197372
+- t-003
   teiginys: "Lietuvių mitologija, sukurta iš graikų, nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -90,11 +88,9 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
     kilusio Zoroastro mokymo sekėjų -  taisykles.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189157
+  statusas: verified
 - c-002
   santrauka: 'Narbutas lietuvių mitologijos medžiagą siejo su trisdešimt metų trukusiais Lietuvos senovės tyrimais ir surinkta tautosaka.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -117,10 +113,10 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
     logija yra raktas seniausiajai tautų istorijai pažinti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+
 ## Citatos
 
 - id: c-172045
@@ -143,28 +139,15 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
     Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
     visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
     artimos, kilusios iš vienos šakos - iš vieno lopšio*.
-  citata_rodoma: |
-    Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­
-    ti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­
-    dami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų
-    sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
-    plaikos kilo mitologija, kurią imamės išdėstyti.
-    Išnagrinėję visą lietuvių mitologijos sistemą, lengvai pa­
-    stebime, kad seniausioji lietuvių religija buvo azijinė -  indiš­
-    ka: dangaus kūnai ir elementai, tai yra ugnis, vanduo, žemė,
-    84
-
-    ## Puslapis 84
-
-    buvo garbinami pagal budistų ir senovės persų -  iš budizmo
-    kilusio Zoroastro mokymo sekėjų -  taisykles.
+  citata_rodoma: "Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­\nti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­\ndami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų\nsistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­\nplaikos kilo mitologija, kurią imamės išdėstyti.\nIšnagrinėję visą lietuvių mitologijos sistemą, lengvai pa­\nstebime, kad seniausioji lietuvių religija buvo azijinė -  indiš­\nka: dangaus kūnai ir elementai, tai yra ugnis, vanduo, žemė,\n84\n\n## Puslapis 84\n\nbuvo garbinami pagal budistų ir senovės persų -  iš budizmo\nkilusio Zoroastro mokymo sekėjų -  taisykles."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189157
+    - t-001
+
 - id: c-179153
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -188,4 +171,4 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197372
+    - t-003

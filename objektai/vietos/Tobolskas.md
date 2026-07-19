@@ -31,7 +31,6 @@ Narbuto pasakojime Tovelas, arba Tobalas, minimas kaip Šventojo Rašto protėvi
 
 <a id="claim-t-192904"></a>
 - t-001
-  global_id: t-192904
   teiginys: "Narbuto pasakojime Tovelas, arba Tobalas, minimas kaip Šventojo Rašto protėvis ir Tobolsko pavadinimo pirmtakas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbuto pasakojime Tovelas, arba Tobalas, minimas kaip Šventojo Rašto protėvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192904
+    - t-001

@@ -31,7 +31,6 @@ Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks
 
 <a id="claim-t-20960"></a>
 - t-001
-  global_id: t-20960
   teiginys: "Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,12 +61,11 @@ Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks
     „nepagrįstu“ žydų noru toliau plėsti savo įtaką. Tačiau lietuvėjant mies-
     tams, lietuvių ir jų ūkinių kooperatyvų veikla neišvengiamai silpnino
     žydų verslo pozicijas.
-  citata_rodoma: |
-    Tačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas
+  citata_rodoma: "Tačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20960
+    - t-001

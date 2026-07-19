@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-66819"></a>
 - t-001
-  global_id: t-66819
   teiginys: "Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas su jo mėgtais daiktais, ginklais bei gyvuliais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66819
+    - t-001

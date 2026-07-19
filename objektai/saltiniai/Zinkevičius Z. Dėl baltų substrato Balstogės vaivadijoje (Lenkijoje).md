@@ -36,7 +36,6 @@ Dusburgietis teigia, kad zinkevičius Z.
 
 <a id="claim-t-61385"></a>
 - t-001
-  global_id: t-61385
   teiginys: "Z. Zinkevičiaus straipsnis „Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje)“ publikuotas 1975 m. „Baltistica“ 11 tomo 2 sąsiuvinyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,13 +63,11 @@ Dusburgietis teigia, kad zinkevičius Z.
     Zinkevičius Z. Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje).—Baltistica, 1975,
     11(2), p. 149—153.
     Zinkevičius Z. Lietuvių kalbos istorija.
-  citata_rodoma: |
-    Zinkevičius Z. Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje).—Baltistica, 1975,
-    11(2), p. 149—153.
+  citata_rodoma: "Zinkevičius Z. Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje).—Baltistica, 1975,\n11(2), p. 149—153."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61385
+    - t-001

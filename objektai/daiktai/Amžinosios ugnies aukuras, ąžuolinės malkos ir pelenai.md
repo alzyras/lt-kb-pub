@@ -45,9 +45,8 @@ Nenurodyta
 
 <a id="claim-t-189718"></a>
 - t-001
-  global_id: t-189718
   teiginys: "Amžinosios ugnies aukurą Narbutas vaizduoja stovėjus Perkūno šventykloje Romovėje ir buvus kūrenamą ąžuolinėmis malkomis."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -63,10 +62,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172601
-    - c-001
+
 <a id="claim-t-189719"></a>
 - t-002
-  global_id: t-189719
   teiginys: "Narbutas rašo, kad žinyčios aukuro pelenams buvo priskiriama gydomoji galia, o žyniai iš jų burdavo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172602
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Amžinosios ugnies aukurą Narbutas vaizduoja stovėjus Perkūno šventykloje Romovėje ir buvus kūrenamą ąžuolinėmis malkomis.'
@@ -101,8 +99,6 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189718
 - c-002
   santrauka: 'Narbutas rašo, kad žinyčios aukuro pelenams buvo priskiriama gydomoji galia, o žyniai iš jų burdavo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -122,8 +118,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189719
+
 ## Citatos
 
 - id: c-172601
@@ -142,20 +137,15 @@ Nenurodyta
     pavadinimas - nežinome. Tikras dalykas yra tik tai, kad Arak-
     so upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip
     tik tada, kai prie jos gyveno budinai.
-  citata_rodoma: |
-    3. Dievo Perkūno šventykloje, senovės Romovėje, švento­
-    jo ąžuolo ir žymiausių dievų stabų akivaizdoje stovėjo auku­
-    ras su Amžinąja ugnimi, kurstoma ąžuolinėmis malkomis, ku­
-    ri degė prižiūrima paties vyriausiojo žynio. Iš pavasario būda­
-    vo paruošiama dvylika ąžuolinių malkų stirtų, sukraunamų prie
-    šventyklos. Vienos stirtos turėjo pakakti mėnesiui.
+  citata_rodoma: "3. Dievo Perkūno šventykloje, senovės Romovėje, švento­\njo ąžuolo ir žymiausių dievų stabų akivaizdoje stovėjo auku­\nras su Amžinąja ugnimi, kurstoma ąžuolinėmis malkomis, ku­\nri degė prižiūrima paties vyriausiojo žynio. Iš pavasario būda­\nvo paruošiama dvylika ąžuolinių malkų stirtų, sukraunamų prie\nšventyklos. Vienos stirtos turėjo pakakti mėnesiui."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189718
+    - t-001
+
 - id: c-172602
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -172,21 +162,11 @@ Nenurodyta
     pačiu šventu vardu Ross. Šitaip galindų tauta turėjo Rosės * 5
     šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
     likti tokį garbinimą (Hiegels.
-  citata_rodoma: |
-    Istoriniai padavimai skelbia, kad lie­
-    tuviai XIV amžiuje šventuosius židinius slėpė ir dangstė ne­
-    prieinamuose miškuose, idant išsaugotų ugnį, nes manė, jog,
-    jai užgesus, tautai gresia pražūtis. Ji buvo garbinama su dide­
-    lėmis pamaldomis, iš jos buvo imami nuodėguliai svarbiau­
-    sioms aukoms deginti ir laidotuvių laužams. Žinyčios aukuro
-    pelenai turėjo gydomąją galią. Žyniai iš jų burdavo. Žemaičiai
-    manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
-    užmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį
-    užgesino .
+  citata_rodoma: "Istoriniai padavimai skelbia, kad lie­\ntuviai XIV amžiuje šventuosius židinius slėpė ir dangstė ne­\nprieinamuose miškuose, idant išsaugotų ugnį, nes manė, jog,\njai užgesus, tautai gresia pražūtis. Ji buvo garbinama su dide­\nlėmis pamaldomis, iš jos buvo imami nuodėguliai svarbiau­\nsioms aukoms deginti ir laidotuvių laužams. Žinyčios aukuro\npelenai turėjo gydomąją galią. Žyniai iš jų burdavo. Žemaičiai\nmanė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai\nužmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį\nužgesino ."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189719
+    - t-002

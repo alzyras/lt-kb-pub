@@ -31,7 +31,6 @@ Lietuviai tų knygpalaikių neėmė nė į rankas, o slaptųjų knygų skaičius
 
 <a id="claim-t-03035"></a>
 - t-001
-  global_id: t-03035
   teiginys: "Lietuviai neėmė į rankas valdžios leistų rusiškomis raidėmis spausdintų knygpalaikių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,15 +58,11 @@ Lietuviai tų knygpalaikių neėmė nė į rankas, o slaptųjų knygų skaičius
     leidžiamąsias knygas, spausdintas rusiškomis raidėmis. Lietu-
     viai tų knygpalaikių neėmė nė į rankas, o slaptųjų knygų skai-
     čius labai sparčiai augo.
-  citata_rodoma: |
-    Veltui nuėjo rusų pastangos įpiršti valdžios
-    leidžiamąsias knygas, spausdintas rusiškomis raidėmis. Lietu-
-    viai tų knygpalaikių neėmė nė į rankas, o slaptųjų knygų skai-
-    čius labai sparčiai augo.
+  citata_rodoma: "Veltui nuėjo rusų pastangos įpiršti valdžios\nleidžiamąsias knygas, spausdintas rusiškomis raidėmis. Lietu-\nviai tų knygpalaikių neėmė nė į rankas, o slaptųjų knygų skai-\nčius labai sparčiai augo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03035
+    - t-001

@@ -39,7 +39,6 @@ V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza metraštini
 
 <a id="claim-t-88081"></a>
 - t-001
-  global_id: t-88081
   teiginys: "Pskovo metraštininkas minėjo pskoviečių pasiuntinybę pas Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza metraštini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88081
+    - t-001

@@ -30,10 +30,9 @@ Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje 
 ## Teiginiai
 
 <a id="claim-t-185267"></a>
-- t-001
-  global_id: t-185267
+- t-002
   teiginys: "Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,20 +69,11 @@ Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje 
     riai smogė į Konstantino kariuomenės sparną: narsiai
     gindamiesi, lietuviai atlaikė pirmąjį smūgį ir, sutelkę
     jėgas, atstūmė priešą.
-  citata_rodoma: |
-    Konstantinas, pasukęs su savo kariais į
-    kairę, užvedė priešo raitelius, lipte lipančius jiems ant
-    kulnų, tiesiai ant karo pabūklų ir pėstininkų, įsakyda­
-    mas savo raitelių vėliavoms sugrįžti ir užpulti priešą.
-    Maskvėnai, nelaukę šitokio manevro, dėl kurio žuvo
-    daugybė jų karių, šaukdami ir rėkdami pasileido išsi­
-    gandę bėgti. Kova pavirto tikromis skerdynėmis, ne­
-    maža maskvėnų prigėrė Kropivnos pelkėse ir pačioje
-    upėje.
+  citata_rodoma: "Konstantinas, pasukęs su savo kariais į\nkairę, užvedė priešo raitelius, lipte lipančius jiems ant\nkulnų, tiesiai ant karo pabūklų ir pėstininkų, įsakyda­\nmas savo raitelių vėliavoms sugrįžti ir užpulti priešą.\nMaskvėnai, nelaukę šitokio manevro, dėl kurio žuvo\ndaugybė jų karių, šaukdami ir rėkdami pasileido išsi­\ngandę bėgti. Kova pavirto tikromis skerdynėmis, ne­\nmaža maskvėnų prigėrė Kropivnos pelkėse ir pačioje\nupėje."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185267
+    - t-002

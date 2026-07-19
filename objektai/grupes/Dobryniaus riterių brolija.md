@@ -37,7 +37,6 @@ Bet jam nesisekė, ir jo įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
 
 <a id="claim-t-99990"></a>
 - t-001
-  global_id: t-99990
   teiginys: "Kristijono įkurtoji Dobryniaus riterių brolija neturėjo jėgos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Bet jam nesisekė, ir jo įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99990
+    - t-001

@@ -44,8 +44,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 ## Teiginiai
 
 <a id="claim-t-174165"></a>
-- t-001
-  global_id: t-174165
+- t-040
   teiginys: "Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - c-158381
 
 <a id="claim-t-174166"></a>
-- t-002
-  global_id: t-174166
+- t-036
   teiginys: "Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - c-158377
 
 <a id="claim-t-174167"></a>
-- t-003
-  global_id: t-174167
+- t-042
   teiginys: "Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 metų tapo reformacijos šalininkų prieglobsčiu ir mokykla."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - c-158375
 
 <a id="claim-t-174168"></a>
-- t-004
-  global_id: t-174168
+- t-041
   teiginys: "1547 m. Paleckio liejyklai skirtas sklypas buvo prie Vilniaus miesto, už Vilijos upės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,8 +118,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - c-158378
 
 <a id="claim-t-174169"></a>
-- t-005
-  global_id: t-174169
+- t-035
   teiginys: "Dabartinių Lukiškių ir Antakalnio užuomazgos buvo išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,8 +134,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - c-158383
 
 <a id="claim-t-174170"></a>
-- t-006
-  global_id: t-174170
+- t-039
   teiginys: "Vilniaus pirklių laivams, vadintiems vytinėmis, buvo leista laisvai plaukioti Vilijos upe."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -156,8 +150,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - c-158382
 
 <a id="claim-t-174171"></a>
-- t-007
-  global_id: t-174171
+- t-037
   teiginys: "Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -176,8 +169,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - c-158380
 
 <a id="claim-t-174172"></a>
-- t-008
-  global_id: t-174172
+- t-034
   teiginys: "Vingrių upokšnis šalia Vilnios įtekėjo į Viliją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -193,8 +185,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - c-158376
 
 <a id="claim-t-174174"></a>
-- t-009
-  global_id: t-174174
+- t-038
   teiginys: "Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -213,8 +204,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - c-158374
 
 <a id="claim-t-183873"></a>
-- t-010
-  global_id: t-183873
+- t-043
   teiginys: "Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -233,8 +223,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - c-167258
 
 <a id="claim-t-183874"></a>
-- t-011
-  global_id: t-183874
+- t-044
   teiginys: "Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -505,22 +494,15 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho-
     zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
     išlaidos, prie dominikonų Šv.
-  citata_rodoma: |
-    ) Žy­
-    gimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­
-    niaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą
-    jo tėviško rūpinimosi tauta. Suteikdamas Hozijui teisę pasta­
-    tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria
-    iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­
-    kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­
-    gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą.
+  citata_rodoma: ") Žy­\ngimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­\nniaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą \njo tėviško rūpinimosi tauta. Suteikdamas Hozijui teisę pasta­\ntyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria \niki tol buvo naudojamasi, karalius leido imti tam tikrą mo­\nkestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­\ngumui paskirti labdaringą ir Vilniui labai svarbią įstaigą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174174
+    - t-038
+
 - id: c-158375
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -568,7 +550,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174167
+    - t-042
+
 - id: c-158376
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -593,7 +576,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174172
+    - t-034
+
 - id: c-158377
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -608,20 +592,15 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     temdė neramumai, grėsę ne tik iš kryžiuočių, bet ir per Vytau­
     to vaidus su Jogaila, ir dar ne visai suderintus Lietuvos ir Len­
     kijos interesus.
-  citata_rodoma: |
-    Pirmiausia jų,
-    regis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi
-    namus, juk iki šiol ten stovi mečetė jų tikėjimą išpažįstančioms
-    šeimoms. Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­
-    nyje į Viliją įteka Vingrių šaltinis, pavadinimas.
-    Tačiau tas kelias Lietuvos sostinės patirtas sėkmes (1398 m.
+  citata_rodoma: "Pirmiausia jų, \nregis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi \nnamus, juk iki šiol ten stovi mečetė jų tikėjimą išpažįstančioms \nšeimoms. Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­\nnyje į Viliją įteka Vingrių šaltinis, pavadinimas.\nTačiau tas kelias Lietuvos sostinės patirtas sėkmes (1398 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174166
+    - t-036
+
 - id: c-158378
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -652,7 +631,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174168
+    - t-041
+
 - id: c-158380
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -671,26 +651,15 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     jo kunigaikščio Aleksandro rūpinimasis savo sostinės
     gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
     siljevičiaus užmačių.
-  citata_rodoma: |
-    ), Aleksan­
-    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
-    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
-    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
-    mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­
-    kymu, buvo kuo rūpestingiausiai garantuojama laisva
-    laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
-    niaus miestiečių laivams su prekėmis, o keliantis perkėla
-    visur atleidžiama nuo bet kokių mokesčių41. Toks didžio­
-    jo kunigaikščio Aleksandro rūpinimasis savo sostinės
-    gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
-    siljevičiaus užmačių.
+  citata_rodoma: "), Aleksan­\ndras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo \nmetu vadintą Zabójnica (žudike), panaikindamas visas pri­\nvačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­\nmazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­\nkymu, buvo kuo rūpestingiausiai garantuojama laisva \nlaivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­\nniaus miestiečių laivams su prekėmis, o keliantis perkėla \nvisur atleidžiama nuo bet kokių mokesčių41. Toks didžio­\njo kunigaikščio Aleksandro rūpinimasis savo sostinės \ngyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va- \nsiljevičiaus užmačių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174171
+    - t-037
+
 - id: c-158381
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -714,7 +683,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174165
+    - t-040
+
 - id: c-158382
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -789,7 +759,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174170
+    - t-039
+
 - id: c-158383
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -805,23 +776,15 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     akalnio užuomazgos7.
     kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
     rado.
-  citata_rodoma: |
-    Kazimiero bažnyčia; po Aukš­
-    tutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­
-    kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos
-    trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­
-    toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­
-    los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­
-    akalnio užuomazgos7.
-    kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
-    rado.
+  citata_rodoma: "Kazimiero bažnyčia; po Aukš­\ntutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­\nkių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos \ntrobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­\ntoje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­\nlos, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­\nakalnio užuomazgos7.\nkuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname], \nrado."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174169
+    - t-035
+
 - id: c-167258
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -849,7 +812,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183873
+    - t-043
+
 - id: c-167259
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -871,4 +835,4 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183874
+    - t-044

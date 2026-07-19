@@ -30,7 +30,6 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 
 <a id="claim-t-35615"></a>
 - t-001
-  global_id: t-35615
   teiginys: "Krokuvos profesoriai rašte įrodinėjo, kad Romos karalius Zigmantas neturi teisės suteikti karūnos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 
 <a id="claim-t-35616"></a>
 - t-002
-  global_id: t-35616
   teiginys: "Krokuvos profesoriai Romos karaliaus teisę karūnuoti kitus laikė nepakankama ir žemesne už popiežiaus teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,18 +81,15 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
     nuot pripažino nepakankama, nes tuo atveju ji esanti žemesnė
     už popiežiaus teises. Cigala antrame savo atsakyme gina, kad
     karūnacijai atlikti nereikalingas popiežiaus patvirtinimas.
-  citata_rodoma: |
-    Bet Krokuvos profesoriai Romos karalių teisę kitų karū­
-    nuot pripažino nepakankama, nes tuo atveju ji esanti žemesnė
-    už popiežiaus teises. Cigala antrame savo atsakyme gina, kad
-    karūnacijai atlikti nereikalingas popiežiaus patvirtinimas.
+  citata_rodoma: "Bet Krokuvos profesoriai Romos karalių teisę kitų karū­\nnuot pripažino nepakankama, nes tuo atveju ji esanti žemesnė\nuž popiežiaus teises. Cigala antrame savo atsakyme gina, kad\nkarūnacijai atlikti nereikalingas popiežiaus patvirtinimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35616
+    - t-002
+
 - id: c-38244
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -108,17 +103,11 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
     rįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo
     Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
     nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
-  citata_rodoma: |
-    Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­
-    leisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos
-    karalius, neturįs teisės niekam suteikt karūnos, nes jis pats nė­
-    ra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­
-    rįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo
-    Zb.
+  citata_rodoma: "Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­\nleisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos\nkaralius, neturįs teisės niekam suteikt karūnos, nes jis pats nė­\nra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­\nrįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo\nZb."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35615
+    - t-001

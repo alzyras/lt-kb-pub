@@ -36,7 +36,6 @@ Po to Kauno saloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas, (14
 
 <a id="claim-t-36294"></a>
 - t-001
-  global_id: t-36294
   teiginys: "1413 m. Kauno saloje buvo sušauktas suvažiavimas Žemaitijos sienų klausimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,16 +72,11 @@ Po to Kauno saloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas, (14
     (1413), kuriame, neskaitant Vytauto ir Makro, dalyvavo dar
     Jogaila, Ordino pasiuntinys Mykolas Küchmeisteris, lietuvių ir
     lenkų bajorai, Ordino riteriai.
-  citata_rodoma: |
-    Po to Kauno
-    saloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas,
-    (1413), kuriame, neskaitant Vytauto ir Makro, dalyvavo dar
-    Jogaila, Ordino pasiuntinys Mykolas Küchmeisteris, lietuvių ir
-    lenkų bajorai, Ordino riteriai.
+  citata_rodoma: "Po to Kauno\nsaloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas,\n(1413), kuriame, neskaitant Vytauto ir Makro, dalyvavo dar\nJogaila, Ordino pasiuntinys Mykolas Küchmeisteris, lietuvių ir\nlenkų bajorai, Ordino riteriai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36294
+    - t-001

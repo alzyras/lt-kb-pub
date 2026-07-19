@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-66953"></a>
 - t-001
-  global_id: t-66953
   teiginys: "Vilniaus akademijos įkūrimui Lietuvoje priešinosi protestantai didikai Radvila ir Valavičius, atsisakę spausti valstybinį antspaudą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-66955"></a>
 - t-002
-  global_id: t-66955
   teiginys: "1578 m. Vilniaus jėzuitams paprašius leisti įkurti akademiją, Steponas Batoras sutiko ir davė privilegijos raštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66955
+    - t-002
+
 - id: c-67044
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -103,4 +102,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66953
+    - t-001

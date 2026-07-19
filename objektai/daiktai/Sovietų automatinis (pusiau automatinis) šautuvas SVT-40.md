@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-39282"></a>
 - t-001
-  global_id: t-39282
   teiginys: "SVT-40 galėjo šaudyti automatine ugnimi, bet dėl lengvo ginklo ir galingo šovinio toks šaudymas buvo labai neefektyvus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +79,6 @@ Nenurodyta
 
 <a id="claim-t-183688"></a>
 - t-002
-  global_id: t-183688
   teiginys: "SVT-40 galėjo šaudyti automatine ugnimi, tačiau toks šaudymas buvo labai neefektyvus dėl lengvo ginklo ir galingo šovinio."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -129,5 +127,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39282
-    - t-183688
+    - t-001
+    - t-002

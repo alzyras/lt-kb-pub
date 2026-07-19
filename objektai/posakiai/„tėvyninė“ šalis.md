@@ -31,7 +31,6 @@ Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Li
 
 <a id="claim-t-20955"></a>
 - t-001
-  global_id: t-20955
   teiginys: "Józefas Piłsudskis pareiškė, kad jo politika taiki ir kad jis nepuls Lietuvos, kurią vadino „tėvynine“ šalimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,12 +59,11 @@ Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Li
     vokiečiai ir net britai. Lenkija laikėsi ramiai, privengdama karinės Vokie-
     tijos reakcijos – J. Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir
     kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.
-  citata_rodoma: |
-    tijos reakcijos – J. Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir
+  citata_rodoma: "tijos reakcijos – J. Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20955
+    - t-001

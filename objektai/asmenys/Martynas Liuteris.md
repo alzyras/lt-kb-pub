@@ -40,8 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-82553"></a>
-- t-001
-  global_id: t-82553
+- t-002
   teiginys: "Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ media_all_json: |-
     - c-79030
 
 <a id="claim-t-82555"></a>
-- t-002
-  global_id: t-82555
+- t-003
   teiginys: "Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo įsišaknijęs ir palaikomas vaivados Mikalojaus Radvilos Juodojo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ media_all_json: |-
     - c-79030
 
 <a id="claim-t-193626"></a>
-- t-003
-  global_id: t-193626
+- t-004
   teiginys: "1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -119,27 +116,16 @@ media_all_json: |-
     tis už Bažnyčios vienybę ir po visą
     dieceziją būtų rengiamos procesijos
     su litanijomis".
-  citata_rodoma: |
-    Tik po dvejų metų kapitula, patyrusi, kad
-    jau po visą sostinę pasklido kitatikystė, ėmė raginti vysku­
-    pą imtis visokeriopų priemonių, kokias tik jam tokiu atveju
-    leistų jo pareigos45. Nors Viklifo sekėjas buvo ekskomuni­
-    kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir
-    Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo
-    stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos,
-    vadinamo Juoduoju. Jo dvaras Lukiškėse, prie Vilijos, nuo
-    renkasi į savo sueigas Lukiškėse, Jo
-    Didenybės Vilniaus vaivados Mika­
-    lojaus Radvilos rūmuose; nutaria
-    (savo susirinkime 1557 m.
+  citata_rodoma: "Tik po dvejų metų kapitula, patyrusi, kad \njau po visą sostinę pasklido kitatikystė, ėmė raginti vysku­\npą imtis visokeriopų priemonių, kokias tik jam tokiu atveju \nleistų jo pareigos45. Nors Viklifo sekėjas buvo ekskomuni­\nkuotas ir priverstas palikti miestą, bet Martyno Liuterio ir \nCvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo \nstipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos, \nvadinamo Juoduoju. Jo dvaras Lukiškėse, prie Vilijos, nuo\nrenkasi į savo sueigas Lukiškėse, Jo \nDidenybės Vilniaus vaivados Mika­\nlojaus Radvilos rūmuose; nutaria \n(savo susirinkime 1557 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82553
-    - t-82555
+    - t-002
+    - t-003
+
 - id: c-176297
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -156,4 +142,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193626
+    - t-004

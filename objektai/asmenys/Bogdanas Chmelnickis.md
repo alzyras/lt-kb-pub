@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-186099"></a>
 - t-001
-  global_id: t-186099
   teiginys: "1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ media_all_json: |-
 
 <a id="claim-t-186100"></a>
 - t-002
-  global_id: t-186100
   teiginys: "Kojelavičius Bogdano Chmelnickio vadovautą ukrainiečių sukilimą vadino Rusios baudžiauninkų sukilimu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -107,7 +105,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186099
+    - t-001
+
 - id: c-169461
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -125,4 +124,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186100
+    - t-002

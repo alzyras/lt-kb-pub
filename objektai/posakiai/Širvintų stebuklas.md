@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-41478"></a>
-- t-001
-  global_id: t-41478
+- t-002
   teiginys: "Širvintų pergalė visuomenėje buvo praminta „Širvintų stebuklu“."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-44971
 
 <a id="claim-t-41479"></a>
-- t-002
-  global_id: t-41479
+- t-003
   teiginys: "Balno reidas į Gardino pulko užnugarį visuomenėje buvo pramintas „Širvintų stebuklu“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -89,20 +87,12 @@ media_all_json: |-
     gai įvykdyti suplanuotą puolimą ir priar-
     tėti prie Kauno, būtų iškilęs didelis pavojus
     Lietuvos valstybingumui.
-  citata_rodoma: |
-    Balno reidas į Gardino pulko užnugarį
-
-    visuomenei ir buvo pramintas „Širvintų ste-
-    buklu“. Ši pergalė leido lietuviams perimti
-    iniciatyvą. Jei lenkams būtų pavykę sėkmin-
-    gai įvykdyti suplanuotą puolimą ir priar-
-    tėti prie Kauno, būtų iškilęs didelis pavojus
-    Lietuvos valstybingumui.
+  citata_rodoma: "Balno reidas į Gardino pulko užnugarį\n\nvisuomenei ir buvo pramintas „Širvintų ste-\nbuklu“. Ši pergalė leido lietuviams perimti\niniciatyvą. Jei lenkams būtų pavykę sėkmin-\ngai įvykdyti suplanuotą puolimą ir priar-\ntėti prie Kauno, būtų iškilęs didelis pavojus\nLietuvos valstybingumui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41478
-    - t-41479
+    - t-002
+    - t-003

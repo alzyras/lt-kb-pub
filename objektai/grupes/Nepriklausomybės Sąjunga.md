@@ -56,8 +56,7 @@ Visuomeninė draugija.
 ## Teiginiai
 
 <a id="claim-t-195664"></a>
-- t-001
-  global_id: t-195664
+- t-003
   teiginys: "Nepriklausomybės Sąjungos pirmininku buvo straipsnyje minimas velionis."
   atnaujinta: "2026-07-12 11:11"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -67,8 +66,7 @@ Visuomeninė draugija.
     - c-178066
 
 <a id="claim-t-195665"></a>
-- t-002
-  global_id: t-195665
+- t-001
   teiginys: "Nepriklausomybės Sąjunga buvo didelė po visą Suomiją paplitusi draugija."
   atnaujinta: "2026-07-12 11:11"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -78,8 +76,7 @@ Visuomeninė draugija.
     - c-178066
 
 <a id="claim-t-195666"></a>
-- t-003
-  global_id: t-195666
+- t-002
   teiginys: "Nepriklausomybės Sąjungos tikslas buvo stiprinti Suomijos nepriklausomybę."
   atnaujinta: "2026-07-12 11:11"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -106,14 +103,13 @@ Visuomeninė draugija.
     pc visą kraštą paplitusi draugija, kuri, kaip jos vardas skelbia,
     rūpi­
     nasi sutvirtinti Suomijos nepriklausomybę, ugdant tokią dvasią tautoje.
-  citata_rodoma: |
-    Yra vėl kita Suomijoj draugija, kurioj velionis gyvai dalyvavo ir net buvo jos pirmininkas, tai Nepriklausomybės Sąjunga. Tai didelė, po visą kraštą paplitusi draugija, kuri, kaip jos vardas skelbia, rūpinasi sutvirtinti Suomijos nepriklausomybę, ugdant tokią dvasią tautoje.
+  citata_rodoma: "Yra vėl kita Suomijoj draugija, kurioj velionis gyvai dalyvavo ir net buvo jos pirmininkas, tai Nepriklausomybės Sąjunga. Tai didelė, po visą kraštą paplitusi draugija, kuri, kaip jos vardas skelbia, rūpinasi sutvirtinti Suomijos nepriklausomybę, ugdant tokią dvasią tautoje."
   statusas: verified
   atnaujinta: "2026-07-12 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195664
-    - t-195665
-    - t-195666
+    - t-003
+    - t-001
+    - t-002

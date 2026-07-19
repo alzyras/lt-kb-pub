@@ -31,7 +31,6 @@ Dar viena kovotojų grupė nuvyko Subartonių miško link.
 
 <a id="claim-t-38557"></a>
 - t-001
-  global_id: t-38557
   teiginys: "Viena kovotojų grupė nuvyko Subartonių miško link sulaikyti galimo pastiprinimo iš Alytaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Dar viena kovotojų grupė nuvyko Subartonių miško link.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38557
+    - t-001

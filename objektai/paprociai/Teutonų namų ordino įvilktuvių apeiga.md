@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-175141"></a>
 - t-001
-  global_id: t-175141
   teiginys: "Markburge į Teutonų namų ordiną įvelkami kandidatai kniūpsti puldavo prieš altorių, kol kunigas melsdavosi ir giedodavo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175141
+    - t-001

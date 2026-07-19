@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62718"></a>
-- t-001
-  global_id: t-62718
+- t-002
   teiginys: "214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -87,22 +86,38 @@ Nenurodyta
 
 ## Citatos
 
+- id: c-63479
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti
+    pirties tiesiog kęste nekenčia. Moterys ir vyrai pratę verpti, vieni — linus, kiti — vilnas,
+    211 Senovės paprotys reikalavo, kad jaunikis pinigais ar daiktais mokėtų jaunosios
+    tėvui, t. y. išpirktų žmoną. Galėjo tai būti praktikuojama ir XIII a., nes paprotys buvo
+    žinomas ir vėliau. XVI—XVIII a. dokumentai rodo, kad, imdamas į žmoną valstietę,
+    jaunikis turėjęs mokėti jaunosios feodalui tam tikrą mokestį, kuris buvęs vadinamas
+    kriena resp. krienu.
+  citata_rodoma: "Štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį\nar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę,\npirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje. Kitą\ndieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia\ntesėti susitarimą. Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti\npirties tiesiog kęste nekenčia."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-63480
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    214 Čia minimi seni skaičiavimo budai mazgeliais,  įkirtimais. Apie prūsų  laiko
-    skaičiavimą,  buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.
-    Życie..., p. 116 ir kt.
-  citata_rodoma: |
-    214 Čia minimi seni skaičiavimo budai mazgeliais,  įkirtimais. Apie prūsų  laiko
-    skaičiavimą,  buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.
-    Życie..., p. 116 ir kt.
+    214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais. Apie prūsų laiko
+    skaičiavimą, buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.
+    Życie..., p. 116 ir kt. Apie baltų kultūrą — Gimbutienė M. Baltai.
+  citata_rodoma: "214 Čia minimi seni skaičiavimo budai mazgeliais,  įkirtimais. Apie prūsų  laiko\nskaičiavimą,  buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.\nŻycie..., p. 116 ir kt. Apie baltų kultūrą — Gimbutienė M. Baltai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62718
+    - t-002

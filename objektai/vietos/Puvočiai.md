@@ -31,7 +31,6 @@ Jis pranešė liūdną naujieną: Puvočių kaime, poilsio metu netikėtai prie�
 
 <a id="claim-t-80600"></a>
 - t-001
-  global_id: t-80600
   teiginys: "Puvočių kaime priešo netikėtai užkluptas žuvo Marcinkonių bataliono vadas Šernas, dar vadintas leitenantu Kondrotu, ir du jo kovos draugai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Jis pranešė liūdną naujieną: Puvočių kaime, poilsio metu netikėtai prie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80600
+    - t-001

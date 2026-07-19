@@ -40,8 +40,7 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
 ## Teiginiai
 
 <a id="claim-t-69174"></a>
-- t-001
-  global_id: t-69174
+- t-003
   teiginys: "Rudavos valsčiuje po stipraus puolimo buvo užimta pilis, o daug sembų išžudyta."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
     - c-68582
 
 <a id="claim-t-69175"></a>
-- t-002
-  global_id: t-69175
+- t-004
   teiginys: "Rudava buvo valsčius Semboje, kurio centras buvo Rudavos pilis į šiaurę nuo dabartinio Kaliningrado."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
     - c-68582
 
 <a id="claim-t-69176"></a>
-- t-003
-  global_id: t-69176
+- t-002
   teiginys: "1370 m. vasario 17 d. lietuviai vėl susirinko prie Rudavos bažnytkaimio netoli Karaliaučiaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,8 +91,7 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
     - c-37703
 
 <a id="claim-t-69177"></a>
-- t-004
-  global_id: t-69177
+- t-001
   teiginys: "Nuterioję Sembą, lietuviai susirinko ties Rudavos bažnytkaimiu, esančiu už trijų mylių į šiaurę nuo Karaliaučiaus."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -135,24 +131,21 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
     liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­
     tų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,
     netoli Karaliaučiaus, vėl susirinko krūvon.
-  citata_rodoma: |
-    Pasidalinę mažais būre­
-    liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­
-    tų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,
-    netoli Karaliaučiaus, vėl susirinko krūvon.
+  citata_rodoma: "Pasidalinę mažais būre­\nliais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­\ntų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,\nnetoli Karaliaučiaus, vėl susirinko krūvon."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69176
+    - t-002
+
 - id: c-68581
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Nuterioję
+    Drauge buvo ir Algirdas su savo būriais. Nuterioję
     Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­
     kaimiu (3 mylios į šiaurę nuo Karaliaučiaus). Čia juos pasitiko
     kryžiuočių kariuomenė.
@@ -162,7 +155,8 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69177
+    - t-001
+
 - id: c-68582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -203,5 +197,5 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69174
-    - t-69175
+    - t-003
+    - t-004

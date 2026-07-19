@@ -31,7 +31,6 @@ Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai b
 
 <a id="claim-t-192855"></a>
 - t-001
-  global_id: t-192855
   teiginys: "Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai buvo įsikūrę greta į rytus, Dono ir Doneco tarpupyje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,6 +77,7 @@ Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192855
+    - t-001
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Gelonai]]

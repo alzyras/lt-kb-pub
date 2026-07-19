@@ -31,7 +31,6 @@ Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumany
 
 <a id="claim-t-19717"></a>
 - t-001
-  global_id: t-19717
   teiginys: "Jakobinų klubas oponavo oficialiai sukilimo valdžiai ir inicijavo Targovicos konfederatų egzekucijos sumanymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,12 +60,11 @@ Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumany
     eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai opo-
     navusiame jakobinų klube. Šis klubas rengė manifestacijas, privertusias
     teismą paskelbti minėtus mirties nuosprendžius.
-  citata_rodoma: |
-    navusiame jakobinų klube. Šis klubas rengė manifestacijas, privertusias
+  citata_rodoma: "navusiame jakobinų klube. Šis klubas rengė manifestacijas, privertusias"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19717
+    - t-001

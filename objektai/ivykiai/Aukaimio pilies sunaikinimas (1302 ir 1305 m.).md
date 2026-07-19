@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-31406"></a>
-- t-001
-  global_id: t-31406
+- t-002
   teiginys: "1305 m. Svirtila išdavė Aukaimio pilį kryžiuočiams, kurie ją užėmė, išžudė rastus vyrus, o moteris ir vaikus paėmė į nelaisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-33385
 
 <a id="claim-t-31407"></a>
-- t-002
-  global_id: t-31407
+- t-001
   teiginys: "Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,6 +89,7 @@ Nenurodyta
   pagrindžia:
     - c-31312
     - c-167707
+
 ## Citatos
 
 - id: c-31312
@@ -110,7 +109,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31407
+    - t-001
+
 - id: c-33385
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -124,21 +124,15 @@ Nenurodyta
     pagrindų sunaikino pilį ». Kita kariuomenės dalis Aukaimio apy­
     linkėje « daug žmonių išžudė, ar paėmė į nelaisvę, grobė visa, kas
     tik ten buvo rasta, o (kitką) degino »^11.
-  citata_rodoma: |
-    Su didele kariuomene Karaliaučiaus komtūrui pilį apgulus (1305),
-    « pilies žmogus, vardu Svirtila, tikėjimo ir tikinčiųjų draugas, išdavė
-    pilį broliams, kurie ten įsibrovė ir išžudė visus, kuriuos rado, vyriš­
-    kos lyties, o moteris ir vaikus paėmė į nelaisvę, ir dar kartą iš
-    pagrindų sunaikino pilį ». Kita kariuomenės dalis Aukaimio apy­
-    linkėje « daug žmonių išžudė, ar paėmė į nelaisvę, grobė visa, kas
-    tik ten buvo rasta, o (kitką) degino »^11.
+  citata_rodoma: "Su didele kariuomene Karaliaučiaus komtūrui pilį apgulus (1305),\n« pilies žmogus, vardu Svirtila, tikėjimo ir tikinčiųjų draugas, išdavė\npilį broliams, kurie ten įsibrovė ir išžudė visus, kuriuos rado, vyriš­\nkos lyties, o moteris ir vaikus paėmė į nelaisvę, ir dar kartą iš\npagrindų sunaikino pilį ». Kita kariuomenės dalis Aukaimio apy­\nlinkėje « daug žmonių išžudė, ar paėmė į nelaisvę, grobė visa, kas\ntik ten buvo rasta, o (kitką) degino »^11."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31406
+    - t-002
+
 - id: c-167707
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -156,3 +150,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

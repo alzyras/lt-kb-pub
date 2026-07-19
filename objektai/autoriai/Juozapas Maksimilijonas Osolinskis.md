@@ -30,7 +30,6 @@ Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai b
 
 <a id="claim-t-191561"></a>
 - t-001
-  global_id: t-191561
   teiginys: "Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai buvo vadinami Ingemony."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai b
 
 <a id="claim-t-197617"></a>
 - t-002
-  global_id: t-197617
   teiginys: "Senovės tyrinėtojai ne abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos, Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie jūros."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,8 @@ Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191561
+    - t-001
+
 - id: c-179264
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -110,4 +109,4 @@ Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197617
+    - t-002

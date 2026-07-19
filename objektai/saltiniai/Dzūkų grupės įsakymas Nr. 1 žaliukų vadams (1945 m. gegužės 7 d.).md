@@ -46,8 +46,7 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
 ## Teiginiai
 
 <a id="claim-t-171528"></a>
-- t-001
-  global_id: t-171528
+- t-004
   teiginys: "Dzūkų grupės įsakyme nurodyta, kad atskiri žaliukų daliniai vadinti jų vadų slapyvardžių būriais, pavyzdžiui, Perkūno ar Šarūno būriu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
     - c-11216
 
 <a id="claim-t-171529"></a>
-- t-002
-  global_id: t-171529
+- t-003
   teiginys: "1945 m. gegužės 7 d. Dzūkų grupės įsakymas Nr. 1 buvo skirtas tik žaliukų dalinių vadams vykdyti ir žinoti."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,8 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171529
+    - t-003
+
 - id: c-11216
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -102,4 +101,4 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171528
+    - t-004

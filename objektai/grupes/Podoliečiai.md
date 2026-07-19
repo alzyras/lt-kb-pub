@@ -30,7 +30,6 @@ O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš Melštino vadovauj
 
 <a id="claim-t-35745"></a>
 - t-001
-  global_id: t-35745
   teiginys: "Spyteko iš Melštino vadovaujami podoliečiai dalyvavo Vytauto kariuomenės žygyje kartu su mozūrais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,14 +58,11 @@ O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš Melštino vadovauj
     O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš
     Melštino vadovaujami podoliečiai. Vytautas ir be jų turėjo
     pakankamai kariuomenės.
-  citata_rodoma: |
-    O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš
-    Melštino vadovaujami podoliečiai. Vytautas ir be jų turėjo
-    pakankamai kariuomenės.
+  citata_rodoma: "O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš\nMelštino vadovaujami podoliečiai. Vytautas ir be jų turėjo\npakankamai kariuomenės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35745
+    - t-001

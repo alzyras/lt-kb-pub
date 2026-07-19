@@ -38,8 +38,7 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
 ## Teiginiai
 
 <a id="claim-t-191338"></a>
-- t-001
-  global_id: t-191338
+- t-002
   teiginys: "Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Dardanijoje įveikė ir išvijo gotų kariuomenę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
     - c-174220
 
 <a id="claim-t-194911"></a>
-- t-002
-  global_id: t-194911
+- t-003
   teiginys: "Paskui pamažu, valdant imperatoriui Klaudijui, apie 50 metus po Kristaus gimimo, užėmė žemupius, kuriais vingiavo Tisos upė, ir nugalėjo tenykščius gyventojus slavus, užimdami daug jų miestų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-177307
-    - c-002
 - susijęs iš [[objektai/ivykiai/Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m.md#claim-t-191042|Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m]]: Apie 269 m. Aurelianas Klaudijus prie Naisos Dardanijoje sumušė gotus, tarp kurių, Narbuto pasakojimu, buvo ir herulų.
 - susijęs iš Naisa: Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumušė gotų kariuomenę.
 ## Reikšmingi paminėjimai
@@ -96,8 +93,7 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194911
+
 ## Citatos
 
 - id: c-174220
@@ -120,7 +116,8 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191338
+    - t-002
+
 - id: c-177307
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -135,21 +132,14 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
     noje; jį mini Safaržykas2. Tai auksinė taurė, kuri kartu
     su kitomis brangenybėmis 1799 metais buvo rasta Toron-
     talo komitate, netoli Šv.
-  citata_rodoma: |
-    Maždaug tuo metu, kai
-    Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir
-    Dunojaus prie Juodosios jūros. Paskui pamažu, valdant
-    imperatoriui Klaudijui, apie 50 metus po Kristaus gimimo,
-    užėmė žemupius, kuriais vingiavo Tisos upė, ir nugalėjo
-    tenykščius gyventojus slavus, užimdami daug jų miestų.
-    Vėliau jie prašė padėti kaimynines germanų tautas —■ vik-
-    lofalus ir kvadus, kad šie padėtų nugalėti užkariautojus1.
+  citata_rodoma: "Maždaug tuo metu, kai\nOvidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir\nDunojaus prie Juodosios jūros. Paskui pamažu, valdant\nimperatoriui Klaudijui, apie 50 metus po Kristaus gimimo,\nužėmė žemupius, kuriais vingiavo Tisos upė, ir nugalėjo\ntenykščius gyventojus slavus, užimdami daug jų miestų.\nVėliau jie prašė padėti kaimynines germanų tautas —■ vik-\nlofalus ir kvadus, kad šie padėtų nugalėti užkariautojus1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194911
+    - t-003
+
 ## Ryšiai
 - Aurelianas Klaudijus kariavo prieš [[objektai/grupes/Gotai]]

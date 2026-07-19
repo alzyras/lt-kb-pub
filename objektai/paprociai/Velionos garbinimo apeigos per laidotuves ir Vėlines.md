@@ -47,9 +47,8 @@ Nenurodyta
 
 <a id="claim-t-189948"></a>
 - t-001
-  global_id: t-189948
   teiginys: "Narbutas Velioną (Wellona) apibūdino kaip amžinybės, amžinos vilties ir būsimo pomirtinio gyvenimo deivę."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172831
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Velioną (Wellona) apibūdino kaip amžinybės, amžinos vilties ir būsimo pomirtinio gyvenimo deivę.'
@@ -87,8 +86,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189948
+
 ## Citatos
 
 - id: c-172831
@@ -103,22 +101,11 @@ Nenurodyta
     Zigmantui III. Ši trumpa ekskursija į istoriją remiasi vietinių
     istorijos mokovų apklausa ir klebonijos užrašais, kuriais vie­
     los klebonas leido man pasinaudoti 1805 metais.
-  citata_rodoma: |
-    Veliona (Wellona)
-    Tai buvo garsi amžinybės, amžinos vilties, būsimo pomirti­
-    nio gyvenimo deivė. Lasickis šiame pavadinime klaidingai įžiūri
-    dievą.
-    Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10
-    10 Rėza. Dainos.
-    130
-
-    ## Puslapis 130
-
-    (Giltine)10.
+  citata_rodoma: "Veliona (Wellona)\nTai buvo garsi amžinybės, amžinos vilties, būsimo pomirti­\nnio gyvenimo deivė. Lasickis šiame pavadinime klaidingai įžiūri\ndievą.\nSenovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10\n10 Rėza. Dainos.\n130\n\n## Puslapis 130\n\n(Giltine)10."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189948
+    - t-001

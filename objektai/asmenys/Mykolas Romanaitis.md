@@ -28,7 +28,6 @@ Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo 
 
 <a id="claim-t-202194"></a>
 - t-001
-  global_id: t-202194
   teiginys: "Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo tapo miestietis iš Kauno priemiesčio Raginės Mykolas Romanaitis."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202194
+    - t-001

@@ -37,7 +37,6 @@ Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąj
 
 <a id="claim-t-20039"></a>
 - t-001
-  global_id: t-20039
   teiginys: "1941 m. birželio 28 d. paleidus sukilėlių būrius, iš savanorių prie Kauno karo komendantūros suformuotas TDA batalionas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąj
 
 <a id="claim-t-183187"></a>
 - t-002
-  global_id: t-183187
   teiginys: "Birželio 28 d. prie Kauno karo komendantūros iš savanorių buvo suformuotas Tautinės darbo apsaugos batalionas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -93,15 +91,15 @@ Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąj
     nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai
     paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA)
     batalionas prie Kauno karo komendantūros.
-  citata_rodoma: |
-    paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA)
+  citata_rodoma: "paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA)"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20039
+    - t-001
+
 - id: c-166574
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -125,4 +123,4 @@ Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183187
+    - t-002

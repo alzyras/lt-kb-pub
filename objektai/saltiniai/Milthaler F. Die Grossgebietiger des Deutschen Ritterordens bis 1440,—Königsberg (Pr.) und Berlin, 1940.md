@@ -38,7 +38,6 @@ Dusburgietis teigia, kad milthaler F.
 
 <a id="claim-t-61182"></a>
 - t-001
-  global_id: t-61182
   teiginys: "F. Milthalerio „Die Grossgebietiger des Deutschen Ritterordens bis 1440“ išleista Karaliaučiuje ir Berlyne 1940 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,7 @@ Dusburgietis teigia, kad milthaler F.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidimo vietas ir metus."
   pagrindžia:
     - c-61814
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'F. Milthalerio „Die Grossgebietiger des Deutschen Ritterordens bis 1440“ išleista Karaliaučiuje ir Berlyne 1940 m.'
@@ -68,8 +67,7 @@ Dusburgietis teigia, kad milthaler F.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61182
+
 ## Citatos
 
 - id: c-61814
@@ -80,13 +78,11 @@ Dusburgietis teigia, kad milthaler F.
     2: wiek XIV i XV,—Warszawa, 1896.
     Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg
     (Pr.) und Berlin, 1940.
-  citata_rodoma: |
-    Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg
-    (Pr.) und Berlin, 1940.
+  citata_rodoma: "Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg\n(Pr.) und Berlin, 1940."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61182
+    - t-001

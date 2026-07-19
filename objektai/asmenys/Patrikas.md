@@ -43,8 +43,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 ## Teiginiai
 
 <a id="claim-t-121122"></a>
-- t-001
-  global_id: t-121122
+- t-003
   teiginys: "Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 
 <a id="claim-t-121123"></a>
 - t-002
-  global_id: t-121123
   teiginys: "1365 m. Patrikas su Kęstučiu, Algirdu ir Aleksandru įsiveržė į Ordino valdas ir jas nuniokojo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -84,8 +82,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - c-111010
 
 <a id="claim-t-184816"></a>
-- t-003
-  global_id: t-184816
+- t-004
   teiginys: "Kojelavičiaus pasakojime Patrikas puolė gelbėti į priešų rankas patekusio tėvo Kęstučio, bet kryžiuotis Henrikas Hochbergas ietimi nutrenkė jį nuo žirgo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -106,8 +103,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - c-168177
 
 <a id="claim-t-188603"></a>
-- t-004
-  global_id: t-188603
+- t-001
   teiginys: "Narbutas Patriką įvardija kaip vieną iš Kęstučio sūnų, gimusių iš žmonos, kurią Kęstutis, jo pasakojimu, vedė Naujuosiuose Trakuose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -128,8 +124,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - c-171492
 
 <a id="claim-t-196577"></a>
-- t-005
-  global_id: t-196577
+- t-006
   teiginys: "Kojelavičiaus pasakojime Patrikas, pamatęs tėvui Kęstučiui gresiantį pavojų, puolė prie susigrūdusių priešų norėdamas jam padėti."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -162,17 +157,15 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     stipresnė. Iš Gedimino giminės ten buvo paskutinis kunigaikštis
     Jogailos pusbrolis Patrikas, prie Strėvos (1348) žuvusio Narimanto
     sūnus. Bet po Kulikovo pergalės (1380) Patrikas Didž.
-  citata_rodoma: |
-    Iš Gedimino giminės ten buvo paskutinis kunigaikštis
-    Jogailos pusbrolis Patrikas, prie Strėvos (1348) žuvusio Narimanto
-    sūnus. Bet po Kulikovo pergalės (1380) Patrikas Didž.
+  citata_rodoma: "Iš Gedimino giminės ten buvo paskutinis kunigaikštis\nJogailos pusbrolis Patrikas, prie Strėvos (1348) žuvusio Narimanto\nsūnus. Bet po Kulikovo pergalės (1380) Patrikas Didž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-121122
+    - t-003
+
 - id: c-111010
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -184,18 +177,15 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     belaisvį (SRP, 2, 349); 1378 m., kai Kęstutis sunaikino Ekersbergo pilį, jo kariai norėję
     paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
     (SRP, 2, 596).
-  citata_rodoma: |
-    1365 m. Kęstutis,
-    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
-    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
-    belaisvį (SRP, 2, 349); 1378 m.
+  citata_rodoma: "1365 m. Kęstutis,\nAlgirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo\nžygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį\nbelaisvį (SRP, 2, 349); 1378 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-121123
+    - t-002
+
 - id: c-168177
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -227,43 +217,16 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     kutiniųjų kovėsi kalaviju pėsčiomis, tačiau negalėjo
     įveikti galybės priešų; tuo metu keli lietuvių būriai,
     smogę pleišto rikiuote, nuvijo priešą, išvadavo kuni­
-  citata_rodoma: |
-    Kęstutį, kuris ban­
-    dė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar­
-    ką irstančioje rikiuotėje, galingais kalavijo smūgiais
-    atremdamas kiekvieną narsų priešą, nubloškė nuo žir­
-    go Henrikas Ekersbergas, riteris paauksuotais šarvais,
-    kuris smogė arkliui ietimi iš šono; netrukus apsuptas
-    subėgusiųjų, jis pateko į priešų rankas. Išvydo tėvui
-    gresiantį pavojų jo sūnus Patrikas ir nelyginant įgel­
-    tas (jis buvo tauraus būdo ir
-    S ū n au s
-    m eilė
-    tė v u i
-    labai mylėjo tėvą) pavarė
-    ir karių  m e ilė v a d u i
-    žirgą link susigrūdusių prie­
-    šų, norėdamas pagelbėti tė­
-    vui; aklai kalaviju skindamasis kelią prie tėvo, jis
-    susilaukė bemaž tokio pat likimo: kryžiuotis Henri­
-    kas Hochbergas ietimi nutrenkė jį nuo žirgo. Jis iš pas­
-    kutiniųjų kovėsi kalaviju pėsčiomis, tačiau negalėjo
-    įveikti galybės priešų; tuo metu keli lietuvių būriai,
-    smogę pleišto rikiuote, nuvijo priešą, išvadavo kuni­
-    244
-
-    ## Puslapis 243
-
-    gaikštį ir išsigabeno iš mūšio lauko, neiškrikdami iš
-    rikiuotės.
+  citata_rodoma: "Kęstutį, kuris ban­\ndė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar­\nką irstančioje rikiuotėje, galingais kalavijo smūgiais\natremdamas kiekvieną narsų priešą, nubloškė nuo žir­\ngo Henrikas Ekersbergas, riteris paauksuotais šarvais,\nkuris smogė arkliui ietimi iš šono; netrukus apsuptas\nsubėgusiųjų, jis pateko į priešų rankas. Išvydo tėvui\ngresiantį pavojų jo sūnus Patrikas ir nelyginant įgel­\ntas (jis buvo tauraus būdo ir\nS ū n au s\nm eilė\ntė v u i\nlabai mylėjo tėvą) pavarė\nir karių  m e ilė v a d u i\nžirgą link susigrūdusių prie­\nšų, norėdamas pagelbėti tė­\nvui; aklai kalaviju skindamasis kelią prie tėvo, jis\nsusilaukė bemaž tokio pat likimo: kryžiuotis Henri­\nkas Hochbergas ietimi nutrenkė jį nuo žirgo. Jis iš pas­\nkutiniųjų kovėsi kalaviju pėsčiomis, tačiau negalėjo\nįveikti galybės priešų; tuo metu keli lietuvių būriai,\nsmogę pleišto rikiuote, nuvijo priešą, išvadavo kuni­\n244\n\n## Puslapis 243\n\ngaikštį ir išsigabeno iš mūšio lauko, neiškrikdami iš\nrikiuotės."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184816
-    - t-196577
+    - t-004
+    - t-006
+
 - id: c-171492
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -280,23 +243,15 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
     tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
     minimo ir garbinimo apeigos.
-  citata_rodoma: |
-    Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
-    Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
-    nė, būdama gyva, garsėjo savo kilniaširdiškumu.
+  citata_rodoma: "Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją\nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį\nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip\nžmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,\nSigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­\nnė, būdama gyva, garsėjo savo kilniaširdiškumu."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188603
+    - t-001
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
 - Patrikas (kunigaikštis, XIV a.) puolė [[objektai/vietos/Skalva]], [[objektai/vietos/Skalvos žemė]]

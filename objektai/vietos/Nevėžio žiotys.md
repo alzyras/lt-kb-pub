@@ -31,7 +31,6 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
 
 <a id="claim-t-41975"></a>
 - t-001
-  global_id: t-41975
   teiginys: "Kęstutis statydino Naująjį Kauną Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,16 +62,11 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
     (greičiausiai per Nemuno senvagę į salą).
     Tiltas galuose turėjo du gynybinius bokš-
     tus.
-  citata_rodoma: |
-    Siekdamas atkurti gynybą Nemuno-
-    Neries-Nevėžio žiočių ruože, Kęstutis
-    statydino pilį Nevėžio žiočių Vyrgalės sa-
-    loje - Naująjį Kauną ir „tiltą per Nemuną“
-    (greičiausiai per Nemuno senvagę į salą).
+  citata_rodoma: "Siekdamas atkurti gynybą Nemuno-\nNeries-Nevėžio žiočių ruože, Kęstutis\nstatydino pilį Nevėžio žiočių Vyrgalės sa-\nloje - Naująjį Kauną ir „tiltą per Nemuną“\n(greičiausiai per Nemuno senvagę į salą)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41975
+    - t-001

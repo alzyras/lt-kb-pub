@@ -40,8 +40,7 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
 ## Teiginiai
 
 <a id="claim-t-82773"></a>
-- t-001
-  global_id: t-82773
+- t-003
   teiginys: "Popiežius Urbonas VI per pasiuntinį Dobrogostą paskelbė bulę, kuria Vilniaus bažnyčia pripažinta katedra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
 
 <a id="claim-t-82774"></a>
 - t-002
-  global_id: t-82774
   teiginys: "Urbonas VI per pasiuntinį Dobrogostą patvirtino Vilniaus katedrą ir vyskupą Andrių Vilniaus vyskupijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
     - c-79209
 
 <a id="claim-t-82775"></a>
-- t-003
-  global_id: t-82775
+- t-001
   teiginys: "Popiežius Urbonas VI išgyrė apsikrikštijusius lietuvius ir įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -113,7 +110,8 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82775
+    - t-001
+
 - id: c-79208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -136,7 +134,8 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82773
+    - t-003
+
 - id: c-79209
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -159,6 +158,7 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82774
+    - t-002
+
 ## Ryšiai
 - Urbonas VI paskyrė [[objektai/asmenys/Dobrogostas]]

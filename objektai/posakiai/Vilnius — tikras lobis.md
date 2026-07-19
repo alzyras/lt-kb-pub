@@ -28,7 +28,6 @@ Mikalojus Vorobjovas Vilnių vadino lobiu meno istorijos studijoms, nes miesto p
 
 <a id="claim-t-200840"></a>
 - t-001
-  global_id: t-200840
   teiginys: "Mikalojus Vorobjovas Vilnių vadino lobiu meno istorijos studijoms, nes miesto paminklai rodo Europos stilių raidą nuo gotikos iki empiro."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Mikalojus Vorobjovas Vilnių vadino lobiu meno istorijos studijoms, nes miesto p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200840
+    - t-001

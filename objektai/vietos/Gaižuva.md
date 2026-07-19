@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-32157"></a>
 - t-001
-  global_id: t-32157
   teiginys: "1292 ir 1294 m. Ordino kariuomenė nusiaubė Gaižuvos sritį prie Nemuno dešiniojo kranto tarp Dubysos ir Nevėžio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ media_all_json: |-
 
 <a id="claim-t-196681"></a>
 - t-002
-  global_id: t-196681
   teiginys: "Magistras Meinhardas su kariauna, kurioje buvo tūkstantis kryžiuočių riterių, įsiveržė į Lietuvą ir nusiaubė Paštuvos bei Gaižuvos valsčius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -110,19 +108,15 @@ media_all_json: |-
     nusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­
     stovie ») sritis^27. 0 1295 kryžiuočiai sunaikino prie Nemuno stiprią
     pilį « Kymel »^28.
-  citata_rodoma: |
-    Taip pat du kartu (1292, 1294) ordino kariuomenė
-    pasiekė Nemuno dešiniojo kranto sritis tarp Dubysos ir Nevėžio,
-    nusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­
-    stovie ») sritis^27. 0 1295 kryžiuočiai sunaikino prie Nemuno stiprią
-    pilį « Kymel »^28.
+  citata_rodoma: "Taip pat du kartu (1292, 1294) ordino kariuomenė\npasiekė Nemuno dešiniojo kranto sritis tarp Dubysos ir Nevėžio,\nnusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­\nstovie ») sritis^27. 0 1295 kryžiuočiai sunaikino prie Nemuno stiprią\npilį « Kymel »^28."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32157
+    - t-001
+
 - id: c-178837
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -150,4 +144,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196681
+    - t-002

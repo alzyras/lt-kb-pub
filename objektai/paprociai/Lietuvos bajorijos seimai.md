@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-67147"></a>
 - t-001
-  global_id: t-67147
   teiginys: "Sprendžiant Lietuvos santykius su Lenkija, bajorijos nuomonė ir pritarimas buvo svarbūs, nes Lietuva rėmėsi visuomenės balsu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Nenurodyta
     - c-67164
 
 <a id="claim-t-67148"></a>
-- t-002
-  global_id: t-67148
+- t-003
   teiginys: "Nuo XVI a. vidurio Lietuvos bajorijos seimas tapo toks įtakingas, kad be jo nebūdavo sprendžiamas joks svarbesnis reikalas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,8 +69,7 @@ Nenurodyta
     - c-67162
 
 <a id="claim-t-67150"></a>
-- t-003
-  global_id: t-67150
+- t-004
   teiginys: "Lietuvos bajorijos seimai pirmiausia buvo reikalingi renkant naują didįjį kunigaikštį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +79,7 @@ Nenurodyta
     - c-67161
 
 <a id="claim-t-67151"></a>
-- t-004
-  global_id: t-67151
+- t-002
   teiginys: "Į Lietuvos bajorijos seimus atvykdavo ponų taryba, aukštesnieji valstybės urėdai ir norintys dalyvauti bajorai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,7 +107,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67150
+    - t-004
+
 - id: c-67162
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -134,7 +131,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67148
+    - t-003
+
 - id: c-67163
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -155,7 +153,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67151
+    - t-002
+
 - id: c-67164
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -175,4 +174,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67147
+    - t-001

@@ -30,8 +30,7 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
 ## Teiginiai
 
 <a id="claim-t-78881"></a>
-- t-001
-  global_id: t-78881
+- t-002
   teiginys: "Aukso ordos chanas Timūr-Kutlukas įsijungė į mūšį su didele totorių jėga ir nugalėjo Vytautą bei Lietuvos kariuomenę."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
     - c-44153
 
 <a id="claim-t-78882"></a>
-- t-002
-  global_id: t-78882
+- t-001
   teiginys: "Prieš mūšį Vytautas pokalbyje su chanu Timūr-Kutluku tarsi reikalavo pavaldumo ir Ordos pinigų žymėjimo Vytauto ženklu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -66,7 +64,6 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
 
 <a id="claim-t-78883"></a>
 - t-003
-  global_id: t-78883
   teiginys: "Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -164,7 +161,8 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78881
+    - t-002
+
 - id: c-75997
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -185,7 +183,8 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78882
+    - t-001
+
 - id: c-75998
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -209,4 +208,4 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78883
+    - t-003

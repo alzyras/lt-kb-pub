@@ -42,36 +42,11 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189646"></a>
-- t-001
-  global_id: t-189646
-  teiginys: 'Narbutas perteikė latvių pasakojimą, kad Saulė aštriu kardu perkirto Mėnesį už meilę Aušrinei.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Mitologinis pasakojimas išlaikytas kaip Narbuto perteikiama latvių tradicija. Nepridėta alternatyvi versija apie Perkūną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]'
-  pagrindžia:
-    - c-172529
-
-<a id="claim-t-194617"></a>
-- t-002
-  global_id: t-194617
-  teiginys: 'Nakties karalius, laiko tarpsnių valdovas (laikas bu vo skaičiuojamas mėnesiais), tačiau nepastoviai judantis ir keičiantis pavidalą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-177016
-
-## Citatos
-
-- id: c-172529
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas perteikė latvių pasakojimą, kad Saulė aštriu kardu perkirto Mėnesį už meilę Aušrinei.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Mėnuo viens vaikštinėjo,
     Aušrinę pamylėjo.
@@ -85,17 +60,14 @@ Nenurodyta
     ## Puslapis 187
 
     Jį kardu padalijo.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189646
-- id: c-177016
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  statusas: verified
+- c-002
+  santrauka: 'Nakties karalius, laiko tarpsnių valdovas (laikas bu vo skaičiuojamas mėnesiais), tačiau nepastoviai judantis ir keičiantis pavidalą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Mėnuo (Menuo*)
     Šis vardas visose lietuvių kalbos tarmėse yra vyriškos gi­
@@ -113,10 +85,8 @@ Nenurodyta
     Saulė, perkirsdama jį aštriu kalaviju pusiau, todėl kartą per
     ketvirtį jis toks pasirodo. Labiau paplitusi nuomonė, kad Per­
     kūnas perkirto Mėnesį.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194617
+  statusas: verified

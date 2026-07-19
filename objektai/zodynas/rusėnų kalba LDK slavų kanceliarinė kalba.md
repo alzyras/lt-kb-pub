@@ -31,7 +31,6 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
 
 <a id="claim-t-22294"></a>
 - t-001
-  global_id: t-22294
   teiginys: "Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
 
 <a id="claim-t-22295"></a>
 - t-002
-  global_id: t-22295
   teiginys: "Filologai LDK raštinėse vyravusią raštijos kalbą siūlo vadinti rusėnų kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,15 +74,15 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
     spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
     tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
     bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
-  citata_rodoma: |
-    spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
+  citata_rodoma: "spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22294
+    - t-001
+
 - id: c-24984
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -94,12 +92,11 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
     net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse
     vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba, o rusėnais – LDK ir
     Lenkijos valstybėse gyvenusius rytų slavus.
-  citata_rodoma: |
-    net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse
+  citata_rodoma: "net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22295
+    - t-002

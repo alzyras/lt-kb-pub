@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185697"></a>
 - t-001
-  global_id: t-185697
   teiginys: "Lietuvos Braste Jogaila, Vytautas ir Kojelavičiaus skitų chanu vadinamas sąjungininkas nutarė pradėti bendrą karą prieš kryžiuočius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -98,4 +97,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185697
+    - t-001

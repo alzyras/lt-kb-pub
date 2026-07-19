@@ -37,7 +37,6 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
 
 <a id="claim-t-69974"></a>
 - t-001
-  global_id: t-69974
   teiginys: "1941 m. birželio 27 d. Kauno „Lietūkio“ garaže lietuviai dalyvavo SD inspiruotame žiauriame pogrome."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,9 +54,9 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
   pagrindžia:
     - c-69157
     - c-167042
+
 <a id="claim-t-69975"></a>
 - t-002
-  global_id: t-69975
   teiginys: "1941 m. birželio 27 d. „Lietūkio“ garaže vyko žydų žudynės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,15 +94,15 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
     bet ir žmoniškąsias vertybes), susiformavo dalies visuomenės įvaizdis,
     Žydų žudynės „Lietūkio“ garaže 1941 m. birželio 27 d.
     (R. Mičiūno reprodukcija)
-  citata_rodoma: |
-    Žydų žudynės „Lietūkio“ garaže 1941 m. birželio 27 d.
+  citata_rodoma: "Žydų žudynės „Lietūkio“ garaže 1941 m. birželio 27 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69975
+    - t-002
+
 - id: c-69157
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -120,15 +119,15 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
     inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
     27 – Kauno „Lietūkio“ garaže, nors SD einzatsgrupių vadų raportuose
     sakoma, kad surengti pogromus buvo nelengva.
-  citata_rodoma: |
-    inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
+  citata_rodoma: "inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69974
+    - t-001
+
 - id: c-167042
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -149,3 +148,5 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

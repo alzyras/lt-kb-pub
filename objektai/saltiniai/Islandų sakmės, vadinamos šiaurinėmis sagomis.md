@@ -30,7 +30,6 @@ Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurl
 
 <a id="claim-t-191841"></a>
 - t-001
-  global_id: t-191841
   teiginys: "Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurlamą, kurį Torfėjo chronologija siejo su III amžiumi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191841
+    - t-001

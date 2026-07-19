@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201299"></a>
 - t-001
-  global_id: t-201299
   teiginys: "Nuo to gi gal lemti, jog ta pasaka galėjo bū ti pradžioj yna, bet paskui yra pertaisyta nuo kokio noris zokanyko gudo arba vokyčio 15 ar 16 amžiuj, kaipogi daugioj vietoj pati pasaka sau prieštarauja, bylodama, jog pirmąją žinyčią Rusnėj viešpats Bratenis."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184649
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mėklinantis į visą tą pasaką, gal regėti ją sutin­
     kančią daugioj vietoj su pasakomis viršiaus mina-
@@ -81,4 +81,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201299
+    - t-001

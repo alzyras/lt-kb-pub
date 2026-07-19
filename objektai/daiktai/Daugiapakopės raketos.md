@@ -65,8 +65,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45476"></a>
-- t-001
-  global_id: t-45476
+- t-010
   teiginys: "Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -82,8 +81,7 @@ Nenurodyta
     - c-48266
 
 <a id="claim-t-45477"></a>
-- t-002
-  global_id: t-45477
+- t-007
   teiginys: "Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ buvo išdėstyta daugiapakopių raketų teorija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -102,8 +100,7 @@ Nenurodyta
     - c-22227
 
 <a id="claim-t-45479"></a>
-- t-003
-  global_id: t-45479
+- t-008
   teiginys: "K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -134,16 +131,15 @@ Nenurodyta
     Yra ir kitas senojo Vilniaus universiteto
     istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
     K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
-  citata_rodoma: |
-    Nuo XIV a. ryčiausias Europoje du amžius
-    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
+  citata_rodoma: "Nuo XIV a. ryčiausias Europoje du amžius\nK. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45479
+    - t-008
+
 - id: c-22227
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -158,17 +154,15 @@ Nenurodyta
     („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
     ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
     orija.
-  citata_rodoma: |
-    Jame randame šiuolaikinės artilerijos
-    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
-    orija.
+  citata_rodoma: "Jame randame šiuolaikinės artilerijos\nir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-\norija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45477
+    - t-007
+
 - id: c-48266
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -182,18 +176,11 @@ Nenurodyta
     orija.
     XVII–XVIII a. barokinį kraštovaizdį architektūroje ir dailėje taip pat
     nulėmė jėzuitai.
-  citata_rodoma: |
-    Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
-    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
-    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
-    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
-    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
-    orija.
-    XVII–XVIII a.
+  citata_rodoma: "Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė \nsolidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu \ndarbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ \n(„Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos \nir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-\norija. \nXVII–XVIII a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45476
+    - t-010

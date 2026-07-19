@@ -66,7 +66,6 @@ Sukilimo organizacinis komitetas.
 
 <a id="claim-t-55097"></a>
 - t-001
-  global_id: t-55097
   teiginys: "Vilniuje vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, susikūrė sukilimo centrinis komitetas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -86,7 +85,6 @@ Sukilimo organizacinis komitetas.
 
 <a id="claim-t-55098"></a>
 - t-002
-  global_id: t-55098
   teiginys: "Vilniaus sukilimo centriniam komitetui priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Leonas Rogalskis, Edvardas Riomeris, Mykolas Balinskis ir Liudvikas Zambrzyckis."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -106,7 +104,6 @@ Sukilimo organizacinis komitetas.
 
 <a id="claim-t-55099"></a>
 - t-003
-  global_id: t-55099
   teiginys: "Vilniaus sukilimo centrinis komitetas turėjo organizuoti sukilimą vakarinėse Rusijos imperijos gubernijose."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -126,7 +123,6 @@ Sukilimo organizacinis komitetas.
 
 <a id="claim-t-81728"></a>
 - t-004
-  global_id: t-81728
   teiginys: "Vėlyvą 1830 m. rudenį Vilniuje susikūręs sukilimo centrinis komitetas turėjo organizuoti sukilimą vakarinėse Rusijos imperijos gubernijose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -167,7 +163,7 @@ Sukilimo organizacinis komitetas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55097
-    - t-55098
-    - t-55099
-    - t-81728
+    - t-001
+    - t-002
+    - t-003
+    - t-004

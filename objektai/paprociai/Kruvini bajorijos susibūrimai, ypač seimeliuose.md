@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-67132"></a>
 - t-001
-  global_id: t-67132
   teiginys: "Per vieną bajorų susibūrimą įsiaudrinusi minia po naktinių išgertuvių apsupo vienuolyną ir reikalavo belaisvio mirties."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-67133"></a>
 - t-002
-  global_id: t-67133
   teiginys: "Kruvinų susidūrimų pasitaikydavo dažnuose bajorijos susibūrimuose, ypač seimeliuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,17 +80,15 @@ Nenurodyta
     Visa tai labai charakteringa to meto bajorijos nuotaikai ir jos
     veikimo būdui. Šitokių kruvinų vaizdų atsitikdavo dažnuose bajorijos
     susibūrimuose, o ypač seimeliuose.
-  citata_rodoma: |
-    Visa tai labai charakteringa to meto bajorijos nuotaikai ir jos
-    veikimo būdui. Šitokių kruvinų vaizdų atsitikdavo dažnuose bajorijos
-    susibūrimuose, o ypač seimeliuose.
+  citata_rodoma: "Visa tai labai charakteringa to meto bajorijos nuotaikai ir jos\nveikimo būdui. Šitokių kruvinų vaizdų atsitikdavo dažnuose bajorijos\nsusibūrimuose, o ypač seimeliuose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67133
+    - t-002
+
 - id: c-67158
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -102,14 +98,11 @@ Nenurodyta
     Tuo tarpu bajorų minia lauke siuto. Per naktį miestely girtuoklia-
     vusi ir siautėjusi, rytą minia apsupo vienuolyną, reikalaudama be-
     laisviui mirties.
-  citata_rodoma: |
-    Tuo tarpu bajorų minia lauke siuto. Per naktį miestely girtuoklia-
-    vusi ir siautėjusi, rytą minia apsupo vienuolyną, reikalaudama be-
-    laisviui mirties.
+  citata_rodoma: "Tuo tarpu bajorų minia lauke siuto. Per naktį miestely girtuoklia-\nvusi ir siautėjusi, rytą minia apsupo vienuolyną, reikalaudama be-\nlaisviui mirties."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67132
+    - t-001

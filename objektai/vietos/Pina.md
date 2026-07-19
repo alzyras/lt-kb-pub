@@ -31,7 +31,6 @@ Pinskas lokalizuojamas prie Pinos upės.
 
 <a id="claim-t-187287"></a>
 - t-001
-  global_id: t-187287
   teiginys: "Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -63,16 +62,11 @@ Pinskas lokalizuojamas prie Pinos upės.
     intako).
     * Lietuvių kunigaikštis Kukovaitis patikimuose šaltiniuose ne­
     paliudytas.
-  citata_rodoma: |
-    Pinskas — viena iš Turovo-Pinsko kunigaikštystės sostinių,
-    dabar BTSR Bresto sr. miestas (prie Pinos up., Pripetės kairiojo
-    intako).
-    *  Lietuvių kunigaikštis Kukovaitis patikimuose šaltiniuose ne­
-    paliudytas.
+  citata_rodoma: "Pinskas — viena iš Turovo-Pinsko kunigaikštystės sostinių, \ndabar BTSR Bresto sr. miestas (prie Pinos up., Pripetės kairiojo \nintako).\n*  Lietuvių kunigaikštis Kukovaitis patikimuose šaltiniuose ne­\npaliudytas."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187287
+    - t-001

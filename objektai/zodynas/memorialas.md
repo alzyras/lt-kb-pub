@@ -37,7 +37,6 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
 
 <a id="claim-t-03078"></a>
 - t-001
-  global_id: t-03078
   teiginys: "1811 m. carui buvo įteiktas memorialas dėl autonomiškos valstybės sudarymo iš buvusių Lietuvos Didžiosios Kunigaikštijos žemių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
 
 <a id="claim-t-182960"></a>
 - t-002
-  global_id: t-182960
   teiginys: "Antrajame memoriale Oginskis pabrėžė, kad be savarankiškos organizacijos Lietuva negalėjo sudaryti kariuomenės."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -91,20 +89,15 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
     kė carui memorialą — ku-
     nigaikštijos sudarymo pro-
     jektą.
-  citata_rodoma: |
-    Jis pats tuo tarpu pradėjo
-    rūpintis, kad iš buvusių didžiosios Lietuvos kunigaikštijos že-
-    mių būtų sudaryta autonomiška valstybė; tam tikslui 1811 m. įtei-
-    kė carui memorialą — ku-
-    nigaikštijos sudarymo pro-
-    jektą.
+  citata_rodoma: "Jis pats tuo tarpu pradėjo\nrūpintis, kad iš buvusių didžiosios Lietuvos kunigaikštijos že-\nmių būtų sudaryta autonomiška valstybė; tam tikslui 1811 m. įtei-\nkė carui memorialą — ku-\nnigaikštijos sudarymo pro-\njektą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03078
+    - t-001
+
 - id: c-166359
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -125,4 +118,4 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182960
+    - t-002

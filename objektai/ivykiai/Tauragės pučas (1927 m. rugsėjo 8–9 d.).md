@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20516"></a>
 - t-001
-  global_id: t-20516
   teiginys: "1927 m. rugsėjo 8–9 d. socialdemokratų ginkluotas sukilimas laikinai pavyko tik Tauragėje, bet valdžia jį nuslopino."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,12 +84,11 @@ Nenurodyta
     pučus keliose apskrityse. Sukilimas kuriam laikui pavyko tik Tauragėje,
     buvo perimtas vadovavimas miestui, tačiau valdžia jį nuslopino, daugu-
     mą jo dalyvių suėmė ir nuteisė.
-  citata_rodoma: |
-    pučus keliose apskrityse. Sukilimas kuriam laikui pavyko tik Tauragėje,
+  citata_rodoma: "pučus keliose apskrityse. Sukilimas kuriam laikui pavyko tik Tauragėje,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20516
+    - t-001

@@ -32,7 +32,6 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
 
 <a id="claim-t-19083"></a>
 - t-001
-  global_id: t-19083
   teiginys: "Didysis komtūras Kuno Lichtenšteinas mūšio pradžioje vedė Ordino svečių ir samdinių sunkiosios raitijos pleištą prieš lietuvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
 
 <a id="claim-t-183557"></a>
 - t-002
-  global_id: t-183557
   teiginys: "Žalgirio mūšio pradžioje didysis komtūras Kuno Lichtenšteinas vedė sunkiosios raitijos pleištą prieš lietuvius."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -79,15 +77,15 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
     nukreiptas prieš lenkus, kitas – prieš lietuvius – sudarė frontą. Prasidėjus
     mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto,
     vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.
-  citata_rodoma: |
-    mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto,
+  citata_rodoma: "mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19083
+    - t-001
+
 - id: c-166950
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -105,4 +103,4 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183557
+    - t-002

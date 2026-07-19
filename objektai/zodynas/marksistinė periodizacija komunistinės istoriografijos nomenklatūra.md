@@ -39,8 +39,7 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
 ## Teiginiai
 
 <a id="claim-t-28544"></a>
-- t-001
-  global_id: t-28544
+- t-002
   teiginys: "Tarybiniai istorikai, taikydami komunistinės istoriografijos nomenklatūrą Lietuvos istorijai, išskyrė du ryškius laikotarpius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
     - c-28448
 
 <a id="claim-t-28545"></a>
-- t-002
-  global_id: t-28545
+- t-003
   teiginys: "Ivinskio vertinimu, marksistinė Lietuvos istorijos periodizacija buvo svetima lietuvių tautos istorijos faktams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
     - c-28449
 
 <a id="claim-t-28546"></a>
-- t-003
-  global_id: t-28546
+- t-001
   teiginys: "Marksistinė Lietuvos istorijos periodizacija feodalizmo epochą skirstė į feodalinių santykių atsiradimą, baudžiavos įsigalėjimą ir jos irimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +110,8 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28544
+    - t-002
+
 - id: c-28449
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -130,7 +128,8 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28545
+    - t-003
+
 - id: c-28450
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -149,4 +148,4 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28546
+    - t-001

@@ -31,7 +31,6 @@ Medžiojnomis Narbutas vadina miško nimfas, globojusias tankmes ir, jo aiškini
 
 <a id="claim-t-189310"></a>
 - t-001
-  global_id: t-189310
   teiginys: "Medžiojnomis Narbutas vadina miško nimfas, globojusias tankmes ir, jo aiškinimu, galėjusias žmonėms kenkti arba padėti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Medžiojnomis Narbutas vadina miško nimfas, globojusias tankmes ir, jo aiškini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189310
+    - t-001

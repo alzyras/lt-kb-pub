@@ -31,7 +31,6 @@ Narbutas nurodo, kad Lukas Davidas prūsus kildino iš gotų ir Romonės šventy
 
 <a id="claim-t-190107"></a>
 - t-001
-  global_id: t-190107
   teiginys: "Narbutas nurodo, kad Lukas Davidas prūsus kildino iš gotų ir Romonės šventyklą su Krivių Krivaičiu siejo su gotų ar švedų papročiu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbutas nurodo, kad Lukas Davidas prūsus kildino iš gotų ir Romonės šventy
 
 <a id="claim-t-190108"></a>
 - t-002
-  global_id: t-190108
   teiginys: "Narbutas svarsto, kad Lukas Davidas žinią apie vyriausiuosius žynius galėjo imti iš vyskupo Kristijono kronikos ištraukų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,8 @@ Narbutas nurodo, kad Lukas Davidas prūsus kildino iš gotų ir Romonės šventy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190107
+    - t-001
+
 - id: c-172991
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -118,4 +117,4 @@ Narbutas nurodo, kad Lukas Davidas prūsus kildino iš gotų ir Romonės šventy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190108
+    - t-002

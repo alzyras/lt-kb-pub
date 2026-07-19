@@ -45,8 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01908"></a>
-- t-001
-  global_id: t-01908
+- t-002
   teiginys: "XVII amžiuje, nuo Vladislovo Vazos laikų lietuviams ėmus karalius rinkti bendrai su lenkais, atskiri Lietuvos seimai ėmė nykti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Nenurodyta
     - c-02146
 
 <a id="claim-t-01910"></a>
-- t-002
-  global_id: t-01910
+- t-001
   teiginys: "Karalius ne kartą, nepaisydamas unijos akto nuostatų, sušaukdavo atskirus Lietuvos seimus, ypač karo su Maskva metu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,17 +91,15 @@ Nenurodyta
     jais tik per delegatus. Bet XVII amžiuje, kai, pradedant Vladis-
     lovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie
     atskiri Lietuvos seimai ėmė nykti.
-  citata_rodoma: |
-    Bet XVII amžiuje, kai, pradedant Vladis-
-    lovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie
-    atskiri Lietuvos seimai ėmė nykti.
+  citata_rodoma: "Bet XVII amžiuje, kai, pradedant Vladis-\nlovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie\natskiri Lietuvos seimai ėmė nykti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01908
+    - t-002
+
 - id: c-02147
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -115,15 +111,11 @@ Nenurodyta
     akto nuostatus, net pats karalius sušaukdavo atskirus seimus.
     Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant
     karui su Maskva (mat, jis nelietė Lenkijos).
-  citata_rodoma: |
-    Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos
-    akto nuostatus, net pats karalius sušaukdavo atskirus seimus.
-    Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant
-    karui su Maskva (mat, jis nelietė Lenkijos).
+  citata_rodoma: "Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos\nakto nuostatus, net pats karalius sušaukdavo atskirus seimus.\nYpač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant\nkarui su Maskva (mat, jis nelietė Lenkijos)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01910
+    - t-001

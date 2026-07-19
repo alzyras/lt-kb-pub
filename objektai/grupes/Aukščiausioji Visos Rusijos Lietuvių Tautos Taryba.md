@@ -32,7 +32,6 @@ Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiaus
 
 <a id="claim-t-193301"></a>
 - t-001
-  global_id: t-193301
   teiginys: "Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba, kurią sudarė įvairių partijų atstovai, sušaukti į suvažiavimą trijų pasižymėjusių vyrų — Pr."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193301
+    - t-001

@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201345"></a>
 - t-001
-  global_id: t-201345
   teiginys: "Vilhelmu, popiežiaus siuntiniu, pas danų viešpatį, idant veikesniai galėtų tūlas netaikąs sulyginti ir sutaikinti, vienok metuose 1238, 9 dienoj gegužės mėnesio tas netaikąs beužbengė akivaizdoj viešpaties Eriko ir danų diduomenės; viešpats danų gavo pilį."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184695
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskui skubiniai iškeliavo su v. Vilhelmu,
     popiežiaus siuntiniu, pas danų viešpatį, idant vei-
@@ -82,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201345
+    - t-001

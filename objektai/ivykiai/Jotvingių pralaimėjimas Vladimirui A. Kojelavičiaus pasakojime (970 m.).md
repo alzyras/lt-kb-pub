@@ -41,33 +41,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-185709"></a>
-- t-001
-  global_id: t-185709
-  teiginys: "Kojelavičiaus pasakojime jotvingiai buvo Vladimiro įveikti, pavergti ir įpareigoti kasmet mokėti nustatytą duoklę."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Lietuviai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai vadina jotvingių tautą lietuvių sąjungininke."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Jotvingiai kariavo prieš Rusai (0.88)"
-  temporaliniai_duomenys: "įvykio data: 970 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia įvykio aprašymą, o pradinis teiginys nukrypsta į OCR sugadintą šalutinį fragmentą."
-  pagrindžia:
-    - c-169070
-
 <a id="claim-t-196171"></a>
 - t-002
-  global_id: t-196171
   teiginys: "Kojelavičius rašo, kad Vladimiras, atsiteisdamas už tėvo nesėkmę, prie rusų valstybės prijungė kaimynų žemes, tarp jų kai kas minėjo ir rusų Lietuvą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -117,5 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185709
-    - t-196171
+    - t-002

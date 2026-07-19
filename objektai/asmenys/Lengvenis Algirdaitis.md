@@ -31,7 +31,6 @@ Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
 
 <a id="claim-t-47959"></a>
 - t-001
-  global_id: t-47959
   teiginys: "Lengvenis kartu su Švitrigaila ir Kaributu lydėjo Vytautą žygyje prieš Smolenską po Raciąžo taikos."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
 
 <a id="claim-t-47960"></a>
 - t-002
-  global_id: t-47960
   teiginys: "Po Raciąžo taikos Lengvenis Algirdaitis buvo tarp pusbrolių, kuriuos Vytautas pasitelkė žygiui prieš Smolenską."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,16 +75,12 @@ Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
     Raciąžo taikos Vytautas pirmiausia su didele jėga vasarop traukė
     prieš Smolenską. Būdamas silpnas atsispirti, Jurgis pabėgo pas
     Maskvos Vosylių.
-  citata_rodoma: |
-    Pasitelkęs pusbrolius Lengvenį, Švitrigailą ir Kaributą, po
-    Raciąžo taikos Vytautas pirmiausia su didele jėga vasarop traukė
-    prieš Smolenską. Būdamas silpnas atsispirti, Jurgis pabėgo pas
-    Maskvos Vosylių.
+  citata_rodoma: "Pasitelkęs pusbrolius Lengvenį, Švitrigailą ir Kaributą, po\nRaciąžo taikos Vytautas pirmiausia su didele jėga vasarop traukė\nprieš Smolenską. Būdamas silpnas atsispirti, Jurgis pabėgo pas\nMaskvos Vosylių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47959
-    - t-47960
+    - t-001
+    - t-002

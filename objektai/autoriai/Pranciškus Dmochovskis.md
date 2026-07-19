@@ -38,7 +38,6 @@ Nar buto vertimas į lenkų kalbą, nes tuo metu buvo pa plitęs Pranciškaus Dm
 
 <a id="claim-t-190449"></a>
 - t-001
-  global_id: t-190449
   teiginys: "Nar buto vertimas į lenkų kalbą, nes tuo metu buvo pa plitęs Pranciškaus Dmochovskio „Iliados“ varian tas (Dziela Homerą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Nar buto vertimas į lenkų kalbą, nes tuo metu buvo pa plitęs Pranciškaus Dm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190449
+    - t-001

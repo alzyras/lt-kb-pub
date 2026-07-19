@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-189953"></a>
 - t-001
-  global_id: t-189953
   teiginys: "Šubravcų draugijos nariai prie „Wiadomošci Brukowe“ rinkosi senovės lietuvių mitologijos pseudonimus ir rinko medžiagą apie tuos personažus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -97,4 +96,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189953
+    - t-001

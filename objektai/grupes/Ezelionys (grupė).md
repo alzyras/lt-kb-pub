@@ -33,7 +33,6 @@ Išgirdę taip pat ezelionys žemaičius taip laimin gai kariaujant išsižadėj
 
 <a id="claim-t-201246"></a>
 - t-001
-  global_id: t-201246
   teiginys: "Išgirdę taip pat ezelionys žemaičius taip laimin gai kariaujant išsižadėjo krikščionų tikybos ir ėmė uiti vokyčius iš savo salos ir siuntinius atleido pas žemaičius pagalbos lūgodami ir ketėdami iš vieno kariauti vokyčius."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Išgirdę taip pat ezelionys žemaičius taip laimin gai kariaujant išsižadėj
 ## Citatos
 
 - id: c-184596
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Po tos mūšos kuržemiai atėjo į abažą žemaičių,
     stovintį ties Sintele, arba Santekle, pilė, pagalbos
@@ -68,4 +68,4 @@ Išgirdę taip pat ezelionys žemaičius taip laimin gai kariaujant išsižadėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201246
+    - t-001

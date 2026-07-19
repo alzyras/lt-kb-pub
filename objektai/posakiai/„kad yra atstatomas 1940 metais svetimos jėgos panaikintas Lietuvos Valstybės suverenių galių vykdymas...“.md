@@ -37,7 +37,6 @@ absoliučia balsų dauguma (124 deputatams balsavus už, nė vienam nebalsavus p
 
 <a id="claim-t-20903"></a>
 - t-001
-  global_id: t-20903
   teiginys: "Lietuvos nepriklausomybės atkūrimo Aktas paskelbė, kad atkuriamas 1940 m. svetimos jėgos panaikintas Lietuvos valstybės suverenių galių vykdymas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,12 +73,11 @@ absoliučia balsų dauguma (124 deputatams balsavus už, nė vienam nebalsavus p
     vos Valstybės suverenių galių vyk-
     dymas, ir nuo šiol Lietuva vėl yra
     nepriklausoma valstybė“.
-  citata_rodoma: |
-    dymas, ir nuo šiol Lietuva vėl yra
+  citata_rodoma: "dymas, ir nuo šiol Lietuva vėl yra"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20903
+    - t-001

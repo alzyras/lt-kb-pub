@@ -38,7 +38,6 @@ Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremt
 
 <a id="claim-t-86782"></a>
 - t-001
-  global_id: t-86782
   teiginys: "Lietuviai narsiai atrėmė Ordino riterių puolimą su šv. Jurgio vėliava ir privertė juos grįžti prie likusių karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremt
 
 <a id="claim-t-194174"></a>
 - t-002
-  global_id: t-194174
   teiginys: "Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo Ordino riterių kirstas pagoniškai Lietuvai."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,8 @@ Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86782
+    - t-001
+
 - id: c-176786
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -105,4 +104,4 @@ Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194174
+    - t-002

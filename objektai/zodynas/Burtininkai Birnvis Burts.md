@@ -31,7 +31,6 @@ Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijo
 
 <a id="claim-t-189356"></a>
 - t-001
-  global_id: t-189356
   teiginys: "Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijos įvykius ir lygintus su trubadūrais, skaldais ar bardais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijo
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172243
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijos įvykius ir lygintus su trubadūrais, skaldais ar bardais.'
@@ -68,8 +67,7 @@ Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189356
+
 ## Citatos
 
 - id: c-172243
@@ -89,19 +87,11 @@ Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijo
     me su jūra krašte, kuriame daug visokių didelių vandenų, to­
     dėl plaukioti buriniais laivais jiems buvo neišvengiama, taigi
     jie negalėjo apsieiti be savo Neptūno.
-  citata_rodoma: |
-    Tolesnį šito patvirtinimą rasime žemiau,
-    straipsnyje „Laima“.
-    Visos lietuvių genties tautos turėjo savo dainius, panašius
-    į kitur žinomus trubadūrus, skaldus arba bardus, kurie apdai­
-    nuodavo įvairius tautos istorijos įvykius; lieuviškai juos vadin­
-    davo burtininkais (Burtynikaj), latviškai-Birnvis arba taip pat
-    Burts. Kai kuriose savo giesmėse jie šaukdavosi Santvara, kar­
-    iais Lėlio.
+  citata_rodoma: "Tolesnį šito patvirtinimą rasime žemiau,\nstraipsnyje „Laima“.\nVisos lietuvių genties tautos turėjo savo dainius, panašius\nį kitur žinomus trubadūrus, skaldus arba bardus, kurie apdai­\nnuodavo įvairius tautos istorijos įvykius; lieuviškai juos vadin­\ndavo burtininkais (Burtynikaj), latviškai-Birnvis arba taip pat\nBurts. Kai kuriose savo giesmėse jie šaukdavosi Santvara, kar­\niais Lėlio."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189356
+    - t-001

@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-190550"></a>
 - t-001
-  global_id: t-190550
   teiginys: "„Musų senovės“ 1940 m. trečiame tome nurodomi J. Spudulio laiškai A. Dambrauskui-Jakštui."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190550
+    - t-001

@@ -31,7 +31,6 @@ Dusburgietis teigia, kad nemaža žinių galėjo pateikti ir „krikščioniški
 
 <a id="claim-t-58913"></a>
 - t-001
-  global_id: t-58913
   teiginys: "Krikščioniškieji plėšikautojai, vadinti latrunkuliais, veikė Ordino labui ir galėjo teikti žinių kronikai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,16 +60,11 @@ Dusburgietis teigia, kad nemaža žinių galėjo pateikti ir „krikščioniški
     pažinoję teritoriją, kelius ir žmones (III, 74, 223). Štai pirmosiose   kovose prieš Ordiną
     žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar
     XIV a. viduryje134.
-  citata_rodoma: |
-    Nemaža žinių galėjo pateikti  ir „krikščioniškieji plėšikautojai“ (latrunkuliai), veikę
-    Ordino labui. Iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau
-    su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.
-      Daug žinių galėjo duoti ir Ordinui paklusę prūsai, ypač kilmingieji, buvę vadai, gerai
-    pažinoję teritoriją, kelius ir žmones (III, 74, 223).
+  citata_rodoma: "Nemaža žinių galėjo pateikti  ir „krikščioniškieji plėšikautojai“ (latrunkuliai), veikę\nOrdino labui. Iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau\nsu Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.\n  Daug žinių galėjo duoti ir Ordinui paklusę prūsai, ypač kilmingieji, buvę vadai, gerai\npažinoję teritoriją, kelius ir žmones (III, 74, 223)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58913
+    - t-001

@@ -43,7 +43,6 @@ m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijo
 
 <a id="claim-t-25378"></a>
 - t-001
-  global_id: t-25378
   teiginys: "1251 m. Mindaugas krikštijosi, o 1253 m. liepos 6 d. buvo vainikuotas pirmuoju ir vieninteliu Lietuvos karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-25378
+    - t-001

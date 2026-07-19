@@ -37,7 +37,6 @@ O jeigu kas norėtų dėl to, ką kam atiduodame, pakenkti, prieš jį tvirtai u
 
 <a id="claim-t-88367"></a>
 - t-001
-  global_id: t-88367
   teiginys: "Žygimantas Augustas testamente prašė giminaičių ginti jo paskutinę valią ir prireikus perimti testamento vykdymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,4 +101,4 @@ O jeigu kas norėtų dėl to, ką kam atiduodame, pakenkti, prieš jį tvirtai u
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88367
+    - t-001

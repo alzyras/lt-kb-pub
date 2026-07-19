@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31968"></a>
 - t-001
-  global_id: t-31968
   teiginys: "„Vitoldiana“ paskelbta AW 7 tome 1930 m., p. 494-504, ir siejama su Dubysos sutartimis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,13 +63,11 @@ media_all_json: |-
     nr. 8-10, 1934 ; nr. 5-7, 10, 1935. — Koneczny, P. : _Jagiełło i Witold,_
     I, Lwów 1893. -— (”) _Vitoldiana_ , AW, t. 7, 1930, 494-504 p. (Dubysos
     sutartys).
-  citata_rodoma: |
-    -— (”) _Vitoldiana_ , AW, t. 7, 1930, 494-504 p. (Dubysos
-    sutartys).
+  citata_rodoma: "-— (”) _Vitoldiana_ , AW, t. 7, 1930, 494-504 p. (Dubysos\nsutartys)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31968
+    - t-001

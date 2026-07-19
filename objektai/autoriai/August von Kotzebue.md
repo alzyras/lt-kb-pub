@@ -37,8 +37,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 ## Teiginiai
 
 <a id="claim-t-87938"></a>
-- t-001
-  global_id: t-87938
+- t-002
   teiginys: "Augustas von Kotzebue išrašė tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje ir įdėjo juos į savo veikalą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     - c-83919
 
 <a id="claim-t-87939"></a>
-- t-002
-  global_id: t-87939
+- t-008
   teiginys: "Michałas Balińskis nesutiko su Kotzebue datavimu, kad minėtas įvykis nutiko tarp 1432 m. rugpjūčio 14 ir 28 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     - c-83917
 
 <a id="claim-t-87940"></a>
-- t-003
-  global_id: t-87940
+- t-006
   teiginys: "Kotzebue rašinyje „Switrigail“ gynė Švitrigailą, vaizduodamas jį kaip herojų ir didį žmogų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +88,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     - c-83923
 
 <a id="claim-t-87941"></a>
-- t-004
-  global_id: t-87941
+- t-003
   teiginys: "Kotzebue veikale pateikti skundo punktai atitiko Raynaldo 1324 m. nurodytus punktus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,8 +107,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     - c-83921
 
 <a id="claim-t-87942"></a>
-- t-005
-  global_id: t-87942
+- t-004
   teiginys: "Kotzebue tikėjosi Gedimino laiškų originalus rasti Ordino archyve ir apkaltinti Ordiną nauja piktadaryste."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,8 +123,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     - c-83920
 
 <a id="claim-t-87944"></a>
-- t-006
-  global_id: t-87944
+- t-001
   teiginys: "Michałas Balińskis Kotzebue „Prūsijos istoriją“ vadino geriausiu dokumentų vertės paliudijimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -146,7 +140,6 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 
 <a id="claim-t-87945"></a>
 - t-007
-  global_id: t-87945
   teiginys: "Kotzebue citavo Slaptajame archyve buvusį Švitrigailos laišką didžiajam magistrui, rašytą iš Trakų 1432 m. rugpjūčio 13 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -166,8 +159,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     - c-83924
 
 <a id="claim-t-194196"></a>
-- t-008
-  global_id: t-194196
+- t-009
   teiginys: "Šitai vėlei liu dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės, klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam. (Žr."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -207,7 +199,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87939
+    - t-008
+
 - id: c-83919
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -223,19 +216,15 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     jo veikalą, vad.: Preuszens aeltere Geschichte von August von
     Kotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu.
     Foigto vertimas į len kųk ir teksto lotynų k. pataisymai.
-  citata_rodoma: |
-    Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve
-    Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į
-    jo veikalą, vad.: Preuszens aeltere Geschichte von August von
-    Kotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu.
-    Foigto vertimas į len kųk ir teksto lotynų k. pataisymai.
+  citata_rodoma: "Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve \nKaraliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į \njo veikalą, vad.: Preuszens aeltere Geschichte von August von \nKotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu. \nFoigto vertimas į len kųk ir teksto lotynų k. pataisymai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87938
+    - t-002
+
 - id: c-83920
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -254,7 +243,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87942
+    - t-004
+
 - id: c-83921
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -273,19 +263,15 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     įdėtus R a y n a 1  d, an. 1324 Nr. 53,
     kurie visiškai atitinka tuos, kurie yra
     Kotzebue, T. Il, p. 368-371.
-  citata_rodoma: |
-    z
-    Tokius skundo punktus randame
-    įdėtus R a y n a 1  d, an. 1324 Nr. 53,
-    kurie visiškai atitinka tuos, kurie yra
-    Kotzebue, T. Il, p. 368-371.
+  citata_rodoma: "z\nTokius skundo punktus randame \nįdėtus R a y n a 1  d, an. 1324 Nr. 53, \nkurie visiškai atitinka tuos, kurie yra \nKotzebue, T. Il, p. 368-371."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87941
+    - t-003
+
 - id: c-83922
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -313,7 +299,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87944
+    - t-001
+
 - id: c-83923
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -348,7 +335,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87940
+    - t-006
+
 - id: c-83924
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -383,7 +371,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87945
+    - t-007
+
 - id: c-176799
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -401,4 +390,4 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194196
+    - t-009

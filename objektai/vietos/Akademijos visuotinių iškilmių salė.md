@@ -44,7 +44,6 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
 
 <a id="claim-t-55239"></a>
 - t-001
-  global_id: t-55239
   teiginys: "Akademijos visuotinių iškilmių salė buvo pailgos formos salė kairėje pusėje prie bokšto arba varpinės."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::places"
@@ -62,7 +61,6 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
 
 <a id="claim-t-55240"></a>
 - t-002
-  global_id: t-55240
   teiginys: "Akademijos visuotinių iškilmių salėje buvo 20 paprastos tapybos portretų ir trimis eilėmis išrikiuoti mediniai suolai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::places"
@@ -79,7 +77,6 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
 
 <a id="claim-t-55241"></a>
 - t-003
-  global_id: t-55241
   teiginys: "Akademijos visuotinių iškilmių salės aukštis buvo sulig trimis aukštais."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::places"
@@ -89,7 +86,6 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
 
 <a id="claim-t-83113"></a>
 - t-004
-  global_id: t-83113
   teiginys: "Akademijos visuotinių iškilmių salė buvo pailgos formos ir stovėjo kairėje pusėje prie bokšto, įėjus pro didžiuosius bažnyčios vartus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::places"
@@ -132,7 +128,8 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55239
+    - t-001
+
 - id: c-55841
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -151,7 +148,8 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55240
+    - t-002
+
 - id: c-55842
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -173,7 +171,8 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55241
+    - t-003
+
 - id: c-79508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -202,4 +201,4 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83113
+    - t-004

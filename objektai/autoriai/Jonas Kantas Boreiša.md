@@ -39,7 +39,6 @@ Narbutas nurodo, kad Jono Kanto Boreišos 1689 m. lotyniškame pamoksle rado iš
 
 <a id="claim-t-190431"></a>
 - t-001
-  global_id: t-190431
   teiginys: "Narbutas nurodo, kad Jono Kanto Boreišos 1689 m. lotyniškame pamoksle rado iš esmės tą pačią Jogailaičių genealogiją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Narbutas nurodo, kad Jono Kanto Boreišos 1689 m. lotyniškame pamoksle rado iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190431
+    - t-001

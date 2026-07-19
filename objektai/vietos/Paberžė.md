@@ -37,7 +37,6 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
 
 <a id="claim-t-41990"></a>
 - t-001
-  global_id: t-41990
   teiginys: "1919 m. birželio 4 d. lietuvių kariai užėmė Paberžę, persekiodami bolševikus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,13 +67,11 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
     tuvių kariais toliau persekiojo bolševi-
     kus. Birželio 3 d. buvo užimti Daugailiai,
     Tauragnai, birželio 4 d. Paberžė.
-  citata_rodoma: |
-    Birželio 3 d. buvo užimti Daugailiai,
-    Tauragnai, birželio 4 d. Paberžė.
+  citata_rodoma: "Birželio 3 d. buvo užimti Daugailiai,\nTauragnai, birželio 4 d. Paberžė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41990
+    - t-001

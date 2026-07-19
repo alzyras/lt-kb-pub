@@ -30,10 +30,9 @@ Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo 
 ## Teiginiai
 
 <a id="claim-t-187692"></a>
-- t-001
-  global_id: t-187692
+- t-003
   teiginys: "Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo Grigorijaus palaimintas."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -57,29 +56,20 @@ Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo 
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Tuokart Vaišvilkas ir pakrikštijo Levo sūnų Jurijų.
-    Paskiau leidosi kelionėn į Poionos6  vienuolyną pas
-    5 6
-
-    ## Puslapis 52
-
-    Grigorijų, Apsivilko vienuolio rūbais ir išbuvo vienuo­
-    lyne trejus metus. Iš ten iškeliavo j Šventąjį Kalną 7  ir
-    buvo Grigorijaus palaimintas.
-  citata_rodoma: |
-    Tuokart Vaišvilkas ir pakrikštijo Levo sūnų Jurijų.
-    Paskiau leidosi kelionėn į Poionos6  vienuolyną pas
-    5 6
-
-    ## Puslapis 52
-
-    Grigorijų, Apsivilko vienuolio rūbais ir išbuvo vienuo­
-    lyne trejus metus. Iš ten iškeliavo j Šventąjį Kalną 7  ir
-    buvo Grigorijaus palaimintas.
+    Mindaugą nužudžius, Vaišvilkas išsigando to paties
+    likimo, pabėgo j Pinską ir ten gyveno. O Treniota
+    pradėjo kunigaikščiauti visoje Lietuvos ir Žemaičių že­
+    m ėje^
+    Ir 15 Treniota nusiuntė pasiuntinius į Polocką pas
+    savo brolį Tautvilą, tarydamas: „Atvažiuok, brolau, ši-
+    čion, pasidalysime Mindaugo žemę ir turtą." Tajam
+    pas jį atvažiavus, Tautvilą ir ėmė galvoti, kaip Trenio­
+    tą nužudyti, o Treniota tą patį galvojo apie Tautvilą.
+  citata_rodoma: "Tuokart Vaišvilkas ir pakrikštijo Levo sūnų Jurijų. \nPaskiau leidosi kelionėn į Poionos6  vienuolyną pas\n5 6\n\n## Puslapis 52\n\nGrigorijų, Apsivilko vienuolio rūbais ir išbuvo vienuo­\nlyne trejus metus. Iš ten iškeliavo j Šventąjį Kalną 7  ir \nbuvo Grigorijaus palaimintas."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187692
+    - t-003

@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-189715"></a>
 - t-001
-  global_id: t-189715
   teiginys: "Narbutas pasakoja, kad prijaukintas aitvaras lįsdavo į klėtis, išnešdavo maistą ir duodavo jo mėgstamoms moterims ar mergaitėms net pinigų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172598
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas pasakoja, kad prijaukintas aitvaras lįsdavo į klėtis, išnešdavo maistą ir duodavo jo mėgstamoms moterims ar mergaitėms net pinigų.'
@@ -81,8 +80,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189715
+
 ## Citatos
 
 - id: c-172598
@@ -100,18 +98,11 @@ Nenurodyta
     Rungis (Rungis)
     Malūnininkų prisijaukintas dievaitis, kuris jiems atneša grū­
     dų ir malant pripila.
-  citata_rodoma: |
-    Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
-    matomas užpuola miegančias moteris, kitą kartą prijaukintas
-    pasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­
-    da į klėtis, senoms, taupioms šeimininkėms išneša grietinę,
-    duoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­
-    terims arba mergaitėms, duoda net pinigų. Moteris, suviliota
-    šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
+  citata_rodoma: "Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­\nmatomas užpuola miegančias moteris, kitą kartą prijaukintas\npasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­\nda į klėtis, senoms, taupioms šeimininkėms išneša grietinę,\nduoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­\nterims arba mergaitėms, duoda net pinigų. Moteris, suviliota\nšios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189715
+    - t-001

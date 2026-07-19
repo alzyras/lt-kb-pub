@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20216"></a>
 - t-001
-  global_id: t-20216
   teiginys: "Jėzuitai Lietuvoje sukūrė kolegijų tinklą, o šios švietimo sistemos viršūnėje 1579 m. buvo įkurtas Vilniaus universitetas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,12 +86,11 @@ Nenurodyta
     pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
     klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
     tas 1579 m.).
-  citata_rodoma: |
-    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
+  citata_rodoma: "Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20216
+    - t-001

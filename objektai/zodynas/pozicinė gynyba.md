@@ -31,7 +31,6 @@ Nutarta užimti gynybines pozicijas.
 
 <a id="claim-t-80631"></a>
 - t-001
-  global_id: t-80631
   teiginys: "Lietuvos vadovybė numatė pozicinę gynybą visu frontu be manevravimo galimybės ir didesnio rezervo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Nutarta užimti gynybines pozicijas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80631
+    - t-001

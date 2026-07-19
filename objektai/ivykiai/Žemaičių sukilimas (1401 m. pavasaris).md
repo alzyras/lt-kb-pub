@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-100049"></a>
 - t-001
-  global_id: t-100049
   teiginys: "1401 m. kovo viduryje Žemaičiuose prasidėjo sukilimas, o apie keturis tūkstančius pabėgusiųjų nebuvo grąžinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100049
+    - t-001

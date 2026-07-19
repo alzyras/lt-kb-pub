@@ -30,7 +30,6 @@ Silvestro Baltramaičio veikalas, nors jame rūpestingai sužymėta daug Lietuvo
 
 <a id="claim-t-29592"></a>
 - t-001
-  global_id: t-29592
   teiginys: "Zenonas Ivinskis Silvestro Baltramaičio Lietuvos istorijos bibliografijos veikalą laikė rūpestingai sudarytu, bet gerokai pasenusiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Silvestro Baltramaičio veikalas, nors jame rūpestingai sužymėta daug Lietuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29592
+    - t-001

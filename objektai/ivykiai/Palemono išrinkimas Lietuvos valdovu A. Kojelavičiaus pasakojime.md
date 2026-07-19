@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185759"></a>
 - t-001
-  global_id: t-185759
   teiginys: "Pasak Kojelavičiaus, Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185759
+    - t-001

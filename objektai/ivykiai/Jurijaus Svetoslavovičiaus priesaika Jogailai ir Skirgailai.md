@@ -59,9 +59,8 @@ Nenurodyta
 
 <a id="claim-t-186727"></a>
 - t-001
-  global_id: t-186727
   teiginys: "1386 m. gegužės 20 d. Krokuvoje Jurijus Svetoslavovičius davė Jogailai ir Skirgailai vasalo ištikimybės priesaiką."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Skirgaila: 0.85"
@@ -78,7 +77,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169950
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1386 m. gegužės 20 d. Krokuvoje Jurijus Svetoslavovičius davė Jogailai ir Skirgailai vasalo ištikimybės priesaiką.'
@@ -95,8 +94,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186727
+
 ## Citatos
 
 - id: c-169950
@@ -117,17 +115,11 @@ Nenurodyta
     nurodo Lietuvos metraščių PS nuorašai) Tetos, arba Tepliaus (taip
     įis vadinamas nuoraše „Origo regis Jagyello", PSRL, XVII, p. 216).
     gyvenimas visiškai nežinomas.
-  citata_rodoma: |
-    Smolensko kunigaikščio sūnus Jurijus, patekęs ties Mstislav-
-    llu į nelaisvę, buvo nugabentas į Krokuvą. Č ia 1386,V.20 jis pri­
-    siekė Jogailai ir Skirgailai vasalo ištikimybės priesaiką. V.22 su
-    juo buvo sudaryta sutartis, patvirtinta Vilniuje 1386.1X.16, kuria
-    Ju riju s Svetoslavovičlus įsipareigojo neberem ti Polocko kunigaikš­
-    čio Andriaus Algirdalčio.
+  citata_rodoma: "Smolensko kunigaikščio sūnus Jurijus, patekęs ties Mstislav- \nllu į nelaisvę, buvo nugabentas į Krokuvą. Č ia 1386,V.20 jis pri­\nsiekė Jogailai ir Skirgailai vasalo ištikimybės priesaiką. V.22 su \njuo buvo sudaryta sutartis, patvirtinta Vilniuje 1386.1X.16, kuria \nJu riju s Svetoslavovičlus įsipareigojo neberem ti Polocko kunigaikš­\nčio Andriaus Algirdalčio."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186727
+    - t-001

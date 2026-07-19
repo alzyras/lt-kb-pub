@@ -39,7 +39,6 @@ Wagner, K.
 
 <a id="claim-t-31076"></a>
 - t-001
-  global_id: t-31076
   teiginys: "K. Wagneris 1933 m. „Naujojoje Romuvoje“ paskelbė darbą „Vokiečių ordino pilys Kauno apylinkėje“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,13 +67,11 @@ Wagner, K.
     t. 7, 1930, 1-20 p. — Smolka, St. : _Kiejstut i Jagiełło_ , Pamiętnik AU,
     t. 7, Kraków 1889, 79-155 p. — Wagner, K. : _Vokiečių ordino pilys
     Kauno apylinkėje,_ Naujoji Romuva, nr. 107, 1933.
-  citata_rodoma: |
-    — Wagner, K. : _Vokiečių ordino pilys
-    Kauno apylinkėje,_ Naujoji Romuva, nr. 107, 1933.
+  citata_rodoma: "— Wagner, K. : _Vokiečių ordino pilys\nKauno apylinkėje,_ Naujoji Romuva, nr. 107, 1933."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31076
+    - t-001

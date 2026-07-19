@@ -51,10 +51,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62382"></a>
-- t-001
-  global_id: t-62382
+- t-002
   teiginys: "Po Lubavos apiplėšimo broliai iš patikimų šaltinių sužinojo, kad gyvi ir sveiki sugrįžo tik keli vieno lietuvių būrio nariai."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
@@ -67,12 +66,11 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62975
-    - c-002
+
 <a id="claim-t-62383"></a>
-- t-002
-  global_id: t-62383
+- t-001
   teiginys: "1302 m. iš Lietuvos atvykę plėšikautojai užpuolė penkis Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "puole -> Lubava: 0.96"
@@ -88,7 +86,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata remia konkretų faktą, o pradinis teiginys per ilgas ir su boilerplate."
   pagrindžia:
     - c-62974
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1302 m. iš Lietuvos atvykę plėšikautojai užpuolė penkis Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių.'
@@ -106,8 +104,6 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62383
 - c-002
   santrauka: 'Po Lubavos apiplėšimo broliai iš patikimų šaltinių sužinojo, kad gyvi ir sveiki sugrįžo tik keli vieno lietuvių būrio nariai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -121,8 +117,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62382
+
 ## Citatos
 
 - id: c-62974
@@ -138,21 +133,15 @@ Nenurodyta
     ši, po senovei spyriodamasi, jam nedavė laisvės stoti į vienuolyną. Po to ji kiekvieną
     naktį girdėjo siaubingą bildesį, nelyginant kas kūju būtų daužęs į sieną, ir balsą, kuris
     sakė: „Henrikai, kelkis melstis, nes tavo broliai jau pakirdę“.
-  citata_rodoma: |
-    Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
-
-      Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten
-    nužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui
-    ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius. Todėl
-    ir jie patys toliau patraukė dviem žygio voromis, pirma netrukus pasivijo vieną netikėlių
-    būrį, nukovė 65 vyrus  ir išvadavo 70 krikščionių.
+  citata_rodoma: "Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais\n\n  Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten\nnužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui\nir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius. Todėl\nir jie patys toliau patraukė dviem žygio voromis, pirma netrukus pasivijo vieną netikėlių\nbūrį, nukovė 65 vyrus  ir išvadavo 70 krikščionių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62383
+    - t-001
+
 - id: c-62975
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -165,15 +154,11 @@ Nenurodyta
     smarkiai bauginama siaubingų bildesių, daugel sykių gąsdinama stebuklingų balsų,
     nebeturėjo jėgų ilgiau priešintis šventam vyro sumanymui, todėl ir nusileido, duodama
     jam valią stoti į bet kurį vienuolyną.
-  citata_rodoma: |
-    Kita brolių dalis surado tik penkis
-    krikščionių vaikus, kuriuos ir išsivedė. Po to broliai iš patikimų šaltinių sužinojo, kad vos
-    keli šio būrio lietuviai gyvi ir sveiki besugrįžo. Vieni kelyje prigėrė, kiti išmirė badu, o
-    treti pasikorė iš sielvarto.
+  citata_rodoma: "Kita brolių dalis surado tik penkis\nkrikščionių vaikus, kuriuos ir išsivedė. Po to broliai iš patikimų šaltinių sužinojo, kad vos\nkeli šio būrio lietuviai gyvi ir sveiki besugrįžo. Vieni kelyje prigėrė, kiti išmirė badu, o\ntreti pasikorė iš sielvarto."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62382
+    - t-002

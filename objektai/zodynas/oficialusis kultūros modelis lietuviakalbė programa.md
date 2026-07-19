@@ -43,7 +43,6 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 
 <a id="claim-t-77801"></a>
 - t-001
-  global_id: t-77801
   teiginys: "Mikalojui Daukšai rūpėjo ne kasdienis lietuvių kalbos vartojimas, o oficialiojo kultūros modelio kūrimas lietuvių kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 
 <a id="claim-t-77802"></a>
 - t-002
-  global_id: t-77802
   teiginys: "Daukšos lietuviakalbė programa nebuvo įgyvendinta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77801
+    - t-001
+
 - id: c-75127
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -142,4 +141,4 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77802
+    - t-002

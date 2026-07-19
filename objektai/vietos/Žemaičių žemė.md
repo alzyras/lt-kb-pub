@@ -29,29 +29,8 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
 
 ## Teiginiai
 
-<a id="claim-t-187416"></a>
-- t-002
-  global_id: t-187416
-  teiginys: "Lietuvos metraštyje Kęstutis nujoja į Žemaičius prašyti pagalbos po to, kai Jogaila be jo žinios užima Trakus."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "keliavo_i -> Žemaičių žemė: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Žemaičių žemė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai mini Kęstučio vykimą į Žemaičius, siejamus su Žemaičių žemės kandidatu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Žemaičių žemė (0.76)"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-170409
-
 <a id="claim-t-187417"></a>
-- t-003
-  global_id: t-187417
+- t-001
   teiginys: "Kęstutis, sušaukęs savo Žemaičių žemę ir kariuomenę, traukė prie Neries, kur susijungė su Vytauto kariuomene."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -67,55 +46,6 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170407
-
-<a id="claim-t-187419"></a>
-- t-005
-  global_id: t-187419
-  teiginys: "Lietuvos metraštyje Kęstutis su žemaičiais ateina prie Trakų po to, kai Jogaila be Kęstučio žinios užima Trakus."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "uzeme -> Trakai: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Jogaila užėmė Trakus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) užėmė Trakai (0.93); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.82)"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-170409
-
-<a id="claim-t-187415"></a>
-- t-001
-  global_id: t-187415
-  teiginys: 'Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Valdovo statusas ir giminystės kontekstas palikti kaip metraščio apibūdinimas. Nepridėta informacijos apie Kęstučio sūnus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Tverė'
-  pagrindžia:
-    - c-003
-<a id="claim-t-187418"></a>
-- t-004
-  global_id: t-187418
-  teiginys: 'Lietuvos metraštyje Vytautas, būdamas pas magistrą Marienburge, už tris šimtus tūkstančių auksinų užstato vokiečiams Žemaičių žemę.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Kronikos pasakojimas apie politinį veiksmą perteiktinas tiksliau ir su šaltinio priskyrimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Sofija|Sofija]]; mentioned_place: Lietuva; mentioned_place: Marienburgas; mentioned_place: Maskva; mentioned_place: Vilnius'
-  pagrindžia:
-    - c-001
-<a id="claim-t-194044"></a>
-- t-006
-  global_id: t-194044
-  teiginys: 'Lietuvos metraštyje Kęstutis, Algirdo brolis, vaizduojamas kaip Trakų ir Žemaičių žemės valdovas, turėjęs šešis sūnus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleidžiau subjektą ir pašalinau OCR triukšmą, o valdovo statusą palikau su kronikos atribucija. Nepridėta daugiau nei citatoje nurodyti Kęstučio ryšiai, valdos ir sūnų skaičius.'
-  pagrindžia:
-    - c-005
 - susijęs iš [[objektai/autoriai/J. Posilge.md#claim-t-29505|J. Posilge]]: Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų.
 - susijęs iš [[objektai/posakiai/Viskas yra viena - ir žemė, ir žmonės.md#claim-t-86845|Viskas yra viena - ir žemė, ir žmonės]]: Posakiu „Viskas yra viena - ir žemė, ir žmonės“ aiškinta, kodėl valdovo titule nerašomas Žemaitijos vardas.
 - susijęs iš [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės.md#claim-t-55202|Viskas yra viena, viena žemė ir tie patys žmonės]]: Balińskio vertime formulė perteikiama žodžiais „viskas yra viena - ir žemė, ir žmonės“.
@@ -150,11 +80,9 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
     Didžiosios Kunigaikštystės.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187418
+  statusas: not_found
 - c-003
   santrauka: 'Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -171,11 +99,9 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
     nūs2 5 .
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187415
+  statusas: not_found
 - c-005
   santrauka: 'Lietuvos metraštyje Kęstutis, Algirdo brolis, vaizduojamas kaip Trakų ir Žemaičių žemės valdovas, turėjęs šešis sūnus.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -191,11 +117,9 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
     kų tikėjimo krikštą, jam davė Aleksandro vardą2 7 .
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194044
+  statusas: not_found
 ## Citatos
 
 - id: c-170407
@@ -213,16 +137,15 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
     savo tėvu, didžiuoju kunigaikščiu Kęstučiu, abu iš­
     vyksta į Jogailos kariuomenę, pasitikėdami tomis prie­
     saikomis.
-  citata_rodoma: |
-    Didysis kunigaikštis Kęstutis, sušaukęs savo Žemai­
-    čių žemę ir visą kariuomenę, traukia prie Neries.
+  citata_rodoma: "Didysis kunigaikštis Kęstutis, sušaukęs savo Žemai­\nčių žemę ir visą kariuomenę, traukia prie Neries."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187417
+    - t-001
+
 - id: c-170409
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -236,18 +159,9 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
     šlovinkite." Taip ir aš noriu jums pasekti apie tą šlo­
     vingąjį valdovą. Bet didžiojo valdovo darbai nei žodžiu
     neapsakomi, nei plunksna neaprašomi.
-  citata_rodoma: |
-    Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­
-    gaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­
-    nigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas
-    gauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie
-    Trakų, aš pats irgi buvau ten su savo tėvu kunigaikš­
-    čiu Kęstučiu.
+  citata_rodoma: "Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­\ngaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­\nnigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas\ngauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie\nTrakų, aš pats irgi buvau ten su savo tėvu kunigaikš­\nčiu Kęstučiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187416
-    - t-187419

@@ -39,7 +39,6 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
 
 <a id="claim-t-40007"></a>
 - t-001
-  global_id: t-40007
   teiginys: "1949 m. spalio 24 d. buvo suimtas Vytenio būrio partizanas Alfonsas Vildžiūnas-Vijoklis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,19 +81,11 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
     vienkiemio Jovaišų sodyboje. Rūgštymas
     buvo pristatytas prie pagrindinio įėjimo,
     o Vijoklis — prie atsarginio.
-  citata_rodoma: |
-    Prieš kautynes
-
-    1949 m. spalio 24 d. MGB agentui V. Kučiui
-    panaudojus spec. preparatus „Neptun-20“,
-    buvo suimti Algimanto apygardos štabo
-    pareigūnas Albinas Kubilius-Rūgštymas
-    ir Vytenio būrio partizanas Alfonsas
-    Vildžiūnas-Vijoklis.
+  citata_rodoma: "Prieš kautynes\n\n1949 m. spalio 24 d. MGB agentui V. Kučiui\npanaudojus spec. preparatus „Neptun-20“,\nbuvo suimti Algimanto apygardos štabo\npareigūnas Albinas Kubilius-Rūgštymas\nir Vytenio būrio partizanas Alfonsas\nVildžiūnas-Vijoklis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40007
+    - t-001

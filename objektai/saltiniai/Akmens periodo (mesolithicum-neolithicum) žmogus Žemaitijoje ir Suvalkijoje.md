@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-31615"></a>
 - t-001
-  global_id: t-31615
   teiginys: "J. Žilinsko veikalas „Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje“ išleistas 1931 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,16 +68,11 @@ media_all_json: |-
     joje_ , 1931.
 
     **2.
-  citata_rodoma: |
-    — Žilinskas, J. : _Ak­
-    mens periodo_ ( _mesolithicum-neolithicum_ ) _žmogus Žemaitijoje ir Suvalki­
-    joje_ , 1931.
-
-    **2.
+  citata_rodoma: "— Žilinskas, J. : _Ak­\nmens periodo_ ( _mesolithicum-neolithicum_ ) _žmogus Žemaitijoje ir Suvalki­\njoje_ , 1931.\n\n**2."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31615
+    - t-001

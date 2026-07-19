@@ -40,7 +40,6 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
 
 <a id="claim-t-40211"></a>
 - t-001
-  global_id: t-40211
   teiginys: "Kunigaikštis Jokūbas Kudenekovičius Čerkaskis iš tikrųjų vadovavo Rusijos kariuomenei kare su Lenkijos-Lietuvos valstybe."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
 
 <a id="claim-t-40212"></a>
 - t-002
-  global_id: t-40212
   teiginys: "Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių bei sumušė J. Radvilos ir V. Gosievskio pajėgas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
 
 <a id="claim-t-183743"></a>
 - t-003
-  global_id: t-183743
   teiginys: "Kunigaikštis Jokūbas Kudenekovičius Čerkaskis faktiškai vadovavo Rusijos kariuomenei, nors oficialiu vadu buvo caras Aleksejus Michailovičius."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -116,7 +113,8 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40212
+    - t-002
+
 - id: c-167131
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -142,7 +140,8 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40211
-    - t-183743
+    - t-001
+    - t-003
+
 ## Ryšiai
 - Jokūbas Kudenekovičius Čerkaskis užėmė [[objektai/vietos/Gardinas]], [[objektai/vietos/Vilnius]]

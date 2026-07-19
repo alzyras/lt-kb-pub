@@ -41,8 +41,7 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
 ## Teiginiai
 
 <a id="claim-t-85942"></a>
-- t-001
-  global_id: t-85942
+- t-002
   teiginys: "Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
     - c-81925
 
 <a id="claim-t-85943"></a>
-- t-002
-  global_id: t-85943
+- t-003
   teiginys: "1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
     - c-81923
 
 <a id="claim-t-85945"></a>
-- t-003
-  global_id: t-85945
+- t-001
   teiginys: "Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +95,6 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
 
 <a id="claim-t-192746"></a>
 - t-004
-  global_id: t-192746
   teiginys: "Narbutas pasakoja, kad Frotono III sūnus Fridleifas buvo auklėtas Rusioje pas motinos giminaičius ir jų padedamas susigrąžino Danijos sostą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -120,7 +116,6 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
 
 <a id="claim-t-192747"></a>
 - t-005
-  global_id: t-192747
   teiginys: "Narbutas rašo, kad Frotono pasiųstas riteris ir slavų kunigaikštis Vinas pirmiausia nuvyko į Rusią, o iš jos žygiavo į maištaujančius kraštus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -141,7 +136,6 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
 
 <a id="claim-t-193427"></a>
 - t-006
-  global_id: t-193427
   teiginys: "Todėl, būdamas ramus dėl vidaus reikalų, Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į Rusią."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -154,7 +148,6 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
 
 <a id="claim-t-193428"></a>
 - t-007
-  global_id: t-193428
   teiginys: "Kojelavičiaus pasakojime Kazimieras, vadinamas Lenkijos karaliumi, Belzą ir Volynę perdavė su sąlyga, kad aukščiausia galia Rusioje priklausys Lenkijos karaliui."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -167,8 +160,7 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
     - c-176150
 
 <a id="claim-t-194750"></a>
-- t-008
-  global_id: t-194750
+- t-009
   teiginys: "Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur slavų krivičių tauta."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -283,28 +275,15 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
     džiaugsmą dėl jo susitaikymo su Jo­
     gaila ir todėl dedąs viltis, jog čekų
     eretikai būsią šiek tiek apmalšinti.
-  citata_rodoma: |
-    Vytautas, vienintelio
-    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
-    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
-    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
-    metais), kur didysis kunigaikštis paprastai gyvendavo di­
-    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
-    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
-    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
-    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
-    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
-    magistras, Mazovijos kunigaikščiai ir totorių chanai84. Pa­
-    galiau pakviestas atvyksta Jogaila, lydimas gausaus Len-
-    karalių Zigmantą nuo ketinimo ka­
-    rūnuoti Vytautą, ir Nr.
+  citata_rodoma: "Vytautas, vienintelio \ntroškimo apimtas, sukviečia pas save įžymiausius šiaurės \nšalių kunigaikščius arba jų pasiuntinius, ketindamas jiems \ndalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 \nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir \nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos \nmagistras, Mazovijos kunigaikščiai ir totorių chanai84. Pa­\ngaliau pakviestas atvyksta Jogaila, lydimas gausaus Len-\nkaralių Zigmantą nuo ketinimo ka­\nrūnuoti Vytautą, ir Nr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85943
+    - t-003
+
 - id: c-81924
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -338,7 +317,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85945
+    - t-001
+
 - id: c-81925
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -367,7 +347,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85942
+    - t-002
+
 - id: c-175516
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -387,25 +368,15 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
     rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
     jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
     nijos karalystei.
-  citata_rodoma: |
-    Visi Šie įvykiai siejami su III amžiumi.
-    235
-    Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
-    pas motinos, karalaitės Chunigardijos, gimines; vieno iš
-    giminaičių — rusnėnų karaliuko — padedamas, jis susi­
-    grąžino iš jo tėvo atimtą Danijos sostą1.
-    236
-    Sklinda garsūs senoviniai skandinavų padavimai apie
-    didvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­
-    niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
-    ringumo žmogus.
+  citata_rodoma: "Visi Šie įvykiai siejami su III amžiumi.\n235\nFrotono III sūnus Fridleifas buvo auklėjamas Rusioje,\npas motinos, karalaitės Chunigardijos, gimines; vieno iš\ngiminaičių — rusnėnų karaliuko — padedamas, jis susi­\ngrąžino iš jo tėvo atimtą Danijos sostą1.\n236\nSklinda garsūs senoviniai skandinavų padavimai apie\ndidvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­\nniojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­\nringumo žmogus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192746
+    - t-004
+
 - id: c-175517
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -428,7 +399,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192747
+    - t-005
+
 - id: c-176149
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -447,28 +419,15 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
     jos ginklais, o ne per pasiuntinius. Tegu jie žino, kad
     į šitokį pasiuntinių pareiškimą lietuviai negali duoti
     kitokio atsakymo nei tas, kurį dabar davė".
-  citata_rodoma: |
-    Grėsminga tebuvo šiaurė, tačiau
-    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
-    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
-    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
-    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
-    Rusią. Karą prieš Skirmantą susimanė rengti Balakla-
-    jus, naujas Užvolgio skitų kunigaikštis, galimas daib-
-    tas, norėdamas išdildyti pri-
-    S k irm a n ta s su m u ša
-    siminimus apie pralaimėjimą,
-    sk itu s
-    patirtą prieš keletą metų;
-    teisėtos priežasties, jis išleido pasiuntinius, turėjusius
-    pareikalauti iš Rusios duoklės.
+  citata_rodoma: "Grėsminga tebuvo šiaurė, tačiau\ntos pusės saugumą laidavo tai, kad vokiečiai ir latviai,\nįsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti\nLietuvos. Todėl, būdamas ramus dėl vidaus reikalų,\nKukovaitis galėjo siųsti didesnę pagalbą Skirmantui į\nRusią. Karą prieš Skirmantą susimanė rengti Balakla-\njus, naujas Užvolgio skitų kunigaikštis, galimas daib-\ntas, norėdamas išdildyti pri-\nS k irm a n ta s su m u ša\nsiminimus apie pralaimėjimą,\nsk itu s\npatirtą prieš keletą metų;\nteisėtos priežasties, jis išleido pasiuntinius, turėjusius\npareikalauti iš Rusios duoklės."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193427
+    - t-006
+
 - id: c-176150
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -499,7 +458,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193428
+    - t-007
+
 - id: c-177146
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -521,6 +481,7 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194750
+    - t-009
+
 ## Ryšiai
 - Rusia priklausė [[objektai/vietos/Salavija]]

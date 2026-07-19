@@ -30,7 +30,6 @@ BIBLIOGRAFINIAI RINKINIAI, LIEČlĄ LIETUVOS ISTORIJĄ Pilna Lietuvos istorijos 
 
 <a id="claim-t-32764"></a>
 - t-001
-  global_id: t-32764
   teiginys: "Zenonas Ivinskis pirmąjį Lietuvos istorijos bibliografijos rinkinį vertino kaip palikusį didelę spragą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,14 +56,11 @@ BIBLIOGRAFINIAI RINKINIAI, LIEČlĄ LIETUVOS ISTORIJĄ Pilna Lietuvos istorijos 
     vajame pasaulyje. Tad šis, iš viso pirmasis,** **_Lietuvos istorijos_** **bibliografijos
     rinkinys yra palikęs didelę spragą. Tarp enciklopedijų, žinoma, nutylėta
     LE.
-  citata_rodoma: |
-    Tad šis, iš viso pirmasis,** **_Lietuvos istorijos_** **bibliografijos
-    rinkinys yra palikęs didelę spragą. Tarp enciklopedijų, žinoma, nutylėta
-    LE.
+  citata_rodoma: "Tad šis, iš viso pirmasis,** **_Lietuvos istorijos_** **bibliografijos\nrinkinys yra palikęs didelę spragą. Tarp enciklopedijų, žinoma, nutylėta\nLE."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32764
+    - t-001

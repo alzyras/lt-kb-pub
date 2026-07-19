@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-64968"></a>
-- t-001
-  global_id: t-64968
+- t-005
   teiginys: "Ant tos pačios malkinės Brutenis liepė uždegti ugnį, o abu seneliai su ja sudegė."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -60,14 +59,13 @@ Nenurodyta
     - c-10258
 
 <a id="claim-t-64970"></a>
-- t-002
-  global_id: t-64970
+- t-006
   teiginys: "Abu seneliai galiausiai sudegė kartu su malkine."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
-    - c-10259
+    - c-10258
 - susijęs iš [[objektai/paprociai/Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose.md#claim-t-07829|Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose]]: Sugautus priešo vyresniuosius lietuviai aukodavo dievams gyvus sudegindami.
 ## Reikšmingi paminėjimai
 Nenurodyta
@@ -93,7 +91,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64968
+    - t-005
+    - t-006
+
 - id: c-10259
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -107,5 +107,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-64970

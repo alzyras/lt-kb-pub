@@ -31,7 +31,6 @@ Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje (M
 
 <a id="claim-t-21632"></a>
 - t-001
-  global_id: t-21632
   teiginys: "Myro pilis prie Nesvyžiaus yra gotikinių LDK cerkvių stiliaus analogas rezidencijų architektūroje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,12 +61,11 @@ Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje (M
     (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
     pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
     je, tai yra europinės reikšmės riba.
-  citata_rodoma: |
-    Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
+  citata_rodoma: "Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21632
+    - t-001

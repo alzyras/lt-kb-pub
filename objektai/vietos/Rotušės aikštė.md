@@ -31,7 +31,6 @@ Balandžio 24 d. Vilniuje, Kovos Viln Rotušės aikštėje, buvo paskelbtas 2328
 
 <a id="claim-t-42101"></a>
 - t-001
-  global_id: t-42101
   teiginys: "Balandžio 24 d. Vilniaus Rotušės aikštėje buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudaryta Lietuvos Tautinė aukščiausia taryba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,26 +67,14 @@ Balandžio 24 d. Vilniuje, Kovos Viln Rotušės aikštėje, buvo paskelbtas 2328
 
     (Roda Naididžiausia Naradaus Lietuvos).
     Sukilimas apėmė visą Lietuvą.
-  citata_rodoma: |
-    Balandžio 24 d. Vilniuje,
-    Kovos Viln
-
-    Rotušės aikštėje, buvo paskelbtas
-
-    2328 sukilėlių pasirašytas sukilimo aktas
-
-    ir sudarytas vykdomosios valdžios orga-
-
-    nas - Lietuvos Tautinė aukščiausia taryba
-
-    (Roda Naididžiausia Naradaus Lietuvos).
-    Sukilimas apėmė visą Lietuvą.
+  citata_rodoma: "Balandžio 24 d. Vilniuje,\nKovos Viln\n\nRotušės aikštėje, buvo paskelbtas\n\n2328 sukilėlių pasirašytas sukilimo aktas\n\nir sudarytas vykdomosios valdžios orga-\n\nnas - Lietuvos Tautinė aukščiausia taryba\n\n(Roda Naididžiausia Naradaus Lietuvos).\nSukilimas apėmė visą Lietuvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42101
+    - t-001
+
 ## Ryšiai
 - Rotušės aikštė priklausė [[objektai/vietos/Vilnius]]

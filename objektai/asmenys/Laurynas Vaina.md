@@ -28,7 +28,6 @@ Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždini
 
 <a id="claim-t-202094"></a>
 - t-001
-  global_id: t-202094
   teiginys: "Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždininku Laurynu Vaina rinkti muitus toje muitinėje, kol surinks paskolintus pinigus."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždini
 
 <a id="claim-t-202095"></a>
 - t-002
-  global_id: t-202095
   teiginys: "Ji jau buvo išnuomota žemės iždininkui Laurynui Vainai, šis sutiko leisti Kaunui šią sumą išsirinkti."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -70,7 +68,7 @@ Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202094
+    - t-001
 
 - id: c-185442
   autorius: "Zigmantas Kiaupa"
@@ -88,4 +86,4 @@ Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202095
+    - t-002

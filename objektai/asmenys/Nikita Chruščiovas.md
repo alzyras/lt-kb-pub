@@ -40,7 +40,6 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Chruščiov
 
 <a id="claim-t-19174"></a>
 - t-001
-  global_id: t-19174
   teiginys: "Nikita Chruščiovas pasmerkė J. Stalino kultą, po to susilpnėjo rusinimas ir imta labiau pasitikėti vietiniais lietuviais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Chruščiov
 
 <a id="claim-t-19175"></a>
 - t-002
-  global_id: t-19175
   teiginys: "Nikita Chruščiovo laikais bažnyčią imta diskredituoti ir morališkai spausti, nors iš trėmimų vietų sugrįžo 130 kunigų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,15 +91,15 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Chruščiov
     ventojų nacionalistines nuotaikas ir apsunkina jų auklėjimą „tautų drau-
     gystės“ dvasia, šeštąjį–septintąjį dešimtmetį į Lietuvą grįžo apie 60 tūkst.
     tremtinių ir apie 20 tūkst. politinių kalinių.
-  citata_rodoma: |
-    džia pradėjo labiau pasitikėti vietiniais lietuviais. Visoje SSRS kalinius ir
+  citata_rodoma: "džia pradėjo labiau pasitikėti vietiniais lietuviais. Visoje SSRS kalinius ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19174
+    - t-001
+
 - id: c-21920
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -113,12 +111,11 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Chruščiov
     kai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-
     čią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo
     130 kunigų.
-  citata_rodoma: |
-    J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-
+  citata_rodoma: "J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19175
+    - t-002

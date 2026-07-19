@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-77914"></a>
 - t-001
-  global_id: t-77914
   teiginys: "1924 m. Kaune surengta pirmoji šalies dainų šventė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77914
+    - t-001

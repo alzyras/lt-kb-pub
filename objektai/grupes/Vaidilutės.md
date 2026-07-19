@@ -31,7 +31,6 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
 
 <a id="claim-t-189444"></a>
 - t-001
-  global_id: t-189444
   teiginys: "Mat žinoma, kad visos vaidilutės buvo nesenos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -42,16 +41,6 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172331
-
-<a id="claim-t-194604"></a>
-- t-002
-  global_id: t-194604
-  teiginys: 'Vaidilutės (Wejdalotki) Tai buvo žynės, duodančios amžinos skaistybės - tikra šio žodžio prasme - įžadus; sulaužiusias tą priesaiką bausdavo 32 Lettische Grammatik.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-002
 - susijęs iš [[objektai/paprociai/Žynių ir vaidilučių skaistybės norma bei sudeginimo bausmė.md#claim-t-189969|Žynių ir vaidilučių skaistybės norma bei sudeginimo bausmė]]: Narbutas rašo, kad žyniai ir vaidilutės privalėjo likti viengungiai, laikytis nepriekaištingos skaistybės ir už nusižengimą būdavo sudeginami.
 - susijęs iš Stenderio „Lettische Grammatik“: Narbutas Vaidilutes apibūdino kaip žynes, davusias amžinos skaistybės įžadus ir už jų sulaužymą baustas žiauriausia mirtimi.
 - susijęs iš [[objektai/zodynas/Vaidilutės Wejdalotki.md#claim-t-189340|Vaidilutės Wejdalotki]]: Narbutas darė išvadą, kad vaidilutės buvo jaunos merginos, pareigas ėjusios iki nustatytų metų ir vėliau galėjusios ištekėti.
@@ -80,11 +69,9 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
     su katinu, šunimi bei nuodinga gyvate.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194604
+  statusas: verified
 ## Citatos
 
 - id: c-172331
@@ -104,4 +91,4 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189444
+    - t-001

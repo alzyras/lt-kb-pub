@@ -30,8 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-19792"></a>
-- t-001
-  global_id: t-19792
+- t-002
   teiginys: "Lenkų socialistų partijai vadovavo iš etninės Lietuvos kilęs Juzefas Pilsudskis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ media_all_json: |-
     - c-22516
 
 <a id="claim-t-19793"></a>
-- t-002
-  global_id: t-19793
+- t-001
   teiginys: "Lenkų socialistų partijos Lietuvoje delegatai dalyvavo susirinkime, į kurį atvyko apie 2 000 delegatų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,15 +76,15 @@ media_all_json: |-
     dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos
     Lietuvoje delegatai. Kulminacinis suvažiavimo įvykis buvo rezoliucijos
     dėl politinės autonomijos Lietuvai suteikimo priėmimas.
-  citata_rodoma: |
-    dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos
+  citata_rodoma: "dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19793
+    - t-001
+
 - id: c-22516
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -97,12 +95,11 @@ media_all_json: |-
     sio Juzefo Pilsudskio (Józef Piłsudski) vadovaujama Lenkų socialistų par-
     tija. J. Pilsudskio šalininkai buvo ryžtingos kovos pirmiausia prieš Rusiją
     šalininkai, nevengę ir teroristinių veiksmų.
-  citata_rodoma: |
-    tija. J. Pilsudskio šalininkai buvo ryžtingos kovos pirmiausia prieš Rusiją
+  citata_rodoma: "tija. J. Pilsudskio šalininkai buvo ryžtingos kovos pirmiausia prieš Rusiją"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19792
+    - t-002

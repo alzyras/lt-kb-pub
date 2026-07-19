@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-101531"></a>
 - t-001
-  global_id: t-101531
   teiginys: "Lenkijai ėmusis sankcijų prieš Vilniaus krašto lietuvių organizacijas, 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų Sąjungos Tarybai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-101532"></a>
 - t-002
-  global_id: t-101532
   teiginys: "Tautų Sąjungos Taryba ribą tarp Lietuvos ir Lenkijos pavadino administracine linija, bet nepripažino jos valstybine siena."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,6 @@ Nenurodyta
 
 <a id="claim-t-101533"></a>
 - t-003
-  global_id: t-101533
   teiginys: "Ženevoje Tautų Sąjungos Taryba rezoliucija patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,15 +116,15 @@ Nenurodyta
     organizacijas. Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
     Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
     šaukusi karo padėties su Lenkija.
-  citata_rodoma: |
-    Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
+  citata_rodoma: "Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101531
+    - t-001
+
 - id: c-95080
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -149,5 +146,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101532
-    - t-101533
+    - t-002
+    - t-003

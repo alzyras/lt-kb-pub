@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-87054"></a>
 - t-001
-  global_id: t-87054
   teiginys: "XIII amžiaus viduryje dabartinio Vilniaus vietoje buvo medinių namų gyvenvietė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-87055"></a>
 - t-002
-  global_id: t-87055
   teiginys: "Iki Gedimino dabartinio Vilniaus vietoje tikriausiai buvo medinė tvirtovė, o palei Vilnios krantą driekėsi trobelės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,7 +108,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87055
+    - t-002
+
 - id: c-83034
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -134,4 +133,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87054
+    - t-001

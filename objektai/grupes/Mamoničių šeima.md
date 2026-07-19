@@ -28,7 +28,6 @@ Vilniuje veikė dvi stambios vėlyklos: viena priklausė miestui, kita – Mamon
 
 <a id="claim-t-202321"></a>
 - t-001
-  global_id: t-202321
   teiginys: "Vilniuje veikė dvi stambios vėlyklos: viena priklausė miestui, kita – Mamoničių šeimai."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,5 @@ Vilniuje veikė dvi stambios vėlyklos: viena priklausė miestui, kita – Mamon
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202321
+    - t-001

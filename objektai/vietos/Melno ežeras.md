@@ -41,7 +41,6 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
 
 <a id="claim-t-68690"></a>
 - t-001
-  global_id: t-68690
   teiginys: "Prie Melno ežero buvo priimtas naujos sienos projektas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
 
 <a id="claim-t-68691"></a>
 - t-002
-  global_id: t-68691
   teiginys: "1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,16 +88,15 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
     sileisti.
     Taika buvo padaryta 1422 m. rugsėjo mėn. 27 d. prie
     Melno ežero (netoli Vislos)^1 ).
-  citata_rodoma: |
-    Taika buvo padaryta 1422 m. rugsėjo mėn. 27 d. prie
-    Melno ežero (netoli Vislos)^1 ).
+  citata_rodoma: "Taika buvo padaryta 1422 m. rugsėjo mėn. 27 d. prie\nMelno ežero (netoli Vislos)^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68691
+    - t-002
+
 - id: c-68206
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -117,4 +114,4 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68690
+    - t-001

@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-59695"></a>
 - t-001
-  global_id: t-59695
   teiginys: "Prūsai pagal senovinį paprotį garbino negęstančiąją ugnį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,14 +77,11 @@ Nenurodyta
     iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
     senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet,
     žinoma, [tikėjo] ne taip, kaip dera.
-  citata_rodoma: |
-    Be to, jie garbino, kaip buvo įprasta
-    senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet,
-    žinoma, [tikėjo] ne taip, kaip dera.
+  citata_rodoma: "Be to, jie garbino, kaip buvo įprasta\nsenovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet,\nžinoma, [tikėjo] ne taip, kaip dera."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59695
+    - t-001

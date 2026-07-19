@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-31523"></a>
-- t-001
-  global_id: t-31523
+- t-002
   teiginys: "Nuolatiniai susidūrimai karuose su vakarų Europos riteriais Kęstutį išmokė riteriškų papročių, kurių jis griežtai laikėsi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-33455
 
 <a id="claim-t-31524"></a>
-- t-002
-  global_id: t-31524
+- t-001
   teiginys: "Priešų kronikos pabrėžė Kęstučio riteriškas ypatybes, taurius papročius ir kovos meną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,18 +96,15 @@ Nenurodyta
     meną kėlė ir priešų kronikos. Senoji magistro kronika («Ältere
     Hochmeisterschronik ») pastebėjo : « Kęstutis buvo vyras karingas
     ir tiesiakalbis.
-  citata_rodoma: |
-    Jo riteriškas ypatybes ir jo taurius papročius bei kovos
-    meną kėlė ir priešų kronikos. Senoji magistro kronika («Ältere
-    Hochmeisterschronik ») pastebėjo : « Kęstutis buvo vyras karingas
-    ir tiesiakalbis.
+  citata_rodoma: "Jo riteriškas ypatybes ir jo taurius papročius bei kovos\nmeną kėlė ir priešų kronikos. Senoji magistro kronika («Ältere\nHochmeisterschronik ») pastebėjo : « Kęstutis buvo vyras karingas\nir tiesiakalbis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31524
+    - t-001
+
 - id: c-33455
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -122,16 +117,11 @@ Nenurodyta
     Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie
     Lietuvos kunigaikščius ištaria gerą žodį, yra pažymėjęs : « Kęstutis,
     nors ir pagonis, buvo šaunus vyras.
-  citata_rodoma: |
-    Nuolatiniai susidūrimai karuose su vakarų Europos
-    riteriais Kęstutį išmokė riteriškų papročių, kurių jis griežtai laikėsi.
-    Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie
-    Lietuvos kunigaikščius ištaria gerą žodį, yra pažymėjęs : « Kęstutis,
-    nors ir pagonis, buvo šaunus vyras.
+  citata_rodoma: "Nuolatiniai susidūrimai karuose su vakarų Europos\nriteriais Kęstutį išmokė riteriškų papročių, kurių jis griežtai laikėsi.\nNet Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie\nLietuvos kunigaikščius ištaria gerą žodį, yra pažymėjęs : « Kęstutis,\nnors ir pagonis, buvo šaunus vyras."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31523
+    - t-002

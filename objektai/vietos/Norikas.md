@@ -37,7 +37,6 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
 
 <a id="claim-t-192827"></a>
 - t-001
-  global_id: t-192827
   teiginys: "Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudegino Juvavą prie Saurus upės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
 
 <a id="claim-t-192828"></a>
 - t-002
-  global_id: t-192828
   teiginys: "Narbuto pasakojime 486 m. Norike likusius sąjungininkus engė rugių karalius Febanas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,6 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
 
 <a id="claim-t-192829"></a>
 - t-003
-  global_id: t-192829
   teiginys: "Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -108,7 +105,6 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
 
 <a id="claim-t-197903"></a>
 - t-004
-  global_id: t-197903
   teiginys: "Beveik tuo pat metu Norike kilo kažkokie neramumai, kurie ir atviliojo ten herulus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -151,6 +147,7 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-175597
@@ -169,23 +166,16 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
     Galiją, kur, jam išsilaipinus prie Ligeros žiočių, tenykš­
     tis karalius nusižemino ir sudarė sąjungą, kokios iš jo
     reikalavo Odoakras.
-  citata_rodoma: |
-    Beveik tuo pat metu Norike kilo kažkokie neramumai,
-    kurie ir atviliojo ten herulus. 477 metais jie sudegino gar­
-    sią romėnų koloniją Juvavą prie Saurus upės — dabar
-    tai Zalcburgas prie Zalcacho upės.
-    Taigi 478 metais reikėjo saksų priešakyje plaukti į
-    Galiją, kur, jam išsilaipinus prie Ligeros žiočių, tenykš­
-    tis karalius nusižemino ir sudarė sąjungą, kokios iš jo
-    reikalavo Odoakras.
+  citata_rodoma: "Beveik tuo pat metu Norike kilo kažkokie neramumai, \nkurie ir atviliojo ten herulus. 477 metais jie sudegino gar­\nsią romėnų koloniją Juvavą prie Saurus upės — dabar \ntai Zalcburgas prie Zalcacho upės.\nTaigi 478 metais reikėjo saksų priešakyje plaukti į \nGaliją, kur, jam išsilaipinus prie Ligeros žiočių, tenykš­\ntis karalius nusižemino ir sudarė sąjungą, kokios iš jo \nreikalavo Odoakras."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192827
-    - t-197903
+    - t-001
+    - t-004
+
 - id: c-175598
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -202,7 +192,8 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192828
+    - t-002
+
 - id: c-175599
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -226,4 +217,4 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192829
+    - t-003

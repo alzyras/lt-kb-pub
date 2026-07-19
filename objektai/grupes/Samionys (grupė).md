@@ -33,7 +33,6 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
 
 <a id="claim-t-201228"></a>
 - t-001
-  global_id: t-201228
   teiginys: "Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių Pragaro ir Nemuno, kalavijonys nuo antros pusės, tai yra nuo Padaugavio, tuointimpos veržės per Žemgalius į Žemaičius, dykdami visuomet su kryžėjais susinerti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,6 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
 
 <a id="claim-t-201229"></a>
 - t-002
-  global_id: t-201229
   teiginys: "Pradžioj samionys susiskliautę kantriai ir stipriai turėjos, bet ilgainiui, mažindamos kritusiais ir žeistaisiais, nebgalėjo meldžionų benuramdyti, nebstengdami įsitraukė į Kalgių kai mą, bet jog ir tenai meldžianys įkandin juos vijo, prasidėjo vėl baisesnė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -59,7 +57,6 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
 
 <a id="claim-t-201230"></a>
 - t-003
-  global_id: t-201230
   teiginys: "Įkyrėjus vergauti kryžėjams, samionys Galgarbių apykaitose vėl buvo pakėlę ginklą ant savo galžudžių ir apgulę patį vyskupą Sami jos pilėj, Vischusen vadinamoj, bet, nestengdami tenai įsi laužti, pilį palikini paskydo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -73,8 +70,9 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
 ## Citatos
 
 - id: c-184578
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nuo tenai Otokaras leidos Pragaru
     pagal žemyn lig girios, Tvangste vadinamos, kur­
@@ -98,11 +96,12 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201228
+    - t-001
 
 - id: c-184579
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pradžioj samionys susiskliautę
     kantriai ir stipriai turėjos, bet ilgainiui, mažinda-
@@ -129,11 +128,12 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201229
+    - t-002
 
 - id: c-184580
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip namie bekerštaujant lietuviams, už namų
     lygios nelaimos likos.
@@ -153,4 +153,4 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201230
+    - t-003

@@ -42,7 +42,6 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
 
 <a id="claim-t-87531"></a>
 - t-001
-  global_id: t-87531
   teiginys: "Kasparo Bekešo atminimas Vilniuje 1580 m. pagerbtas prie kapo ant kalno prie Vilnelės pastačius apvalaus bokšto paminklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
 
 <a id="claim-t-87532"></a>
 - t-002
-  global_id: t-87532
   teiginys: "Sulikovskis pasakojo, kad Kasparo Bekešo palaikai užsienio papročiu buvo palaidoti po apvaliu bokštu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87532
+    - t-002
+
 - id: c-83511
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -158,4 +157,4 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87531
+    - t-001

@@ -32,7 +32,6 @@ Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje 
 
 <a id="claim-t-192844"></a>
 - t-001
-  global_id: t-192844
   teiginys: "Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje greta Kučincų kaimo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje 
 
 <a id="claim-t-192845"></a>
 - t-002
-  global_id: t-192845
   teiginys: "Roska prie Rošovsko kaimo iš dešiniojo kranto įteka į Rosę, kuri drauge su Supo upe sudaro į Dneprą plaukiančių upių baseiną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje 
 
 <a id="claim-t-197896"></a>
 - t-003
-  global_id: t-197896
   teiginys: "Čia, kairiojoje Supo pakrantėje, greta Kučincų, Kuczyncami, kaimo, prasideda upelis Mažoji Rosé, Ros, šian dien čiabuvių vadinama Roska."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -87,7 +84,6 @@ Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje 
 
 <a id="claim-t-197897"></a>
 - t-004
-  global_id: t-197897
   teiginys: "Prie Rošovsko kaimo į ją iš dešiniojo kranto įteką Roska, sruvena per gana didelę Ukrainos dalį ir drauge su Supo upe sudaro į 'Dneprą plaukiančių upių vandens baseiną, priešingą atitekančioms į Būgą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -120,8 +116,9 @@ Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192844
-    - t-197896
+    - t-001
+    - t-003
+
 - id: c-175615
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -143,5 +140,5 @@ Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192845
-    - t-197897
+    - t-002
+    - t-004

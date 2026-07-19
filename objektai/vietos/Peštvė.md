@@ -38,7 +38,6 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
 
 <a id="claim-t-32446"></a>
 - t-001
-  global_id: t-32446
   teiginys: "Kryžiuočiai sudegino Peštvės priešpilį Seredžiuje prie Dubysos žiočių, o pati Peštvė du kartus pamečiui buvo apgulta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     - c-33992
 
 <a id="claim-t-32447"></a>
-- t-002
-  global_id: t-32447
+- t-003
   teiginys: "Pasak užrašo, Peštvės įgula pažadėjo apgulusiems kryžiuočiams krikštytis, bet po derybų nakčia išbėgiojo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     - c-33993
 
 <a id="claim-t-32448"></a>
-- t-003
-  global_id: t-32448
+- t-002
   teiginys: "Kryžiuočiai grįždami sudegino Peštvę ir Veliuoną, dvi svarbias lietuvių pilis, ilgai rodžiusias tvirtą atsparumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,21 +114,15 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     pasiekė Nemuno dešiniojo kranto sritis tarp Dubysos ir Nevėžio,
     nusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­
     stovie ») sritis^27.
-  citata_rodoma: |
-    Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės
-    (Seredžiuje — prie Dubysos žiočių), kuri du kartu pamečiui buvo
-    apgulta, tuo pat metu Žemaičių pietvakariuose nuteriojant « Po­
-    graudą»^26. Taip pat du kartu (1292, 1294) ordino kariuomenė
-    pasiekė Nemuno dešiniojo kranto sritis tarp Dubysos ir Nevėžio,
-    nusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­
-    stovie ») sritis^27.
+  citata_rodoma: "Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės\n(Seredžiuje — prie Dubysos žiočių), kuri du kartu pamečiui buvo\napgulta, tuo pat metu Žemaičių pietvakariuose nuteriojant « Po­\ngraudą»^26. Taip pat du kartu (1292, 1294) ordino kariuomenė\npasiekė Nemuno dešiniojo kranto sritis tarp Dubysos ir Nevėžio,\nnusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­\nstovie ») sritis^27."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32446
+    - t-001
+
 - id: c-33993
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -143,19 +134,15 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     krikštytis, po derybų nakčia išbėgiojusi. Veliuona tepasidavė po
     10 dienų apgulimo, o pilies gynėjai su vadu Goštautu (Gastot)
     pakeliui į vyr. magistro stovyklą buvo išžudyti^16.
-  citata_rodoma: |
-    Apie Peštvės
-    įgulą yra užrašyta, jog ji, apgulusiems kryžiuočiams pasižadėjusi
-    krikštytis, po derybų nakčia išbėgiojusi. Veliuona tepasidavė po
-    10 dienų apgulimo, o pilies gynėjai su vadu Goštautu (Gastot)
-    pakeliui į vyr.
+  citata_rodoma: "Apie Peštvės\nįgulą yra užrašyta, jog ji, apgulusiems kryžiuočiams pasižadėjusi\nkrikštytis, po derybų nakčia išbėgiojusi. Veliuona tepasidavė po\n10 dienų apgulimo, o pilies gynėjai su vadu Goštautu (Gastot)\npakeliui į vyr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32447
+    - t-003
+
 - id: c-33994
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -166,15 +153,11 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai
     buvo rodžiusios tvirtą atsparumą. Tuo būdu Nemuno krantuose
     iki Kauno nebeliko jokio lietuvių gynimosi punkto.
-  citata_rodoma: |
-    Grįždami jie sudegino
-    dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai
-    buvo rodžiusios tvirtą atsparumą. Tuo būdu Nemuno krantuose
-    iki Kauno nebeliko jokio lietuvių gynimosi punkto.
+  citata_rodoma: "Grįždami jie sudegino\ndar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai\nbuvo rodžiusios tvirtą atsparumą. Tuo būdu Nemuno krantuose\niki Kauno nebeliko jokio lietuvių gynimosi punkto."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32448
+    - t-002

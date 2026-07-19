@@ -52,7 +52,6 @@ Atsisveikinimo formulė, tiesiogiai susieta su Lietuva.
 
 <a id="claim-t-195410"></a>
 - t-001
-  global_id: t-195410
   teiginys: "Prof. Niemio paskutiniai žodžiai užrašyti kaip atsisveikinimo formulė apie Lietuvą."
   atnaujinta: "2026-07-12 02:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -80,12 +79,11 @@ Atsisveikinimo formulė, tiesiogiai susieta su Lietuva.
     „Mano nųntys Lietuvoje.
     Sudiev,
     klestėk, Lietuva“ .
-  citata_rodoma: |
-    „Mano nųntys Lietuvoje. Sudiev, klestėk, Lietuva“
+  citata_rodoma: "„Mano nųntys Lietuvoje. Sudiev, klestėk, Lietuva“"
   statusas: verified
   atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195410
+    - t-001

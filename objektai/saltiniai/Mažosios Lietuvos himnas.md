@@ -35,8 +35,7 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
 ## Teiginiai
 
 <a id="claim-t-75499"></a>
-- t-001
-  global_id: t-75499
+- t-002
   teiginys: "XIX a. pabaigoje Georgas Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
     - c-23900
 
 <a id="claim-t-75500"></a>
-- t-002
-  global_id: t-75500
+- t-001
   teiginys: "Už lietuvių kalbą Rytų Prūsijoje kovojęs Jurgis Zauerveinas parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -95,18 +93,12 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
     garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-
     rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
     tvirtai tikėdami, kad tikrai nebepražus.
-  citata_rodoma: |
-    Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už
-    lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame
-    buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą
-    garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-
-    rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
-    tvirtai tikėdami, kad tikrai nebepražus.
+  citata_rodoma: "Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už\nlietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame\nbuvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą\ngarbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-\nrėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau\ntvirtai tikėdami, kad tikrai nebepražus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75499
-    - t-75500
+    - t-002
+    - t-001

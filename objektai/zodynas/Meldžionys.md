@@ -40,8 +40,7 @@ Vartojamos formos: `meldžionis`.
 ## Teiginiai
 
 <a id="claim-t-07679"></a>
-- t-001
-  global_id: t-07679
+- t-003
   teiginys: "Meldžionys Daukanto aiškinime atėjo iš Teutonijos į Žemaičius, Parusius ir Žemgalius krikštydami kardu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -57,8 +56,7 @@ Vartojamos formos: `meldžionis`.
     - c-09610
 
 <a id="claim-t-07680"></a>
-- t-002
-  global_id: t-07680
+- t-004
   teiginys: "Meldžionis aiškinamas kaip žodis, kilęs nuo veiksmažodžio melsti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -74,8 +72,7 @@ Vartojamos formos: `meldžionis`.
     - c-09610
 
 <a id="claim-t-200953"></a>
-- t-003
-  global_id: t-200953
+- t-005
   teiginys: "Žemgaliai, kurie buvo persikrikš tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su sinėrę kariavo meldžionis, kaipogi, aptverę kuo stipresniai pilį Mežotę, traukė į Bažnyčios salą ir tenai, krikščionis nugalavę, visą kraštą nuteriojo."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -87,8 +84,7 @@ Vartojamos formos: `meldžionis`.
     - c-184303
 
 <a id="claim-t-200954"></a>
-- t-004
-  global_id: t-200954
+- t-006
   teiginys: "Kujavijos, lygiai su meldžionimis atėjusiaisiais skubinai persikėlė per Yslą į Pamariją, kurią, gieždamas apmaudą, nuteriojo nuo vieno krašto iki antro, grobį griedamas; ką vien rado, tai yra: javus, gyvolius, ėmė šalin, tro besius nudegino, varydamas būriais."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -107,29 +103,25 @@ Vartojamos formos: `meldžionis`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     meldžionis, paeina nuo melsti, kaipogi visiems yra žinoma, jog šiokie tokie pergalviai^850 ir
-    piktadėjai^851 tvino iš Teutonijos į Žemaičius, Parusius ir Žemgalius, arba Kuršą, dievą maldauti už
-    savo griekus, krikštydami kardu ir vergdami gyventojus tų kraštų, ką ne vien palaikai ginklų,
-    randami tuose kapuose, bet ir raštai patys tą stigavoja. Lygia dalia ir tuos kapus, į kuriuos savo
-    numirėlius laidojo, už šventus turėjo, tardami, jog mirusiųjų nereikią kušinti, kaip jei pavargusiųjų
-    keleivių miegančių budinti.
-  citata_rodoma: |
-    meldžionis, paeina nuo melsti, kaipogi visiems yra žinoma, jog šiokie tokie pergalviai^850 ir
-    piktadėjai^851 tvino iš Teutonijos į Žemaičius, Parusius ir Žemgalius, arba Kuršą, dievą maldauti už
-    savo griekus, krikštydami kardu ir vergdami gyventojus tų kraštų, ką ne vien palaikai ginklų,
-    randami tuose kapuose, bet ir raštai patys tą stigavoja. Lygia dalia ir tuos kapus, į kuriuos savo
-    numirėlius laidojo, už šventus turėjo, tardami, jog mirusiųjų nereikią kušinti, kaip jei pavargusiųjų
-    keleivių miegančių budinti.
+        piktadėjai^851 tvino iš Teutonijos į Žemaičius, Parusius ir Žemgalius, arba Kuršą, dievą maldauti už
+        savo griekus, krikštydami kardu ir vergdami gyventojus tų kraštų, ką ne vien palaikai ginklų,
+        randami tuose kapuose, bet ir raštai patys tą stigavoja. Lygia dalia ir tuos kapus, į kuriuos savo
+        numirėlius laidojo, už šventus turėjo, tardami, jog mirusiųjų nereikią kušinti, kaip jei pavargusiųjų
+        keleivių miegančių budinti.
+  citata_rodoma: "meldžionis, paeina nuo melsti, kaipogi visiems yra žinoma, jog šiokie tokie pergalviai^850 ir\npiktadėjai^851 tvino iš Teutonijos į Žemaičius, Parusius ir Žemgalius, arba Kuršą, dievą maldauti už\nsavo griekus, krikštydami kardu ir vergdami gyventojus tų kraštų, ką ne vien palaikai ginklų,\nrandami tuose kapuose, bet ir raštai patys tą stigavoja. Lygia dalia ir tuos kapus, į kuriuos savo\nnumirėlius laidojo, už šventus turėjo, tardami, jog mirusiųjų nereikią kušinti, kaip jei pavargusiųjų\nkeleivių miegančių budinti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07679
-    - t-07680
+    - t-003
+    - t-004
+
 - id: c-184303
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Žemgaliai, kurie buvo persikrikš­
     tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su­
@@ -148,10 +140,12 @@ Vartojamos formos: `meldžionis`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200953
+    - t-005
+
 - id: c-184304
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Sviatopelkas nebgalėjo niekaip savųjų į rin-
     dą besueiluoti, kaipogi viena dalis kryžėjų įpuolė į
@@ -174,4 +168,4 @@ Vartojamos formos: `meldžionis`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200954
+    - t-006

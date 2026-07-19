@@ -41,7 +41,6 @@ didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadi
 
 <a id="claim-t-52535"></a>
 - t-001
-  global_id: t-52535
   teiginys: "Taikos suvažiavimai buvo visų taikos tarpininkų susirinkimai, skirti didesniems valstiečių reformos nesusipratimams spręsti."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadi
 
 <a id="claim-t-52536"></a>
 - t-002
-  global_id: t-52536
   teiginys: "Taikos suvažiavimai buvo visų taikos tarpininkų susirinkimai, skirti didesniems reformos vykdymo nesusipratimams spręsti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,19 +92,12 @@ didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadi
     taikos suvažiavimais.
     Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
     rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
-  citata_rodoma: |
-    Reformai atlikti buvo sudarytos apskrityse valstiečių ko-
-    misijos, apskritys padalintos į apylinkes, kurių priešaky bu-
-    vo pastatyti taikos tarpininkai, o didesniesiems nesu-
-    sipratimams spręsti — visų tarpininkų suvažiavimai, vadinami
-    taikos suvažiavimais.
-    Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
-    rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
+  citata_rodoma: "Reformai atlikti buvo sudarytos apskrityse valstiečių ko-\nmisijos, apskritys padalintos į apylinkes, kurių priešaky bu-\nvo pastatyti taikos tarpininkai, o didesniesiems nesu-\nsipratimams spręsti — visų tarpininkų suvažiavimai, vadinami\ntaikos suvažiavimais.\nBaudžiavos panaikinimo vykdymas buvo pačių dvarininkų\nrankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-52535
-    - t-52536
+    - t-001
+    - t-002

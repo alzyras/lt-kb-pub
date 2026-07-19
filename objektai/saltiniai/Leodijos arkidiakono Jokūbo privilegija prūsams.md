@@ -36,7 +36,6 @@ Narbutas ypač reikšmingomis laiko Hartknocho pateiktas ištraukas iš Leodijos
 
 <a id="claim-t-190543"></a>
 - t-001
-  global_id: t-190543
   teiginys: "Narbutas ypač reikšmingomis laiko Hartknocho pateiktas ištraukas iš Leodijos arkidiakono Jokūbo privilegijos, duotos prūsams 1249 metais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Narbutas ypač reikšmingomis laiko Hartknocho pateiktas ištraukas iš Leodijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190543
+    - t-001

@@ -31,7 +31,6 @@ Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į š
 
 <a id="claim-t-188972"></a>
 - t-001
-  global_id: t-188972
   teiginys: "Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, bet nelaimingiesiems veikiausiai ne."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į š
 
 <a id="claim-t-188973"></a>
 - t-002
-  global_id: t-188973
   teiginys: "Hartknochas šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje, iš kurių viena įteka į Rusnės įlanką."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,8 @@ Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188972
+    - t-001
+
 - id: c-171862
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -113,4 +112,4 @@ Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188973
+    - t-002

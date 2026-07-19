@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-31432"></a>
 - t-001
-  global_id: t-31432
   teiginys: "1323 m. kovą lietuviai iš Žemaičių puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,13 +82,11 @@ Nenurodyta
     tuviams puolant Livoniją, kryžiuočiai įsiveržė Žemaičių gilumon ir
     padarė daug nuostolių^6. Bet jau 1323 m. kovo mėn. «Lietuviai iš
     Žemaičių » puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą.
-  citata_rodoma: |
-    Bet jau 1323 m. kovo mėn. «Lietuviai iš
-    Žemaičių » puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą.
+  citata_rodoma: "Bet jau 1323 m. kovo mėn. «Lietuviai iš\nŽemaičių » puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31432
+    - t-001

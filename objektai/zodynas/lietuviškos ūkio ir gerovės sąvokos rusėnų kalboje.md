@@ -31,7 +31,6 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
 
 <a id="claim-t-22217"></a>
 - t-001
-  global_id: t-22217
   teiginys: "XV–XVI a. Lietuvos Metrikos rusėnų kalboje vartotos lietuviškos ūkio sąvokos, tarp jų „litovka“, „doilida“, „jevje“ ir „sviren“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
 
 <a id="claim-t-183443"></a>
 - t-002
-  global_id: t-183443
   teiginys: "XV–XVI a. Lietuvos Metrikos rusėnų kalboje vartotos lietuviškos ūkio ir gerovės sąvokos, tarp jų „litovka“, „jevje“, „sviren“ ir „skilond“."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -82,15 +80,15 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
     vartojamos net Ukrainoje lietuviškos tokios to meto ūkio sąvokos: dal-
     gio tipas „litovka“, dailidė („doilida“) ar jauja („jevje“), svirnas („sviren“),
     kluonas („klunia“), aruodas („orud“), priemenė („primen“).
-  citata_rodoma: |
-    neatsitiktinai į XV–XVI a. Lietuvos Metrikos rusėnų kalbą pateko ir buvo
+  citata_rodoma: "neatsitiktinai į XV–XVI a. Lietuvos Metrikos rusėnų kalbą pateko ir buvo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22217
+    - t-001
+
 - id: c-166838
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -108,4 +106,4 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183443
+    - t-002

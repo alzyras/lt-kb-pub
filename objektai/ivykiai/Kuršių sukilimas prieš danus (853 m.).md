@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-28832"></a>
 - t-001
-  global_id: t-28832
   teiginys: "853 m. kuršiai susivieniję sumušė juos vėl pavergti ir apiplėšti atvykusius danus, užgrobė dalį laivų ir daug turto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28832
+    - t-001

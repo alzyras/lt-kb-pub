@@ -37,8 +37,7 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
 ## Teiginiai
 
 <a id="claim-t-65314"></a>
-- t-001
-  global_id: t-65314
+- t-002
   teiginys: "1935 m. „Pienocentras“ tris kartus sumažino iš valstiečių supirkinėtų pieno produktų kainas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
     - c-65735
 
 <a id="claim-t-65315"></a>
-- t-002
-  global_id: t-65315
+- t-001
   teiginys: "Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, draugijų palaikymas sustambino lietuvių kooperacines bendroves „Lietūkis“, „Pienocentras“, „Maistas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,15 +90,15 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
     geliu atžvilgių nepajėgė veikti tautos ūkiui reikiamu mastu, J. Tūbelis
     kūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę vei-
     klą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį
-  citata_rodoma: |
-    geliu atžvilgių nepajėgė veikti tautos ūkiui reikiamu mastu, J. Tūbelis
+  citata_rodoma: "geliu atžvilgių nepajėgė veikti tautos ūkiui reikiamu mastu, J. Tūbelis"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65315
+    - t-001
+
 - id: c-65735
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -113,12 +111,11 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
     kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną
     į Kauną ir keliuose pastatė postus, o juos ardant kilo riaušės, policija
     Veiveriuose nušovė tris valstiečius, šimtus areštavo.
-  citata_rodoma: |
-    kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną
+  citata_rodoma: "kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65314
+    - t-002

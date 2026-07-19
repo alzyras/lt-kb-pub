@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185777"></a>
 - t-001
-  global_id: t-185777
   teiginys: "A. Gvagninis 1525 m. valstiečių karą Vokietijoje siejo su valstiečių sukilimu prieš bažnytinius ir pasaulietinius ponus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185777
+    - t-001

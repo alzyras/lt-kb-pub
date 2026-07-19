@@ -36,8 +36,7 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
 ## Teiginiai
 
 <a id="claim-t-38491"></a>
-- t-001
-  global_id: t-38491
+- t-002
   teiginys: "Radvila pasiuntė kelias kavalerijos vėliavas į Kopysės pusę, kad atviliotų pagrindines rusų kariuomenės pajėgas į mūšį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
     - c-40294
 
 <a id="claim-t-193769"></a>
-- t-002
-  global_id: t-193769
+- t-003
   teiginys: "Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko žygiavo užimti Oršą ir Kopysę."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,8 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38491
+    - t-002
+
 - id: c-176424
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -113,4 +112,4 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193769
+    - t-003

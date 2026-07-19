@@ -31,7 +31,6 @@ Salio, ir kalbininkų Talmanto, Laurynaičio ir Kuzmickio straipsniai.
 
 <a id="claim-t-96055"></a>
 - t-001
-  global_id: t-96055
   teiginys: "Bendrinės kalbos žurnalo „Kalba“ pirmajame sąsiuvinyje buvo įdėtas kalbininko Kuzmickio straipsnis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Salio, ir kalbininkų Talmanto, Laurynaičio ir Kuzmickio straipsniai.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96055
+    - t-001

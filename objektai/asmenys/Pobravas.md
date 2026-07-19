@@ -31,7 +31,6 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
 
 <a id="claim-t-60414"></a>
 - t-001
-  global_id: t-60414
   teiginys: "Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,6 +77,7 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60414
+    - t-001
+
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Notangai]]

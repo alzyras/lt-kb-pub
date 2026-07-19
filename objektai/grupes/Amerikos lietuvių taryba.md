@@ -40,7 +40,6 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
 
 <a id="claim-t-23465"></a>
 - t-001
-  global_id: t-23465
   teiginys: "Amerikos lietuvių taryba, įsteigta 1940 m., buvo viena svarbiausių ir stipriausių JAV lietuvių išeivijos organizacijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,16 +79,11 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
     1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios lietuvių lais-
     vinimo darbo konferencijos patvirtinta nuostata „siekti nepriklausomos
     Lietuvos atstatymo, remiantis nekintama lietuvių tautos valia“.
-  citata_rodoma: |
-    Jos siekė veikti išvien
-    ir pasitarnauti Lietuvos laisvės bylai tarptautiniu mastu. Tam įtakos turėjo
-    1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios lietuvių lais-
-    vinimo darbo konferencijos patvirtinta nuostata „siekti nepriklausomos
-    Lietuvos atstatymo, remiantis nekintama lietuvių tautos valia“.
+  citata_rodoma: "Jos siekė veikti išvien \nir pasitarnauti Lietuvos laisvės bylai tarptautiniu mastu. Tam įtakos turėjo \n1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios lietuvių lais-\nvinimo darbo konferencijos patvirtinta nuostata „siekti nepriklausomos \nLietuvos atstatymo, remiantis nekintama lietuvių tautos valia“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23465
+    - t-001

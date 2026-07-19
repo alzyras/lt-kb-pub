@@ -38,8 +38,7 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
 ## Teiginiai
 
 <a id="claim-t-70335"></a>
-- t-001
-  global_id: t-70335
+- t-002
   teiginys: "Unijos akte reikalauti pakeisti statuto nuostatai Lietuvoje nebuvo pakeisti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
     - c-46929
 
 <a id="claim-t-70336"></a>
-- t-002
-  global_id: t-70336
+- t-001
   teiginys: "Statuto dėsniai draudė lenkams įsigyti dvarų Lietuvoje, o vienas unijos nuostatas reikalavo šį draudimą panaikinti."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
 
 <a id="claim-t-182978"></a>
 - t-003
-  global_id: t-182978
   teiginys: "Unijos akte reikalauta panaikinti Lietuvos statuto dėsnius, draudusius lenkams įsigyti dvarų Lietuvoje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -108,18 +105,15 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
     mas dar vienas — lenkams pats svarbusis — nuostatas, reikalaująs
     panaikinti visus Lietuvos įstatymus (statuto dėsnius), drau-
     džiančius lenkams įsigyti Lietuvoje dvarų.
-  citata_rodoma: |
-    Pagaliau įveda-
-    mas dar vienas — lenkams pats svarbusis — nuostatas, reikalaująs
-    panaikinti visus Lietuvos įstatymus (statuto dėsnius), drau-
-    džiančius lenkams įsigyti Lietuvoje dvarų.
+  citata_rodoma: "Pagaliau įveda-\nmas dar vienas — lenkams pats svarbusis — nuostatas, reikalaująs\npanaikinti visus Lietuvos įstatymus (statuto dėsnius), drau-\ndžiančius lenkams įsigyti Lietuvoje dvarų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70336
+    - t-001
+
 - id: c-46929
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -130,18 +124,15 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
     Lietuvoje, nes unijos akte reikalaujamieji pakeisti statuto nuo-
     statai niekad nebuvo pakeisti. Tuo būdu iš visos unijos liko
     tik bendras valdovas ir bendri seimai.
-  citata_rodoma: |
-    O valstybinių urėdų jie niekuomet negalėjo gauti
-    Lietuvoje, nes unijos akte reikalaujamieji pakeisti statuto nuo-
-    statai niekad nebuvo pakeisti. Tuo būdu iš visos unijos liko
-    tik bendras valdovas ir bendri seimai.
+  citata_rodoma: "O valstybinių urėdų jie niekuomet negalėjo gauti\nLietuvoje, nes unijos akte reikalaujamieji pakeisti statuto nuo-\nstatai niekad nebuvo pakeisti. Tuo būdu iš visos unijos liko\ntik bendras valdovas ir bendri seimai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70335
+    - t-002
+
 - id: c-166376
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -161,4 +152,4 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182978
+    - t-003

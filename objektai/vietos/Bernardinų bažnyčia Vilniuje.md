@@ -56,7 +56,6 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 
 <a id="claim-t-55245"></a>
 - t-001
-  global_id: t-55245
   teiginys: "1500 m. Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį karaliaus malūną, nes jis drebindamas silpnino bernardinų pastatų pamatus."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::places"
@@ -75,7 +74,6 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 
 <a id="claim-t-55246"></a>
 - t-002
-  global_id: t-55246
   teiginys: "Mikalojus Radvila II savo lėšomis naujai pamūrijo bernardinų bažnyčią, vadintą Šv. Pranciškaus ir Bernardo vardu."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "gap::places"
@@ -95,7 +93,6 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 
 <a id="claim-t-55247"></a>
 - t-003
-  global_id: t-55247
   teiginys: "Bernardinų bažnyčia dėl menkų pamatų grėsė griūtimi, todėl ji buvo iš naujo pamūryta dosniai prisidėjus Vilniaus vaivadai Mikalojui Radvilai."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::places"
@@ -114,7 +111,6 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 
 <a id="claim-t-83203"></a>
 - t-004
-  global_id: t-83203
   teiginys: "Bernardinų bažnyčia Vilniuje buvo per nauja pamūryta, nes dėl menkų pamatų jai grėsė griūtis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::places"
@@ -131,7 +127,6 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 
 <a id="claim-t-83204"></a>
 - t-005
-  global_id: t-83204
   teiginys: "1500 m. karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną, ardžiusį pastatų pamatus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::places"
@@ -151,7 +146,6 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 
 <a id="claim-t-194251"></a>
 - t-006
-  global_id: t-194251
   teiginys: "Mergelės Marijos Apsilankymo ok tavoje), bernardinų prašymu, prie vienuolyno esantį savo malūną įsa ko nugriauti, kadangi šis dėl drebė jimo malimo metu išjudino jau ir taip netvirtus bernardinų pastatų pamatus, o sklvpą, kuriame malū nas stovėjo, atiduoda."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -164,7 +158,6 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 
 <a id="claim-t-200775"></a>
 - t-007
-  global_id: t-200775
   teiginys: "Vorobjovo vertinimu, Bernardinų bažnyčios ansamblio nesugadino nei gaisrai, nei vėlesni architektūriniai priedai."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -178,7 +171,6 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 
 <a id="claim-t-200776"></a>
 - t-008
-  global_id: t-200776
   teiginys: "Dėl Reformacijos įtakos ir lėšų stokos Bernardinų bažnyčios statyba užsitęsė iki XVI amžiaus pabaigos."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -229,9 +221,10 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55245
-    - t-55246
-    - t-194251
+    - t-001
+    - t-002
+    - t-006
+
 - id: c-55848
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -250,7 +243,8 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55247
+    - t-003
+
 - id: c-79578
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -270,7 +264,8 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83203
+    - t-004
+
 - id: c-79579
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -296,27 +291,15 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
     taip netvirtus bernardinų pastatų
     pamatus, o sklvpą, kuriame malū­
     nas stovėjo, atiduoda vienuolynui.
-  citata_rodoma: |
-    51
-    Karalius Aleksandras savo sprendi­
-    mu, datuotu Borisove 1500 m. (feria
-    quinta in octava Visitationis Beatae
-    Virginis Mariae - ketvirtadienį Švč.
-    Mergelės Marijos Apsilankymo ok­
-    tavoje), bernardinų prašymu, prie
-    vienuolyno esantį savo malūną įsa­
-    ko nugriauti, kadangi šis dėl drebė­
-    jimo malimo metu išjudino jau ir
-    taip netvirtus bernardinų pastatų
-    pamatus, o sklvpą, kuriame malū­
-    nas stovėjo, atiduoda vienuolynui.
+  citata_rodoma: "51\nKaralius Aleksandras savo sprendi­\nmu, datuotu Borisove 1500 m. (feria \nquinta in octava Visitationis Beatae \nVirginis Mariae - ketvirtadienį Švč.\nMergelės Marijos Apsilankymo ok­\ntavoje), bernardinų prašymu, prie \nvienuolyno esantį savo malūną įsa­\nko nugriauti, kadangi šis dėl drebė­\njimo malimo metu išjudino jau ir \ntaip netvirtus bernardinų pastatų \npamatus, o sklvpą, kuriame malū­\nnas stovėjo, atiduoda vienuolynui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83204
+    - t-005
+
 - id: c-184120
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -337,7 +320,8 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200775
+    - t-007
+
 - id: c-184121
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -357,4 +341,4 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200776
+    - t-008

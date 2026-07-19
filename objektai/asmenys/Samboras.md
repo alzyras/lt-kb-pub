@@ -35,8 +35,7 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
 ## Teiginiai
 
 <a id="claim-t-60201"></a>
-- t-001
-  global_id: t-60201
+- t-002
   teiginys: "Samboras su Pomeranijos kunigaikščiu ir ginklanešiais užstojo kelius prūsams, kad šie negalėtų pasprukti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
     - c-60833
 
 <a id="claim-t-60202"></a>
-- t-002
-  global_id: t-60202
+- t-001
   teiginys: "Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -88,21 +86,15 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
     sėjo aplinkui žaizdas, nes prūsai niekur negalėjo pasprukti nuo persekiotojų; šitaip buvo
     suduotas skaudus smūgis prūsų tautai, nes tą dieną krito daugiau nei penki tūkstančiai
     nukautųjų.
-  citata_rodoma: |
-    Tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau
-    įgudę kovoti su prūsais, su savo ginklanešiais užstojo kelius užtvarose, kad niekam
-    nepavyktų pasprukti, ir tada pradėjo įnirtingai naikinti nusidėjėlius. Vienur švytruojąs
-    Kristaus kariaunos kalavijas ryte rijo netikėlių kūnus, kitur ietis, ne veltui plušėdama,
-    sėjo aplinkui žaizdas, nes prūsai niekur negalėjo pasprukti nuo persekiotojų; šitaip buvo
-    suduotas skaudus smūgis prūsų tautai, nes tą dieną krito daugiau nei penki tūkstančiai
-    nukautųjų.
+  citata_rodoma: "Tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau\nįgudę kovoti su prūsais, su savo ginklanešiais užstojo kelius užtvarose, kad niekam\nnepavyktų pasprukti, ir tada pradėjo įnirtingai naikinti nusidėjėlius. Vienur švytruojąs\nKristaus kariaunos kalavijas ryte rijo netikėlių kūnus, kitur ietis, ne veltui plušėdama,\nsėjo aplinkui žaizdas, nes prūsai niekur negalėjo pasprukti nuo persekiotojų; šitaip buvo\nsuduotas skaudus smūgis prūsų tautai, nes tą dieną krito daugiau nei penki tūkstančiai\nnukautųjų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60201
+    - t-002
+
 - id: c-60834
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -148,4 +140,4 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60202
+    - t-001

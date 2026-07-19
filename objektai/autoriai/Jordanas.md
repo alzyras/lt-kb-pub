@@ -32,8 +32,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-62623"></a>
-- t-001
-  global_id: t-62623
+- t-002
   teiginys: "Jordanas buvo gotų istorikas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,7 @@ media_all_json: |-
     - c-63352
 
 <a id="claim-t-190736"></a>
-- t-002
-  global_id: t-190736
+- t-003
   teiginys: "Pasak Jordano, į vakarus keliavę Panonijoje gyvenę alanai kartu su vandalais bėgo nuo gotų, kuriuos vijo hunai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,8 +69,7 @@ media_all_json: |-
     - c-173618
 
 <a id="claim-t-190737"></a>
-- t-003
-  global_id: t-190737
+- t-004
   teiginys: "Jordanas aprašė gotų pergales prieš kaimynus, ypač prieš ulmerugius, kurių kraštą tarp Oderio ir Viparos gotai nusiaubė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -92,8 +89,7 @@ media_all_json: |-
     - c-173619
 
 <a id="claim-t-190738"></a>
-- t-004
-  global_id: t-190738
+- t-005
   teiginys: "Jordanas teigė, kad spaliai gyveno dabartinėje Mazovijoje, o Narbutas šią žinią siejo su Filimero žygio kryptimi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -113,29 +109,20 @@ media_all_json: |-
     - c-173620
 
 <a id="claim-t-190739"></a>
-- t-005
-  global_id: t-190739
+- t-006
   teiginys: "Narbutas vaizduoja Jordaną kaip labiau žavėjusįsi ostgotų žygdarbiais negu aprašiusį gotus, likusius kairiajame Vyslos krante."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jordanas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jordanas\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173621
-    - c-005
+    - c-173624
+
 <a id="claim-t-190740"></a>
-- t-006
-  global_id: t-190740
+- t-007
   teiginys: "Jordanas, gotų istorikas, minėjo estus kaip jūros pakrantėje gyvenusią tautą ir rėmėsi Kasiodoru arba jį perdirbinėjo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -155,29 +142,20 @@ media_all_json: |-
     - c-173622
 
 <a id="claim-t-190741"></a>
-- t-007
-  global_id: t-190741
+- t-008
   teiginys: "Narbutas Jordano požiūrį pasitelkė kartu su Tacitu ir Naruševičiumi, svarstydamas venedams priklausiusių genčių klausimą."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Venedai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jordanas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Venedai: mention_match, group, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jordanas\" parinktas kaip owner_note_path. Targetas \"Venedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173623
-    - c-007
+    - c-173625
+
 <a id="claim-t-190742"></a>
-- t-008
-  global_id: t-190742
+- t-009
   teiginys: "Pasak Narbuto perteikto Jordano pasakojimo, 161 m. Filimero žygyje gotai, persikėlę į dešinįjį Vyslos krantą, pirmiausia pateko į Owim kraštą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -200,8 +178,7 @@ media_all_json: |-
     - c-173624
 
 <a id="claim-t-190743"></a>
-- t-009
-  global_id: t-190743
+- t-010
   teiginys: "Jordanas rašė, kad Okeano pakrantėje prie trijų Vyslos žiočių šakų gyveno iš įvairių tautų susidarę vidivariai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -222,8 +199,7 @@ media_all_json: |-
     - c-173625
 
 <a id="claim-t-190744"></a>
-- t-010
-  global_id: t-190744
+- t-011
   teiginys: "Narbutas nurodo, kad Jordanas žodžio rašyboje įžvelgė klaidą ir taisė ją į formą Lethas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -241,10 +217,9 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173626
-    - c-010
+
 <a id="claim-t-190745"></a>
-- t-011
-  global_id: t-190745
+- t-012
   teiginys: "Jordanas rašė, kad už estų ribojosi agazirai, labai karinga gentis, gyvenusi iš gyvulių auginimo ir medžioklės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -264,8 +239,7 @@ media_all_json: |-
     - c-173627
 
 <a id="claim-t-197612"></a>
-- t-012
-  global_id: t-197612
+- t-013
   teiginys: "Pirmiausia šią žinią randame Jordano darbuose1, kai šis autorius pasakoja apie karaliaus Fili mero žygį 161 metais j Rytų Europos kraštus; tuomet, persikėlę j dešiniąją Vyslos pakrantę, gotai pirmiausia pa teko j kraštą, vadinamą Owim. Vėlesni istorijos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -277,8 +251,7 @@ media_all_json: |-
     - c-173624
 
 <a id="claim-t-197613"></a>
-- t-013
-  global_id: t-197613
+- t-014
   teiginys: "Jis papil dytas Jordano stebėjimais ir pavadintas „Apie gotų kilmę ir veiklą“ (De origine actuąue getarum liber / / Procopius Caesarensis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -324,8 +297,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190739
 - c-007
   santrauka: 'Narbutas Jordano požiūrį pasitelkė kartu su Tacitu ir Naruševičiumi, svarstydamas venedams priklausiusių genčių klausimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -347,8 +318,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190741
 - c-010
   santrauka: 'Narbutas nurodo, kad Jordanas žodžio rašyboje įžvelgė klaidą ir taisė ją į formą Lethas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -362,8 +331,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190744
+
 ## Citatos
 
 - id: c-63352
@@ -391,29 +359,15 @@ media_all_json: |-
     Juodutis (D.— Jodute)
     Jurginis J. (Юргинис Ю.)
     Jurgis šv.
-  citata_rodoma: |
-    Krikštytojas, šv.
-       Ostrorogas
-       Popė
-       vad. Anlantu, Austrijos k.
-        Vienuolis, br.
-    Jordanas, gotų istorikas
-       Varmės vysk. valdytojas
-    Jozuė
-    Jucevičius L. A.
-    Jučas M.
-    Judas
-    Judas Makabėjus
-    Juodutis (D.— Jodute)
-    Jurginis J. (Юргинис Ю.)
-    Jurgis šv.
+  citata_rodoma: "Krikštytojas, šv.\n   Ostrorogas\n   Popė\n   vad. Anlantu, Austrijos k.\n    Vienuolis, br.\nJordanas, gotų istorikas\n   Varmės vysk. valdytojas\nJozuė\nJucevičius L. A.\nJučas M.\nJudas\nJudas Makabėjus\nJuodutis (D.— Jodute)\nJurginis J. (Юргинис Ю.)\nJurgis šv."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62623
+    - t-002
+
 - id: c-173618
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -438,7 +392,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190736
+    - t-003
+
 - id: c-173619
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -462,7 +417,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190737
+    - t-004
+
 - id: c-173620
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -484,7 +440,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190738
+    - t-005
+
 - id: c-173621
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -505,25 +462,13 @@ media_all_json: |-
     merą, bet ne kartu, o vienos paskui kitas ir daugelį metų;
     toks jų persikėlimas nuolat vyko arba lietuvių tautų gy­
     venamų sričių pakraščiais, arba per jų žemes.
-  citata_rodoma: |
-    Taigi pakeliui nuo Vyslos iki Dnepro jie turėjo kažkur
-    žiemoti; sprendžiant iš lėto ėjimo, jie turėjo keltis per Ne­
-    muną tarp Gardino ir Belicos ir užkliudyti kraštus, kur
-    buvo pietinė Lietuvos dalis.
-    73
-    Jordanas, kurio daugelį smulkmenų apie gotus pa­
-    naudojome, taip žavisi savo į Rytus iškeliavusių kraštie­
-    čių, pavadintų ostgotais, žygdarbiais, kad beveik visai
-    pamiršta pusę genties, kuri liko kairiojoje Vyslos pakran­
-    tėje. Tačiau mes norime skaityti ne tokias pagyras, bet
-    labiau mus dominančius dalykus.
+  citata_rodoma: "Taigi pakeliui nuo Vyslos iki Dnepro jie turėjo kažkur\nžiemoti; sprendžiant iš lėto ėjimo, jie turėjo keltis per Ne­\nmuną tarp Gardino ir Belicos ir užkliudyti kraštus, kur\nbuvo pietinė Lietuvos dalis.\n73\nJordanas, kurio daugelį smulkmenų apie gotus pa­\nnaudojome, taip žavisi savo į Rytus iškeliavusių kraštie­\nčių, pavadintų ostgotais, žygdarbiais, kad beveik visai\npamiršta pusę genties, kuri liko kairiojoje Vyslos pakran­\ntėje. Tačiau mes norime skaityti ne tokias pagyras, bet\nlabiau mus dominančius dalykus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190739
 - id: c-173622
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -546,7 +491,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190740
+    - t-007
+
 - id: c-173623
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -564,26 +510,13 @@ media_all_json: |-
     tą vardą jiems suteikė kitos tautos, o ne jie patys taip save vadino,
     be to, Adelungas ir net Dobrovskis venedus klaidingai priskyrė prie
     vokiečių, pateikė Safaržykas (Starožytnošci slawianskie.
-  citata_rodoma: |
-    Kaip slavai atsirado ‘šiose lygumose arba kaip
-    ir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.
-    Pasakysime tiktai tiek, kad venedams priklausė ne viena
-    gentis, labai dominanti mūsų veikalą, o panagrinėję pa­
-    ties Tacito ištrauką2, Jordano3 ir Naruševičiaus4 požiūrį,
-    dar labiau sustiprinsime šią nuomonę. Galėjo būti, kad
-    venedų slavams ikikrikščioniškosios eros amžiais ar kiek
-    vėliau priklausė kuri nors Baltijos jūros pakrantė tarp
-    Vyslos ir Dauguvos žiočių, iš kur jie buvo išstumti iš
-    rytų slenkančių genčių; jų pėdsakas išliko Vindavos upės
-    pavadinime; be to, Vinidų, Vinidarių pavardę dera lai­
-    kyti lietuviškos kilmės.
+  citata_rodoma: "Kaip slavai atsirado ‘šiose lygumose arba kaip\nir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.\nPasakysime tiktai tiek, kad venedams priklausė ne viena\ngentis, labai dominanti mūsų veikalą, o panagrinėję pa­\nties Tacito ištrauką2, Jordano3 ir Naruševičiaus4 požiūrį,\ndar labiau sustiprinsime šią nuomonę. Galėjo būti, kad\nvenedų slavams ikikrikščioniškosios eros amžiais ar kiek\nvėliau priklausė kuri nors Baltijos jūros pakrantė tarp\nVyslos ir Dauguvos žiočių, iš kur jie buvo išstumti iš\nrytų slenkančių genčių; jų pėdsakas išliko Vindavos upės\npavadinime; be to, Vinidų, Vinidarių pavardę dera lai­\nkyti lietuviškos kilmės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190741
 - id: c-173624
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -607,8 +540,10 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190742
-    - t-197612
+    - t-006
+    - t-009
+    - t-013
+
 - id: c-173625
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -632,7 +567,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190743
+    - t-008
+    - t-010
+
 - id: c-173626
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -652,18 +589,15 @@ media_all_json: |-
     Skerdynai, Skierdynie, Paskerdynai, Poskierdynie, Skirmantai, Skir-
     monty, Skirmantiškiai, Skirmontyszki, Skir žemė, Skiroziemie ir t. t.
     (Dzien.
-  citata_rodoma: |
-    Pirmoji gyvenvietė pagal skirius buvo pavadinta Ski­
-    reikomis, o antroji pagal hirius — Hirkomis (Jornand. Goths. C. 3).
-    Jordanas to žodžio rašyboje randa klaidą ir taiso ją į Lethas. Kad ir
-    kaip ten būtų, jis labai artimas mūsų teiginiui.
+  citata_rodoma: "Pirmoji gyvenvietė pagal skirius buvo pavadinta Ski­\nreikomis, o antroji pagal hirius — Hirkomis (Jornand. Goths. C. 3).\nJordanas to žodžio rašyboje randa klaidą ir taiso ją į Lethas. Kad ir\nkaip ten būtų, jis labai artimas mūsų teiginiui."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190744
+    - t-011
+
 - id: c-173627
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -681,7 +615,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190745
+    - t-012
+
 - id: c-179262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -701,4 +636,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197613
+    - t-014

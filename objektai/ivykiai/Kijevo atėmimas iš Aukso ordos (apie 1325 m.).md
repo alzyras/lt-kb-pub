@@ -54,9 +54,8 @@ Nenurodyta
 
 <a id="claim-t-62824"></a>
 - t-001
-  global_id: t-62824
   teiginys: "Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "uzeme -> Kijevas: 0.94"
@@ -73,9 +72,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Sakinys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-63641
-    - c-63642
-    - c-001
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.'
@@ -90,8 +87,6 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62824
 - c-002
   santrauka: 'Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -105,8 +100,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62824
+
 ## Citatos
 
 - id: c-63641
@@ -120,18 +114,15 @@ Nenurodyta
     Aukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš Vakarų.
     1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas, pasiekė
     Frankfurtą prie Oderio (III, 361).
-  citata_rodoma: |
-    Apie 1325 m. Gedimino kariuomenė
-    nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos. Kijevas ir tuo metu
-    buvo stambus tarptautinės prekybos centras, per kurį Rytų prekės keliavo ir Kryžiuočių
-    ordinui bei  į Vakarų Europą.
+  citata_rodoma: "Apie 1325 m. Gedimino kariuomenė\nnužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos. Kijevas ir tuo metu\nbuvo stambus tarptautinės prekybos centras, per kurį Rytų prekės keliavo ir Kryžiuočių\nordinui bei  į Vakarų Europą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62824
+    - t-001
+
 - id: c-63642
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -144,15 +135,9 @@ Nenurodyta
     patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos
     įtakos Kryžiuočių valstybei, jos ekonomikai61, o feodalinė Lietuvos valstybė atimtose iš
     Aukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš Vakarų.
-  citata_rodoma: |
-    Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324
-    m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę
-    (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną). Apie 1325 m. Gedimino kariuomenė
-    nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.
+  citata_rodoma: "Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324\nm. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę\n(Brestą, Kamenecą, Kobriną, Melniką, Drohičiną). Apie 1325 m. Gedimino kariuomenė\nnužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-62824

@@ -40,7 +40,6 @@ Tasai zokanykas, persikėlęs per Yslą, arba Vyslą, atkeliavo į Kulmiją, apy
 
 <a id="claim-t-201125"></a>
 - t-001
-  global_id: t-201125
   teiginys: "Tasai zokanykas, persikėlęs per Yslą, arba Vyslą, atkeliavo į Kulmiją, apygar das Lubavos, į parubežių Pamezonijos, kur buvo ne tikėliai jau apjunkę krikščionys; visų pirma nuėjo tenai pas Sudreikį kunigaikštį."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Tasai zokanykas, persikėlęs per Yslą, arba Vyslą, atkeliavo į Kulmiją, apy
 
 <a id="claim-t-201126"></a>
 - t-002
-  global_id: t-201126
   teiginys: "Tuo jau lietuviai ir žemaičiai įsigrūdę su didžia kariau na į Pamezoniją ir Kulmiją, kurgi ir Sviatopelkas persikėlęs su savo kariauna taikinėjo lietuviams terioti ir deginti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -67,8 +65,9 @@ Tasai zokanykas, persikėlęs per Yslą, arba Vyslą, atkeliavo į Kulmiją, apy
 ## Citatos
 
 - id: c-184475
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskesniai rados taip pat zokanykas cisternas, var­
     du Kristijonas, iš klioštoriaus Olivos, vyras buklus,
@@ -90,11 +89,12 @@ Tasai zokanykas, persikėlęs per Yslą, arba Vyslą, atkeliavo į Kulmiją, apy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201125
+    - t-001
 
 - id: c-184476
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tok­
     sai darbas Sviatopelko drąsino dar didesniai lietu­
@@ -113,4 +113,4 @@ Tasai zokanykas, persikėlęs per Yslą, arba Vyslą, atkeliavo į Kulmiją, apy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201126
+    - t-002

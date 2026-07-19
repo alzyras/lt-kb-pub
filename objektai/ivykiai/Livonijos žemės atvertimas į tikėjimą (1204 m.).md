@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-62381"></a>
 - t-001
-  global_id: t-62381
   teiginys: "1204 m. Livonija, Rygos provincijos žemė, popiežiaus Inocento rūpesčiu buvo atversta į Kristaus tikėjimą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -85,15 +84,11 @@ Nenurodyta
 
       1204 viešpaties metais Livonija, Rygos provincijos žemė, buvo atversta popiežiaus
     Inocento rūpesčiu į Kristaus tikėjimą (Ptol. 21,10; Mart. loc. cit.).
-  citata_rodoma: |
-    Apie Livonijos žemės atvertimą į tikėjimą
-
-      1204 viešpaties metais Livonija, Rygos provincijos žemė, buvo atversta popiežiaus
-    Inocento rūpesčiu į Kristaus tikėjimą (Ptol. 21,10; Mart. loc. cit.).
+  citata_rodoma: "Apie Livonijos žemės atvertimą į tikėjimą\n\n  1204 viešpaties metais Livonija, Rygos provincijos žemė, buvo atversta popiežiaus\nInocento rūpesčiu į Kristaus tikėjimą (Ptol. 21,10; Mart. loc. cit.)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62381
+    - t-001

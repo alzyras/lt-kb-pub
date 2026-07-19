@@ -3,20 +3,22 @@ tipas: autorius
 pavadinimas: 'Adolfas Šapoka'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1936 m.'
+  - '1987 m.'
 date_start: '1936'
-date_end: ''
+date_end: '1987'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - redaktorius
   - autorius
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'modernioji Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +42,6 @@ media_all_json: |-
 
 <a id="claim-t-63301"></a>
 - t-001
-  global_id: t-63301
   teiginys: "Adolfas Šapoka redagavo plačios apimties Lietuvos istoriją, kurią išleido grupė lietuvių istorikų."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -61,7 +62,6 @@ media_all_json: |-
 
 <a id="claim-t-183339"></a>
 - t-002
-  global_id: t-183339
   teiginys: "1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -81,6 +81,18 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys su aiškiu veiksniu, tariniu ir data."
   pagrindžia:
     - c-166729
+
+<a id="claim-t-201492"></a>
+- t-003
+  teiginys: "Redagavo ir papildė Mykolas Biržiška su Adolfo Šapokos įvadu."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184839
 - susijęs iš [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.).md#claim-t-183244|Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]: 1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.
 - susijęs iš [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.).md#claim-t-20311|Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]: Lietuvos Respublikos švietimo ministerijos iniciatyva grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, redaguotą Adolfo Šapokos.
 - susijęs iš A. Šapoka (red.), Lietuvos istorija (1936 m.): 1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.
@@ -104,18 +116,15 @@ media_all_json: |-
     zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
     šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
     Šapoka.
-  citata_rodoma: |
-    Lietuvos Respublikos švietimo ministerijos (viceministro Ka-
-    zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
-    šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
-    Šapoka.
+  citata_rodoma: "Lietuvos Respublikos švietimo ministerijos (viceministro Ka-\nzimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-\nšė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas\nŠapoka."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63301
+    - t-001
+
 - id: c-166729
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,4 +141,20 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183339
+    - t-002
+
+- id: c-184839
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Lietuvos studentai užsienio universitetuose XIV-
+    XVIII amžiais. Redagavo ir papildė Mykolas Biržiška su Adolfo Šapokos įvadu. Chicago,
+    1987; Forstreuter Kurt.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-38625"></a>
 - t-001
-  global_id: t-38625
   teiginys: "1346 m. balandį įsiveržę į Livoniją lietuviai sunaikino Mežuotnės pilį, nukovė komtūrą su keliais kitais broliais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38625
+    - t-001

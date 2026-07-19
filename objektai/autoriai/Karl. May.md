@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-96053"></a>
 - t-001
-  global_id: t-96053
   teiginys: "Karlio May „Per dykumą“ I, II ir III tomus iš originalo vertė J. Vadeikis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,4 +53,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96053
+    - t-001

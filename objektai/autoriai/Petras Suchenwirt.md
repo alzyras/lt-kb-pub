@@ -38,8 +38,7 @@ Drauge atvykęs poetas Petras Suchenwirt davė to iškilmingo žygio, kuriam vad
 ## Teiginiai
 
 <a id="claim-t-30925"></a>
-- t-001
-  global_id: t-30925
+- t-002
   teiginys: "Petras Suchenwirtas savo eilėse vaizdingai iškėlė Lietuvos miškų ir raistų pavojus riteriams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Drauge atvykęs poetas Petras Suchenwirt davė to iškilmingo žygio, kuriam vad
     - c-33106
 
 <a id="claim-t-30926"></a>
-- t-002
-  global_id: t-30926
+- t-001
   teiginys: "Petras Suchenwirtas eilėmis aprašė iškilmingą žygį Ariogalos ir Dubysos rajone."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,25 +90,15 @@ Drauge atvykęs poetas Petras Suchenwirt davė to iškilmingo žygio, kuriam vad
     švaistomasi Ariogalos — Dubysos rajone, kokie vynai buvo geriami,
     kaip nuotykių ieškotojai, nudeginę lietuvių sodybas, dešimtimis
     buvo keliami į riterius, o jų tarpe ir pats Albrechtas^25.
-  citata_rodoma: |
-    **
-
-
-    (^254) **n** skyrius: valstybės iškilimas
-    kus Austrijos hercogui Albrechtui II su 62 riteriais ir 2000 paprastų
-    karių ir palydovų. Drauge atvykęs poetas Petras Suchenwirt davė
-    to iškilmingo žygio, kuriam vadovavo pats magistras, daug įdomių
-    smulkmenų. Jis vaizdingai eilėmis aprašė, kaip ištisą savaitę buvo
-    švaistomasi Ariogalos — Dubysos rajone, kokie vynai buvo geriami,
-    kaip nuotykių ieškotojai, nudeginę lietuvių sodybas, dešimtimis
-    buvo keliami į riterius, o jų tarpe ir pats Albrechtas^25.
+  citata_rodoma: "**\n\n\n(^254) **n** skyrius: valstybės iškilimas\nkus Austrijos hercogui Albrechtui II su 62 riteriais ir 2000 paprastų\nkarių ir palydovų. Drauge atvykęs poetas Petras Suchenwirt davė\nto iškilmingo žygio, kuriam vadovavo pats magistras, daug įdomių\nsmulkmenų. Jis vaizdingai eilėmis aprašė, kaip ištisą savaitę buvo\nšvaistomasi Ariogalos — Dubysos rajone, kokie vynai buvo geriami,\nkaip nuotykių ieškotojai, nudeginę lietuvių sodybas, dešimtimis\nbuvo keliami į riterius, o jų tarpe ir pats Albrechtas^25."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30926
+    - t-001
+
 - id: c-33106
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -123,16 +111,11 @@ Drauge atvykęs poetas Petras Suchenwirt davė to iškilmingo žygio, kuriam vad
     taip vaizdingai savo eilėse iškėlė Suchenwirtas. Jis pateikė gyvą
     Lietuvos XIV amž. dykrų bei miškų paveikslą^28 , rodantį, kaip
     žmogus tada dažnai priklausė nuo gamtos stichijos.
-  citata_rodoma: |
-    Stipriai šarvuoti riteriai sunkiai susidorodavo
-    Lietuvos miškuose ir raistuose, kurių teikiamus pavojus ir kliūtis
-    taip vaizdingai savo eilėse iškėlė Suchenwirtas. Jis pateikė gyvą
-    Lietuvos XIV amž. dykrų bei miškų paveikslą^28 , rodantį, kaip
-    žmogus tada dažnai priklausė nuo gamtos stichijos.
+  citata_rodoma: "Stipriai šarvuoti riteriai sunkiai susidorodavo\nLietuvos miškuose ir raistuose, kurių teikiamus pavojus ir kliūtis\ntaip vaizdingai savo eilėse iškėlė Suchenwirtas. Jis pateikė gyvą\nLietuvos XIV amž. dykrų bei miškų paveikslą^28 , rodantį, kaip\nžmogus tada dažnai priklausė nuo gamtos stichijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30925
+    - t-002

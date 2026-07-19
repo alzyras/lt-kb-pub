@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-66797"></a>
 - t-001
-  global_id: t-66797
   teiginys: "Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Lietuvos Didžiosios Kunigaikštijos atkūrimu Napoleono globoje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66797
+    - t-001

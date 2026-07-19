@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-62527"></a>
 - t-001
-  global_id: t-62527
   teiginys: "1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-63216
 
 <a id="claim-t-194431"></a>
-- t-002
-  global_id: t-194431
+- t-003
   teiginys: "Apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -100,20 +98,12 @@ Nenurodyta
 
 
     27.
-  citata_rodoma: |
-    Apie viešpaties erškėčių vainiko perkėlimą
-
-      1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio  į
-    Paryžių viešpaties erškėčių vainiką (Ptol. 21,36).
-
-
-
-    27.
+  citata_rodoma: "Apie viešpaties erškėčių vainiko perkėlimą\n\n  1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio  į\nParyžių viešpaties erškėčių vainiką (Ptol. 21,36).\n\n\n\n27."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62527
-    - t-194431
+    - t-001
+    - t-003

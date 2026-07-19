@@ -31,7 +31,6 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
 
 <a id="claim-t-20971"></a>
 - t-001
-  global_id: t-20971
   teiginys: "Vytauto politika buvo siejama su „švento valdovo“ įvaizdžiu, lyginant jį su šventuoju tapusiu Vengrijos valdovu Steponu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
 
 <a id="claim-t-183515"></a>
 - t-002
-  global_id: t-183515
   teiginys: "Vytauto politika, autorių vertinimu, buvo orientuota į bažnytinę politiką, Lietuvos konversiją ir „švento valdovo“ įvaizdį."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -83,15 +81,15 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
     Žemaičių krikštu. Atrodo, kad visa Vytauto politika orientuota į „švento
     valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
     įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.
-  citata_rodoma: |
-    valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
+  citata_rodoma: "valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20971
+    - t-001
+
 - id: c-166909
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -112,4 +110,4 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183515
+    - t-002

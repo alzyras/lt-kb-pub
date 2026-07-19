@@ -61,8 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195364"></a>
-- t-001
-  global_id: t-195364
+- t-003
   teiginys: "Rudenį piemeniui rinkdavo piliavą javais, o prieš Kalėdas paviržius mėsa."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-177777
 
 <a id="claim-t-195365"></a>
-- t-002
-  global_id: t-195365
+- t-001
   teiginys: "Kaimo ūkininkai buvo susitarę, kaip nuo pilno ir pusės gyvenimo turi būti ganoma pakaitomis."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -83,8 +81,7 @@ Nenurodyta
     - c-177778
 
 <a id="claim-t-195366"></a>
-- t-003
-  global_id: t-195366
+- t-002
   teiginys: "Piemeniui už ganymą būdavo mokama pinigais, bulvėmis, drabužiu ir maistu."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -109,15 +106,15 @@ Nenurodyta
     Vaikščiojo vis basas.
     Rudenį rinkdavo piliavą javais, prieš
     Kalėdas rinkdavo paviržius mėsa.
-  citata_rodoma: |
-    Rudenį rinkdavo piliavą javais, prieš Kalėdas rinkdavo paviržius mėsa.
+  citata_rodoma: "Rudenį rinkdavo piliavą javais, prieš Kalėdas rinkdavo paviržius mėsa."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195364
+    - t-003
+
 - id: c-177778
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -132,15 +129,15 @@ Nenurodyta
     ganyme susitarę, kad nuo pilno gyvenimo piemuo vieną dieną gano,
     kitą — ne, o nuo pusės gyvenimo — vieną savaitę piemuo ėjo taip, kaip
     nuo pilno gyvenimo, o antrą savaitę visai neganė.
-  citata_rodoma: |
-    Kaimo ūkininkai taip buvo ganyme susitarę, kad nuo pilno gyvenimo piemuo vieną dieną gano, kitą — ne, o nuo pusės gyvenimo — vieną savaitę piemuo ėjo taip, kaip nuo pilno gyvenimo, o antrą savaitę visai neganė.
+  citata_rodoma: "Kaimo ūkininkai taip buvo ganyme susitarę, kad nuo pilno gyvenimo piemuo vieną dieną gano, kitą — ne, o nuo pusės gyvenimo — vieną savaitę piemuo ėjo taip, kaip nuo pilno gyvenimo, o antrą savaitę visai neganė."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195365
+    - t-001
+
 - id: c-177779
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -154,12 +151,11 @@ Nenurodyta
     rublius pinigais ir pasodinome puspūrį bulvių.
     Visas drabužis jo, tik
     ganomomis dienomis mes duodame valgyti.
-  citata_rodoma: |
-    Už tatai sumokėjome penkis rublius pinigais ir pasodinome puspūrį bulvių. Visas drabužis jo, tik ganomomis dienomis mes duodame valgyti.
+  citata_rodoma: "Už tatai sumokėjome penkis rublius pinigais ir pasodinome puspūrį bulvių. Visas drabužis jo, tik ganomomis dienomis mes duodame valgyti."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195366
+    - t-002

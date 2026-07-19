@@ -31,7 +31,6 @@ Branto kavaleriją, kuri pradėjo trauktis. Raiteliai bėga pirmi, pavadžiais s
 
 <a id="claim-t-40129"></a>
 - t-001
-  global_id: t-40129
   teiginys: "H. Brantas buvo generolas, kurio kavaleriją sumušė J. P. Sapiegos, M. Vielamovskio ir M. Giedraičio vėliavos, priversdamos ją trauktis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,15 +62,11 @@ Branto kavaleriją, kuri pradėjo trauktis. Raiteliai bėga pirmi, pavadžiais s
     M. Giedraičio vėliavos sugebėjo sumušti
     generolo H. Branto kavaleriją, kuri pradėjo
     trauktis.
-  citata_rodoma: |
-    Rotmistry J. P. Sapiegos, M. Vielamovskio,
-    M. Giedraičio vėliavos sugebėjo sumušti
-    generolo H. Branto kavaleriją, kuri pradėjo
-    trauktis.
+  citata_rodoma: "Rotmistry J. P. Sapiegos, M. Vielamovskio,\nM. Giedraičio vėliavos sugebėjo sumušti\ngenerolo H. Branto kavaleriją, kuri pradėjo\ntrauktis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40129
+    - t-001

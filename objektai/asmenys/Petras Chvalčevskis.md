@@ -7,12 +7,12 @@ datos:
   - '1551 m.'
 date_start: '1551'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Kaip atrodo, Barborai Radvilaitei gyvai esant ir po jos mirties 1551 m. Kauno se
 
 <a id="claim-t-202195"></a>
 - t-001
-  global_id: t-202195
   teiginys: "Kaip atrodo, Barborai Radvilaitei gyvai esant ir po jos mirties 1551 m. Kauno seniūniją tvarkė valdovo pilių ir dvarų priežiūras Petras Chvalčevskis."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Kaip atrodo, Barborai Radvilaitei gyvai esant ir po jos mirties 1551 m. Kauno se
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202195
+    - t-001

@@ -30,7 +30,6 @@ Narbutas mini Reichardą kaip Didžiojo Vokietijos žemėlapio vadovą, pasitelk
 
 <a id="claim-t-191655"></a>
 - t-001
-  global_id: t-191655
   teiginys: "Narbutas mini Reichardą kaip Didžiojo Vokietijos žemėlapio vadovą, pasitelktą prekybos keliui nužymėti."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Narbutas mini Reichardą kaip Didžiojo Vokietijos žemėlapio vadovą, pasitelk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191655
+    - t-001

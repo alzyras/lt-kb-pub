@@ -37,7 +37,6 @@ Dusburgietis teigia, kad lietuvių tautos istoriniai šaltiniai / Paruošė J.
 
 <a id="claim-t-61137"></a>
 - t-001
-  global_id: t-61137
   teiginys: "J. Užpurvio parengti „Lietuvių tautos istoriniai šaltiniai“ išleisti Klaipėdoje 1938–1939 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,13 +65,11 @@ Dusburgietis teigia, kad lietuvių tautos istoriniai šaltiniai / Paruošė J.
     1939.
     Lietuvos archeologijos bruožai / P. Kulikauskas, R. Kulikauskienė, A. Tautavičius.—V.,
     1961.
-  citata_rodoma: |
-    Lietuvių tautos istoriniai šaltiniai / Paruošė J. Užpurvis — T. 1—2 —Klaipėda, 1938—
-    1939.
+  citata_rodoma: "Lietuvių tautos istoriniai šaltiniai / Paruošė J. Užpurvis — T. 1—2 —Klaipėda, 1938—\n1939."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61137
+    - t-001

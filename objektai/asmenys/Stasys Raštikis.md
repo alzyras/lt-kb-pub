@@ -40,8 +40,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 ## Teiginiai
 
 <a id="claim-t-101707"></a>
-- t-001
-  global_id: t-101707
+- t-005
   teiginys: "1939 m. balandį Stasys Raštikis dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 
 <a id="claim-t-101708"></a>
 - t-002
-  global_id: t-101708
   teiginys: "Stasys Raštikis kartu su Stasiu Lozoraičiu ėmėsi modernizuoti kariuomenę ir diplomatiją bei parengė naują nacionalinio saugumo strategiją."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     - c-21999
 
 <a id="claim-t-101709"></a>
-- t-003
-  global_id: t-101709
+- t-007
   teiginys: "Stasys Raštikis ir Vincas Vitkauskas motyvavo, kad Lietuva viena negalėtų rimčiau pasipriešinti sovietų karinei mašinai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,9 +93,9 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   pagrindžia:
     - c-22004
     - c-95146
+
 <a id="claim-t-101710"></a>
-- t-004
-  global_id: t-101710
+- t-008
   teiginys: "Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,8 +111,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     - c-22003
 
 <a id="claim-t-101711"></a>
-- t-005
-  global_id: t-101711
+- t-001
   teiginys: "Kariuomenės vadas Stasys Raštikis visuomenėje įgavo didelį populiarumą, todėl prezidentas po ambicijų konflikto 1940 m. balandį atleido jį iš pareigų."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -134,8 +130,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     - c-21998
 
 <a id="claim-t-101712"></a>
-- t-006
-  global_id: t-101712
+- t-010
   teiginys: "Stasys Raštikis pareiškė, kad Lietuvos kariuomenė kovos, jei gaus tokį įsakymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,8 +149,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     - c-22001
 
 <a id="claim-t-101713"></a>
-- t-007
-  global_id: t-101713
+- t-003
   teiginys: "Stasys Raštikis tyrė karinio bendradarbiavimo su Latvija ir Estija galimybes ir pasisakė už trijų šalių karinę sąjungą."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -173,8 +167,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     - c-22000
 
 <a id="claim-t-101715"></a>
-- t-008
-  global_id: t-101715
+- t-004
   teiginys: "Stasys Raštikis vyriausybės posėdyje pareiškė, kad kariuomenė kovos, jei gaus tokį įsakymą."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -192,8 +185,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     - c-22001
 
 <a id="claim-t-101716"></a>
-- t-009
-  global_id: t-101716
+- t-006
   teiginys: "Sovietai tuoj pat atmetė Stasio Raštikio kandidatūrą į ministro pirmininko pareigas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -232,15 +224,15 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje
     įgavo tokį didelį populiarumą, jog prezidentas po ilgoko ambicijų konf-
     likto 1940 m. balandį atleido jį iš pareigų.
-  citata_rodoma: |
-    Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje
+  citata_rodoma: "Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101711
+    - t-001
+
 - id: c-21999
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -252,15 +244,15 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
     nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
     strategiją.
-  citata_rodoma: |
-    nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
+  citata_rodoma: "nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101708
+    - t-002
+
 - id: c-22000
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -275,15 +267,15 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
     bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
     J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
-  citata_rodoma: |
-    bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
+  citata_rodoma: "bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101713
+    - t-003
+
 - id: c-22001
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -294,18 +286,16 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     Kaunui sakė Maskva ir Berlynas. Lietuvos vyriausybės posėdyje gen.
     S. Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau
     Lietuvos kariuomenės paradinė rikiuotė 1937 m.
-  citata_rodoma: |
-    Lietuvos vyriausybės posėdyje gen.
-    S. Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau
-    Lietuvos kariuomenės paradinė rikiuotė 1937 m.
+  citata_rodoma: "Lietuvos vyriausybės posėdyje gen. \nS. Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau \nLietuvos kariuomenės paradinė rikiuotė 1937 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101712
-    - t-101715
+    - t-010
+    - t-004
+
 - id: c-22002
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -324,15 +314,15 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     liktą. Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
     50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
     Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.
-  citata_rodoma: |
-    Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
+  citata_rodoma: "Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101707
+    - t-005
+
 - id: c-22003
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -345,16 +335,16 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     jerą, nors S. Raštikio kandidatūrai jis pritarė. Tačiau ministro pirmininko
     Lietuvos prezidentas jau nebegalėjo pats paskirti – sovietai tuoj pat S. Raš-
     tikio kandidatūrą atmetė.
-  citata_rodoma: |
-    jerą, nors S. Raštikio kandidatūrai jis pritarė. Tačiau ministro pirmininko
+  citata_rodoma: "jerą, nors S. Raštikio kandidatūrai jis pritarė. Tačiau ministro pirmininko"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101710
-    - t-101716
+    - t-008
+    - t-006
+
 - id: c-22004
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -366,15 +356,15 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
     S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
     karinei mašinai negali, būtų daug aukų.
-  citata_rodoma: |
-    S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
+  citata_rodoma: "S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101709
+    - t-007
+
 - id: c-95146
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -384,15 +374,14 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
     S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
     karinei mašinai negali, būtų daug aukų. Vyriausybė priėmė ultimatumą.
-  citata_rodoma: |
-    Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
-    S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
-    karinei mašinai negali, būtų daug aukų. Vyriausybė priėmė ultimatumą.
+  citata_rodoma: "Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen. \nS.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų \nkarinei mašinai negali, būtų daug aukų. Vyriausybė priėmė ultimatumą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Stasys Raštikis keliavo į [[objektai/vietos/Lenkija]]

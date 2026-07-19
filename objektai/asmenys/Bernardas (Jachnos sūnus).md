@@ -40,7 +40,6 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
 
 <a id="claim-t-87632"></a>
 - t-001
-  global_id: t-87632
   teiginys: "1491 m. dokumente Jachnos sūnus Bernardas vadinamas magistru Bernardu, pono Jachnos sūnumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87632
+    - t-001

@@ -30,7 +30,6 @@ Narbutas rašo, kad Ksaveras Bogušas lietuvių genčių priskyrimą estams grin
 
 <a id="claim-t-191641"></a>
 - t-001
-  global_id: t-191641
   teiginys: "Narbutas rašo, kad Ksaveras Bogušas lietuvių genčių priskyrimą estams grindė Etiko „Kosmografija“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Narbutas rašo, kad Ksaveras Bogušas lietuvių genčių priskyrimą estams grin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191641
+    - t-001

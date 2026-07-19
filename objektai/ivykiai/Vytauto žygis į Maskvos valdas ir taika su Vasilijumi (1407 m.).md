@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-185668"></a>
 - t-001
-  global_id: t-185668
   teiginys: "Švitrigaila prie Okos susijungė su skitų ir maskvėnų kariuomene ir užkirto Vytautui kelią į Vasilijaus valdas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-185669"></a>
 - t-002
-  global_id: t-185669
   teiginys: "Vytautas įsakė kavalerijos vadams rasti neužkirstas properšas miškuose ir pelkėse bei siaubti Vasilijaus valdas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -90,8 +88,7 @@ Nenurodyta
     - c-169030
 
 <a id="claim-t-196279"></a>
-- t-003
-  global_id: t-196279
+- t-004
   teiginys: "1407 m. pabaigoje Švitrigaila, sudeginęs Briansko ir Starodubo pilis, perdavė kunigaikščiui Vasilijui Naugardą ir pabėgo į Maskvą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -104,8 +101,7 @@ Nenurodyta
     - c-169029
 
 <a id="claim-t-196793"></a>
-- t-004
-  global_id: t-196793
+- t-005
   teiginys: "Lietuvos metraštis vaizduoja, kad naugardiečiai, matydami pskoviečių pasidavimą Vytautui, pasižadėjo jam tarnauti, duoti duoklę ir laikyti valdovu."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -157,8 +153,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185668
-    - t-196279
+    - t-001
+    - t-004
+
 - id: c-169030
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -187,7 +184,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185669
+    - t-002
+
 - id: c-178912
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -217,4 +215,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196793
+    - t-005

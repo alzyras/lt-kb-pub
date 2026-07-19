@@ -8,13 +8,13 @@ datos:
   - '1871 m.'
 date_start: '1800'
 date_end: '1871'
-sukurta: ''
-atnaujinta: ''
+periodo_grupes:
+  - 'naujieji laikai'
 amziai:
   - 'XVIII'
   - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-202228"></a>
 - t-001
-  global_id: t-202228
   teiginys: "Štai 1835 m. Paryžiuje išleisto Leonardo Chodzkos (1800-1871) parengto La Pologne historique, litteraire, monumentale et pittoresque leidinio pirmajame tome įdėtoje Kauno istorijos apybraižoje daugiausia dėmesio skiriama legendinei daliai, - kovoms su."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202228
+    - t-001

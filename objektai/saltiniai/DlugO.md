@@ -35,27 +35,8 @@ Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo krit
 
 ## Teiginiai
 
-<a id="claim-t-97247"></a>
-- t-001
-  global_id: t-97247
-  teiginys: "DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "DlugO: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"DlugO\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:38:41Z"
-  pagrindžia:
-    - c-91732
-
 <a id="claim-t-97248"></a>
-- t-002
-  global_id: t-97248
+- t-001
   teiginys: "Dlugošas laikomas pagrindiniu 1409–1411 m. karo šaltiniu ir buvo labai kritiškas Jogailos bei Vytauto atžvilgiu."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -93,7 +74,8 @@ Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo krit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97248
+    - t-001
+
 - id: c-91732
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -106,14 +88,9 @@ Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo krit
     (^17) **DlugO, XIII, 48, 50 p.**
     (^18) **DlugO, XIII, 64 p.**
     (^19) **DlugO, XIII, 53, 63 p.**
-  citata_rodoma: |
-    — KolLJ, 92 p.**
-    (^15) **DlugO, XIII, 19 p.**
-    (^16) **Kuczyński, Laskowski, Kolankowski ir kt.
+  citata_rodoma: "— KolLJ, 92 p.**\n(^15) **DlugO, XIII, 19 p.**\n(^16) **Kuczyński, Laskowski, Kolankowski ir kt."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-97247

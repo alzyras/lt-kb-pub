@@ -36,7 +36,6 @@ Polski słownik biograficzny cituojamas dėl Jono Goštauto pirmojo figūravimo 
 
 <a id="claim-t-194161"></a>
 - t-001
-  global_id: t-194161
   teiginys: "Polski słownik biograficzny cituojamas dėl Jono Goštauto pirmojo figūravimo Vilniaus vaivada 1443 m. lapkričio 23 d."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Polski słownik biograficzny cituojamas dėl Jono Goštauto pirmojo figūravimo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194161
+    - t-001

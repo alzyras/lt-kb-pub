@@ -33,7 +33,6 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 
 <a id="claim-t-22335"></a>
 - t-001
-  global_id: t-22335
   teiginys: "Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,9 +48,9 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   pagrindžia:
     - c-25024
     - c-166875
+
 <a id="claim-t-22336"></a>
 - t-002
-  global_id: t-22336
   teiginys: "Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - c-25025
 
 <a id="claim-t-183482"></a>
-- t-003
-  global_id: t-183482
+- t-004
   teiginys: "Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -89,8 +87,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - c-166876
 
 <a id="claim-t-184639"></a>
-- t-004
-  global_id: t-184639
+- t-006
   teiginys: "Jogaila Vitebsko žemę pasiliko sau kaip tėvonijos dalį, nors Algirdas ją buvo prijungęs prie Lietuvos valstybės."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -109,8 +106,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - c-168000
 
 <a id="claim-t-184640"></a>
-- t-005
-  global_id: t-184640
+- t-007
   teiginys: "Ivanas skelbė ginklu ginsiąs globon paimtus asmenis ir tėvonijas nuo smurto."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -129,10 +125,9 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - c-168001
 
 <a id="claim-t-187530"></a>
-- t-006
-  global_id: t-187530
+- t-008
   teiginys: "Lietuvos metraštis pasakoja, kad Kernius ir Gimbutas, geisdami praplėsti tėvonijas, sutelkė Lietuvos ir Žemaičių pajėgas žygiui į Rusią."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -175,15 +170,15 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-
     lią, nebūta. Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir
     Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.
-  citata_rodoma: |
-    Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir
+  citata_rodoma: "Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22335
+    - t-001
+
 - id: c-25025
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -198,15 +193,15 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     kos“ kilmės kunigaikščiai Ostrogiškiai.
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
-  citata_rodoma: |
-    (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
+  citata_rodoma: "(Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22336
+    - t-002
+
 - id: c-166875
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -221,10 +216,12 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     vasalu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-166876
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -249,7 +246,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183482
+    - t-004
+
 - id: c-168000
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -275,7 +273,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184639
+    - t-006
+
 - id: c-168001
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -308,7 +307,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184640
+    - t-007
+
 - id: c-170480
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -330,25 +330,11 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     O tuo laiku Žemaičių didysis kunigaikštis Mantvila
     sužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­
     gaikščiai išvaikyti.
-  citata_rodoma: |
-    4. APIE PALEMONO VAIKAIČIUS KERNIU IR GIMBUTĄ
-    IR VOKIEČIU ĮSIGALĖJIMĄ LATVIŲ 2EMEJE
-    O paskui 1  didysis kunigaikštis Kernius ir Gimbu­
-    tas, geisdami praplėsti savo tėvonijas, sutelkė savo pa­
-    jėgas iš Lietuvos ir Žemaičių ir leidosi į Rusią, link
-    Breslaujos ir link Polocko, ir padarė daug žalos rusams,
-    jų žemę nuniokojo ir daugybę žmonių išsivarė ne­
-    laisvėn 2 .
-    O tuo laiku, jam bebūnant Rusioje, kita gentis, va­
-    dinama latviais, kurie gyveno jūros pakrantėje ir iš­
-    girdo, kad kunigaikščio Kerniaus nebėra Lietuvoje,
-    o didžiojo kunigaikščio Gimbuto — Žemaičiuose, visi
-    susirinkę patraukė į Žemaičių žemę ir pridarė Žemai­
-    čių žemėje daug žalos.
+  citata_rodoma: "4. APIE PALEMONO VAIKAIČIUS KERNIU IR GIMBUTĄ \nIR VOKIEČIU ĮSIGALĖJIMĄ LATVIŲ 2EMEJE\nO paskui 1  didysis kunigaikštis Kernius ir Gimbu­\ntas, geisdami praplėsti savo tėvonijas, sutelkė savo pa­\njėgas iš Lietuvos ir Žemaičių ir leidosi į Rusią, link \nBreslaujos ir link Polocko, ir padarė daug žalos rusams, \njų žemę nuniokojo ir daugybę žmonių išsivarė ne­\nlaisvėn 2 .\nO tuo laiku, jam bebūnant Rusioje, kita gentis, va­\ndinama latviais, kurie gyveno jūros pakrantėje ir iš­\ngirdo, kad kunigaikščio Kerniaus nebėra Lietuvoje, \no didžiojo kunigaikščio Gimbuto — Žemaičiuose, visi \nsusirinkę patraukė į Žemaičių žemę ir pridarė Žemai­\nčių žemėje daug žalos."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187530
+    - t-008

@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-67056"></a>
 - t-001
-  global_id: t-67056
   teiginys: "Lietuvos barokas architektūroje perėjo nuo importo etapo prie savitos Vilniaus baroko mokyklos ir medinio provincijos baroko."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,7 @@ Nenurodyta
     - c-67105
 
 <a id="claim-t-67057"></a>
-- t-002
-  global_id: t-67057
+- t-003
   teiginys: "Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,5 +120,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67056
-    - t-67057
+    - t-001
+    - t-003

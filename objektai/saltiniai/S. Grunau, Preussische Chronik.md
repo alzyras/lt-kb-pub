@@ -29,8 +29,7 @@ Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs mil�
 ## Teiginiai
 
 <a id="claim-t-61004"></a>
-- t-001
-  global_id: t-61004
+- t-002
   teiginys: "S. Grunau Krivį vadino Krivių Krivaičiu ir siejo šį vardą su Brutenio ir Videvučio tradicija."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,8 +45,7 @@ Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs mil�
     - c-61637
 
 <a id="claim-t-61005"></a>
-- t-002
-  global_id: t-61005
+- t-001
   teiginys: "S. Grunau rašė, kad Romuvoje augusiame milžiniškame ąžuole stovėjo Perkūno, Patulo ir Patrimpo stabai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,8 @@ Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs mil�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61005
+    - t-001
+
 - id: c-61637
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -100,4 +99,4 @@ Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs mil�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61004
+    - t-002

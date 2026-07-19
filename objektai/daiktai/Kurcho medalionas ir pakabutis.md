@@ -53,8 +53,7 @@ Aprašymai pateikiami Volianskio perduotų ar cituotų radinių kontekste.
 ## Teiginiai
 
 <a id="claim-t-192084"></a>
-- t-001
-  global_id: t-192084
+- t-003
   teiginys: "Narbutas trečiąjį Kurcho pakabutį aprašo kaip panašų į Berlyno muziejaus pavyzdį, tik su raiteliu iš dešinės pusės ir tomis pačiomis raidėmis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -70,7 +69,7 @@ Aprašymai pateikiami Volianskio perduotų ar cituotų radinių kontekste.
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174953
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas trečiąjį Kurcho pakabutį aprašo kaip panašų į Berlyno muziejaus pavyzdį, tik su raiteliu iš dešinės pusės ir tomis pačiomis raidėmis.'
@@ -88,8 +87,7 @@ Aprašymai pateikiami Volianskio perduotų ar cituotų radinių kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192084
+
 ## Citatos
 
 - id: c-174953
@@ -107,16 +105,11 @@ Aprašymai pateikiami Volianskio perduotų ar cituotų radinių kontekste.
     dinasi, yra Koruch vietoj Krucho, o vietoje raidės „ch“, kuri ne­
     buvo žinoma venedų runų abėcėlėje, buvo naudojama dviguba
     „gg“ (11), kurios, sujungtos j vieną raidę ^ , skaitoma kaip ,,CH“.
-  citata_rodoma: |
-    Trečiasis [radinys] to paties asmens man duotas yra su tokiu ap­
-    rašymu: „Pakabutis toks, kaip ir Berlyno muziejuje, tačiau rai­
-    telis iš dešinės pusės, tuo tarpu pirmojo buvo iš kairės. Raidės
-    tos
-    pačios“.
+  citata_rodoma: "Trečiasis [radinys] to paties asmens man duotas yra su tokiu ap­\nrašymu: „Pakabutis toks, kaip ir Berlyno muziejuje, tačiau rai­\ntelis iš dešinės pusės, tuo tarpu pirmojo buvo iš kairės. Raidės\ntos\npačios“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192084
+    - t-003

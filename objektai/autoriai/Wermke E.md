@@ -35,13 +35,47 @@ media_all_json: |-
 
 Dusburgietis teigia, kad wermke E.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'E. Wermke parengė Rytų ir Vakarų Prūsijos istorijos bibliografiją, apimančią laikotarpius iki 1929 m., 1930–1938 m. ir 1939–1970 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Wermke E. Bibliographie der Geschichte von Ost- und West-preussen bis 1929— 1962
+    (Königsberg, 1933); 1930—1938, Aalen, 1964; 1939—1970, Bonn, 1974.
+      Wernicke E. Marienwerder.—Marienwerder, 1933.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-63394
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Непокупный А. П. К поискам языковых следов ятвягов к востоку от Немана. —
+    Этнографические и лингвистические аспекты этнической истории балтских народов,
+    Рига, 1980, с. 137—146.
+    Непокупный А. П. Названия ятвяжских сел на -ища в галицкой части Ипатьевской
+    летописи.
+  citata_rodoma: "Wermke E. Bibliographie der Geschichte von Ost- und West-preussen bis 1929— 1962\n(Königsberg, 1933); 1930—1938, Aalen, 1964; 1939—1970, Bonn, 1974.\n  Wernicke E. Marienwerder.—Marienwerder, 1933."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-62664"></a>
 - t-001
-  global_id: t-62664
   teiginys: "E. Wermke parengė Rytų ir Vakarų Prūsijos istorijos bibliografiją, apimančią laikotarpius iki 1929 m., 1930–1938 m. ir 1939–1970 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> E. Wermke: 0.85"
@@ -57,42 +91,3 @@ Dusburgietis teigia, kad wermke E.
   temporalinis_llm_pakomentavimas: "Citata pateikia E. Wermke bibliografijos pavadinimą ir jos chronologines dalis."
   pagrindžia:
     - c-63394
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'E. Wermke parengė Rytų ir Vakarų Prūsijos istorijos bibliografiją, apimančią laikotarpius iki 1929 m., 1930–1938 m. ir 1939–1970 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Wermke E. Bibliographie der Geschichte von Ost- und West-preussen bis 1929— 1962
-    (Königsberg, 1933); 1930—1938, Aalen, 1964; 1939—1970, Bonn, 1974.
-      Wernicke E. Marienwerder.—Marienwerder, 1933.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62664
-## Citatos
-
-- id: c-63394
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Непокупный А. П. К поискам языковых следов ятвягов к востоку от Немана. —
-    Этнографические и лингвистические аспекты этнической истории балтских народов,
-    Рига, 1980, с. 137—146.
-    Непокупный А. П. Названия ятвяжских сел на -ища в галицкой части Ипатьевской
-    летописи.
-  citata_rodoma: |
-    Wermke E. Bibliographie der Geschichte von Ost- und West-preussen bis 1929— 1962
-    (Königsberg, 1933); 1930—1938, Aalen, 1964; 1939—1970, Bonn, 1974.
-      Wernicke E. Marienwerder.—Marienwerder, 1933.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-62664

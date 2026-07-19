@@ -40,7 +40,6 @@ Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausom
 
 <a id="claim-t-42425"></a>
 - t-001
-  global_id: t-42425
   teiginys: "1919-1920 m. Nepriklausomybės kovose Pirmoji Lietuvos Respublika kariavo prieš bolševikus, stabdė juos prie Jiezno ir Kėdainių ir vijosi iki Daugpilio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,20 +86,11 @@ Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausom
     Nepriklausomybės kovos buvo paremtos savanorių heroizmu —
     net jei už jį Lietuva siūlė žemę, vis tiek pagalvokim, kokia auka
     buvo siūloma atgimstančiai valstybei.
-  citata_rodoma: |
-    Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
-    kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
-    ma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki
-    pat Daugpilio. Buvo priversta taip pat prie Radviliškio kautis su
-    plėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų sa-
-    vanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimė-
-    jusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės
-    Lietuvos egzistavimo galimybę atmetusius, dar neseniai gin-
-    klo broliais buvusius lenkus prie Širvintų ir Giedraičių.
+  citata_rodoma: "Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo\nkariauti Nepriklausomybės kovose prieš bolševikus, atremda-\nma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki\npat Daugpilio. Buvo priversta taip pat prie Radviliškio kautis su\nplėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų sa-\nvanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimė-\njusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės\nLietuvos egzistavimo galimybę atmetusius, dar neseniai gin-\nklo broliais buvusius lenkus prie Širvintų ir Giedraičių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42425
+    - t-001

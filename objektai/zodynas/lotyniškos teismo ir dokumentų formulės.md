@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-86481"></a>
 - t-001
-  global_id: t-86481
   teiginys: "LDK Vyriausiasis Tribunolas priėmė Pabaisko bažnyčios fundacijos dokumentą ir pavedė jį įrašyti į Tribunolo viešąsias knygas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,4 +106,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86481
+    - t-001

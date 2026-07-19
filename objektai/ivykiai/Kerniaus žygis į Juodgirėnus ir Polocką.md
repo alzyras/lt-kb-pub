@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201324"></a>
 - t-001
-  global_id: t-201324
   teiginys: "Įėjusiu į Juodgirėnus (šiandien Baltaisiais Gudais vadinamus) pasiskaidė į žaras ir, apygardas Polocko baisiai nuteriojusiu, į pačią pilį mojavo laužtis, bet šiuo kartu lio vusiuos tą daryti, nusluoguotu visokiomis gėrybėmis pagrįžo laimingai į Kernavę, savo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184674
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kad taip nevyko lietuvių giminėms vakaruose
     kariauti, vienok pietuose laimingesniai jos grūmės,
@@ -76,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201324
+    - t-001

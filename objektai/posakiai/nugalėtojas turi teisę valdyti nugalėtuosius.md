@@ -31,7 +31,6 @@ Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nu
 
 <a id="claim-t-185479"></a>
 - t-001
-  global_id: t-185479
   teiginys: "Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nugalėtojas turi teisę valdyti nugalėtuosius."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185479
+    - t-001

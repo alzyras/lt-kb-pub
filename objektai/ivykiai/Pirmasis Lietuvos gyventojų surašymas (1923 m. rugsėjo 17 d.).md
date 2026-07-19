@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-23353"></a>
 - t-001
-  global_id: t-23353
   teiginys: "1923 m. rugsėjo 17 d. įvyko pirmasis Lietuvos gyventojų surašymas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-23354"></a>
 - t-002
-  global_id: t-23354
   teiginys: "Surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,6 @@ Nenurodyta
 
 <a id="claim-t-23355"></a>
 - t-003
-  global_id: t-23355
   teiginys: "1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,14 +124,13 @@ Nenurodyta
     jo 17  d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo
     2 028 971 (be Vilniaus ir Klaipėdos kraštų). Lietuviai sudarė 82 proc.,
     žydai 7, vokiečiai 4, lenkai 3, rusai 2,3 proc. gyventojų.
-  citata_rodoma: |
-    2 028 971 (be Vilniaus ir Klaipėdos kraštų). Lietuviai sudarė 82 proc.,
+  citata_rodoma: "2 028 971 (be Vilniaus ir Klaipėdos kraštų). Lietuviai sudarė 82 proc.,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23353
-    - t-23354
-    - t-23355
+    - t-001
+    - t-002
+    - t-003

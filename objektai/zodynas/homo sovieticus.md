@@ -37,8 +37,7 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 ## Teiginiai
 
 <a id="claim-t-70155"></a>
-- t-001
-  global_id: t-70155
+- t-002
   teiginys: "Sovietų santvarkai hipių veikla nesiderino su homo sovieticus nustatytomis gyvenimo taisyklėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,15 +75,15 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
     nybos sovietų kariuomenėje vengimas, „išsišokantis apsirengimo stilius“,
     ilgi plaukai) niekaip nesiderino su homo sovieticus nustatyto gyvenimo
     taisyklėmis.
-  citata_rodoma: |
-    nybos sovietų kariuomenėje vengimas, „išsišokantis apsirengimo stilius“,
+  citata_rodoma: "nybos sovietų kariuomenėje vengimas, „išsišokantis apsirengimo stilius“,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70155
+    - t-002
+
 - id: c-166821
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -104,3 +103,5 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

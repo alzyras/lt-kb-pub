@@ -41,7 +41,6 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
 
 <a id="claim-t-60355"></a>
 - t-001
-  global_id: t-60355
   teiginys: "Kazimieras pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60355
+    - t-001

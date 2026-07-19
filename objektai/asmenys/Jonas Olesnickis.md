@@ -41,8 +41,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 ## Teiginiai
 
 <a id="claim-t-82428"></a>
-- t-001
-  global_id: t-82428
+- t-002
   teiginys: "Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris sustiprino abiejų pilių įgulas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78906
 
 <a id="claim-t-82429"></a>
-- t-002
-  global_id: t-82429
+- t-005
   teiginys: "Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78907
 
 <a id="claim-t-82430"></a>
-- t-003
-  global_id: t-82430
+- t-001
   teiginys: "1390 m. Jonas Olesnickis užėmė Maskoževskio vietą ir pasirodė kaip kariuomenės vadas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -96,8 +93,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78904
 
 <a id="claim-t-82431"></a>
-- t-004
-  global_id: t-82431
+- t-006
   teiginys: "Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris gerokai sustiprino abiejų pilių įgulas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,8 +109,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78906
 
 <a id="claim-t-82432"></a>
-- t-005
-  global_id: t-82432
+- t-008
   teiginys: "Jonas Olesnickis su visa įgula netikėtai užpuolė vokiečius ir sudavė jiems skaudų smūgį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,8 +126,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78905
 
 <a id="claim-t-82433"></a>
-- t-006
-  global_id: t-82433
+- t-003
   teiginys: "Jonas Olesnickis, gelbėdamas Vilniaus pilis, liepė sudeginti likusius miesto namus, o jų gyventojus iškeldino į Žemutinę pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,8 +142,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78910
 
 <a id="claim-t-82434"></a>
-- t-007
-  global_id: t-82434
+- t-009
   teiginys: "Jonas Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -166,8 +159,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78907
 
 <a id="claim-t-82436"></a>
-- t-008
-  global_id: t-82436
+- t-004
   teiginys: "Jonas Olesnickis su įgula surengė netikėtą išpuolį prieš vokiečius ir sudavė jiems skaudų smūgį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -184,8 +176,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78908
 
 <a id="claim-t-184740"></a>
-- t-009
-  global_id: t-184740
+- t-011
   teiginys: "Jonas Olesnickis nutarė pulti priešą, kol šis dar nebuvo tinkamai sutvirtinęs stovyklos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -221,7 +212,8 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82430
+    - t-001
+
 - id: c-78905
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -250,7 +242,8 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82432
+    - t-008
+
 - id: c-78906
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -265,23 +258,16 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     las37. Ir Lietuvos dvasininkija nebuvo karaliaus dosnumo
     apeita, mat tuo metu jis išties stengėsi visokiais būdais už­
     glaistyti dar šviežius krašto niokojimo pėdsakus.
-  citata_rodoma: |
-    Tačiau Moskožev-
-    skis, iškamuotas nesibaigiančių karo rūpesčių ir nebenorėda­
-    mas taikstytis su Skirgailos paikais įnoriais, grąžino karaliui
-    Vilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė
-    Jonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­
-    las37. Ir Lietuvos dvasininkija nebuvo karaliaus dosnumo
-    apeita, mat tuo metu jis išties stengėsi visokiais būdais už­
-    glaistyti dar šviežius krašto niokojimo pėdsakus.
+  citata_rodoma: "Tačiau Moskožev-\nskis, iškamuotas nesibaigiančių karo rūpesčių ir nebenorėda­\nmas taikstytis su Skirgailos paikais įnoriais, grąžino karaliui\nVilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė\nJonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­\nlas37. Ir Lietuvos dvasininkija nebuvo karaliaus dosnumo\napeita, mat tuo metu jis išties stengėsi visokiais būdais už­\nglaistyti dar šviežius krašto niokojimo pėdsakus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82428
-    - t-82431
+    - t-002
+    - t-006
+
 - id: c-78907
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -297,22 +283,16 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     liono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­
     gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis
     valdovas, daugelis kunigaikščių ir bajorų.
-  citata_rodoma: |
-    Jis atvyksta į Vilnių, čia jį džiugiai sutinka Olesnickis, kuris
-    karaliaus apie tą susitarimą jau buvo perspėtas49. Netrukus,
-    tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­
-    džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasi-
-    liono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­
-    gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis
-    valdovas, daugelis kunigaikščių ir bajorų.
+  citata_rodoma: "Jis atvyksta į Vilnių, čia jį džiugiai sutinka Olesnickis, kuris\nkaraliaus apie tą susitarimą jau buvo perspėtas49. Netrukus,\ntais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­\ndžią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasi-\nliono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­\ngaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis\nvaldovas, daugelis kunigaikščių ir bajorų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82429
-    - t-82434
+    - t-005
+    - t-009
+
 - id: c-78908
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -333,7 +313,8 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82436
+    - t-004
+
 - id: c-78910
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -357,7 +338,8 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82433
+    - t-003
+
 - id: c-168101
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -383,19 +365,14 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     giais, įkūrė stovyklą sudegin­
     to miesto griuvėsiuose prie­
     šais šv.
-  citata_rodoma: |
-    Mergelės Marijos bažnyčią, plačioje aikštėje.
-    Olesnickis, gerai žinodamas, kad pirmieji karo žingsniai
-    lemia visą tolimesnę sėkmę, bijojo, kad nepalaužtų
-    savųjų narsumo, palikdamas vokiečių akiplėšišką karin­
-    gumą nesutramdytą. Todėl, neilgai laukęs, nutarė pulti
-    priešą, kol dar tas kaip reikiant nesutvirtino stovyklos.
+  citata_rodoma: "Mergelės Marijos bažnyčią, plačioje aikštėje.\nOlesnickis, gerai žinodamas, kad pirmieji karo žingsniai\nlemia visą tolimesnę sėkmę, bijojo, kad nepalaužtų\nsavųjų narsumo, palikdamas vokiečių akiplėšišką karin­\ngumą nesutramdytą. Todėl, neilgai laukęs, nutarė pulti\npriešą, kol dar tas kaip reikiant nesutvirtino stovyklos."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184740
+    - t-011
+
 ## Ryšiai
 - Jonas Olesnickis puolė [[objektai/grupes/Vokiečiai]]

@@ -28,7 +28,6 @@ Ignas Šeinius viename straipsnyje apie Vilniaus stilių ir dvasią rašė, kad 
 
 <a id="claim-t-200868"></a>
 - t-001
-  global_id: t-200868
   teiginys: "Ignas Šeinius viename straipsnyje apie Vilniaus stilių ir dvasią rašė, kad gražioje aplinkoje žmogaus dieviškas pradas gražiau išryškėja."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Ignas Šeinius viename straipsnyje apie Vilniaus stilių ir dvasią rašė, kad 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200868
+    - t-001

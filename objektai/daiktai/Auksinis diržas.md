@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-186854"></a>
 - t-001
-  global_id: t-186854
   teiginys: "Kunigaikštis Jonas per Vytauto rankas davė Jogailai auksinį diržą už Jogailos pažadą neatimti Jono tėviškės."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -67,7 +66,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170037
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kunigaikštis Jonas per Vytauto rankas davė Jogailai auksinį diržą už Jogailos pažadą neatimti Jono tėviškės.'
@@ -85,8 +84,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186854
+
 ## Citatos
 
 - id: c-170037
@@ -108,15 +106,11 @@ Nenurodyta
     ir šalin pasitraukus, tie Ordos vyresnieji išgirdo, kad
     šlovingasis valdovas yra netoli, aukščiau minėtoje Ki­
     jevo pilyje.
-  citata_rodoma: |
-    O jam kunigaikštis
-    Jogaila buvo davęs savo ranką prie manęs, kad iš jo
-    tėviškės niekuomet neatims. Už tai kunigaikštis Jonas
-    jam davė auksinį diržą per mano rankas.
+  citata_rodoma: "O jam kunigaikštis \nJogaila buvo davęs savo ranką prie manęs, kad iš jo \ntėviškės niekuomet neatims. Už tai kunigaikštis Jonas \njam davė auksinį diržą per mano rankas."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186854
+    - t-001

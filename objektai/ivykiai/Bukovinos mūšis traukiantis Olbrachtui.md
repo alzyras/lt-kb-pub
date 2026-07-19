@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186657"></a>
-- t-001
-  global_id: t-186657
+- t-002
   teiginys: "Lietuvos metraštis pasakoja, kad per Bukovinos įvykius Moldavijos vaivada Steponas paėmė į nelaisvę Lenkijos Karalystės didįjį maršalą Točinskį."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -75,12 +74,11 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169915
-    - c-001
+
 <a id="claim-t-186658"></a>
-- t-002
-  global_id: t-186658
+- t-001
   teiginys: "Lietuvos metraštis pasakoja, kad karaliui Olbrachtui perėjus miškus ir Bukoviną, Moldavijos vaivada Steponas su savo žmonėmis pasuko atgal."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "puole -> Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.): 0.82"
@@ -94,7 +92,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169915
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -122,9 +120,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186657
-    - t-186658
+- t-186658
+
 ## Citatos
 
 - id: c-169915
@@ -159,16 +156,12 @@ Nenurodyta
     maršalą, Naugarduko ir Slonimo vietininką poną Liu­
     taurą Chreptavičių l6, ir daugelį kitų savo kunigaikščių,
     ir ponų, ir dvarionių, ir bajorų.
-  citata_rodoma: |
-    Kai karalius perėjo miškus ir Bukoviną, Moldavijos
-    vaivada su visais savo žmonėmis pasuko atgalios. Tada
-    Moldavijos vaivada paėmė nelaisvėn Lenkijos karalys­
-    tės didįjį maršalą poną Točinskį 3 S .
+  citata_rodoma: "Kai karalius perėjo miškus ir Bukoviną, Moldavijos \nvaivada su visais savo žmonėmis pasuko atgalios. Tada \nMoldavijos vaivada paėmė nelaisvėn Lenkijos karalys­\ntės didįjį maršalą poną Točinskį 3 S ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186657
-    - t-186658
+    - t-002
+    - t-001

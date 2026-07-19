@@ -38,7 +38,6 @@ Dusburgietis teigia, kad thomas A.
 
 <a id="claim-t-61315"></a>
 - t-001
-  global_id: t-61315
   teiginys: "A. Thomaso „Der Szarkaberg und die Gisevius’schen Volkssagen“ paskelbtas 1882 m. Karaliaučiuje leisto AM 19 tome."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Dusburgietis teigia, kad thomas A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61315
+    - t-001

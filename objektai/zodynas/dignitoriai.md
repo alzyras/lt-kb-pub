@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-77793"></a>
 - t-001
-  global_id: t-77793
   teiginys: "1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,16 +71,11 @@ media_all_json: |-
     kijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad
     Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
     21 dieną iš Jekaterinos II gautą notą.
-  citata_rodoma: |
-    1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
-    Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
-    kijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad
-    Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
-    21 dieną iš Jekaterinos II gautą notą.
+  citata_rodoma: "1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas \nStanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-\nkijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad \nRusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos \n21 dieną iš Jekaterinos II gautą notą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77793
+    - t-001

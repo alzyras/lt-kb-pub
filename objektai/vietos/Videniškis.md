@@ -30,8 +30,7 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
 ## Teiginiai
 
 <a id="claim-t-42264"></a>
-- t-001
-  global_id: t-42264
+- t-002
   teiginys: "9-ojo pulko batalionas turėjo iš Videniškio pulti Giedraičių kryptimi ir paremti 2-ojo pulko puolimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
     - c-45402
 
 <a id="claim-t-193787"></a>
-- t-002
-  global_id: t-193787
+- t-003
   teiginys: "Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų link."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,8 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193787
+    - t-003
+
 - id: c-45402
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -107,21 +106,11 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
     „ar“
     Sunkusis prancūziškas
     kulkosvaidis Hotchkiss.
-  citata_rodoma: |
-    2-asis pulkas turėjo pulti Giedraičius
-    iš Želvos, jų puolimą turėjo paremti
-    9-ojo pulko vienas batalionas, pulda-
-    mas Giedraičių kryptimi iš Videniškio.
-
-    ta
-
-    „ar“
-    Sunkusis prancūziškas
-    kulkosvaidis Hotchkiss.
+  citata_rodoma: "2-asis pulkas turėjo pulti Giedraičius\niš Želvos, jų puolimą turėjo paremti\n9-ojo pulko vienas batalionas, pulda-\nmas Giedraičių kryptimi iš Videniškio.\n\nta\n\n„ar“\nSunkusis prancūziškas\nkulkosvaidis Hotchkiss."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42264
+    - t-002

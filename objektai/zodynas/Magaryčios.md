@@ -55,7 +55,6 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
 
 <a id="claim-t-195617"></a>
 - t-001
-  global_id: t-195617
   teiginys: "Magaryčios šiame šaltinyje geriamos kaip atskiras gėrimo veiksmas."
   atnaujinta: "2026-07-12 08:46"
   sprendimo_priezastis: "gap::vocabulary"
@@ -66,14 +65,13 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
 
 <a id="claim-t-195618"></a>
 - t-002
-  global_id: t-195618
   teiginys: "Magaryčios šiame šaltinyje priskiriamos prie mažųjų pokylių."
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-178019
+    - c-178020
 
 ## Citatos
 
@@ -90,15 +88,13 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
     Be tų buvo dar mažieji pokyliai: pabaigtuvės, skerstuvės, skoli­
     nimas, grąžinimas skolos, samdymas darbininko, atleidimas, magary­
     čios ir daugybė kitų.
-  citata_rodoma: |
-    Be tų buvo dar mažieji pokyliai: pabaigtuvės, skerstuvės, skolinimas, grąžinimas skolos, samdymas darbininko, atleidimas, magaryčios ir daugybė kitų.
+  citata_rodoma: "Be tų buvo dar mažieji pokyliai: pabaigtuvės, skerstuvės, skolinimas, grąžinimas skolos, samdymas darbininko, atleidimas, magaryčios ir daugybė kitų."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195618
 - id: c-178020
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -112,12 +108,12 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
     degtinės.
     Čia geriama magaryčias tiek, kiek galva pakelia arba kiek
     nepakelia.
-  citata_rodoma: |
-    Čia geriama magaryčias tiek, kiek galva pakelia arba kiek nepakelia.
+  citata_rodoma: "Čia geriama magaryčias tiek, kiek galva pakelia arba kiek nepakelia."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195617
+    - t-001
+    - t-002

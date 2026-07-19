@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201347"></a>
 - t-001
-  global_id: t-201347
   teiginys: "Tokioms nelaimoms spaudžiant igumius, Mstisla vas, kunigaikštis Naugardo, įėjo nuo antros pusės su 15 000 kareivių vokyčiams padėti netikėlių ka riauti, kursai, nuteriojęs kraštą igumių, kurio voky čiai nebuvo prigavę, apgulė pilį Varbolę, nuo ku rios įgulės."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184697
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tokioms nelaimoms spaudžiant igumius, Mstisla­
     vas, kunigaikštis Naugardo, įėjo nuo antros pusės
@@ -72,4 +72,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201347
+    - t-001

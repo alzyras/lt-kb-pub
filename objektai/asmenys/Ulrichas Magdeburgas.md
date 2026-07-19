@@ -28,7 +28,6 @@ Visų pirma vieš pačiu Braunšveigo ir Tiuringijos, stiprindamu įgulę Karali
 
 <a id="claim-t-201404"></a>
 - t-001
-  global_id: t-201404
   teiginys: "Visų pirma vieš pačiu Braunšveigo ir Tiuringijos, stiprindamu įgulę Karaliaučiaus, atleido laivus su mitalu, kuriuos Ulrichas Magdeburgas, vadinamas Milžinu kryžėjų, su kitais brostviais saugojo."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Visų pirma vieš pačiu Braunšveigo ir Tiuringijos, stiprindamu įgulę Karali
 ## Citatos
 
 - id: c-184754
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu ant balso popiežiaus viešpačiai Tiu-
     ringijos, Brandenburgijos, Misnijos, Braunšveigo ir
@@ -61,4 +61,4 @@ Visų pirma vieš pačiu Braunšveigo ir Tiuringijos, stiprindamu įgulę Karali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201404
+    - t-001

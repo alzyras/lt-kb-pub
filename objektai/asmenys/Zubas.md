@@ -35,7 +35,6 @@ Narbutas IV lentelėje nurodo, kad Zubas 1480 m. prispaudė vieną iš aštuoni�
 
 <a id="claim-t-190249"></a>
 - t-001
-  global_id: t-190249
   teiginys: "Narbutas IV lentelėje nurodo, kad Zubas 1480 m. prispaudė vieną iš aštuonių antspaudų su žalčiais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Narbutas IV lentelėje nurodo, kad Zubas 1480 m. prispaudė vieną iš aštuoni�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190249
+    - t-001

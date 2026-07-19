@@ -41,7 +41,6 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
 
 <a id="claim-t-87494"></a>
 - t-001
-  global_id: t-87494
   teiginys: "Vengrijos karalienė Elžbieta dalyvavo sėkmingose Jogailos derybose su Lenkijos didikais dėl Jadvygos rankos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
 
 <a id="claim-t-194225"></a>
 - t-002
-  global_id: t-194225
   teiginys: "Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais rykais ir visokia manta."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -97,7 +95,8 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87494
+    - t-001
+
 - id: c-176825
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -122,4 +121,4 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194225
+    - t-002

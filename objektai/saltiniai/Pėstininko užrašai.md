@@ -37,7 +37,6 @@ Pėstininko užrašai / Dokumentinis romanas, Vilnius, 2012, p. 309. Pėstininko
 
 <a id="claim-t-193828"></a>
 - t-001
-  global_id: t-193828
   teiginys: "Pėstininko užrašai / Dokumentinis romanas, Vilnius, 2012, p. 309."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Pėstininko užrašai / Dokumentinis romanas, Vilnius, 2012, p. 309. Pėstininko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193828
+    - t-001

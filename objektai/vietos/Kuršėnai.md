@@ -39,8 +39,7 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 ## Teiginiai
 
 <a id="claim-t-68377"></a>
-- t-001
-  global_id: t-68377
+- t-004
   teiginys: "Kuršėnuose įvyko paskutinis vadų pasitarimas, kuriame išryškėjo didelė jų nesantarvė."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     - c-67969
 
 <a id="claim-t-68378"></a>
-- t-002
-  global_id: t-68378
+- t-003
   teiginys: "Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,8 +65,7 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     - c-43557
 
 <a id="claim-t-68379"></a>
-- t-003
-  global_id: t-68379
+- t-002
   teiginys: "1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,8 +85,7 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     - c-43556
 
 <a id="claim-t-183039"></a>
-- t-004
-  global_id: t-183039
+- t-005
   teiginys: "Kuršėnuose įvyko paskutinis vadų pasitarimas, kuriame išryškėjo jų nesantarvė ir neveiklumas."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -126,21 +122,15 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     kur ėmė užiminėti pa-
     talpas, plėšti gyvento-
     jus ir kitaip savivaliauti.
-  citata_rodoma: |
-    1919 m. liepos 26 d. į
-    Kuršėnus įžengė pirmieji
-    bermontininkai, vado-
-    vaujami plk. Virgoličiaus,
-    kur ėmė užiminėti pa-
-    talpas, plėšti gyvento-
-    jus ir kitaip savivaliauti.
+  citata_rodoma: "1919 m. liepos 26 d. į\nKuršėnus įžengė pirmieji\nbermontininkai, vado-\nvaujami plk. Virgoličiaus,\nkur ėmė užiminėti pa-\ntalpas, plėšti gyvento-\njus ir kitaip savivaliauti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68379
+    - t-002
+
 - id: c-43557
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -153,17 +143,15 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     Spalio 5 d. plk. Virgoličiaus
     rinktinė iš Kuršėnų per-
     sikėlė į Šiaulius.
-  citata_rodoma: |
-    Spalio 5 d. plk. Virgoličiaus
-    rinktinė iš Kuršėnų per-
-    sikėlė į Šiaulius.
+  citata_rodoma: "Spalio 5 d. plk. Virgoličiaus\nrinktinė iš Kuršėnų per-\nsikėlė į Šiaulius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68378
+    - t-003
+
 - id: c-67969
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -181,21 +169,15 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     vė: vieni kitiems prikai-
     šiojo, kiekvienas norėjo
     vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo.
-  citata_rodoma: |
-    Tada Kuršėnuose
-    įvyko paskutinis vadų pa-
-    sitarimas, kur pasirodė di-
-    džiausia tarp jų nesantar-
-    vė: vieni kitiems prikai-
-    šiojo, kiekvienas norėjo
-    vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo.
+  citata_rodoma: "Tada Kuršėnuose\nįvyko paskutinis vadų pa-\nsitarimas, kur pasirodė di-\ndžiausia tarp jų nesantar-\nvė: vieni kitiems prikai-\nšiojo, kiekvienas norėjo\nvadovauti, bet nieko neveikė, tiktai paradavo ir puotavo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68377
+    - t-004
+
 - id: c-166431
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -218,4 +200,4 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183039
+    - t-005

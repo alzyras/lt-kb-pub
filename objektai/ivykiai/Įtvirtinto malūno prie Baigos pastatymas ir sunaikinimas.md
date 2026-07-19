@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-91921"></a>
 - t-001
-  global_id: t-91921
   teiginys: "Prie Baigos broliai pastatė prie upės į pilį panašiai sutvirtintą malūną, kurį prūsai netrukus užėmė, gynėjus išžudė ir sudegino."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -100,4 +99,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91921
+    - t-001

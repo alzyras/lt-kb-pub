@@ -42,7 +42,6 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 
 <a id="claim-t-195237"></a>
 - t-001
-  global_id: t-195237
   teiginys: "1929 m. A. R. Niemio „Apie mūsų runų tyrinėjimo metodą“ paskelbta „Kalevalos dr-jos metr. 9“."
   atnaujinta: "2026-07-11 22:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -66,18 +65,11 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Kalevalos
     dr-jos
     metr. 9.
-  citata_rodoma: |
-    1929. Apie mūsų
-    runų
-    tyrinėjimo
-    metodą.
-    Kalevalos
-    dr-jos
-    metr. 9.
+  citata_rodoma: "1929. Apie mūsų \nrunų \ntyrinėjimo \nmetodą. \nKalevalos \ndr-jos \nmetr. 9."
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195237
+    - t-001

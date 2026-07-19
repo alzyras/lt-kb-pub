@@ -53,5 +53,6 @@ Kambarinis Slavka mėgino kūnu užstoti leisgyvį valdovą nuo smūgių, bet Jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Ryšiai
 - Puolė Slavką: [[objektai/asmenys/Jonas]]

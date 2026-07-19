@@ -27,29 +27,6 @@ media_all_json: |-
 
 Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms, o žemaitiškai - kernu.
 
-## Teiginiai
-
-<a id="claim-t-189301"></a>
-- t-001
-  global_id: t-189301
-  teiginys: "Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms, o žemaitiškai - kernu."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kehms kernas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kehms kernas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172188
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms, o žemaitiškai - kernu.'
@@ -68,8 +45,7 @@ Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189301
+
 ## Citatos
 
 - id: c-172188
@@ -77,27 +53,41 @@ Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms,
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Sis religinis paminklas primena, kaip senovės lietuviai įamži­
-    no apgailėtinai pažeistą vaišingumą.
-    Klajojanti, kenkianti vėlė arba vaiduoklis latviškai vadina­
-    mas Kehms, žemaitiškai -  kernas (Kernas); apie juos visur dau­
-    gybė kalbų, ir pasakoja apie visokius kerus jiems nubaidyti ar
-    nuraminti.
-    Svarbiausias dalykas laidotuvėse buvo raudotojos; many­
-    ta, kad jos nuraminančios vėles.
-  citata_rodoma: |
-    Sis religinis paminklas primena, kaip senovės lietuviai įamži­
-    no apgailėtinai pažeistą vaišingumą.
-    Klajojanti, kenkianti vėlė arba vaiduoklis latviškai vadina­
-    mas Kehms, žemaitiškai -  kernas (Kernas); apie juos visur dau­
-    gybė kalbų, ir pasakoja apie visokius kerus jiems nubaidyti ar
-    nuraminti.
-    Svarbiausias dalykas laidotuvėse buvo raudotojos; many­
-    ta, kad jos nuraminančios vėles.
+    Ten jis buvo pa­
+    stebėtas praėjus daugiau nei pusantro šimto metų po krikščiony­
+    bės įvedimo. 1583 metais jėzuitai į Žemaičius ir į Livoniją pa­
+    siuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiu­
+    lius. Ten jie rado pagonybės likučių ir juos skrupulingai išnaiki­
+    no. Tai buvo senųjų dievų simboliai: nežinomos rūšies gyvūnų
+    kaulai, įvairūs amuletai, sukabinti ant namų sienų ir dvivėrių
+    durų. Tuos likučius misionieriai trypė kojomis, mėtė į ugnį.
+  citata_rodoma: "Sis religinis paminklas primena, kaip senovės lietuviai įamži­\nno apgailėtinai pažeistą vaišingumą.\nKlajojanti, kenkianti vėlė arba vaiduoklis latviškai vadina­\nmas Kehms, žemaitiškai -  kernas (Kernas); apie juos visur dau­\ngybė kalbų, ir pasakoja apie visokius kerus jiems nubaidyti ar\nnuraminti.\nSvarbiausias dalykas laidotuvėse buvo raudotojos; many­\nta, kad jos nuraminančios vėles."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189301
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-189301"></a>
+- t-001
+  teiginys: "Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms, o žemaitiškai - kernu."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kehms kernas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kehms kernas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172188

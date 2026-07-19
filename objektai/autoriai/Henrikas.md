@@ -39,8 +39,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 ## Teiginiai
 
 <a id="claim-t-10128"></a>
-- t-001
-  global_id: t-10128
+- t-002
   teiginys: "Henrikas Latvis siejamas su „Livonijos kronika“, kurioje aprašomas lietuvių būdas kovoje prie Dauguvos 1207 m."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
     - c-13009
 
 <a id="claim-t-10129"></a>
-- t-002
-  global_id: t-10129
+- t-003
   teiginys: "Šiame leidinyje Henriko Latvio „Livonijos kronika“ naudojama aprašant lietuvių kovos būdą ir Lietuvos valdžios siekį valdyti kitas gentis."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -265,8 +263,9 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10128
-    - t-10129
+    - t-002
+    - t-003
+
 - id: c-13010
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -288,4 +287,4 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10129
+    - t-003

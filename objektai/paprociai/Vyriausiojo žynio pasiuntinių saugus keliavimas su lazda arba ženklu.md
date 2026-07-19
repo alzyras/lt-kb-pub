@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-189880"></a>
 - t-001
-  global_id: t-189880
   teiginys: "Narbutas, remdamasis Dusburgiečiu, vaizduoja vyriausiojo žynio pasiuntinius su krivūle ar ženklu saugiai keliaujančius per lietuvių genties tautų kraštus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,12 +63,11 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172763
-    - c-001
+
 <a id="claim-t-189881"></a>
 - t-002
-  global_id: t-189881
   teiginys: "Narbutas rašo, kad vyriausiojo žynio pasiuntiniai pas krašto valdovus vykdavę kaip taikos pasiuntiniai ir išsiskirdavę jiems duota lazda."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -77,11 +75,10 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172764
+    - c-172763
 
 <a id="claim-t-197270"></a>
 - t-003
-  global_id: t-197270
   teiginys: "Tą patvirtina paprotys, gyvavęs Lietuvoje iki XVI amžiaus, kuriuo didelės sumos auksu būdavo dedamos saugoti į Vilniaus bažnyčios - Katedros - iždą ."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -111,8 +108,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189880
+
 ## Citatos
 
 - id: c-172763
@@ -139,23 +135,16 @@ Nenurodyta
     bartinis lamaizmas, atrodo, nemažai panašus į senovės budiz­
     mą, kurio principų dalį savyje išsaugojo senasis lietuvių tikė­
     jimas.
-  citata_rodoma: |
-    Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­
-    viai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­
-    toritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir
-    jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
-    giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
-    davo karalių, ponų ir prastuomenės didžios pagarbos.
-    Dusburgietis iš tikrųjų prilygina popiežiui šį vyriausiąjį žy­
-    nį, kuris valdė lietuvių genties tautas panašiai kaip aukščiau­
-    siasis krikščionių valdovas; tai mes ir pažymėjome.
+  citata_rodoma: "Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­\nviai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­\ntoritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir\njo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­\ngiai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­\ndavo karalių, ponų ir prastuomenės didžios pagarbos.\nDusburgietis iš tikrųjų prilygina popiežiui šį vyriausiąjį žy­\nnį, kuris valdė lietuvių genties tautas panašiai kaip aukščiau­\nsiasis krikščionių valdovas; tai mes ir pažymėjome."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189880
+    - t-001
+    - t-002
+
 - id: c-172764
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -181,5 +170,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189881
-    - t-197270
+    - t-003

@@ -31,7 +31,6 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 
 <a id="claim-t-20910"></a>
 - t-001
-  global_id: t-20910
   teiginys: "Himanso planas Lietuvoje vertintas kaip „lenkų Trojos arklys“, jam priešinosi partijos, kariuomenės vadovybė ir Šaulių sąjunga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,12 +58,11 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
     matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
     vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
     Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai.
-  citata_rodoma: |
-    Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai.
+  citata_rodoma: "Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20910
+    - t-001

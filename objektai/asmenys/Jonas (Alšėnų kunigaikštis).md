@@ -31,7 +31,6 @@ Atsi­ traukdamas Vytautas prarado nemaža saviškių, tarp jų Alšėnų kuniga
 
 <a id="claim-t-87710"></a>
 - t-001
-  global_id: t-87710
   teiginys: "Alšėnų kunigaikštis Jonas pateko į nelaisvę, kai Vytautas atsitraukė po susidūrimo su kryžiuočiais ties Rudamina."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Atsi­ traukdamas Vytautas prarado nemaža saviškių, tarp jų Alšėnų kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87710
+    - t-001

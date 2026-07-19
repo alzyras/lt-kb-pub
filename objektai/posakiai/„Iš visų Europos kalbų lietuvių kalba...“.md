@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-101616"></a>
 - t-001
-  global_id: t-101616
   teiginys: "Posakyje teigiama, kad lietuvių kalba iš Europos kalbų turi daugiausia maloninių ir mažybinių žodžių."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ media_all_json: |-
 
 <a id="claim-t-101617"></a>
 - t-002
-  global_id: t-101617
   teiginys: "Benjaminas W. Dwightas teigė, kad pagal kalbos grožį lietuvių tauta turėtų užimti pirmą vietą tarp Europos tautų."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ media_all_json: |-
 
 <a id="claim-t-101618"></a>
 - t-003
-  global_id: t-101618
   teiginys: "Benjaminas W. Dwightas teigė, kad lietuvių kalba turi daugiausia maloninių ir mažybinių žodžių tarp Europos kalbų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +79,6 @@ media_all_json: |-
 
 <a id="claim-t-101619"></a>
 - t-004
-  global_id: t-101619
   teiginys: "Benjaminas W. Dwightas lietuvių kalbą išskyrė dėl gausių maloninių ir mažybinių žodžių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -124,22 +120,14 @@ media_all_json: |-
     dalis lenkų laikė Rusijos carizmo politikos projektu, gimusiu tik tam, kad
     skaldytų ir silpnintų lenkų jėgą, o vėliau Lietuvos valstybės atkūrimą lai-
     kys tik Vokietijos intriga.
-  citata_rodoma: |
-    IV s k y r i u s
-    LIETUVOS VALSTYBĖS
-    ATKŪRIMAS
-    „Iš visų Europos kalbų lietuvių kalba turi didžiausią skaičių
-    maloninių ir mažybinių žodžių, daugiau, negu ispanų ar italų
-    kalbos, netgi rusų, ir jie gali būti dauginami be galo, pridedant
-    juos prie veiksmažodžių ir prieveiksmių, lygiai kaip prie
-    būdvardžių ir daiktavardžių.
+  citata_rodoma: "IV s k y r i u s\nLIETUVOS VALSTYBĖS  \nATKŪRIMAS \n„Iš visų Europos kalbų lietuvių kalba turi didžiausią skaičių \nmaloninių ir mažybinių žodžių, daugiau, negu ispanų ar italų \nkalbos, netgi rusų, ir jie gali būti dauginami be galo, pridedant  \njuos prie veiksmažodžių ir prieveiksmių, lygiai kaip prie \nbūdvardžių ir daiktavardžių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101616
-    - t-101617
-    - t-101618
-    - t-101619
+    - t-001
+    - t-002
+    - t-003
+    - t-004

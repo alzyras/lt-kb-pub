@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-88501"></a>
 - t-001
-  global_id: t-88501
   teiginys: "Vytauto laiškas didžiajam magistrui dėl gydytojo buvo datuotas Obolcuose 1426 m. sausio 13 dieną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88501
+    - t-001

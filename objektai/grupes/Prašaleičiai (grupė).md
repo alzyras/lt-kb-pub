@@ -33,7 +33,6 @@ Oi Titi, Titi!" Prašaleičiai, nežinodami Lietuvos kalbos, iki šiai dienai st
 
 <a id="claim-t-201253"></a>
 - t-001
-  global_id: t-201253
   teiginys: "Oi Titi, Titi!\" Prašaleičiai, nežinodami Lietuvos kalbos, iki šiai dienai stigavoja lietuvius ir žemaičius senovėje per kūniją už Dievą garbinusius, bet žinovas tos kalbos žino gerai, jog kas kitas yra toj kalboj Perkūnas, o kas kitas perkūnija."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Oi Titi, Titi!" Prašaleičiai, nežinodami Lietuvos kalbos, iki šiai dienai st
 ## Citatos
 
 - id: c-184603
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Oi Titi, Titi!"
     Prašaleičiai, nežinodami Lietuvos kalbos, iki šiai
@@ -68,4 +68,4 @@ Oi Titi, Titi!" Prašaleičiai, nežinodami Lietuvos kalbos, iki šiai dienai st
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201253
+    - t-001

@@ -31,7 +31,6 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
 
 <a id="claim-t-22281"></a>
 - t-001
-  global_id: t-22281
   teiginys: "Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuvos žemes paversti tiesiog Vakarų Rusija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,13 +58,11 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
     mą žemę įgijusiu žemiausiu, bet savarankišku valstiečių žemdirbių luo-
     mu. Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenki-
     jos ir Lietuvos žemes paversti tiesiog Vakarų Rusija.
-  citata_rodoma: |
-    Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenki-
-    jos ir Lietuvos žemes paversti tiesiog Vakarų Rusija.
+  citata_rodoma: "Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenki-\njos ir Lietuvos žemes paversti tiesiog Vakarų Rusija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22281
+    - t-001

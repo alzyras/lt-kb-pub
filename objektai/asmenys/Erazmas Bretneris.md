@@ -39,7 +39,6 @@ Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas b
 
 <a id="claim-t-87660"></a>
 - t-001
-  global_id: t-87660
   teiginys: "Vilniaus burmistras ir auksakalys Erazmas Bretneris 1546 m. testamentu skyrė savo namą Švč. Trejybės špitolei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,6 +85,7 @@ Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87660
+    - t-001
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Namas]]

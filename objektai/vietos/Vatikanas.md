@@ -39,7 +39,6 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
 
 <a id="claim-t-181301"></a>
 - t-001
-  global_id: t-181301
   teiginys: "Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181301
+    - t-001

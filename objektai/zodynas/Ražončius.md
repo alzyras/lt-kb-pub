@@ -54,7 +54,6 @@ Terminas vartojamas kaip religinio bendruomeninio elgesio matas, už kurio nelan
 
 <a id="claim-t-195465"></a>
 - t-001
-  global_id: t-195465
   teiginys: "Ražončius šiame šaltinyje reiškia rytinį giedojimą."
   atnaujinta: "2026-07-12 03:27"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -76,13 +75,11 @@ Terminas vartojamas kaip religinio bendruomeninio elgesio matas, už kurio nelan
     kaišioja jam tinginystę, o jei jis yra dar augąs, tai kiti jo amžininkai,
     pusberniukai išstumia jį iš grįčios. Tai pabauda už nekėlimą, už ne­
     atėjimą rytą ražončiaus giedoti.
-  citata_rodoma: |
-    Tai pabauda už nekėlimą, už ne­
-    atėjimą rytą ražončiaus giedoti
+  citata_rodoma: "Tai pabauda už nekėlimą, už ne­\natėjimą rytą ražončiaus giedoti"
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195465
+    - t-001

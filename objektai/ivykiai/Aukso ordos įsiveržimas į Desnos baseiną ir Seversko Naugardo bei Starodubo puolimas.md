@@ -63,9 +63,8 @@ Nenurodyta
 
 <a id="claim-t-186784"></a>
 - t-002
-  global_id: t-186784
   teiginys: "1501 m. rugpjūtį Aukso orda įsiveržė į buvusias LDK teritorijas Desnos baseine, 1500 m. prijungtas prie Maskvos Didžiosios Kunigaikštystės."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Auksinė Orda: 0.85"
@@ -83,30 +82,6 @@ Nenurodyta
   pagrindžia:
     - c-169979
 
-<a id="claim-t-186782"></a>
-- t-001
-  global_id: t-186782
-  teiginys: 'Aukso ordos totoriai labai šaltą 1501-1502 m. žiemą žiemojo nurodytose vietose, nesulaukę realios LDK paramos kariuomene, artilerija ir maistu.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pašalinta įžanga ir išlaikyta citatos paremta informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_place: Severskas; mentioned_place: Starodubas'
-  temporaliniai_duomenys: 'įvykio data: 1501 m.; įvykio data: 1501-1502; įvykio data: 1502 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalinta įžanga ir išlaikyta citatos paremta informacija.'
-  pagrindžia:
-    - c-001
-<a id="claim-t-186785"></a>
-- t-003
-  global_id: t-186785
-  teiginys: 'Seversko Naugardą ir Starodubą Aukso ordos totoriai puolė 1501 m. rugsėjį, iki spalio 7 d.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys padarytas tiesioginis ir įtrauktas citatoje nurodytas laiko patikslinimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Naugardas; mentioned_place: Severskas; mentioned_place: Starodubas; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]'
-  temporaliniai_duomenys: 'įvykio data: 1501 m.; įvykio data: 1502 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys padarytas tiesioginis ir įtrauktas citatoje nurodytas laiko patikslinimas.'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -121,12 +96,11 @@ Nenurodyta
     gininko.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186782
-    - t-186785
+  statusas: not_found
+- t-001
+
 ## Citatos
 
 - id: c-169979
@@ -145,16 +119,11 @@ Nenurodyta
     1507 m. kovo mėn. Mirė 1508 m.
     55 Michailas Ivanovičius Ostrogiškis buvo Lucko seniūnu ir Vo­
     lynės žemės maršalu jau 1500 m. gruodžio mėn. ir dar 150!
-  citata_rodoma: |
-    Pa­
-    gal šių sutarti apie 1501 m. birželio mėn. Aukso orda iš Volgos ir
-    Dono žemupio stepių persim etė ) Dono aukštupį ir 1501 m. rug­
-    pjūčio mėn. įsiveržė | buvusiųjų LDK teritorijų Desnos upės ba­
-    seine, 1500 m. prijungta prie Maskvos Didžiosios Kunigaikštystės.
+  citata_rodoma: "Pa­\ngal šių sutarti apie 1501 m. birželio mėn. Aukso orda iš Volgos ir \nDono žemupio stepių persim etė ) Dono aukštupį ir 1501 m. rug­\npjūčio mėn. įsiveržė | buvusiųjų LDK teritorijų Desnos upės ba­\nseine, 1500 m. prijungta prie Maskvos Didžiosios Kunigaikštystės."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186784
+    - t-002

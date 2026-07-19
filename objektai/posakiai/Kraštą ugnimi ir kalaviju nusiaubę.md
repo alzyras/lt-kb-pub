@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-86861"></a>
 - t-001
-  global_id: t-86861
   teiginys: "Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir, nusiaubę kraštą ugnimi bei kalaviju, grįžo į Prūsiją ir Livoniją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86861
+    - t-001

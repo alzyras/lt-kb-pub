@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-200675"></a>
 - t-001
-  global_id: t-200675
   teiginys: "1754 m. žodis „juodaknygis“ pavartotas Jono Dominyko Lopacinskio humoristiniame palyginime apie slaptai knygas skaičiusį Antaną Mykolą Pacą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/03_normalize_titles_and_notes.md"
@@ -69,19 +68,8 @@ media_all_json: |-
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 12"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 12."
-  citata_originali: |
-    Kitame laiške tam pačiam Mykolui Ksaverui
-    Sapiegai jis linkėjo karnavalo metu susirasti žmoną [18] (beje, šis palinkėjimas neišsipildė
-    ir didikas liko nevedęs [91]).
-    1754 m. J. D. Lopacinskis su humoru rašė, kad LDK raštininkas Antanas Mykolas
-    Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų, bet jas skaitė pasislėpęs kaip
-    koks juodaknygis tamsiuose požemiuose, kad niekas nepastebėtų.
-  citata_rodoma: |
-    1754 m. J. D. Lopacinskis su humoru rašė, kad LDK raštininkas Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų, bet jas skaitė pasislėpęs kaip koks juodaknygis tamsiuose požemiuose, kad niekas nepastebėtų.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200675
+    - t-001

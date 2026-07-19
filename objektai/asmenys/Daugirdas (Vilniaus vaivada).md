@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-87650"></a>
 - t-001
-  global_id: t-87650
   teiginys: "1440 m. balandį Vilniaus vaivada Daugirdas laikinai užėmė žemutinę Vilniaus pilį Švitrigailai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87650
+    - t-001

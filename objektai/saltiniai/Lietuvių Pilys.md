@@ -36,7 +36,6 @@ LieP = Lietuvos Pilys, red. J.
 
 <a id="claim-t-31792"></a>
 - t-001
-  global_id: t-31792
   teiginys: "„Lietuvos Pilys“ buvo J. Jurginio redaguotas devynių autorių tyrinėjimų rinkinys apie mūrines Lietuvos pilis, išleistas Vilniuje 1971 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,13 +63,11 @@ LieP = Lietuvos Pilys, red. J.
     t. 4). Krokuva 1892.
     LieP = Lietuvos Pilys, red. J. Jurginis (9-nių autorių tyrinėjimų
     rinkinys apie mūrines Lietuvos pilis), Vilnius 1971.
-  citata_rodoma: |
-    LieP = Lietuvos Pilys, red. J. Jurginis (9-nių autorių tyrinėjimų
-    rinkinys apie mūrines Lietuvos pilis), Vilnius 1971.
+  citata_rodoma: "LieP = Lietuvos Pilys, red. J. Jurginis (9-nių autorių tyrinėjimų\nrinkinys apie mūrines Lietuvos pilis), Vilnius 1971."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31792
+    - t-001

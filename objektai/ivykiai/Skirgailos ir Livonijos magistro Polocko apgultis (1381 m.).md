@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-86925"></a>
-- t-001
-  global_id: t-86925
+- t-002
   teiginys: "1381 m. Skirgaila su Livonijos magistru 12 savaičių laikė apsupę Polocką, bet apgultį nutraukė dėl pokyčių Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-82904
 
 <a id="claim-t-194179"></a>
-- t-002
-  global_id: t-194179
+- t-003
   teiginys: "Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -110,30 +108,15 @@ Nenurodyta
     Andrius Vaidotas, Kęstučio sūnus,
     Polocko kunigaikštis - visai išgalvo­
     tas.
-  citata_rodoma: |
-    locke. Tačiau miestiečių išvytas, nu­
-    vykęs pas magistrą sulaukė para­
-    mos, su pastaruoju 1381 metais iš­
-    laikė apsupęs Polocką 12 savaičių,
-    bet ir sunki pilies apgultis, ir netikė­
-    ti pokyčiai Lietuvoje, per kuriuos
-    Kęstučiui atiteko kunigaikščio sos­
-    tas, privertė Livonijos magistrą nu­
-    traukti apgultį, o Skirgailą grįžti į
-    Vilnių. Strijkovskis ir Koje-
-    1  a v i č i u s supainiojo Andrių, Al­
-    girdo sūnų, su Vaidotu, Kęstučio sū­
-    numi, todėl radosi jų minimas
-    Andrius Vaidotas, Kęstučio sūnus,
-    Polocko kunigaikštis - visai išgalvo­
-    tas.
+  citata_rodoma: "locke. Tačiau miestiečių išvytas, nu­\nvykęs pas magistrą sulaukė para­\nmos, su pastaruoju 1381 metais iš­\nlaikė apsupęs Polocką 12 savaičių, \nbet ir sunki pilies apgultis, ir netikė­\nti pokyčiai Lietuvoje, per kuriuos \nKęstučiui atiteko kunigaikščio sos­\ntas, privertė Livonijos magistrą nu­\ntraukti apgultį, o Skirgailą grįžti į \nVilnių. Strijkovskis ir Koje- \n1  a v i č i u s supainiojo Andrių, Al­\ngirdo sūnų, su Vaidotu, Kęstučio sū­\nnumi, todėl radosi jų minimas \nAndrius Vaidotas, Kęstučio sūnus, \nPolocko kunigaikštis - visai išgalvo­\ntas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86925
+    - t-002
+
 - id: c-176790
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -161,4 +144,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194179
+    - t-003

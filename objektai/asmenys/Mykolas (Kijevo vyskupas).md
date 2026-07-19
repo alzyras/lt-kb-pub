@@ -39,7 +39,6 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 
 <a id="claim-t-87921"></a>
 - t-001
-  global_id: t-87921
   teiginys: "1386 m. Kijevo vyskupas Mykolas kartu su Plocko vyskupu Stanislovu pašventino Šv. Jono bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87921
+    - t-001

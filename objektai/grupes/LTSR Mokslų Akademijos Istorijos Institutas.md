@@ -37,7 +37,6 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
 
 <a id="claim-t-31259"></a>
 - t-001
-  global_id: t-31259
   teiginys: "LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,16 +70,11 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
     Akademijos Istorijos Institutas leidžia kas antri metai knygas :
     _Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos
     skyrių red. A. Tautavičius.
-  citata_rodoma: |
-    ^104 E. Radzvilovaitė pateikė žinių apie lietuvių genčių
-    skydus II-VIII a. (AkMD, t. 21, 1966, 127-141 p.). LTSR Mokslų
-    Akademijos Istorijos Institutas leidžia kas antri metai knygas :
-    _Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos
-    skyrių red. A. Tautavičius.
+  citata_rodoma: "^104 E. Radzvilovaitė pateikė žinių apie lietuvių genčių\nskydus II-VIII a. (AkMD, t. 21, 1966, 127-141 p.). LTSR Mokslų\nAkademijos Istorijos Institutas leidžia kas antri metai knygas :\n_Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos\nskyrių red. A. Tautavičius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31259
+    - t-001

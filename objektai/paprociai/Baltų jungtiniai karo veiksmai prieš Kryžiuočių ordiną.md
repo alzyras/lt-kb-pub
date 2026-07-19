@@ -62,8 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59725"></a>
-- t-001
-  global_id: t-59725
+- t-002
   teiginys: "Sembų ir lietuvių bendri karo veiksmai siejami su Ordinui priklausiusios Klaipėdos pilies apgultimi XIII a. šeštajame dešimtmetyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,8 +82,7 @@ Nenurodyta
     - c-60357
 
 <a id="claim-t-59726"></a>
-- t-002
-  global_id: t-59726
+- t-003
   teiginys: "Mindaugo žūtis, netvirta Lietuvos vidaus padėtis ir sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -104,8 +102,7 @@ Nenurodyta
     - c-60360
 
 <a id="claim-t-59727"></a>
-- t-003
-  global_id: t-59727
+- t-004
   teiginys: "Dalis nadruvių, pagudėnų, sūduvių ir bartų pasitraukė į Lietuvos valstybę ir dalyvavo kovoje prieš Ordino bei Aukso ordos agresiją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -125,8 +122,7 @@ Nenurodyta
     - c-60358
 
 <a id="claim-t-59728"></a>
-- t-004
-  global_id: t-59728
+- t-001
   teiginys: "Lietuvos ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš Pavyslyje įsikūrusį Kryžiuočių ordiną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -144,7 +140,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pašalinta netiksli autorinė įžanga ir suformuotas glaustas faktinis sakinys."
   pagrindžia:
     - c-60359
-    - c-003
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Lietuvos ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš Pavyslyje įsikūrusį Kryžiuočių ordiną.'
@@ -163,8 +159,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59728
+
 ## Citatos
 
 - id: c-60357
@@ -188,7 +183,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59725
+    - t-002
+
 - id: c-60358
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -203,20 +199,15 @@ Nenurodyta
     (III, 253— 1293 m.), be kita ko, siekė (1337 m.) padėti Gedimino kariuomenei, kuri
     stengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,—
     Bajerburgą36. Net 1410 m.
-  citata_rodoma: |
-    Užgrobtų žemių gyventojai buvo pavergti, bet dalis nadruvių, pagudėnų, sūduvių,
-    bartų ir kt. rado prieglobstį Lietuvos valstybės teritorijoje (III, 179, 191, 211, 217, 219,
-    223) ir toliau dalyvavo bendroje kovoje prieš Ordino ir Aukso ordos agresiją.
-      Ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma,
-    kad kai kurie pavergtieji prūsai bandė žlugdyti kryžiuočių antpuolius prieš Lietuvą (III,
-    226—1285 m.
+  citata_rodoma: "Užgrobtų žemių gyventojai buvo pavergti, bet dalis nadruvių, pagudėnų, sūduvių,\nbartų ir kt. rado prieglobstį Lietuvos valstybės teritorijoje (III, 179, 191, 211, 217, 219,\n223) ir toliau dalyvavo bendroje kovoje prieš Ordino ir Aukso ordos agresiją.\n  Ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma,\nkad kai kurie pavergtieji prūsai bandė žlugdyti kryžiuočių antpuolius prieš Lietuvą (III,\n226—1285 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59727
+    - t-004
+
 - id: c-60359
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -232,22 +223,15 @@ Nenurodyta
     kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123).
-  citata_rodoma: |
-    Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
-    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir
-    sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui
-    (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
-    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat
-    atsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą
-    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
-    lietuviai29.
+  citata_rodoma: "Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus\ntada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir\nsutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui\n(1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —\nKulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat\natsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą\nliudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir\nlietuviai29."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59728
+    - t-001
+
 - id: c-60360
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -270,4 +254,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59726
+    - t-003

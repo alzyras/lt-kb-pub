@@ -30,7 +30,6 @@ Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterbur
 
 <a id="claim-t-21555"></a>
 - t-001
-  global_id: t-21555
   teiginys: "Septintąjį–aštuntąjį dešimtmetį Lietuvą kirto geležinkelio linija Liepoja–Romnai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,12 +60,11 @@ Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterbur
     navigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
     Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
     (Kenigsbergą), linija Liepoja–Romnai.
-  citata_rodoma: |
-    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
+  citata_rodoma: "Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21555
+    - t-001

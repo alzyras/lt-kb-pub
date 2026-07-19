@@ -30,7 +30,6 @@ Bresto vaivada Jonas iš Lichino buvo vienas iš pasiuntinybės narių, kurią s
 
 <a id="claim-t-193451"></a>
 - t-001
-  global_id: t-193451
   teiginys: "Bresto vaivada Jonas iš Lichino buvo vienas iš pasiuntinybės narių, kurią senatas skubiai išsiuntė į Lietuvą dėl Žygimanto pakėlimo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Bresto vaivada Jonas iš Lichino buvo vienas iš pasiuntinybės narių, kurią s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193451
+    - t-001

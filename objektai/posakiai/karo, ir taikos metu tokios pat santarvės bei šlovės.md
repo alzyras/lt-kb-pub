@@ -31,7 +31,6 @@ Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarv
 
 <a id="claim-t-185477"></a>
 - t-001
-  global_id: t-185477
   teiginys: "Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185477
+    - t-001

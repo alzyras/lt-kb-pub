@@ -41,7 +41,6 @@ Didis mistras Zangerhuzenas steigė visa aitra suspaustus savo brostvius kaip į
 
 <a id="claim-t-201411"></a>
 - t-001
-  global_id: t-201411
   teiginys: "Didis mistras Zangerhuzenas steigė visa aitra suspaustus savo brostvius kaip įmanąs gelbėti; jau tą patį ru denį 1261, sutelkęs šen ten Teutonijoj stiprius bū rius meldžionų, tenai išsiuntė."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,9 @@ Didis mistras Zangerhuzenas steigė visa aitra suspaustus savo brostvius kaip į
 ## Citatos
 
 - id: c-184761
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu paties Rymo rūmuose nusigaudė gar­
     sas nuokryčio kryžėjų ties Durbike, lygia dalia vi­
@@ -73,4 +73,4 @@ Didis mistras Zangerhuzenas steigė visa aitra suspaustus savo brostvius kaip į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201411
+    - t-001

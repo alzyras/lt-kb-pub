@@ -39,7 +39,6 @@ Ir kai Jogaila 1417 m. be jo ir jo didžiūnų ži­ nios bei valios vedė Elžb
 
 <a id="claim-t-35056"></a>
 - t-001
-  global_id: t-35056
   teiginys: "Jogaila 1417 m. vedė Elžbietą Granauskaitę be Vytauto ir jo didžiūnų žinios bei valios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,18 +74,14 @@ Ir kai Jogaila 1417 m. be jo ir jo didžiūnų ži­ nios bei valios vedė Elžb
     balsas ir ketvirtosiose Jogailos vedybose su kun. Zofija, Alšė­
     niške; šiuo tarpu buvo pasipriešinta visai kitoniškam Lenkijos
     tarybos projektui.
-  citata_rodoma: |
-    Ir kai Jogaila 1417 m. be jo ir jo didžiūnų ži­
-    nios bei valios vedė Elžbietą Granauskaitę, Vytautas taip supyko,
-    kad karalius, norėdamas vėl įsigyti jo prielankumą, turėjo tam
-    sušaukti atskirą suvažiavimą. Lemiančios reikšmės turėjo jo
-    balsas ir ketvirtosiose Jogailos vedybose su kun.
+  citata_rodoma: "Ir kai Jogaila 1417 m. be jo ir jo didžiūnų ži­\nnios bei valios vedė Elžbietą Granauskaitę, Vytautas taip supyko,\nkad karalius, norėdamas vėl įsigyti jo prielankumą, turėjo tam\nsušaukti atskirą suvažiavimą. Lemiančios reikšmės turėjo jo\nbalsas ir ketvirtosiose Jogailos vedybose su kun."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35056
+    - t-001
+
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

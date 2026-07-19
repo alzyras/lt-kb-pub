@@ -43,26 +43,11 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189961"></a>
-- t-001
-  global_id: t-189961
-  teiginys: 'Narbutas teigė, kad seniausioji lietuvių religija buvusi azijinė indiška, o dangaus kūnai, ugnis, vanduo ir žemė garbinti pagal budistų ir persų taisykles.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Religinės kilmės teorija suformuluota kaip Narbuto teiginys. Nepridėta vėlesnio romėnų, gotų ar skandinavų poveikio, nors citata jį mini.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Persai|Persai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_person: [[objektai/asmenys/Zoroastras|Zoroastras]]'
-  pagrindžia:
-    - c-172844
-
-## Citatos
-
-- id: c-172844
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas teigė, kad seniausioji lietuvių religija buvusi azijinė indiška, o dangaus kūnai, ugnis, vanduo ir žemė garbinti pagal budistų ir persų taisykles.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Išnagrinėję visą lietuvių mitologijos sistemą, lengvai pa­
     stebime, kad seniausioji lietuvių religija buvo azijinė -  indiš­
@@ -81,10 +66,8 @@ Nenurodyta
     nių mitų ir apeigų, kurių pėdsakai mūsų mitologijoje yra pa­
     kankamai ryškūs -  tiek, kad senesnieji istorikai visą tą mitolo­
     giją kildina iš skandinavų.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189961
+  statusas: verified

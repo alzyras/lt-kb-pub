@@ -29,26 +29,8 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
 
 ## Teiginiai
 
-<a id="claim-t-70215"></a>
-- t-001
-  global_id: t-70215
-  teiginys: "Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą."
-  atnaujinta: "2026-05-31 10:29"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "lėnas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"lėnas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-15272
-
 <a id="claim-t-70216"></a>
-- t-002
-  global_id: t-70216
+- t-005
   teiginys: "Vytautas pažadėjo valdyti savo tėviškę kaip Ordino lėną, jei Ordinas padėtų ją atgauti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -78,16 +60,11 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
     pereidamas į Ordino pusę ir priimdamas krikštą, pasižadėjo vi­
     są savo tėviškę valdyti, kaip Ordino lėną, jei tik šis jam padėtų
     ją atgauti^2 ).
-  citata_rodoma: |
-    Vytautas,
-    pereidamas į Ordino pusę ir priimdamas krikštą, pasižadėjo vi­
-    są savo tėviškę valdyti, kaip Ordino lėną, jei tik šis jam padėtų
-    ją atgauti^2 ).
+  citata_rodoma: "Vytautas,\npereidamas į Ordino pusę ir priimdamas krikštą, pasižadėjo vi­\nsą savo tėviškę valdyti, kaip Ordino lėną, jei tik šis jam padėtų\nją atgauti^2 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70215
-    - t-70216
+    - t-005

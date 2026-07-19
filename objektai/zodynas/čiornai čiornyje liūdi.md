@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-86497"></a>
 - t-001
-  global_id: t-86497
   teiginys: "Vilniaus rusinai ir rusų vienuoliai, žmonių vadinti čiornais, nuo Gedimino laikų turėjo savo vienuolyną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86497
+    - t-001

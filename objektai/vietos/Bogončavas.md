@@ -31,7 +31,6 @@ Pasak Baturlino, budinai buvo užėmę šiandienių Voluikos ir Bogončavo miest
 
 <a id="claim-t-192866"></a>
 - t-001
-  global_id: t-192866
   teiginys: "Pasak Baturlino, budinai buvo užėmę šiandienių Voluikos ir Bogončavo miestų apylinkes Dono ir Doneco tarpupyje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -89,6 +88,7 @@ Pasak Baturlino, budinai buvo užėmę šiandienių Voluikos ir Bogončavo miest
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192866
+    - t-001
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Budinai]]

@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-59596"></a>
 - t-001
-  global_id: t-59596
   teiginys: "Vienas Rudino brolis ir Martynas iš Golino, pasiklydę dykrose, susidūrė su prūsais, juos įveikė ir grįžo į Rudino pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59596
+    - t-001

@@ -38,10 +38,9 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-06868"></a>
-- t-001
-  global_id: t-06868
+- t-002
   teiginys: "Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas bajorų laisvės dėsniu."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -68,17 +67,15 @@ media_all_json: |-
     šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
     _(nihil de те, sine те)._ Tatai vadinosi _liberum veto,_ t. y. laisvojo
     pasipriešinimo teisė.
-  citata_rodoma: |
-    visi savo laisvės pagrindu laikė
-    šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
-    _(nihil de те, sine те)._
+  citata_rodoma: "visi savo laisvės pagrindu laikė\nšį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane\"\n_(nihil de те, sine те)._"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-06868
+    - t-002
+
 - id: c-00243
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -91,12 +88,9 @@ media_all_json: |-
     atstovai suvažiuodavo į seimą, žinoma, negalėdavo tarp savęs
     susikalbėti. Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
     turėdavo iširti.
-  citata_rodoma: |
-    Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
-    turėdavo iširti.
+  citata_rodoma: "Visada atsirasdavo, kas pasakydavo _„veto\",_ ir seimas\nturėdavo iširti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:

@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-31871"></a>
 - t-001
-  global_id: t-31871
   teiginys: "O. Urbono „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“ išleido „Kario“ leidykla Brukline."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,14 +66,11 @@ media_all_json: |-
     Deutschen Orden 1410 bis Februar 1411_ , Zeitschr. des Westpreuss. Ge-
     scnichtsvereins, t. 16, Danzig 1886, 37-104 p. — Urbonas, O. : _1410
     metų karas su kryžiuočiais ir Žalgirio mūšis_ , Kario leid., Brooklyn, N. Y.
-  citata_rodoma: |
-    Ge-
-    scnichtsvereins, t. 16, Danzig 1886, 37-104 p. — Urbonas, O. : _1410
-    metų karas su kryžiuočiais ir Žalgirio mūšis_ , Kario leid., Brooklyn, N. Y.
+  citata_rodoma: "Ge-\nscnichtsvereins, t. 16, Danzig 1886, 37-104 p. — Urbonas, O. : _1410\nmetų karas su kryžiuočiais ir Žalgirio mūšis_ , Kario leid., Brooklyn, N. Y."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31871
+    - t-001

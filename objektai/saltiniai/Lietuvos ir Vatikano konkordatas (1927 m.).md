@@ -36,9 +36,8 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
 
 ## Teiginiai
 
-<a id="claim-t-75475"></a>
-- t-001
-  global_id: t-75475
+<a id="claim-t-75474"></a>
+- t-003
   teiginys: "1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
     - c-23876
 
 <a id="claim-t-75476"></a>
-- t-002
-  global_id: t-75476
+- t-001
   teiginys: "1927 m. rugsėjo 27 d. Augustinas Voldemaras pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -89,18 +87,15 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
     vyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis
     pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
     padėtį valstybėje.
-  citata_rodoma: |
-    Tik A. Voldemarui pa-
-    vyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis
-    pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
-    padėtį valstybėje.
+  citata_rodoma: "Tik A. Voldemarui pa-\nvyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis\npasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios\npadėtį valstybėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75476
+    - t-001
+
 - id: c-23876
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -118,14 +113,11 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
     žurnalai. Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-
     no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
     Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
-  citata_rodoma: |
-    Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-
-    no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
-    Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
+  citata_rodoma: "Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-\nno konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų\nSąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75475
+    - t-003

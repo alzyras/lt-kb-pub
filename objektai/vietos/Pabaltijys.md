@@ -39,8 +39,7 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
 ## Teiginiai
 
 <a id="claim-t-182874"></a>
-- t-001
-  global_id: t-182874
+- t-022
   teiginys: "Rytų Pabaltijo žemėje išlikę senosios kultūros paminklai leidžia giliau pažinti lietuvių protėvių ir artimų baltų giminių praeitį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
     - c-166279
 
 <a id="claim-t-193222"></a>
-- t-002
-  global_id: t-193222
+- t-023
   teiginys: "Prasidėjus deryboms, Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuočių ordinas išsikraustytų iš Pabaltijo ir persikeltų į Rusijos tyrus ginti Europos nuo totorių."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -85,20 +83,15 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
     miausių giminių latvių, prūsų ir sūduvių-jotvingių. Labai tolimai
     pirmųjų žmogaus pėdsakų epochai pažinti reikia dar griebtis geolo­
     gijos, paleontologijos ir antropologijos.
-  citata_rodoma: |
-    Rausiantis kastuvu rytų Pabaltijo žemėje, kuri ir čia yra už­
-    konservavusi daug senosios kultūros paminklų, galima pažvelgti
-    nepalyginamai giliau į seniausią praeitį lietuvių protėvių ir jų arti­
-    miausių giminių latvių, prūsų ir sūduvių-jotvingių. Labai tolimai
-    pirmųjų žmogaus pėdsakų epochai pažinti reikia dar griebtis geolo­
-    gijos, paleontologijos ir antropologijos.
+  citata_rodoma: "Rausiantis kastuvu rytų Pabaltijo žemėje, kuri ir čia yra už­\nkonservavusi daug senosios kultūros paminklų, galima pažvelgti\nnepalyginamai giliau į seniausią praeitį lietuvių protėvių ir jų arti­\nmiausių giminių latvių, prūsų ir sūduvių-jotvingių. Labai tolimai\npirmųjų žmogaus pėdsakų epochai pažinti reikia dar griebtis geolo­\ngijos, paleontologijos ir antropologijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182874
+    - t-022
+
 - id: c-175964
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -120,4 +113,4 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193222
+    - t-023

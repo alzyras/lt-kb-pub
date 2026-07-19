@@ -31,8 +31,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
 ## Teiginiai
 
 <a id="claim-t-176495"></a>
-- t-001
-  global_id: t-176495
+- t-002
   teiginys: "Lietuvai ir Lenkijai palankus antipopiežius Jonas XXIII, kuris imperatorių Zigmantą buvo prašęs sušaukti šį susirinkimą, Konstancoje buvo atstatytas ir įmestas kalėjiman."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     - c-160497
 
 <a id="claim-t-176496"></a>
-- t-002
-  global_id: t-176496
+- t-005
   teiginys: "Jonas XXIII atėmė Vokiečių ordinui teises ir privilegijas, kuriomis jis teisino savo užpuolimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     - c-36388
 
 <a id="claim-t-176497"></a>
-- t-003
-  global_id: t-176497
+- t-001
   teiginys: "Jonas XXIII pagal Jogailos ir Vytauto prašymą panaikino pasenusias Ordino privilegijas į Lietuvą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -83,7 +80,6 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
 
 <a id="claim-t-176499"></a>
 - t-004
-  global_id: t-176499
   teiginys: "Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,9 +94,9 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   pagrindžia:
     - c-36387
     - c-167658
+
 <a id="claim-t-184282"></a>
-- t-005
-  global_id: t-184282
+- t-007
   teiginys: "Jonas XXIII atėmė Vokiečių ordinui teises bei privilegijas ir pasiūlė Vytautui bylą perduoti Konstancijos susirinkimui."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -141,7 +137,8 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176499
+    - t-004
+
 - id: c-36388
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -160,7 +157,8 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176496
+    - t-005
+
 - id: c-160496
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -182,7 +180,8 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176497
+    - t-001
+
 - id: c-160497
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -200,7 +199,8 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176495
+    - t-002
+
 - id: c-167658
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -215,10 +215,12 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     ir teises kariauti Lietuvą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-167659
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -236,4 +238,4 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184282
+    - t-007

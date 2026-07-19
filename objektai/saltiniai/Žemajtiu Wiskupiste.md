@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-36138"></a>
 - t-001
-  global_id: t-36138
   teiginys: "Motiejaus K. Wołonczewskio „Żemajtiu Wiskupiste“ buvo išleista Vilniuje 1848 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,13 +66,11 @@ media_all_json: |-
     1827—1834.
     Woł. = Wołonczewskis, Motiejus K., Żemajtiu Wiskupiste, Vil­
     nius, 1848.
-  citata_rodoma: |
-    Woł. = Wołonczewskis, Motiejus K., Żemajtiu Wiskupiste, Vil­
-    nius, 1848.
+  citata_rodoma: "Woł. = Wołonczewskis, Motiejus K., Żemajtiu Wiskupiste, Vil­\nnius, 1848."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36138
+    - t-001

@@ -31,7 +31,6 @@ Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galim
 
 <a id="claim-t-194314"></a>
 - t-001
-  global_id: t-194314
   teiginys: "Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -44,7 +43,6 @@ Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galim
 
 <a id="claim-t-194315"></a>
 - t-002
-  global_id: t-194315
   teiginys: "Nėra geresnio pavyzdžio, kaip būtų galima sutvarkyti ir ap saugoti miesto archyvą nuo sunyki mo, už tą, kaip Radvilų archyvą Kar dinamoje pagal puikiai parengtą schemą sutvarkė mokslininkas ir di džiai prityręs Lietuvos istorijos ži novas Mikalojus."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,8 @@ Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194314
+    - t-001
+
 - id: c-176907
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -115,4 +114,4 @@ Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194315
+    - t-002

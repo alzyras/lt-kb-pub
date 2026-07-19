@@ -33,7 +33,6 @@ Kunigą Aleksandrą nusiuntė į Medžiapolę, kursai visus te nai ūkėsus apkr
 
 <a id="claim-t-201157"></a>
 - t-001
-  global_id: t-201157
   teiginys: "Kunigą Aleksandrą nusiuntė į Medžiapolę, kursai visus te nai ūkėsus apkrikštijo ir bažnyčią jiems įkūrė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Kunigą Aleksandrą nusiuntė į Medžiapolę, kursai visus te nai ūkėsus apkr
 ## Citatos
 
 - id: c-184507
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     To dėjęsis, Alobramdas kunigas nuėjo į Tu-
     raidą latvių mokyti ir krikštyti, kurį kraštą paskaidė
@@ -63,4 +63,4 @@ Kunigą Aleksandrą nusiuntė į Medžiapolę, kursai visus te nai ūkėsus apkr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201157
+    - t-001

@@ -31,7 +31,6 @@ Narbutas teigė, kad Tatiščevas Giurgevo ieškojo kairiojoje Dnepro pakrantėj
 
 <a id="claim-t-191358"></a>
 - t-001
-  global_id: t-191358
   teiginys: "Narbutas teigė, kad Tatiščevas Giurgevo ieškojo kairiojoje Dnepro pakrantėje, bet klaidingai jį sutapatino su pilaite prie Osteros žiočių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbutas teigė, kad Tatiščevas Giurgevo ieškojo kairiojoje Dnepro pakrantėj
 
 <a id="claim-t-191359"></a>
 - t-002
-  global_id: t-191359
   teiginys: "Narbutas atmetė Tatiščevo krivių pavadinimo kildinimą iš sarmatų žodžio „Krirsae“ ir labiau siejo jį su bendru vyriausiuoju kunigu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,7 +68,7 @@ Narbutas teigė, kad Tatiščevas Giurgevo ieškojo kairiojoje Dnepro pakrantėj
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174241
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas atmetė Tatiščevo krivių pavadinimo kildinimą iš sarmatų žodžio „Krirsae“ ir labiau siejo jį su bendru vyriausiuoju kunigu.'
@@ -88,8 +86,7 @@ Narbutas teigė, kad Tatiščevas Giurgevo ieškojo kairiojoje Dnepro pakrantėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191359
+
 ## Citatos
 
 - id: c-174240
@@ -113,7 +110,8 @@ Narbutas teigė, kad Tatiščevas Giurgevo ieškojo kairiojoje Dnepro pakrantėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191358
+    - t-001
+
 - id: c-174241
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -127,18 +125,11 @@ Narbutas teigė, kad Tatiščevas Giurgevo ieškojo kairiojoje Dnepro pakrantėj
     teisingai klausia, ką tai reiškia sarmatiškai. Etimologinio
     kildinimo nepripažįstu, tačiau krivičių pavadinimo kili­
     mas iš Krivio, regis, atrodo visai natūralus.
-  citata_rodoma: |
-    Taip manyti
-    galima pagal jų krašto padėtį“. Jei jo prielaida teisinga,
-    o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo,
-    tokiu atveju labiau dera jų pavadinimą kildinti iš bend­
-    ro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš
-    kažkokio sarmatų žodžio Krirsae, šaltinis. Be to, Slėceris
-    teisingai klausia, ką tai reiškia sarmatiškai.
+  citata_rodoma: "Taip manyti\ngalima pagal jų krašto padėtį“. Jei jo prielaida teisinga,\no aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo,\ntokiu atveju labiau dera jų pavadinimą kildinti iš bend­\nro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš\nkažkokio sarmatų žodžio Krirsae, šaltinis. Be to, Slėceris\nteisingai klausia, ką tai reiškia sarmatiškai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191359
+    - t-002

@@ -54,10 +54,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59350"></a>
-- t-001
-  global_id: t-59350
+- t-002
   teiginys: "Per 1218 m. žygį Kristijonas greičiausiai sudarė sutartį su Mazovijos kunigaikščiu Konradu ir gavo iš jo naujų valdų."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kristijonas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -72,12 +71,11 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Reikia sklandesnės formuluotės ir aiškesnio veiksmo laiko, išlaikant citatos atsargumą."
   pagrindžia:
     - c-59983
-    - c-002
+
 <a id="claim-t-59351"></a>
-- t-002
-  global_id: t-59351
+- t-001
   teiginys: "Popiežius 1217 m. kovo 3 d. leido Kristijonui organizuoti kryžiaus žygį į kitas Prūsijos žemes."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kristijonas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -92,7 +90,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, tiksliai perteikiantis cituojamą popiežiaus leidimą."
   pagrindžia:
     - c-59982
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Popiežius 1217 m. kovo 3 d. leido Kristijonui organizuoti kryžiaus žygį į kitas Prūsijos žemes.'
@@ -105,8 +103,6 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59351
 - c-002
   santrauka: 'Per 1218 m. žygį Kristijonas greičiausiai sudarė sutartį su Mazovijos kunigaikščiu Konradu ir gavo iš jo naujų valdų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -119,8 +115,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59350
+
 ## Citatos
 
 - id: c-59982
@@ -134,16 +129,15 @@ Nenurodyta
     po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis
     arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
     išsigelbėjo pabėgdamas.
-  citata_rodoma: |
-    Popiežius 1217.III.3 leido Kristijonui organizuoti
-    kryžiaus žygį į kitas Prūsijos žemes (PUB, 1, 1, Nr. 15; Pakarklis P. Kryžiuočių..., p. 205).
+  citata_rodoma: "Popiežius 1217.III.3 leido Kristijonui organizuoti\nkryžiaus žygį į kitas Prūsijos žemes (PUB, 1, 1, Nr. 15; Pakarklis P. Kryžiuočių..., p. 205)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59351
+    - t-001
+
 - id: c-59983
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -155,14 +149,11 @@ Nenurodyta
     po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis
     arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
     išsigelbėjo pabėgdamas.
-  citata_rodoma: |
-    Žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos
-    kunigaikščiu Konradu, iš kurio gavo naujų vaidų (PUB, 1, 1, Nr. 32; Szacherska S. M.
-    Pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Stosunki..., p. 134—152).
+  citata_rodoma: "Žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos\nkunigaikščiu Konradu, iš kurio gavo naujų vaidų (PUB, 1, 1, Nr. 32; Szacherska S. M.\nPierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Stosunki..., p. 134—152)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59350
+    - t-002

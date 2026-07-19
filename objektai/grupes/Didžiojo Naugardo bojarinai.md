@@ -31,7 +31,6 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
 
 <a id="claim-t-86789"></a>
 - t-001
-  global_id: t-86789
   teiginys: "Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,8 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86789
+    - t-001
+
 ## Ryšiai
 - Didžiojo Naugardo bojarinai keliavo į [[objektai/vietos/Vilnius]]
 - Didžiojo Naugardo bojarinai sudarė sutartį su [[objektai/asmenys/Švitrigaila]]

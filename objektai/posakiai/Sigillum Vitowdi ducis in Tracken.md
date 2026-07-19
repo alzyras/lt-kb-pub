@@ -31,7 +31,6 @@ Kiek vėliau padary­ tas jo nuorašas aprašo keturias antspaudas, tarp kurių 
 
 <a id="claim-t-35981"></a>
 - t-001
-  global_id: t-35981
   teiginys: "Vėlesniame akto nuoraše įrašas „Sigillum Vitowdi ducis in Tracken“ nurodė Vytauto, Trakų kunigaikščio, antspaudą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,19 +53,15 @@ Kiek vėliau padary­ tas jo nuorašas aprašo keturias antspaudas, tarp kurių 
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    Kiek vėliau padary­
+    Prie šito akto Vytauto antspauda neišliko. Kiek vėliau padary­
     tas jo nuorašas aprašo keturias antspaudas, tarp kurių pirmoje
     vietoje yra Vytauto: Sigillum Vitowdi ducis in Tracken.
     Dėl šitos sutarties autentiškumo keliama abejonių.
-  citata_rodoma: |
-    Kiek vėliau padary­
-    tas jo nuorašas aprašo keturias antspaudas, tarp kurių pirmoje
-    vietoje yra Vytauto: Sigillum Vitowdi ducis in Tracken.
-    Dėl šitos sutarties autentiškumo keliama abejonių.
+  citata_rodoma: "Kiek vėliau padary­\ntas jo nuorašas aprašo keturias antspaudas, tarp kurių pirmoje\nvietoje yra Vytauto: Sigillum Vitowdi ducis in Tracken.\nDėl šitos sutarties autentiškumo keliama abejonių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35981
+    - t-001

@@ -40,7 +40,6 @@ Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuom
 
 <a id="claim-t-193726"></a>
 - t-001
-  global_id: t-193726
   teiginys: "Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuomenės vadas gen."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193726
+    - t-001

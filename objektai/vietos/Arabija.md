@@ -31,7 +31,6 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
 
 <a id="claim-t-34165"></a>
 - t-001
-  global_id: t-34165
   teiginys: "Aprašyto keliautojo maršrutas driekėsi per Arabiją, Afriką ir Mezopotamiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34165
+    - t-001

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-191012"></a>
 - t-001
-  global_id: t-191012
   teiginys: "Teodoro Narbuto pasakojime III a. pabaigoje ar IV a. pradžioje slavų tiveriečiai persikėlė nuo Dnestro žemupio prie Dnepro ir pasiekė Rosės žiotis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,10 +71,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173894
-    - c-001
+
 <a id="claim-t-191014"></a>
-- t-002
-  global_id: t-191014
+- t-003
   teiginys: "Narbutas nurodo, kad 1128 m. nutautėję hiriai su pečenegais persikėlė į kairįjį Dnepro krantą, vėliau buvo išstumti už Dono ir davė pradžią Belgorodo totoriams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -100,7 +98,6 @@ Nenurodyta
 
 <a id="claim-t-191869"></a>
 - t-004
-  global_id: t-191869
   teiginys: "Teodoro Narbuto aiškinimu, hiriai nuo III a. pabaigos beveik iki XII a. vidurio gyveno prie Rosės ir suteikė jai mitinį vardą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -118,10 +115,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174751
-    - c-004
+
 <a id="claim-t-197540"></a>
-- t-003
-  global_id: t-197540
+- t-005
   teiginys: "III amžiaus pabaigoje ar IV amžiaus pradžioje slavų tiveriečių gen tys dėl kažkokių aplinkybių pokyčių persikėlė nuo Dnest ro žemupio prie Dnepro ir pasistūmėjo palei šią upę aukšlyn net iki Rosės žiočių kaip tik tada, kai jau dauguma birių perėjo prie."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -133,8 +129,7 @@ Nenurodyta
     - c-179237
 
 <a id="claim-t-197541"></a>
-- t-005
-  global_id: t-197541
+- t-006
   teiginys: "Tačiau jis negalėjo įkurti jokių kolonijų krašte, esančiame prie Rosės, nes ten gyveno pečenegai su orda, vadinama Charoboe."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -166,8 +161,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191012
 - c-004
   santrauka: 'Teodoro Narbuto aiškinimu, hiriai nuo III a. pabaigos beveik iki XII a. vidurio gyveno prie Rosės ir suteikė jai mitinį vardą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -191,8 +184,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191869
+
 ## Citatos
 
 - id: c-173894
@@ -216,25 +208,15 @@ Nenurodyta
     žiaus antrosios pusės, kai
     besiplečiantys pietų slavų
     kraštuose rusų variagai užkariavo ir pavergė juos.
-  citata_rodoma: |
-    Šią
-    liesą patvirtina ir vėlesnė šio krašto istorija. III amžiaus
-    pabaigoje ar IV amžiaus pradžioje slavų tiveriečių gen­
-    tys dėl kažkokių aplinkybių pokyčių persikėlė nuo Dnest­
-    ro žemupio prie Dnepro ir pasistūmėjo palei šią upę aukš-
-    lyn net iki Rosės žiočių kaip tik tada, kai jau dauguma
-    birių perėjo prie Dunojaus, galbūt norėdami sustiprinti
-    pastipusią skiriu ir sudargų karinę galią. Vėliau toje
-    Ukrainos dalyje apsigyveno tiveriečių ainiai polianai, ku­
-    rie vertėsi žemdirbyste, buvo vaišingi ir troško draugiš­
-    kų santykių su kitais.
+  citata_rodoma: "Šią\nliesą patvirtina ir vėlesnė šio krašto istorija. III amžiaus\npabaigoje ar IV amžiaus pradžioje slavų tiveriečių gen­\ntys dėl kažkokių aplinkybių pokyčių persikėlė nuo Dnest­\nro žemupio prie Dnepro ir pasistūmėjo palei šią upę aukš-\nlyn net iki Rosės žiočių kaip tik tada, kai jau dauguma\nbirių perėjo prie Dunojaus, galbūt norėdami sustiprinti\npastipusią skiriu ir sudargų karinę galią. Vėliau toje\nUkrainos dalyje apsigyveno tiveriečių ainiai polianai, ku­\nrie vertėsi žemdirbyste, buvo vaišingi ir troško draugiš­\nkų santykių su kitais."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191012
+    - t-001
+
 - id: c-173896
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -256,7 +238,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191014
+    - t-003
+
 - id: c-174751
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -278,28 +261,15 @@ Nenurodyta
     derlingumu ir kitomis gyventi palankiomis aplinkybėmis
     primena Parosės Ukrainą; tas, kuris lankėsi šiose abie­
     jose šalyse, galėjo įžvelgti jų panašumą.
-  citata_rodoma: |
-    294
-    Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad
-    birių gyventa pakrantėse ukrainiečių Rosės, kurią pa­
-    gal savo religinius papročius pašventino suteikdami jai
-    šį mitinį vardą. Čia jie gyveno nuo III amžiaus pabaigos
-    beveik iki XII amžiaus vidurio, kai, graikų imperatoriui
-    Jonui Komninui 1121 metais nugalėjus pečenegus, išsi­
-    kėlė į kairįjį Dnepro krantą pas poloviečius; taigi ten
-    jie gyveno aštuonis šimtmečius, ir būtent tai nulėmė lie­
-    tuvių genčių suteiktų vietovardžių ir upių pavadinimų
-    pastovumą. Dar reikia atkreipti dėmesį į tai, kad, pasak
-    mūsų istorijos supratimo, hiriai atėjo į Rytus iš lietu­
-    vių krašto, esančio Nemuno žemupio dešiniojoje pakran­
-    tėje, kur jie gyveno prie Jūros upės.
+  citata_rodoma: "294\nIšsiaiškinus visus šiuos dalykus, nereikia abejoti, kad\nbirių gyventa pakrantėse ukrainiečių Rosės, kurią pa­\ngal savo religinius papročius pašventino suteikdami jai\nšį mitinį vardą. Čia jie gyveno nuo III amžiaus pabaigos\nbeveik iki XII amžiaus vidurio, kai, graikų imperatoriui\nJonui Komninui 1121 metais nugalėjus pečenegus, išsi­\nkėlė į kairįjį Dnepro krantą pas poloviečius; taigi ten\njie gyveno aštuonis šimtmečius, ir būtent tai nulėmė lie­\ntuvių genčių suteiktų vietovardžių ir upių pavadinimų\npastovumą. Dar reikia atkreipti dėmesį į tai, kad, pasak\nmūsų istorijos supratimo, hiriai atėjo į Rytus iš lietu­\nvių krašto, esančio Nemuno žemupio dešiniojoje pakran­\ntėje, kur jie gyveno prie Jūros upės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191869
+    - t-004
+
 - id: c-179237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -324,7 +294,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197540
+    - t-005
+
 - id: c-179238
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -347,4 +318,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197541
+    - t-006

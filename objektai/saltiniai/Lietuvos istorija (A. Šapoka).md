@@ -36,7 +36,6 @@ Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­ menėje yra surišta 
 
 <a id="claim-t-31819"></a>
 - t-001
-  global_id: t-31819
   teiginys: "„Lietuvos istoriją“ (1936) rašė penki autoriai, o redaktoriaus indėlis buvo didžiausias."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,16 +64,11 @@ Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­ menėje yra surišta 
     penki autoriai. Paties redaktoriaus įnašas buvo stambiausias, juo
     labiau, kad jis kitų keturių bendradarbių rašytas dalis turėjo papil­
     dyti ir suvienodinti^91.
-  citata_rodoma: |
-    Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­
-    menėje yra surišta populiari «Lietuvos istorija» (1936), kurią rašė
-    penki autoriai. Paties redaktoriaus įnašas buvo stambiausias, juo
-    labiau, kad jis kitų keturių bendradarbių rašytas dalis turėjo papil­
-    dyti ir suvienodinti^91.
+  citata_rodoma: "Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­\nmenėje yra surišta populiari «Lietuvos istorija» (1936), kurią rašė\npenki autoriai. Paties redaktoriaus įnašas buvo stambiausias, juo\nlabiau, kad jis kitų keturių bendradarbių rašytas dalis turėjo papil­\ndyti ir suvienodinti^91."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31819
+    - t-001

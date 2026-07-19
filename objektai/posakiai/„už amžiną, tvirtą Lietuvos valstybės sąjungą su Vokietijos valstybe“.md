@@ -39,9 +39,8 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-45874"></a>
-- t-001
-  global_id: t-45874
+<a id="claim-t-45872"></a>
+- t-002
   teiginys: "1917 m. pabaigoje Vokietija spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ media_all_json: |-
     - c-23682
 
 <a id="claim-t-45873"></a>
-- t-002
-  global_id: t-45873
+- t-003
   teiginys: "Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,21 +95,15 @@ media_all_json: |-
     Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,
     kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip
     priimtą.
-  citata_rodoma: |
-    1918 metų Vasario 16 Aktas
-    1917 m. pabaigoje Vokietija, ruošdamasi separatinėms tai-
-    kos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti
-    Lietuvos valstybę ir jos prisijungimą prie Vokietijos. Oberostas, rezidavęs
-    Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,
-    kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip
-    priimtą.
+  citata_rodoma: "1918 metų Vasario 16 Aktas\n1917 m. pabaigoje Vokietija, ruošdamasi separatinėms tai-\nkos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti\nLietuvos valstybę ir jos prisijungimą prie Vokietijos. Oberostas, rezidavęs\nKaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,\nkiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip\npriimtą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45874
+    - t-002
+
 - id: c-48534
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -137,4 +129,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45873
+    - t-003

@@ -36,7 +36,6 @@ Carlas Ritteris veikale „Die Vorhalle europäischer Völkergeschichten“ mini
 
 <a id="claim-t-191810"></a>
 - t-001
-  global_id: t-191810
   teiginys: "Carlas Ritteris veikale „Die Vorhalle europäischer Völkergeschichten“ minimas kaip šaltinis svarstant kolchų ryšius su egiptiečiais prie Azovo jūros."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Carlas Ritteris veikale „Die Vorhalle europäischer Völkergeschichten“ mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191810
+    - t-001

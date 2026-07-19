@@ -31,7 +31,6 @@ Stiprėjo Lietuvos žaliųjų judėjimas.
 
 <a id="claim-t-19920"></a>
 - t-001
-  global_id: t-19920
   teiginys: "Stiprėjo Lietuvos žaliųjų judėjimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,12 +56,11 @@ Stiprėjo Lietuvos žaliųjų judėjimas.
     judėjimas.
     LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsi-
     lankymas Lietuvoje rugpjūčio 11–12 dienomis.
-  citata_rodoma: |
-    Juozaitis, Vytautas Radžvilas ir kiti sąjūdininkai. Stiprėjo Lietuvos žaliųjų
+  citata_rodoma: "Juozaitis, Vytautas Radžvilas ir kiti sąjūdininkai. Stiprėjo Lietuvos žaliųjų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19920
+    - t-001

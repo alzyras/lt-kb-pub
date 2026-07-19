@@ -34,22 +34,6 @@ media_all_json: |-
 
 Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelkių, lengvino kariaujančių su vo kiečiais lietuvių ryšius su Pamariu ir Prūsija.
 
-## Teiginiai
-
-<a id="claim-t-194926"></a>
-- t-001
-  global_id: t-194926
-  teiginys: "Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelkių, lengvino kariaujančių su vo kiečiais lietuvių ryšius su Pamariu ir Prūsija."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-177322
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelkių, lengvino kariaujančių su vo kiečiais lietuvių ryšius su Pamariu ir Prūsija.'
@@ -70,8 +54,7 @@ Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194926
+
 ## Citatos
 
 - id: c-177322
@@ -88,21 +71,26 @@ Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelk
     įvyko kruvinas mūšis, kuriame Vasilka iškovojo puikią
     pergalę, nukovęs mūšyje keturiasdešimt jotvingių kuni-
     gaikštukų.
-  citata_rodoma: |
-    126
-
-    ## Puslapis 124
-
-    čius; jie kovodavo ir su vėliavomis Pamario kunigaikščio
-    Sventopelko, kai šis kovėsi su prūsais prieš kryžiuočius.
-    Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos
-    net ligi Drevantos pelkių, lengvino kariaujančių su vo­
-    kiečiais lietuvių ryšius su Pamariu ir Prūsija. Tai vyko
-    su tam tikromis pertraukomis 1242—1253 metais1.
+  citata_rodoma: "126\n\n## Puslapis 124\n\nčius; jie kovodavo ir su vėliavomis Pamario kunigaikščio\nSventopelko, kai šis kovėsi su prūsais prieš kryžiuočius.\nTai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos\nnet ligi Drevantos pelkių, lengvino kariaujančių su vo­\nkiečiais lietuvių ryšius su Pamariu ir Prūsija. Tai vyko\nsu tam tikromis pertraukomis 1242—1253 metais1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194926
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-194926"></a>
+- t-001
+  teiginys: "Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelkių, lengvino kariaujančių su vo kiečiais lietuvių ryšius su Pamariu ir Prūsija."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-177322

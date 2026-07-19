@@ -49,9 +49,8 @@ Nenurodyta
 
 <a id="claim-t-62359"></a>
 - t-001
-  global_id: t-62359
   teiginys: "Prie Santyro brolis Konradas Bremeris užpuolė Sventopelko laivus ir dalį jų paskandino arba smarkiai apgadino."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "puole -> Sventopelkas: 0.84"
@@ -65,11 +64,9 @@ Nenurodyta
   semantiniai_rysiai: "Konradas Bremeris puolė Sventopelkas (0.84)"
   pagrindžia:
     - c-62937
-    - c-62939
-    - c-002
+
 <a id="claim-t-196954"></a>
 - t-002
-  global_id: t-196954
   teiginys: "Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių ir 10 laivų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62359
+
 ## Citatos
 
 - id: c-62937
@@ -115,25 +111,16 @@ Nenurodyta
     288  Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
     5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
     pilis — Elbingą ir Baigą.
-  citata_rodoma: |
-    Apie laivų kautynes
-
-       Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių
-    brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus
-    laivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe
-    žmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip
-    kilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo
-    laivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai
-    sužalojo. Priešai, matydami juos artėjant prie kranto, pradėjo svaidyti akmenimis. Broliui
-    Konradui išmušė vieną dantį, sužeidė daug kitų, o likusieji sveiki nuplaukė į Elbingą288.
+  citata_rodoma: "Apie laivų kautynes\n\n   Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių\nbrolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus\nlaivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe\nžmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip\nkilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo\nlaivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai\nsužalojo. Priešai, matydami juos artėjant prie kranto, pradėjo svaidyti akmenimis. Broliui\nKonradui išmušė vieną dantį, sužeidė daug kitų, o likusieji sveiki nuplaukė į Elbingą288."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62359
-    - t-196954
+    - t-001
+    - t-002
+
 - id: c-62939
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -148,16 +135,9 @@ Nenurodyta
     susidūrę su 20 priešo vyrų, jie nukovė vieną karį, o kiti 19, išvydę brolių vėliavą, pabėgo;
     bėgliams parsiradus Sventopelko kariuomenėje, išsibėgiojo visi, išsigelbėjo kurie ne
     kurie, pasiekdami pilį, visi kiti arba paskendo, arba paklojo galvas nuo kalavijo ašmenų.
-  citata_rodoma: |
-    288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
-    5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
-    pilis — Elbingą ir Baigą. Visą operaciją jis priskiria išimtinai Ordino broliams. Liubeko
-    pirklių ignoravimą galima paaiškinti tuo, kad kronikos rašymo laikotarpiu vyko kova tarp
-    Ordino ir Rygos (PKD, p. 45—46).
+  citata_rodoma: "288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,\n5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino\npilis — Elbingą ir Baigą. Visą operaciją jis priskiria išimtinai Ordino broliams. Liubeko\npirklių ignoravimą galima paaiškinti tuo, kad kronikos rašymo laikotarpiu vyko kova tarp\nOrdino ir Rygos (PKD, p. 45—46)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-62359

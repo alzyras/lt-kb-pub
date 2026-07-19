@@ -31,7 +31,6 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 
 <a id="claim-t-40442"></a>
 - t-001
-  global_id: t-40442
   teiginys: "LDK kariuomenė sutiko laikinai paklusti Stanislovui Liubomirskiui tik karalaičiui Vladislovui ją įkalbėjus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,30 +74,11 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     kardus
 
     Venecijos Schiavona (tariasi skjavona).
-  citata_rodoma: |
-    Vėliau,
-    kai kariai sužinojo apie savo vado mirtį,
-    lietuvių kariuomenė nenorėjo paklusti
-    karalystės didžiajam etmonui Stanislovui
-    Liubomirskiui, tik karalaičiui Vladislovui
-    įkalbėjus LDK kariuomenė sutiko jam laiki-
-    nai paklusti.
-
-    Mūšio padariniai
-    Mūšyje prie Chotino lietuvių ir lenkų ka-
-    riuomenės, kompensuodamos artilerijos
-
-    Kautynėse sulaužę
-    savo ietis, husarai
-    išsitraukdavo pala-
-    šus, konceržus arba
-    kardus
-
-    Venecijos Schiavona (tariasi skjavona).
+  citata_rodoma: "Vėliau,\nkai kariai sužinojo apie savo vado mirtį,\nlietuvių kariuomenė nenorėjo paklusti\nkaralystės didžiajam etmonui Stanislovui\nLiubomirskiui, tik karalaičiui Vladislovui\nįkalbėjus LDK kariuomenė sutiko jam laiki-\nnai paklusti.\n\nMūšio padariniai\nMūšyje prie Chotino lietuvių ir lenkų ka-\nriuomenės, kompensuodamos artilerijos\n\nKautynėse sulaužę\nsavo ietis, husarai\nišsitraukdavo pala-\nšus, konceržus arba\nkardus\n\nVenecijos Schiavona (tariasi skjavona)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40442
+    - t-001

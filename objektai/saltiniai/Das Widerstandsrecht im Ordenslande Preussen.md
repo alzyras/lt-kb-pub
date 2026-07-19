@@ -38,7 +38,6 @@ Weise : Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Eu
 
 <a id="claim-t-100159"></a>
 - t-001
-  global_id: t-100159
   teiginys: "E. Weise 1955 m. paskelbė veikalą „Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Europa“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,15 +59,11 @@ Weise : Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Eu
     im 1937,_** **Köln-Graz 1967.**
     (^167) **E. Weise :** **_Das Widerstandsrecht im Ordenslande Preussen und das
     mittelalterliche Europa_** **(1955); jis išleido StVW.
-  citata_rodoma: |
-    ,_** **Leiden 1955 ;** **_Die deutsche Ostgrenze
-    im 1937,_** **Köln-Graz 1967.**
-    (^167) **E. Weise :** **_Das Widerstandsrecht im Ordenslande Preussen und das
-    mittelalterliche Europa_** **(1955); jis išleido StVW.
+  citata_rodoma: ",_** **Leiden 1955 ;** **_Die deutsche Ostgrenze\nim 1937,_** **Köln-Graz 1967.**\n(^167) **E. Weise :** **_Das Widerstandsrecht im Ordenslande Preussen und das\nmittelalterliche Europa_** **(1955); jis išleido StVW."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100159
+    - t-001

@@ -38,7 +38,6 @@ Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d
 
 <a id="claim-t-88090"></a>
 - t-001
-  global_id: t-88090
   teiginys: "Godzislavo Baško parašyta „Kronika Lechitów i Polaków“ mini, kad Vitas buvo pirmasis Lietuvos vyskupas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88090
+    - t-001

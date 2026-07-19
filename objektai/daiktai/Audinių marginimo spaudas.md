@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202328"></a>
 - t-001
-  global_id: t-202328
   teiginys: "Rokiškio krašto muziejuje saugomu spaudu būdavo marginami audiniai ir galbūt pasiūtų drabužių elementai."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -54,6 +53,9 @@ Nenurodyta
   pagrindžia:
     - c-185675
 
+## Reikšmingi paminėjimai
+Nenurodyta
+
 ## Citatos
 
 - id: c-185675
@@ -63,8 +65,5 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202328
+    - t-001

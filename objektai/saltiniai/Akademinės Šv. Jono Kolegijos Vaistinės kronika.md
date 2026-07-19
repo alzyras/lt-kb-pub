@@ -37,8 +37,7 @@ Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje,
 ## Teiginiai
 
 <a id="claim-t-88233"></a>
-- t-001
-  global_id: t-88233
+- t-002
   teiginys: "Akademinė Šv. Jono kolegijos vaistinė gyvavimo pradžioje buvo įsteigta ir išlaikoma kolegijos lėšomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje,
     - c-84212
 
 <a id="claim-t-88234"></a>
-- t-002
-  global_id: t-88234
+- t-001
   teiginys: "1546 m. būsimos Akademinės Šv. Jono kolegijos vaistinės vietoje stovėjo medinis namas su dideliu sklypu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,8 @@ Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88233
+    - t-002
+
 - id: c-84213
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -119,4 +118,4 @@ Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88234
+    - t-001

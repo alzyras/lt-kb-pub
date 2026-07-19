@@ -33,7 +33,6 @@ Nemuno ir Neries santakos apylinkės nusėtos piliakalnių: be Eigulių, tai Ver
 
 <a id="claim-t-201720"></a>
 - t-001
-  global_id: t-201720
   teiginys: "Nemuno ir Neries santakos apylinkės nusėtos piliakalnių: be Eigulių, tai Veršvų, Aukštųjų Šančių, Pajiesio, Lentainių, Marvos, Pyplių."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Nemuno ir Neries santakos apylinkės nusėtos piliakalnių: be Eigulių, tai Ver
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201720
+    - t-001

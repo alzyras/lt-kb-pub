@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-88296"></a>
 - t-001
-  global_id: t-88296
   teiginys: "1493 m. Aleksandro Jogailaičio dovanojimo aktas Maksimui Vasiljevičiui buvo surašytas slavų kalba ir puikiai išsilaikęs."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ media_all_json: |-
 
 <a id="claim-t-88297"></a>
 - t-002
-  global_id: t-88297
   teiginys: "1493 m. sausio 13 d. Aleksandras Jogailaitis Vilniuje dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą Užupyje už Vilnelės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +111,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88297
+    - t-002
+
 - id: c-84276
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -139,4 +138,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88296
+    - t-001

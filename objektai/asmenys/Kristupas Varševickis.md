@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-87760"></a>
 - t-001
-  global_id: t-87760
   teiginys: "Kristupas Varševickis, jėzuitų rektorius, 1572 m. žiemą dalyvavo kapitulos susirinkime vyskupo rūmuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,19 +74,11 @@ media_all_json: |-
     muose 1572 metų žiemą, dalyvau­
     jant kun. Varševickiui, jėzuitų
     rektoriui.
-  citata_rodoma: |
-    ; jis pataisė Janockio ir kitų Roizi-
-    jaus biografų klaidas.
-    51
-    Šis pareiškimas buvo išsakytas ka­
-    pitulos susirinkime vyskupo rū­
-    muose 1572 metų žiemą, dalyvau­
-    jant kun. Varševickiui, jėzuitų
-    rektoriui.
+  citata_rodoma: "; jis pataisė Janockio ir kitų Roizi- \njaus biografų klaidas.\n51\nŠis pareiškimas buvo išsakytas ka­\npitulos susirinkime vyskupo rū­\nmuose 1572 metų žiemą, dalyvau­\njant kun. Varševickiui, jėzuitų \nrektoriui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87760
+    - t-001

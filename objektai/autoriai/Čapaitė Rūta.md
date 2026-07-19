@@ -36,7 +36,6 @@ Rūta Čapaitė 2003 m. paskelbė straipsnį apie Lietuvos didžiojo kunigaikš�
 
 <a id="claim-t-200747"></a>
 - t-001
-  global_id: t-200747
   teiginys: "Rūta Čapaitė 2003 m. paskelbė straipsnį apie Lietuvos didžiojo kunigaikščio Vytauto kasdienybę pagal to meto korespondenciją."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -65,8 +64,5 @@ Rūta Čapaitė 2003 m. paskelbė straipsnį apie Lietuvos didžiojo kunigaikš�
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200747
+    - t-001

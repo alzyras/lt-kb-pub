@@ -32,7 +32,6 @@ Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo
 
 <a id="claim-t-186200"></a>
 - t-001
-  global_id: t-186200
   teiginys: "Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -85,6 +84,7 @@ Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186200
+    - t-001
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Fridrichas]]

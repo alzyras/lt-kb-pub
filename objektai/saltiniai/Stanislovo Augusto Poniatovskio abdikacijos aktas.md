@@ -38,7 +38,6 @@ Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sos
 
 <a id="claim-t-21267"></a>
 - t-001
-  global_id: t-21267
   teiginys: "Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,12 +70,11 @@ Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sos
     valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
     pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
     mo) aktas.
-  citata_rodoma: |
-    valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
+  citata_rodoma: "valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21267
+    - t-001

@@ -39,8 +39,7 @@ Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir
 ## Teiginiai
 
 <a id="claim-t-70088"></a>
-- t-001
-  global_id: t-70088
+- t-003
   teiginys: "Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir naudinga jo rytų politikai."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir
     - c-14680
 
 <a id="claim-t-70090"></a>
-- t-002
-  global_id: t-70090
+- t-004
   teiginys: "Kauno taika, kaip apsigynimo ir puolimo sutartis, Vytautui buvo naudinga politikai rytuose."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -87,17 +85,12 @@ Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir
     stojo savo galios^3 ). Gal lenkai taip ir manė, bet Vytautui Kau­
     no taika, būdama apsigynimo ir puolimo sutartis, nenustojo sa­
     vo vertės ir jam buvo labai naudinga politikai rytuose.
-  citata_rodoma: |
-    Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­
-    kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­
-    stojo savo galios^3 ). Gal lenkai taip ir manė, bet Vytautui Kau­
-    no taika, būdama apsigynimo ir puolimo sutartis, nenustojo sa­
-    vo vertės ir jam buvo labai naudinga politikai rytuose.
+  citata_rodoma: "Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­\nkos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­\nstojo savo galios^3 ). Gal lenkai taip ir manė, bet Vytautui Kau­\nno taika, būdama apsigynimo ir puolimo sutartis, nenustojo sa­\nvo vertės ir jam buvo labai naudinga politikai rytuose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70088
-    - t-70090
+    - t-003
+    - t-004

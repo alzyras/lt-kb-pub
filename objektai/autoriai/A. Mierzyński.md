@@ -41,9 +41,8 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
 
 <a id="claim-t-71486"></a>
 - t-001
-  global_id: t-71486
   teiginys: "A. Mierzyńskis parengė „Źródła do mytologii litewskiej“ I–II tomus, išleistus Varšuvoje 1892 ir 1896 m."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -58,7 +57,6 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
   temporalinis_llm_pakomentavimas: "Pašalinti nutrūkę bibliografiniai likučiai ir paliktas citata paremtas faktas."
   pagrindžia:
     - c-70061
-    - c-70062
 
 ## Citatos
 
@@ -77,20 +75,15 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
     (”) _Plokštinių kapinynų tyrinėjimai Lietuvoje 1948-1958 m.,_ ILKI, t. 3,
     1961, 66-100 p. — Pisani, V.: _II paganesimo balto-slavo,_ Storia delle
     religioni, red. G. Castellani, vol.
-  citata_rodoma: |
-    Mierzyński, A. : _Źródła do mytologii litewskiej,_ I-II, Warsza­
-    wa 1892, 1896 (nuo Tacito iki 15-jo amž. šaltinių tekstai su kritiškais
-    komentarais). — (”) _O uadravskom žrece ognia Criwe,_ Trudy IX ar-
-    cheologičeskogo sjazda, I, 1895. — (”) _Romove,_ ten pat, X sjazda,
-    1899. — (”) _Der Eid des Keistutis im Jahre 1351,_ Sitzungsber. d.
-    Altertumsgesell. Prussia, t. 16, 1893, 104-112 p.
+  citata_rodoma: "Mierzyński, A. : _Źródła do mytologii litewskiej,_ I-II, Warsza­\nwa 1892, 1896 (nuo Tacito iki 15-jo amž. šaltinių tekstai su kritiškais\nkomentarais). — (”) _O uadravskom žrece ognia Criwe,_ Trudy IX ar-\ncheologičeskogo sjazda, I, 1895. — (”) _Romove,_ ten pat, X sjazda,\n1899. — (”) _Der Eid des Keistutis im Jahre 1351,_ Sitzungsber. d.\nAltertumsgesell. Prussia, t. 16, 1893, 104-112 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71486
+    - t-001
+
 - id: c-70062
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -100,12 +93,9 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
     (^8) **Laiško tekstą žr. H. Paszkiewicz :** **_Polityka Ruska Kazimierza Wiel­
     kiego,_** **Warszawa 1925, 197 p. 5 išn.**
     (^9) **SRP, II, 742.
-  citata_rodoma: |
-    (^7) **A. Mierzyński :** **_Źródła do mytol. lit._** **, II, 78 p.; KH, 1889, 208-209 p.**
+  citata_rodoma: "(^7) **A. Mierzyński :** **_Źródła do mytol. lit._** **, II, 78 p.; KH, 1889, 208-209 p.**"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-71486

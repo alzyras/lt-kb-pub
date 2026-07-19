@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189950"></a>
 - t-001
-  global_id: t-189950
   teiginys: "Narbutas Kiraitį apibūdina kaip dievaitį, saugojusį prie ežero buvusios pilies vyšnių medelius, kuriam aukota sviedžiant papjautus gaidžius į medį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189950
+    - t-001

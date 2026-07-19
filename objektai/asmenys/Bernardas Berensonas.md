@@ -35,8 +35,7 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
 ## Teiginiai
 
 <a id="claim-t-101637"></a>
-- t-001
-  global_id: t-101637
+- t-002
   teiginys: "Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių apylinkių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
     - c-95117
 
 <a id="claim-t-101638"></a>
-- t-002
-  global_id: t-101638
+- t-001
   teiginys: "Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -95,20 +93,12 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
     damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
     siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
     premija).
-  citata_rodoma: |
-    lau-
-    reatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių,
-    nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Be-
-    rensonas (Bernhard Valvrojenski, g. 1865 m.), Gertrude Ellion (Geltrūda
-    Elion, 1918–1999; 1988 m. premija; tėvas emigravo iš Lietuvos į JAV bū-
-    damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
-    siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
-    premija).
+  citata_rodoma: "lau-\nreatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, \nnuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Be-\nrensonas (Bernhard Valvrojenski, g. 1865 m.), Gertrude Ellion (Geltrūda \nElion, 1918–1999; 1988 m. premija; tėvas emigravo iš Lietuvos į JAV bū-\ndamas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-\nsiuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m. \npremija)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101637
-    - t-101638
+    - t-002
+    - t-001

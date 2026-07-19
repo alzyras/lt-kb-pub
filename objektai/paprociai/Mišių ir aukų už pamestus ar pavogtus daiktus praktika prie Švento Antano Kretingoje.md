@@ -62,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-195389"></a>
 - t-001
-  global_id: t-195389
   teiginys: "Elgeta rinko pinigus mišioms dėl pamestų ar pavogtų turtų atradimo ir Šventą Antaną vadino pamestų daiktų patronu."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -91,20 +90,11 @@ Nenurodyta
     siu pinigus surinktus ant mišių dėl atradimo pamestų ir pavogtų tur­
     tų, idant šis patronas šventas suklupdytų visus vagius ir pasalūnus.
     Skaitytinės mišios — dvi grivini, giedotinės — du auksisnu.
-  citata_rodoma: |
-    Vaikščiodavo dar ir kitokių. Kitas, įėjęs į grįčią, pasako pagarbi­
-    nimą ir paskui: „Palaiminimas tiems namams nuo saulės tekėjimo iki
-    nusileidimo, šeimininkams, jų vaikeliams ir visiems, kurie šioje grįčio-
-    je užsilaiko. Parnešu palaiminimą iš šventų vietų: Čestakavo ir Vil­
-    niaus Aušros bromos Dievo Motinos. Einu į Žemaičių Kalvariją, už­
-    eisiu į Kretingą pas Šventą Antaną, patroną pamestų daiktų, paduo­
-    siu pinigus surinktus ant mišių dėl atradimo pamestų ir pavogtų tur­
-    tų, idant šis patronas šventas suklupdytų visus vagius ir pasalūnus.
-    Skaitytinės mišios — dvi grivini, giedotinės — du auksisnu.
+  citata_rodoma: "Vaikščiodavo dar ir kitokių. Kitas, įėjęs į grįčią, pasako pagarbi-\nnimą ir paskui: „Palaiminimas tiems namams nuo saulės tekėjimo iki\nnusileidimo, šeimininkams, jų vaikeliams ir visiems, kurie šioje grįčio-\nje užsilaiko. Parnešu palaiminimą iš šventų vietų: Čestakavo ir Vil-\nniaus Aušros bromos Dievo Motinos. Einu į Žemaičių Kalvariją, už-\neisiu į Kretingą pas Šventą Antaną, patroną pamestų daiktų, paduo-\nsiu pinigus surinktus ant mišių dėl atradimo pamestų ir pavogtų tur-\ntų, idant šis patronas šventas suklupdytų visus vagius ir pasalūnus.\nSkaitytinės mišios — dvi grivini, giedotinės — du auksisnu."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195389
+    - t-001

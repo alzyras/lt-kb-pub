@@ -31,7 +31,6 @@ Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų varg�
 
 <a id="claim-t-189244"></a>
 - t-001
-  global_id: t-189244
   teiginys: "Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų vargšų gynėją ir barstukais vadinamų nykštukų vyriausiąjį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų varg�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172132
-    - c-001
 - susijęs iš [[objektai/paprociai/Pušaičio šaukimasis, aukos po alyvų krūmais ir markopolių prašymas dėl kaimiečių.md#claim-t-189936|Pušaičio šaukimasis, aukos po alyvų krūmais ir markopolių prašymas dėl kaimiečių]]: Narbutas markopolius vaizdavo kaip požemio dievaičius, kuriuos ypač garbino didikai ir bajorai, o Pušaitis jų prašydavo už kaimiečius.
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189995|Frydrichas Stenderis]]: Narbutas prie Pušaičio, požemio dievaičio ir barstukų vyriausiojo, aprašymo nurodo Stenderio „Lettische Grammatik“.
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188591|Motiejus Strijkovskis]]: Narbutas nurodo, kad Strijkovskis alyvą Sambėje laikė pirmu tarp šventųjų medžių.
@@ -77,8 +75,7 @@ Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų varg�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189244
+
 ## Citatos
 
 - id: c-172132
@@ -93,20 +90,11 @@ Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų varg�
     je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
     R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
     garbinamas Pušaitis ir barstukai18“.
-  citata_rodoma: |
-    Pušaitis (Puschajtis)
-    Požemio dievaitis, engiamų vargšų gynėjas, nykštukų,
-    vadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16
-    16 Stender, Lettische Grammatik.
-    179
-
-    ## Puslapis 179
-
-    po alyvų krūmais.
+  citata_rodoma: "Pušaitis (Puschajtis)\nPožemio dievaitis, engiamų vargšų gynėjas, nykštukų,\nvadinamų barstukais, vyriausiasis. Jis gyvendavo žemėje, 16\n16 Stender, Lettische Grammatik.\n179\n\n## Puslapis 179\n\npo alyvų krūmais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189244
+    - t-001

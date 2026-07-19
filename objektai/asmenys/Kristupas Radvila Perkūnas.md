@@ -4,20 +4,21 @@ pavadinimas: 'Kristupas Radvila Perkūnas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1558 m.'
-  - '1583 m.'
+  - '1585 m.'
 date_start: '1558'
-date_end: '1583'
+date_end: '1585'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +41,7 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 ## Teiginiai
 
 <a id="claim-t-79094"></a>
-- t-001
-  global_id: t-79094
+- t-010
   teiginys: "Kristupas Radvila Perkūnas po Mikalojaus Radvilos Rudojo buvo vienas iš biržiečių Radvilų, vadovavusių Lietuvos protestantams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,8 +50,7 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     - c-76187
 
 <a id="claim-t-79095"></a>
-- t-002
-  global_id: t-79095
+- t-006
   teiginys: "Šešiolikmetis Kristupas Radvila Perkūnas buvo tarp karių greta didžiojo etmono Mikalojaus Radvilos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,8 +66,7 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     - c-76190
 
 <a id="claim-t-79097"></a>
-- t-003
-  global_id: t-79097
+- t-007
   teiginys: "Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė Jono Sicinskio dalinį prieš K. Carlsono Gyllenhielmo karius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,8 +82,7 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     - c-42093
 
 <a id="claim-t-79098"></a>
-- t-004
-  global_id: t-79098
+- t-008
   teiginys: "Lauko hetmonas Kristupas Radvila Perkūnas padėjo vyriausiuoju vadu paskirtam Vilniaus vaivadai Mikalojui Radvilai Rudajam."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,8 +98,7 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     - c-76189
 
 <a id="claim-t-79100"></a>
-- t-005
-  global_id: t-79100
+- t-001
   teiginys: "Kristupas Radvila Perkūnas pasiekė Volgos aukštupį ir prie Šelonės upės, ties Mstislavliu, Mogiliavu, Šklovu jis sumušė rusų kariuomene."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,6 +112,19 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42094
+
+<a id="claim-t-201536"></a>
+- t-011
+  teiginys: "Tiesa, Kauno liuteronai kviečiami neatsisakydavo dalyvauti liuteronų ir kalvinų susiėjimuose, kaip antai 1585 m. Kristupo Radvilos Perkūno Vilniuje sukviestame abiejų protestantų tikėjimų teologų pasitarime, kuriuo buvo siekiama suartinti kalvinus ir."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-06-13T15:43:24Z"
+  pagrindžia:
+    - c-184883
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78614|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49166|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: Prieš Kuoknesės mūšį Kristupas Radvila Perkūnas birželio 2-3 d. pasiuntė Joną Sicinskį smogti K. Carlsono Gyllenhielmo kariams.
 - susijęs iš [[objektai/asmenys/Jonas Sicinskis.md#claim-t-40228|Jonas Sicinskis]]: Birželio 2–3 d. Kristupas Radvila Perkūnas pasiuntė rotmistrą Joną Sicinskį su daliniu smogti K. Carlsono Gyllenhielmo kariams.
@@ -135,19 +144,15 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     Gyllenhielmo kariams. Pagaliau birželio
     23 d. prie Kuoknesės pagrindinė Lietuvos
     kariuomenė stojo prieš švedų pajėgas.
-  citata_rodoma: |
-    Birželio 2-3 d. LDK di-
-    dysis etmonas Kristupas Radvila Perkūnas
-    pasiuntė rotmistrą Joną Sicinskį su dali-
-    niu, kuris sudavė antrą smūgį K. Carlsono
-    Gyllenhielmo kariams.
+  citata_rodoma: "Birželio 2-3 d. LDK di-\ndysis etmonas Kristupas Radvila Perkūnas\npasiuntė rotmistrą Joną Sicinskį su dali-\nniu, kuris sudavė antrą smūgį K. Carlsono\nGyllenhielmo kariams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79097
+    - t-007
+
 - id: c-42094
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -163,23 +168,15 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     tupį ir prie Šelonės upės, ties Mstislavliu,
     Mogiliavu, Šklovu jis sumušė rusų kariuo-
     mene.
-  citata_rodoma: |
-    Jo ka-
-    rinis talentas išryškėjo Livonijos kare
-
-    su Rusija (1558-1583 m.), ypač užimant
-    Polocko tvirtovę. 1581 m. su nedidele lietu-
-    vių kariuomene jis pasiekė Volgos aukš-
-    tupį ir prie Šelonės upės, ties Mstislavliu,
-    Mogiliavu, Šklovu jis sumušė rusų kariuo-
-    mene.
+  citata_rodoma: "Jo ka-\nrinis talentas išryškėjo Livonijos kare\n\nsu Rusija (1558-1583 m.), ypač užimant\nPolocko tvirtovę. 1581 m. su nedidele lietu-\nvių kariuomene jis pasiekė Volgos aukš-\ntupį ir prie Šelonės upės, ties Mstislavliu,\nMogiliavu, Šklovu jis sumušė rusų kariuo-\nmene."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79100
+    - t-001
+
 - id: c-76187
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -199,23 +196,15 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     šio sūnus Jonušas, — tas pats,
     kurs 1655 m. padarė sutartį su
     Švedais.
-  citata_rodoma: |
-    Mikalojus Rudasis, paskui — jo
-      sūnus Kristupas Perkūnas (†
-      1603 m.), po jo — jo sūnus
-      Jonušas (rokošininkas — † 1620
-      m.), vėliau—kitas sūnus Kristu-
-      pas († 1640 m.) ir pagaliau —
-      šio sūnus Jonušas, — tas pats,
-      kurs 1655 m. padarė sutartį su
-      Švedais.
+  citata_rodoma: "Mikalojus Rudasis, paskui — jo\n  sūnus Kristupas Perkūnas (†\n  1603 m.), po jo — jo sūnus\n  Jonušas (rokošininkas — † 1620\n  m.), vėliau—kitas sūnus Kristu-\n  pas († 1640 m.) ir pagaliau —\n  šio sūnus Jonušas, — tas pats,\n  kurs 1655 m. padarė sutartį su\n  Švedais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79094
+    - t-010
+
 - id: c-76189
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -230,27 +219,21 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     buvo paskirtas Vilniaus vaivada Mikalojus Radvila Rudasis,
     kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas
     Perkūnu.
-  citata_rodoma: |
-    o Lietuvos kariuomenės vadas Jonas J.
-      Katkevičius teturėjo vos apie 4.600 karių (jų tarpe lenkų te-
-      buvo vos 300), todėl negalėjo spirtis. Neprisišaukdamas pa-
-      galbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju vadu
-      buvo paskirtas Vilniaus vaivada Mikalojus Radvila Rudasis,
-      kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas
-      Perkūnu.
+  citata_rodoma: "o Lietuvos kariuomenės vadas Jonas J.\n  Katkevičius teturėjo vos apie 4.600 karių (jų tarpe lenkų te-\n  buvo vos 300), todėl negalėjo spirtis. Neprisišaukdamas pa-\n  galbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju vadu\n  buvo paskirtas Vilniaus vaivada Mikalojus Radvila Rudasis,\n  kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas\n  Perkūnu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79098
+    - t-008
+
 - id: c-76190
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Tačiau tai
+    “14, 4iki 6 tūkstančių raitelių. Tačiau tai
 
     buvo geriausi kariai, kuriuos tuo metu
     buvo galima surinkti. Greta didžiojo
@@ -263,24 +246,32 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     Romanas Sanguška, būsima-
     sis Livonijos etmonas Jonas
     Chodkevičius ir daugelis kitų.
-  citata_rodoma: |
-    Tačiau tai
-
-    buvo geriausi kariai, kuriuos tuo metu
-    buvo galima surinkti. Greta didžiojo
-    etmono M. Radvilos buvo jo šešio-
-    likmetis sūnus Kristupas Radvila,
-    vėliau tapęs didžiuoju etmonu ir
-    vadintas Perkūnu, lauko etmo-
-    nas Grigalius Chodkevičius,
-    būsimasis lauko etmonas
-    Romanas Sanguška, būsima-
-    sis Livonijos etmonas Jonas
-    Chodkevičius ir daugelis kitų.
+  citata_rodoma: "Tačiau tai\n\nbuvo geriausi kariai, kuriuos tuo metu\nbuvo galima surinkti. Greta didžiojo\netmono M. Radvilos buvo jo šešio-\nlikmetis sūnus Kristupas Radvila,\nvėliau tapęs didžiuoju etmonu ir\nvadintas Perkūnu, lauko etmo-\nnas Grigalius Chodkevičius,\nbūsimasis lauko etmonas\nRomanas Sanguška, būsima-\nsis Livonijos etmonas Jonas\nChodkevičius ir daugelis kitų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79095
+    - t-006
+
+- id: c-184883
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Apskritai
+    didžiųjų Lietuvos miestų Vilniaus ir Kauno liuteronų bendruomenės, būdamos in-
+    tegrali savųjų miestų gyvenimo dalis, Lietuvos visuomenėje buvo tarsi atskiros sa-
+    los, liuteronai nesukūrė Lietuvos liuteronų bažnytinės organizacijos, kaip tai padarė
+    evangelikai reformatai, dar vadinami kalvinais. Tiesa, Kauno liuteronai kviečiami ne-
+    atsisakydavo dalyvauti liuteronų ir kalvinų susiėjimuose, kaip antai 1585 m. Kristupo
+    Radvilos Perkūno Vilniuje sukviestame abiejų protestantų tikėjimų teologų pasitari-
+    me, kuriuo buvo siekiama suartinti kalvinus ir liuteronus.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011

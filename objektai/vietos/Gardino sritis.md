@@ -31,7 +31,6 @@ Apie VIII-IX amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų G
 
 <a id="claim-t-28331"></a>
 - t-001
-  global_id: t-28331
   teiginys: "Apie VIII-IX a. slavai jau buvo prie Polocko ir Minsko, o iš pietų pasiekė Gardino sritį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Apie VIII-IX amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų G
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28331
+    - t-001

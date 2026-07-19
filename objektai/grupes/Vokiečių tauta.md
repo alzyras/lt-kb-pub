@@ -31,9 +31,8 @@ Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai ra�
 
 <a id="claim-t-189539"></a>
 - t-001
-  global_id: t-189539
   teiginys: "Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai rašiusį apie kryžiuočius ir vokiečių tautą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai ra�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172427
-    - c-001
+
 <a id="claim-t-197226"></a>
 - t-002
-  global_id: t-197226
   teiginys: "O kuo senesnes kalbas imama nagrinėti, tuo ryškesnė ma toma jų giminystė, tai yra kuo kuri tauta senesnė, tuo jos kal ba artimesnė senojo pasaulio kalboms ."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -83,8 +81,7 @@ Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai ra�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189539
+
 ## Citatos
 
 - id: c-172427
@@ -113,24 +110,15 @@ Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai ra�
     skolintas iš Hartknocho, kuris nerūpestingai prikaišiojo jų į
     savo Prūsijos istorijos aprašymus ' ir šiandien tikrai atšauktų,
     jeigu perskaitytų, ką mes čia tuo klausimu išdėstėme.
-  citata_rodoma: |
-    1.
-    Seniausias žinomas šito šaltinis yra Simonas Grunau,
-    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
-    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
-    šantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug
-    užsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais
-    nekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­
-    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
-    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
-    11 Sirvydo žodynas.
+  citata_rodoma: "1.\nSeniausias žinomas šito šaltinis yra Simonas Grunau,\nnaujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš\ntikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­\nšantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug\nužsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais\nnekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­\nma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų\narba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­\n11 Sirvydo žodynas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189539
+    - t-001
+
 - id: c-179074
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -155,4 +143,4 @@ Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai ra�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197226
+    - t-002

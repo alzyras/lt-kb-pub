@@ -31,7 +31,6 @@ Tik graikų matematikas-geografas Klaudios Ptolemaios (a.
 
 <a id="claim-t-30757"></a>
 - t-001
-  global_id: t-30757
   teiginys: "Klaudios Ptolemaios buvo graikų matematikas-geografas ir pirmasis pateikė du neabejotinus baltų kilčių vardus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,17 +53,14 @@ Tik graikų matematikas-geografas Klaudios Ptolemaios (a.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Tik graikų
+    Čia Tacitas galėjęs minėti prūsus. Tik graikų
     matematikas-geografas Klaudios Ptolemaios (a. 100 - a. 178 po Kr.)
     buvo pirmasis, kuris patiekė du neabejotinus baltų kilčių vardus.
-  citata_rodoma: |
-    Tik graikų
-    matematikas-geografas Klaudios Ptolemaios (a. 100 - a. 178 po Kr.)
-    buvo pirmasis, kuris patiekė du neabejotinus baltų kilčių vardus.
+  citata_rodoma: "Tik graikų\nmatematikas-geografas Klaudios Ptolemaios (a. 100 - a. 178 po Kr.)\nbuvo pirmasis, kuris patiekė du neabejotinus baltų kilčių vardus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30757
+    - t-001

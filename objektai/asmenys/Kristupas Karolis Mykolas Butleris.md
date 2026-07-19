@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-202414"></a>
 - t-001
-  global_id: t-202414
   teiginys: "1694 m. Kristupas Karolis Mykolas Butleris Vilniuje išbuvo nuo birželio 11 iki rugpjūčio 18 d. ir išsamiai aprašė beveik kasdienius susitikimus."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -67,8 +66,5 @@ media_all_json: |-
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202414
+    - t-001

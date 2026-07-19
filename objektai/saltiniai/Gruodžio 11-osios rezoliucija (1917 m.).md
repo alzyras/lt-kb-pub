@@ -36,8 +36,7 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
 ## Teiginiai
 
 <a id="claim-t-75448"></a>
-- t-001
-  global_id: t-75448
+- t-002
   teiginys: "Gruodžio 11-osios rezoliucija sukėlė neigiamas JAV ir Rusijos lietuvių reakcijas ir suskaldė Lietuvos Tarybą."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
     - c-23773
 
 <a id="claim-t-75449"></a>
-- t-002
-  global_id: t-75449
+- t-001
   teiginys: "Gruodžio 11-osios rezoliucijos projektą Oberostas pateikė Tarybos prezidiumui, kuris jį pataisė ir grąžino karinei administracijai kaip priimtą."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
 
 <a id="claim-t-75450"></a>
 - t-003
-  global_id: t-75450
   teiginys: "Gruodžio 11-osios rezoliucija pravertė Vokietijai Bresto taikos derybose, į kurias Lietuvos Tarybos delegacija nebuvo pakviesta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +90,6 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
 
 <a id="claim-t-183359"></a>
 - t-004
-  global_id: t-183359
   teiginys: "1917 m. Oberostas Kaune įteikė Gruodžio 11-osios rezoliucijos projektą Lietuvos Tarybos prezidiumui, o šis gruodžio 11 d. grąžino jį kaip priimtą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -133,21 +129,15 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
     Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,
     kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip
     priimtą.
-  citata_rodoma: |
-    1918 metų Vasario 16 Aktas
-    1917 m. pabaigoje Vokietija, ruošdamasi separatinėms tai-
-    kos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti
-    Lietuvos valstybę ir jos prisijungimą prie Vokietijos. Oberostas, rezidavęs
-    Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,
-    kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip
-    priimtą.
+  citata_rodoma: "1918 metų Vasario 16 Aktas\n1917 m. pabaigoje Vokietija, ruošdamasi separatinėms tai-\nkos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti\nLietuvos valstybę ir jos prisijungimą prie Vokietijos. Oberostas, rezidavęs\nKaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,\nkiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip\npriimtą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75449
+    - t-001
+
 - id: c-23773
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -160,17 +150,15 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
     Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio
     11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas,
     skilo ir pati Taryba.
-  citata_rodoma: |
-    Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio
-    11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas,
-    skilo ir pati Taryba.
+  citata_rodoma: "Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio\n11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas,\nskilo ir pati Taryba."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75448
+    - t-002
+
 - id: c-73229
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -184,20 +172,15 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
     skilo ir pati Taryba. 1918 m. sausio pabaigoje, protestuodami prieš su-
     sitaikėlišką Tarybos politiką, radikalesni S. Kairys, Stanislovas Narutavi-
     čius, Jonas Vileišis ir M. Biržiška iš jos pasitraukė.
-  citata_rodoma: |
-    Žinoma, Vokietijai ši rezoliucija praver-
-    tė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias
-    Lietuvos Tarybos delegacija net nebuvo pakviesta.
-    Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio
-    11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas,
-    skilo ir pati Taryba. 1918 m.
+  citata_rodoma: "Žinoma, Vokietijai ši rezoliucija praver-\ntė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias \nLietuvos Tarybos delegacija net nebuvo pakviesta.\nTačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio \n11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas, \nskilo ir pati Taryba. 1918 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75450
+    - t-003
+
 - id: c-166751
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -223,4 +206,4 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183359
+    - t-004

@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09528"></a>
-- t-001
-  global_id: t-09528
+- t-004
   teiginys: "1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -85,13 +84,11 @@ Nenurodyta
     regione. XII a. pabaigoje jie ėmė rengti reguliarius grobiamuosius
     žygius į kaimynų baltų ir slavų žemes. 1183 m. užfiksuotas pirma-
     sis žinomas lietuvių reidas į Pskovo žemes.
-  citata_rodoma: |
-    1183 m. užfiksuotas pirma-
-    sis žinomas lietuvių reidas į Pskovo žemes.
+  citata_rodoma: "1183 m. užfiksuotas pirma-\nsis žinomas lietuvių reidas į Pskovo žemes."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09528
+    - t-004

@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-62750"></a>
 - t-001
-  global_id: t-62750
   teiginys: "1266 m. Brandenburgo markgrafas, magistro ir brolių patariamas, Prūsijoje pastatydino Brandenburgo pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys perteklinis ir prasideda netinkamu autorystės boilerplate."
   pagrindžia:
     - c-63530
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1266 m. Brandenburgo markgrafas, magistro ir brolių patariamas, Prūsijoje pastatydino Brandenburgo pilį.'
@@ -87,8 +86,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62750
+
 ## Citatos
 
 - id: c-63530
@@ -96,23 +94,17 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Brandenburgo pilies pastatymą
-
-      Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių  į Prūsijos
+    Sitai pamatę, kiti, apimti baimės, atsitraukė.
+    127 (122). Apie Brandenburgo pilies pastatymą
+    Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių į Prūsijos
     žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro
     bei brolių patariamas, pastatydino Brandenburgo pilį399 ir panorėjo, kad ji visą laiką būtų
     vadinama tuo pat vardu, kaip vadinama ir jo markgrafystė.
-  citata_rodoma: |
-    Apie Brandenburgo pilies pastatymą
-
-      Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių  į Prūsijos
-    žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro
-    bei brolių patariamas, pastatydino Brandenburgo pilį399 ir panorėjo, kad ji visą laiką būtų
-    vadinama tuo pat vardu, kaip vadinama ir jo markgrafystė.
+  citata_rodoma: "127 (122). Apie Brandenburgo pilies pastatymą\n\n  Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių  į Prūsijos\nžemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro\nbei brolių patariamas, pastatydino Brandenburgo pilį399 ir panorėjo, kad ji visą laiką būtų\nvadinama tuo pat vardu, kaip vadinama ir jo markgrafystė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62750
+    - t-001

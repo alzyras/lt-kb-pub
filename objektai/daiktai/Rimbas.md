@@ -60,31 +60,24 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195312"></a>
-- t-001
-  global_id: t-195312
+- t-002
   teiginys: "Elgetos pasakojime rimbas yra apsigynimo nuo šunų įrankis, į kurio galą įsirišama vinis."
-  atnaujinta: "2026-07-12 01:46"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177693
     - c-177690
-    - c-177694
 
 <a id="claim-t-195313"></a>
-- t-002
-  global_id: t-195313
+- t-001
   teiginys: "Kerdžiaus rimbas aprašomas kaip ganymo, drausminimo ir bausminimo priemonė."
-  atnaujinta: "2026-07-12 01:46"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177692
-    - c-177695
-    - c-177696
-    - c-177691
 - susijęs iš [[objektai/daiktai/Lazda.md#claim-t-195347|Lazda]]: Elgetos nešiojamas gynybos ir pasiramstymo daiktas.
 - susijęs iš [[objektai/posakiai/Trimitais trimituoti, dambreliais uždambriuoti.md#claim-t-195421|Trimitais trimituoti, dambreliais uždambriuoti]]: Dainose randama formulė apie trimitus ir dambrelius.
 - susijęs iš Duburio lanka: Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė.
@@ -106,15 +99,15 @@ Nenurodyta
     įsirišau į galą
     rimbo vinį. Gi kai pašiaušiu rimbu pažemiu, lyg dalgiu — kliudžiau
     kalei per koją.
-  citata_rodoma: |
-    Dar prieš ateidamas įsirišau į galą rimbo vinį. Gi kai pašiaušiu rimbu pažemiu, lyg dalgiu — kliudžiau kalei per koją.
+  citata_rodoma: "Dar prieš ateidamas įsirišau į galą rimbo vinį. Gi kai pašiaušiu rimbu pažemiu, lyg dalgiu — kliudžiau kalei per koją."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195312
+    - t-002
+
 - id: c-177691
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -130,15 +123,13 @@ Nenurodyta
     Piemuo
     išbėgti nuo jo negalėdavo nė mėginti: buvo greitas, o kai ima rimbu
     plikyti į kulnus, turi luptis.
-  citata_rodoma: |
-    Piemuo išbėgti nuo jo negalėdavo nė mėginti: buvo greitas, o kai ima rimbu plikyti į kulnus, turi luptis.
+  citata_rodoma: "Piemuo išbėgti nuo jo negalėdavo nė mėginti: buvo greitas, o kai ima rimbu plikyti į kulnus, turi luptis."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195313
 - id: c-177692
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -153,15 +144,15 @@ Nenurodyta
     kaimiečių gerbiamas, pabaigė savo amželį.
     Kerdžiaus pabūklas buvo ilgas rimbas (botagas) ir ilgas trimitas,
     vadinamas triūba.
-  citata_rodoma: |
-    Kerdžiaus pabūklas buvo ilgas rimbas (botagas) ir ilgas trimitas, vadinamas triūba.
+  citata_rodoma: "Kerdžiaus pabūklas buvo ilgas rimbas (botagas) ir ilgas trimitas, vadinamas triūba."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195313
+    - t-001
+
 - id: c-177693
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -170,15 +161,13 @@ Nenurodyta
   citata_originali: |
     — Gi kad ir taip nieks neina. Žinai, ponaiti, kad elgeta su šuni­
     mis nesugyvena. Del jų elgeta turi nešioti lazdą ir rimbą.
-  citata_rodoma: |
-    Del jų elgeta turi nešioti lazdą ir rimbą.
+  citata_rodoma: "Del jų elgeta turi nešioti lazdą ir rimbą."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195312
 - id: c-177694
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -190,15 +179,13 @@ Nenurodyta
     Priėjo ir sako: „Kur tavo rimbas “ Apžiūrėjo: „Geras rimbas!
     Aš
     žiūrėjau, kad šunys tavęs nesitvertų“ .
-  citata_rodoma: |
-    Apžiūrėjo: „Geras rimbas! Aš žiūrėjau, kad šunys tavęs nesitvertų“ .
+  citata_rodoma: "Apžiūrėjo: „Geras rimbas! Aš žiūrėjau, kad šunys tavęs nesitvertų“ ."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195312
 - id: c-177695
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -211,15 +198,13 @@ Nenurodyta
     še, trimitas jau pabaigtas.
     Antras kerdžiaus įrankis buvo ilgas rimbas ant trumpo koto; valdė
     jį kaire ranka, imdamas į dešinę tada, kai trimitavo.
-  citata_rodoma: |
-    Antras kerdžiaus įrankis buvo ilgas rimbas ant trumpo koto; valdė jį kaire ranka, imdamas į dešinę tada, kai trimitavo.
+  citata_rodoma: "Antras kerdžiaus įrankis buvo ilgas rimbas ant trumpo koto; valdė jį kaire ranka, imdamas į dešinę tada, kai trimitavo."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195313
 - id: c-177696
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -234,12 +219,9 @@ Nenurodyta
     nimas yra ganęs, kiekvienas jaunikaitis yra jo guldytas ant kupsto ir
     skersai raižiotas keturlinkų rimbu; vienok jaunimas jį gerbė, nenustojo
     vadinti „dėde“ , nes žinojo, kad raižymas buvo nebe reikalo.
-  citata_rodoma: |
-    Viso kaimo jaunimas yra ganęs, kiekvienas jaunikaitis yra jo guldytas ant kupsto ir skersai raižiotas keturlinkų rimbu; vienok jaunimas jį gerbė, nenustojo vadinti „dėde“, nes žinojo, kad raižymas buvo nebe reikalo.
+  citata_rodoma: "Viso kaimo jaunimas yra ganęs, kiekvienas jaunikaitis yra jo guldytas ant kupsto ir skersai raižiotas keturlinkų rimbu; vienok jaunimas jį gerbė, nenustojo vadinti „dėde“, nes žinojo, kad raižymas buvo nebe reikalo."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195313

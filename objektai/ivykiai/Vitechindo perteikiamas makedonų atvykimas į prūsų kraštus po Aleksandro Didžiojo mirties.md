@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-191872"></a>
 - t-001
-  global_id: t-191872
   teiginys: "Narbutas rašo, kad Vitechindas padavimus apie prūsų ištakas nuspalvino pasakojimu apie makedonus po Aleksandro Didžiojo mirties."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-197560"></a>
 - t-002
-  global_id: t-197560
   teiginys: "Tai nugirdęs kronikininkas Vitechindas3, savo ruož tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku mu, rašo apie makedonus, po Aleksandro Didžiojo mirties atvykusius į prūsų kraštus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -99,5 +97,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191872
-    - t-197560
+    - t-001
+    - t-002

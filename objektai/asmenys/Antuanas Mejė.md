@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-24538"></a>
 - t-001
-  global_id: t-24538
   teiginys: "Prancūzų kalbininkas Antuanas Mejė pabrėžė archajišką lietuvių valstiečių kalbos pobūdį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,17 +61,11 @@ media_all_json: |-
     lietuvis valstietis.“ Kadangi lietuviai krikščionybę priėmė palyginti vėlai,
     mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės
     laikų išlikusių elementų.
-  citata_rodoma: |
-    Žymus prancūzų kalbininkas
-    Antuanas Mejė (Antoine Meillet, 1866–1936) yra sakęs: „Tas, kuris nori ži-
-    noti, kaip kalbėjo mūsų proseneliai, turi atvažiuoti pasiklausyti, kaip kalba
-    lietuvis valstietis.“ Kadangi lietuviai krikščionybę priėmė palyginti vėlai,
-    mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės
-    laikų išlikusių elementų.
+  citata_rodoma: "Žymus prancūzų kalbininkas \nAntuanas Mejė (Antoine Meillet, 1866–1936) yra sakęs: „Tas, kuris nori ži-\nnoti, kaip kalbėjo mūsų proseneliai, turi atvažiuoti pasiklausyti, kaip kalba \nlietuvis valstietis.“ Kadangi lietuviai krikščionybę priėmė palyginti vėlai, \nmūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės \nlaikų išlikusių elementų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-24538
+    - t-001

@@ -28,7 +28,6 @@ Kauno, Dancigo/Gdansko ir Hanzos kontoros Kaune susirašinėjimo medžiaga, pask
 
 <a id="claim-t-202239"></a>
 - t-001
-  global_id: t-202239
   teiginys: "Kauno, Dancigo/Gdansko ir Hanzos kontoros Kaune susirašinėjimo medžiaga, paskelbta minėtame šaltinių rinkinyje Hansisches Urkundenbuch."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Kauno, Dancigo/Gdansko ir Hanzos kontoros Kaune susirašinėjimo medžiaga, pask
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202239
+    - t-001

@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-192010"></a>
 - t-001
-  global_id: t-192010
   teiginys: "Pirmosios oficialios reakcijos į T. Narbuto „Lietuvių mitologiją“ buvo dvi 1835-1836 m. paskelbtos didelės recenzijos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -78,12 +77,11 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-174893
-    - c-002
+
 <a id="claim-t-192011"></a>
-- t-002
-  global_id: t-192011
+- t-003
   teiginys: "1856 m. T. Narbuto „Mažesniųjų istorinių raštų“ kritikai skirti straipsniai priskiriami istorikui ir publicistui Mykolui Balinskiui."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -102,10 +100,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174894
-    - c-003
+
 <a id="claim-t-192012"></a>
-- t-003
-  global_id: t-192012
+- t-002
   teiginys: "1835 m. anoniminė 25 puslapių recenzija apibūdinama kaip bene reikšmingiausias oficialus atgarsis į T. Narbuto „Lietuvių mitologiją“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -149,8 +146,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192010
 - c-003
   santrauka: '1856 m. T. Narbuto „Mažesniųjų istorinių raštų“ kritikai skirti straipsniai priskiriami istorikui ir publicistui Mykolui Balinskiui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -166,8 +161,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192011
+
 ## Citatos
 
 - id: c-174892
@@ -186,25 +180,15 @@ Nenurodyta
     lą ir taip rūpi visiems tenykščiams provincijos gyventojams,
     kad mūsų leidinyje negalima apsiriboti tik sausa užuomina ar­
     ba tik visapusiškomis liaupsėmis“19.
-  citata_rodoma: |
-    Pirmoji buvo anoni­
-    miška, o antroji priklausė Juozapo Ignoto Kraševskio
-    plunksnai.
-    Bene pati reikšmingiausia, ypač didelės apimties (25 pus­
-    lapių) buvo anoniminė 1835 metų recenzija18. Rašinio auto­
-    rius tokią apimtį aiškino taip: „Šis veikalas atneša tokią pat
-    garbę tiek autoriaus pilietiniam sumanymui, tiek ir leidėjui
-    ponui Marcinovskiui; jis yra sugalvotas turint tokį svarbų tiks­
-    lą ir taip rūpi visiems tenykščiams provincijos gyventojams,
-    kad mūsų leidinyje negalima apsiriboti tik sausa užuomina ar­
-    ba tik visapusiškomis liaupsėmis“19.
+  citata_rodoma: "Pirmoji buvo anoni­\nmiška, o antroji priklausė Juozapo Ignoto Kraševskio\nplunksnai.\nBene pati reikšmingiausia, ypač didelės apimties (25 pus­\nlapių) buvo anoniminė 1835 metų recenzija18. Rašinio auto­\nrius tokią apimtį aiškino taip: „Šis veikalas atneša tokią pat\ngarbę tiek autoriaus pilietiniam sumanymui, tiek ir leidėjui\nponui Marcinovskiui; jis yra sugalvotas turint tokį svarbų tiks­\nlą ir taip rūpi visiems tenykščiams provincijos gyventojams,\nkad mūsų leidinyje negalima apsiriboti tik sausa užuomina ar­\nba tik visapusiškomis liaupsėmis“19."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192012
+    - t-002
+
 - id: c-174893
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -225,25 +209,15 @@ Nenurodyta
     istorija“20. Recenzento nuomone, T. Narbuto „Lietuvių mito­
     18 Dzieje starožytne narodu Litewskiego przez Teodora Narbut-
     ta.
-  citata_rodoma: |
-    55
-
-    ## Puslapis 55
-
-    Pirmoji reakcija. Oficialūs atgarsiai į T. Narbuto „Lietu­
-    vių mitologiją“ pasirodė netrukus, t. y. tais pačiais 1835 ir ki­
-    tais 1836 metais. Tai buvo dvi didelės recenzijos: pirmoji iš­
-    spausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­
-    roji -  oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­
-    miška, o antroji priklausė Juozapo Ignoto Kraševskio
-    plunksnai.
+  citata_rodoma: "55\n\n## Puslapis 55\n\nPirmoji reakcija. Oficialūs atgarsiai į T. Narbuto „Lietu­\nvių mitologiją“ pasirodė netrukus, t. y. tais pačiais 1835 ir ki­\ntais 1836 metais. Tai buvo dvi didelės recenzijos: pirmoji iš­\nspausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­\nroji -  oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­\nmiška, o antroji priklausė Juozapo Ignoto Kraševskio\nplunksnai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192010
+    - t-001
+
 - id: c-174894
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -259,17 +233,11 @@ Nenurodyta
     nalumas labai primena kitą rašinį, tiksliau sakant, straips­
     nių ciklą „Laiškai nuo Kražantės krantų“, kuris trejus
     1 Ten pat.
-  citata_rodoma: |
-    Šių „laiškų“ dauguma buvo skirta 1856 metais
-    pasirodžiusių T. Narbuto „Mažesniųjų istorinių raštų“
-    kritikai2. Straipsnių, beje, ir anonimiškų, autorystė buvo
-    išaiškinta — jie priskiriami istoriko, publicisto Mykolo
-    Balinskio plunksnai. Vadinasi, jis galėjo būti ir anoni­
-    minės „Lietuvių mitologijos“ recenzijos autorius.
+  citata_rodoma: "Šių „laiškų“ dauguma buvo skirta 1856 metais\npasirodžiusių T. Narbuto „Mažesniųjų istorinių raštų“\nkritikai2. Straipsnių, beje, ir anonimiškų, autorystė buvo\nišaiškinta — jie priskiriami istoriko, publicisto Mykolo\nBalinskio plunksnai. Vadinasi, jis galėjo būti ir anoni­\nminės „Lietuvių mitologijos“ recenzijos autorius."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192011
+    - t-003

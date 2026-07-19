@@ -31,7 +31,6 @@ Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad 
 
 <a id="claim-t-36595"></a>
 - t-001
-  global_id: t-36595
   teiginys: "Sūdavija su Jotvingija buvo laikomos lietuvių kraštais, dėl kurių negalėjo kilti ginčas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,18 +69,11 @@ Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad 
     ja su Jotvingija (Dzūkija) yra tokie lietuvių kraštai, dėl ku­
     rių ir ginčo negali kilti; tad jei sprendimas nebus atmainytas,
     kol gyvas bus, nepalaikys su Zigmantu taikos^3 ).
-  citata_rodoma: |
-    Po to parašė jam dar kitą raš­
-    tą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija
-    — tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­
-    mos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­
-    ja su Jotvingija (Dzūkija) yra tokie lietuvių kraštai, dėl ku­
-    rių ir ginčo negali kilti; tad jei sprendimas nebus atmainytas,
-    kol gyvas bus, nepalaikys su Zigmantu taikos^3 ).
+  citata_rodoma: "Po to parašė jam dar kitą raš­\ntą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija\n— tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­\nmos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­\nja su Jotvingija (Dzūkija) yra tokie lietuvių kraštai, dėl ku­\nrių ir ginčo negali kilti; tad jei sprendimas nebus atmainytas,\nkol gyvas bus, nepalaikys su Zigmantu taikos^3 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36595
+    - t-001

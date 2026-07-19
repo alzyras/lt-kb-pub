@@ -39,7 +39,6 @@ Ptolomais pilėj, šiandien Akrą vadinamoj, su ka riauna krikščionų tas pats
 
 <a id="claim-t-201150"></a>
 - t-001
-  global_id: t-201150
   teiginys: "Ptolomais pilėj, šiandien Akrą vadinamoj, su ka riauna krikščionų tas pats kas Antiochijoj nutiko."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,9 @@ Ptolomais pilėj, šiandien Akrą vadinamoj, su ka riauna krikščionų tas pats
 ## Citatos
 
 - id: c-184500
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jau metuose 1190 viešpats saracėnų, vardu
     Saladinas, atėmė krikščionims apent Jeruzolimą, tuo
@@ -77,4 +77,4 @@ Ptolomais pilėj, šiandien Akrą vadinamoj, su ka riauna krikščionų tas pats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201150
+    - t-001

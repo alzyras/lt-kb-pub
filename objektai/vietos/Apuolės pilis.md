@@ -39,8 +39,7 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
 ## Teiginiai
 
 <a id="claim-t-47983"></a>
-- t-001
-  global_id: t-47983
+- t-005
   teiginys: "Apuolės piliakalnio 3640 m² aikštėje negalėjo tilpti kronikų minimi 15 000 kovotojų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -59,8 +58,7 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
     - c-31938
 
 <a id="claim-t-47984"></a>
-- t-002
-  global_id: t-47984
+- t-006
   teiginys: "Apuolės piliakalnio 3640 kv. m aikštėje negalėjo tilpti kronikose minėti 15 tūkst. kuršių kovotojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -79,8 +77,7 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
     - c-31938
 
 <a id="claim-t-47985"></a>
-- t-003
-  global_id: t-47985
+- t-004
   teiginys: "VII a. pabaigoje švedai įsikūrė Grobine ir užėmė Apuolės pilį prie Skuodo."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -117,7 +114,8 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47985
+    - t-004
+
 - id: c-31938
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -131,18 +129,15 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
     svaro sidabro. Iš XI-XII amž. danų šaltinių (Genealogia regum
     Danorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai
     protarpiais esą mokėję duoklę ir danams.
-  citata_rodoma: |
-    Nė sausakimšoje Apuolės pilia­
-    kalnio aikštėje (ploto 3640 m.^2 ) jokiu būdu negalėjo tilpti tiek
-    karių, kurie esą turėję nuo galvos išsipirkti, mokėdami po pusę
-    svaro sidabro. Iš XI-XII amž.
+  citata_rodoma: "Nė sausakimšoje Apuolės pilia­\nkalnio aikštėje (ploto 3640 m.^2 ) jokiu būdu negalėjo tilpti tiek\nkarių, kurie esą turėję nuo galvos išsipirkti, mokėdami po pusę\nsvaro sidabro. Iš XI-XII amž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47983
-    - t-47984
+    - t-005
+    - t-006
+
 ## Ryšiai
 - Užėmė Apuolės pilį (pilis): [[objektai/grupes/Švedai]]

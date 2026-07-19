@@ -42,8 +42,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 ## Teiginiai
 
 <a id="claim-t-79083"></a>
-- t-001
-  global_id: t-79083
+- t-003
   teiginys: "Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 
 <a id="claim-t-79084"></a>
 - t-002
-  global_id: t-79084
   teiginys: "Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - c-76178
 
 <a id="claim-t-190906"></a>
-- t-003
-  global_id: t-190906
+- t-004
   teiginys: "Narbuto pasakojime Konrado valdymo Mazovijoje metu Gotardas kautynėse suėmė septynis jotvingių kunigaikštukus, išsipirkusius sidabru."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - c-173788
 
 <a id="claim-t-190907"></a>
-- t-004
-  global_id: t-190907
+- t-005
   teiginys: "Narbutas vaizduoja Konradą kaip Mazovijos kunigaikštį, XIII a. pradžioje pasiekusį laimėjimų Jotvingijoje ir valdžiusį Drohičiną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -117,8 +113,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - c-173789
 
 <a id="claim-t-201002"></a>
-- t-005
-  global_id: t-201002
+- t-006
   teiginys: "Konradas nori liuosas namuose savo gyventi, tegul atleidžia tuojau į jo abažą keletą šimtų stiprių arklių ir apdarą kareiviams."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -130,8 +125,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - c-184352
 
 <a id="claim-t-201003"></a>
-- t-006
-  global_id: t-201003
+- t-007
   teiginys: "Lūgojant Konradui, kunigaikščiui mozūrų, ir leidžiant vyskupui Kristijonui, pradėjo tie meldžionys ir pilį Kulmo tvirtinti, kurią lietuviai buvo sugriovę."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -143,8 +137,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - c-184353
 
 <a id="claim-t-201004"></a>
-- t-007
-  global_id: t-201004
+- t-008
   teiginys: "Konradas, kunigaikštis mozūrų, regėdamas ant kranto pragaro savo ūkę, nuo visur veizėjo jai pa šalpos, bet nei nuo artimų tautų, nei nuo brostvių Dobrynės nė kokios pagalbos nebgalėjo beviltis nei gi nuo nelaimų ir terionių savo kraštą beužtaryti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -278,20 +271,15 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     Ordinas pasistatė Torunės pil.
     Prasidėjo metodiški kryžiaus
     žygiai į Prūsiją.
-  citata_rodoma: |
-    pakvietė Mozūrijos kunigaikš-
-    tis Konradas ir padovanojo
-    jiems Kulmo žemę. 1231 m.
-    Ordinas pasistatė Torunės pil.
-    Prasidėjo metodiški kryžiaus
-    žygiai į Prūsiją.
+  citata_rodoma: "pakvietė Mozūrijos kunigaikš-\ntis Konradas ir padovanojo\njiems Kulmo žemę. 1231 m.\nOrdinas pasistatė Torunės pil.\nPrasidėjo metodiški kryžiaus\nžygiai į Prūsiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79083
+    - t-003
+
 - id: c-76178
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -305,18 +293,15 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-
     kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
     mės pakraštėj.
-  citata_rodoma: |
-    Tada Mozūrų kunigaikš-
-      tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-
-      kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
-      mės pakraštėj.
+  citata_rodoma: "Tada Mozūrų kunigaikš-\n  tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-\n  kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-\n  mės pakraštėj."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79084
+    - t-002
+
 - id: c-173788
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -344,7 +329,8 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190906
+    - t-004
+
 - id: c-173789
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -370,10 +356,12 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190907
+    - t-005
+
 - id: c-184352
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pajutę tą gudai, kurie tuo pačiu
     laiku letgalius teriojo, palikini juos pargrįžo namo,
@@ -403,10 +391,12 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201002
+    - t-006
+
 - id: c-184353
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Silezijos su vyskupais ir jo-
     mylistomis savo ūkės, visų pirma užėmė į savo už­
@@ -422,10 +412,12 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201003
+    - t-007
+
 - id: c-184354
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Regis, vylės, jog brostviai Dobrynės
     sudraus lietuvius ir žemaičius netikėlius, dėl to gi
@@ -448,7 +440,8 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201004
+    - t-008
+
 ## Ryšiai
 - Konradas buvo valdovas [[objektai/vietos/Mazovija]]
 - Konradas valdė [[objektai/vietos/Drohičinas]]

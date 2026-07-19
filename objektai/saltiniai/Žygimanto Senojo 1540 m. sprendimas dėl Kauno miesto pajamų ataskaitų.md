@@ -7,10 +7,10 @@ datos:
   - '1540 m.'
 date_start: '1540'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Matyti, kad Kauno miesto taryba kviesdavo miestiečių bendruomenės atstovus ka
 
 <a id="claim-t-202262"></a>
 - t-001
-  global_id: t-202262
   teiginys: "Matyti, kad Kauno miesto taryba kviesdavo miestiečių bendruomenės atstovus kartu spręsti reikalų, susijusių su miesto pajamomis ir mokesčiais."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Matyti, kad Kauno miesto taryba kviesdavo miestiečių bendruomenės atstovus ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202262
+    - t-001

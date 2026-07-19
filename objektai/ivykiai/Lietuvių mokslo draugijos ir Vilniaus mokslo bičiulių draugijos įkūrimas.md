@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75130"></a>
-- t-001
-  global_id: t-75130
+- t-002
   teiginys: "Lietuvių mokslo draugija plėtojo etninių lietuvių tautinį sąjūdį, o Vilniaus mokslo bičiulių draugija telkė lenkiškai kalbančiuosius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-23004
 
 <a id="claim-t-75131"></a>
-- t-002
-  global_id: t-75131
+- t-001
   teiginys: "Nepavykus atkurti Vilniaus universiteto, įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -107,17 +105,12 @@ Nenurodyta
     jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
     plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
     telkusi lenkiškai kalbančiuosius.
-  citata_rodoma: |
-    Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
-    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
-    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
-    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
-    telkusi lenkiškai kalbančiuosius.
+  citata_rodoma: "Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos\n1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad\njame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,\nplėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,\ntelkusi lenkiškai kalbančiuosius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75130
-    - t-75131
+    - t-002
+    - t-001

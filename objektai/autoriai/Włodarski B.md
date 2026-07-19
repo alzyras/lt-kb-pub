@@ -38,7 +38,6 @@ Dusburgietis teigia, kad włodarski В.
 
 <a id="claim-t-60822"></a>
 - t-001
-  global_id: t-60822
   teiginys: "B. Włodarskis 1959 m. Torunėje paskelbė straipsnį apie jotvingių problemą lenkų ir rusėnų santykiuose."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Dusburgietis teigia, kad włodarski В.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60822
+    - t-001

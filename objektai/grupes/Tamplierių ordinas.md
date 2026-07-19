@@ -44,10 +44,9 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 ## Teiginiai
 
 <a id="claim-t-89286"></a>
-- t-001
-  global_id: t-89286
+- t-002
   teiginys: "1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jeruzalė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -62,10 +61,9 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-85276
-    - c-004
+
 <a id="claim-t-89287"></a>
-- t-002
-  global_id: t-89287
+- t-003
   teiginys: "Tamplierių ordinas siejamas su 1112 m. popiežiaus Paskalio II laikais, o 1312 m. kovo 23 d. popiežius Klemensas V jį panaikino Vieno suvažiavime."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -84,8 +82,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
     - c-85273
 
 <a id="claim-t-89288"></a>
-- t-003
-  global_id: t-89288
+- t-005
   teiginys: "Tamplierių ordinas minimas prie 1112 metų popiežiaus Paskalio II laikais, o 1312 m. jį panaikino popiežius Klemensas V."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -106,7 +103,6 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 
 <a id="claim-t-89289"></a>
 - t-004
-  global_id: t-89289
   teiginys: "1312 m. kovo 22 d. popiežius Klemensas V Vieno sinode pasmerkė Tamplierių ordiną, įsteigtą 1112 m. Paskalio II laikais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -125,8 +121,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
     - c-85272
 
 <a id="claim-t-89290"></a>
-- t-005
-  global_id: t-89290
+- t-001
   teiginys: "Neseniai Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir egzistavo Teutonų ordinas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -181,8 +176,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89286
+
 ## Citatos
 
 - id: c-85272
@@ -197,21 +191,15 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
     apaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties
     metais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.
     1236).
-  citata_rodoma: |
-    Apie tamplierių ordino panaikinimą
-
-      1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas
-    V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet
-    apaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties
-    metais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.
-    1236).
+  citata_rodoma: "Apie tamplierių ordino panaikinimą\n\n  1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas\nV, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet\napaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties\nmetais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.\n1236)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89289
+    - t-004
+
 - id: c-85273
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -230,8 +218,9 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89287
-    - t-89288
+    - t-003
+    - t-005
+
 - id: c-85274
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -247,7 +236,8 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89290
+    - t-001
+
 - id: c-85276
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -259,18 +249,11 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
     ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
     vienuolių bendruomenės gyvenimo dėsniai. Vernerio prierašuose pabrėžiama, jog jie
     skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
-  citata_rodoma: |
-    1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
-    m.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310
-    m. vyskupų sinodas pasmerkė 54 tamplierius sudeginti. Apkaltintas erezija Tamplierių
-    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
-    Paryžiuje 1314 m.69
-      Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
-    argumentacijos.
+  citata_rodoma: "1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291\nm.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310\nm. vyskupų sinodas pasmerkė 54 tamplierius sudeginti. Apkaltintas erezija Tamplierių\nordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo\nParyžiuje 1314 m.69\n  Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis\nargumentacijos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89286
+    - t-002

@@ -38,7 +38,6 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
 
 <a id="claim-t-21175"></a>
 - t-001
-  global_id: t-21175
   teiginys: "Lietuva neutralumo įstatymą ratifikavo 1939 m. sausio 10 d., bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,12 +75,11 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
     Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus
     tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konf-
     liktą.
-  citata_rodoma: |
-    Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus
+  citata_rodoma: "Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21175
+    - t-001

@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-200673"></a>
 - t-001
-  global_id: t-200673
   teiginys: "1754 m. Augusto III vardo dienos iškilmių aplinkoje minėti koadjutoriaus konfitiūrai iš ananasų ir kitų egzotinių vaisių."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/03_normalize_titles_and_notes.md"
@@ -79,18 +78,8 @@ Nenurodyta
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 11"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
-  citata_originali: |
-    Apie didelius pasilinksminimus Augusto III vardo dienos garbei kanauninkas pa-
-    sakojo Anykščių ir Punios seniūnui Mykolui Ksaverui Sapiegai. Jis teigė, kad pirma jie
-    riesis, o po to taikysis [valgydami] koadjutoriaus konfitiūrus iš ananasų, karambolų(?),
-    kakadijų(?) [neaiškus žodis] ir kitų indiškų žodžių [stiliaus klaida J. D. Lopacinskio
-    laiške], kurių privežta labai daug.
-  citata_rodoma: |
-    Apie didelius pasilinksminimus Augusto III vardo dienos garbei kanauninkas pasakojo Anykščių ir Punios seniūnui Mykolui Ksaverui Sapiegai. Jis teigė, kad pirma jie riesis, o po to taikysis [valgydami] koadjutoriaus konfitiūrus iš ananasų, karambolų(?), kakadijų(?) [neaiškus žodis] ir kitų indiškų žodžių [stiliaus klaida J. D. Lopacinskio laiške], kurių privežta labai daug.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 10:29"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200673
+    - t-001

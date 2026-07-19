@@ -31,7 +31,6 @@ Narbutas rašė, kad už Tilžės prie Sancinės buvęs piliakalnis vietinių va
 
 <a id="claim-t-189010"></a>
 - t-001
-  global_id: t-189010
   teiginys: "Narbutas rašė, kad už Tilžės prie Sancinės buvęs piliakalnis vietinių vadintas Kroniszkas-Pilnis, tai yra Kruonio pilimi."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Narbutas rašė, kad už Tilžės prie Sancinės buvęs piliakalnis vietinių va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189010
+    - t-001

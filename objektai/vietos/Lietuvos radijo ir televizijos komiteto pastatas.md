@@ -36,7 +36,6 @@ nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietu
 
 <a id="claim-t-21564"></a>
 - t-001
-  global_id: t-21564
   teiginys: "1991 m. sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė Lietuvos radijo ir televizijos komiteto pastatą, kurį gynė taiki minia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,12 +68,11 @@ nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietu
     12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei
     Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė
     daugiatūkstantinė taikių Lietuvos gyventojų minia.
-  citata_rodoma: |
-    Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė
+  citata_rodoma: "Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21564
+    - t-001

@@ -39,7 +39,6 @@ Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą 
 
 <a id="claim-t-191428"></a>
 - t-001
-  global_id: t-191428
   teiginys: "Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą aprašė Kaukazo alanus, vadintus Jassi, Asses ir Aries."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191428
+    - t-001

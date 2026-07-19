@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-100039"></a>
 - t-001
-  global_id: t-100039
   teiginys: "Salza pasiuntė į Livoniją du įgaliotinius ištirti kalavijuočių gyvenimą ir parengti jų priėmimo planą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100039
+    - t-001

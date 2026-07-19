@@ -53,8 +53,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-108555"></a>
-- t-001
-  global_id: t-108555
+- t-010
   teiginys: "Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos valdymo principai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -73,8 +72,7 @@ media_all_json: |-
     - c-100711
 
 <a id="claim-t-108556"></a>
-- t-002
-  global_id: t-108556
+- t-008
   teiginys: "Laurynas Mingėlas-Džiugas po = j Užpelkių kautynių buvo sunkiai sužeistas ir apie metus gydėsi Miknių sodyboje įrengtame bunkeryje (tame pačiame, kur buvo pasirašyta 1949 m. vasario 16 d. LLKS Deklaracija)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -92,8 +90,7 @@ media_all_json: |-
     - c-100708
 
 <a id="claim-t-108558"></a>
-- t-003
-  global_id: t-108558
+- t-005
   teiginys: "1949 m. vasarį partizanų apygardų atstovų suvažiavimas suvienijo antisovietinio pasipriešinimo kovotojus į Lietuvos laisvės kovos sąjūdį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -112,8 +109,7 @@ media_all_json: |-
     - c-100708
 
 <a id="claim-t-183703"></a>
-- t-004
-  global_id: t-183703
+- t-011
   teiginys: "1949 m. vasario 16 d. LLKS tarybos deklaracija nubrėžė atkurtos nepriklausomos demokratinės Lietuvos Respublikos ateities raidos gaires."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -162,7 +158,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183703
+    - t-011
+
 - id: c-100708
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -182,22 +179,16 @@ media_all_json: |-
     suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
     demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
     sudarytą vyriausybę.
-  citata_rodoma: |
-    Bunkeryje pri-
-    imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
-    atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
-    suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
-    demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
-    sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
-    organu iki laisvų demokratinių Seimo rinkimų.
+  citata_rodoma: "Bunkeryje pri-\nimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės \natkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, \nsuvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, \ndemokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo \nsudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios \norganu iki laisvų demokratinių Seimo rinkimų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-108556
-    - t-108558
+    - t-008
+    - t-005
+
 - id: c-100711
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -214,19 +205,11 @@ media_all_json: |-
     demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
     sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
     organu iki laisvų demokratinių Seimo rinkimų.
-  citata_rodoma: |
-    studijavo Prancūzijos artilerijos mokykloje),
-    jam suteiktas aukščiausias – partizanų generolo laipsnis. Bunkeryje pri-
-    imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
-    atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
-    suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
-    demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
-    sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
-    organu iki laisvų demokratinių Seimo rinkimų.
+  citata_rodoma: "studijavo Prancūzijos artilerijos mokykloje), \njam suteiktas aukščiausias – partizanų generolo laipsnis. Bunkeryje pri-\nimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės \natkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, \nsuvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, \ndemokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo \nsudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios \norganu iki laisvų demokratinių Seimo rinkimų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-108555
+    - t-010

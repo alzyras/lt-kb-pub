@@ -31,7 +31,6 @@ Narbutas Vaiselijų mini tarp kronikininkų, citavusių vyskupo Kristijono kroni
 
 <a id="claim-t-191481"></a>
 - t-001
-  global_id: t-191481
   teiginys: "Narbutas Vaiselijų mini tarp kronikininkų, citavusių vyskupo Kristijono kroniką apie senovės Prūsiją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Narbutas Vaiselijų mini tarp kronikininkų, citavusių vyskupo Kristijono kroni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191481
+    - t-001

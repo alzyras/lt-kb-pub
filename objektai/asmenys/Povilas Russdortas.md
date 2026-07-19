@@ -39,7 +39,6 @@ Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­ diną, kurio magis
 
 <a id="claim-t-35267"></a>
 - t-001
-  global_id: t-35267
   teiginys: "Povilas Russdortas buvo išrinktas Vokiečių ordino magistru vietoje atstatyto Küchmeisterio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,17 +73,11 @@ Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­ diną, kurio magis
     Vytautu nuo 1414 m. buvo tik per plauką nuo karo. Popiežiaus
     pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti,
     bet neįstengė.
-  citata_rodoma: |
-    Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­
-    diną, kurio magistru buvo išrinktas jam palankus Povilas
-    Russdortas, vietoje atstatyto Küchmeisterio, nes Ordinas su
-    Vytautu nuo 1414 m. buvo tik per plauką nuo karo. Popiežiaus
-    pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti,
-    bet neįstengė.
+  citata_rodoma: "Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­\ndiną, kurio magistru buvo išrinktas jam palankus Povilas\nRussdortas, vietoje atstatyto Küchmeisterio, nes Ordinas su\nVytautu nuo 1414 m. buvo tik per plauką nuo karo. Popiežiaus\npasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti,\nbet neįstengė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35267
+    - t-001

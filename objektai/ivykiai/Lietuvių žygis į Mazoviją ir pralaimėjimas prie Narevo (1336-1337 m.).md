@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185813"></a>
 - t-001
-  global_id: t-185813
   teiginys: "Mirus Mazovijos kunigaikščiui Vankai, arba Vaclovui, lietuviai 1336 m. lapkritį su didele kariuomene nuniokojo Mazoviją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-196211"></a>
 - t-002
-  global_id: t-196211
   teiginys: "Kojelavičiaus pasakojime lietuviai po Mazovijos kunigaikščio Vankos-Vaclovo mirties laikė santarvę nutrūkusia ir 1336 m. lapkritį nuniokojo Mazoviją."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -106,25 +104,12 @@ Nenurodyta
     kitais broliais; rašoma, jog buvo išvesta tūkstantis du
     šimtai belaisvių. Vis dėlto tėvynėje jie patyrė ne ma­
     žesnių nuostolių iš vokiečių.
-  citata_rodoma: |
-    Kadangi tyli ir metraš­
-    tininkai, aišku, kad artimiausiais metais ir su kaimy­
-    nais gyventa santaikoje, ir valstybės viduje nebuvo
-    jokių sambrūzdžių. Ramybė liovėsi, kai mirė Vanka,
-    arba Vaclovas, Mazovijos kunigaikštis (vedęs Algirdo
-    seserį). Lietuviai, manydami, jog kunigaikščio mirtimi
-    nutraukiama ir giminystė, ir
-    1336 m e ta i
-    santarvė, su didžiule kariuo­
-    mene lapkričio mėnesį nu­
-    niokojo Mažo vi ją; žygyje dalyvavo pats Algirdas su
-    kitais broliais; rašoma, jog buvo išvesta tūkstantis du
-    šimtai belaisvių.
+  citata_rodoma: "Kadangi tyli ir metraš­\ntininkai, aišku, kad artimiausiais metais ir su kaimy­\nnais gyventa santaikoje, ir valstybės viduje nebuvo\njokių sambrūzdžių. Ramybė liovėsi, kai mirė Vanka,\narba Vaclovas, Mazovijos kunigaikštis (vedęs Algirdo\nseserį). Lietuviai, manydami, jog kunigaikščio mirtimi\nnutraukiama ir giminystė, ir\n1336 m e ta i\nsantarvė, su didžiule kariuo­\nmene lapkričio mėnesį nu­\nniokojo Mažo vi ją; žygyje dalyvavo pats Algirdas su\nkitais broliais; rašoma, jog buvo išvesta tūkstantis du\nšimtai belaisvių."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185813
-    - t-196211
+    - t-001
+    - t-002

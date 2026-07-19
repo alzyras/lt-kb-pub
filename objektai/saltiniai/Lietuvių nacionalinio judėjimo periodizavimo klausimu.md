@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31798"></a>
 - t-001
-  global_id: t-31798
   teiginys: "„Lietuvių nacionalinio judėjimo periodizavimo klausimu“ paskelbta žurnalo „Problemos“ 2 tome 1968 m., 86-97 puslapiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,14 +71,11 @@ media_all_json: |-
     kyklos Lietuvoje XIX a. antrojoje pusėje_** **(Pedagogika ir psichologija, t. 9,
     sąs. 2, 1969).**
     (^124) **Žurnale : Pedagogika ir psichologija, t. 8, 1966.
-  citata_rodoma: |
-    ); kiti jo straips­
-    niai :** **_Lietuvių nacionalinio judėjimo periodizavimo klausimu_** **(Problemos, t. 2,
-    1968, 86-97 p.) ;** **_Nacionalinės buržuazijos formavimasis Lietuvoje XIX a.
+  citata_rodoma: "); kiti jo straips­\nniai :** **_Lietuvių nacionalinio judėjimo periodizavimo klausimu_** **(Problemos, t. 2,\n1968, 86-97 p.) ;** **_Nacionalinės buržuazijos formavimasis Lietuvoje XIX a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31798
+    - t-001

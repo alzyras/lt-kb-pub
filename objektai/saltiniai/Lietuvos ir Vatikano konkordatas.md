@@ -37,7 +37,6 @@ Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordat
 
 <a id="claim-t-75472"></a>
 - t-001
-  global_id: t-75472
   teiginys: "1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,14 +73,11 @@ Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordat
     žurnalai. Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-
     no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
     Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
-  citata_rodoma: |
-    Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-
-    no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
-    Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
+  citata_rodoma: "Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-\nno konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų\nSąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75472
+    - t-001

@@ -49,7 +49,6 @@ Posakiu socialinis Vilniaus šurmulys prilyginamas gęstančiai liepsnai.
 
 <a id="claim-t-200627"></a>
 - t-001
-  global_id: t-200627
   teiginys: "1760 m. pasibaigus tribunolui Jonas Dominykas Lopacinskis formule „Greitai mūsų publika visai užges“ nusakė Vilniaus bajoriškos publikos išsiskirstymą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::sayings"
@@ -75,20 +74,8 @@ Posakiu socialinis Vilniaus šurmulys prilyginamas gęstančiai liepsnai.
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 11"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
-  citata_originali: |
-    Istorija / 2015, t. 97, Nr. 1
-    geresnio oro ieškodami [37]. Pasibaigus tribunolui 1760 m. kanauninkas apgailestavo:
-    „Greitai mūsų publika visai užges, šią savaitę išvyksta ir tribunolo maršalas [jau minėtas
-    Ašmenos seniūnas Andrius Oginskis] su dėde ir tėvu“ [59].
-    Kartais laiškuose būdavo minimi pokalbiai.
-  citata_rodoma: |
-    Pasibaigus tribunolui 1760 m. kanauninkas apgailestavo:
-    „Greitai mūsų publika visai užges, šią savaitę išvyksta ir tribunolo maršalas [jau minėtas
-    Ašmenos seniūnas Andrius Oginskis] su dėde ir tėvu“ [59].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 08:04"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200627
+    - t-001

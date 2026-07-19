@@ -39,8 +39,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
 ## Teiginiai
 
 <a id="claim-t-72000"></a>
-- t-001
-  global_id: t-72000
+- t-003
   teiginys: "Kazimiero laikai 1440–1492 m. Lietuvos istorijoje vadinami pereinamuoju laikotarpiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
     - c-46924
 
 <a id="claim-t-72001"></a>
-- t-002
-  global_id: t-72001
+- t-001
   teiginys: "Kazimiero laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
     - c-46924
 
 <a id="claim-t-72002"></a>
-- t-003
-  global_id: t-72002
+- t-002
   teiginys: "Pereinamasis laikotarpis siejamas su didžiųjų kunigaikščių monarchijos irimu ir ponų įsigalėjimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,14 +111,13 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
     laikotarpis
     I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
     1.
-  citata_rodoma: |
-    I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
+  citata_rodoma: "I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72000
-    - t-72001
-    - t-72002
+    - t-003
+    - t-001
+    - t-002

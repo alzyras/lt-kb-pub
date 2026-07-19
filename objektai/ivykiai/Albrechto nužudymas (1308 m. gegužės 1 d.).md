@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-62740"></a>
 - t-001
-  global_id: t-62740
   teiginys: "1308 m. gegužės 1 d. kunigaikštis Jonas Anlantas nužudė Romos karalių Albrechtą, kuris iš jo buvo atėmęs Austrijos kunigaikštystę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,23 +77,17 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Albrechto, Romos karaliaus, nužudymą
+    104. Apie Albrechto, Romos karaliaus, nužudymą
 
       1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos
     karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs
     Austrijos kunigaikštystę, nors tas ir buvo teisėtas įpėdinis.
-      599 D.
-  citata_rodoma: |
-    Apie Albrechto, Romos karaliaus, nužudymą
-
-      1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos
-    karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs
-    Austrijos kunigaikštystę, nors tas ir buvo teisėtas įpėdinis.
-      599 D.
+      599 D.— Dunemunde; vėliau vok.
+  citata_rodoma: "104. Apie Albrechto, Romos karaliaus, nužudymą\n\n  1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos\nkaralių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs\nAustrijos kunigaikštystę, nors tas ir buvo teisėtas įpėdinis.\n  599 D.— Dunemunde; vėliau vok."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62740
+    - t-001

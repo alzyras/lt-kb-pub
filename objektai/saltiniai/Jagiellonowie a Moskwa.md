@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31736"></a>
 - t-001
-  global_id: t-31736
   teiginys: "H. Paszkiewicziaus „Jagiellonowie a Moskwa“ pirmasis tomas „Litwa a Moskwa w XIII i XIV wieku“ išleistas Varšuvoje 1933 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,13 +63,11 @@ media_all_json: |-
     1967.
     PaJM = Paszkiewicz, H. : Jagiellonowie a Moskwa, t. 1 : Litwa a
     Moskwa w XIII i XIV wieku. Varšuva 1933.
-  citata_rodoma: |
-    PaJM = Paszkiewicz, H. : Jagiellonowie a Moskwa, t. 1 : Litwa a
-    Moskwa w XIII i XIV wieku. Varšuva 1933.
+  citata_rodoma: "PaJM = Paszkiewicz, H. : Jagiellonowie a Moskwa, t. 1 : Litwa a\nMoskwa w XIII i XIV wieku. Varšuva 1933."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31736
+    - t-001

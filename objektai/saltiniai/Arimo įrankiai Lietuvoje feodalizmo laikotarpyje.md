@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31620"></a>
 - t-001
-  global_id: t-31620
   teiginys: "P. Dundulienės „Arimo įrankiai Lietuvoje feodalizmo laikotarpyje“ paskelbtas VUMD 2 tome 1955 m., p. 148-168."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,13 +67,11 @@ media_all_json: |-
     — Dundulienė, P. : _Arimo įrankiai Lietuvoje feodalizmo laikotarpyje,_
     VUMD, t. 2, 1955, 148-168 p. — (”) _Zemledelie v Litve v epochų feoda­
     lizma,_ Baltijskij Etnografičeskij Sbornik, Trudy Inst.
-  citata_rodoma: |
-    — Dundulienė, P. : _Arimo įrankiai Lietuvoje feodalizmo laikotarpyje,_
-    VUMD, t. 2, 1955, 148-168 p.
+  citata_rodoma: "— Dundulienė, P. : _Arimo įrankiai Lietuvoje feodalizmo laikotarpyje,_\nVUMD, t. 2, 1955, 148-168 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31620
+    - t-001

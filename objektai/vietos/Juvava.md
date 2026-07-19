@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-192876"></a>
 - t-001
-  global_id: t-192876
   teiginys: "477 m. herulai sudegino romėnų koloniją Juvavą prie Saurus upės, kurią Narbutas tapatina su Zalcburgu prie Zalcacho."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175646
-    - c-001
 - susijęs iš [[objektai/ivykiai/Herulų surengtas Juvavos sudeginimas Norike 477 m.md#claim-t-191062|Herulų surengtas Juvavos sudeginimas Norike 477 m]]: 477 m. herulai, Narbuto pasakojimu, Norike sudegino romėnų koloniją Juvavą prie Saurus upės, dabartinio Zalcburgo vietoje.
 - susijęs iš Norikas: Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudegino Juvavą prie Saurus upės.
 - susijęs iš Norikas: Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudegino Juvavą prie Saurus upės.
@@ -74,8 +72,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192876
+
 ## Citatos
 
 - id: c-175646
@@ -94,19 +91,11 @@ media_all_json: |-
     prieš Glicerą. Šitaip nugalėdamas priešus ir siekdamas
     tikros gerovės savo valdiniams, jis nenugalėjo atkakliau­
     sio doros ir kilnumo priešo — pavydo.
-  citata_rodoma: |
-    Beveik tuo pat metu Norike kilo kažkokie neramumai,
-    kurie ir atviliojo ten herulus. 477 metais jie sudegino gar­
-    sią romėnų koloniją Juvavą prie Saurus upės — dabar
-    tai Zalcburgas prie Zalcacho upės.
-    Taigi 478 metais reikėjo saksų priešakyje plaukti į
-    Galiją, kur, jam išsilaipinus prie Ligeros žiočių, tenykš­
-    tis karalius nusižemino ir sudarė sąjungą, kokios iš jo
-    reikalavo Odoakras.
+  citata_rodoma: "Beveik tuo pat metu Norike kilo kažkokie neramumai,\nkurie ir atviliojo ten herulus. 477 metais jie sudegino gar­\nsią romėnų koloniją Juvavą prie Saurus upės — dabar\ntai Zalcburgas prie Zalcacho upės.\nTaigi 478 metais reikėjo saksų priešakyje plaukti į\nGaliją, kur, jam išsilaipinus prie Ligeros žiočių, tenykš­\ntis karalius nusižemino ir sudarė sąjungą, kokios iš jo\nreikalavo Odoakras."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192876
+    - t-001

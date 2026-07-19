@@ -38,7 +38,6 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
 
 <a id="claim-t-191350"></a>
 - t-001
-  global_id: t-191350
   teiginys: "Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir gamtos mįsle, kurią gaubia sunkiai atskleidžiamos uždangos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
 
 <a id="claim-t-191351"></a>
 - t-002
-  global_id: t-191351
   teiginys: "Teodoras Narbutas Kocebo pavartotą Cemptenbece vietovardį taisė į Lemptenburgą ir pažymėjo, kad jo padėtį tiksliai nustatyti sunku."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -77,10 +75,9 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174233
-    - c-002
+
 <a id="claim-t-197770"></a>
 - t-003
-  global_id: t-197770
   teiginys: "Ligi šiol žinoma seniausia sutartis, primenanti dingu sios Sambijos dalies egzistavimą senovėje; ji esanti 1246 metų Kocebaus darbe (t."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -122,8 +119,7 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191351
+
 ## Citatos
 
 - id: c-174232
@@ -150,7 +146,8 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191350
+    - t-001
+
 - id: c-174233
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -168,28 +165,16 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
     pleatur. Norint deramai suprasti šią vietą, labai svarbu
     tiksliai nustatyti Lemptenburgo padėtį (ne Cemptenbece,
     kaip pasakė Kocebus); tiksliai tai padaryti sunku. Viena­
-    me Varmijos vyskupo Anzelmo rašte (Bacho.
-  citata_rodoma: |
-    Tam, kad naujiems šio pajūrio miesto
-    kolonistams būtų garantuotos pastovios valdos, teisėjų
-    valia sutartyje minimos šios sąlygos: Habebunt etiam
-    cives sepedicti medietatem unius tercie partis Sambie,
-    que fratres contingit, quam fratribus dividentibus elege­
-    rint ipsi cives et in Warmia mansas duo milia et quin­
-    gentos a Lemptemburc contra Lipzam mensurandos in
-    litor e in une parte et in altera contra Nat augiam donec
-    in ipsa Warmia contique ipsorum mansorum numerus im­
-    pleatur. Norint deramai suprasti šią vietą, labai svarbu
-    tiksliai nustatyti Lemptenburgo padėtį (ne Cemptenbece,
-    kaip pasakė Kocebus); tiksliai tai padaryti sunku. Viena­
-    me Varmijos vyskupo Anzelmo rašte (Bacho.
+    me Varmijos vyskupo Anzelmo rašte (Bacho. T. 1.
+  citata_rodoma: "Tam, kad naujiems šio pajūrio miesto\nkolonistams būtų garantuotos pastovios valdos, teisėjų\nvalia sutartyje minimos šios sąlygos: Habebunt etiam\ncives sepedicti medietatem unius tercie partis Sambie,\nque fratres contingit, quam fratribus dividentibus elege­\nrint ipsi cives et in Warmia mansas duo milia et quin­\ngentos a Lemptemburc contra Lipzam mensurandos in\nlitor e in une parte et in altera contra Nat augiam donec\nin ipsa Warmia contique ipsorum mansorum numerus im­\npleatur. Norint deramai suprasti šią vietą, labai svarbu\ntiksliai nustatyti Lemptenburgo padėtį (ne Cemptenbece,\nkaip pasakė Kocebus); tiksliai tai padaryti sunku. Viena­\nme Varmijos vyskupo Anzelmo rašte (Bacho."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191351
+    - t-002
+
 - id: c-179332
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -207,4 +192,4 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197770
+    - t-003

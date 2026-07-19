@@ -43,8 +43,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87411"></a>
-- t-001
-  global_id: t-87411
+- t-004
   teiginys: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Jonas Laskis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ media_all_json: |-
     - c-83392
 
 <a id="claim-t-87412"></a>
-- t-002
-  global_id: t-87412
+- t-003
   teiginys: "Vilniaus vyskupas Vaitiekus Taboras ragino ir rėmė miestiečius, apjuosusius Vilnių mūro pylimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ media_all_json: |-
     - c-83393
 
 <a id="claim-t-87413"></a>
-- t-003
-  global_id: t-87413
+- t-001
   teiginys: "Vaitiekus Taboras, lietuvių bajoras nuo Eišiškių, 1491 m. buvo iškeltas į vyskupus ir mirė 1507 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ media_all_json: |-
     - c-83390
 
 <a id="claim-t-87414"></a>
-- t-004
-  global_id: t-87414
+- t-002
   teiginys: "Vilniaus vyskupas Vaitiekus Taboras kartu su graikų tikėjimo dvasininku Foma sutuokė didįjį kunigaikštį su Elena."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,9 +111,8 @@ media_all_json: |-
 
 <a id="claim-t-184852"></a>
 - t-005
-  global_id: t-184852
   teiginys: "Po Vilniaus vyskupo Andriaus mirties jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -135,7 +130,6 @@ media_all_json: |-
 
 <a id="claim-t-184853"></a>
 - t-006
-  global_id: t-184853
   teiginys: "Kojelavičius pasakoja, kad Vaitiekus Taboras meldė Dievo laiminti valstybę, ragino kunigaikštį sekti prosenelių keliu ir uždėjo jam valdžios vainiką."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -173,21 +167,15 @@ media_all_json: |-
     pasaulietinės valdžios nušalinimą nuo dvasinių reikalų, o
     dėl Vilniaus aptvėrimo mūro siena - pirmasis davė mintį
     magistratui ir daug prisidėjo lėšomis. Mirė 1507 metais.
-  citata_rodoma: |
-    10. Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių,
-    iškeltas į vyskupus 1491 metais, šešiolika metų eidamas ga­
-    nytojo pareigas įgijo šalyje didelę įtaką ir pagarsėjo taryboje
-    nuovoka kaip reta kas. Išbaudė iš popiežiaus ir karaliaus
-    pasaulietinės valdžios nušalinimą nuo dvasinių reikalų, o
-    dėl Vilniaus aptvėrimo mūro siena - pirmasis davė mintį
-    magistratui ir daug prisidėjo lėšomis. Mirė 1507 metais.
+  citata_rodoma: "10. Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, \niškeltas į vyskupus 1491 metais, šešiolika metų eidamas ga­\nnytojo pareigas įgijo šalyje didelę įtaką ir pagarsėjo taryboje \nnuovoka kaip reta kas. Išbaudė iš popiežiaus ir karaliaus \npasaulietinės valdžios nušalinimą nuo dvasinių reikalų, o \ndėl Vilniaus aptvėrimo mūro siena - pirmasis davė mintį \nmagistratui ir daug prisidėjo lėšomis. Mirė 1507 metais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87413
+    - t-001
+
 - id: c-83391
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -207,7 +195,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87414
+    - t-002
+
 - id: c-83392
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -227,7 +216,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87411
+    - t-004
+
 - id: c-83393
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -249,7 +239,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87412
+    - t-003
+
 - id: c-168213
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -273,36 +264,15 @@ media_all_json: |-
     dera krikščioniui aprūpintas visais sakramentais, mirė
     birželio 7 d., išgyvenęs šešiasdešimt ketverius metus, o
     Lietuvą valdęs penkiasdešimt dvejus.
-  citata_rodoma: |
-    Keliais mėnesiais
-    anksčiau už karalių mirė Vilniaus vyskupas Andrius,
-    kilęs iš Vilniaus, garsėjęs šventųjų mokslų pažinimu
-    bei proto aštrumu. Jo įpėdiniu tapo šviesiausios kilmės
-    Vaitiekus Taboras.
-
-    ## Puslapis 540
-
-    S e S t a
-    k n y g a
-    APIE LIETUVIŲ PRAEITI, KAI VALDE
-    Šv ie s ia u s ia s is  k u n ig a ik š t is a lek sand ras
-    1492 metai
-    Aleksandras išrenka-
-    Kai Lietuvoje pasklido ži­
-    nia apie karaliaus Kazimiero
-    m a s L ie tu v o s did žiu o -
-    mirtį, gausybė didikų skubiai
-    kaip Simonas Olelkaitis, Slucko kunigaikštis, Alšėnų,
-    Mstislavlio bei Giedraičių kunigaikštiškųjų šeimų gal­
-    vos, Žemaitijos seniūnas Kęsgailą, kunigaikščiai Vosy-
-    lus ir Mykolas Glinskiai.
+  citata_rodoma: "Keliais mėnesiais\nanksčiau už karalių mirė Vilniaus vyskupas Andrius,\nkilęs iš Vilniaus, garsėjęs šventųjų mokslų pažinimu\nbei proto aštrumu. Jo įpėdiniu tapo šviesiausios kilmės\nVaitiekus Taboras.\n\n## Puslapis 540\n\nS e S t a\nk n y g a\nAPIE LIETUVIŲ PRAEITI, KAI VALDE\nŠv ie s ia u s ia s is  k u n ig a ik š t is a lek sand ras\n1492 metai\nAleksandras išrenka-\nKai Lietuvoje pasklido ži­\nnia apie karaliaus Kazimiero\nm a s L ie tu v o s did žiu o -\nmirtį, gausybė didikų skubiai\nkaip Simonas Olelkaitis, Slucko kunigaikštis, Alšėnų,\nMstislavlio bei Giedraičių kunigaikštiškųjų šeimų gal­\nvos, Žemaitijos seniūnas Kęsgailą, kunigaikščiai Vosy-\nlus ir Mykolas Glinskiai."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184852
+    - t-005
+
 - id: c-168214
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -326,4 +296,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184853
+    - t-006

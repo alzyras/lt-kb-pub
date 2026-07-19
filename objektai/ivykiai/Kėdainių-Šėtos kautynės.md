@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41295"></a>
-- t-001
-  global_id: t-41295
+- t-005
   teiginys: "Po Kėdainių-Šėtos kautynių Naujosiose Kėdainių kapinėse buvo palaidota 40 žuvusių lietuvių karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-41296"></a>
 - t-002
-  global_id: t-41296
   teiginys: "Kėdainių gynyba buvo pirmasis Kėdainių įgulos savanorių kovos krikštas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-44906
 
 <a id="claim-t-41297"></a>
-- t-003
-  global_id: t-41297
+- t-001
   teiginys: "Kėdainių gynyboje J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių išskleidė abipus vieškelio Kėdainiai-Šėta ir sustabdė bolševikų puolimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,7 +107,6 @@ Nenurodyta
 
 <a id="claim-t-41298"></a>
 - t-004
-  global_id: t-41298
   teiginys: "Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,8 +126,7 @@ Nenurodyta
     - c-43070
 
 <a id="claim-t-41299"></a>
-- t-005
-  global_id: t-41299
+- t-003
   teiginys: "Prieš Kėdainių-Šėtos kautynes Kėdainių gynėjų vadovybė naktį iš vasario 7 į 8 d. sužinojo, kad bolševikų pajėgos traukiasi Šėtos link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -178,7 +173,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41297
+    - t-001
+
 - id: c-43069
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -202,7 +198,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41299
+    - t-003
+
 - id: c-43070
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -227,7 +224,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41298
+    - t-004
+
 - id: c-44905
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -241,22 +239,15 @@ Nenurodyta
     Lietuviams atiteko kelios dešimtys šautuvų,
 
     1919 m. vasario 7-10 d. KEDAINIU-SETOS KAUTYNES
-  citata_rodoma: |
-    Nukauti
-    bolševikai su visomis kariškomis apeigo-
-    mis buvo palaidoti Didžiojo karo aukų
-    kapinėse. Naujosiose Kėdainių kapinėse
-    buvo palaidoti ir 40 žuvusių lietuvių karių.
-    Lietuviams atiteko kelios dešimtys šautuvų,
-
-    1919 m.
+  citata_rodoma: "Nukauti\nbolševikai su visomis kariškomis apeigo-\nmis buvo palaidoti Didžiojo karo aukų\nkapinėse. Naujosiose Kėdainių kapinėse\nbuvo palaidoti ir 40 žuvusių lietuvių karių.\nLietuviams atiteko kelios dešimtys šautuvų,\n\n1919 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41295
+    - t-005
+
 - id: c-44906
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -277,19 +268,11 @@ Nenurodyta
     tarp bolševikų ir Šilginėlių
     kaime buvusios lietuvių
     sargybos įvyko smarkus
-  citata_rodoma: |
-    Toks buvo
-    pirmasis Kėdainių įgulos sava-
-    norių kovos krikštas.
-    Raudonarmiečiai,
-    matydami, jog jų
-    artilerija lietuvių
-
-    Dar tą pačią vasario 7 d.
+  citata_rodoma: "Toks buvo\npirmasis Kėdainių įgulos sava-\nnorių kovos krikštas.\nRaudonarmiečiai,\nmatydami, jog jų\nartilerija lietuvių\n\nDar tą pačią vasario 7 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41296
+    - t-002

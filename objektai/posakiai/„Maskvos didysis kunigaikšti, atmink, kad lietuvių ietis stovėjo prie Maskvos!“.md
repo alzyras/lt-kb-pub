@@ -38,8 +38,7 @@ Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo pasiu
 ## Teiginiai
 
 <a id="claim-t-41484"></a>
-- t-001
-  global_id: t-41484
+- t-002
   teiginys: "Prijojęs prie Maskvos miesto sienos, Algirdas atrėmė į ją ietį ir priminė, kad lietuvių ietis stovėjo prie Maskvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo pasiu
     - c-44976
 
 <a id="claim-t-41485"></a>
-- t-002
-  global_id: t-41485
+- t-001
   teiginys: "Algirdas Maskvos valdovo pasiuntiniui pareiškė, kad per Velykas atrems savo ietį į Maskvos Kremliaus sieną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,7 +99,8 @@ Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo pasiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41485
+    - t-001
+
 - id: c-44976
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -119,21 +118,11 @@ Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo pasiu
     kirviai
 
     1368, 1370, 1372 m.
-  citata_rodoma: |
-    “
-
-    Ir, užšokęs ant žirgo, paėmė ietį rankon, prijojo prie miesto ir atrėmė savo ietį įsieną, 0
-    nujodamas didžiu balsu sušuko: „Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis
-    stovėjo prie Maskvos!“
-
-    Kovos
-    kirviai
-
-    1368, 1370, 1372 m.
+  citata_rodoma: "“\n\nIr, užšokęs ant žirgo, paėmė ietį rankon, prijojo prie miesto ir atrėmė savo ietį įsieną, 0\nnujodamas didžiu balsu sušuko: „Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis\nstovėjo prie Maskvos!“\n\nKovos\nkirviai\n\n1368, 1370, 1372 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41484
+    - t-002

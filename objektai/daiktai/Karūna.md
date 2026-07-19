@@ -64,7 +64,6 @@ Nenurodyta
 
 <a id="claim-t-12301"></a>
 - t-001
-  global_id: t-12301
   teiginys: "Cigala ir Rothas ragino Vytautą karūnuotis ir patarė kaldinti karūnas Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -81,8 +80,7 @@ Nenurodyta
     - c-170002
 
 <a id="claim-t-186813"></a>
-- t-002
-  global_id: t-186813
+- t-003
   teiginys: "Vytautas laiške Zigmantui rašė, kad Zigmantas galėsiąs siųsti jam karūną tiesiog per Lenkiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -99,8 +97,7 @@ Nenurodyta
     - c-169997
 
 <a id="claim-t-186814"></a>
-- t-003
-  global_id: t-186814
+- t-004
   teiginys: "Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -117,8 +114,7 @@ Nenurodyta
     - c-170001
 
 <a id="claim-t-186815"></a>
-- t-004
-  global_id: t-186815
+- t-006
   teiginys: "Vytautas Didysis buvo vaizduojamas kaip Žalgirio mūšio laimėtojas ir Lietuvos karaliaus karūnos siekęs valdovas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -136,7 +132,6 @@ Nenurodyta
 
 <a id="claim-t-186816"></a>
 - t-005
-  global_id: t-186816
   teiginys: "Mindaugo krikšto svarbiausias tikslas buvo karūna, kurią jis pasiekė 1253 m. liepos 6 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -155,8 +150,7 @@ Nenurodyta
     - c-169999
 
 <a id="claim-t-186819"></a>
-- t-006
-  global_id: t-186819
+- t-020
   teiginys: "Komentare nurodoma, kad šiame šaltinyje minima legenda, kad Vytauto vainikas buvo sulydytas į Krokuvos vyskupų mitrą; Šiame gabale Vytauto karūna minima kaip vėlyvesnių politinių pretenzijų ir atminties objektas."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -176,8 +170,7 @@ Nenurodyta
     - c-169996
 
 <a id="claim-t-186821"></a>
-- t-007
-  global_id: t-186821
+- t-002
   teiginys: "Po ilgo pamokslo Olesnickis pasiūlė Vytautui Jogailos karūną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -187,8 +180,7 @@ Nenurodyta
     - c-170005
 
 <a id="claim-t-194984"></a>
-- t-008
-  global_id: t-194984
+- t-021
   teiginys: "Visu savo veikimu jis reiškėsi kaip didis kara lius, bet mirtis sutrukdė jam užsidėti karališką karūną."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -407,19 +399,15 @@ Nenurodyta
     sispindi ir 1526 m. LDK atstovų reikalavime, kad Lenkijos karalius
     ir Ldk 2ygtmanlas Senasis vainikuotų savo sūnų Žygimantą Au­
     gustą Krokuvoje esančia ar turinčia būti Vytauto karūna.
-  citata_rodoma: |
-    *  Versija apie Vytauto vainiko sulydymą su Krokuvos vyskupų
-    mitra yra, veikiausiai, legenda, Išlikusi ligi XVI a. pradžios. JI at­
-    sispindi ir 1526 m. LDK atstovų reikalavime, kad Lenkijos karalius
-    ir Ldk 2ygtmanlas Senasis vainikuotų savo sūnų Žygimantą Au­
-    gustą Krokuvoje esančia ar turinčia būti Vytauto karūna.
+  citata_rodoma: "*  Versija apie Vytauto vainiko sulydymą su Krokuvos vyskupų \nmitra yra, veikiausiai, legenda, Išlikusi ligi XVI a. pradžios. JI at­\nsispindi ir 1526 m. LDK atstovų reikalavime, kad Lenkijos karalius \nir Ldk 2ygtmanlas Senasis vainikuotų savo sūnų Žygimantą Au­\ngustą Krokuvoje esančia ar turinčia būti Vytauto karūna."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186819
+    - t-020
+
 - id: c-169997
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -433,21 +421,15 @@ Nenurodyta
     tikimą, nes tuo laiku Vytautas viename savo laiške Zigmantui
     rašo, kad jis dabar galėsiąs jam siųsti karūną tiesiog per
     Lenkiją^4 ).
-  citata_rodoma: |
-    Kitus Jogailos pa­
-    lydovus Vytautui pasisekė patraukti savo pusėn^2 ). Bet ir tai nie­
-    ko nepadėjo. Tada dar kartą nutarta kreiptis į likusią Lenkijoj
-    karališką tarybą^3 ) ir, matyt, jau tikrai tikėtasi gauti iš jos su­
-    tikimą, nes tuo laiku Vytautas viename savo laiške Zigmantui
-    rašo, kad jis dabar galėsiąs jam siųsti karūną tiesiog per
-    Lenkiją^4 ).
+  citata_rodoma: "Kitus Jogailos pa­\nlydovus Vytautui pasisekė patraukti savo pusėn^2 ). Bet ir tai nie­\nko nepadėjo. Tada dar kartą nutarta kreiptis į likusią Lenkijoj\nkarališką tarybą^3 ) ir, matyt, jau tikrai tikėtasi gauti iš jos su­\ntikimą, nes tuo laiku Vytautas viename savo laiške Zigmantui\nrašo, kad jis dabar galėsiąs jam siųsti karūną tiesiog per\nLenkiją^4 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186813
+    - t-003
+
 - id: c-169999
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -458,19 +440,15 @@ Nenurodyta
     rūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
     dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
     mas ir vienintelis vainikuotas Lietuvos karalius.
-  citata_rodoma: |
-    1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
-    jos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
-    rūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
-    dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
-    mas ir vienintelis vainikuotas Lietuvos karalius.
+  citata_rodoma: "1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-\njos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-\nrūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo\ndienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-\nmas ir vienintelis vainikuotas Lietuvos karalius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186816
+    - t-005
+
 - id: c-170001
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -483,21 +461,15 @@ Nenurodyta
     tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
     tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
     mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
-  citata_rodoma: |
-    Nors nebus nė vieno kunigaikščio,
-    kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
-    leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
-    nuo krikščionybės. Lietuva liks savarankiška civilizacinė monada, todėl
-    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
-    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
-    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
+  citata_rodoma: "Nors nebus nė vieno kunigaikščio,\nkuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-\nleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą\nnuo krikščionybės. Lietuva liks savarankiška civilizacinė monada, todėl\ntiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-\ntur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps\nmandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186814
+    - t-004
+
 - id: c-170002
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -508,18 +480,15 @@ Nenurodyta
     gacija^6 ). Čia dar tebebuvo ir Cigala ir Rothas, kurie nesi­
     liovė Vytautą įkalbinėt karūnuotis, patardami kaldinti Vilniuj
     karūnas ir jomis karūnuotis. Tą ir pats Zigmantas esą patvirtintų.
-  citata_rodoma: |
-    Tuo tarpu atvyko į Vilnių ir lenkų dele­
-    gacija^6 ). Čia dar tebebuvo ir Cigala ir Rothas, kurie nesi­
-    liovė Vytautą įkalbinėt karūnuotis, patardami kaldinti Vilniuj
-    karūnas ir jomis karūnuotis. Tą ir pats Zigmantas esą patvirtintų.
+  citata_rodoma: "Tuo tarpu atvyko į Vilnių ir lenkų dele­\ngacija^6 ). Čia dar tebebuvo ir Cigala ir Rothas, kurie nesi­\nliovė Vytautą įkalbinėt karūnuotis, patardami kaldinti Vilniuj\nkarūnas ir jomis karūnuotis. Tą ir pats Zigmantas esą patvirtintų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12301
+    - t-001
+
 - id: c-170003
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -529,18 +498,15 @@ Nenurodyta
     Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys,
     laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai
     karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...
-  citata_rodoma: |
-    Gerbti ir garbinti
-    Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys,
-    laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai
-    karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...
+  citata_rodoma: "Gerbti ir garbinti\nVytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys,\nlaimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai\nkaraliaus karūnos, kurią „nugvelbė“ klastingi lenkai..."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186815
+    - t-006
+
 - id: c-170005
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -553,20 +519,15 @@ Nenurodyta
     Pasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­
     siūlė Vytautui Jogailos karūną^2 ). Toks sumanymas, matyt, bu­
     vo priimtas paskutiniame Sandomiriaus suvažiavime.
-  citata_rodoma: |
-    Tad ir kilęs karas, galvojant taip, kaip galvojo Olesnic­
-    kis, kažin keno naudai būtų pasibaigęs.
-
-    Pasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­
-    siūlė Vytautui Jogailos karūną^2 ). Toks sumanymas, matyt, bu­
-    vo priimtas paskutiniame Sandomiriaus suvažiavime.
+  citata_rodoma: "Tad ir kilęs karas, galvojant taip, kaip galvojo Olesnic­\nkis, kažin keno naudai būtų pasibaigęs.\n\nPasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­\nsiūlė Vytautui Jogailos karūną^2 ). Toks sumanymas, matyt, bu­\nvo priimtas paskutiniame Sandomiriaus suvažiavime."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186821
+    - t-002
+
 - id: c-177369
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -585,4 +546,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194984
+    - t-021

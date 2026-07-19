@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201313"></a>
 - t-001
-  global_id: t-201313
   teiginys: "Po nuopuolio kryžėjų ties pilė Baiga, arba Oneda."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184663
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Po nuopuolio kry-
     žėjų ties pilė Baiga, arba Oneda. Jau praėjusį metą
@@ -85,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201313
+    - t-001

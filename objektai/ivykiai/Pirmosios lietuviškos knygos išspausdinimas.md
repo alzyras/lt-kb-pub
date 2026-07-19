@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20457"></a>
 - t-001
-  global_id: t-20457
   teiginys: "1547 m. Karaliaučiuje išspausdintas Martyno Mažvydo „Katekizmas“ buvo pirmoji knyga lietuvių kalba, skirta lietuviams ir Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,12 +83,11 @@ Nenurodyta
     gai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-
     dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. LDK
     visuomenė tuo metu nebuvo pribrendusi lietuviakalbei knygai.
-  citata_rodoma: |
-    dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. LDK
+  citata_rodoma: "dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. LDK"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20457
+    - t-001

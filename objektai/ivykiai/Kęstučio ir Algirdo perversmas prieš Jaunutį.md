@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-187492"></a>
 - t-001
-  global_id: t-187492
   teiginys: "Mokslinėje literatūroje pradinė Platesniojo sąvado dalis iki 1345 m. Kęstučio ir Algirdo sąmokslo prieš Jaunutį vadinama legendine."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "gap::events"
@@ -80,8 +79,7 @@ Nenurodyta
     - c-170453
 
 <a id="claim-t-187494"></a>
-- t-003
-  global_id: t-187494
+- t-002
   teiginys: "Kęstučio ir Algirdo sąmokslas prieš brolį Jaunutį datuojamas 1345 metais."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -101,18 +99,6 @@ Nenurodyta
   pagrindžia:
     - c-170453
 
-<a id="claim-t-187493"></a>
-- t-002
-  global_id: t-187493
-  teiginys: 'Kai kuriuose Platesniojo sąvado nuorašuose po 1345 m. Kęstučio ir Algirdo perversmo įdėtas Algirdo sūnų ir jų valdų išskaičiavimas.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys jau yra gramatinis sakinys su aiškiu subjektu, veiksmo vieta tekste ir papildymo turiniu. Jis tiesiogiai remiasi citata ir nereikalauja papildomos interpretacinės atribucijos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: po 1345 m.; įvykio data: 1345 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija, kuriuose nuorašuose po perversmo buvo įdėtas papildymas. Nepridėta Algirdo žygio į Maskvą legenda, nes ji yra atskiras citatos kontekstas.'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai kuriuose Platesniojo sąvado nuorašuose po 1345 m. Kęstučio ir Algirdo perversmo įdėtas Algirdo sūnų ir jų valdų išskaičiavimas.'
@@ -137,11 +123,9 @@ Nenurodyta
     se, o tik Bychovco kronikoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187493
+  statusas: verified
 ## Citatos
 
 - id: c-170453
@@ -158,17 +142,12 @@ Nenurodyta
     dalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks­
     lo prieš brolį Jaunutį (1345 m.) taip pat vadinama le­
     gendine.
-  citata_rodoma: |
-    Mokslinėje literatūroje toji istorija vadinama le-
-    gendine. Todėl ir pradinė Platesniojo sąvado teksto
-    dalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks-
-    lo prieš brolį Jaunutį (1345 m.) taip pat vadinama le-
-    gendine.
+  citata_rodoma: "Mokslinėje literatūroje toji istorija vadinama le-\ngendine. Todėl ir pradinė Platesniojo sąvado teksto \ndalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks-\nlo prieš brolį Jaunutį (1345 m.) taip pat vadinama le-\ngendine."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187492
-    - t-187494
+    - t-001
+    - t-002

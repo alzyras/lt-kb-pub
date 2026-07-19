@@ -31,7 +31,6 @@ Dusburgietis teigia, kad pasakojimą apie krikščionių pergalę kartais linkst
 
 <a id="claim-t-60734"></a>
 - t-001
-  global_id: t-60734
   teiginys: "S. Kujot Dusburgiečio pasakojimą apie krikščionių pergalę siejo su įvykius pagražinančiu prasimanymu arba vėlesne tradicija."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Dusburgietis teigia, kad pasakojimą apie krikščionių pergalę kartais linkst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60734
+    - t-001

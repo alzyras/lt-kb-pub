@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-186324"></a>
 - t-001
-  global_id: t-186324
   teiginys: "Žygimanto Kęstutaičio pakėlimo aktuose numatyta laikytis Lietuvos ir Lenkijos unijos ir nesiekti karaliaus titulo be Lenkijos pritarimo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186324
+    - t-001

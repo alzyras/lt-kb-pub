@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-40177"></a>
 - t-001
-  global_id: t-40177
   teiginys: "1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,21 +79,14 @@ media_all_json: |-
     Livonijos, Žiemgalos, Kuršo ir Estijos
     kraštus, paskelbė kryžiaus žygį didelėje
     Šiaurės Vokietijos dalyje nuo Oderio iki
-  citata_rodoma: |
-    1234 m. rusų ku-
-    nigaikštis Jaroslavas ir Naugardas sudarė
-    prieš Lietuva nukreiptą taiką su vokiečiais
-    (kalavijuočiais).
-
-    Mūšio išvakarėse
-
-    1236 m.
+  citata_rodoma: "1234 m. rusų ku-\nnigaikštis Jaroslavas ir Naugardas sudarė\nprieš Lietuva nukreiptą taiką su vokiečiais\n(kalavijuočiais).\n\nMūšio išvakarėse\n\n1236 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40177
+    - t-001
+
 ## Ryšiai
 - Jaroslavas (rusų kunigaikštis, 1234 m.) sudarė sutartį su [[objektai/grupes/Kalavijuočių ordinas]]

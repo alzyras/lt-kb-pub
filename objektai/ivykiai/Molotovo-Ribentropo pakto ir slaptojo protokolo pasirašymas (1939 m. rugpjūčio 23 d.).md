@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20426"></a>
 - t-001
-  global_id: t-20426
   teiginys: "1939 m. rugpjūčio 23 d. Vokietija ir SSRS slaptuoju protokolu pasidalijo regioną įtakos sferomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,12 +87,11 @@ Nenurodyta
     sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS
     pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-
     mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
-  citata_rodoma: |
-    mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
+  citata_rodoma: "mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20426
+    - t-001

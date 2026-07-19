@@ -36,7 +36,6 @@ p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Li
 
 <a id="claim-t-41576"></a>
 - t-001
-  global_id: t-41576
   teiginys: "Rerum Moscoviticarum Commentarii 1556 m. Bazelyje išleido Ioannes Oporinus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41576
+    - t-001

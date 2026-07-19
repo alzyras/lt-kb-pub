@@ -37,8 +37,7 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 ## Teiginiai
 
 <a id="claim-t-81605"></a>
-- t-001
-  global_id: t-81605
+- t-002
   teiginys: "Rygos miestiečiai ir jų arkivyskupas skelbė žinią, esą Gediminas su saviškiais noriai priimtų krikštą ir tikėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
     - c-78197
 
 <a id="claim-t-183892"></a>
-- t-002
-  global_id: t-183892
+- t-003
   teiginys: "1330 m. apie Velykas Rygos miestiečiai patikėjo miestą, šeimas, laisves, teises ir privilegijas Livonijos magistrui Eberhardui iš Manheimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -112,36 +110,15 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
     noriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai
     nenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų
     Sostui].
-  citata_rodoma: |
-    "
-    Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas
-    ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­
-    tams bei popiežiui ir platino melagingą žinią, jog Gedimi­
-    nas norėjęs krikštytis.
-    Epitomatorius  nurodo tiesiai: Cives Rigenses et
-    Archiepiscopus eorum tunc Rome adhuc contra fratres in Lyvo-
-    nia dissidiantur et in omnibus civitatibus et locis maritimis notifi-
-    cant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum
-    91
-
-    ## Puslapis 108
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    baptisma et fidem libenter cum suis susciperent, sed fratres nollet
-    eos suscipere, et idem intimant litteris apostołko [Rygos mies­
-    tiečiai ir jų arkivyskupas anuomet dar Romoje ir Livonijoje
-    prieš brolius nesantaiką sėjo ir visuose pajūrio miestuose ir
-    vietovėse platino ir skelbė, esą rutėnų ir lietuvių karalius
-    noriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai
-    nenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų
-    Sostui].
+  citata_rodoma: "\"\nTaigi Jerošinas puikiausiai žinojo, kad arkivyskupas \nir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­\ntams bei popiežiui ir platino melagingą žinią, jog Gedimi­\nnas norėjęs krikštytis.\nEpitomatorius  nurodo tiesiai: Cives Rigenses et \nArchiepiscopus eorum tunc Rome adhuc contra fratres in Lyvo- \nnia dissidiantur et in omnibus civitatibus et locis maritimis notifi- \ncant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum\n91\n\n## Puslapis 108\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nbaptisma et fidem libenter cum suis susciperent, sed fratres nollet \neos suscipere, et idem intimant litteris apostołko [Rygos mies­\ntiečiai ir jų arkivyskupas anuomet dar Romoje ir Livonijoje \nprieš brolius nesantaiką sėjo ir visuose pajūrio miestuose ir \nvietovėse platino ir skelbė, esą rutėnų ir lietuvių karalius \nnoriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai \nnenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų \nSostui]."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81605
+    - t-002
+
 - id: c-167277
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -164,4 +141,4 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183892
+    - t-003

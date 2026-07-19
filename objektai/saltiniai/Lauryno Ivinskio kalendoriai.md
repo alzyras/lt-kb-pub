@@ -30,7 +30,6 @@ Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
 
 <a id="claim-t-88438"></a>
 - t-001
-  global_id: t-88438
   teiginys: "M. Balinskis Gazeta Warszawska straipsniuose skaitytojams pristatė Lauryno Ivinskio kalendorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,15 +59,11 @@ Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
     Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio.
-  citata_rodoma: |
-    M. Balinskis
-    supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
-    rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
-    Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio.
+  citata_rodoma: "M. Balinskis \nsupažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­\nrolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais. \nŠios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88438
+    - t-001

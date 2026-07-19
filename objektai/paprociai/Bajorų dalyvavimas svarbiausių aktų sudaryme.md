@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05337"></a>
-- t-001
-  global_id: t-05337
+- t-003
   teiginys: "1401 m. Vilniaus susitarimuose išvardyti bajorai ir pareigūnai turėjo būti ne tik liudininkai, bet ir garantai."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-05408
 
 <a id="claim-t-71791"></a>
-- t-002
-  global_id: t-71791
+- t-005
   teiginys: "Horodlės suvažiavimo nutarimai buvo surašyti valdovų ir abiejų valstybių bajorų dokumentuose."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -93,27 +91,16 @@ Nenurodyta
     - c-70302
 
 <a id="claim-t-71795"></a>
-- t-003
-  global_id: t-71795
+- t-001
   teiginys: "Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bajorų dalyvavimas svarbiausių aktų sudaryme: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajorų dalyvavimas svarbiausių aktų sudaryme\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-37102
-    - c-37103
     - c-70300
 
 <a id="claim-t-71796"></a>
-- t-004
-  global_id: t-71796
+- t-007
   teiginys: "1401 m. Vilniaus susitarimuose Lietuvos bajorai pirmą kartą unijų istorijoje surašė atskirą aktą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -151,8 +138,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05337
-    - t-71796
+    - t-003
+    - t-007
+
 - id: c-37102
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -166,19 +154,13 @@ Nenurodyta
     šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
     teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
     teisę seniau.
-  citata_rodoma: |
-    Lie­
-    tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei
-    šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
-    teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
-    teisę seniau.
+  citata_rodoma: "Lie­\ntuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei\nšis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna\nteisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą\nteisę seniau."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-71795
 - id: c-37103
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -194,11 +176,10 @@ Nenurodyta
     Dabar toji visuomenė davė unijai savo sankciją^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-71795
 - id: c-70300
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -212,17 +193,15 @@ Nenurodyta
     brėžti, kaip valdomojo su aukštesniu perdėtiniu^1 ). Lenkų ponų
     taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
     kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija.
-  citata_rodoma: |
-    Lenkų ponų
-    taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
-    kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija.
+  citata_rodoma: "Lenkų ponų\ntaryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­\nkams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71795
+    - t-001
+
 - id: c-70302
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -235,16 +214,11 @@ Nenurodyta
     Horodlėje. Suvažiavimo nutarimai buvo surašyti trijuose do-
     kumentuose: vienas bendras dokumentas buvo Jogailos ir Vy-
     tauto ir po vieną dokumentą abiejų valstybių bajorų.
-  citata_rodoma: |
-    Visa tai buvo sutarta
-    bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime
-    Horodlėje. Suvažiavimo nutarimai buvo surašyti trijuose do-
-    kumentuose: vienas bendras dokumentas buvo Jogailos ir Vy-
-    tauto ir po vieną dokumentą abiejų valstybių bajorų.
+  citata_rodoma: "Visa tai buvo sutarta\nbendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime\nHorodlėje. Suvažiavimo nutarimai buvo surašyti trijuose do-\nkumentuose: vienas bendras dokumentas buvo Jogailos ir Vy-\ntauto ir po vieną dokumentą abiejų valstybių bajorų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71791
+    - t-005

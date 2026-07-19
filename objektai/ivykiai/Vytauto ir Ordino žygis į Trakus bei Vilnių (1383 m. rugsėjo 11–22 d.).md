@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-35908"></a>
 - t-001
-  global_id: t-35908
   teiginys: "Vokiečių Ordino kariuomenei pasitraukus iš Lietuvos, Jogaila ir Skirgaila 1383 m. rugsėjo 25 d. ėmėsi veiksmų prieš Trakus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35908
+    - t-001

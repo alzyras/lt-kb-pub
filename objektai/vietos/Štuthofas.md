@@ -36,8 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-77721"></a>
-- t-001
-  global_id: t-77721
+- t-004
   teiginys: "Keršydamas už lietuvių pogrindžio boikotą, gestapas 1943 m. kovo viduryje išvežė 46 Lietuvos visuomenės veikėjus į Štuthofą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ media_all_json: |-
     - c-24635
 
 <a id="claim-t-77722"></a>
-- t-002
-  global_id: t-77722
+- t-003
   teiginys: "1943 m. kovo viduryje gestapas suėmė 46 Lietuvos visuomenės veikėjus ir išvežė juos į Štuthofo koncentracijos stovyklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,17 +100,12 @@ media_all_json: |-
     klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
     suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
     grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
-  citata_rodoma: |
-    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
-    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
-    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
-    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
-    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
+  citata_rodoma: "Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė \n46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-\nklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., \nsuėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA \ngrupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77721
-    - t-77722
+    - t-004
+    - t-003

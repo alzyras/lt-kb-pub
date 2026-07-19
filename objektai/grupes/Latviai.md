@@ -47,8 +47,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 ## Teiginiai
 
 <a id="claim-t-169584"></a>
-- t-001
-  global_id: t-169584
+- t-011
   teiginys: "Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie deramai vadinami Lethigalli."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - c-31151
 
 <a id="claim-t-169585"></a>
-- t-002
-  global_id: t-169585
+- t-007
   teiginys: "Balinskis latvius priskyrė vienai iš šešių pagrindinių lietuvių tautos atšakų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - c-154294
 
 <a id="claim-t-169586"></a>
-- t-003
-  global_id: t-169586
+- t-012
   teiginys: "II tūkstantmečio pradžioje latviai pradėjo formuotis kartu su prūsų, jotvingių ir lietuvių tautomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - c-154292
 
 <a id="claim-t-169587"></a>
-- t-004
-  global_id: t-169587
+- t-008
   teiginys: "Kronikoje vaizduojamu laikotarpiu latviai, lietuviai ir prūsai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -116,8 +112,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - c-154296
 
 <a id="claim-t-169588"></a>
-- t-005
-  global_id: t-169588
+- t-010
   teiginys: "Latviai asimiliavo dalį išnykusių kuršių, žiemgalių ir sėlių kilčių teritorijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,7 +129,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 
 <a id="claim-t-169589"></a>
 - t-006
-  global_id: t-169589
   teiginys: "Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet’gola."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -150,8 +144,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - c-31151
 
 <a id="claim-t-169591"></a>
-- t-007
-  global_id: t-169591
+- t-002
   teiginys: "XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -168,8 +161,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - c-154293
 
 <a id="claim-t-169592"></a>
-- t-008
-  global_id: t-169592
+- t-001
   teiginys: "Tikrieji latviai naujojo geležies amžiaus pradžioje pradėjo ryškiau kalbiškai skirtis nuo lietuvių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -185,8 +177,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - c-31151
 
 <a id="claim-t-184516"></a>
-- t-009
-  global_id: t-184516
+- t-013
   teiginys: "Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -206,12 +197,11 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie latvių padėtį Livonijos vidaus karo metu."
   pagrindžia:
     - c-167877
-    - c-007
+
 <a id="claim-t-188221"></a>
-- t-010
-  global_id: t-188221
+- t-003
   teiginys: "Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu ir padavimu apie supykusio Likimo plakamos žemės drebėjimą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -226,12 +216,11 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171115
-    - c-008
+
 <a id="claim-t-188222"></a>
-- t-011
-  global_id: t-188222
+- t-004
   teiginys: "Narbutas sprendė, kad latviai Bubbulį vaizdavo baisų, nes vaikams gąsdinti sakydavo: „Ateina Bubbulis - paims, pagriebs“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -245,32 +234,30 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171116
-    - c-009
+    - c-171123
+
 <a id="claim-t-188223"></a>
-- t-012
-  global_id: t-188223
+- t-005
   teiginys: "Pasak Stenderio, latviai kiekvieną deivę vadino motina, o dievą - tėvu, todėl mitus siejo su vyriškąja ir moteriškąja dievybės lytimis."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Henrikas: 0.83"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Henrikas: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
-    - c-171117
-    - c-010
+    - c-171118
+
 <a id="claim-t-188224"></a>
-- t-013
-  global_id: t-188224
+- t-009
   teiginys: "Narbutas rašė, kad latviai šią dievybę žinojo kaip Pilviką (Pelwihkse), kitaip vadinamą Szkahde."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -290,9 +277,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 
 <a id="claim-t-188225"></a>
 - t-014
-  global_id: t-188225
   teiginys: "Pasak Rusovo, latvių jaunimas garbino deivę Dahkla kaip laisvės ir vyriškumo globėją."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -308,31 +294,23 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171119
-    - c-012
+
 <a id="claim-t-188226"></a>
 - t-015
-  global_id: t-188226
   teiginys: "Narbutas rašė, kad latviai mirusiųjų valdovę vadino Welli-Deewa, o šios deivės apeigos sietos su laidotuvėmis ir Vėlinėmis."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171120
-    - c-013
+    - c-171123
+    - c-171124
+
 <a id="claim-t-188227"></a>
 - t-016
-  global_id: t-188227
   teiginys: "Pasak Stenderio, latviai turėjo deivę Dyža arba Dysza, kuri savo ypatybėmis visiškai atitiko Pergrubę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -350,12 +328,11 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171121
-    - c-014
+
 <a id="claim-t-188228"></a>
 - t-017
-  global_id: t-188228
   teiginys: "Narbutas teigė, kad latvių sapnų aiškinimai turėjo ypatingų ir kartais skirtingų bruožų."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -371,12 +348,11 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171122
-    - c-015
+
 <a id="claim-t-188229"></a>
 - t-018
-  global_id: t-188229
   teiginys: "Narbutas manė, kad Mėšlų bobą, namų šiukšlių globėją, žinojo tik latviai."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -391,12 +367,12 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-016
+    - c-171123
+
 <a id="claim-t-188230"></a>
 - t-019
-  global_id: t-188230
   teiginys: "Narbutas rašė, kad latviai turėjo bičių dievybę, vadinamą Uhsinsz arba Szwets uhsinsz."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -411,13 +387,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171124
     - c-171123
+    - c-171124
+
 <a id="claim-t-188231"></a>
 - t-020
-  global_id: t-188231
   teiginys: "Narbutas rašė, kad atminimas apie Žemės motinos garbinimą išliko tik Latvijoje."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -433,10 +409,9 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171125
-    - c-018
+
 <a id="claim-t-188232"></a>
 - t-021
-  global_id: t-188232
   teiginys: "Pasak Stenderio, latviai Datoną vadino Pilnyčiu (Pilnitis)."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -450,28 +425,19 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 
 <a id="claim-t-188233"></a>
 - t-022
-  global_id: t-188233
   teiginys: "Narbutas rašė, kad latviai Girystį vadino Meszu Deews, miškų dievu, arba Meschu Wihrs, miškiniu žmogumi."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Ksaveras Bogušas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Ksaveras Bogušas: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Ksaveras Bogušas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171127
-    - c-020
+    - c-171115
+
 <a id="claim-t-188234"></a>
 - t-023
-  global_id: t-188234
   teiginys: "Narbutas rašė, kad Latvijos kaimiečiai šiaurės pašvaistę aiškino posakiu „Johdi Kaujahs“, reiškiančiu, kad dvasios kaunasi."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -492,7 +458,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 
 <a id="claim-t-188235"></a>
 - t-024
-  global_id: t-188235
   teiginys: "Narbutas rašė, kad latviai Saulės aptemimą vadino Majtaszana arba Saules majtaszana, Saulės gadinimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -506,7 +471,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 
 <a id="claim-t-188236"></a>
 - t-025
-  global_id: t-188236
   teiginys: "Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -527,7 +491,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 
 <a id="claim-t-188237"></a>
 - t-026
-  global_id: t-188237
   teiginys: "Narbutas nurodė, kad latviai pasakojimuose lapę vadino kapsu Kuhmina, o vilką - Wilks snohts."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -541,7 +504,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 
 <a id="claim-t-188238"></a>
 - t-027
-  global_id: t-188238
   teiginys: "Narbutas rašė, kad latviai murgiais vadino karuose už tėvynę žuvusių didvyrių šmėklas, kurių būstinė buvo danguje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -552,31 +514,9 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171132
-    - c-025
-<a id="claim-t-188239"></a>
-- t-028
-  global_id: t-188239
-  teiginys: "Narbutas rašė, kad latviai kai kurias upes laikė šventomis, o XVII a. Livonijoje dėl Vyhandės upelio užtvenkimo kilo maištas."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171133
-    - c-026
+
 <a id="claim-t-188240"></a>
 - t-029
-  global_id: t-188240
   teiginys: "Narbutas aiškino, kad latviams Barnis reiškė tikrąjį burtininką ir buvo siejamas su žodžiu Bart - kerėti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -597,30 +537,21 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 
 <a id="claim-t-188241"></a>
 - t-030
-  global_id: t-188241
   teiginys: "Narbutas rašė, kad latviai vilkolakiu (Wilkats) vadino kerėtoją, mokantį pasiversti vilku."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171135
-    - c-028
+    - c-171129
+
 <a id="claim-t-188242"></a>
 - t-031
-  global_id: t-188242
   teiginys: "Narbutas lygino alaus pavadinimus ir nurodė, kad latviai šį gėrimą vadino Alius."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -636,31 +567,22 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171136
-    - c-029
+
 <a id="claim-t-188244"></a>
-- t-032
-  global_id: t-188244
+- t-033
   teiginys: "Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus vadino milžinkapiais, Milsu Kappi."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171138
-    - c-031
+    - c-171130
+
 <a id="claim-t-188245"></a>
-- t-033
-  global_id: t-188245
+- t-034
   teiginys: "Narbutas prieštaravo Mechovitai, pabrėždamas, kad latviai tebekalba savo kalba ir tobulina jos raštą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -673,10 +595,9 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - c-171139
 
 <a id="claim-t-192419"></a>
-- t-034
-  global_id: t-192419
+- t-035
   teiginys: "Teodoras Narbutas spėjo, kad Latvijos pradžią galėjo lemti jos atskyrimas nuo viengenčių lietuvių ir prūsų."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -692,10 +613,9 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175213
-    - c-033
+
 <a id="claim-t-192420"></a>
-- t-035
-  global_id: t-192420
+- t-036
   teiginys: "Teodoras Narbutas latvių kalbos skirtumą nuo estų grindė Stenderio žodžiais apie latvių ir estų nesimaišymą Kurše."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -713,10 +633,9 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175214
-    - c-034
+
 <a id="claim-t-192421"></a>
-- t-036
-  global_id: t-192421
+- t-037
   teiginys: "Teodoro Narbuto aprašyme Infliantų, arba Livonijos, Latvija buvo Dauguvos žemupyje, abiejose jos pakrantėse."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -735,7 +654,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175215
-    - c-035
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189993|Frydrichas Stenderis]]: Narbutas vertina, kad Stenderis savo latvių mitologijos straipsniuose pateikė klaidingas išvadas ir nutolo nuo esmės bei tiesos.
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189994|Frydrichas Stenderis]]: Narbutas nurodo Stenderio pastabą, kad latviai turėjo deivę Dyžą arba Dyszą, kuri savybėmis atitikusi Pergrubę.
 - susijęs iš [[objektai/asmenys/Henrikas Latvis.md#claim-t-190100|Henrikas Latvis]]: Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio, kurio valdžią pats Narbutas sieja su tuo kraštu.
@@ -999,8 +917,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184516
 - c-008
   santrauka: 'Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu ir padavimu apie supykusio Likimo plakamos žemės drebėjimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1018,8 +934,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188221
 - c-009
   santrauka: 'Narbutas sprendė, kad latviai Bubbulį vaizdavo baisų, nes vaikams gąsdinti sakydavo: „Ateina Bubbulis - paims, pagriebs“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1035,8 +949,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188222
 - c-010
   santrauka: 'Pasak Stenderio, latviai kiekvieną deivę vadino motina, o dievą - tėvu, todėl mitus siejo su vyriškąja ir moteriškąja dievybės lytimis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1053,8 +965,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188223
 - c-012
   santrauka: 'Pasak Rusovo, latvių jaunimas garbino deivę Dahkla kaip laisvės ir vyriškumo globėją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1072,8 +982,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188225
 - c-013
   santrauka: 'Narbutas rašė, kad latviai mirusiųjų valdovę vadino Welli-Deewa, o šios deivės apeigos sietos su laidotuvėmis ir Vėlinėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1092,8 +1000,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188226
 - c-014
   santrauka: 'Pasak Stenderio, latviai turėjo deivę Dyža arba Dysza, kuri savo ypatybėmis visiškai atitiko Pergrubę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1108,8 +1014,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188227
 - c-015
   santrauka: 'Narbutas teigė, kad latvių sapnų aiškinimai turėjo ypatingų ir kartais skirtingų bruožų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1124,8 +1028,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188228
 - c-016
   santrauka: 'Narbutas manė, kad Mėšlų bobą, namų šiukšlių globėją, žinojo tik latviai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1142,8 +1044,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188229
 - c-018
   santrauka: 'Narbutas rašė, kad atminimas apie Žemės motinos garbinimą išliko tik Latvijoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1163,8 +1063,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188231
 - c-020
   santrauka: 'Narbutas rašė, kad latviai Girystį vadino Meszu Deews, miškų dievu, arba Meschu Wihrs, miškiniu žmogumi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1180,8 +1078,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188233
 - c-025
   santrauka: 'Narbutas rašė, kad latviai murgiais vadino karuose už tėvynę žuvusių didvyrių šmėklas, kurių būstinė buvo danguje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1196,8 +1092,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188238
 - c-026
   santrauka: 'Narbutas rašė, kad latviai kai kurias upes laikė šventomis, o XVII a. Livonijoje dėl Vyhandės upelio užtvenkimo kilo maištas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1213,8 +1107,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188239
 - c-028
   santrauka: 'Narbutas rašė, kad latviai vilkolakiu (Wilkats) vadino kerėtoją, mokantį pasiversti vilku.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1230,8 +1122,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188241
 - c-029
   santrauka: 'Narbutas lygino alaus pavadinimus ir nurodė, kad latviai šį gėrimą vadino Alius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1247,8 +1137,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188242
 - c-031
   santrauka: 'Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus vadino milžinkapiais, Milsu Kappi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1265,8 +1153,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188244
 - c-033
   santrauka: 'Teodoras Narbutas spėjo, kad Latvijos pradžią galėjo lemti jos atskyrimas nuo viengenčių lietuvių ir prūsų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1290,8 +1176,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192419
 - c-034
   santrauka: 'Teodoras Narbutas latvių kalbos skirtumą nuo estų grindė Stenderio žodžiais apie latvių ir estų nesimaišymą Kurše.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1312,8 +1196,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192420
 - c-035
   santrauka: 'Teodoro Narbuto aprašyme Infliantų, arba Livonijos, Latvija buvo Dauguvos žemupyje, abiejose jos pakrantėse.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1331,8 +1213,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192421
+
 ## Citatos
 
 - id: c-31151
@@ -1348,21 +1229,17 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
     apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­
     krauklės prie Dauguvos iki Burtnieko ežero.
-  citata_rodoma: |
-    Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
-    ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
-    mi kaip Liet’gola. Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
-    _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
-    (X, 3). XII-XIII amž.
+  citata_rodoma: "Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai\nryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­\nmi kaip Liet’gola. Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­\n_th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»\n(X, 3). XII-XIII amž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169584
-    - t-169589
-    - t-169592
+    - t-011
+    - t-006
+    - t-001
+
 - id: c-154290
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1382,7 +1259,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169588
+    - t-010
+
 - id: c-154292
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1400,7 +1278,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169586
+    - t-012
+
 - id: c-154293
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1421,7 +1300,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169591
+    - t-002
+
 - id: c-154294
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1442,25 +1322,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
     iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
     išsaugojo gryniausius savo padermės bruožus.
-  citata_rodoma: |
-    Ta lietuvių tauta, išsis­
-    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
-    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
-    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
-    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
-    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
-    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
-    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
-    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
-    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
-    išsaugojo gryniausius savo padermės bruožus.
+  citata_rodoma: "Ta lietuvių tauta, išsis­\nkyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­\nšius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba\ntikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos\niki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki\nNemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,\nkad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu\npalei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­\nmą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,\niki pat Baltijos jūros siekianti, kaip lietuvių genties centras,\nišsaugojo gryniausius savo padermės bruožus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169585
+    - t-007
+
 - id: c-154296
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1475,21 +1345,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: |
-    Prūsai ir Lietuva
-
-       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
-    vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių.
+  citata_rodoma: "Prūsai ir Lietuva\n\n   Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos\nartimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos\nvientisumas.\n  Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169587
+    - t-008
+
 - id: c-167877
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1514,35 +1378,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     pjaustyti nosis bei ausis; šitaip sudarkyti, jie turėję
     pranešti kunigaikščiui: „Tegu galop liaujasi skitai lie­
     tuviams kalbėję apie duoklę.
-  citata_rodoma: |
-    Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-
-    93
-
-    ## Puslapis 84
-
-    1221 m e ta i
-    K u k o v a itis — L ietu ­
-    v o s  ir Ž e m a itijo s k u ­
-    n ig a ik štis
-    gojo taiką, būdamas beveik
-    iš visų pusių apsuptas bičiu­
-    lių; vakaruose—prūsų- rytuo­
-    se — brolio Ginvilos, Poloc­
-    ko kunigaikščio, pietuose
-    jotvingių ir Skirmanto, Nau­
-    garduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau
-    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
-    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
-    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
-    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
-    Rusią.
+  citata_rodoma: "Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-\n93\n\n## Puslapis 84\n\n1221 m e ta i\nK u k o v a itis — L ietu ­\nv o s  ir Ž e m a itijo s k u ­\nn ig a ik štis\ngojo taiką, būdamas beveik\niš visų pusių apsuptas bičiu­\nlių; vakaruose—prūsų- rytuo­\nse — brolio Ginvilos, Poloc­\nko kunigaikščio, pietuose\njotvingių ir Skirmanto, Nau­\ngarduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau\ntos pusės saugumą laidavo tai, kad vokiečiai ir latviai,\nįsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti\nLietuvos. Todėl, būdamas ramus dėl vidaus reikalų,\nKukovaitis galėjo siųsti didesnę pagalbą Skirmantui į\nRusią."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184516
+    - t-013
+
 - id: c-171115
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1559,22 +1403,16 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     metų pabaigą, šventė paslaptingą Mitros šventę: atgailaudavo
     už nuodėmes, savo misterijose vaizduodavo gamtos atgimi­
     mą, rengdavosi naujam, doram gyvenimui.
-  citata_rodoma: |
-    Tautų neapykanta
-    yra senų pirmykščių laikų palikimas.
-    Latviai šį dievą vadino Drebbkuls, kadangi jo galybei pri­
-    skirdavo žemės drebėjimą: mat, kaip sako liaudies padavimai,
-    kai Likimas užsirūstina ant žemės, tai ją, vargšę, taip plaka,
-    kad visa dreba. Latvių žemėje žemės drebėjimai nežinomi, taigi
-    šį pasakojimą šios tautos protėviai turėjo atsinešti iš šiltesnių
-    kraštų; tas pasakojimas išlikęs iki šiol'.
+  citata_rodoma: "Tautų neapykanta\nyra senų pirmykščių laikų palikimas.\nLatviai šį dievą vadino Drebbkuls, kadangi jo galybei pri­\nskirdavo žemės drebėjimą: mat, kaip sako liaudies padavimai,\nkai Likimas užsirūstina ant žemės, tai ją, vargšę, taip plaka,\nkad visa dreba. Latvių žemėje žemės drebėjimai nežinomi, taigi\nšį pasakojimą šios tautos protėviai turėjo atsinešti iš šiltesnių\nkraštų; tas pasakojimas išlikęs iki šiol'."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188221
+    - t-003
+    - t-022
+
 - id: c-171116
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1588,20 +1426,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     dami taip pat Gabie, Gabalus, Heliogabalus. Pažiūrėk į mito­
     logijos žodynus. Visose tautose ugnies ir saulės, arba Apolo­
     no, garbinimas sutampa.
-  citata_rodoma: |
-    Straipsnyje „Stabai“ pamatysime tam tikrą to dievo pa­
-    veikslą. Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­
-    dangi dar dabar, norėdami pagąsdinti vaikus, jiems sako: „At­
-    eina Bubbulis -  paims, pagriebs“. Jį taip pat vadino Tiimpus,
-    lik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai
-    buvo paprastas girtuoklių globėjo epitetas.
+  citata_rodoma: "Straipsnyje „Stabai“ pamatysime tam tikrą to dievo pa­\nveikslą. Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­\ndangi dar dabar, norėdami pagąsdinti vaikus, jiems sako: „At­\neina Bubbulis -  paims, pagriebs“. Jį taip pat vadino Tiimpus,\nlik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai\nbuvo paprastas girtuoklių globėjo epitetas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188222
 - id: c-171117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1617,21 +1448,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     viešos puotos, šokta pievose, mergaitės dainuodavo dainas,
     kuriose dažnai kartodavo: Lado, Lado, Lado, didie musu de­
     ive, tai yra: „Lada, didžioji mūsų deive“.
-  citata_rodoma: |
-    28 Ponas Adomas Borovskis*.
-    1
-    Latviai kiekvieną deivę vadino motina (Mathe), ir, jų suprati­
-    mu, beveik kiekvienas dalykas, turintis savo dievą, -  kiekvieną iš jų
-    apskritai vadino tėvu (Thews), -  turėjo ir savo deivę, kitaip sakant,
-    jiems kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja
-    lytimis. Tokia Stenderio nuomonė (Lettische Grammatik).
+  citata_rodoma: "28 Ponas Adomas Borovskis*.\n1\nLatviai kiekvieną deivę vadino motina (Mathe), ir, jų suprati­\nmu, beveik kiekvienas dalykas, turintis savo dievą, -  kiekvieną iš jų\napskritai vadino tėvu (Thews), -  turėjo ir savo deivę, kitaip sakant,\njiems kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja\nlytimis. Tokia Stenderio nuomonė (Lettische Grammatik)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188223
 - id: c-171118
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1651,7 +1474,9 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188224
+    - t-005
+    - t-009
+
 - id: c-171119
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1666,22 +1491,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     kunigaikštis Vytautas, gyvendamas Veliuonos pilyje, administ­
     ravo tą kraštą, įsteigė Veliuonos vėliavininkų ą, arba apskritį,
     užrašė bažnyčiai daugiau pajamų.
-  citata_rodoma: |
-    Nuženk iš dangaus, pasigailėk)
-    Mielai atidaviau savo laikrodį bajorui, kuris man tą daine­
-    lę užrašė ir tiksliai išvertė į lenkų kalbą Seredžiaus miestelyje
-    1805 metų liepos 17 dieną.
-    Rusovas sako, kad latvių jaunimas garbino tą deivę, va­
-    dindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį
-    mitą pastebi Stenderis, bet dėl savo keistos etimologizacijos
-    sudvejina: vienur vadinaDekkla, kitur -  Tikla.
+  citata_rodoma: "Nuženk iš dangaus, pasigailėk)\nMielai atidaviau savo laikrodį bajorui, kuris man tą daine­\nlę užrašė ir tiksliai išvertė į lenkų kalbą Seredžiaus miestelyje\n1805 metų liepos 17 dieną.\nRusovas sako, kad latvių jaunimas garbino tą deivę, va­\ndindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį\nmitą pastebi Stenderis, bet dėl savo keistos etimologizacijos\nsudvejina: vienur vadinaDekkla, kitur -  Tikla."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188225
+    - t-014
+
 - id: c-171120
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1695,23 +1513,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     kurioje, nepaisant didelių sužalojimų, buvo galima perskaityti
     šiuos žodžius:
     rr
-  citata_rodoma: |
-    Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10
-    10 Rėza. Dainos.
-    130
-
-    ## Puslapis 130
-
-    (Giltine)10. Latviai, teikdami tą pačią prasmę, vadino Welli-De-
-    ewa. Šios deivės garbinimo apeigos buvo rengiamos per laido­
-    tuves ir Vėlines.
+  citata_rodoma: "Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10\n10 Rėza. Dainos.\n130\n\n## Puslapis 130\n\n(Giltine)10. Latviai, teikdami tą pačią prasmę, vadino Welli-De-\newa. Šios deivės garbinimo apeigos buvo rengiamos per laido­\ntuves ir Vėlines."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188226
 - id: c-171121
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1727,19 +1535,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     binimo apeigų liekanos.
     Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
     pavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.
-  citata_rodoma: |
-    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
-    gėlių ir vaismedžių sodas.
-    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
-    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
-    grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
+  citata_rodoma: "Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -\ngėlių ir vaismedžių sodas.\nStenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­\ndino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-\ngrubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188227
+    - t-016
+
 - id: c-171122
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1755,19 +1559,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     Tai buvo žemės ribų deivė, globojanti kampinius kaupus
     arba sergėjanti sienų neliečiamumą; jų nepažeidžiamumas lie­
     tuviams buvo šventenybė.
-  citata_rodoma: |
-    „Tiek visos senovės tautos, tiek lietuviai tikėjo sapnais; to­
-    dėl ne stebuklas, kad tas tikėjimas išlikęs iki šiol. Tačiau latvių
-    sapnų aiškinimai turi kažko ypatingo, o kai kada -  skirtingo.
-    Pavyzdžiui, kai suaugusi mergina sapnuoja medų, tai jai pra­
-    našauja, kad per anksti praras mergystę.
+  citata_rodoma: "„Tiek visos senovės tautos, tiek lietuviai tikėjo sapnais; to­\ndėl ne stebuklas, kad tas tikėjimas išlikęs iki šiol. Tačiau latvių\nsapnų aiškinimai turi kažko ypatingo, o kai kada -  skirtingo.\nPavyzdžiui, kai suaugusi mergina sapnuoja medų, tai jai pra­\nnašauja, kad per anksti praras mergystę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188228
+    - t-017
+
 - id: c-171123
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1781,21 +1581,18 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     Lasickis jos išsamiau neaiškino.
     Latviai taip pat turėjo bičių dievybę, vadinamą gana pana­
     šiai - Uhsinsz arba Szwets uhsinsz21.
-  citata_rodoma: |
-    Mėšlų boba (Mahslu Baba)
-    Deivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­
-    mininkės savo darželiuose laikydavo nedidelę mėšlo arba šiukš­
-    lių krūvą. Deivė pasirodydavo kaip labai iškaršusį ir drebanti
-    maža senutė.
-    Atrodo, ją žinojo tik latviai, kadangi kur nors kitur nieko
-    panašaus nematome.
+  citata_rodoma: "Mėšlų boba (Mahslu Baba)\nDeivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­\nmininkės savo darželiuose laikydavo nedidelę mėšlo arba šiukš­\nlių krūvą. Deivė pasirodydavo kaip labai iškaršusį ir drebanti\nmaža senutė.\nAtrodo, ją žinojo tik latviai, kadangi kur nors kitur nieko\npanašaus nematome."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188230
+    - t-004
+    - t-015
+    - t-018
+    - t-019
+
 - id: c-171124
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1815,7 +1612,9 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188230
+    - t-015
+    - t-019
+
 - id: c-171125
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1834,24 +1633,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     los Užupyje; antrą kartą 1749 metų birželio 8 dieną iš Subačiaus prie­
     miesčio, iš pono Gregoravičiaus dvarelio, virtusio pelenais, nuo žie­
     žirbos iš nepaprasta liepsna užsidegusio kamino.
-  citata_rodoma: |
-    Žemės motina (Žemines Mahti)
-    Požemio deivė, gyvenusi žemės viduryje. Jeigu kas nors
-    numesta ant žemės arba pamesta, jos galia sugrąžinti to pra­
-    šantiems. Jos patarnautojos buvo šventosios mergelės-Sutek­
-    tas mejtas, nemarios mergos. Savo garbintojams toji deivė teik­
-    davo savo malonę, leisdama toms mergelėms per naktį nu­
-    dirbti įvairius nebaigtus darbus, kad po nakties žmonės rastų
-    viską gatava.
-    Atminimas apie šios deivės garbinimą išliko tiktai Latvi­
-    joje22 23 *.
+  citata_rodoma: "Žemės motina (Žemines Mahti)\nPožemio deivė, gyvenusi žemės viduryje. Jeigu kas nors\nnumesta ant žemės arba pamesta, jos galia sugrąžinti to pra­\nšantiems. Jos patarnautojos buvo šventosios mergelės-Sutek­\ntas mejtas, nemarios mergos. Savo garbintojams toji deivė teik­\ndavo savo malonę, leisdama toms mergelėms per naktį nu­\ndirbti įvairius nebaigtus darbus, kad po nakties žmonės rastų\nviską gatava.\nAtminimas apie šios deivės garbinimą išliko tiktai Latvi­\njoje22 23 *."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188231
+    - t-020
+
 - id: c-171126
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1868,7 +1658,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188232
+    - t-021
+
 - id: c-171127
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1884,20 +1675,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     leidus dalyką, pradėjo atsirasti dievaičių, vadintų aitvarais (Suc-
     cubis etlncubis*), kurie, vis dažniau svečiuodamiesi, įniko nak­
     timis viešai ir dažnai rodytis gyvų žmonių pavidalu.
-  citata_rodoma: |
-    Girystis (Giristis)
-    Miško dievaitis, Šilinis, miškų baidyklė. Šis vardas paimtas
-    iš Ksavero Bogušo pastebėjimų. Mūsų kaimiečiai savo pasa­
-    kojimuose jį vadina kitaip -  Pušiniu (Pusinas). Latviai jį taip
-    pat vadina Meszu Deews, miškų dievu, arba Meschu Wihrs -
-    miškiniu žmogum.
+  citata_rodoma: "Girystis (Giristis)\nMiško dievaitis, Šilinis, miškų baidyklė. Šis vardas paimtas\niš Ksavero Bogušo pastebėjimų. Mūsų kaimiečiai savo pasa­\nkojimuose jį vadina kitaip -  Pušiniu (Pusinas). Latviai jį taip\npat vadina Meszu Deews, miškų dievu, arba Meschu Wihrs -\nmiškiniu žmogum."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188233
 - id: c-171128
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1914,7 +1698,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188234
+    - t-023
+
 - id: c-171129
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1934,7 +1719,9 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188235
+    - t-024
+    - t-030
+
 - id: c-171130
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1954,7 +1741,9 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188236
+    - t-025
+    - t-033
+
 - id: c-171131
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1970,7 +1759,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188237
+    - t-026
+
 - id: c-171132
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1984,19 +1774,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     dievybę garbino ugnį. Gvebrai, ligi šiol išpažįstantys Zoroast-
     ro mokymą, įžiūri ugnyje Dievą, arba pasaulio visatos sielą,
     bet nemoka tos esybės pavadinti vardu.
-  citata_rodoma: |
-    Murgiai (Murgi)
-    Šitaip latviai vadino žuvusių karuose už tėvynę didvyrių
-    šmėklas, kurių būstinė buvo danguje. Jos lenkyniaudavo ug­
-    niniais vežimais. Danguje jos kaudavosi su Juodžiais (Jodsy),
-    tai yra su piktosiomis dvasiomis.
+  citata_rodoma: "Murgiai (Murgi)\nŠitaip latviai vadino žuvusių karuose už tėvynę didvyrių\nšmėklas, kurių būstinė buvo danguje. Jos lenkyniaudavo ug­\nniniais vežimais. Danguje jos kaudavosi su Juodžiais (Jodsy),\ntai yra su piktosiomis dvasiomis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188238
+    - t-027
+
 - id: c-171133
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2013,20 +1799,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     vės tyrėjui didelė parama yra vandenų vardų pažinimas ir jų
     prasmės, atsižvelgiant į jų etimologiją pirmykštėse kalbose, aiš­
     kinimas.
-  citata_rodoma: |
-    6. Latviai karštai tikėjo, kad kai kurios upės yra šventos.
-    Paprasti žmonės taip smarkiai tikėjo jų šventumu, kad dar
-    XVII amžiuje Livonijoje buvo prieita prie maišto (jo nebuvo
-    galima sulaikyti be kraujo praliejimo) vien dėl tos priežasties,
-    kad Vyhandės (Woehhande) upelis buvo užtvenktas, nes norė­
-    ta ant jo įrengti malūną .
+  citata_rodoma: "6. Latviai karštai tikėjo, kad kai kurios upės yra šventos.\nPaprasti žmonės taip smarkiai tikėjo jų šventumu, kad dar\nXVII amžiuje Livonijoje buvo prieita prie maišto (jo nebuvo\ngalima sulaikyti be kraujo praliejimo) vien dėl tos priežasties,\nkad Vyhandės (Woehhande) upelis buvo užtvenktas, nes norė­\nta ant jo įrengti malūną ."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188239
 - id: c-171134
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2045,7 +1824,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188240
+    - t-029
+
 - id: c-171135
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2062,20 +1842,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     Dievo Ragučio žynės; vieną užuominą apie jas radau žmo­
     nių pasakojime; taip pat šiokia tokia žinia bus apeigų aprašy­
     me.
-  citata_rodoma: |
-    Lat­
-    vijoje ir dabar girdėti apie tokius žmones, sako Stenderis32.
-    Vilkolakis (Wilkats)
-    Latviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­
-    sų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­
-    vidonas pridaro neapsakomai daug žalos.
+  citata_rodoma: "Lat­\nvijoje ir dabar girdėti apie tokius žmones, sako Stenderis32.\nVilkolakis (Wilkats)\nLatviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­\nsų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­\nvidonas pridaro neapsakomai daug žalos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188241
 - id: c-171136
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2087,20 +1860,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     mis. Jį gerdavo šiltą, kaip kavą. Šį gėrimą mini padavimai, o
     senos žyniuonės kai kuriose vietose dar moka jį paruošti; ligo­
     niams tai esąs labai stiprinantis dalykas.
-  citata_rodoma: |
-    Tuo klausimu išsamiai įtikina Cac-
-    kis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino
-    A e l, Al, rusinai -  Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -
-    Alus, latviai Alius. Ponas Rėza „Dainų“ komentaruose pažy­
-    mi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama
-    Bier.
+  citata_rodoma: "Tuo klausimu išsamiai įtikina Cac-\nkis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino\nA e l, Al, rusinai -  Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -\nAlus, latviai Alius. Ponas Rėza „Dainų“ komentaruose pažy­\nmi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama\nBier."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188242
+    - t-031
+
 - id: c-171138
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2114,21 +1882,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     juo sudegintų tarnų ir tarnaičių kapai.
     Žemesnio luomo žmonių palaidojimai buvo be tokių soli­
     džių statinių.
-  citata_rodoma: |
-    Lietuvoje pilkapiai randami labai retai, dažnai sly­
-    pi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­
-    mę*. Latviai savo krašte iki šiol rodo didelius pilkapius, ku­
-    riuos savo padavimuose apie milžinus arba didelius žmones
-    vadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­
-    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
-    tose.
+  citata_rodoma: "Lietuvoje pilkapiai randami labai retai, dažnai sly­\npi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­\nmę*. Latviai savo krašte iki šiol rodo didelius pilkapius, ku­\nriuos savo padavimuose apie milžinus arba didelius žmones\nvadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­\nmai senovei; tokių padavimų yra ir kitose lietuvių genties tau­\ntose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188244
 - id: c-171139
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2149,7 +1909,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188245
+    - t-034
+
 - id: c-175213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2166,28 +1927,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     jose upės pakrantėse ar net salose, esančiose prie jos
     įtekėjimo į jūrą. Jų gyvenviečių būta net Bretanės ir Ang­
     lijos pakrantėse.
-  citata_rodoma: |
-    Taigi labai
-    tikėtina, jog ji lietuvių žemes padalijo į dvi dalis nuo
-    Neries Dubysos ir jūros link'. Tai ir galėjo duoti pradžią
-    239
-
-    ## Puslapis 250
-
-    q
-    Latvijai, kuri buvo atskirta nuo viengenčių lietuvių ir prū­
-    sų. Be to, reikia manyti, jog šį bendrą tautų lizdą svetima
-    gentis dalijo nemažą laiko tarpą, nes latvių tarmė labai
-    ryškiai nutolo nuo gimtosios lietuvių kalbos; šis faktas
-    nėra toks ryškus nei prūsų, nei he rūtų kalbose, nes tarp
-    jų kontaktai nebuvo nutrūkę.
+  citata_rodoma: "Taigi labai\ntikėtina, jog ji lietuvių žemes padalijo į dvi dalis nuo\nNeries Dubysos ir jūros link'. Tai ir galėjo duoti pradžią\n239\n\n## Puslapis 250\n\nq\nLatvijai, kuri buvo atskirta nuo viengenčių lietuvių ir prū­\nsų. Be to, reikia manyti, jog šį bendrą tautų lizdą svetima\ngentis dalijo nemažą laiko tarpą, nes latvių tarmė labai\nryškiai nutolo nuo gimtosios lietuvių kalbos; šis faktas\nnėra toks ryškus nei prūsų, nei he rūtų kalbose, nes tarp\njų kontaktai nebuvo nutrūkę."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192419
+    - t-035
+
 - id: c-175214
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2209,25 +1957,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     nykščiai gyventojai, nes galbūt jie yra estų palikuonys;
     tačiau šis noras įmaišyti juos į visos tautos šaknį yra
     neteisingas ir labai klaidingas.
-  citata_rodoma: |
-    Trumpiausiai į tai atsakome pateikdami Kuršo pa­
-    mokslininko ir latvių gramatikos autoriaus Stenderio žo­
-    džius. Stenderis, neketindamas atsakyti į Tuntnano prie­
-    laidą, bet tiesiog aprašydamas istorinius-topografinius šios
-    tautos bruožus, rašo: „Latvių kalba yra nutolusi nuo šiau­
-    rinių kaimynų estų kalbos taip, kaip dangus ir žemė. Ir
-    nors pačiame Kuršo viduryje yra dvi apskritys, kur kai­
-    miečiai tarpusavy kalbasi estiškai, o su svetimšaliais —
-    latviškai, bet tai niekados neturėjo jokios įtakos latvių
-    kalbai, nes estai nesimaišė su latviais ir su jais nesituo-
-    kė“2.
+  citata_rodoma: "Trumpiausiai į tai atsakome pateikdami Kuršo pa­\nmokslininko ir latvių gramatikos autoriaus Stenderio žo­\ndžius. Stenderis, neketindamas atsakyti į Tuntnano prie­\nlaidą, bet tiesiog aprašydamas istorinius-topografinius šios\ntautos bruožus, rašo: „Latvių kalba yra nutolusi nuo šiau­\nrinių kaimynų estų kalbos taip, kaip dangus ir žemė. Ir\nnors pačiame Kuršo viduryje yra dvi apskritys, kur kai­\nmiečiai tarpusavy kalbasi estiškai, o su svetimšaliais —\nlatviškai, bet tai niekados neturėjo jokios įtakos latvių\nkalbai, nes estai nesimaišė su latviais ir su jais nesituo-\nkė“2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192420
+    - t-036
+
 - id: c-175215
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2243,22 +1981,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     letsa prie jūros, pats šiauriausias; pakrante nusitęsusi
     žemė iki Aa upės žiočių — Idumea; Valmieros apylinkė­
     se — Toloma; rytinėje dalyje — tikroji Latgala1.
-  citata_rodoma: |
-    283
-    Latgala, Letgola. Infliantų, arba Livonijos, Latvija
-    buvo Dauguvos žemupyje, abiejose jos pakrantėse. Sis
-    pavadinimas kilęs iš latviškų žodžių Liatwin gals, Lie­
-    tuvos galas. Šios lietuvių tautos valdos yra iškovotos iš
-    lyvių, todėl vadinamos Livonija labai seniai ir gerokai
-    anksčiau negu IX amžiuje, nes rusų kronikos pačiais se­
-    niausiais laikais ten jau randa lietuvių giminės genčių.
+  citata_rodoma: "283\nLatgala, Letgola. Infliantų, arba Livonijos, Latvija\nbuvo Dauguvos žemupyje, abiejose jos pakrantėse. Sis\npavadinimas kilęs iš latviškų žodžių Liatwin gals, Lie­\ntuvos galas. Šios lietuvių tautos valdos yra iškovotos iš\nlyvių, todėl vadinamos Livonija labai seniai ir gerokai\nanksčiau negu IX amžiuje, nes rusų kronikos pačiais se­\nniausiais laikais ten jau randa lietuvių giminės genčių."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192421
+    - t-037
+
 ## Ryšiai
 - Latviai gyveno [[objektai/vietos/Dauguva]], [[objektai/vietos/Vidžemė]]
 - Latviai priklausė [[objektai/grupes/Baltai]]

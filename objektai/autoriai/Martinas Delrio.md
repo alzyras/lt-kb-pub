@@ -31,9 +31,8 @@ Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnim
 
 <a id="claim-t-190370"></a>
 - t-001
-  global_id: t-190370
   teiginys: "Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnimi priskyrė piromantijai."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnim
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173253
-    - c-001
+
 <a id="claim-t-197322"></a>
 - t-002
-  global_id: t-197322
   teiginys: "Martinas Delrio smogia strėle į vieną kurį kalną."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -86,8 +84,7 @@ Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190370
+
 ## Citatos
 
 - id: c-173253
@@ -105,27 +102,15 @@ Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnim
     timi, nusiėmęs kepurę, bėgiodavo po lauką, užsidėjęs ant pe­
     čių lašinių paltį, ir šitaip maldėsi Perkūnui, bet, debesims išsi­
     sklaidžius, lašinius pats suvalgydavo.
-  citata_rodoma: |
-    Strijkovskis aiškiai
-    tvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės
-    romėnai, kurie taip krikštydavosi per Palilėjų šventes deivės
-    Palės garbei.
-    Būrimus, darytus su ugnimi, uždegta šv. Jono Krikštytojo
-    šventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-
-    344
-
-    ## Puslapis 344
-
-    rijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­
-    romantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­
-    je pusėje, praktikuodavo dar kitą piromantijos rūšį.
+  citata_rodoma: "Strijkovskis aiškiai\ntvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės\nromėnai, kurie taip krikštydavosi per Palilėjų šventes deivės\nPalės garbei.\nBūrimus, darytus su ugnimi, uždegta šv. Jono Krikštytojo\nšventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-\n344\n\n## Puslapis 344\n\nrijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­\nromantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­\nje pusėje, praktikuodavo dar kitą piromantijos rūšį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190370
+    - t-001
+
 - id: c-179129
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -145,4 +130,4 @@ Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197322
+    - t-002

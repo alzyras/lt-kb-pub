@@ -39,7 +39,6 @@ Talkininkų kryžiuočių liko tik keletas, tarp jų žuvo tarnaudami senajai T�
 
 <a id="claim-t-39563"></a>
 - t-001
-  global_id: t-39563
   teiginys: "Kryžiuotis lietuvis Jonas Survila žuvo mūšyje tarnaudamas senajai Tėvynei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Talkininkų kryžiuočių liko tik keletas, tarp jų žuvo tarnaudami senajai T�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39563
+    - t-001

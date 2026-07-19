@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-86518"></a>
 - t-001
-  global_id: t-86518
   teiginys: "1579 m. Valerijonas Protasevičius nustatė, kad Akademijai ir kolegijai užrašyti trys mūriniai namai būtų vadinami Valerijono bursomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86518
+    - t-001

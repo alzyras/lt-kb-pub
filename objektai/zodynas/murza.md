@@ -30,7 +30,6 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
 
 <a id="claim-t-38767"></a>
 - t-001
-  global_id: t-38767
   teiginys: "Neišlaikę Algirdo pajėgų spaudimo totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
 
 <a id="claim-t-183718"></a>
 - t-002
-  global_id: t-183718
   teiginys: "Po Algirdo pajėgų spaudimo totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38767
+    - t-001
+
 - id: c-167106
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -123,4 +122,4 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183718
+    - t-002

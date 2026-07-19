@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202037"></a>
 - t-001
-  global_id: t-202037
   teiginys: "Iš naujų svečių teisės nuostatų bene svarbiausia buvo sankrovos teisė (ius stapulae, Stapelrecht)."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -53,6 +52,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185384
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -71,4 +73,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202037
+    - t-001

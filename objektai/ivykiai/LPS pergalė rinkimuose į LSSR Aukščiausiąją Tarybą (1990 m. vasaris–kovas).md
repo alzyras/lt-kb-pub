@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20251"></a>
 - t-001
-  global_id: t-20251
   teiginys: "Per 1990 m. vasario–kovo rinkimus į LSSR Aukščiausiąją Tarybą LPS iškelti ir paremti atstovai gavo 96 iš 133 vietų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,12 +84,11 @@ Nenurodyta
     stovai gavo net 96 vietas. Tapo aišku, kad Lietuva pasuko nauju keliu,
     komunistų partija neteko vienvaldystės, o dauguma žmonių yra aiškiai
     apsisprendę dėl Lietuvos nepriklausomybės.
-  citata_rodoma: |
-    stovai gavo net 96 vietas. Tapo aišku, kad Lietuva pasuko nauju keliu,
+  citata_rodoma: "stovai gavo net 96 vietas. Tapo aišku, kad Lietuva pasuko nauju keliu,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20251
+    - t-001

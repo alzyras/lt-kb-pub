@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-20114"></a>
 - t-001
-  global_id: t-20114
   teiginys: "Po Liucjano Želigovskio akcijos Lietuvai reikėjo stabdyti tolesnį želigovskininkų judėjimą į Lietuvos teritoriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,14 +89,14 @@ media_all_json: |-
     sių“ daliniai. L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų
     Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
     želigovskininkų judėjimą į Lietuvos teritoriją.
-  citata_rodoma: |
-    Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
+  citata_rodoma: "Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20114
+    - t-001
+
 ## Ryšiai
 - Želigovskininkai užėmė [[objektai/vietos/Vilnius]]

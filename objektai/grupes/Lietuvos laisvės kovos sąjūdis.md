@@ -76,8 +76,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-169728"></a>
-- t-001
-  global_id: t-169728
+- t-024
   teiginys: "LLKS Vasario 16-osios deklaracijoje numatyta atkurti Lietuvos valstybę kaip demokratinę respubliką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -165,19 +164,11 @@ Nenurodyta
     demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
     sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
     organu iki laisvų demokratinių Seimo rinkimų.
-  citata_rodoma: |
-    studijavo Prancūzijos artilerijos mokykloje),
-    jam suteiktas aukščiausias – partizanų generolo laipsnis. Bunkeryje pri-
-    imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
-    atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
-    suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
-    demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
-    sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
-    organu iki laisvų demokratinių Seimo rinkimų.
+  citata_rodoma: "studijavo Prancūzijos artilerijos mokykloje), \njam suteiktas aukščiausias – partizanų generolo laipsnis. Bunkeryje pri-\nimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės \natkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, \nsuvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, \ndemokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo \nsudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios \norganu iki laisvų demokratinių Seimo rinkimų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169728
+    - t-024

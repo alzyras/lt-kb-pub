@@ -37,8 +37,7 @@ Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam me
 ## Teiginiai
 
 <a id="claim-t-21278"></a>
-- t-001
-  global_id: t-21278
+- t-002
   teiginys: "1950 m. sovietai uždraudė Lietuvos himną - Vinco Kudirkos „Tautišką giesmę“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam me
     - c-23978
 
 <a id="claim-t-21279"></a>
-- t-002
-  global_id: t-21279
+- t-001
   teiginys: "Vincas Kudirka sukūrė eilėraštį „Tautiška giesmė“ ir jo melodiją; šis kūrinys tapo Lietuvos himnu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,15 +90,15 @@ Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam me
     rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. V. Kudirka
     rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-
     nys taps Lietuvos himnu.
-  citata_rodoma: |
-    rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-
+  citata_rodoma: "rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21279
+    - t-001
+
 - id: c-23978
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -111,14 +109,11 @@ Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam me
     Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-
     no savanorių kapus, uždraudė tautines ir religines šventes. 1950 m. už-
     draustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“.
-  citata_rodoma: |
-    Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-
-    no savanorių kapus, uždraudė tautines ir religines šventes. 1950 m. už-
-    draustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“.
+  citata_rodoma: "Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-\nno savanorių kapus, uždraudė tautines ir religines šventes. 1950 m. už-\ndraustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21278
+    - t-002

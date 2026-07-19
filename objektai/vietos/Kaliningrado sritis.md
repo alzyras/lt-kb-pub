@@ -37,8 +37,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
 ## Teiginiai
 
 <a id="claim-t-76355"></a>
-- t-001
-  global_id: t-76355
+- t-003
   teiginys: "Atkūrusi nepriklausomybę Lietuva Vakaruose įgijo sieną su Rusijos Kaliningrado sritimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
     - c-73950
 
 <a id="claim-t-76356"></a>
-- t-002
-  global_id: t-76356
+- t-004
   teiginys: "Maskva grasino prijungti Klaipėdos kraštą prie Kaliningrado srities, jeigu Lietuva siektų atkurti nepriklausomybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
     - c-73949
 
 <a id="claim-t-76357"></a>
-- t-003
-  global_id: t-76357
+- t-002
   teiginys: "Dabartinė Kaliningrado sritis šaltinyje siejama su Rytprūsiais, iš kurių Vokietija po Antrojo pasaulinio karo buvo prievarta išstumta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +89,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
     - c-73952
 
 <a id="claim-t-76358"></a>
-- t-004
-  global_id: t-76358
+- t-001
   teiginys: "Maskva grasino prijungti Klaipėdos kraštą prie RSFSR Kaliningrado srities ir Vilniaus regione kurti autonomiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +109,6 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
 
 <a id="claim-t-183597"></a>
 - t-005
-  global_id: t-183597
   teiginys: "Potsdamo konferencijoje Kaliningrado sritis buvo 50 metų atiduota administruoti SSRS."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -152,24 +147,16 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
     240
     Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11–
     13 d.).
-  citata_rodoma: |
-    Nujausdama kurlink judėjimas suka, Maskva darė viską, kad sustab-
-    dytų eventualų nepriklausomybės atkūrimą. Griebtasi šantažo – grasinta
-    prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities,
-    o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomi-
-    ją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva
-
-    L I E T U V O S  I S T O R I J A
-    240
-    Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m.
+  citata_rodoma: "Nujausdama kurlink judėjimas suka, Maskva darė viską, kad sustab-\ndytų eventualų nepriklausomybės atkūrimą. Griebtasi šantažo – grasinta \nprijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, \no iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomi-\nją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva\n\nL I E T U V O S  I S T O R I J A\n240\nMichailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76356
-    - t-76358
+    - t-004
+    - t-001
+
 - id: c-73950
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -183,15 +170,15 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
     Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruo-
     se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje
     atiduota 50-čiai metų administruoti SSRS.
-  citata_rodoma: |
-    se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje
+  citata_rodoma: "se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76355
+    - t-003
+
 - id: c-73952
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -202,15 +189,15 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
     tija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabar-
     tinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo
     į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai.
-  citata_rodoma: |
-    tinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo
+  citata_rodoma: "tinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76357
+    - t-002
+
 - id: c-166989
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -230,4 +217,4 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183597
+    - t-005

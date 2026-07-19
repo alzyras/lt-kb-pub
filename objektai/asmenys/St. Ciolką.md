@@ -32,7 +32,6 @@ Ciolką.
 
 <a id="claim-t-34827"></a>
 - t-001
-  global_id: t-34827
   teiginys: "St. Ciolka buvo Vytauto proteguojamas kandidatas į Poznanės vyskupus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,6 +69,7 @@ Ciolką.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34827
+    - t-001
+
 ## Ryšiai
 - Rėmė St. Ciolką: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

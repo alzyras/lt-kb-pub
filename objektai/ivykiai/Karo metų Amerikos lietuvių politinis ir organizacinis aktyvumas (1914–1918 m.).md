@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-66597"></a>
 - t-001
-  global_id: t-66597
   teiginys: "1916 m. Brukline katalikų ir tautininkų organizacijų atstovai svarstė karo sunaikintos Lietuvos kūrimo reikalus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66597
+    - t-001

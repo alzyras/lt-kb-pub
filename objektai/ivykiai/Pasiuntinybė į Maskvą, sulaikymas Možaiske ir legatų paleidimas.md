@@ -48,8 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185529"></a>
-- t-001
-  global_id: t-185529
+- t-002
   teiginys: "Kai karaliaus legatai keliavo namo, Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą ir nuvarymą į Vilnių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-168890
 
 <a id="claim-t-185530"></a>
-- t-002
-  global_id: t-185530
+- t-003
   teiginys: "Vasilijus išsiuntė žygūną į Možaiską ir įsakė tučtuojau paleisti karaliaus legatus, kurie netrukus grįžo namo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -88,8 +86,7 @@ Nenurodyta
     - c-168891
 
 <a id="claim-t-196235"></a>
-- t-003
-  global_id: t-196235
+- t-004
   teiginys: "Valdovui Vilniuje tvarkant Žygimanto Augusto išrinkimo reikalus, atvyko Maskvos kunigaikščio Vasilijaus legatas."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Nenurodyta
     - c-168890
 
 <a id="claim-t-196236"></a>
-- t-004
-  global_id: t-196236
+- t-005
   teiginys: "Kojelavičiaus pasakojime Vasilijus įsižeidė dėl jauno pasiuntinio Jono Jesmano ir pareikalavo į Maskvą siųsti brandesnių metų vyrą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -149,24 +145,16 @@ Nenurodyta
     d id žiu o ju
     k u n ig a ik ščiu
     6 5 7
-  citata_rodoma: |
-    Be to, sutarė teismų reikalus sutvarkyti iki
-    garsios Rusioje palaimintosios mergelės globėjos šven­
-    tės, sutikdamas, kad teismo posėdžiuose dalyvautų
-    Mackevičius. Karaliaus legatai jau keliavo namo, kai
-    Maskvą pasiekė žinia, jog valachų pasiuntiniai sulai­
-    kyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas
-    palydovas maskvėnas gavęs įsakymą grįžti į Maskvą.
-    Pritrenktas šios žinios, Vasilijus įsakė sulaikyti kara­
-    liaus pasiuntinius Možaiske.
+  citata_rodoma: "Be to, sutarė teismų reikalus sutvarkyti iki\ngarsios Rusioje palaimintosios mergelės globėjos šven­\ntės, sutikdamas, kad teismo posėdžiuose dalyvautų\nMackevičius. Karaliaus legatai jau keliavo namo, kai\nMaskvą pasiekė žinia, jog valachų pasiuntiniai sulai­\nkyti ir nuvaryti į Vilnių, o Vasilijaus jiems priskirtas\npalydovas maskvėnas gavęs įsakymą grįžti į Maskvą.\nPritrenktas šios žinios, Vasilijus įsakė sulaikyti kara­\nliaus pasiuntinius Možaiske."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185529
-    - t-196235
+    - t-002
+    - t-004
+
 - id: c-168891
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -209,5 +197,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185530
-    - t-196236
+    - t-003
+    - t-005

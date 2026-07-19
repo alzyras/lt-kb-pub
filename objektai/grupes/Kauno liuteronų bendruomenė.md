@@ -9,10 +9,10 @@ datos:
   - '1655 m.'
 date_start: '1615'
 date_end: '1655'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogyst
 
 <a id="claim-t-201833"></a>
 - t-001
-  global_id: t-201833
   teiginys: "Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogystės bažnytinei valdžiai Karaliaučiuje, vadinamajai Sambijos konsistorijai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogyst
 
 <a id="claim-t-201834"></a>
 - t-002
-  global_id: t-201834
   teiginys: "1615 m.liuteronų bendruomenės bažnytinių mokesčių knygose buvo įrašyta l30 tokių mokesčių mokėto jų, t."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -62,7 +60,6 @@ Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogyst
 
 <a id="claim-t-201835"></a>
 - t-003
-  global_id: t-201835
   teiginys: "1655 m. Jonas Kazimieras nusprendė, kad tie liuteronai, kurie turi Kaune nekilnojamojo turto ir yra miestui prisiekę, yra miesto piliečiai, turi teisę naudotis visomis miestiečių teisėmis; kad tiems liuteronams, kurie Kaune jau yra įsikūrę ar atėję užkuriais."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -93,7 +90,7 @@ Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogyst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201833
+    - t-001
 
 - id: c-185181
   autorius: "Zigmantas Kiaupa"
@@ -112,7 +109,7 @@ Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogyst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201834
+    - t-002
 
 - id: c-185182
   autorius: "Zigmantas Kiaupa"
@@ -132,4 +129,4 @@ Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogyst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201835
+    - t-003

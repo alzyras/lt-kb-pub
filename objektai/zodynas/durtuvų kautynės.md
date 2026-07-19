@@ -31,7 +31,6 @@ Jie, susispaude į krūvą, atstatė durtuvus ir laukė.
 
 <a id="claim-t-80623"></a>
 - t-001
-  global_id: t-80623
   teiginys: "Dvylika lietuvių karių, lenkams puolant, susispaudė į krūvą, atstatė durtuvus ir laukė atakos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Jie, susispaude į krūvą, atstatė durtuvus ir laukė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80623
+    - t-001

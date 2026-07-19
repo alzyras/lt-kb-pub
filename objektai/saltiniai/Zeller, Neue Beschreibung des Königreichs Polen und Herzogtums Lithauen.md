@@ -36,7 +36,6 @@ Zellerio 1663 m. veikalas „Neue Beschreibung des Königreichs Polen und Herzog
 
 <a id="claim-t-191864"></a>
 - t-001
-  global_id: t-191864
   teiginys: "Zellerio 1663 m. veikalas „Neue Beschreibung des Königreichs Polen und Herzogtums Lithauen“ minimas kaip šaltinis apie senovės Kijevą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Zellerio 1663 m. veikalas „Neue Beschreibung des Königreichs Polen und Herzog
 
 <a id="claim-t-197691"></a>
 - t-002
-  global_id: t-197691
   teiginys: "2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai (Zeller."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -91,5 +89,5 @@ Zellerio 1663 m. veikalas „Neue Beschreibung des Königreichs Polen und Herzog
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191864
-    - t-197691
+    - t-001
+    - t-002

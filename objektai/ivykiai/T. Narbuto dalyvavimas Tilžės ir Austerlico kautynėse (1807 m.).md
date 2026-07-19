@@ -59,10 +59,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187803"></a>
-- t-001
-  global_id: t-187803
+- t-004
   teiginys: "1807 m. tarnaudamas Rusijos kariuomenėje T. Narbutas dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Austerlicas: 0.85"
@@ -78,12 +77,11 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškiai įvardija T. Narbutą, datą, tarnybą ir sužeidimą. Citata šiuos faktus tiesiogiai patvirtina."
   pagrindžia:
     - c-170756
-    - c-001
+
 <a id="claim-t-187804"></a>
-- t-002
-  global_id: t-187804
+- t-003
   teiginys: "T. Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Austerlicas: 0.85"
@@ -99,7 +97,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai pagrįstas citatos faktine informacija. Jame sąmoningai neįtrauktas sužeidimas, nes pats teiginys apsiriboja dalyvavimu kautynėse."
   pagrindžia:
     - c-170756
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -113,9 +111,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187803
-    - t-187804
+- t-187804
+
 ## Data ir vieta
 
 Data: 1807 m..
@@ -140,16 +137,12 @@ Nenurodyta
     sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
     ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
     kus.
-  citata_rodoma: |
-    Jaunuolis nesibaidė vyriau­
-    sybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų
-    korpuse. Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
-    vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
+  citata_rodoma: "Jaunuolis nesibaidė vyriau­\nsybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų\nkorpuse. Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­\nvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187803
-    - t-187804
+    - t-004
+    - t-003

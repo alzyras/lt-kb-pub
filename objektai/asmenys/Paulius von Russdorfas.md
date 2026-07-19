@@ -8,12 +8,12 @@ datos:
   - '1492 m.'
 date_start: '1433'
 date_end: '1492'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XV'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ Taip 1433 m. su Žygimantu Kęstutaičiu kovojęs Livonijos ordino magistras pra
 
 <a id="claim-t-202131"></a>
 - t-001
-  global_id: t-202131
   teiginys: "Taip 1433 m. su Žygimantu Kęstutaičiu kovojęs Livonijos ordino magistras prašė Vokiečių ordino magistrą Paulių von Russdorfą nepraleisti druskos į Lietuvą, 1451 m. Kazimieras Jogailaitis grasino nutraukti druskos įvežimą iš Dancigo, 1492 m. Hanzos kontora."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Taip 1433 m. su Žygimantu Kęstutaičiu kovojęs Livonijos ordino magistras pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202131
+    - t-001

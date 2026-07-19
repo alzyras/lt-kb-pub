@@ -37,7 +37,6 @@ Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingi
 
 <a id="claim-t-192907"></a>
 - t-001
-  global_id: t-192907
   teiginys: "Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingijos gynybos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingi
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175677
-    - c-001
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-192434|Mazovijos kunigaikščiai]]: Mazovijos Ziemovitas 1260 m. birželio 15 d. Trošine sudarė taikos sutartį, kuria kryžiuočiai atidavė jam šeštadalį jotvingių krašto.
 - susijęs iš 1260 m. Trošino sutartis: 1260 m. Trošino sutartimi kryžiuočiai atidavė šeštadalį jotvingių krašto, o kunigaikštis įsipareigojo remti Ordiną.
 - susijęs iš 1260 m. Trošino sutartis: 1260 m. Trošino sutartis buvo pasirašyta Trošine 1260 m. birželio 15 dieną.
@@ -81,8 +79,7 @@ Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192907
+
 ## Citatos
 
 - id: c-175677
@@ -103,20 +100,11 @@ Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingi
     į patį Polesės vidurį, kažkur tarp Bugo ir Narevo su­
     spaudęs jotvingius, birželio 23 dieną visiškai juos sutriuš­
     kino.
-  citata_rodoma: |
-    Tuo atveju, jei iš sve­
-    timos šalies būtų surengtas koks ¡priešiškas žygis į Jot-
-    vingijos kraštą, jos gynyba turi ¡būti bendras Ordino ir
-    kunigaikščio- reikalas, o jei kuri nors pakrikštyta gentis
-    sukiltų prieš kryžiuočius, kunigaikštis turi skubėti jiems į
-    ¡pagalbą. Si sutartis buvo pasirašyta Trošine 1260 metų
-    birželio 15 dieną1.
-    133
-    Nuosmukis.
+  citata_rodoma: "Tuo atveju, jei iš sve­\ntimos šalies būtų surengtas koks ¡priešiškas žygis į Jot-\nvingijos kraštą, jos gynyba turi ¡būti bendras Ordino ir\nkunigaikščio- reikalas, o jei kuri nors pakrikštyta gentis\nsukiltų prieš kryžiuočius, kunigaikštis turi skubėti jiems į\n¡pagalbą. Si sutartis buvo pasirašyta Trošine 1260 metų\nbirželio 15 dieną1.\n133\nNuosmukis."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192907
+    - t-001

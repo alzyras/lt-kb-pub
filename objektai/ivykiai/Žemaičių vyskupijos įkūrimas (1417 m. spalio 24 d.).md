@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-34526"></a>
 - t-001
-  global_id: t-34526
   teiginys: "Varniuose Vytauto pastatyta bažnyčia buvo pašventinta Žemaičių vyskupijos katedra šv. Aleksandro vardu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-34527"></a>
 - t-002
-  global_id: t-34527
   teiginys: "Žemaičių arba Medininkų vyskupija buvo įkurta 1417 m. spalio 24 d. kaip antroji Lietuvos vyskupija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,7 +114,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34527
+    - t-002
+
 - id: c-35752
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -139,4 +138,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34526
+    - t-001

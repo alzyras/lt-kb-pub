@@ -39,7 +39,6 @@ Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. va
 
 <a id="claim-t-18777"></a>
 - t-001
-  global_id: t-18777
   teiginys: "Aleksandrui Kolčiakui formaliai buvo pavaldi Pavelo Bermonto-Avalovo vadovaujama rusų ir vokiečių kariuomenė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,12 +71,11 @@ Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. va
     ir vokiečių kariuomenė (bermontininkai), formaliai pavaldi rusų baltųjų
     generolui Aleksandrui Kolčiakui. Iš jų paimtas karo grobis svariai papildė
     Lietuvos kariuomenės ginkluotę.
-  citata_rodoma: |
-    generolui Aleksandrui Kolčiakui. Iš jų paimtas karo grobis svariai papildė
+  citata_rodoma: "generolui Aleksandrui Kolčiakui. Iš jų paimtas karo grobis svariai papildė"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18777
+    - t-001

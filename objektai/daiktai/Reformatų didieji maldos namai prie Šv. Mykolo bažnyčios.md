@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-87092"></a>
 - t-001
-  global_id: t-87092
   teiginys: "Reformatų didieji maldos namai buvo išmūryti ties Šv. Mykolo bažnyčia Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,4 +100,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87092
+    - t-001

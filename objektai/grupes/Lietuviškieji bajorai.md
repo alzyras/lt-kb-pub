@@ -28,7 +28,6 @@ Basanavičiaus teigimu, sustiprėjus judėjimui Varšuvoje, lietuviškieji bajor
 
 <a id="claim-t-200905"></a>
 - t-001
-  global_id: t-200905
   teiginys: "Basanavičiaus teigimu, sustiprėjus judėjimui Varšuvoje, lietuviškieji bajorai, ypač Kauno gubernijoje, šaltai žiūrėjo į lenkiškąjį sumanymą."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Basanavičiaus teigimu, sustiprėjus judėjimui Varšuvoje, lietuviškieji bajor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200905
+    - t-001

@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-189917"></a>
 - t-001
-  global_id: t-189917
   teiginys: "Narbutas Saitininkus aprašo kaip pranašautojus gydytojus, kurie ligas gydydavo užkabindami ligoniui ant kaklo tam tikrus amuletus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,7 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172800
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Saitininkus aprašo kaip pranašautojus gydytojus, kurie ligas gydydavo užkabindami ligoniui ant kaklo tam tikrus amuletus.'
@@ -83,8 +82,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189917
+
 ## Citatos
 
 - id: c-172800
@@ -102,19 +100,11 @@ Nenurodyta
     dilutė) buvo apkalbėta, kad susidėjusi su nepažįstamu bajoru; ją ve­
     žė dvejetu juodų karvių, norėdami užsiūti odiniame maiše su šuni­
     mi, katinu ir gyvate ir nuskandinti Nemune.
-  citata_rodoma: |
-    Štai jų vertimas: „Einu aplink more, ¡no­
-    re užkemšu, more užsikimšk, kraujau, sukepk!“
-    Saitininkai (Sejtones)
-    Pranašautojai gydytojai, kurie mokėdavo gydyti visas ligas,
-    užkabindami ant ligonio kaklo tam tikrus amuletus' .
-    Kaunu Ra ugi s (žiūrėtojas į alaus ryką)
-    Žiūrėtojas į alaus ryką, arba Sahls puhszlotajs, -  pūfėjas į
-    druską.
+  citata_rodoma: "Štai jų vertimas: „Einu aplink more, ¡no­\nre užkemšu, more užsikimšk, kraujau, sukepk!“\nSaitininkai (Sejtones)\nPranašautojai gydytojai, kurie mokėdavo gydyti visas ligas,\nužkabindami ant ligonio kaklo tam tikrus amuletus' .\nKaunu Ra ugi s (žiūrėtojas į alaus ryką)\nŽiūrėtojas į alaus ryką, arba Sahls puhszlotajs, -  pūfėjas į\ndruską."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189917
+    - t-001

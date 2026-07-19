@@ -41,8 +41,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
 ## Teiginiai
 
 <a id="claim-t-170077"></a>
-- t-001
-  global_id: t-170077
+- t-007
   teiginys: "Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-154758
 
 <a id="claim-t-170078"></a>
-- t-002
-  global_id: t-170078
+- t-008
   teiginys: "Priėmus Lenkijos ultimatumą atsistatydino Juozo Tūbelio ministrų kabinetas, o premjeru tapo Vladas Mironas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-154765
 
 <a id="claim-t-170079"></a>
-- t-003
-  global_id: t-170079
+- t-009
   teiginys: "Juozas Tūbelis išmanė Lietuvos ekonomiką ir finansus, priešinosi lito nuvertinimui ir atsargia politika padėjo atlaikyti krizę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,8 +95,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-154761
 
 <a id="claim-t-170080"></a>
-- t-004
-  global_id: t-170080
+- t-006
   teiginys: "Juozui Tūbeliui radus rinką Didžiojoje Britanijoje, Lietuvos prekyba su šia šalimi užėmė pirmą vietą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,8 +111,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-154766
 
 <a id="claim-t-170081"></a>
-- t-005
-  global_id: t-170081
+- t-001
   teiginys: "1929 m. rugsėjo 23 d. prezidentas Antanas Smetona ministru pirmininku paskyrė ekonomistą Juozą Tūbelį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -136,8 +131,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-154763
 
 <a id="claim-t-170082"></a>
-- t-006
-  global_id: t-170082
+- t-005
   teiginys: "Juozas Tūbelis 7,5 metų vadovavo Ministrų Tarybai ir garantavo vyriausybių stabilumą bei vieningą ministrų politiką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -156,8 +150,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-154764
 
 <a id="claim-t-170083"></a>
-- t-007
-  global_id: t-170083
+- t-002
   teiginys: "Juozas Tūbelis 1931–1938 m. ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -176,8 +169,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-154762
 
 <a id="claim-t-170084"></a>
-- t-008
-  global_id: t-170084
+- t-003
   teiginys: "Juozas Tūbelis kūrė ir stiprino kooperacinių bei masinių akcinių bendrovių veiklą ir laikė naudingu nuosaikų valstybinį reguliavimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -196,8 +188,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-154759
 
 <a id="claim-t-170085"></a>
-- t-009
-  global_id: t-170085
+- t-010
   teiginys: "Juozas Tūbelis kūrė ir stiprino kooperacinių bei masinių akcinių bendrovių ūkinę veiklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -233,18 +224,15 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
     bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
     J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
-  citata_rodoma: |
-    Karinėje srityje
-    S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
-    bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
-    J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
+  citata_rodoma: "Karinėje srityje \nS. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-\nbes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras \nJ. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170077
+    - t-007
+
 - id: c-154759
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -267,29 +255,16 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     kalingu, taigi jo politiką kartais
     vadinama santūria valstybinio so-
     cializmo atmaina.
-  citata_rodoma: |
-    Kooperatyvams ir
-    pavieniams ūkininkams įsivežus iš Danijos, Švedijos ir Vokietijos tūks-
-    tančius žalųjų bei juodmargių karvių, pieno išmilžiai pakilo nuo 700 iki
-    2 000 litrų ir lenkė daugelį šalių. Kai privati ekonominė iniciatyva dau-
-    geliu atžvilgių nepajėgė veikti tautos ūkiui reikiamu mastu, J. Tūbelis
-    kūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę vei-
-    klą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį
-
-    L I E T U V O S  I S T O R I J A
-    164
-    reguliavimą laikė naudingu ir rei-
-    kalingu, taigi jo politiką kartais
-    vadinama santūria valstybinio so-
-    cializmo atmaina.
+  citata_rodoma: "Kooperatyvams ir \npavieniams ūkininkams įsivežus iš Danijos, Švedijos ir Vokietijos tūks-\ntančius žalųjų bei juodmargių karvių, pieno išmilžiai pakilo nuo 700 iki \n2 000 litrų ir lenkė daugelį šalių. Kai privati ekonominė iniciatyva dau-\ngeliu atžvilgių nepajėgė veikti tautos ūkiui reikiamu mastu, J. Tūbelis \nkūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę vei-\nklą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį\n\nL I E T U V O S  I S T O R I J A\n164\nreguliavimą laikė naudingu ir rei-\nkalingu, taigi jo politiką kartais \nvadinama santūria valstybinio so-\ncializmo atmaina."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170084
-    - t-170085
+    - t-003
+    - t-010
+
 - id: c-154761
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -302,21 +277,15 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     negu uždirbi, finansinę padėtį gerinti plėtojant gamybą. Nesiskolino už-
     sienyje, sprendimus darė atsargiai, pritarė ekonominės veiklos autarki-
     jai – išsiversti su kuo mažiau importo.
-  citata_rodoma: |
-    Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai
-    priešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti
-    krizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepa-
-    keliamas skolas. Jo teorija ūkiškai konservatyvi – vengti išleisti daugiau
-    negu uždirbi, finansinę padėtį gerinti plėtojant gamybą. Nesiskolino už-
-    sienyje, sprendimus darė atsargiai, pritarė ekonominės veiklos autarki-
-    jai – išsiversti su kuo mažiau importo.
+  citata_rodoma: "Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai \npriešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti \nkrizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepa-\nkeliamas skolas. Jo teorija ūkiškai konservatyvi – vengti išleisti daugiau \nnegu uždirbi, finansinę padėtį gerinti plėtojant gamybą. Nesiskolino už-\nsienyje, sprendimus darė atsargiai, pritarė ekonominės veiklos autarki-\njai – išsiversti su kuo mažiau importo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170079
+    - t-009
+
 - id: c-154762
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -333,22 +302,15 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     J. Tūbelis pasirodė visiška priešingybė ekscentriškam A. Voldemarui, jis
     ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–
     1938 m.
-  citata_rodoma: |
-    A. Smetonos ir J. Tūbelio tandemas
-    Ūkinių ir kooperatinių organizacijų kūrėjas ir vadovas
-    J. Tūbelis pasirodė visiška priešingybė ekscentriškam A. Voldemarui, jis
-    ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–
-    1938 m. J. Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai
-    priešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti
-    krizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepa-
-    keliamas skolas.
+  citata_rodoma: "A. Smetonos ir J. Tūbelio tandemas\nŪkinių ir kooperatinių organizacijų kūrėjas ir vadovas \nJ. Tūbelis pasirodė visiška priešingybė ekscentriškam A. Voldemarui, jis \nramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–\n1938 m. J. Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai \npriešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti \nkrizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepa-\nkeliamas skolas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170083
+    - t-002
+
 - id: c-154763
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -362,17 +324,15 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     Rugsėjo 23 dieną ministru pirmininku prezidentas A. Smetona paskyrė
     ekonomistą Juozą Tūbelį, o A. Voldemaras liko be nieko, nes neapdai-
     riai atsisakė tapti užsienio reikalų ministru.
-  citata_rodoma: |
-    Rugsėjo 23 dieną ministru pirmininku prezidentas A. Smetona paskyrė
-    ekonomistą Juozą Tūbelį, o A. Voldemaras liko be nieko, nes neapdai-
-    riai atsisakė tapti užsienio reikalų ministru.
+  citata_rodoma: "Rugsėjo 23 dieną ministru pirmininku prezidentas A. Smetona paskyrė \nekonomistą Juozą Tūbelį, o A. Voldemaras liko be nieko, nes neapdai-\nriai atsisakė tapti užsienio reikalų ministru."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170081
+    - t-001
+
 - id: c-154764
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -385,21 +345,15 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     garantavo vyriausybių stabilumą ir vieningą visų ministrų politiką, su-
     darydamas Lietuvai šansą plėtoti įvairių krypčių pažangą visose sfero-
     se be jokios paramos iš užsienio.
-  citata_rodoma: |
-    Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m.
-    Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą –
-    apie 20 proc. biudžeto teko skirti krašto gynybos reikalams. J. Tūbelis,
-    vadovavęs Ministrų Tarybai 7,5 metų (ilgiausiai išsilaikė toje pozicijoje),
-    garantavo vyriausybių stabilumą ir vieningą visų ministrų politiką, su-
-    darydamas Lietuvai šansą plėtoti įvairių krypčių pažangą visose sfero-
-    se be jokios paramos iš užsienio.
+  citata_rodoma: "Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m. \nValstybės gynimo taryba priėmė kariuomenės perorganizavimo planą – \napie 20 proc. biudžeto teko skirti krašto gynybos reikalams. J. Tūbelis, \nvadovavęs Ministrų Tarybai 7,5 metų (ilgiausiai išsilaikė toje pozicijoje), \ngarantavo vyriausybių stabilumą ir vieningą visų ministrų politiką, su-\ndarydamas Lietuvai šansą plėtoti įvairių krypčių pažangą visose sfero-\nse be jokios paramos iš užsienio."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170082
+    - t-005
+
 - id: c-154765
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -412,17 +366,15 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
     netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
     Mironas.
-  citata_rodoma: |
-    Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
-    netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
-    Mironas.
+  citata_rodoma: "Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-\nnetas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas \nMironas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170078
+    - t-008
+
 - id: c-154766
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -435,15 +387,14 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     tas užėmė pirmą vietą.
     Įvykiai Užnemunėje – stiprus smūgis ir ministrui pirmininkui J. Tū-
     beliui, ir A. Smetonai.
-  citata_rodoma: |
-    Įvykiai Užnemunėje – stiprus smūgis ir ministrui pirmininkui J. Tū-
-    beliui, ir A. Smetonai.
+  citata_rodoma: "Įvykiai Užnemunėje – stiprus smūgis ir ministrui pirmininkui J. Tū-\nbeliui, ir A. Smetonai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170080
+    - t-006
+
 ## Ryšiai
 - Paskyrė Juozas Tūbelį: [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-19059"></a>
 - t-001
-  global_id: t-19059
   teiginys: "1947 m. pabaigoje Kazimieras Pyplys-Mažytis ir Juozas Lukša-Skirmantas į laisvąjį pasaulį nugabeno partizanų dokumentus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,12 +84,11 @@ media_all_json: |-
     popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
     dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
     SSRS nutrauktų terorą.
-  citata_rodoma: |
-    popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
+  citata_rodoma: "popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19059
+    - t-001

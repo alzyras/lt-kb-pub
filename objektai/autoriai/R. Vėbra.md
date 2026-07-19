@@ -30,7 +30,6 @@ Vėbra^128.
 
 <a id="claim-t-30948"></a>
 - t-001
-  global_id: t-30948
   teiginys: "R. Vėbra daug rašė lietuviškos spaudos draudimo XIX a. klausimais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -45,15 +44,13 @@ Vėbra^128.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Lietuviškos spaudos draudimo XIX a. klausimais ne­
+    171-174p.). Lietuviškos spaudos draudimo XIX a. klausimais ne­
     mažai rašė R. Vėbra^128.
-  citata_rodoma: |
-    Lietuviškos spaudos draudimo XIX a. klausimais ne­
-    mažai rašė R. Vėbra^128.
+  citata_rodoma: "Lietuviškos spaudos draudimo XIX a. klausimais ne­\nmažai rašė R. Vėbra^128."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30948
+    - t-001

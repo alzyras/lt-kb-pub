@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-41471"></a>
-- t-001
-  global_id: t-41471
+- t-002
   teiginys: "Šūksnis „Vyrai, pavojus!“ buvo ištartas pastebėjus, kad stovyklą supa čekistai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -50,6 +49,7 @@ media_all_json: |-
   pagrindžia:
     - c-43204
     - c-43205
+
 ## Citatos
 
 - id: c-43204
@@ -67,7 +67,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41471
+    - t-002
+
 - id: c-43205
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -81,3 +82,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

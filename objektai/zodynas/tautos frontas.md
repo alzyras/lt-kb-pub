@@ -31,7 +31,6 @@ O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoksnius, labai �
 
 <a id="claim-t-22323"></a>
 - t-001
-  global_id: t-22323
   teiginys: "Sąjūdis buvo tautos frontas, suvienijęs plačius ir įvairių pažiūrų Lietuvos visuomenės sluoksnius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,12 +61,11 @@ O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoksnius, labai �
     vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
     kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
     vės, demokratijos, nepriklausomybės idealais.
-  citata_rodoma: |
-    nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-
+  citata_rodoma: "nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22323
+    - t-001

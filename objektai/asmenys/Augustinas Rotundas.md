@@ -39,7 +39,6 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
 
 <a id="claim-t-60086"></a>
 - t-001
-  global_id: t-60086
   teiginys: "Jonas Chodkevičius XVI a. antrojoje pusėje perdavė Dusburgiečio kroniką Vilniaus vaitui Augustinui Rotundui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,10 +55,9 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
   temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį sakinį apie Rotundui perduotą kroniką."
   pagrindžia:
     - c-60718
-    - c-001
+
 <a id="claim-t-60087"></a>
 - t-002
-  global_id: t-60087
   teiginys: "Augustinas Rotundas, gavęs Dusburgiečio rankraštį, perdavė jį Motiejui Strijkovskiui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60086
+
 ## Citatos
 
 - id: c-60718
@@ -94,22 +91,19 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris
-    perdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.). Rotundas,
-    pavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją (rankraštis vėliau
-    dingo).
-  citata_rodoma: |
-    Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris
-    perdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.). Rotundas,
-    pavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją (rankraštis vėliau
-    dingo).
+    Jį gavęs perdavė M. Strijkovskiui. Sis Dusburgiečio nuorašą (apimantį
+    įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76
+    — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos
+    faktus į lituanistinę istorinę literatūrą.
+  citata_rodoma: "Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris\nperdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.). Rotundas,\npavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją (rankraštis vėliau\ndingo)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60086
+    - t-001
+
 - id: c-60719
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -124,4 +118,4 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60087
+    - t-002

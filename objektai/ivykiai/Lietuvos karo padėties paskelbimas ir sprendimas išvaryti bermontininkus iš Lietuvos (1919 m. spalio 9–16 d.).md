@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-41309"></a>
 - t-001
-  global_id: t-41309
   teiginys: "1919 m. spalio 9 d. Lietuvos vyriausybė paskelbė visoje šalyje karo padėtį, o spalio 16 d. priėmė sprendimą jėga išvaryti bermontininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-41310"></a>
 - t-002
-  global_id: t-41310
   teiginys: "Lietuvos konfliktas su bermontininkais labai pablogino santykius su Vokietija, nes didelę dalį Bermonto pajėgų sudarė vokiečių savanoriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,21 +109,15 @@ Nenurodyta
     santykius su Vokietija, nes didelę dalį
     Bermonto pajėgų sudarė vokiečių sa-
     vanoriai.
-  citata_rodoma: |
-    Pasirengimas operacijai
-    Lietuvai iškilo naujas egzisten-
-    cinis pavojus. 1919 m. spalio 9 d.
-    Lietuvos vyriausybė paskelbė visoje
-    šalyje karo padėtį, spalio 16 d. buvo pri-
-    imtas sprendimas jėga išvaryti bermon-
-    tininkus iš Lietuvos.
+  citata_rodoma: "Pasirengimas operacijai\nLietuvai iškilo naujas egzisten-\ncinis pavojus. 1919 m. spalio 9 d.\nLietuvos vyriausybė paskelbė visoje\nšalyje karo padėtį, spalio 16 d. buvo pri-\nimtas sprendimas jėga išvaryti bermon-\ntininkus iš Lietuvos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41309
+    - t-001
+
 - id: c-44911
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -143,19 +135,11 @@ Nenurodyta
     kus, tikėdamasi su jų pagalba išlaikyti
 
     „Mūšis ties Radviliškiu“.
-  citata_rodoma: |
-    Lietuvos konfliktas
-    su bermontininkais labai pablogino
-    santykius su Vokietija, nes didelę dalį
-    Bermonto pajėgų sudarė vokiečių sa-
-    vanoriai. Vokietija rėmė bermontinin-
-    kus, tikėdamasi su jų pagalba išlaikyti
-
-    „Mūšis ties Radviliškiu“.
+  citata_rodoma: "Lietuvos konfliktas\nsu bermontininkais labai pablogino\nsantykius su Vokietija, nes didelę dalį\nBermonto pajėgų sudarė vokiečių sa-\nvanoriai. Vokietija rėmė bermontinin-\nkus, tikėdamasi su jų pagalba išlaikyti\n\n„Mūšis ties Radviliškiu“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41310
+    - t-002

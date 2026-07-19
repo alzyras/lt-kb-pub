@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-31420"></a>
 - t-001
-  global_id: t-31420
   teiginys: "1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,16 +89,11 @@ Nenurodyta
     iš Maskvos karų orbitos ji jau nebeišėjo iki paskutiniojo padalinimo
     (1795). Tos dvi reikšmingos datos patiekia ribas visam paskirsty­
     mui.
-  citata_rodoma: |
-    Kai 1492 metais, Bizantijos sosto palikuonę vedęs, Maskvos
-    didysis kunigaikštis Jonas III _pirmasis kardu užatakavo_ Lietuvą,
-    iš Maskvos karų orbitos ji jau nebeišėjo iki paskutiniojo padalinimo
-    (1795). Tos dvi reikšmingos datos patiekia ribas visam paskirsty­
-    mui.
+  citata_rodoma: "Kai 1492 metais, Bizantijos sosto palikuonę vedęs, Maskvos\ndidysis kunigaikštis Jonas III _pirmasis kardu užatakavo_ Lietuvą,\niš Maskvos karų orbitos ji jau nebeišėjo iki paskutiniojo padalinimo\n(1795). Tos dvi reikšmingos datos patiekia ribas visam paskirsty­\nmui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31420
+    - t-001

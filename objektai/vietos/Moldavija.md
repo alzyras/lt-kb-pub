@@ -39,8 +39,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 ## Teiginiai
 
 <a id="claim-t-171837"></a>
-- t-001
-  global_id: t-171837
+- t-012
   teiginys: "Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,19 +54,6 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   semantiniai_rysiai: "Švitrigaila puolė Lenkija (0.72); Totoriai puolė Lenkija (0.66)"
   pagrindžia:
     - c-156307
-
-<a id="claim-t-187616"></a>
-- t-002
-  global_id: t-187616
-  teiginys: 'Lietuvos metraštis pasakoja, kad Olbrachtui įsiveržus į Moldaviją vaivada Steponas sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Kronikos pasakojimui ir valdovų titulams reikia inline atribucijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Sučiava; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Trakai; llm_object: Sučiava; llm_object: Moldavija'
-  semantiniai_rysiai: '[[objektai/asmenys/Steponas|Steponas]] valdė Moldavija'
-  pagrindžia:
-    - c-002
 - susijęs iš Sučiava: Moldavijos vaivada Steponas sustiprino savo sostinę Sučiavos pilį ir kitus miestus, palikdamas juose įgulas.
 - susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
 - susijęs iš [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas.md#claim-t-186765|Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]: Redakcinė pastaba nurodo, kad aptariamas žygis gali būti siejamas su Rumelijos vietininko Ali-pašos žygiu į Moldaviją 1485 m. vasarą.
@@ -144,11 +130,9 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     su visa savo kariuomene kaip didelėje tvirtovėje2 9 .
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187616
+  statusas: verified
 ## Citatos
 
 - id: c-156307
@@ -165,18 +149,11 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     19 dienų, husitų ir Lenkijos kariuomenė
     įsiveržė į Ordino valdas birželio pradžioje,
     viską naikino ir degino.
-  citata_rodoma: |
-    Magistras dar balandį prašė Švitrigailos
-    kartu su Livonija, Podole, Valakija-Mol-
-    davija ir totoriais pulti Lenkiją. Tuo tar-
-    pu žemaičiai puolė Kuršą ir niokojo jį
-    19 dienų, husitų ir Lenkijos kariuomenė
-    įsiveržė į Ordino valdas birželio pradžioje,
-    viską naikino ir degino.
+  citata_rodoma: "Magistras dar balandį prašė Švitrigailos\nkartu su Livonija, Podole, Valakija-Mol-\ndavija ir totoriais pulti Lenkiją. Tuo tar-\npu žemaičiai puolė Kuršą ir niokojo jį\n19 dienų, husitų ir Lenkijos kariuomenė\nįsiveržė į Ordino valdas birželio pradžioje,\nviską naikino ir degino."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171837
+    - t-012

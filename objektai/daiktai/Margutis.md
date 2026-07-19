@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-193479"></a>
 - t-001
-  global_id: t-193479
   teiginys: "Kojelavičiaus aiškinimu, rusai nuo seno Velykų dieną dovanodavo vienas kitam margutį kaip bičiuliškumo ženklą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -87,28 +86,11 @@ Nenurodyta
     gaikščio dukters, noru sutikęs priimti krikščionybę, ne­
     atmetė rusų apeigų ir rusams Vitebske pastatė porą
     šventovių.
-  citata_rodoma: |
-    Abiejų tautų
-    priesaika turinti sustiprinti amžinąją taiką. Kai, sutik­
-    dami su šitokiomis sąlygomis;
-    prisiekė valdovas Dimitrijus,
-    vyriausiasis šventikas, žmo­
-    nių vadinamas metropolitu,
-    viečė ir žymiausieji bajorai,
-    Algirdas,
-    tą
-    pačią
-    dieną
-    įžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­
-    vanojo kunigaikštį, kariškai jį pasveikinęs prie pačių
-    altorių (,,Tad jau supratai, Dimitrijau, katras iš mu­
-    dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
-    Mat rusai nuo senų senovės įpratę Velykų dieną do­
-    vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
+  citata_rodoma: "Abiejų tautų\npriesaika turinti sustiprinti amžinąją taiką. Kai, sutik­\ndami su šitokiomis sąlygomis;\nprisiekė valdovas Dimitrijus,\nvyriausiasis šventikas, žmo­\nnių vadinamas metropolitu,\nviečė ir žymiausieji bajorai,\nAlgirdas,\ntą\npačią\ndieną\nįžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­\nvanojo kunigaikštį, kariškai jį pasveikinęs prie pačių\naltorių (,,Tad jau supratai, Dimitrijau, katras iš mu­\ndviejų greičiau pakyla į karą\"), velykiniu kiaušiniu.\nMat rusai nuo senų senovės įpratę Velykų dieną do­\nvanoti vienas kitam margutį kaip bičiuliškumo ženklą."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193479
+    - t-001

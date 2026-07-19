@@ -7,10 +7,10 @@ datos:
   - '1560 m.'
 date_start: '1560'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ media_all_json: |-
 
 <a id="claim-t-201876"></a>
 - t-001
-  global_id: t-201876
   teiginys: "Štai 1560 m. Kauno siuvėjai pasirūpino gauti iš Vilniaus siuvėjų cecho laišką su išdėstytais pastarųjų cecho nuostatais."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201876
+    - t-001

@@ -31,7 +31,6 @@ Išėjus jo tarnams, Zigmantas taip prabilo į Jogailą: „Uwaž, najmilszy bra
 
 <a id="claim-t-36011"></a>
 - t-001
-  global_id: t-36011
   teiginys: "Zigmantas ragino Jogailą leisti vainikuoti Vytautą karaliumi, kad karūna puoštų ne tik Jogailos galvą, bet ir jo tėvynę Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Išėjus jo tarnams, Zigmantas taip prabilo į Jogailą: „Uwaž, najmilszy bra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36011
+    - t-001

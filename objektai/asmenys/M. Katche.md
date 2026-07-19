@@ -31,7 +31,6 @@ Katche.
 
 <a id="claim-t-39447"></a>
 - t-001
-  global_id: t-39447
   teiginys: "Karininkas M. Katche buvo Panevėžio bataliono instruktorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Katche.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39447
+    - t-001

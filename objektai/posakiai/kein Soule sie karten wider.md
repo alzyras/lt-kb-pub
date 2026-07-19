@@ -37,7 +37,6 @@ Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
 
 <a id="claim-t-28705"></a>
 - t-001
-  global_id: t-28705
   teiginys: "Frazė „kein Soule sie karten wider“ nusakė kryžiuočių grįžimą prie Saulės, kur 1236 m. rugsėjo 22 d. juos sumušė Vykinto vadovaujami žemaičiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28705
+    - t-001

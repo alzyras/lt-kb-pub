@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-41489"></a>
 - t-001
-  global_id: t-41489
   teiginys: "1431 m. birželio 19 d. Skirsnemunėje buvo pasirašyta sutartis su Ordinu „Romos karaliaus garbei“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,16 +70,11 @@ media_all_json: |-
     žiuočių ir Livonijos šakomis), „Romos
     karaliaus garbei“ 1431 m. birželio 19 d.,
     Skirsnemunėje.
-  citata_rodoma: |
-    Šis vedė
-    derybas ir pasirašė sutartį su Ordinu (kry-
-    žiuočių ir Livonijos šakomis), „Romos
-    karaliaus garbei“ 1431 m. birželio 19 d.,
-    Skirsnemunėje.
+  citata_rodoma: "Šis vedė\nderybas ir pasirašė sutartį su Ordinu (kry-\nžiuočių ir Livonijos šakomis), „Romos\nkaraliaus garbei“ 1431 m. birželio 19 d.,\nSkirsnemunėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41489
+    - t-001

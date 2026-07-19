@@ -37,7 +37,6 @@ Sležas ##### KAUNAS, 1930 — VYTAUTO DIDŽIOJO — METAI ###### „SAKALO“ B
 
 <a id="claim-t-35760"></a>
 - t-001
-  global_id: t-35760
   teiginys: "Vytauto Didžiojo 500 metų jubiliejaus proga „Sakalo“ bendrovė išleido plačią monografiją apie Vytautą Didįjį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Sležas ##### KAUNAS, 1930 — VYTAUTO DIDŽIOJO — METAI ###### „SAKALO“ B
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35760
+    - t-001

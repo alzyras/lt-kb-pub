@@ -43,8 +43,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 ## Teiginiai
 
 <a id="claim-t-174175"></a>
-- t-001
-  global_id: t-174175
+- t-007
   teiginys: "Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-158384
 
 <a id="claim-t-174176"></a>
-- t-002
-  global_id: t-174176
+- t-008
   teiginys: "1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,9 +77,8 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   pagrindžia:
     - c-158390
 
-<a id="claim-t-174181"></a>
-- t-003
-  global_id: t-174181
+<a id="claim-t-174177"></a>
+- t-014
   teiginys: "Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-158388
 
 <a id="claim-t-174178"></a>
-- t-004
-  global_id: t-174178
+- t-001
   teiginys: "Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,8 +110,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-158387
 
 <a id="claim-t-174183"></a>
-- t-005
-  global_id: t-174183
+- t-002
   teiginys: "Balińskis manė, kad iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,8 +126,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-158391
 
 <a id="claim-t-174184"></a>
-- t-006
-  global_id: t-174184
+- t-003
   teiginys: "Nuo tvirtovės prie Vilnios palei krantą pažemiais trobelės tęsėsi iki Vilijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,8 +142,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-158385
 
 <a id="claim-t-174187"></a>
-- t-007
-  global_id: t-174187
+- t-005
   teiginys: "Gediminas, statydindamas pilį, iškasė Vilniai naują vagą ir iškastomis žemėmis paaukštino Pilies kalną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -165,10 +158,9 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-158386
 
 <a id="claim-t-188851"></a>
-- t-008
-  global_id: t-188851
+- t-013
   teiginys: "Narbutas Vilnios vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -182,11 +174,10 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnia\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171740
+    - c-171741
 
 <a id="claim-t-188852"></a>
-- t-009
-  global_id: t-188852
+- t-004
   teiginys: "Narbutas Vilnią apibūdino kaip kadaise laivybai tikusią, sraunią, vingiuotą ir akmenuoto dugno upę, priešindamas ją giliai Vilijai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -204,23 +195,8 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   pagrindžia:
     - c-171741
 
-<a id="claim-t-188854"></a>
-- t-010
-  global_id: t-188854
-  teiginys: "Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-171743
-
 <a id="claim-t-193431"></a>
-- t-011
-  global_id: t-193431
+- t-017
   teiginys: "Kojelavičiaus pasakojime nuo Plikojo kalno nustumti vienuoliai žuvo Vilnioje, kai minia susidorojo su krikščionybės skelbėjais."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -233,8 +209,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-176153
 
 <a id="claim-t-194262"></a>
-- t-012
-  global_id: t-194262
+- t-019
   teiginys: "Man atrodo, kad jei Lietuvo je buvo keletas tokių šventų vieto vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -247,8 +222,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-176855
 
 <a id="claim-t-197940"></a>
-- t-013
-  global_id: t-197940
+- t-020
   teiginys: "Antroji mažesnė, kuri Vilniuje įteka į Neri, lotyniškose privilegijose vadinama Velna arba Wilna."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -258,17 +232,6 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179408
-
-<a id="claim-t-188853"></a>
-- t-017
-  global_id: t-188853
-  teiginys: 'Narbuto perteiktoje legendoje Gediminas nakvojo Šventaragio miške prie Vilnios ir Neries santakos, kur jam prisisapnavo geležinis vilkas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas legendinis kontekstas ir vieta prie Vilnios. Sapno pasakojimas paliktas atribuotai, nepridedant platesnio Vilniaus įkūrimo aiškinimo.'
-  pagrindžia:
-    - c-010
 - susijęs iš [[objektai/asmenys/Vaišelga.md#claim-t-82778|Vaišelga (kunigaikštis)]]: Vaišelga nuvyko į Sinajaus kalną, ten pasikrikštijo, tapo vienuoliu, po trejų metų grįžo pas Mindaugą ir įkūrė vienuolyną.
 - susijęs iš [[objektai/grupes/Rogvoldovičiai.md#claim-t-86820|Rogvoldovičiai]]: Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.
 - susijęs iš Kijevas: Cituojamame metraštyje teigiama, kad Lietuvos miestai buvo valdomi Kijevo, Černigovo, Smolensko ir Polocko kunigaikščių.
@@ -302,11 +265,9 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     čiui -  kas nors panašaus prisisapnuotų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188853
+  statusas: verified
 ## Citatos
 
 - id: c-158384
@@ -336,7 +297,8 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174175
+    - t-007
+
 - id: c-158385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -360,7 +322,8 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174184
+    - t-003
+
 - id: c-158386
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -395,7 +358,8 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174187
+    - t-005
+
 - id: c-158387
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -413,22 +377,15 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     surašytos klausantis jų skaldų, bei
     šiaurės kronikos byloja ne apie vie­
     ną tokį žygį.
-  citata_rodoma: |
-    Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­
-    liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­
-    sėjus ten būta medinių namų gyvenvietės4. Nors ir patogio­
-    je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių
-    santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos
-    surašytos klausantis jų skaldų, bei
-    šiaurės kronikos byloja ne apie vie­
-    ną tokį žygį.
+  citata_rodoma: "Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­\nliautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­\nsėjus ten būta medinių namų gyvenvietės4. Nors ir patogio­\nje padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių \nsantakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos\nsurašytos klausantis jų skaldų, bei \nšiaurės kronikos byloja ne apie vie­\nną tokį žygį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174178
+    - t-001
+
 - id: c-158388
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -460,37 +417,15 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
     regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
     vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
-  citata_rodoma: |
-    48
-
-    ## Puslapis 65
-
-    I  KNYGA
-    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
-    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
-    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
-    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
-    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
-    nuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­
-    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
-    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
-    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
-    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
-    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
-    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
-    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
-    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
-    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
-    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
-    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
-    imperatoriui Vengrijos karaliui Zigmantui/7  ir t.
+  citata_rodoma: "48\n\n## Puslapis 65\n\nI  KNYGA\nStrijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­\nčius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­\ndami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas, \npo Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­\ndangino su visu guotu į Šventaragio slėnį, už keturių mylių \nnuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­\nnas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­\nkurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina, \nmedžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­\nnės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar \nVilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­\nnu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­\ntingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto \nlaikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir \nsvetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­\nną jų tad kaip didžią dovaną kartą garbingame valdovų ir \nkunigaikščių suvažiavime Lucke 1429 metais įteikė Romos \nimperatoriui Vengrijos karaliui Zigmantui/7  ir t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174181
+    - t-014
+
 - id: c-158390
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -545,7 +480,8 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174176
+    - t-008
+
 - id: c-158391
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -572,7 +508,8 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174183
+    - t-002
+
 - id: c-171740
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -585,20 +522,13 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     Kitose vietose, kaip man pasakojo, tokias vandenų gundy­
     tojas paprasti žmonės vadina undinėmis (Ondynami) arba van­
     denėmis (Wundynami), o tai žodžio nimfa vertimas.
-  citata_rodoma: |
-    Iš to žodžio paimtas pa­
-    vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
-    niaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­
-    jimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­
-    niui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­
-    ja, kurią seniau vadino Nerimi.
+  citata_rodoma: "Iš to žodžio paimtas pa­\nvadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­\nniaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­\njimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­\nniui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­\nja, kurią seniau vadino Nerimi."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188851
 - id: c-171741
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -621,7 +551,9 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188852
+    - t-013
+    - t-004
+
 - id: c-171743
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -638,27 +570,13 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     niu esanti užkasta kažkokia seniena; pasak vienų, lobis, pasak
     kitų, kažkokio atmintino žmogaus kūnas; tai rodo senų laikų
     padavimai.
-  citata_rodoma: |
-    Lietuvos didžiojo kunigaikščio Gedimino kapas yra
-    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
-    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
-    avide cupientes tumulos, quam maximos efficere (Herodotas). Luka-
-    nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
-    pelenai ilsisi supiltame kalne).
-    2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski
-    numeryje**.
-    372
-
-    ## Puslapis 372
-
-    vedančio iš Užupio į Antakalnį.
+  citata_rodoma: "Lietuvos didžiojo kunigaikščio Gedimino kapas yra\nprie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,\n1 Principum viromm tumulis injiciunt omnes humum urtatim, et\navide cupientes tumulos, quam maximos efficere (Herodotas). Luka-\nnas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių\npelenai ilsisi supiltame kalne).\n2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski\nnumeryje**.\n372\n\n## Puslapis 372\n\nvedančio iš Užupio į Antakalnį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188854
 - id: c-176153
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -688,29 +606,15 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     sk e lb ė jų n u žu d ym ą
     tas, įsakė ištardyti bruzdėji­
     mo vadovus.
-  citata_rodoma: |
-    Kol jis pats gyveno
-    Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,
-    tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen­
-    kėję, arba Poleksijoje), minia, kažin kieno sukursty­
-    ta, žiauriai su jais susidorojo. Vienas būrelis iš sep­
-    tynių vienuolių buvo prievarta išvilktas iš namų į aikš­
-    tę, kur jie, miniai piktažodžiaujant, buvo nukirsdinti,
-    tuo būdu pašventindami savo krauju lietuvių žemes
-    Kristaus mokslo sėjai; kitas būrelis, taip pat iš septy­
-    nių vienuolių, buvo nutemptas į kalną, kurį žmonės
-    vadina Plikuoju, čia juos prie kryžių pririšo ir nuo
-    stataus kalno šlaito nustūmė į papėdėje tekančią Vil­
-    nią. Šventus nužudytųjų kūnus Goštautas įsakė surasti
-    ir palaidoti toje pačioje aikštėje, kur jie skelbė Kris­
-    taus žodį.
+  citata_rodoma: "Kol jis pats gyveno\nVilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,\ntačiau, jam išvykus (kartą iškeliavo į Tikociną Palen­\nkėję, arba Poleksijoje), minia, kažin kieno sukursty­\nta, žiauriai su jais susidorojo. Vienas būrelis iš sep­\ntynių vienuolių buvo prievarta išvilktas iš namų į aikš­\ntę, kur jie, miniai piktažodžiaujant, buvo nukirsdinti,\ntuo būdu pašventindami savo krauju lietuvių žemes\nKristaus mokslo sėjai; kitas būrelis, taip pat iš septy­\nnių vienuolių, buvo nutemptas į kalną, kurį žmonės\nvadina Plikuoju, čia juos prie kryžių pririšo ir nuo\nstataus kalno šlaito nustūmė į papėdėje tekančią Vil­\nnią. Šventus nužudytųjų kūnus Goštautas įsakė surasti\nir palaidoti toje pačioje aikštėje, kur jie skelbė Kris­\ntaus žodį."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193431
+    - t-017
+
 - id: c-176855
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -745,7 +649,8 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194262
+    - t-019
+
 - id: c-179408
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -766,4 +671,4 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197940
+    - t-020

@@ -38,8 +38,7 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
 ## Teiginiai
 
 <a id="claim-t-05265"></a>
-- t-001
-  global_id: t-05265
+- t-002
   teiginys: "Lietuvių Fondo valdybos pirmininkai prisiėmė finansinę naštą, leidusią autoriui išleisti Lietuvos istoriją gimtąja kalba."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
     - c-163055
 
 <a id="claim-t-179349"></a>
-- t-002
-  global_id: t-179349
+- t-004
   teiginys: "Lietuvių Fondo valdybos pirmininkai prisiėmė finansinę naštą, leidusią autoriui išleisti Lietuvos istoriją lietuvių kalba."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -89,19 +87,12 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
     kalba Lietuvos istoriją, kaip aš ją iš savo ilgamečių kitų tyrinėji­
     mų studijų, atitinkamų šaltinių ir dėstymo aukštosiose mokyklose
     esu apčiuopęs.
-  citata_rodoma: |
-    Baigdamas nuoširdžiai dėkoju Lietuvių Fondo Valdybos pir­
-    mininkams (pp. Dr. A. Razmai, Dr. K. Ambrozaičiui), kad jie
-    pasiimdami Fondui finansinę naštą, įgalino mane realizuoti šią
-    mano gyvenimo testamentinę svajonę — duoti savo tautai gimtąja
-    kalba Lietuvos istoriją, kaip aš ją iš savo ilgamečių kitų tyrinėji­
-    mų studijų, atitinkamų šaltinių ir dėstymo aukštosiose mokyklose
-    esu apčiuopęs.
+  citata_rodoma: "Baigdamas nuoširdžiai dėkoju Lietuvių Fondo Valdybos pir­\nmininkams (pp. Dr. A. Razmai, Dr. K. Ambrozaičiui), kad jie\npasiimdami Fondui finansinę naštą, įgalino mane realizuoti šią\nmano gyvenimo testamentinę svajonę — duoti savo tautai gimtąja\nkalba Lietuvos istoriją, kaip aš ją iš savo ilgamečių kitų tyrinėji­\nmų studijų, atitinkamų šaltinių ir dėstymo aukštosiose mokyklose\nesu apčiuopęs."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05265
-    - t-179349
+    - t-002
+    - t-004

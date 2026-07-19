@@ -31,7 +31,6 @@ Jadvyga savo „wiesz­ czym duchem“ (pranašingu nujautimu), kaip sako Procha
 
 <a id="claim-t-34415"></a>
 - t-001
-  global_id: t-34415
   teiginys: "Jadvyga, pasak Prochaskos, savo „wieszczym duchem“ pranašavo ambicingo Vytauto didelių užsimojimų galą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Jadvyga savo „wiesz­ czym duchem“ (pranašingu nujautimu), kaip sako Procha
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34415
+    - t-001

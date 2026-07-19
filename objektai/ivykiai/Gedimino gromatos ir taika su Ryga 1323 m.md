@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201319"></a>
 - t-001
-  global_id: t-201319
   teiginys: "Tuo pačiu laiku Gediminas antrą gromatą pas pravorus ir gvardijonus Saksonijos ir Silezijos, ly gia dalia prekybos miestus Liubeką, Rostoką, Zun dą, Greifsvaldą, Sietiną ir Gotlandą buvo nuleidęs, sakydamas, jog jis lūgojęs nuo popiežiaus kunigų ir siuntinius."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184669
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ant galo Li­
     gojo Gediminas širdingai popiežiaus žvilgterėti ant
@@ -80,4 +80,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201319
+    - t-001

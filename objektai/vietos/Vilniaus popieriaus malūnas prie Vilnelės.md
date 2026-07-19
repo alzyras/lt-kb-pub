@@ -40,7 +40,6 @@ Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuo
 
 <a id="claim-t-86257"></a>
 - t-001
-  global_id: t-86257
   teiginys: "1522 m. prie Vilnelės, aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko, iškilo popieriaus malūnas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86257
+    - t-001

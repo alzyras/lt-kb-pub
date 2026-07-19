@@ -36,7 +36,6 @@ Kojelavičius teigė, kad po Liublino unijos Lietuva liko federacinė valstybė,
 
 <a id="claim-t-193533"></a>
 - t-001
-  global_id: t-193533
   teiginys: "Kojelavičius teigė, kad po Liublino unijos Lietuva liko federacinė valstybė, kurios savarankiškumą laidavo 1588 m. Lietuvos Statutas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -64,16 +63,11 @@ Kojelavičius teigė, kad po Liublino unijos Lietuva liko federacinė valstybė,
     valstybė, jos savarankiškumą laidavęs 1588 m. Lietu­
     vos Statutas ir ji žuvusi 1795 m. per paskutinįjį Žeč­
     pospolitos padalijimą.
-  citata_rodoma: |
-    Vienok jo istorija yra trumpa ir
-    daug dar trūksta, užvis toje daly, kurioj aprašo darbus
-    pagonų lietuvių, žemaičių; bet jaunam lietuviui ar že­
-    maičiui, norinčiam išmokti lotyniškai, nebreikia geres­
-    nės knygos" (Raštai. T. 1. V., 1976, p. 37—38).
+  citata_rodoma: "Vienok jo istorija yra trumpa ir\ndaug dar trūksta, užvis toje daly, kurioj aprašo darbus\npagonų lietuvių, žemaičių; bet jaunam lietuviui ar že­\nmaičiui, norinčiam išmokti lotyniškai, nebreikia geres­\nnės knygos\" (Raštai. T. 1. V., 1976, p. 37—38)."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193533
+    - t-001

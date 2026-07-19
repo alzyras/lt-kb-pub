@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-99975"></a>
 - t-001
-  global_id: t-99975
   teiginys: "Keturios bibliografijos tąsos, apimančios 1939-1966 m., buvo išleistos Marburge 1953-1969 m. serijoje apie Rytų ir Vidurio Europą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99975
+    - t-001

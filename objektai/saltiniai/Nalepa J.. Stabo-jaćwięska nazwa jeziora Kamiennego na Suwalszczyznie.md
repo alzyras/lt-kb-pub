@@ -32,25 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad nalepa J..
 
-## Teiginiai
-
-<a id="claim-t-61193"></a>
-- t-001
-  global_id: t-61193
-  teiginys: "J. Nalepos straipsnis apie jotvingišką Kamienne ežero vardą Suvalkų krašte paskelbtas „Rocznik Białostocki“ 15 tome."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Suvalkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nalepa J.. Stabo-jaćwięska nazwa jeziora Kamiennego na Suwalszczyznie: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Suvalkai: mention_match, place, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nalepa J.. Stabo-jaćwięska nazwa jeziora Kamiennego na Suwalszczyznie\" parinktas kaip owner_note_path. Targetas \"Suvalkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61825
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Nalepos straipsnis apie jotvingišką Kamienne ežero vardą Suvalkų krašte paskelbtas „Rocznik Białostocki“ 15 tome.'
@@ -63,8 +44,7 @@ Dusburgietis teigia, kad nalepa J..
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61193
+
 ## Citatos
 
 - id: c-61825
@@ -76,13 +56,29 @@ Dusburgietis teigia, kad nalepa J..
     Three Catechisms.—London, 1974.
     Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg
     i.
-  citata_rodoma: |
-    Nalepa J.. Stabo-jaćwięska nazwa jeziora Kamiennego na Suwalszczyznie.— Rocznik
-    Białostocki, Warszawa, 1981, t. 15, s. 141—149.
+  citata_rodoma: "Nalepa J.. Stabo-jaćwięska nazwa jeziora Kamiennego na Suwalszczyznie.— Rocznik\nBiałostocki, Warszawa, 1981, t. 15, s. 141—149."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61193
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-61193"></a>
+- t-001
+  teiginys: "J. Nalepos straipsnis apie jotvingišką Kamienne ežero vardą Suvalkų krašte paskelbtas „Rocznik Białostocki“ 15 tome."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Suvalkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nalepa J.. Stabo-jaćwięska nazwa jeziora Kamiennego na Suwalszczyznie: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Suvalkai: mention_match, place, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nalepa J.. Stabo-jaćwięska nazwa jeziora Kamiennego na Suwalszczyznie\" parinktas kaip owner_note_path. Targetas \"Suvalkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-61825

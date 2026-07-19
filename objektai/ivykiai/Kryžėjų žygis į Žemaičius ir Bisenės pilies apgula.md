@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201290"></a>
 - t-001
-  global_id: t-201290
   teiginys: "Apgulus pilį, rados kru vina mūša, kaipogi įgulė Bisenės gyniojo švente nybes su neaprašoma kantrybe ir narsybe, vienok lig nesubrėškus dar pergalėjo meldžionys įgulę ir į pilį varu įsilaužė; iškirtę svietą, pačią pilį sude gino, bet ar įgijo tuo pačiu žygiu."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184640
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet visų
     šventesnioji vieta buvo pati sala, kurią tuo žygiu
@@ -75,4 +75,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201290
+    - t-001

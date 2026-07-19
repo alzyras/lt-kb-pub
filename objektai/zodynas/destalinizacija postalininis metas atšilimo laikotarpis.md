@@ -37,8 +37,7 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
 ## Teiginiai
 
 <a id="claim-t-22113"></a>
-- t-001
-  global_id: t-22113
+- t-003
   teiginys: "Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
     - c-24801
 
 <a id="claim-t-22115"></a>
-- t-002
-  global_id: t-22115
+- t-001
   teiginys: "Postalininiu metu atsisakyta masinio fizinio teroro, bet toliau vykdytas priverstinis ideologinis gyventojų apdorojimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,9 +69,9 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
   pagrindžia:
     - c-24799
     - c-166804
+
 <a id="claim-t-193603"></a>
-- t-003
-  global_id: t-193603
+- t-005
   teiginys: "Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -104,15 +102,15 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
     masiškai pažeidinėjamos žmogaus teisės ir laisvės, tačiau toliau vykdytas
     gyventojų priverstinis ideologinis apdorojimas, taikomi administraciniai
     metodai.
-  citata_rodoma: |
-    Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir
+  citata_rodoma: "Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22115
+    - t-001
+
 - id: c-24801
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -130,15 +128,15 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
     Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: |
-    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
+  citata_rodoma: "tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22113
+    - t-003
+
 - id: c-166804
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -154,10 +152,12 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
     metodai. Pamažu tampanti lietuviškesnė komunistų partija (1953 m.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-176276
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -172,4 +172,4 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193603
+    - t-005

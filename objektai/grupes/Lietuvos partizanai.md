@@ -40,8 +40,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 ## Teiginiai
 
 <a id="claim-t-74759"></a>
-- t-001
-  global_id: t-74759
+- t-004
   teiginys: "1944–1946 m. Lietuvoje susidarė dideli, net iki 100 kovotojų siekę partizanų būriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - c-22634
 
 <a id="claim-t-74760"></a>
-- t-002
-  global_id: t-74760
+- t-001
   teiginys: "Lietuvos partizanų pasipriešinimas SSRS truko visą dešimtmetį po Antrojo pasaulinio karo, 1945–1953 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - c-22631
 
 <a id="claim-t-74763"></a>
-- t-003
-  global_id: t-74763
+- t-008
   teiginys: "Nuo 1944 m. vasaros sovietų represijos ir teroras Lietuvoje skatino dešimtmetį trukusį partizaninį karą dėl nepriklausomybės atkūrimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,8 +98,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - c-72777
 
 <a id="claim-t-74764"></a>
-- t-004
-  global_id: t-74764
+- t-005
   teiginys: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose buvo įkurti spaudos ir informacijos skyriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,9 +113,9 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   pagrindžia:
     - c-22635
     - c-166549
+
 <a id="claim-t-74765"></a>
-- t-005
-  global_id: t-74765
+- t-006
   teiginys: "1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -138,27 +134,18 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - c-22636
 
 <a id="claim-t-74766"></a>
-- t-006
-  global_id: t-74766
+- t-007
   teiginys: "Nors organizuota ginkluota kova pasibaigė 1953-ųjų pavasarį, keletas pavienių partizanų išsislapstė dar dešimt ir daugiau metų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos partizanai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos partizanai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1944-1953; įvykio data: 1953 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-22637
+    - c-166549
 
 <a id="claim-t-193555"></a>
-- t-007
-  global_id: t-193555
+- t-010
   teiginys: "Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą maistu, medikamentais, drabužiais."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -187,20 +174,15 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
     nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
     o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
-  citata_rodoma: |
-    Tačiau pergyvenusi
-    didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
-    vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-
-    gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
-    nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
-    o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
+  citata_rodoma: "Tačiau pergyvenusi \ndidžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos \nvykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-\ngebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-\nnimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953), \no tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74760
+    - t-001
+
 - id: c-22634
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -212,16 +194,15 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     liavo visą Lietuvą, išskyrus miestus, apsistodavo kaimuose, pastatydavo
     sargybos postus, o pasirodžius NKVD dalims eidavo į mūšį. Užimant
     Grupė Lietuvos partizanų 1947 m.
-  citata_rodoma: |
-    Užimant
-    Grupė Lietuvos partizanų 1947 m.
+  citata_rodoma: "Užimant \nGrupė Lietuvos partizanų 1947 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74759
+    - t-004
+
 - id: c-22635
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -236,18 +217,15 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     mus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-
     macijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau
     buvo leidžiama 80 pavadinimų periodinių leidinių.
-  citata_rodoma: |
-    Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-
-    mus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-
-    macijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau
-    buvo leidžiama 80 pavadinimų periodinių leidinių.
+  citata_rodoma: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-\nmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-\nmacijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau \nbuvo leidžiama 80 pavadinimų periodinių leidinių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74764
+    - t-005
+
 - id: c-22636
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -265,21 +243,15 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
     dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
     SSRS nutrauktų terorą.
-  citata_rodoma: |
-    1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras
-    Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno par-
-    tizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios
-    ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų vadovybės laišką
-    popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
-    dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
-    SSRS nutrauktų terorą.
+  citata_rodoma: "1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras \nPyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno par-\ntizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios \ništremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų vadovybės laišką \npopiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips \ndėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad \nSSRS nutrauktų terorą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74765
+    - t-006
+
 - id: c-22637
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -294,18 +266,13 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     votojai savo drąsa, pasiaukojimu ir gyvybėmis įrodė, kad 1940 m. vasarą
     Lietuva į SSRS įjungta prieš tautos valią ir atpirko Lietuvos vyriausybės
     ir kariuomenės neveiklumą.
-  citata_rodoma: |
-    Laisvės ko-
-    votojai savo drąsa, pasiaukojimu ir gyvybėmis įrodė, kad 1940 m. vasarą
-    Lietuva į SSRS įjungta prieš tautos valią ir atpirko Lietuvos vyriausybės
-    ir kariuomenės neveiklumą.
+  citata_rodoma: "Laisvės ko-\nvotojai savo drąsa, pasiaukojimu ir gyvybėmis įrodė, kad 1940 m. vasarą \nLietuva į SSRS įjungta prieš tautos valią ir atpirko Lietuvos vyriausybės \nir kariuomenės neveiklumą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-74766
 - id: c-72777
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -323,25 +290,15 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     kad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui
     įvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos
     netekusioms šalims, kad Vakarai pakils į žygį prieš J. Stalino SSRS.
-  citata_rodoma: |
-    Karas po karo – ginkluota rezistencija
-    Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė
-    lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas
-    dėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių
-
-    L I E T U V O S  I S T O R I J A
-    210
-    pasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais,
-    kad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui
-    įvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos
-    netekusioms šalims, kad Vakarai pakils į žygį prieš J.
+  citata_rodoma: "Karas po karo – ginkluota rezistencija \nNuo 1944 m. vasaros sovietų represijos ir teroras kurstė \nlietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas \ndėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių\n\nL I E T U V O S  I S T O R I J A\n210\npasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais, \nkad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui \nįvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos \nnetekusioms šalims, kad Vakarai pakils į žygį prieš J."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74763
+    - t-008
+
 - id: c-166549
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -357,10 +314,13 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     tai suimta 640 asmenų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+    - t-007
+
 - id: c-176235
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -379,6 +339,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193555
+    - t-010
+
 ## Ryšiai
 - Lietuvos partizanai valdė [[objektai/vietos/Lietuva]]

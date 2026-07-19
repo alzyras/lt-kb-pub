@@ -31,8 +31,7 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
 ## Teiginiai
 
 <a id="claim-t-190353"></a>
-- t-001
-  global_id: t-190353
+- t-002
   teiginys: "Narbutas, remdamasis Heine, Homero eilėse matė tiesioginį žmogėdrystės vaizdavimą, siejamą su Trojos karo laikų graikais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
 
 <a id="claim-t-190725"></a>
 - t-004
-  global_id: t-190725
   teiginys: "Teodoro Narbuto vertinimu, Homero žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai geografiniai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -67,7 +65,6 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
 
 <a id="claim-t-197605"></a>
 - t-005
-  global_id: t-197605
   teiginys: "Nei Homero, nei Herodoto žemėlapiai, kurie niekad nebuvo tikslūs astronominiai-geografiniai, bet apskritai mitologiniai, kosmografiniai, genealoginiai ir istoriniai, nesutampa su mūsų žemėlapiais, kuriems būdingos tiks lios matematinės projekcijos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -115,10 +112,9 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
     Pirmasis ir visuotinai paplitęs Senojo pasaulio dievas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-003
   santrauka: 'Homero kūriniuose Okeanas vadinamas upe, skalaujančia pasaulį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -145,10 +141,9 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
     krantus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-004
   santrauka: 'Teodoro Narbuto vertinimu, Homero žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai geografiniai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -171,10 +166,11 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
     lios matematinės projekcijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-005
+
 ## Citatos
 
 - id: c-173236
@@ -197,7 +193,8 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190353
+    - t-002
+
 - id: c-173607
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -222,28 +219,12 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
     įvertinti skirtumą ir išnagrinėti jo priežastis tam, kad
     išvengtume nesusipratimų, kurių tokiu atveju pasitaiko
     gana daug.
-  citata_rodoma: |
-    Taigi naujų laikų gabumams nebūdin­
-    gas praėjusių amžių tikėjimas, kuris buvo mokslinis,
-    žmogiškas ir dieviškas taip, jog šiandien, žvelgdami į
-    praeities veidrodį, suvokiame mūsų labai matematiškai
-    ribotą žvilgsni, kuris pastebi tik išorinius paviršius, vos
-    įžiūri užtemdytus klonius, bet jokiu būdu negali nei jų
-    išmatuoti, nei geriau pažinti. Būtent ši priežastis daro
-    mus visiškai bejėgius spręsti apie tikrą reikšmę praėju­
-    sių laikų, jei jie patys savęs nepaaiškina; kalbant kitais
-    žodžiais, galėtume būti pajėgūs istoriškumą padidinti fi­
-    losofiškai arba kritiškai, nes kritika — filosofijos šaka.
-    Nei Homero, nei Herodoto žemėlapiai, kurie niekad
-    nebuvo tikslūs astronominiai-geografiniai, bet apskritai
-    mitologiniai, kosmografiniai, genealoginiai ir istoriniai,
-    nesutampa su mūsų žemėlapiais, kuriems būdingos tiks­
-    lios matematinės projekcijos.
+  citata_rodoma: "Taigi naujų laikų gabumams nebūdin­\ngas praėjusių amžių tikėjimas, kuris buvo mokslinis, \nžmogiškas ir dieviškas taip, jog šiandien, žvelgdami į \npraeities veidrodį, suvokiame mūsų labai matematiškai \nribotą žvilgsni, kuris pastebi tik išorinius paviršius, vos \nįžiūri užtemdytus klonius, bet jokiu būdu negali nei jų \nišmatuoti, nei geriau pažinti. Būtent ši priežastis daro \nmus visiškai bejėgius spręsti apie tikrą reikšmę praėju­\nsių laikų, jei jie patys savęs nepaaiškina; kalbant kitais \nžodžiais, galėtume būti pajėgūs istoriškumą padidinti fi­\nlosofiškai arba kritiškai, nes kritika — filosofijos šaka.\nNei Homero, nei Herodoto žemėlapiai, kurie niekad \nnebuvo tikslūs astronominiai-geografiniai, bet apskritai \nmitologiniai, kosmografiniai, genealoginiai ir istoriniai, \nnesutampa su mūsų žemėlapiais, kuriems būdingos tiks­\nlios matematinės projekcijos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190725
-    - t-197605
+    - t-004
+    - t-005

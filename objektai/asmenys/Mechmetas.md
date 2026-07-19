@@ -31,7 +31,6 @@ Ir jis pa skyrė jiems chaną, vardu Mechmetą l0.
 
 <a id="claim-t-194139"></a>
 - t-001
-  global_id: t-194139
   teiginys: "Ir jis pa skyrė jiems chaną, vardu Mechmetą l0."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Ir jis pa skyrė jiems chaną, vardu Mechmetą l0.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194139
+    - t-001

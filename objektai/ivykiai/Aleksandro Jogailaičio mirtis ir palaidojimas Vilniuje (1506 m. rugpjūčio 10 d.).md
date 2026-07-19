@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-86939"></a>
 - t-001
-  global_id: t-86939
   teiginys: "Žinia apie 1506 m. rugpjūtį pasiektą pergalę ties Klecku merdintį Aleksandrą Jogailaitį pasiekė Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86939
+    - t-001

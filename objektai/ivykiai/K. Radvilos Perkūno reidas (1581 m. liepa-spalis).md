@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78613"></a>
-- t-001
-  global_id: t-78613
+- t-010
   teiginys: "1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos nusiaubė Rževo apylinkes, sudegino Urdomo miestą ir pasuko Staricos link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-75841
 
 <a id="claim-t-78614"></a>
-- t-002
-  global_id: t-78614
+- t-005
   teiginys: "1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -93,8 +91,7 @@ Nenurodyta
     - c-11847
 
 <a id="claim-t-78615"></a>
-- t-003
-  global_id: t-78615
+- t-009
   teiginys: "Kristupas Radvila nusprendė imtis iniciatyvos ir pasuko Rževo link, į Rusijos teritorijos gilumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -111,8 +108,7 @@ Nenurodyta
     - c-11847
 
 <a id="claim-t-78616"></a>
-- t-004
-  global_id: t-78616
+- t-008
   teiginys: "Kristupo Radvilos pajėgos nusiaubė Dubno ir Opokos apylinkes, užėmė Cholmą ir sudegino Starają Rusą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -132,8 +128,7 @@ Nenurodyta
     - c-75843
 
 <a id="claim-t-78617"></a>
-- t-005
-  global_id: t-78617
+- t-006
   teiginys: "Radvilos pajėgos nusiaubė Rževo, Toropeco ir Staricos apylinkes, o Ivanas IV buvo priverstas evakuoti savo šeimą ir dvarą."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -151,8 +146,7 @@ Nenurodyta
     - c-75841
 
 <a id="claim-t-78618"></a>
-- t-006
-  global_id: t-78618
+- t-011
   teiginys: "Kristupo Radvilos Perkūno reido metu lietuvių pajėgos nusiaubė Dubno apylinkes, užėmė Cholmą, sudegino Starają Rusą ir nusiaubė Opokos apylinkes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -197,22 +191,16 @@ Nenurodyta
     sprendė imtis iniciaty-
     vos ir pasuko Rževo link, į
     Rusijos teritorijos gilumą.
-  citata_rodoma: |
-    Rugpjūčio 21 d. prie
-    Šelomos upės lietuviai
-    sumušė apie 3000 rusų
-    dalinį. K. Radvila nu-
-    sprendė imtis iniciaty-
-    vos ir pasuko Rževo link, į
-    Rusijos teritorijos gilumą.
+  citata_rodoma: "Rugpjūčio 21 d. prie\nŠelomos upės lietuviai\nsumušė apie 3000 rusų\ndalinį. K. Radvila nu-\nsprendė imtis iniciaty-\nvos ir pasuko Rževo link, į\nRusijos teritorijos gilumą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78614
-    - t-78615
+    - t-005
+    - t-009
+
 - id: c-75841
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -233,8 +221,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78613
-    - t-78617
+    - t-010
+    - t-006
+
 - id: c-75843
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -269,40 +258,12 @@ Nenurodyta
     stovyklą ir kitą dieną valdovui pateikė teritoriją, sudegino 6 miestus ir šimtus
     žygio ataskaitą, perdavė belaisvius. kaimų, nukovė apie 10000 rusų, surinko
     gausų karo grobį.
-  citata_rodoma: |
-    Vėliau
-    Radvilos pajėgos nusiaubė
-    Dubno apylinkes, užėmė
-    Cholmą, iš ten, palei
-    Lovatės upę, lietuviai nusi-
-    gavo iki Novgorodo kunigaikš-
-    tystėje, prie Ilmenio ežero esančio
-
-    94 K. RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis
-
-    vos atkariautos teritorijos
-
-    Starajos Rusos miesto
-    ir jį sudegino, o įgulą
-    „išmušė“. Galiausiai buvo
-    nusiaubtos Opokos apylinkės.
-    Spalio 23 d. K. Radvila pasiekė prie
-    apgulto Pskovo buvusią S. Batoro
-
-    850 km), nu-
-    siaubė apie
-    60 tūkst. kv. km
-
-    Šarvinė
-    pirštinė, XVI a.
-
-    stovyklą ir kitą dieną valdovui pateikė teritoriją, sudegino 6 miestus ir šimtus
-    žygio ataskaitą, perdavė belaisvius.
+  citata_rodoma: "Vėliau\nRadvilos pajėgos nusiaubė\nDubno apylinkes, užėmė\nCholmą, iš ten, palei\nLovatės upę, lietuviai nusi-\ngavo iki Novgorodo kunigaikš-\ntystėje, prie Ilmenio ežero esančio\n\n94 K. RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis\n\nvos atkariautos teritorijos\n\nStarajos Rusos miesto\nir jį sudegino, o įgulą\n„išmušė“. Galiausiai buvo\nnusiaubtos Opokos apylinkės.\nSpalio 23 d. K. Radvila pasiekė prie\napgulto Pskovo buvusią S. Batoro\n\n850 km), nu-\nsiaubė apie\n60 tūkst. kv. km\n\nŠarvinė\npirštinė, XVI a.\n\nstovyklą ir kitą dieną valdovui pateikė teritoriją, sudegino 6 miestus ir šimtus\nžygio ataskaitą, perdavė belaisvius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78616
-    - t-78618
+    - t-008
+    - t-011

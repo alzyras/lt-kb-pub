@@ -31,7 +31,6 @@ Matusevičiaus Trakų sukilėlių daliniai, palaikomi 2-ojo šaulių pulko batal
 
 <a id="claim-t-38928"></a>
 - t-001
-  global_id: t-38928
   teiginys: "2-asis šaulių pulko batalionas palaikė J. Zalivskio ir V. Matusevičiaus Trakų sukilėlių dalinius puolant rusų kairįjį sparną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Matusevičiaus Trakų sukilėlių daliniai, palaikomi 2-ojo šaulių pulko batal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38928
+    - t-001

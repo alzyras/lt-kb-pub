@@ -40,7 +40,6 @@ Sobieskio pradėtą karą su Turkija ir jam net pavyko atsiimti šiek tiek Lenki
 
 <a id="claim-t-80734"></a>
 - t-001
-  global_id: t-80734
   teiginys: "J. Sobieskis 1683 m. pradėjo karą su Turkija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Sobieskio pradėtą karą su Turkija ir jam net pavyko atsiimti šiek tiek Lenki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80734
+    - t-001

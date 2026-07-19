@@ -31,7 +31,6 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 
 <a id="claim-t-39662"></a>
 - t-001
-  global_id: t-39662
   teiginys: "Sofijos Vytautaitės apsilankymas Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,6 +45,7 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
   pagrindžia:
     - c-41466
     - c-167153
+
 ## Citatos
 
 - id: c-41466
@@ -73,7 +73,8 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39662
+    - t-001
+
 - id: c-167153
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -101,3 +102,5 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

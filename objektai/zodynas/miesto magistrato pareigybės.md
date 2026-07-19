@@ -39,7 +39,6 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
 
 <a id="claim-t-86484"></a>
 - t-001
-  global_id: t-86484
   teiginys: "1536 m. rugsėjo 9 d. Žygimantas Senasis Vilniuje įsakė paskelbti naujus miesto įstatymus dėl magistrato tvarkos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
     - c-82465
 
 <a id="claim-t-86485"></a>
-- t-002
-  global_id: t-86485
+- t-003
   teiginys: "Vilniaus vaito, burmistrų, tarybos narių, šuolininkų ir magistrato raštininkų namai buvo atleisti nuo nakvynės prievolės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
     - c-82464
 
 <a id="claim-t-86486"></a>
-- t-003
-  global_id: t-86486
+- t-002
   teiginys: "1568 m. Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis tapti bajorais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -124,7 +121,8 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86486
+    - t-002
+
 - id: c-82464
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -155,7 +153,8 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86485
+    - t-003
+
 - id: c-82465
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -183,4 +182,4 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86484
+    - t-001

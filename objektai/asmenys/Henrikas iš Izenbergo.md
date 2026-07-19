@@ -39,7 +39,6 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
 
 <a id="claim-t-60313"></a>
 - t-001
-  global_id: t-60313
   teiginys: "1325 m. Henrikas iš Izenbergo, Karaliaučiaus komtūras, pradėjo statyti ir birželio 29 d. užbaigė Girdavų pilį Bartos žemėje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,7 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
   temporalinis_llm_pakomentavimas: "Citata leidžia tiksliau nurodyti ir pilies užbaigimo datą."
   pagrindžia:
     - c-60945
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1325 m. Henrikas iš Izenbergo, Karaliaučiaus komtūras, pradėjo statyti ir birželio 29 d. užbaigė Girdavų pilį Bartos žemėje.'
@@ -79,8 +78,7 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60313
+
 ## Citatos
 
 - id: c-60945
@@ -102,23 +100,11 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
     Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą
     leidimo ir jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros ir Sainos593,
     santakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi.
-  citata_rodoma: |
-    Apie daugybės miestų bei pilių pastatymą
-
-      1325 viešpaties metais brolis Henrikas iš Izenbergo, Karaliaučiaus komtūras, gavęs
-    gerbiamojo vyro brolio Vernerio, didžiojo magistro, leidimą  ir pritarimą,— to vyro,
-    kuris itin rūpestingai ir uoliai ėjo jam patikėtas pareigas, be to, norėdamas praplėsti
-    krikščionių žemes, pradėjo statyti, o šventųjų Petro bei Povilo, apaštalų, dieną (birželio
-    29) užbaigė Girdavų pilį Bartos žemėje. Tais pačiais metais ir tuo pat laiku Eberhardas,
-    Varmės vyskupas, brolio Fridricho iš Libencelės, savo fogto, pastangomis pastatydino
-
-
-    pagonis lietuvius, nors turime duomenų, jog patys kryžiuočiai siaubė krikščionių žemes,
-    netgi vyskupų valdas (žr.
+  citata_rodoma: "Apie daugybės miestų bei pilių pastatymą\n\n  1325 viešpaties metais brolis Henrikas iš Izenbergo, Karaliaučiaus komtūras, gavęs\ngerbiamojo vyro brolio Vernerio, didžiojo magistro, leidimą  ir pritarimą,— to vyro,\nkuris itin rūpestingai ir uoliai ėjo jam patikėtas pareigas, be to, norėdamas praplėsti\nkrikščionių žemes, pradėjo statyti, o šventųjų Petro bei Povilo, apaštalų, dieną (birželio\n29) užbaigė Girdavų pilį Bartos žemėje. Tais pačiais metais ir tuo pat laiku Eberhardas,\nVarmės vyskupas, brolio Fridricho iš Libencelės, savo fogto, pastangomis pastatydino\n\n\npagonis lietuvius, nors turime duomenų, jog patys kryžiuočiai siaubė krikščionių žemes,\nnetgi vyskupų valdas (žr."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60313
+    - t-001

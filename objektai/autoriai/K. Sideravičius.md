@@ -38,7 +38,6 @@ Sideravičius: Nuo Durbės iki Žal­ girio (1944).
 
 <a id="claim-t-30749"></a>
 - t-001
-  global_id: t-30749
   teiginys: "K. Sideravičius 1944 m. paskelbė darbą „Nuo Durbės iki Žalgirio“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,14 +65,11 @@ Sideravičius: Nuo Durbės iki Žal­ girio (1944).
     _gynimas_ [I960]^107. K. Sideravičius: _Nuo Durbės iki Žal­
     girio_ (1944). Bendrą tų kovų istoriją paruošė istorikų kolektyvas :
     _Lietuviu karas su kryžiuočiais,_ red. J. Jurginis (LKaKr).
-  citata_rodoma: |
-    K. Sideravičius: _Nuo Durbės iki Žal­
-    girio_ (1944). Bendrą tų kovų istoriją paruošė istorikų kolektyvas :
-    _Lietuviu karas su kryžiuočiais,_ red.
+  citata_rodoma: "K. Sideravičius: _Nuo Durbės iki Žal­\ngirio_ (1944). Bendrą tų kovų istoriją paruošė istorikų kolektyvas :\n_Lietuviu karas su kryžiuočiais,_ red."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30749
+    - t-001

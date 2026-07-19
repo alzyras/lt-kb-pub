@@ -40,8 +40,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 ## Teiginiai
 
 <a id="claim-t-79076"></a>
-- t-001
-  global_id: t-79076
+- t-006
   teiginys: "Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - c-42066
 
 <a id="claim-t-79077"></a>
-- t-002
-  global_id: t-79077
+- t-007
   teiginys: "Salaspilio mūšyje Švedijos karalius Karolis IX vos nepateko į nelaisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - c-76176
 
 <a id="claim-t-79078"></a>
-- t-003
-  global_id: t-79078
+- t-002
   teiginys: "Karolis IX ir Karina Nilsdotter buvo nesantuokinio sūnaus Karolio Karlsono Gyllenhielmo tėvai."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -98,7 +95,6 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 
 <a id="claim-t-79079"></a>
 - t-004
-  global_id: t-79079
   teiginys: "Karolis IX vos nepakliuvo į nelaisvę, bet išsigelbėjo, kai švedų reitaras Henrikas Vrede atidavė jam savo žirgą."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -115,8 +111,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - c-42067
 
 <a id="claim-t-79080"></a>
-- t-005
-  global_id: t-79080
+- t-001
   teiginys: "Karolis Sudermanas pasiuntė 2400 karių pristatyti apsiaustai švedų kariuomenei maisto ir šaudmenų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -132,8 +127,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - c-76173
 
 <a id="claim-t-79081"></a>
-- t-006
-  global_id: t-79081
+- t-003
   teiginys: "Salaspilio mūšyje Karolis IX netrukus turėjo duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -151,8 +145,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - c-42066
 
 <a id="claim-t-79082"></a>
-- t-007
-  global_id: t-79082
+- t-005
   teiginys: "Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -200,28 +193,16 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     švedų kariuomenei,
     veikusiai prieš lietu-
     vius Livonijoje. 1616 m.
-  citata_rodoma: |
-    ee Kuoknesės pilis
-
-    Baronas Karolis Karl-
-    sonas Gyllenhielmas
-    (Carl Carlson Gyllen-
-    hielm, 1574-1650 m.)
-    Švedijos karaliaus
-    Karolio 1x ir Karinos
-    Nilsdotter nesantuo-
-    kinis sūnus. Vadovavo
-    švedų kariuomenei,
-    veikusiai prieš lietu-
-    vius Livonijoje.
+  citata_rodoma: "ee Kuoknesės pilis\n\nBaronas Karolis Karl-\nsonas Gyllenhielmas\n(Carl Carlson Gyllen-\nhielm, 1574-1650 m.)\nŠvedijos karaliaus\nKarolio 1x ir Karinos\nNilsdotter nesantuo-\nkinis sūnus. Vadovavo\nšvedų kariuomenei,\nveikusiai prieš lietu-\nvius Livonijoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79078
-    - t-79082
+    - t-002
+    - t-005
+
 - id: c-42066
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -236,24 +217,16 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 
     puolimo kryptimi (į dešinįjį lietuvių
     sparną) gvardijos kavaleriją.
-  citata_rodoma: |
-    SALASPILIO (KIRKCHOLMO) MUSIS
-
-    riuomenės karališkosios gvardijos pėstininkų batalionas, už jo
-    ant žirgo Švedijos karalius Karolis Ix. Jį apsupę ginkluoti alebardo-
-    mis kariai — pėstininkų karininkai. Netrukus karalius duos nurodymą
-    siųsti gvardijos kavaleriją į lemiamą ataką
-
-    puolimo kryptimi (į dešinįjį lietuvių
-    sparną) gvardijos kavaleriją.
+  citata_rodoma: "SALASPILIO (KIRKCHOLMO) MUSIS\n\nriuomenės karališkosios gvardijos pėstininkų batalionas, už jo\nant žirgo Švedijos karalius Karolis Ix. Jį apsupę ginkluoti alebardo-\nmis kariai — pėstininkų karininkai. Netrukus karalius duos nurodymą\nsiųsti gvardijos kavaleriją į lemiamą ataką\n\npuolimo kryptimi (į dešinįjį lietuvių\nsparną) gvardijos kavaleriją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79076
-    - t-79081
+    - t-006
+    - t-003
+
 - id: c-42067
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -271,7 +244,8 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79079
+    - t-004
+
 - id: c-76173
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -289,7 +263,8 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79080
+    - t-001
+
 - id: c-76176
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -309,6 +284,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79077
+    - t-007
+
 ## Ryšiai
 - Karolis IX buvo valdovas [[objektai/vietos/Švedija]]

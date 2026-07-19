@@ -28,23 +28,10 @@ media_all_json: |-
 
 Žizdra šiame gabale tikėtina įtraukta į vietovardžių rodyklę.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-187420"></a>
-- t-001
-  global_id: t-187420
-  teiginys: 'Žizdra šiame gabale tikėtina įtraukta į vietovardžių rodyklę.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Vilnius; mentioned_place: Žirmūnai'
-  pagrindžia:
-    - c-170410
-
-## Citatos
-
-- id: c-170410
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     131, 181.
     196, 210, 217, 218, 223, 244,
@@ -57,11 +44,8 @@ media_all_json: |-
     Ziupronys 199, 200
     Žizdrą 293, 314
     Zlžma 234
-  citata_rodoma: "Žizdrą 293, 314"
-  statusas: verified
-  atnaujinta: "2026-07-12 22:29"
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: zemas
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187420
+  statusas: verified

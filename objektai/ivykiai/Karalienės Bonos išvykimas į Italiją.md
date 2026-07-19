@@ -42,7 +42,6 @@ Nenurodyta
 
 <a id="claim-t-185801"></a>
 - t-001
-  global_id: t-185801
   teiginys: "Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185801
+    - t-001

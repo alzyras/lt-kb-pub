@@ -31,7 +31,6 @@ Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
 
 <a id="claim-t-39801"></a>
 - t-001
-  global_id: t-39801
   teiginys: "Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,6 +45,7 @@ Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
   pagrindžia:
     - c-41605
     - c-167148
+
 ## Citatos
 
 - id: c-41605
@@ -69,7 +69,8 @@ Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39801
+    - t-001
+
 - id: c-167148
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -91,3 +92,5 @@ Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

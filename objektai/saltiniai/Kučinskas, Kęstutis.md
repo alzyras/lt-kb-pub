@@ -30,7 +30,6 @@ Kučinskas: Kęstutis , 124-125 p. 260 ii skyrius: valstybės iškilimas mis; pa
 
 <a id="claim-t-31775"></a>
 - t-001
-  global_id: t-31775
   teiginys: "Kučinsko „Kęstutyje“ remiamasi 124–125 puslapiais, kuriuose aptariamos Kęstučio atliktos pagoniškos jaučio aukojimo apeigos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,18 +59,11 @@ Kučinskas: Kęstutis , 124-125 p. 260 ii skyrius: valstybės iškilimas mis; pa
 
     mis; pats Kęstutis, kaip kunigas, ten atliko pagoniškas jaučio
     aukojimo apeigas, kurios smulkiai yra užrašytos Dubno kronikoje^7.
-  citata_rodoma: |
-    Plg. Kučinskas:** **_Kęstutis_** **, 124-125 p.**
-
-
-    260 ii skyrius: valstybės iškilimas
-
-    mis; pats Kęstutis, kaip kunigas, ten atliko pagoniškas jaučio
-    aukojimo apeigas, kurios smulkiai yra užrašytos Dubno kronikoje^7.
+  citata_rodoma: "Plg. Kučinskas:** **_Kęstutis_** **, 124-125 p.**\n\n\n260 ii skyrius: valstybės iškilimas\n\nmis; pats Kęstutis, kaip kunigas, ten atliko pagoniškas jaučio\naukojimo apeigas, kurios smulkiai yra užrašytos Dubno kronikoje^7."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31775
+    - t-001

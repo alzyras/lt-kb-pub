@@ -43,7 +43,6 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
 
 <a id="claim-t-30223"></a>
 - t-001
-  global_id: t-30223
   teiginys: "Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,9 +57,9 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   pagrindžia:
     - c-30127
     - c-167742
+
 <a id="claim-t-30224"></a>
 - t-002
-  global_id: t-30224
   teiginys: "Dlugošas buvo pagrindinis 1409-1411 m. karo šaltinis ir kritiškai vertino Jogailą bei Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,6 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
 
 <a id="claim-t-188524"></a>
 - t-003
-  global_id: t-188524
   teiginys: "Narbuto vertinimu, Dlugošas iš senesniųjų istorikų aiškiai pripažino, kad lietuvių genties tautos tikėjo fetišais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -96,10 +94,9 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171413
-    - c-004
+
 <a id="claim-t-197724"></a>
 - t-004
-  global_id: t-197724
   teiginys: "Tai, ką tuo klausimu parašė lenkų istorikai Dlugošas ir Mechovita, t."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -170,8 +167,7 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188524
+
 ## Citatos
 
 - id: c-30127
@@ -190,7 +186,8 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30223
+    - t-001
+
 - id: c-32717
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -204,17 +201,15 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
     Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis,
     perdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t. y. Jogailą
     ir Vytautą.
-  citata_rodoma: |
-    Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis,
-    perdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t. y. Jogailą
-    ir Vytautą.
+  citata_rodoma: "Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis,\nperdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t. y. Jogailą\nir Vytautą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30224
+    - t-002
+
 - id: c-167742
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -228,10 +223,12 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
     nes žemaičiai esą tos pačios tautos, tos pat kalbos ir papročių^35.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-171413
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -245,25 +242,15 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
     vertė ir patį šeimininką į Kristaus tikėjimą. Sunkiai, labai steng­
     damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip
     dievą.
-  citata_rodoma: |
-    201
-
-    ## Puslapis 201
-
-    mitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi
-    gal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas
-    Dlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo
-    fetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką
-    išaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­
-    minė, jokie namai, net daug pavienių asmenų negyveno be
-    savo asmeninių fetišų.
+  citata_rodoma: "201\n\n## Puslapis 201\n\nmitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi\ngal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas\nDlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo\nfetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką\nišaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­\nminė, jokie namai, net daug pavienių asmenų negyveno be\nsavo asmeninių fetišų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188524
+    - t-003
+
 - id: c-179309
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -284,4 +271,4 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197724
+    - t-004

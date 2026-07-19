@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-67213"></a>
 - t-001
-  global_id: t-67213
   teiginys: "Lietuvai tapus krikščioniška valstybe, Lietuvos žmonės pradėjo vykti mokytis į Europos universitetus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-67214"></a>
 - t-002
-  global_id: t-67214
   teiginys: "Aukštesniojo ir aukštojo mokslo siekę Lietuvos gyventojai turėdavo vykti į užsienį: dvasininkai dažniausiai rinkdavosi Krokuvą, kiti - Vakarų Europą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,18 +82,15 @@ Nenurodyta
     ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o
     visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
     Italiją ir Prancūziją.
-  citata_rodoma: |
-    Šiaip, kas norėdavo gauti aukštesniojo ir aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-
-    ninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o
-    visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
-    Italiją ir Prancūziją.
+  citata_rodoma: "Šiaip, kas norėdavo gauti aukštesniojo ir aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-\nninkais, paprastai vykdavo mokytis į Krokuvos universitetą, o\nvisi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,\nItaliją ir Prancūziją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67214
+    - t-002
+
 - id: c-67225
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -107,15 +102,11 @@ Nenurodyta
     pradėjo šviestis, vyko mokytis į Europos universitetus. Prasi-
     dėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai
     praturtėjo.
-  citata_rodoma: |
-    Lietuvos žmonės
-    pradėjo šviestis, vyko mokytis į Europos universitetus. Prasi-
-    dėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai
-    praturtėjo.
+  citata_rodoma: "Lietuvos žmonės\npradėjo šviestis, vyko mokytis į Europos universitetus. Prasi-\ndėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai\npraturtėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67213
+    - t-001

@@ -50,9 +50,8 @@ Nenurodyta
 
 <a id="claim-t-62675"></a>
 - t-001
-  global_id: t-62675
   teiginys: "Gedulo metu žmonės suplėšė savo drabužius ir apsivilko ašutinėmis."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Drabužiai: 0.85"
@@ -77,17 +76,15 @@ Nenurodyta
     mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums
     dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais
     gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
-  citata_rodoma: |
-    mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums
-    dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais
-    gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
+  citata_rodoma: "mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums\ndar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais\ngedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62675
+    - t-001
+
 - id: c-63413
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -97,19 +94,11 @@ Nenurodyta
     dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais
     gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
     41.
-  citata_rodoma: |
-    Tai kam gi mums
-    dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais
-    gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
-
-
-
-
-                                  41.
+  citata_rodoma: "Tai kam gi mums\ndar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais\ngedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.\n\n\n\n\n                              41."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62675
+    - t-001

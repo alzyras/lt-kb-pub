@@ -36,7 +36,6 @@ Laužiko aiškinimu, gėrimas iš vienos taurės LDK bajorijoje buvo korporatyvi
 
 <a id="claim-t-200725"></a>
 - t-001
-  global_id: t-200725
   teiginys: "Laužiko aiškinimu, gėrimas iš vienos taurės LDK bajorijoje buvo korporatyvinės bendrystės aktas, įgijęs vietos specifikos reikšmių."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -65,8 +64,5 @@ Laužiko aiškinimu, gėrimas iš vienos taurės LDK bajorijoje buvo korporatyvi
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200725
+    - t-001

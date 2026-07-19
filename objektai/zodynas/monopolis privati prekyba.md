@@ -41,8 +41,7 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
 ## Teiginiai
 
 <a id="claim-t-86487"></a>
-- t-001
-  global_id: t-86487
+- t-003
   teiginys: "Vilniaus vaitas ir burmistrai siekė atšaukti Paleckio monopolio privilegiją, nes ji darė vis didesnę žalą miestui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
 
 <a id="claim-t-86488"></a>
 - t-002
-  global_id: t-86488
   teiginys: "Martynas Smigleckis privačios prekybos arba monopolio klausimą aiškino Vilniaus stiklo prekių pavyzdžiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
     - c-82468
 
 <a id="claim-t-86489"></a>
-- t-003
-  global_id: t-86489
+- t-001
   teiginys: "Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje naujais mokesčiais bandė suvaržyti iš Vilniaus gabenamų prekių prekybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -151,59 +148,15 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
     privilegijos amžinumą su tomis tei­
     sėmis ir pareigomis, kokias pats tu­
     rėjo.
-  citata_rodoma: |
-    56
-    Miesto aktuose yra: karaliaus Stepo­
-    no patvirtinimas sutarties tarp po­
-    no Martyno Paleckio ir jo žmonos,
-    dabar ponios Rainos Sluščiankos, ir
-    miesto dėl stiklo liejyklos ir stiklo su­
-    pirkimo. Buvo taip: Vilniaus vaitas
-    ir burmistrai, matydami, kad Palec­
-    kio, kuris buvo karaliaus maršalka
-    ir Eišiškių valdytojas, monopolis
-    kaskart vis didesnę žalą daro mies­
-    tui, norėjo jo privilegiją atšaukti.
-    Bandė keletą kartu, būtent jau prie
-    karaliaus Stepono, pasikvietę Palec­
-    kį į seimą 1582 metais, bet tai nepa­
-    vyko. Pagaliau visuotiniame Varšu­
-    vos seime 1583 metais, dalyvaujant
-    ponams, Karalystės ir Lietuvos Di­
-    džiosios Kunigaikštystės taryboms,
-    tarpininkaujant Vilniaus vaivadai ir
-    LDK etmonui kunigaikščiui Kristu­
-    pui Radvilai, LDK kancleriui Eusta­
-    chijui Valavičiui, Trakų kaštelionui,
-    krašto iždininkui Hlebavičiui, buvo
-    sudaryta sutartis tarp miesto, per
-    miesto įgaliotinius: burmistrą Petrą
-    Hornostajų, Vilniaus miesto tarybos
-    raštininkus - Benediktą Rosmutą -
-    katalikų ir Joną Andrejevičių Kurja-
-    ną - stačiatikių, ir Paleckio, per jo
-    įgaliotinius - Jokūbą Vitoslavskį ir
-    Adomą Ruckį. Pagrindinės šios su­
-    tarties sąlygos buvo tokios: Paleckis,
-    nors jo privilegijos galia niekuo ne­
-    pažeidžiama, tačiau, įkalbėtas ponų,
-    Tarybų ir norėdamas sau pelnyti
-    amžiną šlovę ir palikti garbingą at­
-    minimą, pasilieka tik sau ir savo
-    žmonai teisę iki gyvos galvos laiky­
-    ti šią stiklo liejyklą ir supirkti stiklą,
-    savanoriškai visam laikui perleisda­
-    mas visam Vilniaus miestui savo
-    privilegijos amžinumą su tomis tei­
-    sėmis ir pareigomis, kokias pats tu­
-    rėjo.
+  citata_rodoma: "56\nMiesto aktuose yra: karaliaus Stepo­\nno patvirtinimas sutarties tarp po­\nno Martyno Paleckio ir jo žmonos, \ndabar ponios Rainos Sluščiankos, ir \nmiesto dėl stiklo liejyklos ir stiklo su­\npirkimo. Buvo taip: Vilniaus vaitas \nir burmistrai, matydami, kad Palec­\nkio, kuris buvo karaliaus maršalka \nir Eišiškių valdytojas, monopolis \nkaskart vis didesnę žalą daro mies­\ntui, norėjo jo privilegiją atšaukti. \nBandė keletą kartu, būtent jau prie \nkaraliaus Stepono, pasikvietę Palec­\nkį į seimą 1582 metais, bet tai nepa­\nvyko. Pagaliau visuotiniame Varšu­\nvos seime 1583 metais, dalyvaujant \nponams, Karalystės ir Lietuvos Di­\ndžiosios Kunigaikštystės taryboms, \ntarpininkaujant Vilniaus vaivadai ir \nLDK etmonui kunigaikščiui Kristu­\npui Radvilai, LDK kancleriui Eusta­\nchijui Valavičiui, Trakų kaštelionui, \nkrašto iždininkui Hlebavičiui, buvo \nsudaryta sutartis tarp miesto, per \nmiesto įgaliotinius: burmistrą Petrą \nHornostajų, Vilniaus miesto tarybos \nraštininkus - Benediktą Rosmutą - \nkatalikų ir Joną Andrejevičių Kurja-\nną - stačiatikių, ir Paleckio, per jo \nįgaliotinius - Jokūbą Vitoslavskį ir \nAdomą Ruckį. Pagrindinės šios su­\ntarties sąlygos buvo tokios: Paleckis, \nnors jo privilegijos galia niekuo ne­\npažeidžiama, tačiau, įkalbėtas ponų, \nTarybų ir norėdamas sau pelnyti \namžiną šlovę ir palikti garbingą at­\nminimą, pasilieka tik sau ir savo \nžmonai teisę iki gyvos galvos laiky­\nti šią stiklo liejyklą ir supirkti stiklą, \nsavanoriškai visam laikui perleisda­\nmas visam Vilniaus miestui savo \nprivilegijos amžinumą su tomis tei­\nsėmis ir pareigomis, kokias pats tu­\nrėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86487
+    - t-003
+
 - id: c-82467
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -219,24 +172,15 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
     kiai pakėlęs stiklo kainą miesto gyventojams55. Paleckiui ir
     54
     Žr. VII priedą.
-  citata_rodoma: |
-    Karališkųjų
-    muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­
-    kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė
-    suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­
-    dė54. Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­
-    raliaus paskirtų senatorių pastangomis, išlaisvino miestą
-    nuo ateityje labai nemalonaus monopolio, kuris būtų smar­
-    kiai pakėlęs stiklo kainą miesto gyventojams55. Paleckiui ir
-    54
-    Žr.
+  citata_rodoma: "Karališkųjų \nmuitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­\nkesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė \nsuvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­\ndė54. Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­\nraliaus paskirtų senatorių pastangomis, išlaisvino miestą \nnuo ateityje labai nemalonaus monopolio, kuris būtų smar­\nkiai pakėlęs stiklo kainą miesto gyventojams55. Paleckiui ir\n54\nŽr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86489
+    - t-001
+
 - id: c-82468
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -301,4 +245,4 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86488
+    - t-002

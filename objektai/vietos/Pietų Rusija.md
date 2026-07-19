@@ -31,7 +31,6 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
 
 <a id="claim-t-32450"></a>
 - t-001
-  global_id: t-32450
   teiginys: "Virvelinės keramikos kultūros šaknų ieškoma Pietų Rusijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
 
 <a id="claim-t-32451"></a>
 - t-002
-  global_id: t-32451
   teiginys: "Indoeuropiečiai į Europą greičiausiai atkeliavo per Pietų Rusijos stepes ir Kaukazą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,18 +75,15 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
     mikos kultūros šaknų yra ieškoma pietų Rusijoje. Jos nešėjai
     indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­
     liavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą.
-  citata_rodoma: |
-    Su tam tikru pagrindu virvelinės kera­
-    mikos kultūros šaknų yra ieškoma pietų Rusijoje. Jos nešėjai
-    indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­
-    liavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą.
+  citata_rodoma: "Su tam tikru pagrindu virvelinės kera­\nmikos kultūros šaknų yra ieškoma pietų Rusijoje. Jos nešėjai\nindoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­\nliavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32450
+    - t-001
+
 - id: c-33996
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -100,16 +95,11 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
     liavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą.
     Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie
     pasirodė apie trečio tūkstantmečio pr.
-  citata_rodoma: |
-    Jos nešėjai
-    indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­
-    liavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą.
-    Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie
-    pasirodė apie trečio tūkstantmečio pr.
+  citata_rodoma: "Jos nešėjai\nindoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­\nliavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą.\nKaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie\npasirodė apie trečio tūkstantmečio pr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32451
+    - t-002

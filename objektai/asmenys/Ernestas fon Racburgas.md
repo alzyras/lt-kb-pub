@@ -39,7 +39,6 @@ Lietuviai „[...] brolis Ernestas buvo magistras.[...] Jis įvykdė didelį kar
 
 <a id="claim-t-40102"></a>
 - t-001
-  global_id: t-40102
   teiginys: "Ernestas fon Racburgas buvo Livonijos ordino magistras ir žuvo kartu su danų vietininku Taline Eilartu fon Hobergu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Lietuviai „[...] brolis Ernestas buvo magistras.[...] Jis įvykdė didelį kar
 
 <a id="claim-t-183738"></a>
 - t-002
-  global_id: t-183738
   teiginys: "Livonijos ordino magistras Ernestas fon Racburgas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -110,5 +108,5 @@ Lietuviai „[...] brolis Ernestas buvo magistras.[...] Jis įvykdė didelį kar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40102
-    - t-183738
+    - t-001
+    - t-002

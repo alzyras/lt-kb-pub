@@ -39,7 +39,6 @@ K. Ambrasas šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
 
 <a id="claim-t-186434"></a>
 - t-001
-  global_id: t-186434
   teiginys: "K. Ambrasas buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -57,7 +56,7 @@ K. Ambrasas šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas redakcinės komisijos sąrašu."
   pagrindžia:
     - c-169785
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -72,8 +71,7 @@ K. Ambrasas šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186434
+
 ## Citatos
 
 - id: c-169785
@@ -89,14 +87,11 @@ K. Ambrasas šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
     tuvių tarybinėje istoriografijoje tradicijos vadinti
     metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
     Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
-  citata_rodoma: |
-    REDAKCINE KOMISIJA
-    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
-    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
+  citata_rodoma: "REDAKCINE KOMISIJA\nK. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,  \nMALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186434
+    - t-001

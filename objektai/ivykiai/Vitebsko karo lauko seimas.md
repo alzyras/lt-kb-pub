@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-20553"></a>
 - t-001
-  global_id: t-20553
   teiginys: "Vitebsko karo lauko seimas pasiuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,12 +85,11 @@ Nenurodyta
     vonijos kare. Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas
     siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti
     karinės pagalbos, kartu unijos.
-  citata_rodoma: |
-    siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti
+  citata_rodoma: "siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20553
+    - t-001

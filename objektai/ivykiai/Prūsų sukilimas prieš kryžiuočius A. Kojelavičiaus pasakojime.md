@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185762"></a>
 - t-001
-  global_id: t-185762
   teiginys: "Mindaugas, atgavęs Žemaitiją bei Kuršą ir nusiaubęs Sembą, sukurstė prūsus atsimesti nuo kryžiuočių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-185763"></a>
 - t-002
-  global_id: t-185763
   teiginys: "Kojelavičius pasakoja, kad prūsai, išsirinkę vadus, atsimetė nuo krikščionybės, griovė bažnyčias ir kankino pagautus kunigus."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Nenurodyta
 
 <a id="claim-t-196251"></a>
 - t-003
-  global_id: t-196251
   teiginys: "Kojelavičiaus pasakojime prieš prūsus iš Vokietijos buvo sutelkta gausi kariuomenė su gerai ginkluotais kariais ir patyrusiais vadais."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -125,26 +122,13 @@ Nenurodyta
     kurią
     tik valiojo pasiekti jų stai­
     gus įsiūtis.
-  citata_rodoma: |
-    Ka­
-    dangi miestą gynė rinktinių karių įgula, apsuptis
-    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
-    rasta daug be galo narsių karių, kurie tiltu per Prieg­
-    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
-    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
-    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
-    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
-    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
-    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
-    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
-    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
-    kerštą.
+  citata_rodoma: "Ka­\ndangi miestą gynė rinktinių karių įgula, apsuptis\nbuvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­\nrasta daug be galo narsių karių, kurie tiltu per Prieg­\nliaus upę atkakliai veržėsi prie miesto vartų, nepaisy­\ndami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­\nmaitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­\nnorėdamas, kad atrodytų, jog veltui puolęs Prūsiją,\nsukurstė žmones visame krašte atsimesti nuo kryžiuo­\nčių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-\nlerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­\nčiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie\nkerštą."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185762
-    - t-185763
-    - t-196251
+    - t-001
+    - t-002
+    - t-003

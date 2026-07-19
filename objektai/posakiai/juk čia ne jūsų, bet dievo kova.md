@@ -30,8 +30,7 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
 ## Teiginiai
 
 <a id="claim-t-67297"></a>
-- t-001
-  global_id: t-67297
+- t-002
   teiginys: "Dusburgiečio karo sampratoje pabrėžiama religinė kovos esmė: „juk čia ne jūsų, bet dievo kova“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -45,10 +44,9 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-67257
-    - c-001
+
 <a id="claim-t-194468"></a>
-- t-002
-  global_id: t-194468
+- t-003
   teiginys: "Dusburgietis teigia, kad juk čia ne jūsų, bet dievo kova."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-67297
+
 ## Citatos
 
 - id: c-67257
@@ -90,16 +87,15 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
     ordino broliai pradėję su jais naują karą (II, 7). Dusburgietis, rašydamas apie lietuvių
     puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
     prieš Lietuvą (III, 343—346, 357—358).
-  citata_rodoma: |
-    Nuolatos čia
-    pabrėžiama religinė vedamo karo esmė: „...juk čia ne jūsų, bet dievo kova“66.
+  citata_rodoma: "Nuolatos čia\npabrėžiama religinė vedamo karo esmė: „...juk čia ne jūsų, bet dievo kova“66."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67297
+    - t-002
+
 - id: c-176943
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -118,4 +114,4 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194468
+    - t-003

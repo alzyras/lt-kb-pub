@@ -36,8 +36,7 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
 ## Teiginiai
 
 <a id="claim-t-22283"></a>
-- t-001
-  global_id: t-22283
+- t-002
   teiginys: "Lietuvoje laikraščiai imti dubliuoti rusų kalba, leista daug rusų literatūros, vaidintos pjesės ir pradėta taikyti dvikalbystė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
     - c-24973
 
 <a id="claim-t-22284"></a>
-- t-002
-  global_id: t-22284
+- t-001
   teiginys: "Po J. Stalino mirties ir Nikitos Chruščiovo pasmerkto Stalino kulto rusinimas susilpnėjo, o valdžia labiau pasitikėjo vietiniais lietuviais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
 
 <a id="claim-t-183462"></a>
 - t-003
-  global_id: t-183462
   teiginys: "Lietuvoje laikraščiai imti dubliuoti rusų kalba, leista daug rusų literatūros kūrinių, vaidintos pjesės ir taikyta dvikalbystė."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -107,17 +104,15 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
     ventojų nacionalistines nuotaikas ir apsunkina jų auklėjimą „tautų drau-
     gystės“ dvasia, šeštąjį–septintąjį dešimtmetį į Lietuvą grįžo apie 60 tūkst.
     tremtinių ir apie 20 tūkst. politinių kalinių.
-  citata_rodoma: |
-    Padėtis ėmė keistis 1953 m. mirus J. Stalinui, o ypač po trejų metų Ni-
-    kitai Chruščiovui pasmerkus J. Stalino kultą – susilpnėjo rusinimas, val-
-    džia pradėjo labiau pasitikėti vietiniais lietuviais.
+  citata_rodoma: "Padėtis ėmė keistis 1953 m. mirus J. Stalinui, o ypač po trejų metų Ni-\nkitai Chruščiovui pasmerkus J. Stalino kultą – susilpnėjo rusinimas, val-\ndžia pradėjo labiau pasitikėti vietiniais lietuviais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22284
+    - t-001
+
 - id: c-24973
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -128,15 +123,15 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
     mokėsi Maskvos, Leningrado ir kitose SSRS aukštosiose mokyklose.
     Lietuvoje visi laikraščiai imti dubliuoti ir rusų kalba, leista daug rusų
     literatūros kūrinių, vaidinta pjesių, visur pradėta taikyti dvikalbystę.
-  citata_rodoma: |
-    Lietuvoje visi laikraščiai imti dubliuoti ir rusų kalba, leista daug rusų
+  citata_rodoma: "Lietuvoje visi laikraščiai imti dubliuoti ir rusų kalba, leista daug rusų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22283
+    - t-002
+
 - id: c-166857
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -158,4 +153,4 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183462
+    - t-003

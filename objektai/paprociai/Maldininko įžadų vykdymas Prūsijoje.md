@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-62693"></a>
 - t-001
-  global_id: t-62693
   teiginys: "Kryžininkas iš Meiseno per vienus metus Prūsijoje įvykdė maldininko įžadus ir mirė kelyje grįždamas į tėvynę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -67,6 +66,7 @@ Nenurodyta
   pagrindžia:
     - c-63443
     - c-167377
+
 ## Citatos
 
 - id: c-63443
@@ -81,22 +81,15 @@ Nenurodyta
     sustojo viename kaime, kur vyskupas šventino kapines. Šventinimo metu, kai vyskupas
     šlakstė švęstu vandeniu mirusiųjų kapus, vieno numirėlio kūnas pakilo iš kapo ir atsišliejo
     bažnyčios sienos.
-  citata_rodoma: |
-    54 (53) Apie vieną stebuklą
-
-      Tuo metu pasimirė kelyje, grįždamas  į savo tėvynę, vienas kryžininkas iš Meiseno,
-    kuris per Prūsijoje praleistus vienus metus įvykdė maldininko įžadus. Jo sūnus, ilgai
-    nesulaukdamas tėvo, suskato jo ieškoti Prūsijoje, bet nesurado, tačiau begrįždamas
-    sustojo viename kaime, kur vyskupas šventino kapines. Šventinimo metu, kai vyskupas
-    šlakstė švęstu vandeniu mirusiųjų kapus, vieno numirėlio kūnas pakilo iš kapo ir atsišliejo
-    bažnyčios sienos.
+  citata_rodoma: "54 (53) Apie vieną stebuklą\n\n  Tuo metu pasimirė kelyje, grįždamas  į savo tėvynę, vienas kryžininkas iš Meiseno,\nkuris per Prūsijoje praleistus vienus metus įvykdė maldininko įžadus. Jo sūnus, ilgai\nnesulaukdamas tėvo, suskato jo ieškoti Prūsijoje, bet nesurado, tačiau begrįždamas\nsustojo viename kaime, kur vyskupas šventino kapines. Šventinimo metu, kai vyskupas\nšlakstė švęstu vandeniu mirusiųjų kapus, vieno numirėlio kūnas pakilo iš kapo ir atsišliejo\nbažnyčios sienos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62693
+    - t-001
+
 - id: c-167377
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -114,3 +107,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

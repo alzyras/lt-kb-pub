@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-41340"></a>
 - t-001
-  global_id: t-41340
   teiginys: "1920 m. lapkričio 29 d. Kaune L. Želigovskio ir Lietuvos atstovai pasirašė paliaubų protokolą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,30 +110,11 @@ Nenurodyta
     kacinė linija su Lenkija /
     1920 m. liepos 12 d. su
     sovietais nustatyta siena
-  citata_rodoma: |
-    Tarpininkaujant Tautų
-    Sąjungos kontrolės komisi-
-    ee ays Sulvalky sutarties demar-
-    Jal, 1920 Ds lapkričio 29 d. kacinė linija su Lenkija
-    Kaune L. Želigovskio ir mucus Paskutinioji
-    Lietuvos atstovai pasirašė demarkacinė lini-
-    ž ja su Lenkija
-    paliaubų protokolą. Tarp ii
-    abiejų kariuomenių nu-
-
-    T ae
-    =
-    =
-
-    \ ov
-
-    mumis Siena su Antantės adminis- ~
-    truojamu Klaipėdos kraštu
-    mmm 1919 m.
+  citata_rodoma: "Tarpininkaujant Tautų\nSąjungos kontrolės komisi-\nee ays Sulvalky sutarties demar-\nJal, 1920 Ds lapkričio 29 d. kacinė linija su Lenkija\nKaune L. Želigovskio ir mucus Paskutinioji\nLietuvos atstovai pasirašė demarkacinė lini-\nž ja su Lenkija\npaliaubų protokolą. Tarp ii\nabiejų kariuomenių nu-\n\nT ae\n=\n=\n\n\\ ov\n\nmumis Siena su Antantės adminis- ~\ntruojamu Klaipėdos kraštu\nmmm 1919 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41340
+    - t-001

@@ -38,7 +38,6 @@ Narbutas, remdamasis graikų dievų padavimais, Proito laikus sieja su pranašau
 
 <a id="claim-t-190204"></a>
 - t-001
-  global_id: t-190204
   teiginys: "Narbutas, remdamasis graikų dievų padavimais, Proito laikus sieja su pranašautoju Melampu, gyvenusiu dar iki Trojos karo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Narbutas, remdamasis graikų dievų padavimais, Proito laikus sieja su pranašau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190204
+    - t-001

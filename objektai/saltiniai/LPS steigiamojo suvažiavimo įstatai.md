@@ -31,7 +31,6 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
 
 <a id="claim-t-21102"></a>
 - t-001
-  global_id: t-21102
   teiginys: "LPS steigiamasis suvažiavimas priėmė įstatus kartu su bendrąja programa ir 30 rezoliucijų įvairiais klausimais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
 
 <a id="claim-t-183376"></a>
 - t-002
-  global_id: t-183376
   teiginys: "LPS steigiamasis suvažiavimas priėmė įstatus kartu su bendrąja programa ir 30 rezoliucijų įvairiais politikos, kultūros bei visuomenės klausimais."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -79,15 +77,15 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
     iš užsienio šalių. Lietuva atsidūrė visuotinio dėmesio centre. Suvažiavimas
     priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, eko-
     nomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.
-  citata_rodoma: |
-    nomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.
+  citata_rodoma: "nomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21102
+    - t-001
+
 - id: c-166769
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -110,4 +108,4 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183376
+    - t-002

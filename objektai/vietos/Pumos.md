@@ -31,7 +31,6 @@ Aleksandras Jurjevičius Lietuvoje turėjo Pumas.
 
 <a id="claim-t-187298"></a>
 - t-001
-  global_id: t-187298
   teiginys: "Aleksandrui Jurjevičiui Lietuvoje priklausė Pumos."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -47,7 +46,7 @@ Aleksandras Jurjevičius Lietuvoje turėjo Pumas.
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170340
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aleksandrui Jurjevičiui Lietuvoje priklausė Pumos.'
@@ -61,8 +60,7 @@ Aleksandras Jurjevičius Lietuvoje turėjo Pumas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187298
+
 ## Citatos
 
 - id: c-170340
@@ -79,14 +77,11 @@ Aleksandras Jurjevičius Lietuvoje turėjo Pumas.
     pareigybė buvo įvesta kaip tik jo mirties
     metais (1497); pirmuoju LDK didžiuoju etmonu buvo paskirtas Kons­
     tantinas Ostrogiškis (žr. past. 24).
-  citata_rodoma: |
-    “  Aleksandras Jurjevičius — kunigaikštis Alšėniškis. Vilniaus
-    vyskupo Povilo Alšėniškio tėvas. Lietuvoje turėtus Alšėnus. Lebede-
-    vų, Pumų, S vyruotus ir Šešuolius.
+  citata_rodoma: "“  Aleksandras Jurjevičius — kunigaikštis Alšėniškis. Vilniaus \nvyskupo Povilo Alšėniškio tėvas. Lietuvoje turėtus Alšėnus. Lebede- \nvų, Pumų, S vyruotus ir Šešuolius."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187298
+    - t-001

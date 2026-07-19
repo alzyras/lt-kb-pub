@@ -34,7 +34,6 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 
 <a id="claim-t-60224"></a>
 - t-001
-  global_id: t-60224
   teiginys: "Popiežius Celestinas III Jeruzalėje įkūrė Šv. Marijos Teutonų ordino ligoninę ir paskyrė septynis kraštų valdytojus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 
 <a id="claim-t-60225"></a>
 - t-002
-  global_id: t-60225
   teiginys: "Celestinas III Jeruzalėje įkūrė ir pašventino Šv. Marijos Teutonų ordino vienuolių ligoninę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,7 +68,6 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 
 <a id="claim-t-197063"></a>
 - t-003
-  global_id: t-197063
   teiginys: "Štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,7 +80,6 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 
 <a id="claim-t-200974"></a>
 - t-004
-  global_id: t-200974
   teiginys: "Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė atpuskus ir griekų atleidimą tiems visiems krikščionims, kurie eis ka riauti pagonių į žemaičių kraštą ir tomis pačiomis privilijomis, aiba liecybomis, džiaugsis kaip jei tie, kurie."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -121,20 +117,15 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
     šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,
     Vokietijai, Austrijai ir kt. Šių namų pagrindą sudaręs didysis magistras ir kapitula, jų
     niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.
-  citata_rodoma: |
-    Pirmosios dalies
-    įvade tvirtinama, kaip Kristus pastatęs bažnyčią ir parėmęs ją septyniais šulais, t. y.
-    septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje
-    įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis
-    šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,
-    Vokietijai, Austrijai ir kt.
+  citata_rodoma: "Pirmosios dalies\nįvade tvirtinama, kaip Kristus pastatęs bažnyčią ir parėmęs ją septyniais šulais, t. y.\nseptyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje\nįkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis\nšulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,\nVokietijai, Austrijai ir kt."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60224
+    - t-001
+
 - id: c-60857
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -160,11 +151,13 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60225
-    - t-197063
+    - t-002
+    - t-003
+
 - id: c-184324
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu Bertoldas, vyskupas Pa-
     daugavio, kaip viršiaus minavojau, skatino Teutoni-
@@ -190,4 +183,4 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200974
+    - t-004

@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-97276"></a>
 - t-001
-  global_id: t-97276
   teiginys: "„Melno taika“ nurodyta „Lietuvių enciklopedijos“ 18 tome, 172-175 puslapiuose."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ media_all_json: |-
 
 <a id="claim-t-97277"></a>
 - t-002
-  global_id: t-97277
   teiginys: "Zenono Ivinskio „Melno taika“ paskelbta Lietuvių enciklopedijos 18 tome, p. 172–175."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,14 +89,12 @@ media_all_json: |-
     — (”) _Melno taika_ , LE, t. 18, 172-175 p. — (”) _Russdorf Paul von,_ LE,
     t. 26, 170-171 p. — Krochnert, E.: _Die deutsch-russische Grenze von
     Eydtkuhnen bis Soldau.
-  citata_rodoma: |
-    13, 265-266 p.
-    — (”) _Melno taika_ , LE, t. 18, 172-175 p.
+  citata_rodoma: "13, 265-266 p.\n— (”) _Melno taika_ , LE, t. 18, 172-175 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97276
-    - t-97277
+    - t-001
+    - t-002

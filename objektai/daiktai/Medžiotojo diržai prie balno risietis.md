@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-189688"></a>
 - t-001
-  global_id: t-189688
   teiginys: "Narbutas Trakų pavadinimą aiškino kaip slavišką medžiotojo diržų prie balno, kuriais pririšama žvėriena, pavadinimą utroczyc."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -66,7 +65,6 @@ Nenurodyta
 
 <a id="claim-t-189689"></a>
 - t-002
-  global_id: t-189689
   teiginys: "Narbutas rašė, kad lietuviai medžiotojo diržus vadino Risietis ir todėl neturėjo skolintis šio daikto pavadinimo iš svetimos kalbos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -107,7 +105,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189688
+    - t-001
+
 - id: c-172572
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -130,4 +129,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189689
+    - t-002

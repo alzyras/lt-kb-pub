@@ -30,7 +30,6 @@ Ruzgo GAMTOS METODIKOS PAGRINDAI. Gamtos moky­ tojas d-ras C.
 
 <a id="claim-t-36046"></a>
 - t-001
-  global_id: t-36046
   teiginys: "V. Ruzgo „Gamtos metodikos pagrindai“ buvo gausiai iliustruota 200 puslapių knyga, kainavusi 6 litus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,4 +54,4 @@ Ruzgo GAMTOS METODIKOS PAGRINDAI. Gamtos moky­ tojas d-ras C.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36046
+    - t-001

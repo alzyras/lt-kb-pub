@@ -31,7 +31,6 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
 
 <a id="claim-t-21870"></a>
 - t-001
-  global_id: t-21870
   teiginys: "Venesuela buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,14 +71,14 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
     šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
     vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į
     Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).
-  citata_rodoma: |
-    Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).
+  citata_rodoma: "Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21870
+    - t-001
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

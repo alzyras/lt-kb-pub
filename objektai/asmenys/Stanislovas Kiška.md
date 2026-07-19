@@ -43,8 +43,7 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
 ## Teiginiai
 
 <a id="claim-t-79162"></a>
-- t-001
-  global_id: t-79162
+- t-003
   teiginys: "LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +64,7 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
     - c-76241
 
 <a id="claim-t-79163"></a>
-- t-002
-  global_id: t-79163
+- t-001
   teiginys: "Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
     - c-76240
 
 <a id="claim-t-184831"></a>
-- t-003
-  global_id: t-184831
+- t-004
   teiginys: "Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -107,8 +104,7 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
     - c-168192
 
 <a id="claim-t-184832"></a>
-- t-004
-  global_id: t-184832
+- t-005
   teiginys: "Stanislovas Kiška prasivalė kelią ir nusiaubė Viazmos žemę bei gretimas apygardas, žudydamas ir degindamas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -153,7 +149,8 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79163
+    - t-001
+
 - id: c-76241
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -171,24 +168,15 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
     riais ir maskvėnais (po to, kai 1502 m. jam
     pavyko apginti Smolenską nuo maskvėnų,
     jam buvo patikėtos etmono pareigos).
-  citata_rodoma: |
-    Jis
-    vyriausiais kariuomenės vadais paskyrė
-    LDK etmoną Stanislovą Kišką ir savo favo-
-    rita, dvaro maršalką, kunigaikštį Mykolą
-    Glinskį, o pats grįžo į Vilnių. Stanislovas
-    Kiška nebuvo labai gabus karvedys, bet jau
-    turėjo tam tikros patirties kovose su toto-
-    riais ir maskvėnais (po to, kai 1502 m. jam
-    pavyko apginti Smolenską nuo maskvėnų,
-    jam buvo patikėtos etmono pareigos).
+  citata_rodoma: "Jis\nvyriausiais kariuomenės vadais paskyrė\nLDK etmoną Stanislovą Kišką ir savo favo-\nrita, dvaro maršalką, kunigaikštį Mykolą\nGlinskį, o pats grįžo į Vilnių. Stanislovas\nKiška nebuvo labai gabus karvedys, bet jau\nturėjo tam tikros patirties kovose su toto-\nriais ir maskvėnais (po to, kai 1502 m. jam\npavyko apginti Smolenską nuo maskvėnų,\njam buvo patikėtos etmono pareigos)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79162
+    - t-003
+
 - id: c-168192
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -221,7 +209,8 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184831
+    - t-004
+
 - id: c-168193
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -242,6 +231,7 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184832
+    - t-005
+
 ## Ryšiai
 - Stanislovas Kiška gynė [[objektai/vietos/Smolenskas]]

@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-19603"></a>
 - t-001
-  global_id: t-19603
   teiginys: "XIX a. viduryje Lietuvoje pradėjo veikti pirmosios telegrafo linijos, o Nemune pradėta garlaivių navigacija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,12 +81,11 @@ Nenurodyta
     navigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
     Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
     (Kenigsbergą), linija Liepoja–Romnai.
-  citata_rodoma: |
-    navigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
+  citata_rodoma: "navigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19603
+    - t-001

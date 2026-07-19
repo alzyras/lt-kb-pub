@@ -39,8 +39,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 ## Teiginiai
 
 <a id="claim-t-75709"></a>
-- t-001
-  global_id: t-75709
+- t-015
   teiginys: "Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad Lietuvoje „vietos visiems užteks“."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73446
 
 <a id="claim-t-75710"></a>
-- t-002
-  global_id: t-75710
+- t-047
   teiginys: "Vytauto Didžiojo kultas susiejo Antano Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73436
 
 <a id="claim-t-75711"></a>
-- t-003
-  global_id: t-75711
+- t-011
   teiginys: "Vytauto Didžiojo kultas siejo stipraus tautos vado vaizdinį su Antano Smetonos valdoma Lietuvos valstybe."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -92,8 +89,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73436
 
 <a id="claim-t-75712"></a>
-- t-004
-  global_id: t-75712
+- t-045
   teiginys: "1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo viršenybę prieš Seimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,8 +108,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73431
 
 <a id="claim-t-75713"></a>
-- t-005
-  global_id: t-75713
+- t-044
   teiginys: "1927 m. vasarą ir rudenį Antanas Smetona keliavo po miestelius, lankė maldos namus ir aiškino naujos vadovybės planus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,8 +127,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73421
 
 <a id="claim-t-75714"></a>
-- t-006
-  global_id: t-75714
+- t-042
   teiginys: "Antanas Smetona ir Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -152,8 +146,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73422
 
 <a id="claim-t-75715"></a>
-- t-007
-  global_id: t-75715
+- t-004
   teiginys: "Antanas Smetona Lietuvos demokratiją vadino vaikams per dideliais batais, nes parlamentarizmo tradicija per šešerius metus neįsitvirtino."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -169,8 +162,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73430
 
 <a id="claim-t-75716"></a>
-- t-008
-  global_id: t-75716
+- t-052
   teiginys: "Po 1939 m. rudens A. Smetonos autoritarinis režimas netenkino nei dešiniojo lietuvių jaunimo sparno, nei kairiųjų jaunuolių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -188,27 +180,18 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73437
 
 <a id="claim-t-75717"></a>
-- t-009
-  global_id: t-75717
+- t-031
   teiginys: "A. Smetona buvo Vilniuje pasilikusio Komiteto pirmininkas."
-  atnaujinta: "2026-05-31 11:59"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: po 1930 m.; įvykio data: 1930 m.; įvykio data: 1934 m."
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-73438
+    - c-73444
 
 <a id="claim-t-75718"></a>
-- t-010
-  global_id: t-75718
+- t-008
   teiginys: "1927 m. vasarą ir rudenį Antanas Smetona keliavo po miestelius, aiškindamas naujos vadovybės planus įvesti tvarką šalyje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -227,8 +210,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73421
 
 <a id="claim-t-75719"></a>
-- t-011
-  global_id: t-75719
+- t-001
   teiginys: "1917 m. Lietuvių konferencijoje Vilniuje Antanas Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks Tarybos vidaus prieštaravimus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -247,46 +229,29 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73444
 
 <a id="claim-t-75720"></a>
-- t-012
-  global_id: t-75720
+- t-032
   teiginys: "A. Smetona buvo Vykdomojo Komiteto biuro narys."
-  atnaujinta: "2026-05-31 11:59"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1936 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-73450
+    - c-73447
 
 <a id="claim-t-75721"></a>
-- t-013
-  global_id: t-75721
+- t-034
   teiginys: "A. Smetona 1793–1795 m. LDK padėtį apibūdino kaip laiką, kai ji liovėsi būti valstybe."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1793-1795; įvykio data: 1795 m.; įvykio data: 1934 m.; įvykio data: 1935 m.; įvykio data: 1937 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-73427
+    - c-73420
 
 <a id="claim-t-75722"></a>
-- t-014
-  global_id: t-75722
+- t-041
   teiginys: "Smetona, kuris prisiekė laikytis šalies konstitucijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -295,8 +260,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73448
 
 <a id="claim-t-75723"></a>
-- t-015
-  global_id: t-75723
+- t-058
   teiginys: "1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -316,8 +280,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73439
 
 <a id="claim-t-75724"></a>
-- t-016
-  global_id: t-75724
+- t-049
   teiginys: "1938 m. gegužės 12 d. prezidentas Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -336,8 +299,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73426
 
 <a id="claim-t-75725"></a>
-- t-017
-  global_id: t-75725
+- t-056
   teiginys: "Antanas Smetona netrukus pakeitė Klaipėdos nacių teismo skirtą mirties bausmę kalėjimu iki gyvos galvos, o 1937 m. amnestavo kaltinamuosius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -356,8 +318,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73427
 
 <a id="claim-t-75726"></a>
-- t-018
-  global_id: t-75726
+- t-002
   teiginys: "Antanas Smetona, kaip vienas aršiausių tautininkų kritikų, dėl valdžios baudimų buvo patekęs į kalėjimą."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -373,8 +334,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73433
 
 <a id="claim-t-75727"></a>
-- t-019
-  global_id: t-75727
+- t-024
   teiginys: "1936 m. kovą Kaune Antanas Smetona atsakomąja kalba užvėrė duris kompromisui su Lenkija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -393,8 +353,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73450
 
 <a id="claim-t-75728"></a>
-- t-020
-  global_id: t-75728
+- t-007
   teiginys: "1927 m. balandžio 12 d. Antanas Smetona prezidento aktu paleido III Seimą ir nustūmė krikščionis demokratus nuo valdžios."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -413,8 +372,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73434
 
 <a id="claim-t-75729"></a>
-- t-021
-  global_id: t-75729
+- t-022
   teiginys: "1919 m. rugsėjo 26 d. Kaune prezidentas Antanas Smetona iš balkono sveikino minias po Didžiosios Britanijos de facto pripažinimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -433,8 +391,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73442
 
 <a id="claim-t-75730"></a>
-- t-022
-  global_id: t-75730
+- t-025
   teiginys: "Priėmus Lenkijos ultimatumą, Antanui Smetonai artimas kunigas Vladas Mironas pakeitė Juozą Tūbelį premjero poste."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -450,8 +407,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73432
 
 <a id="claim-t-75731"></a>
-- t-023
-  global_id: t-75731
+- t-017
   teiginys: "Antano Smetonos režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbančios Lietuvos formavimas."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -467,8 +423,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73428
 
 <a id="claim-t-75732"></a>
-- t-024
-  global_id: t-75732
+- t-006
   teiginys: "Antanas Smetona ir Augustinas Voldemaras pabrėždavo stiprių prezidento galių būtinybę ir nevertino politinių partijų vaidmens."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -486,8 +441,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73422
 
 <a id="claim-t-75733"></a>
-- t-025
-  global_id: t-75733
+- t-016
   teiginys: "Po 1939 m. rudens nuosaikus Antano Smetonos autoritarinis režimas netenkino nei dešinės radikalų, nei dalies kairiojo jaunimo."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -505,46 +459,29 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73437
 
 <a id="claim-t-75734"></a>
-- t-026
-  global_id: t-75734
+- t-055
   teiginys: "Prezidentas A. Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1793-1795; įvykio data: 1795 m.; įvykio data: 1916 m.; įvykio data: 1918 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-73420
+    - c-73427
 
 <a id="claim-t-75735"></a>
-- t-027
-  global_id: t-75735
+- t-035
   teiginys: "Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1939 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-73449
+    - c-73425
 
 <a id="claim-t-75736"></a>
-- t-028
-  global_id: t-75736
+- t-039
   teiginys: "A. Smetona teigė, kad be faktinės Klaipėdos kontrolės Lietuva neturės juridinės kontrolės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -560,8 +497,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73423
 
 <a id="claim-t-75737"></a>
-- t-029
-  global_id: t-75737
+- t-021
   teiginys: "1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -581,8 +517,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73419
 
 <a id="claim-t-75738"></a>
-- t-030
-  global_id: t-75738
+- t-018
   teiginys: "Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors kalbėjo apie lietuvių tautinės kultūros kūrimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -601,8 +536,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73443
 
 <a id="claim-t-75739"></a>
-- t-031
-  global_id: t-75739
+- t-057
   teiginys: "1940 m. birželio 15 d. Antano Smetonos siūlymą priešintis ginklu palaikė vos du ministrai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -621,8 +555,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73435
 
 <a id="claim-t-75740"></a>
-- t-032
-  global_id: t-75740
+- t-051
   teiginys: "Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -638,8 +571,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73446
 
 <a id="claim-t-75741"></a>
-- t-033
-  global_id: t-75741
+- t-029
   teiginys: "Antano Smetonos valstybės modelio ir režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -656,8 +588,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73428
 
 <a id="claim-t-75742"></a>
-- t-034
-  global_id: t-75742
+- t-005
   teiginys: "1926 m. gruodžio 19 d. III Seimo nepaprastajame posėdyje Antanas Smetona išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -675,8 +606,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73448
 
 <a id="claim-t-75743"></a>
-- t-035
-  global_id: t-75743
+- t-053
   teiginys: "Antano Smetonos valstybės modelio prioritetai – tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva – iš esmės buvo įgyvendinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -692,29 +622,19 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73428
 
 <a id="claim-t-75744"></a>
-- t-036
-  global_id: t-75744
+- t-027
   teiginys: "Grėsmės akivaizdoje Antanas Smetona leido Antanui Merkiui pasirašyti bet kokias sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "sutarties data: 1939 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pakeistas neaiškus įvardis į asmens vardą."
   pagrindžia:
-    - c-73425
     - c-73449
 
 <a id="claim-t-75745"></a>
-- t-037
-  global_id: t-75745
+- t-036
   teiginys: "1917 m. A. Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks radikaliosios ir konservatyviosios dalių prieštaravimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -732,8 +652,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73444
 
 <a id="claim-t-75746"></a>
-- t-038
-  global_id: t-75746
+- t-030
   teiginys: "Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -753,8 +672,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73443
 
 <a id="claim-t-75747"></a>
-- t-039
-  global_id: t-75747
+- t-028
   teiginys: "Po 1939 m. rudens Lietuvos jaunimo dešinės ir kairės radikalų netenkino nuosaikus Antano Smetonos autoritarinis režimas."
   atnaujinta: "2026-06-13 17:30"
   sprendimo_priezastis: "auto"
@@ -774,8 +692,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73437
 
 <a id="claim-t-75748"></a>
-- t-040
-  global_id: t-75748
+- t-013
   teiginys: "1938 m. gegužės 12 d. Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -793,8 +710,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73426
 
 <a id="claim-t-75749"></a>
-- t-041
-  global_id: t-75749
+- t-043
   teiginys: "1927 m. paleidęs III Seimą, Antanas Smetona nuo valdžios nustūmė stipriausią šalies politinę jėgą – krikščionis demokratus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -813,8 +729,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73434
 
 <a id="claim-t-75750"></a>
-- t-042
-  global_id: t-75750
+- t-040
   teiginys: "Antanas Smetona demokratiją Lietuvoje lygino su per dideliais batais vaikams, nes parlamentarizmo tradicija dar nebuvo įsitvirtinusi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -830,8 +745,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73430
 
 <a id="claim-t-75751"></a>
-- t-043
-  global_id: t-75751
+- t-026
   teiginys: "Prezidentas Antanas Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -849,8 +763,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73427
 
 <a id="claim-t-75752"></a>
-- t-044
-  global_id: t-75752
+- t-048
   teiginys: "1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai išrinko Antaną Smetoną Lietuvos prezidentu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -869,10 +782,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73447
 
 <a id="claim-t-75753"></a>
-- t-045
-  global_id: t-75753
+- t-033
   teiginys: "A. Smetona buvo Lietuvos Tarybos narys ir jos pirmininkas."
-  atnaujinta: "2026-05-31 11:59"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -884,10 +796,10 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-73432
+    - c-73444
 
 <a id="claim-t-75754"></a>
-- t-046
-  global_id: t-75754
+- t-023
   teiginys: "Nuo 1930 m. per Tautos šventę valstybės įstaigas puošdavo dideli Vytauto Didžiojo ir Antano Smetonos portretai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -906,8 +818,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73438
 
 <a id="claim-t-75755"></a>
-- t-047
-  global_id: t-75755
+- t-019
   teiginys: "1918 m. kovo 23 d. Antano Smetonos vadovaujama Tarybos delegacija Berlyne pristatė deklaracijos turinį Georgui von Hertlingui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -926,8 +837,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73440
 
 <a id="claim-t-75756"></a>
-- t-048
-  global_id: t-75756
+- t-012
   teiginys: "1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai perrinko Antaną Smetoną Lietuvos prezidentu."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -945,8 +855,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73447
 
 <a id="claim-t-75757"></a>
-- t-049
-  global_id: t-75757
+- t-046
   teiginys: "Konstitucija įteisino autoritarinį A. Smetonos valdymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -962,8 +871,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73445
 
 <a id="claim-t-75758"></a>
-- t-050
-  global_id: t-75758
+- t-009
   teiginys: "1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo pozicijas ir įteisino viršenybę prieš Seimą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -982,27 +890,18 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73431
 
 <a id="claim-t-75760"></a>
-- t-051
-  global_id: t-75760
+- t-037
   teiginys: "1918 m. lapkričio 2 d. A. Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1918 m.; įvykio data: 1926-1940; įvykio data: 1927 m.; įvykio data: 1940 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-73421
+    - c-73441
 
 <a id="claim-t-75761"></a>
-- t-052
-  global_id: t-75761
+- t-020
   teiginys: "1918 m. lapkričio 2 d. Antanas Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1020,8 +919,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73441
 
 <a id="claim-t-75763"></a>
-- t-053
-  global_id: t-75763
+- t-003
   teiginys: "Antanas Smetona laikėsi nuostatos, kad be faktinės Klaipėdos kontrolės Lietuva neįgis juridinės krašto kontrolės."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -1037,8 +935,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73423
 
 <a id="claim-t-75764"></a>
-- t-054
-  global_id: t-75764
+- t-010
   teiginys: "1928 m. Konstitucija įteisino autoritarinį Antano Smetonos valdymą."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -1056,8 +953,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73445
 
 <a id="claim-t-75766"></a>
-- t-055
-  global_id: t-75766
+- t-038
   teiginys: "A. Smetona buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -1073,8 +969,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73433
 
 <a id="claim-t-183525"></a>
-- t-056
-  global_id: t-183525
+- t-059
   teiginys: "Antano Smetonos redaguojamos „Vilties“ grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -1132,7 +1027,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75737
+    - t-021
+
 - id: c-73420
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1150,7 +1046,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75734
+    - t-034
+
 - id: c-73421
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1174,9 +1071,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75713
-    - t-75718
-    - t-75760
+    - t-044
+    - t-008
+
 - id: c-73422
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1209,8 +1106,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75714
-    - t-75732
+    - t-042
+    - t-006
+
 - id: c-73423
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1230,8 +1128,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75736
-    - t-75763
+    - t-039
+    - t-003
+
 - id: c-73425
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1249,7 +1148,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75744
+    - t-035
+
 - id: c-73426
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1268,8 +1168,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75724
-    - t-75748
+    - t-049
+    - t-013
+
 - id: c-73427
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1295,9 +1196,10 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75721
-    - t-75725
-    - t-75751
+    - t-056
+    - t-055
+    - t-026
+
 - id: c-73428
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1316,9 +1218,10 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75731
-    - t-75741
-    - t-75743
+    - t-017
+    - t-029
+    - t-053
+
 - id: c-73430
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1339,8 +1242,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75715
-    - t-75750
+    - t-004
+    - t-040
+
 - id: c-73431
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1362,8 +1266,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75712
-    - t-75758
+    - t-045
+    - t-009
+
 - id: c-73432
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1383,8 +1288,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75730
-    - t-75753
+    - t-025
+    - t-033
+
 - id: c-73433
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1404,8 +1310,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75726
-    - t-75766
+    - t-002
+    - t-038
+
 - id: c-73434
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1426,8 +1333,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75728
-    - t-75749
+    - t-007
+    - t-043
+
 - id: c-73435
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1451,7 +1359,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75739
+    - t-057
+
 - id: c-73436
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1474,8 +1383,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75710
-    - t-75711
+    - t-047
+    - t-011
+
 - id: c-73437
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1498,9 +1408,10 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75716
-    - t-75733
-    - t-75747
+    - t-052
+    - t-016
+    - t-028
+
 - id: c-73438
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1524,8 +1435,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75717
-    - t-75754
+    - t-023
+
 - id: c-73439
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1542,7 +1453,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75723
+    - t-058
+
 - id: c-73440
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1565,7 +1477,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75755
+    - t-019
+
 - id: c-73441
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1587,7 +1500,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75761
+    - t-037
+    - t-020
+
 - id: c-73442
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1610,7 +1525,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75729
+    - t-022
+
 - id: c-73443
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1631,8 +1547,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75738
-    - t-75746
+    - t-018
+    - t-030
+
 - id: c-73444
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1663,8 +1580,11 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75719
-    - t-75745
+    - t-031
+    - t-001
+    - t-036
+    - t-033
+
 - id: c-73445
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1682,8 +1602,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75757
-    - t-75764
+    - t-046
+    - t-010
+
 - id: c-73446
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1705,8 +1626,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75709
-    - t-75740
+    - t-015
+    - t-051
+
 - id: c-73447
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1726,8 +1648,10 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75752
-    - t-75756
+    - t-032
+    - t-048
+    - t-012
+
 - id: c-73448
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1745,8 +1669,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75722
-    - t-75742
+    - t-041
+    - t-005
+
 - id: c-73449
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1764,8 +1689,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75735
-    - t-75744
+    - t-027
+
 - id: c-73450
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1785,8 +1710,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75720
-    - t-75727
+    - t-024
+
 - id: c-166919
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1807,7 +1732,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183525
+    - t-059
+
 ## Ryšiai
 - Antanas Smetona (Lietuvos prezidentas, XX a.) valdė [[objektai/vietos/Lietuva]]
 - Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo į [[objektai/vietos/Berlynas]], [[objektai/vietos/Portugalija]], [[objektai/vietos/Šveicarija]]

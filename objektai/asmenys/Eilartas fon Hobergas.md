@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-40100"></a>
 - t-001
-  global_id: t-40100
   teiginys: "Eilartas fon Hobergas buvo danų vietininkas Taline ir žuvo mūšyje kartu su Livonijos ordino magistru Ernestu fon Racburgu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ media_all_json: |-
 
 <a id="claim-t-183737"></a>
 - t-002
-  global_id: t-183737
   teiginys: "Danų vietininkas Taline Eilartas fon Hobergas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -104,5 +102,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40100
-    - t-183737
+    - t-001
+    - t-002

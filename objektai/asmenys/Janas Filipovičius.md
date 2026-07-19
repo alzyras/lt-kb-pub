@@ -32,7 +32,6 @@ Janas Filipovičius buvo daktaras, kustodas ir Vilniaus kanauninkas; Lietuvos Me
 
 <a id="claim-t-87699"></a>
 - t-001
-  global_id: t-87699
   teiginys: "Janas Filipovičius pardavė karalienei Elenai paveldėtą sklypą Vilniaus pilyje su mūriniu rūsiu už devyniasdešimt kapų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Janas Filipovičius buvo daktaras, kustodas ir Vilniaus kanauninkas; Lietuvos Me
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87699
+    - t-001

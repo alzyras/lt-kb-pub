@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-59559"></a>
 - t-001
-  global_id: t-59559
   teiginys: "Lubavos nobiliai, vadovaujami Survabūno, ir Lanzanijos nobiliai, vadovaujami Varpodos, pripažino Kristijono valdžią."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-196956"></a>
 - t-002
-  global_id: t-196956
   teiginys: "Kristijonui radus bendrą kalbą su prūsų nobiliais, nemaža prūsų priėmė krikštą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -101,5 +99,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59559
-    - t-196956
+    - t-001
+    - t-002

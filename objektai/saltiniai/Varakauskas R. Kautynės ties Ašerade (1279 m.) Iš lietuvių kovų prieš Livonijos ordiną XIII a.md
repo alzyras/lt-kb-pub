@@ -38,7 +38,6 @@ Dusburgietis teigia, kad varakauskas R.
 
 <a id="claim-t-61345"></a>
 - t-001
-  global_id: t-61345
   teiginys: "R. Varakausko straipsnis apie 1279 m. kautynes ties Ašerade paskelbtas 1963 m. leidinyje „Istorija“ 4 tome."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Dusburgietis teigia, kad varakauskas R.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61345
+    - t-001

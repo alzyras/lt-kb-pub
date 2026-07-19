@@ -32,7 +32,6 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
 
 <a id="claim-t-190149"></a>
 - t-001
-  global_id: t-190149
   teiginys: "Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, išėjusiomis į rytus valdant Filimerui arba kiek vėliau."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
 
 <a id="claim-t-190854"></a>
 - t-002
-  global_id: t-190854
   teiginys: "Narbuto aiškinimu, Filimero žygio kryptį rodo spalių kelias nuo Azovo jūros į Vakarų šalis ir vėlesnis jų judėjimas su gotais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
 
 <a id="claim-t-190855"></a>
 - t-003
-  global_id: t-190855
   teiginys: "Narbuto pasakojime kvadai, svebai, markomanai ir kitos gotų kartos daugelį metų traukė į Rytus paskui Filimerą per lietuvių tautų žemes ar jų pakraščiais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -143,7 +140,8 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190149
+    - t-001
+
 - id: c-173736
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -165,7 +163,8 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190854
+    - t-002
+
 - id: c-173737
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -187,4 +186,4 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190855
+    - t-003

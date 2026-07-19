@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-20595"></a>
 - t-001
-  global_id: t-20595
   teiginys: "Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,12 +85,11 @@ Nenurodyta
     sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
     Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
     (Bona Sforza).
-  citata_rodoma: |
-    sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
+  citata_rodoma: "sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20595
+    - t-001

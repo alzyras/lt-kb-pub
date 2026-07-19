@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20311"></a>
 - t-001
-  global_id: t-20311
   teiginys: "Lietuvos Respublikos švietimo ministerijos iniciatyva grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, redaguotą Adolfo Šapokos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-183244"></a>
 - t-002
-  global_id: t-183244
   teiginys: "1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -109,15 +107,15 @@ Nenurodyta
     zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
     šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
     Šapoka.
-  citata_rodoma: |
-    šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
+  citata_rodoma: "šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20311
+    - t-001
+
 - id: c-166632
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -134,4 +132,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183244
+    - t-002

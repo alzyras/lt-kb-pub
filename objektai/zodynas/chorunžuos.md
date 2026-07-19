@@ -48,7 +48,6 @@ terminas pateiktas tik viename sakinyje, todėl viešame įraše reikės aiškia
 
 <a id="claim-t-192224"></a>
 - t-001
-  global_id: t-192224
   teiginys: "Narbutas „chorunžuos“ aiškina kaip karinius valsčius Peluzijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -67,7 +66,6 @@ terminas pateiktas tik viename sakinyje, todėl viešame įraše reikės aiškia
 
 <a id="claim-t-192225"></a>
 - t-002
-  global_id: t-192225
   teiginys: "Narbutas mini tris „chorunžuos“: Merkio, Eišiškių ir Rodūnės karinius valsčius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -111,15 +109,12 @@ terminas pateiktas tik viename sakinyje, todėl viešame įraše reikės aiškia
     mą Peluzija. Čia buvo trys chorunžuos, t. y. kariniai
     valsčiai: Merkio, Eišiškių ir Rodūnės; kiekviename iš jų
     stovėjo po įtvirtintą tvirtovę.
-  citata_rodoma: |
-    Čia buvo trys chorunžuos, t. y. kariniai
-    valsčiai: Merkio, Eišiškių ir Rodūnės; kiekviename iš jų
-    stovėjo po įtvirtintą tvirtovę.
+  citata_rodoma: "Čia buvo trys chorunžuos, t. y. kariniai\nvalsčiai: Merkio, Eišiškių ir Rodūnės; kiekviename iš jų\nstovėjo po įtvirtintą tvirtovę."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192224
-    - t-192225
+    - t-001
+    - t-002

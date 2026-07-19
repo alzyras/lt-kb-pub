@@ -37,29 +37,19 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
 
 <a id="claim-t-190176"></a>
 - t-001
-  global_id: t-190176
   teiginys: "Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė herbą Krunevičiui."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "paskyre -> Krunevičius: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krunevičius: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata nurodo, kad Gediminas davė herbą Krunevičiui; „paskyre“ apytikriai perteikia suteikimą asmeniui."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Gediminas paskyrė Krunevičius (0.70)"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173059
-    - c-001
+    - c-173060
+
 <a id="claim-t-190177"></a>
 - t-002
-  global_id: t-190177
   teiginys: "Narbutas nurodė, kad Malachovskis pateikė žinių apie Gedimino suteiktą herbą Krunevičiui, bet šaltinis jam buvo neaiškus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -103,8 +93,7 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190176
+
 ## Citatos
 
 - id: c-173059
@@ -125,22 +114,13 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
     dalo ir seno graviravimo signečių pėdsakas. Jose pastebime
     arba mitologinius ženklus, arba pavaizduotus fetišus, arba die-
     11 Skaityk straipsnį „Šventyklos”.
-  citata_rodoma: |
-    Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
-    jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
-    Hipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­
-    nigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302
-    metais Gediminas davė Krunevičiui10. Sis paprotys lietuviams
-    nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios
-    Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,
-    kad jiems būtų suteikti herbai -  taip būdavo Lenkijoje.
+  citata_rodoma: "Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­\njo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi\nHipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­\nnigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302\nmetais Gediminas davė Krunevičiui10. Sis paprotys lietuviams\nnebuvo būdingas, bet kai kurios riterių šeimos, priklausančios\nLietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,\nkad jiems būtų suteikti herbai -  taip būdavo Lenkijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190176
 - id: c-173060
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -166,4 +146,5 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190177
+    - t-001
+    - t-002

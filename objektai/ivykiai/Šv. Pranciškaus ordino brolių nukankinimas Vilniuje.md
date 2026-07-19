@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185792"></a>
 - t-001
-  global_id: t-185792
   teiginys: "Goštautui išvykus į Tikociną, Vilniuje sukurstyta minia nužudė keturiolika krikščionių vienuolių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-196297"></a>
 - t-002
-  global_id: t-196297
   teiginys: "Kojelavičiaus pasakojime Algirdui išvykus į Tikociną minia Vilniuje užpuolė krikščionybės skelbėjus ir nužudė du septynių vienuolių būrelius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -113,5 +111,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185792
-    - t-196297
+    - t-001
+    - t-002

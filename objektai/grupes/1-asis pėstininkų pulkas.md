@@ -30,8 +30,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 ## Teiginiai
 
 <a id="claim-t-78158"></a>
-- t-001
-  global_id: t-78158
+- t-003
   teiginys: "1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni vokiečių apkasai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     - c-75466
 
 <a id="claim-t-78159"></a>
-- t-002
-  global_id: t-78159
+- t-001
   teiginys: "Du 1-ojo pėstininkų pulko batalionai įėjo į Ladygos vadovaujamą dešiniąją koloną kartu su raitaisiais žvalgais, dviem eskadronais ir 4-ąja baterija."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -59,8 +57,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     - c-42601
 
 <a id="claim-t-78160"></a>
-- t-003
-  global_id: t-78160
+- t-002
   teiginys: "1-asis pėstininkų pulkas naktį iš 23 į 24 d. palei Zarasų plentą nesėkmingai puolė „Bružų poziciją“."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -95,7 +92,8 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78159
+    - t-001
+
 - id: c-75466
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -114,26 +112,15 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     plentą ir siekė pralaužti atsparumu pagarsė-
     jusią „Bružų poziciją“, tačiau lietuviai patyrė
     nemažų nuostolių ir puolimas nepavyko.
-  citata_rodoma: |
-    Tos dienos
-    vakare, nežiūrint itin atkaklaus bolše-
-    vikų pasipriešinimo, parėmus 1-ojo pės-
-    tininkų pulko batalionui, pavyko užimti
-    šią stotį, o taip pat ir senus Pirmojo pa-
-    saulinio karo laikų vokiečių apkasus.
-
-    Tuo tarpu 1-asis pėstininkų pulkas puo-
-    limą pradėjo naktį iš 23 į 24 d. palei Zarasų
-    plentą ir siekė pralaužti atsparumu pagarsė-
-    jusią „Bružų poziciją“, tačiau lietuviai patyrė
-    nemažų nuostolių ir puolimas nepavyko.
+  citata_rodoma: "Tos dienos\nvakare, nežiūrint itin atkaklaus bolše-\nvikų pasipriešinimo, parėmus 1-ojo pės-\ntininkų pulko batalionui, pavyko užimti\nšią stotį, o taip pat ir senus Pirmojo pa-\nsaulinio karo laikų vokiečių apkasus.\n\nTuo tarpu 1-asis pėstininkų pulkas puo-\nlimą pradėjo naktį iš 23 į 24 d. palei Zarasų\nplentą ir siekė pralaužti atsparumu pagarsė-\njusią „Bružų poziciją“, tačiau lietuviai patyrė\nnemažų nuostolių ir puolimas nepavyko."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78158
+    - t-003
+
 - id: c-75467
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -153,4 +140,4 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78160
+    - t-002

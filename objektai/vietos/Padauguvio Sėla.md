@@ -31,7 +31,6 @@ Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai
 
 <a id="claim-t-32431"></a>
 - t-001
-  global_id: t-32431
   teiginys: "Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,19 +60,14 @@ Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai
     šoną — Latgalon, ir gyveno Daugpilio apylinkėje (K. Būga).
     Šiandien į kelias pagrindines tarmes suskilęs lietuvių gyvena­
     mas plotas, istorinių laikų angoje buvo vienalytiškas.
-  citata_rodoma: |
-    Užėmę Padauguvio Sėlą (tarp Dauguvos intakų
-    Dysnos ir Egluonos), lietuviai nesustojo kairiajame Dauguvos kran­
-    te, bet, įkandin sekdami sėlius, persikėlė ir į dešinįjį Dauguvos
-    šoną — Latgalon, ir gyveno Daugpilio apylinkėje (K. Būga).
-    Šiandien į kelias pagrindines tarmes suskilęs lietuvių gyvena­
-    mas plotas, istorinių laikų angoje buvo vienalytiškas.
+  citata_rodoma: "Užėmę Padauguvio Sėlą (tarp Dauguvos intakų\nDysnos ir Egluonos), lietuviai nesustojo kairiajame Dauguvos kran­\nte, bet, įkandin sekdami sėlius, persikėlė ir į dešinįjį Dauguvos\nšoną — Latgalon, ir gyveno Daugpilio apylinkėje (K. Būga).\nŠiandien į kelias pagrindines tarmes suskilęs lietuvių gyvena­\nmas plotas, istorinių laikų angoje buvo vienalytiškas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32431
+    - t-001
+
 ## Ryšiai
 - Užėmė Padauguvio Sėlą: [[objektai/grupes/Lietuviai]]

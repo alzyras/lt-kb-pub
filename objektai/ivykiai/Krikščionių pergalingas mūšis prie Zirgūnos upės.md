@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-91906"></a>
 - t-001
-  global_id: t-91906
   teiginys: "Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91906
+    - t-001

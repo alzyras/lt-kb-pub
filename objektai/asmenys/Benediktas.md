@@ -39,7 +39,6 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
 
 <a id="claim-t-35034"></a>
 - t-001
-  global_id: t-35034
   teiginys: "1387 m. vasarą Jogaila pasiuntė Vytautą su kariuomene atimti Haličą iš Vengrijos kašteliono Benedikto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,15 +82,11 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
     siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kariuomene
     atimti Haličą iš Vengrijos kašteliono Benedikto. Žygis buvo
     reikšmingas.
-  citata_rodoma: |
-    Ypatingą jam mi­
-    siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kariuomene
-    atimti Haličą iš Vengrijos kašteliono Benedikto. Žygis buvo
-    reikšmingas.
+  citata_rodoma: "Ypatingą jam mi­\nsiją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kariuomene\natimti Haličą iš Vengrijos kašteliono Benedikto. Žygis buvo\nreikšmingas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35034
+    - t-001

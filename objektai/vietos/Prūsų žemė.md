@@ -42,7 +42,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 
 <a id="claim-t-32483"></a>
 - t-001
-  global_id: t-32483
   teiginys: "Prūsų žemė tapo svarbiu ginkluotų misijų kraštu ir rimtu Livonijos riterių bei kryžininkų prieaugliui varžovu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
     - c-34010
 
 <a id="claim-t-201458"></a>
-- t-002
-  global_id: t-201458
+- t-003
   teiginys: "Ordinas visą nukariautą kraštą vadino Prūsais pagal vakarines aisčių gimines, pirmąsias jo pavergtas."
   atnaujinta: "2026-07-18 19:52"
   sprendimo_priezastis: "auto"
@@ -70,8 +68,7 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
     - c-184808
 
 <a id="claim-t-201459"></a>
-- t-003
-  global_id: t-201459
+- t-002
   teiginys: "Prūsai vokiečiams priešinosi puldami ir degindami ordino pilis bei vokiečių kolonistų sodybas."
   atnaujinta: "2026-07-18 19:52"
   sprendimo_priezastis: "auto"
@@ -81,7 +78,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 
 <a id="claim-t-201460"></a>
 - t-004
-  global_id: t-201460
   teiginys: "Prūsuose Vytautas išmoko vokiečių kalbos, kryžiuočių disciplinos, administracijos ir karo mokslų."
   atnaujinta: "2026-07-18 19:52"
   sprendimo_priezastis: "auto"
@@ -94,7 +90,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 
 <a id="claim-t-201461"></a>
 - t-005
-  global_id: t-201461
   teiginys: "Kryžiuočių ordino atsikraustymas į Prūsus Prūsuose gyvenusios aisčių giminės anksčiau už kitas susidūrė su krikščioniškuoju pasauliu."
   atnaujinta: "2026-07-18 19:52"
   sprendimo_priezastis: "auto"
@@ -107,7 +102,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 
 <a id="claim-t-201462"></a>
 - t-006
-  global_id: t-201462
   teiginys: "Visą savo nukariautą kraštą ordinas vadino Prūsais, nors prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau puldavo lenkus, o vėliau pirmosios buvo ordino pavergtos."
   atnaujinta: "2026-07-18 19:52"
   sprendimo_priezastis: "auto"
@@ -700,19 +694,15 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
     prieaugliui tapo rimtas varžovas. Ten nuo 1216 metų, gavęs «Prūsų
     vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
     tijonas^73.
-  citata_rodoma: |
-    Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų
-    kraštas, būtent, Prūsų žemė, kuris Livonijos riterių ir kryžininkų
-    prieaugliui tapo rimtas varžovas. Ten nuo 1216 metų, gavęs «Prūsų
-    vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
-    tijonas^73.
+  citata_rodoma: "Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų\nkraštas, būtent, Prūsų žemė, kuris Livonijos riterių ir kryžininkų\nprieaugliui tapo rimtas varžovas. Ten nuo 1216 metų, gavęs «Prūsų\nvyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­\ntijonas^73."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32483
+    - t-001
+
 - id: c-184808
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -731,8 +721,9 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201458
-    - t-201462
+    - t-003
+    - t-006
+
 - id: c-184809
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -744,19 +735,15 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
     užpuldavo ir degindavo ordino pilis ir vokiečių kolonistų sody-
     bas. O du kartus (1242 - 1249 ir 1260 — 1274 m.) net buvo sukilusios visos pa-
     vergtos jų giminės.
-  citata_rodoma: |
-    Įsikūręs pirmiausia jų krašte, ordinas jų vardu pavadino ir
-    visą nukariautą kraštą.
-    Prūsai ne lengvai pasidavė vokiečiams: jie nuolat kovodavo,
-    užpuldavo ir degindavo ordino pilis ir vokiečių kolonistų sody-
-    bas. O du kartus (1242 - 1249 ir 1260 — 1274 m.
+  citata_rodoma: "Įsikūręs pirmiausia jų krašte, ordinas jų vardu pavadino ir\nvisą nukariautą kraštą.\nPrūsai ne lengvai pasidavė vokiečiams: jie nuolat kovodavo,\nužpuldavo ir degindavo ordino pilis ir vokiečių kolonistų sody-\nbas. O du kartus (1242 - 1249 ir 1260 — 1274 m."
   statusas: verified
   atnaujinta: "2026-07-18 19:52"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201459
+    - t-002
+
 - id: c-184810
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -776,7 +763,8 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201460
+    - t-004
+
 - id: c-184811
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -794,7 +782,8 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201461
+    - t-005
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
 - Buvo žygio kryptis: [[objektai/grupes/Lietuviai]]

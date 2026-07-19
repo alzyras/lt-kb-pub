@@ -41,8 +41,7 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
 ## Teiginiai
 
 <a id="claim-t-50969"></a>
-- t-001
-  global_id: t-50969
+- t-002
   teiginys: "Vytautas, pritariamas Jogailos, pirmiausia atėmė Sievero žemę iš Dimitro Kaributo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
     - c-36273
 
 <a id="claim-t-50970"></a>
-- t-002
-  global_id: t-50970
+- t-001
   teiginys: "Dimitras Kaributas valdė Sievero žemę, kurią Vytautas, pritariamas Jogailos, iš jo atėmė."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
 
 <a id="claim-t-184691"></a>
 - t-003
-  global_id: t-184691
   teiginys: "Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -97,7 +94,6 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
 
 <a id="claim-t-184692"></a>
 - t-004
-  global_id: t-184692
   teiginys: "Dimitras Kaributas atsisakė mokėti Vytauto pasiuntinių reikalautus pinigus į Lietuvos didžiojo kunigaikščio iždą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -118,7 +114,6 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
 
 <a id="claim-t-196440"></a>
 - t-005
-  global_id: t-196440
   teiginys: "Kojelavičius 1395 m. Seversko Dimitrą Kaributą mini tarp turtingų ir galingų valdovų, kurių nuotaikas Vytautas nutarė ištirti."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -132,7 +127,6 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
 
 <a id="claim-t-196441"></a>
 - t-006
-  global_id: t-196441
   teiginys: "Užėmus miestą, Dimitro Kaributo lobiai ir į pilį bei bažnyčias sugabenti turtai pateko į Vytauto iždą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -163,23 +157,16 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
     jime) neramųjį Jogailos brolį Švitrigailą^2 ). Apskritai Gedimi­
     naičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­
     stovos, jų valdžią silpnino.
-  citata_rodoma: |
-    Pritariamas Jogailos, jis pirmiausia atėmė valdomą
-    Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų
-    Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­
-    štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­
-    dimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­
-    jime) neramųjį Jogailos brolį Švitrigailą^2 ). Apskritai Gedimi­
-    naičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­
-    stovos, jų valdžią silpnino.
+  citata_rodoma: "Pritariamas Jogailos, jis pirmiausia atėmė valdomą\nSievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų\nPodolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­\nštį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­\ndimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­\njime) neramųjį Jogailos brolį Švitrigailą^2 ). Apskritai Gedimi­\nnaičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­\nstovos, jų valdžią silpnino."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50969
-    - t-50970
+    - t-002
+    - t-001
+
 - id: c-168052
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -198,29 +185,15 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
     riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­
     gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į
     Severską — Dimitras Kaributas.
-  citata_rodoma: |
-    Po šios per­
-    to karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir
-    nusiųstas pas Jogailą, o visa Rusia sutramdyta. Kad nuo
-    tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas
-    Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka­
-    riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­
-    gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į
-    Severską — Dimitras Kaributas. Jogaila, atsikratęs šio
-    karo rūpesčių ir nelaisvėn paimtą brolį Vingaudą iš­
-    siuntęs į Chencinų pilies kalėjimą, ryžtingiau ėmėsi
-    Su m u ša
-    S via to sla vą ,
-    S m o le n sk o  k u n ig a ik ­
-    štį
-    ti į puolantį priešą.
+  citata_rodoma: "Po šios per­\nto karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir\nnusiųstas pas Jogailą, o visa Rusia sutramdyta. Kad nuo\ntos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas\nŠvitrigaila su nemaža įgula pasiliko Polocke, kitą ka­\nriuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­\ngaila į Trakus, Simonas Lengvenis į Mstislavlį, o į\nSeverską — Dimitras Kaributas. Jogaila, atsikratęs šio\nkaro rūpesčių ir nelaisvėn paimtą brolį Vingaudą iš­\nsiuntęs į Chencinų pilies kalėjimą, ryžtingiau ėmėsi\nSu m u ša\nS via to sla vą ,\nS m o le n sk o  k u n ig a ik ­\nštį\nti į puolantį priešą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184691
+    - t-003
+
 - id: c-168053
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -247,31 +220,16 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
     pareikalauti iš jų valdomų žemių pinigų, kitados pa­
     prastai kasmet mokamų į Lietuvos didžiojo kunigaikš­
     čio iždą.
-  citata_rodoma: |
-    Vytautas nutarė pirmiausia
-    ištirti jų nuotaikas, todėl pasiuntė žygūnus, turėjusius
-    pareikalauti iš jų valdomų žemių pinigų, kitados pa­
-    prastai kasmet mokamų į Lietuvos didžiojo kunigaikš­
-    čio iždą.
-    Gal jie šitaip elgėsi iš anksto tarp savęs susita­
-    rę, gal kiekvienas viską darė savo galva, tačiau visi
-    išdidžiai atšovė pasiuntiniams, jog nemokėsią, o ypač
-    339
-
-    ## Puslapis 338
-
-    Dimitras, labiau už kitus nesitaikstantis su kito valdžia.
-    Jis atrėžė, jog jo tėvas Algirdas buvęs Lietuvos didy­
-    sis kunigaikštis, jog pats esąs karaliaus Jogailos brolis,
-    o Vytautui — nieko neskolingas.
+  citata_rodoma: "Vytautas nutarė pirmiausia\ništirti jų nuotaikas, todėl pasiuntė žygūnus, turėjusius\npareikalauti iš jų valdomų žemių pinigų, kitados pa­\nprastai kasmet mokamų į Lietuvos didžiojo kunigaikš­\nčio iždą.\nGal jie šitaip elgėsi iš anksto tarp savęs susita­\nrę, gal kiekvienas viską darė savo galva, tačiau visi\nišdidžiai atšovė pasiuntiniams, jog nemokėsią, o ypač\n339\n\n## Puslapis 338\n\nDimitras, labiau už kitus nesitaikstantis su kito valdžia.\nJis atrėžė, jog jo tėvas Algirdas buvęs Lietuvos didy­\nsis kunigaikštis, jog pats esąs karaliaus Jogailos brolis,\no Vytautui — nieko neskolingas."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184692
-    - t-196440
+    - t-004
+    - t-005
+
 - id: c-178690
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -298,6 +256,7 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196441
+    - t-006
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

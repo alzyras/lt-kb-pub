@@ -51,9 +51,8 @@ Nenurodyta
 
 <a id="claim-t-186831"></a>
 - t-001
-  global_id: t-186831
   teiginys: "Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad rusai ir poloviečiai šiame susirėmime jodinėjo su strėlėmis; Šiame gabale strėlės minimos kaip atskira kovinė priemonė."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Jotvingiai: 0.83"
@@ -66,7 +65,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170015
-    - c-001
 - susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87984|J. Dlugošas Długosz]]: J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172874|J. Dlugošas]]: J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172877|J. Dlugošas]]: J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.
@@ -92,8 +90,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186831
+
 ## Citatos
 
 - id: c-170015
@@ -110,15 +107,11 @@ Nenurodyta
     Tuo laiku mirė kunigaikštienė Mindaugienė9, ir tas
     pradėjo jos gedėti. O jos sesuo buvo ištekėjusi už
     Daumanto, už Nalšios kunigaikščiol0.
-  citata_rodoma: |
-    O rytojaus metą prieš vokiečius išjojo
-    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
-    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
-    mis ietimis, ir vaikėsi po lauką, tarytum turnyre.
+  citata_rodoma: "O rytojaus metą prieš vokiečius išjojo \n[Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­\nsai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­\nmis ietimis, ir vaikėsi po lauką, tarytum turnyre."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186831
+    - t-001

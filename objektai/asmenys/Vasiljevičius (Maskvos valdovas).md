@@ -39,8 +39,7 @@ Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryt
 ## Teiginiai
 
 <a id="claim-t-186020"></a>
-- t-001
-  global_id: t-186020
+- t-002
   teiginys: "Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryti žalos Lietuvos valdoms."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -107,10 +106,12 @@ Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryt
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54937|Aleksandras Jogailaitis]]: Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82173|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
 - susijęs iš [[objektai/asmenys/Petras Białas.md#claim-t-87825|Petras Białas]]: 1494 m. balandžio 18 d. Petras Białas Maskvoje kaip Lietuvos pasiuntinys pasirašė amžinos taikos sutartį su caru.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti savo jėgas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-169380
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kitais metais jie palydėjo seno­
     vės Lietuvos kunigaikščių at-
@@ -130,14 +131,12 @@ Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryt
     jo je
     tų: vienus jėga užgrobė, kiti
     patys pasidavė.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
+
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-## Citatos
-
 - id: c-169381
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -166,7 +165,8 @@ Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186020
+    - t-002
+
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - Vasiljevičius (Maskvos valdovas) buvo valdovas [[objektai/vietos/Maskva]]

@@ -37,7 +37,6 @@ Originali yra nebaigta studija : « Jogaila, didysis Lietuvos kunigaikštis ir L
 
 <a id="claim-t-97253"></a>
 - t-001
-  global_id: t-97253
   teiginys: "Studija „Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius“ liko nebaigta ir buvo skelbta „Židinyje“ 1935–1936 m."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Originali yra nebaigta studija : « Jogaila, didysis Lietuvos kunigaikštis ir L
 
 <a id="claim-t-97254"></a>
 - t-002
-  global_id: t-97254
   teiginys: "Studija „Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius“ buvo originali, bet nebaigta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,5 +89,5 @@ Originali yra nebaigta studija : « Jogaila, didysis Lietuvos kunigaikštis ir L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97253
-    - t-97254
+    - t-001
+    - t-002

@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59177"></a>
-- t-001
-  global_id: t-59177
+- t-003
   teiginys: "Nepajėgę jėga paimti Karaliaučiaus pilies, prūsai pasistatė daug laivų brolių maisto tiekimo laivams naikinti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,10 +74,9 @@ Nenurodyta
     - c-167313
 
 <a id="claim-t-59178"></a>
-- t-002
-  global_id: t-59178
+- t-005
   teiginys: "Karaliaučiaus pilies gynėjai puolimo metu išardė ir sunaikino tiltą bei kuorus, kuriais naudojosi apgulėjai."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "dalyvavo_musyje -> Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -90,11 +88,11 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Kryžiuočių ordinas dalyvavo mūšyje Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai (0.62)"
   pagrindžia:
+    - c-59809
     - c-59813
 
 <a id="claim-t-59179"></a>
-- t-003
-  global_id: t-59179
+- t-004
   teiginys: "Per Karaliaučiaus apgultį broliai po kovos išardė ir sunaikino prūsų pastatytą tiltą per Prieglių bei jo kuorus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -110,8 +108,7 @@ Nenurodyta
     - c-59809
 
 <a id="claim-t-59180"></a>
-- t-004
-  global_id: t-59180
+- t-006
   teiginys: "Per sembų puolimą prie Karaliaučiaus vienas sembas žuvo nuo paimto arbaleto, todėl prūsai ėmė labai bijoti arbaletų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -126,10 +123,9 @@ Nenurodyta
   semantiniai_rysiai: "Sembai puolė Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai (0.72)"
   pagrindžia:
     - c-59814
-    - c-006
+
 <a id="claim-t-59181"></a>
-- t-005
-  global_id: t-59181
+- t-001
   teiginys: "Dusburgietis Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustį aprašė kaip Belialo sūnų grasinimą viešpaties tautai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -143,10 +139,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59811
-    - c-003
+
 <a id="claim-t-59182"></a>
-- t-006
-  global_id: t-59182
+- t-007
   teiginys: "Sembai netikėtai užpuolė prie Karaliaučiaus pilies įkurtą miestą, jį sugriovė, o dalį žmonių paėmė į nelaisvę arba išžudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -166,8 +161,7 @@ Nenurodyta
     - c-59812
 
 <a id="claim-t-59183"></a>
-- t-007
-  global_id: t-59183
+- t-002
   teiginys: "Prūsai apgulė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, kiekvieną apsupdami trimis stipriais kuorais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -184,9 +178,8 @@ Nenurodyta
 
 <a id="claim-t-183927"></a>
 - t-008
-  global_id: t-183927
   teiginys: "Apsuptieji, visiškai pritrūkę maisto, paliko pilį, slapta atvyko į Elbingą ir ten išlupo akis dvylikai prūsų įkaitų."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -201,10 +194,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167312
-    - c-007
+
 <a id="claim-t-196946"></a>
-- t-009
-  global_id: t-196946
+- t-010
   teiginys: "1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie pavakarę, jie atvyko į Karaliaučiaus pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -216,8 +208,7 @@ Nenurodyta
     - c-59810
 
 <a id="claim-t-196947"></a>
-- t-010
-  global_id: t-196947
+- t-011
   teiginys: "Dar apie tą patį bei apie nuostabų įvykį, kurio priežastimi buvęs arbaletas Vargu ar kas galėtų išsamiai apsakyti, kaip išradingai ir sumaniai sembai bei kiti prūsai puldinėjo Karaliaučiaus pilį, kokių aukų patyrė abi kariaujančios šalys nukautaisiais ar."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -244,8 +235,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59181
 - c-006
   santrauka: 'Per sembų puolimą prie Karaliaučiaus vienas sembas žuvo nuo paimto arbaleto, todėl prūsai ėmė labai bijoti arbaletų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -261,8 +250,6 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59180
 - c-007
   santrauka: 'Apsuptieji, visiškai pritrūkę maisto, paliko pilį, slapta atvyko į Elbingą ir ten išlupo akis dvylikai prūsų įkaitų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -281,8 +268,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-183927
+
 ## Citatos
 
 - id: c-59809
@@ -311,7 +297,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59179
+    - t-005
+    - t-004
+
 - id: c-59810
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -333,8 +321,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59183
-    - t-196946
+    - t-002
+    - t-010
+
 - id: c-59811
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -349,19 +338,15 @@ Nenurodyta
     Prūsijos žemės broliai bei tikintieji, įvairiopų negandų užgulti, suvokė artėjant galą
     ir, pagauti baimės, pravirko kruvinomis ašaromis, tačiau nestengė vienas kito paguosti,
     nes būgštavo, kad dievas ant jų labai užsirūstinęs.
-  citata_rodoma: |
-    95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą
-
-       Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir
-    piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos
-    tu globoji.
+  citata_rodoma: "95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą\n\n   Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir\npiktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos\ntu globoji."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59181
+    - t-001
+
 - id: c-59812
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -387,7 +372,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59182
+    - t-007
+
 - id: c-59813
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -403,21 +389,16 @@ Nenurodyta
     Vargu ar kas galėtų išsamiai apsakyti, kaip išradingai ir sumaniai sembai bei kiti prūsai
     puldinėjo Karaliaučiaus pilį, kokių aukų patyrė abi kariaujančios šalys nukautaisiais ar
     mirtinai sužeistaisiais.
-  citata_rodoma: |
-    Galop aukštybių dievas atėjo jiems  į pagalbą, o kad
-    šitaip buvo, neverta nė abejoti, nes žmonėms vargu ar būtų užtekę jėgų taip grumtis
-    su tokia daugybe priešų, kad broliai galėtų, juos išvaikę, iki pamatų išardyti ir sunaikinti
-    tiltą bei kuorus. Siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis
-      373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos
-    punkto, svarbą Ordinui.
+  citata_rodoma: "Galop aukštybių dievas atėjo jiems  į pagalbą, o kad\nšitaip buvo, neverta nė abejoti, nes žmonėms vargu ar būtų užtekę jėgų taip grumtis\nsu tokia daugybe priešų, kad broliai galėtų, juos išvaikę, iki pamatų išardyti ir sunaikinti\ntiltą bei kuorus. Siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis\n  373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos\npunkto, svarbą Ordinui."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59178
-    - t-196947
+    - t-005
+    - t-011
+
 - id: c-59814
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -433,20 +414,15 @@ Nenurodyta
     išsklaidė. Vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos
     ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir
     nukovė daugybę sembų.
-  citata_rodoma: |
-    Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,
-    kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas
-    sembas paėmė šį arbaletą  ir pasikabino ant kaklo. Kiti, apspitę  jį, didžiai stebėjosi,
-    nežinodami, kas tai yra, nes anksčiau tokių daiktų nebuvę matę; ilgai jį čiupinėję, galop
-    paspaudė ir atpalaidavo nuleistuką, o arbaleto templė nukirto jam kaklą, ir jis neilgai
-    trukus iškvėpė dvasią. Po šio įvykio prūsai labai bijojo arbaletų.
+  citata_rodoma: "Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,\nkad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas\nsembas paėmė šį arbaletą  ir pasikabino ant kaklo. Kiti, apspitę  jį, didžiai stebėjosi,\nnežinodami, kas tai yra, nes anksčiau tokių daiktų nebuvę matę; ilgai jį čiupinėję, galop\npaspaudė ir atpalaidavo nuleistuką, o arbaleto templė nukirto jam kaklą, ir jis neilgai\ntrukus iškvėpė dvasią. Po šio įvykio prūsai labai bijojo arbaletų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59180
+    - t-006
+
 - id: c-167312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -463,26 +439,15 @@ Nenurodyta
     Prūsijos žemės broliai bei tikintieji, įvairiopų negandų užgulti, suvokė artėjant galą
     ir, pagauti baimės, pravirko kruvinomis ašaromis, tačiau nestengė vienas kito paguosti,
     nes būgštavo, kad dievas ant jų labai užsirūstinęs.
-  citata_rodoma: |
-    Galop, visiškai pritrūkę maisto, paliko pilį ir slapta atvyko į Elbingo
-    miestą, kur 12 prūsų įkaitų, kuriuos su savimi buvo atsivedę, išlupo akis, o juos sugrąžino
-    jų tėvams.
-
-
-
-
-           95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą
-
-       Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir
-    piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos
-    tu globoji.
+  citata_rodoma: "Galop, visiškai pritrūkę maisto, paliko pilį ir slapta atvyko į Elbingo\nmiestą, kur 12 prūsų įkaitų, kuriuos su savimi buvo atsivedę, išlupo akis, o juos sugrąžino\njų tėvams.\n\n\n\n\n       95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą\n\n   Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir\npiktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos\ntu globoji."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183927
+    - t-008
+
 - id: c-167313
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -503,4 +468,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59177
+    - t-003

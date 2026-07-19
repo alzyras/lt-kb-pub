@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-34590"></a>
 - t-001
-  global_id: t-34590
   teiginys: "Lenkai suvažiavimus stengdavosi rengti arti Lietuvos sienos, nes tikėjo, kad reikalai kryps Vytauto norima linkme."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34590
+    - t-001

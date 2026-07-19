@@ -36,7 +36,6 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
 
 <a id="claim-t-193803"></a>
 - t-001
-  global_id: t-193803
   teiginys: "Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, Dubrovnos apylinkes, o atsakydami į tai lietuviai nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193803
+    - t-001

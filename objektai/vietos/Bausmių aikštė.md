@@ -31,7 +31,6 @@ Aikštė, kur bausti nusikaltėliai.
 
 <a id="claim-t-86171"></a>
 - t-001
-  global_id: t-86171
   teiginys: "Bausmių aikštėje buvo baudžiami nusikaltėliai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Aikštė, kur bausti nusikaltėliai.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86171
+    - t-001

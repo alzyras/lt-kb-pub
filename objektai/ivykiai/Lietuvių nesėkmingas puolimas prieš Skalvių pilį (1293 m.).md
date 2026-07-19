@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185743"></a>
 - t-001
-  global_id: t-185743
   teiginys: "1293 m. lietuviai pirmąjį puolimo smūgį nukreipė į Skalvių miestą ir pilį, tačiau nuo vartų buvo atstumti."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185743
+    - t-001

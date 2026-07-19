@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-194991"></a>
 - t-001
-  global_id: t-194991
   teiginys: "Vis daugiau duomenų atsiranda teigti, jog Gedimino dinastijos kilmės reikia ieškoti Aukštaičiuose."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ media_all_json: |-
 
 <a id="claim-t-194992"></a>
 - t-002
-  global_id: t-194992
   teiginys: "Ordino maršalo vadovaujama kariuomenė, pasidalinusi į tris grupes, (1377.II.) teriojo Aukštaičius."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194992
+    - t-002
+
 - id: c-177374
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -97,4 +96,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194991
+    - t-001

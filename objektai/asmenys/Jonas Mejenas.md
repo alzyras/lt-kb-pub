@@ -36,7 +36,6 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 
 <a id="claim-t-40223"></a>
 - t-001
-  global_id: t-40223
   teiginys: "Gen. mjr. Jono Mejeno divizija gynė Vilnių nuo rusų puolimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 
 <a id="claim-t-40224"></a>
 - t-002
-  global_id: t-40224
   teiginys: "Liepos ir rugpjūčio mėnesiais Vilniaus gynybai tiesiogiai vadovavo generolas majoras Jonas Mejenas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +98,8 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40223
+    - t-001
+
 - id: c-167132
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -134,6 +133,7 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40224
+    - t-002
+
 ## Ryšiai
 - Jonas Mejenas gynė [[objektai/vietos/Vilnius]]

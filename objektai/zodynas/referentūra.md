@@ -31,7 +31,6 @@ O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra įsteigt
 
 <a id="claim-t-193289"></a>
 - t-001
-  global_id: t-193289
   teiginys: "O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra įsteigta speciali referentūra."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra įsteigt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193289
+    - t-001

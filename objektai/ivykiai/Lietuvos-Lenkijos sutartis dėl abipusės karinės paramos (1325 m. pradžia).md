@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-59664"></a>
 - t-001
-  global_id: t-59664
   teiginys: "1325 m. pradžioje Lietuva ir Lenkija ankstesnio susitarimo pagrindu sudarė sutartį dėl abipusės karinės paramos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59664
+    - t-001

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-75207"></a>
 - t-001
-  global_id: t-75207
   teiginys: "1939 m. Kaune Lietuva antrą kartą laimėjo Europos krepšinio čempionatą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,9 +70,8 @@ Nenurodyta
   pagrindžia:
     - c-73078
 
-<a id="claim-t-75209"></a>
-- t-002
-  global_id: t-75209
+<a id="claim-t-75208"></a>
+- t-003
   teiginys: "1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,15 +101,15 @@ Nenurodyta
     Italijoje iškovojo Europos čempionato sidabro medalius. Krepšinis visam
     laikui tapo sportu Nr. 1, kaip tautinės pergalės simbolis, dvasios ir kūno
     lavinimo pergalė, puikus pavyzdys kitų sporto šakų atstovams.
-  citata_rodoma: |
-    Italijoje iškovojo Europos čempionato sidabro medalius. Krepšinis visam
+  citata_rodoma: "Italijoje iškovojo Europos čempionato sidabro medalius. Krepšinis visam"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75207
+    - t-001
+
 - id: c-73079
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -134,4 +132,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75209
+    - t-003

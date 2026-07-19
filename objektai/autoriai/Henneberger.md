@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-88024"></a>
 - t-001
-  global_id: t-88024
   teiginys: "Hennebergeris nurodytas tarp vėlesnių kronikininkų, perėmusių pasakojimą iš Simono Grunau kronikos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88024
+    - t-001

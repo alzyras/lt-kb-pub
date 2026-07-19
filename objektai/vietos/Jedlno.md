@@ -31,7 +31,6 @@ Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­ tams, nes juose pasak
 
 <a id="claim-t-36255"></a>
 - t-001
-  global_id: t-36255
   teiginys: "Jedlnos nutarimuose lenkai pasirinko Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios bei pritarimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,16 +63,11 @@ Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­ tams, nes juose pasak
     žinia kitos pusės, dabar lenkai išsirinko sau Jogailos įpėdinį be
     Vytauto ir lietuvių bajorų žinios ir pritarimo. Tuo patys lenkai
     sulaužė uniją.
-  citata_rodoma: |
-    Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­
-    tams, nes juose pasakyta, kad valdovus renka viena pusė su
-    žinia kitos pusės, dabar lenkai išsirinko sau Jogailos įpėdinį be
-    Vytauto ir lietuvių bajorų žinios ir pritarimo. Tuo patys lenkai
-    sulaužė uniją.
+  citata_rodoma: "Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­\ntams, nes juose pasakyta, kad valdovus renka viena pusė su\nžinia kitos pusės, dabar lenkai išsirinko sau Jogailos įpėdinį be\nVytauto ir lietuvių bajorų žinios ir pritarimo. Tuo patys lenkai\nsulaužė uniją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36255
+    - t-001

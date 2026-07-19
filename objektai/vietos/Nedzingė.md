@@ -31,7 +31,6 @@ DVIEJŲ KAPITONŲ PASIKALBĖJIMAS Po nesėkmingo lenkų mėginimo pralaužti lie
 
 <a id="claim-t-41968"></a>
 - t-001
-  global_id: t-41968
   teiginys: "Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lietuvių pozicijų prijojo lenkų parlamentaras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,6 +46,7 @@ DVIEJŲ KAPITONŲ PASIKALBĖJIMAS Po nesėkmingo lenkų mėginimo pralaužti lie
   pagrindžia:
     - c-45239
     - c-167180
+
 ## Citatos
 
 - id: c-45239
@@ -59,18 +59,15 @@ DVIEJŲ KAPITONŲ PASIKALBĖJIMAS Po nesėkmingo lenkų mėginimo pralaužti lie
     Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lie-
     tuvių pozicijų prijojo lenkų parlamentaras. Susitikimą aprašo viršila Antanas Šukys.
     „Rytą, apie dešimtą valandą, sargybinis pastebėjo atjojantį lenkų raitelį.
-  citata_rodoma: |
-    DVIEJŲ KAPITONŲ PASIKALBĖJIMAS
-
-    Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lie-
-    tuvių pozicijų prijojo lenkų parlamentaras. Susitikimą aprašo viršila Antanas Šukys.
+  citata_rodoma: "DVIEJŲ KAPITONŲ PASIKALBĖJIMAS\n\nPo nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lie-\ntuvių pozicijų prijojo lenkų parlamentaras. Susitikimą aprašo viršila Antanas Šukys."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41968
+    - t-001
+
 - id: c-167180
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -92,3 +89,5 @@ DVIEJŲ KAPITONŲ PASIKALBĖJIMAS Po nesėkmingo lenkų mėginimo pralaužti lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

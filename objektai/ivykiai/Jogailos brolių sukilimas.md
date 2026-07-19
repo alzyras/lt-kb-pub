@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-01626"></a>
 - t-001
-  global_id: t-01626
   teiginys: "Jogaila artinosi su kryžiuočiais, nes ieškojo paramos prieš vyresniuosius brolius, nepripažinusius jo valdžios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01626
+    - t-001

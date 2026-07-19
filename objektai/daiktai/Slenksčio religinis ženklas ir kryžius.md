@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-189702"></a>
 - t-001
-  global_id: t-189702
   teiginys: "Narbutas rašė, kad šis dievaitis buvo garbinamas virš slenksčio, o vaizduojamas galbūt medyje ar lentelėje įpjautu ženklu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,28 +72,19 @@ Nenurodyta
 
 <a id="claim-t-189703"></a>
 - t-002
-  global_id: t-189703
   teiginys: "Narbutas nurodė, kad Lietuvos kaimiečiai statydami namą virš durų paprastai įpjaudavo kryžių arba nutapydavo jį raudonais dažais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Slenksčio religinis ženklas ir kryžius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slenksčio religinis ženklas ir kryžius\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172586
-    - c-002
+    - c-179083
+
 <a id="claim-t-197244"></a>
 - t-003
-  global_id: t-197244
   teiginys: "Padavimai išsaugojo paprastų žmonių atminimą, kad lie tuvių garduose, arba pilyse, vadintose Tweras, būta varpų ka riams prikelti, ženklui sargybiniams paduoti, taip pat pavojui paskelbti."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -120,8 +110,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189703
+
 ## Citatos
 
 - id: c-172585
@@ -145,7 +134,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189702
+    - t-001
+
 - id: c-172586
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -160,19 +150,13 @@ Nenurodyta
     tokio varpo gavęs pavadinimą.
     Kronikininkai taip pat mano, kad dievui Varpui būdavo
     aukojami gaidžiai, kaip budrumo simboliai.
-  citata_rodoma: |
-    Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­
-    se“. Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­
-    kala išorėje, virš pirkios arba svirno durų. Statydami namą,
-    paprastai toje vietoje įpjauna kryžių arba jį nutapo raudonais
-    dažais.
+  citata_rodoma: "Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­\nse“. Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­\nkala išorėje, virš pirkios arba svirno durų. Statydami namą,\npaprastai toje vietoje įpjauna kryžių arba jį nutapo raudonais\ndažais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189703
 - id: c-179083
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -195,4 +179,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197244
+    - t-002
+    - t-003

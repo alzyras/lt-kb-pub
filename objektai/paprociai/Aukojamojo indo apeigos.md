@@ -43,25 +43,11 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189912"></a>
-- t-001
-  global_id: t-189912
-  teiginys: 'Narbutas aukojamojo indo apeigas priskiria paprastosioms aukojimo maldoms arba žemesniosios kategorijos aukoms, kurias atnašaudavo viršaitis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Fragmentiškas įvadinis sakinys perrašytas kaip enciklopedinis teiginys apie apeigų vietą aukojimo sistemoje. Nepridėta vėlesnių puoduko apeigos veiksmų.'
-  pagrindžia:
-    - c-172795
-
-## Citatos
-
-- id: c-172795
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas aukojamojo indo apeigas priskiria paprastosioms aukojimo maldoms arba žemesniosios kategorijos aukoms, kurias atnašaudavo viršaitis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Prie paprastųjų aukojimo maldų arba prie žemesniosios
     kategorijos aukų, atnašaujamų žemiausiojo rango aukotojo,
@@ -85,10 +71,8 @@ Nenurodyta
     kandęs duona, vėl lygiai taip pat išlenkdavo palaimingąjį indą
     ir sviesdavo per galvą. Tai kartodavo tiek kartų, kiek buvo die­
     vų, kuriems reikėjo duoti auką.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189912
+  statusas: verified

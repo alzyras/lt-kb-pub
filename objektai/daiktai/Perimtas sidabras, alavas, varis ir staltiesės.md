@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-200705"></a>
 - t-001
-  global_id: t-200705
   teiginys: "Po Juozapo Sapiegos mirties Steponas Olendskis perėmė kanauninko lobyne likusį turtą ir išsivežė sidabrą, alavą, varį bei staltieses."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,5 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200705
+    - t-001

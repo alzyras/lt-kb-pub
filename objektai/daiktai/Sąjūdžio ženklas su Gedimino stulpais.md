@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-75347"></a>
 - t-001
-  global_id: t-75347
   teiginys: "Sąjūdžio ženklą su Gedimino stulpais sukūrė dailininkai Giedrius Reimeris ir Algimantas Nasvytis."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-75348"></a>
 - t-002
-  global_id: t-75348
   teiginys: "Sąjūdžio ženklą su Gedimino stulpais kūrė Giedrius Reimeris ir Algimantas Nasvytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,21 +113,15 @@ Nenurodyta
     jūdžiai, didžiulę įtaką darė Rusijos spauda. Pradiniame etape Sąjūdis iš es-
     mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
     pais siejo tik laisvos Lietuvos siekis.
-  citata_rodoma: |
-    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
-    235
-    Sąjūdžio ženklas su Gedimino stulpais
-    (dail. Giedrius Reimeris, Algimantas
-    Nasvytis)
-    Laisvėjant spaudai, klubų diskusijose didėjo susidomėjimas istorija, ypač
-    1939–1940 m.
+  citata_rodoma: "6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n235\nSąjūdžio ženklas su Gedimino stulpais\n(dail. Giedrius Reimeris, Algimantas\nNasvytis)\nLaisvėjant spaudai, klubų diskusijose didėjo susidomėjimas istorija, ypač\n1939–1940 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75347
+    - t-001
+
 - id: c-73152
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -147,22 +139,11 @@ Nenurodyta
     Laisvėjant spaudai, klubų diskusijose didėjo susidomėjimas istorija, ypač
     1939–1940 m. įvykiais Lietuvoje, pagyvėjo gamtos ir paminklų apsaugos są-
     jūdžiai, didžiulę įtaką darė Rusijos spauda.
-  citata_rodoma: |
-    Čekoslo-
-    vakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija,
-    ir Lenkijos „Solidarumo“ judėjimo, kur iniciatyva priklausė darbininkams.
-
-    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
-    235
-    Sąjūdžio ženklas su Gedimino stulpais
-    (dail. Giedrius Reimeris, Algimantas
-    Nasvytis)
-    Laisvėjant spaudai, klubų diskusijose didėjo susidomėjimas istorija, ypač
-    1939–1940 m.
+  citata_rodoma: "Čekoslo-\nvakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija, \nir Lenkijos „Solidarumo“ judėjimo, kur iniciatyva priklausė darbininkams.\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n235\nSąjūdžio ženklas su Gedimino stulpais \n(dail. Giedrius Reimeris, Algimantas \nNasvytis)\nLaisvėjant spaudai, klubų diskusijose didėjo susidomėjimas istorija, ypač \n1939–1940 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75348
+    - t-002

@@ -31,7 +31,6 @@ Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi v
 
 <a id="claim-t-191355"></a>
 - t-001
-  global_id: t-191355
   teiginys: "Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi veidą, plaukus ir kūną raudona arba ruda spalva."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi v
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174237
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi veidą, plaukus ir kūną raudona arba ruda spalva.'
@@ -72,8 +71,7 @@ Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191355
+
 ## Citatos
 
 - id: c-174237
@@ -90,23 +88,11 @@ Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi v
     gilijus apie tokį kumelės pieno vartojimą rašė: „Karin­
     gasis gelonas bėga į Rodopų kalnus arba getų dykumas
     ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4.
-  citata_rodoma: |
-    81
-
-    ## Puslapis 79
-
-    63
-    Senovėje gelonai buvo laikomi geriausiais lankinin­
-    kais1. Jie turėjo paprotį išsidažyti kūną2; apie tai pasa­
-    koja Sidonijus Apolinaras*. Jis rašo, kad gelonai, kaip
-    ir skitai, t. y. budinai, turėjo paprotį kartais išsidažyti
-    veidą, plaukus, kūną raudona arba ruda spalva, o tam
-    jie naudojo kažkokį bulvinį augalą, kurio savybes jie ge­
-    rai žinojo.
+  citata_rodoma: "81\n\n## Puslapis 79\n\n63\nSenovėje gelonai buvo laikomi geriausiais lankinin­\nkais1. Jie turėjo paprotį išsidažyti kūną2; apie tai pasa­\nkoja Sidonijus Apolinaras*. Jis rašo, kad gelonai, kaip\nir skitai, t. y. budinai, turėjo paprotį kartais išsidažyti\nveidą, plaukus, kūną raudona arba ruda spalva, o tam\njie naudojo kažkokį bulvinį augalą, kurio savybes jie ge­\nrai žinojo."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191355
+    - t-001

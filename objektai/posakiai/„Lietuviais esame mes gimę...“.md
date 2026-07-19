@@ -37,7 +37,6 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
 
 <a id="claim-t-75614"></a>
 - t-001
-  global_id: t-75614
   teiginys: "Jurgis Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną su eilute „Lietuviais esame mes gimę“."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
 
 <a id="claim-t-75615"></a>
 - t-002
-  global_id: t-75615
   teiginys: "Georgas Zauerveinas parašė Mažosios Lietuvos himną su eilute „Lietuviais esame mes gimę“, ir jis greitai išpopuliarėjo Didžiojoje Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,18 +93,12 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
     garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-
     rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
     tvirtai tikėdami, kad tikrai nebepražus.
-  citata_rodoma: |
-    Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už
-    lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame
-    buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą
-    garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-
-    rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
-    tvirtai tikėdami, kad tikrai nebepražus.
+  citata_rodoma: "Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už\nlietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame\nbuvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą\ngarbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-\nrėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau\ntvirtai tikėdami, kad tikrai nebepražus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75614
-    - t-75615
+    - t-001
+    - t-002

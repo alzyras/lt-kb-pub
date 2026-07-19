@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-91916"></a>
 - t-001
-  global_id: t-91916
   teiginys: "1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi puslapio išnašos triukšmo."
   pagrindžia:
     - c-87558
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.'
@@ -92,8 +91,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91916
+
 ## Citatos
 
 - id: c-87558
@@ -114,21 +112,11 @@ Nenurodyta
     pasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai
     prašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių
     rankų.
-  citata_rodoma: |
-    Apie Notangos žemės nuniokojimą ir 250 krikščionių mirtį 1299 metais
-
-      Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas
-    apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius
-    ir keletą dienų jos ištykojo, tačiau, kai jam įkyrėjo laukti, paleido savo žmones. Kitą
-      552 D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen,
-    dab. Adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133).
-
-    dieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir
-    plėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių.
+  citata_rodoma: "Apie Notangos žemės nuniokojimą ir 250 krikščionių mirtį 1299 metais\n\n  Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas\napie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius\nir keletą dienų jos ištykojo, tačiau, kai jam įkyrėjo laukti, paleido savo žmones. Kitą\n  552 D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen,\ndab. Adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133).\n\ndieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir\nplėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91916
+    - t-001

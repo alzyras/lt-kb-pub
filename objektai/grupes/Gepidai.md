@@ -32,7 +32,6 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
 
 <a id="claim-t-185459"></a>
 - t-001
-  global_id: t-185459
   teiginys: "Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti langobardų į žygį į Italiją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
 
 <a id="claim-t-192392"></a>
 - t-002
-  global_id: t-192392
   teiginys: "Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175186
-    - c-002
 - susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-186291|Prokopijus]]: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.
 - susijęs iš [[objektai/ivykiai/Teodoriko Italijos žygis su ostrogotais ir kolonistais.md#claim-t-191053|Teodoriko Italijos žygis su ostrogotais ir kolonistais]]: Narbuto pasakojime Teodoriko Italijos žygį, pradėtą viduržiemį, lėtino dengti vežimai, įranga, kalnų keliai, šalčiai, sniegas ir gepidų bei bulgarų pasipriešinimas.
 - susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
@@ -105,8 +102,7 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192392
+
 ## Citatos
 
 - id: c-168820
@@ -139,7 +135,8 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185459
+    - t-001
+
 - id: c-175186
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -155,24 +152,11 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
     laikoma Italijos sostine. Odoakro kariuomenės apgultas
     miestas netrukus buvo užimtas, apiplėštas ir sunaikin­
     tas; Orestas žuvo.
-  citata_rodoma: |
-    1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro
-    šios temos pagrindą.
-    303
-
-    ## Puslapis 314
-
-    317
-    Karingoms, nesvetingų italų pavydo ir Oresto griež­
-    tumo išgąsdintoms gentims nieko daugiau nereikėjo; 476
-    metų pradžioje visi alanai, turcilingai, gepidai, skiriai,
-    herulai paskelbė Odoakrą savo vadu jr karaliumi. Sis
-    naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
-    mas gausius būrius.
+  citata_rodoma: "1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro\nšios temos pagrindą.\n303\n\n## Puslapis 314\n\n317\nKaringoms, nesvetingų italų pavydo ir Oresto griež­\ntumo išgąsdintoms gentims nieko daugiau nereikėjo; 476\nmetų pradžioje visi alanai, turcilingai, gepidai, skiriai,\nherulai paskelbė Odoakrą savo vadu jr karaliumi. Sis\nnaujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­\nmas gausius būrius."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192392
+    - t-002

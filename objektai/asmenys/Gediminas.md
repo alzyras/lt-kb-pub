@@ -47,11 +47,10 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
 
 ## Teiginiai
 
-<a id="claim-t-05167"></a>
+<a id="claim-t-05165"></a>
 - t-001
-  global_id: t-05167
   teiginys: "Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Liublinas"
   temporaliniai_duomenys: "įvykio data: 1386 m."
@@ -59,12 +58,14 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-160352
+    - c-179642
+    - c-160343
+    - c-179618
 
-<a id="claim-t-05168"></a>
+<a id="claim-t-05166"></a>
 - t-002
-  global_id: t-05168
   teiginys: "1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata."
   susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Volga"
@@ -74,12 +75,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-160363
+    - c-179566
 
 <a id="claim-t-05169"></a>
-- t-003
-  global_id: t-05169
+- t-010
   teiginys: "Matydamas užtruksiančią kovą su kryžiuočiais, Gediminas susirado talkininką Lenkijos Vladislovo Lokietkos asmenyje."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -92,31 +93,24 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   semantiniai_rysiai: "Gediminas buvo priešas Kryžiuočių ordinas (0.86)"
   pagrindžia:
     - c-160395
+    - c-179612
 
 <a id="claim-t-05170"></a>
-- t-004
-  global_id: t-05170
+- t-011
   teiginys: "Gediminas iki gyvenimo galo liko pagonis, nieko dėl religinių priežasčių nepersekiojo ir Naugarduke palaikė atskirą Lietuvos stačiatikių arkivyskupiją."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=116"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1386 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-160352
+    - c-160376
+    - c-179634
 
 <a id="claim-t-05172"></a>
-- t-005
-  global_id: t-05172
+- t-013
   teiginys: "Kryžiuočiai Gediminą vadino Aukštaičių karaliumi."
-  atnaujinta: "2026-05-31 14:15"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -129,11 +123,28 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindžia:
     - c-160339
 
+<a id="claim-t-05173"></a>
+- t-014
+  teiginys: "Gediminas buvo apibūdintas ne tik kaip karys, bet ir kaip valstybininkas, veikęs diplomatija."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> diplomatija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "diplomatija: mention_match, thing, gap=81"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"diplomatija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-160345
+    - c-179594
+    - c-179617
+
 <a id="claim-t-05174"></a>
-- t-006
-  global_id: t-05174
+- t-015
   teiginys: "Gediminas išgarsėjo kaip sėkmingas rytinių rusų žemių jungėjas prie Lietuvos."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -148,12 +159,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai atitinka citatos turinį."
   pagrindžia:
     - c-160406
+    - c-179553
 
 <a id="claim-t-05175"></a>
-- t-007
-  global_id: t-05175
+- t-016
   teiginys: "Gediminas jungė kitų baltų žemes į savo valstybę, paimdamas ir dalį Jotvingos."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -165,12 +176,14 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-160343
+    - c-179618
+    - c-160352
+    - c-179642
 
 <a id="claim-t-05176"></a>
-- t-008
-  global_id: t-05176
+- t-017
   teiginys: "Anų laikų akimis Gedimino religinis pakantrumas buvo nuostabus."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aldona Gediminaitė: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -184,12 +197,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-160405
+    - c-179558
 
 <a id="claim-t-10675"></a>
-- t-009
-  global_id: t-10675
+- t-094
   teiginys: "Gediminas sudarė sąjungą su Lenkija ir plėtė valstybę gudria politika bei dinastinėmis vedybomis."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -202,12 +215,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   semantiniai_rysiai: "Gediminas buvo priešas Kryžiuočių ordinas (0.86)"
   pagrindžia:
     - c-00143
+    - c-179545
 
 <a id="claim-t-10677"></a>
-- t-010
-  global_id: t-10677
+- t-095
   teiginys: "1323 m. Gediminas laiškais kvietė į Lietuvą amatininkus, pirklius, žemdirbius ir riterius."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -221,12 +234,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-00145
+    - c-179609
 
 <a id="claim-t-10678"></a>
-- t-011
-  global_id: t-10678
+- t-096
   teiginys: "Gedimino laikais Vilnius tapo nuolatine Lietuvos sostine."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -242,10 +255,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - c-00146
 
 <a id="claim-t-176322"></a>
-- t-012
-  global_id: t-176322
+- t-056
   teiginys: "Gediminas, titulavęsis Rex Lethowye, laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Lietuva: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -258,22 +270,22 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   semantiniai_rysiai: "Gediminas keliavo į Lietuva (0.62)"
   pagrindžia:
     - c-160350
+    - c-179611
 
 <a id="claim-t-176323"></a>
-- t-013
-  global_id: t-176323
+- t-038
   teiginys: "Balińskis teigė, kad Gediminas neturėjo minties priimti krikščioniškojo tikėjimo."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-160408
+    - c-179561
 
 <a id="claim-t-176324"></a>
-- t-014
-  global_id: t-176324
+- t-040
   teiginys: "Gediminas per pasiuntinius esą garantavo, kad jo valia nebuvo siunčiami jokie laiškai miestams, šalims ar popiežiui."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -285,12 +297,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-160354
+    - c-179576
 
 <a id="claim-t-176325"></a>
-- t-015
-  global_id: t-176325
+- t-018
   teiginys: "Balińskis Gediminą apibūdino kaip darnesnio ir pajėgesnio feodalizmo kūrėją bei miestų Lietuvoje įkūrėją."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -302,12 +314,32 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-160377
+    - c-160413
+    - c-179577
+
+<a id="claim-t-176326"></a>
+- t-024
+  teiginys: "Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Gedimino žūtis aprašoma mūšyje su kryžiuočiais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Gediminas kariavo prieš Kryžiuočių ordinas (0.90); Gediminas mirė Bajerburgas (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1337 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-160359
 
 <a id="claim-t-176327"></a>
-- t-016
-  global_id: t-176327
+- t-053
   teiginys: "Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu ir rodo nuoseklią Lietuvos europėjimo programą."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -320,12 +352,38 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-160336
+    - c-179548
+
+<a id="claim-t-176328"></a>
+- t-045
+  teiginys: "Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Bajerburgas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Bajerburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Gediminą žuvus prie Bajerburgo pilies."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Gediminas mirė Bajerburgas (0.82); Gediminas buvo palaidotas Gedimino kalnas (0.65)"
+  pagrindžia:
+    - c-160342
+    - c-160407
+    - c-179564
+    - c-179571
+    - c-179573
+    - c-179625
+    - c-160347
+    - c-160412
+    - c-179575
+    - c-179629
 
 <a id="claim-t-176329"></a>
-- t-017
-  global_id: t-176329
+- t-003
   teiginys: "Pasak Strijkovskio ir Kojelavičiaus, Gediminas po sapno pastatydino Aukštutinę mūro pilį ir medinę pilį, pavadintą Vilniumi."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Aukštutinė pilis: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -338,12 +396,31 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   semantiniai_rysiai: "Gediminas pastatė Aukštutinė pilis (0.92)"
   pagrindžia:
     - c-160344
+    - c-179619
+    - c-160396
+    - c-179552
+
+<a id="claim-t-176330"></a>
+- t-050
+  teiginys: "Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų."
+  atnaujinta: "2026-07-19 16:46"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-160370
+    - c-179583
 
 <a id="claim-t-176331"></a>
-- t-018
-  global_id: t-176331
+- t-055
   teiginys: "Valdant Gediminui pagoniška Lietuvos visuomenė ir jos ūkinė, socialinė, politinė bei dvasinė struktūra įgijo brandžiausią pavidalą."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Lietuva: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -359,32 +436,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, tiesiogiai paremtas citata."
   pagrindžia:
     - c-160401
-
-<a id="claim-t-176332"></a>
-- t-020
-  global_id: t-176332
-  teiginys: "Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo, dar vadinto Vanka."
-  atnaujinta: "2026-07-12 22:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Plockas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Plockas: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Plockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1320 m.; įvykio data: apie 1320 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pašalinta boilerplate įžanga, faktas tiesiogiai remiasi citata."
-  pagrindžia:
-    - c-56145
+    - c-179616
 
 <a id="claim-t-176333"></a>
-- t-022
-  global_id: t-176333
+- t-084
   teiginys: "Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sajungininkas_su -> Vladislovas Lokietka: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -397,12 +454,14 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   semantiniai_rysiai: "Gediminas buvo sąjungininkas su Vladislovas Lokietka (0.94)"
   pagrindžia:
     - c-160387
+    - c-160403
+    - c-179557
+    - c-179604
 
 <a id="claim-t-176334"></a>
-- t-023
-  global_id: t-176334
+- t-062
   teiginys: "1323 m. spalio 2 d. Vilniuje pasirašyta sutartis yra pirmas autentiškas paliudijimas, kad Vilnius jau buvo Gedimino sostinė."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -416,13 +475,15 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Reikia tiksliau perteikti citatos akcentą apie pirmą autentišką paliudijimą."
   pagrindžia:
+    - c-160375
     - c-160396
+    - c-179552
+    - c-179559
 
 <a id="claim-t-176335"></a>
-- t-024
-  global_id: t-176335
+- t-082
   teiginys: "1324 m. Gedimino Lietuva surengė atsakomuosius smūgius prieš Kristmemelio pilį, Rezeknės apylinkes Livonijoje ir Mazoviją."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kristmemelis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -436,13 +497,13 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pirminis teiginys nutrūkęs, citata pagrindžia užbaigtą faktinį sakinį."
   pagrindžia:
+    - c-56144
     - c-160390
 
 <a id="claim-t-176336"></a>
-- t-025
-  global_id: t-176336
+- t-088
   teiginys: "Popiežiaus legatai išsiuntė pasiuntinybę pas Gediminą ištirti, ar lietuvių karalius su savo žmonėmis nori priimti krikštą."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -454,12 +515,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-160388
+    - c-179547
 
 <a id="claim-t-176337"></a>
-- t-026
-  global_id: t-176337
+- t-049
   teiginys: "Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Viena: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -471,12 +532,14 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-160416
+    - c-179599
     - c-166925
+    - c-179601
+
 <a id="claim-t-176339"></a>
-- t-027
-  global_id: t-176339
+- t-020
   teiginys: "1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo Gedimino sostinė."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -490,12 +553,50 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-160396
+    - c-179552
+
+<a id="claim-t-176340"></a>
+- t-042
+  teiginys: "Balińskis darė išvadą, kad Gedimino vardu naudotas antspaudas nebuvo tikras ir buvo suklastotas."
+  atnaujinta: "2026-07-19 17:26"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160409
+    - c-179586
+
+<a id="claim-t-176341"></a>
+- t-097
+  teiginys: "Balińskio nuomone, Rygos arkivyskupas Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas apšmeižti Kryžiuočių ordiną."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160342
+    - c-179571
+    - c-179625
+    - c-160356
+    - c-179621
+    - c-179636
 
 <a id="claim-t-176342"></a>
-- t-028
-  global_id: t-176342
+- t-048
   teiginys: "Gediminas valdė 1316–1341 m. ir davė vardą Gediminaičių dinastijai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Lietuva: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -511,12 +612,67 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo ne sakinys, o chronologijos fragmentas."
   pagrindžia:
     - c-160383
+    - c-179578
+
+<a id="claim-t-176343"></a>
+- t-065
+  teiginys: "Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160359
+    - c-160375
+    - c-179559
+
+<a id="claim-t-176344"></a>
+- t-036
+  teiginys: "Michałas Balińskis rašė, kad Rygos arkivyskupas slapta parašė ir Gedimino vardu pasiuntė laiškus popiežiui, pajūrio miestams ir vienuoliams."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160362
+    - c-160419
+    - c-179565
+    - c-179598
+
+<a id="claim-t-176345"></a>
+- t-034
+  teiginys: "Gediminas popiežiui pareiškė esąs pasirengęs priimti krikščioniškąjį tikėjimą, jei neturės būti dėkingas Ordinui."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=105"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160375
+    - c-179559
+    - c-160362
 
 <a id="claim-t-176346"></a>
-- t-029
-  global_id: t-176346
+- t-046
   teiginys: "Gediminas, matydamas kryžiuočius kuriantis priešais jo Veliuonos pilį, nusprendė juos iš ten išvyti."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyne -> Veliuona: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -529,12 +685,39 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   semantiniai_rysiai: "Gediminas gynė Veliuona (0.78); Gediminas kariavo prieš Kryžiuočių ordinas (0.78)"
   pagrindžia:
     - c-160374
+    - c-179572
+    - c-160342
+    - c-179571
+    - c-179625
+
+<a id="claim-t-176347"></a>
+- t-043
+  teiginys: "1323 ir 1324 m. Gediminas su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Mazovija: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Gedimino kariaunos įsiveržimą į Mazoviją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Gediminas surengė žygį į Mazovija (0.92); Gediminas surengė žygį į Dobrynė (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-160379
+    - c-179603
+    - c-179628
+    - c-160408
+    - c-179561
 
 <a id="claim-t-176348"></a>
-- t-030
-  global_id: t-176348
+- t-086
   teiginys: "Dusburgiečio duomenys apie Gedimino krikštą laikomi tendencingai nukreiptais prieš Lietuvą ir pateiktais Ordino interesų dvasia."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -546,12 +729,32 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56146
+    - c-179582
+
+<a id="claim-t-176351"></a>
+- t-019
+  teiginys: "Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Vilnius: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sieja Gediminą su statydinimu prie Vilniaus pilies, nors pats objektas yra platesnis vietos kandidatas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Gediminas pastatė Vilnius (0.72)"
+  pagrindžia:
+    - c-160340
+    - c-160347
+    - c-179575
+    - c-179613
 
 <a id="claim-t-176352"></a>
-- t-031
-  global_id: t-176352
+- t-004
   teiginys: "Matydamas užsitęsiančią kovą su kryžiuočiais, Gediminas talkininku pasirinko Lenkijos valdovą Vladislovą Lokietką."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -564,12 +767,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   semantiniai_rysiai: "Gediminas kariavo prieš Kryžiuočių ordinas (0.90)"
   pagrindžia:
     - c-160369
+    - c-179610
 
 <a id="claim-t-176353"></a>
-- t-032
-  global_id: t-176353
+- t-072
   teiginys: "Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse prie Nemuno."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -581,12 +784,14 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-160360
+    - c-160344
+    - c-160359
+    - c-179619
 
 <a id="claim-t-176354"></a>
-- t-033
-  global_id: t-176354
+- t-074
   teiginys: "Gediminas, siekdamas išvyti kryžiuočius iš Bajerburgo, surinko kariuomenę ir 1337 m. birželio 15 d. sustojo ties pilimi."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Bajerburgas: 0.83"
   ryšio_patikimumo_lygis: "aukstas"
@@ -602,12 +807,31 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir suformuotas vientisas citata pagrįstas sakinys."
   pagrindžia:
     - c-160374
+    - c-179572
+    - c-160360
+
+<a id="claim-t-176355"></a>
+- t-037
+  teiginys: "Balińskis teigė, kad laiškai popiežiui, ordinams ir Vokietijos miestams buvo parašyti ne Gedimino žinia ar valia."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160342
+    - c-179571
+    - c-179625
 
 <a id="claim-t-176356"></a>
-- t-034
-  global_id: t-176356
+- t-070
   teiginys: "Gediminas per pasiuntinius garantavo, kad jo valia laiškai miestams, šalims ar popiežiui nebuvo siuntinėjami."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -619,12 +843,14 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-160354
+    - c-160398
+    - c-179568
+    - c-179576
 
 <a id="claim-t-176357"></a>
-- t-038
-  global_id: t-176357
+- t-059
   teiginys: "1316 m. pradėjęs valdyti Lietuvą Gediminas turėjo atlaikyti suintensyvėjusį kryžiuočių puolimą."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Lietuva: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -640,12 +866,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-41920
+    - c-179593
 
 <a id="claim-t-176359"></a>
-- t-040
-  global_id: t-176359
+- t-031
   teiginys: "Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Naugardukas: 0.75"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -658,12 +884,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   semantiniai_rysiai: "Gediminas pastatė Naugardukas (0.75)"
   pagrindžia:
     - c-160341
+    - c-179592
 
 <a id="claim-t-176360"></a>
-- t-041
-  global_id: t-176360
+- t-005
   teiginys: "Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Stačiatikiai: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -679,12 +905,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir paremtas citata."
   pagrindžia:
     - c-160376
+    - c-179634
 
 <a id="claim-t-176361"></a>
-- t-042
-  global_id: t-176361
+- t-078
   teiginys: "Šv. Kryžiaus ir dominikonų bažnyčių griuvėsiai Vilniuje buvo laikomi Gedimino palankumo krikščionybei atminimu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -696,13 +922,34 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   semantiniai_rysiai: "Gediminas buvo valdovas Lietuva (0.90)"
   pagrindžia:
+    - c-160375
     - c-160411
+    - c-179559
+    - c-179567
+
+<a id="claim-t-176362"></a>
+- t-068
+  teiginys: "Į popiežiaus rūmus atvykusi misija pranešė apie Gedimino ryžtą pereiti į naują tikėjimą."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160346
+    - c-160419
+    - c-179565
+    - c-179598
 
 <a id="claim-t-176363"></a>
-- t-043
-  global_id: t-176363
+- t-067
   teiginys: "Gediminas pranciškonams rašė pasiuntęs laišką popiežiui Jonui ir laukiantis jo pasiuntinių."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -714,12 +961,32 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-160341
+    - c-160414
+    - c-179590
+    - c-179592
+
+<a id="claim-t-176364"></a>
+- t-047
+  teiginys: "Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę."
+  atnaujinta: "2026-07-19 16:46"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Bajerburgas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Bajerburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tvirtovė kontekste yra Bajerburgas, kurio vartai ką tik paminėti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Gediminas puolė Bajerburgas (0.84); Gediminas apgulė Bajerburgas (0.82)"
+  pagrindžia:
+    - c-160335
+    - c-179638
 
 <a id="claim-t-176365"></a>
-- t-044
-  global_id: t-176365
+- t-081
   teiginys: "Gedimino laiškai Liubekui, Bremenui, Kelnui, kitiems Europos miestams ir vienuolių ordinams turėjo platų tarptautinį atgarsį."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -734,12 +1001,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Gedimino laiškų poveikį."
   pagrindžia:
     - c-56143
+    - c-179624
 
 <a id="claim-t-176366"></a>
-- t-045
-  global_id: t-176366
+- t-051
   teiginys: "Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.)."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -754,12 +1021,38 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Gediminą ir dinastijos vardą."
   pagrindžia:
     - c-160337
+    - c-179627
+    - c-160401
+    - c-179616
+
+<a id="claim-t-176367"></a>
+- t-069
+  teiginys: "Michałas Balińskis rašė, kad Gedimino vardu laiškus popiežiui, pajūrio miestams ir vienuoliams slapta parašė Rygos arkivyskupas."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160355
+    - c-160362
+    - c-160396
+    - c-179552
+    - c-179579
+    - c-179602
+    - c-160419
+    - c-179565
+    - c-179598
 
 <a id="claim-t-176368"></a>
-- t-046
-  global_id: t-176368
+- t-085
   teiginys: "Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų pakirtęs Ordino egzistavimo pagrindą."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Lietuva: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -772,12 +1065,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   semantiniai_rysiai: "Gediminas valdė Lietuva (0.74)"
   pagrindžia:
     - c-160357
+    - c-179626
 
 <a id="claim-t-176370"></a>
-- t-047
-  global_id: t-176370
+- t-025
   teiginys: "Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui, siedami jį su medžiokle Šventaragio slėnyje ir geležinio vilko sapnu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Aukštutinė pilis: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -790,12 +1083,35 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   semantiniai_rysiai: "Gediminas pastatė Aukštutinė pilis (0.92)"
   pagrindžia:
     - c-160344
+    - c-160396
+    - c-179552
+    - c-179619
+
+<a id="claim-t-176371"></a>
+- t-035
+  teiginys: "Gedimino misija popiežiui žodžiu pranešė apie jo ryžtą pereiti į naują tikėjimą ir prašė siųsti tikėjimo mokytojų."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1323 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-160419
+    - c-179565
+    - c-179598
+    - c-160346
 
 <a id="claim-t-176372"></a>
-- t-048
-  global_id: t-176372
+- t-044
   teiginys: "Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -808,12 +1124,27 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-06-13T14:21:42Z"
   pagrindžia:
     - c-160360
+    - c-160374
+    - c-179572
+    - c-160344
+    - c-160347
+    - c-179575
+    - c-179619
+
+<a id="claim-t-176373"></a>
+- t-073
+  teiginys: "Prie Veliuonos esantis Gedimino kalno pilkapis laikytas tikėtina Gedimino kapaviete."
+  atnaujinta: "2026-07-19 17:26"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160347
+    - c-179575
 
 <a id="claim-t-176374"></a>
-- t-049
-  global_id: t-176374
+- t-030
   teiginys: "Gediminas pranciškonams rašė pasiuntęs laišką popiežiui Jonui ir laukiąs jo pasiuntinių atvykimo."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -825,12 +1156,13 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-160361
+    - c-160396
+    - c-179552
 
 <a id="claim-t-176375"></a>
-- t-050
-  global_id: t-176375
+- t-089
   teiginys: "1326 m. Gediminas, Lokietkos prašymu, pasiuntė Lenkijos karaliui 1200 raitelių iš savo krašto."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -846,12 +1178,38 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-160378
+    - c-179600
+
+<a id="claim-t-176376"></a>
+- t-063
+  teiginys: "1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Lokietka: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lokietka: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai mini Gedimino sutartį su Lokietka."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Gediminas sudarė sutartį su Lokietka (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1325 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas ir pataisytas pagal citatoje nurodytą įvykį."
+  pagrindžia:
+    - c-160355
+    - c-179579
+    - c-179602
+    - c-160338
+    - c-160396
+    - c-179546
+    - c-179552
 
 <a id="claim-t-176377"></a>
-- t-052
-  global_id: t-176377
+- t-076
   teiginys: "Olivos metraščiai teigė, kad Gediminas žuvo nuo Marijano paleisto šūvio iš bombardos."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bombardos: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -863,12 +1221,71 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-160358
+    - c-179608
+
+<a id="claim-t-176378"></a>
+- t-064
+  teiginys: "Gedimino valdymo metu Vilnius, regis, tapo gana svarbiu prekybos centru."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160338
+    - c-160355
+    - c-160396
+    - c-179546
+    - c-179552
+    - c-179579
+    - c-179602
+
+<a id="claim-t-176379"></a>
+- t-028
+  teiginys: "Gediminas dominikonams rašė pasiuntęs laišką popiežiui Jonui ir norįs sukviesti vyskupų, kunigų bei vienuolių."
+  atnaujinta: "2026-07-19 16:46"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160414
+    - c-179590
+    - c-160341
+    - c-179592
+
+<a id="claim-t-176380"></a>
+- t-058
+  teiginys: "Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę)."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-160353
+    - c-179589
+    - c-179605
 
 <a id="claim-t-176382"></a>
-- t-053
-  global_id: t-176382
+- t-077
   teiginys: "Gediminas Vilniuje pastatydino mūro tvirtovę, saugomą aukštų sienų ir trijų bokštų."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bokštai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -880,12 +1297,51 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-160398
+    - c-179568
+
+<a id="claim-t-176383"></a>
+- t-041
+  teiginys: "Gedimino vardu naudotame antspaude jis tituluotas lietuvių ir rusų karaliumi."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160384
+    - c-179550
+    - c-179631
+
+<a id="claim-t-176384"></a>
+- t-032
+  teiginys: "Kryžiuočiams atsitraukus, Gediminas jėga privertė gynėjus sulaužyti pažadą paklusti Ordinui."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160342
+    - c-160356
+    - c-179571
+    - c-179621
+    - c-179625
+    - c-179636
 
 <a id="claim-t-176386"></a>
-- t-054
-  global_id: t-176386
+- t-039
   teiginys: "Gediminas esą prisipažino nerašęs laiškų nei popiežiui, nei Vokietijos miestams ir nepareiškęs noro krikštytis."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vokietija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -899,10 +1355,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - c-160371
 
 <a id="claim-t-176387"></a>
-- t-055
-  global_id: t-176387
+- t-075
   teiginys: "Balińskis manė, kad Gediminas greičiau buvo palaidotas Veliuonoje, Gedimino kalne, o ne Vilniuje."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_palaidotas -> Veliuona: 0.68"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -915,12 +1370,14 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   semantiniai_rysiai: "Gediminas buvo palaidotas Veliuona (0.68)"
   pagrindžia:
     - c-160347
+    - c-179575
+    - c-160374
+    - c-179572
 
 <a id="claim-t-176388"></a>
-- t-057
-  global_id: t-176388
+- t-080
   teiginys: "Gediminas laiškuose ir pareiškime popiežiaus legatams kaltino kryžiuočius niokojant žemes, darant skriaudas ir nuostolius."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -933,12 +1390,41 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   semantiniai_rysiai: "Gediminas buvo priešas Kryžiuočių ordinas (0.86)"
   pagrindžia:
     - c-160403
+    - c-179604
+
+<a id="claim-t-176389"></a>
+- t-029
+  teiginys: "Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu."
+  atnaujinta: "2026-07-19 17:26"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160361
+    - c-160414
+    - c-179590
+
+<a id="claim-t-176391"></a>
+- t-027
+  teiginys: "Gediminas, pasak Balińskio, plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus ir ant kalno statydino mūro tvirtovę."
+  atnaujinta: "2026-07-19 17:26"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160367
+    - c-160398
+    - c-179568
 
 <a id="claim-t-176393"></a>
-- t-058
-  global_id: t-176393
+- t-066
   teiginys: "Gediminas laiške pranciškonams prisistatė lietuvių ir rusų karaliumi bei Žemgalijos valdovu ir kunigaikščiu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -949,13 +1435,35 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
+    - c-160338
     - c-160361
+    - c-179546
+    - c-160375
+    - c-160411
+    - c-179559
+    - c-179567
+
+<a id="claim-t-176394"></a>
+- t-022
+  teiginys: "Gedimino valdymo metu Vilnius, regis, ėmė darytis gana svarbiu prekybos centru."
+  atnaujinta: "2026-07-19 16:46"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160338
+    - c-179546
 
 <a id="claim-t-176395"></a>
-- t-060
-  global_id: t-176395
+- t-093
   teiginys: "1317 m. Gediminas iš popiežiaus Jono XXII gavo raginimą krikštytis."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ryga: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -970,12 +1478,69 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_llm_pakomentavimas: "Citata aiškiai patvirtina Gedimino gautą popiežiaus raginimą."
   pagrindžia:
     - c-160410
+    - c-179633
+
+<a id="claim-t-176396"></a>
+- t-033
+  teiginys: "Gediminas, kaip skelbė Prūsijoje pasklidęs gandas, į visas šalis išsiuntinėjo laiškus apie norą priimti krikštą."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160380
+    - c-179549
+    - c-179597
+
+<a id="claim-t-176397"></a>
+- t-071
+  teiginys: "Gediminas 1323 ir 1324 metais su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Mazovija: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Gedimino kariaunos įsiveržimą į Mazoviją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Gediminas surengė žygį į Mazovija (0.92); Gediminas surengė žygį į Dobrynė (0.90)"
+  pagrindžia:
+    - c-160379
+    - c-160384
+    - c-179550
+    - c-179603
+    - c-179628
+    - c-179631
+
+<a id="claim-t-176398"></a>
+- t-023
+  teiginys: "Gediminas savo monarchijos galią grindė lietuvių ir rusų riterių priklausomybe aukščiausiajai feodalinei valdžiai."
+  atnaujinta: "2026-07-19 16:46"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-160381
+    - c-179580
 
 <a id="claim-t-176399"></a>
-- t-062
-  global_id: t-176399
+- t-061
   teiginys: "Gediminas apibūdinamas kaip darnesnio feodalizmo kūrėjas ir miestų steigėjas Lietuvoje."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -986,13 +1551,15 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
+    - c-160347
     - c-160413
+    - c-179575
+    - c-179577
 
 <a id="claim-t-176400"></a>
-- t-063
-  global_id: t-176400
+- t-098
   teiginys: "Pasak Strijkovskio ir Kojelavičiaus, Gediminas medžioklės metu Šventaragio slėnyje sapnavo geležinį vilką."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Aukštutinė pilis: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1005,12 +1572,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   semantiniai_rysiai: "Gediminas pastatė Aukštutinė pilis (0.78)"
   pagrindžia:
     - c-160344
+    - c-179619
 
 <a id="claim-t-176401"></a>
-- t-065
-  global_id: t-176401
+- t-057
   teiginys: "Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuva: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -1029,8 +1596,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - c-160397
 
 <a id="claim-t-184699"></a>
-- t-066
-  global_id: t-184699
+- t-100
   teiginys: "Kojelavičius Pelužį laikė Gediminą niekinusių pasakojimų dingstimi, bet rusų metraštininkai Gediminą vadino Vytenio sūnumi."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1050,8 +1616,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - c-168060
 
 <a id="claim-t-184700"></a>
-- t-067
-  global_id: t-184700
+- t-101
   teiginys: "Kojelavičiaus pasakojime Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė jam paklusti."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1072,8 +1637,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - c-168061
 
 <a id="claim-t-184702"></a>
-- t-068
-  global_id: t-184702
+- t-103
   teiginys: "Pasiuntiniai Lietuvoje prašė Gedimino dukters Aldonos rankos Kazimierui, o sutarta giminystė turėjo užtikrinti taiką."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1093,35 +1657,26 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - c-168063
 
 <a id="claim-t-190856"></a>
-- t-069
-  global_id: t-190856
+- t-104
   teiginys: "Narbutas rašo, kad 1841 m. prie Druskininkų rastoje monetoje vienoje pusėje buvo Gedimino šeimos herbas Stulpai."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Gediminas (Lietuvos didysis kunigaikštis, XIV a.): 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Stulpai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Gediminas (Lietuvos didysis kunigaikštis, XIV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Stulpai tiesiogiai įvardyti kaip Gedimino šeimos herbas."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Stulpai priklausė Gediminas (Lietuvos didysis kunigaikštis, XIV a.) (0.84)"
   temporaliniai_duomenys: "priklausymo laikotarpis: 1841 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Stulpai priklausė Gediminas (Lietuvos didysis kunigaikštis, XIV a.)“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Išskleistas monetos radimo kontekstas ir palikta Narbuto atribucija, nes herbo atpažinimas yra autoriaus interpretacija. Nepridėta nieko apie monetos kitą pusę."
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
-    - c-173738
+    - c-173739
+    - c-179584
 
 <a id="claim-t-190857"></a>
-- t-070
-  global_id: t-190857
+- t-105
   teiginys: "Narbutas rašo, kad prie Kauno rasta senovinė lietuviška moneta vienoje pusėje turėjo Gediminaičių herbą Stulpai ir neaiškią raidę."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1138,12 +1693,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-173739
+    - c-179584
 
 <a id="claim-t-190858"></a>
-- t-071
-  global_id: t-190858
+- t-106
   teiginys: "Narbutas rašo, kad 1302 m. Gediminas suteikė herbą Krunevičiui, nors toks paprotys lietuviams nebuvęs būdingas."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1162,12 +1717,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173740
+    - c-179554
 
 <a id="claim-t-193620"></a>
-- t-073
-  global_id: t-193620
+- t-107
   teiginys: "Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1176,12 +1731,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-176291
+    - c-179607
 
 <a id="claim-t-193758"></a>
-- t-074
-  global_id: t-193758
+- t-108
   teiginys: "Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1190,12 +1745,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-11533
+    - c-179587
 
 <a id="claim-t-194226"></a>
-- t-075
-  global_id: t-194226
+- t-110
   teiginys: "3) Gediminas, dieviškąja apvaizda lietuvių ir rusų kara lius, Žemgalijos valdovas ir kunigaikštis, pasišventusiems Kristui vienuoliams ir garbingiems bei pamaldiems tėvams, ministrams, kustodams ir gvardijonams ir visiems kitiems pranciškonų ordino broliams."
-  atnaujinta: "2026-07-06 13:00"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1206,10 +1761,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - c-160361
 
 <a id="claim-t-194227"></a>
-- t-078
-  global_id: t-194227
+- t-111
   teiginys: "Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa vo pirmtakais Gediminu ir Algirdu61, bemaž tuo metu užka riavęs neramias šios tautos ordas, buvo užėmęs ištisą jų ulusą, palikęs jiems valią išpažinti senąjį tikėjimą, davęs daug žemės valdų ir."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1218,12 +1772,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-176826
+    - c-179556
 
 <a id="claim-t-194703"></a>
-- t-079
-  global_id: t-194703
+- t-112
   teiginys: "Ta pati mintis ateina Okolskiui straipsnyje apie Vyčio herbą, kur jis kalba apie Gediminą, ta čiau klysta Strijkovskio suvedžiotas, kad Trakus taip praminęs Gediminas, kadangi Gediminas įkūrė ne Senuosius, bet Nau juosius Trakus, o ne Kęstutis."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1232,10 +1786,10 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-177099
+    - c-179606
 
 <a id="claim-t-196454"></a>
-- t-080
-  global_id: t-196454
+- t-114
   teiginys: "Kojelavičiaus aiškinimu, Gediminas apie rugsėjo vidurį patraukė į Mazoviją ir Dobrynę, jas nusiaubė ir be kovos parvedė kariuomenę į Lietuvą."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1248,8 +1802,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - c-178698
 
 <a id="claim-t-196455"></a>
-- t-081
-  global_id: t-196455
+- t-115
   teiginys: "Visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1261,8 +1814,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - c-168061
 
 <a id="claim-t-196456"></a>
-- t-083
-  global_id: t-196456
+- t-116
   teiginys: "Kojelavičiaus pasakojime Gediminas tapo pirmuoju svetimšaliu, valdžiusiu Kijevą, ir savo vietininku paskyrė Alšėnų kunigaikštį Mintautą."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1275,8 +1827,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - c-178699
 
 <a id="claim-t-196457"></a>
-- t-084
-  global_id: t-196457
+- t-117
   teiginys: "Lietuvos pusė priėmė pasiuntinius, prašiusius Gedimino dukters Aldonos rankos Kazimierui, ir susitarė dėl taikos tarp abiejų tautų."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1289,10 +1840,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - c-168063
 
 <a id="claim-t-196822"></a>
-- t-085
-  global_id: t-196822
+- t-118
   teiginys: "Lietuvos metraštis pasakoja, kad Gediminas prie Irpenio upės ties Belgorodu sutriuškino Stanislovo, Olego, Romano ir Levo kariuomenes."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1301,12 +1851,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
     - c-178930
+    - c-179555
 
 <a id="claim-t-196823"></a>
-- t-086
-  global_id: t-196823
+- t-119
   teiginys: "Lietuvos metraštis pasakoja, kad Gediminas su savo pajėgomis apgulė Kijevą ir prie miesto stovyklavo mėnesį."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1315,12 +1865,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
     - c-178931
+    - c-179641
 
 <a id="claim-t-196824"></a>
-- t-087
-  global_id: t-196824
+- t-120
   teiginys: "Vitebsko kunigaikštis, neturėjęs sūnų, išleido dukterį už Algirdo ir priėmė jį į Vitebsko žemę."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1329,12 +1879,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
     - c-178932
+    - c-179637
 
 <a id="claim-t-196825"></a>
-- t-088
-  global_id: t-196825
+- t-121
   teiginys: "Kijevu valdė kunigaikštis Teodoras, kuris buvo Gedimino brolis ar pusbrolis ir politiškai nuo Lietuvos pri klausomas."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1342,12 +1892,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-178933
+    - c-179615
 
 <a id="claim-t-197081"></a>
-- t-089
-  global_id: t-197081
+- t-122
   teiginys: "Šitaip norima pabrėžti, kad Ordino politika esanti teisinga, nors turime pagrindo manyti, kad būtent Ordino klasta sužlugdė Gedimino planus67."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1355,136 +1905,147 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-160387
+    - c-179557
 
-<a id="claim-t-198012"></a>
-- t-090
-  global_id: t-198012
-  teiginys: "Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę)."
-  atnaujinta: "2026-07-12 22:58"
+<a id="claim-t-198022"></a>
+- t-006
+  teiginys: "Narbutas rašo, kad Gedimino kapas esąs prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį."
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra faktinis sakinys apie Gediminą ir Algirdą, paremtas citata."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kondominiumas|kondominiumas]]; mentioned_place: Lietuva"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Pašalintos išnašos ir lotyniškos citatos triukšmas. Ginčytina vietos identifikacija palikta su Narbuto atribucija."
+  susije_objektai: "mentioned_place: Antakalnis; mentioned_place: Užupis; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Plockas"
+  temporaliniai_duomenys: "įvykio data: 1320 m.; įvykio data: apie 1320 m.; įvykio data: 1320 m.; įvykio data: apie 1320 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pašalintos išnašos ir lotyniškos citatos triukšmas. Ginčytina vietos identifikacija palikta su Narbuto atribucija."
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-179589
-
-<a id="claim-t-198015"></a>
-- t-091
-  global_id: t-198015
-  teiginys: "Gedimino vardu naudotame antspaude jis tituluotas lietuvių ir rusų karaliumi."
-  atnaujinta: "2026-07-12 22:58"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Gedimino antspaudas|Gedimino antspaudas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]"
-  ryšio_patikimumas: "surenge_zygi_i -> Mazovija: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Gedimino kariaunos įsiveržimą į Mazoviją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-179631
+    - c-179588
 
 <a id="claim-t-198023"></a>
-- t-092
-  global_id: t-198023
+- t-007
   teiginys: "Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą."
   atnaujinta: "2026-07-12 22:58"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Citata pagrindžia glaustesnį faktą apie Gediminą ir kitus valdovus, pašalinus perteklinį aiškinimą."
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_event: [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas]]; mentioned_group: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Lietuva"
   semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] valdė Lietuva"
-  ryšio_patikimumas: "buvo_valdovas -> Lietuviai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Gediminas titulavosi lietuvių karaliumi, todėl tiesiogiai siejamas kaip jų valdovas."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-179560
 
-<a id="claim-t-198025"></a>
-- t-093
-  global_id: t-198025
-  teiginys: "Balińskis darė išvadą, kad Gedimino vardu naudotas antspaudas nebuvo tikras ir buvo suklastotas."
-  atnaujinta: "2026-07-12 22:58"
+<a id="claim-t-198024"></a>
+- t-008
+  teiginys: "Narbutas, remdamasis Strijkovskiu, mini, kad 1302 m. Gediminas suteikė herbą Krunevičiui."
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Gotfridas fon Ustas|Gotfridas fon Ustas]]"
-  ryšio_patikimumas: "pastate -> Naugardukas: 0.75"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Išskleista, kad tai Strijkovskiu paremta Narbuto žinia. Nepridėta informacijos apie paties herbo pavidalą."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Dusburgietis|Dusburgietis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Pamaris"
+  temporaliniai_duomenys: "įvykio data: 1302 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleista, kad tai Strijkovskiu paremta Narbuto žinia. Nepridėta informacijos apie paties herbo pavidalą."
+  ryšio_patikimumas: "pastate -> Aukštutinė pilis: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
   ryšio_sprendimo_taisykle: "llm_validated_relation"
   ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata teigia, kad Gediminas pastatė antrą bažnyčią Naugarduke; tikslaus bažnyčios objekto nėra."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  ryšio_targeto_parinkimas: "Aukštutinė pilis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Gedimino sapno aiškinimas siejamas su pilies pastatydinimu ant Tauro kalno."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-179586
+    - c-177099
+    - c-179606
 
-<a id="claim-t-198039"></a>
-- t-094
-  global_id: t-198039
-  teiginys: "Gedimino valdymo metu Vilnius, regis, ėmė darytis gana svarbiu prekybos centru."
-  atnaujinta: "2026-07-12 22:58"
+<a id="claim-t-198028"></a>
+- t-009
+  teiginys: "Narbutas rašo, kad Lizdeika, gyvenęs Gedimino laikais, apie 1318 m. patarė įkurti Vilnių."
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-179546
-
-<a id="claim-t-198047"></a>
-- t-095
-  global_id: t-198047
-  teiginys: "Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę."
-  atnaujinta: "2026-07-12 22:58"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir atitinka citatos pirmąjį sakinį."
-  susije_objektai: "mentioned_place: Bajerburgas; llm_object: Bajerburgas; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Henrikas Duseneris|Henrikas Duseneris]]; mentioned_place: Reinas"
-  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] puolė Bajerburgas; [[objektai/asmenys/Gediminas|Gediminas]] apgulė Bajerburgas"
-  ryšio_patikimumas: "susije_su -> Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.): 0.85"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Išskleistas Lizdeikos ryšys su Gediminu ir Vilniumi. Legendinė miesto įkūrimo tradicija palikta kaip Narbuto teiginys."
+  susije_objektai: "mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]"
+  temporaliniai_duomenys: "įvykio data: 1318 m.; įvykio data: apie 1318 m.; įvykio data: 1318 m.; įvykio data: apie 1318 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Išskleistas Lizdeikos ryšys su Gediminu ir Vilniumi. Legendinė miesto įkūrimo tradicija palikta kaip Narbuto teiginys."
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.): mention_match, event, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-179638
+    - c-171419
+    - c-179614
 
-<a id="claim-t-198048"></a>
-- t-096
-  global_id: t-198048
-  teiginys: "Gedimino valdymo metu Vilnius, regis, tapo gana svarbiu prekybos centru."
-  atnaujinta: "2026-07-12 22:58"
+<a id="claim-t-198029"></a>
+- t-012
+  teiginys: "Narbutas nurodo, kad Gediminas gimė 1257 m. iš pirmosios Vytenio žmonos."
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pašalinti nutrūkę papildiniai ir paliktas tiesiogiai paremtas faktas."
-  susije_objektai: "mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys susiaurintas iki Gedimino, nes pastaba apie kitus vaikus labiau liečia Vytenį. Nepridėta duomenų iš už citatos ribų."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Gvaželutis|Gvaželutis]]; mentioned_person: [[objektai/asmenys/Trobius|Trobius]]; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: [[objektai/asmenys/Gvaželutis|Gvaželutis]]"
+  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] buvo brolis [[objektai/asmenys/Gvaželutis|Gvaželutis]]; Gediminas buvo brolis Gvaželutis (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1257 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Gediminas buvo brolis Gvaželutis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys susiaurintas iki Gedimino, nes pastaba apie kitus vaikus labiau liečia Vytenį. Nepridėta duomenų iš už citatos ribų."
+  ryšio_patikimumas: "buvo_brolis -> Gvaželutis: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gvaželutis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata abu asmenis pateikia kaip to paties Vytenio vaikus, todėl ryšys laikomas brolystės išvada."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-179546
+    - c-179595
+
+<a id="claim-t-198043"></a>
+- t-021
+  teiginys: "Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje."
+  atnaujinta: "2026-07-19 18:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Sakinys sutrumpintas ir pataisyti lūžiai. Titulas bei kronikinė žinia palikti su Narbuto atribucija."
+  susije_objektai: "llm_object: Ariogala; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ariogala; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos ponai|Lietuvos ponai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva"
+  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] gyveno Ariogala; [[objektai/grupes/Lietuvos ponai|Lietuvos ponai]] paskyrė [[objektai/asmenys/Gediminas|Gediminas]]"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1316 m.; įvykio data: 1316 m.; gyvenimo laikotarpis: 1316 m.; įvykio data: 1316 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Gediminas gyveno Ariogala“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos ponai paskyrė Gediminas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir pataisyti lūžiai. Titulas bei kronikinė žinia palikti su Narbuto atribucija."
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Gedimino kovą su kryžiuočiais."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171419
+    - c-179614
 
 <a id="claim-t-198049"></a>
-- t-097
-  global_id: t-198049
+- t-109
   teiginys: "Kojelavičiaus aiškinimu, Gediminas valdymo pradžioje nestojo į atvirą kovą su kryžiuočiais, kurie užėmė Jurbarko ir Kauno pilis."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1496,48 +2057,34 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindžia:
     - c-168060
 
-<a id="claim-t-198051"></a>
-- t-098
-  global_id: t-198051
-  teiginys: "Gediminas, kaip skelbė Prūsijoje pasklidęs gandas, į visas šalis išsiuntinėjo laiškus apie norą priimti krikštą."
-  atnaujinta: "2026-07-12 22:58"
+<a id="claim-t-198062"></a>
+- t-026
+  teiginys: "Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos."
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys aiškiai nurodo, kad tai buvo gandas, ir atitinka citatą."
-  susije_objektai: "mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Ryga"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Fragmentas paverstas vientisu sakiniu apie Gedimino sapno pasakojimą. Legendinis turinys paliktas su Narbuto atribucija."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_place: Kristmemelis; mentioned_place: Lietuva; mentioned_place: Rezeknė"
+  temporaliniai_duomenys: "įvykio data: po 1324 m.; įvykio data: 1324 m.; įvykio data: po 1324 m.; įvykio data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Fragmentas paverstas vientisu sakiniu apie Gedimino sapno pasakojimą. Legendinis turinys paliktas su Narbuto atribucija."
+  ryšio_patikimumas: "susije_su -> Šventaragis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  ryšio_targeto_parinkimas: "Šventaragis: mention_match, person, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Šventaragis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-179549
-
-<a id="claim-t-198055"></a>
-- t-099
-  global_id: t-198055
-  teiginys: "Gediminas dominikonams rašė pasiuntęs laišką popiežiui Jonui ir norįs sukviesti vyskupų, kunigų bei vienuolių."
-  atnaujinta: "2026-07-12 22:58"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Skyrai|Skyrai]]"
-  ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Pranciškonų ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Pranciškonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-179590
+    - c-179588
 
 <a id="claim-t-198066"></a>
-- t-100
-  global_id: t-198066
+- t-052
   teiginys: "Lietuvos metraštis Gediminą vaizduoja kaip ilgai Lietuvą, Rusų ir Žemaičių kunigaikštystes valdžiusį ir daug karų laimėjusį didįjį kunigaikštį."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1555,61 +2102,28 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindžia:
     - c-179596
 
-<a id="claim-t-198076"></a>
-- t-101
-  global_id: t-198076
-  teiginys: "Balińskio nuomone, Rygos arkivyskupas Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas apšmeižti Kryžiuočių ordiną."
-  atnaujinta: "2026-07-12 22:58"
+<a id="claim-t-198092"></a>
+- t-092
+  teiginys: "Narbutas rašo, kad 1329 m. Lietuvos didysis kunigaikštis Gediminas, puldamas vieną iš kryžiuočių pilių, buvo nukautas šaunamuoju ginklu."
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pradinis teiginys nutrūkęs ir turi būti paverstas pilnu sakiniu."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vilnius; mentioned_place: Vokietija"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Ištaisytas OCR ir išskleistas pilių kontekstas. Mirties aplinkybė palikta su Narbuto atribucija."
+  susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Viena; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Fridburgas; mentioned_place: Lietuva"
+  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] buvo valdovas Lietuva"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1329 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Gediminas buvo valdovas Lietuva“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ištaisytas OCR ir išskleistas pilių kontekstas. Mirties aplinkybė palikta su Narbuto atribucija."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-179625
-
-<a id="claim-t-198085"></a>
-- t-102
-  global_id: t-198085
-  teiginys: "Gediminas buvo apibūdintas ne tik kaip karys, bet ir kaip valstybininkas, veikęs diplomatija."
-  atnaujinta: "2026-07-12 22:58"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-179617
-
-<a id="claim-t-198088"></a>
-- t-103
-  global_id: t-198088
-  teiginys: "Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną."
-  atnaujinta: "2026-07-12 22:58"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata pateikia autoriaus nuomonę, ne neutraliai patvirtintą faktą."
-  susije_objektai: "mentioned_place: Vilnelė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sandara|Sandara]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija; llm_object: Vilnius"
-  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] pastatė Vilnius"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-179613
+    - c-179595
 
 <a id="claim-t-198094"></a>
-- t-104
-  global_id: t-198094
+- t-099
   teiginys: "Narbutas Gedimino valdymą sieja su laikotarpiu, kai Lietuvos galia ir jėga, jo vertinimu, nepaprastai išaugo."
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1626,30 +2140,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   ryšio_paaiskinimas: "Citata Lietuvos galios augimą sieja su Gedimino valdymo laikotarpiu."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
+    - c-171423
+    - c-179544
     - c-179562
 
-<a id="claim-t-198097"></a>
-- t-105
-  global_id: t-198097
-  teiginys: "Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų."
-  atnaujinta: "2026-07-12 22:58"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys turi aiškų subjektą ir predikatą, citata jį pagrindžia."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
-  ryšio_patikimumas: "sudare_sutarti_su -> Lokietka: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lokietka: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai mini Gedimino sutartį su Lokietka."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-179583
-
 <a id="claim-t-198105"></a>
-- t-106
-  global_id: t-198105
+- t-054
   teiginys: "Gediminas dar labiau sutvirtino Mindaugo įkurtą Lietuvos valstybę ir davė pradžią naujai galingai dinastijai."
   atnaujinta: "2026-07-12 22:58"
   sprendimo_priezastis: "auto"
@@ -1667,46 +2163,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindžia:
     - c-179574
 
-<a id="claim-t-198108"></a>
-- t-107
-  global_id: t-198108
-  teiginys: "Gediminas savo monarchijos galią grindė lietuvių ir rusų riterių priklausomybe aukščiausiajai feodalinei valdžiai."
-  atnaujinta: "2026-07-12 22:58"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Vilnius"
-  ryšio_patikimumas: "susije_su -> Plockas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Plockas: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas\" parinktas kaip owner_note_path. Targetas \"Plockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-179580
-
-<a id="claim-t-198127"></a>
-- t-108
-  global_id: t-198127
-  teiginys: "Balińskis teigė, kad laiškai popiežiui, ordinams ir Vokietijos miestams buvo parašyti ne Gedimino žinia ar valia."
-  atnaujinta: "2026-07-12 22:58"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vilnius; mentioned_place: Vokietija"
-  ryšio_patikimumas: "mire -> Bajerburgas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Bajerburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Gediminą žuvus prie Bajerburgo pilies."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-179625
-
 <a id="claim-t-200986"></a>
-- t-109
-  global_id: t-200986
+- t-123
   teiginys: "Gediminas nuo savo pusės prižadėjo jų tikybą, arba vierą, kalbą, dobę ir apsiėjimus jų bočių probočių užlaikyti ir niekam pikto nedaryti; idant jis kuo didesniai ūkinykams Kijevo pasigerintų, padėjo tenai urėdu Mintautą, kunigaikštį Alšėnų, kursai neseniai."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -1718,8 +2176,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - c-184336
 
 <a id="claim-t-200987"></a>
-- t-110
-  global_id: t-200987
+- t-124
   teiginys: "Atėję siuntiniai popiežiaus į Rygą tuo jau išleido kitus siuntinius pas Gediminą gromatą popiežiaus jam paduoti, kurioje jis linkėjo jam laimos ir džiaugės jo išpažinimu tikro Dievo, brukda mas į jo globą savo siuntinius."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -1731,8 +2188,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - c-184337
 
 <a id="claim-t-200988"></a>
-- t-111
-  global_id: t-200988
+- t-125
   teiginys: "Pasakoja, jog Gediminas, kitu kartu medžioda mas Paneriuose, ant visų aukštojo kalno, Tauro kal nu vadinamo, o šiandien Pilies kalnu, patsai vylyčia taurį būk nuvėręs."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -1742,238 +2198,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184338
-
-<a id="claim-t-176326"></a>
-- t-019
-  global_id: t-176326
-  teiginys: 'Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Bajerburgas; mentioned_place: Bajerburgas; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/asmenys/Gediminas|Gediminas]] mirė Bajerburgas'
-  temporaliniai_duomenys: 'įvykio data: 1337 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  pagrindžia:
-    - c-032
-<a id="claim-t-176328"></a>
-- t-021
-  global_id: t-176328
-  teiginys: 'Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.'
-  susije_objektai: 'mentioned_place: Bajerburgas; mentioned_place: Gedimino kalnas; mentioned_place: Veliuona; llm_object: Bajerburgas; llm_object: Gedimino kalnas'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] mirė Bajerburgas; [[objektai/asmenys/Gediminas|Gediminas]] buvo palaidotas Gedimino kalnas'
-  pagrindžia:
-    - c-062
-<a id="claim-t-176343"></a>
-- t-035
-  global_id: t-176343
-  teiginys: 'Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.'
-  sudarymo_pagrindimas: 'Pradinis sakinys nutrūkęs; citata palaiko aiškų teiginį apie Gedimino vaidmenį.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_place: Bajerburgas; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga'
-  pagrindžia:
-    - c-032
-<a id="claim-t-176344"></a>
-- t-036
-  global_id: t-176344
-  teiginys: 'Michałas Balińskis rašė, kad Rygos arkivyskupas slapta parašė ir Gedimino vardu pasiuntė laiškus popiežiui, pajūrio miestams ir vienuoliams.'
-  sudarymo_pagrindimas: 'Citata perteikia autoriaus interpretaciją apie laiškų autorystę, todėl reikia atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ryga'
-  pagrindžia:
-    - c-035
-<a id="claim-t-176345"></a>
-- t-037
-  global_id: t-176345
-  teiginys: 'Gediminas popiežiui pareiškė esąs pasirengęs priimti krikščioniškąjį tikėjimą, jei neturės būti dėkingas Ordinui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
-  pagrindžia:
-    - c-042
-<a id="claim-t-176347"></a>
-- t-039
-  global_id: t-176347
-  teiginys: '1323 ir 1324 m. Gediminas su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Mazovija; llm_object: Dobrynė; mentioned_place: Dobrynė; mentioned_place: Mazovija; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] surengė žygį į Mazovija; [[objektai/asmenys/Gediminas|Gediminas]] surengė žygį į Dobrynė'
-  temporaliniai_duomenys: 'įvykio data: 1324 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  pagrindžia:
-    - c-046
-<a id="claim-t-176362"></a>
-- t-051
-  global_id: t-176362
-  teiginys: 'Į popiežiaus rūmus atvykusi misija pranešė apie Gedimino ryžtą pereiti į naują tikėjimą.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
-  pagrindžia:
-    - c-021
-<a id="claim-t-176367"></a>
-- t-056
-  global_id: t-176367
-  teiginys: 'Michałas Balińskis rašė, kad Gedimino vardu laiškus popiežiui, pajūrio miestams ir vienuoliams slapta parašė Rygos arkivyskupas.'
-  sudarymo_pagrindimas: 'Citata perteikia autoriaus interpretaciją apie laiškų klastojimą, todėl reikia atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ryga'
-  pagrindžia:
-    - c-035
-<a id="claim-t-176371"></a>
-- t-059
-  global_id: t-176371
-  teiginys: 'Gedimino misija popiežiui žodžiu pranešė apie jo ryžtą pereiti į naują tikėjimą ir prašė siųsti tikėjimo mokytojų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
-  temporaliniai_duomenys: 'įvykio data: 1323 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  pagrindžia:
-    - c-071
-<a id="claim-t-176373"></a>
-- t-061
-  global_id: t-176373
-  teiginys: 'Prie Veliuonos esantis Gedimino kalno pilkapis laikytas tikėtina Gedimino kapaviete.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo apie vietovę, todėl perrašytas į faktą apie Gediminą.'
-  susije_objektai: 'mentioned_place: Bajerburgas; mentioned_place: Veliuona'
-  pagrindžia:
-    - c-067
-<a id="claim-t-176381"></a>
-- t-064
-  global_id: t-176381
-  teiginys: '1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.'
-  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir pataisytas pagal citatoje nurodytą įvykį.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija; mentioned_place: Revelis; mentioned_place: Viena; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] sudarė sutartį su [[objektai/asmenys/Lokietka|Lokietka]]'
-  temporaliniai_duomenys: 'įvykio data: 1325 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir pataisytas pagal citatoje nurodytą įvykį.'
-  pagrindžia:
-    - c-028
-<a id="claim-t-176384"></a>
-- t-072
-  global_id: t-176384
-  teiginys: 'Kryžiuočiams atsitraukus, Gediminas jėga privertė gynėjus sulaužyti pažadą paklusti Ordinui.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys sutrumpintas, išlaikant citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Ryga'
-  pagrindžia:
-    - c-029
-<a id="claim-t-176389"></a>
-- t-076
-  global_id: t-176389
-  teiginys: 'Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/vergas|vergas]]; mentioned_place: Gotlandas; mentioned_place: Viena; mentioned_place: Štetinas'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] buvo valdovas [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/asmenys/Gediminas|Gediminas]] buvo valdovas [[objektai/grupes/Rusai|Rusai]]'
-  pagrindžia:
-    - c-023
-<a id="claim-t-176391"></a>
-- t-077
-  global_id: t-176391
-  teiginys: 'Gediminas, pasak Balińskio, plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus ir ant kalno statydino mūro tvirtovę.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija'
-  pagrindžia:
-    - c-037
-<a id="claim-t-176397"></a>
-- t-082
-  global_id: t-176397
-  teiginys: 'Gediminas 1323 ir 1324 metais su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Mazovija; llm_object: Dobrynė; mentioned_place: Dobrynė; mentioned_place: Mazovija; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] surengė žygį į Mazovija; [[objektai/asmenys/Gediminas|Gediminas]] surengė žygį į Dobrynė'
-  pagrindžia:
-    - c-046
-<a id="claim-t-198022"></a>
-- t-119
-  global_id: t-198022
-  teiginys: 'Narbutas rašo, kad Gedimino kapas esąs prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintos išnašos ir lotyniškos citatos triukšmas. Ginčytina vietos identifikacija palikta su Narbuto atribucija.'
-  susije_objektai: 'mentioned_place: Antakalnis; mentioned_place: Užupis; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Plockas'
-  temporaliniai_duomenys: 'įvykio data: 1320 m.; įvykio data: apie 1320 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Pašalintos išnašos ir lotyniškos citatos triukšmas. Ginčytina vietos identifikacija palikta su Narbuto atribucija.'
-  pagrindžia:
-    - c-171421
-<a id="claim-t-198024"></a>
-- t-121
-  global_id: t-198024
-  teiginys: 'Narbutas, remdamasis Strijkovskiu, mini, kad 1302 m. Gediminas suteikė herbą Krunevičiui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleista, kad tai Strijkovskiu paremta Narbuto žinia. Nepridėta informacijos apie paties herbo pavidalą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Dusburgietis|Dusburgietis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Pamaris'
-  temporaliniai_duomenys: 'įvykio data: 1302 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Išskleista, kad tai Strijkovskiu paremta Narbuto žinia. Nepridėta informacijos apie paties herbo pavidalą.'
-  pagrindžia:
-    - c-171422
-<a id="claim-t-198028"></a>
-- t-125
-  global_id: t-198028
-  teiginys: 'Narbutas rašo, kad Lizdeika, gyvenęs Gedimino laikais, apie 1318 m. patarė įkurti Vilnių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas Lizdeikos ryšys su Gediminu ir Vilniumi. Legendinė miesto įkūrimo tradicija palikta kaip Narbuto teiginys.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]'
-  temporaliniai_duomenys: 'įvykio data: 1318 m.; įvykio data: apie 1318 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Išskleistas Lizdeikos ryšys su Gediminu ir Vilniumi. Legendinė miesto įkūrimo tradicija palikta kaip Narbuto teiginys.'
-  pagrindžia:
-    - c-079
-<a id="claim-t-198029"></a>
-- t-126
-  global_id: t-198029
-  teiginys: 'Narbutas nurodo, kad Gediminas gimė 1257 m. iš pirmosios Vytenio žmonos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys susiaurintas iki Gedimino, nes pastaba apie kitus vaikus labiau liečia Vytenį. Nepridėta duomenų iš už citatos ribų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gvaželutis|Gvaželutis]]; mentioned_person: [[objektai/asmenys/Trobius|Trobius]]; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: [[objektai/asmenys/Gvaželutis|Gvaželutis]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] buvo brolis [[objektai/asmenys/Gvaželutis|Gvaželutis]]'
-  temporaliniai_duomenys: 'įvykio data: 1257 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Gediminas buvo brolis Gvaželutis“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys susiaurintas iki Gedimino, nes pastaba apie kitus vaikus labiau liečia Vytenį. Nepridėta duomenų iš už citatos ribų.'
-  pagrindžia:
-    - c-077
-<a id="claim-t-198043"></a>
-- t-140
-  global_id: t-198043
-  teiginys: 'Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pataisyti lūžiai. Titulas bei kronikinė žinia palikti su Narbuto atribucija.'
-  susije_objektai: 'llm_object: Ariogala; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ariogala; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos ponai|Lietuvos ponai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] gyveno Ariogala; [[objektai/grupes/Lietuvos ponai|Lietuvos ponai]] paskyrė [[objektai/asmenys/Gediminas|Gediminas]]'
-  temporaliniai_duomenys: 'gyvenimo laikotarpis: 1316 m.; įvykio data: 1316 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Gediminas gyveno Ariogala“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos ponai paskyrė Gediminas“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir pataisyti lūžiai. Titulas bei kronikinė žinia palikti su Narbuto atribucija.'
-  pagrindžia:
-    - c-078
-<a id="claim-t-198062"></a>
-- t-159
-  global_id: t-198062
-  teiginys: 'Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Fragmentas paverstas vientisu sakiniu apie Gedimino sapno pasakojimą. Legendinis turinys paliktas su Narbuto atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_place: Kristmemelis; mentioned_place: Lietuva; mentioned_place: Rezeknė'
-  temporaliniai_duomenys: 'įvykio data: po 1324 m.; įvykio data: 1324 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Fragmentas paverstas vientisu sakiniu apie Gedimino sapno pasakojimą. Legendinis turinys paliktas su Narbuto atribucija.'
-  pagrindžia:
-    - c-080
-<a id="claim-t-198092"></a>
-- t-188
-  global_id: t-198092
-  teiginys: 'Narbutas rašo, kad 1329 m. Lietuvos didysis kunigaikštis Gediminas, puldamas vieną iš kryžiuočių pilių, buvo nukautas šaunamuoju ginklu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Ištaisytas OCR ir išskleistas pilių kontekstas. Mirties aplinkybė palikta su Narbuto atribucija.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Viena; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Fridburgas; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] buvo valdovas Lietuva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1329 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Gediminas buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Ištaisytas OCR ir išskleistas pilių kontekstas. Mirties aplinkybė palikta su Narbuto atribucija.'
-  pagrindžia:
-    - c-076
 - susijęs iš [[objektai/asmenys/Teodoras.md#claim-t-79203|Teodoras]]: 1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.
 - susijęs iš [[objektai/asmenys/Marija (Gedimino duktė).md#claim-t-82552|Marija (Gedimino duktė)]]: Gedimino duktė Marija politinėmis vedybomis ištekėjo už didžiojo Tverės kunigaikščio Dimitro.
 - susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija.md#claim-t-66537|Gedimino sąjunga su Lenkija]]: Ivinskis nurodo, kad 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.
@@ -3011,479 +3235,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97309|Aldona Gediminaitė]]: Gedimino duktė Aldona ištekėjo už Lokietkos sūnaus Kazimiero, sutvirtinant sąjungininkų taikos sutartį.
 - susijęs iš Semba: 1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį.
 - susijęs iš Mažesniųjų brolių laiškas dėl Teutonų ordino garbės (1323 m.): 1323 m. Mažesniųjų brolių laiške popiežiui Teutonų ordino brolių garbė ginta nuo kaltinimų trukdžius Gediminui priimti krikštą.
-## Reikšmingi paminėjimai
-- c-021
-  santrauka: 'Į popiežiaus rūmus atvykusi misija pranešė apie Gedimino ryžtą pereiti į naują tikėjimą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dar niekas nenutuokė juos buvus
-    kunigaikščio gudrybe ir apgaule, ypač, kai greitai kitas išti­
-    ko dalykas, kurio tikslų irgi negalima buvo suprasti. Mat
-    atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui
-    apie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad
-    teiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­
-    nančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant
-    valdovo sumanymą. Atvykę taip pat Rygos miesto pasiun­
-    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
-    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
-    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
-    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
-    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
-    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
-    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
-    tvirtintą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176362
-- c-023
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    2
-    2) Gediminas, dievo malone lietuvių ir rusų karalius,
-    Žemgalijos valdovas ir kunigaikštis, gerbiamiems vyrams,
-    rūpestingiems ir garbingiems Liubeko, Rostoko, Zundo,
-    Greifsvaldo, Štetino ir Gotlando [miestų] reikalų valdyto­
-    jams, tarėjams ir piliečiams, pirkliams ir bet kokios padėties
-    amatininkams [siunčia] pasveikinimą ir savo karališką ma­
-    lonę bei palankumą.
-    Kadangi visos karalystės, iš kurių vieną mes valdome,
-    yra pavaldžios dangaus karaliui Jėzui Kristui tokiu būdu,
-    kaip forma materijai, o vergas namams, tai, nors iš visų ka­
-    ralių esame menkiausias [svetur], tačiau dievo apvaizda di­
-    džiausias savajame krašte, kur turime galią duoti nurody­
-    mus ir įsakinėti, pasmerkti ir pasigailėti, uždaryti ir atverti.
-    Pagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­
-    mo, kad aplankytumėte Naugardą, Pskovą; visa tai jums
-    leidome dėl busimosios naudos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176389
-- c-028
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pirmąjį Vilniaus paminėjimą, pirmą autentišką
-    paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
-    abejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­
-    niuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­
-    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
-    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
-    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
-    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
-    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
-    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
-    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
-    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
-    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad
-    iš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­
-    tų vėlesnio susijungimo ir galios pirmosios gijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176381
-- c-029
-  santrauka: 'Kryžiuočiams atsitraukus, Gediminas jėga privertė gynėjus sulaužyti pažadą paklusti Ordinui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Įgu­
-    la gynė sienas nepaprastai narsiai ir vokiečius, nepaisant jų
-    66
-
-    ## Puslapis 83
-
-    I  KNYGA
-    sunkiųjų ginklų, atrėmė, bet kai rytojaus dieną ruošėsi nau­
-    joms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­
-    dami, kad sutiksią paklusti Ordinui. Vos tik kryžiuočiai at­
-    sitolino, Gediminas jėga privertė juos sulaužyti duotą žodį ir
-    atsisakyti priklausomybės Ordino valdžiai.
-    Tas valdovas po pergalingų žygių, tikriausiai todėl, kad
-    kryžiuočiai tolydžio artinosi, nuo Rytų atsigręžė į Vakarus
-    ir į juos nukreipė savo kruviną kardą. Kol vokiečių kariau­
-    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
-    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
-    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
-    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
-    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
-    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
-    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
-    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
-    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176384
-- c-032
-  santrauka: 'Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Betgi toje epochoje, kai naujos civilizacijos
-    spinduliai Lietuvos žemėje buvo tik pradėję blykčioti, kai,
-    nepaisant Lietuvos valdovų išmintingų siekių, karo reikalai
-    ir užgrobimai labiau už įstatymų leidimą ar krašto valdy­
-    mą visiems rūpėjo, dar skendint barbariškų laikų tamsoj ar­
-    gi galima laiduoti už bet kokių įstatymų pastovumą ir pati­
-    kimumą? O vis dėlto Vilniuje, galingos valstybės sostinėje,
-    Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­
-    tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­
-    čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­
-    giję feodalinio valdymo principai.
-    Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
-    lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
-    nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su
-    valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,
-    13
-    Rygos miestas buvo įkurtas 1200
-    metais, ant kalno, vadinto Righe,
-    Dvinos pakrantėje, vyskupo Alber­
-    to fon Apeldemo, pasiųsto skleisti
-    krikščioniškąjį tikėjimą Livonijoje,
-    bet ten dar prieš aštuonerius metus
-    Bremeno pirkliai jau buvo pastaty­
-    dinę keletą namų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176326
-    - t-176343
-- c-035
-  santrauka: 'Gedimino vardu laiškus popiežiui, pajūrio miestams ir vienuoliams slapta parašė Rygos arkivyskupas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Juk suktybės ir melo jukinys
-    buvo taip gerai suregztas, kad pradžioje jo galų niekaip nega­
-    lima buvo aptikti. Tik po daugelio metų buvo atskleista ir visų
-    sužinota, jog ne kas kitas, o nenumaldomas Ordino priešas,
-    Rygos arkivyskupas, laiškus Gedimino vardu slapta buvo pa­
-    rašęs ir pasiuntęs popiežiui, pajūrio miestams ir vienuoliams,
-    idant gudrybe ir melu pasiektų savo tikslą - apjuodintų kry­
-    žiuočius popiežiaus rūmuose ir taip pelnytų savo ginčo su kry­
-    žiuočių Ordinu palankesnį sprendimą.
-    Arkivyskupui nieko kita neliko, tik tvirtai laikytis savojo
-    plano.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176344
-    - t-176367
-- c-037
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    50
-
-    ## Puslapis 67
-
-    I  KNYGA
-    las, kunigaikščių kapavietes padaręs ir savo Dievų šlovini­
-    mus rengęs. Taigi ta vietovė, žinia, jei ji buvo parinkta to­
-    kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­
-    ta ir gyvenama. Netgi pats Vilniaus vardas, paeinantis ne
-    nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios,
-    į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti
-    prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus
-    lydimais vertęs, kaip ir Gediminas keliasdešimt metų vė­
-    liau ant kalno statydinęs mūro tvirtovę, iškilusią jo viršūnė­
-    je, nieko daugiau nedarę, tik artinę Vilijos link ir plėtę seno­
-    vinę Vilniaus gyvenvietę, palei Vilnios, arba Vilnelės,
-    krantus nusidriekusią ir medinės pilies saugomą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176391
-- c-042
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ## Puslapis 88
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    mokyti ir atlikinėti visas bažnytines apeigas. Rašome apie
-    tai Jums, Šventasis Tėve, idant žinotume priežastis, per ku­
-    rias mūsų senoliai paliko šį pasaulį pagoniškoj klaidatiky-
-    bėj." Labai meldžia pagaliau Gediminas popiežių, kad at­
-    sižvelgtų į jo liūdną padėtį ir aiškiai pareiškia: „Esame
-    pasirengę, kaip ir kiti kunigaikščiai krikščionys, visame ka­
-    me klausyti jūsų valios ir priimti krikščioniškąjį tikėjimą,
-    kad tik neturėtume būti budeliams, tai yra Ordino Magist­
-    rui ir riteriams, už ką nors dėkingi"**.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176345
-- c-046
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Trečias ir itin svarbus laiškų netikrumo įrodymas yra
-    užuomina juose apie Mazoviją, kaip apie kraštą, per kurį
-    kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­
-    nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal. Taigi
-    tą Mazovijos kunigaikštį reikėtų laikyti buvus Lietuvos val­
-    dovo sąjungininku, sutartinai veikiančiu sprendžiant sve­
-    timšalių atvykimo reikalus. Tačiau Gediminas, jei galiu taip
-    sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik
-    1323 ir 1324 metais su plėšikaujančia ir viską naikinančia
-    97
-
-    ## Puslapis 114
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės žemę,
-    nepaprastai žiauriai siaubia gyventojus, kaip apie tai rašo
-    ne tik Dusburgas, p. 339 ir 350, bei Kojelavičius, p. 270, bet
-    byloja ir dokumentai, vienas kurių, 1323 metų (slaptame ar­
-    chyve Spinta XI, Nr. 18), be kita ko, apie Gediminą liudija:
-    quod nichil aliud quam vestrarum nostrarumque terrarum sub­
-    versionem sua dolosa calliditate pretendit, non solum ex multis
-    antiquis, verum et ex novis experimentis lamentosis novissime in
-    terra Dobrynen et confinibus Culmensibus patet et patuit prohdo-
-    lor evidenter!
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176347
-    - t-176397
-- c-062
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mažas upeliu­
-    kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­
-    lies ir Gedimino kalno šlaitus. Tokie kalnų pavadinimai,
-    pirmtakų duoti, iki šiol išlikę, iš senovės laikų perimta tra­
-    dicija; ir tas pilkapis, kaip žinia, kapavietė, tad labai tikėti­
-    na, jog tai yra netoli nuo Veliuonos, prie Bajerburgo pilies,
-    žuvusio Gedimino kapas. Dabar Veliuona priklauso dvari­
-    ninkui Mykolui Zaleskiui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176328
-- c-067
-  santrauka: 'Prie Veliuonos esantis Gedimino kalno pilkapis laikytas tikėtina Gedimino kapaviete.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ant pilkapio nuo neatme­
-    namų laikų visada būdavo statomas kryžius. Mažas upeliu­
-    kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­
-    lies ir Gedimino kalno šlaitus. Tokie kalnų pavadinimai,
-    pirmtakų duoti, iki šiol išlikę, iš senovės laikų perimta tra­
-    dicija; ir tas pilkapis, kaip žinia, kapavietė, tad labai tikėti­
-    na, jog tai yra netoli nuo Veliuonos, prie Bajerburgo pilies,
-    žuvusio Gedimino kapas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176373
-- c-071
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mat
-    atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui
-    apie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad
-    teiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­
-    nančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant
-    valdovo sumanymą. Atvykę taip pat Rygos miesto pasiun­
-    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
-    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
-    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
-    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
-    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
-    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
-    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
-    tvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties,
-    sudarytos Vilniuje, 1323 m., pirmąją savaitę po Šv.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-176371
-- c-076
-  santrauka: 'Narbutas rašo, kad 1329 m. Lietuvos didysis kunigaikštis Gediminas, puldamas vieną iš kryžiuočių pilių, buvo nukautas šaunamuoju ginklu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    XIV am­
-    žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
-    jos paimti, pasistatė priešais ją dvi pilis - Fridburgą ir Bajer-
-    burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
-    lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
-    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
-    kiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17
-    dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
-    buvo sunaikintos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198092
-- c-077
-  santrauka: 'Narbutas nurodo, kad Gediminas gimė 1257 m. iš pirmosios Vytenio žmonos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tuo
-    tarpu visuotiniame Lietuvos suvažiavime Kernavėje, vadovau­
-    2 Ar ne dabartinis Igumenis?
-    214
-
-    ## Puslapis 214
-
-    jant Trobiaus sūnui vienuoliui Laurui, Vytenis, išrinktas Lie­
-    tuvos didžiuoju kunigaikščiu, mirė 1315 metais, kelyje buvo
-    nutrenktas perkūno. Jis turėjo tris žmonas, kurios viena po
-    kitos mirė; iš pirmosios 1257 metais gimė Gediminas, iš ant­
-    rosios 1295 metais -  Gvaželutis ir 1296 metais -  Vainius. Tre­
-    čioji paliko bevaikė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198029
-- c-078
-  santrauka: 'Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietuvos ponai 1316 metų sausio mėnesį
-    Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą, kuris prieš
-    tai gyveno Ariogaloje ir valdė kunigaikščio žemes ir kaimenes
-    Žemaitijoje. Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­
-    čiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto
-    naudai. Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
-    Jaunę, o su jomis - septynis sūnus3.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198043
-- c-079
-  santrauka: 'Narbutas rašo, kad Lizdeika, gyvenęs Gedimino laikais, apie 1318 m. patarė įkurti Vilnių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Straips­
-    nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
-    buveinių vietos Lietuvoje. Jokiuose istorijos šaltiniuose neiš­
-    liko vardų šių garsių žmonių, kurių būta Lietuvoje, išskyrus
-    vienintelį Lizdeiką, gyvenusį Gedimino laikais, apie 1318 me­
-    tus patarusį įkurti Vilnių. Sako, kad jis paskutinis vyriausiasis
-    žynys, kuris dar gyveno, kai buvo griaunama Vilniaus Perkū­
-    no šventykla; tai įvyko praėjus 69 metams po minėtosios da­
-    tos, todėl turėjo būti jau labai senas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198028
-- c-080
-  santrauka: 'Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    304
-
-    ## Puslapis 304
-
-    tinai turi išaugti į didelį miestą, kadangi tą nuostabiai skati­
-    no ir vietos padėtis.
-    Lizdeika išaiškino sapną Gediminui po to, kai jis, nukovęs
-    didžiulį taurą ant aukščiausio kalno, stūksančio Antakalnio
-    link, -  išmanantys tėvynės istoriją dabar jį vadina Tauro kal­
-    nu -  nakvojo šventajame miške prie Vilnios ir Neries santa­
-    kos, vadintame Šventaragiu; jam prisisapnavo, kad matęs mil­
-    žinišką vilką, visą šarvuotą geležiniais šarvais, o jo viduje stau­
-    gę šimtas kitų vilkų. Tą naktį gretimame miške tikrai galėjo
-    kaukti vilkai, tad nedaug reikėjo, kad medžiotojui -  kunigaikš­
-    čiui -  kas nors panašaus prisisapnuotų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-198062
-- c-081
-  santrauka: 'Narbutas rašo, kad Gedimino kapas esąs prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai,
-    panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė­
-    nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma
-    kitame šio veikalo tome.
-    Kai kuriuos žymius žmones Lietuvoje kartais laidodavo
-    prie didelių akmenų, esančių laukuose. 1822 metais pasitaikė
-    aptikti kapą prie didoko akmens žemėje, priklausančioje ma­
-    no kaimeliui. Kaimiečiai nuolat kalbėdavo, kad po tuo akme­
-    niu esanti užkasta kažkokia seniena; pasak vienų, lobis, pasak
-    kitų, kažkokio atmintino žmogaus kūnas; tai rodo senų laikų
-    padavimai. Kai, dalyvaujant vienam senienų tyrėjui, liepiau
-    kasti, maždaug trijų uolekčių gylyje radome žmogaus skeletą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-- c-082
-  santrauka: 'Narbutas, remdamasis Strijkovskiu, mini, kad 1302 m. Gediminas suteikė herbą Krunevičiui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pa­
-    vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
-    kad pasakyta Neseckio „Herbyne“ (aiškino tik pagal piešinį ir iš
-    lotynų kalbos išvertė žodį „Lepus“), bet triušį, nes lietuvių kal­
-    boje žodis „ Kiniglis“ būtent tą ir reiškia *.
-    Nors pirmaujančios lietuvių giminės po Horodlės seimo
-    naudojosi antspaudais su lenkiškais herbais, vis dėlto vargin­
-    gesnį bajorai dar ilgai turėjo savo senovinius antspaudus. Juo­
-    se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
-    XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
-    dalo ir seno graviravimo signečių pėdsakas. Jose pastebime
-    arba mitologinius ženklus, arba pavaizduotus fetišus, arba die-
-    11 Skaityk straipsnį „Šventyklos”.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
 ## Citatos
 
 - id: c-00143
@@ -3496,19 +3247,15 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Lietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir
     čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo
     sūnų bei dukterų vedybomis.
-  citata_rodoma: |
-    Gediminas taip pat buvo pirmasis, kuris
-    prieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie
-    Lietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir
-    čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo
-    sūnų bei dukterų vedybomis.
+  citata_rodoma: "Gediminas taip pat buvo pirmasis, kuris\nprieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie\nLietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir\nčia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo\nsūnų bei dukterų vedybomis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10675
+    - t-094
+
 - id: c-00145
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3519,19 +3266,15 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir
     kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
     tuvą; visiems žadėjo savo globos ir paramos įsikurti.
-  citata_rodoma: |
-    1323 m. Gediminas parašė laiškų ne tik popiežiui, bet ir dau-
-    geliui Europos miestų. Per rygiečius jis kreipėsi į Hanzos mies-
-    tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir
-    kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
-    tuvą; visiems žadėjo savo globos ir paramos įsikurti.
+  citata_rodoma: "1323 m. Gediminas parašė laiškų ne tik popiežiui, bet ir dau-\ngeliui Europos miestų. Per rygiečius jis kreipėsi į Hanzos mies-\ntus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir\nkvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-\ntuvą; visiems žadėjo savo globos ir paramos įsikurti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10677
+    - t-095
+
 - id: c-00146
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3543,20 +3286,15 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     niuje kitais metais jis turėjo pasikalbėjimą su popiežiaus legatų
     pasiuntiniais dėl krikšto. Nuo to laiko Vilnius jau tapo nuolatine
     Lietuvos sostine.
-  citata_rodoma: |
-    Gediminas gyveno jau Vilniuje. Tais metais jau iš Vilniaus jis
-    rašė savo garsiuosius laiškus popiežiui ir vakarų Europos mies-
-    tams, iš Vilniaus jis derėjosi su Ryga ir su ordinu, pagaliau Vil-
-    niuje kitais metais jis turėjo pasikalbėjimą su popiežiaus legatų
-    pasiuntiniais dėl krikšto. Nuo to laiko Vilnius jau tapo nuolatine
-    Lietuvos sostine.
+  citata_rodoma: "Gediminas gyveno jau Vilniuje. Tais metais jau iš Vilniaus jis\nrašė savo garsiuosius laiškus popiežiui ir vakarų Europos mies-\ntams, iš Vilniaus jis derėjosi su Ryga ir su ordinu, pagaliau Vil-\nniuje kitais metais jis turėjo pasikalbėjimą su popiežiaus legatų\npasiuntiniais dėl krikšto. Nuo to laiko Vilnius jau tapo nuolatine\nLietuvos sostine."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10678
+    - t-096
+
 - id: c-11533
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3575,7 +3313,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193758
+    - t-108
+
 - id: c-41920
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3606,7 +3345,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176357
+    - t-059
+
 - id: c-56143
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3624,23 +3364,15 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
     priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
     ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55.
-  citata_rodoma: |
-    Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
-    Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
-    geros valios žmogui“, dominikonų  ir pranciškonų ordinams51, turėjo platų tarptautinį
-    atgarsį. Lietuvos valstybė sugebėjo pirmą kartą tokiu mastu kuriam laikui izoliuoti bei
-    sukompromituoti Kryžiuočių ordiną krikščioniškosios feodalinės Europos akivaizdoje.
-    Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
-    sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
-    Popiežius 1324 m. įsakė kryžiuočiams susilaikyti nuo bet kokių žygių prieš Gedimino
-    valstybę ir patvirtino šią sutartį53.
+  citata_rodoma: "Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems\nEuropos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam\ngeros valios žmogui“, dominikonų  ir pranciškonų ordinams51, turėjo platų tarptautinį\natgarsį. Lietuvos valstybė sugebėjo pirmą kartą tokiu mastu kuriam laikui izoliuoti bei\nsukompromituoti Kryžiuočių ordiną krikščioniškosios feodalinės Europos akivaizdoje.\nGedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos\nsutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.\nPopiežius 1324 m. įsakė kryžiuočiams susilaikyti nuo bet kokių žygių prieš Gedimino\nvalstybę ir patvirtino šią sutartį53."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176365
+    - t-081
+
 - id: c-56144
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3652,16 +3384,15 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     mėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija. Pastaroji
     pulta dėl to, kad buvo Ordino sąjungininkė. Vis dėlto nuo 1324 m. pabaigos kuriam
     laikui tarp Lietuvos ir Ordino nusistovėjo taika.
-  citata_rodoma: |
-    Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324
-    m. liepos mėn. puolama Kristmemelio pilis Nemuno žemupio kairiajame krante, lapkričio
-    mėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija.
+  citata_rodoma: "Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324\nm. liepos mėn. puolama Kristmemelio pilis Nemuno žemupio kairiajame krante, lapkričio\nmėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-082
+
 - id: c-56145
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3673,17 +3404,13 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     sprendimu Ordinas privalėjo grąžinti Pomeraniją, tačiau kryžiuočiai sprendimo nepripažino
     ir pateikė apeliaciją kurijai. Nuosprendis liko neįgyvendintas, bet pats procesas buvo
     nemažas politinis lenkų laimėjimas59.
-  citata_rodoma: |
-    Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).
-    Mazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus
-    kelius vakaruose ir šiaurėje blokavo Ordinas).
+  citata_rodoma: "Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).\nMazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus\nkelius vakaruose ir šiaurėje blokavo Ordinas)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-176332
 - id: c-56146
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3700,20 +3427,38 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties
     dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į
     Ordiną — tai „šventas sumanymas“ (III,284).
-  citata_rodoma: |
-    Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
-    bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai
-    nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia. Kronikininkas teigia, kad
-    pats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas
-    klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo
-    pagrindą147.
+  citata_rodoma: "Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik\nbendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai\nnukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia. Kronikininkas teigia, kad\npats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas\nklastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo\npagrindą147."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176348
+    - t-086
+
+- id: c-160335
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų
+    pakartą išdaviką, bet vis tiek puolė tvirtovę. 22 dienas tęsėsi
+    apsuptis, o dviejų poilsio dienų metu į pagalbą apsuptie­
+    siems atvyko Ordino maršalas Henrikas Duseneris ir Reino
+    palatinas su stipriom pajėgom. Įgula su pagalbininkais be­
+    mat susiruošė pulti ir užpuolė Gedimino stovyklą. Gedimi­
+    nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno
+    Zunpacho, šaulių vado, ugninio šūvio, buvo sužeistas tarp
+    kaklo ir mentikaulio ir netrukus mirė, o jo kariauna buvo
+    išvaikyta*.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-047
+
 - id: c-160336
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3733,7 +3478,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176327
+    - t-053
+
 - id: c-160337
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3753,7 +3499,37 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176366
+    - t-051
+
+- id: c-160338
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Gedimi­
+    no viešpatavimas Lietuvai anuomet buvo tokia pat epocha,
+    kokia Lenkijai buvo Boleslovo Didžiojo, o Henriko Paukšti-
+    ninko - Vokietijai.
+    Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­
+    nėtinai svarbiu prekybos centru; Lietuvoje ligi šiol yra išli­
+    kusių svarbių jo privilegijų Rygos pirkliams pėdsakų; ir be
+    Rygos buvę sąjungoje su juo ir kurį laiką jam priklausę Psko­
+    vas bei Naugardas ne mažesnę globą patyrė. Iš Rusios,
+    Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę
+    23
+    Mažesnieji broliai (pranciškonų
+    atšaka).
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-063
+    - t-064
+    - t-066
+    - t-022
+
 - id: c-160339
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3772,7 +3548,50 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05172
+    - t-013
+
+- id: c-160340
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­
+    konams ir dominikonams, prie Vilniaus pilies pastatydino
+    jiems vienuolynus ir bažnyčias, o kad krašte plistų amatai,
+    leido naujai įkurtame mieste apsigyventi gausiems atėjū­
+    nams iš Vokietijos ir Lenkijos
+    9
+    Manome, kad Pilies kalnas senų se­
+    novėje buvo gerokai mažesnė kalva,
+    užbaigianti virtinę kalnų, juosiančių
+    Vilnelės vorupę, kuri seniau toje mi­
+    nėtosios kalvos pusėje įtekėjo į Vili­
+    ją. Gediminas, statydindamas pilį
+    karo belaisvių iš Rusios rankomis,
+    iškasęs Vilnelei kitą vagą, kurią da­
+    bar matome, ten išraustomis žemė­
+    mis paaukštino paskuoją pilies kal­
+    vą ir gal ją iš karto visai vandeniu
+    užtvindė, juk anuomet visas lietuvių
+    pilis buvo stengiamasi apsupti van­
+    deniu. Iki šiol Palenkėję tarp vieti­
+    nių žmonių sklinda padavimas, esą
+    senovės laikais iš ten eidavę į Vilnių
+    kalnų kasti. Mūsų nuomonę, kad pi­
+    lies kalno didesnė dalis yra ne natū­
+    raliai susidariusi, bet supilta, patvir­
+    tina ne tik jo sandaros ir formos
+    stebėjimai, bet ir vėlesnis Vytauto
+    laikų įvykis, apie kurį papasakosi­
+    me toliau.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
+
 - id: c-160341
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3808,8 +3627,48 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176359
-    - t-176363
+    - t-031
+    - t-067
+    - t-028
+
+- id: c-160342
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    O dabar, šventasis ir garbingasis tėve,
+    labai prašome atkreipti savo dėmesį į mūsų apverktiną būk­
+    lę, nes mes, kaip ir kiti krikščionių karaliai, esame pasirengę
+    visuose dalykuose jums paklusti ir priimti krikščionių tikė­
+    jimą, kad tik mūsų nevargintų anksčiau minėtieji kankinto­
+    jai, būtent, minėtasis magistras ir broliai.
+    87
+
+    ## Puslapis 104
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­
+    monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
+    nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
+    dimino, bet nei su jo žinia, nei jo valia parašyti. Rygos
+    arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir
+    išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo
+    melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių
+    ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą
+    ginče su kryžiuočiais.
+  citata_rodoma: "87\n\n## Puslapis 104\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nMūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­\nmonę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­\nnams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­\ndimino, bet nei su jo žinia, nei jo valia parašyti. Rygos \narkivyskupas, Gedimino vardu prisidengęs, juos parengė ir \nišsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo \nmelu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių \nordiną ir per tai pelnytų sau palankų popiežiaus sprendimą \nginče su kryžiuočiais."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-045
+    - t-097
+    - t-046
+    - t-037
+    - t-032
+
 - id: c-160343
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3827,7 +3686,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05175
+    - t-001
+    - t-016
+
 - id: c-160344
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3870,51 +3731,66 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     no Vilniumi pagal Vilnios upės vardą.
     h i
     XI Knyga, sk.
-  citata_rodoma: |
-    48
-
-    ## Puslapis 65
-
-    I  KNYGA
-    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
-    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
-    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
-    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
-    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
-    nuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­
-    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
-    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
-    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
-    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
-    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
-    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
-    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
-    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
-    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
-    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
-    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
-    imperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­
-    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
-    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
-    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­
-    deika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas,
-    išaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi
-    apkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­
-    tuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­
-    bę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks
-    šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­
-    kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro
-    pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­
-    no Vilniumi pagal Vilnios upės vardą.
+  citata_rodoma: "48\n\n## Puslapis 65\n\nI  KNYGA\nStrijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­\nčius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­\ndami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas, \npo Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­\ndangino su visu guotu į Šventaragio slėnį, už keturių mylių \nnuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­\nnas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­\nkurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina, \nmedžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­\nnės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar \nVilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­\nnu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­\ntingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto \nlaikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir \nsvetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­\nną jų tad kaip didžią dovaną kartą garbingame valdovų ir \nkunigaikščių suvažiavime Lucke 1429 metais įteikė Romos \nimperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­\nnas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne \nregėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­\nvęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­\ndeika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas, \nišaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi \napkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­\ntuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­\nbę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks \nšio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­\nkas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro \npilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­\nno Vilniumi pagal Vilnios upės vardą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176329
-    - t-176370
-    - t-176400
+    - t-003
+    - t-072
+    - t-025
+    - t-044
+    - t-098
+
+- id: c-160345
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    «Lietuviai iš
+    Žemaičių » puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą.
+    Gediminas buvo ne tik karys, bet ir valstybininkas. Šalia
+    kardo jis veikė ir diplomatija.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
+- id: c-160346
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Dar niekas nenutuokė juos buvus
+    kunigaikščio gudrybe ir apgaule, ypač, kai greitai kitas išti­
+    ko dalykas, kurio tikslų irgi negalima buvo suprasti. Mat
+    atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui
+    apie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad
+    teiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­
+    nančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant
+    valdovo sumanymą. Atvykę taip pat Rygos miesto pasiun­
+    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
+    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
+    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
+    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
+    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
+    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
+    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
+    tvirtintą.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-068
+    - t-035
+
 - id: c-160347
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3937,7 +3813,41 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176387
+    - t-045
+    - t-019
+    - t-044
+    - t-073
+    - t-075
+    - t-061
+
+- id: c-160348
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    2
+    2) Gediminas, dievo malone lietuvių ir rusų karalius,
+    Žemgalijos valdovas ir kunigaikštis, gerbiamiems vyrams,
+    rūpestingiems ir garbingiems Liubeko, Rostoko, Zundo,
+    Greifsvaldo, Štetino ir Gotlando [miestų] reikalų valdyto­
+    jams, tarėjams ir piliečiams, pirkliams ir bet kokios padėties
+    amatininkams [siunčia] pasveikinimą ir savo karališką ma­
+    lonę bei palankumą.
+    Kadangi visos karalystės, iš kurių vieną mes valdome,
+    yra pavaldžios dangaus karaliui Jėzui Kristui tokiu būdu,
+    kaip forma materijai, o vergas namams, tai, nors iš visų ka­
+    ralių esame menkiausias [svetur], tačiau dievo apvaizda di­
+    džiausias savajame krašte, kur turime galią duoti nurody­
+    mus ir įsakinėti, pasmerkti ir pasigailėti, uždaryti ir atverti.
+    Pagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­
+    mo, kad aplankytumėte Naugardą, Pskovą; visa tai jums
+    leidome dėl busimosios naudos.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-160350
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3958,7 +3868,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176322
+    - t-056
+
 - id: c-160352
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3979,8 +3890,32 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05167
-    - t-05170
+    - t-001
+    - t-016
+
+- id: c-160353
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
+    golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors
+    Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-
+    das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
+    Vytautas nustojo mokėti mongolams duoklę). Panašu, kad LDK rusiš-
+    kosios žemės buvo Lietuvos ir Aukso ordos kondominiumas – bendra
+
+    L I E T U V O S  I S T O R I J A
+    38
+    valda.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-058
+
 - id: c-160354
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4000,26 +3935,85 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­
     dijančių juos Rygos arkivyskupo prasimanymu ir klastote
     esant.
-  citata_rodoma: |
-    Vėliau viskas byloja, jog Gediminas per pasiun­
-    tinius nurodė, kaip sako Jerošinas, garantuoti, kad
-    niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­
-    jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir
-    popiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­
-    kada nebuvo dėl jų suabejojęs.
-    Jeigu su atida peržvelgsime laiškus, Gedimino vardu
-    rašytus dominikonų ordinui, minoritams ir Vokietijos mies­
-    tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­
-    dijančių juos Rygos arkivyskupo prasimanymu ir klastote
-    esant.
+  citata_rodoma: "Vėliau viskas byloja, jog Gediminas per pasiun­\ntinius nurodė, kaip sako Jerošinas, garantuoti, kad\nniekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­\njami jokie laiškai kokiems nors miestams ar šalims, sykiu ir\npopiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­\nkada nebuvo dėl jų suabejojęs.\nJeigu su atida peržvelgsime laiškus, Gedimino vardu\nrašytus dominikonų ordinui, minoritams ir Vokietijos mies­\ntams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­\ndijančių juos Rygos arkivyskupo prasimanymu ir klastote\nesant."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176324
-    - t-176356
+    - t-040
+    - t-070
+
+- id: c-160355
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pirmąjį Vilniaus paminėjimą, pirmą autentišką
+    paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
+    abejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­
+    niuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­
+    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
+    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
+    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
+    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
+    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
+    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
+    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
+    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
+    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad
+    iš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­
+    tų vėlesnio susijungimo ir galios pirmosios gijos.
+  citata_rodoma: "Dar didesnis garsas apie Vilnių pasklido 1325 me­\ntais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo\nlaisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­\nria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­\nnu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino\nduktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad\niš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­\ntų vėlesnio susijungimo ir galios pirmosios gijos."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-069
+    - t-063
+    - t-064
+
+- id: c-160356
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Įgu­
+    la gynė sienas nepaprastai narsiai ir vokiečius, nepaisant jų
+    66
+
+    ## Puslapis 83
+
+    I  KNYGA
+    sunkiųjų ginklų, atrėmė, bet kai rytojaus dieną ruošėsi nau­
+    joms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­
+    dami, kad sutiksią paklusti Ordinui. Vos tik kryžiuočiai at­
+    sitolino, Gediminas jėga privertė juos sulaužyti duotą žodį ir
+    atsisakyti priklausomybės Ordino valdžiai.
+    Tas valdovas po pergalingų žygių, tikriausiai todėl, kad
+    kryžiuočiai tolydžio artinosi, nuo Rytų atsigręžė į Vakarus
+    ir į juos nukreipė savo kruviną kardą. Kol vokiečių kariau­
+    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
+    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
+    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
+    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
+    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
+    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
+    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
+    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
+    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-097
+    - t-032
+
 - id: c-160357
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4040,7 +4034,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176368
+    - t-085
+
 - id: c-160358
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4065,7 +4060,48 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176377
+    - t-076
+
+- id: c-160359
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Betgi toje epochoje, kai naujos civilizacijos
+    spinduliai Lietuvos žemėje buvo tik pradėję blykčioti, kai,
+    nepaisant Lietuvos valdovų išmintingų siekių, karo reikalai
+    ir užgrobimai labiau už įstatymų leidimą ar krašto valdy­
+    mą visiems rūpėjo, dar skendint barbariškų laikų tamsoj ar­
+    gi galima laiduoti už bet kokių įstatymų pastovumą ir pati­
+    kimumą? O vis dėlto Vilniuje, galingos valstybės sostinėje,
+    Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­
+    tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­
+    čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­
+    giję feodalinio valdymo principai.
+    Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
+    lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
+    nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su
+    valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,
+    13
+    Rygos miestas buvo įkurtas 1200
+    metais, ant kalno, vadinto Righe,
+    Dvinos pakrantėje, vyskupo Alber­
+    to fon Apeldemo, pasiųsto skleisti
+    krikščioniškąjį tikėjimą Livonijoje,
+    bet ten dar prieš aštuonerius metus
+    Bremeno pirkliai jau buvo pastaty­
+    dinę keletą namų.
+  citata_rodoma: "O vis dėlto Vilniuje, galingos valstybės sostinėje, \nGedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­\ntės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­\nčionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­\ngiję feodalinio valdymo principai.\nPo Gedimino, nužudyto 1337 metais prie Bajerburgo pi­\nlies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­\nnutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su \nvaldovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,\n13\nRygos miestas buvo įkurtas 1200 \nmetais, ant kalno, vadinto Righe, \nDvinos pakrantėje, vyskupo Alber­\nto fon Apeldemo, pasiųsto skleisti \nkrikščioniškąjį tikėjimą Livonijoje, \nbet ten dar prieš aštuonerius metus \nBremeno pirkliai jau buvo pastaty­\ndinę keletą namų."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-024
+    - t-065
+    - t-072
+
 - id: c-160360
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4092,8 +4128,10 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176353
-    - t-176372
+    - t-072
+    - t-074
+    - t-044
+
 - id: c-160361
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4126,9 +4164,37 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176374
-    - t-176393
-    - t-194226
+    - t-030
+    - t-029
+    - t-066
+    - t-110
+
+- id: c-160362
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Juk suktybės ir melo jukinys
+    buvo taip gerai suregztas, kad pradžioje jo galų niekaip nega­
+    lima buvo aptikti. Tik po daugelio metų buvo atskleista ir visų
+    sužinota, jog ne kas kitas, o nenumaldomas Ordino priešas,
+    Rygos arkivyskupas, laiškus Gedimino vardu slapta buvo pa­
+    rašęs ir pasiuntęs popiežiui, pajūrio miestams ir vienuoliams,
+    idant gudrybe ir melu pasiektų savo tikslą - apjuodintų kry­
+    žiuočius popiežiaus rūmuose ir taip pelnytų savo ginčo su kry­
+    žiuočių Ordinu palankesnį sprendimą.
+    Arkivyskupui nieko kita neliko, tik tvirtai laikytis savojo
+    plano.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-036
+    - t-034
+    - t-069
+
 - id: c-160363
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4140,10 +4206,42 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     1324 m. jis derėjosi su totoriais savo naujoje sostinėje Vilniuje.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-160367
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    50
+
+    ## Puslapis 67
+
+    I  KNYGA
+    las, kunigaikščių kapavietes padaręs ir savo Dievų šlovini­
+    mus rengęs. Taigi ta vietovė, žinia, jei ji buvo parinkta to­
+    kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­
+    ta ir gyvenama. Netgi pats Vilniaus vardas, paeinantis ne
+    nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios,
+    į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti
+    prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus
+    lydimais vertęs, kaip ir Gediminas keliasdešimt metų vė­
+    liau ant kalno statydinęs mūro tvirtovę, iškilusią jo viršūnė­
+    je, nieko daugiau nedarę, tik artinę Vilijos link ir plėtę seno­
+    vinę Vilniaus gyvenvietę, palei Vilnios, arba Vilnelės,
+    krantus nusidriekusią ir medinės pilies saugomą.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-027
+
 - id: c-160369
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4159,7 +4257,28 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176352
+    - t-004
+
+- id: c-160370
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Nors nebus nė vieno kunigaikščio,
+    kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
+    leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
+    nuo krikščionybės. Lietuva liks savarankiška civilizacinė monada, todėl
+    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
+    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
+    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-050
+
 - id: c-160371
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4178,7 +4297,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176386
+    - t-039
+
 - id: c-160374
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4200,28 +4320,47 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs
     jam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337
     metų birželio 15 d., sustojo ties Bajerburgu.
-  citata_rodoma: |
-    Į tą rūsį
-    landa buvo tokia, kad tik po vieną žmogų tegalėjo įeiti, vei­
-    kiausiai tai buvo pilies kalėjimas. Pasak Prūsijos metrašti­
-    ninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi
-    priešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai
-    102
-
-    ## Puslapis 119
-
-    I  KNYGA
-    vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs
-    jam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337
-    metų birželio 15 d.
+  citata_rodoma: "Į tą rūsį \nlanda buvo tokia, kad tik po vieną žmogų tegalėjo įeiti, vei­\nkiausiai tai buvo pilies kalėjimas. Pasak Prūsijos metrašti­\nninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi \npriešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai\n102\n\n## Puslapis 119\n\nI  KNYGA\nvienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs \njam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337 \nmetų birželio 15 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176346
-    - t-176354
+    - t-046
+    - t-074
+    - t-044
+    - t-075
+
+- id: c-160375
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    ## Puslapis 88
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    mokyti ir atlikinėti visas bažnytines apeigas. Rašome apie
+    tai Jums, Šventasis Tėve, idant žinotume priežastis, per ku­
+    rias mūsų senoliai paliko šį pasaulį pagoniškoj klaidatiky-
+    bėj." Labai meldžia pagaliau Gediminas popiežių, kad at­
+    sižvelgtų į jo liūdną padėtį ir aiškiai pareiškia: „Esame
+    pasirengę, kaip ir kiti kunigaikščiai krikščionys, visame ka­
+    me klausyti jūsų valios ir priimti krikščioniškąjį tikėjimą,
+    kad tik neturėtume būti budeliams, tai yra Ordino Magist­
+    rui ir riteriams, už ką nors dėkingi"**.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-062
+    - t-065
+    - t-034
+    - t-078
+    - t-066
+
 - id: c-160376
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4235,21 +4374,16 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
     m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
     naujas įpėdinis.
-  citata_rodoma: |
-    Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­
-    gaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­
-    vinės rusų kalbos.
-    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
-    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
-    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
-    m.
+  citata_rodoma: "Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­\ngaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­\nvinės rusų kalbos.\nPats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne\ntik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke\nLietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330\nm."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176360
+    - t-011
+    - t-005
+
 - id: c-160377
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4269,7 +4403,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176325
+    - t-018
+
 - id: c-160378
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4287,13 +4422,112 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176375
+    - t-089
+
+- id: c-160379
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Trečias ir itin svarbus laiškų netikrumo įrodymas yra
+    užuomina juose apie Mazoviją, kaip apie kraštą, per kurį
+    kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­
+    nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal. Taigi
+    tą Mazovijos kunigaikštį reikėtų laikyti buvus Lietuvos val­
+    dovo sąjungininku, sutartinai veikiančiu sprendžiant sve­
+    timšalių atvykimo reikalus. Tačiau Gediminas, jei galiu taip
+    sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik
+    1323 ir 1324 metais su plėšikaujančia ir viską naikinančia
+    97
+
+    ## Puslapis 114
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės žemę,
+    nepaprastai žiauriai siaubia gyventojus, kaip apie tai rašo
+    ne tik Dusburgas, p. 339 ir 350, bei Kojelavičius, p. 270, bet
+    byloja ir dokumentai, vienas kurių, 1323 metų (slaptame ar­
+    chyve Spinta XI, Nr. 18), be kita ko, apie Gediminą liudija:
+    quod nichil aliud quam vestrarum nostrarumque terrarum sub­
+    versionem sua dolosa calliditate pretendit, non solum ex multis
+    antiquis, verum et ex novis experimentis lamentosis novissime in
+    terra Dobrynen et confinibus Culmensibus patet et patuit prohdo-
+    lor evidenter!
+  citata_rodoma: "Tačiau Gediminas, jei galiu taip\nsakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik\n1323 ir 1324 metais su plėšikaujančia ir viską naikinančia\n97\n\n## Puslapis 114\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nginkluota kariauna įsiveržia į Mazoviją ir Dobrynės žemę,\nnepaprastai žiauriai siaubia gyventojus, kaip apie tai rašo\nne tik Dusburgas, p."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-043
+    - t-071
+
+- id: c-160380
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ir kaip tik
+    70
+
+    ## Puslapis 87
+
+    I  KNYGA
+    Kai plėšikaujančių lietuvių gaujos, dažniausiai valdovo
+    numylėtinių ir bičiulių vedamos, su laukiniu įniršiu šitaip
+    niokojo krikščionių žemes, Prūsijoje pasklido gandas, jog ka­
+    ralius Gediminas į visas šalis išsiuntinėjo laiškus, skelbda­
+    mas apie savo norą priimti krikštą ir prisijungti prie tikinčių­
+    jų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta.
+    Viename jų, skirtame popiežiui ir kardinolams, Gediminas
+    prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta
+    būtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist­
+    ro smurtas ir nesuskaičiuojamos išdavystės greit privertu-
+    sios nuo jo atsimesti, todėl jis vėl likęs prie savo tėvų tikėji­
+    mo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos
+    arkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­
+    riai nužudyti.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-033
+
+- id: c-160381
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Gediminas, supamas tokių įvairių kaimyninio val­
+    dymo elementų, savo valstybėje turėdamas net dvi skirtin­
+    gų kalbų ir religijų, lietuvių ir rusų, tautas, savo naujos, per
+    jį iškilusios, monarchijos galią grindė tvirtesne negu buvo
+    ligi šiol kunigaikščių, įvairiais laikais pajungtų, sąjunga ir
+    abiejų tautų riterių priklausomybe aukščiausiajai jo feodali­
+    nei valdžiai. Vilnius, Gedimino dėka nuo mažos gyvenvie­
+    tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos
+    karalystės sostine. Valstybėje nusistovėjus leninio valdymo
+    principams, Gedimino veiklumo ir didžių jo politinių sie­
+    kių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;
+    Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios
+    tvarkos, kokia buvo ir kitur.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
+
 - id: c-160383
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    1253 VII 6
+    1253 VII 6 
     susikūrusios Lietuvos valstybės valdovas Mindaugas vainikuojasi
     karaliumi.
     1316–1341
@@ -4306,7 +4540,35 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176342
+    - t-048
+
+- id: c-160384
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Notariats-Instrument, parengtame 1323 metais Liubeke: Si­
+    gillum vero huiusmodi litteris appensum erat rotundum cereum,
+    continens circulum duodecim angulorum et in medio circuli yma-
+    ginem viri capillati residentis in Cathedra, continentis in manu
+    dextra coronam et ceptrum in sinistra, et in circumferenda eius
+    per quadraginta unam litteras et cruce sculptum erat: S. dei gra-
+    cia Gedemini lethvinorum et ruthenor. reg. [O prie šio laiško
+    buvo prikabintas apvalus vaško antspaudas su dvylikos
+    kampų apvadu, o šio apvado centre atvaizdas ilgais plau­
+    kais vyro, sėdinčio soste, dešinėje rankoje laikančio karūną
+    ir kairėje - skeptrą, aplink jį išskaptuota keturiasdešimt vie­
+    na raidė ir kryžius: Šv. Dievo malone Gedimino lietuvių ir
+    rusų karaliaus].
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-041
+    - t-071
+
 - id: c-160387
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4323,8 +4585,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176333
-    - t-197081
+    - t-084
+    - t-122
+
 - id: c-160388
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4351,7 +4614,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176336
+    - t-088
+
 - id: c-160390
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4363,17 +4627,15 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     mėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija. Pastaroji
     pulta dėl to, kad buvo Ordino sąjungininkė. Vis dėlto nuo 1324 m. pabaigos kuriam
     laikui tarp Lietuvos ir Ordino nusistovėjo taika.
-  citata_rodoma: |
-    Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324
-    m. liepos mėn. puolama Kristmemelio pilis Nemuno žemupio kairiajame krante, lapkričio
-    mėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija.
+  citata_rodoma: "Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324\nm. liepos mėn. puolama Kristmemelio pilis Nemuno žemupio kairiajame krante, lapkričio\nmėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176335
+    - t-082
+
 - id: c-160395
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4389,7 +4651,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05169
+    - t-010
+
 - id: c-160396
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4410,28 +4673,22 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
     nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
     duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo.
-  citata_rodoma: |
-    Pirmąjį Vilniaus paminėjimą, pirmą autentišką
-    paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
-    abejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­
-    niuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­
-    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
-    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
-    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
-    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
-    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
-    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
-    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
-    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
-    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo.
+  citata_rodoma: "Pirmąjį Vilniaus paminėjimą, pirmą autentišką\npaliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be\nabejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­\nniuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­\ngos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­\npitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip\npat su Vokiečių ordino Livonijoje magistru ir broliais - iš\nkitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­\ntais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo\nlaisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­\nria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­\nnu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino\nduktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176334
-    - t-176339
+    - t-003
+    - t-062
+    - t-020
+    - t-069
+    - t-025
+    - t-030
+    - t-063
+    - t-064
+
 - id: c-160397
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4446,21 +4703,15 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau
     linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso
     ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m.
-  citata_rodoma: |
-    Mindaugo laikais
-    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
-    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
-    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-    Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau
-    linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso
-    ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m.
+  citata_rodoma: "Mindaugo laikais \nprie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-\nkais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-\nnė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos. \nKijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau \nlinkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso \nordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176401
+    - t-057
+
 - id: c-160398
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4482,7 +4733,10 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176382
+    - t-070
+    - t-077
+    - t-027
+
 - id: c-160401
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4501,7 +4755,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176331
+    - t-055
+    - t-051
+
 - id: c-160403
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4534,7 +4790,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176388
+    - t-084
+    - t-080
+
 - id: c-160405
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4551,7 +4809,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05176
+    - t-017
+
 - id: c-160406
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4570,7 +4829,29 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05174
+    - t-015
+
+- id: c-160407
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mažas upeliu­
+    kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­
+    lies ir Gedimino kalno šlaitus. Tokie kalnų pavadinimai,
+    pirmtakų duoti, iki šiol išlikę, iš senovės laikų perimta tra­
+    dicija; ir tas pilkapis, kaip žinia, kapavietė, tad labai tikėti­
+    na, jog tai yra netoli nuo Veliuonos, prie Bajerburgo pilies,
+    žuvusio Gedimino kapas. Dabar Veliuona priklauso dvari­
+    ninkui Mykolui Zaleskiui.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-045
+
 - id: c-160408
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4592,7 +4873,31 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176323
+    - t-038
+    - t-043
+
+- id: c-160409
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Gal todėl, kad daugybė Ordino
+    riterių, būtent, Ordino kunigas Jonas Rygietis, Vendeno
+    komtūras Reimaras fon Hanė, Karkuso valdytojas (Vogt) Mi­
+    kalojus fon Parsau ir Gotfridas fon Ustas (Ost) buvo Liube­
+    ke ir galėjo užginčyti šį tvirtinimą? Pagaliau kam visuose
+    trijuose laiškuose kartojama, kad tas pats antspaudas buvo
+    uždėtas ir ant laiško popiežiui. Visa tai susumavus, atrodo,
+    kad tas antspaudas nebuvo tikras Gedimino antspaudas, bet
+    suklastotas.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-042
+
 - id: c-160410
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4610,7 +4915,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176395
+    - t-093
+
 - id: c-160411
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4631,7 +4937,30 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176361
+    - t-078
+    - t-066
+
+- id: c-160412
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ant pilkapio nuo neatme­
+    namų laikų visada būdavo statomas kryžius. Mažas upeliu­
+    kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­
+    lies ir Gedimino kalno šlaitus. Tokie kalnų pavadinimai,
+    pirmtakų duoti, iki šiol išlikę, iš senovės laikų perimta tra­
+    dicija; ir tas pilkapis, kaip žinia, kapavietė, tad labai tikėti­
+    na, jog tai yra netoli nuo Veliuonos, prie Bajerburgo pilies,
+    žuvusio Gedimino kapas.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-045
+
 - id: c-160413
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4651,7 +4980,47 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176399
+    - t-018
+    - t-061
+
+- id: c-160414
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Hac littera lecta et exscripta a magistro et prioribus
+    54
+
+    ## Puslapis 71
+
+    I  KNYGA
+    1) Gediminas*, dievo malone lietuvių ir rusų karalius,
+    Žemgalijos valdovas ir kunigaikštis, mokytiems ir pamal­
+    diems vyrams, bet kurios dominikonų provincijos magist­
+    rams ir priorams, visiems broliams, tačiau visų pirma Sak­
+    sonijos magistrui ir jam pavaldiems priorams [siunčia]
+    sveikinimą ir kuo geriausių linkėjimų.
+    Težino jūsų garbingasis, įtakingasis bei mokytasis [as­
+    muo], jog mes pasiuntėme savo pasiuntinius su laišku mū­
+    sų tėvui, garsingajam viešpačiui popiežiui Jonui, kad jis mus
+    apvilktų pirmuoju krikšto rūbu; jo pasiuntinių diena iš die­
+    nos laukiame su dideliu būkštavimu ir nekantrumu, nes vieš­
+    paties Jėzaus Kristaus laiminimu jau būsime pasirengę [įvyk­
+    dyti] kiekvieną jo valios pageidavimą.
+    Todėl norime susikviesti vyskupų, kunigų, vienuolių, iš­
+    skyrus tuos, kurie pardavinėja savo vienuolynus ir rengia
+    dvasininkų žudynes. Mes esame pasirengę saugoti bažny­
+    čios teisę, gerbti dvasininkus ir plėsti dievo garbinimą.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-067
+    - t-028
+    - t-029
+
 - id: c-160416
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4677,7 +5046,40 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176337
+    - t-049
+
+- id: c-160419
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mat
+    atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui
+    apie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad
+    teiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­
+    nančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant
+    valdovo sumanymą. Atvykę taip pat Rygos miesto pasiun­
+    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
+    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
+    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
+    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
+    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
+    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
+    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
+    tvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties,
+    sudarytos Vilniuje, 1323 m., pirmąją savaitę po Šv.
+  citata_rodoma: "Mat\natvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui\napie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad\nteiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­\nnančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant\nvaldovo sumanymą. Atvykę taip pat Rygos miesto pasiun­\ntiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­\nterių, vyskupų ir Livonijos miestų tarpininkauti sudarant\ntaiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,\nrašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas\njį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­\nimta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­\ntį, ištisai visą abiejų besitariančių pusių priesaikomis pa­\ntvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties,\nsudarytos Vilniuje, 1323 m."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-036
+    - t-068
+    - t-069
+    - t-035
+
 - id: c-166925
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4697,10 +5099,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     nuo krikščionybės.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-049
+
 - id: c-168060
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -4746,48 +5150,16 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     grobį, o kitoje pusėje Livonijos kryžiuočiai atėmė iš
     lietuvių tą Žemaitijos pakraštį, kuris dabar vadinamas
     Kuršu.
-  citata_rodoma: |
-    To­
-    dėl ir manau, kad dingstį šitokiems svetimšalių post­
-    ringavimams apie Gediminą davęs Pelužis, pirmųjų
-    valdovų įpėdinis, nors ir ištremtas iš Lietuvos, bet at­
-    kakliai savinęsis didžiojo kunigaikščio vardą ir kry­
-    žiuočių remiamas labai kenkęs savo tėvynei; norėda­
-    mas sukelti užuojautą dėl savo padėties, jis niekinamai
-    vadinęs Gediminą Vytenio arklininko sūnumi; Vytenį
-    esą jo paties valdinys Gediminas, kitados savo valdo­
-    vų arklininkas, nugalėjęs ir nužudęs. Tuo tarpu rusų
-    metraštininkai, kurie šią savo priešams lietuviams pri­
-    kišamą nuodėmę vargu ar būtų nutylėję ir kurie savo
-    amžiaus įvykius, tai yra visa, kas dėjosi jų akyse, iš
-    G edim in as,
-    V y te n io
-    sūnus,
-    p a v e ld i
-    v a l­
-    džią
-    Neišmanantys reikalo es­
-    mės ar dėl to, kad gyveno
-    toli nuo vietų, kur šitai dė­
-    josi, ar dėl to, kad nuo ap-
-    m
-
-    ## Puslapis 193
-
-    arti matė ir, patikimai atpasakoję, paliko ateinančioms
-    kartoms, lyg susitarę tvirtina, jog Gediminas buvo iš­
-    rinktas į savo tėvo Vytenio sostą pritariant ir palai­
-    kant visiems luomams. Jo valdymo pradžia, Prūsijos
-    bei Livonijos kryžiuočiams stojus į karą, buvo ne tik
-    nerami, bet ir liūdna.
+  citata_rodoma: "To­\ndėl ir manau, kad dingstį šitokiems svetimšalių post­\nringavimams apie Gediminą davęs Pelužis, pirmųjų\nvaldovų įpėdinis, nors ir ištremtas iš Lietuvos, bet at­\nkakliai savinęsis didžiojo kunigaikščio vardą ir kry­\nžiuočių remiamas labai kenkęs savo tėvynei; norėda­\nmas sukelti užuojautą dėl savo padėties, jis niekinamai\nvadinęs Gediminą Vytenio arklininko sūnumi; Vytenį\nesą jo paties valdinys Gediminas, kitados savo valdo­\nvų arklininkas, nugalėjęs ir nužudęs. Tuo tarpu rusų\nmetraštininkai, kurie šią savo priešams lietuviams pri­\nkišamą nuodėmę vargu ar būtų nutylėję ir kurie savo\namžiaus įvykius, tai yra visa, kas dėjosi jų akyse, iš\nG edim in as,\nV y te n io\nsūnus,\np a v e ld i\nv a l­\ndžią\nNeišmanantys reikalo es­\nmės ar dėl to, kad gyveno\ntoli nuo vietų, kur šitai dė­\njosi, ar dėl to, kad nuo ap-\nm\n\n## Puslapis 193\n\narti matė ir, patikimai atpasakoję, paliko ateinančioms\nkartoms, lyg susitarę tvirtina, jog Gediminas buvo iš­\nrinktas į savo tėvo Vytenio sostą pritariant ir palai­\nkant visiems luomams. Jo valdymo pradžia, Prūsijos\nbei Livonijos kryžiuočiams stojus į karą, buvo ne tik\nnerami, bet ir liūdna."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184699
-    - t-198049
+    - t-100
+    - t-109
+
 - id: c-168061
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -4813,8 +5185,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184700
-    - t-196455
+    - t-101
+    - t-115
+
 - id: c-168063
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -4840,25 +5213,150 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     vėliau Vladislovui kariauti
     su Voldemaru, Brandenburgo
     markgrafu.
-  citata_rodoma: |
-    Kuo greičiausiai ir kuo ryžtingiausiai
-    reikią kelti kalaviją prieš tuos, kurie iš arti graso, o
-    su tolesniais, suėjus į tariamą draugystę, nesunkiai bū­
-    sią galima ramiai gyventi. Išsiuntė į Lietuvą pasiun­
-    tinius, turėjusius prašyti Gedimino dukters Aldonos
-    rankos Kazimierui, Lenkijos valdovui; lietuviai drau­
-    giškai priėmė pasiuntinybę, abi šalys susitarė, kad,
-    valdovams susigiminiavus, būsianti tarp abiejų tautų
-    tvirta taika. Dvidešimt keturis tūkstančius lenkų be­
-    laisvių dovanojo nelyginant kraitį.
+  citata_rodoma: "Kuo greičiausiai ir kuo ryžtingiausiai\nreikią kelti kalaviją prieš tuos, kurie iš arti graso, o\nsu tolesniais, suėjus į tariamą draugystę, nesunkiai bū­\nsią galima ramiai gyventi. Išsiuntė į Lietuvą pasiun­\ntinius, turėjusius prašyti Gedimino dukters Aldonos\nrankos Kazimierui, Lenkijos valdovui; lietuviai drau­\ngiškai priėmė pasiuntinybę, abi šalys susitarė, kad,\nvaldovams susigiminiavus, būsianti tarp abiejų tautų\ntvirta taika. Dvidešimt keturis tūkstančius lenkų be­\nlaisvių dovanojo nelyginant kraitį."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184702
-    - t-196457
+    - t-103
+    - t-117
+
+- id: c-171415
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  citata_originali: |
+    XIV am­
+    žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
+    jos paimti, pasistatė priešais ją dvi pilis - Fridburgą ir Bajer-
+    burgą, kadangi Bavarijos kunigaikštis su savo kariuomene da­
+    lyvavo tame žygyje. 1329 metais Lietuvos didysis kunigaikštis
+    Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
+    kiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17
+    dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
+    buvo sunaikintos.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-171417
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
+  citata_originali: |
+    Lietuvos ponai 1316 metų sausio mėnesį
+    Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą, kuris prieš
+    tai gyveno Ariogaloje ir valdė kunigaikščio žemes ir kaimenes
+    Žemaitijoje. Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­
+    čiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto
+    naudai. Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
+    Jaunę, o su jomis - septynis sūnus3.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-171419
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 287."
+  citata_originali: |
+    Straips­
+    nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
+    buveinių vietos Lietuvoje. Jokiuose istorijos šaltiniuose neiš­
+    liko vardų šių garsių žmonių, kurių būta Lietuvoje, išskyrus
+    vienintelį Lizdeiką, gyvenusį Gedimino laikais, apie 1318 me­
+    tus patarusį įkurti Vilnių. Sako, kad jis paskutinis vyriausiasis
+    žynys, kuris dar gyveno, kai buvo griaunama Vilniaus Perkū­
+    no šventykla; tai įvyko praėjus 69 metams po minėtosios da­
+    tos, todėl turėjo būti jau labai senas.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+    - t-021
+
+- id: c-171421
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
+  citata_originali: |
+    Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai,
+    panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė­
+    nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma
+    kitame šio veikalo tome.
+    Kai kuriuos žymius žmones Lietuvoje kartais laidodavo
+    prie didelių akmenų, esančių laukuose. 1822 metais pasitaikė
+    aptikti kapą prie didoko akmens žemėje, priklausančioje ma­
+    no kaimeliui. Kaimiečiai nuolat kalbėdavo, kad po tuo akme­
+    niu esanti užkasta kažkokia seniena; pasak vienų, lobis, pasak
+    kitų, kažkokio atmintino žmogaus kūnas; tai rodo senų laikų
+    padavimai. Kai, dalyvaujant vienam senienų tyrėjui, liepiau
+    kasti, maždaug trijų uolekčių gylyje radome žmogaus skeletą.
+  citata_rodoma: "Lietuvos didžiojo kunigaikščio Gedimino kapas yra\nprie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,\n1 Principum viromm tumulis injiciunt omnes humum urtatim, et\navide cupientes tumulos, quam maximos efficere (Herodotas). Luka-\nnas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių\npelenai ilsisi supiltame kalne).\n2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski\nnumeryje**.\n372\n\n## Puslapis 372\n\nvedančio iš Užupio į Antakalnį. Tai yra kalnas, gerokai aukš­\ntesnis už kitus gretimus, stūksantis atskirai."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-171422
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 403."
+  citata_originali: |
+    Pa­
+    vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
+    kad pasakyta Neseckio „Herbyne“ (aiškino tik pagal piešinį ir iš
+    lotynų kalbos išvertė žodį „Lepus“), bet triušį, nes lietuvių kal­
+    boje žodis „ Kiniglis“ būtent tą ir reiškia *.
+    Nors pirmaujančios lietuvių giminės po Horodlės seimo
+    naudojosi antspaudais su lenkiškais herbais, vis dėlto vargin­
+    gesnį bajorai dar ilgai turėjo savo senovinius antspaudus. Juo­
+    se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
+    XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
+    dalo ir seno graviravimo signečių pėdsakas. Jose pastebime
+    arba mitologinius ženklus, arba pavaizduotus fetišus, arba die-
+    11 Skaityk straipsnį „Šventyklos”.
+  citata_rodoma: "Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­\njo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi\nHipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­\nnigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302\nmetais Gediminas davė Krunevičiui10. Sis paprotys lietuviams\nnebuvo būdingas, bet kai kurios riterių šeimos, priklausančios\nLietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,\nkad jiems būtų suteikti herbai -  taip būdavo Lenkijoje."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-171423
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
+  citata_originali: |
+    III. Aiškesnė istorija -  nuo Mindaugo (1240 metų) iki 1386
+    metų. Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių
+    problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant­
+    roje (ypač nuo Gedimino valdymo) Lietuvos galia ir jėga nepa­
+    prastai išaugo.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-099
+
 - id: c-173738
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -4875,24 +5373,13 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Prilvico statulėlių rinkinyje, remiantis Mašo (Mascho) ir Vogeno
     (Wogen) informacija, dievukas, turintis užrašą Szwaixtiks, neati­
     tinka tų savybių, kurias mes priskiriame Lietuvos Apolonui.
-  citata_rodoma: |
-    98 /Ten
-    pat,
-    6
-    pastraipos
-    tęsinys/
-    Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus­
-    kininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal­
-    bama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul­
-    pai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai
-    pastatyto kalavijo ženklą.
+  citata_rodoma: "98 /Ten\npat,\n6\npastraipos\ntęsinys/\nMoneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus­\nkininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal­\nbama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul­\npai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai\npastatyto kalavijo ženklą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190856
 - id: c-173739
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -4911,7 +5398,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190857
+    - t-104
+    - t-105
+
 - id: c-173740
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -4932,7 +5421,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190858
+    - t-106
+
 - id: c-176291
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4951,7 +5441,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193620
+    - t-107
+
 - id: c-176826
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4977,7 +5468,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194227
+    - t-111
+
 - id: c-177099
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -4998,7 +5490,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194703
+    - t-112
+    - t-008
+
 - id: c-178698
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5033,7 +5527,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196454
+    - t-114
+
 - id: c-178699
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5063,7 +5558,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196456
+    - t-116
+
 - id: c-178930
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -5094,7 +5590,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196822
+    - t-118
+
 - id: c-178931
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -5114,7 +5611,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196823
+    - t-119
+
 - id: c-178932
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -5135,7 +5633,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196824
+    - t-120
+
 - id: c-178933
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -5152,7 +5651,27 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196825
+    - t-121
+
+- id: c-179544
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
+  citata_originali: |
+    III. Aiškesnė istorija -  nuo Mindaugo (1240 metų) iki 1386
+    metų. Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių
+    problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant­
+    roje (ypač nuo Gedimino valdymo) Lietuvos galia ir jėga nepa­
+    prastai išaugo.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-099
+
 - id: c-179545
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5163,18 +5682,15 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Lietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir
     čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo
     sūnų bei dukterų vedybomis.
-  citata_rodoma: |
-    Gediminas taip pat buvo pirmasis, kuris
-    prieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie
-    Lietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir
-    čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo
-    sūnų bei dukterų vedybomis.
+  citata_rodoma: "Gediminas taip pat buvo pirmasis, kuris\nprieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie\nLietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir\nčia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo\nsūnų bei dukterų vedybomis."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-094
+
 - id: c-179546
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5199,8 +5715,11 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198039
-    - t-198048
+    - t-063
+    - t-064
+    - t-066
+    - t-022
+
 - id: c-179547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -5223,10 +5742,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     357 (350).
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-088
+
 - id: c-179548
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5242,10 +5763,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     kėlė bažnytinės unijos idėją.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-053
+
 - id: c-179549
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5277,7 +5800,35 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198051
+    - t-033
+
+- id: c-179550
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Notariats-Instrument, parengtame 1323 metais Liubeke: Si­
+    gillum vero huiusmodi litteris appensum erat rotundum cereum,
+    continens circulum duodecim angulorum et in medio circuli yma-
+    ginem viri capillati residentis in Cathedra, continentis in manu
+    dextra coronam et ceptrum in sinistra, et in circumferenda eius
+    per quadraginta unam litteras et cruce sculptum erat: S. dei gra-
+    cia Gedemini lethvinorum et ruthenor. reg. [O prie šio laiško
+    buvo prikabintas apvalus vaško antspaudas su dvylikos
+    kampų apvadu, o šio apvado centre atvaizdas ilgais plau­
+    kais vyro, sėdinčio soste, dešinėje rankoje laikančio karūną
+    ir kairėje - skeptrą, aplink jį išskaptuota keturiasdešimt vie­
+    na raidė ir kryžius: Šv. Dievo malone Gedimino lietuvių ir
+    rusų karaliaus].
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-041
+    - t-071
+
 - id: c-179552
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5298,26 +5849,22 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
     nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
     duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo.
-  citata_rodoma: |
-    Pirmąjį Vilniaus paminėjimą, pirmą autentišką
-    paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
-    abejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­
-    niuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­
-    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
-    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
-    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
-    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
-    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
-    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
-    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
-    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
-    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo.
+  citata_rodoma: "Pirmąjį Vilniaus paminėjimą, pirmą autentišką\npaliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be\nabejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­\nniuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­\ngos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­\npitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip\npat su Vokiečių ordino Livonijoje magistru ir broliais - iš\nkitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­\ntais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo\nlaisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­\nria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­\nnu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino\nduktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+    - t-062
+    - t-020
+    - t-069
+    - t-025
+    - t-030
+    - t-063
+    - t-064
+
 - id: c-179553
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5332,10 +5879,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     jas prie Lietuvos.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+
 - id: c-179554
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5352,10 +5901,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Lietuvoje šeimos herbai egzistavo70.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-106
+
 - id: c-179555
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -5382,10 +5933,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     liko gulėti vietoje.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-118
+
 - id: c-179556
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5407,10 +5960,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Naruszewicz Taurikoje, 1 .
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-111
+
 - id: c-179557
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -5423,10 +5978,13 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-084
+    - t-122
+
 - id: c-179558
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5439,10 +5997,41 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     bus.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
+
+- id: c-179559
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    ## Puslapis 88
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    mokyti ir atlikinėti visas bažnytines apeigas. Rašome apie
+    tai Jums, Šventasis Tėve, idant žinotume priežastis, per ku­
+    rias mūsų senoliai paliko šį pasaulį pagoniškoj klaidatiky-
+    bėj." Labai meldžia pagaliau Gediminas popiežių, kad at­
+    sižvelgtų į jo liūdną padėtį ir aiškiai pareiškia: „Esame
+    pasirengę, kaip ir kiti kunigaikščiai krikščionys, visame ka­
+    me klausyti jūsų valios ir priimti krikščioniškąjį tikėjimą,
+    kad tik neturėtume būti budeliams, tai yra Ordino Magist­
+    rui ir riteriams, už ką nors dėkingi"**.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-062
+    - t-065
+    - t-034
+    - t-078
+    - t-066
+
 - id: c-179560
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -5466,7 +6055,32 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198023
+    - t-007
+
+- id: c-179561
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jeigu valdovas Gediminas bū­
+    tų manęs apie krikštą, tikriausiai visai kitaip būtų rašęs po­
+    piežiui. Bet jis net neturėjo tos minties, ką parodo vėlesni
+    įvykiai, tad negalėjo būti linkęs priimti krikščioniškąjį tikė­
+    jimą nei numanyti būsiant naudos iš jo skleidimo; žinia, dar
+    1322 metais nugalėtus Žemaitijos gyventojus privertė nuo
+    jo atsimesti3. Taigi tame laiške jam priskiriamas atsidavimas
+    visa širdimi krikščionių tikėjimui visai nesuderinama su Ge­
+    dimino charakteriu, o jo veiksmai 1323 bei 1324 metais tie­
+    siog prieštarauja tame laiške primestai mąstysenai.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-038
+    - t-043
+
 - id: c-179562
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5484,7 +6098,87 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198094
+    - t-099
+
+- id: c-179563
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 403."
+  citata_originali: |
+    Pa­
+    vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
+    kad pasakyta Neseckio „Herbyne“ (aiškino tik pagal piešinį ir iš
+    lotynų kalbos išvertė žodį „Lepus“), bet triušį, nes lietuvių kal­
+    boje žodis „ Kiniglis“ būtent tą ir reiškia *.
+    Nors pirmaujančios lietuvių giminės po Horodlės seimo
+    naudojosi antspaudais su lenkiškais herbais, vis dėlto vargin­
+    gesnį bajorai dar ilgai turėjo savo senovinius antspaudus. Juo­
+    se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
+    XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
+    dalo ir seno graviravimo signečių pėdsakas. Jose pastebime
+    arba mitologinius ženklus, arba pavaizduotus fetišus, arba die-
+    11 Skaityk straipsnį „Šventyklos”.
+  citata_rodoma: "Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­\njo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi\nHipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­\nnigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302\nmetais Gediminas davė Krunevičiui10. Sis paprotys lietuviams\nnebuvo būdingas, bet kai kurios riterių šeimos, priklausančios\nLietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,\nkad jiems būtų suteikti herbai -  taip būdavo Lenkijoje."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-179564
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mažas upeliu­
+    kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­
+    lies ir Gedimino kalno šlaitus. Tokie kalnų pavadinimai,
+    pirmtakų duoti, iki šiol išlikę, iš senovės laikų perimta tra­
+    dicija; ir tas pilkapis, kaip žinia, kapavietė, tad labai tikėti­
+    na, jog tai yra netoli nuo Veliuonos, prie Bajerburgo pilies,
+    žuvusio Gedimino kapas. Dabar Veliuona priklauso dvari­
+    ninkui Mykolui Zaleskiui.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-045
+
+- id: c-179565
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mat
+    atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui
+    apie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad
+    teiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­
+    nančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant
+    valdovo sumanymą. Atvykę taip pat Rygos miesto pasiun­
+    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
+    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
+    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
+    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
+    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
+    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
+    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
+    tvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties,
+    sudarytos Vilniuje, 1323 m., pirmąją savaitę po Šv.
+  citata_rodoma: "Mat\natvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui\napie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad\nteiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­\nnančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant\nvaldovo sumanymą. Atvykę taip pat Rygos miesto pasiun­\ntiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­\nterių, vyskupų ir Livonijos miestų tarpininkauti sudarant\ntaiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,\nrašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas\njį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­\nimta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­\ntį, ištisai visą abiejų besitariančių pusių priesaikomis pa­\ntvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties,\nsudarytos Vilniuje, 1323 m."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-036
+    - t-068
+    - t-069
+    - t-035
+
 - id: c-179566
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5500,6 +6194,31 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
+
+- id: c-179567
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jau trys krikščionių baž­
+    nyčios, nors neiškilios ir varganos, pagoniškų Vilniaus
+    šventyklų apsuptyje skleidė palaimingą tikėjimo šviesą; bū­
+    tent - Švento Mikalojaus bažnytėlė, rusų cerkvė, dabar ba­
+    zilijonų bažnyčia, ir pranciškonų bažnyčia, mūsų jau minė­
+    ta. Dviejų kitų bažnyčių griuvėsiai - Šv. Kryžiaus ir
+    dominikonų ordino brolių, Algirdo laikais sugriautų, tebu­
+    vo išlikęs Gedimino, geranoriško krikščionybės atžvilgiu,
+    atminimas.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-078
+    - t-066
+
 - id: c-179568
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5517,10 +6236,14 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-070
+    - t-077
+    - t-027
+
 - id: c-179570
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5537,23 +6260,105 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Prilvico statulėlių rinkinyje, remiantis Mašo (Mascho) ir Vogeno
     (Wogen) informacija, dievukas, turintis užrašą Szwaixtiks, neati­
     tinka tų savybių, kurias mes priskiriame Lietuvos Apolonui.
-  citata_rodoma: |
-    98 /Ten
-    pat,
-    6
-    pastraipos
-    tęsinys/
-    Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus­
-    kininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal­
-    bama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul­
-    pai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai
-    pastatyto kalavijo ženklą.
+  citata_rodoma: "98 /Ten\npat,\n6\npastraipos\ntęsinys/\nMoneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus­\nkininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal­\nbama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul­\npai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai\npastatyto kalavijo ženklą."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-179571
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    O dabar, šventasis ir garbingasis tėve,
+    labai prašome atkreipti savo dėmesį į mūsų apverktiną būk­
+    lę, nes mes, kaip ir kiti krikščionių karaliai, esame pasirengę
+    visuose dalykuose jums paklusti ir priimti krikščionių tikė­
+    jimą, kad tik mūsų nevargintų anksčiau minėtieji kankinto­
+    jai, būtent, minėtasis magistras ir broliai.
+    87
+
+    ## Puslapis 104
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­
+    monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
+    nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
+    dimino, bet nei su jo žinia, nei jo valia parašyti. Rygos
+    arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir
+    išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo
+    melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių
+    ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą
+    ginče su kryžiuočiais.
+  citata_rodoma: "87\n\n## Puslapis 104\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nMūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­\nmonę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­\nnams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­\ndimino, bet nei su jo žinia, nei jo valia parašyti. Rygos \narkivyskupas, Gedimino vardu prisidengęs, juos parengė ir \nišsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo \nmelu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių \nordiną ir per tai pelnytų sau palankų popiežiaus sprendimą \nginče su kryžiuočiais."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-045
+    - t-097
+    - t-046
+    - t-037
+    - t-032
+
+- id: c-179572
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pilies kieme kadaise buvo gilus šulinys, gau­
+    siai vandens tiekiantis, - dabar visai užkastas, o po centri­
+    niu bokštu buvo rūsys, stačiai smengantis gilyn, matmenimis
+    į aukštį ir į plotį prilygstantis tam bokštui viršum jo. Į tą rūsį
+    landa buvo tokia, kad tik po vieną žmogų tegalėjo įeiti, vei­
+    kiausiai tai buvo pilies kalėjimas. Pasak Prūsijos metrašti­
+    ninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi
+    priešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai
+    102
+
+    ## Puslapis 119
+
+    I  KNYGA
+    vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs
+    jam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337
+    metų birželio 15 d., sustojo ties Bajerburgu.
+  citata_rodoma: "Į tą rūsį \nlanda buvo tokia, kad tik po vieną žmogų tegalėjo įeiti, vei­\nkiausiai tai buvo pilies kalėjimas. Pasak Prūsijos metrašti­\nninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi \npriešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai\n102\n\n## Puslapis 119\n\nI  KNYGA\nvienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs \njam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337 \nmetų birželio 15 d."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-046
+    - t-074
+    - t-044
+    - t-075
+
+- id: c-179573
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mažas upeliu­
+    kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­
+    lies ir Gedimino kalno šlaitus. Tokie kalnų pavadinimai,
+    pirmtakų duoti, iki šiol išlikę, iš senovės laikų perimta tra­
+    dicija; ir tas pilkapis, kaip žinia, kapavietė, tad labai tikėti­
+    na, jog tai yra netoli nuo Veliuonos, prie Bajerburgo pilies,
+    žuvusio Gedimino kapas. Dabar Veliuona priklauso dvari­
+    ninkui Mykolui Zaleskiui.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-045
+
 - id: c-179574
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -5566,20 +6371,15 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     no Mindaugo įkurtą valstybę ir davė pradžią naujai galingai
     dinastijai. Jis mirdamas paliko Lietuvai veiklius ir energingus
     kunigaikščius Algirdą ir Kęstutį.
-  citata_rodoma: |
-    pabaigoje Lietuvos istorijos šaltiniai mini ma­
-    žai žinomą ir palikusį istorijos miglose Lietuvos kunigaikštį
-    Liutaverą (Pukaverą). Jo sūnus Gediminas dar labiau sutvirti­
-    no Mindaugo įkurtą valstybę ir davė pradžią naujai galingai
-    dinastijai. Jis mirdamas paliko Lietuvai veiklius ir energingus
-    kunigaikščius Algirdą ir Kęstutį.
+  citata_rodoma: "pabaigoje Lietuvos istorijos šaltiniai mini ma­\nžai žinomą ir palikusį istorijos miglose Lietuvos kunigaikštį\nLiutaverą (Pukaverą). Jo sūnus Gediminas dar labiau sutvirti­\nno Mindaugo įkurtą valstybę ir davė pradžią naujai galingai\ndinastijai. Jis mirdamas paliko Lietuvai veiklius ir energingus\nkunigaikščius Algirdą ir Kęstutį."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198105
+    - t-054
+
 - id: c-179575
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5598,10 +6398,46 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Gediminas: Dlugošas Lib.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-045
+    - t-019
+    - t-044
+    - t-073
+    - t-075
+    - t-061
+
+- id: c-179576
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Porina mums tą pasaką apie Maskvos didįjį kunigaikštį
+    Simonas Grunau,  linkęs meluoti rašytojas, o jau L u -
+    kas D a v i d a s, T. V, p. 236-237, abejoja tos nuomonės
+    teisingumu. Vėliau viskas byloja, jog Gediminas per pasiun­
+    tinius nurodė, kaip sako Jerošinas, garantuoti, kad
+    niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­
+    jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir
+    popiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­
+    kada nebuvo dėl jų suabejojęs.
+    Jeigu su atida peržvelgsime laiškus, Gedimino vardu
+    rašytus dominikonų ordinui, minoritams ir Vokietijos mies­
+    tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­
+    dijančių juos Rygos arkivyskupo prasimanymu ir klastote
+    esant.
+  citata_rodoma: "Vėliau viskas byloja, jog Gediminas per pasiun­\ntinius nurodė, kaip sako Jerošinas, garantuoti, kad\nniekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­\njami jokie laiškai kokiems nors miestams ar šalims, sykiu ir\npopiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­\nkada nebuvo dėl jų suabejojęs.\nJeigu su atida peržvelgsime laiškus, Gedimino vardu\nrašytus dominikonų ordinui, minoritams ir Vokietijos mies­\ntams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­\ndijančių juos Rygos arkivyskupo prasimanymu ir klastote\nesant."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-040
+    - t-070
+
 - id: c-179577
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5617,10 +6453,64 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     formavimosi Lietuvoje bruožai.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
+    - t-061
+
+- id: c-179578
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1253 VII 6 
+    susikūrusios Lietuvos valstybės valdovas Mindaugas vainikuojasi
+    karaliumi.
+    1316–1341
+    Gediminaičių dinastijai vardą davusio Gedimino valdymas.
+    1323
+    Gediminas perkelia Lietuvos sostinę iš Trakų į Vilnių.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-048
+
+- id: c-179579
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pirmąjį Vilniaus paminėjimą, pirmą autentišką
+    paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
+    abejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­
+    niuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­
+    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
+    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
+    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
+    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
+    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
+    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
+    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
+    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
+    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad
+    iš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­
+    tų vėlesnio susijungimo ir galios pirmosios gijos.
+  citata_rodoma: "Dar didesnis garsas apie Vilnių pasklido 1325 me­\ntais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo\nlaisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­\nria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­\nnu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino\nduktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad\niš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­\ntų vėlesnio susijungimo ir galios pirmosios gijos."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-069
+    - t-063
+    - t-064
+
 - id: c-179580
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5645,7 +6535,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198108
+    - t-023
+
 - id: c-179582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -5662,19 +6553,15 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties
     dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į
     Ordiną — tai „šventas sumanymas“ (III,284).
-  citata_rodoma: |
-    Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
-    bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai
-    nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia. Kronikininkas teigia, kad
-    pats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas
-    klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo
-    pagrindą147.
+  citata_rodoma: "Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik\nbendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai\nnukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia. Kronikininkas teigia, kad\npats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas\nklastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo\npagrindą147."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-086
+
 - id: c-179583
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5693,7 +6580,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198097
+    - t-050
+
 - id: c-179584
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5708,10 +6596,13 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     kokia neaiški raidė.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-104
+    - t-105
+
 - id: c-179585
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -5723,10 +6614,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     sprendimu Ordinas privalėjo grąžinti Pomeraniją, tačiau kryžiuočiai sprendimo nepripažino
     ir pateikė apeliaciją kurijai. Nuosprendis liko neįgyvendintas, bet pats procesas buvo
     nemažas politinis lenkų laimėjimas59.
-  citata_rodoma: |
-    Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).
-    Mazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus
-    kelius vakaruose ir šiaurėje blokavo Ordinas).
+  citata_rodoma: "Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).\nMazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus\nkelius vakaruose ir šiaurėje blokavo Ordinas)."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -5753,7 +6641,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198025
+    - t-042
+
 - id: c-179587
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -5766,20 +6655,44 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
     latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
     žmonės - kariai, galintys bet kada stoti į tarnybą.
-  citata_rodoma: |
-    Prie jau anksčiau lietuvių užvaldytų
-    Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
-    pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
-    Lietuva tapo didvalstybe - regiono lydere. Gedimino laikais Lie-
-    tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
-    latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
-    žmonės - kariai, galintys bet kada stoti į tarnybą.
+  citata_rodoma: "Prie jau anksčiau lietuvių užvaldytų\nJuodosios Rusios (Naugarduko žemių) ir Polocko Gediminas\npridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.\nLietuva tapo didvalstybe - regiono lydere. Gedimino laikais Lie-\ntuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-\nlatinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji\nžmonės - kariai, galintys bet kada stoti į tarnybą."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108
+
+- id: c-179588
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    304
+
+    ## Puslapis 304
+
+    tinai turi išaugti į didelį miestą, kadangi tą nuostabiai skati­
+    no ir vietos padėtis.
+    Lizdeika išaiškino sapną Gediminui po to, kai jis, nukovęs
+    didžiulį taurą ant aukščiausio kalno, stūksančio Antakalnio
+    link, -  išmanantys tėvynės istoriją dabar jį vadina Tauro kal­
+    nu -  nakvojo šventajame miške prie Vilnios ir Neries santa­
+    kos, vadintame Šventaragiu; jam prisisapnavo, kad matęs mil­
+    žinišką vilką, visą šarvuotą geležiniais šarvais, o jo viduje stau­
+    gę šimtas kitų vilkų. Tą naktį gretimame miške tikrai galėjo
+    kaukti vilkai, tad nedaug reikėjo, kad medžiotojui -  kunigaikš­
+    čiui -  kas nors panašaus prisisapnuotų.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+    - t-026
+
 - id: c-179589
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5801,7 +6714,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198012
+    - t-058
+
 - id: c-179590
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5836,7 +6750,10 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198055
+    - t-067
+    - t-028
+    - t-029
+
 - id: c-179592
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5868,10 +6785,14 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     amore nostri.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-031
+    - t-067
+    - t-028
+
 - id: c-179593
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -5898,10 +6819,56 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     kryžiuočius su Lenkija.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-059
+
+- id: c-179594
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    «Lietuviai iš
+    Žemaičių » puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą.
+    Gediminas buvo ne tik karys, bet ir valstybininkas. Šalia
+    kardo jis veikė ir diplomatija.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
+- id: c-179595
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Tuo
+    tarpu visuotiniame Lietuvos suvažiavime Kernavėje, vadovau­
+    2 Ar ne dabartinis Igumenis?
+    214
+
+    ## Puslapis 214
+
+    jant Trobiaus sūnui vienuoliui Laurui, Vytenis, išrinktas Lie­
+    tuvos didžiuoju kunigaikščiu, mirė 1315 metais, kelyje buvo
+    nutrenktas perkūno. Jis turėjo tris žmonas, kurios viena po
+    kitos mirė; iš pirmosios 1257 metais gimė Gediminas, iš ant­
+    rosios 1295 metais -  Gvaželutis ir 1296 metais -  Vainius. Tre­
+    čioji paliko bevaikė.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+    - t-092
+
 - id: c-179596
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -5927,7 +6894,73 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198066
+    - t-052
+
+- id: c-179597
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ir kaip tik
+    70
+
+    ## Puslapis 87
+
+    I  KNYGA
+    Kai plėšikaujančių lietuvių gaujos, dažniausiai valdovo
+    numylėtinių ir bičiulių vedamos, su laukiniu įniršiu šitaip
+    niokojo krikščionių žemes, Prūsijoje pasklido gandas, jog ka­
+    ralius Gediminas į visas šalis išsiuntinėjo laiškus, skelbda­
+    mas apie savo norą priimti krikštą ir prisijungti prie tikinčių­
+    jų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta.
+    Viename jų, skirtame popiežiui ir kardinolams, Gediminas
+    prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta
+    būtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist­
+    ro smurtas ir nesuskaičiuojamos išdavystės greit privertu-
+    sios nuo jo atsimesti, todėl jis vėl likęs prie savo tėvų tikėji­
+    mo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos
+    arkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­
+    riai nužudyti.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-033
+
+- id: c-179598
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mat
+    atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui
+    apie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad
+    teiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­
+    nančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant
+    valdovo sumanymą. Atvykę taip pat Rygos miesto pasiun­
+    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
+    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
+    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
+    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
+    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
+    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
+    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
+    tvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties,
+    sudarytos Vilniuje, 1323 m., pirmąją savaitę po Šv.
+  citata_rodoma: "Mat\natvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui\napie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad\nteiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­\nnančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant\nvaldovo sumanymą. Atvykę taip pat Rygos miesto pasiun­\ntiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­\nterių, vyskupų ir Livonijos miestų tarpininkauti sudarant\ntaiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,\nrašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas\njį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­\nimta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­\ntį, ištisai visą abiejų besitariančių pusių priesaikomis pa­\ntvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties,\nsudarytos Vilniuje, 1323 m."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-036
+    - t-068
+    - t-069
+    - t-035
+
 - id: c-179599
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5949,10 +6982,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     išpranašaus Vilniaus įkūrimą ir šlovę.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-049
+
 - id: c-179600
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -5966,10 +7001,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     krašto karių. Patenkindamas jo prašymą, šis davė jam 1200 raitelių.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-089
+
 - id: c-179601
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5989,10 +7026,82 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     nuo krikščionybės.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-049
+
+- id: c-179602
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pirmąjį Vilniaus paminėjimą, pirmą autentišką
+    paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
+    abejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­
+    niuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­
+    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
+    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
+    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
+    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
+    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
+    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
+    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
+    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
+    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad
+    iš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­
+    tų vėlesnio susijungimo ir galios pirmosios gijos.
+  citata_rodoma: "Dar didesnis garsas apie Vilnių pasklido 1325 me­\ntais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo\nlaisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­\nria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­\nnu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino\nduktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad\niš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­\ntų vėlesnio susijungimo ir galios pirmosios gijos."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-069
+    - t-063
+    - t-064
+
+- id: c-179603
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Trečias ir itin svarbus laiškų netikrumo įrodymas yra
+    užuomina juose apie Mazoviją, kaip apie kraštą, per kurį
+    kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­
+    nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal. Taigi
+    tą Mazovijos kunigaikštį reikėtų laikyti buvus Lietuvos val­
+    dovo sąjungininku, sutartinai veikiančiu sprendžiant sve­
+    timšalių atvykimo reikalus. Tačiau Gediminas, jei galiu taip
+    sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik
+    1323 ir 1324 metais su plėšikaujančia ir viską naikinančia
+    97
+
+    ## Puslapis 114
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės žemę,
+    nepaprastai žiauriai siaubia gyventojus, kaip apie tai rašo
+    ne tik Dusburgas, p. 339 ir 350, bei Kojelavičius, p. 270, bet
+    byloja ir dokumentai, vienas kurių, 1323 metų (slaptame ar­
+    chyve Spinta XI, Nr. 18), be kita ko, apie Gediminą liudija:
+    quod nichil aliud quam vestrarum nostrarumque terrarum sub­
+    versionem sua dolosa calliditate pretendit, non solum ex multis
+    antiquis, verum et ex novis experimentis lamentosis novissime in
+    terra Dobrynen et confinibus Culmensibus patet et patuit prohdo-
+    lor evidenter!
+  citata_rodoma: "Tačiau Gediminas, jei galiu taip\nsakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik\n1323 ir 1324 metais su plėšikaujančia ir viską naikinančia\n97\n\n## Puslapis 114\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nginkluota kariauna įsiveržia į Mazoviją ir Dobrynės žemę,\nnepaprastai žiauriai siaubia gyventojus, kaip apie tai rašo\nne tik Dusburgas, p."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-043
+    - t-071
+
 - id: c-179604
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -6021,10 +7130,36 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Rygos miesto tarybai)50.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-084
+    - t-080
+
+- id: c-179605
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
+    golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors
+    Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-
+    das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
+    Vytautas nustojo mokėti mongolams duoklę). Panašu, kad LDK rusiš-
+    kosios žemės buvo Lietuvos ir Aukso ordos kondominiumas – bendra
+
+    L I E T U V O S  I S T O R I J A
+    38
+    valda.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-058
+
 - id: c-179606
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -6041,10 +7176,13 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     daikto pavadinimo, nes jį turėjo savo pačių kalboje.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-112
+    - t-008
+
 - id: c-179607
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6059,10 +7197,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-107
+
 - id: c-179608
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6083,10 +7223,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     tijoje, Lietuvoje dar nežinomos.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-076
+
 - id: c-179609
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -6097,18 +7239,15 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir
     kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
     tuvą; visiems žadėjo savo globos ir paramos įsikurti.
-  citata_rodoma: |
-    1323 m. Gediminas parašė laiškų ne tik popiežiui, bet ir dau-
-    geliui Europos miestų. Per rygiečius jis kreipėsi į Hanzos mies-
-    tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir
-    kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
-    tuvą; visiems žadėjo savo globos ir paramos įsikurti.
+  citata_rodoma: "1323 m. Gediminas parašė laiškų ne tik popiežiui, bet ir dau-\ngeliui Europos miestų. Per rygiečius jis kreipėsi į Hanzos mies-\ntus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir\nkvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-\ntuvą; visiems žadėjo savo globos ir paramos įsikurti."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-095
+
 - id: c-179610
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -6120,10 +7259,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Šis ruošėsi kariauti su ordinu dėl užgrobto Dancigo ir Pamario.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-179611
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6140,10 +7281,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     tė Lietuvą visą energiją skirti karybai.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-056
+
 - id: c-179612
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -6155,10 +7298,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
 - id: c-179613
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6199,7 +7344,32 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198088
+    - t-019
+
+- id: c-179614
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 287."
+  citata_originali: |
+    Straips­
+    nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
+    buveinių vietos Lietuvoje. Jokiuose istorijos šaltiniuose neiš­
+    liko vardų šių garsių žmonių, kurių būta Lietuvoje, išskyrus
+    vienintelį Lizdeiką, gyvenusį Gedimino laikais, apie 1318 me­
+    tus patarusį įkurti Vilnių. Sako, kad jis paskutinis vyriausiasis
+    žynys, kuris dar gyveno, kai buvo griaunama Vilniaus Perkū­
+    no šventykla; tai įvyko praėjus 69 metams po minėtosios da­
+    tos, todėl turėjo būti jau labai senas.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+    - t-021
+
 - id: c-179615
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -6212,10 +7382,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     jj valdyti savo sūnui Vladimirui.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-121
+
 - id: c-179616
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6230,10 +7402,13 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     toriniu vaidmeniu užgožęs savo pirmtakus.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-055
+    - t-051
+
 - id: c-179617
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -6249,7 +7424,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198085
+    - t-014
+
 - id: c-179618
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -6261,6 +7437,130 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Jo nustatyta politinė programa ilgam paliko Lietuvos ateičiai.
     Gediminas vėl, kaip ir Traidenis, jungė kitų baltų žemes į savo
     valstybę, paimdamas taip pat dalį Jotvingos.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-016
+
+- id: c-179619
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    48
+
+    ## Puslapis 65
+
+    I  KNYGA
+    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
+    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
+    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
+    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
+    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
+    nuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­
+    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
+    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
+    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
+    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
+    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
+    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
+    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
+    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
+    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
+    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
+    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
+    imperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­
+    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
+    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
+    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­
+    deika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas,
+    išaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi
+    apkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­
+    tuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­
+    bę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks
+    šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­
+    kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro
+    pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­
+    no Vilniumi pagal Vilnios upės vardą.
+    h i
+    XI Knyga, sk.
+  citata_rodoma: "48\n\n## Puslapis 65\n\nI  KNYGA\nStrijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­\nčius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­\ndami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas, \npo Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­\ndangino su visu guotu į Šventaragio slėnį, už keturių mylių \nnuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­\nnas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­\nkurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina, \nmedžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­\nnės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar \nVilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­\nnu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­\ntingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto \nlaikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir \nsvetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­\nną jų tad kaip didžią dovaną kartą garbingame valdovų ir \nkunigaikščių suvažiavime Lucke 1429 metais įteikė Romos \nimperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­\nnas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne \nregėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­\nvęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­\ndeika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas, \nišaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi \napkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­\ntuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­\nbę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks \nšio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­\nkas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro \npilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­\nno Vilniumi pagal Vilnios upės vardą."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+    - t-072
+    - t-025
+    - t-044
+    - t-098
+
+- id: c-179621
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Įgu­
+    la gynė sienas nepaprastai narsiai ir vokiečius, nepaisant jų
+    66
+
+    ## Puslapis 83
+
+    I  KNYGA
+    sunkiųjų ginklų, atrėmė, bet kai rytojaus dieną ruošėsi nau­
+    joms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­
+    dami, kad sutiksią paklusti Ordinui. Vos tik kryžiuočiai at­
+    sitolino, Gediminas jėga privertė juos sulaužyti duotą žodį ir
+    atsisakyti priklausomybės Ordino valdžiai.
+    Tas valdovas po pergalingų žygių, tikriausiai todėl, kad
+    kryžiuočiai tolydžio artinosi, nuo Rytų atsigręžė į Vakarus
+    ir į juos nukreipė savo kruviną kardą. Kol vokiečių kariau­
+    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
+    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
+    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
+    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
+    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
+    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
+    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
+    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
+    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-097
+    - t-032
+
+- id: c-179623
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    2
+    2) Gediminas, dievo malone lietuvių ir rusų karalius,
+    Žemgalijos valdovas ir kunigaikštis, gerbiamiems vyrams,
+    rūpestingiems ir garbingiems Liubeko, Rostoko, Zundo,
+    Greifsvaldo, Štetino ir Gotlando [miestų] reikalų valdyto­
+    jams, tarėjams ir piliečiams, pirkliams ir bet kokios padėties
+    amatininkams [siunčia] pasveikinimą ir savo karališką ma­
+    lonę bei palankumą.
+    Kadangi visos karalystės, iš kurių vieną mes valdome,
+    yra pavaldžios dangaus karaliui Jėzui Kristui tokiu būdu,
+    kaip forma materijai, o vergas namams, tai, nors iš visų ka­
+    ralių esame menkiausias [svetur], tačiau dievo apvaizda di­
+    džiausias savajame krašte, kur turime galią duoti nurody­
+    mus ir įsakinėti, pasmerkti ir pasigailėti, uždaryti ir atverti.
+    Pagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­
+    mo, kad aplankytumėte Naugardą, Pskovą; visa tai jums
+    leidome dėl busimosios naudos.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -6284,22 +7584,15 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
     priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
     ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55.
-  citata_rodoma: |
-    Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
-    Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
-    geros valios žmogui“, dominikonų  ir pranciškonų ordinams51, turėjo platų tarptautinį
-    atgarsį. Lietuvos valstybė sugebėjo pirmą kartą tokiu mastu kuriam laikui izoliuoti bei
-    sukompromituoti Kryžiuočių ordiną krikščioniškosios feodalinės Europos akivaizdoje.
-    Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
-    sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
-    Popiežius 1324 m. įsakė kryžiuočiams susilaikyti nuo bet kokių žygių prieš Gedimino
-    valstybę ir patvirtino šią sutartį53.
+  citata_rodoma: "Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems\nEuropos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam\ngeros valios žmogui“, dominikonų  ir pranciškonų ordinams51, turėjo platų tarptautinį\natgarsį. Lietuvos valstybė sugebėjo pirmą kartą tokiu mastu kuriam laikui izoliuoti bei\nsukompromituoti Kryžiuočių ordiną krikščioniškosios feodalinės Europos akivaizdoje.\nGedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos\nsutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.\nPopiežius 1324 m. įsakė kryžiuočiams susilaikyti nuo bet kokių žygių prieš Gedimino\nvalstybę ir patvirtino šią sutartį53."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-081
+
 - id: c-179625
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6325,29 +7618,19 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių
     ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą
     ginče su kryžiuočiais.
-  citata_rodoma: |
-    87
-
-    ## Puslapis 104
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­
-    monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
-    nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
-    dimino, bet nei su jo žinia, nei jo valia parašyti. Rygos
-    arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir
-    išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo
-    melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių
-    ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą
-    ginče su kryžiuočiais.
+  citata_rodoma: "87\n\n## Puslapis 104\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nMūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­\nmonę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­\nnams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­\ndimino, bet nei su jo žinia, nei jo valia parašyti. Rygos \narkivyskupas, Gedimino vardu prisidengęs, juos parengė ir \nišsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo \nmelu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių \nordiną ir per tai pelnytų sau palankų popiežiaus sprendimą \nginče su kryžiuočiais."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198076
-    - t-198127
+    - t-045
+    - t-097
+    - t-046
+    - t-037
+    - t-032
+
 - id: c-179626
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -6364,10 +7647,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     nors turime pagrindo manyti, kad būtent Ordino klasta sužlugdė Gedimino planus67.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-085
+
 - id: c-179627
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6381,6 +7666,87 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     mas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“. Lietuva tuo metu jau
     turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
     civilizacijos ištakos.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-051
+
+- id: c-179628
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Trečias ir itin svarbus laiškų netikrumo įrodymas yra
+    užuomina juose apie Mazoviją, kaip apie kraštą, per kurį
+    kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­
+    nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal. Taigi
+    tą Mazovijos kunigaikštį reikėtų laikyti buvus Lietuvos val­
+    dovo sąjungininku, sutartinai veikiančiu sprendžiant sve­
+    timšalių atvykimo reikalus. Tačiau Gediminas, jei galiu taip
+    sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik
+    1323 ir 1324 metais su plėšikaujančia ir viską naikinančia
+    97
+
+    ## Puslapis 114
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės žemę,
+    nepaprastai žiauriai siaubia gyventojus, kaip apie tai rašo
+    ne tik Dusburgas, p. 339 ir 350, bei Kojelavičius, p. 270, bet
+    byloja ir dokumentai, vienas kurių, 1323 metų (slaptame ar­
+    chyve Spinta XI, Nr. 18), be kita ko, apie Gediminą liudija:
+    quod nichil aliud quam vestrarum nostrarumque terrarum sub­
+    versionem sua dolosa calliditate pretendit, non solum ex multis
+    antiquis, verum et ex novis experimentis lamentosis novissime in
+    terra Dobrynen et confinibus Culmensibus patet et patuit prohdo-
+    lor evidenter!
+  citata_rodoma: "Tačiau Gediminas, jei galiu taip\nsakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik\n1323 ir 1324 metais su plėšikaujančia ir viską naikinančia\n97\n\n## Puslapis 114\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nginkluota kariauna įsiveržia į Mazoviją ir Dobrynės žemę,\nnepaprastai žiauriai siaubia gyventojus, kaip apie tai rašo\nne tik Dusburgas, p."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-043
+    - t-071
+
+- id: c-179629
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ant pilkapio nuo neatme­
+    namų laikų visada būdavo statomas kryžius. Mažas upeliu­
+    kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­
+    lies ir Gedimino kalno šlaitus. Tokie kalnų pavadinimai,
+    pirmtakų duoti, iki šiol išlikę, iš senovės laikų perimta tra­
+    dicija; ir tas pilkapis, kaip žinia, kapavietė, tad labai tikėti­
+    na, jog tai yra netoli nuo Veliuonos, prie Bajerburgo pilies,
+    žuvusio Gedimino kapas.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-045
+
+- id: c-179630
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
+  citata_originali: |
+    Lietuvos ponai 1316 metų sausio mėnesį
+    Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą, kuris prieš
+    tai gyveno Ariogaloje ir valdė kunigaikščio žemes ir kaimenes
+    Žemaitijoje. Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­
+    čiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto
+    naudai. Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
+    Jaunę, o su jomis - septynis sūnus3.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
 
@@ -6411,7 +7777,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198015
+    - t-041
+    - t-071
+
 - id: c-179633
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -6425,10 +7793,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     raginimą krikštytis10 11.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-093
+
 - id: c-179634
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -6442,20 +7812,16 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
     m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
     naujas įpėdinis.
-  citata_rodoma: |
-    Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­
-    gaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­
-    vinės rusų kalbos.
-    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
-    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
-    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
-    m.
+  citata_rodoma: "Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­\ngaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­\nvinės rusų kalbos.\nPats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne\ntik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke\nLietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330\nm."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+    - t-005
+
 - id: c-179635
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -6473,6 +7839,44 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-179636
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Įgu­
+    la gynė sienas nepaprastai narsiai ir vokiečius, nepaisant jų
+    66
+
+    ## Puslapis 83
+
+    I  KNYGA
+    sunkiųjų ginklų, atrėmė, bet kai rytojaus dieną ruošėsi nau­
+    joms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­
+    dami, kad sutiksią paklusti Ordinui. Vos tik kryžiuočiai at­
+    sitolino, Gediminas jėga privertė juos sulaužyti duotą žodį ir
+    atsisakyti priklausomybės Ordino valdžiai.
+    Tas valdovas po pergalingų žygių, tikriausiai todėl, kad
+    kryžiuočiai tolydžio artinosi, nuo Rytų atsigręžė į Vakarus
+    ir į juos nukreipė savo kruviną kardą. Kol vokiečių kariau­
+    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
+    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
+    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
+    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
+    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
+    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
+    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
+    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
+    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-097
+    - t-032
+
 - id: c-179637
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -6489,10 +7893,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     žemėn 6.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-120
+
 - id: c-179638
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6514,7 +7920,33 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198047
+    - t-047
+
+- id: c-179639
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
+  citata_originali: |
+    Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai,
+    panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė­
+    nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma
+    kitame šio veikalo tome.
+    Kai kuriuos žymius žmones Lietuvoje kartais laidodavo
+    prie didelių akmenų, esančių laukuose. 1822 metais pasitaikė
+    aptikti kapą prie didoko akmens žemėje, priklausančioje ma­
+    no kaimeliui. Kaimiečiai nuolat kalbėdavo, kad po tuo akme­
+    niu esanti užkasta kažkokia seniena; pasak vienų, lobis, pasak
+    kitų, kažkokio atmintino žmogaus kūnas; tai rodo senų laikų
+    padavimai. Kai, dalyvaujant vienam senienų tyrėjui, liepiau
+    kasti, maždaug trijų uolekčių gylyje radome žmogaus skeletą.
+  citata_rodoma: "Lietuvos didžiojo kunigaikščio Gedimino kapas yra\nprie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,\n1 Principum viromm tumulis injiciunt omnes humum urtatim, et\navide cupientes tumulos, quam maximos efficere (Herodotas). Luka-\nnas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių\npelenai ilsisi supiltame kalne).\n2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski\nnumeryje**.\n372\n\n## Puslapis 372\n\nvedančio iš Užupio į Antakalnį. Tai yra kalnas, gerokai aukš­\ntesnis už kitus gretimus, stūksantis atskirai."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:58"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-179641
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -6530,10 +7962,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     kunigaikščio Gedimino pajėgas daugiau nebeištvers.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119
+
 - id: c-179642
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -6554,9 +7988,13 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
+    - t-016
+
 - id: c-184336
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Sviatoslavas, jų viešpats, pirma jau pergalėtas, da­
     bar palikinąs buveinę ir valdžią ūkės prasikraustė.
@@ -6577,10 +8015,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200986
+    - t-123
+
 - id: c-184337
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Atėję siuntiniai popiežiaus į Rygą tuo­
     jau išleido kitus siuntinius pas Gediminą gromatą
@@ -6599,10 +8039,12 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200987
+    - t-124
+
 - id: c-184338
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Trakų vieto­
     vę, savo gimtuvę, praplatino, perkėlė buveinę iš
@@ -6624,55 +8066,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200988
-- id: c-171421
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai,
-    panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė­
-    nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma
-    kitame šio veikalo tome.
-    Kai kuriuos žymius žmones Lietuvoje kartais laidodavo
-    prie didelių akmenų, esančių laukuose. 1822 metais pasitaikė
-    aptikti kapą prie didoko akmens žemėje, priklausančioje ma­
-    no kaimeliui. Kaimiečiai nuolat kalbėdavo, kad po tuo akme­
-    niu esanti užkasta kažkokia seniena; pasak vienų, lobis, pasak
-    kitų, kažkokio atmintino žmogaus kūnas; tai rodo senų laikų
-    padavimai. Kai, dalyvaujant vienam senienų tyrėjui, liepiau
-    kasti, maždaug trijų uolekčių gylyje radome žmogaus skeletą.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-198022
-- id: c-171422
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 402"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
-  citata_originali: |
-    Pa­
-    vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
-    kad pasakyta Neseckio „Herbyne“ (aiškino tik pagal piešinį ir iš
-    lotynų kalbos išvertė žodį „Lepus“), bet triušį, nes lietuvių kal­
-    boje žodis „ Kiniglis“ būtent tą ir reiškia *.
-    Nors pirmaujančios lietuvių giminės po Horodlės seimo
-    naudojosi antspaudais su lenkiškais herbais, vis dėlto vargin­
-    gesnį bajorai dar ilgai turėjo savo senovinius antspaudus. Juo­
-    se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
-    XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
-    dalo ir seno graviravimo signečių pėdsakas. Jose pastebime
-    arba mitologinius ženklus, arba pavaizduotus fetišus, arba die-
-    11 Skaityk straipsnį „Šventyklos”.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-198024
+    - t-125
+
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Jaunė (Jievna)]]
 - Sūnūs: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

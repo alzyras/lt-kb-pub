@@ -36,8 +36,7 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 ## Teiginiai
 
 <a id="claim-t-51186"></a>
-- t-001
-  global_id: t-51186
+- t-002
   teiginys: "Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
     - c-36533
 
 <a id="claim-t-51187"></a>
-- t-002
-  global_id: t-51187
+- t-001
   teiginys: "Austrijos hercogas Vilhelmas buvo sužieduotas su vienuolikmete Jadvyga dar jos tėvui mirštant."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 
 <a id="claim-t-201044"></a>
 - t-003
-  global_id: t-201044
   teiginys: "Jau galan metų 1224, Honorijus III popiežius, garsus lietuvių veika luose, atleido savo siuntinį Vilhelmą, vyskupą Mutinų, vyrą didžiai išmintingą ir gudrų, sumanantį kaip bažnyčios, taip ūkės reikaluose, į Padaugavį taikinti kalavijonų su v."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -89,7 +86,6 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 
 <a id="claim-t-201045"></a>
 - t-004
-  global_id: t-201045
   teiginys: "Vilhelmas pradėjo gorinti Sviatopelką iškeikimu, liepdamas jam liautis nuo naikinimo ti kybos krikščionų ir kraštų kryžėjų.."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -102,7 +98,6 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 
 <a id="claim-t-201046"></a>
 - t-005
-  global_id: t-201046
   teiginys: "Toksai įbingimas perkrikštų Parusny didyn vien gandino kryžėjus, kurių vyresnybė nemintanti guodės popiežiui, rodydama savo pavojų ir artimą pra garą bei pagalbos lūgodama ir teiraudamos jo, ką bedaryti tokioj noty, sakydama, jog Vilhelmas, jo siuntinys, v."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -141,23 +136,20 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
     gą, kad Lenkijos karūna nebūtų sujungta su Vengrijos ir kad Ma­
     rija nuolat gyventų Lenkijoj; nes jie nenorėjo, kad jų kraštas, lyg
     provincija, būtų valdomas iš Budapešto.
-  citata_rodoma: |
-    Abi
-    jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su
-    Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
-    go markagrafu, vėliau tapusiu ciesorium Zigmantu. Pirmiausia
-    Lenkijai buvo paskirta Marija, kuriai jau 1383 m.
+  citata_rodoma: "Abi\njos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su\nAustrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­\ngo markagrafu, vėliau tapusiu ciesorium Zigmantu. Pirmiausia\nLenkijai buvo paskirta Marija, kuriai jau 1383 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-51186
-    - t-51187
+    - t-002
+    - t-001
+
 - id: c-184394
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo pačiu laiku sukilo kerštai kalavijonų su Al­
     bertu, v. Rygos, kurie niekaip negalėjo taikiai žemę
@@ -177,10 +169,12 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201044
+    - t-003
+
 - id: c-184395
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuojau v. Vilhelmas pradėjo gorinti Sviatopelką
     iškeikimu, liepdamas jam liautis nuo naikinimo ti­
@@ -191,10 +185,12 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201045
+    - t-004
+
 - id: c-184396
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vienok gi-
     lesniai į Žemaičių kraštą nebdrįso beeiti, krūpau­
@@ -223,4 +219,4 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201046
+    - t-005

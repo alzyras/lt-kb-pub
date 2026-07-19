@@ -38,7 +38,6 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
 
 <a id="claim-t-79415"></a>
 - t-001
-  global_id: t-79415
   teiginys: "Vasario 9 d. priešakiniai 7-ojo „lietuviškojo“ pulko daliniai po susišaudymo su lietuvių husarų žvalgais užėmė Jiezną."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
 
 <a id="claim-t-79416"></a>
 - t-002
-  global_id: t-79416
   teiginys: "Pralaimėjimas Jiezne ir nesėkmė pietinėje Lietuvoje prie Nemuno galutinai sužlugdė bolševikų planus užimti Kauną - laikinąją Lietuvos sostinę ir nutraukti Lietuvos valstybės egzistavimą."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -72,7 +70,6 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
 
 <a id="claim-t-79417"></a>
 - t-003
-  global_id: t-79417
   teiginys: "Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,23 +129,15 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
     Nepriklausomybės kovos buvo paremtos savanorių heroizmu —
     net jei už jį Lietuva siūlė žemę, vis tiek pagalvokim, kokia auka
     buvo siūloma atgimstančiai valstybei.
-  citata_rodoma: |
-    Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
-    kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
-    ma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki
-    pat Daugpilio. Buvo priversta taip pat prie Radviliškio kautis su
-    plėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų sa-
-    vanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimė-
-    jusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės
-    Lietuvos egzistavimo galimybę atmetusius, dar neseniai gin-
-    klo broliais buvusius lenkus prie Širvintų ir Giedraičių.
+  citata_rodoma: "Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo\nkariauti Nepriklausomybės kovose prieš bolševikus, atremda-\nma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki\npat Daugpilio. Buvo priversta taip pat prie Radviliškio kautis su\nplėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų sa-\nvanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimė-\njusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės\nLietuvos egzistavimo galimybę atmetusius, dar neseniai gin-\nklo broliais buvusius lenkus prie Širvintų ir Giedraičių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79417
+    - t-003
+
 - id: c-76412
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -174,7 +163,8 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79415
+    - t-001
+
 - id: c-76413
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -198,4 +188,4 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79416
+    - t-002

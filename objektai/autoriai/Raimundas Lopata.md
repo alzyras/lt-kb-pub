@@ -40,8 +40,7 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
 ## Teiginiai
 
 <a id="claim-t-23254"></a>
-- t-001
-  global_id: t-23254
+- t-002
   teiginys: "Raimundas Lopata buvo tarp mokslininkų, tyrusių istorijos politikos problemas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
     - c-65427
 
 <a id="claim-t-23255"></a>
-- t-002
-  global_id: t-23255
+- t-003
   teiginys: "Bibliografijoje Lopata R. siejamas su veikalu „Lietuvos valstybingumo raida 1914–1918 metais“."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -94,15 +92,15 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
     Ams-
     terdam–New York, 2010.
     Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
-  citata_rodoma: |
-    Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
+  citata_rodoma: "Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23255
+    - t-003
+
 - id: c-65427
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -127,12 +125,11 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
     nepriklausomybės įkalnes bei nuokalnes – nuo pat pirmo valstybės vardo
     paminėjimo vienoje iš Europos kronikų 1009 m. iki Lietuvos virsmo vi-
     sateise Europos Sąjungos nare 2004 m.
-  citata_rodoma: |
-    jais grįstą Lietuvos istorijos veikalą. Jo paskirtis – kiekvienam Skaitytojui,
+  citata_rodoma: "jais grįstą Lietuvos istorijos veikalą. Jo paskirtis – kiekvienam Skaitytojui,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23254
+    - t-002

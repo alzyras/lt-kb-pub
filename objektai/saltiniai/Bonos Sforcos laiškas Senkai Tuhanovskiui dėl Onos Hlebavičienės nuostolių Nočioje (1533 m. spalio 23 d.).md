@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-88243"></a>
 - t-001
-  global_id: t-88243
   teiginys: "1533 m. spalio 23 d. Vilniuje datuotu laišku Bona Sforca liepė Senkai Tuhanovskiui ištirti Onos Hlebavičienės patirtus nuostolius Nočioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ media_all_json: |-
     - c-84223
 
 <a id="claim-t-88244"></a>
-- t-002
-  global_id: t-88244
+- t-003
   teiginys: "1533 m. spalio 23 d. Vilniuje rašytame Bonos Sforcos laiške įsakyta ištirti Onos Hlebavičienės nuostolius Nočioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,7 +128,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88244
+    - t-003
+
 - id: c-84223
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -165,4 +164,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88243
+    - t-001

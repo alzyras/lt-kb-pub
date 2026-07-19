@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-54305"></a>
 - t-001
-  global_id: t-54305
   teiginys: "Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau kryžiaus karų epochos Europa, nebeleisdama savarankiško krikšto, tarsi atstūmė Lietuvą nuo krikščionybės."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-183323"></a>
 - t-002
-  global_id: t-183323
   teiginys: "Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, bet Europa nebeleido valstybėms savarankiškai krikštytis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -105,26 +103,15 @@ Nenurodyta
     kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
     leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
     nuo krikščionybės.
-  citata_rodoma: |
-    Lietuva
-    liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis
-    ir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar
-    gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo
-    laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir
-    iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą,
-    kiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas
-    Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
-    išpranašaus Vilniaus įkūrimą ir šlovę. Nors nebus nė vieno kunigaikščio,
-    kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
-    leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
-    nuo krikščionybės.
+  citata_rodoma: "Lietuva \nliko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis \nir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar \ngyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo \nlaikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir \niki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą, \nkiek apie vyriausiąjį Dievą – „ir mes turime vieną Dievą…“ Aiškindamas \nGedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir \nišpranašaus Vilniaus įkūrimą ir šlovę. Nors nebus nė vieno kunigaikščio, \nkuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-\nleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą \nnuo krikščionybės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54305
+    - t-001
+
 - id: c-166713
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -143,4 +130,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183323
+    - t-002

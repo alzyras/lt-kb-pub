@@ -52,9 +52,8 @@ Nenurodyta
 
 <a id="claim-t-189889"></a>
 - t-001
-  global_id: t-189889
   teiginys: "Narbutas rašo, kad 1618 m. nekrikštyti valstiečiai garbino didžiulius akmenis, vadintus „Atmeszenes Wiete“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -73,10 +72,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172772
-    - c-001
+
 <a id="claim-t-194623"></a>
 - t-002
-  global_id: t-194623
   teiginys: "Ten pat jie sunaikino ir svečių dievuko, vadinto Cerokliu, garbinimą; jam atiduodavo pirmąjį maisto kąsnį ir pir mąją gėrimo taurę23."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -106,8 +104,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189889
+
 ## Citatos
 
 - id: c-172772
@@ -126,22 +123,15 @@ Nenurodyta
     avide cupientes tumulos, quam maximos efficere (Herodotas). Luka-
     nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
     pelenai ilsisi supiltame kalne).
-  citata_rodoma: |
-    Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
-    lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
-    joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
-    tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
-    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
-    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
-    Jie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-
-    te“, tai yra, anot autoriaus vertimo, „loca adiectorum “.
+  citata_rodoma: "Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­\nvonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,\ntai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.\nJie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-\nte“, tai yra, anot autoriaus vertimo, „loca adiectorum “."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189889
+    - t-001
+
 - id: c-177022
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -164,4 +154,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194623
+    - t-002

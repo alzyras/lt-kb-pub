@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-59563"></a>
 - t-001
-  global_id: t-59563
   teiginys: "Antrosios atskalūnybės metais prūsai užėmė Marienverderio miestą, dalį gyventojų paėmė į nelaisvę, dalį išžudė, o miestą sugriovė ir sudegino."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59563
+    - t-001

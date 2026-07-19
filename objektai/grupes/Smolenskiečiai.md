@@ -32,7 +32,6 @@ Tos vė­ liavos buvusios smolenskiečių.
 
 <a id="claim-t-34366"></a>
 - t-001
-  global_id: t-34366
   teiginys: "Smolenskiečių vėliavos Žalgirio mūšyje liko kairiajame sparne arčiau lenkų ir narsiai kovėsi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Tos vė­ liavos buvusios smolenskiečių.
 
 <a id="claim-t-187745"></a>
 - t-002
-  global_id: t-187745
   teiginys: "Smolenskiečiai Oršoje pasitiko kunigaikštį Mykolą ir pasidavė didžiajam kunigaikščiui Žygimantui bei jo sūnui Mykolui."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -67,7 +65,6 @@ Tos vė­ liavos buvusios smolenskiečių.
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170684
-    - c-002
 - susijęs iš [[objektai/posakiai/šuns kfauju.md#claim-t-186886|šuns kfauju]]: Posakiu „šuns kfauju“, kaip nurodo Lietuvos metraščio komentaras, Bychovco kronikos originaliajame tekste vadinami valstiečiai.
 - susijęs iš [[objektai/zodynas/prastieji žmonės.md#claim-t-187544|prastieji žmonės]]: Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorais ir miestiečiais prisiekė laikyti Andrių Sakavičių vaivada.
 ## Reikšmingi paminėjimai
@@ -92,8 +89,7 @@ Tos vė­ liavos buvusios smolenskiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187745
+
 ## Citatos
 
 - id: c-35591
@@ -112,7 +108,8 @@ Tos vė­ liavos buvusios smolenskiečių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34366
+    - t-001
+
 - id: c-170684
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -137,23 +134,11 @@ Tos vė­ liavos buvusios smolenskiečių.
     vežimais įvažiavus į pilį ir užrakinus vartus, visi tie vy­
     rai išlindo iš vežimų ir metėsi stačiai į kunigaikščio Žy­
     gimanto miegamąjį, kur jis klausė mišių.
-  citata_rodoma: |
-    O
-    gyvų paimta keturios dešimtys5 0  kunigaikščių su Kijevo
-    metropolitu6 I, jų vardais žinomi du: Kijevo kuni­
-    gaikštis Ivanas Vladimirovičius 5 2 ir jo brolis Teodoras
-    Kaributaitis5 3 , o visų kitų vardai neužrašyti.
-    Praėjus nuo to mūšio trims savaitėms, didysis ku­
-    nigaikštis Žygimantas sutelkė visas savo lietuvių pa­
-    jėgas ir išsiuntė savo sūnų kunigaikštį Mykolą į Rusią.
-    Ir kunigaikštis Mykolas, tenai nuvykęs, apsistojo Or­
-    šoje; smolenskiečiai pasitiko Oršoje kunigaikštį My­
-    kolą ir pasidavė didžiajam kunigaikščiui Žygimantui
-    ir jo sūnui kunigaikščiui Mykolui5 5 .
+  citata_rodoma: "O \ngyvų paimta keturios dešimtys5 0  kunigaikščių su Kijevo \nmetropolitu6 I, jų vardais žinomi du: Kijevo kuni­\ngaikštis Ivanas Vladimirovičius 5 2 ir jo brolis Teodoras \nKaributaitis5 3 , o visų kitų vardai neužrašyti.\nPraėjus nuo to mūšio trims savaitėms, didysis ku­\nnigaikštis Žygimantas sutelkė visas savo lietuvių pa­\njėgas ir išsiuntė savo sūnų kunigaikštį Mykolą į Rusią. \nIr kunigaikštis Mykolas, tenai nuvykęs, apsistojo Or­\nšoje; smolenskiečiai pasitiko Oršoje kunigaikštį My­\nkolą ir pasidavė didžiajam kunigaikščiui Žygimantui \nir jo sūnui kunigaikščiui Mykolui5 5 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187745
+    - t-002

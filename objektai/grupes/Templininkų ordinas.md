@@ -37,7 +37,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 
 <a id="claim-t-72652"></a>
 - t-001
-  global_id: t-72652
   teiginys: "Templininkų ordinas buvo prancūzų ordinas, minimas šalia italų joanitų ir vokiečių Marijos Mergelės ordino."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 
 <a id="claim-t-72653"></a>
 - t-002
-  global_id: t-72653
   teiginys: "Prancūzai turėjo templininkų ordiną, priskiriamą kariaujančiųjų riterių ordinams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,17 +88,12 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     virto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų
     ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
     vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
-  citata_rodoma: |
-    Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
-    turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
-    virto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų
-    ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
-    vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
+  citata_rodoma: "Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė\nturkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos\nvirto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų\nordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu\nvokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72652
-    - t-72653
+    - t-001
+    - t-002

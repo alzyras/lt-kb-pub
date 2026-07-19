@@ -31,7 +31,6 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 
 <a id="claim-t-28525"></a>
 - t-001
-  global_id: t-28525
   teiginys: "Pietuose valstybė apėmė plačią Podoliją, nusitęsusią link Juodosios jūros srities stepių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 
 <a id="claim-t-184388"></a>
 - t-002
-  global_id: t-184388
   teiginys: "Prieš Algirdo mirtį plati rytų Europos valstybė pietuose apėmė Podoliją, nusitęsusią link Juodosios jūros srities stepių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,8 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28525
+    - t-001
+
 - id: c-167756
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -103,4 +102,4 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184388
+    - t-002

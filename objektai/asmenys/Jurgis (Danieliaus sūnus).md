@@ -40,7 +40,6 @@ Kai dėl įtakos Naugarde varžėsi Tverės ir Maskvos kunigaikščiai, Gedimina
 
 <a id="claim-t-30316"></a>
 - t-001
-  global_id: t-30316
   teiginys: "Maskvos kunigaikštis Jurgis, Danieliaus sūnus, 1325 m. žuvo totorių ordoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,17 +72,11 @@ Kai dėl įtakos Naugarde varžėsi Tverės ir Maskvos kunigaikščiai, Gedimina
     kunigaikštis Jurgis (Danieliaus sūnus). Veiklus didysis Maskvos
     kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde
     Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.
-  citata_rodoma: |
-    Kai dėl įtakos Naugarde varžėsi
-    Tverės ir Maskvos kunigaikščiai, Gediminas taip pat vykdė savo
-    politinį spaudimą, ypač kai totorių ordoje 1325 m. žuvo Maskvos
-    kunigaikštis Jurgis (Danieliaus sūnus). Veiklus didysis Maskvos
-    kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde
-    Maskvos įtaką ir 1327 m.
+  citata_rodoma: "Kai dėl įtakos Naugarde varžėsi\nTverės ir Maskvos kunigaikščiai, Gediminas taip pat vykdė savo\npolitinį spaudimą, ypač kai totorių ordoje 1325 m. žuvo Maskvos\nkunigaikštis Jurgis (Danieliaus sūnus). Veiklus didysis Maskvos\nkunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde\nMaskvos įtaką ir 1327 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30316
+    - t-001

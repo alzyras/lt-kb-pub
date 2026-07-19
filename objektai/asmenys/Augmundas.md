@@ -32,7 +32,6 @@ Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir s
 
 <a id="claim-t-191370"></a>
 - t-001
-  global_id: t-191370
   teiginys: "Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir su jos kraičiu gavo nemažą Rusios valdą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,7 +77,8 @@ Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191370
+    - t-001
+
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Heiridė]]
 - Sutuoktiniai: [[objektai/asmenys/Heiridė]]

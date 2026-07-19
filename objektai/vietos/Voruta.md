@@ -30,10 +30,9 @@ Lietuvos metraštis Vorutą vaizduoja kaip pilį, kurioje Mindaugas užsidarė v
 ## Teiginiai
 
 <a id="claim-t-187395"></a>
-- t-001
-  global_id: t-187395
+- t-002
   teiginys: "Lietuvos metraštis Vorutą vaizduoja kaip pilį, kurioje Mindaugas užsidarė vengdamas kautis atvirame lauke."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
@@ -66,18 +65,11 @@ Lietuvos metraštis Vorutą vaizduoja kaip pilį, kurioje Mindaugas užsidarė v
     keliavo jis atgal j Naugarduką, ir įkūrė6 <sau vienuo­
     lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
     ir gyveno tenai.
-  citata_rodoma: |
-    Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
-    parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė
-    jotvingius ir žemaičius bei Danieliaus pagalbą, kurią
-    Danielius buvo jam anksčiau davęs, ir išžygiavo prieš
-    Mindaugą.
-    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
-    virame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir
+  citata_rodoma: "Andrių broliai riteriai pašalino iš pareigų, o Tautvilą \nparbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė \njotvingius ir žemaičius bei Danieliaus pagalbą, kurią \nDanielius buvo jam anksčiau davęs, ir išžygiavo prieš \nMindaugą.\nMindaugas buvo pasiruošęs, bet nutarė su jais at­\nvirame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187395
+    - t-002

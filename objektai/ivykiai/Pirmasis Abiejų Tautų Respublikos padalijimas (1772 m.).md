@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-41343"></a>
 - t-001
-  global_id: t-41343
   teiginys: "Pirmojo Abiejų Tautų Respublikos padalijimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, o 1773–1775 m. patvirtintos Varšuvos delegaciniame seime."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,14 +82,11 @@ Nenurodyta
     ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.
     Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
     seimas Varšuvoje.
-  citata_rodoma: |
-    Padalinimo sutartys buvo pasirašytos 1772 m.
-    Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
-    seimas Varšuvoje.
+  citata_rodoma: "Padalinimo sutartys buvo pasirašytos 1772 m.\nSankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis\nseimas Varšuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41343
+    - t-001

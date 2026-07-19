@@ -31,8 +31,7 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
 ## Teiginiai
 
 <a id="claim-t-78962"></a>
-- t-001
-  global_id: t-78962
+- t-002
   teiginys: "Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
     - c-76059
 
 <a id="claim-t-78963"></a>
-- t-002
-  global_id: t-78963
+- t-001
   teiginys: "Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų, kurių kariuomenė susirėmė su Lietuvos kariuomene."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -86,26 +84,15 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
     jūros pajūrio ir Krymo totorių teritori-
     jos trijų vadų-kunigaikščių Chadžibėjaus,
     Kutlugbugo, Dmitrijaus kariuomene.
-  citata_rodoma: |
-    Strijkovskis) teigia, kad Algirdas, su-
-    telkęs savo lietuvių pajėgas, žygiuoda-
-    mas Padniepre pro Kanevą, Čerkasus, ties
-    Mėlynaisiais Vandenimis sumušęs totorius.
-
-    Lietuvos kariuomenė buvo sudaryta
-    iš Lietuvos valdovo Algirdo ir jo brolio
-    Karijoto trijų sūnų - Karijotaičių vado-
-    vaujamų karių. Jie susirėmė su Juodosios
-    jūros pajūrio ir Krymo totorių teritori-
-    jos trijų vadų-kunigaikščių Chadžibėjaus,
-    Kutlugbugo, Dmitrijaus kariuomene.
+  citata_rodoma: "Strijkovskis) teigia, kad Algirdas, su-\ntelkęs savo lietuvių pajėgas, žygiuoda-\nmas Padniepre pro Kanevą, Čerkasus, ties\nMėlynaisiais Vandenimis sumušęs totorius.\n\nLietuvos kariuomenė buvo sudaryta\niš Lietuvos valdovo Algirdo ir jo brolio\nKarijoto trijų sūnų - Karijotaičių vado-\nvaujamų karių. Jie susirėmė su Juodosios\njūros pajūrio ir Krymo totorių teritori-\njos trijų vadų-kunigaikščių Chadžibėjaus,\nKutlugbugo, Dmitrijaus kariuomene."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78962
+    - t-002
+
 - id: c-76060
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -128,4 +115,4 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78963
+    - t-001

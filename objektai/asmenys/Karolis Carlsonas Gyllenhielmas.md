@@ -40,8 +40,7 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
 ## Teiginiai
 
 <a id="claim-t-79073"></a>
-- t-001
-  global_id: t-79073
+- t-002
   teiginys: "Karolis Carlsonas Gyllenhielmas vadovavo švedų kariuomenei, veikusiai prieš lietuvius Livonijoje."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
     - c-76172
 
 <a id="claim-t-79074"></a>
-- t-002
-  global_id: t-79074
+- t-003
   teiginys: "Karolis Carlsonas Gyllenhielmas buvo paskirtas vadovauti švedų kariuomenės aprūpinimo operacijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
     - c-76171
 
 <a id="claim-t-79075"></a>
-- t-003
-  global_id: t-79075
+- t-001
   teiginys: "K. Carlsonas Gyllenhielmas buvo paskirtas vadovauti operacijai."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -114,7 +111,8 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79075
+    - t-001
+
 - id: c-76171
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -126,19 +124,15 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
     tyti apsiautusiai švedų kariuomenei maistą
     ir šaudmenis. Operacijai vadovauti buvo
     paskirtas K. Carlsonas Gyllienhelmas.
-  citata_rodoma: |
-    Karolis Sudermanas
-    pasiuntė 2400 karių, kurie turėjo prista-
-    tyti apsiautusiai švedų kariuomenei maistą
-    ir šaudmenis. Operacijai vadovauti buvo
-    paskirtas K. Carlsonas Gyllienhelmas.
+  citata_rodoma: "Karolis Sudermanas\npasiuntė 2400 karių, kurie turėjo prista-\ntyti apsiautusiai švedų kariuomenei maistą\nir šaudmenis. Operacijai vadovauti buvo\npaskirtas K. Carlsonas Gyllienhelmas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79074
+    - t-003
+
 - id: c-76172
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -167,4 +161,4 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79073
+    - t-002

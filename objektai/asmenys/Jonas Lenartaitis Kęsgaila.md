@@ -39,7 +39,6 @@ Jonas Lenartaitis Kęsgaila savo antspaudą prispaudė prie 1490 m. sutarties, k
 
 <a id="claim-t-190231"></a>
 - t-001
-  global_id: t-190231
   teiginys: "Jonas Lenartaitis Kęsgaila savo antspaudą prispaudė prie 1490 m. sutarties, kurią sudarė Trakų pavieto bajorai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Jonas Lenartaitis Kęsgaila savo antspaudą prispaudė prie 1490 m. sutarties, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190231
+    - t-001

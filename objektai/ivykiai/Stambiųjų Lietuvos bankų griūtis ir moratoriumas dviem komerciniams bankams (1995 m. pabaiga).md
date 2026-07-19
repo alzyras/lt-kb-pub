@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66908"></a>
-- t-001
-  global_id: t-66908
+- t-002
   teiginys: "1995 m. pabaigos bankų krizė sustiprino Lietuvos bankų sektorių, sumažino blogų paskolų portfelį ir sustiprino bankų priežiūrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,12 +86,11 @@ Nenurodyta
     Lietuvoje, kaip ir kitose Vidurio ir Rytų Europos šalyse, turėjo ir teigiamų
     pasekmių: bankų sektorius sustiprėjo, išlikę bankai veikė apdairiau, su-
     mažėjo blogų paskolų portfelis, sustiprėjo bankų priežiūra.
-  citata_rodoma: |
-    Lietuvoje, kaip ir kitose Vidurio ir Rytų Europos šalyse, turėjo ir teigiamų
+  citata_rodoma: "Lietuvoje, kaip ir kitose Vidurio ir Rytų Europos šalyse, turėjo ir teigiamų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66908
+    - t-002

@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-87215"></a>
 - t-001
-  global_id: t-87215
   teiginys: "Vytautas sukvietė Lietuvos ir Rusios didikus į tarybą, liepė jiems skaityti laišką ir klausė dėl pavaldumo Lenkijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +68,6 @@ Nenurodyta
 
 <a id="claim-t-87216"></a>
 - t-002
-  global_id: t-87216
   teiginys: "Jogailos sukviestame Vilniaus suvažiavime Lietuvos ir Rusios didikai prisiekė ištikimybę ir pagalbą kovoje prieš bendrą priešą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,7 +109,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87215
+    - t-001
+
 - id: c-83195
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -151,4 +150,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87216
+    - t-002

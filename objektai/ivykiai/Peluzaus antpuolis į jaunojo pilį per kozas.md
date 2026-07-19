@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201342"></a>
 - t-001
-  global_id: t-201342
   teiginys: "Noris kryžėjai nebkliovės dauginus perkrikštais ir atėjūnais lietuvių, vienok Peluza išlūgojo nuo kamendoto Karaliaučiaus kelias dešimtis kryžėjų rinktinių ir jų vyresnįjį Goliną, kursai pirmesniuose žygiuose buvo atsiženklinęs."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184692
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Noris kryžėjai nebkliovės dauginus perkrikštais
     ir atėjūnais lietuvių, vienok Peluza išlūgojo nuo
@@ -80,4 +80,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201342
+    - t-001

@@ -31,7 +31,6 @@ Narbutas Agatemerą mini tarp senovės graikų rašytojų, maniusių, kad žemė
 
 <a id="claim-t-192518"></a>
 - t-001
-  global_id: t-192518
   teiginys: "Narbutas Agatemerą mini tarp senovės graikų rašytojų, maniusių, kad žemė yra apvali, o jos viduryje buvo Graikija."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Narbutas Agatemerą mini tarp senovės graikų rašytojų, maniusių, kad žemė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192518
+    - t-001

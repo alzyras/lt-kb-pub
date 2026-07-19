@@ -32,7 +32,6 @@ Narbutas rašė, kad Dangerutis buvo Livonijos riterių suimtas ir surakintas Ve
 
 <a id="claim-t-189075"></a>
 - t-001
-  global_id: t-189075
   teiginys: "Narbutas rašė, kad Dangerutis buvo Livonijos riterių suimtas ir surakintas Vendeno pilyje, kur nusidūrė savo kalaviju."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas rašė, kad Dangerutis buvo Livonijos riterių suimtas ir surakintas Ve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189075
+    - t-001

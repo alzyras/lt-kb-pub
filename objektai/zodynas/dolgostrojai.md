@@ -31,7 +31,6 @@ Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskv�
 
 <a id="claim-t-22126"></a>
 - t-001
-  global_id: t-22126
   teiginys: "Sovietmečiu Lietuvoje nebūdavo „dolgostrojų“, nes naujos įmonės buvo paleidžiamos daugiau ar mažiau laiku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskv�
 
 <a id="claim-t-183416"></a>
 - t-002
-  global_id: t-183416
   teiginys: "Sovietų valdžia Lietuvoje noriai investavo, nes čia nebūdavo „dolgostrojų“, o naujos įmonės būdavo paleidžiamos daugiau ar mažiau laiku."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -87,15 +85,15 @@ Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskv�
     kalaudavo nesibaigiančio finansavimo), statybinės medžiagos nebūdavo
     visiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau
     laiku.
-  citata_rodoma: |
-    kvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog
+  citata_rodoma: "kvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22126
+    - t-001
+
 - id: c-166810
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -120,4 +118,4 @@ Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskv�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183416
+    - t-002

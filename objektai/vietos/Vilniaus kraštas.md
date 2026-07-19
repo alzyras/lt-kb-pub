@@ -42,8 +42,7 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
 ## Teiginiai
 
 <a id="claim-t-170918"></a>
-- t-001
-  global_id: t-170918
+- t-010
   teiginys: "Lietuvai atgauto Vilniaus ir Vilniaus krašto integracija reikalavo daug lėšų, nes karo metu kraštas buvo nualintas, o modernios pramonės įmonės išvežtos į SSRS."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     - c-155524
 
 <a id="claim-t-170919"></a>
-- t-002
-  global_id: t-170919
+- t-006
   teiginys: "Lenkija ėmėsi ekonominių ir kultūrinių sankcijų prieš Vilniaus krašto lietuvių organizacijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     - c-155528
 
 <a id="claim-t-170920"></a>
-- t-003
-  global_id: t-170920
+- t-005
   teiginys: "Apie 100 000 lietuvių gyveno Vilniaus krašte."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +96,6 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
 
 <a id="claim-t-170922"></a>
 - t-004
-  global_id: t-170922
   teiginys: "1923 m. pirmasis Lietuvos gyventojų surašymas neapėmė Vilniaus ir Klaipėdos kraštų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,8 +114,7 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     - c-155525
 
 <a id="claim-t-170923"></a>
-- t-005
-  global_id: t-170923
+- t-009
   teiginys: "Derybose su sovietais lietuviai siekė atgauti kelis lietuviškus Vilniaus krašto rajonus, tarp jų Švenčionis ir Druskininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -135,8 +130,7 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     - c-155527
 
 <a id="claim-t-170924"></a>
-- t-006
-  global_id: t-170924
+- t-003
   teiginys: "1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -155,8 +149,7 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     - c-155529
 
 <a id="claim-t-170925"></a>
-- t-007
-  global_id: t-170925
+- t-008
   teiginys: "Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -172,8 +165,7 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     - c-155530
 
 <a id="claim-t-183106"></a>
-- t-008
-  global_id: t-183106
+- t-001
   teiginys: "Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti bažnytinę provinciją, iš kurios nebūtų išskirtas okupuotasis Vilniaus kraštas."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -213,7 +205,8 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170920
+    - t-005
+
 - id: c-155524
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -233,7 +226,8 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170918
+    - t-010
+
 - id: c-155525
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -244,17 +238,15 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsė-
     jo 17  d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo
     2 028 971 (be Vilniaus ir Klaipėdos kraštų).
-  citata_rodoma: |
-    Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsė-
-    jo 17  d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo
-    2 028 971 (be Vilniaus ir Klaipėdos kraštų).
+  citata_rodoma: "Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsė-\njo 17  d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo \n2 028 971 (be Vilniaus ir Klaipėdos kraštų)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170922
+    - t-004
+
 - id: c-155527
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -272,7 +264,8 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170923
+    - t-009
+
 - id: c-155528
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -284,18 +277,15 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     organizacijas. Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
     Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
     šaukusi karo padėties su Lenkija.
-  citata_rodoma: |
-    Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius.
-    Lenkija suprato šią taktiką ir, siekdama padaryti Lietuvą sukalbames-
-    nę, ėmėsi ekonominių ir kultūrinių sankcijų prieš Vilniaus krašto lietuvių
-    organizacijas. Dėl to 1927 m.
+  citata_rodoma: "Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius.\nLenkija suprato šią taktiką ir, siekdama padaryti Lietuvą sukalbames-\nnę, ėmėsi ekonominių ir kultūrinių sankcijų prieš Vilniaus krašto lietuvių \norganizacijas. Dėl to 1927 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170919
+    - t-006
+
 - id: c-155529
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -313,7 +303,8 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170924
+    - t-003
+
 - id: c-155530
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -328,22 +319,15 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     Po nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di-
     plomatiniais ryšiais, o į visus kitus tarptautinės politikos įvykius Lietuva
     žiūrėjo tik per Vilniaus prizmę.
-  citata_rodoma: |
-    Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-
-    ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,
-    socialinį, teisinį ir administracinį bendradarbiavimą. Tačiau ji negaran-
-    tavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus
-    krašto, nors sustiprino regiono šalių bendradarbiavimą.
-    Po nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di-
-    plomatiniais ryšiais, o į visus kitus tarptautinės politikos įvykius Lietuva
-    žiūrėjo tik per Vilniaus prizmę.
+  citata_rodoma: "Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-\nga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį, \nsocialinį, teisinį ir administracinį bendradarbiavimą. Tačiau ji negaran-\ntavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus \nkrašto, nors sustiprino regiono šalių bendradarbiavimą.\nPo nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di-\nplomatiniais ryšiais, o į visus kitus tarptautinės politikos įvykius Lietuva \nžiūrėjo tik per Vilniaus prizmę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170925
+    - t-008
+
 - id: c-166491
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -363,6 +347,7 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183106
+    - t-001
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

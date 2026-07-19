@@ -31,7 +31,6 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
 
 <a id="claim-t-41703"></a>
 - t-001
-  global_id: t-41703
   teiginys: "Lietuviai puolė Livonijos magistro valdytą Duobelės pilį, sudegino papilį ir nusiaubė apylinkes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,17 +59,14 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
     prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino
     papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių
     tuo metu kontroliuojamos Viznos apylinkes prie Narevo.
-  citata_rodoma: |
-    Kai Livonijos magistras buvo
-    prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino
-    papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių
-    tuo metu kontroliuojamos Viznos apylinkes prie Narevo.
+  citata_rodoma: "Kai Livonijos magistras buvo\nprie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino\npapilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių\ntuo metu kontroliuojamos Viznos apylinkes prie Narevo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41703
+    - t-001
+
 ## Ryšiai
 - Puolė Duobelės pilį (pilis): [[objektai/grupes/Lietuviai]]

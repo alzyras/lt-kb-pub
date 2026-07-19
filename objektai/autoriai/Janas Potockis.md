@@ -41,7 +41,6 @@ Jano Potockio kelionės į Astrachanę ir jos apylinkes 1797 m. aprašymas buvo 
 
 <a id="claim-t-190336"></a>
 - t-001
-  global_id: t-190336
   teiginys: "Jano Potockio kelionės į Astrachanę ir jos apylinkes 1797 m. aprašymas buvo paskelbtas „Dziennik Wilenski“ 1828 m."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Jano Potockio kelionės į Astrachanę ir jos apylinkes 1797 m. aprašymas buvo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190336
+    - t-001

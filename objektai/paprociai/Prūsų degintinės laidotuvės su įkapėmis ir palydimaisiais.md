@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-67193"></a>
 - t-001
-  global_id: t-67193
   teiginys: "Per prūsų degintines laidotuves kilmingiesiems degino ginklus, žirgus, tarnus, drabužius, šunis ir sakalus, o nekilmingiesiems – darbo reikmenis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Nenurodyta
     - c-67207
 
 <a id="claim-t-67195"></a>
-- t-002
-  global_id: t-67195
+- t-003
   teiginys: "Dusburgietis rašo, kad prūsai po mūšio kaip auką dievams sudegino į nelaisvę paimtą kryžiuotį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,10 +84,9 @@ Nenurodyta
     - c-67205
 
 <a id="claim-t-196991"></a>
-- t-003
-  global_id: t-196991
+- t-004
   teiginys: "Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -121,6 +118,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-67205
@@ -140,7 +138,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67195
+    - t-003
+
 - id: c-67207
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -154,24 +153,12 @@ Nenurodyta
     nedvejodamas pasakydavo, kokie buvo mirusiojo drabužiai, ginklai210, žirgai bei šeimyna,
     be to, siekdamas didesnio įtikinamumo, pridurdavo, jog, girdi, jo namų durų staktoje
     numirėlis esąs palikęs vienokią ar kitokią žymę ietimi ar kitu kokiu įrankiu.
-  citata_rodoma: |
-    Dėl šitų mirusiųjų nutikdavo tokių velniškų
-    patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,
-    ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas
-    nedvejodamas pasakydavo, kokie buvo mirusiojo drabužiai, ginklai210, žirgai bei šeimyna,
-    be to, siekdamas didesnio įtikinamumo, pridurdavo, jog, girdi, jo namų durų staktoje
-    numirėlis esąs palikęs vienokią ar kitokią žymę ietimi ar kitu kokiu įrankiu. Po pergalės jie
-    aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
-    atiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse
-    gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
-    prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
-    pastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų
-    papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.
+  citata_rodoma: "Dėl šitų mirusiųjų nutikdavo tokių velniškų \npatyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus, \nar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas \nnedvejodamas pasakydavo, kokie buvo mirusiojo drabužiai, ginklai210, žirgai bei šeimyna, \nbe to, siekdamas didesnio įtikinamumo, pridurdavo, jog, girdi, jo namų durų staktoje \nnumirėlis esąs palikęs vienokią ar kitokią žymę ietimi ar kitu kokiu įrankiu. Po pergalės jie \naukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį \natiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse \ngyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet, \nprieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali \npastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų \npapročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67193
-    - t-196991
+    - t-001
+    - t-004

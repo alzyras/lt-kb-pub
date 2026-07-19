@@ -31,7 +31,6 @@ Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polo
 
 <a id="claim-t-26447"></a>
 - t-001
-  global_id: t-26447
   teiginys: "Žvalgybos karininkas Jonas Budrys (Polovinskas) buvo ruošiamo Klaipėdos žygio vadas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26447
+    - t-001

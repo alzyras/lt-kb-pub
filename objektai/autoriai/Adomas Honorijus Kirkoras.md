@@ -39,8 +39,7 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
 ## Teiginiai
 
 <a id="claim-t-54996"></a>
-- t-001
-  global_id: t-54996
+- t-002
   teiginys: "Adomas Honorijus Kirkoras 1857–1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“)."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::authors"
@@ -59,8 +58,7 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
     - c-55561
 
 <a id="claim-t-81882"></a>
-- t-002
-  global_id: t-81882
+- t-003
   teiginys: "Adomas Honorijus Kirkoras 1857-1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -79,8 +77,7 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
     - c-55561
 
 <a id="claim-t-81883"></a>
-- t-003
-  global_id: t-81883
+- t-004
   teiginys: "1859 m. išleistame vadove po Vilnių Adomas Honorijus Kirkoras pažymėjo, kad Vilnius jau turi savo istorikus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -123,8 +120,9 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54996
-    - t-81882
+    - t-002
+    - t-003
+
 - id: c-78419
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -142,4 +140,4 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81883
+    - t-004

@@ -41,7 +41,6 @@ Vikingų visuomenėje, kai kurių Laužiko minimų autorių teigimu, twimenning 
 
 <a id="claim-t-200726"></a>
 - t-001
-  global_id: t-200726
   teiginys: "Vikingų visuomenėje, kai kurių Laužiko minimų autorių teigimu, twimenning buvo gėrimas poromis, skiriamas nuo hwirfingsdryckia."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -70,8 +69,5 @@ Vikingų visuomenėje, kai kurių Laužiko minimų autorių teigimu, twimenning 
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200726
+    - t-001

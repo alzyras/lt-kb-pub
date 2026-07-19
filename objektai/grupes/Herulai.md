@@ -45,7 +45,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 
 <a id="claim-t-86794"></a>
 - t-001
-  global_id: t-86794
   teiginys: "Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 
 <a id="claim-t-184475"></a>
 - t-002
-  global_id: t-184475
   teiginys: "Po Otokaro nužudymo Teodorikas patraukė į savo pusę herulų kariuomenę ir lengvai ją perkalbėjo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 
 <a id="claim-t-184476"></a>
 - t-003
-  global_id: t-184476
   teiginys: "Herulai, vedami Alueto ir Filimunto, pasitraukė per Liguriją į Trakiją, ketindami tarnauti imperatoriaus kariuomenėje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -109,7 +106,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 
 <a id="claim-t-184477"></a>
 - t-004
-  global_id: t-184477
   teiginys: "Kojelavičius spėjo, kad alanai arba herulai, ilgėdamiesi taikos, galėjo pirmieji pasitraukti iš tėvynės į karo neniokotas žemes."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -129,7 +125,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 
 <a id="claim-t-188192"></a>
 - t-005
-  global_id: t-188192
   teiginys: "Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -150,7 +145,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 
 <a id="claim-t-188193"></a>
 - t-006
-  global_id: t-188193
   teiginys: "Narbutas rašė, kad Vokietijoje, kur po Odoakro žūties įsikūrė herulai, buvo upė Ross arba Russ, vėliau vadinta Wessel."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -171,7 +165,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 
 <a id="claim-t-188194"></a>
 - t-007
-  global_id: t-188194
   teiginys: "Narbutas spėjo, kad obotritai kai kuriuos Prilvico stabus galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -192,28 +185,19 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 
 <a id="claim-t-188196"></a>
 - t-009
-  global_id: t-188196
   teiginys: "Narbutas gotiškus lietuvių tautų elementus siejo ir su herulais, kurie, jo teigimu, ilgai lydėjo gotus Pietryčių Europoje."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Herulai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herulai\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171090
+    - c-171087
 
 <a id="claim-t-188197"></a>
 - t-010
-  global_id: t-188197
   teiginys: "Volfgangas Lazius, Narbuto išnašoje vadinamas istoriografu ir geografu, pirmasis paskelbė heruliškąją maldą „Tėve mūsų“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -234,7 +218,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 
 <a id="claim-t-192408"></a>
 - t-012
-  global_id: t-192408
   teiginys: "Narbutas rašo, kad vadui nepalankūs herulai kreipėsi į savo brolius, įsikūrusius Norike."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -256,7 +239,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 
 <a id="claim-t-192409"></a>
 - t-013
-  global_id: t-192409
   teiginys: "Po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus, ketindama apsigyventi šalia rugių arba Noriko Rugilandijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -278,7 +260,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 
 <a id="claim-t-196075"></a>
 - t-014
-  global_id: t-196075
   teiginys: "Herulai, vedami Alueto ir Filimunto, pasitraukė per Liguriją į Trakiją, ketindami toliau tarnauti imperatoriaus kariuomenėje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -292,7 +273,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 
 <a id="claim-t-197504"></a>
 - t-015
-  global_id: t-197504
   teiginys: "Didžiausia herulų dalis pasitraukė prie Dunojaus, kur ketino apsigyventi šalia rugių arba toje Noriko dalyje, kurią pavadino Rugilandija."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -302,30 +282,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179222
-
-<a id="claim-t-188195"></a>
-- t-008
-  global_id: t-188195
-  teiginys: 'Narbutas aiškino, kad herulai kai kada pagreitindavo ligos palaužtų senelių mirtį jų pačių prašymu, o ne pagal religijos nuostatus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas OCR ir išnašos triukšmas, subjektas išskleistas kaip herulai. Motyvų ir papročių aiškinimas paliktas su Narbuto atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kojalavičius|Kojalavičius]]'
-  pagrindžia:
-    - c-008
-<a id="claim-t-192407"></a>
-- t-011
-  global_id: t-192407
-  teiginys: 'Narbutas vaizduoja, kad susiklosčius aplinkybėms herulams tarsi buvo lemta įkurti naują valstybę Vidurio Europoje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Likimo formuluotė yra interpretacinė, todėl palikta su Narbuto atribucija. Pašalintas puslapio numerių triukšmas.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_place: Isteris; mentioned_place: Vysla; llm_object: Europa'
-  semantiniai_rysiai: '[[objektai/grupes/Herulai|Herulai]] gyveno Europa'
-  pagrindžia:
-    - c-011
 - susijęs iš Ravena: 493 metų kovo 5 dieną gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.
 - susijęs iš [[objektai/ivykiai/Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m.md#claim-t-191037|Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m]]: Narbutas rašo, kad 493 m. kovo 5 d. gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.
 - susijęs iš [[objektai/grupes/Galai druidai.md#claim-t-189514|Galai druidai]]: Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas panašumą bendra senovės religijų ir tautų kilme.
@@ -460,11 +416,9 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
     neišdildomą jų bruožą gerbti žmogaus gyvybe.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188195
+  statusas: verified
 - c-011
   santrauka: 'Narbutas vaizduoja, kad susiklosčius aplinkybėms herulams tarsi buvo lemta įkurti naują valstybę Vidurio Europoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -486,11 +440,9 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
     į herulų kolonijas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192407
+  statusas: verified
 ## Citatos
 
 - id: c-82773
@@ -522,7 +474,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86794
+    - t-001
+
 - id: c-167836
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -553,8 +506,9 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184475
-    - t-196075
+    - t-002
+    - t-014
+
 - id: c-167837
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -579,7 +533,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184476
+    - t-003
+
 - id: c-167838
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -604,7 +559,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184477
+    - t-004
+
 - id: c-171086
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -627,29 +583,15 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
     šiaip dar nepažintą žmogaus proto silpnybės pusę, išsamiau
     pažins įdomią supainiotą praeitį ir civilizacijos progreso ke­
     lius.
-  citata_rodoma: |
-    Bet jos principai visiškai
-    nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
-    nėmis; negalima net manyti, kad senovės graikų tikyba būtų
-    patekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka
-    mūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O
-    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
-    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
-    venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai
-    primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos
-    miestų bei provincijų, o krikščionybę arba šiaurės asų religiją,
-    jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
-    religijos, kurią gana veiksmingai formavo graikų mitologija.
-    Tiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes
-    visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
-    artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
+  citata_rodoma: "Bet jos principai visiškai\nnutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­\nnėmis; negalima net manyti, kad senovės graikų tikyba būtų\npatekusi į Lietuvą per tarpininkus gotus, nes skandinavų įtaka\nmūsų kraštui buvo senesnė nei krašto pažintis su romėnais. O\nkai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo\nkrikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­\nvenusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai\nprimetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos\nmiestų bei provincijų, o krikščionybę arba šiaurės asų religiją,\njeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos\nreligijos, kurią gana veiksmingai formavo graikų mitologija.\nTiesa, jog lietuvių religija labai panaši į galų, tai yra druidų, nes\nvisos senovės religijos, kaip ir pačios tautos, yra labai viena kitai\nartimos, kilusios iš vienos šakos -  iš vieno lopšio*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188192
+    - t-005
+
 - id: c-171087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -672,7 +614,9 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188193
+    - t-006
+    - t-009
+
 - id: c-171088
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -697,7 +641,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188194
+    - t-007
+
 - id: c-171090
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -713,22 +658,13 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
     vietoje ir jose gyveno atskiri kriviai, taigi Dusburgietis apie
     vieną Nadruvos krivį pasakė tai, kas tiko ir daugeliui kitų. Ar
     dėl tos klaidos krivis visiškai nustoja egzistuoti?
-  citata_rodoma: |
-    3 Vokiečių autoriai kildina prūsus iš gotų, kadangi kryžiuočiai
-    radę Prūsuose daug ką gotiško. Mes, priešingai, įžiūrėdami kitoniš­
-    ką lietuvių tautos kilmę, tuos gotiškus elementus laikome skoliniais
-    iš gotų, kurie visados engė tas tautas, ir siejame taip pat su herulais,
-    kurie šitiek laiko lydėjo gotus Pietryčių Europoje. Todėl lietuvių
-    genties tautos, jeigu ir neigtume papročių, įpročių, religijos bendru­
-    mą, net giminystę, nuolatos susidurdavo su gotais arba savo, arba
-    svetimoje žemėje.
+  citata_rodoma: "3 Vokiečių autoriai kildina prūsus iš gotų, kadangi kryžiuočiai\nradę Prūsuose daug ką gotiško. Mes, priešingai, įžiūrėdami kitoniš­\nką lietuvių tautos kilmę, tuos gotiškus elementus laikome skoliniais\niš gotų, kurie visados engė tas tautas, ir siejame taip pat su herulais,\nkurie šitiek laiko lydėjo gotus Pietryčių Europoje. Todėl lietuvių\ngenties tautos, jeigu ir neigtume papročių, įpročių, religijos bendru­\nmą, net giminystę, nuolatos susidurdavo su gotais arba savo, arba\nsvetimoje žemėje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188196
 - id: c-171091
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -748,7 +684,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188197
+    - t-010
+
 - id: c-175202
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -766,7 +703,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192408
+    - t-012
+
 - id: c-175203
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -783,22 +721,15 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
     mynystėje jie rado longobardus ir ėmė savintis tam tikrą
     jų valdžią. Tai buvo germanų gentis, klajojusi ir dyki­
     nėjusi, be to, visiškai negausi, bet pernelyg karinga.
-  citata_rodoma: |
-    Po Odo­
-    akro mirties dar ketverius metus truko susirėmimas prie­
-    šiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir
-    nauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo
-    burgundų. Lietuvių genčių likimai po kovo skerdynių Ra-
-    venoje buvo įvairūs. Didžiausia herulų dalis pasitraukė
-    prie Dunojaus, kur ketino apsigyventi šalia rugių arba
-    toje Noriko dalyje, kurią pavadino Rugilandija.
+  citata_rodoma: "Po Odo­\nakro mirties dar ketverius metus truko susirėmimas prie­\nšiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir\nnauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo\nburgundų. Lietuvių genčių likimai po kovo skerdynių Ra-\nvenoje buvo įvairūs. Didžiausia herulų dalis pasitraukė\nprie Dunojaus, kur ketino apsigyventi šalia rugių arba\ntoje Noriko dalyje, kurią pavadino Rugilandija."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192409
+    - t-013
+
 - id: c-179222
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -816,7 +747,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197504
+    - t-015
+
 ## Ryšiai
 - Priešai: [[objektai/grupes/Gotai]]
 - Turėjo valdovą: [[objektai/asmenys/Odoakras]]

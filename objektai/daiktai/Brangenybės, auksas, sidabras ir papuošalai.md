@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-87047"></a>
 - t-001
-  global_id: t-87047
   teiginys: "Per Vilniaus gaisrą didysis kunigaikštis neteko žirgų ir brangenybių, o miestiečių įvertinta žala siekė iki 60 tūkstančių sidabro luitų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-192493"></a>
 - t-002
-  global_id: t-192493
   teiginys: "Narbutas rašo, kad kasinėjant netoli Elbliongo aptikta aukso, sidabro, auksuotų metalų papuošalų ir dažytų vėrinių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -97,10 +95,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175283
-    - c-002
+
 <a id="claim-t-197563"></a>
 - t-003
-  global_id: t-197563
   teiginys: "Esama neabejotinų įro dymų apie tolimais amžiais šiose vietose gyvenusių žmo nių, visuomet garsėjusių prekyba, turtingumą; kasinėjant netoli Elbliongo, aptikta labai dailių aukso, sidabro ir kitokių auksuotų metalų papuošalų, molio, vaško ir pana šių į."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -134,8 +131,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192493
+
 ## Citatos
 
 - id: c-83026
@@ -157,7 +153,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87047
+    - t-001
+
 - id: c-175283
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -178,27 +175,15 @@ Nenurodyta
     minklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų
     keliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­
     vo gamybos blizgučius.
-  citata_rodoma: |
-    Jei netu­
-    rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis
-    nieko nežinotume apie šį miestą. Esama neabejotinų įro­
-    dymų apie tolimais amžiais šiose vietose gyvenusių žmo­
-    nių, visuomet garsėjusių prekyba, turtingumą; kasinėjant
-    netoli Elbliongo, aptikta labai dailių aukso, sidabro ir
-    kitokių auksuotų metalų papuošalų, molio, vaško ir pana­
-    šių į mozaiką, dažytų vėrinių, kurie sudaro įdomiausią
-    dalį senovės paminklų, saugomų Karaliaučiaus Archyvo
-    kabinete; kitur panašių beveik nepavykdavo rasti. Tai pa­
-    minklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų
-    keliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­
-    vo gamybos blizgučius.
+  citata_rodoma: "Jei netu­\nrėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis\nnieko nežinotume apie šį miestą. Esama neabejotinų įro­\ndymų apie tolimais amžiais šiose vietose gyvenusių žmo­\nnių, visuomet garsėjusių prekyba, turtingumą; kasinėjant\nnetoli Elbliongo, aptikta labai dailių aukso, sidabro ir\nkitokių auksuotų metalų papuošalų, molio, vaško ir pana­\nšių į mozaiką, dažytų vėrinių, kurie sudaro įdomiausią\ndalį senovės paminklų, saugomų Karaliaučiaus Archyvo\nkabinete; kitur panašių beveik nepavykdavo rasti. Tai pa­\nminklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų\nkeliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­\nvo gamybos blizgučius."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192493
+    - t-002
+
 - id: c-179245
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -222,4 +207,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197563
+    - t-003

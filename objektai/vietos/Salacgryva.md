@@ -39,8 +39,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 ## Teiginiai
 
 <a id="claim-t-42112"></a>
-- t-001
-  global_id: t-42112
+- t-003
   teiginys: "Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolimą iš sausumos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,9 +55,9 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   pagrindžia:
     - c-45313
     - c-167192
+
 <a id="claim-t-42113"></a>
 - t-002
-  global_id: t-42113
   teiginys: "Jonas Karolis Chodkevičius Salacgryvos uosto prieigose slapta parengė du branderius - padegamuosius laivus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - c-45315
 
 <a id="claim-t-42114"></a>
-- t-003
-  global_id: t-42114
+- t-001
   teiginys: "Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,21 +117,15 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     J. K. Chodkevičiaus uosto prieigose tykan-
     čios flotilės ugnies, vis dėlto sugebėjo prasi-
     veržti į atvirą jūrą ir pasitraukti į Švediją.
-  citata_rodoma: |
-    Uždegti branderiai buvo signalas sausu-
-    moje, uosto šturmo pajėgose buvusiems lie-
-    tuviams pradėti Salacgryvos uosto puolimą
-    iš sausumos. Suderintas ir netikėtas puo-
-    limas iš jūros ir sausumos nepaliko jokių
-    galimybių švedams rimčiau pasipriešinti
-    puolantiems lietuviams.
+  citata_rodoma: "Uždegti branderiai buvo signalas sausu-\nmoje, uosto šturmo pajėgose buvusiems lie-\ntuviams pradėti Salacgryvos uosto puolimą\niš sausumos. Suderintas ir netikėtas puo-\nlimas iš jūros ir sausumos nepaliko jokių\ngalimybių švedams rimčiau pasipriešinti\npuolantiems lietuviams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42112
+    - t-003
+
 - id: c-45314
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -146,19 +138,15 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     tiesiai per miškus. 1609 m. kovo 14 d. LDK
     etmono Jono Karolio Chodkevičiaus vado-
     vaujama kariuomenė pasiekė Piarnu, tačiau
-  citata_rodoma: |
-    LDK etmonas Jonas Karolis Chodkevičius
-    su kariuomene nužygiavo Piarnu link.
-    Norėdamas užklupti priešą nepasiruošusį,
-    jis prie Salacgryvos (Salismiinde) žygiavo
-    tiesiai per miškus. 1609 m.
+  citata_rodoma: "LDK etmonas Jonas Karolis Chodkevičius\nsu kariuomene nužygiavo Piarnu link.\nNorėdamas užklupti priešą nepasiruošusį,\njis prie Salacgryvos (Salismiinde) žygiavo\ntiesiai per miškus. 1609 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42114
+    - t-001
+
 - id: c-45315
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -181,27 +169,15 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     LDK jungtinės sausumos ir ką tik sufor-
     muoto karinio laivyno pajėgos, vadovauja-
     mos Jono Karolio Chodkevičiaus 1609 m.
-  citata_rodoma: |
-    Suformuota
-    flotilė patraukė Salacgryvos uosto link,
-    kurio prieigose etmono įsakymu slapta
-    buvo parengti du branderiai - padegamieji
-    laivai, kurie medinių laivų amžiuje buvo
-    labai efektyvi priemonė naikinant priešo
-    laivus, ypač stovinčius uoste.
-
-    Mūšis
-
-    LDK jungtinės sausumos ir ką tik sufor-
-    muoto karinio laivyno pajėgos, vadovauja-
-    mos Jono Karolio Chodkevičiaus 1609 m.
+  citata_rodoma: "Suformuota\nflotilė patraukė Salacgryvos uosto link,\nkurio prieigose etmono įsakymu slapta\nbuvo parengti du branderiai - padegamieji\nlaivai, kurie medinių laivų amžiuje buvo\nlabai efektyvi priemonė naikinant priešo\nlaivus, ypač stovinčius uoste.\n\nMūšis\n\nLDK jungtinės sausumos ir ką tik sufor-\nmuoto karinio laivyno pajėgos, vadovauja-\nmos Jono Karolio Chodkevičiaus 1609 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42113
+    - t-002
+
 - id: c-167191
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -217,10 +193,12 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     tiesiai per miškus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-167192
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -241,6 +219,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Puolė Salacgryvą: [[objektai/grupes/Lietuviai]]

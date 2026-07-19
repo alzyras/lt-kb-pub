@@ -33,7 +33,6 @@ Vorobjovas Vilniaus žydmiestį apibūdino kaip pereinamų kiemų, užkaborių, 
 
 <a id="claim-t-200817"></a>
 - t-001
-  global_id: t-200817
   teiginys: "Vorobjovas Vilniaus žydmiestį apibūdino kaip pereinamų kiemų, užkaborių, purvo ir tapybiškų miesto vaizdų erdvę."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Vorobjovas Vilniaus žydmiestį apibūdino kaip pereinamų kiemų, užkaborių, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200817
+    - t-001

@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-62134"></a>
 - t-001
-  global_id: t-62134
   teiginys: "1261 metais popiežius Urbonas IV įsteigė Kristaus kūno šventę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-183990"></a>
 - t-002
-  global_id: t-183990
   teiginys: "1310 metais popiežius Klemensas V Vieno susirinkime patvirtino Kristaus kūno šventę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -97,7 +95,6 @@ Nenurodyta
 
 <a id="claim-t-194445"></a>
 - t-003
-  global_id: t-194445
   teiginys: "Apie Kristaus kūno šventės įsteigimą 1261 viešpaties metais Urbonas IV, popiežius, įsteigė Kristaus kūno šventę, kurią vėliau, 1310 metais, patvirtino visuotiniame Vieno susirinkime popiežius Klemensas V (Ptol."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -124,22 +121,13 @@ Nenurodyta
 
 
                       46.
-  citata_rodoma: |
-    Apie Kristaus kūno šventės įsteigimą
-
-      1261 viešpaties metais Urbonas IV, popiežius, įsteigė Kristaus kūno šventę, kurią
-    vėliau, 1310 metais, patvirtino visuotiniame Vieno susirinkime popiežius Klemensas V
-    (Ptol. 22, 23—25).
-
-
-
-                      46.
+  citata_rodoma: "Apie Kristaus kūno šventės įsteigimą\n\n  1261 viešpaties metais Urbonas IV, popiežius, įsteigė Kristaus kūno šventę, kurią\nvėliau, 1310 metais, patvirtino visuotiniame Vieno susirinkime popiežius Klemensas V\n(Ptol. 22, 23—25).\n\n\n\n                  46."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62134
-    - t-183990
-    - t-194445
+    - t-001
+    - t-002
+    - t-003

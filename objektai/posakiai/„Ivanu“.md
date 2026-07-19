@@ -39,7 +39,6 @@ Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžin
 
 <a id="claim-t-78927"></a>
 - t-001
-  global_id: t-78927
   teiginys: "Amžininkai „Ivanu“ pavadino šalį nuniokojusį laikotarpį, kai priešų kariuomenės buvo užėmusios beveik visą Lietuvą ir ji beveik prarado valstybingumą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžin
 
 <a id="claim-t-78928"></a>
 - t-002
-  global_id: t-78928
   teiginys: "Laikotarpį, kai priešų kariuomenės buvo užėmusios beveik visą Lietuvą ir ji beveik prarado valstybingumą, amžininkai pavadino „Ivanu“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +95,8 @@ Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78927
+    - t-001
+
 - id: c-76028
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -114,20 +113,11 @@ Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžin
     Lietuva buvo beveik praradusi valstybingumą.
 
     kariuomene stovėjo prie Šklovo.
-  citata_rodoma: |
-    „amžinąja
-    taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.
-
-    Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį
-    amžininkai pavadino „Ivanu“, nes pirmą kartą Lietuvos istorijoje
-    beveik visą jos teritoriją buvo užėmusios priešų kariuomenės ir
-    Lietuva buvo beveik praradusi valstybingumą.
-
-    kariuomene stovėjo prie Šklovo.
+  citata_rodoma: "„amžinąja\ntaika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.\n\nTaip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį\namžininkai pavadino „Ivanu“, nes pirmą kartą Lietuvos istorijoje\nbeveik visą jos teritoriją buvo užėmusios priešų kariuomenės ir\nLietuva buvo beveik praradusi valstybingumą.\n\nkariuomene stovėjo prie Šklovo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78928
+    - t-002

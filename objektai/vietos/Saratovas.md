@@ -27,27 +27,11 @@ media_all_json: |-
 
 Narbutas, remdamasis Lasickiu, Guboją ir Tvertiką vadina Saratovo miesto fetišais.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189062"></a>
-- t-001
-  global_id: t-189062
-  teiginys: 'Narbutas, remdamasis Lasickiu, Guboją ir Tvertiką vadina Saratovo miesto fetišais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sąrašo fragmentas paverstas pilnu sakiniu apie Saratovą ir du įvardytus objektus. Atribucija būtina dėl mitologinio bei terminologinio apibūdinimo.'
-  susije_objektai: 'mentioned_place: Rietavas'
-  pagrindžia:
-    - c-171951
-- susijęs iš Rietavas: Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reikšmę lietuvišku žodžiu „senovinis“.
-- susijęs iš [[objektai/zodynas/Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas.md#claim-t-189252|Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas]]: Narbutas Vetustį (Wetustis) nurodo kaip Rietavo miestelio fetišą, kurio lietuviška reikšmė esanti „senovinis“.
-## Citatos
-
-- id: c-171951
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas, remdamasis Lasickiu, Guboją ir Tvertiką vadina Saratovo miesto fetišais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     207
 
@@ -58,10 +42,13 @@ Narbutas, remdamasis Lasickiu, Guboją ir Tvertiką vadina Saratovo miesto feti�
     Guboja ir Tvertikas (Guboi i Twertikas)
     Saratovo miesto fetišai. Šiuos aštuonis dievukus mini La-
     sickis.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189062
+  statusas: verified
+
+## Teiginiai
+
+- susijęs iš Rietavas: Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reikšmę lietuvišku žodžiu „senovinis“.
+- susijęs iš [[objektai/zodynas/Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas.md#claim-t-189252|Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas]]: Narbutas Vetustį (Wetustis) nurodo kaip Rietavo miestelio fetišą, kurio lietuviška reikšmė esanti „senovinis“.

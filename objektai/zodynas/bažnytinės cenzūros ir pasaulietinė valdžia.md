@@ -32,7 +32,6 @@ Taip pat norime, kad to, kuris vienu ar kitu būdu daugiau kaip metus išdrįs b
 
 <a id="claim-t-86517"></a>
 - t-001
-  global_id: t-86517
   teiginys: "Vilniaus vyskupui Povilui ir jo įpėdiniams suteikta pasaulietinė valdžia asmenims, ilgiau kaip metus vengiantiems bažnytinių cenzūrų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Taip pat norime, kad to, kuris vienu ar kitu būdu daugiau kaip metus išdrįs b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86517
+    - t-001

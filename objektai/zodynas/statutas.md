@@ -36,8 +36,7 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
 ## Teiginiai
 
 <a id="claim-t-100291"></a>
-- t-001
-  global_id: t-100291
+- t-002
   teiginys: "Lietuvos bajorija priešinosi bendro kodekso įvedimui, nes nenorėjo išsižadėti Lietuvos statuto ir atskirų teisių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
     - c-94135
 
 <a id="claim-t-100292"></a>
-- t-002
-  global_id: t-100292
+- t-001
   teiginys: "Lietuvos bajorija priešinosi bendram kodeksui, nes nenorėjo išsižadėti savo statuto ir atskirų teisių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,16 +108,12 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
     rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
     skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
     dėti savo statuto, t. y. savo atskirų teisių).
-  citata_rodoma: |
-    (Lietuvos bajo-
-    rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
-    skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
-    dėti savo statuto, t. y. savo atskirų teisių).
+  citata_rodoma: "(Lietuvos bajo-\nrija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo\nskiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-\ndėti savo statuto, t. y. savo atskirų teisių)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100291
-    - t-100292
+    - t-002
+    - t-001

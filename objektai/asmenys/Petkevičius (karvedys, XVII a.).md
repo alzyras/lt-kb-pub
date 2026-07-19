@@ -42,7 +42,6 @@ media_all_json: |-
 
 <a id="claim-t-202417"></a>
 - t-001
-  global_id: t-202417
   teiginys: "1698 m. balandžio 23 d. J. L. Oziębłowskis ir jo žmona trejiems metams užstatė Kalpokiškio, arba Pavalksnės, palivarką Ukmergės paviete Samueliui Petkevičiui."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,5 @@ media_all_json: |-
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202417
+    - t-001

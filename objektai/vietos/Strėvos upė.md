@@ -37,7 +37,6 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
 
 <a id="claim-t-42168"></a>
 - t-001
-  global_id: t-42168
   teiginys: "Prie Strėvos upės Lietuvos kariuomenė pavijo atgal grįžtantį priešą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
 
 <a id="claim-t-42169"></a>
 - t-002
-  global_id: t-42169
   teiginys: "Prie Strėvos upės susirėmė stabmeldžių ir krikščionių pajėgos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,25 +91,15 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
     Vitebsko, Smolensko, Polocko daliniai, su-
     telkti greičiausiai anksčiau suplanuotam
     Ordino puolimui.
-  citata_rodoma: |
-    Atgal grįžtantį priešą prie
-    Strėvos upės pavijo Lietuvos kariuomenė.
-
-    Lietuvos pajėgos
-
-    Pagrindinių Lietuvos žemių, Algirdo ir
-    Kęstučio jėgos bei rytinių Lietuvos valdų,
-    rusėnų Vladimiro (Voluinės), Brastos,
-    Vitebsko, Smolensko, Polocko daliniai, su-
-    telkti greičiausiai anksčiau suplanuotam
-    Ordino puolimui.
+  citata_rodoma: "Atgal grįžtantį priešą prie\nStrėvos upės pavijo Lietuvos kariuomenė.\n\nLietuvos pajėgos\n\nPagrindinių Lietuvos žemių, Algirdo ir\nKęstučio jėgos bei rytinių Lietuvos valdų,\nrusėnų Vladimiro (Voluinės), Brastos,\nVitebsko, Smolensko, Polocko daliniai, su-\ntelkti greičiausiai anksčiau suplanuotam\nOrdino puolimui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42168
+    - t-001
+
 - id: c-45347
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -125,13 +113,11 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
     t. t. O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent
     Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėlia-
     vos penkios dešimtys nukauta.
-  citata_rodoma: |
-    J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje. Stabmeldžiai
-    mėtė į krikščionis savo ietis, rusai iš lankų ir t.
+  citata_rodoma: "J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje. Stabmeldžiai\nmėtė į krikščionis savo ietis, rusai iš lankų ir t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42169
+    - t-002

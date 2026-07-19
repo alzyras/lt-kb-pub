@@ -36,7 +36,6 @@ Konstitucija. Konstitucija nustatė Lietuvos valstybei demokratinės respublikos
 
 <a id="claim-t-67458"></a>
 - t-001
-  global_id: t-67458
   teiginys: "Lietuvos Valstybės Konstitucija buvo priimta 1922 m. rugpjūčio 1 d."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Konstitucija. Konstitucija nustatė Lietuvos valstybei demokratinės respublikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67458
+    - t-001

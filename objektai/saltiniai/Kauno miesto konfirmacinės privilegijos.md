@@ -8,11 +8,11 @@ datos:
   - '1649 m.'
 date_start: '1576'
 date_end: '1649'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Yra išlikusios 1576 m. Stepono Batoro, 1633 m. Vladislovo Vazos ir 1649 m. Jono
 
 <a id="claim-t-202281"></a>
 - t-001
-  global_id: t-202281
   teiginys: "Yra išlikusios 1576 m. Stepono Batoro, 1633 m. Vladislovo Vazos ir 1649 m. Jono Kazimiero, taip pat vėlesnių Abiejų Tautų Respublikos valdovų Kauno miesto konfirmacinės privilegijos."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Yra išlikusios 1576 m. Stepono Batoro, 1633 m. Vladislovo Vazos ir 1649 m. Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202281
+    - t-001

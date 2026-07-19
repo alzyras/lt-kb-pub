@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189936"></a>
 - t-001
-  global_id: t-189936
   teiginys: "Narbutas markopolius vaizdavo kaip požemio dievaičius, kuriuos ypač garbino didikai ir bajorai, o Pušaitis jų prašydavo už kaimiečius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172819
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas markopolius vaizdavo kaip požemio dievaičius, kuriuos ypač garbino didikai ir bajorai, o Pušaitis jų prašydavo už kaimiečius.'
@@ -83,8 +82,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189936
+
 ## Citatos
 
 - id: c-172819
@@ -106,18 +104,11 @@ Nenurodyta
     to valgio, kuris jiems buvo gardžiausias, per kitas šventes de­
     da daugiau, negu buvo per ankstesnes, prašydami, kad pagau­
     sintų javų.
-  citata_rodoma: |
-    Markopoliai (Markopole)
-    Požemio dievaičiai, kuriuos ypač garbino didikai ir bajo­
-    rai. Aiškiu Lasickio liudijimu, Strijkovskis ir kiti trumpai mini
-    juos kaip požemio dievaičius. Tai buvo barstukai, tik kilmin-
-    gesnės giminės. Jiems nusilenkdavo pats Pušaitis, prašydamas
-    kaimiečių vardu, idant markopoliai sulaikytų savo garbinto­
-    jus nuo nelaimingų žmonių engimo.
+  citata_rodoma: "Markopoliai (Markopole)\nPožemio dievaičiai, kuriuos ypač garbino didikai ir bajo­\nrai. Aiškiu Lasickio liudijimu, Strijkovskis ir kiti trumpai mini\njuos kaip požemio dievaičius. Tai buvo barstukai, tik kilmin-\ngesnės giminės. Jiems nusilenkdavo pats Pušaitis, prašydamas\nkaimiečių vardu, idant markopoliai sulaikytų savo garbinto­\njus nuo nelaimingų žmonių engimo."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189936
+    - t-001

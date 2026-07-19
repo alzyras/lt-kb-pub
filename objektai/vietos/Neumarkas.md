@@ -38,7 +38,6 @@ Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­ traciją ir ek
 
 <a id="claim-t-32414"></a>
 - t-001
-  global_id: t-32414
   teiginys: "Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,18 +70,11 @@ Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­ traciją ir ek
     amžius, 66-rių metų laikotarpis nuo Gedimino iki jo sūnaus Kęstu­
     čio mirties (1316-1382), skaitomas didžiausios ordino stiprybės ir
     geriausio jo žydėjimo metais.
-  citata_rodoma: |
-    Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­
-    traciją ir ekonomiškai klestinti vokiečių ordino valstybė, kurios
-    valdos tęsėsi nuo Neumarko iki Narvos (išskyrus Žemaičių kylį),
-    jau buvo praleidusi laiką lietuviams įveikti. Dviejų generacijų
-    amžius, 66-rių metų laikotarpis nuo Gedimino iki jo sūnaus Kęstu­
-    čio mirties (1316-1382), skaitomas didžiausios ordino stiprybės ir
-    geriausio jo žydėjimo metais.
+  citata_rodoma: "Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­\ntraciją ir ekonomiškai klestinti vokiečių ordino valstybė, kurios\nvaldos tęsėsi nuo Neumarko iki Narvos (išskyrus Žemaičių kylį),\njau buvo praleidusi laiką lietuviams įveikti. Dviejų generacijų\namžius, 66-rių metų laikotarpis nuo Gedimino iki jo sūnaus Kęstu­\nčio mirties (1316-1382), skaitomas didžiausios ordino stiprybės ir\ngeriausio jo žydėjimo metais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32414
+    - t-001

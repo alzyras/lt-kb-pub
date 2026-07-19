@@ -38,7 +38,6 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
 
 <a id="claim-t-88440"></a>
 - t-001
-  global_id: t-88440
   teiginys: "Lealio komtūro laiškas didžiajam magistrui datuotas 1432 m. rugpjūčio 19 d. Rygoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88440
+    - t-001

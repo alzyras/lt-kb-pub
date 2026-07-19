@@ -31,7 +31,6 @@ Narbutas aiškino, kad kūnui sunykus žmogaus šešėlis išsivaduoja ir gali s
 
 <a id="claim-t-188996"></a>
 - t-001
-  global_id: t-188996
   teiginys: "Narbutas aiškino, kad kūnui sunykus žmogaus šešėlis išsivaduoja ir gali skristi į Eliziejaus laukus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas aiškino, kad kūnui sunykus žmogaus šešėlis išsivaduoja ir gali s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188996
+    - t-001

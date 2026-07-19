@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-40826"></a>
 - t-001
-  global_id: t-40826
   teiginys: "Pervedus 6-ąjį pėstininkų pulką į lenkų frontą, jo kariai ir vadas Vidugiriuose susitiko su nuo vasaros vidurio kovojusiu I batalionu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ media_all_json: |-
 
 <a id="claim-t-40827"></a>
 - t-002
-  global_id: t-40827
   teiginys: "Batalionas ankstyvą popietę pasiekė Aukštadvario miestelį ir išsirikiavo prieš 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko štabą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40827
+    - t-002
+
 - id: c-44711
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -95,18 +94,11 @@ media_all_json: |-
     vadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyva-
     vusį to paties pulko I batalioną Vidugirių kaime.
     „Vidugirių kaimą pasiekėme po pietų.
-  citata_rodoma: |
-    “ |
-
-    | 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisi-
-    mena, kaip pervedus į lenkų frontą visą 6-ąjį pulką jo kariai ir
-    vadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyva-
-    vusį to paties pulko I batalioną Vidugirių kaime.
-    „Vidugirių kaimą pasiekėme po pietų.
+  citata_rodoma: "“ |\n\n| 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisi-\nmena, kaip pervedus į lenkų frontą visą 6-ąjį pulką jo kariai ir\nvadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyva-\nvusį to paties pulko I batalioną Vidugirių kaime.\n„Vidugirių kaimą pasiekėme po pietų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40826
+    - t-001

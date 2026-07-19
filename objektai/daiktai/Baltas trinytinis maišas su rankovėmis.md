@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-08283"></a>
 - t-001
-  global_id: t-08283
   teiginys: "Kariai ant savo apdaro kartais užsimesdavo baltą trinytinį maišą su rankovėmis."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -71,12 +70,11 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Ant tokio savo apdaro tankiai patys antsimovė baltą trinytinį maišą su rankovėmis.
-  citata_rodoma: |
-    Ant tokio savo apdaro tankiai patys antsimovė baltą trinytinį maišą su rankovėmis.
+  citata_rodoma: "Ant tokio savo apdaro tankiai patys antsimovė baltą trinytinį maišą su rankovėmis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08283
+    - t-001

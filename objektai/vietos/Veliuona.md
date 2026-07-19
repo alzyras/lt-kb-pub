@@ -8,6 +8,7 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1200 m.'
   - '1337 m.'
@@ -16,17 +17,18 @@ datos:
   - '1364 m.'
   - '1406 m.'
   - '1418 m.'
+  - '1561 m.'
   - '2026 m.'
 date_start: '1200'
 date_end: '2026'
+amziai:
+  - 'XII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - pilis
-amziai:
-  - 'XII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,13 +46,12 @@ media_all_json: |-
 
 ## Santrauka
 
-Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. Senoji Veliuonos piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gilią griovą. Gediminas žuvo 1337 m. mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
+saugoti Dubysos upyną.
 
 ## Teiginiai
 
 <a id="claim-t-180736"></a>
-- t-001
-  global_id: t-180736
+- t-017
   teiginys: "Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,9 +66,8 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   pagrindžia:
     - c-164328
 
-<a id="claim-t-180742"></a>
-- t-002
-  global_id: t-180742
+<a id="claim-t-180737"></a>
+- t-022
   teiginys: "Senoji Veliuonos piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gilią griovą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,11 +80,11 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Veliuona\" parinktas kaip owner_note_path. Targetas \"Bona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-164339
     - c-164335
+    - c-164339
+
 <a id="claim-t-180738"></a>
-- t-003
-  global_id: t-180738
+- t-021
   teiginys: "Gediminas žuvo 1337 m. mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,8 +104,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-164326
 
 <a id="claim-t-180739"></a>
-- t-004
-  global_id: t-180739
+- t-001
   teiginys: "M. Michelbertas pateikė duomenų iš Rudaičių ir Veliuonos kapinynų."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -121,8 +120,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-164332
 
 <a id="claim-t-180740"></a>
-- t-005
-  global_id: t-180740
+- t-004
   teiginys: "Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausė jiems."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -139,8 +137,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-164325
 
 <a id="claim-t-180741"></a>
-- t-006
-  global_id: t-180741
+- t-026
   teiginys: "Ilgai buvo klaidingai aiškinta, kad Gediminas 1338 m. žuvo per Veliuonos apgulimą, pašautas kryžiuočių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -159,8 +156,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-164343
 
 <a id="claim-t-180743"></a>
-- t-007
-  global_id: t-180743
+- t-018
   teiginys: "Veliuona tikriausiai XIII a. buvo pastatyta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -175,9 +171,8 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   pagrindžia:
     - c-164341
 
-<a id="claim-t-180753"></a>
-- t-008
-  global_id: t-180753
+<a id="claim-t-180744"></a>
+- t-025
   teiginys: "1418 m. Veliuonos derybose nepavyko nustatyti Žemaitijos sienų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -196,8 +191,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-164323
 
 <a id="claim-t-180746"></a>
-- t-009
-  global_id: t-180746
+- t-030
   teiginys: "Rugpjūtį prie Nemuno veikę kryžiuočiai, Ordinui sulaukus naujos pagalbos, sunaikino svarbią lietuvių Veliuonos pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -215,8 +209,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-164336
 
 <a id="claim-t-180747"></a>
-- t-010
-  global_id: t-180747
+- t-024
   teiginys: "Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -233,8 +226,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-164345
 
 <a id="claim-t-180748"></a>
-- t-011
-  global_id: t-180748
+- t-005
   teiginys: "Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos yra susimetę kryžiuočiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -251,8 +243,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-164327
 
 <a id="claim-t-180751"></a>
-- t-012
-  global_id: t-180751
+- t-016
   teiginys: "Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies, per mylią nuo Veliuonos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -271,8 +262,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-164326
 
 <a id="claim-t-180752"></a>
-- t-013
-  global_id: t-180752
+- t-003
   teiginys: "Grįždami kryžiuočiai sudegino Peštvę ir Veliuoną, kurios ilgai rodė tvirtą atsparumą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -289,8 +279,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-32515
 
 <a id="claim-t-180754"></a>
-- t-014
-  global_id: t-180754
+- t-011
   teiginys: "Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausęs jiems."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -307,8 +296,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-164325
 
 <a id="claim-t-180755"></a>
-- t-015
-  global_id: t-180755
+- t-006
   teiginys: "Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos ir galįs siekti Prūsijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -325,8 +313,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-37790
 
 <a id="claim-t-180756"></a>
-- t-016
-  global_id: t-180756
+- t-023
   teiginys: "Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -343,8 +330,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-164327
 
 <a id="claim-t-180757"></a>
-- t-017
-  global_id: t-180757
+- t-031
   teiginys: "1360 m. maršalo vadovaujama Ordino kariuomenė su talkininkais iš Vokietijos puolė Veliuonos pilį ir padarė jai daug žalos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -363,8 +349,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-43974
 
 <a id="claim-t-180758"></a>
-- t-018
-  global_id: t-180758
+- t-002
   teiginys: "Ilgai buvo klaidingai aiškinta, kad Gediminas žuvo per Veliuonos apgulimą 1338 m."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -383,8 +368,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-164324
 
 <a id="claim-t-180759"></a>
-- t-019
-  global_id: t-180759
+- t-020
   teiginys: "Prie Veliuonos Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -401,8 +385,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-164340
 
 <a id="claim-t-180760"></a>
-- t-020
-  global_id: t-180760
+- t-029
   teiginys: "M. Michelbertas pateikė Rudaičių ir Veliuonos kapinynų duomenų archeologiniuose leidiniuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -418,8 +401,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-164332
 
 <a id="claim-t-185172"></a>
-- t-021
-  global_id: t-185172
+- t-034
   teiginys: "Po 1418 m. susitikimo karalius kurį laiką pasiliko Veliuonoje, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -442,8 +424,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-168533
 
 <a id="claim-t-194261"></a>
-- t-022
-  global_id: t-194261
+- t-035
   teiginys: "III APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje, kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko vų su Ordinu šioje vietovėje."
   atnaujinta: "2026-07-06 13:01"
   sprendimo_priezastis: "auto"
@@ -456,10 +437,9 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     - c-164341
 
 <a id="claim-t-194758"></a>
-- t-023
-  global_id: t-194758
+- t-036
   teiginys: "Vis dėlto 1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė pilį."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -467,6 +447,18 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-177154
+
+<a id="claim-t-201670"></a>
+- t-037
+  teiginys: "Štai 1561 m. Austrijos erchercogo Ferdinando tarnas Adomas Timas Kauno vaitui Motiejui Heinui apskundė dėl vagystės Andrisą Rodtą, matyt, vokietį, kuris Veliuonoje prisijungė prie jo, kad išmoktų lietuvių kalbos."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185017
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188208|Kryžiuočių ordinas]]: XIV a. pradžioje kryžiuočiai apgulė Veliuonos pilį, o negalėdami jos paimti priešais pastatė Fridburgą ir Bajerburgą.
 - susijęs iš Ventės ragas: Kryžiuočiai prie Nemuno žiočių, Ventės rage, statė pilį, vadintą Vindenburgu.
 - susijęs iš Ventės ragas: 1360 m. kryžiuočiai tvirtinosi Nemuno žemupyje ir statė naują pilį prie Nemuno žiočių, Ventės rage, vadintą Vindenburgu.
@@ -652,7 +644,8 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180752
+    - t-003
+
 - id: c-37790
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -675,7 +668,8 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180755
+    - t-006
+
 - id: c-43974
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -697,7 +691,8 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180757
+    - t-031
+
 - id: c-164323
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -712,19 +707,15 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     miestų atstovai (Liubeko ir Stralsundo), kaipo suinteresuoti
     Vytauto ir Ordino nesantaika, trukdžiusia Hanzai susisiekti su
     Lietuva Vokiečių Ordino žemėmis.
-  citata_rodoma: |
-    Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­
-    statyti Žemaitijos sienas. Šiose derybose dalyvavo ir Hanzos
-    miestų atstovai (Liubeko ir Stralsundo), kaipo suinteresuoti
-    Vytauto ir Ordino nesantaika, trukdžiusia Hanzai susisiekti su
-    Lietuva Vokiečių Ordino žemėmis.
+  citata_rodoma: "Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­\nstatyti Žemaitijos sienas. Šiose derybose dalyvavo ir Hanzos\nmiestų atstovai (Liubeko ir Stralsundo), kaipo suinteresuoti\nVytauto ir Ordino nesantaika, trukdžiusia Hanzai susisiekti su\nLietuva Vokiečių Ordino žemėmis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180753
+    - t-025
+
 - id: c-164324
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -734,18 +725,15 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
     Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas. Jis tada
     žiemop (XI.
-  citata_rodoma: |
-    Yra tikra tiek,
-    jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
-    Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas. Jis tada
-    žiemop (XI.
+  citata_rodoma: "Yra tikra tiek,\njog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per\nVeliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas. Jis tada\nžiemop (XI."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180758
+    - t-002
+
 - id: c-164325
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -758,21 +746,16 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.
     Ordinas buvo gąsdinamas girdais, kad kunigaikštis « tas pilis pasta­
     tęs prieš vokiečius ».
-  citata_rodoma: |
-    Tuo pat metu, kai kryžiuočiai įrodinėjo, kad
-    dešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas
-    pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)
-    atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.
-    Ordinas buvo gąsdinamas girdais, kad kunigaikštis « tas pilis pasta­
-    tęs prieš vokiečius ».
+  citata_rodoma: "Tuo pat metu, kai kryžiuočiai įrodinėjo, kad\ndešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas\npasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)\natstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.\nOrdinas buvo gąsdinamas girdais, kad kunigaikštis « tas pilis pasta­\ntęs prieš vokiečius »."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180740
-    - t-180754
+    - t-004
+    - t-011
+
 - id: c-164326
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -802,33 +785,16 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     bet ten dar prieš aštuonerius metus
     Bremeno pirkliai jau buvo pastaty­
     dinę keletą namų.
-  citata_rodoma: |
-    O vis dėlto Vilniuje, galingos valstybės sostinėje,
-    Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­
-    tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­
-    čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­
-    giję feodalinio valdymo principai.
-    Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
-    lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
-    nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su
-    valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,
-    13
-    Rygos miestas buvo įkurtas 1200
-    metais, ant kalno, vadinto Righe,
-    Dvinos pakrantėje, vyskupo Alber­
-    to fon Apeldemo, pasiųsto skleisti
-    krikščioniškąjį tikėjimą Livonijoje,
-    bet ten dar prieš aštuonerius metus
-    Bremeno pirkliai jau buvo pastaty­
-    dinę keletą namų.
+  citata_rodoma: "O vis dėlto Vilniuje, galingos valstybės sostinėje, \nGedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­\ntės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­\nčionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­\ngiję feodalinio valdymo principai.\nPo Gedimino, nužudyto 1337 metais prie Bajerburgo pi­\nlies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­\nnutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su \nvaldovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,\n13\nRygos miestas buvo įkurtas 1200 \nmetais, ant kalno, vadinto Righe, \nDvinos pakrantėje, vyskupo Alber­\nto fon Apeldemo, pasiųsto skleisti \nkrikščioniškąjį tikėjimą Livonijoje, \nbet ten dar prieš aštuonerius metus \nBremeno pirkliai jau buvo pastaty­\ndinę keletą namų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180738
-    - t-180751
+    - t-021
+    - t-016
+
 - id: c-164327
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -842,19 +808,16 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
     susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
     dėlto atsiuntė savo brolį Kaributą pagalbon.
-  citata_rodoma: |
-    Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­
-    nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
-    susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
-    dėlto atsiuntė savo brolį Kaributą pagalbon.
+  citata_rodoma: "Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­\nnešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra\nsusimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis\ndėlto atsiuntė savo brolį Kaributą pagalbon."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180748
-    - t-180756
+    - t-005
+    - t-023
+
 - id: c-164328
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -872,21 +835,15 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     manytume buvus.
     g
     Post haec XI Kalendas Junii Fr.
-  citata_rodoma: |
-    Tai­
-    gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs
-    būti ta vadinama Castrum Gedemini, yra visiškai atmestina.
-    Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį
-    manytume buvus.
-    g
-    Post haec XI Kalendas Junii Fr.
+  citata_rodoma: "Tai­\ngi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs\nbūti ta vadinama Castrum Gedemini, yra visiškai atmestina.\nMes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį\nmanytume buvus.\ng\nPost haec XI Kalendas Junii Fr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180736
+    - t-017
+
 - id: c-164332
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -900,19 +857,16 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     t. 16, 1964, 53-61 p. ; t. 20, 1966, 49-56 p.) ir davė straipsnį _Romos
     imperijos įtakos baltų genčių kultūrai klausimu_ (AkMD, t 18, 1965,
     47-64 p )^102. L. N a k a i t ė rašė apie sidabro naudojimą II-XIII a.
-  citata_rodoma: |
-    Iš Rudaičių ir Veliuonos
-    kapinynų duomenų pateikė M. Michelbertas (AkMD, t. 15,
-    1963, 55-70 p. ; t. 24, 1967, 47-58 p.), taip pat rašė apie Romos
-    monetų radinius Lietuvoje I-V a.
+  citata_rodoma: "Iš Rudaičių ir Veliuonos\nkapinynų duomenų pateikė M. Michelbertas (AkMD, t. 15,\n1963, 55-70 p. ; t. 24, 1967, 47-58 p.), taip pat rašė apie Romos\nmonetų radinius Lietuvoje I-V a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180739
-    - t-180760
+    - t-001
+    - t-029
+
 - id: c-164335
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -933,7 +887,8 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180742
+    - t-022
+
 - id: c-164336
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -958,7 +913,8 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180746
+    - t-030
+
 - id: c-164339
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -974,10 +930,12 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     lp pėdsakų, kad čia stovėta pilies, nėra, nors ji buvo mūrinė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-022
+
 - id: c-164340
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -997,7 +955,8 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180759
+    - t-020
+
 - id: c-164341
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1027,8 +986,9 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180743
-    - t-194261
+    - t-018
+    - t-035
+
 - id: c-164343
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1040,17 +1000,15 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     Gedimino mirties aplinkybės nėra žinomos. Yra tikra tiek,
     jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
     Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas.
-  citata_rodoma: |
-    Gedimino mirties aplinkybės nėra žinomos. Yra tikra tiek,
-    jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
-    Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas.
+  citata_rodoma: "Gedimino mirties aplinkybės nėra žinomos. Yra tikra tiek,\njog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per\nVeliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180741
+    - t-026
+
 - id: c-164345
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1071,7 +1029,8 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180747
+    - t-024
+
 - id: c-168533
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1107,7 +1066,8 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185172
+    - t-034
+
 - id: c-177154
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1121,19 +1081,33 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
     Su šia malonia dievybe supažindina dainelė, iki šiol tebes­
     kambanti Lietuvos kaimo gražuolių lūpose:
     Dok mums žiedaj, dok, Grubite!
-  citata_rodoma: |
-    Vis dėlto 1364 metais kryžiuočiai sudegino
-    Veliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­
-    gė pilį iš naujo atstatyti ir sustiprinti. Atnaujino ir šventyklą,
-    kuri gyvavo iki 1406 metų, kada kryžiuočiai antrą kartą paė­
-    mė pilį ir perstatė į krikščionių bažnyčią.
+  citata_rodoma: "Vis dėlto 1364 metais kryžiuočiai sudegino\nVeliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­\ngė pilį iš naujo atstatyti ir sustiprinti. Atnaujino ir šventyklą,\nkuri gyvavo iki 1406 metų, kada kryžiuočiai antrą kartą paė­\nmė pilį ir perstatė į krikščionių bažnyčią."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194758
+    - t-036
+
+- id: c-185017
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Be to, akivaizdus yra kitataučių poreikis išmokti lietuvių kalbos - Kauno, jei nekalbė­
+    sime apie plačias jo apylinkes, viešajame gyvenime ji buvo labiausiai paplitusi.
+    Štai 1561 m. Austrijos erchercogo Ferdinando tarnas Adomas Timas Kauno vaitui
+    Motiejui Heinui apskundė dėl vagystės Andrisą Rodtą, matyt, vokietį, kuris Veliuo-
+    noje prisijungė prie jo, kad išmoktų lietuvių kalbos.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-037
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Puolė Veliuoną: [[objektai/asmenys/Ditrichas fon Altenburgas]], [[objektai/grupes/Kryžiuočių ordinas]]

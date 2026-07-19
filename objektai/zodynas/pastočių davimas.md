@@ -38,7 +38,6 @@ Karalius už nuopelnus da­ lijo bajorams statydintis žemės sklypus, priklausa
 
 <a id="claim-t-86604"></a>
 - t-001
-  global_id: t-86604
   teiginys: "1451 metais Kazimieras miestiečius, paklūstančius Magdeburgo teisei, atleido nuo pastočių davimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Karalius už nuopelnus da­ lijo bajorams statydintis žemės sklypus, priklausa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86604
+    - t-001

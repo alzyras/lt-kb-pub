@@ -48,8 +48,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 ## Teiginiai
 
 <a id="claim-t-91235"></a>
-- t-001
-  global_id: t-91235
+- t-004
   teiginys: "Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,9 +63,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   pagrindžia:
     - c-24366
     - c-167013
+
 <a id="claim-t-91236"></a>
-- t-002
-  global_id: t-91236
+- t-012
   teiginys: "1940 m. birželio 14-osios rytą vermachtas įžengė į Paryžių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,8 +84,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - c-86962
 
 <a id="claim-t-91237"></a>
-- t-003
-  global_id: t-91237
+- t-016
   teiginys: "Paryžiuje Henrikas ir Karolis IX mėgino pakeisti kai kuriuos artikulų punktus, bet delegacijoms nenusileidus sutiko ir prisiekė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,8 +100,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - c-24364
 
 <a id="claim-t-91238"></a>
-- t-004
-  global_id: t-91238
+- t-011
   teiginys: "Jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,8 +116,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - c-86967
 
 <a id="claim-t-91240"></a>
-- t-005
-  global_id: t-91240
+- t-014
   teiginys: "1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -139,8 +135,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - c-86959
 
 <a id="claim-t-91241"></a>
-- t-006
-  global_id: t-91241
+- t-001
   teiginys: "Popiežiaus priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose dvasininkų bei pasauliečių akivaizdoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -157,7 +152,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 
 <a id="claim-t-91242"></a>
 - t-007
-  global_id: t-91242
   teiginys: "Paryžiaus taikos konferencijoje lietuviai žydams žadėjo plačią kultūrinę autonomiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -176,8 +170,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - c-86963
 
 <a id="claim-t-91243"></a>
-- t-008
-  global_id: t-91243
+- t-013
   teiginys: "Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -194,10 +187,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-86966
-    - c-011
+
 <a id="claim-t-91244"></a>
-- t-009
-  global_id: t-91244
+- t-005
   teiginys: "Po susitikimo Paryžiuje su Augustu Zaleskiu A. Voldemarą Kauno stotyje pasitiko karininkai, priešinęsi deryboms su Lenkija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -216,8 +208,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - c-86957
 
 <a id="claim-t-91245"></a>
-- t-010
-  global_id: t-91245
+- t-006
   teiginys: "Voldemaras buvo nubaustas tremtimi iš Zarasų į Paryžių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -234,8 +225,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - c-86960
 
 <a id="claim-t-91246"></a>
-- t-011
-  global_id: t-91246
+- t-010
   teiginys: "1919 m. prasidėjusioje Paryžiaus taikos konferencijoje Lietuva nebuvo juridinė dalyvė ir veikė kuluaruose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -254,8 +244,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - c-24365
 
 <a id="claim-t-91247"></a>
-- t-012
-  global_id: t-91247
+- t-015
   teiginys: "Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -275,8 +264,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - c-86969
 
 <a id="claim-t-91248"></a>
-- t-013
-  global_id: t-91248
+- t-003
   teiginys: "Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -295,8 +283,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - c-24365
 
 <a id="claim-t-91249"></a>
-- t-014
-  global_id: t-91249
+- t-017
   teiginys: "1304 m. apie Kalėdas per potvynį Paryžiuje sugriuvo abu tiltai, ir jų žymės nebeliko."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -416,8 +403,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91243
+
 ## Citatos
 
 - id: c-24364
@@ -437,22 +423,15 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     delegacijoms nenusilei-
     dus, su viskuo sutiko
     ir prisiekė.
-  citata_rodoma: |
-    Lenkų ir lietuvių delegacijoms atvažiavus į Pa-
-    ryžių, pats Henrikas ir
-    jo brolis Karolis IX
-    stengėsi kai kuriuos
-    punktus pakeisti, bet,
-    delegacijoms nenusilei-
-    dus, su viskuo sutiko
-    ir prisiekė.
+  citata_rodoma: "Lenkų ir lietuvių delegacijoms atvažiavus į Pa-\nryžių, pats Henrikas ir\njo brolis Karolis IX\nstengėsi kai kuriuos\npunktus pakeisti, bet,\ndelegacijoms nenusilei-\ndus, su viskuo sutiko\nir prisiekė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91237
+    - t-016
+
 - id: c-24365
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -472,20 +451,16 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
     delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
     jos ir veikė kuluaruose.
-  citata_rodoma: |
-    Versalio sistemoje
-    Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje
-    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
-    delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
-    jos ir veikė kuluaruose.
+  citata_rodoma: "Versalio sistemoje\nLietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje \nprasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai \ndelegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-\njos ir veikė kuluaruose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91246
-    - t-91248
+    - t-010
+    - t-003
+
 - id: c-24366
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -497,16 +472,15 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes.
     Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Pran-
     cūzijos paramą.
-  citata_rodoma: |
-    Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Pran-
-    cūzijos paramą.
+  citata_rodoma: "Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Pran-\ncūzijos paramą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91235
+    - t-004
+
 - id: c-86957
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -522,19 +496,15 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     A. Voldemarą Kauno stotyje pasitiko grupė karininkų, kurie davė jam
     suprasti, kad tokiomis sąlygomis derybos su lenkais sulauks kietos opo-
     zicijos.
-  citata_rodoma: |
-    Po susitikimo Paryžiuje su Lenkijos užsie-
-    nio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną
-    A. Voldemarą Kauno stotyje pasitiko grupė karininkų, kurie davė jam
-    suprasti, kad tokiomis sąlygomis derybos su lenkais sulauks kietos opo-
-    zicijos.
+  citata_rodoma: "Po susitikimo Paryžiuje su Lenkijos užsie-\nnio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną \nA. Voldemarą Kauno stotyje pasitiko grupė karininkų, kurie davė jam \nsuprasti, kad tokiomis sąlygomis derybos su lenkais sulauks kietos opo-\nzicijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91244
+    - t-005
+
 - id: c-86958
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -551,7 +521,8 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91249
+    - t-017
+
 - id: c-86959
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -567,7 +538,8 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91240
+    - t-014
+
 - id: c-86960
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -581,7 +553,8 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91245
+    - t-006
+
 - id: c-86961
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -600,7 +573,8 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91241
+    - t-001
+
 - id: c-86962
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -617,22 +591,15 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto.
-  citata_rodoma: |
-    Smetonos
-    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
-    pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus
-    į Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų
-    ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-
-    timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
-    nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
-    10 val.
+  citata_rodoma: "Smetonos \nlaiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos \npareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus \nį Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų \nultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-\ntimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-\nnę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos \n10 val."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91236
+    - t-012
+
 - id: c-86963
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -646,17 +613,15 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     ceministras. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
     planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
     tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
-  citata_rodoma: |
-    Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
-    planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
-    tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
+  citata_rodoma: "Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos \nplanų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie \ntiktai prašė, visų pirma plačiausią kultūrinę autonomiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91242
+    - t-007
+
 - id: c-86966
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -668,19 +633,15 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
     vienuolių bendruomenės gyvenimo dėsniai. Vernerio prierašuose pabrėžiama, jog jie
     skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
-  citata_rodoma: |
-    Apkaltintas erezija Tamplierių
-    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
-    Paryžiuje 1314 m.69
-      Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
-    argumentacijos.
+  citata_rodoma: "Apkaltintas erezija Tamplierių\nordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo\nParyžiuje 1314 m.69\n  Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis\nargumentacijos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91243
+    - t-013
+
 - id: c-86967
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -701,7 +662,8 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91238
+    - t-011
+
 - id: c-86969
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -727,7 +689,8 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91247
+    - t-015
+
 - id: c-167013
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -742,10 +705,11 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     nepavyko dėl finansų stokos, jie turėjo gerą atgarsį tarp sąjungininkų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/A. Voldemaras]]

@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-59407"></a>
 - t-001
-  global_id: t-59407
   teiginys: "Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-59408"></a>
 - t-002
-  global_id: t-59408
   teiginys: "Ruseinis teigė išgelbėjęs Marijos su kūdikiu paveikslą nuo sūduvių išniekinimo ir atidavęs jį krikščioniui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-60039
 
 <a id="claim-t-194420"></a>
-- t-003
-  global_id: t-194420
+- t-004
   teiginys: "Apie vieno sūduvio atsivertimą ir nuostabų įvykį Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -131,7 +128,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59408
+    - t-002
+
 - id: c-60040
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -151,5 +149,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59407
-    - t-194420
+    - t-001
+    - t-004

@@ -30,7 +30,6 @@ Gandai apie Mengli Girėjaus žygį į Ukrainą paskatino Aleksandrą su žmona 
 
 <a id="claim-t-186327"></a>
 - t-001
-  global_id: t-186327
   teiginys: "Gandai apie Mengli Girėjaus žygį į Ukrainą paskatino Aleksandrą su žmona per Joną Drovą siųsti Ivanui laišką ir prašyti pagalbos prieš skitus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Gandai apie Mengli Girėjaus žygį į Ukrainą paskatino Aleksandrą su žmona 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186327
+    - t-001

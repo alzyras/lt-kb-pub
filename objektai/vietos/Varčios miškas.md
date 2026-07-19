@@ -37,7 +37,6 @@ Varčios miške, tarp Alovės ir Daugų mstl.
 
 <a id="claim-t-38568"></a>
 - t-001
-  global_id: t-38568
   teiginys: "1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Varčios miške, tarp Alovės ir Daugų mstl.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38568
+    - t-001

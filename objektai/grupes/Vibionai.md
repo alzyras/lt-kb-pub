@@ -31,7 +31,6 @@ Narbutas rašo, kad vibionų, arba vitbionų, genties sostinė buvo senovės pil
 
 <a id="claim-t-192992"></a>
 - t-001
-  global_id: t-192992
   teiginys: "Narbutas rašo, kad vibionų, arba vitbionų, genties sostinė buvo senovės pilis Witsby prie Dauguvos, dabartinio Vitebsko vietoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas rašo, kad vibionų, arba vitbionų, genties sostinė buvo senovės pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192992
+    - t-001

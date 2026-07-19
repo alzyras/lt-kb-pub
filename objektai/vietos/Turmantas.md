@@ -30,8 +30,7 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
 ## Teiginiai
 
 <a id="claim-t-80249"></a>
-- t-001
-  global_id: t-80249
+- t-002
   teiginys: "Turmanto geležinkelio stotis buvo užimta po atkaklaus bolševikų pasipriešinimo, parėmus 1-ojo pėstininkų pulko batalionui."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
     - c-77079
 
 <a id="claim-t-80250"></a>
-- t-002
-  global_id: t-80250
+- t-003
   teiginys: "4-osios baterijos būrys laikė Aukštakalnio-Salako-Kiemionių liniją ir turėjo pulti Turmanto kryptimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
     - c-77077
 
 <a id="claim-t-80251"></a>
-- t-003
-  global_id: t-80251
+- t-001
   teiginys: "Kariuomenės dalinys, laikęs liniją Aukštakalnis-Salakas-Kiemionys, turėjo pulti Turmanto kryptimi."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -106,8 +103,9 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80250
-    - t-80251
+    - t-003
+    - t-001
+
 - id: c-77079
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -128,4 +126,4 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80249
+    - t-002

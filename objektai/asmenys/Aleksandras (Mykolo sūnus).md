@@ -39,7 +39,6 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
 
 <a id="claim-t-30193"></a>
 - t-001
-  global_id: t-30193
   teiginys: "Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,9 +56,9 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
   pagrindžia:
     - c-30097
     - c-167739
+
 <a id="claim-t-30194"></a>
 - t-002
-  global_id: t-30194
   teiginys: "Aleksandras su sūnumi greičiausiai dėl artimų ryšių su Gediminu buvo nužudyti totorių ordoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +90,8 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30193
+    - t-001
+
 - id: c-32703
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -105,17 +105,15 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
     (^9) **Ten pat, 315-365 p.**
     (^10) **LUB, VI, 481 p.**
     (^11) **Plg. Paszkiewicz : PaJM, 346-347 p.**
-  citata_rodoma: |
-    Greičiausiai dėl artimų ryšių su Gediminu, Aleksandras su
-    sūnumi totorių ordoje buvo nužudyti. Atsargiai prieš Lietuvą
-    (^8) **Plg.
+  citata_rodoma: "Greičiausiai dėl artimų ryšių su Gediminu, Aleksandras su\nsūnumi totorių ordoje buvo nužudyti. Atsargiai prieš Lietuvą\n(^8) **Plg."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30194
+    - t-002
+
 - id: c-167739
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -131,3 +129,5 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

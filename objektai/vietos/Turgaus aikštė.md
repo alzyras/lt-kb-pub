@@ -28,7 +28,6 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
 
 <a id="claim-t-201685"></a>
 - t-001
-  global_id: t-201685
   teiginys: "Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikuriančio miesto Turgaus aikštės, matyt, greta uosto ir muitinės."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
 
 <a id="claim-t-201686"></a>
 - t-002
-  global_id: t-201686
   teiginys: "Centre buvo išplanuota netaisyklingo keturkampio 2,6 ha Turgaus aikštė."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -54,7 +52,6 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
 
 <a id="claim-t-201687"></a>
 - t-003
-  global_id: t-201687
   teiginys: "Rotušė buvo pradėta statyti Turgaus aikštės viduryje."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -67,7 +64,6 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
 
 <a id="claim-t-201688"></a>
 - t-004
-  global_id: t-201688
   teiginys: "Turgaus aikštė buvo išties ankstyvas miesto urbanistinis elementas, atsiradęs pačiais pirmaisiais miesto gyvavimo metais."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -80,7 +76,6 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
 
 <a id="claim-t-201689"></a>
 - t-005
-  global_id: t-201689
   teiginys: "Svarstyklės kitų didesnių miestų pavyzdžiu turėjo būti įrengiamos atskirame pastate, stovinčiame Turgaus aikštėje."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -93,7 +88,6 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
 
 <a id="claim-t-201690"></a>
 - t-006
-  global_id: t-201690
   teiginys: "Turgaus aikštėje buvo ir vaškinė, bene 6 krosnys."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -106,7 +100,6 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
 
 <a id="claim-t-201691"></a>
 - t-007
-  global_id: t-201691
   teiginys: "Vienuolynui buvo iš Kauno miestiečių nupirkti ar kitaip įsigyti Turgaus aikštės šiaurės vakarų kampe 2 kvartalai su 8 sklypais (posesijomis), kuriuose stovėjo gyvenamieji ir ūkiniai miestiečių pastatai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -136,7 +129,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201685
+    - t-001
 
 - id: c-185033
   autorius: "Zigmantas Kiaupa"
@@ -153,7 +146,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201686
+    - t-002
 
 - id: c-185034
   autorius: "Zigmantas Kiaupa"
@@ -173,7 +166,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201687
+    - t-003
 
 - id: c-185035
   autorius: "Zigmantas Kiaupa"
@@ -190,7 +183,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201688
+    - t-004
 
 - id: c-185036
   autorius: "Zigmantas Kiaupa"
@@ -208,7 +201,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201689
+    - t-005
 
 - id: c-185037
   autorius: "Zigmantas Kiaupa"
@@ -224,7 +217,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201690
+    - t-006
 
 - id: c-185038
   autorius: "Zigmantas Kiaupa"
@@ -242,4 +235,4 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201691
+    - t-007

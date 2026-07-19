@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-66081"></a>
 - t-001
-  global_id: t-66081
   teiginys: "1839 m. likvidavus Unitų bažnyčią, unitai buvo prievarta grąžinti į Rusų stačiatikių bažnyčios gretas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ media_all_json: |-
 
 <a id="claim-t-66082"></a>
 - t-002
-  global_id: t-66082
   teiginys: "Vilniuje pastatytomis ir atstatytomis cerkvėmis siekta parodyti, kad Šiaurės Vakarų krašto centras yra ir stačiatikiškas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,16 +82,15 @@ media_all_json: |-
     Pasikeitė valdžios kursas ir bažnyčios atžvilgiu. Apkaltinus parama suki-
     lėliams, uždaryta nemažai katalikų vienuolynų. 1839 m. likviduojama Uni-
     tų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.
-  citata_rodoma: |
-    1839 m. likviduojama Uni-
-    tų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.
+  citata_rodoma: "1839 m. likviduojama Uni-\ntų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66081
+    - t-001
+
 - id: c-66391
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -104,12 +101,11 @@ media_all_json: |-
     dešimt cerkvių. Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto
     centras yra ne ką mažiau stačiatikiškas nei katalikiškas. Rusų stačiatikių
     bažnyčios katedra paversta Šv.
-  citata_rodoma: |
-    centras yra ne ką mažiau stačiatikiškas nei katalikiškas. Rusų stačiatikių
+  citata_rodoma: "centras yra ne ką mažiau stačiatikiškas nei katalikiškas. Rusų stačiatikių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66082
+    - t-002

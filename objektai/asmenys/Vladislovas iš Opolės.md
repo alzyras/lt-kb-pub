@@ -32,8 +32,7 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
 ## Teiginiai
 
 <a id="claim-t-93547"></a>
-- t-001
-  global_id: t-93547
+- t-003
   teiginys: "Kazimieras III buvo atidavęs Galiciją Vladislovui iš Opolės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
 
 <a id="claim-t-93548"></a>
 - t-002
-  global_id: t-93548
   teiginys: "Vladislovas iš Opolės pasiūlė Vengrijos karaliui ir keliems kunigaikščiams pasidalyti Lenkijos žemes."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -67,8 +65,7 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
     - c-88887
 
 <a id="claim-t-93549"></a>
-- t-003
-  global_id: t-93549
+- t-001
   teiginys: "Vladislovas iš Opolės sutiko, kad Dobrynė ir Kujavija būtų parduotos Ordinui, ir įkeitė Dobrynės žemę."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -102,7 +99,8 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93549
+    - t-001
+
 - id: c-88886
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -121,7 +119,8 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93547
+    - t-003
+
 - id: c-88887
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -138,6 +137,7 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93548
+    - t-002
+
 ## Ryšiai
 - Vladislovas iš Opolės valdė [[objektai/vietos/Galicija]]

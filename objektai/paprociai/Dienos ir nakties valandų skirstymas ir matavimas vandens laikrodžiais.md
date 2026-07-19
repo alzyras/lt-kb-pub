@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-189914"></a>
 - t-001
-  global_id: t-189914
   teiginys: "Narbuto duomenimis, lietuviai laiką skirstė į 12 dienos ir 12 nakties valandų, o jų trukmę matuodavo vandens laikrodžiais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189914
+    - t-001

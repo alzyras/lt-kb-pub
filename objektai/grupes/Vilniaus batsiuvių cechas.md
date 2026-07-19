@@ -28,7 +28,6 @@ Vilniaus batsiuviai skundėsi, kad pirkliai jų dirbtuvėse užsisakydavo parduo
 
 <a id="claim-t-202319"></a>
 - t-001
-  global_id: t-202319
   teiginys: "Vilniaus batsiuviai skundėsi, kad pirkliai jų dirbtuvėse užsisakydavo parduoti skirtą apavą ir taip gaudavo papildomo pelno."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,5 @@ Vilniaus batsiuviai skundėsi, kad pirkliai jų dirbtuvėse užsisakydavo parduo
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202319
+    - t-001

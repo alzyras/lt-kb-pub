@@ -13,10 +13,10 @@ datos:
   - '1572 m.'
 date_start: '1569'
 date_end: '1572'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,6 @@ Ne veltui Lietuvos valdovai savo privilegijose Kauno miestą įvardydavo respubl
 
 <a id="claim-t-201792"></a>
 - t-001
-  global_id: t-201792
   teiginys: "Ne veltui Lietuvos valdovai savo privilegijose Kauno miestą įvardydavo respublika, t."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Ne veltui Lietuvos valdovai savo privilegijose Kauno miestą įvardydavo respubl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201792
+    - t-001

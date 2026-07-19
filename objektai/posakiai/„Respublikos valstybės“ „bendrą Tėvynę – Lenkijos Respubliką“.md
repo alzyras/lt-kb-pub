@@ -36,8 +36,7 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
 ## Teiginiai
 
 <a id="claim-t-20869"></a>
-- t-001
-  global_id: t-20869
+- t-002
   teiginys: "Į Gegužės trečiosios konstituciją buvo sugrąžintas valstybės dualizmo, tai yra federacijos, principas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
     - c-166898
 
 <a id="claim-t-20870"></a>
-- t-002
-  global_id: t-20870
+- t-001
   teiginys: "Gegužės trečiosios konstitucijoje frazė „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
 
 <a id="claim-t-183503"></a>
 - t-003
-  global_id: t-183503
   teiginys: "Gegužės 3-iosios konstitucijos formuluotė „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -94,7 +91,6 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
 
 <a id="claim-t-183504"></a>
 - t-004
-  global_id: t-183504
   teiginys: "Pagal Abiejų Tautų tarpusavio įžadą Kariuomenės ir Iždo komisijose Lenkija ir LDK turėjo turėti po lygiai narių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -135,8 +131,9 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20870
-    - t-183503
+    - t-001
+    - t-003
+
 - id: c-166898
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -158,5 +155,5 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20869
-    - t-183504
+    - t-002
+    - t-004

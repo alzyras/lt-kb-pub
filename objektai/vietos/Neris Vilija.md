@@ -33,7 +33,6 @@ media_all_json: |-
 
 <a id="claim-t-86092"></a>
 - t-001
-  global_id: t-86092
   teiginys: "Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo Skirgailos stovykla."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ media_all_json: |-
 
 <a id="claim-t-86093"></a>
 - t-002
-  global_id: t-86093
   teiginys: "Latopisiec Litewski nurodo, kad mūšis vyko prie Vilijos upės, ties Horodoku, vietovėje, vadinamoje Weyiszczuszki."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +65,6 @@ media_all_json: |-
 
 <a id="claim-t-86094"></a>
 - t-003
-  global_id: t-86094
   teiginys: "Artėjanti žiema grėsė Vilijos upėje stovėjusiems kryžiuočių laivams užkirsti kelią grįžti į Prūsiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +82,6 @@ media_all_json: |-
 
 <a id="claim-t-197473"></a>
 - t-004
-  global_id: t-197473
   teiginys: "Šiuo atveju to nelaimingo priešo - Vylingosios (Zdradliwa) vardo veikiau buvo nusipelniusi Vilnia, kadaise tikusi laivy bai, tokia srauni, vingiuota, akmenuotu dugnu, palyginti su Vilija, tekančia didinga vaga, dar visur gilia ir visur saugia lai vybai."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -124,32 +120,15 @@ media_all_json: |-
     riterių daliniu prasigavę per besitęsiančias į šiaurę nuo mies­
     to girias ir brastas, staiga iš už nugaros puolė nenuovokų
     Skirgailą ir sudavė jam smarkų smūgį26.
-  citata_rodoma: |
-    51) ap. V o i g t, V, 542, apie
-    jį pasakoja: Entre les Francois on doit
-    remarquer Jean le Maingre dit Bouci-
-    —  • —
-    120
-
-    ## Puslapis 137
-
-    Il KNYGA
-    ciu pulkų, vedamų Vytauto, dar ir Livonijos magistras su
-    savo pajėgomis; o kitoje Vilijos pusėje driekėsi Skirgailos sto­
-    vykla, prie Visevaldės pilies, netoli nuo senojo Kauno, jis,
-    kartu su broliu Vygantu gausiai kariaunai vadovaudami, bu­
-    vo sumanę ginti perėjas25. Kad neįsiveltų į neaiškios lemties
-    mūšį atvirame lauke, Ordino didysis maršalas su rinktinių
-    riterių daliniu prasigavę per besitęsiančias į šiaurę nuo mies­
-    to girias ir brastas, staiga iš už nugaros puolė nenuovokų
-    Skirgailą ir sudavė jam smarkų smūgį26.
+  citata_rodoma: "51) ap. V o i g t, V, 542, apie \njį pasakoja: Entre les Francois on doit \nremarquer Jean le Maingre dit Bouci-\n—  • —  \n120\n\n## Puslapis 137\n\nIl KNYGA\nciu pulkų, vedamų Vytauto, dar ir Livonijos magistras su \nsavo pajėgomis; o kitoje Vilijos pusėje driekėsi Skirgailos sto­\nvykla, prie Visevaldės pilies, netoli nuo senojo Kauno, jis, \nkartu su broliu Vygantu gausiai kariaunai vadovaudami, bu­\nvo sumanę ginti perėjas25. Kad neįsiveltų į neaiškios lemties \nmūšį atvirame lauke, Ordino didysis maršalas su rinktinių \nriterių daliniu prasigavę per besitęsiančias į šiaurę nuo mies­\nto girias ir brastas, staiga iš už nugaros puolė nenuovokų \nSkirgailą ir sudavė jam smarkų smūgį26."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86092
+    - t-001
+
 - id: c-82072
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -170,7 +149,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86093
+    - t-002
+
 - id: c-82073
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -196,7 +176,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86094
+    - t-003
+
 - id: c-179210
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -217,4 +198,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197473
+    - t-004

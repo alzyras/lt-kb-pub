@@ -36,7 +36,6 @@ Dusburgietis teigia, kad kosman M.
 
 <a id="claim-t-61102"></a>
 - t-001
-  global_id: t-61102
   teiginys: "M. Kosmano veikalas „Drogi zaniku pogaństwa u Bałtów“ išleistas Vroclave, Varšuvoje, Krokuvoje ir Gdanske 1976 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,7 @@ Dusburgietis teigia, kad kosman M.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia leidinio pavadinimą, autorių ir leidimo metus."
   pagrindžia:
     - c-61734
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Kosmano veikalas „Drogi zaniku pogaństwa u Bałtów“ išleistas Vroclave, Varšuvoje, Krokuvoje ir Gdanske 1976 m.'
@@ -66,8 +65,7 @@ Dusburgietis teigia, kad kosman M.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61102
+
 ## Citatos
 
 - id: c-61734
@@ -78,13 +76,11 @@ Dusburgietis teigia, kad kosman M.
     25—62.
     Kosman M. Drogi zaniku pogaństwa u Bałtów. —Wrocław—Warszawa—Kraków—
     Gdańsk, 1976.
-  citata_rodoma: |
-    Kosman M. Drogi zaniku pogaństwa u Bałtów. —Wrocław—Warszawa—Kraków—
-    Gdańsk, 1976.
+  citata_rodoma: "Kosman M. Drogi zaniku pogaństwa u Bałtów. —Wrocław—Warszawa—Kraków—\nGdańsk, 1976."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61102
+    - t-001

@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-179498"></a>
 - t-001
-  global_id: t-179498
   teiginys: "R. Volkaitė-Kulikauskienė parašė veikalus „Lietuviai IX-XII amžiais“ ir „Klasinės visuomenės susidarymas Lietuvoje“ archeologijos tema."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ media_all_json: |-
 
 <a id="claim-t-179501"></a>
 - t-002
-  global_id: t-179501
   teiginys: "P. Kulikauskas, R. Kulikauskienė ir A. Tautavičius 1961 m. išleido knygą „Lietuvos archeologijos bruožai“."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -101,5 +99,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179498
-    - t-179501
+    - t-001
+    - t-002

@@ -32,13 +32,44 @@ media_all_json: |-
 
 Dusburgietis teigia, kad [Szymański J.] Templariusze —SSS, Wrocław—Warszawa— Kraków—Gdańsk, 1977, t.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'J. Szymańskio straipsnis „Templariusze“ paskelbtas 1977 m. leidinio SSS šešto tomo pirmoje dalyje, 48-49 puslapiuose.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    [Szymański J.] Templariusze —SSS, Wrocław—Warszawa— Kraków—Gdańsk, 1977,
+
+    t. 6, cz. 1, s. 48—49.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-61937
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Вилинбахов В. Б., Энговатов Н. В. Предварительные замечания о западных
+    галиндах и восточной голяди. — Там же, 1963, t. 23, s. 233—267.
+  citata_rodoma: "[Szymański J.] Templariusze —SSS, Wrocław—Warszawa— Kraków—Gdańsk, 1977,\n\nt. 6, cz. 1, s. 48—49."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-61305"></a>
 - t-001
-  global_id: t-61305
   teiginys: "J. Szymańskio straipsnis „Templariusze“ paskelbtas 1977 m. leidinio SSS šešto tomo pirmoje dalyje, 48-49 puslapiuose."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,39 +84,3 @@ Dusburgietis teigia, kad [Szymański J.] Templariusze —SSS, Wrocław—Warszaw
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti pilną bibliografinį faktą."
   pagrindžia:
     - c-61937
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'J. Szymańskio straipsnis „Templariusze“ paskelbtas 1977 m. leidinio SSS šešto tomo pirmoje dalyje, 48-49 puslapiuose.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    [Szymański J.] Templariusze —SSS, Wrocław—Warszawa— Kraków—Gdańsk, 1977,
-
-    t. 6, cz. 1, s. 48—49.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61305
-## Citatos
-
-- id: c-61937
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Вилинбахов В. Б., Энговатов Н. В. Предварительные замечания о западных
-    галиндах и восточной голяди. — Там же, 1963, t. 23, s. 233—267.
-  citata_rodoma: |
-    [Szymański J.] Templariusze —SSS, Wrocław—Warszawa— Kraków—Gdańsk, 1977,
-
-    t. 6, cz. 1, s. 48—49.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-61305

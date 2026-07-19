@@ -37,7 +37,6 @@ Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis
 
 <a id="claim-t-77794"></a>
 - t-001
-  global_id: t-77794
   teiginys: "Ernestas Galvanauskas siekė jėga užimti Klaipėdos kraštą, sudaryti fait accompli padėtį ir tada derėtis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77794
+    - t-001

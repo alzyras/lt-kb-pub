@@ -31,7 +31,6 @@ Tame suvažiavime, nors ir neoficialiai, daly­ vavo ir Vytauto pasiuntinys Mald
 
 <a id="claim-t-35213"></a>
 - t-001
-  global_id: t-35213
   teiginys: "Vytauto pasiuntinys Maldžykas neoficialiai dalyvavo suvažiavime, kuriame Vytautas laukė ginčo su Jogaila sprendimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,14 +59,11 @@ Tame suvažiavime, nors ir neoficialiai, daly­ vavo ir Vytauto pasiuntinys Mald
     taiką ir tvarką* 2). Tame suvažiavime, nors ir neoficialiai, daly­
     vavo ir Vytauto pasiuntinys Maldžykas. Vytautas laukė, kad
     čia bus išspręstas jo ginčas su Jogaila.
-  citata_rodoma: |
-    Tame suvažiavime, nors ir neoficialiai, daly­
-    vavo ir Vytauto pasiuntinys Maldžykas. Vytautas laukė, kad
-    čia bus išspręstas jo ginčas su Jogaila.
+  citata_rodoma: "Tame suvažiavime, nors ir neoficialiai, daly­\nvavo ir Vytauto pasiuntinys Maldžykas. Vytautas laukė, kad\nčia bus išspręstas jo ginčas su Jogaila."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35213
+    - t-001

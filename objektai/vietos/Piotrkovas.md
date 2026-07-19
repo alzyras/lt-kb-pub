@@ -37,10 +37,9 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
 ## Teiginiai
 
 <a id="claim-t-185240"></a>
-- t-001
-  global_id: t-185240
+- t-004
   teiginys: "Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliaus pajamas iš Mazovijos ir Prūsijos."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -57,8 +56,7 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
     - c-168601
 
 <a id="claim-t-188802"></a>
-- t-002
-  global_id: t-188802
+- t-005
   teiginys: "Narbutas aiškina, kad 1567 metais vietoj abejotino Gardino seimo iš tikrųjų vyko ilgai posėdžiavęs Lenkijos seimas Piotrkove."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
     - c-171691
 
 <a id="claim-t-188803"></a>
-- t-003
-  global_id: t-188803
+- t-006
   teiginys: "Piotrkovo seime karalius Žygimantas parengė abiejų tautų žygį, o rudenį su kariuomene išžygiavo iš Vilniaus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -146,23 +143,15 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
     la ite
     mui, todėl gyveno ramiau nei
     kada anksčiau.
-  citata_rodoma: |
-    Tėvas manė,
-    kad, įsitraukus sūnui į visokius reikalus, priblėsianti ir
-    užgesianti ne laiku suliepsnojusi meilė. Nusivežė tad
-    jį su savimi į Piotrkovą, į Lenkijos karalystės seimą,
-    kuris, luomams pritariant, iš Mazovijos ir Prūsijos gau­
-    namas karaliaus pajamas paskyrė kunigaikščiui Augus­
-    tui. Ligos ten ištiktas, karalius, lapkričio mėnesį su­
-    grįžęs į Krokuvą, leido Augustui vykti į Lietuvą, prieš
-    kelionę visaip sūnų pamokęs ir pagraudenęs.
+  citata_rodoma: "Tėvas manė,\nkad, įsitraukus sūnui į visokius reikalus, priblėsianti ir\nužgesianti ne laiku suliepsnojusi meilė. Nusivežė tad\njį su savimi į Piotrkovą, į Lenkijos karalystės seimą,\nkuris, luomams pritariant, iš Mazovijos ir Prūsijos gau­\nnamas karaliaus pajamas paskyrė kunigaikščiui Augus­\ntui. Ligos ten ištiktas, karalius, lapkričio mėnesį su­\ngrįžęs į Krokuvą, leido Augustui vykti į Lietuvą, prieš\nkelionę visaip sūnų pamokęs ir pagraudenęs."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185240
+    - t-004
+
 - id: c-171691
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -184,7 +173,8 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188802
+    - t-005
+
 - id: c-171692
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -209,6 +199,7 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188803
+    - t-006
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]

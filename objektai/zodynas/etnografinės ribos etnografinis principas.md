@@ -36,8 +36,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 ## Teiginiai
 
 <a id="claim-t-101580"></a>
-- t-001
-  global_id: t-101580
+- t-003
   teiginys: "Delegacija derybose dėl sienų turėjo remtis etnografiniu principu ir daryti būtiniausias ekonomines korektyvas."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
     - c-24822
 
 <a id="claim-t-101581"></a>
-- t-002
-  global_id: t-101581
+- t-001
   teiginys: "Konferencijos rezoliucijoje būsima Lietuvos valstybė apibrėžta kaip demokratiška nepriklausoma valstybė etnografinėmis ribomis."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -70,8 +68,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
     - c-24820
 
 <a id="claim-t-101582"></a>
-- t-003
-  global_id: t-101582
+- t-002
   teiginys: "1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -89,8 +86,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
     - c-24821
 
 <a id="claim-t-183421"></a>
-- t-004
-  global_id: t-183421
+- t-005
   teiginys: "Konferencijos rezoliucija numatė nepriklausomą demokratinę Lietuvos valstybę etnografinėmis ribomis su ekonominėmis korektyvomis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -109,8 +105,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
     - c-166815
 
 <a id="claim-t-183422"></a>
-- t-005
-  global_id: t-183422
+- t-006
   teiginys: "Lietuvos delegacija sienų klausimu turėjo remtis etnografiniu principu ir būtiniausiomis ekonominėmis korektyvomis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -129,8 +124,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
     - c-166816
 
 <a id="claim-t-193605"></a>
-- t-006
-  global_id: t-193605
+- t-007
   teiginys: "Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -158,15 +152,15 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
     gyvenimui korektyvomis“, kurios galutinę struktūrą turės nustatyti „su-
     šauktas Steigiamasis Lietuvos Seimas Vilniuje, demokratiškai visų jos
     gyventojų išrinktas“, užtikrintos kultūrinės teisės tautinėms mažumoms.
-  citata_rodoma: |
-    šauktas Steigiamasis Lietuvos Seimas Vilniuje, demokratiškai visų jos
+  citata_rodoma: "šauktas Steigiamasis Lietuvos Seimas Vilniuje, demokratiškai visų jos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101581
+    - t-001
+
 - id: c-24821
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -186,15 +180,15 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
     apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
     be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
     ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
-  citata_rodoma: |
-    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+  citata_rodoma: "apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101582
+    - t-002
+
 - id: c-24822
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -212,15 +206,15 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
     rant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipė-
     dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad
     Lietuva būtų priimta į Tautų Sąjungos bendriją.
-  citata_rodoma: |
-    dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad
+  citata_rodoma: "dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101580
+    - t-003
+
 - id: c-166815
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -245,7 +239,8 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183421
+    - t-005
+
 - id: c-166816
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -270,7 +265,8 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183422
+    - t-006
+
 - id: c-176278
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -293,4 +289,4 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193605
+    - t-007

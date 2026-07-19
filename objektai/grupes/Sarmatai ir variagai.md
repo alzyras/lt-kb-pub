@@ -31,7 +31,6 @@ Narbutas rašė, kad Lietuvoje mirusieji dažniausiai laidoti karstuose žemėje
 
 <a id="claim-t-189532"></a>
 - t-001
-  global_id: t-189532
   teiginys: "Narbutas rašė, kad Lietuvoje mirusieji dažniausiai laidoti karstuose žemėje pagal sarmatų ir variagų paprotį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Narbutas rašė, kad Lietuvoje mirusieji dažniausiai laidoti karstuose žemėje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189532
+    - t-001

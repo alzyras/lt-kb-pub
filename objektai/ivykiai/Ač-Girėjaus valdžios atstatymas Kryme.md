@@ -63,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-186758"></a>
 - t-001
-  global_id: t-186758
   teiginys: "1971 m. leidinio pastaba Ač-Girėjaus valdžios atstatymą Kryme sieja su antruoju jo valdžios atkūrimu 1449 m. rugpjūtį."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -101,15 +100,11 @@ Nenurodyta
     kryžiuočių
     Choinicų
     pilies.
-  citata_rodoma: |
-    M  Čia kalbama apie antrąjj Ač-Girėjaus valdžios atstatymą
-    Kryme 1449 m. rugpiūčio mėn. Sis pasakojim as apie Ač-Girėjaus
-    grižimą į Krymą yra žinomas tik iš BK. Radvilos Astikaičio vaid-
-    menj BK piešia kitaip, negu J. Dlugošas.
+  citata_rodoma: "M  Čia kalbama apie antrąjj Ač-Girėjaus valdžios atstatymą \nKryme 1449 m. rugpiūčio mėn. Sis pasakojim as apie Ač-Girėjaus \ngrižimą į Krymą yra žinomas tik iš BK. Radvilos Astikaičio vaid- \nmenj BK piešia kitaip, negu J. Dlugošas."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186758
+    - t-001

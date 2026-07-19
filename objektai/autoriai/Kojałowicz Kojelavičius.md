@@ -30,7 +30,6 @@ f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 S
 
 <a id="claim-t-87997"></a>
 - t-001
-  global_id: t-87997
   teiginys: "Kojelavičius Pagraudenę vadino Žemaitijos apylinke."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,15 +63,11 @@ f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 S
     Kojelavičius Pagraudenę vadi-
     na apylinkę Žemaitijoje: pograudien-
     b C S 7/7 Samogitia agri. Hist. Lithu. p. 436.
-  citata_rodoma: |
-    f
-    Kojelavičius Pagraudenę vadi-
-    na apylinkę Žemaitijoje: pograudien-
-    b C S 7/7 Samogitia agri. Hist. Lithu. p. 436.
+  citata_rodoma: "f\nKojelavičius Pagraudenę vadi- \nna apylinkę Žemaitijoje: pograudien- \nb C S 7/7 Samogitia agri. Hist. Lithu. p. 436."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87997
+    - t-001

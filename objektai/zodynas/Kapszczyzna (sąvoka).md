@@ -12,10 +12,10 @@ datos:
   - '1569 m.'
 date_start: '1569'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-201803"></a>
 - t-001
-  global_id: t-201803
   teiginys: "1569 m. Kauno karčemų laikytojai mokėjo seniūnui vadinamąjį karčemų mokestį (Kant«u(3)Ha, kapszczyzna)."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201803
+    - t-001

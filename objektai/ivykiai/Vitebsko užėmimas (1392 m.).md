@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-31488"></a>
 - t-001
-  global_id: t-31488
   teiginys: "Vytautas su Jogailos žinia ir kartu su Skirgaila 1392 m. paėmė Vitebską."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,16 +86,11 @@ Nenurodyta
     laikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­
     versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse
     buvo nugalėtas.
-  citata_rodoma: |
-    Su Jogailos žinia,
-    Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską. Dėl neaiškios
-    laikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­
-    versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse
-    buvo nugalėtas.
+  citata_rodoma: "Su Jogailos žinia,\nVytautas kartu su Skirgaila 1392 m. paėmė Vitebską. Dėl neaiškios\nlaikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­\nversko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse\nbuvo nugalėtas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31488
+    - t-001

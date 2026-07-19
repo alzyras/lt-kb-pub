@@ -38,7 +38,6 @@ Smilginis, citatoje pateiktas kaip Szmilgin, 1475 metais pridėjo antspaudą su 
 
 <a id="claim-t-190241"></a>
 - t-001
-  global_id: t-190241
   teiginys: "Smilginis, citatoje pateiktas kaip Szmilgin, 1475 metais pridėjo antspaudą su Žąsies, arba Paparonos, herbu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Smilginis, citatoje pateiktas kaip Szmilgin, 1475 metais pridėjo antspaudą su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190241
+    - t-001

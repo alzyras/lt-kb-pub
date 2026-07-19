@@ -37,7 +37,6 @@ Mūšio išvakarėse Parengiamieji žygiai buvo organizuoti dviem kryptims: nuo 
 
 <a id="claim-t-38679"></a>
 - t-001
-  global_id: t-38679
   teiginys: "Prieš mūšį parengiamieji žygiai buvo organizuoti nuo Žemutinio Padnieprio Dono link ir į Krymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Mūšio išvakarėse Parengiamieji žygiai buvo organizuoti dviem kryptims: nuo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38679
+    - t-001

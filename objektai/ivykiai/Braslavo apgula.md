@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201314"></a>
 - t-001
-  global_id: t-201314
   teiginys: "Visų pirma tenai pilį Braslavo apgulė, į kurią varu įsilaužusiu, kraštą ir pilį su Lietuvos ūke sunėrė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184664
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kad taip giminės lietuvių žemaičių, gyvenančios
     saulėlydy, taikinėjo pamarionims ir pačios grūmės
@@ -79,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201314
+    - t-001

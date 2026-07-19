@@ -35,26 +35,11 @@ media_all_json: |-
 
 Povilo Juozapo Safaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo plačiai verstu veikalu, išverstu beveik į visas slavų kalbas.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-191581"></a>
-- t-001
-  global_id: t-191581
-  teiginys: 'Povilo Juozapo Safaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo plačiai verstu veikalu, išverstu beveik į visas slavų kalbas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys jau yra pilnas sakinys apie Povilo Juozapo Safaržyko veikalą. Jis remiasi citata ir neprideda neparemtų detalių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
-  pagrindžia:
-    - c-174463
-
-## Citatos
-
-- id: c-174463
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'Povilo Juozapo Safaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo plačiai verstu veikalu, išverstu beveik į visas slavų kalbas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     14
 
@@ -67,10 +52,8 @@ Povilo Juozapo Safaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyj
     T. Narbutas savo bibliotekoje turėjo tiek lenkiškąjį, tiek
     rusiškąjį „Slavų senienų“ variantą, buvo nuodugniai juos
     išstudijavęs ir susidaręs savo nuomonę.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191581
+  statusas: verified

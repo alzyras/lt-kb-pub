@@ -41,8 +41,7 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
 ## Teiginiai
 
 <a id="claim-t-79142"></a>
-- t-001
-  global_id: t-79142
+- t-003
   teiginys: "Mykolas Pacas buvo vienas bajorų konfederacijos vadų, kovojusių prieš švedus ir jų sąjungininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
 
 <a id="claim-t-79144"></a>
 - t-002
-  global_id: t-79144
   teiginys: "Mykolas Pacas buvo hetmonas ir Vilniaus vaivada."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +67,7 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
     - c-76225
 
 <a id="claim-t-200765"></a>
-- t-003
-  global_id: t-200765
+- t-004
   teiginys: "Po 1655 m. rusų antplūdžio Mykolas Pacas, Vilniaus vaivada ir Lietuvos Didžiosios Kunigaikštystės etmonas, padėjo atstatyti Bernardinų bažnyčią."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -111,18 +108,15 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
     niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, —
     Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,
     o penktas, Petras, — Žemaičių seniūnas.
-  citata_rodoma: |
-    Vienas iš jų, Mykolas, buvo hetmonas ir Vil-
-      niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, —
-      Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,
-      o penktas, Petras, — Žemaičių seniūnas.
+  citata_rodoma: "Vienas iš jų, Mykolas, buvo hetmonas ir Vil-\n  niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, —\n  Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,\n  o penktas, Petras, — Žemaičių seniūnas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79144
+    - t-002
+
 - id: c-76226
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -135,21 +129,15 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
     vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
     Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
     kariuomenės.
-  citata_rodoma: |
-    kilo Žemaičių sukilimas, padaręs
-    švedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat
-    kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-
-    vusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,
-    vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
-    Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
-    kariuomenės.
+  citata_rodoma: "kilo Žemaičių sukilimas, padaręs\nšvedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat\nkovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-\nvusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,\nvadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,\nKristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos\nkariuomenės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79142
+    - t-003
+
 - id: c-184110
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -170,4 +158,4 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200765
+    - t-004

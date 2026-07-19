@@ -31,7 +31,6 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 
 <a id="claim-t-93054"></a>
 - t-001
-  global_id: t-93054
   teiginys: "Krokuvos profesoriai rašte teigė, kad Romos karalius Zigmantas neturėjo teisės suteikti karūnos, nes nebuvo gavęs popiežiaus suteikto ciesoriaus titulo."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 
 <a id="claim-t-93055"></a>
 - t-002
-  global_id: t-93055
   teiginys: "Krokuvos profesoriai rašte teigė, kad karūnuoti gali tik popiežius, o Romos karalius Zigmantas tokios teisės neturi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,22 +78,15 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
     ra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­
     rįs tiktai pats popiežius. į tą Krokuvos profesorių, be abejo
     Zb.
-  citata_rodoma: |
-    Tuo tarpu ir susipažinsim nors trumpai su ta raštų kova,
-    kuri buvo pavartota minėtam klausimui išspręsti.
-
-    Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­
-    leisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos
-    karalius, neturįs teisės niekam suteikt karūnos, nes jis pats nė­
-    ra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­
-    rįs tiktai pats popiežius.
+  citata_rodoma: "Tuo tarpu ir susipažinsim nors trumpai su ta raštų kova,\nkuri buvo pavartota minėtam klausimui išspręsti.\n\nPirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­\nleisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos\nkaralius, neturįs teisės niekam suteikt karūnos, nes jis pats nė­\nra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­\nrįs tiktai pats popiežius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93055
+    - t-002
+
 - id: c-88467
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -115,4 +106,4 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93054
+    - t-001

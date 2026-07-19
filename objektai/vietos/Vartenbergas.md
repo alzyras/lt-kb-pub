@@ -32,7 +32,6 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
 
 <a id="claim-t-58650"></a>
 - t-001
-  global_id: t-58650
   teiginys: "Vartenbergas buvo Kulmo žemėje ant kalno, buvusiame ežero viduryje, stovėjusi pilis, kurioje gyveno broliai ir ginklanešiai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
 
 <a id="claim-t-58651"></a>
 - t-002
-  global_id: t-58651
   teiginys: "Sūduviai po ilgų antpuolių sudegino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -95,21 +93,15 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
     sekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai
     užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris ir vaikus išsivarė į
     nelaisvę.
-  citata_rodoma: |
-    Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį
-
-      Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,
-    pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių. Vieną
-    sekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai
-    užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į
-    nelaisvę.
+  citata_rodoma: "Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį\n\n  Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,\npavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių. Vieną\nsekmadienį, kai aplinkinių kaimų žmonės linksminosi ir šoko, iš Sūduvos juos netikėtai\nužgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į\nnelaisvę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58650
+    - t-001
+
 - id: c-59283
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -130,6 +122,7 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58651
+    - t-002
+
 ## Ryšiai
 - Puolė Vartenbergą: [[objektai/grupes/Sūduviai]]

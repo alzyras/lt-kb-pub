@@ -64,8 +64,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-200557"></a>
-- t-001
-  global_id: t-200557
+- t-002
   teiginys: "Jei advokatas būtų pareikalavęs daugiau, Lopacinskis žadėjo jam nedelsdamas sumokėti ir papildomą sumą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -82,8 +81,7 @@ Nenurodyta
     - c-183948
 
 <a id="claim-t-200558"></a>
-- t-002
-  global_id: t-200558
+- t-001
   teiginys: "1751 m. Lopacinskis nurodė regentui Ščepanovskiui sumokėti advokatui Glindzičiui 15 auksinų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -109,23 +107,9 @@ Nenurodyta
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 6"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
-  citata_originali: |
-    Laiškuose irgi būdavo minimos teismo pareigūnų paslaugos. 1751 m. laiške LDK
-    pakancleriui Mykolui Antanui Sapiegai kanauninkas teigė, kad regentui Ščepanovskiui
-    (Szczepanowski) liepęs sumokėti advokatui Glindzičiui (Glindzyc) 15 auksinų, nes Vil-
-    niuje jau preliminariai pats pakancleris žadėjo duoti 10. Kanauninkas paminėjo, kad jei
-    advokatas pareikalautų daugiau, jam nedelsdamas sumokėtų [10].
-  citata_rodoma: |
-    Laiškuose irgi būdavo minimos teismo pareigūnų paslaugos. 1751 m. laiške LDK
-    pakancleriui Mykolui Antanui Sapiegai kanauninkas teigė, kad regentui Ščepanovskiui
-    (Szczepanowski) liepęs sumokėti advokatui Glindzičiui (Glindzyc) 15 auksinų, nes Vil-
-    niuje jau preliminariai pats pakancleris žadėjo duoti 10. Kanauninkas paminėjo, kad jei
-    advokatas pareikalautų daugiau, jam nedelsdamas sumokėtų [10].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 04:19"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200557
-    - t-200558
+    - t-002
+    - t-001

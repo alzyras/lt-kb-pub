@@ -30,7 +30,6 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
 
 <a id="claim-t-02773"></a>
 - t-001
-  global_id: t-02773
   teiginys: "Lietuvos vyriausybė pasiūlė laikiną demarkacijos liniją, kuri turėjo eiti per Grabovą, Augustavą ir Stabiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,15 +61,11 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
     rimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-
 
     kacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
-  citata_rodoma: |
-    Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis
-    su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susita-
-    rimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-
-    kacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
+  citata_rodoma: "Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis\nsu Maskva paliko sieną nustatyti Lietuvos tiesioginiam susita-\nrimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-\nkacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02773
+    - t-001

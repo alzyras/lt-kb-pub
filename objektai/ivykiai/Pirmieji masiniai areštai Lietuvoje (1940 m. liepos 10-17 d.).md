@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-26383"></a>
 - t-001
-  global_id: t-26383
   teiginys: "1940 m. liepos 6 d. Antanas Sniečkus išleido įsakymą, leidusį suimti agituojančius prieš Liaudies vyriausybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,4 +96,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26383
+    - t-001

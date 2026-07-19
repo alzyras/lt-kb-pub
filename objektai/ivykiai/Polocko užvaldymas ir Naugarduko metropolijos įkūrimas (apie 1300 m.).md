@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-31466"></a>
 - t-001
-  global_id: t-31466
   teiginys: "Apie 1300 m. Vytenis ilgam užvaldė Polocką Lietuvai, nes po Mindaugo mirties šis miestas buvo atsipalaidavęs nuo Lietuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,15 +85,11 @@ Nenurodyta
     1300 m. ilgiems laikams Lietuvai užvaldė Polocką. Šis turtingas
     ir svarbus prekybos punktas prie Dauguvos, Mindaugui mirus,
     buvo atsipalaidavęs nuo Lietuvos.
-  citata_rodoma: |
-    Naudodamasis proga, jis apie
-    1300 m. ilgiems laikams Lietuvai užvaldė Polocką. Šis turtingas
-    ir svarbus prekybos punktas prie Dauguvos, Mindaugui mirus,
-    buvo atsipalaidavęs nuo Lietuvos.
+  citata_rodoma: "Naudodamasis proga, jis apie\n1300 m. ilgiems laikams Lietuvai užvaldė Polocką. Šis turtingas\nir svarbus prekybos punktas prie Dauguvos, Mindaugui mirus,\nbuvo atsipalaidavęs nuo Lietuvos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31466
+    - t-001

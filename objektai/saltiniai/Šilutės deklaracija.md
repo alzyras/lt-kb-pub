@@ -37,7 +37,6 @@ Jame krašto atstovai vienbalsiai priėmė Šilutės deklaraciją, kuria buvo nu
 
 <a id="claim-t-10550"></a>
 - t-001
-  global_id: t-10550
   teiginys: "1923 m. sausio 19 d. Šilutėje sušauktame Visuotiniame seime krašto atstovai vienbalsiai priėmė Šilutės deklaraciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Jame krašto atstovai vienbalsiai priėmė Šilutės deklaraciją, kuria buvo nu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10550
+    - t-001

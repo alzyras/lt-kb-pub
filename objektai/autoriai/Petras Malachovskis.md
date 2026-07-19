@@ -39,7 +39,6 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
 
 <a id="claim-t-191616"></a>
 - t-002
-  global_id: t-191616
   teiginys: "Teodoro Narbuto pastaboje Petras Malachovskis siejamas su 1780 m. Lucke išleistu bajorų pavardžių ir herbų rinkiniu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -61,17 +60,6 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
   pagrindžia:
     - c-174498
 
-<a id="claim-t-191615"></a>
-- t-001
-  global_id: t-191615
-  teiginys: 'Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia Malachovskio rinkinyje minimą žinią apie Gedimino suteiktą herbą. Nepridėta neaiškaus šaltinio pagrindo, kurį pats tekstas pažymi kaip neapibrėžtą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_place: Lietuva'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą.'
@@ -89,11 +77,9 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
     nevičiaus vardu, yra žinomas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191615
+  statusas: verified
 ## Citatos
 
 - id: c-174498
@@ -115,4 +101,4 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191616
+    - t-002

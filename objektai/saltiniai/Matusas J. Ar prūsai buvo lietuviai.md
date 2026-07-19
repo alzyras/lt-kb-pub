@@ -36,7 +36,6 @@ Dusburgietis teigia, kad matusas J.
 
 <a id="claim-t-61161"></a>
 - t-001
-  global_id: t-61161
   teiginys: "J. Matuso „Ar prūsai buvo lietuviai?“ paskelbtas žurnalo „Vairas“ 1936 m. 7–8 numeriuose, p. 697–705."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Dusburgietis teigia, kad matusas J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61161
+    - t-001

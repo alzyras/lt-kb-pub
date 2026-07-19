@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-87870"></a>
 - t-001
-  global_id: t-87870
   teiginys: "Traidenis 1325 m. viešpatavo vienoje iš Mazovijos žemių kartu su kunigaikščiu Ziemovitu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,22 +76,11 @@ media_all_json: |-
     dux Masovie Vanczko prie 1328 m. aptinkame, o kitose to kraš­
     to žemėse 1325 metais viešpatavo kunigaikščiai - Ziemovi­
     tas ir Traidenis.
-  citata_rodoma: |
-    Ar
-    Liubeke, pasakyta: Dominus Subovis- tai spaustuvės klaida, ar D r e y e r i s
-    laus Dux Mazovie [Viešpats Subovis- taip iš tiesų būtų išskaitęs?
-    98
-
-    ## Puslapis 115
-
-    I  KNYGA
-    dux Masovie Vanczko prie 1328 m. aptinkame, o kitose to kraš­
-    to žemėse 1325 metais viešpatavo kunigaikščiai - Ziemovi­
-    tas ir Traidenis.
+  citata_rodoma: "Ar \nLiubeke, pasakyta: Dominus Subovis- tai spaustuvės klaida, ar D r e y e r i s \nlaus Dux Mazovie [Viešpats Subovis- taip iš tiesų būtų išskaitęs?\n98\n\n## Puslapis 115\n\nI  KNYGA\ndux Masovie Vanczko prie 1328 m. aptinkame, o kitose to kraš­\nto žemėse 1325 metais viešpatavo kunigaikščiai - Ziemovi­\ntas ir Traidenis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87870
+    - t-001

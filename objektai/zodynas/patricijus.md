@@ -32,8 +32,7 @@ Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Rom
 ## Teiginiai
 
 <a id="claim-t-192240"></a>
-- t-001
-  global_id: t-192240
+- t-002
   teiginys: "Pasak Teodoro Narbuto, imperatorius Julijus Nepas po Odoakro pergalės paskyrė Odoakrą patricijumi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -52,8 +51,7 @@ Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Rom
     - c-175084
 
 <a id="claim-t-192241"></a>
-- t-002
-  global_id: t-192241
+- t-003
   teiginys: "Teodoras Narbutas patricijų aiškina kaip imperatoriaus vietininką."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -70,17 +68,6 @@ Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Rom
   pagrindžia:
     - c-175084
 
-<a id="claim-t-192242"></a>
-- t-003
-  global_id: t-192242
-  teiginys: 'Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Romos patricijų, tarp jų keturių patricijų giminių atstovai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Legendinis kilmės pasakojimas tinkamai atribuotinas kronikai ir gali būti kiek informatyvesnis.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kentauras|Kentauras]]'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -96,11 +83,9 @@ Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Rom
     Rožės herbo 7  — Hektoras 8 .
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192242
+  statusas: verified
 ## Citatos
 
 - id: c-175084
@@ -120,16 +105,12 @@ Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Rom
     prieglaudos Dalmatijoje, tuojau po Odoakro pergalės at­
     siuntė iškilmingą sveikinimą ir paskyrė jį patricijumi,
     t. y. imperatoriaus vietininku.
-  citata_rodoma: |
-    Oresto nuverstas impera(orius Julijus Nepas, neturėjęs
-    prieglaudos Dalmatijoje, tuojau po Odoakro pergalės at-
-    siuntė iškilmingą sveikinimą ir paskyrė jį patricijumi,
-    t. y. imperatoriaus vietininku.
+  citata_rodoma: "Oresto nuverstas impera(orius Julijus Nepas, neturėjęs\nprieglaudos Dalmatijoje, tuojau po Odoakro pergalės at-\nsiuntė iškilmingą sveikinimą ir paskyrė jį patricijumi,\nt. y. imperatoriaus vietininku."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192240
-    - t-192241
+    - t-002
+    - t-003

@@ -67,7 +67,6 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 
 <a id="claim-t-13489"></a>
 - t-001
-  global_id: t-13489
   teiginys: "1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -87,7 +86,6 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 
 <a id="claim-t-13490"></a>
 - t-002
-  global_id: t-13490
   teiginys: "1251 m. Mindaugas krikštijosi perleidęs didelę dalį Žemaitijos Livonijos ordinui, o 1253 m. liepos 6 d. pasiekė karūnos tikslą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -108,7 +106,6 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 
 <a id="claim-t-24563"></a>
 - t-003
-  global_id: t-24563
   teiginys: "Karūnos tikslas buvo pasiektas 1253 m. liepos 6 d., o Mindaugas įvardijamas kaip pirmas ir vienintelis vainikuotas Lietuvos karalius."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -127,7 +124,6 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 
 <a id="claim-t-24564"></a>
 - t-004
-  global_id: t-24564
   teiginys: "Mindaugo vainikavimas šaltinyje aiškinamas kaip valstybės susikūrimo užbaigimas, nes Lietuvą pripažino to meto pasaulis."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -144,7 +140,6 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 
 <a id="claim-t-26855"></a>
 - t-005
-  global_id: t-26855
   teiginys: "Mindaugas po karūnacijos tapo popiežiaus, o ne imperatoriaus vasalu ir gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -161,7 +156,6 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 
 <a id="claim-t-26856"></a>
 - t-006
-  global_id: t-26856
   teiginys: "Mindaugo pasiekti diplomatiniai laimėjimai šaltinyje vadinami pirma tarptautine Lietuvos diplomatijos pergale."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -178,7 +172,6 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 
 <a id="claim-t-26857"></a>
 - t-007
-  global_id: t-26857
   teiginys: "A. Varnas 1952–1953 m. sukūrė darbą „Mindaugo vainikavimas. Mindaugo karūnacija“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -231,7 +224,8 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13489
+    - t-001
+
 - id: c-16377
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -248,8 +242,9 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13490
-    - t-24563
+    - t-002
+    - t-003
+
 - id: c-16380
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -289,9 +284,10 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-24564
-    - t-26855
-    - t-26856
+    - t-004
+    - t-005
+    - t-006
+
 - id: c-25426
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -306,4 +302,4 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26857
+    - t-007

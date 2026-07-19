@@ -28,7 +28,6 @@ Kauno klebonas Bartlomiejus Ciešinskis pasinaudodamas proga išprašė iš ižd
 
 <a id="claim-t-202118"></a>
 - t-001
-  global_id: t-202118
   teiginys: "Kauno klebonas Bartlomiejus Ciešinskis pasinaudodamas proga išprašė iš iždo 2 000 auksinų paramą bažnyčios statybai."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -56,4 +55,4 @@ Kauno klebonas Bartlomiejus Ciešinskis pasinaudodamas proga išprašė iš ižd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202118
+    - t-001

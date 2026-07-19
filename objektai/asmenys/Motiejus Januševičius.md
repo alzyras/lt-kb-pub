@@ -31,7 +31,6 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
 
 <a id="claim-t-87795"></a>
 - t-001
-  global_id: t-87795
   teiginys: "Motiejus Januševičius su broliu Kasparu buvo tarp parapijoje gyvenusių bajorų, privalėjusių mokėti dešimtinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87795
+    - t-001

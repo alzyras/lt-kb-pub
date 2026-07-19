@@ -37,7 +37,6 @@ Kai Vytau­ tas po Kęstučio mirties užmezgė ryšius su didžiuoju magistru, 
 
 <a id="claim-t-86576"></a>
 - t-001
-  global_id: t-86576
   teiginys: "1384 m. sutartimi Ordinas prisiekė grąžinti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių žadėjo perleisti paveldėjimo teises kryžiuočiams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Kai Vytau­ tas po Kęstučio mirties užmezgė ryšius su didžiuoju magistru, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86576
+    - t-001

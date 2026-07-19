@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-21436"></a>
 - t-001
-  global_id: t-21436
   teiginys: "2004 m. pabaigoje Lietuvai pasiūlyta vadovauti Afganistano Goro provincijos atkūrimo grupei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,12 +72,11 @@ media_all_json: |-
     Lietuvai pasiūlyta vadovauti vienos iš Afganistano provincijų – Goro – at-
     kūrimo grupei, sudaryti šioje provincijoje sąlygas užtikrinti stabilumą ir
     saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.
-  citata_rodoma: |
-    saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.
+  citata_rodoma: "saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21436
+    - t-001

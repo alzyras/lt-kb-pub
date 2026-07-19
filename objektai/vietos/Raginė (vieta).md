@@ -33,7 +33,6 @@ Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo 
 
 <a id="claim-t-201698"></a>
 - t-001
-  global_id: t-201698
   teiginys: "Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo tapo miestietis iš Kauno priemiesčio Raginės Mykolas Romanaitis."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,6 @@ Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo 
 
 <a id="claim-t-201699"></a>
 - t-002
-  global_id: t-201699
   teiginys: "Mikalojaus bažnyčiai, įsikūrusiai Raginėje, priklausė 2 namai netoli bažnyčios ir 1 daržas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,7 @@ Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201698
+    - t-001
 
 - id: c-185046
   autorius: "Zigmantas Kiaupa"
@@ -91,4 +89,4 @@ Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201699
+    - t-002

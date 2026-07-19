@@ -30,7 +30,6 @@ Narbuto pasakojime norvegas Heidrigas vedė reto grožio moterį ir kraičiu gav
 
 <a id="claim-t-191409"></a>
 - t-001
-  global_id: t-191409
   teiginys: "Narbuto pasakojime norvegas Heidrigas vedė reto grožio moterį ir kraičiu gavo Vindliandiją, arba Vitlandą; įvykiai siejami su III a."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Narbuto pasakojime norvegas Heidrigas vedė reto grožio moterį ir kraičiu gav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191409
+    - t-001

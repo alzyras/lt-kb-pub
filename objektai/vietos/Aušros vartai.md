@@ -40,7 +40,6 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
 
 <a id="claim-t-77779"></a>
 - t-001
-  global_id: t-77779
   teiginys: "1992 m. Prancūzijos prezidento Fransua Miterano vizito metu Vytautas Landsbergis su svečiu lankėsi Vilniaus senamiestyje prie Aušros vartų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
 
 <a id="claim-t-200773"></a>
 - t-002
-  global_id: t-200773
   teiginys: "Vorobjovo pasakojime viena stabmeldiškoji šventykla stovėjo netoli Aušros vartų, šventame alke."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,6 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
 
 <a id="claim-t-200774"></a>
 - t-003
-  global_id: t-200774
   teiginys: "Aušros vartai buvo vieninteliai miesto vartai, išlikę po XIX a. pradžios miesto sienų, vartų ir bokštų griovimo."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -121,7 +118,8 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77779
+    - t-001
+
 - id: c-184118
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -140,7 +138,8 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200773
+    - t-002
+
 - id: c-184119
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -163,4 +162,4 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200774
+    - t-003

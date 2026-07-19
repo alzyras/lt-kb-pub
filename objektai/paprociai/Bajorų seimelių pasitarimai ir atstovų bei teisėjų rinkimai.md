@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202411"></a>
 - t-001
-  global_id: t-202411
   teiginys: "Lapkričio 28 d. dienoraščio autorius vyko į Daugpilio Livonijos seimelį, nors daugelis jo valdų priklausė Breslaujos pavietui."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,5 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202411
+    - t-001

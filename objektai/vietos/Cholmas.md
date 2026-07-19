@@ -31,7 +31,6 @@ Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vl
 
 <a id="claim-t-36173"></a>
 - t-001
-  global_id: t-36173
   teiginys: "Cholmo stačiatikių vyskupas kartu su kitais vyskupais išleido aplinkraštį dėl savo teisių gynimo nuo Rusijos metropolitų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,19 +66,14 @@ Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vl
     Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­
     tropolitų savo teises. Taip Vytautas vėl atgaivino Kijeve at­
     skirą Lietuvai stačiatikių metropoliją.
-  citata_rodoma: |
-    Susirinkusieji stačiatikių
-    vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro,
-    Cholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo
-    Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­
-    tropolitų savo teises. Taip Vytautas vėl atgaivino Kijeve at­
-    skirą Lietuvai stačiatikių metropoliją.
+  citata_rodoma: "Susirinkusieji stačiatikių\nvyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro,\nCholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo\nKonstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­\ntropolitų savo teises. Taip Vytautas vėl atgaivino Kijeve at­\nskirą Lietuvai stačiatikių metropoliją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36173
+    - t-001
+
 ## Ryšiai
 - Užėmė Cholmą: [[objektai/grupes/Radvilos]]

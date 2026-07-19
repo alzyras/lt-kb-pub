@@ -31,7 +31,6 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 
 <a id="claim-t-42019"></a>
 - t-001
-  global_id: t-42019
   teiginys: "Švitrigailos ir Ordino pajėgos iš Vilkmergės traukė į pietus pro Pašilę Gelvonų link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,18 +67,11 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
     traukė į šiaurę rytine to paties ežero puse.
     Jos viena kitą pastebėjo šiauriau Žirnajų
     ežero, kur išteka Žirnajos upelis.
-  citata_rodoma: |
-    Sprendžiant iš pagrindinių istorinių
-    šaltinių, Švitrigailos ir Ordino pajėgos iš
-    Vilkmergės patraukė į pietus pro Pašilę
-    ir toliau keliu Gelvonų link, einančiu
-    per dabartinį Pabaiską, vakarine Žirnajų
-    ežero pakrante. Žygimanto kariuomenė
-    traukė į šiaurę rytine to paties ežero puse.
+  citata_rodoma: "Sprendžiant iš pagrindinių istorinių\nšaltinių, Švitrigailos ir Ordino pajėgos iš\nVilkmergės patraukė į pietus pro Pašilę\nir toliau keliu Gelvonų link, einančiu\nper dabartinį Pabaiską, vakarine Žirnajų\nežero pakrante. Žygimanto kariuomenė\ntraukė į šiaurę rytine to paties ežero puse."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42019
+    - t-001

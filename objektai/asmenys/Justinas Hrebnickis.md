@@ -39,7 +39,6 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
 
 <a id="claim-t-87746"></a>
 - t-001
-  global_id: t-87746
   teiginys: "Justinas Hrebnickis 1830 m. rudenį priklausė Vilniuje susikūrusiam sukilimo centriniam komitetui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,17 +71,11 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
     onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
     kas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­
     karinėse Rusijos imperijos gubernijose.
-  citata_rodoma: |
-    Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­
-    niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė
-    Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­
-    onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
-    kas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­
-    karinėse Rusijos imperijos gubernijose.
+  citata_rodoma: "Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­\nniuje susikūrė sukilimo centrinis komitetas, kuriam priklausė \nAntanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­\nonas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­\nkas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­\nkarinėse Rusijos imperijos gubernijose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87746
+    - t-001

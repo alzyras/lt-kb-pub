@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-87241"></a>
 - t-001
-  global_id: t-87241
   teiginys: "Jeigu krikščionis sumušdavo žydą nepraliedamas kraujo, kaltė jam turėjo būti priskirta pagal žemės paprotį, o nukentėjusiajam atlyginta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87241
+    - t-001

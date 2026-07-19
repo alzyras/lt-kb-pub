@@ -30,8 +30,7 @@ Marijos pirmasis vyras Dovydas jau buvo iš Drohičino atvykęs į Gardiną.
 ## Teiginiai
 
 <a id="claim-t-196856"></a>
-- t-001
-  global_id: t-196856
+- t-002
   teiginys: "Marijos pirmasis vyras Dovydas jau buvo iš Drohičino atvykęs į Gardiną."
   atnaujinta: "2026-07-12 22:29"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Marijos pirmasis vyras Dovydas jau buvo iš Drohičino atvykęs į Gardiną.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196856
+    - t-002

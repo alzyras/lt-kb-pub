@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201335"></a>
 - t-001
-  global_id: t-201335
   teiginys: "Šindekopas, norėdamas pribengti lietu vius, vijo juos ¡įkandin nakčia pagal, bet Kęstutis, staiga atsibloškęs ant kryžėjų, taip narsiai juos surėmė mėnesienoj, jog pats marčelga, užsiaustas su kestiniu nuo Vaišviliaus, kėžterėjęs nuo žirgo žekterėjo; 26."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184685
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Žemaičiai dar kairiajame sparne
     it liūtai dar grūmės, nes Kęstutis, regėdamas, jog
@@ -76,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201335
+    - t-001

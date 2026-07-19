@@ -30,7 +30,6 @@ Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksči
 
 <a id="claim-t-189085"></a>
 - t-001
-  global_id: t-189085
   teiginys: "Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksčiau vadinosi Zantiru."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksči
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171974
-    - c-001
 - susijęs iš [[objektai/asmenys/Enėjas Silvijus.md#claim-t-190147|Enėjas Silvijus]]: Anot Enėjo Silvijaus liudijimo, Zantiro šventyklos aptvare buvo šventas ąžuolas ir Perkūno, Pokliaus bei Atrimpo stabai.
 - susijęs iš Marienburgas Zantiras: Narbutas nurodė, kad Marienburgo vietovė prie Nogato anksčiau vadinosi Zantiras.
 - susijęs iš Marienburgas Zantiras: Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėjusi trečia šventykla.
@@ -67,8 +65,7 @@ Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189085
+
 ## Citatos
 
 - id: c-171974
@@ -83,15 +80,11 @@ Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksči
     todėl reikėtų manyti, kad, žlugus senajai prūsų religijai, Ale-
     po, paskutinio prūsų vyriausiojo žynio, įpėdinis iš pradžių gy­
     veno prie šios šventyklos; su tuo sutinka ir Strijkovskis.
-  citata_rodoma: |
-    Trečia šventykla buvo vietovėje, kur dabar Marienburgas,
-    prie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu,
-    pastatė ten stiprią pilį ir anais laikais ten įkūrė ordino sostinę.
-    Toji vietovė anksčiau vadinosi Zantiras.
+  citata_rodoma: "Trečia šventykla buvo vietovėje, kur dabar Marienburgas,\nprie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu,\npastatė ten stiprią pilį ir anais laikais ten įkūrė ordino sostinę.\nToji vietovė anksčiau vadinosi Zantiras."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189085
+    - t-001

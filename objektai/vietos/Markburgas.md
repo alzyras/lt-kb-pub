@@ -30,8 +30,7 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
 ## Teiginiai
 
 <a id="claim-t-58590"></a>
-- t-001
-  global_id: t-58590
+- t-002
   teiginys: "Landgrafas su riteriais ir kilmingaisiais atvyko pas Teutonų ordino brolius Markburge lapkričio 18 d."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
     - c-59222
 
 <a id="claim-t-58591"></a>
-- t-002
-  global_id: t-58591
+- t-001
   teiginys: "Brolis Konradas, penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,8 +62,7 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
     - c-59223
 
 <a id="claim-t-194540"></a>
-- t-003
-  global_id: t-194540
+- t-004
   teiginys: "Apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino didįjį magistrą Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis magistras, mirė liepos 24 dieną, o palaidotas Markburge."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -97,23 +94,15 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
     Šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis
     ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas
     buvo susitepęs paleistuvystės nuodėme.
-  citata_rodoma: |
-    Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su
-    daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge,
-    kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš
-    altorių, o kunigas, ilgai meldęsis, garsiai užgiedojo: „Aleliuja, ateik šventoji dvasia“,
-    nusileido ant jų kūniškai apčiuopiama šventoji dvasia nelyginant ugnies liepsnelė ir juo
-    labiau kuris iš jų degė dievo meile, tuo didesnė ši liepsnelė rodėsi ten stovintiesiems.
-    Šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis
-    ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas
-    buvo susitepęs paleistuvystės nuodėme.
+  citata_rodoma: "Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su\ndaugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge,\nkur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš\naltorių, o kunigas, ilgai meldęsis, garsiai užgiedojo: „Aleliuja, ateik šventoji dvasia“,\nnusileido ant jų kūniškai apčiuopiama šventoji dvasia nelyginant ugnies liepsnelė ir juo\nlabiau kuris iš jų degė dievo meile, tuo didesnė ši liepsnelė rodėsi ten stovintiesiems.\nŠį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis\nėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas\nbuvo susitepęs paleistuvystės nuodėme."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58590
+    - t-002
+
 - id: c-59223
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -135,5 +124,5 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58591
-    - t-194540
+    - t-001
+    - t-004

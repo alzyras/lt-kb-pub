@@ -36,7 +36,6 @@ Dusburgietis teigia, kad lietuvos TSR administracinio-teritorinio suskirstymo Ž
 
 <a id="claim-t-61141"></a>
 - t-001
-  global_id: t-61141
   teiginys: "Z. Noreikos ir V. Stravinsko parengto „Lietuvos TSR administracinio-teritorinio suskirstymo žinyno“ antra dalis išleista Vilniuje 1976 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad lietuvos TSR administracinio-teritorinio suskirstymo Ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61141
+    - t-001

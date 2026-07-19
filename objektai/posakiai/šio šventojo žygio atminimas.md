@@ -37,7 +37,6 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
 
 <a id="claim-t-59173"></a>
 - t-001
-  global_id: t-59173
   teiginys: "Petras Dusburgietis teigė surašęs Ordino brolių karus, kad būsimoms kartoms liktų šio šventojo žygio atminimas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59173
+    - t-001

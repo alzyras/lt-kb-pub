@@ -28,7 +28,6 @@ Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nu
 
 <a id="claim-t-201416"></a>
 - t-001
-  global_id: t-201416
   teiginys: "Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nuo netikėlių, noris visų bran giausiai, atpirkti, ko dėjęsis, išsiuntė karalius siun tinius į Parusnį."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nu
 ## Citatos
 
 - id: c-184766
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Netikėliai tarės tuomi savo apjuoktas šventeny­
     bes nuo krikščionų nugerbę ir užrūstintus savo die­
@@ -61,4 +61,4 @@ Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201416
+    - t-001

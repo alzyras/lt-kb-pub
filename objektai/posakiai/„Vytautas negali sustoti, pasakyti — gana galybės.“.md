@@ -37,8 +37,7 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
 ## Teiginiai
 
 <a id="claim-t-54386"></a>
-- t-001
-  global_id: t-54386
+- t-004
   teiginys: "Vytauto galybės didėjimas santykiuose su lenkais vertė jį laisvintis iš naujai uždedamų suvaržymų."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
     - c-55232
 
 <a id="claim-t-54387"></a>
-- t-002
-  global_id: t-54387
+- t-001
   teiginys: "Posakis „Vytautas negali sustoti, pasakyti — gana galybės“ aiškina valdžios augimo spaudimą Vytautui."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -67,7 +65,6 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
 
 <a id="claim-t-54388"></a>
 - t-003
-  global_id: t-54388
   teiginys: "Vytauto turima valdžia stūmė jį tolyn ir vertė vis didinti savo galybę."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -83,8 +80,7 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
     - c-37180
 
 <a id="claim-t-54389"></a>
-- t-004
-  global_id: t-54389
+- t-002
   teiginys: "Vytauto galybės didėjimas santykiuose su lenkais vertė jį laisvintis iš naujų suvaržymų."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -112,18 +108,16 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
     Valdžia, mat, turi tendencijos vis didėt, plėto­
     tis. Vytautas negali sustoti, pasakyti — gana galybės. Turi­
     ma valdžia pati stumte stumia jį tolyn, verčia ją vis didinti.
-  citata_rodoma: |
-    Valdžia, mat, turi tendencijos vis didėt, plėto­
-    tis. Vytautas negali sustoti, pasakyti — gana galybės. Turi­
-    ma valdžia pati stumte stumia jį tolyn, verčia ją vis didinti.
+  citata_rodoma: "Valdžia, mat, turi tendencijos vis didėt, plėto­\ntis. Vytautas negali sustoti, pasakyti — gana galybės. Turi­\nma valdžia pati stumte stumia jį tolyn, verčia ją vis didinti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54387
-    - t-54388
+    - t-001
+    - t-003
+
 - id: c-55232
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -133,15 +127,12 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
     Tas ypač pasireiškia jo santykiuose su lenkais. Bendras jo
     galybės didėjimas verčia jį laisvintis iš naujų uždedamų suvar­
     žymų. 1401, 1413, 1429 m. to proceso etapai.
-  citata_rodoma: |
-    Tas ypač pasireiškia jo santykiuose su lenkais. Bendras jo
-    galybės didėjimas verčia jį laisvintis iš naujų uždedamų suvar­
-    žymų. 1401, 1413, 1429 m. to proceso etapai.
+  citata_rodoma: "Tas ypač pasireiškia jo santykiuose su lenkais. Bendras jo\ngalybės didėjimas verčia jį laisvintis iš naujų uždedamų suvar­\nžymų. 1401, 1413, 1429 m. to proceso etapai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54386
-    - t-54389
+    - t-004
+    - t-002

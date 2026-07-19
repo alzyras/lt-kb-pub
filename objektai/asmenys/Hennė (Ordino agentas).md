@@ -38,8 +38,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 ## Teiginiai
 
 <a id="claim-t-35089"></a>
-- t-001
-  global_id: t-35089
+- t-003
   teiginys: "Hennė pranešė apie 1427 m. Vytauto kelionę per rytinį valstybės pakraštį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 
 <a id="claim-t-35090"></a>
 - t-002
-  global_id: t-35090
   teiginys: "Hennė buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     - c-36315
 
 <a id="claim-t-35091"></a>
-- t-003
-  global_id: t-35091
+- t-001
   teiginys: "Hennė keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +90,6 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 
 <a id="claim-t-184260"></a>
 - t-004
-  global_id: t-184260
   teiginys: "Hennė buvo laikomas žymiausiu Vytauto juokdariu ir kartu vokiečių agentu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -114,7 +110,6 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 
 <a id="claim-t-184261"></a>
 - t-005
-  global_id: t-184261
   teiginys: "1427 m. Hennė pranešė apie triumfatorišką Vytauto ekspediciją rytiniu valstybės pakraščiu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -154,7 +149,8 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35090
+    - t-002
+
 - id: c-38025
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -168,20 +164,15 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     lionės metu jam prisiekė ištikimybę bei pagalbą Maskvos hege­
     monijoj buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kit.
     kunigaikščiai.
-  citata_rodoma: |
-    Vytauto autoritetą rytuose liudija jo juokdario, Ordino
-    agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę
-    — ekspediciją savo valstybės rytiniu pakraščiu 1427 met. Sako
-    jis buvęs nukeliavęs 100 mylių į rytus nuo Smolensko. Tos ke­
-    lionės metu jam prisiekė ištikimybę bei pagalbą Maskvos hege­
-    monijoj buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kit.
+  citata_rodoma: "Vytauto autoritetą rytuose liudija jo juokdario, Ordino\nagento Hennės, pranešimas apie triumfatorišką Vytauto kelionę\n— ekspediciją savo valstybės rytiniu pakraščiu 1427 met. Sako\njis buvęs nukeliavęs 100 mylių į rytus nuo Smolensko. Tos ke­\nlionės metu jam prisiekė ištikimybę bei pagalbą Maskvos hege­\nmonijoj buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kit."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35089
+    - t-003
+
 - id: c-38026
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -197,17 +188,15 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­
     dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu
     su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ).
-  citata_rodoma: |
-    Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­
-    dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu
-    su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ).
+  citata_rodoma: "Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­\ndovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu\nsu Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35091
+    - t-001
+
 - id: c-167644
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -226,7 +215,8 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184260
+    - t-004
+
 - id: c-167645
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -247,4 +237,4 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184261
+    - t-005

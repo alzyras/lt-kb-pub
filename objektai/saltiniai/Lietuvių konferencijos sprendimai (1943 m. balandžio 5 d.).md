@@ -37,7 +37,6 @@ Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo pozicij
 
 <a id="claim-t-21118"></a>
 - t-001
-  global_id: t-21118
   teiginys: "Lietuvių konferencijos sprendimai rodė dalyvių ir dalies Lietuvos visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,12 +71,11 @@ Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo pozicij
     imti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės
     orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos
     darbo ir karo tarnybų struktūrose.
-  citata_rodoma: |
-    orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos
+  citata_rodoma: "orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21118
+    - t-001

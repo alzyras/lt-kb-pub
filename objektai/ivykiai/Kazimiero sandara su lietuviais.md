@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201322"></a>
 - t-001
-  global_id: t-201322
   teiginys: "Kazimie ras, kunigaikštis Lenkų, nusigandęs baisumu ir smurtumu lietuvių, sandaras su jais padarė ir pasiėmė kryžėjams daugiaus nebtalkinėti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184672
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pavasariui radusis, traukė vėl į Mozūriją, bet
     radę tenai degėsus dar tebrūkstant pernykščių jų te-
@@ -76,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201322
+    - t-001

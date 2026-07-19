@@ -41,7 +41,6 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
 
 <a id="claim-t-58544"></a>
 - t-001
-  global_id: t-58544
   teiginys: "Skomantas pasuko link Eimsučio pilies ir po veržlaus antpuolio ją užėmė, nukaudamas 40 jos sargybinių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,9 +60,8 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
 
 <a id="claim-t-58545"></a>
 - t-002
-  global_id: t-58545
   teiginys: "Eimsučio pilis šaltinyje minima kaip castrum Hemsot, o jos vieta siejama su dabartine Pšečna netoli Kulmenzės."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -75,7 +73,6 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59177
-    - c-002
 - susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-184116|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
 - susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-60182|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184127|Skomantas]]: Skomantas su didele sūduvių ir rusų kariuomene devynias dienas plėšė ir degino Kulmo žemę.
@@ -102,8 +99,7 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58545
+
 ## Citatos
 
 - id: c-59176
@@ -132,7 +128,8 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58544
+    - t-001
+
 - id: c-59177
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -144,16 +141,11 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
     gynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo
     ant iškeltų prūsų iečių, o likusieji sudegė. Tiek ten buvo krikščionių kraujo pralieta,
     kad gretimas upelis454 nustojo savo įprastinės spalvos ir atrodė krauju pasruvęs.
-  citata_rodoma: |
-    Sutrikę dėl jo mirties,
-    pasitraukė iki vienos pilaitės, pastaytos tarp Ragavos ir Veisikos upių451, toje vietoje,
-
-      447 D.— castrum Hemsot, Jer.— Heimsôt, dab. Pšečnas (Przeczno), per 9 km  į
-    pietvakarius nuo Kulmenzės (dab. Chelmža), tarp Torunės ir Kulmo (SZCh, p. 102).
+  citata_rodoma: "Sutrikę dėl jo mirties,\npasitraukė iki vienos pilaitės, pastaytos tarp Ragavos ir Veisikos upių451, toje vietoje,\n\n  447 D.— castrum Hemsot, Jer.— Heimsôt, dab. Pšečnas (Przeczno), per 9 km  į\npietvakarius nuo Kulmenzės (dab. Chelmža), tarp Torunės ir Kulmo (SZCh, p. 102)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58545
+    - t-002

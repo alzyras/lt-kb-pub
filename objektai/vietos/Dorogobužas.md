@@ -47,21 +47,7 @@ Nenurodyta
     tvirtai žadėdamas lengvą pergalę. Maskvėnai tvirtino,
     kad didysis kunigaikštis jiems neleidęs stoti į atvirą
     mūšį, todėl apie vidurnaktį, nepaisydami nei vadų, nei
-  citata_rodoma: |
-    Dėl žymiau­
-    siųjų didikų nesutarimų, o ypač dėl to, kad kai kas
-    pavydėjo Ostrogiškiui naujųjų pareigų, atidėjo šį rei­
-    kalą ateičiai, o galop visai nieko nepadarė. Tuo tar­
-    pu priešas ne tik sveikas paspruko nepuolamas, bet,
-    sudeginęs Dorogobužą
-    nrikirtęs miške medžių, vi­
-    sai užtvėrė karaliaus kariuo­
-    menei kelią. Vis dėlto Ostro­
-    giškis su keliomis lengvųjų
-    raitelių vėliavomis įsiveržė
-    nepraeinamais keliais į prie­
-    šo kraštą ir išsivarė iš ten
-    daug grobio.
+  citata_rodoma: "Dėl žymiau­\nsiųjų didikų nesutarimų, o ypač dėl to, kad kai kas\npavydėjo Ostrogiškiui naujųjų pareigų, atidėjo šį rei­\nkalą ateičiai, o galop visai nieko nepadarė. Tuo tar­\npu priešas ne tik sveikas paspruko nepuolamas, bet,\nsudeginęs Dorogobužą\nnrikirtęs miške medžių, vi­\nsai užtvėrė karaliaus kariuo­\nmenei kelią. Vis dėlto Ostro­\ngiškis su keliomis lengvųjų\nraitelių vėliavomis įsiveržė\nnepraeinamais keliais į prie­\nšo kraštą ir išsivarė iš ten\ndaug grobio."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
 

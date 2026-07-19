@@ -27,28 +27,11 @@ media_all_json: |-
 
 Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto griuvėsių.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-192879"></a>
-- t-001
-  global_id: t-192879
-  teiginys: 'Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto griuvėsių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys suformuluotas apie Kerčės tvirtovę, o Narbuto geografinė identifikacija palikta atribuuota. Neperkelta platesnė hipotezė apie Pantikapo vardą.'
-  susije_objektai: 'mentioned_place: Pantikapėja; mentioned_person: [[objektai/asmenys/Borėjas|Borėjas]]; mentioned_person: [[objektai/asmenys/Jupiteris|Jupiteris]]; mentioned_place: Baltija; mentioned_place: Skitija; mentioned_place: Viena; llm_object: Pantikapėja'
-  semantiniai_rysiai: 'Kerčės tvirtovė priklausė Pantikapėja'
-  pagrindžia:
-    - c-175649
-- susijęs iš Pantikapėja: Narbuto aiškinime Pantikapėjos vardas Skitijos geografijoje galėjo žymėti ne vieną upę ar vietovę, nes Kerčė stovėjo ant Pantikapėjos griuvėsių.
-- susijęs iš Pripetė: Teodoras Narbutas Pantikapą tapatina su Pripete, jungiančia Baltijos ir Juodosios jūros vandens baseinus.
-## Citatos
-
-- id: c-175649
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto griuvėsių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     56
 
@@ -62,10 +45,13 @@ Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto gri
     Skitijos geografijoje galėjo būti vadinama ne viena upė
     ir vietovė, nes žinoma, kad šiandien Kerčės tvirtovė sto­
     vi ant Pantikapėjos miesto griuvėsių1.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192879
+  statusas: verified
+
+## Teiginiai
+
+- susijęs iš Pantikapėja: Narbuto aiškinime Pantikapėjos vardas Skitijos geografijoje galėjo žymėti ne vieną upę ar vietovę, nes Kerčė stovėjo ant Pantikapėjos griuvėsių.
+- susijęs iš Pripetė: Teodoras Narbutas Pantikapą tapatina su Pripete, jungiančia Baltijos ir Juodosios jūros vandens baseinus.

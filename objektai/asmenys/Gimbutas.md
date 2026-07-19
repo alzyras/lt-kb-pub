@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-200697"></a>
 - t-001
-  global_id: t-200697
   teiginys: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "auto"
@@ -83,8 +82,5 @@ media_all_json: |-
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200697
+    - t-001

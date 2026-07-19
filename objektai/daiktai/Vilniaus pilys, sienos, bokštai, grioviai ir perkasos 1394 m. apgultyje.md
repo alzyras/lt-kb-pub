@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-87066"></a>
 - t-001
-  global_id: t-87066
   teiginys: "1394 metų Vilniaus apgultyje didysis kunigaikštis įtvirtino įgulas abiejose pilyse ir mieste."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-83047
 
 <a id="claim-t-87067"></a>
-- t-002
-  global_id: t-87067
+- t-003
   teiginys: "1394 m. Švitrigaila mėgino užimti Vilnių, įkalbėdamas vienuolius padegti du medinius bokštus puolimo metu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Nenurodyta
     - c-83046
 
 <a id="claim-t-87068"></a>
-- t-003
-  global_id: t-87068
+- t-002
   teiginys: "1394 m. magistras tris savaites ir dvi dienas daužė Vilniaus pilių sienas ir bokštus, bet pilių neužėmė dėl griovių ir perkasų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,7 +131,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87068
+    - t-002
+
 - id: c-83046
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -164,7 +162,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87067
+    - t-003
+
 - id: c-83047
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -186,4 +185,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87066
+    - t-001

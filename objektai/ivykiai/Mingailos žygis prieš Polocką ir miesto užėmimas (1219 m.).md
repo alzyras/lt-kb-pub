@@ -48,8 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-196226"></a>
-- t-001
-  global_id: t-196226
+- t-002
   teiginys: "Polockiečiams pasiekus Gorodecą, Mingaila juos užpuolė, privertė bėgti iš kovos lauko ir stovyklos, o paskui patraukė prie Polocko sienų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Nenurodyta
     - c-178587
 
 <a id="claim-t-196227"></a>
-- t-002
-  global_id: t-196227
+- t-003
   teiginys: "Kojelavičiaus pasakojime Mingaila tais pačiais metais po pergalės mirė, palikęs įpėdiniais Skirmantą ir Ginvilą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -99,7 +97,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196226
+    - t-002
+
 - id: c-178588
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -122,4 +121,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196227
+    - t-003

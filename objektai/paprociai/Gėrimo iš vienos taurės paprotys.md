@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-200730"></a>
 - t-001
-  global_id: t-200730
   teiginys: "Viduriniais amžiais ir naujaisiais laikais Vakarų Europoje gėrimas iš vienos taurės buvo ne vien krikščioniškųjų apeigų, bet ir pasaulietinių ceremonijų, pavyzdžiui, vestuvių dalyvių ar universiteto profesorių bendrystę pabrėžiančio ceremonialo, dalis."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-200731"></a>
 - t-002
-  global_id: t-200731
   teiginys: "Gėrimo iš vienos taurės paprotys bajoriškojoje Lietuvos kultūroje išnyko XVIII–XIX a. sandūroje, veikiamas Apšvietos pasaulėžiūros."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -95,7 +93,6 @@ Nenurodyta
 
 <a id="claim-t-200732"></a>
 - t-003
-  global_id: t-200732
   teiginys: "Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józefas Kauschas (1751–1825)."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -115,7 +112,6 @@ Nenurodyta
 
 <a id="claim-t-200733"></a>
 - t-004
-  global_id: t-200733
   teiginys: "Rimvydas Laužikas gėrimą iš vienos taurės laiko labai tolimu senųjų papročių atgarsiu, valstietiškoje kultūroje dar žinotu XX a. pabaigoje–XXI a. pradžioje."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -144,11 +140,8 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:13"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200730
+    - t-001
 
 - id: c-184076
   autorius: "Rimvydas Laužikas"
@@ -158,11 +151,8 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200731
+    - t-002
 
 - id: c-184077
   autorius: "Rimvydas Laužikas"
@@ -172,11 +162,8 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:13"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200732
+    - t-003
 
 - id: c-184078
   autorius: "Rimvydas Laužikas"
@@ -186,8 +173,5 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200733
+    - t-004

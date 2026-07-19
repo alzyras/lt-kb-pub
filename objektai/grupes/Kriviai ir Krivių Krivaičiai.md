@@ -39,7 +39,6 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
 
 <a id="claim-t-189437"></a>
 - t-002
-  global_id: t-189437
   teiginys: "Narbutas krivio valdžios ženklą Buthstus aprašo kaip ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
 
 <a id="claim-t-189439"></a>
 - t-003
-  global_id: t-189439
   teiginys: "Narbutas mano, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis vyriausiųjų žynių eilėje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
 
 <a id="claim-t-194569"></a>
 - t-004
-  global_id: t-194569
   teiginys: "Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur slavų krivičių tauta."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -95,7 +92,6 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
 
 <a id="claim-t-197185"></a>
 - t-005
-  global_id: t-197185
   teiginys: "Pretorijus, atpa sakodamas šią Dusburgiečio kronikos vietą, kur kalbama apie žynio lazdą, vadina ją krivūle."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -106,18 +102,6 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
   pagrindžia:
     - c-172324
 
-<a id="claim-t-189436"></a>
-- t-001
-  global_id: t-189436
-  teiginys: 'Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę lazdą su trišake viršūne ir trimis kutais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Religinio titulo ir ženklo aprašymas paliktas su Narbuto atribucija. Pašalinti puslapio ir lotyniško teksto triukšmai.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kriviai ir Krivių Krivaičiai|Kriviai ir Krivių Krivaičiai]]; mentioned_object: [[objektai/daiktai/Buthstus|Buthstus]]'
-  semantiniai_rysiai: '[[objektai/daiktai/Buthstus|Buthstus]] priklausė [[objektai/grupes/Kriviai ir Krivių Krivaičiai|Kriviai ir Krivių Krivaičiai]]'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę lazdą su trišake viršūne ir trimis kutais.'
@@ -142,11 +126,9 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
     tione duo bursae pendunt.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189436
+  statusas: verified
 ## Citatos
 
 - id: c-172324
@@ -173,8 +155,9 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189437
-    - t-197185
+    - t-002
+    - t-005
+
 - id: c-172326
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -195,7 +178,8 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189439
+    - t-003
+
 - id: c-176969
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -217,4 +201,4 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194569
+    - t-004

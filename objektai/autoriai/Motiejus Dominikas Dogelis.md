@@ -40,7 +40,6 @@ Motiejus Dominikas Dogelis citatoje pristatomas kaip įžymus archeografas, pare
 
 <a id="claim-t-191654"></a>
 - t-001
-  global_id: t-191654
   teiginys: "Motiejus Dominikas Dogelis citatoje pristatomas kaip įžymus archeografas, parengęs „Codex diplomaticus Regni Poloniae et Magni Ducatus Lituaniae“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Motiejus Dominikas Dogelis citatoje pristatomas kaip įžymus archeografas, pare
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191654
+    - t-001

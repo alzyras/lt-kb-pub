@@ -37,7 +37,6 @@ Narbutas Gamaheu, arba Gamaheus Lapis, vadina gamtos pavidalais išsiskiriančiu
 
 <a id="claim-t-189296"></a>
 - t-001
-  global_id: t-189296
   teiginys: "Narbutas Gamaheu, arba Gamaheus Lapis, vadina gamtos pavidalais išsiskiriančius akmenis, kuriuos senovės žmonės esą gerbdavo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Narbutas Gamaheu, arba Gamaheus Lapis, vadina gamtos pavidalais išsiskiriančiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189296
+    - t-001

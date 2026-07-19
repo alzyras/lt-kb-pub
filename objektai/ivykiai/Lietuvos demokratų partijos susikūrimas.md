@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-183239"></a>
-- t-001
-  global_id: t-183239
+- t-002
   teiginys: "Lietuvos demokratų partija susikūrė 1902 m. „Varpą“ leidusios organizacijos pagrindu."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183239
+    - t-002

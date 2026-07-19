@@ -39,10 +39,9 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
 ## Teiginiai
 
 <a id="claim-t-187198"></a>
-- t-001
-  global_id: t-187198
+- t-004
   teiginys: "1457 m. lapkričio 28 d. Kazimieras davė Žąslius Vilniaus vaivadai Jonui Goštautui."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
@@ -58,10 +57,9 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-170275
-    - c-002
+
 <a id="claim-t-187200"></a>
-- t-002
-  global_id: t-187200
+- t-001
   teiginys: "Lietuvos kariuomenei pavyko išvaduoti Žąslius, nors lietuvių puolimas užstrigo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -92,8 +90,7 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187198
+
 ## Citatos
 
 - id: c-170274
@@ -109,22 +106,15 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
     menei pavyko tik išvaduoti Daugus bei
     Žąslius. Netrukus, 1919 m. balandžio 19 d.
     lenkų kariuomenė puolė ir užėmė Vilnių.
-  citata_rodoma: |
-    Lietuvos karinė vadovybė,
-    atsižvelgdama į padėtį, mėgino suskubti
-    pirma lenkų išvaryti bolševikus iš Vilniaus
-    ir atsiimti Lietuvos sostinę. Tačiau lietu-
-    vių puolimas užstrigo ir Lietuvos kariuo-
-    menei pavyko tik išvaduoti Daugus bei
-    Žąslius. Netrukus, 1919 m. balandžio 19 d.
-    lenkų kariuomenė puolė ir užėmė Vilnių.
+  citata_rodoma: "Lietuvos karinė vadovybė,\natsižvelgdama į padėtį, mėgino suskubti\npirma lenkų išvaryti bolševikus iš Vilniaus\nir atsiimti Lietuvos sostinę. Tačiau lietu-\nvių puolimas užstrigo ir Lietuvos kariuo-\nmenei pavyko tik išvaduoti Daugus bei\nŽąslius. Netrukus, 1919 m. balandžio 19 d.\nlenkų kariuomenė puolė ir užėmė Vilnių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187200
+    - t-001
+
 - id: c-170275
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -139,14 +129,11 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
     Minimas čia Volkovysko puolimas buvo 1249 ar 1250 m.
     11 Slonimas — BTSR miestas (| pietus nuo aukštutinio Nemuno,
     prie Nemuno intako Sčaros. apie 60 km j rytus nuo Volkovysko).
-  citata_rodoma: |
-    1457.11.28 Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goš-
-    laulul (Русская историческая библиотека, т. 27, 1970. p. 34).
-    3 3  Utcnls patikimuose šaltiniuose nepaliudytas.
+  citata_rodoma: "1457.11.28 Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goš- \nlaulul (Русская историческая библиотека, т. 27, 1970. p. 34).\n3 3  Utcnls patikimuose šaltiniuose nepaliudytas."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187198
+    - t-004

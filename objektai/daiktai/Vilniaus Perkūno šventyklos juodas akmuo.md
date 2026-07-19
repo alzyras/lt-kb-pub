@@ -45,9 +45,8 @@ Nenurodyta
 
 <a id="claim-t-189755"></a>
 - t-001
-  global_id: t-189755
   teiginys: "Narbutas nurodo, kad Strijkovskis mini didžiulį juodą akmenį Vilniaus Perkūno šventykloje, iš kurio buvo įskeliama ugnis."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,7 +62,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172638
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad Strijkovskis mini didžiulį juodą akmenį Vilniaus Perkūno šventykloje, iš kurio buvo įskeliama ugnis.'
@@ -81,8 +80,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189755
+
 ## Citatos
 
 - id: c-172638
@@ -98,18 +96,11 @@ Nenurodyta
     seniausių tautos stabų, kurį iš Rytų buvo, atsigabenę Tautos Tė­
     vai. Todėl jo išvaizda, tai yra kūno sudėjimas, galėjo būti orien­
     talistinis.
-  citata_rodoma: |
-    Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno
-    šventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­
-    čiau mūsų istorikas šito dalyko nuodugniau neišlukštena. Man
-    atrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies
-    dievo, visiškai toks pat stabas, kaip imperatoriaus Aurelijaus
-    Antonino Heliogabalas, apie kurį kalbėjome straipsnyje „San­
-    tvaras“.
+  citata_rodoma: "Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno\nšventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­\nčiau mūsų istorikas šito dalyko nuodugniau neišlukštena. Man\natrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies\ndievo, visiškai toks pat stabas, kaip imperatoriaus Aurelijaus\nAntonino Heliogabalas, apie kurį kalbėjome straipsnyje „San­\ntvaras“."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189755
+    - t-001

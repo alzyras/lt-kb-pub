@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78705"></a>
-- t-001
-  global_id: t-78705
+- t-002
   teiginys: "Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -69,8 +68,7 @@ Nenurodyta
     - c-75906
 
 <a id="claim-t-78706"></a>
-- t-002
-  global_id: t-78706
+- t-003
   teiginys: "XI a. kuršiai patys rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -106,5 +104,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78705
-    - t-78706
+    - t-002
+    - t-003

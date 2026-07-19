@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-34473"></a>
 - t-001
-  global_id: t-34473
   teiginys: "1396 m. Vytautas Dubysos saloje susitiko su Vokiečių Ordino magistru deryboms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34473
+    - t-001

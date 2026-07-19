@@ -39,7 +39,6 @@ Be to, rengė astronomo Mikalojaus Ko­ perniko raštus, dalyvavo leidžiant sen
 
 <a id="claim-t-87785"></a>
 - t-001
-  global_id: t-87785
   teiginys: "Mikalojus Kopernikas buvo astronomas, kurio raštus rengė M. Balinskis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,19 +74,11 @@ Be to, rengė astronomo Mikalojaus Ko­ perniko raštus, dalyvavo leidžiant sen
     torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­
     rašė M. Balinskiui laišką, kuriame apibūdino liūdną istorijos
     mokslo būklę.
-  citata_rodoma: |
-    Sniadeckių biografijas, parengė jų darbų rinktines, parašė
-    apie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­
-    dinį leidinį Senovės Lenkija. Be to, rengė astronomo Mikalojaus Ko­
-    perniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­
-    mus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.
-    Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­
-    torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­
-    rašė M.
+  citata_rodoma: "Sniadeckių biografijas, parengė jų darbų rinktines, parašė \napie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­\ndinį leidinį Senovės Lenkija. Be to, rengė astronomo Mikalojaus Ko­\nperniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­\nmus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.\nIstorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­\ntorinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­\nrašė M."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87785
+    - t-001

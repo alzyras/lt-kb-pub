@@ -33,7 +33,6 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 
 <a id="claim-t-30717"></a>
 - t-001
-  global_id: t-30717
   teiginys: "Jordanes 551 m. veikale „De origine actibusque Getharum“ Aesti minėjo kaip taikingą tautą, gyvenusią ilgame pajūrio ruože į rytus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 
 <a id="claim-t-197614"></a>
 - t-002
-  global_id: t-197614
   teiginys: "Jordanes papildytas Jordano stebėjimais ir pavadintas „Apie gotų kilmę ir veiklą“ (De origine actuąue getarum liber / / Procopius Caesarensis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,21 +76,15 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
     pajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­
     nes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs
     375 m.) buvęs savo valstybei pajungęs ir aisčius.
-  citata_rodoma: |
-    Padarydamas santrauką vėliau dingusios
-    Kassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine
-    actibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą
-    tautą («pacatum hominum genus omnino »), užėmusią labai ilgą
-    pajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­
-    nes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs
-    375 m.
+  citata_rodoma: "Padarydamas santrauką vėliau dingusios\nKassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine\nactibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą\ntautą («pacatum hominum genus omnino »), užėmusią labai ilgą\npajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­\nnes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs\n375 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30717
+    - t-001
+
 - id: c-179263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -112,4 +104,4 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197614
+    - t-002

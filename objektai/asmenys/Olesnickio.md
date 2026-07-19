@@ -30,7 +30,6 @@ Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vai
 
 <a id="claim-t-30367"></a>
 - t-001
-  global_id: t-30367
   teiginys: "Olesnickis buvo Dlugošo mokytojas, kurio įtakoje Dlugošas Vytauto vainiko klausimą neteisingai siejo su asmeniniais interesais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,17 +64,11 @@ Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vai
     yra įrodyta^10. Vytautui užgaunanti pasirodė Jogailos laikysena,
     kuris, pradžioje pritaręs Vytauto vainikavimuisi^11 , paskui atsistojo
     skersai kelio.
-  citata_rodoma: |
-    Savo mokytojo
-    Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vainiko
-    klausimą tik į jo asmeninius interesus ir ambicijas ; tai kritiškai
-    yra įrodyta^10. Vytautui užgaunanti pasirodė Jogailos laikysena,
-    kuris, pradžioje pritaręs Vytauto vainikavimuisi^11 , paskui atsistojo
-    skersai kelio.
+  citata_rodoma: "Savo mokytojo\nOlesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vainiko\nklausimą tik į jo asmeninius interesus ir ambicijas ; tai kritiškai\nyra įrodyta^10. Vytautui užgaunanti pasirodė Jogailos laikysena,\nkuris, pradžioje pritaręs Vytauto vainikavimuisi^11 , paskui atsistojo\nskersai kelio."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30367
+    - t-001

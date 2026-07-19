@@ -31,7 +31,6 @@ Kazį Skučą ir Saugumo departamento direktorių Augustiną Povilaitį.
 
 <a id="claim-t-17560"></a>
 - t-001
-  global_id: t-17560
   teiginys: "Sovietų pusė reikalavo atleisti vidaus reikalų ministrą generolą Kazį Skučą kaip tariamą „provokacijų“ kaltininką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,14 +59,11 @@ Kazį Skučą ir Saugumo departamento direktorių Augustiną Povilaitį.
     ninkus – vidaus reikalų ministrą gen. Kazį Skučą ir Saugumo departamen-
     to direktorių Augustiną Povilaitį. Nuo V. Molotovo rėksmingų kaltinimų
     absurdiškumo A. Merkys palūžo psichologiškai.
-  citata_rodoma: |
-    Jokiais paaiškinimais netikėta, be to, reikalauta atleisti „provokacijų“ kalti-
-    ninkus – vidaus reikalų ministrą gen. Kazį Skučą ir Saugumo departamen-
-    to direktorių Augustiną Povilaitį.
+  citata_rodoma: "Jokiais paaiškinimais netikėta, be to, reikalauta atleisti „provokacijų“ kalti-\nninkus – vidaus reikalų ministrą gen. Kazį Skučą ir Saugumo departamen-\nto direktorių Augustiną Povilaitį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-17560
+    - t-001

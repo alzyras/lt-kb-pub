@@ -39,7 +39,6 @@ Narbutas nurodo, kad Krunevičiaus vardu pavadintas herbas buvo žinomas ir Nese
 
 <a id="claim-t-190189"></a>
 - t-001
-  global_id: t-190189
   teiginys: "Narbutas nurodo, kad Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Narbutas nurodo, kad Krunevičiaus vardu pavadintas herbas buvo žinomas ir Nese
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190189
+    - t-001

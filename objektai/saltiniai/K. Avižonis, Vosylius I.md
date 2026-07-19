@@ -30,7 +30,6 @@ Avižonis : Vosylius I, LE, t.
 
 <a id="claim-t-31747"></a>
 - t-001
-  global_id: t-31747
   teiginys: "K. Avižonio „Vosylius I“ paskelbtas LE 34 tome, 539–541 puslapiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,14 +56,11 @@ Avižonis : Vosylius I, LE, t.
     (^4) **K. Avižonis :** **_Vosylius I,_** **LE, t. 34, 539-541 p.**
     (^5) **PSRL, 8, 91 p. — Plg. KolLJ, I, 140 p.; Ig. Jonynas :** **_Vytauto
     šeimyna.
-  citata_rodoma: |
-    **
-    (^4) **K. Avižonis :** **_Vosylius I,_** **LE, t. 34, 539-541 p.**
-    (^5) **PSRL, 8, 91 p.
+  citata_rodoma: "**\n(^4) **K. Avižonis :** **_Vosylius I,_** **LE, t. 34, 539-541 p.**\n(^5) **PSRL, 8, 91 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31747
+    - t-001

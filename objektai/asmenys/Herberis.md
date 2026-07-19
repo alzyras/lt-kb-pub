@@ -31,7 +31,6 @@ Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyvent
 
 <a id="claim-t-191414"></a>
 - t-001
-  global_id: t-191414
   teiginys: "Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyventojai esą buvo auksakaliai arba ginklakaliai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyvent
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191414
+    - t-001

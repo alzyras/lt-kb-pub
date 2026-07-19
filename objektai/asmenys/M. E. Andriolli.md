@@ -38,7 +38,6 @@ Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų dr
 
 <a id="claim-t-26453"></a>
 - t-001
-  global_id: t-26453
   teiginys: "M. E. Andriolli nutapė 1863 m. sukilimo sceną, kurioje jis iš mūšio lauko prie Dubičių išneša žuvusį kovų draugą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,18 +77,11 @@ Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų dr
     Kariniu požiūriu 60 tūkst. sukilėlių neturėjo jokių galimybių laimė-
     ti, viltys, dėtos į valstiečių sukilimą Rusijoje, tebuvo iliuzija, Vakarai irgi
     nesiruošė lieti kraujo dėl „Lenkijos reikalų“.
-  citata_rodoma: |
-    Žymusis dailininkas M. E. Andriolli taip nutapė
-    1863 m. sukilimą – jis pats išneša žuvusį kovų draugą
-    iš mūšio lauko prie Dubičių (gegužės 5 d.)
-
-    L I E T U V O S  I S T O R I J A
-    110
-    Kariniu požiūriu 60 tūkst.
+  citata_rodoma: "Žymusis dailininkas M. E. Andriolli taip nutapė  \n1863 m. sukilimą – jis pats išneša žuvusį kovų draugą  \niš mūšio lauko prie Dubičių (gegužės 5 d.)\n\nL I E T U V O S  I S T O R I J A\n110\nKariniu požiūriu 60 tūkst."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26453
+    - t-001

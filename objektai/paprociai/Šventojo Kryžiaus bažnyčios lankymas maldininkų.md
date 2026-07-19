@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-194079"></a>
 - t-001
-  global_id: t-194079
   teiginys: "Viduramžiais Šventojo Kryžiaus bažnyčia buvo viena labiausiai maldininkų lankomų Lenkijos vietų, o Žalgirio mūšio išvakarėse joje lankėsi Jogaila."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194079
+    - t-001

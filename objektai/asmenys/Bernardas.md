@@ -31,7 +31,6 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 
 <a id="claim-t-60248"></a>
 - t-001
-  global_id: t-60248
   teiginys: "Pasakojime šventasis Bernardas sapne žengė brolių priekyje ir atsisakė priimti maldavusį vyrą į bendrininkus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 
 <a id="claim-t-197061"></a>
 - t-002
-  global_id: t-197061
   teiginys: "Bernardas nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,5 +78,5 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60248
-    - t-197061
+    - t-001
+    - t-002

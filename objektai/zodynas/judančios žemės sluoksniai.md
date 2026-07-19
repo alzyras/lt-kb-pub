@@ -42,8 +42,7 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
 ## Teiginiai
 
 <a id="claim-t-192291"></a>
-- t-001
-  global_id: t-192291
+- t-002
   teiginys: "Narbutas aiškina, kad judančios žemės sluoksniai turėjo būti sujudinti arba išplauti iš Baltijos jūros."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -61,8 +60,7 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
     - c-175108
 
 <a id="claim-t-192292"></a>
-- t-002
-  global_id: t-192292
+- t-003
   teiginys: "Narbutas akmenų radimą aiškina tuo, kad kai kurie jų buvo užpustyti judančios žemės sluoksnių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -80,8 +78,7 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
     - c-175108
 
 <a id="claim-t-192293"></a>
-- t-003
-  global_id: t-192293
+- t-001
   teiginys: "Narbutas aiškina, kad Autorius „judančios žemės sluoksnius“ sieja su naujais, giliais, vietomis vandens užtvindytais sluoksniais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -120,19 +117,16 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
     iš šiaurės į pietus; be to, dviejose juostose — Suomių
     įlankos ir Bornholmo salos lygiagretės kryptimi, t. y. ker­
     tantys plačią Baltijos jūros dalį.
-  citata_rodoma: |
-    Vis dėlto ne vien tik uolieną kruša krito į žemę; turė­
-    jo būti sujudinti arba išplauti iš Baltijos jūros ir judan­
-    čios žemės sluoksniai, nes randama ir akmenų, užpustytų
-    judančios žemės sluoksnių.
+  citata_rodoma: "Vis dėlto ne vien tik uolieną kruša krito į žemę; turė­\njo būti sujudinti arba išplauti iš Baltijos jūros ir judan­\nčios žemės sluoksniai, nes randama ir akmenų, užpustytų\njudančios žemės sluoksnių."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192291
-    - t-192292
+    - t-002
+    - t-003
+
 - id: c-175109
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -150,17 +144,11 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
     kurie buvo atnešti kartu su vandeniu; taip susidarė nauji,
     gilūs, kai kur vandens užtvindyti judančios žemės sluoks­
     niai.
-  citata_rodoma: |
-    Taip ir susidarė toji sausuma, o
-    toliau, į pietus nuo Baltijos krantų (vandenyno dalyje,
-    kuri dar buvo neužberta), pakilo tik tų nuolaužų purslai,
-    kurie buvo atnešti kartu su vandeniu; taip susidarė nauji,
-    gilūs, kai kur vandens užtvindyti judančios žemės sluoks­
-    niai.
+  citata_rodoma: "Taip ir susidarė toji sausuma, o\ntoliau, į pietus nuo Baltijos krantų (vandenyno dalyje,\nkuri dar buvo neužberta), pakilo tik tų nuolaužų purslai,\nkurie buvo atnešti kartu su vandeniu; taip susidarė nauji,\ngilūs, kai kur vandens užtvindyti judančios žemės sluoks­\nniai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192293
+    - t-001

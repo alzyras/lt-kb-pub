@@ -36,8 +36,7 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
 ## Teiginiai
 
 <a id="claim-t-60984"></a>
-- t-001
-  global_id: t-60984
+- t-002
   teiginys: "Gedimino sutartis su Ordinu liudija, kad Lietuvos valstybės lietuviškosios žemės buvo skirstomos į Aukštaičius ir Žemaičius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,7 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61615
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gedimino sutartis su Ordinu liudija, kad Lietuvos valstybės lietuviškosios žemės buvo skirstomos į Aukštaičius ir Žemaičius.'
@@ -67,8 +66,7 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60984
+
 ## Citatos
 
 - id: c-61615
@@ -85,16 +83,11 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
     penkiasdešimt vyrų iš Sembos ir Notangos išjojo link Gardino pilies; kai priartėjo prie
     pilies, jie nutarė, palikę arklius, plaukti Nemunu žemyn; apiplėšę Nemuno pakrantėje
     vieną lietuvių kaimą, nukovę ir paėmę į nelaisvę daug žmonių, vėl nuplaukė tolyn.
-  citata_rodoma: |
-    Gedimino sutartis su Ordinu rodo, kad
-    Lietuvos valstybės lietuviškosios žemės susidėjo iš dviejų dalių: Aukštaičių ir Žemaičių
-    (Łowmiański H., Studja..., 2, p. 69— 70; Jakštas J., Vokiečių ordinas..., p. 141; plg. Jučas
-    M., Dėl vakarinių..., p. 38—39). Tai patvirtina 1337.XII.12 Liudviko Bavaro dokumentas
-    (PUB, S, 1, Nr. 135, p. 101).
+  citata_rodoma: "Gedimino sutartis su Ordinu rodo, kad\nLietuvos valstybės lietuviškosios žemės susidėjo iš dviejų dalių: Aukštaičių ir Žemaičių\n(Łowmiański H., Studja..., 2, p. 69— 70; Jakštas J., Vokiečių ordinas..., p. 141; plg. Jučas\nM., Dėl vakarinių..., p. 38—39). Tai patvirtina 1337.XII.12 Liudviko Bavaro dokumentas\n(PUB, S, 1, Nr. 135, p. 101)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60984
+    - t-002

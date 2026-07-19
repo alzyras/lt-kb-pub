@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-92955"></a>
-- t-001
-  global_id: t-92955
+- t-006
   teiginys: "Ordino magistras prašė Jogailos ir Vytauto priimti du kardus kaip pagalbą būsimam susirėmimui atvirame lauke."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,7 @@ Nenurodyta
     - c-14301
 
 <a id="claim-t-92956"></a>
-- t-002
-  global_id: t-92956
+- t-007
   teiginys: "Du riteriai, pažymėti Vengrijos ir Štetino kunigaikštijos ženklais, atnešė du nuogus kardus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +90,7 @@ Nenurodyta
     - c-14301
 
 <a id="claim-t-92957"></a>
-- t-003
-  global_id: t-92957
+- t-005
   teiginys: "Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -109,8 +106,7 @@ Nenurodyta
     - c-14300
 
 <a id="claim-t-92958"></a>
-- t-004
-  global_id: t-92958
+- t-009
   teiginys: "Pasiuntiniai pareiškė, kad du kardai buvo atnešti kryžiuočių didžiojo magistro nurodymu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,8 +122,7 @@ Nenurodyta
     - c-36715
 
 <a id="claim-t-92959"></a>
-- t-005
-  global_id: t-92959
+- t-008
   teiginys: "Kryžiuočių didžiojo magistro pasiuntiniai atnešė du kardus ir ragino su jais stoti į atvirą mūšį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,18 +149,15 @@ Nenurodyta
     ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
     nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
     kardus atnešė kryžiuočių didžiojo magistro liepiami.
-  citata_rodoma: |
-    Įėjo Vengrijos
-    ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
-    nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
-    kardus atnešė kryžiuočių didžiojo magistro liepiami.
+  citata_rodoma: "Įėjo Vengrijos\nir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem\nnuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du\nkardus atnešė kryžiuočių didžiojo magistro liepiami."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92957
+    - t-005
+
 - id: c-14301
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -179,19 +171,16 @@ Nenurodyta
     magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
     susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
     viram lauke, bet nesislapstyti giriose, kaip iki šiol.
-  citata_rodoma: |
-    Ordino
-    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
-    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
-    viram lauke, bet nesislapstyti giriose, kaip iki šiol.
+  citata_rodoma: "Ordino\nmagistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam\nsusirėmimui ir su tais ginklais stoti drąsiai į kautynes at­\nviram lauke, bet nesislapstyti giriose, kaip iki šiol."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92955
-    - t-92956
+    - t-006
+    - t-007
+
 - id: c-36715
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -205,18 +194,12 @@ Nenurodyta
     viram lauke, bet nesislapstyti giriose, kaip iki šiol. Jeigu per
     maža esą kautynėms lauko, Ordinas sutinkąs kiek pasitraukti
     ir užleisti vietos, tik pageidaująs, kad išlystų iš girios.
-  citata_rodoma: |
-    Ordino
-    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
-    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
-    viram lauke, bet nesislapstyti giriose, kaip iki šiol. Jeigu per
-    maža esą kautynėms lauko, Ordinas sutinkąs kiek pasitraukti
-    ir užleisti vietos, tik pageidaująs, kad išlystų iš girios.
+  citata_rodoma: "Ordino\nmagistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam\nsusirėmimui ir su tais ginklais stoti drąsiai į kautynes at­\nviram lauke, bet nesislapstyti giriose, kaip iki šiol. Jeigu per\nmaža esą kautynėms lauko, Ordinas sutinkąs kiek pasitraukti\nir užleisti vietos, tik pageidaująs, kad išlystų iš girios."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92958
-    - t-92959
+    - t-009
+    - t-008

@@ -31,7 +31,6 @@ Narbutas Ragutienę patį (Ragutenapati) apibūdina kaip aludarystę globojanči
 
 <a id="claim-t-189323"></a>
 - t-001
-  global_id: t-189323
   teiginys: "Narbutas Ragutienę patį (Ragutenapati) apibūdina kaip aludarystę globojančią deivę ir pagal vardą sieja ją su Ragučio žmona."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Narbutas Ragutienę patį (Ragutenapati) apibūdina kaip aludarystę globojanči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189323
+    - t-001

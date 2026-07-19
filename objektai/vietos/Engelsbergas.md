@@ -40,7 +40,6 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
 
 <a id="claim-t-58546"></a>
 - t-001
-  global_id: t-58546
   teiginys: "Kai kurie vienuoliai Engelsbergo pilį siejo su Angelų kalnu, nes, jų teigimu, jos gyventojai gyveno tarsi angelai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
 
 <a id="claim-t-58547"></a>
 - t-002
-  global_id: t-58547
   teiginys: "Engelsbergas tapatinamas su dabartiniu Pokživnu, esančiu daugiau kaip 8 km į pietryčius nuo Grudziondzo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,8 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58547
+    - t-002
+
 - id: c-167537
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -112,4 +111,4 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58546
+    - t-001

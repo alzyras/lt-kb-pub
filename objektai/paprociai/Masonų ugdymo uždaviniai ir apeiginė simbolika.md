@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-189846"></a>
 - t-002
-  global_id: t-189846
   teiginys: "Masonų organizacijose kampainis simbolizavo sąžinę, akacijos šakelė - nemirtingumą, o skriestuvas - aukščiausiąjį protą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,17 +73,6 @@ Nenurodyta
   pagrindžia:
     - c-172729
 
-<a id="claim-t-189845"></a>
-- t-001
-  global_id: t-189845
-  teiginys: 'Visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Ištaisyta OCR klaida ir paliktas aiškus subjektas - visuomenės švietimo bei ugdymo uždaviniai. Nepridėta duomenų apie taurę ar jos savininką, nes teiginys apima tik uždavinius.'
-  susije_objektai: 'mentioned_place: Lietuva'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose.'
@@ -106,11 +94,9 @@ Nenurodyta
     skrenda drugelis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189845
+  statusas: verified
 ## Citatos
 
 - id: c-172729
@@ -133,4 +119,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189846
+    - t-002

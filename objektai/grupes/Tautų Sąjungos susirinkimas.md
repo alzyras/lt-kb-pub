@@ -37,7 +37,6 @@ Pirmasis visuotinis Tautų S-gos susirinkimas (1920. S-gos susirinkimas, be to, 
 
 <a id="claim-t-66187"></a>
 - t-001
-  global_id: t-66187
   teiginys: "Pirmasis visuotinis Tautų Sąjungos susirinkimas 1920 m. svarstė Lietuvos, Latvijos ir Estijos prašymą, bet jo dar nepatenkino."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Pirmasis visuotinis Tautų S-gos susirinkimas (1920. S-gos susirinkimas, be to, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66187
+    - t-001

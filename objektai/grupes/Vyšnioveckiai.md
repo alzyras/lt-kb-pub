@@ -31,7 +31,6 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 
 <a id="claim-t-20092"></a>
 - t-001
-  global_id: t-20092
   teiginys: "Vyšnioveckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 
 <a id="claim-t-183201"></a>
 - t-002
-  global_id: t-183201
   teiginys: "Vyšnioveckiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -106,5 +104,5 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20092
-    - t-183201
+    - t-001
+    - t-002

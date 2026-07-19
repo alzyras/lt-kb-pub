@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-91904"></a>
 - t-001
-  global_id: t-91904
   teiginys: "Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,7 +65,6 @@ Nenurodyta
 
 <a id="claim-t-91905"></a>
 - t-002
-  global_id: t-91905
   teiginys: "Manoma, kad Galindos žemės nusiaubimą daugiausia lėmė XI-XIII a. pradžios pasienio karai, ypač su Lenkija."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -107,7 +105,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91904
+    - t-001
+
 - id: c-87547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -127,4 +126,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91905
+    - t-002

@@ -42,7 +42,6 @@ media_all_json: |-
 
 <a id="claim-t-31584"></a>
 - t-001
-  global_id: t-31584
   teiginys: "A. Horno „Tannenberg“ paskelbtas AM 22 tome 1885 m. ir 23 tome 1886 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,14 +69,11 @@ media_all_json: |-
     Berlin 1906. — Horn, A. : _Tannenberg,_ AM, t. 22, 1885, 637-648 ; t. 23,
     1886, 142-150 p. — Ivinskis, Z. : _Kovos bruožai dėl Žemaičių ir jų
     sienų,_ Athenaeum, VI, 1935, 54-117 p. — (”) _Vytauto Didžiojo perijodo_
-  citata_rodoma: |
-    Berlin 1906. — Horn, A. : _Tannenberg,_ AM, t. 22, 1885, 637-648 ; t. 23,
-    1886, 142-150 p. — Ivinskis, Z. : _Kovos bruožai dėl Žemaičių ir jų
-    sienų,_ Athenaeum, VI, 1935, 54-117 p.
+  citata_rodoma: "Berlin 1906. — Horn, A. : _Tannenberg,_ AM, t. 22, 1885, 637-648 ; t. 23,\n1886, 142-150 p. — Ivinskis, Z. : _Kovos bruožai dėl Žemaičių ir jų\nsienų,_ Athenaeum, VI, 1935, 54-117 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31584
+    - t-001

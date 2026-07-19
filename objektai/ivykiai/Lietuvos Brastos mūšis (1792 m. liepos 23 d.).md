@@ -54,8 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66681"></a>
-- t-001
-  global_id: t-66681
+- t-005
   teiginys: "1792 m. liepos 23 d. Lietuvos Brastos mūšis prasidėjo rusų kavalerijos ataka, kurią lietuvių kavalerija iš pradžių atmušė."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-43075
 
 <a id="claim-t-66682"></a>
-- t-002
-  global_id: t-66682
+- t-007
   teiginys: "Mūšio prie Lietuvos Brastos padariniai buvo įvertinti kaip sunkūs, bet ne vienareikšmiškai pralaimėjimas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -90,8 +88,7 @@ Nenurodyta
     - c-11875
 
 <a id="claim-t-66683"></a>
-- t-003
-  global_id: t-66683
+- t-011
   teiginys: "Zikaro sudarytame leidinyje Lietuvos Brastos mūšis nelaikomas nei pergale, nei pralaimėjimu, nes LDK kariuomenė pasitraukė tvarkingai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,8 +104,7 @@ Nenurodyta
     - c-11875
 
 <a id="claim-t-66684"></a>
-- t-004
-  global_id: t-66684
+- t-008
   teiginys: "1792 m. liepos 24 d. karalius S. A. Poniatovskis paskelbė jungiąsis prie Targovicos konfederacijos ir įsakė kariuomenei sudėti ginklus."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -127,8 +123,7 @@ Nenurodyta
     - c-11876
 
 <a id="claim-t-66685"></a>
-- t-005
-  global_id: t-66685
+- t-010
   teiginys: "Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė, S. Zabielos raportais, neteko apie 300 karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -144,8 +139,7 @@ Nenurodyta
     - c-43076
 
 <a id="claim-t-66686"></a>
-- t-006
-  global_id: t-66686
+- t-009
   teiginys: "Lietuvos Brastos mūšis prasidėjo 1792 m. liepos 23 d. auštant, kai prie lietuvių pozicijų priartėjo rusų kazokų priešakiniai daliniai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -164,8 +158,7 @@ Nenurodyta
     - c-43075
 
 <a id="claim-t-66687"></a>
-- t-007
-  global_id: t-66687
+- t-006
   teiginys: "Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė neteko apie 300 karių."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -205,27 +198,16 @@ Nenurodyta
     kas patyrė didelių nuostolių, o atsitraukta
     nesulaukus pastiprinimo, organizuotai ir
     tvarkingai.
-  citata_rodoma: |
-    Ne veltui karalius S. A. Poniatovskis apdova-
-    nojo keliolika šio mūšio karininkų ir karei-
-    vių neseniai įsteigto karinio Virtuti Militari
-    ordino auksiniais ir sidabriniais medaliais.
-    Mūšio prie Lietuvos Brastos negalime
-    vadinti pergale, kadangi LDK kariuomenė
-    turėjo pasitraukti, o priešininkui atiteko
-    strategiškai svarbi teritorija, tačiau negalime
-    laikyti ir pralaimėjimu, kadangi priešinin-
-    kas patyrė didelių nuostolių, o atsitraukta
-    nesulaukus pastiprinimo, organizuotai ir
-    tvarkingai.
+  citata_rodoma: "Ne veltui karalius S. A. Poniatovskis apdova-\nnojo keliolika šio mūšio karininkų ir karei-\nvių neseniai įsteigto karinio Virtuti Militari\nordino auksiniais ir sidabriniais medaliais.\nMūšio prie Lietuvos Brastos negalime\nvadinti pergale, kadangi LDK kariuomenė\nturėjo pasitraukti, o priešininkui atiteko\nstrategiškai svarbi teritorija, tačiau negalime\nlaikyti ir pralaimėjimu, kadangi priešinin-\nkas patyrė didelių nuostolių, o atsitraukta\nnesulaukus pastiprinimo, organizuotai ir\ntvarkingai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66682
-    - t-66683
+    - t-007
+    - t-011
+
 - id: c-11876
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -241,7 +223,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66684
+    - t-008
+
 - id: c-43075
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -265,8 +248,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66681
-    - t-66686
+    - t-005
+    - t-009
+
 - id: c-43076
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -276,18 +260,13 @@ Nenurodyta
 
     Mūšis truko apie 8 valandas. Lietuvos ka-
     riuomenė, remiantis S. Zabielos raportais,
-    neteko apie 300 karių.
-  citata_rodoma: |
-    Mūšio padariniai
-
-    Mūšis truko apie 8 valandas. Lietuvos ka-
-    riuomenė, remiantis S. Zabielos raportais,
-    neteko apie 300 karių.
+    neteko apie 300 karių. Rusų duomenimis
+  citata_rodoma: "Mūšio padariniai\n\nMūšis truko apie 8 valandas. Lietuvos ka-\nriuomenė, remiantis S. Zabielos raportais,\nneteko apie 300 karių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66685
-    - t-66687
+    - t-010
+    - t-006

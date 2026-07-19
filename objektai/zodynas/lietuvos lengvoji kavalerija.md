@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-193810"></a>
 - t-001
-  global_id: t-193810
   teiginys: "115, „LIETUVOS LENGVOJI KAVALERIJA“, Lietuvos kariuomenė svetimšalių akimis xv1- XVIII a., p. 150-151."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193810
+    - t-001

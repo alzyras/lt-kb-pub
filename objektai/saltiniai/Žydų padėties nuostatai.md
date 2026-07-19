@@ -36,7 +36,6 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 
 <a id="claim-t-21334"></a>
 - t-001
-  global_id: t-21334
   teiginys: "LV sudarė Žydų padėties nuostatus kaip deklaruojamo antisemitizmo priemonę ir siekė nuolaidų iš nacių Vokietijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 
 <a id="claim-t-183391"></a>
 - t-002
-  global_id: t-183391
   teiginys: "Lietuvos laikinoji vyriausybė Žydų padėties nuostatais ir VII forto konclageriu demonstravo antisemitizmą, siekdama nuolaidų iš nacių Vokietijos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -89,15 +87,15 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
     LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padė-
     ties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų
     iš nacių Vokietijos ir plaukė jos politikos farvateryje.
-  citata_rodoma: |
-    ties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų
+  citata_rodoma: "ties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21334
+    - t-001
+
 - id: c-166784
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -118,4 +116,4 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183391
+    - t-002

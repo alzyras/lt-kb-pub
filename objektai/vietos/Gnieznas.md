@@ -31,8 +31,7 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
 ## Teiginiai
 
 <a id="claim-t-85782"></a>
-- t-001
-  global_id: t-85782
+- t-002
   teiginys: "Gnieznas, sprendžiant iš imperatoriaus Otono III priėmimo šiame mieste, jau anuomet buvo tankiai gyvenama ir turtinga gyvenvietė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
     - c-81763
 
 <a id="claim-t-85783"></a>
-- t-002
-  global_id: t-85783
+- t-004
   teiginys: "Testamento vykdytoju Karalystėje buvo pasirinktas Gniezno arkivyskupas kartu su Krokuvos ir Kujavų vyskupais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
     - c-81764
 
 <a id="claim-t-85784"></a>
-- t-003
-  global_id: t-85784
+- t-001
   teiginys: "Martinas Galias pasakojo, kad Gnieznas duodavo 1 500 šarvuotųjų ir 5 000 pėstininkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +110,8 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85782
+    - t-002
+
 - id: c-81764
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -141,13 +139,14 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85783
+    - t-004
+
 - id: c-81765
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    51. Martinas
+    Ibid. Capit VIII, p. 51. Martinas
     Galias pasakoja, kad Poznanė duo­
     davo 1 300 šarvuotųjų ir 4 000 gin­
     kluotų skydais, Gnieznas - 1 500
@@ -155,19 +154,11 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
     Vladislavovo pilis - 800 šarvuotų­
     jų, 2 000 su skydais, Gdečas - 300
     pirmųjų ir 2 000 antrųjų.
-  citata_rodoma: |
-    51. Martinas
-    Galias pasakoja, kad Poznanė duo­
-    davo 1 300 šarvuotųjų ir 4 000 gin­
-    kluotų skydais, Gnieznas - 1 500
-    šarvuotųjų ir 5 000 pėstininkų;
-    Vladislavovo pilis - 800 šarvuotų­
-    jų, 2 000 su skydais, Gdečas - 300
-    pirmųjų ir 2 000 antrųjų.
+  citata_rodoma: "51. Martinas \nGalias pasakoja, kad Poznanė duo­\ndavo 1 300 šarvuotųjų ir 4 000 gin­\nkluotų skydais, Gnieznas - 1 500 \nšarvuotųjų ir 5 000 pėstininkų; \nVladislavovo pilis - 800 šarvuotų­\njų, 2 000 su skydais, Gdečas - 300 \npirmųjų ir 2 000 antrųjų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85784
+    - t-001

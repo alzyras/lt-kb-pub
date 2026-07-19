@@ -31,8 +31,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87443"></a>
-- t-001
-  global_id: t-87443
+- t-003
   teiginys: "Aleksandras siekė suimti ir įbauginti Mendli Girėjų, todėl Šach Achmedas buvo iki gyvos galvos įkalintas Kaune."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ media_all_json: |-
 
 <a id="claim-t-87445"></a>
 - t-002
-  global_id: t-87445
   teiginys: "Mendli Girėjus sumušė sąjungininko apleistą Šach Achmedą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87443
+    - t-003
+
 - id: c-83423
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -134,4 +133,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87445
+    - t-002

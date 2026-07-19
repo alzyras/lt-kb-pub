@@ -55,8 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-200669"></a>
-- t-001
-  global_id: t-200669
+- t-002
   teiginys: "1751 m. giminės rezidencijos statybos metu buvo aptariama, kur ir kokie turi būti herbų bareljefai."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/03_normalize_titles_and_notes.md"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-183936
 
 <a id="claim-t-200670"></a>
-- t-002
-  global_id: t-200670
+- t-001
   teiginys: "1751 m. rezidencijos stogą nurodyta dengti variu, kad gausūs lietūs jam nepakenktų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/03_normalize_titles_and_notes.md"
@@ -103,21 +101,9 @@ Nenurodyta
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 8"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 8."
-  citata_originali: |
-    Istorija / 2015, t. 97, Nr. 1
-    Yra žinoma apie minėto dvasininko rūpestį dėl savo ir savo giminės pastatų Vilniuje
-    statybos ir remonto. Pvz., 1751 m. J. D. Lopacinskis aiškino laiške broliui, kad dėl savo
-    giminės rezidencijos statybos kaštų nuolat diskutuodavo su architektu, nes šis norėjo
-    viską padaryti už didesnę kainą. Jie aiškinosi, kur ir kokie turi būti herbų bareljefai,
-    kanauninkas nurodė, kad siekiant, jog gausūs lietūs nepakenktų, būtina stogą padengti
-    variu [21].
-  citata_rodoma: |
-    Yra žinoma apie minėto dvasininko rūpestį dėl savo ir savo giminės pastatų Vilniuje statybos ir remonto. Pvz., 1751 m. J. D. Lopacinskis aiškino laiške broliui, kad dėl savo giminės rezidencijos statybos kaštų nuolat diskutuodavo su architektu, nes šis norėjo viską padaryti už didesnę kainą. Jie aiškinosi, kur ir kokie turi būti herbų bareljefai, kanauninkas nurodė, kad siekiant, jog gausūs lietūs nepakenktų, būtina stogą padengti variu [21].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 10:29"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200669
-    - t-200670
+    - t-002
+    - t-001

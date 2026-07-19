@@ -47,8 +47,7 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
 ## Teiginiai
 
 <a id="claim-t-192151"></a>
-- t-001
-  global_id: t-192151
+- t-003
   teiginys: "Narbutas prie sarmatų galiausiai palieka tik ginekokratuinenus ir vadina juos medų-skitų gentimi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -68,7 +67,6 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
 
 <a id="claim-t-192152"></a>
 - t-002
-  global_id: t-192152
   teiginys: "Narbutas ginekokratuinenus įtraukia į sarmatų tautų sąrašą, siejamą su Dono žemupiu ir Juodąja jūra."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -87,8 +85,7 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
     - c-175034
 
 <a id="claim-t-192153"></a>
-- t-003
-  global_id: t-192153
+- t-001
   teiginys: "Narbutas aiškina, kad Plinijus sarmatus vardija kaip amazonių karalienių valdomus ginekokratuinenus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -107,7 +104,6 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
 
 <a id="claim-t-192154"></a>
 - t-004
-  global_id: t-192154
   teiginys: "Narbutas ginekokratuinenus sieja su amazonėmis ir perteikia nuomonę, kad amazonių kalba laikytina panašia į skitų kalbą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -127,7 +123,6 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
 
 <a id="claim-t-192558"></a>
 - t-005
-  global_id: t-192558
   teiginys: "Narbutas, remdamasis Plinijumi, ginekokratuinenus mini pirmus tarp sarmatų, kuriuos pasakojimai kildino iš medų prie Dono ir Juodosios jūros."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -167,21 +162,15 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
     dų-skitų gentis, turėjusi santykių su amazonėmis, kurių,
     kaip teigia mūsų senovės tyrinėtojas2, ir kalbą reikėtų
     laikyti panašia j skitų.
-  citata_rodoma: |
-    Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai,
-    yra medų palikuonys, gyvenę prie Dono žemupio ir Juo-
-    dosios jūros; pirmiausia buvo sarmatai, amazonių kara-
-    lienių valdomi ginekokratuinenai, po jų evazai, kotai, ki-
-    kimenai, mesėnai, kostobokai, choatrai, žigai, dandarai,
-    tisagetai, turkai1.
+  citata_rodoma: "Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai,\nyra medų palikuonys, gyvenę prie Dono žemupio ir Juo-\ndosios jūros; pirmiausia buvo sarmatai, amazonių kara-\nlienių valdomi ginekokratuinenai, po jų evazai, kotai, ki-\nkimenai, mesėnai, kostobokai, choatrai, žigai, dandarai,\ntisagetai, turkai1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192151
-    - t-192152
-    - t-192153
-    - t-192154
-    - t-192558
+    - t-003
+    - t-002
+    - t-001
+    - t-004
+    - t-005

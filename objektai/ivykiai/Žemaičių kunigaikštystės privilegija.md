@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-01901"></a>
 - t-001
-  global_id: t-01901
   teiginys: "Po Zigmanto mirties kilusių kovų metu žemaičiai iš Kazimiero išgavo privilegiją, laidavusią jų teises ir savitą vidaus tvarkymąsi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-01902"></a>
 - t-002
-  global_id: t-01902
   teiginys: "Žemaičių kunigaikštystės privilegija patvirtino Vytauto laikų žemaičių teises ir garantavo, kad krašto seniūną jie rinksis patys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01902
+    - t-002
+
 - id: c-02140
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -107,15 +106,11 @@ Nenurodyta
     padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo
     iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems
     laikams laidavo jiems savotišką vidaus tvarkymąsi.
-  citata_rodoma: |
-    Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų
-    padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo
-    iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems
-    laikams laidavo jiems savotišką vidaus tvarkymąsi.
+  citata_rodoma: "Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų\npadarinių tik Žemaičiams: konkurentų kovų metu jie išgavo\niš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems\nlaikams laidavo jiems savotišką vidaus tvarkymąsi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01901
+    - t-001

@@ -30,7 +30,6 @@ Narbuto vertinimu Hasės mažai žinoma knyga rodė, kad iš žodžių nagrinėj
 
 <a id="claim-t-191408"></a>
 - t-001
-  global_id: t-191408
   teiginys: "Narbuto vertinimu Hasės mažai žinoma knyga rodė, kad iš žodžių nagrinėjimo galima išvesti beveik bet kokias žinias."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Narbuto vertinimu Hasės mažai žinoma knyga rodė, kad iš žodžių nagrinėj
 
 <a id="claim-t-197741"></a>
 - t-002
-  global_id: t-197741
   teiginys: "Siūlau dar Hasės mažai žinomą ir dar mažiau nagrinėtą knygą, kuri, mano galva, akivaizdžiai parodo, kad, rezgant žinias iš žodžių nagrinėjimo, viskas tikrai įmanoma1."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,5 +79,5 @@ Narbuto vertinimu Hasės mažai žinoma knyga rodė, kad iš žodžių nagrinėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191408
-    - t-197741
+    - t-001
+    - t-002

@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-28840"></a>
 - t-001
-  global_id: t-28840
   teiginys: "Lietuvos ir Tarybų Sąjungos savitarpinės pagalbos paktas 1939 m. spalio 10 d. žymėjo ketverių okupacijos metų laikotarpio pradžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28840
+    - t-001

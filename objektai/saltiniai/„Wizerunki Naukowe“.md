@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-190567"></a>
 - t-001
-  global_id: t-190567
   teiginys: "„Wizerunki Naukowe“ 1836 m. X tome paskelbė Komisijos dekretą apie valstiečių ginčą su Slucko bažnyčios klebonu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190567
+    - t-001

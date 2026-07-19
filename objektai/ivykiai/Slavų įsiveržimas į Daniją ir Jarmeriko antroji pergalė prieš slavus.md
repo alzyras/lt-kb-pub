@@ -44,7 +44,6 @@ Nenurodyta
 
 <a id="claim-t-191075"></a>
 - t-001
-  global_id: t-191075
   teiginys: "Narbutas pasakoja, kad Jarmerikui žygiuojant Prūsijoje slavai įsiveržė į Daniją, o grįžęs valdovas antrą kartą juos nugalėjo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191075
+    - t-001

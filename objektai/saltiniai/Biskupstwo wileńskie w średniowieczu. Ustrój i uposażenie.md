@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-100233"></a>
 - t-001
-  global_id: t-100233
   teiginys: "J. Ochmańskio „Biskupstwo wileńskie w średniowieczu. Ustrój i uposażenie“ išleista Poznanėje 1972 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,15 +65,11 @@ media_all_json: |-
     Penkauskas Pr. : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje,_
     Athenaeum, nr. 1, 1931, 1-36 p. — Prochaska, A. : _Dzieje Witolda w.
     księcia Litwy_ , Vilnius 1914.
-  citata_rodoma: |
-    — Ochmański, J. : _Bis­
-    kupstwo wileńskie w średniowieczu. Ustrój i uposażenie,_ Poznan 1972. —
-    Penkauskas Pr. : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje,_
-    Athenaeum, nr.
+  citata_rodoma: "— Ochmański, J. : _Bis­\nkupstwo wileńskie w średniowieczu. Ustrój i uposażenie,_ Poznan 1972. —\nPenkauskas Pr. : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje,_\nAthenaeum, nr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100233
+    - t-001

@@ -37,7 +37,6 @@ Dusburgietis teigia, kad torunės magistrato bibliotekos nuorašas (XVII a.) pad
 
 <a id="claim-t-61322"></a>
 - t-001
-  global_id: t-61322
   teiginys: "Torunės magistrato bibliotekos XVII a. Dusburgiečio kronikos nuorašas padarytas iš Karaliaučiaus bibliotekos teksto."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Dusburgietis teigia, kad torunės magistrato bibliotekos nuorašas (XVII a.) pad
 
 <a id="claim-t-197029"></a>
 - t-002
-  global_id: t-197029
   teiginys: "Berlyno karališkosios bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -88,5 +86,5 @@ Dusburgietis teigia, kad torunės magistrato bibliotekos nuorašas (XVII a.) pad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61322
-    - t-197029
+    - t-001
+    - t-002

@@ -31,7 +31,6 @@ Jurgio bažny­ čios prie Vilijos.
 
 <a id="claim-t-86129"></a>
 - t-001
-  global_id: t-86129
   teiginys: "Barboros rūmų griuvėsiai Vilniuje stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Jurgio bažny­ čios prie Vilijos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86129
+    - t-001

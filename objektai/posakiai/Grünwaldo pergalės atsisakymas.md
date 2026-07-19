@@ -30,7 +30,6 @@ Ją Dlugošas vėl kritikavo, kad « visai klaidingu būdu ir beveik pajuokai bu
 
 <a id="claim-t-28699"></a>
 - t-001
-  global_id: t-28699
   teiginys: "Dlugošas kritikavo Grünwaldo pergalės atsisakymą, teigdamas, kad jis nedavė naudos Lenkijai, bet buvo labai naudingas Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Ją Dlugošas vėl kritikavo, kad « visai klaidingu būdu ir beveik pajuokai bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28699
+    - t-001

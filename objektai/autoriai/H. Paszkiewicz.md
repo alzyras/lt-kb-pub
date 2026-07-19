@@ -36,7 +36,6 @@ Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (19
 
 <a id="claim-t-64599"></a>
 - t-001
-  global_id: t-64599
   teiginys: "H. Paszkiewiczius 1938 m. paskelbė 206 puslapių veikalą „O genezie i wartości Krewa“."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (19
 
 <a id="claim-t-64600"></a>
 - t-002
-  global_id: t-64600
   teiginys: "H. Paszkiewicz parašė veikalą „O genezie i wartości Krewa“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,18 +92,12 @@ Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (19
     kijos karaliumi. O Ziemovito viltys laimėti Jadvygos ranką 1383 m.
     pavasarį buvo padidėjusios, ir jis — priešingai Krokuvos ponų
     nusistatymui — planavęs Jadvygą pagrobti prievarta.
-  citata_rodoma: |
-    **
-    (^4) **Plg. H. Paszkiewicz :** **_O genezie i wartości Krewa_** **, 1938, 206 p.**
-
-
-    (^282) ii skyrius: valstybės iškilimas
-    m.
+  citata_rodoma: "**\n(^4) **Plg. H. Paszkiewicz :** **_O genezie i wartości Krewa_** **, 1938, 206 p.**\n\n\n(^282) ii skyrius: valstybės iškilimas\nm."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64599
-    - t-64600
+    - t-001
+    - t-002

@@ -31,7 +31,6 @@ Sruogienė, V.
 
 <a id="claim-t-31022"></a>
 - t-001
-  global_id: t-31022
   teiginys: "V. Daugirdaitė-Sruogienė parašė Lietuvių enciklopedijos straipsnį apie Norimantą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,13 +60,11 @@ Sruogienė, V.
     Sruogienė, V. : Norimantas , LE, t. 20, 411-412 p. — Stadnicki, K. :
     Koryat Gedyminowicz i Koryjatowicze , RAU, t. 7, 1879, 1-146 p. — (”)
     Synowie Giedymina , I (Monwid, Narymunt, Jawnuta, Koryat) , Lwów
-  citata_rodoma: |
-    —
-    Sruogienė, V. : Norimantas , LE, t. 20, 411-412 p.
+  citata_rodoma: "—\nSruogienė, V. : Norimantas , LE, t. 20, 411-412 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31022
+    - t-001

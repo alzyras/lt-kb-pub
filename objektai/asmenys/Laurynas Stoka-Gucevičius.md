@@ -28,7 +28,6 @@ Lauryno Stokos-Gucevičiaus Katedros projekte nebuvo fasado statulų; jas po arc
 
 <a id="claim-t-200858"></a>
 - t-001
-  global_id: t-200858
   teiginys: "Lauryno Stokos-Gucevičiaus Katedros projekte nebuvo fasado statulų; jas po architekto mirties pridėjo Mykolas Šulcas."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Lauryno Stokos-Gucevičiaus Katedros projekte nebuvo fasado statulų; jas po arc
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200858
+    - t-001

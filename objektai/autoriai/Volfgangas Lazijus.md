@@ -40,28 +40,19 @@ Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos 
 
 <a id="claim-t-191661"></a>
 - t-001
-  global_id: t-191661
   teiginys: "Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos maldos užrašą, įdėdamas jį į savo istoriją."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Londonas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Volfgangas Lazijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Londonas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Volfgangas Lazijus\" parinktas kaip owner_note_path. Targetas \"Londonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-174543
-    - c-001
+    - c-174544
+
 <a id="claim-t-191662"></a>
 - t-002
-  global_id: t-191662
   teiginys: "Volfgangas Lazijus, 1514–1565 m. gyvenęs istoriografas ir geografas, pirmasis paskelbė heruliškąja laikytą maldą „Tėve mūsų“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -100,8 +91,7 @@ Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191661
+
 ## Citatos
 
 - id: c-174543
@@ -132,21 +122,13 @@ Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos 
     svaresnių pastabų dėl lietuvių kalbos. Gaila, kad Ksavero Bogušo
     jau nebebuvo tarp
     gyvųjų!
-  citata_rodoma: |
-    Gal būtų pra­
-    dingus toji istorija, o kartu su ja ir tas brangus paminklas, jeigu
-    ne mokslo pasaulyje žinomas istorikas Volfgangas Lazijus, kuris
-    ją įdėjo į savo istoriją. Iš Lazijaus perrašė Čemberlenas, o iš
-    pastarojo tas užrašas buvo įdėtas į Londono „Sylloge“. Tą mal­
-    dą į savo knygas vėliau įrašė gdanskietis Kliuverijus (Liuvenus),
-    o vėliau — Dusburgo tęsėjas Hartknochas.
+  citata_rodoma: "Gal būtų pra­\ndingus toji istorija, o kartu su ja ir tas brangus paminklas, jeigu\nne mokslo pasaulyje žinomas istorikas Volfgangas Lazijus, kuris\nją įdėjo į savo istoriją. Iš Lazijaus perrašė Čemberlenas, o iš\npastarojo tas užrašas buvo įdėtas į Londono „Sylloge“. Tą mal­\ndą į savo knygas vėliau įrašė gdanskietis Kliuverijus (Liuvenus),\no vėliau — Dusburgo tęsėjas Hartknochas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191661
 - id: c-174544
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -165,4 +147,5 @@ Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191662
+    - t-001
+    - t-002

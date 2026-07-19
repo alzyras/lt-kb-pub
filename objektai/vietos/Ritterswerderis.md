@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-32509"></a>
 - t-001
-  global_id: t-32509
   teiginys: "1392 m. birželio pabaigoje Vytautas staiga grįžo ir sudegino Ritterswerderį bei dar dvi Ordino pilis prie Nemuno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,15 +71,11 @@ media_all_json: |-
     damas, iš Ritterswerderio patraukė Lietuvon į tariamą žygį. Stai­
     ga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie
     Nemuno, būtent, Naująjį Gardiną ir Meteną22 23 *.
-  citata_rodoma: |
-    1392 m. birželio gale, apsimes­
-    damas, iš Ritterswerderio patraukė Lietuvon į tariamą žygį. Stai­
-    ga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie
-    Nemuno, būtent, Naująjį Gardiną ir Meteną22 23 *.
+  citata_rodoma: "1392 m. birželio gale, apsimes­\ndamas, iš Ritterswerderio patraukė Lietuvon į tariamą žygį. Stai­\nga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie\nNemuno, būtent, Naująjį Gardiną ir Meteną22 23 *."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32509
+    - t-001

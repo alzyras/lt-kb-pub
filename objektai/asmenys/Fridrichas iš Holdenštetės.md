@@ -39,7 +39,6 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
 
 <a id="claim-t-60119"></a>
 - t-001
-  global_id: t-60119
   teiginys: "Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
 
 <a id="claim-t-60120"></a>
 - t-002
-  global_id: t-60120
   teiginys: "Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais ir ginklanešiais nusiaubė Saldavos valsčių Notangoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,21 +84,15 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
     degindamas bei plėšdamas, daug žmonių išžudydamas ar paimdamas į nelaisvę. Kai
     traukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta
     Štai šiuo būdu.
-  citata_rodoma: |
-    Apie Brandenburgo pilies sunaikinimą
-
-       Brolis Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais bei ginklanešiais
-    atvyko į Notangos valsčių, vardu Saldava403, buvusį netoli Kroicburgo pilies, ir jį nusiaubė,
-    degindamas bei plėšdamas, daug žmonių išžudydamas ar paimdamas  į nelaisvę. Kai
-    traukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta
-    Štai šiuo būdu.
+  citata_rodoma: "Apie Brandenburgo pilies sunaikinimą\n\n   Brolis Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais bei ginklanešiais\natvyko į Notangos valsčių, vardu Saldava403, buvusį netoli Kroicburgo pilies, ir jį nusiaubė,\ndegindamas bei plėšdamas, daug žmonių išžudydamas ar paimdamas  į nelaisvę. Kai\ntraukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta\nŠtai šiuo būdu."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60120
+    - t-002
+
 - id: c-167449
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -117,4 +109,4 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60119
+    - t-001

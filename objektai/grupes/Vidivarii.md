@@ -31,7 +31,6 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 
 <a id="claim-t-31369"></a>
 - t-001
-  global_id: t-31369
   teiginys: "Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,20 +71,14 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
     pajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­
     nes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs
     375 m.) buvęs savo valstybei pajungęs ir aisčius.
-  citata_rodoma: |
-    Padarydamas santrauką vėliau dingusios
-    Kassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine
-    actibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą
-    tautą («pacatum hominum genus omnino »), užėmusią labai ilgą
-    pajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­
-    nes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs
-    375 m.) buvęs savo valstybei pajungęs ir aisčius.
+  citata_rodoma: "Padarydamas santrauką vėliau dingusios\nKassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine\nactibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą\ntautą («pacatum hominum genus omnino »), užėmusią labai ilgą\npajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­\nnes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs\n375 m.) buvęs savo valstybei pajungęs ir aisčius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31369
+    - t-001
+
 ## Ryšiai
 - Vidivarii gyveno [[objektai/vietos/Vysla]]

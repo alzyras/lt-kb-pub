@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-40702"></a>
 - t-001
-  global_id: t-40702
   teiginys: "Dainavos apygardos kovotojų rankovės antsiuvas buvo naudotas 1945–1949 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,13 +84,11 @@ Nenurodyta
     p. 228, Sovietų automatinis (pusiau automatinis) šautuvas svT-40, VDKM, Artūro Užgalio nuotr.
     p. 230, Dainavos apygardos kovotojų rankovės antsiuvas, naudotas 1945-1949 metais, GAM.
     p. 230, Dainavos apygardos partizanai pratybose, GAM.
-  citata_rodoma: |
-    p. 230, Dainavos apygardos kovotojų rankovės antsiuvas, naudotas 1945-1949 metais, GAM.
-    p.
+  citata_rodoma: "p. 230, Dainavos apygardos kovotojų rankovės antsiuvas, naudotas 1945-1949 metais, GAM.\np."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40702
+    - t-001

@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201352"></a>
 - t-001
-  global_id: t-201352
   teiginys: "Pamarionys, mažėdamos savo galybe, patelkė lietuvių gimines."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184702
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pamarionys, mažėdamos
     savo galybe, patelkė lietuvių gimines. Susigrūmė
@@ -72,4 +72,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201352
+    - t-001

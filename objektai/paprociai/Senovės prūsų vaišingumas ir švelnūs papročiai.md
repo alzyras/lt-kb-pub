@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192093"></a>
-- t-001
-  global_id: t-192093
+- t-002
   teiginys: "Narbutas Varmijos gyventojus vaizduoja kaip laikiusiusis švelnių papročių, labiausiai civilizuotus ir mažiausiai karingus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -68,6 +67,7 @@ Nenurodyta
   pagrindžia:
     - c-174962
     - c-175302
+
 ## Citatos
 
 - id: c-174962
@@ -84,15 +84,15 @@ Nenurodyta
     ir Pagude, šiaurėje buvo Baltijos jūra. Šioje provincijoje
     gyvenę žmonės laikėsi švelnių papročių, buvo vieni iš
     labiausiai civilizuotų ir mažiausiai karingi.
-  citata_rodoma: |
-    Šioje provincijoje gyvenę žmonės laikėsi švelnių papročių, buvo vieni iš labiausiai civilizuotų ir mažiausiai karingi.
+  citata_rodoma: "Šioje provincijoje gyvenę žmonės laikėsi švelnių papročių, buvo vieni iš labiausiai civilizuotų ir mažiausiai karingi."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192093
+    - t-002
+
 - id: c-175302
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -110,3 +110,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

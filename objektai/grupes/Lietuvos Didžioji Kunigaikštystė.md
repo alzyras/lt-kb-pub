@@ -5,6 +5,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -41,15 +42,14 @@ media_all_json: |-
 
 ## Santrauka
 
-Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas. Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės. Už Lietuvos ribų Lietuvos bajorai laikyti tiesiog lenkais.
+1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu. 1564 m. pradžioje į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės Maskvos kariuomenės. Žygimantas Augustas, pasigailėjęs Lietuvos Didžiosios Kunigaikštystės pavaldinių, paskelbė lietuviškos monetos vertės taisyklę.
 
 ## Teiginiai
 
 <a id="claim-t-169699"></a>
-- t-001
-  global_id: t-169699
+- t-008
   teiginys: "1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuva: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -66,12 +66,12 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-154401
+    - c-181216
 
 <a id="claim-t-169700"></a>
-- t-002
-  global_id: t-169700
+- t-007
   teiginys: "1564 m. pradžioje į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės Maskvos kariuomenės."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -87,12 +87,12 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-42809
+    - c-181218
 
 <a id="claim-t-169703"></a>
-- t-003
-  global_id: t-169703
+- t-009
   teiginys: "Žygimantas Augustas, pasigailėjęs Lietuvos Didžiosios Kunigaikštystės pavaldinių, paskelbė lietuviškos monetos vertės taisyklę."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -105,10 +105,10 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-154403
+    - c-181215
 
 <a id="claim-t-184560"></a>
-- t-004
-  global_id: t-184560
+- t-011
   teiginys: "Lenkai siūlė panaikinti Lietuvos Didžiosios Kunigaikštystės ir Lietuvos pareigybių vardus."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -128,8 +128,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     - c-167921
 
 <a id="claim-t-198911"></a>
-- t-005
-  global_id: t-198911
+- t-001
   teiginys: "Lietuvos metraštis Klecko pergalę sieja su Dievo gailestingumu ir aprašo Lietuvos kariuomenę grįžus su totorių belaisviais bei grobiu."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -152,8 +151,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     - c-181214
 
 <a id="claim-t-198912"></a>
-- t-006
-  global_id: t-198912
+- t-003
   teiginys: "1840 m. panaikinus Lietuvos Statutą ir surusinus teismus, buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -167,8 +165,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     - c-181221
 
 <a id="claim-t-198913"></a>
-- t-007
-  global_id: t-198913
+- t-013
   teiginys: "Įvadinio straipsnio autorius LTI nuvertinimą lenkų istoriografijoje sieja su Narbuto politinėmis simpatijomis LDK ir lietuvių tautai."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -188,10 +185,9 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-181219
-    - c-171180
+
 <a id="claim-t-198914"></a>
-- t-008
-  global_id: t-198914
+- t-002
   teiginys: "Lietuvos metraštis Vytautą vaizduoja valdžius Lietuvos ir Rusų Didžiąją Kunigaikštystę bei artimai bendravus su Vengrų valdovu."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -214,10 +210,9 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181213
-    - c-170658
+
 <a id="claim-t-198915"></a>
-- t-009
-  global_id: t-198915
+- t-004
   teiginys: "Visų LDK žemių seimas Vilniuje 1492 m. liepos 18 d. patvirtino Aleksandrą Lietuvos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -242,8 +237,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     - c-181211
 
 <a id="claim-t-198916"></a>
-- t-010
-  global_id: t-198916
+- t-012
   teiginys: "Įvadinio straipsnio autorius teigia, kad Narbutas priešinosi mėginimams Lietuvos Didžiosios Kunigaikštystės žemes paversti Lenkijos provincija."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -268,8 +262,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     - c-181220
 
 <a id="claim-t-198917"></a>
-- t-011
-  global_id: t-198917
+- t-005
   teiginys: "Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -287,8 +280,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     - c-181222
 
 <a id="claim-t-198918"></a>
-- t-012
-  global_id: t-198918
+- t-010
   teiginys: "LDK ir Maskvos Didžiosios Kunigaikštystės 1406-1408 m. karo veiksmai vyko LDK rytų pasienyje, Ugros ir Okos upių ruože."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -313,8 +305,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     - c-181212
 
 <a id="claim-t-198920"></a>
-- t-013
-  global_id: t-198920
+- t-006
   teiginys: "Vytautui galutinai prijungus Smolenską prie Lietuvos Didžiosios Kunigaikštystės, Jurijus Svetoslavovičius persikėlė į Didįjį Naugardą."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -374,7 +365,8 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169700
+    - t-007
+
 - id: c-154401
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -386,19 +378,15 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 
     Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
     Lietuvos kariuomenių struktūrą:
-  citata_rodoma: |
-    1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protek-
-    toratu. 1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
-    didesnė dalis Livonijos tapo Lietuvos dalimi
-
-    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.
+  citata_rodoma: "1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protek-\ntoratu. 1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,\ndidesnė dalis Livonijos tapo Lietuvos dalimi\n\nIštrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169699
+    - t-008
+
 - id: c-154403
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -436,7 +424,8 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169703
+    - t-009
+
 - id: c-167921
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -461,7 +450,8 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184560
+    - t-011
+
 - id: c-181211
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -476,7 +466,8 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198915
+    - t-004
+
 - id: c-181212
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -499,7 +490,8 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198918
+    - t-010
+
 - id: c-181213
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -518,26 +510,15 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     Didžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­
     rų karalių, vadinamą Romos imperatoriumi, ir liepė jam
     atvykti.
-  citata_rodoma: |
-    Kaip neišma­
-    tuojama dangaus aukštybė ir jūros gilybė, taip neap­
-    sakoma ir to šlovingojo valdovo galybė ir narsumas.
-    Esant šiam Vytautui didžiuoju kunigaikščiu ir val­
-    dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį
-    kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­
-    mė, bet ir Vengrų žemės valdovas, vadinamas Romos
-    im peratorium igyveno su juo didelėje meilėje.
-    Kartą šis šlovingasis valdovas, būdamas savo pilyje,
-    Didžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­
-    rų karalių, vadinamą Romos imperatoriumi, ir liepė jam
-    atvykti.
+  citata_rodoma: "Kaip neišma­\ntuojama dangaus aukštybė ir jūros gilybė, taip neap­\nsakoma ir to šlovingojo valdovo galybė ir narsumas.\nEsant šiam Vytautui didžiuoju kunigaikščiu ir val­\ndant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį \nkitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­\nmė, bet ir Vengrų žemės valdovas, vadinamas Romos \nim peratorium igyveno su juo didelėje meilėje.\nKartą šis šlovingasis valdovas, būdamas savo pilyje, \nDidžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­\nrų karalių, vadinamą Romos imperatoriumi, ir liepė jam \natvykti."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198914
+    - t-002
+
 - id: c-181214
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -560,7 +541,8 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198911
+    - t-001
+
 - id: c-181215
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -594,10 +576,12 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     grašių kainą.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
 - id: c-181216
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -609,18 +593,15 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 
     Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
     Lietuvos kariuomenių struktūrą:
-  citata_rodoma: |
-    1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protek-
-    toratu. 1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
-    didesnė dalis Livonijos tapo Lietuvos dalimi
-
-    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.
+  citata_rodoma: "1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protek-\ntoratu. 1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,\ndidesnė dalis Livonijos tapo Lietuvos dalimi\n\nIštrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-181218
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -650,10 +631,12 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     nei turėjo pakakti net pusei metų.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-181219
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -666,19 +649,15 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     lietuvių mitologija prilygsta graikų, todėl yra klasikinė. Lietu­
     viškų dievybių panteonas visiškai atitinka tiek indų, tiek grai­
     kų dieviškąjį pasaulį.
-  citata_rodoma: |
-    Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai
-    vertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo
-    klaidomis, netikslumais, asmenine „kūryba“. Pagrindinė LTI
-    nuvertinimo priežastis -  istoriko politinės simpatijos LDK ir
-    lietuvių tautai.
+  citata_rodoma: "Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai\nvertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo\nklaidomis, netikslumais, asmenine „kūryba“. Pagrindinė LTI\nnuvertinimo priežastis -  istoriko politinės simpatijos LDK ir\nlietuvių tautai."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198913
+    - t-013
+
 - id: c-181220
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -698,7 +677,8 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198916
+    - t-012
+
 - id: c-181221
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -711,19 +691,15 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
     traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
     Vakarų kraštu.
-  citata_rodoma: |
-    1840 m. panaikintas
-    Lietuvos Statutas, o teismų sistema surusinta. Lietuvos vardas pašalintas
-    iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
-    traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
-    Vakarų kraštu.
+  citata_rodoma: "1840 m. panaikintas \nLietuvos Statutas, o teismų sistema surusinta. Lietuvos vardas pašalintas \niš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos \ntraktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės \nVakarų kraštu."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198912
+    - t-003
+
 - id: c-181222
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -739,7 +715,8 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198917
+    - t-005
+
 - id: c-181223
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -751,58 +728,14 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     kunigaikštis (1386—1392 ir 1401— 1404). Vytautui galutinai prijun­
     gus Smolensku prie Lietuvos Didžiosios Kunigaikštystės, persikėlė
     į Didįjį Naugardų.
-  citata_rodoma: |
-    1).
-    '* Jurijus (Georgijus) Svetoslavovičlus — paskutinis Smolensko
-    kunigaikštis (1386— 1392 ir 1401— 1404). Vytautui galutinai prijun­
-    gus Smolensku prie Lietuvos Didžiosios Kunigaikštystės, persikėlė
-    į Didįjį Naugardų.
+  citata_rodoma: "1).\n'* Jurijus (Georgijus) Svetoslavovičlus — paskutinis Smolensko \nkunigaikštis (1386— 1392 ir 1401— 1404). Vytautui galutinai prijun­\ngus Smolensku prie Lietuvos Didžiosios Kunigaikštystės, persikėlė \nį Didįjį Naugardų."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198920
-- id: c-170658
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Kaip neišma­
-    tuojama dangaus aukštybė ir jūros gilybė, taip neap­
-    sakoma ir to šlovingojo valdovo galybė ir narsumas.
-    Esant šiam Vytautui didžiuoju kunigaikščiu ir val­
-    dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį
-    kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­
-    mė, bet ir Vengrų žemės valdovas, vadinamas Romos
-    im peratorium igyveno su juo didelėje meilėje.
-    Kartą šis šlovingasis valdovas, būdamas savo pilyje,
-    Didžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­
-    rų karalių, vadinamą Romos imperatoriumi, ir liepė jam
-    atvykti.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-198914
-- id: c-171180
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 8"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
-  citata_originali: |
-    Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai
-    vertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo
-    klaidomis, netikslumais, asmenine „kūryba“. Pagrindinė LTI
-    nuvertinimo priežastis -  istoriko politinės simpatijos LDK ir
-    lietuvių tautai.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-198913
+    - t-006
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Smolenskas]]

@@ -31,7 +31,6 @@ Vainą ir „vengrų“ pėstininkų rotmistrą Kurovičių.
 
 <a id="claim-t-39772"></a>
 - t-001
-  global_id: t-39772
   teiginys: "Kurovičius buvo „vengrų“ pėstininkų rotmistras, kurį paryčiais girti bajorai nužudė kartu su kitais žymesniais belaisviais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Vainą ir „vengrų“ pėstininkų rotmistrą Kurovičių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39772
+    - t-001

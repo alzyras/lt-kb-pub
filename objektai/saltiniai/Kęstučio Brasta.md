@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-31778"></a>
 - t-001
-  global_id: t-31778
   teiginys: "„Kęstučio Brasta“ nurodoma Lietuvių enciklopedijos 11 tome, 405 puslapyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,13 +57,11 @@ media_all_json: |-
     — Šležas, P. : _Kauno pilies išgriovimas,_ Židinys, 1932, nr. 10, 271 ir
     sek. p. — (”) _Ko bėgo Kęstučio sūnus iš Lietuvos,_ Židinys, 1932, nr. 12,
     449-457 p. — (”) _Kęstučio šeima,_ Mūsų Žinynas, 1933, nr. 98-99.
-  citata_rodoma: |
-    -— (”) _Kęstučio Brasta,_
-    LE, t. 11, 405 p. — Salys, A.
+  citata_rodoma: "-— (”) _Kęstučio Brasta,_\nLE, t. 11, 405 p. — Salys, A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31778
+    - t-001

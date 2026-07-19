@@ -8,10 +8,10 @@ datos:
   - '1643 m.'
 date_start: '1609'
 date_end: '1643'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,7 +35,6 @@ media_all_json: |-
 
 <a id="claim-t-201887"></a>
 - t-001
-  global_id: t-201887
   teiginys: "1609 m., kaip matyti iš kalvių cecho vyresniojo Bart10miejaus Meleškaičio skundo vaitui, mėsininkų cechas jau turėjo egzistuoti, nors 1643 m. Vladislovo Vazos privilegija mėsininkų cechui atrodo kaip steigiamoji."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201887
+    - t-001

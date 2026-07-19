@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87177"></a>
-- t-001
-  global_id: t-87177
+- t-003
   teiginys: "Normanai ilgainiui ėmėsi prekybos ir atvėrė jos kelius per Lietuvą, suomių ir slavų kraštus nuo Skandinavijos iki Graikijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-83158
 
 <a id="claim-t-87178"></a>
-- t-002
-  global_id: t-87178
+- t-001
   teiginys: "IX a. Rusioje variagais vadinti normanai iš Skandinavijos plėšikavo ir prekiavo Baltijos gintarinėse pakrantėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,8 +88,7 @@ Nenurodyta
     - c-83157
 
 <a id="claim-t-87179"></a>
-- t-003
-  global_id: t-87179
+- t-002
   teiginys: "Atšiaurus klimatas, nenaši žemė, tvarkos stoka ir tarpusavio nesantaika skatino skandinavus leistis į jūros keliones per Baltiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -136,7 +133,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87179
+    - t-002
+
 - id: c-83157
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -172,37 +170,15 @@ Nenurodyta
     terram Littwanie, ideo Szomoyth voca­
     tur, quod in Littwanico, terra inferior,
     interpretatur.
-  citata_rodoma: |
-    2
-    Apie Lietuvos ir Žemaitijos tapatu­
-    mą ir apie tą jos dalijimą į aukštuti­
-    nę ir žemutinę sužinome iš kuo pa­
-    tikimiausio šaltinio, iš didžiojo
-    kunigaikščio Vytauto 1420 metais
-    Romos imperatoriui Zigmantui ra-
-    švto laiško: Terra Samaytarum, - pa-
-    14
-
-    ## Puslapis 31
-
-    I  KNYGA
-    Visame tame plote, nuo senų senovės apaugusiame girio­
-    mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
-    ganos medžioklių trobelės. Pirmieji normanai iš Skandina­
-    vijos, IX amžiuje Rusioje žinomi variagų vardu, susivilioję
-    plėšikavimu ir prekyba gintarinėse pakrantėse, atnešė tam
-    tikros pažangos tiems varganiems gyventojams, panašiai
-    kaip ir į Rusios kraštus už Dvinos. Tikriausiai tie žygiai iš
-    Švedijos, Norvegijos ir Danijos, dažnai kartojami į Baltijos
-    pakrantes, davė pradžią legendiniam pasakojimui apie Pa­
-    lemono ir jo Romos riterių3 atvykimą iš Italijos.
+  citata_rodoma: "2\nApie Lietuvos ir Žemaitijos tapatu­\nmą ir apie tą jos dalijimą į aukštuti­\nnę ir žemutinę sužinome iš kuo pa­\ntikimiausio šaltinio, iš didžiojo \nkunigaikščio Vytauto 1420 metais \nRomos imperatoriui Zigmantui ra- \nšvto laiško: Terra Samaytarum, - pa-\n14\n\n## Puslapis 31\n\nI  KNYGA\nVisame tame plote, nuo senų senovės apaugusiame girio­\nmis, palei gausių upių, versmių, ežerų krantus, stovėjo var­\nganos medžioklių trobelės. Pirmieji normanai iš Skandina­\nvijos, IX amžiuje Rusioje žinomi variagų vardu, susivilioję \nplėšikavimu ir prekyba gintarinėse pakrantėse, atnešė tam \ntikros pažangos tiems varganiems gyventojams, panašiai \nkaip ir į Rusios kraštus už Dvinos. Tikriausiai tie žygiai iš \nŠvedijos, Norvegijos ir Danijos, dažnai kartojami į Baltijos \npakrantes, davė pradžią legendiniam pasakojimui apie Pa­\nlemono ir jo Romos riterių3 atvykimą iš Italijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87178
+    - t-001
+
 - id: c-83158
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -216,18 +192,11 @@ Nenurodyta
     iki Graikijos, kurią vadindavo Gri-
     kalandu, regis, pirmą kartą visus
     tuos žmones išvedė iš girių ir liūnų.
-  citata_rodoma: |
-    II. Laikui bėgant tie atėjūnai uo­
-    liai ėmėsi prekybos ir, atverdami jai
-    naujus kelius per Lietuvą, suomių ir
-    slavų kraštus, nuo Skandinavijos net
-    iki Graikijos, kurią vadindavo Gri-
-    kalandu, regis, pirmą kartą visus
-    tuos žmones išvedė iš girių ir liūnų.
+  citata_rodoma: "II. Laikui bėgant tie atėjūnai uo­\nliai ėmėsi prekybos ir, atverdami jai \nnaujus kelius per Lietuvą, suomių ir \nslavų kraštus, nuo Skandinavijos net\niki Graikijos, kurią vadindavo Gri- \nkalandu, regis, pirmą kartą visus \ntuos žmones išvedė iš girių ir liūnų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87177
+    - t-003

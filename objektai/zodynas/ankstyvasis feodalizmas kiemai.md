@@ -38,7 +38,6 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 
 <a id="claim-t-22055"></a>
 - t-001
-  global_id: t-22055
   teiginys: "Valdant Ldk Gediminui ankstyvojo feodalizmo požymiu Lietuvoje buvo ankstyvieji dvarai, vadinti kiemais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 
 <a id="claim-t-183396"></a>
 - t-002
-  global_id: t-183396
   teiginys: "Valdant Ldk Gediminui Lietuvoje ankstyvojo feodalizmo dvarai vadinti kiemais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -90,15 +88,15 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
     Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti
     visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodaliz-
     mas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.
-  citata_rodoma: |
-    Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti
+  citata_rodoma: "Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22055
+    - t-001
+
 - id: c-166790
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -117,4 +115,4 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183396
+    - t-002

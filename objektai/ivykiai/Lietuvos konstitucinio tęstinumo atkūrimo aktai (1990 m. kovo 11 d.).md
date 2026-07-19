@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-20314"></a>
 - t-001
-  global_id: t-20314
   teiginys: "Kovo 11 Aktas dvasia buvo artimas 1918 m. Vasario 16 Aktui, tačiau nebesirėmė tautų apsisprendimo teise."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +75,6 @@ Nenurodyta
 
 <a id="claim-t-20315"></a>
 - t-002
-  global_id: t-20315
   teiginys: "Laikinasis Pagrindinis Įstatymas panaikino Lietuvos ir jos piliečių prievoles, neteisėtai nustatytas sovietų konstitucijos ir įstatymų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,6 @@ Nenurodyta
 
 <a id="claim-t-183246"></a>
 - t-003
-  global_id: t-183246
   teiginys: "Lietuvos Aukščiausioji Taryba atkūrė 1938 m. Konstitucijos galiojimą, netrukus jį sustabdė ir patvirtino Laikinąjį Pagrindinį Įstatymą."
   atnaujinta: "2026-06-13 17:18"
   sprendimo_priezastis: "auto"
@@ -147,15 +144,15 @@ Nenurodyta
     reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
     savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
     teritoriją.
-  citata_rodoma: |
-    reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
+  citata_rodoma: "reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20314
+    - t-001
+
 - id: c-166634
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -180,5 +177,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20315
-    - t-183246
+    - t-002
+    - t-003

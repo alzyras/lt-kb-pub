@@ -34,25 +34,6 @@ media_all_json: |-
 
 Citatoje Olaus Magnus „Gentium septentrionalium historiae“ tapatinama su Olafo Monsono „Šiaurės tautų istorija“, išleista 1652 m.
 
-## Teiginiai
-
-<a id="claim-t-190519"></a>
-- t-001
-  global_id: t-190519
-  teiginys: "Citatoje Olaus Magnus „Gentium septentrionalium historiae“ tapatinama su Olafo Monsono „Šiaurės tautų istorija“, išleista 1652 m."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1652 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Iš bibliografinės pastabos suformuotas teiginys apie kūrinio identifikavimą. Nepridėta platesnio veikalo turinio ar Narbuto muziejaus konteksto."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-173402
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Citatoje Olaus Magnus „Gentium septentrionalium historiae“ tapatinama su Olafo Monsono „Šiaurės tautų istorija“, išleista 1652 m.'
@@ -67,8 +48,7 @@ Citatoje Olaus Magnus „Gentium septentrionalium historiae“ tapatinama su Ola
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190519
+
 ## Citatos
 
 - id: c-173402
@@ -83,15 +63,29 @@ Citatoje Olaus Magnus „Gentium septentrionalium historiae“ tapatinama su Ola
     lis, Siričius, Dvargantis, Klamals ir Prigirditis. Reng­
     damas antrąjį leidimą, autorius nutarė jį spausdin­
     ti abėcėlės tvarka (PE.
-  citata_rodoma: |
-    P. 183*- Turima omenyje Olafo Monsono (1490-1558)
-    „Šiaurės tautų istorija“ (Olaus Magnus. Gentium
-    septentrionalium historiae. -  1652 // [Narbutt T]
-    Spisanie Muzeum w Szawrach. -  L. 16. -  Nr. 216).
+  citata_rodoma: "P. 183*- Turima omenyje Olafo Monsono (1490-1558)\n„Šiaurės tautų istorija“ (Olaus Magnus. Gentium\nseptentrionalium historiae. -  1652 // [Narbutt T]\nSpisanie Muzeum w Szawrach. -  L. 16. -  Nr. 216)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190519
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-190519"></a>
+- t-001
+  teiginys: "Citatoje Olaus Magnus „Gentium septentrionalium historiae“ tapatinama su Olafo Monsono „Šiaurės tautų istorija“, išleista 1652 m."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1652 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Iš bibliografinės pastabos suformuotas teiginys apie kūrinio identifikavimą. Nepridėta platesnio veikalo turinio ar Narbuto muziejaus konteksto."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-173402

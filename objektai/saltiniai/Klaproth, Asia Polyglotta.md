@@ -30,7 +30,6 @@ Teodoras Narbutas teigia, kad Klaproto „Asia Polyglotta“ osetinų kalbos žo
 
 <a id="claim-t-191845"></a>
 - t-001
-  global_id: t-191845
   teiginys: "Teodoras Narbutas teigia, kad Klaproto „Asia Polyglotta“ osetinų kalbos žodyne nėra reikšmingo panašumo į lietuvių kalbą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Teodoras Narbutas teigia, kad Klaproto „Asia Polyglotta“ osetinų kalbos žo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191845
+    - t-001

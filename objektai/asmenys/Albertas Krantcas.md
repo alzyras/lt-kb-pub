@@ -32,7 +32,6 @@ Narbutas rašo, kad Albertas Krantcas neneigė prie Upsalos augusio medžio nuol
 
 <a id="claim-t-190128"></a>
 - t-001
-  global_id: t-190128
   teiginys: "Narbutas rašo, kad Albertas Krantcas neneigė prie Upsalos augusio medžio nuolatinio žaliavimo, bet negalėjo nustatyti jo rūšies."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas rašo, kad Albertas Krantcas neneigė prie Upsalos augusio medžio nuol
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190128
+    - t-001

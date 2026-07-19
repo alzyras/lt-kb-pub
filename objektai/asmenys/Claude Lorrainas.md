@@ -28,7 +28,6 @@ Mikalojus Vorobjovas Claude Lorrainą mini tarp meistrų, kurių spalvų ir švi
 
 <a id="claim-t-200864"></a>
 - t-001
-  global_id: t-200864
   teiginys: "Mikalojus Vorobjovas Claude Lorrainą mini tarp meistrų, kurių spalvų ir šviesų poveikyje formavosi Antakalnio bažnyčios skulptorių optika."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Mikalojus Vorobjovas Claude Lorrainą mini tarp meistrų, kurių spalvų ir švi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200864
+    - t-001

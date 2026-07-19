@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-201388"></a>
 - t-001
-  global_id: t-201388
   teiginys: "Atėjus šventėms, ne tabalavo per kiemus, ne kūlės nepriderančiai, ne gėrė, ne merginėjo, bet žinyčiose ar po ąžuolais giminės doba širdingai meldės pas savo dievus."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184738
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Iš medės pargrįžę ne miegpūdavo, bet vieni vir­
     ves* suko, kiti tinklus mezgė, kiti lunkus mižojo, vy­
@@ -77,4 +77,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201388
+    - t-001

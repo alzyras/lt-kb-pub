@@ -37,7 +37,6 @@ Pasak Kojelavičiaus, 1401 m. Lietuvos luomai viešu dokumentu paliudijo Lietuvo
 
 <a id="claim-t-186298"></a>
 - t-001
-  global_id: t-186298
   teiginys: "Pasak Kojelavičiaus, 1401 m. Lietuvos luomai viešu dokumentu paliudijo Lietuvos prisijungimą prie Lenkijos karalystės."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Pasak Kojelavičiaus, 1401 m. Lietuvos luomai viešu dokumentu paliudijo Lietuvo
 
 <a id="claim-t-196353"></a>
 - t-002
-  global_id: t-196353
   teiginys: "Andrius Vygandas raštiškai pasižadėjo po Vytauto mirties su kitais Lietuvos kunigaikščiais pripažinti tik Jogailos valdžią."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Pasak Kojelavičiaus, 1401 m. Lietuvos luomai viešu dokumentu paliudijo Lietuvo
 
 <a id="claim-t-196354"></a>
 - t-003
-  global_id: t-196354
   teiginys: "Žiemą Jogaila atvyko į Lietuvą, kur Lietuvos ir Lenkijos sąjunga buvo atnaujinta visos tautos atstovų sueigoje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -122,8 +119,9 @@ Pasak Kojelavičiaus, 1401 m. Lietuvos luomai viešu dokumentu paliudijo Lietuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186298
-    - t-196354
+    - t-001
+    - t-003
+
 - id: c-178645
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -147,4 +145,4 @@ Pasak Kojelavičiaus, 1401 m. Lietuvos luomai viešu dokumentu paliudijo Lietuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196353
+    - t-002

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20530"></a>
 - t-001
-  global_id: t-20530
   teiginys: "1944 m. pradžioje vokiečių valdžia pritarė lietuvių siūlymui sukurti Vietinę rinktinę, veikiančią tik Lietuvos teritorijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,12 +84,11 @@ Nenurodyta
     kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritori-
     joje. Vietinei rinktinei ėmėsi vadovauti generolas Povilas Plechavičius. Į jo
     kvietimą atsiliepė 20 tūkst. savanorių, į dalinius priimta 10 tūkst. vyrų.
-  citata_rodoma: |
-    joje. Vietinei rinktinei ėmėsi vadovauti generolas Povilas Plechavičius. Į jo
+  citata_rodoma: "joje. Vietinei rinktinei ėmėsi vadovauti generolas Povilas Plechavičius. Į jo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20530
+    - t-001

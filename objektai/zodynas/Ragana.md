@@ -31,7 +31,6 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
 
 <a id="claim-t-189246"></a>
 - t-002
-  global_id: t-189246
   teiginys: "Narbutas rašo, kad šiaurės Lietuvos ir Latvijos kaimiečiai raganomis vadino kerėtojas, galinčias virsti katėmis bei šarkomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172134
-    - c-002
 - susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-190730|Johanas Foigtas]]: Ponas Foigtas Berlyno rankraštyje rado vietovardį Raganita, o Narbutas jį laikė tikriausiu Ragainės pavadinimu dėl ryšio su vardu Ragana.
 - susijęs iš [[objektai/grupes/Raganos.md#claim-t-189499|Raganos]]: Narbutas rašo, kad prietaringi Šiaurės Lietuvos ir Latvijos kaimiečiai raganomis vadino kerėtojas, galinčias virsti katėmis ar šarkomis ir skraidyti ant ožio.
 - susijęs iš J. Lasickio veikalas apie žemaičių dievus: Narbutas nurodo, kad Lasickis ir liaudies padavimai Raganomis vadino deives, globojusias tam tikrus medžius.
@@ -74,10 +72,9 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
     masi padalyti viską, kad jis būtų sveikas ir augtų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-002
   santrauka: 'Narbutas rašo, kad šiaurės Lietuvos ir Latvijos kaimiečiai raganomis vadino kerėtojas, galinčias virsti katėmis bei šarkomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -91,11 +88,10 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
     ir kankinanti jį savo pentinais, todėl tas bliaunąs.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189246
+  statusas: verified
+
 ## Citatos
 
 - id: c-172134
@@ -115,18 +111,11 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
     ir jau Vytautui viešpataujant Lietuvoje, ji sugrįžo atgal į Pa­
     langą ir ten, laikydamasi savo senojo tikėjimo, 1416 metais
     užbaigė gyvenimą.
-  citata_rodoma: |
-    Šios deivės yra tikra antikinių hamadriadžių kopija.
-    Prietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,
-    dabar raganomis vadina tam tikras kerėtojas, galinčias pasi­
-    versti katėmis bei šarkomis ir skraidančias raitomis ant ožio.
-    Pavasarį perkūno oželis, aukštai iškildamas į orą, mekena ožio
-    balsu, tad valstiečiai sako, kad ragana skrendanti raita ant ožio
-    ir kankinanti jį savo pentinais, todėl tas bliaunąs.
+  citata_rodoma: "Šios deivės yra tikra antikinių hamadriadžių kopija.\nPrietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,\ndabar raganomis vadina tam tikras kerėtojas, galinčias pasi­\nversti katėmis bei šarkomis ir skraidančias raitomis ant ožio.\nPavasarį perkūno oželis, aukštai iškildamas į orą, mekena ožio\nbalsu, tad valstiečiai sako, kad ragana skrendanti raita ant ožio\nir kankinanti jį savo pentinais, todėl tas bliaunąs."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189246
+    - t-002

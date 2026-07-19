@@ -39,8 +39,7 @@ Vartojamos formos: `ūkės vilkėjomis`.
 ## Teiginiai
 
 <a id="claim-t-07652"></a>
-- t-001
-  global_id: t-07652
+- t-004
   teiginys: "Ūkės vilkėja siejama su didžios gaspadinės vardu ir tokiais darbais kaip sėjimas, arimas, šieno pjovimas bei javų valymas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -49,10 +48,9 @@ Vartojamos formos: `ūkės vilkėjomis`.
     - c-09585
 
 <a id="claim-t-07653"></a>
-- t-002
-  global_id: t-07653
+- t-003
   teiginys: "Ūkės vilkėjomis vadintos merginos ar moterys, siejamos su gaspadinės vardu, lauko darbais ir rūtos auginimu."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
@@ -67,28 +65,27 @@ Vartojamos formos: `ūkės vilkėjomis`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Mažosios savo rūtas augino, ravėdamos ir visaip jas gerbdamos, idant ir jos būt jau vadinamos ūkės vilkėjomis.
-  citata_rodoma: |
-    Mažosios savo rūtas augino, ravėdamos ir visaip jas gerbdamos, idant ir jos būt jau vadinamos ūkės vilkėjomis.
+  citata_rodoma: "Mažosios savo rūtas augino, ravėdamos ir visaip jas gerbdamos, idant ir jos būt jau vadinamos ūkės vilkėjomis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07653
+    - t-003
+
 - id: c-09585
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     bus didi gaspadinė^402 ir ūkės vilkėja. Kitos sėjo, arė, šieną pjovė ir javus nuo lauko valijo.
-  citata_rodoma: |
-    bus didi gaspadinė^402 ir ūkės vilkėja. Kitos sėjo, arė, šieną pjovė ir javus nuo lauko valijo.
+  citata_rodoma: "bus didi gaspadinė^402 ir ūkės vilkėja. Kitos sėjo, arė, šieną pjovė ir javus nuo lauko valijo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07652
-    - t-07653
+    - t-004
+    - t-003

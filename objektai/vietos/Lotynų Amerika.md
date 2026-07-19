@@ -32,7 +32,6 @@ Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicij
 
 <a id="claim-t-21583"></a>
 - t-001
-  global_id: t-21583
   teiginys: "Iš Lotynų Amerikos plukdomas auksas prisidėjo prie Ispanijos ir Portugalijos lyderystės praradimo, nes neskatino plėtoti jų miestų ir ekonomikos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,12 +61,11 @@ Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicij
     ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų
     Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekono-
     mikos.
-  citata_rodoma: |
-    ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų
+  citata_rodoma: "ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21583
+    - t-001

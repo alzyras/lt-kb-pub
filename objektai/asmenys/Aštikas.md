@@ -40,7 +40,6 @@ Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny
 
 <a id="claim-t-87629"></a>
 - t-001
-  global_id: t-87629
   teiginys: "1434 m. rugsėjo 8 d. Trakuose Vilniaus kaštelionas Aštikas buvo tarp akto patvirtinimui pritarusių asmenų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,26 +88,11 @@ Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny
     ir t. t. Panašiai 1436 m. tas pats Žy­
     gimantas Vilniaus kapitulai padova­
     nojo Vainelgų dvarą.
-  citata_rodoma: |
-    [Aktuota ir duota Tra­
-    kuose, Viešpaties metais 1434, ket­
-    virtadienį, per Švč. Garbingosios
-    Mergelės Marijos gimimo dieną
-    (rugsėjo 8), dalyvaujant Jo Dideny­
-    bei ir pritariantiems: Vilniaus kašte­
-    lionui Aštikui, Vilniaus vaivadai
-    Daugirdui, Trakų vaivadai Le-
-    liušiul, Kęsgailai iš Deltuvos, Petraš­
-    kai Montgirdaičiui, Chodkai Jurge-
-    ovičiui, Ivaškai Goštautaičiui,
-    Olechnai Davainaičiui ir kilminga­
-    jam mūsų rūmų raštininkui, kuriam
-    dabartinis reikalas buvo patikėtas"
-    ir t. t.
+  citata_rodoma: "[Aktuota ir duota Tra­\nkuose, Viešpaties metais 1434, ket­\nvirtadienį, per Švč. Garbingosios \nMergelės Marijos gimimo dieną \n(rugsėjo 8), dalyvaujant Jo Dideny­\nbei ir pritariantiems: Vilniaus kašte­\nlionui Aštikui, Vilniaus vaivadai \nDaugirdui, Trakų vaivadai Le- \nliušiul, Kęsgailai iš Deltuvos, Petraš­\nkai Montgirdaičiui, Chodkai Jurge- \novičiui, Ivaškai Goštautaičiui, \nOlechnai Davainaičiui ir kilminga­\njam mūsų rūmų raštininkui, kuriam \ndabartinis reikalas buvo patikėtas\" \nir t. t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87629
+    - t-001

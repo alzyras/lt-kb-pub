@@ -30,7 +30,6 @@ Dusburgietis teigia, kad iki Persantės vakaruose žalvario amžiuje buvo paplit
 
 <a id="claim-t-91964"></a>
 - t-001
-  global_id: t-91964
   teiginys: "Lietuvos archeologijos bruožuose nurodoma, kad žalvario amžiuje iki Persantės vakaruose buvo paplitę baltų kultūrinei sričiai būdingi gyvatgalviai kapliai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Dusburgietis teigia, kad iki Persantės vakaruose žalvario amžiuje buvo paplit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91964
+    - t-001

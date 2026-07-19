@@ -35,22 +35,6 @@ media_all_json: |-
 
 Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams. Gotthardo Friedricho Stenderio „Lettische Grammatik“ buvo išleista Braunšveige 1761 metais.
 
-## Teiginiai
-
-<a id="claim-t-191625"></a>
-- t-002
-  global_id: t-191625
-  teiginys: "Gotthardo Friedricho Stenderio „Lettische Grammatik“ buvo išleista Braunšveige 1761 metais."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174507
-    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.'
@@ -78,10 +62,9 @@ Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo t
     toriais“2.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-002
   santrauka: 'Gotthardo Friedricho Stenderio „Lettische Grammatik“ buvo išleista Braunšveige 1761 metais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -98,11 +81,10 @@ Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo t
     sequ.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191625
+  statusas: verified
+
 ## Citatos
 
 - id: c-174507
@@ -119,21 +101,26 @@ Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo t
     buvo panašūs nei išvaizda, nei papročiais ir kalba, sky­
     rėsi nuo tikrų poloviečių, kurie negalėjo kitaip užklysti į
     tas šalis, o nebent tik taip, kaip mes jau minėjome.
-  citata_rodoma: |
-    Mongolų karvedžiai skubėjo
-    užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­
-    lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­
-    1 Stender Gotthard Friedrich. Lettische Grammatik etc. Braun­
-    schweig,
-    1761.
-    8-vo.
-    S.
-    1,
-    sequ.
+  citata_rodoma: "Mongolų karvedžiai skubėjo\nužimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­\nlydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­\n1 Stender Gotthard Friedrich. Lettische Grammatik etc. Braun­\nschweig,\n1761.\n8-vo.\nS.\n1,\nsequ."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191625
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-191625"></a>
+- t-002
+  teiginys: "Gotthardo Friedricho Stenderio „Lettische Grammatik“ buvo išleista Braunšveige 1761 metais."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-174507

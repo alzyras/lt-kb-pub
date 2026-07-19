@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-83565"></a>
 - t-001
-  global_id: t-83565
   teiginys: "1919 m. 7-asis pulkas atsitraukęs užėmė 1,5 km gynybos ruožą palei Širvintos ir Kertušos upes nuo Levainių iki Kačiniškių dvaro."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-79862
 
 <a id="claim-t-83566"></a>
-- t-002
-  global_id: t-83566
+- t-003
   teiginys: "Pabaisko parapijos ribos ėjo nuo Širvintos iki Šventosios ir buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ media_all_json: |-
     - c-79860
 
 <a id="claim-t-83567"></a>
-- t-003
-  global_id: t-83567
+- t-002
   teiginys: "Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,29 +120,16 @@ media_all_json: |-
     ją; ir šiose ribose jokia kita parapijinė bažnyčia neturi būti
     pastatyta ir veikti, kad nepadarytų nuostolio ir skriaudos
     minėtai Pabaisko bažnyčiai.
-  citata_rodoma: |
-    Tai­
-    gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­
-    sų protėviai bažnyčią aprūpino, remdamiesi tikrais ir
-    priesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­
-    rų sužinojome, dabartiniam bažnyčios klebonui, minėtam
-    Valentinui iš Pilzno, naująją privilegiją amžiams suteikti nu­
-    sprendėme ir suteikiame. Pirmiausia norime, kad minėta
-    Pabaisko parapija turėtų buvusias ribas, kurios eina nuo
-    Širvintos upės iki pat Šventosios ir yra juosiamos Kertušos
-    upės, tekančios per Šešuolės mišką iki Šesarkos upės, kur
-    prieš Skočiūnų dvarą upė Šešulka [Šešuolėlė] įteka į Šventą­
-    ją; ir šiose ribose jokia kita parapijinė bažnyčia neturi būti
-    pastatyta ir veikti, kad nepadarytų nuostolio ir skriaudos
-    minėtai Pabaisko bažnyčiai.
+  citata_rodoma: "Tai­\ngi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­\nsų protėviai bažnyčią aprūpino, remdamiesi tikrais ir \npriesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­\nrų sužinojome, dabartiniam bažnyčios klebonui, minėtam \nValentinui iš Pilzno, naująją privilegiją amžiams suteikti nu­\nsprendėme ir suteikiame. Pirmiausia norime, kad minėta \nPabaisko parapija turėtų buvusias ribas, kurios eina nuo \nŠirvintos upės iki pat Šventosios ir yra juosiamos Kertušos \nupės, tekančios per Šešuolės mišką iki Šesarkos upės, kur \nprieš Skočiūnų dvarą upė Šešulka [Šešuolėlė] įteka į Šventą­\nją; ir šiose ribose jokia kita parapijinė bažnyčia neturi būti \npastatyta ir veikti, kad nepadarytų nuostolio ir skriaudos \nminėtai Pabaisko bažnyčiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83566
-    - t-83567
+    - t-003
+    - t-002
+
 - id: c-79862
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -164,4 +148,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83565
+    - t-001

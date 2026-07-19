@@ -38,8 +38,7 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 ## Teiginiai
 
 <a id="claim-t-76812"></a>
-- t-001
-  global_id: t-76812
+- t-003
   teiginys: "Didžiojo Vilniaus Seimo rezoliucijoje Lietuvos autonomijos teritorijai priskirta ir Užnemunė, arba Suvalkija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     - c-74324
 
 <a id="claim-t-76813"></a>
-- t-002
-  global_id: t-76813
+- t-004
   teiginys: "Svarstant Lenkijos autonomiją Valstybės Dūmoje, lietuvių veikėjai siūlė nuo karalystės atskirti Lietuvos Užnemunę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     - c-74327
 
 <a id="claim-t-76814"></a>
-- t-003
-  global_id: t-76814
+- t-002
   teiginys: "Praėjus 20 metų po 1863 m. sukilimo, etninių lietuvių tautinį sąjūdį atnaujino inteligentai, kilę daugiausia iš Užnemunės krašto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     - c-74323
 
 <a id="claim-t-76815"></a>
-- t-004
-  global_id: t-76815
+- t-005
   teiginys: "Po 1863 m. sukilimo etninių lietuvių tautinį sąjūdį atnaujino inteligentai, daugiausia kilę iš Užnemunės krašto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,8 +111,7 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     - c-74323
 
 <a id="claim-t-76816"></a>
-- t-005
-  global_id: t-76816
+- t-006
   teiginys: "Didžiojo Vilniaus seimo rezoliucijoje autonomijos teritorija apibrėžta kaip etnografinės lietuvių žemės, įskaitant Užnemunę arba Suvalkiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,8 +127,7 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     - c-74325
 
 <a id="claim-t-76817"></a>
-- t-006
-  global_id: t-76817
+- t-001
   teiginys: "Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -168,17 +162,15 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
     tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-
     kėjo iš vadovėlių, parašytų kirilika).
-  citata_rodoma: |
-    Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
-    tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-
-    kėjo iš vadovėlių, parašytų kirilika).
+  citata_rodoma: "Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-\ntuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-\nkėjo iš vadovėlių, parašytų kirilika)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76817
+    - t-001
+
 - id: c-74323
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -189,20 +181,16 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     tautinis sąjūdis prasidėjo iš naujo. Jį atnaujino pobaudžiavinė inteligentų
     karta, Rusijos aukštųjų mokyklų auklėtiniai, kilę daugiausia iš Užnemu-
     nės krašto.
-  citata_rodoma: |
-    “
-    Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių
-    tautinis sąjūdis prasidėjo iš naujo. Jį atnaujino pobaudžiavinė inteligentų
-    karta, Rusijos aukštųjų mokyklų auklėtiniai, kilę daugiausia iš Užnemu-
-    nės krašto.
+  citata_rodoma: "“ \nPraėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių \ntautinis sąjūdis prasidėjo iš naujo. Jį atnaujino pobaudžiavinė inteligentų \nkarta, Rusijos aukštųjų mokyklų auklėtiniai, kilę daugiausia iš Užnemu-\nnės krašto."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76814
-    - t-76815
+    - t-002
+    - t-005
+
 - id: c-74324
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -214,15 +202,15 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     kamą Seimą Vilniuje. Teritorija, kurioje ši autonomija veiktų, apibrėžta
     kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
     sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
-  citata_rodoma: |
-    sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
+  citata_rodoma: "sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76812
+    - t-003
+
 - id: c-74325
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -242,7 +230,8 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76816
+    - t-006
+
 - id: c-74327
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -255,15 +244,15 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     jai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviš-
     kąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama
     Suvalkija (mat didžioji jos dalis priklausė Suvalkų gubernijai).
-  citata_rodoma: |
-    kąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama
+  citata_rodoma: "kąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76813
+    - t-004
+
 - id: c-167008
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -282,6 +271,8 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Lietuvos Užnemunė priklausė [[objektai/vietos/Augustavo gubernija]], [[objektai/vietos/Suvalkų gubernija]]

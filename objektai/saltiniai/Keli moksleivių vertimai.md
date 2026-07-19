@@ -36,7 +36,6 @@ KELI MOKSLEIVIU VERTIMAI. „Šie moksleivau vertimai (rašo pats Rygiškiu Jona
 
 <a id="claim-t-36058"></a>
 - t-001
-  global_id: t-36058
   teiginys: "„Keli moksleivių vertimai“ buvo Rygiškių Jono redaguotas mokyklinis rašto darbų rinkinėlis įvairiomis temomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,15 +56,11 @@ KELI MOKSLEIVIU VERTIMAI. „Šie moksleivau vertimai (rašo pats Rygiškiu Jona
     įvairiomis temomis.
     „Šie moksleivau vertimai (rašo pats Rygiškiu Jonas) yra su­
     daryti iš Aleks.
-  citata_rodoma: |
-    Tai Rygiškiu Jono redaguotas mokyklinis rašto darbu rinkinėlis
-    įvairiomis temomis.
-    „Šie moksleivau vertimai (rašo pats Rygiškiu Jonas) yra su­
-    daryti iš Aleks.
+  citata_rodoma: "Tai Rygiškiu Jono redaguotas mokyklinis rašto darbu rinkinėlis\nįvairiomis temomis.\n„Šie moksleivau vertimai (rašo pats Rygiškiu Jonas) yra su­\ndaryti iš Aleks."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36058
+    - t-001

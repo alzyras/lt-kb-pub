@@ -26,22 +26,6 @@ media_all_json: |-
 
 Visa tai lėmė, jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis 1 Ennodius.
 
-## Teiginiai
-
-<a id="claim-t-194876"></a>
-- t-001
-  global_id: t-194876
-  teiginys: "Visa tai lėmė, jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis 1 Ennodius."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-177272
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Visa tai lėmė, jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis 1 Ennodius.'
@@ -55,8 +39,7 @@ Visa tai lėmė, jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis 1 Enno
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194876
+
 ## Citatos
 
 - id: c-177272
@@ -64,17 +47,29 @@ Visa tai lėmė, jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis 1 Enno
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Visa tai lėmė,
-    jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis
-    1 Ennodius. In lib. dicto Theodorici reg. P. 298.
-  citata_rodoma: |
-    Visa tai lėmė,
-    jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis
-    1 Ennodius. In lib. dicto Theodorici reg. P. 298.
+    teiktųsi išvaduoti juos iš barbarų. Tuo pat metu ir Fre­
+    derikas Teodoriko rūmuose nesiliovė prašęs pagalbos prie­
+    šams beriliams nugalėti.
+  citata_rodoma: "Visa tai lėmė,\njog romėnai slapta nuvyko pas Zenoną prašyli, kad jis\n1 Ennodius. In lib. dicto Theodorici reg. P. 298."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194876
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-194876"></a>
+- t-001
+  teiginys: "Visa tai lėmė, jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis 1 Ennodius."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-177272

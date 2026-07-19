@@ -31,7 +31,6 @@ Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, �
 
 <a id="claim-t-189040"></a>
 - t-001
-  global_id: t-189040
   teiginys: "Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, šiauriniame Paukščių tako gale."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, �
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171929
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, šiauriniame Paukščių tako gale.'
@@ -69,8 +68,7 @@ Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189040
+
 ## Citatos
 
 - id: c-171929
@@ -92,20 +90,11 @@ Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, �
     turi savo tikėjimo šalininkų; per tai susidarė padėtis, kad Lie­
     tuvoje mažai liko Rytų atskalos bažnyčių, neapkrėstų jų pa­
     klydimais.
-  citata_rodoma: |
-    Betgi apie ją neturime smulkesnių žinių nei
-    nežinome, kokią ją senovės lietuviai įsivaizdavo. Lieka tik
-    spėlioti iš įvairių padavimų, pateiktų čia įvairiuose straips­
-    niuose, kad jie įsivaizdavo kažkokį rojų ir peklą. Rojuje mi­
-    rusiųjų vėlės gyvendavo dievų namuose, kurie yra danguje,
-    šiauriniame Paukščių tako gale; puotaudavo kartu su jais,
-    gerdavo su jais alų, mėgaudavosi malonumais, o vokiečiai,
-    jų tėvynės priešai, būdavo jų valdiniai, ir buvo jie laisvi nuo
-    lenkų ir rusinu priespaudos.
+  citata_rodoma: "Betgi apie ją neturime smulkesnių žinių nei\nnežinome, kokią ją senovės lietuviai įsivaizdavo. Lieka tik\nspėlioti iš įvairių padavimų, pateiktų čia įvairiuose straips­\nniuose, kad jie įsivaizdavo kažkokį rojų ir peklą. Rojuje mi­\nrusiųjų vėlės gyvendavo dievų namuose, kurie yra danguje,\nšiauriniame Paukščių tako gale; puotaudavo kartu su jais,\ngerdavo su jais alų, mėgaudavosi malonumais, o vokiečiai,\njų tėvynės priešai, būdavo jų valdiniai, ir buvo jie laisvi nuo\nlenkų ir rusinu priespaudos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189040
+    - t-001

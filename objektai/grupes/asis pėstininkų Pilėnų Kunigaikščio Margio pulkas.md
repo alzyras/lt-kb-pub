@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-80639"></a>
 - t-001
-  global_id: t-80639
   teiginys: "Perkeltas į lenkų frontą 6-asis pėstininkų pulkas Vidugirių kaime susitiko su nuo vasaros vidurio kovojusiu savo I batalionu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ media_all_json: |-
 
 <a id="claim-t-80640"></a>
 - t-002
-  global_id: t-80640
   teiginys: "Ankstyvą popietę batalionas Aukštadvaryje išsirikiavo prieš 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko štabą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80639
+    - t-001
+
 - id: c-77339
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -100,4 +99,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80640
+    - t-002

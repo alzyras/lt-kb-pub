@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201304"></a>
 - t-001
-  global_id: t-201304
   teiginys: "Paskesniai rašo, jog S vendas, saulėlydinių žuvėdų (danų) viešpats, norėdamas Žemaičių jūroj pa ką jų įgyti, metuose 1048 perkalbėjęs vieną žuvėdų prekiotoją, idant jis toj vietoj, kurioj žiemavodavęs •Žemaičių pajūryj, koplyčią įkurtų ir tenai kunigą."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184654
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskesniai rašo, jog S vendas, saulėlydinių žu-
     vėdų (danų) viešpats, norėdamas Žemaičių jūroj pa­
@@ -87,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201304
+    - t-001

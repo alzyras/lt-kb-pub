@@ -31,7 +31,6 @@ Pirmasis didelis mūšis įvyko birželio 11 d. prie Miro.
 
 <a id="claim-t-41934"></a>
 - t-001
-  global_id: t-41934
   teiginys: "Birželio 11 d. prie Miro įvyko didelis mūšis, kuriame Lietuvos kariuomenė patyrė nesėkmę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,15 +68,11 @@ Pirmasis didelis mūšis įvyko birželio 11 d. prie Miro.
     trauktis visu frontu, liepos
     4 d. LDK kariuomenė patyrė an-
     trąjį pralaimėjimą prie Zelvos.
-  citata_rodoma: |
-    Pirmasis didelis mūšis įvyko bir-
-    želio 11 d. prie Miro. Čia Lietuvos
-    kariuomenė patyrė pirmąją nesė-
-    kmę.
+  citata_rodoma: "Pirmasis didelis mūšis įvyko bir-\nželio 11 d. prie Miro. Čia Lietuvos\nkariuomenė patyrė pirmąją nesė-\nkmę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41934
+    - t-001

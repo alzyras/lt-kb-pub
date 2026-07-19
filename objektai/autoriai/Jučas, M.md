@@ -39,7 +39,6 @@ Jučas, M.
 
 <a id="claim-t-30718"></a>
 - t-001
-  global_id: t-30718
   teiginys: "M. Jučas parašė 1959 m. Vilniuje išleistą darbą „Žalgirio mūšis“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,16 +69,11 @@ Jučas, M.
     Grunwald) 15 July 1410,_ Chicago 1961. — Koehler, G. : _Die Ent­
     wicklung des Kriegswesens und der Kriegsführung in der Ritterzeit,_ II,
     Breslau 1886.
-  citata_rodoma: |
-    — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio
-    mūšis,_ rinkiny : LKaKr, 1964. — Jurgėla, C. R. : _Tannenberg_ ( _Eglija-
-    Grunwald) 15 July 1410,_ Chicago 1961. — Koehler, G. : _Die Ent­
-    wicklung des Kriegswesens und der Kriegsführung in der Ritterzeit,_ II,
-    Breslau 1886.
+  citata_rodoma: "— Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio\nmūšis,_ rinkiny : LKaKr, 1964. — Jurgėla, C. R. : _Tannenberg_ ( _Eglija-\nGrunwald) 15 July 1410,_ Chicago 1961. — Koehler, G. : _Die Ent­\nwicklung des Kriegswesens und der Kriegsführung in der Ritterzeit,_ II,\nBreslau 1886."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30718
+    - t-001

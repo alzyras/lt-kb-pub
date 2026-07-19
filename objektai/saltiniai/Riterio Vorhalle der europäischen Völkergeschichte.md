@@ -26,22 +26,6 @@ media_all_json: |-
 
 IV, Pagal pono Riterio dėstymą ir paaiškinimus (Vorhalle der europäischer Völkergesch.
 
-## Teiginiai
-
-<a id="claim-t-194899"></a>
-- t-001
-  global_id: t-194899
-  teiginys: "IV, Pagal pono Riterio dėstymą ir paaiškinimus (Vorhalle der europäischer Völkergesch."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-177295
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'IV, Pagal pono Riterio dėstymą ir paaiškinimus (Vorhalle der europäischer Völkergesch.'
@@ -54,8 +38,7 @@ IV, Pagal pono Riterio dėstymą ir paaiškinimus (Vorhalle der europäischer V�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194899
+
 ## Citatos
 
 - id: c-177295
@@ -72,13 +55,26 @@ IV, Pagal pono Riterio dėstymą ir paaiškinimus (Vorhalle der europäischer V�
     produktą nuo masagetų ir tisagetų gyvavimo laikų vi­
     suomet labai vertino ir dabar tebevertina šiaurės rytų
     gyventojai.
-  citata_rodoma: |
-    3 Herodot. Lib. IV, Pagal pono Riterio dėstymą ir paaiškinimus
-    (Vorhalle der europäischer Völkergesch.
+  citata_rodoma: "3 Herodot. Lib. IV, Pagal pono Riterio dėstymą ir paaiškinimus\n(Vorhalle der europäischer Völkergesch."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194899
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-194899"></a>
+- t-001
+  teiginys: "IV, Pagal pono Riterio dėstymą ir paaiškinimus (Vorhalle der europäischer Völkergesch."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-177295

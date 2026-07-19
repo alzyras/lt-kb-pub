@@ -3,20 +3,17 @@ tipas: autorius
 pavadinimas: 'P. Tarasenka'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1929 m.'
-  - '1973 m.'
-date_start: '1929'
-date_end: '1973'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - karys
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'modernioji Lietuva'
+amziai: []
+periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,9 +37,8 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
 
 <a id="claim-t-71551"></a>
 - t-001
-  global_id: t-71551
   teiginys: "P. Tarasenka 1929 m. Kaune išleido veikalą „Lietuvos archeologijos medžiaga“."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -58,6 +54,18 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
   pagrindžia:
     - c-70102
     - c-70106
+
+<a id="claim-t-201498"></a>
+- t-002
+  teiginys: "Vytauto privilegijos Kaunui publikacija); Tarasenka Petras."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184845
 - susijęs iš [[objektai/autoriai/Tarasenka P.md#claim-t-64858|Tarasenka P]]: P. Tarasenka cituojamas kaip šaltinis apie žmonių stebuklingu laikytą akmenį prie Vištyčio miestelio.
 ## Citatos
 
@@ -78,15 +86,15 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
     mybos raida Lietuvoje_ , Lietuvos istorijos metraštis 1973 m. (1974), 5-20 p.
     **—** Švoba, J.: _Aisčiai ir Baltijos pajūrys,_ Karys, 1970, 193-200 p. —
     Tarasenka, P. : _Lietuvos archeologijos medžiaga,_ Kaunas 1929.
-  citata_rodoma: |
-    Tarasenka, P. : _Lietuvos archeologijos medžiaga,_ Kaunas 1929.
+  citata_rodoma: "Tarasenka, P. : _Lietuvos archeologijos medžiaga,_ Kaunas 1929."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71551
+    - t-001
+
 - id: c-70106
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -99,13 +107,26 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
     **—** Švoba, J.: _Aisčiai ir Baltijos pajūrys,_ Karys, 1970, 193-200 p. —
     Tarasenka, P. : _Lietuvos archeologijos medžiaga,_ Kaunas 1929. — (”)
     _Lietuvos piliakalniai,_ Vilnius 1956.
-  citata_rodoma: |
-    (”)
-    _Lietuvos piliakalniai,_ Vilnius 1956.
+  citata_rodoma: "(”)\n_Lietuvos piliakalniai,_ Vilnius 1956."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71551
+    - t-001
+
+- id: c-184845
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Vytauto privilegijos Kaunui publikacija); Tarasenka Petras. Kauno
+    pilies gynimas 1362 m. Kraštotyra, Vilnius, 1963, p. 98-105; Vytautas Didysis.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

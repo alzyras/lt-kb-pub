@@ -46,8 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09597"></a>
-- t-001
-  global_id: t-09597
+- t-005
   teiginys: "Sodybų šeimininkai stebėdavo aplinką ir pranešdavo partizanams apie pavojų."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -56,8 +55,7 @@ Nenurodyta
     - c-12349
 
 <a id="claim-t-09598"></a>
-- t-002
-  global_id: t-09598
+- t-004
   teiginys: "Sodybų šeimininkai aprūpindavo partizanus maistu ir kitomis būtinomis priemonėmis."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -66,8 +64,7 @@ Nenurodyta
     - c-12349
 
 <a id="claim-t-09599"></a>
-- t-003
-  global_id: t-09599
+- t-006
   teiginys: "Demaskavus slėptuvę nukentėdavo ir sodybos šeimininkai: sodyba dažnai būdavo sudeginama, o gyvi likę šeimininkai ištremiami."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -90,18 +87,13 @@ Nenurodyta
     partizanams apie pavojų, tačiau slėptuvę demaskavus nukentėdavo ne tik partizanai, bet
     ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
     jei likdavo gyvi, ištremiami.
-  citata_rodoma: |
-    Sodybos šeimininkai aprūpindavo
-    partizanus maistu ir kitomis būtinomis priemonėmis, jie stebėdavo aplinką ir pranešdavo
-    partizanams apie pavojų, tačiau slėptuvę demaskavus nukentėdavo ne tik partizanai, bet
-    ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
-    jei likdavo gyvi, ištremiami.
+  citata_rodoma: "Sodybos šeimininkai aprūpindavo\npartizanus maistu ir kitomis būtinomis priemonėmis, jie stebėdavo aplinką ir pranešdavo\npartizanams apie pavojų, tačiau slėptuvę demaskavus nukentėdavo ne tik partizanai, bet\nir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,\njei likdavo gyvi, ištremiami."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09597
-    - t-09598
-    - t-09599
+    - t-005
+    - t-004
+    - t-006

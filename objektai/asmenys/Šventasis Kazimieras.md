@@ -40,7 +40,6 @@ Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo geru
 
 <a id="claim-t-87899"></a>
 - t-001
-  global_id: t-87899
   teiginys: "Karalaitis Kazimieras mirė nuo džiovos Vilniaus Žemutinėje pilyje 1484 m. kovo 4 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo geru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87899
+    - t-001

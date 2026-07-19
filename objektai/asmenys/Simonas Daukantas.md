@@ -43,8 +43,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 ## Teiginiai
 
 <a id="claim-t-105707"></a>
-- t-001
-  global_id: t-105707
+- t-003
   teiginys: "Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - c-21971
 
 <a id="claim-t-105708"></a>
-- t-002
-  global_id: t-105708
+- t-004
   teiginys: "Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - c-98418
 
 <a id="claim-t-105709"></a>
-- t-003
-  global_id: t-105709
+- t-005
   teiginys: "P. Malevskis buvo tiesioginis istoriko Simono Daukanto viršininkas Lietuvos Metrikos padalinyje prie Senato Trečiojo departamento."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - c-98412
 
 <a id="claim-t-105710"></a>
-- t-004
-  global_id: t-105710
+- t-002
   teiginys: "Simonas Daukantas įkalbino Motiejų Valančių rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,8 +113,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - c-98416
 
 <a id="claim-t-105711"></a>
-- t-005
-  global_id: t-105711
+- t-006
   teiginys: "Simonas Daukantas domėjosi M. Balinskio publikacijomis apie kultūrinį sąjūdį Žemaitijoje ir kitus kultūros klausimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,8 +129,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - c-98413
 
 <a id="claim-t-105712"></a>
-- t-006
-  global_id: t-105712
+- t-008
   teiginys: "Simono Daukanto tiesioginis viršininkas buvo Lietuvos Metrikos padalinio vadovas Pranciškus Malevskis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -151,8 +145,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - c-98412
 
 <a id="claim-t-105713"></a>
-- t-007
-  global_id: t-105713
+- t-001
   teiginys: "Simoną Daukantą įkvėpė suvokimas, kad tautos ateičiai būtina tautos atmintis, todėl jis raštu įamžino Lietuvos praeitį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -171,8 +164,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - c-98414
 
 <a id="claim-t-188607"></a>
-- t-008
-  global_id: t-188607
+- t-007
   teiginys: "Manoma, kad Simonas Daukantas tuo metu jau buvo parašęs „Darbus senųjų lietuvių ir žemaičių“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -189,12 +181,11 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171496
-    - c-007
+
 <a id="claim-t-188608"></a>
 - t-009
-  global_id: t-188608
   teiginys: "Savo „Darbų“ pratarmėje Simonas Daukantas rašė: „<...> aš ne dėl mokytų vyrų ir galvočių, bet dėl tų motinų rašiau“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -203,10 +194,9 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171497
-    - c-008
+
 <a id="claim-t-193630"></a>
 - t-010
-  global_id: t-193630
   teiginys: "Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -263,8 +253,6 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188607
 - c-008
   santrauka: 'Savo „Darbų“ pratarmėje Simonas Daukantas rašė: „<...> aš ne dėl mokytų vyrų ir galvočių, bet dėl tų motinų rašiau“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -279,8 +267,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188608
+
 ## Citatos
 
 - id: c-21971
@@ -295,18 +282,15 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
     praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
     europietiškos katalikiškos civilizacijos šalininkas.
-  citata_rodoma: |
-    Romantikas S. Daukantas savo
-    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
-    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
-    europietiškos katalikiškos civilizacijos šalininkas.
+  citata_rodoma: "Romantikas S. Daukantas savo \nveikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius – \npraktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo \neuropietiškos katalikiškos civilizacijos šalininkas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-105707
+    - t-003
+
 - id: c-98412
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -321,19 +305,16 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     skis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­
     partamento vadovas ir tiesioginis istoriko S. Daukanto viršinin­
     kas.
-  citata_rodoma: |
-    P. Malev-
-    skis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­
-    partamento vadovas ir tiesioginis istoriko S. Daukanto viršinin­
-    kas.
+  citata_rodoma: "P. Malev- \nskis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­\npartamento vadovas ir tiesioginis istoriko S. Daukanto viršinin­\nkas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-105709
-    - t-105712
+    - t-005
+    - t-008
+
 - id: c-98413
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -347,15 +328,15 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
     Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio.
-  citata_rodoma: |
-    Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio.
+  citata_rodoma: "Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-105711
+    - t-006
+
 - id: c-98414
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -369,19 +350,15 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
     Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūži-
     niais valstybės raidos etapais ir išskirtinėmis progomis.
-  citata_rodoma: |
-    “
-    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
-    Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
-    Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūži-
-    niais valstybės raidos etapais ir išskirtinėmis progomis.
+  citata_rodoma: "“ \nBūtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną \nMačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.\nApibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūži-\nniais valstybės raidos etapais ir išskirtinėmis progomis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-105713
+    - t-001
+
 - id: c-98416
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -393,18 +370,15 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus
     Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-
     riją lietuviškai. 1848 m.
-  citata_rodoma: |
-    Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–
-    1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus
-    Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-
-    riją lietuviškai. 1848 m.
+  citata_rodoma: "Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–\n1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus \nKatalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-\nriją lietuviškai. 1848 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-105710
+    - t-002
+
 - id: c-98418
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -419,20 +393,15 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     ieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo
     formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
     mą.
-  citata_rodoma: |
-    Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
-    čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
-    tautos istoriją. Ilgas paruošiamasis darbas - istorinių šaltinių pa­
-    ieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo
-    formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
-    mą.
+  citata_rodoma: "Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­\nčių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių\ntautos istoriją. Ilgas paruošiamasis darbas - istorinių šaltinių pa­\nieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo\nformos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­\nmą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-105708
+    - t-004
+
 - id: c-171496
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -448,20 +417,15 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
     poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
     timi.
-  citata_rodoma: |
-    Manoma, kad tuo metu jau buvo parašyti
-    S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
-    buvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo
-    persirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­
-    rytum pastangų parašyti lietuvių tautos istoriją iki pat 1829
-    metų ir nebuvo.
+  citata_rodoma: "Manoma, kad tuo metu jau buvo parašyti\nS. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai\nbuvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo\npersirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­\nrytum pastangų parašyti lietuvių tautos istoriją iki pat 1829\nmetų ir nebuvo."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188607
+    - t-007
+
 - id: c-171497
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -477,19 +441,15 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     timi. Ir vis dėlto šis straipsnis rodo bendrą lygį, bendrą nuotai­
     ką, gimstantį norą rašyti patiems, t. y. tokiu būdu išvengti klai­
     dų, kurias sąmoningai ar nesąmoningai darė kiti.
-  citata_rodoma: |
-    Galbūt geriausiai šį faktą paaiškintų paties
-    S. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­
-    kytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba
-    savo vaikams darbus jų bočių prabočių papasakoti, o be raštų
-    daug kartų apsirinka“12.
+  citata_rodoma: "Galbūt geriausiai šį faktą paaiškintų paties\nS. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­\nkytų vyrų ir galvočių, bet dėl tų motinų rašiau, kurios geba\nsavo vaikams darbus jų bočių prabočių papasakoti, o be raštų\ndaug kartų apsirinka“12."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188608
+    - t-009
+
 - id: c-176301
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -510,4 +470,4 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193630
+    - t-010

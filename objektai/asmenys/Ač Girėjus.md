@@ -31,7 +31,6 @@ Krymo skitai po senojo valdovo mirties paprašė Kazimiero duoti jiems valdovu A
 
 <a id="claim-t-186035"></a>
 - t-001
-  global_id: t-186035
   teiginys: "Krymo skitai po senojo valdovo mirties paprašė Kazimiero duoti jiems valdovu Ač Girėjų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Krymo skitai po senojo valdovo mirties paprašė Kazimiero duoti jiems valdovu A
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186035
+    - t-001

@@ -28,7 +28,6 @@ Reguliariųjų Laterano kanauninkų idėjos susipynė su fundatoriaus Paco suman
 
 <a id="claim-t-200834"></a>
 - t-001
-  global_id: t-200834
   teiginys: "Reguliariųjų Laterano kanauninkų idėjos susipynė su fundatoriaus Paco sumanymais Antakalnio bažnyčios dekoracijos ikonografinėje programoje."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Reguliariųjų Laterano kanauninkų idėjos susipynė su fundatoriaus Paco suman
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200834
+    - t-001

@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-194804"></a>
 - t-001
-  global_id: t-194804
   teiginys: "Galva papuošta kažkokia spinduliuojančia diadema; ant pečių krinta ilgi plaukai, ties kakta perskirti; veidas pailgas, griežtas, nebejaunas, rankos praskėstos; kairiojoje rankoje lai ko kažką panašaus į skeptrą, dešiniojoje - lyg Jupiterio deglą, fulgur."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -57,7 +56,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177200
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Galva papuošta kažkokia spinduliuojančia diadema; ant pečių krinta ilgi plaukai, ties kakta perskirti; veidas pailgas, griežtas, nebejaunas, rankos praskėstos; kairiojoje rankoje lai ko kažką panašaus į skeptrą, dešiniojoje - lyg Jupiterio deglą, fulgur.'
@@ -76,8 +75,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194804
+
 ## Citatos
 
 - id: c-177200
@@ -96,19 +94,11 @@ Nenurodyta
     kad vėlesniais laikais ir stabmeldystei išnykus liaudis klydo api­
     būdindama dievybių lytį, bet ne čia esmė; tai lengvai ištaiso­
     ma, jeigu tik atsirastų kokių nors žinių apie šį dalyką.
-  citata_rodoma: |
-    Manyta, kad tai
-    senųjų pilies savininkų herbas. Moteris apsirengusi romėniš­
-    ka tunika, susijuosusi diržu, nuo pečių krenta platus apsiaus­
-    tas. Galva papuošta kažkokia spinduliuojančia diadema; ant
-    pečių krinta ilgi plaukai, ties kakta perskirti; veidas pailgas,
-    griežtas, nebejaunas, rankos praskėstos; kairiojoje rankoje lai­
-    ko kažką panašaus į skeptrą, dešiniojoje -  lyg Jupiterio deglą,
-    fulgur.
+  citata_rodoma: "Manyta, kad tai\nsenųjų pilies savininkų herbas. Moteris apsirengusi romėniš­\nka tunika, susijuosusi diržu, nuo pečių krenta platus apsiaus­\ntas. Galva papuošta kažkokia spinduliuojančia diadema; ant\npečių krinta ilgi plaukai, ties kakta perskirti; veidas pailgas,\ngriežtas, nebejaunas, rankos praskėstos; kairiojoje rankoje lai­\nko kažką panašaus į skeptrą, dešiniojoje -  lyg Jupiterio deglą,\nfulgur."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194804
+    - t-001

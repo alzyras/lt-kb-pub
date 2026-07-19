@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-26415"></a>
 - t-001
-  global_id: t-26415
   teiginys: "1926 m. gruodžio 17 d. perversmo metu šarvuočiai buvo prie Vyriausiojo štabo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,17 +129,11 @@ Nenurodyta
     grįžti į vadinamuosius „seimų
     laikus“, prilygintus netvarkai ir
     anarchijai.
-  citata_rodoma: |
-    1926 m. gruodžio 17 d. perversmas –
-    šarvuočiai prie Vyriausiojo štabo
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    157
-    A.
+  citata_rodoma: "1926 m. gruodžio 17 d. perversmas –  \nšarvuočiai prie Vyriausiojo štabo\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n157\nA."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26415
+    - t-001

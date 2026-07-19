@@ -31,7 +31,6 @@ tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (M
 
 <a id="claim-t-21628"></a>
 - t-001
-  global_id: t-21628
   teiginys: "Voluinėje valdas įgiję Chodkevičiai turėjo valdų Mlynive."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,12 +62,11 @@ tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (M
     kos“ kilmės kunigaikščiai Ostrogiškiai.
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
-  citata_rodoma: |
-    tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
+  citata_rodoma: "tą patį darė čia valdas įgiję didikai Radvilos (Olyka)"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21628
+    - t-001

@@ -39,8 +39,7 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
 ## Teiginiai
 
 <a id="claim-t-72714"></a>
-- t-001
-  global_id: t-72714
+- t-002
   teiginys: "Bajorai buvo atleisti nuo pastočių, pilių statymo ir remontavimo, didžiojo kunigaikščio pievų pjovimo bei sidabrinės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
     - c-46923
 
 <a id="claim-t-72715"></a>
-- t-002
-  global_id: t-72715
+- t-001
   teiginys: "Atleidimas nuo pastočių ir kitų prievolių nepalengvino bajorų valstiečių būklės."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
 
 <a id="claim-t-72716"></a>
 - t-003
-  global_id: t-72716
   teiginys: "Bajorų valstiečiai buvo atleisti nuo pastočių, pilių statymo ir remontavimo, didžiojo kunigaikščio pievų pjovimo bei piniginio mokesčio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,20 +110,13 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
     nepalengvėjo, nes, vietoj buvusių pareigų ir mokesčių didžiajam
     kunigaikščiui, jie buvo apkrauti didesnėmis pareigomis savo dva-
     rų savininkams — bajorams.
-  citata_rodoma: |
-    ) nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo
-    pastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti
-    didžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio
-    mokesčio _(sidabrinės)._ Tačiau bajorų valstiečių būklė dėl to
-    nepalengvėjo, nes, vietoj buvusių pareigų ir mokesčių didžiajam
-    kunigaikščiui, jie buvo apkrauti didesnėmis pareigomis savo dva-
-    rų savininkams — bajorams.
+  citata_rodoma: ") nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo\npastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti\ndidžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio\nmokesčio _(sidabrinės)._ Tačiau bajorų valstiečių būklė dėl to\nnepalengvėjo, nes, vietoj buvusių pareigų ir mokesčių didžiajam\nkunigaikščiui, jie buvo apkrauti didesnėmis pareigomis savo dva-\nrų savininkams — bajorams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72714
-    - t-72715
-    - t-72716
+    - t-002
+    - t-001
+    - t-003

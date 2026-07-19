@@ -39,7 +39,6 @@ Lietuva patyrė Kijevo Rusios agresiją.
 
 <a id="claim-t-39556"></a>
 - t-001
-  global_id: t-39556
   teiginys: "1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,6 +76,7 @@ Lietuva patyrė Kijevo Rusios agresiją.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39556
+    - t-001
+
 ## Ryšiai
 - Jaroslavas (Kijevo valdovas) surengė žygį į [[objektai/vietos/Lietuva]]

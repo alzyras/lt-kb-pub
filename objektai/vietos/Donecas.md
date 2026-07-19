@@ -31,7 +31,6 @@ Narbutas tapatino senovinį Higrį su Donecu, o Tanajį - su dabartiniu Donu.
 
 <a id="claim-t-192814"></a>
 - t-001
-  global_id: t-192814
   teiginys: "Narbutas tapatino senovinį Higrį su Donecu, o Tanajį - su dabartiniu Donu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ Narbutas tapatino senovinį Higrį su Donecu, o Tanajį - su dabartiniu Donu.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192814
+    - t-001

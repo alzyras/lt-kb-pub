@@ -36,7 +36,6 @@ Kojelavičiaus pasakojime iš Prūsijos patraukęs priešas Žemaitijoje sulygin
 
 <a id="claim-t-185288"></a>
 - t-001
-  global_id: t-185288
   teiginys: "Kojelavičiaus pasakojime iš Prūsijos patraukęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Kojelavičiaus pasakojime iš Prūsijos patraukęs priešas Žemaitijoje sulygin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185288
+    - t-001

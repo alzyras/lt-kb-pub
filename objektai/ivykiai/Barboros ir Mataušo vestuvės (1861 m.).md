@@ -74,8 +74,7 @@ Jungtuvės buvo užmegstos, o vestuvės pradėtos griežtąjį pirmadienį.
 ## Teiginiai
 
 <a id="claim-t-195295"></a>
-- t-001
-  global_id: t-195295
+- t-005
   teiginys: "Vestuvių pradžia atėjo griežtąjį pirmadienį, o vakare susiėjo kaimo jaunimas."
   atnaujinta: "2026-07-12 01:22"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -85,8 +84,7 @@ Jungtuvės buvo užmegstos, o vestuvės pradėtos griežtąjį pirmadienį.
     - c-177659
 
 <a id="claim-t-195296"></a>
-- t-002
-  global_id: t-195296
+- t-001
   teiginys: "1861 m. pasakotojo namuose buvo keliamos vestuvės."
   atnaujinta: "2026-07-12 01:22"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -96,8 +94,7 @@ Jungtuvės buvo užmegstos, o vestuvės pradėtos griežtąjį pirmadienį.
     - c-177660
 
 <a id="claim-t-195297"></a>
-- t-003
-  global_id: t-195297
+- t-004
   teiginys: "Nuo pirmo užsako dienos iki vestuvių praėjo trys savaitės."
   atnaujinta: "2026-07-12 01:22"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -135,18 +132,15 @@ Vieta: pasakotojo namai.
     Vakare
     susiėjo
     kaimo jaunimas, atėjo kviesti ir nekviesti, net iš kitų kaimų.
-  citata_rodoma: |
-    Atėjo griežtasis pirmadienis, vestuvių pradžia.
-    Vakare
-    susiėjo
-    kaimo jaunimas, atėjo kviesti ir nekviesti, net iš kitų kaimų.
+  citata_rodoma: "Atėjo griežtasis pirmadienis, vestuvių pradžia. \nVakare \nsusiėjo \nkaimo jaunimas, atėjo kviesti ir nekviesti, net iš kitų kaimų."
   statusas: verified
   atnaujinta: "2026-07-12 01:22"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195295
+    - t-005
+
 - id: c-177660
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -159,19 +153,15 @@ Vieta: pasakotojo namai.
     buvo
     keliamos mūsų namuose vestuvės, kurias bandysiu
     aprašyti.
-  citata_rodoma: |
-    Ženkime metus atgal, būtent, į 1861 metus.
-    Tais metais
-    buvo
-    keliamos mūsų namuose vestuvės, kurias bandysiu
-    aprašyti.
+  citata_rodoma: "Ženkime metus atgal, būtent, į 1861 metus. \nTais metais \nbuvo \nkeliamos mūsų namuose vestuvės, kurias bandysiu \naprašyti."
   statusas: verified
   atnaujinta: "2026-07-12 01:22"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195296
+    - t-001
+
 - id: c-177661
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -180,12 +170,11 @@ Vieta: pasakotojo namai.
   citata_originali: |
     30. Rengimasis vestuvėms.
     Nuo pirmo užsako dienos ligi vestuvių lygiai trys savaitės.
-  citata_rodoma: |
-    Nuo pirmo užsako dienos ligi vestuvių lygiai trys savaitės.
+  citata_rodoma: "Nuo pirmo užsako dienos ligi vestuvių lygiai trys savaitės."
   statusas: verified
   atnaujinta: "2026-07-12 01:22"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195297
+    - t-004

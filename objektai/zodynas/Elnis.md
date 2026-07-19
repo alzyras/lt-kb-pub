@@ -27,22 +27,6 @@ media_all_json: |-
 
 Narbutas elnią (Elnį) aprašo kaip dievuką fetišą, kuris, manyta, šalino ligas, ypač epilepsiją.
 
-## Teiginiai
-
-<a id="claim-t-189291"></a>
-- t-001
-  global_id: t-189291
-  teiginys: "Narbutas elnią (Elnį) aprašo kaip dievuką fetišą, kuris, manyta, šalino ligas, ypač epilepsiją."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172179
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas elnią (Elnį) aprašo kaip dievuką fetišą, kuris, manyta, šalino ligas, ypač epilepsiją.'
@@ -58,8 +42,7 @@ Narbutas elnią (Elnį) aprašo kaip dievuką fetišą, kuris, manyta, šalino l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189291
+
 ## Citatos
 
 - id: c-172179
@@ -67,21 +50,31 @@ Narbutas elnią (Elnį) aprašo kaip dievuką fetišą, kuris, manyta, šalino l
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žiūrėk II lentelės 4-ąjį piešinį.
-    Elnias (Elnis)
-    Elnią, tą gyvulį, laikė dievuku fetišu, manydami, kad jis
-    pašalins ligas, ypač epilepsiją. Paimtą iš Erazmo Stelos faktą
-    Hartknochas pagrindžia savo pastebėjimais15.
-  citata_rodoma: |
-    Žiūrėk II lentelės 4-ąjį piešinį.
-    Elnias (Elnis)
-    Elnią, tą gyvulį, laikė dievuku fetišu, manydami, kad jis
-    pašalins ligas, ypač epilepsiją. Paimtą iš Erazmo Stelos faktą
-    Hartknochas pagrindžia savo pastebėjimais15.
+    -Nr. 28) dalį. Vis dėlto patį pavirtimo turinį privalau ap­
+    rašyti.
+    Vieno Lietuvos bajoro duktė ypač garsėjo prisirišimu prie trijų
+    savo brolių. Labiausiai jai patikdavę, kai galėdavo jiems pasi­
+    meilinti: siuvinėti gūnias, austi juostas.
+  citata_rodoma: "Žiūrėk II lentelės 4-ąjį piešinį.\nElnias (Elnis)\nElnią, tą gyvulį, laikė dievuku fetišu, manydami, kad jis\npašalins ligas, ypač epilepsiją. Paimtą iš Erazmo Stelos faktą\nHartknochas pagrindžia savo pastebėjimais15."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189291
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-189291"></a>
+- t-001
+  teiginys: "Narbutas elnią (Elnį) aprašo kaip dievuką fetišą, kuris, manyta, šalino ligas, ypač epilepsiją."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-172179

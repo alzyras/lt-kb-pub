@@ -39,7 +39,6 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
 
 <a id="claim-t-92500"></a>
 - t-001
-  global_id: t-92500
   teiginys: "Lenkų bajorų dokumentas buvo beveik lietuvių bajorų akto nuorašas."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
 
 <a id="claim-t-92501"></a>
 - t-002
-  global_id: t-92501
   teiginys: "Lenkų bajorija jau anksčiau turėjo teisę dalyvauti naujo kunigaikščio elekcijoje."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
 
 <a id="claim-t-92502"></a>
 - t-003
-  global_id: t-92502
   teiginys: "1413 m. Jogailos ir Vytauto unijos aktas numatė Lietuvos ir Lenkijos bajorijų pasitarimus dėl valstybės reikalų."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -119,7 +116,8 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92501
+    - t-002
+
 - id: c-36875
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -137,7 +135,8 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92502
+    - t-003
+
 - id: c-88039
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -159,4 +158,4 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92500
+    - t-001

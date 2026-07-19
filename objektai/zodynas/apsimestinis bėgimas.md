@@ -31,7 +31,6 @@ Pagal Dlugošo kroniką, lietuvių pasitraukimas, esą, reiškęs bėgimą^25. �
 
 <a id="claim-t-32759"></a>
 - t-001
-  global_id: t-32759
   teiginys: "Dlugošo kronikoje lietuvių pasitraukimas aiškintas kaip bėgimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Pagal Dlugošo kroniką, lietuvių pasitraukimas, esą, reiškęs bėgimą^25. �
 
 <a id="claim-t-32760"></a>
 - t-002
-  global_id: t-32760
   teiginys: "Apsimestinis bėgimas galėjo būti iš totorių perimta taktika priešui patraukti ir jo eilėms suardyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,18 +72,15 @@ Pagal Dlugošo kroniką, lietuvių pasitraukimas, esą, reiškęs bėgimą^25. �
     lietuvių pasitraukimas, esą, reiškęs bėgimą^25. Šitas «bėgimas»
     tačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,
     kad būtų galima patraukti priešą ir suardyti jo eiles.
-  citata_rodoma: |
-    Pagal Dlugošo kroniką,
-    lietuvių pasitraukimas, esą, reiškęs bėgimą^25. Šitas «bėgimas»
-    tačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,
-    kad būtų galima patraukti priešą ir suardyti jo eiles.
+  citata_rodoma: "Pagal Dlugošo kroniką,\nlietuvių pasitraukimas, esą, reiškęs bėgimą^25. Šitas «bėgimas»\ntačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,\nkad būtų galima patraukti priešą ir suardyti jo eiles."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32759
+    - t-001
+
 - id: c-34140
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -98,17 +93,11 @@ Pagal Dlugošo kroniką, lietuvių pasitraukimas, esą, reiškęs bėgimą^25. �
     Posilgė, kuris apie kryžiuočius kautynių pabaigoje rašė, jog jie,
     esą bėgę («in der flucht geslagin »), apie lietuvius tiek tepasakė,
     kad jie buvę atmušti^26.
-  citata_rodoma: |
-    Šitas «bėgimas»
-    tačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,
-    kad būtų galima patraukti priešą ir suardyti jo eiles. Kronikininkas
-    Posilgė, kuris apie kryžiuočius kautynių pabaigoje rašė, jog jie,
-    esą bėgę («in der flucht geslagin »), apie lietuvius tiek tepasakė,
-    kad jie buvę atmušti^26.
+  citata_rodoma: "Šitas «bėgimas»\ntačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,\nkad būtų galima patraukti priešą ir suardyti jo eiles. Kronikininkas\nPosilgė, kuris apie kryžiuočius kautynių pabaigoje rašė, jog jie,\nesą bėgę («in der flucht geslagin »), apie lietuvius tiek tepasakė,\nkad jie buvę atmušti^26."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32760
+    - t-002

@@ -39,7 +39,6 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
 
 <a id="claim-t-50694"></a>
 - t-001
-  global_id: t-50694
   teiginys: "Lietuvių bajorų aktas leido bajorams spausti Vytautą, jei jis nesilaikytų unijos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
     - c-36887
 
 <a id="claim-t-50695"></a>
-- t-002
-  global_id: t-50695
+- t-004
   teiginys: "Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -72,8 +70,7 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
     - c-36890
 
 <a id="claim-t-50696"></a>
-- t-003
-  global_id: t-50696
+- t-005
   teiginys: "Vytauto laikais lietuvių bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų bei luominės savivokos bruožų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,8 +87,7 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
     - c-36890
 
 <a id="claim-t-50697"></a>
-- t-004
-  global_id: t-50697
+- t-003
   teiginys: "Pirmą kartą pabėgęs pas Ordiną Vytautas sulaukė nemažai bajorų iš Lietuvos ir Žemaičių paramos."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -108,8 +104,7 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
     - c-52458
 
 <a id="claim-t-50698"></a>
-- t-005
-  global_id: t-50698
+- t-002
   teiginys: "Lietuvių bajorija valstybės reikaluose gavo balsą, anksčiau priklausiusį valdovui."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -145,7 +140,8 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50694
+    - t-001
+
 - id: c-36888
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -165,7 +161,8 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50698
+    - t-002
+
 - id: c-36890
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -182,22 +179,16 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
     siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
     luomu.
     Žinoma mes negalime patikėti Dlugošu, kad iki 1413 met.
-  citata_rodoma: |
-    Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­
-    jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji
-    dar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius
-    — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­
-    siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
-    luomu.
-    Žinoma mes negalime patikėti Dlugošu, kad iki 1413 met.
+  citata_rodoma: "Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­\njorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji\ndar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius\n— herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­\nsiskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto\nluomu.\nŽinoma mes negalime patikėti Dlugošu, kad iki 1413 met."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50695
-    - t-50696
+    - t-004
+    - t-005
+
 - id: c-52458
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -218,4 +209,4 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50697
+    - t-003

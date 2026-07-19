@@ -43,7 +43,6 @@ media_all_json: |-
 
 <a id="claim-t-82653"></a>
 - t-001
-  global_id: t-82653
   teiginys: "1409 m. Vytautas artimose totorių žemėse įkurdino jam paklusnų chaną Saladiną, vyriausią Tochtamyšo sūnų."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ media_all_json: |-
 
 <a id="claim-t-82654"></a>
 - t-002
-  global_id: t-82654
   teiginys: "Saladinas citatoje vadinamas Tochtamišo sūnumi ir ištikimu Lietuvos sąjungininku, po kurio mirties įpėdinis Kerimberdėjus nepakluso Vytautui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,6 @@ media_all_json: |-
 
 <a id="claim-t-82655"></a>
 - t-003
-  global_id: t-82655
   teiginys: "Saladinas, Tochtamyšo sūnus, buvo sultonas ir ištikimas Lietuvos sąjungininkas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +102,6 @@ media_all_json: |-
 
 <a id="claim-t-193975"></a>
 - t-004
-  global_id: t-193975
   teiginys: "Ir jis paskyrė jiems chaną, vardu Saladiną7 ."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -118,7 +114,6 @@ media_all_json: |-
 
 <a id="claim-t-193976"></a>
 - t-005
-  global_id: t-193976
   teiginys: "Lietuvos metraštyje Saladinas, Vytauto nurodymu atvykęs į Ordą, atsisėdo į chanų sostą ir tarnavo šlovinguoju valdovu vadinamam Vytautui."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -157,7 +152,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82653
+    - t-001
+
 - id: c-79117
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -183,24 +179,16 @@ media_all_json: |-
     jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
     73 nė Ona mirė Trakuose, o palaidota
     Ona buvo Smolensko kunigaikščio buvo Vilniuje.
-  citata_rodoma: |
-    Tokios iškilmės Vy­
-    tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus
-    pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­
-    tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo
-    paklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu
-    paskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas
-    jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
-    73 nė Ona mirė Trakuose, o palaidota
-    Ona buvo Smolensko kunigaikščio buvo Vilniuje.
+  citata_rodoma: "Tokios iškilmės Vy­\ntauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus\npilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­\ntuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo\npaklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu\npaskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas\njam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,\n73 nė Ona mirė Trakuose, o palaidota\nOna buvo Smolensko kunigaikščio buvo Vilniuje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82654
-    - t-82655
+    - t-002
+    - t-003
+
 - id: c-176600
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -212,20 +200,15 @@ media_all_json: |-
     kur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­
     skyrė chanu savo tarną, neišdrįso priešintis šlovinga­
     jam valdovui, paliko chanystę ir pabėgo.
-  citata_rodoma: |
-    Mat, daug buvo
-    Ordos didžiųjų chanų, tarnaujančių jo rūmuose. Ir
-    jis paskyrė jiems chaną, vardu Saladiną7 . O tas chanas,
-    kur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­
-    skyrė chanu savo tarną, neišdrįso priešintis šlovinga­
-    jam valdovui, paliko chanystę ir pabėgo.
+  citata_rodoma: "Mat, daug buvo \nOrdos didžiųjų chanų, tarnaujančių jo rūmuose. Ir \njis paskyrė jiems chaną, vardu Saladiną7 . O tas chanas, \nkur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­\nskyrė chanu savo tarną, neišdrįso priešintis šlovinga­\njam valdovui, paliko chanystę ir pabėgo."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193975
+    - t-004
+
 - id: c-176601
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -244,6 +227,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193976
+    - t-005
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Tochtamišas]], [[objektai/asmenys/Tochtamyšas]], [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas)]]

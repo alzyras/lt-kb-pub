@@ -31,7 +31,6 @@ Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— 
 
 <a id="claim-t-58927"></a>
 - t-001
-  global_id: t-58927
   teiginys: "Territorium castri Dusburgiečio kronikoje reiškia pilies apygardą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58927
+    - t-001

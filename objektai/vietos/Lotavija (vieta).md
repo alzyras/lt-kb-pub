@@ -39,7 +39,6 @@ Atkeliavęs vyskupas Rygos Albertas su kita dva siška diduomene į Lotaviją, M
 
 <a id="claim-t-201142"></a>
 - t-001
-  global_id: t-201142
   teiginys: "Atkeliavęs vyskupas Rygos Albertas su kita dva siška diduomene į Lotaviją, Mintauto pilį, jį patį, jo žmoną ir 60 tėvūnų, arba senatorių, apkrikštijo metuose 1252, 7 dienoj rugpjūčio mėnesio."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,9 @@ Atkeliavęs vyskupas Rygos Albertas su kita dva siška diduomene į Lotaviją, M
 ## Citatos
 
 - id: c-184492
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mintautas nuo vienos pu­
     sės gorinamas pavojum, nuo antros masinamas
@@ -72,4 +72,4 @@ Atkeliavęs vyskupas Rygos Albertas su kita dva siška diduomene į Lotaviją, M
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201142
+    - t-001

@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-66983"></a>
 - t-001
-  global_id: t-66983
   teiginys: "Iki XIII a. pradžios Voluinės kunigaikščiai, kariaudami su jotvingais, buvo užėmę Gardiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,16 +71,11 @@ Nenurodyta
     Nukariautose žemėse tada buvo įkurti Naugardukas, Slanimas ir
     atstatyta, jotvingų buvusi, Gardino pilis (senasis Gardinas, tur
     būt, bus turėjęs kitą vardą).
-  citata_rodoma: |
-    Voluinės kunigaikščiams geriau sekėsi kariauti su jotvin-
-    gais, ir iki XIII amž. pradžios jie jau buvo paėmę net Gardiną.
-    Nukariautose žemėse tada buvo įkurti Naugardukas, Slanimas ir
-    atstatyta, jotvingų buvusi, Gardino pilis (senasis Gardinas, tur
-    būt, bus turėjęs kitą vardą).
+  citata_rodoma: "Voluinės kunigaikščiams geriau sekėsi kariauti su jotvin-\ngais, ir iki XIII amž. pradžios jie jau buvo paėmę net Gardiną.\nNukariautose žemėse tada buvo įkurti Naugardukas, Slanimas ir\natstatyta, jotvingų buvusi, Gardino pilis (senasis Gardinas, tur\nbūt, bus turėjęs kitą vardą)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66983
+    - t-001

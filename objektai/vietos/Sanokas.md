@@ -31,7 +31,6 @@ Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dal
 
 <a id="claim-t-185303"></a>
 - t-001
-  global_id: t-185303
   teiginys: "Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Leopoldas, Austrijos erchercogas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185303
+    - t-001

@@ -32,7 +32,6 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 
 <a id="claim-t-69251"></a>
 - t-001
-  global_id: t-69251
   teiginys: "Protestantizmas padėjo Skandinavijai pritapti prie dinamiškosios šiaurinės Vakarų Europos dalies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 
 <a id="claim-t-197928"></a>
 - t-002
-  global_id: t-197928
   teiginys: "Seningas imasi visokio darbo, siekdamas gintaro iš gavimo garbę priskirti Skandinavijai, nes tai didelis pu siasalis, plytintis net iki Ledinuotosios jūros."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -131,15 +129,15 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
     pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
     Vidurio Europą.
-  citata_rodoma: |
-    pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
+  citata_rodoma: "pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69251
+    - t-001
+
 - id: c-179404
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -158,4 +156,4 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197928
+    - t-002

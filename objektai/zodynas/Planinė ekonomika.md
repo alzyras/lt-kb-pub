@@ -36,8 +36,7 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
 ## Teiginiai
 
 <a id="claim-t-22012"></a>
-- t-001
-  global_id: t-22012
+- t-002
   teiginys: "Pereinant iš planinės ekonomikos, Lietuvoje lėtai steigtos privačios žemės ūkio ir pramonės įmonės, daugiausia orientuotos į Vakarų rinką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
     - c-24696
 
 <a id="claim-t-22013"></a>
-- t-002
-  global_id: t-22013
+- t-001
   teiginys: "Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad perėmus gamybą ją bus galima paskirstyti pagal poreikius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +69,6 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
 
 <a id="claim-t-183452"></a>
 - t-003
-  global_id: t-183452
   teiginys: "Planinės ekonomikos metais Lietuvos visuomenėje tikėta, kad perėmus gamybą bus galima ją paskirstyti pagal poreikius ir valstybė suklestės."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -106,15 +103,15 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
     į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius
     Pirmasis Prancūzijos prezidento Fransua Miterano
     vizitas į Lietuvą.
-  citata_rodoma: |
-    ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus
+  citata_rodoma: "ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22013
+    - t-001
+
 - id: c-24696
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -124,15 +121,15 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
     rankiškai gyventi. Planinės ekonomikos laivas plūduriavo kapitalizmo
     jūroje, lėtai steigiant privačias žemės ūkio ir pramonės įmones, kurių
     dauguma orientuotos į kapitalistinę Vakarų pasaulio rinką.
-  citata_rodoma: |
-    rankiškai gyventi. Planinės ekonomikos laivas plūduriavo kapitalizmo
+  citata_rodoma: "rankiškai gyventi. Planinės ekonomikos laivas plūduriavo kapitalizmo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22012
+    - t-002
+
 - id: c-166847
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -156,4 +153,4 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183452
+    - t-003

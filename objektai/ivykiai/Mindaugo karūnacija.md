@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-66787"></a>
 - t-001
-  global_id: t-66787
   teiginys: "Mindaugas buvo pirmas ir vienintelis vainikuotas Lietuvos karalius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +77,6 @@ Nenurodyta
 
 <a id="claim-t-66788"></a>
 - t-002
-  global_id: t-66788
   teiginys: "A. Varnas 1952–1953 m. sukūrė darbą „Mindaugo vainikavimas. Mindaugo karūnacija“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,7 +125,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66788
+    - t-002
+
 - id: c-166652
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -144,4 +143,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66787
+    - t-001

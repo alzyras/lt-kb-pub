@@ -39,8 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-19102"></a>
-- t-001
-  global_id: t-19102
+- t-002
   teiginys: "Laurynas Gucevičius laikomas vienu ryškiausių Lietuvos menininkų, susiejusių savo likimą su krašto likimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ media_all_json: |-
     - c-21852
 
 <a id="claim-t-19103"></a>
-- t-002
-  global_id: t-19103
+- t-001
   teiginys: "Laurynas Gucevičius buvo žymiausias Lietuvos klasicizmo kūrėjas ir 1782 m. pradėjo Vilniaus katedros, o 1786 m. Vilniaus rotušės rekonstrukciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,29 +73,8 @@ media_all_json: |-
   pagrindžia:
     - c-21851
 
-<a id="claim-t-188577"></a>
-- t-003
-  global_id: t-188577
-  teiginys: "Narbutas rašo, kad Šulcas tarp mirusio architekto Lauryno Gucevičiaus popierių aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Laurynas Gucevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laurynas Gucevičius\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-003
 <a id="claim-t-197422"></a>
 - t-004
-  global_id: t-197422
   teiginys: "Laurynas Gucevičius visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -126,8 +103,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188577
+
 ## Citatos
 
 - id: c-21851
@@ -141,15 +117,15 @@ media_all_json: |-
     pastatų stiliumi. Žymiausias Lietuvos klasicizmo kūrėjas lietuvis Lau-
     rynas Gucevičius (1753–1798) 1782  m. pradėjo Vilniaus katedros, o
     1786 m. – Vilniaus rotušės rekonstrukciją.
-  citata_rodoma: |
-    rynas Gucevičius (1753–1798) 1782  m. pradėjo Vilniaus katedros, o
+  citata_rodoma: "rynas Gucevičius (1753–1798) 1782  m. pradėjo Vilniaus katedros, o"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19103
+    - t-001
+
 - id: c-21852
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -161,15 +137,15 @@ media_all_json: |-
     Vilniaus gvardijos vadu. L. Gucevičius savo gyvenimu suvienijo ne tik
     Apšvietos ir klasicizmo idėjas – Lietuvos istorijoje jis vienas ryškiausių
     menininkų, savo likimą susaisčiusių su krašto likimu.
-  citata_rodoma: |
-    Apšvietos ir klasicizmo idėjas – Lietuvos istorijoje jis vienas ryškiausių
+  citata_rodoma: "Apšvietos ir klasicizmo idėjas – Lietuvos istorijoje jis vienas ryškiausių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19102
+    - t-002
+
 - id: c-171466
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -188,4 +164,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197422
+    - t-004

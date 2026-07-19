@@ -45,7 +45,6 @@ Bereza čia minima kaip laidojimo vieta.
 
 <a id="claim-t-200573"></a>
 - t-001
-  global_id: t-200573
   teiginys: "1760 m. Mykolas Antanas Sapiega buvo palaidotas Berezoje."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -70,19 +69,8 @@ Bereza čia minima kaip laidojimo vieta.
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 11"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
-  citata_originali: |
-    1760 jis rašė, kad Starodubo
-    pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę [61]. Tais
-    pačiais metais rudenį Slonime mirė LDK pakancleris Mykolas Antanas Sapiega. Nors
-    didikas buvo palaidotas Berezoje [86, 114], Vilniuje taip pat vyko mišios ir kitos iškilmės.
-  citata_rodoma: |
-    Tais
-    pačiais metais rudenį Slonime mirė LDK pakancleris Mykolas Antanas Sapiega. Nors
-    didikas buvo palaidotas Berezoje [86, 114], Vilniuje taip pat vyko mišios ir kitos iškilmės.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 05:14"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200573
+    - t-001

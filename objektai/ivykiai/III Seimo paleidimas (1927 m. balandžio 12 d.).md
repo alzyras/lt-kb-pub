@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20199"></a>
 - t-001
-  global_id: t-20199
   teiginys: "1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai nepaskelbti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,12 +87,11 @@ Nenurodyta
     o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu. Taip pre-
     zidentas A. Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią
     šalies politinę jėgą – krikščionis demokratus.
-  citata_rodoma: |
-    zidentas A. Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią
+  citata_rodoma: "zidentas A. Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20199
+    - t-001

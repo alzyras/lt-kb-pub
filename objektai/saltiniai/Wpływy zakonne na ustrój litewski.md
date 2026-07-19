@@ -37,7 +37,6 @@ Kamieniecki, WŁ.: Wpływy zakonne na ustrój litewski, PH, t.
 
 <a id="claim-t-31992"></a>
 - t-001
-  global_id: t-31992
   teiginys: "Wł. Kamienieckio straipsnis „Wpływy zakonne na ustrój litewski“ paskelbtas 1925 m. PH 25 tome, p. 160–186."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,14 +67,11 @@ Kamieniecki, WŁ.: Wpływy zakonne na ustrój litewski, PH, t.
     1938, 269 p. — Kamieniecki, WŁ.: Wpływy zakonne na ustrój litewski,
     PH, t. 25, 1925, 160-186 p. ; plg. PH, t. 36, 1946, 174-178 p. — (”) Kam-
     SL.
-  citata_rodoma: |
-    — Kamieniecki, WŁ.: Wpływy zakonne na ustrój litewski,
-    PH, t. 25, 1925, 160-186 p. ; plg. PH, t. 36, 1946, 174-178 p. — (”) Kam-
-    SL.
+  citata_rodoma: "— Kamieniecki, WŁ.: Wpływy zakonne na ustrój litewski,\nPH, t. 25, 1925, 160-186 p. ; plg. PH, t. 36, 1946, 174-178 p. — (”) Kam-\nSL."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31992
+    - t-001

@@ -39,7 +39,6 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 
 <a id="claim-t-169940"></a>
 - t-001
-  global_id: t-169940
   teiginys: "Šiame krašte buvo naikinamos nuo likusios Rusijos jį skyrusios institucijos ir neleista administracijoje vartoti lenkų kalbos."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 
 <a id="claim-t-169941"></a>
 - t-002
-  global_id: t-169941
   teiginys: "Rusintojai tikėjosi laimėti, „lenkų pradų naikinimo“ politiką papildydami „rusų pradų atkūrimo“ politika."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 
 <a id="claim-t-169943"></a>
 - t-003
-  global_id: t-169943
   teiginys: "„Rusų pradus“ švietimo įstaigose turėjo diegti rusai mokytojai, paprastai atvykę iš Rusijos gilumos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -91,7 +88,6 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 
 <a id="claim-t-169944"></a>
 - t-004
-  global_id: t-169944
   teiginys: "Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, grįstą Rusijos „istorinio pirmumo teisės“ idėja."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,15 +118,15 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
     visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
     nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-
     nimo“ politiką papildę „rusų pradų atkūrimo“ politika.
-  citata_rodoma: |
-    visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
+  citata_rodoma: "visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169941
+    - t-002
+
 - id: c-154622
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -161,8 +157,9 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169940
-    - t-169944
+    - t-001
+    - t-004
+
 - id: c-166889
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -183,4 +180,4 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169943
+    - t-003

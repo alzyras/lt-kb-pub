@@ -41,7 +41,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 
 <a id="claim-t-58550"></a>
 - t-001
-  global_id: t-58550
   teiginys: "Petro Dusburgiečio kronikoje Galinda įvardyta kaip viena iš vienuolikos Prūsijos žemės dalių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 
 <a id="claim-t-58551"></a>
 - t-002
-  global_id: t-58551
   teiginys: "Galindos žemė buvo į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,28 +75,19 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 
 <a id="claim-t-188692"></a>
 - t-003
-  global_id: t-188692
   teiginys: "Narbutas pasakojo, kad supykdyti kaimynai nuniokojo Galindą taip, jog kraštas daugeliui metų liko beveik negyvenamas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Krikščionys: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Galinda: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Galinda\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171581
+    - c-177128
 
 <a id="claim-t-192661"></a>
 - t-004
-  global_id: t-192661
   teiginys: "1253 m. kryžiuočiai, siekdami lengviau užimti Sembą, pirmiausia turėjo užkariauti Galindą ir atskirti jotvingius nuo Panemunės kraštų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -123,7 +112,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 
 <a id="claim-t-192662"></a>
 - t-005
-  global_id: t-192662
   teiginys: "Narbutas Galindą apibūdino kaip vieną seniausių provincijų, kadaise plačiau besidriekusią Mazovijos ir Polesės link."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -141,10 +129,9 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175432
-    - c-005
+
 <a id="claim-t-192663"></a>
 - t-006
-  global_id: t-192663
   teiginys: "Galindos vakarinė siena prasidėjo prie Sasavos žemės, Hohenšteino ir Noidenburgo, o Alnos upe ribojosi su Varmija."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -165,7 +152,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 
 <a id="claim-t-194732"></a>
 - t-007
-  global_id: t-194732
   teiginys: "Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, kad jie vos galėjo sutilpti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -178,7 +164,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 
 <a id="claim-t-197879"></a>
 - t-008
-  global_id: t-197879
   teiginys: "Pietuose jos kaimynė buvo Mazovija, bet didesnė krašto dalis, šiandien priklausanti Lenkijos Karalystei, tuomet priklausė Galindai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -258,8 +243,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192662
+
 ## Citatos
 
 - id: c-59182
@@ -276,18 +260,15 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: |
-    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+  citata_rodoma: "Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58550
+    - t-001
+
 - id: c-59183
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -304,7 +285,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58551
+    - t-002
+
 - id: c-171581
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -319,21 +301,13 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,
     ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per­
     ėjus fermentaciją, alus jau ir gatavas.
-  citata_rodoma: |
-    Šie, patikėję žynės žodžiu, tuojau sutelkė
-    vyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,
-    baisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.
-    Tačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­
-    sus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­
-    niokojo, kad Galinda daugeliui metų paliko beveik negyve­
-    nama.
+  citata_rodoma: "Šie, patikėję žynės žodžiu, tuojau sutelkė\nvyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,\nbaisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.\nTačiau beeinančius juos staiga puolė krikščionys ir išmušė vi­\nsus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­\nniokojo, kad Galinda daugeliui metų paliko beveik negyve­\nnama."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188692
 - id: c-175431
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -356,7 +330,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192661
+    - t-004
+
 - id: c-175432
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -377,28 +352,15 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     kildinti iš senovės prūsų žodžio Galintuvojt, tai reiškė
     triukšmauti, niekšeli, nes šios gentys buvusios plėšikiškos
     ir agresyvios.
-  citata_rodoma: |
-    Rytuose ji
-    ribojosi su Sūduva, pietuose — su Mazovija, vakaruo­
-    se — su Hokerlandija ir Varmija, o šiaurėje — su Barta.
-    Galinda buvo viena seniausių provincijų, kitados nepa­
-    254
-
-    ## Puslapis 265
-
-    lyginti plačiau driekėsi į Mazovijos ir Polesės pusę; ji
-    nusipelnė detalių senovės geografų tyrinėjimų. Galindų
-    gentys nuo seno buvo gausios ir karingos, plačiai žino­
-    mos, kai kurių žinių apie jas pateikėme šio veikalo pir­
-    mame tome, skyriuje „Pranašystės“; čia ¡papasakosime
-    apie kitus žinomus dalykus.
+  citata_rodoma: "Rytuose ji\nribojosi su Sūduva, pietuose — su Mazovija, vakaruo­\nse — su Hokerlandija ir Varmija, o šiaurėje — su Barta.\nGalinda buvo viena seniausių provincijų, kitados nepa­\n254\n\n## Puslapis 265\n\nlyginti plačiau driekėsi į Mazovijos ir Polesės pusę; ji\nnusipelnė detalių senovės geografų tyrinėjimų. Galindų\ngentys nuo seno buvo gausios ir karingos, plačiai žino­\nmos, kai kurių žinių apie jas pateikėme šio veikalo pir­\nmame tome, skyriuje „Pranašystės“; čia ¡papasakosime\napie kitus žinomus dalykus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192662
+    - t-005
+
 - id: c-175433
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -419,7 +381,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192663
+    - t-006
+
 - id: c-177128
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -437,7 +400,9 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194732
+    - t-003
+    - t-007
+
 - id: c-179378
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -457,6 +422,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197879
+    - t-008
+
 ## Ryšiai
 - Puolė Galindą: [[objektai/grupes/Sūduviai]]

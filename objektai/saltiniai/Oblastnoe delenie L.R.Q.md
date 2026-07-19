@@ -38,7 +38,6 @@ iš Liubavski, Oblastnoe delenie L.R.Q.
 
 <a id="claim-t-36089"></a>
 - t-001
-  global_id: t-36089
   teiginys: "Liubavskio „Oblastnoe delenie L.R.Q.“ buvo išleista Maskvoje 1892 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,13 +67,11 @@ iš Liubavski, Oblastnoe delenie L.R.Q.
     (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
     Oblastnoe delenie L.R.Q. Moskva 1892, p. 321). 3
     ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist.
-  citata_rodoma: |
-    (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
-    Oblastnoe delenie L.R.Q. Moskva 1892, p. 321).
+  citata_rodoma: "(^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,\nOblastnoe delenie L.R.Q. Moskva 1892, p. 321)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36089
+    - t-001

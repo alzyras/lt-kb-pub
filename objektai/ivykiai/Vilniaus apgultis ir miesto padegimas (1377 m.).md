@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-54694"></a>
 - t-001
-  global_id: t-54694
   teiginys: "1377 m. birželio pabaigoje Gotfridas Lindenas ir Redigeris Elneris su 12 000 žmonių sustojo prie Vilniaus."
   atnaujinta: "2026-05-27 06:05"
   sprendimo_priezastis: "gap::events"
@@ -92,20 +91,11 @@ Nenurodyta
     1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­
     mis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo
     senasis Algirdas.
-  citata_rodoma: |
-    Pra­
-    ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­
-    no didysis magistras pasiuntė užimti tą miestą Ordino
-    maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu
-    Elneriu. 12 000 žmonių vedini, pakeliui sudeginę Trakų mies­
-    tą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti,
-    1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­
-    mis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo
-    senasis Algirdas.
+  citata_rodoma: "Pra­\nėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­\nno didysis magistras pasiuntė užimti tą miestą Ordino \nmaršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu \nElneriu. 12 000 žmonių vedini, pakeliui sudeginę Trakų mies­\ntą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti, \n1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­\nmis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo \nsenasis Algirdas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54694
+    - t-001

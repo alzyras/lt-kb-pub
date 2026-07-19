@@ -38,8 +38,7 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
 ## Teiginiai
 
 <a id="claim-t-87508"></a>
-- t-001
-  global_id: t-87508
+- t-002
   teiginys: "Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną su Redigeriu Elneriu užimti Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
     - c-83488
 
 <a id="claim-t-87509"></a>
-- t-002
-  global_id: t-87509
+- t-001
   teiginys: "Ordino maršalas Gotfridas Lindenas sudegino Semeliškes Trakų paviete ir, nepajėgęs staiga užimti Vilniaus, grįžo plėšti apylinkių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +97,8 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87509
+    - t-001
+
 - id: c-83488
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -120,4 +119,4 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87508
+    - t-002

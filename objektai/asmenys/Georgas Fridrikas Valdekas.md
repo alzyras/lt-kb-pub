@@ -31,7 +31,6 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
 
 <a id="claim-t-40122"></a>
 - t-001
-  global_id: t-40122
   teiginys: "Georgas Fridrikas Valdekas vadovavo maždaug 7000 švedų, brandenburgiečių ir prūsų karių jungtinei kariuomenei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
 
 <a id="claim-t-40123"></a>
 - t-002
-  global_id: t-40123
   teiginys: "Georgas Fridrikas Valdekas, gavęs žinią apie totorių kėlimąsi per upę šiauriau Prostkų, pasiuntė juos sulaikyti B. Radvilos kavaleriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +90,8 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40123
+    - t-002
+
 - id: c-44335
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -107,19 +106,11 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
     Radvilos raitelių, 1000 pėstininkų ir 2000
     Walenrodto vedamų pėstininkų. Iš viso
     apie 7000 karių.
-  citata_rodoma: |
-    Jungtinę olando gen.
-    Georgo Fridriko Valdeko vadovaujamą
-    švedų, brandenburgiečių ir prūsų ka-
-    riuomenę sudarė 3500 raitarų ir dra-
-    gūnų, 800 už švedus kariavusio Boguslavo
-    Radvilos raitelių, 1000 pėstininkų ir 2000
-    Walenrodto vedamų pėstininkų. Iš viso
-    apie 7000 karių.
+  citata_rodoma: "Jungtinę olando gen.\nGeorgo Fridriko Valdeko vadovaujamą\nšvedų, brandenburgiečių ir prūsų ka-\nriuomenę sudarė 3500 raitarų ir dra-\ngūnų, 800 už švedus kariavusio Boguslavo\nRadvilos raitelių, 1000 pėstininkų ir 2000\nWalenrodto vedamų pėstininkų. Iš viso\napie 7000 karių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40122
+    - t-001

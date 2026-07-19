@@ -31,7 +31,6 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
 
 <a id="claim-t-36637"></a>
 - t-001
-  global_id: t-36637
   teiginys: "Vytautas Uždauguvyje turėjo vietininkų mokesčiams rinkti, nors ten nebuvo jo dvarų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,19 +62,14 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
     Kadangi Vytauto laikais vyko persilaužimas tarp natūrali­
     nio ir piniginio ūkio, tai mokesčiai buvo mokami natūra ir pi­
     nigais.
-  citata_rodoma: |
-    Mokes­
-    čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo
-    dvarų, kaip Uždauguvio ir Padnieprės srityse.
-    Kadangi Vytauto laikais vyko persilaužimas tarp natūrali­
-    nio ir piniginio ūkio, tai mokesčiai buvo mokami natūra ir pi­
-    nigais.
+  citata_rodoma: "Mokes­\nčiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo\ndvarų, kaip Uždauguvio ir Padnieprės srityse.\nKadangi Vytauto laikais vyko persilaužimas tarp natūrali­\nnio ir piniginio ūkio, tai mokesčiai buvo mokami natūra ir pi­\nnigais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36637
+    - t-001
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Toloma]]

@@ -31,7 +31,6 @@ Narbutas mordvius mini kaip Rusijos gilumoje gyvenančią tautą, kurios mergait
 
 <a id="claim-t-189497"></a>
 - t-001
-  global_id: t-189497
   teiginys: "Narbutas mordvius mini kaip Rusijos gilumoje gyvenančią tautą, kurios mergaitės nešiojo įvairaus dydžio rutulinius varpelius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,6 +72,7 @@ Narbutas mordvius mini kaip Rusijos gilumoje gyvenančią tautą, kurios mergait
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189497
+    - t-001
+
 ## Ryšiai
 - Mordviai gyveno [[objektai/vietos/Rusija]], [[objektai/vietos/Rusijos giluma]]

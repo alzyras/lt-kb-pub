@@ -33,7 +33,6 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
 
 <a id="claim-t-36216"></a>
 - t-001
-  global_id: t-36216
   teiginys: "Kelionė iš Kauno tęsėsi Nemunu iki Dubysos upės, o Dubysa - iki Aukokalnio ties dabartine Betygala."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
 
 <a id="claim-t-36217"></a>
 - t-002
-  global_id: t-36217
   teiginys: "Vytautas liepė atnaujinti Dubysos ir Nemuno krantuose buvusias pilis ir atstatyti sudegintą Veliuoną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,18 +80,15 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
     gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
     ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
     vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
-  citata_rodoma: |
-    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
-    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
-    ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
-    vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
+  citata_rodoma: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­\ngijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir\nja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios\nvietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36216
+    - t-001
+
 - id: c-38484
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -109,16 +104,11 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
     vo praplėstos toliau į vakarus, apimdamos didesnius tikrų lie­
     tuviškų žemių plotus, kuriose vis didėjo Vytauto valdžia ir
     autoritetas.
-  citata_rodoma: |
-    Vytautas, norėdamas geriau
-    juose įsigalėti ir atstatyti Ordino nualintą kraštą, liepė atnaujin­
-    ti Dubysos ir Nemuno krantuose pilis ir atstatyti sudegintą Ve­
-    liuoną, kuri vėliau buvo mėgiamiausia Vytauto ir Ordino pa­
-    sitarimų vieta po Kauno arba Trakų.
+  citata_rodoma: "Vytautas, norėdamas geriau\njuose įsigalėti ir atstatyti Ordino nualintą kraštą, liepė atnaujin­\nti Dubysos ir Nemuno krantuose pilis ir atstatyti sudegintą Ve­\nliuoną, kuri vėliau buvo mėgiamiausia Vytauto ir Ordino pa­\nsitarimų vieta po Kauno arba Trakų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36217
+    - t-002

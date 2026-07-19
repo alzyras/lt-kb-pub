@@ -32,7 +32,6 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
 
 <a id="claim-t-192808"></a>
 - t-001
-  global_id: t-192808
   teiginys: "Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asgardu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
 
 <a id="claim-t-192809"></a>
 - t-002
-  global_id: t-192809
   teiginys: "Narbutas rašo, kad pats Asgarų kaimo neaplankė, bet girdėjo apie piliavietės liekanas ir kapus su skandinavų senovės iškasenomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
 
 <a id="claim-t-197849"></a>
 - t-003
-  global_id: t-197849
   teiginys: "Ji savo ruožtu įteka į Minijos upę, o prie jos žiočių yra kaimas, šiandien vadinamas Asgarais; čia neabejotinai buvo senovės Asgardas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -87,7 +84,6 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
 
 <a id="claim-t-197850"></a>
 - t-004
-  global_id: t-197850
   teiginys: "Beje, skandinavams priklau sančių ir jų pastatytų Asgardų ¡galėjo būti ir-daugiau, — mes neketiname tam prieštarauti1."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -119,7 +115,8 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192808
+    - t-001
+
 - id: c-175579
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -138,8 +135,9 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192809
-    - t-197850
+    - t-002
+    - t-004
+
 - id: c-179361
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -160,4 +158,4 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197849
+    - t-003

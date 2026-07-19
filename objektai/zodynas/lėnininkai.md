@@ -31,7 +31,6 @@ Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žm
 
 <a id="claim-t-36808"></a>
 - t-001
-  global_id: t-36808
   teiginys: "Į Vytauto kviestą susirinkimą atvyko ir pats Vytautas su gausybe lėnininkų, pasiuntinių, didikų ir kunigaikščių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,18 +61,11 @@ Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žm
     gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.
     Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
     čiai ir Hanzos atstovai.
-  citata_rodoma: |
-    Atvyko
-    Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas
-    su savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos
-    giminiete, — lydimi daugelio savo baronų; ir pats Vytautas su
-    gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.
-    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
-    čiai ir Hanzos atstovai.
+  citata_rodoma: "Atvyko\nJogaila su savo šimtais palydovų, Romos ciesorius Zigmantas\nsu savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos\ngiminiete, — lydimi daugelio savo baronų; ir pats Vytautas su\ngausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.\nBuvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­\nčiai ir Hanzos atstovai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36808
+    - t-001

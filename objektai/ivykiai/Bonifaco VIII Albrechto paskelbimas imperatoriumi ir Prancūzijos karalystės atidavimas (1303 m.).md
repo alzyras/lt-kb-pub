@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-62748"></a>
 - t-001
-  global_id: t-62748
   teiginys: "1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi ir jam atidavė Prancūzijos karalystę, bet Klemensas V tai atšaukė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai paremtas citatos duomenimis."
   pagrindžia:
     - c-63527
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi ir jam atidavė Prancūzijos karalystę, bet Klemensas V tai atšaukė.'
@@ -90,8 +89,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62748
+
 ## Citatos
 
 - id: c-63527
@@ -108,16 +106,11 @@ Nenurodyta
     Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
     95.
-  citata_rodoma: |
-    1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
-    imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
-    Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
-       Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
-    prarado labai daug užmuštaisiais (Ptol. p. 1223),
+  citata_rodoma: "1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,\nimperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė\nKlemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).\n   Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys\nprarado labai daug užmuštaisiais (Ptol. p. 1223),"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62748
+    - t-001

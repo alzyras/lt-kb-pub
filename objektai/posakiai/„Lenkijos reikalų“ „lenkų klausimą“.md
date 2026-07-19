@@ -38,7 +38,6 @@ sukilėlių neturėjo jokių galimybių laimėti, viltys, dėtos į valstiečių
 
 <a id="claim-t-20849"></a>
 - t-001
-  global_id: t-20849
   teiginys: "1863–1864 m. sukilėliai kariniu požiūriu neturėjo galimybių laimėti, o Vakarai nesiruošė lieti kraujo dėl „Lenkijos reikalų“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,12 +68,11 @@ sukilėlių neturėjo jokių galimybių laimėti, viltys, dėtos į valstiečių
     nesiruošė lieti kraujo dėl „Lenkijos reikalų“. Mūšiuose buvusios LDK te-
     ritorijoje žuvo per 6 tūkst. sukilėlių ir tik apie 320 Rusijos armijos karių.
     Į katorgą ir tremtį išsiųsta apie 25 tūkst. žmonių, daugiausia jaunų vyrų.
-  citata_rodoma: |
-    ti, viltys, dėtos į valstiečių sukilimą Rusijoje, tebuvo iliuzija, Vakarai irgi
+  citata_rodoma: "ti, viltys, dėtos į valstiečių sukilimą Rusijoje, tebuvo iliuzija, Vakarai irgi"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20849
+    - t-001

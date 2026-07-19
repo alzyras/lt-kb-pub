@@ -43,8 +43,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-80590"></a>
-- t-001
-  global_id: t-80590
+- t-008
   teiginys: "Žuvinto ežeras ir Palios buvo apsupti šarvuočių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -63,8 +62,7 @@ media_all_json: |-
     - c-77306
 
 <a id="claim-t-80591"></a>
-- t-002
-  global_id: t-80591
+- t-005
   teiginys: "Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -80,8 +78,7 @@ media_all_json: |-
     - c-44123
 
 <a id="claim-t-80592"></a>
-- t-003
-  global_id: t-80592
+- t-004
   teiginys: "Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -100,8 +97,7 @@ media_all_json: |-
     - c-77306
 
 <a id="claim-t-80594"></a>
-- t-004
-  global_id: t-80594
+- t-009
   teiginys: "Pritrūkę valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė Žuvinto ežeru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -117,8 +113,7 @@ media_all_json: |-
     - c-77305
 
 <a id="claim-t-80595"></a>
-- t-005
-  global_id: t-80595
+- t-006
   teiginys: "Per Žuvinto ežerą enkavėdistai plaukė iš kluonų durų pasidarytais plaustais."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -161,7 +156,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80591
+    - t-005
+
 - id: c-77305
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -181,8 +177,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80594
-    - t-80595
+    - t-009
+    - t-006
+
 - id: c-77306
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -217,37 +214,12 @@ media_all_json: |-
     Dar prieš Pirmąjį pasaulinį karą buvo sukurti šautuvai, kuriuose
     šūvio metu išsiskirianti parako dujų energija ne tik išstumdavo
     kulką iš vamzdžio, bet ir pertaisydavo spyną.
-  citata_rodoma: |
-    Žuvinto ežeras ir Palios buvo apsupti
-    šarvuočių. Lėktuvai raketų šūviais nuro-
-    dydavo įtartinas ežero vietas, o ginkluotų
-    kareivių pilnos valtys tuoj pat plaukdavo jų
-
-    Karas po karo
-
-    ## Puslapis 230
-
-    E
-    -
-    "a
-    a“
-    2
-    1
-    wy
-    st
-    a“
-    2
-
-    PUSIAU AUTOMATINIAI ŠAUTUVAI
-
-    Dar prieš Pirmąjį pasaulinį karą buvo sukurti šautuvai, kuriuose
-    šūvio metu išsiskirianti parako dujų energija ne tik išstumdavo
-    kulką iš vamzdžio, bet ir pertaisydavo spyną.
+  citata_rodoma: "Žuvinto ežeras ir Palios buvo apsupti\nšarvuočių. Lėktuvai raketų šūviais nuro-\ndydavo įtartinas ežero vietas, o ginkluotų\nkareivių pilnos valtys tuoj pat plaukdavo jų\n\nKaras po karo\n\n## Puslapis 230\n\nE\n-\n\"a\na“\n2\n1\nwy\nst\na“\n2\n\nPUSIAU AUTOMATINIAI ŠAUTUVAI\n\nDar prieš Pirmąjį pasaulinį karą buvo sukurti šautuvai, kuriuose\nšūvio metu išsiskirianti parako dujų energija ne tik išstumdavo\nkulką iš vamzdžio, bet ir pertaisydavo spyną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80590
-    - t-80592
+    - t-008
+    - t-004

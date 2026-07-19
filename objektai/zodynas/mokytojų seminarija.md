@@ -38,8 +38,7 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
 ## Teiginiai
 
 <a id="claim-t-72703"></a>
-- t-001
-  global_id: t-72703
+- t-003
   teiginys: "1864 m. Molodečne įsteigta mokytojų seminarija negalėjo parengti pakankamai mokytojų Lietuvos ir baltarusių švietimo apygardoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
 
 <a id="claim-t-72704"></a>
 - t-002
-  global_id: t-72704
   teiginys: "1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus ir dėstė lietuvių kalbą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
     - c-71083
 
 <a id="claim-t-72705"></a>
-- t-003
-  global_id: t-72705
+- t-001
   teiginys: "1872 m. Panevėžyje įsteigta mokytojų seminarija rengė mokytojus visai Lietuvai, išskyrus Užnemunę."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -116,7 +113,8 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72704
+    - t-002
+
 - id: c-71084
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -136,5 +134,5 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72703
-    - t-72705
+    - t-003
+    - t-001

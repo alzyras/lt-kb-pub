@@ -31,7 +31,6 @@ Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfi
 
 <a id="claim-t-87722"></a>
 - t-001
-  global_id: t-87722
   teiginys: "Jonui Jurgiui, Brandenburgo kurfiurstui, turėjo būti duoti du geri žirgai ir prašyta globoti paskutinę valią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87722
+    - t-001

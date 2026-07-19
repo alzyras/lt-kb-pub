@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-31481"></a>
 - t-001
-  global_id: t-31481
   teiginys: "Veliuonos suvažiavime taikos labui sutikta atsisakyti Klaipėdos su trijų mylių ruožu nuo jūros."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,6 @@ Nenurodyta
 
 <a id="claim-t-31482"></a>
 - t-002
-  global_id: t-31482
   teiginys: "Veliuonoje susitarimo nepasiekta, nes Ordinas tikėjosi naudos iš Romos tarpininkavimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,6 @@ Nenurodyta
 
 <a id="claim-t-184342"></a>
 - t-003
-  global_id: t-184342
   teiginys: "Veliuonoje aptartas naujos sienos projektas po dvejų metų buvo priimtas prie Melno ežero."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -125,7 +122,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31482
+    - t-002
+
 - id: c-33433
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -136,18 +134,15 @@ Nenurodyta
     ko «taikos labui » (« propter bonum pacis ») atsisakyti nuo Klai­
     pėdos su trijų mylių ruožu nuo jūros^30. Tai reiškė projektą naujos
     sienos, kuri už dvejų metų buvo priimta prie Melno ežero.
-  citata_rodoma: |
-    Kryžiuočiams laikantis savo, kunigaikštis suti­
-    ko «taikos labui » (« propter bonum pacis ») atsisakyti nuo Klai­
-    pėdos su trijų mylių ruožu nuo jūros^30. Tai reiškė projektą naujos
-    sienos, kuri už dvejų metų buvo priimta prie Melno ežero.
+  citata_rodoma: "Kryžiuočiams laikantis savo, kunigaikštis suti­\nko «taikos labui » (« propter bonum pacis ») atsisakyti nuo Klai­\npėdos su trijų mylių ruožu nuo jūros^30. Tai reiškė projektą naujos\nsienos, kuri už dvejų metų buvo priimta prie Melno ežero."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31481
+    - t-001
+
 - id: c-167712
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -165,4 +160,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184342
+    - t-003

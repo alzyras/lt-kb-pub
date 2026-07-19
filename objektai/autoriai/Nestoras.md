@@ -40,7 +40,6 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
 
 <a id="claim-t-191529"></a>
 - t-001
-  global_id: t-191529
   teiginys: "Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Choryvą, susiliejusį su žiniomis apie senovės Kijevą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     - c-174411
 
 <a id="claim-t-191531"></a>
-- t-002
-  global_id: t-191531
+- t-003
   teiginys: "Narbutas Nestorą vadino pirmuoju jam žinomu originaliu istoriku, paminėjusiu Lietuvą 860 metais ar kiek vėliau."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     - c-174413
 
 <a id="claim-t-191532"></a>
-- t-003
-  global_id: t-191532
+- t-004
   teiginys: "Narbutas rašė, kad Nestoras išsaugojo nepilną aprašomos tautos gyvenimo paveikslą, įskaitant mirusiųjų deginimą ir urnas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     - c-174414
 
 <a id="claim-t-191533"></a>
-- t-004
-  global_id: t-191533
+- t-005
   teiginys: "Nestoro pasakojime, kaip jį perteikia Narbutas, 859 metais variagai paskyrė kailių duoklę ir krivičiams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -123,8 +119,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     - c-174415
 
 <a id="claim-t-191535"></a>
-- t-006
-  global_id: t-191535
+- t-007
   teiginys: "Iš Nestoro, per Karamziną, Narbutui buvo žinoma, kad Kijevo slėnis anksčiau buvo užlietas vandens, o Dnepras tekėjo kita kryptimi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -142,12 +137,11 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174417
-    - c-006
+
 <a id="claim-t-194669"></a>
-- t-005
-  global_id: t-194669
+- t-009
   teiginys: "Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Kuronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va dina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali nis pavadinimas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -157,8 +151,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     - c-177066
 
 <a id="claim-t-197629"></a>
-- t-007
-  global_id: t-197629
+- t-010
   teiginys: "Tačiau jis prieštarauja sau ir savo tiksliai išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai riojoje Dnepro pakrantėje, į rytus nuo jo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -170,8 +163,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     - c-179268
 
 <a id="claim-t-197630"></a>
-- t-008
-  global_id: t-197630
+- t-011
   teiginys: "Be to, reikia pridurti nors ir nepilną, tačiau Nestoro išsaugotą jų gyvenimo paveikslą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -202,10 +194,9 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     veik neįskaitomas slavų istorijos puslapis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-006
   santrauka: 'Iš Nestoro, per Karamziną, Narbutui buvo žinoma, kad Kijevo slėnis anksčiau buvo užlietas vandens, o Dnepras tekėjo kita kryptimi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -217,11 +208,9 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     vandens, Dnepras tekėjo kita kryptimi (Karamzin. T. 1. Nota 523).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191535
+  statusas: verified
 - c-007
   santrauka: 'Narbutas nurodė, kad Abulfedas ir Nestoras jūrai vartojo pavadinimą „Wariazskoje More“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -242,10 +231,10 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     džiame.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+
 ## Citatos
 
 - id: c-174411
@@ -267,7 +256,8 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191529
+    - t-001
+
 - id: c-174413
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -290,7 +280,8 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191531
+    - t-003
+
 - id: c-174414
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -312,8 +303,9 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191532
-    - t-197630
+    - t-004
+    - t-011
+
 - id: c-174415
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -336,7 +328,8 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191533
+    - t-005
+
 - id: c-174417
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -358,19 +351,15 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     arba vidinės priežasties; tai turėjo sukelti didelius šių
     1 Iš Nestoro žinoma, kad Kijevo slėnis seniau buvo užlietas
     vandens, Dnepras tekėjo kita kryptimi (Karamzin.
-  citata_rodoma: |
-    Vietiniai kairiosios Dnepro pakrantės prie Ki­
-    jevo stebėjimai rodo, kad ten judėjo žemės dėl drebėjimo
-    arba vidinės priežasties; tai turėjo sukelti didelius šių
-    1 Iš Nestoro žinoma, kad Kijevo slėnis seniau buvo užlietas
-    vandens, Dnepras tekėjo kita kryptimi (Karamzin. T. 1. Nota 523).
+  citata_rodoma: "Vietiniai kairiosios Dnepro pakrantės prie Ki­\njevo stebėjimai rodo, kad ten judėjo žemės dėl drebėjimo\narba vidinės priežasties; tai turėjo sukelti didelius šių\n1 Iš Nestoro žinoma, kad Kijevo slėnis seniau buvo užlietas\nvandens, Dnepras tekėjo kita kryptimi (Karamzin. T. 1. Nota 523)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191535
+    - t-007
+
 - id: c-177066
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -383,19 +372,15 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     Komovės šventykloje.
     Prūsijos kronikininkai spėja, kad tai buvo sudievintas Pru-
     lenis, taip pat sudievinto Vaidevučio brolis, vadintas Viršai­
-  citata_rodoma: |
-    Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­
-    mę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-
-    ronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va­
-    dina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali­
-    nis pavadinimas.
+  citata_rodoma: "Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­\nmę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-\nronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va­\ndina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali­\nnis pavadinimas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194669
+    - t-009
+
 - id: c-179268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -418,4 +403,4 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197629
+    - t-010

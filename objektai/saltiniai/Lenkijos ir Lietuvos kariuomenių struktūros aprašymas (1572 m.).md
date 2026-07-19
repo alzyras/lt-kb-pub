@@ -40,7 +40,6 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
 
 <a id="claim-t-78858"></a>
 - t-001
-  global_id: t-78858
   teiginys: "Radvilos reidas „paralyžiavo“ Rusijos kariuomenę."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
 
 <a id="claim-t-78859"></a>
 - t-002
-  global_id: t-78859
   teiginys: "1572 m. Lenkijos ir Lietuvos kariuomenių struktūros aprašyme teigiama, kad kiekvienas vaivada buvo viršiausias tarp savųjų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +103,8 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78858
+    - t-001
+
 - id: c-75987
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -122,22 +121,11 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
     vadovauja dviem šimtams pėstininkų, o kai kurie - trim šimtams;
 
     Gardino vaizdas.
-  citata_rodoma: |
-    1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
-    didesnė dalis Livonijos tapo Lietuvos dalimi
-
-    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
-    Lietuvos kariuomenių struktūrą:
-
-    „Kiekvienas vaivada tarp savų viršiausias; kavalerija turi po kapitoną [Capitano] šim-
-    tui raitininkų ir dviems šimtams vėliavininką; kiekvienas pėstininkų kapitonas paprastai
-    vadovauja dviem šimtams pėstininkų, o kai kurie - trim šimtams;
-
-    Gardino vaizdas.
+  citata_rodoma: "1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,\ndidesnė dalis Livonijos tapo Lietuvos dalimi\n\nIštrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir\nLietuvos kariuomenių struktūrą:\n\n„Kiekvienas vaivada tarp savų viršiausias; kavalerija turi po kapitoną [Capitano] šim-\ntui raitininkų ir dviems šimtams vėliavininką; kiekvienas pėstininkų kapitonas paprastai\nvadovauja dviem šimtams pėstininkų, o kai kurie - trim šimtams;\n\nGardino vaizdas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78859
+    - t-002

@@ -30,7 +30,6 @@ Mnišek „RAUPSUOTOJI” (Trędowata) trijose dalyse vertė P.
 
 <a id="claim-t-96065"></a>
 - t-001
-  global_id: t-96065
   teiginys: "E. Mnišek „Raupsuotoji“ lietuviškai išleista trimis dalimis, ją vertė P. Jurgelevičius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Mnišek „RAUPSUOTOJI” (Trędowata) trijose dalyse vertė P.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96065
+    - t-001

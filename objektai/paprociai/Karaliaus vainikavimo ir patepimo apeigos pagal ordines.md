@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-97128"></a>
-- t-001
-  global_id: t-97128
+- t-003
   teiginys: "Zigmanto teisininkų delegacija aiškino Vytautui, kad karaliaus vainikavimui popiežiaus sutikimas nereikalingas."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-31413
 
 <a id="claim-t-97129"></a>
-- t-002
-  global_id: t-97129
+- t-005
   teiginys: "Zigmantas įrodinėjo, kad Vytautui vainiką gali suteikti ir Romoje nevainikuotas imperatorius, remdamasis karalių vainikavimu be patepimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-31414
 
 <a id="claim-t-97130"></a>
-- t-003
-  global_id: t-97130
+- t-004
   teiginys: "Zigmantas teigė, kad Vytautui karaliaus vainiką galėjo suteikti ir Romoje nevainikuotas imperatorius."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -108,8 +105,7 @@ Nenurodyta
     - c-31414
 
 <a id="claim-t-97131"></a>
-- t-004
-  global_id: t-97131
+- t-001
   teiginys: "Pagal ordines vainikuotas ir šventais aliejais pateptas valdovas turėjo prisidėti prie Kristaus karalystės platinimo žemėje."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -118,8 +114,7 @@ Nenurodyta
     - c-91644
 
 <a id="claim-t-97132"></a>
-- t-005
-  global_id: t-97132
+- t-006
   teiginys: "Pagal ordines vainikuotas ir šventais aliejais pateptas krikščioniškas valdovas turėjo platinti tikėjimą ir ginti Bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,8 +123,7 @@ Nenurodyta
     - c-91645
 
 <a id="claim-t-97133"></a>
-- t-006
-  global_id: t-97133
+- t-002
   teiginys: "Pačios karūnavimo apeigos skaitėsi sakramentu."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -163,7 +157,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97133
+    - t-002
+
 - id: c-31413
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -180,7 +175,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97128
+    - t-003
+
 - id: c-31414
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -195,20 +191,16 @@ Nenurodyta
     jis pats. Cigalos delegacija turėjo sugriauti tezes, kurias savo trak­
     tate buvo iškėlę Krokuvos profesoriai, įrodinėdami, jog Zigmantas
     neturįs teisės niekam suteikti vainiko.
-  citata_rodoma: |
-    Nurodydamas eilę pavyzdžių,
-    kur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­
-    pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui
-    vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t. y.
-    jis pats.
+  citata_rodoma: "Nurodydamas eilę pavyzdžių,\nkur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­\npimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui\nvainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t. y.\njis pats."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97129
-    - t-97130
+    - t-005
+    - t-004
+
 - id: c-91644
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -229,7 +221,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97131
+    - t-001
+
 - id: c-91645
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -243,18 +236,11 @@ Nenurodyta
     Pačios karūnavimo apeigos skaitėsi sakramentu. Tad ir karališkoji
     diadema turėjo ypatingos sakralinės reikšmės : ji įpareigojo ne tik
     tikėjimą skleisti, bet dar ir pačią Bažnyčią ginti.
-  citata_rodoma: |
-    «ordines », vaini­
-    kuojamas karaliumi ir patepamas šventais aliejais^10 , tai tokio
-    naujo, kaip tada nuolat sakyta, «iš Dievo malonės », krikščioniško
-    valdovo pareiga buvo prisidėti platinti Kristaus karalystę žemėje.
-    Pačios karūnavimo apeigos skaitėsi sakramentu. Tad ir karališkoji
-    diadema turėjo ypatingos sakralinės reikšmės : ji įpareigojo ne tik
-    tikėjimą skleisti, bet dar ir pačią Bažnyčią ginti.
+  citata_rodoma: "«ordines », vaini­\nkuojamas karaliumi ir patepamas šventais aliejais^10 , tai tokio\nnaujo, kaip tada nuolat sakyta, «iš Dievo malonės », krikščioniško\nvaldovo pareiga buvo prisidėti platinti Kristaus karalystę žemėje.\nPačios karūnavimo apeigos skaitėsi sakramentu. Tad ir karališkoji\ndiadema turėjo ypatingos sakralinės reikšmės : ji įpareigojo ne tik\ntikėjimą skleisti, bet dar ir pačią Bažnyčią ginti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97132
+    - t-006

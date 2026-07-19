@@ -37,8 +37,7 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
 ## Teiginiai
 
 <a id="claim-t-67533"></a>
-- t-001
-  global_id: t-67533
+- t-002
   teiginys: "1991 m. sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
     - c-67401
 
 <a id="claim-t-183383"></a>
-- t-002
-  global_id: t-183383
+- t-003
   teiginys: "Maskva grasino Lietuvai teritorinėmis priemonėmis, jeigu ji nesilaikys SSRS konstitucijos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -96,15 +94,15 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
     sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
     pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galioji-
     mą.
-  citata_rodoma: |
-    sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
+  citata_rodoma: "sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67533
+    - t-002
+
 - id: c-166776
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -133,4 +131,4 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183383
+    - t-003

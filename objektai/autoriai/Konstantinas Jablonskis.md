@@ -37,8 +37,7 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 ## Teiginiai
 
 <a id="claim-t-179506"></a>
-- t-001
-  global_id: t-179506
+- t-003
   teiginys: "Konstantinas Jablonskis 1960 m. suredagavo ir išleido 1529 m. Lietuvos Statutą „Statut Velikogo Knjažestva Litovskogo“."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 
 <a id="claim-t-179507"></a>
 - t-002
-  global_id: t-179507
   teiginys: "Konstantinas Jablonskis sudarė pirmąjį rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
     - c-30654
 
 <a id="claim-t-179508"></a>
-- t-003
-  global_id: t-179508
+- t-001
   teiginys: "Konstantinas Jablonskis iš senosios Lietuvos valstybės raštinių kalbos išrinko 299 lietuviškus žodžius ir 1941 m. išleido šaltinių ištraukų rinkinį."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -114,7 +111,8 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179507
+    - t-002
+
 - id: c-30655
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -136,7 +134,8 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179506
+    - t-003
+
 - id: c-163200
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -157,4 +156,4 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179508
+    - t-001

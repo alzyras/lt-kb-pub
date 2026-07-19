@@ -46,29 +46,20 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
 ## Teiginiai
 
 <a id="claim-t-182832"></a>
-- t-001
-  global_id: t-182832
+- t-032
   teiginys: "Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kristijonas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mazovija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kristijonas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mazovija\" parinktas kaip owner_note_path. Targetas \"Kristijonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: po 1222 m.; įvykio data: 1222 m."
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-166238
+    - c-167567
 
 <a id="claim-t-183862"></a>
-- t-002
-  global_id: t-183862
+- t-033
   teiginys: "1323 m. Vilniuje duotame laiške skelbta, kad per Mazovijos kunigaikščio Boleslavo valdas galima saugiai atvykti į Lietuvą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -91,8 +82,7 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     - c-167247
 
 <a id="claim-t-183863"></a>
-- t-003
-  global_id: t-183863
+- t-034
   teiginys: "Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, kaimyninė Mazovija ir artimos apylinkės."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -112,8 +102,7 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     - c-167248
 
 <a id="claim-t-183864"></a>
-- t-004
-  global_id: t-183864
+- t-035
   teiginys: "Balińskis užuominą apie saugų kelią per Mazoviją laikė svarbiu Gedimino laiškų netikrumo įrodymu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -132,8 +121,7 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     - c-167249
 
 <a id="claim-t-184182"></a>
-- t-005
-  global_id: t-184182
+- t-036
   teiginys: "„Pranešime...“ minimas pagonių brovimasis į Mazovijos kunigaikščio Konrado valdas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -152,10 +140,9 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     - c-167567
 
 <a id="claim-t-184183"></a>
-- t-006
-  global_id: t-184183
+- t-037
   teiginys: "Prūsijos žemę iš vienos pusės ribojo Mazovijos kunigaikštystė."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -172,8 +159,7 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     - c-167568
 
 <a id="claim-t-185043"></a>
-- t-007
-  global_id: t-185043
+- t-038
   teiginys: "Kojelavičiaus pasakojime 1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją dėl grobio ir užėmė Pultuską."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -197,8 +183,7 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     - c-168404
 
 <a id="claim-t-185044"></a>
-- t-008
-  global_id: t-185044
+- t-039
   teiginys: "Kojelavičiaus pasakojime Jogaila patraukė prieš Mazovijos kunigaikštį Jonušą ir iš keršto nuniokojo Mazoviją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -219,8 +204,7 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     - c-168405
 
 <a id="claim-t-196717"></a>
-- t-010
-  global_id: t-196717
+- t-041
   teiginys: "Kojelavičiaus pasakojime lietuviai, žygiuodami per Mazoviją kaip Konrado sąjungininkai, ėmė grobstyti ir vėliau užėmė Sochačevo bei Plocko apygardas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -233,8 +217,7 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     - c-178863
 
 <a id="claim-t-196718"></a>
-- t-011
-  global_id: t-196718
+- t-042
   teiginys: "Kojelavičiaus pasakojime Gediminas apie rugsėjo vidurį patraukė į Mazoviją ir Dobrynę, jas nusiaubė ir be kovos parvedė kariuomenę į Lietuvą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -247,8 +230,7 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     - c-178864
 
 <a id="claim-t-197894"></a>
-- t-012
-  global_id: t-197894
+- t-043
   teiginys: "Ten juos pažino Divonis; juos valdė kažkoks Mazovijos slavų ka raliukas ar viršininkas, vadinamas Masosu, kuriam jie mo kėjo duoklę vaikais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -258,18 +240,6 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179386
-
-<a id="claim-t-188771"></a>
-- t-009
-  global_id: t-188771
-  teiginys: 'Narbutas pasakojo, kad pranašė paskelbė dievų valią be ginklų pulti Mazoviją, kur esą laukė didelis laimikis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Legendinis ir religinis motyvas suformuluotas kaip Narbuto pasakojimas. Nepridėtas vėlesnis plėšimo ir grįžimo su grobiu epizodas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]'
-  pagrindžia:
-    - c-009
 - susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-191002|Ziemovitas]]: Ziemovitas valdė Mazoviją.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89381|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę ginti Mazovijos.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190991|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vaizduoja kaip valdovą, rengusį plėšikiškus žygius į Lenkiją, Rusią ir Mazoviją bei tironiškai elgusįsi su valdiniais.
@@ -569,11 +539,9 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     baisiai ten siautėjo ir buvo begrįžtą su neapsakomu grobiu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188771
+  statusas: verified
 ## Citatos
 
 - id: c-166238
@@ -585,17 +553,13 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     Šių etninių poslinkių chronologija nėra pakankamai aiški (HP, 1, 1, p. 290—291 — Labuda
     G.). XIII a., kryžiuočių atsikraustymo į pavyslį išvakarėse, Kulmo žemė vėl buvo prūsų
     rankose (D. II, 1; III, 7).
-  citata_rodoma: |
-    Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino
-    XIII a. 3—4 dešimtmečiais vyskupo Kristijono misijos bei kryžiuočių įkurdinimo šiame
-    regione metu. Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda.
+  citata_rodoma: "Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino\nXIII a. 3—4 dešimtmečiais vyskupo Kristijono misijos bei kryžiuočių įkurdinimo šiame\nregione metu. Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-182832
 - id: c-167247
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -614,7 +578,8 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183862
+    - t-033
+
 - id: c-167248
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -636,7 +601,8 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183863
+    - t-034
+
 - id: c-167249
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -658,7 +624,8 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183864
+    - t-035
+
 - id: c-167567
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -674,7 +641,9 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184182
+    - t-032
+    - t-036
+
 - id: c-167568
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -687,20 +656,15 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
     e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
     (X a. vidurys — XII—XIII a. sandūra), sunaikinta prūsų.
-  citata_rodoma: |
-    2. Prūsijos žemės aprašymas
-
-       Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,
-    Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo
-    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
-    bei Pomeraniją nuo Prūsijos186.
+  citata_rodoma: "2. Prūsijos žemės aprašymas\n\n   Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,\nMazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184183
+    - t-037
+
 - id: c-168404
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -734,37 +698,15 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     supta miesto degėsių, pati
     užsidegė, o įgula nepajėgė kovoti su liepsna; vėliau
     užgrobė visą kraštą, kurį kareiviai smarkiai nusiaubė.
-  citata_rodoma: |
-    Mat, nors visą Belzo
-    kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­
-    lės kunigaikščiui Aleksandrui Narimantaičiui atidavė
-    Volynę, tačiau abi šias žemes atidavė su ta sąlyga,
-    kad aukščiausią galią į Rusią turėsiąs Lenkijos kara­
-    lius, o pilis, miestus bei įgulas tvarkysią lenkų skirti
-    vietininkai. Gal supykę dėl šios lenkų padarytos skriau­
-    dos, gal dėl to, kad žmonė-
-    1367 m e ta i
-    se pasklido kalbos, jog, Po­
-    locko vyskupo patarti, kry­
-    žiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar­
-    das, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją
-    pasiplėšti grobio. Staigiai puldami, jie užėmė Pultus-
-    ką, svarbų miestą, priklau-
-    L ie tu v ia i
-    su d eg in a
-    siusį popiežiui; užkariavo ir
-    P u ltu sk ą
-    pilį, kuri, iš visų pusių ap­
-    supta miesto degėsių, pati
-    užsidegė, o įgula nepajėgė kovoti su liepsna; vėliau
-    užgrobė visą kraštą, kurį kareiviai smarkiai nusiaubė.
+  citata_rodoma: "Mat, nors visą Belzo\nkunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­\nlės kunigaikščiui Aleksandrui Narimantaičiui atidavė\nVolynę, tačiau abi šias žemes atidavė su ta sąlyga,\nkad aukščiausią galią į Rusią turėsiąs Lenkijos kara­\nlius, o pilis, miestus bei įgulas tvarkysią lenkų skirti\nvietininkai. Gal supykę dėl šios lenkų padarytos skriau­\ndos, gal dėl to, kad žmonė-\n1367 m e ta i\nse pasklido kalbos, jog, Po­\nlocko vyskupo patarti, kry­\nžiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar­\ndas, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją\npasiplėšti grobio. Staigiai puldami, jie užėmė Pultus-\nką, svarbų miestą, priklau-\nL ie tu v ia i\nsu d eg in a\nsiusį popiežiui; užkariavo ir\nP u ltu sk ą\npilį, kuri, iš visų pusių ap­\nsupta miesto degėsių, pati\nužsidegė, o įgula nepajėgė kovoti su liepsna; vėliau\nužgrobė visą kraštą, kurį kareiviai smarkiai nusiaubė."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185043
+    - t-038
+
 - id: c-168405
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -792,30 +734,15 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
     klysdami, o gal tikrai žino­
     dami, jog šitaip iš tikrųjų
     buvo.
-  citata_rodoma: |
-    Tuo
-    tarpu Jogaila, atsikratęs rū­
-    pesčių dėl šio karo, ėmėsi kitų darbų. Iš pradžių jis
-    su kariuomene patraukė prieš Jonušą, Mazovijos ku­
-    nigaikštį; iš keršto kaip beįmanydamas nuniokojęs
-    Mazoviją, perkėlė siaubiančius pulkus į Sandomirą,
-    lenkų žemę. Apie šį karą su lenkais nieko nepasakoja
-    Kromeris, tačiau, kad kas nepasigestų to, ką aprašo
-    daugelis rusų metraštininkų, mūsų Strijkovskis pasi­
-    stengė, kad skaitytojas suži-
-    J o g a ilo s ž y g is  j M a-
-    notų, ką šie surašė — gal
-    z o v iją  ir L en k iją
-    klysdami, o gal tikrai žino­
-    dami, jog šitaip iš tikrųjų
-    buvo.
+  citata_rodoma: "Tuo\ntarpu Jogaila, atsikratęs rū­\npesčių dėl šio karo, ėmėsi kitų darbų. Iš pradžių jis\nsu kariuomene patraukė prieš Jonušą, Mazovijos ku­\nnigaikštį; iš keršto kaip beįmanydamas nuniokojęs\nMazoviją, perkėlė siaubiančius pulkus į Sandomirą,\nlenkų žemę. Apie šį karą su lenkais nieko nepasakoja\nKromeris, tačiau, kad kas nepasigestų to, ką aprašo\ndaugelis rusų metraštininkų, mūsų Strijkovskis pasi­\nstengė, kad skaitytojas suži-\nJ o g a ilo s ž y g is  j M a-\nnotų, ką šie surašė — gal\nz o v iją  ir L en k iją\nklysdami, o gal tikrai žino­\ndami, jog šitaip iš tikrųjų\nbuvo."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185044
+    - t-039
+
 - id: c-178863
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -846,7 +773,8 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196717
+    - t-041
+
 - id: c-178864
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -880,7 +808,8 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196718
+    - t-042
+
 - id: c-179386
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -902,7 +831,8 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197894
+    - t-043
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Konradas]]
 - Buvo valdoma: [[objektai/asmenys/Ziemovitas]]

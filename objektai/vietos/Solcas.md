@@ -31,7 +31,6 @@ Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio
 
 <a id="claim-t-86238"></a>
 - t-001
-  global_id: t-86238
   teiginys: "Karališkoji didenybė vyko į Solcą, į Lietuvos pataurininkio vestuves."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,14 +57,11 @@ Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio
     Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­
     vos pataurininkio vestuves, būdamas Liubline, išleidau lie­
     tuviškoms monetoms 7 flor., 4 grašius, 2 liet. denarus.
-  citata_rodoma: |
-    Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­
-    vos pataurininkio vestuves, būdamas Liubline, išleidau lie­
-    tuviškoms monetoms 7 flor., 4 grašius, 2 liet. denarus.
+  citata_rodoma: "Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­\nvos pataurininkio vestuves, būdamas Liubline, išleidau lie­\ntuviškoms monetoms 7 flor., 4 grašius, 2 liet. denarus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86238
+    - t-001

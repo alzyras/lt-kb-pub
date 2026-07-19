@@ -30,7 +30,6 @@ Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir
 
 <a id="claim-t-192913"></a>
 - t-001
-  global_id: t-192913
   teiginys: "Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir Bogončavo apylinkes Dono ir Doneco tarpupyje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -88,6 +87,7 @@ Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192913
+    - t-001
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Budinai]]

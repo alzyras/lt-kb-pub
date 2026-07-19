@@ -43,47 +43,6 @@ Vartojama lyginamojoje kalbotyroje ir tautos kilmės argumente.
 
 Žodis čia gana bendras, bet svarbus kaip kalbotyrinis terminas tautos kilmės aiškinime.
 
-## Teiginiai
-
-<a id="claim-t-192143"></a>
-- t-001
-  global_id: t-192143
-  teiginys: "Narbutas svarbiausiais lyginamais dialektais vadina senovės prūsų, lietuvių ir latvių dialektus."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "dialektai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"dialektai\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  pagrindžia:
-    - c-175030
-    - c-001
-<a id="claim-t-192144"></a>
-- t-002
-  global_id: t-192144
-  teiginys: "Narbutas trijų dialektų palyginimą naudoja lietuvių genties vietai tautos lopšio atžvilgiu aiškinti."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Latviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "dialektai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Latviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"dialektai\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  pagrindžia:
-    - c-175030
-    - c-001
-- susijęs iš [[objektai/zodynas/upė.md#claim-t-192230|upė]]: Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme.
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -105,9 +64,8 @@ Vartojama lyginamojoje kalbotyroje ir tautos kilmės argumente.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192143
-    - t-192144
+- t-192144
+
 ## Citatos
 
 - id: c-175030
@@ -131,17 +89,51 @@ Vartojama lyginamojoje kalbotyroje ir tautos kilmės argumente.
     knygos, kuri, kaip įvadas į kitas, išdėstys įžangines ži­
     nias, reikalingas tęsiniui istorijos, būsiančios kitose kny­
     gose.
-  citata_rodoma: |
-    Mes pasisakome už pono Kepeno požiū-
-    rį: lyginant tris svarbiausius dialektus — senovės prūsų,
-    lietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­
-    čytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­
-    tyje arba kad ši gentis buvo arčiausia prie šio lopšio1.
+  citata_rodoma: "Mes pasisakome už pono Kepeno požiū-\nrį: lyginant tris svarbiausius dialektus — senovės prūsų,\nlietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­\nčytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­\ntyje arba kad ši gentis buvo arčiausia prie šio lopšio1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192143
-    - t-192144
+    - t-001
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-192143"></a>
+- t-001
+  teiginys: "Narbutas svarbiausiais lyginamais dialektais vadina senovės prūsų, lietuvių ir latvių dialektus."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "dialektai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"dialektai\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175030
+
+<a id="claim-t-192144"></a>
+- t-002
+  teiginys: "Narbutas trijų dialektų palyginimą naudoja lietuvių genties vietai tautos lopšio atžvilgiu aiškinti."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "dialektai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"dialektai\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175030
+- susijęs iš [[objektai/zodynas/upė.md#claim-t-192230|upė]]: Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme.

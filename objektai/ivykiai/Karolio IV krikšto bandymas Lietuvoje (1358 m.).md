@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-31426"></a>
 - t-001
-  global_id: t-31426
   teiginys: "Lietuvos kunigaikščiai krikštui kėlė sąlygą, kad kryžiuočių ordinas grąžintų užimtas žemes tarp Alnos, Priegliaus ir Dauguvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,15 +87,11 @@ Nenurodyta
     aiškias sąlygas. Kaip ir 1351 m., buvo reikalaujama, kad kryžiuo­
     čių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­
     liaus ir Dauguvos.
-  citata_rodoma: |
-    Pagonys kunigaikščiai krikštui priimti tačiau pastatė savo
-    aiškias sąlygas. Kaip ir 1351 m., buvo reikalaujama, kad kryžiuo­
-    čių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­
-    liaus ir Dauguvos.
+  citata_rodoma: "Pagonys kunigaikščiai krikštui priimti tačiau pastatė savo\naiškias sąlygas. Kaip ir 1351 m., buvo reikalaujama, kad kryžiuo­\nčių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­\nliaus ir Dauguvos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31426
+    - t-001

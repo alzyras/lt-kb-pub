@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-185888"></a>
 - t-001
-  global_id: t-185888
   teiginys: "Jogaila prisiekė laikytis žodžio, o Skirgaila pasižadėjo rūpintis Kęstučio saugumu, kai Kęstutis buvo kviečiamas į Jogailos stovyklą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -66,7 +65,6 @@ Nenurodyta
 
 <a id="claim-t-196315"></a>
 - t-002
-  global_id: t-196315
   teiginys: "Jogaila pasiuntė Skirgailą viešai prisiekti dievais ir Jogailos vardu pažadėti saugumą bei neliečiamybę taikos derybininkams tarp karo stovyklų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -110,5 +108,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185888
-    - t-196315
+    - t-001
+    - t-002

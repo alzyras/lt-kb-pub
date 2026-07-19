@@ -7,10 +7,10 @@ datos:
   - '1639 m.'
 date_start: '1639'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-202008"></a>
 - t-001
-  global_id: t-202008
   teiginys: "Štai tikrai ne 1639 m. buvo išskirtos 3 Kauno pirklių kategorijos."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-202009"></a>
 - t-002
-  global_id: t-202009
   teiginys: "Numanu, kad visais šiais atvejais galvoje buvo turima didmeninė prekyba, eksporto prekių siuntų formavimas ar įvežtų prekių realizavimas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-202010"></a>
 - t-003
-  global_id: t-202010
   teiginys: "Todėl, pakartojant ankstesnes valdovų patvirtintas prekybos taisykles, buvo reikalaujama, kad Kauno pirkliai nesiuntinėtų savo padėjėjų ir samdinių į turgų supirkinėti prekių, tai daryti turėjo jie patys."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -85,6 +82,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185357
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -104,7 +104,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202008
+    - t-001
 
 - id: c-185356
   autorius: "Zigmantas Kiaupa"
@@ -123,7 +123,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202009
+    - t-002
 
 - id: c-185357
   autorius: "Zigmantas Kiaupa"
@@ -142,4 +142,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202010
+    - t-003

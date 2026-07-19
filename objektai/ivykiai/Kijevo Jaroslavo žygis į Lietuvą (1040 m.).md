@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-47770"></a>
-- t-001
-  global_id: t-47770
+- t-003
   teiginys: "Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą, bet jo eiga metraštyje neaprašyta."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-04987
 
 <a id="claim-t-47771"></a>
-- t-002
-  global_id: t-47771
+- t-005
   teiginys: "XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -96,8 +94,7 @@ Nenurodyta
     - c-04987
 
 <a id="claim-t-47772"></a>
-- t-003
-  global_id: t-47772
+- t-004
   teiginys: "Ivinskio vertinimu, 1040 m. Jaroslavo žygis į Lietuvą rodo, kad lietuviai tuo metu nepripažino Kijevo viršenybės."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -131,19 +128,16 @@ Nenurodyta
     «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m.
     darė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­
     kyta.
-  citata_rodoma: |
-    Štai, XII amž. pradžioje surašyta
-    «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m.
-    darė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­
-    kyta.
+  citata_rodoma: "Štai, XII amž. pradžioje surašyta\n«Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m.\ndarė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­\nkyta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47770
-    - t-47771
+    - t-003
+    - t-005
+
 - id: c-04988
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -161,4 +155,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47772
+    - t-004

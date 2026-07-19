@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-200706"></a>
 - t-001
-  global_id: t-200706
   teiginys: "1751 m. Jonas Dominykas Lopacinskis su architektu nuolat diskutavo dėl savo giminės rezidencijos statybos kaštų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "auto"
@@ -85,8 +84,5 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200706
+    - t-001

@@ -31,7 +31,6 @@ Sambijos vyskupas Henrikas sutartimi perleido Vitlandsorto valdas Ordinui už at
 
 <a id="claim-t-191856"></a>
 - t-001
-  global_id: t-191856
   teiginys: "Sambijos vyskupas Henrikas sutartimi perleido Vitlandsorto valdas Ordinui už atlyginimą, kad šis galėtų pastatyti laivų saugumą užtikrinančią tvirtovę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Sambijos vyskupas Henrikas sutartimi perleido Vitlandsorto valdas Ordinui už at
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191856
+    - t-001

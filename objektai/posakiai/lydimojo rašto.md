@@ -31,7 +31,6 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 
 <a id="claim-t-36009"></a>
 - t-001
-  global_id: t-36009
   teiginys: "Gilbertui de Lannoy keliaujant per totorių žemes į Krymą, Vytauto kepurės užteko kaip „lydimojo rašto“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,21 +53,16 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    Ir tikrai, kada Gilbert de Lannoy, Ang­
+    bet ir visi kiti totoriai^1 ). Ir tikrai, kada Gilbert de Lannoy, Ang­
     lijos karaliaus Henriko VI pasiuntinys važinėjo į Krymą (Kaffą),
     tai jo kelionėje užteko Vytauto kepurės, kaip „lydimojo rašto“
     per totorių žemes. Jau minėtas vokietis Henne rašė Ordino ma­
     gistrui, kad totorių pinigai būdavo su Vytauto Didžiojo atvaizdu.
-  citata_rodoma: |
-    Ir tikrai, kada Gilbert de Lannoy, Ang­
-    lijos karaliaus Henriko VI pasiuntinys važinėjo į Krymą (Kaffą),
-    tai jo kelionėje užteko Vytauto kepurės, kaip „lydimojo rašto“
-    per totorių žemes. Jau minėtas vokietis Henne rašė Ordino ma­
-    gistrui, kad totorių pinigai būdavo su Vytauto Didžiojo atvaizdu.
+  citata_rodoma: "Ir tikrai, kada Gilbert de Lannoy, Ang­\nlijos karaliaus Henriko VI pasiuntinys važinėjo į Krymą (Kaffą),\ntai jo kelionėje užteko Vytauto kepurės, kaip „lydimojo rašto“\nper totorių žemes. Jau minėtas vokietis Henne rašė Ordino ma­\ngistrui, kad totorių pinigai būdavo su Vytauto Didžiojo atvaizdu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36009
+    - t-001

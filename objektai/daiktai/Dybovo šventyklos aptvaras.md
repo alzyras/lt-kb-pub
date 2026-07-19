@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-189720"></a>
 - t-001
-  global_id: t-189720
   teiginys: "Narbutas Dybovo šventyklą prie Torunės aprašė kaip senovės prūsų šventą ąžuolą su dideliu ąžuolu viduryje ir stipriu aptvaru."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189720
+    - t-001

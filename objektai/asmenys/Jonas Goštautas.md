@@ -32,7 +32,6 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
 
 <a id="claim-t-185980"></a>
 - t-001
-  global_id: t-185980
   teiginys: "Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -45,7 +44,6 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
 
 <a id="claim-t-185981"></a>
 - t-002
-  global_id: t-185981
   teiginys: "Jono Goštauto vadovaujama kariuomenė išvijo Mykolą iš Kijevo ir Seversko žemių, taip pat atsiėmė Brianską ir Starodubą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -57,8 +55,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     - c-169342
 
 <a id="claim-t-193497"></a>
-- t-003
-  global_id: t-193497
+- t-004
   teiginys: "Jono Goštauto vedama kariuomenė išvijo Mykolą iš Kijevo ir Seversko žemių, taip pat atsiėmė Brianską ir Starodubą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -71,8 +68,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     - c-169342
 
 <a id="claim-t-193926"></a>
-- t-004
-  global_id: t-193926
+- t-006
   teiginys: "Ir jų dar nebuvo suvažiavusių, nes kai kurie buvo tolimuose Didžiosios Kunigaikštystės miestuose, srityse: 2emaičių seniūnas Kęsgailą2 Žemaitijoje, Jonas Goštautas3 Smolenske, nes jis tuo metu buvo Smolensko vietininku."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -84,8 +80,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     - c-176551
 
 <a id="claim-t-193927"></a>
-- t-005
-  global_id: t-193927
+- t-007
   teiginys: "Lietuvos metraštis Joną Goštautą mini kaip Kazimiero globėją, kurį Kazimieras ir Ponų Taryba skubiai pasiuntė su kariuomene."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -98,8 +93,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     - c-176552
 
 <a id="claim-t-193929"></a>
-- t-006
-  global_id: t-193929
+- t-009
   teiginys: "Lietuvos metraštis pasakoja, kad Kazimieras, sutelkęs Lietuvos pajėgas, skubiai pasiuntė savo globėją Joną Goštautą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -112,8 +106,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     - c-176554
 
 <a id="claim-t-196832"></a>
-- t-008
-  global_id: t-196832
+- t-010
   teiginys: "Lietuvos metraštis Joną Goštautą nurodo kaip Kazimiero globėją, kurį Kazimieras ir Ponų Taryba pasiuntė su kariuomene."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -126,8 +119,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     - c-176552
 
 <a id="claim-t-196833"></a>
-- t-009
-  global_id: t-196833
+- t-011
   teiginys: "Lietuvos metraštis pasakoja, kad Kazimieras sutelkė Lietuvos pajėgas ir skubiai pasiuntė savo globėją Joną Goštautą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -138,17 +130,6 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
     - c-176554
-
-<a id="claim-t-193928"></a>
-- t-007
-  global_id: t-193928
-  teiginys: 'Lietuvos metraštis pasakoja, kad Jonas Goštautas Kazimiero įsakymu ginklu įveikė atsiskyrusius miestus ir grąžino juos Didžiajai Kunigaikštystei.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Nutrūkęs tekstas paverstas aiškiu veiksmu ir rezultatu apie Goštautą. Karinis konfliktas ir kronikos pasakojimas palikti su atribucija.'
-  pagrindžia:
-    - c-005
 - susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
 - susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
 - susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
@@ -181,11 +162,9 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     buvo mozūrų kilmės.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193928
+  statusas: verified
 ## Citatos
 
 - id: c-169341
@@ -211,34 +190,15 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     norėjo jam keršyti už Žygimantą, o todėl, kad ant jo
     pyko, nes Čartoriskis išdidžiai atsisakė perduoti valsty­
     bės iždui pasigrobtą turtą.
-  citata_rodoma: |
-    Daugirdas, turėjęs galy-
-    k u s
-    bę turtų ir šalininkų, gražia
-    kalba netruko Įrodyti luo­
-    mams savo nekaltumą, ir vėliau niekas jam daugiau ne­
-    drįso prikaišioti šio nusikaltimo; norėdamas parodyti,
-    jog visai nieko bendra neturėjęs su sąmokslininkais, jis
-    smarkiai užsipuolė Leliušą, kam šis, girdi, leidęs nužu­
-    dyti valdovą jam pavaldžioje pilyje. Vis dėlto Leliušui
-    4 72
-
-    ## Puslapis 471
-
-    nepritaikė jokios rimtesnės nuobaudos, tik jį pašalino
-    iš senato, o Trakų vaivadiją perdavė Goštautui. Joną,
-    Čartorysko kunigaikštį, pasmerkė už akių ir atėmė iš
-    jo valdas, tačiau ne dėl to, kad senatas ir kunigaikštis
-    norėjo jam keršyti už Žygimantą, o todėl, kad ant jo
-    pyko, nes Čartoriskis išdidžiai atsisakė perduoti valsty­
-    bės iždui pasigrobtą turtą.
+  citata_rodoma: "Daugirdas, turėjęs galy-\nk u s\nbę turtų ir šalininkų, gražia\nkalba netruko Įrodyti luo­\nmams savo nekaltumą, ir vėliau niekas jam daugiau ne­\ndrįso prikaišioti šio nusikaltimo; norėdamas parodyti,\njog visai nieko bendra neturėjęs su sąmokslininkais, jis\nsmarkiai užsipuolė Leliušą, kam šis, girdi, leidęs nužu­\ndyti valdovą jam pavaldžioje pilyje. Vis dėlto Leliušui\n4 72\n\n## Puslapis 471\n\nnepritaikė jokios rimtesnės nuobaudos, tik jį pašalino\niš senato, o Trakų vaivadiją perdavė Goštautui. Joną,\nČartorysko kunigaikštį, pasmerkė už akių ir atėmė iš\njo valdas, tačiau ne dėl to, kad senatas ir kunigaikštis\nnorėjo jam keršyti už Žygimantą, o todėl, kad ant jo\npyko, nes Čartoriskis išdidžiai atsisakė perduoti valsty­\nbės iždui pasigrobtą turtą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185980
+    - t-001
+
 - id: c-169342
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -256,8 +216,9 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185981
-    - t-193497
+    - t-002
+    - t-004
+
 - id: c-176551
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -286,33 +247,15 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
     daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
     Kunigaikštystės.
-  citata_rodoma: |
-    APIE JOGAILOS SŪNAUS KAZIMIERO IŠRINKIMĄ LIETUVOS
-    DIDŽIUOJU KUNIGAIKŠČIU
-    O Didžiosios Kunigaikštystės Ponų Taryba apie visa
-    tai nieko nežinojo 1  — nei apie kunigaikščio Žygimanto
-    126
-
-    ## Puslapis 122
-
-    kėslus, nei apie Vilniaus ir Trakų vaivadų sąmokslų,
-    nes kunigaikštis Žygimantas, rašydamas raštus visoms
-    žemėms ir tolimiausiems miestams bei visiems didi­
-    kams, niekuo neišdavė savo pykčio. Ir jų dar nebuvo
-    suvažiavusių, nes kai kurie buvo tolimuose Didžiosios
-    Kunigaikštystės miestuose, srityse: 2emaičių seniūnas
-    Kęsgailą2  Žemaitijoje, Jonas Goštautas3  Smolenske,
-    nes jis tuo metu buvo Smolensko vietininku. Didysis
-    kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku
-    atvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­
-    lenską jo vieton nusiuntė Andrių Sakavičių * .
+  citata_rodoma: "APIE JOGAILOS SŪNAUS KAZIMIERO IŠRINKIMĄ LIETUVOS \nDIDŽIUOJU KUNIGAIKŠČIU\nO Didžiosios Kunigaikštystės Ponų Taryba apie visa \ntai nieko nežinojo 1  — nei apie kunigaikščio Žygimanto\n126\n\n## Puslapis 122\n\nkėslus, nei apie Vilniaus ir Trakų vaivadų sąmokslų, \nnes kunigaikštis Žygimantas, rašydamas raštus visoms \nžemėms ir tolimiausiems miestams bei visiems didi­\nkams, niekuo neišdavė savo pykčio. Ir jų dar nebuvo \nsuvažiavusių, nes kai kurie buvo tolimuose Didžiosios \nKunigaikštystės miestuose, srityse: 2emaičių seniūnas \nKęsgailą2  Žemaitijoje, Jonas Goštautas3  Smolenske, \nnes jis tuo metu buvo Smolensko vietininku. Didysis \nkunigaikštis Žygimantas rašė ir jam, kad skirtu laiku \natvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­\nlenską jo vieton nusiuntė Andrių Sakavičių * ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193926
+    - t-006
+
 - id: c-176552
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -337,30 +280,16 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
     gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
     vo mažametis.
-  citata_rodoma: |
-    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
-    seniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­
-    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
-    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
-    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
-    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
-    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
-    Kunigaikštystės. Ir su visais tais miestais prisijungė
-    prie Mazovijos ir ėmė tarnauti Mykoliukui
-    Išgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­
-    zimieras ir Didžiosios Kunigaikštystės Ponų Taryba
-    skubiai siunčia su kariuomene Joną Goštautą, kurį, įke­
-    liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
-    gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
-    vo mažametis.
+  citata_rodoma: "Būnant Kazimierui Vilniuje, Drohičino ir Melniko \nseniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­\nto. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­\ntas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis \npabėgo į Mazoviją, nusprendė su tais miestais pereiti \nMykoliuko Zygimantaičio tarnybon ir dar prikalbėjo \ndaugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios \nKunigaikštystės. Ir su visais tais miestais prisijungė \nprie Mazovijos ir ėmė tarnauti Mykoliukui\nIšgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­\nzimieras ir Didžiosios Kunigaikštystės Ponų Taryba \nskubiai siunčia su kariuomene Joną Goštautą, kurį, įke­\nliant Kazimierą į sostą, buvo paskyrę didžiojo kuni­\ngaikščio globėju, nes kunigaikštis Kazimieras dar bu­\nvo mažametis."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193927
-    - t-196832
+    - t-007
+    - t-010
+
 - id: c-176554
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -382,5 +311,5 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193929
-    - t-196833
+    - t-009
+    - t-011

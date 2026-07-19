@@ -37,7 +37,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 
 <a id="claim-t-01471"></a>
 - t-001
-  global_id: t-01471
   teiginys: "Vilniuje įkurta švietimo draugija „Rytas“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 
 <a id="claim-t-182921"></a>
 - t-002
-  global_id: t-182921
   teiginys: "Vilniuje veikęs „Rytas“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -213,17 +211,15 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
     kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
     jampolėje „Žiburys".
-  citata_rodoma: |
-    Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
-    kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
-    jampolėje „Žiburys".
+  citata_rodoma: "Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-\nkalams, būtent Vilniuje „Rytas\", Kaune „Saulė\" ir Mari-\njampolėje „Žiburys\"."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01471
+    - t-001
+
 - id: c-166324
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -241,4 +237,4 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182921
+    - t-002

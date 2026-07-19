@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-40788"></a>
 - t-001
-  global_id: t-40788
   teiginys: "Emilis Jeneris 1928 m. sukūrė darbą „Pirmasis Vyties Kryžiaus apdovanojimas karių, pasižymėjusių fronte 1919 m.“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40788
+    - t-001

@@ -31,7 +31,6 @@ Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri lenkų ir lietuvi�
 
 <a id="claim-t-20867"></a>
 - t-001
-  global_id: t-20867
   teiginys: "Dr. T. Čarkovskio brošiūra „Przenigdy“ („Niekados“) pablogino lenkų ir lietuvių santykius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,12 +59,11 @@ Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri lenkų ir lietuvi�
     dr. T. Čarkovskio (T. Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri
     lenkų ir lietuvių santykius pablogino. Daugelis bajorų apskritai nesuprato
     lietuvių siekių, o bendradarbiavimą su jais laikė negarbe.
-  citata_rodoma: |
-    lenkų ir lietuvių santykius pablogino. Daugelis bajorų apskritai nesuprato
+  citata_rodoma: "lenkų ir lietuvių santykius pablogino. Daugelis bajorų apskritai nesuprato"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20867
+    - t-001

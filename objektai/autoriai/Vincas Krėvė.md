@@ -31,7 +31,6 @@ Vinco Krėvės Raštai VIII t.
 
 <a id="claim-t-34891"></a>
 - t-001
-  global_id: t-34891
   teiginys: "Vincas Krėvė buvo „Raštų“ VIII tomo, kuriame išspausdinta misterijos „Likimo keliais“ II dalis, autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Vinco Krėvės Raštai VIII t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34891
+    - t-001

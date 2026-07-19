@@ -38,8 +38,7 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
 ## Teiginiai
 
 <a id="claim-t-97255"></a>
-- t-001
-  global_id: t-97255
+- t-003
   teiginys: "Antanas Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. parengė platesnį ketvirtąjį jos leidimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
 
 <a id="claim-t-97256"></a>
 - t-002
-  global_id: t-97256
   teiginys: "1936 m. „Lietuvos istoriją“ rašė penki autoriai, o jos redaktorius pats parengė didžiausią dalį ir vienodino kitų tekstus."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
     - c-91741
 
 <a id="claim-t-97257"></a>
-- t-003
-  global_id: t-97257
+- t-001
   teiginys: "Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. ketvirtajam leidimui panaudojo daugiau šaltinių ir tyrinėjimų."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -109,21 +106,16 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
     rijos katedros vedėjas. Jau 1911 m. jis išleido «Lietuvos istoriją»,
     jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas
     daugiau šaltinių ir mokslinių tyrinėjimų.
-  citata_rodoma: |
-    Alekna buvo pirmasis (1922-1930) Lie­
-    tuvos istorijos, jos šaltinių ir Lietuvos istorinės geografijos dėsty­
-    tojas Teologijos-Filosofijos fakulteto Filosofijos skyriuje ir ten isto­
-    rijos katedros vedėjas. Jau 1911 m. jis išleido «Lietuvos istoriją»,
-    jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas
-    daugiau šaltinių ir mokslinių tyrinėjimų.
+  citata_rodoma: "Alekna buvo pirmasis (1922-1930) Lie­\ntuvos istorijos, jos šaltinių ir Lietuvos istorinės geografijos dėsty­\ntojas Teologijos-Filosofijos fakulteto Filosofijos skyriuje ir ten isto­\nrijos katedros vedėjas. Jau 1911 m. jis išleido «Lietuvos istoriją»,\njos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas\ndaugiau šaltinių ir mokslinių tyrinėjimų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97255
-    - t-97257
+    - t-003
+    - t-001
+
 - id: c-91741
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -142,4 +134,4 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97256
+    - t-002

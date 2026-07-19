@@ -31,27 +31,18 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
 
 <a id="claim-t-186082"></a>
 - t-001
-  global_id: t-186082
   teiginys: "Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis bus pavaldus Lietuvos didžiajam kunigaikščiui."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trobius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trobius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-169443
+    - c-169444
 
 <a id="claim-t-186083"></a>
 - t-002
-  global_id: t-186083
   teiginys: "Mirus Romuntui, Žemaitijos kunigaikščiui Trobiui buvo pavesta valdyti Lietuvą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -70,8 +61,7 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
     - c-169444
 
 <a id="claim-t-196608"></a>
-- t-003
-  global_id: t-196608
+- t-004
   teiginys: "Kojelavičius rašo, kad Trobius per trumpą viešpatavimą nieko daugiau nespėjo nuveikti, gal dėl senatvės ar ankstyvos mirties."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -116,26 +106,13 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
     d id y s is
     k u n ig a ik štis,
     T robius — Ž e m a itijo s
-  citata_rodoma: |
-    Netrukus po to Lietuvoje baigė dienas ir Ger­
-    mantas. Sukvietus Kernavėje didikų sueigą, Germanto
-    vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
-    valdovu, jo broliui Trobiui
-    patikėta Žemaitija su ta są­
-    lyga, kad jis bus pavaldus
-    Lietuvos didžiajam kunigaik­
-    ščiui. Rūmų maršalas, para­
-    ginęs vieną bei kitą siekti ir
-    karo, ir taikos metu tokios pat santarvės bei šlovės,
-    kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
-    bei lazdą.
+  citata_rodoma: "Netrukus po to Lietuvoje baigė dienas ir Ger­\nmantas. Sukvietus Kernavėje didikų sueigą, Germanto\nvyresnysis sūnus Giliginas buvo paskelbtas Lietuvos\nvaldovu, jo broliui Trobiui\npatikėta Žemaitija su ta są­\nlyga, kad jis bus pavaldus\nLietuvos didžiajam kunigaik­\nščiui. Rūmų maršalas, para­\nginęs vieną bei kitą siekti ir\nkaro, ir taikos metu tokios pat santarvės bei šlovės,\nkokią paveldėjo iš protėvių, įteikė Giliginui kalaviją\nbei lazdą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186082
 - id: c-169444
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -167,7 +144,9 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186083
+    - t-001
+    - t-002
+
 - id: c-169445
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -190,6 +169,7 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196608
+    - t-004
+
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Giliginas]]

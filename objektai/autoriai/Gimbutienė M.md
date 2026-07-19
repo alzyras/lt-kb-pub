@@ -31,9 +31,8 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
 
 <a id="claim-t-60600"></a>
 - t-001
-  global_id: t-60600
   teiginys: "Marija Gimbutienė cituojama požiūriui, kad žalvario amžiuje baltų arealas siekė Oderio žemupį."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -45,10 +44,9 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61232
-    - c-001
+
 <a id="claim-t-60601"></a>
 - t-002
-  global_id: t-60601
   teiginys: "Marija Gimbutienė knygoje „Baltai“ aptarė politeistinę baltų religiją, Krivės funkcijas, Perkūną ir kitus baltų dievus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60600
+
 ## Citatos
 
 - id: c-61232
@@ -88,16 +85,15 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
     forma Viscla, Visculus (t. y. Vysla) yra baltiškos kilmės, kad baltų buvimas mūsų eros
     pradžioje prie Vyslos žiočių nekelia abejonių (Beddnarczuk L. Onomastyka..., p. 50—54,
     66); žr. ir GAO, p. 204; Gimbutienė M. Baltai, p. 17—19, 48—51, 66, 106, 114.
-  citata_rodoma: |
-    Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,
-    Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83).
+  citata_rodoma: "Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,\nRytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60600
+    - t-001
+
 - id: c-61233
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -115,4 +111,4 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60601
+    - t-002

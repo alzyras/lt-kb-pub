@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20512"></a>
 - t-001
-  global_id: t-20512
   teiginys: "1935 m. Suvalkijos valstiečiai paskelbė streiką po „Pienocentro“ supirkimo kainų sumažinimo, o policija Veiveriuose nušovė tris valstiečius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,12 +85,11 @@ Nenurodyta
     kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną
     į Kauną ir keliuose pastatė postus, o juos ardant kilo riaušės, policija
     Veiveriuose nušovė tris valstiečius, šimtus areštavo.
-  citata_rodoma: |
-    kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną
+  citata_rodoma: "kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20512
+    - t-001

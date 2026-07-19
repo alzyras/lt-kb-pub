@@ -39,7 +39,6 @@ Bibliografijoje Jędrzej Kitowicz nurodytas kaip veikalo „Opis obyczajów za p
 
 <a id="claim-t-200745"></a>
 - t-001
-  global_id: t-200745
   teiginys: "Jędrzejus Kitowiczius aprašė gėrimą iš vienos taurės ar stiklinėlės, kai geriama vienas po kito ir nesibjaurima į taurę krintančiais lašais."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,5 @@ Bibliografijoje Jędrzej Kitowicz nurodytas kaip veikalo „Opis obyczajów za p
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200745
+    - t-001

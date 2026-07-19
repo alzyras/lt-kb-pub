@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-42482"></a>
 - t-001
-  global_id: t-42482
   teiginys: "Prie sienos nustatyta 6 km pločio neutrali zona, todėl abi pusės turėjo pasitraukti po 3 km."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,30 +77,11 @@ media_all_json: |-
     trali zona buvo panaikinta, jos viduriu
     nustatyta demarkacinė linija, galiojusi iki
     1939 m. Prasidėjo pasikeitimas belaisviais.
-  citata_rodoma: |
-    0)
-
-    e
-    4 G: „Želva
-    Js
-
-    nk Seta”
-    va
-
-    D r
-
-    SOKOLKA gė
-
-    VV
-
-    siena
-    statyta 6 km pločio neu-
-    trali zona, abi pusės turėjo
-    pasitraukti atgal po 3 km. 1923 m.
+  citata_rodoma: "0)\n\ne\n4 G: „Želva\nJs\n\nnk Seta”\nva\n\nD r\n\nSOKOLKA gė\n\nVV\n\nsiena\nstatyta 6 km pločio neu-\ntrali zona, abi pusės turėjo\npasitraukti atgal po 3 km. 1923 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42482
+    - t-001

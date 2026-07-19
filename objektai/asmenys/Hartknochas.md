@@ -40,7 +40,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 
 <a id="claim-t-190097"></a>
 - t-001
-  global_id: t-190097
   teiginys: "Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 
 <a id="claim-t-190098"></a>
 - t-002
-  global_id: t-190098
   teiginys: "Narbutas nurodo, kad Hartknochas senosios Prūsijos žemėlapyje Romnowe pažymėjo tarp Prūsos ir Bysleidos upių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 
 <a id="claim-t-190099"></a>
 - t-003
-  global_id: t-190099
   teiginys: "Narbutas mini Hartknocho spėjimą, kad Senosios Torunės vietoje taip pat buvo šventykla."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -103,7 +100,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 
 <a id="claim-t-190860"></a>
 - t-004
-  global_id: t-190860
   teiginys: "Narbuto perteikimu Hartknochas tvirtino, kad kimbrai gyveno vėlesnių prūsų žemėje ir ten buvo vadinami sembais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -125,7 +121,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 
 <a id="claim-t-190861"></a>
 - t-005
-  global_id: t-190861
   teiginys: "Hartknochas, remdamasis vietos padavimais ir tyrimais, Baltijos pakrantės pokyčius siejo su smarkių šiaurinių vėjų sukeltais potvyniais Prūsijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -143,10 +138,9 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173743
-    - c-005
+
 <a id="claim-t-190862"></a>
 - t-006
-  global_id: t-190862
   teiginys: "Hartknochas pateikė žinių, kad prie Baltijos jūros ilgai gyvavo padavimai apie tenykščių genčių, ypač prūsų, ištakas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -164,10 +158,9 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173744
-    - c-006
+
 <a id="claim-t-190863"></a>
 - t-007
-  global_id: t-190863
   teiginys: "Hartknocho išleistame Dusburgo veikale Ragainė, Narbuto teigimu, klaidingai pavadinta Ramige."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -188,7 +181,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 
 <a id="claim-t-197737"></a>
 - t-008
-  global_id: t-197737
   teiginys: "Hartknochas mini 1190 metus ir kalba apie tą potvynį, kuris, anot jo pasakojimų, turėjęs būti iki prūsų įsikūrimo prie Baltijos jūros3."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -201,7 +193,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 
 <a id="claim-t-197738"></a>
 - t-009
-  global_id: t-197738
   teiginys: "Hartknochas pateikia XV amžiuje gyvenusio prūsų kilmės Frydriko Zamilio lotynų kalba parašytos poemos ištrauką, kur, sakydamas savo sūnums apie savo lietuviš ką kilmę, be kita ko, jis mini protėvius pelazgus1."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -214,7 +205,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 
 <a id="claim-t-197739"></a>
 - t-010
-  global_id: t-197739
   teiginys: "Anot Hartknocho, sudargų iš ties būta, jų atminimas gyvas šios žemės padavimuose ir kai kuriuose vietovardžiuose2."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -227,7 +217,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 
 <a id="claim-t-197740"></a>
 - t-011
-  global_id: t-197740
   teiginys: "Ragainė Hartknocho išleistame Dusburgo veikale klaidingai pavadinta Ramige (p."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -261,8 +250,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190861
 - c-006
   santrauka: 'Hartknochas pateikė žinių, kad prie Baltijos jūros ilgai gyvavo padavimai apie tenykščių genčių, ypač prūsų, ištakas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -281,8 +268,7 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190862
+
 ## Citatos
 
 - id: c-172980
@@ -305,7 +291,8 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190097
+    - t-001
+
 - id: c-172981
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -326,7 +313,8 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190098
+    - t-002
+
 - id: c-172982
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -341,21 +329,15 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
     pajūrio miestas, atkištas priešų puolimams, netrukus turėjo
     būti sugriautas, kadangi mūsų istorikai tuojau pastebi kitą Lie­
     tuvos Romovę prie Dubysos ir Nemuno santakos12.
-  citata_rodoma: |
-    Šventyklos aptvaro vi­
-    duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
-    bai, -  anot Enėjo Silvijaus liudijimo.
-    Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
-    taip pat buvusi šventykla.
-    Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot
-    to paties istoriko, priklausė šventyklos liekanoms.
+  citata_rodoma: "Šventyklos aptvaro vi­\nduje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­\nbai, -  anot Enėjo Silvijaus liudijimo.\nTen, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,\ntaip pat buvusi šventykla.\nUpės (Oppen) kaime augo storiausias ąžuolas, kuris, anot\nto paties istoriko, priklausė šventyklos liekanoms."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190099
+    - t-003
+
 - id: c-173742
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -376,7 +358,8 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190860
+    - t-004
+
 - id: c-173743
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -402,27 +385,15 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
     truko 12 metų, nusiaubė Baltijos jūros vakarines pakran­
     tes ir neatpažįstamai pakeitė jų vaizdą: pradingo netoli
     1 Plutarchus; Sirabo.
-  citata_rodoma: |
-    Sis ypatingas įvykis, atsitikęs žemėje, kuria
-    ypač domisi mūsų veikalas, vertas to, kad jam būtų skir­
-    ta daugiau dėmesio. Hartknochas, remdamasis vietos pa­
-    davimais ir tiesioginiais vietovės tyrinėjimais, visiškai
-    įsitikinęs šio atsitikimo tikrumu; jis ne sykį mini, jog
-    smarkių ir ilgalaikių šiaurinių vėjų sukelti dideli jūros
-    potvyniai išilgai visos Prūsijos padarė nemažai Baltijos
-    jūros krantų reljefo ir pavidalo pokyčių. O ypač stengė­
-    si, kad išliktų atminimas apie tą didžiulį kimbrų epochos
-    potvynį, arba vietinį tvaną, cituotą prūsų kronikininko
-    Jokimo Rozencveigo2, kurio veikalus Strijkovskis, būda­
-    mas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo
-    kronikos knygas), turėjo po ranka.
+  citata_rodoma: "Sis ypatingas įvykis, atsitikęs žemėje, kuria\nypač domisi mūsų veikalas, vertas to, kad jam būtų skir­\nta daugiau dėmesio. Hartknochas, remdamasis vietos pa­\ndavimais ir tiesioginiais vietovės tyrinėjimais, visiškai\nįsitikinęs šio atsitikimo tikrumu; jis ne sykį mini, jog\nsmarkių ir ilgalaikių šiaurinių vėjų sukelti dideli jūros\npotvyniai išilgai visos Prūsijos padarė nemažai Baltijos\njūros krantų reljefo ir pavidalo pokyčių. O ypač stengė­\nsi, kad išliktų atminimas apie tą didžiulį kimbrų epochos\npotvynį, arba vietinį tvaną, cituotą prūsų kronikininko\nJokimo Rozencveigo2, kurio veikalus Strijkovskis, būda­\nmas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo\nkronikos knygas), turėjo po ranka."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190861
+    - t-005
+
 - id: c-173744
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -439,23 +410,15 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
     bančių apie tokią kilmę. Kilęs iš Prūsijos Vilichijus, ko­
     mentavęs Tacitą, labiausiai tikina, jog lietuviai yra kilę
     iš graikų, nes galėjo su jais susikalbėti jų kalba4.
-  citata_rodoma: |
-    Pažvelgę tyrinėtojo žvilgsniu į
-    lietuvių senovės paminklus, visur aptinkame pėdsakų ir
-    padavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­
-    teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
-    žinomi padavimai apie tenykščių genčių, ypač prūsų, iš­
-    takas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
-    tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
-    mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
-    atvykusius į prūsų kraštus.
+  citata_rodoma: "Pažvelgę tyrinėtojo žvilgsniu į\nlietuvių senovės paminklus, visur aptinkame pėdsakų ir\npadavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­\nteikia žinių, jog prie Baltijos jūros amžių amžiais buvo\nžinomi padavimai apie tenykščių genčių, ypač prūsų, iš­\ntakas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­\ntu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­\nmu, rašo apie makedonus, po Aleksandro Didžiojo mirties\natvykusius į prūsų kraštus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190862
+    - t-006
+
 - id: c-173745
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -475,8 +438,9 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190863
-    - t-197740
+    - t-007
+    - t-011
+
 - id: c-179318
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -505,7 +469,8 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197737
+    - t-008
+
 - id: c-179319
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -532,7 +497,8 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197738
+    - t-009
+
 - id: c-179320
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -555,4 +521,4 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197739
+    - t-010

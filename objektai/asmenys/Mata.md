@@ -31,7 +31,6 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 
 <a id="claim-t-60055"></a>
 - t-001
-  global_id: t-60055
   teiginys: "Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,10 +45,9 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   semantiniai_rysiai: "Mata buvo sūnus Pipinas (0.97); Pipinas kariavo prieš Kryžiuočių ordinas (0.90); Mata rėmė Kryžiuočių ordinas (0.84)"
   pagrindžia:
     - c-60688
-    - c-002
+
 <a id="claim-t-60056"></a>
-- t-002
-  global_id: t-60056
+- t-003
   teiginys: "Kilmingas pamedėnas Mata, Pipino sūnus, patarė broliams ir kariuomenei pulti priešus pėsčiomis, palikus arklius užnugaryje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,8 +64,7 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
     - c-60689
 
 <a id="claim-t-60057"></a>
-- t-003
-  global_id: t-60057
+- t-002
   teiginys: "Mata buvo kilmingas Pamedės vyras ir Pipino sūnus, iki mirties drąsiai gynęs Kristaus tikėjimą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60055
+
 ## Citatos
 
 - id: c-60687
@@ -118,24 +114,15 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
     uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė
     Kristaus tikėjimą222.
     8.
-  citata_rodoma: |
-    Šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata;
-    kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo
-    uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė
-    Kristaus tikėjimą222.
-
-
-
-
-
-                     8.
+  citata_rodoma: "Šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata;\nkiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo\nuolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė\nKristaus tikėjimą222.\n\n\n\n\n\n                 8."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60057
+    - t-002
+
 - id: c-60688
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -150,17 +137,15 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
     pasirodė Prūsijoje XIII—XIV a. sandūroje, daroma prielaida, kad jam XIII a. antrajai
     pusei aprašyti reikėjo sukaupti beveik niekur neužfiksuotų žinių, kurių dar daugiau
     matome kronikos dalyje, aprašančioje pirmuosius XIV a. dešimtmečius.
-  citata_rodoma: |
-    Štai pirmosiose  kovose prieš Ordiną
-    žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar
-    XIV a. viduryje134. Vardijami taip pat kai kurie skalviai, pagaliau ir lietuviai.
+  citata_rodoma: "Štai pirmosiose  kovose prieš Ordiną\nžuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar\nXIV a. viduryje134. Vardijami taip pat kai kurie skalviai, pagaliau ir lietuviai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60055
+    - t-001
+
 - id: c-60689
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -176,21 +161,14 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
     nevengs mūšio, antraip jie be abejonės leisis bėgti“. Šiam patarimui nepritarė Danijos
     karaliaus iš Revelio347 kariai ir daugybė kitų, tvirtindami, kad be arklių jie nestengsią
     mūšyje atsilaikyti dėl sunkių ginklų.
-  citata_rodoma: |
-    Šitai išgirdę, broliai ir visa kariuomenė sukruto rengtis kovai, norėdami išvaduoti
-    iš priešo rankų Kristaus krauju atpirktas sielas; vienas kilmingas pamedėnas, vardu
-    Mata345, Pipino sūnus, brolio maršalo Henriko346 paklaustas, kaip reikėtų pulti priešus,
-    atsakė: „Palikime savo arklius toli užpakalyje, kad neturėtume vilties prie jų sugrįžti, ir
-    patraukime link priešų pėsčiomis, nes tada žmonės, nesitikėdami išsigelbėsią arkliais,
-    nevengs mūšio, antraip jie be abejonės leisis bėgti“. Šiam patarimui nepritarė Danijos
-    karaliaus iš Revelio347 kariai ir daugybė kitų, tvirtindami, kad be arklių jie nestengsią
-    mūšyje atsilaikyti dėl sunkių ginklų.
+  citata_rodoma: "Šitai išgirdę, broliai ir visa kariuomenė sukruto rengtis kovai, norėdami išvaduoti\niš priešo rankų Kristaus krauju atpirktas sielas; vienas kilmingas pamedėnas, vardu\nMata345, Pipino sūnus, brolio maršalo Henriko346 paklaustas, kaip reikėtų pulti priešus,\natsakė: „Palikime savo arklius toli užpakalyje, kad neturėtume vilties prie jų sugrįžti, ir\npatraukime link priešų pėsčiomis, nes tada žmonės, nesitikėdami išsigelbėsią arkliais,\nnevengs mūšio, antraip jie be abejonės leisis bėgti“. Šiam patarimui nepritarė Danijos\nkaraliaus iš Revelio347 kariai ir daugybė kitų, tvirtindami, kad be arklių jie nestengsią\nmūšyje atsilaikyti dėl sunkių ginklų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60056
+    - t-003
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Pipinas]]

@@ -12,10 +12,10 @@ datos:
   - '1362 m.'
 date_start: '1361'
 date_end: '1362'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XIV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-201909"></a>
 - t-001
-  global_id: t-201909
   teiginys: "Nemunu laivais ir sausuma pasiekę Kauno apylinkes kryžiuočiai susirėmė su Kęstučio vadovaujamais lietuviais, išsklaidė juos ir kovo 13 d. pradėjo Kauno pilies apgultį."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -61,6 +60,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185256
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -81,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201909
+    - t-001

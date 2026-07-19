@@ -31,7 +31,6 @@ Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, na
 
 <a id="claim-t-194689"></a>
 - t-002
-  global_id: t-194689
   teiginys: "Vėliau, pertvarkant mitologiją, Mėnesio garbinimo dalis perėjo deivei Laimai, kurią šiuo požiūriu dievino vadindami Lėlės (Lela) ir Mėnulės (Menula) vardais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -43,17 +42,6 @@ Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, na
   pagrindžia:
     - c-177086
 
-<a id="claim-t-189162"></a>
-- t-001
-  global_id: t-189162
-  teiginys: 'Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, nakties karalių ir laiko tarpsnių valdovą, antrą po Saulės.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Mitologinis aiškinimas paliktas su Narbuto atribucija. Išplėstas subjektas ir neperimta kaip neutralus faktas bausmės legenda.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, nakties karalių ir laiko tarpsnių valdovą, antrą po Saulės.'
@@ -77,11 +65,9 @@ Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, na
     kūnas perkirto Mėnesį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189162
+  statusas: verified
 ## Citatos
 
 - id: c-177086
@@ -103,4 +89,4 @@ Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, na
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194689
+    - t-002

@@ -35,8 +35,7 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
 ## Teiginiai
 
 <a id="claim-t-60988"></a>
-- t-001
-  global_id: t-60988
+- t-002
   teiginys: "Pirmasis „Lietuvos TSR istorijos“ tomas išleistas Vilniuje 1957 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -53,10 +52,9 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
   temporalinis_llm_pakomentavimas: "Citata pagrindžia bibliografinį faktą, o pradinė formuluotė nutrūkusi."
   pagrindžia:
     - c-61620
-    - c-001
+
 <a id="claim-t-60989"></a>
-- t-002
-  global_id: t-60989
+- t-001
   teiginys: "„Lietuvos TSR istorijoje“ neaiškiai minima, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60988
+
 ## Citatos
 
 - id: c-61620
@@ -93,15 +90,15 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
   citata_originali: |
     —V., 1969.
     Lietuvos TSR istorija.—T. 1,—V., 1957.
-  citata_rodoma: |
-    Lietuvos TSR istorija.—T. 1,—V., 1957.
+  citata_rodoma: "Lietuvos TSR istorija.—T. 1,—V., 1957."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60988
+    - t-002
+
 - id: c-61621
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -116,4 +113,4 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60989
+    - t-001

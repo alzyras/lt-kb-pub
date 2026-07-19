@@ -37,7 +37,6 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
 
 <a id="claim-t-21285"></a>
 - t-001
-  global_id: t-21285
   teiginys: "Trečiasis Lietuvos Statutas 1588 m. įformino atskirą LDK teisinę sistemą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,12 +70,11 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
     XVIII a. pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų),
     atskiras iždas, kariuomenė, teismai ir teisinė sistema, kurią įformino Tre-
     čiasis Lietuvos Statutas 1588 m.
-  citata_rodoma: |
-    Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira
+  citata_rodoma: "Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21285
+    - t-001

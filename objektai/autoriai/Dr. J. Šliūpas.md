@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-01029"></a>
 - t-001
-  global_id: t-01029
   teiginys: "Dr. J. Šliūpas tvarkė „Aušrą“, kol vokiečių valdžia privertė jį išvažiuoti į Ameriką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01029
+    - t-001

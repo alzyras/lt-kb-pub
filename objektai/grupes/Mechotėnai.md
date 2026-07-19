@@ -31,7 +31,6 @@ Teodoro Narbuto manymu, mechotėnai gyveno rytinėje Mituvos apskrities dalyje i
 
 <a id="claim-t-192988"></a>
 - t-001
-  global_id: t-192988
   teiginys: "Teodoro Narbuto manymu, mechotėnai gyveno rytinėje Mituvos apskrities dalyje ir buvo viena iš žemgalių genčių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Teodoro Narbuto manymu, mechotėnai gyveno rytinėje Mituvos apskrities dalyje i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192988
+    - t-001

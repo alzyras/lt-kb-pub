@@ -49,8 +49,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
 ## Teiginiai
 
 <a id="claim-t-94761"></a>
-- t-001
-  global_id: t-94761
+- t-009
   teiginys: "Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-89828
 
 <a id="claim-t-94762"></a>
-- t-002
-  global_id: t-94762
+- t-008
   teiginys: "1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribuciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,8 +85,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-37566
 
 <a id="claim-t-94763"></a>
-- t-003
-  global_id: t-94763
+- t-014
   teiginys: "Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams iš Naugardo ir kitų Rusios miestų Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,9 +104,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   pagrindžia:
     - c-89836
 
-<a id="claim-t-94771"></a>
-- t-004
-  global_id: t-94771
+<a id="claim-t-94764"></a>
+- t-016
   teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,8 +122,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-89834
 
 <a id="claim-t-94765"></a>
-- t-005
-  global_id: t-94765
+- t-020
   teiginys: "1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribucijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -146,8 +141,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-89827
 
 <a id="claim-t-94766"></a>
-- t-006
-  global_id: t-94766
+- t-013
   teiginys: "Senyvo amžiaus Vytautas kariavo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai patirtas skriaudas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -165,8 +159,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-89824
 
 <a id="claim-t-94767"></a>
-- t-007
-  global_id: t-94767
+- t-017
   teiginys: "Vytauto valdymo laikais Vilniaus prekyba išsiplėtė su Naugardu, Pskovu, Maskva ir Prūsijos bei Livonijos miestais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -183,8 +176,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-89826
 
 <a id="claim-t-94769"></a>
-- t-008
-  global_id: t-94769
+- t-004
   teiginys: "Į Vytauto susitikimą atvyko Naugardo kunigaikščiai ir kitų kraštų valdovai bei pasiuntiniai."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -200,8 +192,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-37565
 
 <a id="claim-t-94770"></a>
-- t-009
-  global_id: t-94770
+- t-002
   teiginys: "Livonijos Ordinas sudarė prieš Vytautą nukreiptą taiką su Pskovu 1417 m. ir Naugardu 1421 m., o tai pakenkė Bažnyčių unijai."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -220,8 +211,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-89833
 
 <a id="claim-t-94772"></a>
-- t-010
-  global_id: t-94772
+- t-007
   teiginys: "Į Vytauto susitikimą atvyko Naugardo ir Pskovo kunigaikščiai, taip pat kitų valstybių valdovai bei pasiuntiniai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -237,8 +227,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-37565
 
 <a id="claim-t-94774"></a>
-- t-011
-  global_id: t-94774
+- t-001
   teiginys: "Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -254,8 +243,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-89829
 
 <a id="claim-t-94775"></a>
-- t-012
-  global_id: t-94775
+- t-003
   teiginys: "Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -271,8 +259,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-37564
 
 <a id="claim-t-94776"></a>
-- t-013
-  global_id: t-94776
+- t-012
   teiginys: "Vytauto remiama Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -289,8 +276,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-89826
 
 <a id="claim-t-94777"></a>
-- t-014
-  global_id: t-94777
+- t-010
   teiginys: "Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -306,8 +292,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-89839
 
 <a id="claim-t-94778"></a>
-- t-015
-  global_id: t-94778
+- t-018
   teiginys: "1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -326,8 +311,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-89824
 
 <a id="claim-t-94779"></a>
-- t-016
-  global_id: t-94779
+- t-006
   teiginys: "Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428)."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -343,9 +327,9 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   pagrindžia:
     - c-37567
     - c-167684
+
 <a id="claim-t-94780"></a>
-- t-017
-  global_id: t-94780
+- t-005
   teiginys: "Naugardas ir Porchovas, nebenorėdami kariauti, 1428 m. sumokėjo Vytautui 10 000 rublių kontribuciją."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -363,8 +347,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-37566
 
 <a id="claim-t-188773"></a>
-- t-018
-  global_id: t-188773
+- t-023
   teiginys: "Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -384,8 +367,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-171662
 
 <a id="claim-t-188774"></a>
-- t-019
-  global_id: t-188774
+- t-024
   teiginys: "Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti variagų atgabenta lietuvių kolonija."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -405,8 +387,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-171663
 
 <a id="claim-t-188775"></a>
-- t-020
-  global_id: t-188775
+- t-025
   teiginys: "Narbutas teigė, kad Vladimiras X a. Kijeve ir Naugarde pastatė Perkūno stabus, panašius į lietuvių Perkūno stabą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -426,10 +407,9 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     - c-171664
 
 <a id="claim-t-188776"></a>
-- t-021
-  global_id: t-188776
+- t-026
   teiginys: "Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, bendravusią su Naugardo slavais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -722,7 +702,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94775
+    - t-003
+
 - id: c-37565
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -736,21 +717,16 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
     niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
     džiai priimti.
-  citata_rodoma: |
-    Atkeliavo ir Vytauto giminaičiai, Mo­
-    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
-    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
-    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
-    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
-    džiai priimti.
+  citata_rodoma: "Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­\ndžiai priimti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94769
-    - t-94772
+    - t-004
+    - t-007
+
 - id: c-37566
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -764,20 +740,16 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     10.000 rublių kontribucijos (1428). Kontribucijos ir bausmės bu­
     vo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,
     kurių žemės vėl būdavo užkariaujamos.
-  citata_rodoma: |
-    Naugardo ir Por­
-    chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
-    10.000 rublių kontribucijos (1428). Kontribucijos ir bausmės bu­
-    vo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,
-    kurių žemės vėl būdavo užkariaujamos.
+  citata_rodoma: "Naugardo ir Por­\nchovo miestai, nebenorėdami kariauti, sumokėjo Vytautui\n10.000 rublių kontribucijos (1428). Kontribucijos ir bausmės bu­\nvo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,\nkurių žemės vėl būdavo užkariaujamos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94762
-    - t-94780
+    - t-008
+    - t-005
+
 - id: c-37567
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -797,7 +769,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94779
+    - t-006
+
 - id: c-89824
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -817,28 +790,16 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     leisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar
     250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po-
     sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
-  citata_rodoma: |
-    Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
-    taip gana ilgam sudrumstęs namų ramybę, privertė lenkus
-    gaišti dėl nesvarbių reikalų.
-    Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­
-    vo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­
-    keršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų
-    miestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­
-    syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­
-    mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių
-    Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną
-    Sidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­
-    leisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar
-    250 rublių nepridėjo (1429 m.
+  citata_rodoma: "Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona, \ntaip gana ilgam sudrumstęs namų ramybę, privertė lenkus \ngaišti dėl nesvarbių reikalų.\nJau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­\nvo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­\nkeršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų \nmiestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­\nsyk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­\nmingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių \nPskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną \nSidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­\nleisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar \n250 rublių nepridėjo (1429 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94766
-    - t-94778
+    - t-013
+    - t-018
+
 - id: c-89826
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -860,29 +821,16 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
     tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
     klestėti!
-  citata_rodoma: |
-    Juk
-    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
-    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
-    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
-    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
-    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
-    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
-    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
-    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
-    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
-    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
-    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
-    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
-    klestėti!
+  citata_rodoma: "Juk\ntas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­\nbojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su\nPrūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­\nva, o naudodamasi galingo monarcho parama, jau pasiekė ir\ntolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­\nnius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­\nkių turėjo išaugti būdamas tokios didelės valstybės sostinė.\nEsant karinei valdžiai, viešpataujant valdovams, besirūpinan­\ntiems vien nukariavimais ir, po teisybei, naujos monarchijos\nkūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės\nkraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­\ntas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­\nklestėti!"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94767
-    - t-94776
+    - t-017
+    - t-012
+
 - id: c-89827
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -895,19 +843,15 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     o už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­
     chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
     10.000 rublių kontribucijos (1428).
-  citata_rodoma: |
-    Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
-    sitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,
-    o už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­
-    chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
-    10.000 rublių kontribucijos (1428).
+  citata_rodoma: "Yra žinoma, kad jis, kariaudamas su Pskovu, pa­\nsitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,\no už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­\nchovo miestai, nebenorėdami kariauti, sumokėjo Vytautui\n10.000 rublių kontribucijos (1428)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94765
+    - t-020
+
 - id: c-89828
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -928,7 +872,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94761
+    - t-009
+
 - id: c-89829
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -952,7 +897,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94774
+    - t-001
+
 - id: c-89833
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -971,7 +917,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94770
+    - t-002
+
 - id: c-89834
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -986,21 +933,15 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
     jo lankytis tolimose provincijose, kur artimiau susipažino su
     krikščioniškąja kultūra26.
-  citata_rodoma: |
-    Jo laikais jau būdavo saugu visuose kraštuose, ku­
-    riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp
-    Naugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus
-    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
-    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
-    jo lankytis tolimose provincijose, kur artimiau susipažino su
-    krikščioniškąja kultūra26.
+  citata_rodoma: "Jo laikais jau būdavo saugu visuose kraštuose, ku­\nriuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp\nNaugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus\nmiestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­\nje Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­\njo lankytis tolimose provincijose, kur artimiau susipažino su\nkrikščioniškąja kultūra26."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94771
+    - t-016
+
 - id: c-89836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1015,21 +956,15 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
-  citata_rodoma: |
-    Tačiau Aleksandro ir Elenos santuoka išplė­
-    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
-    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
-    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
-    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
-    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
-    savo atvykimą iškart pranešti pilininkui4 3  44.
+  citata_rodoma: "Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.\nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų\npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie\nsavo atvykimą iškart pranešti pilininkui4 3  44."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94763
+    - t-014
+
 - id: c-89839
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1046,19 +981,15 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     savo pačių valdžia galingi. Maskva tuomet dar tebuvo menka
     gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų
     tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė.
-  citata_rodoma: |
-    Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji
-    rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi
-    savo pačių valdžia galingi. Maskva tuomet dar tebuvo menka
-    gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų
-    tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė.
+  citata_rodoma: "Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji\nrusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi\nsavo pačių valdžia galingi. Maskva tuomet dar tebuvo menka\ngyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų\ntikėjimo lopšys ir kurį laiką garsios monarchijos sostinė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94777
+    - t-010
+
 - id: c-167684
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1073,10 +1004,12 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     veždavo 20 porų arklių prieš piet ir tiek pat po piet.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-171662
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1096,7 +1029,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188773
+    - t-023
+
 - id: c-171663
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1121,7 +1055,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188774
+    - t-024
+
 - id: c-171664
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1143,7 +1078,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188775
+    - t-025
+
 - id: c-171665
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1163,28 +1099,15 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     tymo. Mechovita sako: „... linguagium Lithuanicum est quadri­
     partitum: primum linguagium est Iaczuingomm, ut horum qui
     circa castrum Drochicin inhabitarunt, et pauci supemint.
-  citata_rodoma: |
-    Apie juos senovės Graikijos
-    geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
-    nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad
-    ir paties Herodoto išvardytų.
-    Iš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža
-    ką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-
-    do slavais ir palaikydama su jais santykius, vis dėlto sudarė
-    atskirą valstybę. Vėliau iš skandinavų legendų arba iš gana
-    fragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­
-    vusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,
-    kad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­
-    jo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius
-    dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
-    mokėjo gana neblogai gintis.
+  citata_rodoma: "Apie juos senovės Graikijos\ngeografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­\nnius pavadinimus iš daugelio Siaurės Europos gyventojų, kad\nir paties Herodoto išvardytų.\nIš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža\nką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-\ndo slavais ir palaikydama su jais santykius, vis dėlto sudarė\natskirą valstybę. Vėliau iš skandinavų legendų arba iš gana\nfragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­\nvusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,\nkad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­\njo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius\ndėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai\nmokėjo gana neblogai gintis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188776
+    - t-026
+
 ## Ryšiai
 - Užėmė Naugardą: [[objektai/asmenys/Šich Achmetas]]
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -55,8 +55,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
 ## Teiginiai
 
 <a id="claim-t-12397"></a>
-- t-001
-  global_id: t-12397
+- t-004
   teiginys: "Astravos sutartimi Vytautas pažadėjo Jogailą ir Jadvygą remti kariuomene, turtu ir ginklais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - c-14174
 
 <a id="claim-t-12398"></a>
-- t-002
-  global_id: t-12398
+- t-005
   teiginys: "Sutartis grąžino Vytautui Lietuvos valdžią didžiojo kunigaikščio teisėmis kaip lėną."
   atnaujinta: "2026-06-10 12:34"
   sprendimo_priezastis: "auto"
@@ -95,8 +93,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - c-15978
 
 <a id="claim-t-12399"></a>
-- t-003
-  global_id: t-12399
+- t-006
   teiginys: "Po Astravos sutarties Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -112,8 +109,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - c-15979
 
 <a id="claim-t-176169"></a>
-- t-004
-  global_id: t-176169
+- t-007
   teiginys: "1392 m. Astravos dvare prie Lydos Vytautas, atsimetęs nuo Ordino, susitaikė su Jogaila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,8 +128,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - c-160214
 
 <a id="claim-t-176170"></a>
-- t-005
-  global_id: t-176170
+- t-008
   teiginys: "Astravos sutartį atskirais dokumentais patvirtino Jogailos ir Vytauto pusės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -167,8 +162,9 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12397
-    - t-12398
+    - t-004
+    - t-005
+
 - id: c-15978
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -186,7 +182,8 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12398
+    - t-005
+
 - id: c-15979
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -199,20 +196,15 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     damas jam vietininko valdžią Vilniaus did. kunigaikštijoj, bet
     dar tą valdžią išplėtė ir, apskritai, visose Lietuvos ir Rusijos
     žemėse^4 ).
-  citata_rodoma: |
-    Jogaila kartu su Vytautu apleidę Ostrovą, atvyko į Vilnių.
-    Čia bebūdamas Jogaila, kaip tai aiškiai liudija Dlugošas ir kiti,
-    ne tik pasodino Vytautą J. Olesnickio vietoje, tuo būdu atiduo­
-    damas jam vietininko valdžią Vilniaus did. kunigaikštijoj, bet
-    dar tą valdžią išplėtė ir, apskritai, visose Lietuvos ir Rusijos
-    žemėse
+  citata_rodoma: "Jogaila kartu su Vytautu apleidę Ostrovą, atvyko į Vilnių.\nČia bebūdamas Jogaila, kaip tai aiškiai liudija Dlugošas ir kiti,\nne tik pasodino Vytautą J. Olesnickio vietoje, tuo būdu atiduo­\ndamas jam vietininko valdžią Vilniaus did. kunigaikštijoj, bet\ndar tą valdžią išplėtė ir, apskritai, visose Lietuvos ir Rusijos\nžemėse"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12399
+    - t-006
+
 - id: c-160212
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -224,18 +216,15 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     pusių atskirais dokumentais. Be Jogailos ir Vytauto, tą susita-
     rimą atskirais dokumentais dar patvirtino ir jų žmonos — Jad-
     vyga ir Ona.
-  citata_rodoma: |
-    Sutartis buvo patvirtinta abiejų
-    pusių atskirais dokumentais. Be Jogailos ir Vytauto, tą susita-
-    rimą atskirais dokumentais dar patvirtino ir jų žmonos — Jad-
-    vyga ir Ona.
+  citata_rodoma: "Sutartis buvo patvirtinta abiejų\npusių atskirais dokumentais. Be Jogailos ir Vytauto, tą susita-\nrimą atskirais dokumentais dar patvirtino ir jų žmonos — Jad-\nvyga ir Ona."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176170
+    - t-008
+
 - id: c-160214
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -249,17 +238,11 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     jo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-
     tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
     valdžią ir visada jį palaikyti.
-  citata_rodoma: |
-    Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila As-
-    travos dvare, paliai Lydą. Čia buvo sudaryta sutartis, kuria Jo-
-    gaila grąžino Vytautui visas jo tėvo žemes, paliko jam po pirmo-
-    jo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-
-    tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
-    valdžią ir visada jį palaikyti.
+  citata_rodoma: "Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila As-\ntravos dvare, paliai Lydą. Čia buvo sudaryta sutartis, kuria Jo-\ngaila grąžino Vytautui visas jo tėvo žemes, paliko jam po pirmo-\njo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-\ntautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją\nvaldžią ir visada jį palaikyti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176169
+    - t-007

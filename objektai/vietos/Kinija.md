@@ -38,7 +38,6 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
 
 <a id="claim-t-76525"></a>
 - t-001
-  global_id: t-76525
   teiginys: "Vilniaus akademiją steigę jėzuitai manė, kad per Maskoviją ir totorius galima pasiekti Kiniją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
     - c-74092
 
 <a id="claim-t-76526"></a>
-- t-002
-  global_id: t-76526
+- t-003
   teiginys: "Andrius Rudamina Kinijoje misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
     - c-74090
 
 <a id="claim-t-76527"></a>
-- t-003
-  global_id: t-76527
+- t-002
   teiginys: "Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,16 +115,16 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
     naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Ruda-
     miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
     1626–1634 m. ir rašė asketikos veikalus kinų kalba.
-  citata_rodoma: |
-    miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
+  citata_rodoma: "miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76526
-    - t-76527
+    - t-003
+    - t-002
+
 - id: c-74092
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -139,12 +136,11 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
     aišku jau akademiją steigusiems jėzuitams. Vienas jų tada rašė: „Reikia
     taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją,
     o iš jos per totorius galėsime pasiekti ir Kiniją.
-  citata_rodoma: |
-    taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją,
+  citata_rodoma: "taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76525
+    - t-001

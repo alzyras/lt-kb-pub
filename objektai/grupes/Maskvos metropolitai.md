@@ -30,8 +30,7 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
 ## Teiginiai
 
 <a id="claim-t-86762"></a>
-- t-001
-  global_id: t-86762
+- t-002
   teiginys: "Maskvos metropolitas Fotijas siekė išprašyti Kijevo metropolijos prijungimą prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
     - c-82742
 
 <a id="claim-t-86763"></a>
-- t-002
-  global_id: t-86763
+- t-001
   teiginys: "Michał Balińskis Maskvos metropolitų religinę viršenybę Lietuvos rusiškojo tikėjimo vyskupams laikė dideliu Vytauto nepatogumu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,8 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86763
+    - t-001
+
 - id: c-82742
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -122,4 +121,4 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86762
+    - t-002

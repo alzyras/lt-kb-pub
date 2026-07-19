@@ -39,7 +39,6 @@ PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas žurn.
 
 <a id="claim-t-31896"></a>
 - t-001
-  global_id: t-31896
   teiginys: "„Przegląd Historyczny“ yra nuo 1910 m. Varšuvoje leidžiamas žurnalas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,14 +73,11 @@ PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas žurn.
     PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas
     žurn.
     PHW = Przegląd Historyczno - Wojskowy.
-  citata_rodoma: |
-    PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas
-    žurn.
-    PHW = Przegląd Historyczno - Wojskowy.
+  citata_rodoma: "PH = Przegląd Historyczny, Varšuvoje nuo 1910 m. leidžiamas\nžurn.\nPHW = Przegląd Historyczno - Wojskowy."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31896
+    - t-001

@@ -39,7 +39,6 @@ Dusburgietis teigia, kad kołzebue A.
 
 <a id="claim-t-60845"></a>
 - t-001
-  global_id: t-60845
   teiginys: "Kołzebue A. 1808 m. Rygoje išleido antrąjį veikalo „Preußens ältere Geschichte“ tomą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Dusburgietis teigia, kad kołzebue A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60845
+    - t-001

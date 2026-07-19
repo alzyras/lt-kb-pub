@@ -38,7 +38,6 @@ Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panaikino Rusijos imperijos
 
 <a id="claim-t-21100"></a>
 - t-001
-  global_id: t-21100
   teiginys: "Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panaikino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė nebeatsikūrė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,12 +69,11 @@ Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panaikino Rusijos imperijos
     mo) aktas. Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panai-
     kino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė
     nebeatsikūrė.
-  citata_rodoma: |
-    kino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė
+  citata_rodoma: "kino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21100
+    - t-001

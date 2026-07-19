@@ -39,8 +39,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 ## Teiginiai
 
 <a id="claim-t-182726"></a>
-- t-001
-  global_id: t-182726
+- t-023
   teiginys: "SSRS unifikacinė politika nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai pasivyti kaimynes pagal visus parametrus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-166144
 
 <a id="claim-t-182729"></a>
-- t-002
-  global_id: t-182729
+- t-004
   teiginys: "Latvija ir Estija vengė kištis į Lenkijos ir Lietuvos konfliktą dėl Vilniaus, abi gravitavo į Varšuvą, o Lietuva dėl Vilniaus problemos iškrisdavo iš perspektyvaus regioninio darinio su Lenkija priešakyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-166143
 
 <a id="claim-t-193182"></a>
-- t-003
-  global_id: t-193182
+- t-024
   teiginys: "Karalius vis tiek įsakė Livonijoje stovinčios kariuomenės (jos ten buvo labai maža) vadams pulti švedus Estijoje."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -279,20 +276,15 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     regioninio darinio su Lenkija priešakyje. Išnaudodama lietuvių ir lenkų
     konfliktą savo tikslams Maskva žaidė savo naudai, o tai kenkė ir Baltijos
     šalių, ir Lenkijos interesams.
-  citata_rodoma: |
-    Latvija ir Es-
-    tija vengė kištis į Lenkijos ir Lietuvos konfliktą dėl Vilniaus, abi gravitavo
-    į Varšuvą, o Lietuva dėl Vilniaus problemos iškrisdavo iš perspektyvaus
-    regioninio darinio su Lenkija priešakyje. Išnaudodama lietuvių ir lenkų
-    konfliktą savo tikslams Maskva žaidė savo naudai, o tai kenkė ir Baltijos
-    šalių, ir Lenkijos interesams.
+  citata_rodoma: "Latvija ir Es-\ntija vengė kištis į Lenkijos ir Lietuvos konfliktą dėl Vilniaus, abi gravitavo \nį Varšuvą, o Lietuva dėl Vilniaus problemos iškrisdavo iš perspektyvaus \nregioninio darinio su Lenkija priešakyje. Išnaudodama lietuvių ir lenkų \nkonfliktą savo tikslams Maskva žaidė savo naudai, o tai kenkė ir Baltijos \nšalių, ir Lenkijos interesams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182729
+    - t-004
+
 - id: c-166144
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -306,21 +298,15 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     Baltijos sesėms dabar jau reikėjo ne kovoti už nepriklausomybę, o kurti
     naują ekonomiką, spręsti energetinės nepriklausomybės klausimus, ieš-
     koti naujų rinkų ir savo vietos Europoje, pasaulyje.
-  citata_rodoma: |
-    Unitari-
-    nė, unifikacinė SSRS politika gerokai nusmukdė Latvijos ir Estijos lygį,
-    bet leido pakilti Lietuvos lygiui, tad pagaliau visais parametrais pasivijo-
-    me kaimynus ir gaminome tiek, kiek latviai ir estai kartu sudėjus. Tačiau
-    Baltijos sesėms dabar jau reikėjo ne kovoti už nepriklausomybę, o kurti
-    naują ekonomiką, spręsti energetinės nepriklausomybės klausimus, ieš-
-    koti naujų rinkų ir savo vietos Europoje, pasaulyje.
+  citata_rodoma: "Unitari-\nnė, unifikacinė SSRS politika gerokai nusmukdė Latvijos ir Estijos lygį, \nbet leido pakilti Lietuvos lygiui, tad pagaliau visais parametrais pasivijo-\nme kaimynus ir gaminome tiek, kiek latviai ir estai kartu sudėjus. Tačiau \nBaltijos sesėms dabar jau reikėjo ne kovoti už nepriklausomybę, o kurti \nnaują ekonomiką, spręsti energetinės nepriklausomybės klausimus, ieš-\nkoti naujų rinkų ir savo vietos Europoje, pasaulyje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182726
+    - t-023
+
 - id: c-175927
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -336,7 +322,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193182
+    - t-024
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vulfstanas]]
 - Buvo užkariauta: [[objektai/grupes/Sovietų Sąjunga]]

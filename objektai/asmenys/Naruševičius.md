@@ -32,9 +32,8 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
 
 <a id="claim-t-191190"></a>
 - t-001
-  global_id: t-191190
   teiginys: "Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Germanijos į Sarmatiją, tiltu kėlėsi per Vyslos žemupį."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -54,12 +53,11 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174072
-    - c-001
+
 <a id="claim-t-191191"></a>
 - t-002
-  global_id: t-191191
   teiginys: "Naruševičius tapatino Ptolemėjo chunus su graikų-skitų gentimi Geniui, kuri, anot jo, buvo atsikėlusi iš Chijo salos."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -75,10 +73,9 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174073
-    - c-002
+
 <a id="claim-t-197431"></a>
-- t-003
-  global_id: t-197431
+- t-004
   teiginys: "Narbutas teigia, kad naruševičius priklauso^ prie dievo Višnaus paslapčių, išreiškia teikiamą jam garbę '."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -105,8 +102,6 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191190
 - c-002
   santrauka: 'Naruševičius tapatino Ptolemėjo chunus su graikų-skitų gentimi Geniui, kuri, anot jo, buvo atsikėlusi iš Chijo salos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -124,8 +119,7 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191191
+
 ## Citatos
 
 - id: c-174072
@@ -141,20 +135,15 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
     Plinijaus kompiliacijose, rodo, kad ši tauta buvusi labai
     sena, be to, Jordanas teigia, kad spaliai gyveno dabarti­
     nėje Mazovijoje.
-  citata_rodoma: |
-    70
-    161 metai. Gotų žygis su Filimeru. 161 krikščioniško­
-    sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
-    savo karaliumi Filimeru, pereidami iš Germanijos į Sar-
-    matiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­
-    met ribojo senovės geografų taip pavadintus kraštus.
+  citata_rodoma: "70\n161 metai. Gotų žygis su Filimeru. 161 krikščioniško­\nsios eros metais, pasak Naruševičiaus tyrimų1, gotai su\nsavo karaliumi Filimeru, pereidami iš Germanijos į Sar-\nmatiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­\nmet ribojo senovės geografų taip pavadintus kraštus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191190
+    - t-001
+
 - id: c-174073
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -169,22 +158,15 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
     atskirai ir padarė dvi tautas, kiek panašiai pavadinęs,
     nes ne visuomet buvo įmanoma patikrinti. Krikščioniško- * 5
     1 Lib. XXXI.
-  citata_rodoma: |
-    Prajus** vėlgi kalba apie tą patį, žiūrė­
-    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
-    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
-    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
-    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
-    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
-    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
-    Chue, Chunnigard-, ji priklausė minėtai tautai.
+  citata_rodoma: "Prajus** vėlgi kalba apie tą patį, žiūrė­\ndamas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­\nševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­\njoja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti\nten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip\nir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­\nnoma, kad Dnepro pakrantėje buvo tvirtovė, vadinama\nChue, Chunnigard-, ji priklausė minėtai tautai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191191
+    - t-002
+
 - id: c-179182
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -203,4 +185,4 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197431
+    - t-004

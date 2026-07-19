@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-75143"></a>
 - t-001
-  global_id: t-75143
   teiginys: "Lietuvos ir Lenkijos sutarties preambulėje pasmerktas smurtas abiejų tautų santykiuose ir patvirtintas dabartinių teritorijų vientisumas."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -72,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-75144"></a>
 - t-002
-  global_id: t-75144
   teiginys: "Ratifikavus Lietuvos ir Lenkijos sutartį, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -89,7 +87,6 @@ Nenurodyta
 
 <a id="claim-t-75145"></a>
 - t-003
-  global_id: t-75145
   teiginys: "Lietuvos ir Lenkijos sutarties preambulėje abi valstybės patvirtino dabartinių teritorijų su sostinėmis Vilniumi ir Varšuva vientisumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -124,19 +121,15 @@ Nenurodyta
     smurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių
     iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir
     Varšuva vientisumą[as] dabar ir ateityje“.
-  citata_rodoma: |
-    Dokumento preambulėje, be kitų nuostatų, buvo primin-
-    ti ankstesni Lenkijos ir Lietuvos nesutarimai dėl teritorijų, pasmerktas
-    smurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių
-    iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir
-    Varšuva vientisumą[as] dabar ir ateityje“.
+  citata_rodoma: "Dokumento preambulėje, be kitų nuostatų, buvo primin-\nti ankstesni Lenkijos ir Lietuvos nesutarimai dėl teritorijų, pasmerktas\nsmurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių\niškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir\nVaršuva vientisumą[as] dabar ir ateityje“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75143
+    - t-001
+
 - id: c-23033
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -151,15 +144,12 @@ Nenurodyta
     kaimynyste ir remti viena kitos integraciją į Vakarų valstybių šeimą. Ra-
     tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė
     bet kokių pretenzijų į Vilniaus kraštą.
-  citata_rodoma: |
-    Ra-
-    tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė
-    bet kokių pretenzijų į Vilniaus kraštą.
+  citata_rodoma: "Ra-\ntifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė\nbet kokių pretenzijų į Vilniaus kraštą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75144
-    - t-75145
+    - t-002
+    - t-003

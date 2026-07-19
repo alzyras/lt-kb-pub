@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-87063"></a>
 - t-001
-  global_id: t-87063
   teiginys: "1505 metais karalius nurodė Vilniaus miestą apjuosti mūro siena, o negalintiems jos statyti leido tverti statinių tvorą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-87064"></a>
 - t-002
-  global_id: t-87064
   teiginys: "Vilniaus miestiečiai prie miesto vartų turėjo dieną ir naktį eiti sargybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +90,6 @@ Nenurodyta
 
 <a id="claim-t-87065"></a>
 - t-003
-  global_id: t-87065
   teiginys: "1506 metais Vilniaus miestiečiai, remiami vyskupo Vaitiekaus Taboro, apjuosė miestą mūro pylimu vietoj medinių statinių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -135,7 +132,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87065
+    - t-003
+
 - id: c-83043
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -158,7 +156,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87063
+    - t-001
+
 - id: c-83044
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -180,4 +179,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87064
+    - t-002

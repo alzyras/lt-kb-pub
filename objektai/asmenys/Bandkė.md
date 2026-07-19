@@ -30,7 +30,6 @@ Narbutas nurodo, kad Bandkė savo Lenkijos istorijoje lietuvių Gurko tapatino s
 
 <a id="claim-t-190133"></a>
 - t-001
-  global_id: t-190133
   teiginys: "Narbutas nurodo, kad Bandkė savo Lenkijos istorijoje lietuvių Gurko tapatino su slavų Gurovidu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Narbutas nurodo, kad Bandkė savo Lenkijos istorijoje lietuvių Gurko tapatino s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190133
+    - t-001

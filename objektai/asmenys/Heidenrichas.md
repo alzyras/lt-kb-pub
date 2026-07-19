@@ -31,7 +31,6 @@ Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, to
 
 <a id="claim-t-60302"></a>
 - t-001
-  global_id: t-60302
   teiginys: "Brolis Heidenrichas, tos pačios pilies kunigas, matė ir viešai skelbė pasakojimą apie medinio nukryžiuotojo palaiminimą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,18 +58,11 @@ Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, to
     Šitai matė ir viešai skelbė brolis Heidenrichas, tos pačios pilies kunigas, kuris tuo metu
     pasislėpęs meldėsi viename koplyčios kampelyje.
     70 (69).
-  citata_rodoma: |
-    Šitai matė ir viešai skelbė brolis Heidenrichas, tos pačios pilies kunigas, kuris tuo metu
-    pasislėpęs meldėsi viename koplyčios kampelyje.
-
-
-
-
-                   70 (69).
+  citata_rodoma: "Šitai matė ir viešai skelbė brolis Heidenrichas, tos pačios pilies kunigas, kuris tuo metu\npasislėpęs meldėsi viename koplyčios kampelyje.\n\n\n\n\n               70 (69)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60302
+    - t-001

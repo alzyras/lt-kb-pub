@@ -32,7 +32,6 @@ Sabeckio vadovaujama 300 karių grupė (dvi kuopos iš 7-ojo fusilierių regimen
 
 <a id="claim-t-39724"></a>
 - t-001
-  global_id: t-39724
   teiginys: "E. Sabeckio vadovaujama 300 karių grupė netikėtu puolimu užėmė hauptvachtą prie Šv. Kazimiero bažnyčios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Sabeckio vadovaujama 300 karių grupė (dvi kuopos iš 7-ojo fusilierių regimen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39724
+    - t-001

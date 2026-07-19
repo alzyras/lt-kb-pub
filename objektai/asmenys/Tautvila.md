@@ -40,7 +40,6 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 
 <a id="claim-t-87601"></a>
 - t-001
-  global_id: t-87601
   teiginys: "Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,9 +57,8 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 
 <a id="claim-t-188620"></a>
 - t-002
-  global_id: t-188620
   teiginys: "Narbutas pasakoja, kad Kęstutis su žmona turėjo sūnus Patriką, Vytautą, Tautvilą, Sigailą, arba Žygimantą, ir dukterį Danutę."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -77,10 +75,9 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171509
-    - c-002
+
 <a id="claim-t-188621"></a>
 - t-003
-  global_id: t-188621
   teiginys: "Narbutas pasakoja, kad po Mindaugo žūties Polocko kunigaikštį Tautvilą per ginčą dėl grobio nužudė Treniota."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -126,8 +123,7 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188620
+
 ## Citatos
 
 - id: c-83580
@@ -172,50 +168,15 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
     broliui, riteriui kunigaikščiui, prie­
     dermes/7  Knyga XIII, p. 455, Varš.
     leid.
-  citata_rodoma: |
-    - • —
-    126
-
-    ## Puslapis 143
-
-    Il KNYGA
-    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
-    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
-    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją. Puolėjų nuos­
-    toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie
-    Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­
-    čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­
-    fas Algardas34. Šitaip Kryžiuočių ordino kruvina politika
-    34
-    Strijkovskis prie nukautų tos
-    apsupties metu priskiria Nariman­
-    tą, įdėdamas šį D 1  u g o š o prasi­
-    manytą pasakojimą: „Narimantas,
-    Pinsko kunigaikštis, Jogailos tikras
-    brolis, tuo metu, kai narsiai abi pilis
-    su Lietuva ir Rusia gindamas ėjo į
-    pagalbą nuo vienų prie kitų, buvo
-    kažkokio vokiečio riterio, ne pras­
-    čioko, iš Vytauto pusės, iškviestas
-    stoti vienas prieš vieną, o kai abu iš
-    mūšio lauko atjoję į pievą narsiai su­
-    kryžiavo ietis, ir pats Narimantas,
-    nuo žirgo nublokštas, buvo sučiup­
-    tas ir atvestas pas Vytautą, pastara­
-    sis aną be gailesčio įsakė už kojų ant
-    vinkšnos šakos pakarti lankoje, tarp
-    vokiečių patrankų ir šaudyklių, o
-    patį mirtinai iš lanko paleista strėle
-    pervėrė, pamindamas deramas pus­
-    broliui, riteriui kunigaikščiui, prie­
-    dermes/7  Knyga XIII, p.
+  citata_rodoma: "- • —  \n126\n\n## Puslapis 143\n\nIl KNYGA\npo įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­\nžiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir \nkalaviju nusiaubę, grįžo į Prūsiją ir Livoniją. Puolėjų nuos­\ntoliai buvo irgi ne mažesni; be daugybės nukautų karių, prie \nVilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­\nčio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­\nfas Algardas34. Šitaip Kryžiuočių ordino kruvina politika\n34\nStrijkovskis prie nukautų tos \napsupties metu priskiria Nariman­\ntą, įdėdamas šį D 1  u g o š o prasi­\nmanytą pasakojimą: „Narimantas, \nPinsko kunigaikštis, Jogailos tikras \nbrolis, tuo metu, kai narsiai abi pilis \nsu Lietuva ir Rusia gindamas ėjo į \npagalbą nuo vienų prie kitų, buvo \nkažkokio vokiečio riterio, ne pras­\nčioko, iš Vytauto pusės, iškviestas \nstoti vienas prieš vieną, o kai abu iš \nmūšio lauko atjoję į pievą narsiai su­\nkryžiavo ietis, ir pats Narimantas, \nnuo žirgo nublokštas, buvo sučiup­\ntas ir atvestas pas Vytautą, pastara­\nsis aną be gailesčio įsakė už kojų ant \nvinkšnos šakos pakarti lankoje, tarp \nvokiečių patrankų ir šaudyklių, o \npatį mirtinai iš lanko paleista strėle \npervėrė, pamindamas deramas pus­\nbroliui, riteriui kunigaikščiui, prie­\ndermes/7  Knyga XIII, p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87601
+    - t-001
+
 - id: c-171509
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -232,23 +193,15 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
     beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­
     tės kapo paprastų žmonių, susirenkančių net iš toli, jos prisi­
     minimo ir garbinimo apeigos.
-  citata_rodoma: |
-    Žemaičių ir Trakų kuni­
-    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
-    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
-    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
-    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
-    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
-    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
-    Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
-    nė, būdama gyva, garsėjo savo kilniaširdiškumu.
+  citata_rodoma: "Žemaičių ir Trakų kuni­\ngaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­\nsitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją\nir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį\nbuvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­\ngaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip\nžmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,\nSigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­\nnė, būdama gyva, garsėjo savo kilniaširdiškumu."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188620
+    - t-002
+
 - id: c-171510
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -270,7 +223,8 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188621
+    - t-003
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Rėmė Tautvilą: [[objektai/grupes/Rusai]]

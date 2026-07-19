@@ -31,9 +31,8 @@ Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė
 
 <a id="claim-t-60476"></a>
 - t-001
-  global_id: t-60476
   teiginys: "Štenkelis iš Bentheimo Pokarviuose įsiveržė į notangų rikiuotę ir grįždamas buvo nukautas."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Notangai: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -49,7 +48,6 @@ Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė
 
 <a id="claim-t-197168"></a>
 - t-002
-  global_id: t-197168
   teiginys: "Štenkelis iš Bentheimo buvo sudegintas367."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,21 +72,12 @@ Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė
     tuo metu, kai tas ant arklio sudegintas miestietis išleido paskutinį atodūsį, jie išvydo jam
     iš burnos išskrendant baltų balčiausią balandį.
     362  Vestfalijos (?) feodalas.
-  citata_rodoma: |
-    Kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės
-    siaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį;
-    maldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu
-    Štenkelis iš Bentheimo, kuris kadaise patyrė iš vieno vyskupo pamokslo, kad tikinčiųjų,
-    nukautų Prūsijoje, sielos kylančios tiesiai į dangų, aplenkdamos skaistyklą, todėl dabar,
-    paspaudęs savo žirgą pentinais, atstatęs ietį, kaip paprastai daro kariai, įsibrovė į priešo
-    rikiuotę, žudydamas nedorėlius į dešinę ir kairę, o jie krito žemėn vieni čia, kiti ten. Vis
-    dėlto, kai grįždamas brovėsi per juos, buvo nukautas, o tarp jų prasidėjo atkakli kova,
-    pareikalavusi ir vienoje, ir kitoje pusėje daugybės mirtinai sužeistų arba užmuštų.
+  citata_rodoma: "Kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės\nsiaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį;\nmaldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu\nŠtenkelis iš Bentheimo, kuris kadaise patyrė iš vieno vyskupo pamokslo, kad tikinčiųjų,\nnukautų Prūsijoje, sielos kylančios tiesiai į dangų, aplenkdamos skaistyklą, todėl dabar,\npaspaudęs savo žirgą pentinais, atstatęs ietį, kaip paprastai daro kariai, įsibrovė į priešo\nrikiuotę, žudydamas nedorėlius į dešinę ir kairę, o jie krito žemėn vieni čia, kiti ten. Vis\ndėlto, kai grįždamas brovėsi per juos, buvo nukautas, o tarp jų prasidėjo atkakli kova,\npareikalavusi ir vienoje, ir kitoje pusėje daugybės mirtinai sužeistų arba užmuštų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60476
-    - t-197168
+    - t-001
+    - t-002

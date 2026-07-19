@@ -31,7 +31,6 @@ Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairio
 
 <a id="claim-t-188987"></a>
 - t-001
-  global_id: t-188987
   teiginys: "Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairiojo Ditvos kranto, o dešiniajame krante jų nebuvę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188987
+    - t-001

@@ -30,47 +30,18 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
 
 <a id="claim-t-185446"></a>
 - t-001
-  global_id: t-185446
   teiginys: "Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad būtų stabdomos plintančios bažnytinės naujovės."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusų tautos suvažiavimas Lietuvos Naugarduke: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusų tautos suvažiavimas Lietuvos Naugarduke\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168807
-
-<a id="claim-t-185447"></a>
-- t-002
-  global_id: t-185447
-  teiginys: "Rusų tautos suvažiavime Lietuvos Naugarduke Grigorijus Fotijus buvo suimtas ir visuotiniu pritarimu pašalintas iš pareigų."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusų tautos suvažiavimas Lietuvos Naugarduke: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusų tautos suvažiavimas Lietuvos Naugarduke\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168808
 
 <a id="claim-t-196122"></a>
-- t-003
-  global_id: t-196122
+- t-004
   teiginys: "Po karo suiručių susilauV y ta u la s p u ola schizkęs ramybės, Vytautas pasim ą, p lin ta n čią jo va ijuto saugus ir uoliai įniko d o se ginti visoje valstybėje tikrą jį tikėjimą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -82,8 +53,7 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
     - c-178541
 
 <a id="claim-t-196123"></a>
-- t-004
-  global_id: t-196123
+- t-005
   teiginys: "Kojelavičius rašo, kad Vytautas sušaukė ganytojų suvažiavimą, norėdamas užkirsti kelią rusų dvasininkų atsiskyrimui nuo Romos bažnyčios."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -121,11 +91,10 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
     bažnyčia.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185446
 - id: c-168808
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -150,8 +119,9 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185447
-    - t-196123
+    - t-001
+    - t-005
+
 - id: c-178541
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -179,4 +149,4 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196122
+    - t-004

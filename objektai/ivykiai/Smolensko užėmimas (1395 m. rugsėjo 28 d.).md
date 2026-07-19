@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-34497"></a>
 - t-001
-  global_id: t-34497
   teiginys: "1395 m. rugsėjo 28 d. lietuviai įėjo į Smolenską po to, kai Vytautas suėmė Hlebą ir išsiuntė jį į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,4 +95,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34497
+    - t-001

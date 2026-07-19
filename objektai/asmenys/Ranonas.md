@@ -32,7 +32,6 @@ Teodoro Narbuto perteiktoje Danijos istorijos žinioje rusų karvedys Ranonas ž
 
 <a id="claim-t-191456"></a>
 - t-001
-  global_id: t-191456
   teiginys: "Teodoro Narbuto perteiktoje Danijos istorijos žinioje rusų karvedys Ranonas žuvo mūšyje, po kurio Rotala perėjo Danijos karaliui."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,7 @@ Teodoro Narbuto perteiktoje Danijos istorijos žinioje rusų karvedys Ranonas ž
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174338
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto perteiktoje Danijos istorijos žinioje rusų karvedys Ranonas žuvo mūšyje, po kurio Rotala perėjo Danijos karaliui.'
@@ -67,8 +66,7 @@ Teodoro Narbuto perteiktoje Danijos istorijos žinioje rusų karvedys Ranonas ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191456
+
 ## Citatos
 
 - id: c-174338
@@ -86,17 +84,11 @@ Teodoro Narbuto perteiktoje Danijos istorijos žinioje rusų karvedys Ranonas ž
     nugalėti turtingą tenykštį karaliuką, vardu Ganduvanas2,
     su kuriuo susidoroti buvo ne taip lengva; jis sudarė su
     juo sąjungą ir vedė jo dukrą.
-  citata_rodoma: |
-    Senovės Danijos istorijoje randame ži­
-    nių, jog karalius Protonas I su stipriu laivynu nuplaukė
-    prie rytinių Baltijos jūros pakrančių, ketindamas užpulti
-    rusus. Kautynes laimėjo danai. Rusų karvedys, vardu
-    Ranonas, žuvo mūšyje, o jo valdų sostinė Rotala perėjo
-    Danijos karaliaus valdžion.
+  citata_rodoma: "Senovės Danijos istorijoje randame ži­\nnių, jog karalius Protonas I su stipriu laivynu nuplaukė\nprie rytinių Baltijos jūros pakrančių, ketindamas užpulti\nrusus. Kautynes laimėjo danai. Rusų karvedys, vardu\nRanonas, žuvo mūšyje, o jo valdų sostinė Rotala perėjo\nDanijos karaliaus valdžion."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191456
+    - t-001

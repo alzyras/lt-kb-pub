@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-194841"></a>
 - t-001
-  global_id: t-194841
   teiginys: "(Medicinos daktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį pastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos dalykus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194841
+    - t-001

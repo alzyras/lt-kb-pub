@@ -37,8 +37,7 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
 ## Teiginiai
 
 <a id="claim-t-78014"></a>
-- t-001
-  global_id: t-78014
+- t-003
   teiginys: "Šv. Kazimiero kultas rodė Lietuvoje susiformavusią stiprią, į Vakarų Europą orientuotą religinę savimonę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
     - c-75331
 
 <a id="claim-t-78015"></a>
-- t-002
-  global_id: t-78015
+- t-001
   teiginys: "Šv. Kazimiero garbinimo tradicijos klostymasis tapo Lietuvos krikščionėjimo simboliu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,8 +69,7 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
     - c-75330
 
 <a id="claim-t-78016"></a>
-- t-003
-  global_id: t-78016
+- t-004
   teiginys: "1792 m. ant katedros frontono buvo baigta Lietuvos globėjo šv. Kazimiero skulptūra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +88,7 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
     - c-75332
 
 <a id="claim-t-78017"></a>
-- t-004
-  global_id: t-78017
+- t-002
   teiginys: "XVI a. pradžioje karalaitis Kazimieras buvo garbinamas Vilniaus apylinkėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +109,6 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
 
 <a id="claim-t-200769"></a>
 - t-005
-  global_id: t-200769
   teiginys: "Šv. Kazimiero koplyčia Katedroje buvo pastatyta 1620–1630 m. šventojo palaikams saugoti."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -154,7 +149,8 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78017
+    - t-002
+
 - id: c-75330
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -174,7 +170,8 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78015
+    - t-001
+
 - id: c-75331
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -191,7 +188,8 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78014
+    - t-003
+
 - id: c-75332
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -205,7 +203,8 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78016
+    - t-004
+
 - id: c-184114
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -224,4 +223,4 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200769
+    - t-005

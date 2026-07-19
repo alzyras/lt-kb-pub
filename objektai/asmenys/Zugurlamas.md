@@ -32,7 +32,6 @@ Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vad
 
 <a id="claim-t-191488"></a>
 - t-001
-  global_id: t-191488
   teiginys: "Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vadina įžymiu rusų karaliumi, gyvenusiu III amžiuje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191488
+    - t-001

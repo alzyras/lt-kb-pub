@@ -33,7 +33,6 @@ Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už 
 
 <a id="claim-t-201139"></a>
 - t-001
-  global_id: t-201139
   teiginys: "Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už tarymo tenai naujos bažnyčios ir gelbėjimo ūkės Konrado, kursai su didžiausiu džiaugsmu pasiėmė tokį jo ketėjimą steigti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už 
 ## Citatos
 
 - id: c-184489
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Albertas buvo sau įkūręs, kursai kas
     dieną platinos, noris per 20 metų tuointimpos ka­
@@ -64,4 +64,4 @@ Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201139
+    - t-001

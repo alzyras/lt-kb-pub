@@ -31,7 +31,6 @@ Narbutas rašo, kad graikų emporiumai, arba prekyvietės, VII amžiuje prieš K
 
 <a id="claim-t-192925"></a>
 - t-001
-  global_id: t-192925
   teiginys: "Narbutas rašo, kad graikų emporiumai, arba prekyvietės, VII amžiuje prieš Kristaus gimimą klestėjo ir vėliau praturtėjo kaip Olbija, Heraklėja ir Chersonas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas rašo, kad graikų emporiumai, arba prekyvietės, VII amžiuje prieš K
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192925
+    - t-001

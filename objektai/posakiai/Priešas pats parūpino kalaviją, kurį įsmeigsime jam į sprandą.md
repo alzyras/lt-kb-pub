@@ -51,11 +51,7 @@ Nenurodyta
     liavų užėmė dešinįjį sparną, nenorėdamas, kad kryžiuo­
     čiai, pastebėję priešininkus delsiant, įgytų pasitikėjimo
     savo jėgomis.
-  citata_rodoma: |
-    Ramiai karalius išklausė
-    tų žodžių. „Gerai,— tarė,— mielai priimu šį kovos ženk­
-    lą. Priešas pats parūpino kalaviją, kurį įsmeigsime jam
-    į sprandą".
+  citata_rodoma: "Ramiai karalius išklausė\ntų žodžių. „Gerai,— tarė,— mielai priimu šį kovos ženk­\nlą. Priešas pats parūpino kalaviją, kurį įsmeigsime jam\nį sprandą\"."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas

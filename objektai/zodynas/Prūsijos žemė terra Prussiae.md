@@ -30,8 +30,7 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (ter
 ## Teiginiai
 
 <a id="claim-t-58920"></a>
-- t-001
-  global_id: t-58920
+- t-002
   teiginys: "Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,9 +46,9 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (ter
   pagrindžia:
     - c-59552
     - c-167404
+
 <a id="claim-t-58921"></a>
-- t-002
-  global_id: t-58921
+- t-001
   teiginys: "Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,6 +64,7 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (ter
   pagrindžia:
     - c-59553
     - c-167403
+
 ## Citatos
 
 - id: c-59552
@@ -85,7 +85,8 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (ter
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58920
+    - t-002
+
 - id: c-59553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -105,7 +106,8 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (ter
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58921
+    - t-001
+
 - id: c-167403
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -122,10 +124,12 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (ter
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-167404
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -145,3 +149,5 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (ter
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

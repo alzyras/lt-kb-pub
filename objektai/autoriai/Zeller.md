@@ -38,7 +38,6 @@ Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my lių ilgio, dyd�
 
 <a id="claim-t-194892"></a>
 - t-001
-  global_id: t-194892
   teiginys: "Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai (Zeller."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my lių ilgio, dyd�
 
 <a id="claim-t-197660"></a>
 - t-002
-  global_id: t-197660
   teiginys: "2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai (Zeller."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -83,5 +81,5 @@ Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my lių ilgio, dyd�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194892
-    - t-197660
+    - t-001
+    - t-002

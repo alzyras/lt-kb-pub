@@ -40,8 +40,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 ## Teiginiai
 
 <a id="claim-t-172080"></a>
-- t-001
-  global_id: t-172080
+- t-008
   teiginys: "Michałas Balińskis Gedimino vardu dominikonams, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo klastote."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - c-156509
 
 <a id="claim-t-172081"></a>
-- t-002
-  global_id: t-172081
+- t-013
   teiginys: "Aleksandras, įkurdinęs dominikonus, negrąžino Vingrių šaltinių Vilniaus miestui ir sutiko juos su klebonija perleisti dominikonams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - c-156508
 
 <a id="claim-t-172082"></a>
-- t-003
-  global_id: t-172082
+- t-007
   teiginys: "Gediminas teigė turįs dominikonų brolių ir suteikęs jiems visišką laisvę krikštyti, pamokslauti bei atlikti šventąsias apeigas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +89,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - c-156520
 
 <a id="claim-t-172083"></a>
-- t-004
-  global_id: t-172083
+- t-006
   teiginys: "Gediminas kvietė dominikonus ir žadėjo netrukus duoti jiems bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,8 +106,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - c-156517
 
 <a id="claim-t-172084"></a>
-- t-005
-  global_id: t-172084
+- t-012
   teiginys: "Aleksandras 1501 metais pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,8 +125,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - c-156510
 
 <a id="claim-t-172085"></a>
-- t-006
-  global_id: t-172085
+- t-002
   teiginys: "1323 m. notaro parengtas Gedimino laiškų dominikonams, pranciškonams ir Hanzos miestams dokumentas buvo Karaliaučiaus Slaptajame archyve."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -150,8 +144,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - c-156512
 
 <a id="claim-t-172086"></a>
-- t-007
-  global_id: t-172086
+- t-001
   teiginys: "Gediminas suteikė prieglobstį Lietuvoje apaštalavusiems dominikonams ir prie Vilniaus pilies pastatydino jiems vienuolyną bei bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -168,8 +161,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - c-156518
 
 <a id="claim-t-172087"></a>
-- t-008
-  global_id: t-172087
+- t-005
   teiginys: "Gediminas nurodė pastatęs trečią bažnyčią dominikonams, kad kiekvienas pagal savo apeigas galėtų garbinti Dievą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -185,8 +177,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - c-156505
 
 <a id="claim-t-172089"></a>
-- t-009
-  global_id: t-172089
+- t-015
   teiginys: "Prieglaudos namus vargšams ir ligoniams buvo numatyta statyti prie dominikonų vienuolyno, buvusio prie Šv. Dvasios bažnyčios Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -202,8 +193,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - c-156507
 
 <a id="claim-t-172090"></a>
-- t-010
-  global_id: t-172090
+- t-011
   teiginys: "Lietuvos vyskupas Vitas, dominikonas, 1254 m. gegužės 8 d. dalyvavo skelbiant Šv. Stanislovo kanonizavimą Krokuvos bažnyčioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -222,8 +212,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - c-156506
 
 <a id="claim-t-172091"></a>
-- t-011
-  global_id: t-172091
+- t-004
   teiginys: "Gediminas ketino kviesti dorus dominikonų ir pranciškonų vienuolius, bet nepageidavo vienuolynus plėšikų prieglobsčiu paverčiančių vienuolių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -239,8 +228,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - c-156513
 
 <a id="claim-t-172092"></a>
-- t-012
-  global_id: t-172092
+- t-016
   teiginys: "Ulrikas Hozijus pradėjo statyti prieglaudą prie dominikonų vienuolyno ir spėjo išmūryti nemažą jos dalį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -256,8 +244,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - c-156511
 
 <a id="claim-t-172093"></a>
-- t-013
-  global_id: t-172093
+- t-003
   teiginys: "Gediminas dominikonų magistrams, priorams ir broliams pranešė pasiuntęs laišką popiežiui Jonui dėl krikšto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -274,8 +261,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - c-156519
 
 <a id="claim-t-172095"></a>
-- t-014
-  global_id: t-172095
+- t-010
   teiginys: "Algirdo laikais sugriautos dominikonų ordino brolių bažnyčios griuvėsiai išlaikė Gedimino palankumo krikščionybei atminimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -319,7 +305,8 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172087
+    - t-005
+
 - id: c-156506
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -336,7 +323,8 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172090
+    - t-011
+
 - id: c-156507
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -357,7 +345,8 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172089
+    - t-015
+
 - id: c-156508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -426,7 +415,8 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172081
+    - t-013
+
 - id: c-156509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -451,26 +441,15 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     broliams kryžiuočiams skriaudą darydami, skleidė melą, esą
     rusinai ir lietuviai gera valia pareiškę norą krikščionių pa­
     pročiu krikštytis, bet jiems to daryti neleidžiama.
-  citata_rodoma: |
-    Vėliau viskas byloja, jog Gediminas per pasiun­
-    tinius nurodė, kaip sako Jerošinas, garantuoti, kad
-    niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­
-    jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir
-    popiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­
-    kada nebuvo dėl jų suabejojęs.
-    Jeigu su atida peržvelgsime laiškus, Gedimino vardu
-    rašytus dominikonų ordinui, minoritams ir Vokietijos mies­
-    tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­
-    dijančių juos Rygos arkivyskupo prasimanymu ir klastote
-    esant. Išorinį įrodymą randame pasakytą pirmiausia J e r o -
-    š i n o, p.
+  citata_rodoma: "Vėliau viskas byloja, jog Gediminas per pasiun­\ntinius nurodė, kaip sako Jerošinas, garantuoti, kad \nniekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­\njami jokie laiškai kokiems nors miestams ar šalims, sykiu ir \npopiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­\nkada nebuvo dėl jų suabejojęs.\nJeigu su atida peržvelgsime laiškus, Gedimino vardu \nrašytus dominikonų ordinui, minoritams ir Vokietijos mies­\ntams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­\ndijančių juos Rygos arkivyskupo prasimanymu ir klastote \nesant. Išorinį įrodymą randame pasakytą pirmiausia J e r o - \nš i n o, p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172080
+    - t-008
+
 - id: c-156510
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -483,18 +462,15 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­
     vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­
     sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
-  citata_rodoma: |
-    Aleksandras
-    iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­
-    vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­
-    sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
+  citata_rodoma: "Aleksandras \niš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­\nvo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­\nsios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172084
+    - t-012
+
 - id: c-156511
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -525,7 +501,8 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172092
+    - t-016
+
 - id: c-156512
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -555,38 +532,15 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
     me archyve ir kuriuos Kotzebue
     išspausdino savo Prūsijos istorijoje.
-  citata_rodoma: |
-    406, pri­
-    simena dar vieną Gedimino dukrą,
-    kuri esą buvusi anuomet garbingo
-    riterio Dovydo, Gardino kašteliono,
-    arba tiksliau kunigaikščio, viešpata­
-    vusio Gardino valdoje, žmona.
-    Il
-    Gedimino laiškuose, rašytuose do­
-    minikonų ir Mažesniųjų brolių, ar­
-    ba pranciškonų, ordinams bei Han­
-    zos miestams, kurių autentiškas
-    1323 metais notaro parengtas doku­
-    mentas yra Karaliaučiaus Slaptaja-
-    -  •  -
-    20
-
-    ## Puslapis 37
-
-    I  KNYGA
-    gumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­
-    nių pasirinko jo valdomų visų kraštų sostine tikriausiai
-    todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
-    me archyve ir kuriuos Kotzebue
-    išspausdino savo Prūsijos istorijoje.
+  citata_rodoma: "406, pri­\nsimena dar vieną Gedimino dukrą, \nkuri esą buvusi anuomet garbingo \nriterio Dovydo, Gardino kašteliono, \narba tiksliau kunigaikščio, viešpata­\nvusio Gardino valdoje, žmona.\nIl\nGedimino laiškuose, rašytuose do­\nminikonų ir Mažesniųjų brolių, ar­\nba pranciškonų, ordinams bei Han­\nzos miestams, kurių autentiškas \n1323 metais notaro parengtas doku­\nmentas yra Karaliaučiaus Slaptaja-\n-  •  -\n20\n\n## Puslapis 37\n\nI  KNYGA\ngumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­\nnių pasirinko jo valdomų visų kraštų sostine tikriausiai \ntodėl, kad būdamas arčiau sienų su kryžiuočiais turėjo\nme archyve ir kuriuos Kotzebue \nišspausdino savo Prūsijos istorijoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172085
+    - t-002
+
 - id: c-156513
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -628,7 +582,8 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172091
+    - t-004
+
 - id: c-156516
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -649,7 +604,8 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172095
+    - t-010
+
 - id: c-156517
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -698,7 +654,8 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172083
+    - t-006
+
 - id: c-156518
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -724,29 +681,15 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     Vilnelės vorupę, kuri seniau toje mi­
     nėtosios kalvos pusėje įtekėjo į Vili­
     ją.
-  citata_rodoma: |
-    Jis, pirmasis iš visų Lietuvos kuni­
-    gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­
-    šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
-    Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­
-    konams ir dominikonams, prie Vilniaus pilies pastatydino
-    jiems vienuolynus ir bažnyčias, o kad krašte plistų amatai,
-    leido naujai įkurtame mieste apsigyventi gausiems atėjū­
-    nams iš Vokietijos ir Lenkijos
-    9
-    Manome, kad Pilies kalnas senų se­
-    novėje buvo gerokai mažesnė kalva,
-    užbaigianti virtinę kalnų, juosiančių
-    Vilnelės vorupę, kuri seniau toje mi­
-    nėtosios kalvos pusėje įtekėjo į Vili­
-    ją.
+  citata_rodoma: "Jis, pirmasis iš visų Lietuvos kuni­\ngaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­\nšius su krikščioniškąja Europa, būtent Lenkija ir Rusia10. \nSuteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­\nkonams ir dominikonams, prie Vilniaus pilies pastatydino \njiems vienuolynus ir bažnyčias, o kad krašte plistų amatai, \nleido naujai įkurtame mieste apsigyventi gausiems atėjū­\nnams iš Vokietijos ir Lenkijos\n9\nManome, kad Pilies kalnas senų se­\nnovėje buvo gerokai mažesnė kalva, \nužbaigianti virtinę kalnų, juosiančių \nVilnelės vorupę, kuri seniau toje mi­\nnėtosios kalvos pusėje įtekėjo į Vili­\nją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172086
+    - t-001
+
 - id: c-156519
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -780,7 +723,8 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172093
+    - t-003
+
 - id: c-156520
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -801,6 +745,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172082
+    - t-007
+
 ## Ryšiai
 - Rėmė Dominikonų ordiną: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

@@ -54,8 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54737"></a>
-- t-001
-  global_id: t-54737
+- t-002
   teiginys: "Šubravcų kodeksas smerkė girtavimą ir azartinius žaidimus, o XII straipsnis reikalavo, kad narys kauptų nuosavą biblioteką."
   atnaujinta: "2026-05-27 06:43"
   sprendimo_priezastis: "gap::customs"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-55729
 
 <a id="claim-t-54738"></a>
-- t-002
-  global_id: t-54738
+- t-001
   teiginys: "Šubravcų draugijos kodekse narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::customs"
@@ -103,21 +101,12 @@ Nenurodyta
     lioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­
     jos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­
     suotinumą ir universalumą3.
-  citata_rodoma: |
-    Šubravcų draugijos kodekse suformuluotos narių elgesio
-    ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­
-    mų. Girtavimo, azartinių žaidimų smerkimas, kova prieš asme­
-    nines bei visuomenines ydas rodė ryškų šios organizacijos švie­
-    tėjiškos veiklos pobūdį. Pavyzdžiui, XII šubravcų kodekso
-    straipsnis reikalavo, kad draugijos narys kauptų nuosavą bib­
-    lioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­
-    jos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­
-    suotinumą ir universalumą3.
+  citata_rodoma: "Šubravcų draugijos kodekse suformuluotos narių elgesio \nir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­\nmų. Girtavimo, azartinių žaidimų smerkimas, kova prieš asme­\nnines bei visuomenines ydas rodė ryškų šios organizacijos švie­\ntėjiškos veiklos pobūdį. Pavyzdžiui, XII šubravcų kodekso \nstraipsnis reikalavo, kad draugijos narys kauptų nuosavą bib­\nlioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­\njos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­\nsuotinumą ir universalumą3."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54737
-    - t-54738
+    - t-002
+    - t-001

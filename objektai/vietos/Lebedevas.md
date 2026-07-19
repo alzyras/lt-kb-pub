@@ -30,7 +30,6 @@ Aleksandras Jurjevičius Lietuvoje turėjo Lebedevą.
 
 <a id="claim-t-187251"></a>
 - t-001
-  global_id: t-187251
   teiginys: "Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Lebedevą kartu su Alšėnais, Pumais, Svyruotais ir Šešuoliais."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -46,7 +45,7 @@ Aleksandras Jurjevičius Lietuvoje turėjo Lebedevą.
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170309
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Lebedevą kartu su Alšėnais, Pumais, Svyruotais ir Šešuoliais.'
@@ -60,8 +59,7 @@ Aleksandras Jurjevičius Lietuvoje turėjo Lebedevą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187251
+
 ## Citatos
 
 - id: c-170309
@@ -78,14 +76,11 @@ Aleksandras Jurjevičius Lietuvoje turėjo Lebedevą.
     pareigybė buvo įvesta kaip tik jo mirties
     metais (1497); pirmuoju LDK didžiuoju etmonu buvo paskirtas Kons­
     tantinas Ostrogiškis (žr. past. 24).
-  citata_rodoma: |
-    “  Aleksandras Jurjevičius — kunigaikštis Alšėniškis. Vilniaus
-    vyskupo Povilo Alšėniškio tėvas. Lietuvoje turėtus Alšėnus. Lebede-
-    vų, Pumų, S vyruotus ir Šešuolius.
+  citata_rodoma: "“  Aleksandras Jurjevičius — kunigaikštis Alšėniškis. Vilniaus \nvyskupo Povilo Alšėniškio tėvas. Lietuvoje turėtus Alšėnus. Lebede- \nvų, Pumų, S vyruotus ir Šešuolius."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187251
+    - t-001

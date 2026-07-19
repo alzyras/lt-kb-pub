@@ -40,8 +40,7 @@ Vartojamos formos: `lažu`.
 ## Teiginiai
 
 <a id="claim-t-70014"></a>
-- t-001
-  global_id: t-70014
+- t-004
   teiginys: "`Lažas` siejamas su baudžiavos įvedimu ir laikomas lenkišku žodžiu."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Vartojamos formos: `lažu`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70014
+    - t-004

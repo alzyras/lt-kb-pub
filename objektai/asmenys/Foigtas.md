@@ -31,7 +31,6 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
 
 <a id="claim-t-191345"></a>
 - t-001
-  global_id: t-191345
   teiginys: "Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kraštą ir Aistmarių ploto išsiplėtimą į rytus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,10 +48,9 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174227
-    - c-001
+
 <a id="claim-t-197729"></a>
-- t-002
-  global_id: t-197729
+- t-003
   teiginys: "Iš dalies tai buvo pono Foigto studijos apie senovės Sambijos vitingus (Geschichte der Eidechsen Gesellschaft in Preussen."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -90,11 +88,9 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
     nėra naujas teiginys.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191345
+  statusas: verified
 - c-002
   santrauka: 'Narbutas IV priede rėmėsi Foigto surinktomis žiniomis apie senovės Prūsijos geografiją, statistiką ir provincijų istoriją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -119,10 +115,10 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
     torikas ponas Foigtas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+
 ## Citatos
 
 - id: c-174227
@@ -147,34 +143,15 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
     tesniais laikais buvo gyvenama sausuma, jokiais požiūriais
     nėra naujas teiginys. Dar kronikininkas Lukas Davidas
     (t. IT.
-  citata_rodoma: |
-    333
-
-    ## Puslapis 344
-
-    *  *  *
-    III priedas
-    A p ie  d in g u s į
-    Vitiem dijos k ra štą
-    Ištrauka iš Foigto
-    (Gesch. Preuss. B. I. S. 677)
-    Tai,
-    kad
-    Aistmarės1
-    gerokai
-    išplėtė savo
-    plotą,
-    ypač į rytus, ir ten, kur šiandien tarp senos Baigos pilies
-    ir Piliavos miesto viską dengia marių vandenys, anks­
-    tesniais laikais buvo gyvenama sausuma, jokiais požiūriais
-    nėra naujas teiginys.
+  citata_rodoma: "333\n\n## Puslapis 344\n\n*  *  *\nIII priedas\nA p ie  d in g u s į\nVitiem dijos k ra štą\nIštrauka iš Foigto\n(Gesch. Preuss. B. I. S. 677)\nTai,\nkad\nAistmarės1\ngerokai\nišplėtė savo\nplotą,\nypač į rytus, ir ten, kur šiandien tarp senos Baigos pilies\nir Piliavos miesto viską dengia marių vandenys, anks­\ntesniais laikais buvo gyvenama sausuma, jokiais požiūriais\nnėra naujas teiginys."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191345
+    - t-001
+
 - id: c-179311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -194,4 +171,4 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197729
+    - t-003

@@ -6,10 +6,10 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'V'
+sukurta: ''
+atnaujinta: ''
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -34,7 +34,6 @@ Varsackytės Kauno miesto ir bažnyčios kultūrų sąveika XVI a.
 
 <a id="claim-t-202231"></a>
 - t-001
-  global_id: t-202231
   teiginys: "Varsackytės Kauno miesto ir bažnyčios kultūrų sąveika XVI a."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Varsackytės Kauno miesto ir bažnyčios kultūrų sąveika XVI a.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202231
+    - t-001

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-80679"></a>
 - t-001
-  global_id: t-80679
   teiginys: "Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji valdžios organai ir nutarta iš Sapiegų atimti pareigybes bei konfiskuoti dvarus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80679
+    - t-001

@@ -35,7 +35,6 @@ Lietuvos valstybė atsirado pirmiausia kaip apsigynimo priemonė, tačiau ji tur
 
 <a id="claim-t-77797"></a>
 - t-001
-  global_id: t-77797
   teiginys: "Mindaugo kariauna buvo sluoksnis, kuriuo rėmėsi kaip apsigynimo priemonė atsiradusi Lietuvos valstybė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Lietuvos valstybė atsirado pirmiausia kaip apsigynimo priemonė, tačiau ji tur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77797
+    - t-001

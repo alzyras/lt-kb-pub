@@ -37,7 +37,6 @@ Lietuvos valstybingumo raida 1914–1918 metais.
 
 <a id="claim-t-78155"></a>
 - t-001
-  global_id: t-78155
   teiginys: "Lietuvos valstybingumo raida 1914–1918 metais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,12 +61,11 @@ Lietuvos valstybingumo raida 1914–1918 metais.
     Ams-
     terdam–New York, 2010.
     Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
-  citata_rodoma: |
-    Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
+  citata_rodoma: "Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78155
+    - t-001

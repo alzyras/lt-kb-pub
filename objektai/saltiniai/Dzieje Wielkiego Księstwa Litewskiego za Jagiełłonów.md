@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-96068"></a>
 - t-001
-  global_id: t-96068
   teiginys: "L. Kolankowskio „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ pirmas tomas apima 1377-1499 m. ir išleistas Varšuvoje 1930 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96068
+    - t-001

@@ -31,7 +31,6 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
 
 <a id="claim-t-20046"></a>
 - t-001
-  global_id: t-20046
   teiginys: "Teisių sargyba buvo vyriausybė, turėjusi padėti valdovui tvarkyti valstybės reikalus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,6 +45,7 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   pagrindžia:
     - c-22781
     - c-166575
+
 ## Citatos
 
 - id: c-22781
@@ -61,15 +61,15 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
     dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
     kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo,
     karo, policijos komisijų – pirmininkai (ministrai).
-  citata_rodoma: |
-    dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
+  citata_rodoma: "dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20046
+    - t-001
+
 - id: c-166575
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -87,3 +87,5 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

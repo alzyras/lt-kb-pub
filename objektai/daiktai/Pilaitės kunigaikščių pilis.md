@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-87088"></a>
 - t-001
-  global_id: t-87088
   teiginys: "Pilaitėje nuo neatmenamų laikų stovėjusi kunigaikščių pilis vėliau priklausė Viršiloms, Glebavičiams, jėzuitams ir Vilniaus universitetui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,4 +95,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87088
+    - t-001

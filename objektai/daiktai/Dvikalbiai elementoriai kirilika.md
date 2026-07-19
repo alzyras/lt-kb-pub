@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-77923"></a>
 - t-001
-  global_id: t-77923
   teiginys: "Etninės Lietuvos kaimo mokyklų mokytojams valdžia norėjo išleisti dvikalbius elementorius su rusiškų žodžių vertimais kirilika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,4 +98,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77923
+    - t-001

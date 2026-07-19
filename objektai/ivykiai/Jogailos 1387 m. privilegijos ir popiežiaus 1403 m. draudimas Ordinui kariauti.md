@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-20211"></a>
 - t-001
-  global_id: t-20211
   teiginys: "1387 m. vasario 22 d. Jogaila išleido raštą, kuriuo prisiekė lietuvius patraukti į savo pusę arba priversti priimti katalikybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,12 +86,11 @@ Nenurodyta
     la išleido raštą, kuriuo visus lietuvius prisiekė patraukti į savo pusę ar net
     jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška
     šalimi, panaikino pagrindinę politinės izoliacijos priežastį.
-  citata_rodoma: |
-    jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška
+  citata_rodoma: "jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20211
+    - t-001

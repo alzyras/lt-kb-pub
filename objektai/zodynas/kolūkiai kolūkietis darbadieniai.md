@@ -39,7 +39,6 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
 
 <a id="claim-t-22193"></a>
 - t-001
-  global_id: t-22193
   teiginys: "Kolūkietis be kolūkio vadovybės leidimo negalėjo išsikelti, o menką atlygį už darbadienius papildydavo pajamomis iš 0,6 ha sodybinio sklypo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
 
 <a id="claim-t-22194"></a>
 - t-002
-  global_id: t-22194
   teiginys: "Varu į kolūkius varomi valstiečiai mažai uždirbo, nesistengė sąžiningai dirbti ir, nepaisydami bausmių, pradėjo vogti iš kolūkių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +60,6 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
 
 <a id="claim-t-183435"></a>
 - t-003
-  global_id: t-183435
   teiginys: "1949 m. pradžioje į kolūkius buvo įstoję 4 proc. visų valstiečių, o metų pabaigoje - jau 62 proc."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -89,15 +86,15 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
     kių (manyta, kad tai nėra nusikaltimas), neliko pagarbos darbui. Smuko
     aukšta tikinčiojo į Dievą valstiečio moralė, kai kurie savo sunkią dalią
     ėmė laistyti degtine.
-  citata_rodoma: |
-    Varu varomi į kolūkius valstiečiai nesistengė sąžiningai dirbti,
+  citata_rodoma: "Varu varomi į kolūkius valstiečiai nesistengė sąžiningai dirbti,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22194
+    - t-002
+
 - id: c-166830
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -116,5 +113,5 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22193
-    - t-183435
+    - t-001
+    - t-003

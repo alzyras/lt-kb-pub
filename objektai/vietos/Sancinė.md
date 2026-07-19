@@ -30,7 +30,6 @@ Prie Sancinės, kur Nemunas šakojasi į Giliją ir Rusnę, buvo piliakalnis, vi
 
 <a id="claim-t-189061"></a>
 - t-001
-  global_id: t-189061
   teiginys: "Prie Sancinės, kur Nemunas šakojasi į Giliją ir Rusnę, buvo piliakalnis, vietinių vadintas Kroniszkas-Pilnis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Prie Sancinės, kur Nemunas šakojasi į Giliją ir Rusnę, buvo piliakalnis, vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189061
+    - t-001

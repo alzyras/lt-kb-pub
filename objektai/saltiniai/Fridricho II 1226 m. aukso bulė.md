@@ -44,7 +44,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 
 <a id="claim-t-61072"></a>
 - t-001
-  global_id: t-61072
   teiginys: "M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,14 +80,11 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     Prūsijoje (III, 33), surado naujų įrodymų, kad duomenys apie lietuvių niokojamus žygius
     1323 m., Gedimino krikštą paremti dokumentais kaip ir duomenys apie Ordino magistro
     Vernerio nužudymą 1330 m. (Papildymas, 20).
-  citata_rodoma: |
-    M. Perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises,
-    panaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis
-    nušvietęs pagal Ordino 1230 m.
+  citata_rodoma: "M. Perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises,\npanaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis\nnušvietęs pagal Ordino 1230 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61072
+    - t-001

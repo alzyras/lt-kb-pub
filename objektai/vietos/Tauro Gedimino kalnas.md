@@ -38,7 +38,6 @@ Aukštutinė pilis ant Tauro kalno. • — 201 Gedimino (vert.
 
 <a id="claim-t-86107"></a>
 - t-001
-  global_id: t-86107
   teiginys: "Jogailos laikų Vilniaus miesto plane Aukštutinė pilis pažymėta ant Tauro kalno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,4 +97,4 @@ Aukštutinė pilis ant Tauro kalno. • — 201 Gedimino (vert.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86107
+    - t-001

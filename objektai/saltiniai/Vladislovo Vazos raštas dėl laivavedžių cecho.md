@@ -7,10 +7,10 @@ datos:
   - '1644 m.'
 date_start: '1644'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Ne visai aišku, kada buvo įkurtas ar bent pradėtas kurti laivavedžių cechas
 
 <a id="claim-t-202302"></a>
 - t-001
-  global_id: t-202302
   teiginys: "Ne visai aišku, kada buvo įkurtas ar bent pradėtas kurti laivavedžių cechas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Ne visai aišku, kada buvo įkurtas ar bent pradėtas kurti laivavedžių cechas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202302
+    - t-001

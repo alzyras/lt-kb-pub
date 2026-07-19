@@ -30,7 +30,6 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 
 <a id="claim-t-60261"></a>
 - t-001
-  global_id: t-60261
   teiginys: "Dargis buvo Žiokos valsčiuje gyvenęs prūsas, nepakentęs baltų žirgų ir po Ditricho bandymų atsisakęs prietaro."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,6 +73,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60261
+    - t-001
+
 ## Ryšiai
 - Dargis gyveno [[objektai/vietos/Semba]]

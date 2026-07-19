@@ -31,7 +31,6 @@ Dusburgietis teigia, kad švabija, švabai Švandenas Švarcburgas Švedija Šve
 
 <a id="claim-t-59046"></a>
 - t-001
-  global_id: t-59046
   teiginys: "Švabija, švabai Švandenas Švarcburgas Švedija Šventainė, u."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,16 +62,11 @@ Dusburgietis teigia, kad švabija, švabai Švandenas Švarcburgas Švedija Šve
     Švarcburgas
     Švedija
     Šventainė, u.
-  citata_rodoma: |
-    Švabija, švabai
-    Švandenas
-    Švarcburgas
-    Švedija
-    Šventainė, u.
+  citata_rodoma: "Švabija, švabai\nŠvandenas\nŠvarcburgas\nŠvedija\nŠventainė, u."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59046
+    - t-001

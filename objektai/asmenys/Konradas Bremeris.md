@@ -3,6 +3,15 @@ tipas: asmuo
 pavadinimas: 'Konradas Bremeris'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
+datos:
+  - '1613 m.'
+date_start: '1613'
+date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,7 +41,6 @@ Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpind
 
 <a id="claim-t-60364"></a>
 - t-001
-  global_id: t-60364
   teiginys: "Konradas Bremeris vedė tris maisto prikrautus laivus į Elbingą ir prie Santyro kovėsi su Sventopelko laivynu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +54,18 @@ Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpind
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60996
-    - c-001
+
+<a id="claim-t-201535"></a>
+- t-002
+  teiginys: "Štai 1613 m. Karaliaučiaus šiporiaus Jokūbo Solfelto laive, be paties šiporiaus 6 statinių alaus, Povilas Tripmogeris gabeno 1 kubilą kaštonų, 15 olandiškų sūrių, 100 apelsinų, 2 kubilus itališkų riešutų, 40 išpieštų molinių dubenėlių, Kondratas Bremeris."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184882
 - susijęs iš [[objektai/ivykiai/Laivų kautynės prie Santyro.md#claim-t-62359|Laivų kautynės prie Santyro]]: Prie Santyro brolis Konradas Bremeris užpuolė Sventopelko laivus ir dalį jų paskandino arba smarkiai apgadino.
 - susijęs iš Santyras: Prie Santyro Konradas Bremeris pamatė jo tykojusį Sventopelką su daugybe žmonių ir 20 laivų.
 - susijęs iš Santyras: Prie Santyro Konradas Bremeris pamatė jo tykojusį Sventopelką su daugybe žmonių ir 20 laivų.
@@ -70,8 +89,7 @@ Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpind
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60364
+
 ## Citatos
 
 - id: c-60996
@@ -90,21 +108,33 @@ Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpind
     288  Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
     5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino
     pilis — Elbingą ir Baigą.
-  citata_rodoma: |
-    Apie laivų kautynes
-
-       Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių
-    brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus
-    laivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe
-    žmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip
-    kilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo
-    laivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai
-    sužalojo. Priešai, matydami juos artėjant prie kranto, pradėjo svaidyti akmenimis. Broliui
-    Konradui išmušė vieną dantį, sužeidė daug kitų, o likusieji sveiki nuplaukė į Elbingą288.
+  citata_rodoma: "Apie laivų kautynes\n\n   Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių\nbrolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus\nlaivus; priartėjęs prie Santyro, jis ten išvydo Sventopelką, kuris jo tykojo su daugybe\nžmonių ir 20 laivų. Juos pamatęs, brolis Konradas neišsigando lyg koks bailys, o kaip\nkilnios širdies viešpačiu pasitikįs karys smarkiai ir narsiai užpuolė juos su visais savo\nlaivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai\nsužalojo. Priešai, matydami juos artėjant prie kranto, pradėjo svaidyti akmenimis. Broliui\nKonradui išmušė vieną dantį, sužeidė daug kitų, o likusieji sveiki nuplaukė į Elbingą288."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60364
+    - t-001
+
+- id: c-184882
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Štai
+    1613 m. Karaliaučiaus šiporiaus Jokūbo Solfelto laive, be paties šiporiaus 6 statinių
+    alaus, Povilas Tripmogeris gabeno 1 kubilą kaštonų, 15 olandiškų sūrių, 100 apelsinų,
+    2 kubilus itališkų riešutų, 40 išpieštų molinių dubenėlių, Kondratas Bremeris turėjo
+    18 įvairaus dydžio talpų su vynu ir degtine, 2 talpas sirupo, 1 - anyžių. Dar įvairesnės
+    buvo gdanskiečio Dovydo Figerio prekės: 1 lašt as itališkų riešutų, 400 svarų kaštonų,
+    3 statinės obuolių, 5 krepšiai didelių razinų, 5 statinaitės figų, 12 statinaičių silkių, 7
+    achteliai sviesto, 1 statinė olandiško sūrio, 2 statinės ir 10 statinaičių Gdansko alaus, 2
+    kapos stiklinių butelių, 5 tuzinai skrybėlių, 5 poros kojinių, 11 akmenų anyžių.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

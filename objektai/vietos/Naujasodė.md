@@ -31,7 +31,6 @@ Puolimą pradėjo I brigada, jos svarbiausias uždavinys buvo pralaužti bolšev
 
 <a id="claim-t-41966"></a>
 - t-001
-  global_id: t-41966
   teiginys: "I brigada turėjo pralaužti bolševikų gynybą gerai įtvirtintoje Galminių, Bružų ir Naujasodės linijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,17 +62,11 @@ Puolimą pradėjo I brigada, jos svarbiausias uždavinys buvo pralaužti bolšev
     minių-Bružų- Naujasodės linijoje.
 
     Karin.
-  citata_rodoma: |
-    Puolimą pradėjo I brigada, jos
-    svarbiausias uždavinys buvo pralaužti
-    bolševikų gynybą gerai įtvirtintoje Gal-
-    minių-Bružų- Naujasodės linijoje.
-
-    Karin.
+  citata_rodoma: "Puolimą pradėjo I brigada, jos\nsvarbiausias uždavinys buvo pralaužti\nbolševikų gynybą gerai įtvirtintoje Gal-\nminių-Bružų- Naujasodės linijoje.\n\nKarin."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41966
+    - t-001

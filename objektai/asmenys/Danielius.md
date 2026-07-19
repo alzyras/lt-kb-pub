@@ -42,8 +42,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 ## Teiginiai
 
 <a id="claim-t-191160"></a>
-- t-001
-  global_id: t-191160
+- t-002
   teiginys: "Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-174042
 
 <a id="claim-t-191161"></a>
-- t-002
-  global_id: t-191161
+- t-003
   teiginys: "Narbutas Danielių apibūdina kaip klastingą, godų ir neramų Pietų Rusios kunigaikščių vadą, 1237 m. vedusį būrius prieš jotvingius prie Brastos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -89,8 +87,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-174043
 
 <a id="claim-t-196816"></a>
-- t-003
-  global_id: t-196816
+- t-005
   teiginys: "Danielius buvo anksčiau suteikęs Tautvilai pagalbą, su kuria Tautvila kartu su jotvingiais ir žemaičiais žygiavo prieš Mindaugą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -103,8 +100,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-178928
 
 <a id="claim-t-197720"></a>
-- t-004
-  global_id: t-197720
+- t-006
   teiginys: "Danielius nesutiko."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -116,8 +112,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-179305
 
 <a id="claim-t-197721"></a>
-- t-005
-  global_id: t-197721
+- t-007
   teiginys: "Tarp jų du apsiginklavę šarvais buvo nukauti, o trečiasis sugautas ir atvestas pas kunigaikštį Danielių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -129,8 +124,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-179306
 
 <a id="claim-t-200975"></a>
-- t-006
-  global_id: t-200975
+- t-008
   teiginys: "Ku nigas Danielius į Lenevaldę iškeliavo, priimtas tenai žmoniškai, ūkinykus apkrikštijo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -142,8 +136,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-184325
 
 <a id="claim-t-200976"></a>
-- t-007
-  global_id: t-200976
+- t-009
   teiginys: "Tas patsai Danielius nusisuko į Turaidą ir pilį Dabrelio, kur, visur žmoniškai pri imtas, svietą krikštijo, nuo tenai nuėjo į Kesės pilį krikštyti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -155,8 +148,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-184326
 
 <a id="claim-t-200977"></a>
-- t-008
-  global_id: t-200977
+- t-010
   teiginys: "Tuo pačiu laiku rados netaikos tarp Veisekės, Kuoknesės kunigaikščio, ir kamendoto Lenevaldės pilės Danieliaus, kurios įgulė antpuolė naktį pasalu Kuoknesės įgulę miegančią ir tenai, vienus netikė lius lietuvius nugalavusi, kitus išblaškiusi, nutvėrė patį."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -180,10 +172,12 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 - susijęs iš Haličo-Voluinės (Ipatijaus) metraštis: Narbutas rašė, kad 1227 m. jotvingių antpuoliai pasiekė Voluinės Vladimirą, kur buvo suimti Sutras Monoduničius ir Stegutas Zebrovičius.
 - susijęs iš Būgas: Būgas jau tuomet buvo Mazovijos ir rusų žemių riba.
 - susijęs iš Vizna: Kunigaikštis Danielius nuėjo prie Viznos, persikėlė per Narevo upę ir iš nelaisvės išvadavo daug krikščionių.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Po karaliaus Danieliaus mirties Rusioje dėl kunigaikščių garbėtroškos ir nesutarimų prasidėjo vidaus maišatis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-169462
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tad, sušaukęs ka-
     L en kai sė k m in g a i už-
@@ -198,14 +192,12 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     spąstus nei tada, kai tie kuo ramiausiai šlaistėsi po
     laukus, nei tada, kai greitosiomis rinkosi vietą stovyk­
     lai, pats atviroje vietoje įsirengė stovyklą.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
+
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-## Citatos
-
 - id: c-174042
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -225,25 +217,15 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     dė savo būrius prieš jotvingius į Brastos apylinkes, bet
     itin dideli pavasario potvyniai ;užtvindė upių krantus, ir
     jo sumanymas nebuvo įgyvendintas3.
-  citata_rodoma: |
-    Tuo tarpu Stegutas tikriausiai žu­
-    vo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­
-    dėjus traukimuisi, Danielius pavijo jotvingių vadą Nebrą
-    ir, ištraukęs jam iš rankų ietį, smarkiai sužeidė ir būtų
-    jau pribaigęs, jeigu nebūtų reikėję padėti Vasilkai, kurį
-    priešai spaudė iš visų pusių. Tad Danielius, palikęs Neb-
-    rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems
-    jotvingiam sK itais metais jotvingių grėsmė iškilo Ru­
-    siai, nes Voluinės kunigaikščiai, prieš išžygiuodami su
-    kariauna į Lenkiją, savo sienų nuo pat Brastos apsauga
-    turėjo patikėti Pinsko kunigaikščiui Vladimirui1 2.
+  citata_rodoma: "Tuo tarpu Stegutas tikriausiai žu­\nvo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­\ndėjus traukimuisi, Danielius pavijo jotvingių vadą Nebrą\nir, ištraukęs jam iš rankų ietį, smarkiai sužeidė ir būtų\njau pribaigęs, jeigu nebūtų reikėję padėti Vasilkai, kurį\npriešai spaudė iš visų pusių. Tad Danielius, palikęs Neb-\nrą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems\njotvingiam sK itais metais jotvingių grėsmė iškilo Ru­\nsiai, nes Voluinės kunigaikščiai, prieš išžygiuodami su\nkariauna į Lenkiją, savo sienų nuo pat Brastos apsauga\nturėjo patikėti Pinsko kunigaikščiui Vladimirui1 2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191160
+    - t-002
+
 - id: c-174043
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -264,7 +246,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191161
+    - t-003
+
 - id: c-178928
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -287,7 +270,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196816
+    - t-005
+
 - id: c-179305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -305,7 +289,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197720
+    - t-006
+
 - id: c-179306
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -324,10 +309,12 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197721
+    - t-007
+
 - id: c-184325
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kunigą
     Aleksandrą nusiuntė į Medžiapolę, kursai visus te­
@@ -342,10 +329,12 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200975
+    - t-008
+
 - id: c-184326
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vienu žodžiu sa­
     kant, kur vien pasivaidino kunigai, ten visi klausė
@@ -360,10 +349,12 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200976
+    - t-009
+
 - id: c-184327
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Albertui
     apipasakoti, kursai vėl nusiuntė kunigą juos Dievo
@@ -389,4 +380,4 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200977
+    - t-010

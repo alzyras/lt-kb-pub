@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189692"></a>
 - t-001
-  global_id: t-189692
   teiginys: "Narbuto perteiktame padavime apkalbėtą vaidilutę norėta užsiūti odiniame maiše su šunimi, katinu ir gyvate ir nuskandinti Nemune."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172575
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto perteiktame padavime apkalbėtą vaidilutę norėta užsiūti odiniame maiše su šunimi, katinu ir gyvate ir nuskandinti Nemune.'
@@ -85,8 +84,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189692
+
 ## Citatos
 
 - id: c-172575
@@ -105,21 +103,11 @@ Nenurodyta
     damos prie šaknų saują rugių arba kviečių; ta pjovėja, kuri
     neapdairiai nupjaus tą surišimą, vadinamą lėle (Kukta), būti­
     nai susižeis.
-  citata_rodoma: |
-    Dėl
-    vaidilučių drabužių taip pat neturime tikrų duomenų; kadan­
-    gi jos buvo Romos vestalių kopija, tai atrodo, kad tikriausiai ir
-    drabužiai buvo į jų panašūs.
-    33 Viename liaudies padavime pasakojama: šventa mergelė (vai­
-    dilutė) buvo apkalbėta, kad susidėjusi su nepažįstamu bajoru; ją ve­
-    žė dvejetu juodų karvių, norėdami užsiūti odiniame maiše su šuni­
-    mi, katinu ir gyvate ir nuskandinti Nemune. Pasirodė tas bajoras rai­
-    tas, šarvuotas, išvadavo mergelę ir liepė sutuokti su ja ant paties upės
-    kranto; tada abu apsikabinę šoko į vandenį ir dingo iš akių.
+  citata_rodoma: "Dėl\nvaidilučių drabužių taip pat neturime tikrų duomenų; kadan­\ngi jos buvo Romos vestalių kopija, tai atrodo, kad tikriausiai ir\ndrabužiai buvo į jų panašūs.\n33 Viename liaudies padavime pasakojama: šventa mergelė (vai­\ndilutė) buvo apkalbėta, kad susidėjusi su nepažįstamu bajoru; ją ve­\nžė dvejetu juodų karvių, norėdami užsiūti odiniame maiše su šuni­\nmi, katinu ir gyvate ir nuskandinti Nemune. Pasirodė tas bajoras rai­\ntas, šarvuotas, išvadavo mergelę ir liepė sutuokti su ja ant paties upės\nkranto; tada abu apsikabinę šoko į vandenį ir dingo iš akių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189692
+    - t-001

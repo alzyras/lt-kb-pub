@@ -37,8 +37,7 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 ## Teiginiai
 
 <a id="claim-t-12548"></a>
-- t-001
-  global_id: t-12548
+- t-003
   teiginys: "Unijos akto 11 paragrafu Jogaila ir Vytautas pažadėjo Vilniuje ir Trakuose įsteigti Lenkijos pavyzdžio kašteliono pareigybę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
     - c-160262
 
 <a id="claim-t-12549"></a>
-- t-002
-  global_id: t-12549
+- t-004
   teiginys: "Vilniuje ir Trakuose turėjo būti įsteigtos vaivados ir kašteliono pareigybės."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -71,8 +69,7 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
     - c-14693
 
 <a id="claim-t-176246"></a>
-- t-003
-  global_id: t-176246
+- t-005
   teiginys: "1566 m. Žemaitijai buvo paskirtas kaštelionas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,8 +81,7 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
     - c-160261
 
 <a id="claim-t-182952"></a>
-- t-004
-  global_id: t-182952
+- t-006
   teiginys: "Kaštelionai karo reikaluose ir teismuose buvo tarsi Vilniaus ir Trakų vaivadų padėjėjai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -138,7 +134,8 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12549
+    - t-004
+
 - id: c-160261
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -148,16 +145,15 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
     viršininkas, vadinamas seniūnu. Jis buvo lygus su vaiva-
     domis. Vėliau Žemaitijai buvo paskirtas ir kaštelionas
     (1566 m.).
-  citata_rodoma: |
-    Vėliau Žemaitijai buvo paskirtas ir kaštelionas
-    (1566 m.).
+  citata_rodoma: "Vėliau Žemaitijai buvo paskirtas ir kaštelionas\n(1566 m.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176246
+    - t-005
+
 - id: c-160262
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -168,17 +164,15 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
     „dignitates, sedes et officia, prout in regno Poloniae instituta
     sunt, instituentur et locabantur in Vilna scilicet palatinus et cas­
     tellanus vilnensis et demum in Trokky“...^2 ).
-  citata_rodoma: |
-    „dignitates, sedes et officia, prout in regno Poloniae instituta
-    sunt, instituentur et locabantur in Vilna scilicet palatinus et cas­
-    tellanus vilnensis et demum in Trokky“...^2 ).
+  citata_rodoma: "„dignitates, sedes et officia, prout in regno Poloniae instituta\nsunt, instituentur et locabantur in Vilna scilicet palatinus et cas­\ntellanus vilnensis et demum in Trokky“...^2 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12548
+    - t-003
+
 - id: c-166351
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -196,4 +190,4 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182952
+    - t-006

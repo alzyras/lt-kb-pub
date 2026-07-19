@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186366"></a>
-- t-001
-  global_id: t-186366
+- t-003
   teiginys: "Po Lietuvos krikšto pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,7 @@ Nenurodyta
     - c-169726
 
 <a id="claim-t-186367"></a>
-- t-002
-  global_id: t-186367
+- t-005
   teiginys: "1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,8 +94,7 @@ Nenurodyta
     - c-169729
 
 <a id="claim-t-186368"></a>
-- t-003
-  global_id: t-186368
+- t-007
   teiginys: "Alegoriniame Europos šalių žygyje prie kryžiaus Lietuva vaizduota kaip paskutinė ir pėsčia valstybė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,8 +112,7 @@ Nenurodyta
     - c-169726
 
 <a id="claim-t-186369"></a>
-- t-004
-  global_id: t-186369
+- t-002
   teiginys: "Po Lietuvos krikšto feodaliniai santykiai įgijo idėjinį pagrindą, nes pavaldiniui buvo nurodoma, kokį tikėjimą išpažinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,8 +129,7 @@ Nenurodyta
     - c-169726
 
 <a id="claim-t-186370"></a>
-- t-005
-  global_id: t-186370
+- t-006
   teiginys: "Lietuvos krikšto metu Vytautas aktyviai aiškino žmonėms tikėjimą ir ragino juos krikštytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -151,8 +146,7 @@ Nenurodyta
     - c-169727
 
 <a id="claim-t-200707"></a>
-- t-006
-  global_id: t-200707
+- t-008
   teiginys: "Viljamas Pochliobkinas 1387 m. Lietuvos krikštą siejo su Genujos pasiuntinių Jogailai ir Vytautui demonstruotu distiliuotu alkoholiu, bet Laužikas pažymi, kad to nepatvirtina nepriklausomi šaltiniai."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -206,9 +200,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186366
-    - t-186368
-    - t-186369
+    - t-003
+    - t-007
+    - t-002
 
 - id: c-169727
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -232,7 +226,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186370
+    - t-006
 
 - id: c-169729
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -255,7 +249,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186367
+    - t-005
 
 - id: c-184052
   autorius: "Rimvydas Laužikas"
@@ -265,8 +259,5 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200707
+    - t-008

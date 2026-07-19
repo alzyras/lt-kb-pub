@@ -36,8 +36,7 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
 ## Teiginiai
 
 <a id="claim-t-184465"></a>
-- t-001
-  global_id: t-184465
+- t-002
   teiginys: "Augustas Liudvigas Šleceris 1776 m. išleido veikalą apie Lietuvą kaip buvusią savarankišką valstybę."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -55,10 +54,9 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, leidimo metus ir veikalo pobūdį."
   pagrindžia:
     - c-167818
-    - c-001
+
 <a id="claim-t-190692"></a>
-- t-002
-  global_id: t-190692
+- t-003
   teiginys: "Augustas Liudvigas Šleceris rašė, kad prūsai prieš tūkstantį metų kavalerija nugalėdavo savo užpuolikus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -76,10 +74,9 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173574
-    - c-002
+
 <a id="claim-t-190693"></a>
-- t-003
-  global_id: t-190693
+- t-004
   teiginys: "Teodoras Narbutas svarstė, kad Šleceris galėjo nesilankyti prie Baltijos, bet rėmėsi gerais senovės šaltiniais apie Šiaurės kraštus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -116,8 +113,6 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184465
 - c-002
   santrauka: 'Augustas Liudvigas Šleceris rašė, kad prūsai prieš tūkstantį metų kavalerija nugalėdavo savo užpuolikus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -133,8 +128,7 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190692
+
 ## Citatos
 
 - id: c-167818
@@ -151,20 +145,15 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
     A, L. Šleceris atmetė legendinę Lietuvos istorijos
     dalį, replikuodamas: kol lietuviai neturėję savo vals­
     tybės, tol jie neturėję ir savo istorijos.
-  citata_rodoma: |
-    Vieną knygą jis
-    skyrė Lietuvos, Kuršo ir Livonijos istorijai, o kitą —
-    vien Lietuvai, kaip buvusiai savarankiškai valstybei
-    (A. L. Schlozer. Geschichte von Littauen, als einem
-    eigenen Grossfūrstenthume, bis zum J. 1569. Gottin­
-    gen, 1776),
+  citata_rodoma: "Vieną knygą jis\nskyrė Lietuvos, Kuršo ir Livonijos istorijai, o kitą —\nvien Lietuvai, kaip buvusiai savarankiškai valstybei\n(A. L. Schlozer. Geschichte von Littauen, als einem\neigenen Grossfūrstenthume, bis zum J. 1569. Gottin­\ngen, 1776),"
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184465
+    - t-002
+
 - id: c-173574
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -178,20 +167,15 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
     savo užpuolikus kavalerija“.
     Abejoju, ar raitos medžioklės išmokė juos to meno,
     nes, gyvenant tarp miškų ir pelkių, sunku joti arkliais į
-  citata_rodoma: |
-    Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.
-    84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­
-    vo žemesnio išsivystymo lygio todėl, kad nežinojo raitos
-    medžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­
-    limos Siaurės genčių, jau prieš 1000 metų nugalėdavę
-    savo užpuolikus kavalerija“.
+  citata_rodoma: "Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.\n84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­\nvo žemesnio išsivystymo lygio todėl, kad nežinojo raitos\nmedžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­\nlimos Siaurės genčių, jau prieš 1000 metų nugalėdavę\nsavo užpuolikus kavalerija“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190692
+    - t-003
+
 - id: c-173575
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -215,4 +199,4 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190693
+    - t-004

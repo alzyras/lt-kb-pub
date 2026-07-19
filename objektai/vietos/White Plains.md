@@ -39,7 +39,6 @@ Tam įtakos turėjo 1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios l
 
 <a id="claim-t-21930"></a>
 - t-001
-  global_id: t-21930
   teiginys: "1974 m. spalio 26–27 d. White Plainse vyko lietuvių laisvinimo darbo konferencija, patvirtinusi siekį atstatyti nepriklausomą Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,12 +71,11 @@ Tam įtakos turėjo 1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios l
     1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios lietuvių lais-
     vinimo darbo konferencijos patvirtinta nuostata „siekti nepriklausomos
     Lietuvos atstatymo, remiantis nekintama lietuvių tautos valia“.
-  citata_rodoma: |
-    vinimo darbo konferencijos patvirtinta nuostata „siekti nepriklausomos
+  citata_rodoma: "vinimo darbo konferencijos patvirtinta nuostata „siekti nepriklausomos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21930
+    - t-001
